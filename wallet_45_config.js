@@ -1,1 +1,1 @@
-var mnemonic = "vessel stand solution sting purchase shed combine clerk cart paddle lumber clarify";
+var mnemonic = "patrol clerk legend floor gorilla reduce drift palm misery hold cradle write";

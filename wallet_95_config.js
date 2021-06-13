@@ -1,1 +1,1 @@
-var mnemonic = "million globe bone pudding couch brown cherry fancy broom letter panel nerve";
+var mnemonic = "gospel frog awful immune vague away cook brisk advance palm waste bullet";

@@ -1,1 +1,1 @@
-var mnemonic = "pig catalog hold total spy rabbit kind brass elder famous zero hazard";
+var mnemonic = "ceiling dance ticket cinnamon suggest result cheese spike lumber kid burden write";

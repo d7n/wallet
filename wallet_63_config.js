@@ -1,1 +1,1 @@
-var mnemonic = "pitch law yard fossil banana stereo visual shrimp load dust loop expire";
+var mnemonic = "common cattle beach jewel snap end height around chalk unveil predict kid";

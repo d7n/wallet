@@ -1,1 +1,1 @@
-var mnemonic = "proud latin dumb patch shiver pottery energy crush plate jungle swing random";
+var mnemonic = "slogan remove zebra thought dizzy smoke april pretty wife action price night";

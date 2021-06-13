@@ -1,1 +1,1 @@
-var mnemonic = "bleak increase weapon author zone confirm connect weasel edit churn team embody";
+var mnemonic = "hard govern ceiling outside boss source card method item resource grid super";

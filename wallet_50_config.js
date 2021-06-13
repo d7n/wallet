@@ -1,1 +1,1 @@
-var mnemonic = "moment hundred wonder that plastic host cry response goose drift observe deliver";
+var mnemonic = "category tree catalog tape garden stamp flat wool harvest marble beef enter";

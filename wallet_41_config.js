@@ -1,1 +1,1 @@
-var mnemonic = "lab catch debate oak segment glove eyebrow exercise cause gesture anger sketch";
+var mnemonic = "help poverty meadow access eye advance island identify machine salmon zone payment";

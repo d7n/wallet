@@ -1,1 +1,1 @@
-var mnemonic = "myth flock rough rhythm finger length aunt derive consider side cabbage rotate";
+var mnemonic = "grant tumble resemble token mind record vibrant bid wedding limb ripple skirt";

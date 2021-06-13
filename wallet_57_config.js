@@ -1,1 +1,1 @@
-var mnemonic = "jealous drift stone open yellow chicken pipe man write boost useful search";
+var mnemonic = "blue drama broccoli retire color sugar repeat tumble bottom category major trick";

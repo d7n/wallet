@@ -1,1 +1,1 @@
-var mnemonic = "bright owner sphere bird faith service human fat deny bunker awake swear";
+var mnemonic = "ticket rib shadow still art help world please stuff peasant film velvet";

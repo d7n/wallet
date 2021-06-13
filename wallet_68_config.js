@@ -1,1 +1,1 @@
-var mnemonic = "survey change tube law valve tower sell arch vault act where second";
+var mnemonic = "year snack brush history square bracket sorry bus pole claim violin poem";

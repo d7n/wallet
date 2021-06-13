@@ -1,1 +1,1 @@
-var mnemonic = "farm deer throw oxygen require fall tumble flash brick between toe below";
+var mnemonic = "elder remain either rice island skirt accident picture loop ignore dentist later";

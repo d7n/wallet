@@ -1,1 +1,1 @@
-var mnemonic = "spatial amused rib alpha month double fall exhibit pupil wage junk prefer";
+var mnemonic = "staff diagram grunt urban car arctic model quality empty bean melt impulse";

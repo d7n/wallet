@@ -1,1 +1,1 @@
-var mnemonic = "swarm license velvet erode cover unfold size clean rubber lecture surprise pioneer";
+var mnemonic = "bus mystery grocery stable bounce behind another wish garbage slam nation horn";

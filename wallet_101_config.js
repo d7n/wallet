@@ -1,1 +1,1 @@
-var mnemonic = "ugly record slab sand silk apology letter ceiling primary lonely daring entry";
+var mnemonic = "soup grab orchard illness frame leave window phrase clump release helmet skin";

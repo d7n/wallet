@@ -1,1 +1,1 @@
-var mnemonic = "talk hope lock ladder walnut humble crush draw salad jungle image fold";
+var mnemonic = "burger walk horse begin borrow reduce rubber write prize document pill verify";

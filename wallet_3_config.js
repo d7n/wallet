@@ -1,1 +1,1 @@
-var mnemonic = "toe trigger ancient hundred sick refuse curve insane original echo rescue climb";
+var mnemonic = "okay pumpkin stuff today usage flavor elder improve home tent helmet improve";

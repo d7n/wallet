@@ -1,1 +1,1 @@
-var mnemonic = "desert endorse script link equip combine aware vapor day van window lamp";
+var mnemonic = "intact expose nose grant pistol nest lawn cheap dream flee couple tree";

@@ -1,1 +1,1 @@
-var mnemonic = "trim mandate strike foot visa boss rain melody crush video stable solar";
+var mnemonic = "few keen cream ahead wage shoe fiber rib image mystery supply catch";

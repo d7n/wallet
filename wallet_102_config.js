@@ -1,1 +1,1 @@
-var mnemonic = "ugly trust bag cabbage journey assume security boss bacon reunion trend bus";
+var mnemonic = "skill collect term tenant stomach stove spirit equip cross believe loud want";

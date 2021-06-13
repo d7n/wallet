@@ -1,1 +1,1 @@
-var mnemonic = "gospel disagree wisdom aim snow pond anger drop weird brown sponsor unfold";
+var mnemonic = "gate right noise weather debate churn regret staff when cattle water slush";

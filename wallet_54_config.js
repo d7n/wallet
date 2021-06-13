@@ -1,1 +1,1 @@
-var mnemonic = "sick erode stuff frog camp still reopen awake result best rate quality";
+var mnemonic = "verb park leader also joke sudden property panda pole peanut breeze employ";

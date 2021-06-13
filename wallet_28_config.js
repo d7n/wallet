@@ -1,1 +1,1 @@
-var mnemonic = "issue vivid club empower crawl outer foster slide seek throw hair senior";
+var mnemonic = "fee arrow long notable winner sauce mean drift note include scout frog";

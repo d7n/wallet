@@ -1,1 +1,1 @@
-var mnemonic = "sound swift fatal distance hurry turn subject squirrel good abandon main wear";
+var mnemonic = "hover weekend tunnel label solve glove medal attack agree that ready pioneer";

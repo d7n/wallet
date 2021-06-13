@@ -1,1 +1,1 @@
-var mnemonic = "climb fix project jar rocket card cart plug barely canvas dinner matrix";
+var mnemonic = "build scale shrimp field slender life ability lens always ankle mushroom upset";

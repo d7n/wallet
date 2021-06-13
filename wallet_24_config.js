@@ -1,1 +1,1 @@
-var mnemonic = "december this energy concert copper since leave razor mansion shoulder give despair";
+var mnemonic = "bring bounce shallow six found flavor retire dinner expect direct safe float";

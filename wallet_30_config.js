@@ -1,1 +1,1 @@
-var mnemonic = "sword zone lottery consider struggle draft card pony pony safe grace cactus";
+var mnemonic = "raven leave odor behave unhappy ugly phone fit shrimp barely blame mom";

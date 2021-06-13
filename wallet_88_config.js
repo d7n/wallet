@@ -1,1 +1,1 @@
-var mnemonic = "fit census picnic engage select reveal mask gaze group yard other people";
+var mnemonic = "solar yard above window jaguar swap crime riot wolf approve iron useful";

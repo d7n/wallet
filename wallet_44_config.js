@@ -1,1 +1,1 @@
-var mnemonic = "tornado assault gaze region soon sun attack glue top relief sudden guitar";
+var mnemonic = "fever banana seven paper captain raven scan spread great craft exhaust version";

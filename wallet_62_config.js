@@ -1,1 +1,1 @@
-var mnemonic = "cargo short torch diagram illness artist tornado avocado you number unable shy";
+var mnemonic = "there text always grit skin question merry blouse guard body mansion memory";

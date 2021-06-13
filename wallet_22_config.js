@@ -1,1 +1,1 @@
-var mnemonic = "crane excess allow struggle rare guilt grace dune dust almost shaft then";
+var mnemonic = "huge endless service cable cargo vendor among husband property focus hawk goat";

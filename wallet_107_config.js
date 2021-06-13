@@ -1,1 +1,1 @@
-var mnemonic = "burden isolate ozone section short oval stem such lottery clump engage panda";
+var mnemonic = "tiny capital culture obtain camera praise foster enact now slab detect pottery";

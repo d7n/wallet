@@ -1,1 +1,1 @@
-var mnemonic = "tomato never kite panel cattle potato broken mother cart civil gauge tower";
+var mnemonic = "dirt member weather gift minute egg vital task banner soccer thumb run";

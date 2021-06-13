@@ -1,1 +1,1 @@
-var mnemonic = "solar defy uncle melt such runway all mechanic tray stage above dinosaur";
+var mnemonic = "rice game urban bulb drill beef wrong plate artefact change problem average";

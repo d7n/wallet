@@ -1,1 +1,1 @@
-var mnemonic = "despair cruise diet tuna juice swarm exclude over heavy hole remember hamster";
+var mnemonic = "car diagram regular abandon must video city silly very ski feed pencil";

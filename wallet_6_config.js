@@ -1,1 +1,1 @@
-var mnemonic = "affair used change charge purity meadow tennis sound bunker visual yard mosquito";
+var mnemonic = "clump boss any resist brass birth human believe nothing language nice sleep";

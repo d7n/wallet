@@ -1,1 +1,1 @@
-var mnemonic = "master camp retire chaos pumpkin session nature enough gym spring miracle rug";
+var mnemonic = "wave weird group remove ladder catch elite crane trophy spend stay scissors";

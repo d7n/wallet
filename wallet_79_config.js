@@ -1,1 +1,1 @@
-var mnemonic = "nuclear sweet rural salad help title curtain ensure become work alarm aware";
+var mnemonic = "talent kangaroo okay toy list fatal turkey speed govern fitness spot real";

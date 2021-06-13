@@ -1,1 +1,1 @@
-var mnemonic = "bitter rocket another two tool vehicle simple kidney radar infant deputy clinic";
+var mnemonic = "bird diet poet indoor glare key mercy innocent brick demise frost vendor";

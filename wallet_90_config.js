@@ -1,1 +1,1 @@
-var mnemonic = "evil school husband proud virus tell document fetch famous shiver inform obey";
+var mnemonic = "silent repeat notice fortune carry work ketchup prize chronic certain spoon bar";

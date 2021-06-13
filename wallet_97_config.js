@@ -1,1 +1,1 @@
-var mnemonic = "range decrease crowd raccoon palace faith primary panic wasp target erosion host";
+var mnemonic = "misery lunar skin easy novel churn garment curtain normal regular mass pig";

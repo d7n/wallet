@@ -1,1 +1,1 @@
-var mnemonic = "remember awesome bless consider list tuna keen enrich oval winner solution simple";
+var mnemonic = "cement magic grab ostrich category access wisdom crouch arrest devote minor noble";

@@ -1,1 +1,1 @@
-var mnemonic = "delay trick away wash virus poem aware exchange lecture material page gold";
+var mnemonic = "middle girl cost chef jeans melt staff butter planet plug burden abuse";

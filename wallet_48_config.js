@@ -1,1 +1,1 @@
-var mnemonic = "engage glare physical tattoo jungle debate improve ship run amount ritual gloom";
+var mnemonic = "winter smooth toward coffee piano jump clutch crop oval two surface jeans";

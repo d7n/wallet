@@ -1,1 +1,1 @@
-var mnemonic = "spirit horse truly extend ritual make account mass sense husband cabin disorder";
+var mnemonic = "track charge faint raccoon aisle squirrel balcony throw fix inside family unveil";

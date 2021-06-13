@@ -1,1 +1,1 @@
-var mnemonic = "wheel sister prison since board expand oxygen tragic bullet grace athlete vehicle";
+var mnemonic = "permit escape soccer office okay ramp miracle object cart insane dust renew";

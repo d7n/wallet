@@ -1,1 +1,1 @@
-var mnemonic = "palm pair weather virus patch verb letter doll season brick fly cluster";
+var mnemonic = "rubber aware kingdom sea cloud social urban insane armed stay parade famous";

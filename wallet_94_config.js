@@ -1,1 +1,1 @@
-var mnemonic = "festival exercise egg sword daughter mix peace holiday risk silk fiction shadow";
+var mnemonic = "pretty bleak solve normal avoid boss unlock output stumble glimpse idle zoo";

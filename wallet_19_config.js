@@ -1,1 +1,1 @@
-var mnemonic = "van afford lucky object soap update disease father symptom life donate fossil";
+var mnemonic = "chuckle crack rubber plunge proud rebuild south pet syrup liar science outside";

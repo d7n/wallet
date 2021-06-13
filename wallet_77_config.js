@@ -1,1 +1,1 @@
-var mnemonic = "save chimney alley subject island approve dish govern elevator doctor swear crew";
+var mnemonic = "toilet dust access social shuffle crash recycle tank blouse danger attack devote";

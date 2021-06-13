@@ -1,1 +1,1 @@
-var mnemonic = "food lawn gallery roof sort later cruel organ tape know world eye";
+var mnemonic = "outside credit clown waste come virus warm jewel such immense unhappy ice";

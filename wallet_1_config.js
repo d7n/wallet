@@ -1,1 +1,1 @@
-var mnemonic = "hamster play device find manual brave minimum dune whip select raven account";
+var mnemonic = "weather divide pizza tell aisle ball level midnight exercise ceiling supreme hurt";

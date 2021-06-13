@@ -1,1 +1,1 @@
-var mnemonic = "swim clock useful vendor inhale away bike web wash disease flight noble";
+var mnemonic = "during frown whisper exhaust coffee pumpkin scare such baby pottery myself material";

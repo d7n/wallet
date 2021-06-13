@@ -1,1 +1,1 @@
-var mnemonic = "coconut outer collect despair post height task palace dinosaur ramp segment sunset";
+var mnemonic = "frame rate barrel usual olive affair step velvet speed profit soda ask";

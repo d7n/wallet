@@ -1,1 +1,1 @@
-var mnemonic = "hair gorilla pave knife fame regret reason super rural uncover dose canvas";
+var mnemonic = "curtain floor claim travel village thing chair coin wall logic explain afraid";

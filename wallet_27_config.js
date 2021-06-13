@@ -1,1 +1,1 @@
-var mnemonic = "clock barely blame crowd drift method sauce hood grab fun canal hospital";
+var mnemonic = "clip outside rubber clarify nothing furnace atom ice old faith spawn easy";

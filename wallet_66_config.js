@@ -1,1 +1,1 @@
-var mnemonic = "unlock mix rather fade absurd tilt process vehicle flavor search fee flat";
+var mnemonic = "miracle across pigeon wheat marine pole priority render battle label access leader";

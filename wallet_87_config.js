@@ -1,1 +1,1 @@
-var mnemonic = "seat change truck swap business artefact useful ostrich inmate six audit dinner";
+var mnemonic = "render solid snow arch swift pulp inform middle someone off post roast";

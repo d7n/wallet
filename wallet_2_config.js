@@ -1,1 +1,1 @@
-var mnemonic = "virus comic apple wrist mimic craft cruel enemy truth brief creek bullet";
+var mnemonic = "kiwi nerve staff narrow quarter rare leisure kangaroo weekend gas adapt cigar";

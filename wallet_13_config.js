@@ -1,1 +1,1 @@
-var mnemonic = "insect bottom prison twin celery brief enter circle element wheel estate mercy";
+var mnemonic = "waste note tell real elite fiscal kind vicious blossom scrap energy aerobic";

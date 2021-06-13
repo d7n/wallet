@@ -1,1 +1,1 @@
-var mnemonic = "final glory region license phrase citizen supreme regular wreck case world august";
+var mnemonic = "gentle another planet group floor lock fresh hard box swallow remember identify";

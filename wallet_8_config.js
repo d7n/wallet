@@ -1,1 +1,1 @@
-var mnemonic = "curtain endless hybrid output cruel token royal lunar gas nice size net";
+var mnemonic = "change symbol valley upon vocal crunch leg patient argue hawk artwork stadium";

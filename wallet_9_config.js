@@ -1,1 +1,1 @@
-var mnemonic = "actor noble combine report prison what border mosquito balance repeat east puzzle";
+var mnemonic = "despair churn visa ball exist hover type nothing weapon erosion drama pull";

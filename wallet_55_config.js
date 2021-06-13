@@ -1,1 +1,1 @@
-var mnemonic = "right farm found call science inside bag autumn injury special recall have";
+var mnemonic = "butter north obtain embody call attend vapor prefer dove dice private humble";

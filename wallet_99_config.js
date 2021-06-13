@@ -1,1 +1,1 @@
-var mnemonic = "oven burden prosper garbage toast visit taste word juice upon pilot devote";
+var mnemonic = "deposit increase slide slow session false stadium impose cheap sock pulse jealous";

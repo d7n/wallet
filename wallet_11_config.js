@@ -1,1 +1,1 @@
-var mnemonic = "visual exchange north double strike barrel educate minimum stereo flush comfort enact";
+var mnemonic = "layer elder image fuel kite safe engage more similar all raven plastic";

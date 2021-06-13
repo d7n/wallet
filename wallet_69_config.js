@@ -1,1 +1,1 @@
-var mnemonic = "volume cluster dismiss rely uphold outdoor human anxiety danger bone pitch pulp";
+var mnemonic = "chair warfare bachelor flight logic tag check select amateur hope equal box";

@@ -1,1 +1,1 @@
-var mnemonic = "record search breeze crash stuff burst zebra light dismiss bike duty make";
+var mnemonic = "wide duck execute recall quantum bridge quit apart crack final custom obvious";

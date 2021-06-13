@@ -1,1 +1,1 @@
-var mnemonic = "asthma two they ethics dad rough snap away drastic venue boss olive";
+var mnemonic = "motion copy ostrich youth option town mansion kitten approve more actor hello";

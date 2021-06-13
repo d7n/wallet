@@ -1,1 +1,1 @@
-var mnemonic = "code weird favorite way base shell group chase hybrid explain mountain funny";
+var mnemonic = "faith fortune prosper evil disagree silly learn august cream saddle clutch trophy";

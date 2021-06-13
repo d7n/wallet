@@ -1,1 +1,1 @@
-var mnemonic = "success chef nurse chief garage treat add live whip host inherit polar";
+var mnemonic = "stove fuel globe pizza real citizen avoid situate breeze shoe what dust";

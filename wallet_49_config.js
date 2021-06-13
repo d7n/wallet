@@ -1,1 +1,1 @@
-var mnemonic = "worry cross alone prosper wreck endorse improve kingdom pyramid cloth dash magnet";
+var mnemonic = "source original globe basket room face manage clutch charge naive egg tourist";

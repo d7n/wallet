@@ -1,1 +1,1 @@
-var mnemonic = "legend rural code elder visual taste infant dash cave wet void brass";
+var mnemonic = "primary upset uncover degree dutch recipe unknown decorate inmate finish slot tonight";

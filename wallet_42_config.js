@@ -1,1 +1,1 @@
-var mnemonic = "vanish express code grape kick hundred emotion human charge shine gun gossip";
+var mnemonic = "random kick about real exact attract wealth cancel remind isolate april sunset";

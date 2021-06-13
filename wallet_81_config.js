@@ -1,1 +1,1 @@
-var mnemonic = "critic loop manual region sudden original industry cost wisdom spray mass ramp";
+var mnemonic = "sausage input goat door denial genius flame fluid junk easily dash clock";

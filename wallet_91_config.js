@@ -1,1 +1,1 @@
-var mnemonic = "canyon panther drink baby much lobster latin outside know measure wet client";
+var mnemonic = "naive nephew pig grunt plug riot proof olympic sunny indicate trouble frequent";

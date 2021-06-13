@@ -1,1 +1,1 @@
-var mnemonic = "van leave town picture gold vault used blast salad digital save timber";
+var mnemonic = "raise bean suffer depth merit around scale rare captain mammal help motor";

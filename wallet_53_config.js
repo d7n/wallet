@@ -1,1 +1,1 @@
-var mnemonic = "small loud summer gun horse pear ostrich airport today edge holiday midnight";
+var mnemonic = "moon category hammer consider typical between nation food ethics rural aspect fee";

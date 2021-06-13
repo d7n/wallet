@@ -1,1 +1,1 @@
-var mnemonic = "put target negative shield assist hungry cost helmet enroll guilt advance thumb";
+var mnemonic = "safe chaos object rally daring beyond remind noodle theory forget magic faculty";

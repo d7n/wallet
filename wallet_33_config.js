@@ -1,1 +1,1 @@
-var mnemonic = "pipe giraffe deal act gun garlic modify state sketch then capable client";
+var mnemonic = "ramp van flip crop valid toy right visual light owner spatial chronic";

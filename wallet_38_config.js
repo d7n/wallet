@@ -1,1 +1,1 @@
-var mnemonic = "script position flower impose obtain edge girl grain kiwi leave nephew brain";
+var mnemonic = "traffic like tell purse hand joy solve air humor paper key exclude";

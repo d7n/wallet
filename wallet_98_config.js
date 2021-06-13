@@ -1,1 +1,1 @@
-var mnemonic = "stereo liquid dial grab six lonely tattoo observe lemon invite abstract impact";
+var mnemonic = "mistake jump tent egg popular pear mansion exercise riot sort slogan ceiling";

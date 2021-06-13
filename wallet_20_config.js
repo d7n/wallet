@@ -1,1 +1,1 @@
-var mnemonic = "dove measure armor cigar salad talk anchor shuffle visit east barrel skirt";
+var mnemonic = "own horror inhale airport clay awesome core below antique equip practice celery";

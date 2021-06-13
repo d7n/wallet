@@ -1,1 +1,1 @@
-var mnemonic = "beach join nuclear soft luggage motor smooth able system shadow husband issue";
+var mnemonic = "always river airport speed year onion reject live useful couple security usual";

@@ -1,1 +1,1 @@
-var mnemonic = "slab hour prison any apple stereo pumpkin gorilla piano flash return task";
+var mnemonic = "promote civil between text glue claw sleep already shine nephew draft winter";
