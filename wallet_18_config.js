@@ -1,1 +1,1 @@
-var mnemonic = "today giggle need van perfect buffalo maid tenant media sell fee enact";
+var mnemonic = "demise pigeon during token tree smile jungle blade pole more minimum harvest";

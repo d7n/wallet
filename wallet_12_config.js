@@ -1,1 +1,1 @@
-var mnemonic = "theme ribbon boil clown antique fog eight weekend book muffin innocent inherit";
+var mnemonic = "guilt smoke judge palace runway attack horse lottery coyote vacuum deny add";

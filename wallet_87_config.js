@@ -1,1 +1,1 @@
-var mnemonic = "rabbit praise amateur motion fold reject regular interest music course shadow riot";
+var mnemonic = "group search regular ability anchor fire vital false eyebrow science target toy";

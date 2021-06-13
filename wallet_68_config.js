@@ -1,1 +1,1 @@
-var mnemonic = "slab public oak envelope copy silver talent extra silly define during unfair";
+var mnemonic = "story degree awkward floor basket fly collect diamond office sponsor damp radar";

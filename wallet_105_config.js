@@ -1,1 +1,1 @@
-var mnemonic = "coral forget skull unlock enough mutual vendor season crash congress wagon general";
+var mnemonic = "critic bench scan reflect frame note impulse rug gossip cart armed place";

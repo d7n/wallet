@@ -1,1 +1,1 @@
-var mnemonic = "keep please slight rib valley glimpse story jump wagon verify movie cook";
+var mnemonic = "vehicle popular frequent gown expand orbit matrix host plate eye tennis believe";

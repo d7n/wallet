@@ -1,1 +1,1 @@
-var mnemonic = "struggle attack chronic bounce explain gentle author jelly journey nurse entry fortune";
+var mnemonic = "garment today debris update voyage news liberty slide sure uniform where gravity";

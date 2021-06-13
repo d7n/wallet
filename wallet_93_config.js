@@ -1,1 +1,1 @@
-var mnemonic = "rough wave frame plastic valley master warfare live fly avocado owner maple";
+var mnemonic = "velvet frequent valve collect swap require episode burger cactus analyst can embrace";

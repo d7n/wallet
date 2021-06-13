@@ -1,1 +1,1 @@
-var mnemonic = "sniff deputy consider ready emerge report cheap bike build galaxy today portion";
+var mnemonic = "horse tuna riot client report skull horror update room flash field clown";

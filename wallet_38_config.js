@@ -1,1 +1,1 @@
-var mnemonic = "scrub net divorce extend couple shadow media open hood true spoil double";
+var mnemonic = "fabric measure approve only kit athlete youth usual useful maid screen sun";

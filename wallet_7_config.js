@@ -1,1 +1,1 @@
-var mnemonic = "mistake cigar noble rose apology glue balcony medal fork soccer orange kiss";
+var mnemonic = "raven fruit position reject rich coil crazy beach version cause improve curve";

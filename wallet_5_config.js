@@ -1,1 +1,1 @@
-var mnemonic = "stove guilt happy combine face slush crew begin super blade teach wolf";
+var mnemonic = "text baby box people reward legend high hold hood cruise verify stuff";

@@ -1,1 +1,1 @@
-var mnemonic = "hill moral ocean weekend craft latin boat health patient hedgehog leaf gym";
+var mnemonic = "option rack affair scrub spare execute quick gift banner material enrich pass";

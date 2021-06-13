@@ -1,1 +1,1 @@
-var mnemonic = "pyramid clock student pencil music paddle rocket feel there canoe panda waste";
+var mnemonic = "kingdom force quit grab twin verify oyster old depart guide grit switch";

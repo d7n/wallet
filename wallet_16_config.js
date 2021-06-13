@@ -1,1 +1,1 @@
-var mnemonic = "foam panda pond garment awful bar tiger toy arrest autumn faith plate";
+var mnemonic = "ignore reform skull grocery viable tent kidney enlist twelve goat skull chuckle";

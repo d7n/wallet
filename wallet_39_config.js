@@ -1,1 +1,1 @@
-var mnemonic = "wine wrist enhance confirm adapt short unable garage matter urge inflict season";
+var mnemonic = "jump kind rescue erosion ocean cute shrug jar session sheriff empty emotion";

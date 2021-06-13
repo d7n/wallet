@@ -1,1 +1,1 @@
-var mnemonic = "shuffle lens protect differ small pulp maid august frost fatal aisle club";
+var mnemonic = "silly base welcome match remain believe acid alter wet phone essay rigid";

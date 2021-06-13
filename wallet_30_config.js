@@ -1,1 +1,1 @@
-var mnemonic = "sick share solid play denial crucial name student amused hungry spirit crew";
+var mnemonic = "derive eagle hundred wheat team robust soup cash drink flee kid chase";

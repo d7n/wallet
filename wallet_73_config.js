@@ -1,1 +1,1 @@
-var mnemonic = "small arena pigeon pulp travel text right piano mutual feed this fine";
+var mnemonic = "sea space vault shed brisk smooth funny machine present diesel airport foster";

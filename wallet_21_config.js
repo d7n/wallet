@@ -1,1 +1,1 @@
-var mnemonic = "brush ensure reflect lion art trial produce rather maze ghost hedgehog aunt";
+var mnemonic = "glow doll still palm lesson surface crater dove hurdle mixture glow memory";

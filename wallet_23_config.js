@@ -1,1 +1,1 @@
-var mnemonic = "barrel cat feel vehicle race universe own axis gaze funny school number";
+var mnemonic = "awful merit best bulb now rough cradle ski garden wave property athlete";

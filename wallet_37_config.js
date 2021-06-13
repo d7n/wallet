@@ -1,1 +1,1 @@
-var mnemonic = "census salute trouble beach short brand napkin unlock hedgehog decrease hire small";
+var mnemonic = "raw casual able robot parade jazz oppose pear hero opera monkey culture";

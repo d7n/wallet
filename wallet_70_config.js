@@ -1,1 +1,1 @@
-var mnemonic = "industry then tell forest image pull afraid ginger program mammal glue genius";
+var mnemonic = "nut estate run myself stone clock soccer idle cage leader rigid ketchup";

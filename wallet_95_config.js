@@ -1,1 +1,1 @@
-var mnemonic = "forget essay below borrow antique crack clerk ridge attend this nice alter";
+var mnemonic = "ivory actual never lucky blood lyrics hurry typical rocket section knife hand";

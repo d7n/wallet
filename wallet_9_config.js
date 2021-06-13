@@ -1,1 +1,1 @@
-var mnemonic = "wait suspect original hobby such tail option pizza truly isolate basic reject";
+var mnemonic = "series select dog bid sunset once beyond blade retreat stage furnace over";

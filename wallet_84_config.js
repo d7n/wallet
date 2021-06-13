@@ -1,1 +1,1 @@
-var mnemonic = "vibrant depart box modify electric long salad hobby situate alone symptom tooth";
+var mnemonic = "ghost utility churn gain ring have phrase gloom credit derive address skirt";

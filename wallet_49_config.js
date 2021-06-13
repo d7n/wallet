@@ -1,1 +1,1 @@
-var mnemonic = "spring impact draft find hole bright trick donkey foot chef alien army";
+var mnemonic = "embark party better lumber bonus pet jar body increase certain sheriff curtain";

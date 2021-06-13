@@ -1,1 +1,1 @@
-var mnemonic = "host frame pony list since inject drip possible spawn rabbit resemble arch";
+var mnemonic = "novel pledge abuse buzz method clever sand milk card practice enlist dizzy";

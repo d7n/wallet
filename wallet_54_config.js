@@ -1,1 +1,1 @@
-var mnemonic = "manage afford taxi knee monkey comic critic stage toward mushroom youth subject";
+var mnemonic = "chief cattle drop toss loop civil cube twenty check blouse eight lawsuit";

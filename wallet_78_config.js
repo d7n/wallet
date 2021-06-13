@@ -1,1 +1,1 @@
-var mnemonic = "spot spirit scan evil execute quiz game few slide chunk slogan pencil";
+var mnemonic = "sustain jelly inner illegal debate ivory code equip forest icon stumble ridge";

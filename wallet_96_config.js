@@ -1,1 +1,1 @@
-var mnemonic = "cage case sadness shed marriage option upper tank flash radar purchase reward";
+var mnemonic = "urban old junk minimum fashion attend elite satisfy regret welcome damage calm";

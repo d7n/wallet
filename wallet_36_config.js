@@ -1,1 +1,1 @@
-var mnemonic = "doctor diet transfer ring system else bicycle guide vocal reject share bamboo";
+var mnemonic = "vault lunar people ticket consider luggage intact staff modify sphere satisfy gauge";

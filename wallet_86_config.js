@@ -1,1 +1,1 @@
-var mnemonic = "maid action album song weasel donate lock jealous climb pelican clock lift";
+var mnemonic = "true remind gown cabbage weather zoo goat trick fever limit banner indicate";

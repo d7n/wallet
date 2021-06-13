@@ -1,1 +1,1 @@
-var mnemonic = "smoke duck concert ceiling faint next sting pilot walk safe estate salute";
+var mnemonic = "valley warfare cup cushion flash tongue other object picture story reward dragon";

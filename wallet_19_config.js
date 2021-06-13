@@ -1,1 +1,1 @@
-var mnemonic = "rice safe onion note over luxury notable novel coral letter elder catch";
+var mnemonic = "witness ribbon absurd play task left tomato stairs animal note arrange muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "filter coach topple copy antenna wing plastic casino husband cry crane just";
+var mnemonic = "pottery law swing virus canal patch group material pipe twelve fiction flight";

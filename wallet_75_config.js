@@ -1,1 +1,1 @@
-var mnemonic = "castle able harbor come girl addict arrest trial surround turtle flat immune";
+var mnemonic = "word door flee casino tell bean river mix panther photo section eyebrow";

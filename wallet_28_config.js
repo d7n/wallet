@@ -1,1 +1,1 @@
-var mnemonic = "tragic cradle helmet broom bulk kingdom work speed soda globe room dash";
+var mnemonic = "tortoise resist blind rib document manage road impact hobby boost cannon staff";

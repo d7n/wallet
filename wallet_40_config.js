@@ -1,1 +1,1 @@
-var mnemonic = "region print child then inmate mail genius creek dial fatigue machine another";
+var mnemonic = "always near joke until clay dinner table organ evidence wine dose avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase item quantum rigid curtain duck mobile all silent mix much into";
+var mnemonic = "fly owner broom mail spread copy crew prison humor that great bicycle";

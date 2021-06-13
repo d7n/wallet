@@ -1,1 +1,1 @@
-var mnemonic = "bright dirt winter knife session auto party right genius grape ribbon scrub";
+var mnemonic = "dress forest depth chimney hurt bounce bicycle silver arctic become spider salute";

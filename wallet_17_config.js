@@ -1,1 +1,1 @@
-var mnemonic = "patrol gown horror recipe rule spell effort sense marriage rib movie either";
+var mnemonic = "emotion rescue marine drill game engine business outer among vessel behave bright";

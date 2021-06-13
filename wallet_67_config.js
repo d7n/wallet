@@ -1,1 +1,1 @@
-var mnemonic = "hungry route chuckle tonight moment wisdom disagree thought alley turn this potato";
+var mnemonic = "inside clip squirrel bleak nuclear mechanic cattle lyrics census dad aim elder";

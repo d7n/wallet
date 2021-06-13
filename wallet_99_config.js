@@ -1,1 +1,1 @@
-var mnemonic = "pencil edge beach oven trend cake defy wave spell season unhappy collect";
+var mnemonic = "silly mom smoke turkey post riot ask spirit next priority always noble";

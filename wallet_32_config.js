@@ -1,1 +1,1 @@
-var mnemonic = "fix afford direct pond theme forward phone prosper camp fame fault awake";
+var mnemonic = "process soldier hub empty three wrong allow critic fame present slow comic";

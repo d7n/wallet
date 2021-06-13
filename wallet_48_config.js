@@ -1,1 +1,1 @@
-var mnemonic = "quantum agree icon room speak tortoise jar unknown isolate wool arrive start";
+var mnemonic = "stereo boring lucky father area eternal depth humor this wire music across";

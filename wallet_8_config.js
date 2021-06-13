@@ -1,1 +1,1 @@
-var mnemonic = "purity pitch crop member sauce often above reunion bring school morning shy";
+var mnemonic = "pulp violin luxury transfer palace feel group test know ugly enable despair";

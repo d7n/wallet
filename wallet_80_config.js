@@ -1,1 +1,1 @@
-var mnemonic = "thing doll end unique report clay math elbow car hour gap lawsuit";
+var mnemonic = "suit place laundry spy squirrel mind change market rough announce record loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit happy voice ride now pink grief salute silver remember potato venue";
+var mnemonic = "foam major space winner refuse below autumn leader vendor lunar fit tag";

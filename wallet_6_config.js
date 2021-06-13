@@ -1,1 +1,1 @@
-var mnemonic = "insane exit lava hover side luxury finger shuffle home hat soda material";
+var mnemonic = "possible nose scan thrive autumn easy either cabin fatal predict push tray";

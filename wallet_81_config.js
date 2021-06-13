@@ -1,1 +1,1 @@
-var mnemonic = "captain rich yard ice disorder reduce dry script label mean romance sand";
+var mnemonic = "very ten term aware steak guitar urban often urban render behind digital";

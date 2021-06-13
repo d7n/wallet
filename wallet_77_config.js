@@ -1,1 +1,1 @@
-var mnemonic = "mammal laugh clinic vapor now dream swear protect select connect ostrich raise";
+var mnemonic = "mention buffalo cage include clog rate repeat invest coast matter junk word";

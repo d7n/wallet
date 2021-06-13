@@ -1,1 +1,1 @@
-var mnemonic = "avocado knock secret abandon flush worth type sad prepare danger party impulse";
+var mnemonic = "near cream repair vault range oblige toilet creek assist apple spike buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk model essence harvest coil dune time before suit armor above tattoo";
+var mnemonic = "act vast kitten wreck destroy kit economy civil donkey snow risk minimum";

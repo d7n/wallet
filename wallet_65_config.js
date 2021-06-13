@@ -1,1 +1,1 @@
-var mnemonic = "control never hurdle debris rough clown rookie urge cliff copper bachelor ask";
+var mnemonic = "protect ripple mimic shove badge sense setup regular eyebrow honey crater icon";

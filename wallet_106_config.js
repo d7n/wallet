@@ -1,1 +1,1 @@
-var mnemonic = "arrest mean cruise fortune stem buffalo film jelly fever panic assume later";
+var mnemonic = "punch wish start abuse autumn scan bundle food account similar give blame";

@@ -1,1 +1,1 @@
-var mnemonic = "play damp fee laugh love decorate finger neck uncover little suggest pet";
+var mnemonic = "dial second panic dove point love flower connect canyon west nasty meadow";

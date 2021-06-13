@@ -1,1 +1,1 @@
-var mnemonic = "impose tiny height clinic trust wish grace achieve deny shrug wool police";
+var mnemonic = "man pizza music dizzy until image social rich crew correct try grid";

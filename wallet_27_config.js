@@ -1,1 +1,1 @@
-var mnemonic = "square chat wink rude term help fabric just smooth heart finger employ";
+var mnemonic = "table diagram peace exit feed inform hope race gown cupboard expand spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "essence digital hard thought steel crouch offer minimum arrow clever infant uphold";
+var mnemonic = "music post half allow stick odor early robot credit vault ice add";

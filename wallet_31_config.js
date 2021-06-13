@@ -1,1 +1,1 @@
-var mnemonic = "monkey woman erosion burger excite easily embody chaos shoulder fox sorry basic";
+var mnemonic = "emerge amount achieve trial tide spin position catch flush chair hawk melody";

@@ -1,1 +1,1 @@
-var mnemonic = "shell skate critic universe idea trial best horn vapor title supreme term";
+var mnemonic = "fence film polar cupboard edge rural sight target crisp reunion worry media";

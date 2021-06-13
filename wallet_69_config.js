@@ -1,1 +1,1 @@
-var mnemonic = "stand seed toward soda demise gentle more interest click position element loan";
+var mnemonic = "finish charge bar gap axis excite million hedgehog prize south decide head";

@@ -1,1 +1,1 @@
-var mnemonic = "basic stumble gorilla hello veteran target defy brand evil rescue control mad";
+var mnemonic = "romance drum seed snack enact attitude main icon motion design festival cement";

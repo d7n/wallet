@@ -1,1 +1,1 @@
-var mnemonic = "able undo analyst insane fiction board flavor bench monster awful there actor";
+var mnemonic = "royal caution chef silver mushroom woman fish device type chapter car small";

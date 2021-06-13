@@ -1,1 +1,1 @@
-var mnemonic = "logic east rail bounce oyster blood addict kangaroo cycle perfect olive apart";
+var mnemonic = "monster agent quit unusual describe arch ready canyon worry boat galaxy silly";

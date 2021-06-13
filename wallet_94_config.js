@@ -1,1 +1,1 @@
-var mnemonic = "category fat dutch lab voice enough beef upon place magnet impose joy";
+var mnemonic = "current please tomato enact nurse ostrich lounge hawk click lunar lock away";

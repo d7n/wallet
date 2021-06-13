@@ -1,1 +1,1 @@
-var mnemonic = "dawn lawn useful cry civil control latin valid exotic muffin mom shoe";
+var mnemonic = "atom valid balcony virtual glue net attract word guilt gloom polar cash";

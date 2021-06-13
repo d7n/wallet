@@ -1,1 +1,1 @@
-var mnemonic = "detail switch dignity subject cigar motor decrease exhaust gospel favorite panda art";
+var mnemonic = "segment three nerve people logic scrub adjust gauge effort save lawn right";

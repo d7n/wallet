@@ -1,1 +1,1 @@
-var mnemonic = "refuse champion gossip motor hand joke clog scale squirrel basket notice brown";
+var mnemonic = "slab soul cargo gym below rubber increase soap inject surface mystery already";

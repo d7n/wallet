@@ -1,1 +1,1 @@
-var mnemonic = "dwarf genuine ring valve armor exist range cost wall notice ski express";
+var mnemonic = "magnet palace you village drip glass enroll offer window broccoli slow crisp";

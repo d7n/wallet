@@ -1,1 +1,1 @@
-var mnemonic = "enough garden lobster song recipe hope pilot enemy then august kit head";
+var mnemonic = "jealous rocket dwarf wrestle region company brother power habit visit text urban";

@@ -1,1 +1,1 @@
-var mnemonic = "drink disagree grab meat loan bless pet dutch acoustic arrow swamp select";
+var mnemonic = "virus improve across evolve brown cream scout shine royal clay drop wife";

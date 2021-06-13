@@ -1,1 +1,1 @@
-var mnemonic = "sight shrimp rude jump glad fan city whip panel satisfy found drill";
+var mnemonic = "amateur develop can cargo crazy thumb dog method goddess jump jacket double";

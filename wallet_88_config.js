@@ -1,1 +1,1 @@
-var mnemonic = "wise void monitor hood wing vibrant pulse guitar engine bonus news egg";
+var mnemonic = "ask unable depart again whale cash gather shiver monster immune stay start";

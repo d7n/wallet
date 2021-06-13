@@ -1,1 +1,1 @@
-var mnemonic = "force kick toy knock explain dragon wrong cigar lift energy believe debate";
+var mnemonic = "hotel gold float puppy duck pear attend fringe victory gym edit beyond";

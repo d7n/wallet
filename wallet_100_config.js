@@ -1,1 +1,1 @@
-var mnemonic = "venture power spread transfer sphere coyote nice churn claim often spike drip";
+var mnemonic = "clutch split left measure dial year wait lottery elite milk upper edge";

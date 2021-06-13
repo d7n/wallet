@@ -1,1 +1,1 @@
-var mnemonic = "demand leisure dawn barely spoon luggage resemble truth art assume beach clerk";
+var mnemonic = "orange rubber between ten section soda symptom jar reunion rifle letter spirit";

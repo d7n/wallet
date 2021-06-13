@@ -1,1 +1,1 @@
-var mnemonic = "clip actress sadness rude wave subway east submit muffin front parent bulk";
+var mnemonic = "wife decrease old melt smooth result nominee blind trim hollow frog extra";

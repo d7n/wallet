@@ -1,1 +1,1 @@
-var mnemonic = "bullet pistol pulse jeans vintage hurry between insane subway cliff once arm";
+var mnemonic = "angry sure frost trade youth home chase drive dice balance review replace";

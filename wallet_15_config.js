@@ -1,1 +1,1 @@
-var mnemonic = "turn pig gorilla tuna all tape typical material emerge ignore olympic top";
+var mnemonic = "sound confirm step ginger idea broccoli napkin kid birth yellow home gloom";

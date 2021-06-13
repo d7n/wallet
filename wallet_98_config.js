@@ -1,1 +1,1 @@
-var mnemonic = "middle bag follow property auto copy leaf rice spot vital height cradle";
+var mnemonic = "buddy slam faith achieve smoke expand predict amount rather address school destroy";

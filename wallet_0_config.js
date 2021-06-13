@@ -1,1 +1,1 @@
-var mnemonic = "breeze universe tobacco craft rifle wish metal useless save unfold smile squirrel";
+var mnemonic = "bunker cattle tag onion bind bulb mirror fabric crew flash alien bronze";

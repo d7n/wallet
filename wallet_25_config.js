@@ -1,1 +1,1 @@
-var mnemonic = "taste license enable argue since half august crouch rebuild february run ankle";
+var mnemonic = "educate cost lonely atom token plug opinion draft carry mimic tuna stem";

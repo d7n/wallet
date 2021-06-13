@@ -1,1 +1,1 @@
-var mnemonic = "duck item clever ordinary liquid few suspect evolve magic frame tray pair";
+var mnemonic = "same iron glad sniff father forward vintage rabbit outer vast into hunt";

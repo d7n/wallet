@@ -1,1 +1,1 @@
-var mnemonic = "obscure maid feel fan job normal own bar pitch pause reveal spirit";
+var mnemonic = "damage series shop swamp repair thrive pupil airport they street yard october";

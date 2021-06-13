@@ -1,1 +1,1 @@
-var mnemonic = "cushion subject wool mushroom depth swarm resource gallery reduce confirm jungle once";
+var mnemonic = "spirit rotate moment level wheel chief destroy claim problem miracle world fire";
