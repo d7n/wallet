@@ -1,1 +1,1 @@
-var mnemonic = "festival orphan between express couch ceiling negative survey section chalk dignity people";
+var mnemonic = "general pig access column cancel stomach oyster when present mistake fox bird";

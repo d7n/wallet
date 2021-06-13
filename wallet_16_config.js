@@ -1,1 +1,1 @@
-var mnemonic = "sell odor excess game wife kidney joke object cement slide veteran news";
+var mnemonic = "zoo alcohol clinic nation diet wolf bonus erode ship tube skate hidden";

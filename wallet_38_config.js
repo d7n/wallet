@@ -1,1 +1,1 @@
-var mnemonic = "vacant cricket spring gun can beauty float action plunge member correct danger";
+var mnemonic = "able accuse remind agree salon love train warfare estate give harvest tornado";

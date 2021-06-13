@@ -1,1 +1,1 @@
-var mnemonic = "sell deposit coffee river peace cement shallow inhale luggage script skull decade";
+var mnemonic = "draw screen camera carbon cancel close door hub banana lucky parrot city";

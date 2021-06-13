@@ -1,1 +1,1 @@
-var mnemonic = "absurd purpose base decline taxi exchange hen ostrich bird faith whisper process";
+var mnemonic = "sign demise armor vague box organ memory chef siren original alarm bundle";

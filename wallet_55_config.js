@@ -1,1 +1,1 @@
-var mnemonic = "choice dice faint client number deputy wool tobacco chest beauty teach finish";
+var mnemonic = "transfer one glimpse call palm cream october capital swap inherit absorb host";

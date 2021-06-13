@@ -1,1 +1,1 @@
-var mnemonic = "tortoise inquiry athlete return spot cushion knee almost evolve please large slogan";
+var mnemonic = "silly pipe stay side ready collect basic quote actor pride eight diary";

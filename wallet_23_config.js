@@ -1,1 +1,1 @@
-var mnemonic = "garbage first wine network fun pass arrive way few feed century diesel";
+var mnemonic = "depart wave tube object squirrel recipe satoshi glove razor relax lesson pledge";

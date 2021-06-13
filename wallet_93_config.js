@@ -1,1 +1,1 @@
-var mnemonic = "phone gauge chimney magnet neck toward acoustic thought arrow flip mirror copy";
+var mnemonic = "cute fatal damage useless mountain give skull alone end chronic unfold forward";

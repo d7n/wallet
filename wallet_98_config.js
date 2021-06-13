@@ -1,1 +1,1 @@
-var mnemonic = "bench slam pretty injury cabbage ice tube home success regret pledge cloth";
+var mnemonic = "insect scissors lab sight salon loop misery renew essay stadium save lecture";

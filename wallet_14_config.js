@@ -1,1 +1,1 @@
-var mnemonic = "brush snap park ring into mixed usage beef just hobby expire attract";
+var mnemonic = "shell indicate salute okay practice dad input secret give mechanic magic layer";

@@ -1,1 +1,1 @@
-var mnemonic = "spring wealth kiwi attract tool judge journey gloom immense prepare stadium settle";
+var mnemonic = "flush picture toilet dust welcome nurse era prize acquire proof bar aunt";

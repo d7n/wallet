@@ -1,1 +1,1 @@
-var mnemonic = "stool track moral sausage lonely kite hub curve truly cricket mandate clap";
+var mnemonic = "legend bachelor category board vessel clever load wheel service elbow answer reform";

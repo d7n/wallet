@@ -1,1 +1,1 @@
-var mnemonic = "arena electric label gesture bid because various carry razor draft glare electric";
+var mnemonic = "hat six town clog dune sick sick still lazy ice fuel bread";

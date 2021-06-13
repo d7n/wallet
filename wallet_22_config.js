@@ -1,1 +1,1 @@
-var mnemonic = "turtle jungle glass measure poet there trip attract work panel grant identify";
+var mnemonic = "talent maze three nature inside dose loyal dog soon spawn grunt dilemma";

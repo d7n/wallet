@@ -1,1 +1,1 @@
-var mnemonic = "object carpet aunt then bomb armed fat under choose box sniff elder";
+var mnemonic = "hamster electric merge dilemma unusual bacon voyage spirit present snake brief deer";

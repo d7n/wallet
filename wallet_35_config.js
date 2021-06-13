@@ -1,1 +1,1 @@
-var mnemonic = "bird upset hand embody short frost census permit spray august host when";
+var mnemonic = "type era mix imitate prepare stick pen second few napkin ribbon chicken";

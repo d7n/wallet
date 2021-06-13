@@ -1,1 +1,1 @@
-var mnemonic = "know regret shadow opera valley smart pink abuse oil decrease impulse lion";
+var mnemonic = "giggle mean weird scheme approve vacant such carpet occur bean dice wrap";

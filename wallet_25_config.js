@@ -1,1 +1,1 @@
-var mnemonic = "frost subject cost garlic inhale oval double fantasy car length soldier trip";
+var mnemonic = "tired absorb own elephant humble work bid loop reject rhythm surface throw";

@@ -1,1 +1,1 @@
-var mnemonic = "improve evil relax tiny auction tuition end define acquire panther special pottery";
+var mnemonic = "coral gaze hawk match remove minor pear pelican wreck scare alter orchard";

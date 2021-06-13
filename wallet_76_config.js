@@ -1,1 +1,1 @@
-var mnemonic = "left ceiling tuition ancient donor tomorrow olive gather orient fee gallery matter";
+var mnemonic = "saddle similar want one meat debate behind rubber chicken cable usual tortoise";

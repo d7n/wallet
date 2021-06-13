@@ -1,1 +1,1 @@
-var mnemonic = "benefit illness shock length main baby parrot giant upgrade avoid six high";
+var mnemonic = "rigid return harbor size prevent meadow figure card sister type melody goat";

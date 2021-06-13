@@ -1,1 +1,1 @@
-var mnemonic = "wear smile rhythm near snow coffee scrap faculty reject circle public kitchen";
+var mnemonic = "praise ocean catalog phrase raccoon roof certain velvet purpose connect rate armed";

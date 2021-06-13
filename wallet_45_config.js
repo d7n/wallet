@@ -1,1 +1,1 @@
-var mnemonic = "quote reopen mirror patrol snake tattoo body mimic canoe slight confirm setup";
+var mnemonic = "mansion people wasp ask mammal acid person wage topic duty toast gap";

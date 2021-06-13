@@ -1,1 +1,1 @@
-var mnemonic = "invest indicate exist source loud ladder creek follow pave ramp inflict average";
+var mnemonic = "bachelor now fly damage flip crater hint tent intact only pattern view";

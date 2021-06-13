@@ -1,1 +1,1 @@
-var mnemonic = "until arctic ankle nuclear bottom always teach suffer pelican until broccoli lend";
+var mnemonic = "come clutch muffin anxiety design twelve foil whale february glide exact argue";

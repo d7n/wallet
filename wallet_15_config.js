@@ -1,1 +1,1 @@
-var mnemonic = "salad equal exile audit wild crystal shock fatal uncle scout siren crowd";
+var mnemonic = "actual bag bicycle there finger time weapon purpose elbow rival warfare quantum";

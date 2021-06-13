@@ -1,1 +1,1 @@
-var mnemonic = "crime tell thrive deliver usual novel nose mobile jewel warfare next spread";
+var mnemonic = "birth echo relief logic prepare alien retire arm disease weapon mix rigid";

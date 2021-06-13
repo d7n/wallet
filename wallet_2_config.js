@@ -1,1 +1,1 @@
-var mnemonic = "pull debris fuel toy youth cube adjust silent west evolve knock vehicle";
+var mnemonic = "tree solution remove jeans pull sunny device swear cruise sketch habit fortune";

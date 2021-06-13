@@ -1,1 +1,1 @@
-var mnemonic = "north extend envelope floor gloom host piano devote can spray upset merry";
+var mnemonic = "lawn lab tuna obvious boost road powder almost twist blush year omit";

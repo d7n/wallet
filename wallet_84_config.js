@@ -1,1 +1,1 @@
-var mnemonic = "then explain write solution crane mad damp kiss margin captain salmon fun";
+var mnemonic = "media control potato reflect slim small brush reform spatial raven bleak fossil";

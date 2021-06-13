@@ -1,1 +1,1 @@
-var mnemonic = "budget furnace spend ramp fork grief creek sick genuine over glare entry";
+var mnemonic = "recipe weapon oven thunder lemon goose palm local later grab machine agent";

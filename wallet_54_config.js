@@ -1,1 +1,1 @@
-var mnemonic = "chest glide task ice primary advice slogan hen assume farm milk buffalo";
+var mnemonic = "dwarf example assume elite palace couple ketchup prison relax teach fresh dream";

@@ -1,1 +1,1 @@
-var mnemonic = "dream drip daughter truly gun whip frog quantum hour mosquito milk toss";
+var mnemonic = "slot similar seed engine that badge soon flee elevator across tribe artwork";

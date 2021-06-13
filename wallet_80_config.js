@@ -1,1 +1,1 @@
-var mnemonic = "riot bus city syrup human aspect reason fantasy cover pioneer major balance";
+var mnemonic = "upset great permit ladder slice client album return erosion merge true cycle";

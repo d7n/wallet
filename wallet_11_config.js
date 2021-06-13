@@ -1,1 +1,1 @@
-var mnemonic = "sing admit crane trumpet tree convince praise glide rookie since inside amount";
+var mnemonic = "boil square sword often purse smooth payment torch joy screen build cute";

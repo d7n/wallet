@@ -1,1 +1,1 @@
-var mnemonic = "movie remain cupboard gesture quit word maid celery radar unfair buyer flee";
+var mnemonic = "inherit sugar face host what tank deer dish sibling course drink such";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel salad rain hazard concert ginger animal coach connect infant emotion puzzle";
+var mnemonic = "draft maze prosper will wire unable skill lizard view sand bullet manage";

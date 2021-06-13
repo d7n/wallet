@@ -1,1 +1,1 @@
-var mnemonic = "rose rude other payment guard half blanket state huge connect cherry rifle";
+var mnemonic = "universe endless genuine can service dog plunge mobile artwork gather feel robot";

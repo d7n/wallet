@@ -1,1 +1,1 @@
-var mnemonic = "total patch hammer figure muffin kingdom sudden oyster coast maximum display size";
+var mnemonic = "crisp trade tuition miracle vital sure true glove frozen inhale gesture review";

@@ -1,1 +1,1 @@
-var mnemonic = "pride appear sick cancel network addict young public icon online bright shrimp";
+var mnemonic = "soda lion hope fiber super seed nest normal security spray bomb dinner";

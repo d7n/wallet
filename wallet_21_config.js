@@ -1,1 +1,1 @@
-var mnemonic = "vessel embrace royal taste fame such friend learn since biology kiwi humor";
+var mnemonic = "what elevator snap rescue strategy empty example erode together daughter evil harvest";

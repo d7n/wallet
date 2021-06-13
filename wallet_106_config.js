@@ -1,1 +1,1 @@
-var mnemonic = "horror alone clap dust raven twelve excite weekend trip pizza spring spare";
+var mnemonic = "impulse because hole trophy stick draw wedding trust volume happy pause term";

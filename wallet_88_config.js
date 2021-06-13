@@ -1,1 +1,1 @@
-var mnemonic = "visit spatial draft furnace accident today hair note trap visual return language";
+var mnemonic = "whale invest impact about local stuff later sheriff aspect high sight banana";

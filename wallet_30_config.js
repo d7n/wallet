@@ -1,1 +1,1 @@
-var mnemonic = "woman sister system devote fruit guide slow chalk chuckle file rocket wire";
+var mnemonic = "cost cream task logic hover goose various eagle route drill swamp flip";

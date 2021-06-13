@@ -1,1 +1,1 @@
-var mnemonic = "agent dolphin milk invest order heart stamp tag bracket reform stick dutch";
+var mnemonic = "embark drill claw spoon skin price length gloom original enlist infant manual";

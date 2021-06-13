@@ -1,1 +1,1 @@
-var mnemonic = "umbrella glad meat mix forum cactus shoot roof food crash cute black";
+var mnemonic = "arrive dutch birth reason coyote maid cotton crane page route movie puppy";

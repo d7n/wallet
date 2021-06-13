@@ -1,1 +1,1 @@
-var mnemonic = "twist glimpse people butter oblige uphold turn whip whip family daring prize";
+var mnemonic = "miracle reason fault dress mosquito betray present garlic agree shift excuse embark";

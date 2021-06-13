@@ -1,1 +1,1 @@
-var mnemonic = "private effort mask reunion mountain angle crawl argue tunnel assault senior valid";
+var mnemonic = "reduce minor crawl public regular hurt remember method garbage orient select illegal";

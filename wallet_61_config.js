@@ -1,1 +1,1 @@
-var mnemonic = "famous basket siege obvious rhythm ramp next manage cousin brass shield blush";
+var mnemonic = "fish tortoise useful skate theory boy connect rotate defy glad unable chicken";

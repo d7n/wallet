@@ -1,1 +1,1 @@
-var mnemonic = "capable toilet bridge chunk post unfair truck marriage lift embark kidney claw";
+var mnemonic = "disorder similar increase bridge error opera dismiss warrior animal swift excite matrix";

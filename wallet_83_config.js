@@ -1,1 +1,1 @@
-var mnemonic = "mail tent match use region flight pole scan spawn lion tunnel helmet";
+var mnemonic = "memory blanket certain toward soldier govern table expand cake car check song";

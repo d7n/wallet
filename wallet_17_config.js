@@ -1,1 +1,1 @@
-var mnemonic = "husband cause voice dragon shoe push lend fog board into deliver youth";
+var mnemonic = "portion ripple onion small mask delay solar buddy nasty tiny panther open";

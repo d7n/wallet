@@ -1,1 +1,1 @@
-var mnemonic = "ritual about infant demise cheap under fine rifle lobster lonely repeat ripple";
+var mnemonic = "acquire old ignore mom spoon gauge food spider pond blanket leader top";

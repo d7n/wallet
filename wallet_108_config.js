@@ -1,1 +1,1 @@
-var mnemonic = "dry pencil ketchup neither peanut month nut viable old square year vessel";
+var mnemonic = "lava canal stay like reason glide glimpse cradle gossip inflict screen gate";

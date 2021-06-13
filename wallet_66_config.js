@@ -1,1 +1,1 @@
-var mnemonic = "minimum satisfy parrot flavor sausage few move ivory unable pig guilt dutch";
+var mnemonic = "example share rug coil struggle fly bid success blue inch poverty monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "draft resource coin dream tooth vanish woman able engine security wine bronze";
+var mnemonic = "filter unfair year receive panther lunch attend harbor face expand obscure page";

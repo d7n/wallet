@@ -1,1 +1,1 @@
-var mnemonic = "fluid blue build ribbon burger enjoy decline wealth tooth drop swallow staff";
+var mnemonic = "twenty outside virus crew drift siren unable endorse voice stairs portion tortoise";

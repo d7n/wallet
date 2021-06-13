@@ -1,1 +1,1 @@
-var mnemonic = "puppy laptop modify youth catalog broom risk lawn juice taste shuffle public";
+var mnemonic = "dwarf little pilot vacant riot save connect same win enjoy naive dizzy";

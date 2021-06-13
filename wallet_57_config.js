@@ -1,1 +1,1 @@
-var mnemonic = "sick dial tower police pioneer swear similar include wine illegal into unfold";
+var mnemonic = "concert effort close occur sketch sure alarm lazy enemy solution sudden layer";

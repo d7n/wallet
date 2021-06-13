@@ -1,1 +1,1 @@
-var mnemonic = "obvious sock olympic romance ramp enhance sound ghost fruit erupt only crumble";
+var mnemonic = "aim hidden bracket elephant hunt divert music furnace among chef kid visa";

@@ -1,1 +1,1 @@
-var mnemonic = "alpha can avoid equal chat slot story carbon erase tilt approve pause";
+var mnemonic = "endless board error promote must start picnic fatal final seminar bike trap";

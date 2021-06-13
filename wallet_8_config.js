@@ -1,1 +1,1 @@
-var mnemonic = "final firm trend sauce funny now reason segment exit armed erase sphere";
+var mnemonic = "neutral property time decline legal stem cotton side certain enable critic another";

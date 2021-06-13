@@ -1,1 +1,1 @@
-var mnemonic = "syrup describe depend road test lens strategy image liar civil act dune";
+var mnemonic = "canyon warfare input ozone canoe parade coast crunch rebuild nerve retreat warfare";

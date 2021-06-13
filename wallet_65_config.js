@@ -1,1 +1,1 @@
-var mnemonic = "swarm exact measure wood winter penalty know foil adjust response useless fitness";
+var mnemonic = "earth bring coast episode inmate summer just menu assist rigid drastic unfold";

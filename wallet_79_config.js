@@ -1,1 +1,1 @@
-var mnemonic = "ten wrestle moon prefer eternal glow safe arm soft switch lunar salute";
+var mnemonic = "knee match reduce unknown hungry nature arrange good differ rail spin reject";

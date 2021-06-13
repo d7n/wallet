@@ -1,1 +1,1 @@
-var mnemonic = "this holiday peanut oak decade since cry van any sister verify legend";
+var mnemonic = "eternal release cook december point museum obtain click treat cactus asset gasp";

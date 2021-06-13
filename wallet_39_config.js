@@ -1,1 +1,1 @@
-var mnemonic = "marriage skate furnace disagree fury author exhibit bamboo decline layer fork economy";
+var mnemonic = "seven lumber dinosaur produce this renew either sunset van album deputy skin";

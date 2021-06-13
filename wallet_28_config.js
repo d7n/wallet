@@ -1,1 +1,1 @@
-var mnemonic = "bread pepper bag link hope one license rescue equal task weekend toward";
+var mnemonic = "clerk mandate fatigue photo argue skull leg build ritual mouse wolf afford";

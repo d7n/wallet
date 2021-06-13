@@ -1,1 +1,1 @@
-var mnemonic = "yard alter unusual inquiry worth hollow smile ketchup sleep approve spice mirror";
+var mnemonic = "hurdle loan pyramid twelve quote govern seek beef shield cigar runway mistake";

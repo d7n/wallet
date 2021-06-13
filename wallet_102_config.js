@@ -1,1 +1,1 @@
-var mnemonic = "result spring hand umbrella beyond gas scatter shield govern photo orbit episode";
+var mnemonic = "bicycle jump tag cover surround point brave appear pupil hybrid season artefact";

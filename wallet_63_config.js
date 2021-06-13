@@ -1,1 +1,1 @@
-var mnemonic = "limit gun rough empty pride quantum satoshi blast easily quote report silent";
+var mnemonic = "weird know motor page glue good case goddess friend attract dad way";

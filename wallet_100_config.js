@@ -1,1 +1,1 @@
-var mnemonic = "blanket rally fox laugh cluster super camera autumn party artefact truth degree";
+var mnemonic = "coral blind leaf sport group dress basket frown host roof buffalo square";

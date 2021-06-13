@@ -1,1 +1,1 @@
-var mnemonic = "knock switch wide rib version burst junior bomb they winner cannon junior";
+var mnemonic = "power exhaust civil loud adult sort deny material rural alcohol next blood";

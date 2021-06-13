@@ -1,1 +1,1 @@
-var mnemonic = "luxury artwork basket hand citizen deposit cushion jealous media follow vessel aisle";
+var mnemonic = "noble harvest shy width say real grief pear extend bottom whisper flag";

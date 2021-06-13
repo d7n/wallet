@@ -1,1 +1,1 @@
-var mnemonic = "mandate weasel profit cook perfect release volume scrap because lemon cross reform";
+var mnemonic = "salon exit rebel puppy gold bless split mixed talent clump skill turtle";

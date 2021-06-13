@@ -1,1 +1,1 @@
-var mnemonic = "rug galaxy slide dwarf pair swift leaf loop bounce fresh column fortune";
+var mnemonic = "royal where announce galaxy giraffe width figure spread offer pact expect put";

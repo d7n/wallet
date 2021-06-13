@@ -1,1 +1,1 @@
-var mnemonic = "come crime accuse depend coast grow shrug mammal actor spring narrow dance";
+var mnemonic = "acquire across crumble cube spray spirit cloth music embrace face kid want";

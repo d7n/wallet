@@ -1,1 +1,1 @@
-var mnemonic = "equal junior grid icon flag moral arrow quality toilet appear shrug position";
+var mnemonic = "scissors economy warm doll garment vault lamp orient resist between inside chair";

@@ -1,1 +1,1 @@
-var mnemonic = "denial buzz armed draft order scorpion snack hat jeans palm bind banner";
+var mnemonic = "broccoli shield lecture leave verb corn vacant october cable plunge peace meat";

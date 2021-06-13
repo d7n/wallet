@@ -1,1 +1,1 @@
-var mnemonic = "jaguar alpha fury wing draft coyote sibling jar planet valley minor bird";
+var mnemonic = "huge choose worry cause kite decline double latin elbow draw devote receive";

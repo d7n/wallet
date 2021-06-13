@@ -1,1 +1,1 @@
-var mnemonic = "firm aware guilt reason rival close globe upper blanket nice soul happy";
+var mnemonic = "relief egg olympic exhibit shallow bamboo load lift into soda team update";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard blur bundle amazing arrive recall treat bachelor toward bulk service park";
+var mnemonic = "police brief wheat click treat screen permit eagle cheese inmate infant tribe";

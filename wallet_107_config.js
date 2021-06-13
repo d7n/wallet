@@ -1,1 +1,1 @@
-var mnemonic = "flower will idle sail fit extra express acoustic essay else air where";
+var mnemonic = "illegal horse brick entry gun twin junior mimic nest history harsh ensure";

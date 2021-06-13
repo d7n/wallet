@@ -1,1 +1,1 @@
-var mnemonic = "silent random torch slice sister gallery kitten tell outside trumpet pave useless";
+var mnemonic = "present cement glimpse client spare symbol stone paper rebel rice play famous";

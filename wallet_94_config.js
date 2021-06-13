@@ -1,1 +1,1 @@
-var mnemonic = "auto absorb mango planet hand garbage this owner giant insane math simple";
+var mnemonic = "person crunch close riot mom ritual payment skin cactus inherit bus giraffe";

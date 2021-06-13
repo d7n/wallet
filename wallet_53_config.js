@@ -1,1 +1,1 @@
-var mnemonic = "catch judge idea wolf wing cousin unfold reason hood sea step mad";
+var mnemonic = "virus industry eyebrow puppy crush tray during lens first record faculty audit";

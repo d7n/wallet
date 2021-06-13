@@ -1,1 +1,1 @@
-var mnemonic = "puppy element crew crime access twice enough current enjoy desert move during";
+var mnemonic = "occur cupboard duty fetch collect affair rich judge distance armor tide open";
