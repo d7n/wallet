@@ -1,1 +1,1 @@
-var mnemonic = "small nose stable eight junior weasel inmate bachelor rival calm outdoor already";
+var mnemonic = "dinosaur appear master sheriff upgrade unique uniform topic moment tuition spirit coral";

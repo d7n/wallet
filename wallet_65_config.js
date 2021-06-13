@@ -1,1 +1,1 @@
-var mnemonic = "unaware oxygen noodle elite snap cruel patrol attitude rely edge hero upset";
+var mnemonic = "spray casual like gaze comic logic magic soda street section curtain else";

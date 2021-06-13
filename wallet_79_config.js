@@ -1,1 +1,1 @@
-var mnemonic = "net sting deal earn fall lunch bring rebuild walnut rebuild wheat tube";
+var mnemonic = "pencil syrup hospital foot couple place turtle know news office negative apology";

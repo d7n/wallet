@@ -1,1 +1,1 @@
-var mnemonic = "jealous flush eternal drum victory imitate bounce hard quit fragile machine often";
+var mnemonic = "zebra purpose anchor suggest wreck scare lounge guitar powder odor staff eagle";

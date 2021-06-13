@@ -1,1 +1,1 @@
-var mnemonic = "dry during toward purchase either kiwi dragon impact timber planet chef rigid";
+var mnemonic = "gesture scatter can call dignity teach exotic spike lawn security layer stove";

@@ -1,1 +1,1 @@
-var mnemonic = "torch guess visa fox age radar anger hard order depend permit thrive";
+var mnemonic = "bulb glass figure rapid beyond kind version dismiss trigger unique donkey daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "almost reduce hard deliver pride drum unfold option city ghost alone abuse";
+var mnemonic = "live nothing loyal evolve behave start sell aim area skull cousin chalk";

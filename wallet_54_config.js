@@ -1,1 +1,1 @@
-var mnemonic = "ship erupt speed annual merit fancy science owner angle prevent laugh aim";
+var mnemonic = "neglect service chase worry adjust moment share vacant term hope amateur message";

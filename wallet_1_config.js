@@ -1,1 +1,1 @@
-var mnemonic = "sauce eternal stand slush bicycle under margin floor possible canyon song blouse";
+var mnemonic = "mom fix arch sketch blood toward forward candy replace visa empty chuckle";

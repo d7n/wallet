@@ -1,1 +1,1 @@
-var mnemonic = "slogan choose release describe lift radio vicious smart document will drive neck";
+var mnemonic = "arrest rib consider witness first harsh follow auction scrub easily robot envelope";

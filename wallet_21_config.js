@@ -1,1 +1,1 @@
-var mnemonic = "spell wrist spend network edit ramp bronze approve total system patrol lecture";
+var mnemonic = "hunt vast whisper coast broken bus enhance swarm ankle resist depend animal";

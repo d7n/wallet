@@ -1,1 +1,1 @@
-var mnemonic = "spoon rabbit tribe artwork cargo talk logic anger stool casino scout theory";
+var mnemonic = "minute quantum solve broken ice sort bench olympic safe topple great owner";

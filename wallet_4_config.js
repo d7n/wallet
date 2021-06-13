@@ -1,1 +1,1 @@
-var mnemonic = "reunion afraid circle erode journey banana umbrella pretty rapid income view shell";
+var mnemonic = "unusual runway human jar corn ensure sock gift coffee illness leg witness";

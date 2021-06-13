@@ -1,1 +1,1 @@
-var mnemonic = "divorce inherit shrug fire stadium smoke polar unfold oyster solid buzz south";
+var mnemonic = "cover tuition guilt initial gallery useful erosion rely electric pass input ahead";

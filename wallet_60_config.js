@@ -1,1 +1,1 @@
-var mnemonic = "lucky peace start rocket flat brush quantum potato grass multiply fun loyal";
+var mnemonic = "climb yard avocado exhibit fork bind never project alter acoustic tuna local";

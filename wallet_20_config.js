@@ -1,1 +1,1 @@
-var mnemonic = "jump argue royal enroll thunder trumpet volume lift tail usage broccoli connect";
+var mnemonic = "inside steak pudding any change rapid moment ship gauge resemble fat deliver";

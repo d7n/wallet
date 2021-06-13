@@ -1,1 +1,1 @@
-var mnemonic = "boss bright gym pole source mansion prepare old amused discover olive sad";
+var mnemonic = "crystal since pave hub whip false garbage copy day merry service scheme";

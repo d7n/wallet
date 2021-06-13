@@ -1,1 +1,1 @@
-var mnemonic = "oppose yard sight anchor cluster merit fire scare depart decide visual volcano";
+var mnemonic = "sick track upgrade swallow street tooth zone trick shoot odor town build";

@@ -1,1 +1,1 @@
-var mnemonic = "very whisper orange bonus broken that cause okay warm food surge mixture";
+var mnemonic = "elevator capital confirm mixture original guide tumble bird actress venue knock depth";

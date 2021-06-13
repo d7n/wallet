@@ -1,1 +1,1 @@
-var mnemonic = "plug father throw gown pretty endless flip decorate debris render bleak butter";
+var mnemonic = "elite water notice false taxi balance knee hover unit large repair north";

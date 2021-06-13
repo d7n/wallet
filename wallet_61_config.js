@@ -1,1 +1,1 @@
-var mnemonic = "angle much elbow found universe output congress yellow jazz mail rice army";
+var mnemonic = "slight brass hybrid trap crack total trumpet shoe mixed empower cruise pause";

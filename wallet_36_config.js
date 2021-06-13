@@ -1,1 +1,1 @@
-var mnemonic = "shove service wagon clay yellow dutch replace split flower tuition egg endorse";
+var mnemonic = "punch verb relief emerge chicken rigid keep alien box term pond input";

@@ -1,1 +1,1 @@
-var mnemonic = "shy rib peace wise birth hope silver motor ship upon sick coin";
+var mnemonic = "sure mosquito aunt forward hurt put first butter input marble desert elder";

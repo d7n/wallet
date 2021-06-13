@@ -1,1 +1,1 @@
-var mnemonic = "crowd screen business double insect tomorrow same blade olive become fox spring";
+var mnemonic = "ranch river pact token brother sun voice people print stay thank toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "perfect orient ship ring burden volume finger minimum box fever drop trick";
+var mnemonic = "laptop cabin icon witness twelve fiction comic twin shine envelope obey immense";

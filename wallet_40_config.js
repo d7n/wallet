@@ -1,1 +1,1 @@
-var mnemonic = "worry boost ramp push topic actor keep horror concert foot boss raw";
+var mnemonic = "derive indoor light gesture stove ordinary day nothing meat market eight dust";

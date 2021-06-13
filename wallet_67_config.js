@@ -1,1 +1,1 @@
-var mnemonic = "hybrid nature cruel stereo blame biology grace kind coffee upper burst unaware";
+var mnemonic = "rebuild ritual actor kitten decorate narrow burger rose enemy agree mean divert";

@@ -1,1 +1,1 @@
-var mnemonic = "flash finish sort castle casual retreat render thing mesh initial wreck deputy";
+var mnemonic = "escape lens focus short country produce bench relief throw suit add very";

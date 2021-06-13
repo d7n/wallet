@@ -1,1 +1,1 @@
-var mnemonic = "symptom mammal eyebrow cover ozone debris scheme blood normal visual run enhance";
+var mnemonic = "lock regular legend front false tower summer right word broom upgrade tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket absurd fold market vote throw crew total room sleep unknown deliver";
+var mnemonic = "bean feature diet scrub occur decade try vintage false possible prepare snake";

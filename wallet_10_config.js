@@ -1,1 +1,1 @@
-var mnemonic = "mixture movie boring bronze issue lunar then brush robust affair phrase top";
+var mnemonic = "grain fit era choice vacuum walnut inherit tape luggage goose pet middle";

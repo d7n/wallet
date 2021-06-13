@@ -1,1 +1,1 @@
-var mnemonic = "debate catalog scale uphold buzz tobacco cushion green good enlist rail movie";
+var mnemonic = "family city fish flight jewel insane topple citizen fantasy crawl oil pet";

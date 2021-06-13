@@ -1,1 +1,1 @@
-var mnemonic = "season mixed athlete peanut autumn enforce region mushroom mansion novel property sorry";
+var mnemonic = "hurt mass strong script left blast drill catch tired edit material verb";

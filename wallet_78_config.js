@@ -1,1 +1,1 @@
-var mnemonic = "custom seven struggle march transfer swarm jacket apology pitch science rain toss";
+var mnemonic = "follow mixed cattle spray layer play similar reason umbrella video stock used";

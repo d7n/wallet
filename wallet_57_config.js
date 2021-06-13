@@ -1,1 +1,1 @@
-var mnemonic = "settle tragic shop distance lawsuit alert brief lift bleak glory staff path";
+var mnemonic = "memory car rough safe solid defy knife accuse arctic party rescue fan";

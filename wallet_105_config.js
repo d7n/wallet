@@ -1,1 +1,1 @@
-var mnemonic = "lens outside away sad citizen mimic various above frequent clock cup clip";
+var mnemonic = "team fruit case party laundry toy loud snow custom office outside fossil";

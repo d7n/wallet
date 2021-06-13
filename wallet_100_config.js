@@ -1,1 +1,1 @@
-var mnemonic = "grant wage open wait symbol blur initial differ soccer wage someone between";
+var mnemonic = "size ski focus lizard damp ignore vacuum chalk denial toy run dutch";

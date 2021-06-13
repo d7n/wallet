@@ -1,1 +1,1 @@
-var mnemonic = "unique surround journey drum basic credit resist blast hedgehog morning fee tent";
+var mnemonic = "federal hotel whale park impact skull elbow wine south tomato close skill";

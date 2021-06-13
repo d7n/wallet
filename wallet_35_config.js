@@ -1,1 +1,1 @@
-var mnemonic = "capital engage sick border pet nature orphan monitor sort asset narrow kiwi";
+var mnemonic = "album verb shoulder liar march protect layer exclude just destroy mechanic will";

@@ -1,1 +1,1 @@
-var mnemonic = "mail say fly gesture vacuum city today erosion express struggle robust enroll";
+var mnemonic = "general other edge slush rabbit avoid depart job banner pretty sing mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "industry blouse duty depth fringe danger hold welcome measure pumpkin logic shy";
+var mnemonic = "mixture piano boil language stand peanut high once kind melt scheme oil";

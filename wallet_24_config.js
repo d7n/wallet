@@ -1,1 +1,1 @@
-var mnemonic = "clay blur hand zero bronze arch mystery swamp elder pool news pitch";
+var mnemonic = "bind praise grape round message grain later scare dose brass wood tiny";

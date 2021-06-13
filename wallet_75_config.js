@@ -1,1 +1,1 @@
-var mnemonic = "decline recall kangaroo industry inject unable view hover exhaust swear what distance";
+var mnemonic = "ability cage say slow hidden absorb lobster illness latin absurd save rescue";

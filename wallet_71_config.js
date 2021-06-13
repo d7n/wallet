@@ -1,1 +1,1 @@
-var mnemonic = "puzzle like fat salad quarter divert result light mosquito flush feed enough";
+var mnemonic = "salon effort involve keen wink fitness universe license rookie little swallow silly";

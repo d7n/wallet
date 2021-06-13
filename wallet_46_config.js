@@ -1,1 +1,1 @@
-var mnemonic = "home case erosion fall boil option estate kitten jewel absent tag will";
+var mnemonic = "luxury company access empty skill energy kit hazard step trophy valve stage";

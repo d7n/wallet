@@ -1,1 +1,1 @@
-var mnemonic = "beauty boring sunset neglect author biology useful wheat casual switch river scatter";
+var mnemonic = "master fog file state trade render chapter follow twin omit humor life";

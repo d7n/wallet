@@ -1,1 +1,1 @@
-var mnemonic = "volcano knife airport burden change assault pelican kitten blade leisure pyramid alone";
+var mnemonic = "erupt drop skate drill horn spot stay thank sword fork idle saddle";

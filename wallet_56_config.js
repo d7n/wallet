@@ -1,1 +1,1 @@
-var mnemonic = "spare upon assume define romance choice erode provide profit destroy ball couch";
+var mnemonic = "night practice pet accuse kitchen deny sense express trumpet silver pelican sock";

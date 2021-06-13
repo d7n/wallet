@@ -1,1 +1,1 @@
-var mnemonic = "yard work surge distance army impact hungry warm urge sort police glimpse";
+var mnemonic = "try search valve seed stereo odor session inflict gown security split dignity";

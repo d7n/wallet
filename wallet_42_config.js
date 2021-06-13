@@ -1,1 +1,1 @@
-var mnemonic = "legend poet slow purse grow movie junior either best ten sponsor eternal";
+var mnemonic = "observe control spell leaf fuel oven assault language chuckle coach profit aware";

@@ -1,1 +1,1 @@
-var mnemonic = "defense fancy atom range risk lake select memory teach toilet inspire peanut";
+var mnemonic = "monster cargo habit hat rare filter neck repeat mesh ladder retire work";

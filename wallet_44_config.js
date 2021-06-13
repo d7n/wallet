@@ -1,1 +1,1 @@
-var mnemonic = "same talk order educate rotate endorse dove fresh permit horn biology broken";
+var mnemonic = "alter swallow join sail lawn fence opera peanut burst time snack zone";

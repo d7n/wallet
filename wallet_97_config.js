@@ -1,1 +1,1 @@
-var mnemonic = "toddler road toy crawl project toward over visa jewel devote bag traffic";
+var mnemonic = "deer inflict garment live amateur ostrich until sunny indoor ghost special razor";

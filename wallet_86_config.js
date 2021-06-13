@@ -1,1 +1,1 @@
-var mnemonic = "clog loan autumn hint middle bubble rough asthma claim alarm later void";
+var mnemonic = "execute bean goddess crystal clump sadness buzz system negative unhappy sadness lamp";

@@ -1,1 +1,1 @@
-var mnemonic = "reward report scissors real below skill bulk sick flip taxi climb crumble";
+var mnemonic = "story hazard round mushroom coyote polar approve sauce sense drama buzz myself";

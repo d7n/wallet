@@ -1,1 +1,1 @@
-var mnemonic = "purse age aisle pluck duck bus couch subject diet vast brisk expose";
+var mnemonic = "razor snake wait popular drop holiday exact appear seat rice vocal muffin";

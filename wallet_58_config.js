@@ -1,1 +1,1 @@
-var mnemonic = "dove appear solar praise source ability put tool team one banana season";
+var mnemonic = "limit cook all walnut depth artwork myth cloth hair dignity shop mouse";

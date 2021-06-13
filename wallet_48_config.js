@@ -1,1 +1,1 @@
-var mnemonic = "inch talent grape undo lens sick like range toilet crazy walk certain";
+var mnemonic = "ghost bright zone dizzy inner bread always shrug yard smart play hedgehog";

@@ -1,1 +1,1 @@
-var mnemonic = "nice pact grow soup token anchor chief dizzy injury embark enter slender";
+var mnemonic = "there tackle purse owner pond endorse history airport merit broken lawsuit palace";

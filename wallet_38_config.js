@@ -1,1 +1,1 @@
-var mnemonic = "issue among true phrase praise stuff travel gauge puzzle local office vessel";
+var mnemonic = "donate sunset party kiss tell indicate jelly kingdom merry conduct leader message";

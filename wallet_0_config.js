@@ -1,1 +1,1 @@
-var mnemonic = "property kitchen nothing original other artwork hollow age borrow tattoo ancient coffee";
+var mnemonic = "banner spare sad expire flash tank goose raw horror order always bundle";

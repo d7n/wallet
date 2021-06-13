@@ -1,1 +1,1 @@
-var mnemonic = "where broom master tonight alpha industry maze bus boss select company upper";
+var mnemonic = "candy leaf season ice carry exotic recall scheme find panther stadium cruise";

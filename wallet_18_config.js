@@ -1,1 +1,1 @@
-var mnemonic = "energy leave shop case shove already pink hour cave nephew option emerge";
+var mnemonic = "expect nothing priority donor face kiwi inside quantum menu visual exhibit deposit";

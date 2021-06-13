@@ -1,1 +1,1 @@
-var mnemonic = "glory remain bean skull flag inmate cherry silent stable neck tiger ribbon";
+var mnemonic = "carry wash earn crisp snap farm alone act viable must clock marble";

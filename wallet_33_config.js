@@ -1,1 +1,1 @@
-var mnemonic = "loop behave glad surge potato scene silly clay float rough such novel";
+var mnemonic = "mule injury play brush volcano develop web globe carpet retire evil solid";

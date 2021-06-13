@@ -1,1 +1,1 @@
-var mnemonic = "practice absorb library speak item must remove make remember flower trim wash";
+var mnemonic = "solve plastic skill mandate smart tomato armor actual pattern advance search shy";

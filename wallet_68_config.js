@@ -1,1 +1,1 @@
-var mnemonic = "net ladder there sign hedgehog cost subject fix armed coil struggle plunge";
+var mnemonic = "sugar magic wild mountain soft gospel trick opinion local survey idea hat";

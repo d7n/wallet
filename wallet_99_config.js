@@ -1,1 +1,1 @@
-var mnemonic = "general cake monkey upper host sustain language annual matrix obscure genius life";
+var mnemonic = "fly brick print relief main bring doctor tomato spatial surge salt renew";

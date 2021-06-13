@@ -1,1 +1,1 @@
-var mnemonic = "degree city ivory load artefact kitten light survey sign safe depart picture";
+var mnemonic = "butter decrease miracle marriage slot embrace blush flight donkey miss mammal problem";

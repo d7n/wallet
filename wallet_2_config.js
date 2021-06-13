@@ -1,1 +1,1 @@
-var mnemonic = "dust matter drip empty mimic profit dizzy rely hundred suggest split fossil";
+var mnemonic = "nuclear slush zebra wrong soft fog jungle skirt behave safe subject ladder";

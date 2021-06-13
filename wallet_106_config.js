@@ -1,1 +1,1 @@
-var mnemonic = "undo gauge tragic valley bird over giant story emotion input emotion potato";
+var mnemonic = "share nasty crash index reject stem express adult romance today hamster envelope";

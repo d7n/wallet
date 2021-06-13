@@ -1,1 +1,1 @@
-var mnemonic = "student visit wagon repair actor supreme boat salad aisle grass dilemma unfold";
+var mnemonic = "giraffe auction light code ten daring strong carry blossom street rubber spread";

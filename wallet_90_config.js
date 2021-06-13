@@ -1,1 +1,1 @@
-var mnemonic = "sugar filter liar hope trust zoo calm chuckle guide dutch adjust glide";
+var mnemonic = "among leave movie target hair school raw pepper tired park false host";

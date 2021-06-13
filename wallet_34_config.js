@@ -1,1 +1,1 @@
-var mnemonic = "guilt sudden sure online dose boat lend exhibit agent powder ankle eternal";
+var mnemonic = "scare found harsh able sibling shell ozone vibrant vivid merge useless rebel";

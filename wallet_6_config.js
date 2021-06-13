@@ -1,1 +1,1 @@
-var mnemonic = "inform man expect egg entire wear gather net company coach stumble spice";
+var mnemonic = "hover argue sadness human dose rent green pipe lamp cat inside erase";

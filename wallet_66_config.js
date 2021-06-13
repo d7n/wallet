@@ -1,1 +1,1 @@
-var mnemonic = "traffic practice eye effort split tag swallow physical clever bulk very kitten";
+var mnemonic = "find shaft violin legend candy pigeon oxygen tone hood belt layer load";

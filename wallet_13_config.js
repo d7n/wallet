@@ -1,1 +1,1 @@
-var mnemonic = "inquiry trigger usual pony sort strike admit helmet notice chair lecture arena";
+var mnemonic = "edge cart enable jaguar remove siren arrow increase divert quality fluid atom";

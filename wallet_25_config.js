@@ -1,1 +1,1 @@
-var mnemonic = "pole lift educate bamboo inch early nuclear soldier hello pulp arrow action";
+var mnemonic = "health egg later inner soon veteran face dream enemy embark mixed can";

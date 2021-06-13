@@ -1,1 +1,1 @@
-var mnemonic = "decorate shrug ski behave argue relax syrup phrase please box remember menu";
+var mnemonic = "useless hard switch potato depth position measure leave coach old scorpion fiber";

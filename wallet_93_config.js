@@ -1,1 +1,1 @@
-var mnemonic = "obscure baby draft below save busy join unfair cruel try flush spy";
+var mnemonic = "stage future mule spike indicate festival turkey laundry swamp movie kiwi cotton";

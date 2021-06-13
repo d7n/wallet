@@ -1,1 +1,1 @@
-var mnemonic = "slide still turtle knife dial job original legend almost fatigue cruel six";
+var mnemonic = "casual salad defy december sure wood heart struggle plate vault used slim";

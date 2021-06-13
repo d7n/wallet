@@ -1,1 +1,1 @@
-var mnemonic = "access illegal tiny card leopard outside end drum cream best lock sight";
+var mnemonic = "shock acid banana endless corn icon reject pledge shaft use donkey someone";

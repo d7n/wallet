@@ -1,1 +1,1 @@
-var mnemonic = "pulse opinion yard place erosion rain enforce problem accident camp kitchen legend";
+var mnemonic = "slender retire danger pill announce october worth palm forum forum elegant love";

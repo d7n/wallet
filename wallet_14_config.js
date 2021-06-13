@@ -1,1 +1,1 @@
-var mnemonic = "cattle timber jacket squeeze coil peace own curtain reason treat good seat";
+var mnemonic = "verb skin humble detect plunge consider wink top tent jewel icon voyage";

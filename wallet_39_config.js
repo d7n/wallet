@@ -1,1 +1,1 @@
-var mnemonic = "double come iron shove bleak scare evolve egg orbit wave glove frequent";
+var mnemonic = "crash tired buyer sample page position fatigue piece intact code between tilt";
