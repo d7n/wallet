@@ -1,1 +1,1 @@
-var mnemonic = "observe cave city quit salon transfer asset initial weapon lonely subway benefit";
+var mnemonic = "below innocent glare expand move apple payment clerk word chimney excite cause";

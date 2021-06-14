@@ -1,1 +1,1 @@
-var mnemonic = "feed flag truth protect group sugar matrix item worth pig junk such";
+var mnemonic = "cry album weather apart agree decline lizard wrist mystery test join gasp";

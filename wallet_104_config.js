@@ -1,1 +1,1 @@
-var mnemonic = "bag cliff answer useless finish main rail math despair remain hold better";
+var mnemonic = "day spray kick mad select symptom journey absurd crash expect bacon increase";

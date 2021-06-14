@@ -1,1 +1,1 @@
-var mnemonic = "dutch comic expand north miracle faculty cradle answer worth burden round below";
+var mnemonic = "before consider screen coffee alarm nut cheese brick uphold exercise sock conduct";

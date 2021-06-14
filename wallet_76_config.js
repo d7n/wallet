@@ -1,1 +1,1 @@
-var mnemonic = "illegal lock observe museum life elevator glimpse skirt man great uncle social";
+var mnemonic = "device fade estate woman kitten three wrap plunge game runway parade ceiling";

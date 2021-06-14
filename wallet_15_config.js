@@ -1,1 +1,1 @@
-var mnemonic = "disease that soon usual warfare sing arrest unknown craft adjust mother rice";
+var mnemonic = "essay deny finger govern junior faith flame thrive identify talk target tent";

@@ -1,1 +1,1 @@
-var mnemonic = "home insect video host ask bridge path quarter wisdom wish tide divide";
+var mnemonic = "negative hover polar when please awkward vacuum nature leopard beach convince private";

@@ -1,1 +1,1 @@
-var mnemonic = "nature between wine since misery vibrant zero agree pink rival lift siren";
+var mnemonic = "hawk mother hair rib shy sick unfold ecology garden pet deputy doll";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire swap rookie cake venue among ribbon one cave noise floor catalog";
+var mnemonic = "army auto affair sketch flock symbol add ketchup bid develop evidence october";

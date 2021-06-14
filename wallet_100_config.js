@@ -1,1 +1,1 @@
-var mnemonic = "recycle renew resource clerk frog demand world legend affair angle disorder latin";
+var mnemonic = "find argue bronze exile crop loyal blame trumpet strong amount weird elder";

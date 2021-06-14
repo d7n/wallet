@@ -1,1 +1,1 @@
-var mnemonic = "matter bus gather garbage fringe clown puzzle hint bulb salon general account";
+var mnemonic = "attend motor ticket found shrimp crush student danger volume dog congress appear";

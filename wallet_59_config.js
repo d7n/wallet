@@ -1,1 +1,1 @@
-var mnemonic = "coral fit tongue width nothing awful capital tip fatigue sock join control";
+var mnemonic = "cricket deputy fatigue scorpion orphan neglect vault dove memory collect uncover remember";

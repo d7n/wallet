@@ -1,1 +1,1 @@
-var mnemonic = "bird topple decorate rapid abstract ball dad aisle when pass trend crazy";
+var mnemonic = "raise install analyst place topple advice worth life amateur ship toy daring";

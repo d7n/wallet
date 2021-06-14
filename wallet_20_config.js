@@ -1,1 +1,1 @@
-var mnemonic = "differ unveil start middle filter flavor shoot gentle height goat market forest";
+var mnemonic = "smoke orchard stool mask place carry aware crew actor stove cabin then";

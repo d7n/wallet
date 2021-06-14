@@ -1,1 +1,1 @@
-var mnemonic = "ranch bargain puppy abandon timber maximum orbit blush net broccoli flat paddle";
+var mnemonic = "thumb private reunion remove art forest dignity hazard churn gorilla margin labor";

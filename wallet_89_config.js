@@ -1,1 +1,1 @@
-var mnemonic = "spawn script because identify common dawn expose gesture stool because cabin leg";
+var mnemonic = "sun message body woman furnace armed accuse mirror sphere interest chaos image";

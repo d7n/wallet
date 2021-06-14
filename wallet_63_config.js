@@ -1,1 +1,1 @@
-var mnemonic = "nasty diary first profit need design unaware decorate alley worry unusual confirm";
+var mnemonic = "always slogan elbow army story sense clean ski delay mosquito cliff advance";

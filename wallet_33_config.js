@@ -1,1 +1,1 @@
-var mnemonic = "razor awkward void give chunk siren toe conduct struggle raise camera great";
+var mnemonic = "rebel forget picnic army sample wrong wall barrel risk abandon hello donate";

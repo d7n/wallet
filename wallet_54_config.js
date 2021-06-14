@@ -1,1 +1,1 @@
-var mnemonic = "surge salon minute foil color rug version talk monitor rate misery violin";
+var mnemonic = "develop gather super tag south bottom diary idle one visit guilt coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "limb blind relax debate square trade pink doctor predict arrange search once";
+var mnemonic = "offer battle palace fault ordinary chronic survey under chapter item snack kidney";

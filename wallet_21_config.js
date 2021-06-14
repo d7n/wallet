@@ -1,1 +1,1 @@
-var mnemonic = "jaguar smoke demise tree there fold pride miracle dilemma couch balcony draw";
+var mnemonic = "more budget start topple must amount eyebrow sound always robust girl verify";

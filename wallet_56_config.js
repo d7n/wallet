@@ -1,1 +1,1 @@
-var mnemonic = "doll change unable route diamond twelve mutual escape zone valley average drive";
+var mnemonic = "concert dog develop nerve annual chair cabbage winner aspect enter entry art";

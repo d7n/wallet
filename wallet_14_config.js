@@ -1,1 +1,1 @@
-var mnemonic = "way piano vanish actor cause bubble nut ladder hidden toy motor wood";
+var mnemonic = "leisure inspire pave exile follow aim oven country process patient cattle tunnel";

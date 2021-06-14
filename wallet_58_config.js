@@ -1,1 +1,1 @@
-var mnemonic = "afraid imitate festival invite alien test gate insect type venue emerge pull";
+var mnemonic = "math patrol transfer night math elevator message wise actual else argue forward";

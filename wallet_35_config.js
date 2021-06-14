@@ -1,1 +1,1 @@
-var mnemonic = "renew oyster then notice snow logic gun sadness secret wonder surface exercise";
+var mnemonic = "burger vintage orchard plug guide box journey review item help myth topple";

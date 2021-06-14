@@ -1,1 +1,1 @@
-var mnemonic = "renew genre height auction cage enemy subway legend piece infant identify song";
+var mnemonic = "salad unhappy sponsor submit genre tooth blur era arctic reward coral perfect";

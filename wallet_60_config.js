@@ -1,1 +1,1 @@
-var mnemonic = "fan wasp ceiling slot salt walk hungry caution maximum cloud crawl bulk";
+var mnemonic = "silly lamp two remove sport jump slow company dwarf silk icon omit";

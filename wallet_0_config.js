@@ -1,1 +1,1 @@
-var mnemonic = "latin muscle seat student concert unlock document leaf patient today method zero";
+var mnemonic = "nominee next piano special drive sniff glove orbit dignity popular public limit";

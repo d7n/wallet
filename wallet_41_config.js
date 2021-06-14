@@ -1,1 +1,1 @@
-var mnemonic = "abandon chaos debris rookie topple truck zebra payment steak ugly nice year";
+var mnemonic = "build stuff tooth ski picnic drive liquid return recipe purity skull again";

@@ -1,1 +1,1 @@
-var mnemonic = "sure elephant august struggle try hover secret first valid rent visual puppy";
+var mnemonic = "cube bargain warfare hint doctor icon evil merry turtle aware flavor social";

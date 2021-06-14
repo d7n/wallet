@@ -1,1 +1,1 @@
-var mnemonic = "switch tide nut tissue envelope young soon arm excite brand crouch torch";
+var mnemonic = "chalk next leisure shoot focus embrace orphan heavy crush potato detect milk";

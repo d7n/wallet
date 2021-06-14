@@ -1,1 +1,1 @@
-var mnemonic = "label rice usual industry live shock repeat filter menu athlete purity wet";
+var mnemonic = "combine symbol naive whisper boat code bullet sniff moon street cloud come";

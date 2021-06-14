@@ -1,1 +1,1 @@
-var mnemonic = "book mansion congress blind someone joke coffee glide inflict elegant scene alone";
+var mnemonic = "sell cricket assault ritual slush alarm empty walk torch anxiety pet off";

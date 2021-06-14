@@ -1,1 +1,1 @@
-var mnemonic = "connect drastic ship trade pipe regret debate gun mutual citizen attack jeans";
+var mnemonic = "couch disagree vote address width ketchup success mango vendor small gaze deal";

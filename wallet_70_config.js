@@ -1,1 +1,1 @@
-var mnemonic = "model autumn cinnamon flee dilemma mechanic two regret real cube rich dolphin";
+var mnemonic = "real improve ill oxygen derive shift shuffle genre reward manual mean boost";

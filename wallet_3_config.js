@@ -1,1 +1,1 @@
-var mnemonic = "local general sentence quantum fatigue omit enhance scare about where plug slight";
+var mnemonic = "obvious fantasy muscle verify illegal fever onion lawn dance fitness candy cry";

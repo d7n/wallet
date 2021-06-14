@@ -1,1 +1,1 @@
-var mnemonic = "resist sister excuse patrol water shoot penalty cricket sponsor tourist dolphin gas";
+var mnemonic = "voice despair almost model door desk cool tennis fade firm shove biology";

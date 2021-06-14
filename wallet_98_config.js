@@ -1,1 +1,1 @@
-var mnemonic = "document interest envelope pitch cry barrel mention better slogan warfare asset income";
+var mnemonic = "chicken cradle equip can dish number lady boring clog label garden text";

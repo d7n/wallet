@@ -1,1 +1,1 @@
-var mnemonic = "veteran promote glove blast noise clip income run safe have decorate broccoli";
+var mnemonic = "gospel sugar poet total waste spring tumble prefer clutch mean guitar cross";

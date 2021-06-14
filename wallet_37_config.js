@@ -1,1 +1,1 @@
-var mnemonic = "riot avocado couple place gadget sail upon galaxy volcano track gossip amateur";
+var mnemonic = "mix next solid around write rib hedgehog seek will trick off match";

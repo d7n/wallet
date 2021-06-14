@@ -1,1 +1,1 @@
-var mnemonic = "police report bench payment mirror jungle there entire undo grain salmon giraffe";
+var mnemonic = "talk demand general dentist story arrange move glad inject soap fade local";

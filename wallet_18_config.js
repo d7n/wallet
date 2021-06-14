@@ -1,1 +1,1 @@
-var mnemonic = "fantasy random debris pumpkin attitude hundred tent wine error orphan trick swing";
+var mnemonic = "pupil soft story pipe point pulse alcohol oak fox loyal repair loop";

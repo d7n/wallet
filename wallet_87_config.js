@@ -1,1 +1,1 @@
-var mnemonic = "convince menu caution chapter panel bullet minimum promote ski tail evidence race";
+var mnemonic = "switch private spoon category deposit panther object absorb foster air dry wire";

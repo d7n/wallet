@@ -1,1 +1,1 @@
-var mnemonic = "reopen story practice pet box bubble slush report hunt village since unfair";
+var mnemonic = "broken ripple soda hurry deputy recycle divorce grass outdoor innocent flush ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "identify trash evil organ cargo clinic jewel adapt negative water husband wreck";
+var mnemonic = "wrist fancy amateur fruit puppy jar level volcano task maple dash refuse";

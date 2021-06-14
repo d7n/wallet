@@ -1,1 +1,1 @@
-var mnemonic = "hair ride cliff thing flip walnut denial victory round book couch oak";
+var mnemonic = "board leopard slush deny load nothing tourist emotion pull unveil unit inch";

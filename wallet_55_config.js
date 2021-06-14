@@ -1,1 +1,1 @@
-var mnemonic = "tent salt finish equal stairs actual crisp joy scrub remove sketch fence";
+var mnemonic = "absent dust pattern video sudden rubber equal fault frequent loop juice upset";

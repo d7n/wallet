@@ -1,1 +1,1 @@
-var mnemonic = "soon else lizard rally blush visit mansion drive mandate dumb grace attitude";
+var mnemonic = "occur pencil alert satoshi rural zebra story just crop ghost offer forward";

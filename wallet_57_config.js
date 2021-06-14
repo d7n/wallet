@@ -1,1 +1,1 @@
-var mnemonic = "raise galaxy milk security together twist lady about adapt banana exclude online";
+var mnemonic = "window submit letter quiz guitar crop concert false refuse diary myself deliver";

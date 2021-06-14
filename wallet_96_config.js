@@ -1,1 +1,1 @@
-var mnemonic = "glad slam inherit corn south jungle apology pave replace try virtual rival";
+var mnemonic = "scare drastic hurry panic upon service book abuse warrior black fiscal vehicle";

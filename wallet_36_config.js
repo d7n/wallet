@@ -1,1 +1,1 @@
-var mnemonic = "host bench exotic clerk gentle jacket total caught buzz worry hedgehog awake";
+var mnemonic = "crisp network fatal leisure stumble meat rather nothing good hero perfect quality";

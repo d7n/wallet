@@ -1,1 +1,1 @@
-var mnemonic = "economy ethics exchange harbor robot category nature earn drill cube casual skull";
+var mnemonic = "grid unfair girl season blast slice apart trophy cinnamon cheese install pipe";

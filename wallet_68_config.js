@@ -1,1 +1,1 @@
-var mnemonic = "barely field glare skirt across weather clay beauty wonder collect turkey narrow";
+var mnemonic = "extra sword winter mountain another fetch benefit elevator include sphere fabric lemon";

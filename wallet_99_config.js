@@ -1,1 +1,1 @@
-var mnemonic = "original arm flip lawn flag book curve alert banana magic banana cycle";
+var mnemonic = "later finish twenty hat awful gather identify area equip leaf twin behave";

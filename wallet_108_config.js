@@ -1,1 +1,1 @@
-var mnemonic = "solve scatter any chunk pelican horn plastic slender evoke junk simple action";
+var mnemonic = "way crime jazz hard call volcano prevent skate domain iron trigger square";

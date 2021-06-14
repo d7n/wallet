@@ -1,1 +1,1 @@
-var mnemonic = "ladder tunnel change first injury soup treat border green donkey cause large";
+var mnemonic = "observe guide egg spawn engine property bring tomato drive drive lonely fade";

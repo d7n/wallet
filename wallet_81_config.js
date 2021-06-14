@@ -1,1 +1,1 @@
-var mnemonic = "script crucial prize swap ethics bamboo unlock speak chicken belt wisdom curve";
+var mnemonic = "milk proud fit disease wet earn razor kiss old crumble mirror soccer";

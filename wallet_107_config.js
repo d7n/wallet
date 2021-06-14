@@ -1,1 +1,1 @@
-var mnemonic = "gasp lunch capital mechanic collect tiny street dial they razor citizen annual";
+var mnemonic = "fiction more juice govern priority practice mushroom castle venture piano into ginger";

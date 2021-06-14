@@ -1,1 +1,1 @@
-var mnemonic = "tragic uncle amazing village furnace mail mother ocean thumb economy whisper thing";
+var mnemonic = "summer trash gaze board diary shock winter exclude barely protect humor rate";

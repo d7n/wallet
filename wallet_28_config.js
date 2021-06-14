@@ -1,1 +1,1 @@
-var mnemonic = "uphold spoon caution quantum rate reason beach quality human potato hard age";
+var mnemonic = "miss lecture boss long office cram because glass earn know figure blame";

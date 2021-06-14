@@ -1,1 +1,1 @@
-var mnemonic = "feed visa palace attitude stool snow child supreme elite student man animal";
+var mnemonic = "arrive science wasp album eight air estate copy furnace wear indicate jacket";

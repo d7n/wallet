@@ -1,1 +1,1 @@
-var mnemonic = "puzzle alert result sell plastic people tray choice save seek lamp female";
+var mnemonic = "resist female account invite silly urban rice arrest annual rib allow loop";

@@ -1,1 +1,1 @@
-var mnemonic = "elite hamster image analyst grass catalog slot field basic fall barrel cloud";
+var mnemonic = "table crumble copper install develop come beach field inside noble milk recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "rate file trick vessel parrot public leader teach pole impulse proud edit";
+var mnemonic = "language arm waste need inner uniform base garlic awkward pause crouch gold";

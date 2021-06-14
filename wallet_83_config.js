@@ -1,1 +1,1 @@
-var mnemonic = "lottery grocery soccer oil exist pass garden resemble pigeon feature hill hair";
+var mnemonic = "tomorrow mask reflect pink segment auction raccoon monster choose sell slot afraid";

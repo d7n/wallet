@@ -1,1 +1,1 @@
-var mnemonic = "dynamic pass payment arena multiply jealous save apple rail ill twelve chief";
+var mnemonic = "jaguar have cross hole cattle supreme divide theme silver theory inform prevent";

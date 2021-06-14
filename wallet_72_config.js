@@ -1,1 +1,1 @@
-var mnemonic = "just there bullet unlock churn release return throw cancel memory scorpion minute";
+var mnemonic = "october shoulder canyon soda raw term sunny attitude hockey vapor motor trick";

@@ -1,1 +1,1 @@
-var mnemonic = "flock until place garment genuine team neutral property magic weather real grab";
+var mnemonic = "bleak sorry yard desert sick effort barrel bless again blood release sail";

@@ -1,1 +1,1 @@
-var mnemonic = "auction excess company verb caught border moon morning knock casino sport result";
+var mnemonic = "limb angry vacant among escape together imitate raw try core melody deer";

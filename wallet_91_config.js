@@ -1,1 +1,1 @@
-var mnemonic = "globe rather angle strike wise crime give feature sock fortune banana chief";
+var mnemonic = "amused artefact february now ice donkey job letter benefit build fabric vintage";

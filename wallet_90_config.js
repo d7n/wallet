@@ -1,1 +1,1 @@
-var mnemonic = "lunch rabbit blame glow talent they second student insane glory tool panda";
+var mnemonic = "lady burst gun mobile unable end ride any art brown pilot end";

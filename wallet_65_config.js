@@ -1,1 +1,1 @@
-var mnemonic = "tail steak slender bid meadow dizzy disorder spot bridge brand rule remove";
+var mnemonic = "put around tribe avocado shine hub bicycle improve annual open occur silver";

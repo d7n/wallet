@@ -1,1 +1,1 @@
-var mnemonic = "balcony nuclear exist install dilemma party off toss other erupt debris auction";
+var mnemonic = "toy cotton door silver excuse judge sun pool unveil spider oak march";

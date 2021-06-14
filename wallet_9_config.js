@@ -1,1 +1,1 @@
-var mnemonic = "spot digital fatigue square harvest mind grocery icon protect enable lobster rate";
+var mnemonic = "unique crystal blind mutual ten grab message physical interest crash snake artwork";

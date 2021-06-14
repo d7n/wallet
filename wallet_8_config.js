@@ -1,1 +1,1 @@
-var mnemonic = "toilet army deposit inject unusual town evil strong member task music april";
+var mnemonic = "such crime crystal near zoo drink eager walk give lady assume erosion";

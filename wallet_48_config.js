@@ -1,1 +1,1 @@
-var mnemonic = "trouble someone age grace luxury talent soup divert kick edge vicious change";
+var mnemonic = "toilet ethics denial tiny office canyon fringe gaze myself legal idea yard";

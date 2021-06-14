@@ -1,1 +1,1 @@
-var mnemonic = "relax uncover month hire smooth sign injury prosper decline air rose debris";
+var mnemonic = "echo flame truck solar dice design equip kangaroo hour senior picture secret";

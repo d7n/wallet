@@ -1,1 +1,1 @@
-var mnemonic = "juice still among session dizzy concert ginger dolphin use minute guitar machine";
+var mnemonic = "jump dawn record hungry bamboo belt universe switch sheriff enemy parent slice";

@@ -1,1 +1,1 @@
-var mnemonic = "crew cradle ask brave profit inquiry talk inform another pond deer hurry";
+var mnemonic = "shed gift crisp mail truth cat device treat climb puzzle popular evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "category script retreat ethics unfair laugh industry unfold head muscle put wine";
+var mnemonic = "random shiver gravity stool bubble laugh tobacco common author ignore stage cancel";

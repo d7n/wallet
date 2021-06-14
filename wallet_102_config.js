@@ -1,1 +1,1 @@
-var mnemonic = "spawn age crowd travel either duty test square add alien school that";
+var mnemonic = "delay typical better law wool camera borrow believe train size gorilla length";

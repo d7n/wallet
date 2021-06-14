@@ -1,1 +1,1 @@
-var mnemonic = "chaos road under august auto hard inmate town true spray useful duck";
+var mnemonic = "social edge fantasy truly ahead motor acid amount tonight lab lunar broom";

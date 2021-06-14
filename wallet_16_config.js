@@ -1,1 +1,1 @@
-var mnemonic = "canvas tone actor forum yard burden story decorate marine tilt dinosaur gallery";
+var mnemonic = "patient case abandon message filter syrup security net remind quick fresh animal";

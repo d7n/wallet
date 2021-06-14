@@ -1,1 +1,1 @@
-var mnemonic = "online fall view boil network tower square actor fence hospital era fresh";
+var mnemonic = "tennis bind dizzy green insane thought round burst theory weird square pioneer";

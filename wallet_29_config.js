@@ -1,1 +1,1 @@
-var mnemonic = "frost equip kingdom jealous orchard dentist include often chronic silk deal pull";
+var mnemonic = "novel initial fancy hamster lunch breeze winter crowd eagle brand slot robot";

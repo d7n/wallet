@@ -1,1 +1,1 @@
-var mnemonic = "beyond same wood recipe refuse scan crystal piece elite game garlic pole";
+var mnemonic = "spike fiscal doll earn february dignity slow surge toward budget funny toward";

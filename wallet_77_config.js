@@ -1,1 +1,1 @@
-var mnemonic = "fold imitate pet kind apology lonely curious purpose snack tomorrow enrich lens";
+var mnemonic = "spike frown island silly must chaos six lounge citizen tell stock answer";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion sentence action maple exchange confirm wire share talk dentist shoot doll";
+var mnemonic = "boost pond spoon sunny voyage pizza accident dwarf animal puzzle lunch weekend";

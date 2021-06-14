@@ -1,1 +1,1 @@
-var mnemonic = "pear joke fan like text true divert wage dog giant depend drop";
+var mnemonic = "scan toilet cluster column there gate photo pitch reveal proof celery gaze";

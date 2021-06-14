@@ -1,1 +1,1 @@
-var mnemonic = "yellow soccer modify caught olympic youth involve meat oblige kiss month erode";
+var mnemonic = "disorder south pipe book kind toss mind muscle balcony quit wink key";

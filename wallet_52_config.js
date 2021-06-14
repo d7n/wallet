@@ -1,1 +1,1 @@
-var mnemonic = "real home roast general kangaroo chase arctic tribe scare genuine cereal elegant";
+var mnemonic = "neglect neither crane angry dentist beyond dose endorse actual about lady farm";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon fuel urge ketchup brown wrist jealous guide sting auto forget remind";
+var mnemonic = "dinosaur hint struggle orbit shoot earn joy permit still explain stone viable";

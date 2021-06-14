@@ -1,1 +1,1 @@
-var mnemonic = "federal work trouble resemble digital wave cart cool update neutral napkin spell";
+var mnemonic = "slide worry casual flower body poet print panel hope torch regret minor";

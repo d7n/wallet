@@ -1,1 +1,1 @@
-var mnemonic = "post tragic crime amateur exhibit business razor talk urban wink mouse burst";
+var mnemonic = "during crunch admit catalog fatigue upset orphan expect simple stem pistol else";

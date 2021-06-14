@@ -1,1 +1,1 @@
-var mnemonic = "salmon glimpse square measure planet solar glare shallow clever clinic clog gadget";
+var mnemonic = "maple trial review never remove effort situate raven inject horn choice exit";

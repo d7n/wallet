@@ -1,1 +1,1 @@
-var mnemonic = "flip begin defy dwarf speak essay syrup rotate sense ice antique opera";
+var mnemonic = "case eight fresh cabbage grief armed goddess alone foam car foam harvest";

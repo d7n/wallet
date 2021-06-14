@@ -1,1 +1,1 @@
-var mnemonic = "rotate fiber still will trash surface will angle reduce inch electric foil";
+var mnemonic = "chef duty damp finish garlic solution hero century name leg mimic toast";
