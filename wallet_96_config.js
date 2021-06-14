@@ -1,1 +1,1 @@
-var mnemonic = "survey rely fly giraffe subway coil spend cat obtain innocent chat churn";
+var mnemonic = "pioneer oil panic embody output hidden again horror theme soap student topple";

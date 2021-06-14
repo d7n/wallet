@@ -1,1 +1,1 @@
-var mnemonic = "achieve token voyage cat tomato also alarm hungry gate focus endorse blind";
+var mnemonic = "two obscure unaware captain tuition frown behind smooth debris banana behind scorpion";

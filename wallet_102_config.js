@@ -1,1 +1,1 @@
-var mnemonic = "comic clock peasant auction forum market large seek burger ordinary mind strike";
+var mnemonic = "honey memory hawk cable peasant about hold world lobster caution cruise fresh";

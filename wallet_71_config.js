@@ -1,1 +1,1 @@
-var mnemonic = "powder settle frog leg gaze pull script valid almost prison logic option";
+var mnemonic = "better near stand fine acid inside twice horror circle famous ready disorder";

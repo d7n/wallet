@@ -1,1 +1,1 @@
-var mnemonic = "six island merit cherry story survey lumber brave fragile coral below almost";
+var mnemonic = "pluck strong evidence mom scorpion misery onion hammer near switch salon close";

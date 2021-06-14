@@ -1,1 +1,1 @@
-var mnemonic = "inspire future famous ribbon profit crash intact suffer palm round crash execute";
+var mnemonic = "purpose aunt illegal daughter ethics title ladder release olympic render engage minute";

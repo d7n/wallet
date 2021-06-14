@@ -1,1 +1,1 @@
-var mnemonic = "normal there evolve second forest danger narrow captain trust animal october bus";
+var mnemonic = "typical design liberty orphan letter bronze skate jewel expose scale purchase retire";

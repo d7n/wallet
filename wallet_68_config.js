@@ -1,1 +1,1 @@
-var mnemonic = "undo noise render donkey stage post cabin share wheat echo make digital";
+var mnemonic = "balcony juice drill reward teach heart mirror affair destroy orphan neutral list";

@@ -1,1 +1,1 @@
-var mnemonic = "taste wealth menu warm rent bus radio first follow sword fun indoor";
+var mnemonic = "couch latin blouse indoor ignore lab earth hungry coconut gorilla squirrel doctor";

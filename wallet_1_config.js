@@ -1,1 +1,1 @@
-var mnemonic = "leg animal alley stock cushion lab differ market member enjoy matrix april";
+var mnemonic = "absent food absurd hidden lava broken arrange human urban aunt broom atom";

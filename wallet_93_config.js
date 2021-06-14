@@ -1,1 +1,1 @@
-var mnemonic = "buyer burden resemble tobacco east often enemy name dance toward risk cricket";
+var mnemonic = "envelope require whip board gentle leopard spawn catalog section fall daring mango";

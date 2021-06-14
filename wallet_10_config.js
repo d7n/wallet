@@ -1,1 +1,1 @@
-var mnemonic = "gate repeat vessel network churn hill honey figure cinnamon annual know basket";
+var mnemonic = "add sword cover bone teach priority actress twenty diagram ticket fashion dignity";

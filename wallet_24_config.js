@@ -1,1 +1,1 @@
-var mnemonic = "toss rug soldier wine wink bike trade clap reopen mother glove view";
+var mnemonic = "abuse mimic alcohol cheap blossom mandate wealth exact air recycle limit dinosaur";

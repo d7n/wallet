@@ -1,1 +1,1 @@
-var mnemonic = "fashion jelly burger dose embrace dad okay tribe want amount secret hat";
+var mnemonic = "blood park expand observe despair outside custom rely erosion other plastic damp";

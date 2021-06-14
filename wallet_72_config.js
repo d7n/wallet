@@ -1,1 +1,1 @@
-var mnemonic = "dad enjoy holiday alter blast tortoise step flower town speed tuna gospel";
+var mnemonic = "help subject arch gorilla cave banana decrease window arctic region witness play";

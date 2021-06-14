@@ -1,1 +1,1 @@
-var mnemonic = "album rack bronze awkward balance produce island quality prosper artefact robot symbol";
+var mnemonic = "snap fiber medal trouble uncle easy fold pattern mail talk rather erase";

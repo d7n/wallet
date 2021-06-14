@@ -1,1 +1,1 @@
-var mnemonic = "cargo wife avocado load say buyer tenant crater powder coral pistol rich";
+var mnemonic = "curtain list immune arch suggest smart paddle dinosaur team provide anxiety copper";

@@ -1,1 +1,1 @@
-var mnemonic = "floor foam carbon ankle coil winter toy cruel erode stool pulse learn";
+var mnemonic = "fragile ladder snack donkey cycle crawl actor nerve system reveal still winner";

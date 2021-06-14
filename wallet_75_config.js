@@ -1,1 +1,1 @@
-var mnemonic = "express elegant mango reflect gift spray hen vote glove match decorate liar";
+var mnemonic = "obtain embark practice unusual easy neck major code truly swallow pipe island";

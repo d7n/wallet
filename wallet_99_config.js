@@ -1,1 +1,1 @@
-var mnemonic = "develop hour purpose begin trend keep bike note water forest luxury garden";
+var mnemonic = "orient indoor rug famous envelope assist attract aisle comfort spell develop raven";

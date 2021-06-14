@@ -1,1 +1,1 @@
-var mnemonic = "apart west ghost hybrid post situate success pill skirt tank mobile napkin";
+var mnemonic = "oil recycle scout share above banner hotel range vast tumble laundry tribe";

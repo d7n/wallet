@@ -1,1 +1,1 @@
-var mnemonic = "shop raw immune couch erupt giant proud ridge exhibit paddle breeze lazy";
+var mnemonic = "suspect soup mixed smooth inner average regular fine govern hotel absorb ski";

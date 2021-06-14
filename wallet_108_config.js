@@ -1,1 +1,1 @@
-var mnemonic = "hub merit ice upgrade marriage ripple bless layer useful soup theory flame";
+var mnemonic = "leaf awesome dismiss shift deer awful cushion trap bronze young blouse globe";

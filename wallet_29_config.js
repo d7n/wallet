@@ -1,1 +1,1 @@
-var mnemonic = "inside guess name poverty release history cigar forward remain laugh rail empower";
+var mnemonic = "elephant page useless course alert rigid clay where alpha frame derive destroy";

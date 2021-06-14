@@ -1,1 +1,1 @@
-var mnemonic = "elevator aware poet escape okay tornado ostrich nation business upset idea deal";
+var mnemonic = "surprise throw right inherit wait excuse extra hope strong junk habit cup";

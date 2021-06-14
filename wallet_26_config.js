@@ -1,1 +1,1 @@
-var mnemonic = "spawn aware sun hybrid frequent embark snack goat hub modify spatial arm";
+var mnemonic = "endorse nurse lottery forget under famous arm aim ecology shoot jazz focus";

@@ -1,1 +1,1 @@
-var mnemonic = "tray sunny monster bag actual limb retire matter pipe expire drive net";
+var mnemonic = "century either bar depart cruel team damage chimney garden ostrich neither final";

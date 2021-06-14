@@ -1,1 +1,1 @@
-var mnemonic = "episode scissors cluster either maid topic athlete breeze clerk notable arch camera";
+var mnemonic = "bridge fade level split mother element various blouse buffalo impulse opera reject";

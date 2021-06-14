@@ -1,1 +1,1 @@
-var mnemonic = "long drift ocean weather sport twenty crush divert scissors buffalo bamboo adapt";
+var mnemonic = "little crucial develop index picnic exile unusual host marriage seven size slush";

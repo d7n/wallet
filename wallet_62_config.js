@@ -1,1 +1,1 @@
-var mnemonic = "harsh elephant youth finish fan social sausage street meat receive school again";
+var mnemonic = "ugly tortoise pact short enroll hospital sweet sketch total fatal bronze abandon";

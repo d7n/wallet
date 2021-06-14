@@ -1,1 +1,1 @@
-var mnemonic = "frame depth pyramid spread limit million unlock fiber cross move diamond fun";
+var mnemonic = "game rubber absent achieve picture priority desert slim economy ice inflict write";

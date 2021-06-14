@@ -1,1 +1,1 @@
-var mnemonic = "feel bulb also satisfy accident slot lion tag gas valley return whale";
+var mnemonic = "tooth coin version wrist surround black pepper coffee fringe peasant middle brand";

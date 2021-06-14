@@ -1,1 +1,1 @@
-var mnemonic = "stool stereo initial force habit tunnel bright much truck sweet toy denial";
+var mnemonic = "develop pottery wheel client duck provide fuel federal merry weather smoke pupil";

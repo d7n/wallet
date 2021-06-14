@@ -1,1 +1,1 @@
-var mnemonic = "test shallow crane piece rotate drift birth hub vital grocery display traffic";
+var mnemonic = "shed doll curve remain radar school squirrel member nothing few broom put";

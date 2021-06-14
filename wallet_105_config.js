@@ -1,1 +1,1 @@
-var mnemonic = "much rich secret cycle make claim visual join subway whisper vault beyond";
+var mnemonic = "silent build result erupt nephew stereo video digital neither window motor kind";

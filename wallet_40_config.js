@@ -1,1 +1,1 @@
-var mnemonic = "tragic walnut nothing boy path crawl once until face delay grain potato";
+var mnemonic = "cause task month cute enough mandate morning shrimp symbol prefer issue cheese";

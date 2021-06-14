@@ -1,1 +1,1 @@
-var mnemonic = "sure permit violin cup cabbage you milk bleak seminar traffic eternal thing";
+var mnemonic = "slide unknown sting cool clap dignity index label warm client border coral";

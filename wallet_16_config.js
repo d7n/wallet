@@ -1,1 +1,1 @@
-var mnemonic = "type estate where tail order slide provide humor team account rival moral";
+var mnemonic = "hammer reform cloth popular clerk tent airport metal edit educate blush shop";

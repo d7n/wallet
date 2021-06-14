@@ -1,1 +1,1 @@
-var mnemonic = "zone luggage thumb antenna fiber program plastic pluck wait whip loan benefit";
+var mnemonic = "announce drill warfare orphan face shove snow awkward solve valve amateur awesome";

@@ -1,1 +1,1 @@
-var mnemonic = "brick raccoon help shaft popular mask wish dirt gas tenant frequent demand";
+var mnemonic = "junior stay surge flame vocal clarify start equip cancel mango friend street";

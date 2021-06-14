@@ -1,1 +1,1 @@
-var mnemonic = "term convince still winter bread silent absent sight dolphin crew holiday veteran";
+var mnemonic = "casual actual borrow canal situate tenant rude apple explain anxiety list patient";

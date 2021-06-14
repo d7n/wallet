@@ -1,1 +1,1 @@
-var mnemonic = "machine aspect original resemble inhale inflict panther tag negative tree zero height";
+var mnemonic = "slam define derive excite addict river envelope thing movie color endorse bulk";

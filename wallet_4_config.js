@@ -1,1 +1,1 @@
-var mnemonic = "olive envelope skill width you useful renew thought theme narrow fire believe";
+var mnemonic = "run garden green example idea lunar split tongue round link salute rib";

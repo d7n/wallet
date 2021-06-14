@@ -1,1 +1,1 @@
-var mnemonic = "pond lemon dog silk ostrich interest connect forest calm wink gown manual";
+var mnemonic = "brother fancy hope gaze season silent kit erase this salute expire column";

@@ -1,1 +1,1 @@
-var mnemonic = "mass mule disease suffer recipe pull ensure design town boat solve load";
+var mnemonic = "core joke cruise smart beauty sting coconut immense abuse wink rich flee";

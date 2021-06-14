@@ -1,1 +1,1 @@
-var mnemonic = "enter frozen give seminar body shoot exit hello undo future coffee sudden";
+var mnemonic = "pudding foil cannon confirm purity problem prevent nest ball couch royal wet";

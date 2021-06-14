@@ -1,1 +1,1 @@
-var mnemonic = "fashion egg among carpet hole empty earn senior mountain buzz hurdle absurd";
+var mnemonic = "eternal century poem expose cinnamon crime drop boy lunch pony medal bitter";

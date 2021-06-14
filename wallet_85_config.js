@@ -1,1 +1,1 @@
-var mnemonic = "cat spare orient tower easily text cliff client unfair empty country beyond";
+var mnemonic = "that sand marble caught pepper cool kid manual illness soup sketch also";

@@ -1,1 +1,1 @@
-var mnemonic = "move clerk depart ritual anxiety inner wasp become visit absent main lecture";
+var mnemonic = "snack life ostrich total angry violin ring video mercy lemon panda diet";

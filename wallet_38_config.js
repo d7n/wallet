@@ -1,1 +1,1 @@
-var mnemonic = "inner pink mouse eternal social monkey soul hover owner notable concert mind";
+var mnemonic = "kidney verb spray panda shed plate client truly team nerve valve put";

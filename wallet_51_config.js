@@ -1,1 +1,1 @@
-var mnemonic = "crisp remember number skirt crowd april course armor any sample add fatal";
+var mnemonic = "evidence cattle two machine avocado draft vibrant forget filter gospel floor rescue";

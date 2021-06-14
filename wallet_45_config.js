@@ -1,1 +1,1 @@
-var mnemonic = "arctic actress cry victory rate funny clean wasp stereo toilet endless bicycle";
+var mnemonic = "inflict economy upset distance dentist label ball diagram cycle monster trash empower";

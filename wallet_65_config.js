@@ -1,1 +1,1 @@
-var mnemonic = "symbol rescue actress bread stadium uphold wealth reform lunch almost jeans hawk";
+var mnemonic = "civil bring jeans fortune lonely object icon planet clarify border sick hawk";

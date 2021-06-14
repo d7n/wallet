@@ -1,1 +1,1 @@
-var mnemonic = "observe walk volcano ladder ticket sand student solar claim leg frequent quiz";
+var mnemonic = "horror afraid raw push state toss lonely cinnamon frost average game thunder";

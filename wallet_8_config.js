@@ -1,1 +1,1 @@
-var mnemonic = "risk travel screen cable about clinic eternal brown review purpose plate turkey";
+var mnemonic = "trial symbol donor network charge skirt song improve meadow jungle slogan jewel";

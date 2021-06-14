@@ -1,1 +1,1 @@
-var mnemonic = "own laundry boring hockey analyst live manual voice bar fiber shell stage";
+var mnemonic = "shy flat wife animal reopen lion latin winner next device inform glide";

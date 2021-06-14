@@ -1,1 +1,1 @@
-var mnemonic = "advance pact pig fancy job crawl cook label shell admit liberty vocal";
+var mnemonic = "elite apology super hockey vessel tooth media buzz brain six write coconut";

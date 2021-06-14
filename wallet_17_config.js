@@ -1,1 +1,1 @@
-var mnemonic = "biology athlete river link race avocado month file tenant income phone vague";
+var mnemonic = "alien shy vast glory elder velvet length flower change echo pretty hobby";

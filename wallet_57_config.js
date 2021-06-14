@@ -1,1 +1,1 @@
-var mnemonic = "tiger people rack creek census dream salute food flee else garment ranch";
+var mnemonic = "travel release nerve deliver annual tenant reopen aisle depart farm stick flat";

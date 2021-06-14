@@ -1,1 +1,1 @@
-var mnemonic = "title paper horn swear world oven vivid black lock picnic achieve biology";
+var mnemonic = "ladder task offer squeeze coach smile word hole borrow melt beyond type";

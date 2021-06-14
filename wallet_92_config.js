@@ -1,1 +1,1 @@
-var mnemonic = "cup drama novel chef shrimp object subject federal cactus topic differ wrap";
+var mnemonic = "camp family scatter home track ill divorce business nominee raise desk fossil";

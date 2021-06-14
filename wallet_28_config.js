@@ -1,1 +1,1 @@
-var mnemonic = "ghost safe grit hobby fame hybrid beef intact degree cycle better tumble";
+var mnemonic = "ticket dumb certain armor either absurd sweet you protect cup enhance churn";

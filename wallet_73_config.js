@@ -1,1 +1,1 @@
-var mnemonic = "soft diamond struggle defy casual unique put demand plunge jungle pipe awkward";
+var mnemonic = "turn share expose coin hat luggage orange place mobile coconut into muscle";

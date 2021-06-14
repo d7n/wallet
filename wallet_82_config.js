@@ -1,1 +1,1 @@
-var mnemonic = "cram inspire ozone ski stick salt coyote way pull attend cargo engine";
+var mnemonic = "balcony coffee liar monkey climb pizza lend april grocery boring actor lamp";

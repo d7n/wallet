@@ -1,1 +1,1 @@
-var mnemonic = "accuse bless shock palace grocery east old crop top legal science honey";
+var mnemonic = "spell liar scout load cousin near light buddy laugh sketch yard pilot";

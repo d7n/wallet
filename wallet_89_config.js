@@ -1,1 +1,1 @@
-var mnemonic = "taste pluck ceiling wire demise skin seminar multiply more another century album";
+var mnemonic = "ancient tray federal enhance mercy bullet apology degree expand traffic trip subway";

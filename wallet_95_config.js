@@ -1,1 +1,1 @@
-var mnemonic = "pledge cluster blade indicate invest sing like power bachelor arrange behave method";
+var mnemonic = "embody trash skill annual easy lecture goat frog pact age much echo";

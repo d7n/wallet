@@ -1,1 +1,1 @@
-var mnemonic = "industry donor during tuna health pond paper quiz transfer keep barrel roast";
+var mnemonic = "ice energy click fade arctic attack orient you hundred chest upper park";

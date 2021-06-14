@@ -1,1 +1,1 @@
-var mnemonic = "prepare syrup egg design turtle dismiss ancient mountain sustain vapor cradle enough";
+var mnemonic = "truck awake track tuna skate blade aware prison movie remind stamp trouble";

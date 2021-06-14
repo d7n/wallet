@@ -1,1 +1,1 @@
-var mnemonic = "syrup flat coin plunge trial cereal bottom summer easily twice ocean more";
+var mnemonic = "hello tobacco base little extend wasp science witness ribbon veteran neither intact";

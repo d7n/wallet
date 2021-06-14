@@ -1,1 +1,1 @@
-var mnemonic = "funny seven inspire bless outside chimney dinosaur party people spice radio daughter";
+var mnemonic = "express useless yellow steak december coffee glare maid assume smart license trade";

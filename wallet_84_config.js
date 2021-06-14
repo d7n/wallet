@@ -1,1 +1,1 @@
-var mnemonic = "work wrap neglect hedgehog wedding degree mask spy long old blue give";
+var mnemonic = "tone crime weapon first stool saddle taste avoid enroll danger evolve aerobic";

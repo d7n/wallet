@@ -1,1 +1,1 @@
-var mnemonic = "mix dutch eager cover bone mirror bunker garden gown top erupt torch";
+var mnemonic = "yellow lava shed tobacco cream master wood bacon plug pulp divorce athlete";

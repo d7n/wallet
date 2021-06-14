@@ -1,1 +1,1 @@
-var mnemonic = "chapter trade upset main inch accident kitchen business warm either awful repair";
+var mnemonic = "pull rotate cliff rescue spot nation girl pupil ritual joy delay dismiss";

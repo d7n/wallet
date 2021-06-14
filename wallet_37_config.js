@@ -1,1 +1,1 @@
-var mnemonic = "crash yellow permit sign badge globe token congress toe anger bitter fee";
+var mnemonic = "legend stomach pilot result limit hurry flee mule indicate wrestle swift insane";

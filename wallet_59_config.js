@@ -1,1 +1,1 @@
-var mnemonic = "enter prize card enjoy true kind vibrant motor exercise pulp speak surface";
+var mnemonic = "open area sketch border result list write trophy lawn rough tumble knee";

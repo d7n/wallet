@@ -1,1 +1,1 @@
-var mnemonic = "woman bus father alien cousin casino adjust strong kind junk waste clean";
+var mnemonic = "scene hurdle pond affair share parade random announce rocket fiction wish satisfy";

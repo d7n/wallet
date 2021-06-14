@@ -1,1 +1,1 @@
-var mnemonic = "student clutch spring siren tobacco crater mountain post endless blade base brick";
+var mnemonic = "vibrant spoon impose world elbow they unlock main foster divert top owner";

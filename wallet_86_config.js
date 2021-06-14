@@ -1,1 +1,1 @@
-var mnemonic = "picnic noble success advice wheel whip renew open egg indoor amount display";
+var mnemonic = "amused board income vanish there legend nut twist board state crouch slogan";

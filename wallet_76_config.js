@@ -1,1 +1,1 @@
-var mnemonic = "only peace helmet trim upon clay scene snack prize wealth sound kitten";
+var mnemonic = "potato device wonder plastic lizard item add grief pledge warm syrup timber";

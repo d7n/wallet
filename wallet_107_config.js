@@ -1,1 +1,1 @@
-var mnemonic = "approve skull cause finish ozone light make owner mix drastic exchange debris";
+var mnemonic = "bunker harvest vehicle slot region trash degree flip month girl latin transfer";

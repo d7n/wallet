@@ -1,1 +1,1 @@
-var mnemonic = "film tag illegal arrest engage dolphin build direct actual proud three visual";
+var mnemonic = "amused lecture dry lizard donor globe fame topple tiger burden nose favorite";

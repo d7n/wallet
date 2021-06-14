@@ -1,1 +1,1 @@
-var mnemonic = "bachelor fall glad gentle income powder boring sheriff corn elevator blossom first";
+var mnemonic = "benefit solid snack april seed area clever frozen cycle bird document magic";

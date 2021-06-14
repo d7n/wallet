@@ -1,1 +1,1 @@
-var mnemonic = "someone letter deputy vital able please tooth canvas giggle attack upset cargo";
+var mnemonic = "acid merry level only slender ladder humor then cave miss palace neutral";

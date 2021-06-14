@@ -1,1 +1,1 @@
-var mnemonic = "abstract design oyster dove unfold insane surround tube merge uniform boy reveal";
+var mnemonic = "legend gun top guide rate much super champion exit share elephant deer";

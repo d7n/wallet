@@ -1,1 +1,1 @@
-var mnemonic = "famous panther phrase pilot critic myself food organ tonight alley soul speak";
+var mnemonic = "used winner other mouse nice rate sea cabbage runway powder game write";

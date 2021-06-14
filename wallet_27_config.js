@@ -1,1 +1,1 @@
-var mnemonic = "gate sound coast atom panda figure fun mind trade original pass demand";
+var mnemonic = "boost aspect present wash math vault upon morning quality clerk soon animal";

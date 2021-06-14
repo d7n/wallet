@@ -1,1 +1,1 @@
-var mnemonic = "try dentist clutch inquiry trap next wool cost crawl test whisper wrap";
+var mnemonic = "vessel swing increase rabbit imitate where document depth picture rescue wall scrap";

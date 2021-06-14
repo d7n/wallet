@@ -1,1 +1,1 @@
-var mnemonic = "drift gesture change nature claw stock lake lemon sword borrow tank myself";
+var mnemonic = "drop sting custom subway timber power world document easily winter floor lumber";

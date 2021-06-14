@@ -1,1 +1,1 @@
-var mnemonic = "dance success panther shoulder jaguar cupboard stool banana clip cargo video mirror";
+var mnemonic = "mimic awful ignore phrase focus youth feed lumber ecology night crawl position";

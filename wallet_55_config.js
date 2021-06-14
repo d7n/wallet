@@ -1,1 +1,1 @@
-var mnemonic = "arch grunt bullet muffin dust finish element join gap quarter alter broken";
+var mnemonic = "initial repair smart dream pink annual vacant glide boat improve effort bus";
