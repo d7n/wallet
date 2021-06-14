@@ -1,1 +1,1 @@
-var mnemonic = "metal monster joy until merit valid fish choose voice coil little original";
+var mnemonic = "harvest more enhance together twelve steel when punch alter custom urge assist";

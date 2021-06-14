@@ -1,1 +1,1 @@
-var mnemonic = "print reform clump sound indicate reward puzzle mother sunset observe parade try";
+var mnemonic = "february ladder phone club behind blouse teach desert dismiss come lunar surround";

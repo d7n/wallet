@@ -1,1 +1,1 @@
-var mnemonic = "alter extend tip figure rail salad foster insect slot punch ill casino";
+var mnemonic = "receive castle wedding final evil permit lake brisk shadow actual room crater";

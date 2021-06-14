@@ -1,1 +1,1 @@
-var mnemonic = "depart bargain write enrich seek erupt model nose primary blue sea giant";
+var mnemonic = "cupboard humble taxi game economy north return siege plunge maze false fashion";

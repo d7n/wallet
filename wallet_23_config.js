@@ -1,1 +1,1 @@
-var mnemonic = "super title grab lesson direct clown symptom bridge pretty perfect diary federal";
+var mnemonic = "holiday civil couch segment topple unfair alarm either gown liquid pepper chuckle";

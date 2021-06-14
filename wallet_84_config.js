@@ -1,1 +1,1 @@
-var mnemonic = "oval search giraffe combine puppy measure loyal simple easy anxiety dawn bronze";
+var mnemonic = "zone swear inject utility truck head bring boil divide middle giant vast";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard swear dynamic space harsh you soap unit mercy phone ripple drop";
+var mnemonic = "post guard category submit subject snake public base crime oppose legend vault";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak also memory frequent forget endless near oxygen flip winner other prepare";
+var mnemonic = "small property loud inmate scout win inspire guilt age sting dynamic pair";

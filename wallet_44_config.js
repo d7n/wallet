@@ -1,1 +1,1 @@
-var mnemonic = "flavor win good hawk smooth chaos language decorate distance parent void alien";
+var mnemonic = "eagle ozone potato table digital knife panda inside tag prosper resource rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "concert walk scale message team march tuition unhappy leave beef empower long";
+var mnemonic = "enough beach acid reflect milk jeans wall unable hungry resist catalog little";

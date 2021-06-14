@@ -1,1 +1,1 @@
-var mnemonic = "during rug cloud walk pistol sniff client observe cause reason popular wonder";
+var mnemonic = "label impulse category cook chef resemble category pioneer mirror tail ship kidney";

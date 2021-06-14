@@ -1,1 +1,1 @@
-var mnemonic = "toss smile drift acoustic escape orient apology curtain night quit you require";
+var mnemonic = "stove minimum neck tomorrow clinic half side flight remain employ envelope sponsor";

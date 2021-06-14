@@ -1,1 +1,1 @@
-var mnemonic = "slide cruise tonight circle copper pluck model gift picture tissue obvious stay";
+var mnemonic = "rocket few ancient trap debris ski furnace move pass version useful wool";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap reunion catalog vicious hover rival already maze street away pudding medal";
+var mnemonic = "boat glass raccoon more audit toss cannon sting dirt feature mule impulse";

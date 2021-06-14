@@ -1,1 +1,1 @@
-var mnemonic = "lottery cook slam lab mule tuition resemble dismiss panic cricket secret insane";
+var mnemonic = "zebra uncle weasel sick short gather burden mimic arctic session bacon exclude";

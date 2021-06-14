@@ -1,1 +1,1 @@
-var mnemonic = "device section post tank present pond cancel casino program mushroom image guide";
+var mnemonic = "random carpet host episode town upset pigeon shine arrive patch cargo rapid";

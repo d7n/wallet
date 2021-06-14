@@ -1,1 +1,1 @@
-var mnemonic = "main smart truck pride work scorpion oppose sustain master walnut chat analyst";
+var mnemonic = "drum remind dust sure february donor creek series use denial cannon crack";

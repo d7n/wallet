@@ -1,1 +1,1 @@
-var mnemonic = "direct arrow auto initial skirt nose extend they avocado clinic toe slot";
+var mnemonic = "cook profit race radio note public light shrimp eager arrest easily fly";

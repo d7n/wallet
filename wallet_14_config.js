@@ -1,1 +1,1 @@
-var mnemonic = "economy fluid hurdle purity pledge muffin rib diagram spend build reduce leaf";
+var mnemonic = "pact angle jacket gentle prison honey expire stem rhythm mother unaware build";

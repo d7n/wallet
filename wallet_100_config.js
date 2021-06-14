@@ -1,1 +1,1 @@
-var mnemonic = "stand vote idle worth violin only infant someone wasp cheap banana buyer";
+var mnemonic = "document bus artwork fruit heavy bleak brother dune kidney taxi casual swing";

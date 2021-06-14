@@ -1,1 +1,1 @@
-var mnemonic = "item marriage brick arctic unusual cherry rebel increase phone palace tennis name";
+var mnemonic = "cattle tail whip dwarf state alien risk sun badge pact tent apart";

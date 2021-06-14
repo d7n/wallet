@@ -1,1 +1,1 @@
-var mnemonic = "will bus buyer nest supreme reject equal wonder elbow pumpkin mobile chapter";
+var mnemonic = "document fly auction swing elder apple gorilla fury one salt slice lava";

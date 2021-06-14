@@ -1,1 +1,1 @@
-var mnemonic = "monkey hand test frame horse output casual grab extend salute morning odor";
+var mnemonic = "material fly congress flip great uphold sting power echo shuffle entry scare";

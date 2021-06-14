@@ -1,1 +1,1 @@
-var mnemonic = "stable prevent zero valve angry sock minor guess middle blade absorb meadow";
+var mnemonic = "shoot hire forest twelve say cash boss laugh accuse blur foil diary";

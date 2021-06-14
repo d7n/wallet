@@ -1,1 +1,1 @@
-var mnemonic = "either october face similar mandate fruit more film often move heart example";
+var mnemonic = "damage tonight treat away pigeon execute then mother hurt repair add slush";

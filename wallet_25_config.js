@@ -1,1 +1,1 @@
-var mnemonic = "certain regret home tip scan bus rain push summer tenant artwork rail";
+var mnemonic = "fortune educate end artwork speed team grid chronic tape tumble lawn solid";

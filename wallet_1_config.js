@@ -1,1 +1,1 @@
-var mnemonic = "menu drill excess crawl length clock spring cup ride tornado kitten excess";
+var mnemonic = "pluck author village add ability salt trigger wall genuine strategy gadget liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "poem pave donor blue strong session remain produce arena nerve pitch cotton";
+var mnemonic = "stable total wasp alone whip moment suspect laugh lunar ethics service country";

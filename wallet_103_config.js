@@ -1,1 +1,1 @@
-var mnemonic = "accident blast clump wear slam brand unfair loan solid scorpion other away";
+var mnemonic = "dignity have whale initial afford ignore spike someone have conduct eagle duty";

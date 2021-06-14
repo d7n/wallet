@@ -1,1 +1,1 @@
-var mnemonic = "infant health upgrade twice diesel add indoor champion process resource rapid social";
+var mnemonic = "leaf beyond cliff depart depend fragile screen recall uphold tackle become neutral";

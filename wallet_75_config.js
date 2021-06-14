@@ -1,1 +1,1 @@
-var mnemonic = "olive bleak estate volcano magnet super scrub start steak antique radar foster";
+var mnemonic = "rib seed harbor narrow weekend minor craft tumble when deliver spike obey";

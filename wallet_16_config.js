@@ -1,1 +1,1 @@
-var mnemonic = "twenty wing pass menu nation shrimp cinnamon sustain vibrant advice swift orphan";
+var mnemonic = "hint wolf grocery merge always daring carry elegant flock tired vacant rotate";

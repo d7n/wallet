@@ -1,1 +1,1 @@
-var mnemonic = "tissue rubber size duck lecture silly punch peanut decade bright adapt school";
+var mnemonic = "relief cool alter follow rapid collect escape elder silent chat method act";

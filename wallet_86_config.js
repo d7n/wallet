@@ -1,1 +1,1 @@
-var mnemonic = "plate file high dirt love chat frozen rely stand buzz economy grain";
+var mnemonic = "faint summer brain squeeze swift garbage office physical year know luxury drop";

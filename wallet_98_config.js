@@ -1,1 +1,1 @@
-var mnemonic = "ostrich peasant away moral prize vintage lobster piano spend range now concert";
+var mnemonic = "grow crane must ginger power misery orphan sunny connect bundle deal angry";

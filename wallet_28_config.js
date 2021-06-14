@@ -1,1 +1,1 @@
-var mnemonic = "search glove physical bacon rail purchase boil opinion cash toss agree ahead";
+var mnemonic = "soap scrub comfort crystal print stumble image decade category network vessel blue";

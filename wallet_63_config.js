@@ -1,1 +1,1 @@
-var mnemonic = "library equal long garlic know swim cook heart tourist cabin lyrics observe";
+var mnemonic = "black cube castle mind twin group curve high ranch blood knee when";

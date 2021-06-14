@@ -1,1 +1,1 @@
-var mnemonic = "clog april eternal spy obscure spoon butter pioneer govern finish husband one";
+var mnemonic = "crane kiwi trumpet throw board holiday pelican deer foam embrace stomach custom";

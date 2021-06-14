@@ -1,1 +1,1 @@
-var mnemonic = "shaft pepper crouch seed wall rib devote note know chronic decline seven";
+var mnemonic = "recall grace rapid inside rather poet kind earn spend toe seat neck";

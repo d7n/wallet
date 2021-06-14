@@ -1,1 +1,1 @@
-var mnemonic = "medal achieve lab glove basic chronic caught obvious mystery clip special danger";
+var mnemonic = "bitter vendor furnace group record cushion lady border other arm tornado stove";

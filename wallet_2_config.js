@@ -1,1 +1,1 @@
-var mnemonic = "peanut loan dust marriage edit pen trouble wheel armed stamp rich patient";
+var mnemonic = "march approve ripple boss habit decide sign problem hybrid raw cabin thunder";

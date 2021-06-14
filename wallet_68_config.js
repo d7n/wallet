@@ -1,1 +1,1 @@
-var mnemonic = "eager lens regret narrow rhythm awesome absorb dream duck buddy elegant execute";
+var mnemonic = "select exhibit trash prize fitness between viable chief rug width slow rose";

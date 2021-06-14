@@ -1,1 +1,1 @@
-var mnemonic = "similar garlic dust very obscure assault hospital arch zero behave protect camp";
+var mnemonic = "lazy rebel recall skate need divorce census spy federal borrow tongue leave";

@@ -1,1 +1,1 @@
-var mnemonic = "test illegal lemon under use clock size reveal hour vivid wall atom";
+var mnemonic = "cactus mirror transfer flame business morning rhythm session huge economy off govern";

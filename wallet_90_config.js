@@ -1,1 +1,1 @@
-var mnemonic = "little head useful kangaroo glance month lock vibrant scan paper pet note";
+var mnemonic = "excuse mention tank nerve cloud copy cloth pause maze entry dog lunch";

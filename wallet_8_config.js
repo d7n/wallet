@@ -1,1 +1,1 @@
-var mnemonic = "lyrics open school river onion shell physical tongue valid number local choose";
+var mnemonic = "fuel common bless helmet wasp suggest ladder glad oppose husband wink invite";

@@ -1,1 +1,1 @@
-var mnemonic = "collect leader ring leaf person title injury debris above ritual silk govern";
+var mnemonic = "fetch sail huge accident suspect increase use flavor orient visual people bracket";

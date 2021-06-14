@@ -1,1 +1,1 @@
-var mnemonic = "head report pizza south myth bid radio stuff enter vacuum ecology melody";
+var mnemonic = "license city region board list swim parent scorpion assume coyote act warrior";

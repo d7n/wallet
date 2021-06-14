@@ -1,1 +1,1 @@
-var mnemonic = "cram fossil bus behind tool hole person attract blouse page owner shell";
+var mnemonic = "often main cigar people portion trip abuse travel noise heavy volume sort";

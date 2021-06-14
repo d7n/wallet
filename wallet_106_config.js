@@ -1,1 +1,1 @@
-var mnemonic = "label silk idea fly alter defy snow potato provide power glare swing";
+var mnemonic = "horror improve leader stick zero year beach exotic knife antenna hair notice";

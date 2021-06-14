@@ -1,1 +1,1 @@
-var mnemonic = "cattle across slush silk crush change develop stove other marine mixed dolphin";
+var mnemonic = "remove silk rice rifle powder deal life dust fruit master toe during";

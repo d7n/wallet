@@ -1,1 +1,1 @@
-var mnemonic = "bomb equal night praise upper swallow believe jewel scissors unfold task mail";
+var mnemonic = "inner wash more zero nephew panther pole cool repeat host swing neglect";

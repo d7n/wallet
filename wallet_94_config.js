@@ -1,1 +1,1 @@
-var mnemonic = "gallery depth indoor plate puppy slight clock asthma dentist have envelope virus";
+var mnemonic = "parade deal romance open ordinary range minimum twelve print subject carbon beach";

@@ -1,1 +1,1 @@
-var mnemonic = "focus kitchen same pig leg mutual glove abandon agree still fox prevent";
+var mnemonic = "robust lounge win manage energy cool still pass trash slot sauce way";

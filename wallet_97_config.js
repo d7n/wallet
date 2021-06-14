@@ -1,1 +1,1 @@
-var mnemonic = "august swear hello purchase turkey monitor file nature season three celery shield";
+var mnemonic = "humor absent brass minimum shy rebel casual brave great film acoustic learn";

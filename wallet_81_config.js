@@ -1,1 +1,1 @@
-var mnemonic = "cake window robot juice mean under apology fever spare sad scale seed";
+var mnemonic = "avocado pledge large obey arrest confirm original tooth fat island grace way";

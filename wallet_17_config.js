@@ -1,1 +1,1 @@
-var mnemonic = "explain guitar put february attract admit strike enhance call step gravity arrow";
+var mnemonic = "permit corn antenna reform record comfort clarify toy sport ceiling blade spell";

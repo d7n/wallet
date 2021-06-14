@@ -1,1 +1,1 @@
-var mnemonic = "comic eight avoid derive time proof special suspect sight rough link like";
+var mnemonic = "system behind hero favorite place topic hover grant match inspire token secret";

@@ -1,1 +1,1 @@
-var mnemonic = "sock merry trash asthma mosquito zoo common leader easily maple feed rebel";
+var mnemonic = "holiday gospel list toe maid reopen usual anger depend system draw that";

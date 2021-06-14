@@ -1,1 +1,1 @@
-var mnemonic = "miss shell agent popular bachelor identify swing brisk regret room merry punch";
+var mnemonic = "child fiber include winter south sniff burst dizzy quit worry amused taste";

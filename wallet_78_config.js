@@ -1,1 +1,1 @@
-var mnemonic = "spin news peanut achieve baby about word remain scheme walk lava yellow";
+var mnemonic = "pause museum close oil upper apology manage talent phone combine normal wisdom";

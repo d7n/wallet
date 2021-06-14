@@ -1,1 +1,1 @@
-var mnemonic = "spawn agree ugly cup left luggage valve horse circle nephew emotion issue";
+var mnemonic = "chair place fringe meat can trip victory provide pattern sad neck fit";

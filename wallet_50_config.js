@@ -1,1 +1,1 @@
-var mnemonic = "sustain author over size talent song struggle decorate raccoon always walk more";
+var mnemonic = "donate kit cool plunge salt smooth weasel fossil neutral around hood winner";

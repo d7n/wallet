@@ -1,1 +1,1 @@
-var mnemonic = "hundred inspire evoke boost dentist sound cinnamon recycle dizzy devote fatigue universe";
+var mnemonic = "avocado stadium picnic fog very coconut pepper castle caution accident deliver reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic book crime click goat laugh income coach east rule trash endorse";
+var mnemonic = "loan tape laugh exercise scorpion smooth jelly tunnel chair exercise core diet";

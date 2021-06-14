@@ -1,1 +1,1 @@
-var mnemonic = "coach glimpse dwarf trial sell thank draft slender choice orphan drive ecology";
+var mnemonic = "woman habit suffer soon raise bamboo private juice settle return bronze category";

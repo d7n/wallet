@@ -1,1 +1,1 @@
-var mnemonic = "advice hero little west crater regret gold rubber share develop romance raven";
+var mnemonic = "bargain idea father spell mango present learn frost island army ranch remain";

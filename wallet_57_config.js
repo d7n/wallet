@@ -1,1 +1,1 @@
-var mnemonic = "expire guess obey august song settle exist will bench tortoise impose pencil";
+var mnemonic = "ship auction way demise chef effort correct provide slide grunt onion squirrel";

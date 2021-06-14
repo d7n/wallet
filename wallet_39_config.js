@@ -1,1 +1,1 @@
-var mnemonic = "shiver valley hamster about fee teach like eye ignore slice suffer chuckle";
+var mnemonic = "garlic since degree maze flower panic man jacket rail notable park exist";

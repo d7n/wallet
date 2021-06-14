@@ -1,1 +1,1 @@
-var mnemonic = "cricket glad double scheme tissue dolphin ritual leisure sun degree step mind";
+var mnemonic = "boil night timber fiscal tent guitar knife actress pumpkin patch chat invest";

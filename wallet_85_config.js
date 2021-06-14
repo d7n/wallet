@@ -1,1 +1,1 @@
-var mnemonic = "seek frown sentence cook fetch obscure kidney half ill copper produce merit";
+var mnemonic = "twenty famous water wink panel debate health rural anxiety before increase scheme";

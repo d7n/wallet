@@ -1,1 +1,1 @@
-var mnemonic = "wear scene powder cave patient arrange proud early put soldier pyramid moon";
+var mnemonic = "erode rebel below claw receive choice refuse tiger boat address someone muscle";

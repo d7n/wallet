@@ -1,1 +1,1 @@
-var mnemonic = "derive fee broccoli huge clutch gun smoke whip tomato brief card rally";
+var mnemonic = "frog clog region alone clap during loan antenna swap shrug snap lesson";

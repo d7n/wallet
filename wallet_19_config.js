@@ -1,1 +1,1 @@
-var mnemonic = "rare session produce muscle oak honey fat emerge result income auto whale";
+var mnemonic = "silk miss exact panther cool home finish essay pet artefact outside ring";

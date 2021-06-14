@@ -1,1 +1,1 @@
-var mnemonic = "wink torch correct junk miracle topic dove snake expand level then average";
+var mnemonic = "flag prize hedgehog razor logic unveil net sad april dignity frog three";

@@ -1,1 +1,1 @@
-var mnemonic = "before achieve nurse trouble service limit dumb vanish bleak marriage ensure bean";
+var mnemonic = "appear amazing axis easily return junk switch copy mother toe swim spin";

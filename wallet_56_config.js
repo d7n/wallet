@@ -1,1 +1,1 @@
-var mnemonic = "proof sunset blame total student quiz rhythm legal century six brown blush";
+var mnemonic = "zone top cruise duck left lamp first cement lesson icon inspire enroll";

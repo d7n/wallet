@@ -1,1 +1,1 @@
-var mnemonic = "clarify drink lecture town history warrior earn group impulse lab engine artefact";
+var mnemonic = "pottery dwarf lab away figure receive list caution eagle win hunt praise";

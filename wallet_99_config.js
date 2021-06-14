@@ -1,1 +1,1 @@
-var mnemonic = "rocket juice seven huge plunge swallow buzz forget mouse happy supply mutual";
+var mnemonic = "endless wedding panther hundred rhythm business rent demise keep planet mistake lonely";

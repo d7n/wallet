@@ -1,1 +1,1 @@
-var mnemonic = "antique record swamp conduct shuffle canal small toilet author display quality melt";
+var mnemonic = "city length cage camera dress dish scorpion fortune damage club glow mixed";

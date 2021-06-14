@@ -1,1 +1,1 @@
-var mnemonic = "limit kingdom drama flag sphere motion rural lumber chat pink cricket planet";
+var mnemonic = "romance hammer coconut sniff pair suit coast maximum stick trash elbow meadow";

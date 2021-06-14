@@ -1,1 +1,1 @@
-var mnemonic = "flavor air wet steak spare bind pull easily initial tunnel carpet useless";
+var mnemonic = "bitter model item panda undo bread brain head unfair attract file frozen";

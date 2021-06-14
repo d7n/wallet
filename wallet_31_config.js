@@ -1,1 +1,1 @@
-var mnemonic = "bachelor bottom region science viable close holiday defy marine you net mean";
+var mnemonic = "kitchen strong silent brisk indicate great soul sense dad sock travel behind";

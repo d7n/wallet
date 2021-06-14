@@ -1,1 +1,1 @@
-var mnemonic = "repeat document debate divert helmet neck labor curious move cabin tomorrow sing";
+var mnemonic = "bone image capital juice ranch company brick option unveil roof frozen above";

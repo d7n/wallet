@@ -1,1 +1,1 @@
-var mnemonic = "guitar ankle today sustain lift cash neutral grief crumble firm like mean";
+var mnemonic = "enemy vessel fault blue fine reunion basket before deal network citizen faint";

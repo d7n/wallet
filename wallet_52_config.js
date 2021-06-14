@@ -1,1 +1,1 @@
-var mnemonic = "faith gaze drip secret water entire feel warm neither assist car chef";
+var mnemonic = "convince symbol knife number grain snow dad later village promote canyon ramp";
