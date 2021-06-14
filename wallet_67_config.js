@@ -1,1 +1,1 @@
-var mnemonic = "oven gas detail rebel cabbage private law awake like safe frame fresh";
+var mnemonic = "prison index fever meadow sell grape action attract smooth ridge gentle organ";

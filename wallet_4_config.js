@@ -1,1 +1,1 @@
-var mnemonic = "snack fruit quit able tornado chest idle monitor humor theme wreck firm";
+var mnemonic = "outside dilemma kangaroo net student sudden cup speed ripple risk pull violin";

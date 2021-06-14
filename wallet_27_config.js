@@ -1,1 +1,1 @@
-var mnemonic = "boost skirt trumpet build step merit butter blur settle cereal quote charge";
+var mnemonic = "gun scare desert sound same admit humor coil target reflect better glue";

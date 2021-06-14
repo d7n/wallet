@@ -1,1 +1,1 @@
-var mnemonic = "chicken series denial hurdle canal teach west addict age paddle smoke math";
+var mnemonic = "hidden clock lounge guitar pony junk core scare dust math item swap";

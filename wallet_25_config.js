@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin bamboo sell tourist course express pond wisdom predict oak main tattoo";
+var mnemonic = "depend provide govern economy sponsor brain various toilet fix make forum sentence";

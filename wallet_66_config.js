@@ -1,1 +1,1 @@
-var mnemonic = "body below glimpse index gun tuition blanket snack famous toilet parade dose";
+var mnemonic = "security require lab eyebrow tilt salmon weather company legal black enough move";

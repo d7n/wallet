@@ -1,1 +1,1 @@
-var mnemonic = "flush episode multiply lounge column cash dinner word better decide whale forum";
+var mnemonic = "glance float book flavor material cherry skin problem people hotel era still";

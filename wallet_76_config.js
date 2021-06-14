@@ -1,1 +1,1 @@
-var mnemonic = "much erupt nose fiscal giant void turkey ritual frost ostrich palm monster";
+var mnemonic = "urban minute valid regular snake alpha want kind crumble diet silk hour";

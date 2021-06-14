@@ -1,1 +1,1 @@
-var mnemonic = "already cinnamon gap dune lion crime law cross warrior bracket beach coast";
+var mnemonic = "deer wine fossil giraffe task limit wood check obvious claim auction amount";

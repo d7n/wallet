@@ -1,1 +1,1 @@
-var mnemonic = "page start title hill page banana nurse million nest reform vehicle trumpet";
+var mnemonic = "glance fever word flavor gap usual pottery witness protect cup peace wage";

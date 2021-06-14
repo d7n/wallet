@@ -1,1 +1,1 @@
-var mnemonic = "field dynamic model include catch magnet dose message more dose symbol relax";
+var mnemonic = "large patch image debris skin armor neglect require license document daughter spot";

@@ -1,1 +1,1 @@
-var mnemonic = "dad love canoe host sight shy egg access slim spot ignore cargo";
+var mnemonic = "pencil style mixed cricket omit provide dream mansion owner tobacco usual unit";

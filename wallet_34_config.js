@@ -1,1 +1,1 @@
-var mnemonic = "bulb eternal dragon menu inherit ripple soccer input around license bus peace";
+var mnemonic = "love memory genuine wage purchase increase expire kangaroo noodle unveil interest travel";

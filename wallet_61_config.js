@@ -1,1 +1,1 @@
-var mnemonic = "jar estate together wool pioneer rotate weekend maple question rug hamster topple";
+var mnemonic = "basket board improve evidence flower dice junk abandon unlock sick forest fine";

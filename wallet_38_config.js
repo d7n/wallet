@@ -1,1 +1,1 @@
-var mnemonic = "kit chicken tuna script actor exclude away reunion animal cover property quote";
+var mnemonic = "theory illness swarm relax bean stool onion people chronic brass duck song";

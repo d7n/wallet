@@ -1,1 +1,1 @@
-var mnemonic = "ability cream second swarm stable clog indicate skate garbage weapon tackle debate";
+var mnemonic = "divert prefer among vacant link aisle food hood federal metal broccoli artist";

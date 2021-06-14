@@ -1,1 +1,1 @@
-var mnemonic = "worth spirit wink scissors blush pool ankle hollow farm pole cream cash";
+var mnemonic = "meat faint option fury citizen assist dance hurdle position pencil music satoshi";

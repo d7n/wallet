@@ -1,1 +1,1 @@
-var mnemonic = "cover position rare question tomato icon tiger earth hobby merry rescue size";
+var mnemonic = "neutral isolate when foot child wheat clap slim kick oyster clock fold";

@@ -1,1 +1,1 @@
-var mnemonic = "flock earth soap doll shadow absurd fantasy finger muscle foot license bulb";
+var mnemonic = "small win inhale debate rough apology use predict myself action bicycle curve";

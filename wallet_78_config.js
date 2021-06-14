@@ -1,1 +1,1 @@
-var mnemonic = "equal ship sick silent sausage claw antique salmon oxygen lonely vague cave";
+var mnemonic = "accuse labor swamp favorite kiwi quality almost leisure turn energy settle neither";

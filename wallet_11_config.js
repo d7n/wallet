@@ -1,1 +1,1 @@
-var mnemonic = "real fame matrix mesh arrow frame remember erode frame fatal shrug vessel";
+var mnemonic = "dry magic agree tomato april creek net equal age waste right position";

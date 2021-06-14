@@ -1,1 +1,1 @@
-var mnemonic = "solution fetch sad error era trust drip short equal screen art outer";
+var mnemonic = "hotel pistol you route cargo guide retreat upper whale provide yellow drift";

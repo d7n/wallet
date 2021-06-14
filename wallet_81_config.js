@@ -1,1 +1,1 @@
-var mnemonic = "alley dutch embark blind rude foil chronic mistake sweet ski lunch rail";
+var mnemonic = "toy trigger ignore title park cart sleep tortoise below leopard letter spoon";

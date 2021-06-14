@@ -1,1 +1,1 @@
-var mnemonic = "north fluid chicken dog replace page excuse web churn tumble curious table";
+var mnemonic = "reveal danger better speak draw never stuff appear code mountain normal orange";

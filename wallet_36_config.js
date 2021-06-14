@@ -1,1 +1,1 @@
-var mnemonic = "hill access stay attitude february where toddler aware erode address fossil token";
+var mnemonic = "release canyon olive trial obscure install away special science derive sing impact";

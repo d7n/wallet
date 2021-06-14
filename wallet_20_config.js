@@ -1,1 +1,1 @@
-var mnemonic = "provide income cement must chaos office gloom mix enemy cloth equip sudden";
+var mnemonic = "nose crew cream dwarf light tray mask naive come oxygen feed avocado";

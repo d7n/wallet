@@ -1,1 +1,1 @@
-var mnemonic = "manual rail aspect crew renew analyst awake genre trend kidney category electric";
+var mnemonic = "siren avoid opera case vocal certain door tobacco veteran erupt nose private";

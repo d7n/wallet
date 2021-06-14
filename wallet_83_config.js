@@ -1,1 +1,1 @@
-var mnemonic = "myself order window payment plate spice network snack music car bottom vacant";
+var mnemonic = "review skin wild sibling sister delay direct island journey design lamp argue";

@@ -1,1 +1,1 @@
-var mnemonic = "rate find program yellow dignity bus crazy swing roast height reform license";
+var mnemonic = "skill great merry decorate buzz scorpion tone dragon around end curve adult";

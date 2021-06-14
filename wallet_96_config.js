@@ -1,1 +1,1 @@
-var mnemonic = "tongue hundred sting topple focus friend run join bomb reunion buffalo provide";
+var mnemonic = "cement travel head rice sun clever truck camera error can soccer breeze";

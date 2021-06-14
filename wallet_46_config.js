@@ -1,1 +1,1 @@
-var mnemonic = "network alarm spend skill frost share tuition hidden cupboard they almost excuse";
+var mnemonic = "depth fine aspect parent cotton list math camera increase calm flip prison";

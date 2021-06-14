@@ -1,1 +1,1 @@
-var mnemonic = "blouse grief duty enforce dismiss issue soup neutral frog knife seminar reform";
+var mnemonic = "alley again weather flame unit hope manage excite cube simple cloth short";

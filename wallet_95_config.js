@@ -1,1 +1,1 @@
-var mnemonic = "mirror hungry sadness bread head aunt buffalo airport solution focus adult reunion";
+var mnemonic = "island cabbage cloth paddle scan monkey cabbage various perfect stem protect rural";

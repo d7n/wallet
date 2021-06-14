@@ -1,1 +1,1 @@
-var mnemonic = "problem view room churn box merge funny acid tape soda exchange retire";
+var mnemonic = "brisk net faint wall client damp social left found fun kingdom gym";

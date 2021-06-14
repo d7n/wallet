@@ -1,1 +1,1 @@
-var mnemonic = "snack illegal network truck bar produce lion math dune tube result wrestle";
+var mnemonic = "spatial entry million garden exclude journey parade trophy dutch satoshi expire daring";

@@ -1,1 +1,1 @@
-var mnemonic = "engine wagon demise hard snack conduct cry season phone magic risk carpet";
+var mnemonic = "area theory will differ cannon scorpion oak urban conduct any midnight fever";

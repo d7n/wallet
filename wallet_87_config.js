@@ -1,1 +1,1 @@
-var mnemonic = "clutch yard display popular snack plastic pencil sister dragon used tunnel quote";
+var mnemonic = "disease physical celery antenna coral project hover kitchen this course blue submit";

@@ -1,1 +1,1 @@
-var mnemonic = "dose kiss popular craft coin engage rifle filter ceiling hurry crack ready";
+var mnemonic = "usual later galaxy pencil cabbage almost favorite maze term false aerobic eight";

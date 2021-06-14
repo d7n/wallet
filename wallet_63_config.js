@@ -1,1 +1,1 @@
-var mnemonic = "leg flock easily yard color buffalo keen ozone path foster lyrics teach";
+var mnemonic = "effort label slot illness nest forward van maximum increase leader blush brave";

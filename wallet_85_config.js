@@ -1,1 +1,1 @@
-var mnemonic = "air senior crane crouch soon shallow option despair sentence source ability gift";
+var mnemonic = "sound now dune cheese charge swing square photo call try ignore quantum";

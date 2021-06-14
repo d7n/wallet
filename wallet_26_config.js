@@ -1,1 +1,1 @@
-var mnemonic = "sort crowd smart uncle boat step legend scrap fatigue used meadow balance";
+var mnemonic = "connect grant kangaroo armor monster vanish mystery very planet key jump circle";

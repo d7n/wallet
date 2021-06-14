@@ -1,1 +1,1 @@
-var mnemonic = "garage fitness bright trade unusual green siege hire check enlist unable review";
+var mnemonic = "man fringe enlist echo tone oxygen guitar stable labor piano sister vault";

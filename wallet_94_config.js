@@ -1,1 +1,1 @@
-var mnemonic = "credit lounge violin crane strong elder square turtle spatial dynamic shell valid";
+var mnemonic = "airport machine impose deny bamboo banana stereo praise midnight mail focus deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur forget lake nothing resist timber lawn sun cliff extend cherry napkin";
+var mnemonic = "defy rose castle huge food harsh cupboard cradle rabbit security hobby seven";

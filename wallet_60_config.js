@@ -1,1 +1,1 @@
-var mnemonic = "patch topple lava hammer noodle slush citizen boil trash party upon sheriff";
+var mnemonic = "regret diamond gossip butter satisfy trash mind toss caught over lens country";

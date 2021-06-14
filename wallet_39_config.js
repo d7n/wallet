@@ -1,1 +1,1 @@
-var mnemonic = "elder nurse angry egg cradle swear human delay hat intact egg rifle";
+var mnemonic = "text fragile swift opera method effort devote daughter belt balcony chunk luggage";

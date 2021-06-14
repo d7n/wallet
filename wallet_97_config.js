@@ -1,1 +1,1 @@
-var mnemonic = "opera tomato increase vessel loan deer alley shove upgrade sad prize easy";
+var mnemonic = "laundry depth idea tiger debate rhythm dignity chuckle short tomorrow pulp alcohol";

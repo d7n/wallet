@@ -1,1 +1,1 @@
-var mnemonic = "scorpion flavor street tank grit vote waste believe sunny win kick else";
+var mnemonic = "timber depend duty dignity hello ridge duck tell recall share stuff maple";

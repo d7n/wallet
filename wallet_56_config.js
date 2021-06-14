@@ -1,1 +1,1 @@
-var mnemonic = "gesture vivid pudding puzzle usage grief jazz eagle silent drill chalk artwork";
+var mnemonic = "tree water romance chest course embark version they kid random text plug";

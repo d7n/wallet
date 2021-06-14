@@ -1,1 +1,1 @@
-var mnemonic = "exotic evil wolf obtain dove know guilt when time assist yellow gown";
+var mnemonic = "age carpet lizard suspect uniform nothing board engage census upon notable educate";

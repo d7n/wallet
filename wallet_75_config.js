@@ -1,1 +1,1 @@
-var mnemonic = "legend leave element coast sing group young aerobic reunion expire sunset mother";
+var mnemonic = "increase erode until wood forward dirt movie tower direct column riot tumble";

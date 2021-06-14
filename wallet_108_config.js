@@ -1,1 +1,1 @@
-var mnemonic = "fit fiber recall include tortoise zebra corn dress alone remove remove barely";
+var mnemonic = "guitar pull devote cushion extend frequent nothing panda glare knife amount pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor basket horse gospel hotel aisle hair load funny wall taste arm";
+var mnemonic = "park cannon float matrix topic sell draw slow second demise siren shield";

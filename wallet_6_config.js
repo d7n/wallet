@@ -1,1 +1,1 @@
-var mnemonic = "north name text figure suggest blue sing guard eternal basket online connect";
+var mnemonic = "habit idle cross coral eager concert sniff message utility labor sheriff wonder";

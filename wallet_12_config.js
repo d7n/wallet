@@ -1,1 +1,1 @@
-var mnemonic = "holiday code ship hawk identify entire monkey panic guess say citizen marble";
+var mnemonic = "nature weekend team essay actress beyond forum urban author mimic bar limb";

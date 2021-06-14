@@ -1,1 +1,1 @@
-var mnemonic = "stool chair general peanut enlist trim nuclear honey logic essay snap cabbage";
+var mnemonic = "little puppy journey suffer crucial gas poem face job post long curious";

@@ -1,1 +1,1 @@
-var mnemonic = "drink sense runway report laugh kiwi weekend subject town rich ridge boil";
+var mnemonic = "shoulder blood damage dish banner cricket fan solve domain type under noise";

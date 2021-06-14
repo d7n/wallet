@@ -1,1 +1,1 @@
-var mnemonic = "symptom good walk tornado day embrace canal innocent expose option cereal vehicle";
+var mnemonic = "nest identify proof decline banner option wedding pattern trigger warfare august trash";

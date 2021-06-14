@@ -1,1 +1,1 @@
-var mnemonic = "ethics toward deer coyote symptom venue coconut nurse aim morning emotion pledge";
+var mnemonic = "relax afraid imitate unknown token inject session bracket matter pass utility van";

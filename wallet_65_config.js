@@ -1,1 +1,1 @@
-var mnemonic = "risk merge stairs horror clutch couch upgrade bamboo release tilt pig canyon";
+var mnemonic = "ceiling limb ladder trumpet obtain fiber gravity grunt warm life robot easy";

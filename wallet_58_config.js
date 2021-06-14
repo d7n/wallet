@@ -1,1 +1,1 @@
-var mnemonic = "state royal castle very have grid enforce actual demand gym fitness oven";
+var mnemonic = "crew valve ensure need skill retreat cousin measure act apart spatial quantum";

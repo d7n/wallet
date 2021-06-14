@@ -1,1 +1,1 @@
-var mnemonic = "swap shadow thrive reunion gain truly awkward canvas rescue park bridge fancy";
+var mnemonic = "gospel reduce noise spread virtual drum this boat parent jungle assist easy";

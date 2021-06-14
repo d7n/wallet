@@ -1,1 +1,1 @@
-var mnemonic = "panther faculty escape limit copy dress gather apart price hard game canal";
+var mnemonic = "powder cash focus pioneer embody flat delay view vital inmate insect outer";

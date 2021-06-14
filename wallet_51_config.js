@@ -1,1 +1,1 @@
-var mnemonic = "delay dash category common stand sample matter grace absorb harbor elbow hub";
+var mnemonic = "answer tray first connect response illness slim magic captain cash snap cook";

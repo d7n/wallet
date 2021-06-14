@@ -1,1 +1,1 @@
-var mnemonic = "cart sport wise venue december sport dance prevent ancient bottom final tunnel";
+var mnemonic = "work shaft laundry drop salad harsh raven unfair explain three leader neutral";

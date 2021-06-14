@@ -1,1 +1,1 @@
-var mnemonic = "belt hurry horn sand inject journey put cargo detect negative margin express";
+var mnemonic = "crater logic olympic alpha protect blame spell hungry spray increase require auction";

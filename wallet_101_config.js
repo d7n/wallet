@@ -1,1 +1,1 @@
-var mnemonic = "penalty under hair reopen solar they tiny inmate basket inquiry minor salad";
+var mnemonic = "extend art trend century sight best wrap second return radar forest vanish";

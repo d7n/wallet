@@ -1,1 +1,1 @@
-var mnemonic = "stable grape ginger genius scale priority ignore rebuild blossom garden ankle improve";
+var mnemonic = "expose bonus shiver until guess attitude hedgehog furnace tail symptom garment clock";

@@ -1,1 +1,1 @@
-var mnemonic = "deer diesel wash sunny limb lumber winter domain crowd battle unaware tongue";
+var mnemonic = "shaft mad arrange flame anxiety clutch minor piano general neck kidney fix";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep nature cat almost soccer talent fatigue first tackle glove gown seat";
+var mnemonic = "rare clump tragic gorilla three fine question believe any assume early evidence";

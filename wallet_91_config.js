@@ -1,1 +1,1 @@
-var mnemonic = "guilt blood patient exclude defy awkward useful zone clump beauty dawn table";
+var mnemonic = "cradle solar brave blast author chief salt beauty into myth oxygen settle";

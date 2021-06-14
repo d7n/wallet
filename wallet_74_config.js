@@ -1,1 +1,1 @@
-var mnemonic = "soul teach rare hat below estate gloom trick soldier warfare marriage pottery";
+var mnemonic = "siren earth family peanut doctor hint parent market mansion when table tongue";

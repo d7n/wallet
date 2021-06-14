@@ -1,1 +1,1 @@
-var mnemonic = "owner pretty cover dinner surprise blade heart glide capital margin pair employ";
+var mnemonic = "runway vessel silver picnic bind lava letter pilot video length gesture drip";

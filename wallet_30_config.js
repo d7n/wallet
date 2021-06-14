@@ -1,1 +1,1 @@
-var mnemonic = "cage cereal squeeze story tragic goat laugh south dream snake swarm cereal";
+var mnemonic = "equip detect valley list panda bullet powder come slide blast person bus";

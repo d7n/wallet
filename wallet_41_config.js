@@ -1,1 +1,1 @@
-var mnemonic = "child essence slush decline immune boost gloom rocket spend recycle man option";
+var mnemonic = "employ vital hedgehog intact width reason defense search twin decrease flag bar";

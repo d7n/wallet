@@ -1,1 +1,1 @@
-var mnemonic = "loud candy dwarf trend occur plug provide setup hard hold language hobby";
+var mnemonic = "sound consider sport fly economy shoulder cotton pepper celery arrange abandon next";

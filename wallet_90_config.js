@@ -1,1 +1,1 @@
-var mnemonic = "ginger gym subway child title unfair abuse essay morning laptop hello peanut";
+var mnemonic = "naive select bonus away capable chapter start upgrade little balance stereo crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "index copper clap lottery rug burst bone merry proof cycle bench random";
+var mnemonic = "order diamond defense business tip nation follow category file photo obtain juice";

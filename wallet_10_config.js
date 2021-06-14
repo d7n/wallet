@@ -1,1 +1,1 @@
-var mnemonic = "soda nice image glad lucky huge expire develop pattern six skull chaos";
+var mnemonic = "grab gallery now amused feature salt chapter pioneer because say join income";

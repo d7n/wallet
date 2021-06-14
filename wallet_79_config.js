@@ -1,1 +1,1 @@
-var mnemonic = "creek answer verb govern neither layer flat infant cost around fringe husband";
+var mnemonic = "blood fresh wheat yard cream inner castle crawl bean flee spatial convince";

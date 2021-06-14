@@ -1,1 +1,1 @@
-var mnemonic = "share later fluid emerge wait person vague solar local script flight direct";
+var mnemonic = "solve entry avoid answer uniform load scale sausage photo twice piano push";

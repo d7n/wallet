@@ -1,1 +1,1 @@
-var mnemonic = "milk voice genuine problem practice bless brain comic believe vicious skill club";
+var mnemonic = "barrel economy absurd raccoon oval submit pitch stick surface solve breeze left";

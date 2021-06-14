@@ -1,1 +1,1 @@
-var mnemonic = "enhance hero giraffe chef brain foam version hybrid violin opera napkin abuse";
+var mnemonic = "random grunt super champion canvas fever symbol basket decorate symbol evidence surge";

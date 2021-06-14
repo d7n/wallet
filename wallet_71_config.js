@@ -1,1 +1,1 @@
-var mnemonic = "mobile table scrub type plastic next marriage treat mango trick federal image";
+var mnemonic = "frost slow slight thought limit zebra since verb shoe unveil idle palace";

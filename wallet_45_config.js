@@ -1,1 +1,1 @@
-var mnemonic = "dragon upon life access powder ship mass light strong limb search toss";
+var mnemonic = "spawn vibrant success vessel rookie purpose wing ability high soon answer curve";

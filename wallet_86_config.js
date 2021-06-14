@@ -1,1 +1,1 @@
-var mnemonic = "habit win tray wise shy neither make cancel change monkey stage girl";
+var mnemonic = "private anxiety visual carpet giggle sting tape east parrot skill network scissors";

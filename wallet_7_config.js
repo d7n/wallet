@@ -1,1 +1,1 @@
-var mnemonic = "betray cart chalk empty quit embark ability depth chase faith ten process";
+var mnemonic = "scare alien strategy rifle club soccer spice knock yellow chaos any snake";

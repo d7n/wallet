@@ -1,1 +1,1 @@
-var mnemonic = "forward engage client stool under hood zone warfare shy funny denial lucky";
+var mnemonic = "magic must together universe zone analyst wing web extra gun scare column";

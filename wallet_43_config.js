@@ -1,1 +1,1 @@
-var mnemonic = "pulse cage find twelve tired small ready team ordinary meadow talk method";
+var mnemonic = "toss gadget indicate mom real crater click step panel enhance kidney fever";
