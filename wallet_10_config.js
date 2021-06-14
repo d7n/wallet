@@ -1,1 +1,1 @@
-var mnemonic = "crumble good they shoot decrease plastic stage achieve account tool spike cute";
+var mnemonic = "curve choose loud eager matter injury paper peace easily risk slender diagram";

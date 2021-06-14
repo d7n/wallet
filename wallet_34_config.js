@@ -1,1 +1,1 @@
-var mnemonic = "innocent dry tooth toy choose warrior final senior hand sad point earn";
+var mnemonic = "ceiling patrol gain moral hospital approve bus twice noble nation cram balcony";

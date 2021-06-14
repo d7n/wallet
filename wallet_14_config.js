@@ -1,1 +1,1 @@
-var mnemonic = "belt liar equal alone assist often wisdom marble brisk feature similar neither";
+var mnemonic = "floor clean donate ignore plug version hour brother promote employ school bind";

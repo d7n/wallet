@@ -1,1 +1,1 @@
-var mnemonic = "detect fancy crouch evoke near melody airport label swift piece myth switch";
+var mnemonic = "general chest problem try hint chief mansion leisure choose cram thumb oxygen";

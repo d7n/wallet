@@ -1,1 +1,1 @@
-var mnemonic = "destroy kiwi judge domain divert earth mimic iron debris afford harsh pistol";
+var mnemonic = "village catalog cinnamon senior page theory hope giggle short exile inject have";

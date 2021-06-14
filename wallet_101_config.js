@@ -1,1 +1,1 @@
-var mnemonic = "sand memory escape stamp know butter slice expect save enforce visit world";
+var mnemonic = "cotton broom eight claim lab dignity prevent letter famous noise stay blue";

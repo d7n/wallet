@@ -1,1 +1,1 @@
-var mnemonic = "badge garage select draft police inmate vacant alone nerve doll loop gorilla";
+var mnemonic = "panel blur glow voice ice episode high achieve upgrade salt gym essay";

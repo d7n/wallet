@@ -1,1 +1,1 @@
-var mnemonic = "fruit hockey helmet blossom merit girl dilemma fade result army decorate undo";
+var mnemonic = "motor spread mass emerge clay diary armor feed destroy nurse risk beach";

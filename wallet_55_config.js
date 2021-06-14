@@ -1,1 +1,1 @@
-var mnemonic = "exact method entire topic winter live hidden island menu release tool tribe";
+var mnemonic = "erupt vendor swamp fringe camp dose noble six police cute guilt choice";

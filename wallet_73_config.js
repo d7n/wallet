@@ -1,1 +1,1 @@
-var mnemonic = "artist chat buzz wreck relief suggest balance floor gap tongue month render";
+var mnemonic = "decade horror feed trumpet donor corn jazz style can pulse ladder quantum";

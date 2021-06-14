@@ -1,1 +1,1 @@
-var mnemonic = "broken genuine radio alpha concert insect super autumn sniff quiz chair dice";
+var mnemonic = "usage final lemon tide boil give city okay slight hood jazz cram";

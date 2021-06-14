@@ -1,1 +1,1 @@
-var mnemonic = "embrace urge gym hub shadow sight flee squeeze maze journey remember artwork";
+var mnemonic = "normal grow know junior donor acid labor derive cook essay jazz party";

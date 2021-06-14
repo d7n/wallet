@@ -1,1 +1,1 @@
-var mnemonic = "auction eager evidence erase scorpion gospel obey siren romance limit hybrid opinion";
+var mnemonic = "depend seven pact prevent salad bench review boat rescue history spread forum";

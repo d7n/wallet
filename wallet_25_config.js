@@ -1,1 +1,1 @@
-var mnemonic = "cheese illegal useful already dry demand must toast blur mimic donor soon";
+var mnemonic = "myself grow venue once claw acid weird mom canoe misery ankle bridge";

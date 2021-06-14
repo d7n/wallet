@@ -1,1 +1,1 @@
-var mnemonic = "flame runway wood rose volume ten lake shaft little wrong wool invest";
+var mnemonic = "fiction habit scatter expand oyster water degree pool spread winner skirt inhale";

@@ -1,1 +1,1 @@
-var mnemonic = "boil august gauge label road furnace bullet dumb husband output mind world";
+var mnemonic = "horn subject ostrich lunar crop tool lab margin cube august height shock";

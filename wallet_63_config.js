@@ -1,1 +1,1 @@
-var mnemonic = "common tiny over media breeze twice label process goat sample garbage early";
+var mnemonic = "punch road mystery turtle unable night stock weather exact shoe question village";

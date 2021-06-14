@@ -1,1 +1,1 @@
-var mnemonic = "fine army rice title trip zone detail blood surround intact mesh envelope";
+var mnemonic = "trim differ stone already fan pull close frown three soul sniff chat";

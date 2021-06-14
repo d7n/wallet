@@ -1,1 +1,1 @@
-var mnemonic = "join online shed capable bulb indicate position media enrich raven logic knee";
+var mnemonic = "top damage unit kite auto empty father derive man lake option universe";

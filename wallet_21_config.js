@@ -1,1 +1,1 @@
-var mnemonic = "divorce head upset tenant toddler anxiety copy neutral position grocery token woman";
+var mnemonic = "physical joy eager tuition fog join orchard stool diamond pact flavor split";

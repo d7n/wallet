@@ -1,1 +1,1 @@
-var mnemonic = "robust fantasy same mansion hunt armor brass coral cigar dice warm kangaroo";
+var mnemonic = "effort baby little run note giant march exit try siege couch craft";

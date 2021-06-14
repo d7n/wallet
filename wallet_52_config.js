@@ -1,1 +1,1 @@
-var mnemonic = "neutral height fruit legal club gather swap decline atom chapter silly text";
+var mnemonic = "network gown zoo relief army profit cushion sick glance nephew card dirt";

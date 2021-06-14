@@ -1,1 +1,1 @@
-var mnemonic = "bundle click throw camp claw concert cluster exercise wrestle morning bonus museum";
+var mnemonic = "inherit cat foam carpet soup hard force supreme rare ball dream twin";

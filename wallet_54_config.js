@@ -1,1 +1,1 @@
-var mnemonic = "twin van nature october black original total flip call neutral can gloom";
+var mnemonic = "accuse return symbol nasty fade voice ghost pull saddle option picnic emerge";

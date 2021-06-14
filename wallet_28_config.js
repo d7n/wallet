@@ -1,1 +1,1 @@
-var mnemonic = "among nest pet defense joy trash voice giggle riot mutual suggest void";
+var mnemonic = "oval civil culture wonder mushroom enrich fruit approve jewel cloth phrase vault";

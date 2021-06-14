@@ -1,1 +1,1 @@
-var mnemonic = "hundred unique market scheme tape rigid boil spread flip repair just cradle";
+var mnemonic = "truck stay input lecture conduct duty unusual flip alone conduct rally eight";

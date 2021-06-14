@@ -1,1 +1,1 @@
-var mnemonic = "fine about spirit wolf income jeans place thought phrase race inflict leaf";
+var mnemonic = "album away march lyrics order soup beyond loan pause razor caution strong";

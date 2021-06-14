@@ -1,1 +1,1 @@
-var mnemonic = "put razor black vibrant perfect taste phrase bone unit bike sail danger";
+var mnemonic = "enough daughter sun floor praise elephant crater harsh photo case erase area";

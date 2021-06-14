@@ -1,1 +1,1 @@
-var mnemonic = "forget title tuna trumpet infant prosper wild juice balcony grid night develop";
+var mnemonic = "logic letter animal track together humor inject because risk friend coach frame";

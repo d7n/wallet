@@ -1,1 +1,1 @@
-var mnemonic = "course umbrella weird stamp pupil member hip manage absent bamboo narrow lawn";
+var mnemonic = "ball key eye gallery they frame sudden vivid finger buyer govern worth";

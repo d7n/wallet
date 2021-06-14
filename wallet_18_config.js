@@ -1,1 +1,1 @@
-var mnemonic = "supreme age yard caught follow like magnet record glove moral panel victory";
+var mnemonic = "apart breeze tree gas off fire tired diesel small fruit cost warm";

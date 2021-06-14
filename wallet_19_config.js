@@ -1,1 +1,1 @@
-var mnemonic = "alone behind exercise able turkey salon blush width lab reveal blue alert";
+var mnemonic = "relief miss olive spread adult donor acid desert napkin mix wish office";

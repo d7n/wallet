@@ -1,1 +1,1 @@
-var mnemonic = "start spoon steel praise front guitar chest peace dumb canvas antenna assault";
+var mnemonic = "decide consider margin end axis brother pencil laundry blind wolf help travel";

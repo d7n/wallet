@@ -1,1 +1,1 @@
-var mnemonic = "crawl song utility holiday huge style habit print throw lunar gun loop";
+var mnemonic = "aisle under solid access asthma relief goddess correct aim rug pink member";

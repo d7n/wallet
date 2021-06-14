@@ -1,1 +1,1 @@
-var mnemonic = "will tunnel open satisfy carbon track alien surface action common laugh idle";
+var mnemonic = "chair defense now lecture damage drive defy control wealth blame pistol program";

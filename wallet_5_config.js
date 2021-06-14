@@ -1,1 +1,1 @@
-var mnemonic = "ghost canal spirit piece hint layer party liberty refuse shield under farm";
+var mnemonic = "theory script volume audit involve myth clerk useless treat clown short stick";

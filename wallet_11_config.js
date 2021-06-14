@@ -1,1 +1,1 @@
-var mnemonic = "phone shuffle island future once initial addict goat visit decade reveal gift";
+var mnemonic = "clean strategy oak enact say collect wink tag stove turkey staff senior";

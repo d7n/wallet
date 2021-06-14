@@ -1,1 +1,1 @@
-var mnemonic = "video flip outside animal sad viable dish promote decade vital beef sword";
+var mnemonic = "fashion melt silver flip eternal poem ankle sight voyage chase vote bus";

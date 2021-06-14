@@ -1,1 +1,1 @@
-var mnemonic = "uncle cactus item sick dog certain joy love youth clay price because";
+var mnemonic = "forum silver clip wave eagle romance engine derive answer material pact jump";

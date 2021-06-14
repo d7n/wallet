@@ -1,1 +1,1 @@
-var mnemonic = "renew truth hope acquire wood owner strong dumb agent pet family fossil";
+var mnemonic = "chimney riot catalog monkey mouse cave page clerk over donor oyster syrup";

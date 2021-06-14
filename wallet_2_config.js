@@ -1,1 +1,1 @@
-var mnemonic = "bus frog wire lecture amateur buddy actual slim abstract inhale hybrid swing";
+var mnemonic = "magnet beach action fun entire twin buzz armed critic napkin disagree mirror";

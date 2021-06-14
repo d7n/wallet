@@ -1,1 +1,1 @@
-var mnemonic = "federal reveal orchard margin rhythm acquire filter ostrich risk style barely hero";
+var mnemonic = "lock nose glass deposit slender elbow pattern bracket version trouble close depend";

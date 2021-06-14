@@ -1,1 +1,1 @@
-var mnemonic = "left ethics night educate glue violin vendor one skirt typical network process";
+var mnemonic = "grant anger sleep soldier parrot buddy robot zoo latin journey lyrics long";

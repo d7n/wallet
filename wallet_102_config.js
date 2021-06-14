@@ -1,1 +1,1 @@
-var mnemonic = "dry wealth panic disease unlock abandon ginger organ swift above sorry connect";
+var mnemonic = "town castle promote boy wing caution way marine order episode quote grape";

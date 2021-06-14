@@ -1,1 +1,1 @@
-var mnemonic = "credit resemble symptom antique nest tank auction floor hood hover public honey";
+var mnemonic = "fuel two kick circle crowd between spawn hold cable unique below two";

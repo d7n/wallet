@@ -1,1 +1,1 @@
-var mnemonic = "mountain pool seven lyrics arrow tongue vicious panther happy flight weather squeeze";
+var mnemonic = "view exile eyebrow coyote spider upset expire ranch sing buzz expect unusual";

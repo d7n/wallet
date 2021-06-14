@@ -1,1 +1,1 @@
-var mnemonic = "trim day limb account decade engage pill gravity observe confirm flat meat";
+var mnemonic = "fog upgrade slice tonight hollow sing beyond bronze present ankle discover kitten";

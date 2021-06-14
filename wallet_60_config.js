@@ -1,1 +1,1 @@
-var mnemonic = "basic reduce airport sister tunnel mistake exhaust aware mix oyster minimum deny";
+var mnemonic = "spice focus feel circle faith attitude future two purity lend fault yard";

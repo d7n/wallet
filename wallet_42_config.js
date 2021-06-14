@@ -1,1 +1,1 @@
-var mnemonic = "fluid around submit rent crazy match confirm figure cigar fat jungle resource";
+var mnemonic = "cradle purchase rug panic cup alarm umbrella unique champion ensure gap hidden";

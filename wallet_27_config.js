@@ -1,1 +1,1 @@
-var mnemonic = "come misery photo permit thing distance stove skill repair label cupboard indoor";
+var mnemonic = "deliver raw winner shaft simple catalog grain giggle hard drum attack trophy";

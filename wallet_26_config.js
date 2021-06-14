@@ -1,1 +1,1 @@
-var mnemonic = "deal bright lamp desk category rib mesh safe pumpkin judge goose flock";
+var mnemonic = "marble subject tiny sponsor plate federal maze daughter tourist final fitness paper";

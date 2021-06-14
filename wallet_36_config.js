@@ -1,1 +1,1 @@
-var mnemonic = "own aerobic borrow toss napkin jacket salon mandate harsh fiscal course uncover";
+var mnemonic = "other merge firm lava romance hazard cushion fog nothing upon prefer notice";

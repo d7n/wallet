@@ -1,1 +1,1 @@
-var mnemonic = "current prepare enact gallery pipe anxiety pitch beauty shine plug junk express";
+var mnemonic = "eyebrow attract injury cave myself bar own element summer antique horse forum";

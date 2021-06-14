@@ -1,1 +1,1 @@
-var mnemonic = "labor coast faculty boat canal stool average snap anxiety prosper orchard grant";
+var mnemonic = "zone inside pull metal grace boy wall swear mirror snap expose list";

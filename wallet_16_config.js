@@ -1,1 +1,1 @@
-var mnemonic = "gallery brisk sad success brush cat seek virtual image near aerobic door";
+var mnemonic = "year play room nest hint tower wire original mango crystal strong original";

@@ -1,1 +1,1 @@
-var mnemonic = "typical negative moon carpet voyage thing airport defense blade garden deliver year";
+var mnemonic = "early clay dizzy always earn father hint explain gather soft fee work";

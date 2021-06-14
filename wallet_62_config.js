@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit cradle stool basic decide side crew soccer pet cotton real live";
+var mnemonic = "dawn artefact plastic traffic husband dance flame bus tunnel jaguar bulk once";

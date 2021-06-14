@@ -1,1 +1,1 @@
-var mnemonic = "wrist lawn there orphan mushroom jeans office transfer avocado burden dawn boat";
+var mnemonic = "chunk depart reason resemble culture menu never admit host maze walnut universe";

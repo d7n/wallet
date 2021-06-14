@@ -1,1 +1,1 @@
-var mnemonic = "decide decrease fog sketch excuse market bird foot egg fame vibrant youth";
+var mnemonic = "laptop chuckle index close wasp track small fish wrist clay coral coil";

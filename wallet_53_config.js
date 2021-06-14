@@ -1,1 +1,1 @@
-var mnemonic = "eye goose assist picnic pen season exist wave describe spatial dolphin ecology";
+var mnemonic = "pull annual about immune brand wave input planet exile blind argue extra";

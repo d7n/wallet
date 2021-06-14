@@ -1,1 +1,1 @@
-var mnemonic = "enemy language cabbage hockey want silent spray afford body usual camera butter";
+var mnemonic = "length across cat school before onion mosquito frog multiply couch wolf raw";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear bus mouse peasant artist keep hour exclude remind lunch biology female";
+var mnemonic = "cushion excite oppose wall unfair castle soda average student recipe eager purity";

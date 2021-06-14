@@ -1,1 +1,1 @@
-var mnemonic = "length waste glide above social like green situate timber baby fiction record";
+var mnemonic = "dice slide one harbor better night bread chunk jelly toss hybrid talk";

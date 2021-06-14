@@ -1,1 +1,1 @@
-var mnemonic = "usage attitude strong cigar soda bridge decrease save barrel apple face ecology";
+var mnemonic = "aisle faculty hip key voice raise half jazz win senior canal elder";

@@ -1,1 +1,1 @@
-var mnemonic = "equip vacuum lion wire inspire magnet zebra envelope sponsor great equip tiny";
+var mnemonic = "raccoon palace merge yard erase oval spray liar firm summer crash crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "trial chase innocent bundle solar best tide firm cause afford apple shoe";
+var mnemonic = "cram lizard ranch primary quarter pear joy gain rice bicycle cabbage dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "ordinary depth couple ostrich adjust brief liar brave snap eternal trigger two";
+var mnemonic = "repair snow top kid zero six tourist chair often second pluck pluck";

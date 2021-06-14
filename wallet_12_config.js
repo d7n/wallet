@@ -1,1 +1,1 @@
-var mnemonic = "safe dynamic shuffle vocal quote ecology best fox chest fever intact surge";
+var mnemonic = "merge know region junk blast poem crew pet hen door erode month";

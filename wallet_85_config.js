@@ -1,1 +1,1 @@
-var mnemonic = "early hire kit next sniff trip depend ship alpha grain gap giggle";
+var mnemonic = "change boil rice acid cabbage tree library leopard tip proud trade lizard";

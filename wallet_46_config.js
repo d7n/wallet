@@ -1,1 +1,1 @@
-var mnemonic = "coast comfort innocent woman year culture cry steel shy wool rug into";
+var mnemonic = "wrong supreme match frost cheese buddy tent intact march illness shoot say";

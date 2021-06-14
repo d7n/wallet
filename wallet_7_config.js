@@ -1,1 +1,1 @@
-var mnemonic = "sail high energy bench merge gauge float plate parent lounge jealous captain";
+var mnemonic = "surge powder cable rabbit cinnamon okay joy deer gorilla affair dog quote";

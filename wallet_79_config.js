@@ -1,1 +1,1 @@
-var mnemonic = "avoid comic hurdle roof tackle run before clown this document rent brush";
+var mnemonic = "ask spike violin spider deliver puppy music jewel maze behave fit shrimp";

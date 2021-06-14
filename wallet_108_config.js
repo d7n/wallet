@@ -1,1 +1,1 @@
-var mnemonic = "lake race people possible mother inmate lemon opinion crazy reject certain desert";
+var mnemonic = "surround parent coach drop lottery sad ivory enough asthma skill alter short";

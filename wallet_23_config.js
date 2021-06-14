@@ -1,1 +1,1 @@
-var mnemonic = "payment check enemy airport method erupt similar daughter together faith during lunar";
+var mnemonic = "choose hurdle link usage tag narrow tide patient describe notice rate paddle";

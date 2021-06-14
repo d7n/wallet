@@ -1,1 +1,1 @@
-var mnemonic = "doctor lawn cup assume grit country east lumber scorpion teach joke guess";
+var mnemonic = "bread find boss steak minor tray crucial bread enact shallow weird rice";

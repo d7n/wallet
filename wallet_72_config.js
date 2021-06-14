@@ -1,1 +1,1 @@
-var mnemonic = "awkward park provide gate auction truth keep lens tuna letter illegal bean";
+var mnemonic = "come swing mask scout shop funny orange check large earn idle pledge";

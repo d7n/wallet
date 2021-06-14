@@ -1,1 +1,1 @@
-var mnemonic = "blood village enjoy work harsh blanket rail actual tray crack armor anchor";
+var mnemonic = "pattern chalk prepare warrior random ritual coin thought soda gallery phone garden";

@@ -1,1 +1,1 @@
-var mnemonic = "woman spirit camp come dog cover cake father vibrant mechanic diary agent";
+var mnemonic = "fashion letter scrub theory arrest usage fatigue ice already ask budget cube";

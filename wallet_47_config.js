@@ -1,1 +1,1 @@
-var mnemonic = "clarify figure fantasy settle middle drum crawl learn dismiss glide crush sudden";
+var mnemonic = "nice math essence peasant labor this twelve cushion cave object pudding loud";

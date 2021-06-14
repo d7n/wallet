@@ -1,1 +1,1 @@
-var mnemonic = "face mom slush glove annual tilt crush twist fence aware ring camera";
+var mnemonic = "pitch liar emotion valid dress day argue slot prepare split erode fever";

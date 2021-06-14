@@ -1,1 +1,1 @@
-var mnemonic = "roof question pulse tank skirt region object bar drastic print wide witness";
+var mnemonic = "funny client drastic critic possible way mixed mobile crisp onion solve own";

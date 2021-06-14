@@ -1,1 +1,1 @@
-var mnemonic = "peanut toy dial legend pitch empty faculty immense emotion wife dry forward";
+var mnemonic = "affair tiger bullet hollow predict cost devote idle cricket pledge stamp hurt";

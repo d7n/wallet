@@ -1,1 +1,1 @@
-var mnemonic = "front crush valley topple image assist cabbage either number exotic melt abuse";
+var mnemonic = "armed loan mouse help desk embody enact arch tonight science drum awesome";

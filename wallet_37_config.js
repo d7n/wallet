@@ -1,1 +1,1 @@
-var mnemonic = "bird family lottery claw planet cube mad escape practice vehicle predict shaft";
+var mnemonic = "moon jaguar million describe universe chat symptom envelope extra average also still";
