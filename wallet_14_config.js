@@ -1,1 +1,1 @@
-var mnemonic = "learn crumble sea survey sleep beef crouch assault apology circle citizen memory";
+var mnemonic = "worth spirit wink scissors blush pool ankle hollow farm pole cream cash";

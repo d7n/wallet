@@ -1,1 +1,1 @@
-var mnemonic = "disorder used crowd usage virus adult better blade switch shop craft panic";
+var mnemonic = "child essence slush decline immune boost gloom rocket spend recycle man option";

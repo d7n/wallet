@@ -1,1 +1,1 @@
-var mnemonic = "impact guide cheese fall regret interest spoil rotate quantum nothing weird zone";
+var mnemonic = "myself order window payment plate spice network snack music car bottom vacant";

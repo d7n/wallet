@@ -1,1 +1,1 @@
-var mnemonic = "identify mail frost twist name conduct bundle youth remove warrior baby tourist";
+var mnemonic = "poet act indoor velvet month keep eager skirt violin clerk tennis animal";

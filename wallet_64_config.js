@@ -1,1 +1,1 @@
-var mnemonic = "loop find silent hawk fringe sheriff cotton obey easy uncover dose lizard";
+var mnemonic = "ability cream second swarm stable clog indicate skate garbage weapon tackle debate";

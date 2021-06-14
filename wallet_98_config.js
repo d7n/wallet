@@ -1,1 +1,1 @@
-var mnemonic = "pact spare mask lumber aware increase sorry tide erase usage net flower";
+var mnemonic = "ethics toward deer coyote symptom venue coconut nurse aim morning emotion pledge";

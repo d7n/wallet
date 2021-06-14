@@ -1,1 +1,1 @@
-var mnemonic = "defense cart animal category dove hire crowd end load steak recycle bike";
+var mnemonic = "alley dutch embark blind rude foil chronic mistake sweet ski lunch rail";

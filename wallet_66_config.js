@@ -1,1 +1,1 @@
-var mnemonic = "such into spring indoor report stem play mixed answer noodle toy rude";
+var mnemonic = "body below glimpse index gun tuition blanket snack famous toilet parade dose";

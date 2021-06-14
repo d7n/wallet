@@ -1,1 +1,1 @@
-var mnemonic = "build rebel rain wet error apology imitate satisfy blouse radar flower waste";
+var mnemonic = "drink sense runway report laugh kiwi weekend subject town rich ridge boil";

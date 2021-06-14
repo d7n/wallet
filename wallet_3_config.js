@@ -1,1 +1,1 @@
-var mnemonic = "absurd shuffle only hand useless mask tenant bundle ostrich antenna join over";
+var mnemonic = "dose kiss popular craft coin engage rifle filter ceiling hurry crack ready";

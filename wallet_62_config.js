@@ -1,1 +1,1 @@
-var mnemonic = "pistol miracle wild shallow rib song eternal shadow maximum program cube pencil";
+var mnemonic = "dad love canoe host sight shy egg access slim spot ignore cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "jar put breeze senior spare off roof resist dish supply math text";
+var mnemonic = "risk merge stairs horror clutch couch upgrade bamboo release tilt pig canyon";

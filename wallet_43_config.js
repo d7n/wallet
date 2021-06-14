@@ -1,1 +1,1 @@
-var mnemonic = "evoke eagle chest bulb twelve ready staff idle type true smoke vacant";
+var mnemonic = "pulse cage find twelve tired small ready team ordinary meadow talk method";

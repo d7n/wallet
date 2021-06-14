@@ -1,1 +1,1 @@
-var mnemonic = "sort taxi fall fold soul child cigar modify choice chunk tone biology";
+var mnemonic = "penalty under hair reopen solar they tiny inmate basket inquiry minor salad";

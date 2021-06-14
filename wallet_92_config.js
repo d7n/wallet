@@ -1,1 +1,1 @@
-var mnemonic = "long arch recipe leaf drama helmet problem witness force eagle nation road";
+var mnemonic = "flock earth soap doll shadow absurd fantasy finger muscle foot license bulb";

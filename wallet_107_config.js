@@ -1,1 +1,1 @@
-var mnemonic = "boat install learn festival toast rate garment reduce pizza bitter ranch dune";
+var mnemonic = "mutual reunion chaos health oxygen lend frown scrap gasp sock short skirt";

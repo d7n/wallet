@@ -1,1 +1,1 @@
-var mnemonic = "order sad order anxiety check faint bid coil buddy fortune dilemma proof";
+var mnemonic = "north fluid chicken dog replace page excuse web churn tumble curious table";

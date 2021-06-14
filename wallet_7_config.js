@@ -1,1 +1,1 @@
-var mnemonic = "method gun reflect fog thrive group punch raccoon position middle rib finger";
+var mnemonic = "betray cart chalk empty quit embark ability depth chase faith ten process";

@@ -1,1 +1,1 @@
-var mnemonic = "ten fury rhythm vague attack pull together tonight loyal never quantum slab";
+var mnemonic = "leg flock easily yard color buffalo keen ozone path foster lyrics teach";

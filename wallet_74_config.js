@@ -1,1 +1,1 @@
-var mnemonic = "detail sauce clump other viable laptop cruise someone lend impact mom liquid";
+var mnemonic = "soul teach rare hat below estate gloom trick soldier warfare marriage pottery";

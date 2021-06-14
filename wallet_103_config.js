@@ -1,1 +1,1 @@
-var mnemonic = "decorate trash fly mistake stuff unveil split tilt fringe brass ice century";
+var mnemonic = "page start title hill page banana nurse million nest reform vehicle trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain evoke pepper wise reunion wheat strong approve prefer siren later dilemma";
+var mnemonic = "flush episode multiply lounge column cash dinner word better decide whale forum";

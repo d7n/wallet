@@ -1,1 +1,1 @@
-var mnemonic = "embrace lucky surge announce february father thunder joy coil pig enter action";
+var mnemonic = "boost skirt trumpet build step merit butter blur settle cereal quote charge";

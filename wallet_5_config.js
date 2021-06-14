@@ -1,1 +1,1 @@
-var mnemonic = "sure snack glimpse tiny member rack chase turtle palace sting hollow ankle";
+var mnemonic = "cart sport wise venue december sport dance prevent ancient bottom final tunnel";

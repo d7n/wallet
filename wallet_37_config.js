@@ -1,1 +1,1 @@
-var mnemonic = "song slender fruit between satoshi rule any sudden engine inflict clay beach";
+var mnemonic = "milk voice genuine problem practice bless brain comic believe vicious skill club";

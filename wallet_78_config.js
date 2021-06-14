@@ -1,1 +1,1 @@
-var mnemonic = "economy theme frost such abandon gaze swear hammer ticket anger sword figure";
+var mnemonic = "equal ship sick silent sausage claw antique salmon oxygen lonely vague cave";

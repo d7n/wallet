@@ -1,1 +1,1 @@
-var mnemonic = "verb urban void strong oppose body undo dove clump place human light";
+var mnemonic = "belt hurry horn sand inject journey put cargo detect negative margin express";

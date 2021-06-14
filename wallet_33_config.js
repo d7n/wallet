@@ -1,1 +1,1 @@
-var mnemonic = "outside art lion asset supreme slow stamp hub hazard unfold curious rubber";
+var mnemonic = "exotic evil wolf obtain dove know guilt when time assist yellow gown";

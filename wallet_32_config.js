@@ -1,1 +1,1 @@
-var mnemonic = "across athlete crack rapid push supply argue guide pair little rookie purpose";
+var mnemonic = "accuse unknown rubber extend verb expect wood dash trust shield check maple";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover side taxi napkin glimpse napkin glove demand caution outside false exist";
+var mnemonic = "sleep nature cat almost soccer talent fatigue first tackle glove gown seat";

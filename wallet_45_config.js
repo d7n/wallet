@@ -1,1 +1,1 @@
-var mnemonic = "science believe base kite clean leg mammal alien spend tilt weekend snap";
+var mnemonic = "dragon upon life access powder ship mass light strong limb search toss";

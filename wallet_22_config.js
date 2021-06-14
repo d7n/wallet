@@ -1,1 +1,1 @@
-var mnemonic = "laugh spell wish genuine game cash exact comic grocery night private drill";
+var mnemonic = "enhance hero giraffe chef brain foam version hybrid violin opera napkin abuse";

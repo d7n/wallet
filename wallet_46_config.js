@@ -1,1 +1,1 @@
-var mnemonic = "exit rough pulp infant ridge mushroom awesome fire veteran virtual arrange breeze";
+var mnemonic = "network alarm spend skill frost share tuition hidden cupboard they almost excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb walk sport giggle return best curious ill curtain tide empty stairs";
+var mnemonic = "bulb eternal dragon menu inherit ripple soccer input around license bus peace";

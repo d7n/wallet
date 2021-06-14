@@ -1,1 +1,1 @@
-var mnemonic = "future cinnamon shiver junk rare bread side twin draft gown cereal unlock";
+var mnemonic = "habit win tray wise shy neither make cancel change monkey stage girl";

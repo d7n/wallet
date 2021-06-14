@@ -1,1 +1,1 @@
-var mnemonic = "comfort riot express infant axis peace syrup sheriff fan kitchen dismiss daughter";
+var mnemonic = "credit lounge violin crane strong elder square turtle spatial dynamic shell valid";

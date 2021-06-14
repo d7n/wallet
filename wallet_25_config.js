@@ -1,1 +1,1 @@
-var mnemonic = "dash question harsh target border emerge decade asthma jealous segment manual sing";
+var mnemonic = "pumpkin bamboo sell tourist course express pond wisdom predict oak main tattoo";

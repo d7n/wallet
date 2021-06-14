@@ -1,1 +1,1 @@
-var mnemonic = "basket elder embody blade stove drip noble satoshi service fan brown wreck";
+var mnemonic = "problem view room churn box merge funny acid tape soda exchange retire";

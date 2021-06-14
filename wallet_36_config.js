@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo mimic perfect again slight twin arrow wasp velvet today usage scatter";
+var mnemonic = "hill access stay attitude february where toddler aware erode address fossil token";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle kiss position exhibit valve rail verify champion penalty vacuum elder crawl";
+var mnemonic = "loud candy dwarf trend occur plug provide setup hard hold language hobby";

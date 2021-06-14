@@ -1,1 +1,1 @@
-var mnemonic = "fitness very cover render field original artwork whisper accuse penalty salon boil";
+var mnemonic = "guilt blood patient exclude defy awkward useful zone clump beauty dawn table";

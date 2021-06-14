@@ -1,1 +1,1 @@
-var mnemonic = "burden tissue nut thing way globe life tape inherit shallow science chair";
+var mnemonic = "kit chicken tuna script actor exclude away reunion animal cover property quote";

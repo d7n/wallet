@@ -1,1 +1,1 @@
-var mnemonic = "first muffin possible bind enter above because burst total wealth weird enhance";
+var mnemonic = "already cinnamon gap dune lion crime law cross warrior bracket beach coast";

@@ -1,1 +1,1 @@
-var mnemonic = "jar nothing matrix unable poet luggage entire noodle alley diet sword clever";
+var mnemonic = "transfer egg smile banana stone image appear obtain actress slush disease wave";

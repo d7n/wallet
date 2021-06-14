@@ -1,1 +1,1 @@
-var mnemonic = "street become stem dinner one fold size firm split reduce float admit";
+var mnemonic = "indoor basket horse gospel hotel aisle hair load funny wall taste arm";

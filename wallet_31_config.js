@@ -1,1 +1,1 @@
-var mnemonic = "mixed monster offer illegal myself lumber seminar goddess piano balcony puzzle urban";
+var mnemonic = "stool chair general peanut enlist trim nuclear honey logic essay snap cabbage";

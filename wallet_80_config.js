@@ -1,1 +1,1 @@
-var mnemonic = "coach glimpse today figure burger wash reward eager slight awesome fitness day";
+var mnemonic = "flat vault mask three wild dinner lion square idea cloud term trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "slim lift couch already copper again motor myself cliff normal magnet uniform";
+var mnemonic = "book south supreme grass vague approve axis rifle resource lesson romance comic";

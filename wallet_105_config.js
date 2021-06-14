@@ -1,1 +1,1 @@
-var mnemonic = "mention dismiss antique body shed heart farm illegal pig area bounce local";
+var mnemonic = "dinosaur forget lake nothing resist timber lawn sun cliff extend cherry napkin";

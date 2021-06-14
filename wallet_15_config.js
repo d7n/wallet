@@ -1,1 +1,1 @@
-var mnemonic = "rate purchase limit limb wrist much drum alone ball orange ability wedding";
+var mnemonic = "swap shadow thrive reunion gain truly awkward canvas rescue park bridge fancy";

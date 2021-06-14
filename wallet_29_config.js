@@ -1,1 +1,1 @@
-var mnemonic = "trim hand sustain bulb peasant boat upset token ribbon force girl law";
+var mnemonic = "index copper clap lottery rug burst bone merry proof cycle bench random";

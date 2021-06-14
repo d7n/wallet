@@ -1,1 +1,1 @@
-var mnemonic = "fun wagon siege fiber spot bean net relief nose credit jeans solution";
+var mnemonic = "creek answer verb govern neither layer flat infant cost around fringe husband";

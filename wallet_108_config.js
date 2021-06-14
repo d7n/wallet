@@ -1,1 +1,1 @@
-var mnemonic = "bracket come purchase shell hover hand lecture clip van million rice run";
+var mnemonic = "fit fiber recall include tortoise zebra corn dress alone remove remove barely";

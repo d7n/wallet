@@ -1,1 +1,1 @@
-var mnemonic = "wonder differ can celery impose spread palm trash floor install flip cover";
+var mnemonic = "off example fade life live unusual kingdom push trigger total skill bring";

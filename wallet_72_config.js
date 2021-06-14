@@ -1,1 +1,1 @@
-var mnemonic = "myth hollow spawn betray cliff runway sign nation fossil sense lock same";
+var mnemonic = "pizza dismiss best sense plunge ripple gather dolphin journey decline trial mix";

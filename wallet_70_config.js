@@ -1,1 +1,1 @@
-var mnemonic = "vehicle tourist breeze tattoo pupil blur swarm jar front cream sport fever";
+var mnemonic = "defy fiber lift garlic beyond quit alpha spatial dwarf merit common kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "corn stable human buyer remind surprise wire session detect gather marble margin";
+var mnemonic = "garage fitness bright trade unusual green siege hire check enlist unable review";

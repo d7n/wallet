@@ -1,1 +1,1 @@
-var mnemonic = "average drill advance inspire keep buzz mix mule rescue cattle girl tomorrow";
+var mnemonic = "blouse grief duty enforce dismiss issue soup neutral frog knife seminar reform";

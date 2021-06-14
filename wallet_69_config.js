@@ -1,1 +1,1 @@
-var mnemonic = "scissors genuine bean mechanic acoustic mixture plunge trust twelve bronze scrub argue";
+var mnemonic = "cruise around execute actual gas bind mansion design fossil mirror bonus leave";

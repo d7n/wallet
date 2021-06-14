@@ -1,1 +1,1 @@
-var mnemonic = "ecology search beach black goddess stool parade pizza senior manage soda rescue";
+var mnemonic = "mirror hungry sadness bread head aunt buffalo airport solution focus adult reunion";

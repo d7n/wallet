@@ -1,1 +1,1 @@
-var mnemonic = "wolf silver payment dirt elegant robot waste ketchup monster faint ice reflect";
+var mnemonic = "scorpion flavor street tank grit vote waste believe sunny win kick else";

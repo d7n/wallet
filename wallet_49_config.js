@@ -1,1 +1,1 @@
-var mnemonic = "regret tone panther name fit effort online lift amazing blind legend gap";
+var mnemonic = "field dynamic model include catch magnet dose message more dose symbol relax";

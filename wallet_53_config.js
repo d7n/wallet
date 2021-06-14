@@ -1,1 +1,1 @@
-var mnemonic = "mountain tank aspect south scatter asset height peanut genre coach length library";
+var mnemonic = "symptom good walk tornado day embrace canal innocent expose option cereal vehicle";

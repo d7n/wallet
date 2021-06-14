@@ -1,1 +1,1 @@
-var mnemonic = "demise ask start leg select atom brick two misery sphere arm about";
+var mnemonic = "crowd coyote duty vintage century slim casual deal train web mixed churn";

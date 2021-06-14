@@ -1,1 +1,1 @@
-var mnemonic = "convince step rug depart amateur habit child dose hundred assume analyst shop";
+var mnemonic = "panther faculty escape limit copy dress gather apart price hard game canal";

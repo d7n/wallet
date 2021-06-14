@@ -1,1 +1,1 @@
-var mnemonic = "opinion monitor struggle weekend web sausage van tower door because cup under";
+var mnemonic = "delay dash category common stand sample matter grace absorb harbor elbow hub";

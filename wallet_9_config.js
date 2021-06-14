@@ -1,1 +1,1 @@
-var mnemonic = "thrive siren response insane crazy machine jaguar symptom motion hand sweet theme";
+var mnemonic = "chicken series denial hurdle canal teach west addict age paddle smoke math";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly duck dilemma tuition claw they explain valley scissors few proof prison";
+var mnemonic = "engine wagon demise hard snack conduct cry season phone magic risk carpet";

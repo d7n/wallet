@@ -1,1 +1,1 @@
-var mnemonic = "little expose drama employ hockey logic mistake garment expose frog devote blanket";
+var mnemonic = "forward engage client stool under hood zone warfare shy funny denial lucky";

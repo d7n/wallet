@@ -1,1 +1,1 @@
-var mnemonic = "coffee excuse sweet million embody outside barely despair two canal tank few";
+var mnemonic = "legend leave element coast sing group young aerobic reunion expire sunset mother";

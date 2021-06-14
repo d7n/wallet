@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog crime devote inmate athlete royal zoo tank trip vapor sell sock";
+var mnemonic = "air senior crane crouch soon shallow option despair sentence source ability gift";

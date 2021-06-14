@@ -1,1 +1,1 @@
-var mnemonic = "hire error twelve luggage sting hazard move town sell hire blur brief";
+var mnemonic = "state royal castle very have grid enforce actual demand gym fitness oven";

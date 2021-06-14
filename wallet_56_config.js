@@ -1,1 +1,1 @@
-var mnemonic = "essence display kite cruel season damage skill offer mail canyon hood anger";
+var mnemonic = "gesture vivid pudding puzzle usage grief jazz eagle silent drill chalk artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "type beach fringe tuna thumb odor message quit oven wing mystery dog";
+var mnemonic = "much erupt nose fiscal giant void turkey ritual frost ostrich palm monster";

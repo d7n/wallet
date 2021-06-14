@@ -1,1 +1,1 @@
-var mnemonic = "jazz promote car guard stick decorate castle mail plunge proof thrive hollow";
+var mnemonic = "decade crush parent crouch hamster current false what transfer milk math skirt";

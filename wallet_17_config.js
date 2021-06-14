@@ -1,1 +1,1 @@
-var mnemonic = "room offer blind stomach piece detect divorce winter essay slice fine crumble";
+var mnemonic = "snack illegal network truck bar produce lion math dune tube result wrestle";

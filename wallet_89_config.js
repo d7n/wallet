@@ -1,1 +1,1 @@
-var mnemonic = "romance chase rural firm grid vendor click jar kitten bachelor slot trade";
+var mnemonic = "pen stumble strike segment pistol lucky profit canvas blade bleak curious weapon";

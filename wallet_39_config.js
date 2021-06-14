@@ -1,1 +1,1 @@
-var mnemonic = "frog venue spend melt syrup define document dance melody number flip angry";
+var mnemonic = "elder nurse angry egg cradle swear human delay hat intact egg rifle";

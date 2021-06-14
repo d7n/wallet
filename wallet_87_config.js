@@ -1,1 +1,1 @@
-var mnemonic = "number forum laundry piano rebel grid grain board explain faith tackle intact";
+var mnemonic = "clutch yard display popular snack plastic pencil sister dragon used tunnel quote";

@@ -1,1 +1,1 @@
-var mnemonic = "belt that search picture shift glad pluck viable hedgehog swap decade ship";
+var mnemonic = "snack fruit quit able tornado chest idle monitor humor theme wreck firm";

@@ -1,1 +1,1 @@
-var mnemonic = "march laundry spot okay cherry save shop now blossom swallow message popular";
+var mnemonic = "idle chimney vault current water later release rigid snake nut boost teach";

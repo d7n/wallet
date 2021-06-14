@@ -1,1 +1,1 @@
-var mnemonic = "sauce talent answer quiz town outside cattle infant shiver mistake predict leader";
+var mnemonic = "conduct card patch movie erode pool family limb attend that extend valid";

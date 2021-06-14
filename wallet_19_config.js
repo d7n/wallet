@@ -1,1 +1,1 @@
-var mnemonic = "master strategy replace shadow drink emerge food sail kiwi witness dune crisp";
+var mnemonic = "manual rail aspect crew renew analyst awake genre trend kidney category electric";

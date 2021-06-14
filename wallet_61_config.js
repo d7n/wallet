@@ -1,1 +1,1 @@
-var mnemonic = "about neck short swallow improve core erupt urban stuff ethics auction follow";
+var mnemonic = "jar estate together wool pioneer rotate weekend maple question rug hamster topple";

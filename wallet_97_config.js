@@ -1,1 +1,1 @@
-var mnemonic = "market village garbage foot alarm junk tray veteran west cigar curve undo";
+var mnemonic = "opera tomato increase vessel loan deer alley shove upgrade sad prize easy";

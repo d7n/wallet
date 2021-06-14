@@ -1,1 +1,1 @@
-var mnemonic = "dilemma result enforce yellow tilt rigid call evolve absorb service zoo cloth";
+var mnemonic = "soda nice image glad lucky huge expire develop pattern six skull chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage require enough height predict coast concert rack close pear drastic cabin";
+var mnemonic = "cotton blanket kick taxi winter rifle spin casual result ankle million rescue";
