@@ -1,1 +1,1 @@
-var mnemonic = "giraffe slam present chicken decorate wild gospel blush suffer fence episode rack";
+var mnemonic = "birth vintage setup shiver entire tooth wheat small grocery exit absorb soon";

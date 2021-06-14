@@ -1,1 +1,1 @@
-var mnemonic = "foam grape hat have help patrol desk material behave brown people audit";
+var mnemonic = "wing outdoor breeze voice nice harvest north sample replace pass visit page";

@@ -1,1 +1,1 @@
-var mnemonic = "fence job like flame casino benefit system reject beauty mountain vague tiny";
+var mnemonic = "item minute midnight swift giraffe human knock fan abstract fly custom clerk";

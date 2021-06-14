@@ -1,1 +1,1 @@
-var mnemonic = "auto stool churn bachelor title glance alien gold jungle coconut harvest ozone";
+var mnemonic = "answer carpet risk clerk recall inspire liquid pave dynamic expect accuse deputy";

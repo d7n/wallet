@@ -1,1 +1,1 @@
-var mnemonic = "stairs bleak cattle become camp taste fish party kitchen brown ginger team";
+var mnemonic = "deny clump scrub drive brick annual resemble unlock lunch play depth puzzle";

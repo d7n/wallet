@@ -1,1 +1,1 @@
-var mnemonic = "seminar roast hard dignity tackle scan stadium survey horse alert visa divide";
+var mnemonic = "gesture enable firm logic school ball industry absorb false zone jealous alcohol";

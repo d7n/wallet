@@ -1,1 +1,1 @@
-var mnemonic = "tiger utility awake offer into apology rough conduct spread story actor whisper";
+var mnemonic = "jaguar soda torch inside raise fabric mother increase absorb seek soon update";

@@ -1,1 +1,1 @@
-var mnemonic = "angle bronze ivory empty unique apology menu control warfare protect catch attack";
+var mnemonic = "thunder wolf stadium enforce large cost young liar what where pulp rice";

@@ -1,1 +1,1 @@
-var mnemonic = "major rally win drip cart random blur tray member chat nose coach";
+var mnemonic = "method hire visit trash wine pilot bronze liquid wolf idea clump monster";

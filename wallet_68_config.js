@@ -1,1 +1,1 @@
-var mnemonic = "whisper patrol agent abuse butter among urge blast flush indoor judge knock";
+var mnemonic = "guilt slush chuckle enroll excite aunt shield fiber indoor happy cry sniff";

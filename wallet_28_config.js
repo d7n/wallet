@@ -1,1 +1,1 @@
-var mnemonic = "flat salt deny liquid marine chef vapor timber blossom genius tattoo abstract";
+var mnemonic = "near maximum fit number change fiction build wild end kangaroo cliff merge";

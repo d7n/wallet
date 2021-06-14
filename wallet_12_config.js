@@ -1,1 +1,1 @@
-var mnemonic = "mobile club frequent romance blast ivory blanket potato sure half lobster boring";
+var mnemonic = "moon velvet december rough time level dinosaur blood panda remind wish barely";

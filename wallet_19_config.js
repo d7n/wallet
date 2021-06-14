@@ -1,1 +1,1 @@
-var mnemonic = "write mango alone midnight orange piece ripple arrive risk simple purchase master";
+var mnemonic = "issue taste museum funny mind tongue motion arch ten monkey east food";

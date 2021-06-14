@@ -1,1 +1,1 @@
-var mnemonic = "banner clarify response shiver hospital pet attract bright loop deputy spirit kind";
+var mnemonic = "love double frown theory head scare host common glance able spread penalty";

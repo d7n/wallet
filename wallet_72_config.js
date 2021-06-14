@@ -1,1 +1,1 @@
-var mnemonic = "cluster notable amount into all earth sadness panel loop gentle mail solution";
+var mnemonic = "panic funny capital pigeon upset bleak tag above climb early hole chaos";

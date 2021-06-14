@@ -1,1 +1,1 @@
-var mnemonic = "charge link phone super champion record anchor toss inside cradle lyrics trumpet";
+var mnemonic = "lecture dog equal galaxy never mouse that peasant short uniform include pair";

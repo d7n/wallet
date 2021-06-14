@@ -1,1 +1,1 @@
-var mnemonic = "shoot sadness forward bring find grant basic more book similar hockey such";
+var mnemonic = "scout receive aerobic option hunt obscure pipe spatial ill into menu arena";

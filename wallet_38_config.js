@@ -1,1 +1,1 @@
-var mnemonic = "vault view mean claw dinosaur vocal spy hazard save radar couple office";
+var mnemonic = "glory file forum weapon prosper mansion educate chapter disagree maximum mango toward";

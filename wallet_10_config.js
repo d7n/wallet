@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit hill embrace switch parade mouse mad napkin swallow much ecology nation";
+var mnemonic = "safe maze horror cancel patch melody eager fall monitor slush ridge loan";

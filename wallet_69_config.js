@@ -1,1 +1,1 @@
-var mnemonic = "cupboard sail clip wasp fame glare tide tiny inmate screen lava trumpet";
+var mnemonic = "dignity roast noodle accident vendor dinosaur twin leave exhaust glimpse faint season";

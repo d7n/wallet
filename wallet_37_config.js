@@ -1,1 +1,1 @@
-var mnemonic = "easily spray mammal annual give main payment project leaf wall catalog lonely";
+var mnemonic = "segment merit aspect sting toilet click process correct baby tragic minimum layer";

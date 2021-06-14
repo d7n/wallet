@@ -1,1 +1,1 @@
-var mnemonic = "churn road delay vague alter nation clog club sock silver glory bean";
+var mnemonic = "shine code decade prepare supreme palm ice direct receive shallow assist lawn";

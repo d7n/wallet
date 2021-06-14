@@ -1,1 +1,1 @@
-var mnemonic = "awesome august impose soccer predict hammer inherit hungry because vintage yard hockey";
+var mnemonic = "garment behind fuel quote script tilt quiz away clog apology cool silly";

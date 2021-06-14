@@ -1,1 +1,1 @@
-var mnemonic = "blanket ticket basic exist response lottery sun juice usual often tell bone";
+var mnemonic = "vacant tissue siege attend romance peanut ring example elegant already candy wrap";

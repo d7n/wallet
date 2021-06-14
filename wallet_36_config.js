@@ -1,1 +1,1 @@
-var mnemonic = "hole honey loop beauty trip coil parent regret cable fuel village scatter";
+var mnemonic = "wink acid insane allow guide buffalo stock repeat gospel fat own balcony";

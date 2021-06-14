@@ -1,1 +1,1 @@
-var mnemonic = "sound alarm brother morning pet decline retreat fossil enact become village buzz";
+var mnemonic = "say ocean regular key hockey ball run acoustic shy ability picture still";

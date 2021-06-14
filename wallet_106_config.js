@@ -1,1 +1,1 @@
-var mnemonic = "exercise verb clog huge echo space caught throw minute direct forum salmon";
+var mnemonic = "slender please among series motor kangaroo away romance glue toilet boost decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "walnut glove lawsuit wash spray suspect kind glow embody ivory elegant lady";
+var mnemonic = "siren sausage layer rubber basket cheap satoshi almost winter wave drama little";

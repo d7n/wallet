@@ -1,1 +1,1 @@
-var mnemonic = "relief manage ginger stumble glide hybrid current file burger want chicken steel";
+var mnemonic = "design tribe mango tube canoe easy hawk gloom easy strong soft economy";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry toy immune orange cruise jar vanish bonus move switch already door";
+var mnemonic = "road shuffle woman nurse solid merge pudding pill fresh blame crop another";

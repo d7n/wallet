@@ -1,1 +1,1 @@
-var mnemonic = "virtual clever tuition gallery million art visa boy rack gun eager pioneer";
+var mnemonic = "inner desert mirror stomach lava anxiety blouse twelve excuse timber walk able";

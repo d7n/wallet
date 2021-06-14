@@ -1,1 +1,1 @@
-var mnemonic = "grab vendor memory flight drive maze tent undo behind piano slide mesh";
+var mnemonic = "inmate unable color case glow woman weekend fresh fantasy know risk fox";

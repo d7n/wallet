@@ -1,1 +1,1 @@
-var mnemonic = "mercy nose width agent occur grant connect cram soup blur orbit hire";
+var mnemonic = "youth impact true umbrella name bargain coil silly fine radar puppy friend";

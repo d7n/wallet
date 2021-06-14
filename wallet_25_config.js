@@ -1,1 +1,1 @@
-var mnemonic = "general game office stone lumber senior match flavor history guide suspect spot";
+var mnemonic = "mix asthma library movie shuffle abandon remain slender detect multiply vendor sausage";

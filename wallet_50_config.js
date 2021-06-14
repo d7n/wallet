@@ -1,1 +1,1 @@
-var mnemonic = "calm resource thrive tail robot bean genre supply resist assume limit economy";
+var mnemonic = "face gas equip again seminar gas vacuum rice tool magnet intact arch";

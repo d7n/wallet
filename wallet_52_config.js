@@ -1,1 +1,1 @@
-var mnemonic = "crater vehicle dumb chimney glide rival car copy merit sniff flock student";
+var mnemonic = "private evil thing holiday basic ask upper junk state exact involve spread";

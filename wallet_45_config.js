@@ -1,1 +1,1 @@
-var mnemonic = "grant any zone enter capital trophy minimum vessel call talent wife poverty";
+var mnemonic = "game portion basket will neck attack palm patient beach always night parrot";

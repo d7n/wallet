@@ -1,1 +1,1 @@
-var mnemonic = "subject identify panel royal amazing warfare gun example frog book sense lunch";
+var mnemonic = "evidence nuclear essence slide kind grape behind priority turn total mix prize";

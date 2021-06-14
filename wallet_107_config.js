@@ -1,1 +1,1 @@
-var mnemonic = "swallow burden now chronic crew depend forum liquid box transfer bird escape";
+var mnemonic = "already gentle disagree erosion fan among deal column toss urban betray jewel";

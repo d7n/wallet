@@ -1,1 +1,1 @@
-var mnemonic = "liberty accident riot goose pretty globe artist empower chronic sausage diesel please";
+var mnemonic = "settle leader alone deposit island region never clown cousin able music camera";

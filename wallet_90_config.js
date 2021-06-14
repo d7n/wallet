@@ -1,1 +1,1 @@
-var mnemonic = "refuse guilt salmon upgrade dinner slam deer exhibit coconut design useful wire";
+var mnemonic = "step put hamster half vibrant honey parent fury large disorder decide jelly";

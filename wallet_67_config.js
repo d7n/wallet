@@ -1,1 +1,1 @@
-var mnemonic = "opinion bicycle limb ranch modify clay bus expire clap deny illegal replace";
+var mnemonic = "maze square fruit clog impose future floor exact gap tray never merry";

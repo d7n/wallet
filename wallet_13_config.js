@@ -1,1 +1,1 @@
-var mnemonic = "obvious flash hill seek job nominee shed blood key decrease palm hen";
+var mnemonic = "waste choose taxi stand flip congress drama gentle arrange tiger aisle jelly";

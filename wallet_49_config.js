@@ -1,1 +1,1 @@
-var mnemonic = "tape ship before depend barrel again half toast science nothing army meadow";
+var mnemonic = "chalk dad auction amateur auction grape child demise release regret early lava";

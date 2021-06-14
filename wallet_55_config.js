@@ -1,1 +1,1 @@
-var mnemonic = "alcohol stamp metal tuna toy ill enough elbow unfold talk tank nut";
+var mnemonic = "include taste second swear rule turkey awesome phrase club trap option bind";

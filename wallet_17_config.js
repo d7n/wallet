@@ -1,1 +1,1 @@
-var mnemonic = "scorpion brush able prosper about idea celery hazard hammer book thank maze";
+var mnemonic = "cream cross certain exotic doll brass doll whale million journey pill spread";

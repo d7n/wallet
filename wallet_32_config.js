@@ -1,1 +1,1 @@
-var mnemonic = "license cradle winter today wagon sense melody evidence best initial wall pole";
+var mnemonic = "real twenty sound please dream entire hospital legend equip orange gesture light";

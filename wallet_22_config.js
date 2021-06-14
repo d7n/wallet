@@ -1,1 +1,1 @@
-var mnemonic = "wheel senior junk jealous enter glance lab shadow uphold master price sure";
+var mnemonic = "sorry tissue excess noodle whip exist clump bounce amused surround stem negative";

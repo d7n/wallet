@@ -1,1 +1,1 @@
-var mnemonic = "basic where reunion power fatal receive delay impact cave follow involve leg";
+var mnemonic = "glove person firm custom all artwork access predict hammer raven absorb life";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil paddle cook again coach cactus oblige clarify pioneer rigid sign avocado";
+var mnemonic = "lazy patch produce ordinary neck flag capital holiday choice lawsuit slush change";

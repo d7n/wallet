@@ -1,1 +1,1 @@
-var mnemonic = "beef dawn indicate blanket pond sleep frown core lens twice galaxy slush";
+var mnemonic = "fish kangaroo post engage strike very hint swift elephant way wet drift";

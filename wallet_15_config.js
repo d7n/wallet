@@ -1,1 +1,1 @@
-var mnemonic = "recycle nest brisk armor dilemma cute final smoke gauge engage swap prepare";
+var mnemonic = "proud expose question garlic abandon bird fitness verb banner armed cream vote";

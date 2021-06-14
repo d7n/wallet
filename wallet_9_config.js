@@ -1,1 +1,1 @@
-var mnemonic = "hotel embark stick mercy extend play vague flock copper pill leopard nature";
+var mnemonic = "huge country candy bridge live supply dash adapt wisdom wave leopard unique";

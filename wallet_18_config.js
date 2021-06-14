@@ -1,1 +1,1 @@
-var mnemonic = "brown message decade heavy chaos space van beach detect produce rubber sure";
+var mnemonic = "hole hammer wagon snack ozone crash talk silly three target crash hospital";

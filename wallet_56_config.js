@@ -1,1 +1,1 @@
-var mnemonic = "tide wife supreme twelve life owner evil flash universe senior initial park";
+var mnemonic = "dish dilemma monkey insane describe live share salad concert barrel woman garage";

@@ -1,1 +1,1 @@
-var mnemonic = "click protect fly vague army impose best grocery response blossom zoo faith";
+var mnemonic = "casino rapid educate episode crystal sugar reward pudding suffer history easily rule";

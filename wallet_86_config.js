@@ -1,1 +1,1 @@
-var mnemonic = "file among trigger room fury palace awake faint donate century boring help";
+var mnemonic = "welcome police dad approve cushion album smart mother swing squeeze awesome hold";

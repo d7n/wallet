@@ -1,1 +1,1 @@
-var mnemonic = "region wheel flip cake trophy rude number when critic giggle claim atom";
+var mnemonic = "rough say spot guard kiss effort pattern silk found cat waste congress";

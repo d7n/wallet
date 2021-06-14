@@ -1,1 +1,1 @@
-var mnemonic = "test breeze capable ten drill receive chunk banner salon shoe march steak";
+var mnemonic = "tube pen cable ordinary trend cook friend stuff exit daughter reform practice";

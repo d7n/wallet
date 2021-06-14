@@ -1,1 +1,1 @@
-var mnemonic = "quick job lobster party knife august camera energy glow pluck polar people";
+var mnemonic = "dress aerobic near ginger clock rubber oval share fury wasp scorpion jelly";

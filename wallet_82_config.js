@@ -1,1 +1,1 @@
-var mnemonic = "coast novel wood settle primary deal run three mosquito adjust inject forum";
+var mnemonic = "vague exercise impact width aisle violin romance seminar thumb match garage truck";

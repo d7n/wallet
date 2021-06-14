@@ -1,1 +1,1 @@
-var mnemonic = "poverty nose audit brass cube song disease creek into embrace please drill";
+var mnemonic = "toss soccer dismiss roast undo foster borrow village already unique false never";

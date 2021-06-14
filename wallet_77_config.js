@@ -1,1 +1,1 @@
-var mnemonic = "crawl elite thumb someone front brain truck cry exchange gap agree immense";
+var mnemonic = "mad window easily fatigue board inmate own leave there reward digital pave";

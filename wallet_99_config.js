@@ -1,1 +1,1 @@
-var mnemonic = "gown immense title leopard make hover choose elegant print vessel equip whip";
+var mnemonic = "evoke universe sunny food cube yard refuse ethics cargo judge olive view";

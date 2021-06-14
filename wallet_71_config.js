@@ -1,1 +1,1 @@
-var mnemonic = "calm security moment kick lemon asset fatigue dial swim same clean swim";
+var mnemonic = "swap vacant genre work mango garage present citizen uncover volume visa cereal";

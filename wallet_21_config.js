@@ -1,1 +1,1 @@
-var mnemonic = "marble eye evolve moon quick cute just speed pole flock worth chalk";
+var mnemonic = "almost snap kidney exercise lemon absorb border else bless traffic track effort";

@@ -1,1 +1,1 @@
-var mnemonic = "boil race volcano field diet idle ripple label segment subway sunset jazz";
+var mnemonic = "sunny current three minimum reunion whip unknown aspect network legend execute judge";

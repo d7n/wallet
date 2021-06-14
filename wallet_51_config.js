@@ -1,1 +1,1 @@
-var mnemonic = "trumpet moral glow task rate captain educate barely exact van guide scene";
+var mnemonic = "add toe raw behave budget hobby mix potato patient sun prize swim";

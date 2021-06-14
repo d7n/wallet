@@ -1,1 +1,1 @@
-var mnemonic = "crater first comic tube spread salad flavor label knee bean raise alert";
+var mnemonic = "below beauty option casual all kangaroo electric mobile win topple mimic angry";

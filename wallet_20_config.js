@@ -1,1 +1,1 @@
-var mnemonic = "expire maple universe program fringe used wrong diamond update upset average check";
+var mnemonic = "delay planet noodle course clerk neglect above enough analyst tennis perfect evoke";

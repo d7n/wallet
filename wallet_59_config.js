@@ -1,1 +1,1 @@
-var mnemonic = "bean fox answer ski cart true infant patient cycle menu poet mistake";
+var mnemonic = "park chief inherit sheriff gaze enroll gas strong author valve tilt caution";

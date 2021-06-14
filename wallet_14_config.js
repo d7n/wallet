@@ -1,1 +1,1 @@
-var mnemonic = "dice tumble include still aunt naive base medal pink usage scrub grid";
+var mnemonic = "embrace radio mandate empower enact barrel work news sweet field swift notable";

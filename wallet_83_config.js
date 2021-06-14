@@ -1,1 +1,1 @@
-var mnemonic = "pact shoulder typical much trade aerobic skull cage kitchen still cream view";
+var mnemonic = "forum energy staff pulse moment wild apology blind leopard figure possible scrap";

@@ -1,1 +1,1 @@
-var mnemonic = "giraffe bird jazz dinner color coyote neck quick soup stuff fall liquid";
+var mnemonic = "suspect honey clump drip know deal language fine shrug explain bird pen";

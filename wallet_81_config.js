@@ -1,1 +1,1 @@
-var mnemonic = "dad chase that tag level blouse grass wage satoshi educate artwork whip";
+var mnemonic = "pupil jewel target city law dice game produce virtual letter early umbrella";

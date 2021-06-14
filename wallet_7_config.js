@@ -1,1 +1,1 @@
-var mnemonic = "put shrimp flock glance hospital keen always palace north license embark cross";
+var mnemonic = "caught retreat approve palace camera pave will foster pluck bamboo cousin left";

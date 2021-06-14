@@ -1,1 +1,1 @@
-var mnemonic = "ridge stereo bachelor crunch please soft dinosaur thing rotate grunt cement pistol";
+var mnemonic = "trick believe oyster alcohol fashion stuff garden seven pulp under angry hurt";

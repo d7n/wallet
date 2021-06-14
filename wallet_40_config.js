@@ -1,1 +1,1 @@
-var mnemonic = "shallow bread document canal tribe mushroom trap coin museum cliff flush organ";
+var mnemonic = "win must elegant coyote inch major fever enjoy elite faint cancel room";

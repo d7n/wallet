@@ -1,1 +1,1 @@
-var mnemonic = "pistol ghost review eight raw notice escape actress display cheap essay noise";
+var mnemonic = "liquid predict odor volume way assume slogan dish repair staff true voyage";

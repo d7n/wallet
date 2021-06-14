@@ -1,1 +1,1 @@
-var mnemonic = "shallow video talk couch dash three apple cushion bulk clarify rent often";
+var mnemonic = "enemy february eagle allow produce unknown obscure drip nature bread order antenna";

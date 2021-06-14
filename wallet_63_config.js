@@ -1,1 +1,1 @@
-var mnemonic = "unit claw depth inject regular glad surge brain heart special barrel peace";
+var mnemonic = "ordinary turkey pretty route infant close basic notice install sugar wonder happy";

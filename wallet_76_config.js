@@ -1,1 +1,1 @@
-var mnemonic = "point exit hospital slot rookie salon student language update slender party feel";
+var mnemonic = "field apple hip flat inner dilemma wash lumber weapon warm urge damage";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt mirror govern photo skin rib next add animal daring age scare";
+var mnemonic = "race illegal half tired spread trim decline blood borrow slot squeeze used";

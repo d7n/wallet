@@ -1,1 +1,1 @@
-var mnemonic = "excuse time woman flag word flower quiz cross conduct spray album leisure";
+var mnemonic = "bulk dilemma rather blade save connect early soft thumb aisle fringe penalty";

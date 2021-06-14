@@ -1,1 +1,1 @@
-var mnemonic = "secret shove document tragic butter barely spoon replace heavy hair taxi filter";
+var mnemonic = "decorate dice december double pulse speak spoon spell west paddle depend wife";

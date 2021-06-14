@@ -1,1 +1,1 @@
-var mnemonic = "tumble retreat wall apology canvas thrive copper gather enable envelope drastic target";
+var mnemonic = "eager drip enforce approve sunny scorpion glance card maple clutch forum patch";

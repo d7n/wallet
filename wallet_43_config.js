@@ -1,1 +1,1 @@
-var mnemonic = "what setup clutch afraid fatigue turkey sustain athlete equal wrap degree rain";
+var mnemonic = "unfold winner essence envelope sound waste inch display cushion vicious core era";

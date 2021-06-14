@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin reward corn club cruise toast hidden heart potato sun pulp swap";
+var mnemonic = "earth purity beauty gun alien craft inherit peasant soccer mixture ahead possible";

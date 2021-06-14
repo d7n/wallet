@@ -1,1 +1,1 @@
-var mnemonic = "aware finger note vicious ice limb gap spatial kick tragic pitch like";
+var mnemonic = "half angry choice suggest decide trade icon chunk wine south grow vague";

@@ -1,1 +1,1 @@
-var mnemonic = "option parade sun around brown elephant transfer science shine volcano purpose craft";
+var mnemonic = "provide slogan mix need timber nominee glue cricket tray grab estate explain";

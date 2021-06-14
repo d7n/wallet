@@ -1,1 +1,1 @@
-var mnemonic = "airport deliver midnight curious flock milk famous cheese sponsor grow switch grant";
+var mnemonic = "biology apology pond shrimp sell screen couple maid collect insane turtle priority";

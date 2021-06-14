@@ -1,1 +1,1 @@
-var mnemonic = "jump oxygen coffee position knock half iron puppy huge social sand federal";
+var mnemonic = "steak wrong tent lion subway garbage guide shed flame follow luggage all";

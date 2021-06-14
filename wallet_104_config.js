@@ -1,1 +1,1 @@
-var mnemonic = "debate spice frown dish glove mountain define opera excuse address inner stem";
+var mnemonic = "aspect humor above adjust fun acoustic cancel detect ordinary auction high diary";

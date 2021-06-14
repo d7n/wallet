@@ -1,1 +1,1 @@
-var mnemonic = "shoot mouse wink trade kiwi head public yellow used spoon letter silent";
+var mnemonic = "file noodle dwarf vote chase unaware rose public argue cause silent wing";

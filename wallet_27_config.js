@@ -1,1 +1,1 @@
-var mnemonic = "error puzzle excite skill license spin dial during ripple lava truth mountain";
+var mnemonic = "curve danger ceiling twist avocado memory syrup cousin before pyramid cradle scissors";

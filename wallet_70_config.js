@@ -1,1 +1,1 @@
-var mnemonic = "adapt finish tone deputy kitten region scissors orient private earth twist purchase";
+var mnemonic = "elbow later daring foster pool topic afford patient help borrow canoe urge";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen pause camp grit gentle advance obtain call pluck cherry ivory distance";
+var mnemonic = "kind erode bind infant you pioneer grant struggle father vibrant dinner approve";

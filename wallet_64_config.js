@@ -1,1 +1,1 @@
-var mnemonic = "dove juice sand wheel invest vehicle help position safe craft bachelor faith";
+var mnemonic = "danger total athlete crystal nasty plunge certain grocery manage museum tragic buyer";

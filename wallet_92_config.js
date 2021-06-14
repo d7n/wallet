@@ -1,1 +1,1 @@
-var mnemonic = "typical uniform scene foam tomato entire farm lend proud quality slab left";
+var mnemonic = "slow other liberty river disease inform ginger frog judge calm tuna rally";
