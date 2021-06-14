@@ -1,1 +1,1 @@
-var mnemonic = "venue core ozone captain rail image warrior canal upon industry fruit illness";
+var mnemonic = "device nurse nuclear actress faculty spell boy liquid mouse occur surface deal";

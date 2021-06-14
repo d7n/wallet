@@ -1,1 +1,1 @@
-var mnemonic = "van begin current retreat flock gaze top raise other brother earn fault";
+var mnemonic = "memory casino item jar hammer hotel swap vivid nothing edge trim pill";

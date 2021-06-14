@@ -1,1 +1,1 @@
-var mnemonic = "rocket smile slogan city morning front face benefit happy love august please";
+var mnemonic = "salmon vital fault abuse final truck proof dinosaur onion story broom rich";

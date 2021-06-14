@@ -1,1 +1,1 @@
-var mnemonic = "defense level climb truck liquid donor moon conduct clap novel devote sniff";
+var mnemonic = "fortune noble digital leisure unknown else dentist offer account stone voyage picture";

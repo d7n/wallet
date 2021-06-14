@@ -1,1 +1,1 @@
-var mnemonic = "use ice coral modify cover raven about emerge tornado receive sudden mansion";
+var mnemonic = "entry mom clock close over avocado tray reason town normal month smart";

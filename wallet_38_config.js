@@ -1,1 +1,1 @@
-var mnemonic = "leave fuel next ripple ill mountain duck phone corn desert key length";
+var mnemonic = "purity clump track laugh unfair armed give service today burger notice afford";

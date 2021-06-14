@@ -1,1 +1,1 @@
-var mnemonic = "fluid grid search razor butter renew property inject soup lawsuit lunch trophy";
+var mnemonic = "habit attract toddler emerge crash scan blade sister time fix team that";

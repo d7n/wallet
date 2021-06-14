@@ -1,1 +1,1 @@
-var mnemonic = "debris shiver disorder cage vibrant tomorrow breeze undo bomb idle rotate income";
+var mnemonic = "select offer clutch hunt feature offer silly expand young ticket confirm blossom";

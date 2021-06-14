@@ -1,1 +1,1 @@
-var mnemonic = "skill enhance cotton concert boil zebra school maze exit glad robot hour";
+var mnemonic = "pretty suspect sad joy consider gown arctic intact box embrace salt gesture";

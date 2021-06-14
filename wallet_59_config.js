@@ -1,1 +1,1 @@
-var mnemonic = "trigger appear mad hair illness color glove about exile fine coast flower";
+var mnemonic = "idea supply snap craft interest stomach father meat smart actress copy abandon";

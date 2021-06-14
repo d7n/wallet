@@ -1,1 +1,1 @@
-var mnemonic = "demise young runway solution place security gadget tray salute awkward auto curtain";
+var mnemonic = "zone forum sport system duty lecture great web grape soul onion hobby";

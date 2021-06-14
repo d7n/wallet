@@ -1,1 +1,1 @@
-var mnemonic = "allow purity soda hockey couple bid scissors actress deposit glove solve orient";
+var mnemonic = "phrase finish canyon warm album arch occur drift attitude mercy furnace spice";

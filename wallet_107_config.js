@@ -1,1 +1,1 @@
-var mnemonic = "summer loyal like object couple eyebrow energy jar window fog float just";
+var mnemonic = "will picture cart index open jaguar public margin east grant trade twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "wave surface vintage floor win elegant park rookie palm census repeat alpha";
+var mnemonic = "spawn alley prepare park home benefit flat race clarify wonder defy eternal";

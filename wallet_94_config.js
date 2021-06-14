@@ -1,1 +1,1 @@
-var mnemonic = "leisure crane neither wood sniff style cage satoshi drip scan repair ketchup";
+var mnemonic = "fun trim powder run leaf night drop unusual dry act jealous praise";

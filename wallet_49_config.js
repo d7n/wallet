@@ -1,1 +1,1 @@
-var mnemonic = "hybrid borrow embrace gold spirit topple attack cream wash slow include season";
+var mnemonic = "ethics vessel bomb subway employ vast jar dry repeat disagree hub actor";

@@ -1,1 +1,1 @@
-var mnemonic = "dad grit pudding tuna van sunset unveil piece comic bicycle between run";
+var mnemonic = "solve acquire vehicle scorpion diagram before sugar episode result road away basic";

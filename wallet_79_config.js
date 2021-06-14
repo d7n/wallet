@@ -1,1 +1,1 @@
-var mnemonic = "catalog quit news morning tank egg attitude lizard obscure pulse orange rude";
+var mnemonic = "interest minor write lake various city case business force position rich museum";

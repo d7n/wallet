@@ -1,1 +1,1 @@
-var mnemonic = "film expect flag relax gaze detect naive student charge cycle life bulk";
+var mnemonic = "jar cargo great sugar place glad dirt property rate stock clarify tell";

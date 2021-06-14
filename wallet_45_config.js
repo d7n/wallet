@@ -1,1 +1,1 @@
-var mnemonic = "jar few machine twist boost liar expand couch shove gallery miss slow";
+var mnemonic = "frown squeeze sound cattle rough resist face learn trap topple silly under";

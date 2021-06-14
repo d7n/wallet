@@ -1,1 +1,1 @@
-var mnemonic = "hand frost say unlock rigid salmon green off matrix retire replace common";
+var mnemonic = "eye wasp jazz crisp fragile crawl bracket few blossom predict anger win";

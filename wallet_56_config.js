@@ -1,1 +1,1 @@
-var mnemonic = "negative fold roof dust front dizzy diagram symbol mammal noodle pet join";
+var mnemonic = "involve stairs found actress shoot that ride nurse rough innocent gloom corn";

@@ -1,1 +1,1 @@
-var mnemonic = "silver regret mail quote dice bag round profit stand final work mom";
+var mnemonic = "weird remain size flock couch abuse unhappy left defy athlete time input";

@@ -1,1 +1,1 @@
-var mnemonic = "radar hour flush vibrant steel twist glue humor edge portion envelope sketch";
+var mnemonic = "quick exchange ocean surround cave floor first hundred virus vehicle hard acoustic";

@@ -1,1 +1,1 @@
-var mnemonic = "frame trouble various soul exile property lesson sausage wrong mail oyster code";
+var mnemonic = "cube sting acid never embody auction broom garbage evil elbow top spell";

@@ -1,1 +1,1 @@
-var mnemonic = "false twist business need faint spatial rare option insane valid inject shoot";
+var mnemonic = "feed language intact ethics decorate narrow engine hello ankle shadow pill card";

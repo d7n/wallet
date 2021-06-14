@@ -1,1 +1,1 @@
-var mnemonic = "bless dial seat foster exile leaf range achieve lizard penalty car vacuum";
+var mnemonic = "useless tortoise pistol frequent sell language situate stumble stereo image pupil junk";

@@ -1,1 +1,1 @@
-var mnemonic = "meat fortune balance until naive goddess entry that response athlete peace monitor";
+var mnemonic = "cinnamon toe purity thunder eager fatigue vast series rookie system sugar keep";

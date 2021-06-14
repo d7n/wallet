@@ -1,1 +1,1 @@
-var mnemonic = "glove cheap theme busy crisp nasty husband manual argue profit regular agree";
+var mnemonic = "tent length flock diagram original round nothing casino road ugly beauty rib";

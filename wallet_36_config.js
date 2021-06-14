@@ -1,1 +1,1 @@
-var mnemonic = "treat cousin language dish pudding mail wish arch penalty fluid faculty shaft";
+var mnemonic = "divorce leader limb quick grit special all topic fun minute pilot arrow";

@@ -1,1 +1,1 @@
-var mnemonic = "popular decrease proud coconut license fresh spot riot task child glove test";
+var mnemonic = "smile nut topic neglect maze fatal chalk frog program attitude whale bar";

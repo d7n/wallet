@@ -1,1 +1,1 @@
-var mnemonic = "change need opinion title agree item face luggage decide move image shield";
+var mnemonic = "blossom fancy glad still expose short grunt sad large wrap jeans antique";

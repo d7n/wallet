@@ -1,1 +1,1 @@
-var mnemonic = "garden mammal panic wonder federal bring turtle weapon flash oval wall orange";
+var mnemonic = "glove grief expect will flight guitar offer shy bread quarter angle love";

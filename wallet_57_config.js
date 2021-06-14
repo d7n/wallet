@@ -1,1 +1,1 @@
-var mnemonic = "bless whale chase nasty bicycle crack engage zero acid replace place chief";
+var mnemonic = "garment circle skin salute night original cabin craft pair tag infant buzz";

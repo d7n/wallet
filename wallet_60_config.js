@@ -1,1 +1,1 @@
-var mnemonic = "force peasant office miss please casual magic cable capable simple sound sail";
+var mnemonic = "coyote cage neck include name mistake route increase unaware provide sure path";

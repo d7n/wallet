@@ -1,1 +1,1 @@
-var mnemonic = "protect fall tape indicate audit moral ready enhance veteran link edit pole";
+var mnemonic = "grief shoulder black pitch actual outer awful loop frame feature tuna airport";

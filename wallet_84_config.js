@@ -1,1 +1,1 @@
-var mnemonic = "crane know minimum enlist alter peanut brave win sausage bubble enhance enemy";
+var mnemonic = "canoe magic crowd squeeze suffer quote pony judge banner segment thrive amount";

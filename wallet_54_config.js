@@ -1,1 +1,1 @@
-var mnemonic = "party soda job equal crash name glove dial arrow deliver caution heart";
+var mnemonic = "flush receive avoid indoor equip physical ask stove target side stage suspect";

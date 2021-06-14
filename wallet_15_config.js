@@ -1,1 +1,1 @@
-var mnemonic = "bounce unfold bag marble fish rate split actual enough elder blind immense";
+var mnemonic = "base illness nasty skin betray achieve spring doll idle judge transfer again";

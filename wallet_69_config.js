@@ -1,1 +1,1 @@
-var mnemonic = "myth flock number hold capital mango smoke license connect just journey budget";
+var mnemonic = "carry dad denial reveal soda badge inspire guard away talk penalty slender";

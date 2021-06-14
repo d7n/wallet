@@ -1,1 +1,1 @@
-var mnemonic = "orient crouch heavy special wine flush orient nest advice will elegant lift";
+var mnemonic = "orchard tribe globe day wave hedgehog crane alarm pen fit rabbit arrow";

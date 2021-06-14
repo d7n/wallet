@@ -1,1 +1,1 @@
-var mnemonic = "scene shield pilot fluid almost voyage gas valid width cute snake tree";
+var mnemonic = "toddler kiwi legal cruel uniform artefact fossil orchard scatter away speak hood";

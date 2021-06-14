@@ -1,1 +1,1 @@
-var mnemonic = "goose rebel shock gate trumpet hold odor glass false decline zone female";
+var mnemonic = "catch region term sort husband scout certain whale maximum outer nuclear wife";

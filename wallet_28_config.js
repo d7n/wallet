@@ -1,1 +1,1 @@
-var mnemonic = "glove icon dial side traffic boost fade afford someone truck twist chunk";
+var mnemonic = "suit casual spoil chimney turkey deposit couch hub tag dragon wife load";

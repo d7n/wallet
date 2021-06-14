@@ -1,1 +1,1 @@
-var mnemonic = "east main skin enable merge enough fox spirit side input half surprise";
+var mnemonic = "silver evolve cash harvest park champion impact absorb twist upon blossom humble";

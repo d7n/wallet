@@ -1,1 +1,1 @@
-var mnemonic = "then pencil evil surge amused net dad dose exotic gather world sphere";
+var mnemonic = "furnace protect father yard again shift speak chef embrace shine canvas emotion";

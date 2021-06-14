@@ -1,1 +1,1 @@
-var mnemonic = "sphere economy whip mimic proud jaguar panda pond author endorse inject keen";
+var mnemonic = "mosquito verify unfold wreck pepper humble average around stock copy undo jump";

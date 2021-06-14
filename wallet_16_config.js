@@ -1,1 +1,1 @@
-var mnemonic = "wage frequent tribe object moment never toe suspect burst reveal grow turtle";
+var mnemonic = "teach aunt hidden breeze carbon margin candy later dash message guilt focus";

@@ -1,1 +1,1 @@
-var mnemonic = "train screen waste hurt attitude else entry army degree lunch carpet rival";
+var mnemonic = "kid federal organ dash alone replace december code tenant teach can also";

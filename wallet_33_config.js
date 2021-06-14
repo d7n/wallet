@@ -1,1 +1,1 @@
-var mnemonic = "oil return issue hybrid orient garlic latin lady enable fiction weather matrix";
+var mnemonic = "dry local salmon cement dragon woman unusual market shop throw balance aerobic";

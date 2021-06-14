@@ -1,1 +1,1 @@
-var mnemonic = "over neglect pony return hunt lonely order kid assault soul wage gentle";
+var mnemonic = "weapon myth rabbit trial desk patch purse asset off media dance media";

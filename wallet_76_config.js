@@ -1,1 +1,1 @@
-var mnemonic = "plunge cloud analyst monster sail crater river boil civil regret pole disagree";
+var mnemonic = "path remain state fly miracle region clap sure climb ordinary journey put";

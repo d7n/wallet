@@ -1,1 +1,1 @@
-var mnemonic = "boss improve change dignity flight flash announce thank model face umbrella derive";
+var mnemonic = "trophy eager apple harbor spend unhappy forget clip chronic visa margin fever";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic baby helmet wide canvas energy letter bulk nominee unlock private sand";
+var mnemonic = "inflict observe easily such hotel powder road cause globe gossip culture witness";

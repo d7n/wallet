@@ -1,1 +1,1 @@
-var mnemonic = "raven drum whisper imitate catch swap face method oven march rabbit noise";
+var mnemonic = "ability kiwi federal layer fashion autumn rigid tobacco follow fork risk reduce";

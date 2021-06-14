@@ -1,1 +1,1 @@
-var mnemonic = "quick lizard blade cube predict liquid crucial absorb swamp shy hawk session";
+var mnemonic = "table radio above match aware rich brown early speed grow valley slow";

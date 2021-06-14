@@ -1,1 +1,1 @@
-var mnemonic = "nest fan pottery remove hazard genuine arrive course tattoo day cook hat";
+var mnemonic = "blast coyote solid charge liberty lemon lunar sand undo impulse office inhale";

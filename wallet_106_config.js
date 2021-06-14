@@ -1,1 +1,1 @@
-var mnemonic = "spin step never between corn grab allow wrap dilemma wrong shoe mechanic";
+var mnemonic = "tooth element east define fame silly satisfy isolate shock coral shrimp vote";

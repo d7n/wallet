@@ -1,1 +1,1 @@
-var mnemonic = "grain juice collect license divert urge earn fabric rare unusual clown mansion";
+var mnemonic = "grit sudden nuclear violin doll turkey ride glare learn escape gap page";

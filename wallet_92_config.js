@@ -1,1 +1,1 @@
-var mnemonic = "film together this ensure shoe gym welcome misery upon squirrel rate census";
+var mnemonic = "volcano web digital skull brisk judge style unveil gun estate chronic into";

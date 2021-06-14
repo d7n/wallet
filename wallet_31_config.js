@@ -1,1 +1,1 @@
-var mnemonic = "tortoise twin depth scale suit join fold frost remain point solid rely";
+var mnemonic = "ostrich glad spell crop chef autumn lecture hover mobile city female multiply";

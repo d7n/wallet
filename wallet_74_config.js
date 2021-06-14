@@ -1,1 +1,1 @@
-var mnemonic = "frost hidden token erosion tortoise topple charge diet vibrant index object decide";
+var mnemonic = "venue model tooth nut subject elegant trigger net stick citizen bubble blue";

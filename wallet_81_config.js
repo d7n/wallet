@@ -1,1 +1,1 @@
-var mnemonic = "silver insane fresh tank dish copy model give found depth boost talk";
+var mnemonic = "final accident person chalk bubble enrich october start town enjoy shuffle paddle";

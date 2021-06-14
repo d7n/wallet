@@ -1,1 +1,1 @@
-var mnemonic = "describe fatal half document match admit mask word sauce short north remove";
+var mnemonic = "prison bomb pattern person run where early share hover receive gate hedgehog";

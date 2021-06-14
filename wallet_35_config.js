@@ -1,1 +1,1 @@
-var mnemonic = "badge pull close bullet slogan acoustic fork benefit sentence arrive jaguar fury";
+var mnemonic = "old toward resist grunt theory menu people anchor hungry loop nurse assault";

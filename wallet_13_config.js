@@ -1,1 +1,1 @@
-var mnemonic = "armor entire adapt delay hand blame cupboard mimic cancel extend horror middle";
+var mnemonic = "middle emotion slam round snake tube now unfold transfer link fetch monster";

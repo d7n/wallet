@@ -1,1 +1,1 @@
-var mnemonic = "fire audit brand robot same verb unit dizzy gentle fatigue require narrow";
+var mnemonic = "shove deposit mask soft cost decline artwork february buddy cousin mansion rule";

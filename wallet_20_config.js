@@ -1,1 +1,1 @@
-var mnemonic = "rose trouble clump major scrap bulk pelican traffic curious present present palace";
+var mnemonic = "vapor width comfort range employ vapor great green climb globe exist fall";

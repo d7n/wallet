@@ -1,1 +1,1 @@
-var mnemonic = "find deal three rotate digital diamond stool apology hour tree false miss";
+var mnemonic = "large spider bid symbol scissors genre column enact please detect spot gesture";

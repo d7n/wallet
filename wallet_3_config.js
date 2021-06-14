@@ -1,1 +1,1 @@
-var mnemonic = "paddle nerve march retire short adjust attitude plastic distance ask cool real";
+var mnemonic = "genuine monkey lamp tent old stage orbit cake income floor gun relief";

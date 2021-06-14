@@ -1,1 +1,1 @@
-var mnemonic = "spring leg twelve assume coconut stairs sadness priority quality inject dish pole";
+var mnemonic = "charge screen attend place hub cherry inch eternal dirt soda thought beyond";

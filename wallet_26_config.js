@@ -1,1 +1,1 @@
-var mnemonic = "pony remove hint category snap scare build early negative forward piece injury";
+var mnemonic = "method render coast style note sauce distance slim disorder leave clarify convince";

@@ -1,1 +1,1 @@
-var mnemonic = "mother junior culture frog six someone special denial assist chimney license dentist";
+var mnemonic = "rent planet exact cement mention slow animal gallery green space session payment";

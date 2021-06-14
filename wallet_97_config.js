@@ -1,1 +1,1 @@
-var mnemonic = "behind public mask calm seat ensure write hurdle around swear army grain";
+var mnemonic = "afford fall drink shuffle note excite lecture ski away tent trade pluck";

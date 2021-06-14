@@ -1,1 +1,1 @@
-var mnemonic = "fish mimic hybrid window joy grape basket prison federal dumb derive teach";
+var mnemonic = "actual short topple flower depend cost number wet matter rent term tribe";

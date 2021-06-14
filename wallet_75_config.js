@@ -1,1 +1,1 @@
-var mnemonic = "reunion maze wire hole resemble vacuum file conduct chunk saddle jump decide";
+var mnemonic = "envelope casino enemy gentle duck dizzy need already update hurt card slogan";

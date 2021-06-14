@@ -1,1 +1,1 @@
-var mnemonic = "law involve fun two cover melt twelve swamp almost urban frown poet";
+var mnemonic = "hat loyal link kingdom office despair typical lottery save gap cry imitate";

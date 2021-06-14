@@ -1,1 +1,1 @@
-var mnemonic = "uniform potato canal deer corn cabin loyal seek review fancy convince buzz";
+var mnemonic = "gown index chuckle inform south tongue enact elbow slice song town tomato";

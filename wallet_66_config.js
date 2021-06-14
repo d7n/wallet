@@ -1,1 +1,1 @@
-var mnemonic = "chest other awful vivid favorite obtain index cover grace absurd choose image";
+var mnemonic = "inspire poverty promote media fine decorate lamp antenna rubber liar offer trouble";

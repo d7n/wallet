@@ -1,1 +1,1 @@
-var mnemonic = "vessel rotate fork display another pact episode iron weather humble today chest";
+var mnemonic = "remind prison universe zero design bring allow novel jungle stereo thing enhance";

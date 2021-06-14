@@ -1,1 +1,1 @@
-var mnemonic = "text fat kitten quit foam genius cancel quiz jazz embrace drift visit";
+var mnemonic = "lunar update taste round ozone bicycle globe noble cousin middle tunnel churn";

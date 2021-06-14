@@ -1,1 +1,1 @@
-var mnemonic = "hurry crew van nature erode game arrange jelly topple ramp best table";
+var mnemonic = "boss little admit glass inner hawk actual autumn egg kingdom elbow bone";

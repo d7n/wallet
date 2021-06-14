@@ -1,1 +1,1 @@
-var mnemonic = "drink chief eager cargo fluid vocal popular turn cherry permit wheel menu";
+var mnemonic = "clip insane hint sting excuse bicycle fame wall inner meadow daring fame";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion glare sad mammal mountain lock degree eternal damp finish timber lion";
+var mnemonic = "air tilt seat panda quit increase suffer bottom monkey cricket negative unique";

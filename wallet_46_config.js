@@ -1,1 +1,1 @@
-var mnemonic = "stadium program scissors reject record antique letter october push target happy cactus";
+var mnemonic = "moon chaos biology embrace obtain wasp advice wink token latin never acid";

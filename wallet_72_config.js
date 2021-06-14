@@ -1,1 +1,1 @@
-var mnemonic = "erode dune coil skill rain collect course culture minute oval cute when";
+var mnemonic = "burden truly dove autumn course cat soccer mad park success buddy leader";

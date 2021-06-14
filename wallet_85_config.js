@@ -1,1 +1,1 @@
-var mnemonic = "win nerve payment mother table bacon shield faith mosquito mammal drift mad";
+var mnemonic = "stool life winner village girl biology hood cancel supply large false employ";

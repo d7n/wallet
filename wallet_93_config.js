@@ -1,1 +1,1 @@
-var mnemonic = "nurse screen flip front slot mutual beyond child noodle betray negative junk";
+var mnemonic = "govern false legal picture license bronze skill lizard other shoulder situate gate";

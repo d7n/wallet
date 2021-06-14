@@ -1,1 +1,1 @@
-var mnemonic = "hero lazy motor entry limb frame video lobster differ earn regular bronze";
+var mnemonic = "diesel palace language float cute major junk ivory arctic island huge fitness";
