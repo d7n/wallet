@@ -1,1 +1,1 @@
-var mnemonic = "unique crystal blind mutual ten grab message physical interest crash snake artwork";
+var mnemonic = "decorate blur disagree private harsh lecture broom scan limb people tool leave";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle misery brand team over climb weird same spot noodle deal corn";
+var mnemonic = "film mouse soap evil mad heavy print knee immune moral shoot abstract";

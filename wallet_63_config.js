@@ -1,1 +1,1 @@
-var mnemonic = "always slogan elbow army story sense clean ski delay mosquito cliff advance";
+var mnemonic = "hundred toss develop cute during trade cake consider spice mixed pyramid meat";

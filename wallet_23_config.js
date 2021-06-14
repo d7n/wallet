@@ -1,1 +1,1 @@
-var mnemonic = "boost pond spoon sunny voyage pizza accident dwarf animal puzzle lunch weekend";
+var mnemonic = "panther clinic myself diary champion digital shallow model hen day exile radio";

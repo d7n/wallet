@@ -1,1 +1,1 @@
-var mnemonic = "put around tribe avocado shine hub bicycle improve annual open occur silver";
+var mnemonic = "sure test emerge fatigue axis mixed fat waste nerve stadium group tape";

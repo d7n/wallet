@@ -1,1 +1,1 @@
-var mnemonic = "jaguar have cross hole cattle supreme divide theme silver theory inform prevent";
+var mnemonic = "resemble east cheap lift return symbol immense mosquito clarify knock chicken chase";

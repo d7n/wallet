@@ -1,1 +1,1 @@
-var mnemonic = "couch disagree vote address width ketchup success mango vendor small gaze deal";
+var mnemonic = "movie solid grace effort eager agent squeeze slam soldier flush luxury attract";

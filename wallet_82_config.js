@@ -1,1 +1,1 @@
-var mnemonic = "spike fiscal doll earn february dignity slow surge toward budget funny toward";
+var mnemonic = "human display gold cabbage bulb inherit render limb smart peace ask bread";

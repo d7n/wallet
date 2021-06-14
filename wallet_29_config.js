@@ -1,1 +1,1 @@
-var mnemonic = "novel initial fancy hamster lunch breeze winter crowd eagle brand slot robot";
+var mnemonic = "trick ahead employ balance cube pelican dish engage session level real cheap";

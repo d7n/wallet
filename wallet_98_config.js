@@ -1,1 +1,1 @@
-var mnemonic = "chicken cradle equip can dish number lady boring clog label garden text";
+var mnemonic = "giant birth sting alone man soup frost stage miss among peanut reunion";

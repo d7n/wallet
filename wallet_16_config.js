@@ -1,1 +1,1 @@
-var mnemonic = "patient case abandon message filter syrup security net remind quick fresh animal";
+var mnemonic = "expose virtual check farm chunk toy chronic whisper person napkin cherry use";

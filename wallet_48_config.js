@@ -1,1 +1,1 @@
-var mnemonic = "toilet ethics denial tiny office canyon fringe gaze myself legal idea yard";
+var mnemonic = "hood jealous group wisdom erode execute hurt gossip foil bullet divorce strike";

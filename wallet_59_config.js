@@ -1,1 +1,1 @@
-var mnemonic = "cricket deputy fatigue scorpion orphan neglect vault dove memory collect uncover remember";
+var mnemonic = "spend adjust rubber until market congress spend crumble wet polar fee general";

@@ -1,1 +1,1 @@
-var mnemonic = "more budget start topple must amount eyebrow sound always robust girl verify";
+var mnemonic = "acquire order company beauty pony math head extend salute knife kiwi snap";

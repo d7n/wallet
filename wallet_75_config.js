@@ -1,1 +1,1 @@
-var mnemonic = "resist female account invite silly urban rice arrest annual rib allow loop";
+var mnemonic = "pupil hello shift address together million aerobic small approve real protect fatigue";

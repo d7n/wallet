@@ -1,1 +1,1 @@
-var mnemonic = "category devote bitter duck wear pilot private total siege exile unit issue";
+var mnemonic = "hungry sponsor custom vibrant oval attract jar garlic spawn dynamic arm step";

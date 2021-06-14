@@ -1,1 +1,1 @@
-var mnemonic = "extra sword winter mountain another fetch benefit elevator include sphere fabric lemon";
+var mnemonic = "rhythm story skate month female exile album dwarf twice mad dream inherit";

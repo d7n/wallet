@@ -1,1 +1,1 @@
-var mnemonic = "arrive science wasp album eight air estate copy furnace wear indicate jacket";
+var mnemonic = "matrix pizza misery actor velvet toy enable range soldier field stock flag";

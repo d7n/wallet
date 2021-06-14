@@ -1,1 +1,1 @@
-var mnemonic = "essay deny finger govern junior faith flame thrive identify talk target tent";
+var mnemonic = "phrase alert exact soul such explain useless ignore chest cute never together";

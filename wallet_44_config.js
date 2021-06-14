@@ -1,1 +1,1 @@
-var mnemonic = "during crunch admit catalog fatigue upset orphan expect simple stem pistol else";
+var mnemonic = "appear rigid mail canoe scrub pattern enter swift shine tongue dance lake";

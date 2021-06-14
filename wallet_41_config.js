@@ -1,1 +1,1 @@
-var mnemonic = "build stuff tooth ski picnic drive liquid return recipe purity skull again";
+var mnemonic = "outside size ghost peasant visual similar avoid canal base adult civil rough";

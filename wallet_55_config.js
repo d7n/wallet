@@ -1,1 +1,1 @@
-var mnemonic = "absent dust pattern video sudden rubber equal fault frequent loop juice upset";
+var mnemonic = "popular admit name require drift shaft void spend tray base plug language";

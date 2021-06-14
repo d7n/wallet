@@ -1,1 +1,1 @@
-var mnemonic = "chef duty damp finish garlic solution hero century name leg mimic toast";
+var mnemonic = "capital ranch skull taxi novel fever adult laptop net piece potato dog";

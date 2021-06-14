@@ -1,1 +1,1 @@
-var mnemonic = "lady burst gun mobile unable end ride any art brown pilot end";
+var mnemonic = "scatter excess then stereo ask resemble fog mention wheat impulse relax invest";

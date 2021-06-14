@@ -1,1 +1,1 @@
-var mnemonic = "board leopard slush deny load nothing tourist emotion pull unveil unit inch";
+var mnemonic = "weasel castle glad skull impose shine reunion liquid assault desert merit flash";

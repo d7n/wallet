@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow mask reflect pink segment auction raccoon monster choose sell slot afraid";
+var mnemonic = "announce icon exist enrich catalog receive orient gain vague opera market juice";

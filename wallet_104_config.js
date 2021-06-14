@@ -1,1 +1,1 @@
-var mnemonic = "day spray kick mad select symptom journey absurd crash expect bacon increase";
+var mnemonic = "rich ivory mask tornado pear upgrade couch cruel cart equip myself shadow";

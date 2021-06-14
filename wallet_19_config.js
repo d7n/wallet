@@ -1,1 +1,1 @@
-var mnemonic = "cube bargain warfare hint doctor icon evil merry turtle aware flavor social";
+var mnemonic = "squeeze slogan chest valley snack level tourist panic exist disorder object toss";

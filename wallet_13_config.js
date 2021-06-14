@@ -1,1 +1,1 @@
-var mnemonic = "tennis bind dizzy green insane thought round burst theory weird square pioneer";
+var mnemonic = "lawsuit true either nothing immense lecture rabbit coil resemble code elbow exclude";

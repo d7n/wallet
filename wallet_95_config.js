@@ -1,1 +1,1 @@
-var mnemonic = "observe guide egg spawn engine property bring tomato drive drive lonely fade";
+var mnemonic = "aunt shadow culture panda hurt clay gospel link rather occur mad number";

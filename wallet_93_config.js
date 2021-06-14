@@ -1,1 +1,1 @@
-var mnemonic = "echo flame truck solar dice design equip kangaroo hour senior picture secret";
+var mnemonic = "flag home peasant because build rival curious small final mistake feel inflict";

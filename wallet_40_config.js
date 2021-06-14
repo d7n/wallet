@@ -1,1 +1,1 @@
-var mnemonic = "offer battle palace fault ordinary chronic survey under chapter item snack kidney";
+var mnemonic = "napkin letter pizza squirrel young allow car chat search liberty frame heart";

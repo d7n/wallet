@@ -1,1 +1,1 @@
-var mnemonic = "custom prepare pave maze forget similar foot subway neither draft pupil truck";
+var mnemonic = "minimum salon tornado another city coconut raven junk situate paper slam antique";

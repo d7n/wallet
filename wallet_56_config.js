@@ -1,1 +1,1 @@
-var mnemonic = "concert dog develop nerve annual chair cabbage winner aspect enter entry art";
+var mnemonic = "anger dolphin behind capable leopard valve quarter object hair nut blur track";

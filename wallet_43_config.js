@@ -1,1 +1,1 @@
-var mnemonic = "toy cotton door silver excuse judge sun pool unveil spider oak march";
+var mnemonic = "mandate play velvet dust basic road list blur budget add impose van";

@@ -1,1 +1,1 @@
-var mnemonic = "language arm waste need inner uniform base garlic awkward pause crouch gold";
+var mnemonic = "copper wash pink penalty pumpkin myself runway pudding project obvious jungle rural";

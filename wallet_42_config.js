@@ -1,1 +1,1 @@
-var mnemonic = "voice despair almost model door desk cool tennis fade firm shove biology";
+var mnemonic = "trophy action oval raven clerk agent clutch planet battle between ship half";

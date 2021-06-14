@@ -1,1 +1,1 @@
-var mnemonic = "talk demand general dentist story arrange move glad inject soap fade local";
+var mnemonic = "expose dynamic gesture parrot cargo regular want mutual lyrics intact elevator shiver";

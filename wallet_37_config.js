@@ -1,1 +1,1 @@
-var mnemonic = "mix next solid around write rib hedgehog seek will trick off match";
+var mnemonic = "section winner rich promote brave iron artwork final essence ritual aware modify";

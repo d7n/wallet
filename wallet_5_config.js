@@ -1,1 +1,1 @@
-var mnemonic = "summer trash gaze board diary shock winter exclude barely protect humor rate";
+var mnemonic = "ill romance slide pepper engage travel real angry real health under swim";

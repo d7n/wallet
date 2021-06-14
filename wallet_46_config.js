@@ -1,1 +1,1 @@
-var mnemonic = "jump dawn record hungry bamboo belt universe switch sheriff enemy parent slice";
+var mnemonic = "broom lab script better inmate exclude crumble coffee right search guess negative";

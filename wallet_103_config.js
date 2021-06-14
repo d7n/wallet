@@ -1,1 +1,1 @@
-var mnemonic = "below innocent glare expand move apple payment clerk word chimney excite cause";
+var mnemonic = "caution poem small transfer replace fragile among nuclear artefact expect raccoon shiver";

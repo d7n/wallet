@@ -1,1 +1,1 @@
-var mnemonic = "hawk mother hair rib shy sick unfold ecology garden pet deputy doll";
+var mnemonic = "hero title evolve glass firm bicycle mammal dish enable weapon carpet brave";

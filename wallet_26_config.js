@@ -1,1 +1,1 @@
-var mnemonic = "occur pencil alert satoshi rural zebra story just crop ghost offer forward";
+var mnemonic = "reduce slice slab various crouch roast reveal swarm sport thought account dwarf";

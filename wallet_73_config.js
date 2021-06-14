@@ -1,1 +1,1 @@
-var mnemonic = "wink pride priority page twice effort theory embark invest arrive piano stand";
+var mnemonic = "naive sea inform stem tower lady wave popular urban abandon tool kitchen";

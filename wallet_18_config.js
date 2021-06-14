@@ -1,1 +1,1 @@
-var mnemonic = "pupil soft story pipe point pulse alcohol oak fox loyal repair loop";
+var mnemonic = "vanish pause rail elegant venue practice board bachelor brisk elite cool honey";

@@ -1,1 +1,1 @@
-var mnemonic = "real improve ill oxygen derive shift shuffle genre reward manual mean boost";
+var mnemonic = "double cost round merry feel give review fury arrive bubble acoustic top";

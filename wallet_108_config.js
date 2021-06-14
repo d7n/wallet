@@ -1,1 +1,1 @@
-var mnemonic = "way crime jazz hard call volcano prevent skate domain iron trigger square";
+var mnemonic = "cable outside head alley people churn delay nose bridge estate winter borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist fancy amateur fruit puppy jar level volcano task maple dash refuse";
+var mnemonic = "believe rate anchor mirror labor panther brisk beef lend garlic arrive leopard";

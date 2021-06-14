@@ -1,1 +1,1 @@
-var mnemonic = "random shiver gravity stool bubble laugh tobacco common author ignore stage cancel";
+var mnemonic = "visa six alter art hollow skirt tourist deliver urban diagram wise blossom";

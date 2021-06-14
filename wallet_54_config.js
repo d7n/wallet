@@ -1,1 +1,1 @@
-var mnemonic = "develop gather super tag south bottom diary idle one visit guilt coyote";
+var mnemonic = "wreck color state throw execute combine meadow order glory raccoon kitchen short";

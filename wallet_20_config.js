@@ -1,1 +1,1 @@
-var mnemonic = "smoke orchard stool mask place carry aware crew actor stove cabin then";
+var mnemonic = "dinosaur winner bulb patient unable worry pulse pole snack cute antique autumn";

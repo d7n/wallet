@@ -1,1 +1,1 @@
-var mnemonic = "height staff gaze water balcony silk hand prize save bachelor quiz mansion";
+var mnemonic = "unfold rare produce rate film length latin erode zero situate deputy dawn";

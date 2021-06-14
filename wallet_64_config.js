@@ -1,1 +1,1 @@
-var mnemonic = "raise install analyst place topple advice worth life amateur ship toy daring";
+var mnemonic = "vital mechanic coil snake woman weasel talk oven hungry alter table square";

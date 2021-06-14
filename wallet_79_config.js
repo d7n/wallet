@@ -1,1 +1,1 @@
-var mnemonic = "wrap lake custom album winner menu clog oppose nice extra insane rug";
+var mnemonic = "regret switch thrive miss ozone foam feel picnic mask pulp medal skull";

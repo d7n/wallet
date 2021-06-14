@@ -1,1 +1,1 @@
-var mnemonic = "miss lecture boss long office cram because glass earn know figure blame";
+var mnemonic = "play concert destroy kangaroo pelican economy hour slam crowd banana slot fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "negative hover polar when please awkward vacuum nature leopard beach convince private";
+var mnemonic = "relief prefer diagram perfect balance grunt absorb secret together tell gloom boil";

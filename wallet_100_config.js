@@ -1,1 +1,1 @@
-var mnemonic = "find argue bronze exile crop loyal blame trumpet strong amount weird elder";
+var mnemonic = "face noise deal pitch embody violin hawk tourist comic rival lava fever";

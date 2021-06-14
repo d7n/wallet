@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur hint struggle orbit shoot earn joy permit still explain stone viable";
+var mnemonic = "noise farm hood title pledge year net glimpse answer song matter front";

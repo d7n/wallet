@@ -1,1 +1,1 @@
-var mnemonic = "delay typical better law wool camera borrow believe train size gorilla length";
+var mnemonic = "company door car festival siege run sentence fly ride play rapid amused";

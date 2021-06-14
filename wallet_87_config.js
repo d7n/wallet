@@ -1,1 +1,1 @@
-var mnemonic = "switch private spoon category deposit panther object absorb foster air dry wire";
+var mnemonic = "umbrella author museum mean champion rather more swap damp turn rich clap";

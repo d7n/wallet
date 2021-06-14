@@ -1,1 +1,1 @@
-var mnemonic = "begin super silly floor quiz embark knife sponsor permit movie throw reform";
+var mnemonic = "bunker globe indoor glide bleak fitness defense ski boy kind globe reduce";

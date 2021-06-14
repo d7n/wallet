@@ -1,1 +1,1 @@
-var mnemonic = "nominee next piano special drive sniff glove orbit dignity popular public limit";
+var mnemonic = "tissue pair spirit jacket wide seek antenna social impulse crazy need devote";

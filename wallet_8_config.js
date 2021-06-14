@@ -1,1 +1,1 @@
-var mnemonic = "such crime crystal near zoo drink eager walk give lady assume erosion";
+var mnemonic = "robust usual fly knee able width ghost foot input warfare hill weapon";

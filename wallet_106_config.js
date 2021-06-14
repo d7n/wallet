@@ -1,1 +1,1 @@
-var mnemonic = "case eight fresh cabbage grief armed goddess alone foam car foam harvest";
+var mnemonic = "pig ugly cricket barrel report expand position wolf crop deer tomato exhaust";

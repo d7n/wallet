@@ -1,1 +1,1 @@
-var mnemonic = "draw cash invite fog train cute helmet wish glove walnut random sun";
+var mnemonic = "unlock video curious topic long mad cargo present write noise face hip";

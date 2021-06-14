@@ -1,1 +1,1 @@
-var mnemonic = "before consider screen coffee alarm nut cheese brick uphold exercise sock conduct";
+var mnemonic = "parrot enable monster cause chimney seek damage bamboo issue spend tent space";

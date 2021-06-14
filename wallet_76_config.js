@@ -1,1 +1,1 @@
-var mnemonic = "device fade estate woman kitten three wrap plunge game runway parade ceiling";
+var mnemonic = "deposit item general key test chronic weasel slide borrow jazz bitter junior";

@@ -1,1 +1,1 @@
-var mnemonic = "broken ripple soda hurry deputy recycle divorce grass outdoor innocent flush ignore";
+var mnemonic = "mass electric giraffe supreme luxury mansion sell betray delay exclude seven distance";

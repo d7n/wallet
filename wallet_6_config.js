@@ -1,1 +1,1 @@
-var mnemonic = "army auto affair sketch flock symbol add ketchup bid develop evidence october";
+var mnemonic = "ecology control hero uniform forward labor digital toy category digital urban hobby";

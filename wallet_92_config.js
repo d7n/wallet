@@ -1,1 +1,1 @@
-var mnemonic = "february stone mirror mimic pair bamboo scatter pact dwarf bright divorce orient";
+var mnemonic = "error dynamic input mother obtain clutch title gorilla exotic olive exit pistol";

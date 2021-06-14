@@ -1,1 +1,1 @@
-var mnemonic = "ladder film return problem pen another gossip fatigue viable hood adult early";
+var mnemonic = "document bleak scrap thunder jungle pistol churn knock sustain outer expose congress";

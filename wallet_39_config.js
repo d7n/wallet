@@ -1,1 +1,1 @@
-var mnemonic = "table crumble copper install develop come beach field inside noble milk recipe";
+var mnemonic = "capable final angle moral shell wagon lava item ring rabbit ski loan";

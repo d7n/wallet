@@ -1,1 +1,1 @@
-var mnemonic = "burger vintage orchard plug guide box journey review item help myth topple";
+var mnemonic = "blade anxiety lunar color invite swear always faith bike speak shiver spike";

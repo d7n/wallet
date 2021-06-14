@@ -1,1 +1,1 @@
-var mnemonic = "obvious fantasy muscle verify illegal fever onion lawn dance fitness candy cry";
+var mnemonic = "drastic place athlete fabric clutch sting insect fancy team chief above garden";

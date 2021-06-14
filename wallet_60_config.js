@@ -1,1 +1,1 @@
-var mnemonic = "silly lamp two remove sport jump slow company dwarf silk icon omit";
+var mnemonic = "hidden general tower reason actor umbrella moon cannon pink diet anchor news";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction more juice govern priority practice mushroom castle venture piano into ginger";
+var mnemonic = "test whisper charge sugar useful move whale siren uncle hint man salmon";

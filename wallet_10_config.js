@@ -1,1 +1,1 @@
-var mnemonic = "bleak sorry yard desert sick effort barrel bless again blood release sail";
+var mnemonic = "switch oil hair share ask seed naive holiday velvet service coil half";

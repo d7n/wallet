@@ -1,1 +1,1 @@
-var mnemonic = "maple trial review never remove effort situate raven inject horn choice exit";
+var mnemonic = "scissors feed wood smart hybrid piano bomb artist lottery private evil post";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire monitor dream light spring carry ceiling awkward mango this cheap reveal";
+var mnemonic = "comfort cabin wreck wisdom mammal tunnel hurt wheel twin juice negative another";

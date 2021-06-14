@@ -1,1 +1,1 @@
-var mnemonic = "spike frown island silly must chaos six lounge citizen tell stock answer";
+var mnemonic = "turkey flock mix soul enough decrease concert siren pond present happy tomato";

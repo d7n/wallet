@@ -1,1 +1,1 @@
-var mnemonic = "combine symbol naive whisper boat code bullet sniff moon street cloud come";
+var mnemonic = "ensure bless tiger seek park agent provide long chase brand near orphan";

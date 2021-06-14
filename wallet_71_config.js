@@ -1,1 +1,1 @@
-var mnemonic = "thumb private reunion remove art forest dignity hazard churn gorilla margin labor";
+var mnemonic = "make antique shadow letter poem helmet rhythm team clever track flush federal";

@@ -1,1 +1,1 @@
-var mnemonic = "social edge fantasy truly ahead motor acid amount tonight lab lunar broom";
+var mnemonic = "soup space poverty abandon enemy stock accident verify good waste face price";

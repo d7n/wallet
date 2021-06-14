@@ -1,1 +1,1 @@
-var mnemonic = "rebel forget picnic army sample wrong wall barrel risk abandon hello donate";
+var mnemonic = "because grunt choose purse seed sugar margin opinion scissors inch pioneer lamp";

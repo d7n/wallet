@@ -1,1 +1,1 @@
-var mnemonic = "shed gift crisp mail truth cat device treat climb puzzle popular evoke";
+var mnemonic = "family chicken film busy crush excite mammal guilt iron tomorrow coin endless";

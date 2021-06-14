@@ -1,1 +1,1 @@
-var mnemonic = "cry album weather apart agree decline lizard wrist mystery test join gasp";
+var mnemonic = "same alien raise present chair buffalo wheel tourist cherry degree infant drop";
