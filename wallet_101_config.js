@@ -1,1 +1,1 @@
-var mnemonic = "open recall issue black age now option attack light bleak false physical";
+var mnemonic = "web explain pudding car chronic merit topic sorry wet travel climb prize";

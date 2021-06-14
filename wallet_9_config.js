@@ -1,1 +1,1 @@
-var mnemonic = "panic equal pitch angle sight blade cactus endless tackle echo frown rival";
+var mnemonic = "flower purchase accident pink refuse field analyst lumber naive forget gorilla exhaust";

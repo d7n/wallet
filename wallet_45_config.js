@@ -1,1 +1,1 @@
-var mnemonic = "hen panther fatigue casino hobby artwork reflect escape cargo noise order oven";
+var mnemonic = "game good demand ethics panda alert exchange ride traffic layer what have";

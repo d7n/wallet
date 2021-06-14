@@ -1,1 +1,1 @@
-var mnemonic = "wear december disease lesson own avocado hello empower crisp index lady autumn";
+var mnemonic = "exact sphere mirror moon keen shove horn acoustic face note approve industry";

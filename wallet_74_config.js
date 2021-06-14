@@ -1,1 +1,1 @@
-var mnemonic = "gym local gain happy chief tackle anxiety trouble damp smooth bulb cricket";
+var mnemonic = "rent climb moon negative track slide foster illegal manual mean remind little";

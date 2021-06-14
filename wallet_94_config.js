@@ -1,1 +1,1 @@
-var mnemonic = "range cool struggle ketchup embark security source crop lab length solar distance";
+var mnemonic = "fitness rhythm vintage rhythm lift ivory defy urge skull dream resist beach";

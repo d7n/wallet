@@ -1,1 +1,1 @@
-var mnemonic = "album people point pledge gate expire annual jealous idle join lady expect";
+var mnemonic = "sweet point hold noise ten enough among artwork miracle blossom rice print";

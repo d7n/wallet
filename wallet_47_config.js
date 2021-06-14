@@ -1,1 +1,1 @@
-var mnemonic = "return brave float oblige volume rug settle danger much siren wing plug";
+var mnemonic = "lady doctor glad express boil pretty truly fury devote betray town wood";

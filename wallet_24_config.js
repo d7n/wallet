@@ -1,1 +1,1 @@
-var mnemonic = "deliver govern hungry swallow blouse attitude world pipe use liquid cream zone";
+var mnemonic = "sell solution crumble world miss retreat come dwarf token real veteran subject";

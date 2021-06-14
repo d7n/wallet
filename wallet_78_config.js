@@ -1,1 +1,1 @@
-var mnemonic = "symptom beyond sample despair airport fiber give smooth climb place wing rack";
+var mnemonic = "spot gallery taste angle melt damage only miss dirt obscure demise double";

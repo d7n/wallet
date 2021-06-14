@@ -1,1 +1,1 @@
-var mnemonic = "awkward hollow lunar artwork arch sibling frozen fit lobster fame universe daring";
+var mnemonic = "eye gesture best multiply merge vicious gadget intact apple later motion help";

@@ -1,1 +1,1 @@
-var mnemonic = "whip earth symptom sell pretty clarify reward couch guide absurd gas area";
+var mnemonic = "head forward hazard fan allow slab cloth boy way alter include gesture";

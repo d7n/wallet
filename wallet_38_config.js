@@ -1,1 +1,1 @@
-var mnemonic = "near slim post fiction call caught brief outdoor under donate toward sphere";
+var mnemonic = "rude spider affair balcony kangaroo cattle nephew example abstract holiday detect panel";

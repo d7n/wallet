@@ -1,1 +1,1 @@
-var mnemonic = "reward defense moral subject arm decline avoid accident tragic jar smile couch";
+var mnemonic = "clutch work fire gadget answer honey famous drip reduce stool please lift";

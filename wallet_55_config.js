@@ -1,1 +1,1 @@
-var mnemonic = "kite warfare sister must arena inflict real magic much brick veteran run";
+var mnemonic = "visual sad erupt cherry sunset canal weasel sausage canoe faith broccoli frequent";

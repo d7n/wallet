@@ -1,1 +1,1 @@
-var mnemonic = "chunk grow brisk rose access lake ski uniform rare hurt orphan beauty";
+var mnemonic = "possible deposit solve excuse sister weapon elbow witness apology mention outer surge";

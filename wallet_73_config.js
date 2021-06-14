@@ -1,1 +1,1 @@
-var mnemonic = "coast trade category logic strategy daring shoulder leg special burst thought device";
+var mnemonic = "choice industry moment defy advice junior south pupil poverty feel jaguar title";

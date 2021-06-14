@@ -1,1 +1,1 @@
-var mnemonic = "effort rose segment where swarm found album goose hurt situate post solve";
+var mnemonic = "story rare spin record vocal capital deliver loyal bike awesome tennis gap";

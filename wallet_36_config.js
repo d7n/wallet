@@ -1,1 +1,1 @@
-var mnemonic = "reform across curious wood drum pretty ozone crush rib peanut bike gauge";
+var mnemonic = "soul nice ten fashion mercy outer bronze love neither web solar shadow";

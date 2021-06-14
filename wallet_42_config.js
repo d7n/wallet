@@ -1,1 +1,1 @@
-var mnemonic = "team boil shoe device invest alpha degree armed spy maze turtle ship";
+var mnemonic = "spend shoe reunion visual crane view ordinary sadness food donor mother deputy";

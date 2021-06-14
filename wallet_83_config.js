@@ -1,1 +1,1 @@
-var mnemonic = "soup toy fantasy improve barely rival sort unhappy hand oppose neck volcano";
+var mnemonic = "foster private fault method youth boil impose proof crush sun hunt lion";

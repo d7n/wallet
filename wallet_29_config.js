@@ -1,1 +1,1 @@
-var mnemonic = "install woman buyer novel glare inch fog language sand devote unaware buffalo";
+var mnemonic = "split proud pelican park liberty conduct drive fire similar resist ensure ladder";

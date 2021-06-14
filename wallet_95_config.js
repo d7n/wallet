@@ -1,1 +1,1 @@
-var mnemonic = "barrel rare accident adjust sure cheap produce toward warm brisk fence travel";
+var mnemonic = "bomb cloud spice bonus donate section update leopard put woman solve coconut";

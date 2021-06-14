@@ -1,1 +1,1 @@
-var mnemonic = "clay simple fine shrug lava off ahead diamond balance length nut book";
+var mnemonic = "cliff visual pulse cruel room broken history diesel denial gain envelope feed";

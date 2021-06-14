@@ -1,1 +1,1 @@
-var mnemonic = "tennis path custom cute slam approve amateur joke dumb coil mimic stove";
+var mnemonic = "snake price hurry govern nuclear soft frost confirm prosper swear toward gauge";

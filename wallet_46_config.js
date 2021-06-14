@@ -1,1 +1,1 @@
-var mnemonic = "bomb start install hundred tribe wish maximum finish nerve remember dentist suit";
+var mnemonic = "drama ensure cook victory manage radio donkey black vote size tragic river";

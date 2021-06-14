@@ -1,1 +1,1 @@
-var mnemonic = "forget marine acquire pill beauty arctic brain dust pyramid track marriage over";
+var mnemonic = "appear angle decide unable hill key lamp design blame person lazy logic";

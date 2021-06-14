@@ -1,1 +1,1 @@
-var mnemonic = "kit liar discover turn dream wave siren spoon market client quit small";
+var mnemonic = "supreme reason vanish tilt normal rocket claim battle various awake skin drift";

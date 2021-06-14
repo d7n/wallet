@@ -1,1 +1,1 @@
-var mnemonic = "voyage buyer iron room afraid captain luggage choice pelican bring believe auto";
+var mnemonic = "reject stool language amount like member glare fee kiwi link nuclear brave";

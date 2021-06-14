@@ -1,1 +1,1 @@
-var mnemonic = "swamp live puzzle village hire provide muffin gold bicycle oven tonight travel";
+var mnemonic = "have option sleep april later toddler add indoor travel bar oval twelve";

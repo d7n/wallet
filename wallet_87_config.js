@@ -1,1 +1,1 @@
-var mnemonic = "pool resemble youth pottery already stand error model trash toward deal genuine";
+var mnemonic = "portion speak stable lava diary mail tip blur ticket joke online october";

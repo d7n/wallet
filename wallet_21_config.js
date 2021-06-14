@@ -1,1 +1,1 @@
-var mnemonic = "sheriff debate horn ritual bright local walk chief around emerge lens below";
+var mnemonic = "elephant cliff swallow swap damage lake face similar spider park wheat sort";

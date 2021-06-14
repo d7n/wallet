@@ -1,1 +1,1 @@
-var mnemonic = "kick primary edge poet meat leader amount point heart sponsor someone someone";
+var mnemonic = "axis rival winter omit brass shy orbit seminar smoke ability library sleep";

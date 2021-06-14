@@ -1,1 +1,1 @@
-var mnemonic = "olive health palm brush virus agent select glass level fuel leader space";
+var mnemonic = "excess squeeze angle cabin ecology ordinary shaft rather idle cover minimum cycle";

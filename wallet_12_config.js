@@ -1,1 +1,1 @@
-var mnemonic = "surround nerve squeeze prepare pulp cluster enjoy mosquito prepare inmate brown wool";
+var mnemonic = "fog tell step vintage mandate fine drama bomb off slab advance expect";

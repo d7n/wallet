@@ -1,1 +1,1 @@
-var mnemonic = "drop hour length topic antenna stem timber stumble van adult peace stomach";
+var mnemonic = "speak chef toss wolf issue beach betray citizen burst outside defense cup";

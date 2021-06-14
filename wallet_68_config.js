@@ -1,1 +1,1 @@
-var mnemonic = "point later weasel attract lounge whip hobby nominee try insane lake slight";
+var mnemonic = "carpet push session unusual lazy across float sunny opinion roast switch alcohol";

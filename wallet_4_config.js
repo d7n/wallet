@@ -1,1 +1,1 @@
-var mnemonic = "lucky shallow garden stable venue awake exhaust pass jealous north edge casual";
+var mnemonic = "pride bleak link hair health impose husband sail sting lava concert lamp";

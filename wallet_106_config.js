@@ -1,1 +1,1 @@
-var mnemonic = "artwork shell shallow enrich drop ugly edge student raw rubber normal copy";
+var mnemonic = "extend pizza kick antique midnight evoke file pear capable swear accuse pizza";

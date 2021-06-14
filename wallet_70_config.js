@@ -1,1 +1,1 @@
-var mnemonic = "since sister hand ozone ill million cradle tide awkward bacon attract brief";
+var mnemonic = "useful useless weapon employ gift mixed bicycle brisk manual mosquito front fresh";

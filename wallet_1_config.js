@@ -1,1 +1,1 @@
-var mnemonic = "bitter allow diet bring era pencil proud recipe marble loyal husband hole";
+var mnemonic = "second current review apology lonely main bridge agent between execute excite turn";

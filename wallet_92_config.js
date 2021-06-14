@@ -1,1 +1,1 @@
-var mnemonic = "alpha slam load wolf rocket drive civil lazy echo gesture critic shallow";
+var mnemonic = "you have stay inch update sample there entry infant minor limit silk";

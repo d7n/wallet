@@ -1,1 +1,1 @@
-var mnemonic = "angle wild sick rally upgrade junk phrase match latin defense curtain hybrid";
+var mnemonic = "jeans call elbow face script fix library marine shallow prosper client essence";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce noble wash enable twenty green detail purity type alcohol private beef";
+var mnemonic = "ill toss quit recipe head couch rose gallery certain asset buddy panda";

@@ -1,1 +1,1 @@
-var mnemonic = "slab leisure code crisp choice creek good nose essay size travel romance";
+var mnemonic = "judge fire juice victory program tragic useless rack donate palace alpha jacket";

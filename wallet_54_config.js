@@ -1,1 +1,1 @@
-var mnemonic = "peasant syrup mind volcano bunker whip super spy innocent mosquito jealous voice";
+var mnemonic = "lawsuit promote pigeon abstract symbol crush spatial slam taxi pioneer more purchase";

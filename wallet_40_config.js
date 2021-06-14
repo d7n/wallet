@@ -1,1 +1,1 @@
-var mnemonic = "face tooth can end proud arm shop celery hidden auto zebra trade";
+var mnemonic = "morning invite morning total urge sea basic weapon tooth card leave strike";

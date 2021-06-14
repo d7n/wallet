@@ -1,1 +1,1 @@
-var mnemonic = "title virus allow panda moon knee solid scrub define firm move envelope";
+var mnemonic = "bag size glare rotate hour wealth question melt scan repeat divert weird";

@@ -1,1 +1,1 @@
-var mnemonic = "between green sunset market dentist ask maze menu salon skirt enable tuition";
+var mnemonic = "equal desk leave ice dolphin milk gasp forest tag tray dash idle";

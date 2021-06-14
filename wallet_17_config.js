@@ -1,1 +1,1 @@
-var mnemonic = "false syrup artist symptom state siren awful enforce turtle clay web share";
+var mnemonic = "matter pill about surge enjoy west flash promote flavor lounge session start";

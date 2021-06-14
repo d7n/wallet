@@ -1,1 +1,1 @@
-var mnemonic = "wife suggest hold fluid ripple expect nation seed apple state improve charge";
+var mnemonic = "jaguar pet frame grow drill glass mule deny hen someone sudden surge";

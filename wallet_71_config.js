@@ -1,1 +1,1 @@
-var mnemonic = "picture kidney child cat zoo car peasant robot interest scene harvest trim";
+var mnemonic = "thrive winter barely roast join soap oyster wife absent secret flight grocery";

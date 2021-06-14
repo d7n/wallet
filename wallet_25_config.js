@@ -1,1 +1,1 @@
-var mnemonic = "weapon three army nest alien settle dress rely cool glare width south";
+var mnemonic = "version pottery float chase alert finger term rug couple ankle gold team";

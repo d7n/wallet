@@ -1,1 +1,1 @@
-var mnemonic = "question diesel rapid across toward under hidden auto clarify victory palm trumpet";
+var mnemonic = "belt leader honey vivid fatigue pyramid two combine wage you nice milk";

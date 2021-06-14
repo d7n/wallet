@@ -1,1 +1,1 @@
-var mnemonic = "rice use inform cherry link banner sport height shaft piece atom build";
+var mnemonic = "shock know near primary guitar place faint answer ethics brand erase search";

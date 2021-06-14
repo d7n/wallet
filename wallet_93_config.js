@@ -1,1 +1,1 @@
-var mnemonic = "universe evoke juice there isolate ranch beyond surround shiver school area medal";
+var mnemonic = "brief regular scissors legal gauge satoshi flight state slam sing bulb front";

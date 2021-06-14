@@ -1,1 +1,1 @@
-var mnemonic = "calm welcome wave light truth coconut sick pioneer slight develop isolate offer";
+var mnemonic = "output present unhappy aunt test dawn glory coin century note identify rural";

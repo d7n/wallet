@@ -1,1 +1,1 @@
-var mnemonic = "cheap wide equip trip order comfort brief sure survey rack solar jelly";
+var mnemonic = "empower seven apple biology clever fade dolphin swarm dirt all leave build";

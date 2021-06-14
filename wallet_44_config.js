@@ -1,1 +1,1 @@
-var mnemonic = "crush chunk jewel pepper asthma theme cross west stuff boss raw sheriff";
+var mnemonic = "inherit luxury carbon blossom yard ladder elder busy young elevator leaf prevent";

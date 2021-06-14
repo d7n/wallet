@@ -1,1 +1,1 @@
-var mnemonic = "useless dad scout depend wide creek great asthma negative pistol stumble wrap";
+var mnemonic = "web memory donate bitter cream auto gym devote desert scan rigid hat";

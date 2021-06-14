@@ -1,1 +1,1 @@
-var mnemonic = "million inflict alien pitch nasty exchange shiver pilot van stem rocket segment";
+var mnemonic = "rough trophy police ceiling average narrow perfect bottom six dad kite cash";

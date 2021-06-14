@@ -1,1 +1,1 @@
-var mnemonic = "layer home ritual jar analyst blame expect february dragon any chest palm";
+var mnemonic = "web peace very thing inherit vote purse bronze lady mistake indicate athlete";

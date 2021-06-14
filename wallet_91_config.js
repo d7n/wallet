@@ -1,1 +1,1 @@
-var mnemonic = "assist forest bid merry ahead broccoli sunset palace venue swear name address";
+var mnemonic = "latin immune ask bid immune uncover stay turkey mobile jaguar supreme erupt";

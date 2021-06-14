@@ -1,1 +1,1 @@
-var mnemonic = "gossip know source cash bundle matrix sheriff raven cricket satoshi screen speak";
+var mnemonic = "stool balcony pattern problem retire census admit trip hat return toss crop";

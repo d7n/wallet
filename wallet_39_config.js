@@ -1,1 +1,1 @@
-var mnemonic = "scheme luxury affair indicate recall little harvest fortune shed menu snap accident";
+var mnemonic = "mask pitch fatal night grow vintage begin radio cool critic obtain label";

@@ -1,1 +1,1 @@
-var mnemonic = "fiscal egg flame finger panda police extend wild regret laptop tent run";
+var mnemonic = "news purpose dragon reward call chef stereo wrist debris hazard taste oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "tail rally sphere vibrant deer broken bullet ripple weird lecture radio awful";
+var mnemonic = "measure piece grit key reveal mean want coast matter engage diet curious";

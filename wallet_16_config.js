@@ -1,1 +1,1 @@
-var mnemonic = "buzz intact title hurry coral black spirit toast minute song silver essay";
+var mnemonic = "taxi divert bulb kangaroo knock cup olive blush impulse robot either water";

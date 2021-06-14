@@ -1,1 +1,1 @@
-var mnemonic = "tumble talk angle bamboo main soldier about save what token please divorce";
+var mnemonic = "pet broom stuff purse orchard immense home now surface found loan olive";

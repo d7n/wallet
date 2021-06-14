@@ -1,1 +1,1 @@
-var mnemonic = "loan clever faint reward voice inner phrase ensure abstract verb forum tube";
+var mnemonic = "fog oyster host pelican donate kitten desert snake outside zero noble coast";

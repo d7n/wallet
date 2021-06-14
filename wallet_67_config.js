@@ -1,1 +1,1 @@
-var mnemonic = "student view seed vague bounce miracle spoil deal grow betray cement elegant";
+var mnemonic = "brave soldier into trust inform nasty radio fuel refuse wild educate hour";

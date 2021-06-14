@@ -1,1 +1,1 @@
-var mnemonic = "such region crowd still silly little borrow shop enjoy neglect layer around";
+var mnemonic = "destroy bamboo crumble fish dilemma recipe liquid network lecture ahead real wreck";

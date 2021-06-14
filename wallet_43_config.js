@@ -1,1 +1,1 @@
-var mnemonic = "design brisk excite canoe belt term green phone life finger daughter surprise";
+var mnemonic = "before rhythm math noodle sunset initial immense visual shed brave fiber glance";

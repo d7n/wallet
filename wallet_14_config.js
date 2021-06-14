@@ -1,1 +1,1 @@
-var mnemonic = "source night shrug toy winter obey attract aspect way occur favorite brief";
+var mnemonic = "public start typical crash sheriff path return cargo naive infant master medal";

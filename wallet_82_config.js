@@ -1,1 +1,1 @@
-var mnemonic = "tag fatigue glue engine shine brass copper result deny army forum glad";
+var mnemonic = "believe congress lesson mixture legend oval rice cycle solve beauty announce parade";

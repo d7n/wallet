@@ -1,1 +1,1 @@
-var mnemonic = "holiday betray trip stick ask woman embark mule sell debris borrow start";
+var mnemonic = "slab genuine room fun absurd power tongue city diagram toddler gorilla kingdom";

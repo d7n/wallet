@@ -1,1 +1,1 @@
-var mnemonic = "logic raccoon fiber whisper mansion express win sudden cannon this glide clinic";
+var mnemonic = "panther alien filter camp movie never fatal traffic victory clip bundle you";

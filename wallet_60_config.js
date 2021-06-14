@@ -1,1 +1,1 @@
-var mnemonic = "deal flat glare message wrap motion liar current cram office mistake total";
+var mnemonic = "famous soda ignore coast popular dice tattoo trash toast defy laptop gloom";

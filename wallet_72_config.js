@@ -1,1 +1,1 @@
-var mnemonic = "present invest video option fresh swap service fragile boat follow polar spare";
+var mnemonic = "latin kitchen giggle trick wave cram slender end kingdom level leave motion";

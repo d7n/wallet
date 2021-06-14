@@ -1,1 +1,1 @@
-var mnemonic = "arrive tomato plate custom universe diesel you talk obscure nurse garment over";
+var mnemonic = "bread salad medal wisdom educate zone crowd emotion spawn wedding forward argue";

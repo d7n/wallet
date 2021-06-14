@@ -1,1 +1,1 @@
-var mnemonic = "satoshi axis into black topic furnace cruel scrap soldier rabbit cheese symptom";
+var mnemonic = "rabbit upgrade antique swear sun lecture sell mutual cousin sibling garment south";

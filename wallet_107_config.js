@@ -1,1 +1,1 @@
-var mnemonic = "oil require subway giggle long napkin milk timber scrub light zone flip";
+var mnemonic = "raven valve copper visit limit unveil satisfy elevator give comic bulk brother";

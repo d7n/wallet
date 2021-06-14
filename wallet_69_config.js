@@ -1,1 +1,1 @@
-var mnemonic = "ritual erupt reveal please divert neutral describe text vendor dice office color";
+var mnemonic = "sleep puzzle lawn fire weather case payment obey kidney foot mom that";

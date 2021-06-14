@@ -1,1 +1,1 @@
-var mnemonic = "bleak equip come speed dwarf attend poem quality oxygen inspire dry grocery";
+var mnemonic = "pelican surround first avoid hard art cool panther mountain soldier farm near";

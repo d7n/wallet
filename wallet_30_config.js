@@ -1,1 +1,1 @@
-var mnemonic = "engine vast between burger beauty off seven that warrior suggest furnace endless";
+var mnemonic = "scan file trend exhaust dinosaur pony jeans early proud gold volume earn";

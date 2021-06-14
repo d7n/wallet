@@ -1,1 +1,1 @@
-var mnemonic = "danger angle rapid expire frost over spike toward fan stage theme cash";
+var mnemonic = "lawsuit stove enjoy monkey asthma explain second scatter rival famous speak case";

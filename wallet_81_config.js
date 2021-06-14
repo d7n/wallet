@@ -1,1 +1,1 @@
-var mnemonic = "ill weasel shiver spoon account fog matrix moment depend also protect list";
+var mnemonic = "obscure danger require combine cigar uncle corn sponsor supreme adapt prison major";

@@ -1,1 +1,1 @@
-var mnemonic = "praise festival dish aerobic slow goose fossil want degree circle devote arrive";
+var mnemonic = "input busy unknown melody often hazard stadium sausage cigar travel sniff cupboard";

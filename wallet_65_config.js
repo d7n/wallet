@@ -1,1 +1,1 @@
-var mnemonic = "outside force oven gown pass vessel rule zero clinic flat doll success";
+var mnemonic = "bread pet rabbit repair degree inner oval water world arrive abstract faculty";

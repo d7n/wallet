@@ -1,1 +1,1 @@
-var mnemonic = "seek obey chapter improve snap title language net reflect frozen item teach";
+var mnemonic = "eager reform ripple skull grid delay latin verify inside obtain pole drum";

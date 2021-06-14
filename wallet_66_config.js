@@ -1,1 +1,1 @@
-var mnemonic = "collect divorce nut whale puppy bicycle dynamic interest snake spare bulb useful";
+var mnemonic = "start enjoy witness merge laptop across never disease cross cram carbon exact";
