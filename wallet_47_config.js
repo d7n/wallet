@@ -1,1 +1,1 @@
-var mnemonic = "power unique omit census ready domain income certain document sense biology order";
+var mnemonic = "gather unfair balance follow gloom vague into giraffe trade hat camera market";

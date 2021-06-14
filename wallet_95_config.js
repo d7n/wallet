@@ -1,1 +1,1 @@
-var mnemonic = "rug kitchen jeans fire kind thing drift ship project cash amused equal";
+var mnemonic = "culture system victory crazy arrest charge math abuse impose boring tape salmon";

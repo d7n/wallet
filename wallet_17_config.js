@@ -1,1 +1,1 @@
-var mnemonic = "mirror topic heavy palm chunk ski deputy arrest village income empty piece";
+var mnemonic = "waste evidence cheese city vague border delay genre paddle exhibit session common";

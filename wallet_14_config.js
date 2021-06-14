@@ -1,1 +1,1 @@
-var mnemonic = "tuition stomach story wise pigeon carbon head shy end begin area craft";
+var mnemonic = "wine wide clerk call surprise injury tongue either sniff entire fly today";

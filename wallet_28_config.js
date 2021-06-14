@@ -1,1 +1,1 @@
-var mnemonic = "occur actor child rapid tortoise off today antique say tattoo nut already";
+var mnemonic = "sugar sure ski artefact welcome quality solution behave autumn tortoise song explain";

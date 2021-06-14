@@ -1,1 +1,1 @@
-var mnemonic = "bicycle crouch cross moment clutch fringe close layer evil wish sea rocket";
+var mnemonic = "glance dune craft olive ring section fog dash special dry input brush";

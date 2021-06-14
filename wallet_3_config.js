@@ -1,1 +1,1 @@
-var mnemonic = "lizard estate sadness normal print famous damp glare acid mean walk smart";
+var mnemonic = "magnet page draft ask sort gown repair debris pull bottom coast key";

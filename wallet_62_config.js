@@ -1,1 +1,1 @@
-var mnemonic = "govern foster merge seed quote group brave slab around social swing wall";
+var mnemonic = "smoke carry follow pear phone life atom topic index forget practice street";

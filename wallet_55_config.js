@@ -1,1 +1,1 @@
-var mnemonic = "chalk bitter people parent better dry hour harbor local powder lunar entry";
+var mnemonic = "flavor eight power popular between prefer fragile giraffe torch fruit peace crew";

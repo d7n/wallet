@@ -1,1 +1,1 @@
-var mnemonic = "save fantasy stuff kangaroo iron giraffe harbor purse never satisfy symbol leaf";
+var mnemonic = "example force model train water waste learn yellow agree simple march awake";

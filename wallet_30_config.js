@@ -1,1 +1,1 @@
-var mnemonic = "license below squirrel fabric slide ball solution ridge need bunker indicate busy";
+var mnemonic = "duty boy quick soup other suggest margin gold same already bus border";

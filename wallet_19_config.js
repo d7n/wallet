@@ -1,1 +1,1 @@
-var mnemonic = "vacuum peanut mountain circle guide palm broken bar race lazy venue agent";
+var mnemonic = "trumpet alone oak category zero crystal aunt rude text announce winner cheese";

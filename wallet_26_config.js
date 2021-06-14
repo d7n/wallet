@@ -1,1 +1,1 @@
-var mnemonic = "casino unaware thumb garbage mango click sudden path bird leg cake gym";
+var mnemonic = "pistol warfare impulse laptop sure sorry glue right citizen scatter glance receive";

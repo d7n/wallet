@@ -1,1 +1,1 @@
-var mnemonic = "tent broom gold retire used exotic involve major poem member brand twist";
+var mnemonic = "remain shed buddy surge engage cabbage web foster law radar media rude";

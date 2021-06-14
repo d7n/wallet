@@ -1,1 +1,1 @@
-var mnemonic = "gauge clown rather polar arrow humor rib provide case child know ivory";
+var mnemonic = "road egg virus dilemma deputy fitness skin artist wage average swift guitar";

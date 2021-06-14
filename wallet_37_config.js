@@ -1,1 +1,1 @@
-var mnemonic = "flag false acid know leaf plastic idle jeans family consider sense lecture";
+var mnemonic = "undo soccer ribbon cream payment embark evolve luggage satisfy sphere time history";

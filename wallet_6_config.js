@@ -1,1 +1,1 @@
-var mnemonic = "mutual parent monster whip little veteran sunset gap owner gorilla hospital minimum";
+var mnemonic = "answer dwarf survey snack shield begin kingdom crawl people valve candy valid";

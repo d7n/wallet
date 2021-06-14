@@ -1,1 +1,1 @@
-var mnemonic = "spoon enable fan goose evoke material major bacon scrub sand fatal during";
+var mnemonic = "combine book become song hole pioneer lion wrong furnace clog denial stumble";

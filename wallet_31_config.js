@@ -1,1 +1,1 @@
-var mnemonic = "jazz dish funny frown tape target antique utility destroy figure predict seven";
+var mnemonic = "cinnamon symbol material analyst clarify coconut ahead song pass public ribbon upset";

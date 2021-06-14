@@ -1,1 +1,1 @@
-var mnemonic = "ritual advance couch arrest deposit razor blood vote helmet desert point iron";
+var mnemonic = "stock exist vivid cloth bamboo wagon broccoli thank spin coyote budget choice";

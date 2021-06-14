@@ -1,1 +1,1 @@
-var mnemonic = "practice select dance target inherit pave banana april misery phrase sibling duty";
+var mnemonic = "siren knee ride potato pioneer monkey corn tooth witness veteran oyster weird";

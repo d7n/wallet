@@ -1,1 +1,1 @@
-var mnemonic = "coil point mercy busy benefit ceiling save chimney size become wage correct";
+var mnemonic = "antenna strong ketchup keep spell talent volume almost tortoise ugly oxygen female";

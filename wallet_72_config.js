@@ -1,1 +1,1 @@
-var mnemonic = "crumble volume zero soda remove tube leisure office noble old birth evolve";
+var mnemonic = "equal valley great blast glare client bamboo broom area move cause erode";

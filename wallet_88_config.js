@@ -1,1 +1,1 @@
-var mnemonic = "leg ride enrich camp keen luxury stand flip south planet congress practice";
+var mnemonic = "session among estate kitten hazard exercise thrive advance monster spice bench clean";

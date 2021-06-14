@@ -1,1 +1,1 @@
-var mnemonic = "disorder below trick dance rather quarter random cinnamon party walnut diary poet";
+var mnemonic = "abuse tray pencil later corn vacuum dose bid soda account object equip";

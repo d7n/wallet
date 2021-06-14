@@ -1,1 +1,1 @@
-var mnemonic = "extend castle bronze tongue genre wonder drum liar very pledge island spoon";
+var mnemonic = "float apology amazing razor obey apart staff prize common advance entire august";

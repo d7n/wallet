@@ -1,1 +1,1 @@
-var mnemonic = "novel dismiss manage balcony exit rotate flock arrow rhythm copy cash phone";
+var mnemonic = "area combine dynamic chunk race then trumpet hint broken window usage report";

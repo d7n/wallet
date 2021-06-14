@@ -1,1 +1,1 @@
-var mnemonic = "ordinary one senior defense comic cart system nation vehicle silver topic expand";
+var mnemonic = "snake square surface finish grocery situate cargo puppy style differ local winter";

@@ -1,1 +1,1 @@
-var mnemonic = "flag blind shoulder jelly spider wrap rice frost usual phone seek dizzy";
+var mnemonic = "coach fashion clarify fresh culture entire pave eager happy potato cargo humor";

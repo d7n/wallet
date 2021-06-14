@@ -1,1 +1,1 @@
-var mnemonic = "kitchen female dutch clever income aunt scissors wing advance clap mutual depth";
+var mnemonic = "tower auto seek palace finger furnace person raise badge corn olive sword";

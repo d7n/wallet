@@ -1,1 +1,1 @@
-var mnemonic = "comfort exhibit inquiry merry universe caution cigar piano salad century elevator return";
+var mnemonic = "essence search bitter bubble arena expect loud shadow seat panel issue blush";

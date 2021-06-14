@@ -1,1 +1,1 @@
-var mnemonic = "nation basket maple frown emotion test argue army private taste area vital";
+var mnemonic = "include inside recipe include follow dawn step amateur noodle talk giggle photo";

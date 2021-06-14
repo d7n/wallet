@@ -1,1 +1,1 @@
-var mnemonic = "december side wreck exit march glance rotate february dice water online friend";
+var mnemonic = "galaxy brave diamond street record erupt basket sure organ fork patient opinion";

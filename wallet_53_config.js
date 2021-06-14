@@ -1,1 +1,1 @@
-var mnemonic = "early joy raise option ivory strike buffalo nominee carry left mechanic false";
+var mnemonic = "correct blue broken flush warm video frequent wise item close custom layer";

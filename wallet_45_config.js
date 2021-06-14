@@ -1,1 +1,1 @@
-var mnemonic = "drink warrior essay quality nation alert imitate poverty father visit actual ticket";
+var mnemonic = "naive acquire ordinary nephew unaware orient april pig orphan stick frog name";

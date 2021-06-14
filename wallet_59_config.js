@@ -1,1 +1,1 @@
-var mnemonic = "embark poverty crew congress build sight change alarm cliff struggle table credit";
+var mnemonic = "boss interest primary double salute donor indicate real empower lottery excess march";

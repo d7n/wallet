@@ -1,1 +1,1 @@
-var mnemonic = "lucky ancient feature below cash own struggle gospel such vibrant wood pencil";
+var mnemonic = "wire display expand try welcome drum donate novel palace once park supreme";

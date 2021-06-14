@@ -1,1 +1,1 @@
-var mnemonic = "exclude wire thought someone wild crumble involve foot credit depart wrist throw";
+var mnemonic = "crystal trend blue dose coyote budget album runway inject vault sugar monster";

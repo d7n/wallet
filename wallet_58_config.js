@@ -1,1 +1,1 @@
-var mnemonic = "gold control bone soda glory dice kingdom april mesh flat onion general";
+var mnemonic = "talk aerobic edge loop gentle opera list tooth fire loud achieve ethics";

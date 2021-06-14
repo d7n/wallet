@@ -1,1 +1,1 @@
-var mnemonic = "among time arctic come flee flight rally range sadness glimpse cup swap";
+var mnemonic = "february fine cushion city track tide engine bulb surge spend curtain wool";

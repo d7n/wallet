@@ -1,1 +1,1 @@
-var mnemonic = "crumble siege track artist duck involve sweet weasel start asthma image teach";
+var mnemonic = "claim enhance blush unveil kind virtual grace soup observe pony step lab";

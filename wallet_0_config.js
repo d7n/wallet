@@ -1,1 +1,1 @@
-var mnemonic = "chat shaft shrug example toilet salon skin evoke fit horn agent pledge";
+var mnemonic = "term undo program verb allow develop tomato wedding copy price rotate choose";

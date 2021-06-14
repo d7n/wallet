@@ -1,1 +1,1 @@
-var mnemonic = "uncover ball ivory conduct maze prepare glance cycle combine educate rebuild trap";
+var mnemonic = "vote wear axis alcohol reason hungry foil village obscure action hand survey";

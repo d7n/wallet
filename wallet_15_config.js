@@ -1,1 +1,1 @@
-var mnemonic = "surface orbit rubber panther clump reject payment merge olive volcano library maple";
+var mnemonic = "lunar uniform public pond daughter blade clip spirit fruit middle already panic";

@@ -1,1 +1,1 @@
-var mnemonic = "essence beauty globe nice fitness amount sense claim warm tiger pulse river";
+var mnemonic = "doll smart quote embark deposit dune guard anger faith whip add panic";

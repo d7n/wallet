@@ -1,1 +1,1 @@
-var mnemonic = "shield cat inside truth nasty bicycle churn better insect tone rebel tackle";
+var mnemonic = "claim scout effort width tiny hazard zone lunch arrow cactus sell cry";

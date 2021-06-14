@@ -1,1 +1,1 @@
-var mnemonic = "lucky vicious deer shallow bicycle trim police kangaroo off coffee panther science";
+var mnemonic = "soldier sand place nothing man bicycle swallow custom cabin fiction turkey tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix cheese reveal gap people section quarter cabin guitar panda abstract theme";
+var mnemonic = "general cricket proud deer cross review crawl arrive chef unique frequent bag";

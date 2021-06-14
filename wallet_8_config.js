@@ -1,1 +1,1 @@
-var mnemonic = "minute liar more involve mean under monkey decrease there very autumn below";
+var mnemonic = "tenant eyebrow car envelope scissors stone install canvas goddess park season clip";

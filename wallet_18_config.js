@@ -1,1 +1,1 @@
-var mnemonic = "valley void blue priority nominee unknown foam recycle great deputy bid mom";
+var mnemonic = "pulp else seed topple bright endorse evolve pattern version grant sick pause";

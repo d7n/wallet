@@ -1,1 +1,1 @@
-var mnemonic = "index harvest normal hold offer stand dutch ginger design claim deal foster";
+var mnemonic = "sport aspect ability reject width wash gun depart table settle buffalo butter";

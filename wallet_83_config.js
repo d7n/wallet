@@ -1,1 +1,1 @@
-var mnemonic = "crack sight sheriff dance element where outer decide habit cart swallow left";
+var mnemonic = "mercy method rather oil spice genuine top climb select pretty cinnamon tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude fossil sudden picture seat cabin exercise appear put mean twice urban";
+var mnemonic = "warm name dune cover medal aerobic bless select neglect park feel clown";

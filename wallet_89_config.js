@@ -1,1 +1,1 @@
-var mnemonic = "world tide reject crop thrive shed limit know amateur shock table exclude";
+var mnemonic = "artwork type dry ride kite fatigue violin business peanut useful marine autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch brief miracle bulb evoke kick door soup winter image scrub tower";
+var mnemonic = "one mass call envelope dinosaur destroy turkey end oppose unhappy ginger clap";

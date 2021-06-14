@@ -1,1 +1,1 @@
-var mnemonic = "tourist rough situate blush mix zebra crime oil frequent wood staff grape";
+var mnemonic = "spend budget banner badge limb merge payment return enter vessel famous violin";

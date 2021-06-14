@@ -1,1 +1,1 @@
-var mnemonic = "sword traffic diary recipe bus ugly search mimic plate calm multiply cube";
+var mnemonic = "luxury roof throw screen labor file hidden bread also hero inject prosper";

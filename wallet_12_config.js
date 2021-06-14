@@ -1,1 +1,1 @@
-var mnemonic = "act naive boss orphan huge help uncover alter obscure slam bring gate";
+var mnemonic = "food fringe scan portion clog hungry cinnamon text wet indoor couch dose";

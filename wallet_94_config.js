@@ -1,1 +1,1 @@
-var mnemonic = "portion divorce track length awake movie slight sheriff zebra slow wing dash";
+var mnemonic = "oak tower between circle arrow oxygen identify major scare twice gauge hotel";

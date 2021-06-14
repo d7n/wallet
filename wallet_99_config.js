@@ -1,1 +1,1 @@
-var mnemonic = "blur fortune control antenna axis error theme act cost daughter boy glass";
+var mnemonic = "strike proud oval employ frown mutual alien carpet danger unit coyote turn";

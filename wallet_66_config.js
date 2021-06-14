@@ -1,1 +1,1 @@
-var mnemonic = "identify pony split biology advance caution crawl foil such enough guide spend";
+var mnemonic = "fruit crop blade another film banner balcony curious scare will merit solution";

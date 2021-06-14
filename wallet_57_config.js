@@ -1,1 +1,1 @@
-var mnemonic = "average draft goddess core elephant one innocent portion spin symbol glide sponsor";
+var mnemonic = "nuclear movie affair meat paddle subject token cycle answer ghost length build";

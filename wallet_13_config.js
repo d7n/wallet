@@ -1,1 +1,1 @@
-var mnemonic = "attend joke arrive polar proof twenty sail nut giant surprise require mail";
+var mnemonic = "favorite forest orchard remind favorite update cycle large target island bunker jaguar";

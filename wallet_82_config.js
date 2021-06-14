@@ -1,1 +1,1 @@
-var mnemonic = "march erase hole chapter zebra jewel hurry trap absorb walnut make that";
+var mnemonic = "bean manual coral column phrase retire practice this tiger network powder victory";

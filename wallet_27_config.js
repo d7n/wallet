@@ -1,1 +1,1 @@
-var mnemonic = "media scare hire ride ketchup blood soft script opera spin elder elegant";
+var mnemonic = "allow tuna call safe pudding salad rely lawsuit any return slam quick";

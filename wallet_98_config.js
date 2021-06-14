@@ -1,1 +1,1 @@
-var mnemonic = "across whisper report where honey valve laugh mass coffee sugar erase guard";
+var mnemonic = "define that error need nose lucky fog amount dance such bridge celery";

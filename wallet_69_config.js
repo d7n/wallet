@@ -1,1 +1,1 @@
-var mnemonic = "crystal suffer senior curtain print plate unable army melt soup era slow";
+var mnemonic = "any suffer use coil nephew photo beyond again inner canvas media fever";

@@ -1,1 +1,1 @@
-var mnemonic = "neck seminar idle gold immense vast inquiry celery write glide wage ensure";
+var mnemonic = "digital blast rib ribbon hawk stand marble upon taste depth yellow monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon asthma group mass dinosaur shallow food drill column camp ring ugly";
+var mnemonic = "damage federal shallow local hub boat kangaroo roast digital wrestle phrase thank";

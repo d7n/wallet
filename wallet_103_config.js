@@ -1,1 +1,1 @@
-var mnemonic = "kiss bridge foster leader slow town coil finger silk staff leave city";
+var mnemonic = "deposit strike burst lazy board rebuild latin horror aisle ignore erosion frozen";

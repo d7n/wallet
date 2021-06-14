@@ -1,1 +1,1 @@
-var mnemonic = "body seat swift slam test ill siege mention umbrella brave similar media";
+var mnemonic = "seat scan shield wreck claim sell night glare cloud pause meat clump";

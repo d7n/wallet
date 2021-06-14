@@ -1,1 +1,1 @@
-var mnemonic = "tide crowd wheel tortoise fish today wood slush entire volcano point buffalo";
+var mnemonic = "switch elegant post drum unfold first street doctor asthma fluid nothing capable";

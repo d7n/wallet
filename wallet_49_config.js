@@ -1,1 +1,1 @@
-var mnemonic = "shrimp rubber lab blue drift faculty assault confirm inherit inhale abuse genius";
+var mnemonic = "door orbit cream shine frog fetch olympic issue forget guitar trial congress";

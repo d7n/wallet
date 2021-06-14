@@ -1,1 +1,1 @@
-var mnemonic = "illegal december rally cement post alien bean glimpse cute brown replace sheriff";
+var mnemonic = "section inhale champion force slim sauce salad capital inspire robust mistake volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "sad caution gentle stuff orient help ozone key skirt above shrug earth";
+var mnemonic = "multiply upset allow demand acoustic soon used brass affair speak broccoli lamp";

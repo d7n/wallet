@@ -1,1 +1,1 @@
-var mnemonic = "another antenna magic enact scissors rural merit close history range describe weasel";
+var mnemonic = "tourist pear gauge chief loop notice radio boil elder acquire seek poem";

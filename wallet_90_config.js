@@ -1,1 +1,1 @@
-var mnemonic = "connect scatter ribbon movie buddy write grass century upper achieve reopen chunk";
+var mnemonic = "fade actual peasant slice solve cool fortune call exit sibling exhaust useful";

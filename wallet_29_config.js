@@ -1,1 +1,1 @@
-var mnemonic = "lab body tape unfair any always suggest adult draw give relax vicious";
+var mnemonic = "coin fortune client crew health slim birth address twice fancy cupboard wedding";

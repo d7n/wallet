@@ -1,1 +1,1 @@
-var mnemonic = "present inhale book bring upon kite sister home save twenty grow copy";
+var mnemonic = "work mirror quantum either champion penalty champion chicken melt alert access whip";

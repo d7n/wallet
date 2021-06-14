@@ -1,1 +1,1 @@
-var mnemonic = "emotion ordinary door flower inherit swing whale exit found route disorder aware";
+var mnemonic = "debate twin sadness screen nation pony nature cute exercise random world puzzle";

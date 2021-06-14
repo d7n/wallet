@@ -1,1 +1,1 @@
-var mnemonic = "couch miss clerk waste illness over audit spray spice notable whip pig";
+var mnemonic = "whisper sense health universe skull clever crystal old detect leisure razor car";

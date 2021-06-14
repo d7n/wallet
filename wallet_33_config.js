@@ -1,1 +1,1 @@
-var mnemonic = "crop drastic tonight bachelor tree silly era over bring follow april bulb";
+var mnemonic = "phrase elegant devote basic update lucky cheese echo announce verb degree vivid";

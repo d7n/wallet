@@ -1,1 +1,1 @@
-var mnemonic = "wide sphere uphold try initial general nut initial else tackle green cook";
+var mnemonic = "appear current mask notice neutral obtain nut regular badge false palace parent";

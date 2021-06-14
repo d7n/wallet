@@ -1,1 +1,1 @@
-var mnemonic = "sea dream rude kitten old father dog claim float easily conduct seven";
+var mnemonic = "mom cargo wash arm leisure guard update hotel ripple distance chronic already";

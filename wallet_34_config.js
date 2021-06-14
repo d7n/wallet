@@ -1,1 +1,1 @@
-var mnemonic = "sample depth muffin witness flash magic harsh true cliff peanut morning lunch";
+var mnemonic = "spirit myth grid help leg harsh verify alter such setup analyst exercise";

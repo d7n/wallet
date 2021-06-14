@@ -1,1 +1,1 @@
-var mnemonic = "point apple evidence base cricket leave detect ancient toward crew gorilla radio";
+var mnemonic = "elbow smart addict split cross ignore gun chaos mistake unlock iron series";

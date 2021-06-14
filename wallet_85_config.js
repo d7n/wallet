@@ -1,1 +1,1 @@
-var mnemonic = "attract scout arrange master verb heavy skirt adjust essence drive solid near";
+var mnemonic = "swap subject spring cook siege armed practice family lobster super shock term";

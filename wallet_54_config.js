@@ -1,1 +1,1 @@
-var mnemonic = "strike utility banner convince stuff lady cotton state rate sleep verb dream";
+var mnemonic = "siege zoo ivory obvious soft twenty basic over into awful beef walk";

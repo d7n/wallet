@@ -1,1 +1,1 @@
-var mnemonic = "giant pig wedding become old cabbage behind chair lake maid walk virtual";
+var mnemonic = "verify eager song museum traffic energy three sight innocent immense flash install";

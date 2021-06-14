@@ -1,1 +1,1 @@
-var mnemonic = "one stumble float answer cotton slogan private learn often dash gloom rookie";
+var mnemonic = "wasp uncover space celery consider trust struggle income liquid zone solution level";

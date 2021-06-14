@@ -1,1 +1,1 @@
-var mnemonic = "upset eyebrow punch session toilet nut vacant body apology daughter bid leopard";
+var mnemonic = "shop ghost million price immune until divert sing dress nation fork tortoise";
