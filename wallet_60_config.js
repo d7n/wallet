@@ -1,1 +1,1 @@
-var mnemonic = "script salmon magnet carry junior embody choice farm now disease conduct input";
+var mnemonic = "strong domain cart olympic amused vessel pact write update desk tongue security";

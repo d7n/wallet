@@ -1,1 +1,1 @@
-var mnemonic = "install cactus potato peace portion scan travel reopen license nothing judge effort";
+var mnemonic = "happy flavor upper maple stomach chase soft scatter uncover extend student entry";

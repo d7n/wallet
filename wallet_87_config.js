@@ -1,1 +1,1 @@
-var mnemonic = "hobby sample dinner traffic because call twenty frown tuition feel behind differ";
+var mnemonic = "clip rookie spell unit syrup fetch orbit fix genius soccer live ecology";

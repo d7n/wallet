@@ -1,1 +1,1 @@
-var mnemonic = "cluster valid crucial animal guilt cousin wedding give utility exotic grab turkey";
+var mnemonic = "captain alcohol they between rain polar number trouble cause equal latin demise";

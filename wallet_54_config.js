@@ -1,1 +1,1 @@
-var mnemonic = "peace bacon average clog hover trigger excuse remember average kitchen attract laundry";
+var mnemonic = "mistake need connect account casual ahead affair index crouch poverty leaf goat";

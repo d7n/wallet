@@ -1,1 +1,1 @@
-var mnemonic = "theme supreme excuse angle prefer fringe lift tribe sure long erosion wheat";
+var mnemonic = "orbit control wear spike piece matter pretty myth powder river pride model";

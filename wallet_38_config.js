@@ -1,1 +1,1 @@
-var mnemonic = "gaze defense coach mushroom sword wave chaos nice across switch resource alien";
+var mnemonic = "foot script seat receive deputy blossom enact ripple assist assist pilot discover";

@@ -1,1 +1,1 @@
-var mnemonic = "mango write ticket intact enforce convince sting season same pitch way main";
+var mnemonic = "spin crucial day mask tornado winner neck casual shiver excess hollow maid";

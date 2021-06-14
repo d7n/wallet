@@ -1,1 +1,1 @@
-var mnemonic = "erode teach black stable nurse cruise creek ticket boy frozen dust object";
+var mnemonic = "leisure pupil snap apple wear subject bulb donate bonus dog hire penalty";

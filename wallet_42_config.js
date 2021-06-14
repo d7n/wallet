@@ -1,1 +1,1 @@
-var mnemonic = "art taste pact security dismiss space game someone maple curious liquid pipe";
+var mnemonic = "antenna situate embody pill super copper auto someone offer reveal swap velvet";

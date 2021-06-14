@@ -1,1 +1,1 @@
-var mnemonic = "fruit choice celery food brief credit soft enough liberty actor jealous country";
+var mnemonic = "laptop grunt push sustain keen lazy record black neglect mask flock pelican";

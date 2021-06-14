@@ -1,1 +1,1 @@
-var mnemonic = "arch dash pet fine level magnet rescue sound lizard impact defy private";
+var mnemonic = "garlic remove hobby awesome axis patient object face cause term snap swing";

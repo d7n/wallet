@@ -1,1 +1,1 @@
-var mnemonic = "drift cradle knee always drum fashion snap decrease curtain pledge gate horse";
+var mnemonic = "burger century battle steel empty multiply lobster dumb ankle toss cool begin";

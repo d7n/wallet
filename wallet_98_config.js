@@ -1,1 +1,1 @@
-var mnemonic = "dial motion spoil fiber rotate shoulder special collect mimic sunset torch mom";
+var mnemonic = "imitate want vague measure suspect mind expose hazard nasty bind marine loud";

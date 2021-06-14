@@ -1,1 +1,1 @@
-var mnemonic = "melt used crew glance yellow decorate ocean milk illness expire empower divert";
+var mnemonic = "thrive trap pig august woman garage earn corn decrease client educate neither";

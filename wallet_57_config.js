@@ -1,1 +1,1 @@
-var mnemonic = "catalog add day borrow magic ability toast cycle cigar salute vault avoid";
+var mnemonic = "crack bulk ripple rug stool reopen fluid boost sibling dad country enforce";

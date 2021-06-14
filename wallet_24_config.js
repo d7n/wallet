@@ -1,1 +1,1 @@
-var mnemonic = "double window chunk poet you chunk rescue monkey noise beef soul laundry";
+var mnemonic = "happy same wrestle protect material mom put daring rally end fade option";

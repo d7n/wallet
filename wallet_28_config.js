@@ -1,1 +1,1 @@
-var mnemonic = "media zoo test sell age crunch cry chronic require radar coconut odor";
+var mnemonic = "animal void jar dad rapid father review nation man hill soul drastic";

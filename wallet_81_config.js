@@ -1,1 +1,1 @@
-var mnemonic = "mixture winner badge travel tide mouse trash manage lunch direct upper become";
+var mnemonic = "among century state soon arch physical direct rib desert clip animal ritual";

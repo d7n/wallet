@@ -1,1 +1,1 @@
-var mnemonic = "duty movie rhythm vague garment north pudding alcohol clap brisk diesel young";
+var mnemonic = "meadow speed tell share chimney blood reflect grant primary labor luggage trigger";

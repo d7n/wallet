@@ -1,1 +1,1 @@
-var mnemonic = "magnet mention acid giant clap valley ring certain peace tobacco matter gospel";
+var mnemonic = "autumn sort online fame decorate bird dwarf talk spoon oven tobacco choice";

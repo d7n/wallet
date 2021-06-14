@@ -1,1 +1,1 @@
-var mnemonic = "voyage child raccoon drill bird strategy remember garage skirt clock private sentence";
+var mnemonic = "feel crystal dirt future stomach village inmate crowd plug cotton pink large";

@@ -1,1 +1,1 @@
-var mnemonic = "park robot struggle sunny position drive hotel material wet current beach insane";
+var mnemonic = "item detect crop gaze chase expect rib scan age code clutch giant";

@@ -1,1 +1,1 @@
-var mnemonic = "spread view rural lift bottom bleak shell palm grit execute monkey fish";
+var mnemonic = "cat patrol vote stem fiber engine clip toy main thank exit alien";

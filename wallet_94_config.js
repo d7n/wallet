@@ -1,1 +1,1 @@
-var mnemonic = "food crowd artist number glad depart kitchen fish lemon tank purchase trick";
+var mnemonic = "snap motor wink barely solve dynamic remember differ silly lend hollow clinic";

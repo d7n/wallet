@@ -1,1 +1,1 @@
-var mnemonic = "analyst tent reward document tongue primary alarm loan clock team farm pear";
+var mnemonic = "coil bread absorb silly conduct meadow short kangaroo capital remember shove lumber";

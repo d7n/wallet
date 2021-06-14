@@ -1,1 +1,1 @@
-var mnemonic = "dash young cable chest stairs betray add razor cruise subway fence give";
+var mnemonic = "medal tornado legal pioneer behave thunder jaguar champion finger party task series";

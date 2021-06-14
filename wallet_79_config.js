@@ -1,1 +1,1 @@
-var mnemonic = "citizen fiction surge blanket neck mean assault wife behind arm above main";
+var mnemonic = "salmon doctor dream drive reform hero piece tube scheme network patient pole";

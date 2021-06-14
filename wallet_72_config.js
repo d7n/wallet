@@ -1,1 +1,1 @@
-var mnemonic = "shiver dirt thunder acid damp citizen swift all power kitchen raise anxiety";
+var mnemonic = "cat talk oxygen blouse lonely quick album believe odor lonely globe elite";

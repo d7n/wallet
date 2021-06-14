@@ -1,1 +1,1 @@
-var mnemonic = "simple side year coconut educate say quote crater proof polar device suspect";
+var mnemonic = "immense hip hold glass secret midnight orchard estate rescue artefact mask zone";

@@ -1,1 +1,1 @@
-var mnemonic = "success polar menu vanish company across struggle thumb cave tomato chuckle peasant";
+var mnemonic = "code cushion wait turkey wing green kick sadness congress blind lend glove";

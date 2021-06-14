@@ -1,1 +1,1 @@
-var mnemonic = "suspect such borrow boat simple track purpose want enjoy sibling final tray";
+var mnemonic = "recall polar column artefact choice knife coffee salon loan impulse snap arrange";

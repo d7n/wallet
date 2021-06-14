@@ -1,1 +1,1 @@
-var mnemonic = "provide industry valley fresh shove almost dirt ozone hover pear ask glove";
+var mnemonic = "piece oak ancient faculty purpose grief sort wish soap culture regret shed";

@@ -1,1 +1,1 @@
-var mnemonic = "flash coyote behave settle bundle people brand hedgehog garage luggage toy entire";
+var mnemonic = "evil gesture april amazing below wedding myth awesome kick method fun wink";

@@ -1,1 +1,1 @@
-var mnemonic = "enact solar teach dune exact skin speed border ivory cruise melt fiber";
+var mnemonic = "impose fortune upgrade can select regular erosion arena stick garden stem split";

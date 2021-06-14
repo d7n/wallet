@@ -1,1 +1,1 @@
-var mnemonic = "junk uncover minimum corn ignore fame actress valid hollow market wheat horse";
+var mnemonic = "sea lawn perfect kitten afford prevent doll wine aerobic whip uncle talk";

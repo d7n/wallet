@@ -1,1 +1,1 @@
-var mnemonic = "umbrella right dad address carpet easy hello scatter tuition way rail zoo";
+var mnemonic = "sick mean sugar increase belt scale soap fetch pattern between dish maid";

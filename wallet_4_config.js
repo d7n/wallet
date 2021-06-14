@@ -1,1 +1,1 @@
-var mnemonic = "reopen fuel fan front move text page symbol boost core dog close";
+var mnemonic = "catalog receive cake rail assault wave essence tide word outside shop person";

@@ -1,1 +1,1 @@
-var mnemonic = "tag grain coach soon fatigue nothing black clown wear scale issue stairs";
+var mnemonic = "program slab million favorite bicycle ill quantum blade dentist major robot deputy";

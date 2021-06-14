@@ -1,1 +1,1 @@
-var mnemonic = "earth gorilla ranch garment suspect total swamp crowd vague blast idle biology";
+var mnemonic = "lift mention captain like sudden mansion exclude tone angry private blame evidence";

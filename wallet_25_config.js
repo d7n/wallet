@@ -1,1 +1,1 @@
-var mnemonic = "frost regret erode title adapt nature grid olive arm flavor body boring";
+var mnemonic = "cancel alter flush gallery estate popular foot danger orphan behind cycle skill";

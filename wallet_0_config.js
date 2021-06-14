@@ -1,1 +1,1 @@
-var mnemonic = "father grain eager negative enter often lesson grid street eager aunt similar";
+var mnemonic = "inmate visual life impact humble tunnel badge alpha park enact toddler only";

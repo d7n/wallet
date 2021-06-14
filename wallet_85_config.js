@@ -1,1 +1,1 @@
-var mnemonic = "hospital exhaust furnace eight access circle cushion retire labor scale idle sting";
+var mnemonic = "west mammal rate quality knock news advance imitate because approve fuel aware";

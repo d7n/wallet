@@ -1,1 +1,1 @@
-var mnemonic = "brown bubble sibling tail ancient claw gentle zebra inject top often myth";
+var mnemonic = "garlic cover athlete unaware mutual empty motion employ inmate neither palm october";

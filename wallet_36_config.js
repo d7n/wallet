@@ -1,1 +1,1 @@
-var mnemonic = "note domain silver stumble glance display pyramid mammal brass agree average pulp";
+var mnemonic = "wood accuse cushion transfer spider lake praise wish gesture garlic crazy basket";

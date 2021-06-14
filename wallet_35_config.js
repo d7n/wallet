@@ -1,1 +1,1 @@
-var mnemonic = "citizen balance bonus ribbon drive curve scrap odor slot era forum smoke";
+var mnemonic = "eager tackle wink patrol hurry rocket improve rose scissors fiscal pepper another";

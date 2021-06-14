@@ -1,1 +1,1 @@
-var mnemonic = "crystal receive parent goddess certain find clock banana confirm cupboard reason cabbage";
+var mnemonic = "stairs hurt hurdle meat math girl all sniff about erase seed issue";

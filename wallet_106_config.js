@@ -1,1 +1,1 @@
-var mnemonic = "custom oppose chunk monkey mention need load blade today juice unique hungry";
+var mnemonic = "middle mask such find just table sheriff dumb scrap magic physical fragile";

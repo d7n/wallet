@@ -1,1 +1,1 @@
-var mnemonic = "boss polar smart wife short slice much blossom finger double weapon artefact";
+var mnemonic = "across pride suspect brick flower ocean pool luggage sick biology path diet";

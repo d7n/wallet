@@ -1,1 +1,1 @@
-var mnemonic = "refuse raise roast wrist bar scorpion also sound monitor main reform humor";
+var mnemonic = "tool gadget trade crack kiss various certain nice blue suffer catalog escape";

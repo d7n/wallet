@@ -1,1 +1,1 @@
-var mnemonic = "worry bag record play party betray badge print good winner trial peanut";
+var mnemonic = "beach mule regret ethics decade pig reward pond panic host major misery";

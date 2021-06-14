@@ -1,1 +1,1 @@
-var mnemonic = "ready worry easily game glow auto half fever color resemble basket century";
+var mnemonic = "domain bullet endorse photo very afraid rare trip oil bulb deal salmon";

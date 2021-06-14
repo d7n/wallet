@@ -1,1 +1,1 @@
-var mnemonic = "syrup hard doll flip ignore bleak steak pull mimic pioneer trend coast";
+var mnemonic = "teach subject trade insane topic door cousin myself session cube shell tackle";

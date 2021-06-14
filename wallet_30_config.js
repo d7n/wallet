@@ -1,1 +1,1 @@
-var mnemonic = "seven infant valve come turtle require arch razor gasp obtain loop dumb";
+var mnemonic = "time come super fold leader blush point boring cause jar result business";

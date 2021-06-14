@@ -1,1 +1,1 @@
-var mnemonic = "pair screen cruise winter island flat biology tragic mad two face legend";
+var mnemonic = "nasty summer waste invest man until trade meadow hard panther wealth finger";

@@ -1,1 +1,1 @@
-var mnemonic = "abuse person toilet session canoe bottom social empty lunch century limit body";
+var mnemonic = "illness cluster excess cabbage keep fringe fitness install catch movie lawsuit hint";

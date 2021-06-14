@@ -1,1 +1,1 @@
-var mnemonic = "rice antique hotel enable family trend phone hobby spice mention dance drum";
+var mnemonic = "daring goat grit bid victory urge slab rocket vague zero enable subject";

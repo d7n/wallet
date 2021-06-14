@@ -1,1 +1,1 @@
-var mnemonic = "unit grit equip loud learn virus explain bitter butter rich pluck word";
+var mnemonic = "achieve little safe federal all unveil identify earn armor push paddle gallery";

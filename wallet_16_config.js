@@ -1,1 +1,1 @@
-var mnemonic = "chuckle because oval apart antique grit worry opera hire battle draw sweet";
+var mnemonic = "garment economy mixture price glory gallery option weekend harbor salon jaguar grit";

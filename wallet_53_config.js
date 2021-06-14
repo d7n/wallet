@@ -1,1 +1,1 @@
-var mnemonic = "puzzle layer yard course arctic spray good spike solar cage enlist oyster";
+var mnemonic = "blanket social interest catalog churn all combine street bracket trumpet crystal economy";

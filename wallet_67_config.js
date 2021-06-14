@@ -1,1 +1,1 @@
-var mnemonic = "appear duty balcony sample inch impulse great obey bone response domain pupil";
+var mnemonic = "hammer giraffe couple setup escape action oblige purpose risk sound riot merge";

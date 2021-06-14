@@ -1,1 +1,1 @@
-var mnemonic = "high actual muffin sauce giggle stock thumb share walnut youth gasp rare";
+var mnemonic = "ketchup invite tragic party december dynamic canal orange close weather stick shield";

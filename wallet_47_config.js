@@ -1,1 +1,1 @@
-var mnemonic = "bless timber object foot quit advice rural increase warrior taste horn sad";
+var mnemonic = "verb panther piano provide cause vintage garden noble alone tornado priority such";

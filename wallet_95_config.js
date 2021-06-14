@@ -1,1 +1,1 @@
-var mnemonic = "fame unknown apology glass couple ethics burger into demise miss end steak";
+var mnemonic = "theme shiver clip feed mixed fee nut enemy wild mutual hat absorb";

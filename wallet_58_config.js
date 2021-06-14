@@ -1,1 +1,1 @@
-var mnemonic = "gold suit dismiss fiber bone magic output wet element hold drip warm";
+var mnemonic = "olive nominee job result loop mobile security early around nut man sauce";

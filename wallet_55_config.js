@@ -1,1 +1,1 @@
-var mnemonic = "gentle busy cousin huge message forget art enroll tortoise salon half gospel";
+var mnemonic = "myself edit pluck face gain daughter peace disagree demand predict attract unfold";

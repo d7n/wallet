@@ -1,1 +1,1 @@
-var mnemonic = "swing belt rally item valley grow input trouble price jazz spell process";
+var mnemonic = "hospital doctor vast position dwarf popular drill toy country tray crowd flash";

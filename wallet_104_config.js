@@ -1,1 +1,1 @@
-var mnemonic = "few topic model achieve funny use patient enough execute abuse place rate";
+var mnemonic = "seat spice tissue old snap room climb weasel mountain arena smile pluck";

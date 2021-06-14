@@ -1,1 +1,1 @@
-var mnemonic = "company detect limit nose fold solid great shock dinosaur early abandon drama";
+var mnemonic = "heart castle uncover region ignore kingdom force acid shoot duck symbol husband";

@@ -1,1 +1,1 @@
-var mnemonic = "side permit clutch remind rough recall one gallery birth tent spread number";
+var mnemonic = "limit squirrel stand illegal stand legend soon eager build slot rather essay";

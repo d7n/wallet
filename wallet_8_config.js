@@ -1,1 +1,1 @@
-var mnemonic = "actor blanket also dune can tube praise sadness bird feed crop autumn";
+var mnemonic = "dumb motor gravity weapon drastic young frost dizzy drink panther annual ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "future fee negative slide never rose mimic mesh motion dwarf wasp violin";
+var mnemonic = "horse disorder vintage planet album galaxy matter resist illness wish weather aim";

@@ -1,1 +1,1 @@
-var mnemonic = "display pluck define ghost party point alcohol purity wish pen stage near";
+var mnemonic = "army prefer secret soccer card ability keep crew skate lobster garden pig";

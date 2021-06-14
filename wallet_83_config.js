@@ -1,1 +1,1 @@
-var mnemonic = "flee tomato valley aunt robot metal digital express lava use banner danger";
+var mnemonic = "tennis awesome wasp tone exercise scan rug vapor abstract original mango oven";

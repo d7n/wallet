@@ -1,1 +1,1 @@
-var mnemonic = "nose lemon estate trash oak giraffe rate vault acoustic bus throw follow";
+var mnemonic = "spring draft fabric pond talent electric happy title arrest collect salute rigid";

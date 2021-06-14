@@ -1,1 +1,1 @@
-var mnemonic = "token web alone tattoo genuine random whale spice walk bright swamp flee";
+var mnemonic = "memory luggage cannon divert parent boy lucky noodle assume more leader fashion";

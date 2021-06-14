@@ -1,1 +1,1 @@
-var mnemonic = "trash secret come junk leg combine pencil life fringe holiday toe high";
+var mnemonic = "learn sheriff return gap ceiling learn depth pencil crew observe win shrug";

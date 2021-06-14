@@ -1,1 +1,1 @@
-var mnemonic = "tip damage author clip crystal section route rebel favorite art success exit";
+var mnemonic = "page tide mango thought fit forum uncle fashion sand cry envelope sell";

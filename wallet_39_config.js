@@ -1,1 +1,1 @@
-var mnemonic = "mango ostrich ripple voyage squeeze wait spy cushion rally bottom female rather";
+var mnemonic = "immune small north remember critic depart conduct lunch shove olive soft monster";

@@ -1,1 +1,1 @@
-var mnemonic = "equip limb champion eight estate proud gesture outer wonder meadow suggest sport";
+var mnemonic = "possible cupboard outdoor athlete close post acid early ginger syrup party multiply";

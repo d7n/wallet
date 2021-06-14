@@ -1,1 +1,1 @@
-var mnemonic = "usual before mutual forest diagram hold spare flower anxiety patrol virtual defy";
+var mnemonic = "hover impulse timber other disease seek bread hundred misery flee meat find";

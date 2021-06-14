@@ -1,1 +1,1 @@
-var mnemonic = "cloud gym joke midnight near pill monkey fit more load burger among";
+var mnemonic = "giant alert invite expand modify fame stuff sponsor injury snap gentle immense";

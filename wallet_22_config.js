@@ -1,1 +1,1 @@
-var mnemonic = "happy wide media fashion fever beef couple size eternal rare floor solid";
+var mnemonic = "fruit lawn sell category menu fan youth essay mind enough fury rough";

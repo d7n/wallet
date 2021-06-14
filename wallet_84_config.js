@@ -1,1 +1,1 @@
-var mnemonic = "reduce quit lawn secret grab sing cover quick festival two author dawn";
+var mnemonic = "month asthma physical chaos tag chuckle decorate erupt note later waste heart";

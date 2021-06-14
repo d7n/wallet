@@ -1,1 +1,1 @@
-var mnemonic = "group ceiling relief welcome crumble nuclear volume possible garlic merit urge ivory";
+var mnemonic = "ghost destroy account escape idea boat cabin float pen quality insane state";

@@ -1,1 +1,1 @@
-var mnemonic = "recall depend stereo three mechanic dignity pride parade muffin fiscal relief story";
+var mnemonic = "doctor cement exist fox galaxy forget industry frequent silver release distance property";

@@ -1,1 +1,1 @@
-var mnemonic = "guard old ill marriage gasp sphere embody march brick cloth girl fatal";
+var mnemonic = "youth neck actress hamster hedgehog eagle burden hybrid comic remain minute metal";

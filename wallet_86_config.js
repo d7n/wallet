@@ -1,1 +1,1 @@
-var mnemonic = "ceiling guess egg project sugar gentle describe truly trade inspire gown sunny";
+var mnemonic = "fiction radar occur give faint better uniform acoustic nurse know notable hero";

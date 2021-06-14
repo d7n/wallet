@@ -1,1 +1,1 @@
-var mnemonic = "infant ten index gift diary green spirit lab same space festival prepare";
+var mnemonic = "pledge use gate nest lizard truth cereal genuine veteran unit letter bless";

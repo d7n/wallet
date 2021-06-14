@@ -1,1 +1,1 @@
-var mnemonic = "steel company payment man window cotton despair syrup order kitchen ridge stove";
+var mnemonic = "balance elevator trophy cruel fun economy disorder flight spoon cancel increase school";

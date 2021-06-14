@@ -1,1 +1,1 @@
-var mnemonic = "state hover quarter filter museum club seat regular foam blur warm agent";
+var mnemonic = "cradle hope media coach equal sell assume talk angry frost river oil";
