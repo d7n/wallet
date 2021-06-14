@@ -1,1 +1,1 @@
-var mnemonic = "size idea define cat spirit favorite ivory void orient goddess loyal flash";
+var mnemonic = "conduct chair picnic brief above swarm grocery ghost great report economy marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol grunt virtual target fee uphold virus east bulk tomorrow kangaroo fabric";
+var mnemonic = "vicious slam sword hill funny sing mad baby ill jar horse ball";

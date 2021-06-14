@@ -1,1 +1,1 @@
-var mnemonic = "decorate tortoise trouble author monitor board border jealous donkey purse major measure";
+var mnemonic = "library alien search lunch address bronze section depart syrup movie shine basic";

@@ -1,1 +1,1 @@
-var mnemonic = "trap teach lab laugh eager armed elbow slide occur expire matrix prosper";
+var mnemonic = "desert alley story eternal parade sphere moral trigger ripple chair shield distance";

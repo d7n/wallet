@@ -1,1 +1,1 @@
-var mnemonic = "demise poem thumb transfer adjust glad private sell churn school fuel admit";
+var mnemonic = "sea season place clip pulp involve shoulder purpose tuition usual vague field";

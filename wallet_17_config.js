@@ -1,1 +1,1 @@
-var mnemonic = "then chef weird engage fuel plunge brand afford this jungle switch interest";
+var mnemonic = "crush space ring candy once famous merit middle cinnamon ten whale gospel";

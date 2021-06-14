@@ -1,1 +1,1 @@
-var mnemonic = "web couple chimney palm heavy boil improve story army build verb alpha";
+var mnemonic = "piece poet sausage onion prefer interest tomorrow lizard elegant runway involve excuse";

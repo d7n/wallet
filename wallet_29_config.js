@@ -1,1 +1,1 @@
-var mnemonic = "coyote focus grocery reform voice yard pool focus soul version tumble say";
+var mnemonic = "matter slab metal awake resist crucial fiction trend shaft sword hybrid cliff";

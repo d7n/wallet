@@ -1,1 +1,1 @@
-var mnemonic = "today shrimp black anger thank wasp shrimp maze where flat grass law";
+var mnemonic = "expect clay invite cruel arrest solid stereo canvas oyster hello unlock trick";

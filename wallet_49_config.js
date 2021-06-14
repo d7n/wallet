@@ -1,1 +1,1 @@
-var mnemonic = "gun test long gauge fever sugar basic clinic little rocket color anger";
+var mnemonic = "film length such file ancient limit grain cannon woman test fog erase";

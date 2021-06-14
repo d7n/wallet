@@ -1,1 +1,1 @@
-var mnemonic = "portion curious destroy hospital enable until neck word impose extra ski morning";
+var mnemonic = "decide mobile come turtle join gospel scorpion system public unfair loop swing";

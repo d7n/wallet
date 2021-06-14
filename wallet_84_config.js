@@ -1,1 +1,1 @@
-var mnemonic = "scale runway copper merry glass wasp shrimp paddle rubber burger shadow almost";
+var mnemonic = "hill primary shock farm deliver pool budget flame phone balcony horse toe";

@@ -1,1 +1,1 @@
-var mnemonic = "wave power steel various tree clown slim purity limit cluster park ill";
+var mnemonic = "carpet since pink tag number foam minor upon destroy ugly dust arrow";

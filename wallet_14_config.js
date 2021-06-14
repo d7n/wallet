@@ -1,1 +1,1 @@
-var mnemonic = "penalty fly illness divide slogan inherit remain dose bird evolve rate outside";
+var mnemonic = "belt coast version chapter chimney one kitten milk affair sure grief balance";

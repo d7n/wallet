@@ -1,1 +1,1 @@
-var mnemonic = "among nest shift flock skirt witness rebel great argue polar broccoli vast";
+var mnemonic = "behind expect figure online normal impose conduct inherit entire vapor sauce object";

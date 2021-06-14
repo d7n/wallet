@@ -1,1 +1,1 @@
-var mnemonic = "one jeans egg subject vacant yard future asset symptom arch combine dash";
+var mnemonic = "subject drip orchard legend erode private elegant add survey crucial bag where";

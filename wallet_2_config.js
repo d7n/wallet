@@ -1,1 +1,1 @@
-var mnemonic = "permit repeat work ranch deposit depend length robust crane clock hazard account";
+var mnemonic = "replace toast ski blush cram obscure six drum raw enact renew scan";

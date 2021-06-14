@@ -1,1 +1,1 @@
-var mnemonic = "trip argue drip donate tone muscle purity rural nephew paper soon erosion";
+var mnemonic = "duty company scare banner unit ice dust catch author shoot remove blanket";

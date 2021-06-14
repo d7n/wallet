@@ -1,1 +1,1 @@
-var mnemonic = "tool heart prepare age salute culture pioneer learn grief surprise fatal seven";
+var mnemonic = "pony car camp goat forward price tired fancy long plunge salad rabbit";

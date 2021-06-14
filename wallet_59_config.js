@@ -1,1 +1,1 @@
-var mnemonic = "diet use silk trip axis flush catalog silly water orbit bounce potato";
+var mnemonic = "book bike scheme coral leisure plate soap filter humor reopen token ten";

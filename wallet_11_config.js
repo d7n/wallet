@@ -1,1 +1,1 @@
-var mnemonic = "cigar cactus praise chunk vast cradle mail catch burger ski talent day";
+var mnemonic = "emotion tank twelve garbage expire welcome major cup crash one tail nuclear";

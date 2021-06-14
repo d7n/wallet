@@ -1,1 +1,1 @@
-var mnemonic = "protect surprise year parade ghost provide grain lemon sunny increase clip mango";
+var mnemonic = "depart minute cabbage better unfair average gather choice notable vocal cover distance";

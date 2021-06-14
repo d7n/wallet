@@ -1,1 +1,1 @@
-var mnemonic = "together adapt gospel collect advance obvious ignore exotic fatigue novel innocent expect";
+var mnemonic = "oven seven soon robot leader tray short volume fury gain govern leave";

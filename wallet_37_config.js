@@ -1,1 +1,1 @@
-var mnemonic = "antenna payment enable blood witness hover edge demand lunch pledge tunnel enrich";
+var mnemonic = "detect either oxygen aspect prison tribe jaguar jazz virus ridge goddess chat";

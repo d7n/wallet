@@ -1,1 +1,1 @@
-var mnemonic = "top ill portion trap actress arch ticket shed identify olympic olive pudding";
+var mnemonic = "neutral naive original lend sight sphere child quiz you cram step slight";

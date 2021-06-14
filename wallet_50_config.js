@@ -1,1 +1,1 @@
-var mnemonic = "gym bless blame aim wine dirt solution when volcano kiwi include clown";
+var mnemonic = "labor surprise priority cram goose scale metal wisdom sad place display tube";

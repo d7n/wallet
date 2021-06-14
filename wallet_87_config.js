@@ -1,1 +1,1 @@
-var mnemonic = "dog negative siren rotate three donate ivory alone festival uphold song tent";
+var mnemonic = "attract aspect enact open echo food sunny record cricket useless promote awesome";

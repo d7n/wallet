@@ -1,1 +1,1 @@
-var mnemonic = "portion scissors airport deposit monkey eternal middle fresh casual belt home jelly";
+var mnemonic = "what exhaust urge excite spring arrive panda smooth consider rebuild copy goose";

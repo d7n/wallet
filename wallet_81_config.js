@@ -1,1 +1,1 @@
-var mnemonic = "badge melody text decorate road thrive phone orange blast wonder meadow blind";
+var mnemonic = "broken trust swear need balcony raven slot frozen hobby argue shoulder access";

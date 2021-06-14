@@ -1,1 +1,1 @@
-var mnemonic = "bounce fly people tail people quick pill swing bag reduce poet fee";
+var mnemonic = "slender endorse ginger pave athlete thumb mail wait velvet twice feature message";

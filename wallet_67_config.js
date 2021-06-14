@@ -1,1 +1,1 @@
-var mnemonic = "garden century jacket boost follow benefit kangaroo shy inside few can abuse";
+var mnemonic = "jacket barrel sun moment inform thought reject slender aspect about cherry reward";

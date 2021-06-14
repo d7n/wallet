@@ -1,1 +1,1 @@
-var mnemonic = "ski oak employ scene timber test mask column bracket priority total anger";
+var mnemonic = "uncover humor genre guilt state typical clap wall column upset comfort pitch";

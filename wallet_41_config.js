@@ -1,1 +1,1 @@
-var mnemonic = "soda garlic ski slot real enhance produce maze clinic appear tank urban";
+var mnemonic = "nominee praise flat palm simple concert endorse rabbit area pelican reason asset";

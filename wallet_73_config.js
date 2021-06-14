@@ -1,1 +1,1 @@
-var mnemonic = "endless dawn sibling cycle glare sort old toe ignore luggage plate actual";
+var mnemonic = "giant squeeze call hat rib claim enrich work dismiss picnic flee water";

@@ -1,1 +1,1 @@
-var mnemonic = "release hockey country misery trophy moon pitch winner walnut hand turkey mango";
+var mnemonic = "clap brand defense field lake language private laptop excess title island brick";

@@ -1,1 +1,1 @@
-var mnemonic = "snack message genre lounge spawn ceiling flush random gold school connect drip";
+var mnemonic = "mushroom tissue half music remain behind mistake twist regular style speed ramp";

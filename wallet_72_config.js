@@ -1,1 +1,1 @@
-var mnemonic = "consider banana nut lemon filter inherit music write before breeze twelve skirt";
+var mnemonic = "hidden behave orange result atom desert impact accuse double rural junior shop";

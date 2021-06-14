@@ -1,1 +1,1 @@
-var mnemonic = "assist oppose cupboard palace dawn plastic disorder raise find exact humor lemon";
+var mnemonic = "oblige salon square good adapt nation bracket demise oak angry roast toward";

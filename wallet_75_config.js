@@ -1,1 +1,1 @@
-var mnemonic = "price dwarf receive bitter odor grit essence forward kitchen lunar garage letter";
+var mnemonic = "mind novel lyrics coconut mountain loan husband miss hen avocado tip island";

@@ -1,1 +1,1 @@
-var mnemonic = "evidence embrace chaos tree bachelor humble fringe fossil achieve amazing chef security";
+var mnemonic = "extend nuclear wasp couple grant chief six true pear runway coin title";

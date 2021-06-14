@@ -1,1 +1,1 @@
-var mnemonic = "fog search decade balcony cradle echo garbage rabbit measure inquiry orient kitchen";
+var mnemonic = "develop night spell divorce item minute person evolve wet life face six";

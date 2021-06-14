@@ -1,1 +1,1 @@
-var mnemonic = "debate grant cover chef replace season price clarify predict swamp shock tired";
+var mnemonic = "stumble vapor width law leisure spoon alone castle delay vintage skill minor";

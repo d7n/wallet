@@ -1,1 +1,1 @@
-var mnemonic = "enter mammal scrub author science attack only bus beach flee debate length";
+var mnemonic = "steel hen powder vanish return scrub believe raven indoor asthma giraffe release";

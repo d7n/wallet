@@ -1,1 +1,1 @@
-var mnemonic = "gym tribe shadow badge venue razor salmon movie apart wise loan amount";
+var mnemonic = "promote nephew staff kid unknown small sure blur cruise lonely release clean";

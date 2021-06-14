@@ -1,1 +1,1 @@
-var mnemonic = "soft pilot strike lens artist slender tired neutral fashion arena loyal earth";
+var mnemonic = "rescue card utility main wear portion creek margin team jaguar hip install";

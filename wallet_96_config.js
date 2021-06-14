@@ -1,1 +1,1 @@
-var mnemonic = "gloom skin chimney bacon artwork wedding jump dignity attend zebra saddle art";
+var mnemonic = "wide erode all lobster return blade icon unfair taxi spider tongue famous";

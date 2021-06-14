@@ -1,1 +1,1 @@
-var mnemonic = "social perfect grant circle moment vicious kiwi inch middle tired void chat";
+var mnemonic = "lecture hammer life seek latin excite elevator hard monitor absorb practice pudding";

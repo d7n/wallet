@@ -1,1 +1,1 @@
-var mnemonic = "height erosion cousin weapon dish glimpse cotton seat hole sentence light avocado";
+var mnemonic = "valley runway merry oven topic rack steak abuse hover romance apology satoshi";

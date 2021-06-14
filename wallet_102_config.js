@@ -1,1 +1,1 @@
-var mnemonic = "hollow stage slender uniform brown shoot oyster desert doctor try flight joke";
+var mnemonic = "connect remain cook home mail immense monkey hurry guide mom unaware practice";

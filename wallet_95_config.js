@@ -1,1 +1,1 @@
-var mnemonic = "snake rail roof boil theme surface state duck fringe blanket regret wisdom";
+var mnemonic = "hill long island doll brother erosion census glory blur town machine fresh";

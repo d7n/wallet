@@ -1,1 +1,1 @@
-var mnemonic = "please erosion donor evolve write denial maze robot jar table long twenty";
+var mnemonic = "shrimp flower isolate over dad speak theory identify rain potato pudding limb";

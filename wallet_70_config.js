@@ -1,1 +1,1 @@
-var mnemonic = "essay road slide senior snack fever spoil legal half brown rug bulb";
+var mnemonic = "vital ghost puppy allow armor video belt tribe shield column endorse okay";

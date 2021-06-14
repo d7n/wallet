@@ -1,1 +1,1 @@
-var mnemonic = "follow dice math hotel wise hero indicate arrive swear price media daring";
+var mnemonic = "vintage purity surprise useful rhythm bounce wool notable normal oblige tape help";

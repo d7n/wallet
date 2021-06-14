@@ -1,1 +1,1 @@
-var mnemonic = "thrive arm travel edit rival arrow attack grunt west gauge scissors stem";
+var mnemonic = "original portion olive volcano prosper ahead rice wall pistol crawl what speed";

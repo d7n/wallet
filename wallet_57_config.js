@@ -1,1 +1,1 @@
-var mnemonic = "scheme erase eyebrow name stuff change split fury bargain film essay drum";
+var mnemonic = "sure barely promote umbrella cheap cinnamon atom total lock text moment grain";

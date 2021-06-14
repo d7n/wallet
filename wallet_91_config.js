@@ -1,1 +1,1 @@
-var mnemonic = "comic pupil dumb myself food stay minute tuition penalty nothing stairs alley";
+var mnemonic = "soft cook accuse decade like leg kick excess index embrace cover sugar";

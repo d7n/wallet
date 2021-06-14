@@ -1,1 +1,1 @@
-var mnemonic = "cactus glue fluid identify hazard cabin caution area scout angle neglect road";
+var mnemonic = "pledge digital critic this together blush describe victory giant upgrade wage juice";

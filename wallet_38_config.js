@@ -1,1 +1,1 @@
-var mnemonic = "sudden soldier burst buffalo night exhaust patch narrow often help mesh debris";
+var mnemonic = "empty camera glimpse infant blue ensure sausage pupil cool plug skate oyster";

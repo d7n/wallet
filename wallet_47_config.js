@@ -1,1 +1,1 @@
-var mnemonic = "village banana they foil wrong month save track aisle develop pass ready";
+var mnemonic = "enjoy destroy joy distance welcome vast crystal jar talent play board barely";

@@ -1,1 +1,1 @@
-var mnemonic = "second tool happy security cereal timber urban wet bench screen super inside";
+var mnemonic = "movie praise menu sauce omit become media ozone patient observe ribbon legal";

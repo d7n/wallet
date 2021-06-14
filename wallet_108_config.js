@@ -1,1 +1,1 @@
-var mnemonic = "only share celery engage vote imitate just leader walnut thunder review shop";
+var mnemonic = "absent song buyer first vicious visit pizza mimic hurry adult level blouse";

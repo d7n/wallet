@@ -1,1 +1,1 @@
-var mnemonic = "nest weekend pony small wood ship green sunny crash diagram cup size";
+var mnemonic = "ocean exit square benefit bar elevator ceiling garden resist tackle retreat recipe";

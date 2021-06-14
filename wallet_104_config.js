@@ -1,1 +1,1 @@
-var mnemonic = "disagree adapt foam fiscal debate slab humble error scale deer meadow enter";
+var mnemonic = "wise impulse senior twist episode rain lock olympic seat honey robot keep";

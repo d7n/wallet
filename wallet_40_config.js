@@ -1,1 +1,1 @@
-var mnemonic = "diary favorite fall quiz random trade inhale funny border delay culture shoe";
+var mnemonic = "cake silent baby develop sudden pull dilemma whale canoe camera verb off";

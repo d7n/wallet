@@ -1,1 +1,1 @@
-var mnemonic = "clean attend random timber monster reflect fluid pact need solve stand oil";
+var mnemonic = "wool moon program sentence way grunt pelican auction coffee major lens auto";

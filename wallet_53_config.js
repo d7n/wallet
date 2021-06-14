@@ -1,1 +1,1 @@
-var mnemonic = "umbrella upset entry identify tool resist boil hood topic hurry oyster window";
+var mnemonic = "spare they brush story desert mushroom text awake north motion bright honey";

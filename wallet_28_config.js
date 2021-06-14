@@ -1,1 +1,1 @@
-var mnemonic = "include party tape female door critic wild similar essay gospel fever major";
+var mnemonic = "mad real cycle warm salt minute dilemma flag fame fluid person flock";

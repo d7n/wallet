@@ -1,1 +1,1 @@
-var mnemonic = "blood response priority luggage margin like vibrant expire pair industry calm radar";
+var mnemonic = "voyage design bone stomach track mandate brave spoon exhaust wrist gauge other";

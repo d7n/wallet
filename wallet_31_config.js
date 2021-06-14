@@ -1,1 +1,1 @@
-var mnemonic = "horror cost camera episode lyrics help major useful clump short judge flavor";
+var mnemonic = "maximum begin easy conduct kick bench sunset force mobile math tip claim";

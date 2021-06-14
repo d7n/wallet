@@ -1,1 +1,1 @@
-var mnemonic = "diesel spawn report update regret tackle public unaware inside lonely umbrella exile";
+var mnemonic = "sketch melody oval minor honey cereal glue robot tissue depart error fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "stock age orchard open elbow vanish robust sunny illness develop guilt resist";
+var mnemonic = "bunker gesture umbrella pause oblige inquiry near merit burst sadness cry desert";

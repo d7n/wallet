@@ -1,1 +1,1 @@
-var mnemonic = "tape body frown fly possible hidden marine cry tail again verify manual";
+var mnemonic = "benefit giant matrix hood side lemon coast potato salad joke syrup huge";

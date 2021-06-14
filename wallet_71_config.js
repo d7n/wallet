@@ -1,1 +1,1 @@
-var mnemonic = "winner economy giraffe sketch unable fashion celery pattern you sample pig magnet";
+var mnemonic = "extra crawl lecture goat siege quit estate mystery eight sniff tag march";

@@ -1,1 +1,1 @@
-var mnemonic = "arch pattern series apart twice tornado happy lazy pyramid two decline treat";
+var mnemonic = "welcome door smart clarify offer quarter version mom tip enter worry velvet";

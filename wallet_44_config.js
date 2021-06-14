@@ -1,1 +1,1 @@
-var mnemonic = "picture meat follow duck famous resource table scan pink battle culture injury";
+var mnemonic = "crucial miracle luxury climb parrot cash report board slide banana rather chimney";

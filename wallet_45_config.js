@@ -1,1 +1,1 @@
-var mnemonic = "poet essay leave cheap option zero flush floor select stumble upper mosquito";
+var mnemonic = "also prize behind choice sand illegal kid onion immense clip note muscle";

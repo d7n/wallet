@@ -1,1 +1,1 @@
-var mnemonic = "limb spend pudding discover lab lens meat language repeat escape kidney frame";
+var mnemonic = "holiday sell egg trigger version case oven milk enact arrest exact pen";

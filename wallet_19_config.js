@@ -1,1 +1,1 @@
-var mnemonic = "market brown roof shell rich fault proud pass text sense tower filter";
+var mnemonic = "slow ethics message protect pigeon angle blanket quantum refuse rich program usage";

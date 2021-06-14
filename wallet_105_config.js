@@ -1,1 +1,1 @@
-var mnemonic = "hello poem cool annual expand wrist wise swear purchase carbon will imitate";
+var mnemonic = "card eternal credit face friend super either humor lock april normal ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "way trim thank shift right erupt inner peace accident crop uphold term";
+var mnemonic = "vault enhance sorry brush pilot across cook pull spell surround canal caution";

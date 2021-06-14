@@ -1,1 +1,1 @@
-var mnemonic = "post security cry marine toe denial risk satoshi idle delay safe panda";
+var mnemonic = "embrace wrestle vacuum heart marriage food sentence there certain brass satisfy caught";
