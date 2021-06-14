@@ -1,1 +1,1 @@
-var mnemonic = "dry local salmon cement dragon woman unusual market shop throw balance aerobic";
+var mnemonic = "jeans giant kick toy admit agree harbor goose use mobile sorry vibrant";

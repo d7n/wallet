@@ -1,1 +1,1 @@
-var mnemonic = "method render coast style note sauce distance slim disorder leave clarify convince";
+var mnemonic = "damp soft weasel amateur chef safe best coral social cycle arrange lonely";

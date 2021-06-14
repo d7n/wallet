@@ -1,1 +1,1 @@
-var mnemonic = "trophy eager apple harbor spend unhappy forget clip chronic visa margin fever";
+var mnemonic = "prefer urban twice glove green update mimic purpose cactus sense sudden march";

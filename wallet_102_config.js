@@ -1,1 +1,1 @@
-var mnemonic = "solve acquire vehicle scorpion diagram before sugar episode result road away basic";
+var mnemonic = "snake stage priority liquid amount fault length boss slight round language simple";

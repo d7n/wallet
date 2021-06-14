@@ -1,1 +1,1 @@
-var mnemonic = "burden truly dove autumn course cat soccer mad park success buddy leader";
+var mnemonic = "picnic scale drill jelly holiday define chief fix fancy accuse medal nerve";

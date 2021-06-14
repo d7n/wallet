@@ -1,1 +1,1 @@
-var mnemonic = "spawn alley prepare park home benefit flat race clarify wonder defy eternal";
+var mnemonic = "supreme nerve grab input vehicle layer glimpse dumb armor grunt tilt ivory";

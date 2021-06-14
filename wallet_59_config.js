@@ -1,1 +1,1 @@
-var mnemonic = "idea supply snap craft interest stomach father meat smart actress copy abandon";
+var mnemonic = "help symptom claim inform axis index bread give cupboard hammer vital trade";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon myth rabbit trial desk patch purse asset off media dance media";
+var mnemonic = "equip crystal vault now online oblige devote report arctic disorder annual gather";

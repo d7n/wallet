@@ -1,1 +1,1 @@
-var mnemonic = "charge screen attend place hub cherry inch eternal dirt soda thought beyond";
+var mnemonic = "pulp local crater often valve actress style caution decade scatter deny unhappy";

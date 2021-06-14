@@ -1,1 +1,1 @@
-var mnemonic = "scout turtle aspect heart unusual inhale quarter goose vapor core inmate twelve";
+var mnemonic = "black pig warrior mirror biology brick firm lab radar rich one scatter";

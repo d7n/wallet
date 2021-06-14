@@ -1,1 +1,1 @@
-var mnemonic = "silver evolve cash harvest park champion impact absorb twist upon blossom humble";
+var mnemonic = "shaft couple twelve island suspect can exit chief sign trick sauce about";

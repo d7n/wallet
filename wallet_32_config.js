@@ -1,1 +1,1 @@
-var mnemonic = "jar cargo great sugar place glad dirt property rate stock clarify tell";
+var mnemonic = "flat debris can connect exercise once dance jacket reveal predict art satisfy";

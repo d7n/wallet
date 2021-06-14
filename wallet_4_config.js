@@ -1,1 +1,1 @@
-var mnemonic = "table radio above match aware rich brown early speed grow valley slow";
+var mnemonic = "arena blur long squirrel day eternal eyebrow swear feature base hollow mean";

@@ -1,1 +1,1 @@
-var mnemonic = "involve stairs found actress shoot that ride nurse rough innocent gloom corn";
+var mnemonic = "century expire twin soldier turtle damage season close hobby sunny release appear";

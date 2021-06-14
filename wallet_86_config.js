@@ -1,1 +1,1 @@
-var mnemonic = "amount wink drastic wire bullet embrace equal weather regret ridge strike clinic";
+var mnemonic = "mimic fun toe identify display please social long object horn diet taste";

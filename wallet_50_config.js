@@ -1,1 +1,1 @@
-var mnemonic = "pair giant already paddle swear atom scrap carry model agent wisdom shine";
+var mnemonic = "whisper ramp robust switch waste inflict cart catalog stand response crime warfare";

@@ -1,1 +1,1 @@
-var mnemonic = "income require title help decline dawn near vague smooth holiday fault letter";
+var mnemonic = "carbon winter master erosion inflict reward suspect dynamic oxygen depth jungle escape";

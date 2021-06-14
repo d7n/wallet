@@ -1,1 +1,1 @@
-var mnemonic = "glove grief expect will flight guitar offer shy bread quarter angle love";
+var mnemonic = "nuclear begin elephant candy busy cake express mix globe metal brand absurd";

@@ -1,1 +1,1 @@
-var mnemonic = "gown index chuckle inform south tongue enact elbow slice song town tomato";
+var mnemonic = "transfer best ginger piano happy begin member carry coil survey fault left";

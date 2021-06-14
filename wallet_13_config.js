@@ -1,1 +1,1 @@
-var mnemonic = "middle emotion slam round snake tube now unfold transfer link fetch monster";
+var mnemonic = "base deer body face thank arm daughter eye rural brass script ordinary";

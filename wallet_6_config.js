@@ -1,1 +1,1 @@
-var mnemonic = "grief shoulder black pitch actual outer awful loop frame feature tuna airport";
+var mnemonic = "brick help fringe favorite daughter force angry beef follow rule certain prize";

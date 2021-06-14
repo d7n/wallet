@@ -1,1 +1,1 @@
-var mnemonic = "purity clump track laugh unfair armed give service today burger notice afford";
+var mnemonic = "vault process card cause rib trip silk mobile garbage ring brother allow";

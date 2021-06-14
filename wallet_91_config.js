@@ -1,1 +1,1 @@
-var mnemonic = "quick exchange ocean surround cave floor first hundred virus vehicle hard acoustic";
+var mnemonic = "true satoshi process idle zero door iron danger bachelor rude system oil";

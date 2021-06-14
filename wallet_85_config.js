@@ -1,1 +1,1 @@
-var mnemonic = "stool life winner village girl biology hood cancel supply large false employ";
+var mnemonic = "sting glad busy spell satisfy birth special raccoon dune wear muscle pizza";

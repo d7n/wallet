@@ -1,1 +1,1 @@
-var mnemonic = "behave crazy borrow dwarf miracle stove keen awesome reflect riot culture wet";
+var mnemonic = "gather end flame cruise ritual skate sausage culture ritual cabbage fluid course";

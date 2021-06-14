@@ -1,1 +1,1 @@
-var mnemonic = "phrase finish canyon warm album arch occur drift attitude mercy furnace spice";
+var mnemonic = "athlete wine crop mixture swap zone rail dutch tomorrow jeans comic use";

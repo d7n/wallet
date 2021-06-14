@@ -1,1 +1,1 @@
-var mnemonic = "moon chaos biology embrace obtain wasp advice wink token latin never acid";
+var mnemonic = "test neck cousin egg allow identify glass unusual they rely marine beyond";

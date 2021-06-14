@@ -1,1 +1,1 @@
-var mnemonic = "boss little admit glass inner hawk actual autumn egg kingdom elbow bone";
+var mnemonic = "neglect marine sunny glad sail merry few symbol average logic taxi thank";

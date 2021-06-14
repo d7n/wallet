@@ -1,1 +1,1 @@
-var mnemonic = "pretty suspect sad joy consider gown arctic intact box embrace salt gesture";
+var mnemonic = "dance solar midnight glide ridge wonder outer among brief brave weather suit";

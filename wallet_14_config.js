@@ -1,1 +1,1 @@
-var mnemonic = "manage police design celery catalog machine affair mimic include blame crush finger";
+var mnemonic = "electric online clay token diet prize obscure walnut ankle merit turkey pet";

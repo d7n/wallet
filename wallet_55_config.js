@@ -1,1 +1,1 @@
-var mnemonic = "cube sting acid never embody auction broom garbage evil elbow top spell";
+var mnemonic = "hunt lake wrap essence like news glare blind hundred aim zero warfare";

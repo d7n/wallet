@@ -1,1 +1,1 @@
-var mnemonic = "clip insane hint sting excuse bicycle fame wall inner meadow daring fame";
+var mnemonic = "jacket turtle hover gun tobacco barrel either various fox rival fuel cage";

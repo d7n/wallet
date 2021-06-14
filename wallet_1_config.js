@@ -1,1 +1,1 @@
-var mnemonic = "easy square today hunt mad various world gift affair fantasy inhale crush";
+var mnemonic = "client page tired immune praise trust service ancient feed void point mountain";

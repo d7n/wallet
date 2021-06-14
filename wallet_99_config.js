@@ -1,1 +1,1 @@
-var mnemonic = "smile nut topic neglect maze fatal chalk frog program attitude whale bar";
+var mnemonic = "fade escape strike gorilla owner smooth arena resource inside enter need educate";

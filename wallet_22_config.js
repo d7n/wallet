@@ -1,1 +1,1 @@
-var mnemonic = "mosquito verify unfold wreck pepper humble average around stock copy undo jump";
+var mnemonic = "like buffalo cute elbow begin hidden reason maid paddle music neck rocket";

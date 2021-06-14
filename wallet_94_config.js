@@ -1,1 +1,1 @@
-var mnemonic = "fun trim powder run leaf night drop unusual dry act jealous praise";
+var mnemonic = "actor venue prize riot coral slab code cake fade uphold across ribbon";

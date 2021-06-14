@@ -1,1 +1,1 @@
-var mnemonic = "garment circle skin salute night original cabin craft pair tag infant buzz";
+var mnemonic = "essence guilt gorilla dice fresh base crane scale away stuff fabric bridge";

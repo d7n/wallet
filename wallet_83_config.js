@@ -1,1 +1,1 @@
-var mnemonic = "habit attract toddler emerge crash scan blade sister time fix team that";
+var mnemonic = "impulse glide need expand parrot million cement type right evoke venture abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel palace language float cute major junk ivory arctic island huge fitness";
+var mnemonic = "flip snack elevator bean physical laugh garden wine urban slice beef spend";

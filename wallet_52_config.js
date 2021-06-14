@@ -1,1 +1,1 @@
-var mnemonic = "zone forum sport system duty lecture great web grape soul onion hobby";
+var mnemonic = "crush inhale cause depart wine addict garage whale dune leg six brief";

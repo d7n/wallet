@@ -1,1 +1,1 @@
-var mnemonic = "kid federal organ dash alone replace december code tenant teach can also";
+var mnemonic = "cool sausage forest artist rate ticket rich purchase rail boy daughter person";

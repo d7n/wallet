@@ -1,1 +1,1 @@
-var mnemonic = "only dragon meat top situate olympic comic dream clinic cotton winter one";
+var mnemonic = "cabin inform weasel mosquito next party brick feel match ugly oil connect";

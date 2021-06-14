@@ -1,1 +1,1 @@
-var mnemonic = "share gasp simple false trend morning mandate jewel divorce knock film merry";
+var mnemonic = "grunt flush sugar midnight alter screen ability alert stable citizen glove oak";

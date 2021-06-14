@@ -1,1 +1,1 @@
-var mnemonic = "frown squeeze sound cattle rough resist face learn trap topple silly under";
+var mnemonic = "tongue post wrap float river arrange upset setup story jewel install hire";

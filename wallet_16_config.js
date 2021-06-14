@@ -1,1 +1,1 @@
-var mnemonic = "teach aunt hidden breeze carbon margin candy later dash message guilt focus";
+var mnemonic = "into shrug cement recycle enough asthma auto hungry clock prevent scorpion page";

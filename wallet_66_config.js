@@ -1,1 +1,1 @@
-var mnemonic = "inspire poverty promote media fine decorate lamp antenna rubber liar offer trouble";
+var mnemonic = "female category myth armed safe poet what heart rapid fox gadget outer";

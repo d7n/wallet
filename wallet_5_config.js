@@ -1,1 +1,1 @@
-var mnemonic = "furnace protect father yard again shift speak chef embrace shine canvas emotion";
+var mnemonic = "imitate exhibit gate multiply tank fiscal chicken advance lake make breeze clever";

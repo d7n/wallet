@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon toe purity thunder eager fatigue vast series rookie system sugar keep";
+var mnemonic = "cream provide monster verify museum fresh hobby carry link liberty flight promote";

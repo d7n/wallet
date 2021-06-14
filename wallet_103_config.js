@@ -1,1 +1,1 @@
-var mnemonic = "tent length flock diagram original round nothing casino road ugly beauty rib";
+var mnemonic = "heart timber matrix leader thing offer huge fame owner alone gift patient";

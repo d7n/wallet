@@ -1,1 +1,1 @@
-var mnemonic = "reopen absent soul snap praise skill lunar swarm tenant recall pilot police";
+var mnemonic = "cause poet actor enact absurd radio material note shove lend hen visual";

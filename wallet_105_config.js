@@ -1,1 +1,1 @@
-var mnemonic = "air tilt seat panda quit increase suffer bottom monkey cricket negative unique";
+var mnemonic = "uphold tomorrow mail when nice gap oppose issue chunk boy swallow dragon";

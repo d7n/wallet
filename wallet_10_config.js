@@ -1,1 +1,1 @@
-var mnemonic = "olympic never noble retire skin saddle fitness trust gloom unknown extra decide";
+var mnemonic = "half vote differ because vibrant city holiday diagram eight athlete oblige much";

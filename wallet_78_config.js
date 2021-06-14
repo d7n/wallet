@@ -1,1 +1,1 @@
-var mnemonic = "ability kiwi federal layer fashion autumn rigid tobacco follow fork risk reduce";
+var mnemonic = "expect more square robust steak truly resource fatal jeans chunk present school";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe magic crowd squeeze suffer quote pony judge banner segment thrive amount";
+var mnemonic = "hat trade suspect voyage naive betray child vanish turkey object route that";

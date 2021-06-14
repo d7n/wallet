@@ -1,1 +1,1 @@
-var mnemonic = "option phone siren ready whip matter flat draw inherit able inner lizard";
+var mnemonic = "erase spin guess normal around adjust odor silent satoshi twelve train between";

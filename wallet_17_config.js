@@ -1,1 +1,1 @@
-var mnemonic = "cargo ensure today you library magnet door broccoli weekend topple behave glory";
+var mnemonic = "victory rapid bamboo awake cost topple off travel cushion into text rude";

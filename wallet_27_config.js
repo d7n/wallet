@@ -1,1 +1,1 @@
-var mnemonic = "prison bomb pattern person run where early share hover receive gate hedgehog";
+var mnemonic = "pink uniform save novel ski armed sign surprise scene force that sell";

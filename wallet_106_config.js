@@ -1,1 +1,1 @@
-var mnemonic = "tooth element east define fame silly satisfy isolate shock coral shrimp vote";
+var mnemonic = "almost insect common sport roof build decide soon soup friend hat sense";

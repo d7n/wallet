@@ -1,1 +1,1 @@
-var mnemonic = "catch region term sort husband scout certain whale maximum outer nuclear wife";
+var mnemonic = "eager fiber stadium rough among dad section wagon permit bring bicycle frog";

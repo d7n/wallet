@@ -1,1 +1,1 @@
-var mnemonic = "hat loyal link kingdom office despair typical lottery save gap cry imitate";
+var mnemonic = "zone post bar connect brief lucky zoo tilt quarter permit laptop apart";

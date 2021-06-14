@@ -1,1 +1,1 @@
-var mnemonic = "lunar update taste round ozone bicycle globe noble cousin middle tunnel churn";
+var mnemonic = "right loop jacket birth rice arrow grab usage design arrow almost hungry";

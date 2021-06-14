@@ -1,1 +1,1 @@
-var mnemonic = "fortune noble digital leisure unknown else dentist offer account stone voyage picture";
+var mnemonic = "ensure year media bachelor travel fold program pill climb rate giggle forward";

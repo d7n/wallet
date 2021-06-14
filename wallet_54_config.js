@@ -1,1 +1,1 @@
-var mnemonic = "flush receive avoid indoor equip physical ask stove target side stage suspect";
+var mnemonic = "pencil lobster side praise sign mercy talent fashion seed vehicle fragile april";

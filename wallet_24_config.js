@@ -1,1 +1,1 @@
-var mnemonic = "zone chase slot human salad mesh green twice reason april task valid";
+var mnemonic = "manage hockey brave prize patch wagon enjoy note transfer finish craft pitch";

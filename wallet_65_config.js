@@ -1,1 +1,1 @@
-var mnemonic = "chaos switch raccoon vessel spread early exhibit giraffe help one school dumb";
+var mnemonic = "ceiling follow zoo label once coil lyrics legal shell diary gift over";

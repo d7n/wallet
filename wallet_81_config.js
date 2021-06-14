@@ -1,1 +1,1 @@
-var mnemonic = "final accident person chalk bubble enrich october start town enjoy shuffle paddle";
+var mnemonic = "metal amazing alcohol local income doll hybrid detail edge disease tuition flavor";

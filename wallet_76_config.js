@@ -1,1 +1,1 @@
-var mnemonic = "path remain state fly miracle region clap sure climb ordinary journey put";
+var mnemonic = "day chuckle page gallery lazy okay vacant palace visual weasel story velvet";

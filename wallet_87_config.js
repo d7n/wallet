@@ -1,1 +1,1 @@
-var mnemonic = "device nurse nuclear actress faculty spell boy liquid mouse occur surface deal";
+var mnemonic = "load hole pipe tree frog one firm broom toe jelly public alone";

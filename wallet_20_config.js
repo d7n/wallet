@@ -1,1 +1,1 @@
-var mnemonic = "vapor width comfort range employ vapor great green climb globe exist fall";
+var mnemonic = "gown idle loan moral secret nerve myself region shy melody bullet portion";

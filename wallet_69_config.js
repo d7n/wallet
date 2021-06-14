@@ -1,1 +1,1 @@
-var mnemonic = "carry dad denial reveal soda badge inspire guard away talk penalty slender";
+var mnemonic = "source popular usage celery catalog print royal now wood brick record logic";

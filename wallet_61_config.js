@@ -1,1 +1,1 @@
-var mnemonic = "eye wasp jazz crisp fragile crawl bracket few blossom predict anger win";
+var mnemonic = "unit club tomato mammal idea frown again yellow matter pair calm cruise";

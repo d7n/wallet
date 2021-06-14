@@ -1,1 +1,1 @@
-var mnemonic = "afford fall drink shuffle note excite lecture ski away tent trade pluck";
+var mnemonic = "vibrant target owner like siren bullet slot prefer humble surround unique shallow";

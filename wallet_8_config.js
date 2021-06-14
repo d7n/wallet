@@ -1,1 +1,1 @@
-var mnemonic = "memory casino item jar hammer hotel swap vivid nothing edge trim pill";
+var mnemonic = "liquid hungry grunt frequent cry ritual amazing travel truly artist embrace what";

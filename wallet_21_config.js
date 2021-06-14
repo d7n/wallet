@@ -1,1 +1,1 @@
-var mnemonic = "orchard tribe globe day wave hedgehog crane alarm pen fit rabbit arrow";
+var mnemonic = "cushion useless antique swamp vapor nasty common ridge echo language media circle";

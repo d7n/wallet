@@ -1,1 +1,1 @@
-var mnemonic = "large spider bid symbol scissors genre column enact please detect spot gesture";
+var mnemonic = "use song omit aisle idea december wealth follow web swarm can open";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom fancy glad still expose short grunt sad large wrap jeans antique";
+var mnemonic = "hammer boss rate close absent antique smart skin useless song ski dish";

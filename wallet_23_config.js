@@ -1,1 +1,1 @@
-var mnemonic = "toddler service grocery lawn square fun ship artwork divorce obey matrix indicate";
+var mnemonic = "try ostrich sleep inch busy undo sunset educate track egg powder rescue";

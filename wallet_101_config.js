@@ -1,1 +1,1 @@
-var mnemonic = "salmon vital fault abuse final truck proof dinosaur onion story broom rich";
+var mnemonic = "control identify library rich drive initial strike lemon hamster save tongue wealth";

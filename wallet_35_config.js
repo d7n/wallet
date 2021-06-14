@@ -1,1 +1,1 @@
-var mnemonic = "old toward resist grunt theory menu people anchor hungry loop nurse assault";
+var mnemonic = "save tennis tool clay hobby adult learn security stove away page law";

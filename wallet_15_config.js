@@ -1,1 +1,1 @@
-var mnemonic = "base illness nasty skin betray achieve spring doll idle judge transfer again";
+var mnemonic = "glue arrow enroll hedgehog foster certain network few crack bench exact target";

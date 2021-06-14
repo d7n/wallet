@@ -1,1 +1,1 @@
-var mnemonic = "shove deposit mask soft cost decline artwork february buddy cousin mansion rule";
+var mnemonic = "theme distance then frozen welcome yard elite way evidence embark second shy";

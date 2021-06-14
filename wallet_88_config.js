@@ -1,1 +1,1 @@
-var mnemonic = "view brain light piece electric pet multiply public capital kitchen year border";
+var mnemonic = "recycle make venue drill network opinion supreme steel time scrub fit clerk";

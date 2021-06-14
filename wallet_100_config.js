@@ -1,1 +1,1 @@
-var mnemonic = "feed language intact ethics decorate narrow engine hello ankle shadow pill card";
+var mnemonic = "blush coffee else replace weather attack defense combine list goddess axis swamp";

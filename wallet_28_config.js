@@ -1,1 +1,1 @@
-var mnemonic = "suit casual spoil chimney turkey deposit couch hub tag dragon wife load";
+var mnemonic = "endorse mountain blur usual much carry echo green circle mobile barely turtle";

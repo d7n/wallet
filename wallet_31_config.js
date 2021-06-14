@@ -1,1 +1,1 @@
-var mnemonic = "ostrich glad spell crop chef autumn lecture hover mobile city female multiply";
+var mnemonic = "bind gentle paper minor wrong clinic dinosaur wear gadget fault private blind";

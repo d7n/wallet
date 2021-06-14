@@ -1,1 +1,1 @@
-var mnemonic = "divorce leader limb quick grit special all topic fun minute pilot arrow";
+var mnemonic = "valve mad young toddler input retire alpha sorry amount crucial dose fragile";

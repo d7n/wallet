@@ -1,1 +1,1 @@
-var mnemonic = "major milk anger ignore adult boss century immune eager minute wash caution";
+var mnemonic = "melt injury flower taxi winner thought hazard ten annual employ defy nice";

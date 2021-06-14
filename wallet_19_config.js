@@ -1,1 +1,1 @@
-var mnemonic = "rookie limb have saddle alert cabin again process basket control fall side";
+var mnemonic = "weird chief hire panda seed fatal night bargain allow grain embody pill";

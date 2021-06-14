@@ -1,1 +1,1 @@
-var mnemonic = "coyote cage neck include name mistake route increase unaware provide sure path";
+var mnemonic = "scrap remember culture pact observe vacant patrol virus purchase honey blush field";

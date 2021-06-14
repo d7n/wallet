@@ -1,1 +1,1 @@
-var mnemonic = "genuine monkey lamp tent old stage orbit cake income floor gun relief";
+var mnemonic = "funny eight cup evolve state plate strike fire plate foil correct item";

@@ -1,1 +1,1 @@
-var mnemonic = "toddler kiwi legal cruel uniform artefact fossil orchard scatter away speak hood";
+var mnemonic = "mirror clutch tomato pact wrestle cluster leader arctic nerve wage entire panic";

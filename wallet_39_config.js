@@ -1,1 +1,1 @@
-var mnemonic = "select offer clutch hunt feature offer silly expand young ticket confirm blossom";
+var mnemonic = "fit hip noise rail expose weekend whale mammal observe shiver ranch jaguar";

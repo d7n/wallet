@@ -1,1 +1,1 @@
-var mnemonic = "interest minor write lake various city case business force position rich museum";
+var mnemonic = "label life pelican ice rapid replace social fiction budget apology inform spider";

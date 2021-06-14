@@ -1,1 +1,1 @@
-var mnemonic = "volcano web digital skull brisk judge style unveil gun estate chronic into";
+var mnemonic = "sheriff hover husband wing foam figure bundle model rate kite novel gentle";

@@ -1,1 +1,1 @@
-var mnemonic = "grit sudden nuclear violin doll turkey ride glare learn escape gap page";
+var mnemonic = "aerobic change traffic over cool dad stove vote spy demand kitten cause";

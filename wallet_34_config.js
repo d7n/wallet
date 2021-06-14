@@ -1,1 +1,1 @@
-var mnemonic = "useless tortoise pistol frequent sell language situate stumble stereo image pupil junk";
+var mnemonic = "theory ghost body tell topic organ essence vital rebuild shield setup eight";

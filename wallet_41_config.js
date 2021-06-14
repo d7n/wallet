@@ -1,1 +1,1 @@
-var mnemonic = "parrot essence transfer napkin you dinosaur sentence luxury solar exhibit spin famous";
+var mnemonic = "area remove liar unaware galaxy leopard undo tank tank skirt excuse drill";

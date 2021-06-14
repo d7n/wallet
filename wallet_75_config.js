@@ -1,1 +1,1 @@
-var mnemonic = "envelope casino enemy gentle duck dizzy need already update hurt card slogan";
+var mnemonic = "hill toe pipe promote lounge credit moon empty heavy exist speed large";

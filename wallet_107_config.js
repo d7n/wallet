@@ -1,1 +1,1 @@
-var mnemonic = "will picture cart index open jaguar public margin east grant trade twenty";
+var mnemonic = "tube verify main idea puppy close slam talk sport proof manual pave";

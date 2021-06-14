@@ -1,1 +1,1 @@
-var mnemonic = "remind prison universe zero design bring allow novel jungle stereo thing enhance";
+var mnemonic = "time discover place situate sound torch example wire crumble because pitch mutual";

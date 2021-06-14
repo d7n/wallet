@@ -1,1 +1,1 @@
-var mnemonic = "actual short topple flower depend cost number wet matter rent term tribe";
+var mnemonic = "nature long dash captain above orchard buddy tennis vendor ignore odor sense";
