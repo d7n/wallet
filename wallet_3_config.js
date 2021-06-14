@@ -1,1 +1,1 @@
-var mnemonic = "burger idle wealth about purchase bone seminar strategy cupboard federal close depend";
+var mnemonic = "casual caution good two february inflict rough horse analyst later analyst home";

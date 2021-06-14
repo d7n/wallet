@@ -1,1 +1,1 @@
-var mnemonic = "round unhappy grace ignore valve post ring march clerk subway cereal record";
+var mnemonic = "large inch apple cable gauge walk rain wear absorb sauce finish gadget";

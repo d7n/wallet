@@ -1,1 +1,1 @@
-var mnemonic = "shed logic problem busy garlic tray yellow salt detail little electric false";
+var mnemonic = "candy chase chest movie vicious miss shadow venue bird question blur comfort";

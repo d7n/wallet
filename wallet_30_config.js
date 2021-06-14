@@ -1,1 +1,1 @@
-var mnemonic = "employ staff mouse super quit short jacket lonely hole same upgrade jacket";
+var mnemonic = "waste exclude duty simple cherry pledge onion six bubble debate mom dutch";

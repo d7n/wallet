@@ -1,1 +1,1 @@
-var mnemonic = "ranch shoe lazy insane monitor coil defense leader autumn law family leaf";
+var mnemonic = "lounge sponsor top turn clever gas frequent actress area silk move know";

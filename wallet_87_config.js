@@ -1,1 +1,1 @@
-var mnemonic = "series razor purity farm bacon false melt moral curve detail boy rapid";
+var mnemonic = "job toss sustain speed cargo rough time butter portion sustain business surface";

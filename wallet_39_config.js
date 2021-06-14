@@ -1,1 +1,1 @@
-var mnemonic = "elegant donor urban text laundry treat creek orphan raven bargain catch praise";
+var mnemonic = "practice adjust twice cloth only desk solar there behave eight disagree sentence";

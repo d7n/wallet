@@ -1,1 +1,1 @@
-var mnemonic = "version syrup wedding people wage copy option tumble position royal output waste";
+var mnemonic = "boy cry object trophy input weather ramp pioneer sadness estate goose source";

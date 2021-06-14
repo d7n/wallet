@@ -1,1 +1,1 @@
-var mnemonic = "effort reward beach bubble crew electric twice wet magic absent apple tree";
+var mnemonic = "learn dream ladder clay limb castle paddle around inside curve detail retreat";

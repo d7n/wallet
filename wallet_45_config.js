@@ -1,1 +1,1 @@
-var mnemonic = "other item video kite anxiety squeeze vanish bright friend hospital garbage soldier";
+var mnemonic = "mobile upon unfair tank physical guard imitate digital daring taxi ability pulse";

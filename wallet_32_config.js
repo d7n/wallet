@@ -1,1 +1,1 @@
-var mnemonic = "learn spirit exhibit better depth pride ramp inform cool palace song language";
+var mnemonic = "black bargain logic tone rain fortune force tent gym blanket trade start";

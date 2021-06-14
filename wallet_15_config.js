@@ -1,1 +1,1 @@
-var mnemonic = "defy lion online safe employ firm museum used impulse vacuum tell sausage";
+var mnemonic = "idea craft achieve faith snow organ ill front school bulk kite innocent";

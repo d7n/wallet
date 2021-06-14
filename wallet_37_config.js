@@ -1,1 +1,1 @@
-var mnemonic = "morning silent rent hidden pistol fade present ankle bright barrel thunder fatigue";
+var mnemonic = "strike motion bar mansion alpha age breeze rich diet hunt doctor abuse";

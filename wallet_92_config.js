@@ -1,1 +1,1 @@
-var mnemonic = "used embody flush goat filter age dwarf poet system salmon child fatigue";
+var mnemonic = "wise tank penalty erosion fatal group check other voice lock hybrid client";

@@ -1,1 +1,1 @@
-var mnemonic = "drip head toss blue cruise state wedding silver dune same climb smart";
+var mnemonic = "quote sword ski pattern type album basic asset crystal round just wine";

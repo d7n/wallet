@@ -1,1 +1,1 @@
-var mnemonic = "usage burst spy bag ten patient pill elder tuition train saddle battle";
+var mnemonic = "rocket bullet program quote copper tattoo main attract lion sphere smoke venue";

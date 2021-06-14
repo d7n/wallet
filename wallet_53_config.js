@@ -1,1 +1,1 @@
-var mnemonic = "conduct love they focus shallow caught begin grocery system apart teach machine";
+var mnemonic = "portion arctic script upper actor second behind series fame jealous gaze bracket";

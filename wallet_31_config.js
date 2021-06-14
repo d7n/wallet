@@ -1,1 +1,1 @@
-var mnemonic = "artwork until purse any huge saddle memory quantum pelican episode cover because";
+var mnemonic = "execute fossil immense swing never success floor whip soap whisper ostrich cradle";

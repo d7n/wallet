@@ -1,1 +1,1 @@
-var mnemonic = "fabric assist adapt mouse exhaust mass area maximum sadness sense end always";
+var mnemonic = "bulk engine embark spray oval lemon upgrade marine hole aim strike bright";

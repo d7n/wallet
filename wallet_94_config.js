@@ -1,1 +1,1 @@
-var mnemonic = "question acid tell undo ecology surface quote kite scale better nerve mind";
+var mnemonic = "enroll knife village upon tortoise dog sense pudding avoid pottery fat salute";

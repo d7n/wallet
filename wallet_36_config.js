@@ -1,1 +1,1 @@
-var mnemonic = "wash shed use cotton bus special switch grass cloud unit soda genuine";
+var mnemonic = "grace drink century icon brother spirit rabbit confirm inspire limit reform thank";

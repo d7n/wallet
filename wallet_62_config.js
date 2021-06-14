@@ -1,1 +1,1 @@
-var mnemonic = "learn above diet join caught world kite one slogan awkward gym teach";
+var mnemonic = "provide fantasy inmate drift fish protect proud oyster surround goat artist enough";

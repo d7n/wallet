@@ -1,1 +1,1 @@
-var mnemonic = "slogan cruel floor rather hand lonely broken tissue hurry wine glad laptop";
+var mnemonic = "present captain pupil special jelly link gallery interest dish oyster increase inquiry";

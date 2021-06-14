@@ -1,1 +1,1 @@
-var mnemonic = "shallow faculty pause primary balance ten tiny zebra cigar van begin sort";
+var mnemonic = "salute trend pulse rally gift copper clog staff kiwi flag glad asset";

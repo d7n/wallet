@@ -1,1 +1,1 @@
-var mnemonic = "unlock pluck stone timber country donor leaf moment door pet frog dirt";
+var mnemonic = "check lemon super settle front tumble cupboard cotton during summer library record";

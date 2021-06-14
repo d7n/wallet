@@ -1,1 +1,1 @@
-var mnemonic = "retire actor lens rabbit rude reduce install enrich fiscal destroy idle toe";
+var mnemonic = "cereal country celery shield climb raven round display name provide goat judge";

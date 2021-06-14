@@ -1,1 +1,1 @@
-var mnemonic = "cost text edit require chaos bright bundle able either setup bitter proud";
+var mnemonic = "measure blast actual reopen fall execute find tell chalk clean lucky lucky";

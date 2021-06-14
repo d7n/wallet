@@ -1,1 +1,1 @@
-var mnemonic = "faith gauge camp supreme learn crucial rather group eager case bounce prevent";
+var mnemonic = "armor matter sister uniform barrel since ceiling case kitchen mobile wild secret";

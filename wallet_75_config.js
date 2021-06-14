@@ -1,1 +1,1 @@
-var mnemonic = "inmate inject first gym ticket answer captain sign general sting snap casual";
+var mnemonic = "horn soon tongue almost coil bright turtle keen soup alone fame wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow wing whip win desert ordinary garment trade add arena ice follow";
+var mnemonic = "alert plate couch receive pretty blush source garlic hover random submit puzzle";

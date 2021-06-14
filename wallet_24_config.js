@@ -1,1 +1,1 @@
-var mnemonic = "tunnel mixed collect female endless kitten couch lesson hover choice lock wink";
+var mnemonic = "abuse arrest curtain hard obtain absorb school cherry lazy master march hawk";

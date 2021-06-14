@@ -1,1 +1,1 @@
-var mnemonic = "garage cabbage there pulse palm girl anger sunset can file badge van";
+var mnemonic = "voice moment engine foam immense near already pottery vintage ten tackle catch";

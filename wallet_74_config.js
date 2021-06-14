@@ -1,1 +1,1 @@
-var mnemonic = "system guard boy zebra profit gallery twist harvest sand three trick tragic";
+var mnemonic = "next usage spring trigger female limb degree hill divide shell young police";

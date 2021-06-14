@@ -1,1 +1,1 @@
-var mnemonic = "grunt blue inform dismiss fatigue spoil update evil intact before relax imitate";
+var mnemonic = "visual cricket satisfy armor hill track style ensure crumble what perfect real";

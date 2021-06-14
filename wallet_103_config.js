@@ -1,1 +1,1 @@
-var mnemonic = "equal bomb author wedding lottery today short omit brick umbrella six sheriff";
+var mnemonic = "holiday recall source delay misery brown twist giraffe toe cloud embody during";

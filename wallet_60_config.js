@@ -1,1 +1,1 @@
-var mnemonic = "impose marriage you rack release token elegant retire rely flame disagree rifle";
+var mnemonic = "april conduct cannon run trip case oak suit chief hour paddle aware";

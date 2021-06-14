@@ -1,1 +1,1 @@
-var mnemonic = "bread claw liberty repeat today fortune vocal aunt demand confirm need dad";
+var mnemonic = "sting garlic solution health screen lift panic parrot spice level glide filter";

@@ -1,1 +1,1 @@
-var mnemonic = "master spider noodle lend various raccoon rather unhappy squeeze upon law borrow";
+var mnemonic = "rural fatal empower very theory destroy snake victory trust detect have left";

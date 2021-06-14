@@ -1,1 +1,1 @@
-var mnemonic = "dawn client scale gaze swarm company armed arch quiz dance same often";
+var mnemonic = "expand alpha hobby immune appear fit pole ginger face ride exact infant";

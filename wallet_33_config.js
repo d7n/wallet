@@ -1,1 +1,1 @@
-var mnemonic = "coral bind defy will bamboo shuffle guitar saddle push pet order shallow";
+var mnemonic = "crowd dynamic biology tired lucky aware dose aunt clean secret quiz wrong";

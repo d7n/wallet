@@ -1,1 +1,1 @@
-var mnemonic = "sing office nasty into affair adult erosion require empower sweet word clip";
+var mnemonic = "physical execute piece sense salute must refuse purity flight arena first behind";

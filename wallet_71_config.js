@@ -1,1 +1,1 @@
-var mnemonic = "urge leader twelve celery canoe tobacco brick multiply husband task tortoise transfer";
+var mnemonic = "december nominee flame place session brand appear hub bounce torch palace destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "own small palm syrup school host kick virtual cave exhaust print boss";
+var mnemonic = "corn useless case tired ethics grain list check melt digital erase old";

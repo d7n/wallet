@@ -1,1 +1,1 @@
-var mnemonic = "glance often armed husband faith cabbage man congress tortoise increase decorate inquiry";
+var mnemonic = "senior tortoise account sleep leaf together victory stove shine curve usage walk";

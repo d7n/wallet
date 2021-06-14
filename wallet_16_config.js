@@ -1,1 +1,1 @@
-var mnemonic = "donor grunt tilt upgrade hidden brass adapt mouse file ridge police end";
+var mnemonic = "absent narrow duck other scheme ring silent slice pride gold lizard embark";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture orange symbol shrimp bachelor robust stand soccer appear rigid music buffalo";
+var mnemonic = "term book occur scissors exotic ask resemble corn dynamic horror ability cross";

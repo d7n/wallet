@@ -1,1 +1,1 @@
-var mnemonic = "fence april shrimp valve joke make glare provide exile style host fatigue";
+var mnemonic = "fun below wave illness alter book water belt cabin dash fun mixture";

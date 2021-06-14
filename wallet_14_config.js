@@ -1,1 +1,1 @@
-var mnemonic = "fame top wall turn trim canal hint cycle gaze ugly confirm round";
+var mnemonic = "dice maximum alley client scene bargain relief school melt regret tide ketchup";

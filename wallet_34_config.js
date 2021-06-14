@@ -1,1 +1,1 @@
-var mnemonic = "web another spice napkin fancy liberty theory pluck ridge short alpha muscle";
+var mnemonic = "buddy garlic stereo moral decrease idea aunt recipe cart mass exhibit shock";

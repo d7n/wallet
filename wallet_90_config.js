@@ -1,1 +1,1 @@
-var mnemonic = "answer roast replace diet uphold tennis happy better jar wedding diesel crumble";
+var mnemonic = "shoot neutral priority furnace race again method voyage predict stairs away spell";

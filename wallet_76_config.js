@@ -1,1 +1,1 @@
-var mnemonic = "patch then prosper assault velvet surface dignity couch neither chief venue donkey";
+var mnemonic = "way trade medal velvet jewel all figure nation cat view ski movie";

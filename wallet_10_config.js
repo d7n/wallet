@@ -1,1 +1,1 @@
-var mnemonic = "rate neglect range valley drift moral soldier leave trip annual inflict sunny";
+var mnemonic = "diagram curious trumpet until track purity globe wash notable south ice mechanic";

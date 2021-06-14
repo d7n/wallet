@@ -1,1 +1,1 @@
-var mnemonic = "age critic own field outside owner chicken subject balcony enlist stay foam";
+var mnemonic = "menu front smart daring dream live jeans force adapt voyage rifle cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin tide belt quiz donate recall able height distance dance abandon romance";
+var mnemonic = "phrase never pink frown injury there document kid donkey clip scrap tonight";

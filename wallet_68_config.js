@@ -1,1 +1,1 @@
-var mnemonic = "myself tonight obvious joy expose gorilla icon dinner portion nurse quit window";
+var mnemonic = "annual shaft nose teach decline antique ill group episode popular vivid ordinary";

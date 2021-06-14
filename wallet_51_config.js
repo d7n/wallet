@@ -1,1 +1,1 @@
-var mnemonic = "chronic kingdom sphere guide swing leopard junk ancient pelican energy peace bike";
+var mnemonic = "enough flash wrestle stairs amount already payment word remove genius extra olive";

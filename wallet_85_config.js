@@ -1,1 +1,1 @@
-var mnemonic = "elevator fitness genius lift pool cereal mandate dance ankle scout travel check";
+var mnemonic = "over wrestle fault exclude addict magnet blame weather blouse abuse stereo sport";

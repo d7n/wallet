@@ -1,1 +1,1 @@
-var mnemonic = "february flavor garlic right crew glance number wave connect area skirt never";
+var mnemonic = "trumpet weird allow story stadium loop sunny relax divorce lake caution reject";

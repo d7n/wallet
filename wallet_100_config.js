@@ -1,1 +1,1 @@
-var mnemonic = "scout body stove wolf desert kind tragic strong subject library found mass";
+var mnemonic = "merry alone inside little floor luxury slogan close dad advance radar topic";

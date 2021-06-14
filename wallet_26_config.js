@@ -1,1 +1,1 @@
-var mnemonic = "chapter math unhappy royal auction brick opera bulk stadium forest glove artwork";
+var mnemonic = "expire tuition whale adapt open strike action clean ozone tortoise diary husband";

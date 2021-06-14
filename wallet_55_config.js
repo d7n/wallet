@@ -1,1 +1,1 @@
-var mnemonic = "couple fly remove chapter hill mention produce drill damage gravity exclude bid";
+var mnemonic = "arena wheat angle enjoy morning open rebel silk rude ticket wait donkey";

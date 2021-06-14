@@ -1,1 +1,1 @@
-var mnemonic = "apart vital scrap pull grace steak behave surge develop object kite ancient";
+var mnemonic = "increase fog category brave boat wood tourist owner diet design antenna toe";

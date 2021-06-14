@@ -1,1 +1,1 @@
-var mnemonic = "beef scrap item dance weather useless torch define believe dismiss track wonder";
+var mnemonic = "solar drastic mechanic atom horse busy write seat gun sport pigeon thrive";

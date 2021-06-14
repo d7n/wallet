@@ -1,1 +1,1 @@
-var mnemonic = "adapt behave loud lava hawk error walk author tilt cinnamon awful actress";
+var mnemonic = "alone motion jazz submit focus play number vendor toss audit ring tongue";

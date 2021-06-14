@@ -1,1 +1,1 @@
-var mnemonic = "person chair alcohol screen list slot path knee basket oven find attack";
+var mnemonic = "oyster unit blouse rent gold seed real trust put angle truck second";

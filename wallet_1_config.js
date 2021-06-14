@@ -1,1 +1,1 @@
-var mnemonic = "frost drama frame slow edge december illness cradle battle swap minimum oil";
+var mnemonic = "mind rotate joke attack father visa mushroom invite sound obtain shift lend";

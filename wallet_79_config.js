@@ -1,1 +1,1 @@
-var mnemonic = "protect fence expose cross salad prepare divorce toy scrub hill age answer";
+var mnemonic = "mixed force sample try sight merit item garage pig caught permit behave";

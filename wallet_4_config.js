@@ -1,1 +1,1 @@
-var mnemonic = "atom peanut anxiety mushroom prepare term small congress outdoor youth antique help";
+var mnemonic = "shell timber organ fluid glide collect video utility need thunder answer car";

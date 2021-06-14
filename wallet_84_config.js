@@ -1,1 +1,1 @@
-var mnemonic = "dentist noodle poem lottery try smooth reward game vault mango garage allow";
+var mnemonic = "cave anger empower deposit before busy also dolphin lab wave bacon bracket";

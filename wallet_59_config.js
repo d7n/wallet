@@ -1,1 +1,1 @@
-var mnemonic = "rocket riot lake fluid razor exchange obey rare fly scene cushion similar";
+var mnemonic = "clump plunge float west teach welcome fee market roast scrap tag fabric";

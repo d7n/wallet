@@ -1,1 +1,1 @@
-var mnemonic = "camera hero twin radio consider change sentence trust ring claw happy detect";
+var mnemonic = "gesture chimney denial lawn humble office fox few depend clock various talk";

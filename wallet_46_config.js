@@ -1,1 +1,1 @@
-var mnemonic = "caught axis salon rapid glad iron mixed expire path helmet angry icon";
+var mnemonic = "style rather chronic expand oppose ginger usage lazy praise train crash history";

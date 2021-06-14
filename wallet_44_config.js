@@ -1,1 +1,1 @@
-var mnemonic = "three hire merge medal obtain smart century sea peace panther term small";
+var mnemonic = "plastic want clump margin cheese live tooth junk gather fortune salt motor";

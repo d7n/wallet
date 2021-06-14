@@ -1,1 +1,1 @@
-var mnemonic = "top high envelope pet claim velvet novel scene city arrow super cereal";
+var mnemonic = "garlic screen actual cup hover fire walk paddle camera replace shrimp quantum";

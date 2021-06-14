@@ -1,1 +1,1 @@
-var mnemonic = "despair trim current stage artefact style visual reason like anger fancy version";
+var mnemonic = "word violin guitar defense crush merit donor primary offer conduct echo device";

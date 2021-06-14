@@ -1,1 +1,1 @@
-var mnemonic = "gloom illness purse myself mean trip state sunny staff young camera awkward";
+var mnemonic = "effort knife skull small absurd room eyebrow wisdom wise caught elegant panel";

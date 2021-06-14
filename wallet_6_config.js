@@ -1,1 +1,1 @@
-var mnemonic = "antenna siren lumber stadium stick rural sting talent debate peasant torch lift";
+var mnemonic = "blood just visit usage chase term news acquire afraid climb cattle fly";

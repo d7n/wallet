@@ -1,1 +1,1 @@
-var mnemonic = "voice diamond water combine exchange cherry hospital defense scout topple control boat";
+var mnemonic = "undo code junk notable couch guitar seed boil ancient bless meadow title";

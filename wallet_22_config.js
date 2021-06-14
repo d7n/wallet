@@ -1,1 +1,1 @@
-var mnemonic = "rural museum kidney paddle laundry student enhance recycle wonder myself process confirm";
+var mnemonic = "rookie flavor pepper federal aim gauge siren major damage banana fringe brief";

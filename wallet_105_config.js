@@ -1,1 +1,1 @@
-var mnemonic = "race link until bleak differ myth poet happy solid blossom gadget obey";
+var mnemonic = "window crater response until pepper soon section ladder element visit blossom process";

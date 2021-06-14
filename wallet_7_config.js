@@ -1,1 +1,1 @@
-var mnemonic = "shrug staff music roast vacant hockey federal rely close tribe indoor dirt";
+var mnemonic = "client hotel boy cloud tribe supply junior mutual great elephant move record";

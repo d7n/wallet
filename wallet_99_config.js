@@ -1,1 +1,1 @@
-var mnemonic = "play number dilemma domain brass market office address cupboard mass legal rather";
+var mnemonic = "certain host retire useless spice miss endorse midnight any silk ability lobster";

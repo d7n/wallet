@@ -1,1 +1,1 @@
-var mnemonic = "clerk bracket truth trap seed traffic celery notable glue sudden script cream";
+var mnemonic = "bronze peasant donkey body inflict cream item layer file praise engage betray";
