@@ -1,1 +1,1 @@
-var mnemonic = "onion city bird crater addict wire foil nose brick prison lunar address";
+var mnemonic = "journey wave track affair elite wood clap equip wire loan wear such";

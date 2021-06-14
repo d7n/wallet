@@ -1,1 +1,1 @@
-var mnemonic = "board mouse olympic foster dust ring measure reveal bleak can bean result";
+var mnemonic = "emotion spare view patrol quality spare three junk joke hollow vapor undo";

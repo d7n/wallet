@@ -1,1 +1,1 @@
-var mnemonic = "mystery hazard winner team loud coil agree six hammer squeeze path foot";
+var mnemonic = "cream runway aim annual drama phone open boat warm young submit explain";

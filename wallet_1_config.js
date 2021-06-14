@@ -1,1 +1,1 @@
-var mnemonic = "leave owner powder fold broom target fresh siege prosper absurd shoe gate";
+var mnemonic = "silk adjust pair injury lift fan mosquito alter jeans interest exhaust junk";

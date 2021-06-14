@@ -1,1 +1,1 @@
-var mnemonic = "drastic praise bus start spread tail owner file reason crew calm plastic";
+var mnemonic = "base sand song focus gift retreat master pencil engage wash swift huge";

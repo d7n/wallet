@@ -1,1 +1,1 @@
-var mnemonic = "camera learn police kidney local harvest person above culture festival jump alter";
+var mnemonic = "permit nerve enemy frame coach prosper attend weird reflect flame crystal ostrich";

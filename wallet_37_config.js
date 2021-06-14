@@ -1,1 +1,1 @@
-var mnemonic = "save target fee lucky reduce stem ridge above fire gesture hero above";
+var mnemonic = "else wage exotic size detect useless add ceiling edge switch turtle coconut";

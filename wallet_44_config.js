@@ -1,1 +1,1 @@
-var mnemonic = "final swing rather high pear oak seed crater open dragon force excite";
+var mnemonic = "dentist upgrade deposit afford large stable final glimpse damage address diesel habit";

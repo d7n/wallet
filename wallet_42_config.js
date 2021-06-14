@@ -1,1 +1,1 @@
-var mnemonic = "once torch patient tide dream cool raven mammal planet dish float use";
+var mnemonic = "project change flight police ability trust blame various seat milk powder urge";

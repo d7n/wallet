@@ -1,1 +1,1 @@
-var mnemonic = "demise media security mixed bamboo say ring stand spell lecture hire alone";
+var mnemonic = "spoil course deer sunset success benefit royal frown toy fiscal hidden grunt";

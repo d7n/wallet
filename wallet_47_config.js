@@ -1,1 +1,1 @@
-var mnemonic = "express energy opera hawk parade tongue mechanic bless panther frost police video";
+var mnemonic = "artwork shell stay thing goat income noise icon company wolf face speak";

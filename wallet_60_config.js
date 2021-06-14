@@ -1,1 +1,1 @@
-var mnemonic = "unique citizen author meat spoil thunder erode feed roast drastic satoshi siege";
+var mnemonic = "army lesson escape antique list fluid caught safe broccoli economy hurdle shift";

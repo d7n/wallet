@@ -1,1 +1,1 @@
-var mnemonic = "cover current wheat nice unhappy vacuum cargo disorder expand good remember lyrics";
+var mnemonic = "vivid badge lend crack vanish situate learn potato vital spare amateur display";

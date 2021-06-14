@@ -1,1 +1,1 @@
-var mnemonic = "dinner tissue prosper royal display music mouse depart copper online light bridge";
+var mnemonic = "end draw prosper tunnel guard fence orange quantum flag spoil curtain squirrel";

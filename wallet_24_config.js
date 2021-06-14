@@ -1,1 +1,1 @@
-var mnemonic = "afraid else purity hair weather luggage evil decade review slush update load";
+var mnemonic = "speed shrimp shine finger cruise exact sheriff debris spot elegant inch climb";

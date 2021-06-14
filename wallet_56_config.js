@@ -1,1 +1,1 @@
-var mnemonic = "symptom soon weasel swift soap crisp have present abuse tobacco wagon awful";
+var mnemonic = "employ outdoor dance maid split opera history caught walk open obscure bitter";

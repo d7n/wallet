@@ -1,1 +1,1 @@
-var mnemonic = "welcome equal spring talk deny pencil video quick output fee gold subject";
+var mnemonic = "leisure regular sun lecture urge symbol vivid alien pact any library cluster";

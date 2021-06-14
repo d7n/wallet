@@ -1,1 +1,1 @@
-var mnemonic = "flee energy shield rib urban hole onion push endorse reform address thing";
+var mnemonic = "course fun vessel reveal era review ethics tackle barely fit aspect adult";

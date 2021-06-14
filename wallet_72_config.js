@@ -1,1 +1,1 @@
-var mnemonic = "upset arrange icon hurry display point narrow crater blue copper bag harvest";
+var mnemonic = "glance library tackle brief riot alien cradle chunk female sweet guess coffee";

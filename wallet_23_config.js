@@ -1,1 +1,1 @@
-var mnemonic = "enemy enemy alcohol reason close measure avoid eagle report first update grunt";
+var mnemonic = "desk logic wife level north tape vault case face erode catalog live";

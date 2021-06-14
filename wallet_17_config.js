@@ -1,1 +1,1 @@
-var mnemonic = "cheap acid best kid just oak ivory item remind insane clown clever";
+var mnemonic = "dignity flush inmate lava stone infant reunion outside bitter pudding horse twenty";

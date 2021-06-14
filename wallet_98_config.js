@@ -1,1 +1,1 @@
-var mnemonic = "base social over wink flee wall sniff slam load will glide type";
+var mnemonic = "ensure mosquito olympic depend struggle uniform copper fever mechanic maid spend usage";

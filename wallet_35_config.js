@@ -1,1 +1,1 @@
-var mnemonic = "pitch gloom zone remember cry adapt regular detail memory ship empty age";
+var mnemonic = "verify shallow burst curve artefact decrease guide busy brand simple flavor knock";

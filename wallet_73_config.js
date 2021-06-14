@@ -1,1 +1,1 @@
-var mnemonic = "short lawsuit voice sock human ridge team food upset bike abstract dirt";
+var mnemonic = "rookie fiscal practice net pole category case plug stem chest slush total";

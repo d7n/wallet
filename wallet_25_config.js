@@ -1,1 +1,1 @@
-var mnemonic = "worth wink symptom twice demand hobby wise cable floor belt various arena";
+var mnemonic = "deputy problem code host cloth pluck bacon own enemy curve small regular";

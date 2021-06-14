@@ -1,1 +1,1 @@
-var mnemonic = "dutch weasel idea whip age attitude emerge office burger empower gospel busy";
+var mnemonic = "kangaroo century bring glass skate boat balcony brain next gallery kangaroo grain";

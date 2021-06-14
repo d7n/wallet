@@ -1,1 +1,1 @@
-var mnemonic = "quarter lunar goddess kind company hen legend board dove slot debris naive";
+var mnemonic = "comic brush account base decade call canyon rubber egg border pen dress";

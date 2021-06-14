@@ -1,1 +1,1 @@
-var mnemonic = "general impulse ridge violin fiber waste trumpet plug outdoor claw wash purity";
+var mnemonic = "direct now swing rib evil access govern romance repair choose paddle ignore";

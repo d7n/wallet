@@ -1,1 +1,1 @@
-var mnemonic = "leaf remind bright age turn tower journey beef phone mosquito box mean";
+var mnemonic = "isolate silk response balcony gauge entry detect buffalo breeze crew theory stereo";

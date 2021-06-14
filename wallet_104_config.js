@@ -1,1 +1,1 @@
-var mnemonic = "find vital depth interest width image agent fury gift hole amazing box";
+var mnemonic = "neck shine blast couple occur praise either nation buyer climb jelly sword";

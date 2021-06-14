@@ -1,1 +1,1 @@
-var mnemonic = "van truth inhale galaxy skin zoo make chicken safe unusual novel foot";
+var mnemonic = "color rack ship bronze twenty like among under swim amazing crane unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz flower depend head cover wool moon print stomach virtual token chimney";
+var mnemonic = "fabric track dinner result save scan crane depend possible winter scissors erupt";

@@ -1,1 +1,1 @@
-var mnemonic = "join grow much avocado between man cherry march fetch arm frozen upon";
+var mnemonic = "absorb cabbage nation pole rebuild wet female turn pencil add jar mandate";

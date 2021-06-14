@@ -1,1 +1,1 @@
-var mnemonic = "resist trust thought spin stable quiz twice arrow alpha bring drift bulk";
+var mnemonic = "fence sick fiscal number coconut cloth apart tree twist snack two robust";

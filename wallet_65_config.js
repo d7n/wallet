@@ -1,1 +1,1 @@
-var mnemonic = "flash resemble earth diagram lens situate make horn engage pottery act render";
+var mnemonic = "swap remember accident board front machine chase virus emerge author latin odor";

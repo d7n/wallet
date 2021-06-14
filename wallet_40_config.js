@@ -1,1 +1,1 @@
-var mnemonic = "club option horse report update process must very motor picnic confirm toy";
+var mnemonic = "guide rubber unfair pride prepare drift fence display bicycle across diamond grace";

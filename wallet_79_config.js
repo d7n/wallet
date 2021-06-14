@@ -1,1 +1,1 @@
-var mnemonic = "suffer city issue phone retreat knife avoid just replace code wild thank";
+var mnemonic = "universe elbow music program nut sponsor thought napkin quantum sample salmon author";

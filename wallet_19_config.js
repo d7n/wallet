@@ -1,1 +1,1 @@
-var mnemonic = "bundle moral display one abuse tomato range section attack cry badge boat";
+var mnemonic = "fluid kind slide guitar endless shoulder yard month thrive quote fantasy nuclear";

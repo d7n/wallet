@@ -1,1 +1,1 @@
-var mnemonic = "wool quarter prepare horse often tag struggle level margin want tattoo ivory";
+var mnemonic = "grow east spirit vault winter record umbrella cup glow confirm divide imitate";

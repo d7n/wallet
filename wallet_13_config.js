@@ -1,1 +1,1 @@
-var mnemonic = "sand heart pride abstract predict hockey knife jazz awesome insect flag bounce";
+var mnemonic = "any tonight remove differ census frog equal wasp axis mix whisper prevent";

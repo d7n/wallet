@@ -1,1 +1,1 @@
-var mnemonic = "hidden canyon dismiss helmet rival stem earn reunion found two mansion carry";
+var mnemonic = "bird amount carpet stable front sample execute solid can guilt diamond admit";

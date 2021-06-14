@@ -1,1 +1,1 @@
-var mnemonic = "climb vivid river spin expect elephant library sudden diet scene grunt slab";
+var mnemonic = "draft retire okay negative vibrant extend raise tray dwarf beach injury pen";

@@ -1,1 +1,1 @@
-var mnemonic = "talk trend enact danger session expose narrow bar nominee move harvest flush";
+var mnemonic = "bacon fabric emerge stand among cook step pen notable vivid draft radio";

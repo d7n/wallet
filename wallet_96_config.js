@@ -1,1 +1,1 @@
-var mnemonic = "school resemble elevator remember orchard enable security primary excuse elder mammal ugly";
+var mnemonic = "jazz biology erode corn inflict enlist save arctic zoo seed patient loan";

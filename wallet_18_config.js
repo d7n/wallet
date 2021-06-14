@@ -1,1 +1,1 @@
-var mnemonic = "silly tattoo clerk since physical saddle donate brave edit castle room help";
+var mnemonic = "task grid nuclear notice upon chronic delay combine prevent bean cricket observe";

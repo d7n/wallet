@@ -1,1 +1,1 @@
-var mnemonic = "trick squirrel poet arena brush nature toilet wolf outdoor coach aunt salt";
+var mnemonic = "struggle section august marriage flight title say sustain doll goddess labor feature";

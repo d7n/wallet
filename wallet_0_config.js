@@ -1,1 +1,1 @@
-var mnemonic = "cigar silent april reward empty culture black face drastic protect pizza smile";
+var mnemonic = "grab minute tiny blade merit evoke forum base cricket speak cattle indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "extra hill city between canvas assume rug fortune inject magic talk pause";
+var mnemonic = "car drop husband need burden source twenty fossil pave dune siege empty";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil couple diary purchase green vibrant prepare base wheat nuclear wing elder";
+var mnemonic = "sleep fatigue field fresh myself tone symbol kingdom enjoy grass only spell";

@@ -1,1 +1,1 @@
-var mnemonic = "grid success purse design butter town day account deliver citizen wish file";
+var mnemonic = "elephant student attack barely portion riot extra bubble drift disorder recycle woman";

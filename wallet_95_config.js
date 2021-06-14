@@ -1,1 +1,1 @@
-var mnemonic = "hungry attend tired remain attend cause term cricket purpose item eager indicate";
+var mnemonic = "element sad saddle jaguar vote soft chaos urban easily wheel game electric";

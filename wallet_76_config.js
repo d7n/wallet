@@ -1,1 +1,1 @@
-var mnemonic = "talk motor hospital exit scene tobacco unique hunt dish boost lounge worry";
+var mnemonic = "zebra wrist require end stage lobster october federal enough lemon upset hurdle";

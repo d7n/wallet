@@ -1,1 +1,1 @@
-var mnemonic = "dune simple guitar essay excess bundle custom pelican hockey emerge token battle";
+var mnemonic = "fatal roast decade awake credit easy humble bean mule puppy aim task";

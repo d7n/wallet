@@ -1,1 +1,1 @@
-var mnemonic = "choose syrup sun report seven palm round blade call dutch own black";
+var mnemonic = "lobster refuse note meat accuse carpet humble learn bullet popular fatigue quiz";

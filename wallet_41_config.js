@@ -1,1 +1,1 @@
-var mnemonic = "bag ugly pave convince peace private perfect swift dance tomato wish mixed";
+var mnemonic = "soup curve forward shine exist elder sail across creek doctor list truly";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce mind winter initial moment airport amazing improve smooth gravity shell awesome";
+var mnemonic = "offer pool stomach usual congress small cry evil pattern retire hello mandate";

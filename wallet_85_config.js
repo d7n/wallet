@@ -1,1 +1,1 @@
-var mnemonic = "clerk raven naive fresh gym pulp auto cement endless vibrant walnut month";
+var mnemonic = "this vapor february dust inch talk elegant plug purpose position evidence start";

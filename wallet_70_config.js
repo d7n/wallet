@@ -1,1 +1,1 @@
-var mnemonic = "exist lesson table ancient security bless pledge fortune charge universe also estate";
+var mnemonic = "rookie oil between fury excite scorpion virus wrestle rebel harsh snow police";

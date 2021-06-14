@@ -1,1 +1,1 @@
-var mnemonic = "mobile debate young lunch winter absurd slab estate mule merit exile lounge";
+var mnemonic = "rack finger ripple lemon erosion middle net casual frown suffer forum sphere";

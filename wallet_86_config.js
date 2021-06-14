@@ -1,1 +1,1 @@
-var mnemonic = "october chat mention visit paper reveal entry science pepper resist sock what";
+var mnemonic = "property horn room fringe net arrive olive crush sick network seat fitness";

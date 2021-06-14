@@ -1,1 +1,1 @@
-var mnemonic = "flat crazy danger upset stereo patch sport pitch chicken stumble bronze pottery";
+var mnemonic = "seed one office mix label garage ostrich normal enhance summer keep stay";

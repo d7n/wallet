@@ -1,1 +1,1 @@
-var mnemonic = "comfort dish file tent faculty picture like chimney forest upper tag dentist";
+var mnemonic = "problem priority gift miracle hard lawn shaft rookie tape alcohol rate title";

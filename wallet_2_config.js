@@ -1,1 +1,1 @@
-var mnemonic = "meat coil agree ignore drink amazing vendor youth thrive auction nest six";
+var mnemonic = "banana lava project staff tunnel slab camera burst tribe piece letter apart";

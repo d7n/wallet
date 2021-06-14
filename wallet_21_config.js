@@ -1,1 +1,1 @@
-var mnemonic = "rocket lake mushroom answer forward peanut action develop wedding flag notice involve";
+var mnemonic = "acquire hidden like battle hybrid deal warrior ability attract cable body shallow";

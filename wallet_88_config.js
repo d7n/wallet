@@ -1,1 +1,1 @@
-var mnemonic = "equal omit dose lend unique vital athlete heart cave glory harbor airport";
+var mnemonic = "rifle surge deputy network stove nice surprise icon base nerve movie pact";

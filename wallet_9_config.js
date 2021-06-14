@@ -1,1 +1,1 @@
-var mnemonic = "salad cupboard wall unveil simple weird oak image bike boring bachelor jealous";
+var mnemonic = "elite pistol strong siren often maple movie voice curve warm image miracle";

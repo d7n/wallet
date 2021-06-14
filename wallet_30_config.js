@@ -1,1 +1,1 @@
-var mnemonic = "wave grocery monster ride pelican ranch same paper mean toast game noble";
+var mnemonic = "next eight error web together parrot dream mistake raven ring core liquid";

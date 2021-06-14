@@ -1,1 +1,1 @@
-var mnemonic = "prosper height rapid battle news cannon strike chunk auction fury liar gravity";
+var mnemonic = "country net lunar tube tackle twenty fiber avocado carpet bachelor fence quit";

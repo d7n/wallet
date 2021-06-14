@@ -1,1 +1,1 @@
-var mnemonic = "near cancel happy bind blush gate butter energy baby disagree motion romance";
+var mnemonic = "bulb uphold drift march glue order aware decide diagram naive clip present";

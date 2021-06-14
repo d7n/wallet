@@ -1,1 +1,1 @@
-var mnemonic = "spoil cave please forum tool frown prevent clerk struggle record almost daring";
+var mnemonic = "giant ankle deputy lawn snap wine alley favorite food spot pill lonely";

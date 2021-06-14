@@ -1,1 +1,1 @@
-var mnemonic = "health trip humor behind drip route tattoo decide ranch keep custom display";
+var mnemonic = "true stereo observe palm fresh turn cherry throw ten twice satoshi plastic";

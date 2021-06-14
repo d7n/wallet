@@ -1,1 +1,1 @@
-var mnemonic = "pulse dust sphere rifle rhythm build youth deliver tent slush muscle beyond";
+var mnemonic = "tiger coach give cheap antique tip tenant steel reopen useless park animal";

@@ -1,1 +1,1 @@
-var mnemonic = "chest brother ozone loan green crowd video impact stone syrup scale describe";
+var mnemonic = "famous wealth soon search cost next head solid pistol fatal radio all";

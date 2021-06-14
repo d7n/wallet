@@ -1,1 +1,1 @@
-var mnemonic = "trade still oil kidney dismiss journey ribbon thing sibling jar sudden suggest";
+var mnemonic = "float sure metal clinic lens hen vague cat tide priority monitor flight";

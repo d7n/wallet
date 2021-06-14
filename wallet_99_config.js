@@ -1,1 +1,1 @@
-var mnemonic = "despair pole right cereal walk project wide island issue lucky drill boring";
+var mnemonic = "employ banana auction illegal attack town alter avocado unveil lake cupboard grocery";

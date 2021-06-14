@@ -1,1 +1,1 @@
-var mnemonic = "member wrestle wet rural clog cat snap pledge buddy goat home sort";
+var mnemonic = "wire girl perfect fun spare thing tiger metal skull pet alcohol shrimp";

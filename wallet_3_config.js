@@ -1,1 +1,1 @@
-var mnemonic = "animal shove error invest shoulder hurt violin divorce among supreme assault laugh";
+var mnemonic = "car design tomorrow art globe crack bracket mixed type tag essence cinnamon";

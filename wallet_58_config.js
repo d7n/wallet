@@ -1,1 +1,1 @@
-var mnemonic = "motor chat sheriff wool armor virtual naive indoor turn travel cook solution";
+var mnemonic = "flag globe theme hammer lens illegal short vacant acquire layer ski anchor";

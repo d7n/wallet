@@ -1,1 +1,1 @@
-var mnemonic = "stereo crush card air extend girl napkin equal price pupil airport garlic";
+var mnemonic = "segment enact kit practice spare exit proud century grab student ladder perfect";

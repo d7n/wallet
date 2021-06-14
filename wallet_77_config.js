@@ -1,1 +1,1 @@
-var mnemonic = "purse island possible whip loan stem million kit join wrist ignore scare";
+var mnemonic = "deny garage artefact roof route project dress music scorpion risk detail coffee";

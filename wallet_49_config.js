@@ -1,1 +1,1 @@
-var mnemonic = "visit method energy cannon square subject torch banner junk they team attend";
+var mnemonic = "library enlist female laugh hood transfer deputy annual ball suffer autumn danger";

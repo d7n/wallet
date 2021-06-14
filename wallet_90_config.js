@@ -1,1 +1,1 @@
-var mnemonic = "manage soul what spray judge frequent pretty enrich mask fault image goose";
+var mnemonic = "immense among ethics almost sound hour school roast hidden lamp decorate pioneer";

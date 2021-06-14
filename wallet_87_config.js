@@ -1,1 +1,1 @@
-var mnemonic = "blind change improve cancel virtual proud cook what device identify broom fitness";
+var mnemonic = "gather parade banner rebel squeeze awesome blouse post sugar expose story possible";

@@ -1,1 +1,1 @@
-var mnemonic = "like floor rapid plastic coffee boy energy staff segment banner mix crane";
+var mnemonic = "silent wear inside hobby spread knock simple faith better monster output fiscal";

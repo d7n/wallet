@@ -1,1 +1,1 @@
-var mnemonic = "soda exist abstract truck tourist wink fossil crush apart citizen tide piano";
+var mnemonic = "deposit stadium snack wealth exit disease snow amused sadness spoil october area";

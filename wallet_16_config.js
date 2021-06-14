@@ -1,1 +1,1 @@
-var mnemonic = "rug human token alone opinion rough glory pact aerobic aware disagree snap";
+var mnemonic = "dolphin flush imitate nice hundred pulse they solve invite coral remind clerk";

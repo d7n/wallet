@@ -1,1 +1,1 @@
-var mnemonic = "chef garbage pride timber color fever cage unique response sort define exercise";
+var mnemonic = "actress provide move grape forest base know coffee seek liberty refuse deny";

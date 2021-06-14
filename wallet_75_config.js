@@ -1,1 +1,1 @@
-var mnemonic = "ripple also genre unfold address actress six fog trust verify gym crowd";
+var mnemonic = "brain between private sugar kind student clay bless eagle weapon pretty pilot";

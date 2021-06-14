@@ -1,1 +1,1 @@
-var mnemonic = "lock belt inspire fade neglect stumble humor vicious left oven script issue";
+var mnemonic = "cousin silk force horn update kick wait fog monster vessel flavor story";

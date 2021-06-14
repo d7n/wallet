@@ -1,1 +1,1 @@
-var mnemonic = "exercise fold torch buyer yard street west hedgehog stage jazz exclude desk";
+var mnemonic = "broken exclude kitten rotate canyon opinion grief glide fee drink coil final";

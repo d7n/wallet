@@ -1,1 +1,1 @@
-var mnemonic = "auction blouse knock salt deal steak usual shop scan now trend exit";
+var mnemonic = "pipe place predict blouse script attack quiz assume hedgehog version state drift";

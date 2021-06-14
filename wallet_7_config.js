@@ -1,1 +1,1 @@
-var mnemonic = "icon glass average canal curtain seminar debris rent boil innocent please guide";
+var mnemonic = "omit fun super uphold equip pass grant impose inhale vacant dynamic ginger";

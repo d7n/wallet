@@ -1,1 +1,1 @@
-var mnemonic = "absent lazy way echo erase own issue humor crater extra material chief";
+var mnemonic = "hint leisure buffalo subway snow raccoon lunar melody off select avoid seven";

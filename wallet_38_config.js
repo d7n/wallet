@@ -1,1 +1,1 @@
-var mnemonic = "casino near film world private garment shed deputy foam divide invite margin";
+var mnemonic = "limb stool offer cupboard menu use step inherit left siren credit couch";
