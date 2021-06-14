@@ -1,1 +1,1 @@
-var mnemonic = "segment merit aspect sting toilet click process correct baby tragic minimum layer";
+var mnemonic = "drill staff cabin dizzy cream teach trick sheriff divide exile buyer retire";

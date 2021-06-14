@@ -1,1 +1,1 @@
-var mnemonic = "danger total athlete crystal nasty plunge certain grocery manage museum tragic buyer";
+var mnemonic = "trash romance knee also crop desk state sustain ski illegal luggage arrest";

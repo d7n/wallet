@@ -1,1 +1,1 @@
-var mnemonic = "win must elegant coyote inch major fever enjoy elite faint cancel room";
+var mnemonic = "two melt cinnamon patient loud junior dad option auction spread assist avocado";

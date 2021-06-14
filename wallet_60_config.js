@@ -1,1 +1,1 @@
-var mnemonic = "thunder wolf stadium enforce large cost young liar what where pulp rice";
+var mnemonic = "forum cup chalk response scrub clerk cup asthma rare crisp country focus";

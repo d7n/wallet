@@ -1,1 +1,1 @@
-var mnemonic = "siren sausage layer rubber basket cheap satoshi almost winter wave drama little";
+var mnemonic = "sample vendor fortune canyon whisper stone honey refuse student rhythm sunset lumber";

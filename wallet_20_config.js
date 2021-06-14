@@ -1,1 +1,1 @@
-var mnemonic = "delay planet noodle course clerk neglect above enough analyst tennis perfect evoke";
+var mnemonic = "staff tissue prepare cup number joy surge spray outer north net fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate unable color case glow woman weekend fresh fantasy know risk fox";
+var mnemonic = "health kiss window clip giggle few night various dwarf baby act flag";

@@ -1,1 +1,1 @@
-var mnemonic = "glove person firm custom all artwork access predict hammer raven absorb life";
+var mnemonic = "viable vendor dignity isolate beach ball other course coyote usual steak limb";

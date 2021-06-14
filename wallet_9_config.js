@@ -1,1 +1,1 @@
-var mnemonic = "huge country candy bridge live supply dash adapt wisdom wave leopard unique";
+var mnemonic = "token dinner emotion prosper badge remind smooth toss chimney zone patrol calm";

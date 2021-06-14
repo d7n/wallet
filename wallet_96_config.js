@@ -1,1 +1,1 @@
-var mnemonic = "tube pen cable ordinary trend cook friend stuff exit daughter reform practice";
+var mnemonic = "summer cloth keep material element web rabbit clock phone involve picnic disagree";

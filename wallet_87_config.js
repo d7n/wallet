@@ -1,1 +1,1 @@
-var mnemonic = "biology apology pond shrimp sell screen couple maid collect insane turtle priority";
+var mnemonic = "bamboo chef festival cloth fragile explain shop verb genius side unable winner";

@@ -1,1 +1,1 @@
-var mnemonic = "lazy patch produce ordinary neck flag capital holiday choice lawsuit slush change";
+var mnemonic = "biology shell carbon urge fire ginger ignore kit praise engine strike shop";

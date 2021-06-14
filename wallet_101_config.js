@@ -1,1 +1,1 @@
-var mnemonic = "burger royal garlic spawn gadget attitude jelly prosper spike engine choice oppose";
+var mnemonic = "filter oppose exchange saddle shift box deny fall three bunker clay loop";

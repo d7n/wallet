@@ -1,1 +1,1 @@
-var mnemonic = "near maximum fit number change fiction build wild end kangaroo cliff merge";
+var mnemonic = "bracket scatter parade burden desk venue tape provide blade promote suspect skill";

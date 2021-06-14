@@ -1,1 +1,1 @@
-var mnemonic = "dish dilemma monkey insane describe live share salad concert barrel woman garage";
+var mnemonic = "riot alpha canoe urban horn weekend history salad mad farm inner author";

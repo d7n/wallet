@@ -1,1 +1,1 @@
-var mnemonic = "face gas equip again seminar gas vacuum rice tool magnet intact arch";
+var mnemonic = "pony trust section false excess merge ticket toe federal twin column pill";

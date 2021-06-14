@@ -1,1 +1,1 @@
-var mnemonic = "chalk dad auction amateur auction grape child demise release regret early lava";
+var mnemonic = "like mix brown clog hybrid leave cancel ladder borrow boat field hat";

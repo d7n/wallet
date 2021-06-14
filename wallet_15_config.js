@@ -1,1 +1,1 @@
-var mnemonic = "proud expose question garlic abandon bird fitness verb banner armed cream vote";
+var mnemonic = "mind setup song soon half tip secret auto office tell tent organ";

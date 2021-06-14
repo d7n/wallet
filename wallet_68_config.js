@@ -1,1 +1,1 @@
-var mnemonic = "guilt slush chuckle enroll excite aunt shield fiber indoor happy cry sniff";
+var mnemonic = "material ivory camera cactus card about report essay brave drop empty slide";

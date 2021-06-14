@@ -1,1 +1,1 @@
-var mnemonic = "file noodle dwarf vote chase unaware rose public argue cause silent wing";
+var mnemonic = "spell dial senior farm town smart ill traffic oblige zoo word push";

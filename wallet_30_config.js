@@ -1,1 +1,1 @@
-var mnemonic = "jaguar soda torch inside raise fabric mother increase absorb seek soon update";
+var mnemonic = "evil layer dumb salute column monitor shoot quote glue lawn entire soccer";

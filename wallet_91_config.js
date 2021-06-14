@@ -1,1 +1,1 @@
-var mnemonic = "fish kangaroo post engage strike very hint swift elephant way wet drift";
+var mnemonic = "hamster mother organ involve pitch kitchen riot moral rule solve object sock";

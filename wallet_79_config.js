@@ -1,1 +1,1 @@
-var mnemonic = "love double frown theory head scare host common glance able spread penalty";
+var mnemonic = "turkey arch fan trap before rather ecology virus traffic boy tilt dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "lion device better total term staff thank bid action capital reject rich";
+var mnemonic = "gospel dolphin foster baby swear camp spring vast elephant bitter oil local";

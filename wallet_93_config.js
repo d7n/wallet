@@ -1,1 +1,1 @@
-var mnemonic = "birth vintage setup shiver entire tooth wheat small grocery exit absorb soon";
+var mnemonic = "undo buzz tomato office nominee ridge delay crime orphan soldier sketch pair";

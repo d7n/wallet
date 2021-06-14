@@ -1,1 +1,1 @@
-var mnemonic = "caught retreat approve palace camera pave will foster pluck bamboo cousin left";
+var mnemonic = "gas pilot friend apology vapor woman tomato same junk renew suffer magnet";

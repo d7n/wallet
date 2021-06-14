@@ -1,1 +1,1 @@
-var mnemonic = "swap vacant genre work mango garage present citizen uncover volume visa cereal";
+var mnemonic = "armor zone jaguar remember tree canyon keep merge clap ramp phone vehicle";

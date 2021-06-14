@@ -1,1 +1,1 @@
-var mnemonic = "slender please among series motor kangaroo away romance glue toilet boost decrease";
+var mnemonic = "inform silk gather rack call stone question loyal alcohol nose butter daughter";

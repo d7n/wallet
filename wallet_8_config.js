@@ -1,1 +1,1 @@
-var mnemonic = "wing outdoor breeze voice nice harvest north sample replace pass visit page";
+var mnemonic = "truly inspire tube dance spatial pig abstract fresh grace pipe essence warrior";

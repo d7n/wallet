@@ -1,1 +1,1 @@
-var mnemonic = "waste choose taxi stand flip congress drama gentle arrange tiger aisle jelly";
+var mnemonic = "million physical panther noble dune wool top junk flee subway ginger actor";

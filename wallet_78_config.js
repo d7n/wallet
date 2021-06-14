@@ -1,1 +1,1 @@
-var mnemonic = "siege stage author staff antenna fork bomb promote best poem replace parade";
+var mnemonic = "sound minute orient genuine nominee bread join mandate provide pony electric wife";

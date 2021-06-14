@@ -1,1 +1,1 @@
-var mnemonic = "sorry tissue excess noodle whip exist clump bounce amused surround stem negative";
+var mnemonic = "stamp cat enough scissors argue theme staff rather walnut burst badge brave";

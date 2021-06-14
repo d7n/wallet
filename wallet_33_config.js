@@ -1,1 +1,1 @@
-var mnemonic = "youth impact true umbrella name bargain coil silly fine radar puppy friend";
+var mnemonic = "palm venture code another payment voyage other squirrel hood trend develop mushroom";

@@ -1,1 +1,1 @@
-var mnemonic = "slow other liberty river disease inform ginger frog judge calm tuna rally";
+var mnemonic = "mango vendor spell mesh hobby priority script hunt crop fire merge business";

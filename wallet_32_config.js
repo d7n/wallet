@@ -1,1 +1,1 @@
-var mnemonic = "real twenty sound please dream entire hospital legend equip orange gesture light";
+var mnemonic = "insect autumn fluid gadget unhappy exile advice number capable twice violin type";

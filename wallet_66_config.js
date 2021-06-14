@@ -1,1 +1,1 @@
-var mnemonic = "shine code decade prepare supreme palm ice direct receive shallow assist lawn";
+var mnemonic = "breeze labor hole because warm vicious viable web urge shrug artist foil";

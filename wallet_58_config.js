@@ -1,1 +1,1 @@
-var mnemonic = "suspect honey clump drip know deal language fine shrug explain bird pen";
+var mnemonic = "since vicious phrase sand someone train afraid auto negative pause slim attack";

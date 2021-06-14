@@ -1,1 +1,1 @@
-var mnemonic = "rough say spot guard kiss effort pattern silk found cat waste congress";
+var mnemonic = "deny utility armed mistake crumble apology announce chimney truck goose fence flower";

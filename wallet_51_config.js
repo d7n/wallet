@@ -1,1 +1,1 @@
-var mnemonic = "add toe raw behave budget hobby mix potato patient sun prize swim";
+var mnemonic = "summer honey main magic push hard casino chicken region helmet gallery actor";

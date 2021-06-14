@@ -1,1 +1,1 @@
-var mnemonic = "elbow later daring foster pool topic afford patient help borrow canoe urge";
+var mnemonic = "citizen divorce page beef dinosaur thank hover pause camp earth error fatal";

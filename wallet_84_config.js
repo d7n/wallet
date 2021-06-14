@@ -1,1 +1,1 @@
-var mnemonic = "evidence nuclear essence slide kind grape behind priority turn total mix prize";
+var mnemonic = "mule between essay turtle hurt food senior divorce tide item enforce page";

@@ -1,1 +1,1 @@
-var mnemonic = "arena fame chapter captain reunion banner amount solve cement mechanic token moral";
+var mnemonic = "cousin swallow cube robust security grief drift tiger shift goddess country stick";

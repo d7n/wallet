@@ -1,1 +1,1 @@
-var mnemonic = "decorate dice december double pulse speak spoon spell west paddle depend wife";
+var mnemonic = "miracle ceiling conduct donkey twin soup forest type clap stem gloom lumber";

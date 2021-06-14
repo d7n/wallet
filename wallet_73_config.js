@@ -1,1 +1,1 @@
-var mnemonic = "clinic cabbage tomorrow canyon gun shaft sweet unfold enough scale select buzz";
+var mnemonic = "kingdom clever hotel right interest pluck laundry tenant muffin satoshi enhance grow";

@@ -1,1 +1,1 @@
-var mnemonic = "eager drip enforce approve sunny scorpion glance card maple clutch forum patch";
+var mnemonic = "virus rebuild problem elite type tool ostrich power bike please diet ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "half angry choice suggest decide trade icon chunk wine south grow vague";
+var mnemonic = "express fade input safe release mass clip gorilla person assault will exhibit";

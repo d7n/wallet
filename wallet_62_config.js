@@ -1,1 +1,1 @@
-var mnemonic = "method hire visit trash wine pilot bronze liquid wolf idea clump monster";
+var mnemonic = "satoshi turn gorilla song enough soup despair quarter steak peasant patient curve";

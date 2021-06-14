@@ -1,1 +1,1 @@
-var mnemonic = "cable broken patrol over grief brick lend bench open wealth balance casual";
+var mnemonic = "dove place hair escape buyer keen thing kid dial barrel another toast";

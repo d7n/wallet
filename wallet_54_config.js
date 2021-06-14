@@ -1,1 +1,1 @@
-var mnemonic = "inner desert mirror stomach lava anxiety blouse twelve excuse timber walk able";
+var mnemonic = "element gadget major eagle room memory party armed protect melt balcony unique";

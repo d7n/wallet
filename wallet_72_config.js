@@ -1,1 +1,1 @@
-var mnemonic = "panic funny capital pigeon upset bleak tag above climb early hole chaos";
+var mnemonic = "easy miracle panther engine pumpkin mouse angry under nephew clip nasty furnace";

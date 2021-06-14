@@ -1,1 +1,1 @@
-var mnemonic = "step put hamster half vibrant honey parent fury large disorder decide jelly";
+var mnemonic = "science entry grab hawk inner trip auction wink brand anchor bless render";

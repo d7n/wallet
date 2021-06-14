@@ -1,1 +1,1 @@
-var mnemonic = "moon velvet december rough time level dinosaur blood panda remind wish barely";
+var mnemonic = "slender muscle nuclear offer earth expose unveil snake dose predict convince slender";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity roast noodle accident vendor dinosaur twin leave exhaust glimpse faint season";
+var mnemonic = "finish uphold measure someone chicken gauge couch bid thunder dinosaur physical cheap";

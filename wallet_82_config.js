@@ -1,1 +1,1 @@
-var mnemonic = "vague exercise impact width aisle violin romance seminar thumb match garage truck";
+var mnemonic = "video auction zero buyer road account weather opera double number twin demise";

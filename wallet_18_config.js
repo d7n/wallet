@@ -1,1 +1,1 @@
-var mnemonic = "hole hammer wagon snack ozone crash talk silly three target crash hospital";
+var mnemonic = "sorry kid near bean news country whale market someone cash cause cushion";

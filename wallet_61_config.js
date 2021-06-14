@@ -1,1 +1,1 @@
-var mnemonic = "lecture dog equal galaxy never mouse that peasant short uniform include pair";
+var mnemonic = "stable angry donkey crazy pair envelope initial captain antique north know tray";

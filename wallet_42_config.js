@@ -1,1 +1,1 @@
-var mnemonic = "garment behind fuel quote script tilt quiz away clog apology cool silly";
+var mnemonic = "jar creek text bind when spin boost piece order obey tattoo emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "trick believe oyster alcohol fashion stuff garden seven pulp under angry hurt";
+var mnemonic = "firm entry race mixed lazy perfect soda dial say fork demise tiger";

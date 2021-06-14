@@ -1,1 +1,1 @@
-var mnemonic = "mad window easily fatigue board inmate own leave there reward digital pave";
+var mnemonic = "buyer stock bargain later wall jacket transfer road dice dial cricket magic";

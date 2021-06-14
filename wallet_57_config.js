@@ -1,1 +1,1 @@
-var mnemonic = "deny clump scrub drive brick annual resemble unlock lunch play depth puzzle";
+var mnemonic = "typical pelican cancel sentence girl pony keen napkin frog speak friend panel";

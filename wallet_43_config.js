@@ -1,1 +1,1 @@
-var mnemonic = "unfold winner essence envelope sound waste inch display cushion vicious core era";
+var mnemonic = "sudden idea scheme smoke great route minor ancient frozen december lyrics attitude";

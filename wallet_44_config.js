@@ -1,1 +1,1 @@
-var mnemonic = "liquid predict odor volume way assume slogan dish repair staff true voyage";
+var mnemonic = "rocket sunny rail century moon try hair save carry lock exhibit eye";

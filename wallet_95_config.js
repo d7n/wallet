@@ -1,1 +1,1 @@
-var mnemonic = "earth purity beauty gun alien craft inherit peasant soccer mixture ahead possible";
+var mnemonic = "crack area chat flush differ rural place dust human sweet gather citizen";

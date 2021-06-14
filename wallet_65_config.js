@@ -1,1 +1,1 @@
-var mnemonic = "kind erode bind infant you pioneer grant struggle father vibrant dinner approve";
+var mnemonic = "imitate quantum tray business salt steak voice suggest message blame market height";

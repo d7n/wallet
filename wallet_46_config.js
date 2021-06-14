@@ -1,1 +1,1 @@
-var mnemonic = "road shuffle woman nurse solid merge pudding pill fresh blame crop another";
+var mnemonic = "rotate express risk cancel claw buyer sure oxygen keen thing lesson verb";

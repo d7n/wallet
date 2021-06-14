@@ -1,1 +1,1 @@
-var mnemonic = "dress aerobic near ginger clock rubber oval share fury wasp scorpion jelly";
+var mnemonic = "tumble use parade wheat today panda shaft detail obscure ill feed guess";

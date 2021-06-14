@@ -1,1 +1,1 @@
-var mnemonic = "field apple hip flat inner dilemma wash lumber weapon warm urge damage";
+var mnemonic = "kite another cook analyst wine blouse this genuine agree parrot spatial entry";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk dilemma rather blade save connect early soft thumb aisle fringe penalty";
+var mnemonic = "canoe organ breeze moral state move shy floor actor average add define";

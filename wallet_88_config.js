@@ -1,1 +1,1 @@
-var mnemonic = "casino rapid educate episode crystal sugar reward pudding suffer history easily rule";
+var mnemonic = "honey bonus prosper excuse wagon catch name opera input warrior home mechanic";

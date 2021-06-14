@@ -1,1 +1,1 @@
-var mnemonic = "maze square fruit clog impose future floor exact gap tray never merry";
+var mnemonic = "pudding hundred cousin length orchard make twice wisdom response mutual enemy library";

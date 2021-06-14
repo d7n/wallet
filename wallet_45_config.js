@@ -1,1 +1,1 @@
-var mnemonic = "game portion basket will neck attack palm patient beach always night parrot";
+var mnemonic = "decide pause useful egg blur giant coral glide pond village truly dynamic";

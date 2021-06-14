@@ -1,1 +1,1 @@
-var mnemonic = "glory file forum weapon prosper mansion educate chapter disagree maximum mango toward";
+var mnemonic = "level tonight enforce stool enough south armor return scale bargain salad mansion";

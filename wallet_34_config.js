@@ -1,1 +1,1 @@
-var mnemonic = "enemy february eagle allow produce unknown obscure drip nature bread order antenna";
+var mnemonic = "spirit notice meat sugar cinnamon donate swarm topple cupboard orient genius regular";

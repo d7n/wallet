@@ -1,1 +1,1 @@
-var mnemonic = "build safe inherit decrease very antenna ball medal carry quarter hover tree";
+var mnemonic = "outer bamboo wall valid pave join game grief fluid team sponsor cube";

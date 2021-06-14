@@ -1,1 +1,1 @@
-var mnemonic = "almost snap kidney exercise lemon absorb border else bless traffic track effort";
+var mnemonic = "clump library envelope juice peanut buffalo misery move elegant limit clog inside";

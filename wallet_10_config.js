@@ -1,1 +1,1 @@
-var mnemonic = "safe maze horror cancel patch melody eager fall monitor slush ridge loan";
+var mnemonic = "nasty weapon notable battle engine giant swamp claim bright problem casino lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant tissue siege attend romance peanut ring example elegant already candy wrap";
+var mnemonic = "fork tiny cross assist team crush cruise group blanket device music enlist";

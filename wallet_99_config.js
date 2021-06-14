@@ -1,1 +1,1 @@
-var mnemonic = "evoke universe sunny food cube yard refuse ethics cargo judge olive view";
+var mnemonic = "scene dance sail allow unaware narrow blind finger weapon van grace dumb";

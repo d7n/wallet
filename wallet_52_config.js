@@ -1,1 +1,1 @@
-var mnemonic = "private evil thing holiday basic ask upper junk state exact involve spread";
+var mnemonic = "aunt start blanket viable habit owner drop phone actual hole extra peasant";

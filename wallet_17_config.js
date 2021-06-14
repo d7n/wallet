@@ -1,1 +1,1 @@
-var mnemonic = "cream cross certain exotic doll brass doll whale million journey pill spread";
+var mnemonic = "alert tired erupt token prosper hunt ready arrow soup neglect wash same";

@@ -1,1 +1,1 @@
-var mnemonic = "steak wrong tent lion subway garbage guide shed flame follow luggage all";
+var mnemonic = "hobby target damp announce snake culture spider regret fashion oil term copy";

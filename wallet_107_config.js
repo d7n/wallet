@@ -1,1 +1,1 @@
-var mnemonic = "already gentle disagree erosion fan among deal column toss urban betray jewel";
+var mnemonic = "electric already assault soap armor lunch across chunk era gas idle naive";

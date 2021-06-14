@@ -1,1 +1,1 @@
-var mnemonic = "toddler stock wink photo riot parade mix tower awful wire seek alcohol";
+var mnemonic = "vessel picnic major number net tortoise nose patch tower mean connect transfer";

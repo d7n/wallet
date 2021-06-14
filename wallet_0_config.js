@@ -1,1 +1,1 @@
-var mnemonic = "sunny current three minimum reunion whip unknown aspect network legend execute judge";
+var mnemonic = "hood govern review hospital marble monitor flat front notice lazy bachelor easily";

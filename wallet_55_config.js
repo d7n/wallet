@@ -1,1 +1,1 @@
-var mnemonic = "include taste second swear rule turkey awesome phrase club trap option bind";
+var mnemonic = "profit swallow grunt void forward injury budget promote run treat whale blind";

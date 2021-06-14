@@ -1,1 +1,1 @@
-var mnemonic = "below beauty option casual all kangaroo electric mobile win topple mimic angry";
+var mnemonic = "sun dwarf author fault frown edit sleep reveal car october vast ship";

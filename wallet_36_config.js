@@ -1,1 +1,1 @@
-var mnemonic = "wink acid insane allow guide buffalo stock repeat gospel fat own balcony";
+var mnemonic = "talk elbow assist manual very amazing way license social join craft lady";

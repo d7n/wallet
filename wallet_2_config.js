@@ -1,1 +1,1 @@
-var mnemonic = "item minute midnight swift giraffe human knock fan abstract fly custom clerk";
+var mnemonic = "brass yard ball napkin wine city physical egg humble fan save dignity";

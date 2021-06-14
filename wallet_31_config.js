@@ -1,1 +1,1 @@
-var mnemonic = "say ocean regular key hockey ball run acoustic shy ability picture still";
+var mnemonic = "own final panel ocean balcony burger review carry tone melody tumble magic";

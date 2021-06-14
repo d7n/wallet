@@ -1,1 +1,1 @@
-var mnemonic = "aspect humor above adjust fun acoustic cancel detect ordinary auction high diary";
+var mnemonic = "vessel energy force small pill price easy decide crater health smart current";

@@ -1,1 +1,1 @@
-var mnemonic = "settle leader alone deposit island region never clown cousin able music camera";
+var mnemonic = "host motor oil lake critic grain voyage orchard evoke fortune toss night";

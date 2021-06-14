@@ -1,1 +1,1 @@
-var mnemonic = "ordinary turkey pretty route infant close basic notice install sugar wonder happy";
+var mnemonic = "traffic resource term there illness jaguar spare judge double peasant poem twenty";

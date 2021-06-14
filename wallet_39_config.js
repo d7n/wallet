@@ -1,1 +1,1 @@
-var mnemonic = "toss soccer dismiss roast undo foster borrow village already unique false never";
+var mnemonic = "pottery fence vehicle dose sister stock session mesh bonus toward card disease";

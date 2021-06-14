@@ -1,1 +1,1 @@
-var mnemonic = "issue taste museum funny mind tongue motion arch ten monkey east food";
+var mnemonic = "fringe useful remove blast clap question kiwi joke assault link dad decline";
