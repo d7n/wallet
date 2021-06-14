@@ -1,1 +1,1 @@
-var mnemonic = "lift mention captain like sudden mansion exclude tone angry private blame evidence";
+var mnemonic = "room offer blind stomach piece detect divorce winter essay slice fine crumble";

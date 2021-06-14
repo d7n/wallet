@@ -1,1 +1,1 @@
-var mnemonic = "immense hip hold glass secret midnight orchard estate rescue artefact mask zone";
+var mnemonic = "fitness very cover render field original artwork whisper accuse penalty salon boil";

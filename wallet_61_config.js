@@ -1,1 +1,1 @@
-var mnemonic = "inform charge region crew remove oyster noodle disagree modify token balcony piece";
+var mnemonic = "about neck short swallow improve core erupt urban stuff ethics auction follow";

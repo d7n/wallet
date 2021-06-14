@@ -1,1 +1,1 @@
-var mnemonic = "feel crystal dirt future stomach village inmate crowd plug cotton pink large";
+var mnemonic = "mixed monster offer illegal myself lumber seminar goddess piano balcony puzzle urban";

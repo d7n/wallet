@@ -1,1 +1,1 @@
-var mnemonic = "cage monkey pass option dwarf fox horse resist rare jar marine thank";
+var mnemonic = "ten fury rhythm vague attack pull together tonight loyal never quantum slab";

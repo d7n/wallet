@@ -1,1 +1,1 @@
-var mnemonic = "possible cupboard outdoor athlete close post acid early ginger syrup party multiply";
+var mnemonic = "jar put breeze senior spare off roof resist dish supply math text";

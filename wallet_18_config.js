@@ -1,1 +1,1 @@
-var mnemonic = "pledge use gate nest lizard truth cereal genuine veteran unit letter bless";
+var mnemonic = "jelly duck dilemma tuition claw they explain valley scissors few proof prison";

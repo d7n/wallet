@@ -1,1 +1,1 @@
-var mnemonic = "recall polar column artefact choice knife coffee salon loan impulse snap arrange";
+var mnemonic = "cost fortune primary hollow ski extra gift cinnamon uncle obvious include civil";

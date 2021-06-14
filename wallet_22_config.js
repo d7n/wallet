@@ -1,1 +1,1 @@
-var mnemonic = "fruit lawn sell category menu fan youth essay mind enough fury rough";
+var mnemonic = "laugh spell wish genuine game cash exact comic grocery night private drill";

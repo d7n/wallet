@@ -1,1 +1,1 @@
-var mnemonic = "sick mean sugar increase belt scale soap fetch pattern between dish maid";
+var mnemonic = "coach glimpse today figure burger wash reward eager slight awesome fitness day";

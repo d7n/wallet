@@ -1,1 +1,1 @@
-var mnemonic = "immune small north remember critic depart conduct lunch shove olive soft monster";
+var mnemonic = "frog venue spend melt syrup define document dance melody number flip angry";

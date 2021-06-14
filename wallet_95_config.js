@@ -1,1 +1,1 @@
-var mnemonic = "theme shiver clip feed mixed fee nut enemy wild mutual hat absorb";
+var mnemonic = "ecology search beach black goddess stool parade pizza senior manage soda rescue";

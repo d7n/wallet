@@ -1,1 +1,1 @@
-var mnemonic = "robust thought feature bulb frame mixed once amount unique spell bottom slim";
+var mnemonic = "market village garbage foot alarm junk tray veteran west cigar curve undo";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost destroy account escape idea boat cabin float pen quality insane state";
+var mnemonic = "detail sauce clump other viable laptop cruise someone lend impact mom liquid";

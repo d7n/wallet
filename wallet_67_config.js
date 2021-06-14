@@ -1,1 +1,1 @@
-var mnemonic = "hammer giraffe couple setup escape action oblige purpose risk sound riot merge";
+var mnemonic = "twice brush impose armed very warfare decide girl walk wish essay culture";

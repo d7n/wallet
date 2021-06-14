@@ -1,1 +1,1 @@
-var mnemonic = "olive nominee job result loop mobile security early around nut man sauce";
+var mnemonic = "hire error twelve luggage sting hazard move town sell hire blur brief";

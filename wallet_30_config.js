@@ -1,1 +1,1 @@
-var mnemonic = "time come super fold leader blush point boring cause jar result business";
+var mnemonic = "mansion dolphin broken purity naive jelly behave smile drum ill brick canvas";

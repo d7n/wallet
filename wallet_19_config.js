@@ -1,1 +1,1 @@
-var mnemonic = "burger century battle steel empty multiply lobster dumb ankle toss cool begin";
+var mnemonic = "master strategy replace shadow drink emerge food sail kiwi witness dune crisp";

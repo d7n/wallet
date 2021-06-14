@@ -1,1 +1,1 @@
-var mnemonic = "tool gadget trade crack kiss various certain nice blue suffer catalog escape";
+var mnemonic = "type beach fringe tuna thumb odor message quit oven wing mystery dog";

@@ -1,1 +1,1 @@
-var mnemonic = "daring goat grit bid victory urge slab rocket vague zero enable subject";
+var mnemonic = "ten genius gadget twist magic prosper just foster place river equip pass";

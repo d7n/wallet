@@ -1,1 +1,1 @@
-var mnemonic = "nasty summer waste invest man until trade meadow hard panther wealth finger";
+var mnemonic = "street become stem dinner one fold size firm split reduce float admit";

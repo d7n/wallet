@@ -1,1 +1,1 @@
-var mnemonic = "human orchard diary pepper letter door actress gaze recipe vehicle pigeon guilt";
+var mnemonic = "obtain evoke pepper wise reunion wheat strong approve prefer siren later dilemma";

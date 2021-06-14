@@ -1,1 +1,1 @@
-var mnemonic = "snap motor wink barely solve dynamic remember differ silly lend hollow clinic";
+var mnemonic = "comfort riot express infant axis peace syrup sheriff fan kitchen dismiss daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn sort online fame decorate bird dwarf talk spoon oven tobacco choice";
+var mnemonic = "rate purchase limit limb wrist much drum alone ball orange ability wedding";

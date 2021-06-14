@@ -1,1 +1,1 @@
-var mnemonic = "giant alert invite expand modify fame stuff sponsor injury snap gentle immense";
+var mnemonic = "decorate trash fly mistake stuff unveil split tilt fringe brass ice century";

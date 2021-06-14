@@ -1,1 +1,1 @@
-var mnemonic = "fiction radar occur give faint better uniform acoustic nurse know notable hero";
+var mnemonic = "future cinnamon shiver junk rare bread side twin draft gown cereal unlock";

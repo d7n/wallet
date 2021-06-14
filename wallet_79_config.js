@@ -1,1 +1,1 @@
-var mnemonic = "salmon doctor dream drive reform hero piece tube scheme network patient pole";
+var mnemonic = "fun wagon siege fiber spot bean net relief nose credit jeans solution";

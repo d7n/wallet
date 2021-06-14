@@ -1,1 +1,1 @@
-var mnemonic = "burger mandate general lumber front inmate solid drastic dilemma plate east trend";
+var mnemonic = "convince step rug depart amateur habit child dose hundred assume analyst shop";

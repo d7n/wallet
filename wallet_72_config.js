@@ -1,1 +1,1 @@
-var mnemonic = "cat talk oxygen blouse lonely quick album believe odor lonely globe elite";
+var mnemonic = "myth hollow spawn betray cliff runway sign nation fossil sense lock same";

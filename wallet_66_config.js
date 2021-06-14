@@ -1,1 +1,1 @@
-var mnemonic = "witness print note drift nurse soda insane bracket cradle mention awesome busy";
+var mnemonic = "such into spring indoor report stem play mixed answer noodle toy rude";

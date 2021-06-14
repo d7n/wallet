@@ -1,1 +1,1 @@
-var mnemonic = "eager tackle wink patrol hurry rocket improve rose scissors fiscal pepper another";
+var mnemonic = "truth cupboard drink step box employ chalk axis afford manage spike table";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet title fence cluster nerve attitude drink doll law opinion decide fruit";
+var mnemonic = "tired boost old island fabric avocado stamp route forum lawsuit fish elite";

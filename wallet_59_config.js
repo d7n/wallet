@@ -1,1 +1,1 @@
-var mnemonic = "item detect crop gaze chase expect rib scan age code clutch giant";
+var mnemonic = "jar nothing matrix unable poet luggage entire noodle alley diet sword clever";

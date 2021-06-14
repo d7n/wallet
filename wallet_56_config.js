@@ -1,1 +1,1 @@
-var mnemonic = "captain alcohol they between rain polar number trouble cause equal latin demise";
+var mnemonic = "essence display kite cruel season damage skill offer mail canyon hood anger";

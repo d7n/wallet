@@ -1,1 +1,1 @@
-var mnemonic = "evil gesture april amazing below wedding myth awesome kick method fun wink";
+var mnemonic = "sausage require enough height predict coast concert rack close pear drastic cabin";

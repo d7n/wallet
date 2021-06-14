@@ -1,1 +1,1 @@
-var mnemonic = "memory luggage cannon divert parent boy lucky noodle assume more leader fashion";
+var mnemonic = "sort taxi fall fold soul child cigar modify choice chunk tone biology";

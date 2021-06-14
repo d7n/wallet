@@ -1,1 +1,1 @@
-var mnemonic = "clip rookie spell unit syrup fetch orbit fix genius soccer live ecology";
+var mnemonic = "number forum laundry piano rebel grid grain board explain faith tackle intact";

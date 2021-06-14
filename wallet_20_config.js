@@ -1,1 +1,1 @@
-var mnemonic = "coil bread absorb silly conduct meadow short kangaroo capital remember shove lumber";
+var mnemonic = "swift round where donkey order garlic march also hint isolate force fossil";

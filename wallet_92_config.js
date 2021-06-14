@@ -1,1 +1,1 @@
-var mnemonic = "illness cluster excess cabbage keep fringe fitness install catch movie lawsuit hint";
+var mnemonic = "long arch recipe leaf drama helmet problem witness force eagle nation road";

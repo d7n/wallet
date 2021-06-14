@@ -1,1 +1,1 @@
-var mnemonic = "limit squirrel stand illegal stand legend soon eager build slot rather essay";
+var mnemonic = "warrior choice wrist oil clutch vacant seed scale chef kangaroo like island";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket social interest catalog churn all combine street bracket trumpet crystal economy";
+var mnemonic = "mountain tank aspect south scatter asset height peanut genre coach length library";

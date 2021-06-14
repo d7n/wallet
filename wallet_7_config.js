@@ -1,1 +1,1 @@
-var mnemonic = "teach subject trade insane topic door cousin myself session cube shell tackle";
+var mnemonic = "method gun reflect fog thrive group punch raccoon position middle rib finger";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate want vague measure suspect mind expose hazard nasty bind marine loud";
+var mnemonic = "pact spare mask lumber aware increase sorry tide erase usage net flower";

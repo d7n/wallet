@@ -1,1 +1,1 @@
-var mnemonic = "achieve little safe federal all unveil identify earn armor push paddle gallery";
+var mnemonic = "bracket come purchase shell hover hand lecture clip van million rice run";

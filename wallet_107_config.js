@@ -1,1 +1,1 @@
-var mnemonic = "horse disorder vintage planet album galaxy matter resist illness wish weather aim";
+var mnemonic = "boat install learn festival toast rate garment reduce pizza bitter ranch dune";

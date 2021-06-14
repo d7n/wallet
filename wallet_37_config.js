@@ -1,1 +1,1 @@
-var mnemonic = "cat patrol vote stem fiber engine clip toy main thank exit alien";
+var mnemonic = "song slender fruit between satoshi rule any sudden engine inflict clay beach";

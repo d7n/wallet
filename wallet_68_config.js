@@ -1,1 +1,1 @@
-var mnemonic = "open gospel wheel lyrics stomach daring solution daring toe priority vote scheme";
+var mnemonic = "useful away habit exercise water indoor cabbage neglect feature juice rhythm position";

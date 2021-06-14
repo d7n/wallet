@@ -1,1 +1,1 @@
-var mnemonic = "ketchup invite tragic party december dynamic canal orange close weather stick shield";
+var mnemonic = "trim hand sustain bulb peasant boat upset token ribbon force girl law";

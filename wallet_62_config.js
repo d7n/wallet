@@ -1,1 +1,1 @@
-var mnemonic = "laptop grunt push sustain keen lazy record black neglect mask flock pelican";
+var mnemonic = "pistol miracle wild shallow rib song eternal shadow maximum program cube pencil";

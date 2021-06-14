@@ -1,1 +1,1 @@
-var mnemonic = "hover impulse timber other disease seek bread hundred misery flee meat find";
+var mnemonic = "order sad order anxiety check faint bid coil buddy fortune dilemma proof";

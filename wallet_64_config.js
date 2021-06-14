@@ -1,1 +1,1 @@
-var mnemonic = "remember fat curve pilot arctic adult retreat family fitness taste excite reflect";
+var mnemonic = "loop find silent hawk fringe sheriff cotton obey easy uncover dose lizard";

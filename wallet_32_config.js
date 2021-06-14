@@ -1,1 +1,1 @@
-var mnemonic = "spin crucial day mask tornado winner neck casual shiver excess hollow maid";
+var mnemonic = "across athlete crack rapid push supply argue guide pair little rookie purpose";

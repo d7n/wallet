@@ -1,1 +1,1 @@
-var mnemonic = "animal void jar dad rapid father review nation man hill soul drastic";
+var mnemonic = "day opera scale siren field fun farm wealth brand fee tent word";

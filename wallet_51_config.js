@@ -1,1 +1,1 @@
-var mnemonic = "subway input all odor youth dash depth return before equip become switch";
+var mnemonic = "opinion monitor struggle weekend web sausage van tower door because cup under";

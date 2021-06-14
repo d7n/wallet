@@ -1,1 +1,1 @@
-var mnemonic = "code cushion wait turkey wing green kick sadness congress blind lend glove";
+var mnemonic = "jazz promote car guard stick decorate castle mail plunge proof thrive hollow";

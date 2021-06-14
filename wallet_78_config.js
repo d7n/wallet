@@ -1,1 +1,1 @@
-var mnemonic = "domain bullet endorse photo very afraid rare trip oil bulb deal salmon";
+var mnemonic = "economy theme frost such abandon gaze swear hammer ticket anger sword figure";

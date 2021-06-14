@@ -1,1 +1,1 @@
-var mnemonic = "thrive trap pig august woman garage earn corn decrease client educate neither";
+var mnemonic = "dumb walk sport giggle return best curious ill curtain tide empty stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "month asthma physical chaos tag chuckle decorate erupt note later waste heart";
+var mnemonic = "march laundry spot okay cherry save shop now blossom swallow message popular";

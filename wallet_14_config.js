@@ -1,1 +1,1 @@
-var mnemonic = "heart castle uncover region ignore kingdom force acid shoot duck symbol husband";
+var mnemonic = "learn crumble sea survey sleep beef crouch assault apology circle citizen memory";

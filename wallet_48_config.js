@@ -1,1 +1,1 @@
-var mnemonic = "meadow speed tell share chimney blood reflect grant primary labor luggage trigger";
+var mnemonic = "off please tail insane student scatter moment route shield truly sure opinion";

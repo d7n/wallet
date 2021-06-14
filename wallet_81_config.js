@@ -1,1 +1,1 @@
-var mnemonic = "among century state soon arch physical direct rib desert clip animal ritual";
+var mnemonic = "defense cart animal category dove hire crowd end load steak recycle bike";

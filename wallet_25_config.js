@@ -1,1 +1,1 @@
-var mnemonic = "cancel alter flush gallery estate popular foot danger orphan behind cycle skill";
+var mnemonic = "dash question harsh target border emerge decade asthma jealous segment manual sing";

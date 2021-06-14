@@ -1,1 +1,1 @@
-var mnemonic = "empower lyrics style nest cheese fat lava infant grunt thought erode awkward";
+var mnemonic = "vehicle tourist breeze tattoo pupil blur swarm jar front cream sport fever";

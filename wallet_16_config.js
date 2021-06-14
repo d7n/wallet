@@ -1,1 +1,1 @@
-var mnemonic = "garment economy mixture price glory gallery option weekend harbor salon jaguar grit";
+var mnemonic = "wide scare banner gloom train great castle machine powder remove street ozone";

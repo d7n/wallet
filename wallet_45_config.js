@@ -1,1 +1,1 @@
-var mnemonic = "garlic cover athlete unaware mutual empty motion employ inmate neither palm october";
+var mnemonic = "science believe base kite clean leg mammal alien spend tilt weekend snap";

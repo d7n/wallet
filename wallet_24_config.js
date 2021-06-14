@@ -1,1 +1,1 @@
-var mnemonic = "happy same wrestle protect material mom put daring rally end fade option";
+var mnemonic = "verb urban void strong oppose body undo dove clump place human light";

@@ -1,1 +1,1 @@
-var mnemonic = "west mammal rate quality knock news advance imitate because approve fuel aware";
+var mnemonic = "hedgehog crime devote inmate athlete royal zoo tank trip vapor sell sock";

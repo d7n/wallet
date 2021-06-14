@@ -1,1 +1,1 @@
-var mnemonic = "wood accuse cushion transfer spider lake praise wish gesture garlic crazy basket";
+var mnemonic = "kangaroo mimic perfect again slight twin arrow wasp velvet today usage scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital doctor vast position dwarf popular drill toy country tray crowd flash";
+var mnemonic = "disorder used crowd usage virus adult better blade switch shop craft panic";

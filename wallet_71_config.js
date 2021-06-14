@@ -1,1 +1,1 @@
-var mnemonic = "program slab million favorite bicycle ill quantum blade dentist major robot deputy";
+var mnemonic = "brisk super deny urban rack twist segment knife seat wisdom bachelor stable";

@@ -1,1 +1,1 @@
-var mnemonic = "learn sheriff return gap ceiling learn depth pencil crew observe win shrug";
+var mnemonic = "struggle kiss position exhibit valve rail verify champion penalty vacuum elder crawl";

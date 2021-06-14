@@ -1,1 +1,1 @@
-var mnemonic = "impose fortune upgrade can select regular erosion arena stick garden stem split";
+var mnemonic = "build rebel rain wet error apology imitate satisfy blouse radar flower waste";

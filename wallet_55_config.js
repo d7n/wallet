@@ -1,1 +1,1 @@
-var mnemonic = "myself edit pluck face gain daughter peace disagree demand predict attract unfold";
+var mnemonic = "demise ask start leg select atom brick two misery sphere arm about";

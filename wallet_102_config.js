@@ -1,1 +1,1 @@
-var mnemonic = "cradle hope media coach equal sell assume talk angry frost river oil";
+var mnemonic = "silly sea tail notable ahead lawn enforce raw pitch dumb success degree";

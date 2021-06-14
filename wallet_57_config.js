@@ -1,1 +1,1 @@
-var mnemonic = "crack bulk ripple rug stool reopen fluid boost sibling dad country enforce";
+var mnemonic = "corn stable human buyer remind surprise wire session detect gather marble margin";

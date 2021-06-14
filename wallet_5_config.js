@@ -1,1 +1,1 @@
-var mnemonic = "sea lawn perfect kitten afford prevent doll wine aerobic whip uncle talk";
+var mnemonic = "sure snack glimpse tiny member rack chase turtle palace sting hollow ankle";

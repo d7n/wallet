@@ -1,1 +1,1 @@
-var mnemonic = "stairs hurt hurdle meat math girl all sniff about erase seed issue";
+var mnemonic = "final patient amazing south midnight burst twist rare unique walk garbage radar";

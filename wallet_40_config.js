@@ -1,1 +1,1 @@
-var mnemonic = "valve spirit reunion siege effort gun result win minor square orbit fog";
+var mnemonic = "wonder differ can celery impose spread palm trash floor install flip cover";

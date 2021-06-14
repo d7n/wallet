@@ -1,1 +1,1 @@
-var mnemonic = "youth neck actress hamster hedgehog eagle burden hybrid comic remain minute metal";
+var mnemonic = "basket elder embody blade stove drip noble satoshi service fan brown wreck";

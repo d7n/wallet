@@ -1,1 +1,1 @@
-var mnemonic = "verb panther piano provide cause vintage garden noble alone tornado priority such";
+var mnemonic = "wolf silver payment dirt elegant robot waste ketchup monster faint ice reflect";
