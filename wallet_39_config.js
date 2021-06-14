@@ -1,1 +1,1 @@
-var mnemonic = "stove kick hint target depend little column egg execute dutch cable shoe";
+var mnemonic = "punch speed lady base burger jungle execute zebra paper length extra cluster";

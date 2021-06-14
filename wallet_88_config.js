@@ -1,1 +1,1 @@
-var mnemonic = "review bonus borrow glide time smile depend negative extend spoon critic erode";
+var mnemonic = "attract material shrimp gospel mix scan ski minute become vague jewel bargain";

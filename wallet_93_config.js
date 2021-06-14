@@ -1,1 +1,1 @@
-var mnemonic = "shallow sausage eternal goose peace deposit say syrup dog card weasel nation";
+var mnemonic = "bench profit file hamster enroll zone guilt police glow tunnel open rib";

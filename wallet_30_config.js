@@ -1,1 +1,1 @@
-var mnemonic = "solution youth lens track define original purchase wear refuse canvas orchard bean";
+var mnemonic = "world pattern fade evidence picnic cancel sniff slender announce trip siege bind";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap gossip remember excite note roof clip patrol mobile tomato summer bunker";
+var mnemonic = "share come price age smile seminar apart mammal act today invite matter";

@@ -1,1 +1,1 @@
-var mnemonic = "day later fire body marriage avocado shy total grass modify timber stay";
+var mnemonic = "danger guilt biology start inherit truck october enemy approve drink furnace galaxy";

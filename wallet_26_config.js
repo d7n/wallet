@@ -1,1 +1,1 @@
-var mnemonic = "glare invite page trend hurdle chief excess okay combine envelope guard tobacco";
+var mnemonic = "undo multiply anchor length unveil manage announce major indoor upon loop subject";

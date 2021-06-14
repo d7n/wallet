@@ -1,1 +1,1 @@
-var mnemonic = "open civil raven mango interest odor jeans spirit lens tobacco nurse feel";
+var mnemonic = "satoshi hope atom away select oak result intact pact agree fault mushroom";

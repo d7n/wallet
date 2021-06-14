@@ -1,1 +1,1 @@
-var mnemonic = "lazy document clay blast dentist comic acquire walnut balance siege humble nature";
+var mnemonic = "sustain nurse unit fade rapid deputy review syrup hood cute alone glance";

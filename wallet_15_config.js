@@ -1,1 +1,1 @@
-var mnemonic = "vendor path oppose ice body step swing swim label shine balance spy";
+var mnemonic = "entry baby coast six grit globe task festival afraid swamp walnut point";

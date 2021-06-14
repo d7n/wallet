@@ -1,1 +1,1 @@
-var mnemonic = "safe carbon depend labor common reason proof light choice dumb focus coach";
+var mnemonic = "journey indicate erosion heavy extra trap spoil expand only nuclear ceiling purity";

@@ -1,1 +1,1 @@
-var mnemonic = "answer wood spray also ready original salt sibling force love erase crash";
+var mnemonic = "erase bridge miracle result tiger trade despair fortune quantum buzz genius elephant";

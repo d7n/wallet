@@ -1,1 +1,1 @@
-var mnemonic = "victory refuse will clever worth cry purpose rather miss utility rug pattern";
+var mnemonic = "visual ecology regret helmet ethics document athlete stadium cluster enlist outdoor invite";

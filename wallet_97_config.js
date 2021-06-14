@@ -1,1 +1,1 @@
-var mnemonic = "liquid entire hat join gather burst exile fuel hazard very month kangaroo";
+var mnemonic = "zoo below buzz glimpse horse empower good mosquito miracle patrol elder post";

@@ -1,1 +1,1 @@
-var mnemonic = "labor desk eight act sketch together sister chest ridge fault lottery target";
+var mnemonic = "taste rotate job ocean moon rival oxygen feel target erosion kitchen siren";

@@ -1,1 +1,1 @@
-var mnemonic = "machine sight security profit hazard stereo merit rhythm nasty around coral health";
+var mnemonic = "afraid iron simple bicycle drastic arch skull pencil safe moment friend dignity";

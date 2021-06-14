@@ -1,1 +1,1 @@
-var mnemonic = "trust eternal unknown disagree swallow resource crawl below museum banana blossom elder";
+var mnemonic = "range pigeon skirt announce wrong wine doll major diary fancy dizzy misery";

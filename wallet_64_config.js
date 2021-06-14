@@ -1,1 +1,1 @@
-var mnemonic = "camera only setup wink giraffe frost series vast frown egg shadow clap";
+var mnemonic = "lumber text lounge vehicle curious cupboard fault black pretty bind curve tape";

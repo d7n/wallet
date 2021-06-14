@@ -1,1 +1,1 @@
-var mnemonic = "artwork range around domain feed flock shed minor valve cousin involve second";
+var mnemonic = "help urge half yard zebra area decorate scout medal satisfy thank liar";

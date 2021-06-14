@@ -1,1 +1,1 @@
-var mnemonic = "zebra silly tribe congress garden unfair spray scrap rude guitar world half";
+var mnemonic = "trigger parade spirit orient clinic actress diet umbrella about cry lamp voyage";

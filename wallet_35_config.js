@@ -1,1 +1,1 @@
-var mnemonic = "champion board arrest tennis mansion about hotel design outside famous vague fame";
+var mnemonic = "flock secret charge else swarm congress husband neglect sun twice husband loyal";

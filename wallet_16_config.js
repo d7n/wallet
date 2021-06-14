@@ -1,1 +1,1 @@
-var mnemonic = "estate private arrange dose roast pear venue magic bulb fiscal dash price";
+var mnemonic = "high credit faith six cool gasp acoustic fog enter record evil disease";

@@ -1,1 +1,1 @@
-var mnemonic = "spare spend firm symptom since knife course iron ready parade fantasy emerge";
+var mnemonic = "truly west nuclear wood daughter cereal congress engine elder various decorate elbow";

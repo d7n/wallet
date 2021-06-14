@@ -1,1 +1,1 @@
-var mnemonic = "timber voyage then unlock pink exact labor bacon raw future bulb episode";
+var mnemonic = "edge dragon doctor thrive engage track bracket juice mesh history deny small";

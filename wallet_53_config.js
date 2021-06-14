@@ -1,1 +1,1 @@
-var mnemonic = "direct wrestle sphere radar bacon chaos project save awkward estate tragic scare";
+var mnemonic = "always fancy frozen stool allow album return screen rebel into more noise";

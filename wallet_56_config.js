@@ -1,1 +1,1 @@
-var mnemonic = "common soon spawn group such artist hurry comfort update fence inspire issue";
+var mnemonic = "month crush occur fix gym foam ignore shield future print genuine adjust";

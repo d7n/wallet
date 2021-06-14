@@ -1,1 +1,1 @@
-var mnemonic = "art unusual among october right explain giant asset sense increase admit amount";
+var mnemonic = "sick pumpkin phrase neutral cost absurd cigar aunt circle will ocean broom";

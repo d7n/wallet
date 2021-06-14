@@ -1,1 +1,1 @@
-var mnemonic = "twenty quick penalty celery inject kiss sing object increase drive spell jelly";
+var mnemonic = "pelican toy reason orange image impact scheme build casino sing cheap bid";

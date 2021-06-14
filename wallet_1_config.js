@@ -1,1 +1,1 @@
-var mnemonic = "first major drama canvas diamond fan kiss coconut suffer camp match truck";
+var mnemonic = "survey common garment giggle surround mixture double medal gift pledge embark citizen";

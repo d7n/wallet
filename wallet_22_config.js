@@ -1,1 +1,1 @@
-var mnemonic = "easy recall test basic clay inherit notice cereal educate essence brain salt";
+var mnemonic = "giggle act clap obey govern canvas ski knee average weird start whisper";

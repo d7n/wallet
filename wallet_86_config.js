@@ -1,1 +1,1 @@
-var mnemonic = "dentist alert luggage they practice group thrive build fly demand soda include";
+var mnemonic = "kit ride wreck spray kind unhappy connect long globe tennis ginger label";

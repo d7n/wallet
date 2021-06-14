@@ -1,1 +1,1 @@
-var mnemonic = "unable carry forum evolve drift purity pulse renew inner obscure scheme uncle";
+var mnemonic = "emotion scheme boss group spy true arm crazy miracle dinner canyon prevent";

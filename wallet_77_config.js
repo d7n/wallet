@@ -1,1 +1,1 @@
-var mnemonic = "hub negative increase inquiry soup puppy web work home spatial catalog hundred";
+var mnemonic = "gravity vicious symbol gold labor dish scissors artefact accident cancel tip evolve";

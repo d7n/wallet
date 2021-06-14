@@ -1,1 +1,1 @@
-var mnemonic = "ahead dismiss prize taste junk cute ghost nephew adjust rocket slogan gown";
+var mnemonic = "soap matrix topic neck blind rifle clutch plug slam strike uncover cigar";

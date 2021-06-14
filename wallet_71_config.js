@@ -1,1 +1,1 @@
-var mnemonic = "penalty crisp immense wool chaos trick brother tell glue pond pipe flower";
+var mnemonic = "lucky detail budget melt bind family noodle sand remove tunnel there half";

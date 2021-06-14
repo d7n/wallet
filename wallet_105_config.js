@@ -1,1 +1,1 @@
-var mnemonic = "tiger never mail flee nasty climb excess note cement later mimic coach";
+var mnemonic = "debate rose squirrel diesel escape loud word always boring clog rebuild quality";

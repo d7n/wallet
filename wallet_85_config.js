@@ -1,1 +1,1 @@
-var mnemonic = "grape pair popular pause drastic borrow silver board crash blossom topic casino";
+var mnemonic = "ride twice return paddle birth practice major disorder cup because bounce that";

@@ -1,1 +1,1 @@
-var mnemonic = "trend float suit alert artefact ticket train stem box kitchen isolate grass";
+var mnemonic = "choice actor impose real become solution stock screen neither tide note neutral";

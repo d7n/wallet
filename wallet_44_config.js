@@ -1,1 +1,1 @@
-var mnemonic = "ahead fame orphan essay world error expand fury have pudding please domain";
+var mnemonic = "wage push clog tape inherit attack mixture tip license crack wreck earth";

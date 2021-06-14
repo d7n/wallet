@@ -1,1 +1,1 @@
-var mnemonic = "include shaft list december goat leaf charge that ugly force leader motor";
+var mnemonic = "material remove rabbit permit negative panda over genre family rapid inner cushion";

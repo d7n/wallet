@@ -1,1 +1,1 @@
-var mnemonic = "october pet damage enrich three mammal focus birth ketchup young muscle cable";
+var mnemonic = "kite title sight equip dance enhance oval casino tonight mango enough vendor";

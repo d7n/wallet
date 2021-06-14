@@ -1,1 +1,1 @@
-var mnemonic = "ranch coin crew finger nominee fish wide subject winner treat weapon range";
+var mnemonic = "color defy online roast today gravity dwarf person donate scare garment tomato";

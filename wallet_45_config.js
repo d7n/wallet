@@ -1,1 +1,1 @@
-var mnemonic = "trap message alter box debate mimic impose typical cause reward stock soccer";
+var mnemonic = "insane acoustic leg relax monitor vocal leader patch believe truth habit riot";

@@ -1,1 +1,1 @@
-var mnemonic = "private deer limit pelican acquire bracket oppose depart pause devote exotic uniform";
+var mnemonic = "what open learn aunt service estate transfer body gorilla tell margin acquire";

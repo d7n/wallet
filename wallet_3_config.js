@@ -1,1 +1,1 @@
-var mnemonic = "vault bag catch bar field diary noise medal world carpet play attack";
+var mnemonic = "embark mimic build kid access circle mystery zero tourist movie sword crisp";

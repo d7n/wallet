@@ -1,1 +1,1 @@
-var mnemonic = "daring theme coffee have season avoid mention repair august true mandate electric";
+var mnemonic = "similar special awful young feature crisp core loop business segment mango series";

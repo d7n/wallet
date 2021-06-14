@@ -1,1 +1,1 @@
-var mnemonic = "scheme acoustic bright claw author easy like turn tip onion laundry pencil";
+var mnemonic = "update pulse more discover unaware husband coach ten raven design desk judge";

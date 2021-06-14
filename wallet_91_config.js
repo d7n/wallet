@@ -1,1 +1,1 @@
-var mnemonic = "satisfy crisp fit spoon crucial you cage tornado fine vote gospel cigar";
+var mnemonic = "crew purse forward benefit purchase oval eternal joke insect finger beach popular";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss end aunt record tourist belt nothing veteran canal enter pupil annual";
+var mnemonic = "script dolphin fine silver tuna artist frame sausage view attract huge fix";

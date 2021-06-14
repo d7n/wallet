@@ -1,1 +1,1 @@
-var mnemonic = "oven embrace throw rapid limb rough weather dice athlete tortoise either pudding";
+var mnemonic = "oyster viable describe spirit runway clean faculty flight lecture panic item stock";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive prefer replace kingdom grocery anchor vessel achieve duck rival index total";
+var mnemonic = "dinosaur inspire ride under proud siren talk gasp mutual civil film film";

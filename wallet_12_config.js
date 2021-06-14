@@ -1,1 +1,1 @@
-var mnemonic = "easily prosper paddle bike hedgehog crane loyal title example wheel object first";
+var mnemonic = "chair quit trim fall speed pact slow ask yellow virus swarm address";

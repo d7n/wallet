@@ -1,1 +1,1 @@
-var mnemonic = "virus acoustic jealous hurry dignity illness inch fun agree blast enlist bonus";
+var mnemonic = "solution slogan dumb stick foot idle car year mention afford argue puzzle";

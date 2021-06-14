@@ -1,1 +1,1 @@
-var mnemonic = "scatter shrug cover bounce gym month trial borrow blouse step worth until";
+var mnemonic = "world kick fruit roast mimic endless lift egg shove custom garden rack";

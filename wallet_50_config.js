@@ -1,1 +1,1 @@
-var mnemonic = "inch obey kiwi enhance voice sick project planet hurry match coffee various";
+var mnemonic = "mammal ridge fuel extra fine metal chapter approve turkey bid grant bacon";

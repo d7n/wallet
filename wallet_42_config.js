@@ -1,1 +1,1 @@
-var mnemonic = "loud horror brush disorder screen asthma ship deer segment hamster copy deal";
+var mnemonic = "behind syrup prevent lava that tribe turn uphold oxygen prize stereo across";

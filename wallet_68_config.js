@@ -1,1 +1,1 @@
-var mnemonic = "vehicle agree notable cherry party gun subject trust dignity average spy post";
+var mnemonic = "cigar immense shop embody exit people donkey life inmate emotion dismiss devote";

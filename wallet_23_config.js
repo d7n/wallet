@@ -1,1 +1,1 @@
-var mnemonic = "hazard lonely until affair enter sorry stadium start defy jump resource tool";
+var mnemonic = "laundry veteran trumpet siege prevent shaft sauce country enough choose alley submit";

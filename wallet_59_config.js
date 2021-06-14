@@ -1,1 +1,1 @@
-var mnemonic = "permit kick warm cause sphere tape cable punch smart become cup owner";
+var mnemonic = "original vague shield hunt engine actual aunt wolf shiver orange mansion stamp";

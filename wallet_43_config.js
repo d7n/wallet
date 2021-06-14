@@ -1,1 +1,1 @@
-var mnemonic = "upgrade market clog hold good lava regular phrase small guide worry bronze";
+var mnemonic = "keep annual pumpkin lottery fatigue pause hope achieve also deal city miracle";

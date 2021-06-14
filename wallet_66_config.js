@@ -1,1 +1,1 @@
-var mnemonic = "select assume health elevator glove lock will episode slide century aim network";
+var mnemonic = "dinner tower retreat piece river adjust spray glow scatter grass cover tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "friend coconut kingdom enable faculty ball action hospital club couch bless inner";
+var mnemonic = "pitch pig luxury decorate anger potato dad invest warm rib night actress";

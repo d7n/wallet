@@ -1,1 +1,1 @@
-var mnemonic = "phrase blind hair cigar giggle moon quarter average hybrid private goat melody";
+var mnemonic = "host million wave leopard glow brick enjoy unfold crucial panda walnut garment";

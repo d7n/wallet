@@ -1,1 +1,1 @@
-var mnemonic = "access oyster man light small time salt gift banana reform south equip";
+var mnemonic = "mystery exchange view safe order toss lucky width wheel tackle champion patient";

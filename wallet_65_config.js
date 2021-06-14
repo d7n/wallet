@@ -1,1 +1,1 @@
-var mnemonic = "bring melt dismiss start tail educate enroll leave runway exist spare candy";
+var mnemonic = "address wrestle spare tonight tornado survey brown fog body orbit trophy dish";

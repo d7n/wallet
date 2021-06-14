@@ -1,1 +1,1 @@
-var mnemonic = "gun manage picture brisk loan net decade pulse dinosaur dice render fence";
+var mnemonic = "glory nature unaware own divert skirt leopard pistol pipe seed arctic shell";

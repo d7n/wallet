@@ -1,1 +1,1 @@
-var mnemonic = "wasp current order clown sight ranch ride torch kingdom enlist inner about";
+var mnemonic = "top happy wild used glory have estate symptom kind estate gas paddle";

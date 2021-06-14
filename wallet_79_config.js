@@ -1,1 +1,1 @@
-var mnemonic = "october laugh holiday length jar attack bicycle allow general argue since prefer";
+var mnemonic = "unique shift vanish trouble update pet purse robot shuffle scissors pluck expire";

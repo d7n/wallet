@@ -1,1 +1,1 @@
-var mnemonic = "spoon pair bus situate crowd cage unveil comfort scheme connect start figure";
+var mnemonic = "brand cake want sock supreme mammal next flavor hawk unit valve bundle";

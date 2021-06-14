@@ -1,1 +1,1 @@
-var mnemonic = "glimpse minimum approve chief coconut fiscal scissors hundred snow lobster meat way";
+var mnemonic = "physical thumb tide engage warfare sell rival short rapid arch medal spring";

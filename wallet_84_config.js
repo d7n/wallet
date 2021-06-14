@@ -1,1 +1,1 @@
-var mnemonic = "unique angle mixed loop east chuckle conduct client love olympic runway length";
+var mnemonic = "royal rebel frame enroll situate angle gauge female wool swap raccoon walk";

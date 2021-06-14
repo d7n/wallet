@@ -1,1 +1,1 @@
-var mnemonic = "sad fringe enjoy pizza diamond warm female hammer oyster motion burger awkward";
+var mnemonic = "ill truly swap wing jaguar mushroom bless case illegal rent copy deal";

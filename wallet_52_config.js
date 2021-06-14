@@ -1,1 +1,1 @@
-var mnemonic = "cousin price angry cluster hover reason crop decrease unit bid spin renew";
+var mnemonic = "base syrup network service path session ensure minute similar meadow february silent";

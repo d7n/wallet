@@ -1,1 +1,1 @@
-var mnemonic = "staff whisper also visit estate effort oxygen essay isolate tragic salad denial";
+var mnemonic = "faint vintage goat basket tenant forest ill mention pipe charge harsh exclude";

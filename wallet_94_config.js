@@ -1,1 +1,1 @@
-var mnemonic = "symbol hammer basket endless disorder piano bronze certain decrease route only away";
+var mnemonic = "club wet tragic detail lesson embrace merit once wash pride want pen";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter fabric sell kind gain dog ankle orbit victory blind junior harvest";
+var mnemonic = "regular few shield rebuild chest captain kite rough run track session robot";

@@ -1,1 +1,1 @@
-var mnemonic = "banner leaf improve primary slam toddler candy thunder pottery rose frog leg";
+var mnemonic = "icon arm verify goose flag sort park twice rural safe minor index";

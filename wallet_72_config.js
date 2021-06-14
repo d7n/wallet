@@ -1,1 +1,1 @@
-var mnemonic = "jump poet actual hollow learn window cause random enable suspect rose excess";
+var mnemonic = "inherit group cruel lesson chat bracket category decade parent source help slush";

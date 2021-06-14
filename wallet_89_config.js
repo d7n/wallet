@@ -1,1 +1,1 @@
-var mnemonic = "plastic fall busy will pudding window heavy egg bullet live winter find";
+var mnemonic = "lock daring fly canyon father shoot kick praise alone note cool suspect";

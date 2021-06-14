@@ -1,1 +1,1 @@
-var mnemonic = "warrior glide brush develop neutral twin oblige dinosaur divide edge weather dish";
+var mnemonic = "brown pilot earn protect toast deliver federal habit bar mosquito code other";

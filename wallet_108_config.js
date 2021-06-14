@@ -1,1 +1,1 @@
-var mnemonic = "act goat collect agree call clutch dignity term elder napkin insane clutch";
+var mnemonic = "pass spell flight health museum local tree bridge recycle total jump aerobic";

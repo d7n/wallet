@@ -1,1 +1,1 @@
-var mnemonic = "advice devote minor athlete earth dinosaur hamster execute sleep system cream undo";
+var mnemonic = "home become soon flight mom stamp jeans gold aspect reason champion sail";

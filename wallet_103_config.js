@@ -1,1 +1,1 @@
-var mnemonic = "decide tent sniff plate color script vocal scorpion bleak design insane neck";
+var mnemonic = "blame casual occur talk what result lawsuit wagon verb area hockey phone";

@@ -1,1 +1,1 @@
-var mnemonic = "void abandon mechanic fragile grid hungry twist place cage time recall canal";
+var mnemonic = "exotic coil rapid barely bless property blush sadness enough mosquito shuffle south";

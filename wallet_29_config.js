@@ -1,1 +1,1 @@
-var mnemonic = "panda sugar thumb differ screen kitchen street air corn behave recall garden";
+var mnemonic = "deal school detect walnut chronic velvet luxury acoustic arrive ghost stick buddy";

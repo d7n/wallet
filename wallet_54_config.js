@@ -1,1 +1,1 @@
-var mnemonic = "act narrow meat gain depart era analyst picture swear whisper long noble";
+var mnemonic = "nothing general three funny cream loop collect profit differ brass army episode";

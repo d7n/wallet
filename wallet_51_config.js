@@ -1,1 +1,1 @@
-var mnemonic = "permit film jewel mask harvest lake rhythm film prepare document finish wreck";
+var mnemonic = "receive crime rare kidney dismiss victory arrange orchard veteran wage caught reflect";

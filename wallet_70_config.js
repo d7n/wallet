@@ -1,1 +1,1 @@
-var mnemonic = "genre ancient gaze velvet peanut ocean melt intact chalk mail emotion intact";
+var mnemonic = "purpose around night pipe student describe put explain aisle cliff kangaroo they";

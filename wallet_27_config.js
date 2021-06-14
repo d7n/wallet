@@ -1,1 +1,1 @@
-var mnemonic = "actress assume fashion apple easy canyon clip isolate cushion burden address obey";
+var mnemonic = "control over frown flock fiction depart spy record turn switch afraid gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "item trash now razor judge hundred reflect range blur success margin common";
+var mnemonic = "venue betray other sugar swear flame orbit siren board draft legend lunar";

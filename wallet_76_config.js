@@ -1,1 +1,1 @@
-var mnemonic = "scrap put next inmate hold whale now menu element expose dry trim";
+var mnemonic = "half move novel benefit giggle bridge buddy lucky usual helmet inch turtle";
