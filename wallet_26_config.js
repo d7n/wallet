@@ -1,1 +1,1 @@
-var mnemonic = "slide century suggest build traffic solid estate birth okay property artefact virus";
+var mnemonic = "spawn aware sun hybrid frequent embark snack goat hub modify spatial arm";

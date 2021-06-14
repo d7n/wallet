@@ -1,1 +1,1 @@
-var mnemonic = "swift around mirror pattern wise shoulder era pole nerve upset lady priority";
+var mnemonic = "fashion egg among carpet hole empty earn senior mountain buzz hurdle absurd";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna time layer anxiety ugly tongue carbon during make suggest record bacon";
+var mnemonic = "clever usual auto old private gloom choose dilemma window fever motor syrup";

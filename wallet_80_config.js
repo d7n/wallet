@@ -1,1 +1,1 @@
-var mnemonic = "empower crunch gown curve uncle market genius dog clerk mobile often guess";
+var mnemonic = "ordinary thing conduct captain hole pear spot effort junior buyer page honey";

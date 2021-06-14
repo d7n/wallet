@@ -1,1 +1,1 @@
-var mnemonic = "tackle breeze doctor danger tower amused blast desk cabbage tube melody attract";
+var mnemonic = "harsh elephant youth finish fan social sausage street meat receive school again";

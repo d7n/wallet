@@ -1,1 +1,1 @@
-var mnemonic = "nut pudding script release enforce prevent october scene crime slush library jungle";
+var mnemonic = "survey rely fly giraffe subway coil spend cat obtain innocent chat churn";

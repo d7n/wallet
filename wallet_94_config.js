@@ -1,1 +1,1 @@
-var mnemonic = "exhaust squeeze shoulder outdoor ahead lemon glove account shift gospel concert choice";
+var mnemonic = "syrup flat coin plunge trial cereal bottom summer easily twice ocean more";

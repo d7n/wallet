@@ -1,1 +1,1 @@
-var mnemonic = "cable oblige expose round humble arrive deposit win gravity ship display frozen";
+var mnemonic = "approve skull cause finish ozone light make owner mix drastic exchange debris";

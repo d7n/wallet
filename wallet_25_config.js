@@ -1,1 +1,1 @@
-var mnemonic = "bench cable accident cactus hazard child recall seven utility must camera that";
+var mnemonic = "six island merit cherry story survey lumber brave fragile coral below almost";

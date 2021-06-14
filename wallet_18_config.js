@@ -1,1 +1,1 @@
-var mnemonic = "zero pony glad kangaroo siege slab grass snake token friend tower knife";
+var mnemonic = "try dentist clutch inquiry trap next wool cost crawl test whisper wrap";

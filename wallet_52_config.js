@@ -1,1 +1,1 @@
-var mnemonic = "farm suit cash pattern embody boat install cup leave accident reunion potato";
+var mnemonic = "mix dutch eager cover bone mirror bunker garden gown top erupt torch";

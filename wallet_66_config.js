@@ -1,1 +1,1 @@
-var mnemonic = "abuse happy erase firm swap roast grief rookie best sock evidence caution";
+var mnemonic = "mass mule disease suffer recipe pull ensure design town boat solve load";

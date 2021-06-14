@@ -1,1 +1,1 @@
-var mnemonic = "hurdle arrive quote profit pet shoulder myself rescue detect edit month army";
+var mnemonic = "yellow hill then flush recycle require arrange wear sense rent goose mean";

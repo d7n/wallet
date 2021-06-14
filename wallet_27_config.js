@@ -1,1 +1,1 @@
-var mnemonic = "impulse journey rural issue source frozen answer dash slice hurt cover motion";
+var mnemonic = "gate sound coast atom panda figure fun mind trade original pass demand";

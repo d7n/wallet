@@ -1,1 +1,1 @@
-var mnemonic = "pave head hold alter copy grant cart south unique vapor joy riot";
+var mnemonic = "olive envelope skill width you useful renew thought theme narrow fire believe";

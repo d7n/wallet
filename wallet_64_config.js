@@ -1,1 +1,1 @@
-var mnemonic = "average position dance rather patrol depend six embrace snap eagle top trim";
+var mnemonic = "album rack bronze awkward balance produce island quality prosper artefact robot symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "dry odor shrimp captain scale typical broom ugly sudden pulp yellow spoil";
+var mnemonic = "woman bus father alien cousin casino adjust strong kind junk waste clean";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite upgrade right gesture diesel firm fiction finger march coast pride swift";
+var mnemonic = "toss rug soldier wine wink bike trade clap reopen mother glove view";

@@ -1,1 +1,1 @@
-var mnemonic = "hat short museum depart general mask sorry sauce happy phrase trouble surface";
+var mnemonic = "only peace helmet trim upon clay scene snack prize wealth sound kitten";

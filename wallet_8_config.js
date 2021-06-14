@@ -1,1 +1,1 @@
-var mnemonic = "inch typical exclude response extra celery account blouse sea collect title cruise";
+var mnemonic = "risk travel screen cable about clinic eternal brown review purpose plate turkey";

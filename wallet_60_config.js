@@ -1,1 +1,1 @@
-var mnemonic = "reflect swallow ritual cram gap opinion slogan pluck settle wave math soul";
+var mnemonic = "answer boil clerk wink robust broccoli current evoke borrow opera pink glide";

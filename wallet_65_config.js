@@ -1,1 +1,1 @@
-var mnemonic = "glad transfer elevator often pepper route cash scout ten adult leopard retreat";
+var mnemonic = "symbol rescue actress bread stadium uphold wealth reform lunch almost jeans hawk";

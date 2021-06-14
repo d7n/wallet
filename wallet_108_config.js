@@ -1,1 +1,1 @@
-var mnemonic = "evolve enter frown excess item medal barely swing point brown image eternal";
+var mnemonic = "hub merit ice upgrade marriage ripple bless layer useful soup theory flame";

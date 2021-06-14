@@ -1,1 +1,1 @@
-var mnemonic = "shed bracket horn oppose jaguar empower tuition faint sauce drift random kingdom";
+var mnemonic = "funny seven inspire bless outside chimney dinosaur party people spice radio daughter";

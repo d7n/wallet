@@ -1,1 +1,1 @@
-var mnemonic = "agree neither harsh bonus solar spoon gym iron foster diesel coach woman";
+var mnemonic = "taste wealth menu warm rent bus radio first follow sword fun indoor";

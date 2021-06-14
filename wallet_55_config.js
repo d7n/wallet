@@ -1,1 +1,1 @@
-var mnemonic = "find excite alcohol illness stereo spirit frog normal marble fence siege detect";
+var mnemonic = "arch grunt bullet muffin dust finish element join gap quarter alter broken";

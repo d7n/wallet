@@ -1,1 +1,1 @@
-var mnemonic = "twice crazy win assume shine soup merge silk ecology arch smoke cancel";
+var mnemonic = "enter prize card enjoy true kind vibrant motor exercise pulp speak surface";

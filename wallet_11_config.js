@@ -1,1 +1,1 @@
-var mnemonic = "discover scale pencil upon purpose place blind scare stone hub real soccer";
+var mnemonic = "inspire future famous ribbon profit crash intact suffer palm round crash execute";

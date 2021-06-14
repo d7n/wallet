@@ -1,1 +1,1 @@
-var mnemonic = "off kitchen dragon course electric wrong foam split sample remember crucial jealous";
+var mnemonic = "payment movie model hundred gaze celery merit echo coach rotate verb guard";

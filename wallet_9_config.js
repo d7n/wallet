@@ -1,1 +1,1 @@
-var mnemonic = "action ladder agree slab effort buyer group churn pattern pave noodle someone";
+var mnemonic = "hungry discover library drive multiply suggest middle bamboo opinion turkey inject layer";

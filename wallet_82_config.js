@@ -1,1 +1,1 @@
-var mnemonic = "program eyebrow badge tongue area expand roast kangaroo argue wrestle choice tiny";
+var mnemonic = "cram inspire ozone ski stick salt coyote way pull attend cargo engine";

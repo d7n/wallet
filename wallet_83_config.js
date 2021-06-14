@@ -1,1 +1,1 @@
-var mnemonic = "brick earn filter soon race wrap pattern earth school mango demise muffin";
+var mnemonic = "achieve token voyage cat tomato also alarm hungry gate focus endorse blind";

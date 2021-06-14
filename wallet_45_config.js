@@ -1,1 +1,1 @@
-var mnemonic = "proud two prefer crumble load gaze car guitar family surge north merge";
+var mnemonic = "arctic actress cry victory rate funny clean wasp stereo toilet endless bicycle";

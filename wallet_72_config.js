@@ -1,1 +1,1 @@
-var mnemonic = "crush improve south install laundry spirit betray tool air boil antenna hamster";
+var mnemonic = "dad enjoy holiday alter blast tortoise step flower town speed tuna gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "misery smoke crumble nation history pet valley toddler salad height mountain dress";
+var mnemonic = "brick raccoon help shaft popular mask wish dirt gas tenant frequent demand";

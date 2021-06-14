@@ -1,1 +1,1 @@
-var mnemonic = "better couch sunny earn cheap web decide when joke liberty gun faculty";
+var mnemonic = "stool stereo initial force habit tunnel bright much truck sweet toy denial";

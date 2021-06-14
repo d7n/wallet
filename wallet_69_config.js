@@ -1,1 +1,1 @@
-var mnemonic = "city hover water rescue reward issue sting green raise pull proud beef";
+var mnemonic = "balcony explain cinnamon federal filter chalk almost daring company magnet pride mean";

@@ -1,1 +1,1 @@
-var mnemonic = "post later notable kingdom west fiber thrive clerk target flee notable ice";
+var mnemonic = "cat spare orient tower easily text cliff client unfair empty country beyond";

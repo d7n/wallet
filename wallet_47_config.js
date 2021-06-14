@@ -1,1 +1,1 @@
-var mnemonic = "mechanic suit wealth accident expect present gauge general imitate entire phrase borrow";
+var mnemonic = "abstract design oyster dove unfold insane surround tube merge uniform boy reveal";

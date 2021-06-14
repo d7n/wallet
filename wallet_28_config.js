@@ -1,1 +1,1 @@
-var mnemonic = "level waste arena pioneer patch speed dilemma debate distance cheese mercy hill";
+var mnemonic = "ghost safe grit hobby fame hybrid beef intact degree cycle better tumble";

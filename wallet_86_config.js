@@ -1,1 +1,1 @@
-var mnemonic = "fetch civil drum check demand purchase piece blouse marriage marble tell dwarf";
+var mnemonic = "picnic noble success advice wheel whip renew open egg indoor amount display";

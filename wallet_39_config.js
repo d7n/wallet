@@ -1,1 +1,1 @@
-var mnemonic = "rural shock assist ignore cricket sock settle tumble kiwi fringe uncover struggle";
+var mnemonic = "bachelor fall glad gentle income powder boring sheriff corn elevator blossom first";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet cat project person during member elder knee avoid whip long hour";
+var mnemonic = "own laundry boring hockey analyst live manual voice bar fiber shell stage";

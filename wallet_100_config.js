@@ -1,1 +1,1 @@
-var mnemonic = "birth acquire eyebrow target develop exhibit calm voyage whisper vibrant west sugar";
+var mnemonic = "enter frozen give seminar body shoot exit hello undo future coffee sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp stereo radio shove flash soul rude modify cat caution able cause";
+var mnemonic = "normal there evolve second forest danger narrow captain trust animal october bus";

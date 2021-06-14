@@ -1,1 +1,1 @@
-var mnemonic = "tell hen easy crisp fault display carry solve year web candy relax";
+var mnemonic = "leg animal alley stock cushion lab differ market member enjoy matrix april";

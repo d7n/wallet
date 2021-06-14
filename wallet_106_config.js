@@ -1,1 +1,1 @@
-var mnemonic = "coin cool ridge snap lobster already ill seed delay lawn pulp merry";
+var mnemonic = "term convince still winter bread silent absent sight dolphin crew holiday veteran";

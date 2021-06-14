@@ -1,1 +1,1 @@
-var mnemonic = "coil cluster limb require cabbage jelly deputy hungry feel mix unfold pear";
+var mnemonic = "powder settle frog leg gaze pull script valid almost prison logic option";

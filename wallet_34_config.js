@@ -1,1 +1,1 @@
-var mnemonic = "marine upper host pelican begin ticket empower sniff rookie hedgehog little inquiry";
+var mnemonic = "episode scissors cluster either maid topic athlete breeze clerk notable arch camera";

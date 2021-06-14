@@ -1,1 +1,1 @@
-var mnemonic = "vapor more lady goddess settle glow lecture team predict champion dilemma glimpse";
+var mnemonic = "industry donor during tuna health pond paper quiz transfer keep barrel roast";

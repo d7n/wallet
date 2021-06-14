@@ -1,1 +1,1 @@
-var mnemonic = "until portion message clip embrace trigger crumble pistol pave inject boss detail";
+var mnemonic = "crisp remember number skirt crowd april course armor any sample add fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy rebuild veteran twin element message cradle lyrics fall leg blame rack";
+var mnemonic = "onion weather term also jelly resource habit number talk depend shine bargain";

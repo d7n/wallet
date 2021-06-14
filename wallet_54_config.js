@@ -1,1 +1,1 @@
-var mnemonic = "drum divorce remind suit patrol nature equip ketchup achieve live car olympic";
+var mnemonic = "famous panther phrase pilot critic myself food organ tonight alley soul speak";

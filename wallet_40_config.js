@@ -1,1 +1,1 @@
-var mnemonic = "pudding fine dry asthma patient sound attend bracket opera over void unfair";
+var mnemonic = "tragic walnut nothing boy path crawl once until face delay grain potato";

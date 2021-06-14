@@ -1,1 +1,1 @@
-var mnemonic = "minor lunar hip law table family capable stumble observe opinion cube annual";
+var mnemonic = "observe walk volcano ladder ticket sand student solar claim leg frequent quiz";

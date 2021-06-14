@@ -1,1 +1,1 @@
-var mnemonic = "over practice lemon snow denial level second front report march push tree";
+var mnemonic = "oppose lyrics oval member aerobic cupboard cage poem jar lesson ladder swap";

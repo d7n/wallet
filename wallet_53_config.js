@@ -1,1 +1,1 @@
-var mnemonic = "yellow tackle multiply unit explain text raccoon practice borrow teach true under";
+var mnemonic = "mandate consider whip quick gate tongue basic gorilla tooth glance noise knock";

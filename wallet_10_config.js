@@ -1,1 +1,1 @@
-var mnemonic = "length you theory salad target napkin dolphin resource digital soap inflict airport";
+var mnemonic = "gate repeat vessel network churn hill honey figure cinnamon annual know basket";

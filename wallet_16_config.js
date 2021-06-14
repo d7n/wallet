@@ -1,1 +1,1 @@
-var mnemonic = "arena mask embark brief analyst belt border deer caution wait claw useless";
+var mnemonic = "type estate where tail order slide provide humor team account rival moral";

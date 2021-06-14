@@ -1,1 +1,1 @@
-var mnemonic = "hobby okay develop result fatigue shiver blanket erode power oblige height device";
+var mnemonic = "innocent jaguar flush capital tragic position motor february image abuse famous hold";

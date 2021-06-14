@@ -1,1 +1,1 @@
-var mnemonic = "bicycle jaguar whale priority teach learn extra filter foil vintage number swift";
+var mnemonic = "fashion jelly burger dose embrace dad okay tribe want amount secret hat";

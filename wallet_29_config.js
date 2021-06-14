@@ -1,1 +1,1 @@
-var mnemonic = "winter twenty away execute dose ensure flash shield pear inherit certain margin";
+var mnemonic = "inside guess name poverty release history cigar forward remain laugh rail empower";

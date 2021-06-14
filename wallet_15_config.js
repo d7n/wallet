@@ -1,1 +1,1 @@
-var mnemonic = "pave crack season gather lunar pair frequent pottery normal away animal love";
+var mnemonic = "film tag illegal arrest engage dolphin build direct actual proud three visual";

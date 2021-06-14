@@ -1,1 +1,1 @@
-var mnemonic = "verb bench clutch pattern cheap idle wish lesson poem gym wheel stock";
+var mnemonic = "sure permit violin cup cabbage you milk bleak seminar traffic eternal thing";

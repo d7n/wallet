@@ -1,1 +1,1 @@
-var mnemonic = "village winner spoil other ladder rural exact ship idea salt hill alone";
+var mnemonic = "accuse bless shock palace grocery east old crop top legal science honey";

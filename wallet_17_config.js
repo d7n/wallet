@@ -1,1 +1,1 @@
-var mnemonic = "clay roast tattoo today garage outer priority fantasy perfect zero canyon dress";
+var mnemonic = "biology athlete river link race avocado month file tenant income phone vague";

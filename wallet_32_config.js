@@ -1,1 +1,1 @@
-var mnemonic = "eternal forget antenna gorilla surround sheriff grunt property route live lab boost";
+var mnemonic = "floor typical lesson again detail fame atom awake credit omit oval elder";

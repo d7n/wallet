@@ -1,1 +1,1 @@
-var mnemonic = "work matter similar joke transfer sight chapter nephew frame expire decline cup";
+var mnemonic = "minor fame lab stereo tattoo enjoy behave print fatal august cover pole";

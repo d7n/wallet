@@ -1,1 +1,1 @@
-var mnemonic = "endorse senior remove ozone drift lobster once crack match visa leaf burst";
+var mnemonic = "zone luggage thumb antenna fiber program plastic pluck wait whip loan benefit";

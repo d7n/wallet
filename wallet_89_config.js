@@ -1,1 +1,1 @@
-var mnemonic = "humor husband park brass winner canal animal cancel loud problem huge term";
+var mnemonic = "taste pluck ceiling wire demise skin seminar multiply more another century album";

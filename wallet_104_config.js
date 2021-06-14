@@ -1,1 +1,1 @@
-var mnemonic = "where meat easily grit girl true spend field online work ethics hollow";
+var mnemonic = "industry early cute memory road favorite clump shiver spend reduce pause meat";

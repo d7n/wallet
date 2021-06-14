@@ -1,1 +1,1 @@
-var mnemonic = "tragic base tomorrow field blush record appear chat bag wrap tortoise survey";
+var mnemonic = "prepare syrup egg design turtle dismiss ancient mountain sustain vapor cradle enough";

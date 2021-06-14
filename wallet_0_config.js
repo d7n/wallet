@@ -1,1 +1,1 @@
-var mnemonic = "nut imitate ability van security sleep under digital ignore hazard spatial plug";
+var mnemonic = "drift gesture change nature claw stock lake lemon sword borrow tank myself";

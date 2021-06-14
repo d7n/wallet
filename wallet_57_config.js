@@ -1,1 +1,1 @@
-var mnemonic = "mushroom supply innocent length nominee drill table retreat trade certain argue nature";
+var mnemonic = "tiger people rack creek census dream salute food flee else garment ranch";

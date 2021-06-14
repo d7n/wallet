@@ -1,1 +1,1 @@
-var mnemonic = "despair behind winter city hunt usual abstract carbon hunt arch leisure search";
+var mnemonic = "liquid lucky twist enroll eternal donate impact idea income adjust target silk";

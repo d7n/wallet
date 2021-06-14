@@ -1,1 +1,1 @@
-var mnemonic = "february type cover grit lend total liberty draw hope enrich draw eight";
+var mnemonic = "work wrap neglect hedgehog wedding degree mask spy long old blue give";

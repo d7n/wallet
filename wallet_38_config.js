@@ -1,1 +1,1 @@
-var mnemonic = "spin draw shine work inch spatial this upon blame yard ivory luggage";
+var mnemonic = "inner pink mouse eternal social monkey soul hover owner notable concert mind";

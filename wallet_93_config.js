@@ -1,1 +1,1 @@
-var mnemonic = "account crop feature diet custom human admit behave vapor sunny risk exile";
+var mnemonic = "buyer burden resemble tobacco east often enemy name dance toward risk cricket";

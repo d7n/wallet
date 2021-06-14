@@ -1,1 +1,1 @@
-var mnemonic = "three small angle brain caught aerobic credit guitar pioneer stem matrix present";
+var mnemonic = "pledge cluster blade indicate invest sing like power bachelor arrange behave method";

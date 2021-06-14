@@ -1,1 +1,1 @@
-var mnemonic = "cancel finger neutral kidney genius sport name album cotton always carry mean";
+var mnemonic = "elevator aware poet escape okay tornado ostrich nation business upset idea deal";

@@ -1,1 +1,1 @@
-var mnemonic = "unable broom scheme awful poet crystal diet orphan butter bargain caught sell";
+var mnemonic = "student clutch spring siren tobacco crater mountain post endless blade base brick";

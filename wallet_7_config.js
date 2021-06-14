@@ -1,1 +1,1 @@
-var mnemonic = "license banana convince harsh video weird puzzle sheriff lamp flame frequent increase";
+var mnemonic = "cargo wife avocado load say buyer tenant crater powder coral pistol rich";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze blanket skate leopard faculty mosquito nerve diary winter husband road online";
+var mnemonic = "shop raw immune couch erupt giant proud ridge exhibit paddle breeze lazy";

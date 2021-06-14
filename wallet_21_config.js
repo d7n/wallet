@@ -1,1 +1,1 @@
-var mnemonic = "dice affair midnight curve casual forum toe fat solve three electric hockey";
+var mnemonic = "frame depth pyramid spread limit million unlock fiber cross move diamond fun";

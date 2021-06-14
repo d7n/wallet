@@ -1,1 +1,1 @@
-var mnemonic = "hope nice tongue income assist argue ahead fossil spoon balcony hundred hidden";
+var mnemonic = "unfold buzz drive circle acoustic pave tongue loud example second rely load";

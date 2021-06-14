@@ -1,1 +1,1 @@
-var mnemonic = "amateur fantasy sphere goddess flight adjust weather nurse glory soon city just";
+var mnemonic = "develop hour purpose begin trend keep bike note water forest luxury garden";

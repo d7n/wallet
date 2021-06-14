@@ -1,1 +1,1 @@
-var mnemonic = "error crash crowd impact puppy furnace green drive hungry genre blood loan";
+var mnemonic = "crash yellow permit sign badge globe token congress toe anger bitter fee";

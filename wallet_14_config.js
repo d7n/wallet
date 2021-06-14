@@ -1,1 +1,1 @@
-var mnemonic = "device ability route puzzle office once despair solar solution gap fault fat";
+var mnemonic = "long drift ocean weather sport twenty crush divert scissors buffalo bamboo adapt";

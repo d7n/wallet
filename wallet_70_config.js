@@ -1,1 +1,1 @@
-var mnemonic = "door faint come beyond inside mansion trim ginger awesome ensure jeans regret";
+var mnemonic = "feel bulb also satisfy accident slot lion tag gas valley return whale";

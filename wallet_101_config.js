@@ -1,1 +1,1 @@
-var mnemonic = "crouch suit flavor tail repair resource bulb visual phrase mammal swing rug";
+var mnemonic = "floor foam carbon ankle coil winter toy cruel erode stool pulse learn";

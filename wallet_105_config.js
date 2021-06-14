@@ -1,1 +1,1 @@
-var mnemonic = "doctor torch artefact bulb quit artist vacant manual nothing spy source quantum";
+var mnemonic = "much rich secret cycle make claim visual join subway whisper vault beyond";

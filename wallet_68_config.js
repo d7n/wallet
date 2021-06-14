@@ -1,1 +1,1 @@
-var mnemonic = "token exhibit flush gesture trip staff ghost copper cheese private welcome edge";
+var mnemonic = "undo noise render donkey stage post cabin share wheat echo make digital";

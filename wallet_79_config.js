@@ -1,1 +1,1 @@
-var mnemonic = "bench various trick exact power avocado comic brand improve frequent elbow leisure";
+var mnemonic = "someone letter deputy vital able please tooth canvas giggle attack upset cargo";
