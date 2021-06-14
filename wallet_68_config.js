@@ -1,1 +1,1 @@
-var mnemonic = "material ivory camera cactus card about report essay brave drop empty slide";
+var mnemonic = "icon start awful radar regret cushion universe cost obscure waste draw merit";

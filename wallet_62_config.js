@@ -1,1 +1,1 @@
-var mnemonic = "satoshi turn gorilla song enough soup despair quarter steak peasant patient curve";
+var mnemonic = "chimney odor pride dilemma sock this cross always genius erosion favorite hobby";

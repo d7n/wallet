@@ -1,1 +1,1 @@
-var mnemonic = "like mix brown clog hybrid leave cancel ladder borrow boat field hat";
+var mnemonic = "wagon resist record allow accuse cereal alter melody inherit door manual core";

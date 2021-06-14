@@ -1,1 +1,1 @@
-var mnemonic = "cousin swallow cube robust security grief drift tiger shift goddess country stick";
+var mnemonic = "category april clown coyote once car guilt mom repeat banana acoustic winner";

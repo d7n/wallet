@@ -1,1 +1,1 @@
-var mnemonic = "firm entry race mixed lazy perfect soda dial say fork demise tiger";
+var mnemonic = "length air foster basket differ life huge rely bargain actress team claw";

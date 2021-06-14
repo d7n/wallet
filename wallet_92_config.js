@@ -1,1 +1,1 @@
-var mnemonic = "mango vendor spell mesh hobby priority script hunt crop fire merge business";
+var mnemonic = "gauge forum unable shift churn update chase trust disagree history glad army";

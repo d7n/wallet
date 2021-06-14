@@ -1,1 +1,1 @@
-var mnemonic = "sample vendor fortune canyon whisper stone honey refuse student rhythm sunset lumber";
+var mnemonic = "kiwi mosquito reunion lyrics image squeeze cruel live cat verb spread glue";

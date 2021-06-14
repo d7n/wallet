@@ -1,1 +1,1 @@
-var mnemonic = "host motor oil lake critic grain voyage orchard evoke fortune toss night";
+var mnemonic = "owner hockey case lonely fix sleep tip pause screen music secret kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "drill staff cabin dizzy cream teach trick sheriff divide exile buyer retire";
+var mnemonic = "ahead nice remove author release monkey visit attend reward trick enable gym";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp cat enough scissors argue theme staff rather walnut burst badge brave";
+var mnemonic = "plastic together health rate concert humble cliff faith super problem dwarf unfair";

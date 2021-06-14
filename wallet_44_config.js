@@ -1,1 +1,1 @@
-var mnemonic = "rocket sunny rail century moon try hair save carry lock exhibit eye";
+var mnemonic = "dolphin include ostrich culture become mask conduct demand cave catch fatal scene";

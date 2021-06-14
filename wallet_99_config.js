@@ -1,1 +1,1 @@
-var mnemonic = "scene dance sail allow unaware narrow blind finger weapon van grace dumb";
+var mnemonic = "barely electric heart own flock page october hazard labor wealth large attitude";

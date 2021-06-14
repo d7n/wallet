@@ -1,1 +1,1 @@
-var mnemonic = "sound minute orient genuine nominee bread join mandate provide pony electric wife";
+var mnemonic = "kitchen jewel since glide whale buffalo arrange interest volume leopard glove own";

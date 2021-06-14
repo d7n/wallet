@@ -1,1 +1,1 @@
-var mnemonic = "buyer stock bargain later wall jacket transfer road dice dial cricket magic";
+var mnemonic = "symbol obtain change tenant mountain mobile lamp digital parade cupboard cupboard day";

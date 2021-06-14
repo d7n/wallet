@@ -1,1 +1,1 @@
-var mnemonic = "bracket scatter parade burden desk venue tape provide blade promote suspect skill";
+var mnemonic = "tissue nest news supply system human father response bracket grunt inmate indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate express risk cancel claw buyer sure oxygen keen thing lesson verb";
+var mnemonic = "famous stadium chaos among awake fork segment cabbage two sheriff limb barely";

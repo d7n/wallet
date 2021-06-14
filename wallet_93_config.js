@@ -1,1 +1,1 @@
-var mnemonic = "undo buzz tomato office nominee ridge delay crime orphan soldier sketch pair";
+var mnemonic = "harbor auto fade cricket voyage promote science suspect detail page vicious royal";

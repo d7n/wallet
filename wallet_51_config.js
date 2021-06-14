@@ -1,1 +1,1 @@
-var mnemonic = "summer honey main magic push hard casino chicken region helmet gallery actor";
+var mnemonic = "rib celery dismiss category hood sphere ethics maid race already typical cloth";

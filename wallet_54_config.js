@@ -1,1 +1,1 @@
-var mnemonic = "element gadget major eagle room memory party armed protect melt balcony unique";
+var mnemonic = "maple near rebuild artefact patrol share clean matter girl wrist awful develop";

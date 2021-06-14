@@ -1,1 +1,1 @@
-var mnemonic = "decide pause useful egg blur giant coral glide pond village truly dynamic";
+var mnemonic = "salute crumble differ control cry garment tuition noble ostrich fiber dirt deposit";

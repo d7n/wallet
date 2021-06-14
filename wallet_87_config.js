@@ -1,1 +1,1 @@
-var mnemonic = "bamboo chef festival cloth fragile explain shop verb genius side unable winner";
+var mnemonic = "bracket project relief reason supreme small volume siren urge exhibit loud artefact";

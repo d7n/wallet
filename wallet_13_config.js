@@ -1,1 +1,1 @@
-var mnemonic = "million physical panther noble dune wool top junk flee subway ginger actor";
+var mnemonic = "peace gentle trim side pond pretty dish slot treat artist nothing system";

@@ -1,1 +1,1 @@
-var mnemonic = "impose toast diet bamboo warrior engage orbit chalk victory mass nasty match";
+var mnemonic = "crazy fork name alarm satisfy loan grain salad jelly century give kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "health kiss window clip giggle few night various dwarf baby act flag";
+var mnemonic = "define soup feature margin spirit gauge donor oven foster entire industry over";

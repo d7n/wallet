@@ -1,1 +1,1 @@
-var mnemonic = "knife torch carry predict tackle flight whale discover sadness pig helmet dentist";
+var mnemonic = "symbol library mandate pond solid mail inform praise stay rack blush broken";

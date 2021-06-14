@@ -1,1 +1,1 @@
-var mnemonic = "staff tissue prepare cup number joy surge spray outer north net fuel";
+var mnemonic = "busy novel science weapon organ violin cluster story cigar resource solve rib";

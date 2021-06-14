@@ -1,1 +1,1 @@
-var mnemonic = "truly inspire tube dance spatial pig abstract fresh grace pipe essence warrior";
+var mnemonic = "work caution dawn lounge broken warfare farm essay wolf album exotic provide";

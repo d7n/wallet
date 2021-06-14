@@ -1,1 +1,1 @@
-var mnemonic = "sun dwarf author fault frown edit sleep reveal car october vast ship";
+var mnemonic = "piano cycle floor beef oxygen dentist mechanic furnace fitness jaguar general beach";

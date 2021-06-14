@@ -1,1 +1,1 @@
-var mnemonic = "video auction zero buyer road account weather opera double number twin demise";
+var mnemonic = "material hen nut seek wing swarm address quiz ghost miracle hub table";

@@ -1,1 +1,1 @@
-var mnemonic = "author truth sound shoe give evolve connect grace mirror oxygen nice come";
+var mnemonic = "fantasy answer tongue total lounge multiply chair pave device fit swear father";

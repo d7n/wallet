@@ -1,1 +1,1 @@
-var mnemonic = "honey bonus prosper excuse wagon catch name opera input warrior home mechanic";
+var mnemonic = "need oyster staff message air shy unusual useless gentle cluster two nurse";

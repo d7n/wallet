@@ -1,1 +1,1 @@
-var mnemonic = "token dinner emotion prosper badge remind smooth toss chimney zone patrol calm";
+var mnemonic = "frog tenant antique throw effort decade kidney ordinary sense enroll animal verb";

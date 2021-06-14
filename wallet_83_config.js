@@ -1,1 +1,1 @@
-var mnemonic = "clarify meat climb because top attract feed purchase latin purse false jeans";
+var mnemonic = "food dwarf behind verb anxiety monkey south sign dress fly unaware deer";

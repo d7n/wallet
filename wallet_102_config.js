@@ -1,1 +1,1 @@
-var mnemonic = "spell dial senior farm town smart ill traffic oblige zoo word push";
+var mnemonic = "royal train admit accuse reform dish frog success melt start view shiver";

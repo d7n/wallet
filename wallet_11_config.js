@@ -1,1 +1,1 @@
-var mnemonic = "express fade input safe release mass clip gorilla person assault will exhibit";
+var mnemonic = "shaft icon vendor awkward spirit title need matter oval act salt burst";

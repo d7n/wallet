@@ -1,1 +1,1 @@
-var mnemonic = "pony trust section false excess merge ticket toe federal twin column pill";
+var mnemonic = "fashion copy super discover enlist survey shy awful guard coconut clip health";

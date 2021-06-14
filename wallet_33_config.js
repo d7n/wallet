@@ -1,1 +1,1 @@
-var mnemonic = "palm venture code another payment voyage other squirrel hood trend develop mushroom";
+var mnemonic = "enrich spirit prize quote bike spawn submit reward island armed clip view";

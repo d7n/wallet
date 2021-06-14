@@ -1,1 +1,1 @@
-var mnemonic = "riot alpha canoe urban horn weekend history salad mad farm inner author";
+var mnemonic = "object turn brown once grit country zebra flash share inherit orient render";

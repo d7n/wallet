@@ -1,1 +1,1 @@
-var mnemonic = "ritual wave firm fan office proud embody vendor dad during scrub ridge";
+var mnemonic = "hover jelly repeat gloom okay universe benefit sweet frown suspect twin violin";

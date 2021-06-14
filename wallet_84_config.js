@@ -1,1 +1,1 @@
-var mnemonic = "mule between essay turtle hurt food senior divorce tide item enforce page";
+var mnemonic = "disorder armed cup bid steel ceiling jazz frown relief pupil address ridge";

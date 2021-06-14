@@ -1,1 +1,1 @@
-var mnemonic = "dove place hair escape buyer keen thing kid dial barrel another toast";
+var mnemonic = "aim area invite amount force token turkey dance creek peasant ride noble";

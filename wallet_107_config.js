@@ -1,1 +1,1 @@
-var mnemonic = "electric already assault soap armor lunch across chunk era gas idle naive";
+var mnemonic = "account allow hidden close domain spawn view use city spider finger gas";

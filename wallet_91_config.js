@@ -1,1 +1,1 @@
-var mnemonic = "hamster mother organ involve pitch kitchen riot moral rule solve object sock";
+var mnemonic = "feed praise roast join purse trumpet lab purchase hurt drama test swing";

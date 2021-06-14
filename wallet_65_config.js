@@ -1,1 +1,1 @@
-var mnemonic = "imitate quantum tray business salt steak voice suggest message blame market height";
+var mnemonic = "embody antique display orphan harbor smile scale peasant tattoo scale general repeat";

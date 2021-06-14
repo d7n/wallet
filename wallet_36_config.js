@@ -1,1 +1,1 @@
-var mnemonic = "talk elbow assist manual very amazing way license social join craft lady";
+var mnemonic = "garage abstract render suffer mammal cupboard chat figure stadium assume cat rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "turkey arch fan trap before rather ecology virus traffic boy tilt dinosaur";
+var mnemonic = "grit network impulse hammer blood practice little estate remain zone wonder sheriff";

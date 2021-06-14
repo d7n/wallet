@@ -1,1 +1,1 @@
-var mnemonic = "outer bamboo wall valid pave join game grief fluid team sponsor cube";
+var mnemonic = "rule love unique icon piano chat cradle burden exit under giraffe company";

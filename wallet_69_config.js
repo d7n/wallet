@@ -1,1 +1,1 @@
-var mnemonic = "finish uphold measure someone chicken gauge couch bid thunder dinosaur physical cheap";
+var mnemonic = "excess twin around glimpse struggle used correct harsh copy coil wheel science";

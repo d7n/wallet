@@ -1,1 +1,1 @@
-var mnemonic = "pottery fence vehicle dose sister stock session mesh bonus toward card disease";
+var mnemonic = "around essence unveil soap later dove arena police table woman century stove";

@@ -1,1 +1,1 @@
-var mnemonic = "brass yard ball napkin wine city physical egg humble fan save dignity";
+var mnemonic = "blossom someone question scan dolphin sketch home start cream feel circle road";

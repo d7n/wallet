@@ -1,1 +1,1 @@
-var mnemonic = "easy miracle panther engine pumpkin mouse angry under nephew clip nasty furnace";
+var mnemonic = "render ancient recipe axis vacuum wood super panic cactus ring require capital";

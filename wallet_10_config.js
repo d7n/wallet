@@ -1,1 +1,1 @@
-var mnemonic = "nasty weapon notable battle engine giant swamp claim bright problem casino lizard";
+var mnemonic = "mirror once poem globe judge circle firm afford advance dish fan lock";

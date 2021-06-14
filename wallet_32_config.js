@@ -1,1 +1,1 @@
-var mnemonic = "insect autumn fluid gadget unhappy exile advice number capable twice violin type";
+var mnemonic = "vault permit category chalk capable fresh gym onion immune cheese cupboard circle";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt start blanket viable habit owner drop phone actual hole extra peasant";
+var mnemonic = "elder sweet motor bounce infant arrange exhaust discover patch pole clock town";

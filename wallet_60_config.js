@@ -1,1 +1,1 @@
-var mnemonic = "forum cup chalk response scrub clerk cup asthma rare crisp country focus";
+var mnemonic = "domain shift milk fluid adult point step virus ordinary wish observe horse";

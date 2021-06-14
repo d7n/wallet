@@ -1,1 +1,1 @@
-var mnemonic = "slender muscle nuclear offer earth expose unveil snake dose predict convince slender";
+var mnemonic = "assault clock various interest race beyond excess royal cash custom lounge ivory";

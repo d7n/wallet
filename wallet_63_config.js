@@ -1,1 +1,1 @@
-var mnemonic = "traffic resource term there illness jaguar spare judge double peasant poem twenty";
+var mnemonic = "enter extend flat picnic hint zero slot observe east breeze there fruit";

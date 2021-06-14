@@ -1,1 +1,1 @@
-var mnemonic = "vessel picnic major number net tortoise nose patch tower mean connect transfer";
+var mnemonic = "unable across front knock drill little swarm predict black slight essay deputy";

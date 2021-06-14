@@ -1,1 +1,1 @@
-var mnemonic = "viable vendor dignity isolate beach ball other course coyote usual steak limb";
+var mnemonic = "coffee core hundred fetch timber antenna analyst senior funny canoe glow rhythm";

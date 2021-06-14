@@ -1,1 +1,1 @@
-var mnemonic = "crack area chat flush differ rural place dust human sweet gather citizen";
+var mnemonic = "screen genre display glare short twin talk night talent image dentist afford";

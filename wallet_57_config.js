@@ -1,1 +1,1 @@
-var mnemonic = "typical pelican cancel sentence girl pony keen napkin frog speak friend panel";
+var mnemonic = "old shock cook yard outer pole skin normal survey engine about rubber";

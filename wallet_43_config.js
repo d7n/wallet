@@ -1,1 +1,1 @@
-var mnemonic = "sudden idea scheme smoke great route minor ancient frozen december lyrics attitude";
+var mnemonic = "abandon purity crunch early decorate time vacant own announce author layer normal";

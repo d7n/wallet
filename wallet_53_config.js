@@ -1,1 +1,1 @@
-var mnemonic = "coach lab scissors cook mad pencil rookie blast beauty rhythm head never";
+var mnemonic = "moral divorce clock snow pledge explain vast token unit mobile fiction mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel energy force small pill price easy decide crater health smart current";
+var mnemonic = "excess donate theme disagree pole improve hungry survey shallow negative faint boss";

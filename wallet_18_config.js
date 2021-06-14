@@ -1,1 +1,1 @@
-var mnemonic = "sorry kid near bean news country whale market someone cash cause cushion";
+var mnemonic = "acoustic broccoli unlock razor knee supply rabbit agree achieve noise visual affair";

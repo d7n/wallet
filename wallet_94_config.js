@@ -1,1 +1,1 @@
-var mnemonic = "gospel dolphin foster baby swear camp spring vast elephant bitter oil local";
+var mnemonic = "else wonder hover cement ill write enter cycle book tail there fork";

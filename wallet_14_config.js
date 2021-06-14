@@ -1,1 +1,1 @@
-var mnemonic = "sad tuna fatigue patrol cruel cloud monkey else music clay urge explain";
+var mnemonic = "provide wrong switch guard recall egg visual tortoise wheel humor music amateur";

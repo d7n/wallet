@@ -1,1 +1,1 @@
-var mnemonic = "gas pilot friend apology vapor woman tomato same junk renew suffer magnet";
+var mnemonic = "net scissors valve garage demand friend alien notice basic nominee melody scare";

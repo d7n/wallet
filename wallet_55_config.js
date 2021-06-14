@@ -1,1 +1,1 @@
-var mnemonic = "profit swallow grunt void forward injury budget promote run treat whale blind";
+var mnemonic = "over around royal absorb road dinner toward alter story frown drop island";

@@ -1,1 +1,1 @@
-var mnemonic = "kite another cook analyst wine blouse this genuine agree parrot spatial entry";
+var mnemonic = "knee reduce cave all artefact appear library develop unveil flavor inside govern";

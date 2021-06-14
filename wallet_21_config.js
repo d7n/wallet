@@ -1,1 +1,1 @@
-var mnemonic = "clump library envelope juice peanut buffalo misery move elegant limit clog inside";
+var mnemonic = "south vacuum satoshi extra afraid cheese promote math canoe wonder nature live";

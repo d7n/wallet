@@ -1,1 +1,1 @@
-var mnemonic = "deny utility armed mistake crumble apology announce chimney truck goose fence flower";
+var mnemonic = "stool fancy shallow nurse fortune trash capital gown loyal lab adapt depth";

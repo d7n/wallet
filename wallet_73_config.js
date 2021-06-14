@@ -1,1 +1,1 @@
-var mnemonic = "kingdom clever hotel right interest pluck laundry tenant muffin satoshi enhance grow";
+var mnemonic = "loan relax visual sail furnace harbor degree essence pear promote melt hire";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle ceiling conduct donkey twin soup forest type clap stem gloom lumber";
+var mnemonic = "close fragile mushroom wash monkey bitter image hover pride about wool crush";

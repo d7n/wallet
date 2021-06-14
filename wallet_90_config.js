@@ -1,1 +1,1 @@
-var mnemonic = "science entry grab hawk inner trip auction wink brand anchor bless render";
+var mnemonic = "retreat situate vicious warm arrow nephew aunt security witness ivory blossom lunch";

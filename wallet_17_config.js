@@ -1,1 +1,1 @@
-var mnemonic = "alert tired erupt token prosper hunt ready arrow soup neglect wash same";
+var mnemonic = "hope family craft report motion bracket elite asset moral fog surface erosion";

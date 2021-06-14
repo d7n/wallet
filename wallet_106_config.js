@@ -1,1 +1,1 @@
-var mnemonic = "inform silk gather rack call stone question loyal alcohol nose butter daughter";
+var mnemonic = "heavy minute announce globe clump glance dad bitter pledge blush melt infant";

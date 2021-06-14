@@ -1,1 +1,1 @@
-var mnemonic = "pudding hundred cousin length orchard make twice wisdom response mutual enemy library";
+var mnemonic = "morning shock inspire decide rebuild letter burst twenty charge chimney broccoli install";

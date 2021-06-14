@@ -1,1 +1,1 @@
-var mnemonic = "fork tiny cross assist team crush cruise group blanket device music enlist";
+var mnemonic = "accident toss design basic mule correct bonus depend dentist happy employ myth";

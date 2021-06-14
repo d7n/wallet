@@ -1,1 +1,1 @@
-var mnemonic = "assault giraffe circle skull timber away title chapter adult job hybrid shallow";
+var mnemonic = "extra balance army finish own grace pen cigar attend modify dwarf able";

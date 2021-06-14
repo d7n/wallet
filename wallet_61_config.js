@@ -1,1 +1,1 @@
-var mnemonic = "stable angry donkey crazy pair envelope initial captain antique north know tray";
+var mnemonic = "jacket basket ankle galaxy seat virus merry angle because mule sure clock";

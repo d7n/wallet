@@ -1,1 +1,1 @@
-var mnemonic = "breeze labor hole because warm vicious viable web urge shrug artist foil";
+var mnemonic = "wheat guess need tide liberty strategy child frequent include angle conduct captain";

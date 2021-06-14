@@ -1,1 +1,1 @@
-var mnemonic = "biology shell carbon urge fire ginger ignore kit praise engine strike shop";
+var mnemonic = "shrimp game narrow spare village frozen upper bone solid copy catalog test";

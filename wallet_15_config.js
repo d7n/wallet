@@ -1,1 +1,1 @@
-var mnemonic = "mind setup song soon half tip secret auto office tell tent organ";
+var mnemonic = "cheese slight similar robust guard tell tornado sunny web need pizza fall";

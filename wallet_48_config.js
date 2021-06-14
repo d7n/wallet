@@ -1,1 +1,1 @@
-var mnemonic = "hobby target damp announce snake culture spider regret fashion oil term copy";
+var mnemonic = "now crisp logic emotion mushroom earn foam cause poverty flower toe tooth";

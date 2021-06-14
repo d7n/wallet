@@ -1,1 +1,1 @@
-var mnemonic = "trash romance knee also crop desk state sustain ski illegal luggage arrest";
+var mnemonic = "round rail outer stock camera erosion odor imitate length cat juice shoe";

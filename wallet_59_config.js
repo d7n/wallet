@@ -1,1 +1,1 @@
-var mnemonic = "web slow ensure size athlete win hello interest awake crumble sphere artist";
+var mnemonic = "scale nerve scale brother assault affair cactus refuse blur carbon defense region";

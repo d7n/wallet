@@ -1,1 +1,1 @@
-var mnemonic = "spirit notice meat sugar cinnamon donate swarm topple cupboard orient genius regular";
+var mnemonic = "topic blue scan blouse steak faint surround eight mixture knock rice evoke";

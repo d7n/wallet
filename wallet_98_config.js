@@ -1,1 +1,1 @@
-var mnemonic = "tumble use parade wheat today panda shaft detail obscure ill feed guess";
+var mnemonic = "genius hire ship language enable song ostrich basic learn update theme scissors";

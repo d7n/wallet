@@ -1,1 +1,1 @@
-var mnemonic = "citizen divorce page beef dinosaur thank hover pause camp earth error fatal";
+var mnemonic = "depend topic someone today era rural penalty town wage neglect crack lunar";

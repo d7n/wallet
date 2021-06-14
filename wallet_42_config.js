@@ -1,1 +1,1 @@
-var mnemonic = "jar creek text bind when spin boost piece order obey tattoo emotion";
+var mnemonic = "brain leave road spot room pen shift library maid ranch tube unlock";

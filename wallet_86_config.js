@@ -1,1 +1,1 @@
-var mnemonic = "floor parrot boil reject zoo unusual rival loud battle sleep choice dragon";
+var mnemonic = "excess where use lounge hip stove spin all crazy sibling robust energy";

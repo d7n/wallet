@@ -1,1 +1,1 @@
-var mnemonic = "filter oppose exchange saddle shift box deny fall three bunker clay loop";
+var mnemonic = "copy code reopen lunar together use mail vital deal cotton sample echo";

@@ -1,1 +1,1 @@
-var mnemonic = "own final panel ocean balcony burger review carry tone melody tumble magic";
+var mnemonic = "siren silk weird inner wide oven modify uphold seven salute profit tuition";

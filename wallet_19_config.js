@@ -1,1 +1,1 @@
-var mnemonic = "fringe useful remove blast clap question kiwi joke assault link dad decline";
+var mnemonic = "glare one puzzle bamboo sword use manage zone subway box journey glass";

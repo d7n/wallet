@@ -1,1 +1,1 @@
-var mnemonic = "alley sauce poem tail neck holiday dirt audit earth season sting post";
+var mnemonic = "twice reopen pencil mango become menu dirt book plunge lyrics fame raw";

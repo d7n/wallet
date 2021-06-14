@@ -1,1 +1,1 @@
-var mnemonic = "armor zone jaguar remember tree canyon keep merge clap ramp phone vehicle";
+var mnemonic = "verify page hint grace diet autumn rose dry jewel angry youth sword";

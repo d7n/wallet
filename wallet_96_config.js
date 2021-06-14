@@ -1,1 +1,1 @@
-var mnemonic = "summer cloth keep material element web rabbit clock phone involve picnic disagree";
+var mnemonic = "aim permit express long artwork vague pupil play renew kingdom asset lizard";
