@@ -1,1 +1,1 @@
-var mnemonic = "door obscure rent provide scene crunch toward river ginger shadow pumpkin wink";
+var mnemonic = "artwork element police sure obtain donkey quality inject develop base strong decline";

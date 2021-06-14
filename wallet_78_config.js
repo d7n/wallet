@@ -1,1 +1,1 @@
-var mnemonic = "distance idle wrestle satoshi street lawn brain orphan napkin sell subway maze";
+var mnemonic = "size idea define cat spirit favorite ivory void orient goddess loyal flash";

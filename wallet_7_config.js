@@ -1,1 +1,1 @@
-var mnemonic = "season either payment casual food budget senior acoustic wedding exhibit person trip";
+var mnemonic = "destroy eye common solve outer purse media amount elder voyage tomato write";

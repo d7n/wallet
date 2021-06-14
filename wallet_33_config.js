@@ -1,1 +1,1 @@
-var mnemonic = "item decide rain glide shop pull hybrid tired broom picture fatigue steel";
+var mnemonic = "boil exclude office salmon require peace tray under athlete achieve van order";

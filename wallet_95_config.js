@@ -1,1 +1,1 @@
-var mnemonic = "veteran supreme stock brush inhale fence inmate kangaroo mesh drill normal weather";
+var mnemonic = "snake rail roof boil theme surface state duck fringe blanket regret wisdom";

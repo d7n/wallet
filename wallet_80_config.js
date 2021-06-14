@@ -1,1 +1,1 @@
-var mnemonic = "coyote square dream grit garbage inflict frame panel attend spice again sugar";
+var mnemonic = "enter mammal scrub author science attack only bus beach flee debate length";

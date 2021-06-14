@@ -1,1 +1,1 @@
-var mnemonic = "liberty this ocean exist rate hedgehog team chuckle casual puzzle involve actor";
+var mnemonic = "funny average water latin drip rare place crash gospel pond harbor grain";

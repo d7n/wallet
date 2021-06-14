@@ -1,1 +1,1 @@
-var mnemonic = "budget soul two barely bridge pitch diesel state audit reform mutual acoustic";
+var mnemonic = "release hockey country misery trophy moon pitch winner walnut hand turkey mango";

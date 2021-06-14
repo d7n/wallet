@@ -1,1 +1,1 @@
-var mnemonic = "teach exist maze live mobile federal session barely side recycle whip local";
+var mnemonic = "poet essay leave cheap option zero flush floor select stumble upper mosquito";

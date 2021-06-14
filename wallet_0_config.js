@@ -1,1 +1,1 @@
-var mnemonic = "patrol dismiss turkey address scatter fat razor faith keen saddle juice vault";
+var mnemonic = "mind way lemon bone salad farm wheat display actress snake arm about";

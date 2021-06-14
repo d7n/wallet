@@ -1,1 +1,1 @@
-var mnemonic = "topple yard master broken success coffee depend inspire glove knee ribbon frown";
+var mnemonic = "exit couple denial bean cry upset come explain host begin prevent popular";

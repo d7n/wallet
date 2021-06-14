@@ -1,1 +1,1 @@
-var mnemonic = "smart endorse crucial purchase mix man habit farm rebuild file amazing nest";
+var mnemonic = "dog negative siren rotate three donate ivory alone festival uphold song tent";

@@ -1,1 +1,1 @@
-var mnemonic = "safe album major party empower category civil mass giggle purse enrich blade";
+var mnemonic = "demise poem thumb transfer adjust glad private sell churn school fuel admit";

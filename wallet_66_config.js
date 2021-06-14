@@ -1,1 +1,1 @@
-var mnemonic = "love beyond enter galaxy ginger bleak huge tide region reason buffalo feed";
+var mnemonic = "flat crystal scrub cause identify worry salmon cupboard fabric hidden few slam";

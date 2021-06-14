@@ -1,1 +1,1 @@
-var mnemonic = "loyal teach erupt feel drink hawk main razor trumpet olympic absurd gather";
+var mnemonic = "plug depth steel service knee runway purpose plunge argue clerk bird exclude";

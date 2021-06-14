@@ -1,1 +1,1 @@
-var mnemonic = "dawn return grunt divorce east devote range work more flight sphere rubber";
+var mnemonic = "snack message genre lounge spawn ceiling flush random gold school connect drip";

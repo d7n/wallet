@@ -1,1 +1,1 @@
-var mnemonic = "bitter slight junk snap okay sudden figure insect favorite motion crisp hill";
+var mnemonic = "recycle faculty fly large fiscal critic letter insect session myth point sadness";

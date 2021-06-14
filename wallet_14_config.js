@@ -1,1 +1,1 @@
-var mnemonic = "relief fly verb gown soon aspect face rival chicken easy expand hawk";
+var mnemonic = "penalty fly illness divide slogan inherit remain dose bird evolve rate outside";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin pretty dish maze dash gym glide rough mixed hedgehog frame cry";
+var mnemonic = "fog search decade balcony cradle echo garbage rabbit measure inquiry orient kitchen";

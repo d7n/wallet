@@ -1,1 +1,1 @@
-var mnemonic = "funny green dirt fatigue talk car amount must mobile riot deposit true";
+var mnemonic = "price dwarf receive bitter odor grit essence forward kitchen lunar garage letter";

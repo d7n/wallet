@@ -1,1 +1,1 @@
-var mnemonic = "tiger mimic select sea style filter enforce height liberty soap mistake author";
+var mnemonic = "then chef weird engage fuel plunge brand afford this jungle switch interest";

@@ -1,1 +1,1 @@
-var mnemonic = "space text board attitude valid okay fix distance forum match buffalo profit";
+var mnemonic = "thrive arm travel edit rival arrow attack grunt west gauge scissors stem";

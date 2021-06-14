@@ -1,1 +1,1 @@
-var mnemonic = "web coconut inject slice sponsor know waste tiny mom resemble hundred basic";
+var mnemonic = "exclude drill pull skin today outer thumb six note animal sword library";

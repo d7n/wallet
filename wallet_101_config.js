@@ -1,1 +1,1 @@
-var mnemonic = "edit throw lounge police maximum fence charge absent column repair category craft";
+var mnemonic = "perfect cycle disorder thumb hip phrase solid deer express strategy nation crime";

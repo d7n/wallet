@@ -1,1 +1,1 @@
-var mnemonic = "law brass crawl slide course traffic skill jewel radio bracket more slab";
+var mnemonic = "way trim thank shift right erupt inner peace accident crop uphold term";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone caution stumble shy struggle junk paper rebuild quick field digital dad";
+var mnemonic = "comic pupil dumb myself food stay minute tuition penalty nothing stairs alley";

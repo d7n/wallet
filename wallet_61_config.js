@@ -1,1 +1,1 @@
-var mnemonic = "chef frown kick project gather claim soft pupil birth modify trade bird";
+var mnemonic = "mom inhale document frequent scheme hole learn brown diet corn horror noodle";

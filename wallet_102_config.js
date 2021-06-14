@@ -1,1 +1,1 @@
-var mnemonic = "wash stem task once visit voice equip away prison force wonder enforce";
+var mnemonic = "hollow stage slender uniform brown shoot oyster desert doctor try flight joke";

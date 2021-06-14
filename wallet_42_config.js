@@ -1,1 +1,1 @@
-var mnemonic = "vessel math talent assist wear planet flight business spatial today truck frost";
+var mnemonic = "page toddler where rookie put copy repair filter speak magnet forest blue";

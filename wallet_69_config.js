@@ -1,1 +1,1 @@
-var mnemonic = "twist never domain fitness regular six label blouse surprise brisk sport awkward";
+var mnemonic = "soft pilot strike lens artist slender tired neutral fashion arena loyal earth";

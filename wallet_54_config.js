@@ -1,1 +1,1 @@
-var mnemonic = "dust junior tail brass beef flip desk effort dignity devote satisfy master";
+var mnemonic = "debate grant cover chef replace season price clarify predict swamp shock tired";

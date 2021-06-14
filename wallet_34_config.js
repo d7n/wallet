@@ -1,1 +1,1 @@
-var mnemonic = "thank alone kiwi pattern scale east obvious ready quit green tired unhappy";
+var mnemonic = "evidence embrace chaos tree bachelor humble fringe fossil achieve amazing chef security";

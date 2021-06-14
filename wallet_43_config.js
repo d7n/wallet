@@ -1,1 +1,1 @@
-var mnemonic = "case primary crop arrest meadow fee cool decade chapter chat tornado hungry";
+var mnemonic = "stock age orchard open elbow vanish robust sunny illness develop guilt resist";

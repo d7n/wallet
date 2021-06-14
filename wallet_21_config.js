@@ -1,1 +1,1 @@
-var mnemonic = "radar manual ten beyond spin lion acid feel there glove paper mass";
+var mnemonic = "festival rule wet damp gorilla victory brave network maze file such rapid";

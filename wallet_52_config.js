@@ -1,1 +1,1 @@
-var mnemonic = "depend another business document kiss genuine remind immense fruit siege timber rare";
+var mnemonic = "remind acquire crush extra loud install oppose capital hybrid spoon shrimp divide";

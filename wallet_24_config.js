@@ -1,1 +1,1 @@
-var mnemonic = "bunker copper task arrive course essence elder escape grit nest school twin";
+var mnemonic = "follow dice math hotel wise hero indicate arrive swear price media daring";

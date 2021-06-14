@@ -1,1 +1,1 @@
-var mnemonic = "media endorse myth laundry lift excuse gorilla gospel sausage when emerge lobster";
+var mnemonic = "permit repeat work ranch deposit depend length robust crane clock hazard account";

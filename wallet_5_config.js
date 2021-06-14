@@ -1,1 +1,1 @@
-var mnemonic = "nation chef lend rude route damage fuel planet quantum problem cube account";
+var mnemonic = "protect surprise year parade ghost provide grain lemon sunny increase clip mango";

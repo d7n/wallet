@@ -1,1 +1,1 @@
-var mnemonic = "seek grant obscure column weasel case guilt okay atom all forest save";
+var mnemonic = "sudden soldier burst buffalo night exhaust patch narrow often help mesh debris";

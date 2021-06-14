@@ -1,1 +1,1 @@
-var mnemonic = "rescue gloom divorce alley august siege aunt advice blossom ankle word domain";
+var mnemonic = "include party tape female door critic wild similar essay gospel fever major";

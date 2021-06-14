@@ -1,1 +1,1 @@
-var mnemonic = "tank cluster process desk excuse body goose upset length member wall adult";
+var mnemonic = "trap teach lab laugh eager armed elbow slide occur expire matrix prosper";

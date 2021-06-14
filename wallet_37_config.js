@@ -1,1 +1,1 @@
-var mnemonic = "electric ecology bright gorilla truth copper erase rain truth hood violin zone";
+var mnemonic = "antenna payment enable blood witness hover edge demand lunch pledge tunnel enrich";

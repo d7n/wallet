@@ -1,1 +1,1 @@
-var mnemonic = "feel dinner fiber electric atom label search eager raven elder wood torch";
+var mnemonic = "gym tribe shadow badge venue razor salmon movie apart wise loan amount";

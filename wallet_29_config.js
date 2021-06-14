@@ -1,1 +1,1 @@
-var mnemonic = "affair capable cruel clay cousin chicken hover finger mirror during find material";
+var mnemonic = "coyote focus grocery reform voice yard pool focus soul version tumble say";

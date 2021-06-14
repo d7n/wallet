@@ -1,1 +1,1 @@
-var mnemonic = "input black benefit grow quantum peace duty pass prepare pluck blanket remain";
+var mnemonic = "diesel spawn report update regret tackle public unaware inside lonely umbrella exile";

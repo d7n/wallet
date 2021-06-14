@@ -1,1 +1,1 @@
-var mnemonic = "off agree left park mother torch gesture when chat invest sniff possible";
+var mnemonic = "portion curious destroy hospital enable until neck word impose extra ski morning";

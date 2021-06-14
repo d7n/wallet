@@ -1,1 +1,1 @@
-var mnemonic = "fossil hire below come version install arrest carpet denial logic senior jelly";
+var mnemonic = "essay road slide senior snack fever spoil legal half brown rug bulb";

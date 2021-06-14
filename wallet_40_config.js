@@ -1,1 +1,1 @@
-var mnemonic = "sadness net dust remain vivid moment guess teach when ball syrup impulse";
+var mnemonic = "diary favorite fall quiz random trade inhale funny border delay culture shoe";

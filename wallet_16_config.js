@@ -1,1 +1,1 @@
-var mnemonic = "unfair fee filter patch express test ensure giggle display margin toss shop";
+var mnemonic = "pistol grunt virtual target fee uphold virus east bulk tomorrow kangaroo fabric";

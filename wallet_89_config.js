@@ -1,1 +1,1 @@
-var mnemonic = "action blue pear squeeze endorse extra okay speed mountain wave section island";
+var mnemonic = "boring october melody spatial vicious normal duty taste climb club divert search";

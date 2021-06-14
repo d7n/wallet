@@ -1,1 +1,1 @@
-var mnemonic = "mixed foot inject chicken rule prefer sleep draft rigid unaware service hello";
+var mnemonic = "together adapt gospel collect advance obvious ignore exotic fatigue novel innocent expect";

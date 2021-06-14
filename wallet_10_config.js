@@ -1,1 +1,1 @@
-var mnemonic = "van gather skill aware recipe sure desk great hurry enough hawk injury";
+var mnemonic = "ski oak employ scene timber test mask column bracket priority total anger";

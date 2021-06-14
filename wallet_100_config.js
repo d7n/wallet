@@ -1,1 +1,1 @@
-var mnemonic = "service turkey region collect fog lesson lunch visit cat empower control liberty";
+var mnemonic = "one jeans egg subject vacant yard future asset symptom arch combine dash";

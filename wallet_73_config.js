@@ -1,1 +1,1 @@
-var mnemonic = "unknown chronic shadow grit dove fancy enrich script tumble cream rough have";
+var mnemonic = "endless dawn sibling cycle glare sort old toe ignore luggage plate actual";

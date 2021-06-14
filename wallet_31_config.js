@@ -1,1 +1,1 @@
-var mnemonic = "federal goose sun pitch excite arch promote galaxy concert pass wide fringe";
+var mnemonic = "horror cost camera episode lyrics help major useful clump short judge flavor";

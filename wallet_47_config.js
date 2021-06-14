@@ -1,1 +1,1 @@
-var mnemonic = "tip confirm poem express supply loop damage pepper seven planet green race";
+var mnemonic = "village banana they foil wrong month save track aisle develop pass ready";

@@ -1,1 +1,1 @@
-var mnemonic = "menu model margin churn ensure spy roof buzz usual rule always oval";
+var mnemonic = "evolve salon disorder fantasy erosion isolate craft blame million assist super grant";

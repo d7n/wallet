@@ -1,1 +1,1 @@
-var mnemonic = "rose ritual protect agent clump awesome narrow virus forest idle idle dirt";
+var mnemonic = "assist oppose cupboard palace dawn plastic disorder raise find exact humor lemon";

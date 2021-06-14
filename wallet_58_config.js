@@ -1,1 +1,1 @@
-var mnemonic = "cart slush eager bring popular negative blame afford best dance typical fox";
+var mnemonic = "cactus glue fluid identify hazard cabin caution area scout angle neglect road";

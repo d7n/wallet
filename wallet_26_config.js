@@ -1,1 +1,1 @@
-var mnemonic = "accuse dance gym radio ripple sibling renew mutual zoo wine orient wave";
+var mnemonic = "trip argue drip donate tone muscle purity rural nephew paper soon erosion";

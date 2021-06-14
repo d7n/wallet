@@ -1,1 +1,1 @@
-var mnemonic = "deer corn crack moral senior century profit ladder treat lesson soccer orchard";
+var mnemonic = "market brown roof shell rich fault proud pass text sense tower filter";

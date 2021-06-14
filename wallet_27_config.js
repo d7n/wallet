@@ -1,1 +1,1 @@
-var mnemonic = "merge diesel cart tail error cart visit state journey guard rigid pepper";
+var mnemonic = "arch pattern series apart twice tornado happy lazy pyramid two decline treat";

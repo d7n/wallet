@@ -1,1 +1,1 @@
-var mnemonic = "concert skirt leisure trumpet kind august away mechanic arrive balance thumb wet";
+var mnemonic = "eternal film wide legal shift shaft agree render disorder summer rebel warm";

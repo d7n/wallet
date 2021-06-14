@@ -1,1 +1,1 @@
-var mnemonic = "oyster drift sweet tiger build style power marriage cupboard joke aisle lawn";
+var mnemonic = "leader network flat point used program exit like upon design reason album";

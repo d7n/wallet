@@ -1,1 +1,1 @@
-var mnemonic = "eight noise bike hunt drop reunion lake payment physical behave naive pill";
+var mnemonic = "today shrimp black anger thank wasp shrimp maze where flat grass law";

@@ -1,1 +1,1 @@
-var mnemonic = "title burden pave random suspect involve battle nice glory remind gym carpet";
+var mnemonic = "blood response priority luggage margin like vibrant expire pair industry calm radar";

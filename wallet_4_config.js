@@ -1,1 +1,1 @@
-var mnemonic = "orient zebra lecture lab service asthma drill police laptop barrel reward amused";
+var mnemonic = "portion scissors airport deposit monkey eternal middle fresh casual belt home jelly";

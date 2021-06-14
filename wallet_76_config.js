@@ -1,1 +1,1 @@
-var mnemonic = "link strategy extra alarm knife comic income employ rookie ribbon brief book";
+var mnemonic = "ten crime gentle oak able solve unveil stock soup wash major boss";

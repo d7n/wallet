@@ -1,1 +1,1 @@
-var mnemonic = "confirm abandon interest powder mix because bracket sight father scare blue lobster";
+var mnemonic = "hello poem cool annual expand wrist wise swear purchase carbon will imitate";

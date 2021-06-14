@@ -1,1 +1,1 @@
-var mnemonic = "click syrup busy stay panther march police scare spare laundry neck sound";
+var mnemonic = "purchase season tilt good disease range conduct beef gas kind appear pig";

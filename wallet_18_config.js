@@ -1,1 +1,1 @@
-var mnemonic = "price maximum elbow planet mimic feed dad garage paddle left range invite";
+var mnemonic = "top ill portion trap actress arch ticket shed identify olympic olive pudding";

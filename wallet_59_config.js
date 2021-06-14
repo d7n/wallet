@@ -1,1 +1,1 @@
-var mnemonic = "fitness slim answer honey comfort box warm mobile kit install announce frost";
+var mnemonic = "diet use silk trip axis flush catalog silly water orbit bounce potato";

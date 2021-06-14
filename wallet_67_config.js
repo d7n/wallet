@@ -1,1 +1,1 @@
-var mnemonic = "exhibit announce decorate skate glimpse extra follow acoustic spell soon team gas";
+var mnemonic = "garden century jacket boost follow benefit kangaroo shy inside few can abuse";

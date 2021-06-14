@@ -1,1 +1,1 @@
-var mnemonic = "top spike solution dial gesture vacuum riot danger hedgehog stay pen wife";
+var mnemonic = "among nest shift flock skirt witness rebel great argue polar broccoli vast";

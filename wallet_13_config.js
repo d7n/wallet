@@ -1,1 +1,1 @@
-var mnemonic = "winter fire couch hire answer parade style tissue special help update fashion";
+var mnemonic = "second tool happy security cereal timber urban wet bench screen super inside";

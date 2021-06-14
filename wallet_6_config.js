@@ -1,1 +1,1 @@
-var mnemonic = "cannon keen album piece runway smooth asset trouble barely require bracket brisk";
+var mnemonic = "clean attend random timber monster reflect fluid pact need solve stand oil";

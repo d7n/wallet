@@ -1,1 +1,1 @@
-var mnemonic = "pipe plunge zone ugly balcony child birth biology supreme dance brave stone";
+var mnemonic = "nest weekend pony small wood ship green sunny crash diagram cup size";

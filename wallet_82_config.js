@@ -1,1 +1,1 @@
-var mnemonic = "consider advice theory negative axis husband laugh knock mask brush you physical";
+var mnemonic = "web couple chimney palm heavy boil improve story army build verb alpha";

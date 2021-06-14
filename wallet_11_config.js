@@ -1,1 +1,1 @@
-var mnemonic = "whip amount wash error orbit produce mixture fence inside approve cinnamon skin";
+var mnemonic = "cigar cactus praise chunk vast cradle mail catch burger ski talent day";

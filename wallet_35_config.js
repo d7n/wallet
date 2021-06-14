@@ -1,1 +1,1 @@
-var mnemonic = "powder absent upper wise tourist blind attend denial hybrid virus traffic food";
+var mnemonic = "isolate praise near raven hawk coil history provide record ice nature tilt";

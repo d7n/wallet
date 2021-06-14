@@ -1,1 +1,1 @@
-var mnemonic = "skin attend radar elegant entry puppy midnight swing good balance federal seed";
+var mnemonic = "arrive section pool punch swarm essence mushroom network pause drastic try boost";

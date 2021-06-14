@@ -1,1 +1,1 @@
-var mnemonic = "identify soul insane ribbon segment icon denial final burden knife bridge verb";
+var mnemonic = "tape body frown fly possible hidden marine cry tail again verify manual";

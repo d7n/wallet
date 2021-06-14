@@ -1,1 +1,1 @@
-var mnemonic = "marriage deputy resource inform rain dish sudden machine leg agree another speed";
+var mnemonic = "scheme erase eyebrow name stuff change split fury bargain film essay drum";

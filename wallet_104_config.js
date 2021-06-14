@@ -1,1 +1,1 @@
-var mnemonic = "net someone rigid file book truly frost license prepare cute autumn suit";
+var mnemonic = "disagree adapt foam fiscal debate slab humble error scale deer meadow enter";

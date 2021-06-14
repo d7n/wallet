@@ -1,1 +1,1 @@
-var mnemonic = "among sheriff sunset field second profit asset neck ask auction concert bridge";
+var mnemonic = "bounce fly people tail people quick pill swing bag reduce poet fee";

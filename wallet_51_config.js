@@ -1,1 +1,1 @@
-var mnemonic = "please lecture equal off crunch olympic risk gap village piece roast monster";
+var mnemonic = "tool heart prepare age salute culture pioneer learn grief surprise fatal seven";

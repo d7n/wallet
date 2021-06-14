@@ -1,1 +1,1 @@
-var mnemonic = "expose market empty unfold chief bid pledge sauce report grit crowd pulp";
+var mnemonic = "winner economy giraffe sketch unable fashion celery pattern you sample pig magnet";

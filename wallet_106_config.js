@@ -1,1 +1,1 @@
-var mnemonic = "wood toy snack solution step knife patient uncover relief rural tree asthma";
+var mnemonic = "limb spend pudding discover lab lens meat language repeat escape kidney frame";

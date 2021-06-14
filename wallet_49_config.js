@@ -1,1 +1,1 @@
-var mnemonic = "crazy bubble limit sibling congress general add breeze poet wide tiny tragic";
+var mnemonic = "gun test long gauge fever sugar basic clinic little rocket color anger";

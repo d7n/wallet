@@ -1,1 +1,1 @@
-var mnemonic = "jacket slogan tuition perfect body crazy police anxiety mention tent dove define";
+var mnemonic = "picture meat follow duck famous resource table scan pink battle culture injury";

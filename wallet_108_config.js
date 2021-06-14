@@ -1,1 +1,1 @@
-var mnemonic = "anchor table keen myth tiny patch congress hobby please dance now giant";
+var mnemonic = "only share celery engage vote imitate just leader walnut thunder review shop";

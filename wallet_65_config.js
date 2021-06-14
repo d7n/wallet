@@ -1,1 +1,1 @@
-var mnemonic = "castle orbit popular crucial evidence lab pride thing all rather arrow pair";
+var mnemonic = "start pass very foil camera lock vessel sister thought author pill train";

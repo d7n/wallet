@@ -1,1 +1,1 @@
-var mnemonic = "drama analyst hover obscure roof limb pizza ugly wealth arrive galaxy require";
+var mnemonic = "decorate tortoise trouble author monitor board border jealous donkey purse major measure";

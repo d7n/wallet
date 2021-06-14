@@ -1,1 +1,1 @@
-var mnemonic = "assist spirit rather flat brass twin gather silent thought enrich force rail";
+var mnemonic = "umbrella upset entry identify tool resist boil hood topic hurry oyster window";
