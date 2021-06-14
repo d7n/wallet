@@ -1,1 +1,1 @@
-var mnemonic = "spare they brush story desert mushroom text awake north motion bright honey";
+var mnemonic = "hurt mirror govern photo skin rib next add animal daring age scare";

@@ -1,1 +1,1 @@
-var mnemonic = "depart minute cabbage better unfair average gather choice notable vocal cover distance";
+var mnemonic = "region wheel flip cake trophy rude number when critic giggle claim atom";

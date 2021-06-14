@@ -1,1 +1,1 @@
-var mnemonic = "slender endorse ginger pave athlete thumb mail wait velvet twice feature message";
+var mnemonic = "mobile club frequent romance blast ivory blanket potato sure half lobster boring";

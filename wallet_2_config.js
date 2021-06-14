@@ -1,1 +1,1 @@
-var mnemonic = "replace toast ski blush cram obscure six drum raw enact renew scan";
+var mnemonic = "fence job like flame casino benefit system reject beauty mountain vague tiny";

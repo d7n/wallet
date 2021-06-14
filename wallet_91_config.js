@@ -1,1 +1,1 @@
-var mnemonic = "soft cook accuse decade like leg kick excess index embrace cover sugar";
+var mnemonic = "beef dawn indicate blanket pond sleep frown core lens twice galaxy slush";

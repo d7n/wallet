@@ -1,1 +1,1 @@
-var mnemonic = "connect remain cook home mail immense monkey hurry guide mom unaware practice";
+var mnemonic = "shoot mouse wink trade kiwi head public yellow used spoon letter silent";

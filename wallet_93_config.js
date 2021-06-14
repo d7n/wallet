@@ -1,1 +1,1 @@
-var mnemonic = "swing service absorb kitten bitter leisure guess region figure guess enable loyal";
+var mnemonic = "giraffe slam present chicken decorate wild gospel blush suffer fence episode rack";

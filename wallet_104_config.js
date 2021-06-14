@@ -1,1 +1,1 @@
-var mnemonic = "wise impulse senior twist episode rain lock olympic seat honey robot keep";
+var mnemonic = "debate spice frown dish glove mountain define opera excuse address inner stem";

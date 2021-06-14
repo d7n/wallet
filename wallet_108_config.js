@@ -1,1 +1,1 @@
-var mnemonic = "absent song buyer first vicious visit pizza mimic hurry adult level blouse";
+var mnemonic = "basic where reunion power fatal receive delay impact cave follow involve leg";

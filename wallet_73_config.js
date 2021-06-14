@@ -1,1 +1,1 @@
-var mnemonic = "giant squeeze call hat rib claim enrich work dismiss picnic flee water";
+var mnemonic = "sick arrange maze peace distance yard panda near vibrant hip arch city";

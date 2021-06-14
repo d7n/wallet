@@ -1,1 +1,1 @@
-var mnemonic = "book bike scheme coral leisure plate soap filter humor reopen token ten";
+var mnemonic = "bean fox answer ski cart true infant patient cycle menu poet mistake";

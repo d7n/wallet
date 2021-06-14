@@ -1,1 +1,1 @@
-var mnemonic = "maximum begin easy conduct kick bench sunset force mobile math tip claim";
+var mnemonic = "sound alarm brother morning pet decline retreat fossil enact become village buzz";

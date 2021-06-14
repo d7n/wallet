@@ -1,1 +1,1 @@
-var mnemonic = "clap brand defense field lake language private laptop excess title island brick";
+var mnemonic = "major rally win drip cart random blur tray member chat nose coach";

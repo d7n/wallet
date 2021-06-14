@@ -1,1 +1,1 @@
-var mnemonic = "mind novel lyrics coconut mountain loan husband miss hen avocado tip island";
+var mnemonic = "relief manage ginger stumble glide hybrid current file burger want chicken steel";

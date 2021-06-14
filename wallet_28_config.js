@@ -1,1 +1,1 @@
-var mnemonic = "mad real cycle warm salt minute dilemma flag fame fluid person flock";
+var mnemonic = "flat salt deny liquid marine chef vapor timber blossom genius tattoo abstract";

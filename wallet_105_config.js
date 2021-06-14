@@ -1,1 +1,1 @@
-var mnemonic = "card eternal credit face friend super either humor lock april normal ritual";
+var mnemonic = "grab vendor memory flight drive maze tent undo behind piano slide mesh";

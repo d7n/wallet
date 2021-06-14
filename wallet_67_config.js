@@ -1,1 +1,1 @@
-var mnemonic = "jacket barrel sun moment inform thought reject slender aspect about cherry reward";
+var mnemonic = "opinion bicycle limb ranch modify clay bus expire clap deny illegal replace";

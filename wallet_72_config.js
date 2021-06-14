@@ -1,1 +1,1 @@
-var mnemonic = "hidden behave orange result atom desert impact accuse double rural junior shop";
+var mnemonic = "cluster notable amount into all earth sadness panel loop gentle mail solution";

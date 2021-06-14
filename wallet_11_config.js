@@ -1,1 +1,1 @@
-var mnemonic = "emotion tank twelve garbage expire welcome major cup crash one tail nuclear";
+var mnemonic = "aware finger note vicious ice limb gap spatial kick tragic pitch like";

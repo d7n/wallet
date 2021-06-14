@@ -1,1 +1,1 @@
-var mnemonic = "piece poet sausage onion prefer interest tomorrow lizard elegant runway involve excuse";
+var mnemonic = "coast novel wood settle primary deal run three mosquito adjust inject forum";

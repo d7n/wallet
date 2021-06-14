@@ -1,1 +1,1 @@
-var mnemonic = "leopard measure charge sound borrow often make love service final above spell";
+var mnemonic = "tired fame dynamic interest nice garment vote drop sand gaze allow dolphin";

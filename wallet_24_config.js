@@ -1,1 +1,1 @@
-var mnemonic = "vintage purity surprise useful rhythm bounce wool notable normal oblige tape help";
+var mnemonic = "auto stool churn bachelor title glance alien gold jungle coconut harvest ozone";

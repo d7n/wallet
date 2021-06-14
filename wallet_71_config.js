@@ -1,1 +1,1 @@
-var mnemonic = "extra crawl lecture goat siege quit estate mystery eight sniff tag march";
+var mnemonic = "calm security moment kick lemon asset fatigue dial swim same clean swim";

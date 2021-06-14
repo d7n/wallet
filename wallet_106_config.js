@@ -1,1 +1,1 @@
-var mnemonic = "holiday sell egg trigger version case oven milk enact arrest exact pen";
+var mnemonic = "exercise verb clog huge echo space caught throw minute direct forum salmon";

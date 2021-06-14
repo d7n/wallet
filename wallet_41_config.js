@@ -1,1 +1,1 @@
-var mnemonic = "nominee praise flat palm simple concert endorse rabbit area pelican reason asset";
+var mnemonic = "crater first comic tube spread salad flavor label knee bean raise alert";

@@ -1,1 +1,1 @@
-var mnemonic = "subject drip orchard legend erode private elegant add survey crucial bag where";
+var mnemonic = "fuel peanut ice laundry blue floor toward lumber october rapid whip inner";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace client cloth reform isolate pluck surround myself scheme glad medal awake";
+var mnemonic = "inquiry toy immune orange cruise jar vanish bonus move switch already door";

@@ -1,1 +1,1 @@
-var mnemonic = "question fee decade hammer purpose obey tenant hunt column found squirrel link";
+var mnemonic = "alcohol stamp metal tuna toy ill enough elbow unfold talk tank nut";

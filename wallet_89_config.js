@@ -1,1 +1,1 @@
-var mnemonic = "radio mix shallow hockey inspire exist system found gold target frost future";
+var mnemonic = "ridge stereo bachelor crunch please soft dinosaur thing rotate grunt cement pistol";

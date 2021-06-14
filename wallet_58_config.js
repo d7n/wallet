@@ -1,1 +1,1 @@
-var mnemonic = "pledge digital critic this together blush describe victory giant upgrade wage juice";
+var mnemonic = "giraffe bird jazz dinner color coyote neck quick soup stuff fall liquid";

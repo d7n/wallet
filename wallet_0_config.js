@@ -1,1 +1,1 @@
-var mnemonic = "jar fresh census flush into orient october title dance hospital tide wave";
+var mnemonic = "boil race volcano field diet idle ripple label segment subway sunset jazz";

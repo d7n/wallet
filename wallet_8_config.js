@@ -1,1 +1,1 @@
-var mnemonic = "sea season place clip pulp involve shoulder purpose tuition usual vague field";
+var mnemonic = "foam grape hat have help patrol desk material behave brown people audit";

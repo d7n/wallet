@@ -1,1 +1,1 @@
-var mnemonic = "desert alley story eternal parade sphere moral trigger ripple chair shield distance";
+var mnemonic = "whisper patrol agent abuse butter among urge blast flush indoor judge knock";

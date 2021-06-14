@@ -1,1 +1,1 @@
-var mnemonic = "behind expect figure online normal impose conduct inherit entire vapor sauce object";
+var mnemonic = "arrange always stadium paddle check strike aware crumble custom sorry bus movie";

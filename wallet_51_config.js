@@ -1,1 +1,1 @@
-var mnemonic = "pony car camp goat forward price tired fancy long plunge salad rabbit";
+var mnemonic = "trumpet moral glow task rate captain educate barely exact van guide scene";

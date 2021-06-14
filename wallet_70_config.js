@@ -1,1 +1,1 @@
-var mnemonic = "vital ghost puppy allow armor video belt tribe shield column endorse okay";
+var mnemonic = "adapt finish tone deputy kitten region scissors orient private earth twist purchase";

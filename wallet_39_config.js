@@ -1,1 +1,1 @@
-var mnemonic = "oven oak defense also mom sadness bounce crazy shaft open zero absent";
+var mnemonic = "poverty nose audit brass cube song disease creek into embrace please drill";

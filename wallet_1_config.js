@@ -1,1 +1,1 @@
-var mnemonic = "decide mobile come turtle join gospel scorpion system public unfair loop swing";
+var mnemonic = "liberty accident riot goose pretty globe artist empower chronic sausage diesel please";

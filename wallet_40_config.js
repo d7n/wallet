@@ -1,1 +1,1 @@
-var mnemonic = "cake silent baby develop sudden pull dilemma whale canoe camera verb off";
+var mnemonic = "shallow bread document canal tribe mushroom trap coin museum cliff flush organ";

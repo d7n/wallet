@@ -1,1 +1,1 @@
-var mnemonic = "mushroom tissue half music remain behind mistake twist regular style speed ramp";
+var mnemonic = "angle bronze ivory empty unique apology menu control warfare protect catch attack";

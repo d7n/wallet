@@ -1,1 +1,1 @@
-var mnemonic = "steel hen powder vanish return scrub believe raven indoor asthma giraffe release";
+var mnemonic = "excuse time woman flag word flower quiz cross conduct spray album leisure";

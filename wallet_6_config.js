@@ -1,1 +1,1 @@
-var mnemonic = "wool moon program sentence way grunt pelican auction coffee major lens auto";
+var mnemonic = "power auction ritual gun sell unique atom meadow tail success laptop shell";

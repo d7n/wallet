@@ -1,1 +1,1 @@
-var mnemonic = "detect either oxygen aspect prison tribe jaguar jazz virus ridge goddess chat";
+var mnemonic = "easily spray mammal annual give main payment project leaf wall catalog lonely";

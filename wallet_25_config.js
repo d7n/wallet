@@ -1,1 +1,1 @@
-var mnemonic = "develop night spell divorce item minute person evolve wet life face six";
+var mnemonic = "general game office stone lumber senior match flavor history guide suspect spot";

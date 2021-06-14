@@ -1,1 +1,1 @@
-var mnemonic = "vicious slam sword hill funny sing mad baby ill jar horse ball";
+var mnemonic = "tumble retreat wall apology canvas thrive copper gather enable envelope drastic target";

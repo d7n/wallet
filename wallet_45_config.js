@@ -1,1 +1,1 @@
-var mnemonic = "also prize behind choice sand illegal kid onion immense clip note muscle";
+var mnemonic = "grant any zone enter capital trophy minimum vessel call talent wife poverty";

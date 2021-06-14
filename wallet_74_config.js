@@ -1,1 +1,1 @@
-var mnemonic = "journey divide enjoy victory paddle write adult device calm cupboard industry win";
+var mnemonic = "master cushion woman deny quote sell snow uncover length soft exhaust orient";

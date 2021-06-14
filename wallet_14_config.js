@@ -1,1 +1,1 @@
-var mnemonic = "belt coast version chapter chimney one kitten milk affair sure grief balance";
+var mnemonic = "dice tumble include still aunt naive base medal pink usage scrub grid";

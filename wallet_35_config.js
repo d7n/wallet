@@ -1,1 +1,1 @@
-var mnemonic = "child cube peasant mosquito off leisure strong legal spring sudden together half";
+var mnemonic = "soon require physical win hour actress poem pole vintage include gesture scatter";

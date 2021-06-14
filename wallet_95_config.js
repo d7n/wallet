@@ -1,1 +1,1 @@
-var mnemonic = "hill long island doll brother erosion census glory blur town machine fresh";
+var mnemonic = "pumpkin reward corn club cruise toast hidden heart potato sun pulp swap";

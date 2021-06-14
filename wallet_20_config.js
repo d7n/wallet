@@ -1,1 +1,1 @@
-var mnemonic = "alpha shrimp grow guess winner proof table inflict method vacuum sell south";
+var mnemonic = "expire maple universe program fringe used wrong diamond update upset average check";

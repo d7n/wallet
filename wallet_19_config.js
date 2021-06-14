@@ -1,1 +1,1 @@
-var mnemonic = "slow ethics message protect pigeon angle blanket quantum refuse rich program usage";
+var mnemonic = "write mango alone midnight orange piece ripple arrive risk simple purchase master";

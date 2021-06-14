@@ -1,1 +1,1 @@
-var mnemonic = "crush space ring candy once famous merit middle cinnamon ten whale gospel";
+var mnemonic = "scorpion brush able prosper about idea celery hazard hammer book thank maze";

@@ -1,1 +1,1 @@
-var mnemonic = "betray fade lava bless dignity hockey tumble resemble conduct mercy alien diet";
+var mnemonic = "walnut glove lawsuit wash spray suspect kind glow embody ivory elegant lady";

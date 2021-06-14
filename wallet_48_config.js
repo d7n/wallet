@@ -1,1 +1,1 @@
-var mnemonic = "sketch melody oval minor honey cereal glue robot tissue depart error fresh";
+var mnemonic = "jump oxygen coffee position knock half iron puppy huge social sand federal";

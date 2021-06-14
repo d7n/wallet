@@ -1,1 +1,1 @@
-var mnemonic = "van foster choice drift alter chase process record left suggest despair worry";
+var mnemonic = "quick job lobster party knife august camera energy glow pluck polar people";

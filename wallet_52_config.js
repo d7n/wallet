@@ -1,1 +1,1 @@
-var mnemonic = "assault mandate menu cook once comic clap parent manage ivory promote box";
+var mnemonic = "crater vehicle dumb chimney glide rival car copy merit sniff flock student";

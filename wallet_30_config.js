@@ -1,1 +1,1 @@
-var mnemonic = "survey stay educate school panda burden avoid isolate caution survey rely interest";
+var mnemonic = "tiger utility awake offer into apology rough conduct spread story actor whisper";

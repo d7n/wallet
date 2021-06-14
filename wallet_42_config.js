@@ -1,1 +1,1 @@
-var mnemonic = "struggle all cliff virtual tennis busy witness merit timber scrap useless fruit";
+var mnemonic = "awesome august impose soccer predict hammer inherit hungry because vintage yard hockey";

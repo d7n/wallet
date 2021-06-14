@@ -1,1 +1,1 @@
-var mnemonic = "embrace wrestle vacuum heart marriage food sentence there certain brass satisfy caught";
+var mnemonic = "recycle nest brisk armor dilemma cute final smoke gauge engage swap prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy destroy joy distance welcome vast crystal jar talent play board barely";
+var mnemonic = "secret shove document tragic butter barely spoon replace heavy hair taxi filter";

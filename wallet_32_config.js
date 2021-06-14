@@ -1,1 +1,1 @@
-var mnemonic = "jump camera fall notable fortune friend enforce assist shuffle fire odor discover";
+var mnemonic = "license cradle winter today wagon sense melody evidence best initial wall pole";

@@ -1,1 +1,1 @@
-var mnemonic = "wide erode all lobster return blade icon unfair taxi spider tongue famous";
+var mnemonic = "test breeze capable ten drill receive chunk banner salon shoe march steak";

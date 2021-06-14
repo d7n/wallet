@@ -1,1 +1,1 @@
-var mnemonic = "empty camera glimpse infant blue ensure sausage pupil cool plug skate oyster";
+var mnemonic = "vault view mean claw dinosaur vocal spy hazard save radar couple office";

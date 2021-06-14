@@ -1,1 +1,1 @@
-var mnemonic = "benefit giant matrix hood side lemon coast potato salad joke syrup huge";
+var mnemonic = "pact shoulder typical much trade aerobic skull cage kitchen still cream view";

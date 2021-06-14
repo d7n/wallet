@@ -1,1 +1,1 @@
-var mnemonic = "original portion olive volcano prosper ahead rice wall pistol crawl what speed";
+var mnemonic = "hotel embark stick mercy extend play vague flock copper pill leopard nature";

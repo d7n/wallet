@@ -1,1 +1,1 @@
-var mnemonic = "attract aspect enact open echo food sunny record cricket useless promote awesome";
+var mnemonic = "airport deliver midnight curious flock milk famous cheese sponsor grow switch grant";

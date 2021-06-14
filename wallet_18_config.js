@@ -1,1 +1,1 @@
-var mnemonic = "neutral naive original lend sight sphere child quiz you cram step slight";
+var mnemonic = "brown message decade heavy chaos space van beach detect produce rubber sure";

@@ -1,1 +1,1 @@
-var mnemonic = "broken trust swear need balcony raven slot frozen hobby argue shoulder access";
+var mnemonic = "dad chase that tag level blouse grass wage satoshi educate artwork whip";

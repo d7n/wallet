@@ -1,1 +1,1 @@
-var mnemonic = "duty company scare banner unit ice dust catch author shoot remove blanket";
+var mnemonic = "seminar roast hard dignity tackle scan stadium survey horse alert visa divide";

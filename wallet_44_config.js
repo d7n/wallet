@@ -1,1 +1,1 @@
-var mnemonic = "crucial miracle luxury climb parrot cash report board slide banana rather chimney";
+var mnemonic = "pistol ghost review eight raw notice escape actress display cheap essay noise";

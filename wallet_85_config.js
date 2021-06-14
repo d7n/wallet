@@ -1,1 +1,1 @@
-var mnemonic = "expect clay invite cruel arrest solid stereo canvas oyster hello unlock trick";
+var mnemonic = "pencil paddle cook again coach cactus oblige clarify pioneer rigid sign avocado";

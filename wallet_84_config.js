@@ -1,1 +1,1 @@
-var mnemonic = "hill primary shock farm deliver pool budget flame phone balcony horse toe";
+var mnemonic = "subject identify panel royal amazing warfare gun example frog book sense lunch";

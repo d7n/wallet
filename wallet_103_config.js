@@ -1,1 +1,1 @@
-var mnemonic = "town six direct dynamic alcohol depend sound end vote pretty rapid steak";
+var mnemonic = "shoot sadness forward bring find grant basic more book similar hockey such";

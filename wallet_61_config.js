@@ -1,1 +1,1 @@
-var mnemonic = "stable weird arm income notice mail improve midnight lens police champion fit";
+var mnemonic = "charge link phone super champion record anchor toss inside cradle lyrics trumpet";

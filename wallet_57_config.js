@@ -1,1 +1,1 @@
-var mnemonic = "sure barely promote umbrella cheap cinnamon atom total lock text moment grain";
+var mnemonic = "stairs bleak cattle become camp taste fish party kitchen brown ginger team";

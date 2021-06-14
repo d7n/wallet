@@ -1,1 +1,1 @@
-var mnemonic = "quality hello language tonight top senior chest cereal quick reward universe turn";
+var mnemonic = "put shrimp flock glance hospital keen always palace north license embark cross";

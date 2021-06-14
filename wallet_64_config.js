@@ -1,1 +1,1 @@
-var mnemonic = "normal spawn easily wrist vacuum pear bubble law announce below mercy crisp";
+var mnemonic = "dove juice sand wheel invest vehicle help position safe craft bachelor faith";

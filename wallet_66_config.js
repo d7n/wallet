@@ -1,1 +1,1 @@
-var mnemonic = "clay depth loyal parrot stairs simple inquiry stadium soul multiply become curious";
+var mnemonic = "churn road delay vague alter nation clog club sock silver glory bean";

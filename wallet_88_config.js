@@ -1,1 +1,1 @@
-var mnemonic = "oven seven soon robot leader tray short volume fury gain govern leave";
+var mnemonic = "click protect fly vague army impose best grocery response blossom zoo faith";

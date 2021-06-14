@@ -1,1 +1,1 @@
-var mnemonic = "bunker gesture umbrella pause oblige inquiry near merit burst sadness cry desert";
+var mnemonic = "what setup clutch afraid fatigue turkey sustain athlete equal wrap degree rain";

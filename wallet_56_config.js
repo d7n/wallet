@@ -1,1 +1,1 @@
-var mnemonic = "valley runway merry oven topic rack steak abuse hover romance apology satoshi";
+var mnemonic = "tide wife supreme twelve life owner evil flash universe senior initial park";

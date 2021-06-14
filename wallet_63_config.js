@@ -1,1 +1,1 @@
-var mnemonic = "voyage design bone stomach track mandate brave spoon exhaust wrist gauge other";
+var mnemonic = "unit claw depth inject regular glad surge brain heart special barrel peace";

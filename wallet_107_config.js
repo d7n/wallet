@@ -1,1 +1,1 @@
-var mnemonic = "hard elephant armed worry foam silk have insane trophy squirrel assist depend";
+var mnemonic = "swallow burden now chronic crew depend forum liquid box transfer bird escape";
