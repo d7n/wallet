@@ -1,1 +1,1 @@
-var mnemonic = "gentle series doctor away birth degree shoulder industry various patient offer boy";
+var mnemonic = "thrive prefer replace kingdom grocery anchor vessel achieve duck rival index total";

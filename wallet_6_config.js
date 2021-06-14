@@ -1,1 +1,1 @@
-var mnemonic = "spoon unaware jump clap harbor vivid legal coach action fiber machine hair";
+var mnemonic = "warrior glide brush develop neutral twin oblige dinosaur divide edge weather dish";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb injury move skill truck total midnight betray mother simple comic taste";
+var mnemonic = "dismiss end aunt record tourist belt nothing veteran canal enter pupil annual";

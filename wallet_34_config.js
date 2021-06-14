@@ -1,1 +1,1 @@
-var mnemonic = "lonely custom robust chuckle coach mushroom fuel vivid spoil float keep execute";
+var mnemonic = "access oyster man light small time salt gift banana reform south equip";

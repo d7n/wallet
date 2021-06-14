@@ -1,1 +1,1 @@
-var mnemonic = "attend uncle menu anger panic later defy sand awkward machine april scorpion";
+var mnemonic = "act narrow meat gain depart era analyst picture swear whisper long noble";

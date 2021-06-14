@@ -1,1 +1,1 @@
-var mnemonic = "flight reduce amount miracle save paddle thrive visual crumble senior clever stereo";
+var mnemonic = "select assume health elevator glove lock will episode slide century aim network";

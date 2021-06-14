@@ -1,1 +1,1 @@
-var mnemonic = "describe valley argue tribe outdoor deny cheap chef carpet horse boil cupboard";
+var mnemonic = "direct wrestle sphere radar bacon chaos project save awkward estate tragic scare";

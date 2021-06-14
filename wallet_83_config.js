@@ -1,1 +1,1 @@
-var mnemonic = "zebra kidney author zone crawl episode letter control globe sad work gate";
+var mnemonic = "artwork range around domain feed flock shed minor valve cousin involve second";

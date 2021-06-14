@@ -1,1 +1,1 @@
-var mnemonic = "stairs swallow chef ridge letter robot library dignity obvious program symbol inmate";
+var mnemonic = "estate private arrange dose roast pear venue magic bulb fiscal dash price";

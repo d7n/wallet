@@ -1,1 +1,1 @@
-var mnemonic = "sort coast urge rude chaos cotton exit assume flip pave enrich zone";
+var mnemonic = "bus clay industry depart caught width kitten wish any love exclude oak";

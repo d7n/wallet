@@ -1,1 +1,1 @@
-var mnemonic = "express burst female rude cover path holiday effort disorder blind cream bunker";
+var mnemonic = "include shaft list december goat leaf charge that ugly force leader motor";

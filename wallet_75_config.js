@@ -1,1 +1,1 @@
-var mnemonic = "mixed pumpkin kind upset extend immense gauge wash harvest speak avoid unlock";
+var mnemonic = "arm exotic decorate jar kid shield essay quick offer mass talent decline";

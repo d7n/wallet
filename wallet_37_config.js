@@ -1,1 +1,1 @@
-var mnemonic = "quantum blossom arch ribbon civil already survey monkey cause enter donate mystery";
+var mnemonic = "zebra silly tribe congress garden unfair spray scrap rude guitar world half";

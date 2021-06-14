@@ -1,1 +1,1 @@
-var mnemonic = "bronze uncover bird charge vessel lamp use differ educate frost beyond security";
+var mnemonic = "champion board arrest tennis mansion about hotel design outside famous vague fame";

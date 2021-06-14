@@ -1,1 +1,1 @@
-var mnemonic = "exchange race wool room case input ill dizzy cradle olive bread warfare";
+var mnemonic = "scheme acoustic bright claw author easy like turn tip onion laundry pencil";

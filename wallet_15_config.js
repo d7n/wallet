@@ -1,1 +1,1 @@
-var mnemonic = "flame catch farm twice venture warfare elite today cigar foster stairs card";
+var mnemonic = "vendor path oppose ice body step swing swim label shine balance spy";

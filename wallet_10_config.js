@@ -1,1 +1,1 @@
-var mnemonic = "cycle shed cherry various okay lake long spin hour blanket valid ethics";
+var mnemonic = "educate gather now ordinary label trouble accuse obvious slide keep replace adjust";

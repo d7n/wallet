@@ -1,1 +1,1 @@
-var mnemonic = "bean wood fee crush mirror acid jacket solution save lens already team";
+var mnemonic = "bring melt dismiss start tail educate enroll leave runway exist spare candy";

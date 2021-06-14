@@ -1,1 +1,1 @@
-var mnemonic = "utility satoshi boil sound glide blur route cake energy same lava shrug";
+var mnemonic = "salmon panther blame able wreck sound author close artwork hockey flight style";

@@ -1,1 +1,1 @@
-var mnemonic = "ahead pioneer present forest pet vault please banana lady police wife birth";
+var mnemonic = "glimpse minimum approve chief coconut fiscal scissors hundred snow lobster meat way";

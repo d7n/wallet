@@ -1,1 +1,1 @@
-var mnemonic = "coconut nuclear miracle click squeeze when sight sugar nominee success steak tomorrow";
+var mnemonic = "loud horror brush disorder screen asthma ship deer segment hamster copy deal";

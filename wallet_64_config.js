@@ -1,1 +1,1 @@
-var mnemonic = "wear hover example wait crater search penalty glance gentle switch lunch wrong";
+var mnemonic = "camera only setup wink giraffe frost series vast frown egg shadow clap";

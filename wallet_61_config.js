@@ -1,1 +1,1 @@
-var mnemonic = "remember poverty book wine define foot trend fiber only broom piano alien";
+var mnemonic = "void abandon mechanic fragile grid hungry twist place cage time recall canal";

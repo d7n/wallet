@@ -1,1 +1,1 @@
-var mnemonic = "rhythm fit occur gym exit giant agent laundry panel person game piano";
+var mnemonic = "quarter fabric sell kind gain dog ankle orbit victory blind junior harvest";

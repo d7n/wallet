@@ -1,1 +1,1 @@
-var mnemonic = "salad detail enrich purse turn amazing cream champion join unit fat execute";
+var mnemonic = "vehicle agree notable cherry party gun subject trust dignity average spy post";

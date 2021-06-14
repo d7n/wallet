@@ -1,1 +1,1 @@
-var mnemonic = "trial drop bounce tennis into clip bullet blur output hockey vault erase";
+var mnemonic = "permit kick warm cause sphere tape cable punch smart become cup owner";

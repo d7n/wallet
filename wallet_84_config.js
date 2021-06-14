@@ -1,1 +1,1 @@
-var mnemonic = "acoustic merge glance toe vehicle mom deny life bubble mobile monkey flame";
+var mnemonic = "unique angle mixed loop east chuckle conduct client love olympic runway length";

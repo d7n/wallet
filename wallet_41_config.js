@@ -1,1 +1,1 @@
-var mnemonic = "hurdle head moral rookie piece call trial merry emotion boring manage giant";
+var mnemonic = "anger fiction diagram mean civil endless illegal expand ramp sentence conduct goat";

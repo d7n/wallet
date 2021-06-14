@@ -1,1 +1,1 @@
-var mnemonic = "grant sell bitter strong upset rabbit among fall grid prefer among give";
+var mnemonic = "spoon pair bus situate crowd cage unveil comfort scheme connect start figure";

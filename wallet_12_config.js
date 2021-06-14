@@ -1,1 +1,1 @@
-var mnemonic = "speed upon process arrange quantum bench anxiety system sword clap attack bachelor";
+var mnemonic = "easily prosper paddle bike hedgehog crane loyal title example wheel object first";

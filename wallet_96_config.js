@@ -1,1 +1,1 @@
-var mnemonic = "tackle wage taste orient click patch rather behave diary cup grief sure";
+var mnemonic = "daring theme coffee have season avoid mention repair august true mandate electric";

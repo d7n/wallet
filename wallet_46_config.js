@@ -1,1 +1,1 @@
-var mnemonic = "balcony license kidney race nest danger suit cliff various debris snap round";
+var mnemonic = "wasp current order clown sight ranch ride torch kingdom enlist inner about";

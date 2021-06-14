@@ -1,1 +1,1 @@
-var mnemonic = "orange arch simple flavor away rail pact defy gossip trophy owner pony";
+var mnemonic = "permit film jewel mask harvest lake rhythm film prepare document finish wreck";

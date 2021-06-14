@@ -1,1 +1,1 @@
-var mnemonic = "plastic motion company amount gym shuffle tenant present dragon charge toe journey";
+var mnemonic = "upgrade market clog hold good lava regular phrase small guide worry bronze";

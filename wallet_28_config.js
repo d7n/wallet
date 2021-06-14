@@ -1,1 +1,1 @@
-var mnemonic = "enhance catch crisp steak attract mosquito cattle okay unhappy fall trigger holiday";
+var mnemonic = "course speed obvious basic baby link benefit cover mimic fantasy library enact";

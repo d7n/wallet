@@ -1,1 +1,1 @@
-var mnemonic = "burst museum law confirm appear host joke cake mail hurry already record";
+var mnemonic = "easy recall test basic clay inherit notice cereal educate essence brain salt";

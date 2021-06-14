@@ -1,1 +1,1 @@
-var mnemonic = "draft flat dial lawsuit chase country add wonder arrow assist essay throw";
+var mnemonic = "october pet damage enrich three mammal focus birth ketchup young muscle cable";

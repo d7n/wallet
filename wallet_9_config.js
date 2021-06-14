@@ -1,1 +1,1 @@
-var mnemonic = "second target clinic nose across enact boy coast wave inherit entry indicate";
+var mnemonic = "day later fire body marriage avocado shy total grass modify timber stay";

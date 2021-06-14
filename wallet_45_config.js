@@ -1,1 +1,1 @@
-var mnemonic = "private cancel symbol undo resist proud dust swallow match crisp scare cash";
+var mnemonic = "trap message alter box debate mimic impose typical cause reward stock soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "solid animal hip world story hurt robot foot pretty frequent oyster remove";
+var mnemonic = "oven embrace throw rapid limb rough weather dice athlete tortoise either pudding";

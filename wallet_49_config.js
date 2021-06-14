@@ -1,1 +1,1 @@
-var mnemonic = "volume enhance example afford pitch wide answer view whale gate antenna tomorrow";
+var mnemonic = "planet armed lizard label lunch kitten noise burst latin limb asset awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "baby lamp bone ancient bind diary banana proof able skin electric rack";
+var mnemonic = "stove kick hint target depend little column egg execute dutch cable shoe";

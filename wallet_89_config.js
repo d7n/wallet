@@ -1,1 +1,1 @@
-var mnemonic = "cannon comfort bike wagon rough version engine suggest attend clean ladder caution";
+var mnemonic = "plastic fall busy will pudding window heavy egg bullet live winter find";

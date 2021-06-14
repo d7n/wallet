@@ -1,1 +1,1 @@
-var mnemonic = "develop aim laugh small fever nature add describe true rent utility disagree";
+var mnemonic = "answer wood spray also ready original salt sibling force love erase crash";

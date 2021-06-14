@@ -1,1 +1,1 @@
-var mnemonic = "faculty error soda task chat axis music rotate donkey prosper wall father";
+var mnemonic = "item trash now razor judge hundred reflect range blur success margin common";

@@ -1,1 +1,1 @@
-var mnemonic = "polar dentist hawk help glass agent master main milk avoid hill cart";
+var mnemonic = "actress assume fashion apple easy canyon clip isolate cushion burden address obey";

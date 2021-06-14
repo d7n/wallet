@@ -1,1 +1,1 @@
-var mnemonic = "lake erupt trust circle foil dress there mind vendor snack helmet measure";
+var mnemonic = "friend coconut kingdom enable faculty ball action hospital club couch bless inner";

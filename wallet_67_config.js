@@ -1,1 +1,1 @@
-var mnemonic = "arrange faint shove victory pelican eyebrow source evolve another fog detail coil";
+var mnemonic = "flip attitude shock soda system usage fury mechanic badge mechanic candy shaft";

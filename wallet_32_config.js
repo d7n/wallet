@@ -1,1 +1,1 @@
-var mnemonic = "pilot fragile trade allow drum agree pulp guess month stable noble gown";
+var mnemonic = "staff whisper also visit estate effort oxygen essay isolate tragic salad denial";

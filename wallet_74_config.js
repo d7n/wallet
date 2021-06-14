@@ -1,1 +1,1 @@
-var mnemonic = "cram expect post scrap antenna animal visa network hamster choose bring old";
+var mnemonic = "sad fringe enjoy pizza diamond warm female hammer oyster motion burger awkward";

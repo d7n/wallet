@@ -1,1 +1,1 @@
-var mnemonic = "safe rack fly horror kiss square crumble urban inhale simple erosion elevator";
+var mnemonic = "hub negative increase inquiry soup puppy web work home spatial catalog hundred";

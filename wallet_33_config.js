@@ -1,1 +1,1 @@
-var mnemonic = "extra forest inside long food sample panic ready pelican salmon message junk";
+var mnemonic = "valid crop bitter female salon odor neutral bench someone voice accuse canal";

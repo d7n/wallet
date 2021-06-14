@@ -1,1 +1,1 @@
-var mnemonic = "equip sun credit rule knock chunk correct sick raccoon spirit pioneer person";
+var mnemonic = "inch obey kiwi enhance voice sick project planet hurry match coffee various";

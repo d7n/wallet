@@ -1,1 +1,1 @@
-var mnemonic = "uniform neck feed naive clarify roast midnight ticket tuna family dance agree";
+var mnemonic = "ahead dismiss prize taste junk cute ghost nephew adjust rocket slogan gown";

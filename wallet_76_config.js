@@ -1,1 +1,1 @@
-var mnemonic = "dentist motion nuclear stadium mercy bamboo boost dizzy angle drip legend mixture";
+var mnemonic = "scrap put next inmate hold whale now menu element expose dry trim";

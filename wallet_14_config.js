@@ -1,1 +1,1 @@
-var mnemonic = "satoshi hood scatter program cry pluck nose improve forum chest noble smooth";
+var mnemonic = "safe carbon depend labor common reason proof light choice dumb focus coach";

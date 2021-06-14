@@ -1,1 +1,1 @@
-var mnemonic = "fence column embark pair duck fetch core egg flight record shell stand";
+var mnemonic = "virus acoustic jealous hurry dignity illness inch fun agree blast enlist bonus";

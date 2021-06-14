@@ -1,1 +1,1 @@
-var mnemonic = "release police phone hammer ignore wheel oil hold badge silk opinion rare";
+var mnemonic = "ahead fame orphan essay world error expand fury have pudding please domain";

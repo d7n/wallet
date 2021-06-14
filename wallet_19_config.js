@@ -1,1 +1,1 @@
-var mnemonic = "frame unusual piano wedding region pistol refuse satisfy ozone comic nuclear try";
+var mnemonic = "gauge mirror obscure quarter tongue dilemma casino stool source tag aerobic change";

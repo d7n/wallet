@@ -1,1 +1,1 @@
-var mnemonic = "craft license divide camera emerge super dry muffin upon hen pumpkin science";
+var mnemonic = "tiger never mail flee nasty climb excess note cement later mimic coach";

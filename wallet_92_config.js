@@ -1,1 +1,1 @@
-var mnemonic = "gaze turkey slim affair atom aim roof input key wet recipe motion";
+var mnemonic = "traffic crack alert mixed august august lazy message agent excess purchase material";

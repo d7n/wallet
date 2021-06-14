@@ -1,1 +1,1 @@
-var mnemonic = "smoke future cool flight adjust behave earn hill narrow empty betray arctic";
+var mnemonic = "hazard lonely until affair enter sorry stadium start defy jump resource tool";

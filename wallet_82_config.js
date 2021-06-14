@@ -1,1 +1,1 @@
-var mnemonic = "column blossom space donor warrior muscle payment stereo rural begin office shield";
+var mnemonic = "aisle fog zone boil soap shuffle rain danger cargo okay tragic wrestle";

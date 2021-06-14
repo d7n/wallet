@@ -1,1 +1,1 @@
-var mnemonic = "grant give beef exact search answer clip mountain float poem banana ghost";
+var mnemonic = "common soon spawn group such artist hurry comfort update fence inspire issue";

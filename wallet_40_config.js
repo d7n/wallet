@@ -1,1 +1,1 @@
-var mnemonic = "print bounce estate game stool blast wire toilet mass angle rather grace";
+var mnemonic = "scatter shrug cover bounce gym month trial borrow blouse step worth until";

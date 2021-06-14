@@ -1,1 +1,1 @@
-var mnemonic = "mutual veteran bag proud cactus essay company worry occur cycle fish play";
+var mnemonic = "banner leaf improve primary slam toddler candy thunder pottery rose frog leg";

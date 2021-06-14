@@ -1,1 +1,1 @@
-var mnemonic = "room connect order sponsor flat author wave axis powder steel hidden marine";
+var mnemonic = "first major drama canvas diamond fan kiss coconut suffer camp match truck";

@@ -1,1 +1,1 @@
-var mnemonic = "layer visit mass kit suggest coyote visual capable moral toward price volcano";
+var mnemonic = "twenty quick penalty celery inject kiss sing object increase drive spell jelly";

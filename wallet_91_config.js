@@ -1,1 +1,1 @@
-var mnemonic = "giant leopard sell kangaroo conduct forward fruit nephew bicycle cat love tomorrow";
+var mnemonic = "satisfy crisp fit spoon crucial you cage tornado fine vote gospel cigar";

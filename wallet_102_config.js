@@ -1,1 +1,1 @@
-var mnemonic = "caught neglect sun stage mule slot trim polar demise lava vital spoon";
+var mnemonic = "victory refuse will clever worth cry purpose rather miss utility rug pattern";

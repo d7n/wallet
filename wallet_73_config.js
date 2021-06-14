@@ -1,1 +1,1 @@
-var mnemonic = "plastic liquid utility battle usage agent search boat come survey become once";
+var mnemonic = "timber voyage then unlock pink exact labor bacon raw future bulb episode";

@@ -1,1 +1,1 @@
-var mnemonic = "wreck decrease rather topple wild explain bag animal coach robust swift spin";
+var mnemonic = "side dog setup kiwi knee maple bronze opinion void day pave like";

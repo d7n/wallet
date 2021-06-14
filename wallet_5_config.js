@@ -1,1 +1,1 @@
-var mnemonic = "execute assist often undo mad sure ignore skull ball powder fence over";
+var mnemonic = "solar start drum whisper regret crisp power globe high stem mosquito knife";

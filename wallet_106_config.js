@@ -1,1 +1,1 @@
-var mnemonic = "strike uncle crouch auto antique faint airport bike vehicle comfort foot change";
+var mnemonic = "labor desk eight act sketch together sister chest ridge fault lottery target";

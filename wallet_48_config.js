@@ -1,1 +1,1 @@
-var mnemonic = "coral sniff noodle scout recipe hungry frame critic steak have mango dinner";
+var mnemonic = "phrase blind hair cigar giggle moon quarter average hybrid private goat melody";

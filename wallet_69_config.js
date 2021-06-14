@@ -1,1 +1,1 @@
-var mnemonic = "surround lend exhibit below stand kingdom loan subway example lion firm point";
+var mnemonic = "spare spend firm symptom since knife course iron ready parade fantasy emerge";

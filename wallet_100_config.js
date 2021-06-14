@@ -1,1 +1,1 @@
-var mnemonic = "success battle novel board broom buffalo hospital frog pink point solve frost";
+var mnemonic = "trend float suit alert artefact ticket train stem box kitchen isolate grass";

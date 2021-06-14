@@ -1,1 +1,1 @@
-var mnemonic = "night kind mixture dune cause place cage one foot sibling subway mutual";
+var mnemonic = "car glue birth shrug omit host museum profit embody gaze dynamic zebra";

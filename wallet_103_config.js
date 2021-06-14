@@ -1,1 +1,1 @@
-var mnemonic = "evoke empower suggest nasty lunar accuse unusual height blossom flame cash clinic";
+var mnemonic = "decide tent sniff plate color script vocal scorpion bleak design insane neck";

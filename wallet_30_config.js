@@ -1,1 +1,1 @@
-var mnemonic = "pizza devote again swarm before rapid illness left solar lemon sand wish";
+var mnemonic = "solution youth lens track define original purchase wear refuse canvas orchard bean";

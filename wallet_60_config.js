@@ -1,1 +1,1 @@
-var mnemonic = "patient memory lion close electric wage leisure finger vast duck utility vote";
+var mnemonic = "portion slow fabric deputy session slab fever code afford fabric globe pencil";

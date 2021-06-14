@@ -1,1 +1,1 @@
-var mnemonic = "jelly junior cat jeans universe sign morning collect chaos lab vast twin";
+var mnemonic = "october laugh holiday length jar attack bicycle allow general argue since prefer";

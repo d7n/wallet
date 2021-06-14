@@ -1,1 +1,1 @@
-var mnemonic = "prosper bench major enter battle way minute cry danger beauty trend genre";
+var mnemonic = "wrap gossip remember excite note roof clip patrol mobile tomato summer bunker";

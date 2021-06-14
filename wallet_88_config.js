@@ -1,1 +1,1 @@
-var mnemonic = "urban bracket add airport region viable capital shuffle purpose winter special slight";
+var mnemonic = "review bonus borrow glide time smile depend negative extend spoon critic erode";

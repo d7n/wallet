@@ -1,1 +1,1 @@
-var mnemonic = "layer issue all book injury evil whale tube initial renew deputy ribbon";
+var mnemonic = "advice devote minor athlete earth dinosaur hamster execute sleep system cream undo";

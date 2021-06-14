@@ -1,1 +1,1 @@
-var mnemonic = "income immense girl voyage predict renew valley hard miss magic price punch";
+var mnemonic = "liquid entire hat join gather burst exile fuel hazard very month kangaroo";

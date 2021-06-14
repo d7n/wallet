@@ -1,1 +1,1 @@
-var mnemonic = "have length amateur link cradle jazz release reform kite urge uncle gallery";
+var mnemonic = "unable carry forum evolve drift purity pulse renew inner obscure scheme uncle";

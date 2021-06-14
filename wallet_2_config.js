@@ -1,1 +1,1 @@
-var mnemonic = "hospital stumble hero shoe leg shaft avoid harsh sponsor pig home oblige";
+var mnemonic = "maze pitch angle mesh culture example elbow tail mushroom airport sort burger";

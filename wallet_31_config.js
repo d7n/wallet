@@ -1,1 +1,1 @@
-var mnemonic = "inject pull ankle slim flower tooth brain onion sphere peasant summer scatter";
+var mnemonic = "evidence famous venue goose fall meadow price age mercy light truly argue";
