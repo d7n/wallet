@@ -1,1 +1,1 @@
-var mnemonic = "intact merge crash uphold near empty zone energy fade excess copper sibling";
+var mnemonic = "plastic liquid utility battle usage agent search boat come survey become once";

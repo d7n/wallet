@@ -1,1 +1,1 @@
-var mnemonic = "jaguar humble reflect lion off sight taxi tunnel shuffle despair ranch ritual";
+var mnemonic = "coral sniff noodle scout recipe hungry frame critic steak have mango dinner";

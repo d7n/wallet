@@ -1,1 +1,1 @@
-var mnemonic = "issue rescue wrap license minimum shift upset novel join lecture exist immune";
+var mnemonic = "jelly junior cat jeans universe sign morning collect chaos lab vast twin";

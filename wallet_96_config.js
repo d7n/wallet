@@ -1,1 +1,1 @@
-var mnemonic = "mean dolphin carbon ill cradle program timber switch wall dentist glide power";
+var mnemonic = "tackle wage taste orient click patch rather behave diary cup grief sure";

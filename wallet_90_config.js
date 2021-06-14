@@ -1,1 +1,1 @@
-var mnemonic = "firm harvest oyster volcano athlete color envelope skill ordinary bonus blush art";
+var mnemonic = "proof trophy electric pluck excite shell profit payment tobacco omit maze eight";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope blind diamond aisle scrub road hope glove device police garbage ramp";
+var mnemonic = "mutual veteran bag proud cactus essay company worry occur cycle fish play";

@@ -1,1 +1,1 @@
-var mnemonic = "grab lift chat mail symbol sibling trap aspect album tribe duck sand";
+var mnemonic = "bronze uncover bird charge vessel lamp use differ educate frost beyond security";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness victory injury grain daughter swamp report accuse song sugar swap illness";
+var mnemonic = "success battle novel board broom buffalo hospital frog pink point solve frost";

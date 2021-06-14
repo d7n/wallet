@@ -1,1 +1,1 @@
-var mnemonic = "act vessel brief alley tag half post route immune panel mango sense";
+var mnemonic = "this frequent salon subject shoe balance table remain arm yellow sister pluck";

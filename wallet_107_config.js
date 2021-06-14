@@ -1,1 +1,1 @@
-var mnemonic = "quit visit upper hidden park young combine capital rigid camp tide inspire";
+var mnemonic = "hollow favorite super winner collect success avoid transfer despair thrive athlete ill";

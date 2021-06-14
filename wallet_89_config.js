@@ -1,1 +1,1 @@
-var mnemonic = "tortoise surge volcano foster impact universe seed monkey case giant diesel coin";
+var mnemonic = "cannon comfort bike wagon rough version engine suggest attend clean ladder caution";

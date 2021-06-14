@@ -1,1 +1,1 @@
-var mnemonic = "topple space trip bracket subject donate initial list exhibit welcome trophy tone";
+var mnemonic = "wreck decrease rather topple wild explain bag animal coach robust swift spin";

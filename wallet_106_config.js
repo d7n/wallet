@@ -1,1 +1,1 @@
-var mnemonic = "gym wrap online throw sail mail aim minimum bread drop gas poet";
+var mnemonic = "strike uncle crouch auto antique faint airport bike vehicle comfort foot change";

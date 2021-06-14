@@ -1,1 +1,1 @@
-var mnemonic = "immense lock slab inform project embrace autumn scout inflict outside major best";
+var mnemonic = "pilot fragile trade allow drum agree pulp guess month stable noble gown";

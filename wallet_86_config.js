@@ -1,1 +1,1 @@
-var mnemonic = "odor crane come cash chalk apple tooth tape blush aware speed venture";
+var mnemonic = "hood doll gadget shift shuffle immense essay lamp actress major harvest hire";

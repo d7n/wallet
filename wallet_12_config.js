@@ -1,1 +1,1 @@
-var mnemonic = "nose agent air endorse effort hybrid decade rule oblige another club lava";
+var mnemonic = "speed upon process arrange quantum bench anxiety system sword clap attack bachelor";

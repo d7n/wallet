@@ -1,1 +1,1 @@
-var mnemonic = "pudding bundle beach candy giant mountain obvious stove urge choose action lend";
+var mnemonic = "business book dumb fiber lock vacuum coyote once trumpet announce mimic gather";

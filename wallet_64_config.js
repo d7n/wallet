@@ -1,1 +1,1 @@
-var mnemonic = "action woman include ignore surge around cradle elder pattern exhibit level major";
+var mnemonic = "wear hover example wait crater search penalty glance gentle switch lunch wrong";

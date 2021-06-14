@@ -1,1 +1,1 @@
-var mnemonic = "crisp shy alter maze please agent grass violin extra pyramid stem animal";
+var mnemonic = "solid animal hip world story hurt robot foot pretty frequent oyster remove";

@@ -1,1 +1,1 @@
-var mnemonic = "silly render concert scene enforce match spot rail approve unknown sniff key";
+var mnemonic = "leopard honey trim act guide make fashion melt achieve reject smooth decade";

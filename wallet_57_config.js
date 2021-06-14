@@ -1,1 +1,1 @@
-var mnemonic = "season earth push pencil protect citizen circle reflect index scrub fatal near";
+var mnemonic = "sort coast urge rude chaos cotton exit assume flip pave enrich zone";

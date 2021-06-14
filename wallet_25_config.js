@@ -1,1 +1,1 @@
-var mnemonic = "fee ecology cage flat bind material unveil slide collect file section neutral";
+var mnemonic = "have length amateur link cradle jazz release reform kite urge uncle gallery";

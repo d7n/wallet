@@ -1,1 +1,1 @@
-var mnemonic = "maze near critic hurry squirrel federal word code receive pledge couple claw";
+var mnemonic = "craft license divide camera emerge super dry muffin upon hen pumpkin science";

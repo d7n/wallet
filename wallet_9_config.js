@@ -1,1 +1,1 @@
-var mnemonic = "spider wisdom swamp else ladder ecology spring prize cost name agree cloth";
+var mnemonic = "second target clinic nose across enact boy coast wave inherit entry indicate";

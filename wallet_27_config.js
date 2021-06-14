@@ -1,1 +1,1 @@
-var mnemonic = "knee slim nasty urge popular version wash point bargain deliver faculty bundle";
+var mnemonic = "polar dentist hawk help glass agent master main milk avoid hill cart";

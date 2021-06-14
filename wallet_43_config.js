@@ -1,1 +1,1 @@
-var mnemonic = "monster always online health spell smoke cart ill green discover ginger lounge";
+var mnemonic = "plastic motion company amount gym shuffle tenant present dragon charge toe journey";

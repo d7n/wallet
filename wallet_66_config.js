@@ -1,1 +1,1 @@
-var mnemonic = "wrong predict derive capital female spatial small roof arrow awful bottom risk";
+var mnemonic = "flight reduce amount miracle save paddle thrive visual crumble senior clever stereo";

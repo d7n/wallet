@@ -1,1 +1,1 @@
-var mnemonic = "tip home auto maze judge lesson long mobile rare minimum tourist milk";
+var mnemonic = "layer proud fish modify wrap advance purchase indoor hand soda city loyal";

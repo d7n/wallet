@@ -1,1 +1,1 @@
-var mnemonic = "cherry wing calm quarter uncover kangaroo arm increase mean neck violin portion";
+var mnemonic = "weekend salmon infant ill similar floor quick airport balcony major armed winter";

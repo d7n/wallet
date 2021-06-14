@@ -1,1 +1,1 @@
-var mnemonic = "roast maid punch antenna six indicate test fringe adult mean behave affair";
+var mnemonic = "trial drop bounce tennis into clip bullet blur output hockey vault erase";

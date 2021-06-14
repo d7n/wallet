@@ -1,1 +1,1 @@
-var mnemonic = "slogan aisle tide train sausage glad wrestle tide father language deliver arrow";
+var mnemonic = "balcony license kidney race nest danger suit cliff various debris snap round";

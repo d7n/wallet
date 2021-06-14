@@ -1,1 +1,1 @@
-var mnemonic = "dove sight loyal boat jaguar float increase large token region napkin blur";
+var mnemonic = "clinic hood quarter confirm atom fame tomorrow remind leg toilet soon game";

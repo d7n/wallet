@@ -1,1 +1,1 @@
-var mnemonic = "fetch develop north belt arrow roof sound useful submit spawn universe waste";
+var mnemonic = "gaze turkey slim affair atom aim roof input key wet recipe motion";

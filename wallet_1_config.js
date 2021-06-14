@@ -1,1 +1,1 @@
-var mnemonic = "direct conduct industry vacuum spatial seat connect flag power galaxy burden document";
+var mnemonic = "room connect order sponsor flat author wave axis powder steel hidden marine";

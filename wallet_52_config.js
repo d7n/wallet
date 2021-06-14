@@ -1,1 +1,1 @@
-var mnemonic = "develop select pattern alter enjoy cycle upgrade toast maid inject weasel width";
+var mnemonic = "submit affair rubber sponsor episode boat mesh gorilla eternal bring between target";

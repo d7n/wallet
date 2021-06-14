@@ -1,1 +1,1 @@
-var mnemonic = "helmet maple blade card search short wisdom brother exclude icon first alcohol";
+var mnemonic = "print bounce estate game stool blast wire toilet mass angle rather grace";

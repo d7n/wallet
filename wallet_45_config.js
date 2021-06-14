@@ -1,1 +1,1 @@
-var mnemonic = "tragic simple retire unfold man original duty bid bargain chunk inherit gain";
+var mnemonic = "private cancel symbol undo resist proud dust swallow match crisp scare cash";

@@ -1,1 +1,1 @@
-var mnemonic = "wisdom income turn clutch evidence arch profit salad nice puppy supreme shoe";
+var mnemonic = "ahead pioneer present forest pet vault please banana lady police wife birth";

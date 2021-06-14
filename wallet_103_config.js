@@ -1,1 +1,1 @@
-var mnemonic = "peasant shop protect physical place act boat song stick enforce poet oxygen";
+var mnemonic = "evoke empower suggest nasty lunar accuse unusual height blossom flame cash clinic";

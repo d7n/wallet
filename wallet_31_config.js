@@ -1,1 +1,1 @@
-var mnemonic = "casino cheap vanish expose supreme mutual best trip inject like scan surge";
+var mnemonic = "inject pull ankle slim flower tooth brain onion sphere peasant summer scatter";

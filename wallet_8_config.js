@@ -1,1 +1,1 @@
-var mnemonic = "witness measure final bicycle bread author mushroom never asset subject sunset invite";
+var mnemonic = "express burst female rude cover path holiday effort disorder blind cream bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "betray coffee silly happy mansion various govern fan detail crazy melody balcony";
+var mnemonic = "exchange race wool room case input ill dizzy cradle olive bread warfare";

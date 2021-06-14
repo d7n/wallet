@@ -1,1 +1,1 @@
-var mnemonic = "ketchup bring magic impulse crouch slim steel enjoy canoe improve cat duty";
+var mnemonic = "equip sun credit rule knock chunk correct sick raccoon spirit pioneer person";

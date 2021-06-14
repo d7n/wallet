@@ -1,1 +1,1 @@
-var mnemonic = "turkey rhythm wish plug frown useful one hope depart flush feed feature";
+var mnemonic = "wool celery misery hurt piano will scheme jacket zoo robust rescue deliver";

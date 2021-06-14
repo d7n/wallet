@@ -1,1 +1,1 @@
-var mnemonic = "laptop pretty submit jacket rain wrist town away cigar total ketchup dumb";
+var mnemonic = "column blossom space donor warrior muscle payment stereo rural begin office shield";

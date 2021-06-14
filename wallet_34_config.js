@@ -1,1 +1,1 @@
-var mnemonic = "same sudden invite exhibit rotate option empower list spy twin supreme canal";
+var mnemonic = "lonely custom robust chuckle coach mushroom fuel vivid spoil float keep execute";

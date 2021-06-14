@@ -1,1 +1,1 @@
-var mnemonic = "miracle mix faith slot fiction visit matter derive fence heavy dust grow";
+var mnemonic = "surround lend exhibit below stand kingdom loan subway example lion firm point";

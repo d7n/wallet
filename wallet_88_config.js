@@ -1,1 +1,1 @@
-var mnemonic = "maid impact cigar arrive apology glass fetch fluid seed swap air garlic";
+var mnemonic = "urban bracket add airport region viable capital shuffle purpose winter special slight";

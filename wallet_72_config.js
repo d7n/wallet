@@ -1,1 +1,1 @@
-var mnemonic = "critic trial cheap payment hint mix cabbage mom now globe because seat";
+var mnemonic = "churn text tortoise base trend rebel friend pelican special delay husband domain";

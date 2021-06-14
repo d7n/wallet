@@ -1,1 +1,1 @@
-var mnemonic = "thing right alpha dolphin chimney grit pear wash expose ghost ethics latin";
+var mnemonic = "chalk garlic hour cart photo hungry cable legend useful inmate bamboo urge";

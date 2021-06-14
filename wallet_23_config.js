@@ -1,1 +1,1 @@
-var mnemonic = "unusual very spray since appear shuffle family tiny chalk misery much toilet";
+var mnemonic = "smoke future cool flight adjust behave earn hill narrow empty betray arctic";

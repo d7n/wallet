@@ -1,1 +1,1 @@
-var mnemonic = "warfare bulb loyal toast indoor web nature ticket exist intact stool start";
+var mnemonic = "hurdle head moral rookie piece call trial merry emotion boring manage giant";

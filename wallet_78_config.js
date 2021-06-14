@@ -1,1 +1,1 @@
-var mnemonic = "spirit kingdom void pledge runway drop manual report derive school student category";
+var mnemonic = "fence column embark pair duck fetch core egg flight record shell stand";

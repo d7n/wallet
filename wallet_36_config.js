@@ -1,1 +1,1 @@
-var mnemonic = "sunny resource design connect valley slim gym trash gasp bonus wait solve";
+var mnemonic = "gentle series doctor away birth degree shoulder industry various patient offer boy";

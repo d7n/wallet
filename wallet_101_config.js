@@ -1,1 +1,1 @@
-var mnemonic = "rent depth crawl drift load spoil sauce smile discover cram skate kitchen";
+var mnemonic = "utility satoshi boil sound glide blur route cake energy same lava shrug";

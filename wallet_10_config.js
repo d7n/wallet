@@ -1,1 +1,1 @@
-var mnemonic = "require payment habit spoil scissors coil island merry upset opera unveil collect";
+var mnemonic = "cycle shed cherry various okay lake long spin hour blanket valid ethics";

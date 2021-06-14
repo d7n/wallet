@@ -1,1 +1,1 @@
-var mnemonic = "gap present people minute flower shadow fade body poverty blood outdoor segment";
+var mnemonic = "extra forest inside long food sample panic ready pelican salmon message junk";

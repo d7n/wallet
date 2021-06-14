@@ -1,1 +1,1 @@
-var mnemonic = "regular bullet safe forum picture setup tobacco sun silk beyond fall struggle";
+var mnemonic = "prosper bench major enter battle way minute cry danger beauty trend genre";

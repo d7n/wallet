@@ -1,1 +1,1 @@
-var mnemonic = "fiber sick crew parent pole uncle pencil hammer wasp boil rude elder";
+var mnemonic = "rhythm fit occur gym exit giant agent laundry panel person game piano";

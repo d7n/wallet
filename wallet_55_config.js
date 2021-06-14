@@ -1,1 +1,1 @@
-var mnemonic = "muscle install hope rural unit twelve disorder lonely jazz exit destroy panther";
+var mnemonic = "layer visit mass kit suggest coyote visual capable moral toward price volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar ocean kit corn pull rice thought quick decade future zero anchor";
+var mnemonic = "frame unusual piano wedding region pistol refuse satisfy ozone comic nuclear try";

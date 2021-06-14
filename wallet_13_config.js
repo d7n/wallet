@@ -1,1 +1,1 @@
-var mnemonic = "cake tumble cruel hill tooth foster virtual bottom neglect wood virus potato";
+var mnemonic = "decorate rural find parent limb spy ladder payment visit pretty review observe";

@@ -1,1 +1,1 @@
-var mnemonic = "control stem glory shaft seed debate elephant suggest dentist picture arrest please";
+var mnemonic = "satoshi hood scatter program cry pluck nose improve forum chest noble smooth";

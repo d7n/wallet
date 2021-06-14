@@ -1,1 +1,1 @@
-var mnemonic = "eagle roast sun liar okay silent engine moon aerobic sting runway mix";
+var mnemonic = "pizza devote again swarm before rapid illness left solar lemon sand wish";

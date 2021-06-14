@@ -1,1 +1,1 @@
-var mnemonic = "good demise torch jungle pistol rhythm nation shallow uncover project spray major";
+var mnemonic = "bean wood fee crush mirror acid jacket solution save lens already team";

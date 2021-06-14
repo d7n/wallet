@@ -1,1 +1,1 @@
-var mnemonic = "spend pledge wire dynamic neither tunnel toilet fan evil decade correct habit";
+var mnemonic = "giant leopard sell kangaroo conduct forward fruit nephew bicycle cat love tomorrow";

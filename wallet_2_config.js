@@ -1,1 +1,1 @@
-var mnemonic = "cargo weapon harsh dune uncover must promote orchard blood figure script install";
+var mnemonic = "hospital stumble hero shoe leg shaft avoid harsh sponsor pig home oblige";

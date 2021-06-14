@@ -1,1 +1,1 @@
-var mnemonic = "ecology size demise joy seek glance battle island exhaust miss lab salute";
+var mnemonic = "faculty error soda task chat axis music rotate donkey prosper wall father";

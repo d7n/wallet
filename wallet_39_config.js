@@ -1,1 +1,1 @@
-var mnemonic = "seed table fork giraffe message rival detect exile junk feel machine choice";
+var mnemonic = "baby lamp bone ancient bind diary banana proof able skin electric rack";

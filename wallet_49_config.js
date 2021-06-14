@@ -1,1 +1,1 @@
-var mnemonic = "problem test fluid stamp release select prevent album misery pole fashion fatal";
+var mnemonic = "volume enhance example afford pitch wide answer view whale gate antenna tomorrow";

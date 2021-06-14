@@ -1,1 +1,1 @@
-var mnemonic = "group burden hidden iron female road indoor eyebrow mixture menu emerge piano";
+var mnemonic = "arrange faint shove victory pelican eyebrow source evolve another fog detail coil";

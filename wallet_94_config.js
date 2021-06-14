@@ -1,1 +1,1 @@
-var mnemonic = "mail noodle height ice rent cave zone hint mercy result truck motion";
+var mnemonic = "garlic tube draft piano call comfort source myth inquiry lend run sunset";

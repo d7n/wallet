@@ -1,1 +1,1 @@
-var mnemonic = "order amazing ensure rice vast never glass defy satoshi spy music quality";
+var mnemonic = "burst museum law confirm appear host joke cake mail hurry already record";

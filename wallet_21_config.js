@@ -1,1 +1,1 @@
-var mnemonic = "tool gallery window napkin pig media devote obscure original before shed fancy";
+var mnemonic = "layer issue all book injury evil whale tube initial renew deputy ribbon";

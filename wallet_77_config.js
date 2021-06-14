@@ -1,1 +1,1 @@
-var mnemonic = "blue seat solution bind path owner rifle security subject minute disagree throw";
+var mnemonic = "safe rack fly horror kiss square crumble urban inhale simple erosion elevator";

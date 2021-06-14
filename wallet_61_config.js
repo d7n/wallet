@@ -1,1 +1,1 @@
-var mnemonic = "essay cheese choice mountain essence try toe brick grocery bunker wear visit";
+var mnemonic = "remember poverty book wine define foot trend fiber only broom piano alien";

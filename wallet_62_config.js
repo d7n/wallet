@@ -1,1 +1,1 @@
-var mnemonic = "clump pave spring multiply loyal manual raven huge rigid chunk fossil powder";
+var mnemonic = "scorpion submit seat bamboo bring gadget discover hub normal replace rail relief";

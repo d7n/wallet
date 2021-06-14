@@ -1,1 +1,1 @@
-var mnemonic = "car hotel oppose budget fatal extra enact small view hamster slice chimney";
+var mnemonic = "stairs swallow chef ridge letter robot library dignity obvious program symbol inmate";

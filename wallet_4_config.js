@@ -1,1 +1,1 @@
-var mnemonic = "visual hub nice food banana evil impact palm begin slide major engage";
+var mnemonic = "lake erupt trust circle foil dress there mind vendor snack helmet measure";

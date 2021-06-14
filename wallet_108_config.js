@@ -1,1 +1,1 @@
-var mnemonic = "system priority improve project useless civil pause remember garbage define repair year";
+var mnemonic = "road open garage sample minimum proof ostrich primary object lecture about young";

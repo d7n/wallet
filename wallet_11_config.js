@@ -1,1 +1,1 @@
-var mnemonic = "size control fork save isolate lava citizen unit detail lab edge resist";
+var mnemonic = "bomb injury move skill truck total midnight betray mother simple comic taste";

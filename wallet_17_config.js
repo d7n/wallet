@@ -1,1 +1,1 @@
-var mnemonic = "divert mansion device retreat senior nuclear chest sting diesel pig ignore swamp";
+var mnemonic = "develop aim laugh small fever nature add describe true rent utility disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "group salute body shed vendor owner supply thrive zebra nerve delay loop";
+var mnemonic = "attend uncle menu anger panic later defy sand awkward machine april scorpion";

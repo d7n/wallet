@@ -1,1 +1,1 @@
-var mnemonic = "oil garden season man arena monkey east admit mercy session viable online";
+var mnemonic = "quantum blossom arch ribbon civil already survey monkey cause enter donate mystery";

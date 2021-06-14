@@ -1,1 +1,1 @@
-var mnemonic = "rigid brave stool hospital stove glimpse turkey stay symptom shaft because neglect";
+var mnemonic = "caught neglect sun stage mule slot trim polar demise lava vital spoon";

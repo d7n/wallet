@@ -1,1 +1,1 @@
-var mnemonic = "quality topic liberty dutch search stand truly taxi legend defy come emerge";
+var mnemonic = "mixed pumpkin kind upset extend immense gauge wash harvest speak avoid unlock";

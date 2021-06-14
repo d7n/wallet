@@ -1,1 +1,1 @@
-var mnemonic = "mammal wool click visa sudden spice omit gloom awkward brown endless wrap";
+var mnemonic = "spoon unaware jump clap harbor vivid legal coach action fiber machine hair";

@@ -1,1 +1,1 @@
-var mnemonic = "govern favorite police mention clay shield farm universe couple solid vehicle rely";
+var mnemonic = "describe valley argue tribe outdoor deny cheap chef carpet horse boil cupboard";
