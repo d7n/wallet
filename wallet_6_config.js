@@ -1,1 +1,1 @@
-var mnemonic = "crazy fork name alarm satisfy loan grain salad jelly century give kiss";
+var mnemonic = "awake wire truly ill response civil dawn dance bamboo surge original shoe";

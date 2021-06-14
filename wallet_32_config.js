@@ -1,1 +1,1 @@
-var mnemonic = "vault permit category chalk capable fresh gym onion immune cheese cupboard circle";
+var mnemonic = "insane ice cabin torch antenna panic frog total goose derive advice steak";

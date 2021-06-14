@@ -1,1 +1,1 @@
-var mnemonic = "aim area invite amount force token turkey dance creek peasant ride noble";
+var mnemonic = "abandon rent pond salon inhale identify rose possible tragic glad manual cement";

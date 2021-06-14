@@ -1,1 +1,1 @@
-var mnemonic = "enrich spirit prize quote bike spawn submit reward island armed clip view";
+var mnemonic = "season print onion retire coin penalty alert cereal unfair robust cradle ask";

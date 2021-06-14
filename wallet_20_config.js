@@ -1,1 +1,1 @@
-var mnemonic = "busy novel science weapon organ violin cluster story cigar resource solve rib";
+var mnemonic = "priority suggest similar negative exotic gentle shrug romance rescue excess maid stuff";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket basket ankle galaxy seat virus merry angle because mule sure clock";
+var mnemonic = "evil decide ocean girl indicate taxi rocket adjust air diagram gather abandon";

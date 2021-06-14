@@ -1,1 +1,1 @@
-var mnemonic = "salute crumble differ control cry garment tuition noble ostrich fiber dirt deposit";
+var mnemonic = "repair silent tomato pilot cement crater ship away machine potato inner point";

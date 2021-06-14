@@ -1,1 +1,1 @@
-var mnemonic = "glare one puzzle bamboo sword use manage zone subway box journey glass";
+var mnemonic = "girl inquiry violin original design science poem bronze pottery warm turtle equal";

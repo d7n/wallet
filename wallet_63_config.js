@@ -1,1 +1,1 @@
-var mnemonic = "enter extend flat picnic hint zero slot observe east breeze there fruit";
+var mnemonic = "dog echo have feed stairs wait current basic glory return blanket eagle";

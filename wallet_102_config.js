@@ -1,1 +1,1 @@
-var mnemonic = "royal train admit accuse reform dish frog success melt start view shiver";
+var mnemonic = "slice lucky harbor admit pig baby sample pair trust witness budget pigeon";

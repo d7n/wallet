@@ -1,1 +1,1 @@
-var mnemonic = "account allow hidden close domain spawn view use city spider finger gas";
+var mnemonic = "require bronze bike hill fan pipe write pudding foot riot hip friend";

@@ -1,1 +1,1 @@
-var mnemonic = "aim permit express long artwork vague pupil play renew kingdom asset lizard";
+var mnemonic = "payment song barely juice fox trash jelly replace year toddler surface bottom";

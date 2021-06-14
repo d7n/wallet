@@ -1,1 +1,1 @@
-var mnemonic = "siren silk weird inner wide oven modify uphold seven salute profit tuition";
+var mnemonic = "episode dinosaur wide curve usual narrow include harbor stadium insect replace digital";

@@ -1,1 +1,1 @@
-var mnemonic = "way waste dumb chaos waste amazing fine width slender panther time loyal";
+var mnemonic = "amused fantasy input rose blame rail tooth umbrella evoke mixed orient excess";

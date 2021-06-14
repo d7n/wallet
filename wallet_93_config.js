@@ -1,1 +1,1 @@
-var mnemonic = "harbor auto fade cricket voyage promote science suspect detail page vicious royal";
+var mnemonic = "tube right stamp multiply expand truck monitor midnight surprise wrong settle chef";

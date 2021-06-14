@@ -1,1 +1,1 @@
-var mnemonic = "barely electric heart own flock page october hazard labor wealth large attitude";
+var mnemonic = "escape dizzy ranch income alien lesson silk hunt safe north leisure update";

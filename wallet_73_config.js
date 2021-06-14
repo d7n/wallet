@@ -1,1 +1,1 @@
-var mnemonic = "loan relax visual sail furnace harbor degree essence pear promote melt hire";
+var mnemonic = "place gas quote fold raccoon strike term certain vibrant reunion lend medal";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy subway spy brown all appear market disorder episode spider clinic dance";
+var mnemonic = "large stuff shoulder about hire february north mail display claw frost tell";

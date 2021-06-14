@@ -1,1 +1,1 @@
-var mnemonic = "grit network impulse hammer blood practice little estate remain zone wonder sheriff";
+var mnemonic = "cotton shop crime inhale remind word thumb stay behind scrap sort sure";

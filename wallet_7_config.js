@@ -1,1 +1,1 @@
-var mnemonic = "net scissors valve garage demand friend alien notice basic nominee melody scare";
+var mnemonic = "grief loop dune denial dog giraffe yellow valid genius order clerk advance";

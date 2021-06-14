@@ -1,1 +1,1 @@
-var mnemonic = "embody antique display orphan harbor smile scale peasant tattoo scale general repeat";
+var mnemonic = "magic join actual crunch autumn purse evidence spy business feed enlist cook";

@@ -1,1 +1,1 @@
-var mnemonic = "provide wrong switch guard recall egg visual tortoise wheel humor music amateur";
+var mnemonic = "member mutual letter post snap transfer imitate finish index fresh cost ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "rib celery dismiss category hood sphere ethics maid race already typical cloth";
+var mnemonic = "message menu extra symptom name ice grit author ugly effort tilt aspect";

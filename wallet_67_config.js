@@ -1,1 +1,1 @@
-var mnemonic = "morning shock inspire decide rebuild letter burst twenty charge chimney broccoli install";
+var mnemonic = "oppose disease school hub script clump lab message cave door burst rate";

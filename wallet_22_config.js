@@ -1,1 +1,1 @@
-var mnemonic = "plastic together health rate concert humble cliff faith super problem dwarf unfair";
+var mnemonic = "black fame three popular attract reflect front slide true decrease sell inside";

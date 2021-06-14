@@ -1,1 +1,1 @@
-var mnemonic = "wagon resist record allow accuse cereal alter melody inherit door manual core";
+var mnemonic = "pilot head hole leopard result funny soccer blouse dream hood fog ridge";

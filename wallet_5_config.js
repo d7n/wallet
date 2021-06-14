@@ -1,1 +1,1 @@
-var mnemonic = "stool fancy shallow nurse fortune trash capital gown loyal lab adapt depth";
+var mnemonic = "floor arctic allow aisle shoulder crime mass girl moral nation bronze isolate";

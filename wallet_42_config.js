@@ -1,1 +1,1 @@
-var mnemonic = "brain leave road spot room pen shift library maid ranch tube unlock";
+var mnemonic = "clever innocent wave soldier sock ceiling struggle test power six place sort";

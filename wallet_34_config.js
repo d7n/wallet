@@ -1,1 +1,1 @@
-var mnemonic = "topic blue scan blouse steak faint surround eight mixture knock rice evoke";
+var mnemonic = "disease salute space bubble visa almost lion gain angry destroy gauge area";

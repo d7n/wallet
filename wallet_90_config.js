@@ -1,1 +1,1 @@
-var mnemonic = "retreat situate vicious warm arrow nephew aunt security witness ivory blossom lunch";
+var mnemonic = "during lawn crime wire palace industry grit priority during zero warrior rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "twice reopen pencil mango become menu dirt book plunge lyrics fame raw";
+var mnemonic = "code blanket sound opera dove enhance since waste direct raccoon school adult";

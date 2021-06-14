@@ -1,1 +1,1 @@
-var mnemonic = "knee reduce cave all artefact appear library develop unveil flavor inside govern";
+var mnemonic = "elder hair worry bring inherit angle plastic model bid runway juice salad";

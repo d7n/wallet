@@ -1,1 +1,1 @@
-var mnemonic = "ahead nice remove author release monkey visit attend reward trick enable gym";
+var mnemonic = "solution olive laundry balance deer toss fade around initial oxygen connect game";

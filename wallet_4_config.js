@@ -1,1 +1,1 @@
-var mnemonic = "symbol library mandate pond solid mail inform praise stay rack blush broken";
+var mnemonic = "spice trick note style original resource peace buffalo quantum leader armor stereo";

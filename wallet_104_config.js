@@ -1,1 +1,1 @@
-var mnemonic = "excess donate theme disagree pole improve hungry survey shallow negative faint boss";
+var mnemonic = "infant behave text rebel convince area protect gate wasp inform hamster employ";

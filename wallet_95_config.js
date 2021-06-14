@@ -1,1 +1,1 @@
-var mnemonic = "screen genre display glare short twin talk night talent image dentist afford";
+var mnemonic = "inside color ten such duty feed diamond indicate flag champion south fluid";

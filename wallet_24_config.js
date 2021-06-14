@@ -1,1 +1,1 @@
-var mnemonic = "winter romance brother upgrade swear runway follow carpet loop gauge merge fury";
+var mnemonic = "liberty learn rude marble system monkey toy law connect friend bring fog";

@@ -1,1 +1,1 @@
-var mnemonic = "old shock cook yard outer pole skin normal survey engine about rubber";
+var mnemonic = "crop between vital chest worry cradle liquid pet rich actor tail obvious";

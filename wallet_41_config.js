@@ -1,1 +1,1 @@
-var mnemonic = "piano cycle floor beef oxygen dentist mechanic furnace fitness jaguar general beach";
+var mnemonic = "dance easy warrior illness jewel country clay profit sight behave cover verify";

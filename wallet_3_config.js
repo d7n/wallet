@@ -1,1 +1,1 @@
-var mnemonic = "unable across front knock drill little swarm predict black slight essay deputy";
+var mnemonic = "below miss gown wheel slice topic enroll little rocket address diagram manual";

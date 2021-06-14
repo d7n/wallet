@@ -1,1 +1,1 @@
-var mnemonic = "define soup feature margin spirit gauge donor oven foster entire industry over";
+var mnemonic = "minimum cart memory bless drive powder sting arrive gorilla hub law chef";

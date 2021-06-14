@@ -1,1 +1,1 @@
-var mnemonic = "blossom someone question scan dolphin sketch home start cream feel circle road";
+var mnemonic = "ketchup aim mixed wreck escape matrix kidney clap system seminar tube swap";

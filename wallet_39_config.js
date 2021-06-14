@@ -1,1 +1,1 @@
-var mnemonic = "around essence unveil soap later dove arena police table woman century stove";
+var mnemonic = "future force pipe night popular fiber wolf pencil monster kind half crush";

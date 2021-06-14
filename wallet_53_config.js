@@ -1,1 +1,1 @@
-var mnemonic = "moral divorce clock snow pledge explain vast token unit mobile fiction mirror";
+var mnemonic = "wide armed culture normal toss version choose ostrich sample stereo come drift";

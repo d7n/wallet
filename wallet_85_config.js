@@ -1,1 +1,1 @@
-var mnemonic = "shrimp game narrow spare village frozen upper bone solid copy catalog test";
+var mnemonic = "joke paper label draw moment gaze inflict blossom half print alcohol nest";

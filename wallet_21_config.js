@@ -1,1 +1,1 @@
-var mnemonic = "south vacuum satoshi extra afraid cheese promote math canoe wonder nature live";
+var mnemonic = "clown staff father upset mention room capital cherry ability office predict stomach";

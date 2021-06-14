@@ -1,1 +1,1 @@
-var mnemonic = "disorder armed cup bid steel ceiling jazz frown relief pupil address ridge";
+var mnemonic = "leopard wash humor void secret velvet laugh bamboo manual fresh unfair arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy minute announce globe clump glance dad bitter pledge blush melt infant";
+var mnemonic = "dad stairs dress circle brisk wasp olympic point disease steel judge face";

@@ -1,1 +1,1 @@
-var mnemonic = "elder sweet motor bounce infant arrange exhaust discover patch pole clock town";
+var mnemonic = "snow snack tribe soccer insect walnut egg morning mirror coast awake flower";

@@ -1,1 +1,1 @@
-var mnemonic = "scale nerve scale brother assault affair cactus refuse blur carbon defense region";
+var mnemonic = "obey finger duck flip biology borrow loan coin brave energy slam coyote";

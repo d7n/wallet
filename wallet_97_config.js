@@ -1,1 +1,1 @@
-var mnemonic = "kiwi mosquito reunion lyrics image squeeze cruel live cat verb spread glue";
+var mnemonic = "winter abstract current moon layer job bunker wreck fold pretty island wear";

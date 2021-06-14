@@ -1,1 +1,1 @@
-var mnemonic = "symbol obtain change tenant mountain mobile lamp digital parade cupboard cupboard day";
+var mnemonic = "release purse supreme blast peace today brown apple possible today arrange slam";

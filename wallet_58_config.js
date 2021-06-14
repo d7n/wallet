@@ -1,1 +1,1 @@
-var mnemonic = "galaxy web play powder urban collect damage upgrade purity situate token either";
+var mnemonic = "judge ridge climb student rate farm critic fantasy local embark spell smart";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise tennis student select sustain joy useless captain online key slide loyal";
+var mnemonic = "birth key family snow gloom crucial spot absent museum mimic couple aisle";

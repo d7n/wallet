@@ -1,1 +1,1 @@
-var mnemonic = "fashion copy super discover enlist survey shy awful guard coconut clip health";
+var mnemonic = "artwork disagree cargo direct wool nominee unable twist stick vehicle cram vivid";

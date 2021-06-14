@@ -1,1 +1,1 @@
-var mnemonic = "depend topic someone today era rural penalty town wage neglect crack lunar";
+var mnemonic = "pudding oppose average labor orange find physical mean song aerobic siege bullet";

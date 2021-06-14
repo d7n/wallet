@@ -1,1 +1,1 @@
-var mnemonic = "peace gentle trim side pond pretty dish slot treat artist nothing system";
+var mnemonic = "utility tackle lawn foot better image plug left error ability fan scale";

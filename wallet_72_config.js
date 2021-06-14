@@ -1,1 +1,1 @@
-var mnemonic = "render ancient recipe axis vacuum wood super panic cactus ring require capital";
+var mnemonic = "history small awesome front mistake utility milk puppy injury panda barely artwork";

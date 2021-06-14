@@ -1,1 +1,1 @@
-var mnemonic = "close fragile mushroom wash monkey bitter image hover pride about wool crush";
+var mnemonic = "lucky drive pyramid sniff toilet pioneer loop witness float uncover goddess glow";

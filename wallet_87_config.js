@@ -1,1 +1,1 @@
-var mnemonic = "bracket project relief reason supreme small volume siren urge exhibit loud artefact";
+var mnemonic = "spot fiber lava planet execute below opinion dry remain issue special verify";

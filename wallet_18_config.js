@@ -1,1 +1,1 @@
-var mnemonic = "acoustic broccoli unlock razor knee supply rabbit agree achieve noise visual affair";
+var mnemonic = "onion gossip enemy state odor defense staff globe daring story aware manage";

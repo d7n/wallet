@@ -1,1 +1,1 @@
-var mnemonic = "icon start awful radar regret cushion universe cost obscure waste draw merit";
+var mnemonic = "gym crisp noise settle nose shove biology grief tribe scheme bike lens";

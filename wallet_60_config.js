@@ -1,1 +1,1 @@
-var mnemonic = "domain shift milk fluid adult point step virus ordinary wish observe horse";
+var mnemonic = "punch supreme noodle banner stool receive theory try swim just weather basket";

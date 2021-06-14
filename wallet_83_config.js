@@ -1,1 +1,1 @@
-var mnemonic = "food dwarf behind verb anxiety monkey south sign dress fly unaware deer";
+var mnemonic = "grunt athlete tenant crowd muffin drill okay inflict present immense quote hunt";

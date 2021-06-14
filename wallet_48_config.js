@@ -1,1 +1,1 @@
-var mnemonic = "now crisp logic emotion mushroom earn foam cause poverty flower toe tooth";
+var mnemonic = "banana yellow warrior affair crack height garment muscle peasant buffalo budget document";

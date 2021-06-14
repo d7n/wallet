@@ -1,1 +1,1 @@
-var mnemonic = "work caution dawn lounge broken warfare farm essay wolf album exotic provide";
+var mnemonic = "choice protect mind split aware pluck airport chicken edit swarm gentle gallery";

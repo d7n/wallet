@@ -1,1 +1,1 @@
-var mnemonic = "over around royal absorb road dinner toward alter story frown drop island";
+var mnemonic = "tooth run month hurt inside monster hour guide champion sweet negative boat";

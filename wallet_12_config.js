@@ -1,1 +1,1 @@
-var mnemonic = "assault clock various interest race beyond excess royal cash custom lounge ivory";
+var mnemonic = "reason great toe device drill holiday smoke match embark treat narrow spring";

@@ -1,1 +1,1 @@
-var mnemonic = "extra balance army finish own grace pen cigar attend modify dwarf able";
+var mnemonic = "hello casual can copper lava address alone shield inside angle unusual drip";

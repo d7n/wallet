@@ -1,1 +1,1 @@
-var mnemonic = "coffee core hundred fetch timber antenna analyst senior funny canoe glow rhythm";
+var mnemonic = "rebuild concert tragic chronic lawn turtle patient calm leisure century powder security";

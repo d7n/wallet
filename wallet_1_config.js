@@ -1,1 +1,1 @@
-var mnemonic = "owner hockey case lonely fix sleep tip pause screen music secret kidney";
+var mnemonic = "helmet admit improve brother online develop party between muscle slide raccoon tissue";

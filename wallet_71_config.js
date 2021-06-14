@@ -1,1 +1,1 @@
-var mnemonic = "verify page hint grace diet autumn rose dry jewel angry youth sword";
+var mnemonic = "tenant laptop flat nest use hobby piece night local ice flock unable";

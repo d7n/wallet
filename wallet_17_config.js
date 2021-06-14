@@ -1,1 +1,1 @@
-var mnemonic = "hope family craft report motion bracket elite asset moral fog surface erosion";
+var mnemonic = "play gorilla pledge ride gloom jacket daughter misery anger crowd coast shed";

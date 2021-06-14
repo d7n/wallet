@@ -1,1 +1,1 @@
-var mnemonic = "chimney odor pride dilemma sock this cross always genius erosion favorite hobby";
+var mnemonic = "debris intact palm must echo off impulse manage series erase civil soda";

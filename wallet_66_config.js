@@ -1,1 +1,1 @@
-var mnemonic = "wheat guess need tide liberty strategy child frequent include angle conduct captain";
+var mnemonic = "anxiety banner wall captain client throw excuse laundry robust budget differ pen";

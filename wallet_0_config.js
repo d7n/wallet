@@ -1,1 +1,1 @@
-var mnemonic = "auction roof math output secret forum napkin hotel frame warfare air dismiss";
+var mnemonic = "disorder cash renew side slice guess mouse ribbon festival caution ocean slim";

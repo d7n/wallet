@@ -1,1 +1,1 @@
-var mnemonic = "maple near rebuild artefact patrol share clean matter girl wrist awful develop";
+var mnemonic = "mango slender skin diesel simple diamond diesel logic junior rhythm type sugar";

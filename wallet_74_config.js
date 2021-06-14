@@ -1,1 +1,1 @@
-var mnemonic = "category april clown coyote once car guilt mom repeat banana acoustic winner";
+var mnemonic = "maid upper idea patch save feature emotion logic inner struggle tissue twist";

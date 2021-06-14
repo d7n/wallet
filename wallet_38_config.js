@@ -1,1 +1,1 @@
-var mnemonic = "rare sorry pulp fix cycle card glide nice liberty click basket comfort";
+var mnemonic = "speed fire federal focus notable lottery grid slush inquiry ring month large";

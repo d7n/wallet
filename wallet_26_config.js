@@ -1,1 +1,1 @@
-var mnemonic = "hover jelly repeat gloom okay universe benefit sweet frown suspect twin violin";
+var mnemonic = "train fringe degree task patch record over dynamic security guard essence identify";

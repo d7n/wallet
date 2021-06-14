@@ -1,1 +1,1 @@
-var mnemonic = "shaft icon vendor awkward spirit title need matter oval act salt burst";
+var mnemonic = "social blush supreme session auction select benefit clown fix midnight exact essay";

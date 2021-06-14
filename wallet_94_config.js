@@ -1,1 +1,1 @@
-var mnemonic = "else wonder hover cement ill write enter cycle book tail there fork";
+var mnemonic = "double endless trophy neither valve blind analyst window cheese rent future position";

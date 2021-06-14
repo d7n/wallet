@@ -1,1 +1,1 @@
-var mnemonic = "kitchen jewel since glide whale buffalo arrange interest volume leopard glove own";
+var mnemonic = "guilt apple easily avocado volume arch misery mosquito hover south enrich honey";

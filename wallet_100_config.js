@@ -1,1 +1,1 @@
-var mnemonic = "rule love unique icon piano chat cradle burden exit under giraffe company";
+var mnemonic = "math client window net distance clean retire afford journey parade ecology minimum";

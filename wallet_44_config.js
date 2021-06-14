@@ -1,1 +1,1 @@
-var mnemonic = "dolphin include ostrich culture become mask conduct demand cave catch fatal scene";
+var mnemonic = "ill divide dilemma universe tattoo auction drip female leopard release bird girl";

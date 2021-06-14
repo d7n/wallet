@@ -1,1 +1,1 @@
-var mnemonic = "material hen nut seek wing swarm address quiz ghost miracle hub table";
+var mnemonic = "remember kick swamp inhale volume mandate snack baby skill change maze bullet";

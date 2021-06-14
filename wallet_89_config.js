@@ -1,1 +1,1 @@
-var mnemonic = "length air foster basket differ life huge rely bargain actress team claw";
+var mnemonic = "later online pear intact bicycle snap rice wage like edit suspect proof";
