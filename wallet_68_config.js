@@ -1,1 +1,1 @@
-var mnemonic = "ice across receive snap half toy resource poem news fever hour hunt";
+var mnemonic = "goose rebel shock gate trumpet hold odor glass false decline zone female";

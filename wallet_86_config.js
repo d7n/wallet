@@ -1,1 +1,1 @@
-var mnemonic = "obscure fiction question provide habit layer sight entire off order certain pilot";
+var mnemonic = "select punch tide slide neither when monster run annual sign exchange green";

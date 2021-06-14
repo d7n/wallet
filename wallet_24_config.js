@@ -1,1 +1,1 @@
-var mnemonic = "deposit vendor surface drive swing include slender asthma attend top kingdom love";
+var mnemonic = "fault timber tip rookie rocket install song tell witness column hero matrix";

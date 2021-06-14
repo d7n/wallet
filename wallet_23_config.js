@@ -1,1 +1,1 @@
-var mnemonic = "insane bicycle salt address critic view glimpse rule evidence popular act road";
+var mnemonic = "slender aunt bitter sound into grid boring visual source away casual fortune";

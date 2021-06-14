@@ -1,1 +1,1 @@
-var mnemonic = "piece perfect claw tank mail sustain because various gasp lens elite person";
+var mnemonic = "behind public mask calm seat ensure write hurdle around swear army grain";

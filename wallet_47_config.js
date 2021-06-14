@@ -1,1 +1,1 @@
-var mnemonic = "away blur head insane clock gallery wear fiscal margin similar ordinary monitor";
+var mnemonic = "law involve fun two cover melt twelve swamp almost urban frown poet";

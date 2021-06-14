@@ -1,1 +1,1 @@
-var mnemonic = "rib pottery season fragile behind glimpse power whip sketch weather pioneer broken";
+var mnemonic = "then pencil evil surge amused net dad dose exotic gather world sphere";

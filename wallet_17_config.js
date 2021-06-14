@@ -1,1 +1,1 @@
-var mnemonic = "erode account oxygen seed fork flag basket half tired junior gadget end";
+var mnemonic = "glare cattle asthma elite own flight rabbit loud light crop must uncover";

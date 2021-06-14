@@ -1,1 +1,1 @@
-var mnemonic = "true amused slab derive country midnight sudden deliver proud pride pig rib";
+var mnemonic = "minute good order muffin spot cradle frost vault town parent else gap";

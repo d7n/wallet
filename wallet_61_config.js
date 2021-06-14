@@ -1,1 +1,1 @@
-var mnemonic = "produce group snack robust post vague delay must dinosaur spirit output upon";
+var mnemonic = "hand frost say unlock rigid salmon green off matrix retire replace common";

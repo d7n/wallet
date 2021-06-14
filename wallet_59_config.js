@@ -1,1 +1,1 @@
-var mnemonic = "wealth canoe hunt collect intact coyote return brief ethics seat fox pet";
+var mnemonic = "trigger appear mad hair illness color glove about exile fine coast flower";

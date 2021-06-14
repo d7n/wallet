@@ -1,1 +1,1 @@
-var mnemonic = "doctor able diamond patient laptop update limit angry banana code word world";
+var mnemonic = "frame trouble various soul exile property lesson sausage wrong mail oyster code";

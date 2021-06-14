@@ -1,1 +1,1 @@
-var mnemonic = "broccoli tennis option rose talent limb antique steak possible stone lunar tomorrow";
+var mnemonic = "spring leg twelve assume coconut stairs sadness priority quality inject dish pole";

@@ -1,1 +1,1 @@
-var mnemonic = "myth tomorrow cereal sibling option glass orbit grunt section immune diagram cool";
+var mnemonic = "gravity path retreat mirror wall brand hat narrow window culture memory ceiling";

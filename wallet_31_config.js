@@ -1,1 +1,1 @@
-var mnemonic = "sleep strategy scorpion then blanket mercy bacon aisle among raven fragile chat";
+var mnemonic = "tortoise twin depth scale suit join fold frost remain point solid rely";

@@ -1,1 +1,1 @@
-var mnemonic = "toe verb pretty keep bargain side weather flip curtain convince ecology swear";
+var mnemonic = "orient crouch heavy special wine flush orient nest advice will elegant lift";

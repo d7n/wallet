@@ -1,1 +1,1 @@
-var mnemonic = "milk salad miracle apart winter across brass blouse feature glimpse same spoon";
+var mnemonic = "chest other awful vivid favorite obtain index cover grace absurd choose image";

@@ -1,1 +1,1 @@
-var mnemonic = "drift install mule congress flavor capable fetch culture finish weapon miss exclude";
+var mnemonic = "glove icon dial side traffic boost fade afford someone truck twist chunk";

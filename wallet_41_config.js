@@ -1,1 +1,1 @@
-var mnemonic = "trash couple expose grape day extend juice lunch scissors glass desert cash";
+var mnemonic = "soon tip simple crawl meat ring risk fault deposit love toast lend";

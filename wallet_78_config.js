@@ -1,1 +1,1 @@
-var mnemonic = "agent ripple long betray soda worry sponsor wreck volume sunny that upon";
+var mnemonic = "raven drum whisper imitate catch swap face method oven march rabbit noise";

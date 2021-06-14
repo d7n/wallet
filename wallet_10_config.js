@@ -1,1 +1,1 @@
-var mnemonic = "observe depend give wing damp delay mix keep pool gate grain share";
+var mnemonic = "orphan top found small insane bird chronic action able morning prevent output";

@@ -1,1 +1,1 @@
-var mnemonic = "census now peasant wink release ketchup expire oven galaxy crucial dinner reward";
+var mnemonic = "scene shield pilot fluid almost voyage gas valid width cute snake tree";

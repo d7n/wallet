@@ -1,1 +1,1 @@
-var mnemonic = "image dust recall annual behave embody sound unit simple chronic inner story";
+var mnemonic = "train screen waste hurt attitude else entry army degree lunch carpet rival";

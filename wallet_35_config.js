@@ -1,1 +1,1 @@
-var mnemonic = "egg float chronic deal era plate remove lawn never quick found what";
+var mnemonic = "badge pull close bullet slogan acoustic fork benefit sentence arrive jaguar fury";

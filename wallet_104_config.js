@@ -1,1 +1,1 @@
-var mnemonic = "oak half blind system garment delay term summer badge stairs icon stool";
+var mnemonic = "text fat kitten quit foam genius cancel quiz jazz embrace drift visit";

@@ -1,1 +1,1 @@
-var mnemonic = "slice accident conduct argue divorce sail seat elder message witness lock wheel";
+var mnemonic = "false twist business need faint spatial rare option insane valid inject shoot";

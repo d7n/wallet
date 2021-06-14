@@ -1,1 +1,1 @@
-var mnemonic = "exhaust leave enforce increase alley knife stairs spatial very roof derive jealous";
+var mnemonic = "nurse screen flip front slot mutual beyond child noodle betray negative junk";

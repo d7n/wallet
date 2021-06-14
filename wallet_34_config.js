@@ -1,1 +1,1 @@
-var mnemonic = "obey elder spirit scare thing empower cancel shrug fade ankle buddy pill";
+var mnemonic = "bless dial seat foster exile leaf range achieve lizard penalty car vacuum";

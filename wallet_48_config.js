@@ -1,1 +1,1 @@
-var mnemonic = "creek derive before draw rival mango february turn fade moral farm shock";
+var mnemonic = "volcano bag reveal draft famous onion behind dream broccoli camera cabin cart";

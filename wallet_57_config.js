@@ -1,1 +1,1 @@
-var mnemonic = "forward divorce honey present divert off blue puppy above satoshi sponsor blast";
+var mnemonic = "bless whale chase nasty bicycle crack engage zero acid replace place chief";

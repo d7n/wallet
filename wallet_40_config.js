@@ -1,1 +1,1 @@
-var mnemonic = "slab hint elbow catalog observe such virtual wrist fatal moral plate never";
+var mnemonic = "mother junior culture frog six someone special denial assist chimney license dentist";

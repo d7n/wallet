@@ -1,1 +1,1 @@
-var mnemonic = "flee relief youth beef wage year popular apple glimpse illegal section cabin";
+var mnemonic = "nothing priority long staff summer gorilla fiber gold weapon west switch ceiling";

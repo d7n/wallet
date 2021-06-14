@@ -1,1 +1,1 @@
-var mnemonic = "lemon maple melody category afraid warrior broccoli churn small pond swarm someone";
+var mnemonic = "rocket smile slogan city morning front face benefit happy love august please";

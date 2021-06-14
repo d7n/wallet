@@ -1,1 +1,1 @@
-var mnemonic = "absorb slice mouse morning envelope tiny assume cable detail silly cart about";
+var mnemonic = "tail pioneer clinic argue trigger monster canal silver point outer about never";

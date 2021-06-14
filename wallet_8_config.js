@@ -1,1 +1,1 @@
-var mnemonic = "answer lake engage toilet cinnamon grow toss eye subway build cash pave";
+var mnemonic = "van begin current retreat flock gaze top raise other brother earn fault";

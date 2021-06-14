@@ -1,1 +1,1 @@
-var mnemonic = "brother index blossom guide ready kingdom negative earn coyote sample stay tenant";
+var mnemonic = "armor entire adapt delay hand blame cupboard mimic cancel extend horror middle";

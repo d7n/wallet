@@ -1,1 +1,1 @@
-var mnemonic = "wink tomato organ crumble tenant hill hello kingdom already casual sure collect";
+var mnemonic = "fire audit brand robot same verb unit dizzy gentle fatigue require narrow";

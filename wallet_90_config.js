@@ -1,1 +1,1 @@
-var mnemonic = "damage letter black cotton route loyal furnace wild success wild excess skate";
+var mnemonic = "allow purity soda hockey couple bid scissors actress deposit glove solve orient";

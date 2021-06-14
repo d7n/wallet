@@ -1,1 +1,1 @@
-var mnemonic = "team clever tiger glide staff ceiling beach pluck enforce utility either purchase";
+var mnemonic = "vessel rotate fork display another pact episode iron weather humble today chest";

@@ -1,1 +1,1 @@
-var mnemonic = "salad real mimic funny moral sun cupboard team vapor various meadow settle";
+var mnemonic = "reunion maze wire hole resemble vacuum file conduct chunk saddle jump decide";

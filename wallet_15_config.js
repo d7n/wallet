@@ -1,1 +1,1 @@
-var mnemonic = "abandon rich disease barrel outdoor lucky garbage patrol lift provide dilemma spread";
+var mnemonic = "bounce unfold bag marble fish rate split actual enough elder blind immense";

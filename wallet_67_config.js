@@ -1,1 +1,1 @@
-var mnemonic = "loan donor donor blast behind odor just network copy mail place puppy";
+var mnemonic = "drink chief eager cargo fluid vocal popular turn cherry permit wheel menu";

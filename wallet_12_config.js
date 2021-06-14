@@ -1,1 +1,1 @@
-var mnemonic = "puppy peanut dignity transfer usual connect desk feed bachelor ice chimney baby";
+var mnemonic = "math corn foot local buddy remove there actress grace aspect swim mimic";

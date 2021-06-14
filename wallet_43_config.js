@@ -1,1 +1,1 @@
-var mnemonic = "mimic chef discover hole caught pen alien carry portion master drop desert";
+var mnemonic = "east main skin enable merge enough fox spirit side input half surprise";

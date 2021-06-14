@@ -1,1 +1,1 @@
-var mnemonic = "admit message fitness voyage ritual very edit saddle dumb sound memory jewel";
+var mnemonic = "sphere economy whip mimic proud jaguar panda pond author endorse inject keen";

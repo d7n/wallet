@@ -1,1 +1,1 @@
-var mnemonic = "index garment expand strike celery few lawn clap wrong forget urge opera";
+var mnemonic = "pony remove hint category snap scare build early negative forward piece injury";

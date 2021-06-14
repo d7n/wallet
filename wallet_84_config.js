@@ -1,1 +1,1 @@
-var mnemonic = "giraffe object poverty hello gym physical snack fame puppy famous amazing leaf";
+var mnemonic = "crane know minimum enlist alter peanut brave win sausage bubble enhance enemy";

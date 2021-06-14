@@ -1,1 +1,1 @@
-var mnemonic = "cave security horn salad rebel sell local prepare defy brass isolate adjust";
+var mnemonic = "change need opinion title agree item face luggage decide move image shield";

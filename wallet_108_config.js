@@ -1,1 +1,1 @@
-var mnemonic = "bulb position device follow area coral impulse family surge ancient install jungle";
+var mnemonic = "boss improve change dignity flight flash announce thank model face umbrella derive";

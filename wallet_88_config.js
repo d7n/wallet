@@ -1,1 +1,1 @@
-var mnemonic = "devote edge wink scissors scheme hurt flash tackle earn agent true river";
+var mnemonic = "alien iron easy you panel spoil crater critic race reunion fury lady";

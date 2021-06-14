@@ -1,1 +1,1 @@
-var mnemonic = "parade call inflict fury object eagle cliff canal credit hungry draft prison";
+var mnemonic = "clerk artwork boat unknown shiver catch movie distance must install silent danger";

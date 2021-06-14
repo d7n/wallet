@@ -1,1 +1,1 @@
-var mnemonic = "cigar element flight amused unique pave thumb winter seed sugar foil ritual";
+var mnemonic = "latin prevent text amount success quarter ancient prosper auction dose thank hole";

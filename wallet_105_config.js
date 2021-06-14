@@ -1,1 +1,1 @@
-var mnemonic = "oppose work company fan number confirm poem time task august home february";
+var mnemonic = "fashion glare sad mammal mountain lock degree eternal damp finish timber lion";

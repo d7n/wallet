@@ -1,1 +1,1 @@
-var mnemonic = "slow powder enlist broken present dream noble soft setup salt arrange belt";
+var mnemonic = "radar hour flush vibrant steel twist glue humor edge portion envelope sketch";

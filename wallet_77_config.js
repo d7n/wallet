@@ -1,1 +1,1 @@
-var mnemonic = "mango forward invest snap decorate miracle style garage master ignore world enrich";
+var mnemonic = "jump civil salmon profit person swallow front absurd element annual seat lamp";

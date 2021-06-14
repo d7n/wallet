@@ -1,1 +1,1 @@
-var mnemonic = "hundred shallow train file grit void limit tool eight evidence luggage above";
+var mnemonic = "wave surface vintage floor win elegant park rookie palm census repeat alpha";

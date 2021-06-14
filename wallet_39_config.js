@@ -1,1 +1,1 @@
-var mnemonic = "bullet venture penalty decorate point option sister theme casino toast one attitude";
+var mnemonic = "debris shiver disorder cage vibrant tomorrow breeze undo bomb idle rotate income";

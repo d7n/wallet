@@ -1,1 +1,1 @@
-var mnemonic = "remember ignore where across impose sad custom radio olive length barely boat";
+var mnemonic = "frost hidden token erosion tortoise topple charge diet vibrant index object decide";

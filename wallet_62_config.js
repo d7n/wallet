@@ -1,1 +1,1 @@
-var mnemonic = "oil artist sort ready spoon tray husband protect gloom claim creek keep";
+var mnemonic = "find deal three rotate digital diamond stool apology hour tree false miss";

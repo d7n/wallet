@@ -1,1 +1,1 @@
-var mnemonic = "horror spread mind mechanic march antenna traffic peace deliver mansion cloth witness";
+var mnemonic = "garden mammal panic wonder federal bring turtle weapon flash oval wall orange";

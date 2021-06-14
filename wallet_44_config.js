@@ -1,1 +1,1 @@
-var mnemonic = "tilt area renew swear fluid cluster rapid fire sister poverty dutch wing";
+var mnemonic = "defense level climb truck liquid donor moon conduct clap novel devote sniff";

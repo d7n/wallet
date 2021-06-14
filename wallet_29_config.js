@@ -1,1 +1,1 @@
-var mnemonic = "plastic sentence tonight wrist energy swamp twenty example answer display beyond follow";
+var mnemonic = "over neglect pony return hunt lonely order kid assault soul wage gentle";

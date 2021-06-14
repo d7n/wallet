@@ -1,1 +1,1 @@
-var mnemonic = "slice average message derive remember diesel figure help diagram economy forward tattoo";
+var mnemonic = "wage frequent tribe object moment never toe suspect burst reveal grow turtle";

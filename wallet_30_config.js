@@ -1,1 +1,1 @@
-var mnemonic = "when between hint husband mango fiscal slow hole agree panther friend confirm";
+var mnemonic = "nurse theory quit gap sound organ client boost pattern naive path endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket relax awful two tunnel boy venue match skirt police report truck";
+var mnemonic = "describe fatal half document match admit mask word sauce short north remove";

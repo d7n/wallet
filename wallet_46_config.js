@@ -1,1 +1,1 @@
-var mnemonic = "best decide real unique borrow disease polar away horn humble property custom";
+var mnemonic = "stadium program scissors reject record antique letter october push target happy cactus";

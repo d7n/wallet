@@ -1,1 +1,1 @@
-var mnemonic = "erode guess drop this obscure drip horror blanket accident ready fury because";
+var mnemonic = "film expect flag relax gaze detect naive student charge cycle life bulk";

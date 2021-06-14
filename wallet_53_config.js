@@ -1,1 +1,1 @@
-var mnemonic = "remove question diet measure oven oven eight artist myth casino eyebrow ancient";
+var mnemonic = "skill enhance cotton concert boil zebra school maze exit glad robot hour";

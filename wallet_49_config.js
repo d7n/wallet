@@ -1,1 +1,1 @@
-var mnemonic = "spoon vote print knock october scrub repeat shadow quality curious merit pair";
+var mnemonic = "hybrid borrow embrace gold spirit topple attack cream wash slow include season";

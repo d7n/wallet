@@ -1,1 +1,1 @@
-var mnemonic = "kick behave inherit month dwarf fold agree romance electric fame hover orient";
+var mnemonic = "catalog quit news morning tank egg attitude lizard obscure pulse orange rude";

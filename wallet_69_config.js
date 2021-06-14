@@ -1,1 +1,1 @@
-var mnemonic = "enhance trust gasp badge poet play bright insane obey sport hen echo";
+var mnemonic = "myth flock number hold capital mango smoke license connect just journey budget";

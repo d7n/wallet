@@ -1,1 +1,1 @@
-var mnemonic = "slot ordinary slender demand young aerobic limb scatter silly faculty economy hat";
+var mnemonic = "venue core ozone captain rail image warrior canal upon industry fruit illness";

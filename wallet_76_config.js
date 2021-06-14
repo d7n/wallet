@@ -1,1 +1,1 @@
-var mnemonic = "simple caught away various bulb sister choose roof runway novel illness injury";
+var mnemonic = "plunge cloud analyst monster sail crater river boil civil regret pole disagree";

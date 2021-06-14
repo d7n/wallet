@@ -1,1 +1,1 @@
-var mnemonic = "office hurt cushion matrix first rough market south myth note vapor sample";
+var mnemonic = "neck frame clock believe office daughter urban modify arctic good more small";

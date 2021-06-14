@@ -1,1 +1,1 @@
-var mnemonic = "guitar rigid parent abuse security fashion mechanic frequent stairs live powder ancient";
+var mnemonic = "jar few machine twist boost liar expand couch shove gallery miss slow";

@@ -1,1 +1,1 @@
-var mnemonic = "random end grace material explain oblige silver torch project gaze foil wait";
+var mnemonic = "quick lizard blade cube predict liquid crucial absorb swamp shy hawk session";

@@ -1,1 +1,1 @@
-var mnemonic = "venture lyrics virtual rug abstract west uncle rice husband upper jacket actor";
+var mnemonic = "demise young runway solution place security gadget tray salute awkward auto curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil powder gallery risk rude narrow already slow turtle worry unfold curve";
+var mnemonic = "grain juice collect license divert urge earn fabric rare unusual clown mansion";

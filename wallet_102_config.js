@@ -1,1 +1,1 @@
-var mnemonic = "logic debris recipe junior slot engage oval camp gospel general gasp humor";
+var mnemonic = "dad grit pudding tuna van sunset unveil piece comic bicycle between run";

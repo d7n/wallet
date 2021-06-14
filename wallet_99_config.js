@@ -1,1 +1,1 @@
-var mnemonic = "carpet crouch gun rifle harvest opera blanket nominee tip arrive exercise glory";
+var mnemonic = "popular decrease proud coconut license fresh spot riot task child glove test";

@@ -1,1 +1,1 @@
-var mnemonic = "craft gain erase fee popular excite guide pill april sight damage bicycle";
+var mnemonic = "quarter dynamic turtle fire bottom nasty keen tray damp under spirit mule";

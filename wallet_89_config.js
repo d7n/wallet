@@ -1,1 +1,1 @@
-var mnemonic = "awkward total chicken duck size maze survey lady cannon hour remain mom";
+var mnemonic = "silver regret mail quote dice bag round profit stand final work mom";

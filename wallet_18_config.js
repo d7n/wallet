@@ -1,1 +1,1 @@
-var mnemonic = "mammal embrace desert couch man sea oven panther shy engine trumpet transfer";
+var mnemonic = "hero lazy motor entry limb frame video lobster differ earn regular bronze";

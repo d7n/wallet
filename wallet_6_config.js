@@ -1,1 +1,1 @@
-var mnemonic = "kidney shoulder earn social asset square square path blast alpha usage mimic";
+var mnemonic = "protect fall tape indicate audit moral ready enhance veteran link edit pole";

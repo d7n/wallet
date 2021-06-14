@@ -1,1 +1,1 @@
-var mnemonic = "habit agree lawsuit boss traffic sketch abandon wrist trend love wash amused";
+var mnemonic = "fish mimic hybrid window joy grape basket prison federal dumb derive teach";

@@ -1,1 +1,1 @@
-var mnemonic = "merit similar fix midnight link dog despair ghost spider exit solve sentence";
+var mnemonic = "rose trouble clump major scrap bulk pelican traffic curious present present palace";

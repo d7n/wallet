@@ -1,1 +1,1 @@
-var mnemonic = "loyal couple corn artist all crystal noble render patch mango velvet nation";
+var mnemonic = "crumble wolf drink cool drama exchange square employ catalog fame arrange rubber";
