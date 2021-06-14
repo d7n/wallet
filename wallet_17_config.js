@@ -1,1 +1,1 @@
-var mnemonic = "alien shy vast glory elder velvet length flower change echo pretty hobby";
+var mnemonic = "false syrup artist symptom state siren awful enforce turtle clay web share";

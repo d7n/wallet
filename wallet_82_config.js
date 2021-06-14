@@ -1,1 +1,1 @@
-var mnemonic = "balcony coffee liar monkey climb pizza lend april grocery boring actor lamp";
+var mnemonic = "tag fatigue glue engine shine brass copper result deny army forum glad";

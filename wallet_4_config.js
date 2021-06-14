@@ -1,1 +1,1 @@
-var mnemonic = "run garden green example idea lunar split tongue round link salute rib";
+var mnemonic = "lucky shallow garden stable venue awake exhaust pass jealous north edge casual";

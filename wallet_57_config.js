@@ -1,1 +1,1 @@
-var mnemonic = "travel release nerve deliver annual tenant reopen aisle depart farm stick flat";
+var mnemonic = "tumble talk angle bamboo main soldier about save what token please divorce";

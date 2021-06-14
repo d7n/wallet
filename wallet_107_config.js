@@ -1,1 +1,1 @@
-var mnemonic = "bunker harvest vehicle slot region trash degree flip month girl latin transfer";
+var mnemonic = "oil require subway giggle long napkin milk timber scrub light zone flip";

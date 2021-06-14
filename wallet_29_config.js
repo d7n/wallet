@@ -1,1 +1,1 @@
-var mnemonic = "elephant page useless course alert rigid clay where alpha frame derive destroy";
+var mnemonic = "install woman buyer novel glare inch fog language sand devote unaware buffalo";

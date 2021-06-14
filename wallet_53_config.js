@@ -1,1 +1,1 @@
-var mnemonic = "mixture kick faith cotton gospel degree false enter success derive frown jealous";
+var mnemonic = "seek obey chapter improve snap title language net reflect frozen item teach";

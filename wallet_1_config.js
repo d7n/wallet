@@ -1,1 +1,1 @@
-var mnemonic = "absent food absurd hidden lava broken arrange human urban aunt broom atom";
+var mnemonic = "bitter allow diet bring era pencil proud recipe marble loyal husband hole";

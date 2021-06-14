@@ -1,1 +1,1 @@
-var mnemonic = "better near stand fine acid inside twice horror circle famous ready disorder";
+var mnemonic = "picture kidney child cat zoo car peasant robot interest scene harvest trim";

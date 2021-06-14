@@ -1,1 +1,1 @@
-var mnemonic = "initial repair smart dream pink annual vacant glide boat improve effort bus";
+var mnemonic = "kite warfare sister must arena inflict real magic much brick veteran run";

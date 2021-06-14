@@ -1,1 +1,1 @@
-var mnemonic = "that sand marble caught pepper cool kid manual illness soup sketch also";
+var mnemonic = "ancient grass bachelor false crew wisdom find category sight claim jewel soft";

@@ -1,1 +1,1 @@
-var mnemonic = "honey memory hawk cable peasant about hold world lobster caution cruise fresh";
+var mnemonic = "satoshi axis into black topic furnace cruel scrap soldier rabbit cheese symptom";

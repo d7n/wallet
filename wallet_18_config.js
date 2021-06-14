@@ -1,1 +1,1 @@
-var mnemonic = "vessel swing increase rabbit imitate where document depth picture rescue wall scrap";
+var mnemonic = "piece prize ivory gather cross legal wall pet table body enact net";

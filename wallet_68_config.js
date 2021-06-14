@@ -1,1 +1,1 @@
-var mnemonic = "balcony juice drill reward teach heart mirror affair destroy orphan neutral list";
+var mnemonic = "point later weasel attract lounge whip hobby nominee try insane lake slight";

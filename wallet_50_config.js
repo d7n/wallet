@@ -1,1 +1,1 @@
-var mnemonic = "century either bar depart cruel team damage chimney garden ostrich neither final";
+var mnemonic = "chunk grow brisk rose access lake ski uniform rare hurt orphan beauty";

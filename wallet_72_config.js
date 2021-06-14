@@ -1,1 +1,1 @@
-var mnemonic = "help subject arch gorilla cave banana decrease window arctic region witness play";
+var mnemonic = "present invest video option fresh swap service fragile boat follow polar spare";

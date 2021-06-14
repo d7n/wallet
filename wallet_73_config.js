@@ -1,1 +1,1 @@
-var mnemonic = "turn share expose coin hat luggage orange place mobile coconut into muscle";
+var mnemonic = "coast trade category logic strategy daring shoulder leg special burst thought device";

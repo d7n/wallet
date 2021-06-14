@@ -1,1 +1,1 @@
-var mnemonic = "find wall actress helmet bounce sport juice legal rug melody able scatter";
+var mnemonic = "panic equal pitch angle sight blade cactus endless tackle echo frown rival";

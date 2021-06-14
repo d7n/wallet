@@ -1,1 +1,1 @@
-var mnemonic = "vibrant spoon impose world elbow they unlock main foster divert top owner";
+var mnemonic = "tail rally sphere vibrant deer broken bullet ripple weird lecture radio awful";

@@ -1,1 +1,1 @@
-var mnemonic = "legend gun top guide rate much super champion exit share elephant deer";
+var mnemonic = "return brave float oblige volume rug settle danger much siren wing plug";

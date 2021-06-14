@@ -1,1 +1,1 @@
-var mnemonic = "typical design liberty orphan letter bronze skate jewel expose scale purchase retire";
+var mnemonic = "pool resemble youth pottery already stand error model trash toward deal genuine";

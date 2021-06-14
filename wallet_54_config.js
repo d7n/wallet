@@ -1,1 +1,1 @@
-var mnemonic = "used winner other mouse nice rate sea cabbage runway powder game write";
+var mnemonic = "peasant syrup mind volcano bunker whip super spy innocent mosquito jealous voice";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware sheriff category knee dignity deny mixed own brand solid goddess breeze";
+var mnemonic = "team boil shoe device invest alpha degree armed spy maze turtle ship";

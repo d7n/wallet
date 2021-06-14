@@ -1,1 +1,1 @@
-var mnemonic = "express useless yellow steak december coffee glare maid assume smart license trade";
+var mnemonic = "bomb start install hundred tribe wish maximum finish nerve remember dentist suit";

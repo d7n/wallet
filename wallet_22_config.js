@@ -1,1 +1,1 @@
-var mnemonic = "suspect soup mixed smooth inner average regular fine govern hotel absorb ski";
+var mnemonic = "kit liar discover turn dream wave siren spoon market client quit small";

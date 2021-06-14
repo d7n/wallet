@@ -1,1 +1,1 @@
-var mnemonic = "embody trash skill annual easy lecture goat frog pact age much echo";
+var mnemonic = "barrel rare accident adjust sure cheap produce toward warm brisk fence travel";

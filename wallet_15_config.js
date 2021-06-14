@@ -1,1 +1,1 @@
-var mnemonic = "amused lecture dry lizard donor globe fame topple tiger burden nose favorite";
+var mnemonic = "layer home ritual jar analyst blame expect february dragon any chest palm";

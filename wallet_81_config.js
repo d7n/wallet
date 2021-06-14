@@ -1,1 +1,1 @@
-var mnemonic = "inner fix zoo advice ensure myth tip cluster modify drastic damage antenna";
+var mnemonic = "ill weasel shiver spoon account fog matrix moment depend also protect list";

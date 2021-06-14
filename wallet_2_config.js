@@ -1,1 +1,1 @@
-var mnemonic = "eternal century poem expose cinnamon crime drop boy lunch pony medal bitter";
+var mnemonic = "loan clever faint reward voice inner phrase ensure abstract verb forum tube";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope require whip board gentle leopard spawn catalog section fall daring mango";
+var mnemonic = "universe evoke juice there isolate ranch beyond surround shiver school area medal";

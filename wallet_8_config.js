@@ -1,1 +1,1 @@
-var mnemonic = "trial symbol donor network charge skirt song improve meadow jungle slogan jewel";
+var mnemonic = "praise festival dish aerobic slow goose fossil want degree circle devote arrive";

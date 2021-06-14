@@ -1,1 +1,1 @@
-var mnemonic = "curtain list immune arch suggest smart paddle dinosaur team provide anxiety copper";
+var mnemonic = "fiscal egg flame finger panda police extend wild regret laptop tent run";

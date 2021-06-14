@@ -1,1 +1,1 @@
-var mnemonic = "yellow lava shed tobacco cream master wood bacon plug pulp divorce athlete";
+var mnemonic = "clay simple fine shrug lava off ahead diamond balance length nut book";

@@ -1,1 +1,1 @@
-var mnemonic = "camp family scatter home track ill divorce business nominee raise desk fossil";
+var mnemonic = "alpha slam load wolf rocket drive civil lazy echo gesture critic shallow";

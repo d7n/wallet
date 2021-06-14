@@ -1,1 +1,1 @@
-var mnemonic = "ladder task offer squeeze coach smile word hole borrow melt beyond type";
+var mnemonic = "effort rose segment where swarm found album goose hurt situate post solve";

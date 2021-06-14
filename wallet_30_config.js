@@ -1,1 +1,1 @@
-var mnemonic = "aunt dad solution collect volume spin december area planet version hub weapon";
+var mnemonic = "engine vast between burger beauty off seven that warrior suggest furnace endless";

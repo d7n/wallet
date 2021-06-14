@@ -1,1 +1,1 @@
-var mnemonic = "shed doll curve remain radar school squirrel member nothing few broom put";
+var mnemonic = "assist forest bid merry ahead broccoli sunset palace venue swear name address";

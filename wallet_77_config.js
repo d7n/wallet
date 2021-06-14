@@ -1,1 +1,1 @@
-var mnemonic = "kiss uncover shrug thank despair misery all galaxy hazard permit mercy concert";
+var mnemonic = "album people point pledge gate expire annual jealous idle join lady expect";

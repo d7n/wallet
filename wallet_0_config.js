@@ -1,1 +1,1 @@
-var mnemonic = "drop sting custom subway timber power world document easily winter floor lumber";
+var mnemonic = "recipe charge frequent since clump drum subway uphold grunt all gather polar";

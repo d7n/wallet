@@ -1,1 +1,1 @@
-var mnemonic = "tooth coin version wrist surround black pepper coffee fringe peasant middle brand";
+var mnemonic = "since sister hand ozone ill million cradle tide awkward bacon attract brief";

@@ -1,1 +1,1 @@
-var mnemonic = "truck awake track tuna skate blade aware prison movie remind stamp trouble";
+var mnemonic = "artwork sheriff castle boil flash cactus life puppy outer nurse good timber";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit solid snack april seed area clever frozen cycle bird document magic";
+var mnemonic = "scheme luxury affair indicate recall little harvest fortune shed menu snap accident";

@@ -1,1 +1,1 @@
-var mnemonic = "orient indoor rug famous envelope assist attract aisle comfort spell develop raven";
+var mnemonic = "chunk pony run rent element horse family flee scrub scrub crime idle";

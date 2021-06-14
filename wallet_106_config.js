@@ -1,1 +1,1 @@
-var mnemonic = "casual actual borrow canal situate tenant rude apple explain anxiety list patient";
+var mnemonic = "artwork shell shallow enrich drop ugly edge student raw rubber normal copy";

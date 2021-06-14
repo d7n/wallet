@@ -1,1 +1,1 @@
-var mnemonic = "abuse mimic alcohol cheap blossom mandate wealth exact air recycle limit dinosaur";
+var mnemonic = "deliver govern hungry swallow blouse attitude world pipe use liquid cream zone";

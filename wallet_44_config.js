@@ -1,1 +1,1 @@
-var mnemonic = "elite apology super hockey vessel tooth media buzz brain six write coconut";
+var mnemonic = "crush chunk jewel pepper asthma theme cross west stuff boss raw sheriff";

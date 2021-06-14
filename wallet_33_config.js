@@ -1,1 +1,1 @@
-var mnemonic = "fix obvious silver proud snake enough someone into match modify target category";
+var mnemonic = "describe pig jaguar card muffin pipe snake topple diagram pulse harsh giggle";

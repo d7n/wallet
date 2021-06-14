@@ -1,1 +1,1 @@
-var mnemonic = "scale cube aerobic admit arm forum truly air design donor profit believe";
+var mnemonic = "ritual erupt reveal please divert neutral describe text vendor dice office color";

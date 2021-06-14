@@ -1,1 +1,1 @@
-var mnemonic = "add sword cover bone teach priority actress twenty diagram ticket fashion dignity";
+var mnemonic = "enhance theory snap bottom nation route kangaroo invite view profit holiday toilet";

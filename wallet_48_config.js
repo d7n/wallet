@@ -1,1 +1,1 @@
-var mnemonic = "surprise throw right inherit wait excuse extra hope strong junk habit cup";
+var mnemonic = "logic raccoon fiber whisper mansion express win sudden cannon this glide clinic";

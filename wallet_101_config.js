@@ -1,1 +1,1 @@
-var mnemonic = "fragile ladder snack donkey cycle crawl actor nerve system reveal still winner";
+var mnemonic = "open recall issue black age now option attack light bleak false physical";

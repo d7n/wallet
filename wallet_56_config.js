@@ -1,1 +1,1 @@
-var mnemonic = "mimic awful ignore phrase focus youth feed lumber ecology night crawl position";
+var mnemonic = "million inflict alien pitch nasty exchange shiver pilot van stem rocket segment";

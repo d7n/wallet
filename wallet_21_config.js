@@ -1,1 +1,1 @@
-var mnemonic = "game rubber absent achieve picture priority desert slim economy ice inflict write";
+var mnemonic = "sheriff debate horn ritual bright local walk chief around emerge lens below";

@@ -1,1 +1,1 @@
-var mnemonic = "pudding foil cannon confirm purity problem prevent nest ball couch royal wet";
+var mnemonic = "such region crowd still silly little borrow shop enjoy neglect layer around";

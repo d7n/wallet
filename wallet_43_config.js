@@ -1,1 +1,1 @@
-var mnemonic = "slam define derive excite addict river envelope thing movie color endorse bulk";
+var mnemonic = "design brisk excite canoe belt term green phone life finger daughter surprise";

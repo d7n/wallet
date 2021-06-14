@@ -1,1 +1,1 @@
-var mnemonic = "blood park expand observe despair outside custom rely erosion other plastic damp";
+var mnemonic = "angle wild sick rally upgrade junk phrase match latin defense curtain hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket dumb certain armor either absurd sweet you protect cup enhance churn";
+var mnemonic = "latin piece bundle game bleak earn dizzy sheriff elephant message quiz flat";

@@ -1,1 +1,1 @@
-var mnemonic = "oil recycle scout share above banner hotel range vast tumble laundry tribe";
+var mnemonic = "student view seed vague bounce miracle spoil deal grow betray cement elegant";

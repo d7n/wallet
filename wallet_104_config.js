@@ -1,1 +1,1 @@
-var mnemonic = "credit ethics argue sell below tonight draft pair else proud festival goat";
+var mnemonic = "voyage buyer iron room afraid captain luggage choice pelican bring believe auto";

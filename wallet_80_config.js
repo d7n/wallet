@@ -1,1 +1,1 @@
-var mnemonic = "pluck path text fee path convince project flower saddle sentence coil fade";
+var mnemonic = "holiday betray trip stick ask woman embark mule sell debris borrow start";

@@ -1,1 +1,1 @@
-var mnemonic = "dash sure client joke hurry buddy december beach little skull path repeat";
+var mnemonic = "drop hour length topic antenna stem timber stumble van adult peace stomach";

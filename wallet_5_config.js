@@ -1,1 +1,1 @@
-var mnemonic = "develop pottery wheel client duck provide fuel federal merry weather smoke pupil";
+var mnemonic = "useless dad scout depend wide creek great asthma negative pistol stumble wrap";

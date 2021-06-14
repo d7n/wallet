@@ -1,1 +1,1 @@
-var mnemonic = "snack life ostrich total angry violin ring video mercy lemon panda diet";
+var mnemonic = "media duty olive net bronze lion truth ocean moment walnut borrow surprise";

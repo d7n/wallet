@@ -1,1 +1,1 @@
-var mnemonic = "pony able abuse side cook note rather inspire green meat boat method";
+var mnemonic = "forget marine acquire pill beauty arctic brain dust pyramid track marriage over";

@@ -1,1 +1,1 @@
-var mnemonic = "spoon pigeon excuse letter type moon panel desk breeze cancel wide head";
+var mnemonic = "rice use inform cherry link banner sport height shaft piece atom build";

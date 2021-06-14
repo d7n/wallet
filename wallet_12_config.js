@@ -1,1 +1,1 @@
-var mnemonic = "review under duck bacon body place animal track increase valley hole cigar";
+var mnemonic = "surround nerve squeeze prepare pulp cluster enjoy mosquito prepare inmate brown wool";

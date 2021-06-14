@@ -1,1 +1,1 @@
-var mnemonic = "pull rotate cliff rescue spot nation girl pupil ritual joy delay dismiss";
+var mnemonic = "title virus allow panda moon knee solid scrub define firm move envelope";

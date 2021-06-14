@@ -1,1 +1,1 @@
-var mnemonic = "slide unknown sting cool clap dignity index label warm client border coral";
+var mnemonic = "whip earth symptom sell pretty clarify reward couch guide absurd gas area";

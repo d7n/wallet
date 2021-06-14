@@ -1,1 +1,1 @@
-var mnemonic = "cause task month cute enough mandate morning shrimp symbol prefer issue cheese";
+var mnemonic = "face tooth can end proud arm shop celery hidden auto zebra trade";

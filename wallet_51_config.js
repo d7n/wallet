@@ -1,1 +1,1 @@
-var mnemonic = "evidence cattle two machine avocado draft vibrant forget filter gospel floor rescue";
+var mnemonic = "wife suggest hold fluid ripple expect nation seed apple state improve charge";

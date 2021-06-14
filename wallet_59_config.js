@@ -1,1 +1,1 @@
-var mnemonic = "open area sketch border result list write trophy lawn rough tumble knee";
+var mnemonic = "awkward hollow lunar artwork arch sibling frozen fit lobster fame universe daring";

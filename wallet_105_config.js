@@ -1,1 +1,1 @@
-var mnemonic = "silent build result erupt nephew stereo video digital neither window motor kind";
+var mnemonic = "danger angle rapid expire frost over spike toward fan stage theme cash";

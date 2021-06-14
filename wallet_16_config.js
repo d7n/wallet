@@ -1,1 +1,1 @@
-var mnemonic = "hammer reform cloth popular clerk tent airport metal edit educate blush shop";
+var mnemonic = "buzz intact title hurry coral black spirit toast minute song silver essay";

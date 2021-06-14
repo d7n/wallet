@@ -1,1 +1,1 @@
-var mnemonic = "toast lumber front believe jelly second tuition essence myself immune interest style";
+var mnemonic = "calm welcome wave light truth coconut sick pioneer slight develop isolate offer";

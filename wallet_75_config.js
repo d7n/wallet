@@ -1,1 +1,1 @@
-var mnemonic = "obtain embark practice unusual easy neck major code truly swallow pipe island";
+var mnemonic = "pen cigar about electric broom enact mobile soul length clinic market code";

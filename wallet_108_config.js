@@ -1,1 +1,1 @@
-var mnemonic = "leaf awesome dismiss shift deer awful cushion trap bronze young blouse globe";
+var mnemonic = "disagree among weasel damage cram vocal seed pizza mad exist zero regret";

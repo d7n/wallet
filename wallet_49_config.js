@@ -1,1 +1,1 @@
-var mnemonic = "horror afraid raw push state toss lonely cinnamon frost average game thunder";
+var mnemonic = "slab leisure code crisp choice creek good nose essay size travel romance";

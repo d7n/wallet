@@ -1,1 +1,1 @@
-var mnemonic = "spell liar scout load cousin near light buddy laugh sketch yard pilot";
+var mnemonic = "cheap wide equip trip order comfort brief sure survey rack solar jelly";

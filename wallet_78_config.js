@@ -1,1 +1,1 @@
-var mnemonic = "announce drill warfare orphan face shove snow awkward solve valve amateur awesome";
+var mnemonic = "symptom beyond sample despair airport fiber give smooth climb place wing rack";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer oil panic embody output hidden again horror theme soap student topple";
+var mnemonic = "bleak equip come speed dwarf attend poem quality oxygen inspire dry grocery";

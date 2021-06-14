@@ -1,1 +1,1 @@
-var mnemonic = "ancient tray federal enhance mercy bullet apology degree expand traffic trip subway";
+var mnemonic = "announce large velvet damage entry alcohol text suffer veteran cliff banner fan";

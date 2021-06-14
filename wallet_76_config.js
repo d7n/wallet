@@ -1,1 +1,1 @@
-var mnemonic = "potato device wonder plastic lizard item add grief pledge warm syrup timber";
+var mnemonic = "arrive tomato plate custom universe diesel you talk obscure nurse garment over";

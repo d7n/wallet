@@ -1,1 +1,1 @@
-var mnemonic = "element lens acoustic stuff until place clown name affair label skate hunt";
+var mnemonic = "swamp live puzzle village hire provide muffin gold bicycle oven tonight travel";

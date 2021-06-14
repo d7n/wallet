@@ -1,1 +1,1 @@
-var mnemonic = "shy flat wife animal reopen lion latin winner next device inform glide";
+var mnemonic = "crane actress rabbit ceiling source grape hair poem hair exercise visual strike";

@@ -1,1 +1,1 @@
-var mnemonic = "civil bring jeans fortune lonely object icon planet clarify border sick hawk";
+var mnemonic = "outside force oven gown pass vessel rule zero clinic flat doll success";

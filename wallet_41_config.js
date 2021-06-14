@@ -1,1 +1,1 @@
-var mnemonic = "brother fancy hope gaze season silent kit erase this salute expire column";
+var mnemonic = "tennis path custom cute slam approve amateur joke dumb coil mimic stove";

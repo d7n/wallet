@@ -1,1 +1,1 @@
-var mnemonic = "scene hurdle pond affair share parade random announce rocket fiction wish satisfy";
+var mnemonic = "between green sunset market dentist ask maze menu salon skirt enable tuition";

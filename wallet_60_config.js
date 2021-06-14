@@ -1,1 +1,1 @@
-var mnemonic = "broken jazz strategy park crucial equal dinner mouse fortune property spot tonight";
+var mnemonic = "deal flat glare message wrap motion liar current cram office mistake total";
