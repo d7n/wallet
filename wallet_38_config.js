@@ -1,1 +1,1 @@
-var mnemonic = "duck wolf crisp talent friend hurry affair aim give member quarter real";
+var mnemonic = "spin draw shine work inch spatial this upon blame yard ivory luggage";

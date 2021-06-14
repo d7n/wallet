@@ -1,1 +1,1 @@
-var mnemonic = "infant hub rice member extend style shine render unique winter print food";
+var mnemonic = "proud two prefer crumble load gaze car guitar family surge north merge";

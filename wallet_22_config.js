@@ -1,1 +1,1 @@
-var mnemonic = "option include hole solar erase render glow symbol ball height journey edit";
+var mnemonic = "gaze blanket skate leopard faculty mosquito nerve diary winter husband road online";

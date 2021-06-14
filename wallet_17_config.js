@@ -1,1 +1,1 @@
-var mnemonic = "math butter spell rely weird outdoor auto suit gown spot turtle other";
+var mnemonic = "clay roast tattoo today garage outer priority fantasy perfect zero canyon dress";

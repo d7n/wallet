@@ -1,1 +1,1 @@
-var mnemonic = "noodle glass agree begin lucky hub rare whip thank affair prefer virus";
+var mnemonic = "slide century suggest build traffic solid estate birth okay property artefact virus";

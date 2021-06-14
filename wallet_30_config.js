@@ -1,1 +1,1 @@
-var mnemonic = "service obvious melody burden fence lift wage cost cradle agent impose exchange";
+var mnemonic = "math since elite convince hawk away purse deliver bracket lift demand flush";

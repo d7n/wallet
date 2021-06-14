@@ -1,1 +1,1 @@
-var mnemonic = "truly flee rebel alley match whip cruise kick timber donkey live stereo";
+var mnemonic = "where meat easily grit girl true spend field online work ethics hollow";

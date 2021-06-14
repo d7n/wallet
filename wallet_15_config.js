@@ -1,1 +1,1 @@
-var mnemonic = "volume material cook cube window exhibit sketch ethics hub anxiety enjoy mix";
+var mnemonic = "pave crack season gather lunar pair frequent pottery normal away animal love";

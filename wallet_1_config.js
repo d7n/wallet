@@ -1,1 +1,1 @@
-var mnemonic = "rely amateur boring rose anger size game art creek beauty journey vintage";
+var mnemonic = "tell hen easy crisp fault display carry solve year web candy relax";

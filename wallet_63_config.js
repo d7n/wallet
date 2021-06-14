@@ -1,1 +1,1 @@
-var mnemonic = "satoshi key join ozone junior put school drink spot ladder pencil valley";
+var mnemonic = "verb bench clutch pattern cheap idle wish lesson poem gym wheel stock";

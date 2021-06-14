@@ -1,1 +1,1 @@
-var mnemonic = "wrong buddy interest dumb item evil calm rose mix quick tooth record";
+var mnemonic = "clarify play column reveal gasp chunk loan balance choose melt charge chest";

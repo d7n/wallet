@@ -1,1 +1,1 @@
-var mnemonic = "mushroom empty flip dolphin mutual pigeon lock major club robust soup awkward";
+var mnemonic = "over practice lemon snow denial level second front report march push tree";

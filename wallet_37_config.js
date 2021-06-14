@@ -1,1 +1,1 @@
-var mnemonic = "know fatigue second special stairs village stairs law marriage liar multiply quote";
+var mnemonic = "error crash crowd impact puppy furnace green drive hungry genre blood loan";

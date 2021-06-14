@@ -1,1 +1,1 @@
-var mnemonic = "effort pond index artwork limb mean lend museum craft neutral damp shift";
+var mnemonic = "misery smoke crumble nation history pet valley toddler salad height mountain dress";

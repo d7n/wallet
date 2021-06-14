@@ -1,1 +1,1 @@
-var mnemonic = "able indicate shoulder hedgehog page question audit noodle sunny finger sand tuna";
+var mnemonic = "off kitchen dragon course electric wrong foam split sample remember crucial jealous";

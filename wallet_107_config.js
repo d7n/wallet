@@ -1,1 +1,1 @@
-var mnemonic = "gold grocery smooth picture denial hub cable track blast oxygen snap hawk";
+var mnemonic = "cable oblige expose round humble arrive deposit win gravity ship display frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz focus jar patient faculty spike figure elbow task cream front rude";
+var mnemonic = "marine upper host pelican begin ticket empower sniff rookie hedgehog little inquiry";

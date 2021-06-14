@@ -1,1 +1,1 @@
-var mnemonic = "gaze original disagree prefer harbor trumpet often ready winter dirt bid north";
+var mnemonic = "empower crunch gown curve uncle market genius dog clerk mobile often guess";

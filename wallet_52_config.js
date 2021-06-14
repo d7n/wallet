@@ -1,1 +1,1 @@
-var mnemonic = "focus ski bottom weapon zebra guard print little peace bid wolf dog";
+var mnemonic = "farm suit cash pattern embody boat install cup leave accident reunion potato";

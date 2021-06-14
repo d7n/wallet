@@ -1,1 +1,1 @@
-var mnemonic = "wire door fee nominee border broom antique oval observe broccoli shift furnace";
+var mnemonic = "nut imitate ability van security sleep under digital ignore hazard spatial plug";

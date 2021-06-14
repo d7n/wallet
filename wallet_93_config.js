@@ -1,1 +1,1 @@
-var mnemonic = "maze fiscal like elite sugar material miss cup maple plug wait gain";
+var mnemonic = "account crop feature diet custom human admit behave vapor sunny risk exile";

@@ -1,1 +1,1 @@
-var mnemonic = "unique remain return chuckle tortoise coral route super boss field guilt athlete";
+var mnemonic = "yellow tackle multiply unit explain text raccoon practice borrow teach true under";

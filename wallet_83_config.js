@@ -1,1 +1,1 @@
-var mnemonic = "bleak coffee answer keep mail any spot tomorrow pave stuff response soda";
+var mnemonic = "brick earn filter soon race wrap pattern earth school mango demise muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit mask vague capital desk apple diary document survey federal twin clarify";
+var mnemonic = "twice crazy win assume shine soup merge silk ecology arch smoke cancel";

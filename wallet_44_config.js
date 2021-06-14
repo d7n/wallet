@@ -1,1 +1,1 @@
-var mnemonic = "satisfy cram captain melt early doctor sudden movie number shuffle present lounge";
+var mnemonic = "lesson illness cause flash approve cute good clutch fly hospital wonder iron";

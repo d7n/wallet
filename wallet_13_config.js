@@ -1,1 +1,1 @@
-var mnemonic = "mammal myself above bicycle enroll egg violin chase inject ostrich curious access";
+var mnemonic = "vapor more lady goddess settle glow lecture team predict champion dilemma glimpse";

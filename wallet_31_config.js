@@ -1,1 +1,1 @@
-var mnemonic = "virus vendor wealth ketchup city sausage intact steel fiscal property theme icon";
+var mnemonic = "bicycle jaguar whale priority teach learn extra filter foil vintage number swift";

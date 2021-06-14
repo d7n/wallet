@@ -1,1 +1,1 @@
-var mnemonic = "snack door notice giraffe double drink burden rely autumn book brain crucial";
+var mnemonic = "winter twenty away execute dose ensure flash shield pear inherit certain margin";

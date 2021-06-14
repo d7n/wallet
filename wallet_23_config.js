@@ -1,1 +1,1 @@
-var mnemonic = "badge tank tennis replace bone absorb forest reform grief game danger depend";
+var mnemonic = "dry odor shrimp captain scale typical broom ugly sudden pulp yellow spoil";

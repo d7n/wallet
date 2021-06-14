@@ -1,1 +1,1 @@
-var mnemonic = "hurdle false athlete wasp venue love spike sample family firm brush inherit";
+var mnemonic = "destroy rebuild veteran twin element message cradle lyrics fall leg blame rack";

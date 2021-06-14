@@ -1,1 +1,1 @@
-var mnemonic = "inherit lens outdoor legend transfer aunt another drip wide shuffle debris nurse";
+var mnemonic = "dice affair midnight curve casual forum toe fat solve three electric hockey";

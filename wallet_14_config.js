@@ -1,1 +1,1 @@
-var mnemonic = "donkey liar what obey boring ride loop plate frost powder glory outer";
+var mnemonic = "device ability route puzzle office once despair solar solution gap fault fat";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle onion defense stable leopard order dust silver stuff dumb shop rebuild";
+var mnemonic = "exhaust squeeze shoulder outdoor ahead lemon glove account shift gospel concert choice";

@@ -1,1 +1,1 @@
-var mnemonic = "security garment aerobic unhappy convince any put pepper ritual sudden elephant cabin";
+var mnemonic = "amateur fantasy sphere goddess flight adjust weather nurse glory soon city just";

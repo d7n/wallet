@@ -1,1 +1,1 @@
-var mnemonic = "chuckle metal cushion immune surround move pear female identify april tape bone";
+var mnemonic = "magnet cat project person during member elder knee avoid whip long hour";

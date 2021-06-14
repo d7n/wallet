@@ -1,1 +1,1 @@
-var mnemonic = "desk skirt chronic punch life vague verify uniform brisk tennis coffee doctor";
+var mnemonic = "glad transfer elevator often pepper route cash scout ten adult leopard retreat";

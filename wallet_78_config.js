@@ -1,1 +1,1 @@
-var mnemonic = "fine wolf column width argue will oblige cement suffer lion over vapor";
+var mnemonic = "endorse senior remove ozone drift lobster once crack match visa leaf burst";

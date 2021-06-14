@@ -1,1 +1,1 @@
-var mnemonic = "ridge differ scorpion frozen desk junior concert subway maid argue jazz involve";
+var mnemonic = "over beach reunion honey relax palace satisfy wife plate eagle rigid mean";

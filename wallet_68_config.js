@@ -1,1 +1,1 @@
-var mnemonic = "genuine false capable dolphin depth youth cotton member write saddle tiny corn";
+var mnemonic = "token exhibit flush gesture trip staff ghost copper cheese private welcome edge";

@@ -1,1 +1,1 @@
-var mnemonic = "similar arrive path rich grid shy base march seat nut elder permit";
+var mnemonic = "inch typical exclude response extra celery account blouse sea collect title cruise";

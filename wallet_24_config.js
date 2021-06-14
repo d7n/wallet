@@ -1,1 +1,1 @@
-var mnemonic = "sun ability road welcome rapid valid spike scan pair energy region napkin";
+var mnemonic = "favorite upgrade right gesture diesel firm fiction finger march coast pride swift";

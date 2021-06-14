@@ -1,1 +1,1 @@
-var mnemonic = "sing ecology marriage denial knee autumn lottery climb antenna author attract salad";
+var mnemonic = "humor husband park brass winner canal animal cancel loud problem huge term";

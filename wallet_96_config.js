@@ -1,1 +1,1 @@
-var mnemonic = "long amused regret wish vanish fog nut yellow vacant rent pepper length";
+var mnemonic = "nut pudding script release enforce prevent october scene crime slush library jungle";

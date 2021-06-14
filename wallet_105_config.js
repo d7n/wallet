@@ -1,1 +1,1 @@
-var mnemonic = "during install build cargo soda vault labor lemon weasel outdoor mountain opinion";
+var mnemonic = "doctor torch artefact bulb quit artist vacant manual nothing spy source quantum";

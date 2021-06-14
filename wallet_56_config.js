@@ -1,1 +1,1 @@
-var mnemonic = "hire rival photo six claim please enact inner permit angle delay ripple";
+var mnemonic = "finger around curtain forum service lock defy brain attend sight camera system";

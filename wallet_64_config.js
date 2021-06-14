@@ -1,1 +1,1 @@
-var mnemonic = "shell book crash else neck grass blast quality quiz arctic journey aerobic";
+var mnemonic = "average position dance rather patrol depend six embrace snap eagle top trim";

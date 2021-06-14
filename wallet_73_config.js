@@ -1,1 +1,1 @@
-var mnemonic = "squirrel recipe loan that marriage hurry topple master nasty wrist yard three";
+var mnemonic = "verify divert expose math palm add agree fox drink apart act blade";

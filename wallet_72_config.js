@@ -1,1 +1,1 @@
-var mnemonic = "hurt diet plug index remove arrange develop reveal punch border filter broccoli";
+var mnemonic = "crush improve south install laundry spirit betray tool air boil antenna hamster";

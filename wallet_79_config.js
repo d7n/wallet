@@ -1,1 +1,1 @@
-var mnemonic = "misery punch lumber tackle bachelor fee build kick dizzy penalty develop choice";
+var mnemonic = "bench various trick exact power avocado comic brand improve frequent elbow leisure";

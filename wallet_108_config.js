@@ -1,1 +1,1 @@
-var mnemonic = "genre decline erase device orange admit vague pill grow symbol word note";
+var mnemonic = "evolve enter frown excess item medal barely swing point brown image eternal";

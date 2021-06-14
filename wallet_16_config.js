@@ -1,1 +1,1 @@
-var mnemonic = "pear quote bird canyon edit creek rather document away patch host book";
+var mnemonic = "arena mask embark brief analyst belt border deer caution wait claw useless";

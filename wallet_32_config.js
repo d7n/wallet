@@ -1,1 +1,1 @@
-var mnemonic = "word salon memory crucial stage scale unfold tired honey jar tennis electric";
+var mnemonic = "eternal forget antenna gorilla surround sheriff grunt property route live lab boost";

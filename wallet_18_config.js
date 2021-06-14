@@ -1,1 +1,1 @@
-var mnemonic = "change romance razor diet demise soft polar race increase hero degree crystal";
+var mnemonic = "zero pony glad kangaroo siege slab grass snake token friend tower knife";

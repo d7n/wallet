@@ -1,1 +1,1 @@
-var mnemonic = "turkey street victory school dove jacket dog pipe charge rhythm exclude arrange";
+var mnemonic = "despair behind winter city hunt usual abstract carbon hunt arch leisure search";

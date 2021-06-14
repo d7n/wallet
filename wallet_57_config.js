@@ -1,1 +1,1 @@
-var mnemonic = "butter gym blue erosion wrap eternal permit window silk peace spider bring";
+var mnemonic = "mushroom supply innocent length nominee drill table retreat trade certain argue nature";

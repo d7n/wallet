@@ -1,1 +1,1 @@
-var mnemonic = "chalk cluster figure squeeze hard cost noble cinnamon bamboo swap original woman";
+var mnemonic = "agree neither harsh bonus solar spoon gym iron foster diesel coach woman";

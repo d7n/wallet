@@ -1,1 +1,1 @@
-var mnemonic = "weapon glare primary song final again basket save spy like protect rough";
+var mnemonic = "tragic base tomorrow field blush record appear chat bag wrap tortoise survey";

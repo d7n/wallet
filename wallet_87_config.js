@@ -1,1 +1,1 @@
-var mnemonic = "spirit insect action cousin mom beauty venture knife survey pole hard soul";
+var mnemonic = "ramp stereo radio shove flash soul rude modify cat caution able cause";

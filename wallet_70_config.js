@@ -1,1 +1,1 @@
-var mnemonic = "faith they deer grass wheat lumber error rotate acoustic audit relax mirror";
+var mnemonic = "door faint come beyond inside mansion trim ginger awesome ensure jeans regret";

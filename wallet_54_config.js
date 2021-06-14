@@ -1,1 +1,1 @@
-var mnemonic = "kick job arctic admit seven travel master door off eye exact narrow";
+var mnemonic = "drum divorce remind suit patrol nature equip ketchup achieve live car olympic";

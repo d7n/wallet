@@ -1,1 +1,1 @@
-var mnemonic = "input actor ritual tired rifle fiber excuse congress short load screen shaft";
+var mnemonic = "extend major cook someone program zoo possible regret talent clutch wage blur";

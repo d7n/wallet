@@ -1,1 +1,1 @@
-var mnemonic = "slam work cliff father trade that same ghost marble unaware ocean sheriff";
+var mnemonic = "fetch civil drum check demand purchase piece blouse marriage marble tell dwarf";

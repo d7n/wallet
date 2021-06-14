@@ -1,1 +1,1 @@
-var mnemonic = "absurd win scout curtain inner myth inflict clap voice advance pioneer damage";
+var mnemonic = "hurdle arrive quote profit pet shoulder myself rescue detect edit month army";

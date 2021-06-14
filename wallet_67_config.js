@@ -1,1 +1,1 @@
-var mnemonic = "type fever swap color domain muscle surface result urge stay trend release";
+var mnemonic = "air battle lock bean glide fault swear toss float gift liberty bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "oval about garden parent aisle fire toss best order vast eyebrow logic";
+var mnemonic = "coil cluster limb require cabbage jelly deputy hungry feel mix unfold pear";

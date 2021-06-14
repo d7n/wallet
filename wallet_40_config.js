@@ -1,1 +1,1 @@
-var mnemonic = "mixed verify fly friend injury grow fun run version pony frequent powder";
+var mnemonic = "pudding fine dry asthma patient sound attend bracket opera over void unfair";

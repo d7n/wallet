@@ -1,1 +1,1 @@
-var mnemonic = "cousin frown bullet garment country thumb misery agree twist donor upper provide";
+var mnemonic = "february type cover grit lend total liberty draw hope enrich draw eight";

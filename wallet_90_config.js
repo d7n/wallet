@@ -1,1 +1,1 @@
-var mnemonic = "cost scan rely carpet warfare doctor digital athlete youth abandon brick dice";
+var mnemonic = "unable broom scheme awful poet crystal diet orphan butter bargain caught sell";

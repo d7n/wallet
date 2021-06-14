@@ -1,1 +1,1 @@
-var mnemonic = "unknown iron twice vacant dash embrace monitor erosion level exist adapt disease";
+var mnemonic = "shell system culture song police monster mom quit confirm museum clock chase";

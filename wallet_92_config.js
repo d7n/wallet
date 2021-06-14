@@ -1,1 +1,1 @@
-var mnemonic = "naive polar civil patch sunset coyote rib ice force relax move nut";
+var mnemonic = "type avoid beach large curtain original winner chat mother devote tissue silly";

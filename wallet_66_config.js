@@ -1,1 +1,1 @@
-var mnemonic = "misery lift account dinosaur clip today common reform drastic prevent abstract inflict";
+var mnemonic = "abuse happy erase firm swap roast grief rookie best sock evidence caution";

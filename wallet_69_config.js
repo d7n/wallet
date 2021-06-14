@@ -1,1 +1,1 @@
-var mnemonic = "swing crucial border try frame people season bunker color prevent length club";
+var mnemonic = "city hover water rescue reward issue sting green raise pull proud beef";

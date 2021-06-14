@@ -1,1 +1,1 @@
-var mnemonic = "enroll art school immune mountain typical ladder pitch blue album solid cement";
+var mnemonic = "birth acquire eyebrow target develop exhibit calm voyage whisper vibrant west sugar";

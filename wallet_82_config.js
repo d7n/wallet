@@ -1,1 +1,1 @@
-var mnemonic = "coil craft bottom sight steel wave slight venue craft notable cabin because";
+var mnemonic = "program eyebrow badge tongue area expand roast kangaroo argue wrestle choice tiny";

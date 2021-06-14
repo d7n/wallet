@@ -1,1 +1,1 @@
-var mnemonic = "hold dove price flee rate great all choose happy gospel thank trap";
+var mnemonic = "tackle breeze doctor danger tower amused blast desk cabbage tube melody attract";

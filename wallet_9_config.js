@@ -1,1 +1,1 @@
-var mnemonic = "whale burst celery slice merry bracket utility luggage remember grunt police soccer";
+var mnemonic = "action ladder agree slab effort buyer group churn pattern pave noodle someone";

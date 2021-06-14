@@ -1,1 +1,1 @@
-var mnemonic = "park uphold beach excess pull math elite term quick home pulp lumber";
+var mnemonic = "hat short museum depart general mask sorry sauce happy phrase trouble surface";

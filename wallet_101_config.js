@@ -1,1 +1,1 @@
-var mnemonic = "early garden share neither powder fade uncover quiz soft harvest manual patient";
+var mnemonic = "crouch suit flavor tail repair resource bulb visual phrase mammal swing rug";

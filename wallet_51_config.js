@@ -1,1 +1,1 @@
-var mnemonic = "stay crowd hedgehog move insect mansion style mango dignity critic pigeon champion";
+var mnemonic = "until portion message clip embrace trigger crumble pistol pave inject boss detail";

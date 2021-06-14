@@ -1,1 +1,1 @@
-var mnemonic = "fat grow during column maple admit soup skin news reveal travel crystal";
+var mnemonic = "hobby okay develop result fatigue shiver blanket erode power oblige height device";

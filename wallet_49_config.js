@@ -1,1 +1,1 @@
-var mnemonic = "correct pottery diary feel boost hand angle broccoli trade help intact expect";
+var mnemonic = "minor lunar hip law table family capable stumble observe opinion cube annual";

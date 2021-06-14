@@ -1,1 +1,1 @@
-var mnemonic = "check torch monster idle expose pretty calm false scatter orchard shift glide";
+var mnemonic = "pulp pottery inquiry always core pluck animal blind mule become execute gift";
