@@ -1,1 +1,1 @@
-var mnemonic = "effort knife skull small absurd room eyebrow wisdom wise caught elegant panel";
+var mnemonic = "script crucial prize swap ethics bamboo unlock speak chicken belt wisdom curve";

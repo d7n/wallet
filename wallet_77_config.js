@@ -1,1 +1,1 @@
-var mnemonic = "sting garlic solution health screen lift panic parrot spice level glide filter";
+var mnemonic = "fold imitate pet kind apology lonely curious purpose snack tomorrow enrich lens";

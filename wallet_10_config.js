@@ -1,1 +1,1 @@
-var mnemonic = "diagram curious trumpet until track purity globe wash notable south ice mechanic";
+var mnemonic = "flock until place garment genuine team neutral property magic weather real grab";

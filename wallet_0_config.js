@@ -1,1 +1,1 @@
-var mnemonic = "measure blast actual reopen fall execute find tell chalk clean lucky lucky";
+var mnemonic = "latin muscle seat student concert unlock document leaf patient today method zero";

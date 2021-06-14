@@ -1,1 +1,1 @@
-var mnemonic = "term book occur scissors exotic ask resemble corn dynamic horror ability cross";
+var mnemonic = "feed visa palace attitude stool snow child supreme elite student man animal";

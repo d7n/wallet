@@ -1,1 +1,1 @@
-var mnemonic = "car spot pulp little tape panda agree sustain shove warm stem robot";
+var mnemonic = "ask voice army scrub crunch flag ostrich top spot dolphin brick staff";

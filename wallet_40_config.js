@@ -1,1 +1,1 @@
-var mnemonic = "prison possible melt melody alarm gravity spice fame awake member chicken learn";
+var mnemonic = "limb blind relax debate square trade pink doctor predict arrange search once";

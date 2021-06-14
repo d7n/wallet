@@ -1,1 +1,1 @@
-var mnemonic = "act bleak catch mesh lady maid ethics useless state opera flee legend";
+var mnemonic = "document interest envelope pitch cry barrel mention better slogan warfare asset income";

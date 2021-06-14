@@ -1,1 +1,1 @@
-var mnemonic = "trumpet weird allow story stadium loop sunny relax divorce lake caution reject";
+var mnemonic = "federal work trouble resemble digital wave cart cool update neutral napkin spell";

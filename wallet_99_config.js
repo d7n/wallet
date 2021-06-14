@@ -1,1 +1,1 @@
-var mnemonic = "certain host retire useless spice miss endorse midnight any silk ability lobster";
+var mnemonic = "original arm flip lawn flag book curve alert banana magic banana cycle";

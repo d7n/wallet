@@ -1,1 +1,1 @@
-var mnemonic = "word violin guitar defense crush merit donor primary offer conduct echo device";
+var mnemonic = "tragic uncle amazing village furnace mail mother ocean thumb economy whisper thing";

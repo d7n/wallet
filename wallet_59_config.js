@@ -1,1 +1,1 @@
-var mnemonic = "clump plunge float west teach welcome fee market roast scrap tag fabric";
+var mnemonic = "coral fit tongue width nothing awful capital tip fatigue sock join control";

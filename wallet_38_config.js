@@ -1,1 +1,1 @@
-var mnemonic = "large inch apple cable gauge walk rain wear absorb sauce finish gadget";
+var mnemonic = "abuse various conduct excite flame nation session flip strong day pepper trip";

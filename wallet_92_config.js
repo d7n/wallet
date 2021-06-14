@@ -1,1 +1,1 @@
-var mnemonic = "wise tank penalty erosion fatal group check other voice lock hybrid client";
+var mnemonic = "sunset solid entire ask cool luggage shuffle arrange kick above era glue";

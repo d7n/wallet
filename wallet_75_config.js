@@ -1,1 +1,1 @@
-var mnemonic = "horn soon tongue almost coil bright turtle keen soup alone fame wrap";
+var mnemonic = "puzzle alert result sell plastic people tray choice save seek lamp female";

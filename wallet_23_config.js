@@ -1,1 +1,1 @@
-var mnemonic = "lounge sponsor top turn clever gas frequent actress area silk move know";
+var mnemonic = "reunion sentence action maple exchange confirm wire share talk dentist shoot doll";

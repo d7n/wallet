@@ -1,1 +1,1 @@
-var mnemonic = "punch purity film denial knock iron access melody retire maple hold tourist";
+var mnemonic = "raise galaxy milk security together twist lady about adapt banana exclude online";

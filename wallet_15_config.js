@@ -1,1 +1,1 @@
-var mnemonic = "idea craft achieve faith snow organ ill front school bulk kite innocent";
+var mnemonic = "disease that soon usual warfare sing arrest unknown craft adjust mother rice";

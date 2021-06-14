@@ -1,1 +1,1 @@
-var mnemonic = "physical execute piece sense salute must refuse purity flight arena first behind";
+var mnemonic = "home insect video host ask bridge path quarter wisdom wish tide divide";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse wolf bottom teach chair slogan enlist steel forest advice deny head";
+var mnemonic = "gasp lunch capital mechanic collect tiny street dial they razor citizen annual";

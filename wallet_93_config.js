@@ -1,1 +1,1 @@
-var mnemonic = "cereal country celery shield climb raven round display name provide goat judge";
+var mnemonic = "relax uncover month hire smooth sign injury prosper decline air rose debris";

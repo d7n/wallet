@@ -1,1 +1,1 @@
-var mnemonic = "present captain pupil special jelly link gallery interest dish oyster increase inquiry";
+var mnemonic = "real home roast general kangaroo chase arctic tribe scare genuine cereal elegant";

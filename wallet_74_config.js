@@ -1,1 +1,1 @@
-var mnemonic = "next usage spring trigger female limb degree hill divide shell young police";
+var mnemonic = "identify trash evil organ cargo clinic jewel adapt negative water husband wreck";

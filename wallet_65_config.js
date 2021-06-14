@@ -1,1 +1,1 @@
-var mnemonic = "rural fatal empower very theory destroy snake victory trust detect have left";
+var mnemonic = "tail steak slender bid meadow dizzy disorder spot bridge brand rule remove";

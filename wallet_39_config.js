@@ -1,1 +1,1 @@
-var mnemonic = "practice adjust twice cloth only desk solar there behave eight disagree sentence";
+var mnemonic = "elite hamster image analyst grass catalog slot field basic fall barrel cloud";

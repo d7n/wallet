@@ -1,1 +1,1 @@
-var mnemonic = "over wrestle fault exclude addict magnet blame weather blouse abuse stereo sport";
+var mnemonic = "rotate fiber still will trash surface will angle reduce inch electric foil";

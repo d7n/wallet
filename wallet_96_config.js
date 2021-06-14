@@ -1,1 +1,1 @@
-var mnemonic = "daughter oval shell divorce style quote rubber scene bean kidney relax runway";
+var mnemonic = "glad slam inherit corn south jungle apology pave replace try virtual rival";

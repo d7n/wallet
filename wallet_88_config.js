@@ -1,1 +1,1 @@
-var mnemonic = "twenty harbor tonight avocado build collect sell lyrics future sustain broken rent";
+var mnemonic = "audit noise entire two common crop wage yard menu broom author rotate";

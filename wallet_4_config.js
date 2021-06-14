@@ -1,1 +1,1 @@
-var mnemonic = "shell timber organ fluid glide collect video utility need thunder answer car";
+var mnemonic = "category script retreat ethics unfair laugh industry unfold head muscle put wine";

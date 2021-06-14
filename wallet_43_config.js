@@ -1,1 +1,1 @@
-var mnemonic = "armor matter sister uniform barrel since ceiling case kitchen mobile wild secret";
+var mnemonic = "balcony nuclear exist install dilemma party off toss other erupt debris auction";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb pulp become lobster window asset noble miracle gasp sunny mouse surface";
+var mnemonic = "afraid imitate festival invite alien test gate insect type venue emerge pull";

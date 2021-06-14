@@ -1,1 +1,1 @@
-var mnemonic = "shuffle road oak ceiling side glow mirror garbage mystery weird hover position";
+var mnemonic = "book mansion congress blind someone joke coffee glide inflict elegant scene alone";

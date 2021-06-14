@@ -1,1 +1,1 @@
-var mnemonic = "crowd dynamic biology tired lucky aware dose aunt clean secret quiz wrong";
+var mnemonic = "razor awkward void give chunk siren toe conduct struggle raise camera great";

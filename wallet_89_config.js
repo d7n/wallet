@@ -1,1 +1,1 @@
-var mnemonic = "hip belt balcony canoe orbit add vapor student economy measure wrist shiver";
+var mnemonic = "spawn script because identify common dawn expose gesture stool because cabin leg";

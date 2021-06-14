@@ -1,1 +1,1 @@
-var mnemonic = "chaos chest biology wire cram gentle together below feed october kite canyon";
+var mnemonic = "hair ride cliff thing flip walnut denial victory round book couch oak";

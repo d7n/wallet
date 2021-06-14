@@ -1,1 +1,1 @@
-var mnemonic = "visual cricket satisfy armor hill track style ensure crumble what perfect real";
+var mnemonic = "globe rather angle strike wise crime give feature sock fortune banana chief";

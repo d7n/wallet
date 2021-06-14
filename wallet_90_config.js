@@ -1,1 +1,1 @@
-var mnemonic = "shoot neutral priority furnace race again method voyage predict stairs away spell";
+var mnemonic = "lunch rabbit blame glow talent they second student insane glory tool panda";

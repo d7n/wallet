@@ -1,1 +1,1 @@
-var mnemonic = "solar drastic mechanic atom horse busy write seat gun sport pigeon thrive";
+var mnemonic = "frost equip kingdom jealous orchard dentist include often chronic silk deal pull";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll knife village upon tortoise dog sense pudding avoid pottery fat salute";
+var mnemonic = "cinnamon fuel urge ketchup brown wrist jealous guide sting auto forget remind";

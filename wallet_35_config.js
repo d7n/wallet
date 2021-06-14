@@ -1,1 +1,1 @@
-var mnemonic = "unable urge theme execute extra vague gravity relief blur pilot model trial";
+var mnemonic = "renew oyster then notice snow logic gun sadness secret wonder surface exercise";

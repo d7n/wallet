@@ -1,1 +1,1 @@
-var mnemonic = "plastic want clump margin cheese live tooth junk gather fortune salt motor";
+var mnemonic = "post tragic crime amateur exhibit business razor talk urban wink mouse burst";

@@ -1,1 +1,1 @@
-var mnemonic = "square false boss calm shed evolve morning body extend flat romance cluster";
+var mnemonic = "doll change unable route diamond twelve mutual escape zone valley average drive";

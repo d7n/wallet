@@ -1,1 +1,1 @@
-var mnemonic = "garlic screen actual cup hover fire walk paddle camera replace shrimp quantum";
+var mnemonic = "bag cliff answer useless finish main rail math despair remain hold better";

@@ -1,1 +1,1 @@
-var mnemonic = "quote sword ski pattern type album basic asset crystal round just wine";
+var mnemonic = "spot digital fatigue square harvest mind grocery icon protect enable lobster rate";

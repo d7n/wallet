@@ -1,1 +1,1 @@
-var mnemonic = "increase fog category brave boat wood tourist owner diet design antenna toe";
+var mnemonic = "lottery grocery soccer oil exist pass garden resemble pigeon feature hill hair";

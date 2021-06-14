@@ -1,1 +1,1 @@
-var mnemonic = "auction arrange combine hard sign balcony dad transfer cute mention auction fence";
+var mnemonic = "online fall view boil network tower square actor fence hospital era fresh";

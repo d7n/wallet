@@ -1,1 +1,1 @@
-var mnemonic = "senior tortoise account sleep leaf together victory stove shine curve usage walk";
+var mnemonic = "beyond same wood recipe refuse scan crystal piece elite game garlic pole";

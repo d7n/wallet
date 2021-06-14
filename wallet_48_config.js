@@ -1,1 +1,1 @@
-var mnemonic = "voice moment engine foam immense near already pottery vintage ten tackle catch";
+var mnemonic = "trouble someone age grace luxury talent soup divert kick edge vicious change";

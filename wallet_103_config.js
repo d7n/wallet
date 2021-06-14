@@ -1,1 +1,1 @@
-var mnemonic = "holiday recall source delay misery brown twist giraffe toe cloud embody during";
+var mnemonic = "observe cave city quit salon transfer asset initial weapon lonely subway benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "arena wheat angle enjoy morning open rebel silk rude ticket wait donkey";
+var mnemonic = "tent salt finish equal stairs actual crisp joy scrub remove sketch fence";

@@ -1,1 +1,1 @@
-var mnemonic = "home enlist motion palace wide repeat cluster sudden one orient manage quit";
+var mnemonic = "sure elephant august struggle try hover secret first valid rent visual puppy";

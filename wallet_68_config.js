@@ -1,1 +1,1 @@
-var mnemonic = "annual shaft nose teach decline antique ill group episode popular vivid ordinary";
+var mnemonic = "barely field glare skirt across weather clay beauty wonder collect turkey narrow";

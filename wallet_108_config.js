@@ -1,1 +1,1 @@
-var mnemonic = "bronze peasant donkey body inflict cream item layer file praise engage betray";
+var mnemonic = "solve scatter any chunk pelican horn plastic slender evoke junk simple action";

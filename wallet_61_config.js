@@ -1,1 +1,1 @@
-var mnemonic = "expand alpha hobby immune appear fit pole ginger face ride exact infant";
+var mnemonic = "dynamic pass payment arena multiply jealous save apple rail ill twelve chief";

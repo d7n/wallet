@@ -1,1 +1,1 @@
-var mnemonic = "alone motion jazz submit focus play number vendor toss audit ring tongue";
+var mnemonic = "uphold spoon caution quantum rate reason beach quality human potato hard age";

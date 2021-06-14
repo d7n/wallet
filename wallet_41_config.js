@@ -1,1 +1,1 @@
-var mnemonic = "silver interest real basic oyster impulse twist van matrix advance auto burger";
+var mnemonic = "abandon chaos debris rookie topple truck zebra payment steak ugly nice year";

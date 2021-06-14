@@ -1,1 +1,1 @@
-var mnemonic = "window crater response until pepper soon section ladder element visit blossom process";
+var mnemonic = "reopen story practice pet box bubble slush report hunt village since unfair";

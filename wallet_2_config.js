@@ -1,1 +1,1 @@
-var mnemonic = "blossom help kick fame large fan vivid negative act owner divorce project";
+var mnemonic = "police report bench payment mirror jungle there entire undo grain salmon giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "client hotel boy cloud tribe supply junior mutual great elephant move record";
+var mnemonic = "glow arena poet live hollow earn mix float squirrel cloud hazard demise";

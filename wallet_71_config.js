@@ -1,1 +1,1 @@
-var mnemonic = "december nominee flame place session brand appear hub bounce torch palace destroy";
+var mnemonic = "ranch bargain puppy abandon timber maximum orbit blush net broccoli flat paddle";

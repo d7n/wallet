@@ -1,1 +1,1 @@
-var mnemonic = "allow federal rural miss danger angle point any pizza bunker purity public";
+var mnemonic = "resist sister excuse patrol water shoot penalty cricket sponsor tourist dolphin gas";

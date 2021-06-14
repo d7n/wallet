@@ -1,1 +1,1 @@
-var mnemonic = "provide fantasy inmate drift fish protect proud oyster surround goat artist enough";
+var mnemonic = "venue fancy token doctor enter scheme dignity parade hazard lizard ginger dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk engine embark spray oval lemon upgrade marine hole aim strike bright";
+var mnemonic = "nature between wine since misery vibrant zero agree pink rival lift siren";

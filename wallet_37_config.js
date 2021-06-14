@@ -1,1 +1,1 @@
-var mnemonic = "strike motion bar mansion alpha age breeze rich diet hunt doctor abuse";
+var mnemonic = "riot avocado couple place gadget sail upon galaxy volcano track gossip amateur";

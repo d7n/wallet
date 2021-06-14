@@ -1,1 +1,1 @@
-var mnemonic = "blood just visit usage chase term news acquire afraid climb cattle fly";
+var mnemonic = "inspire swap rookie cake venue among ribbon one cave noise floor catalog";

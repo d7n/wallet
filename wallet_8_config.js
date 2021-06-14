@@ -1,1 +1,1 @@
-var mnemonic = "meadow logic install churn gravity sure van scissors great toward scrap cute";
+var mnemonic = "toilet army deposit inject unusual town evil strong member task music april";

@@ -1,1 +1,1 @@
-var mnemonic = "waste exclude duty simple cherry pledge onion six bubble debate mom dutch";
+var mnemonic = "label rice usual industry live shock repeat filter menu athlete purity wet";

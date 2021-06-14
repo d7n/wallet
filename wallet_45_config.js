@@ -1,1 +1,1 @@
-var mnemonic = "mobile upon unfair tank physical guard imitate digital daring taxi ability pulse";
+var mnemonic = "chaos road under august auto hard inmate town true spray useful duck";

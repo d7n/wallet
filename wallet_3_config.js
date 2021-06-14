@@ -1,1 +1,1 @@
-var mnemonic = "casual caution good two february inflict rough horse analyst later analyst home";
+var mnemonic = "local general sentence quantum fatigue omit enhance scare about where plug slight";

@@ -1,1 +1,1 @@
-var mnemonic = "style rather chronic expand oppose ginger usage lazy praise train crash history";
+var mnemonic = "juice still among session dizzy concert ginger dolphin use minute guitar machine";

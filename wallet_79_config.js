@@ -1,1 +1,1 @@
-var mnemonic = "mixed force sample try sight merit item garage pig caught permit behave";
+var mnemonic = "inflict escape flag creek buyer vault ketchup style across snap faint enter";

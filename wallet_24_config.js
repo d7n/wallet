@@ -1,1 +1,1 @@
-var mnemonic = "abuse arrest curtain hard obtain absorb school cherry lazy master march hawk";
+var mnemonic = "auction excess company verb caught border moon morning knock casino sport result";

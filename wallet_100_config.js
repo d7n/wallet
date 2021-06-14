@@ -1,1 +1,1 @@
-var mnemonic = "merry alone inside little floor luxury slogan close dad advance radar topic";
+var mnemonic = "recycle renew resource clerk frog demand world legend affair angle disorder latin";

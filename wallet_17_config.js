@@ -1,1 +1,1 @@
-var mnemonic = "boy cry object trophy input weather ramp pioneer sadness estate goose source";
+var mnemonic = "hammer small shed west achieve dumb document emerge second puppy viable amused";

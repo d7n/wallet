@@ -1,1 +1,1 @@
-var mnemonic = "learn dream ladder clay limb castle paddle around inside curve detail retreat";
+var mnemonic = "rate file trick vessel parrot public leader teach pole impulse proud edit";

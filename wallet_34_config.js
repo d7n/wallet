@@ -1,1 +1,1 @@
-var mnemonic = "buddy garlic stereo moral decrease idea aunt recipe cart mass exhibit shock";
+var mnemonic = "feed flag truth protect group sugar matrix item worth pig junk such";

@@ -1,1 +1,1 @@
-var mnemonic = "execute fossil immense swing never success floor whip soap whisper ostrich cradle";
+var mnemonic = "matter bus gather garbage fringe clown puzzle hint bulb salon general account";

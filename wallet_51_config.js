@@ -1,1 +1,1 @@
-var mnemonic = "enough flash wrestle stairs amount already payment word remove genius extra olive";
+var mnemonic = "yellow soccer modify caught olympic youth involve meat oblige kiss month erode";

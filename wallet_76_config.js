@@ -1,1 +1,1 @@
-var mnemonic = "way trade medal velvet jewel all figure nation cat view ski movie";
+var mnemonic = "illegal lock observe museum life elevator glimpse skirt man great uncle social";

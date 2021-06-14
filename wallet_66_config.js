@@ -1,1 +1,1 @@
-var mnemonic = "liquid blossom guide happy blush cruel judge cancel weird peace round lucky";
+var mnemonic = "connect drastic ship trade pipe regret debate gun mutual citizen attack jeans";

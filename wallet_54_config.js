@@ -1,1 +1,1 @@
-var mnemonic = "wait mean turn trade panel scene dirt pumpkin rotate warfare drive dust";
+var mnemonic = "surge salon minute foil color rug version talk monitor rate misery violin";

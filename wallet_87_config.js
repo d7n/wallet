@@ -1,1 +1,1 @@
-var mnemonic = "job toss sustain speed cargo rough time butter portion sustain business surface";
+var mnemonic = "convince menu caution chapter panel bullet minimum promote ski tail evidence race";

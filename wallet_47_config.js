@@ -1,1 +1,1 @@
-var mnemonic = "enrich hope oven never crater certain hood truth phone term notable thing";
+var mnemonic = "pear joke fan like text true divert wage dog giant depend drop";

@@ -1,1 +1,1 @@
-var mnemonic = "portion arctic script upper actor second behind series fame jealous gaze bracket";
+var mnemonic = "alert swift brick garment advance share beef habit giggle smart main town";

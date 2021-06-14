@@ -1,1 +1,1 @@
-var mnemonic = "alert plate couch receive pretty blush source garlic hover random submit puzzle";
+var mnemonic = "double sauce stable engage oppose decide kitchen fortune strike birth burden add";

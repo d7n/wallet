@@ -1,1 +1,1 @@
-var mnemonic = "gesture chimney denial lawn humble office fox few depend clock various talk";
+var mnemonic = "dutch comic expand north miracle faculty cradle answer worth burden round below";

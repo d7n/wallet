@@ -1,1 +1,1 @@
-var mnemonic = "salute trend pulse rally gift copper clog staff kiwi flag glad asset";
+var mnemonic = "glance kitchen erase glimpse allow where absent soldier amused federal size monitor";

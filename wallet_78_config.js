@@ -1,1 +1,1 @@
-var mnemonic = "rely bicycle eyebrow vague rookie couch umbrella inmate machine swing toddler iron";
+var mnemonic = "crew cradle ask brave profit inquiry talk inform another pond deer hurry";

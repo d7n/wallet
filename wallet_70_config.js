@@ -1,1 +1,1 @@
-var mnemonic = "phrase never pink frown injury there document kid donkey clip scrap tonight";
+var mnemonic = "model autumn cinnamon flee dilemma mechanic two regret real cube rich dolphin";

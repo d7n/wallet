@@ -1,1 +1,1 @@
-var mnemonic = "menu front smart daring dream live jeans force adapt voyage rifle cheap";
+var mnemonic = "nasty diary first profit need design unaware decorate alley worry unusual confirm";
