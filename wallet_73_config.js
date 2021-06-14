@@ -1,1 +1,1 @@
-var mnemonic = "clever advice begin total peace fun peace attack noodle senior check salad";
+var mnemonic = "road frost female design bright crash hamster water evil quantum joke favorite";

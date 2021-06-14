@@ -1,1 +1,1 @@
-var mnemonic = "marriage label green melt evoke drama safe kit retreat drift assist club";
+var mnemonic = "combine tumble apology exist random upgrade addict simple bread because offer together";

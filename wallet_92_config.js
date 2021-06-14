@@ -1,1 +1,1 @@
-var mnemonic = "wave unit pepper omit sustain worry rural shift puppy crowd ceiling fine";
+var mnemonic = "better across pepper correct absorb raccoon december thunder embody produce whisper zone";

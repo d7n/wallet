@@ -1,1 +1,1 @@
-var mnemonic = "veteran tool spice weapon waste rescue gown picnic drift rally erosion annual";
+var mnemonic = "able citizen stereo panther local auction avocado know trumpet page waste invite";

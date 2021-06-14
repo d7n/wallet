@@ -1,1 +1,1 @@
-var mnemonic = "brief example nothing book make else consider tuna sunset smart stomach diesel";
+var mnemonic = "below shuffle option update payment winter coyote tomorrow visit upset bunker anxiety";

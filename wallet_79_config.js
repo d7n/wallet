@@ -1,1 +1,1 @@
-var mnemonic = "hip mule fee pencil barely better learn gold marriage saddle pill because";
+var mnemonic = "they pool voice dry chef help clown crack steak antenna join scrub";

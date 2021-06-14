@@ -1,1 +1,1 @@
-var mnemonic = "agree bronze come speak lounge little give tone clog fitness pluck memory";
+var mnemonic = "tag because replace distance light hat bean attack exhibit special frequent panda";

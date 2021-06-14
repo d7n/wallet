@@ -1,1 +1,1 @@
-var mnemonic = "tiny goose always toward claw slab power elephant quarter attack rail either";
+var mnemonic = "fortune dice devote home flush benefit brave stock come price comfort basket";

@@ -1,1 +1,1 @@
-var mnemonic = "average purpose barely west deny divide power legal sure island velvet debris";
+var mnemonic = "define reopen marine attract powder double giant salt solution physical absent repair";

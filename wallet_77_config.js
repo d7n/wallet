@@ -1,1 +1,1 @@
-var mnemonic = "blue matter volume total average calm gorilla lab congress please net alert";
+var mnemonic = "gentle west taste omit delay stay omit say dash century begin bind";

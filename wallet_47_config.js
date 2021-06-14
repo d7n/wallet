@@ -1,1 +1,1 @@
-var mnemonic = "spawn broken ice neither open left repair vehicle course normal cheap ignore";
+var mnemonic = "hat dumb age fabric census degree mask march donate elbow turtle clay";

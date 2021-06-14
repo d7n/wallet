@@ -1,1 +1,1 @@
-var mnemonic = "topple collect pear exchange physical moral desert lamp parade physical unique trust";
+var mnemonic = "climb crash ritual fire power happy local occur exercise business sock meat";

@@ -1,1 +1,1 @@
-var mnemonic = "library embrace shy exit donate prize juice medal maximum plastic during plastic";
+var mnemonic = "west lake suggest mechanic stable style lucky wise spike report hunt gown";

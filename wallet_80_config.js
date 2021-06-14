@@ -1,1 +1,1 @@
-var mnemonic = "person simple pigeon atom enough often achieve obtain rug fruit clay solid";
+var mnemonic = "spatial toward nurse video rough often valley neck drastic region lonely injury";

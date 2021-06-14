@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit indoor gold access copper phrase best half good shift twin random";
+var mnemonic = "daring tuna jelly quantum humor more much expect enhance mixture distance stove";

@@ -1,1 +1,1 @@
-var mnemonic = "token magic forum half unaware glare another pigeon approve axis debate sunny";
+var mnemonic = "cloud balcony gather under claim proof couple immune bounce bicycle scale panel";

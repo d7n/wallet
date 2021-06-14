@@ -1,1 +1,1 @@
-var mnemonic = "symptom avocado benefit truth inhale total eager rather system dilemma pool tide";
+var mnemonic = "sniff unit skin excite immense discover ginger silly kidney echo virtual eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch move cram genre edit enough cluster pull vintage rough own turkey";
+var mnemonic = "expect render oppose soul spray forget elder plastic bag tank reopen night";

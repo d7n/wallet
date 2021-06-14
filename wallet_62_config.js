@@ -1,1 +1,1 @@
-var mnemonic = "enrich margin usage ketchup luxury elder fold birth scout fit gaze ball";
+var mnemonic = "post switch pig senior fetch april neglect broccoli helmet can beyond gate";

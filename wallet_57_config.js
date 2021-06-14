@@ -1,1 +1,1 @@
-var mnemonic = "reveal two invite hub humor swim fiction castle stable front wagon ill";
+var mnemonic = "abstract whale buyer aspect hip replace hill also fringe series scrub spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge material profit surge chest check wife oak ship test announce peace";
+var mnemonic = "mutual orbit usual clerk unknown estate soon denial worry response purity news";

@@ -1,1 +1,1 @@
-var mnemonic = "enemy alter photo romance decline crime museum mammal shop wisdom nerve blanket";
+var mnemonic = "require demise result hedgehog blade city knock reward subway fortune urban plug";

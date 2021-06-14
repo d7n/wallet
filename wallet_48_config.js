@@ -1,1 +1,1 @@
-var mnemonic = "slow pudding clump bless world observe logic ship captain tube trigger artefact";
+var mnemonic = "physical awesome gather crime inside act craft nut suggest glory dinosaur latin";

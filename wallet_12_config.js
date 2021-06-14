@@ -1,1 +1,1 @@
-var mnemonic = "bacon magic cry abandon puzzle scheme feature increase resist drastic street cancel";
+var mnemonic = "siege shift visit retreat mouse mountain melody master retreat special salad cheap";

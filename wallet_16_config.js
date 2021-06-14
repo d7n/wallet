@@ -1,1 +1,1 @@
-var mnemonic = "harbor nasty trick infant observe couple guide hip spray weasel brick thrive";
+var mnemonic = "regular sting people job resist immense basic bacon share bomb yellow discover";

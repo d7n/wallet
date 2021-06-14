@@ -1,1 +1,1 @@
-var mnemonic = "rally palm moon donkey viable tower carpet transfer also blast shell arrange";
+var mnemonic = "fever eight speak actress solution resemble you issue rhythm grain crawl neither";

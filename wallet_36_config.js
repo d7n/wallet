@@ -1,1 +1,1 @@
-var mnemonic = "idea special adapt search depend admit brass banner like scatter donate shallow";
+var mnemonic = "half alarm dwarf learn jealous raw belt federal demise legal park empty";

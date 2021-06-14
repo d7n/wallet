@@ -1,1 +1,1 @@
-var mnemonic = "captain green property develop silver galaxy olympic pave profit install forward feel";
+var mnemonic = "wild humble absorb animal save raccoon soup cradle situate abstract useful tourist";

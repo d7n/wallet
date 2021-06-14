@@ -1,1 +1,1 @@
-var mnemonic = "term crowd bless label glow worth dragon comic auto penalty romance diary";
+var mnemonic = "mushroom aisle member basket design like slice pact zebra catalog manage soul";

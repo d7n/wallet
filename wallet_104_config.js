@@ -1,1 +1,1 @@
-var mnemonic = "protect nothing palm enjoy idle artwork earth struggle card level better kingdom";
+var mnemonic = "lumber lumber cost fence essay harsh famous power number describe only control";

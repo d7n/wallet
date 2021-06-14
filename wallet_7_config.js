@@ -1,1 +1,1 @@
-var mnemonic = "tuna rifle treat coyote food damp cloud remember apple chalk remove item";
+var mnemonic = "fuel enable fix fringe chest learn hello canvas walnut surge immense insect";

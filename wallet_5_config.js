@@ -1,1 +1,1 @@
-var mnemonic = "town usage drip winner skull kind team jar bleak able art distance";
+var mnemonic = "gas cart eagle lamp void father beauty model exotic truly body all";

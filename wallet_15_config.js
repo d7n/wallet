@@ -1,1 +1,1 @@
-var mnemonic = "ripple swallow choose federal advice smile exhibit zoo shiver school zone grunt";
+var mnemonic = "wave envelope risk joy caution script wrap pole agree nephew side lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "funny rack fence monster tortoise topple leaf kick trouble pioneer rookie flock";
+var mnemonic = "general super fever garment project better breeze example genuine love basic split";

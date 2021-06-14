@@ -1,1 +1,1 @@
-var mnemonic = "permit dice unit admit orchard one resist sudden visit radar drip faint";
+var mnemonic = "canyon tennis crash stomach any rib couch health volume bar lift address";

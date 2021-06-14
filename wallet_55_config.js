@@ -1,1 +1,1 @@
-var mnemonic = "uphold purity expire animal fog frown grain sorry upper print chat scale";
+var mnemonic = "vivid mercy priority release blossom fan pioneer expect review daring wonder piece";

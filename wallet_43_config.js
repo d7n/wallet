@@ -1,1 +1,1 @@
-var mnemonic = "resemble file pond join will above tank act load fresh dolphin east";
+var mnemonic = "ritual crystal ecology clinic mind craft mandate distance slight radar rib net";

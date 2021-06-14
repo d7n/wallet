@@ -1,1 +1,1 @@
-var mnemonic = "nurse this prize trouble useful donate require fire there off meat canvas";
+var mnemonic = "suit never monkey gentle pitch sick sound city knock concert frame common";

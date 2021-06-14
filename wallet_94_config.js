@@ -1,1 +1,1 @@
-var mnemonic = "scrub exercise dumb critic maid oil bracket tip ignore trophy river office";
+var mnemonic = "goddess group reopen seek attitude item luggage over behind top feature weasel";

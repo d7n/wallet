@@ -1,1 +1,1 @@
-var mnemonic = "cable nuclear drum object warfare silly frame muscle wing basic leg erode";
+var mnemonic = "coil satisfy degree keen cover hedgehog dice almost runway glow license envelope";

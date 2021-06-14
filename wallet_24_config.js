@@ -1,1 +1,1 @@
-var mnemonic = "hybrid shaft tomorrow pair chronic educate someone fun gun bridge found zebra";
+var mnemonic = "people orphan elephant ski blouse horse outside left decide range guitar cash";

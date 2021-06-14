@@ -1,1 +1,1 @@
-var mnemonic = "shallow tide vote solar video quarter couple soon number barrel chef alley";
+var mnemonic = "sudden helmet increase modify favorite segment core until luggage muffin vault forward";

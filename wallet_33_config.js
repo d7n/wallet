@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur chaos athlete next couple venture annual title subject soda case scissors";
+var mnemonic = "cancel bunker until omit measure life daughter fan verify afraid used whale";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon pulse common vanish boil perfect motor noise magic sibling effort property";
+var mnemonic = "quote huge problem crew carry avoid vacuum phrase bamboo dynamic toilet acoustic";

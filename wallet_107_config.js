@@ -1,1 +1,1 @@
-var mnemonic = "choose fluid exercise approve road toast pride reunion salt space debris globe";
+var mnemonic = "steak paper city shiver dinner hole family wrap load sadness once over";

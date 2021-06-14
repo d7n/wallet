@@ -1,1 +1,1 @@
-var mnemonic = "drop hour valley expire extra sweet include romance winner income bar ability";
+var mnemonic = "candy acquire chat view miss cupboard exact permit voyage unit certain empower";

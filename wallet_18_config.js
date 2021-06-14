@@ -1,1 +1,1 @@
-var mnemonic = "razor hope shift enhance other window guess act fury snow main scrub";
+var mnemonic = "vendor ignore echo world suit disagree section clarify picnic neck share fresh";

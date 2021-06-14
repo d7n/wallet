@@ -1,1 +1,1 @@
-var mnemonic = "stem seminar goddess spawn voice student remember word alarm spatial ball treat";
+var mnemonic = "found heavy desk soap charge parrot thought quality theme faith blossom stool";

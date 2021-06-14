@@ -1,1 +1,1 @@
-var mnemonic = "palace embody nephew trust gap chronic still brain license cupboard control prepare";
+var mnemonic = "kidney absorb three world brass differ large drink trick law aisle smoke";

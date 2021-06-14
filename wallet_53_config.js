@@ -1,1 +1,1 @@
-var mnemonic = "ten scene poet silver order hope occur accident summer cash more recycle";
+var mnemonic = "mechanic stick quality cement motor ordinary cotton peanut wise eagle force country";

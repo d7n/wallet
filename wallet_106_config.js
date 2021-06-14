@@ -1,1 +1,1 @@
-var mnemonic = "brick battle soon marriage bomb cushion fall normal spare choice creek hidden";
+var mnemonic = "wrestle list crater ethics fresh enjoy flush print street wealth swarm rhythm";

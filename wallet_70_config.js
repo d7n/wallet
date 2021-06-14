@@ -1,1 +1,1 @@
-var mnemonic = "afford resist advance wonder logic escape milk educate toilet nerve sure mistake";
+var mnemonic = "bright check antique mention hire evoke pyramid story avoid boss shrimp fiscal";

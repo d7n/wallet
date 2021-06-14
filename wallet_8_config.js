@@ -1,1 +1,1 @@
-var mnemonic = "face quit rice review cliff sick pupil trust object motor pitch crouch";
+var mnemonic = "foster unveil common hurt open special chief cave switch morning click swarm";

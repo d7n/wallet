@@ -1,1 +1,1 @@
-var mnemonic = "release movie taxi second ugly vivid refuse rival satisfy rookie nest junior";
+var mnemonic = "hint drop family waste already pretty better twelve cupboard actor mushroom turkey";

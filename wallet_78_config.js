@@ -1,1 +1,1 @@
-var mnemonic = "clump humor nerve boy wave table scrub mixed cupboard project casual safe";
+var mnemonic = "swarm advice knock supply snow acid theory cereal fade daughter rule point";

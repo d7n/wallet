@@ -1,1 +1,1 @@
-var mnemonic = "van dragon verb notable pause chief silk retreat album dentist cover push";
+var mnemonic = "reject crawl region execute tuition syrup bind lonely rocket stereo want lend";

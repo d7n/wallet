@@ -1,1 +1,1 @@
-var mnemonic = "bleak strike devote unfair prosper earth room wasp spoil oil sword this";
+var mnemonic = "river review carbon latin blame twice valve polar ginger armed comic toe";

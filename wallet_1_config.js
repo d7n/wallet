@@ -1,1 +1,1 @@
-var mnemonic = "lumber absorb sort fancy million leave someone cactus april guide decline priority";
+var mnemonic = "fresh say address action aunt garage electric deal opera together economy live";

@@ -1,1 +1,1 @@
-var mnemonic = "fence cloth rain blur faculty grow aunt course little loop force horse";
+var mnemonic = "fox drop destroy cereal crisp trial observe neither music toast resemble peasant";

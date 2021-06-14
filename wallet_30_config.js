@@ -1,1 +1,1 @@
-var mnemonic = "family athlete web lend city review hold half detect rely warfare hurry";
+var mnemonic = "depend deliver fiber flee soon steel admit simple culture junior enable pony";

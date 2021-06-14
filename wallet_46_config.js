@@ -1,1 +1,1 @@
-var mnemonic = "cupboard slim bunker job dust capital year treat ignore skin memory worry";
+var mnemonic = "harvest dream avoid cover peasant type sense flip vehicle trumpet program home";

@@ -1,1 +1,1 @@
-var mnemonic = "scan ladder team distance gym ritual fork future fitness retire gap dish";
+var mnemonic = "great alpha dynamic slender knee steel thought resource tent mixed palace faint";

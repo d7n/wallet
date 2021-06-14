@@ -1,1 +1,1 @@
-var mnemonic = "blood sphere injury mandate picnic pony rude season page special trophy target";
+var mnemonic = "few jazz cube month catalog carpet member good seed initial throw win";

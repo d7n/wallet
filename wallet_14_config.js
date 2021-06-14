@@ -1,1 +1,1 @@
-var mnemonic = "broccoli sentence post theme reunion follow unlock regret cereal file anchor frozen";
+var mnemonic = "east indoor nose fringe famous chest cousin chief earth hire boring tomato";

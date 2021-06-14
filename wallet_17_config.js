@@ -1,1 +1,1 @@
-var mnemonic = "minimum zebra grass coast topple light slow man slush shuffle finish later";
+var mnemonic = "curtain awesome mail battle oven menu concert shed obey wedding tobacco purity";

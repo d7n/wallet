@@ -1,1 +1,1 @@
-var mnemonic = "equip drive concert fabric ball liar little cannon reflect liar rubber glimpse";
+var mnemonic = "effort spike assault fox armed spirit undo tag buyer below unknown morning";

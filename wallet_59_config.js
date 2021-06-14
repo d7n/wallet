@@ -1,1 +1,1 @@
-var mnemonic = "magic machine tank famous view receive color disorder liar gasp ability ethics";
+var mnemonic = "unfair question believe lava knock echo grain bamboo media forward surround sweet";

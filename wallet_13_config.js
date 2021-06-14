@@ -1,1 +1,1 @@
-var mnemonic = "december flat fiber trend soon butter scare journey clay estate stock bottom";
+var mnemonic = "occur test economy never raven time sheriff voyage hard drastic split roof";

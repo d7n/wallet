@@ -1,1 +1,1 @@
-var mnemonic = "ostrich debate robust analyst venue immense prison industry puppy rural tortoise average";
+var mnemonic = "nominee credit shoot slab elbow planet iron ordinary invest wide double into";

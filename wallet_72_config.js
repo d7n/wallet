@@ -1,1 +1,1 @@
-var mnemonic = "blast quit mammal innocent slim maid cup kid push myth enact spell";
+var mnemonic = "valve coin quiz release plastic hint budget dizzy code spot limit pitch";

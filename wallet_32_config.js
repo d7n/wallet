@@ -1,1 +1,1 @@
-var mnemonic = "push tourist oak cabin soda unveil hen feel law obscure unveil quote";
+var mnemonic = "magic hover follow route analyst mass defense slice pig garden diagram minute";

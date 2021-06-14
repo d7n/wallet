@@ -1,1 +1,1 @@
-var mnemonic = "table square left select split amount tumble rebel million endorse fiscal bind";
+var mnemonic = "suffer deputy napkin moment gospel flame camera manual into agent doctor inject";

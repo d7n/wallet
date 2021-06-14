@@ -1,1 +1,1 @@
-var mnemonic = "miracle vanish swim amateur liberty same adapt below cherry fox canoe tuna";
+var mnemonic = "cherry bar prepare rather foil fantasy sphere client say maximum talk quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "they high bar cradle notable tank indicate tiger near buyer crucial borrow";
+var mnemonic = "mention ridge walk across brass furnace insect cinnamon snow guess exist memory";

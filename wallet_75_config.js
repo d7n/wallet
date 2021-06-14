@@ -1,1 +1,1 @@
-var mnemonic = "broom debate path toss bind jaguar drastic funny wash flip luggage rocket";
+var mnemonic = "must hockey twelve blast fence oval goose exhaust charge undo vast ribbon";

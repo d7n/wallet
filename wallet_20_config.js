@@ -1,1 +1,1 @@
-var mnemonic = "bar tunnel exhibit miracle coin require follow ankle couch moral correct bid";
+var mnemonic = "polar suit amateur usual marble conduct buddy where brain energy custom yellow";

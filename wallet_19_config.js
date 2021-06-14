@@ -1,1 +1,1 @@
-var mnemonic = "wing visual keen want sight loyal repeat tilt estate bottom creek key";
+var mnemonic = "coin sweet rocket turn edit achieve happy stand resemble pretty exclude rival";

@@ -1,1 +1,1 @@
-var mnemonic = "switch fly behind monitor voyage soldier chunk achieve require blouse drum fork";
+var mnemonic = "vote summer left believe shoulder trust wasp soldier grass menu spot label";

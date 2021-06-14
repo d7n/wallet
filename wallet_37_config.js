@@ -1,1 +1,1 @@
-var mnemonic = "poem private satisfy ivory material rocket festival caution firm minute consider sample";
+var mnemonic = "crowd pole innocent essence volcano mouse slide bid category winter matter zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "gap keep glove primary spoon ordinary top very around acid rude shadow";
+var mnemonic = "minimum meadow orbit style wall similar surge gold put hedgehog age seat";

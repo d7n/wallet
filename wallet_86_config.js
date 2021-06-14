@@ -1,1 +1,1 @@
-var mnemonic = "clump warm veteran emotion quiz apart sibling old spend fly alarm reopen";
+var mnemonic = "six toss that tackle basket mixed memory better video cinnamon traffic sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "once what mercy hire crucial ostrich junk kiss unveil fog lens crack";
+var mnemonic = "mention pact loan scrap route grocery blanket hub civil tiny remember increase";

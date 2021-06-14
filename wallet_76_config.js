@@ -1,1 +1,1 @@
-var mnemonic = "airport author want segment attitude lyrics genre width merry upgrade bacon film";
+var mnemonic = "laundry inch guide kiwi comic bacon gorilla purchase clog harbor behind isolate";

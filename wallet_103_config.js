@@ -1,1 +1,1 @@
-var mnemonic = "afford wave because menu gallery clever approve morning attend chuckle army rich";
+var mnemonic = "draw science hood cluster audit hello grit arrive differ aspect phone slide";

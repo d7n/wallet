@@ -1,1 +1,1 @@
-var mnemonic = "burden hawk stock gallery exhaust element art rubber situate leopard spider gold";
+var mnemonic = "rug capable gossip consider about buyer price such bottom prize page ritual";

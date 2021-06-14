@@ -1,1 +1,1 @@
-var mnemonic = "finger enroll climb win orbit hover assault vendor resist beach palm casino";
+var mnemonic = "unfair party leave middle rent mobile color paper session inmate cry trophy";

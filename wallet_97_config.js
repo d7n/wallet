@@ -1,1 +1,1 @@
-var mnemonic = "render same canal slice long book safe chair talent gown emerge trust";
+var mnemonic = "limb wisdom rack twice noodle essence jacket axis sister curious tail define";

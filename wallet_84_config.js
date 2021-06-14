@@ -1,1 +1,1 @@
-var mnemonic = "rack sun wave mouse tobacco style wolf bulk tenant ship grow cat";
+var mnemonic = "setup flavor quick submit virtual inch raw waste moon weekend behind three";

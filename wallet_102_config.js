@@ -1,1 +1,1 @@
-var mnemonic = "deputy swear more expect daring duck stereo near wealth pottery movie beyond";
+var mnemonic = "number damp pig victory math media decide visa rough habit unlock syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "pear rent file dress exile vivid later ball strong claw ozone easy";
+var mnemonic = "prison involve settle become flash rocket view hockey agree bulb alcohol spell";
