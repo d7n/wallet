@@ -1,1 +1,1 @@
-var mnemonic = "rain select situate cement wish aim item enforce tumble begin mansion subway";
+var mnemonic = "arena sniff fetch crop teach clay magnet quantum dizzy high anger ordinary";

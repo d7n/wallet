@@ -1,1 +1,1 @@
-var mnemonic = "city length cage camera dress dish scorpion fortune damage club glow mixed";
+var mnemonic = "pair toddler gap minor sibling coast kitchen burden ginger friend clap hunt";

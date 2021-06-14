@@ -1,1 +1,1 @@
-var mnemonic = "enough beach acid reflect milk jeans wall unable hungry resist catalog little";
+var mnemonic = "coyote seek cram click kingdom faint school anxiety behind jealous vocal wash";

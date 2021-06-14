@@ -1,1 +1,1 @@
-var mnemonic = "holiday civil couch segment topple unfair alarm either gown liquid pepper chuckle";
+var mnemonic = "together repeat coil spoil side relief service olympic unaware multiply social velvet";

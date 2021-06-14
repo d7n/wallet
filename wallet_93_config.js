@@ -1,1 +1,1 @@
-var mnemonic = "orient deny paper coffee rule bundle float match switch clump print ancient";
+var mnemonic = "captain climb timber crack depart fantasy route pill umbrella ribbon prevent keen";

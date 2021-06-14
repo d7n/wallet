@@ -1,1 +1,1 @@
-var mnemonic = "silk miss exact panther cool home finish essay pet artefact outside ring";
+var mnemonic = "step file squeeze topple beach metal choose daughter drive sudden twin eye";

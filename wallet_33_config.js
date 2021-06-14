@@ -1,1 +1,1 @@
-var mnemonic = "often main cigar people portion trip abuse travel noise heavy volume sort";
+var mnemonic = "total tornado way recycle news wheel asset invite index stove network word";

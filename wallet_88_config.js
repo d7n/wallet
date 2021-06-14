@@ -1,1 +1,1 @@
-var mnemonic = "feel total dawn number sad gorilla settle similar excite fuel brick laptop";
+var mnemonic = "wave equip submit vendor fade state survey orbit foil remain obvious error";

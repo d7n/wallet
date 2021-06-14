@@ -1,1 +1,1 @@
-var mnemonic = "document fly auction swing elder apple gorilla fury one salt slice lava";
+var mnemonic = "renew echo magnet pave goddess chalk about sausage spare fortune clip book";

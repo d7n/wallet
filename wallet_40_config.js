@@ -1,1 +1,1 @@
-var mnemonic = "system behind hero favorite place topic hover grant match inspire token secret";
+var mnemonic = "gravity erode area mountain female scheme alien piece predict print finger force";

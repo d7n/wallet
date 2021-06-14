@@ -1,1 +1,1 @@
-var mnemonic = "convince symbol knife number grain snow dad later village promote canyon ramp";
+var mnemonic = "marriage dirt woman glory wrap train width wink social bottom brick team";

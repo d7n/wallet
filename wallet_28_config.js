@@ -1,1 +1,1 @@
-var mnemonic = "soap scrub comfort crystal print stumble image decade category network vessel blue";
+var mnemonic = "manual potato crisp advance miss love patient aware object oil wine cash";

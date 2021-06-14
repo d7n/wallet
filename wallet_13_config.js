@@ -1,1 +1,1 @@
-var mnemonic = "cattle tail whip dwarf state alien risk sun badge pact tent apart";
+var mnemonic = "guide copy ticket cram donor pitch wheel physical abuse oppose employ rate";

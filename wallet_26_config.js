@@ -1,1 +1,1 @@
-var mnemonic = "liar erase mango very teach cement cost reopen diesel maid prepare minor";
+var mnemonic = "island term enrich educate brother promote three remove quick chalk wall decade";

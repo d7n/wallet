@@ -1,1 +1,1 @@
-var mnemonic = "relief cool alter follow rapid collect escape elder silent chat method act";
+var mnemonic = "traffic bomb enact soul push course wise achieve brave wave mimic rough";

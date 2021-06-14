@@ -1,1 +1,1 @@
-var mnemonic = "lazy rebel recall skate need divorce census spy federal borrow tongue leave";
+var mnemonic = "toast game brother above scorpion suffer idea true jeans sword juice average";

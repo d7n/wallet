@@ -1,1 +1,1 @@
-var mnemonic = "nose spike exile throw general mystery point ball effort twenty monster goat";
+var mnemonic = "please slim soap novel hollow tornado olympic wing follow movie robust smile";

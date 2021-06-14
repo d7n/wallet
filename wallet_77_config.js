@@ -1,1 +1,1 @@
-var mnemonic = "post guard category submit subject snake public base crime oppose legend vault";
+var mnemonic = "multiply token just spy prison cloth nut day shift script brisk reopen";

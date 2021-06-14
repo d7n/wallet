@@ -1,1 +1,1 @@
-var mnemonic = "fuel common bless helmet wasp suggest ladder glad oppose husband wink invite";
+var mnemonic = "girl jelly main artefact gorilla board arrow frequent fault practice south cigar";

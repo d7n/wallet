@@ -1,1 +1,1 @@
-var mnemonic = "nasty visa bulb mutual sort erosion elite entry truth hidden planet chief";
+var mnemonic = "sport provide bid view riot travel still legal violin figure auction gold";

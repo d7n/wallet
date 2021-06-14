@@ -1,1 +1,1 @@
-var mnemonic = "label impulse category cook chef resemble category pioneer mirror tail ship kidney";
+var mnemonic = "supply potato dolphin window code nest load velvet cherry health walnut until";

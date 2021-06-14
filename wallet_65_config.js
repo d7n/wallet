@@ -1,1 +1,1 @@
-var mnemonic = "drum remind dust sure february donor creek series use denial cannon crack";
+var mnemonic = "virtual solar upon shallow come search nothing theme avocado youth wealth blade";

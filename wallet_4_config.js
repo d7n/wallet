@@ -1,1 +1,1 @@
-var mnemonic = "child fiber include winter south sniff burst dizzy quit worry amused taste";
+var mnemonic = "olympic fan high senior ethics outer call river tourist since clever guide";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado stadium picnic fog very coconut pepper castle caution accident deliver reflect";
+var mnemonic = "kiwi struggle fruit glove bean crystal fall penalty few peasant dwarf level";

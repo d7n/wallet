@@ -1,1 +1,1 @@
-var mnemonic = "bone image capital juice ranch company brick option unveil roof frozen above";
+var mnemonic = "allow hint filter provide hill gym absent normal diet exotic raven demise";

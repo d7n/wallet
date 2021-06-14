@@ -1,1 +1,1 @@
-var mnemonic = "zebra uncle weasel sick short gather burden mimic arctic session bacon exclude";
+var mnemonic = "call juice one voice sheriff black rotate torch olympic alley moment require";

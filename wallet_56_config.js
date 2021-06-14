@@ -1,1 +1,1 @@
-var mnemonic = "zone top cruise duck left lamp first cement lesson icon inspire enroll";
+var mnemonic = "forward main meadow soda fish trip owner tomato heart found praise antenna";

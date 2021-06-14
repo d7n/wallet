@@ -1,1 +1,1 @@
-var mnemonic = "excuse mention tank nerve cloud copy cloth pause maze entry dog lunch";
+var mnemonic = "wire skin infant cloth dizzy hub woman horn empty review riot relax";

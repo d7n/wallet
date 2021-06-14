@@ -1,1 +1,1 @@
-var mnemonic = "garlic since degree maze flower panic man jacket rail notable park exist";
+var mnemonic = "fragile strike mistake bounce autumn trigger lemon license amused travel first island";

@@ -1,1 +1,1 @@
-var mnemonic = "small property loud inmate scout win inspire guilt age sting dynamic pair";
+var mnemonic = "dance wing symptom fetch surface debris discover burden sister off forget credit";

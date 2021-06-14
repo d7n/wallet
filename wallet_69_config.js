@@ -1,1 +1,1 @@
-var mnemonic = "stable total wasp alone whip moment suspect laugh lunar ethics service country";
+var mnemonic = "stadium culture bottom super frog car knee merry prefer hero palm stamp";

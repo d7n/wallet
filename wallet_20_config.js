@@ -1,1 +1,1 @@
-var mnemonic = "boil night timber fiscal tent guitar knife actress pumpkin patch chat invest";
+var mnemonic = "finish receive spice mistake inquiry permit seven pair insect suggest orphan toast";

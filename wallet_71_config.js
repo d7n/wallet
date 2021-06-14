@@ -1,1 +1,1 @@
-var mnemonic = "plate top program salmon unaware girl couple verb retire cereal spice abstract";
+var mnemonic = "busy image dilemma owner embody crush choose dinosaur shell reason swing front";

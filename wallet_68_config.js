@@ -1,1 +1,1 @@
-var mnemonic = "select exhibit trash prize fitness between viable chief rug width slow rose";
+var mnemonic = "action solar oyster tissue science face aerobic popular taste supply fringe monster";

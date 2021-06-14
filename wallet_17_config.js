@@ -1,1 +1,1 @@
-var mnemonic = "permit corn antenna reform record comfort clarify toy sport ceiling blade spell";
+var mnemonic = "position luxury snow fog trick bulb exit broken ship bulb village original";

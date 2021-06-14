@@ -1,1 +1,1 @@
-var mnemonic = "twenty famous water wink panel debate health rural anxiety before increase scheme";
+var mnemonic = "time busy garage crucial color explain predict before ozone spend balance only";

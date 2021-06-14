@@ -1,1 +1,1 @@
-var mnemonic = "robust lounge win manage energy cool still pass trash slot sauce way";
+var mnemonic = "blanket hurt sausage youth anchor luxury monster entire income soup suspect airport";

@@ -1,1 +1,1 @@
-var mnemonic = "pact angle jacket gentle prison honey expire stem rhythm mother unaware build";
+var mnemonic = "icon wealth myth maze alpha husband include heart satoshi sea welcome shadow";

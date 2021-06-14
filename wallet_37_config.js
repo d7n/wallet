@@ -1,1 +1,1 @@
-var mnemonic = "broccoli pelican just payment save item crime album heart enrich offer couch";
+var mnemonic = "armor proof cook cart harvest impact trade click life belt eye bean";

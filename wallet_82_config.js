@@ -1,1 +1,1 @@
-var mnemonic = "appear amazing axis easily return junk switch copy mother toe swim spin";
+var mnemonic = "solve dentist eyebrow gasp couch gravity lake text snack jazz february reduce";

@@ -1,1 +1,1 @@
-var mnemonic = "damage tonight treat away pigeon execute then mother hurt repair add slush";
+var mnemonic = "elite mammal guide ugly express erupt hill play among laugh neglect demise";

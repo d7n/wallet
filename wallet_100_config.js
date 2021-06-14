@@ -1,1 +1,1 @@
-var mnemonic = "document bus artwork fruit heavy bleak brother dune kidney taxi casual swing";
+var mnemonic = "message custom rocket animal later speak around taxi whale sentence merry animal";

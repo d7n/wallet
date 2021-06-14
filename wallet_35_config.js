@@ -1,1 +1,1 @@
-var mnemonic = "bitter vendor furnace group record cushion lady border other arm tornado stove";
+var mnemonic = "bacon junk hybrid wealth swim banana trumpet license empower cake print gauge";

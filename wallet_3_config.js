@@ -1,1 +1,1 @@
-var mnemonic = "rocket few ancient trap debris ski furnace move pass version useful wool";
+var mnemonic = "wash paper medal taste tail pottery puzzle child inmate minimum anger whip";

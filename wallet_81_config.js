@@ -1,1 +1,1 @@
-var mnemonic = "avocado pledge large obey arrest confirm original tooth fat island grace way";
+var mnemonic = "accident echo often capable juice cigar earn book coast unlock nose warfare";

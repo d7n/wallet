@@ -1,1 +1,1 @@
-var mnemonic = "behave sport quick job avoid soup cube during cotton during drastic proof";
+var mnemonic = "magnet cotton scatter ripple useless order pupil squirrel wall used embody shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "parade deal romance open ordinary range minimum twelve print subject carbon beach";
+var mnemonic = "crumble suit caution grace switch virtual forum tongue morning appear hybrid crime";

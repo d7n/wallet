@@ -1,1 +1,1 @@
-var mnemonic = "liquid service ship together time group job width fabric absent length slab";
+var mnemonic = "come draft sleep earth nose garden student desert grass occur unable cash";

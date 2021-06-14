@@ -1,1 +1,1 @@
-var mnemonic = "hint wolf grocery merge always daring carry elegant flock tired vacant rotate";
+var mnemonic = "shallow consider logic estate fall annual pretty slow lemon nothing gym car";

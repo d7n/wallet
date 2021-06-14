@@ -1,1 +1,1 @@
-var mnemonic = "humor absent brass minimum shy rebel casual brave great film acoustic learn";
+var mnemonic = "connect ready tennis exotic armed prize rookie robust inhale craft prepare frame";

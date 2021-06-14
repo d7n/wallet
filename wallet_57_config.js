@@ -1,1 +1,1 @@
-var mnemonic = "ship auction way demise chef effort correct provide slide grunt onion squirrel";
+var mnemonic = "siege foster witness hire hungry planet little spell rose acid funny team";

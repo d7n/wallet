@@ -1,1 +1,1 @@
-var mnemonic = "venture inherit live volume owner net arctic castle grain liar monster moon";
+var mnemonic = "rifle verify smooth toddler weekend shadow rain flee between soap salon green";

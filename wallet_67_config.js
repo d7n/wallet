@@ -1,1 +1,1 @@
-var mnemonic = "ketchup cruise lawn when grab lobster stock owner useful above genius angry";
+var mnemonic = "debris odor guess mesh cluster year foil miss metal need december gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter model item panda undo bread brain head unfair attract file frozen";
+var mnemonic = "horror pipe snack offer two awake trust vault gospel dismiss famous time";

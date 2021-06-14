@@ -1,1 +1,1 @@
-var mnemonic = "pottery dwarf lab away figure receive list caution eagle win hunt praise";
+var mnemonic = "toast weasel asset truth this attitude page notable chief grit imitate seven";

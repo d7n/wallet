@@ -1,1 +1,1 @@
-var mnemonic = "panther miracle system silver vacuum join dynamic town stone edge fancy math";
+var mnemonic = "vintage impact spirit witness lucky floor wedding cinnamon concert broccoli industry student";

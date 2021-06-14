@@ -1,1 +1,1 @@
-var mnemonic = "black cube castle mind twin group curve high ranch blood knee when";
+var mnemonic = "timber embody anxiety decide burst violin walnut exit leader weather piece alert";

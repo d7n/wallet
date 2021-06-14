@@ -1,1 +1,1 @@
-var mnemonic = "stove minimum neck tomorrow clinic half side flight remain employ envelope sponsor";
+var mnemonic = "sock praise swarm remember earth suit account manage child donkey there month";

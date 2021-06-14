@@ -1,1 +1,1 @@
-var mnemonic = "horror improve leader stick zero year beach exotic knife antenna hair notice";
+var mnemonic = "art hazard erode educate tree autumn faculty outer wagon book figure injury";

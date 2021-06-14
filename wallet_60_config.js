@@ -1,1 +1,1 @@
-var mnemonic = "woman habit suffer soon raise bamboo private juice settle return bronze category";
+var mnemonic = "remember action lens fly people journey energy sock timber smooth glory impulse";

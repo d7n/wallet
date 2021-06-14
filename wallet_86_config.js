@@ -1,1 +1,1 @@
-var mnemonic = "faint summer brain squeeze swift garbage office physical year know luxury drop";
+var mnemonic = "two sunny like shoot memory tuition blind wood dragon lunch bridge capable";

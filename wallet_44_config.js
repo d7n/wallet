@@ -1,1 +1,1 @@
-var mnemonic = "eagle ozone potato table digital knife panda inside tag prosper resource rapid";
+var mnemonic = "wrong flat initial guess fitness vibrant benefit dial identify police hood virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "endless wedding panther hundred rhythm business rent demise keep planet mistake lonely";
+var mnemonic = "please butter attitude gravity okay category struggle unique play course north quit";

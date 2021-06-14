@@ -1,1 +1,1 @@
-var mnemonic = "virus nurse slam weasel depend lemon conduct food dose eight squirrel sell";
+var mnemonic = "file live village person praise betray bind purchase energy trick credit lonely";

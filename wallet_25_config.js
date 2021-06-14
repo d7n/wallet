@@ -1,1 +1,1 @@
-var mnemonic = "fortune educate end artwork speed team grid chronic tape tumble lawn solid";
+var mnemonic = "turn rural true quantum bargain width amateur acquire ankle average habit level";

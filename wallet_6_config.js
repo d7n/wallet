@@ -1,1 +1,1 @@
-var mnemonic = "upset symbol arm stereo autumn icon lend kitten wedding damage will rare";
+var mnemonic = "polar country broom industry supreme team urban stand banner pair flavor mind";

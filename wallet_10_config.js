@@ -1,1 +1,1 @@
-var mnemonic = "choice action bottom disease smooth pretty filter define couple year physical early";
+var mnemonic = "attack bicycle brown notable digital loan price glimpse anxiety immense write spoil";

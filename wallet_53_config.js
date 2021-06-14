@@ -1,1 +1,1 @@
-var mnemonic = "invest infant basic fresh lake repeat isolate genre force clump upgrade ginger";
+var mnemonic = "tenant click wink theme desert shine venture basket gorilla width useful path";

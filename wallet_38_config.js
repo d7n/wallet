@@ -1,1 +1,1 @@
-var mnemonic = "material fly congress flip great uphold sting power echo shuffle entry scare";
+var mnemonic = "grant spider nephew human company either kingdom olympic follow light pepper lock";

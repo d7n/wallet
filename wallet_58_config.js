@@ -1,1 +1,1 @@
-var mnemonic = "cactus mirror transfer flame business morning rhythm session huge economy off govern";
+var mnemonic = "library decrease quit air today ranch valve imitate level ten problem client";

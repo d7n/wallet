@@ -1,1 +1,1 @@
-var mnemonic = "bargain idea father spell mango present learn frost island army ranch remain";
+var mnemonic = "grid mushroom burden muscle asset next left arm service tornado recall spoon";

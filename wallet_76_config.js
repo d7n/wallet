@@ -1,1 +1,1 @@
-var mnemonic = "harvest more enhance together twelve steel when punch alter custom urge assist";
+var mnemonic = "develop detect office pledge hurry mix blade acquire cover river cool fury";

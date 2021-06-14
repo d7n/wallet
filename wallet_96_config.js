@@ -1,1 +1,1 @@
-var mnemonic = "globe history skate toilet brave call atom assume auto street dragon piece";
+var mnemonic = "mimic shine grow maze wedding document focus athlete erosion feel again artist";

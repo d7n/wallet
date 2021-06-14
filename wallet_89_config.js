@@ -1,1 +1,1 @@
-var mnemonic = "cupboard humble taxi game economy north return siege plunge maze false fashion";
+var mnemonic = "game pencil zoo useless void flame mountain rigid fun crucial walnut umbrella";

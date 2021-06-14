@@ -1,1 +1,1 @@
-var mnemonic = "romance hammer coconut sniff pair suit coast maximum stick trash elbow meadow";
+var mnemonic = "warrior toilet vicious doll rice layer heart giraffe force brother hundred float";

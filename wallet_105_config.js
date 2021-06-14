@@ -1,1 +1,1 @@
-var mnemonic = "flag prize hedgehog razor logic unveil net sad april dignity frog three";
+var mnemonic = "disease harvest govern social pig shiver party zone rule vast bag pass";

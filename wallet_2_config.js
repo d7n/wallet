@@ -1,1 +1,1 @@
-var mnemonic = "march approve ripple boss habit decide sign problem hybrid raw cabin thunder";
+var mnemonic = "curtain brain bachelor stage noble sudden cry online better february tribe renew";

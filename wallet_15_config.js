@@ -1,1 +1,1 @@
-var mnemonic = "shoot hire forest twelve say cash boss laugh accuse blur foil diary";
+var mnemonic = "brand fold twin spread tourist poverty trouble leisure bag math guess fuel";

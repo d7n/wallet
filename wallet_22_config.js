@@ -1,1 +1,1 @@
-var mnemonic = "despair marine pulp pelican intact together distance aim liberty banana couple erupt";
+var mnemonic = "dawn bike remind sibling tree tube amazing remain satisfy knock deny stumble";

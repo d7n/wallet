@@ -1,1 +1,1 @@
-var mnemonic = "rib seed harbor narrow weekend minor craft tumble when deliver spike obey";
+var mnemonic = "else stove swap soul raw whisper dish dial bacon clock purity gold";

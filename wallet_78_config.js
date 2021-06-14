@@ -1,1 +1,1 @@
-var mnemonic = "pause museum close oil upper apology manage talent phone combine normal wisdom";
+var mnemonic = "discover hungry age execute possible hotel clip borrow legal culture segment robot";

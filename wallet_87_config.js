@@ -1,1 +1,1 @@
-var mnemonic = "profit length floor mosquito bunker cotton trophy aspect dial expect orchard tongue";
+var mnemonic = "snack lizard primary talent icon private theory pluck flush youth layer icon";

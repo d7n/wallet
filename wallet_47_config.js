@@ -1,1 +1,1 @@
-var mnemonic = "chair place fringe meat can trip victory provide pattern sad neck fit";
+var mnemonic = "cheese athlete orient together prepare jar parade frame rack blur slender noise";

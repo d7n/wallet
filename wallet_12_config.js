@@ -1,1 +1,1 @@
-var mnemonic = "crane kiwi trumpet throw board holiday pelican deer foam embrace stomach custom";
+var mnemonic = "october because tired nephew palace right dad unknown brave dice whale arrest";

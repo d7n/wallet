@@ -1,1 +1,1 @@
-var mnemonic = "grow crane must ginger power misery orphan sunny connect bundle deal angry";
+var mnemonic = "cement urge immune amused fetch unit project member coin shy dust physical";

@@ -1,1 +1,1 @@
-var mnemonic = "loan tape laugh exercise scorpion smooth jelly tunnel chair exercise core diet";
+var mnemonic = "weekend cheap narrow tuna chair laugh flee sheriff borrow cargo culture lazy";

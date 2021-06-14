@@ -1,1 +1,1 @@
-var mnemonic = "zone swear inject utility truck head bring boil divide middle giant vast";
+var mnemonic = "inch need east slam desert comic enter whip purchase million undo change";

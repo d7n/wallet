@@ -1,1 +1,1 @@
-var mnemonic = "license city region board list swim parent scorpion assume coyote act warrior";
+var mnemonic = "clown buddy asthma there bottom miss december garbage humble gaze whale bargain";

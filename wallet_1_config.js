@@ -1,1 +1,1 @@
-var mnemonic = "pluck author village add ability salt trigger wall genuine strategy gadget liquid";
+var mnemonic = "erode inmate kitten page twenty nuclear cool response tragic fish stuff episode";

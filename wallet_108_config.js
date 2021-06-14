@@ -1,1 +1,1 @@
-var mnemonic = "cook profit race radio note public light shrimp eager arrest easily fly";
+var mnemonic = "two october old spawn habit fantasy open spoil mammal fever dynamic visual";

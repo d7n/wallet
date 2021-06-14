@@ -1,1 +1,1 @@
-var mnemonic = "fetch sail huge accident suspect increase use flavor orient visual people bracket";
+var mnemonic = "snow help junior census divide orient battle slice day easily urge wrong";

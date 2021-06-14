@@ -1,1 +1,1 @@
-var mnemonic = "kitchen strong silent brisk indicate great soul sense dad sock travel behind";
+var mnemonic = "lift holiday misery fossil educate tone fancy lend broom father dad doll";

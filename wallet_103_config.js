@@ -1,1 +1,1 @@
-var mnemonic = "dignity have whale initial afford ignore spike someone have conduct eagle duty";
+var mnemonic = "garbage cheap fragile conduct absurd tooth rude flock gravity birth flower student";

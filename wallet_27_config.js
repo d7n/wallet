@@ -1,1 +1,1 @@
-var mnemonic = "recall grace rapid inside rather poet kind earn spend toe seat neck";
+var mnemonic = "ozone junior two impact bring length attack brush news hundred lunch endless";

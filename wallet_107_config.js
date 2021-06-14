@@ -1,1 +1,1 @@
-var mnemonic = "receive castle wedding final evil permit lake brisk shadow actual room crater";
+var mnemonic = "matter deliver size steel tube give average blossom reflect knife remain frame";

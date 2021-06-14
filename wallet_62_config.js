@@ -1,1 +1,1 @@
-var mnemonic = "frog clog region alone clap during loan antenna swap shrug snap lesson";
+var mnemonic = "blind drastic transfer color attitude idea mean frown casino trim lobster tourist";
