@@ -1,1 +1,1 @@
-var mnemonic = "episode dinosaur wide curve usual narrow include harbor stadium insect replace digital";
+var mnemonic = "jazz dish funny frown tape target antique utility destroy figure predict seven";

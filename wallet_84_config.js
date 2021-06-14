@@ -1,1 +1,1 @@
-var mnemonic = "leopard wash humor void secret velvet laugh bamboo manual fresh unfair arrive";
+var mnemonic = "drop code auto ordinary physical sustain join crucial wolf polar emerge connect";

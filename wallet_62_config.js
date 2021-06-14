@@ -1,1 +1,1 @@
-var mnemonic = "debris intact palm must echo off impulse manage series erase civil soda";
+var mnemonic = "govern foster merge seed quote group brave slab around social swing wall";

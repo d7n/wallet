@@ -1,1 +1,1 @@
-var mnemonic = "crop between vital chest worry cradle liquid pet rich actor tail obvious";
+var mnemonic = "average draft goddess core elephant one innocent portion spin symbol glide sponsor";

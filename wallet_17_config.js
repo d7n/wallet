@@ -1,1 +1,1 @@
-var mnemonic = "play gorilla pledge ride gloom jacket daughter misery anger crowd coast shed";
+var mnemonic = "mirror topic heavy palm chunk ski deputy arrest village income empty piece";

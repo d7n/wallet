@@ -1,1 +1,1 @@
-var mnemonic = "remain bonus feel age shadow unique enjoy multiply twelve cattle stairs help";
+var mnemonic = "soccer item desert rookie talent judge spend art proud upset chronic fork";

@@ -1,1 +1,1 @@
-var mnemonic = "large stuff shoulder about hire february north mail display claw frost tell";
+var mnemonic = "aim skirt better nasty shy two reform sunny innocent panic badge width";

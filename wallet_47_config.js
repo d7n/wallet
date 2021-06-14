@@ -1,1 +1,1 @@
-var mnemonic = "lucky drive pyramid sniff toilet pioneer loop witness float uncover goddess glow";
+var mnemonic = "power unique omit census ready domain income certain document sense biology order";

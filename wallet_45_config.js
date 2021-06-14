@@ -1,1 +1,1 @@
-var mnemonic = "repair silent tomato pilot cement crater ship away machine potato inner point";
+var mnemonic = "drink warrior essay quality nation alert imitate poverty father visit actual ticket";

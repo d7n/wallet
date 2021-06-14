@@ -1,1 +1,1 @@
-var mnemonic = "various oven hover imitate blanket camera deliver car tray case animal soap";
+var mnemonic = "leg ride enrich camp keen luxury stand flip south planet congress practice";

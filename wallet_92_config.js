@@ -1,1 +1,1 @@
-var mnemonic = "produce quote few skill leg select come essence invite rubber cereal impulse";
+var mnemonic = "essence beauty globe nice fitness amount sense claim warm tiger pulse river";

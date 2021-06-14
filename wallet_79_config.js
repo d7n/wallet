@@ -1,1 +1,1 @@
-var mnemonic = "cotton shop crime inhale remind word thumb stay behind scrap sort sure";
+var mnemonic = "lucky vicious deer shallow bicycle trim police kangaroo off coffee panther science";

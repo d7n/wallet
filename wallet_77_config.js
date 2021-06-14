@@ -1,1 +1,1 @@
-var mnemonic = "release purse supreme blast peace today brown apple possible today arrange slam";
+var mnemonic = "comfort exhibit inquiry merry universe caution cigar piano salad century elevator return";

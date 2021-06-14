@@ -1,1 +1,1 @@
-var mnemonic = "code blanket sound opera dove enhance since waste direct raccoon school adult";
+var mnemonic = "practice select dance target inherit pave banana april misery phrase sibling duty";

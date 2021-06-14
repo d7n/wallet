@@ -1,1 +1,1 @@
-var mnemonic = "choice protect mind split aware pluck airport chicken edit swarm gentle gallery";
+var mnemonic = "minute liar more involve mean under monkey decrease there very autumn below";

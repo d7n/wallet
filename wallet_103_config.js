@@ -1,1 +1,1 @@
-var mnemonic = "hello casual can copper lava address alone shield inside angle unusual drip";
+var mnemonic = "kiss bridge foster leader slow town coil finger silk staff leave city";

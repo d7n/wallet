@@ -1,1 +1,1 @@
-var mnemonic = "obey finger duck flip biology borrow loan coin brave energy slam coyote";
+var mnemonic = "embark poverty crew congress build sight change alarm cliff struggle table credit";

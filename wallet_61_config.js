@@ -1,1 +1,1 @@
-var mnemonic = "evil decide ocean girl indicate taxi rocket adjust air diagram gather abandon";
+var mnemonic = "upset eyebrow punch session toilet nut vacant body apology daughter bid leopard";

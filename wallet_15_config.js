@@ -1,1 +1,1 @@
-var mnemonic = "angle stadium view movie pulse dumb mom couple nose stairs opinion question";
+var mnemonic = "surface orbit rubber panther clump reject payment merge olive volcano library maple";

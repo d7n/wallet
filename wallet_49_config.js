@@ -1,1 +1,1 @@
-var mnemonic = "pilot head hole leopard result funny soccer blouse dream hood fog ridge";
+var mnemonic = "shrimp rubber lab blue drift faculty assault confirm inherit inhale abuse genius";

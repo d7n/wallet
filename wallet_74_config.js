@@ -1,1 +1,1 @@
-var mnemonic = "maid upper idea patch save feature emotion logic inner struggle tissue twist";
+var mnemonic = "flag blind shoulder jelly spider wrap rice frost usual phone seek dizzy";

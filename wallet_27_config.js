@@ -1,1 +1,1 @@
-var mnemonic = "real weasel have pledge head couple cactus manage erosion zebra parade task";
+var mnemonic = "media scare hire ride ketchup blood soft script opera spin elder elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "clever innocent wave soldier sock ceiling struggle test power six place sort";
+var mnemonic = "life wink fetch prosper trend hood path robot occur glass sugar minimum";

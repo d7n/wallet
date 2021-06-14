@@ -1,1 +1,1 @@
-var mnemonic = "solution olive laundry balance deer toss fade around initial oxygen connect game";
+var mnemonic = "flag false acid know leaf plastic idle jeans family consider sense lecture";

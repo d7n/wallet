@@ -1,1 +1,1 @@
-var mnemonic = "joke paper label draw moment gaze inflict blossom half print alcohol nest";
+var mnemonic = "attract scout arrange master verb heavy skirt adjust essence drive solid near";

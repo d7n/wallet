@@ -1,1 +1,1 @@
-var mnemonic = "dog echo have feed stairs wait current basic glory return blanket eagle";
+var mnemonic = "uncover ball ivory conduct maze prepare glance cycle combine educate rebuild trap";

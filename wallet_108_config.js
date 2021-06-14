@@ -1,1 +1,1 @@
-var mnemonic = "rebuild concert tragic chronic lawn turtle patient calm leisure century powder security";
+var mnemonic = "ritual advance couch arrest deposit razor blood vote helmet desert point iron";

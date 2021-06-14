@@ -1,1 +1,1 @@
-var mnemonic = "inside color ten such duty feed diamond indicate flag champion south fluid";
+var mnemonic = "rug kitchen jeans fire kind thing drift ship project cash amused equal";

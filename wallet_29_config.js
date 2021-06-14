@@ -1,1 +1,1 @@
-var mnemonic = "mistake exercise blue access crime wolf brush aspect wish radio leisure flower";
+var mnemonic = "lab body tape unfair any always suggest adult draw give relax vicious";

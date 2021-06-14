@@ -1,1 +1,1 @@
-var mnemonic = "clown staff father upset mention room capital cherry ability office predict stomach";
+var mnemonic = "tent broom gold retire used exotic involve major poem member brand twist";

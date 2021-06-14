@@ -1,1 +1,1 @@
-var mnemonic = "orphan caught skin ignore stuff right model derive observe regular lucky issue";
+var mnemonic = "kitchen female dutch clever income aunt scissors wing advance clap mutual depth";

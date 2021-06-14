@@ -1,1 +1,1 @@
-var mnemonic = "mango slender skin diesel simple diamond diesel logic junior rhythm type sugar";
+var mnemonic = "strike utility banner convince stuff lady cotton state rate sleep verb dream";

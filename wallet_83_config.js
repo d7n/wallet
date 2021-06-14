@@ -1,1 +1,1 @@
-var mnemonic = "grunt athlete tenant crowd muffin drill okay inflict present immense quote hunt";
+var mnemonic = "crack sight sheriff dance element where outer decide habit cart swallow left";

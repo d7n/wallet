@@ -1,1 +1,1 @@
-var mnemonic = "winter abstract current moon layer job bunker wreck fold pretty island wear";
+var mnemonic = "point apple evidence base cricket leave detect ancient toward crew gorilla radio";

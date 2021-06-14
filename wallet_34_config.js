@@ -1,1 +1,1 @@
-var mnemonic = "disease salute space bubble visa almost lion gain angry destroy gauge area";
+var mnemonic = "sample depth muffin witness flash magic harsh true cliff peanut morning lunch";

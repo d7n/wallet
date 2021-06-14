@@ -1,1 +1,1 @@
-var mnemonic = "oppose disease school hub script clump lab message cave door burst rate";
+var mnemonic = "illegal december rally cement post alien bean glimpse cute brown replace sheriff";

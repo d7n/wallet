@@ -1,1 +1,1 @@
-var mnemonic = "abandon rent pond salon inhale identify rose possible tragic glad manual cement";
+var mnemonic = "lucky ancient feature below cash own struggle gospel such vibrant wood pencil";

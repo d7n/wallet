@@ -1,1 +1,1 @@
-var mnemonic = "punch supreme noodle banner stool receive theory try swim just weather basket";
+var mnemonic = "race try category video public run try prison pond vague item hero";

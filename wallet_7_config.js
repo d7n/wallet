@@ -1,1 +1,1 @@
-var mnemonic = "grief loop dune denial dog giraffe yellow valid genius order clerk advance";
+var mnemonic = "another antenna magic enact scissors rural merit close history range describe weasel";

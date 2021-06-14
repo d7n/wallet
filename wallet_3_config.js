@@ -1,1 +1,1 @@
-var mnemonic = "below miss gown wheel slice topic enroll little rocket address diagram manual";
+var mnemonic = "lizard estate sadness normal print famous damp glare acid mean walk smart";

@@ -1,1 +1,1 @@
-var mnemonic = "ill divide dilemma universe tattoo auction drip female leopard release bird girl";
+var mnemonic = "index harvest normal hold offer stand dutch ginger design claim deal foster";

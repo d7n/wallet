@@ -1,1 +1,1 @@
-var mnemonic = "guilt apple easily avocado volume arch misery mosquito hover south enrich honey";
+var mnemonic = "bicycle crouch cross moment clutch fringe close layer evil wish sea rocket";

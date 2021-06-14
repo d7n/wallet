@@ -1,1 +1,1 @@
-var mnemonic = "judge ridge climb student rate farm critic fantasy local embark spell smart";
+var mnemonic = "gold control bone soda glory dice kingdom april mesh flat onion general";

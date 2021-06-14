@@ -1,1 +1,1 @@
-var mnemonic = "suspect hollow ethics derive enrich genre corn wine another light knife actress";
+var mnemonic = "license below squirrel fabric slide ball solution ridge need bunker indicate busy";

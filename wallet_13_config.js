@@ -1,1 +1,1 @@
-var mnemonic = "utility tackle lawn foot better image plug left error ability fan scale";
+var mnemonic = "attend joke arrive polar proof twenty sail nut giant surprise require mail";

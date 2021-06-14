@@ -1,1 +1,1 @@
-var mnemonic = "history small awesome front mistake utility milk puppy injury panda barely artwork";
+var mnemonic = "crumble volume zero soda remove tube leisure office noble old birth evolve";

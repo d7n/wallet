@@ -1,1 +1,1 @@
-var mnemonic = "artwork disagree cargo direct wool nominee unable twist stick vehicle cram vivid";
+var mnemonic = "domain hero strong about amateur title area pink market famous tiny song";

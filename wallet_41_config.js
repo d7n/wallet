@@ -1,1 +1,1 @@
-var mnemonic = "dance easy warrior illness jewel country clay profit sight behave cover verify";
+var mnemonic = "save fantasy stuff kangaroo iron giraffe harbor purse never satisfy symbol leaf";

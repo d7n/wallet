@@ -1,1 +1,1 @@
-var mnemonic = "train fringe degree task patch record over dynamic security guard essence identify";
+var mnemonic = "casino unaware thumb garbage mango click sudden path bird leg cake gym";

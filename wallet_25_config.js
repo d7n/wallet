@@ -1,1 +1,1 @@
-var mnemonic = "birth key family snow gloom crucial spot absent museum mimic couple aisle";
+var mnemonic = "ordinary one senior defense comic cart system nation vehicle silver topic expand";

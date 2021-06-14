@@ -1,1 +1,1 @@
-var mnemonic = "require bronze bike hill fan pipe write pudding foot riot hip friend";
+var mnemonic = "exclude wire thought someone wild crumble involve foot credit depart wrist throw";

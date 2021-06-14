@@ -1,1 +1,1 @@
-var mnemonic = "floor arctic allow aisle shoulder crime mass girl moral nation bronze isolate";
+var mnemonic = "domain chaos dog zone choose priority exercise call spot release aspect tent";

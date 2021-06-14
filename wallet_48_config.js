@@ -1,1 +1,1 @@
-var mnemonic = "banana yellow warrior affair crack height garment muscle peasant buffalo budget document";
+var mnemonic = "matrix cheese reveal gap people section quarter cabin guitar panda abstract theme";

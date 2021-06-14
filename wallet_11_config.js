@@ -1,1 +1,1 @@
-var mnemonic = "social blush supreme session auction select benefit clown fix midnight exact essay";
+var mnemonic = "typical swift crater save height hard about kiss wrestle punch illegal trade";

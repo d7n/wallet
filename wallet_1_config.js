@@ -1,1 +1,1 @@
-var mnemonic = "helmet admit improve brother online develop party between muscle slide raccoon tissue";
+var mnemonic = "avocado december pretty ketchup piece proud fresh intact degree turtle huge satoshi";

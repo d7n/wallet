@@ -1,1 +1,1 @@
-var mnemonic = "minimum cart memory bless drive powder sting arrive gorilla hub law chef";
+var mnemonic = "sea dream rude kitten old father dog claim float easily conduct seven";

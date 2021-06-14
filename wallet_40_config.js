@@ -1,1 +1,1 @@
-var mnemonic = "scale edit melt middle peace unaware cushion mandate antique matrix seek apple";
+var mnemonic = "december side wreck exit march glance rotate february dice water online friend";

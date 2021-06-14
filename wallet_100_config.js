@@ -1,1 +1,1 @@
-var mnemonic = "math client window net distance clean retire afford journey parade ecology minimum";
+var mnemonic = "engine spring wrap plug category leader soft input empower enlist thumb rival";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness increase issue barrel stool affair pyramid wide flush north blur ozone";
+var mnemonic = "disorder below trick dance rather quarter random cinnamon party walnut diary poet";

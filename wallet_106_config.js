@@ -1,1 +1,1 @@
-var mnemonic = "dad stairs dress circle brisk wasp olympic point disease steel judge face";
+var mnemonic = "emotion ordinary door flower inherit swing whale exit found route disorder aware";

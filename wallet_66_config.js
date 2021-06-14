@@ -1,1 +1,1 @@
-var mnemonic = "anxiety banner wall captain client throw excuse laundry robust budget differ pen";
+var mnemonic = "identify pony split biology advance caution crawl foil such enough guide spend";

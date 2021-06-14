@@ -1,1 +1,1 @@
-var mnemonic = "during lawn crime wire palace industry grit priority during zero warrior rotate";
+var mnemonic = "connect scatter ribbon movie buddy write grass century upper achieve reopen chunk";

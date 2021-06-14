@@ -1,1 +1,1 @@
-var mnemonic = "disorder cash renew side slice guess mouse ribbon festival caution ocean slim";
+var mnemonic = "chat shaft shrug example toilet salon skin evoke fit horn agent pledge";

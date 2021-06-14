@@ -1,1 +1,1 @@
-var mnemonic = "remember kick swamp inhale volume mandate snack baby skill change maze bullet";
+var mnemonic = "march erase hole chapter zebra jewel hurry trap absorb walnut make that";

@@ -1,1 +1,1 @@
-var mnemonic = "infant behave text rebel convince area protect gate wasp inform hamster employ";
+var mnemonic = "gauge clown rather polar arrow humor rib provide case child know ivory";

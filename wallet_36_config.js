@@ -1,1 +1,1 @@
-var mnemonic = "place setup public cart eye point inmate level fish duck slow there";
+var mnemonic = "thank pepper cloth nephew banner van rubber bean mule second bar stone";

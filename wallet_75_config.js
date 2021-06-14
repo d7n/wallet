@@ -1,1 +1,1 @@
-var mnemonic = "budget autumn love diamond change basket resist life glimpse input bundle transfer";
+var mnemonic = "crumble siege track artist duck involve sweet weasel start asthma image teach";

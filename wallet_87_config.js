@@ -1,1 +1,1 @@
-var mnemonic = "spot fiber lava planet execute below opinion dry remain issue special verify";
+var mnemonic = "crunch brief miracle bulb evoke kick door soup winter image scrub tower";

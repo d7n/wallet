@@ -1,1 +1,1 @@
-var mnemonic = "flee pink ugly cradle glare crumble diary patch cloth torch juice frozen";
+var mnemonic = "giant pig wedding become old cabbage behind chair lake maid walk virtual";

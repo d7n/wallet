@@ -1,1 +1,1 @@
-var mnemonic = "later online pear intact bicycle snap rice wage like edit suspect proof";
+var mnemonic = "world tide reject crop thrive shed limit know amateur shock table exclude";

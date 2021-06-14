@@ -1,1 +1,1 @@
-var mnemonic = "tooth run month hurt inside monster hour guide champion sweet negative boat";
+var mnemonic = "chalk bitter people parent better dry hour harbor local powder lunar entry";

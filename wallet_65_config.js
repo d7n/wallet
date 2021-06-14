@@ -1,1 +1,1 @@
-var mnemonic = "magic join actual crunch autumn purse evidence spy business feed enlist cook";
+var mnemonic = "lemon asthma group mass dinosaur shallow food drill column camp ring ugly";

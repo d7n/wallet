@@ -1,1 +1,1 @@
-var mnemonic = "tube right stamp multiply expand truck monitor midnight surprise wrong settle chef";
+var mnemonic = "argue state observe balance february evolve choice end never invest judge relax";

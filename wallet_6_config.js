@@ -1,1 +1,1 @@
-var mnemonic = "awake wire truly ill response civil dawn dance bamboo surge original shoe";
+var mnemonic = "mutual parent monster whip little veteran sunset gap owner gorilla hospital minimum";

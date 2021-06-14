@@ -1,1 +1,1 @@
-var mnemonic = "message menu extra symptom name ice grit author ugly effort tilt aspect";
+var mnemonic = "tide crowd wheel tortoise fish today wood slush entire volcano point buffalo";

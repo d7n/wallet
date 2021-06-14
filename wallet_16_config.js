@@ -1,1 +1,1 @@
-var mnemonic = "shock surge vacant glad close napkin denial lab rain final bus negative";
+var mnemonic = "coil point mercy busy benefit ceiling save chimney size become wage correct";

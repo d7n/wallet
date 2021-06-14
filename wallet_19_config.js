@@ -1,1 +1,1 @@
-var mnemonic = "girl inquiry violin original design science poem bronze pottery warm turtle equal";
+var mnemonic = "vacuum peanut mountain circle guide palm broken bar race lazy venue agent";

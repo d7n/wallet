@@ -1,1 +1,1 @@
-var mnemonic = "place gas quote fold raccoon strike term certain vibrant reunion lend medal";
+var mnemonic = "spoon enable fan goose evoke material major bacon scrub sand fatal during";

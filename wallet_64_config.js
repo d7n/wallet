@@ -1,1 +1,1 @@
-var mnemonic = "favorite parrot level mutual auto piece state truly parent team emotion begin";
+var mnemonic = "mass victory chaos village win young merry reform fold silk sting bachelor";

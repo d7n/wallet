@@ -1,1 +1,1 @@
-var mnemonic = "impose feed goddess party common offer frozen transfer slogan gesture bitter moon";
+var mnemonic = "neck seminar idle gold immense vast inquiry celery write glide wage ensure";

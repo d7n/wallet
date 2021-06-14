@@ -1,1 +1,1 @@
-var mnemonic = "insane ice cabin torch antenna panic frog total goose derive advice steak";
+var mnemonic = "number slide hurt dream puzzle piece gain actor reflect furnace math drive";

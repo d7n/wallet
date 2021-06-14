@@ -1,1 +1,1 @@
-var mnemonic = "escape dizzy ranch income alien lesson silk hunt safe north leisure update";
+var mnemonic = "blur fortune control antenna axis error theme act cost daughter boy glass";

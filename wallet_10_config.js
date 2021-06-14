@@ -1,1 +1,1 @@
-var mnemonic = "mind maid slide device skirt apple labor penalty tag public company cook";
+var mnemonic = "one stumble float answer cotton slogan private learn often dash gloom rookie";

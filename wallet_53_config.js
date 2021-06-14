@@ -1,1 +1,1 @@
-var mnemonic = "wide armed culture normal toss version choose ostrich sample stereo come drift";
+var mnemonic = "early joy raise option ivory strike buffalo nominee carry left mechanic false";
