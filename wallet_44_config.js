@@ -1,1 +1,1 @@
-var mnemonic = "brass soldier humble soon immense era attitude meat filter practice episode receive";
+var mnemonic = "flavor win good hawk smooth chaos language decorate distance parent void alien";

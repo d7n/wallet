@@ -1,1 +1,1 @@
-var mnemonic = "drum race spring close ride auto arctic mimic stem check obvious fragile";
+var mnemonic = "peanut loan dust marriage edit pen trouble wheel armed stamp rich patient";

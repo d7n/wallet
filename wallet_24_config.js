@@ -1,1 +1,1 @@
-var mnemonic = "electric obscure youth emotion moon alien under october candy tilt canoe option";
+var mnemonic = "repeat document debate divert helmet neck labor curious move cabin tomorrow sing";

@@ -1,1 +1,1 @@
-var mnemonic = "garment stem thrive mushroom suggest junk beef fantasy safe someone receive bundle";
+var mnemonic = "gallery depth indoor plate puppy slight clock asthma dentist have envelope virus";

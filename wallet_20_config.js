@@ -1,1 +1,1 @@
-var mnemonic = "pupil blouse zebra dress ozone effort evidence antenna math interest upon giant";
+var mnemonic = "cricket glad double scheme tissue dolphin ritual leisure sun degree step mind";

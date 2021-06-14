@@ -1,1 +1,1 @@
-var mnemonic = "exchange capital combine wool drive drill fall measure moment treat dentist buffalo";
+var mnemonic = "august swear hello purchase turkey monitor file nature season three celery shield";

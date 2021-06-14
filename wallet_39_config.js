@@ -1,1 +1,1 @@
-var mnemonic = "relax together crane coast step matter please dance scissors start load female";
+var mnemonic = "shiver valley hamster about fee teach like eye ignore slice suffer chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn response item vanish page stumble guilt young replace brisk safe borrow";
+var mnemonic = "during rug cloud walk pistol sniff client observe cause reason popular wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "game cloth vault salad adult hope intact crisp settle gloom theory beyond";
+var mnemonic = "stand vote idle worth violin only infant someone wasp cheap banana buyer";

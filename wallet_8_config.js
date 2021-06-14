@@ -1,1 +1,1 @@
-var mnemonic = "relief myth welcome satisfy cool sister notice fly march round topic distance";
+var mnemonic = "lyrics open school river onion shell physical tongue valid number local choose";

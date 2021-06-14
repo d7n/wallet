@@ -1,1 +1,1 @@
-var mnemonic = "luggage rapid bamboo embody issue gown differ correct hint fat huge ask";
+var mnemonic = "poem pave donor blue strong session remain produce arena nerve pitch cotton";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain supply razor shrug brown element brush meadow quit tissue clean idea";
+var mnemonic = "either october face similar mandate fruit more film often move heart example";

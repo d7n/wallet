@@ -1,1 +1,1 @@
-var mnemonic = "stumble more damp husband alpha auto tattoo tooth stomach kick journey segment";
+var mnemonic = "faith gaze drip secret water entire feel warm neither assist car chef";

@@ -1,1 +1,1 @@
-var mnemonic = "rain alien crawl weasel airport shrug example liar crumble reject food wreck";
+var mnemonic = "rocket juice seven huge plunge swallow buzz forget mouse happy supply mutual";

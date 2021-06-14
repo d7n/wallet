@@ -1,1 +1,1 @@
-var mnemonic = "case swallow convince van steel destroy history olive resource series segment style";
+var mnemonic = "menu drill excess crawl length clock spring cup ride tornado kitten excess";

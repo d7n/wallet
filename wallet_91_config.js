@@ -1,1 +1,1 @@
-var mnemonic = "kiss reduce liberty assault decline rack lesson detect whale couch ski play";
+var mnemonic = "lottery cook slam lab mule tuition resemble dismiss panic cricket secret insane";

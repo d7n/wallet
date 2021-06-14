@@ -1,1 +1,1 @@
-var mnemonic = "rich enjoy office cook slam slush toss stage provide crush neglect note";
+var mnemonic = "print reform clump sound indicate reward puzzle mother sunset observe parade try";

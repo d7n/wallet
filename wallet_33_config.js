@@ -1,1 +1,1 @@
-var mnemonic = "step veteran demise echo critic shop split pioneer cook broken artefact gospel";
+var mnemonic = "cram fossil bus behind tool hole person attract blouse page owner shell";

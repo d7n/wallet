@@ -1,1 +1,1 @@
-var mnemonic = "casual drip meadow holiday choose lunar stable spice rifle ketchup blame original";
+var mnemonic = "wear scene powder cave patient arrange proud early put soldier pyramid moon";

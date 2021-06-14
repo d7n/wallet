@@ -1,1 +1,1 @@
-var mnemonic = "cloud dinner invest monkey dash water under race service brick swamp stock";
+var mnemonic = "wife tower gym road ocean recycle display rely ozone south have nerve";

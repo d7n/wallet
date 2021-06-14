@@ -1,1 +1,1 @@
-var mnemonic = "swap shove situate drastic melt garbage strike squeeze few prefer tennis manage";
+var mnemonic = "clarify drink lecture town history warrior earn group impulse lab engine artefact";

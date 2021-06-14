@@ -1,1 +1,1 @@
-var mnemonic = "cost wild again blanket cement box analyst banana share expect body blush";
+var mnemonic = "search glove physical bacon rail purchase boil opinion cash toss agree ahead";

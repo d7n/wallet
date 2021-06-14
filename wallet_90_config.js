@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit summer salute flag apology portion engine when trend weird human science";
+var mnemonic = "little head useful kangaroo glance month lock vibrant scan paper pet note";

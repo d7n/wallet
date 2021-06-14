@@ -1,1 +1,1 @@
-var mnemonic = "noodle escape hour indicate manage vapor output wedding across brown pottery spatial";
+var mnemonic = "bleak also memory frequent forget endless near oxygen flip winner other prepare";

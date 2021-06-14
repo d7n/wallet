@@ -1,1 +1,1 @@
-var mnemonic = "shove tortoise almost slam lobster olive flash sibling lunar goddess detect false";
+var mnemonic = "guitar ankle today sustain lift cash neutral grief crumble firm like mean";

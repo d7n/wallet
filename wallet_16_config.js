@@ -1,1 +1,1 @@
-var mnemonic = "toilet what gospel bacon health believe bullet pair choice immense top age";
+var mnemonic = "twenty wing pass menu nation shrimp cinnamon sustain vibrant advice swift orphan";

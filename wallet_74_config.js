@@ -1,1 +1,1 @@
-var mnemonic = "high marble prison prefer room harsh civil asset science spell praise code";
+var mnemonic = "concert walk scale message team march tuition unhappy leave beef empower long";

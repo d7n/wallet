@@ -1,1 +1,1 @@
-var mnemonic = "fluid success myth mosquito midnight wide grunt apple fuel fox crack total";
+var mnemonic = "flavor air wet steak spare bind pull easily initial tunnel carpet useless";

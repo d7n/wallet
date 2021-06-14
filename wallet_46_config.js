@@ -1,1 +1,1 @@
-var mnemonic = "excuse silver risk ask delay office poet arrest budget patch spin attack";
+var mnemonic = "color print song biology siege student scrap arrest where gold oppose mammal";

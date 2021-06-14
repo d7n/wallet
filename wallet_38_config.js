@@ -1,1 +1,1 @@
-var mnemonic = "about struggle source gate way cage glow sauce elite govern range pause";
+var mnemonic = "monkey hand test frame horse output casual grab extend salute morning odor";

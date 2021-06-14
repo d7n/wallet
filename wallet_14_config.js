@@ -1,1 +1,1 @@
-var mnemonic = "delay city dignity curve flight forest sword song room invest parent appear";
+var mnemonic = "economy fluid hurdle purity pledge muffin rib diagram spend build reduce leaf";

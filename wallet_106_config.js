@@ -1,1 +1,1 @@
-var mnemonic = "invest liar canal okay organ employ treat approve that before silent rather";
+var mnemonic = "label silk idea fly alter defy snow potato provide power glare swing";

@@ -1,1 +1,1 @@
-var mnemonic = "guess income tomato apple retire south room argue just tiny october weird";
+var mnemonic = "sock merry trash asthma mosquito zoo common leader easily maple feed rebel";

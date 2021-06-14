@@ -1,1 +1,1 @@
-var mnemonic = "anger cradle float original inch method differ gun law hole goat lake";
+var mnemonic = "next amazing wife later amount ostrich man aisle cable resemble excuse orange";

@@ -1,1 +1,1 @@
-var mnemonic = "busy concert stable hour curtain verb material solid solve build dynamic spray";
+var mnemonic = "ostrich peasant away moral prize vintage lobster piano spend range now concert";

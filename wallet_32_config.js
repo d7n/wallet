@@ -1,1 +1,1 @@
-var mnemonic = "magnet gorilla road maple cute chief plate coin wool source tomato venture";
+var mnemonic = "head report pizza south myth bid radio stuff enter vacuum ecology melody";

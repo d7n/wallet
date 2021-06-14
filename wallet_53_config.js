@@ -1,1 +1,1 @@
-var mnemonic = "mixture echo pair want foam lunar solution bid update income amused sail";
+var mnemonic = "head tower fame velvet canoe horn route adapt father derive left salt";

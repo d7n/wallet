@@ -1,1 +1,1 @@
-var mnemonic = "trial gesture expose track reward absurd hungry soon sound question notice tumble";
+var mnemonic = "mechanic book crime click goat laugh income coach east rule trash endorse";

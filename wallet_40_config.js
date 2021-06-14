@@ -1,1 +1,1 @@
-var mnemonic = "material salad protect crane wash corn can nothing cactus spring into rapid";
+var mnemonic = "comic eight avoid derive time proof special suspect sight rough link like";

@@ -1,1 +1,1 @@
-var mnemonic = "powder drop mail sleep trumpet ski fantasy festival version front milk stand";
+var mnemonic = "antique record swamp conduct shuffle canal small toilet author display quality melt";

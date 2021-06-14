@@ -1,1 +1,1 @@
-var mnemonic = "easily acoustic mansion balance remember spray kiss dignity panther strike entry riot";
+var mnemonic = "tissue rubber size duck lecture silly punch peanut decade bright adapt school";

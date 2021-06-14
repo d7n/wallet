@@ -1,1 +1,1 @@
-var mnemonic = "demise unfold walnut physical maximum lemon economy supreme deny differ bracket minor";
+var mnemonic = "spawn agree ugly cup left luggage valve horse circle nephew emotion issue";

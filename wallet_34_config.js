@@ -1,1 +1,1 @@
-var mnemonic = "smart outside wash intact book wild coil shop case scare can excite";
+var mnemonic = "similar garlic dust very obscure assault hospital arch zero behave protect camp";

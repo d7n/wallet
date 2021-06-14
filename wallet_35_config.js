@@ -1,1 +1,1 @@
-var mnemonic = "left half eight flip face chat submit ramp unique tuition consider ceiling";
+var mnemonic = "medal achieve lab glove basic chronic caught obvious mystery clip special danger";

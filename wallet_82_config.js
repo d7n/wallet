@@ -1,1 +1,1 @@
-var mnemonic = "awesome answer surprise front arena mandate cage current monitor menu timber clay";
+var mnemonic = "before achieve nurse trouble service limit dumb vanish bleak marriage ensure bean";

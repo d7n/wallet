@@ -1,1 +1,1 @@
-var mnemonic = "balance trouble beach shallow stereo march document model regular old like kite";
+var mnemonic = "black plastic salmon method genre blood ice job notable side also venue";

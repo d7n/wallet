@@ -1,1 +1,1 @@
-var mnemonic = "slim brand recycle empty inmate banner harbor stem example salon easy denial";
+var mnemonic = "cabin sight until heavy melody kite laptop memory give task tonight diet";

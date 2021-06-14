@@ -1,1 +1,1 @@
-var mnemonic = "damp state oppose broccoli belt alone cool brother summer edit ivory father";
+var mnemonic = "focus kitchen same pig leg mutual glove abandon agree still fox prevent";

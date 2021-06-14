@@ -1,1 +1,1 @@
-var mnemonic = "bachelor bring animal scorpion village raw monster life giraffe improve pass phrase";
+var mnemonic = "library equal long garlic know swim cook heart tourist cabin lyrics observe";

@@ -1,1 +1,1 @@
-var mnemonic = "caught phrase bar shock bone soda dignity rent library jacket omit radio";
+var mnemonic = "collect leader ring leaf person title injury debris above ritual silk govern";

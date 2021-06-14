@@ -1,1 +1,1 @@
-var mnemonic = "quote parade hammer salute joke buyer flame exercise present tent burden direct";
+var mnemonic = "tackle tank congress sting check eyebrow already foot food oven enroll close";

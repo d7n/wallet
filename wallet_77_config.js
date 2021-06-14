@@ -1,1 +1,1 @@
-var mnemonic = "tree enemy visual shell garbage honey congress error patrol route media slush";
+var mnemonic = "orchard swear dynamic space harsh you soap unit mercy phone ripple drop";

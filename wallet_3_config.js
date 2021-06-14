@@ -1,1 +1,1 @@
-var mnemonic = "enemy slow pact panda start gap gun turtle opinion wave discover tobacco";
+var mnemonic = "slide cruise tonight circle copper pluck model gift picture tissue obvious stay";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor equip online stick script mutual spider refuse silent barely machine put";
+var mnemonic = "oval search giraffe combine puppy measure loyal simple easy anxiety dawn bronze";

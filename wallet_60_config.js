@@ -1,1 +1,1 @@
-var mnemonic = "gold parade syrup genuine cook place vast jeans misery snap reopen good";
+var mnemonic = "coach glimpse dwarf trial sell thank draft slender choice orphan drive ecology";

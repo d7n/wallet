@@ -1,1 +1,1 @@
-var mnemonic = "taxi just grow require excuse omit chapter aisle crane indoor quote frog";
+var mnemonic = "rare session produce muscle oak honey fat emerge result income auto whale";

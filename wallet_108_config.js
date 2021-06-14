@@ -1,1 +1,1 @@
-var mnemonic = "fashion hole entry traffic wild rose kick vocal galaxy scheme chalk elite";
+var mnemonic = "direct arrow auto initial skirt nose extend they avocado clinic toe slot";

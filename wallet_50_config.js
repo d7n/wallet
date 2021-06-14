@@ -1,1 +1,1 @@
-var mnemonic = "dune around neglect runway kingdom bunker this nation allow bundle rival aunt";
+var mnemonic = "sustain author over size talent song struggle decorate raccoon always walk more";

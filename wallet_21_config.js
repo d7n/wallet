@@ -1,1 +1,1 @@
-var mnemonic = "access drip reflect rely buyer cabbage large ticket clump inflict yard target";
+var mnemonic = "hundred inspire evoke boost dentist sound cinnamon recycle dizzy devote fatigue universe";

@@ -1,1 +1,1 @@
-var mnemonic = "source cool maximum fame reunion range adjust spray glory control burst fuel";
+var mnemonic = "clog april eternal spy obscure spoon butter pioneer govern finish husband one";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain advance obscure salt awesome element lyrics lucky daughter cupboard viable quantum";
+var mnemonic = "direct tunnel crop junk credit century size obey stumble soul gesture eternal";

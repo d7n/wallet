@@ -1,1 +1,1 @@
-var mnemonic = "census soul crush door empty post echo kick enhance reunion annual large";
+var mnemonic = "will bus buyer nest supreme reject equal wonder elbow pumpkin mobile chapter";

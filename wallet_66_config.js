@@ -1,1 +1,1 @@
-var mnemonic = "praise tray behind material wife another skull middle cat tooth student globe";
+var mnemonic = "begin roast before winter share walnut spell guitar mercy crouch story cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "resist grape dwarf pool scrub speed belt brand athlete ten mail act";
+var mnemonic = "certain regret home tip scan bus rain push summer tenant artwork rail";

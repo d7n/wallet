@@ -1,1 +1,1 @@
-var mnemonic = "now diary song scissors more warrior congress culture afford pilot then wrap";
+var mnemonic = "device section post tank present pond cancel casino program mushroom image guide";

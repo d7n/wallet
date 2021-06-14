@@ -1,1 +1,1 @@
-var mnemonic = "certain announce crop zebra finish sport satoshi fun maze correct page marble";
+var mnemonic = "advice hero little west crater regret gold rubber share develop romance raven";

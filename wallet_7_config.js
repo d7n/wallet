@@ -1,1 +1,1 @@
-var mnemonic = "swift rule clutch banner spare smoke actress sauce soldier wild fragile chapter";
+var mnemonic = "limit kingdom drama flag sphere motion rural lumber chat pink cricket planet";

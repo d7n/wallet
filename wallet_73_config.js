@@ -1,1 +1,1 @@
-var mnemonic = "day fortune immense jungle train peace safe syrup peanut host half hedgehog";
+var mnemonic = "spoil first usage orbit swallow hundred mansion trouble laugh seven note cliff";

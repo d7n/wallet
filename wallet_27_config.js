@@ -1,1 +1,1 @@
-var mnemonic = "ring taste update remain room then crater brick setup garlic toward impact";
+var mnemonic = "shaft pepper crouch seed wall rib devote note know chronic decline seven";

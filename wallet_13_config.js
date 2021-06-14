@@ -1,1 +1,1 @@
-var mnemonic = "item promote meadow use price alley poet before game garbage monster people";
+var mnemonic = "item marriage brick arctic unusual cherry rebel increase phone palace tennis name";

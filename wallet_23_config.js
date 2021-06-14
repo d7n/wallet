@@ -1,1 +1,1 @@
-var mnemonic = "helmet assume ten wheat width bicycle length border match crystal square member";
+var mnemonic = "super title grab lesson direct clown symptom bridge pretty perfect diary federal";

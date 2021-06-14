@@ -1,1 +1,1 @@
-var mnemonic = "load vacuum eternal response divorce core pill similar uphold bright exhaust chef";
+var mnemonic = "stable prevent zero valve angry sock minor guess middle blade absorb meadow";

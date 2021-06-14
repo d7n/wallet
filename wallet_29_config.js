@@ -1,1 +1,1 @@
-var mnemonic = "this furnace crunch sunny boring arrive rocket lake brick cram minute purpose";
+var mnemonic = "cattle across slush silk crush change develop stove other marine mixed dolphin";

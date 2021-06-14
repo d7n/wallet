@@ -1,1 +1,1 @@
-var mnemonic = "sure lake any okay enable custom type cave canyon dumb bus joke";
+var mnemonic = "olive bleak estate volcano magnet super scrub start steak antique radar foster";

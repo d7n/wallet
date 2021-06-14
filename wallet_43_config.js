@@ -1,1 +1,1 @@
-var mnemonic = "thank because vapor oval boss occur nurse strategy step protect basket pink";
+var mnemonic = "ready air split globe cash slim mansion connect issue hope abstract subject";

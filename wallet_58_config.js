@@ -1,1 +1,1 @@
-var mnemonic = "jewel pill mirror fence laugh embody busy course empower income place excuse";
+var mnemonic = "test illegal lemon under use clock size reveal hour vivid wall atom";

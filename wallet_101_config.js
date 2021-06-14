@@ -1,1 +1,1 @@
-var mnemonic = "cry draft describe crucial motor pulp license pitch plug ordinary output olive";
+var mnemonic = "toss smile drift acoustic escape orient apology curtain night quit you require";

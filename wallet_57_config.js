@@ -1,1 +1,1 @@
-var mnemonic = "estate twenty ten flash mistake hedgehog hotel gain concert rival fresh waste";
+var mnemonic = "expire guess obey august song settle exist will bench tortoise impose pencil";

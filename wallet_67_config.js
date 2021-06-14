@@ -1,1 +1,1 @@
-var mnemonic = "hungry chase bus occur spirit almost pink hip gorilla reward elephant aware";
+var mnemonic = "twin crop route pony attend reform unfold hard system age gentle pact";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing upgrade execute club casino belt pilot garlic faculty spend moral crush";
+var mnemonic = "desk dog sudden gentle sausage try road theory inflict retire say citizen";

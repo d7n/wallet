@@ -1,1 +1,1 @@
-var mnemonic = "unhappy spike patch staff act vacuum zebra better snap flee potato opinion";
+var mnemonic = "accident blast clump wear slam brand unfair loan solid scorpion other away";

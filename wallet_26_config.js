@@ -1,1 +1,1 @@
-var mnemonic = "lava ladder uncle insect bean fiction obscure diary security punch perfect loud";
+var mnemonic = "story wife erupt dress organ usage void tenant pizza section dish level";

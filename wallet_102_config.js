@@ -1,1 +1,1 @@
-var mnemonic = "unfold main stable you undo erase giant amount weird harvest cherry utility";
+var mnemonic = "awake nephew jacket symbol trick cement under admit blouse unknown disease toast";

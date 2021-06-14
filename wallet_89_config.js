@@ -1,1 +1,1 @@
-var mnemonic = "butter crew tell emotion taste prefer chaos impulse vivid tennis faint parent";
+var mnemonic = "depart bargain write enrich seek erupt model nose primary blue sea giant";

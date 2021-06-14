@@ -1,1 +1,1 @@
-var mnemonic = "begin banana keen absurd august service town desk bottom jealous cause clarify";
+var mnemonic = "main smart truck pride work scorpion oppose sustain master walnut chat analyst";

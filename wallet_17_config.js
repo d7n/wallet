@@ -1,1 +1,1 @@
-var mnemonic = "stay horror source cheese blood dentist drum west tape sunny warm antenna";
+var mnemonic = "explain guitar put february attract admit strike enhance call step gravity arrow";

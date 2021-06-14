@@ -1,1 +1,1 @@
-var mnemonic = "they method coin squeeze keep dream limb glad blanket thing right laugh";
+var mnemonic = "marble output flower stove appear leisure explain slow hobby young good fire";

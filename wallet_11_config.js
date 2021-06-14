@@ -1,1 +1,1 @@
-var mnemonic = "exist brother noise fan dignity visual winner interest team express race trick";
+var mnemonic = "bomb equal night praise upper swallow believe jewel scissors unfold task mail";

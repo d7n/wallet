@@ -1,1 +1,1 @@
-var mnemonic = "actress scale saddle recipe miracle any trigger wire hen width shoe lizard";
+var mnemonic = "eager lens regret narrow rhythm awesome absorb dream duck buddy elegant execute";
