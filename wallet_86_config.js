@@ -1,1 +1,1 @@
-var mnemonic = "miss reopen fiber virtual cousin door payment legend chuckle pond man bread";
+var mnemonic = "bonus bid manage lens patrol item nasty crowd wage fringe elevator school";

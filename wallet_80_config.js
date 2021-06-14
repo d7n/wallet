@@ -1,1 +1,1 @@
-var mnemonic = "hurry leg primary pistol dutch weird lend hurdle baby color ranch bulk";
+var mnemonic = "coyote square dream grit garbage inflict frame panel attend spice again sugar";

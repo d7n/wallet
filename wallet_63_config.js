@@ -1,1 +1,1 @@
-var mnemonic = "focus question treat crush curious reason sell denial cage pig soldier depth";
+var mnemonic = "title burden pave random suspect involve battle nice glory remind gym carpet";

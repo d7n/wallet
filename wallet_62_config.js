@@ -1,1 +1,1 @@
-var mnemonic = "dizzy penalty car dignity blush again often spirit divorce front stone north";
+var mnemonic = "budget soul two barely bridge pitch diesel state audit reform mutual acoustic";

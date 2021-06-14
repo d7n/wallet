@@ -1,1 +1,1 @@
-var mnemonic = "hidden can wire because walk pole gap industry siren shine cousin month";
+var mnemonic = "drama analyst hover obscure roof limb pizza ugly wealth arrive galaxy require";

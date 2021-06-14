@@ -1,1 +1,1 @@
-var mnemonic = "destroy major potato hungry receive ancient liar course short anxiety enemy bulb";
+var mnemonic = "sadness net dust remain vivid moment guess teach when ball syrup impulse";

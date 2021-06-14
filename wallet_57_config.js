@@ -1,1 +1,1 @@
-var mnemonic = "phone raw track crouch sphere armor skate annual never doctor spoon about";
+var mnemonic = "marriage deputy resource inform rain dish sudden machine leg agree another speed";

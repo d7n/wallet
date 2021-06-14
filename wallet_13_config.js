@@ -1,1 +1,1 @@
-var mnemonic = "learn cargo account fork man inspire parrot shrimp move kitten orphan merit";
+var mnemonic = "winter fire couch hire answer parade style tissue special help update fashion";

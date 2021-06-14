@@ -1,1 +1,1 @@
-var mnemonic = "tiger issue pass icon patch girl change mule cousin guide post spoon";
+var mnemonic = "affair capable cruel clay cousin chicken hover finger mirror during find material";

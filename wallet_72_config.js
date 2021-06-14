@@ -1,1 +1,1 @@
-var mnemonic = "off pottery pudding outer push twice carry lecture retreat round huge world";
+var mnemonic = "envelope banner radar kiwi subway danger journey network lens dad door cement";

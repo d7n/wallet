@@ -1,1 +1,1 @@
-var mnemonic = "able swing business subway wealth six tube leaf tourist scan hand shoe";
+var mnemonic = "door obscure rent provide scene crunch toward river ginger shadow pumpkin wink";

@@ -1,1 +1,1 @@
-var mnemonic = "increase film silver banner brief friend cradle pottery crisp will conduct genre";
+var mnemonic = "fit exact between attract key there tourist museum drink easy skin elite";

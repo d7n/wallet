@@ -1,1 +1,1 @@
-var mnemonic = "tiny enemy remove cabbage sorry leg claim giraffe moment reward awake power";
+var mnemonic = "orient zebra lecture lab service asthma drill police laptop barrel reward amused";

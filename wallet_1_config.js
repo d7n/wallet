@@ -1,1 +1,1 @@
-var mnemonic = "pencil giraffe tent renew grain vintage tip secret leave news price predict";
+var mnemonic = "off agree left park mother torch gesture when chat invest sniff possible";

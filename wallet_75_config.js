@@ -1,1 +1,1 @@
-var mnemonic = "ritual umbrella maid ginger admit chair ensure visual rib domain flash arctic";
+var mnemonic = "funny green dirt fatigue talk car amount must mobile riot deposit true";

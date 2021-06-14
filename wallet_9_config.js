@@ -1,1 +1,1 @@
-var mnemonic = "beyond luxury north furnace oppose witness shop syrup face genuine high blossom";
+var mnemonic = "space text board attitude valid okay fix distance forum match buffalo profit";

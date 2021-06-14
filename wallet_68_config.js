@@ -1,1 +1,1 @@
-var mnemonic = "awkward enforce critic control palm kangaroo note mother weather symbol tag upgrade";
+var mnemonic = "tank cluster process desk excuse body goose upset length member wall adult";

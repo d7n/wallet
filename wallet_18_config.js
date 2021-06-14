@@ -1,1 +1,1 @@
-var mnemonic = "stairs mechanic gym match burst later guide photo maze taxi habit tiger";
+var mnemonic = "price maximum elbow planet mimic feed dad garage paddle left range invite";

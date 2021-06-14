@@ -1,1 +1,1 @@
-var mnemonic = "bridge august now victory column random exact core horn banana expand pool";
+var mnemonic = "dolphin pretty dish maze dash gym glide rough mixed hedgehog frame cry";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk must recall monkey unable quick imitate inject loan tail unknown token";
+var mnemonic = "unfair fee filter patch express test ensure giggle display margin toss shop";

@@ -1,1 +1,1 @@
-var mnemonic = "glory then input gasp donate code clutch slot laptop outdoor purse settle";
+var mnemonic = "radar visit student wonder prosper sail slogan merge gentle theory flush cart";

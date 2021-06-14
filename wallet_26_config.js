@@ -1,1 +1,1 @@
-var mnemonic = "cancel pelican lonely crystal child vital innocent sadness unfold code guilt basket";
+var mnemonic = "accuse dance gym radio ripple sibling renew mutual zoo wine orient wave";

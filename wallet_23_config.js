@@ -1,1 +1,1 @@
-var mnemonic = "furnace fiber behave vintage step year drama absent grocery garbage reduce tiny";
+var mnemonic = "top spike solution dial gesture vacuum riot danger hedgehog stay pen wife";

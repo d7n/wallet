@@ -1,1 +1,1 @@
-var mnemonic = "flavor coyote veteran mushroom fancy sniff awake quote detect digital erupt found";
+var mnemonic = "liberty this ocean exist rate hedgehog team chuckle casual puzzle involve actor";

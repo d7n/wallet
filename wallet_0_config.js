@@ -1,1 +1,1 @@
-var mnemonic = "library hour verb knock room absent treat discover blouse east flag alone";
+var mnemonic = "patrol dismiss turkey address scatter fat razor faith keen saddle juice vault";

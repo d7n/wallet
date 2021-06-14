@@ -1,1 +1,1 @@
-var mnemonic = "universe example grant acid machine borrow hip hurt mixture all about zone";
+var mnemonic = "radar manual ten beyond spin lion acid feel there glove paper mass";

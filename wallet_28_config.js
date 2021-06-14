@@ -1,1 +1,1 @@
-var mnemonic = "spend advice rib dignity main machine attack wine shoe cry enact fiction";
+var mnemonic = "rescue gloom divorce alley august siege aunt advice blossom ankle word domain";

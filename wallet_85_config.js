@@ -1,1 +1,1 @@
-var mnemonic = "potato case doll pull regret gadget ring obey physical daughter magic buffalo";
+var mnemonic = "eight noise bike hunt drop reunion lake payment physical behave naive pill";

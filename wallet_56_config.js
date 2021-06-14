@@ -1,1 +1,1 @@
-var mnemonic = "burst between test rib palace vicious blind resist shoot clay lab ticket";
+var mnemonic = "toe stamp voyage kick aim merit scatter fish minor canvas punch front";

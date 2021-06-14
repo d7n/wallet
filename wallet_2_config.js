@@ -1,1 +1,1 @@
-var mnemonic = "reward seminar soft kitten vital atom peanut logic picnic before window eternal";
+var mnemonic = "media endorse myth laundry lift excuse gorilla gospel sausage when emerge lobster";

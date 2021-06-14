@@ -1,1 +1,1 @@
-var mnemonic = "supply spread occur gesture try sun solar play fee canvas avoid practice";
+var mnemonic = "relief fly verb gown soon aspect face rival chicken easy expand hawk";

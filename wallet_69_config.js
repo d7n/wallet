@@ -1,1 +1,1 @@
-var mnemonic = "cry viable game dose kiss master arrow reason alley child army bone";
+var mnemonic = "twist never domain fitness regular six label blouse surprise brisk sport awkward";

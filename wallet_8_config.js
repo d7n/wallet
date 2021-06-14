@@ -1,1 +1,1 @@
-var mnemonic = "mansion hammer bulk city invest alter indicate fog trick holiday party dizzy";
+var mnemonic = "safe album major party empower category civil mass giggle purse enrich blade";

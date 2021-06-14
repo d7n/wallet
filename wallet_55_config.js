@@ -1,1 +1,1 @@
-var mnemonic = "orient episode used scan girl soul punch deny awful senior again mechanic";
+var mnemonic = "skin attend radar elegant entry puppy midnight swing good balance federal seed";

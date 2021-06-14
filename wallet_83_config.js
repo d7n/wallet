@@ -1,1 +1,1 @@
-var mnemonic = "vehicle balcony ecology hobby budget rally address scheme clean few park tunnel";
+var mnemonic = "identify soul insane ribbon segment icon denial final burden knife bridge verb";

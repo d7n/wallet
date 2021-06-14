@@ -1,1 +1,1 @@
-var mnemonic = "bamboo police topic comfort insane combine fix intact ranch amateur gesture rice";
+var mnemonic = "ozone caution stumble shy struggle junk paper rebuild quick field digital dad";

@@ -1,1 +1,1 @@
-var mnemonic = "worry concert length matrix hungry buffalo brick eight fault album wish vocal";
+var mnemonic = "thank alone kiwi pattern scale east obvious ready quit green tired unhappy";

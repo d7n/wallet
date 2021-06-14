@@ -1,1 +1,1 @@
-var mnemonic = "current chalk icon damp enforce change future donkey boost sister since club";
+var mnemonic = "dawn return grunt divorce east devote range work more flight sphere rubber";

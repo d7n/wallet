@@ -1,1 +1,1 @@
-var mnemonic = "load fan tuition old patrol improve asthma situate tumble what disagree brush";
+var mnemonic = "nation chef lend rude route damage fuel planet quantum problem cube account";

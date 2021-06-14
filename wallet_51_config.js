@@ -1,1 +1,1 @@
-var mnemonic = "degree front balance sentence sister normal century affair giant awkward hint sing";
+var mnemonic = "please lecture equal off crunch olympic risk gap village piece roast monster";

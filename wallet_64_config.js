@@ -1,1 +1,1 @@
-var mnemonic = "carbon vote clean knock deputy ramp blush town six federal antenna two";
+var mnemonic = "bitter slight junk snap okay sudden figure insect favorite motion crisp hill";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid slush travel myth kick key aerobic neutral fine wash suffer wasp";
+var mnemonic = "fossil hire below come version install arrest carpet denial logic senior jelly";

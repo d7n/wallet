@@ -1,1 +1,1 @@
-var mnemonic = "column smoke kick limit decorate nerve code boat absent hill that mixture";
+var mnemonic = "law brass crawl slide course traffic skill jewel radio bracket more slab";

@@ -1,1 +1,1 @@
-var mnemonic = "suit pony catch oval october leader defy pigeon pair road burger chapter";
+var mnemonic = "link strategy extra alarm knife comic income employ rookie ribbon brief book";

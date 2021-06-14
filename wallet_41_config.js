@@ -1,1 +1,1 @@
-var mnemonic = "brown cloud rapid identify document skill wrist barrel list narrow hurt nuclear";
+var mnemonic = "favorite twelve father crawl salon siege garment arrive yard speed detail critic";

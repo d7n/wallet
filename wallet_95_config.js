@@ -1,1 +1,1 @@
-var mnemonic = "burden sand you sentence pluck sing bleak duty chapter under tide fault";
+var mnemonic = "veteran supreme stock brush inhale fence inmate kangaroo mesh drill normal weather";

@@ -1,1 +1,1 @@
-var mnemonic = "step arrest thrive remove fix august argue cricket certain settle pattern circle";
+var mnemonic = "deer corn crack moral senior century profit ladder treat lesson soccer orchard";

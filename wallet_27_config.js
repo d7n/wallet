@@ -1,1 +1,1 @@
-var mnemonic = "keep churn again road dice october play wealth real letter human swamp";
+var mnemonic = "merge diesel cart tail error cart visit state journey guard rigid pepper";

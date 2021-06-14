@@ -1,1 +1,1 @@
-var mnemonic = "dad gallery organ cage advice mirror reunion crush always region pull swim";
+var mnemonic = "feel dinner fiber electric atom label search eager raven elder wood torch";

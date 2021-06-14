@@ -1,1 +1,1 @@
-var mnemonic = "cute employ skate above left chicken direct silly safe abuse arrange balcony";
+var mnemonic = "anchor table keen myth tiny patch congress hobby please dance now giant";

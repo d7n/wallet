@@ -1,1 +1,1 @@
-var mnemonic = "session spread idle baby urban exotic prevent mosquito jaguar police robust march";
+var mnemonic = "record below elder very wait actual defense meat phrase field above bargain";

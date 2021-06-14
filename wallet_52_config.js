@@ -1,1 +1,1 @@
-var mnemonic = "bike slow decade umbrella frog inhale infant habit valley kite basket faculty";
+var mnemonic = "depend another business document kiss genuine remind immense fruit siege timber rare";

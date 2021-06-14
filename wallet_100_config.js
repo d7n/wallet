@@ -1,1 +1,1 @@
-var mnemonic = "style tissue obvious wing learn nasty rose alter length sight idle neutral";
+var mnemonic = "service turkey region collect fog lesson lunch visit cat empower control liberty";

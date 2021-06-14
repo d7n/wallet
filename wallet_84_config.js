@@ -1,1 +1,1 @@
-var mnemonic = "fitness tuition prevent tape strike copy edit question panda vast help myth";
+var mnemonic = "peace strategy viable wisdom hope clown fish monitor unveil pilot engage ketchup";

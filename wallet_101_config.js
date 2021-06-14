@@ -1,1 +1,1 @@
-var mnemonic = "true rude relief nephew better chaos pill afraid inhale theory acquire torch";
+var mnemonic = "edit throw lounge police maximum fence charge absent column repair category craft";

@@ -1,1 +1,1 @@
-var mnemonic = "blade holiday luxury clarify badge miracle short utility raise journey easy know";
+var mnemonic = "among sheriff sunset field second profit asset neck ask auction concert bridge";

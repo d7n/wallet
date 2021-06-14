@@ -1,1 +1,1 @@
-var mnemonic = "lend rack inmate grit analyst swallow radar zero reopen fiscal uniform wrist";
+var mnemonic = "tiger mimic select sea style filter enforce height liberty soap mistake author";

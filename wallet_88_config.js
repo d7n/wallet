@@ -1,1 +1,1 @@
-var mnemonic = "firm hover margin light lend antenna aunt scare early wet craft fringe";
+var mnemonic = "mixed foot inject chicken rule prefer sleep draft rigid unaware service hello";

@@ -1,1 +1,1 @@
-var mnemonic = "another laundry hire absent sister spice mandate access donkey rail rally injury";
+var mnemonic = "exhibit announce decorate skate glimpse extra follow acoustic spell soon team gas";

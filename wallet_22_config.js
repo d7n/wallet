@@ -1,1 +1,1 @@
-var mnemonic = "legend crucial conduct april leopard device kick topic truth assault unusual soda";
+var mnemonic = "rose ritual protect agent clump awesome narrow virus forest idle idle dirt";

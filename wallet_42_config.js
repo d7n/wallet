@@ -1,1 +1,1 @@
-var mnemonic = "rally can team business setup situate bleak congress swamp rich urban vessel";
+var mnemonic = "vessel math talent assist wear planet flight business spatial today truck frost";

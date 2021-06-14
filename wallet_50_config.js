@@ -1,1 +1,1 @@
-var mnemonic = "simple merry amused coyote expand believe front caught damage labor antenna valley";
+var mnemonic = "cushion battle assist gaze element invest tonight jaguar donor hover advice pulse";

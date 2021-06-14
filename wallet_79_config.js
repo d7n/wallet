@@ -1,1 +1,1 @@
-var mnemonic = "report skirt target stairs drink sport dentist tape shallow universe unaware evoke";
+var mnemonic = "sail devote valve ill faith mystery mirror citizen okay inspire ship job";

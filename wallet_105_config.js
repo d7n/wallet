@@ -1,1 +1,1 @@
-var mnemonic = "program plastic rain jump coin gate elbow gift maximum squeeze bulb shy";
+var mnemonic = "confirm abandon interest powder mix because bracket sight father scare blue lobster";

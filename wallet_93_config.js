@@ -1,1 +1,1 @@
-var mnemonic = "electric action arrest hello tilt consider dinosaur diesel repair water sketch lend";
+var mnemonic = "want timber horse critic rhythm ten guard plunge price defy blood ancient";

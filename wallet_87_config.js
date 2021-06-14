@@ -1,1 +1,1 @@
-var mnemonic = "pig desk fee bean spice jaguar raw design orbit echo lend cactus";
+var mnemonic = "smart endorse crucial purchase mix man habit farm rebuild file amazing nest";

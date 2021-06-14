@@ -1,1 +1,1 @@
-var mnemonic = "author normal pipe hope other undo shield replace ball humor flip bunker";
+var mnemonic = "fitness slim answer honey comfort box warm mobile kit install announce frost";

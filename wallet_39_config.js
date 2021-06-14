@@ -1,1 +1,1 @@
-var mnemonic = "poet injury palace churn desert type oyster come dust carpet sadness phrase";
+var mnemonic = "oyster drift sweet tiger build style power marriage cupboard joke aisle lawn";

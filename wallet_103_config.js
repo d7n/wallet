@@ -1,1 +1,1 @@
-var mnemonic = "absorb inject soccer dream arctic soon toast hen hotel kitten share liberty";
+var mnemonic = "web coconut inject slice sponsor know waste tiny mom resemble hundred basic";

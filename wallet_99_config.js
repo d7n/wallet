@@ -1,1 +1,1 @@
-var mnemonic = "aware account solar paddle nasty uphold purchase during slender maze casino chalk";
+var mnemonic = "click syrup busy stay panther march police scare spare laundry neck sound";

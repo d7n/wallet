@@ -1,1 +1,1 @@
-var mnemonic = "say media mechanic coffee depend helmet length logic charge rich virus cook";
+var mnemonic = "season either payment casual food budget senior acoustic wedding exhibit person trip";

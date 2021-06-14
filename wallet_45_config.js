@@ -1,1 +1,1 @@
-var mnemonic = "ozone renew vanish double robust pledge cable raven whale response bridge chuckle";
+var mnemonic = "teach exist maze live mobile federal session barely side recycle whip local";

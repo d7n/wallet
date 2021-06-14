@@ -1,1 +1,1 @@
-var mnemonic = "weather virtual limb alone almost edit amateur slogan trust arrest bless syrup";
+var mnemonic = "jacket slogan tuition perfect body crazy police anxiety mention tent dove define";

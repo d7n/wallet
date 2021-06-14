@@ -1,1 +1,1 @@
-var mnemonic = "scrub angry gadget skirt erupt network flock develop nuclear tuition tennis depart";
+var mnemonic = "expose market empty unfold chief bid pledge sauce report grit crowd pulp";

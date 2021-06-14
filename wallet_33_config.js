@@ -1,1 +1,1 @@
-var mnemonic = "garage genius spike assault arrest kite inside defense pudding mask delay vivid";
+var mnemonic = "item decide rain glide shop pull hybrid tired broom picture fatigue steel";

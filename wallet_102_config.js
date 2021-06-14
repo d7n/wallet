@@ -1,1 +1,1 @@
-var mnemonic = "urge toast link quit polar total rescue bridge route thing adjust tortoise";
+var mnemonic = "wash stem task once visit voice equip away prison force wonder enforce";

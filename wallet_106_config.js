@@ -1,1 +1,1 @@
-var mnemonic = "flee cube ball frost churn betray across hungry category captain fault arctic";
+var mnemonic = "wood toy snack solution step knife patient uncover relief rural tree asthma";

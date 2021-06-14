@@ -1,1 +1,1 @@
-var mnemonic = "distance brown empower mosquito secret grid dial skirt club crunch hawk tape";
+var mnemonic = "multiply rely industry valve live parade position actress leopard ramp direct learn";

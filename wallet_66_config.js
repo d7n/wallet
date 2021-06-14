@@ -1,1 +1,1 @@
-var mnemonic = "unfair universe toss stay draft truth feed tissue have output total story";
+var mnemonic = "love beyond enter galaxy ginger bleak huge tide region reason buffalo feed";

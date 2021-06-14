@@ -1,1 +1,1 @@
-var mnemonic = "chase bag change gesture lunar great clip cram anchor holiday fragile drastic";
+var mnemonic = "castle orbit popular crucial evidence lab pride thing all rather arrow pair";

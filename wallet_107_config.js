@@ -1,1 +1,1 @@
-var mnemonic = "exercise pudding umbrella rack print wire father cave often trick sing include";
+var mnemonic = "loyal teach erupt feel drink hawk main razor trumpet olympic absurd gather";

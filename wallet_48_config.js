@@ -1,1 +1,1 @@
-var mnemonic = "depend oval book caught local roof charge screen height next pony pitch";
+var mnemonic = "input black benefit grow quantum peace duty pass prepare pluck blanket remain";

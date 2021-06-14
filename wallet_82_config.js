@@ -1,1 +1,1 @@
-var mnemonic = "shiver history person dust coin first identify salt cake tower immense doctor";
+var mnemonic = "consider advice theory negative axis husband laugh knock mask brush you physical";

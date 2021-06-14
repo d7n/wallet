@@ -1,1 +1,1 @@
-var mnemonic = "scene doctor crazy present illegal kiss curtain decide jar cushion dignity cluster";
+var mnemonic = "pipe plunge zone ugly balcony child birth biology supreme dance brave stone";

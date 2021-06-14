@@ -1,1 +1,1 @@
-var mnemonic = "bullet sing vast smooth boost write easily slim scissors input mouse slim";
+var mnemonic = "peace stem category vital word credit cross creek room seek guide student";

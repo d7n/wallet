@@ -1,1 +1,1 @@
-var mnemonic = "decade solar hope metal window height clerk target dinosaur lab limb together";
+var mnemonic = "net someone rigid file book truly frost license prepare cute autumn suit";
