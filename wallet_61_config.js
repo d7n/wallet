@@ -1,1 +1,1 @@
-var mnemonic = "exotic coil rapid barely bless property blush sadness enough mosquito shuffle south";
+var mnemonic = "veteran tool spice weapon waste rescue gown picnic drift rally erosion annual";

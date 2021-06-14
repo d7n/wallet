@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur inspire ride under proud siren talk gasp mutual civil film film";
+var mnemonic = "idea special adapt search depend admit brass banner like scatter donate shallow";

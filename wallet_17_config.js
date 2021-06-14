@@ -1,1 +1,1 @@
-var mnemonic = "erase bridge miracle result tiger trade despair fortune quantum buzz genius elephant";
+var mnemonic = "minimum zebra grass coast topple light slow man slush shuffle finish later";

@@ -1,1 +1,1 @@
-var mnemonic = "pitch pig luxury decorate anger potato dad invest warm rib night actress";
+var mnemonic = "mind canvas oval enemy diet celery recall shaft spike alone sleep welcome";

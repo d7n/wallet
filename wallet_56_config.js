@@ -1,1 +1,1 @@
-var mnemonic = "month crush occur fix gym foam ignore shield future print genuine adjust";
+var mnemonic = "gap keep glove primary spoon ordinary top very around acid rude shadow";

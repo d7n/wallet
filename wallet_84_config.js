@@ -1,1 +1,1 @@
-var mnemonic = "royal rebel frame enroll situate angle gauge female wool swap raccoon walk";
+var mnemonic = "rack sun wave mouse tobacco style wolf bulk tenant ship grow cat";

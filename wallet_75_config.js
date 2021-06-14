@@ -1,1 +1,1 @@
-var mnemonic = "immense focus cherry expose stool broom wrist session pioneer carbon east sight";
+var mnemonic = "broom debate path toss bind jaguar drastic funny wash flip luggage rocket";

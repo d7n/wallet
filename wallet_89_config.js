@@ -1,1 +1,1 @@
-var mnemonic = "lock daring fly canyon father shoot kick praise alone note cool suspect";
+var mnemonic = "census depart solid figure trade foam outer tortoise kidney depart oak jelly";

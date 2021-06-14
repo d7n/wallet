@@ -1,1 +1,1 @@
-var mnemonic = "inherit group cruel lesson chat bracket category decade parent source help slush";
+var mnemonic = "blast quit mammal innocent slim maid cup kid push myth enact spell";

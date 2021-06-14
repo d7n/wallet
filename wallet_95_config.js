@@ -1,1 +1,1 @@
-var mnemonic = "brand cake want sock supreme mammal next flavor hawk unit valve bundle";
+var mnemonic = "such ranch slim whale rude street split enable weasel spare page park";

@@ -1,1 +1,1 @@
-var mnemonic = "edge dragon doctor thrive engage track bracket juice mesh history deny small";
+var mnemonic = "clever advice begin total peace fun peace attack noodle senior check salad";

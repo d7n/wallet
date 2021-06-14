@@ -1,1 +1,1 @@
-var mnemonic = "trigger parade spirit orient clinic actress diet umbrella about cry lamp voyage";
+var mnemonic = "poem private satisfy ivory material rocket festival caution firm minute consider sample";

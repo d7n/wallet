@@ -1,1 +1,1 @@
-var mnemonic = "join behave flush student gospel canvas correct culture beach measure punch pistol";
+var mnemonic = "agree bronze come speak lounge little give tone clog fitness pluck memory";

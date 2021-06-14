@@ -1,1 +1,1 @@
-var mnemonic = "original vague shield hunt engine actual aunt wolf shiver orange mansion stamp";
+var mnemonic = "magic machine tank famous view receive color disorder liar gasp ability ethics";

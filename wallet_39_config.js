@@ -1,1 +1,1 @@
-var mnemonic = "punch speed lady base burger jungle execute zebra paper length extra cluster";
+var mnemonic = "animal person neglect illness village paper middle shoe banana puppy gaze neutral";

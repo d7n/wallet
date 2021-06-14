@@ -1,1 +1,1 @@
-var mnemonic = "lucky detail budget melt bind family noodle sand remove tunnel there half";
+var mnemonic = "release movie taxi second ugly vivid refuse rival satisfy rookie nest junior";

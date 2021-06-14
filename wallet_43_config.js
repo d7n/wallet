@@ -1,1 +1,1 @@
-var mnemonic = "keep annual pumpkin lottery fatigue pause hope achieve also deal city miracle";
+var mnemonic = "resemble file pond join will above tank act load fresh dolphin east";

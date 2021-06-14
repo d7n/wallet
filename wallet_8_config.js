@@ -1,1 +1,1 @@
-var mnemonic = "material remove rabbit permit negative panda over genre family rapid inner cushion";
+var mnemonic = "face quit rice review cliff sick pupil trust object motor pitch crouch";

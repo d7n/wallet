@@ -1,1 +1,1 @@
-var mnemonic = "behind syrup prevent lava that tribe turn uphold oxygen prize stereo across";
+var mnemonic = "nurse this prize trouble useful donate require fire there off meat canvas";

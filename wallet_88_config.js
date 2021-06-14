@@ -1,1 +1,1 @@
-var mnemonic = "attract material shrimp gospel mix scan ski minute become vague jewel bargain";
+var mnemonic = "library embrace shy exit donate prize juice medal maximum plastic during plastic";

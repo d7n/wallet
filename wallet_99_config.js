@@ -1,1 +1,1 @@
-var mnemonic = "share come price age smile seminar apart mammal act today invite matter";
+var mnemonic = "ostrich debate robust analyst venue immense prison industry puppy rural tortoise average";

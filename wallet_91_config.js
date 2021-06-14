@@ -1,1 +1,1 @@
-var mnemonic = "crew purse forward benefit purchase oval eternal joke insect finger beach popular";
+var mnemonic = "solve evolve mixed junior fiction glimpse dash mass gesture vanish august morning";

@@ -1,1 +1,1 @@
-var mnemonic = "faint vintage goat basket tenant forest ill mention pipe charge harsh exclude";
+var mnemonic = "push tourist oak cabin soda unveil hen feel law obscure unveil quote";

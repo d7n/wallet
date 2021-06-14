@@ -1,1 +1,1 @@
-var mnemonic = "club wet tragic detail lesson embrace merit once wash pride want pen";
+var mnemonic = "scrub exercise dumb critic maid oil bracket tip ignore trophy river office";

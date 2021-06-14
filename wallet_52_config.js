@@ -1,1 +1,1 @@
-var mnemonic = "base syrup network service path session ensure minute similar meadow february silent";
+var mnemonic = "brief example nothing book make else consider tuna sunset smart stomach diesel";

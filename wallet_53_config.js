@@ -1,1 +1,1 @@
-var mnemonic = "always fancy frozen stool allow album return screen rebel into more noise";
+var mnemonic = "ten scene poet silver order hope occur accident summer cash more recycle";

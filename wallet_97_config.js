@@ -1,1 +1,1 @@
-var mnemonic = "zoo below buzz glimpse horse empower good mosquito miracle patrol elder post";
+var mnemonic = "render same canal slice long book safe chair talent gown emerge trust";

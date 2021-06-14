@@ -1,1 +1,1 @@
-var mnemonic = "cigar immense shop embody exit people donkey life inmate emotion dismiss devote";
+var mnemonic = "table square left select split amount tumble rebel million endorse fiscal bind";

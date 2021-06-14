@@ -1,1 +1,1 @@
-var mnemonic = "chair quit trim fall speed pact slow ask yellow virus swarm address";
+var mnemonic = "bacon magic cry abandon puzzle scheme feature increase resist drastic street cancel";

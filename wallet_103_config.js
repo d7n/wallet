@@ -1,1 +1,1 @@
-var mnemonic = "blame casual occur talk what result lawsuit wagon verb area hockey phone";
+var mnemonic = "afford wave because menu gallery clever approve morning attend chuckle army rich";

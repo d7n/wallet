@@ -1,1 +1,1 @@
-var mnemonic = "achieve wolf aunt keep concert bounce excite fire front critic squirrel cave";
+var mnemonic = "dinosaur chaos athlete next couple venture annual title subject soda case scissors";

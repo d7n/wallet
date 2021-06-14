@@ -1,1 +1,1 @@
-var mnemonic = "world pattern fade evidence picnic cancel sniff slender announce trip siege bind";
+var mnemonic = "family athlete web lend city review hold half detect rely warfare hurry";

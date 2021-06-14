@@ -1,1 +1,1 @@
-var mnemonic = "wage push clog tape inherit attack mixture tip license crack wreck earth";
+var mnemonic = "bleak strike devote unfair prosper earth room wasp spoil oil sword this";

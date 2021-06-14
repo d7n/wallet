@@ -1,1 +1,1 @@
-var mnemonic = "journey indicate erosion heavy extra trap spoil expand only nuclear ceiling purity";
+var mnemonic = "broccoli sentence post theme reunion follow unlock regret cereal file anchor frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy dinosaur elite matter verify cry copper quit gas execute valid amazing";
+var mnemonic = "van dragon verb notable pause chief silk retreat album dentist cover push";

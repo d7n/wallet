@@ -1,1 +1,1 @@
-var mnemonic = "sustain nurse unit fade rapid deputy review syrup hood cute alone glance";
+var mnemonic = "tiny goose always toward claw slab power elephant quarter attack rail either";

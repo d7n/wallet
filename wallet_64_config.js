@@ -1,1 +1,1 @@
-var mnemonic = "lumber text lounge vehicle curious cupboard fault black pretty bind curve tape";
+var mnemonic = "topple collect pear exchange physical moral desert lamp parade physical unique trust";

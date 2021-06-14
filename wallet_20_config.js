@@ -1,1 +1,1 @@
-var mnemonic = "regular few shield rebuild chest captain kite rough run track session robot";
+var mnemonic = "bar tunnel exhibit miracle coin require follow ankle couch moral correct bid";

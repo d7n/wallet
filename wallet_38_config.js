@@ -1,1 +1,1 @@
-var mnemonic = "what open learn aunt service estate transfer body gorilla tell margin acquire";
+var mnemonic = "they high bar cradle notable tank indicate tiger near buyer crucial borrow";

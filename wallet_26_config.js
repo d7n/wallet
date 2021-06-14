@@ -1,1 +1,1 @@
-var mnemonic = "undo multiply anchor length unveil manage announce major indoor upon loop subject";
+var mnemonic = "average purpose barely west deny divide power legal sure island velvet debris";

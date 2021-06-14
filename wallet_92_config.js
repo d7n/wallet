@@ -1,1 +1,1 @@
-var mnemonic = "hill immense rich alert occur bar alarm position satoshi prize fossil squirrel";
+var mnemonic = "wave unit pepper omit sustain worry rural shift puppy crowd ceiling fine";

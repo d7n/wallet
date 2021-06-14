@@ -1,1 +1,1 @@
-var mnemonic = "emotion scheme boss group spy true arm crazy miracle dinner canyon prevent";
+var mnemonic = "pear rent file dress exile vivid later ball strong claw ozone easy";

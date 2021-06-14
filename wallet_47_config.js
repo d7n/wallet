@@ -1,1 +1,1 @@
-var mnemonic = "icon arm verify goose flag sort park twice rural safe minor index";
+var mnemonic = "spawn broken ice neither open left repair vehicle course normal cheap ignore";

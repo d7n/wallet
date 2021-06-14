@@ -1,1 +1,1 @@
-var mnemonic = "nothing general three funny cream loop collect profit differ brass army episode";
+var mnemonic = "portion vehicle situate target scissors thrive edge make laugh coffee sound become";

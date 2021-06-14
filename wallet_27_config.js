@@ -1,1 +1,1 @@
-var mnemonic = "control over frown flock fiction depart spy record turn switch afraid gauge";
+var mnemonic = "term crowd bless label glow worth dragon comic auto penalty romance diary";

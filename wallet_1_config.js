@@ -1,1 +1,1 @@
-var mnemonic = "survey common garment giggle surround mixture double medal gift pledge embark citizen";
+var mnemonic = "lumber absorb sort fancy million leave someone cactus april guide decline priority";

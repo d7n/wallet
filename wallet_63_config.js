@@ -1,1 +1,1 @@
-var mnemonic = "update pulse more discover unaware husband coach ten raven design desk judge";
+var mnemonic = "scan ladder team distance gym ritual fork future fitness retire gap dish";

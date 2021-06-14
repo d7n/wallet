@@ -1,1 +1,1 @@
-var mnemonic = "color defy online roast today gravity dwarf person donate scare garment tomato";
+var mnemonic = "enrich margin usage ketchup luxury elder fold birth scout fit gaze ball";

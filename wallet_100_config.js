@@ -1,1 +1,1 @@
-var mnemonic = "choice actor impose real become solution stock screen neither tide note neutral";
+var mnemonic = "symptom avocado benefit truth inhale total eager rather system dilemma pool tide";

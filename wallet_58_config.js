@@ -1,1 +1,1 @@
-var mnemonic = "sick pumpkin phrase neutral cost absurd cigar aunt circle will ocean broom";
+var mnemonic = "miracle vanish swim amateur liberty same adapt below cherry fox canoe tuna";

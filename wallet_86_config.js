@@ -1,1 +1,1 @@
-var mnemonic = "kit ride wreck spray kind unhappy connect long globe tennis ginger label";
+var mnemonic = "clump warm veteran emotion quiz apart sibling old spend fly alarm reopen";

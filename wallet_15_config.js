@@ -1,1 +1,1 @@
-var mnemonic = "entry baby coast six grit globe task festival afraid swamp walnut point";
+var mnemonic = "ripple swallow choose federal advice smile exhibit zoo shiver school zone grunt";

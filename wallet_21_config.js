@@ -1,1 +1,1 @@
-var mnemonic = "home become soon flight mom stamp jeans gold aspect reason champion sail";
+var mnemonic = "prefer judge shy deer inquiry abandon van horn nature harsh canyon slow";

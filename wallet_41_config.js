@@ -1,1 +1,1 @@
-var mnemonic = "purse reunion odor tent thunder cricket soldier cube cage kind distance rule";
+var mnemonic = "cream know flight lunch split squirrel rapid truly long buzz enter bar";

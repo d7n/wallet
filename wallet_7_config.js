@@ -1,1 +1,1 @@
-var mnemonic = "venue betray other sugar swear flame orbit siren board draft legend lunar";
+var mnemonic = "tuna rifle treat coyote food damp cloud remember apple chalk remove item";

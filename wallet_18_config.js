@@ -1,1 +1,1 @@
-var mnemonic = "soap matrix topic neck blind rifle clutch plug slam strike uncover cigar";
+var mnemonic = "razor hope shift enhance other window guess act fury snow main scrub";

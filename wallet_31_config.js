@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit junior crunch deny tomato kangaroo script airport embrace invest path food";
+var mnemonic = "brother pyramid mix regret oyster birth major easy mechanic turtle shiver try";

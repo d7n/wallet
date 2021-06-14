@@ -1,1 +1,1 @@
-var mnemonic = "debate rose squirrel diesel escape loud word always boring clog rebuild quality";
+var mnemonic = "ancient toward cat favorite outside balance prefer tissue fun mad evidence uncle";

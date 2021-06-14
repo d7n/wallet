@@ -1,1 +1,1 @@
-var mnemonic = "deal school detect walnut chronic velvet luxury acoustic arrive ghost stick buddy";
+var mnemonic = "enemy alter photo romance decline crime museum mammal shop wisdom nerve blanket";

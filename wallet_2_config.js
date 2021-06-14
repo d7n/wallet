@@ -1,1 +1,1 @@
-var mnemonic = "steak steak cargo pole uphold panic frozen swift chair behind tumble husband";
+var mnemonic = "equip drive concert fabric ball liar little cannon reflect liar rubber glimpse";

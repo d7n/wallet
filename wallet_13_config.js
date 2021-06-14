@@ -1,1 +1,1 @@
-var mnemonic = "glory nature unaware own divert skirt leopard pistol pipe seed arctic shell";
+var mnemonic = "december flat fiber trend soon butter scare journey clay estate stock bottom";

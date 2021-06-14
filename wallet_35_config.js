@@ -1,1 +1,1 @@
-var mnemonic = "flock secret charge else swarm congress husband neglect sun twice husband loyal";
+var mnemonic = "drop odor family device legend festival kiss novel option female grunt crack";

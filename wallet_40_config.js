@@ -1,1 +1,1 @@
-var mnemonic = "world kick fruit roast mimic endless lift egg shove custom garden rack";
+var mnemonic = "rally palm moon donkey viable tower carpet transfer also blast shell arrange";

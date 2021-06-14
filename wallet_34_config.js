@@ -1,1 +1,1 @@
-var mnemonic = "mystery exchange view safe order toss lucky width wheel tackle champion patient";
+var mnemonic = "upper brother interest vote raccoon demise hockey word orange section primary blush";

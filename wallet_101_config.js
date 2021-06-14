@@ -1,1 +1,1 @@
-var mnemonic = "name device current shrug wedding excuse shed bone index menu rigid allow";
+var mnemonic = "cream obvious cheap shaft rapid bamboo stem business loyal motion spatial try";

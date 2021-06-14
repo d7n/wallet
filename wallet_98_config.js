@@ -1,1 +1,1 @@
-var mnemonic = "chronic onion roast pause tackle arch palm edge load top advance put";
+var mnemonic = "permit dice unit admit orchard one resist sudden visit radar drip faint";

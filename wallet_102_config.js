@@ -1,1 +1,1 @@
-var mnemonic = "visual ecology regret helmet ethics document athlete stadium cluster enlist outdoor invite";
+var mnemonic = "deputy swear more expect daring duck stereo near wealth pottery movie beyond";

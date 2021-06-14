@@ -1,1 +1,1 @@
-var mnemonic = "gravity vicious symbol gold labor dish scissors artefact accident cancel tip evolve";
+var mnemonic = "blue matter volume total average calm gorilla lab congress please net alert";

@@ -1,1 +1,1 @@
-var mnemonic = "taste rotate job ocean moon rival oxygen feel target erosion kitchen siren";
+var mnemonic = "brick battle soon marriage bomb cushion fall normal spare choice creek hidden";

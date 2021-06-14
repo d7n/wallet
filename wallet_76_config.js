@@ -1,1 +1,1 @@
-var mnemonic = "half move novel benefit giggle bridge buddy lucky usual helmet inch turtle";
+var mnemonic = "airport author want segment attitude lyrics genre width merry upgrade bacon film";

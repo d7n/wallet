@@ -1,1 +1,1 @@
-var mnemonic = "receive crime rare kidney dismiss victory arrange orchard veteran wage caught reflect";
+var mnemonic = "token magic forum half unaware glare another pigeon approve axis debate sunny";

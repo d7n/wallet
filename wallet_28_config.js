@@ -1,1 +1,1 @@
-var mnemonic = "genius wall embody feature lottery worry settle north base vehicle supply enjoy";
+var mnemonic = "fence cloth rain blur faculty grow aunt course little loop force horse";

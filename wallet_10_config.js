@@ -1,1 +1,1 @@
-var mnemonic = "swamp dinner return kangaroo country purity mercy skin pitch park warfare caution";
+var mnemonic = "cable nuclear drum object warfare silly frame muscle wing basic leg erode";

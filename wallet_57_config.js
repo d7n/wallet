@@ -1,1 +1,1 @@
-var mnemonic = "usage opera gospel claw seat frame winner awake today drift spatial elder";
+var mnemonic = "reveal two invite hub humor swim fiction castle stable front wagon ill";

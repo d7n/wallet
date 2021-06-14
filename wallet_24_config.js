@@ -1,1 +1,1 @@
-var mnemonic = "range pigeon skirt announce wrong wine doll major diary fancy dizzy misery";
+var mnemonic = "hybrid shaft tomorrow pair chronic educate someone fun gun bridge found zebra";

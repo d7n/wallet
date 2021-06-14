@@ -1,1 +1,1 @@
-var mnemonic = "truly west nuclear wood daughter cereal congress engine elder various decorate elbow";
+var mnemonic = "marriage label green melt evoke drama safe kit retreat drift assist club";

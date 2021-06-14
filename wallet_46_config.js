@@ -1,1 +1,1 @@
-var mnemonic = "top happy wild used glory have estate symptom kind estate gas paddle";
+var mnemonic = "cupboard slim bunker job dust capital year treat ignore skin memory worry";

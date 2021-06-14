@@ -1,1 +1,1 @@
-var mnemonic = "high credit faith six cool gasp acoustic fog enter record evil disease";
+var mnemonic = "harbor nasty trick infant observe couple guide hip spray weasel brick thrive";

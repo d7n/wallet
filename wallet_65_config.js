@@ -1,1 +1,1 @@
-var mnemonic = "address wrestle spare tonight tornado survey brown fog body orbit trophy dish";
+var mnemonic = "blood sphere injury mandate picnic pony rude season page special trophy target";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster viable describe spirit runway clean faculty flight lecture panic item stock";
+var mnemonic = "protect nothing palm enjoy idle artwork earth struggle card level better kingdom";

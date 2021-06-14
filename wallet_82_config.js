@@ -1,1 +1,1 @@
-var mnemonic = "body brush fringe hero laptop gas fault amount skirt cube runway toward";
+var mnemonic = "finger enroll climb win orbit hover assault vendor resist beach palm casino";

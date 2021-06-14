@@ -1,1 +1,1 @@
-var mnemonic = "unique shift vanish trouble update pet purse robot shuffle scissors pluck expire";
+var mnemonic = "hip mule fee pencil barely better learn gold marriage saddle pill because";

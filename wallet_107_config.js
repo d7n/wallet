@@ -1,1 +1,1 @@
-var mnemonic = "afraid iron simple bicycle drastic arch skull pencil safe moment friend dignity";
+var mnemonic = "choose fluid exercise approve road toast pride reunion salt space debris globe";

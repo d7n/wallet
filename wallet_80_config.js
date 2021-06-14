@@ -1,1 +1,1 @@
-var mnemonic = "physical thumb tide engage warfare sell rival short rapid arch medal spring";
+var mnemonic = "person simple pigeon atom enough often achieve obtain rug fruit clay solid";

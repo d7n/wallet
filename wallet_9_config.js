@@ -1,1 +1,1 @@
-var mnemonic = "danger guilt biology start inherit truck october enemy approve drink furnace galaxy";
+var mnemonic = "quarter salt pudding clog tip exhibit feature tail timber cash want girl";

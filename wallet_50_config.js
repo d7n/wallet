@@ -1,1 +1,1 @@
-var mnemonic = "mammal ridge fuel extra fine metal chapter approve turkey bid grant bacon";
+var mnemonic = "shallow tide vote solar video quarter couple soon number barrel chef alley";

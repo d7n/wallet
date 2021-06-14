@@ -1,1 +1,1 @@
-var mnemonic = "kite title sight equip dance enhance oval casino tonight mango enough vendor";
+var mnemonic = "once what mercy hire crucial ostrich junk kiss unveil fog lens crack";

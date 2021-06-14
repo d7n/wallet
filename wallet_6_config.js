@@ -1,1 +1,1 @@
-var mnemonic = "brown pilot earn protect toast deliver federal habit bar mosquito code other";
+var mnemonic = "funny rack fence monster tortoise topple leaf kick trouble pioneer rookie flock";

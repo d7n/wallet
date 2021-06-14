@@ -1,1 +1,1 @@
-var mnemonic = "solution slogan dumb stick foot idle car year mention afford argue puzzle";
+var mnemonic = "clump humor nerve boy wave table scrub mixed cupboard project casual safe";
