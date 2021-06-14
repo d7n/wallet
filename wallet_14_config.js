@@ -1,1 +1,1 @@
-var mnemonic = "general utility rain merge dismiss frown clock almost hockey cactus gloom logic";
+var mnemonic = "delay city dignity curve flight forest sword song room invest parent appear";

@@ -1,1 +1,1 @@
-var mnemonic = "brick skill dutch gossip fence rigid around proud swap chalk core sand";
+var mnemonic = "damp state oppose broccoli belt alone cool brother summer edit ivory father";

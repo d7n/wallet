@@ -1,1 +1,1 @@
-var mnemonic = "outside size ghost peasant visual similar avoid canal base adult civil rough";
+var mnemonic = "amazing upgrade execute club casino belt pilot garlic faculty spend moral crush";

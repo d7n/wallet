@@ -1,1 +1,1 @@
-var mnemonic = "minimum salon tornado another city coconut raven junk situate paper slam antique";
+var mnemonic = "magnet gorilla road maple cute chief plate coin wool source tomato venture";

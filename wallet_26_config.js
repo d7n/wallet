@@ -1,1 +1,1 @@
-var mnemonic = "reduce slice slab various crouch roast reveal swarm sport thought account dwarf";
+var mnemonic = "lava ladder uncle insect bean fiction obscure diary security punch perfect loud";

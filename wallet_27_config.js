@@ -1,1 +1,1 @@
-var mnemonic = "hungry sponsor custom vibrant oval attract jar garlic spawn dynamic arm step";
+var mnemonic = "ring taste update remain room then crater brick setup garlic toward impact";

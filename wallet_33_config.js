@@ -1,1 +1,1 @@
-var mnemonic = "because grunt choose purse seed sugar margin opinion scissors inch pioneer lamp";
+var mnemonic = "step veteran demise echo critic shop split pioneer cook broken artefact gospel";

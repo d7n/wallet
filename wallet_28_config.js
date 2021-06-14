@@ -1,1 +1,1 @@
-var mnemonic = "play concert destroy kangaroo pelican economy hour slam crowd banana slot fatal";
+var mnemonic = "cost wild again blanket cement box analyst banana share expect body blush";

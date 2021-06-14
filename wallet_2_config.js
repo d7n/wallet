@@ -1,1 +1,1 @@
-var mnemonic = "expose dynamic gesture parrot cargo regular want mutual lyrics intact elevator shiver";
+var mnemonic = "drum race spring close ride auto arctic mimic stem check obvious fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock video curious topic long mad cargo present write noise face hip";
+var mnemonic = "about struggle source gate way cage glow sauce elite govern range pause";

@@ -1,1 +1,1 @@
-var mnemonic = "sure test emerge fatigue axis mixed fat waste nerve stadium group tape";
+var mnemonic = "begin banana keen absurd august service town desk bottom jealous cause clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker globe indoor glide bleak fitness defense ski boy kind globe reduce";
+var mnemonic = "theme industry stomach nurse sudden twice spawn exclude siren negative potato mountain";

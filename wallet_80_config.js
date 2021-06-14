@@ -1,1 +1,1 @@
-var mnemonic = "matrix pizza misery actor velvet toy enable range soldier field stock flag";
+var mnemonic = "noodle escape hour indicate manage vapor output wedding across brown pottery spatial";

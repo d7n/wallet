@@ -1,1 +1,1 @@
-var mnemonic = "educate maid abuse cover curtain company faculty era brush cage fiction prefer";
+var mnemonic = "kiss reduce liberty assault decline rack lesson detect whale couch ski play";

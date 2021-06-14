@@ -1,1 +1,1 @@
-var mnemonic = "acquire order company beauty pony math head extend salute knife kiwi snap";
+var mnemonic = "access drip reflect rely buyer cabbage large ticket clump inflict yard target";

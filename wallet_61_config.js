@@ -1,1 +1,1 @@
-var mnemonic = "resemble east cheap lift return symbol immense mosquito clarify knock chicken chase";
+var mnemonic = "fluid success myth mosquito midnight wide grunt apple fuel fox crack total";

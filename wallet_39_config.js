@@ -1,1 +1,1 @@
-var mnemonic = "capable final angle moral shell wagon lava item ring rabbit ski loan";
+var mnemonic = "relax together crane coast step matter please dance scissors start load female";

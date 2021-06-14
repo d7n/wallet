@@ -1,1 +1,1 @@
-var mnemonic = "anger dolphin behind capable leopard valve quarter object hair nut blur track";
+var mnemonic = "swim genius voyage nominee assist pattern menu actor foot slogan tongue key";

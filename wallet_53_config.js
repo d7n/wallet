@@ -1,1 +1,1 @@
-var mnemonic = "film mouse soap evil mad heavy print knee immune moral shoot abstract";
+var mnemonic = "mixture echo pair want foam lunar solution bid update income amused sail";

@@ -1,1 +1,1 @@
-var mnemonic = "naive sea inform stem tower lady wave popular urban abandon tool kitchen";
+var mnemonic = "day fortune immense jungle train peace safe syrup peanut host half hedgehog";

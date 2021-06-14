@@ -1,1 +1,1 @@
-var mnemonic = "weasel castle glad skull impose shine reunion liquid assault desert merit flash";
+var mnemonic = "hungry chase bus occur spirit almost pink hip gorilla reward elephant aware";

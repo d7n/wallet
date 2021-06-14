@@ -1,1 +1,1 @@
-var mnemonic = "scissors feed wood smart hybrid piano bomb artist lottery private evil post";
+var mnemonic = "case swallow convince van steel destroy history olive resource series segment style";

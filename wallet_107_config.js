@@ -1,1 +1,1 @@
-var mnemonic = "test whisper charge sugar useful move whale siren uncle hint man salmon";
+var mnemonic = "whisper behind teach drama ahead bike scare maple village wet thunder detect";

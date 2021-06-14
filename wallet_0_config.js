@@ -1,1 +1,1 @@
-var mnemonic = "tissue pair spirit jacket wide seek antenna social impulse crazy need devote";
+var mnemonic = "dawn response item vanish page stumble guilt young replace brisk safe borrow";

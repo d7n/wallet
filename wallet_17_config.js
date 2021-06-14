@@ -1,1 +1,1 @@
-var mnemonic = "genuine expand blood banana suggest already auction vintage turtle panther similar eternal";
+var mnemonic = "stay horror source cheese blood dentist drum west tape sunny warm antenna";

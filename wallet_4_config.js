@@ -1,1 +1,1 @@
-var mnemonic = "visa six alter art hollow skirt tourist deliver urban diagram wise blossom";
+var mnemonic = "sort fan novel gown motor person elephant derive stamp ginger cause garage";

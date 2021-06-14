@@ -1,1 +1,1 @@
-var mnemonic = "total train silent admit curtain simple capable ahead discover utility penalty pelican";
+var mnemonic = "slim brand recycle empty inmate banner harbor stem example salon easy denial";

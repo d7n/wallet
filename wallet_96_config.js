@@ -1,1 +1,1 @@
-var mnemonic = "second visa leave will pond slender erode couple second furnace retreat alert";
+var mnemonic = "describe very message renew column know scene artefact taxi oxygen family couple";

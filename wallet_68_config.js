@@ -1,1 +1,1 @@
-var mnemonic = "rhythm story skate month female exile album dwarf twice mad dream inherit";
+var mnemonic = "actress scale saddle recipe miracle any trigger wire hen width shoe lizard";

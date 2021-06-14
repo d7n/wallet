@@ -1,1 +1,1 @@
-var mnemonic = "human display gold cabbage bulb inherit render limb smart peace ask bread";
+var mnemonic = "awesome answer surprise front arena mandate cage current monitor menu timber clay";

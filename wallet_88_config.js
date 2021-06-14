@@ -1,1 +1,1 @@
-var mnemonic = "document bleak scrap thunder jungle pistol churn knock sustain outer expose congress";
+var mnemonic = "bargain advance obscure salt awesome element lyrics lucky daughter cupboard viable quantum";

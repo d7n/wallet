@@ -1,1 +1,1 @@
-var mnemonic = "hidden general tower reason actor umbrella moon cannon pink diet anchor news";
+var mnemonic = "gold parade syrup genuine cook place vast jeans misery snap reopen good";

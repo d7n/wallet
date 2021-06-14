@@ -1,1 +1,1 @@
-var mnemonic = "wreck color state throw execute combine meadow order glory raccoon kitchen short";
+var mnemonic = "census soul crush door empty post echo kick enhance reunion annual large";

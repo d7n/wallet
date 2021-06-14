@@ -1,1 +1,1 @@
-var mnemonic = "rich ivory mask tornado pear upgrade couch cruel cart equip myself shadow";
+var mnemonic = "height west benefit october observe badge what design drink mixed abandon prison";

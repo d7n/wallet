@@ -1,1 +1,1 @@
-var mnemonic = "broom lab script better inmate exclude crumble coffee right search guess negative";
+var mnemonic = "excuse silver risk ask delay office poet arrest budget patch spin attack";

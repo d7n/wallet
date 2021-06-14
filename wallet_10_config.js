@@ -1,1 +1,1 @@
-var mnemonic = "switch oil hair share ask seed naive holiday velvet service coil half";
+var mnemonic = "quote parade hammer salute joke buyer flame exercise present tent burden direct";

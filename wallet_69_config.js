@@ -1,1 +1,1 @@
-var mnemonic = "tumble tobacco opinion dutch cause moral material forward cattle dawn lottery panic";
+var mnemonic = "luggage rapid bamboo embody issue gown differ correct hint fat huge ask";

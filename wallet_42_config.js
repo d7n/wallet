@@ -1,1 +1,1 @@
-var mnemonic = "trophy action oval raven clerk agent clutch planet battle between ship half";
+var mnemonic = "they method coin squeeze keep dream limb glad blanket thing right laugh";

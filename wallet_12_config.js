@@ -1,1 +1,1 @@
-var mnemonic = "cover hand park agent gorilla smile blast fade luggage include oppose typical";
+var mnemonic = "source cool maximum fame reunion range adjust spray glory control burst fuel";

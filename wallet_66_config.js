@@ -1,1 +1,1 @@
-var mnemonic = "movie solid grace effort eager agent squeeze slam soldier flush luxury attract";
+var mnemonic = "praise tray behind material wife another skull middle cat tooth student globe";

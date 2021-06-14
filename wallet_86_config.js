@@ -1,1 +1,1 @@
-var mnemonic = "hero title evolve glass firm bicycle mammal dish enable weapon carpet brave";
+var mnemonic = "next trumpet just divert relief rich dial visual three maze fortune evidence";

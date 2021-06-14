@@ -1,1 +1,1 @@
-var mnemonic = "aunt shadow culture panda hurt clay gospel link rather occur mad number";
+var mnemonic = "panda fluid usual major right august daring found fat tube expand ready";

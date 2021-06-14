@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit true either nothing immense lecture rabbit coil resemble code elbow exclude";
+var mnemonic = "item promote meadow use price alley poet before game garbage monster people";

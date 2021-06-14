@@ -1,1 +1,1 @@
-var mnemonic = "ensure bless tiger seek park agent provide long chase brand near orphan";
+var mnemonic = "powder drop mail sleep trumpet ski fantasy festival version front milk stand";

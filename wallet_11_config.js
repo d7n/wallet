@@ -1,1 +1,1 @@
-var mnemonic = "parrot enable monster cause chimney seek damage bamboo issue spend tent space";
+var mnemonic = "exist brother noise fan dignity visual winner interest team express race trick";

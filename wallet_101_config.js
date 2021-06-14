@@ -1,1 +1,1 @@
-var mnemonic = "copper wash pink penalty pumpkin myself runway pudding project obvious jungle rural";
+var mnemonic = "cry draft describe crucial motor pulp license pitch plug ordinary output olive";

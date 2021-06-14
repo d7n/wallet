@@ -1,1 +1,1 @@
-var mnemonic = "employ rice exchange team public before quarter attract private response model hurry";
+var mnemonic = "demise unfold walnut physical maximum lemon economy supreme deny differ bracket minor";

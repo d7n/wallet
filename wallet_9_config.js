@@ -1,1 +1,1 @@
-var mnemonic = "decorate blur disagree private harsh lecture broom scan limb people tool leave";
+var mnemonic = "now diary song scissors more warrior congress culture afford pilot then wrap";

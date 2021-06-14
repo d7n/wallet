@@ -1,1 +1,1 @@
-var mnemonic = "double cost round merry feel give review fury arrive bubble acoustic top";
+var mnemonic = "cloud dinner invest monkey dash water under race service brick swamp stock";

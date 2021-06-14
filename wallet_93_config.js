@@ -1,1 +1,1 @@
-var mnemonic = "flag home peasant because build rival curious small final mistake feel inflict";
+var mnemonic = "plunge prosper among accident hair enough naive domain raw balcony give idle";

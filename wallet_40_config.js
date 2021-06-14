@@ -1,1 +1,1 @@
-var mnemonic = "napkin letter pizza squirrel young allow car chat search liberty frame heart";
+var mnemonic = "material salad protect crane wash corn can nothing cactus spring into rapid";

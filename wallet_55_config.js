@@ -1,1 +1,1 @@
-var mnemonic = "popular admit name require drift shaft void spend tray base plug language";
+var mnemonic = "bargain supply razor shrug brown element brush meadow quit tissue clean idea";

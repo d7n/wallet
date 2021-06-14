@@ -1,1 +1,1 @@
-var mnemonic = "spend adjust rubber until market congress spend crumble wet polar fee general";
+var mnemonic = "easily acoustic mansion balance remember spray kiss dignity panther strike entry riot";

@@ -1,1 +1,1 @@
-var mnemonic = "expose virtual check farm chunk toy chronic whisper person napkin cherry use";
+var mnemonic = "toilet what gospel bacon health believe bullet pair choice immense top age";

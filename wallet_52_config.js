@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow keen glide slide edge health error tourist tortoise truck match corn";
+var mnemonic = "stumble more damp husband alpha auto tattoo tooth stomach kick journey segment";

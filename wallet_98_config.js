@@ -1,1 +1,1 @@
-var mnemonic = "giant birth sting alone man soup frost stage miss among peanut reunion";
+var mnemonic = "busy concert stable hour curtain verb material solid solve build dynamic spray";

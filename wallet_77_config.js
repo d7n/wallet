@@ -1,1 +1,1 @@
-var mnemonic = "turkey flock mix soul enough decrease concert siren pond present happy tomato";
+var mnemonic = "tree enemy visual shell garbage honey congress error patrol route media slush";

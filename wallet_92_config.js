@@ -1,1 +1,1 @@
-var mnemonic = "error dynamic input mother obtain clutch title gorilla exotic olive exit pistol";
+var mnemonic = "ritual police stool uncle vital wide genre reject flee luggage explain rug";

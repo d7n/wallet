@@ -1,1 +1,1 @@
-var mnemonic = "same alien raise present chair buffalo wheel tourist cherry degree infant drop";
+var mnemonic = "smart outside wash intact book wild coil shop case scare can excite";

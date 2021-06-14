@@ -1,1 +1,1 @@
-var mnemonic = "robust usual fly knee able width ghost foot input warfare hill weapon";
+var mnemonic = "relief myth welcome satisfy cool sister notice fly march round topic distance";

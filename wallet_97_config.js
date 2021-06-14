@@ -1,1 +1,1 @@
-var mnemonic = "relief prefer diagram perfect balance grunt absorb secret together tell gloom boil";
+var mnemonic = "exchange capital combine wool drive drill fall measure moment treat dentist buffalo";

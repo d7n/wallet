@@ -1,1 +1,1 @@
-var mnemonic = "will october boost cereal addict tenant artwork check drive judge invite frog";
+var mnemonic = "butter crew tell emotion taste prefer chaos impulse vivid tennis faint parent";

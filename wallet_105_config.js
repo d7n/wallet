@@ -1,1 +1,1 @@
-var mnemonic = "mass electric giraffe supreme luxury mansion sell betray delay exclude seven distance";
+var mnemonic = "case food hour normal friend draft unhappy total west buzz fix become";

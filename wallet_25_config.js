@@ -1,1 +1,1 @@
-var mnemonic = "puppy arrive clean summer robust explain blossom category devote convince disorder torch";
+var mnemonic = "resist grape dwarf pool scrub speed belt brand athlete ten mail act";

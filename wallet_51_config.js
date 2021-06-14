@@ -1,1 +1,1 @@
-var mnemonic = "business picnic flat fancy region poet alpha attend cat fabric wife decorate";
+var mnemonic = "swap shove situate drastic melt garbage strike squeeze few prefer tennis manage";

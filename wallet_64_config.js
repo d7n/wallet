@@ -1,1 +1,1 @@
-var mnemonic = "vital mechanic coil snake woman weasel talk oven hungry alter table square";
+var mnemonic = "certain announce crop zebra finish sport satoshi fun maze correct page marble";

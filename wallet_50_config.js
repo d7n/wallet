@@ -1,1 +1,1 @@
-var mnemonic = "fruit inhale glimpse rigid build school fruit once certain umbrella razor shock";
+var mnemonic = "dune around neglect runway kingdom bunker this nation allow bundle rival aunt";

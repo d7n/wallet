@@ -1,1 +1,1 @@
-var mnemonic = "cable outside head alley people churn delay nose bridge estate winter borrow";
+var mnemonic = "fashion hole entry traffic wild rose kick vocal galaxy scheme chalk elite";

@@ -1,1 +1,1 @@
-var mnemonic = "beach snack bar glance deputy cement urban space dial drum gown grace";
+var mnemonic = "lawn eagle space awkward foot fortune piano mask three leopard shy perfect";

@@ -1,1 +1,1 @@
-var mnemonic = "ill romance slide pepper engage travel real angry real health under swim";
+var mnemonic = "shove tortoise almost slam lobster olive flash sibling lunar goddess detect false";

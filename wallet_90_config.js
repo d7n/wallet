@@ -1,1 +1,1 @@
-var mnemonic = "scatter excess then stereo ask resemble fog mention wheat impulse relax invest";
+var mnemonic = "lawsuit summer salute flag apology portion engine when trend weird human science";

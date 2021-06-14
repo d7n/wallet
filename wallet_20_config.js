@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur winner bulb patient unable worry pulse pole snack cute antique autumn";
+var mnemonic = "pupil blouse zebra dress ozone effort evidence antenna math interest upon giant";

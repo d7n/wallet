@@ -1,1 +1,1 @@
-var mnemonic = "unfold rare produce rate film length latin erode zero situate deputy dawn";
+var mnemonic = "rich enjoy office cook slam slush toss stage provide crush neglect note";

@@ -1,1 +1,1 @@
-var mnemonic = "company door car festival siege run sentence fly ride play rapid amused";
+var mnemonic = "unfold main stable you undo erase giant amount weird harvest cherry utility";

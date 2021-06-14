@@ -1,1 +1,1 @@
-var mnemonic = "taste chapter identify glove all twin win trigger alarm subway awesome bounce";
+var mnemonic = "trial gesture expose track reward absurd hungry soon sound question notice tumble";

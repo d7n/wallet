@@ -1,1 +1,1 @@
-var mnemonic = "trick ahead employ balance cube pelican dish engage session level real cheap";
+var mnemonic = "this furnace crunch sunny boring arrive rocket lake brick cram minute purpose";

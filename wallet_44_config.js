@@ -1,1 +1,1 @@
-var mnemonic = "appear rigid mail canoe scrub pattern enter swift shine tongue dance lake";
+var mnemonic = "brass soldier humble soon immense era attitude meat filter practice episode receive";

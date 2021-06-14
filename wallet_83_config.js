@@ -1,1 +1,1 @@
-var mnemonic = "announce icon exist enrich catalog receive orient gain vague opera market juice";
+var mnemonic = "flight grief steel drip van prize target harbor wise timber obey come";

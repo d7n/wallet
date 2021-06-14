@@ -1,1 +1,1 @@
-var mnemonic = "crunch adjust defy cinnamon decrease end custom lunch stable flower joke bright";
+var mnemonic = "vapor equip online stick script mutual spider refuse silent barely machine put";

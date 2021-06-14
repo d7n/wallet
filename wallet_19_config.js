@@ -1,1 +1,1 @@
-var mnemonic = "squeeze slogan chest valley snack level tourist panic exist disorder object toss";
+var mnemonic = "taxi just grow require excuse omit chapter aisle crane indoor quote frog";

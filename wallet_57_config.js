@@ -1,1 +1,1 @@
-var mnemonic = "clip bronze below dinner shed into suggest renew member clump detect husband";
+var mnemonic = "estate twenty ten flash mistake hedgehog hotel gain concert rival fresh waste";

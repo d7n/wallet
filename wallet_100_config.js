@@ -1,1 +1,1 @@
-var mnemonic = "face noise deal pitch embody violin hawk tourist comic rival lava fever";
+var mnemonic = "game cloth vault salad adult hope intact crisp settle gloom theory beyond";

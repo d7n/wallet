@@ -1,1 +1,1 @@
-var mnemonic = "believe rate anchor mirror labor panther brisk beef lend garlic arrive leopard";
+var mnemonic = "high marble prison prefer room harsh civil asset science spell praise code";

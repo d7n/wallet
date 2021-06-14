@@ -1,1 +1,1 @@
-var mnemonic = "mandate play velvet dust basic road list blur budget add impose van";
+var mnemonic = "thank because vapor oval boss occur nurse strategy step protect basket pink";

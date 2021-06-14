@@ -1,1 +1,1 @@
-var mnemonic = "panther clinic myself diary champion digital shallow model hen day exile radio";
+var mnemonic = "helmet assume ten wheat width bicycle length border match crystal square member";

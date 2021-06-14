@@ -1,1 +1,1 @@
-var mnemonic = "level first mean when betray adult have east soon metal glance air";
+var mnemonic = "rain alien crawl weasel airport shrug example liar crumble reject food wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "regret switch thrive miss ozone foam feel picnic mask pulp medal skull";
+var mnemonic = "casual drip meadow holiday choose lunar stable spice rifle ketchup blame original";
