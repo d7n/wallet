@@ -1,1 +1,1 @@
-var mnemonic = "thrive winter barely roast join soap oyster wife absent secret flight grocery";
+var mnemonic = "cover current wheat nice unhappy vacuum cargo disorder expand good remember lyrics";

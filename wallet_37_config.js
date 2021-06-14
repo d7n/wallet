@@ -1,1 +1,1 @@
-var mnemonic = "ill toss quit recipe head couch rose gallery certain asset buddy panda";
+var mnemonic = "save target fee lucky reduce stem ridge above fire gesture hero above";

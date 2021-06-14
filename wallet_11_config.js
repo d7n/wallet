@@ -1,1 +1,1 @@
-var mnemonic = "stool balcony pattern problem retire census admit trip hat return toss crop";
+var mnemonic = "famous cereal visual rich trim student execute danger extra high laugh drip";

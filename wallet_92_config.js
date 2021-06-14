@@ -1,1 +1,1 @@
-var mnemonic = "you have stay inch update sample there entry infant minor limit silk";
+var mnemonic = "lock belt inspire fade neglect stumble humor vicious left oven script issue";

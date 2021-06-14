@@ -1,1 +1,1 @@
-var mnemonic = "panther alien filter camp movie never fatal traffic victory clip bundle you";
+var mnemonic = "blame educate race swim author drastic ten ensure visa quality denial angry";

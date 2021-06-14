@@ -1,1 +1,1 @@
-var mnemonic = "web memory donate bitter cream auto gym devote desert scan rigid hat";
+var mnemonic = "leaf remind bright age turn tower journey beef phone mosquito box mean";

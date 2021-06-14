@@ -1,1 +1,1 @@
-var mnemonic = "eager reform ripple skull grid delay latin verify inside obtain pole drum";
+var mnemonic = "camera learn police kidney local harvest person above culture festival jump alter";

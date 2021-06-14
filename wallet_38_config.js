@@ -1,1 +1,1 @@
-var mnemonic = "rude spider affair balcony kangaroo cattle nephew example abstract holiday detect panel";
+var mnemonic = "casino near film world private garment shed deputy foam divide invite margin";

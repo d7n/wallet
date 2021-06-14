@@ -1,1 +1,1 @@
-var mnemonic = "across wrong pink fence home mouse doll dragon leg boat guide pear";
+var mnemonic = "cigar silent april reward empty culture black face drastic protect pizza smile";

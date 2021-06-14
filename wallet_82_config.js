@@ -1,1 +1,1 @@
-var mnemonic = "believe congress lesson mixture legend oval rice cycle solve beauty announce parade";
+var mnemonic = "grid success purse design butter town day account deliver citizen wish file";

@@ -1,1 +1,1 @@
-var mnemonic = "fog oyster host pelican donate kitten desert snake outside zero noble coast";
+var mnemonic = "meat coil agree ignore drink amazing vendor youth thrive auction nest six";

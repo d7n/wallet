@@ -1,1 +1,1 @@
-var mnemonic = "work riot soon style various merry earn traffic luggage tone replace response";
+var mnemonic = "suffer city issue phone retreat knife avoid just replace code wild thank";

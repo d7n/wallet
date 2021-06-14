@@ -1,1 +1,1 @@
-var mnemonic = "wife fan lunar note damp equal indoor merge taste pony uncover snow";
+var mnemonic = "stereo crush card air extend girl napkin equal price pupil airport garlic";

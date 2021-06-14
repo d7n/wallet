@@ -1,1 +1,1 @@
-var mnemonic = "other valley size idle disorder click meadow leaf deliver still humble ozone";
+var mnemonic = "board mouse olympic foster dust ring measure reveal bleak can bean result";

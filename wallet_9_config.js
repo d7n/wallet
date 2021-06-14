@@ -1,1 +1,1 @@
-var mnemonic = "flower purchase accident pink refuse field analyst lumber naive forget gorilla exhaust";
+var mnemonic = "salad cupboard wall unveil simple weird oak image bike boring bachelor jealous";

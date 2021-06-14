@@ -1,1 +1,1 @@
-var mnemonic = "pizza plastic reunion estate run athlete lion anxiety still display matter female";
+var mnemonic = "clerk raven naive fresh gym pulp auto cement endless vibrant walnut month";

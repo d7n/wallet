@@ -1,1 +1,1 @@
-var mnemonic = "empower seven apple biology clever fade dolphin swarm dirt all leave build";
+var mnemonic = "canyon book drastic slim album exercise crack hunt loyal year sport disease";

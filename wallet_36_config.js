@@ -1,1 +1,1 @@
-var mnemonic = "soul nice ten fashion mercy outer bronze love neither web solar shadow";
+var mnemonic = "welcome equal spring talk deny pencil video quick output fee gold subject";

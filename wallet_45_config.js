@@ -1,1 +1,1 @@
-var mnemonic = "game good demand ethics panda alert exchange ride traffic layer what have";
+var mnemonic = "general impulse ridge violin fiber waste trumpet plug outdoor claw wash purity";

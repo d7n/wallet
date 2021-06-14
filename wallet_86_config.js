@@ -1,1 +1,1 @@
-var mnemonic = "vital era false soul curious protect skull clog inspire keen hill found";
+var mnemonic = "october chat mention visit paper reveal entry science pepper resist sock what";

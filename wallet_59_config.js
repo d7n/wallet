@@ -1,1 +1,1 @@
-var mnemonic = "eye gesture best multiply merge vicious gadget intact apple later motion help";
+var mnemonic = "trade still oil kidney dismiss journey ribbon thing sibling jar sudden suggest";

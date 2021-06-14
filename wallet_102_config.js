@@ -1,1 +1,1 @@
-var mnemonic = "rabbit upgrade antique swear sun lecture sell mutual cousin sibling garment south";
+var mnemonic = "comfort dish file tent faculty picture like chimney forest upper tag dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "bread salad medal wisdom educate zone crowd emotion spawn wedding forward argue";
+var mnemonic = "talk motor hospital exit scene tobacco unique hunt dish boost lounge worry";

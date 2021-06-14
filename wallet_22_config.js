@@ -1,1 +1,1 @@
-var mnemonic = "supreme reason vanish tilt normal rocket claim battle various awake skin drift";
+var mnemonic = "october you noble tobacco salad treat conduct attend execute broken now gallery";

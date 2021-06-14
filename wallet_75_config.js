@@ -1,1 +1,1 @@
-var mnemonic = "ask field decorate camera sing chair hidden index lion tobacco curve only";
+var mnemonic = "ripple also genre unfold address actress six fog trust verify gym crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch work fire gadget answer honey famous drip reduce stool please lift";
+var mnemonic = "climb vivid river spin expect elephant library sudden diet scene grunt slab";

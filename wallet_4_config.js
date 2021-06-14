@@ -1,1 +1,1 @@
-var mnemonic = "pride bleak link hair health impose husband sail sting lava concert lamp";
+var mnemonic = "peace grid seven lake piano will mad gate siege issue olympic wild";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet push session unusual lazy across float sunny opinion roast switch alcohol";
+var mnemonic = "health trip humor behind drip route tattoo decide ranch keep custom display";

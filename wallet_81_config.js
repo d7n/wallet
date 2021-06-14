@@ -1,1 +1,1 @@
-var mnemonic = "obscure danger require combine cigar uncle corn sponsor supreme adapt prison major";
+var mnemonic = "auction blouse knock salt deal steak usual shop scan now trend exit";

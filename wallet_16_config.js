@@ -1,1 +1,1 @@
-var mnemonic = "taxi divert bulb kangaroo knock cup olive blush impulse robot either water";
+var mnemonic = "rug human token alone opinion rough glory pact aerobic aware disagree snap";

@@ -1,1 +1,1 @@
-var mnemonic = "foster private fault method youth boil impose proof crush sun hunt lion";
+var mnemonic = "member wrestle wet rural clog cat snap pledge buddy goat home sort";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp reason rigid cross pretty easily coast village cactus nerve surround swarm";
+var mnemonic = "bundle moral display one abuse tomato range section attack cry badge boat";

@@ -1,1 +1,1 @@
-var mnemonic = "spot gallery taste angle melt damage only miss dirt obscure demise double";
+var mnemonic = "soda exist abstract truck tourist wink fossil crush apart citizen tide piano";

@@ -1,1 +1,1 @@
-var mnemonic = "spend shoe reunion visual crane view ordinary sadness food donor mother deputy";
+var mnemonic = "once torch patient tide dream cool raven mammal planet dish float use";

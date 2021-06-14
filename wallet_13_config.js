@@ -1,1 +1,1 @@
-var mnemonic = "fold vocal pride enough luxury ball fix today exchange fossil inform practice";
+var mnemonic = "sand heart pride abstract predict hockey knife jazz awesome insect flag bounce";

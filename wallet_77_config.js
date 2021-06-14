@@ -1,1 +1,1 @@
-var mnemonic = "sweet point hold noise ten enough among artwork miracle blossom rice print";
+var mnemonic = "purse island possible whip loan stem million kit join wrist ignore scare";

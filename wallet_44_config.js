@@ -1,1 +1,1 @@
-var mnemonic = "inherit luxury carbon blossom yard ladder elder busy young elevator leaf prevent";
+var mnemonic = "final swing rather high pear oak seed crater open dragon force excite";

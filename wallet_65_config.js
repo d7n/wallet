@@ -1,1 +1,1 @@
-var mnemonic = "bread pet rabbit repair degree inner oval water world arrive abstract faculty";
+var mnemonic = "flash resemble earth diagram lens situate make horn engage pottery act render";

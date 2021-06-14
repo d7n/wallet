@@ -1,1 +1,1 @@
-var mnemonic = "split proud pelican park liberty conduct drive fire similar resist ensure ladder";
+var mnemonic = "spoil cave please forum tool frown prevent clerk struggle record almost daring";

@@ -1,1 +1,1 @@
-var mnemonic = "rough trophy police ceiling average narrow perfect bottom six dad kite cash";
+var mnemonic = "symptom soon weasel swift soap crisp have present abuse tobacco wagon awful";

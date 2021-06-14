@@ -1,1 +1,1 @@
-var mnemonic = "judge fire juice victory program tragic useless rack donate palace alpha jacket";
+var mnemonic = "visit method energy cannon square subject torch banner junk they team attend";

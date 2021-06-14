@@ -1,1 +1,1 @@
-var mnemonic = "equal desk leave ice dolphin milk gasp forest tag tray dash idle";
+var mnemonic = "enemy enemy alcohol reason close measure avoid eagle report first update grunt";

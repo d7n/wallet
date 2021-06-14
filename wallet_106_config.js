@@ -1,1 +1,1 @@
-var mnemonic = "extend pizza kick antique midnight evoke file pear capable swear accuse pizza";
+var mnemonic = "mobile debate young lunch winter absurd slab estate mule merit exile lounge";

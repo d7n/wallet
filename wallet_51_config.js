@@ -1,1 +1,1 @@
-var mnemonic = "jaguar pet frame grow drill glass mule deny hen someone sudden surge";
+var mnemonic = "join grow much avocado between man cherry march fetch arm frozen upon";

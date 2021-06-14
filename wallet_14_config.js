@@ -1,1 +1,1 @@
-var mnemonic = "public start typical crash sheriff path return cargo naive infant master medal";
+var mnemonic = "dune simple guitar essay excess bundle custom pelican hockey emerge token battle";

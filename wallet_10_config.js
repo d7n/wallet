@@ -1,1 +1,1 @@
-var mnemonic = "stadium okay alone chest junior this copy funny panther trial wheat amateur";
+var mnemonic = "crowd group purpose once oval sheriff palm entire people ability ecology ready";

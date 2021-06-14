@@ -1,1 +1,1 @@
-var mnemonic = "web peace very thing inherit vote purse bronze lady mistake indicate athlete";
+var mnemonic = "chest brother ozone loan green crowd video impact stone syrup scale describe";

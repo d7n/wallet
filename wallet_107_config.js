@@ -1,1 +1,1 @@
-var mnemonic = "raven valve copper visit limit unveil satisfy elevator give comic bulk brother";
+var mnemonic = "fossil couple diary purchase green vibrant prepare base wheat nuclear wing elder";

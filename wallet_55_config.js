@@ -1,1 +1,1 @@
-var mnemonic = "visual sad erupt cherry sunset canal weasel sausage canoe faith broccoli frequent";
+var mnemonic = "demise media security mixed bamboo say ring stand spell lecture hire alone";

@@ -1,1 +1,1 @@
-var mnemonic = "sell solution crumble world miss retreat come dwarf token real veteran subject";
+var mnemonic = "afraid else purity hair weather luggage evil decade review slush update load";

@@ -1,1 +1,1 @@
-var mnemonic = "slab genuine room fun absurd power tongue city diagram toddler gorilla kingdom";
+var mnemonic = "mystery hazard winner team loud coil agree six hammer squeeze path foot";

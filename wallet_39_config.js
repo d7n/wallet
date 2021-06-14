@@ -1,1 +1,1 @@
-var mnemonic = "mask pitch fatal night grow vintage begin radio cool critic obtain label";
+var mnemonic = "trick squirrel poet arena brush nature toilet wolf outdoor coach aunt salt";

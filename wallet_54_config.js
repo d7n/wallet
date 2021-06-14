@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit promote pigeon abstract symbol crush spatial slam taxi pioneer more purchase";
+var mnemonic = "like floor rapid plastic coffee boy energy staff segment banner mix crane";

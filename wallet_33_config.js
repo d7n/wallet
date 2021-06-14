@@ -1,1 +1,1 @@
-var mnemonic = "client tongue slight mechanic autumn clever sad twin input crazy duty shrimp";
+var mnemonic = "drastic praise bus start spread tail owner file reason crew calm plastic";

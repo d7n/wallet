@@ -1,1 +1,1 @@
-var mnemonic = "region story clarify gesture fame arena grit excite nurse drastic supply predict";
+var mnemonic = "choose syrup sun report seven palm round blade call dutch own black";

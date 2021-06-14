@@ -1,1 +1,1 @@
-var mnemonic = "excess squeeze angle cabin ecology ordinary shaft rather idle cover minimum cycle";
+var mnemonic = "resist trust thought spin stable quiz twice arrow alpha bring drift bulk";

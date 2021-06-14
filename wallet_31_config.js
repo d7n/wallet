@@ -1,1 +1,1 @@
-var mnemonic = "jeans call elbow face script fix library marine shallow prosper client essence";
+var mnemonic = "van truth inhale galaxy skin zoo make chicken safe unusual novel foot";

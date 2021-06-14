@@ -1,1 +1,1 @@
-var mnemonic = "token swarm poet time embody dawn east device first dress buffalo aim";
+var mnemonic = "silly tattoo clerk since physical saddle donate brave edit castle room help";

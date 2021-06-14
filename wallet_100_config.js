@@ -1,1 +1,1 @@
-var mnemonic = "destroy bamboo crumble fish dilemma recipe liquid network lecture ahead real wreck";
+var mnemonic = "surge select student defense miss rigid cushion vote victory wrist prepare task";

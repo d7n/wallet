@@ -1,1 +1,1 @@
-var mnemonic = "before rhythm math noodle sunset initial immense visual shed brave fiber glance";
+var mnemonic = "chef garbage pride timber color fever cage unique response sort define exercise";

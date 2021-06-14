@@ -1,1 +1,1 @@
-var mnemonic = "latin immune ask bid immune uncover stay turkey mobile jaguar supreme erupt";
+var mnemonic = "drum have repair miss dentist blush charge race scatter truck term lumber";

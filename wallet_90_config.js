@@ -1,1 +1,1 @@
-var mnemonic = "measure piece grit key reveal mean want coast matter engage diet curious";
+var mnemonic = "manage soul what spray judge frequent pretty enrich mask fault image goose";

@@ -1,1 +1,1 @@
-var mnemonic = "announce brisk exact amused ice orphan solution icon turkey raccoon zero damage";
+var mnemonic = "flash loyal genius squirrel found ten coffee bench advice asset doctor crunch";

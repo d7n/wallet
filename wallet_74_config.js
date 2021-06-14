@@ -1,1 +1,1 @@
-var mnemonic = "rent climb moon negative track slide foster illegal manual mean remind little";
+var mnemonic = "region nuclear okay pulse night fancy rent soon brain gap urban tuition";

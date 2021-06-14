@@ -1,1 +1,1 @@
-var mnemonic = "exact sphere mirror moon keen shove horn acoustic face note approve industry";
+var mnemonic = "dinner tissue prosper royal display music mouse depart copper online light bridge";

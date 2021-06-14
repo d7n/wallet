@@ -1,1 +1,1 @@
-var mnemonic = "choice industry moment defy advice junior south pupil poverty feel jaguar title";
+var mnemonic = "short lawsuit voice sock human ridge team food upset bike abstract dirt";

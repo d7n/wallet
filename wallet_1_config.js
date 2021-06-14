@@ -1,1 +1,1 @@
-var mnemonic = "second current review apology lonely main bridge agent between execute excite turn";
+var mnemonic = "leave owner powder fold broom target fresh siege prosper absurd shoe gate";

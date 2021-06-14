@@ -1,1 +1,1 @@
-var mnemonic = "lady doctor glad express boil pretty truly fury devote betray town wood";
+var mnemonic = "express energy opera hawk parade tongue mechanic bless panther frost police video";

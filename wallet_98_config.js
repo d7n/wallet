@@ -1,1 +1,1 @@
-var mnemonic = "render bean burger vocal giraffe rubber stove settle box monster kiwi milk";
+var mnemonic = "base social over wink flee wall sniff slam load will glide type";

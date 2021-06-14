@@ -1,1 +1,1 @@
-var mnemonic = "famous soda ignore coast popular dice tattoo trash toast defy laptop gloom";
+var mnemonic = "unique citizen author meat spoil thunder erode feed roast drastic satoshi siege";

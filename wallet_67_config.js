@@ -1,1 +1,1 @@
-var mnemonic = "brave soldier into trust inform nasty radio fuel refuse wild educate hour";
+var mnemonic = "hidden canyon dismiss helmet rival stem earn reunion found two mansion carry";

@@ -1,1 +1,1 @@
-var mnemonic = "snake price hurry govern nuclear soft frost confirm prosper swear toward gauge";
+var mnemonic = "bag ugly pave convince peace private perfect swift dance tomato wish mixed";

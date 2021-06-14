@@ -1,1 +1,1 @@
-var mnemonic = "drama ensure cook victory manage radio donkey black vote size tragic river";
+var mnemonic = "wool quarter prepare horse often tag struggle level margin want tattoo ivory";

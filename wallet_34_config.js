@@ -1,1 +1,1 @@
-var mnemonic = "axis rival winter omit brass shy orbit seminar smoke ability library sleep";
+var mnemonic = "blood evolve clever attend lyrics system chuckle kite eternal also dress primary";

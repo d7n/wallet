@@ -1,1 +1,1 @@
-var mnemonic = "pelican surround first avoid hard art cool panther mountain soldier farm near";
+var mnemonic = "school resemble elevator remember orchard enable security primary excuse elder mammal ugly";

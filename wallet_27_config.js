@@ -1,1 +1,1 @@
-var mnemonic = "belt leader honey vivid fatigue pyramid two combine wage you nice milk";
+var mnemonic = "enforce mind winter initial moment airport amazing improve smooth gravity shell awesome";

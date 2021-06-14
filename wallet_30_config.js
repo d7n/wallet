@@ -1,1 +1,1 @@
-var mnemonic = "scan file trend exhaust dinosaur pony jeans early proud gold volume earn";
+var mnemonic = "wave grocery monster ride pelican ranch same paper mean toast game noble";

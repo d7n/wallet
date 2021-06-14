@@ -1,1 +1,1 @@
-var mnemonic = "story rare spin record vocal capital deliver loyal bike awesome tennis gap";
+var mnemonic = "equal omit dose lend unique vital athlete heart cave glory harbor airport";

@@ -1,1 +1,1 @@
-var mnemonic = "start enjoy witness merge laptop across never disease cross cram carbon exact";
+var mnemonic = "absent lazy way echo erase own issue humor crater extra material chief";

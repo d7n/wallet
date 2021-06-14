@@ -1,1 +1,1 @@
-var mnemonic = "bomb cloud spice bonus donate section update leopard put woman solve coconut";
+var mnemonic = "hungry attend tired remain attend cause term cricket purpose item eager indicate";

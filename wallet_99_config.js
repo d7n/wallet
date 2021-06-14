@@ -1,1 +1,1 @@
-var mnemonic = "ankle cushion pepper express column pumpkin entire sail boy cat vague private";
+var mnemonic = "despair pole right cereal walk project wide island issue lucky drill boring";

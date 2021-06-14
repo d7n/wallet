@@ -1,1 +1,1 @@
-var mnemonic = "web explain pudding car chronic merit topic sorry wet travel climb prize";
+var mnemonic = "near cancel happy bind blush gate butter energy baby disagree motion romance";

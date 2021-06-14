@@ -1,1 +1,1 @@
-var mnemonic = "fitness rhythm vintage rhythm lift ivory defy urge skull dream resist beach";
+var mnemonic = "urge spice bike picture rubber feed wood frost fold fix divorce bomb";

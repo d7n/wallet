@@ -1,1 +1,1 @@
-var mnemonic = "speak chef toss wolf issue beach betray citizen burst outside defense cup";
+var mnemonic = "animal shove error invest shoulder hurt violin divorce among supreme assault laugh";

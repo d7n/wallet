@@ -1,1 +1,1 @@
-var mnemonic = "brief regular scissors legal gauge satoshi flight state slam sing bulb front";
+var mnemonic = "quarter lunar goddess kind company hen legend board dove slot debris naive";

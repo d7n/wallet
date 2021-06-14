@@ -1,1 +1,1 @@
-var mnemonic = "shock know near primary guitar place faint answer ethics brand erase search";
+var mnemonic = "motor chat sheriff wool armor virtual naive indoor turn travel cook solution";
