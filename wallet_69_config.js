@@ -1,1 +1,1 @@
-var mnemonic = "any suffer use coil nephew photo beyond again inner canvas media fever";
+var mnemonic = "nose lemon estate trash oak giraffe rate vault acoustic bus throw follow";

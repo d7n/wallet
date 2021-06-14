@@ -1,1 +1,1 @@
-var mnemonic = "void already fork couple rough method oblige immense leader certain dentist leg";
+var mnemonic = "mango ostrich ripple voyage squeeze wait spy cushion rally bottom female rather";

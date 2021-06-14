@@ -1,1 +1,1 @@
-var mnemonic = "work mirror quantum either champion penalty champion chicken melt alert access whip";
+var mnemonic = "tag grain coach soon fatigue nothing black clown wear scale issue stairs";

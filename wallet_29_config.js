@@ -1,1 +1,1 @@
-var mnemonic = "coin fortune client crew health slim birth address twice fancy cupboard wedding";
+var mnemonic = "high actual muffin sauce giggle stock thumb share walnut youth gasp rare";

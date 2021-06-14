@@ -1,1 +1,1 @@
-var mnemonic = "culture system victory crazy arrest charge math abuse impose boring tape salmon";
+var mnemonic = "fame unknown apology glass couple ethics burger into demise miss end steak";

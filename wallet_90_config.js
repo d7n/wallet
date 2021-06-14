@@ -1,1 +1,1 @@
-var mnemonic = "fade actual peasant slice solve cool fortune call exit sibling exhaust useful";
+var mnemonic = "mind kidney hockey network execute cute bus away mom human ball crop";

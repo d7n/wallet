@@ -1,1 +1,1 @@
-var mnemonic = "tower auto seek palace finger furnace person raise badge corn olive sword";
+var mnemonic = "cluster valid crucial animal guilt cousin wedding give utility exotic grab turkey";

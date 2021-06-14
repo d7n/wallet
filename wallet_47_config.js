@@ -1,1 +1,1 @@
-var mnemonic = "gather unfair balance follow gloom vague into giraffe trade hat camera market";
+var mnemonic = "bless timber object foot quit advice rural increase warrior taste horn sad";

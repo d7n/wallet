@@ -1,1 +1,1 @@
-var mnemonic = "spirit myth grid help leg harsh verify alter such setup analyst exercise";
+var mnemonic = "melt used crew glance yellow decorate ocean milk illness expire empower divert";

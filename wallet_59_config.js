@@ -1,1 +1,1 @@
-var mnemonic = "boss interest primary double salute donor indicate real empower lottery excess march";
+var mnemonic = "park robot struggle sunny position drive hotel material wet current beach insane";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase elegant devote basic update lucky cheese echo announce verb degree vivid";
+var mnemonic = "erode teach black stable nurse cruise creek ticket boy frozen dust object";

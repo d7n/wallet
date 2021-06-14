@@ -1,1 +1,1 @@
-var mnemonic = "move horror steel cry sudden stereo answer anchor major puzzle bottom custom";
+var mnemonic = "art taste pact security dismiss space game someone maple curious liquid pipe";

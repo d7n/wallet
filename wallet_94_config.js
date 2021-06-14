@@ -1,1 +1,1 @@
-var mnemonic = "oak tower between circle arrow oxygen identify major scare twice gauge hotel";
+var mnemonic = "food crowd artist number glad depart kitchen fish lemon tank purchase trick";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow smart addict split cross ignore gun chaos mistake unlock iron series";
+var mnemonic = "crack thumb during dinner empower palm auction often crouch ripple soccer fragile";

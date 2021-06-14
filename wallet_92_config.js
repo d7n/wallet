@@ -1,1 +1,1 @@
-var mnemonic = "doll smart quote embark deposit dune guard anger faith whip add panic";
+var mnemonic = "abuse person toilet session canoe bottom social empty lunch century limit body";

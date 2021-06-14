@@ -1,1 +1,1 @@
-var mnemonic = "include inside recipe include follow dawn step amateur noodle talk giggle photo";
+var mnemonic = "gaze defense coach mushroom sword wave chaos nice across switch resource alien";

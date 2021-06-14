@@ -1,1 +1,1 @@
-var mnemonic = "coach fashion clarify fresh culture entire pave eager happy potato cargo humor";
+var mnemonic = "group ceiling relief welcome crumble nuclear volume possible garlic merit urge ivory";

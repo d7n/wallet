@@ -1,1 +1,1 @@
-var mnemonic = "mom cargo wash arm leisure guard update hotel ripple distance chronic already";
+var mnemonic = "produce gas family error snack adult decade syrup unable say genre tower";

@@ -1,1 +1,1 @@
-var mnemonic = "talk aerobic edge loop gentle opera list tooth fire loud achieve ethics";
+var mnemonic = "gold suit dismiss fiber bone magic output wet element hold drip warm";

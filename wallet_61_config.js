@@ -1,1 +1,1 @@
-var mnemonic = "shop ghost million price immune until divert sing dress nation fork tortoise";
+var mnemonic = "review oven shoe network extend like artefact opinion front stick sun fire";

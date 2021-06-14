@@ -1,1 +1,1 @@
-var mnemonic = "correct blue broken flush warm video frequent wise item close custom layer";
+var mnemonic = "puzzle layer yard course arctic spray good spike solar cage enlist oyster";

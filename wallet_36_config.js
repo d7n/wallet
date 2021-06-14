@@ -1,1 +1,1 @@
-var mnemonic = "better innocent green peasant chef scissors trash blouse shoot own egg popular";
+var mnemonic = "note domain silver stumble glance display pyramid mammal brass agree average pulp";

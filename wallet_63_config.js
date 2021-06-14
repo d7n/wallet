@@ -1,1 +1,1 @@
-var mnemonic = "vote wear axis alcohol reason hungry foil village obscure action hand survey";
+var mnemonic = "unit crisp assault pink shine opinion regret scrap excess hammer glory number";

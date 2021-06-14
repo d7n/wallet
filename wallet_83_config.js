@@ -1,1 +1,1 @@
-var mnemonic = "mercy method rather oil spice genuine top climb select pretty cinnamon tuition";
+var mnemonic = "flee tomato valley aunt robot metal digital express lava use banner danger";

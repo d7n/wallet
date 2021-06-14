@@ -1,1 +1,1 @@
-var mnemonic = "pistol warfare impulse laptop sure sorry glue right citizen scatter glance receive";
+var mnemonic = "evidence citizen curve cash taxi surface angle draft dance joy crumble evoke";

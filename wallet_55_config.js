@@ -1,1 +1,1 @@
-var mnemonic = "flavor eight power popular between prefer fragile giraffe torch fruit peace crew";
+var mnemonic = "gentle busy cousin huge message forget art enroll tortoise salon half gospel";

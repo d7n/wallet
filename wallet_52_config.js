@@ -1,1 +1,1 @@
-var mnemonic = "spend budget banner badge limb merge payment return enter vessel famous violin";
+var mnemonic = "theme supreme excuse angle prefer fringe lift tribe sure long erosion wheat";

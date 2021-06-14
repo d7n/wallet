@@ -1,1 +1,1 @@
-var mnemonic = "trumpet alone oak category zero crystal aunt rude text announce winner cheese";
+var mnemonic = "drift cradle knee always drum fashion snap decrease curtain pledge gate horse";

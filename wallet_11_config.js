@@ -1,1 +1,1 @@
-var mnemonic = "result gossip moment attract ordinary cruel museum very flat warrior cave debris";
+var mnemonic = "side permit clutch remind rough recall one gallery birth tent spread number";

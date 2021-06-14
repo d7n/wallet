@@ -1,1 +1,1 @@
-var mnemonic = "session among estate kitten hazard exercise thrive advance monster spice bench clean";
+var mnemonic = "enact solar teach dune exact skin speed border ivory cruise melt fiber";

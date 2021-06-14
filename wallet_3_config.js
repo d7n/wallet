@@ -1,1 +1,1 @@
-var mnemonic = "magnet page draft ask sort gown repair debris pull bottom coast key";
+var mnemonic = "stadium volume deal fantasy wealth employ omit buddy bubble gaze wrap race";

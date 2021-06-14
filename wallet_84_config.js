@@ -1,1 +1,1 @@
-var mnemonic = "lemon hybrid calm snow drum very maximum charge bone royal people cause";
+var mnemonic = "reduce quit lawn secret grab sing cover quick festival two author dawn";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis soldier plug skill mom system opinion replace frequent reveal habit outside";
+var mnemonic = "arch dash pet fine level magnet rescue sound lizard impact defy private";

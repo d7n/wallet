@@ -1,1 +1,1 @@
-var mnemonic = "best rapid found law treat resemble grocery veteran analyst rate term soup";
+var mnemonic = "success polar menu vanish company across struggle thumb cave tomato chuckle peasant";

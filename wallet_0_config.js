@@ -1,1 +1,1 @@
-var mnemonic = "term undo program verb allow develop tomato wedding copy price rotate choose";
+var mnemonic = "father grain eager negative enter often lesson grid street eager aunt similar";

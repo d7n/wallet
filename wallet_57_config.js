@@ -1,1 +1,1 @@
-var mnemonic = "nuclear movie affair meat paddle subject token cycle answer ghost length build";
+var mnemonic = "catalog add day borrow magic ability toast cycle cigar salute vault avoid";

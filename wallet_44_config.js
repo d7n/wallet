@@ -1,1 +1,1 @@
-var mnemonic = "sport aspect ability reject width wash gun depart table settle buffalo butter";
+var mnemonic = "provide industry valley fresh shove almost dirt ozone hover pear ask glove";

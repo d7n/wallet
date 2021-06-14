@@ -1,1 +1,1 @@
-var mnemonic = "glance dune craft olive ring section fog dash special dry input brush";
+var mnemonic = "ready worry easily game glow auto half fever color resemble basket century";

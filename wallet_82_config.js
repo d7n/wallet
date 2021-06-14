@@ -1,1 +1,1 @@
-var mnemonic = "bean manual coral column phrase retire practice this tiger network powder victory";
+var mnemonic = "steel company payment man window cotton despair syrup order kitchen ridge stove";

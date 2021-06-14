@@ -1,1 +1,1 @@
-var mnemonic = "exile twist utility kiwi march chief foil gasp orange virus bullet betray";
+var mnemonic = "mango write ticket intact enforce convince sting season same pitch way main";

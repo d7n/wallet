@@ -1,1 +1,1 @@
-var mnemonic = "right slim material daughter risk open novel there claim raccoon machine keep";
+var mnemonic = "umbrella right dad address carpet easy hello scatter tuition way rail zoo";

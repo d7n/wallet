@@ -1,1 +1,1 @@
-var mnemonic = "whisper sense health universe skull clever crystal old detect leisure razor car";
+var mnemonic = "rug sugar fun child control garden author already slogan desert loyal hold";

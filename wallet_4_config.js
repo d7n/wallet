@@ -1,1 +1,1 @@
-var mnemonic = "seat scan shield wreck claim sell night glare cloud pause meat clump";
+var mnemonic = "reopen fuel fan front move text page symbol boost core dog close";

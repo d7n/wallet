@@ -1,1 +1,1 @@
-var mnemonic = "area combine dynamic chunk race then trumpet hint broken window usage report";
+var mnemonic = "worry bag record play party betray badge print good winner trial peanut";

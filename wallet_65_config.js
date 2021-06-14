@@ -1,1 +1,1 @@
-var mnemonic = "damage federal shallow local hub boat kangaroo roast digital wrestle phrase thank";
+var mnemonic = "equip limb champion eight estate proud gesture outer wonder meadow suggest sport";

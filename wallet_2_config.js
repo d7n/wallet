@@ -1,1 +1,1 @@
-var mnemonic = "float apology amazing razor obey apart staff prize common advance entire august";
+var mnemonic = "recall depend stereo three mechanic dignity pride parade muffin fiscal relief story";

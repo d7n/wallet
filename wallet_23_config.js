@@ -1,1 +1,1 @@
-var mnemonic = "siren knee ride potato pioneer monkey corn tooth witness veteran oyster weird";
+var mnemonic = "spot distance sadness tragic sting universe scrap fine lion square super improve";

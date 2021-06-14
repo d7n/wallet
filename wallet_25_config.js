@@ -1,1 +1,1 @@
-var mnemonic = "snake square surface finish grocery situate cargo puppy style differ local winter";
+var mnemonic = "frost regret erode title adapt nature grid olive arm flavor body boring";

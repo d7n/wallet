@@ -1,1 +1,1 @@
-var mnemonic = "luxury roof throw screen labor file hidden bread also hero inject prosper";
+var mnemonic = "dash young cable chest stairs betray add razor cruise subway fence give";

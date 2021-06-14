@@ -1,1 +1,1 @@
-var mnemonic = "section inhale champion force slim sauce salad capital inspire robust mistake volcano";
+var mnemonic = "appear duty balcony sample inch impulse great obey bone response domain pupil";

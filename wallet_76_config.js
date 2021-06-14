@@ -1,1 +1,1 @@
-var mnemonic = "warm name dune cover medal aerobic bless select neglect park feel clown";
+var mnemonic = "refuse raise roast wrist bar scorpion also sound monitor main reform humor";

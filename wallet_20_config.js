@@ -1,1 +1,1 @@
-var mnemonic = "claim scout effort width tiny hazard zone lunch arrow cactus sell cry";
+var mnemonic = "analyst tent reward document tongue primary alarm loan clock team farm pear";

@@ -1,1 +1,1 @@
-var mnemonic = "wine wide clerk call surprise injury tongue either sniff entire fly today";
+var mnemonic = "company detect limit nose fold solid great shock dinosaur early abandon drama";

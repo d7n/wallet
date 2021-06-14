@@ -1,1 +1,1 @@
-var mnemonic = "waste evidence cheese city vague border delay genre paddle exhibit session common";
+var mnemonic = "earth gorilla ranch garment suspect total swamp crowd vague blast idle biology";

@@ -1,1 +1,1 @@
-var mnemonic = "claim enhance blush unveil kind virtual grace soup observe pony step lab";
+var mnemonic = "display pluck define ghost party point alcohol purity wish pen stage near";

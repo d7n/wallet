@@ -1,1 +1,1 @@
-var mnemonic = "equal valley great blast glare client bamboo broom area move cause erode";
+var mnemonic = "shiver dirt thunder acid damp citizen swift all power kitchen raise anxiety";

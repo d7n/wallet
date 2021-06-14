@@ -1,1 +1,1 @@
-var mnemonic = "artwork type dry ride kite fatigue violin business peanut useful marine autumn";
+var mnemonic = "install cactus potato peace portion scan travel reopen license nothing judge effort";

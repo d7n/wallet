@@ -1,1 +1,1 @@
-var mnemonic = "solution ritual inherit avoid inner pelican destroy avocado humble century improve typical";
+var mnemonic = "script salmon magnet carry junior embody choice farm now disease conduct input";

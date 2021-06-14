@@ -1,1 +1,1 @@
-var mnemonic = "digital blast rib ribbon hawk stand marble upon taste depth yellow monkey";
+var mnemonic = "token web alone tattoo genuine random whale spice walk bright swamp flee";

@@ -1,1 +1,1 @@
-var mnemonic = "one mass call envelope dinosaur destroy turkey end oppose unhappy ginger clap";
+var mnemonic = "hobby sample dinner traffic because call twenty frown tuition feel behind differ";

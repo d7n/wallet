@@ -1,1 +1,1 @@
-var mnemonic = "trip gain region shrimp wild peasant humor pipe refuse obtain collect soccer";
+var mnemonic = "happy wide media fashion fever beef couple size eternal rare floor solid";

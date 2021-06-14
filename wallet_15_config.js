@@ -1,1 +1,1 @@
-var mnemonic = "lunar uniform public pond daughter blade clip spirit fruit middle already panic";
+var mnemonic = "magnet mention acid giant clap valley ring certain peace tobacco matter gospel";

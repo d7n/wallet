@@ -1,1 +1,1 @@
-var mnemonic = "pulp else seed topple bright endorse evolve pattern version grant sick pause";
+var mnemonic = "infant ten index gift diary green spirit lab same space festival prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "soldier sand place nothing man bicycle swallow custom cabin fiction turkey tragic";
+var mnemonic = "citizen fiction surge blanket neck mean assault wife behind arm above main";

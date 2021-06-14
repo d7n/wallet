@@ -1,1 +1,1 @@
-var mnemonic = "debate twin sadness screen nation pony nature cute exercise random world puzzle";
+var mnemonic = "custom oppose chunk monkey mention need load blade today juice unique hungry";

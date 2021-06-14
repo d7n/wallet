@@ -1,1 +1,1 @@
-var mnemonic = "duty boy quick soup other suggest margin gold same already bus border";
+var mnemonic = "seven infant valve come turtle require arch razor gasp obtain loop dumb";

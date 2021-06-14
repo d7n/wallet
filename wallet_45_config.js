@@ -1,1 +1,1 @@
-var mnemonic = "naive acquire ordinary nephew unaware orient april pig orphan stick frog name";
+var mnemonic = "brown bubble sibling tail ancient claw gentle zebra inject top often myth";

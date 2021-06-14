@@ -1,1 +1,1 @@
-var mnemonic = "undo soccer ribbon cream payment embark evolve luggage satisfy sphere time history";
+var mnemonic = "spread view rural lift bottom bleak shell palm grit execute monkey fish";

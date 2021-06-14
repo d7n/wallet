@@ -1,1 +1,1 @@
-var mnemonic = "siege zoo ivory obvious soft twenty basic over into awful beef walk";
+var mnemonic = "peace bacon average clog hover trigger excuse remember average kitchen attract laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "road egg virus dilemma deputy fitness skin artist wage average swift guitar";
+var mnemonic = "few topic model achieve funny use patient enough execute abuse place rate";

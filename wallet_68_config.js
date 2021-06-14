@@ -1,1 +1,1 @@
-var mnemonic = "february fine cushion city track tide engine bulb surge spend curtain wool";
+var mnemonic = "naive cushion educate trap orchard sell under proof taste coast idea govern";

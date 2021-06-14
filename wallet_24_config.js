@@ -1,1 +1,1 @@
-var mnemonic = "appear current mask notice neutral obtain nut regular badge false palace parent";
+var mnemonic = "double window chunk poet you chunk rescue monkey noise beef soul laundry";

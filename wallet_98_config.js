@@ -1,1 +1,1 @@
-var mnemonic = "define that error need nose lucky fog amount dance such bridge celery";
+var mnemonic = "dial motion spoil fiber rotate shoulder special collect mimic sunset torch mom";

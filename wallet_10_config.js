@@ -1,1 +1,1 @@
-var mnemonic = "wasp uncover space celery consider trust struggle income liquid zone solution level";
+var mnemonic = "moon guard little away model relax age reform loud perfect unlock today";

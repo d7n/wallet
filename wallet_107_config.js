@@ -1,1 +1,1 @@
-var mnemonic = "crystal trend blue dose coyote budget album runway inject vault sugar monster";
+var mnemonic = "future fee negative slide never rose mimic mesh motion dwarf wasp violin";

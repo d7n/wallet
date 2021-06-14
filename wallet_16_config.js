@@ -1,1 +1,1 @@
-var mnemonic = "antenna strong ketchup keep spell talent volume almost tortoise ugly oxygen female";
+var mnemonic = "chuckle because oval apart antique grit worry opera hire battle draw sweet";

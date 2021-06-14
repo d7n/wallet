@@ -1,1 +1,1 @@
-var mnemonic = "general cricket proud deer cross review crawl arrive chef unique frequent bag";
+var mnemonic = "duty movie rhythm vague garment north pudding alcohol clap brisk diesel young";

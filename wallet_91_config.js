@@ -1,1 +1,1 @@
-var mnemonic = "verify eager song museum traffic energy three sight innocent immense flash install";
+var mnemonic = "simple side year coconut educate say quote crater proof polar device suspect";

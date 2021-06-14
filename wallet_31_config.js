@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon symbol material analyst clarify coconut ahead song pass public ribbon upset";
+var mnemonic = "voyage child raccoon drill bird strategy remember garage skirt clock private sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "swap subject spring cook siege armed practice family lobster super shock term";
+var mnemonic = "hospital exhaust furnace eight access circle cushion retire labor scale idle sting";

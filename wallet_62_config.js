@@ -1,1 +1,1 @@
-var mnemonic = "smoke carry follow pear phone life atom topic index forget practice street";
+var mnemonic = "fruit choice celery food brief credit soft enough liberty actor jealous country";

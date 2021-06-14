@@ -1,1 +1,1 @@
-var mnemonic = "remain shed buddy surge engage cabbage web foster law radar media rude";
+var mnemonic = "hockey little winter account quote kitten retire grape flag still whip coral";

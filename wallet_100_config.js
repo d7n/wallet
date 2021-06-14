@@ -1,1 +1,1 @@
-var mnemonic = "confirm end neither blossom steak nurse spoon away paddle hamster brass person";
+var mnemonic = "guard old ill marriage gasp sphere embody march brick cloth girl fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar sure ski artefact welcome quality solution behave autumn tortoise song explain";
+var mnemonic = "media zoo test sell age crunch cry chronic require radar coconut odor";

@@ -1,1 +1,1 @@
-var mnemonic = "food fringe scan portion clog hungry cinnamon text wet indoor couch dose";
+var mnemonic = "suspect such borrow boat simple track purpose want enjoy sibling final tray";

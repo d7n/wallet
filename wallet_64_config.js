@@ -1,1 +1,1 @@
-var mnemonic = "ride practice train present noble inject usage chef govern absent nest render";
+var mnemonic = "lonely release either valve snack athlete brisk panic nation bus essay tribe";

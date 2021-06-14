@@ -1,1 +1,1 @@
-var mnemonic = "bench kitchen disorder marine often year tornado ranch broom network usage crater";
+var mnemonic = "junk uncover minimum corn ignore fame actress valid hollow market wheat horse";

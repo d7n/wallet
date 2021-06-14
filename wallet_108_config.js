@@ -1,1 +1,1 @@
-var mnemonic = "stock exist vivid cloth bamboo wagon broccoli thank spin coyote budget choice";
+var mnemonic = "unit grit equip loud learn virus explain bitter butter rich pluck word";
