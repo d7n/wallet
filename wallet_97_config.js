@@ -1,1 +1,1 @@
-var mnemonic = "laundry depth idea tiger debate rhythm dignity chuckle short tomorrow pulp alcohol";
+var mnemonic = "very acquire own observe pig toward diagram chimney better basic palace faith";

@@ -1,1 +1,1 @@
-var mnemonic = "age carpet lizard suspect uniform nothing board engage census upon notable educate";
+var mnemonic = "under clerk erosion flag illegal original valley next frog face knife radar";

@@ -1,1 +1,1 @@
-var mnemonic = "sound consider sport fly economy shoulder cotton pepper celery arrange abandon next";
+var mnemonic = "demand retire smart erode solar express expire slender trouble solve tuition brass";

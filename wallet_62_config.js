@@ -1,1 +1,1 @@
-var mnemonic = "pencil style mixed cricket omit provide dream mansion owner tobacco usual unit";
+var mnemonic = "laundry time broccoli program crush horn erupt venture require agent exist type";

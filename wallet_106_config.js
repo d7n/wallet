@@ -1,1 +1,1 @@
-var mnemonic = "salute improve unveil crucial menu glance rib axis snake evidence exhaust couple";
+var mnemonic = "excite blush enough hard sunset trash bring glare letter balcony barrel cereal";

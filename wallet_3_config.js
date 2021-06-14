@@ -1,1 +1,1 @@
-var mnemonic = "usual later galaxy pencil cabbage almost favorite maze term false aerobic eight";
+var mnemonic = "tennis alley inflict health scale predict awake affair grape fury install donate";

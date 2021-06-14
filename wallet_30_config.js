@@ -1,1 +1,1 @@
-var mnemonic = "equip detect valley list panda bullet powder come slide blast person bus";
+var mnemonic = "ramp hair owner april menu fruit plate noble that identify surround wash";

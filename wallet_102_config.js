@@ -1,1 +1,1 @@
-var mnemonic = "runway vessel silver picnic bind lava letter pilot video length gesture drip";
+var mnemonic = "claw nephew lobster labor define poverty forest liberty sentence excuse maze issue";

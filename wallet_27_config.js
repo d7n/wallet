@@ -1,1 +1,1 @@
-var mnemonic = "gun scare desert sound same admit humor coil target reflect better glue";
+var mnemonic = "flip large chair mammal eternal salad trim flag utility rib attract capable";

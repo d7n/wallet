@@ -1,1 +1,1 @@
-var mnemonic = "reveal danger better speak draw never stuff appear code mountain normal orange";
+var mnemonic = "yard rent loan silver struggle blush tide federal finger recipe dolphin dawn";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney material rich bind little exercise pepper foot dolphin cash blanket firm";
+var mnemonic = "host citizen control clog element couple accident tired achieve lunch desk jar";

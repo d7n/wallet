@@ -1,1 +1,1 @@
-var mnemonic = "hidden clock lounge guitar pony junk core scare dust math item swap";
+var mnemonic = "draw pave brass swim accident claw need brother chimney exercise visual valve";

@@ -1,1 +1,1 @@
-var mnemonic = "large patch image debris skin armor neglect require license document daughter spot";
+var mnemonic = "science shoe buzz balcony dress move mule obvious fly script marriage derive";

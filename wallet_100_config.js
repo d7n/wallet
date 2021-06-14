@@ -1,1 +1,1 @@
-var mnemonic = "brisk net faint wall client damp social left found fun kingdom gym";
+var mnemonic = "host fatigue science oil napkin erode fortune extend replace anger fall decade";

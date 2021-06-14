@@ -1,1 +1,1 @@
-var mnemonic = "order diamond defense business tip nation follow category file photo obtain juice";
+var mnemonic = "proof shy cancel recipe diesel remain toast ranch horn miracle boss crunch";

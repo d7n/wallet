@@ -1,1 +1,1 @@
-var mnemonic = "employ vital hedgehog intact width reason defense search twin decrease flag bar";
+var mnemonic = "fly dice predict puppy wrestle expect among begin biology hedgehog mad nothing";

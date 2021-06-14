@@ -1,1 +1,1 @@
-var mnemonic = "effort label slot illness nest forward van maximum increase leader blush brave";
+var mnemonic = "betray naive coach giraffe sheriff mesh foster rocket gown little chuckle forum";

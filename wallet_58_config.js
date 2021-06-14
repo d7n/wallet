@@ -1,1 +1,1 @@
-var mnemonic = "crew valve ensure need skill retreat cousin measure act apart spatial quantum";
+var mnemonic = "sketch usage humble load arrow define verb canyon zone fiction clean invest";

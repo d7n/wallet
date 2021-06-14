@@ -1,1 +1,1 @@
-var mnemonic = "electric trade sadness toy cruel young novel cheese clarify caught state coil";
+var mnemonic = "retire volume cloth gasp census hybrid way decide wheel artefact mango gadget";

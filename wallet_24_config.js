@@ -1,1 +1,1 @@
-var mnemonic = "crater logic olympic alpha protect blame spell hungry spray increase require auction";
+var mnemonic = "detect buyer next trust cup forget column spot guilt climb festival fever";

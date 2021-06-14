@@ -1,1 +1,1 @@
-var mnemonic = "review skin wild sibling sister delay direct island journey design lamp argue";
+var mnemonic = "boost south soup voice spend soul small topple excuse right social scorpion";

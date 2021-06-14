@@ -1,1 +1,1 @@
-var mnemonic = "small win inhale debate rough apology use predict myself action bicycle curve";
+var mnemonic = "pumpkin actual direct tone moment honey rapid behind exotic boil move congress";

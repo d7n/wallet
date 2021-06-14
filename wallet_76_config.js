@@ -1,1 +1,1 @@
-var mnemonic = "urban minute valid regular snake alpha want kind crumble diet silk hour";
+var mnemonic = "leisure plug voyage input learn flame busy curtain toward burden skate tunnel";

@@ -1,1 +1,1 @@
-var mnemonic = "love memory genuine wage purchase increase expire kangaroo noodle unveil interest travel";
+var mnemonic = "donor cable sock trade chuckle spoil deliver spy remember disease fiber abstract";

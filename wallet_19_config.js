@@ -1,1 +1,1 @@
-var mnemonic = "siren avoid opera case vocal certain door tobacco veteran erupt nose private";
+var mnemonic = "six shrimp vicious shoulder zero season unique upper process permit flower dune";

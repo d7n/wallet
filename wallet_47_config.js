@@ -1,1 +1,1 @@
-var mnemonic = "timber depend duty dignity hello ridge duck tell recall share stuff maple";
+var mnemonic = "tide panda machine attitude where deliver daughter lottery shell super tuition genre";

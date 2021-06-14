@@ -1,1 +1,1 @@
-var mnemonic = "accuse labor swamp favorite kiwi quality almost leisure turn energy settle neither";
+var mnemonic = "sponsor town domain harsh tape toddler dinosaur pole before joke remind chief";

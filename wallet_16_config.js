@@ -1,1 +1,1 @@
-var mnemonic = "hotel pistol you route cargo guide retreat upper whale provide yellow drift";
+var mnemonic = "balcony hurry point exclude main ceiling trophy title gentle arrive letter mail";

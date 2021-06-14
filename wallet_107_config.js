@@ -1,1 +1,1 @@
-var mnemonic = "tiger blanket broccoli pepper mango glare ordinary whisper network fire myself then";
+var mnemonic = "olympic mechanic endless horror bronze vote fluid this guard income solid photo";

@@ -1,1 +1,1 @@
-var mnemonic = "connect grant kangaroo armor monster vanish mystery very planet key jump circle";
+var mnemonic = "escape protect crash mad brave orchard dust mother trip insane scan wear";

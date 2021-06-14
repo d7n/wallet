@@ -1,1 +1,1 @@
-var mnemonic = "man fringe enlist echo tone oxygen guitar stable labor piano sister vault";
+var mnemonic = "merit rice often give junior human over conduct color victory walnut present";

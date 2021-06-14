@@ -1,1 +1,1 @@
-var mnemonic = "deer wine fossil giraffe task limit wood check obvious claim auction amount";
+var mnemonic = "sense rival online salmon fee please age affair loud hand cute satisfy";

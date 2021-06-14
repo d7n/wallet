@@ -1,1 +1,1 @@
-var mnemonic = "sound now dune cheese charge swing square photo call try ignore quantum";
+var mnemonic = "pool elegant exhaust wage turtle easily mind angry drill select priority early";

@@ -1,1 +1,1 @@
-var mnemonic = "airport machine impose deny bamboo banana stereo praise midnight mail focus deliver";
+var mnemonic = "pledge decrease husband put cave season chunk rigid craft unveil team forget";

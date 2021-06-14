@@ -1,1 +1,1 @@
-var mnemonic = "regret diamond gossip butter satisfy trash mind toss caught over lens country";
+var mnemonic = "swallow danger person salmon govern area outside extend visit name tragic farm";

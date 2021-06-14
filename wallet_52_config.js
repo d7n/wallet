@@ -1,1 +1,1 @@
-var mnemonic = "phone ketchup bullet gap pass slender tiny clean rifle hamster apology fabric";
+var mnemonic = "thing sustain beauty iron common churn unaware primary afraid omit garment upgrade";

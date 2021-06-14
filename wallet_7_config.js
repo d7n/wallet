@@ -1,1 +1,1 @@
-var mnemonic = "scare alien strategy rifle club soccer spice knock yellow chaos any snake";
+var mnemonic = "salad ancient expire waste chicken castle match dice sort pair mystery spend";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar pull devote cushion extend frequent nothing panda glare knife amount pistol";
+var mnemonic = "world mouse swift enough federal inspire scorpion end dumb earth chicken boost";

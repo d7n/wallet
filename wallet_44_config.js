@@ -1,1 +1,1 @@
-var mnemonic = "sail melt bean boss carpet miss under enlist divorce obey carbon envelope";
+var mnemonic = "destroy adapt dinosaur client tortoise offer fold elbow myself foam cigar decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble nice day camera way ring jeans advance gun rib reject winner";
+var mnemonic = "clap ten boil witness wash select artefact actual input film lunch surround";

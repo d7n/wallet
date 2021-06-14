@@ -1,1 +1,1 @@
-var mnemonic = "depth fine aspect parent cotton list math camera increase calm flip prison";
+var mnemonic = "top stand patch toilet mad accuse below iron snap flash cart crucial";

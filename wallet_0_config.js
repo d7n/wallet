@@ -1,1 +1,1 @@
-var mnemonic = "manual recall sister item announce unlock child permit this valley unable fence";
+var mnemonic = "body host share neck else limb rug luggage shield error night roof";

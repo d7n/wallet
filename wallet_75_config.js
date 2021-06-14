@@ -1,1 +1,1 @@
-var mnemonic = "increase erode until wood forward dirt movie tower direct column riot tumble";
+var mnemonic = "tennis pull window split group vacant address tuna sword service add special";

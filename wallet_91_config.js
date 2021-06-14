@@ -1,1 +1,1 @@
-var mnemonic = "cradle solar brave blast author chief salt beauty into myth oxygen settle";
+var mnemonic = "very blade father diet curious coast swim outdoor result cat umbrella stay";

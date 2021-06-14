@@ -1,1 +1,1 @@
-var mnemonic = "expose bonus shiver until guess attitude hedgehog furnace tail symptom garment clock";
+var mnemonic = "rally potato hire glory increase axis garlic board topic such turn topic";

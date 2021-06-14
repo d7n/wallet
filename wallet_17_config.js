@@ -1,1 +1,1 @@
-var mnemonic = "spatial entry million garden exclude journey parade trophy dutch satoshi expire daring";
+var mnemonic = "solve cart genius noble atom taxi face cherry huge sketch giggle exclude";

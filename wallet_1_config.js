@@ -1,1 +1,1 @@
-var mnemonic = "rare clump tragic gorilla three fine question believe any assume early evidence";
+var mnemonic = "thought pudding chapter raise brain topic deer border draft process own notice";

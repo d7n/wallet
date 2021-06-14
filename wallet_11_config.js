@@ -1,1 +1,1 @@
-var mnemonic = "dry magic agree tomato april creek net equal age waste right position";
+var mnemonic = "fog balcony solve hundred empower gas high purpose grit ready aunt disorder";

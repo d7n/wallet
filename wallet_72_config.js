@@ -1,1 +1,1 @@
-var mnemonic = "shaft rookie arm mercy switch coffee oval hamster surface pilot peanut repeat";
+var mnemonic = "because foster around horror connect action force shop hurry path ecology immense";

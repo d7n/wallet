@@ -1,1 +1,1 @@
-var mnemonic = "ceiling limb ladder trumpet obtain fiber gravity grunt warm life robot easy";
+var mnemonic = "valid era across perfect nephew caught cube still major student hammer scorpion";

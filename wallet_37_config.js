@@ -1,1 +1,1 @@
-var mnemonic = "barrel economy absurd raccoon oval submit pitch stick surface solve breeze left";
+var mnemonic = "dose dress wood lava perfect celery student omit poet century turkey explain";

@@ -1,1 +1,1 @@
-var mnemonic = "nature weekend team essay actress beyond forum urban author mimic bar limb";
+var mnemonic = "smoke gift royal crop cake raw real matrix bench offer speed exclude";

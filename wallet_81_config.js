@@ -1,1 +1,1 @@
-var mnemonic = "toy trigger ignore title park cart sleep tortoise below leopard letter spoon";
+var mnemonic = "essence venture price vault kind cup prosper trash ladder clump young upset";

@@ -1,1 +1,1 @@
-var mnemonic = "family aisle essay supply rose network exclude gift adjust unusual scrap answer";
+var mnemonic = "joy taxi owner family stand merit usage loyal series guitar sort medal";

@@ -1,1 +1,1 @@
-var mnemonic = "park cannon float matrix topic sell draw slow second demise siren shield";
+var mnemonic = "filter rescue diet abandon before mushroom ocean debate blouse leaf reunion pilot";

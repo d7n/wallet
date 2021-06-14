@@ -1,1 +1,1 @@
-var mnemonic = "naive select bonus away capable chapter start upgrade little balance stereo crouch";
+var mnemonic = "item nasty wish cry liberty access audit develop gift holiday zero pony";

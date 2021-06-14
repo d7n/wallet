@@ -1,1 +1,1 @@
-var mnemonic = "relax afraid imitate unknown token inject session bracket matter pass utility van";
+var mnemonic = "must have dignity east void leave sell toy prepare gaze spin shoot";

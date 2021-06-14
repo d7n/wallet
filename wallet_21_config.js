@@ -1,1 +1,1 @@
-var mnemonic = "powder cash focus pioneer embody flat delay view vital inmate insect outer";
+var mnemonic = "category coil dynamic eternal corn fatigue copper forum doll whip innocent soon";

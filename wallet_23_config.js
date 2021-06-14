@@ -1,1 +1,1 @@
-var mnemonic = "glance float book flavor material cherry skin problem people hotel era still";
+var mnemonic = "biology bus liquid bus stairs genius heavy glimpse traffic jelly eagle crisp";

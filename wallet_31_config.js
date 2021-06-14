@@ -1,1 +1,1 @@
-var mnemonic = "little puppy journey suffer crucial gas poem face job post long curious";
+var mnemonic = "truly casino era mouse crater chaos hole sheriff wonder truck ketchup together";

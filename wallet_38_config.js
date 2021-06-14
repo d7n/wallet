@@ -1,1 +1,1 @@
-var mnemonic = "theory illness swarm relax bean stool onion people chronic brass duck song";
+var mnemonic = "flower task worry size suit enrich notice alter use comic tube broken";

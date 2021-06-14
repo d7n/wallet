@@ -1,1 +1,1 @@
-var mnemonic = "release canyon olive trial obscure install away special science derive sing impact";
+var mnemonic = "blush journey era inflict tooth current uncover dwarf business good thought stumble";

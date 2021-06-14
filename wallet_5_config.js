@@ -1,1 +1,1 @@
-var mnemonic = "work shaft laundry drop salad harsh raven unfair explain three leader neutral";
+var mnemonic = "gravity trade region creek pattern detail shop news fatigue wire tenant cash";

@@ -1,1 +1,1 @@
-var mnemonic = "area theory will differ cannon scorpion oak urban conduct any midnight fever";
+var mnemonic = "pool twenty version smoke much seat sort crucial village fresh mechanic vote";

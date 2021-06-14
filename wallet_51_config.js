@@ -1,1 +1,1 @@
-var mnemonic = "answer tray first connect response illness slim magic captain cash snap cook";
+var mnemonic = "credit chalk want soldier trouble soda own valve service lesson warfare describe";

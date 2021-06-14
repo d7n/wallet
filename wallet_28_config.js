@@ -1,1 +1,1 @@
-var mnemonic = "solve entry avoid answer uniform load scale sausage photo twice piano push";
+var mnemonic = "dove picture engine child trade child elite truly just clay defy juice";

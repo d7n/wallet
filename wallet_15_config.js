@@ -1,1 +1,1 @@
-var mnemonic = "gospel reduce noise spread virtual drum this boat parent jungle assist easy";
+var mnemonic = "lady enrich apart entry proof lumber caution minimum observe hundred purse audit";

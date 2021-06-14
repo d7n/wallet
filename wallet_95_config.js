@@ -1,1 +1,1 @@
-var mnemonic = "island cabbage cloth paddle scan monkey cabbage various perfect stem protect rural";
+var mnemonic = "juice fiber car rent drastic crack tag proud acoustic rain summer harvest";

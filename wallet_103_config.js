@@ -1,1 +1,1 @@
-var mnemonic = "glance fever word flavor gap usual pottery witness protect cup peace wage";
+var mnemonic = "airport velvet neglect put object arena limb social satoshi pet panther morning";

@@ -1,1 +1,1 @@
-var mnemonic = "skill great merry decorate buzz scorpion tone dragon around end curve adult";
+var mnemonic = "exchange kick during destroy party tired truth govern major goat mercy frown";

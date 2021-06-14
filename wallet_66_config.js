@@ -1,1 +1,1 @@
-var mnemonic = "security require lab eyebrow tilt salmon weather company legal black enough move";
+var mnemonic = "clog forest post hospital gesture fashion talent wet enforce dumb carbon please";

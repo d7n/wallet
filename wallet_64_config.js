@@ -1,1 +1,1 @@
-var mnemonic = "divert prefer among vacant link aisle food hood federal metal broccoli artist";
+var mnemonic = "shove gap cricket connect estate shallow attract kind mad have chef view";

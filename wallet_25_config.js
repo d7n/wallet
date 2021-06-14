@@ -1,1 +1,1 @@
-var mnemonic = "depend provide govern economy sponsor brain various toilet fix make forum sentence";
+var mnemonic = "trash soon pool filter flight edit length reason online taste song lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft mad arrange flame anxiety clutch minor piano general neck kidney fix";
+var mnemonic = "naive punch permit few leopard corn gap robot chase lamp unhappy wolf";

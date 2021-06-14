@@ -1,1 +1,1 @@
-var mnemonic = "private anxiety visual carpet giggle sting tape east parrot skill network scissors";
+var mnemonic = "piano lazy magic notable defense online nurse bracket level pretty hour vicious";

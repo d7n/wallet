@@ -1,1 +1,1 @@
-var mnemonic = "vicious rose because industry attitude curtain powder hope merry enact truth helmet";
+var mnemonic = "action army travel blur twelve surround glance auction priority sphere rate fortune";

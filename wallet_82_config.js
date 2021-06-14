@@ -1,1 +1,1 @@
-var mnemonic = "magic must together universe zone analyst wing web extra gun scare column";
+var mnemonic = "advance dose excuse economy focus result click erosion syrup clock brain only";

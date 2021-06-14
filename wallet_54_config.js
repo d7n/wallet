@@ -1,1 +1,1 @@
-var mnemonic = "neutral isolate when foot child wheat clap slim kick oyster clock fold";
+var mnemonic = "enrich amount limit symptom speak universe feed blossom bird speed dust work";

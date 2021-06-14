@@ -1,1 +1,1 @@
-var mnemonic = "toss gadget indicate mom real crater click step panel enhance kidney fever";
+var mnemonic = "screen idle enough permit maple surface risk shoulder lunch emotion hobby rather";

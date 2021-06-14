@@ -1,1 +1,1 @@
-var mnemonic = "random grunt super champion canvas fever symbol basket decorate symbol evidence surge";
+var mnemonic = "glass credit submit else sibling rally oxygen document offer now check loyal";

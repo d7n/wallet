@@ -1,1 +1,1 @@
-var mnemonic = "vital escape exchange focus measure slow cream shrug tree spike planet punch";
+var mnemonic = "circle still forward library brain evoke minimum vague hire february exact tortoise";

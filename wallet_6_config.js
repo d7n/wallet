@@ -1,1 +1,1 @@
-var mnemonic = "habit idle cross coral eager concert sniff message utility labor sheriff wonder";
+var mnemonic = "grant relief soft engage popular gaze ability sugar cabbage fresh business truth";

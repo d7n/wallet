@@ -1,1 +1,1 @@
-var mnemonic = "outside dilemma kangaroo net student sudden cup speed ripple risk pull violin";
+var mnemonic = "buffalo soccer wild warfare curious demise harsh achieve exotic scrap enrich practice";

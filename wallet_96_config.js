@@ -1,1 +1,1 @@
-var mnemonic = "cement travel head rice sun clever truck camera error can soccer breeze";
+var mnemonic = "theory month spoil gift key bean manage unable spatial ankle mad primary";

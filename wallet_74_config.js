@@ -1,1 +1,1 @@
-var mnemonic = "siren earth family peanut doctor hint parent market mansion when table tongue";
+var mnemonic = "exotic become nurse health noodle fatigue attend pink veteran popular worry honey";

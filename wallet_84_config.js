@@ -1,1 +1,1 @@
-var mnemonic = "hope pluck cattle opinion uncover write dial slush mandate cart kit base";
+var mnemonic = "gather avocado salmon brick empower absurd pink juice brief stool helmet smoke";

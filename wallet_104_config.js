@@ -1,1 +1,1 @@
-var mnemonic = "marine select loud sample medal mesh sphere round rule rule chicken across";
+var mnemonic = "sting chunk amazing plate dynamic tilt destroy coach sauce kitten pride prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "tree water romance chest course embark version they kid random text plug";
+var mnemonic = "uphold crush jacket clean fly leisure thunder sick pull enact huge stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "bike video chair acid poet pistol hub light ticket airport simple column";
+var mnemonic = "valid inject pilot grow wing once certain delay oyster afraid cluster wrestle";

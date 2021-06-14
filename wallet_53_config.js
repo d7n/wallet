@@ -1,1 +1,1 @@
-var mnemonic = "nest identify proof decline banner option wedding pattern trigger warfare august trash";
+var mnemonic = "tennis hurry ticket about distance camera globe awake hope off dolphin access";

@@ -1,1 +1,1 @@
-var mnemonic = "extend art trend century sight best wrap second return radar forest vanish";
+var mnemonic = "rescue poverty forward detail genius upon rigid expose run brand visit eager";

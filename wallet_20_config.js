@@ -1,1 +1,1 @@
-var mnemonic = "nose crew cream dwarf light tray mask naive come oxygen feed avocado";
+var mnemonic = "boil father access nature moral age stuff pond excuse agree garlic govern";

@@ -1,1 +1,1 @@
-var mnemonic = "blood fresh wheat yard cream inner castle crawl bean flee spatial convince";
+var mnemonic = "gauge network mandate business tooth bind task goat fetch usual vast beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "frost slow slight thought limit zebra since verb shoe unveil idle palace";
+var mnemonic = "ostrich elevator anchor quiz spoil coin key detect pull lumber rebuild term";

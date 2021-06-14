@@ -1,1 +1,1 @@
-var mnemonic = "text fragile swift opera method effort devote daughter belt balcony chunk luggage";
+var mnemonic = "decade genius library yard other ask swear cook asthma mixed dress walnut";

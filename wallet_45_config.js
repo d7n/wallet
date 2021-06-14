@@ -1,1 +1,1 @@
-var mnemonic = "spawn vibrant success vessel rookie purpose wing ability high soon answer curve";
+var mnemonic = "logic squeeze firm palm noodle gospel uncover cinnamon false basket elite crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "alley again weather flame unit hope manage excite cube simple cloth short";
+var mnemonic = "excite physical desk agree hollow civil flavor trust atom chicken alley slush";

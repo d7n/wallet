@@ -1,1 +1,1 @@
-var mnemonic = "meat faint option fury citizen assist dance hurdle position pencil music satoshi";
+var mnemonic = "fringe tumble famous bonus cluster love dial hero flush swarm hold flush";

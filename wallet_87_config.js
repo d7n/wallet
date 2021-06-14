@@ -1,1 +1,1 @@
-var mnemonic = "disease physical celery antenna coral project hover kitchen this course blue submit";
+var mnemonic = "buyer iron ring phrase scissors upgrade rude logic promote lock weapon margin";

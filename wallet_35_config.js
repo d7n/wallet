@@ -1,1 +1,1 @@
-var mnemonic = "sell bulk dial print sample cradle simple promote edge hammer horse broom";
+var mnemonic = "advance library oblige divide resource draw office lava luggage rhythm sister angle";

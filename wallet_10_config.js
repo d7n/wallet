@@ -1,1 +1,1 @@
-var mnemonic = "grab gallery now amused feature salt chapter pioneer because say join income";
+var mnemonic = "train indoor rapid sorry zero carry survey before topple enroll afraid raccoon";

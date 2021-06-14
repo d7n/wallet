@@ -1,1 +1,1 @@
-var mnemonic = "shoulder blood damage dish banner cricket fan solve domain type under noise";
+var mnemonic = "file rifle south donor exhaust eternal knock head device engage tape bomb";
