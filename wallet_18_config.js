@@ -1,1 +1,1 @@
-var mnemonic = "guess remind holiday hole scissors live cute wage marble knee ball strategy";
+var mnemonic = "debate woman engage object fetch sponsor year warm chronic replace sibling fiber";

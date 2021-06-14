@@ -1,1 +1,1 @@
-var mnemonic = "match royal ankle allow remain check endless north view season spray return";
+var mnemonic = "either rule cry major exit approve because caught slender only arrow sure";

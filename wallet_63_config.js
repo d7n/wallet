@@ -1,1 +1,1 @@
-var mnemonic = "glue clarify waste swear drink economy rug before devote flock until purse";
+var mnemonic = "police input program tortoise lift blouse impulse city warfare always chuckle hazard";

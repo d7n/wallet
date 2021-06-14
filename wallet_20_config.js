@@ -1,1 +1,1 @@
-var mnemonic = "journey rather shop earth fade skate borrow diet reflect borrow valve super";
+var mnemonic = "bridge link clip nephew picture sun extra asset rotate voyage fire violin";

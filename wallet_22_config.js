@@ -1,1 +1,1 @@
-var mnemonic = "neck smooth faith stairs advice settle pair woman tone impose tone ketchup";
+var mnemonic = "media ten winter tackle october tragic remain inherit label furnace result assault";

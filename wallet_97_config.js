@@ -1,1 +1,1 @@
-var mnemonic = "pitch alone elbow garment theory nominee west voice stay enemy solar royal";
+var mnemonic = "crisp raccoon december stone language great version accuse width vague lion tired";

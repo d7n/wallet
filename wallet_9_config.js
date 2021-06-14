@@ -1,1 +1,1 @@
-var mnemonic = "upper multiply cabin round home fitness measure more prefer category jaguar tower";
+var mnemonic = "evoke crunch play orient man letter neglect vapor code skirt weekend suffer";

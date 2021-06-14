@@ -1,1 +1,1 @@
-var mnemonic = "nature never gym lunch tunnel vocal tomorrow fun cube gaze lunch feature";
+var mnemonic = "easy curtain surface dance quick ask giant dutch gallery exit little stand";

@@ -1,1 +1,1 @@
-var mnemonic = "clap north ready novel immense giggle decline simple clever belt layer conduct";
+var mnemonic = "path bright garment promote math matter empower appear alone frame skate shove";

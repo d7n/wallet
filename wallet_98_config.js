@@ -1,1 +1,1 @@
-var mnemonic = "garlic school day velvet force regret entire whale scrub crime reduce pledge";
+var mnemonic = "payment inmate tenant check enough wire tiger figure subway walnut please shy";

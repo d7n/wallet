@@ -1,1 +1,1 @@
-var mnemonic = "science acquire damp print fix few route vast canal neither decade sunny";
+var mnemonic = "novel grace boring narrow assist movie copper jacket move cannon message barely";

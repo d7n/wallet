@@ -1,1 +1,1 @@
-var mnemonic = "render remove bamboo woman stay ice window rapid only satoshi digital stay";
+var mnemonic = "law law canvas pear slogan pencil alley tool uncle amount cover tape";

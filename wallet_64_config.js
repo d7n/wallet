@@ -1,1 +1,1 @@
-var mnemonic = "humor someone giggle merge reduce sunset salute sound sauce rich metal grunt";
+var mnemonic = "primary ski guide cabbage minute hospital endless glow display elite organ ridge";

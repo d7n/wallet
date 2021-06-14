@@ -1,1 +1,1 @@
-var mnemonic = "easily jewel hover spring surprise venue eager unable auto ivory evolve grocery";
+var mnemonic = "soon core forget index sibling clap merit float little pave gentle lunch";

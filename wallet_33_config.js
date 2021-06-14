@@ -1,1 +1,1 @@
-var mnemonic = "embark desk coral gaze history siege recycle eyebrow poverty promote world avoid";
+var mnemonic = "maid next unaware cream science pupil gap snack wolf rough ankle armed";

@@ -1,1 +1,1 @@
-var mnemonic = "blame bulb coach chef pipe injury absent now doctor toddler plug iron";
+var mnemonic = "addict gorilla hockey bench voice awake boil aspect east ancient banana draft";

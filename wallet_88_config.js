@@ -1,1 +1,1 @@
-var mnemonic = "little inform ethics thumb square board fortune usual lift summer shop tragic";
+var mnemonic = "ride video leader network stay mask tower lunar mosquito awkward vote crack";

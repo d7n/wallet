@@ -1,1 +1,1 @@
-var mnemonic = "live page awake cattle begin miss entry grief audit bounce distance intact";
+var mnemonic = "eyebrow famous typical parade useless enable traffic apart tape creek opera trigger";

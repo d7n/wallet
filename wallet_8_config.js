@@ -1,1 +1,1 @@
-var mnemonic = "shoe room detect genuine sustain require maple unfold satisfy reason sudden decline";
+var mnemonic = "prison certain hope pole worry shaft fun vessel price supply harsh input";

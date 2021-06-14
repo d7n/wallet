@@ -1,1 +1,1 @@
-var mnemonic = "grace jewel hurt round unhappy idle evolve age hunt rhythm sunset expose";
+var mnemonic = "moral draft recycle crucial answer alcohol ecology hospital prosper alpha canyon narrow";

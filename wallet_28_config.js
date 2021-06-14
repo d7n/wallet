@@ -1,1 +1,1 @@
-var mnemonic = "gather blossom market mesh globe lemon mom doll long story invite column";
+var mnemonic = "oblige hand side increase cause problem share around merry giggle prefer main";

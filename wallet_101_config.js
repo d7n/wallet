@@ -1,1 +1,1 @@
-var mnemonic = "female dragon inject barrel weird torch ride next easy galaxy give funny";
+var mnemonic = "oyster dad increase frown frown tomato humor town marble alpha play initial";

@@ -1,1 +1,1 @@
-var mnemonic = "poet wise cradle asset quick invest canoe keen blossom laundry like merge";
+var mnemonic = "bonus regular slush sell dinner scorpion help error teach novel only mad";

@@ -1,1 +1,1 @@
-var mnemonic = "original timber spell extra bonus powder wait despair cross shoe heavy long";
+var mnemonic = "age develop more neutral because depart street permit must reform abandon twin";

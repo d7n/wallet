@@ -1,1 +1,1 @@
-var mnemonic = "lava exchange save swing copper inch athlete practice bone session model sketch";
+var mnemonic = "delay enrich used rain client stairs enhance crash crew thrive strike glass";

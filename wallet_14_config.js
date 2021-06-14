@@ -1,1 +1,1 @@
-var mnemonic = "glare analyst kitten grief palm judge make okay title either north warfare";
+var mnemonic = "whip web drum spirit wine clinic eight sound hint used laundry canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "joy recipe actress spice track mesh attitude post metal feature exhibit state";
+var mnemonic = "erode rapid apology bar faith suit honey need detect hamster donkey mango";

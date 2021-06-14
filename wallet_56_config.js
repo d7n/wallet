@@ -1,1 +1,1 @@
-var mnemonic = "learn fresh arrange danger example foster pledge raise school escape rocket clown";
+var mnemonic = "woman shine tree vehicle vote chief switch palm correct thrive nerve train";

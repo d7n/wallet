@@ -1,1 +1,1 @@
-var mnemonic = "consider undo diagram champion feel evolve puzzle trial hobby fragile velvet almost";
+var mnemonic = "wait grief tail limit elephant novel myself salmon argue enough coil speed";

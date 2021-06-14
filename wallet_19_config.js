@@ -1,1 +1,1 @@
-var mnemonic = "old response alter jewel special awful wife problem thing ready hip claim";
+var mnemonic = "space kangaroo planet casual course swift noodle illegal refuse spare shoulder empty";

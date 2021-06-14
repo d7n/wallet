@@ -1,1 +1,1 @@
-var mnemonic = "piano lunch response such cost heavy fetch spell leg stamp stand error";
+var mnemonic = "heavy example leave desk cabbage repeat risk tomorrow moon leopard scout must";

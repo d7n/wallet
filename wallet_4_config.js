@@ -1,1 +1,1 @@
-var mnemonic = "water pigeon verb truck ahead scout ordinary cave upgrade salute mean cinnamon";
+var mnemonic = "express arena couple lecture crawl elder envelope echo gold scout vivid ancient";

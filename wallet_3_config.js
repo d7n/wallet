@@ -1,1 +1,1 @@
-var mnemonic = "few middle addict ball double potato shaft sure edit example yard gallery";
+var mnemonic = "pilot stumble believe talk video develop shoot noodle charge sauce include kick";

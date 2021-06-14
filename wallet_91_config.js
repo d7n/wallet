@@ -1,1 +1,1 @@
-var mnemonic = "dismiss pattern mushroom kidney brush maple volume offer region six swift affair";
+var mnemonic = "floor despair raccoon much tilt riot busy treat water surge split train";

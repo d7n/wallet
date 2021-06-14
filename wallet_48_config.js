@@ -1,1 +1,1 @@
-var mnemonic = "example quote virus boat private ivory defy bacon air sound key board";
+var mnemonic = "asset imitate quantum bird sphere notable slam water win tomorrow pond air";

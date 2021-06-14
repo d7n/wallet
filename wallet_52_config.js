@@ -1,1 +1,1 @@
-var mnemonic = "cancel usage appear fiber proof random square couch click shock coast kiss";
+var mnemonic = "bean winter audit fossil clock side mechanic song mule human bomb wait";

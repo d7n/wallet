@@ -1,1 +1,1 @@
-var mnemonic = "welcome leader network final spread atom snack arch frozen inherit buyer conduct";
+var mnemonic = "across dawn image parade blind fall obtain bulk detect used pulp nation";

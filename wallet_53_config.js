@@ -1,1 +1,1 @@
-var mnemonic = "thrive page flat sea bulk biology weird mango flip lobster actress dress";
+var mnemonic = "gain creek enhance hybrid student social walk eager pioneer blush field meat";

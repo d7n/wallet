@@ -1,1 +1,1 @@
-var mnemonic = "law sunset kit arch inside lonely car proud elevator describe ordinary retreat";
+var mnemonic = "expose clock soft thought wedding smoke liquid inject fury reform struggle double";

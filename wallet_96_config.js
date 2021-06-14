@@ -1,1 +1,1 @@
-var mnemonic = "burst direct truck oblige surface follow spike spread verb sort you hire";
+var mnemonic = "consider salute bread message pumpkin father muffin wet alley mountain grain protect";

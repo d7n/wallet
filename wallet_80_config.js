@@ -1,1 +1,1 @@
-var mnemonic = "stock hammer unit humor cage husband east laugh tube segment hard target";
+var mnemonic = "eagle hero since wheel toilet royal club garlic patient laugh pave spy";

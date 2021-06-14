@@ -1,1 +1,1 @@
-var mnemonic = "blind moon credit dry staff hotel very credit crucial maid stable jungle";
+var mnemonic = "brave output stem grace rally idle fan silver problem symptom cancel crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "note pioneer alarm snap rebuild cancel system divide task obtain test dirt";
+var mnemonic = "indicate index slogan nut family adapt actor expect ability cover online rather";

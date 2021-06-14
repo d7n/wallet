@@ -1,1 +1,1 @@
-var mnemonic = "install order hip any clog uncle egg drum chapter hundred scare arrest";
+var mnemonic = "grow click flame mansion pear tumble infant general eager pool exclude ready";

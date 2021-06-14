@@ -1,1 +1,1 @@
-var mnemonic = "alter bullet crew kitten east ride cry knife maze pet discover brick";
+var mnemonic = "nephew ramp proof maid mean beach stock burst penalty legal forest fox";

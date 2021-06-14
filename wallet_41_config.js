@@ -1,1 +1,1 @@
-var mnemonic = "federal quote blur web struggle yellow escape thumb axis wool spy move";
+var mnemonic = "require cute deputy until myself avoid veteran pipe wheat charge today monitor";

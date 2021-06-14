@@ -1,1 +1,1 @@
-var mnemonic = "mail arch left lamp cake essence trophy flash work supply matrix student";
+var mnemonic = "maze buzz west screen turn cool bachelor toe limit subway approve range";

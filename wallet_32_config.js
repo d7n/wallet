@@ -1,1 +1,1 @@
-var mnemonic = "insect often mammal oyster tone elephant alien load blue chunk jeans border";
+var mnemonic = "sustain tower search crouch average trophy rotate click motor advance green grow";

@@ -1,1 +1,1 @@
-var mnemonic = "slot badge enforce disagree reform roast special tray title bird goddess pencil";
+var mnemonic = "misery exchange found bomb cage snow fortune raise alert misery enhance pizza";

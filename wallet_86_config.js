@@ -1,1 +1,1 @@
-var mnemonic = "lake mosquito ball defense behind supply gentle snack search west lab dolphin";
+var mnemonic = "umbrella light field hundred portion ankle venture abuse thumb damp soup neutral";

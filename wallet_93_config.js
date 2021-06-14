@@ -1,1 +1,1 @@
-var mnemonic = "minimum bring spike glimpse giant invest tunnel foil stumble bottom toe record";
+var mnemonic = "bridge essence lawsuit broccoli cliff card escape stomach harbor entire engine science";

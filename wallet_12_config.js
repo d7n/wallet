@@ -1,1 +1,1 @@
-var mnemonic = "window leave purse license blue lens supreme heavy sponsor dizzy curve dolphin";
+var mnemonic = "payment sausage clarify tail frozen gas expose adult actor trend toast wide";

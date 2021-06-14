@@ -1,1 +1,1 @@
-var mnemonic = "basket sketch idea vendor style effort divorce crane term panda bundle salad";
+var mnemonic = "outer tool false sort zebra silly more property link armor way dry";

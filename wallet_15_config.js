@@ -1,1 +1,1 @@
-var mnemonic = "vivid hello skirt lemon dilemma absorb real fatal very laugh orbit adjust";
+var mnemonic = "planet admit pretty inquiry message glad autumn master wet much duty together";

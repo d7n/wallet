@@ -1,1 +1,1 @@
-var mnemonic = "armor tonight always ride shock truth interest blood action fluid aerobic scene";
+var mnemonic = "absent acid avocado purse avocado someone great float fox industry person text";

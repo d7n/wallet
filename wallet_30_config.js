@@ -1,1 +1,1 @@
-var mnemonic = "adult field wheel rescue blood divert double fox price forum fix between";
+var mnemonic = "food reward fluid jazz gasp manual broom earth foot loop dance era";

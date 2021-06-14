@@ -1,1 +1,1 @@
-var mnemonic = "hint buddy win budget narrow fit group cluster spin such rain winter";
+var mnemonic = "evil crane shed outdoor body cloud depend walk keep lady vibrant scissors";

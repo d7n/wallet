@@ -1,1 +1,1 @@
-var mnemonic = "sock chat master lucky cute above very summer column unfold upgrade museum";
+var mnemonic = "soccer future lamp alcohol bitter script retreat smart brass suspect dumb dream";

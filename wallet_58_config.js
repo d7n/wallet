@@ -1,1 +1,1 @@
-var mnemonic = "cloud ozone mom bird swap exhibit left business curve island goddess senior";
+var mnemonic = "arctic toilet order trap false math also increase machine gospel toss maple";

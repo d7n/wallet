@@ -1,1 +1,1 @@
-var mnemonic = "magic boy suit middle dynamic govern uphold green laundry kid protect found";
+var mnemonic = "damage million roof furnace daring iron dry wheat vintage absorb adjust frozen";

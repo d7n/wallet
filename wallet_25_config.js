@@ -1,1 +1,1 @@
-var mnemonic = "oxygen fog human trial oval marine slush text harbor pear hedgehog ship";
+var mnemonic = "document creek firm upon flat initial file taste town cover divorce divert";

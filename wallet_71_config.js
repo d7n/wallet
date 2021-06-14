@@ -1,1 +1,1 @@
-var mnemonic = "kid glove sick hat worth echo danger speed simple vocal act ahead";
+var mnemonic = "hair baby cactus boil govern soft family wide prosper shop ridge awkward";

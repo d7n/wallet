@@ -1,1 +1,1 @@
-var mnemonic = "grass mixture laptop bike chalk twenty satoshi able same waste scale wear";
+var mnemonic = "gentle feature symbol grace easily refuse space ridge gown that mango glad";

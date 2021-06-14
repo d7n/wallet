@@ -1,1 +1,1 @@
-var mnemonic = "oil seat display curve rubber kidney impose body dismiss convince physical also";
+var mnemonic = "bicycle boss behind bind face verb clown leg they forward exact august";

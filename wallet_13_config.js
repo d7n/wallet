@@ -1,1 +1,1 @@
-var mnemonic = "junk tail host stuff also tribe fresh place select usual total nation";
+var mnemonic = "more jelly dentist science payment address gloom raise post crime surge nurse";

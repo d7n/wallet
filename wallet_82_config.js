@@ -1,1 +1,1 @@
-var mnemonic = "vacuum problem series brick empty love announce license setup enhance toward heart";
+var mnemonic = "steak admit never axis zoo onion firm various dilemma assume coconut opinion";

@@ -1,1 +1,1 @@
-var mnemonic = "oil gospel repeat media tilt uphold crowd youth author praise decorate age";
+var mnemonic = "little worry usual noise fuel neck pair paper chicken card tragic hundred";

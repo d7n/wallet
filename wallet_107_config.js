@@ -1,1 +1,1 @@
-var mnemonic = "upper busy thing initial woman quantum amused brick drink snap divert future";
+var mnemonic = "summer olympic bless one silent drift cheap switch submit refuse print jewel";

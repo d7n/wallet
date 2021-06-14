@@ -1,1 +1,1 @@
-var mnemonic = "cute venue title fee kid october project define strategy wage menu pen";
+var mnemonic = "illegal inject pledge ugly planet bunker load buffalo lottery gospel tell solution";

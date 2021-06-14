@@ -1,1 +1,1 @@
-var mnemonic = "goat gift novel depart pretty rally yard dove relax earth captain pyramid";
+var mnemonic = "bitter series fancy lounge shuffle clean defense speak title home climb bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "camp distance teach lottery boat odor dutch fashion deliver primary clap awake";
+var mnemonic = "lens club swamp faculty float weird actor shove street page faculty swift";

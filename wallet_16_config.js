@@ -1,1 +1,1 @@
-var mnemonic = "speed escape apart wool confirm recycle call find pulp arena dolphin autumn";
+var mnemonic = "oven this cement crystal gown century hungry tomato clay myself model deer";

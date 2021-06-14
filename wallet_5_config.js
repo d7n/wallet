@@ -1,1 +1,1 @@
-var mnemonic = "mandate spray trigger stuff zoo enjoy tent minute suffer dinner admit crash";
+var mnemonic = "grab crazy alone poet leave magic between garment gym cloth powder owner";

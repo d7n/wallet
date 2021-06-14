@@ -1,1 +1,1 @@
-var mnemonic = "cousin assault city hover valley note climb more cook table exist banner";
+var mnemonic = "you scan stand upgrade mask fortune swarm task file sleep hello aerobic";

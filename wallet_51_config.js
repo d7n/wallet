@@ -1,1 +1,1 @@
-var mnemonic = "caution solar spring predict exercise mass industry keen giant debris novel sand";
+var mnemonic = "guitar inch debris stadium produce rebuild uphold wet wisdom awesome oval hospital";

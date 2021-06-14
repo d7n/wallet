@@ -1,1 +1,1 @@
-var mnemonic = "slogan uncover mechanic hello bicycle wire tiger beauty dolphin oven hire dilemma";
+var mnemonic = "later situate worry return unfold liberty wink wealth hope hybrid advance romance";

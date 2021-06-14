@@ -1,1 +1,1 @@
-var mnemonic = "legal legend arrive wedding pride adult total test trust snack grocery detail";
+var mnemonic = "inch gadget furnace trim found home donkey dignity forget special soda come";

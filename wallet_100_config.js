@@ -1,1 +1,1 @@
-var mnemonic = "aim they kitchen march risk cross soda weasel addict lyrics draw observe";
+var mnemonic = "tired upgrade resource have miracle quarter view order vibrant boost crane wrestle";

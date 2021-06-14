@@ -1,1 +1,1 @@
-var mnemonic = "worry session select hunt because shift panel okay depart change remind chef";
+var mnemonic = "there lizard poverty card mother engine wasp syrup consider because mirror pledge";

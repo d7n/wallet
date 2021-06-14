@@ -1,1 +1,1 @@
-var mnemonic = "make daring fiber august reward main mixed duck junk magic olympic collect";
+var mnemonic = "cart plastic general bullet renew control bone gift future mimic minor sick";
