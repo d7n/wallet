@@ -1,1 +1,1 @@
-var mnemonic = "lion auction welcome man sunset game pulp ignore begin stumble witness message";
+var mnemonic = "quiz focus jar patient faculty spike figure elbow task cream front rude";

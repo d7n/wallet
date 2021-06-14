@@ -1,1 +1,1 @@
-var mnemonic = "atom tunnel party holiday shoot fly seek fragile excuse mail safe segment";
+var mnemonic = "genuine false capable dolphin depth youth cotton member write saddle tiny corn";

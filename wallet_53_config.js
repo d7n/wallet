@@ -1,1 +1,1 @@
-var mnemonic = "ship gesture zebra smooth hawk path lake tongue link one economy pet";
+var mnemonic = "unique remain return chuckle tortoise coral route super boss field guilt athlete";

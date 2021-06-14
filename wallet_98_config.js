@@ -1,1 +1,1 @@
-var mnemonic = "stamp ball tray guitar popular atom deputy slot vicious toddler family earth";
+var mnemonic = "weapon glare primary song final again basket save spy like protect rough";

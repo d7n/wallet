@@ -1,1 +1,1 @@
-var mnemonic = "curious pioneer snap inflict climb glare endless crystal net hockey orient kit";
+var mnemonic = "cousin frown bullet garment country thumb misery agree twist donor upper provide";

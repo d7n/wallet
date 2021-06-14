@@ -1,1 +1,1 @@
-var mnemonic = "lazy rug floor insect humble insect detect above equal waste favorite actual";
+var mnemonic = "effort pond index artwork limb mean lend museum craft neutral damp shift";

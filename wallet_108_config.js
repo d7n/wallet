@@ -1,1 +1,1 @@
-var mnemonic = "consider immense flavor split liberty cancel purpose ribbon wing special chapter legal";
+var mnemonic = "genre decline erase device orange admit vague pill grow symbol word note";

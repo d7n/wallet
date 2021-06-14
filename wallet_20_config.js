@@ -1,1 +1,1 @@
-var mnemonic = "scene edit spell identify iron volcano clock hub strong just speak poverty";
+var mnemonic = "bless sauce average rich paddle jealous exhaust fitness depend often sound expire";

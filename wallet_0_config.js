@@ -1,1 +1,1 @@
-var mnemonic = "curve noble cargo emerge little attend trial apology honey camp fall gate";
+var mnemonic = "wire door fee nominee border broom antique oval observe broccoli shift furnace";

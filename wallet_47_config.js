@@ -1,1 +1,1 @@
-var mnemonic = "group betray review bunker remain aspect rare decline celery era defy praise";
+var mnemonic = "awake cinnamon bottom antique clip muffin awkward famous borrow depth decade exotic";

@@ -1,1 +1,1 @@
-var mnemonic = "clown camera knife among squeeze anchor light license either bean afraid hurt";
+var mnemonic = "reduce unlock bless sister discover clap rule decorate insect citizen junk stove";

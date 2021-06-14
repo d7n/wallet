@@ -1,1 +1,1 @@
-var mnemonic = "service song powder agent yard quote unfold brush tell chapter mansion beef";
+var mnemonic = "misery lift account dinosaur clip today common reform drastic prevent abstract inflict";

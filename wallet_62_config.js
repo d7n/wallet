@@ -1,1 +1,1 @@
-var mnemonic = "habit describe half example battle album message labor loan wheel supreme inspire";
+var mnemonic = "hold dove price flee rate great all choose happy gospel thank trap";

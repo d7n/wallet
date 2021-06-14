@@ -1,1 +1,1 @@
-var mnemonic = "pitch save flag amazing arrest protect inspire exile arrive lyrics faith pulp";
+var mnemonic = "virus vendor wealth ketchup city sausage intact steel fiscal property theme icon";

@@ -1,1 +1,1 @@
-var mnemonic = "outer split crack margin gift urban slender truck razor poem march list";
+var mnemonic = "duck wolf crisp talent friend hurry affair aim give member quarter real";

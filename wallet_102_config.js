@@ -1,1 +1,1 @@
-var mnemonic = "coach unusual interest thrive open bus globe ripple snow swap sugar marine";
+var mnemonic = "great head grunt feed economy silly arrive athlete resist jazz network hen";

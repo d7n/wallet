@@ -1,1 +1,1 @@
-var mnemonic = "minimum wine depth broccoli cluster nest choice impact twenty differ father opinion";
+var mnemonic = "bonus misery rate random image basket monkey cage animal lawsuit assist sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "pear labor urge what promote gauge walnut fresh donkey border cereal zoo";
+var mnemonic = "planet fever dune onion evoke fade run accident into fluid obtain loud";

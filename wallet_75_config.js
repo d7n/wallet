@@ -1,1 +1,1 @@
-var mnemonic = "okay fiction swear ranch oyster donkey duty among seek library soft because";
+var mnemonic = "wrong buddy interest dumb item evil calm rose mix quick tooth record";

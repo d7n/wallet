@@ -1,1 +1,1 @@
-var mnemonic = "jump often addict inform hero forward before ghost exercise pass adjust crumble";
+var mnemonic = "desk skirt chronic punch life vague verify uniform brisk tennis coffee doctor";

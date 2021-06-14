@@ -1,1 +1,1 @@
-var mnemonic = "poet mean agent obey voyage bind deliver echo exhaust trick feed plug";
+var mnemonic = "similar arrive path rich grid shy base march seat nut elder permit";

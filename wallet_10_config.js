@@ -1,1 +1,1 @@
-var mnemonic = "grow deal excess decade erosion will faith funny scan wait siege sound";
+var mnemonic = "next canvas furnace argue tuition blush perfect ethics concert accident rent truck";

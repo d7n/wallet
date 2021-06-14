@@ -1,1 +1,1 @@
-var mnemonic = "library south mansion math assist furnace pulse school barely spray furnace object";
+var mnemonic = "city use amused copy goddess like polar great float fork hockey drip";

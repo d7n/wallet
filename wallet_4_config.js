@@ -1,1 +1,1 @@
-var mnemonic = "rabbit enroll voice material mesh funny sponsor include include salt embody lens";
+var mnemonic = "seek joy split misery total cool demand cup actor bone axis grocery";

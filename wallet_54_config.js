@@ -1,1 +1,1 @@
-var mnemonic = "sketch stand light pen spatial share rhythm tumble penalty horn team fury";
+var mnemonic = "kick job arctic admit seven travel master door off eye exact narrow";

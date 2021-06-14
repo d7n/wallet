@@ -1,1 +1,1 @@
-var mnemonic = "slice deposit vehicle pottery basic shield wall glue scrap mystery trial zoo";
+var mnemonic = "stay crowd hedgehog move insect mansion style mango dignity critic pigeon champion";

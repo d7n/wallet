@@ -1,1 +1,1 @@
-var mnemonic = "clump update square true eight weird purse daring kiss alley kiwi arena";
+var mnemonic = "noodle glass agree begin lucky hub rare whip thank affair prefer virus";

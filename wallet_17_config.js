@@ -1,1 +1,1 @@
-var mnemonic = "deliver scrub aerobic matter patient behind alert mixture play outside embody cliff";
+var mnemonic = "math butter spell rely weird outdoor auto suit gown spot turtle other";

@@ -1,1 +1,1 @@
-var mnemonic = "decide labor math exercise uphold business ticket enough test sphere hire rebel";
+var mnemonic = "gospel never elevator east aisle produce feed forest bracket cluster skill absent";

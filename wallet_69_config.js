@@ -1,1 +1,1 @@
-var mnemonic = "special still equal discover shove calm awkward practice silent salute write success";
+var mnemonic = "swing crucial border try frame people season bunker color prevent length club";

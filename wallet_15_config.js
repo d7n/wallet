@@ -1,1 +1,1 @@
-var mnemonic = "chaos call hard arch pear dose fun cherry segment ignore blue fence";
+var mnemonic = "volume material cook cube window exhibit sketch ethics hub anxiety enjoy mix";

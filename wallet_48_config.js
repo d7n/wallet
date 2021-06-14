@@ -1,1 +1,1 @@
-var mnemonic = "certain love deputy rebel that typical obvious silent favorite panel ready vehicle";
+var mnemonic = "riot october ritual cereal brush garden action finger engage leg disease deal";

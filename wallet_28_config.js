@@ -1,1 +1,1 @@
-var mnemonic = "autumn spread stove steak rate floor flee skin butter confirm today hip";
+var mnemonic = "wonder pen direct either want ball front stove envelope frown luxury bomb";

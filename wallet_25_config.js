@@ -1,1 +1,1 @@
-var mnemonic = "equal net marriage absurd figure pen remember civil curve catalog wish that";
+var mnemonic = "neck will west pull tortoise make love cushion endless armor street spider";

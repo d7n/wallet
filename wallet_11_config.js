@@ -1,1 +1,1 @@
-var mnemonic = "pond dilemma fuel neglect runway avoid squeeze own eager velvet kite charge";
+var mnemonic = "viable paddle aspect script junior rail large hub access want dwarf eagle";

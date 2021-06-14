@@ -1,1 +1,1 @@
-var mnemonic = "razor angle sea wheat expose asthma menu hello face stand soda home";
+var mnemonic = "current canoe visit flock cage oak also voyage rabbit seven unusual course";

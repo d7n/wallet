@@ -1,1 +1,1 @@
-var mnemonic = "observe dog lesson brisk cinnamon purity build present seat profit youth lyrics";
+var mnemonic = "satisfy cram captain melt early doctor sudden movie number shuffle present lounge";

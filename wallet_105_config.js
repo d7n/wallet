@@ -1,1 +1,1 @@
-var mnemonic = "world either erode summer multiply first alcohol sniff follow crowd situate protect";
+var mnemonic = "during install build cargo soda vault labor lemon weasel outdoor mountain opinion";

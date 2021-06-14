@@ -1,1 +1,1 @@
-var mnemonic = "search soap syrup topic orange liberty deposit refuse hover place awkward canoe";
+var mnemonic = "misery punch lumber tackle bachelor fee build kick dizzy penalty develop choice";

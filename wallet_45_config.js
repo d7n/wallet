@@ -1,1 +1,1 @@
-var mnemonic = "crumble torch upset dawn tail embrace improve penalty remember promote valid pink";
+var mnemonic = "infant hub rice member extend style shine render unique winter print food";

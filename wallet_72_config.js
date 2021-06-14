@@ -1,1 +1,1 @@
-var mnemonic = "child prepare retreat point stable tennis damp jewel drip ensure drip rail";
+var mnemonic = "hurt diet plug index remove arrange develop reveal punch border filter broccoli";

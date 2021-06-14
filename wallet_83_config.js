@@ -1,1 +1,1 @@
-var mnemonic = "spider giant sense stool airport hard zero bean riot time upgrade decade";
+var mnemonic = "bleak coffee answer keep mail any spot tomorrow pave stuff response soda";

@@ -1,1 +1,1 @@
-var mnemonic = "runway swear season oxygen explain rebuild decrease taxi order lady february polar";
+var mnemonic = "whale burst celery slice merry bracket utility luggage remember grunt police soccer";

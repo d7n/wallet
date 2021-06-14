@@ -1,1 +1,1 @@
-var mnemonic = "board anxiety fatigue inject ritual budget what orphan other pelican ill rabbit";
+var mnemonic = "two reform supply skill kid swift cheese turn liar doll tuition coral";

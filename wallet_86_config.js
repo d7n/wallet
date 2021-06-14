@@ -1,1 +1,1 @@
-var mnemonic = "victory fashion indicate analyst talent talk issue knee happy code dizzy quality";
+var mnemonic = "slam work cliff father trade that same ghost marble unaware ocean sheriff";

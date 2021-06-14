@@ -1,1 +1,1 @@
-var mnemonic = "recall obvious mom judge sure scrap warrior space charge rhythm oval liberty";
+var mnemonic = "type fever swap color domain muscle surface result urge stay trend release";

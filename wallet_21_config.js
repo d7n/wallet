@@ -1,1 +1,1 @@
-var mnemonic = "excess diesel rug beyond grief curtain obey session slender object concert face";
+var mnemonic = "inherit lens outdoor legend transfer aunt another drip wide shuffle debris nurse";

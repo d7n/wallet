@@ -1,1 +1,1 @@
-var mnemonic = "rival uniform jar story notable orchard ketchup visit flee heart lady fetch";
+var mnemonic = "cost scan rely carpet warfare doctor digital athlete youth abandon brick dice";

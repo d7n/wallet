@@ -1,1 +1,1 @@
-var mnemonic = "current shift science reason economy always reopen catalog display loop tell thrive";
+var mnemonic = "badge tank tennis replace bone absorb forest reform grief game danger depend";

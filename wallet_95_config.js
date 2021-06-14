@@ -1,1 +1,1 @@
-var mnemonic = "diary stool spray beef sport act kidney tunnel base wife draft awake";
+var mnemonic = "exhaust dinner able chuckle laptop wine minimum candy bean upgrade obvious bracket";

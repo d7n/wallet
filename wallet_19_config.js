@@ -1,1 +1,1 @@
-var mnemonic = "oblige blouse disease proud island team betray absent media forum surround until";
+var mnemonic = "ring office more keen play casual mutual trend swallow safe fence nice";

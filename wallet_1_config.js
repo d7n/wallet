@@ -1,1 +1,1 @@
-var mnemonic = "butter metal slice tonight acoustic upgrade pink ankle movie frown chunk kiss";
+var mnemonic = "rely amateur boring rose anger size game art creek beauty journey vintage";

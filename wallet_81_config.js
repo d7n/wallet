@@ -1,1 +1,1 @@
-var mnemonic = "just kite drift width pink machine clinic manual monster riot point clog";
+var mnemonic = "fat grow during column maple admit soup skin news reveal travel crystal";

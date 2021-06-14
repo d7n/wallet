@@ -1,1 +1,1 @@
-var mnemonic = "egg proof melt recycle sand tree tragic impulse twenty dignity track finish";
+var mnemonic = "fine wolf column width argue will oblige cement suffer lion over vapor";

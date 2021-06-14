@@ -1,1 +1,1 @@
-var mnemonic = "defy interest symbol wet thumb bring faith charge change reveal system call";
+var mnemonic = "naive polar civil patch sunset coyote rib ice force relax move nut";

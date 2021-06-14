@@ -1,1 +1,1 @@
-var mnemonic = "series kiss bunker drum attack demise impose issue fence wrist little pause";
+var mnemonic = "truly flee rebel alley match whip cruise kick timber donkey live stereo";

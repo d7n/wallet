@@ -1,1 +1,1 @@
-var mnemonic = "maze offer giggle install area skin argue access caught shell burger huge";
+var mnemonic = "lamp moral clock oil inner oil turtle exile foot ceiling public cook";

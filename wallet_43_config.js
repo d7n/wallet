@@ -1,1 +1,1 @@
-var mnemonic = "uniform online chaos predict afford goat bird flight unusual return light pipe";
+var mnemonic = "check torch monster idle expose pretty calm false scatter orchard shift glide";

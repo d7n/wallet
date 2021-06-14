@@ -1,1 +1,1 @@
-var mnemonic = "sadness theme crunch blush stable trust husband adult width output ethics direct";
+var mnemonic = "check knock town beauty hair spot section piece gaze arena donate purpose";

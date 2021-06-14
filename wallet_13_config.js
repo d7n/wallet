@@ -1,1 +1,1 @@
-var mnemonic = "observe blur kite display air follow letter size version vault satisfy wise";
+var mnemonic = "mammal myself above bicycle enroll egg violin chase inject ostrich curious access";

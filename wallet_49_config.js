@@ -1,1 +1,1 @@
-var mnemonic = "bread reopen recall text anxiety forum gentle various wall depart pattern laundry";
+var mnemonic = "correct pottery diary feel boost hand angle broccoli trade help intact expect";

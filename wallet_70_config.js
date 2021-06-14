@@ -1,1 +1,1 @@
-var mnemonic = "inquiry expand couple quiz giggle disorder friend firm basic hero vote shadow";
+var mnemonic = "faith they deer grass wheat lumber error rotate acoustic audit relax mirror";

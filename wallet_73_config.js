@@ -1,1 +1,1 @@
-var mnemonic = "glue dress strike account outer glass rose saddle shove mandate wreck despair";
+var mnemonic = "squirrel recipe loan that marriage hurry topple master nasty wrist yard three";

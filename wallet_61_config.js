@@ -1,1 +1,1 @@
-var mnemonic = "ten dumb rug tide once oyster capital slender danger loud eager sword";
+var mnemonic = "fork voyage ancient inner strike oil silver gift rib photo lobster maze";

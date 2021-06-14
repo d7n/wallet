@@ -1,1 +1,1 @@
-var mnemonic = "join science double doll impulse rhythm fire flat gain unique vicious search";
+var mnemonic = "focus ski bottom weapon zebra guard print little peace bid wolf dog";

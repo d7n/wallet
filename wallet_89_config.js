@@ -1,1 +1,1 @@
-var mnemonic = "sibling other annual depth seminar earth dismiss brown cycle attitude bus song";
+var mnemonic = "sing ecology marriage denial knee autumn lottery climb antenna author attract salad";

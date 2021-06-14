@@ -1,1 +1,1 @@
-var mnemonic = "convince alcohol forum noise chase transfer extra crush speed fuel essay egg";
+var mnemonic = "absurd win scout curtain inner myth inflict clap voice advance pioneer damage";

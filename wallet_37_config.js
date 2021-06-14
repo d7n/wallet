@@ -1,1 +1,1 @@
-var mnemonic = "busy local solar abstract gas draft permit prepare lock wreck reveal saddle";
+var mnemonic = "know fatigue second special stairs village stairs law marriage liar multiply quote";

@@ -1,1 +1,1 @@
-var mnemonic = "pet enemy oak public fold bid fitness title slot sudden rally share";
+var mnemonic = "mixed verify fly friend injury grow fun run version pony frequent powder";

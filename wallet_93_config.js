@@ -1,1 +1,1 @@
-var mnemonic = "plate comfort alone rule avoid dog broccoli turkey myself kingdom nephew element";
+var mnemonic = "maze fiscal like elite sugar material miss cup maple plug wait gain";

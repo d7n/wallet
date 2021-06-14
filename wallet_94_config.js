@@ -1,1 +1,1 @@
-var mnemonic = "soccer cricket addict rescue paper patch dad staff umbrella sign lake cook";
+var mnemonic = "muscle onion defense stable leopard order dust silver stuff dumb shop rebuild";

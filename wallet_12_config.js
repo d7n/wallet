@@ -1,1 +1,1 @@
-var mnemonic = "sadness laptop unhappy shove slide horn harvest example clog effort term model";
+var mnemonic = "able indicate shoulder hedgehog page question audit noodle sunny finger sand tuna";

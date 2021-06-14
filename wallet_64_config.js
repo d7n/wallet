@@ -1,1 +1,1 @@
-var mnemonic = "genius stick panther produce robot dignity radio daughter idea maid embark purpose";
+var mnemonic = "shell book crash else neck grass blast quality quiz arctic journey aerobic";

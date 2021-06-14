@@ -1,1 +1,1 @@
-var mnemonic = "consider devote embrace giraffe gaze corn tiny half skull next polar space";
+var mnemonic = "ridge differ scorpion frozen desk junior concert subway maid argue jazz involve";

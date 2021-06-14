@@ -1,1 +1,1 @@
-var mnemonic = "thank call safe chat state family knock clown clock acoustic lecture pass";
+var mnemonic = "oval about garden parent aisle fire toss best order vast eyebrow logic";

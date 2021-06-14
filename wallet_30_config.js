@@ -1,1 +1,1 @@
-var mnemonic = "vintage sea chicken brand floor bridge lake light type true crumble taste";
+var mnemonic = "service obvious melody burden fence lift wage cost cradle agent impose exchange";

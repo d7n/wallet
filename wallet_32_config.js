@@ -1,1 +1,1 @@
-var mnemonic = "web saddle glue filter trial embody correct property theme random exile crime";
+var mnemonic = "word salon memory crucial stage scale unfold tired honey jar tennis electric";

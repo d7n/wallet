@@ -1,1 +1,1 @@
-var mnemonic = "fix trade scrap chef village speed wood trade push capital small timber";
+var mnemonic = "gold grocery smooth picture denial hub cable track blast oxygen snap hawk";

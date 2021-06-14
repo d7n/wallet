@@ -1,1 +1,1 @@
-var mnemonic = "royal gaze year amount police amused draw surface seminar obtain problem tool";
+var mnemonic = "butter gym blue erosion wrap eternal permit window silk peace spider bring";

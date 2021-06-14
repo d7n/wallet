@@ -1,1 +1,1 @@
-var mnemonic = "average volcano place mammal zoo man hold minimum forward praise cash post";
+var mnemonic = "mushroom empty flip dolphin mutual pigeon lock major club robust soup awkward";

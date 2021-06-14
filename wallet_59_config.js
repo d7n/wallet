@@ -1,1 +1,1 @@
-var mnemonic = "pistol paddle region ceiling credit risk table match motion wise claim bus";
+var mnemonic = "lawsuit mask vague capital desk apple diary document survey federal twin clarify";

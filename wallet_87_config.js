@@ -1,1 +1,1 @@
-var mnemonic = "slam reopen visual rail quality depart acquire invest coyote friend away divorce";
+var mnemonic = "spirit insect action cousin mom beauty venture knife survey pole hard soul";

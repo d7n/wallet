@@ -1,1 +1,1 @@
-var mnemonic = "nature rate ski text lawsuit hammer portion book quality wreck goose giant";
+var mnemonic = "pear quote bird canyon edit creek rather document away patch host book";

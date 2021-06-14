@@ -1,1 +1,1 @@
-var mnemonic = "wish opera fiber casino stuff split volcano virus lecture impulse forward scene";
+var mnemonic = "satoshi key join ozone junior put school drink spot ladder pencil valley";

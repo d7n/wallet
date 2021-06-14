@@ -1,1 +1,1 @@
-var mnemonic = "approve gun muffin pause topic follow tribe sleep weekend harvest differ typical";
+var mnemonic = "satoshi current tone daughter target act category sea ticket remain burst achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "glow hair adjust ability lizard library amused sadness manual chunk unique stadium";
+var mnemonic = "unknown iron twice vacant dash embrace monitor erosion level exist adapt disease";

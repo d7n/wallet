@@ -1,1 +1,1 @@
-var mnemonic = "near monster raccoon blame impulse replace make motion explain million cause hill";
+var mnemonic = "turkey street victory school dove jacket dog pipe charge rhythm exclude arrange";

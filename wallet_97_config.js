@@ -1,1 +1,1 @@
-var mnemonic = "dirt reveal west shove carbon welcome example grass fence super cloud spring";
+var mnemonic = "chalk cluster figure squeeze hard cost noble cinnamon bamboo swap original woman";

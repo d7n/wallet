@@ -1,1 +1,1 @@
-var mnemonic = "gun royal since wall welcome stone shuffle luxury hint exit unaware judge";
+var mnemonic = "hire rival photo six claim please enact inner permit angle delay ripple";
