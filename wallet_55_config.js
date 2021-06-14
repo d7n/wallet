@@ -1,1 +1,1 @@
-var mnemonic = "erupt vendor swamp fringe camp dose noble six police cute guilt choice";
+var mnemonic = "orient episode used scan girl soul punch deny awful senior again mechanic";

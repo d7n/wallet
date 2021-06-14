@@ -1,1 +1,1 @@
-var mnemonic = "moon jaguar million describe universe chat symptom envelope extra average also still";
+var mnemonic = "negative craft champion pitch horror slim race remind goose fatigue record rack";

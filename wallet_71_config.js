@@ -1,1 +1,1 @@
-var mnemonic = "length across cat school before onion mosquito frog multiply couch wolf raw";
+var mnemonic = "scrub angry gadget skirt erupt network flock develop nuclear tuition tennis depart";

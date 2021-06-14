@@ -1,1 +1,1 @@
-var mnemonic = "village catalog cinnamon senior page theory hope giggle short exile inject have";
+var mnemonic = "ritual umbrella maid ginger admit chair ensure visual rib domain flash arctic";

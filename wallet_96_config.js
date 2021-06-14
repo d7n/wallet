@@ -1,1 +1,1 @@
-var mnemonic = "affair tiger bullet hollow predict cost devote idle cricket pledge stamp hurt";
+var mnemonic = "distance brown empower mosquito secret grid dial skirt club crunch hawk tape";

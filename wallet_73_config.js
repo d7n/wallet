@@ -1,1 +1,1 @@
-var mnemonic = "decade horror feed trumpet donor corn jazz style can pulse ladder quantum";
+var mnemonic = "basket spin behind fragile inner normal beach execute priority draft develop tape";

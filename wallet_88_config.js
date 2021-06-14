@@ -1,1 +1,1 @@
-var mnemonic = "depend album behind reflect federal monitor online grow canyon congress enough multiply";
+var mnemonic = "firm hover margin light lend antenna aunt scare early wet craft fringe";

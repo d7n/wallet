@@ -1,1 +1,1 @@
-var mnemonic = "curve choose loud eager matter injury paper peace easily risk slender diagram";
+var mnemonic = "dismiss abstract bubble bicycle inquiry shadow promote rough barely fabric all noodle";

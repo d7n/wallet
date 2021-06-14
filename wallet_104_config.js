@@ -1,1 +1,1 @@
-var mnemonic = "horn subject ostrich lunar crop tool lab margin cube august height shock";
+var mnemonic = "decade solar hope metal window height clerk target dinosaur lab limb together";

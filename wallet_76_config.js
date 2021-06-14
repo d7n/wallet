@@ -1,1 +1,1 @@
-var mnemonic = "armed loan mouse help desk embody enact arch tonight science drum awesome";
+var mnemonic = "suit pony catch oval october leader defy pigeon pair road burger chapter";

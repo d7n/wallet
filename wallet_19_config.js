@@ -1,1 +1,1 @@
-var mnemonic = "relief miss olive spread adult donor acid desert napkin mix wish office";
+var mnemonic = "step arrest thrive remove fix august argue cricket certain settle pattern circle";

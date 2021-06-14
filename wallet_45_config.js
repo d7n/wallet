@@ -1,1 +1,1 @@
-var mnemonic = "inherit cat foam carpet soup hard force supreme rare ball dream twin";
+var mnemonic = "ozone renew vanish double robust pledge cable raven whale response bridge chuckle";

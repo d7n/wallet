@@ -1,1 +1,1 @@
-var mnemonic = "window insect arrange ill paper fatal rain rabbit about hen hen diamond";
+var mnemonic = "learn cargo account fork man inspire parrot shrimp move kitten orphan merit";

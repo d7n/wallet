@@ -1,1 +1,1 @@
-var mnemonic = "decide consider margin end axis brother pencil laundry blind wolf help travel";
+var mnemonic = "draft slush day clog still used boy thank thing already copper merge";

@@ -1,1 +1,1 @@
-var mnemonic = "change boil rice acid cabbage tree library leopard tip proud trade lizard";
+var mnemonic = "potato case doll pull regret gadget ring obey physical daughter magic buffalo";

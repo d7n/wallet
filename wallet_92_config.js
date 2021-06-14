@@ -1,1 +1,1 @@
-var mnemonic = "chunk depart reason resemble culture menu never admit host maze walnut universe";
+var mnemonic = "dad gallery organ cage advice mirror reunion crush always region pull swim";

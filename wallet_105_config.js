@@ -1,1 +1,1 @@
-var mnemonic = "vocal antenna maze guide draft pelican object infant property clinic error lizard";
+var mnemonic = "program plastic rain jump coin gate elbow gift maximum squeeze bulb shy";

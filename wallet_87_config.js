@@ -1,1 +1,1 @@
-var mnemonic = "repair snow top kid zero six tourist chair often second pluck pluck";
+var mnemonic = "pig desk fee bean spice jaguar raw design orbit echo lend cactus";

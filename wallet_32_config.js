@@ -1,1 +1,1 @@
-var mnemonic = "cram lizard ranch primary quarter pear joy gain rice bicycle cabbage dynamic";
+var mnemonic = "increase film silver banner brief friend cradle pottery crisp will conduct genre";

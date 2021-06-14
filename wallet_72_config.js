@@ -1,1 +1,1 @@
-var mnemonic = "come swing mask scout shop funny orange check large earn idle pledge";
+var mnemonic = "off pottery pudding outer push twice carry lecture retreat round huge world";

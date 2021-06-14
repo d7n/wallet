@@ -1,1 +1,1 @@
-var mnemonic = "laptop chuckle index close wasp track small fish wrist clay coral coil";
+var mnemonic = "style tissue obvious wing learn nasty rose alter length sight idle neutral";

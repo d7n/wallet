@@ -1,1 +1,1 @@
-var mnemonic = "own wish buyer slogan next pair appear bottom rally space imitate vote";
+var mnemonic = "poet injury palace churn desert type oyster come dust carpet sadness phrase";

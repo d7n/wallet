@@ -1,1 +1,1 @@
-var mnemonic = "fashion letter scrub theory arrest usage fatigue ice already ask budget cube";
+var mnemonic = "fitness tuition prevent tape strike copy edit question panda vast help myth";

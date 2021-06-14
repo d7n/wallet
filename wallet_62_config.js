@@ -1,1 +1,1 @@
-var mnemonic = "dawn artefact plastic traffic husband dance flame bus tunnel jaguar bulk once";
+var mnemonic = "dizzy penalty car dignity blush again often spirit divorce front stone north";

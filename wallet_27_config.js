@@ -1,1 +1,1 @@
-var mnemonic = "deliver raw winner shaft simple catalog grain giggle hard drum attack trophy";
+var mnemonic = "keep churn again road dice october play wealth real letter human swamp";

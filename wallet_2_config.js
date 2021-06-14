@@ -1,1 +1,1 @@
-var mnemonic = "magnet beach action fun entire twin buzz armed critic napkin disagree mirror";
+var mnemonic = "reward seminar soft kitten vital atom peanut logic picnic before window eternal";

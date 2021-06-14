@@ -1,1 +1,1 @@
-var mnemonic = "year play room nest hint tower wire original mango crystal strong original";
+var mnemonic = "brisk must recall monkey unable quick imitate inject loan tail unknown token";

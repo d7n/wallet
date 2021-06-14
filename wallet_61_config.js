@@ -1,1 +1,1 @@
-var mnemonic = "oblige indoor century mom estate boy axis other giraffe three side leave";
+var mnemonic = "duty issue race inch stick earn sand coil insane party girl story";

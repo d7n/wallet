@@ -1,1 +1,1 @@
-var mnemonic = "usage final lemon tide boil give city okay slight hood jazz cram";
+var mnemonic = "unfair universe toss stay draft truth feed tissue have output total story";

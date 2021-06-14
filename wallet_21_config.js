@@ -1,1 +1,1 @@
-var mnemonic = "physical joy eager tuition fog join orchard stool diamond pact flavor split";
+var mnemonic = "universe example grant acid machine borrow hip hurt mixture all about zone";

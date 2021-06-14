@@ -1,1 +1,1 @@
-var mnemonic = "bread find boss steak minor tray crucial bread enact shallow weird rice";
+var mnemonic = "magic concert tilt catch shrug mail piano bind enlist cheese noble primary";

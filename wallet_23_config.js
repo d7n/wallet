@@ -1,1 +1,1 @@
-var mnemonic = "choose hurdle link usage tag narrow tide patient describe notice rate paddle";
+var mnemonic = "furnace fiber behave vintage step year drama absent grocery garbage reduce tiny";

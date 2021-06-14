@@ -1,1 +1,1 @@
-var mnemonic = "wrong supreme match frost cheese buddy tent intact march illness shoot say";
+var mnemonic = "flavor coyote veteran mushroom fancy sniff awake quote detect digital erupt found";

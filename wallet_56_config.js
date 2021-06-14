@@ -1,1 +1,1 @@
-var mnemonic = "view exile eyebrow coyote spider upset expire ranch sing buzz expect unusual";
+var mnemonic = "burst between test rib palace vicious blind resist shoot clay lab ticket";

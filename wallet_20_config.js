@@ -1,1 +1,1 @@
-var mnemonic = "album away march lyrics order soup beyond loan pause razor caution strong";
+var mnemonic = "glory then input gasp donate code clutch slot laptop outdoor purse settle";

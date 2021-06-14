@@ -1,1 +1,1 @@
-var mnemonic = "floor clean donate ignore plug version hour brother promote employ school bind";
+var mnemonic = "supply spread occur gesture try sun solar play fee canvas avoid practice";

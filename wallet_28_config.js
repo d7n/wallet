@@ -1,1 +1,1 @@
-var mnemonic = "oval civil culture wonder mushroom enrich fruit approve jewel cloth phrase vault";
+var mnemonic = "spend advice rib dignity main machine attack wine shoe cry enact fiction";

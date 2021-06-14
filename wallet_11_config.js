@@ -1,1 +1,1 @@
-var mnemonic = "clean strategy oak enact say collect wink tag stove turkey staff senior";
+var mnemonic = "above symbol rigid girl impose junior hazard fork harsh view fiscal spice";

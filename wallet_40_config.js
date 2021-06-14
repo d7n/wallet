@@ -1,1 +1,1 @@
-var mnemonic = "express bench admit horn blue pig shiver aisle maximum rabbit balance eagle";
+var mnemonic = "destroy major potato hungry receive ancient liar course short anxiety enemy bulb";

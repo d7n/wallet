@@ -1,1 +1,1 @@
-var mnemonic = "auto public tooth inch owner mobile stand earn gold choice soap trust";
+var mnemonic = "miss reopen fiber virtual cousin door payment legend chuckle pond man bread";

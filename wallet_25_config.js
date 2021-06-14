@@ -1,1 +1,1 @@
-var mnemonic = "myself grow venue once claw acid weird mom canoe misery ankle bridge";
+var mnemonic = "bridge august now victory column random exact core horn banana expand pool";

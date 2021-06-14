@@ -1,1 +1,1 @@
-var mnemonic = "because utility essay buffalo siren suggest spatial say pencil pattern atom believe";
+var mnemonic = "simple merry amused coyote expand believe front caught damage labor antenna valley";

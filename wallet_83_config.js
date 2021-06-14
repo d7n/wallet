@@ -1,1 +1,1 @@
-var mnemonic = "ahead approve radar carbon become cushion dash measure kick rack cream bomb";
+var mnemonic = "vehicle balcony ecology hobby budget rally address scheme clean few park tunnel";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow attract injury cave myself bar own element summer antique horse forum";
+var mnemonic = "legend crucial conduct april leopard device kick topic truth assault unusual soda";

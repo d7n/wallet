@@ -1,1 +1,1 @@
-var mnemonic = "fashion melt silver flip eternal poem ankle sight voyage chase vote bus";
+var mnemonic = "burden sand you sentence pluck sing bleak duty chapter under tide fault";

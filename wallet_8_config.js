@@ -1,1 +1,1 @@
-var mnemonic = "raccoon palace merge yard erase oval spray liar firm summer crash crystal";
+var mnemonic = "mansion hammer bulk city invest alter indicate fog trick holiday party dizzy";

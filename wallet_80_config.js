@@ -1,1 +1,1 @@
-var mnemonic = "chair defense now lecture damage drive defy control wealth blame pistol program";
+var mnemonic = "hurry leg primary pistol dutch weird lend hurdle baby color ranch bulk";

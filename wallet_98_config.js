@@ -1,1 +1,1 @@
-var mnemonic = "funny client drastic critic possible way mixed mobile crisp onion solve own";
+var mnemonic = "illness tank style kitchen funny decorate beyond renew harvest scissors twist apple";

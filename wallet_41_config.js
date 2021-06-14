@@ -1,1 +1,1 @@
-var mnemonic = "cricket position expand illness alien dinosaur brush faith spin start helmet bundle";
+var mnemonic = "brown cloud rapid identify document skill wrist barrel list narrow hurt nuclear";

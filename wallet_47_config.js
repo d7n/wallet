@@ -1,1 +1,1 @@
-var mnemonic = "nice math essence peasant labor this twelve cushion cave object pudding loud";
+var mnemonic = "kick phone suffer equip enact stable noise emerge father cave day such";

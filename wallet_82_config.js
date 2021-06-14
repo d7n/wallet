@@ -1,1 +1,1 @@
-var mnemonic = "grant anger sleep soldier parrot buddy robot zoo latin journey lyrics long";
+var mnemonic = "shiver history person dust coin first identify salt cake tower immense doctor";

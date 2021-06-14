@@ -1,1 +1,1 @@
-var mnemonic = "jeans hope doctor work ethics cross dress yard moon play device crowd";
+var mnemonic = "another laundry hire absent sister spice mandate access donkey rail rally injury";

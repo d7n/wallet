@@ -1,1 +1,1 @@
-var mnemonic = "panel blur glow voice ice episode high achieve upgrade salt gym essay";
+var mnemonic = "rapid slush travel myth kick key aerobic neutral fine wash suffer wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "neither roast flight stock stadium pond cluster defy help human risk inmate";
+var mnemonic = "maze claim cable orchard company flock fit away amount link team spot";

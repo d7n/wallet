@@ -1,1 +1,1 @@
-var mnemonic = "avocado column wait stable apart marriage focus club hire happy juice length";
+var mnemonic = "wave magic churn squeeze curious paddle ghost endorse nation present onion hawk";

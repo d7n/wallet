@@ -1,1 +1,1 @@
-var mnemonic = "myself tenant august wisdom chalk hedgehog warrior tongue rebuild wheel illegal social";
+var mnemonic = "author normal pipe hope other undo shield replace ball humor flip bunker";

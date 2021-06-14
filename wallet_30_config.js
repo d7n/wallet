@@ -1,1 +1,1 @@
-var mnemonic = "coil detect claim walk volume budget turkey very liar length scheme hollow";
+var mnemonic = "memory thought topic loop dune prevent lawn head skin uniform lawn leisure";

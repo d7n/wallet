@@ -1,1 +1,1 @@
-var mnemonic = "trim differ stone already fan pull close frown three soul sniff chat";
+var mnemonic = "else blanket shallow group harsh inhale female walnut armed toddler sad chair";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel two kick circle crowd between spawn hold cable unique below two";
+var mnemonic = "session spread idle baby urban exotic prevent mosquito jaguar police robust march";

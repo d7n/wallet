@@ -1,1 +1,1 @@
-var mnemonic = "famous mother either into olympic key galaxy fortune music army feature addict";
+var mnemonic = "flee cube ball frost churn betray across hungry category captain fault arctic";

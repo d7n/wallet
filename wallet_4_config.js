@@ -1,1 +1,1 @@
-var mnemonic = "chimney riot catalog monkey mouse cave page clerk over donor oyster syrup";
+var mnemonic = "tiny enemy remove cabbage sorry leg claim giraffe moment reward awake power";

@@ -1,1 +1,1 @@
-var mnemonic = "spice focus feel circle faith attitude future two purity lend fault yard";
+var mnemonic = "current chalk icon damp enforce change future donkey boost sister since club";

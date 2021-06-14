@@ -1,1 +1,1 @@
-var mnemonic = "general chest problem try hint chief mansion leisure choose cram thumb oxygen";
+var mnemonic = "chase bag change gesture lunar great clip cram anchor holiday fragile drastic";

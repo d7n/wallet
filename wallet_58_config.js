@@ -1,1 +1,1 @@
-var mnemonic = "merry merge item choose solution later false diesel swing palace again boy";
+var mnemonic = "tennis keen occur case bleak stem potato earn problem permit upgrade tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "depend seven pact prevent salad bench review boat rescue history spread forum";
+var mnemonic = "beyond luxury north furnace oppose witness shop syrup face genuine high blossom";

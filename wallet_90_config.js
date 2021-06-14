@@ -1,1 +1,1 @@
-var mnemonic = "pitch liar emotion valid dress day argue slot prepare split erode fever";
+var mnemonic = "daughter desk lion nerve wild upgrade carbon harsh myself piano museum alpha";

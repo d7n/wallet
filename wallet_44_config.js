@@ -1,1 +1,1 @@
-var mnemonic = "enough daughter sun floor praise elephant crater harsh photo case erase area";
+var mnemonic = "weather virtual limb alone almost edit amateur slogan trust arrest bless syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "zone inside pull metal grace boy wall swear mirror snap expose list";
+var mnemonic = "lend rack inmate grit analyst swallow radar zero reopen fiscal uniform wrist";

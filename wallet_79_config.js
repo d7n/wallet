@@ -1,1 +1,1 @@
-var mnemonic = "ask spike violin spider deliver puppy music jewel maze behave fit shrimp";
+var mnemonic = "report skirt target stairs drink sport dentist tape shallow universe unaware evoke";

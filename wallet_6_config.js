@@ -1,1 +1,1 @@
-var mnemonic = "logic letter animal track together humor inject because risk friend coach frame";
+var mnemonic = "sample join cause only regret lava asset fiber liar prevent chef enemy";

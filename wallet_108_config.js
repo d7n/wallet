@@ -1,1 +1,1 @@
-var mnemonic = "surround parent coach drop lottery sad ivory enough asthma skill alter short";
+var mnemonic = "cute employ skate above left chicken direct silly safe abuse arrange balcony";

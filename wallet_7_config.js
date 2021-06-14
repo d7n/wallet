@@ -1,1 +1,1 @@
-var mnemonic = "surge powder cable rabbit cinnamon okay joy deer gorilla affair dog quote";
+var mnemonic = "say media mechanic coffee depend helmet length logic charge rich virus cook";

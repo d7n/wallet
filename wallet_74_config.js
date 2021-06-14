@@ -1,1 +1,1 @@
-var mnemonic = "top damage unit kite auto empty father derive man lake option universe";
+var mnemonic = "resemble turkey awful friend nothing release sense midnight east lens around web";

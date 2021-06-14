@@ -1,1 +1,1 @@
-var mnemonic = "early clay dizzy always earn father hint explain gather soft fee work";
+var mnemonic = "boost wear guitar slide feature globe one grace vacant siege base doll";

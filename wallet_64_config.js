@@ -1,1 +1,1 @@
-var mnemonic = "lock nose glass deposit slender elbow pattern bracket version trouble close depend";
+var mnemonic = "carbon vote clean knock deputy ramp blush town six federal antenna two";

@@ -1,1 +1,1 @@
-var mnemonic = "drama target night marble tip example wisdom illegal uphold decide board other";
+var mnemonic = "awkward enforce critic control palm kangaroo note mother weather symbol tag upgrade";

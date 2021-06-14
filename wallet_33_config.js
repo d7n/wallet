@@ -1,1 +1,1 @@
-var mnemonic = "fiction habit scatter expand oyster water degree pool spread winner skirt inhale";
+var mnemonic = "garage genius spike assault arrest kite inside defense pudding mask delay vivid";

@@ -1,1 +1,1 @@
-var mnemonic = "fog upgrade slice tonight hollow sing beyond bronze present ankle discover kitten";
+var mnemonic = "depend oval book caught local roof charge screen height next pony pitch";

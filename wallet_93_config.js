@@ -1,1 +1,1 @@
-var mnemonic = "forum silver clip wave eagle romance engine derive answer material pact jump";
+var mnemonic = "electric action arrest hello tilt consider dinosaur diesel repair water sketch lend";

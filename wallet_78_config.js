@@ -1,1 +1,1 @@
-var mnemonic = "guess spring lottery heavy gospel soft exit nose equal grid sadness cycle";
+var mnemonic = "exit sight toe exercise river hard cloth door alpha slogan mobile road";

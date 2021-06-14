@@ -1,1 +1,1 @@
-var mnemonic = "other merge firm lava romance hazard cushion fog nothing upon prefer notice";
+var mnemonic = "hidden can wire because walk pole gap industry siren shine cousin month";

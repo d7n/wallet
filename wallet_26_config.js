@@ -1,1 +1,1 @@
-var mnemonic = "marble subject tiny sponsor plate federal maze daughter tourist final fitness paper";
+var mnemonic = "cancel pelican lonely crystal child vital innocent sadness unfold code guilt basket";

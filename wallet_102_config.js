@@ -1,1 +1,1 @@
-var mnemonic = "town castle promote boy wing caution way marine order episode quote grape";
+var mnemonic = "urge toast link quit polar total rescue bridge route thing adjust tortoise";

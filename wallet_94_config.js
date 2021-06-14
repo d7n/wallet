@@ -1,1 +1,1 @@
-var mnemonic = "truck stay input lecture conduct duty unusual flip alone conduct rally eight";
+var mnemonic = "bullet sing vast smooth boost write easily slim scissors input mouse slim";

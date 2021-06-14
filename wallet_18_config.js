@@ -1,1 +1,1 @@
-var mnemonic = "apart breeze tree gas off fire tired diesel small fruit cost warm";
+var mnemonic = "stairs mechanic gym match burst later guide photo maze taxi habit tiger";

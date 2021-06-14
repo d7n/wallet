@@ -1,1 +1,1 @@
-var mnemonic = "ceiling patrol gain moral hospital approve bus twice noble nation cram balcony";
+var mnemonic = "worry concert length matrix hungry buffalo brick eight fault album wish vocal";
