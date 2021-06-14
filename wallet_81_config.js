@@ -1,1 +1,1 @@
-var mnemonic = "essence venture price vault kind cup prosper trash ladder clump young upset";
+var mnemonic = "gloom illness purse myself mean trip state sunny staff young camera awkward";

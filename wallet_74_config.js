@@ -1,1 +1,1 @@
-var mnemonic = "exotic become nurse health noodle fatigue attend pink veteran popular worry honey";
+var mnemonic = "system guard boy zebra profit gallery twist harvest sand three trick tragic";

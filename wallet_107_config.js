@@ -1,1 +1,1 @@
-var mnemonic = "olympic mechanic endless horror bronze vote fluid this guard income solid photo";
+var mnemonic = "physical vocal lawsuit life almost nice pencil shy cannon cricket lunch sweet";

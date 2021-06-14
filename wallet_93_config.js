@@ -1,1 +1,1 @@
-var mnemonic = "action army travel blur twelve surround glance auction priority sphere rate fortune";
+var mnemonic = "retire actor lens rabbit rude reduce install enrich fiscal destroy idle toe";

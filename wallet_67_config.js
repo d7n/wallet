@@ -1,1 +1,1 @@
-var mnemonic = "talk guide party mouse horror joke skin guide ritual direct stereo survey";
+var mnemonic = "worth record common hero ripple vocal include attend brand wagon today there";

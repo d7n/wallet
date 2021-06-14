@@ -1,1 +1,1 @@
-var mnemonic = "biology bus liquid bus stairs genius heavy glimpse traffic jelly eagle crisp";
+var mnemonic = "ranch shoe lazy insane monitor coil defense leader autumn law family leaf";

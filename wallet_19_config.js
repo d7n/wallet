@@ -1,1 +1,1 @@
-var mnemonic = "six shrimp vicious shoulder zero season unique upper process permit flower dune";
+var mnemonic = "program will purse camp genre endless help dress differ monster exclude cruel";

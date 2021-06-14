@@ -1,1 +1,1 @@
-var mnemonic = "leisure plug voyage input learn flame busy curtain toward burden skate tunnel";
+var mnemonic = "patch then prosper assault velvet surface dignity couch neither chief venue donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "fog balcony solve hundred empower gas high purpose grit ready aunt disorder";
+var mnemonic = "camera hero twin radio consider change sentence trust ring claw happy detect";

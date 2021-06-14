@@ -1,1 +1,1 @@
-var mnemonic = "circle still forward library brain evoke minimum vague hire february exact tortoise";
+var mnemonic = "pipe arch ripple enforce tortoise goddess lazy vendor dial cupboard wrong egg";

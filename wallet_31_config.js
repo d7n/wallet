@@ -1,1 +1,1 @@
-var mnemonic = "truly casino era mouse crater chaos hole sheriff wonder truck ketchup together";
+var mnemonic = "artwork until purse any huge saddle memory quantum pelican episode cover because";

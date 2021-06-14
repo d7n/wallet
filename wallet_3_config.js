@@ -1,1 +1,1 @@
-var mnemonic = "tennis alley inflict health scale predict awake affair grape fury install donate";
+var mnemonic = "burger idle wealth about purchase bone seminar strategy cupboard federal close depend";

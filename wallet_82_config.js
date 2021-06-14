@@ -1,1 +1,1 @@
-var mnemonic = "advance dose excuse economy focus result click erosion syrup clock brain only";
+var mnemonic = "glance often armed husband faith cabbage man congress tortoise increase decorate inquiry";

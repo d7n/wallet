@@ -1,1 +1,1 @@
-var mnemonic = "host citizen control clog element couple accident tired achieve lunch desk jar";
+var mnemonic = "dolphin tide belt quiz donate recall able height distance dance abandon romance";

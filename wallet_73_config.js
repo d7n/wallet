@@ -1,1 +1,1 @@
-var mnemonic = "joy taxi owner family stand merit usage loyal series guitar sort medal";
+var mnemonic = "shallow faculty pause primary balance ten tiny zebra cigar van begin sort";

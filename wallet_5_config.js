@@ -1,1 +1,1 @@
-var mnemonic = "gravity trade region creek pattern detail shop news fatigue wire tenant cash";
+var mnemonic = "despair trim current stage artefact style visual reason like anger fancy version";

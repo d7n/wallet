@@ -1,1 +1,1 @@
-var mnemonic = "yard rent loan silver struggle blush tide federal finger recipe dolphin dawn";
+var mnemonic = "dutch pulp guilt social merit drink sponsor miss buddy master trend vicious";

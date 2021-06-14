@@ -1,1 +1,1 @@
-var mnemonic = "solve cart genius noble atom taxi face cherry huge sketch giggle exclude";
+var mnemonic = "version syrup wedding people wage copy option tumble position royal output waste";

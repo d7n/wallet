@@ -1,1 +1,1 @@
-var mnemonic = "valid era across perfect nephew caught cube still major student hammer scorpion";
+var mnemonic = "master spider noodle lend various raccoon rather unhappy squeeze upon law borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "lady enrich apart entry proof lumber caution minimum observe hundred purse audit";
+var mnemonic = "defy lion online safe employ firm museum used impulse vacuum tell sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "credit chalk want soldier trouble soda own valve service lesson warfare describe";
+var mnemonic = "chronic kingdom sphere guide swing leopard junk ancient pelican energy peace bike";

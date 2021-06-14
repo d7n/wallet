@@ -1,1 +1,1 @@
-var mnemonic = "rally potato hire glory increase axis garlic board topic such turn topic";
+var mnemonic = "hover cactus ask mean wheat foster delay mad replace lottery pet shine";

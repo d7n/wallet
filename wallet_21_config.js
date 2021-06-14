@@ -1,1 +1,1 @@
-var mnemonic = "category coil dynamic eternal corn fatigue copper forum doll whip innocent soon";
+var mnemonic = "unlock pluck stone timber country donor leaf moment door pet frog dirt";

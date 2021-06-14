@@ -1,1 +1,1 @@
-var mnemonic = "thing sustain beauty iron common churn unaware primary afraid omit garment upgrade";
+var mnemonic = "slogan cruel floor rather hand lonely broken tissue hurry wine glad laptop";

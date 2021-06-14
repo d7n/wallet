@@ -1,1 +1,1 @@
-var mnemonic = "escape protect crash mad brave orchard dust mother trip insane scan wear";
+var mnemonic = "chapter math unhappy royal auction brick opera bulk stadium forest glove artwork";

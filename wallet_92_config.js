@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin actual direct tone moment honey rapid behind exotic boil move congress";
+var mnemonic = "used embody flush goat filter age dwarf poet system salmon child fatigue";

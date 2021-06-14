@@ -1,1 +1,1 @@
-var mnemonic = "uphold crush jacket clean fly leisure thunder sick pull enact huge stairs";
+var mnemonic = "luggage rifle toward concert great hill raccoon matter arch evolve hand horn";

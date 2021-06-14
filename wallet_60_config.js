@@ -1,1 +1,1 @@
-var mnemonic = "swallow danger person salmon govern area outside extend visit name tragic farm";
+var mnemonic = "impose marriage you rack release token elegant retire rely flame disagree rifle";

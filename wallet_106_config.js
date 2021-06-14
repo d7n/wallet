@@ -1,1 +1,1 @@
-var mnemonic = "excite blush enough hard sunset trash bring glare letter balcony barrel cereal";
+var mnemonic = "frown scout wisdom water object desert lonely combine ramp skin there favorite";

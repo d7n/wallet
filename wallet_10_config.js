@@ -1,1 +1,1 @@
-var mnemonic = "train indoor rapid sorry zero carry survey before topple enroll afraid raccoon";
+var mnemonic = "rate neglect range valley drift moral soldier leave trip annual inflict sunny";

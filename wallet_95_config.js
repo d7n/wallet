@@ -1,1 +1,1 @@
-var mnemonic = "juice fiber car rent drastic crack tag proud acoustic rain summer harvest";
+var mnemonic = "usage burst spy bag ten patient pill elder tuition train saddle battle";

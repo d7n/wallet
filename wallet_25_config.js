@@ -1,1 +1,1 @@
-var mnemonic = "trash soon pool filter flight edit length reason online taste song lobster";
+var mnemonic = "february flavor garlic right crew glance number wave connect area skirt never";

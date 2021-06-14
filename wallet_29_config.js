@@ -1,1 +1,1 @@
-var mnemonic = "proof shy cancel recipe diesel remain toast ranch horn miracle boss crunch";
+var mnemonic = "beef scrap item dance weather useless torch define believe dismiss track wonder";

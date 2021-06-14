@@ -1,1 +1,1 @@
-var mnemonic = "excite physical desk agree hollow civil flavor trust atom chicken alley slush";
+var mnemonic = "strong army input whale vocal drill canoe latin this flag someone add";

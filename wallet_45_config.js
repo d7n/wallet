@@ -1,1 +1,1 @@
-var mnemonic = "logic squeeze firm palm noodle gospel uncover cinnamon false basket elite crawl";
+var mnemonic = "other item video kite anxiety squeeze vanish bright friend hospital garbage soldier";

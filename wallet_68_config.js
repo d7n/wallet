@@ -1,1 +1,1 @@
-var mnemonic = "valid inject pilot grow wing once certain delay oyster afraid cluster wrestle";
+var mnemonic = "myself tonight obvious joy expose gorilla icon dinner portion nurse quit window";

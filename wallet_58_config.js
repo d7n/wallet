@@ -1,1 +1,1 @@
-var mnemonic = "sketch usage humble load arrow define verb canyon zone fiction clean invest";
+var mnemonic = "maid shine tired badge jeans dad head pig planet wish fury great";

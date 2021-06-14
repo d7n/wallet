@@ -1,1 +1,1 @@
-var mnemonic = "boil father access nature moral age stuff pond excuse agree garlic govern";
+var mnemonic = "fence april shrimp valve joke make glare provide exile style host fatigue";

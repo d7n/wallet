@@ -1,1 +1,1 @@
-var mnemonic = "frog spy voice torch process install venue leopard brave local gym rare";
+var mnemonic = "learn spirit exhibit better depth pride ramp inform cool palace song language";

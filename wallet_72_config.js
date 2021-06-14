@@ -1,1 +1,1 @@
-var mnemonic = "because foster around horror connect action force shop hurry path ecology immense";
+var mnemonic = "shed logic problem busy garlic tray yellow salt detail little electric false";

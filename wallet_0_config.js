@@ -1,1 +1,1 @@
-var mnemonic = "body host share neck else limb rug luggage shield error night roof";
+var mnemonic = "cost text edit require chaos bright bundle able either setup bitter proud";

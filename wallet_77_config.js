@@ -1,1 +1,1 @@
-var mnemonic = "demand retire smart erode solar express expire slender trouble solve tuition brass";
+var mnemonic = "bread claw liberty repeat today fortune vocal aunt demand confirm need dad";

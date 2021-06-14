@@ -1,1 +1,1 @@
-var mnemonic = "improve siege swim secret mandate slow comfort fiction elegant nut cool ugly";
+var mnemonic = "dawn client scale gaze swarm company armed arch quiz dance same often";

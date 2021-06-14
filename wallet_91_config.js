@@ -1,1 +1,1 @@
-var mnemonic = "very blade father diet curious coast swim outdoor result cat umbrella stay";
+var mnemonic = "grunt blue inform dismiss fatigue spoil update evil intact before relax imitate";

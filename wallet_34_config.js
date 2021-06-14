@@ -1,1 +1,1 @@
-var mnemonic = "donor cable sock trade chuckle spoil deliver spy remember disease fiber abstract";
+var mnemonic = "web another spice napkin fancy liberty theory pluck ridge short alpha muscle";

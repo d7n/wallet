@@ -1,1 +1,1 @@
-var mnemonic = "buffalo soccer wild warfare curious demise harsh achieve exotic scrap enrich practice";
+var mnemonic = "atom peanut anxiety mushroom prepare term small congress outdoor youth antique help";

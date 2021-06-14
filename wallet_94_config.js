@@ -1,1 +1,1 @@
-var mnemonic = "pledge decrease husband put cave season chunk rigid craft unveil team forget";
+var mnemonic = "question acid tell undo ecology surface quote kite scale better nerve mind";

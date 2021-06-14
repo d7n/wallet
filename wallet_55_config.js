@@ -1,1 +1,1 @@
-var mnemonic = "scissors nest start hotel raw tell symptom harbor protect exclude calm banner";
+var mnemonic = "couple fly remove chapter hill mention produce drill damage gravity exclude bid";

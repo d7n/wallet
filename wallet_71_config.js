@@ -1,1 +1,1 @@
-var mnemonic = "ostrich elevator anchor quiz spoil coin key detect pull lumber rebuild term";
+var mnemonic = "urge leader twelve celery canoe tobacco brick multiply husband task tortoise transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "draw pave brass swim accident claw need brother chimney exercise visual valve";
+var mnemonic = "drip head toss blue cruise state wedding silver dune same climb smart";

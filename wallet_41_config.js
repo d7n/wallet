@@ -1,1 +1,1 @@
-var mnemonic = "fly dice predict puppy wrestle expect among begin biology hedgehog mad nothing";
+var mnemonic = "you aim thing jelly rookie march sword school kingdom render honey coffee";

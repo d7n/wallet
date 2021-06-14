@@ -1,1 +1,1 @@
-var mnemonic = "item nasty wish cry liberty access audit develop gift holiday zero pony";
+var mnemonic = "answer roast replace diet uphold tennis happy better jar wedding diesel crumble";

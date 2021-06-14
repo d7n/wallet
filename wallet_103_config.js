@@ -1,1 +1,1 @@
-var mnemonic = "airport velvet neglect put object arena limb social satoshi pet panther morning";
+var mnemonic = "equal bomb author wedding lottery today short omit brick umbrella six sheriff";

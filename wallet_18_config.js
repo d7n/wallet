@@ -1,1 +1,1 @@
-var mnemonic = "pool twenty version smoke much seat sort crucial village fresh mechanic vote";
+var mnemonic = "own small palm syrup school host kick virtual cave exhaust print boss";

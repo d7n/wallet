@@ -1,1 +1,1 @@
-var mnemonic = "thought pudding chapter raise brain topic deer border draft process own notice";
+var mnemonic = "frost drama frame slow edge december illness cradle battle swap minimum oil";

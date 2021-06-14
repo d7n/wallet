@@ -1,1 +1,1 @@
-var mnemonic = "dove picture engine child trade child elite truly just clay defy juice";
+var mnemonic = "adapt behave loud lava hawk error walk author tilt cinnamon awful actress";

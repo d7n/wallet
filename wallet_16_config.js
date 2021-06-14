@@ -1,1 +1,1 @@
-var mnemonic = "balcony hurry point exclude main ceiling trophy title gentle arrive letter mail";
+var mnemonic = "donor grunt tilt upgrade hidden brass adapt mouse file ridge police end";

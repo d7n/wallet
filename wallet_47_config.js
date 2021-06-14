@@ -1,1 +1,1 @@
-var mnemonic = "tide panda machine attitude where deliver daughter lottery shell super tuition genre";
+var mnemonic = "universe liberty tortoise surround female void globe zebra anchor tonight income reveal";

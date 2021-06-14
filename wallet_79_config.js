@@ -1,1 +1,1 @@
-var mnemonic = "gauge network mandate business tooth bind task goat fetch usual vast beauty";
+var mnemonic = "protect fence expose cross salad prepare divorce toy scrub hill age answer";

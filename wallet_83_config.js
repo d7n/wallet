@@ -1,1 +1,1 @@
-var mnemonic = "boost south soup voice spend soul small topple excuse right social scorpion";
+var mnemonic = "apart vital scrap pull grace steak behave surge develop object kite ancient";

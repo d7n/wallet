@@ -1,1 +1,1 @@
-var mnemonic = "dose dress wood lava perfect celery student omit poet century turkey explain";
+var mnemonic = "morning silent rent hidden pistol fade present ankle bright barrel thunder fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "piano lazy magic notable defense online nurse bracket level pretty hour vicious";
+var mnemonic = "fabric assist adapt mouse exhaust mass area maximum sadness sense end always";

@@ -1,1 +1,1 @@
-var mnemonic = "theory month spoil gift key bean manage unable spatial ankle mad primary";
+var mnemonic = "slow series fish melt daring connect century symptom enlist mechanic square home";

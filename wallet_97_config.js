@@ -1,1 +1,1 @@
-var mnemonic = "very acquire own observe pig toward diagram chimney better basic palace faith";
+var mnemonic = "sing office nasty into affair adult erosion require empower sweet word clip";

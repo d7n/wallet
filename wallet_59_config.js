@@ -1,1 +1,1 @@
-var mnemonic = "retire volume cloth gasp census hybrid way decide wheel artefact mango gadget";
+var mnemonic = "rocket riot lake fluid razor exchange obey rare fly scene cushion similar";

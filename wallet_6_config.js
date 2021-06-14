@@ -1,1 +1,1 @@
-var mnemonic = "grant relief soft engage popular gaze ability sugar cabbage fresh business truth";
+var mnemonic = "antenna siren lumber stadium stick rural sting talent debate peasant torch lift";

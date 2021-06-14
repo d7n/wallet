@@ -1,1 +1,1 @@
-var mnemonic = "file rifle south donor exhaust eternal knock head device engage tape bomb";
+var mnemonic = "can slush other anchor poverty boil make describe regular party cruel famous";

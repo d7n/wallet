@@ -1,1 +1,1 @@
-var mnemonic = "host fatigue science oil napkin erode fortune extend replace anger fall decade";
+var mnemonic = "scout body stove wolf desert kind tragic strong subject library found mass";

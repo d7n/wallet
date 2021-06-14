@@ -1,1 +1,1 @@
-var mnemonic = "naive punch permit few leopard corn gap robot chase lamp unhappy wolf";
+var mnemonic = "garage cabbage there pulse palm girl anger sunset can file badge van";

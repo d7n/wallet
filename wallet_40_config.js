@@ -1,1 +1,1 @@
-var mnemonic = "fall predict iron symptom easily imitate stomach change jazz model gasp drink";
+var mnemonic = "clerk web mask correct wrist flush jar blind emotion spirit destroy charge";

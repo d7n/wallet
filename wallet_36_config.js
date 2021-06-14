@@ -1,1 +1,1 @@
-var mnemonic = "blush journey era inflict tooth current uncover dwarf business good thought stumble";
+var mnemonic = "wash shed use cotton bus special switch grass cloud unit soda genuine";

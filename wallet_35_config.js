@@ -1,1 +1,1 @@
-var mnemonic = "advance library oblige divide resource draw office lava luggage rhythm sister angle";
+var mnemonic = "tomato guitar chase toast practice into oblige session flush dismiss claim example";

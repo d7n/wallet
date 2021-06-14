@@ -1,1 +1,1 @@
-var mnemonic = "flip large chair mammal eternal salad trim flag utility rib attract capable";
+var mnemonic = "yellow wing whip win desert ordinary garment trade add arena ice follow";

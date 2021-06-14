@@ -1,1 +1,1 @@
-var mnemonic = "exchange kick during destroy party tired truth govern major goat mercy frown";
+var mnemonic = "play number dilemma domain brass market office address cupboard mass legal rather";

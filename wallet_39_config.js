@@ -1,1 +1,1 @@
-var mnemonic = "decade genius library yard other ask swear cook asthma mixed dress walnut";
+var mnemonic = "elegant donor urban text laundry treat creek orphan raven bargain catch praise";

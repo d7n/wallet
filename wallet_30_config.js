@@ -1,1 +1,1 @@
-var mnemonic = "ramp hair owner april menu fruit plate noble that identify surround wash";
+var mnemonic = "employ staff mouse super quit short jacket lonely hole same upgrade jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "claw nephew lobster labor define poverty forest liberty sentence excuse maze issue";
+var mnemonic = "voice diamond water combine exchange cherry hospital defense scout topple control boat";

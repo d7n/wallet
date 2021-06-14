@@ -1,1 +1,1 @@
-var mnemonic = "flower task worry size suit enrich notice alter use comic tube broken";
+var mnemonic = "round unhappy grace ignore valve post ring march clerk subway cereal record";

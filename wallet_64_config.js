@@ -1,1 +1,1 @@
-var mnemonic = "shove gap cricket connect estate shallow attract kind mad have chef view";
+var mnemonic = "person chair alcohol screen list slot path knee basket oven find attack";

@@ -1,1 +1,1 @@
-var mnemonic = "clap ten boil witness wash select artefact actual input film lunch surround";
+var mnemonic = "clutch gasp mansion lecture speed success toast canoe amused inch primary must";

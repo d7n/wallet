@@ -1,1 +1,1 @@
-var mnemonic = "filter rescue diet abandon before mushroom ocean debate blouse leaf reunion pilot";
+var mnemonic = "trade torch garage mystery check kitten nominee walk wife join timber grab";

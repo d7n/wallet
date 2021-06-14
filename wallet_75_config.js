@@ -1,1 +1,1 @@
-var mnemonic = "tennis pull window split group vacant address tuna sword service add special";
+var mnemonic = "inmate inject first gym ticket answer captain sign general sting snap casual";

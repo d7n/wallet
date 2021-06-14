@@ -1,1 +1,1 @@
-var mnemonic = "screen idle enough permit maple surface risk shoulder lunch emotion hobby rather";
+var mnemonic = "faith gauge camp supreme learn crucial rather group eager case bounce prevent";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe tumble famous bonus cluster love dial hero flush swarm hold flush";
+var mnemonic = "fame top wall turn trim canal hint cycle gaze ugly confirm round";

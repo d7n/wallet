@@ -1,1 +1,1 @@
-var mnemonic = "rescue poverty forward detail genius upon rigid expose run brand visit eager";
+var mnemonic = "effort reward beach bubble crew electric twice wet magic absent apple tree";

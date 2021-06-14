@@ -1,1 +1,1 @@
-var mnemonic = "detect buyer next trust cup forget column spot guilt climb festival fever";
+var mnemonic = "tunnel mixed collect female endless kitten couch lesson hover choice lock wink";

@@ -1,1 +1,1 @@
-var mnemonic = "under clerk erosion flag illegal original valley next frog face knife radar";
+var mnemonic = "coral bind defy will bamboo shuffle guitar saddle push pet order shallow";

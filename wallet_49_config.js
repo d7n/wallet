@@ -1,1 +1,1 @@
-var mnemonic = "science shoe buzz balcony dress move mule obvious fly script marriage derive";
+var mnemonic = "curve excuse vendor capital proud grace expand shop angry circle web stand";

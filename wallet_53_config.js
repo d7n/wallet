@@ -1,1 +1,1 @@
-var mnemonic = "tennis hurry ticket about distance camera globe awake hope off dolphin access";
+var mnemonic = "conduct love they focus shallow caught begin grocery system apart teach machine";

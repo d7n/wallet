@@ -1,1 +1,1 @@
-var mnemonic = "merit rice often give junior human over conduct color victory walnut present";
+var mnemonic = "erosion icon board wolf lounge sort movie write coyote scissors romance game";

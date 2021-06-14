@@ -1,1 +1,1 @@
-var mnemonic = "pool elegant exhaust wage turtle easily mind angry drill select priority early";
+var mnemonic = "elevator fitness genius lift pool cereal mandate dance ankle scout travel check";

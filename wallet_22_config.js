@@ -1,1 +1,1 @@
-var mnemonic = "glass credit submit else sibling rally oxygen document offer now check loyal";
+var mnemonic = "rural museum kidney paddle laundry student enhance recycle wonder myself process confirm";
