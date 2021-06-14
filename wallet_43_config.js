@@ -1,1 +1,1 @@
-var mnemonic = "fold turtle early veteran book end ask decorate street relax that claim";
+var mnemonic = "uniform online chaos predict afford goat bird flight unusual return light pipe";

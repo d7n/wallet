@@ -1,1 +1,1 @@
-var mnemonic = "path bright garment promote math matter empower appear alone frame skate shove";
+var mnemonic = "grow deal excess decade erosion will faith funny scan wait siege sound";

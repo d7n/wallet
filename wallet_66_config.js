@@ -1,1 +1,1 @@
-var mnemonic = "addict gorilla hockey bench voice awake boil aspect east ancient banana draft";
+var mnemonic = "service song powder agent yard quote unfold brush tell chapter mansion beef";

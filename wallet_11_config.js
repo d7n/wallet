@@ -1,1 +1,1 @@
-var mnemonic = "beef settle right sheriff great number zebra deny garage labor idle habit";
+var mnemonic = "pond dilemma fuel neglect runway avoid squeeze own eager velvet kite charge";

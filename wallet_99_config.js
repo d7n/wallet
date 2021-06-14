@@ -1,1 +1,1 @@
-var mnemonic = "mail couple always sunny ready provide police wolf capital wild climb remember";
+var mnemonic = "pupil near dizzy demand consider waste boil forget lucky about flight hobby";

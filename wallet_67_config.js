@@ -1,1 +1,1 @@
-var mnemonic = "delay enrich used rain client stairs enhance crash crew thrive strike glass";
+var mnemonic = "recall obvious mom judge sure scrap warrior space charge rhythm oval liberty";

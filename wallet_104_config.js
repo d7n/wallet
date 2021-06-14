@@ -1,1 +1,1 @@
-var mnemonic = "move improve tree flip mistake give rather security flip dwarf front depend";
+var mnemonic = "series kiss bunker drum attack demise impose issue fence wrist little pause";

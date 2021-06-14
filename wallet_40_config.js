@@ -1,1 +1,1 @@
-var mnemonic = "outer tool false sort zebra silly more property link armor way dry";
+var mnemonic = "pet enemy oak public fold bid fitness title slot sudden rally share";

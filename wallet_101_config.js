@@ -1,1 +1,1 @@
-var mnemonic = "oyster dad increase frown frown tomato humor town marble alpha play initial";
+var mnemonic = "subject pen churn airport empower swarm involve million lock battle elite account";

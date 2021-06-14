@@ -1,1 +1,1 @@
-var mnemonic = "heavy example leave desk cabbage repeat risk tomorrow moon leopard scout must";
+var mnemonic = "lazy rug floor insect humble insect detect above equal waste favorite actual";

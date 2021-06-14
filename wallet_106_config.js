@@ -1,1 +1,1 @@
-var mnemonic = "news tissue never rare output train collect guess blush goose spell speed";
+var mnemonic = "decide labor math exercise uphold business ticket enough test sphere hire rebel";

@@ -1,1 +1,1 @@
-var mnemonic = "document creek firm upon flat initial file taste town cover divorce divert";
+var mnemonic = "equal net marriage absurd figure pen remember civil curve catalog wish that";

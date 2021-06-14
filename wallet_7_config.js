@@ -1,1 +1,1 @@
-var mnemonic = "nephew ramp proof maid mean beach stock burst penalty legal forest fox";
+var mnemonic = "maze offer giggle install area skin argue access caught shell burger huge";

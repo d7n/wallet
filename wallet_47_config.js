@@ -1,1 +1,1 @@
-var mnemonic = "gentle feature symbol grace easily refuse space ridge gown that mango glad";
+var mnemonic = "group betray review bunker remain aspect rare decline celery era defy praise";

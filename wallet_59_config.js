@@ -1,1 +1,1 @@
-var mnemonic = "smile under doll banana improve exile afraid better accident misery solar crawl";
+var mnemonic = "pistol paddle region ceiling credit risk table match motion wise claim bus";

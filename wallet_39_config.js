@@ -1,1 +1,1 @@
-var mnemonic = "space wreck supreme steel token famous beach giraffe chef century member dignity";
+var mnemonic = "pear labor urge what promote gauge walnut fresh donkey border cereal zoo";

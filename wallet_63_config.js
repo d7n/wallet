@@ -1,1 +1,1 @@
-var mnemonic = "police input program tortoise lift blouse impulse city warfare always chuckle hazard";
+var mnemonic = "wish opera fiber casino stuff split volcano virus lecture impulse forward scene";

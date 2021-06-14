@@ -1,1 +1,1 @@
-var mnemonic = "gain creek enhance hybrid student social walk eager pioneer blush field meat";
+var mnemonic = "ship gesture zebra smooth hawk path lake tongue link one economy pet";

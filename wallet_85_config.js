@@ -1,1 +1,1 @@
-var mnemonic = "mountain major task audit mix solution lonely liar draft dice swift scare";
+var mnemonic = "vivid office roof spoil firm vault cable gentle gun will cement mass";

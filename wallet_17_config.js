@@ -1,1 +1,1 @@
-var mnemonic = "inch gadget furnace trim found home donkey dignity forget special soda come";
+var mnemonic = "deliver scrub aerobic matter patient behind alert mixture play outside embody cliff";

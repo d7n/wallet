@@ -1,1 +1,1 @@
-var mnemonic = "ride video leader network stay mask tower lunar mosquito awkward vote crack";
+var mnemonic = "razor angle sea wheat expose asthma menu hello face stand soda home";

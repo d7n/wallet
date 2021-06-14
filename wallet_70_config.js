@@ -1,1 +1,1 @@
-var mnemonic = "bonus regular slush sell dinner scorpion help error teach novel only mad";
+var mnemonic = "inquiry expand couple quiz giggle disorder friend firm basic hero vote shadow";

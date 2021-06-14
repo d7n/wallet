@@ -1,1 +1,1 @@
-var mnemonic = "opinion drum more bicycle forum volcano heart civil kingdom museum grit nerve";
+var mnemonic = "approve gun muffin pause topic follow tribe sleep weekend harvest differ typical";

@@ -1,1 +1,1 @@
-var mnemonic = "soon core forget index sibling clap merit float little pave gentle lunch";
+var mnemonic = "excess diesel rug beyond grief curtain obey session slender object concert face";

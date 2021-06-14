@@ -1,1 +1,1 @@
-var mnemonic = "easy curtain surface dance quick ask giant dutch gallery exit little stand";
+var mnemonic = "glue dress strike account outer glass rose saddle shove mandate wreck despair";

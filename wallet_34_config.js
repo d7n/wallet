@@ -1,1 +1,1 @@
-var mnemonic = "cart plastic general bullet renew control bone gift future mimic minor sick";
+var mnemonic = "lion auction welcome man sunset game pulp ignore begin stumble witness message";

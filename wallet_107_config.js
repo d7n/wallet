@@ -1,1 +1,1 @@
-var mnemonic = "summer olympic bless one silent drift cheap switch submit refuse print jewel";
+var mnemonic = "fix trade scrap chef village speed wood trade push capital small timber";

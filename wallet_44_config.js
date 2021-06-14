@@ -1,1 +1,1 @@
-var mnemonic = "across dawn image parade blind fall obtain bulk detect used pulp nation";
+var mnemonic = "observe dog lesson brisk cinnamon purity build present seat profit youth lyrics";

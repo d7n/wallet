@@ -1,1 +1,1 @@
-var mnemonic = "bridge essence lawsuit broccoli cliff card escape stomach harbor entire engine science";
+var mnemonic = "plate comfort alone rule avoid dog broccoli turkey myself kingdom nephew element";

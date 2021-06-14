@@ -1,1 +1,1 @@
-var mnemonic = "absent acid avocado purse avocado someone great float fox industry person text";
+var mnemonic = "okay fiction swear ranch oyster donkey duty among seek library soft because";

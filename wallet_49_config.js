@@ -1,1 +1,1 @@
-var mnemonic = "lens club swamp faculty float weird actor shove street page faculty swift";
+var mnemonic = "bread reopen recall text anxiety forum gentle various wall depart pattern laundry";

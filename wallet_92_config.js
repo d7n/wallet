@@ -1,1 +1,1 @@
-var mnemonic = "ball ramp evidence wrong tuition betray alarm feel coffee title gallery regular";
+var mnemonic = "defy interest symbol wet thumb bring faith charge change reveal system call";

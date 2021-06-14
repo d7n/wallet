@@ -1,1 +1,1 @@
-var mnemonic = "whip web drum spirit wine clinic eight sound hint used laundry canvas";
+var mnemonic = "hurry ticket parade decorate cave dust village tackle skate offer miss piano";

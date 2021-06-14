@@ -1,1 +1,1 @@
-var mnemonic = "later situate worry return unfold liberty wink wealth hope hybrid advance romance";
+var mnemonic = "pitch save flag amazing arrest protect inspire exile arrive lyrics faith pulp";

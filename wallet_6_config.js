@@ -1,1 +1,1 @@
-var mnemonic = "sibling lady firm inch tell dose cherry advice upset approve pluck orient";
+var mnemonic = "hundred develop home market arrive pelican bike drink siren brush couple party";

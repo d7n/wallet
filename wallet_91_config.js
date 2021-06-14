@@ -1,1 +1,1 @@
-var mnemonic = "floor despair raccoon much tilt riot busy treat water surge split train";
+var mnemonic = "broken swift wine slam found model refuse twist basic pass beach sniff";

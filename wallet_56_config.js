@@ -1,1 +1,1 @@
-var mnemonic = "woman shine tree vehicle vote chief switch palm correct thrive nerve train";
+var mnemonic = "gun royal since wall welcome stone shuffle luxury hint exit unaware judge";

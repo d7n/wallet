@@ -1,1 +1,1 @@
-var mnemonic = "law law canvas pear slogan pencil alley tool uncle amount cover tape";
+var mnemonic = "special still equal discover shove calm awkward practice silent salute write success";

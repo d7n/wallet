@@ -1,1 +1,1 @@
-var mnemonic = "summer rely text coast exhibit radio high gain head rescue service human";
+var mnemonic = "current shift science reason economy always reopen catalog display loop tell thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "around float lucky donor frame minute movie again federal exile spatial exercise";
+var mnemonic = "jump often addict inform hero forward before ghost exercise pass adjust crumble";

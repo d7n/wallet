@@ -1,1 +1,1 @@
-var mnemonic = "require cute deputy until myself avoid veteran pipe wheat charge today monitor";
+var mnemonic = "sadness theme crunch blush stable trust husband adult width output ethics direct";

@@ -1,1 +1,1 @@
-var mnemonic = "little worry usual noise fuel neck pair paper chicken card tragic hundred";
+var mnemonic = "child prepare retreat point stable tennis damp jewel drip ensure drip rail";

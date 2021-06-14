@@ -1,1 +1,1 @@
-var mnemonic = "soccer future lamp alcohol bitter script retreat smart brass suspect dumb dream";
+var mnemonic = "slam reopen visual rail quality depart acquire invest coyote friend away divorce";

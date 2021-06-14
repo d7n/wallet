@@ -1,1 +1,1 @@
-var mnemonic = "space kangaroo planet casual course swift noodle illegal refuse spare shoulder empty";
+var mnemonic = "oblige blouse disease proud island team betray absent media forum surround until";

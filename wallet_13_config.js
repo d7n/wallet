@@ -1,1 +1,1 @@
-var mnemonic = "more jelly dentist science payment address gloom raise post crime surge nurse";
+var mnemonic = "observe blur kite display air follow letter size version vault satisfy wise";

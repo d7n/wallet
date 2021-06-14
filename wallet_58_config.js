@@ -1,1 +1,1 @@
-var mnemonic = "arctic toilet order trap false math also increase machine gospel toss maple";
+var mnemonic = "infant tape salmon capable fury about fish auction mercy erosion goat comfort";

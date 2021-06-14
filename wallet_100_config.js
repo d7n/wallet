@@ -1,1 +1,1 @@
-var mnemonic = "tired upgrade resource have miracle quarter view order vibrant boost crane wrestle";
+var mnemonic = "giggle tattoo fence egg core hire indicate same shy glue apart fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "primary ski guide cabbage minute hospital endless glow display elite organ ridge";
+var mnemonic = "genius stick panther produce robot dignity radio daughter idea maid embark purpose";

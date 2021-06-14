@@ -1,1 +1,1 @@
-var mnemonic = "payment inmate tenant check enough wire tiger figure subway walnut please shy";
+var mnemonic = "stamp ball tray guitar popular atom deputy slot vicious toddler family earth";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics entry blade finger helmet shoe hamster thing produce rail paddle door";
+var mnemonic = "curious pioneer snap inflict climb glare endless crystal net hockey orient kit";

@@ -1,1 +1,1 @@
-var mnemonic = "moral draft recycle crucial answer alcohol ecology hospital prosper alpha canyon narrow";
+var mnemonic = "world either erode summer multiply first alcohol sniff follow crowd situate protect";

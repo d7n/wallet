@@ -1,1 +1,1 @@
-var mnemonic = "oblige hand side increase cause problem share around merry giggle prefer main";
+var mnemonic = "autumn spread stove steak rate floor flee skin butter confirm today hip";

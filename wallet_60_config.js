@@ -1,1 +1,1 @@
-var mnemonic = "novel grace boring narrow assist movie copper jacket move cannon message barely";
+var mnemonic = "library south mansion math assist furnace pulse school barely spray furnace object";

@@ -1,1 +1,1 @@
-var mnemonic = "debate woman engage object fetch sponsor year warm chronic replace sibling fiber";
+var mnemonic = "mutual odor enlist task shaft ginger picnic cup grant top random evidence";

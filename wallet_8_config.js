@@ -1,1 +1,1 @@
-var mnemonic = "prison certain hope pole worry shaft fun vessel price supply harsh input";
+var mnemonic = "poet mean agent obey voyage bind deliver echo exhaust trick feed plug";

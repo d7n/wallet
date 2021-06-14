@@ -1,1 +1,1 @@
-var mnemonic = "asset imitate quantum bird sphere notable slam water win tomorrow pond air";
+var mnemonic = "certain love deputy rebel that typical obvious silent favorite panel ready vehicle";

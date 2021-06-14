@@ -1,1 +1,1 @@
-var mnemonic = "crisp raccoon december stone language great version accuse width vague lion tired";
+var mnemonic = "dirt reveal west shove carbon welcome example grass fence super cloud spring";

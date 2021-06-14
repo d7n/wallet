@@ -1,1 +1,1 @@
-var mnemonic = "clock crisp effort just crisp angle ten soap engine destroy month sibling";
+var mnemonic = "clown camera knife among squeeze anchor light license either bean afraid hurt";

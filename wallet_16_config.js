@@ -1,1 +1,1 @@
-var mnemonic = "oven this cement crystal gown century hungry tomato clay myself model deer";
+var mnemonic = "nature rate ski text lawsuit hammer portion book quality wreck goose giant";

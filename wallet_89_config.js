@@ -1,1 +1,1 @@
-var mnemonic = "wait grief tail limit elephant novel myself salmon argue enough coil speed";
+var mnemonic = "sibling other annual depth seminar earth dismiss brown cycle attitude bus song";

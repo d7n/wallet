@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow famous typical parade useless enable traffic apart tape creek opera trigger";
+var mnemonic = "minimum wine depth broccoli cluster nest choice impact twenty differ father opinion";

@@ -1,1 +1,1 @@
-var mnemonic = "bicycle boss behind bind face verb clown leg they forward exact august";
+var mnemonic = "glow hair adjust ability lizard library amused sadness manual chunk unique stadium";

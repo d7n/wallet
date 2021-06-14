@@ -1,1 +1,1 @@
-var mnemonic = "joy legend token surface puzzle silent worry lunch total aisle mosquito double";
+var mnemonic = "butter metal slice tonight acoustic upgrade pink ankle movie frown chunk kiss";

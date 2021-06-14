@@ -1,1 +1,1 @@
-var mnemonic = "brave output stem grace rally idle fan silver problem symptom cancel crunch";
+var mnemonic = "coach unusual interest thrive open bus globe ripple snow swap sugar marine";

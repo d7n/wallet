@@ -1,1 +1,1 @@
-var mnemonic = "you scan stand upgrade mask fortune swarm task file sleep hello aerobic";
+var mnemonic = "busy local solar abstract gas draft permit prepare lock wreck reveal saddle";

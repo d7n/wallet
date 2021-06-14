@@ -1,1 +1,1 @@
-var mnemonic = "illegal inject pledge ugly planet bunker load buffalo lottery gospel tell solution";
+var mnemonic = "outer split crack margin gift urban slender truck razor poem march list";

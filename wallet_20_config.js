@@ -1,1 +1,1 @@
-var mnemonic = "bridge link clip nephew picture sun extra asset rotate voyage fire violin";
+var mnemonic = "scene edit spell identify iron volcano clock hub strong just speak poverty";

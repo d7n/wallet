@@ -1,1 +1,1 @@
-var mnemonic = "steak admit never axis zoo onion firm various dilemma assume coconut opinion";
+var mnemonic = "bulb copper immense ladder sound negative frown topic zero satisfy era picnic";

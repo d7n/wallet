@@ -1,1 +1,1 @@
-var mnemonic = "maid next unaware cream science pupil gap snack wolf rough ankle armed";
+var mnemonic = "convince alcohol forum noise chase transfer extra crush speed fuel essay egg";

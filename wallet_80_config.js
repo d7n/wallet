@@ -1,1 +1,1 @@
-var mnemonic = "eagle hero since wheel toilet royal club garlic patient laugh pave spy";
+var mnemonic = "seek icon pretty intact ensure spatial price prevent visual ladder animal rich";

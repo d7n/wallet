@@ -1,1 +1,1 @@
-var mnemonic = "erupt act cargo saddle provide prize swing pole injury between narrow parent";
+var mnemonic = "rival uniform jar story notable orchard ketchup visit flee heart lady fetch";

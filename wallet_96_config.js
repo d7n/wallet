@@ -1,1 +1,1 @@
-var mnemonic = "consider salute bread message pumpkin father muffin wet alley mountain grain protect";
+var mnemonic = "labor color dirt joy hunt enlist hood claw dove knife expose fork";

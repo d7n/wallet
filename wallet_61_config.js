@@ -1,1 +1,1 @@
-var mnemonic = "suggest runway antique asthma hover cup host shed soon dress major during";
+var mnemonic = "ten dumb rug tide once oyster capital slender danger loud eager sword";

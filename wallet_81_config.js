@@ -1,1 +1,1 @@
-var mnemonic = "shadow guitar genius office fiber glimpse equip invite brass erase ketchup park";
+var mnemonic = "just kite drift width pink machine clinic manual monster riot point clog";

@@ -1,1 +1,1 @@
-var mnemonic = "media ten winter tackle october tragic remain inherit label furnace result assault";
+var mnemonic = "jelly double chest brief office chat erase edge ivory endless attack blast";

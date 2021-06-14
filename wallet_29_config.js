@@ -1,1 +1,1 @@
-var mnemonic = "expose clock soft thought wedding smoke liquid inject fury reform struggle double";
+var mnemonic = "tired soldier marine flower beyond sell menu sponsor unaware chimney cheap melody";

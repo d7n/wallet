@@ -1,1 +1,1 @@
-var mnemonic = "project file devote mobile rare middle confirm village average clerk clay you";
+var mnemonic = "ability insect essay pluck blush trick federal drink round rebel rebuild trumpet";

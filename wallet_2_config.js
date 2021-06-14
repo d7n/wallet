@@ -1,1 +1,1 @@
-var mnemonic = "maze buzz west screen turn cool bachelor toe limit subway approve range";
+var mnemonic = "board anxiety fatigue inject ritual budget what orphan other pelican ill rabbit";

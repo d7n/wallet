@@ -1,1 +1,1 @@
-var mnemonic = "bitter series fancy lounge shuffle clean defense speak title home climb bleak";
+var mnemonic = "near monster raccoon blame impulse replace make motion explain million cause hill";

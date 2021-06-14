@@ -1,1 +1,1 @@
-var mnemonic = "stove citizen sugar twenty rail walk coil sound rack castle inherit process";
+var mnemonic = "egg proof melt recycle sand tree tragic impulse twenty dignity track finish";

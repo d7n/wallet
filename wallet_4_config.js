@@ -1,1 +1,1 @@
-var mnemonic = "express arena couple lecture crawl elder envelope echo gold scout vivid ancient";
+var mnemonic = "rabbit enroll voice material mesh funny sponsor include include salt embody lens";

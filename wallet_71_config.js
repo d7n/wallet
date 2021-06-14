@@ -1,1 +1,1 @@
-var mnemonic = "hair baby cactus boil govern soft family wide prosper shop ridge awkward";
+var mnemonic = "thank call safe chat state family knock clown clock acoustic lecture pass";

@@ -1,1 +1,1 @@
-var mnemonic = "bean winter audit fossil clock side mechanic song mule human bomb wait";
+var mnemonic = "join science double doll impulse rhythm fire flat gain unique vicious search";

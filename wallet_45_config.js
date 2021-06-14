@@ -1,1 +1,1 @@
-var mnemonic = "either rule cry major exit approve because caught slender only arrow sure";
+var mnemonic = "crumble torch upset dawn tail embrace improve penalty remember promote valid pink";

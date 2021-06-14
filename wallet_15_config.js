@@ -1,1 +1,1 @@
-var mnemonic = "planet admit pretty inquiry message glad autumn master wet much duty together";
+var mnemonic = "chaos call hard arch pear dose fun cherry segment ignore blue fence";

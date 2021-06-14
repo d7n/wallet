@@ -1,1 +1,1 @@
-var mnemonic = "damage million roof furnace daring iron dry wheat vintage absorb adjust frozen";
+var mnemonic = "diary stool spray beef sport act kidney tunnel base wife draft awake";

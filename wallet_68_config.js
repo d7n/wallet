@@ -1,1 +1,1 @@
-var mnemonic = "misery exchange found bomb cage snow fortune raise alert misery enhance pizza";
+var mnemonic = "atom tunnel party holiday shoot fly seek fragile excuse mail safe segment";

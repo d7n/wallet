@@ -1,1 +1,1 @@
-var mnemonic = "sustain tower search crouch average trophy rotate click motor advance green grow";
+var mnemonic = "web saddle glue filter trial embody correct property theme random exile crime";

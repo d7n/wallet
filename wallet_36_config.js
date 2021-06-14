@@ -1,1 +1,1 @@
-var mnemonic = "soul client cereal mystery diary expand wing boil tape rely attract gate";
+var mnemonic = "average volcano place mammal zoo man hold minimum forward praise cash post";

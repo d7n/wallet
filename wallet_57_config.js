@@ -1,1 +1,1 @@
-var mnemonic = "there lizard poverty card mother engine wasp syrup consider because mirror pledge";
+var mnemonic = "royal gaze year amount police amused draw surface seminar obtain problem tool";

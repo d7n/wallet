@@ -1,1 +1,1 @@
-var mnemonic = "indicate index slogan nut family adapt actor expect ability cover online rather";
+var mnemonic = "carpet illegal napkin layer sudden daughter chest record text rifle theory kind";
