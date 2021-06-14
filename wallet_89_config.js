@@ -1,1 +1,1 @@
-var mnemonic = "inherit derive cook lawn regular column hello hospital believe shell slender only";
+var mnemonic = "awkward total chicken duck size maze survey lady cannon hour remain mom";

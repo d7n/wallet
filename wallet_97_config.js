@@ -1,1 +1,1 @@
-var mnemonic = "limb wisdom rack twice noodle essence jacket axis sister curious tail define";
+var mnemonic = "piece perfect claw tank mail sustain because various gasp lens elite person";

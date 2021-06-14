@@ -1,1 +1,1 @@
-var mnemonic = "snap arm power utility dignity august cradle cancel elbow federal accuse promote";
+var mnemonic = "random end grace material explain oblige silver torch project gaze foil wait";

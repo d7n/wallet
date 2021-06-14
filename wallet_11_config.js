@@ -1,1 +1,1 @@
-var mnemonic = "rug capable gossip consider about buyer price such bottom prize page ritual";
+var mnemonic = "horror spread mind mechanic march antenna traffic peace deliver mansion cloth witness";

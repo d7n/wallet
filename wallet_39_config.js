@@ -1,1 +1,1 @@
-var mnemonic = "next now yard job then cigar faint term secret spatial loud just";
+var mnemonic = "bullet venture penalty decorate point option sister theme casino toast one attitude";

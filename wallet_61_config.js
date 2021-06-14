@@ -1,1 +1,1 @@
-var mnemonic = "able citizen stereo panther local auction avocado know trumpet page waste invite";
+var mnemonic = "produce group snack robust post vague delay must dinosaur spirit output upon";

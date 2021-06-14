@@ -1,1 +1,1 @@
-var mnemonic = "wild humble absorb animal save raccoon soup cradle situate abstract useful tourist";
+var mnemonic = "damage letter black cotton route loyal furnace wild success wild excess skate";

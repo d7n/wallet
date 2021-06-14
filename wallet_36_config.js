@@ -1,1 +1,1 @@
-var mnemonic = "half alarm dwarf learn jealous raw belt federal demise legal park empty";
+var mnemonic = "cradle seek clerk hill penalty seed tortoise place cycle palm alert cake";

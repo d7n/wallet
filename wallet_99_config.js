@@ -1,1 +1,1 @@
-var mnemonic = "nominee credit shoot slab elbow planet iron ordinary invest wide double into";
+var mnemonic = "carpet crouch gun rifle harvest opera blanket nominee tip arrive exercise glory";

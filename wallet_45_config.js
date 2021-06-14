@@ -1,1 +1,1 @@
-var mnemonic = "candy acquire chat view miss cupboard exact permit voyage unit certain empower";
+var mnemonic = "guitar rigid parent abuse security fashion mechanic frequent stairs live powder ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "flight hip another isolate exercise add enlist lava bulk actor pupil woman";
+var mnemonic = "bulb position device follow area coral impulse family surge ancient install jungle";

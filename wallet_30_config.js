@@ -1,1 +1,1 @@
-var mnemonic = "depend deliver fiber flee soon steel admit simple culture junior enable pony";
+var mnemonic = "when between hint husband mango fiscal slow hole agree panther friend confirm";

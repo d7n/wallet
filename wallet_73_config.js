@@ -1,1 +1,1 @@
-var mnemonic = "road frost female design bright crash hamster water evil quantum joke favorite";
+var mnemonic = "light tooth essence carpet chuckle life meadow artefact they coral peace hat";

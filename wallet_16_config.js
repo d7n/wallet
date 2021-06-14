@@ -1,1 +1,1 @@
-var mnemonic = "regular sting people job resist immense basic bacon share bomb yellow discover";
+var mnemonic = "slice average message derive remember diesel figure help diagram economy forward tattoo";

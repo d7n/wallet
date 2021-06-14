@@ -1,1 +1,1 @@
-var mnemonic = "draw science hood cluster audit hello grit arrive differ aspect phone slide";
+var mnemonic = "fabric fetch junior tell ask myth upon disorder spike develop glue long";

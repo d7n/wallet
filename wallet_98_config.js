@@ -1,1 +1,1 @@
-var mnemonic = "canyon tennis crash stomach any rib couch health volume bar lift address";
+var mnemonic = "broccoli tennis option rose talent limb antique steak possible stone lunar tomorrow";

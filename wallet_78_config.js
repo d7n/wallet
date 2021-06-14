@@ -1,1 +1,1 @@
-var mnemonic = "swarm advice knock supply snow acid theory cereal fade daughter rule point";
+var mnemonic = "agent ripple long betray soda worry sponsor wreck volume sunny that upon";

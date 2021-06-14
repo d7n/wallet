@@ -1,1 +1,1 @@
-var mnemonic = "shaft leave once crumble rival poverty bind scissors feel raven measure blush";
+var mnemonic = "sleep strategy scorpion then blanket mercy bacon aisle among raven fragile chat";

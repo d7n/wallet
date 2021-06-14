@@ -1,1 +1,1 @@
-var mnemonic = "vivid mercy priority release blossom fan pioneer expect review daring wonder piece";
+var mnemonic = "doctor able diamond patient laptop update limit angry banana code word world";

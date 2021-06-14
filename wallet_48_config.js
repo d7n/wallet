@@ -1,1 +1,1 @@
-var mnemonic = "physical awesome gather crime inside act craft nut suggest glory dinosaur latin";
+var mnemonic = "creek derive before draw rival mango february turn fade moral farm shock";

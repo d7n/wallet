@@ -1,1 +1,1 @@
-var mnemonic = "toss action claw soup amused day crystal vendor mansion route bless cube";
+var mnemonic = "trash couple expose grape day extend juice lunch scissors glass desert cash";

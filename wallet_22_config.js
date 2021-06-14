@@ -1,1 +1,1 @@
-var mnemonic = "vote summer left believe shoulder trust wasp soldier grass menu spot label";
+var mnemonic = "admit message fitness voyage ritual very edit saddle dumb sound memory jewel";

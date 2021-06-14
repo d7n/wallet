@@ -1,1 +1,1 @@
-var mnemonic = "great alpha dynamic slender knee steel thought resource tent mixed palace faint";
+var mnemonic = "cave security horn salad rebel sell local prepare defy brass isolate adjust";

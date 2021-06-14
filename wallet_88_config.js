@@ -1,1 +1,1 @@
-var mnemonic = "west lake suggest mechanic stable style lucky wise spike report hunt gown";
+var mnemonic = "devote edge wink scissors scheme hurt flash tackle earn agent true river";

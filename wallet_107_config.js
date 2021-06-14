@@ -1,1 +1,1 @@
-var mnemonic = "steak paper city shiver dinner hole family wrap load sadness once over";
+var mnemonic = "actual accuse degree miss mean collect funny book tomorrow arm judge moon";

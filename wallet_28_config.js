@@ -1,1 +1,1 @@
-var mnemonic = "fox drop destroy cereal crisp trial observe neither music toast resemble peasant";
+var mnemonic = "drift install mule congress flavor capable fetch culture finish weapon miss exclude";

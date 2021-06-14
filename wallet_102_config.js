@@ -1,1 +1,1 @@
-var mnemonic = "number damp pig victory math media decide visa rough habit unlock syrup";
+var mnemonic = "logic debris recipe junior slot engage oval camp gospel general gasp humor";

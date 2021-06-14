@@ -1,1 +1,1 @@
-var mnemonic = "suffer deputy napkin moment gospel flame camera manual into agent doctor inject";
+var mnemonic = "ice across receive snap half toy resource poem news fever hour hunt";

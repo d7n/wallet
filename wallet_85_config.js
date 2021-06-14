@@ -1,1 +1,1 @@
-var mnemonic = "kidney absorb three world brass differ large drink trick law aisle smoke";
+var mnemonic = "milk parade pretty resource idle aim obvious spray web curtain staff mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "wool history sausage great proof mesh quantum name brisk century inflict comic";
+var mnemonic = "lemon maple melody category afraid warrior broccoli churn small pond swarm someone";

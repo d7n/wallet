@@ -1,1 +1,1 @@
-var mnemonic = "setup flavor quick submit virtual inch raw waste moon weekend behind three";
+var mnemonic = "giraffe object poverty hello gym physical snack fame puppy famous amazing leaf";

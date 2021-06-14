@@ -1,1 +1,1 @@
-var mnemonic = "panel dignity crash agree absorb worry term sibling proof draw bounce goat";
+var mnemonic = "insane bicycle salt address critic view glimpse rule evidence popular act road";

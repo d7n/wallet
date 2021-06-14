@@ -1,1 +1,1 @@
-var mnemonic = "harvest dream avoid cover peasant type sense flip vehicle trumpet program home";
+var mnemonic = "best decide real unique borrow disease polar away horn humble property custom";

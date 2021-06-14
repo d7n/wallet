@@ -1,1 +1,1 @@
-var mnemonic = "quote huge problem crew carry avoid vacuum phrase bamboo dynamic toilet acoustic";
+var mnemonic = "exhaust leave enforce increase alley knife stairs spatial very roof derive jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "coil satisfy degree keen cover hedgehog dice almost runway glow license envelope";
+var mnemonic = "observe depend give wing damp delay mix keep pool gate grain share";

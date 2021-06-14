@@ -1,1 +1,1 @@
-var mnemonic = "gentle west taste omit delay stay omit say dash century begin bind";
+var mnemonic = "mango forward invest snap decorate miracle style garage master ignore world enrich";

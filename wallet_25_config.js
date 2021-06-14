@@ -1,1 +1,1 @@
-var mnemonic = "prison involve settle become flash rocket view hockey agree bulb alcohol spell";
+var mnemonic = "hundred shallow train file grit void limit tool eight evidence luggage above";

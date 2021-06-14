@@ -1,1 +1,1 @@
-var mnemonic = "climb crash ritual fire power happy local occur exercise business sock meat";
+var mnemonic = "tragic champion soft biology village math music anxiety tiger dinosaur dash subway";

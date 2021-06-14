@@ -1,1 +1,1 @@
-var mnemonic = "effort spike assault fox armed spirit undo tag buyer below unknown morning";
+var mnemonic = "loyal couple corn artist all crystal noble render patch mango velvet nation";

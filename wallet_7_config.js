@@ -1,1 +1,1 @@
-var mnemonic = "fuel enable fix fringe chest learn hello canvas walnut surge immense insect";
+var mnemonic = "digital act outside forest face join fiber mule hundred version canoe rule";

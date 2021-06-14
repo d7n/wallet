@@ -1,1 +1,1 @@
-var mnemonic = "few jazz cube month catalog carpet member good seed initial throw win";
+var mnemonic = "myth tomorrow cereal sibling option glass orbit grunt section immune diagram cool";

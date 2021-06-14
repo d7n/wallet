@@ -1,1 +1,1 @@
-var mnemonic = "fall language wide stable volcano couch spell rally stone brother abuse novel";
+var mnemonic = "obey elder spirit scare thing empower cancel shrug fade ankle buddy pill";

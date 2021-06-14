@@ -1,1 +1,1 @@
-var mnemonic = "six toss that tackle basket mixed memory better video cinnamon traffic sleep";
+var mnemonic = "obscure fiction question provide habit layer sight entire off order certain pilot";

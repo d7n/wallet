@@ -1,1 +1,1 @@
-var mnemonic = "unfair question believe lava knock echo grain bamboo media forward surround sweet";
+var mnemonic = "wealth canoe hunt collect intact coyote return brief ethics seat fox pet";

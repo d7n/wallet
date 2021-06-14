@@ -1,1 +1,1 @@
-var mnemonic = "define reopen marine attract powder double giant salt solution physical absent repair";
+var mnemonic = "index garment expand strike celery few lawn clap wrong forget urge opera";

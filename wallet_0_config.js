@@ -1,1 +1,1 @@
-var mnemonic = "fortune dice devote home flush benefit brave stock come price comfort basket";
+var mnemonic = "pipe velvet glad genuine kitchen first sign motion canoe despair light power";

@@ -1,1 +1,1 @@
-var mnemonic = "home lawn old tool excuse method cabbage brown gossip unique struggle perfect";
+var mnemonic = "toe verb pretty keep bargain side weather flip curtain convince ecology swear";

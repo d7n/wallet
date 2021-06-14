@@ -1,1 +1,1 @@
-var mnemonic = "vendor ignore echo world suit disagree section clarify picnic neck share fresh";
+var mnemonic = "mammal embrace desert couch man sea oven panther shy engine trumpet transfer";

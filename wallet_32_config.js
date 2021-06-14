@@ -1,1 +1,1 @@
-var mnemonic = "magic hover follow route analyst mass defense slice pig garden diagram minute";
+var mnemonic = "erode guess drop this obscure drip horror blanket accident ready fury because";

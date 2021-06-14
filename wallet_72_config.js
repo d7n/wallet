@@ -1,1 +1,1 @@
-var mnemonic = "valve coin quiz release plastic hint budget dizzy code spot limit pitch";
+var mnemonic = "want assist settle raven great toy prevent dad drop damage symbol corn";

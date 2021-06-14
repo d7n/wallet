@@ -1,1 +1,1 @@
-var mnemonic = "coin sweet rocket turn edit achieve happy stand resemble pretty exclude rival";
+var mnemonic = "cigar element flight amused unique pave thumb winter seed sugar foil ritual";

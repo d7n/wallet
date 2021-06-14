@@ -1,1 +1,1 @@
-var mnemonic = "giggle question surprise add beyond pen ship castle kitten nest derive alarm";
+var mnemonic = "egg float chronic deal era plate remove lawn never quick found what";

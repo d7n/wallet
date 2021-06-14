@@ -1,1 +1,1 @@
-var mnemonic = "foster unveil common hurt open special chief cave switch morning click swarm";
+var mnemonic = "answer lake engage toilet cinnamon grow toss eye subway build cash pave";

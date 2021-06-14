@@ -1,1 +1,1 @@
-var mnemonic = "wave envelope risk joy caution script wrap pole agree nephew side lizard";
+var mnemonic = "abandon rich disease barrel outdoor lucky garbage patrol lift provide dilemma spread";

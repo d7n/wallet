@@ -1,1 +1,1 @@
-var mnemonic = "coast genre lyrics field dial snake team foot remove shove glance jungle";
+var mnemonic = "absorb slice mouse morning envelope tiny assume cable detail silly cart about";

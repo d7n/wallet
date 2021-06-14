@@ -1,1 +1,1 @@
-var mnemonic = "silk video present pizza spy sad valley flip page two tunnel auto";
+var mnemonic = "oppose work company fan number confirm poem time task august home february";

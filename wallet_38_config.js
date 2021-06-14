@@ -1,1 +1,1 @@
-var mnemonic = "mention ridge walk across brass furnace insect cinnamon snow guess exist memory";
+var mnemonic = "cloth appear try meat helmet road orient month turtle winner neck width";

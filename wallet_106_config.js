@@ -1,1 +1,1 @@
-var mnemonic = "wrestle list crater ethics fresh enjoy flush print street wealth swarm rhythm";
+var mnemonic = "size copy age timber aerobic around thing first salon fiction reflect unable";

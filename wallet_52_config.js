@@ -1,1 +1,1 @@
-var mnemonic = "below shuffle option update payment winter coyote tomorrow visit upset bunker anxiety";
+var mnemonic = "venture lyrics virtual rug abstract west uncle rice husband upper jacket actor";

@@ -1,1 +1,1 @@
-var mnemonic = "better across pepper correct absorb raccoon december thunder embody produce whisper zone";
+var mnemonic = "plug announce age snack latin cost trial brass blood east element team";

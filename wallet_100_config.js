@@ -1,1 +1,1 @@
-var mnemonic = "sniff unit skin excite immense discover ginger silly kidney echo virtual eternal";
+var mnemonic = "slice accident conduct argue divorce sail seat elder message witness lock wheel";

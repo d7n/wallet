@@ -1,1 +1,1 @@
-var mnemonic = "sudden helmet increase modify favorite segment core until luggage muffin vault forward";
+var mnemonic = "parade call inflict fury object eagle cliff canal credit hungry draft prison";

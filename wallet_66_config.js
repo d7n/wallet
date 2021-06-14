@@ -1,1 +1,1 @@
-var mnemonic = "expect render oppose soul spray forget elder plastic bag tank reopen night";
+var mnemonic = "milk salad miracle apart winter across brass blouse feature glimpse same spoon";

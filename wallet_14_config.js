@@ -1,1 +1,1 @@
-var mnemonic = "east indoor nose fringe famous chest cousin chief earth hire boring tomato";
+var mnemonic = "craft gain erase fee popular excite guide pill april sight damage bicycle";

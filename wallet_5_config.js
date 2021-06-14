@@ -1,1 +1,1 @@
-var mnemonic = "gas cart eagle lamp void father beauty model exotic truly body all";
+var mnemonic = "rib pottery season fragile behind glimpse power whip sketch weather pioneer broken";

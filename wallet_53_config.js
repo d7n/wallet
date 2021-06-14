@@ -1,1 +1,1 @@
-var mnemonic = "mechanic stick quality cement motor ordinary cotton peanut wise eagle force country";
+var mnemonic = "remove question diet measure oven oven eight artist myth casino eyebrow ancient";

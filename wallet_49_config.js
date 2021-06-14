@@ -1,1 +1,1 @@
-var mnemonic = "tag because replace distance light hat bean attack exhibit special frequent panda";
+var mnemonic = "spoon vote print knock october scrub repeat shadow quality curious merit pair";

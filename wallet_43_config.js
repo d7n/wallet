@@ -1,1 +1,1 @@
-var mnemonic = "ritual crystal ecology clinic mind craft mandate distance slight radar rib net";
+var mnemonic = "mimic chef discover hole caught pen alien carry portion master drop desert";

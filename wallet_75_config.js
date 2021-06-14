@@ -1,1 +1,1 @@
-var mnemonic = "must hockey twelve blast fence oval goose exhaust charge undo vast ribbon";
+var mnemonic = "salad real mimic funny moral sun cupboard team vapor various meadow settle";

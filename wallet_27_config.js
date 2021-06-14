@@ -1,1 +1,1 @@
-var mnemonic = "mushroom aisle member basket design like slice pact zebra catalog manage soul";
+var mnemonic = "blanket relax awful two tunnel boy venue match skirt police report truck";

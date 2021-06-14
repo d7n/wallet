@@ -1,1 +1,1 @@
-var mnemonic = "unfair party leave middle rent mobile color paper session inmate cry trophy";
+var mnemonic = "office hurt cushion matrix first rough market south myth note vapor sample";

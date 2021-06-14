@@ -1,1 +1,1 @@
-var mnemonic = "alcohol space cradle impulse gadget mimic copy apart virtual bean donor potato";
+var mnemonic = "tennis rubber okay switch uncle execute chuckle envelope tell venture rally stuff";

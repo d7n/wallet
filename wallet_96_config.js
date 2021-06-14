@@ -1,1 +1,1 @@
-var mnemonic = "front garlic borrow vacant salt arrow glove wage front light later rookie";
+var mnemonic = "fossil powder gallery risk rude narrow already slow turtle worry unfold curve";

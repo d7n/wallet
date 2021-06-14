@@ -1,1 +1,1 @@
-var mnemonic = "hint drop family waste already pretty better twelve cupboard actor mushroom turkey";
+var mnemonic = "habit agree lawsuit boss traffic sketch abandon wrist trend love wash amused";

@@ -1,1 +1,1 @@
-var mnemonic = "general super fever garment project better breeze example genuine love basic split";
+var mnemonic = "kidney shoulder earn social asset square square path blast alpha usage mimic";

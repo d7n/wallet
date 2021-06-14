@@ -1,1 +1,1 @@
-var mnemonic = "minimum meadow orbit style wall similar surge gold put hedgehog age seat";
+var mnemonic = "animal poet deliver cloud space virtual visual man check doll cage exclude";

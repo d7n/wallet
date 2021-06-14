@@ -1,1 +1,1 @@
-var mnemonic = "crowd pole innocent essence volcano mouse slide bid category winter matter zebra";
+var mnemonic = "team clever tiger glide staff ceiling beach pluck enforce utility either purchase";

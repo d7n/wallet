@@ -1,1 +1,1 @@
-var mnemonic = "bright check antique mention hire evoke pyramid story avoid boss shrimp fiscal";
+var mnemonic = "census now peasant wink release ketchup expire oven galaxy crucial dinner reward";

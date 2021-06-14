@@ -1,1 +1,1 @@
-var mnemonic = "curtain awesome mail battle oven menu concert shed obey wedding tobacco purity";
+var mnemonic = "erode account oxygen seed fork flag basket half tired junior gadget end";

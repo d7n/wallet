@@ -1,1 +1,1 @@
-var mnemonic = "cancel bunker until omit measure life daughter fan verify afraid used whale";
+var mnemonic = "opera pyramid leg appear stay plastic document dish dilemma baby spring fan";

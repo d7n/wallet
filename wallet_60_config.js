@@ -1,1 +1,1 @@
-var mnemonic = "reject crawl region execute tuition syrup bind lonely rocket stereo want lend";
+var mnemonic = "across banana menu kid sustain owner plate rebel young gesture card during";

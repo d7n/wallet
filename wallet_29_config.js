@@ -1,1 +1,1 @@
-var mnemonic = "require demise result hedgehog blade city knock reward subway fortune urban plug";
+var mnemonic = "plastic sentence tonight wrist energy swamp twenty example answer display beyond follow";

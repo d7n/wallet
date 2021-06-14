@@ -1,1 +1,1 @@
-var mnemonic = "goddess group reopen seek attitude item luggage over behind top feature weasel";
+var mnemonic = "fiscal ahead success belt situate fever rent color kangaroo material typical volume";

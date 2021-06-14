@@ -1,1 +1,1 @@
-var mnemonic = "hat dumb age fabric census degree mask march donate elbow turtle clay";
+var mnemonic = "away blur head insane clock gallery wear fiscal margin similar ordinary monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "daring tuna jelly quantum humor more much expect enhance mixture distance stove";
+var mnemonic = "remember ignore where across impose sad custom radio olive length barely boat";

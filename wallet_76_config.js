@@ -1,1 +1,1 @@
-var mnemonic = "laundry inch guide kiwi comic bacon gorilla purchase clog harbor behind isolate";
+var mnemonic = "simple caught away various bulb sister choose roof runway novel illness injury";

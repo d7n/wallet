@@ -1,1 +1,1 @@
-var mnemonic = "cloud balcony gather under claim proof couple immune bounce bicycle scale panel";
+var mnemonic = "image dust recall annual behave embody sound unit simple chronic inner story";

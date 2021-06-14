@@ -1,1 +1,1 @@
-var mnemonic = "increase please butter output admit good human program barrel burger poet labor";
+var mnemonic = "drum agent garage cherry analyst valid tired loan thrive vocal shove fee";

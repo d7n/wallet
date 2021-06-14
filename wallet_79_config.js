@@ -1,1 +1,1 @@
-var mnemonic = "they pool voice dry chef help clown crack steak antenna join scrub";
+var mnemonic = "kick behave inherit month dwarf fold agree romance electric fame hover orient";

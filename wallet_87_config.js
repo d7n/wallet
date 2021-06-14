@@ -1,1 +1,1 @@
-var mnemonic = "mention pact loan scrap route grocery blanket hub civil tiny remember increase";
+var mnemonic = "slot ordinary slender demand young aerobic limb scatter silly faculty economy hat";

@@ -1,1 +1,1 @@
-var mnemonic = "suit never monkey gentle pitch sick sound city knock concert frame common";
+var mnemonic = "million position whip ocean any bounce february paddle liberty razor beauty dose";
