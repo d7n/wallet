@@ -1,1 +1,1 @@
-var mnemonic = "toast weasel asset truth this attitude page notable chief grit imitate seven";
+var mnemonic = "brand violin angle depart alcohol throw fatal cheap dress dirt own refuse";

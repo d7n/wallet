@@ -1,1 +1,1 @@
-var mnemonic = "cheese athlete orient together prepare jar parade frame rack blur slender noise";
+var mnemonic = "envelope blind diamond aisle scrub road hope glove device police garbage ramp";

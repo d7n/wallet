@@ -1,1 +1,1 @@
-var mnemonic = "remember action lens fly people journey energy sock timber smooth glory impulse";
+var mnemonic = "kidney uncle february grit tunnel river power stick pitch sugar major antenna";

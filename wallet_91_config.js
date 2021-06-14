@@ -1,1 +1,1 @@
-var mnemonic = "call juice one voice sheriff black rotate torch olympic alley moment require";
+var mnemonic = "spend pledge wire dynamic neither tunnel toilet fan evil decade correct habit";

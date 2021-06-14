@@ -1,1 +1,1 @@
-var mnemonic = "kiwi struggle fruit glove bean crystal fall penalty few peasant dwarf level";
+var mnemonic = "tool gallery window napkin pig media devote obscure original before shed fancy";

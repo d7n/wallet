@@ -1,1 +1,1 @@
-var mnemonic = "dawn bike remind sibling tree tube amazing remain satisfy knock deny stumble";
+var mnemonic = "order amazing ensure rice vast never glass defy satoshi spy music quality";

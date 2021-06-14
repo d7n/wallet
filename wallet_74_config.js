@@ -1,1 +1,1 @@
-var mnemonic = "coyote seek cram click kingdom faint school anxiety behind jealous vocal wash";
+var mnemonic = "charge juice soda awesome fire real tiny music monitor media sustain entire";

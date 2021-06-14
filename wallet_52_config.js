@@ -1,1 +1,1 @@
-var mnemonic = "marriage dirt woman glory wrap train width wink social bottom brick team";
+var mnemonic = "develop select pattern alter enjoy cycle upgrade toast maid inject weasel width";

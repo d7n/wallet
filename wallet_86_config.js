@@ -1,1 +1,1 @@
-var mnemonic = "two sunny like shoot memory tuition blind wood dragon lunch bridge capable";
+var mnemonic = "odor crane come cash chalk apple tooth tape blush aware speed venture";

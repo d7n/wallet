@@ -1,1 +1,1 @@
-var mnemonic = "sport provide bid view riot travel still legal violin figure auction gold";
+var mnemonic = "wrong predict derive capital female spatial small roof arrow awful bottom risk";

@@ -1,1 +1,1 @@
-var mnemonic = "timber embody anxiety decide burst violin walnut exit leader weather piece alert";
+var mnemonic = "betray coffee silly happy mansion various govern fan detail crazy melody balcony";

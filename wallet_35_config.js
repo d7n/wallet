@@ -1,1 +1,1 @@
-var mnemonic = "bacon junk hybrid wealth swim banana trumpet license empower cake print gauge";
+var mnemonic = "grab lift chat mail symbol sibling trap aspect album tribe duck sand";

@@ -1,1 +1,1 @@
-var mnemonic = "renew echo magnet pave goddess chalk about sausage spare fortune clip book";
+var mnemonic = "group salute body shed vendor owner supply thrive zebra nerve delay loop";

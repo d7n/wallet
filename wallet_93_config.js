@@ -1,1 +1,1 @@
-var mnemonic = "captain climb timber crack depart fantasy route pill umbrella ribbon prevent keen";
+var mnemonic = "cherry wing calm quarter uncover kangaroo arm increase mean neck violin portion";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile strike mistake bounce autumn trigger lemon license amused travel first island";
+var mnemonic = "seed table fork giraffe message rival detect exile junk feel machine choice";

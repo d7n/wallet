@@ -1,1 +1,1 @@
-var mnemonic = "flip trumpet image lift tool accident volcano boy various physical remove beyond";
+var mnemonic = "spider wisdom swamp else ladder ecology spring prize cost name agree cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "allow hint filter provide hill gym absent normal diet exotic raven demise";
+var mnemonic = "away gossip tired crawl render wear keen brush outside vintage talent kind";

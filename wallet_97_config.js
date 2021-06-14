@@ -1,1 +1,1 @@
-var mnemonic = "connect ready tennis exotic armed prize rookie robust inhale craft prepare frame";
+var mnemonic = "egg sleep cupboard neither symptom depth legend file cancel detail spatial apology";

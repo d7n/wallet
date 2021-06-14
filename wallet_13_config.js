@@ -1,1 +1,1 @@
-var mnemonic = "guide copy ticket cram donor pitch wheel physical abuse oppose employ rate";
+var mnemonic = "cake tumble cruel hill tooth foster virtual bottom neglect wood virus potato";

@@ -1,1 +1,1 @@
-var mnemonic = "multiply token just spy prison cloth nut day shift script brisk reopen";
+var mnemonic = "blue seat solution bind path owner rifle security subject minute disagree throw";

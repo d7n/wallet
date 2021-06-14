@@ -1,1 +1,1 @@
-var mnemonic = "develop detect office pledge hurry mix blade acquire cover river cool fury";
+var mnemonic = "scorpion aspect kiss battle party kitchen will punch become grow cradle frown";

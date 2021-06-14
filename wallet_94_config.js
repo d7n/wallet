@@ -1,1 +1,1 @@
-var mnemonic = "crumble suit caution grace switch virtual forum tongue morning appear hybrid crime";
+var mnemonic = "mail noodle height ice rent cave zone hint mercy result truck motion";

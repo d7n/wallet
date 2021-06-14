@@ -1,1 +1,1 @@
-var mnemonic = "tenant click wink theme desert shine venture basket gorilla width useful path";
+var mnemonic = "govern favorite police mention clay shield farm universe couple solid vehicle rely";

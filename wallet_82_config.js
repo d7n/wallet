@@ -1,1 +1,1 @@
-var mnemonic = "solve dentist eyebrow gasp couch gravity lake text snack jazz february reduce";
+var mnemonic = "laptop pretty submit jacket rain wrist town away cigar total ketchup dumb";

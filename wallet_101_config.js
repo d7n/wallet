@@ -1,1 +1,1 @@
-var mnemonic = "sock praise swarm remember earth suit account manage child donkey there month";
+var mnemonic = "rent depth crawl drift load spoil sauce smile discover cram skate kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "wire skin infant cloth dizzy hub woman horn empty review riot relax";
+var mnemonic = "firm harvest oyster volcano athlete color envelope skill ordinary bonus blush art";

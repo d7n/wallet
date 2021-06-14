@@ -1,1 +1,1 @@
-var mnemonic = "game pencil zoo useless void flame mountain rigid fun crucial walnut umbrella";
+var mnemonic = "tortoise surge volcano foster impact universe seed monkey case giant diesel coin";

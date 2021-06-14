@@ -1,1 +1,1 @@
-var mnemonic = "library decrease quit air today ranch valve imitate level ten problem client";
+var mnemonic = "act vessel brief alley tag half post route immune panel mango sense";

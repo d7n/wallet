@@ -1,1 +1,1 @@
-var mnemonic = "debris odor guess mesh cluster year foil miss metal need december gasp";
+var mnemonic = "group burden hidden iron female road indoor eyebrow mixture menu emerge piano";

@@ -1,1 +1,1 @@
-var mnemonic = "blind drastic transfer color attitude idea mean frown casino trim lobster tourist";
+var mnemonic = "clump pave spring multiply loyal manual raven huge rigid chunk fossil powder";

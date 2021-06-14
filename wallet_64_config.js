@@ -1,1 +1,1 @@
-var mnemonic = "grid mushroom burden muscle asset next left arm service tornado recall spoon";
+var mnemonic = "action woman include ignore surge around cradle elder pattern exhibit level major";

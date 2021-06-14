@@ -1,1 +1,1 @@
-var mnemonic = "claw extend need execute olive spring idle flower man wait slice final";
+var mnemonic = "problem test fluid stamp release select prevent album misery pole fashion fatal";

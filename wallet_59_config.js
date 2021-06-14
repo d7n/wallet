@@ -1,1 +1,1 @@
-var mnemonic = "traffic bomb enact soul push course wise achieve brave wave mimic rough";
+var mnemonic = "roast maid punch antenna six indicate test fringe adult mean behave affair";

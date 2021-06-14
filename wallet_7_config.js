@@ -1,1 +1,1 @@
-var mnemonic = "warrior toilet vicious doll rice layer heart giraffe force brother hundred float";
+var mnemonic = "ecology size demise joy seek glance battle island exhaust miss lab salute";

@@ -1,1 +1,1 @@
-var mnemonic = "please slim soap novel hollow tornado olympic wing follow movie robust smile";
+var mnemonic = "intact merge crash uphold near empty zone energy fade excess copper sibling";

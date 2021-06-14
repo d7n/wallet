@@ -1,1 +1,1 @@
-var mnemonic = "elite mammal guide ugly express erupt hill play among laugh neglect demise";
+var mnemonic = "muscle install hope rural unit twelve disorder lonely jazz exit destroy panther";

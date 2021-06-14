@@ -1,1 +1,1 @@
-var mnemonic = "polar country broom industry supreme team urban stand banner pair flavor mind";
+var mnemonic = "mammal wool click visa sudden spice omit gloom awkward brown endless wrap";

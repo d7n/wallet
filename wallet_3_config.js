@@ -1,1 +1,1 @@
-var mnemonic = "wash paper medal taste tail pottery puzzle child inmate minimum anger whip";
+var mnemonic = "silly render concert scene enforce match spot rail approve unknown sniff key";

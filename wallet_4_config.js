@@ -1,1 +1,1 @@
-var mnemonic = "olympic fan high senior ethics outer call river tourist since clever guide";
+var mnemonic = "visual hub nice food banana evil impact palm begin slide major engage";

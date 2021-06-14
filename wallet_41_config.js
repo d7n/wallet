@@ -1,1 +1,1 @@
-var mnemonic = "neglect around ignore tornado slim route infant dog fault reopen hover found";
+var mnemonic = "warfare bulb loyal toast indoor web nature ticket exist intact stool start";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle verify smooth toddler weekend shadow rain flee between soap salon green";
+var mnemonic = "rigid brave stool hospital stove glimpse turkey stay symptom shaft because neglect";

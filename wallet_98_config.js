@@ -1,1 +1,1 @@
-var mnemonic = "cement urge immune amused fetch unit project member coin shy dust physical";
+var mnemonic = "topple space trip bracket subject donate initial list exhibit welcome trophy tone";

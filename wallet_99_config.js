@@ -1,1 +1,1 @@
-var mnemonic = "please butter attitude gravity okay category struggle unique play course north quit";
+var mnemonic = "regular bullet safe forum picture setup tobacco sun silk beyond fall struggle";

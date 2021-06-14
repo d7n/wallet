@@ -1,1 +1,1 @@
-var mnemonic = "finish receive spice mistake inquiry permit seven pair insect suggest orphan toast";
+var mnemonic = "fiber sick crew parent pole uncle pencil hammer wasp boil rude elder";

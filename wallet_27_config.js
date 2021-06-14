@@ -1,1 +1,1 @@
-var mnemonic = "ozone junior two impact bring length attack brush news hundred lunch endless";
+var mnemonic = "knee slim nasty urge popular version wash point bargain deliver faculty bundle";

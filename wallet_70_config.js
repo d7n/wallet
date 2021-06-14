@@ -1,1 +1,1 @@
-var mnemonic = "vintage impact spirit witness lucky floor wedding cinnamon concert broccoli industry student";
+var mnemonic = "edit boat medal typical convince lamp wait swallow prosper process assist update";

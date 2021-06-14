@@ -1,1 +1,1 @@
-var mnemonic = "garbage cheap fragile conduct absurd tooth rude flock gravity birth flower student";
+var mnemonic = "peasant shop protect physical place act boat song stick enforce poet oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "total tornado way recycle news wheel asset invite index stove network word";
+var mnemonic = "gap present people minute flower shadow fade body poverty blood outdoor segment";

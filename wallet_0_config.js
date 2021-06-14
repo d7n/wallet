@@ -1,1 +1,1 @@
-var mnemonic = "supply potato dolphin window code nest load velvet cherry health walnut until";
+var mnemonic = "turkey rhythm wish plug frown useful one hope depart flush feed feature";

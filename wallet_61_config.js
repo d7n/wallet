@@ -1,1 +1,1 @@
-var mnemonic = "horror pipe snack offer two awake trust vault gospel dismiss famous time";
+var mnemonic = "essay cheese choice mountain essence try toe brick grocery bunker wear visit";

@@ -1,1 +1,1 @@
-var mnemonic = "festival cool wave depth depth play need limit knife vehicle mutual useful";
+var mnemonic = "jaguar humble reflect lion off sight taxi tunnel shuffle despair ranch ritual";

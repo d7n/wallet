@@ -1,1 +1,1 @@
-var mnemonic = "disease harvest govern social pig shiver party zone rule vast bag pass";
+var mnemonic = "maze near critic hurry squirrel federal word code receive pledge couple claw";

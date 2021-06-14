@@ -1,1 +1,1 @@
-var mnemonic = "risk artist narrow rude embody soul steak critic bacon love use pool";
+var mnemonic = "talent seek forward second mass govern wasp gasp cereal total squirrel bundle";

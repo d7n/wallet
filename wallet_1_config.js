@@ -1,1 +1,1 @@
-var mnemonic = "erode inmate kitten page twenty nuclear cool response tragic fish stuff episode";
+var mnemonic = "direct conduct industry vacuum spatial seat connect flag power galaxy burden document";

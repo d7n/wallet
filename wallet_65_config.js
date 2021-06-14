@@ -1,1 +1,1 @@
-var mnemonic = "virtual solar upon shallow come search nothing theme avocado youth wealth blade";
+var mnemonic = "good demise torch jungle pistol rhythm nation shallow uncover project spray major";

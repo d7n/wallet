@@ -1,1 +1,1 @@
-var mnemonic = "dance wing symptom fetch surface debris discover burden sister off forget credit";
+var mnemonic = "wisdom income turn clutch evidence arch profit salad nice puppy supreme shoe";

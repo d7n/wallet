@@ -1,1 +1,1 @@
-var mnemonic = "gravity erode area mountain female scheme alien piece predict print finger force";
+var mnemonic = "helmet maple blade card search short wisdom brother exclude icon first alcohol";

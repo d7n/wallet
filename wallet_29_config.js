@@ -1,1 +1,1 @@
-var mnemonic = "key gym swamp finish hamster canvas true evidence inject employ alert song";
+var mnemonic = "pudding bundle beach candy giant mountain obvious stove urge choose action lend";

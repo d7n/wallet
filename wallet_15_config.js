@@ -1,1 +1,1 @@
-var mnemonic = "brand fold twin spread tourist poverty trouble leisure bag math guess fuel";
+var mnemonic = "any reason join profit scout add shaft clown snake merry foil congress";

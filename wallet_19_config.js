@@ -1,1 +1,1 @@
-var mnemonic = "step file squeeze topple beach metal choose daughter drive sudden twin eye";
+var mnemonic = "lunar ocean kit corn pull rice thought quick decade future zero anchor";

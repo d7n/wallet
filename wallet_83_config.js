@@ -1,1 +1,1 @@
-var mnemonic = "adjust possible toy fringe penalty brother spice social cattle jaguar brief mom";
+var mnemonic = "laundry stand sick permit alley uncle worry digital answer always usual fruit";

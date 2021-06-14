@@ -1,1 +1,1 @@
-var mnemonic = "attack bicycle brown notable digital loan price glimpse anxiety immense write spoil";
+var mnemonic = "require payment habit spoil scissors coil island merry upset opera unveil collect";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend cheap narrow tuna chair laugh flee sheriff borrow cargo culture lazy";
+var mnemonic = "sunny resource design connect valley slim gym trash gasp bonus wait solve";

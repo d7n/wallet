@@ -1,1 +1,1 @@
-var mnemonic = "forward main meadow soda fish trip owner tomato heart found praise antenna";
+var mnemonic = "screen expect weird icon wish check desert already item example stereo tortoise";

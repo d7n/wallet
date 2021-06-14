@@ -1,1 +1,1 @@
-var mnemonic = "wrong flat initial guess fitness vibrant benefit dial identify police hood virtual";
+var mnemonic = "chef demise oblige police alcohol little skin talent same already about able";

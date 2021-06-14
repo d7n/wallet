@@ -1,1 +1,1 @@
-var mnemonic = "together repeat coil spoil side relief service olympic unaware multiply social velvet";
+var mnemonic = "unusual very spray since appear shuffle family tiny chalk misery much toilet";

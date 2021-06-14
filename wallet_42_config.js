@@ -1,1 +1,1 @@
-var mnemonic = "magnet cotton scatter ripple useless order pupil squirrel wall used embody shiver";
+var mnemonic = "mesh betray wheel steel forward appear prison bird trigger bottom galaxy barrel";

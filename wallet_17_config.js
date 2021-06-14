@@ -1,1 +1,1 @@
-var mnemonic = "position luxury snow fog trick bulb exit broken ship bulb village original";
+var mnemonic = "divert mansion device retreat senior nuclear chest sting diesel pig ignore swamp";

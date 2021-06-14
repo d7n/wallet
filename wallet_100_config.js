@@ -1,1 +1,1 @@
-var mnemonic = "message custom rocket animal later speak around taxi whale sentence merry animal";
+var mnemonic = "fitness victory injury grain daughter swamp report accuse song sugar swap illness";

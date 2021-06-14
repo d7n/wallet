@@ -1,1 +1,1 @@
-var mnemonic = "busy image dilemma owner embody crush choose dinosaur shell reason swing front";
+var mnemonic = "tip home auto maze judge lesson long mobile rare minimum tourist milk";

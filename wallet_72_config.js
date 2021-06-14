@@ -1,1 +1,1 @@
-var mnemonic = "blanket hurt sausage youth anchor luxury monster entire income soup suspect airport";
+var mnemonic = "critic trial cheap payment hint mix cabbage mom now globe because seat";

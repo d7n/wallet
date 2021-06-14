@@ -1,1 +1,1 @@
-var mnemonic = "turn rural true quantum bargain width amateur acquire ankle average habit level";
+var mnemonic = "fee ecology cage flat bind material unveil slide collect file section neutral";

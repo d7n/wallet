@@ -1,1 +1,1 @@
-var mnemonic = "curtain brain bachelor stage noble sudden cry online better february tribe renew";
+var mnemonic = "cargo weapon harsh dune uncover must promote orchard blood figure script install";

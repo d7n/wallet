@@ -1,1 +1,1 @@
-var mnemonic = "clown buddy asthma there bottom miss december garbage humble gaze whale bargain";
+var mnemonic = "immense lock slab inform project embrace autumn scout inflict outside major best";

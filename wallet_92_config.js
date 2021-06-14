@@ -1,1 +1,1 @@
-var mnemonic = "arena sniff fetch crop teach clay magnet quantum dizzy high anger ordinary";
+var mnemonic = "fetch develop north belt arrow roof sound useful submit spawn universe waste";

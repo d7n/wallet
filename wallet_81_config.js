@@ -1,1 +1,1 @@
-var mnemonic = "accident echo often capable juice cigar earn book coast unlock nose warfare";
+var mnemonic = "rice list later tennis fire estate satoshi vapor drive canyon split discover";

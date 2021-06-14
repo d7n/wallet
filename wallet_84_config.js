@@ -1,1 +1,1 @@
-var mnemonic = "inch need east slam desert comic enter whip purchase million undo change";
+var mnemonic = "angry around misery basic you blame trade twenty field impact life lonely";

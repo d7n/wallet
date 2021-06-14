@@ -1,1 +1,1 @@
-var mnemonic = "toast game brother above scorpion suffer idea true jeans sword juice average";
+var mnemonic = "same sudden invite exhibit rotate option empower list spy twin supreme canal";

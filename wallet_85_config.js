@@ -1,1 +1,1 @@
-var mnemonic = "time busy garage crucial color explain predict before ozone spend balance only";
+var mnemonic = "dove sight loyal boat jaguar float increase large token region napkin blur";

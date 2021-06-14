@@ -1,1 +1,1 @@
-var mnemonic = "burden black fringe exist grief middle please tissue category bleak oxygen typical";
+var mnemonic = "slogan aisle tide train sausage glad wrestle tide father language deliver arrow";

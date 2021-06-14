@@ -1,1 +1,1 @@
-var mnemonic = "matter deliver size steel tube give average blossom reflect knife remain frame";
+var mnemonic = "quit visit upper hidden park young combine capital rigid camp tide inspire";
