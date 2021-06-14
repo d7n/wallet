@@ -1,1 +1,1 @@
-var mnemonic = "heart timber matrix leader thing offer huge fame owner alone gift patient";
+var mnemonic = "goat gift novel depart pretty rally yard dove relax earth captain pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "control identify library rich drive initial strike lemon hamster save tongue wealth";
+var mnemonic = "female dragon inject barrel weird torch ride next easy galaxy give funny";

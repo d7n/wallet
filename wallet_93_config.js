@@ -1,1 +1,1 @@
-var mnemonic = "denial oyster answer awesome mystery elite choice ocean derive strategy melt prize";
+var mnemonic = "minimum bring spike glimpse giant invest tunnel foil stumble bottom toe record";

@@ -1,1 +1,1 @@
-var mnemonic = "transfer best ginger piano happy begin member carry coil survey fault left";
+var mnemonic = "alter bullet crew kitten east ride cry knife maze pet discover brick";

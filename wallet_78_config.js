@@ -1,1 +1,1 @@
-var mnemonic = "expect more square robust steak truly resource fatal jeans chunk present school";
+var mnemonic = "cigar route increase firm major remind leader ritual pledge exist raven bag";

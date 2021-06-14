@@ -1,1 +1,1 @@
-var mnemonic = "day chuckle page gallery lazy okay vacant palace visual weasel story velvet";
+var mnemonic = "note pioneer alarm snap rebuild cancel system divide task obtain test dirt";

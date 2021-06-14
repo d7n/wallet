@@ -1,1 +1,1 @@
-var mnemonic = "vibrant target owner like siren bullet slot prefer humble surround unique shallow";
+var mnemonic = "pitch alone elbow garment theory nominee west voice stay enemy solar royal";

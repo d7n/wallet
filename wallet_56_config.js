@@ -1,1 +1,1 @@
-var mnemonic = "century expire twin soldier turtle damage season close hobby sunny release appear";
+var mnemonic = "learn fresh arrange danger example foster pledge raise school escape rocket clown";

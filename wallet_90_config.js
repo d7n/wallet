@@ -1,1 +1,1 @@
-var mnemonic = "athlete wine crop mixture swap zone rail dutch tomorrow jeans comic use";
+var mnemonic = "loan main attack upper ensure alien bamboo sail topple ready session race";

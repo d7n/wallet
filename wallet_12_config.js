@@ -1,1 +1,1 @@
-var mnemonic = "grunt flush sugar midnight alter screen ability alert stable citizen glove oak";
+var mnemonic = "window leave purse license blue lens supreme heavy sponsor dizzy curve dolphin";

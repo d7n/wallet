@@ -1,1 +1,1 @@
-var mnemonic = "run cliff will raccoon already region deposit dumb soft august field anger";
+var mnemonic = "camp distance teach lottery boat odor dutch fashion deliver primary clap awake";

@@ -1,1 +1,1 @@
-var mnemonic = "essence guilt gorilla dice fresh base crane scale away stuff fabric bridge";
+var mnemonic = "worry session select hunt because shift panel okay depart change remind chef";

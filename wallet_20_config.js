@@ -1,1 +1,1 @@
-var mnemonic = "gown idle loan moral secret nerve myself region shy melody bullet portion";
+var mnemonic = "journey rather shop earth fade skate borrow diet reflect borrow valve super";

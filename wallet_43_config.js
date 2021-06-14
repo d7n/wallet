@@ -1,1 +1,1 @@
-var mnemonic = "shaft couple twelve island suspect can exit chief sign trick sauce about";
+var mnemonic = "tumble drive brisk online elephant oil napkin lend knock awkward stem coconut";

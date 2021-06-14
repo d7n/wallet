@@ -1,1 +1,1 @@
-var mnemonic = "brick help fringe favorite daughter force angry beef follow rule certain prize";
+var mnemonic = "inquiry flat brother easy brief famous blush cannon ahead pill siren vapor";

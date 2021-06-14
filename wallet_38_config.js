@@ -1,1 +1,1 @@
-var mnemonic = "vault process card cause rib trip silk mobile garbage ring brother allow";
+var mnemonic = "cute venue title fee kid october project define strategy wage menu pen";

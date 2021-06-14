@@ -1,1 +1,1 @@
-var mnemonic = "cause poet actor enact absurd radio material note shove lend hen visual";
+var mnemonic = "stock hammer unit humor cage husband east laugh tube segment hard target";

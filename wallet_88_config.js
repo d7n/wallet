@@ -1,1 +1,1 @@
-var mnemonic = "recycle make venue drill network opinion supreme steel time scrub fit clerk";
+var mnemonic = "little inform ethics thumb square board fortune usual lift summer shop tragic";

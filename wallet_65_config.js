@@ -1,1 +1,1 @@
-var mnemonic = "ceiling follow zoo label once coil lyrics legal shell diary gift over";
+var mnemonic = "leopard rebuild minute bubble end tornado hen wave organ ill guard prepare";

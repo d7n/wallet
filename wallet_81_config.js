@@ -1,1 +1,1 @@
-var mnemonic = "metal amazing alcohol local income doll hybrid detail edge disease tuition flavor";
+var mnemonic = "innocent boss record loyal they crisp swing crime slow slogan orchard suffer";

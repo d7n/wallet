@@ -1,1 +1,1 @@
-var mnemonic = "base deer body face thank arm daughter eye rural brass script ordinary";
+var mnemonic = "junk tail host stuff also tribe fresh place select usual total nation";

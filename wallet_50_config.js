@@ -1,1 +1,1 @@
-var mnemonic = "whisper ramp robust switch waste inflict cart catalog stand response crime warfare";
+var mnemonic = "hint buddy win budget narrow fit group cluster spin such rain winter";

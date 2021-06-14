@@ -1,1 +1,1 @@
-var mnemonic = "arena blur long squirrel day eternal eyebrow swear feature base hollow mean";
+var mnemonic = "water pigeon verb truck ahead scout ordinary cave upgrade salute mean cinnamon";

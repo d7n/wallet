@@ -1,1 +1,1 @@
-var mnemonic = "grace survey nasty merry satisfy valve card entry scheme casual inner captain";
+var mnemonic = "humor someone giggle merge reduce sunset salute sound sauce rich metal grunt";

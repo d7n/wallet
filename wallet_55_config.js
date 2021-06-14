@@ -1,1 +1,1 @@
-var mnemonic = "hunt lake wrap essence like news glare blind hundred aim zero warfare";
+var mnemonic = "defy connect fog guess puzzle book funny orphan initial evidence wall north";

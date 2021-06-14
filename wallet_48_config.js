@@ -1,1 +1,1 @@
-var mnemonic = "cabin inform weasel mosquito next party brick feel match ugly oil connect";
+var mnemonic = "example quote virus boat private ivory defy bacon air sound key board";

@@ -1,1 +1,1 @@
-var mnemonic = "tongue post wrap float river arrange upset setup story jewel install hire";
+var mnemonic = "match royal ankle allow remain check endless north view season spray return";

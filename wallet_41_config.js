@@ -1,1 +1,1 @@
-var mnemonic = "area remove liar unaware galaxy leopard undo tank tank skirt excuse drill";
+var mnemonic = "federal quote blur web struggle yellow escape thumb axis wool spy move";

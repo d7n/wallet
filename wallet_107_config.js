@@ -1,1 +1,1 @@
-var mnemonic = "tube verify main idea puppy close slam talk sport proof manual pave";
+var mnemonic = "upper busy thing initial woman quantum amused brick drink snap divert future";

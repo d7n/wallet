@@ -1,1 +1,1 @@
-var mnemonic = "load hole pipe tree frog one firm broom toe jelly public alone";
+var mnemonic = "sock chat master lucky cute above very summer column unfold upgrade museum";

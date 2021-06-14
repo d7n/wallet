@@ -1,1 +1,1 @@
-var mnemonic = "bind gentle paper minor wrong clinic dinosaur wear gadget fault private blind";
+var mnemonic = "slogan uncover mechanic hello bicycle wire tiger beauty dolphin oven hire dilemma";

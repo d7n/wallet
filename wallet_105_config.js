@@ -1,1 +1,1 @@
-var mnemonic = "uphold tomorrow mail when nice gap oppose issue chunk boy swallow dragon";
+var mnemonic = "grace jewel hurt round unhappy idle evolve age hunt rhythm sunset expose";

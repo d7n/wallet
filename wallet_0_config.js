@@ -1,1 +1,1 @@
-var mnemonic = "cream provide monster verify museum fresh hobby carry link liberty flight promote";
+var mnemonic = "hat cement craft target laugh alter salad south race stable clump loop";

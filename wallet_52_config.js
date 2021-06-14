@@ -1,1 +1,1 @@
-var mnemonic = "crush inhale cause depart wine addict garage whale dune leg six brief";
+var mnemonic = "cancel usage appear fiber proof random square couch click shock coast kiss";

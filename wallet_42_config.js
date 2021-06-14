@@ -1,1 +1,1 @@
-var mnemonic = "neglect marine sunny glad sail merry few symbol average logic taxi thank";
+var mnemonic = "live page awake cattle begin miss entry grief audit bounce distance intact";

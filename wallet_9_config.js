@@ -1,1 +1,1 @@
-var mnemonic = "increase squirrel roof category since husband laundry fame common victory spring over";
+var mnemonic = "upper multiply cabin round home fitness measure more prefer category jaguar tower";

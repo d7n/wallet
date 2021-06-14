@@ -1,1 +1,1 @@
-var mnemonic = "manage hockey brave prize patch wagon enjoy note transfer finish craft pitch";
+var mnemonic = "flash spoon opera chunk escape fence duck middle seat lamp north chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "half vote differ because vibrant city holiday diagram eight athlete oblige much";
+var mnemonic = "clap north ready novel immense giggle decline simple clever belt layer conduct";

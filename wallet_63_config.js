@@ -1,1 +1,1 @@
-var mnemonic = "hammer boss rate close absent antique smart skin useless song ski dish";
+var mnemonic = "glue clarify waste swear drink economy rug before devote flock until purse";

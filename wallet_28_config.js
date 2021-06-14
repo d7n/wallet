@@ -1,1 +1,1 @@
-var mnemonic = "endorse mountain blur usual much carry echo green circle mobile barely turtle";
+var mnemonic = "gather blossom market mesh globe lemon mom doll long story invite column";

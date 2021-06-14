@@ -1,1 +1,1 @@
-var mnemonic = "into shrug cement recycle enough asthma auto hungry clock prevent scorpion page";
+var mnemonic = "speed escape apart wool confirm recycle call find pulp arena dolphin autumn";

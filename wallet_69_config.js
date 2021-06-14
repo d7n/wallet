@@ -1,1 +1,1 @@
-var mnemonic = "source popular usage celery catalog print royal now wood brick record logic";
+var mnemonic = "render remove bamboo woman stay ice window rapid only satoshi digital stay";

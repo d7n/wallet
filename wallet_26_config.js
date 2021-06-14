@@ -1,1 +1,1 @@
-var mnemonic = "damp soft weasel amateur chef safe best coral social cycle arrange lonely";
+var mnemonic = "vivid title swallow maximum option desert unfold topic bonus horse mandate moment";

@@ -1,1 +1,1 @@
-var mnemonic = "nature long dash captain above orchard buddy tennis vendor ignore odor sense";
+var mnemonic = "kid glove sick hat worth echo danger speed simple vocal act ahead";

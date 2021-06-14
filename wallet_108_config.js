@@ -1,1 +1,1 @@
-var mnemonic = "prefer urban twice glove green update mimic purpose cactus sense sudden march";
+var mnemonic = "joy recipe actress spice track mesh attitude post metal feature exhibit state";

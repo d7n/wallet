@@ -1,1 +1,1 @@
-var mnemonic = "test neck cousin egg allow identify glass unusual they rely marine beyond";
+var mnemonic = "round skin invite carbon curtain option ramp theme unlock lesson enemy lion";

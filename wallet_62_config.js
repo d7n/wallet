@@ -1,1 +1,1 @@
-var mnemonic = "use song omit aisle idea december wealth follow web swarm can open";
+var mnemonic = "neither clip exile offer mention option water reflect stick lemon three stick";

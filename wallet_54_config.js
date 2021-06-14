@@ -1,1 +1,1 @@
-var mnemonic = "pencil lobster side praise sign mercy talent fashion seed vehicle fragile april";
+var mnemonic = "install order hip any clog uncle egg drum chapter hundred scare arrest";

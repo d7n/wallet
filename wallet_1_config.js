@@ -1,1 +1,1 @@
-var mnemonic = "client page tired immune praise trust service ancient feed void point mountain";
+var mnemonic = "galaxy consider wire velvet language runway parrot stadium junk roast cement domain";

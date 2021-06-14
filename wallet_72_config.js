@@ -1,1 +1,1 @@
-var mnemonic = "picnic scale drill jelly holiday define chief fix fancy accuse medal nerve";
+var mnemonic = "oil gospel repeat media tilt uphold crowd youth author praise decorate age";

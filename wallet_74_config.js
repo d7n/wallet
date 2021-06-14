@@ -1,1 +1,1 @@
-var mnemonic = "buzz mobile reward also change below crumble cry quiz biology chef snake";
+var mnemonic = "piano lunch response such cost heavy fetch spell leg stamp stand error";

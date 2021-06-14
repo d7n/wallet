@@ -1,1 +1,1 @@
-var mnemonic = "undo rhythm silver submit honey snap quit disagree cry taxi machine ceiling";
+var mnemonic = "nature never gym lunch tunnel vocal tomorrow fun cube gaze lunch feature";

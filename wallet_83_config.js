@@ -1,1 +1,1 @@
-var mnemonic = "impulse glide need expand parrot million cement type right evoke venture abuse";
+var mnemonic = "ball gadget december night minimum cook erupt brother shine melt artwork fly";

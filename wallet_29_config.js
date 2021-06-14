@@ -1,1 +1,1 @@
-var mnemonic = "equip crystal vault now online oblige devote report arctic disorder annual gather";
+var mnemonic = "law sunset kit arch inside lonely car proud elevator describe ordinary retreat";

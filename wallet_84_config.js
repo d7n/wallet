@@ -1,1 +1,1 @@
-var mnemonic = "hat trade suspect voyage naive betray child vanish turkey object route that";
+var mnemonic = "twice dial super ghost seminar garage nose inject crystal alien buddy barely";

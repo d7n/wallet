@@ -1,1 +1,1 @@
-var mnemonic = "weird chief hire panda seed fatal night bargain allow grain embody pill";
+var mnemonic = "old response alter jewel special awful wife problem thing ready hip claim";

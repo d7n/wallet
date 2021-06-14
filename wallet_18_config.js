@@ -1,1 +1,1 @@
-var mnemonic = "flip snack elevator bean physical laugh garden wine urban slice beef spend";
+var mnemonic = "guess remind holiday hole scissors live cute wage marble knee ball strategy";

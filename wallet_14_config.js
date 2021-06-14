@@ -1,1 +1,1 @@
-var mnemonic = "electric online clay token diet prize obscure walnut ankle merit turkey pet";
+var mnemonic = "glare analyst kitten grief palm judge make okay title either north warfare";

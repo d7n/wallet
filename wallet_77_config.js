@@ -1,1 +1,1 @@
-var mnemonic = "gather end flame cruise ritual skate sausage culture ritual cabbage fluid course";
+var mnemonic = "jazz silk tiger tomorrow text vivid mixed uncover lens pulp end sail";

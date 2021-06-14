@@ -1,1 +1,1 @@
-var mnemonic = "true satoshi process idle zero door iron danger bachelor rude system oil";
+var mnemonic = "dismiss pattern mushroom kidney brush maple volume offer region six swift affair";

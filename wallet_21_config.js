@@ -1,1 +1,1 @@
-var mnemonic = "cushion useless antique swamp vapor nasty common ridge echo language media circle";
+var mnemonic = "easily jewel hover spring surprise venue eager unable auto ivory evolve grocery";

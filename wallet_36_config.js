@@ -1,1 +1,1 @@
-var mnemonic = "valve mad young toddler input retire alpha sorry amount crucial dose fragile";
+var mnemonic = "pistol normal six admit unlock relief genius pistol little lumber nation lawn";

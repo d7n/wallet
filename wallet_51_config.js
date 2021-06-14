@@ -1,1 +1,1 @@
-var mnemonic = "cool sausage forest artist rate ticket rich purchase rail boy daughter person";
+var mnemonic = "caution solar spring predict exercise mass industry keen giant debris novel sand";

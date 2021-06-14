@@ -1,1 +1,1 @@
-var mnemonic = "almost insect common sport roof build decide soon soup friend hat sense";
+var mnemonic = "fatigue suggest push cabbage menu vivid bamboo rocket wire settle kite render";

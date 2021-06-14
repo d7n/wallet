@@ -1,1 +1,1 @@
-var mnemonic = "save tennis tool clay hobby adult learn security stove away page law";
+var mnemonic = "oil seat display curve rubber kidney impose body dismiss convince physical also";

@@ -1,1 +1,1 @@
-var mnemonic = "pink uniform save novel ski armed sign surprise scene force that sell";
+var mnemonic = "outside giant cotton love nerve taxi view organ void fold mountain check";

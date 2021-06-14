@@ -1,1 +1,1 @@
-var mnemonic = "scrap remember culture pact observe vacant patrol virus purchase honey blush field";
+var mnemonic = "science acquire damp print fix few route vast canal neither decade sunny";

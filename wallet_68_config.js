@@ -1,1 +1,1 @@
-var mnemonic = "eager fiber stadium rough among dad section wagon permit bring bicycle frog";
+var mnemonic = "slot badge enforce disagree reform roast special tray title bird goddess pencil";

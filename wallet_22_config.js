@@ -1,1 +1,1 @@
-var mnemonic = "like buffalo cute elbow begin hidden reason maid paddle music neck rocket";
+var mnemonic = "neck smooth faith stairs advice settle pair woman tone impose tone ketchup";

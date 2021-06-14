@@ -1,1 +1,1 @@
-var mnemonic = "hill toe pipe promote lounge credit moon empty heavy exist speed large";
+var mnemonic = "armor tonight always ride shock truth interest blood action fluid aerobic scene";

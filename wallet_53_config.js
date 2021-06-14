@@ -1,1 +1,1 @@
-var mnemonic = "dance solar midnight glide ridge wonder outer among brief brave weather suit";
+var mnemonic = "thrive page flat sea bulk biology weird mango flip lobster actress dress";

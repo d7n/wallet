@@ -1,1 +1,1 @@
-var mnemonic = "funny eight cup evolve state plate strike fire plate foil correct item";
+var mnemonic = "few middle addict ball double potato shaft sure edit example yard gallery";

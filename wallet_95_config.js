@@ -1,1 +1,1 @@
-var mnemonic = "melt injury flower taxi winner thought hazard ten annual employ defy nice";
+var mnemonic = "magic boy suit middle dynamic govern uphold green laundry kid protect found";

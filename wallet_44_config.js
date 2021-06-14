@@ -1,1 +1,1 @@
-var mnemonic = "ensure year media bachelor travel fold program pill climb rate giggle forward";
+var mnemonic = "welcome leader network final spread atom snack arch frozen inherit buyer conduct";

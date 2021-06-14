@@ -1,1 +1,1 @@
-var mnemonic = "snake stage priority liquid amount fault length boss slight round language simple";
+var mnemonic = "blind moon credit dry staff hotel very credit crucial maid stable jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "glue arrow enroll hedgehog foster certain network few crack bench exact target";
+var mnemonic = "vivid hello skirt lemon dilemma absorb real fatal very laugh orbit adjust";

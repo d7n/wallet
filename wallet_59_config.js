@@ -1,1 +1,1 @@
-var mnemonic = "help symptom claim inform axis index bread give cupboard hammer vital trade";
+var mnemonic = "involve loud code tool deer collect gloom spot roof cute cushion kite";

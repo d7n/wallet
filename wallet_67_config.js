@@ -1,1 +1,1 @@
-var mnemonic = "jacket turtle hover gun tobacco barrel either various fox rival fuel cage";
+var mnemonic = "lava exchange save swing copper inch athlete practice bone session model sketch";

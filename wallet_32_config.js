@@ -1,1 +1,1 @@
-var mnemonic = "flat debris can connect exercise once dance jacket reveal predict art satisfy";
+var mnemonic = "insect often mammal oyster tone elephant alien load blue chunk jeans border";

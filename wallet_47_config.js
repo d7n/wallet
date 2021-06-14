@@ -1,1 +1,1 @@
-var mnemonic = "zone post bar connect brief lucky zoo tilt quarter permit laptop apart";
+var mnemonic = "grass mixture laptop bike chalk twenty satoshi able same waste scale wear";

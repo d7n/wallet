@@ -1,1 +1,1 @@
-var mnemonic = "female category myth armed safe poet what heart rapid fox gadget outer";
+var mnemonic = "blame bulb coach chef pipe injury absent now doctor toddler plug iron";

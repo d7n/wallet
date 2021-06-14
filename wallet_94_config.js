@@ -1,1 +1,1 @@
-var mnemonic = "actor venue prize riot coral slab code cake fade uphold across ribbon";
+var mnemonic = "liar steak juice provide van night butter loyal anger express affair traffic";

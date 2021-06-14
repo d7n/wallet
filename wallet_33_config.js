@@ -1,1 +1,1 @@
-var mnemonic = "jeans giant kick toy admit agree harbor goose use mobile sorry vibrant";
+var mnemonic = "embark desk coral gaze history siege recycle eyebrow poverty promote world avoid";

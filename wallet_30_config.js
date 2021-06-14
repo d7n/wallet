@@ -1,1 +1,1 @@
-var mnemonic = "carbon winter master erosion inflict reward suspect dynamic oxygen depth jungle escape";
+var mnemonic = "adult field wheel rescue blood divert double fox price forum fix between";

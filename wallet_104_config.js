@@ -1,1 +1,1 @@
-var mnemonic = "right loop jacket birth rice arrow grab usage design arrow almost hungry";
+var mnemonic = "essay lunar next enrich knife brown fortune blossom slice daring question comfort";

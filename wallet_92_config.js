@@ -1,1 +1,1 @@
-var mnemonic = "sheriff hover husband wing foam figure bundle model rate kite novel gentle";
+var mnemonic = "protect grief trade such merry detail furnace entire wife viable extra fiscal";

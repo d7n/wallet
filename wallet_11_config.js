@@ -1,1 +1,1 @@
-var mnemonic = "nuclear begin elephant candy busy cake express mix globe metal brand absurd";
+var mnemonic = "priority snake hungry census void gentle ancient sort liar puppy pistol coral";

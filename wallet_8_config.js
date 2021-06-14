@@ -1,1 +1,1 @@
-var mnemonic = "liquid hungry grunt frequent cry ritual amazing travel truly artist embrace what";
+var mnemonic = "shoe room detect genuine sustain require maple unfold satisfy reason sudden decline";

@@ -1,1 +1,1 @@
-var mnemonic = "sting glad busy spell satisfy birth special raccoon dune wear muscle pizza";
+var mnemonic = "pencil chase fan dumb amazing pulse help dance dream royal scout blossom";

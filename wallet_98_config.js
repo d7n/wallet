@@ -1,1 +1,1 @@
-var mnemonic = "pulp local crater often valve actress style caution decade scatter deny unhappy";
+var mnemonic = "garlic school day velvet force regret entire whale scrub crime reduce pledge";

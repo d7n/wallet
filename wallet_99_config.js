@@ -1,1 +1,1 @@
-var mnemonic = "fade escape strike gorilla owner smooth arena resource inside enter need educate";
+var mnemonic = "melody rather limb armor penalty light before mango suspect pair flag surround";

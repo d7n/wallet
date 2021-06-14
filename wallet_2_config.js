@@ -1,1 +1,1 @@
-var mnemonic = "erase spin guess normal around adjust odor silent satoshi twelve train between";
+var mnemonic = "mail arch left lamp cake essence trophy flash work supply matrix student";

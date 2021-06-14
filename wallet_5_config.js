@@ -1,1 +1,1 @@
-var mnemonic = "imitate exhibit gate multiply tank fiscal chicken advance lake make breeze clever";
+var mnemonic = "mandate spray trigger stuff zoo enjoy tent minute suffer dinner admit crash";
