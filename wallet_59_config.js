@@ -1,1 +1,1 @@
-var mnemonic = "valley element double dizzy gentle monitor state sock patch shoe brave denial";
+var mnemonic = "document usual outdoor leader wing dutch modify resist old control vanish potato";

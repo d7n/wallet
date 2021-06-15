@@ -1,1 +1,1 @@
-var mnemonic = "faculty such dish firm target excuse win usual ten away hello judge";
+var mnemonic = "lucky bulb obtain host afraid elephant north parrot flight armor whisper strong";

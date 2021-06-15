@@ -1,1 +1,1 @@
-var mnemonic = "future kind comfort wasp tuition obey release water youth drastic avocado oyster";
+var mnemonic = "opinion live deliver follow reason cable afford describe gorilla crowd actual busy";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb wall tooth select peace tree fashion once image horse bid happy";
+var mnemonic = "brush actor evolve convince fantasy strong ahead mix good abandon harsh rigid";

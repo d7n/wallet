@@ -1,1 +1,1 @@
-var mnemonic = "number ketchup hand target strike combine toe intact page eight drama jar";
+var mnemonic = "cream tired join fluid mango discover possible rescue horse license quality clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "error human assault glory inject adjust fold nature drama mix ribbon disagree";
+var mnemonic = "infant claw film safe add guitar custom crawl dice salmon celery earth";

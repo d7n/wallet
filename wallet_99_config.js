@@ -1,1 +1,1 @@
-var mnemonic = "stool wall donate orbit dolphin solve index around hurdle result double jewel";
+var mnemonic = "device float lamp celery foil album river crash rack apple win praise";

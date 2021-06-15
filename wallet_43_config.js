@@ -1,1 +1,1 @@
-var mnemonic = "plunge impulse fix expose champion merry purity hill civil wish enemy hollow";
+var mnemonic = "coconut army squirrel image skin lens adult mother text donkey minimum where";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce notable cliff radio forget dice half tired bitter panel deer jewel";
+var mnemonic = "expand mad awful before decrease brain over logic gym sense pelican horse";

@@ -1,1 +1,1 @@
-var mnemonic = "layer robust siege glass system wood blur winner unhappy join mango kiss";
+var mnemonic = "congress make old level depend tank bracket army issue item current initial";

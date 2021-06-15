@@ -1,1 +1,1 @@
-var mnemonic = "wheat fall trap three theory multiply expand joke inject reveal order hungry";
+var mnemonic = "wagon envelope scene order vault again square key space broom toilet polar";

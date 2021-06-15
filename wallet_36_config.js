@@ -1,1 +1,1 @@
-var mnemonic = "fade tattoo legal million garbage input palm anxiety salon curious scheme shoe";
+var mnemonic = "nest enhance detect asset fatigue stem wealth discover outside siren tonight food";

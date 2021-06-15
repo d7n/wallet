@@ -1,1 +1,1 @@
-var mnemonic = "desk riot silent meadow pause empower stereo cake patient fever staff equip";
+var mnemonic = "solve bonus crush arm payment sea fault extend bar three split toddler";

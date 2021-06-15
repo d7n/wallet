@@ -1,1 +1,1 @@
-var mnemonic = "injury twist tumble token sorry cousin swing palace survey wild alone leisure";
+var mnemonic = "poem luggage tag worry have worry hood lumber robot tonight exhaust talent";

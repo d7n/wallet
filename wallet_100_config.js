@@ -1,1 +1,1 @@
-var mnemonic = "note desert surge aunt reunion cook flame pattern one waste figure resist";
+var mnemonic = "rare income consider wheel grass caught vicious heart cable toe liquid average";

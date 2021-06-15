@@ -1,1 +1,1 @@
-var mnemonic = "peanut depend dynamic fiscal jazz art ticket dizzy artefact merry pigeon dismiss";
+var mnemonic = "outdoor sample fee between garage enroll stove expire reflect photo flock push";

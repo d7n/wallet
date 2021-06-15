@@ -1,1 +1,1 @@
-var mnemonic = "labor become opera long brass demand direct network remind thank crunch bid";
+var mnemonic = "tuition step curve girl soup toe creek shoulder sketch donate riot citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "exercise ill pupil wrong punch hover noble crush hobby budget muffin alone";
+var mnemonic = "faith gesture auto case session merit motion initial isolate horn wall define";

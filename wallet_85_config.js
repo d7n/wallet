@@ -1,1 +1,1 @@
-var mnemonic = "only neutral merge ritual side improve guilt garbage spoon frequent smoke solar";
+var mnemonic = "envelope net stand depend street immune zebra parent lunch simple manual acoustic";

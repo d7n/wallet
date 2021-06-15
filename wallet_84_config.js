@@ -1,1 +1,1 @@
-var mnemonic = "taxi tower destroy legend crumble perfect cute nature sort enable repeat master";
+var mnemonic = "thunder sting agent favorite fun auto please point health broken lizard enroll";

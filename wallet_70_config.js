@@ -1,1 +1,1 @@
-var mnemonic = "renew husband junior present spoon unknown love winter involve afford antenna wet";
+var mnemonic = "exist file proof beauty tent purpose wedding south task broom suspect bounce";

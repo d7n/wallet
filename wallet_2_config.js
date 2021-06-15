@@ -1,1 +1,1 @@
-var mnemonic = "tongue ladder buyer link cool mouse first control brain juice seven exclude";
+var mnemonic = "flame arrow roof garment arena little family ride public outer number heavy";

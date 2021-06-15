@@ -1,1 +1,1 @@
-var mnemonic = "diagram degree assault blossom fuel canal crew picture waste gentle cactus guitar";
+var mnemonic = "tissue inch pill cabbage destroy toilet winter depth endorse trash robust symbol";

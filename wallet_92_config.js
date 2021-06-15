@@ -1,1 +1,1 @@
-var mnemonic = "pattern nothing use super zebra marriage carpet present town debris neither blue";
+var mnemonic = "elbow swarm patch pottery blur lecture mimic latin cupboard wood scale father";

@@ -1,1 +1,1 @@
-var mnemonic = "style double wide discover penalty shed income fire cram fruit life throw";
+var mnemonic = "depth wear hidden pitch loud start noise leaf one random stand dirt";

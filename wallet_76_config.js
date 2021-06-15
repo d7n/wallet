@@ -1,1 +1,1 @@
-var mnemonic = "you forest worth assault hold bag hero milk empower creek profit pelican";
+var mnemonic = "praise virtual ketchup involve smart tide blame mushroom kite proud scrap quality";

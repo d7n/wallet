@@ -1,1 +1,1 @@
-var mnemonic = "undo apple exit brass pitch inject piano call sight add fan kite";
+var mnemonic = "glove arrow harvest leisure habit problem local horse blade ribbon act pumpkin";

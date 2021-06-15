@@ -1,1 +1,1 @@
-var mnemonic = "tray success walnut sick hamster forget badge typical hen talk crawl garage";
+var mnemonic = "cat jazz extend foster mango during rug stand off sample price bitter";

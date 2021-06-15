@@ -1,1 +1,1 @@
-var mnemonic = "forward tent member head grunt swift merit spell legend faith clay visit";
+var mnemonic = "sail daring shallow inform scissors whip radar theme woman join liquid direct";

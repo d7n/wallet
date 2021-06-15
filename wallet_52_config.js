@@ -1,1 +1,1 @@
-var mnemonic = "differ asset disease voyage apology text cat vintage add across crack depth";
+var mnemonic = "issue latin congress catch together exist guess divide decorate shallow oak quote";

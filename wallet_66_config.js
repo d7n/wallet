@@ -1,1 +1,1 @@
-var mnemonic = "urge average eight heavy fox near avoid logic small cradle recall average";
+var mnemonic = "fringe later double letter city pear raise voyage zero symbol expose believe";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle matrix raven sport hill bar clock gift picture fat pudding wet";
+var mnemonic = "poem again disagree boil mutual rice isolate swallow inquiry uncover lecture note";

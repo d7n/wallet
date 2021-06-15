@@ -1,1 +1,1 @@
-var mnemonic = "entry control type vicious shoulder degree blood stem equip border swing radio";
+var mnemonic = "always erode patient toss sign welcome item pelican chalk hood crisp exact";

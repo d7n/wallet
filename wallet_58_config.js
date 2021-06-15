@@ -1,1 +1,1 @@
-var mnemonic = "awful found enter book flat dolphin right hamster giraffe seminar galaxy under";
+var mnemonic = "father network promote science ski skin swift actor toward before mandate effort";

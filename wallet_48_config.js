@@ -1,1 +1,1 @@
-var mnemonic = "find oven firm mention section example ice hawk alone cycle thing humor";
+var mnemonic = "display dinner glow pig genius wave unfold salon grass bicycle soda height";

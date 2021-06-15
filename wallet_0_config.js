@@ -1,1 +1,1 @@
-var mnemonic = "shift bind top mesh chunk surprise forget session grant wash attitude assault";
+var mnemonic = "shock bicycle area panic powder blouse reform relief cart shine lawn top";

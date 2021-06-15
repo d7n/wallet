@@ -1,1 +1,1 @@
-var mnemonic = "sibling cute square zone journey gentle snow organ arrow keen oxygen rare";
+var mnemonic = "friend power manage moon wolf enforce afraid police parade wood renew lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "spoon step estate door illegal fiber blast frown fade cargo over huge";
+var mnemonic = "robust pool parade inmate warm stairs annual street foster gun essay tiny";

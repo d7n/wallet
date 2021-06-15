@@ -1,1 +1,1 @@
-var mnemonic = "hero above donkey youth cost citizen fat unveil february rabbit term frame";
+var mnemonic = "blossom anxiety fun glare suffer replace worth garlic carpet hold mixture window";

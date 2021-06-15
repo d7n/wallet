@@ -1,1 +1,1 @@
-var mnemonic = "crunch buffalo school patrol sea acquire fantasy thunder panel neck history glue";
+var mnemonic = "this aspect secret bird fluid addict hope airport false hat vague word";

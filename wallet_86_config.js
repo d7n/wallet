@@ -1,1 +1,1 @@
-var mnemonic = "want furnace biology month gospel brick pool cheese prepare know broccoli crucial";
+var mnemonic = "wear pyramid pudding celery above luggage family clerk twin brand whip grid";

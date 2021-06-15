@@ -1,1 +1,1 @@
-var mnemonic = "private ignore faculty asthma carbon quit rubber offer humor enjoy trust lend";
+var mnemonic = "frown present join coconut swift main myth tape sock bar idea early";

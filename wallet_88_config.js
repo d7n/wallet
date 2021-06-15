@@ -1,1 +1,1 @@
-var mnemonic = "office fashion whisper disease kingdom help remain plug staff rural almost crime";
+var mnemonic = "eyebrow sell gas assist rack duck clip garlic kick clever robot win";

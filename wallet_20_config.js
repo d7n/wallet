@@ -1,1 +1,1 @@
-var mnemonic = "aware exhaust master cheap salute tattoo old scheme effort elite goddess exclude";
+var mnemonic = "neglect gain quarter exchange dance leg only crew medal blame clock absurd";

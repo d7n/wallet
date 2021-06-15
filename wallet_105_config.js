@@ -1,1 +1,1 @@
-var mnemonic = "fringe allow vacuum cannon journey castle inside apple rib pole stuff rich";
+var mnemonic = "install push today swear horror stay special text regret chest mom regular";

@@ -1,1 +1,1 @@
-var mnemonic = "swear cool verify polar genuine boil sample peasant swim coyote denial three";
+var mnemonic = "fresh pigeon chalk tube blind trip glass finger bless visit outer list";

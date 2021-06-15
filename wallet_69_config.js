@@ -1,1 +1,1 @@
-var mnemonic = "assault hundred pioneer result hungry knife warrior live tone cook resemble prepare";
+var mnemonic = "awful laptop prevent oxygen balcony glue pink crater alley tell danger biology";

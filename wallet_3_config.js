@@ -1,1 +1,1 @@
-var mnemonic = "price scare side depth salute yard prefer fatal analyst torch such chronic";
+var mnemonic = "slim into plunge limb caution pear waste leave rack avocado crime tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "spare picnic bicycle clutch flash praise upgrade orange garden account excess diary";
+var mnemonic = "jewel brand deliver throw rigid accident fun device credit position pattern mass";

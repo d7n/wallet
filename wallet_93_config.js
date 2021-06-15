@@ -1,1 +1,1 @@
-var mnemonic = "top harvest avocado consider bridge clinic board pet base visual winner real";
+var mnemonic = "south first loop offer account debris subway brown aim frozen source aerobic";

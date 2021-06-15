@@ -1,1 +1,1 @@
-var mnemonic = "cushion upset omit essay client list measure hill velvet giggle settle sure";
+var mnemonic = "drift square great refuse finish design tube priority test limit bounce shield";

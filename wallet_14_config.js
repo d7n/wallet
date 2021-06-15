@@ -1,1 +1,1 @@
-var mnemonic = "parade modify miss disease meat fetch inherit mosquito globe stamp oblige unhappy";
+var mnemonic = "chef section scan ski dynamic amused trumpet poem maple upset venture call";

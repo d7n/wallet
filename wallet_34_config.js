@@ -1,1 +1,1 @@
-var mnemonic = "ecology muffin reason jaguar sheriff choose game mother hundred marine flavor soft";
+var mnemonic = "ancient rifle abandon apart hurry amateur buzz wing accident ozone mail million";

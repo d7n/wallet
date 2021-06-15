@@ -1,1 +1,1 @@
-var mnemonic = "inflict blur inch buddy image pioneer skull note horror item diary slow";
+var mnemonic = "write olympic knee autumn mango innocent army join sock payment scissors only";

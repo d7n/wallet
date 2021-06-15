@@ -1,1 +1,1 @@
-var mnemonic = "kiwi guess rhythm absent poet camera matter shuffle tank curve defy slogan";
+var mnemonic = "come equal very embody holiday devote sorry ten habit simple provide tooth";

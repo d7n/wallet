@@ -1,1 +1,1 @@
-var mnemonic = "soldier sock around tag pyramid leisure toast sketch silk guitar title phrase";
+var mnemonic = "client box toward panther tackle night stove act crowd modify trip civil";

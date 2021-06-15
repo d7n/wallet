@@ -1,1 +1,1 @@
-var mnemonic = "when fringe page rally enough holiday rigid trophy collect journey cluster scene";
+var mnemonic = "guard shift force kangaroo unusual ladder insect wedding trend final clarify farm";

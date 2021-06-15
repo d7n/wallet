@@ -1,1 +1,1 @@
-var mnemonic = "gallery lyrics faith nasty social bulk window cross vital sustain cannon trim";
+var mnemonic = "remind current digital discover fabric guide solution idle merge antenna wild mail";

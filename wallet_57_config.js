@@ -1,1 +1,1 @@
-var mnemonic = "real fine buddy sugar bulk giant sorry neutral airport alley snake obey";
+var mnemonic = "spoil parent predict logic then hammer law drink beach over salad weapon";

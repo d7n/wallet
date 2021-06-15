@@ -1,1 +1,1 @@
-var mnemonic = "decorate story practice legal video fame focus kind drum unable fall modify";
+var mnemonic = "arrest chicken jeans minute finish father hobby carbon shove broom faith calm";

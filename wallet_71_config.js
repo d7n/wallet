@@ -1,1 +1,1 @@
-var mnemonic = "pioneer rich story mom flat aim broken ride gauge arena subway goddess";
+var mnemonic = "fine click during hedgehog element venue image drum topple baby earth tunnel";

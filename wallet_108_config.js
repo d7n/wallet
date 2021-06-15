@@ -1,1 +1,1 @@
-var mnemonic = "piano sausage jacket quiz core luggage champion zebra exhibit eternal yellow open";
+var mnemonic = "index surface increase wisdom discover absurd illegal stock cricket upper behind notable";

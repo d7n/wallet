@@ -1,1 +1,1 @@
-var mnemonic = "hard service scheme tuna poverty sound mom secret collect stumble foot reflect";
+var mnemonic = "course exhaust seminar speed squeeze bridge comic topic minute retire crime skate";

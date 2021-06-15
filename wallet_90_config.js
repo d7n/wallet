@@ -1,1 +1,1 @@
-var mnemonic = "robust exercise pulp poverty need useless enemy diagram boss tiger thank silver";
+var mnemonic = "day daughter ice fire refuse zero feature enjoy lawn scrub road cradle";

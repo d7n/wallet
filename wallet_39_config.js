@@ -1,1 +1,1 @@
-var mnemonic = "aerobic remove video umbrella mechanic adult gown shoulder dentist trip oxygen sell";
+var mnemonic = "soon frequent debris picnic distance control accident grunt verify crisp face install";

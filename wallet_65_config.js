@@ -1,1 +1,1 @@
-var mnemonic = "extend purpose dial life master patch wedding sleep picture east core gather";
+var mnemonic = "caution ridge sight spatial vivid gather glow love gallery sound grief market";

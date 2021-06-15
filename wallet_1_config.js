@@ -1,1 +1,1 @@
-var mnemonic = "rocket acquire survey dust roast stage start loud fee tail usage clerk";
+var mnemonic = "hood dolphin cat clap plug ancient cabbage radar window buffalo small trash";

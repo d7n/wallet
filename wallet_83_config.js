@@ -1,1 +1,1 @@
-var mnemonic = "senior mule weasel proof laugh shock ring chuckle town social fault want";
+var mnemonic = "produce copy knife dirt flip acoustic spin stick oxygen post prepare castle";

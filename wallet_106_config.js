@@ -1,1 +1,1 @@
-var mnemonic = "program rally never author interest guide bachelor script employ stick move question";
+var mnemonic = "nasty excite seek liquid useful shop fence tuition drop era print jewel";

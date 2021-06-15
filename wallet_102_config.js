@@ -1,1 +1,1 @@
-var mnemonic = "six mean wood insect jewel monster pudding unit undo runway excite insect";
+var mnemonic = "sing assist avoid prison acoustic physical refuse century dizzy draw supreme sure";

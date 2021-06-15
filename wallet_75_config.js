@@ -1,1 +1,1 @@
-var mnemonic = "still awesome crater disorder resemble lucky admit discover render save fade flip";
+var mnemonic = "manage quote perfect faculty ancient air pipe title bleak shine drop divert";

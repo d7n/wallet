@@ -1,1 +1,1 @@
-var mnemonic = "black turtle turn sibling inch tunnel glad destroy please spread deny mechanic";
+var mnemonic = "coconut female cram woman bring tray prize rail rebuild pepper dilemma item";

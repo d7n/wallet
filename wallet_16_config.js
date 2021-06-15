@@ -1,1 +1,1 @@
-var mnemonic = "armed seat toy above daughter fox monster atom champion angle usual okay";
+var mnemonic = "badge attack midnight cancel tortoise inmate pizza hidden midnight search pulp sight";

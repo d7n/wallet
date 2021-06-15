@@ -1,1 +1,1 @@
-var mnemonic = "turn disease dwarf blame push system catalog olympic twelve quote exit enlist";
+var mnemonic = "shrug roast lion exile high fluid action task pioneer ahead mixed tiger";

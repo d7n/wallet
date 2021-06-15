@@ -1,1 +1,1 @@
-var mnemonic = "require bicycle caution suit bargain expect chicken material merit number volume blur";
+var mnemonic = "hair sea gown day canal dial enemy finish ring baby shop regret";

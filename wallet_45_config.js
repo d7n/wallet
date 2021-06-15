@@ -1,1 +1,1 @@
-var mnemonic = "admit movie test exchange soldier long daring weird foot similar search visit";
+var mnemonic = "pepper congress soon autumn where spread donkey alley apple cost aunt bargain";

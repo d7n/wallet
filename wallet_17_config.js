@@ -1,1 +1,1 @@
-var mnemonic = "feature try hire surge finish betray hover engine leopard tell impulse rather";
+var mnemonic = "cake tone giggle zero among hand hawk labor mother spatial smile purpose";

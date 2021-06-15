@@ -1,1 +1,1 @@
-var mnemonic = "discover rate address proof sort spy major soccer combine riot baby toilet";
+var mnemonic = "library topic roast brisk stable brain denial sketch dash grid practice stumble";

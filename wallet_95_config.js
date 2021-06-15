@@ -1,1 +1,1 @@
-var mnemonic = "lonely reward embark equip vendor tunnel silent valid outside gorilla hope mule";
+var mnemonic = "jeans vault erosion shoulder maze endorse scale flat local total scrap clutch";

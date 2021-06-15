@@ -1,1 +1,1 @@
-var mnemonic = "person exile arm north ladder lumber junior sniff engage thank armed dune";
+var mnemonic = "enrich advance stick unit eight flavor supreme lamp bus coin two wear";

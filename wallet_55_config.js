@@ -1,1 +1,1 @@
-var mnemonic = "spike ring bounce crawl cigar mouse modify spring legal adjust quote portion";
+var mnemonic = "answer horse egg possible nose video process advice share narrow provide giggle";

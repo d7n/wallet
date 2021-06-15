@@ -1,1 +1,1 @@
-var mnemonic = "climb seed pull twelve brave cable regret sail search early uncle biology";
+var mnemonic = "general assist bike race devote push promote zebra prevent whisper repeat ginger";

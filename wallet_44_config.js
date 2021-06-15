@@ -1,1 +1,1 @@
-var mnemonic = "federal update panel similar man soap always sunset load carry cricket topple";
+var mnemonic = "visa position notable scissors horse armor assault happy staff inspire elder model";

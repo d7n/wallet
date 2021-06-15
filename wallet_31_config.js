@@ -1,1 +1,1 @@
-var mnemonic = "index pupil journey assume bird welcome push icon coast gain clap salmon";
+var mnemonic = "renew twelve harsh cute obey peanut fault nurse fuel lunar earth panel";

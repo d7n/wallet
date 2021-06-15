@@ -1,1 +1,1 @@
-var mnemonic = "clerk odor funny federal shrug when girl weird hospital need tobacco other";
+var mnemonic = "style trophy thought document protect pupil thumb pool turkey stereo swim box";

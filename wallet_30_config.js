@@ -1,1 +1,1 @@
-var mnemonic = "twelve dose wheel achieve reduce involve tide useless rough ice envelope drive";
+var mnemonic = "hollow offer language afford grant journey fantasy room rug plunge voice flavor";

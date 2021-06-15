@@ -1,1 +1,1 @@
-var mnemonic = "rookie fury uncover memory wheat document fat until scale robot loud electric";
+var mnemonic = "front glue cause orchard power female crater arrest together apart pony pause";

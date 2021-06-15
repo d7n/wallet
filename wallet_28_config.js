@@ -1,1 +1,1 @@
-var mnemonic = "horror solar verb license hospital glance panic click lawn jelly nuclear alcohol";
+var mnemonic = "edge shiver mixed pipe plate general unit phrase during prison kidney board";

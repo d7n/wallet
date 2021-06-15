@@ -1,1 +1,1 @@
-var mnemonic = "oval walk family pink lake say stuff panel fly please horror juice";
+var mnemonic = "dragon device illegal bronze say cruel sponsor diesel hobby image transfer toilet";
