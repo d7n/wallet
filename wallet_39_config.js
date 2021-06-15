@@ -1,1 +1,1 @@
-var mnemonic = "know shrimp junior burden position era eight tilt attack alone village spin";
+var mnemonic = "earn cereal current twenty fabric floor throw gallery tongue rescue whip oppose";

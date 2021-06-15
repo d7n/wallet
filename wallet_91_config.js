@@ -1,1 +1,1 @@
-var mnemonic = "number echo burger lyrics tone swing sand ocean crowd ship wash senior";
+var mnemonic = "random color kitten media stairs metal breeze escape usage federal valid travel";

@@ -1,1 +1,1 @@
-var mnemonic = "all moon hollow seven scan wrap rely express stove stay review uncle";
+var mnemonic = "excuse spin acquire home solve monitor robot soccer north jungle tornado build";

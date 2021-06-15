@@ -1,1 +1,1 @@
-var mnemonic = "grunt tent destroy old depart shoe tank balance window crew cloth pride";
+var mnemonic = "miss useful slender shiver appear enter simple tumble hybrid hotel captain happy";

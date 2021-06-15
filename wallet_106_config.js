@@ -1,1 +1,1 @@
-var mnemonic = "twelve gaze exhibit pull leader crunch execute easily absorb rib endless denial";
+var mnemonic = "today beef amused bronze tiny pizza monitor coin found dash fox gravity";

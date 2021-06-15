@@ -1,1 +1,1 @@
-var mnemonic = "birth turn session maze lab describe family evidence seat panther yard silk";
+var mnemonic = "olive start powder away bike empower arrive stand pet large cushion diesel";

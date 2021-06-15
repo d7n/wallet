@@ -1,1 +1,1 @@
-var mnemonic = "trial donor advance ecology kangaroo prison search load ring panel bamboo eye";
+var mnemonic = "human remain wedding height square tent upset casual region spoil spell little";

@@ -1,1 +1,1 @@
-var mnemonic = "tent energy fold unlock lake fruit rich embrace wedding auction learn dog";
+var mnemonic = "skate deny bag ship cliff modify broom valid try evolve entire strike";

@@ -1,1 +1,1 @@
-var mnemonic = "job early puppy dolphin salon decide vibrant lumber upper stem parade donor";
+var mnemonic = "view holiday box ceiling zero resist open path tail onion polar congress";

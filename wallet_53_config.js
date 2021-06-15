@@ -1,1 +1,1 @@
-var mnemonic = "security marine loan lonely quote angry unique slender chest antique almost dynamic";
+var mnemonic = "beauty affair goddess inmate dad enrich giggle odor vanish wage extra penalty";

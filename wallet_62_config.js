@@ -1,1 +1,1 @@
-var mnemonic = "injury dose tumble speed hover stumble bargain video copper quit loan service";
+var mnemonic = "just truly panel three pizza legal crop switch machine leg lecture caught";

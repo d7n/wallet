@@ -1,1 +1,1 @@
-var mnemonic = "muscle flat science hill thought race coral word sort mother few dish";
+var mnemonic = "credit bubble again zone scare drip fragile winner old dose metal joy";

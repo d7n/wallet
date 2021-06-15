@@ -1,1 +1,1 @@
-var mnemonic = "fix define addict vote festival secret divorce cement labor canvas renew dove";
+var mnemonic = "dove sea success lucky jungle settle spray quit palm agree school phone";

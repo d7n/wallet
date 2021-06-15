@@ -1,1 +1,1 @@
-var mnemonic = "monster find embrace equip will fish pudding industry used cream auction income";
+var mnemonic = "nose inject verb amount jump wild buzz brick motion swarm begin smart";

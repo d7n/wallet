@@ -1,1 +1,1 @@
-var mnemonic = "dwarf hat square praise seminar spike comfort engine budget liberty daughter hip";
+var mnemonic = "sand parade parade brave switch arch couch program kingdom pioneer between pill";

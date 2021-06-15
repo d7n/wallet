@@ -1,1 +1,1 @@
-var mnemonic = "hand avocado link inner monster feel tenant zone trumpet half glue extend";
+var mnemonic = "song cabbage effort flame ankle glass half system improve pattern curve describe";

@@ -1,1 +1,1 @@
-var mnemonic = "office gun educate fix tonight abstract prosper immune either rain silly hobby";
+var mnemonic = "power account praise mad fabric nation cloth harsh adapt trim jump collect";

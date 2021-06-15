@@ -1,1 +1,1 @@
-var mnemonic = "magic offer grant collect tenant leaf hill involve interest laugh tape gallery";
+var mnemonic = "error ripple teach observe member pulp flower side angry zero bottom sadness";

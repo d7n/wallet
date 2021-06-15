@@ -1,1 +1,1 @@
-var mnemonic = "throw near tooth cloth raven crop echo stick push jewel six topple";
+var mnemonic = "order happy cliff avoid shove idle resemble solve unusual kitten protect anger";

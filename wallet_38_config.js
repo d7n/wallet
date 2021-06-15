@@ -1,1 +1,1 @@
-var mnemonic = "crime super income conduct weapon quiz plug phone grape ugly hotel cancel";
+var mnemonic = "cannon below innocent mutual eternal junk session reason acoustic noodle ship enforce";

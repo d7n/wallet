@@ -1,1 +1,1 @@
-var mnemonic = "toast science pluck another know unaware tennis notice taxi jump maximum blame";
+var mnemonic = "mechanic ethics dress tip blind equal transfer gather olympic daughter false shield";

@@ -1,1 +1,1 @@
-var mnemonic = "vocal select jewel seven color return snack leader bottom scan caught tower";
+var mnemonic = "design oyster puppy twist side rigid pause race feature doctor together mule";

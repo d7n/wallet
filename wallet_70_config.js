@@ -1,1 +1,1 @@
-var mnemonic = "tag confirm main crack fluid upgrade feed hollow soda giraffe identify improve";
+var mnemonic = "dove kitchen color exist park parrot involve welcome erode parade flock hover";

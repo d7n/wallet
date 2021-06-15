@@ -1,1 +1,1 @@
-var mnemonic = "captain pilot air screen unfold use toss enroll lake crawl foam type";
+var mnemonic = "chest poverty copper warfare measure town blade real coast slide mountain scissors";

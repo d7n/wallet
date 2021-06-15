@@ -1,1 +1,1 @@
-var mnemonic = "brisk scissors clown image grunt car siege fragile kiwi dad broom ivory";
+var mnemonic = "age stool arrow mystery rival snack nose transfer hunt write notice cinnamon";

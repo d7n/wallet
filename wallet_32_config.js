@@ -1,1 +1,1 @@
-var mnemonic = "tide replace chapter now prevent onion brave whale nature soda crumble ensure";
+var mnemonic = "kiss bomb noise warrior flush almost kid fix cash decorate floor hawk";

@@ -1,1 +1,1 @@
-var mnemonic = "fruit civil seat focus wrong spray area brave equip month peanut sweet";
+var mnemonic = "swallow spirit illegal cram comfort project judge exclude boss never wall magnet";

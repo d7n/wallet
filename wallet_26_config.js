@@ -1,1 +1,1 @@
-var mnemonic = "vessel umbrella latin liberty random inject praise drill pave double property cook";
+var mnemonic = "trip horn embrace quote suffer frequent stem region moon youth crack sail";

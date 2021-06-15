@@ -1,1 +1,1 @@
-var mnemonic = "gadget roof find bounce olive degree pipe advance blast soon apology castle";
+var mnemonic = "enlist rule dizzy jar riot drama bone device lesson valid casual disagree";

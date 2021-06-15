@@ -1,1 +1,1 @@
-var mnemonic = "business foot other mountain relax spin axis artefact balcony maze mule federal";
+var mnemonic = "obscure obvious muscle scale bleak silver collect bleak false right circle shed";

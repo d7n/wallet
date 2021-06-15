@@ -1,1 +1,1 @@
-var mnemonic = "faint enact panther tiger clerk one page clinic grace want merge extra";
+var mnemonic = "inside scan setup notable loan oblige grow unique business soul century urge";

@@ -1,1 +1,1 @@
-var mnemonic = "garage lecture love maze swamp scare gaze daring peasant common crumble reunion";
+var mnemonic = "radar invite pause tiger render scheme siege calm vendor cargo market wheel";

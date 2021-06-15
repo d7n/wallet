@@ -1,1 +1,1 @@
-var mnemonic = "puppy athlete grace will evoke decade match grape dragon lady gasp tuition";
+var mnemonic = "emerge receive better despair fade select shoulder couple good weekend boost hunt";

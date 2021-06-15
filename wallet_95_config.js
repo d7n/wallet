@@ -1,1 +1,1 @@
-var mnemonic = "salmon sadness brush kangaroo wait struggle repair corn clean evil cannon wide";
+var mnemonic = "bridge exhibit produce already unit truck stay return narrow license grief dumb";

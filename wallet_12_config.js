@@ -1,1 +1,1 @@
-var mnemonic = "marble gift clay slight ring welcome lend plug half witness matrix jump";
+var mnemonic = "pudding system transfer ten toilet toy express alien doctor ask oil lottery";

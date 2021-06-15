@@ -1,1 +1,1 @@
-var mnemonic = "sure slide universe jealous math autumn poverty sing stand unusual message miracle";
+var mnemonic = "kid regret rib disorder elephant kit pig heavy tongue labor almost enhance";

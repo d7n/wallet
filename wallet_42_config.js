@@ -1,1 +1,1 @@
-var mnemonic = "sketch east diagram arch tennis session recipe canvas disease betray ozone enlist";
+var mnemonic = "fancy boat clown title joke ride antenna evidence main melt heavy acoustic";

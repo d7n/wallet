@@ -1,1 +1,1 @@
-var mnemonic = "hill man license invest hospital carpet pioneer hover abuse art puppy long";
+var mnemonic = "cup bulk immune employ inform sister labor tower evidence betray lend around";

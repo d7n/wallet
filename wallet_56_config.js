@@ -1,1 +1,1 @@
-var mnemonic = "deer slogan gasp habit hood vacuum exhaust employ message traffic label pause";
+var mnemonic = "rule drive elder toilet auto upper meat project gate grit negative churn";

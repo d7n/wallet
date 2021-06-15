@@ -1,1 +1,1 @@
-var mnemonic = "zero mimic gold world filter black monster image stem cable orange chaos";
+var mnemonic = "same scissors lonely comic aspect torch harvest rapid fish absorb common lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble rain odor heavy toe suffer place dutch hat catalog real diesel";
+var mnemonic = "gauge link gaze beauty infant online client pond agent puzzle enter excuse";

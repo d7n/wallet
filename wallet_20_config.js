@@ -1,1 +1,1 @@
-var mnemonic = "track basket arm midnight joy seat tower flag rebuild hen fiber rubber";
+var mnemonic = "alarm drama fence such theory forum rebuild dry gasp april exist capital";

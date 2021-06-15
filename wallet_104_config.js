@@ -1,1 +1,1 @@
-var mnemonic = "iron brown snap anchor clerk height have base carpet title rebel key";
+var mnemonic = "inspire prison plug mom photo state water beyond name chase rule thing";

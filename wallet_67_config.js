@@ -1,1 +1,1 @@
-var mnemonic = "scissors near own maid tortoise sustain nuclear weird sport sword amazing diesel";
+var mnemonic = "hybrid ensure brisk flee perfect now doctor error father old code soup";

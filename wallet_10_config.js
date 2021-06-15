@@ -1,1 +1,1 @@
-var mnemonic = "nice skill rebel kiwi absent clap basket inquiry impact slogan glare camp";
+var mnemonic = "cage crater spray toddler warrior quiz submit first sketch abstract mom screen";

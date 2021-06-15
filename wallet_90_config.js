@@ -1,1 +1,1 @@
-var mnemonic = "right prepare unhappy front action ripple open chuckle olive cave glove double";
+var mnemonic = "coconut fluid speak rate wet alpha census window broken uncle meadow grab";

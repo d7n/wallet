@@ -1,1 +1,1 @@
-var mnemonic = "extend slot dance civil winner property monkey cable retire athlete wage cry";
+var mnemonic = "pigeon mirror vapor disorder swear move cable rookie diet vault seat lizard";

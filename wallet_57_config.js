@@ -1,1 +1,1 @@
-var mnemonic = "salmon riot kitten curve pair grid review improve absent flip another catch";
+var mnemonic = "flock diagram swear guilt amused correct carpet brisk unhappy ostrich candy flower";

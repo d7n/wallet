@@ -1,1 +1,1 @@
-var mnemonic = "feature loyal lunch traffic paper material inject put vehicle recipe object culture";
+var mnemonic = "job noise spread install swarm noble mountain skill spare absorb cabin immense";

@@ -1,1 +1,1 @@
-var mnemonic = "question fall bomb thumb jump aim clown drama share harsh token device";
+var mnemonic = "bring private scheme gloom galaxy transfer hint verify universe spare memory hair";

@@ -1,1 +1,1 @@
-var mnemonic = "pear inch blue tumble lake portion word great sure neither fragile ceiling";
+var mnemonic = "enrich matrix census fee trial badge seminar all own unable pig flag";

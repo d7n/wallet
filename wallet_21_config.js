@@ -1,1 +1,1 @@
-var mnemonic = "zoo dash black refuse easily tag mirror milk prize color flavor ribbon";
+var mnemonic = "inquiry deputy innocent midnight filter fish wide grass glimpse tribe off fiber";

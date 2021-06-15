@@ -1,1 +1,1 @@
-var mnemonic = "nut clutch goose empty expose diet thing valve wedding hurt moon much";
+var mnemonic = "recipe office rocket drum own stairs toddler enlist ocean mad electric copy";

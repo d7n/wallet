@@ -1,1 +1,1 @@
-var mnemonic = "lucky keen toward pepper box night knock debris impact gaze cigar wear";
+var mnemonic = "dilemma open side festival surround tooth lounge wild parent spend spike afford";

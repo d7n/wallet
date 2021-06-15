@@ -1,1 +1,1 @@
-var mnemonic = "stereo round spatial cave mountain burden deputy olive angle elder promote nice";
+var mnemonic = "heart put surge urban year unit absurd casual hunt caught winner bomb";

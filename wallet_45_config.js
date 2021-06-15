@@ -1,1 +1,1 @@
-var mnemonic = "glide loud crash diary remind ordinary fancy weird rival swing chicken spot";
+var mnemonic = "upgrade stereo legal target maid shield panda mixture share heavy erode stadium";

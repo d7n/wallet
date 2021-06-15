@@ -1,1 +1,1 @@
-var mnemonic = "update tilt stuff keep myself submit goddess puppy nurse tape marble brain";
+var mnemonic = "know skin genius raw impose risk motor jazz sing absent essence woman";

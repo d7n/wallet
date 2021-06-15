@@ -1,1 +1,1 @@
-var mnemonic = "umbrella better field calm pencil announce layer radar club cousin confirm salute";
+var mnemonic = "whip offer right tiger level certain latin reform inner embark knock ball";

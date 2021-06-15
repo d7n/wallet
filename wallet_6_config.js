@@ -1,1 +1,1 @@
-var mnemonic = "firm desk depth boy hundred salon tenant bargain doll start juice trumpet";
+var mnemonic = "van utility lava basic life fabric crowd stool quality giraffe sadness fever";

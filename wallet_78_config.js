@@ -1,1 +1,1 @@
-var mnemonic = "cram idle tone idea keep bean forest dynamic bean subway vehicle nuclear";
+var mnemonic = "polar rug plate include across polar copy erosion team gym dwarf pizza";

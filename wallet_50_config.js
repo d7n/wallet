@@ -1,1 +1,1 @@
-var mnemonic = "twelve journey sustain combine exclude unit acoustic cart appear outside echo fabric";
+var mnemonic = "pepper mesh knock exclude wise practice gown when output hungry weekend student";

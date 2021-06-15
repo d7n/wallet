@@ -1,1 +1,1 @@
-var mnemonic = "liberty kiwi shrug blossom faith ready burden tuna fatal purse bone boost";
+var mnemonic = "clever robot mutual oyster gospel travel struggle lake blanket job mandate promote";

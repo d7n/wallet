@@ -1,1 +1,1 @@
-var mnemonic = "scare collect door blind danger miss patch cattle frost liquid hungry almost";
+var mnemonic = "luxury below need nuclear exercise afford rhythm age solar utility music about";

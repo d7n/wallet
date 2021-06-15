@@ -1,1 +1,1 @@
-var mnemonic = "anchor airport fringe earth visual round loyal ozone coffee tomato direct sell";
+var mnemonic = "merry genius coral nothing side illegal present husband cherry network pelican resemble";

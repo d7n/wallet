@@ -1,1 +1,1 @@
-var mnemonic = "alien conduct comfort under treat super treat plunge hungry fever enrich mention";
+var mnemonic = "garage oven rent bring absurd where manage guide answer mixture mansion tennis";

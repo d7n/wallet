@@ -1,1 +1,1 @@
-var mnemonic = "jaguar fossil element ill brass gospel since opera elevator immense sport upgrade";
+var mnemonic = "range spice glove load transfer recycle current decorate upper enroll rally trip";

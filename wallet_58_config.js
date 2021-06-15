@@ -1,1 +1,1 @@
-var mnemonic = "equip renew stay cry sight poverty tomato extra boil crowd door merry";
+var mnemonic = "trash electric cliff anger month guard notice wall job plate delay bid";

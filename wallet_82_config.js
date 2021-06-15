@@ -1,1 +1,1 @@
-var mnemonic = "raccoon sunset young call fit fabric fine marble trigger neither tree wine";
+var mnemonic = "rescue coin equip bid venue all already expose interest slow bread evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue slow trap drive okay milk cradle vocal hockey vehicle game embody";
+var mnemonic = "helmet tenant real blood never tray artwork warfare menu echo suffer approve";

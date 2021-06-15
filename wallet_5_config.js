@@ -1,1 +1,1 @@
-var mnemonic = "oven glow knock battle opinion pulp century eager laugh hurt good satoshi";
+var mnemonic = "expose erosion predict frog there exit vast noodle depart fruit kidney release";

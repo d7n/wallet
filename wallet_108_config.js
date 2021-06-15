@@ -1,1 +1,1 @@
-var mnemonic = "scale vicious marriage biology horn ice danger hip surprise legal monitor elephant";
+var mnemonic = "monkey century remove aspect duty provide topple grain salmon spring expand grant";

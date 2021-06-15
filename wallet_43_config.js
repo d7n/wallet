@@ -1,1 +1,1 @@
-var mnemonic = "useful buffalo silly large series force wear shock alien future sentence rhythm";
+var mnemonic = "series best chapter alert borrow return acoustic seminar typical divide fresh current";

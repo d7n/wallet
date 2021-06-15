@@ -1,1 +1,1 @@
-var mnemonic = "idea liquid almost clap model panda rocket acoustic palm enemy witness stool";
+var mnemonic = "another check number rigid present moon maid sick auto approve remain orient";

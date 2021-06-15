@@ -1,1 +1,1 @@
-var mnemonic = "sauce dust defense biology label glide caught addict square oval cliff elder";
+var mnemonic = "shield village few job viable undo spring such useless symbol reveal mail";

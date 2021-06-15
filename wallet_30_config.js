@@ -1,1 +1,1 @@
-var mnemonic = "dumb blur enemy subway swift enforce oblige soup assist jungle dial bulb";
+var mnemonic = "baby tribe tennis forget soup skull invest dial uniform couple skill soul";

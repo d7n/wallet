@@ -1,1 +1,1 @@
-var mnemonic = "join adjust cotton control anchor range scorpion matrix palm claim egg divert";
+var mnemonic = "involve party advice explain alert misery moment news milk enable thunder gather";

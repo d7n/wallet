@@ -1,1 +1,1 @@
-var mnemonic = "bamboo sausage enforce mail crack device ghost leg only energy memory human";
+var mnemonic = "gaze embody seek notable clog sight possible marine goddess task lecture regular";

@@ -1,1 +1,1 @@
-var mnemonic = "crater walnut comfort kit bamboo two call similar siren west chunk hurry";
+var mnemonic = "traffic mango talent woman pizza salmon life model payment voyage acid satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt prosper zebra force layer away rare chimney surround inmate clean column";
+var mnemonic = "cake portion mechanic table enroll globe stamp choose learn modify enhance recall";

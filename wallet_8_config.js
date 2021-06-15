@@ -1,1 +1,1 @@
-var mnemonic = "shuffle pottery fire cannon narrow live print trick suggest box abuse middle";
+var mnemonic = "shaft hip expect bird ancient dose occur sentence rule scout clay jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor spot tenant east sphere outside liquid viable clip scan earn anchor";
+var mnemonic = "news dice wall clap barrel foot crime betray music dry educate record";

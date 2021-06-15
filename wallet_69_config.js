@@ -1,1 +1,1 @@
-var mnemonic = "wing delay enact crawl crop skull owner worry drastic flower coyote one";
+var mnemonic = "feed like two whisper minor mandate object october ranch second primary transfer";

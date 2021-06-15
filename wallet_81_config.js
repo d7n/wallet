@@ -1,1 +1,1 @@
-var mnemonic = "hope immune brisk rebuild embark shiver agent fix dash weird elevator erosion";
+var mnemonic = "spell define lend route accuse uncover life viable real satoshi resemble impose";

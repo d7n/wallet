@@ -1,1 +1,1 @@
-var mnemonic = "detail vivid spray donate job jungle december corn skill mother lounge hint";
+var mnemonic = "float tail lend neutral emotion enrich squeeze topple depart grant jeans era";

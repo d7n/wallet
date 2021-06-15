@@ -1,1 +1,1 @@
-var mnemonic = "pipe sibling bomb slot early empower gap ladder parent solve famous gadget";
+var mnemonic = "also recipe purpose field pepper april course torch eyebrow avocado lamp federal";

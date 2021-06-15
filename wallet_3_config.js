@@ -1,1 +1,1 @@
-var mnemonic = "blue polar seed sister scissors tent police spring resemble rescue rice hobby";
+var mnemonic = "detail edit lobster gospel mass hover noble best neutral hurt random frame";

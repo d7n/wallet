@@ -1,1 +1,1 @@
-var mnemonic = "inherit gauge front sniff close shuffle exile annual market fold blur vehicle";
+var mnemonic = "fringe home news tennis legend pledge name spend cost axis climb clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "life come police midnight physical fossil spoon sunny claim jump appear brave";
+var mnemonic = "tooth dinosaur answer energy pelican earn find maple curious unusual abandon health";

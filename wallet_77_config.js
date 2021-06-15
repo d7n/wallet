@@ -1,1 +1,1 @@
-var mnemonic = "adapt crazy young garden chef grunt leisure apology verify dust science excuse";
+var mnemonic = "comic coral youth bamboo film shaft diet shy decide very swallow noodle";

@@ -1,1 +1,1 @@
-var mnemonic = "path scrap floor piece page vast ethics chunk three essence link inflict";
+var mnemonic = "tragic replace wrong bracket decide gold dinosaur sure tube announce town melody";

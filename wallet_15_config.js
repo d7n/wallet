@@ -1,1 +1,1 @@
-var mnemonic = "electric layer eyebrow habit engine movie exist jump bench dynamic outside onion";
+var mnemonic = "country loop stock sport present call grow impact machine include boat derive";
