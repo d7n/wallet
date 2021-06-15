@@ -1,1 +1,1 @@
-var mnemonic = "become throw wrap viable noodle urge multiply banana tape push sibling goat";
+var mnemonic = "desk riot silent meadow pause empower stereo cake patient fever staff equip";

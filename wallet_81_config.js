@@ -1,1 +1,1 @@
-var mnemonic = "guess dish floor frown february accident grass organ size potato erupt sort";
+var mnemonic = "labor become opera long brass demand direct network remind thank crunch bid";

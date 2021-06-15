@@ -1,1 +1,1 @@
-var mnemonic = "coil busy labor toy obtain crunch legal avocado segment success bind icon";
+var mnemonic = "inflict blur inch buddy image pioneer skull note horror item diary slow";

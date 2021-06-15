@@ -1,1 +1,1 @@
-var mnemonic = "review twenty buffalo sure broom test erupt essence spice pottery grit amateur";
+var mnemonic = "robust exercise pulp poverty need useless enemy diagram boss tiger thank silver";

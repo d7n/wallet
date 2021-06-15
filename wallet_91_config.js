@@ -1,1 +1,1 @@
-var mnemonic = "shoulder return repair chair describe museum fever setup hockey elevator orient cost";
+var mnemonic = "spare picnic bicycle clutch flash praise upgrade orange garden account excess diary";

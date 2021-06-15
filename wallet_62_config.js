@@ -1,1 +1,1 @@
-var mnemonic = "blade diagram pave cluster champion comfort frown glow sadness switch silk river";
+var mnemonic = "plastic wheat fan love husband quarter blue poet trend eternal supply figure";

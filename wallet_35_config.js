@@ -1,1 +1,1 @@
-var mnemonic = "away bachelor shell where sketch illness pistol shrug deputy donkey wheel year";
+var mnemonic = "injury twist tumble token sorry cousin swing palace survey wild alone leisure";

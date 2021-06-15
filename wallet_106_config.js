@@ -1,1 +1,1 @@
-var mnemonic = "nominee agree worry foil solve lion clarify like blast can group unit";
+var mnemonic = "program rally never author interest guide bachelor script employ stick move question";

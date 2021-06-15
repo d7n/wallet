@@ -1,1 +1,1 @@
-var mnemonic = "rather vocal hair jump tip list domain return domain save kite winner";
+var mnemonic = "depart olympic pole assume city mango angle fossil foil trumpet sustain primary";

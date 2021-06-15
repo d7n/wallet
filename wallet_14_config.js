@@ -1,1 +1,1 @@
-var mnemonic = "reform episode suit dumb wood cute kite accuse paper faculty bonus lucky";
+var mnemonic = "parade modify miss disease meat fetch inherit mosquito globe stamp oblige unhappy";

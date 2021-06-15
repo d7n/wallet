@@ -1,1 +1,1 @@
-var mnemonic = "item lunar globe smile broken market knife cactus inflict debris obscure dream";
+var mnemonic = "pear sense change poet hedgehog order trim birth oyster mountain perfect net";

@@ -1,1 +1,1 @@
-var mnemonic = "moral bench jeans monster fox buddy critic divide disease diagram view hard";
+var mnemonic = "renew husband junior present spoon unknown love winter involve afford antenna wet";

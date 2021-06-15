@@ -1,1 +1,1 @@
-var mnemonic = "feel motion method cancel balance stairs open open pencil tongue lazy august";
+var mnemonic = "private ignore faculty asthma carbon quit rubber offer humor enjoy trust lend";

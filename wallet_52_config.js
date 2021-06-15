@@ -1,1 +1,1 @@
-var mnemonic = "ship piece face chunk sound citizen tragic pair vicious vote jewel airport";
+var mnemonic = "differ asset disease voyage apology text cat vintage add across crack depth";

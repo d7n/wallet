@@ -1,1 +1,1 @@
-var mnemonic = "rare giraffe escape step frequent resource leg curve domain health monster save";
+var mnemonic = "index pupil journey assume bird welcome push icon coast gain clap salmon";

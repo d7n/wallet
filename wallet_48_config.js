@@ -1,1 +1,1 @@
-var mnemonic = "surround gloom anxiety elephant guess section search survey fiscal extend direct spy";
+var mnemonic = "find oven firm mention section example ice hawk alone cycle thing humor";

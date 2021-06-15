@@ -1,1 +1,1 @@
-var mnemonic = "system response news carry corn canvas outdoor panel play frown buddy couple";
+var mnemonic = "hard service scheme tuna poverty sound mom secret collect stumble foot reflect";

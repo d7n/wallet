@@ -1,1 +1,1 @@
-var mnemonic = "security journey clutch bar cushion shock alpha virtual embody okay one help";
+var mnemonic = "assault hundred pioneer result hungry knife warrior live tone cook resemble prepare";

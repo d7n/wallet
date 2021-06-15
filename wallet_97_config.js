@@ -1,1 +1,1 @@
-var mnemonic = "save bubble street agree chat typical nose lobster season season alley float";
+var mnemonic = "bike rural link tiny regret actor color immune bachelor match mouse butter";

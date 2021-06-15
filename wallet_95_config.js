@@ -1,1 +1,1 @@
-var mnemonic = "pact smoke repeat federal brick mountain reflect lesson exotic ivory absorb item";
+var mnemonic = "lonely reward embark equip vendor tunnel silent valid outside gorilla hope mule";

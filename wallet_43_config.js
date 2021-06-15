@@ -1,1 +1,1 @@
-var mnemonic = "clever bracket tooth frog slam mercy social blue amazing cause relax happy";
+var mnemonic = "plunge impulse fix expose champion merry purity hill civil wish enemy hollow";

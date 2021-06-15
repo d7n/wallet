@@ -1,1 +1,1 @@
-var mnemonic = "wreck tennis squirrel initial forget aerobic region monster receive inject firm general";
+var mnemonic = "consider seminar stand pole example about aisle entry exchange scheme garden buddy";

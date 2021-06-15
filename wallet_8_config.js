@@ -1,1 +1,1 @@
-var mnemonic = "jacket hope garment dinner rent thought trigger grant fatigue goat awkward round";
+var mnemonic = "wheat fall trap three theory multiply expand joke inject reveal order hungry";

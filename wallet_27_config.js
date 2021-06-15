@@ -1,1 +1,1 @@
-var mnemonic = "group isolate present hospital spike rotate zoo kiss daughter exit sword elder";
+var mnemonic = "decorate story practice legal video fame focus kind drum unable fall modify";

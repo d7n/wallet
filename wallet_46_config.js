@@ -1,1 +1,1 @@
-var mnemonic = "laugh review cause shiver rude gym infant metal card merry bacon planet";
+var mnemonic = "person exile arm north ladder lumber junior sniff engage thank armed dune";

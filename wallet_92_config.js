@@ -1,1 +1,1 @@
-var mnemonic = "leisure must jelly body reduce fury pistol bronze humor accuse cradle join";
+var mnemonic = "pattern nothing use super zebra marriage carpet present town debris neither blue";

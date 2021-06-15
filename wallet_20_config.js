@@ -1,1 +1,1 @@
-var mnemonic = "much that candy fix gossip neither vague name scout elegant copy hero";
+var mnemonic = "aware exhaust master cheap salute tattoo old scheme effort elite goddess exclude";

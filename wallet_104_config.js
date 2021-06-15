@@ -1,1 +1,1 @@
-var mnemonic = "local police angle castle liberty biology reject misery certain element apology wood";
+var mnemonic = "spoon step estate door illegal fiber blast frown fade cargo over huge";

@@ -1,1 +1,1 @@
-var mnemonic = "cute pilot school effort grid crystal kite disorder stock edit hollow adapt";
+var mnemonic = "only neutral merge ritual side improve guilt garbage spoon frequent smoke solar";

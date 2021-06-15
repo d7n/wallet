@@ -1,1 +1,1 @@
-var mnemonic = "garlic expect margin home slice level assume retire trial course daring army";
+var mnemonic = "discover rate address proof sort spy major soccer combine riot baby toilet";

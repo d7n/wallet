@@ -1,1 +1,1 @@
-var mnemonic = "apple manage impulse palm measure predict stomach harsh talent velvet raw heavy";
+var mnemonic = "aerobic remove video umbrella mechanic adult gown shoulder dentist trip oxygen sell";

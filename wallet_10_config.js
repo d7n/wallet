@@ -1,1 +1,1 @@
-var mnemonic = "lesson busy symbol cement canyon lottery cute wet nest antenna carbon genuine";
+var mnemonic = "whale random steel enhance suit saddle because impulse resource blind swarm mention";

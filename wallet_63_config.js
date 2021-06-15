@@ -1,1 +1,1 @@
-var mnemonic = "supply valley minute dance hybrid junior exclude indicate frog carpet squirrel weird";
+var mnemonic = "swear cool verify polar genuine boil sample peasant swim coyote denial three";

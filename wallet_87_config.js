@@ -1,1 +1,1 @@
-var mnemonic = "income someone mosquito talent toddler elevator sister current bridge robot senior hurdle";
+var mnemonic = "clerk odor funny federal shrug when girl weird hospital need tobacco other";

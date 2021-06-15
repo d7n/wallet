@@ -1,1 +1,1 @@
-var mnemonic = "present lazy vivid fantasy panda usual weasel upper frequent type inspire say";
+var mnemonic = "office fashion whisper disease kingdom help remain plug staff rural almost crime";

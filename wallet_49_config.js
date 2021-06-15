@@ -1,1 +1,1 @@
-var mnemonic = "disorder plate unfair again output later reflect reason fox glove axis beyond";
+var mnemonic = "hero above donkey youth cost citizen fat unveil february rabbit term frame";

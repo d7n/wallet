@@ -1,1 +1,1 @@
-var mnemonic = "protect lava concert away advance unaware canvas pet elite junk motion mercy";
+var mnemonic = "urge average eight heavy fox near avoid logic small cradle recall average";

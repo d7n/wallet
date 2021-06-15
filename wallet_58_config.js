@@ -1,1 +1,1 @@
-var mnemonic = "ordinary shed cargo wine insane wink hybrid party snake taxi mystery version";
+var mnemonic = "awful found enter book flat dolphin right hamster giraffe seminar galaxy under";

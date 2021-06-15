@@ -1,1 +1,1 @@
-var mnemonic = "update frozen mixture pudding humble way text calm risk jewel climb poet";
+var mnemonic = "admit movie test exchange soldier long daring weird foot similar search visit";

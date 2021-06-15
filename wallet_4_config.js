@@ -1,1 +1,1 @@
-var mnemonic = "copy flight monster funny labor penalty state occur slogan gate present cigar";
+var mnemonic = "black turtle turn sibling inch tunnel glad destroy please spread deny mechanic";

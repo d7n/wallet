@@ -1,1 +1,1 @@
-var mnemonic = "rapid involve royal immense art cherry balance total text boil resource elevator";
+var mnemonic = "shift bind top mesh chunk surprise forget session grant wash attitude assault";

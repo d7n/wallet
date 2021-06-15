@@ -1,1 +1,1 @@
-var mnemonic = "decade under gold album own public friend million hill picture combine source";
+var mnemonic = "tongue ladder buyer link cool mouse first control brain juice seven exclude";

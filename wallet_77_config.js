@@ -1,1 +1,1 @@
-var mnemonic = "toward chapter upset upgrade uncle easy awkward rack tone minor onion promote";
+var mnemonic = "require bicycle caution suit bargain expect chicken material merit number volume blur";

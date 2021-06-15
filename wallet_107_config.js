@@ -1,1 +1,1 @@
-var mnemonic = "buddy twice celery panther uncle twist race good banner negative object beyond";
+var mnemonic = "when fringe page rally enough holiday rigid trophy collect journey cluster scene";

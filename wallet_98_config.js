@@ -1,1 +1,1 @@
-var mnemonic = "clerk diesel wave release hill solve fragile depart vacant excite giant layer";
+var mnemonic = "clown cash seven scatter monkey half surprise door cram trash note aunt";

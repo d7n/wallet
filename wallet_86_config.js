@@ -1,1 +1,1 @@
-var mnemonic = "know year find permit lion copy jewel master tool category unknown near";
+var mnemonic = "want furnace biology month gospel brick pool cheese prepare know broccoli crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "sister congress sustain object trick chest pencil smoke frame amount repeat debris";
+var mnemonic = "fringe allow vacuum cannon journey castle inside apple rib pole stuff rich";

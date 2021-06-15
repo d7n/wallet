@@ -1,1 +1,1 @@
-var mnemonic = "zoo lend practice vibrant web allow trim area coin margin strike quantum";
+var mnemonic = "exercise ill pupil wrong punch hover noble crush hobby budget muffin alone";

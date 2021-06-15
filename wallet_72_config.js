@@ -1,1 +1,1 @@
-var mnemonic = "ketchup master excite force access gain tray jealous cancel horror input clip";
+var mnemonic = "peanut depend dynamic fiscal jazz art ticket dizzy artefact merry pigeon dismiss";

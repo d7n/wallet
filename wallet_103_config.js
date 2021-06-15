@@ -1,1 +1,1 @@
-var mnemonic = "farm yard fashion fruit option liar pill table display sentence steel season";
+var mnemonic = "boil post liquid own sail husband bread trash kid dune shove together";

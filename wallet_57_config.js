@@ -1,1 +1,1 @@
-var mnemonic = "vintage spring runway post roast solve rebuild fluid month ghost level amateur";
+var mnemonic = "real fine buddy sugar bulk giant sorry neutral airport alley snake obey";

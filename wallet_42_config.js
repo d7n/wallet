@@ -1,1 +1,1 @@
-var mnemonic = "almost moment method earn nature increase coin dish live match soda omit";
+var mnemonic = "saddle matrix raven sport hill bar clock gift picture fat pudding wet";

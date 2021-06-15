@@ -1,1 +1,1 @@
-var mnemonic = "wasp sudden snow legal decide diamond ski bind fog forward tail fresh";
+var mnemonic = "stool wall donate orbit dolphin solve index around hurdle result double jewel";

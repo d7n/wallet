@@ -1,1 +1,1 @@
-var mnemonic = "park tired guard marriage check gloom eight page shove predict cousin desk";
+var mnemonic = "still awesome crater disorder resemble lucky admit discover render save fade flip";

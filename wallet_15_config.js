@@ -1,1 +1,1 @@
-var mnemonic = "raccoon miss assume media surround attract canyon remove remove sock acquire frequent";
+var mnemonic = "turn disease dwarf blame push system catalog olympic twelve quote exit enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "else sunny depth inside loop symptom cabin detail actress custom cricket snow";
+var mnemonic = "top harvest avocado consider bridge clinic board pet base visual winner real";

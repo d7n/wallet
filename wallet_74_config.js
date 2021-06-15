@@ -1,1 +1,1 @@
-var mnemonic = "boat benefit maple company distance humble material swap caught supreme polar load";
+var mnemonic = "rookie fury uncover memory wheat document fat until scale robot loud electric";

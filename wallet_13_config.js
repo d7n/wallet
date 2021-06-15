@@ -1,1 +1,1 @@
-var mnemonic = "cactus kitchen code truck stick long cross lesson layer glad subway divorce";
+var mnemonic = "great arch baby meadow label wink update sound advice two obscure design";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic runway author grace insect patrol monster proof cliff spice miss dutch";
+var mnemonic = "hundred height wild physical sweet certain photo spy evoke uncle wink frog";

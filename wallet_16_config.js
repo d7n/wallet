@@ -1,1 +1,1 @@
-var mnemonic = "olive bonus mask amused library grunt month century maple oil sell job";
+var mnemonic = "armed seat toy above daughter fox monster atom champion angle usual okay";

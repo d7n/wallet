@@ -1,1 +1,1 @@
-var mnemonic = "wagon also dune glory regret dust coffee boss duck second quantum fossil";
+var mnemonic = "minor garbage permit choice plastic cluster buzz kitchen join response spawn device";

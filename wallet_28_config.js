@@ -1,1 +1,1 @@
-var mnemonic = "idle devote bronze bless rude design neutral brain gesture indicate knife miss";
+var mnemonic = "horror solar verb license hospital glance panic click lawn jelly nuclear alcohol";

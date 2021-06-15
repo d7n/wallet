@@ -1,1 +1,1 @@
-var mnemonic = "setup genius casino combine office excuse hold welcome monster hold true athlete";
+var mnemonic = "undo apple exit brass pitch inject piano call sight add fan kite";

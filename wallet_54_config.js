@@ -1,1 +1,1 @@
-var mnemonic = "present robust arch around clutch comic catalog boost leaf welcome travel glow";
+var mnemonic = "melt across fortune charge cruel twenty unknown edge fitness swap debris into";

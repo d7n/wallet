@@ -1,1 +1,1 @@
-var mnemonic = "cupboard clay knock blanket organ milk neck behave double page sign blue";
+var mnemonic = "senior mule weasel proof laugh shock ring chuckle town social fault want";

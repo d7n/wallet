@@ -1,1 +1,1 @@
-var mnemonic = "scissors latin tilt boring suffer film pet echo awake office sausage true";
+var mnemonic = "you forest worth assault hold bag hero milk empower creek profit pelican";

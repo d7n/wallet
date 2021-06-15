@@ -1,1 +1,1 @@
-var mnemonic = "acid doll cram shoot false more check club lava weekend protect stadium";
+var mnemonic = "extend purpose dial life master patch wedding sleep picture east core gather";

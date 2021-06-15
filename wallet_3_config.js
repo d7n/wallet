@@ -1,1 +1,1 @@
-var mnemonic = "behave jump plate century pet gorilla correct tube glow scrub pyramid melody";
+var mnemonic = "price scare side depth salute yard prefer fatal analyst torch such chronic";

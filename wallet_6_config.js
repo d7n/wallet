@@ -1,1 +1,1 @@
-var mnemonic = "link ritual connect stand tennis ivory mention room reject spray dizzy pony";
+var mnemonic = "climb seed pull twelve brave cable regret sail search early uncle biology";

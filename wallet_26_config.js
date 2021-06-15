@@ -1,1 +1,1 @@
-var mnemonic = "school quantum route network salute gasp verb bird vendor tortoise sudden seminar";
+var mnemonic = "robot slam glory normal angry angle tired barrel dizzy family escape misery";

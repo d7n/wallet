@@ -1,1 +1,1 @@
-var mnemonic = "mercy rug dial debris girl farm abuse grain kitten gather path slam";
+var mnemonic = "choice sense butter evidence degree front eight message example buddy unfold kingdom";

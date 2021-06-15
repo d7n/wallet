@@ -1,1 +1,1 @@
-var mnemonic = "print rebel avoid will tongue jazz payment rather mother excess toy awkward";
+var mnemonic = "diamond mechanic floor field robust between raccoon transfer liberty render sleep glide";

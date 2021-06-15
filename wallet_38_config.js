@@ -1,1 +1,1 @@
-var mnemonic = "okay goose skin heart vast amused legend trust jungle thank gadget animal";
+var mnemonic = "entry control type vicious shoulder degree blood stem equip border swing radio";

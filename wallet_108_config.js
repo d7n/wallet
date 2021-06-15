@@ -1,1 +1,1 @@
-var mnemonic = "census hood illegal jump position zoo youth such cliff salute swift people";
+var mnemonic = "piano sausage jacket quiz core luggage champion zebra exhibit eternal yellow open";

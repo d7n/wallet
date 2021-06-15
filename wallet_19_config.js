@@ -1,1 +1,1 @@
-var mnemonic = "fatal atom vast attack chalk corn item about balcony oak poet daughter";
+var mnemonic = "crunch buffalo school patrol sea acquire fantasy thunder panel neck history glue";

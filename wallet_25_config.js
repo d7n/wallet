@@ -1,1 +1,1 @@
-var mnemonic = "ask immune wonder salmon two language dwarf vocal panel anchor valley tell";
+var mnemonic = "gallery lyrics faith nasty social bulk window cross vital sustain cannon trim";

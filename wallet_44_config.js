@@ -1,1 +1,1 @@
-var mnemonic = "purchase mandate zebra echo indicate cousin gloom robot match sing upon camp";
+var mnemonic = "federal update panel similar man soap always sunset load carry cricket topple";

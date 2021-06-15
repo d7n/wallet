@@ -1,1 +1,1 @@
-var mnemonic = "exact turtle duty assist sight glance acoustic struggle bid pretty dice prefer";
+var mnemonic = "valley element double dizzy gentle monitor state sock patch shoe brave denial";

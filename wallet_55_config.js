@@ -1,1 +1,1 @@
-var mnemonic = "infant hire always please ignore hour coconut corn book inquiry tower charge";
+var mnemonic = "spike ring bounce crawl cigar mouse modify spring legal adjust quote portion";

@@ -1,1 +1,1 @@
-var mnemonic = "team mansion strike tree across athlete horror ski despair frost oyster solution";
+var mnemonic = "oval walk family pink lake say stuff panel fly please horror juice";

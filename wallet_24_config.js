@@ -1,1 +1,1 @@
-var mnemonic = "tenant twist faint tip grape title search cable senior light chapter half";
+var mnemonic = "tray success walnut sick hamster forget badge typical hen talk crawl garage";

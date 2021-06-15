@@ -1,1 +1,1 @@
-var mnemonic = "voyage hockey burst churn type merry entry lunar safe weird illness absurd";
+var mnemonic = "note desert surge aunt reunion cook flame pattern one waste figure resist";

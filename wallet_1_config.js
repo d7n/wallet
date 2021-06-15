@@ -1,1 +1,1 @@
-var mnemonic = "where cotton enforce despair faint inherit letter solve repair half club bicycle";
+var mnemonic = "rocket acquire survey dust roast stage start loud fee tail usage clerk";

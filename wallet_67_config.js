@@ -1,1 +1,1 @@
-var mnemonic = "drastic idle raccoon sport wear luggage cancel grace grape protect alley horn";
+var mnemonic = "kiwi guess rhythm absent poet camera matter shuffle tank curve defy slogan";

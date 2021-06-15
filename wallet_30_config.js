@@ -1,1 +1,1 @@
-var mnemonic = "angry hollow price domain bonus wide soldier vapor gloom remember wagon chronic";
+var mnemonic = "twelve dose wheel achieve reduce involve tide useless rough ice envelope drive";

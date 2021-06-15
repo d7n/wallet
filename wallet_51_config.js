@@ -1,1 +1,1 @@
-var mnemonic = "mimic refuse raise various fire dentist relief feature wolf evil dial they";
+var mnemonic = "future kind comfort wasp tuition obey release water youth drastic avocado oyster";

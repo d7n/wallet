@@ -1,1 +1,1 @@
-var mnemonic = "brand six close sunset quit inform area coin design wrist luxury cushion";
+var mnemonic = "sibling cute square zone journey gentle snow organ arrow keen oxygen rare";

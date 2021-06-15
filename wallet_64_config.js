@@ -1,1 +1,1 @@
-var mnemonic = "able split roast clump control abandon deposit crater permit drop capable text";
+var mnemonic = "field spirit barrel era toe time actor exclude local swim title keen";

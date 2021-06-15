@@ -1,1 +1,1 @@
-var mnemonic = "cereal emotion rib infant link loan guitar welcome case million future trouble";
+var mnemonic = "layer robust siege glass system wood blur winner unhappy join mango kiss";
