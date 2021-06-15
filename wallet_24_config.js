@@ -1,1 +1,1 @@
-var mnemonic = "endless purity day illegal absent asthma salon kick motor engine suggest side";
+var mnemonic = "all burden clean guard file road clown machine sample wrist student owner";

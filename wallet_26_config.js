@@ -1,1 +1,1 @@
-var mnemonic = "affair phrase stereo march flip mandate output father drop auto unfair payment";
+var mnemonic = "onion target side already gadget share response organ luggage allow forest pudding";

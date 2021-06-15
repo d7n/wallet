@@ -1,1 +1,1 @@
-var mnemonic = "budget welcome owner twin river entire key decline swap liar extend action";
+var mnemonic = "theory original drill local captain deputy defy slogan hand account foam air";

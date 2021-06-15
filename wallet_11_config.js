@@ -1,1 +1,1 @@
-var mnemonic = "mean grid social model soon bike theme access grab forum add bounce";
+var mnemonic = "purpose answer fortune second drama promote tuna surface silk unable dinosaur merit";

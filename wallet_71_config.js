@@ -1,1 +1,1 @@
-var mnemonic = "attitude teach learn blur hand target impact weather chase extra cabin select";
+var mnemonic = "elevator comfort evidence brisk exit unfold soda provide vivid fatal donkey awesome";

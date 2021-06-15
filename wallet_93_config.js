@@ -1,1 +1,1 @@
-var mnemonic = "action loop profit spin search arrow since card prevent social turtle banana";
+var mnemonic = "camera addict potato grace chase obscure equal gown brain exile drive prepare";

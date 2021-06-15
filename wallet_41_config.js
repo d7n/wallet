@@ -1,1 +1,1 @@
-var mnemonic = "split twist thought cluster music topple boy north unfold gate nation hotel";
+var mnemonic = "tuna diagram noise deer blood little marble immense match slight uncover public";

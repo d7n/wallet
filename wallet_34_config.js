@@ -1,1 +1,1 @@
-var mnemonic = "acoustic easily donate diamond express brush twelve chimney stomach sting novel cake";
+var mnemonic = "sign noble gun copper mystery ahead waste visit two purse fence drastic";

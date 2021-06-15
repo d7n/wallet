@@ -1,1 +1,1 @@
-var mnemonic = "mask holiday ripple pizza mother favorite pause wedding possible long weird image";
+var mnemonic = "wrist develop tip claim nominee donkey mercy letter faculty decorate body cake";

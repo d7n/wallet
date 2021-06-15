@@ -1,1 +1,1 @@
-var mnemonic = "alert oil dose ordinary average attack pudding never blouse month survey stem";
+var mnemonic = "helmet song organ tonight still gadget alien lounge fine orbit concert phrase";

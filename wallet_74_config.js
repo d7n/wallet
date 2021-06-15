@@ -1,1 +1,1 @@
-var mnemonic = "bitter brother option corn skill impact elbow pioneer left clump fox water";
+var mnemonic = "slot wave hidden coral faculty dutch rapid arrow squeeze absorb adapt release";

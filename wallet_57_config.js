@@ -1,1 +1,1 @@
-var mnemonic = "supreme praise rug knee flash veteran brisk ahead noble hood about decade";
+var mnemonic = "arrange limit among pretty power now fragile marble plunge dawn slot year";

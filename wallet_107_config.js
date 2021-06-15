@@ -1,1 +1,1 @@
-var mnemonic = "peasant story web finger cup discover aerobic nuclear heart spray jewel peanut";
+var mnemonic = "ordinary worry concert lecture give remain fabric hair piece pyramid exercise nurse";

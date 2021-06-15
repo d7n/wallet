@@ -1,1 +1,1 @@
-var mnemonic = "tower mom talent image pride rare section prosper game fog discover recycle";
+var mnemonic = "old grace bag name pottery when lobster artwork develop stem only heavy";

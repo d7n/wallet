@@ -1,1 +1,1 @@
-var mnemonic = "room note toy strike smooth blouse trend shallow diary latin announce miss";
+var mnemonic = "dawn strong pink hawk worth cheap humble fly size shove thank fence";

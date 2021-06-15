@@ -1,1 +1,1 @@
-var mnemonic = "conduct alter kiss install found sorry lottery juice clap cattle theme crush";
+var mnemonic = "today fiction flat absorb tip dune borrow float grit wealth know actor";

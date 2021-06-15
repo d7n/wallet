@@ -1,1 +1,1 @@
-var mnemonic = "slice brown give swarm frost supreme silk reform decorate please kidney lottery";
+var mnemonic = "tail disagree sing guide peasant feel help error cross fan east mushroom";

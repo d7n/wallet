@@ -1,1 +1,1 @@
-var mnemonic = "aim spell goose glove mountain foam eight reduce supply creek city issue";
+var mnemonic = "scorpion cart machine gorilla style monster gain bounce render movie habit style";

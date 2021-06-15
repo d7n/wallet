@@ -1,1 +1,1 @@
-var mnemonic = "betray craft sad cushion absorb eight love success term hold year salon";
+var mnemonic = "balance minimum rule fortune catch wreck source ostrich gas sunny culture exhaust";

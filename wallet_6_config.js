@@ -1,1 +1,1 @@
-var mnemonic = "input brush lottery secret similar course alley spell animal great depart include";
+var mnemonic = "turn ocean shuffle concert trap cricket crack story congress walk dignity side";

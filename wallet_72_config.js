@@ -1,1 +1,1 @@
-var mnemonic = "sausage squirrel march hat piece sheriff nurse upper scheme kidney pizza exit";
+var mnemonic = "bulb off melt humble fold judge shrug push initial across gospel employ";

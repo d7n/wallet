@@ -1,1 +1,1 @@
-var mnemonic = "tray manage supreme shoot mandate subway inject one diagram stomach wild know";
+var mnemonic = "relax deer digital camera prison indicate woman alpha vicious three grain oak";

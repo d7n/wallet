@@ -1,1 +1,1 @@
-var mnemonic = "differ supply hole cash purpose rocket utility snake tip crew safe mutual";
+var mnemonic = "wing state maid senior december ring embark prison penalty hurt hello what";

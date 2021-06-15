@@ -1,1 +1,1 @@
-var mnemonic = "page fox immune scrap lend charge drill pave ice approve edge seminar";
+var mnemonic = "penalty comic decline enforce panther web admit culture young bean law blame";

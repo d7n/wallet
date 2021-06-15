@@ -1,1 +1,1 @@
-var mnemonic = "roof exit pluck fiscal spy picture goddess return wealth company tiger expire";
+var mnemonic = "science chat system heavy congress caught flame forum depth dad play frost";

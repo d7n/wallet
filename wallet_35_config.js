@@ -1,1 +1,1 @@
-var mnemonic = "exile imitate know usage error opinion hospital spare witness gaze bomb arrive";
+var mnemonic = "town muscle client earth omit any barely erase pigeon animal crush snow";

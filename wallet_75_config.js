@@ -1,1 +1,1 @@
-var mnemonic = "simple kid paddle blouse corn simple that return urge flush still sorry";
+var mnemonic = "inside hover original canoe fragile letter uphold squirrel obey mass lunch ball";

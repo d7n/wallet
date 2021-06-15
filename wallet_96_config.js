@@ -1,1 +1,1 @@
-var mnemonic = "before horn stock step stem gym loyal shift uniform pear among hip";
+var mnemonic = "law fabric sound addict acoustic play case near mammal cute never credit";

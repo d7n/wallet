@@ -1,1 +1,1 @@
-var mnemonic = "pluck make skill waste prefer glass icon shy sniff tuition basket raccoon";
+var mnemonic = "fiscal wife truck valley start walnut physical hamster visual father parrot hat";

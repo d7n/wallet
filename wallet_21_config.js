@@ -1,1 +1,1 @@
-var mnemonic = "chimney electric hen cloud wood ripple rescue tumble save concert want unveil";
+var mnemonic = "arch cute upset speak guitar cable camp medal know dove monkey attitude";

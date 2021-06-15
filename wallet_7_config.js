@@ -1,1 +1,1 @@
-var mnemonic = "vapor goose ticket account fish number filter never duck peasant other detect";
+var mnemonic = "monster head local reunion deliver harvest divert dirt invite siren shrug mail";

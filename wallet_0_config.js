@@ -1,1 +1,1 @@
-var mnemonic = "art room comic elbow erase brief faint crunch game oyster almost donate";
+var mnemonic = "hello merge vital negative diary venture gain naive arena math frequent analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "young seminar traffic tape oblige silver save demand unveil picnic lava poem";
+var mnemonic = "meat impose purpose olive unveil stem task cupboard mechanic casino thing cross";

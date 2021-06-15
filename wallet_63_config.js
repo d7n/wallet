@@ -1,1 +1,1 @@
-var mnemonic = "girl nose circle security appear actor list sniff limit there thing used";
+var mnemonic = "apple spice what gate onion crew album knock hedgehog prison curtain engage";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen festival pear dragon spend oblige ship rhythm fan enforce burst tiger";
+var mnemonic = "together view employ gather palm wink infant cushion real tenant later casino";

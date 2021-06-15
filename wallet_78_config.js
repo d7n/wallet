@@ -1,1 +1,1 @@
-var mnemonic = "frame focus switch goat leisure convince rapid shrimp consider benefit diesel capital";
+var mnemonic = "income equal noble food tower off fitness olive magnet replace dinosaur month";

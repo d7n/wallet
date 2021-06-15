@@ -1,1 +1,1 @@
-var mnemonic = "skirt remind element grid trick faint about broken nest drum mention expect";
+var mnemonic = "debris ride relief capital umbrella hurry aunt canvas retire search worth match";

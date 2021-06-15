@@ -1,1 +1,1 @@
-var mnemonic = "embody remain dust island august genuine amateur book dynamic arrange staff secret";
+var mnemonic = "wrist hollow bunker multiply exist ketchup chat clerk annual shove income write";

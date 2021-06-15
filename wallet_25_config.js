@@ -1,1 +1,1 @@
-var mnemonic = "list sheriff april desert unfold fire actual piano twin crouch favorite kingdom";
+var mnemonic = "spell endorse water series solid program laundry voice tide attack loop heart";

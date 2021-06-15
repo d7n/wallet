@@ -1,1 +1,1 @@
-var mnemonic = "reopen rookie vault define gasp file ask caution hat safe slab panic";
+var mnemonic = "canoe sister neither apart build soft traffic gadget off skin style garage";

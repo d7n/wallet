@@ -1,1 +1,1 @@
-var mnemonic = "once damage dust mother welcome across purity issue alcohol average trouble traffic";
+var mnemonic = "anchor knee below trust junk wood bamboo earn blur tonight advice receive";

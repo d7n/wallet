@@ -1,1 +1,1 @@
-var mnemonic = "recipe draft dismiss rich machine double say huge glimpse pave face lamp";
+var mnemonic = "table plunge cross abuse paddle inner belt misery seminar silly amazing muffin";

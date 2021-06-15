@@ -1,1 +1,1 @@
-var mnemonic = "mad ride else maid describe luxury brief limb hurdle above couch expect";
+var mnemonic = "liar predict purity better student below window glare army banner deer review";

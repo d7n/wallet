@@ -1,1 +1,1 @@
-var mnemonic = "forward sing trouble gesture canvas crash glad kingdom ghost pottery business vague";
+var mnemonic = "inquiry panda smart again exile town laundry hour camera oval vocal acoustic";

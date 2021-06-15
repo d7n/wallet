@@ -1,1 +1,1 @@
-var mnemonic = "blossom reopen submit bundle rally reason shadow scrap marble receive smooth dinosaur";
+var mnemonic = "market tool desk business document fatigue mistake funny found life brain route";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor suggest budget brush notable judge wheel author yard kite canyon very";
+var mnemonic = "desert seven auction either palace tool panel century vacuum distance slide response";

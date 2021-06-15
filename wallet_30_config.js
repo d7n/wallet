@@ -1,1 +1,1 @@
-var mnemonic = "outer pitch staff party monitor barrel notable popular grant pottery pass brief";
+var mnemonic = "desk under lamp buyer second bag zone defy museum pioneer entry grief";

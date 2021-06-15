@@ -1,1 +1,1 @@
-var mnemonic = "seat captain ramp injury vibrant ten grit reward toast combine crime accuse";
+var mnemonic = "velvet major mushroom awesome tube assault roof sphere minor surface rebel chat";

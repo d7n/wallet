@@ -1,1 +1,1 @@
-var mnemonic = "recycle tent achieve address assist job crime album betray sadness chase reduce";
+var mnemonic = "card enlist remind cruel enter myself area always near walk awesome early";

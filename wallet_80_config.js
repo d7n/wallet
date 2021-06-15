@@ -1,1 +1,1 @@
-var mnemonic = "goat brand random ship course park maid close ride decorate upset hedgehog";
+var mnemonic = "beyond will beef mouse man gas inspire race use style teach category";

@@ -1,1 +1,1 @@
-var mnemonic = "merge welcome decrease economy zero direct hospital ozone zoo appear buyer outer";
+var mnemonic = "jump fury online soccer human begin state agree later blast include life";

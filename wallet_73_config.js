@@ -1,1 +1,1 @@
-var mnemonic = "toy hill auto crane recipe recipe seed animal useful shy rubber exile";
+var mnemonic = "charge slender race pass december fiscal arrange anger wheat need palm eight";

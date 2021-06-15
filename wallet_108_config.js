@@ -1,1 +1,1 @@
-var mnemonic = "powder focus chimney lava tortoise peace evidence gossip doll street raise athlete";
+var mnemonic = "argue horse run indicate doll bottom school annual traffic broom argue toward";

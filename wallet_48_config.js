@@ -1,1 +1,1 @@
-var mnemonic = "elbow rhythm grit best perfect staff manage heavy elder brass humor fade";
+var mnemonic = "stool day august total carry coast forest code erosion love duty umbrella";

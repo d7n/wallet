@@ -1,1 +1,1 @@
-var mnemonic = "castle swing broccoli skull soon faint post fashion range opera sock orient";
+var mnemonic = "brown insane prosper citizen brown quarter garage abstract receive pencil guilt salon";

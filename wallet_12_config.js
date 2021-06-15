@@ -1,1 +1,1 @@
-var mnemonic = "media resemble taxi comfort story talent keep phrase flock tenant mixed spawn";
+var mnemonic = "miracle among legal marriage picnic saddle donor receive wisdom help giraffe inquiry";

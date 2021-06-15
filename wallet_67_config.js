@@ -1,1 +1,1 @@
-var mnemonic = "cable spray mandate inherit spike where mixture observe model emerge vault gain";
+var mnemonic = "issue chair sign joy purchase awful riot despair wine orchard elephant perfect";

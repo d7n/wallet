@@ -1,1 +1,1 @@
-var mnemonic = "nephew bacon creek vicious arrest hospital mule inhale sign wet game model";
+var mnemonic = "business chunk slam chest denial angle doctor volume steel online theory require";

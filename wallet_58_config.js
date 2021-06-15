@@ -1,1 +1,1 @@
-var mnemonic = "shrug ripple mosquito area disease cloud cry gossip thrive final fun excuse";
+var mnemonic = "broom favorite clarify steak vehicle frog emerge witness stand echo decorate end";

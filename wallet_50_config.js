@@ -1,1 +1,1 @@
-var mnemonic = "coach bring equal debris special often decade powder meadow kiss veteran glue";
+var mnemonic = "found install federal armed dynamic arrest sound tiger silver sorry retire cannon";

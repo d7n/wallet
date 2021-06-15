@@ -1,1 +1,1 @@
-var mnemonic = "tag travel defense own bridge letter repeat local piano learn celery ring";
+var mnemonic = "resist three solve olive merit lounge reduce during oval oven suffer pause";

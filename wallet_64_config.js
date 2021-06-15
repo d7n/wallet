@@ -1,1 +1,1 @@
-var mnemonic = "garbage build empty august very oxygen path torch dance market bulb question";
+var mnemonic = "plunge dune kite mansion pattern cage hen lens wave plate ticket idle";

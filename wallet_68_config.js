@@ -1,1 +1,1 @@
-var mnemonic = "exile siege crash rebel bulk gauge home pitch stage submit endorse dove";
+var mnemonic = "often hub space increase color history battle multiply bacon tenant chat consider";

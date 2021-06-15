@@ -1,1 +1,1 @@
-var mnemonic = "prefer cute around vapor judge carbon sauce project three about noise flight";
+var mnemonic = "rival method bar work verify unfold powder increase expand empty emotion fruit";

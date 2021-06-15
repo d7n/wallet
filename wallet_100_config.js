@@ -1,1 +1,1 @@
-var mnemonic = "bright basket exotic minute toss valid confirm dial real creek gas assume";
+var mnemonic = "vital jaguar scan minimum bunker virtual deposit symptom hair announce rack island";

@@ -1,1 +1,1 @@
-var mnemonic = "pig abuse crucial slide moment coast human retire help verify genius exhibit";
+var mnemonic = "sword sting library rifle fluid caution draw student couple rival day service";

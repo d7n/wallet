@@ -1,1 +1,1 @@
-var mnemonic = "denial manage head green timber matrix fashion rigid gloom science summer battle";
+var mnemonic = "civil rhythm good replace toy drum release chuckle typical immune mom double";

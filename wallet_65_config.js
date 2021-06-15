@@ -1,1 +1,1 @@
-var mnemonic = "crisp birth marine lake lucky fabric knee faith valid hawk option detect";
+var mnemonic = "nice melt express slogan impact check rifle spoil thought leg network real";

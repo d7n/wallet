@@ -1,1 +1,1 @@
-var mnemonic = "fruit lamp discover peace elevator latin candy bacon barely duck night net";
+var mnemonic = "weasel can reveal siege satoshi flower neglect north theory eager limit salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "various calm hub jungle tennis trade envelope news tennis maid nominee steak";
+var mnemonic = "glad dilemma slow focus media motion own fire marriage attend time okay";

@@ -1,1 +1,1 @@
-var mnemonic = "drop airport motion comic annual critic seek muffin lend review solid badge";
+var mnemonic = "lawn jelly negative either basket apology talent prize hen dove walnut sail";

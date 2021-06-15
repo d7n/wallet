@@ -1,1 +1,1 @@
-var mnemonic = "beach dose trim bronze fame upper dignity caution ocean execute able injury";
+var mnemonic = "soul shallow bitter pretty neck vapor exhaust dirt gold hold jealous picture";

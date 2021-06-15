@@ -1,1 +1,1 @@
-var mnemonic = "basket drive summer aisle scrap mixture old journey net flight glass ability";
+var mnemonic = "float arctic turkey farm fiscal latin subway mango easy live remain method";

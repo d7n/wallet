@@ -1,1 +1,1 @@
-var mnemonic = "open school orange style blouse emotion mosquito weird source snake absorb giant";
+var mnemonic = "special where hundred cheese aim dove ready glimpse under orchard orbit humor";

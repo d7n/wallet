@@ -1,1 +1,1 @@
-var mnemonic = "provide mix worth layer blade floor innocent decide win endorse excuse pretty";
+var mnemonic = "secret rescue couch visit brisk session deer umbrella model thank green horse";

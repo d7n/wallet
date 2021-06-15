@@ -1,1 +1,1 @@
-var mnemonic = "cage vintage verb order gorilla half senior drum story detail drill pond";
+var mnemonic = "runway board enforce board destroy pitch suffer debate prison analyst bench decade";

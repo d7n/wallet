@@ -1,1 +1,1 @@
-var mnemonic = "achieve walk sausage easily lens leg tag cost fade knife few nose";
+var mnemonic = "music boil season lunar emotion genre oak reform wheel bulk pudding wisdom";

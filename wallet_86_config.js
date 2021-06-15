@@ -1,1 +1,1 @@
-var mnemonic = "payment snack grit village keen execute tomato brand link winner away vague";
+var mnemonic = "fire neck write museum option venue plate clump sort brief retreat debris";

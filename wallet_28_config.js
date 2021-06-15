@@ -1,1 +1,1 @@
-var mnemonic = "general thank utility pitch brown unhappy flush recipe flight witness toe reunion";
+var mnemonic = "bamboo mouse eye office horror bring banana twice twin panda mask boil";

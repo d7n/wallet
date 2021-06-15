@@ -1,1 +1,1 @@
-var mnemonic = "wish bubble equip acid clay champion maid essence apple shoe dentist frog";
+var mnemonic = "flush bachelor frown shuffle rice tent initial predict retreat acquire gravity reject";

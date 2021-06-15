@@ -1,1 +1,1 @@
-var mnemonic = "ranch laugh idle joke scorpion helmet holiday make unknown remind buffalo horror";
+var mnemonic = "pass hen split nest foster cushion nominee omit media bracket crawl sunny";

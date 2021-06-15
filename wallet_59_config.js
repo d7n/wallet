@@ -1,1 +1,1 @@
-var mnemonic = "road unfair prosper ski easily tip tomorrow city comfort burden blast nominee";
+var mnemonic = "spatial lunar question current bread puppy dignity ankle tool reflect call split";

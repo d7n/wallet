@@ -1,1 +1,1 @@
-var mnemonic = "banner way fish pigeon hundred rent convince veteran fade school ritual danger";
+var mnemonic = "manage accident want property topple glass ancient second clap surge error choice";

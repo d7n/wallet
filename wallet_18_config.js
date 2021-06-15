@@ -1,1 +1,1 @@
-var mnemonic = "risk steak gap prevent spoon elite nothing genre helmet endorse flush husband";
+var mnemonic = "express arrow pledge prosper vital travel brush rent horn will field onion";

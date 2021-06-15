@@ -1,1 +1,1 @@
-var mnemonic = "wild spoil right under velvet female thunder thank behave damp guilt canvas";
+var mnemonic = "height acoustic mule sport stage ship pen grid when poet topic wrist";

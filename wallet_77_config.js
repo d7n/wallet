@@ -1,1 +1,1 @@
-var mnemonic = "club weird okay choice target resource adjust retire eager capital oblige cheese";
+var mnemonic = "display brain legend maid blush struggle payment aerobic guilt father say horn";

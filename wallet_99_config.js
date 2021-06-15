@@ -1,1 +1,1 @@
-var mnemonic = "parade suspect box vague mandate kid claim fashion reform talent spatial erupt";
+var mnemonic = "toy twelve later skin leopard virtual spring airport slab board rival virtual";

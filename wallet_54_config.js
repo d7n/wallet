@@ -1,1 +1,1 @@
-var mnemonic = "cattle case entire galaxy broccoli hammer chronic reason also client cactus hollow";
+var mnemonic = "label review squeeze cruise girl pig pencil amateur purchase hamster suit stay";

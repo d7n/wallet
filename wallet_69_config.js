@@ -1,1 +1,1 @@
-var mnemonic = "immune eager ocean mom milk digital hollow lock vocal athlete slender used";
+var mnemonic = "deer dinosaur call warm fortune category name sun riot improve catalog lunar";

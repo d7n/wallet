@@ -1,1 +1,1 @@
-var mnemonic = "embody head often gauge regret gain leave erosion polar direct congress govern";
+var mnemonic = "silk kingdom explain remind ball quick office bulk genre increase shiver industry";
