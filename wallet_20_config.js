@@ -1,1 +1,1 @@
-var mnemonic = "loud that ivory imitate pistol outside cage spike use garlic march remember";
+var mnemonic = "barely image write word meat army skull round alone glass shop abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage radio erase margin violin green need hamster alter female awesome side";
+var mnemonic = "gas stuff robot smart sell diamond odor fine company favorite weekend bachelor";

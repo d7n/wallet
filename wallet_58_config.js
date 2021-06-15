@@ -1,1 +1,1 @@
-var mnemonic = "piano room chuckle hire pave fox hurry grocery render rural rare cart";
+var mnemonic = "slush tent antenna senior because tunnel chicken decline neck soul truth float";

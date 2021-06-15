@@ -1,1 +1,1 @@
-var mnemonic = "butter media vanish ball relief you hire mansion interest scissors rhythm tumble";
+var mnemonic = "tent illness conduct rifle tumble idle twenty evil gown neither install dolphin";

@@ -1,1 +1,1 @@
-var mnemonic = "empower trigger mutual broom hollow trick silly nation slide receive kiss cake";
+var mnemonic = "coconut proof base unique celery wave evil arrive inch nut spend crucial";

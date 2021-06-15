@@ -1,1 +1,1 @@
-var mnemonic = "swear other agree key glory discover hip quarter zebra decide ugly clutch";
+var mnemonic = "system ship laugh brass now change alley idle lazy husband abstract ball";

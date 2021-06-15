@@ -1,1 +1,1 @@
-var mnemonic = "proof own machine steel october message online delay quote multiply habit refuse";
+var mnemonic = "turn enforce sea digital injury normal shrimp aspect wheat burden all marble";

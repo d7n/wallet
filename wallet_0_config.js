@@ -1,1 +1,1 @@
-var mnemonic = "dream analyst aunt tissue report banana symbol crack diesel cake twenty caution";
+var mnemonic = "ghost summer tonight exchange knee found ankle hedgehog february accident enlist emotion";

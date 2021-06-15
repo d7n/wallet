@@ -1,1 +1,1 @@
-var mnemonic = "giant custom clump chaos veteran valley genre bacon indoor master uniform pipe";
+var mnemonic = "burst shrimp rookie napkin close nothing balcony exit right lucky inch true";

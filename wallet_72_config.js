@@ -1,1 +1,1 @@
-var mnemonic = "beef thunder multiply ethics pyramid exhaust beach learn nothing bachelor achieve since";
+var mnemonic = "scan ozone gas famous cry good evoke skate inflict battle box kitten";

@@ -1,1 +1,1 @@
-var mnemonic = "comic piece affair guide inside cannon dash foster sustain plunge believe subject";
+var mnemonic = "sister parent armed act control outside update nation sock broken rough urban";

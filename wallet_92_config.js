@@ -1,1 +1,1 @@
-var mnemonic = "glance brisk unique brother hour nose patch apple exchange minimum garden shallow";
+var mnemonic = "board mind focus ramp balance nasty logic any verify hint alcohol firm";

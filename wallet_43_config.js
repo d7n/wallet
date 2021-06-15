@@ -1,1 +1,1 @@
-var mnemonic = "story weird doll use garment shadow joke school trouble decide pass web";
+var mnemonic = "brick quiz risk genuine skill project test artwork yard web logic cable";

@@ -1,1 +1,1 @@
-var mnemonic = "victory fury strategy dinosaur latin traffic lucky rabbit pizza mirror episode lizard";
+var mnemonic = "market life input stone universe original girl frog there news vague boy";

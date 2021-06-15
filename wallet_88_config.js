@@ -1,1 +1,1 @@
-var mnemonic = "calm rural stone north position symbol tackle deliver guess curtain flock join";
+var mnemonic = "ceiling spider napkin culture reform job dry relax piece faculty narrow rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond humor response cherry sugar project solar uncle fabric state language board";
+var mnemonic = "ticket erase off detect enjoy flower bar group wrist sight area income";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver exhibit left insect nasty acoustic cute clap pilot half liar never";
+var mnemonic = "chat music horn early claim section announce lonely come banana foster daring";

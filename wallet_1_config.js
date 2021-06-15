@@ -1,1 +1,1 @@
-var mnemonic = "mail skate unable loyal notable stick milk call hotel way swallow science";
+var mnemonic = "void neither fox visa ten intact become hat mango promote robot soap";

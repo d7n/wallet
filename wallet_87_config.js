@@ -1,1 +1,1 @@
-var mnemonic = "couch tag slim prevent much aisle clerk tail chef either find small";
+var mnemonic = "gallery carry shrimp grief ski vapor page gallery cousin reopen obey stool";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst message wrong dry garage depart man start rifle define chat sketch";
+var mnemonic = "job ivory sure scheme pause gown note dress rack awkward lemon retire";

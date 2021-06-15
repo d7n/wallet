@@ -1,1 +1,1 @@
-var mnemonic = "become strategy bundle knock sort hello north cabbage little category oyster muscle";
+var mnemonic = "dry danger execute quit barely solid cost income artefact remind female fetch";

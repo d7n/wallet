@@ -1,1 +1,1 @@
-var mnemonic = "dress middle list picture asthma sign north artwork quit warfare payment permit";
+var mnemonic = "mom base denial subject donor pizza museum palace cannon weather culture coin";

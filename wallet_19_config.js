@@ -1,1 +1,1 @@
-var mnemonic = "swarm icon exchange fortune mechanic sphere neither gain social toy car pond";
+var mnemonic = "antique guide indicate mirror replace divide huge clay coil tag winner leisure";

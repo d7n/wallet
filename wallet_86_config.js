@@ -1,1 +1,1 @@
-var mnemonic = "banner garden balance print visual talk know soccer artist demand happy glance";
+var mnemonic = "march donor sword cherry address mixed dial blur impact spatial illness banana";

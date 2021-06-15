@@ -1,1 +1,1 @@
-var mnemonic = "unit torch enough february man strong crunch follow motion castle vanish habit";
+var mnemonic = "plunge scan antenna imitate learn diamond priority mirror space choose energy plunge";

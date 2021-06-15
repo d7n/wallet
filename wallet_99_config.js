@@ -1,1 +1,1 @@
-var mnemonic = "unfair bubble must olive obscure tiny gasp alpha olive arch elephant reason";
+var mnemonic = "shine office couple raw caught hunt perfect van rebuild recipe unfair advice";

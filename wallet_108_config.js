@@ -1,1 +1,1 @@
-var mnemonic = "protect depend rigid color okay monitor peasant wagon disagree insane summer time";
+var mnemonic = "credit wise vibrant design lemon snap front monitor safe choice crawl buffalo";

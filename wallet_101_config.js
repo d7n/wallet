@@ -1,1 +1,1 @@
-var mnemonic = "exist legend cash bronze inch wash search stomach dust noodle promote polar";
+var mnemonic = "edge civil fence toddler exchange school retreat slight shop palm desk caught";

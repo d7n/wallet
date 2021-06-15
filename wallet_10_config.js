@@ -1,1 +1,1 @@
-var mnemonic = "clown argue access require drip rain trap damp inform begin extra video";
+var mnemonic = "guide beyond cross book tired ordinary diamond upper rival token lion duty";

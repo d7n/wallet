@@ -1,1 +1,1 @@
-var mnemonic = "dumb beauty into snap glow stick tongue sponsor boy outer notice talk";
+var mnemonic = "tent spawn urge plunge mirror social notice worth author teach enable negative";

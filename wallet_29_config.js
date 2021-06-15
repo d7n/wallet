@@ -1,1 +1,1 @@
-var mnemonic = "vital bright engine group pair pave turkey genius palm snake step swift";
+var mnemonic = "alley recall general grab gain gauge eagle clinic buffalo acid honey suffer";

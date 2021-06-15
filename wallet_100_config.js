@@ -1,1 +1,1 @@
-var mnemonic = "rocket fiber charge cliff scheme fancy safe sphere script friend spawn bargain";
+var mnemonic = "animal unable hello castle shoe bag sphere tower sense exact century economy";

@@ -1,1 +1,1 @@
-var mnemonic = "impact excite solar fall liar decline elite merit book flag fun enable";
+var mnemonic = "tortoise position chronic regular inhale people cave cook decline comfort host unique";

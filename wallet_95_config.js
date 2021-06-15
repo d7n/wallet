@@ -1,1 +1,1 @@
-var mnemonic = "mind decide original swing member other enrich bulk faint domain drink entire";
+var mnemonic = "ancient news rally gym price enter appear fancy garment carry habit peace";

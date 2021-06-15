@@ -1,1 +1,1 @@
-var mnemonic = "blur embark gorilla night beauty turtle solve polar rival flavor bar laundry";
+var mnemonic = "topic bean bounce deputy flock drink bamboo help arm bulk crush draw";

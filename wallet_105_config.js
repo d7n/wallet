@@ -1,1 +1,1 @@
-var mnemonic = "stem owner state sweet subway eagle ocean tube speak police wealth share";
+var mnemonic = "hint gift anger reject october entire slender ribbon mule history swim wait";

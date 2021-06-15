@@ -1,1 +1,1 @@
-var mnemonic = "grid like grant sponsor explain typical hazard bread pledge price awful ring";
+var mnemonic = "edge cherry letter local absurd velvet party arctic cloth combine swing aware";

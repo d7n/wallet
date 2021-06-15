@@ -1,1 +1,1 @@
-var mnemonic = "already dolphin gap sheriff relief envelope mistake feed attack worry rescue print";
+var mnemonic = "kiwi ethics glow blanket excuse bread car spread praise melt trash toddler";

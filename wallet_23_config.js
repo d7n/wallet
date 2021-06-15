@@ -1,1 +1,1 @@
-var mnemonic = "urban patient oven depend prize shift shock under dune circle twin whip";
+var mnemonic = "soda proof warrior foil essay south verb wave match unfair box infant";

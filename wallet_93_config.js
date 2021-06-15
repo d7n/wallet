@@ -1,1 +1,1 @@
-var mnemonic = "outdoor butter brave borrow noble segment lift quarter purse valid bomb feed";
+var mnemonic = "toilet tortoise tiny random knife evoke sound slender country grunt wool comfort";

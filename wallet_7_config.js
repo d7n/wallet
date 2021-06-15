@@ -1,1 +1,1 @@
-var mnemonic = "bunker either will ignore chair rural twice upper truly label over defense";
+var mnemonic = "ecology please subway common canal direct tiny tiny scale donkey sample mixture";

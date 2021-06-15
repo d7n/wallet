@@ -1,1 +1,1 @@
-var mnemonic = "emotion iron title blossom raccoon market lend abuse toward clap section light";
+var mnemonic = "uncover coyote lock insect method dignity chaos bullet ostrich million file ensure";

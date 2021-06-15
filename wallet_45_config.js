@@ -1,1 +1,1 @@
-var mnemonic = "wave wild notice aspect correct inside demise leopard lab grunt canoe collect";
+var mnemonic = "mistake unaware sphere language embrace access click near motion green change country";

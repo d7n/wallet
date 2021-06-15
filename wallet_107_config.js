@@ -1,1 +1,1 @@
-var mnemonic = "fringe price shrimp live exit habit wreck addict present rather width pledge";
+var mnemonic = "august juice mushroom van belt egg primary desert stable frost share share";

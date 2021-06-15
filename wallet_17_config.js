@@ -1,1 +1,1 @@
-var mnemonic = "wood black baby liberty wrist club south flush type option enable army";
+var mnemonic = "uphold tilt brick fan manual waste gym garment feel cake borrow wave";

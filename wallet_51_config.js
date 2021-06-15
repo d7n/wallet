@@ -1,1 +1,1 @@
-var mnemonic = "erupt tribe narrow body absurd until harbor flee card cloud earth scan";
+var mnemonic = "curious enter tonight quote tomorrow need govern toast bacon play please stay";

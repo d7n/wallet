@@ -1,1 +1,1 @@
-var mnemonic = "pattern pair hello team faint isolate fence obscure female now raccoon slim";
+var mnemonic = "give decrease industry sponsor strategy blanket bubble genius conduct treat vivid tourist";

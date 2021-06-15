@@ -1,1 +1,1 @@
-var mnemonic = "eager equal area special cube stand code luggage town skull ahead exhaust";
+var mnemonic = "tackle faculty retire illegal tide faculty stairs pipe worth rigid bounce deal";

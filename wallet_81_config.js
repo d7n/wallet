@@ -1,1 +1,1 @@
-var mnemonic = "music material gold eight display toy hospital skirt unique trend second violin";
+var mnemonic = "group trouble rent toy fancy glory disagree success narrow hybrid sort cat";

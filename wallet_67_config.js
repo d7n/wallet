@@ -1,1 +1,1 @@
-var mnemonic = "ceiling scrap fetch unveil setup beauty path lens execute season cereal train";
+var mnemonic = "lab rich above mix ozone tip wild reveal raw dinner distance grunt";

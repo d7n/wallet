@@ -1,1 +1,1 @@
-var mnemonic = "piano congress quit rocket turkey edge general search ready advice bulb loan";
+var mnemonic = "put castle direct anchor blade region athlete digital aim cheap prepare want";

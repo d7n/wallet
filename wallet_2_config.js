@@ -1,1 +1,1 @@
-var mnemonic = "cover void autumn earth question borrow hazard angle park elegant soft ecology";
+var mnemonic = "cause warm ugly fall derive avocado alpha friend afford skirt subject universe";

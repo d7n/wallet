@@ -1,1 +1,1 @@
-var mnemonic = "smooth joy boss lock daughter beauty tent avoid afraid lucky ozone room";
+var mnemonic = "fashion rigid uncover bundle goose decorate kangaroo circle body vehicle endless timber";

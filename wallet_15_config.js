@@ -1,1 +1,1 @@
-var mnemonic = "enjoy team neither baby nature exotic race across music mistake tunnel nose";
+var mnemonic = "fortune act hospital dish chair tool print cupboard catch lamp group engage";

@@ -1,1 +1,1 @@
-var mnemonic = "oval knife circle piano left input absorb current thrive coin swap pulp";
+var mnemonic = "noble tray trust ginger seminar answer endorse aware lock evidence rice foil";

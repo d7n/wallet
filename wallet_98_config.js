@@ -1,1 +1,1 @@
-var mnemonic = "call height major siege divide squirrel indoor comic proof alcohol glove indoor";
+var mnemonic = "issue defy please asset fee chat consider jaguar year river issue then";

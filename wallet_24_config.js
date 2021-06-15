@@ -1,1 +1,1 @@
-var mnemonic = "sheriff tooth toast blame actual exhaust brave shield physical music sport upon";
+var mnemonic = "clay brain walnut sunset floor jaguar rely text relief december inspire book";

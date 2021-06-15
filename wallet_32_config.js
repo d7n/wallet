@@ -1,1 +1,1 @@
-var mnemonic = "artwork rifle auction question viable vicious calm renew ten orient wool kiwi";
+var mnemonic = "into bracket tube lonely victory hint silent spatial gallery pole cage weasel";

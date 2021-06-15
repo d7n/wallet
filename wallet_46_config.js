@@ -1,1 +1,1 @@
-var mnemonic = "bitter shine rug scheme omit gate walk catalog affair surround outdoor cube";
+var mnemonic = "any special typical stool club wheel cushion just giraffe exchange aunt lamp";

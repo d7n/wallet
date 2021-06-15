@@ -1,1 +1,1 @@
-var mnemonic = "shove husband person explain verify just board solve long forward practice evoke";
+var mnemonic = "hybrid leaf nerve clutch purse name away clarify ski alien broom together";

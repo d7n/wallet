@@ -1,1 +1,1 @@
-var mnemonic = "time start galaxy coconut group injury any cook cute erase element pact";
+var mnemonic = "peasant need melt one speed release buffalo clay quick core tower couch";

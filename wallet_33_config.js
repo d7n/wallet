@@ -1,1 +1,1 @@
-var mnemonic = "husband visual envelope tape attend gun disease bless doll veteran biology fatigue";
+var mnemonic = "square cherry eight little soccer luggage equip random click enact oak lend";

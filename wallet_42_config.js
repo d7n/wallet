@@ -1,1 +1,1 @@
-var mnemonic = "hamster develop cup solution nerve breeze turn cannon venture jump melody glare";
+var mnemonic = "garage meadow claw breeze ready library nominee outer oblige salad brief neither";

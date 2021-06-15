@@ -1,1 +1,1 @@
-var mnemonic = "level nest autumn razor ordinary valley love entry prevent capable cannon depart";
+var mnemonic = "grace taste black october insane task swim large vintage wheel case glad";

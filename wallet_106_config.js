@@ -1,1 +1,1 @@
-var mnemonic = "steel obey reflect speed peanut exchange brain peasant current myself carbon push";
+var mnemonic = "metal ribbon state mercy pond clog buyer begin invite language dentist busy";

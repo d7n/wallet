@@ -1,1 +1,1 @@
-var mnemonic = "diesel then ring program robust bar skull boost minimum daring vintage minor";
+var mnemonic = "video weapon west science artwork law gospel lounge window they future great";

@@ -1,1 +1,1 @@
-var mnemonic = "finger decide amount awful fatigue cheap one buffalo hurt produce flock bargain";
+var mnemonic = "ticket foil stamp skin buddy online palm ranch endorse illegal canoe cannon";

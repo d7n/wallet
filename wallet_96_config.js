@@ -1,1 +1,1 @@
-var mnemonic = "afford wonder giant bless volcano interest version wedding adapt nerve emotion blame";
+var mnemonic = "seek outside faculty tail dinosaur parent upset deposit small photo joke noble";

@@ -1,1 +1,1 @@
-var mnemonic = "behind crime forward volume plug ride joy drink rib scare west upgrade";
+var mnemonic = "soda ski drama color unable stereo depth census work dismiss crazy submit";

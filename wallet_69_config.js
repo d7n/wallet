@@ -1,1 +1,1 @@
-var mnemonic = "busy cancel drop process hub drink sniff thank laugh walnut bench hurry";
+var mnemonic = "float best oblige stomach gate giant cabin charge connect improve measure blush";

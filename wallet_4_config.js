@@ -1,1 +1,1 @@
-var mnemonic = "aunt wasp picture topic biology object bridge cost insane kitchen wife faculty";
+var mnemonic = "simple excite nuclear toilet cheap scout someone pull whip happy gravity carbon";

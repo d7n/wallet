@@ -1,1 +1,1 @@
-var mnemonic = "bulb lend border scene mother begin glance fantasy chef inner author plate";
+var mnemonic = "smoke album rifle clean biology poem citizen nuclear tail mass giant depart";

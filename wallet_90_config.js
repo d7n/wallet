@@ -1,1 +1,1 @@
-var mnemonic = "lounge govern alpha attack glimpse room visa tourist divide menu pepper achieve";
+var mnemonic = "office text young trigger elbow decrease code toast bean method muscle better";

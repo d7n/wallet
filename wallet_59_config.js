@@ -1,1 +1,1 @@
-var mnemonic = "ghost stove husband worth long question sport target gauge sign consider pause";
+var mnemonic = "elegant burden soap movie drive toward split dirt satoshi narrow blade access";

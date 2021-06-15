@@ -1,1 +1,1 @@
-var mnemonic = "page luggage board smart thrive thank section omit feed cupboard else doctor";
+var mnemonic = "zone hungry material desert swear club equal genuine phrase actual prepare success";

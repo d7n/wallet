@@ -1,1 +1,1 @@
-var mnemonic = "rebel tornado dad response between bulb bounce position crime water liar picnic";
+var mnemonic = "what search bring seek garbage believe pull throw cotton because wool vote";

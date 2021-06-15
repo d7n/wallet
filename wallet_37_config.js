@@ -1,1 +1,1 @@
-var mnemonic = "blood gown junk bag gaze liquid furnace cage bronze way leader stumble";
+var mnemonic = "nest december pair bless jar differ viable into square today energy cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "decline pepper tornado ready infant catalog hunt tornado grunt warfare dignity ecology";
+var mnemonic = "same myself camera universe book advance garden filter various ridge wet exercise";

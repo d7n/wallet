@@ -1,1 +1,1 @@
-var mnemonic = "spread popular sad dignity license novel amount gasp wood solve beef wasp";
+var mnemonic = "bulk space shove grant dad net ready duck confirm away salute anchor";

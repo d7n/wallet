@@ -1,1 +1,1 @@
-var mnemonic = "predict view useful skill apology school occur option parent net pipe insane";
+var mnemonic = "enough erase adapt naive question vacuum evidence prevent ostrich embrace absent among";

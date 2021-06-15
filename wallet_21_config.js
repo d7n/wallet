@@ -1,1 +1,1 @@
-var mnemonic = "enemy alter similar ticket frequent simple question code funny then black sibling";
+var mnemonic = "border morning flag brave casual chapter gather script crew fade clever lens";

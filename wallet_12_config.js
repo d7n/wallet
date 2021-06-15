@@ -1,1 +1,1 @@
-var mnemonic = "already siege stereo bench prepare vibrant pyramid smoke loyal lyrics universe boost";
+var mnemonic = "image bean void need image present scheme deposit page soccer expect tomato";

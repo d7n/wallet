@@ -1,1 +1,1 @@
-var mnemonic = "survey visit loud essence castle shallow token tone average genuine onion tell";
+var mnemonic = "banana leopard caution agree select foot pupil slim short shuffle burden type";

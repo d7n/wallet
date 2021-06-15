@@ -1,1 +1,1 @@
-var mnemonic = "pyramid culture cream step token faculty call century cook bone consider must";
+var mnemonic = "skirt agent ugly kiss jelly six disagree again come belt wide save";

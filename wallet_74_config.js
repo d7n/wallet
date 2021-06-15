@@ -1,1 +1,1 @@
-var mnemonic = "vivid empty carbon soap amateur seven machine bright place index snap domain";
+var mnemonic = "stomach habit major right dumb erupt creek winner cabin chase badge mask";

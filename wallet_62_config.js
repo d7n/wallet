@@ -1,1 +1,1 @@
-var mnemonic = "net whip deposit horse thrive unable manual ski illness range pilot rebel";
+var mnemonic = "grief secret save ivory unique never moon lumber rent sausage stem neglect";

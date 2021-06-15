@@ -1,1 +1,1 @@
-var mnemonic = "round giant just radar husband cross drama velvet breeze excuse casino ahead";
+var mnemonic = "skull setup science dog buddy share load whale sound shine fatal educate";
