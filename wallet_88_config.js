@@ -1,1 +1,1 @@
-var mnemonic = "century modify trouble lake insane parrot nasty exist leader situate upon cricket";
+var mnemonic = "present lazy vivid fantasy panda usual weasel upper frequent type inspire say";

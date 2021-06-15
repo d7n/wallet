@@ -1,1 +1,1 @@
-var mnemonic = "treat mesh hamster beyond special frame fault replace churn hundred filter whale";
+var mnemonic = "scissors latin tilt boring suffer film pet echo awake office sausage true";

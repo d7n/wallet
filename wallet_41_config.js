@@ -1,1 +1,1 @@
-var mnemonic = "invite quit day lend cruel virus empty narrow luggage settle suggest tired";
+var mnemonic = "later kangaroo soon general square balance scheme duty album tool various dynamic";

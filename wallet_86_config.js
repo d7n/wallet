@@ -1,1 +1,1 @@
-var mnemonic = "admit tomorrow obscure pole capable poet minute edit stock wise dragon jaguar";
+var mnemonic = "know year find permit lion copy jewel master tool category unknown near";

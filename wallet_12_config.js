@@ -1,1 +1,1 @@
-var mnemonic = "mosquito boss educate thing floor chapter shed emotion mimic mushroom snake purchase";
+var mnemonic = "beef useless devote idle aerobic boil grocery enough provide subway push genre";

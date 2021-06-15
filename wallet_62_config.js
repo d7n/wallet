@@ -1,1 +1,1 @@
-var mnemonic = "crucial pole winner congress master frozen carry wing rain way book rocket";
+var mnemonic = "blade diagram pave cluster champion comfort frown glow sadness switch silk river";

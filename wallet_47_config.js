@@ -1,1 +1,1 @@
-var mnemonic = "federal want clean left bundle hockey mandate section talk grit excite airport";
+var mnemonic = "print rebel avoid will tongue jazz payment rather mother excess toy awkward";

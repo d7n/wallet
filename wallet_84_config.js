@@ -1,1 +1,1 @@
-var mnemonic = "fiber turtle you equip coin hat gold unfair board clock city alarm";
+var mnemonic = "box bread subject category dentist interest normal stairs wash era sand alpha";

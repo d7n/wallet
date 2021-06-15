@@ -1,1 +1,1 @@
-var mnemonic = "fiction glove course design holiday carry code ethics elder age spirit accuse";
+var mnemonic = "protect lava concert away advance unaware canvas pet elite junk motion mercy";

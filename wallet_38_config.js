@@ -1,1 +1,1 @@
-var mnemonic = "nature voyage expand awful that film income age daughter gold oxygen suggest";
+var mnemonic = "okay goose skin heart vast amused legend trust jungle thank gadget animal";

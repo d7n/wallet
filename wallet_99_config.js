@@ -1,1 +1,1 @@
-var mnemonic = "useful purse actor ritual entire gallery interest horn gloom develop salute warfare";
+var mnemonic = "wasp sudden snow legal decide diamond ski bind fog forward tail fresh";

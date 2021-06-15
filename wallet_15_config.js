@@ -1,1 +1,1 @@
-var mnemonic = "ankle song resource police zero glide monster distance access neutral cabbage tag";
+var mnemonic = "raccoon miss assume media surround attract canyon remove remove sock acquire frequent";

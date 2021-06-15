@@ -1,1 +1,1 @@
-var mnemonic = "farm portion carry theory olympic gaze miracle plastic miss viable misery garbage";
+var mnemonic = "mimic refuse raise various fire dentist relief feature wolf evil dial they";

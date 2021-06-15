@@ -1,1 +1,1 @@
-var mnemonic = "hamster amount pulp comic wall three august impulse mouse frog host hammer";
+var mnemonic = "culture heart slow luggage ancient nominee muffin canoe traffic super protect language";

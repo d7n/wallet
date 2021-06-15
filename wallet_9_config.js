@@ -1,1 +1,1 @@
-var mnemonic = "range toilet cloth welcome vanish token derive collect gun certain include manual";
+var mnemonic = "hire exit mango drum donor erosion pond silly gentle mansion spice genre";

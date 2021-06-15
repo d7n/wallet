@@ -1,1 +1,1 @@
-var mnemonic = "marriage jeans staff convince alter chest large dentist merit police issue agent";
+var mnemonic = "outside unique bottom flip debris traffic page tell merry symbol tuna bar";

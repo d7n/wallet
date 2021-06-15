@@ -1,1 +1,1 @@
-var mnemonic = "win ice kiwi sea finish young eight equip worry license abandon above";
+var mnemonic = "cute pilot school effort grid crystal kite disorder stock edit hollow adapt";

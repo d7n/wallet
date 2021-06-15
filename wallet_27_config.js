@@ -1,1 +1,1 @@
-var mnemonic = "taste exhibit marble cruise sport gas defy gaze issue wild bridge settle";
+var mnemonic = "group isolate present hospital spike rotate zoo kiss daughter exit sword elder";

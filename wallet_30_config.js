@@ -1,1 +1,1 @@
-var mnemonic = "skin trip section recall art crowd slender agent devote barely empower ecology";
+var mnemonic = "angry hollow price domain bonus wide soldier vapor gloom remember wagon chronic";

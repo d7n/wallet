@@ -1,1 +1,1 @@
-var mnemonic = "cat diamond six erupt glance skull main find retreat lottery resist salad";
+var mnemonic = "sniff strike purpose plug cheese increase donkey exclude property virtual leisure woman";

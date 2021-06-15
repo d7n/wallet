@@ -1,1 +1,1 @@
-var mnemonic = "ill essay figure stairs suffer bulb fork wedding master festival bar napkin";
+var mnemonic = "clever bracket tooth frog slam mercy social blue amazing cause relax happy";

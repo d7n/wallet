@@ -1,1 +1,1 @@
-var mnemonic = "cart nephew topple monster nut absurd trim tortoise grant snake helmet forget";
+var mnemonic = "infant hire always please ignore hour coconut corn book inquiry tower charge";

@@ -1,1 +1,1 @@
-var mnemonic = "off raccoon thunder rail potato system tooth sort silver wolf sail bacon";
+var mnemonic = "farm yard fashion fruit option liar pill table display sentence steel season";

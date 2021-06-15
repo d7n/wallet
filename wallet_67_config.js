@@ -1,1 +1,1 @@
-var mnemonic = "profit silk scan apart turtle volcano false fluid cake pigeon unveil occur";
+var mnemonic = "drastic idle raccoon sport wear luggage cancel grace grape protect alley horn";

@@ -1,1 +1,1 @@
-var mnemonic = "idea purpose shoot daughter ridge wine expect current upgrade radio cabbage crane";
+var mnemonic = "update frozen mixture pudding humble way text calm risk jewel climb poet";

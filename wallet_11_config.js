@@ -1,1 +1,1 @@
-var mnemonic = "dance bundle faculty mean wish protect leave input story legal flight multiply";
+var mnemonic = "wrong bounce boss increase permit symbol vivid theory animal supreme pave eye";

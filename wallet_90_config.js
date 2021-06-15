@@ -1,1 +1,1 @@
-var mnemonic = "collect code student derive stock usual strategy promote jewel hen over surge";
+var mnemonic = "review twenty buffalo sure broom test erupt essence spice pottery grit amateur";

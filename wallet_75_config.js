@@ -1,1 +1,1 @@
-var mnemonic = "uncover explain kangaroo acoustic verify baby shadow portion liberty cash ahead fetch";
+var mnemonic = "park tired guard marriage check gloom eight page shove predict cousin desk";

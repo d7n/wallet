@@ -1,1 +1,1 @@
-var mnemonic = "piece tiny water twelve beach juice unfold deer strike heavy pudding release";
+var mnemonic = "scrap mechanic sunset oil else you ladder master segment major shop sunny";

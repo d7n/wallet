@@ -1,1 +1,1 @@
-var mnemonic = "route issue guard fence access happy elite chaos fork narrow sunset small";
+var mnemonic = "ketchup master excite force access gain tray jealous cancel horror input clip";

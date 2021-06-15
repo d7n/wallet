@@ -1,1 +1,1 @@
-var mnemonic = "erode become morning inch cargo decade canoe mad eagle such tooth image";
+var mnemonic = "voyage hockey burst churn type merry entry lunar safe weird illness absurd";

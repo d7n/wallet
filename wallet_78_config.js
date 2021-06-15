@@ -1,1 +1,1 @@
-var mnemonic = "exile jar bottom observe disease provide smart young artwork creek lonely brush";
+var mnemonic = "traffic runway author grace insect patrol monster proof cliff spice miss dutch";

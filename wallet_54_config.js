@@ -1,1 +1,1 @@
-var mnemonic = "pulse huge human vague miracle peanut unable below grant cause news win";
+var mnemonic = "present robust arch around clutch comic catalog boost leaf welcome travel glow";

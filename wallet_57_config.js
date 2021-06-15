@@ -1,1 +1,1 @@
-var mnemonic = "keen dry region sort knife invest desk fury impact sniff guitar hen";
+var mnemonic = "vintage spring runway post roast solve rebuild fluid month ghost level amateur";

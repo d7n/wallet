@@ -1,1 +1,1 @@
-var mnemonic = "pill recall van calm crop wild uniform time west laptop glue practice";
+var mnemonic = "rapid involve royal immense art cherry balance total text boil resource elevator";

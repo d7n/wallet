@@ -1,1 +1,1 @@
-var mnemonic = "april south vivid excuse liar tuna myth diamond room deposit correct panic";
+var mnemonic = "behave jump plate century pet gorilla correct tube glow scrub pyramid melody";

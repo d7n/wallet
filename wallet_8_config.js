@@ -1,1 +1,1 @@
-var mnemonic = "auto subway exit deny frost oppose vacuum hero twin trial priority game";
+var mnemonic = "jacket hope garment dinner rent thought trigger grant fatigue goat awkward round";

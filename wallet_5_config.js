@@ -1,1 +1,1 @@
-var mnemonic = "atom cherry address bid stand aware ladder hedgehog attitude setup panda wood";
+var mnemonic = "envelope check exclude maze cake tongue antenna space cycle ride cup leisure";

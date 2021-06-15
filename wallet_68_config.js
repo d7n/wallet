@@ -1,1 +1,1 @@
-var mnemonic = "hotel bulb stamp odor bless model exhibit whisper can illegal profit raise";
+var mnemonic = "item lunar globe smile broken market knife cactus inflict debris obscure dream";

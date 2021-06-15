@@ -1,1 +1,1 @@
-var mnemonic = "odor adapt festival mammal anger mushroom crucial safe blanket silk adult shove";
+var mnemonic = "apple manage impulse palm measure predict stomach harsh talent velvet raw heavy";

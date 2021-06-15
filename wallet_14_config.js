@@ -1,1 +1,1 @@
-var mnemonic = "season equal segment pizza kit bachelor donkey often soccer used dawn foil";
+var mnemonic = "reform episode suit dumb wood cute kite accuse paper faculty bonus lucky";

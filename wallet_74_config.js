@@ -1,1 +1,1 @@
-var mnemonic = "oblige also clay engine sure salon fault fluid enjoy vocal thunder exotic";
+var mnemonic = "boat benefit maple company distance humble material swap caught supreme polar load";

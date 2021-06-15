@@ -1,1 +1,1 @@
-var mnemonic = "square wheel extend sort spend memory void outside blouse crisp clap shallow";
+var mnemonic = "purchase mandate zebra echo indicate cousin gloom robot match sing upon camp";

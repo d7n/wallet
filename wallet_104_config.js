@@ -1,1 +1,1 @@
-var mnemonic = "dream music one guess harsh below connect save ancient lumber bind globe";
+var mnemonic = "local police angle castle liberty biology reject misery certain element apology wood";

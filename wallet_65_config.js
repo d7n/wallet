@@ -1,1 +1,1 @@
-var mnemonic = "gauge escape route vanish elite denial kiwi impose multiply culture era recall";
+var mnemonic = "acid doll cram shoot false more check club lava weekend protect stadium";

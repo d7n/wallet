@@ -1,1 +1,1 @@
-var mnemonic = "cost news document before frog render kind knife lottery share warm company";
+var mnemonic = "cry damp tissue have quick sweet enlist scissors parrot bleak forward nasty";

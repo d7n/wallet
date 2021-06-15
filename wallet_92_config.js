@@ -1,1 +1,1 @@
-var mnemonic = "august pen actual spring pencil employ twist ocean across joke lizard beyond";
+var mnemonic = "leisure must jelly body reduce fury pistol bronze humor accuse cradle join";

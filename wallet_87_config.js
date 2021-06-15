@@ -1,1 +1,1 @@
-var mnemonic = "science swallow novel parrot gift consider address pear immense measure provide round";
+var mnemonic = "income someone mosquito talent toddler elevator sister current bridge robot senior hurdle";

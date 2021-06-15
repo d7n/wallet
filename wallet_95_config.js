@@ -1,1 +1,1 @@
-var mnemonic = "seat excuse carry rotate prevent glass area knock adapt permit pole can";
+var mnemonic = "pact smoke repeat federal brick mountain reflect lesson exotic ivory absorb item";

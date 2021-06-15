@@ -1,1 +1,1 @@
-var mnemonic = "huge busy maid convince loan sleep settle worry swap increase obtain network";
+var mnemonic = "zoo lend practice vibrant web allow trim area coin margin strike quantum";

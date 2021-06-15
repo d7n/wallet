@@ -1,1 +1,1 @@
-var mnemonic = "wink more polar pull battle thunder account hub spy endorse worry coast";
+var mnemonic = "note hover hurdle mixed obscure ready nation female pond legal main funny";

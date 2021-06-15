@@ -1,1 +1,1 @@
-var mnemonic = "series harvest hood breeze route sweet spy vacuum resemble nation velvet zoo";
+var mnemonic = "rare giraffe escape step frequent resource leg curve domain health monster save";

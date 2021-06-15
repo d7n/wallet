@@ -1,1 +1,1 @@
-var mnemonic = "bargain resemble crater game civil judge cargo village forest fatigue forest old";
+var mnemonic = "system response news carry corn canvas outdoor panel play frown buddy couple";

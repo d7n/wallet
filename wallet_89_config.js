@@ -1,1 +1,1 @@
-var mnemonic = "above day business fringe jump stairs inside ostrich oak lake move firm";
+var mnemonic = "wreck tennis squirrel initial forget aerobic region monster receive inject firm general";

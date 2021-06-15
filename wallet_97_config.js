@@ -1,1 +1,1 @@
-var mnemonic = "unfold damage license bring wrist glow harsh alone blossom pet milk despair";
+var mnemonic = "save bubble street agree chat typical nose lobster season season alley float";

@@ -1,1 +1,1 @@
-var mnemonic = "tower alert pyramid raven nerve water size icon become render awful budget";
+var mnemonic = "feel motion method cancel balance stairs open open pencil tongue lazy august";

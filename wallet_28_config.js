@@ -1,1 +1,1 @@
-var mnemonic = "orphan tuna shop alone sweet chest ten wish cause license gap shield";
+var mnemonic = "idle devote bronze bless rude design neutral brain gesture indicate knife miss";

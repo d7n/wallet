@@ -1,1 +1,1 @@
-var mnemonic = "measure egg rose this cloth flash clinic digital sauce plate transfer garbage";
+var mnemonic = "ship piece face chunk sound citizen tragic pair vicious vote jewel airport";

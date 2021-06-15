@@ -1,1 +1,1 @@
-var mnemonic = "green pitch hand cluster hard educate install soldier table choose loud fog";
+var mnemonic = "mercy rug dial debris girl farm abuse grain kitten gather path slam";

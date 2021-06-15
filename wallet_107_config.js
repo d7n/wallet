@@ -1,1 +1,1 @@
-var mnemonic = "theory bench island clay horror input lyrics panther moon card minor lounge";
+var mnemonic = "buddy twice celery panther uncle twist race good banner negative object beyond";

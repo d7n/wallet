@@ -1,1 +1,1 @@
-var mnemonic = "pill habit jaguar hunt misery pave silly ocean truth monster client twice";
+var mnemonic = "moral bench jeans monster fox buddy critic divide disease diagram view hard";

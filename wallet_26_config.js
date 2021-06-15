@@ -1,1 +1,1 @@
-var mnemonic = "piece success cabin sausage amateur bike own split security radio stable economy";
+var mnemonic = "school quantum route network salute gasp verb bird vendor tortoise sudden seminar";

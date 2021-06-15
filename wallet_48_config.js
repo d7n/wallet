@@ -1,1 +1,1 @@
-var mnemonic = "glass scorpion fade gift swap betray illness waste radar autumn monster neck";
+var mnemonic = "surround gloom anxiety elephant guess section search survey fiscal extend direct spy";

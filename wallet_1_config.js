@@ -1,1 +1,1 @@
-var mnemonic = "bulb plastic right unfold pink movie strong catalog kick half eye window";
+var mnemonic = "where cotton enforce despair faint inherit letter solve repair half club bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "private love bridge suspect stomach uphold wish scissors accident tent tower endorse";
+var mnemonic = "cupboard clay knock blanket organ milk neck behave double page sign blue";

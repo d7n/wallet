@@ -1,1 +1,1 @@
-var mnemonic = "execute then wrestle air pear fault sustain reject forget bridge matrix trap";
+var mnemonic = "nominee agree worry foil solve lion clarify like blast can group unit";

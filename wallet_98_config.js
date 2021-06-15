@@ -1,1 +1,1 @@
-var mnemonic = "exhaust when city heavy metal text punch argue observe offer adjust scare";
+var mnemonic = "clerk diesel wave release hill solve fragile depart vacant excite giant layer";

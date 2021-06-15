@@ -1,1 +1,1 @@
-var mnemonic = "fiber camera mouse actual toward drill kick vehicle stool motion bicycle cost";
+var mnemonic = "tenant twist faint tip grape title search cable senior light chapter half";

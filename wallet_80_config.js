@@ -1,1 +1,1 @@
-var mnemonic = "curve sudden this whisper satisfy base curve stone consider tiny cage airport";
+var mnemonic = "cereal emotion rib infant link loan guitar welcome case million future trouble";

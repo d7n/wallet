@@ -1,1 +1,1 @@
-var mnemonic = "orange depart say muscle educate drama fall seminar concert boring cabbage pyramid";
+var mnemonic = "luggage lion kiwi oyster jelly super base garden angle cabin manage spoon";

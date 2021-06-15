@@ -1,1 +1,1 @@
-var mnemonic = "anxiety dial choice weasel train object buzz demise junior stem damage worry";
+var mnemonic = "olive bonus mask amused library grunt month century maple oil sell job";

@@ -1,1 +1,1 @@
-var mnemonic = "word link syrup cabbage leader answer craft scatter rice flush hotel mango";
+var mnemonic = "define pulp scale great rotate end drive aerobic assault snap play under";

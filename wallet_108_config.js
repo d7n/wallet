@@ -1,1 +1,1 @@
-var mnemonic = "goat stay decade exotic jungle purse erase charge engage random insect glare";
+var mnemonic = "census hood illegal jump position zoo youth such cliff salute swift people";

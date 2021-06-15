@@ -1,1 +1,1 @@
-var mnemonic = "trend matter useful iron echo sustain metal debris leopard quick abandon soccer";
+var mnemonic = "become throw wrap viable noodle urge multiply banana tape push sibling goat";

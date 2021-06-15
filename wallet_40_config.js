@@ -1,1 +1,1 @@
-var mnemonic = "chair region photo push tip build inmate error course grass verify age";
+var mnemonic = "rather vocal hair jump tip list domain return domain save kite winner";

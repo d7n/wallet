@@ -1,1 +1,1 @@
-var mnemonic = "hello welcome winner loyal behave three angle define tuna disorder admit retire";
+var mnemonic = "link ritual connect stand tennis ivory mention room reject spray dizzy pony";

@@ -1,1 +1,1 @@
-var mnemonic = "loud bracket spoil street have forest arctic live syrup pride please corn";
+var mnemonic = "almost moment method earn nature increase coin dish live match soda omit";

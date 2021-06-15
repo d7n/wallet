@@ -1,1 +1,1 @@
-var mnemonic = "husband mule crime empty truth civil payment glue dynamic copper myth vessel";
+var mnemonic = "ask immune wonder salmon two language dwarf vocal panel anchor valley tell";

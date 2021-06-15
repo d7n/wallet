@@ -1,1 +1,1 @@
-var mnemonic = "purse run album mask student dance treat future theory maze axis panda";
+var mnemonic = "copy flight monster funny labor penalty state occur slogan gate present cigar";

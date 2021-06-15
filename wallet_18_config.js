@@ -1,1 +1,1 @@
-var mnemonic = "obtain ten cloud youth spike coin faint long talk burst fiscal ordinary";
+var mnemonic = "job era minute ramp office thank slab blush wheat grunt monkey knife";

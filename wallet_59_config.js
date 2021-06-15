@@ -1,1 +1,1 @@
-var mnemonic = "music situate away elite frost vibrant shrug reunion before ugly hidden turn";
+var mnemonic = "exact turtle duty assist sight glance acoustic struggle bid pretty dice prefer";

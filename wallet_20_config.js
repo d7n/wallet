@@ -1,1 +1,1 @@
-var mnemonic = "parent inherit fuel post jelly develop parrot chaos brush prison student nose";
+var mnemonic = "much that candy fix gossip neither vague name scout elegant copy hero";

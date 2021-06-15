@@ -1,1 +1,1 @@
-var mnemonic = "duck square average dinner slogan price damp kite crystal audit box flash";
+var mnemonic = "setup genius casino combine office excuse hold welcome monster hold true athlete";

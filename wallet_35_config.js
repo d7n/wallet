@@ -1,1 +1,1 @@
-var mnemonic = "because aisle bean despair uncle stuff father exist culture absurd mistake square";
+var mnemonic = "away bachelor shell where sketch illness pistol shrug deputy donkey wheel year";

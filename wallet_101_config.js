@@ -1,1 +1,1 @@
-var mnemonic = "dizzy strategy cool flame journey seek gown warrior enforce purity scrap brick";
+var mnemonic = "brand six close sunset quit inform area coin design wrist luxury cushion";

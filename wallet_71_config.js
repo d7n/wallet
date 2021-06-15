@@ -1,1 +1,1 @@
-var mnemonic = "vote shaft orient observe fine later connect entry illegal forum rose blind";
+var mnemonic = "negative tower girl budget mobile repair problem garlic sunset magic senior napkin";

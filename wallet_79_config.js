@@ -1,1 +1,1 @@
-var mnemonic = "accuse toy mention victory clean pave first muscle chef change guard green";
+var mnemonic = "garlic expect margin home slice level assume retire trial course daring army";

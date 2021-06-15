@@ -1,1 +1,1 @@
-var mnemonic = "ice order dune foster fix then nasty farm acquire track file elegant";
+var mnemonic = "own cloud raise album item guess bleak spirit dynamic obscure rice illness";

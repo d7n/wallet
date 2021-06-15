@@ -1,1 +1,1 @@
-var mnemonic = "fancy owner display tissue obtain reopen release hybrid uncle input offer swap";
+var mnemonic = "sister congress sustain object trick chest pencil smoke frame amount repeat debris";
