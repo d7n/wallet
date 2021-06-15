@@ -1,1 +1,1 @@
-var mnemonic = "trial federal crew force dry jelly chicken exchange genre subway ask way";
+var mnemonic = "loan hill visa dance similar raccoon ahead shoot account snake rebuild chair";

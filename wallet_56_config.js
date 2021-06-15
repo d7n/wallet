@@ -1,1 +1,1 @@
-var mnemonic = "truck captain hood major finger camp admit story fiber pass electric unknown";
+var mnemonic = "tattoo ladder scheme citizen person choice float airport devote tornado fame affair";

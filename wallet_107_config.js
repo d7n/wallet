@@ -1,1 +1,1 @@
-var mnemonic = "cram update never melody sibling adjust unit skill radar gather tourist logic";
+var mnemonic = "artist gap youth staff giggle venture real pig barrel industry metal orchard";

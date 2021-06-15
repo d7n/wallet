@@ -1,1 +1,1 @@
-var mnemonic = "peanut romance grace response hospital hood body flee comic title century usual";
+var mnemonic = "swallow theme inhale obey crack suspect disease impact marine put gather dawn";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff worry desert napkin tongue note jealous recall special question game man";
+var mnemonic = "issue chapter leave slight sentence symptom calm sure mask story coral crane";

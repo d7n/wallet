@@ -1,1 +1,1 @@
-var mnemonic = "tooth two tattoo fame bachelor desert hello endless range improve bridge future";
+var mnemonic = "long surge crowd fancy pig thought express planet wise false system twice";

@@ -1,1 +1,1 @@
-var mnemonic = "evidence steel nominee gain mutual dirt history wool scorpion shell cluster pledge";
+var mnemonic = "beyond cash letter answer tonight attract alter history lesson width gospel develop";

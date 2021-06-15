@@ -1,1 +1,1 @@
-var mnemonic = "cupboard orchard grape border loud hour soldier calm airport bachelor business employ";
+var mnemonic = "badge crane much rug gather asthma prevent junk doctor curious exercise around";

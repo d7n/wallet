@@ -1,1 +1,1 @@
-var mnemonic = "thing parent soon menu main disorder aunt airport youth engage model spare";
+var mnemonic = "tortoise raise magic month hood wet census correct service exile love ceiling";

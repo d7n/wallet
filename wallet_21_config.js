@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur torch sad yard praise rhythm waste cash jazz illness brief carry";
+var mnemonic = "reform middle hold evolve plunge lounge menu cry copy senior casual loud";

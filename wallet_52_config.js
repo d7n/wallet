@@ -1,1 +1,1 @@
-var mnemonic = "scout few useful hunt envelope skin crisp worth all carry slide midnight";
+var mnemonic = "core easily valid rice taxi tired ketchup limb lady dynamic amount draw";

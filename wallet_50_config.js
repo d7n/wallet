@@ -1,1 +1,1 @@
-var mnemonic = "width actual speed walk isolate final save inside crater surface tortoise bicycle";
+var mnemonic = "winner spread lizard illegal weather hint hour expect bulb stereo tell lobster";

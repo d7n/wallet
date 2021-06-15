@@ -1,1 +1,1 @@
-var mnemonic = "end winter turn rare olympic large aim isolate buzz flip stomach bleak";
+var mnemonic = "defense churn tortoise spatial list mirror supply account left fuel moment unique";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach canvas snake space grass demand bird digital poem blast heavy spring";
+var mnemonic = "trigger hub master quantum jewel ocean inhale tattoo latin actor chaos gauge";

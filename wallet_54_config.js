@@ -1,1 +1,1 @@
-var mnemonic = "first speed finger win first base age flavor brush orphan poet pony";
+var mnemonic = "outside hint awful robot reveal into oven usual frame skate metal pool";

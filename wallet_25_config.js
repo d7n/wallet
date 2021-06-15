@@ -1,1 +1,1 @@
-var mnemonic = "nest citizen unlock jar cement fog exchange devote spare economy pigeon equal";
+var mnemonic = "bounce enjoy country solid visual smoke symptom cry stay resist candy habit";

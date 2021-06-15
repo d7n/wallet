@@ -1,1 +1,1 @@
-var mnemonic = "horn over demise actor van lawn fine diesel picture mass sport fence";
+var mnemonic = "jaguar lottery purpose hover void uncle win join gate lock frequent absorb";

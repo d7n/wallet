@@ -1,1 +1,1 @@
-var mnemonic = "baby noodle dilemma cup heart drum pitch code core dial wish balance";
+var mnemonic = "audit involve danger viable curve fix ring cable settle desert robust post";

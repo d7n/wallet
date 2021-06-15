@@ -1,1 +1,1 @@
-var mnemonic = "mind today floor illness food cancel exhibit wise method electric useless hello";
+var mnemonic = "degree deposit ridge mule feed family often boss maple cereal spoon winner";

@@ -1,1 +1,1 @@
-var mnemonic = "snow claim solar direct simple distance scare scan shallow anchor nice fog";
+var mnemonic = "library flee end certain weather version lucky day laptop stairs coil razor";

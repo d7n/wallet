@@ -1,1 +1,1 @@
-var mnemonic = "sand rail matter rare mandate indoor rather convince hazard creek divorce away";
+var mnemonic = "age dash glare giggle machine never devote wedding garment popular bronze hidden";

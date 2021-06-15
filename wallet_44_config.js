@@ -1,1 +1,1 @@
-var mnemonic = "frequent proud kite cable alcohol involve circle gun pattern feed gravity ill";
+var mnemonic = "ocean asset limit flight agree skate leader debris garment cousin intact record";

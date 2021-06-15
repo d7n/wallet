@@ -1,1 +1,1 @@
-var mnemonic = "shift depth rely code chat sea town wing infant hurt desk bread";
+var mnemonic = "wave range arena flag match merry boy mandate lift same buffalo emotion";

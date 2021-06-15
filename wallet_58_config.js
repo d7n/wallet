@@ -1,1 +1,1 @@
-var mnemonic = "join hybrid ask issue profit absent pistol calm dove dolphin rack buddy";
+var mnemonic = "welcome canoe scorpion radar close near dune fancy grape picnic leader cube";

@@ -1,1 +1,1 @@
-var mnemonic = "finish coconut insect original oxygen vintage night together before battle scout spare";
+var mnemonic = "right add payment copper vanish true lunar boy arm amateur frost hour";

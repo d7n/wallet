@@ -1,1 +1,1 @@
-var mnemonic = "hawk ripple math ring dress tornado garage chuckle enroll romance piece photo";
+var mnemonic = "suit expose canoe will hurdle isolate cheap eight gesture alien rebuild soul";

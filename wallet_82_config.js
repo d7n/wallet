@@ -1,1 +1,1 @@
-var mnemonic = "strategy voyage wide success bottom electric elephant rookie ask topic stadium craft";
+var mnemonic = "grit copper essence kiwi swarm cushion razor lend mansion merit kitchen zero";

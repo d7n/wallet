@@ -1,1 +1,1 @@
-var mnemonic = "balcony since stereo truck subject town steak much menu side neck vocal";
+var mnemonic = "junk human zoo hidden win craft clay core cereal idea evolve among";

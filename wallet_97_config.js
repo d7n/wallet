@@ -1,1 +1,1 @@
-var mnemonic = "slot street purity gold slogan daring roast toss quantum category bone spice";
+var mnemonic = "doll pizza rebuild cactus much subway oxygen surface fan motor extend mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal grocery end physical spend find magic have cushion amount flat discover";
+var mnemonic = "sell peanut silver advice candy kiss buyer earn diagram casino brown diagram";

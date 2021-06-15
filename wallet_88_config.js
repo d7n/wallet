@@ -1,1 +1,1 @@
-var mnemonic = "resemble firm awake doctor rocket combine athlete sleep learn denial simple come";
+var mnemonic = "cruel reunion runway shallow scatter symbol left major already fabric enlist swear";

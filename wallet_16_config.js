@@ -1,1 +1,1 @@
-var mnemonic = "stable milk catch decade fragile detail sad response attend tag fatigue soft";
+var mnemonic = "same junior hat material man lion dream horn jealous gather chair guard";

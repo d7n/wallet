@@ -1,1 +1,1 @@
-var mnemonic = "teach able solve slice rather permit lawn effort gaze garment tribe account";
+var mnemonic = "rule harsh spot input major dentist hundred bus leisure wine apart banner";

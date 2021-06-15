@@ -1,1 +1,1 @@
-var mnemonic = "frozen emerge dirt tone burst lonely frog assume nation wrestle middle early";
+var mnemonic = "angry fashion return echo fence proof random spare record ignore engine clip";

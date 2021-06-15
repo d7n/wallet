@@ -1,1 +1,1 @@
-var mnemonic = "slam cupboard lawn crouch hand view brave afraid permit century oak able";
+var mnemonic = "attend venture because promote vacuum sentence often phrase caution iron leg glide";

@@ -1,1 +1,1 @@
-var mnemonic = "skill quality arrive possible excess noble add lobster summer wolf never panic";
+var mnemonic = "liquid chapter bus ranch style congress pencil isolate brick pipe orient innocent";

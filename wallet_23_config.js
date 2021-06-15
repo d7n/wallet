@@ -1,1 +1,1 @@
-var mnemonic = "clump outside hill climb risk purpose mention trim entry dutch bundle cupboard";
+var mnemonic = "engage volcano twist auction symptom federal ticket omit lobster flag cream lobster";

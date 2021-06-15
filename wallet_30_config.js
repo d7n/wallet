@@ -1,1 +1,1 @@
-var mnemonic = "maple dad town arrange change when fashion hazard farm under casual since";
+var mnemonic = "rate few brass weather dial depth evidence hunt sad tooth penalty slab";

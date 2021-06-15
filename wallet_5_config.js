@@ -1,1 +1,1 @@
-var mnemonic = "describe solid fly exchange promote nose circle frequent general oil major october";
+var mnemonic = "sing mad pact gaze envelope make shoe era attitude assault romance column";

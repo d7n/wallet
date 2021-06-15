@@ -1,1 +1,1 @@
-var mnemonic = "welcome alien object leopard true game knife laundry nice advice welcome party";
+var mnemonic = "slogan have power surge spell clerk heavy cup tomato embody junior victory";

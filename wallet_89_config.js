@@ -1,1 +1,1 @@
-var mnemonic = "alarm net talent session already army million vague vibrant sword ill then";
+var mnemonic = "squeeze atom boring text obey assault brown gold alpha student language coral";

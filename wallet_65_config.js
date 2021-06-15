@@ -1,1 +1,1 @@
-var mnemonic = "toilet autumn consider episode inner gym hint deer unveil sunny gorilla monitor";
+var mnemonic = "mixture account hand unfair hidden tonight cruise topple midnight walnut hero ocean";

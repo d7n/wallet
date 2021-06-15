@@ -1,1 +1,1 @@
-var mnemonic = "smile hundred food mixed game usual chuckle twenty shift link dynamic pact";
+var mnemonic = "exchange inherit puppy process hand flight final aware access proud sad chase";

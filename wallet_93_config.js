@@ -1,1 +1,1 @@
-var mnemonic = "convince sudden wave humble length stairs success sing excite miss decade zebra";
+var mnemonic = "beyond entry agree another account second where gym social border fabric fancy";

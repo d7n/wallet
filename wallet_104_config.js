@@ -1,1 +1,1 @@
-var mnemonic = "aisle ankle autumn novel seed talent mesh scorpion allow cliff twelve inquiry";
+var mnemonic = "text lemon twenty piece reopen floor relief hole neck drink image inflict";

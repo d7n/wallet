@@ -1,1 +1,1 @@
-var mnemonic = "immune saddle saddle prepare service lazy answer ocean exercise dice mom dutch";
+var mnemonic = "text pear medal segment divide under company enter under lizard master oak";

@@ -1,1 +1,1 @@
-var mnemonic = "angry swim above club elbow rapid inquiry van final mix plunge essay";
+var mnemonic = "skill tank design feed wife balance equip music crowd lend know hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "address same sunny reduce tunnel staff ice install refuse bunker swing abuse";
+var mnemonic = "journey huge athlete tide clock neck rival team crystal title ladder stick";

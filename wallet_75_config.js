@@ -1,1 +1,1 @@
-var mnemonic = "detail rapid notable shadow cave detect hover yellow panel able off leg";
+var mnemonic = "one blossom upgrade angle situate achieve image caught load trial cereal swift";

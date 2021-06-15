@@ -1,1 +1,1 @@
-var mnemonic = "small mixture merry any equal mouse flash patient immense season bind clean";
+var mnemonic = "atom heart knife rotate rally club response crush metal repeat enjoy ignore";

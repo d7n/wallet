@@ -1,1 +1,1 @@
-var mnemonic = "torch spoon razor damage cry sand mean judge riot special cool neither";
+var mnemonic = "stove praise diagram coast please pact angle skill evil swim census ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty couple open sadness explain potato dragon final noise quick dutch cricket";
+var mnemonic = "penalty bottom device bamboo suspect major ribbon tip brush clerk august car";

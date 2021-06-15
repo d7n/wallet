@@ -1,1 +1,1 @@
-var mnemonic = "delay forget heavy cement little laptop magic artefact maple leave joke barely";
+var mnemonic = "secret hamster feed help post vault purpose husband soldier taxi rent ski";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney range elevator keen elder aerobic dizzy okay orient when speed tattoo";
+var mnemonic = "brisk climb valid federal glare below original end usual elbow security oak";

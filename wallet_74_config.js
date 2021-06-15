@@ -1,1 +1,1 @@
-var mnemonic = "plate zone food undo west hamster enrich denial humble keep guard talk";
+var mnemonic = "infant rapid cabin food perfect elephant grace first tissue follow foil agree";

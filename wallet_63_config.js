@@ -1,1 +1,1 @@
-var mnemonic = "zone donor effort provide ribbon grow asset used follow lumber hand urban";
+var mnemonic = "barrel venue panel kick garlic december horn ability anxiety scare sample wage";

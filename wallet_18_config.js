@@ -1,1 +1,1 @@
-var mnemonic = "cannon venue enroll outdoor grant car scout nature gap sock chicken cluster";
+var mnemonic = "antenna symbol danger else find entry require sample ostrich glad daring critic";

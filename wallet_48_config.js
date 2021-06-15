@@ -1,1 +1,1 @@
-var mnemonic = "trend easy ill burden explain tribe width omit world raise crystal picnic";
+var mnemonic = "page hammer upon adjust enjoy enjoy sunset success lonely spell smart grape";

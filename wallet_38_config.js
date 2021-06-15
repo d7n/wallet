@@ -1,1 +1,1 @@
-var mnemonic = "increase person athlete skull erode online barrel trigger drama bid seek cancel";
+var mnemonic = "verify armed wink adult leaf next bridge false copper hawk abuse mechanic";

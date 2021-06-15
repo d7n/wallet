@@ -1,1 +1,1 @@
-var mnemonic = "blossom leopard team air fold step blood search isolate debate gesture setup";
+var mnemonic = "person comic tunnel bus use exercise solve oyster snap memory file gentle";

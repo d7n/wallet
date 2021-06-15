@@ -1,1 +1,1 @@
-var mnemonic = "bag sun mirror brother anger because exit magnet auto police index acquire";
+var mnemonic = "muscle edit bracket remain ridge phone stool ripple check agree patient crash";

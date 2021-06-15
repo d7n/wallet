@@ -1,1 +1,1 @@
-var mnemonic = "family jeans domain cry prison shrimp theory turn coin creek juice visual";
+var mnemonic = "kitchen bullet cereal smoke fit any fringe awkward remind clerk again myth";

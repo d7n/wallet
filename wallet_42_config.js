@@ -1,1 +1,1 @@
-var mnemonic = "pelican age trick figure embrace dirt napkin bachelor person begin rival awake";
+var mnemonic = "beef art woman diagram abandon slab devote fatal morning label maximum cat";

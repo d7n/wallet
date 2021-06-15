@@ -1,1 +1,1 @@
-var mnemonic = "margin icon salmon coast outside base pet fall trap slim enforce sell";
+var mnemonic = "illness clutch destroy govern hover beach sport print goat picture sugar ripple";

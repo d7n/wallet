@@ -1,1 +1,1 @@
-var mnemonic = "lamp toward service perfect few twenty call duck erode oyster later attract";
+var mnemonic = "capital hundred garbage dune weather forget lyrics bike grain guard sing symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "sound various skull path clog hover tilt torch dilemma culture animal orbit";
+var mnemonic = "disease cage laugh culture hip stone exist medal august wide twenty edge";

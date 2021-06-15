@@ -1,1 +1,1 @@
-var mnemonic = "stadium grunt loud exhaust cook erode shadow ask height town frequent search";
+var mnemonic = "body shy current cool wrist crunch flame hat dinosaur enroll decade child";

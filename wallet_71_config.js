@@ -1,1 +1,1 @@
-var mnemonic = "bomb finish advance powder orbit silent salute recycle spell reveal lady list";
+var mnemonic = "once will escape vacuum interest electric pond transfer ketchup desk news exhibit";

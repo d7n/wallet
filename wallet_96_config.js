@@ -1,1 +1,1 @@
-var mnemonic = "enhance wonder misery regular glue skull polar quote drum once universe truly";
+var mnemonic = "immune critic poverty inject layer decade remain business grape game scheme marble";

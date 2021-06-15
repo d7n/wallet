@@ -1,1 +1,1 @@
-var mnemonic = "senior picture wage senior primary image calm eternal choose candy fan husband";
+var mnemonic = "pause ecology record void stand typical silent truck useful lounge pole also";

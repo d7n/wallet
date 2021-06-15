@@ -1,1 +1,1 @@
-var mnemonic = "end smart unfold fruit combine tomorrow devote vacant setup sell flight junk";
+var mnemonic = "reunion quick upon chronic virtual float share recycle celery city gentle sniff";

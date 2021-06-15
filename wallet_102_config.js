@@ -1,1 +1,1 @@
-var mnemonic = "alley elder window must hurt excuse fold sugar jaguar spring great judge";
+var mnemonic = "mirror tornado smooth clump dream nest sound ill security muffin adapt route";

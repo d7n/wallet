@@ -1,1 +1,1 @@
-var mnemonic = "genuine swift glare veteran drive flavor sand sadness decrease burger swear royal";
+var mnemonic = "rally clog cushion pledge organ boring fine person exhaust warm soon ask";

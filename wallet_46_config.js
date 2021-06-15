@@ -1,1 +1,1 @@
-var mnemonic = "brown original abuse quiz depart confirm trip cry under jazz effort topic";
+var mnemonic = "observe civil sick pond mansion churn exercise point tuna scissors inside cat";

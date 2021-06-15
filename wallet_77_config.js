@@ -1,1 +1,1 @@
-var mnemonic = "toy dolphin inside mad artefact man never garment nest swim author snake";
+var mnemonic = "prize insane dad innocent ten chuckle cable equip smoke patch coyote portion";

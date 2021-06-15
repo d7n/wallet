@@ -1,1 +1,1 @@
-var mnemonic = "trigger note banner weather book success cycle panda mountain unusual genre color";
+var mnemonic = "argue record erosion pool message piece fault often bunker position palace clutch";

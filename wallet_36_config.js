@@ -1,1 +1,1 @@
-var mnemonic = "silver coil glue brand tower goat replace crazy giant coil evoke enroll";
+var mnemonic = "addict steak since benefit voyage differ myself fresh joke color picnic ticket";

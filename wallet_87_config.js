@@ -1,1 +1,1 @@
-var mnemonic = "fun open summer regret fashion marriage empty tape sail veteran tray enlist";
+var mnemonic = "kick couch primary rice witness between hill broccoli deliver box divide enter";

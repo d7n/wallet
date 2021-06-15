@@ -1,1 +1,1 @@
-var mnemonic = "hero plug enforce thing cover pony blood soda dinosaur angry wish edge";
+var mnemonic = "harsh decrease jealous love riot carry bone laundry check sunset pill scatter";

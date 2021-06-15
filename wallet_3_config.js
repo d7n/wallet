@@ -1,1 +1,1 @@
-var mnemonic = "ball pond history nature valid busy arch measure link shed pole image";
+var mnemonic = "silent comic flat devote riot normal shallow noble result payment flip arch";

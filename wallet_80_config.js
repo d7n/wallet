@@ -1,1 +1,1 @@
-var mnemonic = "next opera neglect april plunge gentle immune bomb usage hair copy property";
+var mnemonic = "catch pattern rookie domain elegant hurdle dress mountain tooth large buffalo lock";

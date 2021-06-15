@@ -1,1 +1,1 @@
-var mnemonic = "omit abstract wolf sorry erupt cinnamon rhythm iron control fork track ability";
+var mnemonic = "catch crush enhance fat kit sword ecology museum knock position toast daughter";

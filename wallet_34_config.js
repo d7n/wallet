@@ -1,1 +1,1 @@
-var mnemonic = "normal opera top myth blossom dynamic shy trash burst what brave step";
+var mnemonic = "sense divert black film science rebel consider talent hope myth click horn";

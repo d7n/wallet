@@ -1,1 +1,1 @@
-var mnemonic = "key dose improve wall fiction when kid catalog pledge pulse appear mail";
+var mnemonic = "pulse famous weird film secret option gospel purse avocado dad shaft angry";

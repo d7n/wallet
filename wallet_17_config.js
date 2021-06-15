@@ -1,1 +1,1 @@
-var mnemonic = "six isolate cement spell cake useful lawn sunny behind humble alert pass";
+var mnemonic = "biology front borrow comfort short position elite prize tooth panic elegant hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "feed reopen derive wrong dawn sudden wait above arrow drink afford material";
+var mnemonic = "rigid humor number series minute stumble best brain capable turtle grab north";

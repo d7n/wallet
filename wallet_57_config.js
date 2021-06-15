@@ -1,1 +1,1 @@
-var mnemonic = "update desk oak eight scene joy lady shrimp anxiety flock brain main";
+var mnemonic = "flat tiny perfect property sword total crack hurry come kite arena arena";

@@ -1,1 +1,1 @@
-var mnemonic = "boost isolate slab senior sudden tackle laugh replace slush supply genre rapid";
+var mnemonic = "opinion spoon develop sentence onion near object corn ridge cannon absorb destroy";

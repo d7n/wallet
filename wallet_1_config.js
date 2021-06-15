@@ -1,1 +1,1 @@
-var mnemonic = "wall paddle tree pyramid loud drift sound game category educate acquire office";
+var mnemonic = "drift bleak excuse curtain night butter tongue situate area race chimney exhibit";
