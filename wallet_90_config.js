@@ -1,1 +1,1 @@
-var mnemonic = "thing maple tomorrow figure lizard prize primary tooth input alert subway business";
+var mnemonic = "gun artefact soldier rigid ketchup scorpion sunny control liberty achieve winter slam";

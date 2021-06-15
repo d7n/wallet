@@ -1,1 +1,1 @@
-var mnemonic = "outside hint awful robot reveal into oven usual frame skate metal pool";
+var mnemonic = "crystal much want distance frown impulse find drift sight whip sword song";

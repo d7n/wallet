@@ -1,1 +1,1 @@
-var mnemonic = "silent comic flat devote riot normal shallow noble result payment flip arch";
+var mnemonic = "exercise bring trigger strategy album urge body castle program blur private liquid";

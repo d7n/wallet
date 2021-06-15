@@ -1,1 +1,1 @@
-var mnemonic = "jaguar lottery purpose hover void uncle win join gate lock frequent absorb";
+var mnemonic = "witness orbit frequent exile blame soda layer legal model eternal brisk forget";

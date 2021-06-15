@@ -1,1 +1,1 @@
-var mnemonic = "reunion quick upon chronic virtual float share recycle celery city gentle sniff";
+var mnemonic = "kangaroo holiday ignore alley trim normal bunker vague ginger secret salt moment";

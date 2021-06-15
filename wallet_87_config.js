@@ -1,1 +1,1 @@
-var mnemonic = "kick couch primary rice witness between hill broccoli deliver box divide enter";
+var mnemonic = "route pink still galaxy bless actual crowd jealous random wine march double";

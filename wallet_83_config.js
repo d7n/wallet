@@ -1,1 +1,1 @@
-var mnemonic = "angry fashion return echo fence proof random spare record ignore engine clip";
+var mnemonic = "six wrap unveil tent verify rough ten stock sausage ranch notice purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "doll pizza rebuild cactus much subway oxygen surface fan motor extend mistake";
+var mnemonic = "arm book pizza choice juice kit east room way lesson cable hammer";

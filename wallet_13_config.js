@@ -1,1 +1,1 @@
-var mnemonic = "issue chapter leave slight sentence symptom calm sure mask story coral crane";
+var mnemonic = "insect section road flee lunch horn hard flee coconut gadget elephant strike";

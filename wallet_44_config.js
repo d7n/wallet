@@ -1,1 +1,1 @@
-var mnemonic = "ocean asset limit flight agree skate leader debris garment cousin intact record";
+var mnemonic = "empower spring machine squirrel steel original gun holiday comic noodle relief weasel";

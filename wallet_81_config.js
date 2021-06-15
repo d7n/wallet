@@ -1,1 +1,1 @@
-var mnemonic = "person comic tunnel bus use exercise solve oyster snap memory file gentle";
+var mnemonic = "bag lift adapt electric lion chief ghost cliff marble neither dutch agent";

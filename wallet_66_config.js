@@ -1,1 +1,1 @@
-var mnemonic = "degree deposit ridge mule feed family often boss maple cereal spoon winner";
+var mnemonic = "frog elephant design raw illegal ladder sugar room slight know fit finish";

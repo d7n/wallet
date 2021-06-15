@@ -1,1 +1,1 @@
-var mnemonic = "skill tank design feed wife balance equip music crowd lend know hobby";
+var mnemonic = "orient asset mosquito trust pottery inflict tenant visa curtain drink monster wood";

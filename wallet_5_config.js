@@ -1,1 +1,1 @@
-var mnemonic = "sing mad pact gaze envelope make shoe era attitude assault romance column";
+var mnemonic = "upset spend bag purchase peasant before arrange nerve twist hobby stumble tide";

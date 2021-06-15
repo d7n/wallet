@@ -1,1 +1,1 @@
-var mnemonic = "attend venture because promote vacuum sentence often phrase caution iron leg glide";
+var mnemonic = "nature defense bullet design day gaze science mutual brother pass access ranch";

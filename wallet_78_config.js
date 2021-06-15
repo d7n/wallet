@@ -1,1 +1,1 @@
-var mnemonic = "catch crush enhance fat kit sword ecology museum knock position toast daughter";
+var mnemonic = "egg dry timber kiss lesson exotic potato promote flock solar riot inquiry";

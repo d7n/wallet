@@ -1,1 +1,1 @@
-var mnemonic = "artist gap youth staff giggle venture real pig barrel industry metal orchard";
+var mnemonic = "cousin steel duty diet weekend defy horn neutral firm system clerk proud";

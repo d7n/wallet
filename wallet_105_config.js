@@ -1,1 +1,1 @@
-var mnemonic = "suit expose canoe will hurdle isolate cheap eight gesture alien rebuild soul";
+var mnemonic = "company surface scrub october clock cheap weapon net witness penalty club access";

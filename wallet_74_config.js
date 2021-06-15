@@ -1,1 +1,1 @@
-var mnemonic = "infant rapid cabin food perfect elephant grace first tissue follow foil agree";
+var mnemonic = "work ginger carbon accident trophy summer because novel insane position verb february";

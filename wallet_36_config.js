@@ -1,1 +1,1 @@
-var mnemonic = "addict steak since benefit voyage differ myself fresh joke color picnic ticket";
+var mnemonic = "grant uphold forward auto reform range spoil art famous success ecology update";

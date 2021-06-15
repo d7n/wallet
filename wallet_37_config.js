@@ -1,1 +1,1 @@
-var mnemonic = "long surge crowd fancy pig thought express planet wise false system twice";
+var mnemonic = "drum race welcome horn glimpse flash drill dinosaur fortune safe man bicycle";

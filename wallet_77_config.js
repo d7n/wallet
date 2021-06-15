@@ -1,1 +1,1 @@
-var mnemonic = "prize insane dad innocent ten chuckle cable equip smoke patch coyote portion";
+var mnemonic = "burger decline universe beach thank local obvious damage ring pony frog alone";

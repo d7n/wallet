@@ -1,1 +1,1 @@
-var mnemonic = "opinion spoon develop sentence onion near object corn ridge cannon absorb destroy";
+var mnemonic = "edge rude also mimic over square mechanic point drill learn mobile note";

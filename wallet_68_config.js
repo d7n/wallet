@@ -1,1 +1,1 @@
-var mnemonic = "disease cage laugh culture hip stone exist medal august wide twenty edge";
+var mnemonic = "scheme dial expand hospital program ill army silver scene below twelve notable";

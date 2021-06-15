@@ -1,1 +1,1 @@
-var mnemonic = "rule harsh spot input major dentist hundred bus leisure wine apart banner";
+var mnemonic = "what water anchor monitor ginger idle orphan town exhaust smart step blanket";

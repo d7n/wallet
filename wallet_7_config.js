@@ -1,1 +1,1 @@
-var mnemonic = "world forward wide guilt tip fiber favorite language action fat smart mule";
+var mnemonic = "need cheap scout group duck shoulder picnic nothing okay finger wear common";

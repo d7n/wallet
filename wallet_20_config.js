@@ -1,1 +1,1 @@
-var mnemonic = "secret hamster feed help post vault purpose husband soldier taxi rent ski";
+var mnemonic = "destroy like west settle fashion element damp shrimp pony myself rule woman";

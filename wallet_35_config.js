@@ -1,1 +1,1 @@
-var mnemonic = "penalty bottom device bamboo suspect major ribbon tip brush clerk august car";
+var mnemonic = "shed prize enable much must sustain tag tone dial review plate strike";

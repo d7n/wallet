@@ -1,1 +1,1 @@
-var mnemonic = "biology front borrow comfort short position elite prize tooth panic elegant hospital";
+var mnemonic = "shift unit syrup impose draw welcome thought very limit drum spawn left";

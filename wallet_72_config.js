@@ -1,1 +1,1 @@
-var mnemonic = "defense churn tortoise spatial list mirror supply account left fuel moment unique";
+var mnemonic = "enhance tortoise trick decade harvest draw genre oval chef suffer purse poet";

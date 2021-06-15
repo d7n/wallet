@@ -1,1 +1,1 @@
-var mnemonic = "sense divert black film science rebel consider talent hope myth click horn";
+var mnemonic = "magnet script load awesome head thunder yellow endless bounce theme catalog chat";

@@ -1,1 +1,1 @@
-var mnemonic = "mixture account hand unfair hidden tonight cruise topple midnight walnut hero ocean";
+var mnemonic = "flight denial hawk twin satoshi regular gaze wise inmate tide such frame";

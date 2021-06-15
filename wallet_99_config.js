@@ -1,1 +1,1 @@
-var mnemonic = "speed citizen sad chronic grace melt parade guilt liberty car vendor slide";
+var mnemonic = "limit assault myself very pair worth day degree tunnel lecture address marble";

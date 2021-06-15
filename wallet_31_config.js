@@ -1,1 +1,1 @@
-var mnemonic = "liquid chapter bus ranch style congress pencil isolate brick pipe orient innocent";
+var mnemonic = "orphan start palace benefit excuse auction between sadness paper reunion tape leisure";

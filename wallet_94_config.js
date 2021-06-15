@@ -1,1 +1,1 @@
-var mnemonic = "argue record erosion pool message piece fault often bunker position palace clutch";
+var mnemonic = "exile walnut during pony trust thank version brush knock round crime grant";

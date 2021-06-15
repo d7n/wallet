@@ -1,1 +1,1 @@
-var mnemonic = "pause ecology record void stand typical silent truck useful lounge pole also";
+var mnemonic = "nothing subway away broccoli suggest stamp next display fever crazy disorder mimic";

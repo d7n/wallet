@@ -1,1 +1,1 @@
-var mnemonic = "once will escape vacuum interest electric pond transfer ketchup desk news exhibit";
+var mnemonic = "faith gossip ugly enjoy clip now kiss soldier staff wash relief whip";

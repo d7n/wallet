@@ -1,1 +1,1 @@
-var mnemonic = "welcome canoe scorpion radar close near dune fancy grape picnic leader cube";
+var mnemonic = "youth initial grant face fix detail athlete blade mass defy era upon";

@@ -1,1 +1,1 @@
-var mnemonic = "atom heart knife rotate rally club response crush metal repeat enjoy ignore";
+var mnemonic = "remain report limit please risk certain assist observe canyon giraffe march usual";

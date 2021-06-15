@@ -1,1 +1,1 @@
-var mnemonic = "age dash glare giggle machine never devote wedding garment popular bronze hidden";
+var mnemonic = "grid extend merit steel engine paddle distance truly wheat glass bulk robust";

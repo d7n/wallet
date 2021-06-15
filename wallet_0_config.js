@@ -1,1 +1,1 @@
-var mnemonic = "century dance other business hollow bid brisk rule help found clever course";
+var mnemonic = "festival return slide donate rocket wall laptop index quote return hour century";

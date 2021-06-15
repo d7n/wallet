@@ -1,1 +1,1 @@
-var mnemonic = "verify armed wink adult leaf next bridge false copper hawk abuse mechanic";
+var mnemonic = "strong void vibrant viable start nothing vital direct orbit sort industry hockey";

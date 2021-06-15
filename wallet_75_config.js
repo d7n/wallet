@@ -1,1 +1,1 @@
-var mnemonic = "one blossom upgrade angle situate achieve image caught load trial cereal swift";
+var mnemonic = "disorder sun income pony old top describe rack awesome trend fancy soft";

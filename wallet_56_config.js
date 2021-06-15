@@ -1,1 +1,1 @@
-var mnemonic = "tattoo ladder scheme citizen person choice float airport devote tornado fame affair";
+var mnemonic = "catch thumb blind know combine poet dress rather tail mail slow position";

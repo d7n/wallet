@@ -1,1 +1,1 @@
-var mnemonic = "beyond entry agree another account second where gym social border fabric fancy";
+var mnemonic = "grow fog ice sock actual market shrimp flip dress agent auto element";

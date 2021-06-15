@@ -1,1 +1,1 @@
-var mnemonic = "wave range arena flag match merry boy mandate lift same buffalo emotion";
+var mnemonic = "ancient glow wheel social napkin useless usage cycle sell dwarf egg race";

@@ -1,1 +1,1 @@
-var mnemonic = "lion profit battle luggage harvest require turtle bundle busy art patch blind";
+var mnemonic = "fade vibrant oxygen where silent social describe cube boss trouble lemon vault";

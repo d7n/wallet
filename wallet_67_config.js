@@ -1,1 +1,1 @@
-var mnemonic = "exchange inherit puppy process hand flight final aware access proud sad chase";
+var mnemonic = "quantum fatal disagree betray jaguar wool photo ozone end suggest next series";

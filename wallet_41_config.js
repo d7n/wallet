@@ -1,1 +1,1 @@
-var mnemonic = "slogan have power surge spell clerk heavy cup tomato embody junior victory";
+var mnemonic = "enlist sleep razor change lunch square uncover next neutral lend concert curtain";

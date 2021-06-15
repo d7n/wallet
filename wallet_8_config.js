@@ -1,1 +1,1 @@
-var mnemonic = "warfare oak near rough fever enter assist obey slab invest since surge";
+var mnemonic = "organ eagle hollow mobile tunnel eager famous often crack laptop worry clock";

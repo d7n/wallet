@@ -1,1 +1,1 @@
-var mnemonic = "core minor injury nothing dream direct tourist curve siren wrestle accident vivid";
+var mnemonic = "erosion eternal walnut subway train device snap type force hurry practice retire";

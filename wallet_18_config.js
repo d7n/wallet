@@ -1,1 +1,1 @@
-var mnemonic = "antenna symbol danger else find entry require sample ostrich glad daring critic";
+var mnemonic = "suspect usage tired clarify shed cup sketch patch jaguar document alley general";

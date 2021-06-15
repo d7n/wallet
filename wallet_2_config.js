@@ -1,1 +1,1 @@
-var mnemonic = "text pear medal segment divide under company enter under lizard master oak";
+var mnemonic = "utility parent item general isolate lesson armed sun noise rival master sketch";

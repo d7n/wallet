@@ -1,1 +1,1 @@
-var mnemonic = "rate few brass weather dial depth evidence hunt sad tooth penalty slab";
+var mnemonic = "add add salute wisdom maze virus moral script omit bread couch someone";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen bullet cereal smoke fit any fringe awkward remind clerk again myth";
+var mnemonic = "lonely quality shed trick useful juice bid service napkin indoor way grit";

@@ -1,1 +1,1 @@
-var mnemonic = "winner spread lizard illegal weather hint hour expect bulb stereo tell lobster";
+var mnemonic = "file three good floor radio alter pattern leader impose extend genuine olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "immune critic poverty inject layer decade remain business grape game scheme marble";
+var mnemonic = "thrive abuse glow fiber drop raccoon eye permit answer dawn car tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce enjoy country solid visual smoke symptom cry stay resist candy habit";
+var mnemonic = "wild civil raven side vital shine board kiwi jar bitter song pull";

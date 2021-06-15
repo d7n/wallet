@@ -1,1 +1,1 @@
-var mnemonic = "arrange demise profit balance suffer feel robust visual jump inquiry family boy";
+var mnemonic = "beauty depend spawn enjoy inside tree method divide crop sure cross aim";

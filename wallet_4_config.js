@@ -1,1 +1,1 @@
-var mnemonic = "box point host segment coach acid window wonder comic join combine omit";
+var mnemonic = "bundle goose certain special inhale possible betray impulse unique expect dash napkin";

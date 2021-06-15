@@ -1,1 +1,1 @@
-var mnemonic = "pulse famous weird film secret option gospel purse avocado dad shaft angry";
+var mnemonic = "devote cupboard trick warrior nose aspect define town wage assist dwarf find";

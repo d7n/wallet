@@ -1,1 +1,1 @@
-var mnemonic = "body shy current cool wrist crunch flame hat dinosaur enroll decade child";
+var mnemonic = "staff level destroy middle hero elite point ten early scrap live word";

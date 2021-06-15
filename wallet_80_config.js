@@ -1,1 +1,1 @@
-var mnemonic = "catch pattern rookie domain elegant hurdle dress mountain tooth large buffalo lock";
+var mnemonic = "swarm unusual scan start labor immense during loan toss jaguar resource flush";

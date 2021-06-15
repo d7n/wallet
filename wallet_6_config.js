@@ -1,1 +1,1 @@
-var mnemonic = "sell peanut silver advice candy kiss buyer earn diagram casino brown diagram";
+var mnemonic = "enlist ramp cereal neglect discover emerge catch slight climb flush attend jewel";

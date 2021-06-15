@@ -1,1 +1,1 @@
-var mnemonic = "squeeze atom boring text obey assault brown gold alpha student language coral";
+var mnemonic = "clump card prefer misery cement practice reward defy rare bus chef unhappy";

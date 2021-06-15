@@ -1,1 +1,1 @@
-var mnemonic = "nothing property grow furnace sell energy clutch vital naive page unique infant";
+var mnemonic = "grant fine end dish never judge marriage faith upset syrup gloom key";

@@ -1,1 +1,1 @@
-var mnemonic = "library flee end certain weather version lucky day laptop stairs coil razor";
+var mnemonic = "require shock combine play matter busy join across essay hedgehog harbor display";

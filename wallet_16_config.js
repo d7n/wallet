@@ -1,1 +1,1 @@
-var mnemonic = "same junior hat material man lion dream horn jealous gather chair guard";
+var mnemonic = "phrase margin daughter anger bridge flock magnet setup valid cinnamon alien powder";

@@ -1,1 +1,1 @@
-var mnemonic = "school prepare grit peanut thing hello mutual stamp jealous crawl foil guitar";
+var mnemonic = "first labor absent wonder portion indoor dutch arm expand firm axis tissue";

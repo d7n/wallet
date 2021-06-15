@@ -1,1 +1,1 @@
-var mnemonic = "rigid humor number series minute stumble best brain capable turtle grab north";
+var mnemonic = "cancel present eye pool icon aware surprise what ancient wealth box party";

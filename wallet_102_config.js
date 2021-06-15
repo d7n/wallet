@@ -1,1 +1,1 @@
-var mnemonic = "mirror tornado smooth clump dream nest sound ill security muffin adapt route";
+var mnemonic = "step bag climb village fat dry rookie catch neither okay apology spatial";

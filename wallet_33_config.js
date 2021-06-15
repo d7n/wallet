@@ -1,1 +1,1 @@
-var mnemonic = "muscle edit bracket remain ridge phone stool ripple check agree patient crash";
+var mnemonic = "blossom oil depart off media sniff foster easily mixture depart rigid transfer";

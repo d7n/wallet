@@ -1,1 +1,1 @@
-var mnemonic = "trigger hub master quantum jewel ocean inhale tattoo latin actor chaos gauge";
+var mnemonic = "surround tissue plunge earn please avoid vague drift loop interest river snap";

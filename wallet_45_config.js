@@ -1,1 +1,1 @@
-var mnemonic = "audit involve danger viable curve fix ring cable settle desert robust post";
+var mnemonic = "range rifle ticket marine rely run need make tornado scare diagram team";

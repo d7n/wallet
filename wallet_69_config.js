@@ -1,1 +1,1 @@
-var mnemonic = "junk human zoo hidden win craft clay core cereal idea evolve among";
+var mnemonic = "real gain toe squirrel install odor lecture term simple call parent exile";

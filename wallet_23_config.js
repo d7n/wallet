@@ -1,1 +1,1 @@
-var mnemonic = "engage volcano twist auction symptom federal ticket omit lobster flag cream lobster";
+var mnemonic = "real wedding flush you priority crawl wedding horse maple royal voice zoo";

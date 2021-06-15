@@ -1,1 +1,1 @@
-var mnemonic = "brisk climb valid federal glare below original end usual elbow security oak";
+var mnemonic = "link stuff exit ethics upgrade cross comfort energy foam input diesel great";

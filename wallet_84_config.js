@@ -1,1 +1,1 @@
-var mnemonic = "illness clutch destroy govern hover beach sport print goat picture sugar ripple";
+var mnemonic = "change nothing claw noise unique bomb human liberty increase meat guess upset";

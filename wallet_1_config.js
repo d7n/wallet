@@ -1,1 +1,1 @@
-var mnemonic = "drift bleak excuse curtain night butter tongue situate area race chimney exhibit";
+var mnemonic = "axis test merge stove dish increase galaxy stock prize same roof spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "beef art woman diagram abandon slab devote fatal morning label maximum cat";
+var mnemonic = "carbon list photo glove chest noodle area cake trophy general donor margin";

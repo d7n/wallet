@@ -1,1 +1,1 @@
-var mnemonic = "rally clog cushion pledge organ boring fine person exhaust warm soon ask";
+var mnemonic = "sample fold flight into pond rice ring sheriff another bar eight cloth";

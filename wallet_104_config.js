@@ -1,1 +1,1 @@
-var mnemonic = "text lemon twenty piece reopen floor relief hole neck drink image inflict";
+var mnemonic = "health cook wear shop anger fatigue enlist patient pen flavor select duck";

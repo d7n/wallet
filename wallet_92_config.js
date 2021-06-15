@@ -1,1 +1,1 @@
-var mnemonic = "valid ribbon balance rhythm price knee sport scare fiber tooth motor mention";
+var mnemonic = "drama board anger cluster slogan month toward alone wink region keep develop";

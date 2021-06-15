@@ -1,1 +1,1 @@
-var mnemonic = "decline sauce two deal smile hedgehog noble pause indicate tiger night clever";
+var mnemonic = "error approve snow acoustic buddy slow main recycle rifle talk unhappy horror";

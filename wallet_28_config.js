@@ -1,1 +1,1 @@
-var mnemonic = "badge crane much rug gather asthma prevent junk doctor curious exercise around";
+var mnemonic = "churn february caught disease stumble divide route allow ability toast pause garage";

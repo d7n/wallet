@@ -1,1 +1,1 @@
-var mnemonic = "reform middle hold evolve plunge lounge menu cry copy senior casual loud";
+var mnemonic = "trouble candy type noodle song cupboard human fall dose brush dash edit";

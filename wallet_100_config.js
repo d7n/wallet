@@ -1,1 +1,1 @@
-var mnemonic = "gadget sock december distance connect salad casino bar plate cricket loud much";
+var mnemonic = "shiver inform museum gadget tag refuse october trumpet tone better toddler powder";

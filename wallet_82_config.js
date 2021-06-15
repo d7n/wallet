@@ -1,1 +1,1 @@
-var mnemonic = "grit copper essence kiwi swarm cushion razor lend mansion merit kitchen zero";
+var mnemonic = "clog tornado leg layer typical magic special uphold strategy sun vibrant path";

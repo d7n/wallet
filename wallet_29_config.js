@@ -1,1 +1,1 @@
-var mnemonic = "right add payment copper vanish true lunar boy arm amateur frost hour";
+var mnemonic = "burden priority eagle lunch grocery hurt effort rice vast say ring regret";

@@ -1,1 +1,1 @@
-var mnemonic = "flat tiny perfect property sword total crack hurry come kite arena arena";
+var mnemonic = "chicken cinnamon salon head during club know protect demise tumble social recipe";
