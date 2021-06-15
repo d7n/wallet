@@ -1,1 +1,1 @@
-var mnemonic = "object deposit clean dance source eagle firm sunny orbit swarm other grid";
+var mnemonic = "pilot annual annual swamp balance want music pizza blanket labor antique kidney";

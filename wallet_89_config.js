@@ -1,1 +1,1 @@
-var mnemonic = "shove bracket flower cage myth tape during cherry mandate special atom alcohol";
+var mnemonic = "grunt social diet elder connect cattle total gentle indoor amused woman play";

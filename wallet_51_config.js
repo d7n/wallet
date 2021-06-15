@@ -1,1 +1,1 @@
-var mnemonic = "flame cage laugh later accident fever scare afford margin lemon try april";
+var mnemonic = "rug pupil wear occur cradle powder liquid elevator guilt obvious return patrol";

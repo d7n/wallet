@@ -1,1 +1,1 @@
-var mnemonic = "ten cricket symbol cat demand elder raccoon finish cream tomorrow music disorder";
+var mnemonic = "van suspect tourist shock ball upper double grocery wink approve desert comic";

@@ -1,1 +1,1 @@
-var mnemonic = "curve mixed hello keep advice nasty ask will nephew satisfy turtle catalog";
+var mnemonic = "oblige tornado soldier capable orphan nerve cash license inherit rack elbow obey";

@@ -1,1 +1,1 @@
-var mnemonic = "cram vacuum total kitten discover noise teach goat earth direct term vintage";
+var mnemonic = "citizen wedding pill fragile seven robust whisper neither marble disease skate embrace";

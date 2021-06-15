@@ -1,1 +1,1 @@
-var mnemonic = "twice alert animal token cheap argue palace fork hungry series inflict tenant";
+var mnemonic = "sing book true adapt visit genuine critic torch diet enroll april frozen";

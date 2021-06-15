@@ -1,1 +1,1 @@
-var mnemonic = "soft crack game hood property east visual height warfare very scheme coin";
+var mnemonic = "wash inhale much tiny game talk two coyote festival valid ask coach";

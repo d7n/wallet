@@ -1,1 +1,1 @@
-var mnemonic = "guess wood maid faculty crew decade habit boat like scrub outer pudding";
+var mnemonic = "nerve pyramid firm dinosaur culture flip check today infant mom genius ankle";

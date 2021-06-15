@@ -1,1 +1,1 @@
-var mnemonic = "cancel assist allow glance cross wing speed law account spoon script produce";
+var mnemonic = "marriage distance ugly blame black travel upgrade flat plug fancy dumb cook";

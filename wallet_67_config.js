@@ -1,1 +1,1 @@
-var mnemonic = "lounge reflect obtain insane song rapid display supreme way journey hour finish";
+var mnemonic = "shell edit correct left curtain ritual friend flash civil diamond purchase common";

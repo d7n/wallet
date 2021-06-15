@@ -1,1 +1,1 @@
-var mnemonic = "path share tent practice confirm post glare trumpet bone barely cinnamon rough";
+var mnemonic = "sea sail inside mom claim long there athlete mother coffee denial any";

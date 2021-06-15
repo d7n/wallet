@@ -1,1 +1,1 @@
-var mnemonic = "fold devote axis inherit legend almost hub hazard accuse galaxy tackle resemble";
+var mnemonic = "vendor glow unveil share drop loud sunny session frame there siren immune";

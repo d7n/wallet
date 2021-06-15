@@ -1,1 +1,1 @@
-var mnemonic = "display renew auto label parent borrow dove impact auction prize simple barrel";
+var mnemonic = "electric general stomach voyage witness betray venue leaf soft outdoor very cage";

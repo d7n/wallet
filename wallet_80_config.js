@@ -1,1 +1,1 @@
-var mnemonic = "grace rack avocado album fuel behave thing cargo tone hamster best chaos";
+var mnemonic = "circle enter valley sand vault pencil trophy sudden tissue fall lift warrior";

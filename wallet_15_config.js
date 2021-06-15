@@ -1,1 +1,1 @@
-var mnemonic = "soda produce foam practice cargo hungry simple party swim nature appear economy";
+var mnemonic = "project truth wreck figure day harbor fever truly tackle gauge mail pizza";

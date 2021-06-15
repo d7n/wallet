@@ -1,1 +1,1 @@
-var mnemonic = "apple trip deal clip trumpet skirt good march surface basic waste manage";
+var mnemonic = "common oval ozone rally capital divide cactus bonus another tent hospital metal";

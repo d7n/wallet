@@ -1,1 +1,1 @@
-var mnemonic = "opinion ethics dawn piece foam boat mask bread place public door scissors";
+var mnemonic = "recipe garage kingdom season predict mix know bread eager slush mixture warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "habit area core ramp drill radio make weapon destroy mountain lion payment";
+var mnemonic = "perfect merit gate impulse subject fee island cup toward axis program gallery";

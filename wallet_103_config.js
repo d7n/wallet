@@ -1,1 +1,1 @@
-var mnemonic = "more diesel again explain tent used faint cool exit potato basic gate";
+var mnemonic = "theory surprise erode flip always embody system style coffee tomato merry deposit";

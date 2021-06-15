@@ -1,1 +1,1 @@
-var mnemonic = "scene chuckle tackle engine best divert farm range grow agent system antenna";
+var mnemonic = "hidden model dose latin rhythm junk major document cherry pizza finish scrub";

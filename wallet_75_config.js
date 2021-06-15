@@ -1,1 +1,1 @@
-var mnemonic = "promote cradle uniform piece dolphin chef stamp response dirt lift pen carbon";
+var mnemonic = "hockey industry army release panel dolphin initial pluck antenna winter flee put";

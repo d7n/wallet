@@ -1,1 +1,1 @@
-var mnemonic = "shadow tonight album old hand visit summer any way short iron quality";
+var mnemonic = "vacant prison prefer silly omit ill spirit chapter life spy balance material";

@@ -1,1 +1,1 @@
-var mnemonic = "present fiber arctic tobacco tray any eight era smoke issue fresh enhance";
+var mnemonic = "sponsor left table install anxiety debris foil run wheat tone slice certain";

@@ -1,1 +1,1 @@
-var mnemonic = "bone bridge broken shove earth name identify month palace summer hub drama";
+var mnemonic = "impose unfair little village rhythm person build wrap lift devote harsh ethics";

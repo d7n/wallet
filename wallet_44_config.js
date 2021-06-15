@@ -1,1 +1,1 @@
-var mnemonic = "labor like business attitude muffin light patch cabbage only pluck virus dial";
+var mnemonic = "pet knife weather cruel abstract glide sail present trouble cash purse shuffle";

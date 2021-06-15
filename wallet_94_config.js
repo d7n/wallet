@@ -1,1 +1,1 @@
-var mnemonic = "buzz follow erupt old jungle crystal spider adapt blur negative glimpse flash";
+var mnemonic = "require lottery that obey mimic lobster broken parade sense eternal nest drive";

@@ -1,1 +1,1 @@
-var mnemonic = "blast weird monitor devote volcano rubber monkey between hungry purse capable zone";
+var mnemonic = "attitude hello topple attend resource enemy figure index problem mechanic hedgehog echo";

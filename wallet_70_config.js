@@ -1,1 +1,1 @@
-var mnemonic = "margin company segment catalog bridge owner near maze jaguar shiver dutch diagram";
+var mnemonic = "diamond apple easy public twist seed scrap onion attract pill expect square";

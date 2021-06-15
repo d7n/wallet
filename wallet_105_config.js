@@ -1,1 +1,1 @@
-var mnemonic = "can curious about blue include earn jeans solve wave nation buyer cook";
+var mnemonic = "bar awake mansion mask way spray wrap useless exhaust give six job";

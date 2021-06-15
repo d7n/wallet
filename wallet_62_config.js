@@ -1,1 +1,1 @@
-var mnemonic = "salmon equal kingdom furnace cross era angry toe above worth wolf problem";
+var mnemonic = "worry grief tonight foam nuclear setup caution cricket analyst brick curious say";

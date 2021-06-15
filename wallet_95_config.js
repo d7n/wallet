@@ -1,1 +1,1 @@
-var mnemonic = "creek sun biology federal tiger project pole abuse upper local trend soccer";
+var mnemonic = "talent brick month assume target spend nut tuna camera comfort script media";

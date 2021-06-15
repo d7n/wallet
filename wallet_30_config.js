@@ -1,1 +1,1 @@
-var mnemonic = "away brother wheat holiday chunk price nephew uncle amateur coin leaf spoon";
+var mnemonic = "coach minute deal tip like creek ahead phrase impose clock estate twist";

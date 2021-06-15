@@ -1,1 +1,1 @@
-var mnemonic = "bracket mosquito pulp alarm average olive resemble armed air rough escape finger";
+var mnemonic = "unaware repeat monkey fog alert labor boost cause rival brain sight luxury";

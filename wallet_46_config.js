@@ -1,1 +1,1 @@
-var mnemonic = "emotion amazing future elevator melt page quality panic river wisdom resemble cluster";
+var mnemonic = "blue glow same total photo law fatigue cushion trumpet phone angry weekend";

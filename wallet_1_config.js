@@ -1,1 +1,1 @@
-var mnemonic = "install maple hen praise saddle scale tackle carpet cattle cost hill wisdom";
+var mnemonic = "limit elegant immense media talk staff twenty luxury bronze brave school practice";

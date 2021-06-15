@@ -1,1 +1,1 @@
-var mnemonic = "survey cover deliver clarify awkward typical payment comic evolve forget wash cool";
+var mnemonic = "milk affair enforce appear cat drill edit example wink silly jewel name";

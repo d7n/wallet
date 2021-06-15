@@ -1,1 +1,1 @@
-var mnemonic = "trade fringe since cattle favorite unfair jewel child point act enforce tuition";
+var mnemonic = "network shell protect spoil scare rival claw area culture change gentle paddle";

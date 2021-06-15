@@ -1,1 +1,1 @@
-var mnemonic = "blur brown cabin potato exit ride oblige scheme donkey lock column volcano";
+var mnemonic = "tackle engage notice charge goat pair escape bitter paddle rabbit vocal stage";

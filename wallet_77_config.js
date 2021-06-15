@@ -1,1 +1,1 @@
-var mnemonic = "pipe clinic violin often expose night lawn bulb wood bullet garage alpha";
+var mnemonic = "air latin various offer viable armed picture lawsuit blood equip whisper farm";

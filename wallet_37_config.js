@@ -1,1 +1,1 @@
-var mnemonic = "bracket rare apple album pole before course giant foot sell kitten slot";
+var mnemonic = "immense pet barely view provide make inquiry replace sword firm upset present";

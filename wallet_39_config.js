@@ -1,1 +1,1 @@
-var mnemonic = "polar midnight team into slush detail frequent expire joke pull bacon sell";
+var mnemonic = "drill winner cereal firm trial animal smooth inhale captain scheme black suggest";

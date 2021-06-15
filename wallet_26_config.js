@@ -1,1 +1,1 @@
-var mnemonic = "sense doll still hurt ceiling super mushroom kingdom menu able check deliver";
+var mnemonic = "object nest grit random hedgehog piece chapter alert blame goose citizen tent";

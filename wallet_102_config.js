@@ -1,1 +1,1 @@
-var mnemonic = "blush amused shop vintage desert bargain grass mutual love nothing segment must";
+var mnemonic = "cabin ribbon fence across know unable upper load clutch during grape absurd";

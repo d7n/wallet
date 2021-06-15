@@ -1,1 +1,1 @@
-var mnemonic = "anger decorate ticket pelican divert desk wet drip actor social welcome staff";
+var mnemonic = "myself armed stable venue series damage spot region crane forest path human";

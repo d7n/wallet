@@ -1,1 +1,1 @@
-var mnemonic = "direct often era end civil adult nice simple share army slim shuffle";
+var mnemonic = "afraid over road funny light sadness empower off naive smooth apology shadow";

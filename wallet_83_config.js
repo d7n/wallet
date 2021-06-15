@@ -1,1 +1,1 @@
-var mnemonic = "sunset must kind proud assume riot setup meat draw border immense science";
+var mnemonic = "lemon trumpet carry luxury tent all flag device switch visa student dignity";

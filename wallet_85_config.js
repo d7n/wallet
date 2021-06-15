@@ -1,1 +1,1 @@
-var mnemonic = "search delay prosper enable virus motion coffee certain sense arrest sponsor asthma";
+var mnemonic = "session duty popular mail delay gossip stage ring upset job tattoo viable";

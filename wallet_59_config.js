@@ -1,1 +1,1 @@
-var mnemonic = "dirt unit history pride humble frozen city pledge math digital undo fantasy";
+var mnemonic = "sentence shrimp claim rain detect twin dignity hundred guide sure dismiss engage";

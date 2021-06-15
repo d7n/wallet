@@ -1,1 +1,1 @@
-var mnemonic = "dutch argue remind urban license way today tiger inmate bean oxygen boring";
+var mnemonic = "bamboo genius nut silver unaware winter invest mom rifle leisure design pretty";

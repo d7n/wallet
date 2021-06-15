@@ -1,1 +1,1 @@
-var mnemonic = "flavor cash bleak truly order glare two crush chaos casino action come";
+var mnemonic = "employ deal remind warm prepare empower gauge mother chunk pony cake also";

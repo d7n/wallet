@@ -1,1 +1,1 @@
-var mnemonic = "blast breeze aunt knee soccer text tired fragile replace end material funny";
+var mnemonic = "history fresh clarify people garlic nature nerve dirt candy glory horn diagram";

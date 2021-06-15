@@ -1,1 +1,1 @@
-var mnemonic = "seat isolate cloth draw front churn holiday loud window pave state unable";
+var mnemonic = "submit member seven lazy assume fossil gasp soul web tackle improve salad";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken snake romance iron cheese world laptop cave scrap stuff ski bone";
+var mnemonic = "agent such car offer expand border knife yard clever shoulder spoon clown";

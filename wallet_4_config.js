@@ -1,1 +1,1 @@
-var mnemonic = "hero regret absurd echo sorry ranch outer market uniform love simple cost";
+var mnemonic = "rapid call capable tomorrow volcano pet pattern pelican chapter catalog random screen";

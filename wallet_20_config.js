@@ -1,1 +1,1 @@
-var mnemonic = "plug actor among accuse disorder glass also picture input marble lecture slim";
+var mnemonic = "dynamic faculty benefit symbol gadget sunny shy below sword cement armor flock";

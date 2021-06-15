@@ -1,1 +1,1 @@
-var mnemonic = "rigid view direct riot vivid peanut drum range coast garden moment danger";
+var mnemonic = "squeeze shuffle depart tone bar office idle husband spatial miracle cousin tonight";

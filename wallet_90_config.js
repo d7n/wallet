@@ -1,1 +1,1 @@
-var mnemonic = "bubble fetch orchard parrot symptom chimney domain name panda exercise novel until";
+var mnemonic = "smart body afraid fancy tiny jungle dinner recipe swim letter share winter";

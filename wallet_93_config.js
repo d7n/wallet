@@ -1,1 +1,1 @@
-var mnemonic = "number theme sail random distance total grab body board artwork view fatigue";
+var mnemonic = "edit swim easily fold arrive hollow collect blood ready method swallow pitch";

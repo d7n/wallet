@@ -1,1 +1,1 @@
-var mnemonic = "erode civil whale bitter pepper sign shuffle alpha alien rubber endorse pelican";
+var mnemonic = "peasant cool frozen avoid multiply lawn rate orient trigger dismiss luxury voice";

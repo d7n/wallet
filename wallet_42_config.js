@@ -1,1 +1,1 @@
-var mnemonic = "profit list latin kiwi absurd clog universe design cabbage mention elder dilemma";
+var mnemonic = "quick guard admit light that manage sort nasty quick virtual account badge";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry toddler enable oxygen auto adult crumble laundry spoil dial earn analyst";
+var mnemonic = "faith exist giant hockey property input vivid wisdom trophy unique famous country";

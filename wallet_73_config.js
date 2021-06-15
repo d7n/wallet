@@ -1,1 +1,1 @@
-var mnemonic = "width case head matter pilot guitar explain track horror broccoli window rail";
+var mnemonic = "panther awake snack cargo nice soul biology quantum swallow project improve change";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce coyote guard hundred uniform camera barely twenty vast view immense glide";
+var mnemonic = "scorpion dice canoe random unfair toy protect cage term myself brisk vast";

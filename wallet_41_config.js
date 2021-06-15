@@ -1,1 +1,1 @@
-var mnemonic = "vehicle wire oblige rebel tree gasp merry smooth tumble tomato rabbit sand";
+var mnemonic = "social silent human swift put credit rough icon senior zoo cancel payment";

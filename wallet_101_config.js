@@ -1,1 +1,1 @@
-var mnemonic = "mammal absorb boy flag live analyst term wisdom size exhaust erosion code";
+var mnemonic = "spike stage outer frown image invest giggle hungry bag garage junk mass";

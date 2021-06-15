@@ -1,1 +1,1 @@
-var mnemonic = "believe repeat adapt pattern outdoor knee local canyon canyon coyote spin road";
+var mnemonic = "nurse mammal hundred hollow puppy minor owner soccer actress clutch rally park";

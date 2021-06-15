@@ -1,1 +1,1 @@
-var mnemonic = "two brisk aisle evolve prevent position all issue excess stage minor target";
+var mnemonic = "domain ramp sweet stadium fashion fantasy marine siren miss wild alien renew";

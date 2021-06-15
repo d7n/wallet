@@ -1,1 +1,1 @@
-var mnemonic = "arctic chapter nest wait vicious company certain ripple rubber hen dumb canyon";
+var mnemonic = "borrow lecture sense nut clump knife mesh cradle wrong leopard wheat upon";

@@ -1,1 +1,1 @@
-var mnemonic = "wild narrow room throw soul budget destroy web sing half morning orient";
+var mnemonic = "amazing inch round educate hammer clog company apple ill tennis eagle guess";

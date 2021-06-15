@@ -1,1 +1,1 @@
-var mnemonic = "list reopen wink illness stove output message insane cook yard learn web";
+var mnemonic = "decide oyster denial unlock stool alone giant movie crumble town need discover";

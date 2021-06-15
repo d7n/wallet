@@ -1,1 +1,1 @@
-var mnemonic = "pelican laundry speak venue phrase vacant suggest live meat output punch sword";
+var mnemonic = "release bring clip drip derive below height claw marble concert lonely ticket";

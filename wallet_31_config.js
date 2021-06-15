@@ -1,1 +1,1 @@
-var mnemonic = "asset orphan mechanic roof liquid final town voyage supply head pride grocery";
+var mnemonic = "media gaze brief purpose predict holiday lab bus tonight alone dice strong";

@@ -1,1 +1,1 @@
-var mnemonic = "churn tell van route this flee deer level vault trash teach journey";
+var mnemonic = "orient must era again agent invite giraffe sketch release update word strong";

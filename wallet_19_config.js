@@ -1,1 +1,1 @@
-var mnemonic = "core maximum danger unknown tray tribe illegal legend pet enact quiz scrap";
+var mnemonic = "chef seek mountain custom tail army pink night quality moment quarter gift";

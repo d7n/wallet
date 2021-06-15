@@ -1,1 +1,1 @@
-var mnemonic = "enable section paper usage average indicate bundle seed smooth hundred ketchup found";
+var mnemonic = "drink lounge outer arctic logic cream lizard tag mechanic brass icon yellow";

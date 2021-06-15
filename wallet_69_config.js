@@ -1,1 +1,1 @@
-var mnemonic = "long source whale text panel illegal doll maximum style planet spoon know";
+var mnemonic = "tag rose bus cube coin bronze fashion cross minimum churn cover firm";

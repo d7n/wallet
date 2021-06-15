@@ -1,1 +1,1 @@
-var mnemonic = "merge wolf bargain suspect garment cheese fringe tiny reunion add lion crane";
+var mnemonic = "prevent renew muscle play regular anchor page excess better track verb bike";

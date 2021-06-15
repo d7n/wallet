@@ -1,1 +1,1 @@
-var mnemonic = "frog glue abuse arm timber yard super across actress open refuse shell";
+var mnemonic = "image room ready imitate dinosaur tone gun need pepper mango emerge region";

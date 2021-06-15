@@ -1,1 +1,1 @@
-var mnemonic = "copy material palace wage sick midnight recycle essay sketch witness detail decline";
+var mnemonic = "regular purchase word august inner hair craft frozen thunder mimic couple advance";

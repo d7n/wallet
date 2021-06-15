@@ -1,1 +1,1 @@
-var mnemonic = "cart night shine access nerve snow fish teach margin color club used";
+var mnemonic = "bottom question vague diet foot exist curtain mean mirror kitchen range street";

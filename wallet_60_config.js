@@ -1,1 +1,1 @@
-var mnemonic = "garden employ stomach throw danger result twist mushroom faculty reward proud noodle";
+var mnemonic = "deny arena figure window shoot couple marine crush cook rabbit topic lumber";

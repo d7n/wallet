@@ -1,1 +1,1 @@
-var mnemonic = "mail borrow canyon poem staff suggest hurdle must process derive pledge situate";
+var mnemonic = "tenant glue shine forward behave unhappy junior below draw chief parrot door";

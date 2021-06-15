@@ -1,1 +1,1 @@
-var mnemonic = "oval breeze raw tired excuse manage casual ivory quiz broken tent bread";
+var mnemonic = "grief random stumble destroy assault song outer place merit tomorrow feel empty";

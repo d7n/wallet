@@ -1,1 +1,1 @@
-var mnemonic = "share huge bitter weekend gate express prevent nerve group basic spoon gospel";
+var mnemonic = "wall dry drive before typical depend frown coconut glass mystery holiday copper";

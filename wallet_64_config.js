@@ -1,1 +1,1 @@
-var mnemonic = "torch second disagree table vague tackle cable black child false pull relax";
+var mnemonic = "tomato submit slight glove current fatigue flash cigar cereal shed spider update";

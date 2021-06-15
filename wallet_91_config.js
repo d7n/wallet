@@ -1,1 +1,1 @@
-var mnemonic = "ability vacant elbow ancient harvest crowd off month debris one please resource";
+var mnemonic = "double weasel earn magic attitude tower chapter swim toast owner task insect";

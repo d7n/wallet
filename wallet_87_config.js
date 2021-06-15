@@ -1,1 +1,1 @@
-var mnemonic = "hip rich aisle alone grow industry pair boss person frog resource soda";
+var mnemonic = "panic chief amateur minor fold coin want rabbit health source primary toilet";

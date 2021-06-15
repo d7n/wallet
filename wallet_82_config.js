@@ -1,1 +1,1 @@
-var mnemonic = "tunnel slender until priority cargo anger combine illegal hope arrive give survey";
+var mnemonic = "remove subway fade century bus soon dice imitate traffic parent pulse oil";

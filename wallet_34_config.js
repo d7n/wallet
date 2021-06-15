@@ -1,1 +1,1 @@
-var mnemonic = "oven eight toy crop lecture color brisk bring balcony age gossip giggle";
+var mnemonic = "crew enough stove unveil nest layer quiz tide huge flag mercy stomach";

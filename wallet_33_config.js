@@ -1,1 +1,1 @@
-var mnemonic = "move easily lunar lab suit evoke adapt vacuum dismiss pumpkin since subject";
+var mnemonic = "glide uniform brown moon mushroom source reward betray this replace dad chair";

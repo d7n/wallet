@@ -1,1 +1,1 @@
-var mnemonic = "chest vapor teach mesh scheme cage young steel pumpkin chapter fat solar";
+var mnemonic = "snap must before lizard promote enact mercy pigeon loan adjust cram cherry";

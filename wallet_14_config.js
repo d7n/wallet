@@ -1,1 +1,1 @@
-var mnemonic = "upon humble apology power worth bus little melt witness hood evolve snake";
+var mnemonic = "police ritual rather tip leader monkey level input second empty escape nation";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle blush holiday glad charge lucky margin remain release test trip fetch";
+var mnemonic = "neglect tissue brand elevator humble job put visa audit skill captain name";

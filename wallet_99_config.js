@@ -1,1 +1,1 @@
-var mnemonic = "shrug egg similar ice inhale unaware tomato spare zero release rain wheat";
+var mnemonic = "ankle insect vehicle slush hero match stuff sugar speak radar garden notice";
