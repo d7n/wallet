@@ -1,1 +1,1 @@
-var mnemonic = "hat just stem virtual enroll rival skirt castle undo extend kangaroo marine";
+var mnemonic = "raccoon rally broom host orange fire shadow cry pull illness inch crew";

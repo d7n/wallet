@@ -1,1 +1,1 @@
-var mnemonic = "face item fossil album puppy bid arm thing desk bachelor where plastic";
+var mnemonic = "burden concert wedding into stomach bulb person amused keen drive noodle clock";

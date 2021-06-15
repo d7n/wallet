@@ -1,1 +1,1 @@
-var mnemonic = "abuse toddler solution grid end walnut adapt amazing level coil fade live";
+var mnemonic = "marine clarify little fatigue stage project brief mesh advance radio grief tennis";

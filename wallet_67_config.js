@@ -1,1 +1,1 @@
-var mnemonic = "dance body random lunar elbow recycle first sad delay easily very liar";
+var mnemonic = "suit bracket razor collect sleep text afraid damage twist way source license";

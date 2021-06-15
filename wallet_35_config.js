@@ -1,1 +1,1 @@
-var mnemonic = "spring grit team film motor window true merge blade snack empower burger";
+var mnemonic = "pulp goose jeans ring best coconut advance clean boat tragic pattern maple";

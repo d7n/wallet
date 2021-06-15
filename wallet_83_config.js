@@ -1,1 +1,1 @@
-var mnemonic = "volcano sand bridge depend cabbage kangaroo smooth language dinosaur flight tired dad";
+var mnemonic = "salt hour thumb release surface capital govern tackle cinnamon sunny strike spend";

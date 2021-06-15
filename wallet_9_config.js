@@ -1,1 +1,1 @@
-var mnemonic = "burger snack affair delay swallow modify build like smart plug media illegal";
+var mnemonic = "salt beauty tomorrow whisper leisure churn resource miracle talent rely half ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "basket farm begin someone suit pen hood voyage betray upset winter soft";
+var mnemonic = "property title okay coast island collect fossil forget canvas special cheap old";

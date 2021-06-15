@@ -1,1 +1,1 @@
-var mnemonic = "couple panda sand quality lady method silent coyote hobby busy sort merge";
+var mnemonic = "chef social bounce will anxiety tuition wine betray urge head struggle lucky";

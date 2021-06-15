@@ -1,1 +1,1 @@
-var mnemonic = "mean hurry decrease decline turn ethics matter aisle stone cannon spy curtain";
+var mnemonic = "parade easy voyage relief sister wrap there unaware pave soon stage notable";

@@ -1,1 +1,1 @@
-var mnemonic = "assume grow silly apple discover siren title cancel install month alpha wear";
+var mnemonic = "never debris original raw sudden hundred begin sketch among oil poet jelly";

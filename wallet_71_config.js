@@ -1,1 +1,1 @@
-var mnemonic = "chicken one today fury moment model effort subject issue cruel boost gun";
+var mnemonic = "tomorrow swarm body prevent gaze silver chapter hole provide mind gold danger";

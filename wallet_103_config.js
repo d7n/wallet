@@ -1,1 +1,1 @@
-var mnemonic = "sting toss punch option lobster popular divorce young subway moon alarm assault";
+var mnemonic = "october economy help happy burden remove author question oven sphere age armor";

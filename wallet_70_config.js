@@ -1,1 +1,1 @@
-var mnemonic = "oppose race evidence shy clip buffalo siren worth clinic puzzle movie liar";
+var mnemonic = "surprise move dream garlic cloth surge timber hospital scrub forget lady cinnamon";

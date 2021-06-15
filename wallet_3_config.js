@@ -1,1 +1,1 @@
-var mnemonic = "cover hour despair fork demand hold shoot bean glue measure diary quit";
+var mnemonic = "october wall smart property again write random mother when result luxury play";

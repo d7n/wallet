@@ -1,1 +1,1 @@
-var mnemonic = "blush path volcano develop together garbage dune you diet borrow inform cube";
+var mnemonic = "scare brand virtual there foot absorb kiwi future patch library expand option";

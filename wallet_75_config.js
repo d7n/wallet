@@ -1,1 +1,1 @@
-var mnemonic = "kick stand fork silent grit crater pioneer peasant mass artwork excuse protect";
+var mnemonic = "idea raise decide board field used project shock mother vivid tiger clock";

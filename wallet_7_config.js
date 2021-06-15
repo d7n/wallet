@@ -1,1 +1,1 @@
-var mnemonic = "alter damage capital spoon very web layer job loyal depend flock fluid";
+var mnemonic = "flee fancy deliver drama casual replace skull moment globe garlic jelly tail";

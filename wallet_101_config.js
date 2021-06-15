@@ -1,1 +1,1 @@
-var mnemonic = "kid oblige midnight ridge unhappy judge hire trigger legend mesh swift initial";
+var mnemonic = "erupt join final junior impact vicious initial define click guilt swarm dish";

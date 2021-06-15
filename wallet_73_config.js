@@ -1,1 +1,1 @@
-var mnemonic = "mountain depth bounce pistol scene limit stay donor usual shine kick toe";
+var mnemonic = "popular confirm march curtain radio poverty say change cargo basic gravity estate";

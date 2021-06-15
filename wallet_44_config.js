@@ -1,1 +1,1 @@
-var mnemonic = "there park turtle charge style orient depend dumb face client remember immense";
+var mnemonic = "emotion witness decline dove chest scene design sphere winner under hybrid strategy";

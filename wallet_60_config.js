@@ -1,1 +1,1 @@
-var mnemonic = "amount stairs address just fork buffalo slender split aim swim patient element";
+var mnemonic = "ability pumpkin gas warm decline again fever scout dentist party repair question";

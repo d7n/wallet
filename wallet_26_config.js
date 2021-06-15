@@ -1,1 +1,1 @@
-var mnemonic = "joy clarify onion action enroll private cross deal size sport flock crowd";
+var mnemonic = "cave end rice prosper crawl long left execute memory armed pond strike";

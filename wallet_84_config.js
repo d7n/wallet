@@ -1,1 +1,1 @@
-var mnemonic = "code wrong stand tank toast light token twice badge snack hospital dumb";
+var mnemonic = "fragile slogan often horn pitch ankle injury coil find bubble rack tape";

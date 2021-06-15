@@ -1,1 +1,1 @@
-var mnemonic = "thumb glare multiply security raven cross genius quantum stove jacket valve soccer";
+var mnemonic = "custom stomach worth erosion october box hen pistol dumb frequent local north";

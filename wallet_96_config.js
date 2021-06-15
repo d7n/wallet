@@ -1,1 +1,1 @@
-var mnemonic = "choice movie liquid spawn fault trick polar fire chapter assist hamster swallow";
+var mnemonic = "prize fatigue advice sail pluck explain powder kick report keep habit session";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd vocal grab tortoise attend session cushion trouble butter width spoil grain";
+var mnemonic = "swamp annual rifle brother number praise steel shoot allow cat uniform donkey";

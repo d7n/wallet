@@ -1,1 +1,1 @@
-var mnemonic = "record world horn light mistake excess dawn cash stone patrol letter aunt";
+var mnemonic = "prefer swallow smoke paper eye silk scout spring similar december hip guess";

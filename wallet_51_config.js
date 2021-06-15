@@ -1,1 +1,1 @@
-var mnemonic = "master rent rival arrow bamboo visual economy early eyebrow scrap lake nerve";
+var mnemonic = "simple bulk erupt moment never flip tribe rebel fame sing device swear";

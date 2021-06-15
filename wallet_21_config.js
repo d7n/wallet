@@ -1,1 +1,1 @@
-var mnemonic = "topple scene assist carbon vocal balcony stay vacant collect vehicle express grunt";
+var mnemonic = "please glance item ginger omit human project rocket crop drum power bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "among obvious lecture sample swap meadow inflict drum blush build harbor aerobic";
+var mnemonic = "enter layer absurd task open weird extra paddle donkey supply coil able";

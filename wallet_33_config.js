@@ -1,1 +1,1 @@
-var mnemonic = "earn bind moral clay dynamic kiss deputy timber employ advance canal chimney";
+var mnemonic = "staff since opera author silent luxury settle left lottery inform broccoli call";

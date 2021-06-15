@@ -1,1 +1,1 @@
-var mnemonic = "lounge wedding coast hub weather under goose wish knife mail medal absent";
+var mnemonic = "mountain shallow decline sting enter chief young reject expose december army scout";

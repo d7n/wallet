@@ -1,1 +1,1 @@
-var mnemonic = "one sphere chase author swear room day tortoise crew hollow lake crime";
+var mnemonic = "state ahead dress thing thank gauge inherit very wood company diagram trash";

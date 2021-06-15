@@ -1,1 +1,1 @@
-var mnemonic = "mule brief sport depart hard unique piano worry canoe cruel around topple";
+var mnemonic = "cousin frost hat whale upset large trade example broom boring cradle merge";

@@ -1,1 +1,1 @@
-var mnemonic = "open genius grain snack venture amateur aspect pepper build engine tenant snow";
+var mnemonic = "share crazy general actor burst genuine swear wet shift baby oppose person";

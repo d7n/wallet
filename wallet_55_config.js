@@ -1,1 +1,1 @@
-var mnemonic = "pitch margin puppy flavor charge dutch column struggle patrol story home gadget";
+var mnemonic = "satoshi cruise estate pony manual joke trouble bridge flat knee fit cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "okay yellow letter lion voice bless script artist general achieve local scissors";
+var mnemonic = "skull merit model canvas cable domain lamp acquire trust twenty matter strike";

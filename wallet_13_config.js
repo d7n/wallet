@@ -1,1 +1,1 @@
-var mnemonic = "lonely video parent also motion cigar snack already attack stone orient venue";
+var mnemonic = "myth cage hunt oyster sick feature maze dust release scatter twenty denial";

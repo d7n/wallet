@@ -1,1 +1,1 @@
-var mnemonic = "traffic dance guard reform table seminar patient share arm seven narrow escape";
+var mnemonic = "nerve tape define will escape run cherry flat before draft coyote nephew";

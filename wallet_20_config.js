@@ -1,1 +1,1 @@
-var mnemonic = "three way beef stock saddle buzz shadow upper cushion village comfort alone";
+var mnemonic = "soft dash timber often deliver group much prevent enough execute arm debris";

@@ -1,1 +1,1 @@
-var mnemonic = "survey craft among common coil onion prosper label anxiety found disease bread";
+var mnemonic = "window cable giant wolf cushion vintage proud unusual cruise like innocent meadow";

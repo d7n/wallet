@@ -1,1 +1,1 @@
-var mnemonic = "ivory view item town yellow find already other pizza rapid kite panic";
+var mnemonic = "slush weather solution disorder bargain oil limit game pupil trouble season major";

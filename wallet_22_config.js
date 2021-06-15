@@ -1,1 +1,1 @@
-var mnemonic = "stamp marriage cave suggest body size hockey canyon apology bind still famous";
+var mnemonic = "fluid provide slogan skull code script quiz library junk prevent hobby host";

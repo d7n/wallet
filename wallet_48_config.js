@@ -1,1 +1,1 @@
-var mnemonic = "charge kangaroo table local affair boat planet engine glimpse supply error salt";
+var mnemonic = "capable cluster muffin borrow prize tribe attend spice birth cost permit stuff";

@@ -1,1 +1,1 @@
-var mnemonic = "impact silent because vehicle piece park pepper enlist evil add can loan";
+var mnemonic = "candy that aerobic bike praise neither hurry employ hawk clay someone discover";

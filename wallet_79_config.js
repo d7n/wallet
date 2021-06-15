@@ -1,1 +1,1 @@
-var mnemonic = "avoid enlist rally vault month crazy vacuum guitar fatal goat deny essence";
+var mnemonic = "cabin dumb oak cluster clever stay dad loan donor enforce light hundred";

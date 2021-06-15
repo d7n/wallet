@@ -1,1 +1,1 @@
-var mnemonic = "misery ocean round enact chimney assault vessel note swing treat total thing";
+var mnemonic = "stadium outdoor dentist tray fault never good adapt sound guard sniff panther";

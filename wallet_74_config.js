@@ -1,1 +1,1 @@
-var mnemonic = "lab field circle road stomach eternal auto decline unveil acoustic autumn tattoo";
+var mnemonic = "jealous planet nice ancient wink marine debate shift know finger become comfort";

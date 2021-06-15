@@ -1,1 +1,1 @@
-var mnemonic = "excite siege example logic one long hope uncover symptom disease torch able";
+var mnemonic = "august bean dismiss glue plastic hover high math choice morning level tray";

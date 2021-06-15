@@ -1,1 +1,1 @@
-var mnemonic = "unusual trumpet virtual fish breeze bamboo outdoor hazard candy paper width save";
+var mnemonic = "want rain episode museum dice million credit rival slot toe accuse seat";

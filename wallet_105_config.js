@@ -1,1 +1,1 @@
-var mnemonic = "process release where capital dirt middle eternal purse coral erase virtual crystal";
+var mnemonic = "social employ obey witness rug pigeon assist vote hospital undo unusual health";

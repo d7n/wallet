@@ -1,1 +1,1 @@
-var mnemonic = "tiger stereo fee torch flash credit defy laundry escape bunker holiday virus";
+var mnemonic = "weird grab syrup heavy sing shaft consider pill future cover exchange check";

@@ -1,1 +1,1 @@
-var mnemonic = "employ artefact faculty dismiss illness giggle modify element deer legal arctic whisper";
+var mnemonic = "alien spend include erase cushion range amazing horn napkin holiday journey crater";

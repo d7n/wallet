@@ -1,1 +1,1 @@
-var mnemonic = "sudden science same material rib stay all stove raven climb razor hurdle";
+var mnemonic = "name lonely topic churn ill odor reform wing base dismiss try daring";

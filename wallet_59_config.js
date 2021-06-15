@@ -1,1 +1,1 @@
-var mnemonic = "maze accident witness junior riot six other office suit unusual also asthma";
+var mnemonic = "upper bid pistol match coffee either option dust eyebrow eyebrow update barrel";

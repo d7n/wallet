@@ -1,1 +1,1 @@
-var mnemonic = "vivid silk solar unknown concert session brief believe extend tornado arch thrive";
+var mnemonic = "actress diesel direct regret warrior alcohol boss across tail target drop october";

@@ -1,1 +1,1 @@
-var mnemonic = "use battle lava oyster hospital auto rib mention portion fatal tip brush";
+var mnemonic = "venue possible time humor diet dog answer sauce shove napkin now remind";

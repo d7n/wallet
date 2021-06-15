@@ -1,1 +1,1 @@
-var mnemonic = "envelope alert dismiss emerge fun design decorate prize calm artist result unit";
+var mnemonic = "short region market sudden key travel depart cool found mammal drift kangaroo";

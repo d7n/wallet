@@ -1,1 +1,1 @@
-var mnemonic = "demise funny carpet pair pause island marble diet thank nerve impulse tornado";
+var mnemonic = "hammer furnace curtain update hobby hood miss flower rather security scrub uphold";

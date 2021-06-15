@@ -1,1 +1,1 @@
-var mnemonic = "behave attract staff muffin insect catalog major dinosaur live wasp cute silly";
+var mnemonic = "cabin office escape vital negative wait metal tuna pattern finger census table";

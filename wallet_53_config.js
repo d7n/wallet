@@ -1,1 +1,1 @@
-var mnemonic = "evoke wife stand come vivid skin wall wild pave slam age upgrade";
+var mnemonic = "resemble cherry shadow airport brush left forget blast crucial inch warrior worry";

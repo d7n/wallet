@@ -1,1 +1,1 @@
-var mnemonic = "grape mom gift net amount tape push source ankle own lens multiply";
+var mnemonic = "rather finger voyage math topple surprise weapon educate sponsor radar forum have";

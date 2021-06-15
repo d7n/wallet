@@ -1,1 +1,1 @@
-var mnemonic = "slide wide subject liquid apology random term advance dune okay wear hundred";
+var mnemonic = "local brave dignity live dentist drum turkey canal cry shed better raven";

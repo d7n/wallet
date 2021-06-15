@@ -1,1 +1,1 @@
-var mnemonic = "top lava pulp region disorder blanket awake retire theory enlist decrease middle";
+var mnemonic = "connect spider mango cable film recycle can top promote resource club approve";

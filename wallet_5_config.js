@@ -1,1 +1,1 @@
-var mnemonic = "photo more play either brother uphold pulp hunt bacon reward tornado ticket";
+var mnemonic = "gravity april affair you cycle thrive forum valve federal frozen era tool";

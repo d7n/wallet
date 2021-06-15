@@ -1,1 +1,1 @@
-var mnemonic = "holiday ghost acid rabbit leopard era loyal lawn safe road scatter inhale";
+var mnemonic = "advance lens away detect grape tragic despair hold time issue stadium decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess flight hat zoo busy engage puzzle material shrug catch green favorite";
+var mnemonic = "coconut coast actress bless renew mercy maple wish any bubble twin hat";

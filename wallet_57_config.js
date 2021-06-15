@@ -1,1 +1,1 @@
-var mnemonic = "salad dignity rack page bag spatial remove process hobby scare monkey indicate";
+var mnemonic = "cage final ride jelly title tissue minimum shoe escape thing margin video";

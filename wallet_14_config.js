@@ -1,1 +1,1 @@
-var mnemonic = "output hip rose glad make fall hint income script candy mistake outdoor";
+var mnemonic = "baby casual lobster ripple chief inch believe gloom coil venue clap supply";

@@ -1,1 +1,1 @@
-var mnemonic = "seek number vessel weasel canoe skull allow brush kangaroo raw mix reveal";
+var mnemonic = "dragon high member tomato during rotate update purpose diesel genius element dinosaur";

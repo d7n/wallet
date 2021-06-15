@@ -1,1 +1,1 @@
-var mnemonic = "connect pulse similar trophy remember nut cinnamon unhappy whisper bone gate fly";
+var mnemonic = "autumn manage palace balance shoe reject light pledge imitate pigeon earn park";

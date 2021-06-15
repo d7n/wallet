@@ -1,1 +1,1 @@
-var mnemonic = "satisfy pottery protect design fantasy city impact keen habit gather away negative";
+var mnemonic = "account enlist base erosion salt collect barrel joke motor scrap noodle naive";

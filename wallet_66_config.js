@@ -1,1 +1,1 @@
-var mnemonic = "bring atom sleep major find differ all culture call ripple rebuild describe";
+var mnemonic = "dash april lazy seven rubber giant wagon ill oyster edit violin trust";

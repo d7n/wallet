@@ -1,1 +1,1 @@
-var mnemonic = "inch observe cannon spoil grit suggest behave tomato bless funny cost flush";
+var mnemonic = "stamp aunt position mercy resource huge walnut hotel rather problem alter daring";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle practice decline theory reason tribe volume cushion admit essence orchard dragon";
+var mnemonic = "cheese add regret grant whisper unveil spot okay basket skull dose marble";

@@ -1,1 +1,1 @@
-var mnemonic = "draft grocery afraid lobster lobster legend gown model bubble tobacco liar truth";
+var mnemonic = "seven load return wrong coral quantum noise melt leader weird delay journey";

@@ -1,1 +1,1 @@
-var mnemonic = "race fiscal spatial hedgehog uniform worry basket crumble palm mixed bus dizzy";
+var mnemonic = "behave solar permit rural patch release tilt outdoor demand eyebrow venture merit";

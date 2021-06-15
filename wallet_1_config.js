@@ -1,1 +1,1 @@
-var mnemonic = "tomato pulp adapt smile unable fence brisk mixture more plate laugh miss";
+var mnemonic = "strong old corn borrow slight vocal price warrior flash cook pause sphere";

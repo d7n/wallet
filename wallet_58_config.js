@@ -1,1 +1,1 @@
-var mnemonic = "sad ceiling hope tobacco priority because process bird game swift huge tiger";
+var mnemonic = "sight left mango weapon empower unaware genius tenant hard salt maid gap";

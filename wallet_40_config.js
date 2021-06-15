@@ -1,1 +1,1 @@
-var mnemonic = "acquire race solid innocent patch coast pretty curtain fold scale reduce crane";
+var mnemonic = "inhale sketch rebuild check december song strike false screen put riot dirt";

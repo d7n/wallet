@@ -1,1 +1,1 @@
-var mnemonic = "basic smooth nuclear neither royal dice flip tower shaft hazard glance speed";
+var mnemonic = "clerk congress kitten bottom vital ask mammal ensure oak pole dolphin wolf";

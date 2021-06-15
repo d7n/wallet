@@ -1,1 +1,1 @@
-var mnemonic = "name live lobster dust script knee liar resource undo also rubber trophy";
+var mnemonic = "decade put cake foam minute birth club trade satisfy buddy trim remember";

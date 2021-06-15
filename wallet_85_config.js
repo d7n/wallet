@@ -1,1 +1,1 @@
-var mnemonic = "alarm maid uncle top loop trigger insane knee hybrid young damp merry";
+var mnemonic = "fat prefer satisfy rally move color rich thrive patient enforce decide develop";

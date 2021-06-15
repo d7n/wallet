@@ -1,1 +1,1 @@
-var mnemonic = "frozen skirt antenna goat catch nominee chimney pepper stairs holiday wage cigar";
+var mnemonic = "stick bundle tent mind apology inspire despair shuffle grow key point walnut";

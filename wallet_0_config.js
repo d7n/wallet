@@ -1,1 +1,1 @@
-var mnemonic = "neutral elevator trim need donkey repeat solve possible era mistake certain open";
+var mnemonic = "umbrella hybrid radar find rack fever marine vanish skull sting topple elite";

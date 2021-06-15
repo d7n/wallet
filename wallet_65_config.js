@@ -1,1 +1,1 @@
-var mnemonic = "wedding profit various denial develop initial run turtle pepper blame coyote super";
+var mnemonic = "cover raw between movie tortoise cook version multiply trim olympic release load";
