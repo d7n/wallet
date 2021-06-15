@@ -1,1 +1,1 @@
-var mnemonic = "culture spawn song width lend ride parent antique humble wink board family";
+var mnemonic = "conduct hope maze present leopard village plastic drink fashion betray dizzy tennis";

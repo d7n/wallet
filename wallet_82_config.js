@@ -1,1 +1,1 @@
-var mnemonic = "city security priority first language coin reason push label room flight orchard";
+var mnemonic = "side such senior cart six own plate duty dune bubble panel trigger";

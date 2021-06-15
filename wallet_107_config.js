@@ -1,1 +1,1 @@
-var mnemonic = "cross believe rug visa embark motor plastic prefer surge detect grass short";
+var mnemonic = "furnace alien stuff robot floor slow mind size clutch refuse regular rather";

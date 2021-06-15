@@ -1,1 +1,1 @@
-var mnemonic = "convince tackle poverty like borrow monster soon boil differ harvest step essence";
+var mnemonic = "eyebrow surge usual alley capable genuine object practice tone dawn photo frequent";

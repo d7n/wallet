@@ -1,1 +1,1 @@
-var mnemonic = "entry rain august damage lab wild motor angle vapor happy doll source";
+var mnemonic = "pond merge piano year violin supreme fluid easily glory lock royal vocal";

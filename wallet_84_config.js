@@ -1,1 +1,1 @@
-var mnemonic = "toast goat myth cannon engage autumn cloud runway enough elephant cloud climb";
+var mnemonic = "tiger cruise robot flavor runway prefer hover wolf inquiry ghost panther input";

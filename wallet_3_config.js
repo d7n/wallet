@@ -1,1 +1,1 @@
-var mnemonic = "impulse bunker knife acoustic maple empty comfort reopen risk sport round poem";
+var mnemonic = "disagree swap mind cry atom calm grape truly apple until flip help";

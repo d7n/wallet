@@ -1,1 +1,1 @@
-var mnemonic = "spring visual audit bench portion short must film tongue fox another avoid";
+var mnemonic = "spell zone swift prepare stay month plunge clap fresh unlock virtual list";

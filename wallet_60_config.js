@@ -1,1 +1,1 @@
-var mnemonic = "virus genre mansion winner better afford invest immense metal result media always";
+var mnemonic = "toy run cram basic crystal buyer lemon season discover sausage relief speed";

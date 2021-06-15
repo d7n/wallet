@@ -1,1 +1,1 @@
-var mnemonic = "ugly shoulder slush awful spot volcano zero ecology session evoke wet large";
+var mnemonic = "bone believe spread vehicle future illness candy eyebrow regret powder bring change";

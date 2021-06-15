@@ -1,1 +1,1 @@
-var mnemonic = "pear love sight vacant price manual toddler album twin humor crater achieve";
+var mnemonic = "more final knee enter spoil cash ahead sugar broken gift monitor tilt";

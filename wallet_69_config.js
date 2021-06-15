@@ -1,1 +1,1 @@
-var mnemonic = "bike tooth rural notice auto cabbage tourist sing victory enter jar assault";
+var mnemonic = "baby ride interest middle tragic green cheap seminar only plug nerve fetch";

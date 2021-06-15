@@ -1,1 +1,1 @@
-var mnemonic = "grant kite jewel smoke assault leader stem chuckle reflect shy law junior";
+var mnemonic = "gossip vibrant target dignity happy normal pink rent put orchard square stable";

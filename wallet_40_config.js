@@ -1,1 +1,1 @@
-var mnemonic = "cattle nerve beach claim test ecology method visit forget aware pig label";
+var mnemonic = "emotion kit fossil virtual near visual ribbon fiber train glory chair sadness";

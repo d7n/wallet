@@ -1,1 +1,1 @@
-var mnemonic = "security paper adult predict undo marine exact erosion food dog arrange rent";
+var mnemonic = "remove thumb exile brown tonight another ribbon swap state floor rib enroll";

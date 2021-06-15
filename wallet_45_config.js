@@ -1,1 +1,1 @@
-var mnemonic = "sentence universe planet fatigue trick arch stone three reflect refuse message ten";
+var mnemonic = "safe shell found merge submit march much tumble rude tooth donor exercise";

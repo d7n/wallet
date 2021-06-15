@@ -1,1 +1,1 @@
-var mnemonic = "fix swift behave fade bind dismiss prize foam broccoli soda dinosaur tower";
+var mnemonic = "beach surface inquiry follow hockey light polar swallow manage upon uphold this";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve wrist soap ride dentist coral latin denial badge dream eye indoor";
+var mnemonic = "sniff shaft cross oxygen hunt chapter sell coconut cinnamon draw thought scene";

@@ -1,1 +1,1 @@
-var mnemonic = "actress resemble have teach fabric camp drastic favorite hurdle snack neutral gun";
+var mnemonic = "aspect elevator anger tube bean victory few still arch blue increase recipe";

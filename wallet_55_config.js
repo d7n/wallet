@@ -1,1 +1,1 @@
-var mnemonic = "taxi man valley screen ill shoe issue canvas crumble return material surface";
+var mnemonic = "rally fantasy ridge circle envelope pumpkin spike sure swift number middle talent";

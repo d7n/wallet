@@ -1,1 +1,1 @@
-var mnemonic = "amount beyond fiction zero motion squirrel only ahead glass guess air absurd";
+var mnemonic = "have saddle ranch scrub tornado annual logic vicious penalty spray armed era";

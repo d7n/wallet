@@ -1,1 +1,1 @@
-var mnemonic = "script attack flat aisle harbor kitchen style grant pottery hurt margin tourist";
+var mnemonic = "embark sentence assault seven rescue fever quantum silver powder arrive enough always";

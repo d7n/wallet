@@ -1,1 +1,1 @@
-var mnemonic = "debate open major element vacant buffalo pitch sketch receive main inject unaware";
+var mnemonic = "hint delay left cycle cattle animal goddess height boat absorb sausage acquire";

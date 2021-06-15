@@ -1,1 +1,1 @@
-var mnemonic = "true unable save gentle staff detect exclude vapor census record glue regret";
+var mnemonic = "atom fit penalty yellow theory ice main extra small island evil virus";

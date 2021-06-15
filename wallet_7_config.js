@@ -1,1 +1,1 @@
-var mnemonic = "can gold wall envelope scrub conduct solve buddy luggage warrior excuse bacon";
+var mnemonic = "pill worry deputy exercise grief portion utility actress reward that stamp install";

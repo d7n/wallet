@@ -1,1 +1,1 @@
-var mnemonic = "way balance ancient large upset core salmon embody cup crowd latin rebel";
+var mnemonic = "payment spawn stand already twenty crystal dog milk curtain blind magic border";

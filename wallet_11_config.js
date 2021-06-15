@@ -1,1 +1,1 @@
-var mnemonic = "again demand they verify across have cute desk unhappy harsh april rent";
+var mnemonic = "lyrics stuff cash audit address pride bubble test butter erode fence ketchup";

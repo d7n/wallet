@@ -1,1 +1,1 @@
-var mnemonic = "can tourist prosper monster local fever federal amazing dinosaur early hawk feel";
+var mnemonic = "copper spirit powder reduce child summer civil lady magnet boring health crew";

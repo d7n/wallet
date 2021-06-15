@@ -1,1 +1,1 @@
-var mnemonic = "human hungry shrimp ridge what nasty sustain claw girl tail update afraid";
+var mnemonic = "torch skull proud property consider what family shrug arrange library three boost";

@@ -1,1 +1,1 @@
-var mnemonic = "order evil list top shift slide burden inspire debate nasty ugly neither";
+var mnemonic = "volume edit soldier weather original sea kingdom virtual bottom orange youth grape";

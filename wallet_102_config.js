@@ -1,1 +1,1 @@
-var mnemonic = "lab twelve nation deny police barely wet quit argue tube message fold";
+var mnemonic = "barely naive receive rent ketchup toss you trophy banana suit shadow father";

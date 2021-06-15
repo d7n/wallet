@@ -1,1 +1,1 @@
-var mnemonic = "ugly bulb change theme slush mind deposit march spread orchard west unable";
+var mnemonic = "sister wing napkin purchase empower airport heavy kind drama unaware throw deliver";

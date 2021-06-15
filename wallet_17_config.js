@@ -1,1 +1,1 @@
-var mnemonic = "good aerobic submit gas friend park bachelor account mother direct already donor";
+var mnemonic = "property police autumn leaf swear love idle atom rice near judge magic";

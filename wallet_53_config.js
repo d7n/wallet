@@ -1,1 +1,1 @@
-var mnemonic = "drive guitar word gloom grape desk table taste void combine draft trust";
+var mnemonic = "lazy spy trip iron parent fruit unable bracket leader cousin keen guard";

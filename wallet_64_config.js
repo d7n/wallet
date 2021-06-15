@@ -1,1 +1,1 @@
-var mnemonic = "merry task attack orbit manual mouse dilemma attract cable canoe odor elegant";
+var mnemonic = "remain tobacco occur annual season fat nominee protect rare pattern diet glue";

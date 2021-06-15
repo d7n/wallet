@@ -1,1 +1,1 @@
-var mnemonic = "duty dutch leave device fossil country dentist chimney bone click friend doll";
+var mnemonic = "exist opinion increase reduce agent ensure cheese gorilla intact brave comic special";

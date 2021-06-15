@@ -1,1 +1,1 @@
-var mnemonic = "drive neither culture absent lunch vast easy lobster recall health offer kind";
+var mnemonic = "raise finger person possible rhythm uphold other toward surround alert umbrella tornado";

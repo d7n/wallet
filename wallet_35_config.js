@@ -1,1 +1,1 @@
-var mnemonic = "walnut mother key basket surge bachelor shrimp candy close elephant demand thumb";
+var mnemonic = "ability wrestle panther during monitor law about use paper heart rug curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna stay title scrap worth powder wish scissors toss trend era globe";
+var mnemonic = "route bright elbow elbow boil elevator valley dolphin noodle arm shove text";

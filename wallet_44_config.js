@@ -1,1 +1,1 @@
-var mnemonic = "index design assist pumpkin prison scout script license fee learn client unable";
+var mnemonic = "mad sound diamond nasty shallow oven mass milk camera gather camp much";

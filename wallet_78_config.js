@@ -1,1 +1,1 @@
-var mnemonic = "noodle tumble hard mammal change dial proof walnut rocket gym erupt refuse";
+var mnemonic = "shoot weapon acquire inner glide toe april fantasy dry town menu silver";

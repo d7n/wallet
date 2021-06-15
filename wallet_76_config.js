@@ -1,1 +1,1 @@
-var mnemonic = "thing lake mobile crucial bulb fault regret cover memory sport rubber canal";
+var mnemonic = "loop impose blind wash quiz bamboo oxygen small tooth february drink ocean";

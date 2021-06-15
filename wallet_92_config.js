@@ -1,1 +1,1 @@
-var mnemonic = "turtle wrist pen heart hidden reason used mom thought happy section soda";
+var mnemonic = "script pool before resemble kick slogan club put grant witness daring avoid";

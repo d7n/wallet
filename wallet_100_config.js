@@ -1,1 +1,1 @@
-var mnemonic = "defy walnut vast comfort object cube they aerobic veteran velvet few market";
+var mnemonic = "hard garment hard else autumn version focus mesh vanish wage immense disorder";

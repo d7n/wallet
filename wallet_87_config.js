@@ -1,1 +1,1 @@
-var mnemonic = "mammal barrel thrive poet sadness injury chat payment chest door trophy swift";
+var mnemonic = "spin kit federal bronze caught steel whip enrich father amateur analyst spray";

@@ -1,1 +1,1 @@
-var mnemonic = "cheap buzz proud armed keep ketchup gate chapter battle tribe woman wool";
+var mnemonic = "slide silver finger lemon ethics embark husband track shrug risk lady casino";

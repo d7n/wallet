@@ -1,1 +1,1 @@
-var mnemonic = "rival soccer same retire bring cloud craft cake box clarify oak ivory";
+var mnemonic = "flock flash other cross visual inspire relax target hawk jaguar lawn edge";

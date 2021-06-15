@@ -1,1 +1,1 @@
-var mnemonic = "sock find nuclear member leaf vehicle scheme ozone crater gym choice execute";
+var mnemonic = "paper rigid sound cool ozone egg grass recycle near diamond track save";

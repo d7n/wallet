@@ -1,1 +1,1 @@
-var mnemonic = "whale domain fee thumb anger cave finish exile outside banner soldier team";
+var mnemonic = "clown lock happy impose trick purity seek ranch good goddess trigger mouse";

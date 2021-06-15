@@ -1,1 +1,1 @@
-var mnemonic = "recall ivory sleep render lumber pilot slim glad diesel farm visa toast";
+var mnemonic = "bridge foot useless impose pyramid awesome kitten wish captain asthma deputy north";

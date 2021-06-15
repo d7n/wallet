@@ -1,1 +1,1 @@
-var mnemonic = "pencil ordinary quarter alien robust develop satisfy cram burst muffin situate hood";
+var mnemonic = "allow grape shallow excess fault reveal first canyon purity pumpkin inject tilt";

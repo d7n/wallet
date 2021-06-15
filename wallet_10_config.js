@@ -1,1 +1,1 @@
-var mnemonic = "cause buyer duty afraid simple whale scrap foil expire way cost health";
+var mnemonic = "inmate token rabbit sunny opinion venture undo knock absorb visual drive method";

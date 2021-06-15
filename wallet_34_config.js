@@ -1,1 +1,1 @@
-var mnemonic = "more boss pledge aim body between torch derive armed hockey eager entire";
+var mnemonic = "initial raw task fabric rude focus slide later company trim company used";

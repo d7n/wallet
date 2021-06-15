@@ -1,1 +1,1 @@
-var mnemonic = "elephant reunion school poem shift unveil debris ocean dust load rose south";
+var mnemonic = "buzz desk easily side bacon garment swing wage theory job toy jaguar";

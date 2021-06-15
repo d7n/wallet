@@ -1,1 +1,1 @@
-var mnemonic = "insane oven shock sadness fragile salt blood screen cause annual case end";
+var mnemonic = "derive clap shed bitter apple umbrella goat battle tuna casual slender obscure";

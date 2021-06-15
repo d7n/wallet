@@ -1,1 +1,1 @@
-var mnemonic = "luxury winner hidden finish elegant father torch speak happy review equip light";
+var mnemonic = "sock scrap around heart fuel more emotion earth fee include defy ahead";

@@ -1,1 +1,1 @@
-var mnemonic = "icon urban control law fence produce observe cement mail spread pride kiss";
+var mnemonic = "siren pink ozone fuel axis forget office half destroy you grit math";

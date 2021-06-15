@@ -1,1 +1,1 @@
-var mnemonic = "rival thumb side floor helmet afford time cost gap describe mix urge";
+var mnemonic = "ask marine resource insect illegal display viable armor attack gun outdoor absurd";

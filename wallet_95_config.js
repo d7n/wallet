@@ -1,1 +1,1 @@
-var mnemonic = "retreat regular fresh bullet hello own envelope start release final exercise pair";
+var mnemonic = "oyster school control economy bridge amateur silly crowd able fine sadness erupt";

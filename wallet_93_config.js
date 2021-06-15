@@ -1,1 +1,1 @@
-var mnemonic = "coast grid flip kitten tip fluid boil oil purity tent clean squeeze";
+var mnemonic = "female caution slide book claim elder spice right spare apart slide differ";

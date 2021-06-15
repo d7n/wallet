@@ -1,1 +1,1 @@
-var mnemonic = "invite subway error bronze kid cross music fit dog boss live supply";
+var mnemonic = "dose tennis lava voyage two awful craft pass entire below guitar used";

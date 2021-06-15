@@ -1,1 +1,1 @@
-var mnemonic = "cheap road exit other retire harvest tone tone habit main earn pool";
+var mnemonic = "output rich bread outdoor latin potato space skate stay present cruise there";

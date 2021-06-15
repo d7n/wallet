@@ -1,1 +1,1 @@
-var mnemonic = "rescue favorite marine captain noodle pear once swap series enroll turn symptom";
+var mnemonic = "general tilt thank spare attack flight brass scene train miracle side order";

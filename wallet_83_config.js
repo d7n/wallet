@@ -1,1 +1,1 @@
-var mnemonic = "awkward method review cigar half friend injury oppose route head repair gym";
+var mnemonic = "picture lecture wood birth cupboard elbow panic soda winner sketch crumble notice";

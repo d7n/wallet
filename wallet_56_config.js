@@ -1,1 +1,1 @@
-var mnemonic = "flat glass step roof cheese lend unaware much penalty balcony wave crop";
+var mnemonic = "thumb scale favorite believe invest van pretty room retire party super gauge";

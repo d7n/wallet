@@ -1,1 +1,1 @@
-var mnemonic = "daring nut check baby business demand market bronze owner unable interest camp";
+var mnemonic = "thought banana security notable trouble install job quit power acquire tone pink";

@@ -1,1 +1,1 @@
-var mnemonic = "burst anchor farm feature lamp company quit away neck era air welcome";
+var mnemonic = "ancient ability broom test bean size eager zone essay damage supply split";

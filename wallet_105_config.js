@@ -1,1 +1,1 @@
-var mnemonic = "noodle wheel kiwi shop relief female sphere enforce report raw vault dash";
+var mnemonic = "gate excite segment evil vapor woman exile army myself stem involve rather";

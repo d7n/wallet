@@ -1,1 +1,1 @@
-var mnemonic = "knife install tenant fold penalty world report universe coin yard umbrella since";
+var mnemonic = "village burger left sentence gadget reopen fluid chest human bring labor carry";

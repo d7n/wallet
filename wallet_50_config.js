@@ -1,1 +1,1 @@
-var mnemonic = "file kidney spawn goat fruit gesture west garage bind tent garlic bracket";
+var mnemonic = "crew observe moon jelly battle raw physical seed flee winter dress equip";

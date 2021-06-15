@@ -1,1 +1,1 @@
-var mnemonic = "essence hour uncle media save fox demise outside ball marine visa under";
+var mnemonic = "cross baby street hotel exclude level debate satisfy giant stadium bus jaguar";

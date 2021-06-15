@@ -1,1 +1,1 @@
-var mnemonic = "area series fat lake correct harbor sibling review hawk act abstract vague";
+var mnemonic = "knock sphere pass enroll diagram voice dismiss oil hood fantasy citizen diagram";

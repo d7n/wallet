@@ -1,1 +1,1 @@
-var mnemonic = "smoke young borrow logic artwork obey buyer polar bird expire alien grant";
+var mnemonic = "guess matrix crater bacon metal infant meat orphan armed season vendor skin";

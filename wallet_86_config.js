@@ -1,1 +1,1 @@
-var mnemonic = "decide sunny female wait math announce sound carpet jacket doll music cube";
+var mnemonic = "unaware surprise funny mushroom shoot muscle gospel teach hockey mystery ginger all";

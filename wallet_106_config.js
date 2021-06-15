@@ -1,1 +1,1 @@
-var mnemonic = "coconut mammal vanish drastic funny dry rib buzz autumn captain young blind";
+var mnemonic = "grape such theory charge tunnel rival crunch essence stable width horror ancient";

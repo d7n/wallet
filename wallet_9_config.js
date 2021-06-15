@@ -1,1 +1,1 @@
-var mnemonic = "eight sea high hill edge club feed list silver sting pelican entire";
+var mnemonic = "gaze venue junior plastic glue space follow blouse metal east coach have";

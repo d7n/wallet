@@ -1,1 +1,1 @@
-var mnemonic = "legend scheme order moon dynamic innocent toss cotton strike choose enroll empower";
+var mnemonic = "faint claw then famous box jelly blush crouch file few gold weird";

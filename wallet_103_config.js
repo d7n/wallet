@@ -1,1 +1,1 @@
-var mnemonic = "leader imitate between fix oxygen awkward silk employ monkey obey mobile hospital";
+var mnemonic = "course extra answer coconut invest garden aisle fly prefer upon home civil";

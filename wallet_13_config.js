@@ -1,1 +1,1 @@
-var mnemonic = "bacon pencil oval object pluck ask apology bracket nut price bleak custom";
+var mnemonic = "desk cereal game basic typical fee shrug reunion brave laundry grant flag";

@@ -1,1 +1,1 @@
-var mnemonic = "captain crane punch alert vast escape focus torch quarter hover round chuckle";
+var mnemonic = "brand patch poem shoulder beyond rough half kind erupt chicken grunt exhaust";

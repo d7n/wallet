@@ -1,1 +1,1 @@
-var mnemonic = "broccoli history deer solution age banana enjoy thunder mystery lounge kite hand";
+var mnemonic = "custom trim fan sick surprise enforce deny satisfy document damage gallery boost";

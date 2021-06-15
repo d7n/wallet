@@ -1,1 +1,1 @@
-var mnemonic = "olive clutch renew tide task advice photo rally game oak result calm";
+var mnemonic = "bird switch boring priority verb alarm moment again spring moment purpose harsh";

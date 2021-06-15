@@ -1,1 +1,1 @@
-var mnemonic = "youth crystal such claim blouse flame much shed around marine elbow super";
+var mnemonic = "save excuse horse excite fancy update funny jar green month expand level";

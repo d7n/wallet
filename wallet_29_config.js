@@ -1,1 +1,1 @@
-var mnemonic = "vendor adult arrow know wall ice alien account magic useless system summer";
+var mnemonic = "move leave shop armed ladder idle property tiger funny cattle burden before";

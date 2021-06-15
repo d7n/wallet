@@ -1,1 +1,1 @@
-var mnemonic = "frog desk strike slight jewel ostrich add plastic subject cram cousin borrow";
+var mnemonic = "wet decade label cube night minor sweet muffin track monster flower key";

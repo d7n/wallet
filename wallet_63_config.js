@@ -1,1 +1,1 @@
-var mnemonic = "school tank lab van office edit dynamic dynamic salt feed abuse blind";
+var mnemonic = "domain vehicle melt virus jacket hint talk garage open ordinary enact item";

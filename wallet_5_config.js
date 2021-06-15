@@ -1,1 +1,1 @@
-var mnemonic = "forest blast ice high beyond soda gadget vehicle adult display praise rubber";
+var mnemonic = "noodle core shrug olympic drive dose check wasp balance top retreat impulse";

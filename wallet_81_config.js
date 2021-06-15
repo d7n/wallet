@@ -1,1 +1,1 @@
-var mnemonic = "broken fan dinosaur measure tennis squeeze accuse change local define indoor alcohol";
+var mnemonic = "suit kind wait glare spider wheel patient retire price sustain afford season";

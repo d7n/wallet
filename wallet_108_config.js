@@ -1,1 +1,1 @@
-var mnemonic = "shoe melt clarify typical where slow glue avocado impose glimpse pistol escape";
+var mnemonic = "sting bring mystery thought rough glad protect comfort mass maze yellow account";

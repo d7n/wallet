@@ -1,1 +1,1 @@
-var mnemonic = "turkey obscure sell fresh caught laundry raccoon feature detail vague admit north";
+var mnemonic = "script only pig obtain rural city undo citizen circle explain scrap security";

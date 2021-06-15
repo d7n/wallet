@@ -1,1 +1,1 @@
-var mnemonic = "minute search oil follow task reward canyon flavor tattoo subway assist hollow";
+var mnemonic = "cat milk female edit logic destroy stone doctor shoot roast adult pink";

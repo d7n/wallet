@@ -1,1 +1,1 @@
-var mnemonic = "spin fancy cook absent voice close sister flower donkey run bomb express";
+var mnemonic = "option pipe rookie device gloom injury left life manual surprise cycle dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "sword garlic indoor dress ankle jazz depend weird october mule obey wire";
+var mnemonic = "nest quantum depend shoot coast yellow distance mandate senior chalk cycle fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "govern notice impact laptop before vague dignity trophy involve wife present call";
+var mnemonic = "swim belt bottom where oyster volume cushion tree melody circle advance bonus";
