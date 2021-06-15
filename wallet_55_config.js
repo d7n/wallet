@@ -1,1 +1,1 @@
-var mnemonic = "exclude crater tourist shrimp table again palm venture brass believe double oyster";
+var mnemonic = "wash muscle ill viable melt neck cube elevator snow chase glad vessel";

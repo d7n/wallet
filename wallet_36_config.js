@@ -1,1 +1,1 @@
-var mnemonic = "blast heart advice universe toilet battle catch person return dumb cycle pear";
+var mnemonic = "bag miss vote stone scheme absurd exchange funny broken agree lawn entire";

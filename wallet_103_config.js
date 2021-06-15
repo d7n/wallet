@@ -1,1 +1,1 @@
-var mnemonic = "soda spirit flash trend vanish suffer disorder exist radio water shoe vanish";
+var mnemonic = "curtain clap flower invest submit oval object lecture post matter strike crumble";

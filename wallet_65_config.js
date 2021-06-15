@@ -1,1 +1,1 @@
-var mnemonic = "popular essay run renew galaxy soup torch crawl mountain puzzle cattle balance";
+var mnemonic = "garment oil across payment mixed track volcano early apology position brave craft";

@@ -1,1 +1,1 @@
-var mnemonic = "symptom plunge solve miracle place fantasy they victory discover issue erosion observe";
+var mnemonic = "type cushion zone focus giggle wolf push someone buzz input album egg";

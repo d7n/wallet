@@ -1,1 +1,1 @@
-var mnemonic = "mind refuse color symbol trip vibrant include rural skin popular sad change";
+var mnemonic = "path skirt holiday honey tuition awful game iron sister frequent grid employ";

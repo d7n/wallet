@@ -1,1 +1,1 @@
-var mnemonic = "capital until elbow basic power burger nut labor transfer muscle decline wheat";
+var mnemonic = "around fruit inherit topic uncle awkward state tail scorpion build simple other";

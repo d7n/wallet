@@ -1,1 +1,1 @@
-var mnemonic = "saddle extra oxygen aspect catch jazz april custom settle diamond bicycle genre";
+var mnemonic = "boat hedgehog dynamic pledge news resource truth engine front force then iron";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon first critic lesson pear scrap throw scene onion lobster air trick";
+var mnemonic = "scorpion process chest viable gain erase ecology civil purse clinic rude allow";

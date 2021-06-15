@@ -1,1 +1,1 @@
-var mnemonic = "glove save light need amateur vague shield monitor silver gas leisure debate";
+var mnemonic = "exchange short retreat friend proof birth loop ethics boss credit glare depend";

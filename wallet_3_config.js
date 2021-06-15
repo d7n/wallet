@@ -1,1 +1,1 @@
-var mnemonic = "spot unfold kid leisure during vanish tennis wedding define actual govern congress";
+var mnemonic = "ocean drink plunge cheap voice pride range crowd off diet old cousin";

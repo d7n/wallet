@@ -1,1 +1,1 @@
-var mnemonic = "turtle neither gorilla stove word brick drill major earth fix fire filter";
+var mnemonic = "insane lock erosion fetch detect crime farm organ song ritual impact very";

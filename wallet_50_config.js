@@ -1,1 +1,1 @@
-var mnemonic = "bean ginger finger swim arctic clap shy forward decline ethics surface essence";
+var mnemonic = "tiny desert hobby acoustic sleep rabbit spot alpha oyster castle immense hockey";

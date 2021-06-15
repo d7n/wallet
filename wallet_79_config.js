@@ -1,1 +1,1 @@
-var mnemonic = "point beef express bridge ocean among truck apart start keep clap acid";
+var mnemonic = "lottery slender size source patrol piece swear track scrub quit never resist";

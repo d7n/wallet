@@ -1,1 +1,1 @@
-var mnemonic = "awake boss note antique improve portion vast various upon ladder gold slender";
+var mnemonic = "toe antenna inject prize design april gold sheriff happy they random pepper";

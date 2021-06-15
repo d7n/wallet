@@ -1,1 +1,1 @@
-var mnemonic = "august venture seven ladder light wrong welcome gauge music badge morning arrange";
+var mnemonic = "carpet child good pole shine car roof frame success lesson plug pudding";

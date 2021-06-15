@@ -1,1 +1,1 @@
-var mnemonic = "model position deposit window lunar cheese jewel swift core draw method cement";
+var mnemonic = "sausage sword before runway acoustic win bracket silly gown card glue sadness";

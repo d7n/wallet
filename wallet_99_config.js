@@ -1,1 +1,1 @@
-var mnemonic = "brisk priority daring answer frost photo dynamic robot field tribe oblige collect";
+var mnemonic = "artist media rigid end east venue inflict lumber travel ethics identify cliff";

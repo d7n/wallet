@@ -1,1 +1,1 @@
-var mnemonic = "return possible badge impose unfair expose inflict scan adult toy basic cancel";
+var mnemonic = "hood village cost client zebra satisfy primary huge normal satisfy spoil taxi";

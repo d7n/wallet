@@ -1,1 +1,1 @@
-var mnemonic = "magnet meat resist rebuild luxury viable chapter major undo palm transfer hair";
+var mnemonic = "flash clock trash ghost crouch stock rent level client monitor army brush";

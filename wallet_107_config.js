@@ -1,1 +1,1 @@
-var mnemonic = "cool drive develop fiscal pass frown auction penalty tonight update acoustic keep";
+var mnemonic = "motion cage fiber ozone live voyage tone knife motor heavy blind hospital";

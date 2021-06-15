@@ -1,1 +1,1 @@
-var mnemonic = "mutual gaze panic swamp water media slogan toe brisk match kiwi slight";
+var mnemonic = "file rather inhale dream maze live sport same electric behind nut pistol";

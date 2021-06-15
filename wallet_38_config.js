@@ -1,1 +1,1 @@
-var mnemonic = "since jump senior retire sibling sight maple sting ring silent amused hunt";
+var mnemonic = "cook clip radar reduce alley gate donor attack fame pulp million manual";

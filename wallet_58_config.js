@@ -1,1 +1,1 @@
-var mnemonic = "extra future more oblige refuse start orient seed explain trap onion clerk";
+var mnemonic = "barely analyst artist ticket oil mammal unaware unlock hospital illegal sausage minimum";

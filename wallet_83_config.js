@@ -1,1 +1,1 @@
-var mnemonic = "genius unfair win siren grape useless green trip merge lecture betray gentle";
+var mnemonic = "teach surface critic alone bless parrot family model breeze fog ramp frozen";

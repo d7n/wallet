@@ -1,1 +1,1 @@
-var mnemonic = "drastic payment lounge repair lens rail deer grape badge cheap impact media";
+var mnemonic = "travel fox autumn visual sell point vacant oil pudding slush van wreck";

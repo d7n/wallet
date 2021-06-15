@@ -1,1 +1,1 @@
-var mnemonic = "episode bleak minute dignity sibling wild anxiety easy buzz poverty magnet elder";
+var mnemonic = "firm smile donate eagle gain embrace surge water future street fly demand";

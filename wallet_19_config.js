@@ -1,1 +1,1 @@
-var mnemonic = "claim rotate material social festival metal flight fat hard satoshi height swarm";
+var mnemonic = "chimney either bleak pyramid easy dish dice mesh latin reward panther domain";

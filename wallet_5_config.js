@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow exotic month path bag dolphin train skate parent exhibit pistol sunset";
+var mnemonic = "creek excuse cloth grid cheese twin shrug tourist add capable copper inside";

@@ -1,1 +1,1 @@
-var mnemonic = "column advice style vital iron erosion fiscal dry silver help settle mule";
+var mnemonic = "that trend ship hope delay dawn captain surge truck top canal quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "rug post credit tribe donor depend leader inmate panel garbage close payment";
+var mnemonic = "weapon earn illness trend income possible armed tip truck another hole anger";

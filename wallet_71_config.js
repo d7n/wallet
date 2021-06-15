@@ -1,1 +1,1 @@
-var mnemonic = "eight slender sadness try beauty acoustic predict frog ladder control rail impose";
+var mnemonic = "tumble evolve intact nephew cable rebel cupboard cute market movie excite gown";

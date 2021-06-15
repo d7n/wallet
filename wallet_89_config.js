@@ -1,1 +1,1 @@
-var mnemonic = "zero place tenant smile lion weird best abstract business aunt spoon emerge";
+var mnemonic = "nature cool jeans same error torch crew witness parrot toddler situate hint";

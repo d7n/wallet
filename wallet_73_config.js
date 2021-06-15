@@ -1,1 +1,1 @@
-var mnemonic = "abuse april include misery mind mandate fork abandon primary game inherit ripple";
+var mnemonic = "term laundry inner forum index rabbit hundred sleep help raise again assume";

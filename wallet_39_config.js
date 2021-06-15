@@ -1,1 +1,1 @@
-var mnemonic = "rude question flee fantasy dish size small travel loud guide cream web";
+var mnemonic = "witness pig waste harvest aware mango total buzz denial razor orient box";

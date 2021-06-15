@@ -1,1 +1,1 @@
-var mnemonic = "subject wagon quantum legend high unusual blood lumber furnace planet tip web";
+var mnemonic = "great ginger muscle meat lift crouch vague olive purity mistake cool strategy";

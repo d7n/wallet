@@ -1,1 +1,1 @@
-var mnemonic = "clarify check invite vanish exhaust hockey garage actual twice typical grid husband";
+var mnemonic = "knee fantasy spray dream wheat solve spawn circle churn easy fox swing";

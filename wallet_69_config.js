@@ -1,1 +1,1 @@
-var mnemonic = "garage leg knife safe aspect badge farm journey august want video shrug";
+var mnemonic = "board anxiety scissors anxiety soft wire grocery among base write portion maple";

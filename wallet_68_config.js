@@ -1,1 +1,1 @@
-var mnemonic = "visit friend robot endless mask egg wreck dance total nose clip diamond";
+var mnemonic = "topic athlete doll offer bulb shy glory occur upper appear exchange noble";

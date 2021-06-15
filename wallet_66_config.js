@@ -1,1 +1,1 @@
-var mnemonic = "team parrot develop ignore sail dog select shallow blind cliff pole doll";
+var mnemonic = "elder blanket table silent chapter pond bronze photo expand wire wasp catch";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose turn warfare element pupil chalk damp bone frost youth iron reunion";
+var mnemonic = "fringe net skill lawn spike keep floor truly salt like unique door";

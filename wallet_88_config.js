@@ -1,1 +1,1 @@
-var mnemonic = "purse custom traffic lunch toilet lonely typical organ dust hunt please urban";
+var mnemonic = "ankle lottery victory lunch topple egg airport fence broccoli manual problem accuse";

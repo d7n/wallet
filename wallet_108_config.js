@@ -1,1 +1,1 @@
-var mnemonic = "travel detect correct cigar require crop priority mammal crime coyote police clap";
+var mnemonic = "foam pupil illness glove mobile object old mansion noise number inform hip";

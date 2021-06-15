@@ -1,1 +1,1 @@
-var mnemonic = "lawn quick wasp electric nation confirm snap scare web arrest comic again";
+var mnemonic = "idea private deliver prefer feed fiscal sure remind brave scatter coach hotel";

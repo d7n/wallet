@@ -1,1 +1,1 @@
-var mnemonic = "umbrella expand page rally broken chief patrol forget curve actual weather spike";
+var mnemonic = "canvas hockey essence flash denial skate neglect company open camp laundry scare";

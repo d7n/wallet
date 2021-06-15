@@ -1,1 +1,1 @@
-var mnemonic = "exile steak erupt love move special traffic raw defy cause drama unable";
+var mnemonic = "struggle copy express ancient enrich winner certain range cement glow floor liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy stumble praise path rotate unhappy element input offer dish latin hammer";
+var mnemonic = "journey modify credit path grace parrot truth deposit smooth round liquid junk";

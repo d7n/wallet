@@ -1,1 +1,1 @@
-var mnemonic = "cherry spring noodle crash matrix tool live dwarf forest legend daring hat";
+var mnemonic = "target engine next jaguar fall another differ fade benefit person moon spatial";

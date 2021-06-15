@@ -1,1 +1,1 @@
-var mnemonic = "athlete tribe cart scheme exit auction mimic rack bulk bounce size velvet";
+var mnemonic = "review vintage great famous proud brass feed cruise nature coach chef snack";

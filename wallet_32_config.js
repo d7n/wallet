@@ -1,1 +1,1 @@
-var mnemonic = "sunny hour differ arrange nice holiday dose swamp envelope demand favorite tail";
+var mnemonic = "soda practice hospital scene alone sudden dignity rifle melody melt federal omit";

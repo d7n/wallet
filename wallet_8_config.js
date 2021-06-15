@@ -1,1 +1,1 @@
-var mnemonic = "vacuum culture hedgehog craft rifle exclude talk install arrange chaos grid drive";
+var mnemonic = "bid pluck social hybrid person position fit simple oppose stone web chaos";

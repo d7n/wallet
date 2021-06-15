@@ -1,1 +1,1 @@
-var mnemonic = "false claw cable liquid method myth crawl call eight current jealous autumn";
+var mnemonic = "fly typical lady retire fault client pen wild glide spy fat visit";

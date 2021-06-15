@@ -1,1 +1,1 @@
-var mnemonic = "mask differ satisfy zoo strategy jelly unfold wall system kidney eternal clutch";
+var mnemonic = "lumber upon pool exile bunker army infant baby wrong blush hello crowd";

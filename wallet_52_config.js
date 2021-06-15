@@ -1,1 +1,1 @@
-var mnemonic = "field version bottom staff place rookie gun frown yard track midnight evoke";
+var mnemonic = "brief sadness humor swear sunny globe arctic vivid secret seminar gap top";

@@ -1,1 +1,1 @@
-var mnemonic = "picture comfort equal fall guitar repeat slide crowd ranch idea ankle dirt";
+var mnemonic = "chief space various twist wisdom crash notice gap deposit taxi donate bench";

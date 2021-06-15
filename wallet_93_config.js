@@ -1,1 +1,1 @@
-var mnemonic = "winter note robust fiber cushion switch daring prefer oval payment early mass";
+var mnemonic = "used often work satisfy bulk saddle night entry spot boring youth pond";

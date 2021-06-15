@@ -1,1 +1,1 @@
-var mnemonic = "toward evoke pony decorate hard gym defy naive senior inflict stem winner";
+var mnemonic = "strike invest link mail small manual maple enact high piano castle attend";

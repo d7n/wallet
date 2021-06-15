@@ -1,1 +1,1 @@
-var mnemonic = "town shoot ridge crack shove depart practice escape review problem firm sunset";
+var mnemonic = "assault reason grunt orphan drift letter thing owner elephant pupil noble river";

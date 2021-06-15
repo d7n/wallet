@@ -1,1 +1,1 @@
-var mnemonic = "rib member toddler addict rude clog faint forest page under require royal";
+var mnemonic = "kingdom awake cotton metal cake still athlete number bottom slim debate acquire";

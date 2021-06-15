@@ -1,1 +1,1 @@
-var mnemonic = "capital where oven end promote nice foam october rude lava post square";
+var mnemonic = "recycle heart judge fantasy pair tobacco earn twenty stone kangaroo since person";

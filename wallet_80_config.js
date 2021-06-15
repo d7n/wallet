@@ -1,1 +1,1 @@
-var mnemonic = "raven select fatigue theme seminar junk duck tree girl promote birth canyon";
+var mnemonic = "firm truth proof whale antenna burst network climb mosquito amused settle discover";

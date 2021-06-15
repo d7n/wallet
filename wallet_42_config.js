@@ -1,1 +1,1 @@
-var mnemonic = "rival pass leader tomato claw smile divide frame attitude expire attend lonely";
+var mnemonic = "enroll walnut spare candy bind clay tomato forum mail minute hundred paddle";

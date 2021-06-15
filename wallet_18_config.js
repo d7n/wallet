@@ -1,1 +1,1 @@
-var mnemonic = "shoe season opinion way crumble echo accident sting suffer omit correct region";
+var mnemonic = "wasp impose need ignore shaft claim clog beach october spot lab increase";

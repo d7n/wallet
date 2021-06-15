@@ -1,1 +1,1 @@
-var mnemonic = "melody junk logic whisper fish convince twenty immense taxi pride risk razor";
+var mnemonic = "place brick note chase brass share save math breeze company divide best";

@@ -1,1 +1,1 @@
-var mnemonic = "minimum surge provide speak debris pave other tobacco gun galaxy horse lift";
+var mnemonic = "tool dirt wisdom lift milk angry pulp market action chapter pelican duty";

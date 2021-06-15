@@ -1,1 +1,1 @@
-var mnemonic = "host roof replace exotic salad stomach promote today stamp song vacant cool";
+var mnemonic = "axis post seat noise verb early depend beyond attend just mimic life";

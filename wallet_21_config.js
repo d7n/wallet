@@ -1,1 +1,1 @@
-var mnemonic = "state hard bomb amazing recall cheese episode metal rally rose forward month";
+var mnemonic = "cross culture river inflict hood output wrong judge burst sing round virtual";

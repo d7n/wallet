@@ -1,1 +1,1 @@
-var mnemonic = "differ wear reveal october eagle crawl eager solar brain add orchard nothing";
+var mnemonic = "write salute mobile odor practice setup shy swing tenant bottom inflict benefit";

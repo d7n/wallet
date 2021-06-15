@@ -1,1 +1,1 @@
-var mnemonic = "scout gadget fire knee satoshi crop address small ready enemy destroy soda";
+var mnemonic = "pact advice unusual title loyal doll drive journey make else basket nut";

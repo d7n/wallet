@@ -1,1 +1,1 @@
-var mnemonic = "stand screen guilt image tenant stand wave doll quantum fetch scale awesome";
+var mnemonic = "east keen lonely monster model record abandon twist summer tank holiday canal";

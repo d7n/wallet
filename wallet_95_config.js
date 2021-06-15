@@ -1,1 +1,1 @@
-var mnemonic = "skin notice physical butter increase come soccer fade casual century quarter victory";
+var mnemonic = "scene cute brother pair write wage nose oil frozen dog inflict vintage";

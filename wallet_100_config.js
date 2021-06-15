@@ -1,1 +1,1 @@
-var mnemonic = "excite menu brush panic maple beauty crane armed popular steel minor same";
+var mnemonic = "detect virtual enter mixture install autumn puppy mad merit layer danger employ";

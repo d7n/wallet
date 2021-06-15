@@ -1,1 +1,1 @@
-var mnemonic = "conduct truly fever town lake glory spell target job move recipe pitch";
+var mnemonic = "zoo marine wrap essence orchard cactus hood stuff maple gesture friend tiny";

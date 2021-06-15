@@ -1,1 +1,1 @@
-var mnemonic = "mountain skill rack salt shine always hold skin elephant olympic talk clean";
+var mnemonic = "sock carpet web crush decrease save win harsh unaware when little guard";

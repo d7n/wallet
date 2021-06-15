@@ -1,1 +1,1 @@
-var mnemonic = "cupboard also odor hamster surround nominee sustain city cinnamon enable actress badge";
+var mnemonic = "awful heavy mail heart spell long dice island family tongue gasp method";

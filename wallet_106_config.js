@@ -1,1 +1,1 @@
-var mnemonic = "unknown erase fault walk add frame snack biology return grab senior fan";
+var mnemonic = "sea fit eye friend great program mountain citizen century little club fatal";

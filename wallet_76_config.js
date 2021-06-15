@@ -1,1 +1,1 @@
-var mnemonic = "poem middle sword frame auto special liar one lunch curve cruel canvas";
+var mnemonic = "disease legal trophy opinion pass pulse gaze angry close public middle teach";

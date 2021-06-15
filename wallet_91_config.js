@@ -1,1 +1,1 @@
-var mnemonic = "lounge coil element ice beauty start rare trumpet leave antenna insect teach";
+var mnemonic = "trend maid inhale unveil office result note section kitchen infant toddler bundle";

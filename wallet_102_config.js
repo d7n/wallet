@@ -1,1 +1,1 @@
-var mnemonic = "carpet shadow civil crowd upset jar coral open click reject bargain memory";
+var mnemonic = "lake census fan twist trophy daughter unknown describe noble super hungry vague";

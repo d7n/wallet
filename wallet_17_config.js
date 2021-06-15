@@ -1,1 +1,1 @@
-var mnemonic = "click corn series provide link fashion wrist buffalo luggage share stairs install";
+var mnemonic = "six silver ancient idea apart tone twenty relief stable make drum hard";

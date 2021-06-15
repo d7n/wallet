@@ -1,1 +1,1 @@
-var mnemonic = "junior approve sleep carry lecture mesh spy pond rice stone again fine";
+var mnemonic = "fury cute flip toddler letter talent glove movie expose outside bulb mind";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster auction amateur prosper echo answer secret theory occur fox grit volume";
+var mnemonic = "fold cool leopard enact honey twenty surround bitter mechanic margin fossil wheat";

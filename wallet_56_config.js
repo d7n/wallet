@@ -1,1 +1,1 @@
-var mnemonic = "universe private clever remind curve live naive divorce actress ride faith pumpkin";
+var mnemonic = "tomorrow burden mobile scatter same shove twist panther indicate bullet sleep rocket";

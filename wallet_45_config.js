@@ -1,1 +1,1 @@
-var mnemonic = "urge output pledge curve siren position home educate ivory off fish episode";
+var mnemonic = "vibrant weekend achieve farm bronze pipe duty scare still snack distance sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle morning fluid chunk sign extra loop clay garbage differ letter please";
+var mnemonic = "blush false warfare bitter fix scare road state model margin damage vacuum";

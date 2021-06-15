@@ -1,1 +1,1 @@
-var mnemonic = "design noise retire soap joy arrive jar drive regular turkey amateur corn";
+var mnemonic = "aspect limit suit useful enforce salon digital sand smooth purse solution awake";

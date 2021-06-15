@@ -1,1 +1,1 @@
-var mnemonic = "frozen write song fade excite pitch electric myself reopen ship later unable";
+var mnemonic = "edit embark rely slot believe tennis garage dignity mirror marine crunch already";

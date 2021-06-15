@@ -1,1 +1,1 @@
-var mnemonic = "one same usage awful receive glow labor cash step another refuse place";
+var mnemonic = "spirit august assist slow mom cheap roof explain plug gossip idea hire";

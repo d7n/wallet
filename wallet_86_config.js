@@ -1,1 +1,1 @@
-var mnemonic = "dress street gospel end magic employ evolve mouse patch wool oil crystal";
+var mnemonic = "armor differ comfort very next surface matter bamboo frozen layer law unhappy";
