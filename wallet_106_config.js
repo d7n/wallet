@@ -1,1 +1,1 @@
-var mnemonic = "main nasty sun vacuum treat animal define above mimic easily cube stage";
+var mnemonic = "cancel assist allow glance cross wing speed law account spoon script produce";

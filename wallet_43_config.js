@@ -1,1 +1,1 @@
-var mnemonic = "marine one note sun album duty journey poverty furnace habit audit fog";
+var mnemonic = "pelican laundry speak venue phrase vacant suggest live meat output punch sword";

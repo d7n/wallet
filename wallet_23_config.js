@@ -1,1 +1,1 @@
-var mnemonic = "inner sick tribe order swim mother install good unit same isolate depth";
+var mnemonic = "once fitness daughter fantasy weekend abuse note fringe vault shell hamster soft";

@@ -1,1 +1,1 @@
-var mnemonic = "glare donor tuition review chief midnight moral fruit furnace jump sea like";
+var mnemonic = "rigid view direct riot vivid peanut drum range coast garden moment danger";

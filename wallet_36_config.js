@@ -1,1 +1,1 @@
-var mnemonic = "oak pole twist tuition dinner combine multiply village gate sorry assist remove";
+var mnemonic = "object deposit clean dance source eagle firm sunny orbit swarm other grid";

@@ -1,1 +1,1 @@
-var mnemonic = "there joy harsh prepare blast desk before stuff debris tail desert neglect";
+var mnemonic = "bracket rare apple album pole before course giant foot sell kitten slot";

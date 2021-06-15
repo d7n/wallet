@@ -1,1 +1,1 @@
-var mnemonic = "endorse pulp trick aspect exchange noise illness sense key entry off blouse";
+var mnemonic = "blur brown cabin potato exit ride oblige scheme donkey lock column volcano";

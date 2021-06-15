@@ -1,1 +1,1 @@
-var mnemonic = "print sniff deer gain muscle loud ivory famous owner jealous despair submit";
+var mnemonic = "emotion amazing future elevator melt page quality panic river wisdom resemble cluster";

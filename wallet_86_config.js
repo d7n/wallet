@@ -1,1 +1,1 @@
-var mnemonic = "soft typical diet define spike utility atom bag route moment replace frequent";
+var mnemonic = "curve mixed hello keep advice nasty ask will nephew satisfy turtle catalog";

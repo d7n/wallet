@@ -1,1 +1,1 @@
-var mnemonic = "ladder innocent there begin bitter liar divorce twist trick problem twenty olive";
+var mnemonic = "present fiber arctic tobacco tray any eight era smoke issue fresh enhance";

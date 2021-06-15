@@ -1,1 +1,1 @@
-var mnemonic = "beach eagle capital ritual abstract violin viable elite surprise asset wire market";
+var mnemonic = "cart night shine access nerve snow fish teach margin color club used";

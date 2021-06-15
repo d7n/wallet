@@ -1,1 +1,1 @@
-var mnemonic = "tail upgrade angle basket just hobby deer acquire lava wheat video grunt";
+var mnemonic = "copy material palace wage sick midnight recycle essay sketch witness detail decline";

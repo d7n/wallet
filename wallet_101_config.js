@@ -1,1 +1,1 @@
-var mnemonic = "rain hunt method horror again casual couple afford leopard label task stable";
+var mnemonic = "mammal absorb boy flag live analyst term wisdom size exhaust erosion code";

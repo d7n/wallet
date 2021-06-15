@@ -1,1 +1,1 @@
-var mnemonic = "task pulp eight forum gentle gown gun spy vintage laugh rescue civil";
+var mnemonic = "wild narrow room throw soul budget destroy web sing half morning orient";

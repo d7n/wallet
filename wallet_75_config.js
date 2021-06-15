@@ -1,1 +1,1 @@
-var mnemonic = "photo crazy medal dash clock drill prosper announce reward else fantasy cook";
+var mnemonic = "promote cradle uniform piece dolphin chef stamp response dirt lift pen carbon";

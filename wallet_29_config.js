@@ -1,1 +1,1 @@
-var mnemonic = "impact general auction exist nut leader vicious critic inside receive black slam";
+var mnemonic = "also beach early sting favorite hold like auction valley wire gallery glide";

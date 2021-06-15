@@ -1,1 +1,1 @@
-var mnemonic = "maze today mutual empower bind position clerk attend canal rhythm analyst solar";
+var mnemonic = "install maple hen praise saddle scale tackle carpet cattle cost hill wisdom";

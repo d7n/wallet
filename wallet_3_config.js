@@ -1,1 +1,1 @@
-var mnemonic = "garage open please kit put palace idea rent diary step lift dizzy";
+var mnemonic = "display renew auto label parent borrow dove impact auction prize simple barrel";

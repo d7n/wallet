@@ -1,1 +1,1 @@
-var mnemonic = "add hedgehog patient mistake act sick loop length roast token pizza tackle";
+var mnemonic = "soft crack game hood property east visual height warfare very scheme coin";

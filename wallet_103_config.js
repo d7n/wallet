@@ -1,1 +1,1 @@
-var mnemonic = "hen pencil nation reunion tomato glove hair deny dinner elbow casino language";
+var mnemonic = "more diesel again explain tent used faint cool exit potato basic gate";

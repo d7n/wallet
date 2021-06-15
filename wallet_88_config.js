@@ -1,1 +1,1 @@
-var mnemonic = "vanish grocery they loyal garden hero detail plate fashion know poverty innocent";
+var mnemonic = "guess wood maid faculty crew decade habit boat like scrub outer pudding";

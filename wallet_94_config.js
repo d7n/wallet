@@ -1,1 +1,1 @@
-var mnemonic = "cube example fish shoulder tomorrow stadium exit steak option estate inmate purse";
+var mnemonic = "buzz follow erupt old jungle crystal spider adapt blur negative glimpse flash";

@@ -1,1 +1,1 @@
-var mnemonic = "cost code scatter text month box horn crew near good speed found";
+var mnemonic = "habit area core ramp drill radio make weapon destroy mountain lion payment";

@@ -1,1 +1,1 @@
-var mnemonic = "fox treat tongue side tobacco coconut message wall lizard rescue depart knee";
+var mnemonic = "lounge reflect obtain insane song rapid display supreme way journey hour finish";

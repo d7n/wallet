@@ -1,1 +1,1 @@
-var mnemonic = "hover already garment indoor supreme liquid crucial okay bitter puzzle offer assault";
+var mnemonic = "seat isolate cloth draw front churn holiday loud window pave state unable";

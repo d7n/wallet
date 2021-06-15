@@ -1,1 +1,1 @@
-var mnemonic = "dutch undo judge napkin ocean blanket section ostrich match despair seminar require";
+var mnemonic = "bone bridge broken shove earth name identify month palace summer hub drama";

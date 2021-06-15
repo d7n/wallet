@@ -1,1 +1,1 @@
-var mnemonic = "toast price coral across behave stand pulse lawn snack traffic age together";
+var mnemonic = "bubble fetch orchard parrot symptom chimney domain name panda exercise novel until";

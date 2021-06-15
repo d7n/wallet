@@ -1,1 +1,1 @@
-var mnemonic = "inch cricket royal rather wise slender surround box access quick ball say";
+var mnemonic = "two brisk aisle evolve prevent position all issue excess stage minor target";

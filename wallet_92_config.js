@@ -1,1 +1,1 @@
-var mnemonic = "celery curious truly document demise weekend topple feel provide session sleep hurdle";
+var mnemonic = "churn tell van route this flee deer level vault trash teach journey";

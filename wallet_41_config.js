@@ -1,1 +1,1 @@
-var mnemonic = "trip wing race anger will donkey nasty comfort advance sport surge coach";
+var mnemonic = "vehicle wire oblige rebel tree gasp merry smooth tumble tomato rabbit sand";

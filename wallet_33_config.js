@@ -1,1 +1,1 @@
-var mnemonic = "biology expect merit priority bird goose banana question sunny trouble inmate have";
+var mnemonic = "move easily lunar lab suit evoke adapt vacuum dismiss pumpkin since subject";

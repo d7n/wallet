@@ -1,1 +1,1 @@
-var mnemonic = "drill tomato trick report merry lava build because actress live echo among";
+var mnemonic = "enable section paper usage average indicate bundle seed smooth hundred ketchup found";

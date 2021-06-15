@@ -1,1 +1,1 @@
-var mnemonic = "kitchen surge sponsor trumpet announce crystal onion drama develop kind raise hard";
+var mnemonic = "garden employ stomach throw danger result twist mushroom faculty reward proud noodle";

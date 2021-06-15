@@ -1,1 +1,1 @@
-var mnemonic = "found toward sell nice grant peasant digital inform humble under cloud source";
+var mnemonic = "wood goddess surge winter gorilla illegal load payment magnet laundry vote provide";

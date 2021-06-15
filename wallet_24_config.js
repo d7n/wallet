@@ -1,1 +1,1 @@
-var mnemonic = "law senior gas obscure unknown point guard exile fee orange drive bottom";
+var mnemonic = "slight hen trouble lady minor antique pipe awake call reform face private";

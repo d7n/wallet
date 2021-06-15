@@ -1,1 +1,1 @@
-var mnemonic = "tip people inhale seat day decline clever social obscure size beyond brief";
+var mnemonic = "path share tent practice confirm post glare trumpet bone barely cinnamon rough";

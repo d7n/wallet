@@ -1,1 +1,1 @@
-var mnemonic = "tone viable potato surface slush violin region december monster hybrid airport recall";
+var mnemonic = "twice alert animal token cheap argue palace fork hungry series inflict tenant";

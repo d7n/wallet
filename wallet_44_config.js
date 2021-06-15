@@ -1,1 +1,1 @@
-var mnemonic = "great educate move inquiry post spike coil captain reduce salad cotton agent";
+var mnemonic = "labor like business attitude muffin light patch cabbage only pluck virus dial";

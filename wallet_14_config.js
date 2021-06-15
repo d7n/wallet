@@ -1,1 +1,1 @@
-var mnemonic = "crouch actor ball spend wire exclude garage large estate stick unable shove";
+var mnemonic = "upon humble apology power worth bus little melt witness hood evolve snake";

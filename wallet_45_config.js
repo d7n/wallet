@@ -1,1 +1,1 @@
-var mnemonic = "scrap brief adult leader patch asset tired whisper agree nation hood amazing";
+var mnemonic = "cram vacuum total kitten discover noise teach goat earth direct term vintage";

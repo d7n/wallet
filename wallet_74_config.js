@@ -1,1 +1,1 @@
-var mnemonic = "peace trigger history old release merit where vast october flee goddess pony";
+var mnemonic = "arctic chapter nest wait vicious company certain ripple rubber hen dumb canyon";

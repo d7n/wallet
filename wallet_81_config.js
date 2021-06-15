@@ -1,1 +1,1 @@
-var mnemonic = "liberty insect strong during walk boat laugh resource flash lion bicycle avocado";
+var mnemonic = "oval breeze raw tired excuse manage casual ivory quiz broken tent bread";

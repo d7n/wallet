@@ -1,1 +1,1 @@
-var mnemonic = "coast advice tired maze aisle impose champion filter window subject salad noble";
+var mnemonic = "sunset must kind proud assume riot setup meat draw border immense science";

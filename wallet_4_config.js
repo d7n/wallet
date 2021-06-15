@@ -1,1 +1,1 @@
-var mnemonic = "loyal piece net fix gorilla solve eye frozen decade main actress frozen";
+var mnemonic = "hero regret absurd echo sorry ranch outer market uniform love simple cost";

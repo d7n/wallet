@@ -1,1 +1,1 @@
-var mnemonic = "soon blossom catch frequent wink diamond wrap better secret egg nut adjust";
+var mnemonic = "proof equip dynamic better goddess error peanut occur outdoor purity strategy depart";

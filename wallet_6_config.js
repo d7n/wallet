@@ -1,1 +1,1 @@
-var mnemonic = "picture apart unit high lemon laundry enjoy strike admit popular become kangaroo";
+var mnemonic = "dutch argue remind urban license way today tiger inmate bean oxygen boring";

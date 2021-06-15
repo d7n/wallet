@@ -1,1 +1,1 @@
-var mnemonic = "total kid series medal giggle swear save radio share village window kitten";
+var mnemonic = "scene chuckle tackle engine best divert farm range grow agent system antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "valid defense side whip doctor agree assault party brown dove include original";
+var mnemonic = "ability vacant elbow ancient harvest crowd off month debris one please resource";

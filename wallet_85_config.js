@@ -1,1 +1,1 @@
-var mnemonic = "private vacant swamp noble pride useful reflect ski arch fiscal august nothing";
+var mnemonic = "search delay prosper enable virus motion coffee certain sense arrest sponsor asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "media design miracle cushion remind camp merge robot love reform cake slim";
+var mnemonic = "oven eight toy crop lecture color brisk bring balcony age gossip giggle";

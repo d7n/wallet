@@ -1,1 +1,1 @@
-var mnemonic = "light strike decide address belt truck language speak load paddle coil buffalo";
+var mnemonic = "asset orphan mechanic roof liquid final town voyage supply head pride grocery";

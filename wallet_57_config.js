@@ -1,1 +1,1 @@
-var mnemonic = "cabin punch mercy bomb twin town because soccer tag toast comfort soda";
+var mnemonic = "bracket mosquito pulp alarm average olive resemble armed air rough escape finger";

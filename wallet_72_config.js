@@ -1,1 +1,1 @@
-var mnemonic = "blouse radio case spin eager dice misery still able above copy wide";
+var mnemonic = "food antique junior trip tissue candy bachelor picture hurt outer okay grunt";

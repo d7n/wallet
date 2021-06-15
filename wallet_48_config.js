@@ -1,1 +1,1 @@
-var mnemonic = "hello eager answer multiply slight bachelor almost now pluck breeze theory breeze";
+var mnemonic = "power wide sand because athlete badge trial thrive injury path two gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial tackle finish hover nasty column vast alter coin sample market mimic";
+var mnemonic = "virus beauty clerk combine manage exile tent range dilemma shift forget fluid";

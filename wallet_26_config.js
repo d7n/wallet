@@ -1,1 +1,1 @@
-var mnemonic = "upon follow kiss just history style enemy act stumble whale fame fitness";
+var mnemonic = "sense doll still hurt ceiling super mushroom kingdom menu able check deliver";

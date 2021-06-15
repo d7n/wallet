@@ -1,1 +1,1 @@
-var mnemonic = "avocado happy universe theme there loud flavor depth carbon kitchen behave mad";
+var mnemonic = "opinion ethics dawn piece foam boat mask bread place public door scissors";

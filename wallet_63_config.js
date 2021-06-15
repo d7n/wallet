@@ -1,1 +1,1 @@
-var mnemonic = "angry grunt trouble mango sleep destroy empower wish cross install thumb donor";
+var mnemonic = "blue park tornado dress interest isolate ostrich expand timber settle control lobster";

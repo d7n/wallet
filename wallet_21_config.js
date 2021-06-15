@@ -1,1 +1,1 @@
-var mnemonic = "paddle bracket enable frown gain brother right wonder benefit deer tank noise";
+var mnemonic = "blast breeze aunt knee soccer text tired fragile replace end material funny";

@@ -1,1 +1,1 @@
-var mnemonic = "image license moon muffin float anxiety festival deer pole upset reward sunset";
+var mnemonic = "satoshi soup endless student vivid damage enrich shoot mansion burst viable lab";

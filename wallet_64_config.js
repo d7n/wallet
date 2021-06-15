@@ -1,1 +1,1 @@
-var mnemonic = "web gorilla oyster pride leave city cushion idle earth infant erase onion";
+var mnemonic = "torch second disagree table vague tackle cable black child false pull relax";

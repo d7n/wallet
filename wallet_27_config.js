@@ -1,1 +1,1 @@
-var mnemonic = "endless retreat boy horror recipe load proof kid vehicle orange manual monkey";
+var mnemonic = "trade fringe since cattle favorite unfair jewel child point act enforce tuition";

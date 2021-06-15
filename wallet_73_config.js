@@ -1,1 +1,1 @@
-var mnemonic = "fortune tissue grass mystery affair mistake beach utility casino improve material quit";
+var mnemonic = "width case head matter pilot guitar explain track horror broccoli window rail";

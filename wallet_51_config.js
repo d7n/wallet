@@ -1,1 +1,1 @@
-var mnemonic = "cargo absorb hint mansion machine educate sleep hungry climb cycle proof festival";
+var mnemonic = "flame cage laugh later accident fever scare afford margin lemon try april";

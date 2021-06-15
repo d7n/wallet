@@ -1,1 +1,1 @@
-var mnemonic = "trap cat galaxy fantasy portion usual spike hospital draft huge clog put";
+var mnemonic = "merge wolf bargain suspect garment cheese fringe tiny reunion add lion crane";

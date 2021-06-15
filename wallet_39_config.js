@@ -1,1 +1,1 @@
-var mnemonic = "country board what piece canyon stone voyage alley sell film desk bunker";
+var mnemonic = "polar midnight team into slush detail frequent expire joke pull bacon sell";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral note bench staff slice train parent suggest cement tuna card vast";
+var mnemonic = "eagle blush holiday glad charge lucky margin remain release test trip fetch";

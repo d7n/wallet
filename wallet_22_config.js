@@ -1,1 +1,1 @@
-var mnemonic = "stand cricket artwork arm pulp robot famous fabric deliver frame square round";
+var mnemonic = "list reopen wink illness stove output message insane cook yard learn web";

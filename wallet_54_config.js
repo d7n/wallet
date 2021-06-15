@@ -1,1 +1,1 @@
-var mnemonic = "wolf aware clog tooth long venue shift chapter cruise fiction praise dynamic";
+var mnemonic = "believe repeat adapt pattern outdoor knee local canyon canyon coyote spin road";

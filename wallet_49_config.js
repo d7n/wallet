@@ -1,1 +1,1 @@
-var mnemonic = "human actor shove letter wink conduct nice blame cube play when guitar";
+var mnemonic = "bounce coyote guard hundred uniform camera barely twenty vast view immense glide";

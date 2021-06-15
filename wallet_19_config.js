@@ -1,1 +1,1 @@
-var mnemonic = "plug rack yellow dove state oil flock wrong wonder carbon antenna win";
+var mnemonic = "core maximum danger unknown tray tribe illegal legend pet enact quiz scrap";

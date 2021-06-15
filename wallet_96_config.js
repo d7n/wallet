@@ -1,1 +1,1 @@
-var mnemonic = "project claim reflect donate guide paddle glow census step story prefer earth";
+var mnemonic = "flavor cash bleak truly order glare two crush chaos casino action come";

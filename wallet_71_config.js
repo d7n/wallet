@@ -1,1 +1,1 @@
-var mnemonic = "swarm stick pioneer host wolf pretty pluck fever solar alter awesome unveil";
+var mnemonic = "chest vapor teach mesh scheme cage young steel pumpkin chapter fat solar";

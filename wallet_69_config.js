@@ -1,1 +1,1 @@
-var mnemonic = "tennis chicken lunch honey habit junior liar course circle exact million busy";
+var mnemonic = "long source whale text panel illegal doll maximum style planet spoon know";

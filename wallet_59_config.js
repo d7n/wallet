@@ -1,1 +1,1 @@
-var mnemonic = "build among gasp task task funny live main radar museum marriage analyst";
+var mnemonic = "dirt unit history pride humble frozen city pledge math digital undo fantasy";

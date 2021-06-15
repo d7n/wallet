@@ -1,1 +1,1 @@
-var mnemonic = "phrase amused issue cupboard scare worry diet pistol trumpet enter check fine";
+var mnemonic = "sorry toddler enable oxygen auto adult crumble laundry spoil dial earn analyst";

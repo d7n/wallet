@@ -1,1 +1,1 @@
-var mnemonic = "upper taste axis cycle donkey venture choose vault enroll lyrics inherit daughter";
+var mnemonic = "soda produce foam practice cargo hungry simple party swim nature appear economy";

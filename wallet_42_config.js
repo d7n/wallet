@@ -1,1 +1,1 @@
-var mnemonic = "tribe volcano exhibit tiny already process display obvious siege life tube rough";
+var mnemonic = "profit list latin kiwi absurd clog universe design cabbage mention elder dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "school praise neck brave report wasp chef carbon neutral album jaguar misery";
+var mnemonic = "blast weird monitor devote volcano rubber monkey between hungry purse capable zone";

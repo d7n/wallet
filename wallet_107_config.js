@@ -1,1 +1,1 @@
-var mnemonic = "stereo wedding soldier approve mesh they alpha two board smart pattern gas";
+var mnemonic = "shadow tonight album old hand visit summer any way short iron quality";

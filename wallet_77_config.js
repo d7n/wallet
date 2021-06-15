@@ -1,1 +1,1 @@
-var mnemonic = "usage fork acid surprise region moment hint excite clerk opera tape sibling";
+var mnemonic = "pipe clinic violin often expose night lawn bulb wood bullet garage alpha";

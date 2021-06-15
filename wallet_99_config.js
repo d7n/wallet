@@ -1,1 +1,1 @@
-var mnemonic = "course spoon easy diamond judge mushroom raven rack empty lava course satoshi";
+var mnemonic = "shrug egg similar ice inhale unaware tomato spare zero release rain wheat";

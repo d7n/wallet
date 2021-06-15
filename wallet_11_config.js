@@ -1,1 +1,1 @@
-var mnemonic = "clinic avocado ketchup size canyon turn gaze shift mushroom nerve scheme cabbage";
+var mnemonic = "chicken snake romance iron cheese world laptop cave scrap stuff ski bone";

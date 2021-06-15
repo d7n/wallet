@@ -1,1 +1,1 @@
-var mnemonic = "enrich area blossom fever fantasy coffee layer frost clarify toy leader aspect";
+var mnemonic = "ten cricket symbol cat demand elder raccoon finish cream tomorrow music disorder";

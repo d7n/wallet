@@ -1,1 +1,1 @@
-var mnemonic = "brain inch bless mouse ski love catalog control arrow scissors tornado meadow";
+var mnemonic = "fold devote axis inherit legend almost hub hazard accuse galaxy tackle resemble";

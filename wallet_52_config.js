@@ -1,1 +1,1 @@
-var mnemonic = "goose gesture bullet history elbow fence tent future health cabbage radio tomato";
+var mnemonic = "lumber abuse museum lunch nurse hazard nerve old antique together breeze apart";

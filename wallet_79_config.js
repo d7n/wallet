@@ -1,1 +1,1 @@
-var mnemonic = "culture artist tone boss increase easy violin require book size twice hawk";
+var mnemonic = "erode civil whale bitter pepper sign shuffle alpha alien rubber endorse pelican";

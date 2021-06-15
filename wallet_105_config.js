@@ -1,1 +1,1 @@
-var mnemonic = "off diesel siege yard palm defense awake smart license force arrow choice";
+var mnemonic = "can curious about blue include earn jeans solve wave nation buyer cook";

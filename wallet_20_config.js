@@ -1,1 +1,1 @@
-var mnemonic = "august hover siren ozone brain drink couch cake eye rather install mechanic";
+var mnemonic = "plug actor among accuse disorder glass also picture input marble lecture slim";
