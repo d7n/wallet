@@ -1,1 +1,1 @@
-var mnemonic = "elbow swarm patch pottery blur lecture mimic latin cupboard wood scale father";
+var mnemonic = "absurd damage theme delay enter evolve below weird crisp autumn clown knee";

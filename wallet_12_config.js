@@ -1,1 +1,1 @@
-var mnemonic = "client box toward panther tackle night stove act crowd modify trip civil";
+var mnemonic = "supply broom voyage foil whale since quality travel swift curtain spread cloud";

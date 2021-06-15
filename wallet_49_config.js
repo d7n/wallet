@@ -1,1 +1,1 @@
-var mnemonic = "blossom anxiety fun glare suffer replace worth garlic carpet hold mixture window";
+var mnemonic = "fault game soda almost drink spoon extra travel wonder apart trash sudden";

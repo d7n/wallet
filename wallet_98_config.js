@@ -1,1 +1,1 @@
-var mnemonic = "desert panic flush cage slam you method short embody always later dash";
+var mnemonic = "border grab daring pair hockey ladder harvest common crunch powder alarm obvious";

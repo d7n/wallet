@@ -1,1 +1,1 @@
-var mnemonic = "index surface increase wisdom discover absurd illegal stock cricket upper behind notable";
+var mnemonic = "kitchen asset segment shift basic online advice example quote father fluid main";

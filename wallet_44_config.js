@@ -1,1 +1,1 @@
-var mnemonic = "visa position notable scissors horse armor assault happy staff inspire elder model";
+var mnemonic = "easily stick liberty true method balcony vibrant method reason birth innocent stomach";

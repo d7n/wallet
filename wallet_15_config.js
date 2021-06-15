@@ -1,1 +1,1 @@
-var mnemonic = "shrug roast lion exile high fluid action task pioneer ahead mixed tiger";
+var mnemonic = "blind scout scan drip razor device final plastic between toe final cigar";

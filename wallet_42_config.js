@@ -1,1 +1,1 @@
-var mnemonic = "poem again disagree boil mutual rice isolate swallow inquiry uncover lecture note";
+var mnemonic = "attitude spot ride dentist wreck myself wise planet slender average shield chuckle";

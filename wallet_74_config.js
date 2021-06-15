@@ -1,1 +1,1 @@
-var mnemonic = "front glue cause orchard power female crater arrest together apart pony pause";
+var mnemonic = "afraid trash spice alter fat cousin indoor month pudding age pudding rose";

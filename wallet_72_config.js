@@ -1,1 +1,1 @@
-var mnemonic = "outdoor sample fee between garage enroll stove expire reflect photo flock push";
+var mnemonic = "body orphan prepare luggage joke cliff raccoon vehicle cross scan ability mule";

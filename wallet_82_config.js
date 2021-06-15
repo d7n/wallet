@@ -1,1 +1,1 @@
-var mnemonic = "crisp gospel wolf struggle cupboard afraid since lake gas orange taxi build";
+var mnemonic = "pioneer diary behave host party own stereo rigid asthma rival trial neglect";

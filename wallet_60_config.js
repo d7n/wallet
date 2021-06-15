@@ -1,1 +1,1 @@
-var mnemonic = "high document globe taste bid slow position dwarf rent exhibit survey erupt";
+var mnemonic = "bike disagree student reveal step hidden crucial mom erosion decline people master";

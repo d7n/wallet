@@ -1,1 +1,1 @@
-var mnemonic = "jeans vault erosion shoulder maze endorse scale flat local total scrap clutch";
+var mnemonic = "pipe ecology hollow shift aim glad license eye produce build city finish";

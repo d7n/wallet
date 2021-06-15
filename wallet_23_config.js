@@ -1,1 +1,1 @@
-var mnemonic = "expand mad awful before decrease brain over logic gym sense pelican horse";
+var mnemonic = "dance gloom pyramid coach patient segment inch prize dentist chicken shift candy";

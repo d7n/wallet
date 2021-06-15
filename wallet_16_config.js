@@ -1,1 +1,1 @@
-var mnemonic = "badge attack midnight cancel tortoise inmate pizza hidden midnight search pulp sight";
+var mnemonic = "boil crack forum boss nest napkin humble goddess camp skull mean comfort";

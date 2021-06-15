@@ -1,1 +1,1 @@
-var mnemonic = "day daughter ice fire refuse zero feature enjoy lawn scrub road cradle";
+var mnemonic = "team adjust pumpkin bargain laptop faith aim eight immune shift spell left";

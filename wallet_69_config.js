@@ -1,1 +1,1 @@
-var mnemonic = "awful laptop prevent oxygen balcony glue pink crater alley tell danger biology";
+var mnemonic = "camp hungry loud sort timber basic punch blossom cruise nice firm clutch";

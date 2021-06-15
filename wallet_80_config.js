@@ -1,1 +1,1 @@
-var mnemonic = "congress make old level depend tank bracket army issue item current initial";
+var mnemonic = "club twice control cigar mask shoot ranch offer reject bring smoke coin";

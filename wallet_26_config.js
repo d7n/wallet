@@ -1,1 +1,1 @@
-var mnemonic = "short castle envelope flee method long dinosaur panel column script truly wash";
+var mnemonic = "rigid drum hint innocent fiber endless click become metal ceiling town ask";

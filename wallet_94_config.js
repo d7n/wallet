@@ -1,1 +1,1 @@
-var mnemonic = "write olympic knee autumn mango innocent army join sock payment scissors only";
+var mnemonic = "fence defense fog crack derive promote fatigue kick close wagon ginger hair";

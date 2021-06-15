@@ -1,1 +1,1 @@
-var mnemonic = "guard shift force kangaroo unusual ladder insect wedding trend final clarify farm";
+var mnemonic = "cloud climb sweet elevator thank draft symbol focus keen lunch bamboo alpha";

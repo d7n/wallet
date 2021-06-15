@@ -1,1 +1,1 @@
-var mnemonic = "thunder sting agent favorite fun auto please point health broken lizard enroll";
+var mnemonic = "length skirt reform access stool rigid gravity hockey polar finish orange plate";

@@ -1,1 +1,1 @@
-var mnemonic = "exist file proof beauty tent purpose wedding south task broom suspect bounce";
+var mnemonic = "engage fly carry early accuse car pitch tissue easily near coast slight";

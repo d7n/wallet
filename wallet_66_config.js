@@ -1,1 +1,1 @@
-var mnemonic = "fringe later double letter city pear raise voyage zero symbol expose believe";
+var mnemonic = "traffic fury enough fiscal drum fog rescue coil picnic ride tumble gospel";

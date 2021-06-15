@@ -1,1 +1,1 @@
-var mnemonic = "ahead mention artwork zoo fiscal strategy erode canvas illegal broccoli grit tank";
+var mnemonic = "daring pledge true auction hub afford broom strong balance cloud cargo dress";

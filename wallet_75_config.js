@@ -1,1 +1,1 @@
-var mnemonic = "manage quote perfect faculty ancient air pipe title bleak shine drop divert";
+var mnemonic = "shop volcano guess assume ship congress gospel liquid truly cry silent version";

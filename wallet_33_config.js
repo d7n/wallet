@@ -1,1 +1,1 @@
-var mnemonic = "sail daring shallow inform scissors whip radar theme woman join liquid direct";
+var mnemonic = "assist layer ball move flag spoil burst orange obvious name always onion";

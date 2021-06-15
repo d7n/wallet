@@ -1,1 +1,1 @@
-var mnemonic = "answer horse egg possible nose video process advice share narrow provide giggle";
+var mnemonic = "sand ball scene track mad uncle joy vacuum camp pen solid spin";

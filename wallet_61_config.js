@@ -1,1 +1,1 @@
-var mnemonic = "solve bonus crush arm payment sea fault extend bar three split toddler";
+var mnemonic = "region garbage circle sea sunny vicious museum dry injury traffic float panther";

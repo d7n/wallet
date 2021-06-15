@@ -1,1 +1,1 @@
-var mnemonic = "this aspect secret bird fluid addict hope airport false hat vague word";
+var mnemonic = "toss ivory lamp panel mask exchange under ostrich private discover sock ensure";

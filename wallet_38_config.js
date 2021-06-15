@@ -1,1 +1,1 @@
-var mnemonic = "always erode patient toss sign welcome item pelican chalk hood crisp exact";
+var mnemonic = "vague industry defense rabbit ride unlock typical news journey impulse razor increase";

@@ -1,1 +1,1 @@
-var mnemonic = "flame arrow roof garment arena little family ride public outer number heavy";
+var mnemonic = "auction mirror oxygen hour season teach can conduct excuse aware manage fatal";

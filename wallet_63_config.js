@@ -1,1 +1,1 @@
-var mnemonic = "fresh pigeon chalk tube blind trip glass finger bless visit outer list";
+var mnemonic = "people wood alone shield side now this smoke bench door mimic kitten";

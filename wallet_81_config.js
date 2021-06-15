@@ -1,1 +1,1 @@
-var mnemonic = "tuition step curve girl soup toe creek shoulder sketch donate riot citizen";
+var mnemonic = "useless concert prepare once slight write camp oak witness ready fly arrow";

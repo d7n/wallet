@@ -1,1 +1,1 @@
-var mnemonic = "praise virtual ketchup involve smart tide blame mushroom kite proud scrap quality";
+var mnemonic = "lion chef flat over mountain vicious velvet gaze buyer avoid chunk sphere";

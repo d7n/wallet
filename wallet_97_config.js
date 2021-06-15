@@ -1,1 +1,1 @@
-var mnemonic = "bachelor dog law ginger pledge ridge okay angle dutch muffin decline update";
+var mnemonic = "half grape foster mass gym country alien moment cargo fancy absent enough";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue inch pill cabbage destroy toilet winter depth endorse trash robust symbol";
+var mnemonic = "food volcano angle deer input awful essence bubble bless magic speak combine";

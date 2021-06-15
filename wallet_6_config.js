@@ -1,1 +1,1 @@
-var mnemonic = "general assist bike race devote push promote zebra prevent whisper repeat ginger";
+var mnemonic = "balcony ladder market afraid angry energy cup eternal solid genius stable abstract";

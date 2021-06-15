@@ -1,1 +1,1 @@
-var mnemonic = "cat jazz extend foster mango during rug stand off sample price bitter";
+var mnemonic = "dance happy trick volcano ignore topple exhibit day taste put wink eight";

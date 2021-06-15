@@ -1,1 +1,1 @@
-var mnemonic = "south first loop offer account debris subway brown aim frozen source aerobic";
+var mnemonic = "goat trouble quality consider strike caution alpha pledge tribe version feel mesh";

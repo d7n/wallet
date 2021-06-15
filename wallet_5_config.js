@@ -1,1 +1,1 @@
-var mnemonic = "drift square great refuse finish design tube priority test limit bounce shield";
+var mnemonic = "trust feature box tube alpha table brass field dune you famous feature";

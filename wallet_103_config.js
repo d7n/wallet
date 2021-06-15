@@ -1,1 +1,1 @@
-var mnemonic = "escape limb drop shoulder change neglect rubber access quality diary buddy popular";
+var mnemonic = "cinnamon present pepper comic balance trial rail turtle rhythm maze flag rival";

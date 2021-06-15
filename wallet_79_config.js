@@ -1,1 +1,1 @@
-var mnemonic = "library topic roast brisk stable brain denial sketch dash grid practice stumble";
+var mnemonic = "witness lyrics achieve normal diary battle present arctic another decide rice logic";

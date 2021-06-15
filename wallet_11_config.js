@@ -1,1 +1,1 @@
-var mnemonic = "cream tired join fluid mango discover possible rescue horse license quality clarify";
+var mnemonic = "paper detect bar illness struggle solid muffin usual urge report snack copper";

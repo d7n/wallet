@@ -1,1 +1,1 @@
-var mnemonic = "course exhaust seminar speed squeeze bridge comic topic minute retire crime skate";
+var mnemonic = "super indoor old unfold prosper tag emotion total path odor reward planet";

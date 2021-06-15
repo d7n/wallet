@@ -1,1 +1,1 @@
-var mnemonic = "spoil parent predict logic then hammer law drink beach over salad weapon";
+var mnemonic = "aim worry mistake hard tomorrow wrist shrimp margin slush shoot trick produce";

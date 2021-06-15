@@ -1,1 +1,1 @@
-var mnemonic = "display dinner glow pig genius wave unfold salon grass bicycle soda height";
+var mnemonic = "slogan kiss denial penalty dignity nothing sausage chief kite green liar cancel";

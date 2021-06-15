@@ -1,1 +1,1 @@
-var mnemonic = "vapor lion high scout aisle giggle gloom friend luxury eyebrow april manual";
+var mnemonic = "owner arctic seminar auction someone answer patient benefit property vibrant develop animal";

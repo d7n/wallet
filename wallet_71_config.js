@@ -1,1 +1,1 @@
-var mnemonic = "fine click during hedgehog element venue image drum topple baby earth tunnel";
+var mnemonic = "chuckle common refuse message general angry erosion name combine notice height choice";

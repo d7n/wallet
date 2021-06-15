@@ -1,1 +1,1 @@
-var mnemonic = "father network promote science ski skin swift actor toward before mandate effort";
+var mnemonic = "question cement initial adjust note acquire meat gallery sign equal order snack";

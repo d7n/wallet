@@ -1,1 +1,1 @@
-var mnemonic = "crawl pact food knee lens fat absurd scout oval supply run elegant";
+var mnemonic = "vintage jealous position decade ribbon like long unit stable wheat urge earn";

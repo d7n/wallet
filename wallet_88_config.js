@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow sell gas assist rack duck clip garlic kick clever robot win";
+var mnemonic = "autumn hen public earth liquid magic print tackle bar access deputy puppy";

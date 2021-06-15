@@ -1,1 +1,1 @@
-var mnemonic = "hollow offer language afford grant journey fantasy room rug plunge voice flavor";
+var mnemonic = "sense recipe upper area north over behind wire assist resist silent then";

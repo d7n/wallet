@@ -1,1 +1,1 @@
-var mnemonic = "caution ridge sight spatial vivid gather glow love gallery sound grief market";
+var mnemonic = "truly practice churn used lock pen lawsuit mimic divide wink skill slice";

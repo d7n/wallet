@@ -1,1 +1,1 @@
-var mnemonic = "arrest chicken jeans minute finish father hobby carbon shove broom faith calm";
+var mnemonic = "pluck civil crawl fruit avoid table amount throw nerve soldier sock control";

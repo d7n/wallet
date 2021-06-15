@@ -1,1 +1,1 @@
-var mnemonic = "ancient rifle abandon apart hurry amateur buzz wing accident ozone mail million";
+var mnemonic = "despair salad marine motion arrest second wasp start health blind lazy dinner";

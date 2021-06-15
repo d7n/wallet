@@ -1,1 +1,1 @@
-var mnemonic = "document usual outdoor leader wing dutch modify resist old control vanish potato";
+var mnemonic = "scrap turtle soap kick magnet poem disagree sheriff order announce expect traffic";

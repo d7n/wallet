@@ -1,1 +1,1 @@
-var mnemonic = "style trophy thought document protect pupil thumb pool turkey stereo swim box";
+var mnemonic = "kangaroo knife dad roof soap onion custom column arm vapor moral general";

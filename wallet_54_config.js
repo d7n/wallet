@@ -1,1 +1,1 @@
-var mnemonic = "gold robust embark seminar labor lecture item badge agree asthma require muscle";
+var mnemonic = "receive labor secret silver indicate thumb reunion drill belt have broccoli alley";

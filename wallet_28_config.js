@@ -1,1 +1,1 @@
-var mnemonic = "edge shiver mixed pipe plate general unit phrase during prison kidney board";
+var mnemonic = "anxiety skill donor bamboo motion hip odor keen prosper forum monkey type";

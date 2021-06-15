@@ -1,1 +1,1 @@
-var mnemonic = "solve vapor token rifle anxiety primary split slight audit piece wife permit";
+var mnemonic = "normal rug year episode all inspire resource make cool hole gather cigar";

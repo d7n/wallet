@@ -1,1 +1,1 @@
-var mnemonic = "coconut female cram woman bring tray prize rail rebuild pepper dilemma item";
+var mnemonic = "output truck patient bulk nominee couch kiwi chief inhale report only identify";

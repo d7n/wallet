@@ -1,1 +1,1 @@
-var mnemonic = "chef section scan ski dynamic amused trumpet poem maple upset venture call";
+var mnemonic = "body cross decade scatter start turn spice logic december endless clip bundle";

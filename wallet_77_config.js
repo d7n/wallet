@@ -1,1 +1,1 @@
-var mnemonic = "hair sea gown day canal dial enemy finish ring baby shop regret";
+var mnemonic = "treat tattoo banana bar flight fiber language february fish enjoy effort air";

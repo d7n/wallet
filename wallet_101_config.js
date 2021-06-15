@@ -1,1 +1,1 @@
-var mnemonic = "friend power manage moon wolf enforce afraid police parade wood renew lawn";
+var mnemonic = "mouse flat depend drive illegal truth silent tag slice cushion crack flee";

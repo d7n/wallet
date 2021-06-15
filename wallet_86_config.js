@@ -1,1 +1,1 @@
-var mnemonic = "wear pyramid pudding celery above luggage family clerk twin brand whip grid";
+var mnemonic = "soft swim walk strategy shock picture hollow tonight bleak real mesh trash";

@@ -1,1 +1,1 @@
-var mnemonic = "robust pool parade inmate warm stairs annual street foster gun essay tiny";
+var mnemonic = "simple equal despair defense announce drum rough cruel fashion slot benefit spatial";

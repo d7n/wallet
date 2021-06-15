@@ -1,1 +1,1 @@
-var mnemonic = "frown present join coconut swift main myth tape sock bar idea early";
+var mnemonic = "note brief spring year now coil body tattoo design asset loop faculty";

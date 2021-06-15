@@ -1,1 +1,1 @@
-var mnemonic = "soon frequent debris picnic distance control accident grunt verify crisp face install";
+var mnemonic = "tray first goddess lazy badge spell canoe moment clay become drastic feature";

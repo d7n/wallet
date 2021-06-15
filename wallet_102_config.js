@@ -1,1 +1,1 @@
-var mnemonic = "sing assist avoid prison acoustic physical refuse century dizzy draw supreme sure";
+var mnemonic = "safe viable inspire novel tired visual service fall hurdle fire engine devote";

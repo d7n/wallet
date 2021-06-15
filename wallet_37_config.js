@@ -1,1 +1,1 @@
-var mnemonic = "dragon device illegal bronze say cruel sponsor diesel hobby image transfer toilet";
+var mnemonic = "obvious sphere tell stock people egg joy eager fame work angry craft";

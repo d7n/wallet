@@ -1,1 +1,1 @@
-var mnemonic = "rare when quote slim reduce easily rare victory patient clip balance orbit";
+var mnemonic = "charge shadow afraid dilemma chat deny flame key forward history link near";

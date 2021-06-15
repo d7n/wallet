@@ -1,1 +1,1 @@
-var mnemonic = "pepper congress soon autumn where spread donkey alley apple cost aunt bargain";
+var mnemonic = "issue scout universe add gain usual rib talk onion lady despair cluster";

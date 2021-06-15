@@ -1,1 +1,1 @@
-var mnemonic = "hood dolphin cat clap plug ancient cabbage radar window buffalo small trash";
+var mnemonic = "radio ankle diamond glimpse front daring involve garlic method boil reveal pioneer";

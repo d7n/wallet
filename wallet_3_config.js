@@ -1,1 +1,1 @@
-var mnemonic = "slim into plunge limb caution pear waste leave rack avocado crime tiger";
+var mnemonic = "trouble sibling alert space obey left demise build mention warrior rival champion";

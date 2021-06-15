@@ -1,1 +1,1 @@
-var mnemonic = "place reason poverty appear undo mammal width blur love expand heart already";
+var mnemonic = "hire eye antique throw symbol kiss nest box atom sleep gadget unique";

@@ -1,1 +1,1 @@
-var mnemonic = "proof unlock slim feed host amateur twenty velvet design flush topple doll";
+var mnemonic = "audit churn wear crunch guess negative deposit buffalo anchor easy give gloom";

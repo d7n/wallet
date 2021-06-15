@@ -1,1 +1,1 @@
-var mnemonic = "coconut army squirrel image skin lens adult mother text donkey minimum where";
+var mnemonic = "loyal cinnamon capable capable body surprise kitchen hill bitter antique off call";

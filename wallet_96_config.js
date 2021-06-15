@@ -1,1 +1,1 @@
-var mnemonic = "faith gesture auto case session merit motion initial isolate horn wall define";
+var mnemonic = "crystal hover whip drum athlete display kidney run panel mammal depth trigger";

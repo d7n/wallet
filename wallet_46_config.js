@@ -1,1 +1,1 @@
-var mnemonic = "enrich advance stick unit eight flavor supreme lamp bus coin two wear";
+var mnemonic = "already input pen guitar kite exclude topic meat senior they system veteran";

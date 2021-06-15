@@ -1,1 +1,1 @@
-var mnemonic = "nasty excite seek liquid useful shop fence tuition drop era print jewel";
+var mnemonic = "hen kick crack neglect fuel buyer grid seminar next leader simple cream";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger clever miracle eager coral copper reveal champion explain perfect impact laugh";
+var mnemonic = "eager nurse miracle field accuse color silent camera erase bamboo moral canyon";

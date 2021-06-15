@@ -1,1 +1,1 @@
-var mnemonic = "mention document task lend decrease dinosaur solution cause deposit zone about file";
+var mnemonic = "visa bright chuckle deny host raw shoe chunk donor smoke ancient scatter";

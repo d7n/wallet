@@ -1,1 +1,1 @@
-var mnemonic = "envelope net stand depend street immune zebra parent lunch simple manual acoustic";
+var mnemonic = "moon submit ill flock wide pepper blame expire what lady royal surround";

@@ -1,1 +1,1 @@
-var mnemonic = "body fortune interest picture ugly idle regret feel quality argue table zone";
+var mnemonic = "sauce swamp smooth walnut kite join expand inflict resource indicate pitch clump";

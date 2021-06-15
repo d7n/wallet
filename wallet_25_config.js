@@ -1,1 +1,1 @@
-var mnemonic = "remind current digital discover fabric guide solution idle merge antenna wild mail";
+var mnemonic = "unveil kit essay glove cheap cinnamon frozen order peasant novel slot retreat";

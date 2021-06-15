@@ -1,1 +1,1 @@
-var mnemonic = "poem luggage tag worry have worry hood lumber robot tonight exhaust talent";
+var mnemonic = "double april fall cage cluster vivid trial volcano copy timber web main";

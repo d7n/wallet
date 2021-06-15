@@ -1,1 +1,1 @@
-var mnemonic = "glove arrow harvest leisure habit problem local horse blade ribbon act pumpkin";
+var mnemonic = "powder enemy orbit physical twenty blood camp whale merge wide bring pair";

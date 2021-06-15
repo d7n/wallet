@@ -1,1 +1,1 @@
-var mnemonic = "install push today swear horror stay special text regret chest mom regular";
+var mnemonic = "foil pioneer rose warfare treat gauge decide slush ignore orient crunch clap";

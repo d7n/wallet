@@ -1,1 +1,1 @@
-var mnemonic = "device float lamp celery foil album river crash rack apple win praise";
+var mnemonic = "settle win pair cable only start corn water fitness muffin aunt cactus";

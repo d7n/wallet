@@ -1,1 +1,1 @@
-var mnemonic = "nest enhance detect asset fatigue stem wealth discover outside siren tonight food";
+var mnemonic = "magnet rug design cheap body input apart citizen author camp miss laugh";

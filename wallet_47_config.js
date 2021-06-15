@@ -1,1 +1,1 @@
-var mnemonic = "correct soap scorpion same top fork dash surprise vibrant desk twice term";
+var mnemonic = "photo fortune approve situate armor slush acoustic tackle slide tattoo guard assume";

@@ -1,1 +1,1 @@
-var mnemonic = "depth wear hidden pitch loud start noise leaf one random stand dirt";
+var mnemonic = "normal sketch bacon blind boy slice initial horse stool soon suspect health";

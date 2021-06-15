@@ -1,1 +1,1 @@
-var mnemonic = "shock bicycle area panic powder blouse reform relief cart shine lawn top";
+var mnemonic = "toddler custom lesson trash turtle cool bean tornado canvas elegant jump ivory";

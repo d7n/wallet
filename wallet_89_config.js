@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin engine element monster forget decline kangaroo scorpion upon best blade bleak";
+var mnemonic = "alpha fish spare galaxy rare festival cement jeans destroy gauge borrow moment";
