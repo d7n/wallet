@@ -1,1 +1,1 @@
-var mnemonic = "flower sunset duty market mercy chef rain world scene shed sea unveil";
+var mnemonic = "then people electric smoke mercy grain door fatal sorry visual replace stock";

@@ -1,1 +1,1 @@
-var mnemonic = "salute benefit clip arrow mansion vivid ginger humor orphan motor surround fox";
+var mnemonic = "lift mobile lamp journey planet head impose camp liberty display industry mechanic";

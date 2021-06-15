@@ -1,1 +1,1 @@
-var mnemonic = "stand carbon dinosaur supreme explain leisure father gap camp rug valid diesel";
+var mnemonic = "skirt blame paper stomach crash cube leisure lion enhance purpose regret impulse";

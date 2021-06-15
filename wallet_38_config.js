@@ -1,1 +1,1 @@
-var mnemonic = "soda mechanic awful blue hour burst figure brother clay company kid peasant";
+var mnemonic = "flame audit pizza power soup salute spatial follow hero body soccer barely";

@@ -1,1 +1,1 @@
-var mnemonic = "left receive prosper recall language aunt fox uncover guilt abandon hotel try";
+var mnemonic = "discover month fade pulp little cheap version sell minor left shock pink";

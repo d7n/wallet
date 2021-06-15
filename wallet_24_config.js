@@ -1,1 +1,1 @@
-var mnemonic = "health cat ice route silent swallow awkward section shoulder strike because robust";
+var mnemonic = "nose danger symbol bring food occur wash tomorrow wise what blame staff";

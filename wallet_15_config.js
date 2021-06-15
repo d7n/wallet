@@ -1,1 +1,1 @@
-var mnemonic = "alcohol face seat idle suit benefit aunt agree middle sleep spare kitten";
+var mnemonic = "together saddle book loyal gospel various coconut stove tennis mesh flag word";

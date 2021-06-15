@@ -1,1 +1,1 @@
-var mnemonic = "elegant tell mandate silly reward wet scorpion include flower zebra rug brick";
+var mnemonic = "early leopard term winter option sleep clump april random profit cram wear";

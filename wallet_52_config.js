@@ -1,1 +1,1 @@
-var mnemonic = "insect used spot suit item uncover place member gain acquire today sleep";
+var mnemonic = "solid obscure parent bicycle cram olive trophy duck bone supreme dress order";

@@ -1,1 +1,1 @@
-var mnemonic = "mountain able spatial thumb force fox input verify panic hybrid puzzle all";
+var mnemonic = "exist toe industry exact medal ivory relax recycle tomato sort umbrella lock";

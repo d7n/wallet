@@ -1,1 +1,1 @@
-var mnemonic = "state tornado fetch vacuum strategy truck senior outdoor resemble decrease casino weasel";
+var mnemonic = "latin level rule equal quiz devote mystery possible helmet save exist quick";

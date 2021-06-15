@@ -1,1 +1,1 @@
-var mnemonic = "unknown job neck atom derive divide thumb produce chapter giggle cross organ";
+var mnemonic = "invite lab grab bike bachelor inform sort symptom display sweet you knee";

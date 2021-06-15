@@ -1,1 +1,1 @@
-var mnemonic = "emerge battle admit retire renew filter catch yard horse task room disagree";
+var mnemonic = "hammer endless poverty uphold people airport fitness simple rifle journey only produce";

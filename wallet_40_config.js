@@ -1,1 +1,1 @@
-var mnemonic = "loud become source risk correct inherit oppose fade alarm pig tonight mountain";
+var mnemonic = "vendor engine spot maze champion year ride cost zebra giraffe current margin";

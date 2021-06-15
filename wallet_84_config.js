@@ -1,1 +1,1 @@
-var mnemonic = "ozone near neck series athlete math luggage front craft gorilla thing galaxy";
+var mnemonic = "snap jaguar person silk gossip giggle beef essay soap travel trip gain";

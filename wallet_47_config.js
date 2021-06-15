@@ -1,1 +1,1 @@
-var mnemonic = "badge soap hood direct town dose magnet outdoor patient predict together salute";
+var mnemonic = "other sudden arena proof lecture pretty snap ensure curtain comic brisk garbage";

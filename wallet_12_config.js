@@ -1,1 +1,1 @@
-var mnemonic = "genuine face rate birth ladder debate once depend suggest uphold market iron";
+var mnemonic = "high angle report service frost neck chat enlist prison upset target furnace";

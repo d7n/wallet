@@ -1,1 +1,1 @@
-var mnemonic = "found illegal crop fix action stick travel nice critic trend frequent guitar";
+var mnemonic = "collect flee token shove pledge material situate father cliff mimic pull column";

@@ -1,1 +1,1 @@
-var mnemonic = "host seed dial universe leave hamster keep deputy fever divorce success critic";
+var mnemonic = "dish quarter pepper segment poverty brother online dolphin swift relax post force";

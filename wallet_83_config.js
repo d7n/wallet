@@ -1,1 +1,1 @@
-var mnemonic = "habit stage brick apology dad marble soccer defense anxiety resist gesture disagree";
+var mnemonic = "grace mountain aim dutch december income raven antique bread story blind park";

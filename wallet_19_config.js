@@ -1,1 +1,1 @@
-var mnemonic = "column describe climb usage expect normal ostrich symbol female virtual judge report";
+var mnemonic = "same front payment make chase million obvious unaware original phone easy universe";

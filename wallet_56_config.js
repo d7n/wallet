@@ -1,1 +1,1 @@
-var mnemonic = "bleak ecology bundle gown govern island rug elite mouse nasty bean certain";
+var mnemonic = "reform obscure flash sentence fresh expose saddle tree small girl document cake";

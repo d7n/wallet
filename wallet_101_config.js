@@ -1,1 +1,1 @@
-var mnemonic = "task address bag fatigue material popular eternal milk undo siren round proof";
+var mnemonic = "price blind father judge unique garment know craft cruise stay view office";

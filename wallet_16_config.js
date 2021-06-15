@@ -1,1 +1,1 @@
-var mnemonic = "sure solar assault airport option airport paddle isolate glass hole garden payment";
+var mnemonic = "become foot census marriage hub country castle friend give oval electric lottery";

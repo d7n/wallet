@@ -1,1 +1,1 @@
-var mnemonic = "private design noble lift actor frequent toilet render egg jelly forum invest";
+var mnemonic = "middle pretty urge raccoon alcohol hand network media yard length index guard";

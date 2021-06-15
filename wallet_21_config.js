@@ -1,1 +1,1 @@
-var mnemonic = "crowd spoil night video correct earn onion glad earth delay alcohol caution";
+var mnemonic = "lunar switch helmet weapon upgrade wife excess tell salute solve detect language";

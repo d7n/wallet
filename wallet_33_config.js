@@ -1,1 +1,1 @@
-var mnemonic = "journey adjust pluck wagon warm ostrich enforce quote hockey belt leaf when";
+var mnemonic = "large comfort hybrid soup genuine security nominee pencil secret celery distance visit";

@@ -1,1 +1,1 @@
-var mnemonic = "concert ignore ready glass sketch doctor produce machine effort business student laundry";
+var mnemonic = "course transfer forest party begin clerk float upset pair owner garage tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "device section wild useless scissors rabbit chef heart scorpion kangaroo giant knee";
+var mnemonic = "immune afraid fatigue silver book orphan horse boat notice canal never barrel";

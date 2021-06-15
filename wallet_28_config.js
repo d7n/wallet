@@ -1,1 +1,1 @@
-var mnemonic = "absorb spice much shed whale sleep top hundred alley luggage tomorrow frown";
+var mnemonic = "fluid such input palace fever ritual cover wagon seed heart donate remind";

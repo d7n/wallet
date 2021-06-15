@@ -1,1 +1,1 @@
-var mnemonic = "bamboo box blood illegal leaf where horse equip heart hidden napkin clown";
+var mnemonic = "replace ramp flame alter later man grass fork around poet census soul";

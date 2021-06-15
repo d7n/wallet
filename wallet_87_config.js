@@ -1,1 +1,1 @@
-var mnemonic = "diamond evil power order predict vendor erupt dragon detect remember vanish option";
+var mnemonic = "mountain chest loan crisp bomb truck series town consider today cherry ivory";

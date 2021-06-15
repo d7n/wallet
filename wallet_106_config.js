@@ -1,1 +1,1 @@
-var mnemonic = "child funny grab odor mix tank remind frown pulse spoon bird twenty";
+var mnemonic = "drum faculty oil settle also resemble olympic cute edge bottom umbrella wave";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase tool game story palace ball snack stadium cotton zebra high quantum";
+var mnemonic = "moral effort vanish proof tribe sausage other eager loud axis tooth joke";

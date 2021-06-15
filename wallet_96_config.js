@@ -1,1 +1,1 @@
-var mnemonic = "income ask identify lend evil diet praise absent couch art seminar liquid";
+var mnemonic = "use tomato level wool bullet like bottom solar rhythm neutral brief pony";

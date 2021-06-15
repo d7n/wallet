@@ -1,1 +1,1 @@
-var mnemonic = "adjust ring drink umbrella rebel draft country ceiling avoid misery tiny game";
+var mnemonic = "ready sadness absurd flock panic hold stadium carbon remind whale timber mouse";

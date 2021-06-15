@@ -1,1 +1,1 @@
-var mnemonic = "parade deposit law ride congress disagree fat peanut disorder reopen demand tenant";
+var mnemonic = "peanut oil evidence draft very wire soldier empty lunch roast garden annual";

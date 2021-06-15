@@ -1,1 +1,1 @@
-var mnemonic = "stairs attitude arctic result feature all sure predict cradle panda jungle shoulder";
+var mnemonic = "small south hunt effort good crunch work crew spell barrel else quote";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly witness skate consider reopen fix call draft topple tube indoor margin";
+var mnemonic = "scorpion history setup bike attack virus session panda luxury sketch country fox";

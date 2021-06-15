@@ -1,1 +1,1 @@
-var mnemonic = "famous place occur distance load certain quick twist salon since february barrel";
+var mnemonic = "strong jelly project tumble embrace unusual essence symbol address disorder intact blur";

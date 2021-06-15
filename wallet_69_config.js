@@ -1,1 +1,1 @@
-var mnemonic = "stuff tower circle taste oven sun chair subject fee split certain since";
+var mnemonic = "issue depart siren famous ecology able fabric credit now goat neither cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "beach point woman penalty income paddle effort next praise agent tent ginger";
+var mnemonic = "friend insect drip install lake penalty limit slide junior cattle canoe grunt";

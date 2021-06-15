@@ -1,1 +1,1 @@
-var mnemonic = "agree indicate candy target retreat tenant fault giggle you behave tube swap";
+var mnemonic = "denial dawn bridge range unlock awesome picture icon favorite extra spread divorce";

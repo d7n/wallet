@@ -1,1 +1,1 @@
-var mnemonic = "choose eyebrow lesson click verb cousin add dream anxiety grant observe save";
+var mnemonic = "cargo vintage object lesson omit review embark walk renew palm medal arena";

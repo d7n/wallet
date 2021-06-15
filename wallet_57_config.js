@@ -1,1 +1,1 @@
-var mnemonic = "such under bench session wheel practice woman neck tooth among hunt bullet";
+var mnemonic = "grass border announce wash bachelor rug butter response table future expose gate";

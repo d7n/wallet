@@ -1,1 +1,1 @@
-var mnemonic = "box project promote leopard diagram enlist machine file twenty weird check visa";
+var mnemonic = "water duty clerk tower raccoon clump grow drill solution olympic scissors vault";

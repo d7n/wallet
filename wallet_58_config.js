@@ -1,1 +1,1 @@
-var mnemonic = "defense unusual welcome bike fortune better hungry mango demand fluid athlete material";
+var mnemonic = "reward reveal crumble coral liar indicate cactus million faint purchase parrot outer";

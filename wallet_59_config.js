@@ -1,1 +1,1 @@
-var mnemonic = "waste oxygen language scheme chest layer farm ozone rigid praise lottery metal";
+var mnemonic = "donor gasp toy adult army rival sell cherry shop recipe arch adjust";

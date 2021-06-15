@@ -1,1 +1,1 @@
-var mnemonic = "gauge story absurd dirt student cage under advice music chunk fantasy tobacco";
+var mnemonic = "gorilla nephew any access script humor treat fury space nasty repeat fix";

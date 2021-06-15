@@ -1,1 +1,1 @@
-var mnemonic = "worry warfare pipe staff bless tuition theory settle pen proof vivid concert";
+var mnemonic = "wish pole bomb mirror trash enter brick jaguar beef female tape proof";

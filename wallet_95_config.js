@@ -1,1 +1,1 @@
-var mnemonic = "derive portion sock credit erosion announce ball gloom device tragic parrot excess";
+var mnemonic = "increase moment various nuclear donor asset erosion drift warfare analyst grief maid";

@@ -1,1 +1,1 @@
-var mnemonic = "apart jar cheese noise spice smooth wise bless noodle random magic thunder";
+var mnemonic = "welcome body then renew muscle false song cattle elegant flee taste prosper";

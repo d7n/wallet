@@ -1,1 +1,1 @@
-var mnemonic = "drastic input gravity wide blind box junk local movie window pilot forget";
+var mnemonic = "divide problem defense bus act slide fetch blame grow eight blade mixture";

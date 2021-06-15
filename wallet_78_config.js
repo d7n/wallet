@@ -1,1 +1,1 @@
-var mnemonic = "spice defy piece used depth office asthma happy turn nice refuse exclude";
+var mnemonic = "drum alpha reform warfare dose canal announce unknown term assault music velvet";

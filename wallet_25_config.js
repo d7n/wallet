@@ -1,1 +1,1 @@
-var mnemonic = "attitude crop dove grant knock remain record renew club among sunset enact";
+var mnemonic = "garment token icon velvet sustain knock gym debate warrior way keep alarm";

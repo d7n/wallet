@@ -1,1 +1,1 @@
-var mnemonic = "supreme donkey bomb orchard alien pig bread soap there promote infant wrap";
+var mnemonic = "title heart there struggle meat town dragon dance moral scissors melt female";

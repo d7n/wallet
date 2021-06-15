@@ -1,1 +1,1 @@
-var mnemonic = "display meadow donate art truth blouse cupboard traffic comfort arctic situate drill";
+var mnemonic = "private poet high victory dirt urge awake patient expand whale turkey climb";

@@ -1,1 +1,1 @@
-var mnemonic = "transfer speak inch give theory flower kangaroo siege you document avocado staff";
+var mnemonic = "local chat history butter air avoid vintage spread spot issue initial food";

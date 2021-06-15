@@ -1,1 +1,1 @@
-var mnemonic = "ill false friend napkin social situate caution elder wreck vault define heart";
+var mnemonic = "virus joy private apology mention sphere absent pioneer resource exist mom thumb";

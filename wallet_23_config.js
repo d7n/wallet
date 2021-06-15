@@ -1,1 +1,1 @@
-var mnemonic = "cereal trust reward joy apart shield negative wheat skate educate weather deputy";
+var mnemonic = "upgrade aspect arena ocean dirt cruel marriage trip suspect tenant off skate";

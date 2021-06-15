@@ -1,1 +1,1 @@
-var mnemonic = "wrap pyramid choose punch rug dynamic ecology collect raccoon hire just guide";
+var mnemonic = "ozone tuition alone finish menu random candy island industry accuse lake merit";

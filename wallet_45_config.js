@@ -1,1 +1,1 @@
-var mnemonic = "praise apple match embody inflict raw boat way inspire predict soda occur";
+var mnemonic = "lonely series dust stumble note produce link lonely squirrel hobby chicken holiday";

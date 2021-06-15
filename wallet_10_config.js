@@ -1,1 +1,1 @@
-var mnemonic = "scale across scatter describe crane service kid obvious hair grow enough theme";
+var mnemonic = "expire canal lunar tribe duty setup expand appear dose giraffe evolve caution";

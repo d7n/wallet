@@ -1,1 +1,1 @@
-var mnemonic = "dog girl midnight absurd damp chunk acoustic raise excess mixture diary kid";
+var mnemonic = "draw sing chalk traffic clog joy minimum evoke pretty portion spider accuse";

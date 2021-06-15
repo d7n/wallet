@@ -1,1 +1,1 @@
-var mnemonic = "owner erase pencil maximum chef thunder custom giant earth gold rude drink";
+var mnemonic = "short chat mango lawsuit victory initial slogan aerobic option behind team grab";

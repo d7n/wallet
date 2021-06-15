@@ -1,1 +1,1 @@
-var mnemonic = "security pigeon popular asset deposit wealth oblige turn uphold bitter ugly wild";
+var mnemonic = "canoe quick horror merit spatial blur slender direct arena loan picture frown";

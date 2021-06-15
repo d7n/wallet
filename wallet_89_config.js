@@ -1,1 +1,1 @@
-var mnemonic = "brand remember whale occur garlic grief guitar dream rescue way slot stand";
+var mnemonic = "coral open tiger tube brain castle portion window flavor shuffle rapid crisp";

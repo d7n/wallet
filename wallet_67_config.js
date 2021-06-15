@@ -1,1 +1,1 @@
-var mnemonic = "dad retreat syrup waste general magic option hill company achieve host ankle";
+var mnemonic = "imitate edit dog trick aspect ozone more brisk motion choice ivory pipe";

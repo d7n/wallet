@@ -1,1 +1,1 @@
-var mnemonic = "replace long yard visa credit olympic deer fat trick shove range minute";
+var mnemonic = "cave cruel obvious paper discover guitar laundry enjoy student toddler master maid";

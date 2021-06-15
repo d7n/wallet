@@ -1,1 +1,1 @@
-var mnemonic = "collect evidence electric cry member mail office powder disagree material make wild";
+var mnemonic = "foam sad analyst acquire analyst nerve december lizard theme coyote baby tree";

@@ -1,1 +1,1 @@
-var mnemonic = "extra basic ethics wreck hover history surface link satoshi rally enhance awake";
+var mnemonic = "air aware derive roast draw embark armed advance wing zoo cereal wall";

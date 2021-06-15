@@ -1,1 +1,1 @@
-var mnemonic = "satisfy tiny amused muscle suffer castle year city cousin polar angry fat";
+var mnemonic = "lady have rescue age throw stem require fresh tag matter tonight wagon";

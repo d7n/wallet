@@ -1,1 +1,1 @@
-var mnemonic = "supply member meadow relax side federal spawn timber virtual noble stand left";
+var mnemonic = "melody escape truly swear anchor wreck domain umbrella road wonder struggle deny";

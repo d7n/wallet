@@ -1,1 +1,1 @@
-var mnemonic = "slow mad basket label forum shallow cradle gentle bless bulb ecology craft";
+var mnemonic = "glue build fade seed original hip hockey stumble fog mad impact blade";

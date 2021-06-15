@@ -1,1 +1,1 @@
-var mnemonic = "anxiety doll water patient now melt over access effort exotic gesture essay";
+var mnemonic = "photo cradle strategy atom sad renew rail brother unable setup two fever";

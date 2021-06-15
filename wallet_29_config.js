@@ -1,1 +1,1 @@
-var mnemonic = "achieve kick accuse like hello truth awkward depend domain torch age harsh";
+var mnemonic = "suffer sibling file coast grit one real toy decide wrestle liberty divert";

@@ -1,1 +1,1 @@
-var mnemonic = "party zero solution stay census wise small question kind evil eagle evoke";
+var mnemonic = "dignity donkey pepper sock short patrol false quantum grab involve flash test";

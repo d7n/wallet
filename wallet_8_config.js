@@ -1,1 +1,1 @@
-var mnemonic = "umbrella abuse because march lunch album crucial ship winter manual cereal nut";
+var mnemonic = "chicken cactus lunch frequent opera field lake key media ridge supply amused";

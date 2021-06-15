@@ -1,1 +1,1 @@
-var mnemonic = "grant captain embark view pass orphan choice panic flee quit shine agree";
+var mnemonic = "above regret inspire valid twelve fine afford pudding outside sniff twelve green";

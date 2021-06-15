@@ -1,1 +1,1 @@
-var mnemonic = "soccer strong text twice blossom travel orphan plate drop butter december math";
+var mnemonic = "claim pair enroll embark require news already rude choose beef skill supreme";

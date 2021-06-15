@@ -1,1 +1,1 @@
-var mnemonic = "kiwi danger inquiry game panel either shadow cause frost broken pencil athlete";
+var mnemonic = "goose evolve chef scale copper divorce visual farm impose faith cargo genius";

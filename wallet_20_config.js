@@ -1,1 +1,1 @@
-var mnemonic = "toy taste remember ghost garden rich ocean opera health hundred winter sniff";
+var mnemonic = "mask mistake mango empty absorb saddle receive bargain champion spy impulse witness";

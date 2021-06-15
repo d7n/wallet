@@ -1,1 +1,1 @@
-var mnemonic = "slow drill give habit tooth wisdom palace stay disease brass caution rate";
+var mnemonic = "dolphin drive awake problem repair toy awful club trip midnight mirror dignity";

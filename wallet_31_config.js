@@ -1,1 +1,1 @@
-var mnemonic = "boat spin gravity hole pet lonely action admit duck chat people hybrid";
+var mnemonic = "opera lawn canvas people fortune response broken civil oblige twenty adjust kingdom";

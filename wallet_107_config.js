@@ -1,1 +1,1 @@
-var mnemonic = "cigar glide faith before trust range salad sea cry clever gorilla entry";
+var mnemonic = "help myth medal text crunch peanut junk depart avoid hub pause color";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy occur wisdom salon embrace blur gather erode peace tenant subject cloth";
+var mnemonic = "dirt long smooth service pudding bulk draft doll pilot busy inquiry north";

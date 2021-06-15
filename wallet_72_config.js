@@ -1,1 +1,1 @@
-var mnemonic = "phone solid uniform loop lock false robot work size trigger scare spatial";
+var mnemonic = "come language glimpse vague there maze ice ugly museum suggest canoe marine";

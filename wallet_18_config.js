@@ -1,1 +1,1 @@
-var mnemonic = "virus crawl lawn essence almost salmon reduce panda place right interest museum";
+var mnemonic = "game deer video offer turtle lens auction mandate mansion wasp layer cheese";

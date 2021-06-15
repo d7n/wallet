@@ -1,1 +1,1 @@
-var mnemonic = "spirit crystal capable under public elder upon sense mix multiply flip love";
+var mnemonic = "false switch grant bunker shy suffer bracket perfect theory ladder oppose health";

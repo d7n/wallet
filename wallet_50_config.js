@@ -1,1 +1,1 @@
-var mnemonic = "digital clock trigger unusual agent alarm analyst gown curious siege odor champion";
+var mnemonic = "hurdle relief salt absurd security horn domain illness ladder detect sweet unaware";
