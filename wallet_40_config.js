@@ -1,1 +1,1 @@
-var mnemonic = "guide rubber unfair pride prepare drift fence display bicycle across diamond grace";
+var mnemonic = "seat captain ramp injury vibrant ten grit reward toast combine crime accuse";

@@ -1,1 +1,1 @@
-var mnemonic = "flag globe theme hammer lens illegal short vacant acquire layer ski anchor";
+var mnemonic = "shrug ripple mosquito area disease cloud cry gossip thrive final fun excuse";

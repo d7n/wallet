@@ -1,1 +1,1 @@
-var mnemonic = "dolphin flush imitate nice hundred pulse they solve invite coral remind clerk";
+var mnemonic = "beach dose trim bronze fame upper dignity caution ocean execute able injury";

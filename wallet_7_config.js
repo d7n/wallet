@@ -1,1 +1,1 @@
-var mnemonic = "omit fun super uphold equip pass grant impose inhale vacant dynamic ginger";
+var mnemonic = "vapor goose ticket account fish number filter never duck peasant other detect";

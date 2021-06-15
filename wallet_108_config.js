@@ -1,1 +1,1 @@
-var mnemonic = "lobster refuse note meat accuse carpet humble learn bullet popular fatigue quiz";
+var mnemonic = "powder focus chimney lava tortoise peace evidence gossip doll street raise athlete";

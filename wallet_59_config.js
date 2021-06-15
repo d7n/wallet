@@ -1,1 +1,1 @@
-var mnemonic = "float sure metal clinic lens hen vague cat tide priority monitor flight";
+var mnemonic = "road unfair prosper ski easily tip tomorrow city comfort burden blast nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "broken exclude kitten rotate canyon opinion grief glide fee drink coil final";
+var mnemonic = "prefer cute around vapor judge carbon sauce project three about noise flight";

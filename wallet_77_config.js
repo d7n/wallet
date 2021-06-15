@@ -1,1 +1,1 @@
-var mnemonic = "deny garage artefact roof route project dress music scorpion risk detail coffee";
+var mnemonic = "club weird okay choice target resource adjust retire eager capital oblige cheese";

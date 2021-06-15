@@ -1,1 +1,1 @@
-var mnemonic = "isolate silk response balcony gauge entry detect buffalo breeze crew theory stereo";
+var mnemonic = "wish bubble equip acid clay champion maid essence apple shoe dentist frog";

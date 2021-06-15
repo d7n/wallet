@@ -1,1 +1,1 @@
-var mnemonic = "problem priority gift miracle hard lawn shaft rookie tape alcohol rate title";
+var mnemonic = "once damage dust mother welcome across purity issue alcohol average trouble traffic";

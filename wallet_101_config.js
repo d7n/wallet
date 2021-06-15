@@ -1,1 +1,1 @@
-var mnemonic = "bulb uphold drift march glue order aware decide diagram naive clip present";
+var mnemonic = "drop airport motion comic annual critic seek muffin lend review solid badge";

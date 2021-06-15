@@ -1,1 +1,1 @@
-var mnemonic = "caught canal fork luxury liquid clean just junior essay limb donkey ostrich";
+var mnemonic = "acoustic easily donate diamond express brush twelve chimney stomach sting novel cake";

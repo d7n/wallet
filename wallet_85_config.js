@@ -1,1 +1,1 @@
-var mnemonic = "this vapor february dust inch talk elegant plug purpose position evidence start";
+var mnemonic = "pig abuse crucial slide moment coast human retire help verify genius exhibit";

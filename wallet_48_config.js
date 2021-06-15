@@ -1,1 +1,1 @@
-var mnemonic = "melody dice magnet boy seed window evil edit quiz thrive power cable";
+var mnemonic = "elbow rhythm grit best perfect staff manage heavy elder brass humor fade";

@@ -1,1 +1,1 @@
-var mnemonic = "burger ten multiply attack north diary critic speed busy inject dynamic suit";
+var mnemonic = "mad ride else maid describe luxury brief limb hurdle above couch expect";

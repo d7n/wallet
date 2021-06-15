@@ -1,1 +1,1 @@
-var mnemonic = "acquire hidden like battle hybrid deal warrior ability attract cable body shallow";
+var mnemonic = "chimney electric hen cloud wood ripple rescue tumble save concert want unveil";

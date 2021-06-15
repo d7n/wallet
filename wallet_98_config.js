@@ -1,1 +1,1 @@
-var mnemonic = "ensure mosquito olympic depend struggle uniform copper fever mechanic maid spend usage";
+var mnemonic = "page fox immune scrap lend charge drill pave ice approve edge seminar";

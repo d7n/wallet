@@ -1,1 +1,1 @@
-var mnemonic = "wire girl perfect fun spare thing tiger metal skull pet alcohol shrimp";
+var mnemonic = "open school orange style blouse emotion mosquito weird source snake absorb giant";

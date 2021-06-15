@@ -1,1 +1,1 @@
-var mnemonic = "dentist upgrade deposit afford large stable final glimpse damage address diesel habit";
+var mnemonic = "basket drive summer aisle scrap mixture old journey net flight glass ability";

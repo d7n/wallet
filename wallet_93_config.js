@@ -1,1 +1,1 @@
-var mnemonic = "comic brush account base decade call canyon rubber egg border pen dress";
+var mnemonic = "action loop profit spin search arrow since card prevent social turtle banana";

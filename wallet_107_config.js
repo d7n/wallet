@@ -1,1 +1,1 @@
-var mnemonic = "sleep fatigue field fresh myself tone symbol kingdom enjoy grass only spell";
+var mnemonic = "peasant story web finger cup discover aerobic nuclear heart spray jewel peanut";

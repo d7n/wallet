@@ -1,1 +1,1 @@
-var mnemonic = "virus mule fold frog finish oppose execute assist barrel evolve giraffe clerk";
+var mnemonic = "girl nose circle security appear actor list sniff limit there thing used";

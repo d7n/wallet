@@ -1,1 +1,1 @@
-var mnemonic = "negative omit okay brisk mushroom expire clinic universe object olympic secret produce";
+var mnemonic = "dentist cruel fringe cereal razor museum limb tiny puppy echo chair gold";

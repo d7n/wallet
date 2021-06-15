@@ -1,1 +1,1 @@
-var mnemonic = "tooth state yard spot gas salute swallow differ inquiry ritual make kitchen";
+var mnemonic = "tooth shallow fiction shove wife flock essay sell inmate soup country noble";

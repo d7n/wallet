@@ -1,1 +1,1 @@
-var mnemonic = "excite tomato build silent awkward rain picture bread cry deliver cover sister";
+var mnemonic = "bitter brother option corn skill impact elbow pioneer left clump fox water";

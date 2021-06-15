@@ -1,1 +1,1 @@
-var mnemonic = "segment enact kit practice spare exit proud century grab student ladder perfect";
+var mnemonic = "input brush lottery secret similar course alley spell animal great depart include";

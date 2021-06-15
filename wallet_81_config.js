@@ -1,1 +1,1 @@
-var mnemonic = "pipe place predict blouse script attack quiz assume hedgehog version state drift";
+var mnemonic = "tray manage supreme shoot mandate subway inject one diagram stomach wild know";

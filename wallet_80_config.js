@@ -1,1 +1,1 @@
-var mnemonic = "cream runway aim annual drama phone open boat warm young submit explain";
+var mnemonic = "goat brand random ship course park maid close ride decorate upset hedgehog";

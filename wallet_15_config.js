@@ -1,1 +1,1 @@
-var mnemonic = "famous wealth soon search cost next head solid pistol fatal radio all";
+var mnemonic = "budget welcome owner twin river entire key decline swap liar extend action";

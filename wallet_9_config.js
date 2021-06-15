@@ -1,1 +1,1 @@
-var mnemonic = "elite pistol strong siren often maple movie voice curve warm image miracle";
+var mnemonic = "lazy bone stereo country submit because fine focus approve place slide era";

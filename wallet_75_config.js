@@ -1,1 +1,1 @@
-var mnemonic = "brain between private sugar kind student clay bless eagle weapon pretty pilot";
+var mnemonic = "simple kid paddle blouse corn simple that return urge flush still sorry";

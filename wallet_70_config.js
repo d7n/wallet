@@ -1,1 +1,1 @@
-var mnemonic = "rookie oil between fury excite scorpion virus wrestle rebel harsh snow police";
+var mnemonic = "banner way fish pigeon hundred rent convince veteran fade school ritual danger";

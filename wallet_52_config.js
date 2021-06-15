@@ -1,1 +1,1 @@
-var mnemonic = "seed one office mix label garage ostrich normal enhance summer keep stay";
+var mnemonic = "deputy elder plug deputy sustain solar alert brother cricket busy domain enrich";

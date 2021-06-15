@@ -1,1 +1,1 @@
-var mnemonic = "glance library tackle brief riot alien cradle chunk female sweet guess coffee";
+var mnemonic = "sausage squirrel march hat piece sheriff nurse upper scheme kidney pizza exit";

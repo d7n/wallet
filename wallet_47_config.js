@@ -1,1 +1,1 @@
-var mnemonic = "artwork shell stay thing goat income noise icon company wolf face speak";
+var mnemonic = "embody head often gauge regret gain leave erosion polar direct congress govern";

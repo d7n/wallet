@@ -1,1 +1,1 @@
-var mnemonic = "vivid badge lend crack vanish situate learn potato vital spare amateur display";
+var mnemonic = "attitude teach learn blur hand target impact weather chase extra cabin select";

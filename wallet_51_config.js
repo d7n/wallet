@@ -1,1 +1,1 @@
-var mnemonic = "absorb cabbage nation pole rebuild wet female turn pencil add jar mandate";
+var mnemonic = "blossom reopen submit bundle rally reason shadow scrap marble receive smooth dinosaur";

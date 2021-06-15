@@ -1,1 +1,1 @@
-var mnemonic = "end draw prosper tunnel guard fence orange quantum flag spoil curtain squirrel";
+var mnemonic = "denial manage head green timber matrix fashion rigid gloom science summer battle";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy problem code host cloth pluck bacon own enemy curve small regular";
+var mnemonic = "list sheriff april desert unfold fire actual piano twin crouch favorite kingdom";

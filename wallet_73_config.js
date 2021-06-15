@@ -1,1 +1,1 @@
-var mnemonic = "rookie fiscal practice net pole category case plug stem chest slush total";
+var mnemonic = "toy hill auto crane recipe recipe seed animal useful shy rubber exile";

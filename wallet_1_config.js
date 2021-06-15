@@ -1,1 +1,1 @@
-var mnemonic = "silk adjust pair injury lift fan mosquito alter jeans interest exhaust junk";
+var mnemonic = "nut announce isolate strong tuition struggle figure smooth weird enable dune surface";

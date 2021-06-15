@@ -1,1 +1,1 @@
-var mnemonic = "course fun vessel reveal era review ethics tackle barely fit aspect adult";
+var mnemonic = "pluck make skill waste prefer glass icon shy sniff tuition basket raccoon";

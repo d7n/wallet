@@ -1,1 +1,1 @@
-var mnemonic = "desk logic wife level north tape vault case face erode catalog live";
+var mnemonic = "nephew bacon creek vicious arrest hospital mule inhale sign wet game model";

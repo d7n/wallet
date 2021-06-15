@@ -1,1 +1,1 @@
-var mnemonic = "actress provide move grape forest base know coffee seek liberty refuse deny";
+var mnemonic = "era wasp trash grass zoo ketchup chalk trend quit lazy learn canal";

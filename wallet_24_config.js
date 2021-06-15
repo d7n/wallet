@@ -1,1 +1,1 @@
-var mnemonic = "speed shrimp shine finger cruise exact sheriff debris spot elegant inch climb";
+var mnemonic = "endless purity day illegal absent asthma salon kick motor engine suggest side";

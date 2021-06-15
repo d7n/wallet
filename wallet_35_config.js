@@ -1,1 +1,1 @@
-var mnemonic = "verify shallow burst curve artefact decrease guide busy brand simple flavor knock";
+var mnemonic = "exile imitate know usage error opinion hospital spare witness gaze bomb arrive";

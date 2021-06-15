@@ -1,1 +1,1 @@
-var mnemonic = "true stereo observe palm fresh turn cherry throw ten twice satoshi plastic";
+var mnemonic = "exile siege crash rebel bulk gauge home pitch stage submit endorse dove";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle surge deputy network stove nice surprise icon base nerve movie pact";
+var mnemonic = "merge welcome decrease economy zero direct hospital ozone zoo appear buyer outer";

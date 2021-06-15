@@ -1,1 +1,1 @@
-var mnemonic = "any tonight remove differ census frog equal wasp axis mix whisper prevent";
+var mnemonic = "stuff ghost okay bread claim blush nature tragic immune odor elder cabin";

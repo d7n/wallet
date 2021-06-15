@@ -1,1 +1,1 @@
-var mnemonic = "next eight error web together parrot dream mistake raven ring core liquid";
+var mnemonic = "outer pitch staff party monitor barrel notable popular grant pottery pass brief";

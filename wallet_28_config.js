@@ -1,1 +1,1 @@
-var mnemonic = "emotion spare view patrol quality spare three junk joke hollow vapor undo";
+var mnemonic = "general thank utility pitch brown unhappy flush recipe flight witness toe reunion";

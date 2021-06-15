@@ -1,1 +1,1 @@
-var mnemonic = "dignity flush inmate lava stone infant reunion outside bitter pudding horse twenty";
+var mnemonic = "cycle pumpkin sphere hub cool rare since afford depart tiger seed knife";

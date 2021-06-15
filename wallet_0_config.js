@@ -1,1 +1,1 @@
-var mnemonic = "grab minute tiny blade merit evoke forum base cricket speak cattle indicate";
+var mnemonic = "art room comic elbow erase brief faint crunch game oyster almost donate";

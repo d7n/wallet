@@ -1,1 +1,1 @@
-var mnemonic = "blouse run leader hen jar public december blossom bitter race flee element";
+var mnemonic = "bright basket exotic minute toss valid confirm dial real creek gas assume";

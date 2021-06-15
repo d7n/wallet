@@ -1,1 +1,1 @@
-var mnemonic = "science vague climb finger fix tube develop tomorrow swap common potato unfold";
+var mnemonic = "young seminar traffic tape oblige silver save demand unveil picnic lava poem";

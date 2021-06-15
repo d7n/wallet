@@ -1,1 +1,1 @@
-var mnemonic = "rack finger ripple lemon erosion middle net casual frown suffer forum sphere";
+var mnemonic = "ritual job net vacuum butter custom clay ahead front fire make account";

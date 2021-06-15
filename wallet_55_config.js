@@ -1,1 +1,1 @@
-var mnemonic = "spoil course deer sunset success benefit royal frown toy fiscal hidden grunt";
+var mnemonic = "room note toy strike smooth blouse trend shallow diary latin announce miss";

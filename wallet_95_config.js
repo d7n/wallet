@@ -1,1 +1,1 @@
-var mnemonic = "element sad saddle jaguar vote soft chaos urban easily wheel game electric";
+var mnemonic = "fruit lamp discover peace elevator latin candy bacon barely duck night net";

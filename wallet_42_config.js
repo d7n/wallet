@@ -1,1 +1,1 @@
-var mnemonic = "project change flight police ability trust blame various seat milk powder urge";
+var mnemonic = "achieve walk sausage easily lens leg tag cost fade knife few nose";

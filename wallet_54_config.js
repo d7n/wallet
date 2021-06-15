@@ -1,1 +1,1 @@
-var mnemonic = "silent wear inside hobby spread knock simple faith better monster output fiscal";
+var mnemonic = "cattle case entire galaxy broccoli hammer chronic reason also client cactus hollow";

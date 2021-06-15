@@ -1,1 +1,1 @@
-var mnemonic = "else wage exotic size detect useless add ceiling edge switch turtle coconut";
+var mnemonic = "various calm hub jungle tennis trade envelope news tennis maid nominee steak";

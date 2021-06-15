@@ -1,1 +1,1 @@
-var mnemonic = "country net lunar tube tackle twenty fiber avocado carpet bachelor fence quit";
+var mnemonic = "sponsor suggest budget brush notable judge wheel author yard kite canyon very";

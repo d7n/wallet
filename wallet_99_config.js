@@ -1,1 +1,1 @@
-var mnemonic = "employ banana auction illegal attack town alter avocado unveil lake cupboard grocery";
+var mnemonic = "parade suspect box vague mandate kid claim fashion reform talent spatial erupt";

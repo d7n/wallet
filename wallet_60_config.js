@@ -1,1 +1,1 @@
-var mnemonic = "army lesson escape antique list fluid caught safe broccoli economy hurdle shift";
+var mnemonic = "wild spoil right under velvet female thunder thank behave damp guilt canvas";

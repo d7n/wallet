@@ -1,1 +1,1 @@
-var mnemonic = "tiger coach give cheap antique tip tenant steel reopen useless park animal";
+var mnemonic = "fit minimum grit short note explain firm hood utility civil exist melt";

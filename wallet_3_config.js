@@ -1,1 +1,1 @@
-var mnemonic = "car design tomorrow art globe crack bracket mixed type tag essence cinnamon";
+var mnemonic = "provide mix worth layer blade floor innocent decide win endorse excuse pretty";

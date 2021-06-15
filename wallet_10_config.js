@@ -1,1 +1,1 @@
-var mnemonic = "chuckle robot afraid vote tell transfer slow also vanish dizzy girl medal";
+var mnemonic = "basket raven gown estate helmet submit access cluster electric catalog joy asthma";

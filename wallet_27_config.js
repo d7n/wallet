@@ -1,1 +1,1 @@
-var mnemonic = "offer pool stomach usual congress small cry evil pattern retire hello mandate";
+var mnemonic = "slice brown give swarm frost supreme silk reform decorate please kidney lottery";

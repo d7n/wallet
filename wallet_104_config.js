@@ -1,1 +1,1 @@
-var mnemonic = "neck shine blast couple occur praise either nation buyer climb jelly sword";
+var mnemonic = "forward sing trouble gesture canvas crash glad kingdom ghost pottery business vague";

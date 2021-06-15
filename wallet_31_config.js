@@ -1,1 +1,1 @@
-var mnemonic = "color rack ship bronze twenty like among under swim amazing crane unknown";
+var mnemonic = "ranch laugh idle joke scorpion helmet holiday make unknown remind buffalo horror";

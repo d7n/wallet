@@ -1,1 +1,1 @@
-var mnemonic = "fabric track dinner result save scan crane depend possible winter scissors erupt";
+var mnemonic = "supreme praise rug knee flash veteran brisk ahead noble hood about decade";

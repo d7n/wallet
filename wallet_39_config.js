@@ -1,1 +1,1 @@
-var mnemonic = "struggle section august marriage flight title say sustain doll goddess labor feature";
+var mnemonic = "aim spell goose glove mountain foam eight reduce supply creek city issue";

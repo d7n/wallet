@@ -1,1 +1,1 @@
-var mnemonic = "permit nerve enemy frame coach prosper attend weird reflect flame crystal ostrich";
+var mnemonic = "embody remain dust island august genuine amateur book dynamic arrange staff secret";

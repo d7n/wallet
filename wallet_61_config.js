@@ -1,1 +1,1 @@
-var mnemonic = "century olive entire dish eager already cash lab fly glue stick yard";
+var mnemonic = "castle swing broccoli skull soon faint post fashion range opera sock orient";

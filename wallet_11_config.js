@@ -1,1 +1,1 @@
-var mnemonic = "table two giant art tank cycle reject battle whisper casual energy boss";
+var mnemonic = "mean grid social model soon bike theme access grab forum add bounce";

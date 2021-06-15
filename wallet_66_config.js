@@ -1,1 +1,1 @@
-var mnemonic = "hint leisure buffalo subway snow raccoon lunar melody off select avoid seven";
+var mnemonic = "recycle tent achieve address assist job crime album betray sadness chase reduce";

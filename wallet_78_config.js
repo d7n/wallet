@@ -1,1 +1,1 @@
-var mnemonic = "deposit stadium snack wealth exit disease snow amused sadness spoil october area";
+var mnemonic = "frame focus switch goat leisure convince rapid shrimp consider benefit diesel capital";

@@ -1,1 +1,1 @@
-var mnemonic = "fluid kind slide guitar endless shoulder yard month thrive quote fantasy nuclear";
+var mnemonic = "frozen festival pear dragon spend oblige ship rhythm fan enforce burst tiger";

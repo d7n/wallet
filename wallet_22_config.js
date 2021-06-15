@@ -1,1 +1,1 @@
-var mnemonic = "crane charge actor duck people meadow style pitch scrap badge mass lake";
+var mnemonic = "melt avoid state act spring pair stem salt major quiz apology nuclear";

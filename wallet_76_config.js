@@ -1,1 +1,1 @@
-var mnemonic = "zebra wrist require end stage lobster october federal enough lemon upset hurdle";
+var mnemonic = "skirt remind element grid trick faint about broken nest drum mention expect";

@@ -1,1 +1,1 @@
-var mnemonic = "journey wave track affair elite wood clap equip wire loan wear such";
+var mnemonic = "immune eager ocean mom milk digital hollow lock vocal athlete slender used";

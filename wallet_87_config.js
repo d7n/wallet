@@ -1,1 +1,1 @@
-var mnemonic = "gather parade banner rebel squeeze awesome blouse post sugar expose story possible";
+var mnemonic = "tower mom talent image pride rare section prosper game fog discover recycle";

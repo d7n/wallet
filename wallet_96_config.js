@@ -1,1 +1,1 @@
-var mnemonic = "jazz biology erode corn inflict enlist save arctic zoo seed patient loan";
+var mnemonic = "before horn stock step stem gym loyal shift uniform pear among hip";

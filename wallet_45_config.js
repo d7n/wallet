@@ -1,1 +1,1 @@
-var mnemonic = "direct now swing rib evil access govern romance repair choose paddle ignore";
+var mnemonic = "alert oil dose ordinary average attack pudding never blouse month survey stem";

@@ -1,1 +1,1 @@
-var mnemonic = "base sand song focus gift retreat master pencil engage wash swift huge";
+var mnemonic = "distance pattern text equal expire wrist quick cluster differ dwarf mystery circle";

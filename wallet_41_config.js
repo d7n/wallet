@@ -1,1 +1,1 @@
-var mnemonic = "soup curve forward shine exist elder sail across creek doctor list truly";
+var mnemonic = "split twist thought cluster music topple boy north unfold gate nation hotel";

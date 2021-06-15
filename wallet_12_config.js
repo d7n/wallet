@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo century bring glass skate boat balcony brain next gallery kangaroo grain";
+var mnemonic = "media resemble taxi comfort story talent keep phrase flock tenant mixed spawn";

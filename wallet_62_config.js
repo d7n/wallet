@@ -1,1 +1,1 @@
-var mnemonic = "voice favorite nation rent spider dignity car magnet interest spray uphold test";
+var mnemonic = "wealth shed day duck latin globe aware sense victory sunny entire unhappy";

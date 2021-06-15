@@ -1,1 +1,1 @@
-var mnemonic = "embrace trophy destroy million effort latin fat scene utility unique barely chimney";
+var mnemonic = "roof exit pluck fiscal spy picture goddess return wealth company tiger expire";

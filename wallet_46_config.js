@@ -1,1 +1,1 @@
-var mnemonic = "grow east spirit vault winter record umbrella cup glow confirm divide imitate";
+var mnemonic = "drill pair top romance thunder cable enrich whale erode hazard sun ski";

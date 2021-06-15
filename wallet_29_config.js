@@ -1,1 +1,1 @@
-var mnemonic = "giant ankle deputy lawn snap wine alley favorite food spot pill lonely";
+var mnemonic = "differ supply hole cash purpose rocket utility snake tip crew safe mutual";

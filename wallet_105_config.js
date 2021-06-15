@@ -1,1 +1,1 @@
-var mnemonic = "bacon fabric emerge stand among cook step pen notable vivid draft radio";
+var mnemonic = "mask holiday ripple pizza mother favorite pause wedding possible long weird image";
