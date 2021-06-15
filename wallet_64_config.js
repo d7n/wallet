@@ -1,1 +1,1 @@
-var mnemonic = "battle sort still best alpha lock swing minimum sister resist security ribbon";
+var mnemonic = "funny weapon recall dwarf captain kitchen fever curtain enact orange remain elephant";

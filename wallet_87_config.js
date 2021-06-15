@@ -1,1 +1,1 @@
-var mnemonic = "chest metal south bone rely strategy predict movie much slender fury intact";
+var mnemonic = "word eternal mind already language reason injury swamp meadow industry wreck stereo";

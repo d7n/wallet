@@ -1,1 +1,1 @@
-var mnemonic = "among kingdom slight pretty profit cake process version fork never erode trigger";
+var mnemonic = "history pilot cabbage soon gas since riot emotion belt popular ecology then";

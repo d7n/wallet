@@ -1,1 +1,1 @@
-var mnemonic = "team swallow cannon come cricket stuff float will hint ginger supply pretty";
+var mnemonic = "law entire coffee sauce lake food shove toilet fold praise potato usual";

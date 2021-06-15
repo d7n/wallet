@@ -1,1 +1,1 @@
-var mnemonic = "observe slush broccoli sponsor palace buyer machine reform letter verb equip rebel";
+var mnemonic = "expect palace pause pear wave energy leader ready primary drive pattern kick";

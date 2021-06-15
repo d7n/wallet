@@ -1,1 +1,1 @@
-var mnemonic = "buyer wet bless next peace float unhappy ball swing between describe pond";
+var mnemonic = "distance sight mesh matrix divert heart minor witness post motor orient toss";

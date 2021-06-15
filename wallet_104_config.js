@@ -1,1 +1,1 @@
-var mnemonic = "city pulse want remind knee outside still increase ankle minor domain visual";
+var mnemonic = "absent inherit give misery tone fringe sugar whale blast ball dial olympic";

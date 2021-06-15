@@ -1,1 +1,1 @@
-var mnemonic = "science between crunch peasant reduce select under liar peace host uniform crew";
+var mnemonic = "armor grief attract broom boost flight sort gallery very embody sad margin";

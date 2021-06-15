@@ -1,1 +1,1 @@
-var mnemonic = "bracket jelly nut either leaf artefact prevent hamster sample cake hover tragic";
+var mnemonic = "shift nose mobile scout maximum math sponsor correct seek north tail erode";

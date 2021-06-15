@@ -1,1 +1,1 @@
-var mnemonic = "crouch coyote source anchor enable equal hard party topple envelope dune move";
+var mnemonic = "erupt december spread hen athlete suffer dust velvet unaware midnight tunnel canoe";

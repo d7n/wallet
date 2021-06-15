@@ -1,1 +1,1 @@
-var mnemonic = "usual index hedgehog stage execute cheap swear junk canvas fiscal behave rack";
+var mnemonic = "regular own step evil entry jar attitude ozone scorpion horror husband stove";

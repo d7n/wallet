@@ -1,1 +1,1 @@
-var mnemonic = "among say sponsor group flavor swarm quality lawsuit note express secret resist";
+var mnemonic = "stay faint kiwi ostrich island mouse zero real sick assault word floor";

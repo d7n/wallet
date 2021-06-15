@@ -1,1 +1,1 @@
-var mnemonic = "own above sunny limb trash focus danger ranch twelve immune depend beyond";
+var mnemonic = "profit coyote immense clock kingdom little provide noise you wage property jump";

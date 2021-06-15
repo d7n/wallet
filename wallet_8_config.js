@@ -1,1 +1,1 @@
-var mnemonic = "expect hazard romance mobile album wash element palace useful live sleep hero";
+var mnemonic = "super filter trigger loop hollow develop lucky blue decline pulp notice ethics";

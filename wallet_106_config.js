@@ -1,1 +1,1 @@
-var mnemonic = "hill divide fame car early raven shoot address vault twist above shift";
+var mnemonic = "runway knock fabric under viable embark initial adjust banner dash guide glove";

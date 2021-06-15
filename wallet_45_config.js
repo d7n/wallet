@@ -1,1 +1,1 @@
-var mnemonic = "coil between figure sugar luggage lock syrup garlic fruit exhibit include scale";
+var mnemonic = "flash accident select weapon attitude industry boat double snap buddy bacon trouble";

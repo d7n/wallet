@@ -1,1 +1,1 @@
-var mnemonic = "fly voice palm solution sorry violin moment series valve candy ghost rent";
+var mnemonic = "law umbrella symbol culture genuine home pretty autumn sick autumn health scorpion";

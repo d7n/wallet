@@ -1,1 +1,1 @@
-var mnemonic = "odor ranch iron potato unique swear liberty flee human twist atom wrestle";
+var mnemonic = "evil organ inside better swift sick cash dwarf flock charge fitness aim";

@@ -1,1 +1,1 @@
-var mnemonic = "behind vague around wide razor vanish deny february glare garment maximum blame";
+var mnemonic = "muscle brave future little naive abstract canvas window meadow retreat grab lamp";

@@ -1,1 +1,1 @@
-var mnemonic = "melody bracket dress used service shop found worry check wave solve gravity";
+var mnemonic = "transfer kingdom verify rent harsh book alcohol float trash mask shiver analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "twist egg reveal wasp guitar bunker story identify bulb sense tiger frequent";
+var mnemonic = "snap leg gaze system chronic funny degree very accuse warm pupil sample";

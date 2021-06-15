@@ -1,1 +1,1 @@
-var mnemonic = "hen remain basket question until logic tone garden person infant chest flat";
+var mnemonic = "tobacco lizard beach model wink upon shoot rose amazing story butter moment";

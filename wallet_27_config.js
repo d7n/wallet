@@ -1,1 +1,1 @@
-var mnemonic = "major flock father team begin lounge dance smoke flame nose candy boat";
+var mnemonic = "mango melody embrace sorry fan gas buffalo stay claim always behind festival";

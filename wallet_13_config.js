@@ -1,1 +1,1 @@
-var mnemonic = "genius host popular train frequent world sugar shadow quiz crane brave honey";
+var mnemonic = "orbit regret slogan garden tide nature field relief kind tomorrow bonus practice";

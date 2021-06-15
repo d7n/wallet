@@ -1,1 +1,1 @@
-var mnemonic = "tourist robust attitude sister device wait pumpkin minimum ocean carry apple manual";
+var mnemonic = "truck muscle prefer water income organ horror govern believe core license second";

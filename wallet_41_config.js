@@ -1,1 +1,1 @@
-var mnemonic = "toss drum subway error paddle child salt coach earn blur same trade";
+var mnemonic = "language random pill quarter because doctor crisp unaware slogan wolf bright leaf";

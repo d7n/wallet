@@ -1,1 +1,1 @@
-var mnemonic = "buddy tower unknown boil boat remember design faculty forward glad game concert";
+var mnemonic = "embody height avoid basic twice juice virus health surge change neutral galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "salute north april body speak already ride monkey summer host lyrics setup";
+var mnemonic = "tobacco portion frost scare blush civil engage brain negative horn december diamond";

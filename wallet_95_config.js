@@ -1,1 +1,1 @@
-var mnemonic = "siren reveal notable can weekend pupil donkey wait crouch follow treat tissue";
+var mnemonic = "puzzle member wild orbit canvas divert horror matrix harbor town health trick";

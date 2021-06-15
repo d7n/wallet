@@ -1,1 +1,1 @@
-var mnemonic = "rebuild art easily first funny pulse state worry season remember south guard";
+var mnemonic = "bargain city room scare rug venue glow razor century empower dog twist";

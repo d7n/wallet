@@ -1,1 +1,1 @@
-var mnemonic = "brown armed shine romance shoe range ocean boring kitten vocal ribbon edit";
+var mnemonic = "vintage endless toe amount chapter shield icon security siren favorite return horse";

@@ -1,1 +1,1 @@
-var mnemonic = "food fan wedding manage gadget absorb clap oyster ready tuna audit island";
+var mnemonic = "door arctic portion idle fade vast space mystery alert apology ignore canvas";

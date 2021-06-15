@@ -1,1 +1,1 @@
-var mnemonic = "card trial mosquito arrow split nation pole wonder fade carbon bullet attend";
+var mnemonic = "message spoil soap raw library provide zone chair net robust decrease beauty";

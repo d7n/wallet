@@ -1,1 +1,1 @@
-var mnemonic = "permit nose write club dose add agent jump infant victory coach later";
+var mnemonic = "mad lock assume police grant any spot lizard recall sea wheel when";

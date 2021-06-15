@@ -1,1 +1,1 @@
-var mnemonic = "degree place ketchup stadium good future dwarf wide feed thunder remind fun";
+var mnemonic = "advice devote steak bottom jacket wagon cube cost tilt roast sketch give";

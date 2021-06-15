@@ -1,1 +1,1 @@
-var mnemonic = "crack injury fat exile fly patient entry lobster deny credit gate type";
+var mnemonic = "sight tube message sock subject tortoise velvet acid such orbit reward subway";

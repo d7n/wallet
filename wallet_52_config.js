@@ -1,1 +1,1 @@
-var mnemonic = "window damp ship visit word blanket erosion science enroll mom nasty crisp";
+var mnemonic = "canal nerve repeat myself subject dolphin kitchen alley divide total page grace";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom tooth silly isolate spray camera test toe level project region harbor";
+var mnemonic = "struggle place donkey sample scatter note earn welcome winter lizard scare clever";

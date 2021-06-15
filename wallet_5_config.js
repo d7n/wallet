@@ -1,1 +1,1 @@
-var mnemonic = "thunder pulp green sphere arrest banana immense almost camp uphold pulse three";
+var mnemonic = "guilt umbrella security afford beyond celery vehicle polar bacon sting apology dove";

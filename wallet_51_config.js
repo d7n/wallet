@@ -1,1 +1,1 @@
-var mnemonic = "cherry photo quit cabbage save before suit nut hawk shoe hidden aisle";
+var mnemonic = "pelican trouble next legal hybrid mansion foam expose buddy skull sheriff earth";

@@ -1,1 +1,1 @@
-var mnemonic = "local antenna board wheat dog also knee business dawn finish desk tank";
+var mnemonic = "please blossom whale ordinary video ugly despair logic such forest elevator check";

@@ -1,1 +1,1 @@
-var mnemonic = "glad middle fiber daring priority track reform empower dilemma core buzz oxygen";
+var mnemonic = "wage skate injury woman gift parrot trick orient sheriff steak focus fresh";

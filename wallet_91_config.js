@@ -1,1 +1,1 @@
-var mnemonic = "image pitch struggle aunt flat avoid vocal clinic dream pulse praise usage";
+var mnemonic = "want comic beach health myth city panel excess exercise traffic response guess";

@@ -1,1 +1,1 @@
-var mnemonic = "demise must cart inside glue climb rule victory among shell merge struggle";
+var mnemonic = "own happy truth bar neutral still fly flower practice crack tail toilet";

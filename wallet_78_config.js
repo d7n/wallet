@@ -1,1 +1,1 @@
-var mnemonic = "cake unusual erupt across scorpion object burger country olympic siren course gap";
+var mnemonic = "hand pave tiger mad shell behind loud myself good rail swamp pair";

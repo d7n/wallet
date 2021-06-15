@@ -1,1 +1,1 @@
-var mnemonic = "hero oblige movie unlock peasant crane ramp filter bid nice attack hire";
+var mnemonic = "ask view palace only diary grow youth leg indicate sign chase soft";

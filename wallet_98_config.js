@@ -1,1 +1,1 @@
-var mnemonic = "sure stem spell foster deal time believe master cheese elephant student mistake";
+var mnemonic = "april rhythm nerve zebra skin sail coconut income insane sick brush churn";

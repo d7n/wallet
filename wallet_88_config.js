@@ -1,1 +1,1 @@
-var mnemonic = "gate harbor umbrella settle stock veteran fire student nose eyebrow you fiscal";
+var mnemonic = "forum tape goddess enable frog grab inflict inform renew envelope fog pride";

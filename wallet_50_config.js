@@ -1,1 +1,1 @@
-var mnemonic = "record impact heavy base retire box alpha risk youth mutual decorate island";
+var mnemonic = "whisper audit poverty fever lecture vicious oblige toe canvas feed brave grit";

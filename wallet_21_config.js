@@ -1,1 +1,1 @@
-var mnemonic = "bar mimic pulse vessel column knife entry legend trust bitter smooth joke";
+var mnemonic = "atom together debris ask human explain own near abandon seed book squirrel";

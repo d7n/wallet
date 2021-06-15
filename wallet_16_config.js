@@ -1,1 +1,1 @@
-var mnemonic = "correct pencil wise awesome inner eternal earth lunar tape panther rubber kitten";
+var mnemonic = "wheat today fiber song nature bring choice pepper above swift penalty right";

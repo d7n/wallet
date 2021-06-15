@@ -1,1 +1,1 @@
-var mnemonic = "mixture volcano pear soldier boy film crop wave bid catch border volcano";
+var mnemonic = "silly silver patient endless clever estate sign promote notice embark edge comfort";

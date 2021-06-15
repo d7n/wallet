@@ -1,1 +1,1 @@
-var mnemonic = "pole inherit actor acoustic afford surface weapon pause alien walk wealth verb";
+var mnemonic = "elevator ship husband pony pull arena chimney decide manage access grace addict";

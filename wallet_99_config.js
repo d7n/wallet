@@ -1,1 +1,1 @@
-var mnemonic = "napkin author sniff club garlic surge pretty total option fancy average drum";
+var mnemonic = "country dose method bulb rule struggle project civil giant slogan finish shrimp";

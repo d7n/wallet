@@ -1,1 +1,1 @@
-var mnemonic = "blush motion alarm patch bitter gentle survey mixture earn ribbon best donate";
+var mnemonic = "faculty naive file punch almost lemon stairs better leopard home syrup document";

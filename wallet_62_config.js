@@ -1,1 +1,1 @@
-var mnemonic = "flame flag metal oxygen remain patch often fall mosquito lobster aim gift";
+var mnemonic = "behind clerk crush inhale design seat blue fish false endless monitor extend";

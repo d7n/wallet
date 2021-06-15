@@ -1,1 +1,1 @@
-var mnemonic = "mobile tower party pass ecology pilot food aware detail bullet trophy check";
+var mnemonic = "veteran moment allow settle essence powder all settle bring render what buddy";

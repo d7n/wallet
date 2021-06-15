@@ -1,1 +1,1 @@
-var mnemonic = "comfort gas they wolf toddler require recipe local echo eyebrow case cannon";
+var mnemonic = "dawn donor dinner enact quick average heart quick cigar excite few tuition";

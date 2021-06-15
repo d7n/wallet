@@ -1,1 +1,1 @@
-var mnemonic = "country develop final inmate portion fetch shaft spell squeeze jacket fever isolate";
+var mnemonic = "knife song energy sister security poet tongue gain gate silk skull depend";

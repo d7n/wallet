@@ -1,1 +1,1 @@
-var mnemonic = "tail couch lonely circle deliver powder defense history physical until fiction rug";
+var mnemonic = "uncover happy steak flight draft thank engage invest small man own boring";

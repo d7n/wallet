@@ -1,1 +1,1 @@
-var mnemonic = "debate major company acquire rescue shock maximum cross alone stick fee swift";
+var mnemonic = "attitude paddle comic piece make soap angle antenna ecology where used swarm";

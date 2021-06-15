@@ -1,1 +1,1 @@
-var mnemonic = "clock never crack enemy banner symptom ginger spy speak rapid warfare move";
+var mnemonic = "opinion movie prize pluck genre put wink valley advice pipe frost vague";

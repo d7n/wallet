@@ -1,1 +1,1 @@
-var mnemonic = "stumble cube salon same scheme glue attend garden tray present quote swap";
+var mnemonic = "winner planet casino base cotton fold fix scrub pumpkin lamp fade oak";

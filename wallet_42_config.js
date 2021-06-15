@@ -1,1 +1,1 @@
-var mnemonic = "clutch caution spy job hollow happy execute muffin will resemble tomato narrow";
+var mnemonic = "dish strategy olive gorilla gaze day short output adjust garbage dress basket";

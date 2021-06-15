@@ -1,1 +1,1 @@
-var mnemonic = "fork uphold avocado hero gas nut drop earn rocket maple column dilemma";
+var mnemonic = "humble fix allow lemon eyebrow enemy lounge whale fine neutral oxygen table";

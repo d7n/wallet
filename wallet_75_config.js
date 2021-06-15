@@ -1,1 +1,1 @@
-var mnemonic = "cost hunt wisdom throw elegant trash travel oval mix derive magic true";
+var mnemonic = "lab session diet erase jaguar ridge limb follow power find nose liar";

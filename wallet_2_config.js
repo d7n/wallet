@@ -1,1 +1,1 @@
-var mnemonic = "eager team desert donkey romance before usage dizzy produce slender food squeeze";
+var mnemonic = "recall differ shrug royal dwarf sun egg trend fatigue mercy gold drastic";

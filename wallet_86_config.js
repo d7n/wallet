@@ -1,1 +1,1 @@
-var mnemonic = "flower moon snack heavy brush strong pulp science price urban walnut empower";
+var mnemonic = "shine zoo jealous doll adult bunker paddle surge drum menu wool medal";

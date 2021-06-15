@@ -1,1 +1,1 @@
-var mnemonic = "amateur age favorite advice clock master want earn midnight ten search update";
+var mnemonic = "coin month prosper antenna cousin juice rough whip fall parade mystery snake";

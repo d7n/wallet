@@ -1,1 +1,1 @@
-var mnemonic = "punch spice world crater mimic more intact master critic camp garment bonus";
+var mnemonic = "turtle into element quote hole drama work only brush mesh arrange fresh";

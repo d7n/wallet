@@ -1,1 +1,1 @@
-var mnemonic = "affair exit bulb inhale update regular people medal stamp steel spend glimpse";
+var mnemonic = "truth more jungle near video chronic margin pudding tortoise anger enlist thought";

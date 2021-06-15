@@ -1,1 +1,1 @@
-var mnemonic = "mutual rocket boost defy gas injury swamp heavy mule swift next what";
+var mnemonic = "raccoon garden surround rude degree exclude buzz bronze purity paper then tongue";

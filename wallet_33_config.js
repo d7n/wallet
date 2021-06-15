@@ -1,1 +1,1 @@
-var mnemonic = "connect broccoli enter license honey evolve collect tunnel decorate impact woman brown";
+var mnemonic = "sail rabbit essay current genius track chef clinic return security donor ocean";

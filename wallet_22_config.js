@@ -1,1 +1,1 @@
-var mnemonic = "shrug vacant violin lawsuit hunt bind enforce dance update chest horn danger";
+var mnemonic = "buzz invite inherit athlete over scale combine crater idle hungry dad deputy";

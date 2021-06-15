@@ -1,1 +1,1 @@
-var mnemonic = "brand coin chase outer drama choice bus shrimp wreck embark predict gown";
+var mnemonic = "census basic brown mixed arrow odor need skate shaft zoo error crew";

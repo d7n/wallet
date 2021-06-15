@@ -1,1 +1,1 @@
-var mnemonic = "frost route identify hat faith degree rug lesson panic half jazz camp";
+var mnemonic = "solution dial strike man patient supply foil hello version hundred luggage jealous";

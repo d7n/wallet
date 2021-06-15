@@ -1,1 +1,1 @@
-var mnemonic = "stock weekend hammer mix wood ticket neglect abandon kick liberty symptom between";
+var mnemonic = "inflict brush hurdle mind emerge lens mouse nose flash device stadium method";

@@ -1,1 +1,1 @@
-var mnemonic = "bless kangaroo cactus method cage current shield warfare daughter special gentle plunge";
+var mnemonic = "place actress wrap hammer debris brother sponsor panic cook night below critic";

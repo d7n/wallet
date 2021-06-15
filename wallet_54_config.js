@@ -1,1 +1,1 @@
-var mnemonic = "abuse nuclear manage burst mistake muscle pen desk man ghost height sponsor";
+var mnemonic = "coin soon coach fortune kangaroo whisper muffin lunch goat depart situate hero";

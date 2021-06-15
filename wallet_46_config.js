@@ -1,1 +1,1 @@
-var mnemonic = "scrap steak symbol tool siege tomorrow loyal rebuild lake sign pottery day";
+var mnemonic = "ribbon wisdom battle lamp cruel galaxy wrap home farm firm bike bike";

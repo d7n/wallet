@@ -1,1 +1,1 @@
-var mnemonic = "key shy ghost alter once wine jar cage stereo bottom rack lift";
+var mnemonic = "volcano glad adapt label barrel rent cable radar vital toe idle urban";

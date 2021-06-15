@@ -1,1 +1,1 @@
-var mnemonic = "tourist present provide lemon burden laugh gown couple seed vivid tissue despair";
+var mnemonic = "debris unusual frequent husband lion bean sunset ghost long hunt surface unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "venue laundry good cupboard common carbon report monkey train erode gasp tool";
+var mnemonic = "grab clay knife spray crucial slice gift collect despair devote wing armor";

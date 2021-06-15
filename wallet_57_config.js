@@ -1,1 +1,1 @@
-var mnemonic = "liberty series middle lock cup razor cycle robust pistol mutual dress rescue";
+var mnemonic = "comic filter cute model office nominee sick because cat grid joy surprise";

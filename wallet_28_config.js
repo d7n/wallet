@@ -1,1 +1,1 @@
-var mnemonic = "maid beauty mystery deliver hurry artwork husband involve honey rare record draft";
+var mnemonic = "antique gravity draw amazing poet first runway scene tonight address rely barrel";

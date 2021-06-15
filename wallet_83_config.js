@@ -1,1 +1,1 @@
-var mnemonic = "give area dwarf wife tool struggle boost suit expect memory escape promote";
+var mnemonic = "proud jewel shove exhibit coach truly output pledge onion toilet battle light";

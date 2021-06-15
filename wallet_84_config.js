@@ -1,1 +1,1 @@
-var mnemonic = "embark borrow shoe road wait naive tag depart swift curious post thunder";
+var mnemonic = "size title spell awful wall clap wall chunk airport ginger donate stock";

@@ -1,1 +1,1 @@
-var mnemonic = "inherit define unfold because ivory cruise loud protect nose image hurry lake";
+var mnemonic = "consider panel note various earth elevator domain about token beyond remember essay";

@@ -1,1 +1,1 @@
-var mnemonic = "trend mystery local review better grant maze february faculty street imitate uniform";
+var mnemonic = "olive fun glass flush burger airport parrot broken bracket bright purity civil";

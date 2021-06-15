@@ -1,1 +1,1 @@
-var mnemonic = "goat insane recall drill riot bracket oblige sunset load ready solar response";
+var mnemonic = "morning oppose giggle say squeeze fame witness battle deputy wave proud open";

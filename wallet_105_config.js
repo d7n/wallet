@@ -1,1 +1,1 @@
-var mnemonic = "injury city envelope palace clinic author year render frame remind vintage physical";
+var mnemonic = "knife impulse exist enter satoshi ivory minor paddle ship canyon front manual";

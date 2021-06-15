@@ -1,1 +1,1 @@
-var mnemonic = "funny bundle puppy beach climb sausage claw claim shuffle swim ivory remember";
+var mnemonic = "desert weapon woman fitness deputy opinion stomach soon price balance escape casino";
