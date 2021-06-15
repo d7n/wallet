@@ -1,1 +1,1 @@
-var mnemonic = "trick buddy shadow bunker school tooth carpet smooth satisfy avoid cage enter";
+var mnemonic = "liberty couple open sadness explain potato dragon final noise quick dutch cricket";

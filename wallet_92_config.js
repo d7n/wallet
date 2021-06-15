@@ -1,1 +1,1 @@
-var mnemonic = "fiction fence picture snake reopen tone tattoo angle leader exhaust stage describe";
+var mnemonic = "loyal village book sure aspect rally win traffic concert sustain exit list";

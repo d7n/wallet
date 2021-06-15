@@ -1,1 +1,1 @@
-var mnemonic = "worth priority fold glove enlist task add file sun gossip force inner";
+var mnemonic = "hawk ripple math ring dress tornado garage chuckle enroll romance piece photo";

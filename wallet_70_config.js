@@ -1,1 +1,1 @@
-var mnemonic = "ancient profit horse museum dial shuffle course amateur fit copper immune harsh";
+var mnemonic = "evidence steel nominee gain mutual dirt history wool scorpion shell cluster pledge";

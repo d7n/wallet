@@ -1,1 +1,1 @@
-var mnemonic = "person beef pen idea account initial security certain pioneer cradle badge perfect";
+var mnemonic = "silver coil glue brand tower goat replace crazy giant coil evoke enroll";

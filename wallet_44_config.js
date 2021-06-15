@@ -1,1 +1,1 @@
-var mnemonic = "hope work planet leopard someone fitness bulk across option ecology obey indicate";
+var mnemonic = "frequent proud kite cable alcohol involve circle gun pattern feed gravity ill";

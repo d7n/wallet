@@ -1,1 +1,1 @@
-var mnemonic = "toy distance sight search concert region thrive veteran alert strategy away birth";
+var mnemonic = "trigger note banner weather book success cycle panda mountain unusual genre color";

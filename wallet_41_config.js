@@ -1,1 +1,1 @@
-var mnemonic = "prize school shoulder side grace goat skull bless visual rug kangaroo glow";
+var mnemonic = "welcome alien object leopard true game knife laundry nice advice welcome party";

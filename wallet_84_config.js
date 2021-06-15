@@ -1,1 +1,1 @@
-var mnemonic = "grass drip rotate half slender believe toy need welcome clinic speak spring";
+var mnemonic = "margin icon salmon coast outside base pet fall trap slim enforce sell";

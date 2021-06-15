@@ -1,1 +1,1 @@
-var mnemonic = "fortune twice detect power tomorrow slight thank myth elephant elite hair fetch";
+var mnemonic = "hero plug enforce thing cover pony blood soda dinosaur angry wish edge";

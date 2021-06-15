@@ -1,1 +1,1 @@
-var mnemonic = "fatal cool skull buzz sunny loop upgrade smart ahead liquid final detect";
+var mnemonic = "siege erosion sample pipe kiss defense coffee rigid point close drift broken";

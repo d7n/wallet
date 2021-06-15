@@ -1,1 +1,1 @@
-var mnemonic = "dance sentence shove famous image moral castle dirt friend rabbit age health";
+var mnemonic = "cliff worry desert napkin tongue note jealous recall special question game man";

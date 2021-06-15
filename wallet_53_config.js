@@ -1,1 +1,1 @@
-var mnemonic = "gap member rose smoke magic drink caught evolve canal display force quote";
+var mnemonic = "caution pigeon intact entire rifle join abuse lens obtain truck unlock leave";

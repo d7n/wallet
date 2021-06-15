@@ -1,1 +1,1 @@
-var mnemonic = "asset shoulder dawn zero expect insect snack jazz admit civil soul reduce";
+var mnemonic = "width actual speed walk isolate final save inside crater surface tortoise bicycle";

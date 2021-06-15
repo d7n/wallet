@@ -1,1 +1,1 @@
-var mnemonic = "mixed slight creek actress lab spawn silly firm toddler pilot nothing gossip";
+var mnemonic = "update desk oak eight scene joy lady shrimp anxiety flock brain main";

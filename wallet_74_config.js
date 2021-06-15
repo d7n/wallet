@@ -1,1 +1,1 @@
-var mnemonic = "wasp can near crouch hunt income sunset behind perfect please brown erase";
+var mnemonic = "plate zone food undo west hamster enrich denial humble keep guard talk";

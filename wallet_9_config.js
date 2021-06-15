@@ -1,1 +1,1 @@
-var mnemonic = "cost else broccoli nurse style assist sentence awesome outdoor pizza cross miss";
+var mnemonic = "gift asthma exile cruise immense soup miss afraid wreck keen topic coconut";

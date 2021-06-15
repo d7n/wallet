@@ -1,1 +1,1 @@
-var mnemonic = "normal obey nest black auction test forget garlic region voyage carpet elbow";
+var mnemonic = "end smart unfold fruit combine tomorrow devote vacant setup sell flight junk";

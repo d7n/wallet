@@ -1,1 +1,1 @@
-var mnemonic = "various glide beyond fix key talk horror barrel silly you surge waste";
+var mnemonic = "enhance wonder misery regular glue skull polar quote drum once universe truly";

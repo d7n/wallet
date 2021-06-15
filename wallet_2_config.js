@@ -1,1 +1,1 @@
-var mnemonic = "sign enhance hand trade oven trust gesture evolve fade father naive find";
+var mnemonic = "immune saddle saddle prepare service lazy answer ocean exercise dice mom dutch";

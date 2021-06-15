@@ -1,1 +1,1 @@
-var mnemonic = "swamp exclude bomb promote pride grace glory scheme degree idle scan style";
+var mnemonic = "resemble firm awake doctor rocket combine athlete sleep learn denial simple come";

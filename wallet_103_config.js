@@ -1,1 +1,1 @@
-var mnemonic = "later baby universe victory effort dwarf miracle beach position industry share west";
+var mnemonic = "stadium grunt loud exhaust cook erode shadow ask height town frequent search";

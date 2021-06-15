@@ -1,1 +1,1 @@
-var mnemonic = "return label mandate vast hair spell write garment fee exercise private zoo";
+var mnemonic = "torch spoon razor damage cry sand mean judge riot special cool neither";

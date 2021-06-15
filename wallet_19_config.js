@@ -1,1 +1,1 @@
-var mnemonic = "distance horn pumpkin clog swift swim solution half tackle pizza parrot talent";
+var mnemonic = "address same sunny reduce tunnel staff ice install refuse bunker swing abuse";

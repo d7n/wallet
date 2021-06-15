@@ -1,1 +1,1 @@
-var mnemonic = "crazy ritual banana apology lava hub lava board device robot truth guess";
+var mnemonic = "join hybrid ask issue profit absent pistol calm dove dolphin rack buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy indoor sample front few artefact impulse friend edit adult large salad";
+var mnemonic = "cannon venue enroll outdoor grant car scout nature gap sock chicken cluster";

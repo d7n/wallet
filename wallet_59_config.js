@@ -1,1 +1,1 @@
-var mnemonic = "float cook vacant staff hire bronze pretty team dignity brother tongue spy";
+var mnemonic = "foot ramp cost pelican describe code drastic future stomach record subway neglect";

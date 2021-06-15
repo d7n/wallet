@@ -1,1 +1,1 @@
-var mnemonic = "thing fork clutch flee lens shoe letter always picnic deer velvet habit";
+var mnemonic = "ball pond history nature valid busy arch measure link shed pole image";

@@ -1,1 +1,1 @@
-var mnemonic = "clever pig rail cherry stomach blame manage early scale mention element blanket";
+var mnemonic = "balcony since stereo truck subject town steak much menu side neck vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "artefact unhappy outer soft pig define rubber again umbrella pretty garment wool";
+var mnemonic = "clump outside hill climb risk purpose mention trim entry dutch bundle cupboard";

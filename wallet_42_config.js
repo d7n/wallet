@@ -1,1 +1,1 @@
-var mnemonic = "supreme canal acquire digital clutch crime produce blast puzzle mad question fury";
+var mnemonic = "pelican age trick figure embrace dirt napkin bachelor person begin rival awake";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp undo depth garbage mean side gossip stem fatal spirit eye dial";
+var mnemonic = "profit plate mobile cotton rule all cycle engine harvest color key actual";

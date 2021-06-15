@@ -1,1 +1,1 @@
-var mnemonic = "hurry genre desk faith erupt female decline venue morning raw mimic decade";
+var mnemonic = "aisle ankle autumn novel seed talent mesh scorpion allow cliff twelve inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "glow october subway grab whisper inform stage fantasy winner famous stock resource";
+var mnemonic = "bomb finish advance powder orbit silent salute recycle spell reveal lady list";

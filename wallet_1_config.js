@@ -1,1 +1,1 @@
-var mnemonic = "gift illness file assault heavy void milk economy prepare visual island vocal";
+var mnemonic = "wall paddle tree pyramid loud drift sound game category educate acquire office";

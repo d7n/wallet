@@ -1,1 +1,1 @@
-var mnemonic = "coral useless tuition soap label cigar about shy nose monitor crumble interest";
+var mnemonic = "describe solid fly exchange promote nose circle frequent general oil major october";

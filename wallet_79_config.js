@@ -1,1 +1,1 @@
-var mnemonic = "dish hip vintage dawn potato electric range milk west fury kangaroo door";
+var mnemonic = "invest must legal card sentence eye earn field talent coin bike debris";

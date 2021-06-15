@@ -1,1 +1,1 @@
-var mnemonic = "oblige swift pudding become nation shift patient wrestle volume pelican lock stairs";
+var mnemonic = "toilet autumn consider episode inner gym hint deer unveil sunny gorilla monitor";

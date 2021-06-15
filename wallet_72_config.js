@@ -1,1 +1,1 @@
-var mnemonic = "lend crisp rather orient forget input exile royal peasant salad transfer run";
+var mnemonic = "end winter turn rare olympic large aim isolate buzz flip stomach bleak";

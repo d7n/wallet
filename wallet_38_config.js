@@ -1,1 +1,1 @@
-var mnemonic = "shield behave glass exist young coil identify permit guess mouse horn chest";
+var mnemonic = "increase person athlete skull erode online barrel trigger drama bid seek cancel";

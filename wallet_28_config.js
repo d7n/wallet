@@ -1,1 +1,1 @@
-var mnemonic = "only drift fever lady toe stairs toward buddy arm essence armed shrug";
+var mnemonic = "cupboard orchard grape border loud hour soldier calm airport bachelor business employ";

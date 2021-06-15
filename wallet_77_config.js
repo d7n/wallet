@@ -1,1 +1,1 @@
-var mnemonic = "spice fresh dry target home bottom another wall bean box chaos daughter";
+var mnemonic = "toy dolphin inside mad artefact man never garment nest swim author snake";

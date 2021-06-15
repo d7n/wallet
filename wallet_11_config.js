@@ -1,1 +1,1 @@
-var mnemonic = "copper duty unhappy away drastic skull setup loud engine doctor health mask";
+var mnemonic = "teach able solve slice rather permit lawn effort gaze garment tribe account";

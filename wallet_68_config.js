@@ -1,1 +1,1 @@
-var mnemonic = "noise forget organ noise tackle measure winter face right someone eyebrow prepare";
+var mnemonic = "sound various skull path clog hover tilt torch dilemma culture animal orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "omit artist income solve faculty sauce tooth plastic artefact cliff web quality";
+var mnemonic = "nest citizen unlock jar cement fog exchange devote spare economy pigeon equal";

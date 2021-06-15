@@ -1,1 +1,1 @@
-var mnemonic = "expire caught indoor bless jeans nuclear catch crop crater quick extend tuna";
+var mnemonic = "senior picture wage senior primary image calm eternal choose candy fan husband";

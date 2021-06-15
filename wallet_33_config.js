@@ -1,1 +1,1 @@
-var mnemonic = "two smart praise dry middle patient oven trash hidden extend park lonely";
+var mnemonic = "bag sun mirror brother anger because exit magnet auto police index acquire";

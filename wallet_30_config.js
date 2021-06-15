@@ -1,1 +1,1 @@
-var mnemonic = "rib rally member gauge style language fatal ridge cinnamon grace essay kiss";
+var mnemonic = "maple dad town arrange change when fashion hazard farm under casual since";

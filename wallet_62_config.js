@@ -1,1 +1,1 @@
-var mnemonic = "manage pottery adult praise resemble tuna cost velvet truck rude you velvet";
+var mnemonic = "skin keep want cupboard east amazing course lend better fetch august large";

@@ -1,1 +1,1 @@
-var mnemonic = "science chalk voice perfect accident solve average soft feature stand produce eternal";
+var mnemonic = "frozen emerge dirt tone burst lonely frog assume nation wrestle middle early";

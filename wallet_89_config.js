@@ -1,1 +1,1 @@
-var mnemonic = "until pioneer effort predict comic device install anchor circle sleep rifle false";
+var mnemonic = "alarm net talent session already army million vague vibrant sword ill then";

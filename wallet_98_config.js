@@ -1,1 +1,1 @@
-var mnemonic = "cheese emotion city adult awkward uncover another green punch minute beef divorce";
+var mnemonic = "chimney range elevator keen elder aerobic dizzy okay orient when speed tattoo";

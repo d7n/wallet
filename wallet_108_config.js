@@ -1,1 +1,1 @@
-var mnemonic = "shock actual caution fatal ribbon monkey reason rack later impose seed meadow";
+var mnemonic = "animal rigid north shop network collect tomato again very yellow fade shift";

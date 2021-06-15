@@ -1,1 +1,1 @@
-var mnemonic = "entry divorce surge return bid blur bird episode cinnamon daring trumpet visual";
+var mnemonic = "silver task scorpion this such direct reflect bind fine glass harsh march";

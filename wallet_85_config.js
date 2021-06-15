@@ -1,1 +1,1 @@
-var mnemonic = "pigeon net umbrella discover spoil destroy harvest install broken angle bonus fog";
+var mnemonic = "thing parent soon menu main disorder aunt airport youth engage model spare";

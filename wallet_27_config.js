@@ -1,1 +1,1 @@
-var mnemonic = "trash beach snack stay enlist must mango gossip judge review eagle nuclear";
+var mnemonic = "piece front expect dizzy trophy vast aware volume flower bacon scrub flag";

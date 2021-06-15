@@ -1,1 +1,1 @@
-var mnemonic = "clap car nerve add exit diary stable army horn insect strategy share";
+var mnemonic = "scout few useful hunt envelope skin crisp worth all carry slide midnight";

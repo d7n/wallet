@@ -1,1 +1,1 @@
-var mnemonic = "symbol rapid position improve cactus crouch suffer enter trend animal raccoon custom";
+var mnemonic = "fun open summer regret fashion marriage empty tape sail veteran tray enlist";

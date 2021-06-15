@@ -1,1 +1,1 @@
-var mnemonic = "patch select walk oxygen club cement shiver dose flip found slab fortune";
+var mnemonic = "snow claim solar direct simple distance scare scan shallow anchor nice fog";

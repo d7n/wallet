@@ -1,1 +1,1 @@
-var mnemonic = "armor eight brush fiscal margin envelope chronic unknown idea turn swear leave";
+var mnemonic = "normal opera top myth blossom dynamic shy trash burst what brave step";

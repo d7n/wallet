@@ -1,1 +1,1 @@
-var mnemonic = "noble melt rocket silk error chaos pill perfect hire chest rice bubble";
+var mnemonic = "brown original abuse quiz depart confirm trip cry under jazz effort topic";

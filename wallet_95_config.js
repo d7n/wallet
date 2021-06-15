@@ -1,1 +1,1 @@
-var mnemonic = "team avoid symbol seat vault other flip foil admit trash noble input";
+var mnemonic = "boost isolate slab senior sudden tackle laugh replace slush supply genre rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "special pitch fashion walnut slam surround cost crop arena can disease hawk";
+var mnemonic = "next opera neglect april plunge gentle immune bomb usage hair copy property";

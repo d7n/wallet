@@ -1,1 +1,1 @@
-var mnemonic = "quit bleak pledge margin nephew west abandon must cute gym proof dash";
+var mnemonic = "horn over demise actor van lawn fine diesel picture mass sport fence";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk pelican lunch repair device endless flush legend fashion equip awesome champion";
+var mnemonic = "dinosaur torch sad yard praise rhythm waste cash jazz illness brief carry";

@@ -1,1 +1,1 @@
-var mnemonic = "sample scorpion afford point guess jeans chronic tortoise nation rocket stadium biology";
+var mnemonic = "blossom leopard team air fold step blood search isolate debate gesture setup";

@@ -1,1 +1,1 @@
-var mnemonic = "feed ecology siege defense cargo maple nation impulse jungle health dust curtain";
+var mnemonic = "genuine swift glare veteran drive flavor sand sadness decrease burger swear royal";

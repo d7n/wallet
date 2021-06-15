@@ -1,1 +1,1 @@
-var mnemonic = "reject behave use mean helmet blanket crop few what glove length robot";
+var mnemonic = "first speed finger win first base age flavor brush orphan poet pony";

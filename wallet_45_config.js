@@ -1,1 +1,1 @@
-var mnemonic = "vehicle time cotton bargain fun ensure into shoot chapter mango between broken";
+var mnemonic = "baby noodle dilemma cup heart drum pitch code core dial wish balance";

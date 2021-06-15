@@ -1,1 +1,1 @@
-var mnemonic = "lawn labor between lazy viable crater high bitter razor broccoli cross skill";
+var mnemonic = "cute news frown wreck seven physical toss any hour awesome mystery know";

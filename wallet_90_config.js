@@ -1,1 +1,1 @@
-var mnemonic = "document helmet ceiling trap shrug advance impose pond vivid around clip few";
+var mnemonic = "faculty tell turkey fine idea student primary ten clean anger advice apart";

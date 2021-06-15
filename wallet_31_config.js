@@ -1,1 +1,1 @@
-var mnemonic = "wall harbor horror type mercy wrap recycle dry lazy genius pattern turtle";
+var mnemonic = "skill quality arrive possible excess noble add lobster summer wolf never panic";

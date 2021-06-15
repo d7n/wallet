@@ -1,1 +1,1 @@
-var mnemonic = "pear hold fine position cloth six ethics beauty normal word ginger frame";
+var mnemonic = "crawl dune position uncover reject misery grain real prepare diesel fall brick";

@@ -1,1 +1,1 @@
-var mnemonic = "alert predict since enrich intact grow actor abuse card identify supreme point";
+var mnemonic = "fatal grocery end physical spend find magic have cushion amount flat discover";

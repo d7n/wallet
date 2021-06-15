@@ -1,1 +1,1 @@
-var mnemonic = "acid syrup tiny wedding habit toward between flight true draft whale carbon";
+var mnemonic = "smile hundred food mixed game usual chuckle twenty shift link dynamic pact";

@@ -1,1 +1,1 @@
-var mnemonic = "super erosion purpose cost dragon denial sort prize eternal involve catch quarter";
+var mnemonic = "detail rapid notable shadow cave detect hover yellow panel able off leg";

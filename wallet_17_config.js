@@ -1,1 +1,1 @@
-var mnemonic = "ridge fiber pigeon giraffe napkin fiction priority virtual debate license ceiling hill";
+var mnemonic = "six isolate cement spell cake useful lawn sunny behind humble alert pass";

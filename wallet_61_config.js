@@ -1,1 +1,1 @@
-var mnemonic = "barrel speed page story vague unaware sister gospel door problem concert nerve";
+var mnemonic = "bachelor brand health rose raven cabin uncover caution demise year leave split";

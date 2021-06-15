@@ -1,1 +1,1 @@
-var mnemonic = "survey bounce royal together call chuckle nature story friend limit cinnamon vocal";
+var mnemonic = "small mixture merry any equal mouse flash patient immense season bind clean";

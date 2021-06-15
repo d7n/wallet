@@ -1,1 +1,1 @@
-var mnemonic = "merry list obey smart east robust forget warm apology inside snow judge";
+var mnemonic = "peanut romance grace response hospital hood body flee comic title century usual";

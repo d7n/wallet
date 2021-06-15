@@ -1,1 +1,1 @@
-var mnemonic = "mesh recycle gospel adjust wrong idle pottery average cruise swallow okay actual";
+var mnemonic = "shift depth rely code chat sea town wing infant hurt desk bread";

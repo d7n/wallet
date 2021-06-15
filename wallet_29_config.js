@@ -1,1 +1,1 @@
-var mnemonic = "curve border major extend museum nephew cable employ water heart obey pulp";
+var mnemonic = "finish coconut insect original oxygen vintage night together before battle scout spare";

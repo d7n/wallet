@@ -1,1 +1,1 @@
-var mnemonic = "accuse target network sick memory moment evolve gas twin envelope wrist noodle";
+var mnemonic = "trial federal crew force dry jelly chicken exchange genre subway ask way";

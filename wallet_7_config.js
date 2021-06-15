@@ -1,1 +1,1 @@
-var mnemonic = "weird gospel scare reject leopard when roast abandon jeans voice used fever";
+var mnemonic = "shop world vote air below exit trash south village time normal movie";

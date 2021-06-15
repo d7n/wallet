@@ -1,1 +1,1 @@
-var mnemonic = "safe inflict cargo bind entire will zoo fatigue limit future habit tumble";
+var mnemonic = "trend easy ill burden explain tribe width omit world raise crystal picnic";

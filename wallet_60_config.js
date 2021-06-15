@@ -1,1 +1,1 @@
-var mnemonic = "into stumble crime word insect exhibit car surprise moon palm announce topic";
+var mnemonic = "angry swim above club elbow rapid inquiry van final mix plunge essay";

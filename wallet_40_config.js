@@ -1,1 +1,1 @@
-var mnemonic = "erode vacant involve question make oyster when resemble bicycle current marble material";
+var mnemonic = "slam cupboard lawn crouch hand view brave afraid permit century oak able";

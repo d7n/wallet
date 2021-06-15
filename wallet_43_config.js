@@ -1,1 +1,1 @@
-var mnemonic = "news month group clinic stomach couple wheel giant depend circle pitch wine";
+var mnemonic = "sand rail matter rare mandate indoor rather convince hazard creek divorce away";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow genius cruel avocado offer accident meat melt magnet deputy size size";
+var mnemonic = "feed reopen derive wrong dawn sudden wait above arrow drink afford material";

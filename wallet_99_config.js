@@ -1,1 +1,1 @@
-var mnemonic = "stage tip pig flash soda bronze only rack pink favorite faculty orient";
+var mnemonic = "degree manage palm virus width auction boat primary jungle network repair carpet";

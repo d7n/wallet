@@ -1,1 +1,1 @@
-var mnemonic = "trade tray rare salon drama accident soon mass general taste stamp quote";
+var mnemonic = "cram update never melody sibling adjust unit skill radar gather tourist logic";

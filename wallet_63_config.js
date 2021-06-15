@@ -1,1 +1,1 @@
-var mnemonic = "defy allow giggle double play setup draw limit scrub cable primary note";
+var mnemonic = "zone donor effort provide ribbon grow asset used follow lumber hand urban";
