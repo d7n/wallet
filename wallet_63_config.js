@@ -1,1 +1,1 @@
-var mnemonic = "nature wide reward soldier master buffalo fan general book half proud similar";
+var mnemonic = "clock never crack enemy banner symptom ginger spy speak rapid warfare move";

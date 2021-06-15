@@ -1,1 +1,1 @@
-var mnemonic = "alcohol congress below scissors multiply tail daughter captain duty group exist impact";
+var mnemonic = "bless kangaroo cactus method cage current shield warfare daughter special gentle plunge";

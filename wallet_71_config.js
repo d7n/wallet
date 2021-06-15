@@ -1,1 +1,1 @@
-var mnemonic = "skill wire weasel sister morning again bulb nice parade pioneer bid wave";
+var mnemonic = "among kingdom slight pretty profit cake process version fork never erode trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "barely patrol lesson vacant poet fiscal again team viable tooth kiss improve";
+var mnemonic = "year member teach half produce simple ladder trap tower gravity peasant cannon";

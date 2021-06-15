@@ -1,1 +1,1 @@
-var mnemonic = "erode salmon album maximum zero sleep grant swap sadness ketchup panic vibrant";
+var mnemonic = "arm intact near lesson income enhance scatter original rely party donor normal";

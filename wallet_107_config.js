@@ -1,1 +1,1 @@
-var mnemonic = "pilot apart sample clay genuine energy okay marriage coral forward wide antenna";
+var mnemonic = "strike erase tip illegal wasp enhance chimney begin wage tiger sleep fade";

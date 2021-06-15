@@ -1,1 +1,1 @@
-var mnemonic = "impose autumn behind melt better catalog opinion elephant surge melt stool swallow";
+var mnemonic = "shrug vacant violin lawsuit hunt bind enforce dance update chest horn danger";

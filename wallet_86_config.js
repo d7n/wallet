@@ -1,1 +1,1 @@
-var mnemonic = "there live raccoon snack twin vivid wagon flavor myth transfer fancy choice";
+var mnemonic = "flower moon snack heavy brush strong pulp science price urban walnut empower";

@@ -1,1 +1,1 @@
-var mnemonic = "bicycle enemy notable advance ridge giant execute they service cruel winner screen";
+var mnemonic = "affair exit bulb inhale update regular people medal stamp steel spend glimpse";

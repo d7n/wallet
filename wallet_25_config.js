@@ -1,1 +1,1 @@
-var mnemonic = "cave noodle book vote under come supply laundry library drill few ritual";
+var mnemonic = "buddy tower unknown boil boat remember design faculty forward glad game concert";

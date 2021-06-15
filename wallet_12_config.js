@@ -1,1 +1,1 @@
-var mnemonic = "stick foster humble blast artwork view trophy noodle jaguar crime discover lab";
+var mnemonic = "melody bracket dress used service shop found worry check wave solve gravity";

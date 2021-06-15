@@ -1,1 +1,1 @@
-var mnemonic = "siren circle brand best honey gadget shiver carpet glimpse bitter hand rib";
+var mnemonic = "clutch caution spy job hollow happy execute muffin will resemble tomato narrow";

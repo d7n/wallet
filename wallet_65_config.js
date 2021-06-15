@@ -1,1 +1,1 @@
-var mnemonic = "hollow symptom client insane glow mail face dizzy narrow prefer void ignore";
+var mnemonic = "post area warfare quick canvas prepare neglect fame winner hood earth rebuild";

@@ -1,1 +1,1 @@
-var mnemonic = "just useful inside stock coil tired old ginger voice axis tuna dizzy";
+var mnemonic = "fly voice palm solution sorry violin moment series valve candy ghost rent";

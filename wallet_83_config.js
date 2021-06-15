@@ -1,1 +1,1 @@
-var mnemonic = "force wide feature tissue essay mesh guess aunt license stumble salad error";
+var mnemonic = "give area dwarf wife tool struggle boost suit expect memory escape promote";

@@ -1,1 +1,1 @@
-var mnemonic = "upset today fever soft father machine pink link marble maid west glad";
+var mnemonic = "permit nose write club dose add agent jump infant victory coach later";

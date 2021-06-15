@@ -1,1 +1,1 @@
-var mnemonic = "crush record bag weasel blind gold cupboard brass divide noise throw jungle";
+var mnemonic = "cake unusual erupt across scorpion object burger country olympic siren course gap";

@@ -1,1 +1,1 @@
-var mnemonic = "guard extra bid soda bronze cup achieve gospel crystal foot twenty brief";
+var mnemonic = "team swallow cannon come cricket stuff float will hint ginger supply pretty";

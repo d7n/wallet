@@ -1,1 +1,1 @@
-var mnemonic = "village exotic pond pattern own timber salad immune letter debris test run";
+var mnemonic = "elbow describe antenna dignity weekend smooth kit ketchup today turtle head cash";

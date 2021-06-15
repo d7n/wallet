@@ -1,1 +1,1 @@
-var mnemonic = "omit nephew hazard motion swamp acid split angle sick doll elite scissors";
+var mnemonic = "brand coin chase outer drama choice bus shrimp wreck embark predict gown";

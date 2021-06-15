@@ -1,1 +1,1 @@
-var mnemonic = "inject cross dry smoke wish dove betray blind weather dutch keen plate";
+var mnemonic = "abuse nuclear manage burst mistake muscle pen desk man ghost height sponsor";

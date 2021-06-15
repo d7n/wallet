@@ -1,1 +1,1 @@
-var mnemonic = "run gun group naive depth scrap know double crazy napkin write omit";
+var mnemonic = "horn possible know torch creek glimpse april wing minute mimic student pupil";

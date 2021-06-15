@@ -1,1 +1,1 @@
-var mnemonic = "skirt midnight own wealth alcohol brave maze strategy digital horror master brain";
+var mnemonic = "crouch coyote source anchor enable equal hard party topple envelope dune move";

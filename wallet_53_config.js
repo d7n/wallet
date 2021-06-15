@@ -1,1 +1,1 @@
-var mnemonic = "paper ocean hamster palace dish audit beauty another uniform ladder today cotton";
+var mnemonic = "stock weekend hammer mix wood ticket neglect abandon kick liberty symptom between";

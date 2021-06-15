@@ -1,1 +1,1 @@
-var mnemonic = "metal torch carry grunt antique canoe kit panel news merry table armor";
+var mnemonic = "flame flag metal oxygen remain patch often fall mosquito lobster aim gift";

@@ -1,1 +1,1 @@
-var mnemonic = "physical parade olive verb fiscal power program course danger luxury clown view";
+var mnemonic = "venue laundry good cupboard common carbon report monkey train erode gasp tool";

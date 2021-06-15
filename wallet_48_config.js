@@ -1,1 +1,1 @@
-var mnemonic = "addict ritual cheap tiger field expire gauge opera welcome bind account correct";
+var mnemonic = "debate major company acquire rescue shock maximum cross alone stick fee swift";

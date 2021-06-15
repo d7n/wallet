@@ -1,1 +1,1 @@
-var mnemonic = "clean ginger explain kidney chaos trash fatal gun prepare shock blur fabric";
+var mnemonic = "salute north april body speak already ride monkey summer host lyrics setup";

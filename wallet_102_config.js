@@ -1,1 +1,1 @@
-var mnemonic = "vote unfair stool egg metal logic ghost spider online lucky coil sad";
+var mnemonic = "stumble cube salon same scheme glue attend garden tray present quote swap";

@@ -1,1 +1,1 @@
-var mnemonic = "diary bicycle ostrich ridge chicken alone head venture feature soap tube black";
+var mnemonic = "buyer wet bless next peace float unhappy ball swing between describe pond";

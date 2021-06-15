@@ -1,1 +1,1 @@
-var mnemonic = "behind wealth debris blanket possible able recipe end radio upgrade miss hen";
+var mnemonic = "key shy ghost alter once wine jar cage stereo bottom rack lift";

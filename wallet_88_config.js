@@ -1,1 +1,1 @@
-var mnemonic = "clinic steel raven drink glad motor trouble outside sport wool trick mad";
+var mnemonic = "gate harbor umbrella settle stock veteran fire student nose eyebrow you fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz six shiver gym roast mad tiny oval student until rifle purchase";
+var mnemonic = "source scatter hole radar sphere trophy metal crane lend elegant evidence benefit";

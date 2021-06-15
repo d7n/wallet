@@ -1,1 +1,1 @@
-var mnemonic = "park layer quiz pass crystal possible abstract column bridge verify sausage find";
+var mnemonic = "twist egg reveal wasp guitar bunker story identify bulb sense tiger frequent";

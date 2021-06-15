@@ -1,1 +1,1 @@
-var mnemonic = "anchor wrist mother north receive raw stove man code erase outside random";
+var mnemonic = "city pulse want remind knee outside still increase ankle minor domain visual";

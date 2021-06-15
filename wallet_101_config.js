@@ -1,1 +1,1 @@
-var mnemonic = "usage digital arrive nature quantum palace fun move option wood sound flavor";
+var mnemonic = "sign bless veteran unhappy spice pencil emotion soon salute swamp match true";

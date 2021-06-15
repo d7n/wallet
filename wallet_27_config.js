@@ -1,1 +1,1 @@
-var mnemonic = "salute when school swear protect across tell similar swallow oval donkey teach";
+var mnemonic = "major flock father team begin lounge dance smoke flame nose candy boat";

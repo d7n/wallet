@@ -1,1 +1,1 @@
-var mnemonic = "visa couple sound echo spice receive survey next below donor mesh hover";
+var mnemonic = "own above sunny limb trash focus danger ranch twelve immune depend beyond";

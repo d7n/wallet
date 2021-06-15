@@ -1,1 +1,1 @@
-var mnemonic = "amazing gate affair attack rabbit baby code jeans vehicle butter fire crash";
+var mnemonic = "demise must cart inside glue climb rule victory among shell merge struggle";

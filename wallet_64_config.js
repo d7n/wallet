@@ -1,1 +1,1 @@
-var mnemonic = "tuna super bleak comic online small crash baby among hamster upon friend";
+var mnemonic = "battle sort still best alpha lock swing minimum sister resist security ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "issue broom code surprise hundred engage alter citizen make avocado defense decade";
+var mnemonic = "trend mystery local review better grant maze february faculty street imitate uniform";

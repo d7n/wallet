@@ -1,1 +1,1 @@
-var mnemonic = "twist like glance bike law fox nation manual never enforce they enter";
+var mnemonic = "start shadow pen rug young coast release mix melody caught hire forum";

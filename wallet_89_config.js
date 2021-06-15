@@ -1,1 +1,1 @@
-var mnemonic = "predict typical enter two clerk math dad text size north front knife";
+var mnemonic = "inherit define unfold because ivory cruise loud protect nose image hurry lake";

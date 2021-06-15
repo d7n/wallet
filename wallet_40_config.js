@@ -1,1 +1,1 @@
-var mnemonic = "sorry unit subject fly screen economy elegant effort member cable gap inject";
+var mnemonic = "blossom tooth silly isolate spray camera test toe level project region harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "buyer boy correct riot fabric vicious squeeze garden shadow roast crop consider";
+var mnemonic = "glad middle fiber daring priority track reform empower dilemma core buzz oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby inflict matrix soda bridge position flock globe deer sniff reason exhaust";
+var mnemonic = "cherry photo quit cabbage save before suit nut hawk shoe hidden aisle";

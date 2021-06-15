@@ -1,1 +1,1 @@
-var mnemonic = "month crew swing garage mesh clown pass else awake cradle prison hundred";
+var mnemonic = "rebuild art easily first funny pulse state worry season remember south guard";

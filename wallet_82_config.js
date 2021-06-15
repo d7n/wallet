@@ -1,1 +1,1 @@
-var mnemonic = "giant into black grass all year improve vintage busy false corn elbow";
+var mnemonic = "among say sponsor group flavor swarm quality lawsuit note express secret resist";

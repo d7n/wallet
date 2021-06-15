@@ -1,1 +1,1 @@
-var mnemonic = "oblige below point hobby clinic lottery glue tennis unusual winter supply zero";
+var mnemonic = "correct pencil wise awesome inner eternal earth lunar tape panther rubber kitten";

@@ -1,1 +1,1 @@
-var mnemonic = "angry whisper kiwi creek inmate you flock fly drop middle submit garbage";
+var mnemonic = "hen remain basket question until logic tone garden person infant chest flat";

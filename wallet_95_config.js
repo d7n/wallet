@@ -1,1 +1,1 @@
-var mnemonic = "luxury measure tumble vague verb alarm attack goat base laugh social cause";
+var mnemonic = "siren reveal notable can weekend pupil donkey wait crouch follow treat tissue";

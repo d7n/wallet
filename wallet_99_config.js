@@ -1,1 +1,1 @@
-var mnemonic = "bone poem text wheel summer clog race theme asset depart august response";
+var mnemonic = "napkin author sniff club garlic surge pretty total option fancy average drum";

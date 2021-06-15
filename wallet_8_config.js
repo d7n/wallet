@@ -1,1 +1,1 @@
-var mnemonic = "tell stool young current fossil assume trim crumble cancel key morning frozen";
+var mnemonic = "expect hazard romance mobile album wash element palace useful live sleep hero";

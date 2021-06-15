@@ -1,1 +1,1 @@
-var mnemonic = "fitness indoor armed emerge orphan just boat load canyon behave blanket piano";
+var mnemonic = "card trial mosquito arrow split nation pole wonder fade carbon bullet attend";

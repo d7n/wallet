@@ -1,1 +1,1 @@
-var mnemonic = "cancel vibrant grace inherit width attend success ketchup toy embark idea notable";
+var mnemonic = "punch spice world crater mimic more intact master critic camp garment bonus";

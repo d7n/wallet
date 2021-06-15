@@ -1,1 +1,1 @@
-var mnemonic = "address innocent tissue robot track filter era undo cactus model spell effort";
+var mnemonic = "mutual rocket boost defy gas injury swamp heavy mule swift next what";

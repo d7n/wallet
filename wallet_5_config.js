@@ -1,1 +1,1 @@
-var mnemonic = "capital modify problem account glory capable nothing shy index define test spoon";
+var mnemonic = "thunder pulp green sphere arrest banana immense almost camp uphold pulse three";

@@ -1,1 +1,1 @@
-var mnemonic = "online glory orphan favorite palace hurry dice lady license novel response mimic";
+var mnemonic = "head suit effort pink silk motor tooth spoil dinner bird evolve rescue";

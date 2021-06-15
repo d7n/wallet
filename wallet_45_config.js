@@ -1,1 +1,1 @@
-var mnemonic = "raw december session pottery seven solid cheap hurdle hint floor belt shove";
+var mnemonic = "coil between figure sugar luggage lock syrup garlic fruit exhibit include scale";

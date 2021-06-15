@@ -1,1 +1,1 @@
-var mnemonic = "unknown task owner wagon march spell impulse fringe daring company debate regret";
+var mnemonic = "skull initial three endorse lion thank vivid blouse route bacon lab brief";

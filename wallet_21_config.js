@@ -1,1 +1,1 @@
-var mnemonic = "mixture reward timber hole will prison mass biology chuckle siege news exotic";
+var mnemonic = "bar mimic pulse vessel column knife entry legend trust bitter smooth joke";

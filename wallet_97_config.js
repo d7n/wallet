@@ -1,1 +1,1 @@
-var mnemonic = "cloud piece inquiry approve glad hover endorse buffalo torch blood wedding shoot";
+var mnemonic = "comfort gas they wolf toddler require recipe local echo eyebrow case cannon";

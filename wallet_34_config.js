@@ -1,1 +1,1 @@
-var mnemonic = "torch sphere enable upset soft oven uniform arrange december open curve race";
+var mnemonic = "amateur age favorite advice clock master want earn midnight ten search update";

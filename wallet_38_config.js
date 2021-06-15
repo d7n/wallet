@@ -1,1 +1,1 @@
-var mnemonic = "raven mule prosper wrist damp empty aunt humor cruise try require warfare";
+var mnemonic = "tourist robust attitude sister device wait pumpkin minimum ocean carry apple manual";

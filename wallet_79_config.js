@@ -1,1 +1,1 @@
-var mnemonic = "salad umbrella taxi injury blast grow idle select change project sorry faculty";
+var mnemonic = "odor ranch iron potato unique swear liberty flee human twist atom wrestle";

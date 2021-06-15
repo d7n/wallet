@@ -1,1 +1,1 @@
-var mnemonic = "forward dove creek purity horn balance razor patrol glide unique ride reject";
+var mnemonic = "frost route identify hat faith degree rug lesson panic half jazz camp";

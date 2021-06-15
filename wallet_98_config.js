@@ -1,1 +1,1 @@
-var mnemonic = "govern fence warfare day useless afford hope chase build barely oval deliver";
+var mnemonic = "sure stem spell foster deal time believe master cheese elephant student mistake";

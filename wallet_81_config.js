@@ -1,1 +1,1 @@
-var mnemonic = "inherit minute horn script such enroll fetch lumber oil size treat stock";
+var mnemonic = "mobile tower party pass ecology pilot food aware detail bullet trophy check";

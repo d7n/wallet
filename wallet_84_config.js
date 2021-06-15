@@ -1,1 +1,1 @@
-var mnemonic = "spatial excuse word enact glance hamster grain treat menu seven surround hunt";
+var mnemonic = "embark borrow shoe road wait naive tag depart swift curious post thunder";

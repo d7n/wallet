@@ -1,1 +1,1 @@
-var mnemonic = "merit warrior budget evidence joke orbit entire ethics abandon visa inject width";
+var mnemonic = "tourist present provide lemon burden laugh gown couple seed vivid tissue despair";

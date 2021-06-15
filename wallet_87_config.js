@@ -1,1 +1,1 @@
-var mnemonic = "coach omit clock idea reward thrive rule sustain yellow twelve van nurse";
+var mnemonic = "chest metal south bone rely strategy predict movie much slender fury intact";

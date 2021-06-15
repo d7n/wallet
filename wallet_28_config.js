@@ -1,1 +1,1 @@
-var mnemonic = "fine rabbit kitten mountain guilt hospital company asset side ozone comfort gauge";
+var mnemonic = "maid beauty mystery deliver hurry artwork husband involve honey rare record draft";

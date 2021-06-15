@@ -1,1 +1,1 @@
-var mnemonic = "kingdom hope moon script harbor village soft vital broom credit trip tonight";
+var mnemonic = "crack injury fat exile fly patient entry lobster deny credit gate type";

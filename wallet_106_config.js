@@ -1,1 +1,1 @@
-var mnemonic = "rifle fragile movie there guilt diesel option auto area sister symptom joke";
+var mnemonic = "hill divide fame car early raven shoot address vault twist above shift";

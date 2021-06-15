@@ -1,1 +1,1 @@
-var mnemonic = "dream mouse autumn sense entire perfect armed secret wolf senior shuffle sort";
+var mnemonic = "electric clerk green aim buddy lonely lawn tomato render together maple nose";

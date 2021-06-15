@@ -1,1 +1,1 @@
-var mnemonic = "old renew embrace hidden height nephew rotate surge image cheese visa kit";
+var mnemonic = "fork uphold avocado hero gas nut drop earn rocket maple column dilemma";

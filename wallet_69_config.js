@@ -1,1 +1,1 @@
-var mnemonic = "assume cannon shoot twist weasel pipe robot gain parade vocal pave suggest";
+var mnemonic = "funny bundle puppy beach climb sausage claw claim shuffle swim ivory remember";

@@ -1,1 +1,1 @@
-var mnemonic = "visit pause idle cover humble dragon snap release term talent bunker tilt";
+var mnemonic = "food fan wedding manage gadget absorb clap oyster ready tuna audit island";

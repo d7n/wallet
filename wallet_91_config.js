@@ -1,1 +1,1 @@
-var mnemonic = "social mansion people clip fuel tiny advance lonely dizzy differ feature fiber";
+var mnemonic = "image pitch struggle aunt flat avoid vocal clinic dream pulse praise usage";

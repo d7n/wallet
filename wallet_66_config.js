@@ -1,1 +1,1 @@
-var mnemonic = "obvious winter pigeon sustain step dragon spread firm manual rice water youth";
+var mnemonic = "always minute scorpion analyst series guitar market meadow food kid window figure";

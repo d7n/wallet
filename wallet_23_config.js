@@ -1,1 +1,1 @@
-var mnemonic = "rack hen intact ship parade clever beyond music veteran fury arrange display";
+var mnemonic = "cube panther latin fortune family tourist excite simple exit employ clock record";

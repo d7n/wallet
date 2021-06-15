@@ -1,1 +1,1 @@
-var mnemonic = "later sample gravity employ found inject price lucky series broom energy cement";
+var mnemonic = "observe slush broccoli sponsor palace buyer machine reform letter verb equip rebel";

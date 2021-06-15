@@ -1,1 +1,1 @@
-var mnemonic = "source mandate never effort gather era about slot awful ticket fiscal avoid";
+var mnemonic = "eager team desert donkey romance before usage dizzy produce slender food squeeze";

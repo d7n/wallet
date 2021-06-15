@@ -1,1 +1,1 @@
-var mnemonic = "onion verify aware excuse crisp stuff uncle feature recycle fragile gauge pudding";
+var mnemonic = "pole inherit actor acoustic afford surface weapon pause alien walk wealth verb";

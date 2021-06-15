@@ -1,1 +1,1 @@
-var mnemonic = "orbit second ridge amount abuse gadget blast view blast become above black";
+var mnemonic = "tail couch lonely circle deliver powder defense history physical until fiction rug";

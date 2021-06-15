@@ -1,1 +1,1 @@
-var mnemonic = "fire flush august forward erode excite protect group hawk guilt snap chief";
+var mnemonic = "blush motion alarm patch bitter gentle survey mixture earn ribbon best donate";

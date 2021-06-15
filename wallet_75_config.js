@@ -1,1 +1,1 @@
-var mnemonic = "smile prepare loan equal source process charge ask jeans enlist long exercise";
+var mnemonic = "cost hunt wisdom throw elegant trash travel oval mix derive magic true";

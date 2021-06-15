@@ -1,1 +1,1 @@
-var mnemonic = "step focus solve upper hurt sad dwarf car double elder fury snap";
+var mnemonic = "degree place ketchup stadium good future dwarf wide feed thunder remind fun";

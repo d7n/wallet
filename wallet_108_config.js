@@ -1,1 +1,1 @@
-var mnemonic = "noodle inflict bean peace border stairs lion increase minor submit differ huge";
+var mnemonic = "usual index hedgehog stage execute cheap swear junk canvas fiscal behave rack";

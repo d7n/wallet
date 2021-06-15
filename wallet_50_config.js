@@ -1,1 +1,1 @@
-var mnemonic = "deer they addict finish butter scan token cause save east insane large";
+var mnemonic = "record impact heavy base retire box alpha risk youth mutual decorate island";

@@ -1,1 +1,1 @@
-var mnemonic = "stay nature dumb pass plastic topic arena lunch swamp pig rotate wasp";
+var mnemonic = "window damp ship visit word blanket erosion science enroll mom nasty crisp";

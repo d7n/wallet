@@ -1,1 +1,1 @@
-var mnemonic = "moon nation tomato cement dream strong tape recycle slice alcohol spring engine";
+var mnemonic = "toss drum subway error paddle child salt coach earn blur same trade";

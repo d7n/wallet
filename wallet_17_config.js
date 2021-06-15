@@ -1,1 +1,1 @@
-var mnemonic = "exist genuine patient myth among process lift avocado organ cloth congress worth";
+var mnemonic = "science between crunch peasant reduce select under liar peace host uniform crew";

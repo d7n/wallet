@@ -1,1 +1,1 @@
-var mnemonic = "hard alpha able cliff calm dragon check victory refuse heart waste vacant";
+var mnemonic = "scrap steak symbol tool siege tomorrow loyal rebuild lake sign pottery day";
