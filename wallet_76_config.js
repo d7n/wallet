@@ -1,1 +1,1 @@
-var mnemonic = "elder initial endorse poverty kidney family harvest credit census decide life turtle";
+var mnemonic = "guilt ceiling merit can galaxy chase flock explain walk magic lamp unknown";

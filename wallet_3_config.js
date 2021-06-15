@@ -1,1 +1,1 @@
-var mnemonic = "armor home view tell wear kitchen hold pupil child tuna captain story";
+var mnemonic = "index bacon exchange rhythm replace rebel once suggest farm army lift bike";

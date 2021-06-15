@@ -1,1 +1,1 @@
-var mnemonic = "sort inmate trash pulp onion leisure luggage grocery river kiss earth intact";
+var mnemonic = "keen lesson park sadness ship faculty orchard embody rude excuse twelve brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "once idea mystery electric nose action endorse liar fortune kitten curve unfold";
+var mnemonic = "test palm uncle income portion try honey donate famous two move planet";

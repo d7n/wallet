@@ -1,1 +1,1 @@
-var mnemonic = "core print state magnet divert illegal curtain chimney text oak agree sunset";
+var mnemonic = "escape rug merit mean wedding diagram want loan recipe between glad seven";

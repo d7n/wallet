@@ -1,1 +1,1 @@
-var mnemonic = "enrich season divert sheriff siren loyal exchange pudding into sleep include ecology";
+var mnemonic = "ride lens portion west rich define program tide home problem stadium army";

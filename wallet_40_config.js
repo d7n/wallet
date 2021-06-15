@@ -1,1 +1,1 @@
-var mnemonic = "better update switch guide protect hole spider exit lend digital sibling elbow";
+var mnemonic = "bright noise keep wish torch beach practice error brush similar wear gadget";

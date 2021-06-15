@@ -1,1 +1,1 @@
-var mnemonic = "erode brain beyond current mobile human liquid crowd knee deny dinner eyebrow";
+var mnemonic = "board beauty chicken rather nest away inmate night bread silver season course";

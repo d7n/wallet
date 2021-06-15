@@ -1,1 +1,1 @@
-var mnemonic = "brass twice wolf become parent rapid faint rebel upset pigeon evoke bench";
+var mnemonic = "stand start chunk enemy copy sting invite city hospital supply weasel hole";

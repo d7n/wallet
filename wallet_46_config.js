@@ -1,1 +1,1 @@
-var mnemonic = "impose false occur lamp awake crazy mouse cushion shoulder clay upper album";
+var mnemonic = "stairs agent cheap punch vehicle tiny party viable few canoe blame wine";

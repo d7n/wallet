@@ -1,1 +1,1 @@
-var mnemonic = "rotate happy ordinary awesome grant ancient man actor dolphin nose social motion";
+var mnemonic = "shine gap long embrace autumn want home mobile ketchup blue clerk humor";

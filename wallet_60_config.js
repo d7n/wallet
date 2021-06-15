@@ -1,1 +1,1 @@
-var mnemonic = "draw window market bring absorb craft enable middle borrow fringe table sample";
+var mnemonic = "antenna vote office bone choice style duck dial promote fun reopen energy";

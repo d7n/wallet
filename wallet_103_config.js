@@ -1,1 +1,1 @@
-var mnemonic = "hole enrich timber fault denial rescue strategy robot knife awesome dust post";
+var mnemonic = "expire mad doctor bulb device surprise robot fever marine mango soccer thing";

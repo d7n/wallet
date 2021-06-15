@@ -1,1 +1,1 @@
-var mnemonic = "panda venture outer purchase gate devote feel royal orchard ritual cross enough";
+var mnemonic = "heavy flat result moment hurry blood excite bullet figure nice enhance denial";

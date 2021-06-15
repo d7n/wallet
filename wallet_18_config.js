@@ -1,1 +1,1 @@
-var mnemonic = "tiger dish project daughter screen offer expire miracle develop tip source sister";
+var mnemonic = "garlic crew balcony armor detect someone nurse uncle debris six orange elegant";

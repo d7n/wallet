@@ -1,1 +1,1 @@
-var mnemonic = "enjoy spatial claw say sick decide door cube taste wing dice mesh";
+var mnemonic = "leader face remember crazy dragon old body double trigger trim sell kit";

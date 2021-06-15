@@ -1,1 +1,1 @@
-var mnemonic = "oven cluster east ritual dash combine unique unique immense whip bless leaf";
+var mnemonic = "float bachelor senior fat fire have pill spatial party enjoy record steak";

@@ -1,1 +1,1 @@
-var mnemonic = "rare tip walk because horn myself match glare gap portion hole kite";
+var mnemonic = "blossom rubber rocket shadow sand crunch shaft devote pill lunar monster assault";

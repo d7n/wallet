@@ -1,1 +1,1 @@
-var mnemonic = "critic stay ignore powder process goat sister useless first ketchup repair device";
+var mnemonic = "thing mirror bachelor measure move advance wrap orbit draft grunt between denial";

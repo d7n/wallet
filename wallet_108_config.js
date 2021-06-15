@@ -1,1 +1,1 @@
-var mnemonic = "client roast pride mom glimpse witness fine unique clog fame fresh despair";
+var mnemonic = "document always chalk save wealth weasel artist dance maze shell toy fan";

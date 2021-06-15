@@ -1,1 +1,1 @@
-var mnemonic = "pause animal wonder olive despair slab cheese lunch note erupt vendor frost";
+var mnemonic = "reopen ahead caught ball permit brief index lazy model inquiry energy bread";

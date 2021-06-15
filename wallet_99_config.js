@@ -1,1 +1,1 @@
-var mnemonic = "bonus table subject unfold trust awful asthma garage sting shed stereo devote";
+var mnemonic = "dutch correct diamond balcony hat blossom cage silly bulk program baby during";

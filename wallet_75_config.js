@@ -1,1 +1,1 @@
-var mnemonic = "apology deer main broken oyster nature stereo pact bargain cross syrup abandon";
+var mnemonic = "chalk crane rule bonus abstract grab guilt caught patch prevent weasel neck";

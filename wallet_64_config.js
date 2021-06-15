@@ -1,1 +1,1 @@
-var mnemonic = "merge now man link you shy mail kitchen exhaust road olive model";
+var mnemonic = "close carry opinion payment asthma gaze call impact chalk hub furnace swap";

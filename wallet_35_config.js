@@ -1,1 +1,1 @@
-var mnemonic = "moment side rib caution isolate only isolate prepare average outdoor weasel three";
+var mnemonic = "river van fantasy hunt robust spy cotton edit derive include shrug neglect";

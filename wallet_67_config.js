@@ -1,1 +1,1 @@
-var mnemonic = "clarify click cry cattle table since second torch awkward current lyrics hundred";
+var mnemonic = "chief august coconut spawn spend stand quit quote marine foam lazy loop";

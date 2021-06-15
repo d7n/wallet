@@ -1,1 +1,1 @@
-var mnemonic = "mule license forward broken more cruel topple solid smoke because face gate";
+var mnemonic = "talk track room donor poet sting smoke skirt sing total bid exotic";

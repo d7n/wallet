@@ -1,1 +1,1 @@
-var mnemonic = "lab unfold stone style hedgehog addict stadium group spell unusual flat cute";
+var mnemonic = "wash apart giraffe chase mass chunk chair mail mean day door team";

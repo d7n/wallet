@@ -1,1 +1,1 @@
-var mnemonic = "hobby reveal now warm income price nerve sleep again chicken board reopen";
+var mnemonic = "home margin candy female visit across alien guard usual delay victory dry";

@@ -1,1 +1,1 @@
-var mnemonic = "organ blind drift wet leader borrow odor blur syrup divert shine cloth";
+var mnemonic = "alcohol seven victory cover rain elegant wish obey estate eight girl auto";

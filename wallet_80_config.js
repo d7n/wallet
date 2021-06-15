@@ -1,1 +1,1 @@
-var mnemonic = "behind turkey cause better catch finger naive amount retire share skill please";
+var mnemonic = "era regular best type lazy green tonight foot reveal banana salute voice";

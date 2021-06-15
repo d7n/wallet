@@ -1,1 +1,1 @@
-var mnemonic = "exile birth leisure remember surprise source enough seven gain defense gift sentence";
+var mnemonic = "pair atom satoshi entry swamp industry custom airport course inspire behind balance";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent meat goddess bunker win much lounge style language idle side laptop";
+var mnemonic = "sing normal outer burden tonight easily liberty coach piano nose exact green";

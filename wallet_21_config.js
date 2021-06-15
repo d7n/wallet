@@ -1,1 +1,1 @@
-var mnemonic = "target song alone real typical digital steak movie powder business horn this";
+var mnemonic = "van glory lecture cube grunt abuse blue daring render student novel average";

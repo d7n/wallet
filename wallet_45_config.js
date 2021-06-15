@@ -1,1 +1,1 @@
-var mnemonic = "system soda together crash blood peanut soap twin system flag rate friend";
+var mnemonic = "monster physical lazy decrease invest valid label alcohol vendor have hobby process";

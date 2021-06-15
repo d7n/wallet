@@ -1,1 +1,1 @@
-var mnemonic = "cluster still unaware transfer staff region leader remember pact magnet tobacco gather";
+var mnemonic = "antique dawn hockey hope report butter prefer adult brave account fatigue media";

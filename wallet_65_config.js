@@ -1,1 +1,1 @@
-var mnemonic = "point scene air oval amused owner crop cool repair acquire profit casino";
+var mnemonic = "dose vacant ordinary entire tackle orient useful ginger magnet deposit correct royal";

@@ -1,1 +1,1 @@
-var mnemonic = "width shy ghost boil lottery blade labor crew trap unique just nurse";
+var mnemonic = "scissors group jelly recycle more inherit mobile artefact decade bird sing horn";

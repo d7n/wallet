@@ -1,1 +1,1 @@
-var mnemonic = "crop asset apple essence crime age special rural shrimp artwork hidden cactus";
+var mnemonic = "enjoy draw motor better rose slow joy oblige card legal aware ankle";

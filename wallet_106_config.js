@@ -1,1 +1,1 @@
-var mnemonic = "confirm fossil ivory loud mail mosquito vintage era twenty cancel disagree return";
+var mnemonic = "trap glare coach casual verify friend utility dwarf envelope diagram blouse liberty";

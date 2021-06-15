@@ -1,1 +1,1 @@
-var mnemonic = "fire solar narrow duck flag predict hood float marble raw person senior";
+var mnemonic = "response predict wisdom erode squeeze lesson document prison bench version machine fish";

@@ -1,1 +1,1 @@
-var mnemonic = "kite occur faculty piano depth scale math equip eye view sand cloud";
+var mnemonic = "similar flock rural total sausage vast little bone wear talent draw helmet";

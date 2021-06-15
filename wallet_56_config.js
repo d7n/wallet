@@ -1,1 +1,1 @@
-var mnemonic = "excite truck inside entry net strategy copy flavor trend mammal volcano salmon";
+var mnemonic = "spirit able snow use boil permit donate afford ready shell obvious rookie";

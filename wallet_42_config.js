@@ -1,1 +1,1 @@
-var mnemonic = "income dumb uncover mystery choose enroll paper double artist beef hotel impulse";
+var mnemonic = "sign scare such wait craft collect replace under cake resource away crater";

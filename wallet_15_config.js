@@ -1,1 +1,1 @@
-var mnemonic = "spare ugly music again oil random trend pause wedding oak trigger accident";
+var mnemonic = "find hen celery deal beyond trophy soldier remember liar pigeon odor turn";

@@ -1,1 +1,1 @@
-var mnemonic = "learn mango amount child ship flavor neutral adult erode curve sock clutch";
+var mnemonic = "claim act rice asthma segment slab chimney cute coconut endorse text solution";

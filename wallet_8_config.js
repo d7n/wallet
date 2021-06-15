@@ -1,1 +1,1 @@
-var mnemonic = "metal proud stumble merge small there shoulder burden distance wonder sleep dizzy";
+var mnemonic = "icon month element when chicken loan uphold narrow orient foster olive release";

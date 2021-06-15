@@ -1,1 +1,1 @@
-var mnemonic = "travel decade layer exit olympic flee heart episode canoe vicious chaos drama";
+var mnemonic = "hurry chronic also alien family hungry trip color walnut raise plunge goat";

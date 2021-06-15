@@ -1,1 +1,1 @@
-var mnemonic = "material grunt fringe era ship weekend sing weather list token expire sugar";
+var mnemonic = "coach side siren lion victory monitor captain exercise post sight feel motion";

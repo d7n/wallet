@@ -1,1 +1,1 @@
-var mnemonic = "nose gadget elbow great gas find you problem spend photo column stomach";
+var mnemonic = "correct gaze sadness vague century march quick blame current job ahead green";

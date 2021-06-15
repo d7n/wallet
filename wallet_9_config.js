@@ -1,1 +1,1 @@
-var mnemonic = "desert clutch boy inmate box forum man dawn define endorse ball assist";
+var mnemonic = "custom pipe minute work student fox property high top stadium trade bridge";

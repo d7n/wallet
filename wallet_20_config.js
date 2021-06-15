@@ -1,1 +1,1 @@
-var mnemonic = "enlist code patient travel image miracle report apart ozone replace accuse morning";
+var mnemonic = "minute raw lyrics warfare angry uphold glory harbor clump cause badge armor";

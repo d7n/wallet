@@ -1,1 +1,1 @@
-var mnemonic = "churn orchard water eye solution run salad twenty answer flat frog nerve";
+var mnemonic = "size earn banana rail tape man near then slab alpha engine call";

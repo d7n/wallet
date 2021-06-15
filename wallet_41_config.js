@@ -1,1 +1,1 @@
-var mnemonic = "hidden educate sort nephew practice portion sand layer lizard decline obtain entry";
+var mnemonic = "reflect grape smile tribe rookie ridge half auction talk today aunt slot";

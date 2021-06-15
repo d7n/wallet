@@ -1,1 +1,1 @@
-var mnemonic = "dizzy assist between imitate loyal fee ride betray erupt turtle eager still";
+var mnemonic = "vacuum invest dash pony grit mixture stage icon drama frost antenna bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion glove sudden bridge blush virus library antenna first hundred expose ticket";
+var mnemonic = "predict off day blouse praise wheat grief perfect rate dial auction endless";

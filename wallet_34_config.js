@@ -1,1 +1,1 @@
-var mnemonic = "industry giant tube enjoy minimum vacuum fat daring license animal program behind";
+var mnemonic = "history bid thought ketchup imitate room average source snake quality subject volume";

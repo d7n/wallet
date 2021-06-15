@@ -1,1 +1,1 @@
-var mnemonic = "purity girl use pill range rare blur reopen risk explain certain sadness";
+var mnemonic = "never gym bid gown midnight scene ski question camp border rural tail";

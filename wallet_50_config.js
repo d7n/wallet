@@ -1,1 +1,1 @@
-var mnemonic = "rough vibrant arch crane citizen again embark struggle faint sight pride define";
+var mnemonic = "leisure yellow tomato nothing open drill dream sorry program orange company middle";

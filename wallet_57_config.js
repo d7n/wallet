@@ -1,1 +1,1 @@
-var mnemonic = "glory orbit march deposit sense excess skin sword fine print lake risk";
+var mnemonic = "stool exercise desk end resist choice million fat luggage debate kite wing";

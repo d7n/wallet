@@ -1,1 +1,1 @@
-var mnemonic = "expect web doctor puzzle valley sauce bottom wool screen derive spoon focus";
+var mnemonic = "federal public giant occur earn state fluid night hub decrease stock catch";

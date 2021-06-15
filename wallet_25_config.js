@@ -1,1 +1,1 @@
-var mnemonic = "network vault script valley swarm cotton candy used couch trust abstract minimum";
+var mnemonic = "visual pig clarify pistol sunset garage keen pumpkin arm ugly salt window";

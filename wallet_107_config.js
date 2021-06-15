@@ -1,1 +1,1 @@
-var mnemonic = "crawl seek first better roof eye write bag skin eagle asset rural";
+var mnemonic = "quote opera view peace humble marriage symptom coast female sand crop ahead";

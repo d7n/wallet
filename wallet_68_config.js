@@ -1,1 +1,1 @@
-var mnemonic = "easily cattle tube skull betray olympic winter impose patch promote kiss net";
+var mnemonic = "that level that duty myth method orchard provide spread gravity dinosaur try";

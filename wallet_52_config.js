@@ -1,1 +1,1 @@
-var mnemonic = "stick satoshi project visual tornado govern canyon black outdoor caught isolate verb";
+var mnemonic = "dog spin claim height door patient obey limit mushroom answer cry giant";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy lottery regular lava draw pattern consider security inspire bullet entire arena";
+var mnemonic = "noise spoon vast address vintage evolve corn worth mimic base pink enter";

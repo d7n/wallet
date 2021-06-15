@@ -1,1 +1,1 @@
-var mnemonic = "universe stone first vibrant gloom used affair tourist dance hazard slender reject";
+var mnemonic = "camera bar tobacco scale march neglect around document master burger smooth claim";

@@ -1,1 +1,1 @@
-var mnemonic = "figure drop there imitate else pet near repair shine ozone blade flag";
+var mnemonic = "phrase upper pitch uncle improve deal analyst scout saddle marriage toast retreat";

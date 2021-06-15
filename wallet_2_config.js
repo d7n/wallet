@@ -1,1 +1,1 @@
-var mnemonic = "fatal run approve sense symptom strategy annual country example sock acquire dinner";
+var mnemonic = "surround piano office word artist fox shop leg charge twenty peace high";

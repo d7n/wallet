@@ -1,1 +1,1 @@
-var mnemonic = "because solve trend hurt spawn abuse creek dizzy brown blast impulse jazz";
+var mnemonic = "unit stem slow galaxy claw excite wisdom rack vessel side buffalo lobster";

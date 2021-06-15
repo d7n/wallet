@@ -1,1 +1,1 @@
-var mnemonic = "cotton spend bird crash lottery answer major click lion raise barrel awful";
+var mnemonic = "stuff humble size lend indicate gloom short tourist salon canoe sheriff palm";

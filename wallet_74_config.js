@@ -1,1 +1,1 @@
-var mnemonic = "bracket unique impose three pig rebuild skate rich stadium truly suit critic";
+var mnemonic = "aim shoe liar arrow concert pipe asset fancy genius vehicle wrist dirt";

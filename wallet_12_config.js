@@ -1,1 +1,1 @@
-var mnemonic = "merge bracket among enlist quick sea pluck wolf trigger world parade across";
+var mnemonic = "grain reason frequent phone churn learn plunge oval faint uniform million walk";

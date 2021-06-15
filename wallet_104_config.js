@@ -1,1 +1,1 @@
-var mnemonic = "wish insane hungry weather wheel tattoo horror owner envelope obscure absurd magic";
+var mnemonic = "twenty damp rich memory oval evil switch begin jump embrace elevator tape";

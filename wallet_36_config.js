@@ -1,1 +1,1 @@
-var mnemonic = "leg copy issue network wide vessel cliff patrol nature night rate weather";
+var mnemonic = "fabric fashion eagle sport there unfair universe fever evidence hen horse differ";

@@ -1,1 +1,1 @@
-var mnemonic = "atom industry where strong industry depth reject turkey tilt material midnight aim";
+var mnemonic = "track review answer final load copper auto host negative sort earn analyst";

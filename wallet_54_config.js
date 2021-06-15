@@ -1,1 +1,1 @@
-var mnemonic = "soul flame depth pumpkin short pipe drop scrap garden room another fame";
+var mnemonic = "erase butter crystal limb track lumber argue wedding pull act dash dust";

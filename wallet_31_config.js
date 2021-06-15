@@ -1,1 +1,1 @@
-var mnemonic = "drive promote magic relax syrup outdoor manual process fabric carbon butter cabbage";
+var mnemonic = "lyrics film seven wrong moon dirt check mad fragile hat muscle pioneer";

@@ -1,1 +1,1 @@
-var mnemonic = "spot scissors auto minor argue link blood direct great have verify nose";
+var mnemonic = "culture abuse armed wool agent write pupil comfort uphold tank beauty flat";

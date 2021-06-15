@@ -1,1 +1,1 @@
-var mnemonic = "gap room puzzle knife detect banana dragon tree job flee dwarf lyrics";
+var mnemonic = "face learn rookie main october puppy silk valve young sand child scout";

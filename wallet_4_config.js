@@ -1,1 +1,1 @@
-var mnemonic = "rose total armor make neither force judge patch core push sponsor goat";
+var mnemonic = "belt ordinary pen income ancient before rude face beauty orphan because edit";

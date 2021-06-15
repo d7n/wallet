@@ -1,1 +1,1 @@
-var mnemonic = "inject praise absorb raise save boat olympic impact pupil enrich under awkward";
+var mnemonic = "flock sponsor beauty little claim fiscal save left visa shield soccer knife";

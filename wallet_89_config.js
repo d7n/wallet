@@ -1,1 +1,1 @@
-var mnemonic = "inside stock fine usage senior hybrid amateur sorry party jungle desert meat";
+var mnemonic = "step snake digital sting satoshi release mansion year ozone globe love celery";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor fence dignity keen toss bachelor figure cabbage reduce result chronic recycle";
+var mnemonic = "raw hedgehog undo okay employ coconut shadow margin quit guitar input hill";

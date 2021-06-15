@@ -1,1 +1,1 @@
-var mnemonic = "famous sting road load tackle symbol basic health orange during taxi rookie";
+var mnemonic = "moral town ribbon trigger scale chief daring raven project lab volume remain";

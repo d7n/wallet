@@ -1,1 +1,1 @@
-var mnemonic = "fork crop six access entry isolate liar hub sad wall shock bargain";
+var mnemonic = "solve nurse width client tribe trade style solution stick weird breeze congress";

@@ -1,1 +1,1 @@
-var mnemonic = "clock remind quick isolate unfair invite awkward found behind physical twin capable";
+var mnemonic = "tennis square unaware marine radio street opinion sweet elevator fortune draft bar";

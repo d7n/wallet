@@ -1,1 +1,1 @@
-var mnemonic = "cricket upgrade canal toy belt slot august legal over flush hospital kick";
+var mnemonic = "museum settle night photo odor kitchen adjust giggle inform cliff opinion poem";

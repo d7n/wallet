@@ -1,1 +1,1 @@
-var mnemonic = "vivid bulb organ addict valid flame century burger dinosaur bacon music harvest";
+var mnemonic = "tape crunch sister physical slide hotel jungle kiwi survey device powder episode";

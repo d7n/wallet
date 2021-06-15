@@ -1,1 +1,1 @@
-var mnemonic = "old mirror menu apple cute cinnamon humor mass throw man swim sense";
+var mnemonic = "consider next carbon brand frequent margin boost monster unfair coin alien bean";

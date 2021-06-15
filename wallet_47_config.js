@@ -1,1 +1,1 @@
-var mnemonic = "lemon fresh funny member scorpion sausage cute gate melody lift mom shaft";
+var mnemonic = "pyramid clap divorce address unveil magic angle until always shiver fury liberty";

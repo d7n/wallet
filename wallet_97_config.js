@@ -1,1 +1,1 @@
-var mnemonic = "fragile custom south unusual tiger submit cricket team siege exclude prepare mule";
+var mnemonic = "spoon educate public kidney found crumble arch wreck wine tone trophy venture";

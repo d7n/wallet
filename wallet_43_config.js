@@ -1,1 +1,1 @@
-var mnemonic = "oyster roast churn tiger extra chronic soup host skate vital photo agree";
+var mnemonic = "polar hundred marine return virus leisure deliver guilt order material caution rebuild";
