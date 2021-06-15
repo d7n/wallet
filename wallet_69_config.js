@@ -1,1 +1,1 @@
-var mnemonic = "surge mom tank save dirt pluck mimic immune window liquid unfold trade";
+var mnemonic = "sword upset raw sight abstract random uniform resist brown myth effort anxiety";

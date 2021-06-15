@@ -1,1 +1,1 @@
-var mnemonic = "become sound involve sadness brother tackle enhance tortoise balance know echo scale";
+var mnemonic = "similar west author burst wheel pluck immune use odor column canvas nut";

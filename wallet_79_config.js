@@ -1,1 +1,1 @@
-var mnemonic = "meat replace effort step saddle water drastic lab drip disease next divide";
+var mnemonic = "rescue hip cause leisure entry bean elbow tennis design birth thunder imitate";

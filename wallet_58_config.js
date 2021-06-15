@@ -1,1 +1,1 @@
-var mnemonic = "next file bench drink safe device aspect saddle crush tissue aisle employ";
+var mnemonic = "effort birth adult slam uphold apple spoil maid gossip trumpet fame wonder";

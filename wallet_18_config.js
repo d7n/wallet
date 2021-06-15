@@ -1,1 +1,1 @@
-var mnemonic = "jar belt just virtual burden liberty tortoise tag talk mad change volcano";
+var mnemonic = "all orchard april spread merit shoot involve glide lyrics ecology balance kangaroo";

@@ -1,1 +1,1 @@
-var mnemonic = "pudding left crawl word velvet because promote umbrella end net sentence collect";
+var mnemonic = "dog omit prize document found ketchup party reopen march duty hamster income";

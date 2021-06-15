@@ -1,1 +1,1 @@
-var mnemonic = "ski dry used pretty disagree close body lucky pumpkin idle deer memory";
+var mnemonic = "ahead grit juice figure notice sad clutch round grace crowd matter obvious";

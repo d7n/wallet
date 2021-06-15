@@ -1,1 +1,1 @@
-var mnemonic = "true hello either behave clerk quality code humble super tuna remain now";
+var mnemonic = "strong become exist lock same slot knee moment mountain around acoustic cloud";

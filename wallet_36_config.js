@@ -1,1 +1,1 @@
-var mnemonic = "toddler power unlock kit dice put online clog moon project narrow come";
+var mnemonic = "paper art bean material universe buddy gain column robot glass jacket nest";

@@ -1,1 +1,1 @@
-var mnemonic = "guess napkin section lift carpet negative service artist across doll scan ghost";
+var mnemonic = "easily tent syrup pudding mule spatial rude floor aerobic clay innocent script";

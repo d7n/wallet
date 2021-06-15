@@ -1,1 +1,1 @@
-var mnemonic = "remain patient repair syrup option elite initial auction cement ancient clip know";
+var mnemonic = "quarter stick decrease behind assist brief portion lobster december disagree winner public";

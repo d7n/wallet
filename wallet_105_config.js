@@ -1,1 +1,1 @@
-var mnemonic = "wall robot submit skate shoe cover print rapid safe bitter ignore spice";
+var mnemonic = "outdoor possible bottom useless never six suspect pet whip angle coral bounce";

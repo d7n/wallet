@@ -1,1 +1,1 @@
-var mnemonic = "surge exile together forest drink insane jewel object spin bench forget circle";
+var mnemonic = "boring trend detail shiver traffic sail pencil define attend antique pear purchase";

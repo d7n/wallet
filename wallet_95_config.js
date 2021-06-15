@@ -1,1 +1,1 @@
-var mnemonic = "brisk wrist paddle into balcony thought atom soon ticket agree visual small";
+var mnemonic = "inject example mechanic sport throw season obey release kitchen venue giggle void";

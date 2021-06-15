@@ -1,1 +1,1 @@
-var mnemonic = "fiscal enter neither knife uphold ankle vicious crawl attitude sell trap gospel";
+var mnemonic = "skull kit save mountain cycle bicycle dance envelope try certain milk harvest";

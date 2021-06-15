@@ -1,1 +1,1 @@
-var mnemonic = "session truck very add upon upon analyst mandate require more hotel screen";
+var mnemonic = "menu south glow post web grid lounge iron curtain exercise question hunt";

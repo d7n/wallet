@@ -1,1 +1,1 @@
-var mnemonic = "print blast message nasty reform avoid assist slender monster say require can";
+var mnemonic = "day purchase faculty sudden urban media tumble sting raise letter fury kick";

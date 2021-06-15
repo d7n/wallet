@@ -1,1 +1,1 @@
-var mnemonic = "denial outside coconut service wide orchard trophy vocal thunder mammal ghost bless";
+var mnemonic = "knock lawn fog lazy essay injury series direct bachelor code robust first";

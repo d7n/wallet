@@ -1,1 +1,1 @@
-var mnemonic = "smart citizen north crack fire half deliver cereal clump brother verb vacuum";
+var mnemonic = "wear idea cabin power diesel genuine measure zero planet breeze head this";

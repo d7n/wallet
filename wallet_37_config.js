@@ -1,1 +1,1 @@
-var mnemonic = "segment arena coyote poem rapid game warrior oval asset shrug aerobic poem";
+var mnemonic = "venue betray nurse fame garbage palace chronic slam brave snap age wide";

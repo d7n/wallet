@@ -1,1 +1,1 @@
-var mnemonic = "clutch key glass refuse smart gaze group major impact lift debris paper";
+var mnemonic = "lobster size favorite tank crater clown table together you neutral orphan reward";

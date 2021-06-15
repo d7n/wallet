@@ -1,1 +1,1 @@
-var mnemonic = "run cube mutual spend east praise bring wise plunge immense brother venue";
+var mnemonic = "scissors input recycle whale slow betray lens pizza marine soon dial notable";

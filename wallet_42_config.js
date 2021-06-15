@@ -1,1 +1,1 @@
-var mnemonic = "spider gauge raise broom genuine letter potato belt cactus pill catalog easily";
+var mnemonic = "black attend manage lecture awesome deposit want lake peanut mystery shrimp junior";

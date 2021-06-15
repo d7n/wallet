@@ -1,1 +1,1 @@
-var mnemonic = "title turkey project middle spread harsh wink fossil uphold stadium broccoli cancel";
+var mnemonic = "invite choose mango comfort equip cloth minor conduct lizard island saddle gate";

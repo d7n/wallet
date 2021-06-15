@@ -1,1 +1,1 @@
-var mnemonic = "cash rail pigeon more rent nest candy couple army inherit wine thank";
+var mnemonic = "riot cactus lion off worth tilt radar chuckle gossip dial van soccer";

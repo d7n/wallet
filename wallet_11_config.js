@@ -1,1 +1,1 @@
-var mnemonic = "update limit daring matter action energy regret destroy jump open theme initial";
+var mnemonic = "canyon canvas fortune comfort spray eyebrow gauge wagon glue trip thought snow";

@@ -1,1 +1,1 @@
-var mnemonic = "earth exact cake knock moment absorb huge club exotic inflict series father";
+var mnemonic = "access black guess repair eyebrow asthma shrimp wash grape damage item rain";

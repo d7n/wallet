@@ -1,1 +1,1 @@
-var mnemonic = "dash creek pepper cart fragile behave mule impose butter manual kick sentence";
+var mnemonic = "motor repeat smooth exist desert ketchup about illness aerobic dwarf walnut tool";

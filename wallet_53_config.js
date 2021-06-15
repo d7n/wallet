@@ -1,1 +1,1 @@
-var mnemonic = "ill credit give short jar ketchup life recipe margin beauty junior survey";
+var mnemonic = "hat load issue common crystal opera mistake dress topple hotel hello group";

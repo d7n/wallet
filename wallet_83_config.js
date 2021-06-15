@@ -1,1 +1,1 @@
-var mnemonic = "fatal slab dance poem diesel moral project bicycle protect swim siren grant";
+var mnemonic = "entire uncover summer bless service demand frown chapter cave art share mix";

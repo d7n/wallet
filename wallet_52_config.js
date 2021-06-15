@@ -1,1 +1,1 @@
-var mnemonic = "sell attitude great gold like pilot slogan give into minor manage canoe";
+var mnemonic = "cluster brief fiction quit book rather act bid vendor spawn meat ostrich";

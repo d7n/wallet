@@ -1,1 +1,1 @@
-var mnemonic = "choose inject eye ketchup horn royal glare cereal chest sleep bless bullet";
+var mnemonic = "worry trigger wisdom emotion elevator couch chronic cotton foil promote onion rifle";

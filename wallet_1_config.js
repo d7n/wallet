@@ -1,1 +1,1 @@
-var mnemonic = "head avocado another swim eight stage visit surround phrase apple oval click";
+var mnemonic = "decorate dash drastic attitude evil tool brass oyster shove assume movie diagram";

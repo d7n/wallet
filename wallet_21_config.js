@@ -1,1 +1,1 @@
-var mnemonic = "green box olive clarify canyon menu hockey upgrade come stable elegant reunion";
+var mnemonic = "brain option benefit rural finish shell brick daughter income april track best";

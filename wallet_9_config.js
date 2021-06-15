@@ -1,1 +1,1 @@
-var mnemonic = "uncle fortune upset alarm sunny place verb husband swamp gown frown erosion";
+var mnemonic = "remain fragile genius mimic caution resemble camp method salad throw hammer lend";

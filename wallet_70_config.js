@@ -1,1 +1,1 @@
-var mnemonic = "once ghost key clinic mosquito income cushion vault shallow avocado phone combine";
+var mnemonic = "giggle eagle runway tent crime art chicken resemble hunt toilet floor sauce";

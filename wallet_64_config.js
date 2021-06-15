@@ -1,1 +1,1 @@
-var mnemonic = "humor chicken desert tray charge used amount process inmate describe exotic announce";
+var mnemonic = "nice now leopard olive forum leopard sugar depart address adult sing robot";

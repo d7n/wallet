@@ -1,1 +1,1 @@
-var mnemonic = "plug please survey anger wheel elegant company car lava foam viable end";
+var mnemonic = "gospel tilt derive deliver focus process laugh rhythm desk rather speed enact";

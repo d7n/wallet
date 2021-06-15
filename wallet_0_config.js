@@ -1,1 +1,1 @@
-var mnemonic = "guide swing action marriage bundle squirrel recycle best word select prepare truth";
+var mnemonic = "sister egg dog fancy this topple advance scout sentence avoid concert gap";

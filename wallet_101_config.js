@@ -1,1 +1,1 @@
-var mnemonic = "forget hard humble assault test planet tuna merit forget infant split slot";
+var mnemonic = "creek practice sketch expand bubble flash adapt corn hungry fog carpet will";

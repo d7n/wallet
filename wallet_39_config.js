@@ -1,1 +1,1 @@
-var mnemonic = "list wheel mom angry boss ready century cream neutral clutch amateur pet";
+var mnemonic = "wink never direct indoor enemy joy tattoo find treat core abandon cheap";

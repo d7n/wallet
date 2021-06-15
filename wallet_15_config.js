@@ -1,1 +1,1 @@
-var mnemonic = "net borrow escape shove expose review thumb nuclear local calm domain blush";
+var mnemonic = "truth fancy twelve course car tide outside hundred foster project skin debris";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble harbor box knock flock want also horn galaxy upgrade camera museum";
+var mnemonic = "stable sibling differ main salt pause copper around door eagle tenant whale";

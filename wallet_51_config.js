@@ -1,1 +1,1 @@
-var mnemonic = "more carry void affair wrong brand human album giggle sea garbage general";
+var mnemonic = "duty month struggle regret piano trick glimpse squirrel cause gesture rose display";

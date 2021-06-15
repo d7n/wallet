@@ -1,1 +1,1 @@
-var mnemonic = "absent club future van panda later million cruel transfer travel ten love";
+var mnemonic = "north drift annual antenna turtle juice sting target home element talent buyer";

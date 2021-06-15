@@ -1,1 +1,1 @@
-var mnemonic = "want infant butter street shrimp scrub truth assault end farm bean club";
+var mnemonic = "diet breeze state universe library employ silver cart reunion coconut acoustic buzz";

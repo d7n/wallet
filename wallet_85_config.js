@@ -1,1 +1,1 @@
-var mnemonic = "text transfer verify forget hen mixture method angle scrap idea citizen rack";
+var mnemonic = "tray tilt broccoli raccoon short found calm erase picnic air figure expand";

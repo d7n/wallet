@@ -1,1 +1,1 @@
-var mnemonic = "wrestle assault beef cloud salute kiwi snow monitor early sister entire bamboo";
+var mnemonic = "lobster loyal scan supply blast slow hair sorry camp notable zoo tip";

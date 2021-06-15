@@ -1,1 +1,1 @@
-var mnemonic = "copper rule gaze trip pupil legal empty key chunk retreat cross cause";
+var mnemonic = "law confirm desk attract cheese praise success gallery limit refuse rude quote";

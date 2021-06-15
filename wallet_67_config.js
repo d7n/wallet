@@ -1,1 +1,1 @@
-var mnemonic = "around head throw armed image balance vanish usage cabin pledge virus surface";
+var mnemonic = "one finish cool razor include venture absorb local brave shop evoke forest";

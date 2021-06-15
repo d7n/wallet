@@ -1,1 +1,1 @@
-var mnemonic = "assault advice system duty square apart pond drop index item key allow";
+var mnemonic = "outside bird arrest glue audit exotic peasant honey cinnamon box purse melody";

@@ -1,1 +1,1 @@
-var mnemonic = "network degree you all trigger cricket twin inhale setup wrestle mass split";
+var mnemonic = "below butter reason inherit slab abstract disease apart employ annual chef narrow";

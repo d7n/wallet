@@ -1,1 +1,1 @@
-var mnemonic = "harbor brain problem trip shrimp mixture amount pave exhibit focus evolve rich";
+var mnemonic = "radio august plunge damp pistol banner wonder video deputy fiber emerge fresh";

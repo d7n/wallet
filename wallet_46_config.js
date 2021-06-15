@@ -1,1 +1,1 @@
-var mnemonic = "ensure expect team flavor all rich material dog example silent odor tomorrow";
+var mnemonic = "north spare robot damp wise raccoon crazy uncle cushion reward mechanic erosion";

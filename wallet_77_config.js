@@ -1,1 +1,1 @@
-var mnemonic = "legend mixed taxi choice save cluster diagram anchor raw inflict seminar expire";
+var mnemonic = "adjust brave delay credit already page treat safe dove ice call already";

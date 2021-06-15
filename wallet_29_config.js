@@ -1,1 +1,1 @@
-var mnemonic = "float obscure celery diesel jazz fruit profit banner dose mushroom oyster camp";
+var mnemonic = "fashion carbon imitate inquiry festival lady disagree raccoon indicate cloud hub sunset";

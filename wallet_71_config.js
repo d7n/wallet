@@ -1,1 +1,1 @@
-var mnemonic = "silver spare hurry cute advice action depend hurry slab donate morning island";
+var mnemonic = "lesson forest retire require junk tag clog will actual umbrella question have";

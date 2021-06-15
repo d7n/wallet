@@ -1,1 +1,1 @@
-var mnemonic = "shift nominee split start mango slush unveil cloud purpose alarm setup pipe";
+var mnemonic = "hospital annual happy taxi hammer wedding across enforce special foam essay mutual";

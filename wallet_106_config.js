@@ -1,1 +1,1 @@
-var mnemonic = "finger human special chunk autumn pond favorite better vanish future asset inquiry";
+var mnemonic = "knife dutch betray gadget despair rate popular dismiss ethics corn stone absent";

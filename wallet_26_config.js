@@ -1,1 +1,1 @@
-var mnemonic = "sauce aisle mammal verify sentence hub crowd wish machine pond report dragon";
+var mnemonic = "hotel letter peace write meadow physical ladder cream reopen employ laptop frequent";

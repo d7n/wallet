@@ -1,1 +1,1 @@
-var mnemonic = "help spider climb pluck day furnace miss valley region object dune also";
+var mnemonic = "myself roast vast pig category treat fall spy segment horn isolate rifle";

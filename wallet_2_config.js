@@ -1,1 +1,1 @@
-var mnemonic = "unfair concert tell pilot rich cheap black shallow click hawk shoulder shaft";
+var mnemonic = "chimney give spend cube drip lucky charge pact mosquito glare price project";

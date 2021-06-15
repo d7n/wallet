@@ -1,1 +1,1 @@
-var mnemonic = "fault shrimp sock outer govern twist couch clever genius claim leader salon";
+var mnemonic = "impose book dance hope angry shove dinner velvet common hidden frog solar";

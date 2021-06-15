@@ -1,1 +1,1 @@
-var mnemonic = "clown decorate pipe rib exit melt buzz spatial police evoke observe critic";
+var mnemonic = "garment chapter alcohol foot theory modify pair illness mesh bread confirm differ";

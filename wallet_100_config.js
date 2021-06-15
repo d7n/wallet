@@ -1,1 +1,1 @@
-var mnemonic = "spend approve slide muscle spin bachelor distance penalty wagon timber giggle soccer";
+var mnemonic = "provide parent bean critic warfare poverty profit about board crunch humble silent";

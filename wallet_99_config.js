@@ -1,1 +1,1 @@
-var mnemonic = "fragile double arrow able boring degree visa jar sibling convince rate buddy";
+var mnemonic = "tired material subway auto coffee below when winner lake disorder power crawl";

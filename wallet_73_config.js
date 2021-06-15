@@ -1,1 +1,1 @@
-var mnemonic = "leopard taxi lunar rural family syrup pause arctic pulse ecology exclude town";
+var mnemonic = "chase chest view student try mango fish time lend yellow select summer";

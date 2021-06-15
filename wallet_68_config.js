@@ -1,1 +1,1 @@
-var mnemonic = "seed mystery report regret yellow cat appear spawn degree cereal zero glad";
+var mnemonic = "release net describe fold until eagle town bright sound bounce you measure";

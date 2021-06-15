@@ -1,1 +1,1 @@
-var mnemonic = "boss sweet galaxy latin bicycle couch trap soap tower idea basic label";
+var mnemonic = "later layer spend base cage monkey exclude tide impose about wife lion";

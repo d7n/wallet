@@ -1,1 +1,1 @@
-var mnemonic = "hen abuse ship dentist erase torch crazy seed denial concert unique major";
+var mnemonic = "million crush undo mushroom leopard surround warfare legend depth royal vivid relax";

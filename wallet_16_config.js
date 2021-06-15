@@ -1,1 +1,1 @@
-var mnemonic = "amateur rail glare gorilla sleep coffee invite icon deal cactus flock library";
+var mnemonic = "grocery swift orphan canoe forget void same snack comfort add blue vanish";

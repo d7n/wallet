@@ -1,1 +1,1 @@
-var mnemonic = "rocket garden ability tree total usual upgrade blood initial flavor pepper jungle";
+var mnemonic = "oxygen fashion picture road wool violin author toy stock best still street";

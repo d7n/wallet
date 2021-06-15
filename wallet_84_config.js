@@ -1,1 +1,1 @@
-var mnemonic = "fancy core milk category error job typical kit twin ticket group affair";
+var mnemonic = "trumpet stem what option unknown glide smart stadium burden hawk agent beef";

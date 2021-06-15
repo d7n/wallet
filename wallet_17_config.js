@@ -1,1 +1,1 @@
-var mnemonic = "swift road void carpet always surround blush ribbon rookie mistake sentence seek";
+var mnemonic = "balance ocean degree toe holiday evoke foam logic rich loan warfare effort";

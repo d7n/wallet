@@ -1,1 +1,1 @@
-var mnemonic = "garage ordinary jar earn couple oxygen hope pill erase cigar sentence web";
+var mnemonic = "addict near common permit art unknown spot clay bottom congress midnight shoulder";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor foil biology run twin giant shine bacon bomb orange fiction dune";
+var mnemonic = "rule bind slush boy correct motor diet east sting cram dice olive";

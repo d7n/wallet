@@ -1,1 +1,1 @@
-var mnemonic = "green pledge census dawn laugh bonus buffalo exhaust crime merry wealth tilt";
+var mnemonic = "atom giant pupil quality pave auction refuse cable royal million sketch hour";

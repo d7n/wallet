@@ -1,1 +1,1 @@
-var mnemonic = "cram aspect kiss impose wealth tenant trouble turtle ability one fade joke";
+var mnemonic = "raccoon woman bird skull win direct have sudden man ostrich deposit debate";

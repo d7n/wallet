@@ -1,1 +1,1 @@
-var mnemonic = "season provide advance resist vault cup wrap pottery also cram attend master";
+var mnemonic = "raven stick sunset vacant uphold bird side alien focus rug peasant expect";

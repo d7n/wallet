@@ -1,1 +1,1 @@
-var mnemonic = "toe give enter abandon fall sell review left all loop copy delay";
+var mnemonic = "man cheap admit timber spider venture change host soccer boy method card";

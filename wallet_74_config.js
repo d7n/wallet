@@ -1,1 +1,1 @@
-var mnemonic = "bachelor alarm bus jump extra sad accuse wine seek payment air unfold";
+var mnemonic = "near duck vehicle faith guilt save cereal play hero inform front analyst";

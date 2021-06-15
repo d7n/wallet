@@ -1,1 +1,1 @@
-var mnemonic = "loop mention cool trust wolf gold beef erupt sign occur test rack";
+var mnemonic = "always jump ethics mushroom bitter stairs travel autumn shuffle cry concert hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive adjust anchor bread antenna sock assist siege guide fiction dilemma chimney";
+var mnemonic = "flush glow feature tragic duty drill cushion car search stamp tooth quit";

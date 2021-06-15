@@ -1,1 +1,1 @@
-var mnemonic = "entry fold urge step crime liberty improve obscure question dutch surround talent";
+var mnemonic = "gallery accuse noble alcohol speak replace innocent fabric news wedding awful unknown";

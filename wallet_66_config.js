@@ -1,1 +1,1 @@
-var mnemonic = "luggage leaf neutral vapor come fiscal legal dynamic planet oil project load";
+var mnemonic = "fit myself empty foot drink grow coin double level over argue useless";

@@ -1,1 +1,1 @@
-var mnemonic = "visit range plate error rabbit panic paper notice doctor high ready genre";
+var mnemonic = "walk trip iron language rail soup heart sock small nothing retire debris";

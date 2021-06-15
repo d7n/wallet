@@ -1,1 +1,1 @@
-var mnemonic = "neutral reward jaguar toast few south chase gain album such arrest vintage";
+var mnemonic = "moral lion obvious depend action fine gossip jewel infant mechanic hat calm";

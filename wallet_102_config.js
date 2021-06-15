@@ -1,1 +1,1 @@
-var mnemonic = "disorder current supply retreat spice trigger genius ship month convince kiss whale";
+var mnemonic = "label action blouse shadow sibling pond spare mosquito that swim fatal visa";

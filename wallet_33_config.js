@@ -1,1 +1,1 @@
-var mnemonic = "renew timber orange casual approve there version capable absurd kiss inch erosion";
+var mnemonic = "mandate beef sing multiply drop pool apology sugar envelope rebel science dinner";

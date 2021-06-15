@@ -1,1 +1,1 @@
-var mnemonic = "spawn divert pave sustain chat what method vanish affair tag act festival";
+var mnemonic = "steak word shoot arrest deer prepare simple garlic brave body spin gloom";

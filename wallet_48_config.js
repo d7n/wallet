@@ -1,1 +1,1 @@
-var mnemonic = "hold burst bronze pencil trigger kiss promote pigeon session menu loud tone";
+var mnemonic = "giggle village inquiry wish that soldier dizzy armor judge hope glass stool";
