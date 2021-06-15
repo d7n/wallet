@@ -1,1 +1,1 @@
-var mnemonic = "climb angle inner column audit obscure feature limb gallery liar feel lift";
+var mnemonic = "gadget roof find bounce olive degree pipe advance blast soon apology castle";

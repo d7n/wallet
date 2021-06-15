@@ -1,1 +1,1 @@
-var mnemonic = "impulse snack limb oxygen nerve property trumpet into step carry ripple deputy";
+var mnemonic = "monster find embrace equip will fish pudding industry used cream auction income";

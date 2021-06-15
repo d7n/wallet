@@ -1,1 +1,1 @@
-var mnemonic = "embody buyer regret north slight fog climb slab flavor puppy hole leaf";
+var mnemonic = "mimic edge upgrade audit escape bamboo tower mixture view onion damage fortune";

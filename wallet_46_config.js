@@ -1,1 +1,1 @@
-var mnemonic = "smart lizard toilet recycle person hold exit soldier bus between find feel";
+var mnemonic = "pear inch blue tumble lake portion word great sure neither fragile ceiling";

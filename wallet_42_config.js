@@ -1,1 +1,1 @@
-var mnemonic = "burger thank minor attend hurdle tired regret jazz industry volcano govern endless";
+var mnemonic = "sketch east diagram arch tennis session recipe canvas disease betray ozone enlist";

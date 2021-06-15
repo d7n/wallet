@@ -1,1 +1,1 @@
-var mnemonic = "forward space more deny tilt brief demand grunt empower weird gown again";
+var mnemonic = "extend slot dance civil winner property monkey cable retire athlete wage cry";

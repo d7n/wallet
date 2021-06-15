@@ -1,1 +1,1 @@
-var mnemonic = "whisper nut car captain gorilla invest seven boss satoshi endless hint strategy";
+var mnemonic = "wild neglect diet pole love educate win jacket between canvas muscle suspect";

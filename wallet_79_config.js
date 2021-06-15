@@ -1,1 +1,1 @@
-var mnemonic = "much employ setup decade stand salmon pistol unveil fine stable virus antique";
+var mnemonic = "captain pilot air screen unfold use toss enroll lake crawl foam type";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst olympic ankle credit lazy empower segment comic border adjust edge humor";
+var mnemonic = "feature loyal lunch traffic paper material inject put vehicle recipe object culture";

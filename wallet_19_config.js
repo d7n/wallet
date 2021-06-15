@@ -1,1 +1,1 @@
-var mnemonic = "decrease inch resource stairs pumpkin yellow state prison eye test sweet mimic";
+var mnemonic = "resemble rain odor heavy toe suffer place dutch hat catalog real diesel";

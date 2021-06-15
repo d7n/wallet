@@ -1,1 +1,1 @@
-var mnemonic = "stumble letter elegant divorce bachelor taxi meat dress rose cactus mixture explain";
+var mnemonic = "question fall bomb thumb jump aim clown drama share harsh token device";

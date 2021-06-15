@@ -1,1 +1,1 @@
-var mnemonic = "same catch soccer upset shrug wasp volcano mango lonely shuffle key tell";
+var mnemonic = "doctor spot tenant east sphere outside liquid viable clip scan earn anchor";

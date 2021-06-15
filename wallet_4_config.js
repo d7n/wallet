@@ -1,1 +1,1 @@
-var mnemonic = "best social length lucky topic radar birth border capital later fatal enrich";
+var mnemonic = "nut clutch goose empty expose diet thing valve wedding hurt moon much";

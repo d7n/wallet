@@ -1,1 +1,1 @@
-var mnemonic = "kid miss loop eagle stomach execute screen retreat jungle cram solar later";
+var mnemonic = "twelve gaze exhibit pull leader crunch execute easily absorb rib endless denial";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel update elephant rail deliver rose razor lunar choice edge curtain glow";
+var mnemonic = "wing delay enact crawl crop skull owner worry drastic flower coyote one";

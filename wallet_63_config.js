@@ -1,1 +1,1 @@
-var mnemonic = "palm hero upper since early digital frown fiscal pelican side caught replace";
+var mnemonic = "dish suffer gas cannon deny emotion segment sauce calm peasant first buffalo";

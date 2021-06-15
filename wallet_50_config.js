@@ -1,1 +1,1 @@
-var mnemonic = "invite organ squirrel mandate cabin fame track release spend question maximum juice";
+var mnemonic = "twelve journey sustain combine exclude unit acoustic cart appear outside echo fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "window festival this favorite nuclear coach allow maid present modify busy quarter";
+var mnemonic = "assume pen flight half helmet morning aware below bargain grocery artefact predict";

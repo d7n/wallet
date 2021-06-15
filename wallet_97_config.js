@@ -1,1 +1,1 @@
-var mnemonic = "trust vast obey borrow wrong display sort giant govern general current truth";
+var mnemonic = "liberty kiwi shrug blossom faith ready burden tuna fatal purse bone boost";

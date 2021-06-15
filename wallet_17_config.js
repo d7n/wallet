@@ -1,1 +1,1 @@
-var mnemonic = "planet stamp ketchup path witness victory wave slab gossip mixture angle agent";
+var mnemonic = "umbrella better field calm pencil announce layer radar club cousin confirm salute";

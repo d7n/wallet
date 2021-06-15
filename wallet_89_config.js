@@ -1,1 +1,1 @@
-var mnemonic = "welcome mule common fashion early peasant trap donate gallery maple huge office";
+var mnemonic = "all moon hollow seven scan wrap rely express stove stay review uncle";

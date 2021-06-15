@@ -1,1 +1,1 @@
-var mnemonic = "field table fire banner toy miss elite boring face ice camp swarm";
+var mnemonic = "dumb blur enemy subway swift enforce oblige soup assist jungle dial bulb";

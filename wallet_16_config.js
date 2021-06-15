@@ -1,1 +1,1 @@
-var mnemonic = "elite slender square bar street six chaos link mouse hurt curious spatial";
+var mnemonic = "trial donor advance ecology kangaroo prison search load ring panel bamboo eye";

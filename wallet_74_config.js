@@ -1,1 +1,1 @@
-var mnemonic = "fan clinic glow question achieve view hockey gravity guard anxiety sure protect";
+var mnemonic = "cave despair wage false duck betray system pistol orphan brush fold flag";

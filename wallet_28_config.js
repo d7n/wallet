@@ -1,1 +1,1 @@
-var mnemonic = "permit large during debris giant ethics program dune emerge dwarf sustain jump";
+var mnemonic = "truly culture inform ethics artefact despair silver home evidence side silly castle";

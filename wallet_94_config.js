@@ -1,1 +1,1 @@
-var mnemonic = "insect human spin urge casino high what praise ill install print bronze";
+var mnemonic = "muscle flat science hill thought race coral word sort mother few dish";

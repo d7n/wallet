@@ -1,1 +1,1 @@
-var mnemonic = "olive calm aspect picnic bubble connect blouse crawl accident mechanic swamp royal";
+var mnemonic = "apart palm consider mad sell velvet bulk crucial march fog hour shine";

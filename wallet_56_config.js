@@ -1,1 +1,1 @@
-var mnemonic = "pluck push alone pitch build exchange burden code hub skin embody wagon";
+var mnemonic = "deer slogan gasp habit hood vacuum exhaust employ message traffic label pause";

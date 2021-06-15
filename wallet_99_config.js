@@ -1,1 +1,1 @@
-var mnemonic = "inhale above pudding talk exist castle parrot section thrive blanket novel much";
+var mnemonic = "meat bulk describe special humor hockey delay flower team venture prefer zoo";

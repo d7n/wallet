@@ -1,1 +1,1 @@
-var mnemonic = "focus reason excess apple risk nose rely legal allow educate token endless";
+var mnemonic = "security marine loan lonely quote angry unique slender chest antique almost dynamic";

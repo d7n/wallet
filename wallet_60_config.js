@@ -1,1 +1,1 @@
-var mnemonic = "video sunset aim fever slim game palace arrest step ring domain boy";
+var mnemonic = "pipe sibling bomb slot early empower gap ladder parent solve famous gadget";

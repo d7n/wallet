@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo crew bird gain fiscal endless juice hobby mass shiver imitate sound";
+var mnemonic = "salmon riot kitten curve pair grid review improve absent flip another catch";

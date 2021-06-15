@@ -1,1 +1,1 @@
-var mnemonic = "shift chair fossil year used fish clip lava discover asthma margin hazard";
+var mnemonic = "crater walnut comfort kit bamboo two call similar siren west chunk hurry";

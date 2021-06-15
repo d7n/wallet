@@ -1,1 +1,1 @@
-var mnemonic = "logic kangaroo diary old tape spin copy earth venture now direct poverty";
+var mnemonic = "scare collect door blind danger miss patch cattle frost liquid hungry almost";

@@ -1,1 +1,1 @@
-var mnemonic = "tent senior shoe cruel dad soldier grab jar gallery aspect pet stay";
+var mnemonic = "magic offer grant collect tenant leaf hill involve interest laugh tape gallery";

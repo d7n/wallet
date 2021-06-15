@@ -1,1 +1,1 @@
-var mnemonic = "upon spirit picnic detail orbit half margin skin budget much option safe";
+var mnemonic = "tide replace chapter now prevent onion brave whale nature soda crumble ensure";

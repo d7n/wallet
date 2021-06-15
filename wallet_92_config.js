@@ -1,1 +1,1 @@
-var mnemonic = "web clip october tree dress fetch analyst warm ethics danger buffalo nuclear";
+var mnemonic = "hunt prosper zebra force layer away rare chimney surround inmate clean column";

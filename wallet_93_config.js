@@ -1,1 +1,1 @@
-var mnemonic = "eye tenant surround humor salmon song hospital smile mimic educate aisle charge";
+var mnemonic = "jaguar fossil element ill brass gospel since opera elevator immense sport upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "laptop try lift puppy barrel attitude gloom hybrid exhibit together robot coconut";
+var mnemonic = "scissors near own maid tortoise sustain nuclear weird sport sword amazing diesel";

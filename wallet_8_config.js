@@ -1,1 +1,1 @@
-var mnemonic = "unit talk help own place royal load mouse curious advice clever near";
+var mnemonic = "shuffle pottery fire cannon narrow live print trick suggest box abuse middle";

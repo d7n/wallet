@@ -1,1 +1,1 @@
-var mnemonic = "lottery jelly siren negative inhale emotion erode defy siren visual tomato egg";
+var mnemonic = "bread region peasant tower say lesson offer leader prize deal giant fly";

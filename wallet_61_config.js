@@ -1,1 +1,1 @@
-var mnemonic = "rough vivid live donkey patch certain allow help hundred stereo defense marble";
+var mnemonic = "business foot other mountain relax spin axis artefact balcony maze mule federal";

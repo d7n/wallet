@@ -1,1 +1,1 @@
-var mnemonic = "all common draft lumber envelope video slide amateur display convince bind clump";
+var mnemonic = "update tilt stuff keep myself submit goddess puppy nurse tape marble brain";

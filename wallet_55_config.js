@@ -1,1 +1,1 @@
-var mnemonic = "eight ginger element indoor intact bus october dirt alien put action danger";
+var mnemonic = "path scrap floor piece page vast ethics chunk three essence link inflict";

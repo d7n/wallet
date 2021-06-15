@@ -1,1 +1,1 @@
-var mnemonic = "fatigue host inside correct meadow cause motor nation column focus receive remain";
+var mnemonic = "bamboo sausage enforce mail crack device ghost leg only energy memory human";

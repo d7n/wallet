@@ -1,1 +1,1 @@
-var mnemonic = "essence parent parrot crowd collect property wage mail cruise slab spatial book";
+var mnemonic = "subway enable lady truth rent swim panic review major attend regret hockey";

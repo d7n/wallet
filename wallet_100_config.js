@@ -1,1 +1,1 @@
-var mnemonic = "enroll bracket cool stem face ankle relief mask sign limit skin service";
+var mnemonic = "fruit civil seat focus wrong spray area brave equip month peanut sweet";

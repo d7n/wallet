@@ -1,1 +1,1 @@
-var mnemonic = "amateur firm jump never deposit betray omit dove often fit curious peace";
+var mnemonic = "garage lecture love maze swamp scare gaze daring peasant common crumble reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst decorate denial upper hedgehog rather ivory step comfort order quarter lend";
+var mnemonic = "injury dose tumble speed hover stumble bargain video copper quit loan service";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll vicious glimpse barrel poet anger extend palace skull soup mirror accuse";
+var mnemonic = "equip renew stay cry sight poverty tomato extra boil crowd door merry";

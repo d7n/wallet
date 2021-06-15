@@ -1,1 +1,1 @@
-var mnemonic = "excite awake winner carry farm silver spatial give mushroom fork cattle vocal";
+var mnemonic = "iron brown snap anchor clerk height have base carpet title rebel key";

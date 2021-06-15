@@ -1,1 +1,1 @@
-var mnemonic = "pencil milk style day feed garden walk place bronze van chapter panel";
+var mnemonic = "fatigue slow trap drive okay milk cradle vocal hockey vehicle game embody";

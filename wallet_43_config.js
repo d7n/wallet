@@ -1,1 +1,1 @@
-var mnemonic = "case analyst reopen awesome practice cement nature dish evoke rain rhythm process";
+var mnemonic = "useful buffalo silly large series force wear shock alien future sentence rhythm";

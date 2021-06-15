@@ -1,1 +1,1 @@
-var mnemonic = "smoke minor armed blade marine second sound hospital wage whip smile wagon";
+var mnemonic = "tag confirm main crack fluid upgrade feed hollow soda giraffe identify improve";

@@ -1,1 +1,1 @@
-var mnemonic = "bird rival ticket cute blue fruit silk brisk echo excuse fox wolf";
+var mnemonic = "number echo burger lyrics tone swing sand ocean crowd ship wash senior";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo session moment good toe question mixture scan leave noodle fall behind";
+var mnemonic = "brisk scissors clown image grunt car siege fragile kiwi dad broom ivory";

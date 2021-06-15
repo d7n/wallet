@@ -1,1 +1,1 @@
-var mnemonic = "uncle range cigar exercise supreme grab drama stable pony venue code cry";
+var mnemonic = "birth turn session maze lab describe family evidence seat panther yard silk";

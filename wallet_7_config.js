@@ -1,1 +1,1 @@
-var mnemonic = "system velvet struggle shy young ready convince price wheel type age final";
+var mnemonic = "grunt tent destroy old depart shoe tank balance window crew cloth pride";

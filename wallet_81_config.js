@@ -1,1 +1,1 @@
-var mnemonic = "chunk shift license about slush dilemma vicious edit poverty noise hamster infant";
+var mnemonic = "hope immune brisk rebuild embark shiver agent fix dash weird elevator erosion";

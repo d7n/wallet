@@ -1,1 +1,1 @@
-var mnemonic = "spring image grace prison tired attract suffer peanut cram danger ahead scissors";
+var mnemonic = "hand avocado link inner monster feel tenant zone trumpet half glue extend";

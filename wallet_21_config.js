@@ -1,1 +1,1 @@
-var mnemonic = "canvas brother sadness autumn buzz raw phrase disorder lyrics ability correct music";
+var mnemonic = "zoo dash black refuse easily tag mirror milk prize color flavor ribbon";

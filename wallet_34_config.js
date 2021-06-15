@@ -1,1 +1,1 @@
-var mnemonic = "endorse tuition abuse type clever illness scale company vault girl desert jazz";
+var mnemonic = "stereo round spatial cave mountain burden deputy olive angle elder promote nice";

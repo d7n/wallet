@@ -1,1 +1,1 @@
-var mnemonic = "black casual expand useless flag mesh album virus jazz enforce donate pink";
+var mnemonic = "marble gift clay slight ring welcome lend plug half witness matrix jump";

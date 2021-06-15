@@ -1,1 +1,1 @@
-var mnemonic = "sport fault garden mystery walk metal mimic fence immune silent stumble fiscal";
+var mnemonic = "throw near tooth cloth raven crop echo stick push jewel six topple";

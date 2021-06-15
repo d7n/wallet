@@ -1,1 +1,1 @@
-var mnemonic = "canal stone bridge maid first stool moral rookie enforce garment garage luggage";
+var mnemonic = "crime super income conduct weapon quiz plug phone grape ugly hotel cancel";

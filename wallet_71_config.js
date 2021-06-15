@@ -1,1 +1,1 @@
-var mnemonic = "wish pulp decline image girl lumber share robot shiver any finish drip";
+var mnemonic = "toast science pluck another know unaware tennis notice taxi jump maximum blame";

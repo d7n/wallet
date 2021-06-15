@@ -1,1 +1,1 @@
-var mnemonic = "quote crisp scatter anxiety license throw noble decide violin mimic security pioneer";
+var mnemonic = "puppy athlete grace will evoke decade match grape dragon lady gasp tuition";

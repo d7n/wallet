@@ -1,1 +1,1 @@
-var mnemonic = "they special slim chalk brush sausage exhaust grit sad fitness slush student";
+var mnemonic = "census entire snow flee invite deal supply same vast ring sick major";

@@ -1,1 +1,1 @@
-var mnemonic = "october female forest invite arrow city hybrid october spice fault welcome shield";
+var mnemonic = "alien conduct comfort under treat super treat plunge hungry fever enrich mention";

@@ -1,1 +1,1 @@
-var mnemonic = "trial scare render emerge vivid dish purity resource shell spread student exotic";
+var mnemonic = "guilt appear modify unable bubble gate security token say whip glance coconut";

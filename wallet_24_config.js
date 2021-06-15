@@ -1,1 +1,1 @@
-var mnemonic = "flip theory mushroom venue govern tribe small live oil clutch fog that";
+var mnemonic = "coil sword invest security warfare blue input vanish deny broccoli final mesh";

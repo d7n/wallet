@@ -1,1 +1,1 @@
-var mnemonic = "position mix banner chimney speak bar gaze strong crew drift connect pencil";
+var mnemonic = "faint enact panther tiger clerk one page clinic grace want merge extra";

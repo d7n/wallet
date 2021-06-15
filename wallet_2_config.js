@@ -1,1 +1,1 @@
-var mnemonic = "card merry master case reason donkey cook lion where large lift card";
+var mnemonic = "idea liquid almost clap model panda rocket acoustic palm enemy witness stool";

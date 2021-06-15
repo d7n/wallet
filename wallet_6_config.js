@@ -1,1 +1,1 @@
-var mnemonic = "dream peace unusual describe leisure penalty until disorder salon essence acquire awesome";
+var mnemonic = "firm desk depth boy hundred salon tenant bargain doll start juice trumpet";

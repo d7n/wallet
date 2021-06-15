@@ -1,1 +1,1 @@
-var mnemonic = "uniform diesel ship cool ceiling salt tent fringe blood tip industry fancy";
+var mnemonic = "know shrimp junior burden position era eight tilt attack alone village spin";

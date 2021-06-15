@@ -1,1 +1,1 @@
-var mnemonic = "guide accuse stereo dawn wheel fun lava order west hundred law globe";
+var mnemonic = "scale vicious marriage biology horn ice danger hip surprise legal monitor elephant";

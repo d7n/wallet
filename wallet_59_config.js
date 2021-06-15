@@ -1,1 +1,1 @@
-var mnemonic = "design fragile axis clever phone dad carpet scene found fire acoustic smoke";
+var mnemonic = "grit until blade violin cave horror power minimum crime butter elder very";

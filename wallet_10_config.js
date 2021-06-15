@@ -1,1 +1,1 @@
-var mnemonic = "educate sample skill window switch high orphan achieve glory obey discover crazy";
+var mnemonic = "nice skill rebel kiwi absent clap basket inquiry impact slogan glare camp";

@@ -1,1 +1,1 @@
-var mnemonic = "acid capable long believe inject cactus fox limit scissors crime student eight";
+var mnemonic = "right prepare unhappy front action ripple open chuckle olive cave glove double";

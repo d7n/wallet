@@ -1,1 +1,1 @@
-var mnemonic = "limb more stock laugh jeans fox cute elevator escape pink van laundry";
+var mnemonic = "pool increase abstract present correct calm give attitude there tackle effort leopard";

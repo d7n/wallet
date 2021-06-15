@@ -1,1 +1,1 @@
-var mnemonic = "gown jump blind jacket town canyon surprise basket ripple envelope until move";
+var mnemonic = "hill man license invest hospital carpet pioneer hover abuse art puppy long";

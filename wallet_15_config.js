@@ -1,1 +1,1 @@
-var mnemonic = "route bread often song chair erupt shallow shiver burst virus wagon enforce";
+var mnemonic = "electric layer eyebrow habit engine movie exist jump bench dynamic outside onion";

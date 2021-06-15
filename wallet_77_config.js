@@ -1,1 +1,1 @@
-var mnemonic = "solution planet lamp trip ill dove address skate vacant play lemon demise";
+var mnemonic = "adapt crazy young garden chef grunt leisure apology verify dust science excuse";

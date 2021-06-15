@@ -1,1 +1,1 @@
-var mnemonic = "rug oyster garden brain system myself side main energy vendor joy ability";
+var mnemonic = "life come police midnight physical fossil spoon sunny claim jump appear brave";

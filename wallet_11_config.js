@@ -1,1 +1,1 @@
-var mnemonic = "hotel pear depend fever else cancel youth vote nurse stock vague rubber";
+var mnemonic = "inherit gauge front sniff close shuffle exile annual market fold blur vehicle";

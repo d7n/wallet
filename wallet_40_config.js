@@ -1,1 +1,1 @@
-var mnemonic = "neutral pipe lion muscle leg onion person maple address planet gift utility";
+var mnemonic = "fix define addict vote festival secret divorce cement labor canvas renew dove";

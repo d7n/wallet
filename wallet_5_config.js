@@ -1,1 +1,1 @@
-var mnemonic = "provide burger script arrest fence sing voice february brave cause ripple leave";
+var mnemonic = "oven glow knock battle opinion pulp century eager laugh hurt good satoshi";

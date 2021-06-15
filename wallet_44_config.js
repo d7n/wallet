@@ -1,1 +1,1 @@
-var mnemonic = "alarm sphere input exercise pact lonely bone pair decline burger donate nose";
+var mnemonic = "sure slide universe jealous math autumn poverty sing stand unusual message miracle";

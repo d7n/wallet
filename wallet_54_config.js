@@ -1,1 +1,1 @@
-var mnemonic = "submit valve buffalo payment fringe debate move pretty mixed thrive gravity hair";
+var mnemonic = "dwarf hat square praise seminar spike comfort engine budget liberty daughter hip";

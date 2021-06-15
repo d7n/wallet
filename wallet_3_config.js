@@ -1,1 +1,1 @@
-var mnemonic = "cash alone lady blame number planet pretty happy elbow general phrase inquiry";
+var mnemonic = "blue polar seed sister scissors tent police spring resemble rescue rice hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "toss settle city rail behind faith embody pudding pupil van guitar happy";
+var mnemonic = "salmon sadness brush kangaroo wait struggle repair corn clean evil cannon wide";

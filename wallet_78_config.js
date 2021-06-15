@@ -1,1 +1,1 @@
-var mnemonic = "town young patch tail whisper funny scorpion plate pelican smart injury garlic";
+var mnemonic = "cram idle tone idea keep bean forest dynamic bean subway vehicle nuclear";
