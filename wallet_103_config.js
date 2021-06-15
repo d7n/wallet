@@ -1,1 +1,1 @@
-var mnemonic = "liar predict purity better student below window glare army banner deer review";
+var mnemonic = "leader imitate between fix oxygen awkward silk employ monkey obey mobile hospital";

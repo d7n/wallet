@@ -1,1 +1,1 @@
-var mnemonic = "camera addict potato grace chase obscure equal gown brain exile drive prepare";
+var mnemonic = "coast grid flip kitten tip fluid boil oil purity tent clean squeeze";

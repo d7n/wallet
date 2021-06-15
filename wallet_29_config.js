@@ -1,1 +1,1 @@
-var mnemonic = "wing state maid senior december ring embark prison penalty hurt hello what";
+var mnemonic = "vendor adult arrow know wall ice alien account magic useless system summer";

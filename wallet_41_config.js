@@ -1,1 +1,1 @@
-var mnemonic = "tuna diagram noise deer blood little marble immense match slight uncover public";
+var mnemonic = "youth crystal such claim blouse flame much shed around marine elbow super";

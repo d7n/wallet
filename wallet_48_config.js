@@ -1,1 +1,1 @@
-var mnemonic = "stool day august total carry coast forest code erosion love duty umbrella";
+var mnemonic = "advice toilet tube suspect digital maid gloom lens peasant journey tool miss";

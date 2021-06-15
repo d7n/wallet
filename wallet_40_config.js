@@ -1,1 +1,1 @@
-var mnemonic = "velvet major mushroom awesome tube assault roof sphere minor surface rebel chat";
+var mnemonic = "cattle nerve beach claim test ecology method visit forget aware pig label";

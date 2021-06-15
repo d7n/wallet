@@ -1,1 +1,1 @@
-var mnemonic = "old grace bag name pottery when lobster artwork develop stem only heavy";
+var mnemonic = "mammal barrel thrive poet sadness injury chat payment chest door trophy swift";

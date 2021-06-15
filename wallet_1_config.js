@@ -1,1 +1,1 @@
-var mnemonic = "loop awful urge category talent simple push tourist love meadow spot turn";
+var mnemonic = "govern notice impact laptop before vague dignity trophy involve wife present call";

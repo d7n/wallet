@@ -1,1 +1,1 @@
-var mnemonic = "fabric venture theme cabbage peanut spread hockey spirit hero perfect jacket upper";
+var mnemonic = "detect zoo outer dove rifle sauce mistake tank debris movie mimic spray";

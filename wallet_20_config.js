@@ -1,1 +1,1 @@
-var mnemonic = "laugh trouble float pepper subway flat matter napkin culture argue arrest sell";
+var mnemonic = "captain crane punch alert vast escape focus torch quarter hover round chuckle";

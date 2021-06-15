@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin wild math fluid very kidney bone crime total silly glad grape";
+var mnemonic = "area series fat lake correct harbor sibling review hawk act abstract vague";

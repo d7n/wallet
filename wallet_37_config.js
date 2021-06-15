@@ -1,1 +1,1 @@
-var mnemonic = "glad dilemma slow focus media motion own fire marriage attend time okay";
+var mnemonic = "icon urban control law fence produce observe cement mail spread pride kiss";

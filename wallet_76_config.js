@@ -1,1 +1,1 @@
-var mnemonic = "debris ride relief capital umbrella hurry aunt canvas retire search worth match";
+var mnemonic = "thing lake mobile crucial bulb fault regret cover memory sport rubber canal";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet song organ tonight still gadget alien lounge fine orbit concert phrase";
+var mnemonic = "sentence universe planet fatigue trick arch stone three reflect refuse message ten";

@@ -1,1 +1,1 @@
-var mnemonic = "deer dinosaur call warm fortune category name sun riot improve catalog lunar";
+var mnemonic = "bike tooth rural notice auto cabbage tourist sing victory enter jar assault";

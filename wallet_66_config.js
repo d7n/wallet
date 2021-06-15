@@ -1,1 +1,1 @@
-var mnemonic = "card enlist remind cruel enter myself area always near walk awesome early";
+var mnemonic = "sock find nuclear member leaf vehicle scheme ozone crater gym choice execute";

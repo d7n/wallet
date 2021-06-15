@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin myself upset barely bird improve demand business sound rich dignity atom";
+var mnemonic = "good aerobic submit gas friend park bachelor account mother direct already donor";

@@ -1,1 +1,1 @@
-var mnemonic = "found install federal armed dynamic arrest sound tiger silver sorry retire cannon";
+var mnemonic = "file kidney spawn goat fruit gesture west garage bind tent garlic bracket";

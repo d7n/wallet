@@ -1,1 +1,1 @@
-var mnemonic = "fiscal wife truck valley start walnut physical hamster visual father parrot hat";
+var mnemonic = "entry rain august damage lab wild motor angle vapor happy doll source";

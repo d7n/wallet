@@ -1,1 +1,1 @@
-var mnemonic = "turn ocean shuffle concert trap cricket crack story congress walk dignity side";
+var mnemonic = "cloud glory frog knee enter matrix kid mule evil junk caught venture";

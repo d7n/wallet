@@ -1,1 +1,1 @@
-var mnemonic = "spell endorse water series solid program laundry voice tide attack loop heart";
+var mnemonic = "script attack flat aisle harbor kitchen style grant pottery hurt margin tourist";

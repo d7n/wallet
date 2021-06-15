@@ -1,1 +1,1 @@
-var mnemonic = "canoe sister neither apart build soft traffic gadget off skin style garage";
+var mnemonic = "broccoli history deer solution age banana enjoy thunder mystery lounge kite hand";

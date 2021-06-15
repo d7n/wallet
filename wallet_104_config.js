@@ -1,1 +1,1 @@
-var mnemonic = "inquiry panda smart again exile town laundry hour camera oval vocal acoustic";
+var mnemonic = "legend scheme order moon dynamic innocent toss cotton strike choose enroll empower";

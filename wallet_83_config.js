@@ -1,1 +1,1 @@
-var mnemonic = "special where hundred cheese aim dove ready glimpse under orchard orbit humor";
+var mnemonic = "awkward method review cigar half friend injury oppose route head repair gym";

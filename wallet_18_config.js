@@ -1,1 +1,1 @@
-var mnemonic = "express arrow pledge prosper vital travel brush rent horn will field onion";
+var mnemonic = "convince tackle poverty like borrow monster soon boil differ harvest step essence";

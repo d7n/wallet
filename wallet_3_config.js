@@ -1,1 +1,1 @@
-var mnemonic = "secret rescue couch visit brisk session deer umbrella model thank green horse";
+var mnemonic = "impulse bunker knife acoustic maple empty comfort reopen risk sport round poem";

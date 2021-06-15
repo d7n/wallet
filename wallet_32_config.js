@@ -1,1 +1,1 @@
-var mnemonic = "desert seven auction either palace tool panel century vacuum distance slide response";
+var mnemonic = "essence hour uncle media save fox demise outside ball marine visa under";

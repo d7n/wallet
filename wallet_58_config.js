@@ -1,1 +1,1 @@
-var mnemonic = "broom favorite clarify steak vehicle frog emerge witness stand echo decorate end";
+var mnemonic = "tuna stay title scrap worth powder wish scissors toss trend era globe";

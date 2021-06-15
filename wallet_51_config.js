@@ -1,1 +1,1 @@
-var mnemonic = "market tool desk business document fatigue mistake funny found life brain route";
+var mnemonic = "turkey obscure sell fresh caught laundry raccoon feature detail vague admit north";

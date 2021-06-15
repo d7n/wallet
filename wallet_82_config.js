@@ -1,1 +1,1 @@
-var mnemonic = "table plunge cross abuse paddle inner belt misery seminar silly amazing muffin";
+var mnemonic = "city security priority first language coin reason push label room flight orchard";

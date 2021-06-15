@@ -1,1 +1,1 @@
-var mnemonic = "elevator comfort evidence brisk exit unfold soda provide vivid fatal donkey awesome";
+var mnemonic = "ugly shoulder slush awful spot volcano zero ecology session evoke wet large";

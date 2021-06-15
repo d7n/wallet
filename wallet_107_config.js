@@ -1,1 +1,1 @@
-var mnemonic = "ordinary worry concert lecture give remain fabric hair piece pyramid exercise nurse";
+var mnemonic = "cross believe rug visa embark motor plastic prefer surge detect grass short";

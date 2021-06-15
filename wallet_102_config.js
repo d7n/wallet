@@ -1,1 +1,1 @@
-var mnemonic = "anchor knee below trust junk wood bamboo earn blur tonight advice receive";
+var mnemonic = "lab twelve nation deny police barely wet quit argue tube message fold";

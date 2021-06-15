@@ -1,1 +1,1 @@
-var mnemonic = "soul shallow bitter pretty neck vapor exhaust dirt gold hold jealous picture";
+var mnemonic = "invite subway error bronze kid cross music fit dog boss live supply";

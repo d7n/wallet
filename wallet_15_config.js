@@ -1,1 +1,1 @@
-var mnemonic = "theory original drill local captain deputy defy slogan hand account foam air";
+var mnemonic = "daring nut check baby business demand market bronze owner unable interest camp";

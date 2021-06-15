@@ -1,1 +1,1 @@
-var mnemonic = "pass hen split nest foster cushion nominee omit media bracket crawl sunny";
+var mnemonic = "sword garlic indoor dress ankle jazz depend weird october mule obey wire";

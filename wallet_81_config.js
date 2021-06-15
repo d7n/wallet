@@ -1,1 +1,1 @@
-var mnemonic = "relax deer digital camera prison indicate woman alpha vicious three grain oak";
+var mnemonic = "broken fan dinosaur measure tennis squeeze accuse change local define indoor alcohol";

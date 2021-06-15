@@ -1,1 +1,1 @@
-var mnemonic = "business chunk slam chest denial angle doctor volume steel online theory require";
+var mnemonic = "duty dutch leave device fossil country dentist chimney bone click friend doll";

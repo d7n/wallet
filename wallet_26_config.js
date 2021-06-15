@@ -1,1 +1,1 @@
-var mnemonic = "onion target side already gadget share response organ luggage allow forest pudding";
+var mnemonic = "extend biology copy later duty tissue auction sugar parent penalty gather whip";

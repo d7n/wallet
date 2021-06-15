@@ -1,1 +1,1 @@
-var mnemonic = "slot wave hidden coral faculty dutch rapid arrow squeeze absorb adapt release";
+var mnemonic = "idle arrive eyebrow century void autumn fat quit sorry random dress fatigue";

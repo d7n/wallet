@@ -1,1 +1,1 @@
-var mnemonic = "float arctic turkey farm fiscal latin subway mango easy live remain method";
+var mnemonic = "index design assist pumpkin prison scout script license fee learn client unable";

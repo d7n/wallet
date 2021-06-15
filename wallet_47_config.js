@@ -1,1 +1,1 @@
-var mnemonic = "silk kingdom explain remind ball quick office bulk genre increase shiver industry";
+var mnemonic = "way balance ancient large upset core salmon embody cup crowd latin rebel";

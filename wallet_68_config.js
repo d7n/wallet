@@ -1,1 +1,1 @@
-var mnemonic = "often hub space increase color history battle multiply bacon tenant chat consider";
+var mnemonic = "minute search oil follow task reward canyon flavor tattoo subway assist hollow";

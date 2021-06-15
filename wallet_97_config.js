@@ -1,1 +1,1 @@
-var mnemonic = "civil rhythm good replace toy drum release chuckle typical immune mom double";
+var mnemonic = "culture spawn song width lend ride parent antique humble wink board family";

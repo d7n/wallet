@@ -1,1 +1,1 @@
-var mnemonic = "display brain legend maid blush struggle payment aerobic guilt father say horn";
+var mnemonic = "spin fancy cook absent voice close sister flower donkey run bomb express";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial lunar question current bread puppy dignity ankle tool reflect call split";
+var mnemonic = "can tourist prosper monster local fever federal amazing dinosaur early hawk feel";

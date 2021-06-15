@@ -1,1 +1,1 @@
-var mnemonic = "beyond will beef mouse man gas inspire race use style teach category";
+var mnemonic = "fix swift behave fade bind dismiss prize foam broccoli soda dinosaur tower";

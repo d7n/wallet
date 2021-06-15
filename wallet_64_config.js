@@ -1,1 +1,1 @@
-var mnemonic = "plunge dune kite mansion pattern cage hen lens wave plate ticket idle";
+var mnemonic = "merry task attack orbit manual mouse dilemma attract cable canoe odor elegant";

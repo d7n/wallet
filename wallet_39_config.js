@@ -1,1 +1,1 @@
-var mnemonic = "scorpion cart machine gorilla style monster gain bounce render movie habit style";
+var mnemonic = "drive neither culture absent lunch vast easy lobster recall health offer kind";

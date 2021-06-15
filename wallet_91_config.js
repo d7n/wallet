@@ -1,1 +1,1 @@
-var mnemonic = "meat impose purpose olive unveil stem task cupboard mechanic casino thing cross";
+var mnemonic = "rifle skin gesture ripple garlic chief scorpion addict medal throw quit object";

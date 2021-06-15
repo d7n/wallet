@@ -1,1 +1,1 @@
-var mnemonic = "miracle among legal marriage picnic saddle donor receive wisdom help giraffe inquiry";
+var mnemonic = "debate open major element vacant buffalo pitch sketch receive main inject unaware";

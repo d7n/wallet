@@ -1,1 +1,1 @@
-var mnemonic = "runway board enforce board destroy pitch suffer debate prison analyst bench decade";
+var mnemonic = "security paper adult predict undo marine exact erosion food dog arrange rent";

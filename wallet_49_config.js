@@ -1,1 +1,1 @@
-var mnemonic = "cup emotion notable grass hotel claim deliver intact tenant sing drink boost";
+var mnemonic = "ugly bulb change theme slush mind deposit march spread orchard west unable";

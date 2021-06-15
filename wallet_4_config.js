@@ -1,1 +1,1 @@
-var mnemonic = "silver symbol quantum fold useful elegant kitten frown advance cereal tumble cousin";
+var mnemonic = "insane oven shock sadness fragile salt blood screen cause annual case end";

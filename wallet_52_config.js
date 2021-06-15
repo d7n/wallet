@@ -1,1 +1,1 @@
-var mnemonic = "since easily badge survey change bomb trip puppy august alone that talent";
+var mnemonic = "true unable save gentle staff detect exclude vapor census record glue regret";

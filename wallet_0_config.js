@@ -1,1 +1,1 @@
-var mnemonic = "hello merge vital negative diary venture gain naive arena math frequent analyst";
+var mnemonic = "knife install tenant fold penalty world report universe coin yard umbrella since";

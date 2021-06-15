@@ -1,1 +1,1 @@
-var mnemonic = "bamboo mouse eye office horror bring banana twice twin panda mask boil";
+var mnemonic = "amount beyond fiction zero motion squirrel only ahead glass guess air absurd";

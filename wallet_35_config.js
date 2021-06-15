@@ -1,1 +1,1 @@
-var mnemonic = "town muscle client earth omit any barely erase pigeon animal crush snow";
+var mnemonic = "walnut mother key basket surge bachelor shrimp candy close elephant demand thumb";

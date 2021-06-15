@@ -1,1 +1,1 @@
-var mnemonic = "grow water aerobic disorder clutch undo cliff public beach hint curtain budget";
+var mnemonic = "coconut mammal vanish drastic funny dry rib buzz autumn captain young blind";

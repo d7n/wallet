@@ -1,1 +1,1 @@
-var mnemonic = "label review squeeze cruise girl pig pencil amateur purchase hamster suit stay";
+var mnemonic = "abstract medal surprise laptop catalog above cluster useless host early infant notice";

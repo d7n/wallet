@@ -1,1 +1,1 @@
-var mnemonic = "monster head local reunion deliver harvest divert dirt invite siren shrug mail";
+var mnemonic = "can gold wall envelope scrub conduct solve buddy luggage warrior excuse bacon";

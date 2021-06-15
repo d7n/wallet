@@ -1,1 +1,1 @@
-var mnemonic = "weasel can reveal siege satoshi flower neglect north theory eager limit salmon";
+var mnemonic = "retreat regular fresh bullet hello own envelope start release final exercise pair";

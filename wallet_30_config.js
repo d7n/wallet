@@ -1,1 +1,1 @@
-var mnemonic = "desk under lamp buyer second bag zone defy museum pioneer entry grief";
+var mnemonic = "pear love sight vacant price manual toddler album twin humor crater achieve";

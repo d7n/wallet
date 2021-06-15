@@ -1,1 +1,1 @@
-var mnemonic = "arrange limit among pretty power now fragile marble plunge dawn slot year";
+var mnemonic = "nothing give grow tuition radar grape medal weapon donate border honey swear";

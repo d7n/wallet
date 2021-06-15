@@ -1,1 +1,1 @@
-var mnemonic = "stomach pause video wash art warfare pulse primary poet april recipe ship";
+var mnemonic = "bacon pencil oval object pluck ask apology bracket nut price bleak custom";

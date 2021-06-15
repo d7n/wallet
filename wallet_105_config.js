@@ -1,1 +1,1 @@
-var mnemonic = "wrist develop tip claim nominee donkey mercy letter faculty decorate body cake";
+var mnemonic = "noodle wheel kiwi shop relief female sphere enforce report raw vault dash";

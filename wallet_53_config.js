@@ -1,1 +1,1 @@
-var mnemonic = "wrist hollow bunker multiply exist ketchup chat clerk annual shove income write";
+var mnemonic = "drive guitar word gloom grape desk table taste void combine draft trust";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon whisper domain slab burger dish worth salon half dust stable unknown";
+var mnemonic = "burst anchor farm feature lamp company quit away neck era air welcome";

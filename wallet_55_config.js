@@ -1,1 +1,1 @@
-var mnemonic = "dawn strong pink hawk worth cheap humble fly size shove thank fence";
+var mnemonic = "taxi man valley screen ill shoe issue canvas crumble return material surface";

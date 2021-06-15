@@ -1,1 +1,1 @@
-var mnemonic = "jump fury online soccer human begin state agree later blast include life";
+var mnemonic = "actress resemble have teach fabric camp drastic favorite hurdle snack neutral gun";

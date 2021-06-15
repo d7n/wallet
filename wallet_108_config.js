@@ -1,1 +1,1 @@
-var mnemonic = "argue horse run indicate doll bottom school annual traffic broom argue toward";
+var mnemonic = "shoe melt clarify typical where slow glue avocado impose glimpse pistol escape";

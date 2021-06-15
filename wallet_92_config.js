@@ -1,1 +1,1 @@
-var mnemonic = "dentist smile denial comfort transfer post local also document unaware melt unable";
+var mnemonic = "turtle wrist pen heart hidden reason used mom thought happy section soda";

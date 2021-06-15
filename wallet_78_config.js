@@ -1,1 +1,1 @@
-var mnemonic = "income equal noble food tower off fitness olive magnet replace dinosaur month";
+var mnemonic = "noodle tumble hard mammal change dial proof walnut rocket gym erupt refuse";

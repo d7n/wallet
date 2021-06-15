@@ -1,1 +1,1 @@
-var mnemonic = "vital jaguar scan minimum bunker virtual deposit symptom hair announce rack island";
+var mnemonic = "defy walnut vast comfort object cube they aerobic veteran velvet few market";

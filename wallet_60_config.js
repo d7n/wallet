@@ -1,1 +1,1 @@
-var mnemonic = "height acoustic mule sport stage ship pen grid when poet topic wrist";
+var mnemonic = "virus genre mansion winner better afford invest immense metal result media always";

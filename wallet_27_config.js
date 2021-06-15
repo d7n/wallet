@@ -1,1 +1,1 @@
-var mnemonic = "tail disagree sing guide peasant feel help error cross fan east mushroom";
+var mnemonic = "smoke young borrow logic artwork obey buyer polar bird expire alien grant";

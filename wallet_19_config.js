@@ -1,1 +1,1 @@
-var mnemonic = "together view employ gather palm wink infant cushion real tenant later casino";
+var mnemonic = "human hungry shrimp ridge what nasty sustain claw girl tail update afraid";

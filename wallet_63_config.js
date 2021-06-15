@@ -1,1 +1,1 @@
-var mnemonic = "apple spice what gate onion crew album knock hedgehog prison curtain engage";
+var mnemonic = "school tank lab van office edit dynamic dynamic salt feed abuse blind";

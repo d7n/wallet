@@ -1,1 +1,1 @@
-var mnemonic = "toy twelve later skin leopard virtual spring airport slab board rival virtual";
+var mnemonic = "cheap road exit other retire harvest tone tone habit main earn pool";

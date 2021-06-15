@@ -1,1 +1,1 @@
-var mnemonic = "law fabric sound addict acoustic play case near mammal cute never credit";
+var mnemonic = "civil visa salon lion eye trust mosquito sense protect present olympic virtual";

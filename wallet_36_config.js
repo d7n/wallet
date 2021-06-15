@@ -1,1 +1,1 @@
-var mnemonic = "resist three solve olive merit lounge reduce during oval oven suffer pause";
+var mnemonic = "nerve wrist soap ride dentist coral latin denial badge dream eye indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "today fiction flat absorb tip dune borrow float grit wealth know actor";
+var mnemonic = "grant kite jewel smoke assault leader stem chuckle reflect shy law junior";

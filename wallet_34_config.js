@@ -1,1 +1,1 @@
-var mnemonic = "sign noble gun copper mystery ahead waste visit two purse fence drastic";
+var mnemonic = "more boss pledge aim body between torch derive armed hockey eager entire";

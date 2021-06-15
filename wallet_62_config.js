@@ -1,1 +1,1 @@
-var mnemonic = "nurse title sand stereo force key fever love release youth expand cage";
+var mnemonic = "frog desk strike slight jewel ostrich add plastic subject cram cousin borrow";

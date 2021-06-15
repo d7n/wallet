@@ -1,1 +1,1 @@
-var mnemonic = "arch cute upset speak guitar cable camp medal know dove monkey attitude";
+var mnemonic = "rival thumb side floor helmet afford time cost gap describe mix urge";

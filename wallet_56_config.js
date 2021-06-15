@@ -1,1 +1,1 @@
-var mnemonic = "once shiver tomorrow endorse smoke cry muffin strike barely sphere tonight water";
+var mnemonic = "flat glass step roof cheese lend unaware much penalty balcony wave crop";

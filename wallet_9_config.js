@@ -1,1 +1,1 @@
-var mnemonic = "exclude butter jewel lazy answer sense need proof bus define execute syrup";
+var mnemonic = "eight sea high hill edge club feed list silver sting pelican entire";

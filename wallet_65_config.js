@@ -1,1 +1,1 @@
-var mnemonic = "nice melt express slogan impact check rifle spoil thought leg network real";
+var mnemonic = "spring visual audit bench portion short must film tongue fox another avoid";

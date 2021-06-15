@@ -1,1 +1,1 @@
-var mnemonic = "bulb off melt humble fold judge shrug push initial across gospel employ";
+var mnemonic = "order evil list top shift slide burden inspire debate nasty ugly neither";

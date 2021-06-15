@@ -1,1 +1,1 @@
-var mnemonic = "wild urge bind start debate use van area cost lobster rival little";
+var mnemonic = "cause buyer duty afraid simple whale scrap foil expire way cost health";

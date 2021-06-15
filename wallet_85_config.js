@@ -1,1 +1,1 @@
-var mnemonic = "sword sting library rifle fluid caution draw student couple rival day service";
+var mnemonic = "cheap buzz proud armed keep ketchup gate chapter battle tribe woman wool";

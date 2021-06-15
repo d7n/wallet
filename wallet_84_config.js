@@ -1,1 +1,1 @@
-var mnemonic = "lava steel cinnamon swamp moral hard reward split below puzzle gun runway";
+var mnemonic = "toast goat myth cannon engage autumn cloud runway enough elephant cloud climb";

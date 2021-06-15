@@ -1,1 +1,1 @@
-var mnemonic = "purpose answer fortune second drama promote tuna surface silk unable dinosaur merit";
+var mnemonic = "again demand they verify across have cute desk unhappy harsh april rent";

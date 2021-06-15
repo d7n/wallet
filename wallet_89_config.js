@@ -1,1 +1,1 @@
-var mnemonic = "rival method bar work verify unfold powder increase expand empty emotion fruit";
+var mnemonic = "skate festival nature sun soft have skull quick scout mansion pig notice";

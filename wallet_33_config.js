@@ -1,1 +1,1 @@
-var mnemonic = "edge cruise silk vague inside someone aim release cherry sponsor country idle";
+var mnemonic = "luxury winner hidden finish elegant father torch speak happy review equip light";

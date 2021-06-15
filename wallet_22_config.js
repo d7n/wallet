@@ -1,1 +1,1 @@
-var mnemonic = "bridge cherry rely pass parade check sell object become adapt action cross";
+var mnemonic = "whale domain fee thumb anger cave finish exile outside banner soldier team";

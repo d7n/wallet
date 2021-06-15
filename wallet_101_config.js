@@ -1,1 +1,1 @@
-var mnemonic = "lawn jelly negative either basket apology talent prize hen dove walnut sail";
+var mnemonic = "head monkey proof memory ensure forest powder trim either sword rice interest";

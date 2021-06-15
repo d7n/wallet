@@ -1,1 +1,1 @@
-var mnemonic = "science chat system heavy congress caught flame forum depth dad play frost";
+var mnemonic = "letter cool sunny solution victory finger approve nice build found tongue aisle";

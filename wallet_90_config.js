@@ -1,1 +1,1 @@
-var mnemonic = "balance minimum rule fortune catch wreck source ostrich gas sunny culture exhaust";
+var mnemonic = "elephant reunion school poem shift unveil debris ocean dust load rose south";
