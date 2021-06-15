@@ -1,1 +1,1 @@
-var mnemonic = "dwarf exist setup armor cream pill item reflect orchard wage between weapon";
+var mnemonic = "network vault script valley swarm cotton candy used couch trust abstract minimum";

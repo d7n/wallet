@@ -1,1 +1,1 @@
-var mnemonic = "enhance limb mobile current visa pattern orange wagon two walnut wrap bird";
+var mnemonic = "enrich season divert sheriff siren loyal exchange pudding into sleep include ecology";

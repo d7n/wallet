@@ -1,1 +1,1 @@
-var mnemonic = "bind peasant replace stereo venue aim swarm antique jaguar toe legend mystery";
+var mnemonic = "spare ugly music again oil random trend pause wedding oak trigger accident";

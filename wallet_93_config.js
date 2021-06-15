@@ -1,1 +1,1 @@
-var mnemonic = "anxiety cabbage trap domain lobster poverty laptop captain science language river attract";
+var mnemonic = "once idea mystery electric nose action endorse liar fortune kitten curve unfold";

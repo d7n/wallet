@@ -1,1 +1,1 @@
-var mnemonic = "possible shock message upon barely must venue clean want struggle shift earn";
+var mnemonic = "sort inmate trash pulp onion leisure luggage grocery river kiss earth intact";

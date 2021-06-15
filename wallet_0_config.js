@@ -1,1 +1,1 @@
-var mnemonic = "farm life only vocal immense dismiss key mad physical express only swallow";
+var mnemonic = "spot scissors auto minor argue link blood direct great have verify nose";

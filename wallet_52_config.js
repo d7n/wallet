@@ -1,1 +1,1 @@
-var mnemonic = "invest trim know grab reduce swim hobby loop sing ghost other sound";
+var mnemonic = "stick satoshi project visual tornado govern canyon black outdoor caught isolate verb";

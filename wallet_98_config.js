@@ -1,1 +1,1 @@
-var mnemonic = "gain miracle chair hybrid curve piano inmate member birth oppose dinner bomb";
+var mnemonic = "brass twice wolf become parent rapid faint rebel upset pigeon evoke bench";

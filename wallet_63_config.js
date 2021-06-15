@@ -1,1 +1,1 @@
-var mnemonic = "much genre cup race quit picnic rib scale mobile buyer raccoon reopen";
+var mnemonic = "rare tip walk because horn myself match glare gap portion hole kite";

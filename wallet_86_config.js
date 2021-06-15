@@ -1,1 +1,1 @@
-var mnemonic = "surround duty absurd pudding soda shrug trash cruise entire blue afford wheat";
+var mnemonic = "churn orchard water eye solution run salad twenty answer flat frog nerve";

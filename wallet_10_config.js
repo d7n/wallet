@@ -1,1 +1,1 @@
-var mnemonic = "marine obvious weather embark siege chicken blind recycle laundry stove puzzle armor";
+var mnemonic = "bread age awake survey invest sail robust pony choice setup find hunt";

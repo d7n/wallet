@@ -1,1 +1,1 @@
-var mnemonic = "figure welcome negative senior undo clock install regular north fire dolphin curious";
+var mnemonic = "exile birth leisure remember surprise source enough seven gain defense gift sentence";

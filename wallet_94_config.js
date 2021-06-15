@@ -1,1 +1,1 @@
-var mnemonic = "way true seminar bacon odor cross feature half device order course bamboo";
+var mnemonic = "fork crop six access entry isolate liar hub sad wall shock bargain";

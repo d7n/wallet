@@ -1,1 +1,1 @@
-var mnemonic = "run immense minute absorb expose evil surround federal proud kid supply second";
+var mnemonic = "fire solar narrow duck flag predict hood float marble raw person senior";

@@ -1,1 +1,1 @@
-var mnemonic = "mango stamp sort twist broom bunker nature twin lend barrel helmet devote";
+var mnemonic = "drive promote magic relax syrup outdoor manual process fabric carbon butter cabbage";

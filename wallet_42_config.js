@@ -1,1 +1,1 @@
-var mnemonic = "course spike palace slush rate matrix void bacon rail hungry divert arrange";
+var mnemonic = "income dumb uncover mystery choose enroll paper double artist beef hotel impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "have often stumble borrow spatial swamp prevent help inch approve rebel behind";
+var mnemonic = "crop asset apple essence crime age special rural shrimp artwork hidden cactus";

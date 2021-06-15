@@ -1,1 +1,1 @@
-var mnemonic = "sport hotel mountain camera truth stereo trigger amateur person misery wet area";
+var mnemonic = "figure drop there imitate else pet near repair shine ozone blade flag";

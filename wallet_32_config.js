@@ -1,1 +1,1 @@
-var mnemonic = "express ignore either beach tuition drip cricket kingdom either double way must";
+var mnemonic = "web circle head bounce enrich opera nest own organ stomach tuition harbor";

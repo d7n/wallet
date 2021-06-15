@@ -1,1 +1,1 @@
-var mnemonic = "fade major attend property wing coffee fiber bind trip arch saddle project";
+var mnemonic = "desert clutch boy inmate box forum man dawn define endorse ball assist";

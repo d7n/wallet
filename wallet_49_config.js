@@ -1,1 +1,1 @@
-var mnemonic = "symptom forum sight banana doll grass mechanic corn between room belt unfair";
+var mnemonic = "venue twin pioneer small deliver museum estate genius rare cross february mixed";

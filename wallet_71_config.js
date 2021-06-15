@@ -1,1 +1,1 @@
-var mnemonic = "invest team cinnamon surround join small next rigid giant marriage talent enough";
+var mnemonic = "mule license forward broken more cruel topple solid smoke because face gate";

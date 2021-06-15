@@ -1,1 +1,1 @@
-var mnemonic = "wood hair radio glance little cigar key race fault dad erupt globe";
+var mnemonic = "purity girl use pill range rare blur reopen risk explain certain sadness";

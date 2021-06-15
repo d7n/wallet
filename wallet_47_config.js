@@ -1,1 +1,1 @@
-var mnemonic = "desk someone solution hint antique quarter token share spray twelve sketch design";
+var mnemonic = "lemon fresh funny member scorpion sausage cute gate melody lift mom shaft";

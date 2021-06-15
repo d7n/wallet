@@ -1,1 +1,1 @@
-var mnemonic = "present gain above truck beach gauge simple boring foot ocean decrease trouble";
+var mnemonic = "rotate happy ordinary awesome grant ancient man actor dolphin nose social motion";

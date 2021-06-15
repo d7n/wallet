@@ -1,1 +1,1 @@
-var mnemonic = "bargain runway west all royal already bean audit fabric kind vessel yellow";
+var mnemonic = "cover engage donate energy square soft nice secret settle major clinic mutual";

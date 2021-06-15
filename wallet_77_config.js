@@ -1,1 +1,1 @@
-var mnemonic = "travel dad mass patient donor scissors knock chaos parrot high inside peace";
+var mnemonic = "vivid bulb organ addict valid flame century burger dinosaur bacon music harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy worth pelican left dust twist glue dish student blush fix now";
+var mnemonic = "famous sting road load tackle symbol basic health orange during taxi rookie";

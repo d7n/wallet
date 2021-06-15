@@ -1,1 +1,1 @@
-var mnemonic = "protect three never vehicle thank ordinary farm cat awful enforce raw minimum";
+var mnemonic = "rough vibrant arch crane citizen again embark struggle faint sight pride define";

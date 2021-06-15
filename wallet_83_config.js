@@ -1,1 +1,1 @@
-var mnemonic = "south describe fall drip visa keen syrup source tip check shift come";
+var mnemonic = "fashion glove sudden bridge blush virus library antenna first hundred expose ticket";

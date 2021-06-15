@@ -1,1 +1,1 @@
-var mnemonic = "clever size long tilt solve load affair happy million power flag leg";
+var mnemonic = "tiger dish project daughter screen offer expire miracle develop tip source sister";

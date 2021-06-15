@@ -1,1 +1,1 @@
-var mnemonic = "among ecology pool cupboard fork minute heart unhappy era gospel alien enjoy";
+var mnemonic = "behind turkey cause better catch finger naive amount retire share skill please";

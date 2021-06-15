@@ -1,1 +1,1 @@
-var mnemonic = "crawl enlist magnet drift strategy fit certain involve shine budget oxygen elegant";
+var mnemonic = "learn mango amount child ship flavor neutral adult erode curve sock clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "wine bread jazz write art quick opinion tunnel sibling process judge strike";
+var mnemonic = "critic stay ignore powder process goat sister useless first ketchup repair device";

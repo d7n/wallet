@@ -1,1 +1,1 @@
-var mnemonic = "parrot window enemy agree kiss when birth eyebrow fly senior flash vague";
+var mnemonic = "atom industry where strong industry depth reject turkey tilt material midnight aim";

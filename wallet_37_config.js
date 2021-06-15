@@ -1,1 +1,1 @@
-var mnemonic = "rib someone pink kick media arrow tank hungry vast purpose pole fresh";
+var mnemonic = "cricket upgrade canal toy belt slot august legal over flush hospital kick";

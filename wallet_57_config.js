@@ -1,1 +1,1 @@
-var mnemonic = "inhale multiply cool actual poem fold protect search scheme mansion seven panther";
+var mnemonic = "glory orbit march deposit sense excess skin sword fine print lake risk";

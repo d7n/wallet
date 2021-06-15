@@ -1,1 +1,1 @@
-var mnemonic = "story tongue weekend drill basic siren sausage unlock tube join tattoo produce";
+var mnemonic = "moment side rib caution isolate only isolate prepare average outdoor weasel three";

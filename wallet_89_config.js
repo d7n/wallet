@@ -1,1 +1,1 @@
-var mnemonic = "grace history alone magic void cable riot soccer claw tobacco flavor during";
+var mnemonic = "inside stock fine usage senior hybrid amateur sorry party jungle desert meat";

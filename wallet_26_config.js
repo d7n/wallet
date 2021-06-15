@@ -1,1 +1,1 @@
-var mnemonic = "round ribbon stove mention mistake find disagree dash custom obey else online";
+var mnemonic = "album nuclear uncle idle flame olive van end supply reflect talent recycle";

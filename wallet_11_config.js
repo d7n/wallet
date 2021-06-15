@@ -1,1 +1,1 @@
-var mnemonic = "quote begin taste people joy emotion lion junior raven dizzy aerobic promote";
+var mnemonic = "because solve trend hurt spawn abuse creek dizzy brown blast impulse jazz";

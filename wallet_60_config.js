@@ -1,1 +1,1 @@
-var mnemonic = "woman nest latin arrive actual prevent unable capital emotion pigeon burger infant";
+var mnemonic = "draw window market bring absorb craft enable middle borrow fringe table sample";

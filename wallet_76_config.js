@@ -1,1 +1,1 @@
-var mnemonic = "bulb dog version mechanic tonight pretty rocket avoid satisfy cement reject crew";
+var mnemonic = "elder initial endorse poverty kidney family harvest credit census decide life turtle";

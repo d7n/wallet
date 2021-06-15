@@ -1,1 +1,1 @@
-var mnemonic = "bubble art jungle favorite couch desert rival cargo bulb certain only avocado";
+var mnemonic = "metal proud stumble merge small there shoulder burden distance wonder sleep dizzy";

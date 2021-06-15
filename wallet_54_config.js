@@ -1,1 +1,1 @@
-var mnemonic = "leaf dice dilemma medal scorpion turkey kidney guilt update aware pitch dog";
+var mnemonic = "soul flame depth pumpkin short pipe drop scrap garden room another fame";

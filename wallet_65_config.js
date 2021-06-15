@@ -1,1 +1,1 @@
-var mnemonic = "insane arena green anchor risk describe much stadium answer trap cost enroll";
+var mnemonic = "point scene air oval amused owner crop cool repair acquire profit casino";

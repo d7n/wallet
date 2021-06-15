@@ -1,1 +1,1 @@
-var mnemonic = "inhale hedgehog stairs pipe season clog borrow history wet pause group miracle";
+var mnemonic = "wish insane hungry weather wheel tattoo horror owner envelope obscure absurd magic";

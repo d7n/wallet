@@ -1,1 +1,1 @@
-var mnemonic = "unable evolve master inherit purity day cake balcony glad furnace chest surprise";
+var mnemonic = "universe stone first vibrant gloom used affair tourist dance hazard slender reject";

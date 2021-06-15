@@ -1,1 +1,1 @@
-var mnemonic = "sing rapid marble ramp nephew remember amazing survey unit inform caught switch";
+var mnemonic = "bounce truly muscle nothing custom cost dream conduct slide fiber great social";

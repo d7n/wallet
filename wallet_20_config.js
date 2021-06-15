@@ -1,1 +1,1 @@
-var mnemonic = "slim usage vault ski knee barrel wheat travel dog endorse alter wolf";
+var mnemonic = "enlist code patient travel image miracle report apart ozone replace accuse morning";

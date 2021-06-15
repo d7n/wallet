@@ -1,1 +1,1 @@
-var mnemonic = "doll hello pause kingdom carry casino jar arena speed old spice swim";
+var mnemonic = "material grunt fringe era ship weekend sing weather list token expire sugar";

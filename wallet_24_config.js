@@ -1,1 +1,1 @@
-var mnemonic = "noble they general spatial confirm story ready maple undo network absorb dilemma";
+var mnemonic = "swim leisure circle employ raccoon food nice sure artefact chaos wet trigger";

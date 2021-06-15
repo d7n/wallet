@@ -1,1 +1,1 @@
-var mnemonic = "pipe giant citizen virus yard damage mention push quality then baby muffin";
+var mnemonic = "oyster roast churn tiger extra chronic soup host skate vital photo agree";

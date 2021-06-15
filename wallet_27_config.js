@@ -1,1 +1,1 @@
-var mnemonic = "sun fortune episode carbon dynamic electric elevator apology wealth neutral airport wealth";
+var mnemonic = "nose gadget elbow great gas find you problem spend photo column stomach";

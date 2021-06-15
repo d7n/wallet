@@ -1,1 +1,1 @@
-var mnemonic = "lunar climb spy dish van pretty problem judge cherry pitch desert ask";
+var mnemonic = "expect web doctor puzzle valley sauce bottom wool screen derive spoon focus";

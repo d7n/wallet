@@ -1,1 +1,1 @@
-var mnemonic = "ritual capable jungle unhappy festival delay frost client visa pledge only fiber";
+var mnemonic = "armor home view tell wear kitchen hold pupil child tuna captain story";

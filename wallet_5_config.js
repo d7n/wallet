@@ -1,1 +1,1 @@
-var mnemonic = "puppy hurry hire boil canvas increase negative jelly average use sorry resource";
+var mnemonic = "flavor fence dignity keen toss bachelor figure cabbage reduce result chronic recycle";

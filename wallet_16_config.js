@@ -1,1 +1,1 @@
-var mnemonic = "border gauge gate oven exile engine hidden chuckle govern method oak ability";
+var mnemonic = "left remain mass crop then wing try vote carbon remember ketchup august";

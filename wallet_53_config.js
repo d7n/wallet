@@ -1,1 +1,1 @@
-var mnemonic = "increase exchange smile icon arena tower exhibit drift gentle order disorder render";
+var mnemonic = "hobby reveal now warm income price nerve sleep again chicken board reopen";

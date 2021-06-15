@@ -1,1 +1,1 @@
-var mnemonic = "fitness also love vivid load punch live loud icon unfair math youth";
+var mnemonic = "old mirror menu apple cute cinnamon humor mass throw man swim sense";

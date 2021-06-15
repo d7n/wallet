@@ -1,1 +1,1 @@
-var mnemonic = "squirrel elevator draw state duck name silly lunch eye first have tragic";
+var mnemonic = "enjoy spatial claw say sick decide door cube taste wing dice mesh";

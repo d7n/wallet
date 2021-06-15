@@ -1,1 +1,1 @@
-var mnemonic = "once private accuse address salad call donate retreat outer token knee diary";
+var mnemonic = "bracket unique impose three pig rebuild skate rich stadium truly suit critic";

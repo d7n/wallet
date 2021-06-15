@@ -1,1 +1,1 @@
-var mnemonic = "cruel else victory movie music first embrace caught admit awake measure forward";
+var mnemonic = "crawl seek first better roof eye write bag skin eagle asset rural";

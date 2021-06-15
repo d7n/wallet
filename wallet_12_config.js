@@ -1,1 +1,1 @@
-var mnemonic = "section castle mom screen web lyrics uncle later real nerve stand observe";
+var mnemonic = "merge bracket among enlist quick sea pluck wolf trigger world parade across";

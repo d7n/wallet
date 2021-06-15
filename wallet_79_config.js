@@ -1,1 +1,1 @@
-var mnemonic = "crisp broccoli frozen festival half shrimp play average dry scrap rare scissors";
+var mnemonic = "travel decade layer exit olympic flee heart episode canoe vicious chaos drama";

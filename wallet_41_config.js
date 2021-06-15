@@ -1,1 +1,1 @@
-var mnemonic = "soap movie dirt stumble nose seminar title leaf combine plastic swim silent";
+var mnemonic = "hidden educate sort nephew practice portion sand layer lizard decline obtain entry";

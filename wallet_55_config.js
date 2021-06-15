@@ -1,1 +1,1 @@
-var mnemonic = "vintage that struggle rebuild ask debate popular weekend immune cotton festival margin";
+var mnemonic = "oven cluster east ritual dash combine unique unique immense whip bless leaf";

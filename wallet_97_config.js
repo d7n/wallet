@@ -1,1 +1,1 @@
-var mnemonic = "cause price space ugly trial okay slow trial announce bachelor raw enough";
+var mnemonic = "fragile custom south unusual tiger submit cricket team siege exclude prepare mule";

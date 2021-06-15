@@ -1,1 +1,1 @@
-var mnemonic = "garage option original welcome viable earn stool subject cry prefer oppose life";
+var mnemonic = "rose total armor make neither force judge patch core push sponsor goat";

@@ -1,1 +1,1 @@
-var mnemonic = "raven want base small tank flip foot dance honey capable swap believe";
+var mnemonic = "mixture water utility ripple empower eye plug bag bicycle twin cushion ozone";

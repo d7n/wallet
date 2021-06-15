@@ -1,1 +1,1 @@
-var mnemonic = "pretty cable battle disagree rack differ van various win seek west siren";
+var mnemonic = "dizzy assist between imitate loyal fee ride betray erupt turtle eager still";

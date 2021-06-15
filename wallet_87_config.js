@@ -1,1 +1,1 @@
-var mnemonic = "scan key oyster garment saddle crime medal wheel miss news pledge equal";
+var mnemonic = "core print state magnet divert illegal curtain chimney text oak agree sunset";

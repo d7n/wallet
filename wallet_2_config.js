@@ -1,1 +1,1 @@
-var mnemonic = "sunset board bring tragic dream alarm utility amount indoor copy remind speak";
+var mnemonic = "fatal run approve sense symptom strategy annual country example sock acquire dinner";

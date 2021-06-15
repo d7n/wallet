@@ -1,1 +1,1 @@
-var mnemonic = "invest jump inquiry talent what noise machine creek settle media borrow yellow";
+var mnemonic = "rate more hurt basket soccer define pupil camp accuse awful glow summer";

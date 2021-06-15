@@ -1,1 +1,1 @@
-var mnemonic = "pulp coach furnace number multiply tornado little stem enter whisper auto lamp";
+var mnemonic = "clock remind quick isolate unfair invite awkward found behind physical twin capable";

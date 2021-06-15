@@ -1,1 +1,1 @@
-var mnemonic = "round clay control stone sunny wrap capital cram finish cover one vapor";
+var mnemonic = "client roast pride mom glimpse witness fine unique clog fame fresh despair";

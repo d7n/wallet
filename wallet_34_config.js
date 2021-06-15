@@ -1,1 +1,1 @@
-var mnemonic = "dog wheat payment weekend stage diesel cancel luxury model lucky fine device";
+var mnemonic = "industry giant tube enjoy minimum vacuum fat daring license animal program behind";

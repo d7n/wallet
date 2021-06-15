@@ -1,1 +1,1 @@
-var mnemonic = "bread cannon morning memory dumb clever special desk fruit install whip piece";
+var mnemonic = "cluster still unaware transfer staff region leader remember pact magnet tobacco gather";

@@ -1,1 +1,1 @@
-var mnemonic = "idle car loan antenna neither minor grow urban brisk toilet image convince";
+var mnemonic = "inject praise absorb raise save boat olympic impact pupil enrich under awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi spy rural tuition avoid benefit praise rural charge kangaroo monitor option";
+var mnemonic = "hole enrich timber fault denial rescue strategy robot knife awesome dust post";

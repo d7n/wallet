@@ -1,1 +1,1 @@
-var mnemonic = "spy rookie magnet state code once deliver jazz what apology income resist";
+var mnemonic = "better update switch guide protect hole spider exit lend digital sibling elbow";

@@ -1,1 +1,1 @@
-var mnemonic = "loud shove guide retreat tissue reduce subway marine mechanic pause detail wrestle";
+var mnemonic = "merge now man link you shy mail kitchen exhaust road olive model";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby gadget armed fox image utility purity alarm polar magic traffic either";
+var mnemonic = "kite occur faculty piano depth scale math equip eye view sand cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "wisdom color use video absurd visit pond subway coconut increase scatter urban";
+var mnemonic = "system soda together crash blood peanut soap twin system flag rate friend";

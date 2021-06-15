@@ -1,1 +1,1 @@
-var mnemonic = "resource affair idle gravity goddess vicious wine cigar maze already switch room";
+var mnemonic = "elbow cotton fan sword hover glass feel this child chief put fiber";

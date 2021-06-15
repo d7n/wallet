@@ -1,1 +1,1 @@
-var mnemonic = "web scatter fruit grunt antique action project refuse sustain amateur baby boring";
+var mnemonic = "impose false occur lamp awake crazy mouse cushion shoulder clay upper album";

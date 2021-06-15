@@ -1,1 +1,1 @@
-var mnemonic = "cannon useless horn expire crazy attract poverty august other govern spin also";
+var mnemonic = "target song alone real typical digital steak movie powder business horn this";
