@@ -1,1 +1,1 @@
-var mnemonic = "banana leopard caution agree select foot pupil slim short shuffle burden type";
+var mnemonic = "limb more stock laugh jeans fox cute elevator escape pink van laundry";

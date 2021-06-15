@@ -1,1 +1,1 @@
-var mnemonic = "uncover coyote lock insect method dignity chaos bullet ostrich million file ensure";
+var mnemonic = "hotel pear depend fever else cancel youth vote nurse stock vague rubber";

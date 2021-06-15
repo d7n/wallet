@@ -1,1 +1,1 @@
-var mnemonic = "elegant burden soap movie drive toward split dirt satoshi narrow blade access";
+var mnemonic = "design fragile axis clever phone dad carpet scene found fire acoustic smoke";

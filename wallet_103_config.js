@@ -1,1 +1,1 @@
-var mnemonic = "soda ski drama color unable stereo depth census work dismiss crazy submit";
+var mnemonic = "input cook grief hidden surge civil plunge behave welcome carpet prosper glory";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune act hospital dish chair tool print cupboard catch lamp group engage";
+var mnemonic = "route bread often song chair erupt shallow shiver burst virus wagon enforce";

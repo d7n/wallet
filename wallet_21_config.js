@@ -1,1 +1,1 @@
-var mnemonic = "border morning flag brave casual chapter gather script crew fade clever lens";
+var mnemonic = "canvas brother sadness autumn buzz raw phrase disorder lyrics ability correct music";

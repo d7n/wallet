@@ -1,1 +1,1 @@
-var mnemonic = "ghost summer tonight exchange knee found ankle hedgehog february accident enlist emotion";
+var mnemonic = "analyst olympic ankle credit lazy empower segment comic border adjust edge humor";

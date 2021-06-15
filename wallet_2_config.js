@@ -1,1 +1,1 @@
-var mnemonic = "cause warm ugly fall derive avocado alpha friend afford skirt subject universe";
+var mnemonic = "card merry master case reason donkey cook lion where large lift card";

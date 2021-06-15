@@ -1,1 +1,1 @@
-var mnemonic = "tent spawn urge plunge mirror social notice worth author teach enable negative";
+var mnemonic = "post dinosaur connect detail fame double west comfort fabric luxury opera nice";

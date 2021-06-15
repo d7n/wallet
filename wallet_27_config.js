@@ -1,1 +1,1 @@
-var mnemonic = "bunker enforce side biology shove detect canyon similar mix silly embark project";
+var mnemonic = "visa certain slow later front chest hat endorse school tower hope vital";

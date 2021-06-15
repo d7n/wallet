@@ -1,1 +1,1 @@
-var mnemonic = "image bean void need image present scheme deposit page soccer expect tomato";
+var mnemonic = "black casual expand useless flag mesh album virus jazz enforce donate pink";

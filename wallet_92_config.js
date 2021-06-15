@@ -1,1 +1,1 @@
-var mnemonic = "board mind focus ramp balance nasty logic any verify hint alcohol firm";
+var mnemonic = "web clip october tree dress fetch analyst warm ethics danger buffalo nuclear";

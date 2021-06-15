@@ -1,1 +1,1 @@
-var mnemonic = "same myself camera universe book advance garden filter various ridge wet exercise";
+var mnemonic = "uniform diesel ship cool ceiling salt tent fringe blood tip industry fancy";

@@ -1,1 +1,1 @@
-var mnemonic = "soda proof warrior foil essay south verb wave match unfair box infant";
+var mnemonic = "embody buyer regret north slight fog climb slab flavor puppy hole leaf";

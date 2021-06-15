@@ -1,1 +1,1 @@
-var mnemonic = "grace taste black october insane task swim large vintage wheel case glad";
+var mnemonic = "wish pulp decline image girl lumber share robot shiver any finish drip";

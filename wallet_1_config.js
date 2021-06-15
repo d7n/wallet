@@ -1,1 +1,1 @@
-var mnemonic = "void neither fox visa ten intact become hat mango promote robot soap";
+var mnemonic = "position mix banner chimney speak bar gaze strong crew drift connect pencil";

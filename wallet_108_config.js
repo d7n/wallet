@@ -1,1 +1,1 @@
-var mnemonic = "credit wise vibrant design lemon snap front monitor safe choice crawl buffalo";
+var mnemonic = "guide accuse stereo dawn wheel fun lava order west hundred law globe";

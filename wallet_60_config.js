@@ -1,1 +1,1 @@
-var mnemonic = "tortoise position chronic regular inhale people cave cook decline comfort host unique";
+var mnemonic = "video sunset aim fever slim game palace arrest step ring domain boy";

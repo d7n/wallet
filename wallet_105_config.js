@@ -1,1 +1,1 @@
-var mnemonic = "hint gift anger reject october entire slender ribbon mule history swim wait";
+var mnemonic = "uncle range cigar exercise supreme grab drama stable pony venue code cry";

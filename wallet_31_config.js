@@ -1,1 +1,1 @@
-var mnemonic = "peasant need melt one speed release buffalo clay quick core tower couch";
+var mnemonic = "shift chair fossil year used fish clip lava discover asthma margin hazard";

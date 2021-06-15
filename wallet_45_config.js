@@ -1,1 +1,1 @@
-var mnemonic = "mistake unaware sphere language embrace access click near motion green change country";
+var mnemonic = "baby timber canyon confirm silent love sun wine weird text cannon fat";

@@ -1,1 +1,1 @@
-var mnemonic = "any special typical stool club wheel cushion just giraffe exchange aunt lamp";
+var mnemonic = "smart lizard toilet recycle person hold exit soldier bus between find feel";

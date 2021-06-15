@@ -1,1 +1,1 @@
-var mnemonic = "ecology please subway common canal direct tiny tiny scale donkey sample mixture";
+var mnemonic = "system velvet struggle shy young ready convince price wheel type age final";

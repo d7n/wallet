@@ -1,1 +1,1 @@
-var mnemonic = "ceiling spider napkin culture reform job dry relax piece faculty narrow rapid";
+var mnemonic = "fit verb glide else raccoon inside siege define wrist swing case correct";

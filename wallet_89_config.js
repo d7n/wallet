@@ -1,1 +1,1 @@
-var mnemonic = "skirt agent ugly kiss jelly six disagree again come belt wide save";
+var mnemonic = "welcome mule common fashion early peasant trap donate gallery maple huge office";

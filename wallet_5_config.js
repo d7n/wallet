@@ -1,1 +1,1 @@
-var mnemonic = "what search bring seek garbage believe pull throw cotton because wool vote";
+var mnemonic = "provide burger script arrest fence sing voice february brave cause ripple leave";

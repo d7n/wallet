@@ -1,1 +1,1 @@
-var mnemonic = "hotel traffic relax spring upper wait purity auto scissors motion tower scrap";
+var mnemonic = "bird rival ticket cute blue fruit silk brisk echo excuse fox wolf";

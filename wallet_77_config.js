@@ -1,1 +1,1 @@
-var mnemonic = "bulk space shove grant dad net ready duck confirm away salute anchor";
+var mnemonic = "solution planet lamp trip ill dove address skate vacant play lemon demise";

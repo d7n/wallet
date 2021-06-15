@@ -1,1 +1,1 @@
-var mnemonic = "gas stuff robot smart sell diamond odor fine company favorite weekend bachelor";
+var mnemonic = "excite awake winner carry farm silver spatial give mushroom fork cattle vocal";

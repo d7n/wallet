@@ -1,1 +1,1 @@
-var mnemonic = "uphold tilt brick fan manual waste gym garment feel cake borrow wave";
+var mnemonic = "planet stamp ketchup path witness victory wave slab gossip mixture angle agent";

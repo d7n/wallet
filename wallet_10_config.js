@@ -1,1 +1,1 @@
-var mnemonic = "guide beyond cross book tired ordinary diamond upper rival token lion duty";
+var mnemonic = "educate sample skill window switch high orphan achieve glory obey discover crazy";

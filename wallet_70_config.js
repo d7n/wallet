@@ -1,1 +1,1 @@
-var mnemonic = "aunt hurt tissue frog crowd dune smooth response trim balance pet hidden";
+var mnemonic = "smoke minor armed blade marine second sound hospital wage whip smile wagon";

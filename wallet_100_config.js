@@ -1,1 +1,1 @@
-var mnemonic = "animal unable hello castle shoe bag sphere tower sense exact century economy";
+var mnemonic = "enroll bracket cool stem face ankle relief mask sign limit skin service";

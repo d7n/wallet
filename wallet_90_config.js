@@ -1,1 +1,1 @@
-var mnemonic = "office text young trigger elbow decrease code toast bean method muscle better";
+var mnemonic = "acid capable long believe inject cactus fox limit scissors crime student eight";

@@ -1,1 +1,1 @@
-var mnemonic = "barely image write word meat army skull round alone glass shop abuse";
+var mnemonic = "floor buyer transfer robot below canyon barrel foam garden jump attend coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "street bird vocal desk warfare lake sauce grow move midnight pupil shell";
+var mnemonic = "focus reason excess apple risk nose rely legal allow educate token endless";

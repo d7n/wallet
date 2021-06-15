@@ -1,1 +1,1 @@
-var mnemonic = "mail story rude goddess actress pond famous kidney wife repair ginger soul";
+var mnemonic = "unit talk help own place royal load mouse curious advice clever near";

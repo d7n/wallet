@@ -1,1 +1,1 @@
-var mnemonic = "zone hungry material desert swear club equal genuine phrase actual prepare success";
+var mnemonic = "pencil milk style day feed garden walk place bronze van chapter panel";

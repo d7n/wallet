@@ -1,1 +1,1 @@
-var mnemonic = "clay brain walnut sunset floor jaguar rely text relief december inspire book";
+var mnemonic = "flip theory mushroom venue govern tribe small live oil clutch fog that";

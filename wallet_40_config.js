@@ -1,1 +1,1 @@
-var mnemonic = "burst shrimp rookie napkin close nothing balcony exit right lucky inch true";
+var mnemonic = "neutral pipe lion muscle leg onion person maple address planet gift utility";

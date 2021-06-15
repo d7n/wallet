@@ -1,1 +1,1 @@
-var mnemonic = "into bracket tube lonely victory hint silent spatial gallery pole cage weasel";
+var mnemonic = "upon spirit picnic detail orbit half margin skin budget much option safe";

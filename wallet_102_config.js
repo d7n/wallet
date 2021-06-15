@@ -1,1 +1,1 @@
-var mnemonic = "venture jazz gossip produce anxiety sibling december room expose rich toy arrow";
+var mnemonic = "flavor bike penalty grant awesome pear tone year novel retire light wrist";

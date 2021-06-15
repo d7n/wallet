@@ -1,1 +1,1 @@
-var mnemonic = "square cherry eight little soccer luggage equip random click enact oak lend";
+var mnemonic = "lecture quiz region bubble maximum hunt stairs trouble want delay aware curtain";

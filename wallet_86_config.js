@@ -1,1 +1,1 @@
-var mnemonic = "march donor sword cherry address mixed dial blur impact spatial illness banana";
+var mnemonic = "rug oyster garden brain system myself side main energy vendor joy ability";

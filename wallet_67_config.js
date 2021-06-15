@@ -1,1 +1,1 @@
-var mnemonic = "lab rich above mix ozone tip wild reveal raw dinner distance grunt";
+var mnemonic = "laptop try lift puppy barrel attitude gloom hybrid exhibit together robot coconut";

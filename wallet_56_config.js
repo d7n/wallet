@@ -1,1 +1,1 @@
-var mnemonic = "job ivory sure scheme pause gown note dress rack awkward lemon retire";
+var mnemonic = "pluck push alone pitch build exchange burden code hub skin embody wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke album rifle clean biology poem citizen nuclear tail mass giant depart";
+var mnemonic = "logic kangaroo diary old tape spin copy earth venture now direct poverty";

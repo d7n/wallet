@@ -1,1 +1,1 @@
-var mnemonic = "group trouble rent toy fancy glory disagree success narrow hybrid sort cat";
+var mnemonic = "chunk shift license about slush dilemma vicious edit poverty noise hamster infant";

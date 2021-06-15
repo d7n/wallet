@@ -1,1 +1,1 @@
-var mnemonic = "plunge scan antenna imitate learn diamond priority mirror space choose energy plunge";
+var mnemonic = "town young patch tail whisper funny scorpion plate pelican smart injury garlic";

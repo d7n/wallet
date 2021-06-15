@@ -1,1 +1,1 @@
-var mnemonic = "put castle direct anchor blade region athlete digital aim cheap prepare want";
+var mnemonic = "trust vast obey borrow wrong display sort giant govern general current truth";

@@ -1,1 +1,1 @@
-var mnemonic = "edge cherry letter local absurd velvet party arctic cloth combine swing aware";
+var mnemonic = "impulse snack limb oxygen nerve property trumpet into step carry ripple deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet tortoise tiny random knife evoke sound slender country grunt wool comfort";
+var mnemonic = "eye tenant surround humor salmon song hospital smile mimic educate aisle charge";

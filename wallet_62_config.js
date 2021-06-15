@@ -1,1 +1,1 @@
-var mnemonic = "grief secret save ivory unique never moon lumber rent sausage stem neglect";
+var mnemonic = "analyst decorate denial upper hedgehog rather ivory step comfort order quarter lend";

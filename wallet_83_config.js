@@ -1,1 +1,1 @@
-var mnemonic = "dry danger execute quit barely solid cost income artefact remind female fetch";
+var mnemonic = "all common draft lumber envelope video slide amateur display convince bind clump";

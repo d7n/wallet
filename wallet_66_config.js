@@ -1,1 +1,1 @@
-var mnemonic = "market life input stone universe original girl frog there news vague boy";
+var mnemonic = "recycle day submit hope sick alone monster possible tonight kitchen bone chuckle";

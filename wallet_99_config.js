@@ -1,1 +1,1 @@
-var mnemonic = "shine office couple raw caught hunt perfect van rebuild recipe unfair advice";
+var mnemonic = "inhale above pudding talk exist castle parrot section thrive blanket novel much";

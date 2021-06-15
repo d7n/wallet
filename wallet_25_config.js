@@ -1,1 +1,1 @@
-var mnemonic = "stem kiwi asthma resource best bike lyrics invest snap copper wall into";
+var mnemonic = "rotate lamp craft prefer boil polar chicken claim basket review puppy upgrade";

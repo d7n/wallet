@@ -1,1 +1,1 @@
-var mnemonic = "state little vault addict peace humble whisper february animal roof taste logic";
+var mnemonic = "endorse tuition abuse type clever illness scale company vault girl desert jazz";

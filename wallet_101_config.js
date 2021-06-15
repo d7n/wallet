@@ -1,1 +1,1 @@
-var mnemonic = "edge civil fence toddler exchange school retreat slight shop palm desk caught";
+var mnemonic = "tent senior shoe cruel dad soldier grab jar gallery aspect pet stay";

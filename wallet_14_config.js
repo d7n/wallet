@@ -1,1 +1,1 @@
-var mnemonic = "skull setup science dog buddy share load whale sound shine fatal educate";
+var mnemonic = "climb angle inner column audit obscure feature limb gallery liar feel lift";

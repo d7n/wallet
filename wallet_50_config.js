@@ -1,1 +1,1 @@
-var mnemonic = "symptom use drill magnet tag animal pair custom session burger obtain family";
+var mnemonic = "invite organ squirrel mandate cabin fame track release spend question maximum juice";

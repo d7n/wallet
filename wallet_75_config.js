@@ -1,1 +1,1 @@
-var mnemonic = "tackle faculty retire illegal tide faculty stairs pipe worth rigid bounce deal";
+var mnemonic = "they special slim chalk brush sausage exhaust grit sad fitness slush student";

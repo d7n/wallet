@@ -1,1 +1,1 @@
-var mnemonic = "turn enforce sea digital injury normal shrimp aspect wheat burden all marble";
+var mnemonic = "amateur firm jump never deposit betray omit dove often fit curious peace";

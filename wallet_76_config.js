@@ -1,1 +1,1 @@
-var mnemonic = "depth index stool color diagram wash acid rabbit crisp unaware door raccoon";
+var mnemonic = "sport fault garden mystery walk metal mimic fence immune silent stumble fiscal";

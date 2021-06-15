@@ -1,1 +1,1 @@
-var mnemonic = "sister parent armed act control outside update nation sock broken rough urban";
+var mnemonic = "trial scare render emerge vivid dish purity resource shell spread student exotic";

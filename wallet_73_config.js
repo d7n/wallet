@@ -1,1 +1,1 @@
-var mnemonic = "earn guide monitor spell intact exclude rack burden ask item all ketchup";
+var mnemonic = "stumble letter elegant divorce bachelor taxi meat dress rose cactus mixture explain";

@@ -1,1 +1,1 @@
-var mnemonic = "wood waste welcome sing bundle person aware carpet match wear edge diary";
+var mnemonic = "cash alone lady blame number planet pretty happy elbow general phrase inquiry";

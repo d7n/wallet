@@ -1,1 +1,1 @@
-var mnemonic = "august juice mushroom van belt egg primary desert stable frost share share";
+var mnemonic = "october female forest invite arrow city hybrid october spice fault welcome shield";

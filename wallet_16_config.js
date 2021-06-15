@@ -1,1 +1,1 @@
-var mnemonic = "off fruit rather nature number nature flash mutual laugh hawk climb please";
+var mnemonic = "elite slender square bar street six chaos link mouse hurt curious spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi ethics glow blanket excuse bread car spread praise melt trash toddler";
+var mnemonic = "gown jump blind jacket town canyon surprise basket ripple envelope until move";

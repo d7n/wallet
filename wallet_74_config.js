@@ -1,1 +1,1 @@
-var mnemonic = "stomach habit major right dumb erupt creek winner cabin chase badge mask";
+var mnemonic = "fan clinic glow question achieve view hockey gravity guard anxiety sure protect";

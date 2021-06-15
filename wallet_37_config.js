@@ -1,1 +1,1 @@
-var mnemonic = "nest december pair bless jar differ viable into square today energy cheap";
+var mnemonic = "tattoo session moment good toe question mixture scan leave noodle fall behind";

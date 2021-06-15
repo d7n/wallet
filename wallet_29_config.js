@@ -1,1 +1,1 @@
-var mnemonic = "alley recall general grab gain gauge eagle clinic buffalo acid honey suffer";
+var mnemonic = "same catch soccer upset shrug wasp volcano mango lonely shuffle key tell";

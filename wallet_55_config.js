@@ -1,1 +1,1 @@
-var mnemonic = "chat music horn early claim section announce lonely come banana foster daring";
+var mnemonic = "eight ginger element indoor intact bus october dirt alien put action danger";

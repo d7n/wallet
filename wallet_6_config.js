@@ -1,1 +1,1 @@
-var mnemonic = "ticket erase off detect enjoy flower bar group wrist sight area income";
+var mnemonic = "dream peace unusual describe leisure penalty until disorder salon essence acquire awesome";

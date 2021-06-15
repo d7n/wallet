@@ -1,1 +1,1 @@
-var mnemonic = "issue defy please asset fee chat consider jaguar year river issue then";
+var mnemonic = "spring image grace prison tired attract suffer peanut cram danger ahead scissors";

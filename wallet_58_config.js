@@ -1,1 +1,1 @@
-var mnemonic = "slush tent antenna senior because tunnel chicken decline neck soul truth float";
+var mnemonic = "enroll vicious glimpse barrel poet anger extend palace skull soup mirror accuse";

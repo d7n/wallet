@@ -1,1 +1,1 @@
-var mnemonic = "scan ozone gas famous cry good evoke skate inflict battle box kitten";
+var mnemonic = "voice sphere size list bring robot correct increase luxury lock any vendor";

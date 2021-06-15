@@ -1,1 +1,1 @@
-var mnemonic = "hybrid leaf nerve clutch purse name away clarify ski alien broom together";
+var mnemonic = "forward space more deny tilt brief demand grunt empower weird gown again";

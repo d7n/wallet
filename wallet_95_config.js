@@ -1,1 +1,1 @@
-var mnemonic = "ancient news rally gym price enter appear fancy garment carry habit peace";
+var mnemonic = "toss settle city rail behind faith embody pudding pupil van guitar happy";

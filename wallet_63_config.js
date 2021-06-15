@@ -1,1 +1,1 @@
-var mnemonic = "sand hour office eyebrow cute fetch mountain pelican cash material offer maze";
+var mnemonic = "palm hero upper since early digital frown fiscal pelican side caught replace";

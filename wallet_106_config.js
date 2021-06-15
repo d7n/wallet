@@ -1,1 +1,1 @@
-var mnemonic = "metal ribbon state mercy pond clog buyer begin invite language dentist busy";
+var mnemonic = "kid miss loop eagle stomach execute screen retreat jungle cram solar later";

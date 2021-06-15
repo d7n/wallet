@@ -1,1 +1,1 @@
-var mnemonic = "coconut proof base unique celery wave evil arrive inch nut spend crucial";
+var mnemonic = "laugh opera barely purpose cabbage plastic auto fun model rifle essence target";

@@ -1,1 +1,1 @@
-var mnemonic = "float best oblige stomach gate giant cabin charge connect improve measure blush";
+var mnemonic = "weasel update elephant rail deliver rose razor lunar choice edge curtain glow";

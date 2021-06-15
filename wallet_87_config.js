@@ -1,1 +1,1 @@
-var mnemonic = "gallery carry shrimp grief ski vapor page gallery cousin reopen obey stool";
+var mnemonic = "window festival this favorite nuclear coach allow maid present modify busy quarter";

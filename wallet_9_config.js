@@ -1,1 +1,1 @@
-var mnemonic = "give decrease industry sponsor strategy blanket bubble genius conduct treat vivid tourist";
+var mnemonic = "fatigue host inside correct meadow cause motor nation column focus receive remain";

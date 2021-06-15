@@ -1,1 +1,1 @@
-var mnemonic = "seek outside faculty tail dinosaur parent upset deposit small photo joke noble";
+var mnemonic = "army awful float jaguar dolphin hint alley earth frequent have lunch ribbon";
