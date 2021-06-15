@@ -1,1 +1,1 @@
-var mnemonic = "nut charge wish such absorb volume write disorder protect hobby bounce push";
+var mnemonic = "hole toast isolate proof afraid snow rubber slab another bleak clock final";

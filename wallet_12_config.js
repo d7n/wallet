@@ -1,1 +1,1 @@
-var mnemonic = "dirt ugly sister mansion tennis gasp seed brother vanish witness margin trip";
+var mnemonic = "chat flight one baby relief kid flock high city mad risk deposit";

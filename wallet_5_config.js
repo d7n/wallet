@@ -1,1 +1,1 @@
-var mnemonic = "huge ask system apple ladder laugh juice mimic use retreat program cattle";
+var mnemonic = "long alarm street lemon spare fantasy muscle leave edge cattle exotic orient";

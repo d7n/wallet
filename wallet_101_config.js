@@ -1,1 +1,1 @@
-var mnemonic = "stay pulse people bleak among nominee region swim cherry laptop trumpet please";
+var mnemonic = "tone normal eyebrow genius treat coast urge bicycle crew crash network bunker";

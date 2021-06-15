@@ -1,1 +1,1 @@
-var mnemonic = "village monster assume powder month letter grit science speed left honey hollow";
+var mnemonic = "identify together topic limit nut receive language banner question outside control deposit";

@@ -1,1 +1,1 @@
-var mnemonic = "kite elite bench accuse decorate metal crawl shoe sister task offer despair";
+var mnemonic = "summer various model load blood security since wagon panther charge muscle million";

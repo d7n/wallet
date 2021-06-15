@@ -1,1 +1,1 @@
-var mnemonic = "worth shop account brain luggage faith trophy sibling naive patrol want isolate";
+var mnemonic = "surge like venture ramp onion gauge keen purchase sudden obtain april chimney";

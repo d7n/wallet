@@ -1,1 +1,1 @@
-var mnemonic = "setup write cricket tunnel unhappy race seek club only copy upgrade fancy";
+var mnemonic = "switch reveal fox brisk transfer heart advance lawsuit render allow rain clever";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber section soldier hungry state resource prison luxury reject fit accuse search";
+var mnemonic = "chief bubble head also rely whip comic hole script vague cage parent";

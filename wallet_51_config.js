@@ -1,1 +1,1 @@
-var mnemonic = "credit helmet admit ankle eight equal suit catalog error orphan abuse hidden";
+var mnemonic = "impose deny casino advice purse entry tissue twin cement enlist crop rice";

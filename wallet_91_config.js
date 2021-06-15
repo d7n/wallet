@@ -1,1 +1,1 @@
-var mnemonic = "pact advance print used decide hood viable section atom mango tornado mistake";
+var mnemonic = "evolve pole speak apple click tired follow bacon capital spy absorb clutch";

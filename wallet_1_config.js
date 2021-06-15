@@ -1,1 +1,1 @@
-var mnemonic = "major love card funny bulb ripple snake brick lazy ten guide resemble";
+var mnemonic = "earn kid else gown collect suit label glimpse around dad topple crouch";

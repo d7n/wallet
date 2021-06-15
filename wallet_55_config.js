@@ -1,1 +1,1 @@
-var mnemonic = "crucial deer weasel balance river beef faith boring accuse review vivid above";
+var mnemonic = "flower fashion pumpkin dice sea science snack duty hour kitten cactus pepper";

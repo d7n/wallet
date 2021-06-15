@@ -1,1 +1,1 @@
-var mnemonic = "pear ostrich east input oblige fox you lab dignity mystery rural physical";
+var mnemonic = "shaft hole cupboard sister fence hollow target alter nurse cart garlic patrol";

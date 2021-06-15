@@ -1,1 +1,1 @@
-var mnemonic = "twice stay remind marriage dose company oil silent seek person pull flight";
+var mnemonic = "return crane silver walk symbol ozone home duck please coach coast render";

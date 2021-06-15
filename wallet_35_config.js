@@ -1,1 +1,1 @@
-var mnemonic = "visual hand gap flock cruise blind raccoon sauce shift place great exhibit";
+var mnemonic = "link goose fold board reflect gather upgrade color panic check swallow juice";

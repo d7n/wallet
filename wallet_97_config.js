@@ -1,1 +1,1 @@
-var mnemonic = "spy crumble deer bonus toss glad sugar permit have best seek dinner";
+var mnemonic = "divide yard clump knock render power staff monitor ethics blast jaguar supreme";

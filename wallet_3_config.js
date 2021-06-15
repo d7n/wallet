@@ -1,1 +1,1 @@
-var mnemonic = "embrace exact defy hawk cabin roast title rain much swear maximum gossip";
+var mnemonic = "mixture asthma side nice warm child barely useless town pencil fork render";

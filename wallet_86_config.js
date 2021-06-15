@@ -1,1 +1,1 @@
-var mnemonic = "noodle notable rifle until ball inmate surge analyst scare wing message wash";
+var mnemonic = "science throw fun wash grit rookie pig success cannon salad pony subject";

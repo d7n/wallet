@@ -1,1 +1,1 @@
-var mnemonic = "average grass fly wave purse cave series raccoon morning sense leg powder";
+var mnemonic = "behave resemble weather region relief monitor amateur front smoke turn shield cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "type surround fluid consider program shaft car trash ankle blossom siren jewel";
+var mnemonic = "mistake delay job stem brisk total double secret spell turn charge chronic";

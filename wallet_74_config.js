@@ -1,1 +1,1 @@
-var mnemonic = "night detect ocean flame divorce cost fire found cloud vicious room tag";
+var mnemonic = "buzz cry exit loyal table wave leg about nose snake dignity misery";

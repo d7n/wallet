@@ -1,1 +1,1 @@
-var mnemonic = "figure gauge pencil group million fantasy supreme lab mask acoustic wool churn";
+var mnemonic = "over ghost develop prosper voyage box sport smile scrub enable such lobster";

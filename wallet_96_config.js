@@ -1,1 +1,1 @@
-var mnemonic = "lyrics matter modify pig ridge claw apple wall forum electric silent correct";
+var mnemonic = "bunker ability embark tonight indicate lock eager glance nose remain near valve";

@@ -1,1 +1,1 @@
-var mnemonic = "fit age crater chalk first inner curve receive rich aim face exotic";
+var mnemonic = "useful squirrel list vague found network display crowd favorite stone simple column";

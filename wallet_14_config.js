@@ -1,1 +1,1 @@
-var mnemonic = "climb mirror hidden urban sell common update recipe fuel income quick agree";
+var mnemonic = "hedgehog timber custom twin wagon engine alarm danger kid february blast frost";

@@ -1,1 +1,1 @@
-var mnemonic = "dream assault exact announce scout mix juice father network inquiry trouble analyst";
+var mnemonic = "sword tourist slot recipe steak boy gold enroll bicycle vendor notice run";

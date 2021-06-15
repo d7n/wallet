@@ -1,1 +1,1 @@
-var mnemonic = "habit series paper soccer top trend alcohol edit wool raven valid strategy";
+var mnemonic = "flower donkey major loud strike swim myself fan good under next warm";

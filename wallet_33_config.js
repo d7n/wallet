@@ -1,1 +1,1 @@
-var mnemonic = "wise raccoon faculty giant stick wrist box earth angle success rubber cake";
+var mnemonic = "kick grit crew announce merit topic chest slight want pelican attack increase";

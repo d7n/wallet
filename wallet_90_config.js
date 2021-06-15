@@ -1,1 +1,1 @@
-var mnemonic = "pulp yellow ugly increase cushion ginger weird obscure coyote brave nut obtain";
+var mnemonic = "crash swamp wild dawn rural defense capable elegant runway dash search goddess";

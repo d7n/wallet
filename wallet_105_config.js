@@ -1,1 +1,1 @@
-var mnemonic = "exercise own power advance mother flag hero impose demand left grass peace";
+var mnemonic = "curtain trap rail fault shell swim noble nephew flag true crumble dad";

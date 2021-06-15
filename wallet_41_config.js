@@ -1,1 +1,1 @@
-var mnemonic = "gate quantum purse barely forum dose owner million dress fault receive crush";
+var mnemonic = "hotel clutch hub scale curve warm hint bicycle say call tip wing";

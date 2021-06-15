@@ -1,1 +1,1 @@
-var mnemonic = "awake wine large welcome voyage raccoon zero soup cram donor verb knee";
+var mnemonic = "twenty symptom update rookie pride vocal obtain talent bargain fine minute truth";

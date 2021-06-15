@@ -1,1 +1,1 @@
-var mnemonic = "laundry tube journey muffin acquire tennis carbon scale ankle differ donor clever";
+var mnemonic = "ribbon cradle monkey paddle develop ring quick sunny balance gorilla cram position";

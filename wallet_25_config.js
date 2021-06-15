@@ -1,1 +1,1 @@
-var mnemonic = "couch little decline follow twenty desk speak cash squeeze radio crawl approve";
+var mnemonic = "try impact family change tag soul auction vapor swing jungle artist armed";

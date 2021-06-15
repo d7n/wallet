@@ -1,1 +1,1 @@
-var mnemonic = "catch educate session use anxiety dial leader nation health morning initial interest";
+var mnemonic = "wealth copper strong radar open hour artist scatter exit display earn want";

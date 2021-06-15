@@ -1,1 +1,1 @@
-var mnemonic = "climb milk reopen gap vote crew oval evil develop divert absent pelican";
+var mnemonic = "mask marble satoshi spike warm evoke cake bench reject pledge feature piano";

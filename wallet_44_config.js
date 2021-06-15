@@ -1,1 +1,1 @@
-var mnemonic = "fame aunt raise uncover reopen someone pyramid choose slice tail bus mixed";
+var mnemonic = "pretty consider blade floor net celery dash battle around trip lion weird";

@@ -1,1 +1,1 @@
-var mnemonic = "people connect dwarf luxury shed ignore assist avocado defense item category arctic";
+var mnemonic = "guard friend genre boy media control glare crop cook cage enrich moral";

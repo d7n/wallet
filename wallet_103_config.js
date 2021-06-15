@@ -1,1 +1,1 @@
-var mnemonic = "army zero know kick tackle dizzy fox oxygen bike rookie observe swim";
+var mnemonic = "notice chimney van damage market decrease mango pigeon air insect food another";

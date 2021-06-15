@@ -1,1 +1,1 @@
-var mnemonic = "loud sadness engage battle food open now equal woman spin trigger thumb";
+var mnemonic = "enact plunge oppose move tiny quit member emotion tree fly riot mom";

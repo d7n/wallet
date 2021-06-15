@@ -1,1 +1,1 @@
-var mnemonic = "typical dream cycle omit comic disease naive oak six glare cube depend";
+var mnemonic = "reunion say poem process venue skull nerve vivid glad chunk heavy trend";

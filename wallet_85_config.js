@@ -1,1 +1,1 @@
-var mnemonic = "that artwork great execute slender steel easy yellow course tent random degree";
+var mnemonic = "rocket obvious help arch decline wood help october punch pill gaze pitch";

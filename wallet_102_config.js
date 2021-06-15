@@ -1,1 +1,1 @@
-var mnemonic = "pledge edge chest cream bracket tray bird pudding stage elevator truth tuna";
+var mnemonic = "duck code sugar slice vacant spirit chapter fan earth raccoon shallow music";

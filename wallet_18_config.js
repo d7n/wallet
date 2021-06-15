@@ -1,1 +1,1 @@
-var mnemonic = "crop scatter coin glance light oak fault soul nuclear middle neutral ridge";
+var mnemonic = "flight floor visual crunch sentence oval tube sunset future path sea bind";

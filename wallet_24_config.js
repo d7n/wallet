@@ -1,1 +1,1 @@
-var mnemonic = "reject airport float one leave pet fluid satisfy kitchen tourist tray net";
+var mnemonic = "cry maple assume bid spatial comfort manage romance twice pattern want heavy";

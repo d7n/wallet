@@ -1,1 +1,1 @@
-var mnemonic = "sell civil crane slow panda bomb ethics vault code flame either rib";
+var mnemonic = "plunge square thing cook delay invest sense fit cargo about card kind";

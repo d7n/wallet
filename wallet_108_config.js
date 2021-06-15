@@ -1,1 +1,1 @@
-var mnemonic = "buyer merit jeans clown accident praise accuse jungle arm junior stomach diagram";
+var mnemonic = "garment promote claw gun dad holiday lounge donkey tuition layer genre broccoli";

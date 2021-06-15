@@ -1,1 +1,1 @@
-var mnemonic = "dwarf today awesome harbor amazing because morning time ripple wool resource render";
+var mnemonic = "text run style ordinary aunt brush together catalog tattoo female solve reflect";

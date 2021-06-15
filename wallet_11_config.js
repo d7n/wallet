@@ -1,1 +1,1 @@
-var mnemonic = "danger second item symbol occur detail boost seminar salute hazard feed vicious";
+var mnemonic = "theory seven borrow bonus affair dinosaur unfold volume depart forget harbor unfair";

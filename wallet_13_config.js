@@ -1,1 +1,1 @@
-var mnemonic = "fringe cushion innocent school afraid style mother mechanic item endorse stone betray";
+var mnemonic = "day fan evil athlete caution flock key possible maple glide door debate";

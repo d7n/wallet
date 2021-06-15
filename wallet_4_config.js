@@ -1,1 +1,1 @@
-var mnemonic = "file mystery frown noodle welcome bike jaguar brave leg other mother canvas";
+var mnemonic = "page ecology car cushion naive squirrel hobby you decorate copy agree permit";

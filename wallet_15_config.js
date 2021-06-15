@@ -1,1 +1,1 @@
-var mnemonic = "spoil another credit label license fan supply have shadow lamp forget rose";
+var mnemonic = "digital boat base economy awake design mix iron moon exclude reform chair";

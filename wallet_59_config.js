@@ -1,1 +1,1 @@
-var mnemonic = "water mosquito reduce can garbage draft artefact dynamic resource speed mention anxiety";
+var mnemonic = "holiday paper witness noodle basic gesture bless across pluck require unhappy also";

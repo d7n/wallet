@@ -1,1 +1,1 @@
-var mnemonic = "jazz duck void lens flame unhappy arrive blanket limit ankle marine mad";
+var mnemonic = "work renew useless void impose air task fox rose degree collect assist";

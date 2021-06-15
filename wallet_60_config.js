@@ -1,1 +1,1 @@
-var mnemonic = "vapor transfer recipe bleak flat holiday toddler stereo mutual false mobile chief";
+var mnemonic = "lonely door swim talk elder usual blue maximum fiscal clean flag else";

@@ -1,1 +1,1 @@
-var mnemonic = "begin search dawn pepper vote attract carbon general convince kangaroo match crumble";
+var mnemonic = "project blouse twin ticket until onion slight garment together toy capable warrior";

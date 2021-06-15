@@ -1,1 +1,1 @@
-var mnemonic = "combine farm island wave funny phone will fortune equal horn credit clay";
+var mnemonic = "fluid divide off velvet myth vintage glare cycle gaze task moon choose";

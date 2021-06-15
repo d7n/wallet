@@ -1,1 +1,1 @@
-var mnemonic = "team car toward clay elephant usual math mouse fold push someone visual";
+var mnemonic = "visual bounce ancient small oval autumn frog drill attitude velvet style include";

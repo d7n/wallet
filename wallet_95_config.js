@@ -1,1 +1,1 @@
-var mnemonic = "outer second must business select funny nerve high height forest decline wing";
+var mnemonic = "offer buyer trigger muffin pilot galaxy mechanic mercy wreck exclude absorb blame";

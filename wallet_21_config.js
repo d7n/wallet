@@ -1,1 +1,1 @@
-var mnemonic = "brass pottery grid wonder distance pottery lonely slight easily invite anchor melt";
+var mnemonic = "donkey quick slice tragic solar cause pond wonder fresh sudden pony silly";

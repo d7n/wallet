@@ -1,1 +1,1 @@
-var mnemonic = "detail idle various evoke slim neutral record pen course usage pumpkin short";
+var mnemonic = "clown skull wish pave twice scatter spell north regular explain hard clarify";

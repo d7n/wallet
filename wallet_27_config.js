@@ -1,1 +1,1 @@
-var mnemonic = "abstract rude worry tackle ride divorce offer guilt dynamic august light shy";
+var mnemonic = "submit canvas coil balance maid rescue cook unlock pistol garage claim junior";

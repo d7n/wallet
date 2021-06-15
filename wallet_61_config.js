@@ -1,1 +1,1 @@
-var mnemonic = "trouble clean crime wasp grocery opinion hole food garment relief flag sing";
+var mnemonic = "slot fault fortune provide pull then tragic want uncle degree panel celery";

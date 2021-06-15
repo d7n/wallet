@@ -1,1 +1,1 @@
-var mnemonic = "code eye knife fatal dish exhaust pottery oblige path session mom prison";
+var mnemonic = "almost fan sibling entry govern ethics jump better retreat bunker border gallery";

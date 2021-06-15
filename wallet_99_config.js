@@ -1,1 +1,1 @@
-var mnemonic = "buddy satisfy human piano negative uphold math flock verb spider evolve globe";
+var mnemonic = "sort forest steak whip hidden cherry hotel clay two rebuild wear build";

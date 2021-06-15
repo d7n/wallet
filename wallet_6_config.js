@@ -1,1 +1,1 @@
-var mnemonic = "clinic bomb tuition energy charge scan angle giant hobby depend boss together";
+var mnemonic = "employ sunset circle true explain habit remain open provide obey guard intact";

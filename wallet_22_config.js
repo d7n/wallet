@@ -1,1 +1,1 @@
-var mnemonic = "absorb upgrade tiger rigid curtain recipe field boring garage cigar limb atom";
+var mnemonic = "segment filter spray desk wedding avoid bid twelve clean decade hazard brother";

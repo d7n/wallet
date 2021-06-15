@@ -1,1 +1,1 @@
-var mnemonic = "nice palace blind picnic ethics liar matrix believe frog usage fruit meadow";
+var mnemonic = "miracle modify trash rebuild voice matrix tornado control always oil believe chalk";

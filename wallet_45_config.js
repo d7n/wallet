@@ -1,1 +1,1 @@
-var mnemonic = "foster train build boat believe settle spatial liar cancel penalty poem alone";
+var mnemonic = "skin sort inner alpha pumpkin either order eternal tourist deposit kiwi risk";

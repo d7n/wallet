@@ -1,1 +1,1 @@
-var mnemonic = "exit garden perfect divert exist budget throw solar twist spot road toddler";
+var mnemonic = "deer adjust path sustain swear celery believe same roof assume summer sample";

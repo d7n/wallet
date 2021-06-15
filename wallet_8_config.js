@@ -1,1 +1,1 @@
-var mnemonic = "silly neither donor twin work fringe path soft gown response combine olive";
+var mnemonic = "gift outer ignore lamp erosion spawn love connect clinic panel together enact";

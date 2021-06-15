@@ -1,1 +1,1 @@
-var mnemonic = "surge brown soldier dutch vapor tray sick crop venue trouble midnight inch";
+var mnemonic = "inch ugly reason other talent twist resource fresh unaware fog paper say";

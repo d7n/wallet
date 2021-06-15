@@ -1,1 +1,1 @@
-var mnemonic = "enrich absurd advance vibrant age clerk kingdom satisfy mad wet ocean travel";
+var mnemonic = "session size buffalo ethics ability fossil impact square digital cup clown hen";

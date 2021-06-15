@@ -1,1 +1,1 @@
-var mnemonic = "sun prepare soccer start atom square tilt ability beyond stove safe step";
+var mnemonic = "bulk drink digital trumpet luggage media detail patrol disease income pipe movie";

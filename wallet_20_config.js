@@ -1,1 +1,1 @@
-var mnemonic = "grab engage life razor verify cabin meat math trigger reason laptop grief";
+var mnemonic = "hungry play reflect rubber diary wrong like midnight injury case vehicle emerge";

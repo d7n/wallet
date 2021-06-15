@@ -1,1 +1,1 @@
-var mnemonic = "worry parade pulp marble must east lyrics middle render soap direct view";
+var mnemonic = "magic legal panda fade option belt twist kangaroo salmon system tree aware";

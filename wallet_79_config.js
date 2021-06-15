@@ -1,1 +1,1 @@
-var mnemonic = "ribbon nut update mango curious point debris idea outer head quantum world";
+var mnemonic = "claw guitar riot tank source option public same table pattern provide horn";

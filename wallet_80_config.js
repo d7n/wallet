@@ -1,1 +1,1 @@
-var mnemonic = "skull runway gain rude cradle food cube slice select buffalo capable mesh";
+var mnemonic = "element hour spawn avocado polar attract stuff around basic leg sibling inhale";

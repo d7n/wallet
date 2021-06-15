@@ -1,1 +1,1 @@
-var mnemonic = "curious acid seek physical leave reunion gossip copy toddler health wife guess";
+var mnemonic = "rule clever collect harbor rebel pilot retire keep divert phrase flame toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "love phrase drastic must shoe marine toss visa pioneer female trap poet";
+var mnemonic = "glide rich impose tide vehicle end outer virtual across extend canoe empower";

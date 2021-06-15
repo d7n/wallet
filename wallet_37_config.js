@@ -1,1 +1,1 @@
-var mnemonic = "cheap water clog salad goose siege badge nasty twice globe walnut sound";
+var mnemonic = "mixed recipe scrap seek mushroom crumble nominee despair opinion bacon oven exclude";

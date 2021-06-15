@@ -1,1 +1,1 @@
-var mnemonic = "obtain coral rookie guitar furnace weekend target sponsor latin faint climb clump";
+var mnemonic = "box flock replace easy seat point rack skirt town adult weapon text";

@@ -1,1 +1,1 @@
-var mnemonic = "vote twin uncover squirrel day guess balance master sign fall modify angle";
+var mnemonic = "kid bright review forest virtual modify cart orchard pupil almost practice true";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest upon shop accuse garbage result rotate whip list reflect typical olive";
+var mnemonic = "foil matrix sport clutch ghost economy camp general nature add minimum retire";

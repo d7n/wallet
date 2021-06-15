@@ -1,1 +1,1 @@
-var mnemonic = "measure special kidney story radar just describe define endless hover fever library";
+var mnemonic = "reward vanish torch blur sand rent little february now clarify hospital thrive";

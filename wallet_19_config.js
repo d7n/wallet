@@ -1,1 +1,1 @@
-var mnemonic = "obvious often kid sword vast accident what slam sad maid vault salon";
+var mnemonic = "goat quick inform stick retreat under miracle gym attack lawn rhythm consider";

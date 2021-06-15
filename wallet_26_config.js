@@ -1,1 +1,1 @@
-var mnemonic = "lamp actual damage raw federal air march pioneer way hip essence hurry";
+var mnemonic = "purchase badge regular ice frequent black only mutual rescue arrest royal leave";

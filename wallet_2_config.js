@@ -1,1 +1,1 @@
-var mnemonic = "portion title online refuse uniform island inherit frown supply spirit notice color";
+var mnemonic = "latin jeans lounge lake drive talent wood tip coin opera bread engage";

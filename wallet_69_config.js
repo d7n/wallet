@@ -1,1 +1,1 @@
-var mnemonic = "purse spy grief recycle vital board female sight exhaust balcony thumb access";
+var mnemonic = "clever alert expose build half broom reason stool style damage race off";
