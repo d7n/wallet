@@ -1,1 +1,1 @@
-var mnemonic = "idea raise decide board field used project shock mother vivid tiger clock";
+var mnemonic = "uncover explain kangaroo acoustic verify baby shadow portion liberty cash ahead fetch";

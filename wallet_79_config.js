@@ -1,1 +1,1 @@
-var mnemonic = "cabin dumb oak cluster clever stay dad loan donor enforce light hundred";
+var mnemonic = "accuse toy mention victory clean pave first muscle chef change guard green";

@@ -1,1 +1,1 @@
-var mnemonic = "venue possible time humor diet dog answer sauce shove napkin now remind";
+var mnemonic = "ankle song resource police zero glide monster distance access neutral cabbage tag";

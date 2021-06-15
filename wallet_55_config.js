@@ -1,1 +1,1 @@
-var mnemonic = "satoshi cruise estate pony manual joke trouble bridge flat knee fit cliff";
+var mnemonic = "cart nephew topple monster nut absurd trim tortoise grant snake helmet forget";

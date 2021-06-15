@@ -1,1 +1,1 @@
-var mnemonic = "baby casual lobster ripple chief inch believe gloom coil venue clap supply";
+var mnemonic = "season equal segment pizza kit bachelor donkey often soccer used dawn foil";

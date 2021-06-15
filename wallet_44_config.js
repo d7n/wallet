@@ -1,1 +1,1 @@
-var mnemonic = "emotion witness decline dove chest scene design sphere winner under hybrid strategy";
+var mnemonic = "square wheel extend sort spend memory void outside blouse crisp clap shallow";

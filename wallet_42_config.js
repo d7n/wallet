@@ -1,1 +1,1 @@
-var mnemonic = "never debris original raw sudden hundred begin sketch among oil poet jelly";
+var mnemonic = "loud bracket spoil street have forest arctic live syrup pride please corn";

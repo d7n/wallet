@@ -1,1 +1,1 @@
-var mnemonic = "actress diesel direct regret warrior alcohol boss across tail target drop october";
+var mnemonic = "exit drive among idle negative field predict office remove spot common review";

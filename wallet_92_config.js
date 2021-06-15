@@ -1,1 +1,1 @@
-var mnemonic = "candy that aerobic bike praise neither hurry employ hawk clay someone discover";
+var mnemonic = "august pen actual spring pencil employ twist ocean across joke lizard beyond";

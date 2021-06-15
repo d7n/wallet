@@ -1,1 +1,1 @@
-var mnemonic = "merit journey digital memory width vibrant chunk lab holiday butter day silk";
+var mnemonic = "purse run album mask student dance treat future theory maze axis panda";

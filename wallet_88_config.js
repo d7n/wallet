@@ -1,1 +1,1 @@
-var mnemonic = "wish sign divorce regular inhale kit short road hand party layer icon";
+var mnemonic = "century modify trouble lake insane parrot nasty exist leader situate upon cricket";

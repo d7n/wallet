@@ -1,1 +1,1 @@
-var mnemonic = "surprise move dream garlic cloth surge timber hospital scrub forget lady cinnamon";
+var mnemonic = "pill habit jaguar hunt misery pave silly ocean truth monster client twice";

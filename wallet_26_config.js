@@ -1,1 +1,1 @@
-var mnemonic = "cave end rice prosper crawl long left execute memory armed pond strike";
+var mnemonic = "piece success cabin sausage amateur bike own split security radio stable economy";

@@ -1,1 +1,1 @@
-var mnemonic = "stick bundle tent mind apology inspire despair shuffle grow key point walnut";
+var mnemonic = "science swallow novel parrot gift consider address pear immense measure provide round";

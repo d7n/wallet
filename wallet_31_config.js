@@ -1,1 +1,1 @@
-var mnemonic = "seven load return wrong coral quantum noise melt leader weird delay journey";
+var mnemonic = "series harvest hood breeze route sweet spy vacuum resemble nation velvet zoo";

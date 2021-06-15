@@ -1,1 +1,1 @@
-var mnemonic = "account enlist base erosion salt collect barrel joke motor scrap noodle naive";
+var mnemonic = "husband mule crime empty truth civil payment glue dynamic copper myth vessel";

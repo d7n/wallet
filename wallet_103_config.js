@@ -1,1 +1,1 @@
-var mnemonic = "october economy help happy burden remove author question oven sphere age armor";
+var mnemonic = "off raccoon thunder rail potato system tooth sort silver wolf sail bacon";

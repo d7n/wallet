@@ -1,1 +1,1 @@
-var mnemonic = "short region market sudden key travel depart cool found mammal drift kangaroo";
+var mnemonic = "duck square average dinner slogan price damp kite crystal audit box flash";

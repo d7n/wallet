@@ -1,1 +1,1 @@
-var mnemonic = "crystal old awesome good gravity artwork strike banner cream guide lawn blood";
+var mnemonic = "ice order dune foster fix then nasty farm acquire track file elegant";

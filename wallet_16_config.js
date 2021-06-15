@@ -1,1 +1,1 @@
-var mnemonic = "coconut coast actress bless renew mercy maple wish any bubble twin hat";
+var mnemonic = "anxiety dial choice weasel train object buzz demise junior stem damage worry";

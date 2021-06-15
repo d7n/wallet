@@ -1,1 +1,1 @@
-var mnemonic = "luggage heart ticket derive express scene private february infant spring until bean";
+var mnemonic = "exit multiply wrap quiz exhibit people disorder orange member profit artefact cave";

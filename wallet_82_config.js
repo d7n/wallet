@@ -1,1 +1,1 @@
-var mnemonic = "advance lens away detect grape tragic despair hold time issue stadium decorate";
+var mnemonic = "green pitch hand cluster hard educate install soldier table choose loud fog";

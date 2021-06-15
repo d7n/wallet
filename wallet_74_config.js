@@ -1,1 +1,1 @@
-var mnemonic = "jealous planet nice ancient wink marine debate shift know finger become comfort";
+var mnemonic = "oblige also clay engine sure salon fault fluid enjoy vocal thunder exotic";

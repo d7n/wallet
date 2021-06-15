@@ -1,1 +1,1 @@
-var mnemonic = "muscle muscle jump merry empty clog flat turn ocean picnic chat puzzle";
+var mnemonic = "above day business fringe jump stairs inside ostrich oak lake move firm";

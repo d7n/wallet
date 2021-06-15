@@ -1,1 +1,1 @@
-var mnemonic = "popular confirm march curtain radio poverty say change cargo basic gravity estate";
+var mnemonic = "tower alert pyramid raven nerve water size icon become render awful budget";

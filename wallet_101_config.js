@@ -1,1 +1,1 @@
-var mnemonic = "erupt join final junior impact vicious initial define click guilt swarm dish";
+var mnemonic = "dizzy strategy cool flame journey seek gown warrior enforce purity scrap brick";

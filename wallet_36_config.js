@@ -1,1 +1,1 @@
-var mnemonic = "weird grab syrup heavy sing shaft consider pill future cover exchange check";
+var mnemonic = "desert gossip snack they manual echo debate salute laundry valley rent crowd";

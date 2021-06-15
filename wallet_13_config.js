@@ -1,1 +1,1 @@
-var mnemonic = "myth cage hunt oyster sick feature maze dust release scatter twenty denial";
+var mnemonic = "hour clip sugar unveil cave pitch lunch issue frame year ripple liar";

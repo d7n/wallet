@@ -1,1 +1,1 @@
-var mnemonic = "cheese add regret grant whisper unveil spot okay basket skull dose marble";
+var mnemonic = "trend matter useful iron echo sustain metal debris leopard quick abandon soccer";

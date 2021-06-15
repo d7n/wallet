@@ -1,1 +1,1 @@
-var mnemonic = "stadium outdoor dentist tray fault never good adapt sound guard sniff panther";
+var mnemonic = "exhaust when city heavy metal text punch argue observe offer adjust scare";

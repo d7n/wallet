@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow swarm body prevent gaze silver chapter hole provide mind gold danger";
+var mnemonic = "vote shaft orient observe fine later connect entry illegal forum rose blind";

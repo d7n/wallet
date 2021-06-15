@@ -1,1 +1,1 @@
-var mnemonic = "hammer furnace curtain update hobby hood miss flower rather security scrub uphold";
+var mnemonic = "fiber camera mouse actual toward drill kick vehicle stool motion bicycle cost";

@@ -1,1 +1,1 @@
-var mnemonic = "upper bid pistol match coffee either option dust eyebrow eyebrow update barrel";
+var mnemonic = "music situate away elite frost vibrant shrug reunion before ugly hidden turn";

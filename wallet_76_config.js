@@ -1,1 +1,1 @@
-var mnemonic = "scare brand virtual there foot absorb kiwi future patch library expand option";
+var mnemonic = "treat mesh hamster beyond special frame fault replace churn hundred filter whale";

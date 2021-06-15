@@ -1,1 +1,1 @@
-var mnemonic = "chunk birth tattoo test sustain possible snap parade help invite purpose hungry";
+var mnemonic = "invite quit day lend cruel virus empty narrow luggage settle suggest tired";

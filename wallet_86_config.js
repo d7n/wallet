@@ -1,1 +1,1 @@
-var mnemonic = "connect spider mango cable film recycle can top promote resource club approve";
+var mnemonic = "admit tomorrow obscure pole capable poet minute edit stock wise dragon jaguar";

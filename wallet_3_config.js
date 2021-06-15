@@ -1,1 +1,1 @@
-var mnemonic = "october wall smart property again write random mother when result luxury play";
+var mnemonic = "april south vivid excuse liar tuna myth diamond room deposit correct panic";

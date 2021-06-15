@@ -1,1 +1,1 @@
-var mnemonic = "state ahead dress thing thank gauge inherit very wood company diagram trash";
+var mnemonic = "theory bench island clay horror input lyrics panther moon card minor lounge";

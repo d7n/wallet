@@ -1,1 +1,1 @@
-var mnemonic = "strong old corn borrow slight vocal price warrior flash cook pause sphere";
+var mnemonic = "bulb plastic right unfold pink movie strong catalog kick half eye window";

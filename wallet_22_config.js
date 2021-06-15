@@ -1,1 +1,1 @@
-var mnemonic = "fluid provide slogan skull code script quiz library junk prevent hobby host";
+var mnemonic = "piece tiny water twelve beach juice unfold deer strike heavy pudding release";

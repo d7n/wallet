@@ -1,1 +1,1 @@
-var mnemonic = "stable suit current garbage cactus trust loud invest sunset pet bargain already";
+var mnemonic = "useful purse actor ritual entire gallery interest horn gloom develop salute warfare";

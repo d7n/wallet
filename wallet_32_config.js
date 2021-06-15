@@ -1,1 +1,1 @@
-var mnemonic = "window cable giant wolf cushion vintage proud unusual cruise like innocent meadow";
+var mnemonic = "marriage jeans staff convince alter chest large dentist merit police issue agent";

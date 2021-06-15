@@ -1,1 +1,1 @@
-var mnemonic = "salt beauty tomorrow whisper leisure churn resource miracle talent rely half ankle";
+var mnemonic = "range toilet cloth welcome vanish token derive collect gun certain include manual";

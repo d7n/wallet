@@ -1,1 +1,1 @@
-var mnemonic = "local brave dignity live dentist drum turkey canal cry shed better raven";
+var mnemonic = "ill essay figure stairs suffer bulb fork wedding master festival bar napkin";

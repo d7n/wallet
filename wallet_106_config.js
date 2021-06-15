@@ -1,1 +1,1 @@
-var mnemonic = "share crazy general actor burst genuine swear wet shift baby oppose person";
+var mnemonic = "execute then wrestle air pear fault sustain reject forget bridge matrix trap";

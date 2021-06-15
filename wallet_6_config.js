@@ -1,1 +1,1 @@
-var mnemonic = "chef social bounce will anxiety tuition wine betray urge head struggle lucky";
+var mnemonic = "hello welcome winner loyal behave three angle define tuna disorder admit retire";

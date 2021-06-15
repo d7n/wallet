@@ -1,1 +1,1 @@
-var mnemonic = "parade easy voyage relief sister wrap there unaware pave soon stage notable";
+var mnemonic = "nature voyage expand awful that film income age daughter gold oxygen suggest";

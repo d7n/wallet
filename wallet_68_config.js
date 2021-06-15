@@ -1,1 +1,1 @@
-var mnemonic = "prefer swallow smoke paper eye silk scout spring similar december hip guess";
+var mnemonic = "hotel bulb stamp odor bless model exhibit whisper can illegal profit raise";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp annual rifle brother number praise steel shoot allow cat uniform donkey";
+var mnemonic = "skin trip section recall art crowd slender agent devote barely empower ecology";

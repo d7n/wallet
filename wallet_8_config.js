@@ -1,1 +1,1 @@
-var mnemonic = "august bean dismiss glue plastic hover high math choice morning level tray";
+var mnemonic = "auto subway exit deny frost oppose vacuum hero twin trial priority game";

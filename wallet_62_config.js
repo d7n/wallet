@@ -1,1 +1,1 @@
-var mnemonic = "cousin frost hat whale upset large trade example broom boring cradle merge";
+var mnemonic = "crucial pole winner congress master frozen carry wing rain way book rocket";

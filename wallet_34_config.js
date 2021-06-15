@@ -1,1 +1,1 @@
-var mnemonic = "dragon high member tomato during rotate update purpose diesel genius element dinosaur";
+var mnemonic = "innocent pear pudding firm brown general tornado dutch view delay ice chapter";

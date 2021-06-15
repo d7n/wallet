@@ -1,1 +1,1 @@
-var mnemonic = "want rain episode museum dice million credit rival slot toe accuse seat";
+var mnemonic = "pulse huge human vague miracle peanut unable below grant cause news win";

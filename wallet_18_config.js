@@ -1,1 +1,1 @@
-var mnemonic = "raccoon rally broom host orange fire shadow cry pull illness inch crew";
+var mnemonic = "obtain ten cloud youth spike coin faint long talk burst fiscal ordinary";

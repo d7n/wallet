@@ -1,1 +1,1 @@
-var mnemonic = "autumn manage palace balance shoe reject light pledge imitate pigeon earn park";
+var mnemonic = "route issue guard fence access happy elite chaos fork narrow sunset small";

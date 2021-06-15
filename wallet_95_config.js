@@ -1,1 +1,1 @@
-var mnemonic = "ugly velvet victory arch crunch scatter bonus engine square soldier pole city";
+var mnemonic = "seat excuse carry rotate prevent glass area knock adapt permit pole can";

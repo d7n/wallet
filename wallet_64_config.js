@@ -1,1 +1,1 @@
-var mnemonic = "behave solar permit rural patch release tilt outdoor demand eyebrow venture merit";
+var mnemonic = "senior dose carry tennis extra north hero owner please save genuine monkey";

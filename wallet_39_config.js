@@ -1,1 +1,1 @@
-var mnemonic = "hill valid pill heart sell gaze chapter solar boy dolphin able autumn";
+var mnemonic = "odor adapt festival mammal anger mushroom crucial safe blanket silk adult shove";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity april affair you cycle thrive forum valve federal frozen era tool";
+var mnemonic = "atom cherry address bid stand aware ladder hedgehog attitude setup panda wood";

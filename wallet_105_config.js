@@ -1,1 +1,1 @@
-var mnemonic = "social employ obey witness rug pigeon assist vote hospital undo unusual health";
+var mnemonic = "fancy owner display tissue obtain reopen release hybrid uncle input offer swap";

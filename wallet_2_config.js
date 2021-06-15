@@ -1,1 +1,1 @@
-var mnemonic = "burden concert wedding into stomach bulb person amused keen drive noodle clock";
+var mnemonic = "auto syrup taste online carry hollow journey crack net kick battle common";

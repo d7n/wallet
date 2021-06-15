@@ -1,1 +1,1 @@
-var mnemonic = "rather finger voyage math topple surprise weapon educate sponsor radar forum have";
+var mnemonic = "unfold damage license bring wrist glow harsh alone blossom pet milk despair";

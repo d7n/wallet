@@ -1,1 +1,1 @@
-var mnemonic = "early trophy general cube proud runway funny faculty wear latin word sun";
+var mnemonic = "fragile tell shrimp calm remain thank address next prison simple ski same";

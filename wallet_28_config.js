@@ -1,1 +1,1 @@
-var mnemonic = "custom lion fluid surprise you balcony possible require tube swamp exist snow";
+var mnemonic = "orphan tuna shop alone sweet chest ten wish cause license gap shield";

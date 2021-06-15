@@ -1,1 +1,1 @@
-var mnemonic = "alien spend include erase cushion range amazing horn napkin holiday journey crater";
+var mnemonic = "note crater obscure exclude square inside lizard door breeze hamster ready sorry";

@@ -1,1 +1,1 @@
-var mnemonic = "dash april lazy seven rubber giant wagon ill oyster edit violin trust";
+var mnemonic = "fiction glove course design holiday carry code ethics elder age spirit accuse";

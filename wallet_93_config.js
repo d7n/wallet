@@ -1,1 +1,1 @@
-var mnemonic = "liberty helmet position disorder law fragile rally spirit swear walk fame sudden";
+var mnemonic = "radar vendor north aspect cousin turkey bubble fork north square legend stamp";

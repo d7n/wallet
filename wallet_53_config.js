@@ -1,1 +1,1 @@
-var mnemonic = "resemble cherry shadow airport brush left forget blast crucial inch warrior worry";
+var mnemonic = "canal cute wool puppy glow mixture frost broken imitate lawn immune wire";

@@ -1,1 +1,1 @@
-var mnemonic = "educate faint december judge hero hotel inflict around clock riot slab divide";
+var mnemonic = "tower thunder axis sad dress soon forum season town parent sibling sponsor";

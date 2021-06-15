@@ -1,1 +1,1 @@
-var mnemonic = "slush weather solution disorder bargain oil limit game pupil trouble season major";
+var mnemonic = "culture fruit ridge hire appear suffer brick sleep noise reopen observe tornado";

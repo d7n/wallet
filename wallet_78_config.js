@@ -1,1 +1,1 @@
-var mnemonic = "skull merit model canvas cable domain lamp acquire trust twenty matter strike";
+var mnemonic = "exile jar bottom observe disease provide smart young artwork creek lonely brush";

@@ -1,1 +1,1 @@
-var mnemonic = "only shoot cry borrow decrease recipe jump pizza need post find twist";
+var mnemonic = "measure egg rose this cloth flash clinic digital sauce plate transfer garbage";

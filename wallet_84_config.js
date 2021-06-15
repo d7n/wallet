@@ -1,1 +1,1 @@
-var mnemonic = "fragile slogan often horn pitch ankle injury coil find bubble rack tape";
+var mnemonic = "fiber turtle you equip coin hat gold unfair board clock city alarm";

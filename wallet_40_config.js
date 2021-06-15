@@ -1,1 +1,1 @@
-var mnemonic = "inhale sketch rebuild check december song strike false screen put riot dirt";
+var mnemonic = "chair region photo push tip build inmate error course grass verify age";

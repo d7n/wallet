@@ -1,1 +1,1 @@
-var mnemonic = "clerk congress kitten bottom vital ask mammal ensure oak pole dolphin wolf";
+var mnemonic = "mosquito boss educate thing floor chapter shed emotion mimic mushroom snake purchase";

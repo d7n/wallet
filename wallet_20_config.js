@@ -1,1 +1,1 @@
-var mnemonic = "soft dash timber often deliver group much prevent enough execute arm debris";
+var mnemonic = "parent inherit fuel post jelly develop parrot chaos brush prison student nose";

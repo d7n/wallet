@@ -1,1 +1,1 @@
-var mnemonic = "sight left mango weapon empower unaware genius tenant hard salt maid gap";
+var mnemonic = "cheese bicycle inform number patient bread depth income kind chunk coast network";

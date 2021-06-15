@@ -1,1 +1,1 @@
-var mnemonic = "ability pumpkin gas warm decline again fever scout dentist party repair question";
+var mnemonic = "wink more polar pull battle thunder account hub spy endorse worry coast";

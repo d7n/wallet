@@ -1,1 +1,1 @@
-var mnemonic = "bleak scout letter cart oak trap spice town border flag dutch bachelor";
+var mnemonic = "taste exhibit marble cruise sport gas defy gaze issue wild bridge settle";

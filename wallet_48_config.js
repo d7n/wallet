@@ -1,1 +1,1 @@
-var mnemonic = "capable cluster muffin borrow prize tribe attend spice birth cost permit stuff";
+var mnemonic = "glass scorpion fade gift swap betray illness waste radar autumn monster neck";

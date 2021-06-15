@@ -1,1 +1,1 @@
-var mnemonic = "shy appear snap spell language hub obvious shadow midnight innocent fever bean";
+var mnemonic = "federal want clean left bundle hockey mandate section talk grit excite airport";

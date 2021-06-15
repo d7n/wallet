@@ -1,1 +1,1 @@
-var mnemonic = "nerve tape define will escape run cherry flat before draft coyote nephew";
+var mnemonic = "idea purpose shoot daughter ridge wine expect current upgrade radio cabbage crane";

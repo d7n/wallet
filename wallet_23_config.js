@@ -1,1 +1,1 @@
-var mnemonic = "marine clarify little fatigue stage project brief mesh advance radio grief tennis";
+var mnemonic = "cat diamond six erupt glance skull main find retreat lottery resist salad";

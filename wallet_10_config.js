@@ -1,1 +1,1 @@
-var mnemonic = "enter layer absurd task open weird extra paddle donkey supply coil able";
+var mnemonic = "nephew trick enemy fame evidence runway extra print toilet endorse trick cotton";

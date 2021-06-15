@@ -1,1 +1,1 @@
-var mnemonic = "simple bulk erupt moment never flip tribe rebel fame sing device swear";
+var mnemonic = "farm portion carry theory olympic gaze miracle plastic miss viable misery garbage";

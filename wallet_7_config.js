@@ -1,1 +1,1 @@
-var mnemonic = "flee fancy deliver drama casual replace skull moment globe garlic jelly tail";
+var mnemonic = "hamster amount pulp comic wall three august impulse mouse frog host hammer";

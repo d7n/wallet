@@ -1,1 +1,1 @@
-var mnemonic = "custom stomach worth erosion october box hen pistol dumb frequent local north";
+var mnemonic = "cost news document before frog render kind knife lottery share warm company";

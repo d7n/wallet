@@ -1,1 +1,1 @@
-var mnemonic = "fat prefer satisfy rally move color rich thrive patient enforce decide develop";
+var mnemonic = "win ice kiwi sea finish young eight equip worry license abandon above";

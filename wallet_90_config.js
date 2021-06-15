@@ -1,1 +1,1 @@
-var mnemonic = "jump swap same hand smooth security tourist safe exercise odor gold matter";
+var mnemonic = "collect code student derive stock usual strategy promote jewel hen over surge";

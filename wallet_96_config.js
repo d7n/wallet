@@ -1,1 +1,1 @@
-var mnemonic = "prize fatigue advice sail pluck explain powder kick report keep habit session";
+var mnemonic = "huge busy maid convince loan sleep settle worry swap increase obtain network";

@@ -1,1 +1,1 @@
-var mnemonic = "suit bracket razor collect sleep text afraid damage twist way source license";
+var mnemonic = "profit silk scan apart turtle volcano false fluid cake pigeon unveil occur";

@@ -1,1 +1,1 @@
-var mnemonic = "stool ball pioneer oil mammal photo biology rich winner renew high language";
+var mnemonic = "goat stay decade exotic jungle purse erase charge engage random insect glare";

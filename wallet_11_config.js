@@ -1,1 +1,1 @@
-var mnemonic = "stamp aunt position mercy resource huge walnut hotel rather problem alter daring";
+var mnemonic = "dance bundle faculty mean wish protect leave input story legal flight multiply";

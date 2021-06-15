@@ -1,1 +1,1 @@
-var mnemonic = "cabin office escape vital negative wait metal tuna pattern finger census table";
+var mnemonic = "dream music one guess harsh below connect save ancient lumber bind globe";

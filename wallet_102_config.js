@@ -1,1 +1,1 @@
-var mnemonic = "name lonely topic churn ill odor reform wing base dismiss try daring";
+var mnemonic = "orange depart say muscle educate drama fall seminar concert boring cabbage pyramid";

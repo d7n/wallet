@@ -1,1 +1,1 @@
-var mnemonic = "cage final ride jelly title tissue minimum shoe escape thing margin video";
+var mnemonic = "keen dry region sort knife invest desk fury impact sniff guitar hen";
