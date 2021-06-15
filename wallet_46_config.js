@@ -1,1 +1,1 @@
-var mnemonic = "shock pulp faculty wise toast ramp false mesh promote fish dice trip";
+var mnemonic = "web scatter fruit grunt antique action project refuse sustain amateur baby boring";

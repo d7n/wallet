@@ -1,1 +1,1 @@
-var mnemonic = "slogan arrow cruise garden angle defense inhale arrest royal mountain network smooth";
+var mnemonic = "dog wheat payment weekend stage diesel cancel luxury model lucky fine device";

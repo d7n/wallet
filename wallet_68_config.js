@@ -1,1 +1,1 @@
-var mnemonic = "margin just whisper minimum pull upon achieve upset race fuel wood picnic";
+var mnemonic = "peasant cup culture galaxy soap damp liberty release pizza rabbit rack require";

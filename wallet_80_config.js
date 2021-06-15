@@ -1,1 +1,1 @@
-var mnemonic = "another lava fit absurd mesh kid rhythm defense slam gallery snow clown";
+var mnemonic = "among ecology pool cupboard fork minute heart unhappy era gospel alien enjoy";

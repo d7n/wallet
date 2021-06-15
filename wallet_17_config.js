@@ -1,1 +1,1 @@
-var mnemonic = "orange athlete rely vapor shoe outdoor oil kitchen era valley beach slam";
+var mnemonic = "resource affair idle gravity goddess vicious wine cigar maze already switch room";

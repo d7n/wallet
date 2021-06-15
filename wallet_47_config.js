@@ -1,1 +1,1 @@
-var mnemonic = "exercise gentle opinion dirt solar gain plastic pattern mutual deputy embark punch";
+var mnemonic = "desk someone solution hint antique quarter token share spray twelve sketch design";

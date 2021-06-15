@@ -1,1 +1,1 @@
-var mnemonic = "island awful choose fan since flower attend betray thought fade must actor";
+var mnemonic = "lock rhythm surprise arena pink give tomorrow spike assume oak maximum state";

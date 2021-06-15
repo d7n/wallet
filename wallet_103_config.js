@@ -1,1 +1,1 @@
-var mnemonic = "certain boil begin song easily give welcome broken oven blouse onion width";
+var mnemonic = "taxi spy rural tuition avoid benefit praise rural charge kangaroo monitor option";

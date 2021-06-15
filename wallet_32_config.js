@@ -1,1 +1,1 @@
-var mnemonic = "invest weapon fade reform wash lyrics deposit mesh tourist wrong spoon service";
+var mnemonic = "express ignore either beach tuition drip cricket kingdom either double way must";

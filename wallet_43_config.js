@@ -1,1 +1,1 @@
-var mnemonic = "alley cotton patrol offer miracle vintage approve skill remove vapor easy profit";
+var mnemonic = "pipe giant citizen virus yard damage mention push quality then baby muffin";

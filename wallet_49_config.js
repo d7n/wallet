@@ -1,1 +1,1 @@
-var mnemonic = "fox enough grain basic ugly any ranch pill seed lazy isolate novel";
+var mnemonic = "symptom forum sight banana doll grass mechanic corn between room belt unfair";

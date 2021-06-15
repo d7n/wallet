@@ -1,1 +1,1 @@
-var mnemonic = "stool extend vapor curious anchor drip pave nurse forest jealous suit upon";
+var mnemonic = "mango stamp sort twist broom bunker nature twin lend barrel helmet devote";

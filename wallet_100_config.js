@@ -1,1 +1,1 @@
-var mnemonic = "nurse chuckle extend tunnel capital unit repair stereo author best post artwork";
+var mnemonic = "doll hello pause kingdom carry casino jar arena speed old spice swim";

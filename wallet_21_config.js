@@ -1,1 +1,1 @@
-var mnemonic = "sand bounce garment session success rate argue tobacco rare toss debris viable";
+var mnemonic = "cannon useless horn expire crazy attract poverty august other govern spin also";

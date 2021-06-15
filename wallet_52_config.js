@@ -1,1 +1,1 @@
-var mnemonic = "addict twist deal custom say will forest cricket quantum bid coil aerobic";
+var mnemonic = "invest trim know grab reduce swim hobby loop sing ghost other sound";

@@ -1,1 +1,1 @@
-var mnemonic = "good air double patient album orphan expire fruit search engine dune assist";
+var mnemonic = "garage option original welcome viable earn stool subject cry prefer oppose life";

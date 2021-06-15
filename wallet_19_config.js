@@ -1,1 +1,1 @@
-var mnemonic = "skill trust trick bargain detail sport mansion blame put regular visit ridge";
+var mnemonic = "race coyote trap either number provide palace magic divorce injury shock thank";

@@ -1,1 +1,1 @@
-var mnemonic = "armor wrist steel fault sun nature token success giggle social rude wood";
+var mnemonic = "clever size long tilt solve load affair happy million power flag leg";

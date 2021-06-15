@@ -1,1 +1,1 @@
-var mnemonic = "boost whale engage pride path ridge feed ugly inmate essay exile fault";
+var mnemonic = "page busy reason robot mad castle weasel smoke surface stadium decrease pattern";

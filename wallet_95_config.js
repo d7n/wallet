@@ -1,1 +1,1 @@
-var mnemonic = "glare trigger spy squeeze only disagree place dutch next culture describe total";
+var mnemonic = "fossil annual silver argue resemble olympic robust allow unknown seed asthma immune";

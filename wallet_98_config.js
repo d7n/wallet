@@ -1,1 +1,1 @@
-var mnemonic = "stable lottery argue increase ten grant leg oyster cream draw rail zero";
+var mnemonic = "gain miracle chair hybrid curve piano inmate member birth oppose dinner bomb";

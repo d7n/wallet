@@ -1,1 +1,1 @@
-var mnemonic = "gravity salon struggle acid mule twice rhythm limb mean suggest region thumb";
+var mnemonic = "invest jump inquiry talent what noise machine creek settle media borrow yellow";

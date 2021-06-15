@@ -1,1 +1,1 @@
-var mnemonic = "dwarf nerve bird today brick total buzz benefit clay slush explain hunt";
+var mnemonic = "bulb dog version mechanic tonight pretty rocket avoid satisfy cement reject crew";

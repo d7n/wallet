@@ -1,1 +1,1 @@
-var mnemonic = "ride insane cloud elite blame where example else assume habit hint setup";
+var mnemonic = "shaft guitar gloom entire seven tragic tenant puzzle return install neck blame";

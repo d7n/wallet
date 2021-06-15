@@ -1,1 +1,1 @@
-var mnemonic = "laptop large armor barrel follow mad dentist trigger suit field sustain issue";
+var mnemonic = "rib someone pink kick media arrow tank hungry vast purpose pole fresh";

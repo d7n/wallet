@@ -1,1 +1,1 @@
-var mnemonic = "acoustic august mobile roof announce shrug pledge swift example own ask exit";
+var mnemonic = "increase exchange smile icon arena tower exhibit drift gentle order disorder render";

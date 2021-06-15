@@ -1,1 +1,1 @@
-var mnemonic = "tone mass auction myself magnet sting elder annual worth round relief strike";
+var mnemonic = "wine bread jazz write art quick opinion tunnel sibling process judge strike";

@@ -1,1 +1,1 @@
-var mnemonic = "kitten lemon anchor salmon marine sphere atom define toddler orchard brief level";
+var mnemonic = "crisp broccoli frozen festival half shrimp play average dry scrap rare scissors";

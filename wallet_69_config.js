@@ -1,1 +1,1 @@
-var mnemonic = "stamp teach unaware nominee thumb clerk evil height squeeze genre tank swarm";
+var mnemonic = "run immense minute absorb expose evil surround federal proud kid supply second";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze vintage basket fan nurse velvet disorder conduct gather victory front walnut";
+var mnemonic = "lunar climb spy dish van pretty problem judge cherry pitch desert ask";

@@ -1,1 +1,1 @@
-var mnemonic = "language label joke attract present cheap heavy good expand gospel enable fan";
+var mnemonic = "pretty cable battle disagree rack differ van various win seek west siren";

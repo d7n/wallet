@@ -1,1 +1,1 @@
-var mnemonic = "tape team mutual scan you dragon treat label stem rely cruise error";
+var mnemonic = "catch confirm antique chase approve fragile crush absorb faculty trophy payment fashion";

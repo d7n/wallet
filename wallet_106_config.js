@@ -1,1 +1,1 @@
-var mnemonic = "dragon flower struggle leopard any reduce visit volcano scrap response salute topple";
+var mnemonic = "rule cotton cushion avoid kit will motor clog egg table ramp unknown";

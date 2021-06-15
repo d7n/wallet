@@ -1,1 +1,1 @@
-var mnemonic = "current copper maze ugly climb leopard much session tent picnic stock clarify";
+var mnemonic = "loud shove guide retreat tissue reduce subway marine mechanic pause detail wrestle";

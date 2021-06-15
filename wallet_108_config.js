@@ -1,1 +1,1 @@
-var mnemonic = "floor model duty device fame point hole ball skill company spoil sweet";
+var mnemonic = "round clay control stone sunny wrap capital cram finish cover one vapor";

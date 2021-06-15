@@ -1,1 +1,1 @@
-var mnemonic = "little grab busy jaguar total soda burden pepper pond clog involve horn";
+var mnemonic = "enhance limb mobile current visa pattern orange wagon two walnut wrap bird";

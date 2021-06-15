@@ -1,1 +1,1 @@
-var mnemonic = "win lawsuit nation above garlic despair maze short strategy ivory fog delay";
+var mnemonic = "travel dad mass patient donor scissors knock chaos parrot high inside peace";

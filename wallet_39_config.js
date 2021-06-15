@@ -1,1 +1,1 @@
-var mnemonic = "deposit account hire bracket purity output change attract okay auction panda globe";
+var mnemonic = "pulp coach furnace number multiply tornado little stem enter whisper auto lamp";

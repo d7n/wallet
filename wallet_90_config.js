@@ -1,1 +1,1 @@
-var mnemonic = "desk tackle avoid vicious victory heavy half teach mansion hunt medal surge";
+var mnemonic = "idle car loan antenna neither minor grow urban brisk toilet image convince";

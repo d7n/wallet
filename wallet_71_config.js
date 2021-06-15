@@ -1,1 +1,1 @@
-var mnemonic = "engine physical flight pass cinnamon border dry toast pair inhale sadness minute";
+var mnemonic = "invest team cinnamon surround join small next rigid giant marriage talent enough";

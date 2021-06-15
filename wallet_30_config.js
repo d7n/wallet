@@ -1,1 +1,1 @@
-var mnemonic = "vendor exile nut same aim slide favorite resemble oak adapt lend bronze";
+var mnemonic = "unable evolve master inherit purity day cake balcony glad furnace chest surprise";

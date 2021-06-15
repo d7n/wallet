@@ -1,1 +1,1 @@
-var mnemonic = "term pigeon chair axis voyage response gas survey series thing jazz bridge";
+var mnemonic = "story tongue weekend drill basic siren sausage unlock tube join tattoo produce";

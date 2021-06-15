@@ -1,1 +1,1 @@
-var mnemonic = "novel slogan jar surprise skate reject clump nerve garment cement tired finish";
+var mnemonic = "protect three never vehicle thank ordinary farm cat awful enforce raw minimum";

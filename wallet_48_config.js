@@ -1,1 +1,1 @@
-var mnemonic = "advance glue blossom crystal remain labor account bitter barrel delay hole punch";
+var mnemonic = "crawl enlist magnet drift strategy fit certain involve shine budget oxygen elegant";

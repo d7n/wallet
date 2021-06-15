@@ -1,1 +1,1 @@
-var mnemonic = "evil doctor payment six layer pattern shield where path horror horror sadness";
+var mnemonic = "way true seminar bacon odor cross feature half device order course bamboo";

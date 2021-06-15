@@ -1,1 +1,1 @@
-var mnemonic = "total west kangaroo fancy medal toward radio try limit during census gather";
+var mnemonic = "slim usage vault ski knee barrel wheat travel dog endorse alter wolf";

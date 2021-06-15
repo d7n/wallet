@@ -1,1 +1,1 @@
-var mnemonic = "traffic vanish owner confirm garage lift cloud kiss cook auto sweet decrease";
+var mnemonic = "bread cannon morning memory dumb clever special desk fruit install whip piece";

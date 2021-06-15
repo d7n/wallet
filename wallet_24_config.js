@@ -1,1 +1,1 @@
-var mnemonic = "tree clip adapt educate fiscal real episode owner moon symptom spatial select";
+var mnemonic = "noble they general spatial confirm story ready maple undo network absorb dilemma";

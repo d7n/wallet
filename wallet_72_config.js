@@ -1,1 +1,1 @@
-var mnemonic = "advance local fabric lend sort embrace noodle live whale upper give tumble";
+var mnemonic = "possible shock message upon barely must venue clean want struggle shift earn";

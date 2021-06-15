@@ -1,1 +1,1 @@
-var mnemonic = "emotion heavy broken goose exercise portion slot local pretty unhappy live almost";
+var mnemonic = "border gauge gate oven exile engine hidden chuckle govern method oak ability";

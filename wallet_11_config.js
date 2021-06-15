@@ -1,1 +1,1 @@
-var mnemonic = "soda dove surround ivory spoon shy tilt quantum squirrel total reopen topic";
+var mnemonic = "quote begin taste people joy emotion lion junior raven dizzy aerobic promote";

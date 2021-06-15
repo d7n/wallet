@@ -1,1 +1,1 @@
-var mnemonic = "pony stomach bright spirit pulp step bench rather oxygen maximum weasel off";
+var mnemonic = "course spike palace slush rate matrix void bacon rail hungry divert arrange";

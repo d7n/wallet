@@ -1,1 +1,1 @@
-var mnemonic = "bottom object great powder middle swift toast crop top rug eyebrow fold";
+var mnemonic = "birth boat caution globe choose apart edge assume flat later hotel twin";

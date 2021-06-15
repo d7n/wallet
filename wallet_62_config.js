@@ -1,1 +1,1 @@
-var mnemonic = "rebel basket rail warrior achieve tongue brave kid describe couch dirt scheme";
+var mnemonic = "squirrel elevator draw state duck name silly lunch eye first have tragic";

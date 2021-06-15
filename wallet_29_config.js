@@ -1,1 +1,1 @@
-var mnemonic = "oval banana title dice slide toddler easily chase source predict project merge";
+var mnemonic = "puppy worth pelican left dust twist glue dish student blush fix now";

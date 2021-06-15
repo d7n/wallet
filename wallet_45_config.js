@@ -1,1 +1,1 @@
-var mnemonic = "list work ceiling mention vintage way exclude retire window mammal power tape";
+var mnemonic = "wisdom color use video absurd visit pond subway coconut increase scatter urban";

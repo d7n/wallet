@@ -1,1 +1,1 @@
-var mnemonic = "depart service slow inmate security ribbon enemy brain flee scatter endorse start";
+var mnemonic = "scan key oyster garment saddle crime medal wheel miss news pledge equal";

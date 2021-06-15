@@ -1,1 +1,1 @@
-var mnemonic = "unique donate female rug steel rely shop lab enforce youth cake start";
+var mnemonic = "cruel else victory movie music first embrace caught admit awake measure forward";

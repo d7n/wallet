@@ -1,1 +1,1 @@
-var mnemonic = "beyond company story gossip inject humor weird sausage kick quality clarify salmon";
+var mnemonic = "present gain above truck beach gauge simple boring foot ocean decrease trouble";

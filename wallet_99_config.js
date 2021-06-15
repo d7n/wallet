@@ -1,1 +1,1 @@
-var mnemonic = "verb birth hammer zero crystal oak twelve camp cabin country carpet coil";
+var mnemonic = "soccer honey tape flush myth blame wrap puppy endless evidence rate defense";

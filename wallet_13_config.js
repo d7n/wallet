@@ -1,1 +1,1 @@
-var mnemonic = "solar easy mention solar sea giant trouble average figure pepper rare coyote";
+var mnemonic = "unfair canyon blanket cotton discover east culture nose bid monster trophy company";

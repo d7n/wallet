@@ -1,1 +1,1 @@
-var mnemonic = "casual caught outside swear erupt wrap habit thing offer aim castle steel";
+var mnemonic = "have often stumble borrow spatial swamp prevent help inch approve rebel behind";

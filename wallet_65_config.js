@@ -1,1 +1,1 @@
-var mnemonic = "force pride dirt hollow face click endless opinion seven squeeze pool power";
+var mnemonic = "insane arena green anchor risk describe much stadium answer trap cost enroll";

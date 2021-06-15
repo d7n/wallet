@@ -1,1 +1,1 @@
-var mnemonic = "relax later session ceiling fossil ranch order cancel giggle price tilt quick";
+var mnemonic = "dwarf rug blue mom pride cheap dose siren code gown travel coffee";

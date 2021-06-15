@@ -1,1 +1,1 @@
-var mnemonic = "interest strike account easy rural robot hurdle certain slender side matrix access";
+var mnemonic = "soap movie dirt stumble nose seminar title leaf combine plastic swim silent";

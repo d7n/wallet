@@ -1,1 +1,1 @@
-var mnemonic = "better merge dream huge erosion elder advance chaos wrap limb home lottery";
+var mnemonic = "surround duty absurd pudding soda shrug trash cruise entire blue afford wheat";

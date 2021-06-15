@@ -1,1 +1,1 @@
-var mnemonic = "expose waste scheme tenant expand catalog pact crater enough reject loop peace";
+var mnemonic = "dwarf exist setup armor cream pill item reflect orchard wage between weapon";

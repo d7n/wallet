@@ -1,1 +1,1 @@
-var mnemonic = "arrest approve decline off file urban notable vendor cool kitten detect correct";
+var mnemonic = "filter same wheel trophy walk risk lucky artefact paddle cart range chuckle";

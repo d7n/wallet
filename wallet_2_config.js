@@ -1,1 +1,1 @@
-var mnemonic = "differ predict logic fancy echo night fame model purchase stadium cement answer";
+var mnemonic = "sunset board bring tragic dream alarm utility amount indoor copy remind speak";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin math orphan scale hard nuclear circle leisure disagree law inject bullet";
+var mnemonic = "fade major attend property wing coffee fiber bind trip arch saddle project";

@@ -1,1 +1,1 @@
-var mnemonic = "cargo hard clerk better gadget dirt unveil label smart jar frost extra";
+var mnemonic = "donor minor enjoy leave fun ankle bachelor satisfy equip nasty dinosaur inject";

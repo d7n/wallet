@@ -1,1 +1,1 @@
-var mnemonic = "journey myth genius raise sustain green donkey deposit arm lion buzz abuse";
+var mnemonic = "happy trophy odor symptom rubber poverty stumble engine stereo couple person island";

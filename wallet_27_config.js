@@ -1,1 +1,1 @@
-var mnemonic = "author priority drastic feature school lamp special heavy nature fall predict hat";
+var mnemonic = "sun fortune episode carbon dynamic electric elevator apology wealth neutral airport wealth";

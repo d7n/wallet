@@ -1,1 +1,1 @@
-var mnemonic = "illegal cabin violin wash holiday half early unfair lava basic salad large";
+var mnemonic = "sing rapid marble ramp nephew remember amazing survey unit inform caught switch";

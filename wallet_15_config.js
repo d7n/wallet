@@ -1,1 +1,1 @@
-var mnemonic = "tide solve century fire chef armor denial budget mind spirit humor winner";
+var mnemonic = "bind peasant replace stereo venue aim swarm antique jaguar toe legend mystery";

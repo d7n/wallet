@@ -1,1 +1,1 @@
-var mnemonic = "sauce describe enforce dinosaur acquire tragic race rapid math coffee cart cream";
+var mnemonic = "parrot window enemy agree kiss when birth eyebrow fly senior flash vague";

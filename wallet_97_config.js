@@ -1,1 +1,1 @@
-var mnemonic = "round click achieve crazy doctor eagle acid hood train joy mesh cactus";
+var mnemonic = "cause price space ugly trial okay slow trial announce bachelor raw enough";

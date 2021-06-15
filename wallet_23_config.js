@@ -1,1 +1,1 @@
-var mnemonic = "rotate black soft deputy orbit under pottery weapon seminar age strike isolate";
+var mnemonic = "fortune below diary hazard flock economy service wrestle current orchard fuel toilet";

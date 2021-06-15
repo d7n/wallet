@@ -1,1 +1,1 @@
-var mnemonic = "change lottery screen abuse arrest arrest priority pen silver giant remove satisfy";
+var mnemonic = "leaf dice dilemma medal scorpion turkey kidney guilt update aware pitch dog";

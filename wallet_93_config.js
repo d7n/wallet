@@ -1,1 +1,1 @@
-var mnemonic = "able text car ticket payment grit portion space cake stage exhibit prepare";
+var mnemonic = "anxiety cabbage trap domain lobster poverty laptop captain science language river attract";

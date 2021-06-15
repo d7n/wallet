@@ -1,1 +1,1 @@
-var mnemonic = "sun ring lamp eagle rail jaguar ordinary flee middle salt setup film";
+var mnemonic = "raven want base small tank flip foot dance honey capable swap believe";

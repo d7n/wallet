@@ -1,1 +1,1 @@
-var mnemonic = "despair jungle welcome urban during trophy cause certain charge install claim process";
+var mnemonic = "fitness also love vivid load punch live loud icon unfair math youth";

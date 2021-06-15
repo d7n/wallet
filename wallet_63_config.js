@@ -1,1 +1,1 @@
-var mnemonic = "million snack hobby rapid drastic candy feature unveil cave wreck link cushion";
+var mnemonic = "much genre cup race quit picnic rib scale mobile buyer raccoon reopen";

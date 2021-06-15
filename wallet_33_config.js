@@ -1,1 +1,1 @@
-var mnemonic = "offer pilot wolf remain guide scatter tower address daring sense flash case";
+var mnemonic = "figure welcome negative senior undo clock install regular north fire dolphin curious";

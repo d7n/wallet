@@ -1,1 +1,1 @@
-var mnemonic = "program way where wheat head excuse banana absent message amazing engage wheel";
+var mnemonic = "vintage that struggle rebuild ask debate popular weekend immune cotton festival margin";

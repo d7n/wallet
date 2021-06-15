@@ -1,1 +1,1 @@
-var mnemonic = "valve adapt exile negative immense fun fine chef apart flavor wood clinic";
+var mnemonic = "woman nest latin arrive actual prevent unable capital emotion pigeon burger infant";

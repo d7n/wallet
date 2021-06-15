@@ -1,1 +1,1 @@
-var mnemonic = "exit people sense uniform hidden cricket swamp mule little strong scheme car";
+var mnemonic = "marine obvious weather embark siege chicken blind recycle laundry stove puzzle armor";
