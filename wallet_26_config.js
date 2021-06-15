@@ -1,1 +1,1 @@
-var mnemonic = "quality guilt rug maze rain deny say stick ensure sand comfort path";
+var mnemonic = "lock hair repeat moral know gather crisp shove domain whisper develop tomorrow";

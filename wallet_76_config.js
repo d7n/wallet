@@ -1,1 +1,1 @@
-var mnemonic = "exchange amazing gravity cinnamon chair sauce melody electric pact unusual chaos much";
+var mnemonic = "skin spare nuclear grow breeze glide bag ring awesome fade chest edge";

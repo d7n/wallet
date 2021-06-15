@@ -1,1 +1,1 @@
-var mnemonic = "volume drum fine final into tackle input afraid envelope liberty tattoo easily";
+var mnemonic = "furnace soldier path matrix blanket creek drip style rug end tell retreat";

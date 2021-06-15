@@ -1,1 +1,1 @@
-var mnemonic = "brother nothing solve surprise inmate garbage cram attend edge vehicle gap maple";
+var mnemonic = "vibrant pear saddle open broken finish prize agree convince century piece plug";

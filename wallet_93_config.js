@@ -1,1 +1,1 @@
-var mnemonic = "leg skull brain west piece sketch chalk style suit marine stone atom";
+var mnemonic = "symptom salmon addict fashion rough tortoise gas rotate affair liquid silver whale";

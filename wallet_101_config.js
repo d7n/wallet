@@ -1,1 +1,1 @@
-var mnemonic = "thought digital machine notice mosquito floor steak bracket whip elbow pool culture";
+var mnemonic = "say inmate kid spend stone exhibit inspire inspire sure brick brave churn";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom above autumn hood limb ozone half balcony benefit brisk cement bracket";
+var mnemonic = "move tag salute gather casino eye rebuild limb various logic tackle stadium";

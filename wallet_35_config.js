@@ -1,1 +1,1 @@
-var mnemonic = "subject iron brick easy sunny hub lyrics version brown hire involve tortoise";
+var mnemonic = "city pact gasp oven ghost comfort anchor inherit bird advance foil knee";

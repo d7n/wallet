@@ -1,1 +1,1 @@
-var mnemonic = "staff pipe raven extend nurse display wine also fetch shaft since midnight";
+var mnemonic = "abstract lab fiction develop hazard leaf vehicle much gym cave hawk method";

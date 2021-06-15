@@ -1,1 +1,1 @@
-var mnemonic = "snow enhance humor shock fiber antenna trial make beach sunny stable era";
+var mnemonic = "base bean actress jazz wheat zone orange real source rose effort permit";

@@ -1,1 +1,1 @@
-var mnemonic = "draft absorb click icon library teach easy focus scorpion dynamic jar twin";
+var mnemonic = "gadget large metal actual desert private legal side immune size legal balcony";

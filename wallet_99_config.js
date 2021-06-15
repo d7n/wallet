@@ -1,1 +1,1 @@
-var mnemonic = "life purity fiction now beyond gate width toward problem stem cash obscure";
+var mnemonic = "federal explain clerk hurdle minimum door place remember split antique reject various";

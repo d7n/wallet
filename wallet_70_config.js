@@ -1,1 +1,1 @@
-var mnemonic = "between seed island vault exercise mixed hundred calm middle video oven seminar";
+var mnemonic = "crunch silver client level swamp naive hidden maple settle pluck fuel prevent";

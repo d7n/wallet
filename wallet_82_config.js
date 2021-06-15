@@ -1,1 +1,1 @@
-var mnemonic = "wedding lawsuit call observe mixed defense usage sick orient enlist pink warfare";
+var mnemonic = "ice addict couch tone sphere candy name ranch exist assault verb rather";

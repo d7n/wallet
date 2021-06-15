@@ -1,1 +1,1 @@
-var mnemonic = "cotton monkey bid stick digital viable forum detail very poem tray favorite";
+var mnemonic = "quarter fringe require truth uniform scare tuna attend peace arm symbol sing";

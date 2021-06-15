@@ -1,1 +1,1 @@
-var mnemonic = "walnut clip dose pumpkin worry deliver hurt load zebra party fringe energy";
+var mnemonic = "wreck odor must elite evolve season sudden piano open chunk very annual";

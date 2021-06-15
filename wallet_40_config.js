@@ -1,1 +1,1 @@
-var mnemonic = "bike depart forest unhappy where join make couch solve tunnel author used";
+var mnemonic = "protect regret hockey fit empower nut gate satisfy dizzy coyote cluster size";

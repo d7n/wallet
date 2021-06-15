@@ -1,1 +1,1 @@
-var mnemonic = "spice embrace feel document catch asset twice jewel sniff brave yard review";
+var mnemonic = "vague cactus orphan protect entire hybrid woman cram acoustic federal chief cram";

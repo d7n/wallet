@@ -1,1 +1,1 @@
-var mnemonic = "share excuse rival blue enforce special renew logic machine harvest nest wasp";
+var mnemonic = "slab anxiety primary mercy mountain era maid artefact sun address bicycle used";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony north luxury story ocean used old fee home write they patient";
+var mnemonic = "slow auction ask fossil choice wear impact isolate doll junk final forest";

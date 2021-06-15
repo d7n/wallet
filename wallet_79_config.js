@@ -1,1 +1,1 @@
-var mnemonic = "urban travel patient toss glad virus flip february harsh cheese flame race";
+var mnemonic = "snack kitchen stick mistake acoustic early jump elevator glad picnic carpet adult";

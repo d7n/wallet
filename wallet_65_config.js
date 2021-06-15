@@ -1,1 +1,1 @@
-var mnemonic = "long inner alcohol autumn stool kick transfer prefer chest hip match teach";
+var mnemonic = "scissors unknown health raise market reunion large conduct during marriage oval sponsor";

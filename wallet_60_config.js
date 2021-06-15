@@ -1,1 +1,1 @@
-var mnemonic = "siege aunt reason hobby offer farm olympic devote choose lesson axis under";
+var mnemonic = "pink debate secret obscure custom trap assist okay garbage fitness beef drill";

@@ -1,1 +1,1 @@
-var mnemonic = "west asset dry armed utility tomorrow category evidence candy situate post hard";
+var mnemonic = "scan south upper window travel digital dish space hurry planet fame pilot";

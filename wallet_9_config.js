@@ -1,1 +1,1 @@
-var mnemonic = "minimum birth tragic tunnel inch forward silent chef fall regret mirror whale";
+var mnemonic = "sweet pitch mouse feature amused taste theory sorry deposit deer forum shoulder";

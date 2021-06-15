@@ -1,1 +1,1 @@
-var mnemonic = "dignity two hover front weird trim retreat two frozen cash disagree defense";
+var mnemonic = "dutch friend flat spy term choice trial final crowd huge shy file";

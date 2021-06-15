@@ -1,1 +1,1 @@
-var mnemonic = "brown hill vapor patient poet three pelican private bird conduct shine reveal";
+var mnemonic = "diesel shoulder farm deposit dirt muscle maze blush acid pet repair depend";

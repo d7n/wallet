@@ -1,1 +1,1 @@
-var mnemonic = "novel real second scan birth robot fit thumb circle worth pulp want";
+var mnemonic = "spice private kitten also loop strong breeze scale brass unlock release such";

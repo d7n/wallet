@@ -1,1 +1,1 @@
-var mnemonic = "march inspire group worth exhaust leg release mammal discover upgrade left system";
+var mnemonic = "hammer travel extend belt often wrap control hybrid pizza grain wear mixture";

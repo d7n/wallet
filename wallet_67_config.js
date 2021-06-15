@@ -1,1 +1,1 @@
-var mnemonic = "cabbage room real include ask blouse valley approve find tongue drama anger";
+var mnemonic = "inch cram size sting category creek item jealous there sweet chimney fetch";

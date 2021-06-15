@@ -1,1 +1,1 @@
-var mnemonic = "toward ship foam attend security account seek chalk clerk battle visual game";
+var mnemonic = "wire march sight birth acid song gauge relax yellow never divert cloud";

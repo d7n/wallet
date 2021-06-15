@@ -1,1 +1,1 @@
-var mnemonic = "snake story blush wish pluck inquiry sudden nice speed diary spice omit";
+var mnemonic = "draw list tiger bring shift name vital erupt merit subway crouch quick";

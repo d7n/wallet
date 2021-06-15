@@ -1,1 +1,1 @@
-var mnemonic = "forest swift tackle hip carpet plastic crumble middle surround layer turtle aunt";
+var mnemonic = "tree stay relief pass hamster pair rich lawsuit episode comfort vacant supply";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage boil average emerge abandon alien spider vicious egg drum million sustain";
+var mnemonic = "copy nephew shoe hungry cram slender spoil seven select hub science impulse";

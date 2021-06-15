@@ -1,1 +1,1 @@
-var mnemonic = "canyon excite rural exist venture ritual drill aim awful found kick follow";
+var mnemonic = "fun hour physical plastic host finger grace sport cabbage ignore icon drastic";

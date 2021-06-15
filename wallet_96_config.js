@@ -1,1 +1,1 @@
-var mnemonic = "mercy rice trend harsh know blade swarm away spare morning knock six";
+var mnemonic = "enter base school frown simple choice medal fiber inform borrow sad jar";

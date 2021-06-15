@@ -1,1 +1,1 @@
-var mnemonic = "detect task waste enjoy domain party ankle leave enter dragon paper settle";
+var mnemonic = "state forward coin pact garden moon fringe left turkey rigid carpet jaguar";

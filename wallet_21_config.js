@@ -1,1 +1,1 @@
-var mnemonic = "donor warrior first empty lemon brisk journey torch walnut month tuna blur";
+var mnemonic = "vacuum twist indoor exit adapt adjust slender curious segment maple immune room";

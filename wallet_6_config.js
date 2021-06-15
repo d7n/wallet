@@ -1,1 +1,1 @@
-var mnemonic = "leisure abandon whip tray process magnet upper ask short globe fever fault";
+var mnemonic = "crowd arch someone dove average vintage because polar obtain feel cricket thank";

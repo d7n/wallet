@@ -1,1 +1,1 @@
-var mnemonic = "deputy caution twelve donate fiscal doll retire rely logic rigid yellow purity";
+var mnemonic = "firm system quick upper ship comic balcony erode cement very prevent panel";

@@ -1,1 +1,1 @@
-var mnemonic = "learn luxury champion know daring solve bless include saddle deer ceiling fuel";
+var mnemonic = "enlist bean duck ask fame craft upon submit silver year major double";

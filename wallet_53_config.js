@@ -1,1 +1,1 @@
-var mnemonic = "decline luggage strike slide easy else tourist canal fiber grant sausage miracle";
+var mnemonic = "check surge uncle crop seat abstract cannon pyramid horse fame device any";

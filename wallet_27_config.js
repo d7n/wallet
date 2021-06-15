@@ -1,1 +1,1 @@
-var mnemonic = "sugar leader jump predict huge antique post toast maple taste midnight nice";
+var mnemonic = "artefact tell age fire curtain review vote very cage sunset speak advice";

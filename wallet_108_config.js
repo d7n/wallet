@@ -1,1 +1,1 @@
-var mnemonic = "embody oxygen gate option farm off grocery ginger brain enter absent decrease";
+var mnemonic = "universe bamboo jealous below hero cinnamon behind dragon purse burst tobacco tortoise";

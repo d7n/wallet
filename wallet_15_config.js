@@ -1,1 +1,1 @@
-var mnemonic = "stamp love fatigue gallery side roast away razor maximum fiber betray thrive";
+var mnemonic = "frown angle pact curious donate vapor there talent butter distance mouse sustain";

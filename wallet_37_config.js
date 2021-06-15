@@ -1,1 +1,1 @@
-var mnemonic = "gloom rather antenna payment fish squeeze keen antenna pear captain hint young";
+var mnemonic = "spot point wheel hover hamster chunk agree one gallery team gospel chef";

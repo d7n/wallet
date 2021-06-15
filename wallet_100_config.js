@@ -1,1 +1,1 @@
-var mnemonic = "old evil brand taste casual turtle elephant supply soft bounce orange unhappy";
+var mnemonic = "figure act cargo device correct label dinosaur sign weather among thank example";

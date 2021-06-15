@@ -1,1 +1,1 @@
-var mnemonic = "cotton weasel news include afraid spin deputy reject pyramid shoot slight siege";
+var mnemonic = "silver chimney deliver evidence ostrich loop double labor venue inherit apology uncle";

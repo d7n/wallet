@@ -1,1 +1,1 @@
-var mnemonic = "sail fan field entry forward decorate tattoo capital journey inflict slender myth";
+var mnemonic = "silly dentist come token mesh receive medal program tobacco pipe broom example";

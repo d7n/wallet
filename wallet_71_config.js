@@ -1,1 +1,1 @@
-var mnemonic = "wish this cigar brass portion quarter mule apple card green toast three";
+var mnemonic = "scare style fan comic clump ceiling visual talent mirror oil mix bone";

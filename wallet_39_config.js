@@ -1,1 +1,1 @@
-var mnemonic = "nurse boss then soda arena gossip gentle family fork eyebrow acquire slab";
+var mnemonic = "lunch nurse coyote trust snack matter jump armor begin satoshi warfare quantum";

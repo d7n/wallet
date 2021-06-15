@@ -1,1 +1,1 @@
-var mnemonic = "lab basket upper clever siege smooth gap shrimp cause secret else stock";
+var mnemonic = "high twenty window small kangaroo caught bird emerge east pluck talent indoor";

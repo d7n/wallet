@@ -1,1 +1,1 @@
-var mnemonic = "hat family bulk cricket join fit odor convince ocean bacon fresh black";
+var mnemonic = "finish accident candy habit doll energy solution electric elder hunt dog unfair";

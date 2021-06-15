@@ -1,1 +1,1 @@
-var mnemonic = "cube left turn poem sort effort cream plate blast eagle someone kidney";
+var mnemonic = "elder bird seek bleak illegal stumble response lock prize expand surround broken";

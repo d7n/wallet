@@ -1,1 +1,1 @@
-var mnemonic = "amount immense dirt divorce crane spirit wisdom ski spread check lunch evil";
+var mnemonic = "cabin describe cube solution enable second transfer cake process jeans dirt fly";

@@ -1,1 +1,1 @@
-var mnemonic = "reject permit scare misery flip seek universe quit jacket today day token";
+var mnemonic = "divert unique carpet diesel banner unique wedding evil sketch any defense benefit";

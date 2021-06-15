@@ -1,1 +1,1 @@
-var mnemonic = "cook goose frog today alcohol across east syrup candy sorry pen dish";
+var mnemonic = "famous special improve field anger post acoustic rain congress pass medal sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "rate dress world hawk leader reason heart exhibit breeze hospital until monkey";
+var mnemonic = "visa victory spring escape wink february volume vehicle cute skate office expire";

@@ -1,1 +1,1 @@
-var mnemonic = "ready differ quantum galaxy web cancel million hen quick tray together odor";
+var mnemonic = "injury side eagle profit capable sunny path steel chalk august betray usage";

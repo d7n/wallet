@@ -1,1 +1,1 @@
-var mnemonic = "coyote cheese lounge scale isolate teach obscure uncle staff picture taste gauge";
+var mnemonic = "ahead topic ski dust post jeans tool lobster off pupil adapt pitch";

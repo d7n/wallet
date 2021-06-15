@@ -1,1 +1,1 @@
-var mnemonic = "price volcano satoshi tornado stem topic myth toy shoulder economy caution parent";
+var mnemonic = "post adapt excess weather vessel people joy tornado machine foster rent real";

@@ -1,1 +1,1 @@
-var mnemonic = "distance swap hip scout armor certain salute guide canvas purse domain hurry";
+var mnemonic = "loud ghost style dismiss merge tennis artefact van shoulder session powder sniff";

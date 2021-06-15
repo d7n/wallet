@@ -1,1 +1,1 @@
-var mnemonic = "park desert insect opinion scrub illness predict install parade waste fly chicken";
+var mnemonic = "twelve retire rural tower perfect pact monitor sail number pull path under";

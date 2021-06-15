@@ -1,1 +1,1 @@
-var mnemonic = "level mistake vibrant defense review dutch cost blue breeze radar drum frame";
+var mnemonic = "plug sell crash dove cricket will dose coconut aisle edit another foam";

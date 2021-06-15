@@ -1,1 +1,1 @@
-var mnemonic = "disagree small pioneer gadget bag suggest theory hurdle wolf proud juice bubble";
+var mnemonic = "before bridge shoulder silly task valve slight sketch warm nerve fantasy pond";

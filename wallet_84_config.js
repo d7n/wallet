@@ -1,1 +1,1 @@
-var mnemonic = "width parade major desert faculty harbor mercy bulk fold sphere useless mass";
+var mnemonic = "axis super feed number river lecture divorce room man train bless mango";

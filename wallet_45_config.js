@@ -1,1 +1,1 @@
-var mnemonic = "rich hope foster panther depend address attend celery master purchase device tower";
+var mnemonic = "flush evolve dumb crumble method engine use differ expire joke produce crash";

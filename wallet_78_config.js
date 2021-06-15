@@ -1,1 +1,1 @@
-var mnemonic = "conduct bounce spirit fashion cousin donkey tenant cat calm engine purse earth";
+var mnemonic = "drive couch fantasy canoe peasant worth start kitten pioneer limit unit extend";

@@ -1,1 +1,1 @@
-var mnemonic = "door leader bounce crunch knock frog salmon reason fresh reopen salt employ";
+var mnemonic = "famous slab provide proof mountain once object wrestle symptom item extra size";

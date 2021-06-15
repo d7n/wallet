@@ -1,1 +1,1 @@
-var mnemonic = "unit actual fancy margin measure silver punch panel jewel cargo salon curious";
+var mnemonic = "spice eternal canyon cushion vanish length betray host guard process question present";

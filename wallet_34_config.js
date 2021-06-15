@@ -1,1 +1,1 @@
-var mnemonic = "member craft tide chase nurse earn tornado dynamic elevator weird snap table";
+var mnemonic = "year country relax neck badge group limit clerk wood fox drastic protect";

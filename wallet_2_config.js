@@ -1,1 +1,1 @@
-var mnemonic = "mansion balcony glide end small cage vicious minimum lecture develop skirt trial";
+var mnemonic = "almost sketch enhance city carbon next limit horror make turn goat point";

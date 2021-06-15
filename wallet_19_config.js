@@ -1,1 +1,1 @@
-var mnemonic = "confirm derive rich power snake skill crew seed primary inmate hand sustain";
+var mnemonic = "doctor tornado approve captain manual desk fiction bubble swamp junior expect faint";

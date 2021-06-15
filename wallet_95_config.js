@@ -1,1 +1,1 @@
-var mnemonic = "skill office decade acquire lecture drama adjust remain rain people dinosaur urge";
+var mnemonic = "arena smoke identify minute sun mixture gloom exact element cram normal verify";

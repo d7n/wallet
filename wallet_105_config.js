@@ -1,1 +1,1 @@
-var mnemonic = "round rib pink video farm two pattern despair drum float option mean";
+var mnemonic = "blossom predict virtual claim such glow hub solution pudding loop allow rookie";

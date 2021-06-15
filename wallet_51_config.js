@@ -1,1 +1,1 @@
-var mnemonic = "oval suggest lesson woman circle vessel token pear prepare breeze unknown diesel";
+var mnemonic = "flame advance age jacket immense plunge quote universe flock feel busy bind";

@@ -1,1 +1,1 @@
-var mnemonic = "equal rack nerve peasant giraffe act cook sock monkey gravity visa slush";
+var mnemonic = "cannon crater hope calm energy pact breeze execute canvas lab action length";

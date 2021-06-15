@@ -1,1 +1,1 @@
-var mnemonic = "act crash royal robust leave hurry soccer price gain message display add";
+var mnemonic = "amateur reward pelican item sponsor dirt duck toe swear coral clap hunt";

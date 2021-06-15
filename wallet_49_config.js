@@ -1,1 +1,1 @@
-var mnemonic = "fabric draft essay minor keep winner way shoe faint envelope stone sight";
+var mnemonic = "maximum van august cherry anger dry afraid junior silk clip hope excess";

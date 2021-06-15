@@ -1,1 +1,1 @@
-var mnemonic = "quality noodle purse glue resist marine obvious giggle spot leave seek stick";
+var mnemonic = "pistol like scorpion beyond leopard profit divorce bracket sing kite rack royal";

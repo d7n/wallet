@@ -1,1 +1,1 @@
-var mnemonic = "easy load screen fan deliver stand tide forward alcohol save original daughter";
+var mnemonic = "witness cause pipe prison use sock audit slice luxury army reject dragon";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage anchor hand food gasp wasp dignity prepare tortoise slam kick warfare";
+var mnemonic = "depth nuclear ready poverty inch airport jacket glory festival economy install city";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol despair nation use grab feel depend drastic pulp layer chicken curve";
+var mnemonic = "roof nest unit curtain tape dynamic three upon asset staff salon gauge";
