@@ -1,1 +1,1 @@
-var mnemonic = "fuel target seek device maze pen text fame nasty say wash maple";
+var mnemonic = "skill office decade acquire lecture drama adjust remain rain people dinosaur urge";

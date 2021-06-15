@@ -1,1 +1,1 @@
-var mnemonic = "lava hurt obscure focus buzz situate mixture trial shine bullet spend tape";
+var mnemonic = "wish this cigar brass portion quarter mule apple card green toast three";

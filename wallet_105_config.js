@@ -1,1 +1,1 @@
-var mnemonic = "notice relief mesh weekend welcome wrist recall license grit attitude reject lecture";
+var mnemonic = "round rib pink video farm two pattern despair drum float option mean";

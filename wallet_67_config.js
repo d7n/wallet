@@ -1,1 +1,1 @@
-var mnemonic = "quality faculty scatter used hurdle prosper common magic plunge weather seven laugh";
+var mnemonic = "cabbage room real include ask blouse valley approve find tongue drama anger";

@@ -1,1 +1,1 @@
-var mnemonic = "alter video trim marble talent indoor odor win movie trial retreat have";
+var mnemonic = "equal rack nerve peasant giraffe act cook sock monkey gravity visa slush";

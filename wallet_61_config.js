@@ -1,1 +1,1 @@
-var mnemonic = "old harsh utility mansion pilot between seat gossip seek tunnel venture pencil";
+var mnemonic = "sudden smart actress best file breeze segment put kiss exhibit earn hire";

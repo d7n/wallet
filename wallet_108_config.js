@@ -1,1 +1,1 @@
-var mnemonic = "hidden cigar robot copy unaware unknown pottery key stable prepare tragic promote";
+var mnemonic = "embody oxygen gate option farm off grocery ginger brain enter absent decrease";

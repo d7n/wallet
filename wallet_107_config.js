@@ -1,1 +1,1 @@
-var mnemonic = "load define access flee fog detect menu later brick sail around laugh";
+var mnemonic = "reject permit scare misery flip seek universe quit jacket today day token";

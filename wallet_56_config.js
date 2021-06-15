@@ -1,1 +1,1 @@
-var mnemonic = "pet glad mountain ugly security video awkward service list latin shed rate";
+var mnemonic = "walnut clip dose pumpkin worry deliver hurt load zebra party fringe energy";

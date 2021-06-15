@@ -1,1 +1,1 @@
-var mnemonic = "network sun solar sand firm street three arch lazy soccer moon spike";
+var mnemonic = "pear boat debate trial home suggest rare normal one cook vicious zebra";

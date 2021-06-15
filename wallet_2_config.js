@@ -1,1 +1,1 @@
-var mnemonic = "source ten picnic paddle motor below only trip move design flag million";
+var mnemonic = "mansion balcony glide end small cage vicious minimum lecture develop skirt trial";

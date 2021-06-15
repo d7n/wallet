@@ -1,1 +1,1 @@
-var mnemonic = "universe later hunt trophy glance time wait tag verb almost inside mango";
+var mnemonic = "cotton monkey bid stick digital viable forum detail very poem tray favorite";

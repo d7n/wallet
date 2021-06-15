@@ -1,1 +1,1 @@
-var mnemonic = "vital drama best hotel humor bachelor tumble glue staff negative zero dizzy";
+var mnemonic = "learn luxury champion know daring solve bless include saddle deer ceiling fuel";

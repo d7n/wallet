@@ -1,1 +1,1 @@
-var mnemonic = "unfair clay layer wool act enhance organ grid clump develop glory change";
+var mnemonic = "tongue fossil brand alpha merry cash draw giggle grass chuckle bread sorry";

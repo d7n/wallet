@@ -1,1 +1,1 @@
-var mnemonic = "inform alley coin runway solve service move eight require promote bike ensure";
+var mnemonic = "ready differ quantum galaxy web cancel million hen quick tray together odor";

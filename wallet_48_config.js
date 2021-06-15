@@ -1,1 +1,1 @@
-var mnemonic = "boss castle economy sweet world salad mom under vast love visa have";
+var mnemonic = "rate dress world hawk leader reason heart exhibit breeze hospital until monkey";

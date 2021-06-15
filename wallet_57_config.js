@@ -1,1 +1,1 @@
-var mnemonic = "script choose matter hundred funny donkey shop buffalo sting surge school razor";
+var mnemonic = "park desert insect opinion scrub illness predict install parade waste fly chicken";

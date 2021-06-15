@@ -1,1 +1,1 @@
-var mnemonic = "reflect cat olive desert about furnace debris oil purity wrist depend glimpse";
+var mnemonic = "brown hill vapor patient poet three pelican private bird conduct shine reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "hip tree obvious wash alarm torch debate party sentence object quality dress";
+var mnemonic = "garbage anchor hand food gasp wasp dignity prepare tortoise slam kick warfare";

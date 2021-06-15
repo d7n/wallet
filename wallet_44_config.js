@@ -1,1 +1,1 @@
-var mnemonic = "crowd benefit giggle canyon accident cheap climb depart true charge trigger still";
+var mnemonic = "source still false blue tape craft pumpkin yellow army other kit unusual";

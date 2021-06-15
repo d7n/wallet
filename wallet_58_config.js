@@ -1,1 +1,1 @@
-var mnemonic = "pupil treat route lock era night furnace carpet mimic profit pigeon cook";
+var mnemonic = "detect task waste enjoy domain party ankle leave enter dragon paper settle";

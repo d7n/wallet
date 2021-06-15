@@ -1,1 +1,1 @@
-var mnemonic = "hip ramp novel denial liberty trouble annual help goat dismiss round brief";
+var mnemonic = "cotton weasel news include afraid spin deputy reject pyramid shoot slight siege";

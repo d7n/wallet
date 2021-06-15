@@ -1,1 +1,1 @@
-var mnemonic = "verb differ lemon coffee rude sustain fringe banner senior imitate chase practice";
+var mnemonic = "gloom rather antenna payment fish squeeze keen antenna pear captain hint young";

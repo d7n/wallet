@@ -1,1 +1,1 @@
-var mnemonic = "skin old cause gospel setup praise tank garden heavy winner dirt taste";
+var mnemonic = "novel real second scan birth robot fit thumb circle worth pulp want";

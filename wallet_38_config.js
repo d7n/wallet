@@ -1,1 +1,1 @@
-var mnemonic = "time session syrup uncover empower steel twenty head time lava blade nasty";
+var mnemonic = "adult narrow spoon creek search trend jazz bunker motor sudden eternal height";

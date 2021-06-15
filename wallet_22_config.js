@@ -1,1 +1,1 @@
-var mnemonic = "whale cactus blast quote spatial tool kite draw agree three deliver guard";
+var mnemonic = "balcony north luxury story ocean used old fee home write they patient";

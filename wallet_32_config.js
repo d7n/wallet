@@ -1,1 +1,1 @@
-var mnemonic = "noise hurdle camera sunset glove demise rose nephew feature dish brick crane";
+var mnemonic = "draft absorb click icon library teach easy focus scorpion dynamic jar twin";

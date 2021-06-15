@@ -1,1 +1,1 @@
-var mnemonic = "mesh borrow evoke neck emerge dove pony trophy antique what knock choice";
+var mnemonic = "hat family bulk cricket join fit odor convince ocean bacon fresh black";

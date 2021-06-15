@@ -1,1 +1,1 @@
-var mnemonic = "crowd virus coil kidney board hello verify frequent donkey prepare ability salt";
+var mnemonic = "sail fan field entry forward decorate tattoo capital journey inflict slender myth";

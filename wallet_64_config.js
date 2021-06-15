@@ -1,1 +1,1 @@
-var mnemonic = "diet arrest myth spoon slight ice segment hybrid tongue utility wise please";
+var mnemonic = "distance swap hip scout armor certain salute guide canvas purse domain hurry";

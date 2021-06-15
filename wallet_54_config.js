@@ -1,1 +1,1 @@
-var mnemonic = "employ document hurt lend digital goddess escape jewel length bus topple danger";
+var mnemonic = "husband team arch kitchen quality order save long kitten robust quiz page";

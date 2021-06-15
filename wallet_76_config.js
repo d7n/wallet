@@ -1,1 +1,1 @@
-var mnemonic = "weather eagle harbor ridge rescue truth bless uphold road give hope system";
+var mnemonic = "exchange amazing gravity cinnamon chair sauce melody electric pact unusual chaos much";

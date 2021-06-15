@@ -1,1 +1,1 @@
-var mnemonic = "panic spring pony lamp slow admit arm pattern ship security lucky sense";
+var mnemonic = "noodle spider there avoid total point timber slot ticket high dawn machine";

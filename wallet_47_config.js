@@ -1,1 +1,1 @@
-var mnemonic = "spring garment source october author detect gesture shell merge night state clip";
+var mnemonic = "cube left turn poem sort effort cream plate blast eagle someone kidney";

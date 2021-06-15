@@ -1,1 +1,1 @@
-var mnemonic = "segment burden appear witness skirt injury lonely silk doctor birth calm march";
+var mnemonic = "confirm derive rich power snake skill crew seed primary inmate hand sustain";

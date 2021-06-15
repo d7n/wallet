@@ -1,1 +1,1 @@
-var mnemonic = "lens mouse admit shine frost nest wonder stand access engage feel captain";
+var mnemonic = "subject iron brick easy sunny hub lyrics version brown hire involve tortoise";

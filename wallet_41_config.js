@@ -1,1 +1,1 @@
-var mnemonic = "damage cousin track ethics dynamic pepper lecture river legal caught goose arrest";
+var mnemonic = "forest swift tackle hip carpet plastic crumble middle surround layer turtle aunt";

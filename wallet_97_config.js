@@ -1,1 +1,1 @@
-var mnemonic = "ginger start stable salt addict spread mad expire space trumpet result defy";
+var mnemonic = "near bachelor stem adapt because wagon various usage parent sad clip crime";

@@ -1,1 +1,1 @@
-var mnemonic = "what rely loyal pair stereo room play cruise river alien comic wink";
+var mnemonic = "door leader bounce crunch knock frog salmon reason fresh reopen salt employ";

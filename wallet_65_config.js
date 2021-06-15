@@ -1,1 +1,1 @@
-var mnemonic = "about welcome wise other room math aerobic grunt pole fluid exclude essence";
+var mnemonic = "long inner alcohol autumn stool kick transfer prefer chest hip match teach";

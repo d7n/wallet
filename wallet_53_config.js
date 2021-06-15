@@ -1,1 +1,1 @@
-var mnemonic = "skill believe then plate age invest ugly toilet deposit clog tunnel garment";
+var mnemonic = "decline luggage strike slide easy else tourist canal fiber grant sausage miracle";

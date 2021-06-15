@@ -1,1 +1,1 @@
-var mnemonic = "feed analyst melody cherry depth include exile crew cupboard trust jewel brick";
+var mnemonic = "minimum birth tragic tunnel inch forward silent chef fall regret mirror whale";

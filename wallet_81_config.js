@@ -1,1 +1,1 @@
-var mnemonic = "token damage radio mechanic forward trust denial wait sibling observe around quick";
+var mnemonic = "deputy caution twelve donate fiscal doll retire rely logic rigid yellow purity";

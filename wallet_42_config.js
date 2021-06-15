@@ -1,1 +1,1 @@
-var mnemonic = "exhibit track humble distance green fish island north pink evoke simple double";
+var mnemonic = "student bullet spike space test barely angry wasp flat man hotel profit";

@@ -1,1 +1,1 @@
-var mnemonic = "caught way tennis usual cup bamboo trick duck bone brisk better ramp";
+var mnemonic = "siege aunt reason hobby offer farm olympic devote choose lesson axis under";

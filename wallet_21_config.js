@@ -1,1 +1,1 @@
-var mnemonic = "team annual weapon rapid bulb mammal asthma become gospel explain blood control";
+var mnemonic = "donor warrior first empty lemon brisk journey torch walnut month tuna blur";

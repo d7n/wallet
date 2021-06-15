@@ -1,1 +1,1 @@
-var mnemonic = "oblige kite spin auto steak teach cause cabin gather finger perfect light";
+var mnemonic = "march inspire group worth exhaust leg release mammal discover upgrade left system";

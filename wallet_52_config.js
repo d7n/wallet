@@ -1,1 +1,1 @@
-var mnemonic = "erupt field pass time crucial joy possible nut desk husband nature sound";
+var mnemonic = "mushroom above autumn hood limb ozone half balcony benefit brisk cement bracket";

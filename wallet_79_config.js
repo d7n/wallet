@@ -1,1 +1,1 @@
-var mnemonic = "two betray chronic eyebrow humor major habit never chase leisure snack thought";
+var mnemonic = "urban travel patient toss glad virus flip february harsh cheese flame race";

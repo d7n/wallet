@@ -1,1 +1,1 @@
-var mnemonic = "output trigger replace supply scan weapon ranch frequent until mule announce basic";
+var mnemonic = "dignity two hover front weird trim retreat two frozen cash disagree defense";

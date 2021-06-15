@@ -1,1 +1,1 @@
-var mnemonic = "report resource warm drama giraffe rule bleak elder expire discover miracle potato";
+var mnemonic = "old evil brand taste casual turtle elephant supply soft bounce orange unhappy";

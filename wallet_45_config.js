@@ -1,1 +1,1 @@
-var mnemonic = "crucial audit frog thing rely rail canal fire sister direct october toddler";
+var mnemonic = "rich hope foster panther depend address attend celery master purchase device tower";

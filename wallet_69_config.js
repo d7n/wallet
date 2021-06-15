@@ -1,1 +1,1 @@
-var mnemonic = "design kite entry advice measure quiz team leaf walk long brand vendor";
+var mnemonic = "october beauty because bronze link bitter soda image iron artefact poet pill";

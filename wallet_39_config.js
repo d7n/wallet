@@ -1,1 +1,1 @@
-var mnemonic = "butter element audit cool owner believe strike orbit believe furnace frost syrup";
+var mnemonic = "nurse boss then soda arena gossip gentle family fork eyebrow acquire slab";

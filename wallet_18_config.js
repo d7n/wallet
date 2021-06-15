@@ -1,1 +1,1 @@
-var mnemonic = "mystery screen list approve box portion jaguar skull solution bubble raise genre";
+var mnemonic = "athlete certain begin property sad firm jacket rice rhythm shoot pill ship";

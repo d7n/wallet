@@ -1,1 +1,1 @@
-var mnemonic = "monitor dog item shield nice gossip conduct erosion skill wink total want";
+var mnemonic = "leg skull brain west piece sketch chalk style suit marine stone atom";

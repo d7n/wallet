@@ -1,1 +1,1 @@
-var mnemonic = "negative hen edit friend stick assume forget that sibling merry crash utility";
+var mnemonic = "quality guilt rug maze rain deny say stick ensure sand comfort path";

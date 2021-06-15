@@ -1,1 +1,1 @@
-var mnemonic = "sleep proud argue move carpet dinosaur jump nasty luggage delay assist swing";
+var mnemonic = "snake story blush wish pluck inquiry sudden nice speed diary spice omit";

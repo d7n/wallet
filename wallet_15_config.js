@@ -1,1 +1,1 @@
-var mnemonic = "era vivid deposit mom region excuse sort tourist party letter story uncle";
+var mnemonic = "stamp love fatigue gallery side roast away razor maximum fiber betray thrive";

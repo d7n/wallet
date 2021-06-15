@@ -1,1 +1,1 @@
-var mnemonic = "step volcano happy erosion era lake insect ivory tip power around canyon";
+var mnemonic = "noodle organ mixed security deal olive uncle stadium message canal lyrics accuse";

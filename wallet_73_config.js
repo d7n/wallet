@@ -1,1 +1,1 @@
-var mnemonic = "bus rather puzzle wasp pledge orphan rug pattern three learn joy trade";
+var mnemonic = "quality noodle purse glue resist marine obvious giggle spot leave seek stick";

@@ -1,1 +1,1 @@
-var mnemonic = "globe later mule frame easily donor knock chunk error comfort fine noise";
+var mnemonic = "window swap stamp tenant phone word youth assault bus face radar swap";

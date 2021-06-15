@@ -1,1 +1,1 @@
-var mnemonic = "myth mixture section renew glue grocery accuse dove timber ecology grape option";
+var mnemonic = "jaguar sunset insane damage donor dose essence brief screen need book join";

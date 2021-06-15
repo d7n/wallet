@@ -1,1 +1,1 @@
-var mnemonic = "civil cart glide venture solution evoke problem demise sting wide melt mesh";
+var mnemonic = "west asset dry armed utility tomorrow category evidence candy situate post hard";

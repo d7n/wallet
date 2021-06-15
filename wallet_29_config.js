@@ -1,1 +1,1 @@
-var mnemonic = "village pass cream say exit already wet acid spin travel glide nut";
+var mnemonic = "price volcano satoshi tornado stem topic myth toy shoulder economy caution parent";

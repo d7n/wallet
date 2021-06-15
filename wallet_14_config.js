@@ -1,1 +1,1 @@
-var mnemonic = "divert unhappy recycle upset home hobby mango live focus hotel bulb grid";
+var mnemonic = "protect turn crater weapon photo sister have regret agree gossip strike student";

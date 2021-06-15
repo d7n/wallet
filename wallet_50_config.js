@@ -1,1 +1,1 @@
-var mnemonic = "tuna left crystal drama verify staff diet absent mountain bulk double accident";
+var mnemonic = "staff pipe raven extend nurse display wine also fetch shaft since midnight";

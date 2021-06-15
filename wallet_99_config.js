@@ -1,1 +1,1 @@
-var mnemonic = "define sweet discover love hero hurry tiny rice crisp ticket action menu";
+var mnemonic = "life purity fiction now beyond gate width toward problem stem cash obscure";

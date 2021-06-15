@@ -1,1 +1,1 @@
-var mnemonic = "culture atom rotate arm you under evil penalty estate powder peanut awful";
+var mnemonic = "spot cool hospital usage evidence wet crew review sauce total slight undo";

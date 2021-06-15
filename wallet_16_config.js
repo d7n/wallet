@@ -1,1 +1,1 @@
-var mnemonic = "mother lucky hammer embrace monster fiscal maid flower team benefit alien boring";
+var mnemonic = "trade series action pond absorb disorder trial define model thought inmate blur";

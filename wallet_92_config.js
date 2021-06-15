@@ -1,1 +1,1 @@
-var mnemonic = "profit laugh fade corn afford someone this mind quiz neck trumpet indoor";
+var mnemonic = "snow enhance humor shock fiber antenna trial make beach sunny stable era";

@@ -1,1 +1,1 @@
-var mnemonic = "electric doll excite daughter tunnel tunnel staff blossom half sudden easy permit";
+var mnemonic = "leisure abandon whip tray process magnet upper ask short globe fever fault";

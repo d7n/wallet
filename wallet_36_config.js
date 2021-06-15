@@ -1,1 +1,1 @@
-var mnemonic = "erupt fitness area wink helmet throw umbrella divert melt mystery enable chuckle";
+var mnemonic = "digital crouch deal runway shrimp glove moral pledge kiwi badge demise person";

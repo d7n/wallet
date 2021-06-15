@@ -1,1 +1,1 @@
-var mnemonic = "rotate kind inch school couch orange monkey rice recycle gallery access father";
+var mnemonic = "share excuse rival blue enforce special renew logic machine harvest nest wasp";

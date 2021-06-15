@@ -1,1 +1,1 @@
-var mnemonic = "latin kid raven stereo minute palm rookie float vintage point barrel salad";
+var mnemonic = "spice embrace feel document catch asset twice jewel sniff brave yard review";

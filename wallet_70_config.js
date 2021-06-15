@@ -1,1 +1,1 @@
-var mnemonic = "program slab crystal pretty hub man someone drama normal column believe antique";
+var mnemonic = "between seed island vault exercise mixed hundred calm middle video oven seminar";

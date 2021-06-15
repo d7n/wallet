@@ -1,1 +1,1 @@
-var mnemonic = "ordinary excess skull earn theory group laptop banana hurry desert captain impulse";
+var mnemonic = "dawn type faint sphere welcome ribbon now manual stock job state reward";

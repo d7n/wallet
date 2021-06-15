@@ -1,1 +1,1 @@
-var mnemonic = "twin toilet list biology toast cactus fat lemon have high oil vague";
+var mnemonic = "sugar leader jump predict huge antique post toast maple taste midnight nice";

@@ -1,1 +1,1 @@
-var mnemonic = "hood maid valid decide consider spin garbage garment bulk endless flight math";
+var mnemonic = "width parade major desert faculty harbor mercy bulk fold sphere useless mass";

@@ -1,1 +1,1 @@
-var mnemonic = "idea tattoo strike flock elite lumber feel parent there poem valley chest";
+var mnemonic = "brother nothing solve surprise inmate garbage cram attend edge vehicle gap maple";

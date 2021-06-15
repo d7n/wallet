@@ -1,1 +1,1 @@
-var mnemonic = "reason offer crash blade analyst swim grow weapon pencil soup injury snake";
+var mnemonic = "oval suggest lesson woman circle vessel token pear prepare breeze unknown diesel";

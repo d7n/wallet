@@ -1,1 +1,1 @@
-var mnemonic = "subway scorpion book ostrich insect annual brief car reflect melody random crawl";
+var mnemonic = "disagree small pioneer gadget bag suggest theory hurdle wolf proud juice bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "theme swap pole adjust multiply trust among foam crush tourist donkey melt";
+var mnemonic = "amount immense dirt divorce crane spirit wisdom ski spread check lunch evil";

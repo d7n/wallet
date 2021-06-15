@@ -1,1 +1,1 @@
-var mnemonic = "void position cake room twist bag smooth oak side alter ability drill";
+var mnemonic = "window time notable receive lizard oven amazing symbol achieve toe enforce suffer";

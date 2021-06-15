@@ -1,1 +1,1 @@
-var mnemonic = "shine script judge february genre tongue gather drift lucky sight skill mass";
+var mnemonic = "conduct bounce spirit fashion cousin donkey tenant cat calm engine purse earth";

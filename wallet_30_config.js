@@ -1,1 +1,1 @@
-var mnemonic = "alarm vicious trigger master notable fox shy power manual glow alpha essay";
+var mnemonic = "volume drum fine final into tackle input afraid envelope liberty tattoo easily";

@@ -1,1 +1,1 @@
-var mnemonic = "possible birth abandon pottery abandon sting verb rural art inhale flip present";
+var mnemonic = "cook goose frog today alcohol across east syrup candy sorry pen dish";

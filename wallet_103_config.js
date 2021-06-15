@@ -1,1 +1,1 @@
-var mnemonic = "citizen okay lazy fade else solution toilet hip blast eye gain noise";
+var mnemonic = "level mistake vibrant defense review dutch cost blue breeze radar drum frame";

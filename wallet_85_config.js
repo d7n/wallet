@@ -1,1 +1,1 @@
-var mnemonic = "ripple sentence develop include absurd off trade print recall upgrade pink this";
+var mnemonic = "canyon excite rural exist venture ritual drill aim awful found kick follow";

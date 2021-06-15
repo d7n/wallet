@@ -1,1 +1,1 @@
-var mnemonic = "coin drive find reason delay audit glove such demand play proud amazing";
+var mnemonic = "act crash royal robust leave hurry soccer price gain message display add";

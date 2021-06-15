@@ -1,1 +1,1 @@
-var mnemonic = "stamp fire double major unknown lazy control this face cash middle creek";
+var mnemonic = "thought digital machine notice mosquito floor steak bracket whip elbow pool culture";
