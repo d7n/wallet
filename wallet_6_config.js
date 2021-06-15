@@ -1,1 +1,1 @@
-var mnemonic = "erode fault shove fuel royal saddle pipe tool office inherit give amateur";
+var mnemonic = "couple panda sand quality lady method silent coyote hobby busy sort merge";

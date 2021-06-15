@@ -1,1 +1,1 @@
-var mnemonic = "thunder can potato spring panic radar screen unaware throw romance token craft";
+var mnemonic = "chicken one today fury moment model effort subject issue cruel boost gun";

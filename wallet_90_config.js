@@ -1,1 +1,1 @@
-var mnemonic = "state shift secret soda control subway adapt vendor taste good file often";
+var mnemonic = "affair remove quick field finish gravity patch approve liberty market fragile distance";

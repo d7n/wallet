@@ -1,1 +1,1 @@
-var mnemonic = "decade pigeon when tackle fly tag into female olympic sleep kingdom desk";
+var mnemonic = "misery ocean round enact chimney assault vessel note swing treat total thing";

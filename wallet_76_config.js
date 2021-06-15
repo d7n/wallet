@@ -1,1 +1,1 @@
-var mnemonic = "caught target blur news wagon faculty guide sense bracket insane tail sort";
+var mnemonic = "blush path volcano develop together garbage dune you diet borrow inform cube";

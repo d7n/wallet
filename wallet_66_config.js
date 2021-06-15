@@ -1,1 +1,1 @@
-var mnemonic = "knock depart bicycle intact ignore better try private source loyal baby obtain";
+var mnemonic = "bring atom sleep major find differ all culture call ripple rebuild describe";

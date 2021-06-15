@@ -1,1 +1,1 @@
-var mnemonic = "marble spring art sadness pioneer combine shove fix ecology force issue task";
+var mnemonic = "owner dish element vast regret survey caught reunion manage menu they soft";

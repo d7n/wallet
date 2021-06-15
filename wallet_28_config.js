@@ -1,1 +1,1 @@
-var mnemonic = "depend shuffle coach invite web grocery squeeze demand hub write dose identify";
+var mnemonic = "retire erase mean risk broccoli right oil buyer list congress lounge illness";

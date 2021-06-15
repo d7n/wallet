@@ -1,1 +1,1 @@
-var mnemonic = "over promote become vibrant fork rude library immune winter drive crack ready";
+var mnemonic = "burger snack affair delay swallow modify build like smart plug media illegal";

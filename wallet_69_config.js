@@ -1,1 +1,1 @@
-var mnemonic = "law subway delay supply isolate warm rocket spike carbon vibrant hour feature";
+var mnemonic = "journey habit combine mosquito slice solid achieve enjoy amount panther subject dilemma";

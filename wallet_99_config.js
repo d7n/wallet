@@ -1,1 +1,1 @@
-var mnemonic = "snack charge congress direct elbow rich win nation cancel marble moon bulk";
+var mnemonic = "spend hospital blast ladder stomach stereo walk fluid embrace else security relief";

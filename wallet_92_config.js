@@ -1,1 +1,1 @@
-var mnemonic = "weird fire horn bulb drum electric shy bargain bleak tray velvet account";
+var mnemonic = "impact silent because vehicle piece park pepper enlist evil add can loan";

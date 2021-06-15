@@ -1,1 +1,1 @@
-var mnemonic = "knee deer illness project cactus else lunch pony shield bracket can pattern";
+var mnemonic = "vivid silk solar unknown concert session brief believe extend tornado arch thrive";

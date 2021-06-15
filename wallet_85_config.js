@@ -1,1 +1,1 @@
-var mnemonic = "solve material slim poverty accident custom fiscal federal coil scorpion devote tell";
+var mnemonic = "alarm maid uncle top loop trigger insane knee hybrid young damp merry";

@@ -1,1 +1,1 @@
-var mnemonic = "wall trophy mosquito hire ivory bonus accident clean story mesh clean much";
+var mnemonic = "tiger mercy cycle shallow cost engine creek lake spike proof creek true";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual shift rug away remain junk version glance young rude nothing valve";
+var mnemonic = "satisfy pottery protect design fantasy city impact keen habit gather away negative";

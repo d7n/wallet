@@ -1,1 +1,1 @@
-var mnemonic = "build heavy empower marine tiny use lawn rug cattle fall balcony angry";
+var mnemonic = "cattle practice decline theory reason tribe volume cushion admit essence orchard dragon";

@@ -1,1 +1,1 @@
-var mnemonic = "liar goddess mosquito whale clay radio turkey sudden basic bring slim income";
+var mnemonic = "race fiscal spatial hedgehog uniform worry basket crumble palm mixed bus dizzy";

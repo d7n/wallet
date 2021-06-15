@@ -1,1 +1,1 @@
-var mnemonic = "nut novel excess wealth cloud patrol clinic mistake parent prosper spirit win";
+var mnemonic = "excite siege example logic one long hope uncover symptom disease torch able";

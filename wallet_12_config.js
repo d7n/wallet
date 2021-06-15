@@ -1,1 +1,1 @@
-var mnemonic = "supply train fit rose include inherit vibrant north quality bone feed wrap";
+var mnemonic = "basic smooth nuclear neither royal dice flip tower shaft hazard glance speed";

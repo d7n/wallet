@@ -1,1 +1,1 @@
-var mnemonic = "napkin damp sugar mutual calm there monitor kangaroo same jeans addict garage";
+var mnemonic = "top lava pulp region disorder blanket awake retire theory enlist decrease middle";

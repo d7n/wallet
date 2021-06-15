@@ -1,1 +1,1 @@
-var mnemonic = "regular firm pull moment cliff zebra wall gadget razor butter foil crime";
+var mnemonic = "lonely video parent also motion cigar snack already attack stone orient venue";

@@ -1,1 +1,1 @@
-var mnemonic = "stem scatter neglect bind unveil degree swallow erase assist crisp wonder observe";
+var mnemonic = "amount stairs address just fork buffalo slender split aim swim patient element";

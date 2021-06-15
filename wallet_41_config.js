@@ -1,1 +1,1 @@
-var mnemonic = "latin lawsuit tank smooth elegant blanket toward nature anxiety smooth kiwi spirit";
+var mnemonic = "salon fetch merge round exercise nurse that estate fetch valid relief anchor";

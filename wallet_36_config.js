@@ -1,1 +1,1 @@
-var mnemonic = "forget donkey morning comic depart fiber valid thrive fence fish prepare road";
+var mnemonic = "tiger stereo fee torch flash credit defy laundry escape bunker holiday virus";

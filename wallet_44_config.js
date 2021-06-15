@@ -1,1 +1,1 @@
-var mnemonic = "home obtain impact soap brain cupboard fix cliff film onion kick wonder";
+var mnemonic = "there park turtle charge style orient depend dumb face client remember immense";

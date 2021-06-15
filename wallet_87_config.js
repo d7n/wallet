@@ -1,1 +1,1 @@
-var mnemonic = "soap together penalty want flip test glove either detail cherry catch tree";
+var mnemonic = "frozen skirt antenna goat catch nominee chimney pepper stairs holiday wage cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "limit know flag scatter sniff drive movie book clutch flight jacket salute";
+var mnemonic = "select fluid item front curve prosper shoe walk dance dwarf vessel dinner";

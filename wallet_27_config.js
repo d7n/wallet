@@ -1,1 +1,1 @@
-var mnemonic = "space whip spell jeans idea clean pudding decade shell place spoon canvas";
+var mnemonic = "liar alien attract donkey razor fame pull vintage song muscle waste collect";

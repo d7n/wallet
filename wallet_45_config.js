@@ -1,1 +1,1 @@
-var mnemonic = "they service used blind isolate engine million final ozone section bullet retire";
+var mnemonic = "traffic dance guard reform table seminar patient share arm seven narrow escape";

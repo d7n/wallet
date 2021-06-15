@@ -1,1 +1,1 @@
-var mnemonic = "book shoot february start size coach pipe chef reward stock decorate museum";
+var mnemonic = "tonight wing dragon people priority rug age village fiber void since bomb";

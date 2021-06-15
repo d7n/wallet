@@ -1,1 +1,1 @@
-var mnemonic = "treat side gym step monkey monkey dignity quick special broccoli rate chief";
+var mnemonic = "abuse toddler solution grid end walnut adapt amazing level coil fade live";

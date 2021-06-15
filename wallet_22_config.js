@@ -1,1 +1,1 @@
-var mnemonic = "fix crop void arrive ready ribbon awesome record mutual advance palm reject";
+var mnemonic = "stamp marriage cave suggest body size hockey canyon apology bind still famous";

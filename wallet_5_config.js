@@ -1,1 +1,1 @@
-var mnemonic = "bring during moment glad hedgehog affair century rent cheese upset equip bike";
+var mnemonic = "photo more play either brother uphold pulp hunt bacon reward tornado ticket";

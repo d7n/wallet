@@ -1,1 +1,1 @@
-var mnemonic = "exclude shadow finger swarm pistol frozen myself track style elder mind differ";
+var mnemonic = "dance body random lunar elbow recycle first sad delay easily very liar";

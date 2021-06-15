@@ -1,1 +1,1 @@
-var mnemonic = "defense until bargain weasel club evolve learn behind aerobic right practice uniform";
+var mnemonic = "hat just stem virtual enroll rival skirt castle undo extend kangaroo marine";

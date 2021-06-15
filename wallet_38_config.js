@@ -1,1 +1,1 @@
-var mnemonic = "merit museum feed curtain provide trend couple oak forget blanket weekend attend";
+var mnemonic = "mean hurry decrease decline turn ethics matter aisle stone cannon spy curtain";

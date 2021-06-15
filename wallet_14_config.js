@@ -1,1 +1,1 @@
-var mnemonic = "airport poverty swap nature loud legal about plastic gas critic vintage spoil";
+var mnemonic = "output hip rose glad make fall hint income script candy mistake outdoor";

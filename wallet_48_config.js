@@ -1,1 +1,1 @@
-var mnemonic = "zero metal cheese lock parent regular wrap alley oppose author primary expand";
+var mnemonic = "charge kangaroo table local affair boat planet engine glimpse supply error salt";

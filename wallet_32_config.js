@@ -1,1 +1,1 @@
-var mnemonic = "heavy vendor ahead force derive bar piece online pumpkin law ribbon stay";
+var mnemonic = "survey craft among common coil onion prosper label anxiety found disease bread";

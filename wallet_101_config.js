@@ -1,1 +1,1 @@
-var mnemonic = "play hospital range uncover track wrong usual tree outside fire alien effort";
+var mnemonic = "kid oblige midnight ridge unhappy judge hire trigger legend mesh swift initial";

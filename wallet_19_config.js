@@ -1,1 +1,1 @@
-var mnemonic = "business calm sunny foam almost twelve range fit female blame top apart";
+var mnemonic = "name live lobster dust script knee liar resource undo also rubber trophy";

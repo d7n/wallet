@@ -1,1 +1,1 @@
-var mnemonic = "corn version clay dad spin naive basic shrimp shed dolphin neutral rent";
+var mnemonic = "neutral elevator trim need donkey repeat solve possible era mistake certain open";

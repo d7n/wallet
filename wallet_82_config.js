@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon under benefit hollow wonder option drift sleep certain garden finish size";
+var mnemonic = "holiday ghost acid rabbit leopard era loyal lawn safe road scatter inhale";

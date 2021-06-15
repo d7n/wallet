@@ -1,1 +1,1 @@
-var mnemonic = "warm sustain material city twin mixed embody next brush bronze until saddle";
+var mnemonic = "behave attract staff muffin insect catalog major dinosaur live wasp cute silly";

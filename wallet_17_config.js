@@ -1,1 +1,1 @@
-var mnemonic = "betray shuffle cause forum poem carpet advance brief document emotion ensure worth";
+var mnemonic = "battle shield casual struggle improve boat crucial gas enemy tomato void senior";

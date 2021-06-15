@@ -1,1 +1,1 @@
-var mnemonic = "degree weather crystal nothing vault winter column legal monitor repeat panda heavy";
+var mnemonic = "process release where capital dirt middle eternal purse coral erase virtual crystal";

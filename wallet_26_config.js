@@ -1,1 +1,1 @@
-var mnemonic = "occur crumble thunder then breeze opinion point note lion region anxiety winner";
+var mnemonic = "joy clarify onion action enroll private cross deal size sport flock crowd";

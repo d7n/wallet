@@ -1,1 +1,1 @@
-var mnemonic = "kind camera virtual fragile practice shell chair spike office pattern fancy state";
+var mnemonic = "one sphere chase author swear room day tortoise crew hollow lake crime";

@@ -1,1 +1,1 @@
-var mnemonic = "tape proof spider lottery trim poet shaft quote vendor cheese ocean around";
+var mnemonic = "basic crater digital debate humble lunar anger evidence timber sustain start cargo";

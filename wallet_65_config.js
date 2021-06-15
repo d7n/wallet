@@ -1,1 +1,1 @@
-var mnemonic = "antique insane obvious picnic theme doll mushroom vivid sick border penalty purity";
+var mnemonic = "wedding profit various denial develop initial run turtle pepper blame coyote super";

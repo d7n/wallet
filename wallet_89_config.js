@@ -1,1 +1,1 @@
-var mnemonic = "crystal maple coast calm plate lucky sphere brother cat satisfy shuffle kitten";
+var mnemonic = "exercise suffer soda knife paddle topic cheese endless life purity plug quantum";

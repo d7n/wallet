@@ -1,1 +1,1 @@
-var mnemonic = "snake version hero mouse noble space tuna tuition ladder under shock grain";
+var mnemonic = "use battle lava oyster hospital auto rib mention portion fatal tip brush";

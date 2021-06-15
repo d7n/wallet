@@ -1,1 +1,1 @@
-var mnemonic = "license double bitter olympic plug gossip remind duty hungry vendor hunt vital";
+var mnemonic = "record world horn light mistake excess dawn cash stone patrol letter aunt";

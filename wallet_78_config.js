@@ -1,1 +1,1 @@
-var mnemonic = "boat drip spatial that bless firm live only riot cattle junk spy";
+var mnemonic = "okay yellow letter lion voice bless script artist general achieve local scissors";

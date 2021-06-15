@@ -1,1 +1,1 @@
-var mnemonic = "gravity print deny office unlock vendor kitten cargo turtle almost grocery remember";
+var mnemonic = "mountain depth bounce pistol scene limit stay donor usual shine kick toe";

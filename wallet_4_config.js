@@ -1,1 +1,1 @@
-var mnemonic = "deal feature envelope poem unique double news glare sail shove rude donkey";
+var mnemonic = "secret kind laptop avocado flash heart chunk acquire asthma use because sea";

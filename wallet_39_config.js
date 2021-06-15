@@ -1,1 +1,1 @@
-var mnemonic = "carry slogan never acid laptop improve describe monitor notable gasp absurd useful";
+var mnemonic = "sausage avoid galaxy sport able economy unique leave hello bird defy profit";

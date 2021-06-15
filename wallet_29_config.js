@@ -1,1 +1,1 @@
-var mnemonic = "output empower mammal parent junior scorpion smooth saddle farm student feel filter";
+var mnemonic = "envelope alert dismiss emerge fun design decorate prize calm artist result unit";

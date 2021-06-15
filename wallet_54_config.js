@@ -1,1 +1,1 @@
-var mnemonic = "wrong rocket brick control benefit oak pride produce live razor retire ecology";
+var mnemonic = "unusual trumpet virtual fish breeze bamboo outdoor hazard candy paper width save";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy coast monster kidney almost rack simple fork salute divide left stool";
+var mnemonic = "crowd vocal grab tortoise attend session cushion trouble butter width spoil grain";

@@ -1,1 +1,1 @@
-var mnemonic = "seven shell master cherry shock short gospel vintage mesh strong order current";
+var mnemonic = "quote pill engage table volume know race detail parent coyote enemy oval";

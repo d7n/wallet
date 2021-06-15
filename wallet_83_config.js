@@ -1,1 +1,1 @@
-var mnemonic = "monster fish trend duty dune enter rescue rare radio apology reward dutch";
+var mnemonic = "volcano sand bridge depend cabbage kangaroo smooth language dinosaur flight tired dad";

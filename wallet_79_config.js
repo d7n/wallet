@@ -1,1 +1,1 @@
-var mnemonic = "table shrug witness soldier swarm lawn repair auto spy behind stick economy";
+var mnemonic = "avoid enlist rally vault month crazy vacuum guitar fatal goat deny essence";

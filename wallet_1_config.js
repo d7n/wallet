@@ -1,1 +1,1 @@
-var mnemonic = "humble juice flee police glass reform globe install cactus dynamic royal lunch";
+var mnemonic = "tomato pulp adapt smile unable fence brisk mixture more plate laugh miss";

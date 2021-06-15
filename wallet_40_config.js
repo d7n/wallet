@@ -1,1 +1,1 @@
-var mnemonic = "weasel slide small million hospital meadow force buffalo describe luggage fringe harvest";
+var mnemonic = "acquire race solid innocent patch coast pretty curtain fold scale reduce crane";

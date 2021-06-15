@@ -1,1 +1,1 @@
-var mnemonic = "domain practice scrub aspect gallery boil enjoy nest gap letter animal visual";
+var mnemonic = "pitch margin puppy flavor charge dutch column struggle patrol story home gadget";

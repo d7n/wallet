@@ -1,1 +1,1 @@
-var mnemonic = "blood girl bachelor empower essay alley inject same tackle carbon bachelor dice";
+var mnemonic = "basket farm begin someone suit pen hood voyage betray upset winter soft";

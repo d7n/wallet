@@ -1,1 +1,1 @@
-var mnemonic = "hundred market walk install slice broom crime long bike sun ethics bundle";
+var mnemonic = "connect pulse similar trophy remember nut cinnamon unhappy whisper bone gate fly";

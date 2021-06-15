@@ -1,1 +1,1 @@
-var mnemonic = "skill install pigeon rule subject mouse traffic pink bubble jacket mix coral";
+var mnemonic = "lab field circle road stomach eternal auto decline unveil acoustic autumn tattoo";

@@ -1,1 +1,1 @@
-var mnemonic = "child lottery soul patch spike grow rare predict core wall service fitness";
+var mnemonic = "mule brief sport depart hard unique piano worry canoe cruel around topple";

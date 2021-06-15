@@ -1,1 +1,1 @@
-var mnemonic = "version insane include under detect spy galaxy gentle ticket brand forget hybrid";
+var mnemonic = "giant stable prize cube boat token volcano ride acoustic afford spice timber";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral upon domain bottom place ripple property midnight security quantum marble this";
+var mnemonic = "sad ceiling hope tobacco priority because process bird game swift huge tiger";

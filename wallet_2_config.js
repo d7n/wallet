@@ -1,1 +1,1 @@
-var mnemonic = "nature index differ sense head dilemma crucial security roof note jewel fork";
+var mnemonic = "face item fossil album puppy bid arm thing desk bachelor where plastic";

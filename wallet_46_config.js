@@ -1,1 +1,1 @@
-var mnemonic = "liquid acquire misery dawn wait prize east prefer tissue chimney hobby genuine";
+var mnemonic = "aisle real cheese practice muscle menu onion cream title tornado furnace grab";

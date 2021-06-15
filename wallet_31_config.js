@@ -1,1 +1,1 @@
-var mnemonic = "retreat ridge blue giraffe chaos zebra fossil street beach rival puppy cactus";
+var mnemonic = "draft grocery afraid lobster lobster legend gown model bubble tobacco liar truth";

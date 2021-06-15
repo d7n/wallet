@@ -1,1 +1,1 @@
-var mnemonic = "demise right build reduce pill doll bird chronic rough obvious again champion";
+var mnemonic = "join vehicle slide pony hedgehog exist laugh cargo possible butter verb oblige";

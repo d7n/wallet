@@ -1,1 +1,1 @@
-var mnemonic = "retreat zone cattle solve world price game viable index exact oblige width";
+var mnemonic = "cover hour despair fork demand hold shoot bean glue measure diary quit";

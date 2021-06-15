@@ -1,1 +1,1 @@
-var mnemonic = "range carpet special charge fuel bean estate ring benefit pause long there";
+var mnemonic = "assume grow silly apple discover siren title cancel install month alpha wear";

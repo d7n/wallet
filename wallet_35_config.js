@@ -1,1 +1,1 @@
-var mnemonic = "case usage vibrant volcano during breeze gain idle torch strike immense tank";
+var mnemonic = "spring grit team film motor window true merge blade snack empower burger";

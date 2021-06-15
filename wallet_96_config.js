@@ -1,1 +1,1 @@
-var mnemonic = "brass ice artwork famous mixed coil relax load worth bag daring rate";
+var mnemonic = "choice movie liquid spawn fault trick polar fire chapter assist hamster swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "aware youth all crucial course basket teach border color burger lesson sun";
+var mnemonic = "seed monitor year artwork cinnamon project boost poet guard hat mom brain";

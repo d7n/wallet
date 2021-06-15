@@ -1,1 +1,1 @@
-var mnemonic = "can false tag tank caution warfare pride noise rural auto exile pride";
+var mnemonic = "demise funny carpet pair pause island marble diet thank nerve impulse tornado";

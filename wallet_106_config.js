@@ -1,1 +1,1 @@
-var mnemonic = "accident yard seminar success reward poverty owner drop glare reduce erupt outside";
+var mnemonic = "open genius grain snack venture amateur aspect pepper build engine tenant snow";

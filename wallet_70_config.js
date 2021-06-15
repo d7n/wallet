@@ -1,1 +1,1 @@
-var mnemonic = "enroll survey toward current ecology lake panda buzz trim wealth opera health";
+var mnemonic = "oppose race evidence shy clip buffalo siren worth clinic puzzle movie liar";

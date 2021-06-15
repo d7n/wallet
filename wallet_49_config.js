@@ -1,1 +1,1 @@
-var mnemonic = "lonely slow trust mass boy elbow exhibit method present obvious smoke mule";
+var mnemonic = "paper various hamster select phrase question gadget cat best uniform chase quote";

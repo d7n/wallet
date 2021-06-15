@@ -1,1 +1,1 @@
-var mnemonic = "romance total notice tortoise license note need cluster tape pottery usage permit";
+var mnemonic = "kick stand fork silent grit crater pioneer peasant mass artwork excuse protect";

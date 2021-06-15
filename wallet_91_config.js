@@ -1,1 +1,1 @@
-var mnemonic = "suggest sport cover upon custom theory key usage infant adjust receive note";
+var mnemonic = "employ artefact faculty dismiss illness giggle modify element deer legal arctic whisper";

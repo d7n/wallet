@@ -1,1 +1,1 @@
-var mnemonic = "hunt ginger capital keen you erupt erode toss shift palm alpha oval";
+var mnemonic = "grape mom gift net amount tape push source ankle own lens multiply";

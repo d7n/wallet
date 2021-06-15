@@ -1,1 +1,1 @@
-var mnemonic = "scare acoustic theory ticket fabric bag current miracle camera galaxy empower about";
+var mnemonic = "code wrong stand tank toast light token twice badge snack hospital dumb";

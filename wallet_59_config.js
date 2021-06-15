@@ -1,1 +1,1 @@
-var mnemonic = "inquiry cover friend cabin height monkey faith uncle mystery effort game dog";
+var mnemonic = "maze accident witness junior riot six other office suit unusual also asthma";

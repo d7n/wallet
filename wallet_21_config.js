@@ -1,1 +1,1 @@
-var mnemonic = "scout error aim lock mystery story replace cash inflict upset board punch";
+var mnemonic = "topple scene assist carbon vocal balcony stay vacant collect vehicle express grunt";

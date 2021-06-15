@@ -1,1 +1,1 @@
-var mnemonic = "coin steel merry lesson owner train gown electric cotton cinnamon ankle feel";
+var mnemonic = "alter damage capital spoon very web layer job loyal depend flock fluid";

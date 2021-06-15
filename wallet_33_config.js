@@ -1,1 +1,1 @@
-var mnemonic = "elevator educate snow favorite grid pluck twice vendor near theme spice riot";
+var mnemonic = "earn bind moral clay dynamic kiss deputy timber employ advance canal chimney";
