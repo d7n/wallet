@@ -1,1 +1,1 @@
-var mnemonic = "aspect elevator anger tube bean victory few still arch blue increase recipe";
+var mnemonic = "clinic steel raven drink glad motor trouble outside sport wool trick mad";

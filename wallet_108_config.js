@@ -1,1 +1,1 @@
-var mnemonic = "sting bring mystery thought rough glad protect comfort mass maze yellow account";
+var mnemonic = "noodle inflict bean peace border stairs lion increase minor submit differ huge";

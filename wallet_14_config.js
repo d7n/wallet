@@ -1,1 +1,1 @@
-var mnemonic = "remove thumb exile brown tonight another ribbon swap state floor rib enroll";
+var mnemonic = "run gun group naive depth scrap know double crazy napkin write omit";

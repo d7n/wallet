@@ -1,1 +1,1 @@
-var mnemonic = "involve sense anxiety flame scissors blouse kidney share useful fix grab page";
+var mnemonic = "loyal need nothing avoid unfold also virtual bullet fossil jeans eagle grass";

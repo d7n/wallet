@@ -1,1 +1,1 @@
-var mnemonic = "atom fit penalty yellow theory ice main extra small island evil virus";
+var mnemonic = "stay nature dumb pass plastic topic arena lunch swamp pig rotate wasp";

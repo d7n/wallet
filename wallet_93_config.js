@@ -1,1 +1,1 @@
-var mnemonic = "female caution slide book claim elder spice right spare apart slide differ";
+var mnemonic = "fitness indoor armed emerge orphan just boat load canyon behave blanket piano";

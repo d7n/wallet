@@ -1,1 +1,1 @@
-var mnemonic = "beef oak town crack luggage trouble effort swift hover slow gallery lumber";
+var mnemonic = "siren circle brand best honey gadget shiver carpet glimpse bitter hand rib";

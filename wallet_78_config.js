@@ -1,1 +1,1 @@
-var mnemonic = "shoot weapon acquire inner glide toe april fantasy dry town menu silver";
+var mnemonic = "crush record bag weasel blind gold cupboard brass divide noise throw jungle";

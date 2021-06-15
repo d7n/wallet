@@ -1,1 +1,1 @@
-var mnemonic = "sock scrap around heart fuel more emotion earth fee include defy ahead";
+var mnemonic = "buzz own mouse shock flower trend mind drill tobacco reveal license sword";

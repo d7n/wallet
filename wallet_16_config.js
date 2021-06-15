@@ -1,1 +1,1 @@
-var mnemonic = "dose tennis lava voyage two awful craft pass entire below guitar used";
+var mnemonic = "oblige below point hobby clinic lottery glue tennis unusual winter supply zero";

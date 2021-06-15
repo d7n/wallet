@@ -1,1 +1,1 @@
-var mnemonic = "afraid type carbon wagon evil suit people measure soda lift silver rebuild";
+var mnemonic = "pottery clap body canvas nut hammer orbit fever yellow hunt monster cable";

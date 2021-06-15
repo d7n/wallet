@@ -1,1 +1,1 @@
-var mnemonic = "save excuse horse excite fancy update funny jar green month expand level";
+var mnemonic = "moon nation tomato cement dream strong tape recycle slice alcohol spring engine";

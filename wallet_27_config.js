@@ -1,1 +1,1 @@
-var mnemonic = "guess matrix crater bacon metal infant meat orphan armed season vendor skin";
+var mnemonic = "salute when school swear protect across tell similar swallow oval donkey teach";

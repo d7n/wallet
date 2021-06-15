@@ -1,1 +1,1 @@
-var mnemonic = "sniff shaft cross oxygen hunt chapter sell coconut cinnamon draw thought scene";
+var mnemonic = "upset today fever soft father machine pink link marble maid west glad";

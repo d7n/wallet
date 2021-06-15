@@ -1,1 +1,1 @@
-var mnemonic = "grape such theory charge tunnel rival crunch essence stable width horror ancient";
+var mnemonic = "rifle fragile movie there guilt diesel option auto area sister symptom joke";

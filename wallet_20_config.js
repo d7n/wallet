@@ -1,1 +1,1 @@
-var mnemonic = "brand patch poem shoulder beyond rough half kind erupt chicken grunt exhaust";
+var mnemonic = "physical parade olive verb fiscal power program course danger luxury clown view";

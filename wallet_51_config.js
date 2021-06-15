@@ -1,1 +1,1 @@
-var mnemonic = "script only pig obtain rural city undo citizen circle explain scrap security";
+var mnemonic = "hobby inflict matrix soda bridge position flock globe deer sniff reason exhaust";

@@ -1,1 +1,1 @@
-var mnemonic = "more final knee enter spoil cash ahead sugar broken gift monitor tilt";
+var mnemonic = "omit nephew hazard motion swamp acid split angle sick doll elite scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "hard garment hard else autumn version focus mesh vanish wage immense disorder";
+var mnemonic = "visa couple sound echo spice receive survey next below donor mesh hover";

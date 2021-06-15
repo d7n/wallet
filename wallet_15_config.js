@@ -1,1 +1,1 @@
-var mnemonic = "thought banana security notable trouble install job quit power acquire tone pink";
+var mnemonic = "issue broom code surprise hundred engage alter citizen make avocado defense decade";

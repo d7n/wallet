@@ -1,1 +1,1 @@
-var mnemonic = "nest quantum depend shoot coast yellow distance mandate senior chalk cycle fuel";
+var mnemonic = "merit warrior budget evidence joke orbit entire ethics abandon visa inject width";

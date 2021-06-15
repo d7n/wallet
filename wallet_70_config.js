@@ -1,1 +1,1 @@
-var mnemonic = "bird switch boring priority verb alarm moment again spring moment purpose harsh";
+var mnemonic = "insect coconut live jaguar slight analyst can what fame inform hammer desert";

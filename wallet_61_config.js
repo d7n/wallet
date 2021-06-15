@@ -1,1 +1,1 @@
-var mnemonic = "general tilt thank spare attack flight brass scene train miracle side order";
+var mnemonic = "just useful inside stock coil tired old ginger voice axis tuna dizzy";

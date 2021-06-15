@@ -1,1 +1,1 @@
-var mnemonic = "pond merge piano year violin supreme fluid easily glory lock royal vocal";
+var mnemonic = "tell stool young current fossil assume trim crumble cancel key morning frozen";

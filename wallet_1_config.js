@@ -1,1 +1,1 @@
-var mnemonic = "swim belt bottom where oyster volume cushion tree melody circle advance bonus";
+var mnemonic = "lady assist raise banner provide wonder soda puppy betray grace salad fruit";

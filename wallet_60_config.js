@@ -1,1 +1,1 @@
-var mnemonic = "toy run cram basic crystal buyer lemon season discover sausage relief speed";
+var mnemonic = "alcohol congress below scissors multiply tail daughter captain duty group exist impact";

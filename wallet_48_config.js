@@ -1,1 +1,1 @@
-var mnemonic = "stereo impulse power error prosper blade room source staff culture myth toe";
+var mnemonic = "addict ritual cheap tiger field expire gauge opera welcome bind account correct";

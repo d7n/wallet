@@ -1,1 +1,1 @@
-var mnemonic = "torch skull proud property consider what family shrug arrange library three boost";
+var mnemonic = "park layer quiz pass crystal possible abstract column bridge verify sausage find";

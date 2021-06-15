@@ -1,1 +1,1 @@
-var mnemonic = "slide silver finger lemon ethics embark husband track shrug risk lady casino";
+var mnemonic = "skirt midnight own wealth alcohol brave maze strategy digital horror master brain";

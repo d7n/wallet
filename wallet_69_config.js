@@ -1,1 +1,1 @@
-var mnemonic = "baby ride interest middle tragic green cheap seminar only plug nerve fetch";
+var mnemonic = "assume cannon shoot twist weasel pipe robot gain parade vocal pave suggest";

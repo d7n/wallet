@@ -1,1 +1,1 @@
-var mnemonic = "hint delay left cycle cattle animal goddess height boat absorb sausage acquire";
+var mnemonic = "stick foster humble blast artwork view trophy noodle jaguar crime discover lab";

@@ -1,1 +1,1 @@
-var mnemonic = "beach surface inquiry follow hockey light polar swallow manage upon uphold this";
+var mnemonic = "erode salmon album maximum zero sleep grant swap sadness ketchup panic vibrant";

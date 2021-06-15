@@ -1,1 +1,1 @@
-var mnemonic = "remain tobacco occur annual season fat nominee protect rare pattern diet glue";
+var mnemonic = "tuna super bleak comic online small crash baby among hamster upon friend";

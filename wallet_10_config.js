@@ -1,1 +1,1 @@
-var mnemonic = "inmate token rabbit sunny opinion venture undo knock absorb visual drive method";
+var mnemonic = "visit pause idle cover humble dragon snap release term talent bunker tilt";

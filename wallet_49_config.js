@@ -1,1 +1,1 @@
-var mnemonic = "sister wing napkin purchase empower airport heavy kind drama unaware throw deliver";
+var mnemonic = "village exotic pond pattern own timber salad immune letter debris test run";

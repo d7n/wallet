@@ -1,1 +1,1 @@
-var mnemonic = "ask marine resource insect illegal display viable armor attack gun outdoor absurd";
+var mnemonic = "mixture reward timber hole will prison mass biology chuckle siege news exotic";

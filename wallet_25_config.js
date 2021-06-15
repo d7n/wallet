@@ -1,1 +1,1 @@
-var mnemonic = "embark sentence assault seven rescue fever quantum silver powder arrive enough always";
+var mnemonic = "cave noodle book vote under come supply laundry library drill few ritual";

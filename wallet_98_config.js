@@ -1,1 +1,1 @@
-var mnemonic = "flock flash other cross visual inspire relax target hawk jaguar lawn edge";
+var mnemonic = "govern fence warfare day useless afford hope chase build barely oval deliver";

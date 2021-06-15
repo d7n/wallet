@@ -1,1 +1,1 @@
-var mnemonic = "awkward mosquito phone pumpkin wage asset remove mercy citizen submit hunt mean";
+var mnemonic = "social mansion people clip fuel tiny advance lonely dizzy differ feature fiber";

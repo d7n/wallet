@@ -1,1 +1,1 @@
-var mnemonic = "beef giant much obey gift mobile sponsor regret gain into fork modify";
+var mnemonic = "kingdom hope moon script harbor village soft vital broom credit trip tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "course extra answer coconut invest garden aisle fly prefer upon home civil";
+var mnemonic = "churn business what organ news champion egg unlock swallow ride angle essence";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz desk easily side bacon garment swing wage theory job toy jaguar";
+var mnemonic = "unknown task owner wagon march spell impulse fringe daring company debate regret";

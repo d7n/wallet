@@ -1,1 +1,1 @@
-var mnemonic = "pill worry deputy exercise grief portion utility actress reward that stamp install";
+var mnemonic = "later sample gravity employ found inject price lucky series broom energy cement";

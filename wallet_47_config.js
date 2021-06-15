@@ -1,1 +1,1 @@
-var mnemonic = "payment spawn stand already twenty crystal dog milk curtain blind magic border";
+var mnemonic = "clean ginger explain kidney chaos trash fatal gun prepare shock blur fabric";

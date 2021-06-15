@@ -1,1 +1,1 @@
-var mnemonic = "thumb scale favorite believe invest van pretty room retire party super gauge";
+var mnemonic = "step focus solve upper hurt sad dwarf car double elder fury snap";

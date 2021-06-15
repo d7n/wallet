@@ -1,1 +1,1 @@
-var mnemonic = "rally fantasy ridge circle envelope pumpkin spike sure swift number middle talent";
+var mnemonic = "online glory orphan favorite palace hurry dice lady license novel response mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "gate excite segment evil vapor woman exile army myself stem involve rather";
+var mnemonic = "remove pole rich pond method tip marriage unable wise mean bulb meat";

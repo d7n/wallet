@@ -1,1 +1,1 @@
-var mnemonic = "situate unfold brass anger trust differ train income month thing slab column";
+var mnemonic = "predict typical enter two clerk math dad text size north front knife";

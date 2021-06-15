@@ -1,1 +1,1 @@
-var mnemonic = "spoon vibrant armor rapid energy moral sibling jelly club alone sudden twenty";
+var mnemonic = "inject cross dry smoke wish dove betray blind weather dutch keen plate";

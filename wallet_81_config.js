@@ -1,1 +1,1 @@
-var mnemonic = "suit kind wait glare spider wheel patient retire price sustain afford season";
+var mnemonic = "inherit minute horn script such enroll fetch lumber oil size treat stock";

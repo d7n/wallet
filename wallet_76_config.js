@@ -1,1 +1,1 @@
-var mnemonic = "loop impose blind wash quiz bamboo oxygen small tooth february drink ocean";
+var mnemonic = "forward dove creek purity horn balance razor patrol glide unique ride reject";

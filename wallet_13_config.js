@@ -1,1 +1,1 @@
-var mnemonic = "desk cereal game basic typical fee shrug reunion brave laundry grant flag";
+var mnemonic = "pioneer return lab fine derive carry game decorate push dream pioneer enroll";

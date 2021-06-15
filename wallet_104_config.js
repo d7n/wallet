@@ -1,1 +1,1 @@
-var mnemonic = "faint claw then famous box jelly blush crouch file few gold weird";
+var mnemonic = "anchor wrist mother north receive raw stove man code erase outside random";

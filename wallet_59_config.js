@@ -1,1 +1,1 @@
-var mnemonic = "copper spirit powder reduce child summer civil lady magnet boring health crew";
+var mnemonic = "onion verify aware excuse crisp stuff uncle feature recycle fragile gauge pudding";

@@ -1,1 +1,1 @@
-var mnemonic = "clown lock happy impose trick purity seek ranch good goddess trigger mouse";
+var mnemonic = "impose autumn behind melt better catalog opinion elephant surge melt stool swallow";

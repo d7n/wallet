@@ -1,1 +1,1 @@
-var mnemonic = "side such senior cart six own plate duty dune bubble panel trigger";
+var mnemonic = "giant into black grass all year improve vintage busy false corn elbow";

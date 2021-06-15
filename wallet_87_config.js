@@ -1,1 +1,1 @@
-var mnemonic = "spin kit federal bronze caught steel whip enrich father amateur analyst spray";
+var mnemonic = "coach omit clock idea reward thrive rule sustain yellow twelve van nurse";

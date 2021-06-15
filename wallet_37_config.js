@@ -1,1 +1,1 @@
-var mnemonic = "siren pink ozone fuel axis forget office half destroy you grit math";
+var mnemonic = "jazz six shiver gym roast mad tiny oval student until rifle purchase";

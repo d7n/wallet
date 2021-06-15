@@ -1,1 +1,1 @@
-var mnemonic = "volume edit soldier weather original sea kingdom virtual bottom orange youth grape";
+var mnemonic = "anger try impact boring model nerve cheese year pilot finger pony grace";

@@ -1,1 +1,1 @@
-var mnemonic = "ancient ability broom test bean size eager zone essay damage supply split";
+var mnemonic = "bicycle enemy notable advance ridge giant execute they service cruel winner screen";

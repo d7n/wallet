@@ -1,1 +1,1 @@
-var mnemonic = "knock sphere pass enroll diagram voice dismiss oil hood fantasy citizen diagram";
+var mnemonic = "hard alpha able cliff calm dragon check victory refuse heart waste vacant";

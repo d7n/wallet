@@ -1,1 +1,1 @@
-var mnemonic = "route bright elbow elbow boil elevator valley dolphin noodle arm shove text";
+var mnemonic = "address innocent tissue robot track filter era undo cactus model spell effort";

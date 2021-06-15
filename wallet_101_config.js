@@ -1,1 +1,1 @@
-var mnemonic = "add genuine police maple end master wet word just good rude develop";
+var mnemonic = "usage digital arrive nature quantum palace fun move option wood sound flavor";

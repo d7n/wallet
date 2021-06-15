@@ -1,1 +1,1 @@
-var mnemonic = "cross baby street hotel exclude level debate satisfy giant stadium bus jaguar";
+var mnemonic = "guard extra bid soda bronze cup achieve gospel crystal foot twenty brief";

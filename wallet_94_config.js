@@ -1,1 +1,1 @@
-var mnemonic = "fault limit exercise sting fuel unfair capital crumble morning olive ring soccer";
+var mnemonic = "local kid embody couple actress wall rough label olive rely february flower";

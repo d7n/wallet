@@ -1,1 +1,1 @@
-var mnemonic = "safe shell found merge submit march much tumble rude tooth donor exercise";
+var mnemonic = "raw december session pottery seven solid cheap hurdle hint floor belt shove";

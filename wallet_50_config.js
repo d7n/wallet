@@ -1,1 +1,1 @@
-var mnemonic = "crew observe moon jelly battle raw physical seed flee winter dress equip";
+var mnemonic = "deer they addict finish butter scan token cause save east insane large";

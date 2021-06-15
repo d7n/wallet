@@ -1,1 +1,1 @@
-var mnemonic = "gaze venue junior plastic glue space follow blouse metal east coach have";
+var mnemonic = "month crew swing garage mesh clown pass else awake cradle prison hundred";

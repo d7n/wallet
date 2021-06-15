@@ -1,1 +1,1 @@
-var mnemonic = "custom trim fan sick surprise enforce deny satisfy document damage gallery boost";
+var mnemonic = "salad umbrella taxi injury blast grow idle select change project sorry faculty";

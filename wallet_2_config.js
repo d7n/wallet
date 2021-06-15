@@ -1,1 +1,1 @@
-var mnemonic = "gossip vibrant target dignity happy normal pink rent put orchard square stable";
+var mnemonic = "source mandate never effort gather era about slot awful ticket fiscal avoid";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace alien stuff robot floor slow mind size clutch refuse regular rather";
+var mnemonic = "pilot apart sample clay genuine energy okay marriage coral forward wide antenna";

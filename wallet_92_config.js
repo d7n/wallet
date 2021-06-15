@@ -1,1 +1,1 @@
-var mnemonic = "script pool before resemble kick slogan club put grant witness daring avoid";
+var mnemonic = "amazing gate affair attack rabbit baby code jeans vehicle butter fire crash";

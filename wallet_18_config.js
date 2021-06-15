@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow surge usual alley capable genuine object practice tone dawn photo frequent";
+var mnemonic = "diary bicycle ostrich ridge chicken alone head venture feature soap tube black";

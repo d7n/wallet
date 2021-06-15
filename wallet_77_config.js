@@ -1,1 +1,1 @@
-var mnemonic = "option pipe rookie device gloom injury left life manual surprise cycle dutch";
+var mnemonic = "old renew embrace hidden height nephew rotate surge image cheese visa kit";

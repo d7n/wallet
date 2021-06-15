@@ -1,1 +1,1 @@
-var mnemonic = "move leave shop armed ladder idle property tiger funny cattle burden before";
+var mnemonic = "twist like glance bike law fox nation manual never enforce they enter";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster school control economy bridge amateur silly crowd able fine sadness erupt";
+var mnemonic = "luxury measure tumble vague verb alarm attack goat base laugh social cause";

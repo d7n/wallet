@@ -1,1 +1,1 @@
-var mnemonic = "property police autumn leaf swear love idle atom rice near judge magic";
+var mnemonic = "exist genuine patient myth among process lift avocado organ cloth congress worth";

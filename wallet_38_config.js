@@ -1,1 +1,1 @@
-var mnemonic = "card gloom ball infant source ghost old ritual one aunt inform give";
+var mnemonic = "raven mule prosper wrist damp empty aunt humor cruise try require warfare";

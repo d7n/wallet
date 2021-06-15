@@ -1,1 +1,1 @@
-var mnemonic = "unaware surprise funny mushroom shoot muscle gospel teach hockey mystery ginger all";
+var mnemonic = "there live raccoon snack twin vivid wagon flavor myth transfer fancy choice";

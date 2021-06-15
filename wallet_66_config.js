@@ -1,1 +1,1 @@
-var mnemonic = "paper rigid sound cool ozone egg grass recycle near diamond track save";
+var mnemonic = "obvious winter pigeon sustain step dragon spread firm manual rice water youth";

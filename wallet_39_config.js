@@ -1,1 +1,1 @@
-var mnemonic = "raise finger person possible rhythm uphold other toward surround alert umbrella tornado";
+var mnemonic = "grief car there swamp tiny harbor double wool spell front owner trouble";

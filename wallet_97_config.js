@@ -1,1 +1,1 @@
-var mnemonic = "conduct hope maze present leopard village plastic drink fashion betray dizzy tennis";
+var mnemonic = "cloud piece inquiry approve glad hover endorse buffalo torch blood wedding shoot";

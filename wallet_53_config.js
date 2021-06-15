@@ -1,1 +1,1 @@
-var mnemonic = "lazy spy trip iron parent fruit unable bracket leader cousin keen guard";
+var mnemonic = "paper ocean hamster palace dish audit beauty another uniform ladder today cotton";

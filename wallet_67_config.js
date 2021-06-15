@@ -1,1 +1,1 @@
-var mnemonic = "bridge foot useless impose pyramid awesome kitten wish captain asthma deputy north";
+var mnemonic = "female expose day basic sock observe pave erosion thrive always vague gossip";

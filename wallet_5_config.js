@@ -1,1 +1,1 @@
-var mnemonic = "noodle core shrug olympic drive dose check wasp balance top retreat impulse";
+var mnemonic = "capital modify problem account glory capable nothing shy index define test spoon";

@@ -1,1 +1,1 @@
-var mnemonic = "domain vehicle melt virus jacket hint talk garage open ordinary enact item";
+var mnemonic = "nature wide reward soldier master buffalo fan general book half proud similar";

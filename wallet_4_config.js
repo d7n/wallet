@@ -1,1 +1,1 @@
-var mnemonic = "derive clap shed bitter apple umbrella goat battle tuna casual slender obscure";
+var mnemonic = "dream mouse autumn sense entire perfect armed secret wolf senior shuffle sort";

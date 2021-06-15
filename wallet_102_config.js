@@ -1,1 +1,1 @@
-var mnemonic = "barely naive receive rent ketchup toss you trophy banana suit shadow father";
+var mnemonic = "vote unfair stool egg metal logic ghost spider online lucky coil sad";

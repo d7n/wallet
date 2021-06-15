@@ -1,1 +1,1 @@
-var mnemonic = "video crisp gate surprise horror ginger infant stereo crack finger retire gaze";
+var mnemonic = "worry sand brisk junk island hockey piece lab piano debate tower girl";

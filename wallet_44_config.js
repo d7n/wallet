@@ -1,1 +1,1 @@
-var mnemonic = "mad sound diamond nasty shallow oven mass milk camera gather camp much";
+var mnemonic = "buyer boy correct riot fabric vicious squeeze garden shadow roast crop consider";

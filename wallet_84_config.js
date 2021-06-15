@@ -1,1 +1,1 @@
-var mnemonic = "tiger cruise robot flavor runway prefer hover wolf inquiry ghost panther input";
+var mnemonic = "spatial excuse word enact glance hamster grain treat menu seven surround hunt";

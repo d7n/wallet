@@ -1,1 +1,1 @@
-var mnemonic = "spell zone swift prepare stay month plunge clap fresh unlock virtual list";
+var mnemonic = "hollow symptom client insane glow mail face dizzy narrow prefer void ignore";

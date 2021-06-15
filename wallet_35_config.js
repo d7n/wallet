@@ -1,1 +1,1 @@
-var mnemonic = "ability wrestle panther during monitor law about use paper heart rug curtain";
+var mnemonic = "fire flush august forward erode excite protect group hawk guilt snap chief";

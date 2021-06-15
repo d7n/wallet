@@ -1,1 +1,1 @@
-var mnemonic = "picture lecture wood birth cupboard elbow panic soda winner sketch crumble notice";
+var mnemonic = "force wide feature tissue essay mesh guess aunt license stumble salad error";

@@ -1,1 +1,1 @@
-var mnemonic = "bone believe spread vehicle future illness candy eyebrow regret powder bring change";
+var mnemonic = "skill wire weasel sister morning again bulb nice parade pioneer bid wave";
