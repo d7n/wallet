@@ -1,1 +1,1 @@
-var mnemonic = "answer remember transfer combine pluck borrow rail coffee waste hen tool actual";
+var mnemonic = "brown blame joke steak wise hill token flash below later payment market";

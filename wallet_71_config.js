@@ -1,1 +1,1 @@
-var mnemonic = "spice visual aisle derive extend spider virus bamboo breeze waste lock save";
+var mnemonic = "worry warfare pipe staff bless tuition theory settle pen proof vivid concert";

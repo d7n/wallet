@@ -1,1 +1,1 @@
-var mnemonic = "dress pen flag palm omit mimic initial change east office beyond lazy";
+var mnemonic = "derive portion sock credit erosion announce ball gloom device tragic parrot excess";

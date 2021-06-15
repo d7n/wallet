@@ -1,1 +1,1 @@
-var mnemonic = "urban second require report vague pride evidence test name donor legend kiwi";
+var mnemonic = "found illegal crop fix action stick travel nice critic trend frequent guitar";

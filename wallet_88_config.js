@@ -1,1 +1,1 @@
-var mnemonic = "glass digital sausage envelope march father can brave uncover hold time doll";
+var mnemonic = "left receive prosper recall language aunt fox uncover guilt abandon hotel try";

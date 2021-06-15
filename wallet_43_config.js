@@ -1,1 +1,1 @@
-var mnemonic = "inch injury repair elephant any drink hybrid sunset banana tornado cargo cash";
+var mnemonic = "confirm dumb design uncover siege rose anchor pyramid minute foam unknown jealous";

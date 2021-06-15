@@ -1,1 +1,1 @@
-var mnemonic = "rocket strong age move blame firm sea meat nose violin adjust update";
+var mnemonic = "anxiety doll water patient now melt over access effort exotic gesture essay";

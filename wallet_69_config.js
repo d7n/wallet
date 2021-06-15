@@ -1,1 +1,1 @@
-var mnemonic = "system large start pottery current release useless hip envelope grunt mirror describe";
+var mnemonic = "stuff tower circle taste oven sun chair subject fee split certain since";

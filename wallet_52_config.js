@@ -1,1 +1,1 @@
-var mnemonic = "input turn group gun fitness act fuel observe expose holiday metal stable";
+var mnemonic = "insect used spot suit item uncover place member gain acquire today sleep";

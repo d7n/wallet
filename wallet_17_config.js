@@ -1,1 +1,1 @@
-var mnemonic = "wagon art mutual wise tomato tenant false soft rug uncover diet shallow";
+var mnemonic = "host seed dial universe leave hamster keep deputy fever divorce success critic";

@@ -1,1 +1,1 @@
-var mnemonic = "ability decide bounce together junk fat common train borrow story trial dizzy";
+var mnemonic = "boat spin gravity hole pet lonely action admit duck chat people hybrid";

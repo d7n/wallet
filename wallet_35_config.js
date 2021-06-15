@@ -1,1 +1,1 @@
-var mnemonic = "track canyon jewel hour castle exhibit stairs color vacant slush ugly wrestle";
+var mnemonic = "gauge story absurd dirt student cage under advice music chunk fantasy tobacco";

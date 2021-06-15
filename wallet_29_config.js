@@ -1,1 +1,1 @@
-var mnemonic = "drum traffic oblige dwarf inflict bone puppy office arrow door chunk cycle";
+var mnemonic = "achieve kick accuse like hello truth awkward depend domain torch age harsh";

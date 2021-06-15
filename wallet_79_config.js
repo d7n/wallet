@@ -1,1 +1,1 @@
-var mnemonic = "tool make cherry lecture abandon merge draw wrestle bracket stumble adapt cargo";
+var mnemonic = "owner erase pencil maximum chef thunder custom giant earth gold rude drink";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky wood sure rotate require chef move net vast juice jungle oil";
+var mnemonic = "umbrella abuse because march lunch album crucial ship winter manual cereal nut";

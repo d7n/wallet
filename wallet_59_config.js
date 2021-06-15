@@ -1,1 +1,1 @@
-var mnemonic = "emotion coyote buyer crash dentist such ocean close vital pepper used error";
+var mnemonic = "waste oxygen language scheme chest layer farm ozone rigid praise lottery metal";

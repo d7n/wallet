@@ -1,1 +1,1 @@
-var mnemonic = "renew torch warfare head tank wealth genuine between unveil maid prefer end";
+var mnemonic = "salute benefit clip arrow mansion vivid ginger humor orphan motor surround fox";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz open solution moral cereal sun amateur answer cliff range normal grunt";
+var mnemonic = "loud become source risk correct inherit oppose fade alarm pig tonight mountain";

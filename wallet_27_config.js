@@ -1,1 +1,1 @@
-var mnemonic = "seat powder grace capable awake wing admit typical crouch style join bar";
+var mnemonic = "sibling book concert web fluid naive route plug medal credit tragic kiwi";

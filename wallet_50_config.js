@@ -1,1 +1,1 @@
-var mnemonic = "walnut onion crack shine spread name side february elephant version adult finger";
+var mnemonic = "digital clock trigger unusual agent alarm analyst gown curious siege odor champion";

@@ -1,1 +1,1 @@
-var mnemonic = "short garlic awful patrol sentence cable start find better salute document edge";
+var mnemonic = "beach point woman penalty income paddle effort next praise agent tent ginger";

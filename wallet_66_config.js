@@ -1,1 +1,1 @@
-var mnemonic = "fence mixed excess tape pigeon solar term weapon rookie slow winter cost";
+var mnemonic = "private design noble lift actor frequent toilet render egg jelly forum invest";

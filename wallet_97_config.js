@@ -1,1 +1,1 @@
-var mnemonic = "able wealth gain breeze dolphin force lumber brain goddess emotion blur obey";
+var mnemonic = "bag winner rookie siren shiver dance fatal pink result enable chaos tumble";

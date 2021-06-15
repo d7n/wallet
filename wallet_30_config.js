@@ -1,1 +1,1 @@
-var mnemonic = "waste assault note thought fit primary outer toss sight soap crunch diagram";
+var mnemonic = "slow drill give habit tooth wisdom palace stay disease brass caution rate";

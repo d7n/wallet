@@ -1,1 +1,1 @@
-var mnemonic = "smile cage indicate sport raw guilt frog garbage total very pig senior";
+var mnemonic = "wrap pyramid choose punch rug dynamic ecology collect raccoon hire just guide";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect first occur dumb inherit slow feel opinion icon elevator famous possible";
+var mnemonic = "attitude crop dove grant knock remain record renew club among sunset enact";

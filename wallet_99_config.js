@@ -1,1 +1,1 @@
-var mnemonic = "possible smooth junk annual video suffer tattoo exhibit excuse elephant mask pond";
+var mnemonic = "where filter sell pulp rely nation figure glue acquire extend illness valve";

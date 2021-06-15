@@ -1,1 +1,1 @@
-var mnemonic = "hollow crane bachelor quick loyal wine invest rough armed bleak canyon anchor";
+var mnemonic = "minor beyond bottom consider ginger among ecology actor equal neck flush fame";

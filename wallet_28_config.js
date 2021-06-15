@@ -1,1 +1,1 @@
-var mnemonic = "hole talk jump animal evoke outside dolphin spread ticket cabin moral lemon";
+var mnemonic = "absorb spice much shed whale sleep top hundred alley luggage tomorrow frown";

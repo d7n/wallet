@@ -1,1 +1,1 @@
-var mnemonic = "pen rookie suit power bench floor rib aware guess draft jar settle";
+var mnemonic = "device section wild useless scissors rabbit chef heart scorpion kangaroo giant knee";

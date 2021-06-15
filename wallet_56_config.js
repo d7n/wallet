@@ -1,1 +1,1 @@
-var mnemonic = "dwarf disagree letter panda undo half burden allow captain ranch clump beach";
+var mnemonic = "bleak ecology bundle gown govern island rug elite mouse nasty bean certain";

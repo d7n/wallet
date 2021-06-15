@@ -1,1 +1,1 @@
-var mnemonic = "focus potato soap frost bubble praise slow ill clock symptom divide steak";
+var mnemonic = "task address bag fatigue material popular eternal milk undo siren round proof";

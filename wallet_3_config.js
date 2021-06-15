@@ -1,1 +1,1 @@
-var mnemonic = "close plastic jealous powder hover confirm library leisure great exchange extra inject";
+var mnemonic = "apart jar cheese noise spice smooth wise bless noodle random magic thunder";

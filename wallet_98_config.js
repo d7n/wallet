@@ -1,1 +1,1 @@
-var mnemonic = "spell blouse add case goose help craft emotion fade brass main history";
+var mnemonic = "purchase tool game story palace ball snack stadium cotton zebra high quantum";

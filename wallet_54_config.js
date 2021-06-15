@@ -1,1 +1,1 @@
-var mnemonic = "resource double reopen brother mercy tortoise action mom tornado loop salute salon";
+var mnemonic = "supply member meadow relax side federal spawn timber virtual noble stand left";

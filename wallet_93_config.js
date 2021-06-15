@@ -1,1 +1,1 @@
-var mnemonic = "robot switch december reflect monster pond any cram mixed call time manual";
+var mnemonic = "unknown job neck atom derive divide thumb produce chapter giggle cross organ";

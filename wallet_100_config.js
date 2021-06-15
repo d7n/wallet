@@ -1,1 +1,1 @@
-var mnemonic = "fee sail hospital mosquito lady plate trim runway such give lobster bitter";
+var mnemonic = "name obey method sock egg student outer way absurd innocent cancel phrase";

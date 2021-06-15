@@ -1,1 +1,1 @@
-var mnemonic = "habit squirrel claim scan tackle good venture liar okay note truly cradle";
+var mnemonic = "dog girl midnight absurd damp chunk acoustic raise excess mixture diary kid";

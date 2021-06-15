@@ -1,1 +1,1 @@
-var mnemonic = "document choose now limb consider convince quiz decade season walk view clump";
+var mnemonic = "state tornado fetch vacuum strategy truck senior outdoor resemble decrease casino weasel";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent behind illegal fancy gasp convince force february pumpkin area stool excite";
+var mnemonic = "cigar glide faith before trust range salad sea cry clever gorilla entry";

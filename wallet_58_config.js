@@ -1,1 +1,1 @@
-var mnemonic = "prison bulk sail gentle diet rain total aerobic census laugh soccer green";
+var mnemonic = "defense unusual welcome bike fortune better hungry mango demand fluid athlete material";

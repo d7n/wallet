@@ -1,1 +1,1 @@
-var mnemonic = "hammer oppose organ accuse cigar object promote method muscle hurt garbage float";
+var mnemonic = "soccer strong text twice blossom travel orphan plate drop butter december math";

@@ -1,1 +1,1 @@
-var mnemonic = "come correct gentle tumble fiscal embark naive feature arm hockey armed focus";
+var mnemonic = "collect evidence electric cry member mail office powder disagree material make wild";

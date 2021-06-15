@@ -1,1 +1,1 @@
-var mnemonic = "coast talk slight burst fly junior vanish exclude grab napkin price raise";
+var mnemonic = "adjust ring drink umbrella rebel draft country ceiling avoid misery tiny game";

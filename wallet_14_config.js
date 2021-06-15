@@ -1,1 +1,1 @@
-var mnemonic = "cause fantasy shrug wasp bulk kangaroo bullet grape hawk execute garment slam";
+var mnemonic = "noble mixed ranch acoustic fly mansion mirror floor divide snap bonus craft";

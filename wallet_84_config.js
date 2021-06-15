@@ -1,1 +1,1 @@
-var mnemonic = "decorate diesel praise shine raise spatial elephant lion hawk awkward property soldier";
+var mnemonic = "ozone near neck series athlete math luggage front craft gorilla thing galaxy";

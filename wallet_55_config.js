@@ -1,1 +1,1 @@
-var mnemonic = "brown cherry opinion unable report impact blue seek word moral ordinary horror";
+var mnemonic = "mountain able spatial thumb force fox input verify panic hybrid puzzle all";

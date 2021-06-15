@@ -1,1 +1,1 @@
-var mnemonic = "dog post town slush source select brother moment mean rather best easily";
+var mnemonic = "agree indicate candy target retreat tenant fault giggle you behave tube swap";

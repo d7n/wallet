@@ -1,1 +1,1 @@
-var mnemonic = "expose flee gentle shrug then hybrid render chase large wagon carry crisp";
+var mnemonic = "brand remember whale occur garlic grief guitar dream rescue way slot stand";

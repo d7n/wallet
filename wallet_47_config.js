@@ -1,1 +1,1 @@
-var mnemonic = "strategy plug modify violin brother tape army pet next tourist divorce fatigue";
+var mnemonic = "badge soap hood direct town dose magnet outdoor patient predict together salute";

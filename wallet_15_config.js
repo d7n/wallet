@@ -1,1 +1,1 @@
-var mnemonic = "rate banner call radio adult stuff six scatter bird success ripple forest";
+var mnemonic = "alcohol face seat idle suit benefit aunt agree middle sleep spare kitten";

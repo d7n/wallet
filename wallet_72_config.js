@@ -1,1 +1,1 @@
-var mnemonic = "trial stem rough daughter mother fiber ski spare language earn inmate final";
+var mnemonic = "phone solid uniform loop lock false robot work size trigger scare spatial";

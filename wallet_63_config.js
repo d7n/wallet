@@ -1,1 +1,1 @@
-var mnemonic = "blade oxygen man must carry obey breeze brick dove special much october";
+var mnemonic = "trophy occur wisdom salon embrace blur gather erode peace tenant subject cloth";

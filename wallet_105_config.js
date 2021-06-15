@@ -1,1 +1,1 @@
-var mnemonic = "flash churn insane rifle practice lizard shy dirt pottery genre fatal boy";
+var mnemonic = "elegant tell mandate silly reward wet scorpion include flower zebra rug brick";

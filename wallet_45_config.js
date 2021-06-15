@@ -1,1 +1,1 @@
-var mnemonic = "expose measure eyebrow cause estate enemy caution accident cruel gallery unique turkey";
+var mnemonic = "praise apple match embody inflict raw boat way inspire predict soda occur";

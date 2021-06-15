@@ -1,1 +1,1 @@
-var mnemonic = "lizard burden harvest regular disorder tonight nuclear response despair spike endless december";
+var mnemonic = "concert ignore ready glass sketch doctor produce machine effort business student laundry";

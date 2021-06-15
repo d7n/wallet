@@ -1,1 +1,1 @@
-var mnemonic = "upset clap furnace desk minimum struggle industry giraffe erupt feel strong bonus";
+var mnemonic = "spice defy piece used depth office asthma happy turn nice refuse exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "rent announce heavy minute bicycle hero side math swamp slogan turn connect";
+var mnemonic = "parade deposit law ride congress disagree fat peanut disorder reopen demand tenant";

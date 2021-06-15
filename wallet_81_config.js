@@ -1,1 +1,1 @@
-var mnemonic = "flock hedgehog weekend coconut once match hospital ankle gym blame affair vessel";
+var mnemonic = "above relief pet sun able side thrive gesture sell fresh place void";

@@ -1,1 +1,1 @@
-var mnemonic = "stereo dream vast casino plate inquiry make floor grow half fox cup";
+var mnemonic = "habit stage brick apology dad marble soccer defense anxiety resist gesture disagree";

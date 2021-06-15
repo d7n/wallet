@@ -1,1 +1,1 @@
-var mnemonic = "obvious drink artist hint daring latin author grain explain predict million mention";
+var mnemonic = "party zero solution stay census wise small question kind evil eagle evoke";

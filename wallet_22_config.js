@@ -1,1 +1,1 @@
-var mnemonic = "leader correct clinic purchase ceiling learn used inspire check daring wrist gather";
+var mnemonic = "spirit crystal capable under public elder upon sense mix multiply flip love";

@@ -1,1 +1,1 @@
-var mnemonic = "when race soul parade decorate jazz begin donkey jealous normal spike penalty";
+var mnemonic = "sure solar assault airport option airport paddle isolate glass hole garden payment";

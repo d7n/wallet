@@ -1,1 +1,1 @@
-var mnemonic = "spy coyote ramp short fine exchange deer awkward damage intact turn raw";
+var mnemonic = "diamond evil power order predict vendor erupt dragon detect remember vanish option";

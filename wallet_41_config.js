@@ -1,1 +1,1 @@
-var mnemonic = "clip sugar cram attract harsh thing park diagram inflict theme develop caught";
+var mnemonic = "flower sunset duty market mercy chef rain world scene shed sea unveil";

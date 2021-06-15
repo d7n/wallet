@@ -1,1 +1,1 @@
-var mnemonic = "clock sustain sugar dentist royal menu funny certain ability wrong expose pride";
+var mnemonic = "cake desk section garment exchange one narrow gorilla note vehicle guilt glue";

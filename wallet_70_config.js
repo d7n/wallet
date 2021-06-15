@@ -1,1 +1,1 @@
-var mnemonic = "art spatial tooth step word height critic leaf embody manual monster general";
+var mnemonic = "sister genuine arrow filter decrease arrange believe distance such destroy cool fatigue";

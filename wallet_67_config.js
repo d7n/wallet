@@ -1,1 +1,1 @@
-var mnemonic = "spoon cannon radio ability dune roof merge solve gentle save sadness twenty";
+var mnemonic = "dad retreat syrup waste general magic option hill company achieve host ankle";

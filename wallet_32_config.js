@@ -1,1 +1,1 @@
-var mnemonic = "zero comfort thumb drastic grant clever film access detail best iron interest";
+var mnemonic = "satisfy tiny amused muscle suffer castle year city cousin polar angry fat";

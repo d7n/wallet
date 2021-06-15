@@ -1,1 +1,1 @@
-var mnemonic = "cube print food injury topple train satoshi predict hero trust upper custom";
+var mnemonic = "crowd spoil night video correct earn onion glad earth delay alcohol caution";

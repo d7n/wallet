@@ -1,1 +1,1 @@
-var mnemonic = "antenna upset margin play fuel rally patch unaware escape oblige describe celery";
+var mnemonic = "kiwi danger inquiry game panel either shadow cause frost broken pencil athlete";

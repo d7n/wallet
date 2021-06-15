@@ -1,1 +1,1 @@
-var mnemonic = "twenty fine loop now throw tragic attitude menu spring peace wasp wild";
+var mnemonic = "income ask identify lend evil diet praise absent couch art seminar liquid";

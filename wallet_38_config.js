@@ -1,1 +1,1 @@
-var mnemonic = "scale thank credit circle loop dismiss load width orchard conduct rate blind";
+var mnemonic = "soda mechanic awful blue hour burst figure brother clay company kid peasant";

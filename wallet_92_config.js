@@ -1,1 +1,1 @@
-var mnemonic = "trip skill bulb viable spoil treat angry cement today engine purse fox";
+var mnemonic = "stand carbon dinosaur supreme explain leisure father gap camp rug valid diesel";

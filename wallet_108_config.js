@@ -1,1 +1,1 @@
-var mnemonic = "pelican hidden stay case wedding scene symptom drift one client whip prevent";
+var mnemonic = "display meadow donate art truth blouse cupboard traffic comfort arctic situate drill";

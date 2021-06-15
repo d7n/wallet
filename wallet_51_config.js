@@ -1,1 +1,1 @@
-var mnemonic = "slight lock must spell autumn theme tornado banana because someone spirit ankle";
+var mnemonic = "extra basic ethics wreck hover history surface link satoshi rally enhance awake";

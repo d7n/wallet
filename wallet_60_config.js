@@ -1,1 +1,1 @@
-var mnemonic = "piano degree rude reject satoshi off wolf emerge neutral output blur arch";
+var mnemonic = "famous place occur distance load certain quick twist salon since february barrel";

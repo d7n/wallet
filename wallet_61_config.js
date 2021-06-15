@@ -1,1 +1,1 @@
-var mnemonic = "save trust escape timber loud foil tissue avoid confirm rule define urge";
+var mnemonic = "afford chair dirt essence twice this height tray void praise vocal dilemma";

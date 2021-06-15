@@ -1,1 +1,1 @@
-var mnemonic = "fish wall try broken guard become purchase floor census glory escape glare";
+var mnemonic = "child funny grab odor mix tank remind frown pulse spoon bird twenty";

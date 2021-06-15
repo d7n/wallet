@@ -1,1 +1,1 @@
-var mnemonic = "swarm debris news opinion client plug twelve tape decrease cricket cabin couple";
+var mnemonic = "toy taste remember ghost garden rich ocean opera health hundred winter sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "civil crane rescue joke elevator hidden income reduce prevent corn apple invite";
+var mnemonic = "supreme donkey bomb orchard alien pig bread soap there promote infant wrap";

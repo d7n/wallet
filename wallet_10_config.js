@@ -1,1 +1,1 @@
-var mnemonic = "share ready despair endless guilt rent balcony dove first design cheap car";
+var mnemonic = "scale across scatter describe crane service kid obvious hair grow enough theme";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil find test post document carpet trash spike birth cattle afraid boost";
+var mnemonic = "ill false friend napkin social situate caution elder wreck vault define heart";

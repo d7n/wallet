@@ -1,1 +1,1 @@
-var mnemonic = "sponsor there borrow cost ladder forget gadget face buzz sister gather weather";
+var mnemonic = "box project promote leopard diagram enlist machine file twenty weird check visa";

@@ -1,1 +1,1 @@
-var mnemonic = "panda element comfort board zone long together bike blush brush negative diary";
+var mnemonic = "copy embrace degree price scare thumb daughter option recall illegal cushion faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "deer skill unusual dwarf rain lizard author pulp until cruise athlete spike";
+var mnemonic = "stairs attitude arctic result feature all sure predict cradle panda jungle shoulder";

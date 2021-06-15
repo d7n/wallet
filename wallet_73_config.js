@@ -1,1 +1,1 @@
-var mnemonic = "couch disease mouse demise rail security genius season record width road creek";
+var mnemonic = "immune round unlock slide top weird excite lake sunny raise august bless";

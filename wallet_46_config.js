@@ -1,1 +1,1 @@
-var mnemonic = "again fever scout marriage must noise elephant blur sketch snake innocent mask";
+var mnemonic = "slow mad basket label forum shallow cradle gentle bless bulb ecology craft";
