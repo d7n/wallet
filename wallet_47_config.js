@@ -1,1 +1,1 @@
-var mnemonic = "creek cheese agree achieve tube session devote muffin topic oppose abstract horror";
+var mnemonic = "piano host cube disagree run issue picture brick street various size kit";

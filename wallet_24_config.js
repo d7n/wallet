@@ -1,1 +1,1 @@
-var mnemonic = "elite oval wisdom model inquiry poverty engine flip planet logic rabbit poet";
+var mnemonic = "reject airport float one leave pet fluid satisfy kitchen tourist tray net";

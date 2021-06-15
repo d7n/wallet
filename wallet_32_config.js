@@ -1,1 +1,1 @@
-var mnemonic = "fantasy awful paper that trigger wrong hockey tissue season screen charge mix";
+var mnemonic = "type surround fluid consider program shaft car trash ankle blossom siren jewel";

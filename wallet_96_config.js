@@ -1,1 +1,1 @@
-var mnemonic = "puzzle talk identify memory heavy country weekend fresh blouse perfect host repeat";
+var mnemonic = "lyrics matter modify pig ridge claw apple wall forum electric silent correct";

@@ -1,1 +1,1 @@
-var mnemonic = "fix fault aerobic nurse build invite program learn marine setup demise wrist";
+var mnemonic = "crop scatter coin glance light oak fault soul nuclear middle neutral ridge";

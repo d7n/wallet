@@ -1,1 +1,1 @@
-var mnemonic = "onion polar toddler group speed learn index ramp happy cattle vintage damage";
+var mnemonic = "wine panel choose kid coin fun shield street board rail gadget vocal";

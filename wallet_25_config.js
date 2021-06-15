@@ -1,1 +1,1 @@
-var mnemonic = "aunt barrel pen arrive guilt token sail bench island eye almost dawn";
+var mnemonic = "couch little decline follow twenty desk speak cash squeeze radio crawl approve";

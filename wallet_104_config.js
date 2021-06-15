@@ -1,1 +1,1 @@
-var mnemonic = "skirt gesture gas frown valley sell drip save artefact strong hero traffic";
+var mnemonic = "source dawn slot glimpse journey input sausage enact tide chicken tower such";

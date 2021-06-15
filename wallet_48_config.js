@@ -1,1 +1,1 @@
-var mnemonic = "still car present push coil deny boil outer vicious endless any page";
+var mnemonic = "voice coil nature pledge panther supply plate grass feature fatal decade pretty";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans valley valid allow play tape toy achieve vacuum kite bargain duty";
+var mnemonic = "pledge edge chest cream bracket tray bird pudding stage elevator truth tuna";

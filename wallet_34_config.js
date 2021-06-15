@@ -1,1 +1,1 @@
-var mnemonic = "wish bar lion size slot method casual wet feature crouch quit autumn";
+var mnemonic = "twice stay remind marriage dose company oil silent seek person pull flight";

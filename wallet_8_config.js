@@ -1,1 +1,1 @@
-var mnemonic = "grief mountain correct nephew stem fire grunt push join naive piece mixed";
+var mnemonic = "silly neither donor twin work fringe path soft gown response combine olive";

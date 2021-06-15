@@ -1,1 +1,1 @@
-var mnemonic = "pass enroll practice mechanic trigger guide when impact warm quarter brand mistake";
+var mnemonic = "nice palace blind picnic ethics liar matrix believe frog usage fruit meadow";

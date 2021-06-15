@@ -1,1 +1,1 @@
-var mnemonic = "scare fiction apology hover social stool vintage make tower gentle cry reopen";
+var mnemonic = "wage doctor broken quality plunge logic end blast fossil illness medal actress";

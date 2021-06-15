@@ -1,1 +1,1 @@
-var mnemonic = "apart want urge chef visit gate shock certain destroy opera lake pact";
+var mnemonic = "spy crumble deer bonus toss glad sugar permit have best seek dinner";

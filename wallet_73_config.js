@@ -1,1 +1,1 @@
-var mnemonic = "weapon mom surface retreat either video educate lonely grab ability bird anxiety";
+var mnemonic = "figure gauge pencil group million fantasy supreme lab mask acoustic wool churn";

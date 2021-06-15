@@ -1,1 +1,1 @@
-var mnemonic = "sample dilemma major crowd saddle coconut cousin donkey erosion attract able fun";
+var mnemonic = "spy noodle friend decrease gather since great can lemon refuse drop panda";

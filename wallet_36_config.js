@@ -1,1 +1,1 @@
-var mnemonic = "equal ship reopen lock protect mushroom between satoshi differ true ignore wide";
+var mnemonic = "crash oval ship focus usual finish culture mule scissors invest photo organ";

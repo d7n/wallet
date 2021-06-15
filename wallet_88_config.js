@@ -1,1 +1,1 @@
-var mnemonic = "direct trumpet remove hospital extra town cargo short remove orient kit debris";
+var mnemonic = "catch educate session use anxiety dial leader nation health morning initial interest";

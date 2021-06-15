@@ -1,1 +1,1 @@
-var mnemonic = "seek direct phrase congress spin heart daughter near gather check tip woman";
+var mnemonic = "curious acid seek physical leave reunion gossip copy toddler health wife guess";

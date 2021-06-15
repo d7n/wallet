@@ -1,1 +1,1 @@
-var mnemonic = "reduce very excuse brand decade hover bargain addict multiply lawn miss assist";
+var mnemonic = "pulp yellow ugly increase cushion ginger weird obscure coyote brave nut obtain";

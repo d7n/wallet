@@ -1,1 +1,1 @@
-var mnemonic = "acquire slide often during can exercise surface person fever hand truck photo";
+var mnemonic = "people connect dwarf luxury shed ignore assist avocado defense item category arctic";

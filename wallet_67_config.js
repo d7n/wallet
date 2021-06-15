@@ -1,1 +1,1 @@
-var mnemonic = "master burst quit supply crunch lobster jump response fever enrich switch expect";
+var mnemonic = "team car toward clay elephant usual math mouse fold push someone visual";

@@ -1,1 +1,1 @@
-var mnemonic = "parade exchange useless route talent story meadow innocent advance useless wasp harbor";
+var mnemonic = "dirt ugly sister mansion tennis gasp seed brother vanish witness margin trip";

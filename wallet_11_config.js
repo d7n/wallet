@@ -1,1 +1,1 @@
-var mnemonic = "merry guitar energy farm exotic auto uncle key shrug own lounge curtain";
+var mnemonic = "danger second item symbol occur detail boost seminar salute hazard feed vicious";

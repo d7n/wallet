@@ -1,1 +1,1 @@
-var mnemonic = "predict mechanic minute mushroom lake maid attend stereo buffalo series school mad";
+var mnemonic = "measure special kidney story radar just describe define endless hover fever library";

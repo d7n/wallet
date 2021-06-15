@@ -1,1 +1,1 @@
-var mnemonic = "toast penalty snap media salute album expand adjust immune rain rule ginger";
+var mnemonic = "bundle chapter claw enjoy bind comic danger elevator mushroom loop pool expect";

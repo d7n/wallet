@@ -1,1 +1,1 @@
-var mnemonic = "reveal find insane change blind prosper bridge prevent harvest key modify post";
+var mnemonic = "estate hole liquid garden spread sun voice undo become village vehicle basket";

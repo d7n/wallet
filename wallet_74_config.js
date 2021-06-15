@@ -1,1 +1,1 @@
-var mnemonic = "blush city coyote attack naive acquire view stick acquire coral alpha before";
+var mnemonic = "night detect ocean flame divorce cost fire found cloud vicious room tag";

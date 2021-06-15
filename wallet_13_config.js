@@ -1,1 +1,1 @@
-var mnemonic = "seed pizza snap inspire field hour argue stereo panther panic any path";
+var mnemonic = "fringe cushion innocent school afraid style mother mechanic item endorse stone betray";

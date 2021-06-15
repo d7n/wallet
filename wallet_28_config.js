@@ -1,1 +1,1 @@
-var mnemonic = "adjust piece enforce cheap hurt lonely kiss yellow provide cabbage carbon text";
+var mnemonic = "dwarf today awesome harbor amazing because morning time ripple wool resource render";

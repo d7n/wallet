@@ -1,1 +1,1 @@
-var mnemonic = "abandon hope region win obtain mobile tone lobster mountain yard arena blanket";
+var mnemonic = "code eye knife fatal dish exhaust pottery oblige path session mom prison";

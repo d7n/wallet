@@ -1,1 +1,1 @@
-var mnemonic = "stage leopard bar joke truly finish hawk ostrich cash letter bamboo clean";
+var mnemonic = "stay pulse people bleak among nominee region swim cherry laptop trumpet please";

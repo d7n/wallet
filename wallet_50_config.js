@@ -1,1 +1,1 @@
-var mnemonic = "post save ticket faith oyster divide outdoor empty label venue holiday hotel";
+var mnemonic = "climb milk reopen gap vote crew oval evil develop divert absent pelican";

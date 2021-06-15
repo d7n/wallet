@@ -1,1 +1,1 @@
-var mnemonic = "inject clarify change bike oval suffer rent slogan appear gold apology practice";
+var mnemonic = "love phrase drastic must shoe marine toss visa pioneer female trap poet";

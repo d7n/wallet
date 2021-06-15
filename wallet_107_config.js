@@ -1,1 +1,1 @@
-var mnemonic = "adjust rather mad horn fiction sniff satisfy nominee cabbage guard tip lemon";
+var mnemonic = "worth shop account brain luggage faith trophy sibling naive patrol want isolate";

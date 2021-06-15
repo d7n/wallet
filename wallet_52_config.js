@@ -1,1 +1,1 @@
-var mnemonic = "effort latin argue gain magnet sock ignore inner unlock drip faith pond";
+var mnemonic = "exit garden perfect divert exist budget throw solar twist spot road toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "army city swap immense next unit actress guard employ dragon trumpet pride";
+var mnemonic = "outer second must business select funny nerve high height forest decline wing";

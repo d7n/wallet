@@ -1,1 +1,1 @@
-var mnemonic = "train ridge clown heart royal brown library priority number lion various fever";
+var mnemonic = "buddy satisfy human piano negative uphold math flock verb spider evolve globe";

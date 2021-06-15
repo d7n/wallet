@@ -1,1 +1,1 @@
-var mnemonic = "urge wagon grit miss license habit elbow mechanic cream attract unusual eternal";
+var mnemonic = "worry parade pulp marble must east lyrics middle render soap direct view";

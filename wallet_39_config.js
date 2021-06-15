@@ -1,1 +1,1 @@
-var mnemonic = "dawn tomorrow still purchase call autumn fruit time pull negative lecture budget";
+var mnemonic = "usage earn tell attitude drill brick upgrade change saddle innocent bone pulp";

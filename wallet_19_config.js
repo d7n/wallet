@@ -1,1 +1,1 @@
-var mnemonic = "sense fan valid glue pigeon better vendor helmet teach bench second way";
+var mnemonic = "obvious often kid sword vast accident what slam sad maid vault salon";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt divide clay toast rigid country chair actor view cool buyer drastic";
+var mnemonic = "noodle notable rifle until ball inmate surge analyst scare wing message wash";

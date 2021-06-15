@@ -1,1 +1,1 @@
-var mnemonic = "flame under arrange clutch tongue exact genre garlic fish list bullet message";
+var mnemonic = "file mystery frown noodle welcome bike jaguar brave leg other mother canvas";

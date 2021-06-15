@@ -1,1 +1,1 @@
-var mnemonic = "avoid stable middle cost six notice reform hint buyer birth letter minimum";
+var mnemonic = "fame aunt raise uncover reopen someone pyramid choose slice tail bus mixed";

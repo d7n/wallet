@@ -1,1 +1,1 @@
-var mnemonic = "flee hero include decrease infant cannon usual wait dumb program choice cattle";
+var mnemonic = "remind bid palace leader ten agent casual below music kingdom also universe";

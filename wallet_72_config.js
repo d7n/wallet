@@ -1,1 +1,1 @@
-var mnemonic = "season rude simple hour reward huge educate seat surround garden orange hover";
+var mnemonic = "receive royal alter act alert strong obvious borrow clever amateur snack silly";

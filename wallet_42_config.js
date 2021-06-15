@@ -1,1 +1,1 @@
-var mnemonic = "dish almost shoe setup victory bring resemble valley slender subject soda wash";
+var mnemonic = "detail idle various evoke slim neutral record pen course usage pumpkin short";

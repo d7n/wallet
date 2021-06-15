@@ -1,1 +1,1 @@
-var mnemonic = "total scrap toilet episode friend possible album degree feel employ pen friend";
+var mnemonic = "absorb upgrade tiger rigid curtain recipe field boring garage cigar limb atom";

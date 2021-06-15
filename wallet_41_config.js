@@ -1,1 +1,1 @@
-var mnemonic = "assist truck fiction jacket pumpkin pull donkey talent excuse ball imitate enable";
+var mnemonic = "gate quantum purse barely forum dose owner million dress fault receive crush";

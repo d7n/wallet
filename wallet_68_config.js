@@ -1,1 +1,1 @@
-var mnemonic = "guitar beyond pyramid flight turkey crystal plug payment repeat chalk spend provide";
+var mnemonic = "sell civil crane slow panda bomb ethics vault code flame either rib";

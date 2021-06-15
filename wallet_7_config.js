@@ -1,1 +1,1 @@
-var mnemonic = "discover permit about boat mail firm rebuild wrong behave you left eagle";
+var mnemonic = "expand column stem tomorrow first fly swarm table castle school animal fun";

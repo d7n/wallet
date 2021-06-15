@@ -1,1 +1,1 @@
-var mnemonic = "range unknown infant strong grief century cash among curtain solution bird hobby";
+var mnemonic = "lamp actual damage raw federal air march pioneer way hip essence hurry";

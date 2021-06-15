@@ -1,1 +1,1 @@
-var mnemonic = "rude area clay fringe fetch cost tape quarter attract clump pond fitness";
+var mnemonic = "capital paper defy code abandon tattoo volume concert aim purity shuffle fitness";

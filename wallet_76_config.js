@@ -1,1 +1,1 @@
-var mnemonic = "duty loyal stool road funny feel leader use paddle muffin black error";
+var mnemonic = "genius conduct grief frog coral saddle grape merry blouse stand ball diet";

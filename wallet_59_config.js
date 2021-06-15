@@ -1,1 +1,1 @@
-var mnemonic = "gasp cement napkin hill explain vessel planet equip actual gorilla liberty school";
+var mnemonic = "water mosquito reduce can garbage draft artefact dynamic resource speed mention anxiety";

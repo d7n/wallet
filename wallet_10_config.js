@@ -1,1 +1,1 @@
-var mnemonic = "core toward tourist find erase false evidence trip eager control field cousin";
+var mnemonic = "awake wine large welcome voyage raccoon zero soup cram donor verb knee";

@@ -1,1 +1,1 @@
-var mnemonic = "club march they prevent indicate switch quality live normal soldier math emotion";
+var mnemonic = "spoil another credit label license fan supply have shadow lamp forget rose";

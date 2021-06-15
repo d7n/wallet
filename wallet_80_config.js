@@ -1,1 +1,1 @@
-var mnemonic = "song enemy nature disorder render tenant require drink concert assume squirrel ice";
+var mnemonic = "skull runway gain rude cradle food cube slice select buffalo capable mesh";

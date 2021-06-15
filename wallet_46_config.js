@@ -1,1 +1,1 @@
-var mnemonic = "gift night focus juice transfer fun trust cradle twin imitate rail risk";
+var mnemonic = "enrich absurd advance vibrant age clerk kingdom satisfy mad wet ocean travel";

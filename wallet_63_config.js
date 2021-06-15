@@ -1,1 +1,1 @@
-var mnemonic = "discover chair wagon position salt such gift machine bottom rookie same next";
+var mnemonic = "average grass fly wave purse cave series raccoon morning sense leg powder";

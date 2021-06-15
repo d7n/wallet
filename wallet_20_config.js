@@ -1,1 +1,1 @@
-var mnemonic = "blame gesture truth elite avoid alpha degree fit live train hidden keen";
+var mnemonic = "grab engage life razor verify cabin meat math trigger reason laptop grief";

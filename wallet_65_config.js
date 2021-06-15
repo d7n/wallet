@@ -1,1 +1,1 @@
-var mnemonic = "town swamp north science three yellow ghost upset glance salt shrug believe";
+var mnemonic = "harvest upon shop accuse garbage result rotate whip list reflect typical olive";

@@ -1,1 +1,1 @@
-var mnemonic = "type proof swarm mass reunion normal stereo lesson audit smart van fun";
+var mnemonic = "sun prepare soccer start atom square tilt ability beyond stove safe step";

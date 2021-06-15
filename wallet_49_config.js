@@ -1,1 +1,1 @@
-var mnemonic = "moral series view wonder resource bulb ribbon save blue remember mean lazy";
+var mnemonic = "typical dream cycle omit comic disease naive oak six glare cube depend";

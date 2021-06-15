@@ -1,1 +1,1 @@
-var mnemonic = "matter twin loyal cook neglect curve calm faint clump bridge accident mass";
+var mnemonic = "major love card funny bulb ripple snake brick lazy ten guide resemble";

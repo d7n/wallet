@@ -1,1 +1,1 @@
-var mnemonic = "crop silk roof album magnet grass august country eager saddle wagon below";
+var mnemonic = "foster train build boat believe settle spatial liar cancel penalty poem alone";

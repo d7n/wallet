@@ -1,1 +1,1 @@
-var mnemonic = "truth faculty brush whisper soda burger bus awful jeans nurse boil record";
+var mnemonic = "that artwork great execute slender steel easy yellow course tent random degree";

@@ -1,1 +1,1 @@
-var mnemonic = "kick achieve become rose divorce steak doll split order theme liar bullet";
+var mnemonic = "surge brown soldier dutch vapor tray sick crop venue trouble midnight inch";

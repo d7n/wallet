@@ -1,1 +1,1 @@
-var mnemonic = "school share combine car rhythm large fragile pole brother fury sea turtle";
+var mnemonic = "loud sadness engage battle food open now equal woman spin trigger thumb";

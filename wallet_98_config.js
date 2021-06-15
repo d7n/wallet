@@ -1,1 +1,1 @@
-var mnemonic = "repeat gaze whisper size supply cluster urge honey surge crystal energy enough";
+var mnemonic = "snack beyond scissors clinic pilot gaze biology tumble release lawsuit prefer around";

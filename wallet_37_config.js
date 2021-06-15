@@ -1,1 +1,1 @@
-var mnemonic = "category put finger spread debate train concert answer matter scheme already where";
+var mnemonic = "cheap water clog salad goose siege badge nasty twice globe walnut sound";

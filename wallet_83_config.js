@@ -1,1 +1,1 @@
-var mnemonic = "drama whale column visit column ivory action culture group rally ribbon produce";
+var mnemonic = "vote twin uncover squirrel day guess balance master sign fall modify angle";

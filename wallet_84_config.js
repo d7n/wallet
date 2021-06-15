@@ -1,1 +1,1 @@
-var mnemonic = "share model hawk window dream switch umbrella shadow bar cross render today";
+var mnemonic = "pear ostrich east input oblige fox you lab dignity mystery rural physical";

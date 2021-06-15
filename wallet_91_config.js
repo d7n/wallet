@@ -1,1 +1,1 @@
-var mnemonic = "pottery idle check prize entry sweet fiction arrest ketchup salmon hope autumn";
+var mnemonic = "pact advance print used decide hood viable section atom mango tornado mistake";

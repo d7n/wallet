@@ -1,1 +1,1 @@
-var mnemonic = "shrimp life flee hybrid wrist success code mirror deal share scale oval";
+var mnemonic = "purse spy grief recycle vital board female sight exhaust balcony thumb access";

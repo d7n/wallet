@@ -1,1 +1,1 @@
-var mnemonic = "defy between october simple please tail brief amused off aware arrow insane";
+var mnemonic = "ribbon nut update mango curious point debris idea outer head quantum world";

@@ -1,1 +1,1 @@
-var mnemonic = "panda quantum lift accuse eternal hold situate license typical glue body tuna";
+var mnemonic = "huge ask system apple ladder laugh juice mimic use retreat program cattle";

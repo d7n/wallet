@@ -1,1 +1,1 @@
-var mnemonic = "praise pause talk replace belt fun dial during bunker hover ask muffin";
+var mnemonic = "nut charge wish such absorb volume write disorder protect hobby bounce push";

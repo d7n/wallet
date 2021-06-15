@@ -1,1 +1,1 @@
-var mnemonic = "stay motion juice old daring immune history teach pepper phone raven will";
+var mnemonic = "embrace exact defy hawk cabin roast title rain much swear maximum gossip";

@@ -1,1 +1,1 @@
-var mnemonic = "story twist cushion total twelve grant absurd sport finish cart bulk laptop";
+var mnemonic = "setup write cricket tunnel unhappy race seek club only copy upgrade fancy";

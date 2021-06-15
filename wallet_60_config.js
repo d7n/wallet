@@ -1,1 +1,1 @@
-var mnemonic = "track wisdom sugar illegal inch find rely else pistol element perfect like";
+var mnemonic = "vapor transfer recipe bleak flat holiday toddler stereo mutual false mobile chief";

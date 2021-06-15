@@ -1,1 +1,1 @@
-var mnemonic = "zone couple obvious begin outdoor spike wet fox decrease aim call welcome";
+var mnemonic = "wise raccoon faculty giant stick wrist box earth angle success rubber cake";

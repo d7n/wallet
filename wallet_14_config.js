@@ -1,1 +1,1 @@
-var mnemonic = "stereo mesh guard exchange salad confirm weekend census silent visual orange matrix";
+var mnemonic = "climb mirror hidden urban sell common update recipe fuel income quick agree";

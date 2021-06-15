@@ -1,1 +1,1 @@
-var mnemonic = "power enroll upon misery purse harbor base black head gasp town jar";
+var mnemonic = "trouble clean crime wasp grocery opinion hole food garment relief flag sing";

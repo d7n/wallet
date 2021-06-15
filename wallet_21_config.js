@@ -1,1 +1,1 @@
-var mnemonic = "always hen style write win dawn category zone shrimp genius marine round";
+var mnemonic = "brass pottery grid wonder distance pottery lonely slight easily invite anchor melt";

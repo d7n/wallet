@@ -1,1 +1,1 @@
-var mnemonic = "bone crush exact cabbage glare install produce road critic blast wife ankle";
+var mnemonic = "clinic bomb tuition energy charge scan angle giant hobby depend boss together";

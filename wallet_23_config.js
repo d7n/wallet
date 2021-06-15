@@ -1,1 +1,1 @@
-var mnemonic = "model struggle slim recall grid skull joy pole rotate extend noble hawk";
+var mnemonic = "jazz duck void lens flame unhappy arrive blanket limit ankle marine mad";

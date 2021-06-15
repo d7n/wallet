@@ -1,1 +1,1 @@
-var mnemonic = "salon guard spice museum pony beef mass rally symbol tank traffic sadness";
+var mnemonic = "visual hand gap flock cruise blind raccoon sauce shift place great exhibit";

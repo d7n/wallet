@@ -1,1 +1,1 @@
-var mnemonic = "solution neglect wealth action agent amazing clarify toddler entire rack oblige vacant";
+var mnemonic = "obtain coral rookie guitar furnace weekend target sponsor latin faint climb clump";

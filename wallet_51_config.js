@@ -1,1 +1,1 @@
-var mnemonic = "chest spot option ripple tag debris rigid invite evoke space good ski";
+var mnemonic = "credit helmet admit ankle eight equal suit catalog error orphan abuse hidden";

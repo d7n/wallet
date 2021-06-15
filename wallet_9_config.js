@@ -1,1 +1,1 @@
-var mnemonic = "axis winner fabric outside cage analyst around father resemble october injury cannon";
+var mnemonic = "combine farm island wave funny phone will fortune equal horn credit clay";

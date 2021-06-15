@@ -1,1 +1,1 @@
-var mnemonic = "pet thumb chef fatigue alien kind item base rural rifle drum outside";
+var mnemonic = "dream assault exact announce scout mix juice father network inquiry trouble analyst";

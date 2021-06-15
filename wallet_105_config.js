@@ -1,1 +1,1 @@
-var mnemonic = "sing jungle tone island worry effort erosion merge surface punch admit silver";
+var mnemonic = "exercise own power advance mother flag hero impose demand left grass peace";
