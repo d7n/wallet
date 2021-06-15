@@ -1,1 +1,1 @@
-var mnemonic = "snap must before lizard promote enact mercy pigeon loan adjust cram cherry";
+var mnemonic = "lava hurt obscure focus buzz situate mixture trial shine bullet spend tape";

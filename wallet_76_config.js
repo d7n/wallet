@@ -1,1 +1,1 @@
-var mnemonic = "wall dry drive before typical depend frown coconut glass mystery holiday copper";
+var mnemonic = "weather eagle harbor ridge rescue truth bless uphold road give hope system";

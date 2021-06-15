@@ -1,1 +1,1 @@
-var mnemonic = "absent chapter found crumble sock drill truly suggest toward menu future tent";
+var mnemonic = "network sun solar sand firm street three arch lazy soccer moon spike";

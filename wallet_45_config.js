@@ -1,1 +1,1 @@
-var mnemonic = "citizen wedding pill fragile seven robust whisper neither marble disease skate embrace";
+var mnemonic = "crucial audit frog thing rely rail canal fire sister direct october toddler";

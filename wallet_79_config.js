@@ -1,1 +1,1 @@
-var mnemonic = "peasant cool frozen avoid multiply lawn rate orient trigger dismiss luxury voice";
+var mnemonic = "two betray chronic eyebrow humor major habit never chase leisure snack thought";

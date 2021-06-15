@@ -1,1 +1,1 @@
-var mnemonic = "myself armed stable venue series damage spot region crane forest path human";
+var mnemonic = "crowd virus coil kidney board hello verify frequent donkey prepare ability salt";

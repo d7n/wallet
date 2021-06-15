@@ -1,1 +1,1 @@
-var mnemonic = "glide uniform brown moon mushroom source reward betray this replace dad chair";
+var mnemonic = "trade skin orchard alien blast crawl expire device oxygen hurry pony guess";

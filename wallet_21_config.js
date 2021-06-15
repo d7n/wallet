@@ -1,1 +1,1 @@
-var mnemonic = "history fresh clarify people garlic nature nerve dirt candy glory horn diagram";
+var mnemonic = "team annual weapon rapid bulb mammal asthma become gospel explain blood control";

@@ -1,1 +1,1 @@
-var mnemonic = "recipe garage kingdom season predict mix know bread eager slush mixture warrior";
+var mnemonic = "tuna left crystal drama verify staff diet absent mountain bulk double accident";

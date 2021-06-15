@@ -1,1 +1,1 @@
-var mnemonic = "illness behave throw tank cruise chalk roast vital electric poet street upgrade";
+var mnemonic = "village pass cream say exit already wet acid spin travel glide nut";

@@ -1,1 +1,1 @@
-var mnemonic = "mad rival mean pool update magnet wagon critic equal awesome hunt wait";
+var mnemonic = "feed analyst melody cherry depth include exile crew cupboard trust jewel brick";

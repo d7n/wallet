@@ -1,1 +1,1 @@
-var mnemonic = "vendor glow unveil share drop loud sunny session frame there siren immune";
+var mnemonic = "rotate kind inch school couch orange monkey rice recycle gallery access father";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle gun worry peasant decrease grass lounge cradle box there denial ethics";
+var mnemonic = "universe later hunt trophy glance time wait tag verb almost inside mango";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant prison prefer silly omit ill spirit chapter life spy balance material";
+var mnemonic = "load define access flee fog detect menu later brick sail around laugh";

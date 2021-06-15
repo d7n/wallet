@@ -1,1 +1,1 @@
-var mnemonic = "tomato submit slight glove current fatigue flash cigar cereal shed spider update";
+var mnemonic = "diet arrest myth spoon slight ice segment hybrid tongue utility wise please";

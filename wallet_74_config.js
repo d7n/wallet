@@ -1,1 +1,1 @@
-var mnemonic = "borrow lecture sense nut clump knife mesh cradle wrong leopard wheat upon";
+var mnemonic = "oblige kite spin auto steak teach cause cabin gather finger perfect light";

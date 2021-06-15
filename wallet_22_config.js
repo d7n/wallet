@@ -1,1 +1,1 @@
-var mnemonic = "decide oyster denial unlock stool alone giant movie crumble town need discover";
+var mnemonic = "whale cactus blast quote spatial tool kite draw agree three deliver guard";

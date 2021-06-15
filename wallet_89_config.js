@@ -1,1 +1,1 @@
-var mnemonic = "grunt social diet elder connect cattle total gentle indoor amused woman play";
+var mnemonic = "mesh borrow evoke neck emerge dove pony trophy antique what knock choice";

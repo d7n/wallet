@@ -1,1 +1,1 @@
-var mnemonic = "social silent human swift put credit rough icon senior zoo cancel payment";
+var mnemonic = "damage cousin track ethics dynamic pepper lecture river legal caught goose arrest";

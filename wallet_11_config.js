@@ -1,1 +1,1 @@
-var mnemonic = "agent such car offer expand border knife yard clever shoulder spoon clown";
+var mnemonic = "void position cake room twist bag smooth oak side alter ability drill";

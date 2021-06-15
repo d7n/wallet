@@ -1,1 +1,1 @@
-var mnemonic = "drastic chunk junior swarm nice feel tonight clog magnet divert among grid";
+var mnemonic = "ill lake consider hole bind crew believe crouch vapor series catalog divert";

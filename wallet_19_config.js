@@ -1,1 +1,1 @@
-var mnemonic = "chef seek mountain custom tail army pink night quality moment quarter gift";
+var mnemonic = "segment burden appear witness skirt injury lonely silk doctor birth calm march";

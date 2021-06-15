@@ -1,1 +1,1 @@
-var mnemonic = "tackle engage notice charge goat pair escape bitter paddle rabbit vocal stage";
+var mnemonic = "mystery screen list approve box portion jaguar skull solution bubble raise genre";

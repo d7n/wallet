@@ -1,1 +1,1 @@
-var mnemonic = "squeeze shuffle depart tone bar office idle husband spatial miracle cousin tonight";
+var mnemonic = "pet glad mountain ugly security video awkward service list latin shed rate";

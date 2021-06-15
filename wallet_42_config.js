@@ -1,1 +1,1 @@
-var mnemonic = "quick guard admit light that manage sort nasty quick virtual account badge";
+var mnemonic = "exhibit track humble distance green fish island north pink evoke simple double";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware repeat monkey fog alert labor boost cause rival brain sight luxury";
+var mnemonic = "script choose matter hundred funny donkey shop buffalo sting surge school razor";

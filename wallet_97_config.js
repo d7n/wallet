@@ -1,1 +1,1 @@
-var mnemonic = "drink lounge outer arctic logic cream lizard tag mechanic brass icon yellow";
+var mnemonic = "ginger start stable salt addict spread mad expire space trumpet result defy";

@@ -1,1 +1,1 @@
-var mnemonic = "worry grief tonight foam nuclear setup caution cricket analyst brick curious say";
+var mnemonic = "hip tree obvious wash alarm torch debate party sentence object quality dress";

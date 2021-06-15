@@ -1,1 +1,1 @@
-var mnemonic = "talent brick month assume target spend nut tuna camera comfort script media";
+var mnemonic = "fuel target seek device maze pen text fame nasty say wash maple";

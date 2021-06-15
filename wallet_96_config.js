@@ -1,1 +1,1 @@
-var mnemonic = "employ deal remind warm prepare empower gauge mother chunk pony cake also";
+var mnemonic = "steel similar broken man crisp protect onion mercy demand depart enrich clay";

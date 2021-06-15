@@ -1,1 +1,1 @@
-var mnemonic = "bar awake mansion mask way spray wrap useless exhaust give six job";
+var mnemonic = "notice relief mesh weekend welcome wrist recall license grit attitude reject lecture";

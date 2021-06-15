@@ -1,1 +1,1 @@
-var mnemonic = "circle enter valley sand vault pencil trophy sudden tissue fall lift warrior";
+var mnemonic = "what rely loyal pair stereo room play cruise river alien comic wink";

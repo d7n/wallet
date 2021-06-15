@@ -1,1 +1,1 @@
-var mnemonic = "release marine month purse wife hire beauty forum drastic smile taste market";
+var mnemonic = "old harsh utility mansion pilot between seat gossip seek tunnel venture pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin ribbon fence across know unable upper load clutch during grape absurd";
+var mnemonic = "envelope celery rookie resource clown luggage agent vanish audit squeeze program permit";

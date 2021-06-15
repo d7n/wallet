@@ -1,1 +1,1 @@
-var mnemonic = "amazing inch round educate hammer clog company apple ill tennis eagle guess";
+var mnemonic = "reflect cat olive desert about furnace debris oil purity wrist depend glimpse";

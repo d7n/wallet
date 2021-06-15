@@ -1,1 +1,1 @@
-var mnemonic = "coach minute deal tip like creek ahead phrase impose clock estate twist";
+var mnemonic = "alarm vicious trigger master notable fox shy power manual glow alpha essay";

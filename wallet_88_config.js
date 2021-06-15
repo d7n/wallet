@@ -1,1 +1,1 @@
-var mnemonic = "nerve pyramid firm dinosaur culture flip check today infant mom genius ankle";
+var mnemonic = "vital drama best hotel humor bachelor tumble glue staff negative zero dizzy";

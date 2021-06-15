@@ -1,1 +1,1 @@
-var mnemonic = "scorpion dice canoe random unfair toy protect cage term myself brisk vast";
+var mnemonic = "load busy merit primary pluck apology idle warrior gorilla charge vocal velvet";

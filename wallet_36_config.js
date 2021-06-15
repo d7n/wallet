@@ -1,1 +1,1 @@
-var mnemonic = "pilot annual annual swamp balance want music pizza blanket labor antique kidney";
+var mnemonic = "erupt fitness area wink helmet throw umbrella divert melt mystery enable chuckle";

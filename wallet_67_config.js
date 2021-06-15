@@ -1,1 +1,1 @@
-var mnemonic = "shell edit correct left curtain ritual friend flash civil diamond purchase common";
+var mnemonic = "quality faculty scatter used hurdle prosper common magic plunge weather seven laugh";

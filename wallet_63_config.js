@@ -1,1 +1,1 @@
-var mnemonic = "mixed boat mechanic flame address tent vibrant midnight party multiply feed code";
+var mnemonic = "possible birth abandon pottery abandon sting verb rural art inhale flip present";

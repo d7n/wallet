@@ -1,1 +1,1 @@
-var mnemonic = "sea sail inside mom claim long there athlete mother coffee denial any";
+var mnemonic = "skill believe then plate age invest ugly toilet deposit clog tunnel garment";

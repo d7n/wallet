@@ -1,1 +1,1 @@
-var mnemonic = "electric general stomach voyage witness betray venue leaf soft outdoor very cage";
+var mnemonic = "skin old cause gospel setup praise tank garden heavy winner dirt taste";

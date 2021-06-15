@@ -1,1 +1,1 @@
-var mnemonic = "clutch inner bright possible wide census initial panel vessel guitar daughter snap";
+var mnemonic = "theme swap pole adjust multiply trust among foam crush tourist donkey melt";

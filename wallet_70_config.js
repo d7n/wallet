@@ -1,1 +1,1 @@
-var mnemonic = "diamond apple easy public twist seed scrap onion attract pill expect square";
+var mnemonic = "program slab crystal pretty hub man someone drama normal column believe antique";

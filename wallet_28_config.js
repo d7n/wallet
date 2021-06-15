@@ -1,1 +1,1 @@
-var mnemonic = "submit member seven lazy assume fossil gasp soul web tackle improve salad";
+var mnemonic = "panic spring pony lamp slow admit arm pattern ship security lucky sense";

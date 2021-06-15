@@ -1,1 +1,1 @@
-var mnemonic = "attitude hello topple attend resource enemy figure index problem mechanic hedgehog echo";
+var mnemonic = "time session syrup uncover empower steel twenty head time lava blade nasty";

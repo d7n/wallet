@@ -1,1 +1,1 @@
-var mnemonic = "sentence shrimp claim rain detect twin dignity hundred guide sure dismiss engage";
+var mnemonic = "talk tennis lock chase kangaroo amount faint olympic end animal dentist clump";

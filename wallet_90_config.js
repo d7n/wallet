@@ -1,1 +1,1 @@
-var mnemonic = "smart body afraid fancy tiny jungle dinner recipe swim letter share winter";
+var mnemonic = "barrel attack oil era retire skirt outdoor divert object bone jacket laugh";

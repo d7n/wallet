@@ -1,1 +1,1 @@
-var mnemonic = "lemon trumpet carry luxury tent all flag device switch visa student dignity";
+var mnemonic = "output trigger replace supply scan weapon ranch frequent until mule announce basic";

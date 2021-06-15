@@ -1,1 +1,1 @@
-var mnemonic = "spike stage outer frown image invest giggle hungry bag garage junk mass";
+var mnemonic = "stamp fire double major unknown lazy control this face cash middle creek";

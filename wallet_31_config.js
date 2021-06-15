@@ -1,1 +1,1 @@
-var mnemonic = "media gaze brief purpose predict holiday lab bus tonight alone dice strong";
+var mnemonic = "sleep proud argue move carpet dinosaur jump nasty luggage delay assist swing";

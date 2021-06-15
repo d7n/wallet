@@ -1,1 +1,1 @@
-var mnemonic = "deny arena figure window shoot couple marine crush cook rabbit topic lumber";
+var mnemonic = "caught way tennis usual cup bamboo trick duck bone brisk better ramp";

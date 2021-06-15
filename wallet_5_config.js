@@ -1,1 +1,1 @@
-var mnemonic = "wash inhale much tiny game talk two coyote festival valid ask coach";
+var mnemonic = "history cricket dream antenna air term enrich barrel stadium team blade oven";

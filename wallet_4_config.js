@@ -1,1 +1,1 @@
-var mnemonic = "rapid call capable tomorrow volcano pet pattern pelican chapter catalog random screen";
+var mnemonic = "unfair clay layer wool act enhance organ grid clump develop glory change";

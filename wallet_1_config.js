@@ -1,1 +1,1 @@
-var mnemonic = "limit elegant immense media talk staff twenty luxury bronze brave school practice";
+var mnemonic = "step volcano happy erosion era lake insect ivory tip power around canyon";

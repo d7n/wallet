@@ -1,1 +1,1 @@
-var mnemonic = "angry page dawn laptop main thank dirt make time urban color galaxy";
+var mnemonic = "myth mixture section renew glue grocery accuse dove timber ecology grape option";

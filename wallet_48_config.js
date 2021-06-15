@@ -1,1 +1,1 @@
-var mnemonic = "only chuckle gun nut video cute usage summer title deal about hero";
+var mnemonic = "boss castle economy sweet world salad mom under vast love visa have";

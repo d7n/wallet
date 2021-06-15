@@ -1,1 +1,1 @@
-var mnemonic = "panic chief amateur minor fold coin want rabbit health source primary toilet";
+var mnemonic = "ordinary excess skull earn theory group laptop banana hurry desert captain impulse";

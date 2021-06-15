@@ -1,1 +1,1 @@
-var mnemonic = "regular purchase word august inner hair craft frozen thunder mimic couple advance";
+var mnemonic = "about welcome wise other room math aerobic grunt pole fluid exclude essence";

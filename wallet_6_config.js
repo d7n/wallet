@@ -1,1 +1,1 @@
-var mnemonic = "bamboo genius nut silver unaware winter invest mom rifle leisure design pretty";
+var mnemonic = "electric doll excite daughter tunnel tunnel staff blossom half sudden easy permit";

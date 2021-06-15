@@ -1,1 +1,1 @@
-var mnemonic = "session duty popular mail delay gossip stage ring upset job tattoo viable";
+var mnemonic = "ripple sentence develop include absurd off trade print recall upgrade pink this";

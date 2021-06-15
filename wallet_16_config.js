@@ -1,1 +1,1 @@
-var mnemonic = "neglect tissue brand elevator humble job put visa audit skill captain name";
+var mnemonic = "mother lucky hammer embrace monster fiscal maid flower team benefit alien boring";

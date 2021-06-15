@@ -1,1 +1,1 @@
-var mnemonic = "afraid over road funny light sadness empower off naive smooth apology shadow";
+var mnemonic = "hood maid valid decide consider spin garbage garment bulk endless flight math";

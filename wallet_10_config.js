@@ -1,1 +1,1 @@
-var mnemonic = "faith exist giant hockey property input vivid wisdom trophy unique famous country";
+var mnemonic = "pool fringe ship logic purchase express venture pioneer inflict unique rack surround";

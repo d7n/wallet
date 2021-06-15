@@ -1,1 +1,1 @@
-var mnemonic = "sing book true adapt visit genuine critic torch diet enroll april frozen";
+var mnemonic = "source ten picnic paddle motor below only trip move design flag million";

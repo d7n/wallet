@@ -1,1 +1,1 @@
-var mnemonic = "sponsor left table install anxiety debris foil run wheat tone slice certain";
+var mnemonic = "report resource warm drama giraffe rule bleak elder expire discover miracle potato";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant glue shine forward behave unhappy junior below draw chief parrot door";
+var mnemonic = "alter video trim marble talent indoor odor win movie trial retreat have";

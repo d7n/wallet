@@ -1,1 +1,1 @@
-var mnemonic = "police ritual rather tip leader monkey level input second empty escape nation";
+var mnemonic = "divert unhappy recycle upset home hobby mango live focus hotel bulb grid";

@@ -1,1 +1,1 @@
-var mnemonic = "image room ready imitate dinosaur tone gun need pepper mango emerge region";
+var mnemonic = "idea tattoo strike flock elite lumber feel parent there poem valley chest";

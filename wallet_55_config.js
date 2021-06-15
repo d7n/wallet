@@ -1,1 +1,1 @@
-var mnemonic = "dignity trash common spider recipe conduct vehicle lobster busy exact enrich treat";
+var mnemonic = "coin drive find reason delay audit glove such demand play proud amazing";

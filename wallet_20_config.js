@@ -1,1 +1,1 @@
-var mnemonic = "dynamic faculty benefit symbol gadget sunny shy below sword cement armor flock";
+var mnemonic = "grain blush romance strong runway sunset ranch people since obtain squeeze scrub";

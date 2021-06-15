@@ -1,1 +1,1 @@
-var mnemonic = "fragile urge action wrist flight case into chunk neck orbit lesson vacant";
+var mnemonic = "globe later mule frame easily donor knock chunk error comfort fine noise";

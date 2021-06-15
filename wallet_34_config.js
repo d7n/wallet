@@ -1,1 +1,1 @@
-var mnemonic = "crew enough stove unveil nest layer quiz tide huge flag mercy stomach";
+var mnemonic = "catch remember strike flight oven resemble trip citizen run knock cement inhale";

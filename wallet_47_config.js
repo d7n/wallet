@@ -1,1 +1,1 @@
-var mnemonic = "alter spring benefit initial brick divert choose rocket avocado inhale lamp hundred";
+var mnemonic = "spring garment source october author detect gesture shell merge night state clip";

@@ -1,1 +1,1 @@
-var mnemonic = "theory surprise erode flip always embody system style coffee tomato merry deposit";
+var mnemonic = "citizen okay lazy fade else solution toilet hip blast eye gain noise";

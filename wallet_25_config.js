@@ -1,1 +1,1 @@
-var mnemonic = "prevent renew muscle play regular anchor page excess better track verb bike";
+var mnemonic = "kid gloom east there truck crystal shell sound unable receive muffin pact";

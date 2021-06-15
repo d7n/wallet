@@ -1,1 +1,1 @@
-var mnemonic = "project truth wreck figure day harbor fever truly tackle gauge mail pizza";
+var mnemonic = "era vivid deposit mom region excuse sort tourist party letter story uncle";

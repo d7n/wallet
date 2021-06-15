@@ -1,1 +1,1 @@
-var mnemonic = "domain ramp sweet stadium fashion fantasy marine siren miss wild alien renew";
+var mnemonic = "shine script judge february genre tongue gather drift lucky sight skill mass";

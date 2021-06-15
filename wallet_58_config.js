@@ -1,1 +1,1 @@
-var mnemonic = "van suspect tourist shock ball upper double grocery wink approve desert comic";
+var mnemonic = "pupil treat route lock era night furnace carpet mimic profit pigeon cook";

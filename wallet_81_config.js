@@ -1,1 +1,1 @@
-var mnemonic = "grief random stumble destroy assault song outer place merit tomorrow feel empty";
+var mnemonic = "token damage radio mechanic forward trust denial wait sibling observe around quick";

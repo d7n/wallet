@@ -1,1 +1,1 @@
-var mnemonic = "release bring clip drip derive below height claw marble concert lonely ticket";
+var mnemonic = "pretty target light pipe town output diet silly cigar life elevator art";

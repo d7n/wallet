@@ -1,1 +1,1 @@
-var mnemonic = "hidden model dose latin rhythm junk major document cherry pizza finish scrub";
+var mnemonic = "noise hurdle camera sunset glove demise rose nephew feature dish brick crane";

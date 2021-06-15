@@ -1,1 +1,1 @@
-var mnemonic = "impose unfair little village rhythm person build wrap lift devote harsh ethics";
+var mnemonic = "hidden cigar robot copy unaware unknown pottery key stable prepare tragic promote";

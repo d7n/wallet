@@ -1,1 +1,1 @@
-var mnemonic = "tag rose bus cube coin bronze fashion cross minimum churn cover firm";
+var mnemonic = "design kite entry advice measure quiz team leaf walk long brand vendor";

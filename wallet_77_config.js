@@ -1,1 +1,1 @@
-var mnemonic = "air latin various offer viable armed picture lawsuit blood equip whisper farm";
+var mnemonic = "civil cart glide venture solution evoke problem demise sting wide melt mesh";

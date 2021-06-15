@@ -1,1 +1,1 @@
-var mnemonic = "hawk bundle drastic transfer jungle egg accident twin peanut firm vocal long";
+var mnemonic = "erupt field pass time crucial joy possible nut desk husband nature sound";

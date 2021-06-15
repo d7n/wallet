@@ -1,1 +1,1 @@
-var mnemonic = "object nest grit random hedgehog piece chapter alert blame goose citizen tent";
+var mnemonic = "negative hen edit friend stick assume forget that sibling merry crash utility";

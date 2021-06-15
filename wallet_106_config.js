@@ -1,1 +1,1 @@
-var mnemonic = "marriage distance ugly blame black travel upgrade flat plug fancy dumb cook";
+var mnemonic = "subway scorpion book ostrich insect annual brief car reflect melody random crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "orient must era again agent invite giraffe sketch release update word strong";
+var mnemonic = "profit laugh fade corn afford someone this mind quiz neck trumpet indoor";

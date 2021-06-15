@@ -1,1 +1,1 @@
-var mnemonic = "milk affair enforce appear cat drill edit example wink silly jewel name";
+var mnemonic = "lens mouse admit shine frost nest wonder stand access engage feel captain";

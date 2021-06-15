@@ -1,1 +1,1 @@
-var mnemonic = "remove subway fade century bus soon dice imitate traffic parent pulse oil";
+var mnemonic = "language path awake barely case talent tackle start abandon fancy steak property";

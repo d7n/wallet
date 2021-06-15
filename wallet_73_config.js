@@ -1,1 +1,1 @@
-var mnemonic = "panther awake snack cargo nice soul biology quantum swallow project improve change";
+var mnemonic = "bus rather puzzle wasp pledge orphan rug pattern three learn joy trade";

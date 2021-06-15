@@ -1,1 +1,1 @@
-var mnemonic = "ankle insect vehicle slush hero match stuff sugar speak radar garden notice";
+var mnemonic = "define sweet discover love hero hurry tiny rice crisp ticket action menu";
