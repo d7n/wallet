@@ -1,1 +1,1 @@
-var mnemonic = "shallow snap clean lecture anger blur where now foil bleak arm great";
+var mnemonic = "matrix usage exotic chalk blouse artist ill leaf excess habit say cat";

@@ -1,1 +1,1 @@
-var mnemonic = "scout bottom artist hard age wise dutch tornado attitude skin affair few";
+var mnemonic = "cigar sunset marine exit cloud position own double smart toss alarm labor";

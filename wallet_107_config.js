@@ -1,1 +1,1 @@
-var mnemonic = "loud music promote circle regular cotton salt raccoon sense pretty near punch";
+var mnemonic = "maid glare kitten gossip burden loop bone act sphere blind spend talent";

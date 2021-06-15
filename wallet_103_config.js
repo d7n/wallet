@@ -1,1 +1,1 @@
-var mnemonic = "predict dove coral face mimic caution custom coyote select measure spread solution";
+var mnemonic = "atom mesh little slim fold enough goose slam asthma ahead hub then";

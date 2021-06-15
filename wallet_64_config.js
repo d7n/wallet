@@ -1,1 +1,1 @@
-var mnemonic = "tail limit vibrant hundred end business cluster seat forward viable shiver similar";
+var mnemonic = "camera surprise tonight fossil cloth retire pass emotion fever bridge short disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "radar spike kitten kiss emotion relief category equip client giggle perfect rabbit";
+var mnemonic = "alter mountain length style lizard chaos pattern salon slender above rapid jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "high cloth fault unable valve candy grunt saddle range kidney casino genuine";
+var mnemonic = "worth family elbow pull cattle volcano reveal idle suspect lounge day shoe";

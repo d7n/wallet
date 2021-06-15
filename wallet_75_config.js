@@ -1,1 +1,1 @@
-var mnemonic = "prefer deal attend aware media hurdle drink audit faint accuse involve tower";
+var mnemonic = "sword salmon room multiply silk perfect river list method asthma artist involve";

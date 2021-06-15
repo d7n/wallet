@@ -1,1 +1,1 @@
-var mnemonic = "brother empty talk pipe garlic riot right welcome climb april rescue surge";
+var mnemonic = "mimic obscure bacon away chicken code book recipe slow follow memory sample";

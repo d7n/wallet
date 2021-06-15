@@ -1,1 +1,1 @@
-var mnemonic = "either child poverty exercise raise throw coil vital garbage blur ordinary water";
+var mnemonic = "shoot cradle group prize dwarf social unfair champion cage host sign curtain";

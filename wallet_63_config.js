@@ -1,1 +1,1 @@
-var mnemonic = "document oppose fitness derive slam alter subway ski quantum match myth envelope";
+var mnemonic = "swarm athlete hello receive captain olive thumb miss regular drill enforce library";

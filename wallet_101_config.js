@@ -1,1 +1,1 @@
-var mnemonic = "ice upgrade awake student riot winter regret omit coach reject swamp tunnel";
+var mnemonic = "resource barely game assault holiday fitness razor rack sure balance critic unhappy";

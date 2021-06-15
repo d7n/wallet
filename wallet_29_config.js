@@ -1,1 +1,1 @@
-var mnemonic = "evil treat approve grace chat involve promote room adjust coffee jar doll";
+var mnemonic = "omit all drift virtual glow sunset vault salt sad quit box rebuild";

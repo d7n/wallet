@@ -1,1 +1,1 @@
-var mnemonic = "nephew keep visa worth pause sniff defense pottery memory average dawn october";
+var mnemonic = "foster pupil carbon maze plunge early job always online replace life cactus";

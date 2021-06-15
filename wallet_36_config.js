@@ -1,1 +1,1 @@
-var mnemonic = "flip quality uniform damage palace twin east accuse music match hub witness";
+var mnemonic = "flash match stick patch collect thought time engine nasty shadow fringe cycle";

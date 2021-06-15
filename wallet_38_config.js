@@ -1,1 +1,1 @@
-var mnemonic = "city pencil dawn lion chair boost detect focus sound industry demand silly";
+var mnemonic = "split amateur approve like job discover share truly divert child vacuum mad";

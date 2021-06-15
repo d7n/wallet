@@ -1,1 +1,1 @@
-var mnemonic = "ginger march region ozone replace degree dad orphan owner spoil effort broccoli";
+var mnemonic = "stand estate involve layer inside lunch system choice sadness cheap network reduce";

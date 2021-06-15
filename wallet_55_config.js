@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin area glance menu truth dash girl ordinary favorite birth fever trouble";
+var mnemonic = "invite wish usage eye expire dirt armed scrap occur green consider area";

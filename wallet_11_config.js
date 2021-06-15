@@ -1,1 +1,1 @@
-var mnemonic = "buffalo tooth hobby mind carbon analyst bitter flower very idle clip spring";
+var mnemonic = "prepare august hockey lazy hole orange morning ranch acid board wing stuff";

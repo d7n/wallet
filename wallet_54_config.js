@@ -1,1 +1,1 @@
-var mnemonic = "illness gravity else squeeze couple artist invite clinic become lecture example junior";
+var mnemonic = "impulse myself gather fish tornado prize fun fuel agent panic spider recycle";

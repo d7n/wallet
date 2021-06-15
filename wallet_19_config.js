@@ -1,1 +1,1 @@
-var mnemonic = "uncover dawn cousin bottom tube label once price beach loud attend science";
+var mnemonic = "maid exotic group rely order else circle isolate dawn agree employ luggage";

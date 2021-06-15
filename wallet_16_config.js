@@ -1,1 +1,1 @@
-var mnemonic = "glow planet bulb you usage what analyst rhythm name outer begin photo";
+var mnemonic = "breeze need vendor garage talent wait gun monitor trial orient wrestle inside";

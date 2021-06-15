@@ -1,1 +1,1 @@
-var mnemonic = "sand drink romance coin mix simple orchard west renew obscure elegant bulk";
+var mnemonic = "champion damp horn caution wish ivory slot quiz gift swing wish mercy";

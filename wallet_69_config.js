@@ -1,1 +1,1 @@
-var mnemonic = "business version rocket push noodle hurdle puzzle sad coconut property wise bounce";
+var mnemonic = "correct bleak three cup movie discover grocery organ frost night other list";

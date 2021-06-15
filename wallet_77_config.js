@@ -1,1 +1,1 @@
-var mnemonic = "wheat annual lady twist only monster mechanic tired rice field screen rice";
+var mnemonic = "also wrestle artwork trick canal library young service this anxiety loyal join";

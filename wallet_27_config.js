@@ -1,1 +1,1 @@
-var mnemonic = "note adjust ostrich arctic entry term piano anger mix brother like expect";
+var mnemonic = "behave chuckle beyond liar skin mutual flower unfold quality swift prize struggle";

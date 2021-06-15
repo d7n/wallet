@@ -1,1 +1,1 @@
-var mnemonic = "spend target monster mail lab spell regret weather banner child physical tell";
+var mnemonic = "oyster rug sadness select reject crash phone gospel define shallow angle pyramid";

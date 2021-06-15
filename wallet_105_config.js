@@ -1,1 +1,1 @@
-var mnemonic = "vehicle december cotton estate ankle wagon ocean present unusual walnut country other";
+var mnemonic = "denial credit fuel acquire just avocado chimney cross siege security flash bulk";

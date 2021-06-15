@@ -1,1 +1,1 @@
-var mnemonic = "antenna same remove retire breeze pause manual hedgehog slab mercy fade iron";
+var mnemonic = "special interest use seat honey milk fluid use good chicken want crazy";

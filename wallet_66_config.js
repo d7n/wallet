@@ -1,1 +1,1 @@
-var mnemonic = "auto loop expire viable wasp champion trust barely swift bullet rib level";
+var mnemonic = "main clog receive way view love old follow business rabbit field around";

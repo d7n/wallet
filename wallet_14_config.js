@@ -1,1 +1,1 @@
-var mnemonic = "olive unusual there pet midnight spatial resemble fashion elevator knock permit hawk";
+var mnemonic = "theme nest power scrub shell meat lion price expire ensure current inner";

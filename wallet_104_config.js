@@ -1,1 +1,1 @@
-var mnemonic = "season immune room quarter feel extra speed bracket sweet fork primary salute";
+var mnemonic = "notable drop bottom toe protect diamond present genius marriage magic economy soon";

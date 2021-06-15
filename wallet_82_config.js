@@ -1,1 +1,1 @@
-var mnemonic = "winner tired thank zebra traffic gift coral dilemma brass era honey height";
+var mnemonic = "index sausage false picture final glue cushion iron order achieve silver hope";

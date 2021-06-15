@@ -1,1 +1,1 @@
-var mnemonic = "sea attitude patrol attack measure window smoke phrase motion student circle toddler";
+var mnemonic = "bunker fade symbol donate loud tragic release over ridge razor uphold always";

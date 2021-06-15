@@ -1,1 +1,1 @@
-var mnemonic = "deer device fury better remove replace off number tragic glare mercy area";
+var mnemonic = "year purpose grain purpose super give garment sustain blush medal client color";

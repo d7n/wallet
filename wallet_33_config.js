@@ -1,1 +1,1 @@
-var mnemonic = "weather rely side swear frame pattern idle promote own exhaust rescue ostrich";
+var mnemonic = "address road skill panic supreme credit valid pupil slow soul mule regular";

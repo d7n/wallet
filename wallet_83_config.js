@@ -1,1 +1,1 @@
-var mnemonic = "grief wasp either river kitten annual victory jar robust bid cliff casino";
+var mnemonic = "same drum trophy velvet banner olive wash path rose stone exhibit tiny";

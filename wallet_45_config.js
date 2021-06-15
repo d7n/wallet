@@ -1,1 +1,1 @@
-var mnemonic = "judge chunk cereal anger educate extend spider item major intact same shift";
+var mnemonic = "option path plunge curtain can tape enjoy diagram town celery slot luggage";

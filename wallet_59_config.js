@@ -1,1 +1,1 @@
-var mnemonic = "drama coach spread grab current provide before provide domain object expose blue";
+var mnemonic = "boost owner guess tackle discover option search have artefact mutual hood pear";

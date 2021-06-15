@@ -1,1 +1,1 @@
-var mnemonic = "income evoke loyal cluster know tag protect license hockey unit deer boost";
+var mnemonic = "tube scatter sight giraffe glue beef good useful already goddess village joy";

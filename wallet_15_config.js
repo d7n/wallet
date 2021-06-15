@@ -1,1 +1,1 @@
-var mnemonic = "episode myth burst decline captain work twist crouch little snap crime present";
+var mnemonic = "exclude rib craft solution install tumble elephant age supply memory twelve verify";

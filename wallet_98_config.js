@@ -1,1 +1,1 @@
-var mnemonic = "model vibrant steel jewel gaze possible enrich permit palace fossil absent middle";
+var mnemonic = "sauce stairs forum snack marine tank sock broken gate treat mix imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "coast caution gas quit step ball flag open high prefer enter post";
+var mnemonic = "garment awkward use fatal music merry jewel blind install error range aware";

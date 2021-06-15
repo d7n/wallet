@@ -1,1 +1,1 @@
-var mnemonic = "surface release shop engage rapid sound inside give sick oven depart polar";
+var mnemonic = "spell width screen script junior when advice census cradle slam taste wrong";

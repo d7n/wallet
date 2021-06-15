@@ -1,1 +1,1 @@
-var mnemonic = "gaze clinic flight crazy edit subject series laundry choose amateur patch quiz";
+var mnemonic = "easy practice never lawn merry gauge odor garage tilt bubble knife hand";

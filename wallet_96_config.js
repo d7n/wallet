@@ -1,1 +1,1 @@
-var mnemonic = "exile hunt lizard over olive fox oxygen faculty reason leisure exhaust police";
+var mnemonic = "slice lawsuit finger one coffee hawk leg tuna mention blame wrestle enroll";

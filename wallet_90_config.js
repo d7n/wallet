@@ -1,1 +1,1 @@
-var mnemonic = "copper artefact swamp settle cube convince speed desk round castle enforce subject";
+var mnemonic = "walk cause priority fabric help hurt sniff soon fit latin reunion patient";

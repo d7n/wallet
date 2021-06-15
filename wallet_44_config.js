@@ -1,1 +1,1 @@
-var mnemonic = "update trash tiger chef beyond develop ice blue relax claim blue shuffle";
+var mnemonic = "regret circle casino neutral pulse need canvas aisle trap wild idea inmate";

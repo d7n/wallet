@@ -1,1 +1,1 @@
-var mnemonic = "correct type render mammal grape armed sight arm exhibit fever divide adapt";
+var mnemonic = "banana gold great sound ethics reward snow curious combine tornado forward empower";

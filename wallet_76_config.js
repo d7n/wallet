@@ -1,1 +1,1 @@
-var mnemonic = "assault modify pyramid scrub enter abuse harvest worry market hair urban exchange";
+var mnemonic = "gun word plug erode rotate autumn modify harbor throw fetch roast stock";

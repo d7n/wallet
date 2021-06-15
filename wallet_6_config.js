@@ -1,1 +1,1 @@
-var mnemonic = "lunar wife avoid pulp shoot soccer illegal piano father fit live leopard";
+var mnemonic = "problem panda industry notice erosion trouble build riot scissors segment wolf mesh";

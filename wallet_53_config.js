@@ -1,1 +1,1 @@
-var mnemonic = "issue huge wedding cruise raise wheat quick divert hundred drink develop across";
+var mnemonic = "rebel segment define poem nerve indicate state peasant chunk million present solar";

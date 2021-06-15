@@ -1,1 +1,1 @@
-var mnemonic = "live eye letter roast short bargain senior space grunt ivory jump north";
+var mnemonic = "gather village horn fabric champion fan initial ready ridge inside math deer";

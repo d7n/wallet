@@ -1,1 +1,1 @@
-var mnemonic = "pause test inside wire type coast citizen cancel finish tree rubber job";
+var mnemonic = "fix outdoor witness victory range chef dash tennis spread rate guilt gossip";

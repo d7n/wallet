@@ -1,1 +1,1 @@
-var mnemonic = "release tunnel cluster actor illness duty shrimp antenna couch mixture immense ladder";
+var mnemonic = "pitch tonight during name clip ecology lend crane type evoke labor scan";

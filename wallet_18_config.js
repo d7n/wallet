@@ -1,1 +1,1 @@
-var mnemonic = "venue grief initial setup strategy object escape require drink brush sudden lemon";
+var mnemonic = "ignore tip spot project focus check alley seek mercy lumber knee vicious";

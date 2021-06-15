@@ -1,1 +1,1 @@
-var mnemonic = "leader eyebrow fly shiver pool kitchen cactus before seminar that zebra pave";
+var mnemonic = "rebel wait shock gym list remind text prepare giraffe drama slice chalk";

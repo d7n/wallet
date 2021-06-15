@@ -1,1 +1,1 @@
-var mnemonic = "record truth father noodle depth select poem loyal seminar capital load taxi";
+var mnemonic = "exchange reform cliff giggle involve promote group gossip hawk domain jazz basket";

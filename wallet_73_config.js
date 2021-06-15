@@ -1,1 +1,1 @@
-var mnemonic = "vital churn goose penalty travel tourist chair return unaware switch season demand";
+var mnemonic = "soap oblige embrace oven oxygen acoustic gentle crisp round bitter cable december";

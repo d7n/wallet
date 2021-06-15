@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow stick oven current company shoe recall exile below ethics excuse mom";
+var mnemonic = "stand dutch cup join wheat pulp depart cupboard stool jeans luggage lottery";

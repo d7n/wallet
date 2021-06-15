@@ -1,1 +1,1 @@
-var mnemonic = "resource essence climb dinner dove flip yard course extra verb ranch tilt";
+var mnemonic = "hen hero canvas oven quit region help before pitch burden where dove";

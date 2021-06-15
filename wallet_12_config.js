@@ -1,1 +1,1 @@
-var mnemonic = "adjust combine issue term abuse enact wonder hole easy pyramid quiz jungle";
+var mnemonic = "armed dawn easy claim coffee young perfect quality lake envelope sad upon";

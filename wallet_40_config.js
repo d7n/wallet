@@ -1,1 +1,1 @@
-var mnemonic = "doctor arrange video peace please aisle lens record best jeans wool explain";
+var mnemonic = "section ticket west shock buzz soda thought age true list path crumble";

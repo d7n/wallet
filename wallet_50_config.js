@@ -1,1 +1,1 @@
-var mnemonic = "feed step nose upset bargain rapid track travel method vocal elite lady";
+var mnemonic = "paper retire thank sugar ten capable immune require borrow border potato valid";

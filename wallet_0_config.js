@@ -1,1 +1,1 @@
-var mnemonic = "ecology surface upper math game execute unable cradle tragic embrace security health";
+var mnemonic = "produce front cool obey wreck drink lecture crystal smoke proof turkey avoid";

@@ -1,1 +1,1 @@
-var mnemonic = "repair switch repeat approve scrap orbit observe squeeze minor swear announce next";
+var mnemonic = "axis this brother traffic impose grunt tobacco trumpet pulse crisp panda vacant";

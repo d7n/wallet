@@ -1,1 +1,1 @@
-var mnemonic = "upset rug rocket manual enemy gloom color nothing gauge type digital head";
+var mnemonic = "oyster verify senior still rocket usage attend orange tone paddle ring mouse";

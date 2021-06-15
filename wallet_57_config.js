@@ -1,1 +1,1 @@
-var mnemonic = "crop behind senior mirror business myth youth whip pelican bottom flag sound";
+var mnemonic = "trash property deliver boil trend drastic poet elephant tribe joy common survey";

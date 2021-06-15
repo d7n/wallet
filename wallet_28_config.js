@@ -1,1 +1,1 @@
-var mnemonic = "obtain boring photo shy vessel foster shuffle spatial snack opera recipe fossil";
+var mnemonic = "distance run execute remind true outer change other carbon pilot mind shallow";

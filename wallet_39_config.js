@@ -1,1 +1,1 @@
-var mnemonic = "discover bullet thrive resist olympic victory slab car similar wrist bomb raw";
+var mnemonic = "length olympic cousin own arch unable roof glad outer stove lobster inject";

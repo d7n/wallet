@@ -1,1 +1,1 @@
-var mnemonic = "wink zoo future left atom expose palm voice diary discover horn pony";
+var mnemonic = "phone elephant open blame fix lunch boss promote guilt gravity core air";

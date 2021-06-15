@@ -1,1 +1,1 @@
-var mnemonic = "board dwarf roast slab arrange urge grit dress draft adult gather teach";
+var mnemonic = "mixture knock cute increase rescue come exclude divorce throw suffer screen galaxy";

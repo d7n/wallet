@@ -1,1 +1,1 @@
-var mnemonic = "attitude fit menu video nut sting ramp identify lake sustain area dilemma";
+var mnemonic = "tooth virtual senior thing method truly around away miss detect vast own";

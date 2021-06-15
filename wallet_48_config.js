@@ -1,1 +1,1 @@
-var mnemonic = "build file fresh confirm cry yard canal invite twice arrive local surround";
+var mnemonic = "spring bamboo kite before mosquito loop village tell afraid crunch party morning";

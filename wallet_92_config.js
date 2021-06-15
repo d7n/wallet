@@ -1,1 +1,1 @@
-var mnemonic = "token field physical rigid toe shaft sort avocado burden inch advance benefit";
+var mnemonic = "chat nurse split entire super hood deal worry year private grow tumble";

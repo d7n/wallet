@@ -1,1 +1,1 @@
-var mnemonic = "earth grace enhance avoid kidney day emerge distance left talent parrot net";
+var mnemonic = "case dignity valid danger music wood equip engage network print muffin large";

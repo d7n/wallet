@@ -1,1 +1,1 @@
-var mnemonic = "sand cancel prosper laundry trend fan welcome together acid unknown siege gather";
+var mnemonic = "stand teach upper country vanish scorpion fox easily hybrid pair board reunion";

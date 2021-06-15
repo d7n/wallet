@@ -1,1 +1,1 @@
-var mnemonic = "multiply agree flame combine hawk march salt blossom dial swim chest journey";
+var mnemonic = "promote cool erupt rib always bounce immense furnace involve portion better usual";

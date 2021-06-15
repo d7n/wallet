@@ -1,1 +1,1 @@
-var mnemonic = "piano easy exit special gift tired squirrel pencil tissue regret spoil deer";
+var mnemonic = "deal illness gasp clarify paddle junior panic extra royal season wise bitter";

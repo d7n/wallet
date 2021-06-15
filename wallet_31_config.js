@@ -1,1 +1,1 @@
-var mnemonic = "exhaust hope return father gas win keep resist police start pet admit";
+var mnemonic = "meat vital beyond pizza recall exhibit card strike pen reject jump sick";

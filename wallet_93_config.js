@@ -1,1 +1,1 @@
-var mnemonic = "cruise genre skate weather can net misery runway couple lyrics focus depth";
+var mnemonic = "axis rescue want manage pool safe glide stadium potato december proud raise";

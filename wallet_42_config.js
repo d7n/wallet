@@ -1,1 +1,1 @@
-var mnemonic = "glue cheese glue pull bridge often admit bottom future grass food dice";
+var mnemonic = "room leaf victory provide cook boat scrub rookie object normal winner awesome";

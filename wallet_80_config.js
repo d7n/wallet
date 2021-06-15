@@ -1,1 +1,1 @@
-var mnemonic = "inform peanut member file vague modify abandon shoulder proud item plastic coin";
+var mnemonic = "disagree rather position belt bulk online jacket mail picnic brave chase boss";

@@ -1,1 +1,1 @@
-var mnemonic = "false imitate ethics metal machine board dial gadget mail skill dad pizza";
+var mnemonic = "method consider order sell canal bind tool tip figure crane include erode";

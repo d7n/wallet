@@ -1,1 +1,1 @@
-var mnemonic = "camp stumble treat barrel busy story cherry museum forward nerve domain assault";
+var mnemonic = "canvas eternal make abuse forward pizza meat join flock attack evoke cushion";

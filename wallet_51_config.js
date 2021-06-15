@@ -1,1 +1,1 @@
-var mnemonic = "salt weather toddler build loud spring meadow fiber gym input eternal opera";
+var mnemonic = "trumpet skill trap saddle swarm trend hair buzz celery tiger depart claim";

@@ -1,1 +1,1 @@
-var mnemonic = "hard chuckle police media slender bracket topple reform future radar thought matrix";
+var mnemonic = "jeans sure smile mean method uphold give volume number gas smart drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "index emotion clump marriage cloud health gospel topple rough spatial glory all";
+var mnemonic = "pass chaos joke clap slim table debris peasant rescue stem humble agent";
