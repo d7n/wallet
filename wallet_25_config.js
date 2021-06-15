@@ -1,1 +1,1 @@
-var mnemonic = "wild civil raven side vital shine board kiwi jar bitter song pull";
+var mnemonic = "mutual shift rug away remain junk version glance young rude nothing valve";

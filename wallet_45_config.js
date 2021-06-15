@@ -1,1 +1,1 @@
-var mnemonic = "range rifle ticket marine rely run need make tornado scare diagram team";
+var mnemonic = "they service used blind isolate engine million final ozone section bullet retire";

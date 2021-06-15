@@ -1,1 +1,1 @@
-var mnemonic = "egg dry timber kiss lesson exotic potato promote flock solar riot inquiry";
+var mnemonic = "boat drip spatial that bless firm live only riot cattle junk spy";

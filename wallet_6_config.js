@@ -1,1 +1,1 @@
-var mnemonic = "enlist ramp cereal neglect discover emerge catch slight climb flush attend jewel";
+var mnemonic = "erode fault shove fuel royal saddle pipe tool office inherit give amateur";

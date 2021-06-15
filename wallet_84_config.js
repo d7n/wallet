@@ -1,1 +1,1 @@
-var mnemonic = "change nothing claw noise unique bomb human liberty increase meat guess upset";
+var mnemonic = "scare acoustic theory ticket fabric bag current miracle camera galaxy empower about";

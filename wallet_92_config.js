@@ -1,1 +1,1 @@
-var mnemonic = "drama board anger cluster slogan month toward alone wink region keep develop";
+var mnemonic = "weird fire horn bulb drum electric shy bargain bleak tray velvet account";

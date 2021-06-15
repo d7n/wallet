@@ -1,1 +1,1 @@
-var mnemonic = "rare warm mixture tornado skin faculty advance energy unlock swallow void dress";
+var mnemonic = "space whip spell jeans idea clean pudding decade shell place spoon canvas";

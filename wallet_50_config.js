@@ -1,1 +1,1 @@
-var mnemonic = "file three good floor radio alter pattern leader impose extend genuine olympic";
+var mnemonic = "spoil polar trial grab slam diesel review like order chicken evil immense";

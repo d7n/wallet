@@ -1,1 +1,1 @@
-var mnemonic = "error approve snow acoustic buddy slow main recycle rifle talk unhappy horror";
+var mnemonic = "child lottery soul patch spike grow rare predict core wall service fitness";

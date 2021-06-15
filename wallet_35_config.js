@@ -1,1 +1,1 @@
-var mnemonic = "shed prize enable much must sustain tag tone dial review plate strike";
+var mnemonic = "case usage vibrant volcano during breeze gain idle torch strike immense tank";

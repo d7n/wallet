@@ -1,1 +1,1 @@
-var mnemonic = "real wedding flush you priority crawl wedding horse maple royal voice zoo";
+var mnemonic = "treat side gym step monkey monkey dignity quick special broccoli rate chief";

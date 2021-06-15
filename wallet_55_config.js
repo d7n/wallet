@@ -1,1 +1,1 @@
-var mnemonic = "ancient glow wheel social napkin useless usage cycle sell dwarf egg race";
+var mnemonic = "domain practice scrub aspect gallery boil enjoy nest gap letter animal visual";

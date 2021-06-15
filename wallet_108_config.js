@@ -1,1 +1,1 @@
-var mnemonic = "seed region trial visa misery treat exhibit pupil sock sibling mean unaware";
+var mnemonic = "demise right build reduce pill doll bird chronic rough obvious again champion";

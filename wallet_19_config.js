@@ -1,1 +1,1 @@
-var mnemonic = "grunt side abstract connect morning moment unit august win vessel evidence plug";
+var mnemonic = "business calm sunny foam almost twelve range fit female blame top apart";

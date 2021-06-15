@@ -1,1 +1,1 @@
-var mnemonic = "disorder sun income pony old top describe rack awesome trend fancy soft";
+var mnemonic = "romance total notice tortoise license note need cluster tape pottery usage permit";

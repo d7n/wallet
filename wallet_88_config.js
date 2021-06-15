@@ -1,1 +1,1 @@
-var mnemonic = "quote okay gain cook inform actual earn hair story settle talk talent";
+var mnemonic = "aware youth all crucial course basket teach border color burger lesson sun";

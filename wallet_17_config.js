@@ -1,1 +1,1 @@
-var mnemonic = "shift unit syrup impose draw welcome thought very limit drum spawn left";
+var mnemonic = "betray shuffle cause forum poem carpet advance brief document emotion ensure worth";

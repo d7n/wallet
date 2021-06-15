@@ -1,1 +1,1 @@
-var mnemonic = "youth initial grant face fix detail athlete blade mass defy era upon";
+var mnemonic = "neutral upon domain bottom place ripple property midnight security quantum marble this";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion eternal walnut subway train device snap type force hurry practice retire";
+var mnemonic = "talk surge advice odor dirt cattle ask melody farm gift elbow physical";

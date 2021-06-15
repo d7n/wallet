@@ -1,1 +1,1 @@
-var mnemonic = "upset spend bag purchase peasant before arrange nerve twist hobby stumble tide";
+var mnemonic = "bring during moment glad hedgehog affair century rent cheese upset equip bike";

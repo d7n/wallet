@@ -1,1 +1,1 @@
-var mnemonic = "exercise bring trigger strategy album urge body castle program blur private liquid";
+var mnemonic = "retreat zone cattle solve world price game viable index exact oblige width";

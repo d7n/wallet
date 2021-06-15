@@ -1,1 +1,1 @@
-var mnemonic = "staff level destroy middle hero elite point ten early scrap live word";
+var mnemonic = "oak critic amount latin ladder myth lunar chalk mention coffee buffalo stay";

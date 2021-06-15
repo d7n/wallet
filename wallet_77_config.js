@@ -1,1 +1,1 @@
-var mnemonic = "burger decline universe beach thank local obvious damage ring pony frog alone";
+var mnemonic = "wall trophy mosquito hire ivory bonus accident clean story mesh clean much";

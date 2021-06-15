@@ -1,1 +1,1 @@
-var mnemonic = "shiver inform museum gadget tag refuse october trumpet tone better toddler powder";
+var mnemonic = "book shoot february start size coach pipe chef reward stock decorate museum";

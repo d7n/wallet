@@ -1,1 +1,1 @@
-var mnemonic = "edge rude also mimic over square mechanic point drill learn mobile note";
+var mnemonic = "version insane include under detect spy galaxy gentle ticket brand forget hybrid";

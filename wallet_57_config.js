@@ -1,1 +1,1 @@
-var mnemonic = "chicken cinnamon salon head during club know protect demise tumble social recipe";
+var mnemonic = "capable creek kangaroo behave spice brass solve rapid bone dance universe purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "churn february caught disease stumble divide route allow ability toast pause garage";
+var mnemonic = "depend shuffle coach invite web grocery squeeze demand hub write dose identify";

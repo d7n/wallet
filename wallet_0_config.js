@@ -1,1 +1,1 @@
-var mnemonic = "festival return slide donate rocket wall laptop index quote return hour century";
+var mnemonic = "corn version clay dad spin naive basic shrimp shed dolphin neutral rent";

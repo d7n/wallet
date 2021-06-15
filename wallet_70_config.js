@@ -1,1 +1,1 @@
-var mnemonic = "move glue unit glare few deposit banner winter fiber tumble venture slush";
+var mnemonic = "enroll survey toward current ecology lake panda buzz trim wealth opera health";

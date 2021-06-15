@@ -1,1 +1,1 @@
-var mnemonic = "enlist sleep razor change lunch square uncover next neutral lend concert curtain";
+var mnemonic = "latin lawsuit tank smooth elegant blanket toward nature anxiety smooth kiwi spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum fatal disagree betray jaguar wool photo ozone end suggest next series";
+var mnemonic = "exclude shadow finger swarm pistol frozen myself track style elder mind differ";

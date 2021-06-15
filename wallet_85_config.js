@@ -1,1 +1,1 @@
-var mnemonic = "voice neglect frown south burger ivory little pond muscle mass dutch trim";
+var mnemonic = "solve material slim poverty accident custom fiscal federal coil scorpion devote tell";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm unusual scan start labor immense during loan toss jaguar resource flush";
+var mnemonic = "fall erode just cement canoe bamboo caution lounge cluster license manual hunt";

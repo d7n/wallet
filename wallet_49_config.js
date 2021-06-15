@@ -1,1 +1,1 @@
-var mnemonic = "first labor absent wonder portion indoor dutch arm expand firm axis tissue";
+var mnemonic = "lonely slow trust mass boy elbow exhibit method present obvious smoke mule";

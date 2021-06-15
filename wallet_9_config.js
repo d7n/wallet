@@ -1,1 +1,1 @@
-var mnemonic = "fade vibrant oxygen where silent social describe cube boss trouble lemon vault";
+var mnemonic = "over promote become vibrant fork rude library immune winter drive crack ready";

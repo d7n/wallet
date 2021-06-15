@@ -1,1 +1,1 @@
-var mnemonic = "catch thumb blind know combine poet dress rather tail mail slow position";
+var mnemonic = "blood girl bachelor empower essay alley inject same tackle carbon bachelor dice";

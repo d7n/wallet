@@ -1,1 +1,1 @@
-var mnemonic = "clog tornado leg layer typical magic special uphold strategy sun vibrant path";
+var mnemonic = "cinnamon under benefit hollow wonder option drift sleep certain garden finish size";

@@ -1,1 +1,1 @@
-var mnemonic = "route pink still galaxy bless actual crowd jealous random wine march double";
+var mnemonic = "soap together penalty want flip test glove either detail cherry catch tree";

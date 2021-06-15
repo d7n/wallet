@@ -1,1 +1,1 @@
-var mnemonic = "lonely quality shed trick useful juice bid service napkin indoor way grit";
+var mnemonic = "penalty portion first parent amount brick coconut sell capable best limb brick";

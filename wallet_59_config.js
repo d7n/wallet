@@ -1,1 +1,1 @@
-var mnemonic = "kidney misery defense glow oven daring finger still remember hunt service arrange";
+var mnemonic = "inquiry cover friend cabin height monkey faith uncle mystery effort game dog";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble candy type noodle song cupboard human fall dose brush dash edit";
+var mnemonic = "scout error aim lock mystery story replace cash inflict upset board punch";

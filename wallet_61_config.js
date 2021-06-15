@@ -1,1 +1,1 @@
-var mnemonic = "fetch fork table shield hair few thrive slide tank census breeze rabbit";
+var mnemonic = "build heavy empower marine tiny use lawn rug cattle fall balcony angry";

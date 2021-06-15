@@ -1,1 +1,1 @@
-var mnemonic = "cousin steel duty diet weekend defy horn neutral firm system clerk proud";
+var mnemonic = "kind camera virtual fragile practice shell chair spike office pattern fancy state";

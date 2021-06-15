@@ -1,1 +1,1 @@
-var mnemonic = "witness orbit frequent exile blame soda layer legal model eternal brisk forget";
+var mnemonic = "can false tag tank caution warfare pride noise rural auto exile pride";

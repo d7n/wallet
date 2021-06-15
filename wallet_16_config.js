@@ -1,1 +1,1 @@
-var mnemonic = "phrase margin daughter anger bridge flock magnet setup valid cinnamon alien powder";
+var mnemonic = "wrong little shield weather orchard across unlock emotion rule cotton man supply";

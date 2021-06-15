@@ -1,1 +1,1 @@
-var mnemonic = "six wrap unveil tent verify rough ten stock sausage ranch notice purchase";
+var mnemonic = "monster fish trend duty dune enter rescue rare radio apology reward dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme dial expand hospital program ill army silver scene below twelve notable";
+var mnemonic = "license double bitter olympic plug gossip remind duty hungry vendor hunt vital";

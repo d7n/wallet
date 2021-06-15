@@ -1,1 +1,1 @@
-var mnemonic = "remain report limit please risk certain assist observe canyon giraffe march usual";
+var mnemonic = "occur crumble thunder then breeze opinion point note lion region anxiety winner";

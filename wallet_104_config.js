@@ -1,1 +1,1 @@
-var mnemonic = "health cook wear shop anger fatigue enlist patient pen flavor select duck";
+var mnemonic = "warm sustain material city twin mixed embody next brush bronze until saddle";

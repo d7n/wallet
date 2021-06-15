@@ -1,1 +1,1 @@
-var mnemonic = "orient asset mosquito trust pottery inflict tenant visa curtain drink monster wood";
+var mnemonic = "stem scatter neglect bind unveil degree swallow erase assist crisp wonder observe";

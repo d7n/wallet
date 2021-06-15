@@ -1,1 +1,1 @@
-var mnemonic = "devote cupboard trick warrior nose aspect define town wage assist dwarf find";
+var mnemonic = "heavy vendor ahead force derive bar piece online pumpkin law ribbon stay";

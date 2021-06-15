@@ -1,1 +1,1 @@
-var mnemonic = "step bag climb village fat dry rookie catch neither okay apology spatial";
+var mnemonic = "public flight lucky bundle ocean spin truly bicycle wife secret climb awful";

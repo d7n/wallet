@@ -1,1 +1,1 @@
-var mnemonic = "link stuff exit ethics upgrade cross comfort energy foam input diesel great";
+var mnemonic = "decade pigeon when tackle fly tag into female olympic sleep kingdom desk";

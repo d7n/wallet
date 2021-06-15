@@ -1,1 +1,1 @@
-var mnemonic = "strong void vibrant viable start nothing vital direct orbit sort industry hockey";
+var mnemonic = "merit museum feed curtain provide trend couple oak forget blanket weekend attend";

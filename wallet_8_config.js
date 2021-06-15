@@ -1,1 +1,1 @@
-var mnemonic = "organ eagle hollow mobile tunnel eager famous often crack laptop worry clock";
+var mnemonic = "nut novel excess wealth cloud patrol clinic mistake parent prosper spirit win";

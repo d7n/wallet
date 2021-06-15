@@ -1,1 +1,1 @@
-var mnemonic = "frog elephant design raw illegal ladder sugar room slight know fit finish";
+var mnemonic = "knock depart bicycle intact ignore better try private source loyal baby obtain";

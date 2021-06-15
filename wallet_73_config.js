@@ -1,1 +1,1 @@
-var mnemonic = "grant fine end dish never judge marriage faith upset syrup gloom key";
+var mnemonic = "gravity print deny office unlock vendor kitten cargo turtle almost grocery remember";

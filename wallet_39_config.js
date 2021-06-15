@@ -1,1 +1,1 @@
-var mnemonic = "income crime armor earth endorse huge silk will apple save recall poem";
+var mnemonic = "carry slogan never acid laptop improve describe monitor notable gasp absurd useful";

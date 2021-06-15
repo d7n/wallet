@@ -1,1 +1,1 @@
-var mnemonic = "clump card prefer misery cement practice reward defy rare bus chef unhappy";
+var mnemonic = "crystal maple coast calm plate lucky sphere brother cat satisfy shuffle kitten";

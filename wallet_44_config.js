@@ -1,1 +1,1 @@
-var mnemonic = "empower spring machine squirrel steel original gun holiday comic noodle relief weasel";
+var mnemonic = "home obtain impact soap brain cupboard fix cliff film onion kick wonder";

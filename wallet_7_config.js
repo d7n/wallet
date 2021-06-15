@@ -1,1 +1,1 @@
-var mnemonic = "need cheap scout group duck shoulder picnic nothing okay finger wear common";
+var mnemonic = "coin steel merry lesson owner train gown electric cotton cinnamon ankle feel";

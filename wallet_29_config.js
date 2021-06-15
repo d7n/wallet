@@ -1,1 +1,1 @@
-var mnemonic = "burden priority eagle lunch grocery hurt effort rice vast say ring regret";
+var mnemonic = "output empower mammal parent junior scorpion smooth saddle farm student feel filter";

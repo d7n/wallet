@@ -1,1 +1,1 @@
-var mnemonic = "vacuum drop labor crowd erosion transfer suit tiny deer expose limb fabric";
+var mnemonic = "zero metal cheese lock parent regular wrap alley oppose author primary expand";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor weird utility collect surround tree diary trip space nation frown bid";
+var mnemonic = "tape proof spider lottery trim poet shaft quote vendor cheese ocean around";

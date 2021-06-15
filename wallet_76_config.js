@@ -1,1 +1,1 @@
-var mnemonic = "nothing subway away broccoli suggest stamp next display fever crazy disorder mimic";
+var mnemonic = "caught target blur news wagon faculty guide sense bracket insane tail sort";

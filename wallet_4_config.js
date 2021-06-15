@@ -1,1 +1,1 @@
-var mnemonic = "bundle goose certain special inhale possible betray impulse unique expect dash napkin";
+var mnemonic = "deal feature envelope poem unique double news glare sail shove rude donkey";

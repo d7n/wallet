@@ -1,1 +1,1 @@
-var mnemonic = "dash model educate cover power border panther off retreat brick reject certain";
+var mnemonic = "suggest sport cover upon custom theory key usage infant adjust receive note";

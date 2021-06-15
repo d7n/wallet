@@ -1,1 +1,1 @@
-var mnemonic = "destroy like west settle fashion element damp shrimp pony myself rule woman";
+var mnemonic = "grunt cupboard just fog conduct chimney glide cake vague media next father";

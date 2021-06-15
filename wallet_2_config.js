@@ -1,1 +1,1 @@
-var mnemonic = "utility parent item general isolate lesson armed sun noise rival master sketch";
+var mnemonic = "nature index differ sense head dilemma crucial security roof note jewel fork";

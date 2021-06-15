@@ -1,1 +1,1 @@
-var mnemonic = "bag lift adapt electric lion chief ghost cliff marble neither dutch agent";
+var mnemonic = "seven shell master cherry shock short gospel vintage mesh strong order current";

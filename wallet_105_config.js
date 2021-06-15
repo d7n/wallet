@@ -1,1 +1,1 @@
-var mnemonic = "company surface scrub october clock cheap weapon net witness penalty club access";
+var mnemonic = "degree weather crystal nothing vault winter column legal monitor repeat panda heavy";

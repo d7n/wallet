@@ -1,1 +1,1 @@
-var mnemonic = "grant uphold forward auto reform range spoil art famous success ecology update";
+var mnemonic = "forget donkey morning comic depart fiber valid thrive fence fish prepare road";

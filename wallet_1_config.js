@@ -1,1 +1,1 @@
-var mnemonic = "axis test merge stove dish increase galaxy stock prize same roof spatial";
+var mnemonic = "humble juice flee police glass reform globe install cactus dynamic royal lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "insect section road flee lunch horn hard flee coconut gadget elephant strike";
+var mnemonic = "regular firm pull moment cliff zebra wall gadget razor butter foil crime";

@@ -1,1 +1,1 @@
-var mnemonic = "option method basket rabbit accuse bargain sun faith receive era fortune aerobic";
+var mnemonic = "airport poverty swap nature loud legal about plastic gas critic vintage spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "what water anchor monitor ginger idle orphan town exhaust smart step blanket";
+var mnemonic = "depend dance engage stool seat tower game recall board rib buzz amateur";

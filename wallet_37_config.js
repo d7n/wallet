@@ -1,1 +1,1 @@
-var mnemonic = "drum race welcome horn glimpse flash drill dinosaur fortune safe man bicycle";
+var mnemonic = "item manual float rug clutch tenant whale decide air write gap correct";

@@ -1,1 +1,1 @@
-var mnemonic = "nature defense bullet design day gaze science mutual brother pass access ranch";
+var mnemonic = "weasel slide small million hospital meadow force buffalo describe luggage fringe harvest";

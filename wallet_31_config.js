@@ -1,1 +1,1 @@
-var mnemonic = "orphan start palace benefit excuse auction between sadness paper reunion tape leisure";
+var mnemonic = "retreat ridge blue giraffe chaos zebra fossil street beach rival puppy cactus";

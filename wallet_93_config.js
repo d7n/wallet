@@ -1,1 +1,1 @@
-var mnemonic = "grow fog ice sock actual market shrimp flip dress agent auto element";
+var mnemonic = "marble spring art sadness pioneer combine shove fix ecology force issue task";

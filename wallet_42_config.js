@@ -1,1 +1,1 @@
-var mnemonic = "carbon list photo glove chest noodle area cake trophy general donor margin";
+var mnemonic = "range carpet special charge fuel bean estate ring benefit pause long there";

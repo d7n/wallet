@@ -1,1 +1,1 @@
-var mnemonic = "ahead sting thought orbit sheriff jazz fluid glide steak involve floor ghost";
+var mnemonic = "limit know flag scatter sniff drive movie book clutch flight jacket salute";

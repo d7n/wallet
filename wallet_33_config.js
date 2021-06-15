@@ -1,1 +1,1 @@
-var mnemonic = "blossom oil depart off media sniff foster easily mixture depart rigid transfer";
+var mnemonic = "elevator educate snow favorite grid pluck twice vendor near theme spice riot";

@@ -1,1 +1,1 @@
-var mnemonic = "add add salute wisdom maze virus moral script omit bread couch someone";
+var mnemonic = "enjoy coast monster kidney almost rack simple fork salute divide left stool";

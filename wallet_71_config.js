@@ -1,1 +1,1 @@
-var mnemonic = "faith gossip ugly enjoy clip now kiss soldier staff wash relief whip";
+var mnemonic = "thunder can potato spring panic radar screen unaware throw romance token craft";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet script load awesome head thunder yellow endless bounce theme catalog chat";
+var mnemonic = "behind bunker torch under thought copy decorate taste blade daring tail cup";

@@ -1,1 +1,1 @@
-var mnemonic = "chair copy define attack large boss question dog host monitor lucky fatigue";
+var mnemonic = "liar goddess mosquito whale clay radio turkey sudden basic bring slim income";
