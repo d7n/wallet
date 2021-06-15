@@ -1,1 +1,1 @@
-var mnemonic = "gold someone second toddler journey body pen exotic exercise around two float";
+var mnemonic = "force pride dirt hollow face click endless opinion seven squeeze pool power";

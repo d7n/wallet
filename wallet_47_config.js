@@ -1,1 +1,1 @@
-var mnemonic = "trigger sketch camera that oblige volume random joke holiday damp upset area";
+var mnemonic = "exercise gentle opinion dirt solar gain plastic pattern mutual deputy embark punch";

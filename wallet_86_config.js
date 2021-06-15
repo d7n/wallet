@@ -1,1 +1,1 @@
-var mnemonic = "list occur asset coconut ball elite phrase paddle trap rally slim seed";
+var mnemonic = "better merge dream huge erosion elder advance chaos wrap limb home lottery";

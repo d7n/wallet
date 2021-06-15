@@ -1,1 +1,1 @@
-var mnemonic = "toilet much item vacuum glare vapor slam crack surface swift talk exact";
+var mnemonic = "wave bronze seminar biology orchard shoe chaos dirt elegant deny trim elegant";

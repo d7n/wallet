@@ -1,1 +1,1 @@
-var mnemonic = "quote close immense wish regret start wisdom wrist permit quiz since old";
+var mnemonic = "powder position heavy focus capital lens bulb aisle public render badge nothing";

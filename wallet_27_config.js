@@ -1,1 +1,1 @@
-var mnemonic = "sea include element finish regular lava wide siren reunion foil retreat anxiety";
+var mnemonic = "author priority drastic feature school lamp special heavy nature fall predict hat";

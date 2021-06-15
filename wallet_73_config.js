@@ -1,1 +1,1 @@
-var mnemonic = "cabin provide version false lens notable alcohol air attract tuna device setup";
+var mnemonic = "squeeze vintage basket fan nurse velvet disorder conduct gather victory front walnut";

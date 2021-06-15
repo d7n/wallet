@@ -1,1 +1,1 @@
-var mnemonic = "kitchen exile panel more future summer witness own film thought rally morning";
+var mnemonic = "glare trigger spy squeeze only disagree place dutch next culture describe total";

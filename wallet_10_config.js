@@ -1,1 +1,1 @@
-var mnemonic = "robot topple always alone clown need bottom very question motor library globe";
+var mnemonic = "exit people sense uniform hidden cricket swamp mule little strong scheme car";

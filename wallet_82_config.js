@@ -1,1 +1,1 @@
-var mnemonic = "honey boil embody indoor mango flame shrug later avoid enjoy frozen blur";
+var mnemonic = "tone mass auction myself magnet sting elder annual worth round relief strike";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure frozen frequent evil charge bleak sudden together spoon ugly toe forget";
+var mnemonic = "start nature into century shrimp finger entry swap limb snow suit saddle";

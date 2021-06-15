@@ -1,1 +1,1 @@
-var mnemonic = "someone hospital isolate olive build shield trash bird method orient same assault";
+var mnemonic = "rotate black soft deputy orbit under pottery weapon seminar age strike isolate";

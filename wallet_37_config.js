@@ -1,1 +1,1 @@
-var mnemonic = "narrow coffee wave bar violin wrap powder faith rely evil ten target";
+var mnemonic = "laptop large armor barrel follow mad dentist trigger suit field sustain issue";

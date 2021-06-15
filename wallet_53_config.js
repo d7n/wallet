@@ -1,1 +1,1 @@
-var mnemonic = "east convince height jealous hobby awake uncover ordinary primary recipe charge gloom";
+var mnemonic = "acoustic august mobile roof announce shrug pledge swift example own ask exit";

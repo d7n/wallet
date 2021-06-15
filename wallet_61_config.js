@@ -1,1 +1,1 @@
-var mnemonic = "correct supreme mobile code federal deny depart ribbon volcano exercise parent dose";
+var mnemonic = "relax later session ceiling fossil ranch order cancel giggle price tilt quick";

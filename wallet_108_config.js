@@ -1,1 +1,1 @@
-var mnemonic = "lock random relax border case kid recycle usual book cable soul come";
+var mnemonic = "floor model duty device fame point hole ball skill company spoil sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "bag venture case gadget matrix lens book circle canoe elbow hunt weird";
+var mnemonic = "round click achieve crazy doctor eagle acid hood train joy mesh cactus";

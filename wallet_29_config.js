@@ -1,1 +1,1 @@
-var mnemonic = "leisure sunny patch proof spice purpose club child hammer amateur spice occur";
+var mnemonic = "oval banana title dice slide toddler easily chase source predict project merge";

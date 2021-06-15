@@ -1,1 +1,1 @@
-var mnemonic = "wedding resource typical weekend measure board point wine wrong art boost live";
+var mnemonic = "nurse chuckle extend tunnel capital unit repair stereo author best post artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "april jungle cabbage tenant vital dragon arctic grief cart cable blood crisp";
+var mnemonic = "vendor exile nut same aim slide favorite resemble oak adapt lend bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn thumb man drink gallery trumpet crash fan race hollow kingdom enrich";
+var mnemonic = "certain boil begin song easily give welcome broken oven blouse onion width";

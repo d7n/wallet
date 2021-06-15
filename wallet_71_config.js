@@ -1,1 +1,1 @@
-var mnemonic = "pattern focus six idea waste motion margin fortune dose ancient group guitar";
+var mnemonic = "engine physical flight pass cinnamon border dry toast pair inhale sadness minute";

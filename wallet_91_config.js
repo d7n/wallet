@@ -1,1 +1,1 @@
-var mnemonic = "oppose they rib about puzzle harsh relax slide apart today unable crazy";
+var mnemonic = "sun ring lamp eagle rail jaguar ordinary flee middle salt setup film";

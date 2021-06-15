@@ -1,1 +1,1 @@
-var mnemonic = "coast fiber raccoon rival ski this rabbit used march never movie wire";
+var mnemonic = "expose waste scheme tenant expand catalog pact crater enough reject loop peace";

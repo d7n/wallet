@@ -1,1 +1,1 @@
-var mnemonic = "mechanic unit flame pudding prosper labor identify slice sound average alien protect";
+var mnemonic = "fish lion wrong green infant aspect remain gown column combine police material";

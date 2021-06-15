@@ -1,1 +1,1 @@
-var mnemonic = "drama reopen task eye lumber various depend possible dice eternal pilot adult";
+var mnemonic = "dragon flower struggle leopard any reduce visit volcano scrap response salute topple";

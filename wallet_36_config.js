@@ -1,1 +1,1 @@
-var mnemonic = "call regular century achieve always economy volcano limit need depth disorder coral";
+var mnemonic = "arrest approve decline off file urban notable vendor cool kitten detect correct";

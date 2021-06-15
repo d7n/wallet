@@ -1,1 +1,1 @@
-var mnemonic = "coconut prepare nation mandate normal awesome guide neutral prosper cloth cheese until";
+var mnemonic = "another lava fit absurd mesh kid rhythm defense slam gallery snow clown";

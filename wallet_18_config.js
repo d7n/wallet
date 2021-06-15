@@ -1,1 +1,1 @@
-var mnemonic = "humor chase jewel sword dentist tiger slice figure hint crack toe acid";
+var mnemonic = "armor wrist steel fault sun nature token success giggle social rude wood";

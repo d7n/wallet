@@ -1,1 +1,1 @@
-var mnemonic = "foil modify quit open celery envelope feature orchard abandon joy woman human";
+var mnemonic = "addict twist deal custom say will forest cricket quantum bid coil aerobic";

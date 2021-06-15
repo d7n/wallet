@@ -1,1 +1,1 @@
-var mnemonic = "story vote river prize endorse resist hair poem nothing desert liberty love";
+var mnemonic = "desk tackle avoid vicious victory heavy half teach mansion hunt medal surge";

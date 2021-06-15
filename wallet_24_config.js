@@ -1,1 +1,1 @@
-var mnemonic = "garment cable example ten relief diet lyrics harvest shoe include actual wisdom";
+var mnemonic = "tree clip adapt educate fiscal real episode owner moon symptom spatial select";

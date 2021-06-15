@@ -1,1 +1,1 @@
-var mnemonic = "spare century neck position thought rural stamp drift funny awful desert genius";
+var mnemonic = "change lottery screen abuse arrest arrest priority pen silver giant remove satisfy";

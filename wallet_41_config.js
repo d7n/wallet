@@ -1,1 +1,1 @@
-var mnemonic = "churn twelve rail series summer hero dynamic sleep slice nerve shoulder cat";
+var mnemonic = "interest strike account easy rural robot hurdle certain slender side matrix access";

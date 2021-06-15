@@ -1,1 +1,1 @@
-var mnemonic = "scan behind gym notice crucial guilt rural syrup correct human now horror";
+var mnemonic = "advance glue blossom crystal remain labor account bitter barrel delay hole punch";

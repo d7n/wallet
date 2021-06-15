@@ -1,1 +1,1 @@
-var mnemonic = "echo flash term cave gorilla tube disease scare elder across rough region";
+var mnemonic = "pony stomach bright spirit pulp step bench rather oxygen maximum weasel off";

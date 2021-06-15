@@ -1,1 +1,1 @@
-var mnemonic = "glue together report mask major kiss fatigue predict ocean tone horse version";
+var mnemonic = "program way where wheat head excuse banana absent message amazing engage wheel";

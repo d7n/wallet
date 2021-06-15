@@ -1,1 +1,1 @@
-var mnemonic = "hover sheriff salmon bunker enforce option marine crisp question deposit supreme enlist";
+var mnemonic = "win lawsuit nation above garlic despair maze short strategy ivory fog delay";

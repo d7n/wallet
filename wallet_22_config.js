@@ -1,1 +1,1 @@
-var mnemonic = "bid write fog wing service sock spike equip trash hedgehog swarm later";
+var mnemonic = "minimum hobby aspect also direct picture drink midnight beach soon toast crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "joke label glue approve island candy ladder ritual grab bless effort cram";
+var mnemonic = "journey myth genius raise sustain green donkey deposit arm lion buzz abuse";

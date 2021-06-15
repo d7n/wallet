@@ -1,1 +1,1 @@
-var mnemonic = "point year prison bike myself correct dry alien forum dog mention diesel";
+var mnemonic = "little grab busy jaguar total soda burden pepper pond clog involve horn";

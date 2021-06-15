@@ -1,1 +1,1 @@
-var mnemonic = "lab net music cinnamon input blade expect crowd aerobic pudding knife post";
+var mnemonic = "alley cotton patrol offer miracle vintage approve skill remove vapor easy profit";

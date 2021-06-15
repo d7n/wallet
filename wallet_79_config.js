@@ -1,1 +1,1 @@
-var mnemonic = "audit accuse soldier cube march private kite artefact find enact turtle worry";
+var mnemonic = "kitten lemon anchor salmon marine sphere atom define toddler orchard brief level";

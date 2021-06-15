@@ -1,1 +1,1 @@
-var mnemonic = "industry scout renew ladder disease increase uniform modify surround swing short split";
+var mnemonic = "slogan arrow cruise garden angle defense inhale arrest royal mountain network smooth";

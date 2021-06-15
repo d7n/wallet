@@ -1,1 +1,1 @@
-var mnemonic = "three dumb reject response bean chair entry kitchen scheme miss tray sample";
+var mnemonic = "language label joke attract present cheap heavy good expand gospel enable fan";

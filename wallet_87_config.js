@@ -1,1 +1,1 @@
-var mnemonic = "stick horse robot leave issue book inform mention dinner minimum need false";
+var mnemonic = "depart service slow inmate security ribbon enemy brain flee scatter endorse start";

@@ -1,1 +1,1 @@
-var mnemonic = "bicycle habit twenty maximum venue canvas category music ladder zebra fame cement";
+var mnemonic = "emotion heavy broken goose exercise portion slot local pretty unhappy live almost";

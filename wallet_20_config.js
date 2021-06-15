@@ -1,1 +1,1 @@
-var mnemonic = "defy drastic hard dad various friend frown soon honey sting oppose bar";
+var mnemonic = "total west kangaroo fancy medal toward radio try limit during census gather";

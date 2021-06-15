@@ -1,1 +1,1 @@
-var mnemonic = "dragon thought depend super laptop lens glare fog pact erosion flower renew";
+var mnemonic = "bottom object great powder middle swift toast crop top rug eyebrow fold";

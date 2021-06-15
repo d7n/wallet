@@ -1,1 +1,1 @@
-var mnemonic = "taxi magic board lecture layer chest deer aware master observe fortune glare";
+var mnemonic = "stable lottery argue increase ten grant leg oyster cream draw rail zero";

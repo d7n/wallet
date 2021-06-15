@@ -1,1 +1,1 @@
-var mnemonic = "okay sell reflect sock major volume judge anxiety disagree popular net multiply";
+var mnemonic = "naive plate desert stage celery music beauty sudden cargo window tip live";

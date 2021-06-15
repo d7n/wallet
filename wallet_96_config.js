@@ -1,1 +1,1 @@
-var mnemonic = "basket skill barrel before blossom recall endorse jelly rug pen funny possible";
+var mnemonic = "sauce describe enforce dinosaur acquire tragic race rapid math coffee cart cream";

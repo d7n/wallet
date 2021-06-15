@@ -1,1 +1,1 @@
-var mnemonic = "typical remain extra lesson zero elder garden foster attitude order setup cattle";
+var mnemonic = "margin just whisper minimum pull upon achieve upset race fuel wood picnic";

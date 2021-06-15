@@ -1,1 +1,1 @@
-var mnemonic = "gorilla token warm race woman purchase merry foot vast tilt jaguar rookie";
+var mnemonic = "million snack hobby rapid drastic candy feature unveil cave wreck link cushion";

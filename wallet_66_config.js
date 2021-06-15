@@ -1,1 +1,1 @@
-var mnemonic = "impulse position number sausage grass increase critic lady custom edge clean admit";
+var mnemonic = "ride insane cloud elite blame where example else assume habit hint setup";

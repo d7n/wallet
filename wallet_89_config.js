@@ -1,1 +1,1 @@
-var mnemonic = "improve dad crime inflict panther clay chronic choice helmet lyrics grant vendor";
+var mnemonic = "bomb bright settle short raw soda report equal salmon proud cream record";

@@ -1,1 +1,1 @@
-var mnemonic = "cover tennis cannon juice ivory soccer crew craft price salute slogan pact";
+var mnemonic = "offer pilot wolf remain guide scatter tower address daring sense flash case";

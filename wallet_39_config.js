@@ -1,1 +1,1 @@
-var mnemonic = "under brave soon child derive obey chicken term want happy embrace absorb";
+var mnemonic = "deposit account hire bracket purity output change attract okay auction panda globe";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff trash insect acid situate rival heart venture energy describe soccer remove";
+var mnemonic = "diet just hollow forward certain detect next drama supply link absent carry";

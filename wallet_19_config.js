@@ -1,1 +1,1 @@
-var mnemonic = "fatigue argue flash table enforce monitor area smile aunt curtain proof balcony";
+var mnemonic = "skill trust trick bargain detail sport mansion blame put regular visit ridge";

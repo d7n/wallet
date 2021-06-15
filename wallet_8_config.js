@@ -1,1 +1,1 @@
-var mnemonic = "rate meadow safe paper path away bacon logic debris borrow harsh young";
+var mnemonic = "account catalog crawl prepare rose nurse elbow head control huge during buffalo";

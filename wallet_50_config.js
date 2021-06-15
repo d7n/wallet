@@ -1,1 +1,1 @@
-var mnemonic = "gauge reward shadow fame eight guess squeeze rural bitter space hybrid strategy";
+var mnemonic = "novel slogan jar surprise skate reject clump nerve garment cement tired finish";

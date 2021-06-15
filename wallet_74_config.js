@@ -1,1 +1,1 @@
-var mnemonic = "zero betray steak noble provide fresh possible struggle endorse night tent witness";
+var mnemonic = "artwork kangaroo fix gentle chat animal color trash unfold candy giggle day";

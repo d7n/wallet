@@ -1,1 +1,1 @@
-var mnemonic = "hen protect inform lyrics panther distance gap comfort soldier north surround success";
+var mnemonic = "orange athlete rely vapor shoe outdoor oil kitchen era valley beach slam";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual end sound defense clock marble short coyote skirt zebra quality victory";
+var mnemonic = "stool extend vapor curious anchor drip pave nurse forest jealous suit upon";

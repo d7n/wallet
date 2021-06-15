@@ -1,1 +1,1 @@
-var mnemonic = "volume forget differ season antique boss crack cry cloud example snap label";
+var mnemonic = "current copper maze ugly climb leopard much session tent picnic stock clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "leader album float term oyster youth horror divorce extend purity kite lottery";
+var mnemonic = "fox enough grain basic ugly any ranch pill seed lazy isolate novel";

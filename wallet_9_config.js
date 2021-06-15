@@ -1,1 +1,1 @@
-var mnemonic = "crystal phrase march when unfold night excess flight tuna share govern limb";
+var mnemonic = "cabin math orphan scale hard nuclear circle leisure disagree law inject bullet";

@@ -1,1 +1,1 @@
-var mnemonic = "worth tree kid horn palm twin maze song arch exchange alone judge";
+var mnemonic = "cargo hard clerk better gadget dirt unveil label smart jar frost extra";

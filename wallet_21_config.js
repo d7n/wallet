@@ -1,1 +1,1 @@
-var mnemonic = "glide shield load struggle canoe lecture rail barely inch always gentle ivory";
+var mnemonic = "sand bounce garment session success rate argue tobacco rare toss debris viable";

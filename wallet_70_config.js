@@ -1,1 +1,1 @@
-var mnemonic = "legend wool split genuine alone sea summer gift peace idle fold spray";
+var mnemonic = "retire join twelve reason quiz economy shed improve nasty maple sport turn";

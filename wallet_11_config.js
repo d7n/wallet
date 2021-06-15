@@ -1,1 +1,1 @@
-var mnemonic = "labor kit wisdom guilt door benefit trick breeze foil mind skin genius";
+var mnemonic = "soda dove surround ivory spoon shy tilt quantum squirrel total reopen topic";

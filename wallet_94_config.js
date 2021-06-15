@@ -1,1 +1,1 @@
-var mnemonic = "neglect kingdom subject symptom pencil creek steel visa owner zone segment transfer";
+var mnemonic = "evil doctor payment six layer pattern shield where path horror horror sadness";

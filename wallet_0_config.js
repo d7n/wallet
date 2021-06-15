@@ -1,1 +1,1 @@
-var mnemonic = "gesture smoke tail fox little present clerk regular staff spoil debris pool";
+var mnemonic = "such delay check october swear owner increase online identify unlock clump two";

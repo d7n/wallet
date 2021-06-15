@@ -1,1 +1,1 @@
-var mnemonic = "program axis push crazy mean rocket city cruise island order peanut cabin";
+var mnemonic = "shock pulp faculty wise toast ramp false mesh promote fish dice trip";

@@ -1,1 +1,1 @@
-var mnemonic = "margin misery trap tribe guard into floor age scare world primary bonus";
+var mnemonic = "illegal cabin violin wash holiday half early unfair lava basic salad large";

@@ -1,1 +1,1 @@
-var mnemonic = "brand federal chapter immune cream october finger olive cherry width reform agent";
+var mnemonic = "easily walnut glance cat butter fuel stove stuff raven supreme beyond fog";

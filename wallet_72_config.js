@@ -1,1 +1,1 @@
-var mnemonic = "canvas typical champion throw business select anchor total win equip argue clap";
+var mnemonic = "advance local fabric lend sort embrace noodle live whale upper give tumble";

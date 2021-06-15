@@ -1,1 +1,1 @@
-var mnemonic = "cause pen advice must language toe can cigar thing tired dignity need";
+var mnemonic = "able text car ticket payment grit portion space cake stage exhibit prepare";

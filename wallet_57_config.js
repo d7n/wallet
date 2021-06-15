@@ -1,1 +1,1 @@
-var mnemonic = "remind bright now way chuckle more wedding lizard absent trigger page transfer";
+var mnemonic = "wrist embody surge awesome okay hand inmate venue gesture grant alarm physical";

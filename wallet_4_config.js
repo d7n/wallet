@@ -1,1 +1,1 @@
-var mnemonic = "melt wisdom mom write wear pitch climb escape jacket leader champion sustain";
+var mnemonic = "good air double patient album orphan expire fruit search engine dune assist";

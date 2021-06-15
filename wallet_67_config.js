@@ -1,1 +1,1 @@
-var mnemonic = "where churn mixture bounce faint unusual coast swarm reunion garbage burst race";
+var mnemonic = "boost whale engage pride path ridge feed ugly inmate essay exile fault";

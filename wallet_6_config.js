@@ -1,1 +1,1 @@
-var mnemonic = "able chalk gather mean pioneer oven urge drastic ghost hand real mouse";
+var mnemonic = "witness slab just income shy belt method section cousin ignore problem release";

@@ -1,1 +1,1 @@
-var mnemonic = "fall senior benefit switch party rescue radar bulb idea human mule shuffle";
+var mnemonic = "left clarify filter wise exercise soup into fee captain sense session grit";

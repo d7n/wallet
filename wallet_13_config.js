@@ -1,1 +1,1 @@
-var mnemonic = "frequent office plastic employ because color carry lecture idea wet silent route";
+var mnemonic = "solar easy mention solar sea giant trouble average figure pepper rare coyote";

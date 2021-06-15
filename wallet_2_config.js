@@ -1,1 +1,1 @@
-var mnemonic = "like engine love bless right venue lunar address people slim amateur lady";
+var mnemonic = "differ predict logic fancy echo night fame model purchase stadium cement answer";

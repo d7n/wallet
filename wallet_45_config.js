@@ -1,1 +1,1 @@
-var mnemonic = "define secret bullet canvas buddy media ride brand trust bleak obtain box";
+var mnemonic = "list work ceiling mention vintage way exclude retire window mammal power tape";

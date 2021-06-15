@@ -1,1 +1,1 @@
-var mnemonic = "kid balance patrol ivory what lava false owner orbit rural trial cinnamon";
+var mnemonic = "dwarf nerve bird today brick total buzz benefit clay slush explain hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "index school exercise cheese slogan rifle media trash usage history guitar neutral";
+var mnemonic = "tide solve century fire chef armor denial budget mind spirit humor winner";

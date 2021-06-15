@@ -1,1 +1,1 @@
-var mnemonic = "hamster wash diesel penalty guilt guess kite coffee valve junk next adult";
+var mnemonic = "rebel basket rail warrior achieve tongue brave kid describe couch dirt scheme";

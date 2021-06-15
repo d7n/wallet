@@ -1,1 +1,1 @@
-var mnemonic = "mosquito attract twist vintage ten also stuff until razor pattern moon danger";
+var mnemonic = "sugar engage bonus common worry apology sport mountain eye curtain hawk balcony";

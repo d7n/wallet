@@ -1,1 +1,1 @@
-var mnemonic = "shoulder deliver alert ketchup gorilla grant inform debris vacant beef bullet today";
+var mnemonic = "direct reunion define stem tomorrow decorate wrestle cannon member six plastic minute";
