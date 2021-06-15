@@ -1,1 +1,1 @@
-var mnemonic = "scene cute brother pair write wage nose oil frozen dog inflict vintage";
+var mnemonic = "upset rug rocket manual enemy gloom color nothing gauge type digital head";

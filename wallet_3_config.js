@@ -1,1 +1,1 @@
-var mnemonic = "ocean drink plunge cheap voice pride range crowd off diet old cousin";
+var mnemonic = "antenna same remove retire breeze pause manual hedgehog slab mercy fade iron";

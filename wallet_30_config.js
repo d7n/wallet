@@ -1,1 +1,1 @@
-var mnemonic = "zoo marine wrap essence orchard cactus hood stuff maple gesture friend tiny";
+var mnemonic = "wink zoo future left atom expose palm voice diary discover horn pony";

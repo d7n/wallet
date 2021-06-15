@@ -1,1 +1,1 @@
-var mnemonic = "idea private deliver prefer feed fiscal sure remind brave scatter coach hotel";
+var mnemonic = "false imitate ethics metal machine board dial gadget mail skill dad pizza";

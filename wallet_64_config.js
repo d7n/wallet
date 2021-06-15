@@ -1,1 +1,1 @@
-var mnemonic = "hover leave sorry suggest soft steel panther confirm point limit range snack";
+var mnemonic = "tail limit vibrant hundred end business cluster seat forward viable shiver similar";

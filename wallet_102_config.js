@@ -1,1 +1,1 @@
-var mnemonic = "lake census fan twist trophy daughter unknown describe noble super hungry vague";
+var mnemonic = "neck ripple lucky canal clump before anger leader address immense snap master";

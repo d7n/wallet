@@ -1,1 +1,1 @@
-var mnemonic = "travel fox autumn visual sell point vacant oil pudding slush van wreck";
+var mnemonic = "earth patient budget brain love hurdle mad boil quote purse wolf index";

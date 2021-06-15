@@ -1,1 +1,1 @@
-var mnemonic = "east keen lonely monster model record abandon twist summer tank holiday canal";
+var mnemonic = "brother empty talk pipe garlic riot right welcome climb april rescue surge";

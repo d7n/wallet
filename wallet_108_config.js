@@ -1,1 +1,1 @@
-var mnemonic = "foam pupil illness glove mobile object old mansion noise number inform hip";
+var mnemonic = "correct type render mammal grape armed sight arm exhibit fever divide adapt";

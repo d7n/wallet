@@ -1,1 +1,1 @@
-var mnemonic = "insane lock erosion fetch detect crime farm organ song ritual impact very";
+var mnemonic = "prefer deal attend aware media hurdle drink audit faint accuse involve tower";

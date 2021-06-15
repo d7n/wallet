@@ -1,1 +1,1 @@
-var mnemonic = "fly typical lady retire fault client pen wild glide spy fat visit";
+var mnemonic = "update trash tiger chef beyond develop ice blue relax claim blue shuffle";

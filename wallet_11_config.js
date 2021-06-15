@@ -1,1 +1,1 @@
-var mnemonic = "flash clock trash ghost crouch stock rent level client monitor army brush";
+var mnemonic = "buffalo tooth hobby mind carbon analyst bitter flower very idle clip spring";

@@ -1,1 +1,1 @@
-var mnemonic = "around fruit inherit topic uncle awkward state tail scorpion build simple other";
+var mnemonic = "coast caution gas quit step ball flag open high prefer enter post";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit august assist slow mom cheap roof explain plug gossip idea hire";
+var mnemonic = "issue huge wedding cruise raise wheat quick divert hundred drink develop across";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble evolve intact nephew cable rebel cupboard cute market movie excite gown";
+var mnemonic = "repair switch repeat approve scrap orbit observe squeeze minor swear announce next";

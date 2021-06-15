@@ -1,1 +1,1 @@
-var mnemonic = "curtain clap flower invest submit oval object lecture post matter strike crumble";
+var mnemonic = "predict dove coral face mimic caution custom coyote select measure spread solution";

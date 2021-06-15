@@ -1,1 +1,1 @@
-var mnemonic = "bid pluck social hybrid person position fit simple oppose stone web chaos";
+var mnemonic = "chuckle crater fish area naive uphold transfer lady media honey crash home";

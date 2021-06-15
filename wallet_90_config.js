@@ -1,1 +1,1 @@
-var mnemonic = "lumber upon pool exile bunker army infant baby wrong blush hello crowd";
+var mnemonic = "copper artefact swamp settle cube convince speed desk round castle enforce subject";

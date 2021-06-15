@@ -1,1 +1,1 @@
-var mnemonic = "place brick note chase brass share save math breeze company divide best";
+var mnemonic = "lunar wife avoid pulp shoot soccer illegal piano father fit live leopard";

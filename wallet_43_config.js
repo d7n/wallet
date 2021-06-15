@@ -1,1 +1,1 @@
-var mnemonic = "review vintage great famous proud brass feed cruise nature coach chef snack";
+var mnemonic = "camp stumble treat barrel busy story cherry museum forward nerve domain assault";

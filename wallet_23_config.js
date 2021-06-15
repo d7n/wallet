@@ -1,1 +1,1 @@
-var mnemonic = "find someone suffer fossil term illness dad column opera arctic essay crunch";
+var mnemonic = "leader eyebrow fly shiver pool kitchen cactus before seminar that zebra pave";

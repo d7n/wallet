@@ -1,1 +1,1 @@
-var mnemonic = "soldier three junior dune rather usual action borrow cram smile corn employ";
+var mnemonic = "ginger march region ozone replace degree dad orphan owner spoil effort broccoli";

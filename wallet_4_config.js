@@ -1,1 +1,1 @@
-var mnemonic = "medal brain lucky grain slot stone envelope worth possible phrase bracket donate";
+var mnemonic = "piano easy exit special gift tired squirrel pencil tissue regret spoil deer";

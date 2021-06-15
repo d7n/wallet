@@ -1,1 +1,1 @@
-var mnemonic = "evidence bag nuclear choose slot weekend jacket risk virtual upper wrap settle";
+var mnemonic = "exhaust hope return father gas win keep resist police start pet admit";

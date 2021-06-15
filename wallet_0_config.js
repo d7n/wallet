@@ -1,1 +1,1 @@
-var mnemonic = "exchange short retreat friend proof birth loop ethics boss credit glare depend";
+var mnemonic = "ecology surface upper math game execute unable cradle tragic embrace security health";

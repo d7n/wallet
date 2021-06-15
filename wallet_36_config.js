@@ -1,1 +1,1 @@
-var mnemonic = "bag miss vote stone scheme absurd exchange funny broken agree lawn entire";
+var mnemonic = "flip quality uniform damage palace twin east accuse music match hub witness";

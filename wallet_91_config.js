@@ -1,1 +1,1 @@
-var mnemonic = "trend maid inhale unveil office result note section kitchen infant toddler bundle";
+var mnemonic = "soup shield plug sell reward recycle best behind fame secret jump push";

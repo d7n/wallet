@@ -1,1 +1,1 @@
-var mnemonic = "hundred absent drastic box oven dawn nuclear bar machine connect nothing festival";
+var mnemonic = "episode unlock tomato craft truth team lunar essay dust elevator jump merit";

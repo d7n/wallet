@@ -1,1 +1,1 @@
-var mnemonic = "treat stuff object cloud fury oyster supply hazard reflect parrot camp pelican";
+var mnemonic = "note adjust ostrich arctic entry term piano anger mix brother like expect";

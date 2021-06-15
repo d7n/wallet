@@ -1,1 +1,1 @@
-var mnemonic = "sea fit eye friend great program mountain citizen century little club fatal";
+var mnemonic = "spend target monster mail lab spell regret weather banner child physical tell";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve pig region breeze tumble civil royal panda chef attack unable oyster";
+var mnemonic = "wheat annual lady twist only monster mechanic tired rice field screen rice";

@@ -1,1 +1,1 @@
-var mnemonic = "tool dirt wisdom lift milk angry pulp market action chapter pelican duty";
+var mnemonic = "index emotion clump marriage cloud health gospel topple rough spatial glory all";

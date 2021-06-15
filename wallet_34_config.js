@@ -1,1 +1,1 @@
-var mnemonic = "negative violin charge swear input letter build lecture share furnace tray ritual";
+var mnemonic = "deer device fury better remove replace off number tragic glare mercy area";

@@ -1,1 +1,1 @@
-var mnemonic = "pact advice unusual title loyal doll drive journey make else basket nut";
+var mnemonic = "february admit oak awesome people front flight purse smart stay sword famous";

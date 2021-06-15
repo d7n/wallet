@@ -1,1 +1,1 @@
-var mnemonic = "carpet child good pole shine car roof frame success lesson plug pudding";
+var mnemonic = "olive unusual there pet midnight spatial resemble fashion elevator knock permit hawk";

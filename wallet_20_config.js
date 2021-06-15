@@ -1,1 +1,1 @@
-var mnemonic = "cricket rare chair siege gallery jewel emotion avocado mechanic shift era soap";
+var mnemonic = "main gift finger hungry gentle choice drum wonder conduct bread wheel talent";

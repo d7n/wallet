@@ -1,1 +1,1 @@
-var mnemonic = "vibrant weekend achieve farm bronze pipe duty scare still snack distance sustain";
+var mnemonic = "judge chunk cereal anger educate extend spider item major intact same shift";

@@ -1,1 +1,1 @@
-var mnemonic = "artist media rigid end east venue inflict lumber travel ethics identify cliff";
+var mnemonic = "radar spike kitten kiss emotion relief category equip client giggle perfect rabbit";

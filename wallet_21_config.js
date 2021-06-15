@@ -1,1 +1,1 @@
-var mnemonic = "cross culture river inflict hood output wrong judge burst sing round virtual";
+var mnemonic = "sand cancel prosper laundry trend fan welcome together acid unknown siege gather";

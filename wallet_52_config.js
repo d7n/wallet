@@ -1,1 +1,1 @@
-var mnemonic = "brief sadness humor swear sunny globe arctic vivid secret seminar gap top";
+var mnemonic = "only ankle gaze help magic admit noble fancy pool guilt clinic close";

@@ -1,1 +1,1 @@
-var mnemonic = "motion cage fiber ozone live voyage tone knife motor heavy blind hospital";
+var mnemonic = "loud music promote circle regular cotton salt raccoon sense pretty near punch";

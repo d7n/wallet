@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon bundle float journey ankle manual away hold modify elder rapid exercise";
+var mnemonic = "scout bottom artist hard age wise dutch tornado attitude skin affair few";

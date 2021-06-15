@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow burden mobile scatter same shove twist panther indicate bullet sleep rocket";
+var mnemonic = "next august various allow onion fan merit near clown uniform payment bachelor";

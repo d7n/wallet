@@ -1,1 +1,1 @@
-var mnemonic = "witness pig waste harvest aware mango total buzz denial razor orient box";
+var mnemonic = "discover bullet thrive resist olympic victory slab car similar wrist bomb raw";

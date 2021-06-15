@@ -1,1 +1,1 @@
-var mnemonic = "used often work satisfy bulk saddle night entry spot boring youth pond";
+var mnemonic = "cruise genre skate weather can net misery runway couple lyrics focus depth";

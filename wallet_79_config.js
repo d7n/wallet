@@ -1,1 +1,1 @@
-var mnemonic = "lottery slender size source patrol piece swear track scrub quit never resist";
+var mnemonic = "earth grace enhance avoid kidney day emerge distance left talent parrot net";

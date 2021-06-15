@@ -1,1 +1,1 @@
-var mnemonic = "type cushion zone focus giggle wolf push someone buzz input album egg";
+var mnemonic = "clerk frame crane guitar arch fence index very van carry punch youth";

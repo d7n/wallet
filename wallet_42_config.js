@@ -1,1 +1,1 @@
-var mnemonic = "enroll walnut spare candy bind clay tomato forum mail minute hundred paddle";
+var mnemonic = "glue cheese glue pull bridge often admit bottom future grass food dice";

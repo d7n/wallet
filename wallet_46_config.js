@@ -1,1 +1,1 @@
-var mnemonic = "ticket side finger gold glide issue exist behave alert receive anger mercy";
+var mnemonic = "analyst win air earn trap rule sense summer armor sweet cool embody";

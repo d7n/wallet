@@ -1,1 +1,1 @@
-var mnemonic = "fringe net skill lawn spike keep floor truly salt like unique door";
+var mnemonic = "live eye letter roast short bargain senior space grunt ivory jump north";

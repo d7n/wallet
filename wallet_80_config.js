@@ -1,1 +1,1 @@
-var mnemonic = "firm truth proof whale antenna burst network climb mosquito amused settle discover";
+var mnemonic = "inform peanut member file vague modify abandon shoulder proud item plastic coin";

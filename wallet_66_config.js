@@ -1,1 +1,1 @@
-var mnemonic = "elder blanket table silent chapter pond bronze photo expand wire wasp catch";
+var mnemonic = "auto loop expire viable wasp champion trust barely swift bullet rib level";

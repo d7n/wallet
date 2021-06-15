@@ -1,1 +1,1 @@
-var mnemonic = "nuclear curve type often escape slice mesh ready food donor mother dress";
+var mnemonic = "year sponsor opinion olive library pave diary outside wife deny update resist";

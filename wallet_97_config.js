@@ -1,1 +1,1 @@
-var mnemonic = "weapon earn illness trend income possible armed tip truck another hole anger";
+var mnemonic = "resource essence climb dinner dove flip yard course extra verb ranch tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "knee fantasy spray dream wheat solve spawn circle churn easy fox swing";
+var mnemonic = "winner tired thank zebra traffic gift coral dilemma brass era honey height";

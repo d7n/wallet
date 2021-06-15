@@ -1,1 +1,1 @@
-var mnemonic = "armor differ comfort very next surface matter bamboo frozen layer law unhappy";
+var mnemonic = "claim learn anxiety satoshi lizard picnic unhappy kiss when local wish style";

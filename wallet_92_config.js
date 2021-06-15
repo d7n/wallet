@@ -1,1 +1,1 @@
-var mnemonic = "blush false warfare bitter fix scare road state model margin damage vacuum";
+var mnemonic = "token field physical rigid toe shaft sort avocado burden inch advance benefit";

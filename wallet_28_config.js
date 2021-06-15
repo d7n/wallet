@@ -1,1 +1,1 @@
-var mnemonic = "chief space various twist wisdom crash notice gap deposit taxi donate bench";
+var mnemonic = "obtain boring photo shy vessel foster shuffle spatial snack opera recipe fossil";

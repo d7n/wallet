@@ -1,1 +1,1 @@
-var mnemonic = "cook clip radar reduce alley gate donor attack fame pulp million manual";
+var mnemonic = "city pencil dawn lion chair boost detect focus sound industry demand silly";

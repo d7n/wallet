@@ -1,1 +1,1 @@
-var mnemonic = "edit embark rely slot believe tennis garage dignity mirror marine crunch already";
+var mnemonic = "record truth father noodle depth select poem loyal seminar capital load taxi";

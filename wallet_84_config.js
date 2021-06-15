@@ -1,1 +1,1 @@
-var mnemonic = "kingdom awake cotton metal cake still athlete number bottom slim debate acquire";
+var mnemonic = "release tunnel cluster actor illness duty shrimp antenna couch mixture immense ladder";

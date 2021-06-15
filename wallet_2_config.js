@@ -1,1 +1,1 @@
-var mnemonic = "target engine next jaguar fall another differ fade benefit person moon spatial";
+var mnemonic = "wisdom wife detect brass category warm join account spare rubber debate hospital";

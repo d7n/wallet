@@ -1,1 +1,1 @@
-var mnemonic = "ankle lottery victory lunch topple egg airport fence broccoli manual problem accuse";
+var mnemonic = "shallow snap clean lecture anger blur where now foil bleak arm great";

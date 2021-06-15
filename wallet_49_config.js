@@ -1,1 +1,1 @@
-var mnemonic = "axis post seat noise verb early depend beyond attend just mimic life";
+var mnemonic = "board dwarf roast slab arrange urge grit dress draft adult gather teach";

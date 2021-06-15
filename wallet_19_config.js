@@ -1,1 +1,1 @@
-var mnemonic = "chimney either bleak pyramid easy dish dice mesh latin reward panther domain";
+var mnemonic = "uncover dawn cousin bottom tube label once price beach loud attend science";

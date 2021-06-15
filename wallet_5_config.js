@@ -1,1 +1,1 @@
-var mnemonic = "creek excuse cloth grid cheese twin shrug tourist add capable copper inside";
+var mnemonic = "hard chuckle police media slender bracket topple reform future radar thought matrix";

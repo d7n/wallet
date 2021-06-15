@@ -1,1 +1,1 @@
-var mnemonic = "prison dice beyond insect frame knock disorder source cradle season start moon";
+var mnemonic = "doctor arrange video peace please aisle lens record best jeans wool explain";

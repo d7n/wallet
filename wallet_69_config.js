@@ -1,1 +1,1 @@
-var mnemonic = "board anxiety scissors anxiety soft wire grocery among base write portion maple";
+var mnemonic = "business version rocket push noodle hurdle puzzle sad coconut property wise bounce";

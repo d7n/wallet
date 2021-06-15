@@ -1,1 +1,1 @@
-var mnemonic = "fold cool leopard enact honey twenty surround bitter mechanic margin fossil wheat";
+var mnemonic = "nephew keep visa worth pause sniff defense pottery memory average dawn october";

@@ -1,1 +1,1 @@
-var mnemonic = "path skirt holiday honey tuition awful game iron sister frequent grid employ";
+var mnemonic = "antenna project tonight promote organ dream mirror senior manage table glare vivid";

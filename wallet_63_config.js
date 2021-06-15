@@ -1,1 +1,1 @@
-var mnemonic = "boat hedgehog dynamic pledge news resource truth engine front force then iron";
+var mnemonic = "document oppose fitness derive slam alter subway ski quantum match myth envelope";

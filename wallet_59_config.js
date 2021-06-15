@@ -1,1 +1,1 @@
-var mnemonic = "fury cute flip toddler letter talent glove movie expose outside bulb mind";
+var mnemonic = "drama coach spread grab current provide before provide domain object expose blue";

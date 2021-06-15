@@ -1,1 +1,1 @@
-var mnemonic = "all bleak split prize define anxiety inject squirrel uncle cry leader nice";
+var mnemonic = "crop behind senior mirror business myth youth whip pelican bottom flag sound";

@@ -1,1 +1,1 @@
-var mnemonic = "detect virtual enter mixture install autumn puppy mad merit layer danger employ";
+var mnemonic = "sea attitude patrol attack measure window smoke phrase motion student circle toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion process chest viable gain erase ecology civil purse clinic rude allow";
+var mnemonic = "vehicle december cotton estate ankle wagon ocean present unusual walnut country other";

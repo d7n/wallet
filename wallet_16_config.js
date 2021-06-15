@@ -1,1 +1,1 @@
-var mnemonic = "total grit whisper window permit elder bonus buffalo paper stereo boost spice";
+var mnemonic = "glow planet bulb you usage what analyst rhythm name outer begin photo";

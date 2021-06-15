@@ -1,1 +1,1 @@
-var mnemonic = "cloud luxury scout share curve fine long siege design until prefer avocado";
+var mnemonic = "episode myth burst decline captain work twist crouch little snap crime present";

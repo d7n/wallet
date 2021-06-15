@@ -1,1 +1,1 @@
-var mnemonic = "wasp impose need ignore shaft claim clog beach october spot lab increase";
+var mnemonic = "venue grief initial setup strategy object escape require drink brush sudden lemon";

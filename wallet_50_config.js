@@ -1,1 +1,1 @@
-var mnemonic = "tiny desert hobby acoustic sleep rabbit spot alpha oyster castle immense hockey";
+var mnemonic = "feed step nose upset bargain rapid track travel method vocal elite lady";

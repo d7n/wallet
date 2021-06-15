@@ -1,1 +1,1 @@
-var mnemonic = "write salute mobile odor practice setup shy swing tenant bottom inflict benefit";
+var mnemonic = "focus young winner dentist path twin genre inner subway shield already guard";

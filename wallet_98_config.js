@@ -1,1 +1,1 @@
-var mnemonic = "hood village cost client zebra satisfy primary huge normal satisfy spoil taxi";
+var mnemonic = "model vibrant steel jewel gaze possible enrich permit palace fossil absent middle";

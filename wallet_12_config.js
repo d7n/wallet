@@ -1,1 +1,1 @@
-var mnemonic = "aspect limit suit useful enforce salon digital sand smooth purse solution awake";
+var mnemonic = "adjust combine issue term abuse enact wonder hole easy pyramid quiz jungle";

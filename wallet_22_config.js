@@ -1,1 +1,1 @@
-var mnemonic = "struggle copy express ancient enrich winner certain range cement glow floor liberty";
+var mnemonic = "tomorrow stick oven current company shoe recall exile below ethics excuse mom";

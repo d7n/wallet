@@ -1,1 +1,1 @@
-var mnemonic = "wash muscle ill viable melt neck cube elevator snow chase glad vessel";
+var mnemonic = "pumpkin area glance menu truth dash girl ordinary favorite birth fever trouble";

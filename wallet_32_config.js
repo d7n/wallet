@@ -1,1 +1,1 @@
-var mnemonic = "soda practice hospital scene alone sudden dignity rifle melody melt federal omit";
+var mnemonic = "pause test inside wire type coast citizen cancel finish tree rubber job";

@@ -1,1 +1,1 @@
-var mnemonic = "teach surface critic alone bless parrot family model breeze fog ramp frozen";
+var mnemonic = "grief wasp either river kitten annual victory jar robust bid cliff casino";

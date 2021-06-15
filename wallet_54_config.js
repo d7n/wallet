@@ -1,1 +1,1 @@
-var mnemonic = "firm smile donate eagle gain embrace surge water future street fly demand";
+var mnemonic = "illness gravity else squeeze couple artist invite clinic become lecture example junior";
