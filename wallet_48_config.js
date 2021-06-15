@@ -1,1 +1,1 @@
-var mnemonic = "slogan kiss denial penalty dignity nothing sausage chief kite green liar cancel";
+var mnemonic = "scan behind gym notice crucial guilt rural syrup correct human now horror";

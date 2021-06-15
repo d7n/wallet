@@ -1,1 +1,1 @@
-var mnemonic = "trust feature box tube alpha table brass field dune you famous feature";
+var mnemonic = "sheriff trash insect acid situate rival heart venture energy describe soccer remove";

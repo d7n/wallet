@@ -1,1 +1,1 @@
-var mnemonic = "despair salad marine motion arrest second wasp start health blind lazy dinner";
+var mnemonic = "industry scout renew ladder disease increase uniform modify surround swing short split";

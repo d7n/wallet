@@ -1,1 +1,1 @@
-var mnemonic = "balcony ladder market afraid angry energy cup eternal solid genius stable abstract";
+var mnemonic = "able chalk gather mean pioneer oven urge drastic ghost hand real mouse";

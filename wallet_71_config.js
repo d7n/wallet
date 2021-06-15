@@ -1,1 +1,1 @@
-var mnemonic = "chuckle common refuse message general angry erosion name combine notice height choice";
+var mnemonic = "pattern focus six idea waste motion margin fortune dose ancient group guitar";

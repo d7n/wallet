@@ -1,1 +1,1 @@
-var mnemonic = "autumn hen public earth liquid magic print tackle bar access deputy puppy";
+var mnemonic = "mechanic unit flame pudding prosper labor identify slice sound average alien protect";

@@ -1,1 +1,1 @@
-var mnemonic = "super indoor old unfold prosper tag emotion total path odor reward planet";
+var mnemonic = "garbage salt drop neutral problem alcohol extend mother skin hockey know parent";

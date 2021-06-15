@@ -1,1 +1,1 @@
-var mnemonic = "easily stick liberty true method balcony vibrant method reason birth innocent stomach";
+var mnemonic = "exchange wolf ritual saddle swift sort recycle capable wife fragile super rural";

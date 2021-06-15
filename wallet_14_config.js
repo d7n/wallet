@@ -1,1 +1,1 @@
-var mnemonic = "body cross decade scatter start turn spice logic december endless clip bundle";
+var mnemonic = "toilet much item vacuum glare vapor slam crack surface swift talk exact";

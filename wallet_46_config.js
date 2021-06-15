@@ -1,1 +1,1 @@
-var mnemonic = "already input pen guitar kite exclude topic meat senior they system veteran";
+var mnemonic = "program axis push crazy mean rocket city cruise island order peanut cabin";

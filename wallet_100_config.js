@@ -1,1 +1,1 @@
-var mnemonic = "royal bicycle never visa chief zebra word number shed behave insect talk";
+var mnemonic = "wedding resource typical weekend measure board point wine wrong art boost live";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud climb sweet elevator thank draft symbol focus keen lunch bamboo alpha";
+var mnemonic = "rubber victory build evidence license involve exchange salon meat jelly rug replace";

@@ -1,1 +1,1 @@
-var mnemonic = "camp hungry loud sort timber basic punch blossom cruise nice firm clutch";
+var mnemonic = "prosper fire river vital warfare human ethics harsh normal broccoli you warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet rug design cheap body input apart citizen author camp miss laugh";
+var mnemonic = "call regular century achieve always economy volcano limit need depth disorder coral";

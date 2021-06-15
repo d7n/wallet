@@ -1,1 +1,1 @@
-var mnemonic = "hire eye antique throw symbol kiss nest box atom sleep gadget unique";
+var mnemonic = "leisure frozen frequent evil charge bleak sudden together spoon ugly toe forget";

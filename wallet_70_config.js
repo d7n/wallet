@@ -1,1 +1,1 @@
-var mnemonic = "engage fly carry early accuse car pitch tissue easily near coast slight";
+var mnemonic = "legend wool split genuine alone sea summer gift peace idle fold spray";

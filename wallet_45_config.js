@@ -1,1 +1,1 @@
-var mnemonic = "issue scout universe add gain usual rib talk onion lady despair cluster";
+var mnemonic = "define secret bullet canvas buddy media ride brand trust bleak obtain box";

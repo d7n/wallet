@@ -1,1 +1,1 @@
-var mnemonic = "vintage jealous position decade ribbon like long unit stable wheat urge earn";
+var mnemonic = "robot topple always alone clown need bottom very question motor library globe";

@@ -1,1 +1,1 @@
-var mnemonic = "obvious sphere tell stock people egg joy eager fame work angry craft";
+var mnemonic = "narrow coffee wave bar violin wrap powder faith rely evil ten target";

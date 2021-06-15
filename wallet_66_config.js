@@ -1,1 +1,1 @@
-var mnemonic = "traffic fury enough fiscal drum fog rescue coil picnic ride tumble gospel";
+var mnemonic = "impulse position number sausage grass increase critic lady custom edge clean admit";

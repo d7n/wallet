@@ -1,1 +1,1 @@
-var mnemonic = "charge shadow afraid dilemma chat deny flame key forward history link near";
+var mnemonic = "volume forget differ season antique boss crack cry cloud example snap label";

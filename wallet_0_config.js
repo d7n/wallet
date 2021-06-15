@@ -1,1 +1,1 @@
-var mnemonic = "toddler custom lesson trash turtle cool bean tornado canvas elegant jump ivory";
+var mnemonic = "gesture smoke tail fox little present clerk regular staff spoil debris pool";

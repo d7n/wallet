@@ -1,1 +1,1 @@
-var mnemonic = "pipe ecology hollow shift aim glad license eye produce build city finish";
+var mnemonic = "kitchen exile panel more future summer witness own film thought rally morning";

@@ -1,1 +1,1 @@
-var mnemonic = "dance gloom pyramid coach patient segment inch prize dentist chicken shift candy";
+var mnemonic = "someone hospital isolate olive build shield trash bird method orient same assault";

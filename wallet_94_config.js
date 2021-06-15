@@ -1,1 +1,1 @@
-var mnemonic = "fence defense fog crack derive promote fatigue kick close wagon ginger hair";
+var mnemonic = "neglect kingdom subject symptom pencil creek steel visa owner zone segment transfer";

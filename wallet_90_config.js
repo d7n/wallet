@@ -1,1 +1,1 @@
-var mnemonic = "team adjust pumpkin bargain laptop faith aim eight immune shift spell left";
+var mnemonic = "story vote river prize endorse resist hair poem nothing desert liberty love";

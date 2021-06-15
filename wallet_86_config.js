@@ -1,1 +1,1 @@
-var mnemonic = "soft swim walk strategy shock picture hollow tonight bleak real mesh trash";
+var mnemonic = "list occur asset coconut ball elite phrase paddle trap rally slim seed";

@@ -1,1 +1,1 @@
-var mnemonic = "bike disagree student reveal step hidden crucial mom erosion decline people master";
+var mnemonic = "prosper dinosaur recipe cheese search song demise shoot mask village girl hill";

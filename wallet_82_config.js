@@ -1,1 +1,1 @@
-var mnemonic = "pioneer diary behave host party own stereo rigid asthma rival trial neglect";
+var mnemonic = "honey boil embody indoor mango flame shrug later avoid enjoy frozen blur";

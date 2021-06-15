@@ -1,1 +1,1 @@
-var mnemonic = "method hurt unfair that dentist muffin lumber recipe evolve marble cup junk";
+var mnemonic = "lucky cruel envelope syrup fish rude town tourist spread gloom dish glue";

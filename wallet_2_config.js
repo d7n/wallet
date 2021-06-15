@@ -1,1 +1,1 @@
-var mnemonic = "auction mirror oxygen hour season teach can conduct excuse aware manage fatal";
+var mnemonic = "like engine love bless right venue lunar address people slim amateur lady";

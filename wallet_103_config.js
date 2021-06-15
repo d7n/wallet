@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon present pepper comic balance trial rail turtle rhythm maze flag rival";
+var mnemonic = "dawn thumb man drink gallery trumpet crash fan race hollow kingdom enrich";

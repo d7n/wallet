@@ -1,1 +1,1 @@
-var mnemonic = "moon submit ill flock wide pepper blame expire what lady royal surround";
+var mnemonic = "mesh champion seed modify net burst ill ugly tortoise twelve axis saddle";

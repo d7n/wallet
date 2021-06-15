@@ -1,1 +1,1 @@
-var mnemonic = "tray first goddess lazy badge spell canoe moment clay become drastic feature";
+var mnemonic = "under brave soon child derive obey chicken term want happy embrace absorb";

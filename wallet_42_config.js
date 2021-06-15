@@ -1,1 +1,1 @@
-var mnemonic = "attitude spot ride dentist wreck myself wise planet slender average shield chuckle";
+var mnemonic = "echo flash term cave gorilla tube disease scare elder across rough region";

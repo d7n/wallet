@@ -1,1 +1,1 @@
-var mnemonic = "round scare recipe cube badge jacket mimic movie brand option crunch blue";
+var mnemonic = "oppose they rib about puzzle harsh relax slide apart today unable crazy";

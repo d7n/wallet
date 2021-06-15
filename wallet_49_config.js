@@ -1,1 +1,1 @@
-var mnemonic = "fault game soda almost drink spoon extra travel wonder apart trash sudden";
+var mnemonic = "leader album float term oyster youth horror divorce extend purity kite lottery";

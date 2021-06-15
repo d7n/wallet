@@ -1,1 +1,1 @@
-var mnemonic = "apple loyal riot hybrid address possible custom cost hard wave depth guard";
+var mnemonic = "hen protect inform lyrics panther distance gap comfort soldier north surround success";

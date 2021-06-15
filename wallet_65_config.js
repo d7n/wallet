@@ -1,1 +1,1 @@
-var mnemonic = "truly practice churn used lock pen lawsuit mimic divide wink skill slice";
+var mnemonic = "gold someone second toddler journey body pen exotic exercise around two float";

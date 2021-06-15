@@ -1,1 +1,1 @@
-var mnemonic = "mouse flat depend drive illegal truth silent tag slice cushion crack flee";
+var mnemonic = "seek umbrella gym ill afraid wing bind average arm bundle boost picture";

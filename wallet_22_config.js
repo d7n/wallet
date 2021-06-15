@@ -1,1 +1,1 @@
-var mnemonic = "audit churn wear crunch guess negative deposit buffalo anchor easy give gloom";
+var mnemonic = "bid write fog wing service sock spike equip trash hedgehog swarm later";

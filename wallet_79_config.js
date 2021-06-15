@@ -1,1 +1,1 @@
-var mnemonic = "witness lyrics achieve normal diary battle present arctic another decide rice logic";
+var mnemonic = "audit accuse soldier cube march private kite artefact find enact turtle worry";

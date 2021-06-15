@@ -1,1 +1,1 @@
-var mnemonic = "alpha fish spare galaxy rare festival cement jeans destroy gauge borrow moment";
+var mnemonic = "improve dad crime inflict panther clay chronic choice helmet lyrics grant vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "useless concert prepare once slight write camp oak witness ready fly arrow";
+var mnemonic = "three dumb reject response bean chair entry kitchen scheme miss tray sample";

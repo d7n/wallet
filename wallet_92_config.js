@@ -1,1 +1,1 @@
-var mnemonic = "absurd damage theme delay enter evolve below weird crisp autumn clown knee";
+var mnemonic = "joke label glue approve island candy ladder ritual grab bless effort cram";

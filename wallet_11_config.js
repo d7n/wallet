@@ -1,1 +1,1 @@
-var mnemonic = "paper detect bar illness struggle solid muffin usual urge report snack copper";
+var mnemonic = "labor kit wisdom guilt door benefit trick breeze foil mind skin genius";

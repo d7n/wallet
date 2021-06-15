@@ -1,1 +1,1 @@
-var mnemonic = "double april fall cage cluster vivid trial volcano copy timber web main";
+var mnemonic = "defy century same void comic venue tenant super net grid tag sugar";

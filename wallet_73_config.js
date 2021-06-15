@@ -1,1 +1,1 @@
-var mnemonic = "note brief spring year now coil body tattoo design asset loop faculty";
+var mnemonic = "cabin provide version false lens notable alcohol air attract tuna device setup";

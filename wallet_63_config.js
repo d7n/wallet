@@ -1,1 +1,1 @@
-var mnemonic = "people wood alone shield side now this smoke bench door mimic kitten";
+var mnemonic = "gorilla token warm race woman purchase merry foot vast tilt jaguar rookie";

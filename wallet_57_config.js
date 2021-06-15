@@ -1,1 +1,1 @@
-var mnemonic = "aim worry mistake hard tomorrow wrist shrimp margin slush shoot trick produce";
+var mnemonic = "remind bright now way chuckle more wedding lizard absent trigger page transfer";

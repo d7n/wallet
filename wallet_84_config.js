@@ -1,1 +1,1 @@
-var mnemonic = "length skirt reform access stool rigid gravity hockey polar finish orange plate";
+var mnemonic = "quote close immense wish regret start wisdom wrist permit quiz since old";

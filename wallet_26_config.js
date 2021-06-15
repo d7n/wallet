@@ -1,1 +1,1 @@
-var mnemonic = "rigid drum hint innocent fiber endless click become metal ceiling town ask";
+var mnemonic = "brand federal chapter immune cream october finger olive cherry width reform agent";

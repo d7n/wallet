@@ -1,1 +1,1 @@
-var mnemonic = "shop volcano guess assume ship congress gospel liquid truly cry silent version";
+var mnemonic = "worth tree kid horn palm twin maze song arch exchange alone judge";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble sibling alert space obey left demise build mention warrior rival champion";
+var mnemonic = "okay sell reflect sock major volume judge anxiety disagree popular net multiply";

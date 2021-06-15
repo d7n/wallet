@@ -1,1 +1,1 @@
-var mnemonic = "pluck civil crawl fruit avoid table amount throw nerve soldier sock control";
+var mnemonic = "sea include element finish regular lava wide siren reunion foil retreat anxiety";

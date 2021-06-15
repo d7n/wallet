@@ -1,1 +1,1 @@
-var mnemonic = "sense recipe upper area north over behind wire assist resist silent then";
+var mnemonic = "april jungle cabbage tenant vital dragon arctic grief cart cable blood crisp";

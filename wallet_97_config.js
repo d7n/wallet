@@ -1,1 +1,1 @@
-var mnemonic = "half grape foster mass gym country alien moment cargo fancy absent enough";
+var mnemonic = "bag venture case gadget matrix lens book circle canoe elbow hunt weird";

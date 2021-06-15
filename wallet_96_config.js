@@ -1,1 +1,1 @@
-var mnemonic = "crystal hover whip drum athlete display kidney run panel mammal depth trigger";
+var mnemonic = "basket skill barrel before blossom recall endorse jelly rug pen funny possible";

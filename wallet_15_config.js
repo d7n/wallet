@@ -1,1 +1,1 @@
-var mnemonic = "blind scout scan drip razor device final plastic between toe final cigar";
+var mnemonic = "index school exercise cheese slogan rifle media trash usage history guitar neutral";

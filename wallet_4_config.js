@@ -1,1 +1,1 @@
-var mnemonic = "output truck patient bulk nominee couch kiwi chief inhale report only identify";
+var mnemonic = "melt wisdom mom write wear pitch climb escape jacket leader champion sustain";

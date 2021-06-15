@@ -1,1 +1,1 @@
-var mnemonic = "body orphan prepare luggage joke cliff raccoon vehicle cross scan ability mule";
+var mnemonic = "canvas typical champion throw business select anchor total win equip argue clap";

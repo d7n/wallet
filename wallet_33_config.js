@@ -1,1 +1,1 @@
-var mnemonic = "assist layer ball move flag spoil burst orange obvious name always onion";
+var mnemonic = "cover tennis cannon juice ivory soccer crew craft price salute slogan pact";

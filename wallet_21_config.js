@@ -1,1 +1,1 @@
-var mnemonic = "sauce swamp smooth walnut kite join expand inflict resource indicate pitch clump";
+var mnemonic = "glide shield load struggle canoe lecture rail barely inch always gentle ivory";

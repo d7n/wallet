@@ -1,1 +1,1 @@
-var mnemonic = "supply broom voyage foil whale since quality travel swift curtain spread cloud";
+var mnemonic = "pupil climb unusual gospel rookie input valve ribbon figure forum cargo weekend";

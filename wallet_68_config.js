@@ -1,1 +1,1 @@
-var mnemonic = "enroll glove convince jealous recipe man spray pen slow garbage dad script";
+var mnemonic = "typical remain extra lesson zero elder garden foster attitude order setup cattle";

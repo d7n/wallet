@@ -1,1 +1,1 @@
-var mnemonic = "hen kick crack neglect fuel buyer grid seminar next leader simple cream";
+var mnemonic = "drama reopen task eye lumber various depend possible dice eternal pilot adult";

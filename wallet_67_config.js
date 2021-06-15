@@ -1,1 +1,1 @@
-var mnemonic = "gain egg similar lunch pelican ivory exact slab corn exotic feature hidden";
+var mnemonic = "where churn mixture bounce faint unusual coast swarm reunion garbage burst race";

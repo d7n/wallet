@@ -1,1 +1,1 @@
-var mnemonic = "afraid trash spice alter fat cousin indoor month pudding age pudding rose";
+var mnemonic = "zero betray steak noble provide fresh possible struggle endorse night tent witness";

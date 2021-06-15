@@ -1,1 +1,1 @@
-var mnemonic = "loyal cinnamon capable capable body surprise kitchen hill bitter antique off call";
+var mnemonic = "lab net music cinnamon input blade expect crowd aerobic pudding knife post";

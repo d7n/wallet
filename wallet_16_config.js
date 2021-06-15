@@ -1,1 +1,1 @@
-var mnemonic = "boil crack forum boss nest napkin humble goddess camp skull mean comfort";
+var mnemonic = "bicycle habit twenty maximum venue canvas category music ladder zebra fame cement";

@@ -1,1 +1,1 @@
-var mnemonic = "place real evolve erase that bounce witness team churn adjust lake return";
+var mnemonic = "defy drastic hard dad various friend frown soon honey sting oppose bar";

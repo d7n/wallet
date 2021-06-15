@@ -1,1 +1,1 @@
-var mnemonic = "border grab daring pair hockey ladder harvest common crunch powder alarm obvious";
+var mnemonic = "taxi magic board lecture layer chest deer aware master observe fortune glare";

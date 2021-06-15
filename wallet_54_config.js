@@ -1,1 +1,1 @@
-var mnemonic = "receive labor secret silver indicate thumb reunion drill belt have broccoli alley";
+var mnemonic = "spare century neck position thought rural stamp drift funny awful desert genius";

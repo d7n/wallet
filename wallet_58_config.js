@@ -1,1 +1,1 @@
-var mnemonic = "question cement initial adjust note acquire meat gallery sign equal order snack";
+var mnemonic = "come arena trick album baby liquid photo attract warm nothing column elder";

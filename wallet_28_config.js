@@ -1,1 +1,1 @@
-var mnemonic = "anxiety skill donor bamboo motion hip odor keen prosper forum monkey type";
+var mnemonic = "scatter cram fatigue cotton upon material pave hub mask stereo holiday miss";

@@ -1,1 +1,1 @@
-var mnemonic = "feed dismiss knock rubber deliver strategy ski nothing barrel gate update thunder";
+var mnemonic = "glide mad worth disagree parrot slot service spin balcony burst poem base";

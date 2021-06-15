@@ -1,1 +1,1 @@
-var mnemonic = "journey feature wild runway correct you symptom join rich life base wide";
+var mnemonic = "rate meadow safe paper path away bacon logic debris borrow harsh young";

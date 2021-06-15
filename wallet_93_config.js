@@ -1,1 +1,1 @@
-var mnemonic = "goat trouble quality consider strike caution alpha pledge tribe version feel mesh";
+var mnemonic = "cause pen advice must language toe can cigar thing tired dignity need";

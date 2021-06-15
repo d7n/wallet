@@ -1,1 +1,1 @@
-var mnemonic = "owner arctic seminar auction someone answer patient benefit property vibrant develop animal";
+var mnemonic = "hamster wash diesel penalty guilt guess kite coffee valve junk next adult";

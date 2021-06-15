@@ -1,1 +1,1 @@
-var mnemonic = "region garbage circle sea sunny vicious museum dry injury traffic float panther";
+var mnemonic = "correct supreme mobile code federal deny depart ribbon volcano exercise parent dose";

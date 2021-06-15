@@ -1,1 +1,1 @@
-var mnemonic = "eager nurse miracle field accuse color silent camera erase bamboo moral canyon";
+var mnemonic = "frequent office plastic employ because color carry lecture idea wet silent route";

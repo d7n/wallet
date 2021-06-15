@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo knife dad roof soap onion custom column arm vapor moral general";
+var mnemonic = "stick horse robot leave issue book inform mention dinner minimum need false";

@@ -1,1 +1,1 @@
-var mnemonic = "sand ball scene track mad uncle joy vacuum camp pen solid spin";
+var mnemonic = "glue together report mask major kiss fatigue predict ocean tone horse version";

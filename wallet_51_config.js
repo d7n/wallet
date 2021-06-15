@@ -1,1 +1,1 @@
-var mnemonic = "pool scan can video size obtain father champion risk tilt name mountain";
+var mnemonic = "dragon thought depend super laptop lens glare fog pact erosion flower renew";

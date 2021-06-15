@@ -1,1 +1,1 @@
-var mnemonic = "differ price dream hero annual panic hello group alone echo helmet dentist";
+var mnemonic = "foil modify quit open celery envelope feature orchard abandon joy woman human";

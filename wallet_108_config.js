@@ -1,1 +1,1 @@
-var mnemonic = "kitchen asset segment shift basic online advice example quote father fluid main";
+var mnemonic = "lock random relax border case kid recycle usual book cable soul come";

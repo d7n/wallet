@@ -1,1 +1,1 @@
-var mnemonic = "powder enemy orbit physical twenty blood camp whale merge wide bring pair";
+var mnemonic = "leisure sunny patch proof spice purpose club child hammer amateur spice occur";

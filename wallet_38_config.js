@@ -1,1 +1,1 @@
-var mnemonic = "vague industry defense rabbit ride unlock typical news journey impulse razor increase";
+var mnemonic = "fall senior benefit switch party rescue radar bulb idea human mule shuffle";

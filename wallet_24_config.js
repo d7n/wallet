@@ -1,1 +1,1 @@
-var mnemonic = "dance happy trick volcano ignore topple exhibit day taste put wink eight";
+var mnemonic = "garment cable example ten relief diet lyrics harvest shoe include actual wisdom";

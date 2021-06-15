@@ -1,1 +1,1 @@
-var mnemonic = "fix margin uncover below engage soda remind attitude long behave across scare";
+var mnemonic = "churn twelve rail series summer hero dynamic sleep slice nerve shoulder cat";
