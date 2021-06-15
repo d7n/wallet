@@ -1,1 +1,1 @@
-var mnemonic = "armed dawn easy claim coffee young perfect quality lake envelope sad upon";
+var mnemonic = "parade exchange useless route talent story meadow innocent advance useless wasp harbor";

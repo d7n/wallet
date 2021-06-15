@@ -1,1 +1,1 @@
-var mnemonic = "canvas eternal make abuse forward pizza meat join flock attack evoke cushion";
+var mnemonic = "what detail brief model galaxy hat lesson wink blur artefact february jewel";

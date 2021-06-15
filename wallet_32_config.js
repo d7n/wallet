@@ -1,1 +1,1 @@
-var mnemonic = "fix outdoor witness victory range chef dash tennis spread rate guilt gossip";
+var mnemonic = "fantasy awful paper that trigger wrong hockey tissue season screen charge mix";

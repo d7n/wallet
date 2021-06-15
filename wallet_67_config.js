@@ -1,1 +1,1 @@
-var mnemonic = "remain chaos jeans shoulder appear depart spatial early silly miss shop junk";
+var mnemonic = "master burst quit supply crunch lobster jump response fever enrich switch expect";

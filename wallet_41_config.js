@@ -1,1 +1,1 @@
-var mnemonic = "method consider order sell canal bind tool tip figure crane include erode";
+var mnemonic = "assist truck fiction jacket pumpkin pull donkey talent excuse ball imitate enable";

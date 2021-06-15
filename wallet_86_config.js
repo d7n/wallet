@@ -1,1 +1,1 @@
-var mnemonic = "tube jealous beach cat property drift mixed provide rabbit order year upgrade";
+var mnemonic = "grunt divide clay toast rigid country chair actor view cool buyer drastic";

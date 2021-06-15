@@ -1,1 +1,1 @@
-var mnemonic = "exchange reform cliff giggle involve promote group gossip hawk domain jazz basket";
+var mnemonic = "century eternal mammal senior radio bamboo banner follow push provide purity list";

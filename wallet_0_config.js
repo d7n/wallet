@@ -1,1 +1,1 @@
-var mnemonic = "produce front cool obey wreck drink lecture crystal smoke proof turkey avoid";
+var mnemonic = "praise pause talk replace belt fun dial during bunker hover ask muffin";

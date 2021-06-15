@@ -1,1 +1,1 @@
-var mnemonic = "add rebuild enrich wait pole strategy blanket muffin mystery pill input coin";
+var mnemonic = "blame gesture truth elite avoid alpha degree fit live train hidden keen";

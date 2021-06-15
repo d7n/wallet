@@ -1,1 +1,1 @@
-var mnemonic = "try roof delay bullet sorry uniform belt sell tribe galaxy become alter";
+var mnemonic = "power enroll upon misery purse harbor base black head gasp town jar";

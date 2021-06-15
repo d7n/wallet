@@ -1,1 +1,1 @@
-var mnemonic = "pass chaos joke clap slim table debris peasant rescue stem humble agent";
+var mnemonic = "predict mechanic minute mushroom lake maid attend stereo buffalo series school mad";

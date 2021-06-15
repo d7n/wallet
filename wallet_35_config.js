@@ -1,1 +1,1 @@
-var mnemonic = "mimic obscure bacon away chicken code book recipe slow follow memory sample";
+var mnemonic = "salon guard spice museum pony beef mass rally symbol tank traffic sadness";

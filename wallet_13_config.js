@@ -1,1 +1,1 @@
-var mnemonic = "exotic cotton dog roof winner inner innocent wave flower anxiety cactus castle";
+var mnemonic = "seed pizza snap inspire field hour argue stereo panther panic any path";

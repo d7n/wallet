@@ -1,1 +1,1 @@
-var mnemonic = "okay kitten wrist fetch analyst mandate wait shrimp earth diet hair produce";
+var mnemonic = "effort latin argue gain magnet sock ignore inner unlock drip faith pond";

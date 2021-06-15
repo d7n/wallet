@@ -1,1 +1,1 @@
-var mnemonic = "easy practice never lawn merry gauge odor garage tilt bubble knife hand";
+var mnemonic = "town swamp north science three yellow ghost upset glance salt shrug believe";

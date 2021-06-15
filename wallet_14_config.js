@@ -1,1 +1,1 @@
-var mnemonic = "theme nest power scrub shell meat lion price expire ensure current inner";
+var mnemonic = "stereo mesh guard exchange salad confirm weekend census silent visual orange matrix";

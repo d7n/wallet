@@ -1,1 +1,1 @@
-var mnemonic = "exclude rib craft solution install tumble elephant age supply memory twelve verify";
+var mnemonic = "club march they prevent indicate switch quality live normal soldier math emotion";

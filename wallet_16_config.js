@@ -1,1 +1,1 @@
-var mnemonic = "breeze need vendor garage talent wait gun monitor trial orient wrestle inside";
+var mnemonic = "story twist cushion total twelve grant absurd sport finish cart bulk laptop";

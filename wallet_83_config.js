@@ -1,1 +1,1 @@
-var mnemonic = "same drum trophy velvet banner olive wash path rose stone exhibit tiny";
+var mnemonic = "drama whale column visit column ivory action culture group rally ribbon produce";

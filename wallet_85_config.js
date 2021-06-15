@@ -1,1 +1,1 @@
-var mnemonic = "cigar sunset marine exit cloud position own double smart toss alarm labor";
+var mnemonic = "truth faculty brush whisper soda burger bus awful jeans nurse boil record";

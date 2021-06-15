@@ -1,1 +1,1 @@
-var mnemonic = "main clog receive way view love old follow business rabbit field around";
+var mnemonic = "raise van question answer puppy canyon earn spike effort solution lumber leisure";

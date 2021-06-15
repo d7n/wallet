@@ -1,1 +1,1 @@
-var mnemonic = "phone elephant open blame fix lunch boss promote guilt gravity core air";
+var mnemonic = "sample dilemma major crowd saddle coconut cousin donkey erosion attract able fun";

@@ -1,1 +1,1 @@
-var mnemonic = "disagree rather position belt bulk online jacket mail picnic brave chase boss";
+var mnemonic = "song enemy nature disorder render tenant require drink concert assume squirrel ice";

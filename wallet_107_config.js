@@ -1,1 +1,1 @@
-var mnemonic = "maid glare kitten gossip burden loop bone act sphere blind spend talent";
+var mnemonic = "adjust rather mad horn fiction sniff satisfy nominee cabbage guard tip lemon";

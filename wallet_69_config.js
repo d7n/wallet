@@ -1,1 +1,1 @@
-var mnemonic = "correct bleak three cup movie discover grocery organ frost night other list";
+var mnemonic = "shrimp life flee hybrid wrist success code mirror deal share scale oval";

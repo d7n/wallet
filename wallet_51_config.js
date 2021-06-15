@@ -1,1 +1,1 @@
-var mnemonic = "trumpet skill trap saddle swarm trend hair buzz celery tiger depart claim";
+var mnemonic = "chest spot option ripple tag debris rigid invite evoke space good ski";

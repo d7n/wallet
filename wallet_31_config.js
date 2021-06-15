@@ -1,1 +1,1 @@
-var mnemonic = "meat vital beyond pizza recall exhibit card strike pen reject jump sick";
+var mnemonic = "kick achieve become rose divorce steak doll split order theme liar bullet";

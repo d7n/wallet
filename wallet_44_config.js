@@ -1,1 +1,1 @@
-var mnemonic = "regret circle casino neutral pulse need canvas aisle trap wild idea inmate";
+var mnemonic = "avoid stable middle cost six notice reform hint buyer birth letter minimum";

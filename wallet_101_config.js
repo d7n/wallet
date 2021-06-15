@@ -1,1 +1,1 @@
-var mnemonic = "resource barely game assault holiday fitness razor rack sure balance critic unhappy";
+var mnemonic = "stage leopard bar joke truly finish hawk ostrich cash letter bamboo clean";

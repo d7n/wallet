@@ -1,1 +1,1 @@
-var mnemonic = "chat nurse split entire super hood deal worry year private grow tumble";
+var mnemonic = "abandon hope region win obtain mobile tone lobster mountain yard arena blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "also wrestle artwork trick canal library young service this anxiety loyal join";
+var mnemonic = "august admit air purity hello excuse chapter basic tank demise relax shallow";

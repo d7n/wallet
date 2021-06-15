@@ -1,1 +1,1 @@
-var mnemonic = "stand dutch cup join wheat pulp depart cupboard stool jeans luggage lottery";
+var mnemonic = "total scrap toilet episode friend possible album degree feel employ pen friend";

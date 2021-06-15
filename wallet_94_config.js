@@ -1,1 +1,1 @@
-var mnemonic = "reduce cash force brand harbor throw hammer burst bomb funny spare stay";
+var mnemonic = "onion polar toddler group speed learn index ramp happy cattle vintage damage";

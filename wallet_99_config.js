@@ -1,1 +1,1 @@
-var mnemonic = "alter mountain length style lizard chaos pattern salon slender above rapid jaguar";
+var mnemonic = "train ridge clown heart royal brown library priority number lion various fever";

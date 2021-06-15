@@ -1,1 +1,1 @@
-var mnemonic = "banana gold great sound ethics reward snow curious combine tornado forward empower";
+var mnemonic = "enhance congress hill vehicle same slight salmon merry cash powder pistol sister";

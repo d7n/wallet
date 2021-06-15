@@ -1,1 +1,1 @@
-var mnemonic = "stone police tornado whale electric live mandate globe unlock hub best culture";
+var mnemonic = "season rude simple hour reward huge educate seat surround garden orange hover";

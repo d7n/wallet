@@ -1,1 +1,1 @@
-var mnemonic = "paper retire thank sugar ten capable immune require borrow border potato valid";
+var mnemonic = "post save ticket faith oyster divide outdoor empty label venue holiday hotel";

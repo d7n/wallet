@@ -1,1 +1,1 @@
-var mnemonic = "foster pupil carbon maze plunge early job always online replace life cactus";
+var mnemonic = "urge wagon grit miss license habit elbow mechanic cream attract unusual eternal";

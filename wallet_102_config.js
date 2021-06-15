@@ -1,1 +1,1 @@
-var mnemonic = "share index tuna foil between double nasty before push point cactus teach";
+var mnemonic = "jeans valley valid allow play tape toy achieve vacuum kite bargain duty";

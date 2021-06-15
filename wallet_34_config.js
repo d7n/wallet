@@ -1,1 +1,1 @@
-var mnemonic = "year purpose grain purpose super give garment sustain blush medal client color";
+var mnemonic = "wish bar lion size slot method casual wet feature crouch quit autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "address road skill panic supreme credit valid pupil slow soul mule regular";
+var mnemonic = "zone couple obvious begin outdoor spike wet fox decrease aim call welcome";

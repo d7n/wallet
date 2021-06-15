@@ -1,1 +1,1 @@
-var mnemonic = "spell width screen script junior when advice census cradle slam taste wrong";
+var mnemonic = "scare fiction apology hover social stool vintage make tower gentle cry reopen";

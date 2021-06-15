@@ -1,1 +1,1 @@
-var mnemonic = "behave chuckle beyond liar skin mutual flower unfold quality swift prize struggle";
+var mnemonic = "method arrive myth island winner balcony cart need across suit bargain govern";

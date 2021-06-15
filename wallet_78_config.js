@@ -1,1 +1,1 @@
-var mnemonic = "stand estate involve layer inside lunch system choice sadness cheap network reduce";
+var mnemonic = "chat pioneer hen kite mesh chimney model offer adjust lab minimum panic";

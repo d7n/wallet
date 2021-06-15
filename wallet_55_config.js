@@ -1,1 +1,1 @@
-var mnemonic = "invite wish usage eye expire dirt armed scrap occur green consider area";
+var mnemonic = "barely relief disagree group crystal aspect foil rib weekend frame sail pilot";

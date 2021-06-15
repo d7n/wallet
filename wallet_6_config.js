@@ -1,1 +1,1 @@
-var mnemonic = "problem panda industry notice erosion trouble build riot scissors segment wolf mesh";
+var mnemonic = "bone crush exact cabbage glare install produce road critic blast wife ankle";

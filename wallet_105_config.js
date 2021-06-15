@@ -1,1 +1,1 @@
-var mnemonic = "denial credit fuel acquire just avocado chimney cross siege security flash bulk";
+var mnemonic = "sing jungle tone island worry effort erosion merge surface punch admit silver";

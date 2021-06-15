@@ -1,1 +1,1 @@
-var mnemonic = "jeans sure smile mean method uphold give volume number gas smart drastic";
+var mnemonic = "panda quantum lift accuse eternal hold situate license typical glue body tuna";

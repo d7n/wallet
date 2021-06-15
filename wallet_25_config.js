@@ -1,1 +1,1 @@
-var mnemonic = "inform seminar jeans soon slim junior text sting cotton high patrol ill";
+var mnemonic = "aunt barrel pen arrive guilt token sail bench island eye almost dawn";

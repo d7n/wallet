@@ -1,1 +1,1 @@
-var mnemonic = "flash match stick patch collect thought time engine nasty shadow fringe cycle";
+var mnemonic = "equal ship reopen lock protect mushroom between satoshi differ true ignore wide";

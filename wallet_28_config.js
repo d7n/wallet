@@ -1,1 +1,1 @@
-var mnemonic = "distance run execute remind true outer change other carbon pilot mind shallow";
+var mnemonic = "adjust piece enforce cheap hurt lonely kiss yellow provide cabbage carbon text";

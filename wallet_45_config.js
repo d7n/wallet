@@ -1,1 +1,1 @@
-var mnemonic = "option path plunge curtain can tape enjoy diagram town celery slot luggage";
+var mnemonic = "crop silk roof album magnet grass august country eager saddle wagon below";

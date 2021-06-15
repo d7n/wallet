@@ -1,1 +1,1 @@
-var mnemonic = "notable drop bottom toe protect diamond present genius marriage magic economy soon";
+var mnemonic = "skirt gesture gas frown valley sell drip save artefact strong hero traffic";

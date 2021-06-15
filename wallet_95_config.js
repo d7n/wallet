@@ -1,1 +1,1 @@
-var mnemonic = "oyster verify senior still rocket usage attend orange tone paddle ring mouse";
+var mnemonic = "army city swap immense next unit actress guard employ dragon trumpet pride";

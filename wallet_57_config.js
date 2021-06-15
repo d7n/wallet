@@ -1,1 +1,1 @@
-var mnemonic = "trash property deliver boil trend drastic poet elephant tribe joy common survey";
+var mnemonic = "reveal find insane change blind prosper bridge prevent harvest key modify post";

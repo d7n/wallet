@@ -1,1 +1,1 @@
-var mnemonic = "off powder enhance floor pact theme panel egg kingdom rather allow alien";
+var mnemonic = "grief mountain correct nephew stem fire grunt push join naive piece mixed";

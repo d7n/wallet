@@ -1,1 +1,1 @@
-var mnemonic = "garment awkward use fatal music merry jewel blind install error range aware";
+var mnemonic = "track wisdom sugar illegal inch find rely else pistol element perfect like";

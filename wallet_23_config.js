@@ -1,1 +1,1 @@
-var mnemonic = "rebel wait shock gym list remind text prepare giraffe drama slice chalk";
+var mnemonic = "model struggle slim recall grid skull joy pole rotate extend noble hawk";

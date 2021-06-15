@@ -1,1 +1,1 @@
-var mnemonic = "area still gallery under ethics finish rare salt must fan armor february";
+var mnemonic = "pottery idle check prize entry sweet fiction arrest ketchup salmon hope autumn";

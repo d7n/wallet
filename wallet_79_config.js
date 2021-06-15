@@ -1,1 +1,1 @@
-var mnemonic = "case dignity valid danger music wood equip engage network print muffin large";
+var mnemonic = "defy between october simple please tail brief amused off aware arrow insane";

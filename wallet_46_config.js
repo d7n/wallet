@@ -1,1 +1,1 @@
-var mnemonic = "sell source impose merry sting double monitor mask trophy host unhappy network";
+var mnemonic = "gift night focus juice transfer fun trust cradle twin imitate rail risk";

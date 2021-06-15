@@ -1,1 +1,1 @@
-var mnemonic = "omit all drift virtual glow sunset vault salt sad quit box rebuild";
+var mnemonic = "toast penalty snap media salute album expand adjust immune rain rule ginger";

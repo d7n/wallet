@@ -1,1 +1,1 @@
-var mnemonic = "room leaf victory provide cook boat scrub rookie object normal winner awesome";
+var mnemonic = "dish almost shoe setup victory bring resemble valley slender subject soda wash";

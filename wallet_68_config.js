@@ -1,1 +1,1 @@
-var mnemonic = "shoot cradle group prize dwarf social unfair champion cage host sign curtain";
+var mnemonic = "guitar beyond pyramid flight turkey crystal plug payment repeat chalk spend provide";

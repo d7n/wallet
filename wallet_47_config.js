@@ -1,1 +1,1 @@
-var mnemonic = "hero task grape section neglect ask essence daughter coffee select unique fetch";
+var mnemonic = "creek cheese agree achieve tube session devote muffin topic oppose abstract horror";

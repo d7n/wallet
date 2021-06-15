@@ -1,1 +1,1 @@
-var mnemonic = "tube scatter sight giraffe glue beef good useful already goddess village joy";
+var mnemonic = "matter twin loyal cook neglect curve calm faint clump bridge accident mass";

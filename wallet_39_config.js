@@ -1,1 +1,1 @@
-var mnemonic = "length olympic cousin own arch unable roof glad outer stove lobster inject";
+var mnemonic = "dawn tomorrow still purchase call autumn fruit time pull negative lecture budget";

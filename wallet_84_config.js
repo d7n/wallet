@@ -1,1 +1,1 @@
-var mnemonic = "pitch tonight during name clip ecology lend crane type evoke labor scan";
+var mnemonic = "share model hawk window dream switch umbrella shadow bar cross render today";

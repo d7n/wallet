@@ -1,1 +1,1 @@
-var mnemonic = "sword salmon room multiply silk perfect river list method asthma artist involve";
+var mnemonic = "guess pottery method seed duty taxi stable reason canvas child giraffe green";

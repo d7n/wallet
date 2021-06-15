@@ -1,1 +1,1 @@
-var mnemonic = "mixture knock cute increase rescue come exclude divorce throw suffer screen galaxy";
+var mnemonic = "moral series view wonder resource bulb ribbon save blue remember mean lazy";

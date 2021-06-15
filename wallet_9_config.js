@@ -1,1 +1,1 @@
-var mnemonic = "promote cool erupt rib always bounce immense furnace involve portion better usual";
+var mnemonic = "axis winner fabric outside cage analyst around father resemble october injury cannon";

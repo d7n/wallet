@@ -1,1 +1,1 @@
-var mnemonic = "walk cause priority fabric help hurt sniff soon fit latin reunion patient";
+var mnemonic = "reduce very excuse brand decade hover bargain addict multiply lawn miss assist";

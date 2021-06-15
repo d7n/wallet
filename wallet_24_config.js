@@ -1,1 +1,1 @@
-var mnemonic = "surprise have orphan dutch shaft faith small fabric thrive hill liberty ladder";
+var mnemonic = "elite oval wisdom model inquiry poverty engine flip planet logic rabbit poet";

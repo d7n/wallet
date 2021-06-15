@@ -1,1 +1,1 @@
-var mnemonic = "cannon inch slab vacant change dinosaur salmon chapter oak lemon obvious remove";
+var mnemonic = "thank cabbage salmon emerge around announce turtle voyage menu crater tiny anchor";

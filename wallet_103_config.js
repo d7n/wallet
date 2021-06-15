@@ -1,1 +1,1 @@
-var mnemonic = "atom mesh little slim fold enough goose slam asthma ahead hub then";
+var mnemonic = "note there disease range song satisfy chunk raven split flash remind cancel";

@@ -1,1 +1,1 @@
-var mnemonic = "special interest use seat honey milk fluid use good chicken want crazy";
+var mnemonic = "stay motion juice old daring immune history teach pepper phone raven will";

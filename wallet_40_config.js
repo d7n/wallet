@@ -1,1 +1,1 @@
-var mnemonic = "section ticket west shock buzz soda thought age true list path crumble";
+var mnemonic = "rude area clay fringe fetch cost tape quarter attract clump pond fitness";

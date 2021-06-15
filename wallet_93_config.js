@@ -1,1 +1,1 @@
-var mnemonic = "axis rescue want manage pool safe glide stadium potato december proud raise";
+var mnemonic = "average effort shaft rough term shadow across unable venture again twin stool";

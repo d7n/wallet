@@ -1,1 +1,1 @@
-var mnemonic = "swarm athlete hello receive captain olive thumb miss regular drill enforce library";
+var mnemonic = "discover chair wagon position salt such gift machine bottom rookie same next";

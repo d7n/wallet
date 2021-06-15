@@ -1,1 +1,1 @@
-var mnemonic = "gun word plug erode rotate autumn modify harbor throw fetch roast stock";
+var mnemonic = "duty loyal stool road funny feel leader use paddle muffin black error";

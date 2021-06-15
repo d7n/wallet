@@ -1,1 +1,1 @@
-var mnemonic = "soap oblige embrace oven oxygen acoustic gentle crisp round bitter cable december";
+var mnemonic = "weapon mom surface retreat either video educate lonely grab ability bird anxiety";

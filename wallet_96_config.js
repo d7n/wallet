@@ -1,1 +1,1 @@
-var mnemonic = "slice lawsuit finger one coffee hawk leg tuna mention blame wrestle enroll";
+var mnemonic = "puzzle talk identify memory heavy country weekend fresh blouse perfect host repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker fade symbol donate loud tragic release over ridge razor uphold always";
+var mnemonic = "acquire slide often during can exercise surface person fever hand truck photo";

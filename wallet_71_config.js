@@ -1,1 +1,1 @@
-var mnemonic = "axis this brother traffic impose grunt tobacco trumpet pulse crisp panda vacant";
+var mnemonic = "base hurry fall purity lonely proof lady later oblige spike faith salt";

@@ -1,1 +1,1 @@
-var mnemonic = "maid exotic group rely order else circle isolate dawn agree employ luggage";
+var mnemonic = "sense fan valid glue pigeon better vendor helmet teach bench second way";

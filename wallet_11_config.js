@@ -1,1 +1,1 @@
-var mnemonic = "prepare august hockey lazy hole orange morning ranch acid board wing stuff";
+var mnemonic = "merry guitar energy farm exotic auto uncle key shrug own lounge curtain";

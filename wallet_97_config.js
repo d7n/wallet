@@ -1,1 +1,1 @@
-var mnemonic = "hen hero canvas oven quit region help before pitch burden where dove";
+var mnemonic = "apart want urge chef visit gate shock certain destroy opera lake pact";

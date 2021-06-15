@@ -1,1 +1,1 @@
-var mnemonic = "champion damp horn caution wish ivory slot quiz gift swing wish mercy";
+var mnemonic = "category put finger spread debate train concert answer matter scheme already where";

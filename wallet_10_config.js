@@ -1,1 +1,1 @@
-var mnemonic = "tooth virtual senior thing method truly around away miss detect vast own";
+var mnemonic = "core toward tourist find erase false evidence trip eager control field cousin";

@@ -1,1 +1,1 @@
-var mnemonic = "spring bamboo kite before mosquito loop village tell afraid crunch party morning";
+var mnemonic = "still car present push coil deny boil outer vicious endless any page";

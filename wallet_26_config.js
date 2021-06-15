@@ -1,1 +1,1 @@
-var mnemonic = "ceiling excuse despair ecology absorb fall vital remove disagree globe clog unaware";
+var mnemonic = "range unknown infant strong grief century cash among curtain solution bird hobby";

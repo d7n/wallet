@@ -1,1 +1,1 @@
-var mnemonic = "worth family elbow pull cattle volcano reveal idle suspect lounge day shoe";
+var mnemonic = "discover permit about boat mail firm rebuild wrong behave you left eagle";
