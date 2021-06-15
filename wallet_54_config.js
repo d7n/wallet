@@ -1,1 +1,1 @@
-var mnemonic = "sword tourist slot recipe steak boy gold enroll bicycle vendor notice run";
+var mnemonic = "wolf aware clog tooth long venue shift chapter cruise fiction praise dynamic";

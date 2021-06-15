@@ -1,1 +1,1 @@
-var mnemonic = "impose deny casino advice purse entry tissue twin cement enlist crop rice";
+var mnemonic = "cargo absorb hint mansion machine educate sleep hungry climb cycle proof festival";

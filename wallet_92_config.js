@@ -1,1 +1,1 @@
-var mnemonic = "almost fan sibling entry govern ethics jump better retreat bunker border gallery";
+var mnemonic = "celery curious truly document demise weekend topple feel provide session sleep hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "box flock replace easy seat point rack skirt town adult weapon text";
+var mnemonic = "tip people inhale seat day decline clever social obscure size beyond brief";

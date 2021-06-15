@@ -1,1 +1,1 @@
-var mnemonic = "useful squirrel list vague found network display crowd favorite stone simple column";
+var mnemonic = "photo crazy medal dash clock drill prosper announce reward else fantasy cook";

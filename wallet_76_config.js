@@ -1,1 +1,1 @@
-var mnemonic = "march film damage such convince curtain script pepper shadow kid fantasy over";
+var mnemonic = "wedding shoot giant install turkey club tone there beef other inspire three";

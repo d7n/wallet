@@ -1,1 +1,1 @@
-var mnemonic = "science throw fun wash grit rookie pig success cannon salad pony subject";
+var mnemonic = "soft typical diet define spike utility atom bag route moment replace frequent";

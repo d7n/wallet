@@ -1,1 +1,1 @@
-var mnemonic = "ribbon cradle monkey paddle develop ring quick sunny balance gorilla cram position";
+var mnemonic = "size need equip extend cook differ shadow route portion spend creek draft";

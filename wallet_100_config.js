@@ -1,1 +1,1 @@
-var mnemonic = "guard friend genre boy media control glare crop cook cage enrich moral";
+var mnemonic = "ladder innocent there begin bitter liar divorce twist trick problem twenty olive";

@@ -1,1 +1,1 @@
-var mnemonic = "behave resemble weather region relief monitor amateur front smoke turn shield cycle";
+var mnemonic = "angry grunt trouble mango sleep destroy empower wish cross install thumb donor";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty symptom update rookie pride vocal obtain talent bargain fine minute truth";
+var mnemonic = "phrase amused issue cupboard scare worry diet pistol trumpet enter check fine";

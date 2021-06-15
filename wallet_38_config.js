@@ -1,1 +1,1 @@
-var mnemonic = "rule clever collect harbor rebel pilot retire keep divert phrase flame toddler";
+var mnemonic = "school praise neck brave report wasp chef carbon neutral album jaguar misery";

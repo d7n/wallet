@@ -1,1 +1,1 @@
-var mnemonic = "kid bright review forest virtual modify cart orchard pupil almost practice true";
+var mnemonic = "coast advice tired maze aisle impose champion filter window subject salad noble";

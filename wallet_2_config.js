@@ -1,1 +1,1 @@
-var mnemonic = "latin jeans lounge lake drive talent wood tip coin opera bread engage";
+var mnemonic = "tone viable potato surface slush violin region december monster hybrid airport recall";

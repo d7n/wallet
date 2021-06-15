@@ -1,1 +1,1 @@
-var mnemonic = "infant dumb flight wreck decrease guide shed entry citizen poverty skirt trend";
+var mnemonic = "announce kite wedding file infant absurd once someone gloom capable canoe holiday";

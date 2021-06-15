@@ -1,1 +1,1 @@
-var mnemonic = "hungry play reflect rubber diary wrong like midnight injury case vehicle emerge";
+var mnemonic = "august hover siren ozone brain drink couch cake eye rather install mechanic";

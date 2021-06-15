@@ -1,1 +1,1 @@
-var mnemonic = "enact plunge oppose move tiny quit member emotion tree fly riot mom";
+var mnemonic = "web gorilla oyster pride leave city cushion idle earth infant erase onion";

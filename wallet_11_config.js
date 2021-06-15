@@ -1,1 +1,1 @@
-var mnemonic = "theory seven borrow bonus affair dinosaur unfold volume depart forget harbor unfair";
+var mnemonic = "clinic avocado ketchup size canyon turn gaze shift mushroom nerve scheme cabbage";

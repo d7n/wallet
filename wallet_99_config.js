@@ -1,1 +1,1 @@
-var mnemonic = "sort forest steak whip hidden cherry hotel clay two rebuild wear build";
+var mnemonic = "course spoon easy diamond judge mushroom raven rack empty lava course satoshi";

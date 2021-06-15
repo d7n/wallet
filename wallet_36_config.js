@@ -1,1 +1,1 @@
-var mnemonic = "father lunch tackle coin coral predict exercise camera hint congress exile prevent";
+var mnemonic = "oak pole twist tuition dinner combine multiply village gate sorry assist remove";

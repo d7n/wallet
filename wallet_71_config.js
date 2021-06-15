@@ -1,1 +1,1 @@
-var mnemonic = "identify together topic limit nut receive language banner question outside control deposit";
+var mnemonic = "swarm stick pioneer host wolf pretty pluck fever solar alter awesome unveil";

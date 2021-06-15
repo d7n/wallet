@@ -1,1 +1,1 @@
-var mnemonic = "over ghost develop prosper voyage box sport smile scrub enable such lobster";
+var mnemonic = "fortune tissue grass mystery affair mistake beach utility casino improve material quit";

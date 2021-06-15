@@ -1,1 +1,1 @@
-var mnemonic = "excite service eight seed quarter wood thank champion clown pilot bounce that";
+var mnemonic = "marine one note sun album duty journey poverty furnace habit audit fog";

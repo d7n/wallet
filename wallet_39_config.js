@@ -1,1 +1,1 @@
-var mnemonic = "april gossip connect sorry confirm mosquito oven couple kind pigeon guilt clinic";
+var mnemonic = "country board what piece canyon stone voyage alley sell film desk bunker";

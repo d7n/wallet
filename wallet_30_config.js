@@ -1,1 +1,1 @@
-var mnemonic = "apple pledge physical drift snack myself toss tape reunion act retire wonder";
+var mnemonic = "boat fiscal draft legend toe close cram quiz sketch lady identify donate";

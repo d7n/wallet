@@ -1,1 +1,1 @@
-var mnemonic = "divide yard clump knock render power staff monitor ethics blast jaguar supreme";
+var mnemonic = "drill tomato trick report merry lava build because actress live echo among";

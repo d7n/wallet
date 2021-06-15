@@ -1,1 +1,1 @@
-var mnemonic = "earn kid else gown collect suit label glimpse around dad topple crouch";
+var mnemonic = "maze today mutual empower bind position clerk attend canal rhythm analyst solar";

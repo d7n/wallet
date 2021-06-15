@@ -1,1 +1,1 @@
-var mnemonic = "buzz cry exit loyal table wave leg about nose snake dignity misery";
+var mnemonic = "peace trigger history old release merit where vast october flee goddess pony";

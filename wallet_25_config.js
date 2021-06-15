@@ -1,1 +1,1 @@
-var mnemonic = "try impact family change tag soul auction vapor swing jungle artist armed";
+var mnemonic = "trap cat galaxy fantasy portion usual spike hospital draft huge clog put";

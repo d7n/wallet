@@ -1,1 +1,1 @@
-var mnemonic = "return crane silver walk symbol ozone home duck please coach coast render";
+var mnemonic = "media design miracle cushion remind camp merge robot love reform cake slim";

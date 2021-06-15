@@ -1,1 +1,1 @@
-var mnemonic = "donkey quick slice tragic solar cause pond wonder fresh sudden pony silly";
+var mnemonic = "paddle bracket enable frown gain brother right wonder benefit deer tank noise";

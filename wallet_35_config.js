@@ -1,1 +1,1 @@
-var mnemonic = "link goose fold board reflect gather upgrade color panic check swallow juice";
+var mnemonic = "find tumble result dad relief hello engage gun gun almost pill column";

@@ -1,1 +1,1 @@
-var mnemonic = "fluid divide off velvet myth vintage glare cycle gaze task moon choose";
+var mnemonic = "image license moon muffin float anxiety festival deer pole upset reward sunset";

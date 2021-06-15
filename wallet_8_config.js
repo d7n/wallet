@@ -1,1 +1,1 @@
-var mnemonic = "gift outer ignore lamp erosion spawn love connect clinic panel together enact";
+var mnemonic = "beach eagle capital ritual abstract violin viable elite surprise asset wire market";

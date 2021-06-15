@@ -1,1 +1,1 @@
-var mnemonic = "foil matrix sport clutch ghost economy camp general nature add minimum retire";
+var mnemonic = "tail upgrade angle basket just hobby deer acquire lava wheat video grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "tone normal eyebrow genius treat coast urge bicycle crew crash network bunker";
+var mnemonic = "rain hunt method horror again casual couple afford leopard label task stable";

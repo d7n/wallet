@@ -1,1 +1,1 @@
-var mnemonic = "bunker ability embark tonight indicate lock eager glance nose remain near valve";
+var mnemonic = "project claim reflect donate guide paddle glow census step story prefer earth";

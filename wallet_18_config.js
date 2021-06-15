@@ -1,1 +1,1 @@
-var mnemonic = "flight floor visual crunch sentence oval tube sunset future path sea bind";
+var mnemonic = "endorse pulp trick aspect exchange noise illness sense key entry off blouse";

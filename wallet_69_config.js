@@ -1,1 +1,1 @@
-var mnemonic = "clever alert expose build half broom reason stool style damage race off";
+var mnemonic = "tennis chicken lunch honey habit junior liar course circle exact million busy";

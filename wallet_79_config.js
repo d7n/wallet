@@ -1,1 +1,1 @@
-var mnemonic = "claw guitar riot tank source option public same table pattern provide horn";
+var mnemonic = "culture artist tone boss increase easy violin require book size twice hawk";

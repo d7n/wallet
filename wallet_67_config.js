@@ -1,1 +1,1 @@
-var mnemonic = "visual bounce ancient small oval autumn frog drill attitude velvet style include";
+var mnemonic = "fox treat tongue side tobacco coconut message wall lizard rescue depart knee";

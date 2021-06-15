@@ -1,1 +1,1 @@
-var mnemonic = "skin sort inner alpha pumpkin either order eternal tourist deposit kiwi risk";
+var mnemonic = "scrap brief adult leader patch asset tired whisper agree nation hood amazing";

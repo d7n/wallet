@@ -1,1 +1,1 @@
-var mnemonic = "mistake delay job stem brisk total double secret spell turn charge chronic";
+var mnemonic = "total kid series medal giggle swear save radio share village window kitten";

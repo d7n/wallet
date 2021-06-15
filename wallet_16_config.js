@@ -1,1 +1,1 @@
-var mnemonic = "switch reveal fox brisk transfer heart advance lawsuit render allow rain clever";
+var mnemonic = "neutral note bench staff slice train parent suggest cement tuna card vast";

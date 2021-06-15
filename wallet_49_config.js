@@ -1,1 +1,1 @@
-var mnemonic = "reunion say poem process venue skull nerve vivid glad chunk heavy trend";
+var mnemonic = "human actor shove letter wink conduct nice blame cube play when guitar";

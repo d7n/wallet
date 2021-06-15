@@ -1,1 +1,1 @@
-var mnemonic = "glide rich impose tide vehicle end outer virtual across extend canoe empower";
+var mnemonic = "glare donor tuition review chief midnight moral fruit furnace jump sea like";

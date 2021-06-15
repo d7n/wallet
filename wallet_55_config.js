@@ -1,1 +1,1 @@
-var mnemonic = "flower fashion pumpkin dice sea science snack duty hour kitten cactus pepper";
+var mnemonic = "crucial tackle finish hover nasty column vast alter coin sample market mimic";

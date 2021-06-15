@@ -1,1 +1,1 @@
-var mnemonic = "holiday paper witness noodle basic gesture bless across pluck require unhappy also";
+var mnemonic = "build among gasp task task funny live main radar museum marriage analyst";

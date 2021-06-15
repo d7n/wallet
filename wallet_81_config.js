@@ -1,1 +1,1 @@
-var mnemonic = "push dizzy inform situate tooth like original flush album index there federal";
+var mnemonic = "liberty insect strong during walk boat laugh resource flash lion bicycle avocado";

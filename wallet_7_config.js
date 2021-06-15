@@ -1,1 +1,1 @@
-var mnemonic = "mammal dance shed sketch drive globe anxiety party clarify genuine point income";
+var mnemonic = "task pulp eight forum gentle gown gun spy vintage laugh rescue civil";

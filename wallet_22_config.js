@@ -1,1 +1,1 @@
-var mnemonic = "segment filter spray desk wedding avoid bid twelve clean decade hazard brother";
+var mnemonic = "stand cricket artwork arm pulp robot famous fabric deliver frame square round";

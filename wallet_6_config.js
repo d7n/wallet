@@ -1,1 +1,1 @@
-var mnemonic = "employ sunset circle true explain habit remain open provide obey guard intact";
+var mnemonic = "picture apart unit high lemon laundry enjoy strike admit popular become kangaroo";

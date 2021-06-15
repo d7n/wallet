@@ -1,1 +1,1 @@
-var mnemonic = "digital boat base economy awake design mix iron moon exclude reform chair";
+var mnemonic = "upper taste axis cycle donkey venture choose vault enroll lyrics inherit daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "faith spider girl rebel chalk never tunnel talk beauty civil pulse teach";
+var mnemonic = "today fan lonely sand artwork rally food noble salmon lounge also blood";

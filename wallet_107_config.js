@@ -1,1 +1,1 @@
-var mnemonic = "surge like venture ramp onion gauge keen purchase sudden obtain april chimney";
+var mnemonic = "stereo wedding soldier approve mesh they alpha two board smart pattern gas";

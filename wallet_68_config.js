@@ -1,1 +1,1 @@
-var mnemonic = "plunge square thing cook delay invest sense fit cargo about card kind";
+var mnemonic = "found toward sell nice grant peasant digital inform humble under cloud source";

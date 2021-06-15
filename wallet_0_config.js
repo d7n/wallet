@@ -1,1 +1,1 @@
-var mnemonic = "hole toast isolate proof afraid snow rubber slab another bleak clock final";
+var mnemonic = "powder match knock fever noble trial about type bright assume leisure interest";

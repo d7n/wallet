@@ -1,1 +1,1 @@
-var mnemonic = "bulk drink digital trumpet luggage media detail patrol disease income pipe movie";
+var mnemonic = "main nasty sun vacuum treat animal define above mimic easily cube stage";

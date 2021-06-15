@@ -1,1 +1,1 @@
-var mnemonic = "duck code sugar slice vacant spirit chapter fan earth raccoon shallow music";
+var mnemonic = "wine offer wealth high twice birth creek twenty divorce school purchase virus";

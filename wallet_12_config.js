@@ -1,1 +1,1 @@
-var mnemonic = "chat flight one baby relief kid flock high city mad risk deposit";
+var mnemonic = "claim wood seminar jelly mouse sister check double parade receive lesson tooth";

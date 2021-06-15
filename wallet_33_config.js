@@ -1,1 +1,1 @@
-var mnemonic = "kick grit crew announce merit topic chest slight want pelican attack increase";
+var mnemonic = "biology expect merit priority bird goose banana question sunny trouble inmate have";

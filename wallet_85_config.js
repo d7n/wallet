@@ -1,1 +1,1 @@
-var mnemonic = "rocket obvious help arch decline wood help october punch pill gaze pitch";
+var mnemonic = "private vacant swamp noble pride useful reflect ski arch fiscal august nothing";

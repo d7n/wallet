@@ -1,1 +1,1 @@
-var mnemonic = "crash swamp wild dawn rural defense capable elegant runway dash search goddess";
+var mnemonic = "toast price coral across behave stand pulse lawn snack traffic age together";

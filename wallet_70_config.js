@@ -1,1 +1,1 @@
-var mnemonic = "project blouse twin ticket until onion slight garment together toy capable warrior";
+var mnemonic = "silk wedding sausage good win local nice ability wild pyramid spell eagle";

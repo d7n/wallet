@@ -1,1 +1,1 @@
-var mnemonic = "offer buyer trigger muffin pilot galaxy mechanic mercy wreck exclude absorb blame";
+var mnemonic = "behind spring toddler gate destroy rate speak chief juice huge achieve basket";

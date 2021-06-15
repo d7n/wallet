@@ -1,1 +1,1 @@
-var mnemonic = "garment promote claw gun dad holiday lounge donkey tuition layer genre broccoli";
+var mnemonic = "dutch undo judge napkin ocean blanket section ostrich match despair seminar require";

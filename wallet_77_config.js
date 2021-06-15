@@ -1,1 +1,1 @@
-var mnemonic = "portion witness vague response join today divorce ten opinion also school word";
+var mnemonic = "usage fork acid surprise region moment hint excite clerk opera tape sibling";

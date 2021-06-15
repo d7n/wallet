@@ -1,1 +1,1 @@
-var mnemonic = "element hour spawn avocado polar attract stuff around basic leg sibling inhale";
+var mnemonic = "token liquid hint almost turtle mom magnet spoon secret yellow bird drive";

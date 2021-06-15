@@ -1,1 +1,1 @@
-var mnemonic = "mixture asthma side nice warm child barely useless town pencil fork render";
+var mnemonic = "garage open please kit put palace idea rent diary step lift dizzy";

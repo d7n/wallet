@@ -1,1 +1,1 @@
-var mnemonic = "submit canvas coil balance maid rescue cook unlock pistol garage claim junior";
+var mnemonic = "endless retreat boy horror recipe load proof kid vehicle orange manual monkey";

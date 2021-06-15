@@ -1,1 +1,1 @@
-var mnemonic = "deer adjust path sustain swear celery believe same roof assume summer sample";
+var mnemonic = "goose gesture bullet history elbow fence tent future health cabbage radio tomato";

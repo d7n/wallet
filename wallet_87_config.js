@@ -1,1 +1,1 @@
-var mnemonic = "reward vanish torch blur sand rent little february now clarify hospital thrive";
+var mnemonic = "south violin mercy outdoor stable dust merge salmon around never clump oxygen";

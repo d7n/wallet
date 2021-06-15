@@ -1,1 +1,1 @@
-var mnemonic = "talent forum review jacket comic raven winter toddler below trial chat junior";
+var mnemonic = "brain inch bless mouse ski love catalog control arrow scissors tornado meadow";

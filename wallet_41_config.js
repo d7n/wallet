@@ -1,1 +1,1 @@
-var mnemonic = "hotel clutch hub scale curve warm hint bicycle say call tip wing";
+var mnemonic = "trip wing race anger will donkey nasty comfort advance sport surge coach";

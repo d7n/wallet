@@ -1,1 +1,1 @@
-var mnemonic = "session size buffalo ethics ability fossil impact square digital cup clown hen";
+var mnemonic = "print sniff deer gain muscle loud ivory famous owner jealous despair submit";

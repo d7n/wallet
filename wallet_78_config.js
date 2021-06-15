@@ -1,1 +1,1 @@
-var mnemonic = "flower donkey major loud strike swim myself fan good under next warm";
+var mnemonic = "inch cricket royal rather wise slender surround box access quick ball say";

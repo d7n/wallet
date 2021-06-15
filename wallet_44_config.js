@@ -1,1 +1,1 @@
-var mnemonic = "pretty consider blade floor net celery dash battle around trip lion weird";
+var mnemonic = "great educate move inquiry post spike coil captain reduce salad cotton agent";

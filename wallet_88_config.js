@@ -1,1 +1,1 @@
-var mnemonic = "wealth copper strong radar open hour artist scatter exit display earn want";
+var mnemonic = "vanish grocery they loyal garden hero detail plate fashion know poverty innocent";

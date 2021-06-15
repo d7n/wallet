@@ -1,1 +1,1 @@
-var mnemonic = "text run style ordinary aunt brush together catalog tattoo female solve reflect";
+var mnemonic = "hover already garment indoor supreme liquid crucial okay bitter puzzle offer assault";

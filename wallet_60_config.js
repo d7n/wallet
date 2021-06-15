@@ -1,1 +1,1 @@
-var mnemonic = "lonely door swim talk elder usual blue maximum fiscal clean flag else";
+var mnemonic = "kitchen surge sponsor trumpet announce crystal onion drama develop kind raise hard";

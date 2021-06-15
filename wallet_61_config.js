@@ -1,1 +1,1 @@
-var mnemonic = "slot fault fortune provide pull then tragic want uncle degree panel celery";
+var mnemonic = "much ribbon present sauce humble ticket mountain absent canoe friend history beyond";

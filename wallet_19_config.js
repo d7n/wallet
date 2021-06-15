@@ -1,1 +1,1 @@
-var mnemonic = "goat quick inform stick retreat under miracle gym attack lawn rhythm consider";
+var mnemonic = "plug rack yellow dove state oil flock wrong wonder carbon antenna win";

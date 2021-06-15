@@ -1,1 +1,1 @@
-var mnemonic = "purchase badge regular ice frequent black only mutual rescue arrest royal leave";
+var mnemonic = "upon follow kiss just history style enemy act stumble whale fame fitness";
