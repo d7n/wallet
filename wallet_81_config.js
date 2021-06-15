@@ -1,1 +1,1 @@
-var mnemonic = "drop myth grape orient umbrella eye chimney vanish sniff jar cook dolphin";
+var mnemonic = "sample scorpion afford point guess jeans chronic tortoise nation rocket stadium biology";

@@ -1,1 +1,1 @@
-var mnemonic = "together saddle book loyal gospel various coconut stove tennis mesh flag word";
+var mnemonic = "return label mandate vast hair spell write garment fee exercise private zoo";

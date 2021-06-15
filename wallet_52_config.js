@@ -1,1 +1,1 @@
-var mnemonic = "solid obscure parent bicycle cram olive trophy duck bone supreme dress order";
+var mnemonic = "clap car nerve add exit diary stable army horn insect strategy share";

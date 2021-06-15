@@ -1,1 +1,1 @@
-var mnemonic = "price blind father judge unique garment know craft cruise stay view office";
+var mnemonic = "patch select walk oxygen club cement shiver dose flip found slab fortune";

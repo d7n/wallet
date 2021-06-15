@@ -1,1 +1,1 @@
-var mnemonic = "dignity donkey pepper sock short patrol false quantum grab involve flash test";
+var mnemonic = "supreme canal acquire digital clutch crime produce blast puzzle mad question fury";

@@ -1,1 +1,1 @@
-var mnemonic = "dial execute dinosaur oval post satisfy person private chalk same worth aspect";
+var mnemonic = "gap member rose smoke magic drink caught evolve canal display force quote";

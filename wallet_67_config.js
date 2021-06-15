@@ -1,1 +1,1 @@
-var mnemonic = "imitate edit dog trick aspect ozone more brisk motion choice ivory pipe";
+var mnemonic = "acid syrup tiny wedding habit toward between flight true draft whale carbon";

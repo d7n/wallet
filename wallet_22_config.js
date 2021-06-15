@@ -1,1 +1,1 @@
-var mnemonic = "false switch grant bunker shy suffer bracket perfect theory ladder oppose health";
+var mnemonic = "ribbon lesson bounce knee civil pizza frog praise dose brand siege ritual";

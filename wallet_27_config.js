@@ -1,1 +1,1 @@
-var mnemonic = "seek galaxy cream body point salmon apology slender food across egg hotel";
+var mnemonic = "trash beach snack stay enlist must mango gossip judge review eagle nuclear";

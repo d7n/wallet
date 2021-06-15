@@ -1,1 +1,1 @@
-var mnemonic = "goose evolve chef scale copper divorce visual farm impose faith cargo genius";
+var mnemonic = "usual owner brain nut deposit forget real want scissors antique wash dinosaur";

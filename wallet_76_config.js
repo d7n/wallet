@@ -1,1 +1,1 @@
-var mnemonic = "divide problem defense bus act slide fetch blame grow eight blade mixture";
+var mnemonic = "expire caught indoor bless jeans nuclear catch crop crater quick extend tuna";

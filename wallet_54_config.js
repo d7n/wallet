@@ -1,1 +1,1 @@
-var mnemonic = "melody escape truly swear anchor wreck domain umbrella road wonder struggle deny";
+var mnemonic = "reject behave use mean helmet blanket crop few what glove length robot";

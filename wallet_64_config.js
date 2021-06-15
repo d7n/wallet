@@ -1,1 +1,1 @@
-var mnemonic = "peanut oil evidence draft very wire soldier empty lunch roast garden annual";
+var mnemonic = "accuse target network sick memory moment evolve gas twin envelope wrist noodle";

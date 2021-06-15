@@ -1,1 +1,1 @@
-var mnemonic = "same front payment make chase million obvious unaware original phone easy universe";
+var mnemonic = "distance horn pumpkin clog swift swim solution half tackle pizza parrot talent";

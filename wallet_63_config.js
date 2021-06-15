@@ -1,1 +1,1 @@
-var mnemonic = "dirt long smooth service pudding bulk draft doll pilot busy inquiry north";
+var mnemonic = "defy allow giggle double play setup draw limit scrub cable primary note";

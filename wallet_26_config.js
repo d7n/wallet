@@ -1,1 +1,1 @@
-var mnemonic = "denial dawn bridge range unlock awesome picture icon favorite extra spread divorce";
+var mnemonic = "survey bounce royal together call chuckle nature story friend limit cinnamon vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer endless poverty uphold people airport fitness simple rifle journey only produce";
+var mnemonic = "noise forget organ noise tackle measure winter face right someone eyebrow prepare";

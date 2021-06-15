@@ -1,1 +1,1 @@
-var mnemonic = "dish quarter pepper segment poverty brother online dolphin swift relax post force";
+var mnemonic = "ridge fiber pigeon giraffe napkin fiction priority virtual debate license ceiling hill";

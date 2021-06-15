@@ -1,1 +1,1 @@
-var mnemonic = "wealth icon awful canyon once awake also thought baby stable judge open";
+var mnemonic = "exist trial limit inmate juice buddy tenant twelve lesson foam syrup wear";

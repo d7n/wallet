@@ -1,1 +1,1 @@
-var mnemonic = "immune afraid fatigue silver book orphan horse boat notice canal never barrel";
+var mnemonic = "copper duty unhappy away drastic skull setup loud engine doctor health mask";

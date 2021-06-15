@@ -1,1 +1,1 @@
-var mnemonic = "ozone tuition alone finish menu random candy island industry accuse lake merit";
+var mnemonic = "wasp can near crouch hunt income sunset behind perfect please brown erase";

@@ -1,1 +1,1 @@
-var mnemonic = "replace ramp flame alter later man grass fork around poet census soul";
+var mnemonic = "super erosion purpose cost dragon denial sort prize eternal involve catch quarter";

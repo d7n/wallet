@@ -1,1 +1,1 @@
-var mnemonic = "welcome body then renew muscle false song cattle elegant flee taste prosper";
+var mnemonic = "thing fork clutch flee lens shoe letter always picnic deer velvet habit";

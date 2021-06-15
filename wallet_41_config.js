@@ -1,1 +1,1 @@
-var mnemonic = "then people electric smoke mercy grain door fatal sorry visual replace stock";
+var mnemonic = "prize school shoulder side grace goat skull bless visual rug kangaroo glow";

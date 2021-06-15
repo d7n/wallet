@@ -1,1 +1,1 @@
-var mnemonic = "air aware derive roast draw embark armed advance wing zoo cereal wall";
+var mnemonic = "feed ecology siege defense cargo maple nation impulse jungle health dust curtain";

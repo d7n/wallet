@@ -1,1 +1,1 @@
-var mnemonic = "private poet high victory dirt urge awake patient expand whale turkey climb";
+var mnemonic = "shock actual caution fatal ribbon monkey reason rack later impose seed meadow";

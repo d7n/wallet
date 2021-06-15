@@ -1,1 +1,1 @@
-var mnemonic = "foam sad analyst acquire analyst nerve december lizard theme coyote baby tree";
+var mnemonic = "worth diet logic weather fancy kite lecture van try mammal post crucial";

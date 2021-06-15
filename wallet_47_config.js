@@ -1,1 +1,1 @@
-var mnemonic = "other sudden arena proof lecture pretty snap ensure curtain comic brisk garbage";
+var mnemonic = "pear hold fine position cloth six ethics beauty normal word ginger frame";

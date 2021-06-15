@@ -1,1 +1,1 @@
-var mnemonic = "drum faculty oil settle also resemble olympic cute edge bottom umbrella wave";
+var mnemonic = "eyebrow genius cruel avocado offer accident meat melt magnet deputy size size";

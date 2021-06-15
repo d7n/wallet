@@ -1,1 +1,1 @@
-var mnemonic = "course flag car accident net toilet topic purpose exact add miss skate";
+var mnemonic = "safe inflict cargo bind entire will zoo fatigue limit future habit tumble";

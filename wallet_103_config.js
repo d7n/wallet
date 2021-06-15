@@ -1,1 +1,1 @@
-var mnemonic = "inform laundry can royal desert hedgehog census gown erupt day valve sand";
+var mnemonic = "later baby universe victory effort dwarf miracle beach position industry share west";

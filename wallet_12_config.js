@@ -1,1 +1,1 @@
-var mnemonic = "high angle report service frost neck chat enlist prison upset target furnace";
+var mnemonic = "fortune twice detect power tomorrow slight thank myth elephant elite hair fetch";

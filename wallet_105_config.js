@@ -1,1 +1,1 @@
-var mnemonic = "early leopard term winter option sleep clump april random profit cram wear";
+var mnemonic = "worth priority fold glove enlist task add file sun gossip force inner";

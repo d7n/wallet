@@ -1,1 +1,1 @@
-var mnemonic = "use tomato level wool bullet like bottom solar rhythm neutral brief pony";
+var mnemonic = "various glide beyond fix key talk horror barrel silly you surge waste";

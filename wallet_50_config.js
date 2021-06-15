@@ -1,1 +1,1 @@
-var mnemonic = "hurdle relief salt absurd security horn domain illness ladder detect sweet unaware";
+var mnemonic = "asset shoulder dawn zero expect insect snack jazz admit civil soul reduce";

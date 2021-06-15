@@ -1,1 +1,1 @@
-var mnemonic = "middle pretty urge raccoon alcohol hand network media yard length index guard";
+var mnemonic = "kangaroo item allow duty sentence verb material humble organ pattern seat huge";

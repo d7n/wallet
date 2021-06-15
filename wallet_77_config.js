@@ -1,1 +1,1 @@
-var mnemonic = "above regret inspire valid twelve fine afford pudding outside sniff twelve green";
+var mnemonic = "spice fresh dry target home bottom another wall bean box chaos daughter";

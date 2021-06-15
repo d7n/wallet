@@ -1,1 +1,1 @@
-var mnemonic = "nose danger symbol bring food occur wash tomorrow wise what blame staff";
+var mnemonic = "quit bleak pledge margin nephew west abandon must cute gym proof dash";

@@ -1,1 +1,1 @@
-var mnemonic = "cube kit main profit lift place lazy then label decide curious art";
+var mnemonic = "play lady produce fat rather essay toilet hood accuse release spare cross";

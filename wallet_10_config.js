@@ -1,1 +1,1 @@
-var mnemonic = "expire canal lunar tribe duty setup expand appear dose giraffe evolve caution";
+var mnemonic = "size cart sugar concert goose supreme simple strike submit amazing luggage know";

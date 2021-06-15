@@ -1,1 +1,1 @@
-var mnemonic = "become foot census marriage hub country castle friend give oval electric lottery";
+var mnemonic = "measure blue kid phone scout bag okay bicycle library ribbon road loud";

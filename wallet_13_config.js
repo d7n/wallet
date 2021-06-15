@@ -1,1 +1,1 @@
-var mnemonic = "virus joy private apology mention sphere absent pioneer resource exist mom thumb";
+var mnemonic = "dance sentence shove famous image moral castle dirt friend rabbit age health";

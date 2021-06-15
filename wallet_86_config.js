@@ -1,1 +1,1 @@
-var mnemonic = "photo cradle strategy atom sad renew rail brother unable setup two fever";
+var mnemonic = "normal obey nest black auction test forget garlic region voyage carpet elbow";

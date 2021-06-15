@@ -1,1 +1,1 @@
-var mnemonic = "cave cruel obvious paper discover guitar laundry enjoy student toddler master maid";
+var mnemonic = "hurry genre desk faith erupt female decline venue morning raw mimic decade";

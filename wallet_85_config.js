@@ -1,1 +1,1 @@
-var mnemonic = "scale purchase text sound tiger enhance flavor orange heart board pair picture";
+var mnemonic = "pigeon net umbrella discover spoil destroy harvest install broken angle bonus fog";

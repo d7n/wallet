@@ -1,1 +1,1 @@
-var mnemonic = "donor gasp toy adult army rival sell cherry shop recipe arch adjust";
+var mnemonic = "float cook vacant staff hire bronze pretty team dignity brother tongue spy";

@@ -1,1 +1,1 @@
-var mnemonic = "moral effort vanish proof tribe sausage other eager loud axis tooth joke";
+var mnemonic = "cheese emotion city adult awkward uncover another green punch minute beef divorce";

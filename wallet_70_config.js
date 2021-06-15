@@ -1,1 +1,1 @@
-var mnemonic = "distance target diary regret subway target notice base produce addict valid arrow";
+var mnemonic = "ancient profit horse museum dial shuffle course amateur fit copper immune harsh";

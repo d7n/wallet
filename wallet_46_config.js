@@ -1,1 +1,1 @@
-var mnemonic = "glue build fade seed original hip hockey stumble fog mad impact blade";
+var mnemonic = "noble melt rocket silk error chaos pill perfect hire chest rice bubble";

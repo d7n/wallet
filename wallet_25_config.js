@@ -1,1 +1,1 @@
-var mnemonic = "garment token icon velvet sustain knock gym debate warrior way keep alarm";
+var mnemonic = "omit artist income solve faculty sauce tooth plastic artefact cliff web quality";

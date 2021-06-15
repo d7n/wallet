@@ -1,1 +1,1 @@
-var mnemonic = "flame audit pizza power soup salute spatial follow hero body soccer barely";
+var mnemonic = "shield behave glass exist young coil identify permit guess mouse horn chest";

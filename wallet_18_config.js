@@ -1,1 +1,1 @@
-var mnemonic = "game deer video offer turtle lens auction mandate mansion wasp layer cheese";
+var mnemonic = "unhappy indoor sample front few artefact impulse friend edit adult large salad";

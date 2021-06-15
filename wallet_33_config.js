@@ -1,1 +1,1 @@
-var mnemonic = "large comfort hybrid soup genuine security nominee pencil secret celery distance visit";
+var mnemonic = "two smart praise dry middle patient oven trash hidden extend park lonely";

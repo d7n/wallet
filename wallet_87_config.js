@@ -1,1 +1,1 @@
-var mnemonic = "mountain chest loan crisp bomb truck series town consider today cherry ivory";
+var mnemonic = "symbol rapid position improve cactus crouch suffer enter trend animal raccoon custom";

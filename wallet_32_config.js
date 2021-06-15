@@ -1,1 +1,1 @@
-var mnemonic = "lady have rescue age throw stem require fresh tag matter tonight wagon";
+var mnemonic = "champion pumpkin tiger scorpion bounce pill captain cabbage olympic seek palm salute";

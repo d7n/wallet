@@ -1,1 +1,1 @@
-var mnemonic = "issue depart siren famous ecology able fabric credit now goat neither cigar";
+var mnemonic = "clever pig rail cherry stomach blame manage early scale mention element blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "increase moment various nuclear donor asset erosion drift warfare analyst grief maid";
+var mnemonic = "team avoid symbol seat vault other flip foil admit trash noble input";

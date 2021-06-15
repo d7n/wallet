@@ -1,1 +1,1 @@
-var mnemonic = "collect flee token shove pledge material situate father cliff mimic pull column";
+var mnemonic = "merry list obey smart east robust forget warm apology inside snow judge";

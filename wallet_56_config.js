@@ -1,1 +1,1 @@
-var mnemonic = "reform obscure flash sentence fresh expose saddle tree small girl document cake";
+var mnemonic = "weather apple enable bamboo identify harbor ask sketch enter pave crystal chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar switch helmet weapon upgrade wife excess tell salute solve detect language";
+var mnemonic = "clerk pelican lunch repair device endless flush legend fashion equip awesome champion";

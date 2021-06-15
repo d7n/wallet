@@ -1,1 +1,1 @@
-var mnemonic = "claim pair enroll embark require news already rude choose beef skill supreme";
+var mnemonic = "manage pottery adult praise resemble tuna cost velvet truck rude you velvet";

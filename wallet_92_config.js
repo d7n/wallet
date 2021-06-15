@@ -1,1 +1,1 @@
-var mnemonic = "skirt blame paper stomach crash cube leisure lion enhance purpose regret impulse";
+var mnemonic = "fiction fence picture snake reopen tone tattoo angle leader exhaust stage describe";

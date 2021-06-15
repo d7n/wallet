@@ -1,1 +1,1 @@
-var mnemonic = "latin level rule equal quiz devote mystery possible helmet save exist quick";
+var mnemonic = "oblige swift pudding become nation shift patient wrestle volume pelican lock stairs";

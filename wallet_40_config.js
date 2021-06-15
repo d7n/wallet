@@ -1,1 +1,1 @@
-var mnemonic = "vendor engine spot maze champion year ride cost zebra giraffe current margin";
+var mnemonic = "erode vacant involve question make oyster when resemble bicycle current marble material";

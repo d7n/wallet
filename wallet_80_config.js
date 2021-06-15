@@ -1,1 +1,1 @@
-var mnemonic = "title heart there struggle meat town dragon dance moral scissors melt female";
+var mnemonic = "special pitch fashion walnut slam surround cost crop arena can disease hawk";

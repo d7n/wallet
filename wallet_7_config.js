@@ -1,1 +1,1 @@
-var mnemonic = "lift mobile lamp journey planet head impose camp liberty display industry mechanic";
+var mnemonic = "weird gospel scare reject leopard when roast abandon jeans voice used fever";

@@ -1,1 +1,1 @@
-var mnemonic = "write nice spend siren brown gas resemble category wash accuse grain they";
+var mnemonic = "document helmet ceiling trap shrug advance impose pond vivid around clip few";

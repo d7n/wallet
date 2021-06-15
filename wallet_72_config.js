@@ -1,1 +1,1 @@
-var mnemonic = "come language glimpse vague there maze ice ugly museum suggest canoe marine";
+var mnemonic = "lend crisp rather orient forget input exile royal peasant salad transfer run";

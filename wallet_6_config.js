@@ -1,1 +1,1 @@
-var mnemonic = "scorpion history setup bike attack virus session panda luxury sketch country fox";
+var mnemonic = "alert predict since enrich intact grow actor abuse card identify supreme point";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade aspect arena ocean dirt cruel marriage trip suspect tenant off skate";
+var mnemonic = "artefact unhappy outer soft pig define rubber again umbrella pretty garment wool";

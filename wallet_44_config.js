@@ -1,1 +1,1 @@
-var mnemonic = "awake liquid aunt drip still drift horse main leaf remember foster clutch";
+var mnemonic = "hope work planet leopard someone fitness bulk across option ecology obey indicate";

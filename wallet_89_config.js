@@ -1,1 +1,1 @@
-var mnemonic = "coral open tiger tube brain castle portion window flavor shuffle rapid crisp";
+var mnemonic = "until pioneer effort predict comic device install anchor circle sleep rifle false";

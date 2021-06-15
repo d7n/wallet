@@ -1,1 +1,1 @@
-var mnemonic = "draw sing chalk traffic clog joy minimum evoke pretty portion spider accuse";
+var mnemonic = "gift illness file assault heavy void milk economy prepare visual island vocal";

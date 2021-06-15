@@ -1,1 +1,1 @@
-var mnemonic = "wish pole bomb mirror trash enter brick jaguar beef female tape proof";
+var mnemonic = "glow october subway grab whisper inform stage fantasy winner famous stock resource";

@@ -1,1 +1,1 @@
-var mnemonic = "fluid such input palace fever ritual cover wagon seed heart donate remind";
+var mnemonic = "only drift fever lady toe stairs toward buddy arm essence armed shrug";

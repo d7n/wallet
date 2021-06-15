@@ -1,1 +1,1 @@
-var mnemonic = "short chat mango lawsuit victory initial slogan aerobic option behind team grab";
+var mnemonic = "dish hip vintage dawn potato electric range milk west fury kangaroo door";

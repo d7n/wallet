@@ -1,1 +1,1 @@
-var mnemonic = "small south hunt effort good crunch work crew spell barrel else quote";
+var mnemonic = "crisp undo depth garbage mean side gossip stem fatal spirit eye dial";

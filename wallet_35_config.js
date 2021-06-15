@@ -1,1 +1,1 @@
-var mnemonic = "gorilla nephew any access script humor treat fury space nasty repeat fix";
+var mnemonic = "trick buddy shadow bunker school tooth carpet smooth satisfy avoid cage enter";

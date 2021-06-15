@@ -1,1 +1,1 @@
-var mnemonic = "snap jaguar person silk gossip giggle beef essay soap travel trip gain";
+var mnemonic = "grass drip rotate half slender believe toy need welcome clinic speak spring";

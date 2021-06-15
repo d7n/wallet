@@ -1,1 +1,1 @@
-var mnemonic = "infant little sun earn gold smooth olive trip museum sample muscle charge";
+var mnemonic = "road cattle symptom destroy worth donate junk sea capital neglect census atom";

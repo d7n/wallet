@@ -1,1 +1,1 @@
-var mnemonic = "gadget pizza culture mixed give stone father aim payment crack own suggest";
+var mnemonic = "stage tip pig flash soda bronze only rack pink favorite faculty orient";

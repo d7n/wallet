@@ -1,1 +1,1 @@
-var mnemonic = "dolphin drive awake problem repair toy awful club trip midnight mirror dignity";
+var mnemonic = "rib rally member gauge style language fatal ridge cinnamon grace essay kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "resource basket high nuclear tooth can income drum room club address march";
+var mnemonic = "burger fan oyster fine anxiety action frost orphan repair planet camera pet";

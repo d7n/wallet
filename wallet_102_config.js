@@ -1,1 +1,1 @@
-var mnemonic = "casino wood fever kangaroo peace approve raven element voyage skill puzzle laugh";
+var mnemonic = "catalog grit fog anger other grit winter young observe soon winter walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "water duty clerk tower raccoon clump grow drill solution olympic scissors vault";
+var mnemonic = "person beef pen idea account initial security certain pioneer cradle badge perfect";

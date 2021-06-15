@@ -1,1 +1,1 @@
-var mnemonic = "grace mountain aim dutch december income raven antique bread story blind park";
+var mnemonic = "science chalk voice perfect accident solve average soft feature stand produce eternal";

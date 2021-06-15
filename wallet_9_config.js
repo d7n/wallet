@@ -1,1 +1,1 @@
-var mnemonic = "course transfer forest party begin clerk float upset pair owner garage tenant";
+var mnemonic = "cost else broccoli nurse style assist sentence awesome outdoor pizza cross miss";

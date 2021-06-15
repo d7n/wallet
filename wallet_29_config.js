@@ -1,1 +1,1 @@
-var mnemonic = "suffer sibling file coast grit one real toy decide wrestle liberty divert";
+var mnemonic = "curve border major extend museum nephew cable employ water heart obey pulp";

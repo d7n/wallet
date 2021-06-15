@@ -1,1 +1,1 @@
-var mnemonic = "exist toe industry exact medal ivory relax recycle tomato sort umbrella lock";
+var mnemonic = "mesh recycle gospel adjust wrong idle pottery average cruise swallow okay actual";

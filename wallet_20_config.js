@@ -1,1 +1,1 @@
-var mnemonic = "mask mistake mango empty absorb saddle receive bargain champion spy impulse witness";
+var mnemonic = "tackle quiz era eagle stumble theme oak label punch sick above claw";
