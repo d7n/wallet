@@ -1,1 +1,1 @@
-var mnemonic = "protect regret hockey fit empower nut gate satisfy dizzy coyote cluster size";
+var mnemonic = "giant custom clump chaos veteran valley genre bacon indoor master uniform pipe";

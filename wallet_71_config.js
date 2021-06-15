@@ -1,1 +1,1 @@
-var mnemonic = "scare style fan comic clump ceiling visual talent mirror oil mix bone";
+var mnemonic = "level nest autumn razor ordinary valley love entry prevent capable cannon depart";

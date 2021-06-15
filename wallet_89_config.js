@@ -1,1 +1,1 @@
-var mnemonic = "finish accident candy habit doll energy solution electric elder hunt dog unfair";
+var mnemonic = "pyramid culture cream step token faculty call century cook bone consider must";

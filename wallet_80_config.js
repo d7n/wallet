@@ -1,1 +1,1 @@
-var mnemonic = "famous slab provide proof mountain once object wrestle symptom item extra size";
+var mnemonic = "swear other agree key glory discover hip quarter zebra decide ugly clutch";

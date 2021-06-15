@@ -1,1 +1,1 @@
-var mnemonic = "refuse flag message pond cotton define wheel capable remind make room segment";
+var mnemonic = "busy cancel drop process hub drink sniff thank laugh walnut bench hurry";

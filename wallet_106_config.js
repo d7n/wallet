@@ -1,1 +1,1 @@
-var mnemonic = "before bridge shoulder silly task valve slight sketch warm nerve fantasy pond";
+var mnemonic = "steel obey reflect speed peanut exchange brain peasant current myself carbon push";

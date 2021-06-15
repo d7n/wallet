@@ -1,1 +1,1 @@
-var mnemonic = "arena smoke identify minute sun mixture gloom exact element cram normal verify";
+var mnemonic = "mind decide original swing member other enrich bulk faint domain drink entire";

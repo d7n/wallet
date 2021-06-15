@@ -1,1 +1,1 @@
-var mnemonic = "roof nest unit curtain tape dynamic three upon asset staff salon gauge";
+var mnemonic = "husband visual envelope tape attend gun disease bless doll veteran biology fatigue";

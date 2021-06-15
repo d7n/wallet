@@ -1,1 +1,1 @@
-var mnemonic = "dutch friend flat spy term choice trial final crowd huge shy file";
+var mnemonic = "become strategy bundle knock sort hello north cabbage little category oyster muscle";

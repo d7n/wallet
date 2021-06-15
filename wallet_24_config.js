@@ -1,1 +1,1 @@
-var mnemonic = "ready shrug orphan valve matter sorry rescue tribe boy once plastic attitude";
+var mnemonic = "sheriff tooth toast blame actual exhaust brave shield physical music sport upon";

@@ -1,1 +1,1 @@
-var mnemonic = "lock hair repeat moral know gather crisp shove domain whisper develop tomorrow";
+var mnemonic = "smooth joy boss lock daughter beauty tent avoid afraid lucky ozone room";

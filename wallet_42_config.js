@@ -1,1 +1,1 @@
-var mnemonic = "maximum remind candy then black village lava next tomorrow talk candy connect";
+var mnemonic = "hamster develop cup solution nerve breeze turn cannon venture jump melody glare";

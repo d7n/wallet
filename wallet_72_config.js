@@ -1,1 +1,1 @@
-var mnemonic = "quarter fringe require truth uniform scare tuna attend peace arm symbol sing";
+var mnemonic = "beef thunder multiply ethics pyramid exhaust beach learn nothing bachelor achieve since";

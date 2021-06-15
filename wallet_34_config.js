@@ -1,1 +1,1 @@
-var mnemonic = "year country relax neck badge group limit clerk wood fox drastic protect";
+var mnemonic = "swamp absurd awkward network hair cram decorate source fiber admit marine exact";

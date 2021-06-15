@@ -1,1 +1,1 @@
-var mnemonic = "ahead topic ski dust post jeans tool lobster off pupil adapt pitch";
+var mnemonic = "loud that ivory imitate pistol outside cage spike use garlic march remember";

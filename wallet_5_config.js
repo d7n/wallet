@@ -1,1 +1,1 @@
-var mnemonic = "suit rug parent anchor enforce usage purchase help start nothing clinic window";
+var mnemonic = "rebel tornado dad response between bulb bounce position crime water liar picnic";

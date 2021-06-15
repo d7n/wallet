@@ -1,1 +1,1 @@
-var mnemonic = "lunch nurse coyote trust snack matter jump armor begin satoshi warfare quantum";
+var mnemonic = "decline pepper tornado ready infant catalog hunt tornado grunt warfare dignity ecology";

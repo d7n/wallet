@@ -1,1 +1,1 @@
-var mnemonic = "draw list tiger bring shift name vital erupt merit subway crouch quick";
+var mnemonic = "time start galaxy coconut group injury any cook cute erase element pact";

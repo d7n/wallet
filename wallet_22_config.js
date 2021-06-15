@@ -1,1 +1,1 @@
-var mnemonic = "slow auction ask fossil choice wear impact isolate doll junk final forest";
+var mnemonic = "frown huge mother excite eye bicycle walk open fitness olympic verify useful";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk repair theory rack strong rookie resource vivid burst surge labor point";
+var mnemonic = "aunt wasp picture topic biology object bridge cost insane kitchen wife faculty";

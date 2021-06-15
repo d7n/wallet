@@ -1,1 +1,1 @@
-var mnemonic = "snack kitchen stick mistake acoustic early jump elevator glad picnic carpet adult";
+var mnemonic = "veteran find congress symptom evolve tenant glare ankle similar loan cruel great";

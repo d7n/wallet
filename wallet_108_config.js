@@ -1,1 +1,1 @@
-var mnemonic = "universe bamboo jealous below hero cinnamon behind dragon purse burst tobacco tortoise";
+var mnemonic = "protect depend rigid color okay monitor peasant wagon disagree insane summer time";

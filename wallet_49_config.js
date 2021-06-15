@@ -1,1 +1,1 @@
-var mnemonic = "maximum van august cherry anger dry afraid junior silk clip hope excess";
+var mnemonic = "proof own machine steel october message online delay quote multiply habit refuse";

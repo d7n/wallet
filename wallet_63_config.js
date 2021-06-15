@@ -1,1 +1,1 @@
-var mnemonic = "famous special improve field anger post acoustic rain congress pass medal sauce";
+var mnemonic = "dog still admit used swamp hello envelope life pigeon display believe aware";

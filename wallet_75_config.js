@@ -1,1 +1,1 @@
-var mnemonic = "armor limb equal huge address allow obvious bleak pattern ripple roast laugh";
+var mnemonic = "eager equal area special cube stand code luggage town skull ahead exhaust";

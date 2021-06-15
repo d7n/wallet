@@ -1,1 +1,1 @@
-var mnemonic = "ocean barrel echo glory mandate town often multiply finish civil target bullet";
+var mnemonic = "predict view useful skill apology school occur option parent net pipe insane";

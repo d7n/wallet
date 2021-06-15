@@ -1,1 +1,1 @@
-var mnemonic = "fall foam mass guilt evoke dignity museum voice tennis stem coconut shrug";
+var mnemonic = "banner garden balance print visual talk know soccer artist demand happy glance";

@@ -1,1 +1,1 @@
-var mnemonic = "silly dentist come token mesh receive medal program tobacco pipe broom example";
+var mnemonic = "wood black baby liberty wrist club south flush type option enable army";

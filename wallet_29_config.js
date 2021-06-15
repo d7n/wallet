@@ -1,1 +1,1 @@
-var mnemonic = "post adapt excess weather vessel people joy tornado machine foster rent real";
+var mnemonic = "vital bright engine group pair pave turkey genius palm snake step swift";

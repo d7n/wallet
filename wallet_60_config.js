@@ -1,1 +1,1 @@
-var mnemonic = "pink debate secret obscure custom trap assist okay garbage fitness beef drill";
+var mnemonic = "impact excite solar fall liar decline elite merit book flag fun enable";

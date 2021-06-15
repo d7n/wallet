@@ -1,1 +1,1 @@
-var mnemonic = "injury side eagle profit capable sunny path steel chalk august betray usage";
+var mnemonic = "wealth egg rifle enter major repeat axis plunge raise cram luxury anxiety";

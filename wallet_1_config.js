@@ -1,1 +1,1 @@
-var mnemonic = "often nature mammal width february model speed cliff medal asthma police shoe";
+var mnemonic = "mail skate unable loyal notable stick milk call hotel way swallow science";

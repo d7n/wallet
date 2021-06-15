@@ -1,1 +1,1 @@
-var mnemonic = "ice addict couch tone sphere candy name ranch exist assault verb rather";
+var mnemonic = "cram also novel merge mansion owner ready dove cancel symptom brown angle";

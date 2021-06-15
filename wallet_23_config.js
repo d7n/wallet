@@ -1,1 +1,1 @@
-var mnemonic = "high twenty window small kangaroo caught bird emerge east pluck talent indoor";
+var mnemonic = "urban patient oven depend prize shift shock under dune circle twin whip";

@@ -1,1 +1,1 @@
-var mnemonic = "wire march sight birth acid song gauge relax yellow never divert cloud";
+var mnemonic = "story weird doll use garment shadow joke school trouble decide pass web";

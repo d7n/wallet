@@ -1,1 +1,1 @@
-var mnemonic = "elder bird seek bleak illegal stumble response lock prize expand surround broken";
+var mnemonic = "survey visit loud essence castle shallow token tone average genuine onion tell";

@@ -1,1 +1,1 @@
-var mnemonic = "scan south upper window travel digital dish space hurry planet fame pilot";
+var mnemonic = "spread popular sad dignity license novel amount gasp wood solve beef wasp";

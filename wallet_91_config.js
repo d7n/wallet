@@ -1,1 +1,1 @@
-var mnemonic = "grab immune reflect beyond oven foil female inhale february pencil angry unique";
+var mnemonic = "spin fog detect question flower wedding blanket cook leave future verb super";

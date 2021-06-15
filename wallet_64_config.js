@@ -1,1 +1,1 @@
-var mnemonic = "loud ghost style dismiss merge tennis artefact van shoulder session powder sniff";
+var mnemonic = "page luggage board smart thrive thank section omit feed cupboard else doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "similar tilt deliver hour brain drum camp grunt very trend romance assume";
+var mnemonic = "comic piece affair guide inside cannon dash foster sustain plunge believe subject";

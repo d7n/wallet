@@ -1,1 +1,1 @@
-var mnemonic = "wreck odor must elite evolve season sudden piano open chunk very annual";
+var mnemonic = "analyst message wrong dry garage depart man start rifle define chat sketch";

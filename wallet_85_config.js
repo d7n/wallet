@@ -1,1 +1,1 @@
-var mnemonic = "fun hour physical plastic host finger grace sport cabbage ignore icon drastic";
+var mnemonic = "already dolphin gap sheriff relief envelope mistake feed attack worry rescue print";

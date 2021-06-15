@@ -1,1 +1,1 @@
-var mnemonic = "hammer travel extend belt often wrap control hybrid pizza grain wear mixture";
+var mnemonic = "vivid empty carbon soap amateur seven machine bright place index snap domain";

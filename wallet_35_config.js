@@ -1,1 +1,1 @@
-var mnemonic = "city pact gasp oven ghost comfort anchor inherit bird advance foil knee";
+var mnemonic = "grid like grant sponsor explain typical hazard bread pledge price awful ring";

@@ -1,1 +1,1 @@
-var mnemonic = "health until hawk tank property dirt subject system ocean idle where possible";
+var mnemonic = "victory fury strategy dinosaur latin traffic lucky rabbit pizza mirror episode lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "figure act cargo device correct label dinosaur sign weather among thank example";
+var mnemonic = "rocket fiber charge cliff scheme fancy safe sphere script friend spawn bargain";

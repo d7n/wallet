@@ -1,1 +1,1 @@
-var mnemonic = "various ceiling demand maid boy bunker pole gospel rail flock win topic";
+var mnemonic = "ghost stove husband worth long question sport target gauge sign consider pause";

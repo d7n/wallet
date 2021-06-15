@@ -1,1 +1,1 @@
-var mnemonic = "state forward coin pact garden moon fringe left turkey rigid carpet jaguar";
+var mnemonic = "piano room chuckle hire pave fox hurry grocery render rural rare cart";

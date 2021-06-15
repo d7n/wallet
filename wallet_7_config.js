@@ -1,1 +1,1 @@
-var mnemonic = "diesel shoulder farm deposit dirt muscle maze blush acid pet repair depend";
+var mnemonic = "bunker either will ignore chair rural twice upper truly label over defense";

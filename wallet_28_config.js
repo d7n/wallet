@@ -1,1 +1,1 @@
-var mnemonic = "flip gain position plug wasp net tonight movie addict person habit horse";
+var mnemonic = "blur embark gorilla night beauty turtle solve polar rival flavor bar laundry";

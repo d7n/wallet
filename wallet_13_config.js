@@ -1,1 +1,1 @@
-var mnemonic = "cabin describe cube solution enable second transfer cake process jeans dirt fly";
+var mnemonic = "empower trigger mutual broom hollow trick silly nation slide receive kiss cake";

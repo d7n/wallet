@@ -1,1 +1,1 @@
-var mnemonic = "symptom salmon addict fashion rough tortoise gas rotate affair liquid silver whale";
+var mnemonic = "outdoor butter brave borrow noble segment lift quarter purse valid bomb feed";

@@ -1,1 +1,1 @@
-var mnemonic = "axis super feed number river lecture divorce room man train bless mango";
+var mnemonic = "finger decide amount awful fatigue cheap one buffalo hurt produce flock bargain";

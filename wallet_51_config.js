@@ -1,1 +1,1 @@
-var mnemonic = "flame advance age jacket immense plunge quote universe flock feel busy bind";
+var mnemonic = "erupt tribe narrow body absurd until harbor flee card cloud earth scan";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace soldier path matrix blanket creek drip style rug end tell retreat";
+var mnemonic = "must film burden course expose flight angry cup age robot maximum carbon";

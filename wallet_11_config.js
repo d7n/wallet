@@ -1,1 +1,1 @@
-var mnemonic = "laptop audit library boy receive love animal armed gain flame element say";
+var mnemonic = "emotion iron title blossom raccoon market lend abuse toward clap section light";

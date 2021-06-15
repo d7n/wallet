@@ -1,1 +1,1 @@
-var mnemonic = "slab anxiety primary mercy mountain era maid artefact sun address bicycle used";
+var mnemonic = "garbage radio erase margin violin green need hamster alter female awesome side";

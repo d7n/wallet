@@ -1,1 +1,1 @@
-var mnemonic = "fork predict brown around key depend vital pave filter reopen one expect";
+var mnemonic = "piano congress quit rocket turkey edge general search ready advice bulb loan";

@@ -1,1 +1,1 @@
-var mnemonic = "firm system quick upper ship comic balcony erode cement very prevent panel";
+var mnemonic = "music material gold eight display toy hospital skirt unique trend second violin";

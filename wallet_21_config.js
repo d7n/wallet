@@ -1,1 +1,1 @@
-var mnemonic = "vacuum twist indoor exit adapt adjust slender curious segment maple immune room";
+var mnemonic = "enemy alter similar ticket frequent simple question code funny then black sibling";

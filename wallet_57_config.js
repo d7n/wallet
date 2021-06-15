@@ -1,1 +1,1 @@
-var mnemonic = "twelve retire rural tower perfect pact monitor sail number pull path under";
+var mnemonic = "history title refuse flash ugly fee drastic evolve glad because dog train";

@@ -1,1 +1,1 @@
-var mnemonic = "federal explain clerk hurdle minimum door place remember split antique reject various";
+var mnemonic = "unfair bubble must olive obscure tiny gasp alpha olive arch elephant reason";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch silver client level swamp naive hidden maple settle pluck fuel prevent";
+var mnemonic = "taxi place guard uncle strong brave owner purchase awful hurdle coconut girl";

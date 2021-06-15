@@ -1,1 +1,1 @@
-var mnemonic = "spot point wheel hover hamster chunk agree one gallery team gospel chef";
+var mnemonic = "blood gown junk bag gaze liquid furnace cage bronze way leader stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "tree stay relief pass hamster pair rich lawsuit episode comfort vacant supply";
+var mnemonic = "dumb beauty into snap glow stick tongue sponsor boy outer notice talk";

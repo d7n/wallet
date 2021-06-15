@@ -1,1 +1,1 @@
-var mnemonic = "second laptop ceiling jewel intact plunge resource meat acid taste install bag";
+var mnemonic = "couch tag slim prevent much aisle clerk tail chef either find small";

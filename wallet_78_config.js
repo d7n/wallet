@@ -1,1 +1,1 @@
-var mnemonic = "drive couch fantasy canoe peasant worth start kitten pioneer limit unit extend";
+var mnemonic = "unit torch enough february man strong crunch follow motion castle vanish habit";

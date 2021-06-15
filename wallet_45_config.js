@@ -1,1 +1,1 @@
-var mnemonic = "flush evolve dumb crumble method engine use differ expire joke produce crash";
+var mnemonic = "wave wild notice aspect correct inside demise leopard lab grunt canoe collect";

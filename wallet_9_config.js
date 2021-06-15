@@ -1,1 +1,1 @@
-var mnemonic = "sweet pitch mouse feature amused taste theory sorry deposit deer forum shoulder";
+var mnemonic = "pattern pair hello team faint isolate fence obscure female now raccoon slim";

@@ -1,1 +1,1 @@
-var mnemonic = "witness cause pipe prison use sock audit slice luxury army reject dragon";
+var mnemonic = "coffee tobacco glare rapid account woman morning bleak apology sweet orchard siege";

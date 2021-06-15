@@ -1,1 +1,1 @@
-var mnemonic = "cannon crater hope calm energy pact breeze execute canvas lab action length";
+var mnemonic = "dream analyst aunt tissue report banana symbol crack diesel cake twenty caution";

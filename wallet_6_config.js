@@ -1,1 +1,1 @@
-var mnemonic = "crowd arch someone dove average vintage because polar obtain feel cricket thank";
+var mnemonic = "diamond humor response cherry sugar project solar uncle fabric state language board";

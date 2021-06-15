@@ -1,1 +1,1 @@
-var mnemonic = "surface file name slide loud tissue trouble huge phrase earth machine athlete";
+var mnemonic = "bulb lend border scene mother begin glance fantasy chef inner author plate";

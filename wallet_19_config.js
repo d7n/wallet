@@ -1,1 +1,1 @@
-var mnemonic = "doctor tornado approve captain manual desk fiction bubble swamp junior expect faint";
+var mnemonic = "swarm icon exchange fortune mechanic sphere neither gain social toy car pond";

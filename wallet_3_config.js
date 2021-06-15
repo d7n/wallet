@@ -1,1 +1,1 @@
-var mnemonic = "spice private kitten also loop strong breeze scale brass unlock release such";
+var mnemonic = "chapter royal song jewel move peace squeeze reveal allow fish enemy upon";

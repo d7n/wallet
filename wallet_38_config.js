@@ -1,1 +1,1 @@
-var mnemonic = "veteran object regret general pact glimpse high victory destroy uphold siege upgrade";
+var mnemonic = "butter media vanish ball relief you hire mansion interest scissors rhythm tumble";

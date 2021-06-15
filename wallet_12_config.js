@@ -1,1 +1,1 @@
-var mnemonic = "vague cactus orphan protect entire hybrid woman cram acoustic federal chief cram";
+var mnemonic = "already siege stereo bench prepare vibrant pyramid smoke loyal lyrics universe boost";

@@ -1,1 +1,1 @@
-var mnemonic = "move tag salute gather casino eye rebuild limb various logic tackle stadium";
+var mnemonic = "dress middle list picture asthma sign north artwork quit warfare payment permit";

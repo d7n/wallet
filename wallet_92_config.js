@@ -1,1 +1,1 @@
-var mnemonic = "base bean actress jazz wheat zone orange real source rose effort permit";
+var mnemonic = "glance brisk unique brother hour nose patch apple exchange minimum garden shallow";

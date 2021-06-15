@@ -1,1 +1,1 @@
-var mnemonic = "plug sell crash dove cricket will dose coconut aisle edit another foam";
+var mnemonic = "behind crime forward volume plug ride joy drink rib scare west upgrade";

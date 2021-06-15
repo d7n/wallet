@@ -1,1 +1,1 @@
-var mnemonic = "frown angle pact curious donate vapor there talent butter distance mouse sustain";
+var mnemonic = "enjoy team neither baby nature exotic race across music mistake tunnel nose";

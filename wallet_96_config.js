@@ -1,1 +1,1 @@
-var mnemonic = "enter base school frown simple choice medal fiber inform borrow sad jar";
+var mnemonic = "afford wonder giant bless volcano interest version wedding adapt nerve emotion blame";

@@ -1,1 +1,1 @@
-var mnemonic = "journey finger same fresh fuel garment unique trade moon kiss twin game";
+var mnemonic = "jungle canyon tissue spring rotate spin hawk glass fever unit ski citizen";

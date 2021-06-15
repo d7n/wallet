@@ -1,1 +1,1 @@
-var mnemonic = "copy nephew shoe hungry cram slender spoil seven select hub science impulse";
+var mnemonic = "clown argue access require drip rain trap damp inform begin extra video";

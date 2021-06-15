@@ -1,1 +1,1 @@
-var mnemonic = "abstract lab fiction develop hazard leaf vehicle much gym cave hawk method";
+var mnemonic = "kitten connect police exclude canoe wash debate defense company misery swim drum";

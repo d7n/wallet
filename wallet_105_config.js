@@ -1,1 +1,1 @@
-var mnemonic = "blossom predict virtual claim such glow hub solution pudding loop allow rookie";
+var mnemonic = "stem owner state sweet subway eagle ocean tube speak police wealth share";

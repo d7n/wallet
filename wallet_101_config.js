@@ -1,1 +1,1 @@
-var mnemonic = "say inmate kid spend stone exhibit inspire inspire sure brick brave churn";
+var mnemonic = "exist legend cash bronze inch wash search stomach dust noodle promote polar";

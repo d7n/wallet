@@ -1,1 +1,1 @@
-var mnemonic = "gadget large metal actual desert private legal side immune size legal balcony";
+var mnemonic = "artwork rifle auction question viable vicious calm renew ten orient wool kiwi";

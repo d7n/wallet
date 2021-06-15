@@ -1,1 +1,1 @@
-var mnemonic = "sister prize infant hawk frame patch depend gain lock local often fence";
+var mnemonic = "round giant just radar husband cross drama velvet breeze excuse casino ahead";

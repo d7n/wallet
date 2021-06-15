@@ -1,1 +1,1 @@
-var mnemonic = "vibrant pear saddle open broken finish prize agree convince century piece plug";
+var mnemonic = "call height major siege divide squirrel indoor comic proof alcohol glove indoor";

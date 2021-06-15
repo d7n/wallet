@@ -1,1 +1,1 @@
-var mnemonic = "check surge uncle crop seat abstract cannon pyramid horse fame device any";
+var mnemonic = "project napkin bullet shell usage paper century physical marriage field chef negative";

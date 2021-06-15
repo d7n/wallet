@@ -1,1 +1,1 @@
-var mnemonic = "depth nuclear ready poverty inch airport jacket glory festival economy install city";
+var mnemonic = "net whip deposit horse thrive unable manual ski illness range pilot rebel";

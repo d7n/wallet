@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit dizzy feed snack such nation scorpion hub time correct ice promote";
+var mnemonic = "prefer cheap brother write demand blossom already rural ensure please fruit honey";

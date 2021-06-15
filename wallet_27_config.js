@@ -1,1 +1,1 @@
-var mnemonic = "artefact tell age fire curtain review vote very cage sunset speak advice";
+var mnemonic = "stereo chief canoe source embrace unit prosper mad jazz group slab oblige";

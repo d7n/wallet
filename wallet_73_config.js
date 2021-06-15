@@ -1,1 +1,1 @@
-var mnemonic = "pistol like scorpion beyond leopard profit divorce bracket sing kite rack royal";
+var mnemonic = "scare nothing impulse shoot brown zoo sadness tiny hurt magic garden pair";
