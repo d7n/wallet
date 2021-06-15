@@ -1,1 +1,1 @@
-var mnemonic = "word eternal mind already language reason injury swamp meadow industry wreck stereo";
+var mnemonic = "spy coyote ramp short fine exchange deer awkward damage intact turn raw";

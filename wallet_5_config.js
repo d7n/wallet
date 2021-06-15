@@ -1,1 +1,1 @@
-var mnemonic = "guilt umbrella security afford beyond celery vehicle polar bacon sting apology dove";
+var mnemonic = "stairs section fiction plastic ski creek body mandate benefit napkin copper diagram";

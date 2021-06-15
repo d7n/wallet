@@ -1,1 +1,1 @@
-var mnemonic = "expect palace pause pear wave energy leader ready primary drive pattern kick";
+var mnemonic = "renew torch warfare head tank wealth genuine between unveil maid prefer end";

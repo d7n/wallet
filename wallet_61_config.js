@@ -1,1 +1,1 @@
-var mnemonic = "law umbrella symbol culture genuine home pretty autumn sick autumn health scorpion";
+var mnemonic = "save trust escape timber loud foil tissue avoid confirm rule define urge";

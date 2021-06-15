@@ -1,1 +1,1 @@
-var mnemonic = "place actress wrap hammer debris brother sponsor panic cook night below critic";
+var mnemonic = "piano degree rude reject satoshi off wolf emerge neutral output blur arch";

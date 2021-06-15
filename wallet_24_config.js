@@ -1,1 +1,1 @@
-var mnemonic = "turtle into element quote hole drama work only brush mesh arrange fresh";
+var mnemonic = "ill rib cheap right athlete draft laugh elegant shop chuckle gorilla tool";

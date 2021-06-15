@@ -1,1 +1,1 @@
-var mnemonic = "flash accident select weapon attitude industry boat double snap buddy bacon trouble";
+var mnemonic = "expose measure eyebrow cause estate enemy caution accident cruel gallery unique turkey";

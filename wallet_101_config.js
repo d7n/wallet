@@ -1,1 +1,1 @@
-var mnemonic = "frown ivory minute grace faculty city virtual pink net carry very van";
+var mnemonic = "focus potato soap frost bubble praise slow ill clock symptom divide steak";

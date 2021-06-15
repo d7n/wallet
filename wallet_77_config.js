@@ -1,1 +1,1 @@
-var mnemonic = "humble fix allow lemon eyebrow enemy lounge whale fine neutral oxygen table";
+var mnemonic = "bicycle stamp desk orphan upper photo enhance thought royal diary friend stamp";

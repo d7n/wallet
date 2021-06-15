@@ -1,1 +1,1 @@
-var mnemonic = "knife song energy sister security poet tongue gain gate silk skull depend";
+var mnemonic = "deer skill unusual dwarf rain lizard author pulp until cruise athlete spike";

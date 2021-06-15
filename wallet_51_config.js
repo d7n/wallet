@@ -1,1 +1,1 @@
-var mnemonic = "pelican trouble next legal hybrid mansion foam expose buddy skull sheriff earth";
+var mnemonic = "slight lock must spell autumn theme tornado banana because someone spirit ankle";

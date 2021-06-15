@@ -1,1 +1,1 @@
-var mnemonic = "tobacco lizard beach model wink upon shoot rose amazing story butter moment";
+var mnemonic = "pen rookie suit power bench floor rib aware guess draft jar settle";

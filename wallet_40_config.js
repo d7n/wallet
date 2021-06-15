@@ -1,1 +1,1 @@
-var mnemonic = "struggle place donkey sample scatter note earn welcome winter lizard scare clever";
+var mnemonic = "jazz open solution moral cereal sun amateur answer cliff range normal grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "wage skate injury woman gift parrot trick orient sheriff steak focus fresh";
+var mnemonic = "panda element comfort board zone long together bike blush brush negative diary";

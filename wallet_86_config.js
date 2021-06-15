@@ -1,1 +1,1 @@
-var mnemonic = "shine zoo jealous doll adult bunker paddle surge drum menu wool medal";
+var mnemonic = "rocket strong age move blame firm sea meat nose violin adjust update";

@@ -1,1 +1,1 @@
-var mnemonic = "consider panel note various earth elevator domain about token beyond remember essay";
+var mnemonic = "expose flee gentle shrug then hybrid render chase large wagon carry crisp";

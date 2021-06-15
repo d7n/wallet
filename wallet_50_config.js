@@ -1,1 +1,1 @@
-var mnemonic = "whisper audit poverty fever lecture vicious oblige toe canvas feed brave grit";
+var mnemonic = "walnut onion crack shine spread name side february elephant version adult finger";

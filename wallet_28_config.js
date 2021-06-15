@@ -1,1 +1,1 @@
-var mnemonic = "antique gravity draw amazing poet first runway scene tonight address rely barrel";
+var mnemonic = "hole talk jump animal evoke outside dolphin spread ticket cabin moral lemon";

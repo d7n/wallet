@@ -1,1 +1,1 @@
-var mnemonic = "tower wish give nation involve verify combine cry leg wife reflect april";
+var mnemonic = "innocent behind illegal fancy gasp convince force february pumpkin area stool excite";

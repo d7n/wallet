@@ -1,1 +1,1 @@
-var mnemonic = "hand pave tiger mad shell behind loud myself good rail swamp pair";
+var mnemonic = "upset clap furnace desk minimum struggle industry giraffe erupt feel strong bonus";

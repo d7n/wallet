@@ -1,1 +1,1 @@
-var mnemonic = "profit coyote immense clock kingdom little provide noise you wage property jump";
+var mnemonic = "fee sail hospital mosquito lady plate trim runway such give lobster bitter";

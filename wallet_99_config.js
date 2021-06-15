@@ -1,1 +1,1 @@
-var mnemonic = "country dose method bulb rule struggle project civil giant slogan finish shrimp";
+var mnemonic = "possible smooth junk annual video suffer tattoo exhibit excuse elephant mask pond";

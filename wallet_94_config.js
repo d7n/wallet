@@ -1,1 +1,1 @@
-var mnemonic = "toss awesome begin youth delay night raw hobby keep into speak unable";
+var mnemonic = "short garlic awful patrol sentence cable start find better salute document edge";

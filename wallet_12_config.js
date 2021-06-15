@@ -1,1 +1,1 @@
-var mnemonic = "transfer kingdom verify rent harsh book alcohol float trash mask shiver analyst";
+var mnemonic = "crash give weird harvest decide fish theme genuine evil clutch arch venue";

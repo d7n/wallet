@@ -1,1 +1,1 @@
-var mnemonic = "mango melody embrace sorry fan gas buffalo stay claim always behind festival";
+var mnemonic = "seat powder grace capable awake wing admit typical crouch style join bar";

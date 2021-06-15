@@ -1,1 +1,1 @@
-var mnemonic = "gain stamp maple captain carbon lock skull spend wolf live focus clerk";
+var mnemonic = "close plastic jealous powder hover confirm library leisure great exchange extra inject";

@@ -1,1 +1,1 @@
-var mnemonic = "embody height avoid basic twice juice virus health surge change neutral galaxy";
+var mnemonic = "suspect first occur dumb inherit slow feel opinion icon elevator famous possible";

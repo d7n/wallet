@@ -1,1 +1,1 @@
-var mnemonic = "grab clay knife spray crucial slice gift collect despair devote wing armor";
+var mnemonic = "swarm debris news opinion client plug twelve tape decrease cricket cabin couple";

@@ -1,1 +1,1 @@
-var mnemonic = "advice devote steak bottom jacket wagon cube cost tilt roast sketch give";
+var mnemonic = "dwarf disagree letter panda undo half burden allow captain ranch clump beach";

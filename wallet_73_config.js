@@ -1,1 +1,1 @@
-var mnemonic = "ask view palace only diary grow youth leg indicate sign chase soft";
+var mnemonic = "couch disease mouse demise rail security genius season record width road creek";

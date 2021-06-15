@@ -1,1 +1,1 @@
-var mnemonic = "coast nature fan unfold tonight case nest rule piano circle perfect letter";
+var mnemonic = "depart reopen love rally cool announce repair holiday edit bleak off spirit";

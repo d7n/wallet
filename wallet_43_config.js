@@ -1,1 +1,1 @@
-var mnemonic = "truth more jungle near video chronic margin pudding tortoise anger enlist thought";
+var mnemonic = "inch injury repair elephant any drink hybrid sunset banana tornado cargo cash";

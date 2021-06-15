@@ -1,1 +1,1 @@
-var mnemonic = "dish strategy olive gorilla gaze day short output adjust garbage dress basket";
+var mnemonic = "obvious drink artist hint daring latin author grain explain predict million mention";

@@ -1,1 +1,1 @@
-var mnemonic = "winner planet casino base cotton fold fix scrub pumpkin lamp fade oak";
+var mnemonic = "clean fiber ripple drastic praise fall breeze jeans smoke six air jump";

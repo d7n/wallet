@@ -1,1 +1,1 @@
-var mnemonic = "desert weapon woman fitness deputy opinion stomach soon price balance escape casino";
+var mnemonic = "system large start pottery current release useless hip envelope grunt mirror describe";

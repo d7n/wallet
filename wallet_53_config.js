@@ -1,1 +1,1 @@
-var mnemonic = "inflict brush hurdle mind emerge lens mouse nose flash device stadium method";
+var mnemonic = "answer remember transfer combine pluck borrow rail coffee waste hen tool actual";

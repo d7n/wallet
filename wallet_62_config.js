@@ -1,1 +1,1 @@
-var mnemonic = "behind clerk crush inhale design seat blue fish false endless monitor extend";
+var mnemonic = "hammer oppose organ accuse cigar object promote method muscle hurt garbage float";

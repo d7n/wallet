@@ -1,1 +1,1 @@
-var mnemonic = "buzz invite inherit athlete over scale combine crater idle hungry dad deputy";
+var mnemonic = "leader correct clinic purchase ceiling learn used inspire check daring wrist gather";

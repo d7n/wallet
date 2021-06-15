@@ -1,1 +1,1 @@
-var mnemonic = "proud jewel shove exhibit coach truly output pledge onion toilet battle light";
+var mnemonic = "stereo dream vast casino plate inquiry make floor grow half fox cup";

@@ -1,1 +1,1 @@
-var mnemonic = "govern fold pride maximum cactus nut ring fiscal discover grant initial borrow";
+var mnemonic = "civil crane rescue joke elevator hidden income reduce prevent corn apple invite";

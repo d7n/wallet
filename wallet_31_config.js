@@ -1,1 +1,1 @@
-var mnemonic = "debris unusual frequent husband lion bean sunset ghost long hunt surface unhappy";
+var mnemonic = "ability decide bounce together junk fat common train borrow story trial dizzy";

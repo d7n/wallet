@@ -1,1 +1,1 @@
-var mnemonic = "armor grief attract broom boost flight sort gallery very embody sad margin";
+var mnemonic = "wagon art mutual wise tomato tenant false soft rug uncover diet shallow";

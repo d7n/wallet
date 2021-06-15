@@ -1,1 +1,1 @@
-var mnemonic = "veteran moment allow settle essence powder all settle bring render what buddy";
+var mnemonic = "flock hedgehog weekend coconut once match hospital ankle gym blame affair vessel";

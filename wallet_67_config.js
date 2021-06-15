@@ -1,1 +1,1 @@
-var mnemonic = "vintage endless toe amount chapter shield icon security siren favorite return horse";
+var mnemonic = "spoon cannon radio ability dune roof merge solve gentle save sadness twenty";

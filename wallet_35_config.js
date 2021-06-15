@@ -1,1 +1,1 @@
-var mnemonic = "faculty naive file punch almost lemon stairs better leopard home syrup document";
+var mnemonic = "track canyon jewel hour castle exhibit stairs color vacant slush ugly wrestle";

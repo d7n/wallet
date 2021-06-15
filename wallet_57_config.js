@@ -1,1 +1,1 @@
-var mnemonic = "comic filter cute model office nominee sick because cat grid joy surprise";
+var mnemonic = "neither tilt finger donate stereo tube lazy over nation crucial silk shrimp";

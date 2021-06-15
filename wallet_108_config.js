@@ -1,1 +1,1 @@
-var mnemonic = "regular own step evil entry jar attitude ozone scorpion horror husband stove";
+var mnemonic = "pelican hidden stay case wedding scene symptom drift one client whip prevent";

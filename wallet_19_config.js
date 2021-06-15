@@ -1,1 +1,1 @@
-var mnemonic = "snap leg gaze system chronic funny degree very accuse warm pupil sample";
+var mnemonic = "belt salad empty skin spy final hope dizzy tag regular install two";

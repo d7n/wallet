@@ -1,1 +1,1 @@
-var mnemonic = "language random pill quarter because doctor crisp unaware slogan wolf bright leaf";
+var mnemonic = "clip sugar cram attract harsh thing park diagram inflict theme develop caught";

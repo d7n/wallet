@@ -1,1 +1,1 @@
-var mnemonic = "lab session diet erase jaguar ridge limb follow power find nose liar";
+var mnemonic = "forest until share magic winter flavor seminar rice vacuum aunt aspect all";

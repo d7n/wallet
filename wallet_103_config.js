@@ -1,1 +1,1 @@
-var mnemonic = "bunker south pulse trial risk source cradle session picture flight toast outer";
+var mnemonic = "usual increase cluster oil still copper stay submit that suffer coyote expire";

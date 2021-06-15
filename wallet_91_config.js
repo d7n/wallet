@@ -1,1 +1,1 @@
-var mnemonic = "want comic beach health myth city panel excess exercise traffic response guess";
+var mnemonic = "urban second require report vague pride evidence test name donor legend kiwi";

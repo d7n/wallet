@@ -1,1 +1,1 @@
-var mnemonic = "please blossom whale ordinary video ugly despair logic such forest elevator check";
+var mnemonic = "trial stem rough daughter mother fiber ski spare language earn inmate final";

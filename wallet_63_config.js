@@ -1,1 +1,1 @@
-var mnemonic = "opinion movie prize pluck genre put wink valley advice pipe frost vague";
+var mnemonic = "blade oxygen man must carry obey breeze brick dove special much october";

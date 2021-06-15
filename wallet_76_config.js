@@ -1,1 +1,1 @@
-var mnemonic = "solution dial strike man patient supply foil hello version hundred luggage jealous";
+var mnemonic = "fun water hawk trend key media analyst attack grief smart since tube";

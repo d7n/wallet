@@ -1,1 +1,1 @@
-var mnemonic = "own happy truth bar neutral still fly flower practice crack tail toilet";
+var mnemonic = "trip skill bulb viable spoil treat angry cement today engine purse fox";

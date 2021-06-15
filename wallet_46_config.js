@@ -1,1 +1,1 @@
-var mnemonic = "ribbon wisdom battle lamp cruel galaxy wrap home farm firm bike bike";
+var mnemonic = "again fever scout marriage must noise elephant blur sketch snake innocent mask";

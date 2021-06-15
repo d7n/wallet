@@ -1,1 +1,1 @@
-var mnemonic = "law entire coffee sauce lake food shove toilet fold praise potato usual";
+var mnemonic = "zero comfort thumb drastic grant clever film access detail best iron interest";

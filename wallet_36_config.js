@@ -1,1 +1,1 @@
-var mnemonic = "mad lock assume police grant any spot lizard recall sea wheel when";
+var mnemonic = "sponsor there borrow cost ladder forget gadget face buzz sister gather weather";

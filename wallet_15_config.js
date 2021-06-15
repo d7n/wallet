@@ -1,1 +1,1 @@
-var mnemonic = "olive fun glass flush burger airport parrot broken bracket bright purity civil";
+var mnemonic = "rate banner call radio adult stuff six scatter bird success ripple forest";

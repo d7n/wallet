@@ -1,1 +1,1 @@
-var mnemonic = "orbit regret slogan garden tide nature field relief kind tomorrow bonus practice";
+var mnemonic = "spoil find test post document carpet trash spike birth cattle afraid boost";

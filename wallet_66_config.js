@@ -1,1 +1,1 @@
-var mnemonic = "sell enemy receive slab around other giraffe category scissors omit stage sunny";
+var mnemonic = "fence mixed excess tape pigeon solar term weapon rookie slow winter cost";

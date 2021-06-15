@@ -1,1 +1,1 @@
-var mnemonic = "canal nerve repeat myself subject dolphin kitchen alley divide total page grace";
+var mnemonic = "input turn group gun fitness act fuel observe expose holiday metal stable";

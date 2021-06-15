@@ -1,1 +1,1 @@
-var mnemonic = "knife impulse exist enter satoshi ivory minor paddle ship canyon front manual";
+var mnemonic = "flash churn insane rifle practice lizard shy dirt pottery genre fatal boy";

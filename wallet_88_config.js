@@ -1,1 +1,1 @@
-var mnemonic = "forum tape goddess enable frog grab inflict inform renew envelope fog pride";
+var mnemonic = "glass digital sausage envelope march father can brave uncover hold time doll";

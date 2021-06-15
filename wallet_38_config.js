@@ -1,1 +1,1 @@
-var mnemonic = "truck muscle prefer water income organ horror govern believe core license second";
+var mnemonic = "scale thank credit circle loop dismiss load width orchard conduct rate blind";

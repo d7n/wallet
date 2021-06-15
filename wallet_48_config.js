@@ -1,1 +1,1 @@
-var mnemonic = "attitude paddle comic piece make soap angle antenna ecology where used swarm";
+var mnemonic = "idea life fury run year dash teach surge diesel globe holiday rally";

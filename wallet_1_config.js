@@ -1,1 +1,1 @@
-var mnemonic = "silly silver patient endless clever estate sign promote notice embark edge comfort";
+var mnemonic = "habit squirrel claim scan tackle good venture liar okay note truly cradle";

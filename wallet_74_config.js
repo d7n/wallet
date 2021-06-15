@@ -1,1 +1,1 @@
-var mnemonic = "canoe toy dress impact axis juice normal crystal dwarf cradle tent agent";
+var mnemonic = "smile cage indicate sport raw guilt frog garbage total very pig senior";

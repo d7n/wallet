@@ -1,1 +1,1 @@
-var mnemonic = "door arctic portion idle fade vast space mystery alert apology ignore canvas";
+var mnemonic = "share ready despair endless guilt rent balcony dove first design cheap car";

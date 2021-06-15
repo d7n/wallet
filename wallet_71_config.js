@@ -1,1 +1,1 @@
-var mnemonic = "history pilot cabbage soon gas since riot emotion belt popular ecology then";
+var mnemonic = "spice visual aisle derive extend spider virus bamboo breeze waste lock save";

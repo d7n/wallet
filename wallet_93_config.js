@@ -1,1 +1,1 @@
-var mnemonic = "message spoil soap raw library provide zone chair net robust decrease beauty";
+var mnemonic = "robot switch december reflect monster pond any cram mixed call time manual";

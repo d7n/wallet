@@ -1,1 +1,1 @@
-var mnemonic = "size title spell awful wall clap wall chunk airport ginger donate stock";
+var mnemonic = "decorate diesel praise shine raise spatial elephant lion hawk awkward property soldier";

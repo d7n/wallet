@@ -1,1 +1,1 @@
-var mnemonic = "erupt december spread hen athlete suffer dust velvet unaware midnight tunnel canoe";
+var mnemonic = "clock sustain sugar dentist royal menu funny certain ability wrong expose pride";

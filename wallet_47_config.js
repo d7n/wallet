@@ -1,1 +1,1 @@
-var mnemonic = "tobacco portion frost scare blush civil engage brain negative horn december diamond";
+var mnemonic = "strategy plug modify violin brother tape army pet next tourist divorce fatigue";

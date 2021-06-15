@@ -1,1 +1,1 @@
-var mnemonic = "maze organ shift tuition engage syrup apology pitch they inhale coconut derive";
+var mnemonic = "drum traffic oblige dwarf inflict bone puppy office arrow door chunk cycle";

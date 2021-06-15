@@ -1,1 +1,1 @@
-var mnemonic = "elevator ship husband pony pull arena chimney decide manage access grace addict";
+var mnemonic = "emotion coyote buyer crash dentist such ocean close vital pepper used error";

@@ -1,1 +1,1 @@
-var mnemonic = "distance sight mesh matrix divert heart minor witness post motor orient toss";
+var mnemonic = "alert cigar cherry punch museum empower ridge excess useful green point oval";

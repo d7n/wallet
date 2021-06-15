@@ -1,1 +1,1 @@
-var mnemonic = "funny weapon recall dwarf captain kitchen fever curtain enact orange remain elephant";
+var mnemonic = "rent announce heavy minute bicycle hero side math swamp slogan turn connect";

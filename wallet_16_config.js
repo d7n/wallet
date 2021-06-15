@@ -1,1 +1,1 @@
-var mnemonic = "wheat today fiber song nature bring choice pepper above swift penalty right";
+var mnemonic = "when race soul parade decorate jazz begin donkey jealous normal spike penalty";

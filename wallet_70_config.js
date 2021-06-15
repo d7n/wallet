@@ -1,1 +1,1 @@
-var mnemonic = "shift nose mobile scout maximum math sponsor correct seek north tail erode";
+var mnemonic = "art spatial tooth step word height critic leaf embody manual monster general";

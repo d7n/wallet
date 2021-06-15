@@ -1,1 +1,1 @@
-var mnemonic = "volcano glad adapt label barrel rent cable radar vital toe idle urban";
+var mnemonic = "arrest whip picture silk fog viable romance trap measure rich throw social";

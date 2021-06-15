@@ -1,1 +1,1 @@
-var mnemonic = "treat west renew chunk stadium wear taste mango unveil night guitar cook";
+var mnemonic = "cause fantasy shrug wasp bulk kangaroo bullet grape hawk execute garment slam";

@@ -1,1 +1,1 @@
-var mnemonic = "evil organ inside better swift sick cash dwarf flock charge fitness aim";
+var mnemonic = "tool make cherry lecture abandon merge draw wrestle bracket stumble adapt cargo";

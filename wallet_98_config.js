@@ -1,1 +1,1 @@
-var mnemonic = "april rhythm nerve zebra skin sail coconut income insane sick brush churn";
+var mnemonic = "spell blouse add case goose help craft emotion fade brass main history";

@@ -1,1 +1,1 @@
-var mnemonic = "sail rabbit essay current genius track chef clinic return security donor ocean";
+var mnemonic = "diamond analyst device fox shine crumble hospital cable deal coconut alone clarify";

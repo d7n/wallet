@@ -1,1 +1,1 @@
-var mnemonic = "morning oppose giggle say squeeze fame witness battle deputy wave proud open";
+var mnemonic = "goat smart funny fuel saddle slide spin route swap property below announce";

@@ -1,1 +1,1 @@
-var mnemonic = "super filter trigger loop hollow develop lucky blue decline pulp notice ethics";
+var mnemonic = "lucky wood sure rotate require chef move net vast juice jungle oil";

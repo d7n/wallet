@@ -1,1 +1,1 @@
-var mnemonic = "absent inherit give misery tone fringe sugar whale blast ball dial olympic";
+var mnemonic = "leaf proof poverty novel border brown remind reject diesel furnace library light";

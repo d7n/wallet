@@ -1,1 +1,1 @@
-var mnemonic = "derive sing flat letter nominee enrich dream gift club unhappy number raise";
+var mnemonic = "document choose now limb consider convince quiz decade season walk view clump";

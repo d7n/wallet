@@ -1,1 +1,1 @@
-var mnemonic = "raccoon garden surround rude degree exclude buzz bronze purity paper then tongue";
+var mnemonic = "prison bulk sail gentle diet rain total aerobic census laugh soccer green";
