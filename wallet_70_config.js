@@ -1,1 +1,1 @@
-var mnemonic = "giggle eagle runway tent crime art chicken resemble hunt toilet floor sauce";
+var mnemonic = "frozen write song fade excite pitch electric myself reopen ship later unable";

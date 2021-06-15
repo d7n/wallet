@@ -1,1 +1,1 @@
-var mnemonic = "dog omit prize document found ketchup party reopen march duty hamster income";
+var mnemonic = "history rigid outdoor winter inner clock ranch distance boost cancel yard siege";

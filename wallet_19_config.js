@@ -1,1 +1,1 @@
-var mnemonic = "riot cactus lion off worth tilt radar chuckle gossip dial van soccer";
+var mnemonic = "claim rotate material social festival metal flight fat hard satoshi height swarm";

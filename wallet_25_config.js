@@ -1,1 +1,1 @@
-var mnemonic = "sort film artefact route control field camp gas initial skin odor tiny";
+var mnemonic = "mind refuse color symbol trip vibrant include rural skin popular sad change";

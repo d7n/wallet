@@ -1,1 +1,1 @@
-var mnemonic = "kit exist invite black happy quit sustain clap butter knock adapt alert";
+var mnemonic = "galaxy stumble praise path rotate unhappy element input offer dish latin hammer";

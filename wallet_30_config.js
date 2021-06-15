@@ -1,1 +1,1 @@
-var mnemonic = "ahead grit juice figure notice sad clutch round grace crowd matter obvious";
+var mnemonic = "conduct truly fever town lake glory spell target job move recipe pitch";

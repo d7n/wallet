@@ -1,1 +1,1 @@
-var mnemonic = "mandate beef sing multiply drop pool apology sugar envelope rebel science dinner";
+var mnemonic = "toward evoke pony decorate hard gym defy naive senior inflict stem winner";

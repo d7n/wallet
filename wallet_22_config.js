@@ -1,1 +1,1 @@
-var mnemonic = "motor repeat smooth exist desert ketchup about illness aerobic dwarf walnut tool";
+var mnemonic = "exile steak erupt love move special traffic raw defy cause drama unable";

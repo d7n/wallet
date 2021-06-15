@@ -1,1 +1,1 @@
-var mnemonic = "one finish cool razor include venture absorb local brave shop evoke forest";
+var mnemonic = "model position deposit window lunar cheese jewel swift core draw method cement";

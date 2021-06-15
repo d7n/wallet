@@ -1,1 +1,1 @@
-var mnemonic = "tired material subway auto coffee below when winner lake disorder power crawl";
+var mnemonic = "brisk priority daring answer frost photo dynamic robot field tribe oblige collect";

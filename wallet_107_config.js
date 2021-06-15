@@ -1,1 +1,1 @@
-var mnemonic = "warfare expect measure game supply question blossom west repair cream merge front";
+var mnemonic = "cool drive develop fiscal pass frown auction penalty tonight update acoustic keep";

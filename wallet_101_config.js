@@ -1,1 +1,1 @@
-var mnemonic = "creek practice sketch expand bubble flash adapt corn hungry fog carpet will";
+var mnemonic = "exist erosion connect salt swim grant miss lesson eager tunnel guard salon";

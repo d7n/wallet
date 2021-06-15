@@ -1,1 +1,1 @@
-var mnemonic = "adjust brave delay credit already page treat safe dove ice call already";
+var mnemonic = "security vague type quantum minimum junior together ensure modify you property resource";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate dash drastic attitude evil tool brass oyster shove assume movie diagram";
+var mnemonic = "wash jump museum chest pistol toe wreck street squeeze original coach girl";

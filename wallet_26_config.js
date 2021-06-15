@@ -1,1 +1,1 @@
-var mnemonic = "hotel letter peace write meadow physical ladder cream reopen employ laptop frequent";
+var mnemonic = "drastic payment lounge repair lens rail deer grape badge cheap impact media";

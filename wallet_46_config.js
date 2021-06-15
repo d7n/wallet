@@ -1,1 +1,1 @@
-var mnemonic = "north spare robot damp wise raccoon crazy uncle cushion reward mechanic erosion";
+var mnemonic = "trend family audit smoke kick squirrel notice when nature only home way";

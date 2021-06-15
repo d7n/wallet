@@ -1,1 +1,1 @@
-var mnemonic = "worry trigger wisdom emotion elevator couch chronic cotton foil promote onion rifle";
+var mnemonic = "purse custom traffic lunch toilet lonely typical organ dust hunt please urban";

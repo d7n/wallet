@@ -1,1 +1,1 @@
-var mnemonic = "label action blouse shadow sibling pond spare mosquito that swim fatal visa";
+var mnemonic = "carpet shadow civil crowd upset jar coral open click reject bargain memory";

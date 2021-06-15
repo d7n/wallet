@@ -1,1 +1,1 @@
-var mnemonic = "canyon canvas fortune comfort spray eyebrow gauge wagon glue trip thought snow";
+var mnemonic = "magnet meat resist rebuild luxury viable chapter major undo palm transfer hair";

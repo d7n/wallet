@@ -1,1 +1,1 @@
-var mnemonic = "shoot dawn trumpet deny uncover wrap number organ fit shed drift exotic";
+var mnemonic = "tragic owner glory melt letter piano early drop space still pride mother";

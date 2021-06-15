@@ -1,1 +1,1 @@
-var mnemonic = "quarter stick decrease behind assist brief portion lobster december disagree winner public";
+var mnemonic = "august venture seven ladder light wrong welcome gauge music badge morning arrange";

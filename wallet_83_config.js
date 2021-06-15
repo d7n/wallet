@@ -1,1 +1,1 @@
-var mnemonic = "entire uncover summer bless service demand frown chapter cave art share mix";
+var mnemonic = "genius unfair win siren grape useless green trip merge lecture betray gentle";

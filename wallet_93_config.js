@@ -1,1 +1,1 @@
-var mnemonic = "scissors input recycle whale slow betray lens pizza marine soon dial notable";
+var mnemonic = "winter note robust fiber cushion switch daring prefer oval payment early mass";

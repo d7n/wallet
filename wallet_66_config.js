@@ -1,1 +1,1 @@
-var mnemonic = "fit myself empty foot drink grow coin double level over argue useless";
+var mnemonic = "team parrot develop ignore sail dog select shallow blind cliff pole doll";

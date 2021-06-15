@@ -1,1 +1,1 @@
-var mnemonic = "man cheap admit timber spider venture change host soccer boy method card";
+var mnemonic = "stand screen guilt image tenant stand wave doll quantum fetch scale awesome";

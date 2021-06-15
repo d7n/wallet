@@ -1,1 +1,1 @@
-var mnemonic = "lobster size favorite tank crater clown table together you neutral orphan reward";
+var mnemonic = "soda spirit flash trend vanish suffer disorder exist radio water shoe vanish";

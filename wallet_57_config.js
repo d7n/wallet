@@ -1,1 +1,1 @@
-var mnemonic = "raccoon woman bird skull win direct have sudden man ostrich deposit debate";
+var mnemonic = "half impact thought rally major question crush crouch minimum wave confirm impose";

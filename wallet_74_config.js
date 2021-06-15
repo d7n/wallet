@@ -1,1 +1,1 @@
-var mnemonic = "near duck vehicle faith guilt save cereal play hero inform front analyst";
+var mnemonic = "oppose turn warfare element pupil chalk damp bone frost youth iron reunion";

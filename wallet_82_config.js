@@ -1,1 +1,1 @@
-var mnemonic = "impose book dance hope angry shove dinner velvet common hidden frog solar";
+var mnemonic = "clarify check invite vanish exhaust hockey garage actual twice typical grid husband";

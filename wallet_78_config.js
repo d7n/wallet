@@ -1,1 +1,1 @@
-var mnemonic = "magic scrub salon radar recipe trade shield liberty desert gap climb food";
+var mnemonic = "erupt letter parrot more lake laptop rose armor gas rug kit grace";

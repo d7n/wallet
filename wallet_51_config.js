@@ -1,1 +1,1 @@
-var mnemonic = "duty month struggle regret piano trick glimpse squirrel cause gesture rose display";
+var mnemonic = "mountain skill rack salt shine always hold skin elephant olympic talk clean";

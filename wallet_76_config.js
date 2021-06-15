@@ -1,1 +1,1 @@
-var mnemonic = "boring trend detail shiver traffic sail pencil define attend antique pear purchase";
+var mnemonic = "poem middle sword frame auto special liar one lunch curve cruel canvas";

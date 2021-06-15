@@ -1,1 +1,1 @@
-var mnemonic = "provide parent bean critic warfare poverty profit about board crunch humble silent";
+var mnemonic = "excite menu brush panic maple beauty crane armed popular steel minor same";

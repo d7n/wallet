@@ -1,1 +1,1 @@
-var mnemonic = "moral lion obvious depend action fine gossip jewel infant mechanic hat calm";
+var mnemonic = "picture comfort equal fall guitar repeat slide crowd ranch idea ankle dirt";

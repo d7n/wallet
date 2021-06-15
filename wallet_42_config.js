@@ -1,1 +1,1 @@
-var mnemonic = "black attend manage lecture awesome deposit want lake peanut mystery shrimp junior";
+var mnemonic = "rival pass leader tomato claw smile divide frame attitude expire attend lonely";

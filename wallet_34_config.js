@@ -1,1 +1,1 @@
-var mnemonic = "garment chapter alcohol foot theory modify pair illness mesh bread confirm differ";
+var mnemonic = "dynamic turn ribbon dish manual maximum cancel ankle pottery saddle skull tower";

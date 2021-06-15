@@ -1,1 +1,1 @@
-var mnemonic = "gospel tilt derive deliver focus process laugh rhythm desk rather speed enact";
+var mnemonic = "return possible badge impose unfair expose inflict scan adult toy basic cancel";

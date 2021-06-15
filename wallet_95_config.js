@@ -1,1 +1,1 @@
-var mnemonic = "inject example mechanic sport throw season obey release kitchen venue giggle void";
+var mnemonic = "skin notice physical butter increase come soccer fade casual century quarter victory";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue hip cause leisure entry bean elbow tennis design birth thunder imitate";
+var mnemonic = "point beef express bridge ocean among truck apart start keep clap acid";

@@ -1,1 +1,1 @@
-var mnemonic = "diet breeze state universe library employ silver cart reunion coconut acoustic buzz";
+var mnemonic = "intact reveal maid patch cost grit produce two bamboo survey dash kingdom";

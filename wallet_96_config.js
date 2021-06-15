@@ -1,1 +1,1 @@
-var mnemonic = "wealth fetch access advance broccoli tip april sweet card peasant coach glad";
+var mnemonic = "mutual gaze panic swamp water media slogan toe brisk match kiwi slight";

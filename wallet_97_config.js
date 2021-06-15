@@ -1,1 +1,1 @@
-var mnemonic = "combine loud wait lazy blame stem accuse power venue clarify fix spatial";
+var mnemonic = "rug post credit tribe donor depend leader inmate panel garbage close payment";

@@ -1,1 +1,1 @@
-var mnemonic = "brain option benefit rural finish shell brick daughter income april track best";
+var mnemonic = "state hard bomb amazing recall cheese episode metal rally rose forward month";

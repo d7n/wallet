@@ -1,1 +1,1 @@
-var mnemonic = "have person boil coyote biology sort tuna jaguar cloud dish tube region";
+var mnemonic = "zero place tenant smile lion weird best abstract business aunt spoon emerge";

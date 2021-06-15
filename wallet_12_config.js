@@ -1,1 +1,1 @@
-var mnemonic = "later layer spend base cage monkey exclude tide impose about wife lion";
+var mnemonic = "design noise retire soap joy arrive jar drive regular turkey amateur corn";

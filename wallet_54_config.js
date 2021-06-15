@@ -1,1 +1,1 @@
-var mnemonic = "oxygen fashion picture road wool violin author toy stock best still street";
+var mnemonic = "episode bleak minute dignity sibling wild anxiety easy buzz poverty magnet elder";

@@ -1,1 +1,1 @@
-var mnemonic = "trumpet stem what option unknown glide smart stadium burden hawk agent beef";
+var mnemonic = "rib member toddler addict rude clog faint forest page under require royal";

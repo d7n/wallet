@@ -1,1 +1,1 @@
-var mnemonic = "skull kit save mountain cycle bicycle dance envelope try certain milk harvest";
+var mnemonic = "eyebrow exotic month path bag dolphin train skate parent exhibit pistol sunset";

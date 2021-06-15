@@ -1,1 +1,1 @@
-var mnemonic = "similar west author burst wheel pluck immune use odor column canvas nut";
+var mnemonic = "lounge coil element ice beauty start rare trumpet leave antenna insect teach";

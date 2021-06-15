@@ -1,1 +1,1 @@
-var mnemonic = "day purchase faculty sudden urban media tumble sting raise letter fury kick";
+var mnemonic = "quit apology famous blush ankle suit silent wage pitch debate obscure cram";

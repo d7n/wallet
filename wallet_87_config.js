@@ -1,1 +1,1 @@
-var mnemonic = "rule bind slush boy correct motor diet east sting cram dice olive";
+var mnemonic = "minimum surge provide speak debris pave other tobacco gun galaxy horse lift";

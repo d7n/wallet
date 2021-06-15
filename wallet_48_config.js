@@ -1,1 +1,1 @@
-var mnemonic = "giggle village inquiry wish that soldier dizzy armor judge hope glass stool";
+var mnemonic = "capital where oven end promote nice foam october rude lava post square";

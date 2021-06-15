@@ -1,1 +1,1 @@
-var mnemonic = "hospital annual happy taxi hammer wedding across enforce special foam essay mutual";
+var mnemonic = "raven select fatigue theme seminar junk duck tree girl promote birth canyon";

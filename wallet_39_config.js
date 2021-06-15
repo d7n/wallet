@@ -1,1 +1,1 @@
-var mnemonic = "wink never direct indoor enemy joy tattoo find treat core abandon cheap";
+var mnemonic = "rude question flee fantasy dish size small travel loud guide cream web";

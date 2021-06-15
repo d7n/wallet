@@ -1,1 +1,1 @@
-var mnemonic = "million crush undo mushroom leopard surround warfare legend depth royal vivid relax";
+var mnemonic = "mask differ satisfy zoo strategy jelly unfold wall system kidney eternal clutch";

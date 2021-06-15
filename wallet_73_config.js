@@ -1,1 +1,1 @@
-var mnemonic = "chase chest view student try mango fish time lend yellow select summer";
+var mnemonic = "abuse april include misery mind mandate fork abandon primary game inherit ripple";

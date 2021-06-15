@@ -1,1 +1,1 @@
-var mnemonic = "myself roast vast pig category treat fall spy segment horn isolate rifle";
+var mnemonic = "athlete tribe cart scheme exit auction mimic rack bulk bounce size velvet";

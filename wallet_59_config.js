@@ -1,1 +1,1 @@
-var mnemonic = "strong become exist lock same slot knee moment mountain around acoustic cloud";
+var mnemonic = "junior approve sleep carry lecture mesh spy pond rice stone again fine";

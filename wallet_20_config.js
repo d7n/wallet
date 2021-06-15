@@ -1,1 +1,1 @@
-var mnemonic = "steak word shoot arrest deer prepare simple garlic brave body spin gloom";
+var mnemonic = "solution amount cattle odor idea initial famous illness net upon embark recall";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion carbon imitate inquiry festival lady disagree raccoon indicate cloud hub sunset";
+var mnemonic = "subject wagon quantum legend high unusual blood lumber furnace planet tip web";

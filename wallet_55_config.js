@@ -1,1 +1,1 @@
-var mnemonic = "below butter reason inherit slab abstract disease apart employ annual chef narrow";
+var mnemonic = "exclude crater tourist shrimp table again palm venture brass believe double oyster";

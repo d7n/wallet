@@ -1,1 +1,1 @@
-var mnemonic = "effort birth adult slam uphold apple spoil maid gossip trumpet fame wonder";
+var mnemonic = "extra future more oblige refuse start orient seed explain trap onion clerk";

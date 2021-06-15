@@ -1,1 +1,1 @@
-var mnemonic = "nice now leopard olive forum leopard sugar depart address adult sing robot";
+var mnemonic = "exact pony garbage shoot grit near else sketch nuclear slow world balance";

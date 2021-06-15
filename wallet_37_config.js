@@ -1,1 +1,1 @@
-var mnemonic = "venue betray nurse fame garbage palace chronic slam brave snap age wide";
+var mnemonic = "cupboard also odor hamster surround nominee sustain city cinnamon enable actress badge";

@@ -1,1 +1,1 @@
-var mnemonic = "typical subway prison ketchup broccoli own paddle sand vendor hobby solid ship";
+var mnemonic = "capital until elbow basic power burger nut labor transfer muscle decline wheat";

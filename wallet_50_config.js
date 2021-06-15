@@ -1,1 +1,1 @@
-var mnemonic = "knock lawn fog lazy essay injury series direct bachelor code robust first";
+var mnemonic = "bean ginger finger swim arctic clap shy forward decline ethics surface essence";

@@ -1,1 +1,1 @@
-var mnemonic = "knife dutch betray gadget despair rate popular dismiss ethics corn stone absent";
+var mnemonic = "unknown erase fault walk add frame snack biology return grab senior fan";

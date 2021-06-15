@@ -1,1 +1,1 @@
-var mnemonic = "vacuum fabric auction endorse canoe erase share you bike assist viable smooth";
+var mnemonic = "column advice style vital iron erosion fiscal dry silver help settle mule";

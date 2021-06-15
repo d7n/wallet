@@ -1,1 +1,1 @@
-var mnemonic = "balance ocean degree toe holiday evoke foam logic rich loan warfare effort";
+var mnemonic = "click corn series provide link fashion wrist buffalo luggage share stairs install";

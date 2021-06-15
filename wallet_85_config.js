@@ -1,1 +1,1 @@
-var mnemonic = "tray tilt broccoli raccoon short found calm erase picnic air figure expand";
+var mnemonic = "daughter glow salmon upon rug decade since slab guide roof siege jaguar";

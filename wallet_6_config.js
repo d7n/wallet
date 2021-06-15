@@ -1,1 +1,1 @@
-var mnemonic = "walk trip iron language rail soup heart sock small nothing retire debris";
+var mnemonic = "melody junk logic whisper fish convince twenty immense taxi pride risk razor";

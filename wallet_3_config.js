@@ -1,1 +1,1 @@
-var mnemonic = "easily tent syrup pudding mule spatial rude floor aerobic clay innocent script";
+var mnemonic = "spot unfold kid leisure during vanish tennis wedding define actual govern congress";

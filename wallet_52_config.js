@@ -1,1 +1,1 @@
-var mnemonic = "cluster brief fiction quit book rather act bid vendor spawn meat ostrich";
+var mnemonic = "field version bottom staff place rookie gun frown yard track midnight evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "hat load issue common crystal opera mistake dress topple hotel hello group";
+var mnemonic = "one same usage awful receive glow labor cash step another refuse place";

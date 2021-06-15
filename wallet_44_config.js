@@ -1,1 +1,1 @@
-var mnemonic = "dismiss spice exclude desk business bike expire awesome squeeze trouble hand carbon";
+var mnemonic = "false claw cable liquid method myth crawl call eight current jealous autumn";

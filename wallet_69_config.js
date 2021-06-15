@@ -1,1 +1,1 @@
-var mnemonic = "sword upset raw sight abstract random uniform resist brown myth effort anxiety";
+var mnemonic = "garage leg knife safe aspect badge farm journey august want video shrug";

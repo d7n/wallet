@@ -1,1 +1,1 @@
-var mnemonic = "wear idea cabin power diesel genuine measure zero planet breeze head this";
+var mnemonic = "differ wear reveal october eagle crawl eager solar brain add orchard nothing";

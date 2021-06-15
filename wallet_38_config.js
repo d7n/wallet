@@ -1,1 +1,1 @@
-var mnemonic = "always jump ethics mushroom bitter stairs travel autumn shuffle cry concert hobby";
+var mnemonic = "since jump senior retire sibling sight maple sting ring silent amused hunt";

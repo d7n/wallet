@@ -1,1 +1,1 @@
-var mnemonic = "outdoor possible bottom useless never six suspect pet whip angle coral bounce";
+var mnemonic = "canyon first critic lesson pear scrap throw scene onion lobster air trick";

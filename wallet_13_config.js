@@ -1,1 +1,1 @@
-var mnemonic = "gallery accuse noble alcohol speak replace innocent fabric news wedding awful unknown";
+var mnemonic = "scout gadget fire knee satoshi crop address small ready enemy destroy soda";

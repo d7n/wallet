@@ -1,1 +1,1 @@
-var mnemonic = "all orchard april spread merit shoot involve glide lyrics ecology balance kangaroo";
+var mnemonic = "shoe season opinion way crumble echo accident sting suffer omit correct region";

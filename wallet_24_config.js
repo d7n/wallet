@@ -1,1 +1,1 @@
-var mnemonic = "access black guess repair eyebrow asthma shrimp wash grape damage item rain";
+var mnemonic = "wide type month trap field error now spoil draft leader regular leader";

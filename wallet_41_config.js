@@ -1,1 +1,1 @@
-var mnemonic = "law confirm desk attract cheese praise success gallery limit refuse rude quote";
+var mnemonic = "lawn quick wasp electric nation confirm snap scare web arrest comic again";
