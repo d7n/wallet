@@ -1,1 +1,1 @@
-var mnemonic = "error ripple teach observe member pulp flower side angry zero bottom sadness";
+var mnemonic = "frown beyond flee debris loop paper caution boss exhibit game march certain";

@@ -1,1 +1,1 @@
-var mnemonic = "toast crew phrase bleak elder assist steak dry wedding deposit salmon run";
+var mnemonic = "arm captain universe term harsh ritual shrug move sell have setup write";

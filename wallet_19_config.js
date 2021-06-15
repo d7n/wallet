@@ -1,1 +1,1 @@
-var mnemonic = "gauge link gaze beauty infant online client pond agent puzzle enter excuse";
+var mnemonic = "broom feature embrace pluck depart resemble battle refuse spider danger short length";

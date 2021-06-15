@@ -1,1 +1,1 @@
-var mnemonic = "bring private scheme gloom galaxy transfer hint verify universe spare memory hair";
+var mnemonic = "relief wear ship fuel foil over camp gas embark rack globe smart";

@@ -1,1 +1,1 @@
-var mnemonic = "nose inject verb amount jump wild buzz brick motion swarm begin smart";
+var mnemonic = "short other minimum office original end abstract useful ill tuna urge strong";

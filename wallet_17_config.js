@@ -1,1 +1,1 @@
-var mnemonic = "whip offer right tiger level certain latin reform inner embark knock ball";
+var mnemonic = "cool pause possible insect quiz suspect expand upper question body food frog";

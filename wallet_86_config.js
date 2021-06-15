@@ -1,1 +1,1 @@
-var mnemonic = "tooth dinosaur answer energy pelican earn find maple curious unusual abandon health";
+var mnemonic = "play student cube jewel later explain heavy apology like height wasp main";

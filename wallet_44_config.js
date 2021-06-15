@@ -1,1 +1,1 @@
-var mnemonic = "kid regret rib disorder elephant kit pig heavy tongue labor almost enhance";
+var mnemonic = "copper poem code gown feel citizen poverty year warrior cube history genuine";

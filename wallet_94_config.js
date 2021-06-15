@@ -1,1 +1,1 @@
-var mnemonic = "credit bubble again zone scare drip fragile winner old dose metal joy";
+var mnemonic = "glance ketchup law tuition dentist rigid viable ivory outdoor situate wild east";

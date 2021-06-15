@@ -1,1 +1,1 @@
-var mnemonic = "van utility lava basic life fabric crowd stool quality giraffe sadness fever";
+var mnemonic = "refuse indoor drip afraid aspect funny visual diary plug answer glad motor";

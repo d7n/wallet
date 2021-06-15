@@ -1,1 +1,1 @@
-var mnemonic = "upgrade stereo legal target maid shield panda mixture share heavy erode stadium";
+var mnemonic = "puppy state urge regular farm broom valley reopen gospel erode seven message";

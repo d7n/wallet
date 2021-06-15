@@ -1,1 +1,1 @@
-var mnemonic = "rule drive elder toilet auto upper meat project gate grit negative churn";
+var mnemonic = "myself matter circle inquiry resemble cup cousin lucky final timber candy price";

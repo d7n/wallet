@@ -1,1 +1,1 @@
-var mnemonic = "order happy cliff avoid shove idle resemble solve unusual kitten protect anger";
+var mnemonic = "logic sport matrix wisdom cream athlete stuff panther bar tackle silent connect";

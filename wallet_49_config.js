@@ -1,1 +1,1 @@
-var mnemonic = "radar invite pause tiger render scheme siege calm vendor cargo market wheel";
+var mnemonic = "harvest game say more cinnamon monkey pill mistake recycle meat fault dial";

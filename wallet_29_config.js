@@ -1,1 +1,1 @@
-var mnemonic = "news dice wall clap barrel foot crime betray music dry educate record";
+var mnemonic = "buddy eyebrow once foam there olympic people allow infant tortoise more submit";

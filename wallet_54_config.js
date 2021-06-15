@@ -1,1 +1,1 @@
-var mnemonic = "sand parade parade brave switch arch couch program kingdom pioneer between pill";
+var mnemonic = "badge bonus neither vague color bamboo dial summer embark proof betray noodle";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty affair goddess inmate dad enrich giggle odor vanish wage extra penalty";
+var mnemonic = "bean dinosaur glove credit dawn chair mercy rural author farm degree remind";

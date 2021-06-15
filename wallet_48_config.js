@@ -1,1 +1,1 @@
-var mnemonic = "pigeon mirror vapor disorder swear move cable rookie diet vault seat lizard";
+var mnemonic = "toast play walk increase snack dial light basket maze stove hospital talk";

@@ -1,1 +1,1 @@
-var mnemonic = "trash electric cliff anger month guard notice wall job plate delay bid";
+var mnemonic = "garbage pony dial aim rose ketchup turkey afraid swap lion razor panel";

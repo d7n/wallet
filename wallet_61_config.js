@@ -1,1 +1,1 @@
-var mnemonic = "obscure obvious muscle scale bleak silver collect bleak false right circle shed";
+var mnemonic = "brain master quiz shed finish expect fiscal chunk indoor firm snow feature";

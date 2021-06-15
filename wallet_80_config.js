@@ -1,1 +1,1 @@
-var mnemonic = "grape seminar staff lazy stay vendor snap father tunnel other voice tortoise";
+var mnemonic = "depart harsh learn decrease ill author betray scout stock clerk govern ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "today beef amused bronze tiny pizza monitor coin found dash fox gravity";
+var mnemonic = "comfort list shuffle tower grass pistol dash lunar assume turn build spice";

@@ -1,1 +1,1 @@
-var mnemonic = "just truly panel three pizza legal crop switch machine leg lecture caught";
+var mnemonic = "robot arm husband name impulse plunge wasp enroll idea access aware jump";

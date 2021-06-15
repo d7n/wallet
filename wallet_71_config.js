@@ -1,1 +1,1 @@
-var mnemonic = "mechanic ethics dress tip blind equal transfer gather olympic daughter false shield";
+var mnemonic = "misery unit dove slice level enact security cash tag flush hockey shoulder";

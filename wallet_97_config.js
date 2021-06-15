@@ -1,1 +1,1 @@
-var mnemonic = "clever robot mutual oyster gospel travel struggle lake blanket job mandate promote";
+var mnemonic = "orphan clump pluck record rally rigid wine dial egg december anchor shed";

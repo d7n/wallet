@@ -1,1 +1,1 @@
-var mnemonic = "tragic replace wrong bracket decide gold dinosaur sure tube announce town melody";
+var mnemonic = "route cabin eagle cousin arrive lion field course beef clump game demand";

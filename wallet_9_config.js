@@ -1,1 +1,1 @@
-var mnemonic = "gaze embody seek notable clog sight possible marine goddess task lecture regular";
+var mnemonic = "miss crawl gap sample accuse panic wealth bundle kitten assault horse battle";

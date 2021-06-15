@@ -1,1 +1,1 @@
-var mnemonic = "pepper mesh knock exclude wise practice gown when output hungry weekend student";
+var mnemonic = "giraffe grid elder joke satisfy you genuine fever shiver duck security rain";

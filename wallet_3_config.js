@@ -1,1 +1,1 @@
-var mnemonic = "detail edit lobster gospel mass hover noble best neutral hurt random frame";
+var mnemonic = "quiz mosquito virus salute inhale you evidence evidence thank symbol uncle steel";

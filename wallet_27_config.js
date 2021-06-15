@@ -1,1 +1,1 @@
-var mnemonic = "skate deny bag ship cliff modify broom valid try evolve entire strike";
+var mnemonic = "drop size goddess inch potato crane soldier opera expire permit appear emerge";

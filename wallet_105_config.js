@@ -1,1 +1,1 @@
-var mnemonic = "olive start powder away bike empower arrive stand pet large cushion diesel";
+var mnemonic = "insect pepper lizard agree tooth coral cave key crowd material carry kitten";

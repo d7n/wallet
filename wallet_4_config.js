@@ -1,1 +1,1 @@
-var mnemonic = "recipe office rocket drum own stairs toddler enlist ocean mad electric copy";
+var mnemonic = "network apple swamp resemble later cheap wreck manual genre genuine combine you";

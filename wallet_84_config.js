@@ -1,1 +1,1 @@
-var mnemonic = "emerge receive better despair fade select shoulder couple good weekend boost hunt";
+var mnemonic = "setup meadow found angle clap husband drill drift expand thing culture reduce";

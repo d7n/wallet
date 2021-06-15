@@ -1,1 +1,1 @@
-var mnemonic = "involve party advice explain alert misery moment news milk enable thunder gather";
+var mnemonic = "ticket opera ice sudden minute noble short salmon velvet horse teach barely";

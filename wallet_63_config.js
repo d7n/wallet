@@ -1,1 +1,1 @@
-var mnemonic = "second great develop inside then return humble undo stem execute inch tuna";
+var mnemonic = "record embrace dizzy library winter okay fire garment curve donate vocal embody";

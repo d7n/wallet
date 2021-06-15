@@ -1,1 +1,1 @@
-var mnemonic = "cannon below innocent mutual eternal junk session reason acoustic noodle ship enforce";
+var mnemonic = "wheel outdoor engine ketchup enforce empty grace joy goat hub stay exist";

@@ -1,1 +1,1 @@
-var mnemonic = "age stool arrow mystery rival snack nose transfer hunt write notice cinnamon";
+var mnemonic = "egg spatial forest because child orphan around slide galaxy into keep youth";

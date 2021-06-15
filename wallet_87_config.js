@@ -1,1 +1,1 @@
-var mnemonic = "famous pretty aim prosper pistol episode afraid start total holiday try glimpse";
+var mnemonic = "wait ill fine curious hundred range rude inch ozone cook trial auto";

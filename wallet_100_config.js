@@ -1,1 +1,1 @@
-var mnemonic = "swallow spirit illegal cram comfort project judge exclude boss never wall magnet";
+var mnemonic = "fetch trial tornado rice assume legal better unknown feel kick silly roof";

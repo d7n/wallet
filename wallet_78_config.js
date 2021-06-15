@@ -1,1 +1,1 @@
-var mnemonic = "polar rug plate include across polar copy erosion team gym dwarf pizza";
+var mnemonic = "machine cousin moral sauce cave oyster fortune candy maple blouse treat mixture";

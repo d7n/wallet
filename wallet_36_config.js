@@ -1,1 +1,1 @@
-var mnemonic = "bomb advice balance imitate much fee eight celery knife floor job second";
+var mnemonic = "soldier spell topic ostrich brick already birth rely fog under wide ordinary";

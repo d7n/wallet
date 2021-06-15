@@ -1,1 +1,1 @@
-var mnemonic = "phrase drop over bus mad excess tilt element emerge truck match dragon";
+var mnemonic = "during child alien laugh horn raccoon issue crouch know air december month";

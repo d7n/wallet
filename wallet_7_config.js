@@ -1,1 +1,1 @@
-var mnemonic = "miss useful slender shiver appear enter simple tumble hybrid hotel captain happy";
+var mnemonic = "umbrella program wood relief omit educate thought wink tuna avoid limit leaf";

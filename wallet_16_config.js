@@ -1,1 +1,1 @@
-var mnemonic = "human remain wedding height square tent upset casual region spoil spell little";
+var mnemonic = "border liar banner oblige purse famous surprise combine smoke empty tortoise leisure";

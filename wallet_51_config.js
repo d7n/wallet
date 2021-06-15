@@ -1,1 +1,1 @@
-var mnemonic = "blur flat proud warfare cream stereo charge cannon cause aim solid match";
+var mnemonic = "rigid picnic sort snake borrow swarm invite coin token atom account idea";

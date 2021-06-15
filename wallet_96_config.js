@@ -1,1 +1,1 @@
-var mnemonic = "power account praise mad fabric nation cloth harsh adapt trim jump collect";
+var mnemonic = "uncle addict clip mango stock shield kiss remember depart night purse noble";

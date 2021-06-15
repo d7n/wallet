@@ -1,1 +1,1 @@
-var mnemonic = "country loop stock sport present call grow impact machine include boat derive";
+var mnemonic = "convince flush stairs inflict camp estate concert piece weapon crisp ball beef";

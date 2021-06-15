@@ -1,1 +1,1 @@
-var mnemonic = "random color kitten media stairs metal breeze escape usage federal valid travel";
+var mnemonic = "age stool expire scan much gaze share smart raccoon paddle trophy tape";

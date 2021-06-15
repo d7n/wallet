@@ -1,1 +1,1 @@
-var mnemonic = "enrich matrix census fee trial badge seminar all own unable pig flag";
+var mnemonic = "begin hungry neutral install erupt method luxury clock latin picture sheriff opinion";

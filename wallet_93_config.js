@@ -1,1 +1,1 @@
-var mnemonic = "range spice glove load transfer recycle current decorate upper enroll rally trip";
+var mnemonic = "craft material neutral neglect wish pottery swift ripple virtual six crush hunt";

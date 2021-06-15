@@ -1,1 +1,1 @@
-var mnemonic = "cup bulk immune employ inform sister labor tower evidence betray lend around";
+var mnemonic = "ethics gate today curve unfair rhythm pottery trouble noble zoo grab purity";

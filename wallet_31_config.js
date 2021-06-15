@@ -1,1 +1,1 @@
-var mnemonic = "traffic mango talent woman pizza salmon life model payment voyage acid satoshi";
+var mnemonic = "twist emotion math prize cry display vicious ignore session athlete spare awkward";

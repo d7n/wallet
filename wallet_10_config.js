@@ -1,1 +1,1 @@
-var mnemonic = "cage crater spray toddler warrior quiz submit first sketch abstract mom screen";
+var mnemonic = "thing scheme fancy diary soft dress energy rival obey wife mouse people";

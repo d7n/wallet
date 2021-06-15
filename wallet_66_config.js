@@ -1,1 +1,1 @@
-var mnemonic = "float tail lend neutral emotion enrich squeeze topple depart grant jeans era";
+var mnemonic = "novel output maid boat wine round usage rain expose fit student kit";

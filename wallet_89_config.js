@@ -1,1 +1,1 @@
-var mnemonic = "excuse spin acquire home solve monitor robot soccer north jungle tornado build";
+var mnemonic = "hungry time squeeze box whale unhappy arctic blast slam lonely patient asthma";

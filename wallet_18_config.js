@@ -1,1 +1,1 @@
-var mnemonic = "luxury below need nuclear exercise afford rhythm age solar utility music about";
+var mnemonic = "copper absorb goat chef ecology call year year margin top pause produce";

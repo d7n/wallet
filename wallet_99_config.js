@@ -1,1 +1,1 @@
-var mnemonic = "isolate exile recipe broken slight average connect lab board praise across border";
+var mnemonic = "behave paper artwork flame wreck vast agent arrest cabin theme tent antenna";

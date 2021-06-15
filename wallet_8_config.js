@@ -1,1 +1,1 @@
-var mnemonic = "shaft hip expect bird ancient dose occur sentence rule scout clay jazz";
+var mnemonic = "current barely unfair normal december sure endless sort target similar myth spell";

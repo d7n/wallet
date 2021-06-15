@@ -1,1 +1,1 @@
-var mnemonic = "baby tribe tennis forget soup skull invest dial uniform couple skill soul";
+var mnemonic = "beef before bulk alone west agent angle flock renew harbor scare attract";

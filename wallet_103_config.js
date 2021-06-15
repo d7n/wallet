@@ -1,1 +1,1 @@
-var mnemonic = "same scissors lonely comic aspect torch harvest rapid fish absorb common lounge";
+var mnemonic = "ostrich aunt glad circle spice fortune great mirror all energy recall approve";

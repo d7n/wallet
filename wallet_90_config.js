@@ -1,1 +1,1 @@
-var mnemonic = "coconut fluid speak rate wet alpha census window broken uncle meadow grab";
+var mnemonic = "repeat prepare brass method fragile tumble pilot symptom twelve absorb tomato theme";

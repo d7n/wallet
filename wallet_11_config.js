@@ -1,1 +1,1 @@
-var mnemonic = "fringe home news tennis legend pledge name spend cost axis climb clinic";
+var mnemonic = "select struggle elite carpet machine process purse perfect exhaust reason arena define";

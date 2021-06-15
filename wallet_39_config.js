@@ -1,1 +1,1 @@
-var mnemonic = "earn cereal current twenty fabric floor throw gallery tongue rescue whip oppose";
+var mnemonic = "mandate drive vast energy stamp fee private shy eight whisper roast water";

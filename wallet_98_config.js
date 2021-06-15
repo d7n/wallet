@@ -1,1 +1,1 @@
-var mnemonic = "song cabbage effort flame ankle glass half system improve pattern curve describe";
+var mnemonic = "token stuff steak more anxiety bottom crucial load concert nice industry swift";

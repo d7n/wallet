@@ -1,1 +1,1 @@
-var mnemonic = "heart put surge urban year unit absurd casual hunt caught winner bomb";
+var mnemonic = "afford tiger arm favorite canal boil note elephant stove frozen total lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "shield village few job viable undo spring such useless symbol reveal mail";
+var mnemonic = "castle few athlete jazz volcano tired door ginger speed inhale begin expect";

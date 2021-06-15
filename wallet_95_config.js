@@ -1,1 +1,1 @@
-var mnemonic = "bridge exhibit produce already unit truck stay return narrow license grief dumb";
+var mnemonic = "blossom dizzy unaware seed infant broken fiber waste exhibit swarm shadow legal";

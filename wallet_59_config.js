@@ -1,1 +1,1 @@
-var mnemonic = "hill master submit bar initial hub egg fat home glass diagram meat";
+var mnemonic = "mean conduct since occur identify ghost pledge sentence limb frequent hurt spring";

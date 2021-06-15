@@ -1,1 +1,1 @@
-var mnemonic = "design oyster puppy twist side rigid pause race feature doctor together mule";
+var mnemonic = "reason dinosaur artist aware clean envelope hen shy figure bacon retire amazing";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon crisp carpet million law seven coral spike flag guitar biology random";
+var mnemonic = "gorilla jewel inflict spider expand night advice struggle dawn ski present knee";

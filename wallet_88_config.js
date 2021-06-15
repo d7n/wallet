@@ -1,1 +1,1 @@
-var mnemonic = "include february busy garbage friend virtual hope enforce test rose soccer together";
+var mnemonic = "choose diamond tonight easily mobile pink half mask olympic jump live fiber";

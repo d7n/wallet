@@ -1,1 +1,1 @@
-var mnemonic = "comic coral youth bamboo film shaft diet shy decide very swallow noodle";
+var mnemonic = "crack custom vapor decide tag wrong child input volume weekend acquire wine";

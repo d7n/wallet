@@ -1,1 +1,1 @@
-var mnemonic = "inspire prison plug mom photo state water beyond name chase rule thing";
+var mnemonic = "broccoli risk like sight risk bracket tilt later practice unable coral auction";

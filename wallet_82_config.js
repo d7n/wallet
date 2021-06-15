@@ -1,1 +1,1 @@
-var mnemonic = "rescue coin equip bid venue all already expose interest slow bread evoke";
+var mnemonic = "fluid knee arm soup warm field involve pen focus blur lift gospel";

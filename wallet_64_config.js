@@ -1,1 +1,1 @@
-var mnemonic = "helmet tenant real blood never tray artwork warfare menu echo suffer approve";
+var mnemonic = "text swap fragile marine glory main next local town female wonder glance";

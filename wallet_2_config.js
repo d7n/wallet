@@ -1,1 +1,1 @@
-var mnemonic = "another check number rigid present moon maid sick auto approve remain orient";
+var mnemonic = "obvious educate elder spawn ignore brother enjoy steel raise install stage valid";

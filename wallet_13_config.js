@@ -1,1 +1,1 @@
-var mnemonic = "view holiday box ceiling zero resist open path tail onion polar congress";
+var mnemonic = "lottery memory stuff fly begin erupt marble develop track select metal logic";

@@ -1,1 +1,1 @@
-var mnemonic = "chest poverty copper warfare measure town blade real coast slide mountain scissors";
+var mnemonic = "survey antenna install climb unfold success mirror novel various firm lion desk";

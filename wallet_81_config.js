@@ -1,1 +1,1 @@
-var mnemonic = "spell define lend route accuse uncover life viable real satoshi resemble impose";
+var mnemonic = "catch thumb property motion stumble myself joke twin ocean find nation decade";

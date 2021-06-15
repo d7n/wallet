@@ -1,1 +1,1 @@
-var mnemonic = "trip horn embrace quote suffer frequent stem region moon youth crack sail";
+var mnemonic = "reflect gossip raven analyst treat toward inject canvas absurd emerge wife mass";

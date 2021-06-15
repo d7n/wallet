@@ -1,1 +1,1 @@
-var mnemonic = "series best chapter alert borrow return acoustic seminar typical divide fresh current";
+var mnemonic = "dumb drum fold ill peasant immense patrol smooth mail wear tissue evidence";

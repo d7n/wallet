@@ -1,1 +1,1 @@
-var mnemonic = "feed like two whisper minor mandate object october ranch second primary transfer";
+var mnemonic = "kick duck glide sweet into flip bicycle license sketch winner tragic profit";

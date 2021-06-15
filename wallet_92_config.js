@@ -1,1 +1,1 @@
-var mnemonic = "cake portion mechanic table enroll globe stamp choose learn modify enhance recall";
+var mnemonic = "idea obtain snap misery chapter unhappy drill address water sample now range";

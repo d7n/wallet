@@ -1,1 +1,1 @@
-var mnemonic = "inquiry deputy innocent midnight filter fish wide grass glimpse tribe off fiber";
+var mnemonic = "staff connect friend innocent spring steel excite income champion grunt dish custom";

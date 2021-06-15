@@ -1,1 +1,1 @@
-var mnemonic = "kiss bomb noise warrior flush almost kid fix cash decorate floor hawk";
+var mnemonic = "eight roast road neglect crane swarm mosquito insane reopen casual sunset across";

@@ -1,1 +1,1 @@
-var mnemonic = "flock diagram swear guilt amused correct carpet brisk unhappy ostrich candy flower";
+var mnemonic = "comic title outer fiscal raccoon shift put square fetch note another guitar";

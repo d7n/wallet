@@ -1,1 +1,1 @@
-var mnemonic = "enlist rule dizzy jar riot drama bone device lesson valid casual disagree";
+var mnemonic = "jacket slot any crazy feed cat bike genius jaguar hand jar van";

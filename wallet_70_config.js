@@ -1,1 +1,1 @@
-var mnemonic = "dove kitchen color exist park parrot involve welcome erode parade flock hover";
+var mnemonic = "mass phone ticket illegal load prefer quality east female muscle impact unit";
