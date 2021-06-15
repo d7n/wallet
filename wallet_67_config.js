@@ -1,1 +1,1 @@
-var mnemonic = "chief august coconut spawn spend stand quit quote marine foam lazy loop";
+var mnemonic = "around head throw armed image balance vanish usage cabin pledge virus surface";

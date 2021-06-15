@@ -1,1 +1,1 @@
-var mnemonic = "track review answer final load copper auto host negative sort earn analyst";
+var mnemonic = "tank design jealous learn shove total brick eternal urban give connect repair";

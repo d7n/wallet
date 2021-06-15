@@ -1,1 +1,1 @@
-var mnemonic = "twenty damp rich memory oval evil switch begin jump embrace elevator tape";
+var mnemonic = "pudding left crawl word velvet because promote umbrella end net sentence collect";

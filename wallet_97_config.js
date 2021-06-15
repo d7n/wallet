@@ -1,1 +1,1 @@
-var mnemonic = "spoon educate public kidney found crumble arch wreck wine tone trophy venture";
+var mnemonic = "cram ask index bulk desert farm rival toward runway glide where boss";

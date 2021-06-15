@@ -1,1 +1,1 @@
-var mnemonic = "predict off day blouse praise wheat grief perfect rate dial auction endless";
+var mnemonic = "fatal slab dance poem diesel moral project bicycle protect swim siren grant";

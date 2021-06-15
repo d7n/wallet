@@ -1,1 +1,1 @@
-var mnemonic = "dove latin power mimic only together club bless excite crystal powder soon";
+var mnemonic = "fancy core milk category error job typical kit twin ticket group affair";

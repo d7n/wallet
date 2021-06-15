@@ -1,1 +1,1 @@
-var mnemonic = "minute raw lyrics warfare angry uphold glory harbor clump cause badge armor";
+var mnemonic = "spawn divert pave sustain chat what method vanish affair tag act festival";

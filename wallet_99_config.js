@@ -1,1 +1,1 @@
-var mnemonic = "dutch correct diamond balcony hat blossom cage silly bulk program baby during";
+var mnemonic = "fragile double arrow able boring degree visa jar sibling convince rate buddy";

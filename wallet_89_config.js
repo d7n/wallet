@@ -1,1 +1,1 @@
-var mnemonic = "step snake digital sting satoshi release mansion year ozone globe love celery";
+var mnemonic = "earth disorder strike skill soap boat audit maximum enhance movie bar novel";

@@ -1,1 +1,1 @@
-var mnemonic = "icon month element when chicken loan uphold narrow orient foster olive release";
+var mnemonic = "van glory banana advance interest blade practice habit deny wolf degree oblige";

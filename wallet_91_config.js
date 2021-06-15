@@ -1,1 +1,1 @@
-var mnemonic = "extend bronze use core chief ill diary ocean engine rhythm true goddess";
+var mnemonic = "become sound involve sadness brother tackle enhance tortoise balance know echo scale";

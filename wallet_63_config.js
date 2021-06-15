@@ -1,1 +1,1 @@
-var mnemonic = "blossom rubber rocket shadow sand crunch shaft devote pill lunar monster assault";
+var mnemonic = "green pledge census dawn laugh bonus buffalo exhaust crime merry wealth tilt";

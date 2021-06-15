@@ -1,1 +1,1 @@
-var mnemonic = "never gym bid gown midnight scene ski question camp border rural tail";
+var mnemonic = "dash creek pepper cart fragile behave mule impose butter manual kick sentence";

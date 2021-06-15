@@ -1,1 +1,1 @@
-var mnemonic = "consider next carbon brand frequent margin boost monster unfair coin alien bean";
+var mnemonic = "head avocado another swim eight stage visit surround phrase apple oval click";

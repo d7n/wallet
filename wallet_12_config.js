@@ -1,1 +1,1 @@
-var mnemonic = "grain reason frequent phone churn learn plunge oval faint uniform million walk";
+var mnemonic = "boss sweet galaxy latin bicycle couch trap soap tower idea basic label";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs agent cheap punch vehicle tiny party viable few canoe blame wine";
+var mnemonic = "ensure expect team flavor all rich material dog example silent odor tomorrow";

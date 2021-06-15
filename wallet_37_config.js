@@ -1,1 +1,1 @@
-var mnemonic = "museum settle night photo odor kitchen adjust giggle inform cliff opinion poem";
+var mnemonic = "segment arena coyote poem rapid game warrior oval asset shrug aerobic poem";

@@ -1,1 +1,1 @@
-var mnemonic = "sign scare such wait craft collect replace under cake resource away crater";
+var mnemonic = "spider gauge raise broom genuine letter potato belt cactus pill catalog easily";

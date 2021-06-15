@@ -1,1 +1,1 @@
-var mnemonic = "guilt ceiling merit can galaxy chase flock explain walk magic lamp unknown";
+var mnemonic = "surge exile together forest drink insane jewel object spin bench forget circle";

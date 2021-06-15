@@ -1,1 +1,1 @@
-var mnemonic = "unit stem slow galaxy claw excite wisdom rack vessel side buffalo lobster";
+var mnemonic = "update limit daring matter action energy regret destroy jump open theme initial";

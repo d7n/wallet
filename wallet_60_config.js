@@ -1,1 +1,1 @@
-var mnemonic = "antenna vote office bone choice style duck dial promote fun reopen energy";
+var mnemonic = "donkey setup sort quantum dignity theme vendor tower vault orange type chuckle";

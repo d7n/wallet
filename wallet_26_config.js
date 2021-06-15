@@ -1,1 +1,1 @@
-var mnemonic = "pigeon fiscal hammer boss find narrow bundle pony sea soldier dawn trick";
+var mnemonic = "sauce aisle mammal verify sentence hub crowd wish machine pond report dragon";

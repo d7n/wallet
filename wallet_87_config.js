@@ -1,1 +1,1 @@
-var mnemonic = "escape rug merit mean wedding diagram want loan recipe between glad seven";
+var mnemonic = "anchor foil biology run twin giant shine bacon bomb orange fiction dune";

@@ -1,1 +1,1 @@
-var mnemonic = "sing normal outer burden tonight easily liberty coach piano nose exact green";
+var mnemonic = "choose inject eye ketchup horn royal glare cereal chest sleep bless bullet";

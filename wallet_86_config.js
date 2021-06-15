@@ -1,1 +1,1 @@
-var mnemonic = "size earn banana rail tape man near then slab alpha engine call";
+var mnemonic = "harbor brain problem trip shrimp mixture amount pave exhibit focus evolve rich";

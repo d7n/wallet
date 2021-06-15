@@ -1,1 +1,1 @@
-var mnemonic = "chalk crane rule bonus abstract grab guilt caught patch prevent weasel neck";
+var mnemonic = "arrive adjust anchor bread antenna sock assist siege guide fiction dilemma chimney";

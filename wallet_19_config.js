@@ -1,1 +1,1 @@
-var mnemonic = "stuff humble size lend indicate gloom short tourist salon canoe sheriff palm";
+var mnemonic = "cash rail pigeon more rent nest candy couple army inherit wine thank";

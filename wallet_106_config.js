@@ -1,1 +1,1 @@
-var mnemonic = "trap glare coach casual verify friend utility dwarf envelope diagram blouse liberty";
+var mnemonic = "finger human special chunk autumn pond favorite better vanish future asset inquiry";

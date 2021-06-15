@@ -1,1 +1,1 @@
-var mnemonic = "correct gaze sadness vague century march quick blame current job ahead green";
+var mnemonic = "print blast message nasty reform avoid assist slender monster say require can";

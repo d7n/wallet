@@ -1,1 +1,1 @@
-var mnemonic = "quote opera view peace humble marriage symptom coast female sand crop ahead";
+var mnemonic = "angry cry position sponsor december end enroll unable elder soft theme vital";

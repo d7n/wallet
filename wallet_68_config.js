@@ -1,1 +1,1 @@
-var mnemonic = "that level that duty myth method orchard provide spread gravity dinosaur try";
+var mnemonic = "seed mystery report regret yellow cat appear spawn degree cereal zero glad";

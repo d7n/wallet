@@ -1,1 +1,1 @@
-var mnemonic = "pair atom satoshi entry swamp industry custom airport course inspire behind balance";
+var mnemonic = "renew timber orange casual approve there version capable absurd kiss inch erosion";

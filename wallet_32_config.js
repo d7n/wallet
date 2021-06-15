@@ -1,1 +1,1 @@
-var mnemonic = "evolve picnic wealth open drop run neglect bench whale river trend remain";
+var mnemonic = "cruel auto club into prevent weather about sphere point bleak unknown brave";

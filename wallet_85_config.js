@@ -1,1 +1,1 @@
-var mnemonic = "antique dawn hockey hope report butter prefer adult brave account fatigue media";
+var mnemonic = "text transfer verify forget hen mixture method angle scrap idea citizen rack";

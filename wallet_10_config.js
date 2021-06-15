@@ -1,1 +1,1 @@
-var mnemonic = "wood cute bread security bread beef produce burger hand position bean north";
+var mnemonic = "title turkey project middle spread harsh wink fossil uphold stadium broccoli cancel";

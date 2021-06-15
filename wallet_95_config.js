@@ -1,1 +1,1 @@
-var mnemonic = "alcohol seven victory cover rain elegant wish obey estate eight girl auto";
+var mnemonic = "brisk wrist paddle into balcony thought atom soon ticket agree visual small";

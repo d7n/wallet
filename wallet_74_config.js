@@ -1,1 +1,1 @@
-var mnemonic = "aim shoe liar arrow concert pipe asset fancy genius vehicle wrist dirt";
+var mnemonic = "bachelor alarm bus jump extra sad accuse wine seek payment air unfold";

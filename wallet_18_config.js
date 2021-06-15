@@ -1,1 +1,1 @@
-var mnemonic = "garlic crew balcony armor detect someone nurse uncle debris six orange elegant";
+var mnemonic = "jar belt just virtual burden liberty tortoise tag talk mad change volcano";

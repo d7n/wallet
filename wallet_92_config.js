@@ -1,1 +1,1 @@
-var mnemonic = "wash apart giraffe chase mass chunk chair mail mean day door team";
+var mnemonic = "swing ship verb vintage proof enable punch over table diamond dove runway";

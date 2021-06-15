@@ -1,1 +1,1 @@
-var mnemonic = "history bid thought ketchup imitate room average source snake quality subject volume";
+var mnemonic = "clown decorate pipe rib exit melt buzz spatial police evoke observe critic";

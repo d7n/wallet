@@ -1,1 +1,1 @@
-var mnemonic = "monster physical lazy decrease invest valid label alcohol vendor have hobby process";
+var mnemonic = "salon peanut gain behave pottery panda farm ten record rural avoid nothing";

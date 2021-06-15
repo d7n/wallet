@@ -1,1 +1,1 @@
-var mnemonic = "claim act rice asthma segment slab chimney cute coconut endorse text solution";
+var mnemonic = "hold burst bronze pencil trigger kiss promote pigeon session menu loud tone";

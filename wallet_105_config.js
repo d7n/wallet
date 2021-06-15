@@ -1,1 +1,1 @@
-var mnemonic = "heavy flat result moment hurry blood excite bullet figure nice enhance denial";
+var mnemonic = "wall robot submit skate shoe cover print rapid safe bitter ignore spice";

@@ -1,1 +1,1 @@
-var mnemonic = "close carry opinion payment asthma gaze call impact chalk hub furnace swap";
+var mnemonic = "humor chicken desert tray charge used amount process inmate describe exotic announce";

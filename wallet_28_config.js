@@ -1,1 +1,1 @@
-var mnemonic = "animal arm clock major sight strategy job cable dumb vivid wrestle bundle";
+var mnemonic = "neutral reward jaguar toast few south chase gain album such arrest vintage";

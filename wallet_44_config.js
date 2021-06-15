@@ -1,1 +1,1 @@
-var mnemonic = "shine gap long embrace autumn want home mobile ketchup blue clerk humor";
+var mnemonic = "knife churn rigid reduce pencil injury time hill come shoot steel gift";

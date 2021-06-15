@@ -1,1 +1,1 @@
-var mnemonic = "leader face remember crazy dragon old body double trigger trim sell kit";
+var mnemonic = "session truck very add upon upon analyst mandate require more hotel screen";

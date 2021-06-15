@@ -1,1 +1,1 @@
-var mnemonic = "raw hedgehog undo okay employ coconut shadow margin quit guitar input hill";
+var mnemonic = "fiscal enter neither knife uphold ankle vicious crawl attitude sell trap gospel";

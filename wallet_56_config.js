@@ -1,1 +1,1 @@
-var mnemonic = "spirit able snow use boil permit donate afford ready shell obvious rookie";
+var mnemonic = "omit cheese loan three dance basic used juice august main system zone";

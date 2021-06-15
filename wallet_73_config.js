@@ -1,1 +1,1 @@
-var mnemonic = "federal public giant occur earn state fluid night hub decrease stock catch";
+var mnemonic = "leopard taxi lunar rural family syrup pause arctic pulse ecology exclude town";

@@ -1,1 +1,1 @@
-var mnemonic = "culture abuse armed wool agent write pupil comfort uphold tank beauty flat";
+var mnemonic = "guide swing action marriage bundle squirrel recycle best word select prepare truth";

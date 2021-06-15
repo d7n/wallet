@@ -1,1 +1,1 @@
-var mnemonic = "era regular best type lazy green tonight foot reveal banana salute voice";
+var mnemonic = "shift nominee split start mango slush unveil cloud purpose alarm setup pipe";

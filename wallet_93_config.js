@@ -1,1 +1,1 @@
-var mnemonic = "test palm uncle income portion try honey donate famous two move planet";
+var mnemonic = "run cube mutual spend east praise bring wise plunge immense brother venue";

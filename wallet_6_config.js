@@ -1,1 +1,1 @@
-var mnemonic = "reopen ahead caught ball permit brief index lazy model inquiry energy bread";
+var mnemonic = "visit range plate error rabbit panic paper notice doctor high ready genre";

@@ -1,1 +1,1 @@
-var mnemonic = "ride lens portion west rich define program tide home problem stadium army";
+var mnemonic = "disorder current supply retreat spice trigger genius ship month convince kiss whale";

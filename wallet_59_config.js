@@ -1,1 +1,1 @@
-var mnemonic = "jaguar cup afraid possible strike civil sting repair art coil race vacant";
+var mnemonic = "true hello either behave clerk quality code humble super tuna remain now";

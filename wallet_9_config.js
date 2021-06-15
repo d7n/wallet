@@ -1,1 +1,1 @@
-var mnemonic = "custom pipe minute work student fox property high top stadium trade bridge";
+var mnemonic = "uncle fortune upset alarm sunny place verb husband swamp gown frown erosion";

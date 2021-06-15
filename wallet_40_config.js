@@ -1,1 +1,1 @@
-var mnemonic = "bright noise keep wish torch beach practice error brush similar wear gadget";
+var mnemonic = "absent club future van panda later million cruel transfer travel ten love";

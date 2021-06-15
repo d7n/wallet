@@ -1,1 +1,1 @@
-var mnemonic = "pyramid clap divorce address unveil magic angle until always shiver fury liberty";
+var mnemonic = "season provide advance resist vault cup wrap pottery also cram attend master";

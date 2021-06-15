@@ -1,1 +1,1 @@
-var mnemonic = "verb onion pottery pause polar come pyramid letter eight someone sniff mixed";
+var mnemonic = "add weasel nose solar twice cigar carpet input waste visit audit lizard";

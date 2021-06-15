@@ -1,1 +1,1 @@
-var mnemonic = "expire mad doctor bulb device surprise robot fever marine mango soccer thing";
+var mnemonic = "clutch key glass refuse smart gaze group major impact lift debris paper";

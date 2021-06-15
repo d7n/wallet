@@ -1,1 +1,1 @@
-var mnemonic = "reflect grape smile tribe rookie ridge half auction talk today aunt slot";
+var mnemonic = "copper rule gaze trip pupil legal empty key chunk retreat cross cause";

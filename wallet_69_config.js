@@ -1,1 +1,1 @@
-var mnemonic = "response predict wisdom erode squeeze lesson document prison bench version machine fish";
+var mnemonic = "surge mom tank save dirt pluck mimic immune window liquid unfold trade";

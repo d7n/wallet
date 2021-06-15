@@ -1,1 +1,1 @@
-var mnemonic = "flock sponsor beauty little claim fiscal save left visa shield soccer knife";
+var mnemonic = "hen abuse ship dentist erase torch crazy seed denial concert unique major";

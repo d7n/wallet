@@ -1,1 +1,1 @@
-var mnemonic = "tennis square unaware marine radio street opinion sweet elevator fortune draft bar";
+var mnemonic = "list wheel mom angry boss ready century cream neutral clutch amateur pet";

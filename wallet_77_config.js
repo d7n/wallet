@@ -1,1 +1,1 @@
-var mnemonic = "tape crunch sister physical slide hotel jungle kiwi survey device powder episode";
+var mnemonic = "legend mixed taxi choice save cluster diagram anchor raw inflict seminar expire";

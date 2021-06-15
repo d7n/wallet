@@ -1,1 +1,1 @@
-var mnemonic = "enjoy draw motor better rose slow joy oblige card legal aware ankle";
+var mnemonic = "next file bench drink safe device aspect saddle crush tissue aisle employ";

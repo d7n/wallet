@@ -1,1 +1,1 @@
-var mnemonic = "keen lesson park sadness ship faculty orchard embody rude excuse twelve brisk";
+var mnemonic = "horn library dog wrist frog gaze abuse copper foil speak quit twelve";

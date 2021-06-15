@@ -1,1 +1,1 @@
-var mnemonic = "face learn rookie main october puppy silk valve young sand child scout";
+var mnemonic = "more carry void affair wrong brand human album giggle sea garbage general";

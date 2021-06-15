@@ -1,1 +1,1 @@
-var mnemonic = "lyrics film seven wrong moon dirt check mad fragile hat muscle pioneer";
+var mnemonic = "want infant butter street shrimp scrub truth assault end farm bean club";

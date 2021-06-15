@@ -1,1 +1,1 @@
-var mnemonic = "fever message year tail disease trip peanut extra cost guard write submit";
+var mnemonic = "garage ordinary jar earn couple oxygen hope pill erase cigar sentence web";

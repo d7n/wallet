@@ -1,1 +1,1 @@
-var mnemonic = "visual pig clarify pistol sunset garage keen pumpkin arm ugly salt window";
+var mnemonic = "emerge win wheat stand inside fine waste favorite easy human grief zero";

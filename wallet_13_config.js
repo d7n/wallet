@@ -1,1 +1,1 @@
-var mnemonic = "scissors group jelly recycle more inherit mobile artefact decade bird sing horn";
+var mnemonic = "entry fold urge step crime liberty improve obscure question dutch surround talent";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase upper pitch uncle improve deal analyst scout saddle marriage toast retreat";
+var mnemonic = "once ghost key clinic mosquito income cushion vault shallow avocado phone combine";

@@ -1,1 +1,1 @@
-var mnemonic = "coach side siren lion victory monitor captain exercise post sight feel motion";
+var mnemonic = "spend approve slide muscle spin bachelor distance penalty wagon timber giggle soccer";

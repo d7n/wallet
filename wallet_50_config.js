@@ -1,1 +1,1 @@
-var mnemonic = "leisure yellow tomato nothing open drill dream sorry program orange company middle";
+var mnemonic = "denial outside coconut service wide orchard trophy vocal thunder mammal ghost bless";

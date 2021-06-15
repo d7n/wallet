@@ -1,1 +1,1 @@
-var mnemonic = "camera bar tobacco scale march neglect around document master burger smooth claim";
+var mnemonic = "ski dry used pretty disagree close body lucky pumpkin idle deer memory";

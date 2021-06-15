@@ -1,1 +1,1 @@
-var mnemonic = "fabric fashion eagle sport there unfair universe fever evidence hen horse differ";
+var mnemonic = "toddler power unlock kit dice put online clog moon project narrow come";

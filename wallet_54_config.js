@@ -1,1 +1,1 @@
-var mnemonic = "erase butter crystal limb track lumber argue wedding pull act dash dust";
+var mnemonic = "rocket garden ability tree total usual upgrade blood initial flavor pepper jungle";

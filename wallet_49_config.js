@@ -1,1 +1,1 @@
-var mnemonic = "run script carry panda stage perfect bomb dust display spot glove amateur";
+var mnemonic = "easy wing mobile roast broccoli high canal latin dial excite display response";

@@ -1,1 +1,1 @@
-var mnemonic = "polar hundred marine return virus leisure deliver guilt order material caution rebuild";
+var mnemonic = "help spider climb pluck day furnace miss valley region object dune also";

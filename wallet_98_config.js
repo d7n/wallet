@@ -1,1 +1,1 @@
-var mnemonic = "stand start chunk enemy copy sting invite city hospital supply weasel hole";
+var mnemonic = "plug please survey anger wheel elegant company car lava foam viable end";

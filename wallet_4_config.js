@@ -1,1 +1,1 @@
-var mnemonic = "belt ordinary pen income ancient before rude face beauty orphan because edit";
+var mnemonic = "sword ten mix syrup cream polar wine ranch cliff victory audit page";

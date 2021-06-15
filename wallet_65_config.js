@@ -1,1 +1,1 @@
-var mnemonic = "dose vacant ordinary entire tackle orient useful ginger magnet deposit correct royal";
+var mnemonic = "tumble harbor box knock flock want also horn galaxy upgrade camera museum";

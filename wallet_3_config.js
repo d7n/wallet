@@ -1,1 +1,1 @@
-var mnemonic = "index bacon exchange rhythm replace rebel once suggest farm army lift bike";
+var mnemonic = "guess napkin section lift carpet negative service artist across doll scan ghost";

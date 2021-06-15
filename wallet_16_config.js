@@ -1,1 +1,1 @@
-var mnemonic = "liberty narrow ghost black catalog outer clinic phone extra pluck exact funny";
+var mnemonic = "amateur rail glare gorilla sleep coffee invite icon deal cactus flock library";

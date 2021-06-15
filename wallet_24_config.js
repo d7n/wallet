@@ -1,1 +1,1 @@
-var mnemonic = "among job flip fiction primary trophy silent jar toss eager glide pulse";
+var mnemonic = "earth exact cake knock moment absorb huge club exotic inflict series father";

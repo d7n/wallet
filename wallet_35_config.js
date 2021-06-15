@@ -1,1 +1,1 @@
-var mnemonic = "river van fantasy hunt robust spy cotton edit derive include shrug neglect";
+var mnemonic = "toe give enter abandon fall sell review left all loop copy delay";

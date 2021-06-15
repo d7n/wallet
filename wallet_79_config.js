@@ -1,1 +1,1 @@
-var mnemonic = "hurry chronic also alien family hungry trip color walnut raise plunge goat";
+var mnemonic = "meat replace effort step saddle water drastic lab drip disease next divide";

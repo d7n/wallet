@@ -1,1 +1,1 @@
-var mnemonic = "home margin candy female visit across alien guard usual delay victory dry";
+var mnemonic = "ill credit give short jar ketchup life recipe margin beauty junior survey";

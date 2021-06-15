@@ -1,1 +1,1 @@
-var mnemonic = "solve nurse width client tribe trade style solution stick weird breeze congress";
+var mnemonic = "before eye rail very stool account pony often rule power vague scissors";

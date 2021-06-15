@@ -1,1 +1,1 @@
-var mnemonic = "noise spoon vast address vintage evolve corn worth mimic base pink enter";
+var mnemonic = "federal repair lock neutral when ahead wave travel spread arrange castle tip";

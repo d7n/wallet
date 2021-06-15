@@ -1,1 +1,1 @@
-var mnemonic = "vacuum invest dash pony grit mixture stage icon drama frost antenna bitter";
+var mnemonic = "assault advice system duty square apart pond drop index item key allow";

@@ -1,1 +1,1 @@
-var mnemonic = "board beauty chicken rather nest away inmate night bread silver season course";
+var mnemonic = "smart citizen north crack fire half deliver cereal clump brother verb vacuum";
