@@ -1,1 +1,1 @@
-var mnemonic = "immune snow tube spirit mother sugar mesh organ peasant element trumpet avocado";
+var mnemonic = "teach recipe prison idea earth vendor stereo skin author other tackle cushion";

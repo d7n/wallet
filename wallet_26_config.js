@@ -1,1 +1,1 @@
-var mnemonic = "tomato multiply device snack find topple nature polar horror begin budget raw";
+var mnemonic = "dynamic assault illegal prize silver phone head label useless rice demand universe";

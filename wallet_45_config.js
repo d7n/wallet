@@ -1,1 +1,1 @@
-var mnemonic = "mutual symbol limit devote royal average coil unit true quiz junior make";
+var mnemonic = "blush result treat endorse daughter picture spoil sand pull wrestle hurry sure";

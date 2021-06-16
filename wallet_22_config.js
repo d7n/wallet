@@ -1,1 +1,1 @@
-var mnemonic = "dumb someone beach where churn success desk curtain write random garment tortoise";
+var mnemonic = "clever youth invite pupil stand kind faint century purse illness laugh possible";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous limb level window option gentle tank evil guilt safe seat false";
+var mnemonic = "addict fine rough wild deliver dice increase hollow electric hold enter error";

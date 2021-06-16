@@ -1,1 +1,1 @@
-var mnemonic = "tip soup since anchor penalty fever approve person describe velvet upon fluid";
+var mnemonic = "enact worry ship lottery runway state scale attract arm key label moment";

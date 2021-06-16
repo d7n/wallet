@@ -1,1 +1,1 @@
-var mnemonic = "scatter phone dizzy render uniform grief couch hand three intact electric twice";
+var mnemonic = "aspect joke spread frown meat intact select elite estate awake few hybrid";

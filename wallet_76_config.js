@@ -1,1 +1,1 @@
-var mnemonic = "desert include slight salute holiday horror below spray boost major auction shoulder";
+var mnemonic = "video sudden idle rack kick water rebel clutch pole ship wool pitch";

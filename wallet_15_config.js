@@ -1,1 +1,1 @@
-var mnemonic = "crazy sustain syrup return borrow scatter talk film middle security soda pencil";
+var mnemonic = "tower skate cloth memory museum town luggage crawl time add corn digital";

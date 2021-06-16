@@ -1,1 +1,1 @@
-var mnemonic = "print carbon culture hospital case report debris chat fold property open assist";
+var mnemonic = "width spread word hub grain multiply scale width knock hill issue climb";

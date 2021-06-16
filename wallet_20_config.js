@@ -1,1 +1,1 @@
-var mnemonic = "duck viable skirt stem you grab text depend matrix basic vocal material";
+var mnemonic = "album public alarm pill chunk apart horn echo total walnut rich measure";

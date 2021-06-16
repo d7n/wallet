@@ -1,1 +1,1 @@
-var mnemonic = "end twice wood express bench bike miracle scare capable afraid visa pyramid";
+var mnemonic = "leopard inform page yard exile mountain lottery between garden pupil spike scout";

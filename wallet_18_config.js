@@ -1,1 +1,1 @@
-var mnemonic = "moment bitter dizzy bulb coral weasel wire acid coin romance vehicle design";
+var mnemonic = "today resource enable field narrow lava owner trial include sister scare struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "start rival hill example behind era ecology sword fall silly ecology vintage";
+var mnemonic = "video weasel observe angle under toilet wave stable involve sentence three clinic";

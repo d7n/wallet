@@ -1,1 +1,1 @@
-var mnemonic = "bid baby wife glory story salt hen must near vendor error until";
+var mnemonic = "tape party family wisdom hazard myth gesture harvest switch hurdle blame window";

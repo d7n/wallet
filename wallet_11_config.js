@@ -1,1 +1,1 @@
-var mnemonic = "media happy valve transfer poverty tongue slide retire fresh social brain panic";
+var mnemonic = "mix jaguar scrap wagon retreat hold sail whale mosquito very camera chest";

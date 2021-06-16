@@ -1,1 +1,1 @@
-var mnemonic = "trim invest ordinary odor glare mesh bottom dish battle popular burden boat";
+var mnemonic = "urban document gas tired asthma film certain betray rocket safe sauce pupil";

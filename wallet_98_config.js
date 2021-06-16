@@ -1,1 +1,1 @@
-var mnemonic = "version energy hair fine dust silk demand cool heart shiver someone beauty";
+var mnemonic = "express flower master solid figure castle sell farm vital bacon conduct page";

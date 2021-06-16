@@ -1,1 +1,1 @@
-var mnemonic = "dream brave gate exercise okay remain pill stable video trigger divide summer";
+var mnemonic = "soft ribbon fish lazy damp media kite aerobic clinic glove health catch";

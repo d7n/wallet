@@ -1,1 +1,1 @@
-var mnemonic = "diagram story crush love rural wear wisdom tenant apart arch since spend";
+var mnemonic = "salad sibling dry stage pudding mean doll fat three force various arch";

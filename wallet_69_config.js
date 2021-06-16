@@ -1,1 +1,1 @@
-var mnemonic = "desk member tape brown enrich knock usage curtain alpha patch sponsor power";
+var mnemonic = "net hockey panther arctic leaf canvas electric arrest weird tornado airport inmate";

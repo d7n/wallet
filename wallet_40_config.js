@@ -1,1 +1,1 @@
-var mnemonic = "pottery else system please rebel position carpet give penalty stool punch before";
+var mnemonic = "pencil labor east subway destroy repair bus gown entire beauty rice fire";

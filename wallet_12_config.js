@@ -1,1 +1,1 @@
-var mnemonic = "error aisle liquid able owner apple excess insane they fat plate unhappy";
+var mnemonic = "clerk useful tissue multiply onion elite south chalk guide another catch ring";

@@ -1,1 +1,1 @@
-var mnemonic = "learn civil amateur carbon exile super monster strong creek cruel elegant auction";
+var mnemonic = "human group yard key disorder prosper accident estate oak board route inflict";

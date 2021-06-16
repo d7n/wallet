@@ -1,1 +1,1 @@
-var mnemonic = "dose country autumn erosion also suggest gentle repair bullet physical immune demand";
+var mnemonic = "symptom ramp develop subject burger receive output rather wink apology neglect artist";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon roof pony cheese network brief elder garage oxygen check damage vivid";
+var mnemonic = "glare kiss amazing rural square add repeat flight grab hunt parrot device";

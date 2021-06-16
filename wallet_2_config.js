@@ -1,1 +1,1 @@
-var mnemonic = "remind debate zero game maximum poverty width appear aerobic gentle indoor glue";
+var mnemonic = "glove bone bean journey scare fetch act museum float project false hire";

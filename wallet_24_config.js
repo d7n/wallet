@@ -1,1 +1,1 @@
-var mnemonic = "wealth evoke aware adult learn seed middle govern olive citizen pumpkin fan";
+var mnemonic = "code receive pig estate reason deny popular rescue blood giggle extend subject";

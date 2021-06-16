@@ -1,1 +1,1 @@
-var mnemonic = "item ozone until flush setup trust divert again snow split sock garage";
+var mnemonic = "burst planet belt derive demand cushion length voice cheese comfort margin camp";

@@ -1,1 +1,1 @@
-var mnemonic = "goat sustain vintage panel stumble broccoli sibling join result found suffer soda";
+var mnemonic = "food rail clay lava raw route park wide soap junk cigar trick";

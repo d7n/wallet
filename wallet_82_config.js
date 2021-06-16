@@ -1,1 +1,1 @@
-var mnemonic = "route letter endorse spend feed pyramid winner kitten gravity letter large road";
+var mnemonic = "sibling pond shy skate pause various put waste sting uniform perfect rabbit";

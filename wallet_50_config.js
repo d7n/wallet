@@ -1,1 +1,1 @@
-var mnemonic = "toe require current debate office trouble private wait tourist meat start region";
+var mnemonic = "health pledge frost addict hire child reopen mom street olympic obvious pyramid";

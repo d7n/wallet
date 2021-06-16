@@ -1,1 +1,1 @@
-var mnemonic = "pull income robust figure science fine airport buddy fiscal razor pumpkin bacon";
+var mnemonic = "check kiss gym recipe crucial crowd force metal robot dilemma sail exotic";

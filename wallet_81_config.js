@@ -1,1 +1,1 @@
-var mnemonic = "puzzle inside bridge glory hill tissue grant cage grunt response vicious disease";
+var mnemonic = "render tip wise dress degree nut pencil wasp vicious brass oven jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "assist gallery parade check uncle century spoil slide boil civil sister remain";
+var mnemonic = "tourist trip boring filter nurse cricket analyst turtle bind february ladder appear";

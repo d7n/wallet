@@ -1,1 +1,1 @@
-var mnemonic = "canyon surround snap steak wage crunch enlist sketch air chimney noise girl";
+var mnemonic = "guitar minimum service cradle absorb stumble network olive alone hood violin tobacco";

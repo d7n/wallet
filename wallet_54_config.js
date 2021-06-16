@@ -1,1 +1,1 @@
-var mnemonic = "remain spoil day review cigar teach minor between captain thunder refuse cause";
+var mnemonic = "leaf grid people orange island library peace capital license penalty salad life";

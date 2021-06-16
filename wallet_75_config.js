@@ -1,1 +1,1 @@
-var mnemonic = "door cannon soup lamp hammer salute sign inform job decade decrease car";
+var mnemonic = "wagon mind denial gloom nurse civil indicate hover guard provide gesture spring";

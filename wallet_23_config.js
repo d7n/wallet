@@ -1,1 +1,1 @@
-var mnemonic = "rubber crucial tooth fine cruel boss order group crane category exclude record";
+var mnemonic = "lamp enact engine insane style cry fat front access crunch repeat fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "survey shaft napkin adapt type pride caution script work raccoon maid network";
+var mnemonic = "tired lab nominee pioneer clump brain another wink wide cabbage dismiss wait";

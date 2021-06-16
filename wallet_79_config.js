@@ -1,1 +1,1 @@
-var mnemonic = "suffer cage layer run card vibrant birth luxury deal confirm silk shell";
+var mnemonic = "tool solution soldier vapor pond mercy today deny nuclear arctic bamboo boss";

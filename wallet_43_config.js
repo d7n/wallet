@@ -1,1 +1,1 @@
-var mnemonic = "stove armor lonely miracle sleep siren forget ethics harbor round chest balcony";
+var mnemonic = "board point actress neglect urban fame kit adapt cluster weird extra soccer";

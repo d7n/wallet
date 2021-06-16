@@ -1,1 +1,1 @@
-var mnemonic = "force file resist sadness bronze venue husband maximum real refuse welcome capable";
+var mnemonic = "wood share bamboo ski frame improve digital abstract crack front produce match";

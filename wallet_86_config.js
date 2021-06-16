@@ -1,1 +1,1 @@
-var mnemonic = "pluck title embrace polar cover enemy museum output exercise erupt screen art";
+var mnemonic = "column envelope average text odor move devote early palace crumble muffin loud";

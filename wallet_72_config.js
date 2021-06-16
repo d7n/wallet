@@ -1,1 +1,1 @@
-var mnemonic = "odor fitness bachelor uncover toddler come appear act supply monitor fiber debris";
+var mnemonic = "core hair fan rely fan own original master license actor whisper flower";

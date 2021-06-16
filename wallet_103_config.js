@@ -1,1 +1,1 @@
-var mnemonic = "cross various filter hobby naive poverty mix civil ozone tissue bounce rigid";
+var mnemonic = "drum nephew excuse tattoo brick castle pulse noodle pave nominee cute second";

@@ -1,1 +1,1 @@
-var mnemonic = "index movie act tribe wage ignore limit dutch buzz endorse salad few";
+var mnemonic = "agree vital make demand narrow gospel frozen tooth slush country member green";

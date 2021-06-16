@@ -1,1 +1,1 @@
-var mnemonic = "limb gallery frequent bargain fury silly rookie light unfair error hat shrimp";
+var mnemonic = "moment wreck element much any segment uphold upon mean undo rack citizen";

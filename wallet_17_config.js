@@ -1,1 +1,1 @@
-var mnemonic = "episode annual vocal vehicle tribe wrist crush pause dog canvas taxi silk";
+var mnemonic = "width draft direct wisdom chapter address wink burst journey convince arrange year";

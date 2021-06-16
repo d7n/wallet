@@ -1,1 +1,1 @@
-var mnemonic = "actual layer dragon thought dawn useful old robot orange normal steak deal";
+var mnemonic = "slab clay drama spike evidence visa require juice glory horse toward round";

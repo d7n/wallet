@@ -1,1 +1,1 @@
-var mnemonic = "vacant solve math square release blood novel cruel entry faith easily film";
+var mnemonic = "turtle lens lunar swap exhibit marble stand gold hurdle oak bargain hover";

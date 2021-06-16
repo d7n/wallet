@@ -1,1 +1,1 @@
-var mnemonic = "scorpion solve swear day try brand boat magnet bicycle rotate joke hood";
+var mnemonic = "inform memory behind visit lyrics club abuse goose palace live task element";

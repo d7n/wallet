@@ -1,1 +1,1 @@
-var mnemonic = "youth bus embark arctic sauce rib cliff flock race inject sponsor transfer";
+var mnemonic = "lounge mutual diet worth resemble neither company hazard tail three coast pink";

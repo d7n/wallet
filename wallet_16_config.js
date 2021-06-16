@@ -1,1 +1,1 @@
-var mnemonic = "leopard web three ginger tortoise crouch square soda pony economy science blade";
+var mnemonic = "flame castle black roof magnet payment depart riot tone reunion fish outer";

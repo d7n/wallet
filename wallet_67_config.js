@@ -1,1 +1,1 @@
-var mnemonic = "decade only second mix trash venture drink middle hope polar fitness retire";
+var mnemonic = "jump duck rookie now east tuna garage erosion country parent lend purchase";

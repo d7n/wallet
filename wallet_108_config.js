@@ -1,1 +1,1 @@
-var mnemonic = "welcome unaware hammer donate infant neither punch penalty ignore urge balcony harvest";
+var mnemonic = "still host pepper disorder cry please decorate country tired apart okay crack";

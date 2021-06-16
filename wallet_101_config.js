@@ -1,1 +1,1 @@
-var mnemonic = "region poet impact clip day awesome orchard vital often pact light traffic";
+var mnemonic = "any soda device focus elevator public warm spread unique balance van little";

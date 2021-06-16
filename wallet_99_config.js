@@ -1,1 +1,1 @@
-var mnemonic = "hammer blossom reason flee jacket detect over town mammal over cruise mesh";
+var mnemonic = "rice west island mind toward general crime neither sister now rude market";

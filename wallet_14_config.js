@@ -1,1 +1,1 @@
-var mnemonic = "refuse badge claw shiver husband aim whip want summer hire ignore section";
+var mnemonic = "blouse accident lawsuit lift human match alley mammal person marine fringe six";

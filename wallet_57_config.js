@@ -1,1 +1,1 @@
-var mnemonic = "echo order curious review ask talent scale helmet practice section primary require";
+var mnemonic = "gain sweet vessel wedding mechanic brush cloud kiwi midnight melt echo jump";

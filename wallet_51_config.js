@@ -1,1 +1,1 @@
-var mnemonic = "piano grid spy sweet cash sure name chef term burger city assist";
+var mnemonic = "tool uniform age seek burger version chuckle measure avoid group follow lake";

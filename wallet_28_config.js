@@ -1,1 +1,1 @@
-var mnemonic = "image circle vivid slab plate picnic teach robot injury analyst enroll pelican";
+var mnemonic = "shy average bread impose decide congress double push ocean brother document festival";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel device frequent pioneer own actor absent dignity genius average chaos truth";
+var mnemonic = "adapt input feature worth duty marriage loud goddess funny silent wish curve";

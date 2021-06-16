@@ -1,1 +1,1 @@
-var mnemonic = "repair bread switch merry sunset nuclear identify when key west lobster spatial";
+var mnemonic = "crane whale hammer arrow broom trim only disagree mercy anxiety ask hen";

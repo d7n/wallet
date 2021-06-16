@@ -1,1 +1,1 @@
-var mnemonic = "teach disease board want ladder want describe cram debate pilot caution clog";
+var mnemonic = "remove culture dolphin flip equip virus guide shell arch tennis argue ancient";

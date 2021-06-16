@@ -1,1 +1,1 @@
-var mnemonic = "width window chair direct emerge salad pet glare dolphin wrap subject cream";
+var mnemonic = "promote prosper old what film away pilot inject nice cousin manual casino";

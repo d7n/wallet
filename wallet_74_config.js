@@ -1,1 +1,1 @@
-var mnemonic = "more curve ginger early buyer slab confirm grid sleep right envelope come";
+var mnemonic = "worth crime shop cable day panther fruit spirit lens voyage prepare nothing";

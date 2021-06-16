@@ -1,1 +1,1 @@
-var mnemonic = "advance alien clap mix depth coconut follow lamp cake pig health room";
+var mnemonic = "rack saddle purchase crane swarm analyst bread eyebrow notice govern chalk capable";

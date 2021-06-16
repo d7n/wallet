@@ -1,1 +1,1 @@
-var mnemonic = "sugar wood distance head asthma gorilla oyster fashion ranch run bounce adjust";
+var mnemonic = "grit peace patrol relax master tackle arrow mouse eager scissors speed laundry";

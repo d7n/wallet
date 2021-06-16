@@ -1,1 +1,1 @@
-var mnemonic = "burst rack pledge tooth fork you uncle mixture piano glow rich share";
+var mnemonic = "try boring cluster satisfy famous tonight impact exile sign squeeze finish blue";

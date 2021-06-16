@@ -1,1 +1,1 @@
-var mnemonic = "since envelope theory curtain winter trim song immense segment pole square fresh";
+var mnemonic = "retire orange tiger baby drama grow wagon banana pride local hold attract";

@@ -1,1 +1,1 @@
-var mnemonic = "year million replace move worth badge update brick hungry caution hire lizard";
+var mnemonic = "inquiry robot clutch demise survey panic clean zebra oval current guard mother";

@@ -1,1 +1,1 @@
-var mnemonic = "help spell gravity option lumber where invest blouse media melt belt subway";
+var mnemonic = "fatal game grief novel elbow solid genre spring student polar scare clip";

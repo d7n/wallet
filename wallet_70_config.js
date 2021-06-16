@@ -1,1 +1,1 @@
-var mnemonic = "copy zero wide bachelor explain hire hurry order faith special brown what";
+var mnemonic = "daring split uncover subject burden detect turtle bulk luxury goddess lion filter";

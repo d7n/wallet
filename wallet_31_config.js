@@ -1,1 +1,1 @@
-var mnemonic = "action atom oil arm follow ensure cluster kite join please off river";
+var mnemonic = "brass space aware burst message asset essence valid measure scene exit garment";

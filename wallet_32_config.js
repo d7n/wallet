@@ -1,1 +1,1 @@
-var mnemonic = "omit vendor retire fantasy verify fault flash spot spring acoustic gravity cup";
+var mnemonic = "obvious either adjust hire pause slice wolf boss catalog honey rude north";

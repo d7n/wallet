@@ -1,1 +1,1 @@
-var mnemonic = "ability spider lobster bottom funny auction bone female invite dry shiver use";
+var mnemonic = "figure cook rigid draft road alpha velvet choose unable metal charge trophy";

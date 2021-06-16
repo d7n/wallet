@@ -1,1 +1,1 @@
-var mnemonic = "scan denial rare peanut angry episode deal quit oppose need enforce pupil";
+var mnemonic = "second drift tape often equip pill lab bag van have problem inflict";

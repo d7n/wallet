@@ -1,1 +1,1 @@
-var mnemonic = "luxury assault logic below make mechanic joke car legal path coral ritual";
+var mnemonic = "traffic scissors unable edge advance spray decline photo shove wasp truly output";

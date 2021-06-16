@@ -1,1 +1,1 @@
-var mnemonic = "helmet secret focus cotton curtain tail safe struggle fatal practice gown exist";
+var mnemonic = "burger much news kingdom enforce zoo camp fork wealth gossip cabbage pink";

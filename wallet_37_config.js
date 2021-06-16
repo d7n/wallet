@@ -1,1 +1,1 @@
-var mnemonic = "sunny siren figure kitchen bitter addict shadow blue crew accuse shiver abuse";
+var mnemonic = "normal permit drink pilot over material police fresh smooth crawl beach sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle submit merit mean rookie prevent fever flush bachelor bubble pave until";
+var mnemonic = "vault merge rate monster recipe acoustic shock subject elder civil scrap basic";

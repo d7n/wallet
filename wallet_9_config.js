@@ -1,1 +1,1 @@
-var mnemonic = "inner bulk pencil mirror monster second bleak body shed fatal town dash";
+var mnemonic = "inspire more door brother crawl range maximum spice pilot foil ketchup network";

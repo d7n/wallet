@@ -1,1 +1,1 @@
-var mnemonic = "this shuffle sheriff client venue live elegant kick goat oak coach embark";
+var mnemonic = "pumpkin wisdom worth you around brick tattoo hawk lawsuit cross wash reward";

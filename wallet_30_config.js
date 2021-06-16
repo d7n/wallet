@@ -1,1 +1,1 @@
-var mnemonic = "pole lucky recipe tank gift hand marine miss cash prefer derive capital";
+var mnemonic = "pear off clay company until slush memory flag like hero fan artwork";

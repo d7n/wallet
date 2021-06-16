@@ -1,1 +1,1 @@
-var mnemonic = "click arrest frog husband barely web air rural manual safe brother guard";
+var mnemonic = "mass sail scorpion lamp alone just opinion about spice enrich focus pigeon";

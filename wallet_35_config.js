@@ -1,1 +1,1 @@
-var mnemonic = "eight diamond symbol friend husband cluster blanket depth swap ice trial wealth";
+var mnemonic = "dilemma wheel wealth aware tackle range oil focus proof gun multiply oil";

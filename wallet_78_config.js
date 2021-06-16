@@ -1,1 +1,1 @@
-var mnemonic = "siege merit useful advance safe call school announce fat weather draw proof";
+var mnemonic = "crop crater cabbage tonight fix seed offer cradle love that message day";

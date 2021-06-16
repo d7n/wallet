@@ -1,1 +1,1 @@
-var mnemonic = "card pear uncover random glad mother horror barely oyster sing window circle";
+var mnemonic = "vessel eagle idle trophy pool group orient dose spider film garment isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "abuse lemon record cake hand various mirror gesture cream pizza gold area";
+var mnemonic = "hill demise record verify cabbage ticket famous include demise puzzle nice safe";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth ozone swing banana thought mom dust winner leave lumber trumpet soda";
+var mnemonic = "grant project entire visual gate praise inch orient travel wife favorite demise";

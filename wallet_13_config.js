@@ -1,1 +1,1 @@
-var mnemonic = "lounge area poem panda pole group topic virus term toilet maple bounce";
+var mnemonic = "elbow chest gauge scale idle devote tilt tonight invest hover veteran october";

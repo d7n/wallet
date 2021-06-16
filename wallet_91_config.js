@@ -1,1 +1,1 @@
-var mnemonic = "proof crush donkey conduct useless flash federal hospital limit swing will option";
+var mnemonic = "zero salon normal insect mouse hollow warm priority fuel soda hard clerk";

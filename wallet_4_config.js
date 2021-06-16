@@ -1,1 +1,1 @@
-var mnemonic = "loud swing agree orient cabbage gesture attack gather ticket adjust senior maximum";
+var mnemonic = "tobacco history avoid mad recycle play wear lawsuit truly advance afford desk";

@@ -1,1 +1,1 @@
-var mnemonic = "ensure weasel fog embrace parent rose ability home nephew honey evolve hockey";
+var mnemonic = "hen razor toy present client disagree bullet family april elegant stove evoke";
