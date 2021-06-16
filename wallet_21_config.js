@@ -1,1 +1,1 @@
-var mnemonic = "dismiss voyage twice dinosaur ugly helmet entire bike start danger mushroom grant";
+var mnemonic = "shed acoustic hat coach dawn clerk amateur extra ticket twist slogan young";

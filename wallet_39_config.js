@@ -1,1 +1,1 @@
-var mnemonic = "test task own fatal cliff bubble tired column neck hip siege refuse";
+var mnemonic = "movie garden program safe celery enough trouble fault dinner shoot vital vintage";

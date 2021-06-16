@@ -1,1 +1,1 @@
-var mnemonic = "dash ribbon hungry vicious call reason buzz raise know quantum hobby rebuild";
+var mnemonic = "capital asset false degree oblige cupboard reflect refuse connect ranch patrol simple";

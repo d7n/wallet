@@ -1,1 +1,1 @@
-var mnemonic = "movie lunch room describe can minor exact damp clay cattle left thumb";
+var mnemonic = "someone empty liquid repeat solve absorb wolf idea warrior lift frozen aunt";

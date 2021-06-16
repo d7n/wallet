@@ -1,1 +1,1 @@
-var mnemonic = "option hunt south resist maximum rabbit satoshi small credit life concert twice";
+var mnemonic = "machine age only keen neutral wealth index heavy shine brass sudden narrow";

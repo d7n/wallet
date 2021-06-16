@@ -1,1 +1,1 @@
-var mnemonic = "anchor clerk animal common renew begin fashion expect mountain under error across";
+var mnemonic = "erupt fuel excite attend snow company dust orphan donkey armed sponsor fit";

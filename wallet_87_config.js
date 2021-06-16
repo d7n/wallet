@@ -1,1 +1,1 @@
-var mnemonic = "impose venture scatter toward dentist away addict era ankle error thought laptop";
+var mnemonic = "glue mistake giggle paddle luxury broom around pepper aunt syrup step toe";

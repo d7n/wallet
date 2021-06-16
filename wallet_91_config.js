@@ -1,1 +1,1 @@
-var mnemonic = "image bless artist matrix air speed elevator invite whip fever domain swear";
+var mnemonic = "focus work hen kangaroo air rail add april lemon time denial brush";

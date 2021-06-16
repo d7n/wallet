@@ -1,1 +1,1 @@
-var mnemonic = "apart tobacco twist bike route alcohol ladder kitten road produce doctor charge";
+var mnemonic = "scene core clutch fortune common coral problem general dose logic brush hurdle";

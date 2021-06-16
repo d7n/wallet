@@ -1,1 +1,1 @@
-var mnemonic = "call answer favorite inhale bullet promote shed undo push smooth scorpion pool";
+var mnemonic = "melt tornado vacant capital traffic bus viable three vintage during thrive invite";

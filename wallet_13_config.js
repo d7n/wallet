@@ -1,1 +1,1 @@
-var mnemonic = "surprise universe arrange robust bracket bleak jump stem night pool net bicycle";
+var mnemonic = "small mesh click relief outside drama inch swamp frozen race eager trim";

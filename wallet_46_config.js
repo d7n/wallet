@@ -1,1 +1,1 @@
-var mnemonic = "crouch welcome above sort finger cover civil fence police creek divide era";
+var mnemonic = "sketch polar proud risk tuna tragic october gold twelve radar zone life";

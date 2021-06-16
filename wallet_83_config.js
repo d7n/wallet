@@ -1,1 +1,1 @@
-var mnemonic = "still civil jacket option cabin unusual sentence enforce federal general teach undo";
+var mnemonic = "tornado moon another wait rough glow matter phone rebel depth toward wash";

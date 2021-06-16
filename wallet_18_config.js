@@ -1,1 +1,1 @@
-var mnemonic = "crazy kitchen fuel system orient love limit drink aspect post reward peace";
+var mnemonic = "helmet medal release video crime dignity casino tent glow summer cluster title";

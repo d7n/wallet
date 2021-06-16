@@ -1,1 +1,1 @@
-var mnemonic = "tilt ski slam gossip master joy loop mechanic drink frequent margin multiply";
+var mnemonic = "student idea borrow race someone garden situate news climb zebra review practice";

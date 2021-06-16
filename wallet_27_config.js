@@ -1,1 +1,1 @@
-var mnemonic = "law report alley six flip oppose spatial wire hip spend blanket label";
+var mnemonic = "remove warfare shoulder hello embark sight interest doll reason alley stumble review";

@@ -1,1 +1,1 @@
-var mnemonic = "eye return april focus blouse hawk boy awkward wheat ceiling close silk";
+var mnemonic = "radar spoon chimney visual enter report exhibit seat cargo trophy address usage";

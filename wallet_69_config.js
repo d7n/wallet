@@ -1,1 +1,1 @@
-var mnemonic = "since cloud dirt horror neither wall cargo odor runway medal empty gasp";
+var mnemonic = "coil repeat improve profit scan close flight wing oven vocal swallow cave";

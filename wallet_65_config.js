@@ -1,1 +1,1 @@
-var mnemonic = "antenna pelican throw library mountain phone trash cannon abuse sniff fish night";
+var mnemonic = "genuine clown impulse young name mouse photo antique step text auction atom";

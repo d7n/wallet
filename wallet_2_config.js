@@ -1,1 +1,1 @@
-var mnemonic = "salt candy slide just soft assist exit amateur tragic just oblige minimum";
+var mnemonic = "traffic regret bunker tray cloth short stadium load vacant weird twist crumble";

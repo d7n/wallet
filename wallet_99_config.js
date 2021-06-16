@@ -1,1 +1,1 @@
-var mnemonic = "night leg degree object raven dog cable broccoli essence empty sustain jar";
+var mnemonic = "defense picture battle acquire gravity appear abstract boy melt proud burger success";

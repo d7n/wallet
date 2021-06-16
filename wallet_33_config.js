@@ -1,1 +1,1 @@
-var mnemonic = "buddy bunker still ball pioneer shadow phone initial kidney truly split together";
+var mnemonic = "sister frozen print render mixture derive year sphere culture minor strike snap";

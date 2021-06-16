@@ -1,1 +1,1 @@
-var mnemonic = "coyote apart stick domain favorite castle marriage vague dragon tumble shiver rough";
+var mnemonic = "fork island nose mixed noise neither nature moon buffalo guide fatal weird";

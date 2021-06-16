@@ -1,1 +1,1 @@
-var mnemonic = "creek toy enlist large way cake warrior sort aim celery future century";
+var mnemonic = "whip middle example demise nuclear transfer romance piano wood mushroom word sad";

@@ -1,1 +1,1 @@
-var mnemonic = "egg pass certain suit cry diagram smoke smooth kangaroo apology injury advice";
+var mnemonic = "crash dad learn void claw kit silver aim split analyst tape program";

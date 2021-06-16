@@ -1,1 +1,1 @@
-var mnemonic = "story minimum purchase long surface cabbage quantum spirit define globe tilt access";
+var mnemonic = "step vessel around junk forget wave art dutch awesome attract enlist liar";

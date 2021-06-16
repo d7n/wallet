@@ -1,1 +1,1 @@
-var mnemonic = "trade zebra hybrid interest seek share eight produce decade punch ivory genre";
+var mnemonic = "right noble small boss emotion gas maid physical remember stadium robot cash";

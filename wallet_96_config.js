@@ -1,1 +1,1 @@
-var mnemonic = "gaze design thought empty imitate luggage meadow base swarm core quiz payment";
+var mnemonic = "orange satisfy stem zero balcony delay sibling flush neutral robot gain denial";

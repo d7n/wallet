@@ -1,1 +1,1 @@
-var mnemonic = "across noise harvest buddy soon deny proof away capable rotate fiber combine";
+var mnemonic = "judge once chest vote episode slot square hurdle breeze pilot option net";

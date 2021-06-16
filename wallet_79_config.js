@@ -1,1 +1,1 @@
-var mnemonic = "hawk observe master bonus smart resemble shaft omit dinner biology domain december";
+var mnemonic = "cat scare crowd veteran scrap bounce market poverty chef vast income sight";

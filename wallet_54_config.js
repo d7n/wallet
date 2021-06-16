@@ -1,1 +1,1 @@
-var mnemonic = "use bread detect kick soup injury napkin system walnut ghost enemy cave";
+var mnemonic = "grid error once electric tortoise tomorrow alpha resist unfair aim crater state";

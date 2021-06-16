@@ -1,1 +1,1 @@
-var mnemonic = "rude curtain cherry pelican world column patient alley piece shallow visa weekend";
+var mnemonic = "ethics ill patrol dynamic sound frown message hub denial major spatial original";

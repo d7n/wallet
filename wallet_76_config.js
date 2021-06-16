@@ -1,1 +1,1 @@
-var mnemonic = "use humor brain project miracle skull click struggle hair palm search federal";
+var mnemonic = "bird soldier album assume friend smart envelope bright bounce tone grid someone";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage settle smile sentence tuna ranch comic warfare ordinary chest before early";
+var mnemonic = "woman help defense hazard royal endless panda stand avoid domain pair level";

@@ -1,1 +1,1 @@
-var mnemonic = "peace boat flower satoshi jelly breeze debate frost scrap derive abstract shiver";
+var mnemonic = "urge artwork later elder boat ramp journey borrow museum title dove swap";

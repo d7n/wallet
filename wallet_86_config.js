@@ -1,1 +1,1 @@
-var mnemonic = "spirit violin trap electric valid nasty post roof embrace gasp toward family";
+var mnemonic = "echo piece nature first taste absurd cost fresh battle know number slight";

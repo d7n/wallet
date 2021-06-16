@@ -1,1 +1,1 @@
-var mnemonic = "coral broken appear file beauty various sentence seat organ valve pizza skull";
+var mnemonic = "thunder wise garden slam crucial umbrella zebra kitchen smart cart trash wasp";

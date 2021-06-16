@@ -1,1 +1,1 @@
-var mnemonic = "bleak profit spike real taste yard engine weapon elegant another jungle below";
+var mnemonic = "disagree summer draw emotion garage witness hedgehog message fish rookie reform attack";

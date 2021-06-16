@@ -1,1 +1,1 @@
-var mnemonic = "forget claim merry connect tongue boost cousin alert save shadow sail roof";
+var mnemonic = "lottery female elevator fitness only song assume quality diesel barely weather wreck";

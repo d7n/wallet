@@ -1,1 +1,1 @@
-var mnemonic = "sense birth enrich move light duck detail law bean inflict wave all";
+var mnemonic = "access half person cart ozone select rigid average path relief bread involve";

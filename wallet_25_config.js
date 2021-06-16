@@ -1,1 +1,1 @@
-var mnemonic = "morning shove tissue senior steak motion ensure drip dune drive bunker develop";
+var mnemonic = "flat awful myself group liberty sound person attitude audit hard other mom";

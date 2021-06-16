@@ -1,1 +1,1 @@
-var mnemonic = "best series fantasy chapter true sea gym transfer popular boat oxygen soft";
+var mnemonic = "food blouse amount text decorate group scout order merry uncover civil tobacco";

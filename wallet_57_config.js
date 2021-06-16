@@ -1,1 +1,1 @@
-var mnemonic = "turtle basket rail naive family method ill outer today search setup cruise";
+var mnemonic = "coyote capable brand stamp urge they cream expose almost miss genre program";

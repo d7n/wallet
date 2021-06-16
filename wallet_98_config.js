@@ -1,1 +1,1 @@
-var mnemonic = "nest warm antenna bridge protect discover powder ensure mail tuna blanket avoid";
+var mnemonic = "brave atom cry shield cattle bargain then marine wave gas popular pen";

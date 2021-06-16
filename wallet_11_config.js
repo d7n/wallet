@@ -1,1 +1,1 @@
-var mnemonic = "copy confirm away few scale move cactus gadget act caught coin protect";
+var mnemonic = "section shuffle item news fun almost check script apple bundle lizard alpha";

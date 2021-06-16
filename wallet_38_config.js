@@ -1,1 +1,1 @@
-var mnemonic = "useful antique tower domain panther stage phone embody reject repeat under inspire";
+var mnemonic = "clay virtual jungle blush tower key predict side inside enough mass gift";

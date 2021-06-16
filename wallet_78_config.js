@@ -1,1 +1,1 @@
-var mnemonic = "middle pool glass lock jelly garbage file boil lonely potato loud small";
+var mnemonic = "sting pull antenna clarify black insect rack life kitchen around burden drink";

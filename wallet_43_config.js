@@ -1,1 +1,1 @@
-var mnemonic = "dynamic twist soup vocal soap fortune okay must hockey pride spawn nut";
+var mnemonic = "assist symbol dinner fall culture ancient auction focus identify city title lazy";

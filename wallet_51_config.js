@@ -1,1 +1,1 @@
-var mnemonic = "joy grid melody width gap amused duty exercise short lion initial jelly";
+var mnemonic = "push mesh ripple useful engage false match mask spike square dust zero";

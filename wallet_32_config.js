@@ -1,1 +1,1 @@
-var mnemonic = "alcohol embrace glass phrase coach zero nest major wall adult distance evidence";
+var mnemonic = "corn squirrel lounge hen claw side eager require sign museum path street";

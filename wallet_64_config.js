@@ -1,1 +1,1 @@
-var mnemonic = "dance asset suit already muscle knee fit rough bean fabric govern setup";
+var mnemonic = "raccoon scissors cry gesture scrub sting second seat mushroom impose put bird";

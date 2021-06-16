@@ -1,1 +1,1 @@
-var mnemonic = "minimum bounce west soap suit peasant gentle mercy caught disagree funny reward";
+var mnemonic = "train evidence gentle dream black borrow inquiry next stairs thrive camera hurry";

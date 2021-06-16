@@ -1,1 +1,1 @@
-var mnemonic = "parade box else left cage concert october loan hazard flash arrive utility";
+var mnemonic = "empty narrow lesson coast mind forget rain abuse season pulse panel net";

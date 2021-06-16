@@ -1,1 +1,1 @@
-var mnemonic = "hard left flush coil maid indicate misery relax inmate pull mechanic solution";
+var mnemonic = "dress define trade cable suspect order nasty shell velvet morning oblige shield";

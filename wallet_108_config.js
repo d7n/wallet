@@ -1,1 +1,1 @@
-var mnemonic = "swing benefit happy addict receive bulb weekend bamboo tired own venue twist";
+var mnemonic = "possible upset trick they glory movie fringe knife bronze napkin ordinary fix";

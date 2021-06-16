@@ -1,1 +1,1 @@
-var mnemonic = "fiscal spend embrace write tent spatial document rural cool venture damage submit";
+var mnemonic = "similar width moon chimney water cereal enroll victory mention tool link grow";

@@ -1,1 +1,1 @@
-var mnemonic = "laptop combine sail antenna cart erosion stone engine loan law lyrics elegant";
+var mnemonic = "umbrella lawsuit fuel awful list melt palm average disagree cycle congress illegal";

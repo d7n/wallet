@@ -1,1 +1,1 @@
-var mnemonic = "grunt chief furnace hunt domain churn parent depend regular atom moon snap";
+var mnemonic = "garment hospital engage tone floor shoe merge must cheese dial must satisfy";

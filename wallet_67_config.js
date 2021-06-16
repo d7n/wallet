@@ -1,1 +1,1 @@
-var mnemonic = "tuition more electric sample junk nice alone clarify buyer they inherit quality";
+var mnemonic = "arch shuffle solution plunge emerge wife gospel expose lonely danger traffic minute";

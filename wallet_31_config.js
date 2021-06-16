@@ -1,1 +1,1 @@
-var mnemonic = "view slide romance arrange trade method project clerk render when exotic govern";
+var mnemonic = "flag meadow unit clog web winner park pact upgrade cube brick gasp";

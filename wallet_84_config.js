@@ -1,1 +1,1 @@
-var mnemonic = "aisle annual wool stock drip earth click define arrest crane farm custom";
+var mnemonic = "wild spatial hard mirror foster provide panic common winter prefer staff dice";

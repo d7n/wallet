@@ -1,1 +1,1 @@
-var mnemonic = "fall destroy violin inmate sketch ostrich real topic clip shrimp cute clip";
+var mnemonic = "right idea below theory frog smart vivid come order champion forum exercise";

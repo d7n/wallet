@@ -1,1 +1,1 @@
-var mnemonic = "siren hard fiscal razor undo guilt ring ring winner resource rain effort";
+var mnemonic = "symbol change slush rebuild hungry diary wagon steak traffic elegant annual spirit";

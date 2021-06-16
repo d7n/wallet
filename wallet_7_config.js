@@ -1,1 +1,1 @@
-var mnemonic = "forget subject elite exit someone shoe wife fatal palm sea satisfy reward";
+var mnemonic = "peanut six beyond inquiry dune witness curve clock narrow pill artwork tribe";

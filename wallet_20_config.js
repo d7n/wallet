@@ -1,1 +1,1 @@
-var mnemonic = "library planet valid black leave tribe census isolate unveil short way slogan";
+var mnemonic = "diagram develop oppose universe trash border educate shy cabin intact educate fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "fold color load pink volcano bleak blossom essay eagle witness atom spawn";
+var mnemonic = "ready index rug suit vacuum announce place dwarf drink arena own twelve";

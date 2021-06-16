@@ -1,1 +1,1 @@
-var mnemonic = "wisdom panel creek oxygen youth cause utility decrease wrestle camera fluid sphere";
+var mnemonic = "clinic junior earth simple lonely bulk provide worry bring disorder fiber belt";

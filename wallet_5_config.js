@@ -1,1 +1,1 @@
-var mnemonic = "survey slide emerge pool slender meat great excite calm satoshi cable wall";
+var mnemonic = "maple web amount enable connect flame change add seek tank potato stove";

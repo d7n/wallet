@@ -1,1 +1,1 @@
-var mnemonic = "swear able sphere fossil bullet predict birth draft situate legal misery huge";
+var mnemonic = "entry manual neck pigeon weather author excess route beauty suggest unveil valid";

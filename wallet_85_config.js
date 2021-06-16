@@ -1,1 +1,1 @@
-var mnemonic = "wool scare until join worth average live host goose response fall raven";
+var mnemonic = "error organ faculty hire nut track black special social sun tooth next";

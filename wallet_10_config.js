@@ -1,1 +1,1 @@
-var mnemonic = "media sport length twin erode glad school swamp elite gesture chef flock";
+var mnemonic = "upgrade exact silent possible oval chunk fix monitor demand broccoli meat smart";

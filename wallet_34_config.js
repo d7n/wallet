@@ -1,1 +1,1 @@
-var mnemonic = "tent drastic modify milk steel biology project scare doll tent blind risk";
+var mnemonic = "dust ten win boy safe there foam wink fresh bus team spell";

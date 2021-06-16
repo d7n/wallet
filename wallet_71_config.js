@@ -1,1 +1,1 @@
-var mnemonic = "tornado desert tired enough omit upgrade meadow behind film equip thrive stem";
+var mnemonic = "diesel pave flower tree double card aunt danger love burden pigeon bacon";

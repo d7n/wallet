@@ -1,1 +1,1 @@
-var mnemonic = "bench enter stumble index mixed extend shrug rough follow release fossil net";
+var mnemonic = "recall liquid vapor breeze course child float avoid element card cup equip";

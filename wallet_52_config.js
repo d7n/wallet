@@ -1,1 +1,1 @@
-var mnemonic = "obvious slight sketch maid uncle wish curtain pride artefact confirm old order";
+var mnemonic = "chaos symbol shallow figure claw cousin rough swear screen volcano vast moon";

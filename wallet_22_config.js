@@ -1,1 +1,1 @@
-var mnemonic = "genre tag jealous ceiling notable obey jelly drill profit kiwi anger record";
+var mnemonic = "until autumn maximum clump disagree second toss glass stuff absurd wreck outside";

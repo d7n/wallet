@@ -1,1 +1,1 @@
-var mnemonic = "truth copper snack power flock move moral worth remain steel equip perfect";
+var mnemonic = "credit puzzle today vibrant ensure bacon deliver cat cook lake angle urge";

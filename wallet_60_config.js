@@ -1,1 +1,1 @@
-var mnemonic = "country photo price blush misery left critic illegal volume gap south pepper";
+var mnemonic = "kit umbrella lamp purchase subject play slot brush sell pause put exercise";

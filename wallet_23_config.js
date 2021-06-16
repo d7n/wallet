@@ -1,1 +1,1 @@
-var mnemonic = "treat sister swallow gossip fatigue amateur input case small sort baby gravity";
+var mnemonic = "loop hunt estate push property crime brisk label earn oyster provide panther";

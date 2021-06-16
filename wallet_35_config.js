@@ -1,1 +1,1 @@
-var mnemonic = "brief print pony problem video inmate repair tennis wash fade champion pulp";
+var mnemonic = "sand tail fix offer foil south base share left rally fall also";

@@ -1,1 +1,1 @@
-var mnemonic = "task club yellow air run begin protect scan quote step silly salute";
+var mnemonic = "beef wall one barrel they manage crime script outer nasty way decide";

@@ -1,1 +1,1 @@
-var mnemonic = "chief radar duty joy route advance define evolve lamp glide neutral tower";
+var mnemonic = "shop word stick bottom trash slogan defy trend purse soda often talk";

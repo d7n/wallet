@@ -1,1 +1,1 @@
-var mnemonic = "candy shock rent radar coconut midnight member crawl ordinary lizard park other";
+var mnemonic = "foster peanut noble only practice give achieve scan feature bike sugar kingdom";

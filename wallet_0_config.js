@@ -1,1 +1,1 @@
-var mnemonic = "pride work someone idle lazy feature inquiry cargo health snack frog express";
+var mnemonic = "evoke hard kingdom car flock winner asthma theory panel erupt quote pond";

@@ -1,1 +1,1 @@
-var mnemonic = "museum powder keen kitchen curve avoid jelly square melody battle video below";
+var mnemonic = "inspire ship legend frog buddy update toe cloth behave caution common badge";

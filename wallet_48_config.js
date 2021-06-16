@@ -1,1 +1,1 @@
-var mnemonic = "final second bitter shed try that curtain antenna have garage enough twelve";
+var mnemonic = "mixed point exchange soldier either stay elite empty toward clever mesh door";

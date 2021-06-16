@@ -1,1 +1,1 @@
-var mnemonic = "monkey shoot pumpkin copy clump festival meat story city canvas crunch obscure";
+var mnemonic = "forum aunt between liberty napkin interest only invite miracle decline very pilot";

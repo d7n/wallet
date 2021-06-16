@@ -1,1 +1,1 @@
-var mnemonic = "loop title weird photo warfare tissue conduct slice rival black laugh analyst";
+var mnemonic = "equal vote ordinary mouse slender solution six recycle tackle magnet case ecology";
