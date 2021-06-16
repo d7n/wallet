@@ -1,1 +1,1 @@
-var mnemonic = "scissors season pulse narrow blade bomb mention expand impact cup assume margin";
+var mnemonic = "sense guard cigar maple illegal kiwi minimum street scale dial kangaroo dolphin";

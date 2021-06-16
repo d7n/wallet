@@ -1,1 +1,1 @@
-var mnemonic = "impulse near soul tissue ordinary fury ready zero peanut harbor ozone save";
+var mnemonic = "yellow exact use bus spin wheat cricket spice latin convince cloth travel";

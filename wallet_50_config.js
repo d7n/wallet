@@ -1,1 +1,1 @@
-var mnemonic = "pulse play bag unfair curtain media prevent evolve pyramid mercy sunset grape";
+var mnemonic = "program few submit action blade ribbon join day chronic cross prosper panic";

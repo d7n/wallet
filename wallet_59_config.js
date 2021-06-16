@@ -1,1 +1,1 @@
-var mnemonic = "diamond gold fabric stick era basic october few model damage fold level";
+var mnemonic = "action bomb tomato floor neck split fire ghost laugh valley false fall";

@@ -1,1 +1,1 @@
-var mnemonic = "omit sentence bottom cruise clever tooth crystal clap ecology live visual put";
+var mnemonic = "husband example library world inflict swift good mix broom evoke wash spider";

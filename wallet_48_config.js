@@ -1,1 +1,1 @@
-var mnemonic = "galaxy length govern actress phone unfold chest gallery around wonder jewel term";
+var mnemonic = "blanket amused luxury valley filter blossom angry minute infant around order invest";

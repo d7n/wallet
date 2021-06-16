@@ -1,1 +1,1 @@
-var mnemonic = "assume brave dice jump victory ahead chef police enact vehicle jaguar husband";
+var mnemonic = "egg gauge pumpkin jungle between interest morning library visual dinosaur vague escape";

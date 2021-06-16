@@ -1,1 +1,1 @@
-var mnemonic = "lesson hungry type tortoise problem link bridge stool egg fat strategy attend";
+var mnemonic = "list float require city ripple pluck major lyrics six type miss fiction";

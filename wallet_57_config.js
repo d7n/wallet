@@ -1,1 +1,1 @@
-var mnemonic = "nose enforce move light link fiction issue butter unaware combine bulk trade";
+var mnemonic = "bulb cherry tongue bar orange poverty achieve minor ankle sun shoulder pigeon";

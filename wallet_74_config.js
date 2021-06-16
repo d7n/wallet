@@ -1,1 +1,1 @@
-var mnemonic = "impulse artwork damage penalty profit autumn parade interest enhance marine jeans lemon";
+var mnemonic = "just cat anxiety divorce crane sample vehicle chief lemon plunge unable fabric";

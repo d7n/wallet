@@ -1,1 +1,1 @@
-var mnemonic = "fury solve suffer elder sun essay nice sauce science true virus carpet";
+var mnemonic = "dismiss stumble twenty vicious gold various satisfy depth train food hurry together";

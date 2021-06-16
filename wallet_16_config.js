@@ -1,1 +1,1 @@
-var mnemonic = "demise small expect upper identify accident damage alcohol spin merry youth else";
+var mnemonic = "time atom flock impulse panther iron trouble aware hotel reason sketch pill";

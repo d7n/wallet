@@ -1,1 +1,1 @@
-var mnemonic = "twelve mad can whisper coast make scale wisdom tail nation tail draft";
+var mnemonic = "hidden alley gesture mass later river van require letter reason direct verify";

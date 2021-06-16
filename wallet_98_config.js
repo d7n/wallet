@@ -1,1 +1,1 @@
-var mnemonic = "rocket busy abuse burden neglect smooth boil club nice emerge project obscure";
+var mnemonic = "draw because poem busy firm junior rack track garlic come picture that";

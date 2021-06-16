@@ -1,1 +1,1 @@
-var mnemonic = "burger music glove rescue grid volcano tone glory try domain road pulp";
+var mnemonic = "govern truth team hair offer index morning field leader wagon voice drop";

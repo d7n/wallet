@@ -1,1 +1,1 @@
-var mnemonic = "verb truly garment cabbage ring crystal index captain cinnamon minimum random film";
+var mnemonic = "spice cargo critic flat prison uncle system badge urge tell enable all";

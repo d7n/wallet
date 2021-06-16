@@ -1,1 +1,1 @@
-var mnemonic = "task since catalog neutral angle coin pumpkin hybrid scheme exact weapon canoe";
+var mnemonic = "oblige manage subject all entire vendor celery talk wine trust expect social";

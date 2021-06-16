@@ -1,1 +1,1 @@
-var mnemonic = "cheese useful sniff knock report mystery staff cricket urge dream disease nephew";
+var mnemonic = "romance lobster rain short bid attend lounge wheat two act note fitness";

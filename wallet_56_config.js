@@ -1,1 +1,1 @@
-var mnemonic = "agent gaze penalty ordinary ten sorry shallow day february plunge divide there";
+var mnemonic = "certain wise praise major release jacket risk design bulb ten extra picnic";

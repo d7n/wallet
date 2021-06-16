@@ -1,1 +1,1 @@
-var mnemonic = "issue document sniff enable anxiety vendor jewel mimic hero olympic else model";
+var mnemonic = "kitten leg thunder twelve math grape craft liar item source service engine";

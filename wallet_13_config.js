@@ -1,1 +1,1 @@
-var mnemonic = "scissors drama detect curious pave pulse jump voyage daughter total casual gaze";
+var mnemonic = "harsh slow diary hungry flock rack require ritual horse gown alarm panel";

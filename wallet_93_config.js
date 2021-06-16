@@ -1,1 +1,1 @@
-var mnemonic = "lens shoot today bless club mass unique local mesh panel barely acid";
+var mnemonic = "daughter attitude sword combine error leader sight route bind crouch draft erosion";

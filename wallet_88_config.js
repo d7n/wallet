@@ -1,1 +1,1 @@
-var mnemonic = "tuition van need bird pattern deny grow lake animal news cushion poet";
+var mnemonic = "impact chat lawn sell spoil fee rare sniff tent test word eager";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle kick scatter blanket fiscal army bind oblige once rail cute stable";
+var mnemonic = "lend hub kitchen acquire element reflect desk garbage embrace alien hurt push";

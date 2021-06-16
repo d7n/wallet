@@ -1,1 +1,1 @@
-var mnemonic = "goat venture danger liberty order scene edit oxygen whisper swim spread among";
+var mnemonic = "myth cluster feel shuffle insect minute public notable deny door prison debate";

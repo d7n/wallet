@@ -1,1 +1,1 @@
-var mnemonic = "good hold elbow fee purse odor bench ecology winner casual thing swift";
+var mnemonic = "try alone neither shadow chunk hurry box end code end heavy tiny";

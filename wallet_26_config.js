@@ -1,1 +1,1 @@
-var mnemonic = "gloom piece ahead recycle blush distance brass december gospel tone poverty hundred";
+var mnemonic = "force purity speed west rapid sting cruise spare network desert able arctic";

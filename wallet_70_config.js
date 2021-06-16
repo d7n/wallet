@@ -1,1 +1,1 @@
-var mnemonic = "govern insane recycle core point multiply uniform rural hover account devote wreck";
+var mnemonic = "exotic provide grit bring erode echo option hill airport morning fix family";

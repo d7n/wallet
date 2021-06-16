@@ -1,1 +1,1 @@
-var mnemonic = "man gravity moral tackle guitar steel sadness trust dizzy airport file onion";
+var mnemonic = "decrease motion design marble flavor tornado drama south shield forum impact claim";

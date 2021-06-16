@@ -1,1 +1,1 @@
-var mnemonic = "stove puppy ladder disagree gorilla shield decide pride south glass hidden ripple";
+var mnemonic = "burger hockey december spot include purse stomach mango venue else symbol present";

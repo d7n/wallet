@@ -1,1 +1,1 @@
-var mnemonic = "also never screen autumn desk quote expire scare destroy song illness suffer";
+var mnemonic = "announce guide swift neck section lava student amount concert spin industry piano";

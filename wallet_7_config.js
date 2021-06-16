@@ -1,1 +1,1 @@
-var mnemonic = "shield notable suit garage retreat jealous glance coffee sauce legend animal top";
+var mnemonic = "sail summer awesome rail mass enforce picnic kind dumb talk awful trial";

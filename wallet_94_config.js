@@ -1,1 +1,1 @@
-var mnemonic = "sweet actor night before physical upper cloth cattle toward awkward artefact exit";
+var mnemonic = "palace minor loud black spray blossom absorb state gorilla disorder tray orange";

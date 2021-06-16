@@ -1,1 +1,1 @@
-var mnemonic = "guard tool antique must hill pact damage source bar urban fee assault";
+var mnemonic = "tattoo fruit ball machine canyon gadget friend flame wage media extra coil";

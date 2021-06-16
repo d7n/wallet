@@ -1,1 +1,1 @@
-var mnemonic = "bamboo gold vibrant witness also head wage crack reason six curtain wrap";
+var mnemonic = "assist thank rough protect brain uphold prize man absorb flag bench movie";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket manual beef faint habit celery velvet payment start onion labor math";
+var mnemonic = "huge stable annual recycle section stove torch flee mention spike hover exit";

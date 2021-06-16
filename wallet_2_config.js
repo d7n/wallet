@@ -1,1 +1,1 @@
-var mnemonic = "attitude health drum blade reveal bottom act picnic among modify teach anxiety";
+var mnemonic = "pudding shaft fuel pink horse car attract scale robust route clump author";

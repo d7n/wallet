@@ -1,1 +1,1 @@
-var mnemonic = "plastic gorilla state park derive movie fade whisper chest attack pony attract";
+var mnemonic = "slogan album private climb warrior myth energy clerk practice chaos liquid toward";

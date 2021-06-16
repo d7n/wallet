@@ -1,1 +1,1 @@
-var mnemonic = "muffin sorry lounge demand music siege ski advice erode once cruel across";
+var mnemonic = "toss layer drill west bubble royal garbage galaxy genre cloud sand wood";

@@ -1,1 +1,1 @@
-var mnemonic = "can damp melody reduce between raven canvas panic exercise option speak large";
+var mnemonic = "buddy hawk favorite give permit debate indicate bundle robust seven estate right";

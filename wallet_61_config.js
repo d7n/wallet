@@ -1,1 +1,1 @@
-var mnemonic = "dizzy orange hard hover forest aim park observe isolate relax mechanic globe";
+var mnemonic = "summer camp chronic cherry liar sign laptop truly arctic allow edge shop";

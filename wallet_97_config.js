@@ -1,1 +1,1 @@
-var mnemonic = "sugar immune demand furnace cake peanut version negative board price dawn poem";
+var mnemonic = "seek monitor toddler inform yellow brush obvious series woman giant riot orphan";

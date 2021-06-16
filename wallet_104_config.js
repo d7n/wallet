@@ -1,1 +1,1 @@
-var mnemonic = "tiny police rally credit inner scrap trick artefact truth nerve bundle visa";
+var mnemonic = "require snack miracle fat hood online spawn river sibling bean auction donkey";

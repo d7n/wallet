@@ -1,1 +1,1 @@
-var mnemonic = "scrap diamond crush december only ketchup topple toilet column early loop claim";
+var mnemonic = "spy oxygen tomorrow noble pilot purse imitate monitor truly beyond chuckle traffic";

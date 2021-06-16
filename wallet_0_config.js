@@ -1,1 +1,1 @@
-var mnemonic = "mother else inquiry dash pepper genius broom suspect video lion employ chaos";
+var mnemonic = "vacant collect simple motor asset crumble radio wing zone evolve strike sound";

@@ -1,1 +1,1 @@
-var mnemonic = "final man original segment cotton virus loud salmon traffic oval aware sibling";
+var mnemonic = "goose brief weird evolve few vast half crucial shoulder reduce marriage blouse";

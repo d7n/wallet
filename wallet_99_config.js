@@ -1,1 +1,1 @@
-var mnemonic = "welcome helmet horn lava eyebrow side holiday amount love rude surprise impulse";
+var mnemonic = "control retire subject bicycle clock engine hero gift demise layer open bomb";

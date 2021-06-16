@@ -1,1 +1,1 @@
-var mnemonic = "collect ocean turtle camera setup venture vacant finish pair caught elephant unhappy";
+var mnemonic = "begin swift forward spend cost empower taxi isolate whale price cram stamp";

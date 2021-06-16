@@ -1,1 +1,1 @@
-var mnemonic = "witness wish toss pink aim potato history name ripple menu deliver perfect";
+var mnemonic = "brand mind race hello figure venture endless remain like under toy inmate";

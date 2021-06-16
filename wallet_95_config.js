@@ -1,1 +1,1 @@
-var mnemonic = "notice destroy laundry vocal trial kit mobile dragon group knife anger auto";
+var mnemonic = "fragile inquiry ecology mimic frozen token alley express powder analyst system can";

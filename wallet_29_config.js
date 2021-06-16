@@ -1,1 +1,1 @@
-var mnemonic = "become various explain frequent achieve solve cupboard divide sauce globe canoe luxury";
+var mnemonic = "sand gasp arena tonight topple convince seven month upset piece dance love";

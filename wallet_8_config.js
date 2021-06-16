@@ -1,1 +1,1 @@
-var mnemonic = "town ramp wedding level piece rich relief budget lizard trend clap athlete";
+var mnemonic = "stone save wing plunge copy grant repair bar dawn panel six embody";

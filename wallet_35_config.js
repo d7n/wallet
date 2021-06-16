@@ -1,1 +1,1 @@
-var mnemonic = "horn number unveil talent coral nuclear diamond custom during door bubble enjoy";
+var mnemonic = "solid stumble same poverty biology surround oil female absorb cradle opera cradle";

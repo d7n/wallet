@@ -1,1 +1,1 @@
-var mnemonic = "eye match text extend share mad present thought ozone day raccoon still";
+var mnemonic = "embark brown dove tent matrix feel hover solid easily expect mimic diary";

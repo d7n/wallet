@@ -1,1 +1,1 @@
-var mnemonic = "reduce sunny spike decline claw rare loyal vital tattoo onion practice embody";
+var mnemonic = "universe history mixed menu front mouse famous dynamic income resist kidney abandon";

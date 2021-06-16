@@ -1,1 +1,1 @@
-var mnemonic = "trouble sleep nature volume damage rotate bag exhibit copper worth ghost jungle";
+var mnemonic = "click season lunch float already erode siege nut music box roof climb";

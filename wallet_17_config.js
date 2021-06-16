@@ -1,1 +1,1 @@
-var mnemonic = "area plastic install solid tide waste kingdom swarm tube ice prevent swear";
+var mnemonic = "yard pipe culture regular join wide awful rocket neither hint remember horse";

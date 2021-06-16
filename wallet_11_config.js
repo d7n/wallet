@@ -1,1 +1,1 @@
-var mnemonic = "side couple song resist bubble keen analyst vital chair ethics struggle mango";
+var mnemonic = "fence second cactus powder metal above course similar raccoon property company bargain";

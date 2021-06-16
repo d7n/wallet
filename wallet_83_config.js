@@ -1,1 +1,1 @@
-var mnemonic = "educate what figure party family arm surround wall square jump salon critic";
+var mnemonic = "minor chaos reopen first term melody phone slide scan market health chuckle";

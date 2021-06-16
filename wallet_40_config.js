@@ -1,1 +1,1 @@
-var mnemonic = "leader lamp agree fresh amazing saddle harbor leisure gym useless mix mango";
+var mnemonic = "actor thank uphold ocean all quote wasp story today monster cement cube";

@@ -1,1 +1,1 @@
-var mnemonic = "walk gravity nose venture good unveil galaxy vicious private team dose tray";
+var mnemonic = "clap drastic rain decide mad speed owner push vote between ahead write";

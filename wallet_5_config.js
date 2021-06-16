@@ -1,1 +1,1 @@
-var mnemonic = "also chapter rabbit option help couple above gas crush celery humor toe";
+var mnemonic = "swallow amazing fun female oyster then pet erupt afford prison toast damp";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh oyster major rotate range material check chest bulb language sudden matter";
+var mnemonic = "segment increase pistol connect benefit balcony unhappy drift buffalo valid marble nuclear";

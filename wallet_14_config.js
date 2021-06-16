@@ -1,1 +1,1 @@
-var mnemonic = "spoon else brain cushion charge better invite remind onion marine tape cute";
+var mnemonic = "will anger hub grocery pigeon debate mushroom treat elegant zone coyote another";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing raise else grunt struggle cross property shoe skirt affair garden nice";
+var mnemonic = "arrow scene bulb sure image flee become truth circle zoo mountain neglect";

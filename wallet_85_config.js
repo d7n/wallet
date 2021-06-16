@@ -1,1 +1,1 @@
-var mnemonic = "cradle supply garlic foil alert drop resist leave program radio moment two";
+var mnemonic = "jewel soul march myth garment market elevator leaf initial fringe dinosaur fiction";

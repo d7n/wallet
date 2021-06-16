@@ -1,1 +1,1 @@
-var mnemonic = "shoot collect top motion among chest seminar vessel fire million work enter";
+var mnemonic = "dune vessel pumpkin crunch reflect twice nest jewel high pulse chronic jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "space grief opinion juice toast page upon veteran mirror filter under fluid";
+var mnemonic = "agree degree govern gravity hammer garment shock female lunar this accuse penalty";

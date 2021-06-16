@@ -1,1 +1,1 @@
-var mnemonic = "police energy weasel source gloom ill april zero thunder oil youth chair";
+var mnemonic = "correct diesel project blind crisp hint mango fence never innocent run kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "also today young claw elevator monitor verb hood secret soldier relief exclude";
+var mnemonic = "order amount vicious stock that poet bronze butter album hundred kitten utility";

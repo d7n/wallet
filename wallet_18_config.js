@@ -1,1 +1,1 @@
-var mnemonic = "sauce atom lottery cereal negative panel render must cook risk old chaos";
+var mnemonic = "film seven bonus method quick employ slide penalty west end drip camp";

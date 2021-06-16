@@ -1,1 +1,1 @@
-var mnemonic = "robust sting judge open glimpse promote open transfer since corn buyer describe";
+var mnemonic = "walk tube club volcano repeat impact energy check interest valve shove piano";

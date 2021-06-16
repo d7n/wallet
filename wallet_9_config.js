@@ -1,1 +1,1 @@
-var mnemonic = "purpose provide course october innocent file among era custom supply alter coyote";
+var mnemonic = "pledge oval uphold wing torch notice urban pony dumb hair simple object";

@@ -1,1 +1,1 @@
-var mnemonic = "drop craft endless recycle clinic one silly script lava solid tuition tell";
+var mnemonic = "digital bottom endless abstract bounce thunder similar suit middle shove above hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "together wonder rude obtain man only boost join elite solid trumpet option";
+var mnemonic = "build bench keep depend soccer sentence train slot achieve become snap beyond";

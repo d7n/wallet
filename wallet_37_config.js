@@ -1,1 +1,1 @@
-var mnemonic = "hard spawn relax play crazy emerge elder choice pelican victory floor metal";
+var mnemonic = "silk matter rally admit vivid month inject soon twist person waste market";

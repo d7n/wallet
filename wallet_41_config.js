@@ -1,1 +1,1 @@
-var mnemonic = "exotic bulk search gate pilot gown frequent visa bulb boat orbit hero";
+var mnemonic = "purse cherry urge plug enable logic candy canvas glue chaos sail idle";

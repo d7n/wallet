@@ -1,1 +1,1 @@
-var mnemonic = "logic quiz until pony mother wish end seven paddle control gift table";
+var mnemonic = "miracle cover report ceiling video kind jeans evil goat spoil wing try";

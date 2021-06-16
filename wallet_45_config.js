@@ -1,1 +1,1 @@
-var mnemonic = "smart gap excuse lizard urban gym disagree rebel blame salute drama dress";
+var mnemonic = "brave accident legend oppose chronic tragic region lens into drum sunset merit";

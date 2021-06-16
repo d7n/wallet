@@ -1,1 +1,1 @@
-var mnemonic = "dove ketchup frozen bounce like farm audit home steak focus silent bitter";
+var mnemonic = "dismiss bind left orbit music arctic false practice save mosquito snack street";

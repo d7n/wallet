@@ -1,1 +1,1 @@
-var mnemonic = "pizza win guess ski vivid shy motion razor cute inquiry sell card";
+var mnemonic = "hungry aspect minor holiday lunch glimpse flat december corn blame company spell";

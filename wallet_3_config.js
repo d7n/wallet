@@ -1,1 +1,1 @@
-var mnemonic = "general account blue emotion snack mass cool strong mandate peasant again eager";
+var mnemonic = "mixed raccoon where grocery hold luggage despair control donkey jeans runway test";

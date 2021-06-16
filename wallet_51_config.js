@@ -1,1 +1,1 @@
-var mnemonic = "hope climb poet wave because slab banner fluid expose scissors bomb kite";
+var mnemonic = "alert below fuel couple picture world pole spy couch receive orient frozen";

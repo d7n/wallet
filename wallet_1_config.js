@@ -1,1 +1,1 @@
-var mnemonic = "parade twelve leaf million village venue staff spell poem garment title retire";
+var mnemonic = "idle memory novel slender alter mobile drama garment advice pilot amazing crowd";

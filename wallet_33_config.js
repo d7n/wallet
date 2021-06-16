@@ -1,1 +1,1 @@
-var mnemonic = "festival say twenty stage smoke science eyebrow illegal near shield denial shine";
+var mnemonic = "power expire surface loud kitchen claw gossip night amused prison sudden seek";

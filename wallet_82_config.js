@@ -1,1 +1,1 @@
-var mnemonic = "slide pet push snack hire stay master unlock sense idea rug option";
+var mnemonic = "present typical ball all degree cushion shed spider bleak usage upgrade echo";

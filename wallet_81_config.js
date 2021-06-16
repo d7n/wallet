@@ -1,1 +1,1 @@
-var mnemonic = "entry village know siege embody two venue pretty bean advice better earn";
+var mnemonic = "trophy gallery run smooth alter expose demise arch trash moral shed grid";

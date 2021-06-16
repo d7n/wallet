@@ -1,1 +1,1 @@
-var mnemonic = "curious potato clean wealth barely spoon industry enroll enemy ugly sniff crew";
+var mnemonic = "home combine guess rule flush cupboard few afford reward scrub goat knee";

@@ -1,1 +1,1 @@
-var mnemonic = "base expire leader pluck tired eight payment game change emerge kick dose";
+var mnemonic = "adult outdoor always mix honey wink shiver lava tomato burden pulp blur";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster isolate carbon output grace august cruise teach beauty intact roof road";
+var mnemonic = "original verb vessel debris sting must print mammal across surface elbow cloth";

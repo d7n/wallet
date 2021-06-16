@@ -1,1 +1,1 @@
-var mnemonic = "purse circle able sort clerk still disorder sport hurdle run thumb wood";
+var mnemonic = "foster trick impose crisp income quality check lesson jungle crucial noise lazy";
