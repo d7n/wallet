@@ -1,1 +1,1 @@
-var mnemonic = "style attack unknown toss thing sister frog tiger giant quality seven bounce";
+var mnemonic = "also chapter rabbit option help couple above gas crush celery humor toe";

@@ -1,1 +1,1 @@
-var mnemonic = "tilt trash critic raccoon design scale forest noodle egg range enable fatal";
+var mnemonic = "shoot collect top motion among chest seminar vessel fire million work enter";

@@ -1,1 +1,1 @@
-var mnemonic = "glide coyote erupt square type motor april debris stuff flavor siege swim";
+var mnemonic = "robust sting judge open glimpse promote open transfer since corn buyer describe";

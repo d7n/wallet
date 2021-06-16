@@ -1,1 +1,1 @@
-var mnemonic = "regular plunge jump cube series educate prison fatigue armor wife start before";
+var mnemonic = "area plastic install solid tide waste kingdom swarm tube ice prevent swear";

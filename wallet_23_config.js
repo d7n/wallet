@@ -1,1 +1,1 @@
-var mnemonic = "grant analyst between history average trouble obvious member pride despair section impact";
+var mnemonic = "issue document sniff enable anxiety vendor jewel mimic hero olympic else model";

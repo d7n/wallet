@@ -1,1 +1,1 @@
-var mnemonic = "suggest neglect vast ball home click mammal slush poet canvas dial want";
+var mnemonic = "smart gap excuse lizard urban gym disagree rebel blame salute drama dress";

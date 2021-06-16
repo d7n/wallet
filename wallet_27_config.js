@@ -1,1 +1,1 @@
-var mnemonic = "frog act task electric cruise coil zoo fossil critic keen gentle joy";
+var mnemonic = "assume brave dice jump victory ahead chef police enact vehicle jaguar husband";

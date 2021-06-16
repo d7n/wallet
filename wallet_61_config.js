@@ -1,1 +1,1 @@
-var mnemonic = "fiction attitude candy monitor husband limit text plug mushroom flat awkward portion";
+var mnemonic = "dizzy orange hard hover forest aim park observe isolate relax mechanic globe";

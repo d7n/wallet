@@ -1,1 +1,1 @@
-var mnemonic = "chest romance wedding just image defy badge female erode marine blanket taste";
+var mnemonic = "shield notable suit garage retreat jealous glance coffee sauce legend animal top";

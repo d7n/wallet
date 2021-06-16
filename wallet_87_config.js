@@ -1,1 +1,1 @@
-var mnemonic = "horn guitar unknown drama grunt kiss spring brisk dismiss case forward abstract";
+var mnemonic = "bamboo gold vibrant witness also head wage crack reason six curtain wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "camp video receive helmet master remove noodle banner twenty kid scene industry";
+var mnemonic = "stick trap aware way reveal battle donate fetch voice come balcony credit";

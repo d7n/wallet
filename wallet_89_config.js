@@ -1,1 +1,1 @@
-var mnemonic = "fix salt glove alley enforce hood radar tail price vague fine cargo";
+var mnemonic = "noise version glow ride initial notable sugar quick goddess gadget chunk siren";

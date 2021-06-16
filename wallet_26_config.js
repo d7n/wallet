@@ -1,1 +1,1 @@
-var mnemonic = "space finger rotate vapor resemble vague easy famous clever major journey alien";
+var mnemonic = "gloom piece ahead recycle blush distance brass december gospel tone poverty hundred";

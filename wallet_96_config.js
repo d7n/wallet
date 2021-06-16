@@ -1,1 +1,1 @@
-var mnemonic = "liar boring artefact anxiety chunk doll aisle monitor moon alert diary orbit";
+var mnemonic = "drop craft endless recycle clinic one silly script lava solid tuition tell";

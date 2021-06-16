@@ -1,1 +1,1 @@
-var mnemonic = "column person claim virtual guess adapt glow elder rhythm select cloud predict";
+var mnemonic = "become various explain frequent achieve solve cupboard divide sauce globe canoe luxury";

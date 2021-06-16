@@ -1,1 +1,1 @@
-var mnemonic = "bean cat fish real electric image sort more prize soon scrap solar";
+var mnemonic = "horn number unveil talent coral nuclear diamond custom during door bubble enjoy";

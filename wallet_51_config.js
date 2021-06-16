@@ -1,1 +1,1 @@
-var mnemonic = "tortoise pact elite also laptop direct judge mom ivory tennis bring cloth";
+var mnemonic = "hope climb poet wave because slab banner fluid expose scissors bomb kite";

@@ -1,1 +1,1 @@
-var mnemonic = "foot carpet daring miracle mushroom blue receive casino dance deliver scare mammal";
+var mnemonic = "stove puppy ladder disagree gorilla shield decide pride south glass hidden ripple";

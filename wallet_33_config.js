@@ -1,1 +1,1 @@
-var mnemonic = "behave wasp paper equal chest island rabbit any heart live green virus";
+var mnemonic = "festival say twenty stage smoke science eyebrow illegal near shield denial shine";

@@ -1,1 +1,1 @@
-var mnemonic = "door among clerk game arrow true script disagree owner hollow stumble warm";
+var mnemonic = "demise small expect upper identify accident damage alcohol spin merry youth else";

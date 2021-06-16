@@ -1,1 +1,1 @@
-var mnemonic = "device ladder feature symptom margin satisfy cram tray social private link fetch";
+var mnemonic = "unique orient journey social sustain fortune gather emerge tell sponsor lava cream";

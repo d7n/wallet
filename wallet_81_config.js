@@ -1,1 +1,1 @@
-var mnemonic = "great cycle real fantasy upper cloud illness brother begin tongue miracle desk";
+var mnemonic = "entry village know siege embody two venue pretty bean advice better earn";

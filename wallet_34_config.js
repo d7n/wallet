@@ -1,1 +1,1 @@
-var mnemonic = "hobby foil daring audit mimic inmate dune cram ice polar lecture grain";
+var mnemonic = "print brisk dinner fault remind hole blanket drum spy museum crisp gadget";

@@ -1,1 +1,1 @@
-var mnemonic = "hollow pigeon achieve nature amused depart flee knee novel bonus useful pink";
+var mnemonic = "trouble sleep nature volume damage rotate bag exhibit copper worth ghost jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "youth unfold radio rug bring opinion secret exist economy bone service normal";
+var mnemonic = "sauce atom lottery cereal negative panel render must cook risk old chaos";

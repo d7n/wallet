@@ -1,1 +1,1 @@
-var mnemonic = "ripple trumpet miss radio velvet neither crazy uniform bulk throw sense happy";
+var mnemonic = "vault body almost arrest raise tornado session usual quantum follow claw guide";

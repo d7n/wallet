@@ -1,1 +1,1 @@
-var mnemonic = "device advance east friend fun solid limb unfold stage measure leisure tuition";
+var mnemonic = "manage window tiny box bright hunt discover ship early measure alien issue";

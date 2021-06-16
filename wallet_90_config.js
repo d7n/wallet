@@ -1,1 +1,1 @@
-var mnemonic = "ball mule skill album phone core never grid budget wall digital panther";
+var mnemonic = "congress snow sadness cruise system about crystal mushroom believe master reveal change";

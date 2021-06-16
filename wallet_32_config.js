@@ -1,1 +1,1 @@
-var mnemonic = "virtual teach rhythm trigger prosper vapor next frozen flavor edit vibrant enemy";
+var mnemonic = "together wonder rude obtain man only boost join elite solid trumpet option";

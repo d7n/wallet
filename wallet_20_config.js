@@ -1,1 +1,1 @@
-var mnemonic = "enact utility spike manual final excess busy pig window dolphin term around";
+var mnemonic = "witness wish toss pink aim potato history name ripple menu deliver perfect";

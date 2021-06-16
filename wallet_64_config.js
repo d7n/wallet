@@ -1,1 +1,1 @@
-var mnemonic = "congress blade retreat myth ribbon kiwi used melt badge face marble wing";
+var mnemonic = "region relief brother audit solution army open diagram walk snack wood blade";

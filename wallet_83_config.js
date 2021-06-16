@@ -1,1 +1,1 @@
-var mnemonic = "century gaze moral drift woman cheese matrix kite eyebrow noodle same age";
+var mnemonic = "educate what figure party family arm surround wall square jump salon critic";

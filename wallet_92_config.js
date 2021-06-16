@@ -1,1 +1,1 @@
-var mnemonic = "south saddle blade piano faith caught acid thrive bless toss jacket swing";
+var mnemonic = "goat venture danger liberty order scene edit oxygen whisper swim spread among";

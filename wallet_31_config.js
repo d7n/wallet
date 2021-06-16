@@ -1,1 +1,1 @@
-var mnemonic = "artist field blind inflict equip canvas response city heavy hedgehog lab doll";
+var mnemonic = "cluster isolate carbon output grace august cruise teach beauty intact roof road";

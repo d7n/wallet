@@ -1,1 +1,1 @@
-var mnemonic = "guide used install setup say dismiss slice assist acquire garage ice unveil";
+var mnemonic = "pizza win guess ski vivid shy motion razor cute inquiry sell card";

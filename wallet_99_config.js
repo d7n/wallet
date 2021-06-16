@@ -1,1 +1,1 @@
-var mnemonic = "solid link analyst divorce struggle deposit senior cat image skull lawn kind";
+var mnemonic = "welcome helmet horn lava eyebrow side holiday amount love rude surprise impulse";

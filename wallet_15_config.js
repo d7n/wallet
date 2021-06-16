@@ -1,1 +1,1 @@
-var mnemonic = "giggle dentist resist liberty kidney delay cute road favorite alcohol frown minor";
+var mnemonic = "guard tool antique must hill pact damage source bar urban fee assault";

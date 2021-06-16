@@ -1,1 +1,1 @@
-var mnemonic = "master brisk spray saddle waste lamp hurdle unusual pumpkin piece camp viable";
+var mnemonic = "base expire leader pluck tired eight payment game change emerge kick dose";

@@ -1,1 +1,1 @@
-var mnemonic = "federal cash fame parent glove spell month blur century spatial balcony zero";
+var mnemonic = "side couple song resist bubble keen analyst vital chair ethics struggle mango";

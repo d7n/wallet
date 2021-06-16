@@ -1,1 +1,1 @@
-var mnemonic = "cycle sponsor drama armed chaos test flower hawk trim burger miracle dragon";
+var mnemonic = "man gravity moral tackle guitar steel sadness trust dizzy airport file onion";

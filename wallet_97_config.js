@@ -1,1 +1,1 @@
-var mnemonic = "tissue tornado cart regular lift fade useful empty novel govern bone social";
+var mnemonic = "sugar immune demand furnace cake peanut version negative board price dawn poem";

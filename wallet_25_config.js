@@ -1,1 +1,1 @@
-var mnemonic = "box multiply need comic axis design online first exit desert honey meadow";
+var mnemonic = "scrap diamond crush december only ketchup topple toilet column early loop claim";

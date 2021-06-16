@@ -1,1 +1,1 @@
-var mnemonic = "view palace retire echo range island steak web property innocent rare winner";
+var mnemonic = "impulse artwork damage penalty profit autumn parade interest enhance marine jeans lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate senior moon hand inject suit grocery model lamp wage game abuse";
+var mnemonic = "cheese useful sniff knock report mystery staff cricket urge dream disease nephew";

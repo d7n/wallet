@@ -1,1 +1,1 @@
-var mnemonic = "artist sponsor robot reopen useful stove need neither repair acid beef satoshi";
+var mnemonic = "maze between chronic achieve street cannon this walk drill omit roof two";

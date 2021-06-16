@@ -1,1 +1,1 @@
-var mnemonic = "muscle suspect name width endless arena glass loud cause protect tragic frost";
+var mnemonic = "rival apple abuse safe consider math resemble flip total purchase excite return";

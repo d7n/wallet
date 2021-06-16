@@ -1,1 +1,1 @@
-var mnemonic = "bounce skull profit service edge annual fish effort fury destroy method excite";
+var mnemonic = "dove ketchup frozen bounce like farm audit home steak focus silent bitter";

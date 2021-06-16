@@ -1,1 +1,1 @@
-var mnemonic = "pioneer assault catch such radio kick gather stuff example wage amazing sphere";
+var mnemonic = "blanket manual beef faint habit celery velvet payment start onion labor math";

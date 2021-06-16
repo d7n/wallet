@@ -1,1 +1,1 @@
-var mnemonic = "fox sort pair visa injury suffer notable caught poverty riot feed direct";
+var mnemonic = "mother else inquiry dash pepper genius broom suspect video lion employ chaos";

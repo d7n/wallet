@@ -1,1 +1,1 @@
-var mnemonic = "stool tuna hire culture riot duck confirm cliff purchase meat foil concert";
+var mnemonic = "cattle kick scatter blanket fiscal army bind oblige once rail cute stable";

@@ -1,1 +1,1 @@
-var mnemonic = "middle lawsuit disorder behave old relax sketch teach river online blood sample";
+var mnemonic = "nose enforce move light link fiction issue butter unaware combine bulk trade";

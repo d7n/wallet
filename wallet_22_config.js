@@ -1,1 +1,1 @@
-var mnemonic = "below divide spray beef crouch skin bamboo husband define juice adult can";
+var mnemonic = "can damp melody reduce between raven canvas panic exercise option speak large";

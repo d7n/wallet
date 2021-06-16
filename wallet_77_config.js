@@ -1,1 +1,1 @@
-var mnemonic = "rely what gun glove lizard donor desk noble clerk staff motion list";
+var mnemonic = "good hold elbow fee purse odor bench ecology winner casual thing swift";

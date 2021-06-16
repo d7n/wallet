@@ -1,1 +1,1 @@
-var mnemonic = "review magic fun pause crazy illegal dumb into pattern powder term monster";
+var mnemonic = "weekend awake meat model noise shuffle inherit cactus quantum mean trumpet cement";

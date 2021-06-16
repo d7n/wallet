@@ -1,1 +1,1 @@
-var mnemonic = "street shrug vehicle bless stereo soup plunge hospital cross make reward ethics";
+var mnemonic = "jacket crisp affair hard caught danger stay screen rubber glimpse desert survey";

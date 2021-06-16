@@ -1,1 +1,1 @@
-var mnemonic = "cash speed tower problem accident security canyon tape toy review include life";
+var mnemonic = "glad weather over lawsuit plunge dynamic choose economy twin inside midnight flush";

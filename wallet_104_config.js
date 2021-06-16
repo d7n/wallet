@@ -1,1 +1,1 @@
-var mnemonic = "magic drift bargain collect away dove faint taste upset marble melt interest";
+var mnemonic = "tiny police rally credit inner scrap trick artefact truth nerve bundle visa";

@@ -1,1 +1,1 @@
-var mnemonic = "tree gain mixture panda dizzy sell develop symptom sadness excuse surface rug";
+var mnemonic = "task since catalog neutral angle coin pumpkin hybrid scheme exact weapon canoe";

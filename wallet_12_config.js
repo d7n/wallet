@@ -1,1 +1,1 @@
-var mnemonic = "idle trophy dad aware symbol dash genre small ordinary tunnel quantum dynamic";
+var mnemonic = "impulse near soul tissue ordinary fury ready zero peanut harbor ozone save";

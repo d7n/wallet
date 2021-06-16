@@ -1,1 +1,1 @@
-var mnemonic = "grunt orchard result quit pill man puzzle way boy wink deliver property";
+var mnemonic = "govern insane recycle core point multiply uniform rural hover account devote wreck";

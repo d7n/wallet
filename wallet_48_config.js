@@ -1,1 +1,1 @@
-var mnemonic = "harvest power panda rug street unknown lion spice obvious gap sleep maid";
+var mnemonic = "galaxy length govern actress phone unfold chest gallery around wonder jewel term";

@@ -1,1 +1,1 @@
-var mnemonic = "type road multiply dice toy ticket appear bulk worth process slush volume";
+var mnemonic = "diamond gold fabric stick era basic october few model damage fold level";

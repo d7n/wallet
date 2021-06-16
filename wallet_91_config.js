@@ -1,1 +1,1 @@
-var mnemonic = "enlist west more cloud dust body army fringe fitness bean cupboard swing";
+var mnemonic = "omit sentence bottom cruise clever tooth crystal clap ecology live visual put";

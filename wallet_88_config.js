@@ -1,1 +1,1 @@
-var mnemonic = "extra girl gauge day case rescue mind faint rough heart net sadness";
+var mnemonic = "tuition van need bird pattern deny grow lake animal news cushion poet";

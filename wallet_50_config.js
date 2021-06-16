@@ -1,1 +1,1 @@
-var mnemonic = "butter silver wild parade local blossom find panda boost arrive seminar lawsuit";
+var mnemonic = "pulse play bag unfair curtain media prevent evolve pyramid mercy sunset grape";

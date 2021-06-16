@@ -1,1 +1,1 @@
-var mnemonic = "width analyst crew december sick iron salmon liberty media mixture crazy merry";
+var mnemonic = "twelve mad can whisper coast make scale wisdom tail nation tail draft";

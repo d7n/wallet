@@ -1,1 +1,1 @@
-var mnemonic = "online resource owner salmon still eyebrow bronze gown economy comic hobby okay";
+var mnemonic = "police energy weasel source gloom ill april zero thunder oil youth chair";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain tunnel bunker item speed protect similar across inflict tomorrow practice van";
+var mnemonic = "walk gravity nose venture good unveil galaxy vicious private team dose tray";

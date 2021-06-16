@@ -1,1 +1,1 @@
-var mnemonic = "mammal ability volume domain nominee rubber police light goddess sing pause pink";
+var mnemonic = "also today young claw elevator monitor verb hood secret soldier relief exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "visa any north crawl finger pluck degree custom upset few polar grow";
+var mnemonic = "purpose provide course october innocent file among era custom supply alter coyote";

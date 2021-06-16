@@ -1,1 +1,1 @@
-var mnemonic = "make soon logic twenty call hat come limit rifle north behave reflect";
+var mnemonic = "scissors season pulse narrow blade bomb mention expand impact cup assume margin";

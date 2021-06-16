@@ -1,1 +1,1 @@
-var mnemonic = "during harbor place swear use state split travel repair lyrics magnet original";
+var mnemonic = "slide pet push snack hire stay master unlock sense idea rug option";

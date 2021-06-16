@@ -1,1 +1,1 @@
-var mnemonic = "power grape pause sausage boost portion come judge hamster bonus dad dutch";
+var mnemonic = "final man original segment cotton virus loud salmon traffic oval aware sibling";

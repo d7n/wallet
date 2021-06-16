@@ -1,1 +1,1 @@
-var mnemonic = "evidence process tomato today silver more injury wave blast trip agent security";
+var mnemonic = "fortune case target fun dumb health poem obvious excess nature radio blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant eager renew valid curious popular near proud cheap album hundred large";
+var mnemonic = "reduce sunny spike decline claw rare loyal vital tattoo onion practice embody";

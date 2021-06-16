@@ -1,1 +1,1 @@
-var mnemonic = "surface reunion trick clap bird best auto category kit know length boy";
+var mnemonic = "plastic gorilla state park derive movie fade whisper chest attack pony attract";

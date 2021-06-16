@@ -1,1 +1,1 @@
-var mnemonic = "drill confirm ostrich juice marble hedgehog slot defense shove near cage dinosaur";
+var mnemonic = "spoon else brain cushion charge better invite remind onion marine tape cute";

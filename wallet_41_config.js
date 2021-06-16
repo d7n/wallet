@@ -1,1 +1,1 @@
-var mnemonic = "faint refuse brave retreat hair farm credit inquiry cannon friend soul number";
+var mnemonic = "exotic bulk search gate pilot gown frequent visa bulb boat orbit hero";

@@ -1,1 +1,1 @@
-var mnemonic = "pony onion tourist genuine next yard door fabric okay govern arrange maximum";
+var mnemonic = "muffin sorry lounge demand music siege ski advice erode once cruel across";

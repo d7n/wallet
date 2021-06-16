@@ -1,1 +1,1 @@
-var mnemonic = "wink ceiling alien adapt minute walnut roof noodle monster flush limit cannon";
+var mnemonic = "agent gaze penalty ordinary ten sorry shallow day february plunge divide there";

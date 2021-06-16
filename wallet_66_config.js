@@ -1,1 +1,1 @@
-var mnemonic = "net giggle aim wasp uniform census remove tray quiz day despair suggest";
+var mnemonic = "eye match text extend share mad present thought ozone day raccoon still";

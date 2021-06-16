@@ -1,1 +1,1 @@
-var mnemonic = "theme caution fox bid grace build ceiling spin ride vacuum general cabin";
+var mnemonic = "cabin law asset wash enlist crowd pistol margin bronze fiber unknown another";

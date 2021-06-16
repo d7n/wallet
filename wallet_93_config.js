@@ -1,1 +1,1 @@
-var mnemonic = "deal net stairs glad tattoo budget yellow bunker garden shaft spy refuse";
+var mnemonic = "lens shoot today bless club mass unique local mesh panel barely acid";

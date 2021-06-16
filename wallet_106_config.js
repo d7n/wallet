@@ -1,1 +1,1 @@
-var mnemonic = "shift fish vault first shock wish already debris case fault monitor tag";
+var mnemonic = "proud coffee ghost grid return romance summer vault screen axis team share";

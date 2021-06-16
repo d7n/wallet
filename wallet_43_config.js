@@ -1,1 +1,1 @@
-var mnemonic = "program aware bubble sunny hip produce lend robust catalog replace story runway";
+var mnemonic = "logic quiz until pony mother wish end seven paddle control gift table";

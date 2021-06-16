@@ -1,1 +1,1 @@
-var mnemonic = "since battle medal bonus december slim wet measure talk seminar frown demise";
+var mnemonic = "burger music glove rescue grid volcano tone glory try domain road pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "hair heart rocket whale deliver weasel modify assault sunset draft build agree";
+var mnemonic = "attitude health drum blade reveal bottom act picnic among modify teach anxiety";

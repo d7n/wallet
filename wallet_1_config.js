@@ -1,1 +1,1 @@
-var mnemonic = "exact balcony hour fury debate fit load proof chicken pilot traffic miracle";
+var mnemonic = "parade twelve leaf million village venue staff spell poem garment title retire";

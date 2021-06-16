@@ -1,1 +1,1 @@
-var mnemonic = "wife february window history appear lumber expose blade finger task train faint";
+var mnemonic = "town ramp wedding level piece rich relief budget lizard trend clap athlete";

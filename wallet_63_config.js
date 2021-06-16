@@ -1,1 +1,1 @@
-var mnemonic = "nuclear promote sudden dad year pony biology wet anxiety wisdom viable clown";
+var mnemonic = "lesson hungry type tortoise problem link bridge stool egg fat strategy attend";

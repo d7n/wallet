@@ -1,1 +1,1 @@
-var mnemonic = "balance cake view clown jar define left regular buyer cake add brave";
+var mnemonic = "leader lamp agree fresh amazing saddle harbor leisure gym useless mix mango";

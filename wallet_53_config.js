@@ -1,1 +1,1 @@
-var mnemonic = "giraffe acquire this couch shift return furnace script group odor gloom number";
+var mnemonic = "space grief opinion juice toast page upon veteran mirror filter under fluid";
