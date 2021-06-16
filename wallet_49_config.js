@@ -1,1 +1,1 @@
-var mnemonic = "segment system pear scale section student crunch cancel question monkey prevent swap";
+var mnemonic = "into ostrich vendor metal foil vibrant empower skill napkin silver today canal";

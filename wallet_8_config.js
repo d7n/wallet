@@ -1,1 +1,1 @@
-var mnemonic = "wool gown moment meadow suggest attract program manual elegant someone zebra script";
+var mnemonic = "frozen shed cake eye judge spring paper input apology jump soap brave";

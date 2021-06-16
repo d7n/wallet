@@ -1,1 +1,1 @@
-var mnemonic = "trouble grace garbage narrow reform bone neither engage put army cabbage floor";
+var mnemonic = "fade robust mask combine attend hire social universe addict hen island coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "junior wise hood during exist panel afford mix nurse tragic suit march";
+var mnemonic = "tortoise senior rose inside diamond armed quote apology donate shoulder fury mechanic";

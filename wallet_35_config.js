@@ -1,1 +1,1 @@
-var mnemonic = "grant weather cliff select above clinic fish bomb afford marble awake jungle";
+var mnemonic = "useful carbon boss congress federal decade north pulse verify during subway security";

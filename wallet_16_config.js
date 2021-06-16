@@ -1,1 +1,1 @@
-var mnemonic = "effort paddle cool wife bottom harsh onion siege wage tilt tackle rich";
+var mnemonic = "spend blood grass energy current lesson lunch occur left rich craft pupil";

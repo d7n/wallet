@@ -1,1 +1,1 @@
-var mnemonic = "jeans recycle gossip reject proud tree direct debris gym twin cage pretty";
+var mnemonic = "annual label rich net face seminar yard risk long link million pottery";

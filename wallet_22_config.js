@@ -1,1 +1,1 @@
-var mnemonic = "laptop chalk outside ship deliver where raise purchase task fresh blush bonus";
+var mnemonic = "flavor pig quiz devote shine embark squeeze glue surround illness brief oval";

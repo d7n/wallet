@@ -1,1 +1,1 @@
-var mnemonic = "purpose achieve mountain bean edge false call weather art stairs seek document";
+var mnemonic = "iron hour miss gospel copy depth guide wait develop slush response size";

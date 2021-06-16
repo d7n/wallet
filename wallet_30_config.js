@@ -1,1 +1,1 @@
-var mnemonic = "nice glow duck together view buffalo hint now wool foster lab crop";
+var mnemonic = "fun skull link stereo when tail deposit banana camp guide squirrel brother";

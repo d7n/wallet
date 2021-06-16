@@ -1,1 +1,1 @@
-var mnemonic = "clerk popular unveil code toilet obvious nasty copper lens guilt essence atom";
+var mnemonic = "rhythm promote goddess clean win neglect believe push hover expire outdoor logic";

@@ -1,1 +1,1 @@
-var mnemonic = "copper clerk then fit wrap crucial sing drip fat wise orient glare";
+var mnemonic = "seat unaware check cannon board boring cotton win sting upper clever quarter";

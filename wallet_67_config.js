@@ -1,1 +1,1 @@
-var mnemonic = "isolate width blame actor run remove holiday draft choose demise balcony saddle";
+var mnemonic = "cattle push barely broccoli wheel shiver cherry sheriff escape section inspire voice";

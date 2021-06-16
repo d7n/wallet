@@ -1,1 +1,1 @@
-var mnemonic = "okay twenty frame liquid sugar deposit fog river immense supply oval ladder";
+var mnemonic = "flip vacuum suffer south valid away plastic trend audit purse eagle profit";

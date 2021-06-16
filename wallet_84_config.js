@@ -1,1 +1,1 @@
-var mnemonic = "absent high time skin royal velvet dirt side rhythm come lobster ice";
+var mnemonic = "supply length farm veteran glue all asthma educate erase violin seminar pretty";

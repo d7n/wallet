@@ -1,1 +1,1 @@
-var mnemonic = "innocent body whip they infant hunt scout slide focus crowd edge head";
+var mnemonic = "profit soul subject front horror vicious arrange winter idea brisk rotate home";

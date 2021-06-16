@@ -1,1 +1,1 @@
-var mnemonic = "observe affair pen feel swallow earn loyal faith fresh glow actress option";
+var mnemonic = "once elite cancel swim survey fiscal goose crumble enhance rent citizen squeeze";

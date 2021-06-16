@@ -1,1 +1,1 @@
-var mnemonic = "absurd shock hub canoe minute above enough plunge dizzy dad noise humble";
+var mnemonic = "post height praise monster gauge sunset devote renew grace auction credit toe";

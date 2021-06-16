@@ -1,1 +1,1 @@
-var mnemonic = "social tomato area wire ask scale tube define earth achieve talk select";
+var mnemonic = "kitchen jealous chief napkin ocean fiscal hub label elder simple clog salad";

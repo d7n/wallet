@@ -1,1 +1,1 @@
-var mnemonic = "cruise hair cargo matrix benefit mean token swear produce senior glass nose";
+var mnemonic = "charge foot task disease paper search heart balcony bread dawn since remind";

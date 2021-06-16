@@ -1,1 +1,1 @@
-var mnemonic = "exclude innocent reunion inquiry swift roof truly avoid tonight wagon strategy donor";
+var mnemonic = "cannon rhythm file scene life shoe stock rebuild vessel area velvet concert";

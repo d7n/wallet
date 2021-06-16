@@ -1,1 +1,1 @@
-var mnemonic = "short clever crucial short auto develop hidden drum tobacco connect bullet web";
+var mnemonic = "bicycle flavor shadow perfect fault axis bunker coyote cactus legal journey climb";

@@ -1,1 +1,1 @@
-var mnemonic = "phone magic enlist copper vocal high spirit owner weird supply display multiply";
+var mnemonic = "window remember maximum fiction abuse picnic voice video enhance village gift attitude";

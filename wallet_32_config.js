@@ -1,1 +1,1 @@
-var mnemonic = "target sausage normal try cheese water valid boy agree state dog film";
+var mnemonic = "army sheriff earth math initial orbit elder mask cable phrase glow heart";

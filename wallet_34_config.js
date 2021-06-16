@@ -1,1 +1,1 @@
-var mnemonic = "cash trend theory reduce glare gift comic begin oval weather speed champion";
+var mnemonic = "cross buyer upgrade rocket library stamp pink fine title chef crystal scorpion";

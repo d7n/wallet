@@ -1,1 +1,1 @@
-var mnemonic = "bulb home two explain smooth clock edge open animal head feature lunch";
+var mnemonic = "visit popular book rare giant grape banner extra guard hawk advice news";

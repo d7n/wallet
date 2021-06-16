@@ -1,1 +1,1 @@
-var mnemonic = "shaft dial beauty dentist snow churn awesome bring spray south wall afford";
+var mnemonic = "subway news nest trophy bicycle skate tribe uncover involve omit chicken stand";

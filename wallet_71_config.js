@@ -1,1 +1,1 @@
-var mnemonic = "favorite square zebra month night need author document forum pill cry calm";
+var mnemonic = "obey pause casino setup spring hour plastic feature alcohol local hospital canvas";

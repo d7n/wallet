@@ -1,1 +1,1 @@
-var mnemonic = "safe need gown author supreme horror breeze tool clarify trumpet fragile life";
+var mnemonic = "sugar arrest year thumb pipe gold concert move short soup media install";

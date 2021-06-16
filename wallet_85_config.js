@@ -1,1 +1,1 @@
-var mnemonic = "again shoe ten fury daughter digital answer circle paddle help author usual";
+var mnemonic = "column grief peace nature error hill random auction icon normal glad dove";

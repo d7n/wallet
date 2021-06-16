@@ -1,1 +1,1 @@
-var mnemonic = "again flash impose vocal around easy pact usage old elder lounge adult";
+var mnemonic = "warfare castle velvet network hold vanish already absorb dawn pattern spell marriage";

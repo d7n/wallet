@@ -1,1 +1,1 @@
-var mnemonic = "idea stove number brown rare prepare sketch comfort scissors diesel flight loyal";
+var mnemonic = "extra mercy market moment rotate polar gossip crowd attack snap rough vapor";

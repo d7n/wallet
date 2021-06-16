@@ -1,1 +1,1 @@
-var mnemonic = "ahead pull wine duty art range property peanut cricket orphan frost voice";
+var mnemonic = "ten lyrics phrase virtual moon fix occur solve camera one opera plate";

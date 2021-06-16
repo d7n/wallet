@@ -1,1 +1,1 @@
-var mnemonic = "gallery garage fiscal visit surge place second tuition lecture lamp glimpse green";
+var mnemonic = "rifle liquid dice onion beauty opera catch flash major erupt shallow weekend";

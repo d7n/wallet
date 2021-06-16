@@ -1,1 +1,1 @@
-var mnemonic = "wool affair chair ahead hundred basic like sadness manual cactus bulb bamboo";
+var mnemonic = "gasp employ recycle bachelor dad prepare repair olive decide brief antique inner";

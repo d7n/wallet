@@ -1,1 +1,1 @@
-var mnemonic = "provide abstract custom mutual section asset plastic position keep razor return finger";
+var mnemonic = "follow unable february admit orphan produce twist black panda purchase load swap";

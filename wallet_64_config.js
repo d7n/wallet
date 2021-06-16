@@ -1,1 +1,1 @@
-var mnemonic = "cash genius chase venture mammal main dish purchase noble lens obtain rough";
+var mnemonic = "upset scrap parrot rocket figure nerve captain belt shrimp essay brisk lecture";

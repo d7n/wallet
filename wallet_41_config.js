@@ -1,1 +1,1 @@
-var mnemonic = "slab health celery gas boat when push outdoor deposit sibling same virus";
+var mnemonic = "aim ordinary family possible body trophy sell metal lamp split unit run";

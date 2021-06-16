@@ -1,1 +1,1 @@
-var mnemonic = "sister sort cancel amount same gossip fever survey quantum crane gain wasp";
+var mnemonic = "execute scorpion thunder harbor feed daughter purity else planet pipe sail distance";

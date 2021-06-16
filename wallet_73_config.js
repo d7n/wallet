@@ -1,1 +1,1 @@
-var mnemonic = "certain come helmet midnight drift cart attract moral robust rotate inflict degree";
+var mnemonic = "grass humble exile use must dynamic senior ripple puppy offer vehicle frame";

@@ -1,1 +1,1 @@
-var mnemonic = "truly curve farm salmon toe aerobic ride knee border squirrel divide alcohol";
+var mnemonic = "step spoon grocery obtain onion table liar element team gorilla doll spray";

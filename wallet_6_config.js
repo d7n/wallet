@@ -1,1 +1,1 @@
-var mnemonic = "cannon polar midnight crunch best bone vessel fire case gasp order father";
+var mnemonic = "virus affair cause uniform cannon drop mixed sign clever isolate joke long";

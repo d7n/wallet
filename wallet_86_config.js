@@ -1,1 +1,1 @@
-var mnemonic = "amateur beef woman ahead quit clip arrange craft wrist expect element load";
+var mnemonic = "tornado animal idea message stand question tooth aim assume fabric give ostrich";

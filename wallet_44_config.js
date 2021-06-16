@@ -1,1 +1,1 @@
-var mnemonic = "pill crazy involve gas loyal tiger fix mention vacuum world amazing price";
+var mnemonic = "heart build lawsuit skill describe lonely purpose route tape emotion usage cotton";

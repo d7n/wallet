@@ -1,1 +1,1 @@
-var mnemonic = "stereo describe feel float orange match erode relax quarter exchange bacon cannon";
+var mnemonic = "luggage pause obey surge awesome bronze grief retire noble knife shoulder pond";

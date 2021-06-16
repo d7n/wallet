@@ -1,1 +1,1 @@
-var mnemonic = "reopen furnace jeans siege betray doctor gloom main camp wish steak sweet";
+var mnemonic = "glove maze purse embody token ozone law album invest coral dish celery";

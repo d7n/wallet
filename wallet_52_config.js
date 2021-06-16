@@ -1,1 +1,1 @@
-var mnemonic = "cross tool fine erosion street surface hospital sausage boss chest lady rude";
+var mnemonic = "fly cup garage finish thought chapter bread device relief orphan crystal hockey";

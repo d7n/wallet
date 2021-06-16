@@ -1,1 +1,1 @@
-var mnemonic = "burst hello quarter excite alien market render dirt plastic echo soul file";
+var mnemonic = "plastic trophy segment curious basket kangaroo oven ill shine rigid neck skate";

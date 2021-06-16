@@ -1,1 +1,1 @@
-var mnemonic = "home capable never become express garlic inflict ship split lumber code enhance";
+var mnemonic = "radar fly project badge brand question twelve drive rack rice crane simple";

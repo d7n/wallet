@@ -1,1 +1,1 @@
-var mnemonic = "palm train cinnamon picnic record sudden menu remember attack august enrich spray";
+var mnemonic = "town suggest release produce garden arrest garlic soda stem daughter universe bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract horse giant treat young inch perfect wild resource hood advice subway";
+var mnemonic = "runway praise water mom pass oven easily stone rail ocean zebra mammal";

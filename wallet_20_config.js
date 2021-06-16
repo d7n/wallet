@@ -1,1 +1,1 @@
-var mnemonic = "check vendor caution disorder meadow elbow either hero wait still payment bracket";
+var mnemonic = "endorse bomb logic marine explain little master birth direct jacket erode absurd";

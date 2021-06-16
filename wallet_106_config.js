@@ -1,1 +1,1 @@
-var mnemonic = "host beach fit panel gorilla someone joy sample possible leisure exclude engine";
+var mnemonic = "romance gain obey happy drip absurd fault lava stereo impulse flight plastic";

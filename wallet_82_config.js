@@ -1,1 +1,1 @@
-var mnemonic = "brain devote first bundle surface battle tackle earn spy slice awkward car";
+var mnemonic = "blade whip dog movie media engine future comfort income problem you pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "income fashion repeat hotel goddess gentle option despair solve chase possible tape";
+var mnemonic = "rebel example grunt pyramid believe wood walk thing siren summer picture assault";

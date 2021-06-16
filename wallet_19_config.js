@@ -1,1 +1,1 @@
-var mnemonic = "upper viable banner course entire home country maximum private winter orient lumber";
+var mnemonic = "snap impulse evidence consider ill promote cute open vessel long bracket belt";

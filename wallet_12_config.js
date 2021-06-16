@@ -1,1 +1,1 @@
-var mnemonic = "breeze bulb scan vapor noodle chronic repair erupt dash focus miracle program";
+var mnemonic = "flush dust bitter total voice smart oblige direct maximum hobby wise kitchen";

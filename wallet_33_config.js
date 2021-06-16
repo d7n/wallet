@@ -1,1 +1,1 @@
-var mnemonic = "ocean head truly sister guard approve butter inner income round cruise burger";
+var mnemonic = "invite hurry cat lake always biology below plug ecology couple camera you";

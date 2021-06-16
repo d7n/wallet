@@ -1,1 +1,1 @@
-var mnemonic = "crucial inhale almost yellow kite alpha gallery demand swamp visit slam moral";
+var mnemonic = "acoustic result arctic bike scene hen meadow camera drip pumpkin fluid scene";

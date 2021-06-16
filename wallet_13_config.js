@@ -1,1 +1,1 @@
-var mnemonic = "collect pony trend tilt antenna ripple jeans ensure wash spend surround flip";
+var mnemonic = "miss hole brass purse initial shy leader delay bring praise odor merit";

@@ -1,1 +1,1 @@
-var mnemonic = "sea woman ancient cinnamon slab spread olympic orchard fury visa accident flip";
+var mnemonic = "spare analyst party allow ocean obtain humble patch mixed weather certain consider";

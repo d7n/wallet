@@ -1,1 +1,1 @@
-var mnemonic = "sea vanish gloom review country fiscal hand hybrid diagram cool equip chalk";
+var mnemonic = "human upon burst bacon reveal river apology point smooth mercy cage detect";

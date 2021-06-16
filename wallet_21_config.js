@@ -1,1 +1,1 @@
-var mnemonic = "rack cement walnut rack sphere saddle between force enact cool arrow bullet";
+var mnemonic = "cart physical cart stove orange steel pen again emerge rate fault cage";

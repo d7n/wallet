@@ -1,1 +1,1 @@
-var mnemonic = "thunder very guide setup orange away garage luggage coast garbage response alone";
+var mnemonic = "weapon catch social exclude series either true music narrow abandon great trip";

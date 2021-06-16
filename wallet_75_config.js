@@ -1,1 +1,1 @@
-var mnemonic = "found share flat waste gain neutral happy bread palm desk exhaust again";
+var mnemonic = "loyal replace unusual exclude index exist educate scorpion tent youth black man";

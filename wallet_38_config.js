@@ -1,1 +1,1 @@
-var mnemonic = "absent ethics harbor icon average art decline gauge noodle number all gain";
+var mnemonic = "real balance blade furnace menu key father process awake copy crouch vacuum";

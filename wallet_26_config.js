@@ -1,1 +1,1 @@
-var mnemonic = "wage custom stuff loop forum luggage below catalog stove public tool fault";
+var mnemonic = "nerve essay science life honey rescue retire axis food immune spawn doll";

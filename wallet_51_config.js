@@ -1,1 +1,1 @@
-var mnemonic = "acquire pizza winter chronic pause hollow child bird frequent shaft come process";
+var mnemonic = "popular negative sudden enhance aspect happy kit mansion crop erosion chef crouch";

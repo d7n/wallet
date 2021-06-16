@@ -1,1 +1,1 @@
-var mnemonic = "garment carry humor find item romance edit brush salt trick dinner thought";
+var mnemonic = "once reason truck lion gentle youth zero fresh used enforce shiver primary";

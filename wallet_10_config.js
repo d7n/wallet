@@ -1,1 +1,1 @@
-var mnemonic = "soup airport together bind caution fence thunder need recycle galaxy author sample";
+var mnemonic = "paper borrow urban below slam method essence arena forest nation logic autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "agent share bulb simple extra sign hair outdoor hazard maid adjust laundry";
+var mnemonic = "fun expire tilt about polar decrease eternal make original sport plug evil";

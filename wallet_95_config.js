@@ -1,1 +1,1 @@
-var mnemonic = "path enact evidence puppy collect enroll foot scan tiny pool fog access";
+var mnemonic = "club siege gesture lunar cigar trash oven okay tent jewel glory rapid";

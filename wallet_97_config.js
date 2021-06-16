@@ -1,1 +1,1 @@
-var mnemonic = "bike welcome oxygen style there arrow razor decrease cycle idea mean fault";
+var mnemonic = "frozen labor chronic minimum host next doctor knee dolphin believe raccoon immune";

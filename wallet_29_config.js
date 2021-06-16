@@ -1,1 +1,1 @@
-var mnemonic = "beauty because castle snake alter census rail program want mass car valid";
+var mnemonic = "click cup defy unfold clarify pass dismiss boy distance upon nominee change";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry meat usual tiger giggle feel merry garment dismiss neither pigeon usage";
+var mnemonic = "apart talent industry tourist online combine focus spend another permit artist detect";

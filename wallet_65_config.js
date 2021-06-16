@@ -1,1 +1,1 @@
-var mnemonic = "bench agree witness corn essence okay vendor absorb often fancy heart resemble";
+var mnemonic = "pink brick keen oil cannon allow message melt outside sample cliff used";

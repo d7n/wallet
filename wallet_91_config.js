@@ -1,1 +1,1 @@
-var mnemonic = "boss property fluid motor timber melt parent flee spatial client tornado plate";
+var mnemonic = "saddle result grunt trash shuffle shine release embody boring riot two truly";

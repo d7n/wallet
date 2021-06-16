@@ -1,1 +1,1 @@
-var mnemonic = "harvest drama glare enable tube pull hair frozen mean damp woman catalog";
+var mnemonic = "net hobby love kitchen steak goddess document toilet analyst vicious change train";

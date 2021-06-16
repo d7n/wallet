@@ -1,1 +1,1 @@
-var mnemonic = "poem clog fossil wild arctic pretty bitter idle powder exact liquid absurd";
+var mnemonic = "online claw cook bleak push just click blast memory web elevator sadness";

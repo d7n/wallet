@@ -1,1 +1,1 @@
-var mnemonic = "decorate axis foam follow deal glance where era lonely chef holiday hurry";
+var mnemonic = "elbow choose genius minimum erase rule bicycle flight electric number foot access";

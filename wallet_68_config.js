@@ -1,1 +1,1 @@
-var mnemonic = "swap lemon garage moon inch truly subject orient poverty hover tomato melt";
+var mnemonic = "expect bright lecture prevent atom volcano wink strike puppy switch noble session";

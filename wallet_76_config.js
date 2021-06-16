@@ -1,1 +1,1 @@
-var mnemonic = "strong twist purpose word clog pumpkin bargain glow little yellow toilet maximum";
+var mnemonic = "will hire level decide heavy achieve cement mobile excite lottery credit baby";

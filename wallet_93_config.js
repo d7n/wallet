@@ -1,1 +1,1 @@
-var mnemonic = "track south rail term arctic toddler endorse arena safe arrest endorse object";
+var mnemonic = "turkey sunset cruel renew start say orbit switch direct aim fire cake";

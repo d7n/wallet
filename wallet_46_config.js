@@ -1,1 +1,1 @@
-var mnemonic = "slice creek typical fringe coil write custom photo odor abstract giraffe village";
+var mnemonic = "fetch excess exhaust enable close light seat hamster swap collect zoo stay";

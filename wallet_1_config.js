@@ -1,1 +1,1 @@
-var mnemonic = "olive cry nasty vanish detect summer devote insect ball wise faith between";
+var mnemonic = "iron blind olive trip keep enact step cancel fluid little network stomach";

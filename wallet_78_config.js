@@ -1,1 +1,1 @@
-var mnemonic = "maid annual clarify build alley dilemma arm across approve pass table husband";
+var mnemonic = "during area proud stumble fall fabric spider tomato bonus wash honey valid";

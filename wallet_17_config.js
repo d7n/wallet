@@ -1,1 +1,1 @@
-var mnemonic = "like concert behave usual tube female castle talk fiber winner egg pair";
+var mnemonic = "degree birth assault much exchange sugar shed glass choose reopen fringe sunny";

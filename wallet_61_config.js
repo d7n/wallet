@@ -1,1 +1,1 @@
-var mnemonic = "very dinosaur embody quote scrap morning blossom quality duty volume creek wrestle";
+var mnemonic = "light place diamond trumpet chair senior weird stage blue dove wife story";

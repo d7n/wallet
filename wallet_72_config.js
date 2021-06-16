@@ -1,1 +1,1 @@
-var mnemonic = "pioneer theme father plug trip divorce include country universe phrase tribe grant";
+var mnemonic = "siren monkey quick return bone switch over primary security present soup rapid";
