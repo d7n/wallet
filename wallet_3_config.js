@@ -1,1 +1,1 @@
-var mnemonic = "business garment era prepare engage spring front warm glide bottom foot rally";
+var mnemonic = "pistol reason foot struggle tomato master wife myself woman strategy fantasy off";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure subject police kitten solution hurry swamp gun exclude few soft actor";
+var mnemonic = "pitch impulse punch cruel barely artist differ negative polar surface maximum typical";

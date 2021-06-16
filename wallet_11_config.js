@@ -1,1 +1,1 @@
-var mnemonic = "crime symptom kit humor stumble able lumber crumble version betray transfer soul";
+var mnemonic = "solve picture cute orbit supply burden genre evil weekend abandon jar vintage";

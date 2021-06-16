@@ -1,1 +1,1 @@
-var mnemonic = "pledge phrase total series color giggle add canoe mushroom resemble climb day";
+var mnemonic = "emerge hub radar smart fruit rival faint stairs hold chicken reflect ketchup";

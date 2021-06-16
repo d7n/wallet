@@ -1,1 +1,1 @@
-var mnemonic = "rough sad crop lady stable ten road return inmate intact together cushion";
+var mnemonic = "hire method benefit virtual false fury breeze reason absent army push flip";

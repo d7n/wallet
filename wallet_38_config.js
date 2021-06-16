@@ -1,1 +1,1 @@
-var mnemonic = "found sunny scrap focus elephant screen soon inside forum odor lyrics best";
+var mnemonic = "retire rotate include recycle town armed escape duty elbow city trim kind";

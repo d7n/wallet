@@ -1,1 +1,1 @@
-var mnemonic = "flag garlic citizen private foil place fruit seven mesh develop subway vicious";
+var mnemonic = "rabbit matrix razor absorb bus powder diamond forward uphold question bullet sing";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard blur occur vessel key wreck local pull family kangaroo harvest occur";
+var mnemonic = "cruel clump crazy venue believe bid weasel rough season silent vehicle gun";

@@ -1,1 +1,1 @@
-var mnemonic = "market sleep float cotton artwork print ostrich enemy artwork vivid note skill";
+var mnemonic = "never ripple bring inquiry scheme motor ethics pen crush wedding photo wild";

@@ -1,1 +1,1 @@
-var mnemonic = "awake grit egg parade ketchup garage online sentence under discover guard bar";
+var mnemonic = "only coil turn rate barrel mansion adjust scrub wait august siren blame";

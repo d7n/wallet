@@ -1,1 +1,1 @@
-var mnemonic = "keen index cook mention gesture believe fee air rhythm click expand powder";
+var mnemonic = "frog top clean under foot marriage then soap foster tilt profit brick";

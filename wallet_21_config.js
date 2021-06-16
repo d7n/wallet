@@ -1,1 +1,1 @@
-var mnemonic = "palace ceiling clean tiger decade avoid kick matrix measure minute gaze metal";
+var mnemonic = "rice company spare front great scrub decorate dismiss tip credit dry wing";

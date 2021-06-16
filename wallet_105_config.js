@@ -1,1 +1,1 @@
-var mnemonic = "control surround idle over grace electric proof hip sound cram scissors slim";
+var mnemonic = "crunch wisdom mobile female motion saddle game lecture phrase balance nuclear marriage";

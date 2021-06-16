@@ -1,1 +1,1 @@
-var mnemonic = "source volume jealous rate medal tide arrive cluster tissue hundred ensure first";
+var mnemonic = "harbor arrive blanket emerge field dinner lesson climb shine approve raise weather";

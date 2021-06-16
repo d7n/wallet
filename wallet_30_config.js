@@ -1,1 +1,1 @@
-var mnemonic = "width annual burden cost fog favorite butter ride item saddle glove opinion";
+var mnemonic = "drop empty forward canyon amused anxiety jazz then sadness payment stay animal";

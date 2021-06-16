@@ -1,1 +1,1 @@
-var mnemonic = "onion actor syrup parade donate fragile anchor proof hidden vivid ticket decrease";
+var mnemonic = "quality clerk crawl iron elevator useful word physical impulse post source exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel butter next long can update spatial bounce swim guard waste path";
+var mnemonic = "opinion old document body motion there pioneer post build charge liberty parrot";

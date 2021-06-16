@@ -1,1 +1,1 @@
-var mnemonic = "wait poem negative atom more tube enroll round blade lyrics play door";
+var mnemonic = "piece enlist say term segment copy heavy pool truly flavor acquire real";

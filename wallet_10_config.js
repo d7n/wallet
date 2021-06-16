@@ -1,1 +1,1 @@
-var mnemonic = "bean voyage regret auto garlic upper shoe island mom acoustic bitter cereal";
+var mnemonic = "skill course noise license program wage rocket unit prefer hamster fossil adapt";

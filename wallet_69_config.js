@@ -1,1 +1,1 @@
-var mnemonic = "knock online surface review slow invite shaft clog protect seed fork cousin";
+var mnemonic = "pudding term crowd hover flame vital want cheap achieve blast spare surge";

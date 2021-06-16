@@ -1,1 +1,1 @@
-var mnemonic = "boring column student empty sadness brother myself judge sick borrow document machine";
+var mnemonic = "quiz valid finish mimic excess define casino civil twenty orchard hurt person";

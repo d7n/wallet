@@ -1,1 +1,1 @@
-var mnemonic = "cable couple coast bind travel health inmate delay garment divert frozen wide";
+var mnemonic = "coyote alley plate fatigue silly solve spoil pioneer law before vital second";

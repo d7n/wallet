@@ -1,1 +1,1 @@
-var mnemonic = "despair august jump ten congress excuse patrol voyage final dial relax wasp";
+var mnemonic = "genre idle pistol summer february this later twice approve cat castle maze";

@@ -1,1 +1,1 @@
-var mnemonic = "battle satisfy bitter curve fit million hello seat flee egg judge gown";
+var mnemonic = "exhaust cherry used noble october fiber outdoor moment bacon fox fall survey";

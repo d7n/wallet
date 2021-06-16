@@ -1,1 +1,1 @@
-var mnemonic = "curious anger labor borrow tumble duck poem myth coast dream bamboo myth";
+var mnemonic = "awake process fine hidden relax orange valve distance jacket february tuna tornado";

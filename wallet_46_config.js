@@ -1,1 +1,1 @@
-var mnemonic = "source left dolphin action bring check feed bullet margin stay soft gaze";
+var mnemonic = "myself invest provide mansion donate axis exhaust left foot install harsh bread";

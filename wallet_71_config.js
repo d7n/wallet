@@ -1,1 +1,1 @@
-var mnemonic = "cattle brisk oxygen major render drama task borrow alone unfold notice rose";
+var mnemonic = "number offer hurdle consider loyal cheap narrow violin accident fit abandon position";

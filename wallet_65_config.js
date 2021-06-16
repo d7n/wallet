@@ -1,1 +1,1 @@
-var mnemonic = "slot observe later wild badge learn chunk buffalo talk fantasy spend combine";
+var mnemonic = "check effort soccer raven key mansion finish document canoe risk solar position";

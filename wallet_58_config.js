@@ -1,1 +1,1 @@
-var mnemonic = "twenty vehicle size abuse book foot food tourist paddle various elder recycle";
+var mnemonic = "object win upper bird soda drama private banana abandon badge toward where";

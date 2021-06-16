@@ -1,1 +1,1 @@
-var mnemonic = "coyote measure clean repair salute empty riot crowd hurt public retreat bus";
+var mnemonic = "hour symptom seminar blanket gown wealth stomach keen forest echo topple harbor";

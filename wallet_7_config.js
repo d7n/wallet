@@ -1,1 +1,1 @@
-var mnemonic = "crumble cage hole girl stamp capital find gospel midnight endorse gallery cup";
+var mnemonic = "useful dizzy dog medal vivid sugar post bird grief beef name roof";

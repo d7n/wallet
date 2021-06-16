@@ -1,1 +1,1 @@
-var mnemonic = "pepper rhythm cycle label level else visa dose walk fragile disagree shrimp";
+var mnemonic = "room expire health allow silent flavor acquire bachelor vague below fluid bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid slot sample mountain simple mimic caught profit bunker drum warrior bachelor";
+var mnemonic = "rude announce shoe long light cross pyramid equal victory leader turkey three";

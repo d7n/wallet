@@ -1,1 +1,1 @@
-var mnemonic = "dial upgrade degree all feed fresh pipe fetch require talent tumble fancy";
+var mnemonic = "drop genius curious female legend island beyond manage air shine sheriff they";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain stadium hurdle language sea excess forget utility world eager cushion approve";
+var mnemonic = "wing wage photo power believe drastic eagle layer dwarf invest flavor tornado";

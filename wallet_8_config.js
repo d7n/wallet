@@ -1,1 +1,1 @@
-var mnemonic = "budget dwarf tag hamster trick tube wear eye two nest private cream";
+var mnemonic = "this present pitch adjust cinnamon move doctor mosquito cannon galaxy educate mansion";

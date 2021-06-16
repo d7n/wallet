@@ -1,1 +1,1 @@
-var mnemonic = "open transfer pledge hunt service rural wisdom smile ticket detail wink left";
+var mnemonic = "brave park crop lawn address remind tennis urban auction orient safe actual";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff stand betray tree suit bleak immune fringe pig carbon puzzle great";
+var mnemonic = "lecture toilet cave lake execute govern mobile man yard glide boil cattle";

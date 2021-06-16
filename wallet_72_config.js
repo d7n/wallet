@@ -1,1 +1,1 @@
-var mnemonic = "rifle vanish best vacant loop combine gown write eternal kit rescue where";
+var mnemonic = "eye bench scout laundry employ garbage add artist order seat rule dumb";

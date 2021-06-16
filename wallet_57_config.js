@@ -1,1 +1,1 @@
-var mnemonic = "giggle cricket volcano card main tent cave random limb ginger impulse note";
+var mnemonic = "ankle solar express tribe joke million outer panda soda ahead wave book";

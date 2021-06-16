@@ -1,1 +1,1 @@
-var mnemonic = "leave shoot cost vacuum you energy civil crisp marine control foil beef";
+var mnemonic = "used oil rifle skin obtain average one vehicle galaxy alone misery jealous";

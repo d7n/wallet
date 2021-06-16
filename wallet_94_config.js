@@ -1,1 +1,1 @@
-var mnemonic = "spirit chicken blossom flush convince foster doll motion tower belt below donor";
+var mnemonic = "journey remind special scheme earth crawl warrior powder illegal chronic please supply";

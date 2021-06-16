@@ -1,1 +1,1 @@
-var mnemonic = "daughter focus protect angry pact clarify waste artefact venture enforce valid worry";
+var mnemonic = "among cycle tattoo metal dog lunch giggle blue soda cool toddler actress";

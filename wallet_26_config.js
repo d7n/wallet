@@ -1,1 +1,1 @@
-var mnemonic = "harbor panda achieve fish weather ribbon myself sort series gentle cradle lumber";
+var mnemonic = "attitude various manual garlic flip trumpet over mechanic voice addict pill deny";

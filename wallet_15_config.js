@@ -1,1 +1,1 @@
-var mnemonic = "video nurse fox horn oblige outer peasant quality poverty learn grid glow";
+var mnemonic = "own hero lottery develop tool defy record such federal vessel air mad";

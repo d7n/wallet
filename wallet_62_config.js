@@ -1,1 +1,1 @@
-var mnemonic = "shell keen boost fabric viable engage trial lonely disease act arm salon";
+var mnemonic = "glow crane pulp chalk attend arrow current faith announce chunk plunge immense";

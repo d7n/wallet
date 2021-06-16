@@ -1,1 +1,1 @@
-var mnemonic = "park collect another illness enemy hard aunt film hill nurse diagram arch";
+var mnemonic = "erase iron shrimp return ski range then law bottom bid involve until";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale give snow example naive indoor unaware travel elbow motion dizzy blind";
+var mnemonic = "ship add churn toy permit deal stable sentence honey sustain embody thrive";

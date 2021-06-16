@@ -1,1 +1,1 @@
-var mnemonic = "fetch kite end dash sun lyrics account fortune fabric dress siege width";
+var mnemonic = "shoot rebuild series play dutch evoke multiply topic resist curious wisdom system";

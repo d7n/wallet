@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow artefact sun assume flat guess raw jealous spike appear measure tank";
+var mnemonic = "volcano vivid happy black evoke solar execute behind eye sort era leader";

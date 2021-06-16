@@ -1,1 +1,1 @@
-var mnemonic = "beauty fortune lamp long provide teach desk fantasy negative absorb rookie predict";
+var mnemonic = "night spare ability knife clerk false industry trade naive great leader dance";

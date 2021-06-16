@@ -1,1 +1,1 @@
-var mnemonic = "leave dumb record entry recall journey gadget creek umbrella cargo current flower";
+var mnemonic = "saddle silly dash behave theme insect diamond boil door delay scissors umbrella";

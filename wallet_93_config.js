@@ -1,1 +1,1 @@
-var mnemonic = "confirm drum rubber wife mix match eight yard differ economy motor mention";
+var mnemonic = "cram coin taxi core chimney know primary hat novel dwarf pave senior";

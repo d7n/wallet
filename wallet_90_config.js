@@ -1,1 +1,1 @@
-var mnemonic = "couple fade simple gift truly sword raven climb join edit prize crack";
+var mnemonic = "weather genuine allow skull what evidence board attend awake jealous caught sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "second scan first clip turkey quiz toilet step dove squirrel marriage boat";
+var mnemonic = "limit bargain best better flavor million spatial stuff group result ski latin";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz already stairs thunder pink area valve true flower boy guide globe";
+var mnemonic = "innocent matrix hybrid sheriff violin aware clarify solar book suggest evidence prevent";

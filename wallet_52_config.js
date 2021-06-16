@@ -1,1 +1,1 @@
-var mnemonic = "nuclear casual slam spirit cancel practice park amazing shaft prefer celery grief";
+var mnemonic = "hello fade motor auction asthma degree law balcony hat enlist punch second";

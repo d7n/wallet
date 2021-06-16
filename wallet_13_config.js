@@ -1,1 +1,1 @@
-var mnemonic = "warfare attack fiscal parent cloth actual indicate gospel lucky flame music soon";
+var mnemonic = "tomato caught almost grape since grit flag farm shrimp rail mesh filter";

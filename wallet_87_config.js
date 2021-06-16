@@ -1,1 +1,1 @@
-var mnemonic = "loud inflict tube find auction credit pave twelve oxygen hurdle cloud bring";
+var mnemonic = "visa leisure vacuum cargo decorate drum frost execute please enforce arctic suit";

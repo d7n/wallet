@@ -1,1 +1,1 @@
-var mnemonic = "baby dove wreck design jewel outside disagree sponsor stuff course tenant connect";
+var mnemonic = "gown output nuclear gossip wink level hard song spice company define arrange";

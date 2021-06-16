@@ -1,1 +1,1 @@
-var mnemonic = "hip short slab organ fold letter tell flee gospel gravity lady angry";
+var mnemonic = "demise lava afford tennis ugly horror fetch exact divorce fitness rare mad";

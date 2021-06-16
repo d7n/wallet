@@ -1,1 +1,1 @@
-var mnemonic = "tuna shove improve reveal super diesel spin air slice hire erase daring";
+var mnemonic = "label uncle blood unaware champion diesel place couple feature daring fiber absent";

@@ -1,1 +1,1 @@
-var mnemonic = "fork limb shrug plunge system come one tray minimum truck acoustic because";
+var mnemonic = "cabin patch silk riot point age volume fix roast miss art blouse";

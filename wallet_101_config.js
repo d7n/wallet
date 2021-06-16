@@ -1,1 +1,1 @@
-var mnemonic = "item clutch zone gauge invite clean license group promote universe once web";
+var mnemonic = "hello brick harsh dream pledge gap main pudding victory inner cinnamon forest";

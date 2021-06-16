@@ -1,1 +1,1 @@
-var mnemonic = "wave same sorry general across champion stock extra stadium razor work essay";
+var mnemonic = "acid oblige donor myth asset also dawn orient dinner idle kiwi pool";

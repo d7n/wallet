@@ -1,1 +1,1 @@
-var mnemonic = "muscle sniff squirrel carbon crack relax code certain cherry flee unlock north";
+var mnemonic = "bless eight shift poem position produce leaf seminar pause guitar conduct rely";

@@ -1,1 +1,1 @@
-var mnemonic = "turtle liberty spy hazard excite certain sell off school butter exile session";
+var mnemonic = "balance kitchen actor use candy deny island school cry tube stick train";

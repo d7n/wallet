@@ -1,1 +1,1 @@
-var mnemonic = "middle void pottery eager try ring scale special tell wrong file flush";
+var mnemonic = "walk check person minute effort sorry link fruit grit leopard year coil";

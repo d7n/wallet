@@ -1,1 +1,1 @@
-var mnemonic = "when empower alcohol local cargo grain endorse soft catalog fitness grow spy";
+var mnemonic = "thrive surface elegant poverty account plunge stock success garbage drastic width sadness";

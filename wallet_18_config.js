@@ -1,1 +1,1 @@
-var mnemonic = "urban face arrow demise reason culture inmate punch improve radar girl donate";
+var mnemonic = "spell sleep width hidden replace maple seven scrub car meadow spirit oppose";

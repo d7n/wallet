@@ -1,1 +1,1 @@
-var mnemonic = "require lab cable lemon illegal deny finish tuition ghost reduce surface swap";
+var mnemonic = "awesome credit sketch hill surround antique bind leopard rookie thunder anger junior";

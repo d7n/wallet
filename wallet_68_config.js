@@ -1,1 +1,1 @@
-var mnemonic = "correct mixed earn taxi answer detail fly pioneer argue crime payment fever";
+var mnemonic = "enemy wrist term pair twelve chicken high utility trend absurd side topple";

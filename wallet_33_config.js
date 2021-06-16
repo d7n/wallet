@@ -1,1 +1,1 @@
-var mnemonic = "age gorilla garage receive time tomato robust keen matrix window again awkward";
+var mnemonic = "drum cool wheat blind jewel cushion crack puzzle agent average practice floor";

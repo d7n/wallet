@@ -1,1 +1,1 @@
-var mnemonic = "art glove buffalo runway plastic jelly eternal move involve broom suffer reunion";
+var mnemonic = "differ inmate voyage foster tool left spoon true minor hedgehog property stove";

@@ -1,1 +1,1 @@
-var mnemonic = "ability twenty brave grain taxi equip rival dutch test voyage vanish chair";
+var mnemonic = "panda inform exclude lizard snow trust balance million forward example check rice";

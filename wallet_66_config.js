@@ -1,1 +1,1 @@
-var mnemonic = "hour mutual warfare glad emerge reform obey village ridge correct coral picnic";
+var mnemonic = "border citizen cool bottom balance shrug ring remain situate elbow renew blame";

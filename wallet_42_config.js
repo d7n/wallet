@@ -1,1 +1,1 @@
-var mnemonic = "cost flag water ginger prize old skill sting wealth bread scrap pen";
+var mnemonic = "film blur type expire thought double inflict evil cigar venue oyster lunar";

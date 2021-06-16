@@ -1,1 +1,1 @@
-var mnemonic = "champion tennis spawn bitter private concert common humor glove tape assault spray";
+var mnemonic = "buddy wise bench naive inch cruise shove omit fatal connect flip address";

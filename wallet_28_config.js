@@ -1,1 +1,1 @@
-var mnemonic = "abstract cake habit industry beauty plug daughter settle tennis bottom noise invest";
+var mnemonic = "tongue firm powder trim denial shadow elder neutral garbage seed absent friend";

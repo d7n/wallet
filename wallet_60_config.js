@@ -1,1 +1,1 @@
-var mnemonic = "garden bracket order lens whip truck heavy flock hybrid bulb issue bronze";
+var mnemonic = "length ankle hen enjoy define work team pyramid blind chimney mad during";

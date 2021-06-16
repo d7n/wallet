@@ -1,1 +1,1 @@
-var mnemonic = "scan cruise clown letter misery home steak maze minor vibrant great call";
+var mnemonic = "reward wrestle evidence tiger cereal moon cage thing fan recall drama vendor";

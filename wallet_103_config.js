@@ -1,1 +1,1 @@
-var mnemonic = "nephew innocent scissors clarify front possible spread silent cradle minute forum peace";
+var mnemonic = "photo border nut spy split swift coin usage winter bonus someone range";

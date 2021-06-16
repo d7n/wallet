@@ -1,1 +1,1 @@
-var mnemonic = "toast dwarf liar census pause glory surround pulp renew lazy keep runway";
+var mnemonic = "beauty since next warm nation bamboo kitchen thought quantum beauty estate credit";

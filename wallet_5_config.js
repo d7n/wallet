@@ -1,1 +1,1 @@
-var mnemonic = "student glide devote portion fatigue fire depth blame pepper rhythm citizen sell";
+var mnemonic = "call bicycle flat crisp coin carry hair describe gown broken more damp";
