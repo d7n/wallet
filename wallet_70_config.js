@@ -1,1 +1,1 @@
-var mnemonic = "kid mosquito announce strategy card describe space spawn magic welcome pride movie";
+var mnemonic = "century express sorry virus frame weekend web bounce ketchup bacon industry leaf";

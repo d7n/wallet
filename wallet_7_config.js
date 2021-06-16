@@ -1,1 +1,1 @@
-var mnemonic = "village behave wheat only battle tiny paddle deliver tunnel inhale voice upon";
+var mnemonic = "picnic avocado portion mirror retreat phone approve frozen unfold control nature meadow";

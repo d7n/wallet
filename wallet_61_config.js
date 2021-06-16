@@ -1,1 +1,1 @@
-var mnemonic = "aware result sun smooth shoot cram card occur panther around struggle diet";
+var mnemonic = "rival boat vague link just jungle people devote tag frost river shiver";

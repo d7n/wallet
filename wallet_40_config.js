@@ -1,1 +1,1 @@
-var mnemonic = "gap decide patient cannon jacket dress parade crime soft slender adapt tiger";
+var mnemonic = "weather kitten aisle spell buddy thrive engage off salmon hazard involve inner";

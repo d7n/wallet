@@ -1,1 +1,1 @@
-var mnemonic = "category parrot parade draft draft reject rug error magnet solve just luxury";
+var mnemonic = "nut opera wait vendor remind slow recipe isolate host polar stomach vast";

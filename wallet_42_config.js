@@ -1,1 +1,1 @@
-var mnemonic = "interest start loan pond muscle silent toast silly teach duck soup climb";
+var mnemonic = "long motion poem attack cattle puzzle solution chat ivory virtual nice ball";

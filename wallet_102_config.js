@@ -1,1 +1,1 @@
-var mnemonic = "fatal fold mobile vapor lizard already shiver stock mom tongue wisdom moment";
+var mnemonic = "utility taxi polar volume cloth remember erode strong fabric decade tomorrow warfare";

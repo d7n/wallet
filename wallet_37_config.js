@@ -1,1 +1,1 @@
-var mnemonic = "corn detect elite duty theory tiny host danger enrich dawn inquiry panel";
+var mnemonic = "conduct six below diamond away visual lady hen brain crane eternal time";

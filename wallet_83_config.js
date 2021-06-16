@@ -1,1 +1,1 @@
-var mnemonic = "medal barrel grass slogan wealth token mule mask dash various since ceiling";
+var mnemonic = "hood march result trigger ribbon moment arch market mean decline airport ritual";

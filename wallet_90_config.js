@@ -1,1 +1,1 @@
-var mnemonic = "embark rabbit stool layer brush remain chalk festival finger inmate castle surface";
+var mnemonic = "view anxiety cart above cram sentence emerge perfect tree strike palm dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "style umbrella crack stadium fetch repeat weekend diet antique comfort quote gold";
+var mnemonic = "attitude inside ancient tobacco reward fade legend label wood outside ecology fire";

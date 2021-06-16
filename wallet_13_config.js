@@ -1,1 +1,1 @@
-var mnemonic = "glad fiscal wheel weasel useless job surface wolf opera salt spin spice";
+var mnemonic = "organ suspect local tackle want phrase sleep actor sauce brother pear worth";

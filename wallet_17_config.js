@@ -1,1 +1,1 @@
-var mnemonic = "you guilt slender comfort army length rigid extra pencil any glide limb";
+var mnemonic = "bid diesel unit quiz select supply tag tool repeat urban blur outside";

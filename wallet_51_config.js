@@ -1,1 +1,1 @@
-var mnemonic = "quick spike powder once garment edge dumb there super okay spawn notice";
+var mnemonic = "clog roof sell opinion bundle alcohol egg accident dash canyon advance witness";

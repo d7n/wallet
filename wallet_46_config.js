@@ -1,1 +1,1 @@
-var mnemonic = "purse interest bulb pull ahead power galaxy fish start post enact fix";
+var mnemonic = "valid boil gloom bench hat broken rural salute quantum fresh rhythm clip";

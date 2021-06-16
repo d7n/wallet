@@ -1,1 +1,1 @@
-var mnemonic = "tuition science asset health suffer pluck result rural unique during treat result";
+var mnemonic = "aerobic neither dismiss bargain retreat loop sting flat raccoon country laundry primary";

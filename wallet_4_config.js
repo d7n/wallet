@@ -1,1 +1,1 @@
-var mnemonic = "tiger floor sport welcome rich expand below inmate frog camera another radar";
+var mnemonic = "script rabbit swim february reject basket evolve news already frequent float sleep";

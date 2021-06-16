@@ -1,1 +1,1 @@
-var mnemonic = "guard spice glove rather misery exact exact wall lake rate choice panel";
+var mnemonic = "choice forget forum impose inform trial icon rack moral fork solid issue";

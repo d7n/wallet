@@ -1,1 +1,1 @@
-var mnemonic = "circle caught worry join half mesh midnight opinion space hedgehog off erase";
+var mnemonic = "garbage raven security blouse tiny bid air slot economy metal life sock";

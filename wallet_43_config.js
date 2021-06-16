@@ -1,1 +1,1 @@
-var mnemonic = "stay junior wheel cable use flee reason race film basket victory shock";
+var mnemonic = "junk slender polar betray inflict correct opinion wide noodle decorate blind recall";

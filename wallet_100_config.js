@@ -1,1 +1,1 @@
-var mnemonic = "siren zoo robust upgrade bless mystery farm goat include catalog gorilla swarm";
+var mnemonic = "zoo sustain orient benefit impose service town muscle boost cinnamon please blossom";

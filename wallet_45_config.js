@@ -1,1 +1,1 @@
-var mnemonic = "solid grab panic pizza squirrel casino chapter kitchen denial dream february skin";
+var mnemonic = "only depth snow ensure ball stadium stool inquiry lab walnut legal arctic";

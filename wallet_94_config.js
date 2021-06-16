@@ -1,1 +1,1 @@
-var mnemonic = "defy garden rocket various athlete loop dune pill ordinary shadow pudding pencil";
+var mnemonic = "start spread music ball armor fury lab tooth left monkey immune symptom";

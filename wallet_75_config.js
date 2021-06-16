@@ -1,1 +1,1 @@
-var mnemonic = "coin bar error sail dose acid valid brush pen hawk album talk";
+var mnemonic = "mind arrest vacuum punch myth hazard ridge audit riot unit pipe off";

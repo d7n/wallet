@@ -1,1 +1,1 @@
-var mnemonic = "undo cricket hybrid cluster filter buddy submit page expect rocket region deliver";
+var mnemonic = "battle inherit loan client delay ladder sentence aerobic bar lonely soul sting";

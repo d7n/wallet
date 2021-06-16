@@ -1,1 +1,1 @@
-var mnemonic = "share nature tragic property essay grain oak lawsuit term first grief river";
+var mnemonic = "rent someone assist card funny parade glue staff online horse since pen";

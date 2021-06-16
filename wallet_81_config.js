@@ -1,1 +1,1 @@
-var mnemonic = "advance valve strategy rebuild surprise notable hollow poet silent neck purchase express";
+var mnemonic = "shallow rich ocean stumble run purpose ridge hundred betray museum round note";

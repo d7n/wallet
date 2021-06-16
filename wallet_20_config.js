@@ -1,1 +1,1 @@
-var mnemonic = "winter frozen fold knock mirror stem barrel quick grab scheme junk collect";
+var mnemonic = "letter draw almost reunion broccoli mad sister boost grass rug say jeans";

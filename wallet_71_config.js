@@ -1,1 +1,1 @@
-var mnemonic = "dress movie rate coil file code unable feed spend forward style shadow";
+var mnemonic = "address urban actress board cement special busy hero liberty play orchard virus";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge nut merit expire mom strong similar bronze lift range depart slide";
+var mnemonic = "veteran warm fabric diet meat stable exhaust orange banana chief mind salmon";

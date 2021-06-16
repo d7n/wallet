@@ -1,1 +1,1 @@
-var mnemonic = "dismiss dolphin junk vehicle dynamic hip primary physical tongue margin student outside";
+var mnemonic = "upon ramp reveal museum powder pencil bar merge easy anchor bean now";

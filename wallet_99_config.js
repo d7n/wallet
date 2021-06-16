@@ -1,1 +1,1 @@
-var mnemonic = "use since hotel caught royal begin chef present crystal toddler guide universe";
+var mnemonic = "actor kingdom wealth always peasant need pulp tenant next mass bring enhance";

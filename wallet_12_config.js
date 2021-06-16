@@ -1,1 +1,1 @@
-var mnemonic = "vast warm harbor insect narrow extend extra volcano direct section twice exist";
+var mnemonic = "snack combine emotion wolf want much home result spray bring grass rely";

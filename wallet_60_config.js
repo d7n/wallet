@@ -1,1 +1,1 @@
-var mnemonic = "scatter tiny clutch copper glance tissue thought napkin hello blast chase chronic";
+var mnemonic = "drive human picture exclude make grace feel awkward veteran hockey donkey habit";

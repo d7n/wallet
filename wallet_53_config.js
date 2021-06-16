@@ -1,1 +1,1 @@
-var mnemonic = "license fence produce pair elevator island enhance little old artwork loud notice";
+var mnemonic = "guard crash try hawk group require embody attract carbon ahead subject elder";

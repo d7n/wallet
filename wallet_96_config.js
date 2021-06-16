@@ -1,1 +1,1 @@
-var mnemonic = "tape design bright town position upper shield friend unit foil ski other";
+var mnemonic = "convince veteran equal black bring motor suggest shuffle exotic harsh nature giant";

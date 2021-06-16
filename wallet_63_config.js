@@ -1,1 +1,1 @@
-var mnemonic = "bunker miss cart trade sing replace winner transfer guard arrest catch save";
+var mnemonic = "material casual cannon thrive acoustic broccoli friend bundle script mimic shoe select";

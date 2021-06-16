@@ -1,1 +1,1 @@
-var mnemonic = "artwork worry electric drum health now various law tilt chase bronze escape";
+var mnemonic = "winter seek move crash armor decide wisdom that rocket reform crumble mistake";

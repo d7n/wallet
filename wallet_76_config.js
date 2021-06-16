@@ -1,1 +1,1 @@
-var mnemonic = "cluster liberty snap enable prevent lottery multiply sock drop crater sauce glory";
+var mnemonic = "taxi library success excite control flash goddess wrestle member vast trip slim";

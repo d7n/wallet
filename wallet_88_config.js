@@ -1,1 +1,1 @@
-var mnemonic = "exhaust forest antenna crowd foot casino cage junior essence clutch rare switch";
+var mnemonic = "duck raccoon timber double core bulk avocado weasel festival woman adapt faculty";

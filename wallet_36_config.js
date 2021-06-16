@@ -1,1 +1,1 @@
-var mnemonic = "tank island vital erase best tool damage pig project fatal resist senior";
+var mnemonic = "wedding coral attract able hamster drift capable quarter night joke lottery remain";

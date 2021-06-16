@@ -1,1 +1,1 @@
-var mnemonic = "used deposit need buzz work midnight announce vocal scrub music table enough";
+var mnemonic = "wrestle search ten slam member grass regret volume buzz usage differ collect";

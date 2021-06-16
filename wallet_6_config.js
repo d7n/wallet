@@ -1,1 +1,1 @@
-var mnemonic = "desert media large bonus box outside banner sweet case abstract remain evidence";
+var mnemonic = "among ceiling sadness dove injury sure silk tiger frame kit load wrist";

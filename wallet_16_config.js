@@ -1,1 +1,1 @@
-var mnemonic = "indicate just teach access sign across rural involve moral worry popular gospel";
+var mnemonic = "praise grape choice illegal august unfold refuse labor blanket hint blouse outer";

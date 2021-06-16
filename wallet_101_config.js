@@ -1,1 +1,1 @@
-var mnemonic = "mean current travel meadow spare error shy include maid trust multiply flat";
+var mnemonic = "whale history tourist innocent tuna solution wedding confirm shed okay rare bridge";

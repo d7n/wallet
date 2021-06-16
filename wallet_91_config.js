@@ -1,1 +1,1 @@
-var mnemonic = "flip spring suggest atom brass detail kid obvious list dwarf reject hard";
+var mnemonic = "include inform lawn canal banner slush art youth inner proof boss front";

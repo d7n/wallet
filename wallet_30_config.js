@@ -1,1 +1,1 @@
-var mnemonic = "reward loan huge lend expand boss quit question cool cram donkey advice";
+var mnemonic = "velvet change sail dice video million maid review siren cupboard idle large";

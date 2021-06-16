@@ -1,1 +1,1 @@
-var mnemonic = "angle squeeze galaxy talk envelope duck hollow fork helmet access sock dizzy";
+var mnemonic = "web master between veteran farm habit verify defense error six disorder bread";

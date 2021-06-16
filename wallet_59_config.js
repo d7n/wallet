@@ -1,1 +1,1 @@
-var mnemonic = "crash icon enable midnight remind strategy shuffle return day tide grid plunge";
+var mnemonic = "buzz impact true sock course drama lizard north satoshi enroll what wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "opera month element receive wash chimney orange galaxy luxury parent absent giggle";
+var mnemonic = "axis diamond casino drive scatter custom age plunge judge measure life travel";

@@ -1,1 +1,1 @@
-var mnemonic = "joy oppose food taste grunt sick skin mimic humor gym tired stable";
+var mnemonic = "infant meat true gold load enlist caught science solve defense fan abstract";

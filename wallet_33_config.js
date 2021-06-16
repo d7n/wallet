@@ -1,1 +1,1 @@
-var mnemonic = "athlete all moral anxiety good into useful victory immense excite glory trial";
+var mnemonic = "giant sad digital response lens master similar update lounge mass noodle vivid";

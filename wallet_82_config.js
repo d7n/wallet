@@ -1,1 +1,1 @@
-var mnemonic = "transfer narrow domain erode draft fold benefit local blood message fashion post";
+var mnemonic = "width identify candy gospel bleak awful pull stereo use become choose lady";

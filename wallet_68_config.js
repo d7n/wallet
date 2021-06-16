@@ -1,1 +1,1 @@
-var mnemonic = "team network water motor match shift brown cool cook main cream congress";
+var mnemonic = "chicken salmon ankle upper question forget outdoor business access warrior team burden";

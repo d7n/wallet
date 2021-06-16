@@ -1,1 +1,1 @@
-var mnemonic = "globe sister window token way buyer lab orphan tissue finger rifle nurse";
+var mnemonic = "report state blade veteran science figure venture legend ridge coast reward awful";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics cruise obvious ship jealous tent execute eagle gap reward brain slide";
+var mnemonic = "deal diesel inject crowd picture toilet text practice dust blade various choose";

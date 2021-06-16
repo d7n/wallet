@@ -1,1 +1,1 @@
-var mnemonic = "lake mixed stuff large toward gift cancel illness treat obscure leisure cement";
+var mnemonic = "grit battle card hero search distance myself into rally boring lady resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "hen infant love phone laugh trend spider acid base public lamp dignity";
+var mnemonic = "valid win motion sun orient reflect foil risk develop boss exotic crunch";

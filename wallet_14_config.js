@@ -1,1 +1,1 @@
-var mnemonic = "index despair lazy tattoo deposit detect black ice note ostrich anxiety beauty";
+var mnemonic = "cloud brown include lens neglect valid amused asset faculty absorb proud napkin";

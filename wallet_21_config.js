@@ -1,1 +1,1 @@
-var mnemonic = "into name fit muscle excite inspire size define duty angle casino feature";
+var mnemonic = "bullet around obtain know coffee cactus mosquito private level vessel reunion else";

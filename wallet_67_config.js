@@ -1,1 +1,1 @@
-var mnemonic = "ghost jar weather odor case either coil clever hobby much virtual twelve";
+var mnemonic = "humor vocal review erupt analyst fiscal use logic excite chimney find citizen";

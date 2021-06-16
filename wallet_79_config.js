@@ -1,1 +1,1 @@
-var mnemonic = "armor symbol office insane prefer plunge horse rough more dentist actress length";
+var mnemonic = "search permit slogan nation raise club next pattern will floor void autumn";

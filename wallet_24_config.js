@@ -1,1 +1,1 @@
-var mnemonic = "giggle under february salt alert situate bind grief order rely abstract crunch";
+var mnemonic = "elder rose mail vehicle own another woman hole sponsor simple lawn ankle";

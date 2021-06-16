@@ -1,1 +1,1 @@
-var mnemonic = "torch have misery soldier vapor upset insect worry alarm arrive fork feature";
+var mnemonic = "other potato ridge soul sister area vote worth sure humble fire nurse";

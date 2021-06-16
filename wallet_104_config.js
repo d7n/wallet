@@ -1,1 +1,1 @@
-var mnemonic = "liberty desert gesture strong ahead barely hair lend rival embody cabbage drama";
+var mnemonic = "aisle round ignore bird lyrics spoon pencil control lens tomato trigger armed";

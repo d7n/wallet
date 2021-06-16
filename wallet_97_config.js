@@ -1,1 +1,1 @@
-var mnemonic = "shrug trial virtual interest grid tennis clip glance mistake garden movie giant";
+var mnemonic = "rifle expand usual wolf avoid basic any detect scan talent worth ethics";

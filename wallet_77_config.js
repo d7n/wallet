@@ -1,1 +1,1 @@
-var mnemonic = "help beyond orange audit habit region differ exhaust stage similar capital silver";
+var mnemonic = "onion educate amazing orbit limit cattle ostrich blade narrow check caught snake";

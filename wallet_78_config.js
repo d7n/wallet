@@ -1,1 +1,1 @@
-var mnemonic = "execute luggage casino cash real twin crack funny myself woman lawsuit kind";
+var mnemonic = "sand hammer poverty guide wave deny cloud shadow praise pluck oval rude";

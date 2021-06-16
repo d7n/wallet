@@ -1,1 +1,1 @@
-var mnemonic = "scan govern garbage ice leopard crew dream general term wait hub firm";
+var mnemonic = "science retreat tank ready attack slight tortoise fluid holiday budget feel mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "forward reflect seat gospel talent baby cricket slice remain orange online misery";
+var mnemonic = "ticket fuel client atom during lift gaze advice risk number guess medal";

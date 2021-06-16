@@ -1,1 +1,1 @@
-var mnemonic = "spider recipe unfold outer run ranch foot foam burger best chicken embark";
+var mnemonic = "twist gauge hair credit portion upon clock enter bottom ribbon crawl like";

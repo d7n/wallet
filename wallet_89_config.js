@@ -1,1 +1,1 @@
-var mnemonic = "cover hello total limb offer kangaroo addict once cheap transfer sadness truly";
+var mnemonic = "match holiday canal sibling bubble inside sunny quality setup garden armed sample";

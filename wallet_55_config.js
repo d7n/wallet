@@ -1,1 +1,1 @@
-var mnemonic = "inspire denial unhappy riot fit wild inspire dumb pulp suggest cactus display";
+var mnemonic = "sustain junk wedding lumber arrive used range bonus possible dynamic water cash";

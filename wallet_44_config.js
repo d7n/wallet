@@ -1,1 +1,1 @@
-var mnemonic = "unaware endorse report insect quality plastic despair imitate bike shed display mango";
+var mnemonic = "profit romance shoe bonus primary aware affair patch dress elbow uphold drop";

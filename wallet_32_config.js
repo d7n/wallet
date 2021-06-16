@@ -1,1 +1,1 @@
-var mnemonic = "impact seed ring book clog person flower critic dial rich vicious special";
+var mnemonic = "anger major toward this wheat leopard oak sister member dust canvas obey";

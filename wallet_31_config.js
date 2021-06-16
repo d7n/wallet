@@ -1,1 +1,1 @@
-var mnemonic = "castle quote squeeze grab spy volcano census public frozen second any skirt";
+var mnemonic = "drama opinion sail village nose city merry furnace budget hour film knee";

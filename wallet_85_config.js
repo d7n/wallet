@@ -1,1 +1,1 @@
-var mnemonic = "cream social lottery stomach relief album action scheme library farm cabbage pitch";
+var mnemonic = "kidney panic umbrella battle debris cluster rally vital shove slogan purse inherit";

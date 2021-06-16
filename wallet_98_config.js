@@ -1,1 +1,1 @@
-var mnemonic = "guide master maximum trade video across tourist engine creek gravity enroll neglect";
+var mnemonic = "cupboard antenna involve return rack young two street genre slush wrestle display";

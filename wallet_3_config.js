@@ -1,1 +1,1 @@
-var mnemonic = "turkey trumpet income culture velvet pledge zebra gadget hedgehog old lunch oppose";
+var mnemonic = "vehicle gallery weekend vault kite club soda tackle future again turn gasp";

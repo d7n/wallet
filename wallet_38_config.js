@@ -1,1 +1,1 @@
-var mnemonic = "filter leaf clerk peace sell address worry net tiger again stable distance";
+var mnemonic = "raise shield extra theme tube coin legend general huge mammal depend swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "stand unusual sword enjoy matrix better correct elegant biology robust amount winner";
+var mnemonic = "simple often drip river help busy chair seat cash cycle never voice";

@@ -1,1 +1,1 @@
-var mnemonic = "visa own cool market cigar there game luggage column seven crumble endless";
+var mnemonic = "silk amateur mean stay super mix brave custom clog kitten dilemma prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "metal snap bounce text wear drift bullet decorate album coral tongue engine";
+var mnemonic = "gate sick dragon buffalo family phrase call truck fault garlic supply heavy";

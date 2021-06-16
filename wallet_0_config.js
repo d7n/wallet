@@ -1,1 +1,1 @@
-var mnemonic = "soon pet age board lounge bread language uniform glow era ostrich flash";
+var mnemonic = "ensure pottery nephew mixture pilot plastic useful depth common actor vanish vote";

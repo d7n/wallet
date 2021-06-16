@@ -1,1 +1,1 @@
-var mnemonic = "ozone merit lens pencil shy glance emerge weird behind similar love secret";
+var mnemonic = "foam initial version family orchard aware copy beauty bench fish note detect";

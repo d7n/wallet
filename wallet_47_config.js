@@ -1,1 +1,1 @@
-var mnemonic = "globe rose economy timber lab lake vendor right obey hello impact such";
+var mnemonic = "puzzle crazy hybrid catalog tackle wreck seven decade dog bird improve note";

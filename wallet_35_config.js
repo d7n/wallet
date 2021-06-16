@@ -1,1 +1,1 @@
-var mnemonic = "napkin mouse comic shy world combine athlete right submit replace denial famous";
+var mnemonic = "piano nest ensure involve metal embrace vault evolve puppy puzzle trick tiger";

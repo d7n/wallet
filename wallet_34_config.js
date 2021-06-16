@@ -1,1 +1,1 @@
-var mnemonic = "ordinary various swamp tunnel obtain earn concert forum alpha find expire swear";
+var mnemonic = "resemble gallery kite script taste spring six cat winter rice bean belt";

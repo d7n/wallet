@@ -1,1 +1,1 @@
-var mnemonic = "afraid swear label cash magnet result ordinary final entire velvet myth elevator";
+var mnemonic = "glow inject warrior brief silver amazing gaze animal bacon claim muscle grief";

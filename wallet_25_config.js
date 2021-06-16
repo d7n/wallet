@@ -1,1 +1,1 @@
-var mnemonic = "nest birth cool exact silly there arch solution unit tongue veteran nuclear";
+var mnemonic = "fragile spirit above shaft topple cheese version sign stairs voice slush fog";

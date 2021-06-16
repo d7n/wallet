@@ -1,1 +1,1 @@
-var mnemonic = "multiply clutch write daring mouse alcohol document laundry local glare level stage";
+var mnemonic = "alert unknown thumb reflect renew senior make radar shed slender tail mosquito";

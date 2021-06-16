@@ -1,1 +1,1 @@
-var mnemonic = "gun bring flame glory science quarter monster birth march must nest soul";
+var mnemonic = "robust repeat there exhaust creek pretty genre sport ordinary clinic flavor position";

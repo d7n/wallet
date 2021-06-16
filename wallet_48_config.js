@@ -1,1 +1,1 @@
-var mnemonic = "wagon awake toast innocent exclude exchange vapor fade uncover other way gift";
+var mnemonic = "fork sad gate ghost great tool embody ecology ski staff sign scene";
