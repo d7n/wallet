@@ -1,1 +1,1 @@
-var mnemonic = "fame buffalo weapon recipe enough blanket believe tumble ladder rail brand tattoo";
+var mnemonic = "mobile shoot chief vault still egg strike loud baby uphold ranch pull";

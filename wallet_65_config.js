@@ -1,1 +1,1 @@
-var mnemonic = "type dentist actress draft shaft shop imitate olympic ball maze street pen";
+var mnemonic = "obtain audit minimum monkey save symbol blame portion emerge where taxi smart";

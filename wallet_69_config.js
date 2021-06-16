@@ -1,1 +1,1 @@
-var mnemonic = "pact deliver virtual forum material suffer kitchen morning one march hurry diet";
+var mnemonic = "gravity dog motion capable castle run major twelve ask accuse blind jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "derive exist surround lens random wing boring steel skull derive tell people";
+var mnemonic = "panel biology lemon shrug material miracle own impose vocal trip raw length";

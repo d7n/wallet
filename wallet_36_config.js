@@ -1,1 +1,1 @@
-var mnemonic = "people dutch peanut saddle radio regret copy cry front tourist cheese chicken";
+var mnemonic = "monkey stove twist trade client armor cliff thank like void slush certain";

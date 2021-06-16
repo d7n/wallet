@@ -1,1 +1,1 @@
-var mnemonic = "slow shield drill choose orchard room plug machine crazy betray jungle stone";
+var mnemonic = "pool hill steak will connect sketch since fabric gauge lecture vivid alarm";

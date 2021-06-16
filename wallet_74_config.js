@@ -1,1 +1,1 @@
-var mnemonic = "shallow risk blame drift stone aware smoke resist monkey shrimp worth turtle";
+var mnemonic = "great equal soap scatter exhibit zone april analyst news vast uphold stereo";

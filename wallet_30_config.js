@@ -1,1 +1,1 @@
-var mnemonic = "worry become foam barrel dizzy chest rubber panda because lizard cake armed";
+var mnemonic = "mountain hint swallow stuff argue motion toss sun marine grit token power";

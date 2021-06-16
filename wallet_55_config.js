@@ -1,1 +1,1 @@
-var mnemonic = "dynamic flight pattern devote bus property situate pave into mercy immense inquiry";
+var mnemonic = "holiday happy whale because brisk pitch soldier brush sense junior small achieve";

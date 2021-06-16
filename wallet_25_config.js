@@ -1,1 +1,1 @@
-var mnemonic = "anchor soap museum polar dog awake two lift mention identify weekend topple";
+var mnemonic = "develop tattoo unlock ignore monitor bone venture loud illegal wedding describe true";

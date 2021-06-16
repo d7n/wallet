@@ -1,1 +1,1 @@
-var mnemonic = "pyramid ostrich express arm intact please mansion oven cloud beef slam loyal";
+var mnemonic = "fee oxygen mobile net exhaust float autumn double behave valid skin domain";

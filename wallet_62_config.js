@@ -1,1 +1,1 @@
-var mnemonic = "list bacon fly trick detail legend party valid lemon hospital tiny coyote";
+var mnemonic = "six crater remove dumb market tide reject rare divert coyote mansion salt";

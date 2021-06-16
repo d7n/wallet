@@ -1,1 +1,1 @@
-var mnemonic = "oblige hub reward net sunny awesome rain minimum unique helmet lunar enough";
+var mnemonic = "remain clutch orchard skirt punch swallow cannon snap torch cover consider uniform";

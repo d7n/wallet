@@ -1,1 +1,1 @@
-var mnemonic = "prefer normal canal corn photo scout space celery ozone mushroom find nasty";
+var mnemonic = "monster scrub gift vital style lounge ranch attack bird illness spot practice";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp envelope nominee jaguar sing father rhythm off praise alert attract rescue";
+var mnemonic = "master bitter globe one tube bulb aspect abstract ordinary survey rate pride";

@@ -1,1 +1,1 @@
-var mnemonic = "wife fringe donor adapt lecture around range peace subway reunion vendor curve";
+var mnemonic = "raven card slush sugar bitter tennis whip chef outside rookie axis stay";

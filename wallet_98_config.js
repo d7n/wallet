@@ -1,1 +1,1 @@
-var mnemonic = "wire tell arrive pulp buffalo disagree huge evil grain tornado code spy";
+var mnemonic = "wife salmon ugly method enable antique cinnamon panic client often myth summer";

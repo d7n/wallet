@@ -1,1 +1,1 @@
-var mnemonic = "tray chaos soda crush benefit venue hunt allow memory month deputy finish";
+var mnemonic = "basket crumble wealth assault cruel either million core cabin relax glove umbrella";

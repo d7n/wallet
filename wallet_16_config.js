@@ -1,1 +1,1 @@
-var mnemonic = "ginger unveil old magic glare photo educate crush today sound awake garment";
+var mnemonic = "click arrow icon vessel sell travel skate ketchup breeze lady upgrade throw";

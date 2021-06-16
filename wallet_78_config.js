@@ -1,1 +1,1 @@
-var mnemonic = "suffer hidden legend kidney holiday split evil punch veteran roof ensure frequent";
+var mnemonic = "hurt slam journey inherit narrow load wise math beach card random goose";

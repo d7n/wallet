@@ -1,1 +1,1 @@
-var mnemonic = "taxi later session muffin tissue ready feel exotic stool gate adapt submit";
+var mnemonic = "destroy invite talk tank mention prevent marine else effort card must truth";

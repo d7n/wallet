@@ -1,1 +1,1 @@
-var mnemonic = "you cannon waste sleep vapor autumn chaos segment slight split winner trust";
+var mnemonic = "trend resource parrot together addict soldier sugar rain toilet piece only orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "brief nature display brisk pitch tunnel tunnel execute wrestle achieve chef hope";
+var mnemonic = "wonder sustain feel inhale snow remember ribbon pitch occur actress predict dream";

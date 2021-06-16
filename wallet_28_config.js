@@ -1,1 +1,1 @@
-var mnemonic = "gown autumn urge tank orient acquire sand engage stairs abstract tonight alarm";
+var mnemonic = "like arm glad amazing insane rack call atom cram flag govern congress";

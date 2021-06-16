@@ -1,1 +1,1 @@
-var mnemonic = "language gaze gravity match mistake chronic success top shrug rent output ritual";
+var mnemonic = "divide husband peanut senior puppy acoustic brisk toward federal frequent simple deal";

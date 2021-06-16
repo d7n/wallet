@@ -1,1 +1,1 @@
-var mnemonic = "stuff sunny concert antique student month install spray label submit type ribbon";
+var mnemonic = "slim hazard bicycle episode error garlic piece sing force exclude sun gather";

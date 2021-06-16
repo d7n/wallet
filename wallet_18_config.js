@@ -1,1 +1,1 @@
-var mnemonic = "swear boil raise invest oxygen strike grid pride join spider daring umbrella";
+var mnemonic = "mirror gain polar wife ring cable parent climb obey tilt museum receive";

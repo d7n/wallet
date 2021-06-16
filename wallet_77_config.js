@@ -1,1 +1,1 @@
-var mnemonic = "ghost ignore jeans hidden novel lucky bring poet helmet rookie loan normal";
+var mnemonic = "island jealous wife want man exile waste truth wide uncle feed power";

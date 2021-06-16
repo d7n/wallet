@@ -1,1 +1,1 @@
-var mnemonic = "add pattern sun drill muffin gun size depend faculty junk click payment";
+var mnemonic = "leave wheel ginger blade exchange foster blanket glare loop nest tiny try";

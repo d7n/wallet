@@ -1,1 +1,1 @@
-var mnemonic = "owner source civil critic insane hollow soldier life rib trust ladder maze";
+var mnemonic = "carbon bar someone link hidden secret wear budget beyond gather receive throw";

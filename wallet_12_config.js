@@ -1,1 +1,1 @@
-var mnemonic = "jealous umbrella cabbage eyebrow oil win picture stadium style voice leaf proof";
+var mnemonic = "scissors long elevator useful bonus fiction cream panther rate tissue plug melody";

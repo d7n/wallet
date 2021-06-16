@@ -1,1 +1,1 @@
-var mnemonic = "bind silver spray into radio scare nice gun body wonder next addict";
+var mnemonic = "verify sweet diet brass organ ritual various rib simple pet crush fetch";

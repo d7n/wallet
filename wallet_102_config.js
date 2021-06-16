@@ -1,1 +1,1 @@
-var mnemonic = "brain earth please airport universe enjoy impulse cabbage capable female canyon heart";
+var mnemonic = "elite again magnet elephant raw expire thing purity useful chef say wheel";

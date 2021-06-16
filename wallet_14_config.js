@@ -1,1 +1,1 @@
-var mnemonic = "curtain junior early engine stairs cactus conduct reopen clever flat prize unlock";
+var mnemonic = "tilt oblige clarify skin solar proud design cash material price depth state";

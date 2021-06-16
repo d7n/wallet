@@ -1,1 +1,1 @@
-var mnemonic = "dutch sadness axis arrow abuse want differ lazy trumpet toilet echo city";
+var mnemonic = "unknown caution bright tired chef social train material normal escape match ranch";

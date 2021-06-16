@@ -1,1 +1,1 @@
-var mnemonic = "flip canal top rent solid lake fossil virus enough brother wash loyal";
+var mnemonic = "scatter dove fresh account unfair own loop kiwi sauce opera harvest brave";

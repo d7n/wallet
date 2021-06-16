@@ -1,1 +1,1 @@
-var mnemonic = "insect blouse result mention exercise kangaroo eager virtual tortoise disagree black flash";
+var mnemonic = "engage avoid promote match allow moment vacant snow avoid injury cannon addict";

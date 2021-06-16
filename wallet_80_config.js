@@ -1,1 +1,1 @@
-var mnemonic = "health decorate staff warm comic theme drastic derive peace south casual donate";
+var mnemonic = "possible stumble heavy student enough consider hat again weapon essence evidence old";

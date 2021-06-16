@@ -1,1 +1,1 @@
-var mnemonic = "random grain lounge puzzle vacuum visual token celery side swamp box rebuild";
+var mnemonic = "adult frame unknown stool common cook enter own pupil olive rebel nurse";

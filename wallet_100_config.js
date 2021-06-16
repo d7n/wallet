@@ -1,1 +1,1 @@
-var mnemonic = "general limb deputy will destroy leave avocado check lift shuffle fine garlic";
+var mnemonic = "horror immune loop flame ivory satisfy blast zero language deliver final usual";

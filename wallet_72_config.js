@@ -1,1 +1,1 @@
-var mnemonic = "cable write raven woman consider window crime concert slab logic harvest oblige";
+var mnemonic = "spell attitude surge camp hat pool wheel exile tornado scrap east hire";

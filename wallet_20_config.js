@@ -1,1 +1,1 @@
-var mnemonic = "office erupt suggest gadget puppy orient biology trophy lumber token story human";
+var mnemonic = "farm dove head tag auction loyal super issue pool six armor woman";

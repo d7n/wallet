@@ -1,1 +1,1 @@
-var mnemonic = "arrive wild live hover mention shove oven venture mention patient evolve token";
+var mnemonic = "people strategy fancy truth green labor program lawsuit hand blur blur nut";

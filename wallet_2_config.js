@@ -1,1 +1,1 @@
-var mnemonic = "pyramid forum tongue one winner circle stomach blade empty venue blood hungry";
+var mnemonic = "country rhythm favorite demand tourist flavor foot tiger faint ugly custom burger";

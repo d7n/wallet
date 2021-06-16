@@ -1,1 +1,1 @@
-var mnemonic = "eager ethics scissors bind tonight token organ supreme lucky quantum twice glide";
+var mnemonic = "super super tired review city frost fly quality trim lawn element jar";

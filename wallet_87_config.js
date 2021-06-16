@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur expand wheat capital abuse turn damp isolate vacant never loop prize";
+var mnemonic = "gold twice jealous stable robust shadow elevator alter ostrich stumble federal public";

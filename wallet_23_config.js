@@ -1,1 +1,1 @@
-var mnemonic = "beach novel dignity joy lazy conduct home execute virus mixture senior annual";
+var mnemonic = "meadow fashion mammal surprise split power neutral try picnic give feel hospital";

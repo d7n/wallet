@@ -1,1 +1,1 @@
-var mnemonic = "account acquire army rice scrub bracket essence open spoil memory unveil water";
+var mnemonic = "frame moral giggle pitch dynamic about chair any muscle mixed link opinion";

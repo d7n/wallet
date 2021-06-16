@@ -1,1 +1,1 @@
-var mnemonic = "web snack coach ship radio lens donate involve call nasty unknown food";
+var mnemonic = "place flash manage offer soon across people finger patient area panther erosion";

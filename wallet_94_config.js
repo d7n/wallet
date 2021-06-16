@@ -1,1 +1,1 @@
-var mnemonic = "brother scale knock hospital ugly transfer person blood long useless coil dove";
+var mnemonic = "wasp car hurry still modify laugh black recipe bread spray capable legal";

@@ -1,1 +1,1 @@
-var mnemonic = "pull loyal critic fatigue prison immense picnic tip chef moral bronze insane";
+var mnemonic = "defy orphan view smoke tongue lyrics day husband barely april festival view";

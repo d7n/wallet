@@ -1,1 +1,1 @@
-var mnemonic = "almost damp daring gasp clown frame drink alarm dynamic puzzle produce coconut";
+var mnemonic = "soda elevator across endorse muffin angry ecology emotion cliff language shadow swap";

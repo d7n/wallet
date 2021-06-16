@@ -1,1 +1,1 @@
-var mnemonic = "dance ceiling fuel satoshi cliff job turtle faint fix chimney theme youth";
+var mnemonic = "approve casino verb dose wife enough razor habit payment subject resemble pool";

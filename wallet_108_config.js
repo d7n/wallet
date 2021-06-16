@@ -1,1 +1,1 @@
-var mnemonic = "enjoy urban kingdom police toward finger ten melody chuckle stock pumpkin conduct";
+var mnemonic = "world method carry rigid clinic detail small report identify cattle attract scorpion";

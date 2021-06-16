@@ -1,1 +1,1 @@
-var mnemonic = "laundry vibrant dolphin champion minor miss say approve winter pelican invest build";
+var mnemonic = "danger prepare night pony between lake immune mushroom volcano soap trip equal";

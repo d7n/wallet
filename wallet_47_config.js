@@ -1,1 +1,1 @@
-var mnemonic = "confirm emotion soldier slush tunnel used pulp wine light shuffle mammal race";
+var mnemonic = "park chronic clerk marine sadness valley language approve dinosaur catalog noodle length";

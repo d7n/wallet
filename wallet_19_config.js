@@ -1,1 +1,1 @@
-var mnemonic = "amused slight annual hen universe laptop floor credit grid invite source stool";
+var mnemonic = "oil visit there truth below hub bicycle goat festival sniff limit camera";

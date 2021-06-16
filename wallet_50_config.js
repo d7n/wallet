@@ -1,1 +1,1 @@
-var mnemonic = "crazy raise tiny random beef twice middle consider enable lady brother peasant";
+var mnemonic = "empty crunch civil alone senior various hill glimpse cupboard foam neck similar";

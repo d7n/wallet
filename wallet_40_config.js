@@ -1,1 +1,1 @@
-var mnemonic = "fat kick float lend broom bronze predict cliff this reason drift razor";
+var mnemonic = "whisper warfare cry siren clap adjust limit current leader liquid learn great";

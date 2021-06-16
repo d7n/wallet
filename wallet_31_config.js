@@ -1,1 +1,1 @@
-var mnemonic = "awake tunnel adapt require wheel demise peace slab impulse slab raccoon hour";
+var mnemonic = "amazing top churn vault mass guard nuclear diesel donkey warm swarm long";

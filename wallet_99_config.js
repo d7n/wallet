@@ -1,1 +1,1 @@
-var mnemonic = "owner task domain gloom asset odor inner unfold soap snap story alley";
+var mnemonic = "poet mystery sketch during person still permit paper pass tray electric review";

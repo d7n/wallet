@@ -1,1 +1,1 @@
-var mnemonic = "brisk flower wage sight trip climb fortune below impose quiz local lizard";
+var mnemonic = "fiction space pretty trim raven member desk clown enable gather staff essay";

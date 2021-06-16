@@ -1,1 +1,1 @@
-var mnemonic = "crush news friend year tell square empty awful pig modify decade cat";
+var mnemonic = "airport heart another heart index injury predict involve birth ranch draft now";

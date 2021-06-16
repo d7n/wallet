@@ -1,1 +1,1 @@
-var mnemonic = "iron pride bulk oxygen unaware arena cart glare knee twin maid outer";
+var mnemonic = "uncover cake sock rain raven more gospel neither reduce arrest advance update";

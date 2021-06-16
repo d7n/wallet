@@ -1,1 +1,1 @@
-var mnemonic = "avocado carbon index enjoy abuse father enter south moon shrug sight round";
+var mnemonic = "under grocery laptop agree kitchen purchase fee adapt mouse vocal conduct purse";

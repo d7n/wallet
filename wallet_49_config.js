@@ -1,1 +1,1 @@
-var mnemonic = "ramp link path night street inspire humor champion disease maximum casino interest";
+var mnemonic = "excess mobile labor blind addict special arena concert echo brass space muffin";

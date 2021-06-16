@@ -1,1 +1,1 @@
-var mnemonic = "wage physical luxury genius ginger happy defy abandon van click lady canoe";
+var mnemonic = "again drive high peanut excite bench energy hat detect solve firm session";

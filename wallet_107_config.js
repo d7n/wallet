@@ -1,1 +1,1 @@
-var mnemonic = "gate cool veteran goose attack monitor virtual crash canal vessel unveil diet";
+var mnemonic = "vacant destroy banner grass hockey dragon toward coach cricket reflect injury twice";

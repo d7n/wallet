@@ -1,1 +1,1 @@
-var mnemonic = "gallery shift actual panel share month absent right destroy camera dash fly";
+var mnemonic = "mountain veteran fence tornado enforce lucky cricket fluid daughter improve music razor";

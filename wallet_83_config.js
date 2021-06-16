@@ -1,1 +1,1 @@
-var mnemonic = "biology afford life silent turtle shadow special floor bag behave run bullet";
+var mnemonic = "genre narrow sheriff zero discover scene twist chalk oblige weapon chase grow";

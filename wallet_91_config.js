@@ -1,1 +1,1 @@
-var mnemonic = "usage winter chief unknown slight interest suggest talent floor screen odor truly";
+var mnemonic = "olympic dinner memory drive weird phone advance spirit wage aspect window jewel";

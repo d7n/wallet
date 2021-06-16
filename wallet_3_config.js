@@ -1,1 +1,1 @@
-var mnemonic = "birth abuse path clay disease pilot dog vocal exhaust major scheme nurse";
+var mnemonic = "evidence approve hotel main they sad build filter monkey arctic blanket fiber";

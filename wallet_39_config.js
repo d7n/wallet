@@ -1,1 +1,1 @@
-var mnemonic = "essence fantasy avocado over royal inch security pepper reopen roast analyst shed";
+var mnemonic = "payment stock track surge royal region volume anxiety antenna decline begin pumpkin";

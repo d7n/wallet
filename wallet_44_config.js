@@ -1,1 +1,1 @@
-var mnemonic = "strategy ozone detail sock simple miracle uncover help doll among chef buyer";
+var mnemonic = "script swap leisure quit anger feature glad order foil dutch miss wing";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp jump equip attract robust object rookie faint extend butter glance once";
+var mnemonic = "join prevent horn scan lucky purchase script twist table child stomach token";

@@ -1,1 +1,1 @@
-var mnemonic = "plate laugh payment repair pull spike attitude bubble october prize shoulder town";
+var mnemonic = "salon law original water mushroom answer violin fame photo slab truth warrior";

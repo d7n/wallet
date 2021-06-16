@@ -1,1 +1,1 @@
-var mnemonic = "tilt hidden knife sauce pen couple valve verify illness provide minute dawn";
+var mnemonic = "trouble tiger heavy differ metal history shell hen now consider future focus";

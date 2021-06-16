@@ -1,1 +1,1 @@
-var mnemonic = "harvest envelope dry dove text nasty demand donkey amateur symptom unique tenant";
+var mnemonic = "cause extra ocean lawn funny dumb tongue motion ankle say gaze concert";

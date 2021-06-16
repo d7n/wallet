@@ -1,1 +1,1 @@
-var mnemonic = "test humble glimpse palm denial drive hen imitate middle gold chicken left";
+var mnemonic = "tide sample caution chef police include bike attend topic mixed quarter dizzy";

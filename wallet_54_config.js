@@ -1,1 +1,1 @@
-var mnemonic = "leader capable famous exist trip world panel ride tribe blush deliver shift";
+var mnemonic = "thank manual harsh high mixed tribe worry toddler seek network chunk portion";

@@ -1,1 +1,1 @@
-var mnemonic = "limit buyer source tribe clock power mosquito love aerobic feed hat link";
+var mnemonic = "flight piano want manual loan muffin cry version inspire myself photo talent";

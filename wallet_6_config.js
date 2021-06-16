@@ -1,1 +1,1 @@
-var mnemonic = "ozone foil save dirt logic bomb sport struggle truth idea gadget later";
+var mnemonic = "remove thumb injury cute lunar insane enact tip sting valid maid mystery";

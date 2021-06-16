@@ -1,1 +1,1 @@
-var mnemonic = "toy poverty total depth chase effort vacant note much young frame era";
+var mnemonic = "number accuse fine jump army safe embody eight brush drive search country";

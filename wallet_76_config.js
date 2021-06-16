@@ -1,1 +1,1 @@
-var mnemonic = "design genius tree drill media boy usage lumber address finger ordinary emerge";
+var mnemonic = "virtual shove agent danger lumber unaware plate spoil fruit trim minute injury";

@@ -1,1 +1,1 @@
-var mnemonic = "humor shrimp alone area diesel blue caution ivory antenna between survey learn";
+var mnemonic = "output gain skill fold pulse dry spend anxiety need calm cart return";

@@ -1,1 +1,1 @@
-var mnemonic = "pond unknown idea spot lady clean tape child decide between fitness soup";
+var mnemonic = "similar leave glad viable river valve text alcohol life bench suffer wisdom";

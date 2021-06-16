@@ -1,1 +1,1 @@
-var mnemonic = "wide kitten bird voice inner edge barely belt muffin super cattle cactus";
+var mnemonic = "frown wave wise nature omit under turtle isolate what limb oblige ready";

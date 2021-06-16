@@ -1,1 +1,1 @@
-var mnemonic = "veteran sudden trap maple hair ridge equal person pass category gift bag";
+var mnemonic = "floor away husband slow bean maze grape fancy benefit answer buddy hand";

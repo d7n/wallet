@@ -1,1 +1,1 @@
-var mnemonic = "message crash satoshi exist draft swift tobacco rich foam leg fish movie";
+var mnemonic = "issue video early glove giant kite silly yard dad mobile purse young";

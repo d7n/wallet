@@ -1,1 +1,1 @@
-var mnemonic = "ethics because sudden rate century silly stairs rabbit resource garden flush proud";
+var mnemonic = "direct minimum weather normal slight deliver swift sign final humble vocal camera";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby delay twelve canvas pact slam board van lion pulse pepper moral";
+var mnemonic = "document fold paper material bar crime pigeon enough cannon sister reason garden";

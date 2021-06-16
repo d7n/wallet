@@ -1,1 +1,1 @@
-var mnemonic = "adapt crouch obvious trophy special people voyage luggage room leisure link tourist";
+var mnemonic = "version coral rare silver marble fiscal stage assault pilot raw build welcome";

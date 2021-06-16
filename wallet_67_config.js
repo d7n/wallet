@@ -1,1 +1,1 @@
-var mnemonic = "inform armor man aspect turn warfare solid stove find window water settle";
+var mnemonic = "idle jazz immense blossom topple travel survey run board effort pizza basic";

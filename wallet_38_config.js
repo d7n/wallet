@@ -1,1 +1,1 @@
-var mnemonic = "prosper predict grunt like virtual solid media wait great satoshi sausage betray";
+var mnemonic = "solve flush tilt jaguar never evil core burst dune gentle must bag";
