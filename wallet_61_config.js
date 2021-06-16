@@ -1,1 +1,1 @@
-var mnemonic = "brain master quiz shed finish expect fiscal chunk indoor firm snow feature";
+var mnemonic = "subway humor rate merge planet charge north flavor copy bean tornado bulk";

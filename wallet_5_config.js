@@ -1,1 +1,1 @@
-var mnemonic = "auto achieve canal genius young elegant noise submit move pony scissors response";
+var mnemonic = "gap main arrange opinion walnut topple follow road solar credit grocery maid";

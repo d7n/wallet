@@ -1,1 +1,1 @@
-var mnemonic = "garbage pony dial aim rose ketchup turkey afraid swap lion razor panel";
+var mnemonic = "impact cash search almost cheap erupt annual diamond evolve enlist buddy mixed";

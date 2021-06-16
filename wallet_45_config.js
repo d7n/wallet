@@ -1,1 +1,1 @@
-var mnemonic = "puppy state urge regular farm broom valley reopen gospel erode seven message";
+var mnemonic = "page glimpse scissors water like essence garbage tide motor south cool soap";

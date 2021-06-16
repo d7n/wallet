@@ -1,1 +1,1 @@
-var mnemonic = "badge bonus neither vague color bamboo dial summer embark proof betray noodle";
+var mnemonic = "tone universe black audit round until submit hub broccoli venture lend reduce";

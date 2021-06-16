@@ -1,1 +1,1 @@
-var mnemonic = "album actress slot arch jaguar local survey video song huge zoo special";
+var mnemonic = "cube motion situate fatal drip vehicle diesel convince limb early weapon honey";

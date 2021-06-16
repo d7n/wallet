@@ -1,1 +1,1 @@
-var mnemonic = "lottery memory stuff fly begin erupt marble develop track select metal logic";
+var mnemonic = "legend snack duck inform shiver cram lunch catalog give essence like burden";

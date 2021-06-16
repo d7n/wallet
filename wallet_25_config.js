@@ -1,1 +1,1 @@
-var mnemonic = "bless under any fee monkey wage peasant wine hazard remove collect plate";
+var mnemonic = "acquire road draft drop organ fault baby melody vintage gossip hybrid clean";

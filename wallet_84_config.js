@@ -1,1 +1,1 @@
-var mnemonic = "setup meadow found angle clap husband drill drift expand thing culture reduce";
+var mnemonic = "silent vehicle palace globe once term faith farm theme dove sausage correct";

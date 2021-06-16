@@ -1,1 +1,1 @@
-var mnemonic = "spike property file again stone marble bench trick lumber pudding rhythm strike";
+var mnemonic = "hazard chair sense wise just skirt catch robot oppose save blame crop";

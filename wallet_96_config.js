@@ -1,1 +1,1 @@
-var mnemonic = "uncle addict clip mango stock shield kiss remember depart night purse noble";
+var mnemonic = "act column rebuild boat cousin letter city cigar dove arena valid matrix";

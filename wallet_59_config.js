@@ -1,1 +1,1 @@
-var mnemonic = "mean conduct since occur identify ghost pledge sentence limb frequent hurt spring";
+var mnemonic = "one cart robust champion cream fall mind try copper toss apple size";

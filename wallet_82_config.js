@@ -1,1 +1,1 @@
-var mnemonic = "fluid knee arm soup warm field involve pen focus blur lift gospel";
+var mnemonic = "gauge brisk dilemma film crush explain crowd shoot tank bronze patch treat";

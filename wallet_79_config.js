@@ -1,1 +1,1 @@
-var mnemonic = "survey antenna install climb unfold success mirror novel various firm lion desk";
+var mnemonic = "fish tackle harsh pulp budget couple concert model silent garbage wrist push";

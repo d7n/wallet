@@ -1,1 +1,1 @@
-var mnemonic = "dumb drum fold ill peasant immense patrol smooth mail wear tissue evidence";
+var mnemonic = "creek nothing skin organ style grant blush island window manage vacuum calm";

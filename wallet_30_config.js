@@ -1,1 +1,1 @@
-var mnemonic = "beef before bulk alone west agent angle flock renew harbor scare attract";
+var mnemonic = "alone fat scorpion rhythm faculty mansion trend cave kingdom end midnight obscure";

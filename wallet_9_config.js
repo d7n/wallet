@@ -1,1 +1,1 @@
-var mnemonic = "miss crawl gap sample accuse panic wealth bundle kitten assault horse battle";
+var mnemonic = "entire tooth fruit online input canal essay foot tag airport gravity flip";

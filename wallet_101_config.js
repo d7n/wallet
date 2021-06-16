@@ -1,1 +1,1 @@
-var mnemonic = "frown beyond flee debris loop paper caution boss exhibit game march certain";
+var mnemonic = "dignity valve mutual always ripple immune daring pulp return hurt sort host";

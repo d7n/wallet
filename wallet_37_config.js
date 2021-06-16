@@ -1,1 +1,1 @@
-var mnemonic = "egg spatial forest because child orphan around slide galaxy into keep youth";
+var mnemonic = "catch daughter pause disease clock wrap off chronic below produce bind actual";

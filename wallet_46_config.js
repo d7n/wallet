@@ -1,1 +1,1 @@
-var mnemonic = "begin hungry neutral install erupt method luxury clock latin picture sheriff opinion";
+var mnemonic = "return shoulder hair mention chair dilemma foil junk blind sport twenty cost";

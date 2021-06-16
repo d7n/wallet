@@ -1,1 +1,1 @@
-var mnemonic = "choose diamond tonight easily mobile pink half mask olympic jump live fiber";
+var mnemonic = "horn train luggage release electric future hotel doctor together liar crumble eyebrow";

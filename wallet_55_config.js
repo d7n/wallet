@@ -1,1 +1,1 @@
-var mnemonic = "route cabin eagle cousin arrive lion field course beef clump game demand";
+var mnemonic = "bridge viable crawl tennis shallow poet gossip slender record jacket abandon short";

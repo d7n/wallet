@@ -1,1 +1,1 @@
-var mnemonic = "drop size goddess inch potato crane soldier opera expire permit appear emerge";
+var mnemonic = "assault nut ankle change put enlist harvest square arrive submit rack slender";

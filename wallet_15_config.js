@@ -1,1 +1,1 @@
-var mnemonic = "convince flush stairs inflict camp estate concert piece weapon crisp ball beef";
+var mnemonic = "lawn truly host runway shrimp eyebrow october gesture property wall behind cactus";

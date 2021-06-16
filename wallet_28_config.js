@@ -1,1 +1,1 @@
-var mnemonic = "during child alien laugh horn raccoon issue crouch know air december month";
+var mnemonic = "confirm seek clock original small gain eagle uphold stay suggest guard outside";

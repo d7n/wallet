@@ -1,1 +1,1 @@
-var mnemonic = "mass phone ticket illegal load prefer quality east female muscle impact unit";
+var mnemonic = "long gaze salon wish globe auto loop swap radio example police like";

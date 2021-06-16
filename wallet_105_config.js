@@ -1,1 +1,1 @@
-var mnemonic = "insect pepper lizard agree tooth coral cave key crowd material carry kitten";
+var mnemonic = "muffin maximum often join proud strategy pave double urge exhibit mosquito lemon";

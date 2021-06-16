@@ -1,1 +1,1 @@
-var mnemonic = "harvest game say more cinnamon monkey pill mistake recycle meat fault dial";
+var mnemonic = "pupil patient picnic release pond ocean gift around artwork fiction defy mechanic";

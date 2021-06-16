@@ -1,1 +1,1 @@
-var mnemonic = "orphan clump pluck record rally rigid wine dial egg december anchor shed";
+var mnemonic = "act cherry sheriff search lecture lab fringe critic gasp enroll hope clever";

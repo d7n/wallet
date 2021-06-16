@@ -1,1 +1,1 @@
-var mnemonic = "brain relief want ozone zero expose predict clap nothing lounge age awkward";
+var mnemonic = "ramp potato ahead tortoise media orbit round salon lobster glance screen round";

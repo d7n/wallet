@@ -1,1 +1,1 @@
-var mnemonic = "twist emotion math prize cry display vicious ignore session athlete spare awkward";
+var mnemonic = "error youth enact rescue adult police divert neutral cause jacket gloom beef";

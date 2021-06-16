@@ -1,1 +1,1 @@
-var mnemonic = "fetch trial tornado rice assume legal better unknown feel kick silly roof";
+var mnemonic = "poem transfer blame level way grass runway scissors tobacco want define case";

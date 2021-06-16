@@ -1,1 +1,1 @@
-var mnemonic = "hungry time squeeze box whale unhappy arctic blast slam lonely patient asthma";
+var mnemonic = "avocado wreck fish purity used antenna fashion noise game tape door industry";

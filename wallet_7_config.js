@@ -1,1 +1,1 @@
-var mnemonic = "umbrella program wood relief omit educate thought wink tuna avoid limit leaf";
+var mnemonic = "depth sample zero eye sort penalty old simple ridge dog choose express";

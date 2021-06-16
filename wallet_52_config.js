@@ -1,1 +1,1 @@
-var mnemonic = "canoe stone hello decide filter host impulse galaxy segment heart only cabin";
+var mnemonic = "ozone mad bid effort arch dwarf unit swim fan crater clean vault";

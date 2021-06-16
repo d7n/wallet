@@ -1,1 +1,1 @@
-var mnemonic = "play student cube jewel later explain heavy apology like height wasp main";
+var mnemonic = "venture person bike pull coin wolf tent inhale chalk apology priority infant";

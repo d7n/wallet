@@ -1,1 +1,1 @@
-var mnemonic = "ethics gate today curve unfair rhythm pottery trouble noble zoo grab purity";
+var mnemonic = "deputy oil page blast guide drama grief flash limb exact acid thank";

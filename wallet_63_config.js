@@ -1,1 +1,1 @@
-var mnemonic = "record embrace dizzy library winter okay fire garment curve donate vocal embody";
+var mnemonic = "banner rookie drama december stand jump switch possible glass cage grape minor";

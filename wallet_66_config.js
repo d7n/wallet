@@ -1,1 +1,1 @@
-var mnemonic = "novel output maid boat wine round usage rain expose fit student kit";
+var mnemonic = "rebuild creek turn crunch stamp close just track eternal random talent sick";

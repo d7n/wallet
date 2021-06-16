@@ -1,1 +1,1 @@
-var mnemonic = "bean dinosaur glove credit dawn chair mercy rural author farm degree remind";
+var mnemonic = "brave uphold stage source wing art link citizen decide twenty syrup demise";

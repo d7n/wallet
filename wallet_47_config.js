@@ -1,1 +1,1 @@
-var mnemonic = "arm captain universe term harsh ritual shrug move sell have setup write";
+var mnemonic = "wrong online play culture shiver acoustic empty fit fuel primary attract slush";

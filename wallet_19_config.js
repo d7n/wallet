@@ -1,1 +1,1 @@
-var mnemonic = "broom feature embrace pluck depart resemble battle refuse spider danger short length";
+var mnemonic = "must write blue silver inquiry grit demand argue same conduct supreme stamp";

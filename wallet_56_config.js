@@ -1,1 +1,1 @@
-var mnemonic = "myself matter circle inquiry resemble cup cousin lucky final timber candy price";
+var mnemonic = "notable south milk faith desert universe have can nose crash logic shop";

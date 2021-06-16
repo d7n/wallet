@@ -1,1 +1,1 @@
-var mnemonic = "robot arm husband name impulse plunge wasp enroll idea access aware jump";
+var mnemonic = "lounge actual prevent drill depart crazy circle diesel random cousin patch artefact";

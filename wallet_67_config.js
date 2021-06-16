@@ -1,1 +1,1 @@
-var mnemonic = "skin twin awake error board tray hair bunker library major usage swift";
+var mnemonic = "cluster flash bubble monitor enter celery unusual nurse mother remain stuff claim";

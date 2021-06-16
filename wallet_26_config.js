@@ -1,1 +1,1 @@
-var mnemonic = "reflect gossip raven analyst treat toward inject canvas absurd emerge wife mass";
+var mnemonic = "oxygen suspect mother shadow coffee cave half odor since dish surface mention";

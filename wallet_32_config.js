@@ -1,1 +1,1 @@
-var mnemonic = "eight roast road neglect crane swarm mosquito insane reopen casual sunset across";
+var mnemonic = "bounce bean patient that adapt spread bulb cable ivory twelve fancy virus";

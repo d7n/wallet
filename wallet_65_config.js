@@ -1,1 +1,1 @@
-var mnemonic = "jelly nothing february gloom shy rigid victory magic thing tooth grid trouble";
+var mnemonic = "labor favorite capable resource hen tackle parent blind shed absurd captain crucial";

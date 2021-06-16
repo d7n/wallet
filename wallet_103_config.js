@@ -1,1 +1,1 @@
-var mnemonic = "ostrich aunt glad circle spice fortune great mirror all energy recall approve";
+var mnemonic = "priority coach decade various elbow bronze light amazing sudden purse curtain peasant";

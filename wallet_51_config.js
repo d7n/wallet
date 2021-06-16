@@ -1,1 +1,1 @@
-var mnemonic = "rigid picnic sort snake borrow swarm invite coin token atom account idea";
+var mnemonic = "crash extra heart area tenant visual physical rice say luxury plate buffalo";

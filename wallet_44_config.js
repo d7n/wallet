@@ -1,1 +1,1 @@
-var mnemonic = "copper poem code gown feel citizen poverty year warrior cube history genuine";
+var mnemonic = "another tumble polar affair antique warrior stove hotel garlic warm museum grass";

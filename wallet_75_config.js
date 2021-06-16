@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur meadow symbol cup assault episode merge west harbor excess leg napkin";
+var mnemonic = "volume search mouse lyrics recycle hammer pluck theme spell what chimney aspect";

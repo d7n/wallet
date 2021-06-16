@@ -1,1 +1,1 @@
-var mnemonic = "logic sport matrix wisdom cream athlete stuff panther bar tackle silent connect";
+var mnemonic = "before approve skill rural belt muscle antique blouse chair topple early blind";

@@ -1,1 +1,1 @@
-var mnemonic = "machine cousin moral sauce cave oyster fortune candy maple blouse treat mixture";
+var mnemonic = "pool exotic ready bright direct hidden analyst grunt same century vacant project";

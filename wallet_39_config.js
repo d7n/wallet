@@ -1,1 +1,1 @@
-var mnemonic = "mandate drive vast energy stamp fee private shy eight whisper roast water";
+var mnemonic = "icon food any labor visual chunk sand bargain moon decade sausage virtual";

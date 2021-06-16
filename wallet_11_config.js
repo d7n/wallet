@@ -1,1 +1,1 @@
-var mnemonic = "select struggle elite carpet machine process purse perfect exhaust reason arena define";
+var mnemonic = "nominee iron crew lucky erode bonus repair involve year hurry switch very";

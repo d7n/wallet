@@ -1,1 +1,1 @@
-var mnemonic = "short other minimum office original end abstract useful ill tuna urge strong";
+var mnemonic = "tone large habit found alone assault divorce grant fringe keep hole churn";

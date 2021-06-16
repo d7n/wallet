@@ -1,1 +1,1 @@
-var mnemonic = "glance ketchup law tuition dentist rigid viable ivory outdoor situate wild east";
+var mnemonic = "fat pool spider youth police danger next blood bullet dose innocent fly";

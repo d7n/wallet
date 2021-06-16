@@ -1,1 +1,1 @@
-var mnemonic = "giraffe grid elder joke satisfy you genuine fever shiver duck security rain";
+var mnemonic = "agree element horn true tennis rally dizzy onion mule forget waste swift";

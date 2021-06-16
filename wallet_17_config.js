@@ -1,1 +1,1 @@
-var mnemonic = "cool pause possible insect quiz suspect expand upper question body food frog";
+var mnemonic = "only appear home nose unusual canal dial drastic discover stadium sport remove";

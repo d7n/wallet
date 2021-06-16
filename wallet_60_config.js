@@ -1,1 +1,1 @@
-var mnemonic = "either firm danger sick govern trap hollow uphold banana drip staff urban";
+var mnemonic = "rhythm angle acid actress history donor credit industry safe select can chapter";

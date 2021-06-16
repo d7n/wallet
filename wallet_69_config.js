@@ -1,1 +1,1 @@
-var mnemonic = "kick duck glide sweet into flip bicycle license sketch winner tragic profit";
+var mnemonic = "draft phone orange outer bounce task suffer fossil rescue small hotel indicate";

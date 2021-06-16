@@ -1,1 +1,1 @@
-var mnemonic = "wait ill fine curious hundred range rude inch ozone cook trial auto";
+var mnemonic = "sing holiday inhale refuse olympic assault icon tent friend awkward small pattern";

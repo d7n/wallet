@@ -1,1 +1,1 @@
-var mnemonic = "ticket opera ice sudden minute noble short salmon velvet horse teach barely";
+var mnemonic = "device toy donate purpose deputy tiger bread warm hen stuff few double";

@@ -1,1 +1,1 @@
-var mnemonic = "toast play walk increase snack dial light basket maze stove hospital talk";
+var mnemonic = "figure enemy drill chef twelve news cherry alone round zoo shallow arrive";

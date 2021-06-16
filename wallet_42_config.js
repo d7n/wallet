@@ -1,1 +1,1 @@
-var mnemonic = "girl tenant loyal elevator disease fade cart unfair silk catalog arm clever";
+var mnemonic = "surface aware rude manual giraffe elegant cabbage distance faculty near bicycle situate";

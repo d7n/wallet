@@ -1,1 +1,1 @@
-var mnemonic = "labor verb term lawn attend market humble goose kingdom poverty hint hand";
+var mnemonic = "worry agree bundle width reform barrel awesome health accident flock artist bar";

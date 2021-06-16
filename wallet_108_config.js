@@ -1,1 +1,1 @@
-var mnemonic = "woman trend employ elevator rough jeans idle target any boss detect trip";
+var mnemonic = "car stairs edge hand ill laugh chat ladder rough estate unique want";

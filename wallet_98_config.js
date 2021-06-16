@@ -1,1 +1,1 @@
-var mnemonic = "token stuff steak more anxiety bottom crucial load concert nice industry swift";
+var mnemonic = "region loyal rapid style struggle extend later come jewel citizen result media";

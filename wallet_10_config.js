@@ -1,1 +1,1 @@
-var mnemonic = "thing scheme fancy diary soft dress energy rival obey wife mouse people";
+var mnemonic = "strike smart survey post scrub tattoo alpha later lawsuit need curve stone";

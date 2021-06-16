@@ -1,1 +1,1 @@
-var mnemonic = "obvious educate elder spawn ignore brother enjoy steel raise install stage valid";
+var mnemonic = "pact surface annual element drum solar warm business spike reform lawn rather";

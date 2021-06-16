@@ -1,1 +1,1 @@
-var mnemonic = "castle few athlete jazz volcano tired door ginger speed inhale begin expect";
+var mnemonic = "injury leaf rhythm try open ketchup age brisk club flat typical snap";

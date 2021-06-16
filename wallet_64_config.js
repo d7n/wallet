@@ -1,1 +1,1 @@
-var mnemonic = "text swap fragile marine glory main next local town female wonder glance";
+var mnemonic = "foot lawsuit include glare service accident switch rhythm twenty isolate camp soccer";

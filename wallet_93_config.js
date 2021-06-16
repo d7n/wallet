@@ -1,1 +1,1 @@
-var mnemonic = "craft material neutral neglect wish pottery swift ripple virtual six crush hunt";
+var mnemonic = "assume tower board dance focus dinner urge glow input deal woman play";

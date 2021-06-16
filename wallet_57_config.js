@@ -1,1 +1,1 @@
-var mnemonic = "comic title outer fiscal raccoon shift put square fetch note another guitar";
+var mnemonic = "step visual bless bid ribbon border mule fit maid club rotate clever";

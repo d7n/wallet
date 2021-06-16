@@ -1,1 +1,1 @@
-var mnemonic = "soldier spell topic ostrich brick already birth rely fog under wide ordinary";
+var mnemonic = "chef early avocado little crowd giraffe rate cabin sense near detect emerge";

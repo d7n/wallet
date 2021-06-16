@@ -1,1 +1,1 @@
-var mnemonic = "buddy eyebrow once foam there olympic people allow infant tortoise more submit";
+var mnemonic = "lemon round village power intact dash pulse rain debate robust achieve knife";

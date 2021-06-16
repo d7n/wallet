@@ -1,1 +1,1 @@
-var mnemonic = "refuse indoor drip afraid aspect funny visual diary plug answer glad motor";
+var mnemonic = "nice typical town rocket zebra glass fork warm october entry acoustic elder";

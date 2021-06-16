@@ -1,1 +1,1 @@
-var mnemonic = "copper absorb goat chef ecology call year year margin top pause produce";
+var mnemonic = "trophy verify make lazy struggle minute process reflect waste owner rain ring";

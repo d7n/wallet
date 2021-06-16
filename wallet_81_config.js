@@ -1,1 +1,1 @@
-var mnemonic = "catch thumb property motion stumble myself joke twin ocean find nation decade";
+var mnemonic = "dwarf wall resist top entry occur describe among peasant salad quick copper";

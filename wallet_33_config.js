@@ -1,1 +1,1 @@
-var mnemonic = "ketchup clump wish argue review deal guilt above valid fortune lumber float";
+var mnemonic = "pilot claim belt online liberty mass universe loop coil rug sugar travel";

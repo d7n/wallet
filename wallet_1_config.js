@@ -1,1 +1,1 @@
-var mnemonic = "puppy fall index radar sibling yellow desk connect kind tackle crunch shoe";
+var mnemonic = "witness wrestle stamp cram can rally play leopard casual obvious loan select";

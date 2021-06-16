@@ -1,1 +1,1 @@
-var mnemonic = "gorilla jewel inflict spider expand night advice struggle dawn ski present knee";
+var mnemonic = "bread regular trap appear behind demise novel obvious net curtain royal general";

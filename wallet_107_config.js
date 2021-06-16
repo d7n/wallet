@@ -1,1 +1,1 @@
-var mnemonic = "example urge stereo violin boy link toy social cat paddle logic purse";
+var mnemonic = "inquiry alert strike jazz damage bread wrestle dwarf observe orange level dawn";

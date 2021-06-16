@@ -1,1 +1,1 @@
-var mnemonic = "age stool expire scan much gaze share smart raccoon paddle trophy tape";
+var mnemonic = "cool garment motion permit inquiry this crowd segment acoustic destroy wrong wrong";

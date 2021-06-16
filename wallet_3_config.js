@@ -1,1 +1,1 @@
-var mnemonic = "quiz mosquito virus salute inhale you evidence evidence thank symbol uncle steel";
+var mnemonic = "phone purse face obscure pull scan athlete public quantum sell march fiction";

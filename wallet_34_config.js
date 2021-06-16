@@ -1,1 +1,1 @@
-var mnemonic = "afford tiger arm favorite canal boil note elephant stove frozen total lottery";
+var mnemonic = "poem reveal donkey trash devote army online swift puzzle push genre high";

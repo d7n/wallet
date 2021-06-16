@@ -1,1 +1,1 @@
-var mnemonic = "behave paper artwork flame wreck vast agent arrest cabin theme tent antenna";
+var mnemonic = "useless ladder bird drastic armed cry raw plunge warrior mask recipe outdoor";
