@@ -1,1 +1,1 @@
-var mnemonic = "laptop mesh doctor follow phone bean avoid sample galaxy weather angle aerobic";
+var mnemonic = "survey slide emerge pool slender meat great excite calm satoshi cable wall";

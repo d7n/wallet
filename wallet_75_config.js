@@ -1,1 +1,1 @@
-var mnemonic = "culture skate modify term banana tornado there draw top supply staff burger";
+var mnemonic = "parade box else left cage concert october loan hazard flash arrive utility";

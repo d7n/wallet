@@ -1,1 +1,1 @@
-var mnemonic = "harbor frost pepper tattoo abuse material hill gentle among steak orient prepare";
+var mnemonic = "trade zebra hybrid interest seek share eight produce decade punch ivory genre";

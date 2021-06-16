@@ -1,1 +1,1 @@
-var mnemonic = "honey paddle brother element nasty pluck eternal execute target curve cotton drip";
+var mnemonic = "candy shock rent radar coconut midnight member crawl ordinary lizard park other";

@@ -1,1 +1,1 @@
-var mnemonic = "proof into burger metal inside notable imitate answer grape desert rookie immense";
+var mnemonic = "story minimum purchase long surface cabbage quantum spirit define globe tilt access";

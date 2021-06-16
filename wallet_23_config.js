@@ -1,1 +1,1 @@
-var mnemonic = "river bean bid mistake coconut exercise neither chef ensure hammer piece design";
+var mnemonic = "treat sister swallow gossip fatigue amateur input case small sort baby gravity";

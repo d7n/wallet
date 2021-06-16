@@ -1,1 +1,1 @@
-var mnemonic = "bottom govern roof price engage direct assist wagon damp law virus essay";
+var mnemonic = "chief radar duty joy route advance define evolve lamp glide neutral tower";

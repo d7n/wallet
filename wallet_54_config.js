@@ -1,1 +1,1 @@
-var mnemonic = "lend fun stable boat wear tape among live recall cover verb traffic";
+var mnemonic = "use bread detect kick soup injury napkin system walnut ghost enemy cave";

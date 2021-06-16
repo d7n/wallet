@@ -1,1 +1,1 @@
-var mnemonic = "fruit wreck enact nothing diamond stool borrow inject fall happy fiscal traffic";
+var mnemonic = "night leg degree object raven dog cable broccoli essence empty sustain jar";

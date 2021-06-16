@@ -1,1 +1,1 @@
-var mnemonic = "purity defense dash payment young tag frown hood wasp syrup punch connect";
+var mnemonic = "alcohol embrace glass phrase coach zero nest major wall adult distance evidence";

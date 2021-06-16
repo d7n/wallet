@@ -1,1 +1,1 @@
-var mnemonic = "call exotic electric shoe border rude kitchen ocean exotic recycle matter ripple";
+var mnemonic = "egg pass certain suit cry diagram smoke smooth kangaroo apology injury advice";

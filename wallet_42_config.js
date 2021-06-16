@@ -1,1 +1,1 @@
-var mnemonic = "stick hole decade clean zebra fatal shaft engine owner offer ski decorate";
+var mnemonic = "museum powder keen kitchen curve avoid jelly square melody battle video below";

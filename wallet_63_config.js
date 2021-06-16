@@ -1,1 +1,1 @@
-var mnemonic = "increase frequent pond strong hedgehog skull depend garage park six ethics crater";
+var mnemonic = "call answer favorite inhale bullet promote shed undo push smooth scorpion pool";

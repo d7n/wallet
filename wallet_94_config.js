@@ -1,1 +1,1 @@
-var mnemonic = "lecture giant album harsh father tonight brick car exercise merit total rich";
+var mnemonic = "rude curtain cherry pelican world column patient alley piece shallow visa weekend";

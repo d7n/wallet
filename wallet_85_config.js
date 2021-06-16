@@ -1,1 +1,1 @@
-var mnemonic = "harbor tray thing lucky canoe lens laundry olympic poverty video parrot audit";
+var mnemonic = "wool scare until join worth average live host goose response fall raven";

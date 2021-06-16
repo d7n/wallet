@@ -1,1 +1,1 @@
-var mnemonic = "unique enforce fame suggest clutch club ski budget main endless candy inherit";
+var mnemonic = "still civil jacket option cabin unusual sentence enforce federal general teach undo";

@@ -1,1 +1,1 @@
-var mnemonic = "process inch reunion chief science addict eyebrow trigger obey pull diary guess";
+var mnemonic = "test task own fatal cliff bubble tired column neck hip siege refuse";

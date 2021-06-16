@@ -1,1 +1,1 @@
-var mnemonic = "elder ten plastic age battle coffee upper diesel unaware ugly wheat once";
+var mnemonic = "surprise universe arrange robust bracket bleak jump stem night pool net bicycle";

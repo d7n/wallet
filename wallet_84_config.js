@@ -1,1 +1,1 @@
-var mnemonic = "focus can visa predict coyote beauty early outside seven void august have";
+var mnemonic = "aisle annual wool stock drip earth click define arrest crane farm custom";

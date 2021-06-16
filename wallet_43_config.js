@@ -1,1 +1,1 @@
-var mnemonic = "pause myself throw opera shed drum wing glue sure claim web route";
+var mnemonic = "dynamic twist soup vocal soap fortune okay must hockey pride spawn nut";

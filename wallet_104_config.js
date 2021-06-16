@@ -1,1 +1,1 @@
-var mnemonic = "visa tattoo shaft body nature until dumb one zoo extra grit wood";
+var mnemonic = "swear able sphere fossil bullet predict birth draft situate legal misery huge";

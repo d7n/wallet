@@ -1,1 +1,1 @@
-var mnemonic = "story salad casual source tennis knife winner pill flight adjust interest pair";
+var mnemonic = "suffer version tuna slide engine tiger alcohol ensure knock media tenant pole";

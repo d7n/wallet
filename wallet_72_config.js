@@ -1,1 +1,1 @@
-var mnemonic = "expose render salute tilt bamboo capable gospel detect left family pond holiday";
+var mnemonic = "fold color load pink volcano bleak blossom essay eagle witness atom spawn";

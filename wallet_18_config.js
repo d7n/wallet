@@ -1,1 +1,1 @@
-var mnemonic = "clean measure adjust media couch casino very daughter smooth address scheme salt";
+var mnemonic = "crazy kitchen fuel system orient love limit drink aspect post reward peace";

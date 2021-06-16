@@ -1,1 +1,1 @@
-var mnemonic = "fish blur cherry curtain clarify pelican drink scout absorb crime drop boost";
+var mnemonic = "daughter fortune umbrella below pull average scene pilot volcano beauty case dirt";

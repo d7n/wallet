@@ -1,1 +1,1 @@
-var mnemonic = "modify express slam rather refuse cart symbol pair school joke insect feature";
+var mnemonic = "eye return april focus blouse hawk boy awkward wheat ceiling close silk";

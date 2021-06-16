@@ -1,1 +1,1 @@
-var mnemonic = "rifle adult fortune live verb clinic glass vocal much copper kitchen onion";
+var mnemonic = "impose venture scatter toward dentist away addict era ankle error thought laptop";

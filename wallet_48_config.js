@@ -1,1 +1,1 @@
-var mnemonic = "slot flash edge special casino peanut license siege picnic nice rug short";
+var mnemonic = "final second bitter shed try that curtain antenna have garage enough twelve";

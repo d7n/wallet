@@ -1,1 +1,1 @@
-var mnemonic = "off kid impose staff local six they weapon jacket clever innocent impulse";
+var mnemonic = "nest warm antenna bridge protect discover powder ensure mail tuna blanket avoid";

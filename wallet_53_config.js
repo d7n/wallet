@@ -1,1 +1,1 @@
-var mnemonic = "toy photo prosper three armor exile gospel mean twice dust dose dog";
+var mnemonic = "best series fantasy chapter true sea gym transfer popular boat oxygen soft";

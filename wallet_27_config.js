@@ -1,1 +1,1 @@
-var mnemonic = "light lawn envelope tornado main cash mind erupt chat dutch ride famous";
+var mnemonic = "law report alley six flip oppose spatial wire hip spend blanket label";

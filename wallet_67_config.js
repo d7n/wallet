@@ -1,1 +1,1 @@
-var mnemonic = "head cargo axis abandon square give audit modify few trend endorse garment";
+var mnemonic = "tuition more electric sample junk nice alone clarify buyer they inherit quality";

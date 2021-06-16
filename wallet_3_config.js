@@ -1,1 +1,1 @@
-var mnemonic = "minute apart violin wrong amused traffic buzz rent ecology erode demise column";
+var mnemonic = "please gold solve armor snake unhappy warfare race weasel ready sketch end";

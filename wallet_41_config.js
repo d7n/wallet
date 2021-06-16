@@ -1,1 +1,1 @@
-var mnemonic = "quick bulk pigeon mouse half panel shrug same stay car person gain";
+var mnemonic = "kiss quit shrimp require future million pull win bread celery blind village";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit smile trim thumb exist language develop very essence space cute clarify";
+var mnemonic = "fall destroy violin inmate sketch ostrich real topic clip shrimp cute clip";

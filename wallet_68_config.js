@@ -1,1 +1,1 @@
-var mnemonic = "airport person globe discover horse wreck iron soda knock gap cigar night";
+var mnemonic = "ignore doctor option mass address decorate abandon awful knee napkin mixture radar";

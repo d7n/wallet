@@ -1,1 +1,1 @@
-var mnemonic = "armor hollow crew shine elephant use under crawl civil nose zone meat";
+var mnemonic = "coral broken appear file beauty various sentence seat organ valve pizza skull";

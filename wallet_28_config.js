@@ -1,1 +1,1 @@
-var mnemonic = "produce medal bubble meadow fiber artefact uphold timber easily inside can guide";
+var mnemonic = "dash ribbon hungry vicious call reason buzz raise know quantum hobby rebuild";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic spy glue pulp bracket vendor appear join viable bleak script hazard";
+var mnemonic = "useful antique tower domain panther stage phone embody reject repeat under inspire";

@@ -1,1 +1,1 @@
-var mnemonic = "nose taste clarify always best dish elephant top rug junior title blast";
+var mnemonic = "salt candy slide just soft assist exit amateur tragic just oblige minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "increase inside gasp artist cook term stomach payment minute type skirt innocent";
+var mnemonic = "image bless artist matrix air speed elevator invite whip fever domain swear";

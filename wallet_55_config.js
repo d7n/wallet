@@ -1,1 +1,1 @@
-var mnemonic = "master street wool pottery motor mobile fury sentence unknown topic large wall";
+var mnemonic = "monkey shoot pumpkin copy clump festival meat story city canvas crunch obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "basket mistake page napkin still bottom cup bus utility cargo tribe salon";
+var mnemonic = "resource uphold admit easy improve glow fashion canal tube essay purpose prosper";

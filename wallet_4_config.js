@@ -1,1 +1,1 @@
-var mnemonic = "include nest throw torch climb rocket dumb edge pyramid logic army jazz";
+var mnemonic = "bench enter stumble index mixed extend shrug rough follow release fossil net";

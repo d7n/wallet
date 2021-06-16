@@ -1,1 +1,1 @@
-var mnemonic = "spawn citizen ride loan calm excite depart panther enable cube brisk acoustic";
+var mnemonic = "diary joke tilt solar sponsor scale spawn alarm wing trouble tongue wasp";

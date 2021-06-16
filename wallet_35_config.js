@@ -1,1 +1,1 @@
-var mnemonic = "auto theory train amused excuse country treat donkey keep hospital ginger gadget";
+var mnemonic = "brief print pony problem video inmate repair tennis wash fade champion pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair mom best fury myth water end yellow gain arrive melody nest";
+var mnemonic = "hawk observe master bonus smart resemble shaft omit dinner biology domain december";

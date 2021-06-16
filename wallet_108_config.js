@@ -1,1 +1,1 @@
-var mnemonic = "expose actor before debate surge actual inside still caution future metal parent";
+var mnemonic = "swing benefit happy addict receive bulb weekend bamboo tired own venue twist";

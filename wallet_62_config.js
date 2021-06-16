@@ -1,1 +1,1 @@
-var mnemonic = "radio joy lamp able dwarf marble volume educate satisfy emotion egg spoon";
+var mnemonic = "across noise harvest buddy soon deny proof away capable rotate fiber combine";

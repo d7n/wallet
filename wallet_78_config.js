@@ -1,1 +1,1 @@
-var mnemonic = "home one swim learn priority wealth piano convince pyramid paper cruise ahead";
+var mnemonic = "middle pool glass lock jelly garbage file boil lonely potato loud small";

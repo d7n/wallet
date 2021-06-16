@@ -1,1 +1,1 @@
-var mnemonic = "vapor cushion economy wagon west tone face shadow explain sphere squirrel casual";
+var mnemonic = "tent drastic modify milk steel biology project scare doll tent blind risk";

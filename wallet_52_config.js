@@ -1,1 +1,1 @@
-var mnemonic = "palm comfort dirt globe snow raven picnic cream gorilla melody trap east";
+var mnemonic = "obvious slight sketch maid uncle wish curtain pride artefact confirm old order";

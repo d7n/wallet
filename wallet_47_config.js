@@ -1,1 +1,1 @@
-var mnemonic = "book acquire ozone reduce south garlic noise marine produce genuine venture unhappy";
+var mnemonic = "outside eight cigar youth then vital load nut pull woman transfer current";

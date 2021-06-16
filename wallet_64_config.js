@@ -1,1 +1,1 @@
-var mnemonic = "nurse talk pudding record grow census have category focus pupil wink merit";
+var mnemonic = "dance asset suit already muscle knee fit rough bean fabric govern setup";

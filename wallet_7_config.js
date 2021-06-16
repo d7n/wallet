@@ -1,1 +1,1 @@
-var mnemonic = "broom rally father timber lounge soda bamboo describe birth combine mutual butter";
+var mnemonic = "forget subject elite exit someone shoe wife fatal palm sea satisfy reward";

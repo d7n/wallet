@@ -1,1 +1,1 @@
-var mnemonic = "magnet lake album sword elder monster derive undo joy razor scheme plate";
+var mnemonic = "cinnamon harsh napkin venue milk hungry hammer spot valve path host thought";

@@ -1,1 +1,1 @@
-var mnemonic = "page trash multiply concert opera success strike east confirm hurry guilt little";
+var mnemonic = "view slide romance arrange trade method project clerk render when exotic govern";

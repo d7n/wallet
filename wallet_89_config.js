@@ -1,1 +1,1 @@
-var mnemonic = "creek between force wrist stem like exit art neither demise virus tag";
+var mnemonic = "spawn patch lounge hospital tenant seed ivory bird answer speak maple box";

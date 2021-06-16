@@ -1,1 +1,1 @@
-var mnemonic = "artefact hat lab any invest wreck club bulk warm trade snap solid";
+var mnemonic = "antenna pelican throw library mountain phone trash cannon abuse sniff fish night";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect gospel live pilot thumb finger patrol pizza nurse enroll saddle cheap";
+var mnemonic = "pride work someone idle lazy feature inquiry cargo health snack frog express";

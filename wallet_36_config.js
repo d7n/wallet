@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin obtain problem nurse rude stuff better camera bar aim you extra";
+var mnemonic = "option hunt south resist maximum rabbit satoshi small credit life concert twice";

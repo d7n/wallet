@@ -1,1 +1,1 @@
-var mnemonic = "cement rhythm near peanut spot worth soccer cake kitchen verify cancel hunt";
+var mnemonic = "forget claim merry connect tongue boost cousin alert save shadow sail roof";

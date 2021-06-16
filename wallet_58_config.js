@@ -1,1 +1,1 @@
-var mnemonic = "bitter summer mother alert neutral own shiver speed pulp bonus dry garbage";
+var mnemonic = "coyote apart stick domain favorite castle marriage vague dragon tumble shiver rough";

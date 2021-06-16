@@ -1,1 +1,1 @@
-var mnemonic = "bamboo entire soda belt keep giggle seat phrase coconut witness misery night";
+var mnemonic = "mask tube shine nut pair escape patch limit stage popular glue toss";

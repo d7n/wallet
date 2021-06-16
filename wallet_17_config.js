@@ -1,1 +1,1 @@
-var mnemonic = "talent village stool brown lonely aisle grain prosper use absorb brown upset";
+var mnemonic = "creek toy enlist large way cake warrior sort aim celery future century";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat marble lucky knock tent robot patient expect employ hobby planet keen";
+var mnemonic = "bleak profit spike real taste yard engine weapon elegant another jungle below";

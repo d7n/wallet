@@ -1,1 +1,1 @@
-var mnemonic = "assume dwarf grief wisdom cactus swarm anchor develop tiny lawn spawn cotton";
+var mnemonic = "tilt ski slam gossip master joy loop mechanic drink frequent margin multiply";

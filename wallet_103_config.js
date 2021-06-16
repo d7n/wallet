@@ -1,1 +1,1 @@
-var mnemonic = "size master holiday pottery announce kidney honey rapid vehicle already issue account";
+var mnemonic = "bullet match pig issue early boost twelve ten rail inherit rocket token";

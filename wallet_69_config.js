@@ -1,1 +1,1 @@
-var mnemonic = "kitchen view barrel canal valid sound doctor salmon survey toilet glass flame";
+var mnemonic = "since cloud dirt horror neither wall cargo odor runway medal empty gasp";

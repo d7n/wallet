@@ -1,1 +1,1 @@
-var mnemonic = "glare tourist toward city loan sweet share indoor machine wave trend obey";
+var mnemonic = "crouch welcome above sort finger cover civil fence police creek divide era";

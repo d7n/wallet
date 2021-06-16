@@ -1,1 +1,1 @@
-var mnemonic = "cross story frozen evoke furnace purpose lock put rather negative wing govern";
+var mnemonic = "morning shove tissue senior steak motion ensure drip dune drive bunker develop";

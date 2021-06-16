@@ -1,1 +1,1 @@
-var mnemonic = "discover apology enlist farm theme document note index large west trophy middle";
+var mnemonic = "dismiss voyage twice dinosaur ugly helmet entire bike start danger mushroom grant";

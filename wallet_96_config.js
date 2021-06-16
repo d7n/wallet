@@ -1,1 +1,1 @@
-var mnemonic = "remain diamond palm hood popular donkey misery donor gaze together pyramid solar";
+var mnemonic = "gaze design thought empty imitate luggage meadow base swarm core quiz payment";

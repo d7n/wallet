@@ -1,1 +1,1 @@
-var mnemonic = "dismiss wait orient able shop concert spread recycle chuckle used feature wrap";
+var mnemonic = "movie lunch room describe can minor exact damp clay cattle left thumb";

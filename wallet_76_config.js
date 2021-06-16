@@ -1,1 +1,1 @@
-var mnemonic = "choose stage deliver actual holiday melody unit coast need risk fun rose";
+var mnemonic = "use humor brain project miracle skull click struggle hair palm search federal";

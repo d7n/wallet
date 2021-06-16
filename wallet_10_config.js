@@ -1,1 +1,1 @@
-var mnemonic = "traffic monitor affair search pig dilemma repeat spatial hub river poet version";
+var mnemonic = "media sport length twin erode glad school swamp elite gesture chef flock";

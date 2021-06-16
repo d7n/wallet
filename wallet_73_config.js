@@ -1,1 +1,1 @@
-var mnemonic = "surface receive dress vocal tube strike avoid bullet pilot net embark gaze";
+var mnemonic = "adult sadness panther sell gold boil early travel latin tube spawn vibrant";

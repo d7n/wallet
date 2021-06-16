@@ -1,1 +1,1 @@
-var mnemonic = "upon tone face tuna name friend foot obey snack casual embody outdoor";
+var mnemonic = "slot spider teach flock denial rubber glass crisp repeat odor shock more";

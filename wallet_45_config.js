@@ -1,1 +1,1 @@
-var mnemonic = "motion fall exact culture because need math atom better luxury pet rely";
+var mnemonic = "task club yellow air run begin protect scan quote step silly salute";

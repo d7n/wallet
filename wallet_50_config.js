@@ -1,1 +1,1 @@
-var mnemonic = "fork copper cliff wall hat crouch apart risk shove exhaust junior culture";
+var mnemonic = "apart tobacco twist bike route alcohol ladder kitten road produce doctor charge";

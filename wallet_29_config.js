@@ -1,1 +1,1 @@
-var mnemonic = "edge patient mosquito figure thrive mule same topple define surround rural viable";
+var mnemonic = "elite true estate frost section equip behind creek raven search traffic entire";

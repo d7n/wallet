@@ -1,1 +1,1 @@
-var mnemonic = "replace isolate tornado gas long mountain injury audit ancient soup hand vibrant";
+var mnemonic = "minimum bounce west soap suit peasant gentle mercy caught disagree funny reward";

@@ -1,1 +1,1 @@
-var mnemonic = "success spider vital swear together crowd armed mango wealth exclude mask fluid";
+var mnemonic = "hard left flush coil maid indicate misery relax inmate pull mechanic solution";

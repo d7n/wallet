@@ -1,1 +1,1 @@
-var mnemonic = "mix ripple dial fan draft laptop atom slush effort forum era rib";
+var mnemonic = "truth copper snack power flock move moral worth remain steel equip perfect";

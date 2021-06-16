@@ -1,1 +1,1 @@
-var mnemonic = "rebel trade venue labor develop poverty transfer beach remember express ensure jeans";
+var mnemonic = "grunt chief furnace hunt domain churn parent depend regular atom moon snap";

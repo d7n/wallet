@@ -1,1 +1,1 @@
-var mnemonic = "aspect buddy tube claim pink penalty grief outside wash connect napkin achieve";
+var mnemonic = "girl pill repeat used case race crystal simple pass public exchange alien";

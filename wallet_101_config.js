@@ -1,1 +1,1 @@
-var mnemonic = "sphere web bronze notable weather insane unique world mail business tilt globe";
+var mnemonic = "fiscal spend embrace write tent spatial document rural cool venture damage submit";

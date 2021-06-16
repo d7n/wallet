@@ -1,1 +1,1 @@
-var mnemonic = "gap exact invite damage stadium art drop fee pond february mixed frozen";
+var mnemonic = "laptop combine sail antenna cart erosion stone engine loan law lyrics elegant";

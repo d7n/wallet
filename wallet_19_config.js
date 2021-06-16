@@ -1,1 +1,1 @@
-var mnemonic = "regular copy palm fog stock sword praise figure rookie trade magic library";
+var mnemonic = "window bonus romance hood arrow pond interest often song panel trick square";

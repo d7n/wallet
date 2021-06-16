@@ -1,1 +1,1 @@
-var mnemonic = "quality detect color monster edge arrange uncover core gossip diet action raven";
+var mnemonic = "corn make company pet steel bread stereo resist bone oppose stumble name";

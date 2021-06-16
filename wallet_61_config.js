@@ -1,1 +1,1 @@
-var mnemonic = "bracket waste once powder lonely gentle oak invite inch seminar example gospel";
+var mnemonic = "loop title weird photo warfare tissue conduct slice rival black laugh analyst";

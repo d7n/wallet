@@ -1,1 +1,1 @@
-var mnemonic = "entire negative plastic bulb essay call shop give corn october bitter multiply";
+var mnemonic = "spirit violin trap electric valid nasty post roof embrace gasp toward family";
