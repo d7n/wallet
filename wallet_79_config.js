@@ -1,1 +1,1 @@
-var mnemonic = "ketchup foster erase fresh laugh return receive check man grant any puppy";
+var mnemonic = "wash bind then head arrange surround inflict flush effort power blue section";

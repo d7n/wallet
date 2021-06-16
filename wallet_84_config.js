@@ -1,1 +1,1 @@
-var mnemonic = "crouch lens three bright pink foil broom elevator rate flash huge churn";
+var mnemonic = "warfare marble mutual early speak actor deal ensure rain run token river";

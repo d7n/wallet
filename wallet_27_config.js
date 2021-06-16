@@ -1,1 +1,1 @@
-var mnemonic = "protect immense fetch milk fog story photo truck dial celery cancel clip";
+var mnemonic = "chase giraffe bag ramp forget melt find blast anxiety drama price hollow";

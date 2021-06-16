@@ -1,1 +1,1 @@
-var mnemonic = "sense fee physical seminar toward list melody crowd note air digital absurd";
+var mnemonic = "bounce interest poverty noodle doll analyst satisfy oil satoshi material predict garment";

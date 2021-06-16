@@ -1,1 +1,1 @@
-var mnemonic = "plate audit spoil decorate twice apology coach symbol quiz breeze until beauty";
+var mnemonic = "stage abuse shadow pact crowd crater sunset slender blast attract curtain green";

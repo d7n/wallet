@@ -1,1 +1,1 @@
-var mnemonic = "adapt device burger curve slice exit drink traffic phone october cluster tonight";
+var mnemonic = "split absorb beyond nothing evoke load shift airport current napkin wink code";

@@ -1,1 +1,1 @@
-var mnemonic = "smile setup pilot ecology bus umbrella nephew lecture uncle round come eye";
+var mnemonic = "victory budget kite remove filter confirm exact arrow biology hundred endorse result";

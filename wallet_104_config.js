@@ -1,1 +1,1 @@
-var mnemonic = "color ring voyage hockey gospel diary animal seat that phone pave road";
+var mnemonic = "dumb search culture pause pill swear equal unusual boat normal else journey";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar toddler sample erase logic glimpse relax cigar thunder clinic toe honey";
+var mnemonic = "sea obtain pause wine diesel guilt dune sign regret winter rhythm gallery";

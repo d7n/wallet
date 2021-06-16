@@ -1,1 +1,1 @@
-var mnemonic = "famous blind museum force merit final now gentle peasant dinner snap tuna";
+var mnemonic = "swamp rookie defense sail text sell try rubber bird crawl orphan drip";

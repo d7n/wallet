@@ -1,1 +1,1 @@
-var mnemonic = "vital scout isolate clerk auto open expand attack leaf amount potato live";
+var mnemonic = "elite kidney produce rival leave century gas marble valley laptop race random";

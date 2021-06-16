@@ -1,1 +1,1 @@
-var mnemonic = "stuff chef hospital slender repeat use child dynamic torch come million mountain";
+var mnemonic = "wide loyal bargain father submit idle humor canal horror weapon afraid legend";

@@ -1,1 +1,1 @@
-var mnemonic = "cave flush chuckle horn shine diagram harsh wall lazy symbol spring find";
+var mnemonic = "journey sound infant gentle upon thought accident suffer excuse behind genuine solar";

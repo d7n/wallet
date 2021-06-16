@@ -1,1 +1,1 @@
-var mnemonic = "mouse popular ocean lady vacuum name attack cabbage twelve lens useful sibling";
+var mnemonic = "also art place project relief begin explain diary write snap horse domain";

@@ -1,1 +1,1 @@
-var mnemonic = "family tone inside hospital private erode census jewel clock sure broken stock";
+var mnemonic = "about ask tackle wine silly lift render first erode zoo joy flock";

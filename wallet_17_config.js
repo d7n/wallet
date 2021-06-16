@@ -1,1 +1,1 @@
-var mnemonic = "wrist found lazy fiscal across purpose artefact remain daring name salt ill";
+var mnemonic = "pact hazard coral fuel pattern rookie balance pull weekend extend steak style";

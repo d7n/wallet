@@ -1,1 +1,1 @@
-var mnemonic = "assault concert they steak fame vast medal elephant churn swarm arm town";
+var mnemonic = "fiber strike produce alley purity rate exhibit spoon draw rabbit open expect";

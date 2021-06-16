@@ -1,1 +1,1 @@
-var mnemonic = "just hope author unit polar express pencil sponsor access race naive melody";
+var mnemonic = "excite abuse depart behave vendor pass copper wide follow excuse carbon snack";

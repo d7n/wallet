@@ -1,1 +1,1 @@
-var mnemonic = "napkin skirt click mammal skill wasp disorder pioneer mutual start orient father";
+var mnemonic = "wealth beef reflect laptop proud barely burst fatigue protect develop stomach abuse";

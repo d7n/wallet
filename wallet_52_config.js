@@ -1,1 +1,1 @@
-var mnemonic = "north fiber rough dwarf banner bridge casino metal nurse test you mom";
+var mnemonic = "page human unable mystery kick attitude warrior such love woman ridge usage";

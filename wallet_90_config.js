@@ -1,1 +1,1 @@
-var mnemonic = "pigeon will adjust rhythm program tooth defense end help scrap riot vanish";
+var mnemonic = "museum clock erase fat verb tired concert unfold state thank wedding broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "delay transfer despair edge begin custom good all six jacket dirt exact";
+var mnemonic = "lawn solar armor believe worth poverty bench faint sniff become best senior";

@@ -1,1 +1,1 @@
-var mnemonic = "coral hold blouse crowd review country cram music life autumn noise feel";
+var mnemonic = "sort rose barely smile gas captain strategy great monster ripple dress egg";

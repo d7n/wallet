@@ -1,1 +1,1 @@
-var mnemonic = "address stomach message trend horse spot security endless eager obey sphere verb";
+var mnemonic = "advice gallery cargo obscure thought actor soap vapor window praise crazy original";

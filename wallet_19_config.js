@@ -1,1 +1,1 @@
-var mnemonic = "good conduct jazz sight lunch initial imitate method fatigue stomach cook neither";
+var mnemonic = "question ensure okay glide among fly bar maid high rather dismiss whip";

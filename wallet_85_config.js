@@ -1,1 +1,1 @@
-var mnemonic = "announce donate nuclear ring record total mass salute huge ten tent comic";
+var mnemonic = "flee discover thrive cool company song illness correct develop want behave rose";

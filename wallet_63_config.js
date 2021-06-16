@@ -1,1 +1,1 @@
-var mnemonic = "coin candy cry outdoor original capital warfare emotion leaf tuna brave physical";
+var mnemonic = "unusual cage waste access winner airport abandon daring this large twin swallow";

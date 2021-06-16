@@ -1,1 +1,1 @@
-var mnemonic = "toss can welcome mercy baby you ticket autumn unfold silly suit share";
+var mnemonic = "basic craft elite snack retreat family meadow text mirror vehicle flower across";

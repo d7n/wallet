@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow business fork that shuffle solar mandate wish divide income goose guess";
+var mnemonic = "credit toilet fortune repeat remind hire ripple relax owner journey maze peace";

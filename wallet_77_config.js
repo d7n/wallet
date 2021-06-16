@@ -1,1 +1,1 @@
-var mnemonic = "code move west mushroom view merge define diamond unveil rain lawn enforce";
+var mnemonic = "debate between walnut mail unhappy visual island final diamond turn verify length";

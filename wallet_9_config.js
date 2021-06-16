@@ -1,1 +1,1 @@
-var mnemonic = "nose file wrestle elephant century effort bag limb cave wrestle bind live";
+var mnemonic = "salute trash piano click float knock early chaos hungry disease innocent drive";

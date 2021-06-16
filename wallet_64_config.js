@@ -1,1 +1,1 @@
-var mnemonic = "shuffle ridge guitar expand slot craft tool mix marble weather misery shell";
+var mnemonic = "artwork industry consider balcony canal broken explain syrup observe present base ski";

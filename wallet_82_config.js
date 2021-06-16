@@ -1,1 +1,1 @@
-var mnemonic = "often depth panther universe print exist boy length celery goose napkin weird";
+var mnemonic = "arrow blind void viable rapid mechanic weasel ability filter network sorry morning";

@@ -1,1 +1,1 @@
-var mnemonic = "oven destroy chapter member rapid myth client wet egg job glove above";
+var mnemonic = "trash company travel firm mercy glue purse task plug fire noodle skirt";

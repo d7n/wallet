@@ -1,1 +1,1 @@
-var mnemonic = "mixture dragon nest salmon dwarf humor ticket nest play dizzy program report";
+var mnemonic = "moment fossil primary cherry pass congress mass injury lake seat sing shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy follow search tumble weekend couple tonight normal logic gesture thank next";
+var mnemonic = "utility trouble table resist snap answer raccoon action subway game nephew scrap";

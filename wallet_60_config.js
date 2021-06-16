@@ -1,1 +1,1 @@
-var mnemonic = "harbor repeat pear quarter gown walk book culture awkward silver option budget";
+var mnemonic = "fault tourist museum miracle machine hotel popular advice uniform master engage book";

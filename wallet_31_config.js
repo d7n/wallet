@@ -1,1 +1,1 @@
-var mnemonic = "amateur limb frozen ugly judge leave diet badge suspect sleep leisure dawn";
+var mnemonic = "now top asthma sport business chest muffin gauge beach credit ordinary gather";

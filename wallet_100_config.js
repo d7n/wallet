@@ -1,1 +1,1 @@
-var mnemonic = "sniff capital stay organ regret fade other video pitch project just orchard";
+var mnemonic = "chest trouble fire budget cost split jungle time festival post team own";

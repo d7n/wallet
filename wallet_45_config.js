@@ -1,1 +1,1 @@
-var mnemonic = "rally pluck derive chapter never cute auction palm supreme inmate dragon cry";
+var mnemonic = "humble carpet liberty oxygen napkin carry soldier shrimp broom thunder punch craft";

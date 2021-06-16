@@ -1,1 +1,1 @@
-var mnemonic = "chaos decrease use swallow differ vital spell zero knife bleak doctor puppy";
+var mnemonic = "cushion unaware client stomach honey pass private cheese know item crowd spot";

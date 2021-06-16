@@ -1,1 +1,1 @@
-var mnemonic = "venture man tongue history lazy region remove west miss leaf jelly scale";
+var mnemonic = "violin grit ski stumble wear april pride flip anger large paper zoo";

@@ -1,1 +1,1 @@
-var mnemonic = "chat salon tattoo stamp upper law winner cage primary tattoo drill suit";
+var mnemonic = "only aisle ghost cage lounge taste negative wheel sing double later burger";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust great cram laptop long old bid setup recipe property panther expire";
+var mnemonic = "domain glance palm cereal zone early short oyster help argue glare another";

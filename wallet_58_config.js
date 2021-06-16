@@ -1,1 +1,1 @@
-var mnemonic = "coin robot news blast grunt adult drift foot slim safe knee gain";
+var mnemonic = "matter trophy rebel spider rain unfair bridge pattern tank toy great creek";

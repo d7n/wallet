@@ -1,1 +1,1 @@
-var mnemonic = "endless rate trophy worry destroy one neglect welcome adult inject junk blossom";
+var mnemonic = "ceiling face sing orange choice dolphin card country sign school unveil chase";

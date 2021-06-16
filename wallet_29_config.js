@@ -1,1 +1,1 @@
-var mnemonic = "code laptop pudding attract pull garment oval middle cave anxiety skin other";
+var mnemonic = "sure scorpion tray example aisle hurt magnet wood turkey pool zero point";

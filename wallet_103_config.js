@@ -1,1 +1,1 @@
-var mnemonic = "gold drive cereal exit train cool jaguar jazz math milk target friend";
+var mnemonic = "rather birth crime city lucky twist stick scheme simple merit company woman";

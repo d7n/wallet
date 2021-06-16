@@ -1,1 +1,1 @@
-var mnemonic = "lobster curve truck giant word once visual gold symptom pelican bottom average";
+var mnemonic = "profit lucky sauce cart pole crawl educate market laptop open come athlete";

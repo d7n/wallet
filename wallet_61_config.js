@@ -1,1 +1,1 @@
-var mnemonic = "neck suggest become space gap improve minor fly mind add rate muscle";
+var mnemonic = "bubble treat robot spoil flavor law renew buddy release special useless fork";

@@ -1,1 +1,1 @@
-var mnemonic = "slow palm copy enlist path salute hidden whale embody know initial lens";
+var mnemonic = "access flight please main armor thought unit syrup kick output clip mutual";

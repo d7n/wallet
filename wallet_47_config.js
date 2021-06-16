@@ -1,1 +1,1 @@
-var mnemonic = "trend agent voyage gift trial basket hat scout usage face crack entry";
+var mnemonic = "banana belt ability box october patient illness approve sword nephew dial critic";

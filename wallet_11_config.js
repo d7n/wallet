@@ -1,1 +1,1 @@
-var mnemonic = "exotic sponsor session caution hotel original label blossom short bring embrace sustain";
+var mnemonic = "bring glare purchase weird obscure assist picture shrug extra water payment rebuild";

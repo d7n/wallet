@@ -1,1 +1,1 @@
-var mnemonic = "round volume turtle olympic seven acquire quality enhance wood unable industry cricket";
+var mnemonic = "yard brand nominee bullet custom paper trip health patrol perfect ride stool";

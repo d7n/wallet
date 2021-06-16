@@ -1,1 +1,1 @@
-var mnemonic = "picnic donate alarm choice climb amount despair congress smart inquiry pool stumble";
+var mnemonic = "save love junk opera buyer sound young surround because soldier foster weather";

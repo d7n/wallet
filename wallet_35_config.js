@@ -1,1 +1,1 @@
-var mnemonic = "extend obey absent lake domain wrong shoe car follow guitar rapid exchange";
+var mnemonic = "project lens hero diary alone plug harbor brave echo edge october tenant";

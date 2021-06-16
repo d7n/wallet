@@ -1,1 +1,1 @@
-var mnemonic = "table flee visual black salad beach extra verify horror wood enroll deal";
+var mnemonic = "gap drink hold illness skin wagon duck capital long private glare banner";

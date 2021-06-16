@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog dinner silent blind obscure phrase door artefact lonely tornado soft ghost";
+var mnemonic = "drama swim decorate inch electric exit cube slight valve caught until vital";

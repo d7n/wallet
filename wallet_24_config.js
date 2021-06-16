@@ -1,1 +1,1 @@
-var mnemonic = "morning music increase double drama bundle pretty muffin napkin bread style pole";
+var mnemonic = "once left kidney secret artist coach skill guide rail wear yard security";

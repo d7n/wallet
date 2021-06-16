@@ -1,1 +1,1 @@
-var mnemonic = "tool again regret bronze charge hidden enlist kiss dutch humor emerge bronze";
+var mnemonic = "raise adjust daughter case arena panda venue junior desk rack muffin street";

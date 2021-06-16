@@ -1,1 +1,1 @@
-var mnemonic = "scene replace depart huge crop tray creek venture salt task loan print";
+var mnemonic = "opera warrior rifle blossom kind vanish arctic ritual fortune alarm lend size";

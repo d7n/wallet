@@ -1,1 +1,1 @@
-var mnemonic = "amount pond guitar bird quarter bronze outdoor swift saddle hood crack slot";
+var mnemonic = "one utility paddle bless sadness exile grit planet swim muscle parent gadget";

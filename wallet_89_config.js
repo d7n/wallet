@@ -1,1 +1,1 @@
-var mnemonic = "toast phrase oxygen pistol dwarf genre film link piece giant intact trophy";
+var mnemonic = "fall cushion forest toss swamp build imitate wedding script correct wrong polar";

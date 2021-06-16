@@ -1,1 +1,1 @@
-var mnemonic = "market chaos seek sail balance agent board title soft senior rule loyal";
+var mnemonic = "december slab wild flower upper valley floor bargain possible they cupboard unhappy";

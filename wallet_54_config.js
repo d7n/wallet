@@ -1,1 +1,1 @@
-var mnemonic = "guide oven pluck impose ticket repair spatial wink base hood problem drop";
+var mnemonic = "dizzy outer lion normal seed pelican cable smart joke execute transfer noise";

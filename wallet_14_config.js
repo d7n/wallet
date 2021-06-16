@@ -1,1 +1,1 @@
-var mnemonic = "opera wagon whisper negative nest prepare knife wrap check canoe monkey marine";
+var mnemonic = "brand final fan unfold repeat broken control time answer tiger cherry calm";

@@ -1,1 +1,1 @@
-var mnemonic = "please exhaust inspire ocean fish review festival spider roof jar atom program";
+var mnemonic = "glove orange script symbol amazing super sport wagon winter hole arctic depend";

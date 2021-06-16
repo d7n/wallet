@@ -1,1 +1,1 @@
-var mnemonic = "skull worth turtle candy inject cupboard latin survey divide glass junior brain";
+var mnemonic = "strike bulb bless accident rural horn orbit crystal hungry acquire acquire reopen";

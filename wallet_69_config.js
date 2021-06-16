@@ -1,1 +1,1 @@
-var mnemonic = "juice chief pig gym noodle moral hire whip answer mandate view annual";
+var mnemonic = "offer wasp clean ozone opera erosion dad junk since edit know barely";

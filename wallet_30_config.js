@@ -1,1 +1,1 @@
-var mnemonic = "because volume wealth bread lion mass another source opera produce bright bicycle";
+var mnemonic = "sense crisp above switch tag photo nice merry industry border cube jazz";

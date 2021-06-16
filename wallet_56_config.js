@@ -1,1 +1,1 @@
-var mnemonic = "glass cash surround lamp enjoy future unit cage notice traffic just almost";
+var mnemonic = "autumn grid boost fatal timber genius pulse call orange axis zebra oxygen";

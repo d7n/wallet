@@ -1,1 +1,1 @@
-var mnemonic = "atom crane luxury dawn spider used sock comfort tonight puzzle razor more";
+var mnemonic = "exile pool bamboo world issue want venue egg age hammer fetch globe";

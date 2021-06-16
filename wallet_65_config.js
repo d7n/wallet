@@ -1,1 +1,1 @@
-var mnemonic = "popular cherry agent arrest apology push mail axis chapter accident brand force";
+var mnemonic = "can raven guard brush offer hello moment metal sadness swim abuse hammer";

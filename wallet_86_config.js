@@ -1,1 +1,1 @@
-var mnemonic = "step victory grow early item aerobic ozone cabbage company conduct sibling lava";
+var mnemonic = "board wear occur tilt life caution among crush aim benefit two parent";

@@ -1,1 +1,1 @@
-var mnemonic = "equal fall cup option gas ship galaxy capable owner pioneer slam reason";
+var mnemonic = "usual input pledge lunar more leisure bundle deer crystal mammal exit fetch";

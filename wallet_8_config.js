@@ -1,1 +1,1 @@
-var mnemonic = "wagon emerge hair file strong predict broccoli quote merry crush course option";
+var mnemonic = "hobby risk shoe february miracle buddy relax motor frog message grace dose";

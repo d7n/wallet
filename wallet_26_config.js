@@ -1,1 +1,1 @@
-var mnemonic = "rebel lunch parrot retreat lab display yard across enlist brief hair indoor";
+var mnemonic = "amused wagon mimic apple silly setup mystery disorder stuff fine they prepare";

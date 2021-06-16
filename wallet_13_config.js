@@ -1,1 +1,1 @@
-var mnemonic = "dry warrior link relax ghost raven state gun fatigue record neutral trap";
+var mnemonic = "boring stick ticket service pumpkin flip next bomb twenty pig nuclear raise";

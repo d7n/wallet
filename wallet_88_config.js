@@ -1,1 +1,1 @@
-var mnemonic = "onion vote task answer receive tuition order cabin better lab plunge zoo";
+var mnemonic = "key absurd shock link merge ancient trash rebel upgrade inherit window strategy";

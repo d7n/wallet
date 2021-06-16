@@ -1,1 +1,1 @@
-var mnemonic = "squirrel genre unhappy odor front height remain trash stone ceiling debris about";
+var mnemonic = "used lonely able inject hollow give silent essence mass profit narrow basket";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol woman crisp entry rate layer bless tower drive love mirror bacon";
+var mnemonic = "satoshi lend slab lunch abuse system weather matrix army gesture special seek";

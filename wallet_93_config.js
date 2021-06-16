@@ -1,1 +1,1 @@
-var mnemonic = "gentle adjust bless behind actress begin bread liberty salon window worry eager";
+var mnemonic = "impose sell write noise fever smart festival panda multiply cake hill pond";

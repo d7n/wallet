@@ -1,1 +1,1 @@
-var mnemonic = "airport solar tape manual cigar parrot siege magnet minimum spring anger era";
+var mnemonic = "bundle embody jaguar name minor south have oven board clutch supreme play";

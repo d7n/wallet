@@ -1,1 +1,1 @@
-var mnemonic = "neither disagree outside age casual regret derive abuse access sunset grid hen";
+var mnemonic = "process false electric exact include doll globe dash maximum cloth maple disease";

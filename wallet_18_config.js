@@ -1,1 +1,1 @@
-var mnemonic = "tenant dismiss diagram submit short acid offer play endless orient crazy rack";
+var mnemonic = "tide weapon memory put setup large cycle embody else before plug divorce";

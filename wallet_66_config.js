@@ -1,1 +1,1 @@
-var mnemonic = "slush virus pelican unfold width skill engine merge crane deputy affair disease";
+var mnemonic = "bird cable nephew miracle attitude thrive tuition betray occur inject puppy satoshi";

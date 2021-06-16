@@ -1,1 +1,1 @@
-var mnemonic = "firm talent eight long mom remove stone tilt truth brain then flavor";
+var mnemonic = "undo kingdom history profit promote ride execute over pudding rocket accuse eight";

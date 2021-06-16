@@ -1,1 +1,1 @@
-var mnemonic = "ribbon because inner immune taste tribe reward deliver jar grief potato axis";
+var mnemonic = "enroll uncle sock sadness enact favorite once sudden scrub luggage network accident";

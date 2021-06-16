@@ -1,1 +1,1 @@
-var mnemonic = "wrestle uniform thumb senior stable hurry plug job ensure solve artefact advance";
+var mnemonic = "relax diamond undo tongue acquire hold strategy entry vanish biology strike mimic";

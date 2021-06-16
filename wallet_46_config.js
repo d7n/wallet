@@ -1,1 +1,1 @@
-var mnemonic = "ugly uncle twin above already rice toward trim kick chicken round music";
+var mnemonic = "valid rib room next census hard rifle cliff feature steel suspect dinner";

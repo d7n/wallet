@@ -1,1 +1,1 @@
-var mnemonic = "oven example battle two scout secret expose thunder soon ghost tiger habit";
+var mnemonic = "cheese ancient please sausage auto upset hint mind flip outside orange rabbit";
