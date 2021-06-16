@@ -1,1 +1,1 @@
-var mnemonic = "drink decide middle sun vacant vicious core degree spider heart illegal garage";
+var mnemonic = "filter lock silk glance nephew choose hundred light race action tag apology";

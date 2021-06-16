@@ -1,1 +1,1 @@
-var mnemonic = "fiscal salute advice stem risk asset execute figure ordinary helmet spray genius";
+var mnemonic = "curious column arctic afraid bubble pact sport item soul tiger deny surprise";

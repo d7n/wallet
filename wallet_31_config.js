@@ -1,1 +1,1 @@
-var mnemonic = "man actual lunch shy argue potato test daughter unknown calm document law";
+var mnemonic = "sick explain brass answer useless forum pole diesel version wife coral error";

@@ -1,1 +1,1 @@
-var mnemonic = "feature leisure trend deposit sun two expect cruise obscure buyer diagram bounce";
+var mnemonic = "home north original federal salmon feature neither nothing elegant sausage run famous";

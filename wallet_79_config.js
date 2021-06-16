@@ -1,1 +1,1 @@
-var mnemonic = "frog decline squeeze tell dust seminar minute camera mirror smile alien vendor";
+var mnemonic = "month mechanic wrap dry famous erosion later apple hollow laugh winter evolve";

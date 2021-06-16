@@ -1,1 +1,1 @@
-var mnemonic = "city episode tongue unit uncle venture tide choice sock wheat jacket asset";
+var mnemonic = "ceiling man notice pottery idea margin there ready minute shift taste chest";

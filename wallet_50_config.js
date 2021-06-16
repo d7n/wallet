@@ -1,1 +1,1 @@
-var mnemonic = "uniform glide tongue life velvet harvest manual speak elevator awful raven license";
+var mnemonic = "tail nuclear able dynamic swim cloud arrange business elegant public wink swear";

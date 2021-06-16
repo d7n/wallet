@@ -1,1 +1,1 @@
-var mnemonic = "embody sketch manage only knock cactus salmon forget twin trade grape cloth";
+var mnemonic = "shove attend scare save fish drama coyote report rescue steel orbit mystery";

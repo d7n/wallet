@@ -1,1 +1,1 @@
-var mnemonic = "cheese lion rare work bread master play hospital invite ginger shaft steak";
+var mnemonic = "impact ketchup doll cattle wreck ski flash blade quick doll cheap sketch";

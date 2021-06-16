@@ -1,1 +1,1 @@
-var mnemonic = "sick result gap wool bless magic prefer rubber crystal change bus spoon";
+var mnemonic = "student staff mosquito fun calm process book prepare please remain oven void";

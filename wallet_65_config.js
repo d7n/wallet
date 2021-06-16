@@ -1,1 +1,1 @@
-var mnemonic = "series dolphin section sentence ginger metal admit pull ten invite three van";
+var mnemonic = "net pool inject mixture maid quantum december develop notice panel erosion voice";

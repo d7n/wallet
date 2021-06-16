@@ -1,1 +1,1 @@
-var mnemonic = "twin throw ring remain resemble because turtle noodle letter kidney honey please";
+var mnemonic = "judge access slender great bubble avocado average warrior hidden coyote gallery basket";

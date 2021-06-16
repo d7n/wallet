@@ -1,1 +1,1 @@
-var mnemonic = "force possible quarter regular december concert truly zebra movie loop airport penalty";
+var mnemonic = "forest flee detect grant garment media fancy news lab access kite dish";

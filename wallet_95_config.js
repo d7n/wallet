@@ -1,1 +1,1 @@
-var mnemonic = "rough mule monkey law feed apology pepper tide thunder voyage tube dress";
+var mnemonic = "cement intact economy depth able board clutch rug raise region desert guard";

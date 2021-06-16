@@ -1,1 +1,1 @@
-var mnemonic = "orbit sort copper risk kidney myth puppy shine bamboo trim size foam";
+var mnemonic = "agree answer vault idea double spring raccoon path awake supreme mirror solve";

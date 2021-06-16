@@ -1,1 +1,1 @@
-var mnemonic = "develop impact kick jeans polar convince just knife laugh typical wear ceiling";
+var mnemonic = "salt spray siren bridge carry tornado pelican nuclear lake region will come";

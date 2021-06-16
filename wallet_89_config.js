@@ -1,1 +1,1 @@
-var mnemonic = "begin mesh fork muscle parent oppose discover pride love fantasy loyal pink";
+var mnemonic = "soul cigar chest twin afford life custom deputy drive giraffe obvious follow";

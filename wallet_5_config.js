@@ -1,1 +1,1 @@
-var mnemonic = "female globe wide gate fire clinic fury brick hurt broccoli impact prosper";
+var mnemonic = "please tree cradle sight review census patient outside bag salmon summer sun";

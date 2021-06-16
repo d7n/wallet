@@ -1,1 +1,1 @@
-var mnemonic = "improve column danger friend torch very dog mutual simple report struggle focus";
+var mnemonic = "pretty vintage asthma gravity phrase volcano mandate object lens mail exotic secret";

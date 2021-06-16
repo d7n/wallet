@@ -1,1 +1,1 @@
-var mnemonic = "mother gun scene know much error spice legend machine pumpkin clinic cactus";
+var mnemonic = "trap country elephant crystal shoulder canoe siege little often mobile library lawsuit";

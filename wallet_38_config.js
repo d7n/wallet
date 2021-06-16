@@ -1,1 +1,1 @@
-var mnemonic = "left evidence unusual tumble tide same mail income chicken mind people menu";
+var mnemonic = "unhappy pact concert dirt canoe gallery firm clarify chest problem border lunar";

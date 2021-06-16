@@ -1,1 +1,1 @@
-var mnemonic = "soft garment recall obtain vague entire lava strategy junk title material unfold";
+var mnemonic = "toss flower absent prosper skate bird coral catalog sudden rival sorry organ";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake rescue sing mandate attend lizard hurry ahead unaware cook globe industry";
+var mnemonic = "move insane awkward oak wall abstract coin charge unfold siren staff canvas";

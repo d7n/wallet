@@ -1,1 +1,1 @@
-var mnemonic = "penalty wealth bamboo brief cool grass rookie hidden speak crystal intact lunch";
+var mnemonic = "course harbor force scare jump air empty blush this situate mechanic royal";

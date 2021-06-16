@@ -1,1 +1,1 @@
-var mnemonic = "beauty dial ill convince jewel use gaze mail rug carry gift october";
+var mnemonic = "firm time jelly kangaroo gate social neck patient whale aware reduce lock";

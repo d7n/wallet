@@ -1,1 +1,1 @@
-var mnemonic = "screen age exhaust solid fold yellow captain ladder slim squirrel upper ripple";
+var mnemonic = "keen mass blossom kiwi amazing frown female capable call degree grocery control";

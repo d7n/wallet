@@ -1,1 +1,1 @@
-var mnemonic = "valve double repeat morning answer indoor such mercy across nurse law follow";
+var mnemonic = "green derive gesture vague marble unfold obvious into broccoli note wealth vacuum";

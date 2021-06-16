@@ -1,1 +1,1 @@
-var mnemonic = "region enemy pave over floor envelope oxygen jealous cactus skirt crack gossip";
+var mnemonic = "cruise glimpse then marriage cake sketch script silver current inside during notice";

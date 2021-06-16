@@ -1,1 +1,1 @@
-var mnemonic = "nuclear woman kind ignore allow crater dress flash nephew burger purity quality";
+var mnemonic = "sugar pipe bird surge bus doll child car reflect clinic trade quiz";

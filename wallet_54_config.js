@@ -1,1 +1,1 @@
-var mnemonic = "slow diet nuclear audit captain major hill solution wife live code veteran";
+var mnemonic = "clutch east relax whip husband focus wolf clinic seat warrior fantasy indoor";

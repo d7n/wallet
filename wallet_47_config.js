@@ -1,1 +1,1 @@
-var mnemonic = "tooth ghost luggage dinner census still slab pool dish chair autumn load";
+var mnemonic = "stock exhaust village push exotic waste cheese sunny hungry trouble sniff educate";

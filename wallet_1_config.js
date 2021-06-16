@@ -1,1 +1,1 @@
-var mnemonic = "strike scheme actor improve into task bullet aware hood steak cluster claim";
+var mnemonic = "turn keen west mesh peasant silk south panda scrap soap husband among";

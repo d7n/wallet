@@ -1,1 +1,1 @@
-var mnemonic = "artefact rely lion crouch wave before donkey grace assist latin mystery bulk";
+var mnemonic = "approve wide allow design midnight rally valley attitude luxury grace fortune mango";

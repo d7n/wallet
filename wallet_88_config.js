@@ -1,1 +1,1 @@
-var mnemonic = "toward blanket name example short urban decide lecture cash width price polar";
+var mnemonic = "write gas close tag voyage provide arrive punch patch birth inquiry ready";

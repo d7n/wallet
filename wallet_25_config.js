@@ -1,1 +1,1 @@
-var mnemonic = "diary know erupt rich chest village spirit rabbit wild bar kiss food";
+var mnemonic = "hobby fashion swim pulp trouble olive cloud cart worth spare web hybrid";

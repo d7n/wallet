@@ -1,1 +1,1 @@
-var mnemonic = "clump brother comfort change buzz what music case multiply sail squeeze coast";
+var mnemonic = "ridge text rug print video fame fun shine scene frost lonely control";

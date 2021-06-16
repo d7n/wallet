@@ -1,1 +1,1 @@
-var mnemonic = "charge spare arrest squeeze guess surround breeze recycle pink raise mushroom capital";
+var mnemonic = "lawn fortune outer skull cup direct rug month ski address near relief";

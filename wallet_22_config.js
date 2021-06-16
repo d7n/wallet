@@ -1,1 +1,1 @@
-var mnemonic = "vibrant heart visual dumb black track barrel success release fox latin vast";
+var mnemonic = "suggest duck umbrella butter twenty praise brother neutral hover result hello dust";

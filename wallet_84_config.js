@@ -1,1 +1,1 @@
-var mnemonic = "purpose couch bid joy finger author flat victory twenty use expect gospel";
+var mnemonic = "guide strike ball kick catalog midnight crouch march offer save lottery target";

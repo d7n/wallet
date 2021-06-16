@@ -1,1 +1,1 @@
-var mnemonic = "garlic ensure enforce ill prepare cement permit below giant into kangaroo issue";
+var mnemonic = "path dial economy sausage camera lumber chimney aunt brief choose napkin sponsor";

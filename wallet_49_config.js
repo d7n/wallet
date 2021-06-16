@@ -1,1 +1,1 @@
-var mnemonic = "choose inject dentist another skate gather add increase pair quarter critic edge";
+var mnemonic = "mix cruise random october left have pave casual mosquito drum pilot around";

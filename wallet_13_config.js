@@ -1,1 +1,1 @@
-var mnemonic = "firm silly excess inch foster start pair forest anchor amazing wealth tourist";
+var mnemonic = "belt oval box early total cover kid unfold torch gloom exist angry";

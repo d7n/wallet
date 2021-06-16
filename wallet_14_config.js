@@ -1,1 +1,1 @@
-var mnemonic = "foster silk whip play wool coyote tumble carbon mouse soon fire mosquito";
+var mnemonic = "fade kid miracle put virtual shuffle sunset apple usual century suit mushroom";

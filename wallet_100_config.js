@@ -1,1 +1,1 @@
-var mnemonic = "eye mistake decline tent voyage fossil nurse void ride hand member tourist";
+var mnemonic = "crunch pole nut author shove dress embrace duck attend reject throw bag";

@@ -1,1 +1,1 @@
-var mnemonic = "basic jeans grape final crew worry model stock doctor essay want earth";
+var mnemonic = "friend urge exercise option cream hero payment flip chaos north still flame";

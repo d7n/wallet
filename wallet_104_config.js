@@ -1,1 +1,1 @@
-var mnemonic = "notable mask enjoy swarm solar blind together liar apart diamond process color";
+var mnemonic = "strike embrace transfer message asthma axis urban october pulp relief scrub betray";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle gossip glue number sand wage question differ lunar estate loud local";
+var mnemonic = "garment tribe stove drop iron warm motor dumb about winner vital cross";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage replace matrix velvet review trap swear capable success ridge hip regular";
+var mnemonic = "cereal couple differ office library other sort jump fetch tree always general";

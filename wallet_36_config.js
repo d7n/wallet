@@ -1,1 +1,1 @@
-var mnemonic = "foam few young base reward emotion rocket holiday music such metal lamp";
+var mnemonic = "roof liquid hole place snow negative toss sausage exotic midnight receive hole";

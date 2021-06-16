@@ -1,1 +1,1 @@
-var mnemonic = "sketch split tank educate walnut legend head zero tiny bunker copper lonely";
+var mnemonic = "fish awful lemon wire hurry open blush visa enjoy security trend trend";

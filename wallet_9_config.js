@@ -1,1 +1,1 @@
-var mnemonic = "dutch gadget stem lobster negative view social wink wise offer misery palace";
+var mnemonic = "decorate bridge reunion sudden ability amateur music dice bachelor naive ten silver";

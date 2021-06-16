@@ -1,1 +1,1 @@
-var mnemonic = "birth guitar banner dirt used clutch illness mango army quote asthma taxi";
+var mnemonic = "level uniform library edit brown renew search deer piece subway between cause";

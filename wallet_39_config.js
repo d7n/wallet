@@ -1,1 +1,1 @@
-var mnemonic = "volcano arrive fever this supply identify walnut absurd park mom mean helmet";
+var mnemonic = "inmate ramp curious month slam method burst talk first ensure accident day";

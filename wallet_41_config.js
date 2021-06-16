@@ -1,1 +1,1 @@
-var mnemonic = "amount pipe rookie robust sustain label soft gaze barrel speak snap guide";
+var mnemonic = "aspect anxiety spoon possible edge angry barely crystal bridge city abuse movie";

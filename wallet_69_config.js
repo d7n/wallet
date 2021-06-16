@@ -1,1 +1,1 @@
-var mnemonic = "tuition demise expire bargain divorce trap effort ribbon assault metal brave garbage";
+var mnemonic = "balance velvet congress alone bread train ritual dwarf zebra spray normal chronic";

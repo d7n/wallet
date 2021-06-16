@@ -1,1 +1,1 @@
-var mnemonic = "limit document guard aim eye banner engage grass guitar lock toe man";
+var mnemonic = "cheese rude flag tunnel floor novel have donkey mammal gift physical napkin";

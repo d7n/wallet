@@ -1,1 +1,1 @@
-var mnemonic = "install squeeze ribbon odor pelican term aware dumb police matter congress similar";
+var mnemonic = "kingdom police hub achieve faculty leisure little basket liar sadness aunt abuse";

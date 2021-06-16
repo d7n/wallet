@@ -1,1 +1,1 @@
-var mnemonic = "vintage bonus fruit sign lizard lottery canvas involve estate smooth island rug";
+var mnemonic = "treat hold crater faith shy bracket brand lumber awful rule shiver table";

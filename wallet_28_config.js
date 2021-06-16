@@ -1,1 +1,1 @@
-var mnemonic = "any ecology faith suggest dolphin oak magnet detect wife thought gate tube";
+var mnemonic = "refuse menu street provide equip spot summer atom injury major deposit quit";

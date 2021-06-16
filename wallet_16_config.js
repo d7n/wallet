@@ -1,1 +1,1 @@
-var mnemonic = "dumb glory way marine regret photo magnet lunar young stone marriage mother";
+var mnemonic = "because job umbrella velvet loop usual setup govern eternal trust predict suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "crop erase shove pudding silly phrase piece limb unit satisfy useless change";
+var mnemonic = "carry critic town clap steak rival mixture liar net buyer page huge";

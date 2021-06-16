@@ -1,1 +1,1 @@
-var mnemonic = "mouse holiday orange correct melt desert top live mind stumble sphere rebel";
+var mnemonic = "cat argue hover educate insect almost weird control oblige chronic accuse program";

@@ -1,1 +1,1 @@
-var mnemonic = "slot enforce glance action normal screen always mandate memory bike judge test";
+var mnemonic = "source retreat ecology blue found cute orphan fashion domain cable crunch fiction";

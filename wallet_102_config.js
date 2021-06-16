@@ -1,1 +1,1 @@
-var mnemonic = "neglect desert service scan glove where elite item oppose glide height rubber";
+var mnemonic = "surge carbon lava chef roof apology theme move enable warm fan measure";

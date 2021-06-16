@@ -1,1 +1,1 @@
-var mnemonic = "blade prevent midnight excite joy put kingdom hope shiver sunset gift letter";
+var mnemonic = "rich bacon total purchase repair soldier window panic patient fine ginger drum";

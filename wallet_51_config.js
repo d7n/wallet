@@ -1,1 +1,1 @@
-var mnemonic = "budget viable cousin famous hockey word execute coconut orange word deputy cram";
+var mnemonic = "owner guard south cause express duty flame talent success globe skate pipe";

@@ -1,1 +1,1 @@
-var mnemonic = "valid sail law almost lake grief unhappy loyal dance surround stable slender";
+var mnemonic = "ship country broom baby either obtain horror huge exit way skin mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel auction iron visual flee nephew great regular taste rural heart cable";
+var mnemonic = "law shine party lift inspire critic prize return glimpse summer valley clown";

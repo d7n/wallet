@@ -1,1 +1,1 @@
-var mnemonic = "copper cost logic best explain pact shuffle wish anchor upper naive license";
+var mnemonic = "medal crime settle transfer local high flavor attitude female merit yellow argue";

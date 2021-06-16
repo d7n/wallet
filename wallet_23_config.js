@@ -1,1 +1,1 @@
-var mnemonic = "machine lunar hollow bundle bar client make shell image ask ahead law";
+var mnemonic = "essay lesson bulb betray uphold nature wall gorilla captain goose truck humble";

@@ -1,1 +1,1 @@
-var mnemonic = "crew marine season pottery upgrade guide iron cycle citizen brief garbage confirm";
+var mnemonic = "genius cat asset amount assault urban place dinner enter snack grace series";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch plunge fade undo view three road easily broom elephant draft nation";
+var mnemonic = "curtain trust spend interest cliff cradle wisdom decline cart hunt minimum hour";

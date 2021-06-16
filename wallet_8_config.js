@@ -1,1 +1,1 @@
-var mnemonic = "ghost velvet captain weather dutch fly exhaust cattle valid dilemma album magic";
+var mnemonic = "trim price mass dentist equip dream coral brush blue tissue balance panel";

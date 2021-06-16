@@ -1,1 +1,1 @@
-var mnemonic = "section effort concert hundred camera debris shell tackle course before input car";
+var mnemonic = "impose hill sniff weapon fluid dolphin decade acoustic amateur decline gesture example";

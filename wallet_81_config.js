@@ -1,1 +1,1 @@
-var mnemonic = "royal kite sport victory mirror flag sugar quality mad camera tongue beauty";
+var mnemonic = "crash ghost empty talent sleep inflict pipe nothing mercy move document south";

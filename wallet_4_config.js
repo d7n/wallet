@@ -1,1 +1,1 @@
-var mnemonic = "addict twin virtual hockey token chaos erosion leaf cable carry fault alone";
+var mnemonic = "atom leader prison illegal recycle tumble use grunt soap trigger pledge spy";

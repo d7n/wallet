@@ -1,1 +1,1 @@
-var mnemonic = "reopen menu bird urge diary unaware best diet girl alone east skin";
+var mnemonic = "dish hard despair junk goose fall roof fog achieve race until speak";

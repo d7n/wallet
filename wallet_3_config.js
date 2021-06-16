@@ -1,1 +1,1 @@
-var mnemonic = "beef ordinary possible toss dinosaur spawn sure trial alpha extra forget omit";
+var mnemonic = "now cycle festival satisfy rug welcome rigid wedding during brave depart man";

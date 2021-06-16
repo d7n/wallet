@@ -1,1 +1,1 @@
-var mnemonic = "before parrot initial spare cream drop race cigar fruit place rabbit puppy";
+var mnemonic = "course kangaroo situate advance humble caught liberty enter pigeon twice dolphin dog";

@@ -1,1 +1,1 @@
-var mnemonic = "fix dutch online air rather fringe wheel rocket clog exile welcome eager";
+var mnemonic = "above satisfy moon wool scare code sail bean pill inject buffalo muffin";

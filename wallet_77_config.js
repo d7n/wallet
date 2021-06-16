@@ -1,1 +1,1 @@
-var mnemonic = "sheriff acquire arm hazard churn average tenant style lazy blanket laugh reform";
+var mnemonic = "draft save fitness mixed pelican castle scare mask bridge zebra fork option";

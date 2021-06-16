@@ -1,1 +1,1 @@
-var mnemonic = "man between october muscle bless tackle cover truly nothing wisdom custom husband";
+var mnemonic = "agree glide resemble try okay someone pipe thumb manage eager super kiwi";

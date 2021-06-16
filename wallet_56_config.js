@@ -1,1 +1,1 @@
-var mnemonic = "analyst sphere region floor swear cupboard beef amazing misery shaft dream second";
+var mnemonic = "kangaroo conduct pair glimpse truck negative timber genius physical harbor calm purity";

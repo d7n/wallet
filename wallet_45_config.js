@@ -1,1 +1,1 @@
-var mnemonic = "hand woman work sail toe humor pair before elder faint winner mean";
+var mnemonic = "robot coil mutual digital permit spend village error side floor sure forum";

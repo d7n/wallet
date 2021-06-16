@@ -1,1 +1,1 @@
-var mnemonic = "category trap swing motion dove excuse nothing carbon recipe tank basket more";
+var mnemonic = "symptom used bubble home edit weekend number rebuild owner legal ladder hover";

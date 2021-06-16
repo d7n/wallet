@@ -1,1 +1,1 @@
-var mnemonic = "flavor duck axis expand build physical snake spin inner supreme noble post";
+var mnemonic = "obvious month elite engine heavy antenna chunk march entry fantasy inch submit";

@@ -1,1 +1,1 @@
-var mnemonic = "choose build usual clever brief kitchen labor weapon accuse transfer between ensure";
+var mnemonic = "scare field senior borrow abuse oxygen latin fit empower kitchen rapid funny";

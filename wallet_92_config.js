@@ -1,1 +1,1 @@
-var mnemonic = "thunder picture wrap seek glow employ pink direct they blue step repair";
+var mnemonic = "junior draft celery melody exist outer elephant digital legal cactus cherry dune";
