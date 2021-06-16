@@ -1,1 +1,1 @@
-var mnemonic = "potato click jacket frequent course lemon tattoo oven supply option track ring";
+var mnemonic = "cereal link render remind skate typical thought zero divide fold curve awesome";

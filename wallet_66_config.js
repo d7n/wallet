@@ -1,1 +1,1 @@
-var mnemonic = "hero life across rice under board there symbol wink chase outdoor involve";
+var mnemonic = "phone bike income lock liquid pool remember misery legend crop board impact";

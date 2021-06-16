@@ -1,1 +1,1 @@
-var mnemonic = "boring super boring today excess ticket brain arrive purse tornado abstract shoulder";
+var mnemonic = "hawk regular tail split famous blouse very genius require truck picnic sponsor";

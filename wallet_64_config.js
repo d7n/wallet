@@ -1,1 +1,1 @@
-var mnemonic = "cradle flush alley eight mesh shell help kite bullet mail tray upper";
+var mnemonic = "above long cradle wolf creek holiday length opinion vacant page patrol margin";

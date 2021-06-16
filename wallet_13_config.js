@@ -1,1 +1,1 @@
-var mnemonic = "stuff horn empower snow icon drop over banner among subway casino history";
+var mnemonic = "run broccoli drop merge surface height atom evoke shove moon gap kangaroo";

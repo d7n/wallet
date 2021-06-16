@@ -1,1 +1,1 @@
-var mnemonic = "theme power young expose manual just brush plastic crystal piano panda wall";
+var mnemonic = "sheriff junk gain supply burden vast define arrange blouse essay magic fine";

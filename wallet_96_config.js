@@ -1,1 +1,1 @@
-var mnemonic = "when genre mind timber fiber special cinnamon rival hunt height leader mind";
+var mnemonic = "cannon because crawl staff patient hurdle survey door broccoli belt gloom miss";

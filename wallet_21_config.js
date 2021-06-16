@@ -1,1 +1,1 @@
-var mnemonic = "wasp aspect woman history option nothing nose cluster differ raw hard alter";
+var mnemonic = "perfect struggle invite trash skill game family voice mobile merry wish health";

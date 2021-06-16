@@ -1,1 +1,1 @@
-var mnemonic = "vague accuse quality lounge parrot idea zebra news dune raven ugly dog";
+var mnemonic = "diamond curtain grape glare velvet own satoshi floor strong give year jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "misery grace juice plate shoot purpose discover snake discover unit tip reflect";
+var mnemonic = "ready way rally chef oil purpose gain rabbit talk hamster lend casual";

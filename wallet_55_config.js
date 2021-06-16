@@ -1,1 +1,1 @@
-var mnemonic = "spring spoon already clerk viable climb bottom demise flock kingdom replace sample";
+var mnemonic = "climb side knock round movie build display wisdom sword coast snake slight";

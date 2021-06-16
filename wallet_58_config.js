@@ -1,1 +1,1 @@
-var mnemonic = "worth slow initial catch husband tilt gadget slender detail miss coral pause";
+var mnemonic = "monster bar rhythm elbow flavor foot wheel world pond protect giggle hidden";

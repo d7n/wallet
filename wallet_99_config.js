@@ -1,1 +1,1 @@
-var mnemonic = "husband nature erase road maze visual rib inch dynamic property mansion pattern";
+var mnemonic = "apple artwork culture quote august answer ignore need discover fog early spread";

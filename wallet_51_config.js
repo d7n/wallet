@@ -1,1 +1,1 @@
-var mnemonic = "typical apple winter federal hotel filter acquire danger mango this prevent spider";
+var mnemonic = "title jump pepper flee treat fortune place toss frequent general erode crumble";

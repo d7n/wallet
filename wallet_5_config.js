@@ -1,1 +1,1 @@
-var mnemonic = "total awkward aim body wing motion illness velvet diet bulk supply renew";
+var mnemonic = "young about stay act ribbon blush sight jaguar tuna tomorrow dentist river";

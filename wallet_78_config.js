@@ -1,1 +1,1 @@
-var mnemonic = "ranch mosquito satoshi access confirm patient horror claw two use rubber mind";
+var mnemonic = "web settle sand relief unfair front ribbon stick impose crew tank universe";

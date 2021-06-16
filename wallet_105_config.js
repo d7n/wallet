@@ -1,1 +1,1 @@
-var mnemonic = "point zero fantasy other earn obscure huge type concert fatigue lyrics apart";
+var mnemonic = "burst essay heart drop weapon copper refuse estate broccoli enforce wear board";

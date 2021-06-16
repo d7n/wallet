@@ -1,1 +1,1 @@
-var mnemonic = "couch banner secret divert master field ensure ginger top vapor claim bitter";
+var mnemonic = "sugar acoustic bacon glove host foil motion clinic essay laundry merry danger";

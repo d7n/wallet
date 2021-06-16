@@ -1,1 +1,1 @@
-var mnemonic = "helmet early flock session sheriff disagree dumb guitar drip lumber earn saddle";
+var mnemonic = "void cute vehicle finish seed loyal search awkward october mix document exhaust";

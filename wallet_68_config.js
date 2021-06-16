@@ -1,1 +1,1 @@
-var mnemonic = "news guilt hobby mosquito abandon castle gentle digital blind flip sustain prefer";
+var mnemonic = "type rule tennis school collect duck attend lab state secret announce ice";

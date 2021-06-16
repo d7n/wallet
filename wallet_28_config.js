@@ -1,1 +1,1 @@
-var mnemonic = "ride fetch toward bicycle exclude analyst until scene fortune certain sweet choice";
+var mnemonic = "industry marriage element pencil midnight result mom figure dilemma butter switch satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "world canal alone spread action remind robot fury culture maid between street";
+var mnemonic = "good pumpkin correct space village side author witness arrest erase stage else";

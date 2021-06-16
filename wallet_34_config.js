@@ -1,1 +1,1 @@
-var mnemonic = "total pair collect behind toss void credit wheel use drastic nut chef";
+var mnemonic = "still embrace elder mango parent input minute rebuild warm crumble happy puppy";

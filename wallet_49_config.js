@@ -1,1 +1,1 @@
-var mnemonic = "question swim alien wide surprise blame option envelope north flat panda boring";
+var mnemonic = "claw torch effort cigar else elephant response wire involve amused multiply promote";

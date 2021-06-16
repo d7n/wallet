@@ -1,1 +1,1 @@
-var mnemonic = "select rug question decline lunch asthma tattoo welcome chuckle sort voyage rate";
+var mnemonic = "sense left gloom maze tackle bar today ethics voice summer label defense";

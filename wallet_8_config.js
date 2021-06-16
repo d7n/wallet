@@ -1,1 +1,1 @@
-var mnemonic = "animal nut index pluck alarm merge rifle anchor cradle lunar brush sweet";
+var mnemonic = "thought gauge way actual punch tragic snack forest hero between tobacco erosion";

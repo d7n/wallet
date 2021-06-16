@@ -1,1 +1,1 @@
-var mnemonic = "sing end clean diet mobile shuffle lunch modify release smile bachelor saddle";
+var mnemonic = "traffic grocery define logic try rival mercy style include pink curve elite";

@@ -1,1 +1,1 @@
-var mnemonic = "rival legend soap deer nose cable border switch burst number bus mechanic";
+var mnemonic = "horror chicken glance country caution human topple vital swamp digital toward coil";

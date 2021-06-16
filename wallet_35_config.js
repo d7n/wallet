@@ -1,1 +1,1 @@
-var mnemonic = "panda link salmon ripple apple visit repeat street remind lucky nerve tribe";
+var mnemonic = "decrease bamboo rail other panther pass message guide tell usage gossip talent";

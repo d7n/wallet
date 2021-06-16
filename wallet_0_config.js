@@ -1,1 +1,1 @@
-var mnemonic = "remain you basic stairs slow exile brave quarter barely coin wait detect";
+var mnemonic = "grace civil range foot exotic august casino lab priority appear aerobic drive";

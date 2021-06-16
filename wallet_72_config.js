@@ -1,1 +1,1 @@
-var mnemonic = "educate goat often push laugh tray survey render endless lend truly flame";
+var mnemonic = "panda mushroom citizen smooth cradle rich jump just miracle expose cry awful";

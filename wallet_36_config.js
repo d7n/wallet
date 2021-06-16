@@ -1,1 +1,1 @@
-var mnemonic = "west awful joke still million flash task humor wine step key desert";
+var mnemonic = "goddess angry stairs ten favorite choice narrow shoulder tackle pool figure certain";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort picture myself tenant insect axis flush library captain wage situate piano";
+var mnemonic = "about expose picnic exhibit among shrug tree describe other monkey hobby couple";

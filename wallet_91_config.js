@@ -1,1 +1,1 @@
-var mnemonic = "powder stomach scout daughter admit siren endless shrug ceiling victory junk advice";
+var mnemonic = "little genuine increase lumber upon woman inner clay company duck stove knock";

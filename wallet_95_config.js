@@ -1,1 +1,1 @@
-var mnemonic = "total peanut total cluster decorate receive panther train normal cancel ridge rather";
+var mnemonic = "comic gorilla column nurse cash case toe ceiling victory foot first sugar";

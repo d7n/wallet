@@ -1,1 +1,1 @@
-var mnemonic = "post sunny evolve spice mistake pilot extend general seek basic used fit";
+var mnemonic = "kick mesh captain long crunch right carbon lizard unlock dinner virtual habit";

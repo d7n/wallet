@@ -1,1 +1,1 @@
-var mnemonic = "corn one dinner join evolve work approve divorce daughter water hockey wisdom";
+var mnemonic = "blade say erase vintage tunnel usage despair shrug join lemon crumble finish";

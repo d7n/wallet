@@ -1,1 +1,1 @@
-var mnemonic = "boost destroy sick table genre enemy bless potato air skin fitness clump";
+var mnemonic = "matrix urge job flame hand depend milk potato ozone border smile rhythm";

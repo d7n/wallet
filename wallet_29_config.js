@@ -1,1 +1,1 @@
-var mnemonic = "inherit grape hint gaze desert foil one hint rug face volume mix";
+var mnemonic = "section kidney mimic quantum rocket vendor ensure ivory vintage ski script elevator";

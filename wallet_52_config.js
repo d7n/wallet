@@ -1,1 +1,1 @@
-var mnemonic = "napkin mountain ripple require front fish decrease violin gospel mercy dinner recipe";
+var mnemonic = "cool target kitten sadness bone nation split they ostrich jazz life vague";

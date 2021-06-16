@@ -1,1 +1,1 @@
-var mnemonic = "gentle battle legend emerge pride mirror market endorse merry comic kangaroo ensure";
+var mnemonic = "enroll argue box purchase convince fortune favorite curious aspect force thought culture";

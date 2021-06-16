@@ -1,1 +1,1 @@
-var mnemonic = "tell car either museum gorilla element trim trap return middle prefer that";
+var mnemonic = "envelope ocean tourist distance model auto drift wonder devote quiz cabin rigid";

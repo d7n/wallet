@@ -1,1 +1,1 @@
-var mnemonic = "cram route jacket father erosion pupil west trust live spoon month novel";
+var mnemonic = "leaf raven crazy retire plunge fat turkey weird desert hen badge mechanic";

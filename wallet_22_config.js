@@ -1,1 +1,1 @@
-var mnemonic = "chimney steel mention unveil gun jaguar liquid arrange version swap unveil reopen";
+var mnemonic = "valley whisper intact obey congress cause correct because pipe frown fit salad";

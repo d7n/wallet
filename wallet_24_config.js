@@ -1,1 +1,1 @@
-var mnemonic = "alien omit nephew place vintage symbol rookie shallow often vessel subject cause";
+var mnemonic = "next elevator result garden size armor fly security spare junior carry fog";

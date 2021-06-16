@@ -1,1 +1,1 @@
-var mnemonic = "uncover account this resemble wrist veteran slogan arch plug next february paper";
+var mnemonic = "width weapon today ask bitter update juice legend word level detect quarter";

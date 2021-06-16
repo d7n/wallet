@@ -1,1 +1,1 @@
-var mnemonic = "they furnace dumb good drop slight weasel patrol club extra try foam";
+var mnemonic = "face battle element baby height fault keen marriage define detect evidence ask";

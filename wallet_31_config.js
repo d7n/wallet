@@ -1,1 +1,1 @@
-var mnemonic = "better field crane immense oven verify atom pilot sick oil galaxy hope";
+var mnemonic = "insect mountain fence submit dirt boring just level sound rocket cry oil";

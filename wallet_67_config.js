@@ -1,1 +1,1 @@
-var mnemonic = "sand either hospital digital picnic sentence bind recall umbrella remain decrease mom";
+var mnemonic = "round spirit salt shoulder warfare prison embrace salad now congress inherit abandon";

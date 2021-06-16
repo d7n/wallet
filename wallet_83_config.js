@@ -1,1 +1,1 @@
-var mnemonic = "electric card relief early hidden fit giraffe ahead ship drill spirit salon";
+var mnemonic = "popular coach correct exotic draw major pencil author cross worry artefact movie";

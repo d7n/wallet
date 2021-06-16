@@ -1,1 +1,1 @@
-var mnemonic = "mixture sand knock ketchup lounge hole close stem legend arctic animal ordinary";
+var mnemonic = "twin circle undo brown rhythm food dawn neutral magic setup diet chimney";

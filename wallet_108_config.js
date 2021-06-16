@@ -1,1 +1,1 @@
-var mnemonic = "analyst six code whale wreck later pass circle combine trend gadget glue";
+var mnemonic = "focus glide doll execute view office teach pigeon satoshi come cherry chair";

@@ -1,1 +1,1 @@
-var mnemonic = "interest thumb film attract rent federal roof sock door lecture mother ability";
+var mnemonic = "head produce soda hair vacuum escape domain aunt volcano dust miracle exile";

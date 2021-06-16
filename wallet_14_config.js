@@ -1,1 +1,1 @@
-var mnemonic = "hurdle bread royal bullet myth ceiling frame buyer bullet mobile rookie someone";
+var mnemonic = "wage under task immune elder much damp tooth spike nasty south farm";

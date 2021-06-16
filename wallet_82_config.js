@@ -1,1 +1,1 @@
-var mnemonic = "believe health sell satoshi harbor culture mammal clarify merit dream almost atom";
+var mnemonic = "slim imitate first language subway weekend click save tilt airport can lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "army glad soap shine eye hat veteran begin clever ordinary melt pupil";
+var mnemonic = "sustain apple traffic grain marble kidney bachelor fortune oyster seven subway deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "vivid mask deer erupt anger artefact script scissors use elite victory coin";
+var mnemonic = "primary title catalog alert unusual injury monster evolve label spot banner corn";

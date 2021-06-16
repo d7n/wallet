@@ -1,1 +1,1 @@
-var mnemonic = "please fiction cycle tip fame seminar option gesture lottery valid bounce aisle";
+var mnemonic = "bamboo argue immense army plug tell planet sponsor gadget toe galaxy forum";

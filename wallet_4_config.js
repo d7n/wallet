@@ -1,1 +1,1 @@
-var mnemonic = "main example payment trust famous seek moon settle cheap current task logic";
+var mnemonic = "file tired unusual sign album taxi elder bright leisure anxiety lucky wall";

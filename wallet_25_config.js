@@ -1,1 +1,1 @@
-var mnemonic = "dance file verify brisk they champion shaft build visual misery lens health";
+var mnemonic = "curve train tunnel cannon smart clay left system fix mosquito relief rare";

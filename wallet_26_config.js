@@ -1,1 +1,1 @@
-var mnemonic = "poet odor turkey labor around bag toward arrange you hover gospel ill";
+var mnemonic = "basic theory dwarf exhaust phrase two rigid ready impact black dawn unveil";

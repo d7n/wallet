@@ -1,1 +1,1 @@
-var mnemonic = "pull tiny coconut shrug waste supreme tobacco theme cancel glad life wife";
+var mnemonic = "brand category cook turn champion useful drip grit air small dad blush";

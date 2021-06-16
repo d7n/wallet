@@ -1,1 +1,1 @@
-var mnemonic = "level grace torch debate size sweet heart debate window horn aisle appear";
+var mnemonic = "angle code reward waste veteran cactus mechanic whip hybrid nasty crowd hire";

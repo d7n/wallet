@@ -1,1 +1,1 @@
-var mnemonic = "topic furnace win obvious bring laptop duty analyst leave gym target slush";
+var mnemonic = "motion tornado abstract cake hollow ramp venue right album prize eye reason";

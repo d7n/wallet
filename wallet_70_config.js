@@ -1,1 +1,1 @@
-var mnemonic = "text bless explain legal farm neither lounge stem wedding feel install dismiss";
+var mnemonic = "differ east clarify bonus tent process eternal vehicle spread try awkward unhappy";

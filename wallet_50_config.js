@@ -1,1 +1,1 @@
-var mnemonic = "wave season remind million cattle march rate heart people situate gown puzzle";
+var mnemonic = "social brisk mountain album satisfy behave element paper weird neither answer host";

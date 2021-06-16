@@ -1,1 +1,1 @@
-var mnemonic = "wrist dance master bind coconut attitude clump razor erase govern crunch grid";
+var mnemonic = "neither whisper soul avocado wash clinic amateur perfect print gap true tennis";

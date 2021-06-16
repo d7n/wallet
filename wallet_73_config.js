@@ -1,1 +1,1 @@
-var mnemonic = "illness amazing note punch viable hurdle flip indoor expect horse property trend";
+var mnemonic = "chronic female arm melody cherry fold size author anxiety file off lady";

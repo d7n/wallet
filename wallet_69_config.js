@@ -1,1 +1,1 @@
-var mnemonic = "unfair pulp sea wasp hungry blanket lend monkey spring merry merry rebel";
+var mnemonic = "peace deliver cable winter ethics inflict knee exercise current estate wife arm";

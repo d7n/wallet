@@ -1,1 +1,1 @@
-var mnemonic = "armor salmon bundle sentence sauce domain tuna develop credit differ choose volume";
+var mnemonic = "magic ugly fossil state coral million hill sick rent own execute snap";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond force shy next north pledge science able bone road rack detail";
+var mnemonic = "tragic violin truly trip unfair reunion elder avoid solve sword slight myth";

@@ -1,1 +1,1 @@
-var mnemonic = "flock used kid artist student royal atom amateur purpose cupboard across slender";
+var mnemonic = "pony kind stamp hedgehog toilet deliver master naive today cup fabric job";

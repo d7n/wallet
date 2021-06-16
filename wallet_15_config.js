@@ -1,1 +1,1 @@
-var mnemonic = "trophy expect liar bottom buzz female pretty exotic winner receive shoulder jungle";
+var mnemonic = "rubber winter admit paper tooth body deal divert system above obey slim";

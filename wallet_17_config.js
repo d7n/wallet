@@ -1,1 +1,1 @@
-var mnemonic = "quit tonight glad whale cry want screen moon someone hold someone egg";
+var mnemonic = "discover sweet route leave cabin mind main museum dream stomach swallow push";

@@ -1,1 +1,1 @@
-var mnemonic = "hill ugly kit convince drift medal topple provide govern casual atom air";
+var mnemonic = "essence vessel tuna patient spy circle prison desk similar pottery lyrics hedgehog";

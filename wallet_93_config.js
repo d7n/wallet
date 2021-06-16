@@ -1,1 +1,1 @@
-var mnemonic = "layer bag glance embark screen vibrant winter sea chef pony setup grace";
+var mnemonic = "cage rack vacant sting move dirt caution ship chunk divide coach song";

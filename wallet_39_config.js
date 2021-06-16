@@ -1,1 +1,1 @@
-var mnemonic = "friend sand tonight level scout system trash beauty will coyote believe concert";
+var mnemonic = "stay crash silent dish connect powder volume across unlock diesel agree client";

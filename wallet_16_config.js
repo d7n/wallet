@@ -1,1 +1,1 @@
-var mnemonic = "text adapt army expose health butter area bridge review expose injury patient";
+var mnemonic = "neutral bachelor often finger august wasp effort wonder layer whale forward swap";

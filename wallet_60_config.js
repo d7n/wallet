@@ -1,1 +1,1 @@
-var mnemonic = "cash ice fall merit exhibit resist load night normal tip runway paper";
+var mnemonic = "clap flash erode unlock layer error genius call ecology age despair above";

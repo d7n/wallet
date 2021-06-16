@@ -1,1 +1,1 @@
-var mnemonic = "wave capable fence copy palm fork alpha tumble since odor wonder demise";
+var mnemonic = "boring throw elbow derive boost attend gate arrange mixture giraffe blur long";

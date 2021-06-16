@@ -1,1 +1,1 @@
-var mnemonic = "price host fragile gun answer guilt kidney play daring excess race ribbon";
+var mnemonic = "deposit aunt bone latin exist trigger crop prefer coffee certain describe enter";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap echo strategy fire climb barrel ceiling coil rifle van flat logic";
+var mnemonic = "rain quarter spring garden swarm what year cruel issue purchase survey van";

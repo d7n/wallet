@@ -1,1 +1,1 @@
-var mnemonic = "bless brisk number debris dad stay split nation income time surprise attend";
+var mnemonic = "image cave suit panel fox blossom alter gossip laugh unfair cost action";

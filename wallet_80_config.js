@@ -1,1 +1,1 @@
-var mnemonic = "pattern that result danger viable unfair jeans genre cloth also eyebrow deer";
+var mnemonic = "napkin draw exist great flock addict poem ladder follow rally wink autumn";

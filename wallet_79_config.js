@@ -1,1 +1,1 @@
-var mnemonic = "soldier useless belt scale blame attend wild valley square budget oil lottery";
+var mnemonic = "sound time science funny direct clutch exotic lottery impose rug area slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "parent cheap bid scorpion coyote kidney toilet display win simple credit tank";
+var mnemonic = "duty guard wife couple depart labor shoulder valid frost right burden prefer";

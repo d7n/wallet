@@ -1,1 +1,1 @@
-var mnemonic = "index giant project blast wave banana surge insane coconut rebel frost recipe";
+var mnemonic = "guilt egg hill trumpet message magnet village flash quiz rack depend clarify";

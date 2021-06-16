@@ -1,1 +1,1 @@
-var mnemonic = "unhappy draw among fork rural later cash junk rent wise adult gospel";
+var mnemonic = "hire dry enforce series lawsuit tell save pretty shield promote try either";

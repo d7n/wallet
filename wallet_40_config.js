@@ -1,1 +1,1 @@
-var mnemonic = "jungle grass master code cross scheme usual act dune income someone error";
+var mnemonic = "clarify nose sister blanket able mask coffee goose ostrich jar path scrap";

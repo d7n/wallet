@@ -1,1 +1,1 @@
-var mnemonic = "plate fortune hotel join bacon wink ask unaware tuna what fragile during";
+var mnemonic = "country fine praise cage science jazz conduct begin predict flame leopard broken";
