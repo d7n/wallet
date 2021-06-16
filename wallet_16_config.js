@@ -1,1 +1,1 @@
-var mnemonic = "skill happy grab victory sunny review pond tired prosper above walnut rapid";
+var mnemonic = "bounce stadium cabin crack visit hold february hidden skill file budget target";

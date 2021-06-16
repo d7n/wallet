@@ -1,1 +1,1 @@
-var mnemonic = "romance tiny client velvet win cruel banner pipe wink timber update destroy";
+var mnemonic = "blind robot hard arrange okay half small acoustic awesome diary fiction moon";

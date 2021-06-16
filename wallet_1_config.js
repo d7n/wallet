@@ -1,1 +1,1 @@
-var mnemonic = "hour lock leopard recall scene concert deposit illness slam little congress leaf";
+var mnemonic = "again garment great crack smart news lava night panther method corn banana";

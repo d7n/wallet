@@ -1,1 +1,1 @@
-var mnemonic = "alert diesel moral blast knock limb heavy wolf love keep huge earn";
+var mnemonic = "bullet useful tired female around jelly stove genre siege laugh cube swarm";

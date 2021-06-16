@@ -1,1 +1,1 @@
-var mnemonic = "glance scheme addict jar model reduce curious sell obscure seed point seed";
+var mnemonic = "rule nurse forward orient forum mixture truck smoke when mule lock exhaust";

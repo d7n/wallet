@@ -1,1 +1,1 @@
-var mnemonic = "lizard hurt oak clip carry orbit virus swallow brother busy border bridge";
+var mnemonic = "garage level casual tenant twice convince blossom shoot history train soldier transfer";

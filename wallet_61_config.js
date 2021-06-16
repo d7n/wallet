@@ -1,1 +1,1 @@
-var mnemonic = "piano crunch food panther estate diagram napkin number spoil fine iron wreck";
+var mnemonic = "boat time enemy sample write suspect list scatter exhaust pet fade erupt";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate resource able together royal common baby mosquito captain silver disease donate";
+var mnemonic = "party slender trick skin exist spare ghost roast hidden pill sun prosper";

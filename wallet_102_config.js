@@ -1,1 +1,1 @@
-var mnemonic = "tuition ticket ivory toward pond friend infant plate rebel wall flower vintage";
+var mnemonic = "turtle monitor lecture trouble include attract tent garbage two move rural ordinary";

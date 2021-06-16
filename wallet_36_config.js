@@ -1,1 +1,1 @@
-var mnemonic = "fiction hope soon truth cover during industry master dress wagon mirror toss";
+var mnemonic = "across skate eager enroll lucky join hip pyramid obey prison ship palm";

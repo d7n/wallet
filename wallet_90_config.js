@@ -1,1 +1,1 @@
-var mnemonic = "bar retreat tell inhale piece mosquito silk cost silent claw govern letter";
+var mnemonic = "order slot twin cheap blue enable begin differ hint network hover chimney";

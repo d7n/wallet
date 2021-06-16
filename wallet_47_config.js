@@ -1,1 +1,1 @@
-var mnemonic = "demise cost champion cactus orphan obey judge photo blush pledge delay venue";
+var mnemonic = "book swap obscure vast congress below steel clip attract humble plastic caught";

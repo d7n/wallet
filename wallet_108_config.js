@@ -1,1 +1,1 @@
-var mnemonic = "kitchen sudden blame conduct clerk scan grid veteran lecture teach palace misery";
+var mnemonic = "record half amused belt modify cabbage leave wolf ridge goddess visa child";

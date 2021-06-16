@@ -1,1 +1,1 @@
-var mnemonic = "end bubble crouch angry dumb foam learn crawl mansion assist legal float";
+var mnemonic = "size top income strategy abuse quit finish voice brand sea pond anxiety";

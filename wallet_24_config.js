@@ -1,1 +1,1 @@
-var mnemonic = "slide brisk envelope define prevent seat misery rotate bench token orphan pilot";
+var mnemonic = "follow beach picnic prefer quarter elite wage spike tent place shine mammal";

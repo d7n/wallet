@@ -1,1 +1,1 @@
-var mnemonic = "label flock chest uniform arrive worry amazing scene ranch exotic there ancient";
+var mnemonic = "cheap guess ghost frame type shift priority cause bench captain scare enroll";

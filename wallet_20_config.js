@@ -1,1 +1,1 @@
-var mnemonic = "stumble husband forest noodle suffer clever glimpse miss bargain long grunt canyon";
+var mnemonic = "crazy blade exercise bulb live heart endorse path parent sugar example hair";

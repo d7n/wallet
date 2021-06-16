@@ -1,1 +1,1 @@
-var mnemonic = "unknown occur tide drop divide author rack soccer nothing enhance web taste";
+var mnemonic = "orange country slender year install pilot image rebel soon buffalo carbon review";

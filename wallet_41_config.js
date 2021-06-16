@@ -1,1 +1,1 @@
-var mnemonic = "canal expect utility glare also swallow wasp inflict emotion capable consider truck";
+var mnemonic = "actress profit alert local rebel couch shadow skirt visit tent forum rebuild";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth ridge hole calm witness aim resemble gesture fat simple similar change";
+var mnemonic = "congress robust unusual seminar express large nasty raw gift supreme pigeon zone";

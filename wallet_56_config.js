@@ -1,1 +1,1 @@
-var mnemonic = "afford sock hollow best slice obey earn scout summer behave luxury monkey";
+var mnemonic = "wheat tonight ecology nut mixed clown crawl defy trip shed pen crime";

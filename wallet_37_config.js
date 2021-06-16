@@ -1,1 +1,1 @@
-var mnemonic = "swing mix air wish cabbage silly pluck camera blanket uphold morning symbol";
+var mnemonic = "cannon welcome ball stomach erupt nurse duty buffalo salute rival crazy number";

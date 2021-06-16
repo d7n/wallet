@@ -1,1 +1,1 @@
-var mnemonic = "nest shiver scatter invite wish uniform trim fragile hint off rhythm sick";
+var mnemonic = "census bar drop omit visit adult sweet define cloud letter rookie verb";

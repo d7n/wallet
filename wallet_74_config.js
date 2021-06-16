@@ -1,1 +1,1 @@
-var mnemonic = "actual detail note shield grape fossil increase dress october life clump run";
+var mnemonic = "lunar identify devote decide tip you salon leave rifle castle daughter speak";

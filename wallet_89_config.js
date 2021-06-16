@@ -1,1 +1,1 @@
-var mnemonic = "spoil domain manage stairs club fresh powder melt radio empty tag fitness";
+var mnemonic = "ostrich junk tag between shed crouch route private hint limit canal butter";

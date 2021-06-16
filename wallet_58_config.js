@@ -1,1 +1,1 @@
-var mnemonic = "abandon march drum trap bunker promote defense describe junk second swallow bacon";
+var mnemonic = "expect spend know honey parent jump fire inhale satoshi ten help leader";

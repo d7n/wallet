@@ -1,1 +1,1 @@
-var mnemonic = "tuna doll boring share correct party rigid unfair sing fold ceiling motor";
+var mnemonic = "desert casino switch lion country midnight twenty gaze tool recycle day claim";

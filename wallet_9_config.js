@@ -1,1 +1,1 @@
-var mnemonic = "merit flat ski okay clock kick aspect basic alarm bulk tragic parade";
+var mnemonic = "travel muffin vocal six whisper hen lyrics belt suggest hip edge weekend";

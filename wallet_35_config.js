@@ -1,1 +1,1 @@
-var mnemonic = "injury among flip poverty bachelor lecture mobile used space exchange grace snap";
+var mnemonic = "narrow transfer quiz hand correct join keen fever guess adjust vessel soul";

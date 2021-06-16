@@ -1,1 +1,1 @@
-var mnemonic = "various pulse door isolate race love wasp shoot doctor island warfare desert";
+var mnemonic = "kiwi wood wheel paper deny hint tomato zebra slow napkin leisure aspect";

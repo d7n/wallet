@@ -1,1 +1,1 @@
-var mnemonic = "equip decline smooth say left vocal crouch congress patrol melt capital sun";
+var mnemonic = "vacuum potato knock awesome industry thrive fruit easily captain raven garage office";

@@ -1,1 +1,1 @@
-var mnemonic = "display bus brave open latin mystery update inch dignity also cute illegal";
+var mnemonic = "property network hen write buyer giggle tag release vague fork giant option";

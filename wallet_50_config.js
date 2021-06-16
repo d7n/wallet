@@ -1,1 +1,1 @@
-var mnemonic = "wise teach supreme upset security top balance noise march chaos employ vast";
+var mnemonic = "inmate poverty seed uphold fragile voice august uphold guitar sell tortoise wild";

@@ -1,1 +1,1 @@
-var mnemonic = "usual plunge manage lady round impulse control build staff minimum verb try";
+var mnemonic = "hedgehog hidden secret mule left ticket pyramid hybrid apology file victory ozone";

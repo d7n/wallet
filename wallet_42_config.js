@@ -1,1 +1,1 @@
-var mnemonic = "search basket mention blur trash baby mother glide office company august effort";
+var mnemonic = "about affair blade air audit tape tragic arena inspire move fortune ordinary";

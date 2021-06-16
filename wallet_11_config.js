@@ -1,1 +1,1 @@
-var mnemonic = "amount moral away debris kidney insect pave transfer same popular plate garment";
+var mnemonic = "direct leader window suffer extend boring chase churn wreck absent swarm melt";

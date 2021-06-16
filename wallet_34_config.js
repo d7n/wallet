@@ -1,1 +1,1 @@
-var mnemonic = "amused core model fitness easy embody owner figure help day lobster scheme";
+var mnemonic = "afford rely supreme risk chapter help outer just alcohol obvious impact roof";

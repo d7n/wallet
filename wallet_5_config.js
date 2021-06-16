@@ -1,1 +1,1 @@
-var mnemonic = "next dice broom upper dinosaur buffalo feel guide crumble deposit average photo";
+var mnemonic = "lyrics cloth canyon ordinary thrive turkey machine immune clump fish state verb";

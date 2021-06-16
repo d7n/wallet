@@ -1,1 +1,1 @@
-var mnemonic = "ship broccoli stove opera client umbrella fee advice insane rigid paper heart";
+var mnemonic = "quote nice know meat genuine east track shy mosquito quit jeans exit";

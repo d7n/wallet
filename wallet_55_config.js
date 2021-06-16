@@ -1,1 +1,1 @@
-var mnemonic = "caught boil fiction rival law buffalo talent siege spice armed melt keep";
+var mnemonic = "melody patient wire charge betray battle frog use manage bronze sausage stock";

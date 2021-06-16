@@ -1,1 +1,1 @@
-var mnemonic = "prepare know rely hybrid border grunt kiss pottery trial omit bargain gather";
+var mnemonic = "chunk entry topic grape van rose never gallery emotion hip flock wife";

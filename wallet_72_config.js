@@ -1,1 +1,1 @@
-var mnemonic = "gravity poet lawn defense hedgehog march scan drum ring explain royal february";
+var mnemonic = "genre elder scout icon census flame ordinary argue swamp credit joke surround";

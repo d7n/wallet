@@ -1,1 +1,1 @@
-var mnemonic = "oak cliff intact cotton describe skin walk system pause load mushroom property";
+var mnemonic = "dream obtain primary trim symptom input depart eagle culture donate ceiling antique";

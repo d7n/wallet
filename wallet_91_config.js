@@ -1,1 +1,1 @@
-var mnemonic = "hurry wreck cigar entry crucial identify bonus coyote ribbon twelve smart school";
+var mnemonic = "essay cotton provide loud bless off increase during illegal access subject pen";

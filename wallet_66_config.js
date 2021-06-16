@@ -1,1 +1,1 @@
-var mnemonic = "entire short edge divert actor grape still file panel cancel column motor";
+var mnemonic = "inform elephant point coin letter opera journey news waste deal hour strike";

@@ -1,1 +1,1 @@
-var mnemonic = "often round sunny easy ostrich dog virus embark expose retreat blossom diet";
+var mnemonic = "category wide warfare laptop slam bargain buffalo common album staff stove mutual";

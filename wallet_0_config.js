@@ -1,1 +1,1 @@
-var mnemonic = "theory hawk food praise neglect december resist book chat raven vault pitch";
+var mnemonic = "coral twenty north warm unfold flash camp six trust oil matrix control";

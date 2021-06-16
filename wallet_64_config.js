@@ -1,1 +1,1 @@
-var mnemonic = "worth boost vendor game dolphin caught accident vague mango eye flavor page";
+var mnemonic = "physical shell target core isolate garment silver stone donkey deposit square fine";

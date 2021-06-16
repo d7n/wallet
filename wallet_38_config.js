@@ -1,1 +1,1 @@
-var mnemonic = "plastic hen puzzle stomach honey marble lend margin reopen piece goddess kiwi";
+var mnemonic = "voyage useful ketchup retire today tuition abandon burst smart current trend youth";

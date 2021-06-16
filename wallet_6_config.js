@@ -1,1 +1,1 @@
-var mnemonic = "rain move gun bunker demise tornado wage portion chat sniff garment vivid";
+var mnemonic = "rose fork vicious hollow found easily worry crowd excite attract you accuse";

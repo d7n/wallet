@@ -1,1 +1,1 @@
-var mnemonic = "keen obtain crucial clap distance burst setup rude local close miracle rapid";
+var mnemonic = "episode awful near category rubber math team dress neglect record impact bundle";

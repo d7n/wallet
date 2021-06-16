@@ -1,1 +1,1 @@
-var mnemonic = "stool habit seminar flavor jeans relief grape increase peasant park gesture word";
+var mnemonic = "lab legend panel table core mass pencil find baby fan toy license";

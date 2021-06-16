@@ -1,1 +1,1 @@
-var mnemonic = "cradle squeeze radar effort problem situate wreck state material myself hour illness";
+var mnemonic = "shy liar sadness swing resemble protect exotic torch section lounge south kiss";

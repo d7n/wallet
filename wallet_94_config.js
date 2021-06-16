@@ -1,1 +1,1 @@
-var mnemonic = "assault left crucial boy sail engage party shallow slide talent six arena";
+var mnemonic = "parade fortune strategy green bread animal peace cheese device witness pride century";

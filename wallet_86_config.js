@@ -1,1 +1,1 @@
-var mnemonic = "tortoise forum combine bachelor elbow learn owner say body first snack spray";
+var mnemonic = "uncover will bring vehicle credit tank sauce rigid aware solution bus artefact";

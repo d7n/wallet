@@ -1,1 +1,1 @@
-var mnemonic = "wood true coffee science whisper buzz vocal truck furnace wild core accident";
+var mnemonic = "fine useful doctor top boy ordinary unaware digital rubber wet fringe outer";

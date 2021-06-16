@@ -1,1 +1,1 @@
-var mnemonic = "tool already invite year metal teach mom ice spend basket tennis promote";
+var mnemonic = "inmate spice innocent divert issue buyer bless illness panel ignore nuclear scatter";

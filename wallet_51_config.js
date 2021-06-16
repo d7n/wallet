@@ -1,1 +1,1 @@
-var mnemonic = "pistol slab reject try dignity face toast wire divert matter skill bridge";
+var mnemonic = "tenant broken energy message fog brief tenant joke problem tourist vague kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "brush transfer brother amount asthma sweet olympic place pulp family brave stairs";
+var mnemonic = "hotel screen visual sample novel spawn elder miss analyst life iron oxygen";

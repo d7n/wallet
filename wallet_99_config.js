@@ -1,1 +1,1 @@
-var mnemonic = "moment crawl nest crush word topple vote yard kangaroo disagree dawn forum";
+var mnemonic = "cherry lawn dumb blast cry churn trigger bring series dress claw spread";

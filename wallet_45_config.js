@@ -1,1 +1,1 @@
-var mnemonic = "tree aisle race tip chair return embrace receive core tell exhibit reform";
+var mnemonic = "tooth drum own blanket atom put boost coral humor ski sponsor dose";

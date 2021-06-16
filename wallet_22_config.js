@@ -1,1 +1,1 @@
-var mnemonic = "possible marriage rather sphere oblige wife dream access race quit language service";
+var mnemonic = "over useless purchase attend bring benefit canyon peanut color prize share biology";

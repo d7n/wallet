@@ -1,1 +1,1 @@
-var mnemonic = "poverty gym tank decorate brown finger gather credit million describe symbol bicycle";
+var mnemonic = "day logic debris source chair inherit ensure miracle heart crazy upper divorce";

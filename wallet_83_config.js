@@ -1,1 +1,1 @@
-var mnemonic = "cage essence much turkey satoshi depart toe miss erase slide asset olive";
+var mnemonic = "search describe pyramid maximum sorry hope write canyon address fluid cost expire";

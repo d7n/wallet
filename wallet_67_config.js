@@ -1,1 +1,1 @@
-var mnemonic = "hungry wine hero mushroom fluid try agent elder question submit believe audit";
+var mnemonic = "friend pause movie move turkey cross green spell trust arrow they donate";

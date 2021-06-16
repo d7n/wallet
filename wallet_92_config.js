@@ -1,1 +1,1 @@
-var mnemonic = "frame tissue sign pact reveal depart deposit road custom address fossil vocal";
+var mnemonic = "trophy already certain egg cloth tooth hair bulb must blush link brother";

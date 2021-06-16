@@ -1,1 +1,1 @@
-var mnemonic = "recall negative common attract size box lens brand disorder luxury small talk";
+var mnemonic = "help region whisper report accuse transfer notice submit custom assume risk suffer";

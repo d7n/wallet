@@ -1,1 +1,1 @@
-var mnemonic = "blanket shuffle youth wine news mimic senior rely cannon local flock erase";
+var mnemonic = "april pretty pole parent blade around daring orbit galaxy brand glory enroll";

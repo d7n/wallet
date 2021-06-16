@@ -1,1 +1,1 @@
-var mnemonic = "system oak tiny job interest traffic stand wreck blouse security learn winter";
+var mnemonic = "soldier use employ drama hungry forward dove robust chalk gossip modify game";

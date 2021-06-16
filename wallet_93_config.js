@@ -1,1 +1,1 @@
-var mnemonic = "science blossom food obtain leisure kitten view work team winter wasp nut";
+var mnemonic = "brother burden expose gas obscure actor hood lumber rescue rocket gauge coconut";

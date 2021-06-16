@@ -1,1 +1,1 @@
-var mnemonic = "post federal advice giraffe salon future judge dune still turtle predict lend";
+var mnemonic = "start hole click distance three success actress sample bounce gift address dust";

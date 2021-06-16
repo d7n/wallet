@@ -1,1 +1,1 @@
-var mnemonic = "junk finger kind fee move clarify cage ostrich push tuna sail elder";
+var mnemonic = "clarify female tourist like receive habit radar diary charge fault there master";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt burger remember cancel easy abstract coil van onion notice cross horse";
+var mnemonic = "oak either today clip subject pioneer wait future job connect buyer liquid";

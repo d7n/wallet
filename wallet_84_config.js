@@ -1,1 +1,1 @@
-var mnemonic = "egg young middle swallow please analyst bargain table invite marriage author flee";
+var mnemonic = "short move swallow label kingdom absurd acoustic offer what priority acoustic use";

@@ -1,1 +1,1 @@
-var mnemonic = "vague monster stairs order tennis curve empower situate trade purpose plastic invest";
+var mnemonic = "horse peace firm work fall square canvas other rival surprise barrel wish";

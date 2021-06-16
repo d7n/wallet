@@ -1,1 +1,1 @@
-var mnemonic = "size spice act pyramid mutual elevator omit metal evoke object coil appear";
+var mnemonic = "state enact skate crash language spawn album shrug alien near promote raven";

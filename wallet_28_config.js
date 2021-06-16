@@ -1,1 +1,1 @@
-var mnemonic = "typical twin buffalo close mansion author saddle possible city hover column explain";
+var mnemonic = "episode cushion soap tired robust glove concert filter slab snow expire endless";

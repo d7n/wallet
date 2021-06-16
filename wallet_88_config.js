@@ -1,1 +1,1 @@
-var mnemonic = "cushion attitude piano onion autumn happy flat assault scene bike grab avoid";
+var mnemonic = "believe tuition pink demise surprise zoo drop olympic modify assist output own";

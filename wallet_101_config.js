@@ -1,1 +1,1 @@
-var mnemonic = "model action desert damage bronze cloud hobby excess prevent unfold pave salt";
+var mnemonic = "found firm refuse tiny rose infant warrior prize miss abuse lawn trip";

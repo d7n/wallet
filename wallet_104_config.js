@@ -1,1 +1,1 @@
-var mnemonic = "scrap mask tape reason ask powder refuse odor virtual metal mutual change";
+var mnemonic = "rely denial drill habit melody escape hill scatter mixed coast polar story";

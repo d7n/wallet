@@ -1,1 +1,1 @@
-var mnemonic = "copy pilot meat junk door bright arena amused capital pizza rural add";
+var mnemonic = "topple same dawn safe tribe degree board tower praise hero wolf switch";

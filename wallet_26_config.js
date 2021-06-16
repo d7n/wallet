@@ -1,1 +1,1 @@
-var mnemonic = "aerobic usual aisle drill typical walk few duty moral talk occur fall";
+var mnemonic = "indicate luggage wagon beef rug piece crop drop pond dry sort wire";

@@ -1,1 +1,1 @@
-var mnemonic = "sure else cat circle expose dumb box math muscle champion aspect involve";
+var mnemonic = "capital empty smile orphan reveal example shrimp figure hour punch creek section";

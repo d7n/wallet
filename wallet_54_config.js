@@ -1,1 +1,1 @@
-var mnemonic = "employ where expire glance rookie narrow decorate silent breeze delay system interest";
+var mnemonic = "depend mirror action meat treat biology arrow fan exercise doll snap empty";

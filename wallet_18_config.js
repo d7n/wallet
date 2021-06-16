@@ -1,1 +1,1 @@
-var mnemonic = "virtual clerk festival iron identify inch focus upon trap tumble ordinary proud";
+var mnemonic = "enhance arch expire notable celery elbow legal sustain ordinary today review amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget sock unit until laundry reveal chalk top bronze morning unable finish";
+var mnemonic = "price summer lucky absorb faith object rose captain hello combine topic morning";

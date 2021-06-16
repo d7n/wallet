@@ -1,1 +1,1 @@
-var mnemonic = "hen typical job wing dilemma state play mesh talent fly grocery mystery";
+var mnemonic = "render say health actor brass end puppy drip advance dash olympic rent";

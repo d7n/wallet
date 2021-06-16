@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin shaft cereal lobster swim cousin afford reveal result call viable champion";
+var mnemonic = "goat into proud dolphin trick exist crime welcome spray reject little dust";

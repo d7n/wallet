@@ -1,1 +1,1 @@
-var mnemonic = "hybrid tray comic coin legal utility often reopen slim armed derive destroy";
+var mnemonic = "twenty assist world cake inner token view drip hold typical lock blind";

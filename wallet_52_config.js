@@ -1,1 +1,1 @@
-var mnemonic = "rural next uncover relax ostrich anger isolate oil unlock barrel biology bleak";
+var mnemonic = "jar flavor present nerve banner flavor embark bomb sport salon chimney tape";

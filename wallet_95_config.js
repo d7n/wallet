@@ -1,1 +1,1 @@
-var mnemonic = "magnet dial round retire moral place bundle match sniff they keep earn";
+var mnemonic = "enter swamp frost blur resemble couch ring gym goat myth desk second";

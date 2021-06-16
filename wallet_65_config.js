@@ -1,1 +1,1 @@
-var mnemonic = "siege midnight network fantasy wise basket opinion wash merge scrap sign coach";
+var mnemonic = "bone orange pond analyst scrub tuition bachelor senior base barely garlic upper";
