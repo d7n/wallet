@@ -1,1 +1,1 @@
-var mnemonic = "clean trend dove remember doctor decline light onion industry when city cash";
+var mnemonic = "type road multiply dice toy ticket appear bulk worth process slush volume";

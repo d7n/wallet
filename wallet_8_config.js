@@ -1,1 +1,1 @@
-var mnemonic = "spatial brand view magic mobile false impact exact trick biology rude comic";
+var mnemonic = "wife february window history appear lumber expose blade finger task train faint";

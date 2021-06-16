@@ -1,1 +1,1 @@
-var mnemonic = "pass change shadow report multiply replace assist inject kitchen lift tumble fuel";
+var mnemonic = "fox sort pair visa injury suffer notable caught poverty riot feed direct";

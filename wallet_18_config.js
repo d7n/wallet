@@ -1,1 +1,1 @@
-var mnemonic = "hole barrel century chef poverty dentist food exhaust cook chase secret civil";
+var mnemonic = "youth unfold radio rug bring opinion secret exist economy bone service normal";

@@ -1,1 +1,1 @@
-var mnemonic = "card return attack climb fruit absent mushroom trap stool trumpet miracle group";
+var mnemonic = "steel fiber curve case add fine toast project view wage minimum unfold";

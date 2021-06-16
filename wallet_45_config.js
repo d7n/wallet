@@ -1,1 +1,1 @@
-var mnemonic = "meat skate indicate wolf dash topic horse jaguar transfer blue foam drop";
+var mnemonic = "suggest neglect vast ball home click mammal slush poet canvas dial want";

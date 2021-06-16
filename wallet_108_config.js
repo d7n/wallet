@@ -1,1 +1,1 @@
-var mnemonic = "meadow another present frost shy plate misery hospital scene loan lemon invest";
+var mnemonic = "surface reunion trick clap bird best auto category kit know length boy";

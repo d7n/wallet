@@ -1,1 +1,1 @@
-var mnemonic = "device fire rack state amateur forest auto like interest sadness gather dirt";
+var mnemonic = "federal cash fame parent glove spell month blur century spatial balcony zero";

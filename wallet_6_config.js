@@ -1,1 +1,1 @@
-var mnemonic = "birth spell tenant glass detail owner pause march near misery prize penalty";
+var mnemonic = "width analyst crew december sick iron salmon liberty media mixture crazy merry";

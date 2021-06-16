@@ -1,1 +1,1 @@
-var mnemonic = "obscure coconut estate cute vibrant lizard tip diary viable sphere ring draft";
+var mnemonic = "mandate senior moon hand inject suit grocery model lamp wage game abuse";

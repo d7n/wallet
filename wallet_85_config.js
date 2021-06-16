@@ -1,1 +1,1 @@
-var mnemonic = "vocal truck ball clay normal alarm armed image brief hunt father urban";
+var mnemonic = "like muffin once sniff shaft allow math profit vicious arrow close shop";

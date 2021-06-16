@@ -1,1 +1,1 @@
-var mnemonic = "wheel drive minimum hawk unable insect note helmet also evil trophy curve";
+var mnemonic = "congress blade retreat myth ribbon kiwi used melt badge face marble wing";

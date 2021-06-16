@@ -1,1 +1,1 @@
-var mnemonic = "section slight ivory sick foster current across wool arctic grace fiscal column";
+var mnemonic = "camp video receive helmet master remove noodle banner twenty kid scene industry";

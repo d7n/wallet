@@ -1,1 +1,1 @@
-var mnemonic = "review crawl stuff long current mind birth rice usual ask market dynamic";
+var mnemonic = "deal net stairs glad tattoo budget yellow bunker garden shaft spy refuse";

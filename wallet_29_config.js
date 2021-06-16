@@ -1,1 +1,1 @@
-var mnemonic = "diamond imitate squirrel better priority shove apart skirt design fox order into";
+var mnemonic = "column person claim virtual guess adapt glow elder rhythm select cloud predict";

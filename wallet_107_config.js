@@ -1,1 +1,1 @@
-var mnemonic = "march fee arctic reform police gauge solar tuition taxi regular aware interest";
+var mnemonic = "power grape pause sausage boost portion come judge hamster bonus dad dutch";

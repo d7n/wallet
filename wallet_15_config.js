@@ -1,1 +1,1 @@
-var mnemonic = "runway since chronic below cotton pupil mansion speed advice legend mango collect";
+var mnemonic = "giggle dentist resist liberty kidney delay cute road favorite alcohol frown minor";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual bone lens toward twin twin ticket loop chief federal father play";
+var mnemonic = "tissue tornado cart regular lift fade useful empty novel govern bone social";

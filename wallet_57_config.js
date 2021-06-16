@@ -1,1 +1,1 @@
-var mnemonic = "pony odor model ranch corn rabbit property crowd pretty coconut jelly enough";
+var mnemonic = "middle lawsuit disorder behave old relax sketch teach river online blood sample";

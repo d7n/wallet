@@ -1,1 +1,1 @@
-var mnemonic = "box lumber actor alley strike banana vacuum taste first silk output wing";
+var mnemonic = "hair heart rocket whale deliver weasel modify assault sunset draft build agree";

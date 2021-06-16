@@ -1,1 +1,1 @@
-var mnemonic = "stove pottery victory elbow economy foster rough liar tobacco cute butter proof";
+var mnemonic = "virtual teach rhythm trigger prosper vapor next frozen flavor edit vibrant enemy";

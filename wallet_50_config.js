@@ -1,1 +1,1 @@
-var mnemonic = "buffalo increase bracket demise frozen lab danger combine sunset bless bar garment";
+var mnemonic = "butter silver wild parade local blossom find panda boost arrive seminar lawsuit";

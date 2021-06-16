@@ -1,1 +1,1 @@
-var mnemonic = "person gift mixed pelican remove soap gaze shuffle arrow ugly govern portion";
+var mnemonic = "idle trophy dad aware symbol dash genre small ordinary tunnel quantum dynamic";

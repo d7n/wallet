@@ -1,1 +1,1 @@
-var mnemonic = "thought hungry duty return enforce sense tourist elegant cluster brush traffic elegant";
+var mnemonic = "enlist west more cloud dust body army fringe fitness bean cupboard swing";

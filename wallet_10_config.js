@@ -1,1 +1,1 @@
-var mnemonic = "despair negative timber dismiss arrive tennis devote recall social over evidence census";
+var mnemonic = "device advance east friend fun solid limb unfold stage measure leisure tuition";

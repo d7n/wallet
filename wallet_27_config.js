@@ -1,1 +1,1 @@
-var mnemonic = "scan fetch shrimp cycle bless save avocado inject obscure tomato fun ethics";
+var mnemonic = "frog act task electric cruise coil zoo fossil critic keen gentle joy";

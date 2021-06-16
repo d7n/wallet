@@ -1,1 +1,1 @@
-var mnemonic = "knife invest guide arena hamster frame protect club cattle cloud engine unable";
+var mnemonic = "view palace retire echo range island steak web property innocent rare winner";

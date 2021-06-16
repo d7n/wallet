@@ -1,1 +1,1 @@
-var mnemonic = "oil invest museum nurse adjust pretty silent note evidence just tell hood";
+var mnemonic = "evidence process tomato today silver more injury wave blast trip agent security";

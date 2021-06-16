@@ -1,1 +1,1 @@
-var mnemonic = "mammal craft panic regular bounce snake toy uncle other tip south wide";
+var mnemonic = "pony onion tourist genuine next yard door fabric okay govern arrange maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "scare album armor glory nothing fatigue abuse run primary amazing pulse hamster";
+var mnemonic = "hollow pigeon achieve nature amused depart flee knee novel bonus useful pink";

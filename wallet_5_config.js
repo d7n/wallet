@@ -1,1 +1,1 @@
-var mnemonic = "local ocean alter donkey coin thunder adapt certain payment silent bench people";
+var mnemonic = "style attack unknown toss thing sister frog tiger giant quality seven bounce";

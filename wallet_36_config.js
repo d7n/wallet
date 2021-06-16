@@ -1,1 +1,1 @@
-var mnemonic = "crawl film secret hamster fury number include glow estate cause weapon report";
+var mnemonic = "master brisk spray saddle waste lamp hurdle unusual pumpkin piece camp viable";

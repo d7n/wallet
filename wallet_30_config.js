@@ -1,1 +1,1 @@
-var mnemonic = "mutual essay amazing pink undo path weekend still pretty sure energy dragon";
+var mnemonic = "tilt trash critic raccoon design scale forest noodle egg range enable fatal";

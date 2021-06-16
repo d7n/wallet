@@ -1,1 +1,1 @@
-var mnemonic = "panic much hover ivory sail large kingdom radio talent dose extra also";
+var mnemonic = "tortoise pact elite also laptop direct judge mom ivory tennis bring cloth";

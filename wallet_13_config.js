@@ -1,1 +1,1 @@
-var mnemonic = "enhance arrive make usage keep west arrest speed bone oppose slogan lab";
+var mnemonic = "license harsh visual pulse play acoustic daring frost disease crawl bright vacuum";

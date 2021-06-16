@@ -1,1 +1,1 @@
-var mnemonic = "jungle tower actual vocal sting share sustain couch whale gorilla embrace rocket";
+var mnemonic = "during harbor place swear use state split travel repair lyrics magnet original";

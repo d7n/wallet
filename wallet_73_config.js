@@ -1,1 +1,1 @@
-var mnemonic = "crystal fly mammal capable horn plug twenty any rain glance moral excuse";
+var mnemonic = "foot carpet daring miracle mushroom blue receive casino dance deliver scare mammal";

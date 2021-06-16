@@ -1,1 +1,1 @@
-var mnemonic = "check zone two faculty bread half assault release wheat travel payment negative";
+var mnemonic = "behave wasp paper equal chest island rabbit any heart live green virus";

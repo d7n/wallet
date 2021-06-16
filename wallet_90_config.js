@@ -1,1 +1,1 @@
-var mnemonic = "rubber fury subway mule snap calm night bacon drink web exile athlete";
+var mnemonic = "ball mule skill album phone core never grid budget wall digital panther";

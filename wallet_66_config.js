@@ -1,1 +1,1 @@
-var mnemonic = "trade brisk document check slot gun gallery pioneer garage twist board opera";
+var mnemonic = "net giggle aim wasp uniform census remove tray quiz day despair suggest";

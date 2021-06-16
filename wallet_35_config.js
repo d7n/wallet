@@ -1,1 +1,1 @@
-var mnemonic = "throw proof pool much picture relief tent ship disease shove then zero";
+var mnemonic = "bean cat fish real electric image sort more prize soon scrap solar";

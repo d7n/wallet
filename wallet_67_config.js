@@ -1,1 +1,1 @@
-var mnemonic = "flame name impulse slim deny later burger any coyote loyal quarter soon";
+var mnemonic = "review magic fun pause crazy illegal dumb into pattern powder term monster";

@@ -1,1 +1,1 @@
-var mnemonic = "secret practice habit then effort task business text layer siren promote like";
+var mnemonic = "fancy august filter pluck labor join blast upset sight salmon water regret";

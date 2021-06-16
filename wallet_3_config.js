@@ -1,1 +1,1 @@
-var mnemonic = "behind push lunch morning omit member ride shrug choose float earth gesture";
+var mnemonic = "kick suffer news blade left sword address gallery truly much surround spoon";

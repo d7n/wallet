@@ -1,1 +1,1 @@
-var mnemonic = "essay actress before cupboard confirm divorce first arrest forward disorder citizen dinosaur";
+var mnemonic = "enact utility spike manual final excess busy pig window dolphin term around";

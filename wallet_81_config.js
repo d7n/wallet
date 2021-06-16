@@ -1,1 +1,1 @@
-var mnemonic = "noble quarter castle fault abuse act zone tell strong vintage silk monkey";
+var mnemonic = "great cycle real fantasy upper cloud illness brother begin tongue miracle desk";

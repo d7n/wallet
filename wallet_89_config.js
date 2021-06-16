@@ -1,1 +1,1 @@
-var mnemonic = "tornado series year elder cycle note indoor donkey reveal nasty dilemma mass";
+var mnemonic = "fix salt glove alley enforce hood radar tail price vague fine cargo";

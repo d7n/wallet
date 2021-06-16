@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo trigger rhythm almost cart piece noodle nature energy approve sick depend";
+var mnemonic = "solid link analyst divorce struggle deposit senior cat image skull lawn kind";

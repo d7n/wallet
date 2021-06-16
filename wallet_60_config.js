@@ -1,1 +1,1 @@
-var mnemonic = "manual food fiber web solve crush cream hour album elephant rotate festival";
+var mnemonic = "stool tuna hire culture riot duck confirm cliff purchase meat foil concert";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve oblige discover share oven surprise fix seminar tell dolphin bomb learn";
+var mnemonic = "exact balcony hour fury debate fit load proof chicken pilot traffic miracle";

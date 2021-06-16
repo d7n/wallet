@@ -1,1 +1,1 @@
-var mnemonic = "sleep burst bitter prize photo attack tomato battle quote vacuum caught figure";
+var mnemonic = "envelope actress calm private diesel despair state cover mother wear boost swap";

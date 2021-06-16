@@ -1,1 +1,1 @@
-var mnemonic = "verify twist picture talk mouse fire stumble system husband piano valley virtual";
+var mnemonic = "giraffe acquire this couch shift return furnace script group odor gloom number";

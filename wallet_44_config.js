@@ -1,1 +1,1 @@
-var mnemonic = "swarm occur zoo invest opinion velvet axis upgrade expect nice prosper vivid";
+var mnemonic = "armor egg ankle soul social drum age flame cart horse pair bind";

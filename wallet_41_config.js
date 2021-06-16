@@ -1,1 +1,1 @@
-var mnemonic = "film fame paddle quick unknown nurse improve message spread skull jelly they";
+var mnemonic = "faint refuse brave retreat hair farm credit inquiry cannon friend soul number";

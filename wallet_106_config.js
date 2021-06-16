@@ -1,1 +1,1 @@
-var mnemonic = "forum short destroy grape antenna bean panda setup axis stock like slush";
+var mnemonic = "shift fish vault first shock wish already debris case fault monitor tag";

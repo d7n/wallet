@@ -1,1 +1,1 @@
-var mnemonic = "bone boat lawsuit tiny garden layer risk need average file clever luggage";
+var mnemonic = "rely what gun glove lizard donor desk noble clerk staff motion list";

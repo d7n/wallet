@@ -1,1 +1,1 @@
-var mnemonic = "prefer ranch gather original art above elegant wheat recycle input toward visa";
+var mnemonic = "cycle sponsor drama armed chaos test flower hawk trim burger miracle dragon";

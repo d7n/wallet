@@ -1,1 +1,1 @@
-var mnemonic = "car road eight flash decrease parade hunt length evil fat weird until";
+var mnemonic = "extra girl gauge day case rescue mind faint rough heart net sadness";

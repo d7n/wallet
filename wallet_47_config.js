@@ -1,1 +1,1 @@
-var mnemonic = "rate figure sheriff august crash list suggest grit claw stock solve job";
+var mnemonic = "elephant carpet there width chat lend cliff level gorilla gadget reflect truth";

@@ -1,1 +1,1 @@
-var mnemonic = "note cruel talk outer patient base bunker capital ski option bus body";
+var mnemonic = "make soon logic twenty call hat come limit rifle north behave reflect";

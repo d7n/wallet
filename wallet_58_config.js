@@ -1,1 +1,1 @@
-var mnemonic = "syrup exchange fade couple analyst flash spare consider protect morning abuse thought";
+var mnemonic = "guide used install setup say dismiss slice assist acquire garage ice unveil";

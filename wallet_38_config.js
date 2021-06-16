@@ -1,1 +1,1 @@
-var mnemonic = "baby pioneer finish area fox catalog sausage depend case beach first squeeze";
+var mnemonic = "afford patch injury birth purse illness document time snow shuffle goddess reflect";

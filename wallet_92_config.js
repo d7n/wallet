@@ -1,1 +1,1 @@
-var mnemonic = "van allow minimum report purity sketch piece seed bamboo move parent velvet";
+var mnemonic = "south saddle blade piano faith caught acid thrive bless toss jacket swing";

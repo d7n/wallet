@@ -1,1 +1,1 @@
-var mnemonic = "gain very popular motion define question entire mistake screen assume real female";
+var mnemonic = "door among clerk game arrow true script disagree owner hollow stumble warm";

@@ -1,1 +1,1 @@
-var mnemonic = "people field arena total cute beauty legend tiny uncover solve human extra";
+var mnemonic = "theme caution fox bid grace build ceiling spin ride vacuum general cabin";

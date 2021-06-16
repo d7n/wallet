@@ -1,1 +1,1 @@
-var mnemonic = "cotton fit enable boil fluid chat visit alert couple elephant roof tumble";
+var mnemonic = "muscle suspect name width endless arena glass loud cause protect tragic frost";

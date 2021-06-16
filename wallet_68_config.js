@@ -1,1 +1,1 @@
-var mnemonic = "story gap helmet play try crunch build hen banana peace latin grab";
+var mnemonic = "mammal ability volume domain nominee rubber police light goddess sing pause pink";

@@ -1,1 +1,1 @@
-var mnemonic = "coral rail rude puppy cabin scan guilt oven fit blanket mass forum";
+var mnemonic = "magic drift bargain collect away dove faint taste upset marble melt interest";

@@ -1,1 +1,1 @@
-var mnemonic = "visa various miss acoustic song advice frequent letter bottom unable company wine";
+var mnemonic = "pioneer assault catch such radio kick gather stuff example wage amazing sphere";

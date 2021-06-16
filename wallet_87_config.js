@@ -1,1 +1,1 @@
-var mnemonic = "disorder imitate nest quantum debris fiscal vault ignore vibrant birth eagle lazy";
+var mnemonic = "horn guitar unknown drama grunt kiss spring brisk dismiss case forward abstract";

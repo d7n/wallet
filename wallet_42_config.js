@@ -1,1 +1,1 @@
-var mnemonic = "divide source place crystal snow despair move design elder primary predict merit";
+var mnemonic = "cash speed tower problem accident security canyon tape toy review include life";

@@ -1,1 +1,1 @@
-var mnemonic = "donor vague proud limit bonus fiscal decrease nothing sword cram stable crop";
+var mnemonic = "fiction attitude candy monitor husband limit text plug mushroom flat awkward portion";

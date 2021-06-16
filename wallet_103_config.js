@@ -1,1 +1,1 @@
-var mnemonic = "sponsor myself coach term allow vintage practice home fish start grow when";
+var mnemonic = "artist sponsor robot reopen useful stove need neither repair acid beef satoshi";

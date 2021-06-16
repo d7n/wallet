@@ -1,1 +1,1 @@
-var mnemonic = "guard peanut uncle brand area jazz dial bird battle library infant safe";
+var mnemonic = "space finger rotate vapor resemble vague easy famous clever major journey alien";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder abuse tribe ranch price increase urge gas later alpha memory remember";
+var mnemonic = "hobby foil daring audit mimic inmate dune cram ice polar lecture grain";

@@ -1,1 +1,1 @@
-var mnemonic = "jump buffalo rose protect unhappy medal cereal pattern doctor gentle check ancient";
+var mnemonic = "chest romance wedding just image defy badge female erode marine blanket taste";

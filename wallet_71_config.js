@@ -1,1 +1,1 @@
-var mnemonic = "dwarf orphan announce uncover roof citizen supply pattern unique draw green spray";
+var mnemonic = "ripple trumpet miss radio velvet neither crazy uniform bulk throw sense happy";

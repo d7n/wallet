@@ -1,1 +1,1 @@
-var mnemonic = "occur arrive evolve flat brown devote priority cement rebel jewel inject fine";
+var mnemonic = "execute novel verify unable sentence claw gentle grief axis ticket predict anger";

@@ -1,1 +1,1 @@
-var mnemonic = "excite spring online genius float response update fish solar time cream cousin";
+var mnemonic = "glide coyote erupt square type motor april debris stuff flavor siege swim";

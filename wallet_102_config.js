@@ -1,1 +1,1 @@
-var mnemonic = "sell spy put castle toilet winter suit issue tuition wool various merit";
+var mnemonic = "bargain tunnel bunker item speed protect similar across inflict tomorrow practice van";

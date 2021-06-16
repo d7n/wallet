@@ -1,1 +1,1 @@
-var mnemonic = "faint effort six replace horror apple leaf random nature odor toy sad";
+var mnemonic = "liar boring artefact anxiety chunk doll aisle monitor moon alert diary orbit";

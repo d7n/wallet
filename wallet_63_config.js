@@ -1,1 +1,1 @@
-var mnemonic = "pioneer burger this alcohol common property turtle dry early demise modify box";
+var mnemonic = "nuclear promote sudden dad year pony biology wet anxiety wisdom viable clown";

@@ -1,1 +1,1 @@
-var mnemonic = "pave opinion today ball swing diamond arena shuffle pigeon broken lumber cinnamon";
+var mnemonic = "balance cake view clown jar define left regular buyer cake add brave";

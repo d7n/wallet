@@ -1,1 +1,1 @@
-var mnemonic = "beauty mind history mechanic current enforce arm push seed school across market";
+var mnemonic = "century gaze moral drift woman cheese matrix kite eyebrow noodle same age";

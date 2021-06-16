@@ -1,1 +1,1 @@
-var mnemonic = "round slow observe board plastic bench apple design gap mail vacuum potato";
+var mnemonic = "wait trend danger idle cry enforce dance avocado grow squirrel aerobic nurse";

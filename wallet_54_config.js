@@ -1,1 +1,1 @@
-var mnemonic = "novel mass sibling neutral stamp net salmon harbor ball chuckle chef narrow";
+var mnemonic = "online resource owner salmon still eyebrow bronze gown economy comic hobby okay";

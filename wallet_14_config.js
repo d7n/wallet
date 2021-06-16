@@ -1,1 +1,1 @@
-var mnemonic = "neutral other judge either pepper mirror own tag pony lounge usual example";
+var mnemonic = "drill confirm ostrich juice marble hedgehog slot defense shove near cage dinosaur";
