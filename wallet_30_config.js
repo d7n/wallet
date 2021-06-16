@@ -1,1 +1,1 @@
-var mnemonic = "onion dog device stumble patch leaf bread town wife shaft recycle ketchup";
+var mnemonic = "pause insane accident famous cube chronic merry give sound unaware put stay";

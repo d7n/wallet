@@ -1,1 +1,1 @@
-var mnemonic = "economy limb jump victory amused blanket goose fine narrow nothing invite exist";
+var mnemonic = "general choice hurt buddy regret always venue ability design fiber wish future";

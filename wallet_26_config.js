@@ -1,1 +1,1 @@
-var mnemonic = "cave affair hill sniff obvious announce wisdom pair omit life foil know";
+var mnemonic = "spot second paddle sport suspect auction puppy tornado asset april clever merit";

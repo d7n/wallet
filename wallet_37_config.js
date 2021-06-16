@@ -1,1 +1,1 @@
-var mnemonic = "hair benefit float virus slush twenty obscure luxury regular penalty fine nice";
+var mnemonic = "bag road tribe tortoise exercise piano where staff vault lunar sun clap";

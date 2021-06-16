@@ -1,1 +1,1 @@
-var mnemonic = "bracket someone bar develop sister man champion clay swear seek loan pipe";
+var mnemonic = "security toast grid brick buddy cushion gather system athlete cram kit rug";

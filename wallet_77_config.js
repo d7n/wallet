@@ -1,1 +1,1 @@
-var mnemonic = "help urban infant yellow clean settle sheriff glare menu inherit song century";
+var mnemonic = "melody carry purse noodle human glass abstract march option vehicle dash occur";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery vapor open party kid ranch diamond light curtain robot world copper";
+var mnemonic = "husband ritual thunder dignity this reopen release nuclear hip hood gather derive";

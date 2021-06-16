@@ -1,1 +1,1 @@
-var mnemonic = "buzz argue pear leopard ball foot transfer east seed awesome anxiety luggage";
+var mnemonic = "fine slow gain cousin visa unlock slow release already earn chronic harsh";

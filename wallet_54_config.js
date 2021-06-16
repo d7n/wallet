@@ -1,1 +1,1 @@
-var mnemonic = "gather reflect garden violin notable roof aware mutual negative lumber innocent prize";
+var mnemonic = "response palm husband spider upgrade slam better praise merry mass episode street";

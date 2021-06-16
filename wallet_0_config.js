@@ -1,1 +1,1 @@
-var mnemonic = "skin apart audit pair tree parade edge jacket insect amused alpha lonely";
+var mnemonic = "whip visa lumber possible sausage human destroy spend pupil hint uphold fragile";

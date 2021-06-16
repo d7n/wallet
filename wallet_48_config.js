@@ -1,1 +1,1 @@
-var mnemonic = "laugh impact shock market theme stereo lecture brick news midnight rich text";
+var mnemonic = "relief awake excess way clerk tonight viable flight collect display margin castle";

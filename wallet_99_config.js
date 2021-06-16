@@ -1,1 +1,1 @@
-var mnemonic = "palm manual sing blossom sort tree mixture learn arrest clarify calm museum";
+var mnemonic = "renew drive element glide fall biology scrap slush flip step struggle pudding";

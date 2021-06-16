@@ -1,1 +1,1 @@
-var mnemonic = "mechanic learn fiscal call language play page slot deal foot category rapid";
+var mnemonic = "bag pluck glide immune news father bid wife wise usual indicate million";

@@ -1,1 +1,1 @@
-var mnemonic = "couple chest dance front bounce swim action endorse come theory measure burden";
+var mnemonic = "twist moon toe kiwi debate raw announce lion change milk shiver near";

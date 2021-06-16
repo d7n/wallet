@@ -1,1 +1,1 @@
-var mnemonic = "love trap forest arrive radar chief ridge ordinary logic palm judge erase";
+var mnemonic = "display cheese place scrub wear pass entire life confirm cover eyebrow aspect";

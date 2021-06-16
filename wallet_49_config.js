@@ -1,1 +1,1 @@
-var mnemonic = "gold guilt bottom radar carbon fossil panic summer vintage paddle genuine casual";
+var mnemonic = "ramp caught market bundle panel organ model umbrella funny occur farm public";

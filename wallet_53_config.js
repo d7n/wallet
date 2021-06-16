@@ -1,1 +1,1 @@
-var mnemonic = "joke spy trick capable suggest female panic weather chief situate more bronze";
+var mnemonic = "bullet orange broom buffalo march blame dance renew flock toddler report grunt";

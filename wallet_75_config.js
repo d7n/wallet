@@ -1,1 +1,1 @@
-var mnemonic = "sound mask thank tide author stomach smooth rebel link leisure hat frozen";
+var mnemonic = "polar erase scorpion excuse left bulb fly blame green venture rhythm leisure";

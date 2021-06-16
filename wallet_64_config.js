@@ -1,1 +1,1 @@
-var mnemonic = "inmate rifle vicious critic hard virtual orchard sauce core group derive mother";
+var mnemonic = "buyer lens phrase control ensure settle dance excuse ignore clog film oyster";

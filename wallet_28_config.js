@@ -1,1 +1,1 @@
-var mnemonic = "body blind mercy target enhance music chicken taxi speed drink beauty wear";
+var mnemonic = "topple top denial patient kitchen describe provide tongue mean style mind order";

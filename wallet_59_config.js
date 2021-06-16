@@ -1,1 +1,1 @@
-var mnemonic = "grace acquire child cup lock tragic document lecture honey element armed strong";
+var mnemonic = "chef favorite admit blood strong talk response cheese unique escape trophy perfect";

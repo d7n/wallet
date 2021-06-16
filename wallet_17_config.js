@@ -1,1 +1,1 @@
-var mnemonic = "that squeeze avocado buffalo sugar best use dismiss bag solid antique crash";
+var mnemonic = "ticket omit false account tooth above omit sweet involve disorder what clock";

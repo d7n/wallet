@@ -1,1 +1,1 @@
-var mnemonic = "bird sunny noise feel fruit melody alone length elegant december brisk rather";
+var mnemonic = "jaguar famous siege expire cactus draw celery entire gun zero amount clinic";

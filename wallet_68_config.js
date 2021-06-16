@@ -1,1 +1,1 @@
-var mnemonic = "glad require matter knee found release until chat when subject trick slice";
+var mnemonic = "excess walnut skirt actress heart season assault torch afraid milk lemon minute";

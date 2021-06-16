@@ -1,1 +1,1 @@
-var mnemonic = "never fabric flag arrange regular pulse output aim rely ostrich wall address";
+var mnemonic = "grace outer punch ship venture trick swift worry chalk toy blossom blind";

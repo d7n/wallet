@@ -1,1 +1,1 @@
-var mnemonic = "pencil coil wrestle mother issue sniff federal future again sport sound execute";
+var mnemonic = "state join fancy tissue catalog panel flock shrug truck blood vehicle clap";

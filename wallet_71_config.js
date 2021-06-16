@@ -1,1 +1,1 @@
-var mnemonic = "whip pipe rocket remove used destroy conduct ice mad fly rescue response";
+var mnemonic = "one eyebrow tribe aunt ship mad smooth news asthma oppose pole mosquito";

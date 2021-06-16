@@ -1,1 +1,1 @@
-var mnemonic = "loan report divide west exact royal pioneer unable museum seat this benefit";
+var mnemonic = "apart like renew robust mesh spawn pledge congress damp bulb divide acoustic";

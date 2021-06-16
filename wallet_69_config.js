@@ -1,1 +1,1 @@
-var mnemonic = "inside drama infant that differ top color second express believe cost issue";
+var mnemonic = "fetch collect solar access jaguar brass since mom flag trouble enrich ankle";

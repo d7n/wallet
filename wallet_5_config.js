@@ -1,1 +1,1 @@
-var mnemonic = "original inspire income thing joy industry rich equip style happy mouse renew";
+var mnemonic = "vanish tenant orbit ozone oyster pencil top pipe scorpion vote arena grow";

@@ -1,1 +1,1 @@
-var mnemonic = "such delay cage train lumber museum river gentle hero brown code shoe";
+var mnemonic = "off glue repeat high again alien jelly borrow space urban hire almost";

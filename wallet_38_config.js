@@ -1,1 +1,1 @@
-var mnemonic = "weapon monkey shove nerve oven odor wink scare eager output matter dentist";
+var mnemonic = "merit utility census fade glove identify liquid shadow shaft conduct clock game";

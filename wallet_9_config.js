@@ -1,1 +1,1 @@
-var mnemonic = "artefact calm riot egg stamp another stadium express fiction during relax timber";
+var mnemonic = "net humble rigid maximum uncle race grow concert survey evil blanket shaft";

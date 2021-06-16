@@ -1,1 +1,1 @@
-var mnemonic = "orchard proud denial before cat twist subject fine firm excite soldier please";
+var mnemonic = "stereo tongue amateur butter link cover prevent now meat patient connect pilot";

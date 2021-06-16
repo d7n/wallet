@@ -1,1 +1,1 @@
-var mnemonic = "rice gift pupil good assume glance high sick marble void stable ozone";
+var mnemonic = "shadow liar science carry fame poem together flip fitness you country vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "auction place slide penalty differ sport manual ring physical remove climb resource";
+var mnemonic = "special little dirt depart jazz course zebra inflict edit lion machine shrimp";

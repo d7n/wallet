@@ -1,1 +1,1 @@
-var mnemonic = "utility enter refuse derive name shy other opera drink action hub coral";
+var mnemonic = "music scrub wave lens club dial sleep child divert pipe garage shallow";

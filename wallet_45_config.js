@@ -1,1 +1,1 @@
-var mnemonic = "exotic size motor rug master price deliver tell odor heart symptom near";
+var mnemonic = "edge library curve parent web horse short satisfy fluid same curtain ability";

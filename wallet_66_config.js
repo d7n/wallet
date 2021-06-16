@@ -1,1 +1,1 @@
-var mnemonic = "violin charge plate fabric brown author wing thank upgrade excess december negative";
+var mnemonic = "rude priority rail royal nasty dragon dilemma twin blade build favorite fuel";

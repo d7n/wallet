@@ -1,1 +1,1 @@
-var mnemonic = "mail ribbon uncle alien digital clean swift leg screen expect toss fuel";
+var mnemonic = "country cube glove blind surface about cat evidence birth swap cabbage option";

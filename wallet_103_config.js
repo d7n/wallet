@@ -1,1 +1,1 @@
-var mnemonic = "wasp sample strategy monitor plate hawk various glass acid word tenant sell";
+var mnemonic = "salmon venture palm town exercise vibrant tragic fever helmet need foil type";

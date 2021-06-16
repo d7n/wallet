@@ -1,1 +1,1 @@
-var mnemonic = "picnic ancient brother glance desk response gossip dumb occur gallery spoil timber";
+var mnemonic = "chronic student decorate trigger carry first cabin dad expose symptom exile organ";

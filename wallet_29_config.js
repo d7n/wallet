@@ -1,1 +1,1 @@
-var mnemonic = "cry range plastic music thing cat need blade file dismiss rebuild cook";
+var mnemonic = "search fence goddess donor loud seed jacket smart aspect nerve point artist";

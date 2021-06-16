@@ -1,1 +1,1 @@
-var mnemonic = "assist snake angle elbow possible current fork reform wing fly silly oxygen";
+var mnemonic = "business eyebrow smoke story camp strike move assume tomorrow entry token craft";

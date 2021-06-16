@@ -1,1 +1,1 @@
-var mnemonic = "quality metal leisure bid brother engage oppose trigger type neglect tail oblige";
+var mnemonic = "record worry wise zero step fan tuna stamp until layer emotion adjust";

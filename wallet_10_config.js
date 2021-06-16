@@ -1,1 +1,1 @@
-var mnemonic = "lens awkward box rhythm three pill mercy century share song undo message";
+var mnemonic = "budget melt embody pair fluid kid friend possible twelve dish produce speak";

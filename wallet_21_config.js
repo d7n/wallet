@@ -1,1 +1,1 @@
-var mnemonic = "exhibit beef guilt hawk then neither drama just oval luxury glove census";
+var mnemonic = "coyote crime artist lonely impulse ghost divert special job decline slot critic";

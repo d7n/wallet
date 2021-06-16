@@ -1,1 +1,1 @@
-var mnemonic = "team enemy major side lunar junior trick merge drama torch cricket street";
+var mnemonic = "real slot better confirm brass fish pelican mosquito oblige next grape truly";

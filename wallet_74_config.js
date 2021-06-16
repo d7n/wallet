@@ -1,1 +1,1 @@
-var mnemonic = "accuse home absurd spend route company abuse glare course angle utility where";
+var mnemonic = "twelve weapon wedding awful tiny pet tongue stool cheese sock wagon apple";

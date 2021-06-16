@@ -1,1 +1,1 @@
-var mnemonic = "cup once disorder quick juice board volume club juice horn actor fog";
+var mnemonic = "advice pig water story tornado gate soft arm crowd cost purity poverty";

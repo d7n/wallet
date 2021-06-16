@@ -1,1 +1,1 @@
-var mnemonic = "cattle blue crystal quantum face smoke enter there indicate amateur nature click";
+var mnemonic = "split able mountain grace small impose useless muffin much people antique rice";

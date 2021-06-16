@@ -1,1 +1,1 @@
-var mnemonic = "media season dentist midnight drama wheat can little hero wide garbage joy";
+var mnemonic = "old razor sock proof indoor help tornado fortune twin angle ridge carpet";

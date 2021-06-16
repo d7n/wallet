@@ -1,1 +1,1 @@
-var mnemonic = "install wheat city pill term journey reopen transfer crack syrup reunion luggage";
+var mnemonic = "page much donate chronic vacuum quiz click recipe input ahead pulse assault";

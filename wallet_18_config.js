@@ -1,1 +1,1 @@
-var mnemonic = "ride bullet chicken session trip that useless capable wood awake race test";
+var mnemonic = "lumber audit option nut pistol miss fever echo kite alien obvious alone";

@@ -1,1 +1,1 @@
-var mnemonic = "emotion hint note unveil penalty tail decrease castle penalty stove practice royal";
+var mnemonic = "sun spray treat arena must right trumpet dentist ticket solution music private";

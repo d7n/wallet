@@ -1,1 +1,1 @@
-var mnemonic = "luxury cube strategy high another weather dilemma devote round scan bomb surface";
+var mnemonic = "hill swallow tomato purse poet cage sun bronze fog submit elite peace";

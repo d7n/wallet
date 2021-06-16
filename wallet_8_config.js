@@ -1,1 +1,1 @@
-var mnemonic = "raise annual ritual stock razor error absorb flavor apple collect brief similar";
+var mnemonic = "silent screen elder goddess jazz busy syrup weird cruise please fish again";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse ship reduce more leg please bright achieve addict slight tooth rabbit";
+var mnemonic = "start select chuckle hidden order motion tube stereo envelope cactus imitate orchard";

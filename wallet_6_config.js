@@ -1,1 +1,1 @@
-var mnemonic = "coil solution behave sad derive useless buffalo moment rabbit twice minor floor";
+var mnemonic = "walnut car twelve shop float upon blast symptom normal dolphin return chief";

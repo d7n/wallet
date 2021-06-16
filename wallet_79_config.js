@@ -1,1 +1,1 @@
-var mnemonic = "walk rich fork subject fruit boil wear kingdom tourist labor dirt hub";
+var mnemonic = "faculty leader insect suggest resource pool volume praise knock total defense sudden";

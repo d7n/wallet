@@ -1,1 +1,1 @@
-var mnemonic = "stay derive pistol attract curtain mistake follow wrap lonely bullet situate stone";
+var mnemonic = "critic daring fruit response resemble license share husband nominee reveal silly ecology";

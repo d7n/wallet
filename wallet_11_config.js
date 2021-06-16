@@ -1,1 +1,1 @@
-var mnemonic = "real width advance predict slim fruit blame chunk size citizen obvious poet";
+var mnemonic = "pledge inflict sketch cool night shift couple amazing current mountain trust hub";

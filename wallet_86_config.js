@@ -1,1 +1,1 @@
-var mnemonic = "position priority mammal surface coconut hill rubber flip raise other tuition club";
+var mnemonic = "kitchen panda there surge have window time attract payment sting affair dry";

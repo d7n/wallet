@@ -1,1 +1,1 @@
-var mnemonic = "reform change glide test father together couple front ice roast this direct";
+var mnemonic = "hat diamond eye kingdom upper danger forget mobile sing enough abstract crucial";

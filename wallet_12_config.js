@@ -1,1 +1,1 @@
-var mnemonic = "trumpet margin gossip agree able crucial thunder manual film journey damage fatigue";
+var mnemonic = "field drastic coil fire dress very ring volume brush teach grace this";

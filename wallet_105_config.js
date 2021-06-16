@@ -1,1 +1,1 @@
-var mnemonic = "oppose wheat deny much cushion misery zero viable speed lobster state timber";
+var mnemonic = "leisure stereo myself giraffe october horror hobby oyster quit wrist phone gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "develop doll south grape bargain slush artist hobby burden senior fold patrol";
+var mnemonic = "portion they sustain exhaust shield school resemble team quick hunt chaos mesh";

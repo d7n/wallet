@@ -1,1 +1,1 @@
-var mnemonic = "body pistol hotel spirit angle manage crystal flavor velvet distance employ island";
+var mnemonic = "always explain vibrant shrug scare bike cargo tonight bicycle potato lonely around";

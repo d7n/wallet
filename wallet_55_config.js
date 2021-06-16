@@ -1,1 +1,1 @@
-var mnemonic = "address worry lawn height control adult expose raise found tribe limit accident";
+var mnemonic = "enforce fatigue sure transfer swing grass switch advice banana cycle fix february";

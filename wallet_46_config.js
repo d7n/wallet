@@ -1,1 +1,1 @@
-var mnemonic = "broom wreck husband call fancy orange armor picnic similar owner miss frog";
+var mnemonic = "canvas fortune pet photo hill mother trend anchor bridge amazing virus auction";

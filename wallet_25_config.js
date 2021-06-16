@@ -1,1 +1,1 @@
-var mnemonic = "repeat antenna picnic gospel digital load differ vague imitate above item job";
+var mnemonic = "begin eight nice embark negative fiction giraffe shiver earn daughter kind elevator";

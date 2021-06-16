@@ -1,1 +1,1 @@
-var mnemonic = "right guide brain vacant tail flush critic spread edit nation blossom twelve";
+var mnemonic = "mouse duck connect rule join work agree toe cat receive join group";

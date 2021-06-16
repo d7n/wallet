@@ -1,1 +1,1 @@
-var mnemonic = "sauce end entire knock draw latin short cherry genuine worry shallow vault";
+var mnemonic = "secret alien father intact area escape nurse trigger essence orient yard garden";

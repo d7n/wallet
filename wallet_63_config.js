@@ -1,1 +1,1 @@
-var mnemonic = "repair hover rail obey orange fatigue power sail side aerobic oak witness";
+var mnemonic = "guilt embark curve barely install soul punch tuna ghost pride kind grunt";

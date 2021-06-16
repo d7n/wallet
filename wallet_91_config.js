@@ -1,1 +1,1 @@
-var mnemonic = "globe honey home flag divorce few mom oil episode thunder pill exit";
+var mnemonic = "more there grow summer fold position load version fatigue lumber scatter stamp";

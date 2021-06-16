@@ -1,1 +1,1 @@
-var mnemonic = "guilt subway primary elevator uncover tower stuff creek caution safe coast super";
+var mnemonic = "manage thought order shuffle process invite useful token village cushion crucial route";

@@ -1,1 +1,1 @@
-var mnemonic = "industry skate ensure manage skin segment tilt salt elder ancient scout yard";
+var mnemonic = "ancient cloud disorder talk chef portion smooth edit upper payment sport tunnel";

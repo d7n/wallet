@@ -1,1 +1,1 @@
-var mnemonic = "equip duty enrich dinosaur pilot borrow cook fragile slab paper glide volcano";
+var mnemonic = "faculty away extend outer rally canvas endorse child miss chapter animal alone";

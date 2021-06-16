@@ -1,1 +1,1 @@
-var mnemonic = "bitter excuse antique supreme brush middle pattern infant share shell notice extra";
+var mnemonic = "simple ten minute kangaroo swamp broccoli entry unveil enjoy garlic lonely hour";

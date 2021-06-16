@@ -1,1 +1,1 @@
-var mnemonic = "pony bamboo dwarf hour skin patch hood buzz cluster lounge blame grass";
+var mnemonic = "initial average door weekend slab rubber decrease pole vendor connect gain heart";

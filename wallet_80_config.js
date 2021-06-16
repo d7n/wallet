@@ -1,1 +1,1 @@
-var mnemonic = "laundry success tube gadget panel apple position flame guard hard obscure sport";
+var mnemonic = "bicycle iron zoo surge test alien shaft yard oval urban caught liberty";

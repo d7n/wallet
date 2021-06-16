@@ -1,1 +1,1 @@
-var mnemonic = "enlist arctic laptop ghost mammal smile people parent pretty awkward pink super";
+var mnemonic = "physical execute soup raise behind disorder hero pet logic flower burden express";

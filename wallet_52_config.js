@@ -1,1 +1,1 @@
-var mnemonic = "wrap seat leisure aspect across dragon ivory around orchard april sand grocery";
+var mnemonic = "kitten photo life response scout puzzle rain wolf wing flag protect mutual";

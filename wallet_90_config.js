@@ -1,1 +1,1 @@
-var mnemonic = "truck december modify use bind damp throw produce glow donate rotate unveil";
+var mnemonic = "ceiling nephew frost border fix used mad hunt spoon local pencil project";

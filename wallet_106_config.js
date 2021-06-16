@@ -1,1 +1,1 @@
-var mnemonic = "phone trophy repair endless around rough position cherry august myth maze cruel";
+var mnemonic = "raw possible still razor owner ladder unlock wink measure winter veteran vacuum";

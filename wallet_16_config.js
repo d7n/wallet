@@ -1,1 +1,1 @@
-var mnemonic = "present wisdom tumble toe crane teach shy arrow jewel raven decade slush";
+var mnemonic = "sustain true aspect camera battle night gauge witness basic cry episode wear";

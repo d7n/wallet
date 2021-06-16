@@ -1,1 +1,1 @@
-var mnemonic = "high repair web charge afraid cloud tissue answer speak zero jeans journey";
+var mnemonic = "hair magnet patrol crane demise hello torch blood marine gun imitate neglect";

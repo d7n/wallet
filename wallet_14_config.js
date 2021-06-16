@@ -1,1 +1,1 @@
-var mnemonic = "outside team person whale casual yard clump cup april loop artwork penalty";
+var mnemonic = "feature mobile venture exhibit normal sure okay anchor sweet mosquito odor bus";

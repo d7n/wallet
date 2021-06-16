@@ -1,1 +1,1 @@
-var mnemonic = "sand suspect stable one bridge decline fortune camp dismiss furnace ski always";
+var mnemonic = "muscle because actor country very eyebrow patch chunk govern furnace snap uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "fee frequent venture book quiz blade nose sick adult gadget snack sentence";
+var mnemonic = "stairs east sunny banana media scene badge shadow excite wing deposit achieve";

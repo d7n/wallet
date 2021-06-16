@@ -1,1 +1,1 @@
-var mnemonic = "direct level clip fade gauge eagle inner kidney match half test include";
+var mnemonic = "brief foam remember frown once quality remain assault quiz intact wonder unable";

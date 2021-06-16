@@ -1,1 +1,1 @@
-var mnemonic = "poet sure casual ill height erode category wagon catch harbor renew mutual";
+var mnemonic = "domain pave total soul cream punch dad neutral unfair license abstract acid";

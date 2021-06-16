@@ -1,1 +1,1 @@
-var mnemonic = "garden warrior poverty rebuild truck robust analyst planet tape fringe approve error";
+var mnemonic = "october athlete bus strike box mind mention glide sausage question depart region";

@@ -1,1 +1,1 @@
-var mnemonic = "april shop anxiety blood stage notable wreck mobile brave gentle clay soup";
+var mnemonic = "agree leg excess join century vast orange devote zoo gun shaft hurt";
