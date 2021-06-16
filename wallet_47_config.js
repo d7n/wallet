@@ -1,1 +1,1 @@
-var mnemonic = "view potato helmet potato capable diagram dragon jaguar work fall main dry";
+var mnemonic = "caught section barely vanish common airport float excess cage business congress number";

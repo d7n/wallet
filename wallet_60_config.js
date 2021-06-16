@@ -1,1 +1,1 @@
-var mnemonic = "inject candy tide stay enlist ivory extend split snake mandate observe shaft";
+var mnemonic = "tomorrow scissors spell reflect sphere sing gap rival doll sick peace little";

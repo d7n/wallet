@@ -1,1 +1,1 @@
-var mnemonic = "shock magic grid monster differ series donkey payment pioneer term reduce boost";
+var mnemonic = "hair mechanic autumn hurt tackle cook neutral box diet manage object ahead";

@@ -1,1 +1,1 @@
-var mnemonic = "speed draw blast frost figure leopard across globe desk depend more walk";
+var mnemonic = "uncle leader repair current oblige neither net maze pole place essay saddle";

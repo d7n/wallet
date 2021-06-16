@@ -1,1 +1,1 @@
-var mnemonic = "oven empty leave human candy shield kiwi lunar unique exit lava path";
+var mnemonic = "danger hover alien broken hope trip region negative around bounce lecture when";

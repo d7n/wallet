@@ -1,1 +1,1 @@
-var mnemonic = "lumber body enjoy ball twist around physical size degree eager slot hint";
+var mnemonic = "venue fancy slot victory void occur color leisure vital spell chair system";

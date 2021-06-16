@@ -1,1 +1,1 @@
-var mnemonic = "mail photo never accuse harsh repeat gravity order claim provide foam later";
+var mnemonic = "onion barrel submit future rather unlock tragic blast fetch embark group town";

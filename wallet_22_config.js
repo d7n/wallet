@@ -1,1 +1,1 @@
-var mnemonic = "genius ball adult spray among phrase cave latin uphold local police oven";
+var mnemonic = "poet angry nothing river net farm code pass bleak ability alley squirrel";

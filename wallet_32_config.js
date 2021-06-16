@@ -1,1 +1,1 @@
-var mnemonic = "smart world sand stone cement wing puppy twice blush exotic sell wet";
+var mnemonic = "six matter quarter waste buzz trash once cushion wing belt tobacco prefer";

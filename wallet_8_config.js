@@ -1,1 +1,1 @@
-var mnemonic = "head cave blast what hazard topple fashion orange since embody shuffle any";
+var mnemonic = "brand essence monitor venue stool excite impact good midnight grass display night";

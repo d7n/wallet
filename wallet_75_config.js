@@ -1,1 +1,1 @@
-var mnemonic = "capital enroll vendor often figure either fever theme glass turtle exist million";
+var mnemonic = "either south script toward good ivory shift moral rival just elbow deputy";

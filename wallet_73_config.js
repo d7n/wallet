@@ -1,1 +1,1 @@
-var mnemonic = "retire model busy velvet one laugh whale drum bring hard congress just";
+var mnemonic = "moment unusual shop upset medal appear boring lumber exist random crouch erase";

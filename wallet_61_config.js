@@ -1,1 +1,1 @@
-var mnemonic = "never festival more juice language bracket tooth snap creek liberty fabric deny";
+var mnemonic = "slush file member snap cluster dinner husband cave chief length spray ceiling";

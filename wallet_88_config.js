@@ -1,1 +1,1 @@
-var mnemonic = "benefit ozone rent van raw horn embrace protect kitten transfer permit student";
+var mnemonic = "orphan lawsuit transfer asthma load reason wrist ice hunt orbit access thrive";

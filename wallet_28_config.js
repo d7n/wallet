@@ -1,1 +1,1 @@
-var mnemonic = "smooth frozen shoe cube spirit page gown artwork famous mystery subject child";
+var mnemonic = "modify chunk toy day blanket before hospital today settle chef dignity elevator";

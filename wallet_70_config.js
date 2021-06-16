@@ -1,1 +1,1 @@
-var mnemonic = "daring portion green ecology luggage scrub ignore shiver speak alarm violin atom";
+var mnemonic = "angry task avoid brief tired wreck approve twelve purity moment prevent pause";

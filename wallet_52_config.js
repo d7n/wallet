@@ -1,1 +1,1 @@
-var mnemonic = "language panic present nice engine zero youth neglect heavy shoe roof crater";
+var mnemonic = "glide foster trap photo mixture excuse increase fall sausage erase bundle amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "addict venue protect early enroll aware price spatial resist guitar wear park";
+var mnemonic = "injury tip recall unfold champion angle dynamic concert praise tower zero profit";

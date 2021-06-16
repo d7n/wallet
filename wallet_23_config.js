@@ -1,1 +1,1 @@
-var mnemonic = "spirit brisk icon issue differ quit enrich mixed ginger spoil school other";
+var mnemonic = "dismiss place release attitude shadow inspire crime entry bus demise casino label";

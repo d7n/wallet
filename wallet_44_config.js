@@ -1,1 +1,1 @@
-var mnemonic = "sense member sausage daring powder gather black illness kit skate dish club";
+var mnemonic = "truly jelly need pluck lift hundred decade catalog demise case skirt tired";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery test ensure uniform holiday obey describe gesture citizen vague minor install";
+var mnemonic = "high lemon light unable original bronze inner trick album panel clinic awkward";

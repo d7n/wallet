@@ -1,1 +1,1 @@
-var mnemonic = "grief fine essence tomorrow recall nest female weekend maple awake crime asthma";
+var mnemonic = "display pistol baby head harvest remind cradle stereo guess outside jaguar elbow";

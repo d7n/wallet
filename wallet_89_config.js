@@ -1,1 +1,1 @@
-var mnemonic = "rural order divorce useless avocado rabbit able hole injury smile evoke path";
+var mnemonic = "mushroom shoot behave first banner decrease country jacket under erase annual lawn";

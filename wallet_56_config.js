@@ -1,1 +1,1 @@
-var mnemonic = "art friend cable carry hand subject car theme attract program cube corn";
+var mnemonic = "outer super fade sting camera blue knife fabric fashion furnace master future";

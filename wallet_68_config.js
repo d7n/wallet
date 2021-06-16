@@ -1,1 +1,1 @@
-var mnemonic = "fee bronze output virtual evidence hospital settle pyramid denial exact normal glance";
+var mnemonic = "flush clarify cricket close lend lottery maid family wage glove embark weird";

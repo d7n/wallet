@@ -1,1 +1,1 @@
-var mnemonic = "lucky pause muscle dog void hobby velvet ripple message family bright garlic";
+var mnemonic = "perfect display anger peace thrive frown piano good treat short auction loop";

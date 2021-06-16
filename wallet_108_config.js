@@ -1,1 +1,1 @@
-var mnemonic = "exist math into invest disagree pet fall monster bounce dinner exact eight";
+var mnemonic = "day lamp such invest blanket filter young limit choice gesture image defy";

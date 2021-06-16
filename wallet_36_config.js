@@ -1,1 +1,1 @@
-var mnemonic = "trim youth disease just wrap detail liar uncover fluid diary math cannon";
+var mnemonic = "simple erase early table vendor spoil click hire nature visit peace chronic";

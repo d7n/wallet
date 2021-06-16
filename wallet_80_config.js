@@ -1,1 +1,1 @@
-var mnemonic = "blame erupt coffee obvious fiber perfect torch method boil excite eyebrow decrease";
+var mnemonic = "robot ethics noise scrap february evil dynamic tragic vast envelope turtle track";

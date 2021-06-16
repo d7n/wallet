@@ -1,1 +1,1 @@
-var mnemonic = "stuff response goose spend comfort soft orbit hurt early change cheap man";
+var mnemonic = "net transfer float muscle elegant glow essay trial veteran mask group artefact";

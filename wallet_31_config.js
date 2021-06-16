@@ -1,1 +1,1 @@
-var mnemonic = "jealous world swear budget reward stove soon zero hello brown zebra century";
+var mnemonic = "series rug burger universe knife shoe angle live connect another damp aim";

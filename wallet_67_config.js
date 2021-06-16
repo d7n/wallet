@@ -1,1 +1,1 @@
-var mnemonic = "debate coil question mind coach vessel pulse mixed element fuel future boss";
+var mnemonic = "clerk case rhythm slight address ramp giant coast hamster pottery over upper";

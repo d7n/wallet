@@ -1,1 +1,1 @@
-var mnemonic = "repeat timber cram harsh slight oyster myself olympic find devote grain vacuum";
+var mnemonic = "ankle warfare aisle food aerobic powder whip silver ritual tennis tilt thumb";

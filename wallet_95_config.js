@@ -1,1 +1,1 @@
-var mnemonic = "radio become bird assault absent trash lunch hamster simple fuel evil enter";
+var mnemonic = "also lunar praise wagon scout sample monster forest jealous food reduce awake";

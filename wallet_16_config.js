@@ -1,1 +1,1 @@
-var mnemonic = "alter dust gloom credit list nominee fly banana mass thunder obvious deny";
+var mnemonic = "excuse atom degree adult crawl cable pepper path seek crawl cancel nerve";

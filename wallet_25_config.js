@@ -1,1 +1,1 @@
-var mnemonic = "tuition segment hint relax brass relax chapter fun tired transfer slide clay";
+var mnemonic = "pipe lend sauce nest lift symbol school athlete surprise prosper shaft basket";

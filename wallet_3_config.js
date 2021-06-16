@@ -1,1 +1,1 @@
-var mnemonic = "cause muscle piece illness fan attitude illegal sell above vapor impact taste";
+var mnemonic = "olive glass follow tiger essay alley mad face cross effort muffin worry";

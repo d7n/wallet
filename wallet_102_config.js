@@ -1,1 +1,1 @@
-var mnemonic = "mail message defy sunny mind ski wage ketchup element trash weapon miss";
+var mnemonic = "spatial until saddle hurdle excuse feed tone sea share noodle wood element";

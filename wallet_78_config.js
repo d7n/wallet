@@ -1,1 +1,1 @@
-var mnemonic = "inherit basket exit tumble pony tonight annual street crawl rare common panther";
+var mnemonic = "because food coast upon person potato old hint soul cloth exhaust start";

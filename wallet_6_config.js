@@ -1,1 +1,1 @@
-var mnemonic = "auto dice insect science champion congress chief man impose knife system leopard";
+var mnemonic = "enroll drift fever wear tackle library citizen grace option crime chunk yellow";

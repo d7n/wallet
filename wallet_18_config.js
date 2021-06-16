@@ -1,1 +1,1 @@
-var mnemonic = "surge kitchen rapid wool pilot input cousin build magic music glass inner";
+var mnemonic = "clerk biology chase buyer domain stage worth field member rural embark fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate seminar yellow health reflect ribbon express output vault cute owner wife";
+var mnemonic = "path roast under model neck cannon blush sight auto blade art olive";

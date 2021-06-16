@@ -1,1 +1,1 @@
-var mnemonic = "universe sleep bundle ramp hurdle sense country increase leisure pact mango umbrella";
+var mnemonic = "slice combine security worry match ability clump middle embody penalty view keen";

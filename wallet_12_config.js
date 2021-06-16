@@ -1,1 +1,1 @@
-var mnemonic = "unfair cook hood utility year arena gather ten crucial slab private network";
+var mnemonic = "faith coral stem evidence metal joke crack suspect cement garlic cage wish";

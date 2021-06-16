@@ -1,1 +1,1 @@
-var mnemonic = "risk depart evidence gift zero memory alarm acid couch habit size bench";
+var mnemonic = "pencil busy orchard puppy taste exact sentence layer dog word abandon night";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket carpet waste travel advance asthma embark morning chimney junk license laugh";
+var mnemonic = "surge ticket ridge pencil rhythm army clerk stadium voyage leg cream shop";

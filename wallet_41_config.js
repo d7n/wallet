@@ -1,1 +1,1 @@
-var mnemonic = "domain fee dance obvious plug arrange able have quote present nurse sock";
+var mnemonic = "lunch taste crop world pear mirror various soul modify hazard vanish wreck";

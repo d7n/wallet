@@ -1,1 +1,1 @@
-var mnemonic = "size nature barely kid depth they sphere time fetch vocal certain gold";
+var mnemonic = "grocery blame join cause section glance grief spirit offer happy nuclear circle";

@@ -1,1 +1,1 @@
-var mnemonic = "business damp child matter resist junior hope toilet focus dignity shallow glimpse";
+var mnemonic = "myth harvest marriage produce lift wash trip life angry pet pole meadow";

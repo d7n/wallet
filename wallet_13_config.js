@@ -1,1 +1,1 @@
-var mnemonic = "anxiety celery vintage clerk into man change pizza congress two three turkey";
+var mnemonic = "elite skull goose sweet mosquito fabric same method wreck wink drastic script";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber snake fatigue mirror filter uncover hybrid idea call link defense gift";
+var mnemonic = "pulse occur thrive domain cause panic piano dragon tube lock gym confirm";

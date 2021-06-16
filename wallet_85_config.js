@@ -1,1 +1,1 @@
-var mnemonic = "behind change bread ride effort shell army climb genre square panda usual";
+var mnemonic = "demand gasp twice solar trial move wheat scale wear invest duck today";

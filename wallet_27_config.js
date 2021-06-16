@@ -1,1 +1,1 @@
-var mnemonic = "possible peasant inch vital front city recall beyond convince shine direct fluid";
+var mnemonic = "initial garage vibrant plate output supply firm belt tornado upper accident episode";

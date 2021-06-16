@@ -1,1 +1,1 @@
-var mnemonic = "circle hamster burger coin describe guard cruel unfold farm drama erase pull";
+var mnemonic = "stage again gun want symptom hotel bleak draft parrot mistake hospital enough";

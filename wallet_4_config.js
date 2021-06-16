@@ -1,1 +1,1 @@
-var mnemonic = "other book minute top consider beauty practice leave wing sentence what sting";
+var mnemonic = "dismiss review forward voyage student used fee blanket love future dirt oven";

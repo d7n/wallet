@@ -1,1 +1,1 @@
-var mnemonic = "uncover twice captain junk leave rough joke nephew rail dawn deputy zebra";
+var mnemonic = "depart truck bone window appear actor any solve shallow involve devote glass";

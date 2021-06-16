@@ -1,1 +1,1 @@
-var mnemonic = "front fix drive achieve world key mandate roast jelly tooth wing elite";
+var mnemonic = "select wool opera exclude tide track peanut melody destroy yellow belt hockey";

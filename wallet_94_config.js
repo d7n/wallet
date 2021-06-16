@@ -1,1 +1,1 @@
-var mnemonic = "sun pencil fury inch able design obey follow cupboard fence slide firm";
+var mnemonic = "hobby donor dutch river never damage enable ozone result gesture runway agree";

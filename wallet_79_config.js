@@ -1,1 +1,1 @@
-var mnemonic = "soft moral rapid design book cost trumpet cruel absorb accident flag enjoy";
+var mnemonic = "club fan nephew isolate garden gaze firm gossip hole culture tiny six";

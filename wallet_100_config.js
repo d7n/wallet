@@ -1,1 +1,1 @@
-var mnemonic = "marine air tobacco decorate hollow frog print suit bar comfort damage name";
+var mnemonic = "test daring nasty stock eager useless this eight unique rail develop endorse";

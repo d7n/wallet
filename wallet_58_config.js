@@ -1,1 +1,1 @@
-var mnemonic = "box unlock ahead position pear sun clerk smoke render slab emerge elite";
+var mnemonic = "picture alpha six regular slice attract celery hole under slab craft kit";

@@ -1,1 +1,1 @@
-var mnemonic = "wise rigid jungle maze laundry survey timber check attack six stamp half";
+var mnemonic = "giant vast learn hold face charge reopen matter quit title hollow diamond";

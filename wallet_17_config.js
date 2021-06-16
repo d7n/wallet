@@ -1,1 +1,1 @@
-var mnemonic = "clutch super payment lounge finger select elevator web trend corn mango square";
+var mnemonic = "device cross front loud icon image dove spirit staff rug such kick";

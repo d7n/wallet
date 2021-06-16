@@ -1,1 +1,1 @@
-var mnemonic = "ivory goose duty shallow segment seat position never have provide tent grant";
+var mnemonic = "boil expect van robust garden hawk fame boil purse then across brick";

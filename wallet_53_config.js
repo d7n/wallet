@@ -1,1 +1,1 @@
-var mnemonic = "present chicken ivory ahead minor fiscal nation pottery genius retire slender purity";
+var mnemonic = "stick spike rhythm include female arrive couch barely young senior rule engine";

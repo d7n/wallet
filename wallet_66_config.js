@@ -1,1 +1,1 @@
-var mnemonic = "soft lady return lab leaf put okay crazy air upon neck wait";
+var mnemonic = "gauge student zoo note top accuse work away certain view abandon thunder";

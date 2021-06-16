@@ -1,1 +1,1 @@
-var mnemonic = "attend boat sustain dune manual delay hurdle resist once ghost vendor guilt";
+var mnemonic = "lazy merit pudding bless gold basic shadow draw among bird disorder grant";

@@ -1,1 +1,1 @@
-var mnemonic = "photo amused foot hover very book display betray actress bullet gadget fun";
+var mnemonic = "asthma home foster marble off daughter mammal void excess shield abandon enough";

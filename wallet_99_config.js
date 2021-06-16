@@ -1,1 +1,1 @@
-var mnemonic = "exchange oyster live chapter receive brown regular song okay pelican priority palace";
+var mnemonic = "honey mass spring predict helmet garden coyote aspect fortune acid reason debate";

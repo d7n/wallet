@@ -1,1 +1,1 @@
-var mnemonic = "chest welcome price zebra decide depend blur humble cute tenant hover bridge";
+var mnemonic = "coconut detail decline speak secret gravity erosion inspire yellow curve tent proud";

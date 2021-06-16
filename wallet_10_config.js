@@ -1,1 +1,1 @@
-var mnemonic = "half lawsuit sight kick matter broom gun amused inmate table cereal record";
+var mnemonic = "spy marine fiber caught toilet employ direct major swamp tomorrow brush border";

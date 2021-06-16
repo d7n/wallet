@@ -1,1 +1,1 @@
-var mnemonic = "asthma farm apart half impact earn swift east crater bitter friend aisle";
+var mnemonic = "marriage useful thank joke north spoil odor bubble wise filter amused panther";

@@ -1,1 +1,1 @@
-var mnemonic = "worry tower tourist option return subway mention wrong please retire health cook";
+var mnemonic = "diesel choice width alert space giggle whale forest talent blind mystery vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "stage dumb scan rally gym supreme erosion match zebra insect tiny pull";
+var mnemonic = "apart roast frequent wrap pizza whip ancient picnic lesson spy exist conduct";

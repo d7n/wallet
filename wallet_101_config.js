@@ -1,1 +1,1 @@
-var mnemonic = "dentist doctor clean way fence prepare neglect agree essence horse save myth";
+var mnemonic = "blush oil sound spread flower menu debris file defy twice emotion debris";

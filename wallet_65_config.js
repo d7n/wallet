@@ -1,1 +1,1 @@
-var mnemonic = "crush run diary energy inject together update logic deposit panel once sheriff";
+var mnemonic = "language border combine math vital industry shadow museum calm pipe voyage unit";

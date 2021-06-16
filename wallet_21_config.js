@@ -1,1 +1,1 @@
-var mnemonic = "awake skill mango mechanic priority ask dice drop soda man scout shy";
+var mnemonic = "mask lock blood spring slow dove fork original move vibrant famous pluck";

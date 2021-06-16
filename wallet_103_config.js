@@ -1,1 +1,1 @@
-var mnemonic = "cream entire mention giant among letter magnet please render jealous fine cheap";
+var mnemonic = "knee inspire banana unknown issue process vote torch sun stem naive talk";

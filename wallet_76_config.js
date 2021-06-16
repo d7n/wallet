@@ -1,1 +1,1 @@
-var mnemonic = "tunnel explain visit media century suffer other wood snake main orphan city";
+var mnemonic = "educate common admit pilot crumble spot wisdom decide angry power meadow laptop";

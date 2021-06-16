@@ -1,1 +1,1 @@
-var mnemonic = "canal unlock reason option virtual spice odor daring material hold tongue peace";
+var mnemonic = "borrow example similar neglect hello dumb champion swear friend double glue rug";

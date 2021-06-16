@@ -1,1 +1,1 @@
-var mnemonic = "fog problem salon rotate tackle chunk magnet monkey piano stereo harbor hurry";
+var mnemonic = "original tell ankle hold robot wet vocal service lumber bronze circle cool";

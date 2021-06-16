@@ -1,1 +1,1 @@
-var mnemonic = "private virus fiscal rose logic patch spin achieve fresh glimpse book drink";
+var mnemonic = "wine jacket frozen breeze dragon paddle advice recipe radar poet term sound";

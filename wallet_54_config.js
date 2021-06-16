@@ -1,1 +1,1 @@
-var mnemonic = "machine surprise blur mixed choose situate arrive observe goat frame nominee satoshi";
+var mnemonic = "blush lunch jewel ostrich toward same nurse clip amateur popular rail million";

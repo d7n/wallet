@@ -1,1 +1,1 @@
-var mnemonic = "mystery water dust ceiling vital goat race depart plastic soup lottery pact";
+var mnemonic = "exotic endorse trend add order draft cereal twin fancy height gospel gaze";

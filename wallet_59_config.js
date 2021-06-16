@@ -1,1 +1,1 @@
-var mnemonic = "antenna carbon laugh bench want fork argue marine note buzz innocent mixed";
+var mnemonic = "prepare cabin pencil outdoor nation chalk today salon obvious sail allow mom";

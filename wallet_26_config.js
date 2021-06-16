@@ -1,1 +1,1 @@
-var mnemonic = "street require decide clarify barrel uncle solar slice sight magnet clump tribe";
+var mnemonic = "question head voice report audit tomorrow essay like name flat crumble eager";

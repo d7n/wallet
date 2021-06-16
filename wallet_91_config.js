@@ -1,1 +1,1 @@
-var mnemonic = "thought lawsuit invite design century hammer wisdom imitate clay resemble child like";
+var mnemonic = "almost twenty hat brass address solve space news wet art barely wealth";

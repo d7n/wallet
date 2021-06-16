@@ -1,1 +1,1 @@
-var mnemonic = "rival retire crime guide elite solve sorry axis pistol arrange rebel because";
+var mnemonic = "track improve camp merry source income educate weather crop educate kit similar";

@@ -1,1 +1,1 @@
-var mnemonic = "sign gown someone typical much note advance hobby worth culture fuel broccoli";
+var mnemonic = "acoustic viable robust shove decline bamboo together split wasp sock emotion cook";

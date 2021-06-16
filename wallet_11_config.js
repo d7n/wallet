@@ -1,1 +1,1 @@
-var mnemonic = "drastic sword inhale maple adjust rack very bargain scare harbor song beauty";
+var mnemonic = "similar will weird despair release report citizen prison grass few sick segment";

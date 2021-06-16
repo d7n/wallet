@@ -1,1 +1,1 @@
-var mnemonic = "debate butter scene amount menu copy shift kiwi furnace cattle become debris";
+var mnemonic = "denial illegal enrich anchor improve advice arm hello energy lock radar below";

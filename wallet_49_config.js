@@ -1,1 +1,1 @@
-var mnemonic = "canyon vapor rug album attitude scrap dice since speak amazing vessel snake";
+var mnemonic = "wrong scout athlete horror benefit total oyster mosquito begin secret leisure school";

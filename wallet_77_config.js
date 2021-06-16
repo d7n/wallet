@@ -1,1 +1,1 @@
-var mnemonic = "zebra fold pioneer design strong flame exhaust fall donate ketchup crew ethics";
+var mnemonic = "athlete museum solid muffin cream devote nut medal artwork kite jacket hurt";

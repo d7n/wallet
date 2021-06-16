@@ -1,1 +1,1 @@
-var mnemonic = "ocean give silver mom pitch polar empower patient loud mistake oak find";
+var mnemonic = "hobby fork brief ecology harsh right cousin what brick inflict vibrant puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "blue side muscle style game moral faint day yellow marriage drift rich";
+var mnemonic = "bargain subway thought evolve rather vast hen wheel decrease involve vacant unique";

@@ -1,1 +1,1 @@
-var mnemonic = "negative affair patrol stone loyal atom grass cup kick primary moment tribe";
+var mnemonic = "leader leopard love enrich super virus tiny enemy hockey select brown transfer";

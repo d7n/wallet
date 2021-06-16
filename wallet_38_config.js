@@ -1,1 +1,1 @@
-var mnemonic = "culture barely surround install solid welcome pride barrel jealous twin erode deer";
+var mnemonic = "swallow hen cancel swallow fork early journey destroy truth remain ball adapt";

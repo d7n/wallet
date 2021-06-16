@@ -1,1 +1,1 @@
-var mnemonic = "office number become discover feature unlock motion virtual capital return hair shallow";
+var mnemonic = "rescue total focus maze still vessel increase wagon steel purchase nothing oven";
