@@ -1,1 +1,1 @@
-var mnemonic = "quantum gentle walk dawn noise appear issue just reason onion flock trap";
+var mnemonic = "harvest envelope dry dove text nasty demand donkey amateur symptom unique tenant";

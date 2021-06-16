@@ -1,1 +1,1 @@
-var mnemonic = "decade teach entry evil distance suffer mercy tower comic dizzy fan hundred";
+var mnemonic = "pact deliver virtual forum material suffer kitchen morning one march hurry diet";

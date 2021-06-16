@@ -1,1 +1,1 @@
-var mnemonic = "expect bench cancel armor staff grab level merge man toward vault farm";
+var mnemonic = "pyramid forum tongue one winner circle stomach blade empty venue blood hungry";

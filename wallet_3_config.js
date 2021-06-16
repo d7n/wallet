@@ -1,1 +1,1 @@
-var mnemonic = "borrow monkey thrive predict elbow connect dumb marriage work cause struggle lottery";
+var mnemonic = "birth abuse path clay disease pilot dog vocal exhaust major scheme nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "display young smile differ laptop finish cushion lounge infant flower awkward chuckle";
+var mnemonic = "language gaze gravity match mistake chronic success top shrug rent output ritual";

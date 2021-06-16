@@ -1,1 +1,1 @@
-var mnemonic = "awful elephant supply funny allow random demise reject airport toss awkward park";
+var mnemonic = "office erupt suggest gadget puppy orient biology trophy lumber token story human";

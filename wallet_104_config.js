@@ -1,1 +1,1 @@
-var mnemonic = "diesel ritual breeze rather treat quote predict motor topple home weather that";
+var mnemonic = "you cannon waste sleep vapor autumn chaos segment slight split winner trust";

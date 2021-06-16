@@ -1,1 +1,1 @@
-var mnemonic = "kidney panel raven fix room either topple excuse seat hint scrap outdoor";
+var mnemonic = "brief nature display brisk pitch tunnel tunnel execute wrestle achieve chef hope";

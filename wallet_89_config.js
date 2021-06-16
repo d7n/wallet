@@ -1,1 +1,1 @@
-var mnemonic = "flight session happy crater short tuna express disease moral treat trial sadness";
+var mnemonic = "ethics because sudden rate century silly stairs rabbit resource garden flush proud";

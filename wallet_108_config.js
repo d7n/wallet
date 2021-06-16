@@ -1,1 +1,1 @@
-var mnemonic = "transfer elegant supply together truth iron bread text ordinary bring embrace honey";
+var mnemonic = "enjoy urban kingdom police toward finger ten melody chuckle stock pumpkin conduct";

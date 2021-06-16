@@ -1,1 +1,1 @@
-var mnemonic = "wet virtual picture attend flash ten icon style dial animal correct rug";
+var mnemonic = "sorry beach horror fiscal refuse purity amateur carpet sample moon merge trade";

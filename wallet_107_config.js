@@ -1,1 +1,1 @@
-var mnemonic = "screen adapt snow shaft resist hill better view dream stadium veteran neck";
+var mnemonic = "gate cool veteran goose attack monitor virtual crash canal vessel unveil diet";

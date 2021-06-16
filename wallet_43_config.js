@@ -1,1 +1,1 @@
-var mnemonic = "speak reopen blur admit genre end cram tail insect destroy resist token";
+var mnemonic = "focus hazard bonus elephant focus hire morning season thrive laugh staff tape";

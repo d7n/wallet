@@ -1,1 +1,1 @@
-var mnemonic = "possible critic reunion before square wisdom income globe attitude equip early relief";
+var mnemonic = "wife fringe donor adapt lecture around range peace subway reunion vendor curve";

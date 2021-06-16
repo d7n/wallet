@@ -1,1 +1,1 @@
-var mnemonic = "you exhibit pet future flee miracle easy term lounge green payment actress";
+var mnemonic = "plate laugh payment repair pull spike attitude bubble october prize shoulder town";

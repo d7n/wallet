@@ -1,1 +1,1 @@
-var mnemonic = "twist stay adapt cake thank jar spatial quality hat arctic inspire example";
+var mnemonic = "crush news friend year tell square empty awful pig modify decade cat";

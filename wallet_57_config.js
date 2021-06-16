@@ -1,1 +1,1 @@
-var mnemonic = "shuffle spider million time scare float reduce similar pig blade stadium blush";
+var mnemonic = "winner pyramid fit want chuckle attitude right fatal syrup castle angry museum";

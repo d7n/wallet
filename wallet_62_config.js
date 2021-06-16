@@ -1,1 +1,1 @@
-var mnemonic = "abuse patrol liberty mule real genre issue main view blame hand bargain";
+var mnemonic = "list bacon fly trick detail legend party valid lemon hospital tiny coyote";

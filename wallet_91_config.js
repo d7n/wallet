@@ -1,1 +1,1 @@
-var mnemonic = "kite program own toast dinosaur ride desert garlic require deny cram nephew";
+var mnemonic = "usage winter chief unknown slight interest suggest talent floor screen odor truly";

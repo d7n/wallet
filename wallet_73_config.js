@@ -1,1 +1,1 @@
-var mnemonic = "buyer sphere picnic top laugh length any issue thing perfect agree cushion";
+var mnemonic = "fame buffalo weapon recipe enough blanket believe tumble ladder rail brand tattoo";

@@ -1,1 +1,1 @@
-var mnemonic = "rail mass chimney era census marine cluster dumb pink earn maximum orphan";
+var mnemonic = "dinosaur expand wheat capital abuse turn damp isolate vacant never loop prize";

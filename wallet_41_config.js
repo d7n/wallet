@@ -1,1 +1,1 @@
-var mnemonic = "rare marine cotton tenant jazz lift east traffic glow sunny intact match";
+var mnemonic = "filter arctic oxygen napkin chimney apple web tomorrow dance cluster mosquito code";

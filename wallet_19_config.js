@@ -1,1 +1,1 @@
-var mnemonic = "dentist side charge subject maple shrug right share lonely awake bonus upon";
+var mnemonic = "amused slight annual hen universe laptop floor credit grid invite source stool";

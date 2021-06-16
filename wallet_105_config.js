@@ -1,1 +1,1 @@
-var mnemonic = "afford bread solution eagle easily tenant fee puppy jeans estate body bean";
+var mnemonic = "pyramid ostrich express arm intact please mansion oven cloud beef slam loyal";

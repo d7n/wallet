@@ -1,1 +1,1 @@
-var mnemonic = "fiscal give beef treat second pear priority cloud dilemma palace toss memory";
+var mnemonic = "wasp envelope nominee jaguar sing father rhythm off praise alert attract rescue";

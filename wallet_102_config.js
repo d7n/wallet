@@ -1,1 +1,1 @@
-var mnemonic = "limb strong hobby nominee exotic fire frog company album box guess wave";
+var mnemonic = "brain earth please airport universe enjoy impulse cabbage capable female canyon heart";

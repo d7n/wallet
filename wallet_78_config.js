@@ -1,1 +1,1 @@
-var mnemonic = "club acoustic luxury symptom donate box virtual garden insane local copper exact";
+var mnemonic = "suffer hidden legend kidney holiday split evil punch veteran roof ensure frequent";

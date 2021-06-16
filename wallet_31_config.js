@@ -1,1 +1,1 @@
-var mnemonic = "odor basic test lazy borrow intact trend shield warm scan fancy patient";
+var mnemonic = "awake tunnel adapt require wheel demise peace slab impulse slab raccoon hour";

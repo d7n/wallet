@@ -1,1 +1,1 @@
-var mnemonic = "acquire black panda patient picnic jump inform please vapor screen gravity apart";
+var mnemonic = "typical choice wait clap found physical twenty basic blossom segment aunt wet";

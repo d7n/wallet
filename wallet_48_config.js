@@ -1,1 +1,1 @@
-var mnemonic = "inmate fringe coconut farm oven include chat satisfy flower idle cinnamon forward";
+var mnemonic = "zero shrimp crumble autumn fold sphere aisle orbit bike reopen aerobic doll";

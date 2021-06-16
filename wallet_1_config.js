@@ -1,1 +1,1 @@
-var mnemonic = "barely volcano flip cereal enter project pride cargo silly aware nurse thunder";
+var mnemonic = "random grain lounge puzzle vacuum visual token celery side swamp box rebuild";

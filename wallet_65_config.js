@@ -1,1 +1,1 @@
-var mnemonic = "agent flower thunder upon bread draw symptom fix draft argue pigeon final";
+var mnemonic = "type dentist actress draft shaft shop imitate olympic ball maze street pen";

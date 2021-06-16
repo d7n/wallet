@@ -1,1 +1,1 @@
-var mnemonic = "ride pattern tornado rough drill text host fence gentle tip laundry hurt";
+var mnemonic = "veteran sudden trap maple hair ridge equal person pass category gift bag";

@@ -1,1 +1,1 @@
-var mnemonic = "tone flash inform legend village below useful motor direct bench trumpet minimum";
+var mnemonic = "message crash satoshi exist draft swift tobacco rich foam leg fish movie";

@@ -1,1 +1,1 @@
-var mnemonic = "column minimum blue electric dinner hat exercise loop paddle cook wall must";
+var mnemonic = "jealous umbrella cabbage eyebrow oil win picture stadium style voice leaf proof";

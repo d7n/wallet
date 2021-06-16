@@ -1,1 +1,1 @@
-var mnemonic = "unit riot future summer name march thing sister feel morning bird beauty";
+var mnemonic = "wide kitten bird voice inner edge barely belt muffin super cattle cactus";

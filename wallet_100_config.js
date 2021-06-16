@@ -1,1 +1,1 @@
-var mnemonic = "width turtle hedgehog satisfy like elder broccoli finger please speak chest erode";
+var mnemonic = "general limb deputy will destroy leave avocado check lift shuffle fine garlic";

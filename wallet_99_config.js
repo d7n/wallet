@@ -1,1 +1,1 @@
-var mnemonic = "captain blade beauty cargo ethics salmon segment peasant pool wheat pause miss";
+var mnemonic = "owner task domain gloom asset odor inner unfold soap snap story alley";

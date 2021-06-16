@@ -1,1 +1,1 @@
-var mnemonic = "sustain diet tiny cushion desert strike atom earn acoustic arch knock august";
+var mnemonic = "crisp jump equip attract robust object rookie faint extend butter glance once";

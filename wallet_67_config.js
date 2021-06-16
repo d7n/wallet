@@ -1,1 +1,1 @@
-var mnemonic = "dose melt praise brand teach dragon jaguar mother hidden scene noble ritual";
+var mnemonic = "inform armor man aspect turn warfare solid stove find window water settle";

@@ -1,1 +1,1 @@
-var mnemonic = "plate vivid crucial long quit measure gas discover opinion mad either weasel";
+var mnemonic = "arrive wild live hover mention shove oven venture mention patient evolve token";

@@ -1,1 +1,1 @@
-var mnemonic = "accident zebra lake front resource decade jar admit bounce violin smooth sibling";
+var mnemonic = "music fancy ribbon prison nasty mass audit asthma force hundred between lucky";

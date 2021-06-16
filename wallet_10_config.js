@@ -1,1 +1,1 @@
-var mnemonic = "earth endless media near promote life breeze unaware moon tattoo ritual thrive";
+var mnemonic = "limit buyer source tribe clock power mosquito love aerobic feed hat link";

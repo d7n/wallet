@@ -1,1 +1,1 @@
-var mnemonic = "spoon budget suffer giant finger require brave soft only party actual give";
+var mnemonic = "wage physical luxury genius ginger happy defy abandon van click lady canoe";

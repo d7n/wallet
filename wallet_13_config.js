@@ -1,1 +1,1 @@
-var mnemonic = "zero hint pill despair inspire atom alien mango snow mistake museum attend";
+var mnemonic = "safe steel uphold decrease ability marriage around host still bubble sample target";

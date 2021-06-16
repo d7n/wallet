@@ -1,1 +1,1 @@
-var mnemonic = "village umbrella elevator old fresh glass trend odor awake cube minimum noble";
+var mnemonic = "avocado carbon index enjoy abuse father enter south moon shrug sight round";

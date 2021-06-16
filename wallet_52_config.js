@@ -1,1 +1,1 @@
-var mnemonic = "ability awake group spice penalty river onion plunge practice silk pepper express";
+var mnemonic = "slow shield drill choose orchard room plug machine crazy betray jungle stone";

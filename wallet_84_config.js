@@ -1,1 +1,1 @@
-var mnemonic = "disagree panda hero quantum scare magnet snap where kingdom dutch apart alert";
+var mnemonic = "web snack coach ship radio lens donate involve call nasty unknown food";

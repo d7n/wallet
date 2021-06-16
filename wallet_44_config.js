@@ -1,1 +1,1 @@
-var mnemonic = "elbow reveal fitness rapid power valve rack gasp that coil stand kick";
+var mnemonic = "strategy ozone detail sock simple miracle uncover help doll among chef buyer";

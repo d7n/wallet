@@ -1,1 +1,1 @@
-var mnemonic = "solid clean cactus bulb tone lounge proof emerge lens embrace list fiber";
+var mnemonic = "eager ethics scissors bind tonight token organ supreme lucky quantum twice glide";

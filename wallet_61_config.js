@@ -1,1 +1,1 @@
-var mnemonic = "radio essay glare fee exact jazz olympic erase similar know vivid oven";
+var mnemonic = "capital shell scissors track stable nerve top right spin blast arrest demise";

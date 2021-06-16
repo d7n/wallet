@@ -1,1 +1,1 @@
-var mnemonic = "act pigeon issue genuine blossom access mask box toy unusual hair piece";
+var mnemonic = "account acquire army rice scrub bracket essence open spoil memory unveil water";

@@ -1,1 +1,1 @@
-var mnemonic = "rain consider insane soft festival opera silent pluck bullet era spoil case";
+var mnemonic = "flip canal top rent solid lake fossil virus enough brother wash loyal";

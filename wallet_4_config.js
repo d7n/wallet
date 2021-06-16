@@ -1,1 +1,1 @@
-var mnemonic = "gravity film purchase apart baby auto garage battle lesson worry hole embody";
+var mnemonic = "insect blouse result mention exercise kangaroo eager virtual tortoise disagree black flash";

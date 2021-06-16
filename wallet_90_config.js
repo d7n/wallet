@@ -1,1 +1,1 @@
-var mnemonic = "jar axis sense talk power agree busy space list adapt elegant element";
+var mnemonic = "dutch sadness axis arrow abuse want differ lazy trumpet toilet echo city";

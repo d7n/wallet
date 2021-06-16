@@ -1,1 +1,1 @@
-var mnemonic = "offer mother sphere feed ball caution soft barely grief share magnet mechanic";
+var mnemonic = "anchor soap museum polar dog awake two lift mention identify weekend topple";

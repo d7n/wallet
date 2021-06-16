@@ -1,1 +1,1 @@
-var mnemonic = "emerge claw tiger educate claw undo unusual noise angry bird pipe addict";
+var mnemonic = "test humble glimpse palm denial drive hen imitate middle gold chicken left";

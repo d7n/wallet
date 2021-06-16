@@ -1,1 +1,1 @@
-var mnemonic = "ship myth element price more label grief border cabbage film jacket foster";
+var mnemonic = "people dutch peanut saddle radio regret copy cry front tourist cheese chicken";

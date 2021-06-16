@@ -1,1 +1,1 @@
-var mnemonic = "sting genius recipe elevator maze ankle crater budget head dawn expand market";
+var mnemonic = "taxi later session muffin tissue ready feel exotic stool gate adapt submit";

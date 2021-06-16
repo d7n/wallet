@@ -1,1 +1,1 @@
-var mnemonic = "sense smile cruise chase flock obey armed fire smile blush bullet animal";
+var mnemonic = "tray chaos soda crush benefit venue hunt allow memory month deputy finish";

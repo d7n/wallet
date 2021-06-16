@@ -1,1 +1,1 @@
-var mnemonic = "win elder hockey replace quick level until announce sauce orange upon river";
+var mnemonic = "biology afford life silent turtle shadow special floor bag behave run bullet";

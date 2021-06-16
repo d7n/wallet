@@ -1,1 +1,1 @@
-var mnemonic = "cloth extra suspect onion plate gasp practice monkey weather order casino coffee";
+var mnemonic = "curtain junior early engine stairs cactus conduct reopen clever flat prize unlock";

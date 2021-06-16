@@ -1,1 +1,1 @@
-var mnemonic = "elegant protect dice catalog coral initial coconut keen once album grape blouse";
+var mnemonic = "toy poverty total depth chase effort vacant note much young frame era";

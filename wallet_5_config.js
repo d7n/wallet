@@ -1,1 +1,1 @@
-var mnemonic = "acoustic seminar rack awkward before october include lady age produce jaguar hip";
+var mnemonic = "dance ceiling fuel satoshi cliff job turtle faint fix chimney theme youth";

@@ -1,1 +1,1 @@
-var mnemonic = "where brown orchard earn sauce accident bid green style summer sibling patient";
+var mnemonic = "ramp link path night street inspire humor champion disease maximum casino interest";

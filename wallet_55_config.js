@@ -1,1 +1,1 @@
-var mnemonic = "card phrase play slice wood current bread fiction opinion cave hope vanish";
+var mnemonic = "dynamic flight pattern devote bus property situate pave into mercy immense inquiry";

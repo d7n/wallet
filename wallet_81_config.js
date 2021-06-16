@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur lounge lunar weather mushroom divide deny offer ginger champion divide expand";
+var mnemonic = "hobby delay twelve canvas pact slam board van lion pulse pepper moral";

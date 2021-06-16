@@ -1,1 +1,1 @@
-var mnemonic = "swamp wealth animal staff exist journey narrow garden seminar stable clown blame";
+var mnemonic = "brisk flower wage sight trip climb fortune below impose quiz local lizard";

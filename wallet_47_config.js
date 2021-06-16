@@ -1,1 +1,1 @@
-var mnemonic = "anger round moon census cigar bounce impose index immense whip sunny aspect";
+var mnemonic = "confirm emotion soldier slush tunnel used pulp wine light shuffle mammal race";

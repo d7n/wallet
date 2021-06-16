@@ -1,1 +1,1 @@
-var mnemonic = "primary squirrel soup candy wagon inside mad receive bless nothing steak smile";
+var mnemonic = "derive exist surround lens random wing boring steel skull derive tell people";

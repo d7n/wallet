@@ -1,1 +1,1 @@
-var mnemonic = "volume limb floor length usage approve hole hungry bind square remind winner";
+var mnemonic = "stuff sunny concert antique student month install spray label submit type ribbon";

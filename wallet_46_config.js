@@ -1,1 +1,1 @@
-var mnemonic = "bleak tip mistake recipe danger cousin soda vicious fly dinosaur that beauty";
+var mnemonic = "iron pride bulk oxygen unaware arena cart glare knee twin maid outer";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy polar rely humor about capable route become month fame planet goat";
+var mnemonic = "ghost ignore jeans hidden novel lucky bring poet helmet rookie loan normal";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic tape neglect bid cushion debris like kite symptom fortune tray volume";
+var mnemonic = "design genius tree drill media boy usage lumber address finger ordinary emerge";

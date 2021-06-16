@@ -1,1 +1,1 @@
-var mnemonic = "proof pistol degree drop rather address verb peasant follow neither toss drip";
+var mnemonic = "prefer normal canal corn photo scout space celery ozone mushroom find nasty";

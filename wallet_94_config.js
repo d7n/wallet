@@ -1,1 +1,1 @@
-var mnemonic = "endorse proof peanut vote quote diary solar glow shy witness brick second";
+var mnemonic = "brother scale knock hospital ugly transfer person blood long useless coil dove";

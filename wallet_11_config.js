@@ -1,1 +1,1 @@
-var mnemonic = "talk music fault present rely face bless heart diesel then trust world";
+var mnemonic = "almost damp daring gasp clown frame drink alarm dynamic puzzle produce coconut";

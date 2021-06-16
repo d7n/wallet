@@ -1,1 +1,1 @@
-var mnemonic = "reveal two hurt prefer below ethics detect garment engage debate timber enter";
+var mnemonic = "owner source civil critic insane hollow soldier life rib trust ladder maze";

@@ -1,1 +1,1 @@
-var mnemonic = "busy puzzle alone private poem flip educate this gravity glue firm artefact";
+var mnemonic = "pull loyal critic fatigue prison immense picnic tip chef moral bronze insane";

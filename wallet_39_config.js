@@ -1,1 +1,1 @@
-var mnemonic = "top interest adapt fabric leader tiny lab bread ride alcohol curtain quote";
+var mnemonic = "essence fantasy avocado over royal inch security pepper reopen roast analyst shed";

@@ -1,1 +1,1 @@
-var mnemonic = "clay ivory original poverty glow output end hybrid design wait adjust board";
+var mnemonic = "shallow risk blame drift stone aware smoke resist monkey shrimp worth turtle";

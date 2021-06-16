@@ -1,1 +1,1 @@
-var mnemonic = "ready slab fetch brown silly forum merry opera when blouse coffee history";
+var mnemonic = "add pattern sun drill muffin gun size depend faculty junk click payment";

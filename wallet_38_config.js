@@ -1,1 +1,1 @@
-var mnemonic = "tower trial exact absent kind warfare hunt exit income caution skill mail";
+var mnemonic = "prosper predict grunt like virtual solid media wait great satoshi sausage betray";

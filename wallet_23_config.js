@@ -1,1 +1,1 @@
-var mnemonic = "gather anchor party maid polar crowd until amateur network frost family mosquito";
+var mnemonic = "beach novel dignity joy lazy conduct home execute virus mixture senior annual";

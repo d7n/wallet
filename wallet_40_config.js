@@ -1,1 +1,1 @@
-var mnemonic = "wood trick gaze brass sketch steel swear pottery flock hire exclude swing";
+var mnemonic = "fat kick float lend broom bronze predict cliff this reason drift razor";

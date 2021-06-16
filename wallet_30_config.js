@@ -1,1 +1,1 @@
-var mnemonic = "measure arch beach congress mutual increase violin bone lamp monster victory shop";
+var mnemonic = "worry become foam barrel dizzy chest rubber panda because lizard cake armed";

@@ -1,1 +1,1 @@
-var mnemonic = "funny satoshi solar wage traffic keen flight corn van check report trend";
+var mnemonic = "gown autumn urge tank orient acquire sand engage stairs abstract tonight alarm";

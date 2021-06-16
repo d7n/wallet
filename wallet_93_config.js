@@ -1,1 +1,1 @@
-var mnemonic = "flame salad stove pattern figure sick lounge echo grab lottery flat crumble";
+var mnemonic = "rhythm stamp chicken ridge fame loyal super boss educate one chaos laptop";

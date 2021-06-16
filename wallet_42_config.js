@@ -1,1 +1,1 @@
-var mnemonic = "great buzz scrub uphold fluid notable mosquito burger wife dilemma food butter";
+var mnemonic = "bind silver spray into radio scare nice gun body wonder next addict";

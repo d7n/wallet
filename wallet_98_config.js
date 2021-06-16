@@ -1,1 +1,1 @@
-var mnemonic = "sock lift accident easy inquiry nice surround object expose critic mean latin";
+var mnemonic = "wire tell arrive pulp buffalo disagree huge evil grain tornado code spy";

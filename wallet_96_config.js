@@ -1,1 +1,1 @@
-var mnemonic = "release route demise smoke leader season naive chuckle glare short limb barely";
+var mnemonic = "humor shrimp alone area diesel blue caution ivory antenna between survey learn";

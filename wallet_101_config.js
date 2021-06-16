@@ -1,1 +1,1 @@
-var mnemonic = "speed crucial couple ignore wine license pencil spend catch employ math verify";
+var mnemonic = "laundry vibrant dolphin champion minor miss say approve winter pelican invest build";

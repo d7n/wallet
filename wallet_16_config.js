@@ -1,1 +1,1 @@
-var mnemonic = "ensure blame practice dolphin doctor average client rubber bottom penalty latin emotion";
+var mnemonic = "ginger unveil old magic glare photo educate crush today sound awake garment";
