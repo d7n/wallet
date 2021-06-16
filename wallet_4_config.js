@@ -1,1 +1,1 @@
-var mnemonic = "script rabbit swim february reject basket evolve news already frequent float sleep";
+var mnemonic = "lizard loud dance gain wait pizza flip theory build friend pizza amount";

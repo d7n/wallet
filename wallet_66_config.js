@@ -1,1 +1,1 @@
-var mnemonic = "biology image oven ribbon tiger imitate hover middle video tired dismiss mirror";
+var mnemonic = "scheme genuine believe lunch protect mention make over hotel giant drop guess";

@@ -1,1 +1,1 @@
-var mnemonic = "silk amateur mean stay super mix brave custom clog kitten dilemma prefer";
+var mnemonic = "river artefact crack depend country advance daughter erode hundred soda host dance";

@@ -1,1 +1,1 @@
-var mnemonic = "view anxiety cart above cram sentence emerge perfect tree strike palm dismiss";
+var mnemonic = "skate gun print party skirt above steak manual nothing forget genre whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "web master between veteran farm habit verify defense error six disorder bread";
+var mnemonic = "stereo tornado gossip absent ranch future meadow eight lab anger local reform";

@@ -1,1 +1,1 @@
-var mnemonic = "piano nest ensure involve metal embrace vault evolve puppy puzzle trick tiger";
+var mnemonic = "barely tackle adult mass egg explain member tomato apology divert wealth dinner";

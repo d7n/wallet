@@ -1,1 +1,1 @@
-var mnemonic = "nut opera wait vendor remind slow recipe isolate host polar stomach vast";
+var mnemonic = "throw carbon produce blush decrease process liar manual winter elbow paddle oxygen";

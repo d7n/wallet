@@ -1,1 +1,1 @@
-var mnemonic = "rifle expand usual wolf avoid basic any detect scan talent worth ethics";
+var mnemonic = "injury total affair safe seminar swear expose quantum judge theory account neutral";

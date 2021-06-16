@@ -1,1 +1,1 @@
-var mnemonic = "vehicle gallery weekend vault kite club soda tackle future again turn gasp";
+var mnemonic = "dream host medal polar hazard measure horror fortune common visual finger soda";

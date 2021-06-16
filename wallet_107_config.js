@@ -1,1 +1,1 @@
-var mnemonic = "twist gauge hair credit portion upon clock enter bottom ribbon crawl like";
+var mnemonic = "junior ranch steak deny confirm scale bicycle busy love myself hawk yard";

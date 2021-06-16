@@ -1,1 +1,1 @@
-var mnemonic = "puzzle crazy hybrid catalog tackle wreck seven decade dog bird improve note";
+var mnemonic = "flavor mercy scrub sell blossom art naive flame cactus armed table jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "mind arrest vacuum punch myth hazard ridge audit riot unit pipe off";
+var mnemonic = "odor episode citizen robust casino sheriff convince stable exotic track describe fluid";

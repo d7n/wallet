@@ -1,1 +1,1 @@
-var mnemonic = "garbage raven security blouse tiny bid air slot economy metal life sock";
+var mnemonic = "wreck snap palace process good ceiling modify fish upset more defense lamp";

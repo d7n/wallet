@@ -1,1 +1,1 @@
-var mnemonic = "science retreat tank ready attack slight tortoise fluid holiday budget feel mouse";
+var mnemonic = "smooth giraffe exercise reason cake logic six huge pioneer fresh master lumber";

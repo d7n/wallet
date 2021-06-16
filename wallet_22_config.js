@@ -1,1 +1,1 @@
-var mnemonic = "make sample carpet tone yellow senior eagle aim stove science gaze load";
+var mnemonic = "tunnel equal column critic swap piano arch seminar duty web tribe knee";

@@ -1,1 +1,1 @@
-var mnemonic = "juice fox sweet pigeon upper aisle damage tent hurdle case smart juice";
+var mnemonic = "stairs exchange humble toddler amateur coil six meadow loyal relief acquire appear";

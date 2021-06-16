@@ -1,1 +1,1 @@
-var mnemonic = "duck raccoon timber double core bulk avocado weasel festival woman adapt faculty";
+var mnemonic = "pull notable service steel mansion deer tribe choose beauty curtain thing mushroom";

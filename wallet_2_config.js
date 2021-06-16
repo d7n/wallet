@@ -1,1 +1,1 @@
-var mnemonic = "alert unknown thumb reflect renew senior make radar shed slender tail mosquito";
+var mnemonic = "quit guard cat vote slow middle little flight waste change dragon bring";

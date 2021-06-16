@@ -1,1 +1,1 @@
-var mnemonic = "sustain junk wedding lumber arrive used range bonus possible dynamic water cash";
+var mnemonic = "junior pact below daughter firm disease spot spawn health kangaroo kitchen verb";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo sustain orient benefit impose service town muscle boost cinnamon please blossom";
+var mnemonic = "melody drive december dirt very boring network glimpse burst shock among valid";

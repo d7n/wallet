@@ -1,1 +1,1 @@
-var mnemonic = "search permit slogan nation raise club next pattern will floor void autumn";
+var mnemonic = "salmon upset juice dwarf skate remember danger pledge sudden south foil agent";

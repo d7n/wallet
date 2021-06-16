@@ -1,1 +1,1 @@
-var mnemonic = "replace deliver lottery unit joke worth echo grunt letter bean motion release";
+var mnemonic = "audit pair woman false torch drop flash clarify van theory deputy magnet";

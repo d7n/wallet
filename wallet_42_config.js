@@ -1,1 +1,1 @@
-var mnemonic = "long motion poem attack cattle puzzle solution chat ivory virtual nice ball";
+var mnemonic = "face alter broccoli swim opera other raccoon sphere car draw luggage gesture";

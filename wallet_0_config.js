@@ -1,1 +1,1 @@
-var mnemonic = "ensure pottery nephew mixture pilot plastic useful depth common actor vanish vote";
+var mnemonic = "thank wage series maze visa require shuffle thing valley mom day swift";

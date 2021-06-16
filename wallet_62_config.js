@@ -1,1 +1,1 @@
-var mnemonic = "invest exhibit beauty hand guard very seven lobster member energy cabin test";
+var mnemonic = "aspect slam donkey away zero swap lake witness labor nature anchor drastic";

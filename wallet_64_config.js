@@ -1,1 +1,1 @@
-var mnemonic = "valid win motion sun orient reflect foil risk develop boss exotic crunch";
+var mnemonic = "churn light arm match tornado gloom boy now town glory tongue again";

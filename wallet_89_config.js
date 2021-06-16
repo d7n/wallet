@@ -1,1 +1,1 @@
-var mnemonic = "match holiday canal sibling bubble inside sunny quality setup garden armed sample";
+var mnemonic = "size pilot share sweet defy earth sheriff meat giraffe chase surge pioneer";

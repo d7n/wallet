@@ -1,1 +1,1 @@
-var mnemonic = "provide jazz attend camera pony gift dinosaur joy expand when slim volume";
+var mnemonic = "crane knock void liar still ski tattoo what blush pulp output raccoon";

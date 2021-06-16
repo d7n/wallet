@@ -1,1 +1,1 @@
-var mnemonic = "convince veteran equal black bring motor suggest shuffle exotic harsh nature giant";
+var mnemonic = "ancient jungle they stairs unable floor trash asthma because early scare shallow";

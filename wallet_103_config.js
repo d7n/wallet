@@ -1,1 +1,1 @@
-var mnemonic = "pass manage fabric alpha muffin enable jealous there install roast smoke race";
+var mnemonic = "visa leg man frame good connect waste jungle humble clap recall enroll";

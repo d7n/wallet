@@ -1,1 +1,1 @@
-var mnemonic = "picnic avocado portion mirror retreat phone approve frozen unfold control nature meadow";
+var mnemonic = "bike defense tower cycle beyond task permit same gaze crystal verify discover";

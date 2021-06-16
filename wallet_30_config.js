@@ -1,1 +1,1 @@
-var mnemonic = "velvet change sail dice video million maid review siren cupboard idle large";
+var mnemonic = "merge empower fox armor ankle page fiscal coconut fragile such door enter";

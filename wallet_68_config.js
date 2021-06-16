@@ -1,1 +1,1 @@
-var mnemonic = "chicken salmon ankle upper question forget outdoor business access warrior team burden";
+var mnemonic = "honey feed arm dash runway worth camera velvet payment reflect predict outdoor";

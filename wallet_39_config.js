@@ -1,1 +1,1 @@
-var mnemonic = "grit battle card hero search distance myself into rally boring lady resemble";
+var mnemonic = "normal tuna gesture cable bread lottery normal roof token track right snake";

@@ -1,1 +1,1 @@
-var mnemonic = "utility taxi polar volume cloth remember erode strong fabric decade tomorrow warfare";
+var mnemonic = "ladder nominee ten when replace abuse relief waste fashion soap check blade";

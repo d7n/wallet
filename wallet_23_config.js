@@ -1,1 +1,1 @@
-var mnemonic = "humble potato height bone traffic effort salad web sheriff wisdom veteran trade";
+var mnemonic = "argue machine educate above satoshi sustain law whisper delay slim boat leader";

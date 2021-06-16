@@ -1,1 +1,1 @@
-var mnemonic = "onion educate amazing orbit limit cattle ostrich blade narrow check caught snake";
+var mnemonic = "hill raven offer check place actress wood three traffic toward pretty tonight";

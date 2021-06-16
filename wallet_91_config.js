@@ -1,1 +1,1 @@
-var mnemonic = "include inform lawn canal banner slush art youth inner proof boss front";
+var mnemonic = "noodle candy need dinosaur mutual cabbage divert green load fashion ozone rail";

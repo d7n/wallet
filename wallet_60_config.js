@@ -1,1 +1,1 @@
-var mnemonic = "drive human picture exclude make grace feel awkward veteran hockey donkey habit";
+var mnemonic = "excess emerge cruel brand best between okay maid poet high random plunge";

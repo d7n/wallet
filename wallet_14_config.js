@@ -1,1 +1,1 @@
-var mnemonic = "cloud brown include lens neglect valid amused asset faculty absorb proud napkin";
+var mnemonic = "frog super patient split inspire leopard actress evidence subject happy mimic pigeon";

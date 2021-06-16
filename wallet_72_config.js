@@ -1,1 +1,1 @@
-var mnemonic = "aerobic neither dismiss bargain retreat loop sting flat raccoon country laundry primary";
+var mnemonic = "special message appear absurd casino hollow cereal moral name shed flavor mask";

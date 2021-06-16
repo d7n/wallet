@@ -1,1 +1,1 @@
-var mnemonic = "humor vocal review erupt analyst fiscal use logic excite chimney find citizen";
+var mnemonic = "join indicate rude afford smart worth city good delay keep slush enter";

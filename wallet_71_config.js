@@ -1,1 +1,1 @@
-var mnemonic = "address urban actress board cement special busy hero liberty play orchard virus";
+var mnemonic = "manage news bless quality act walnut reunion energy embrace robot vivid lonely";

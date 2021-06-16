@@ -1,1 +1,1 @@
-var mnemonic = "start spread music ball armor fury lab tooth left monkey immune symptom";
+var mnemonic = "blue swap camp joy stock motion pill tone drive color oyster outdoor";

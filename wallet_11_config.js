@@ -1,1 +1,1 @@
-var mnemonic = "female year notable next fortune hand zebra federal chronic snap adapt nurse";
+var mnemonic = "act thought gain maximum glove other pond truck planet bright goose couple";

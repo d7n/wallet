@@ -1,1 +1,1 @@
-var mnemonic = "guard crash try hawk group require embody attract carbon ahead subject elder";
+var mnemonic = "useless monkey saddle hand agree drill list foster foil ecology toddler poet";

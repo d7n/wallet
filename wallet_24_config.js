@@ -1,1 +1,1 @@
-var mnemonic = "elder rose mail vehicle own another woman hole sponsor simple lawn ankle";
+var mnemonic = "opinion flat fortune genius rigid find budget ready weasel repair size warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "snack combine emotion wolf want much home result spray bring grass rely";
+var mnemonic = "head walnut swim various gasp old burger expose patrol picture light either";

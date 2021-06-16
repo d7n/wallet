@@ -1,1 +1,1 @@
-var mnemonic = "sting jungle ostrich kit two welcome buffalo powder again tiny tiger away";
+var mnemonic = "cigar process desert tragic mom drive hidden broccoli tent engage net angry";

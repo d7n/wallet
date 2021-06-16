@@ -1,1 +1,1 @@
-var mnemonic = "rival boat vague link just jungle people devote tag frost river shiver";
+var mnemonic = "ostrich category index when anger world warrior cry business head curve entire";

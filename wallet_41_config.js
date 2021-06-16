@@ -1,1 +1,1 @@
-var mnemonic = "choice forget forum impose inform trial icon rack moral fork solid issue";
+var mnemonic = "sibling found twin breeze matrix dinosaur trick panda will below early home";

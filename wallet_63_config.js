@@ -1,1 +1,1 @@
-var mnemonic = "material casual cannon thrive acoustic broccoli friend bundle script mimic shoe select";
+var mnemonic = "school interest safe company ginger melody metal cereal mobile pattern permit aunt";

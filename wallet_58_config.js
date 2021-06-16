@@ -1,1 +1,1 @@
-var mnemonic = "viable wheat hotel visual romance casino tool govern change section choice just";
+var mnemonic = "couch apology usage head humble hair mosquito furnace bronze warm mountain unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "report state blade veteran science figure venture legend ridge coast reward awful";
+var mnemonic = "runway excuse matter rubber syrup tortoise inflict blanket dizzy debate soda you";

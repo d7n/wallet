@@ -1,1 +1,1 @@
-var mnemonic = "battle inherit loan client delay ladder sentence aerobic bar lonely soul sting";
+var mnemonic = "dynamic soul burden purchase pear aware public unveil modify machine plastic honey";

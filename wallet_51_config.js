@@ -1,1 +1,1 @@
-var mnemonic = "clog roof sell opinion bundle alcohol egg accident dash canyon advance witness";
+var mnemonic = "okay element glow uphold bracket document science senior couple cat view tonight";

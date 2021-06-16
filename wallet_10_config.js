@@ -1,1 +1,1 @@
-var mnemonic = "rent someone assist card funny parade glue staff online horse since pen";
+var mnemonic = "release kid labor devote wrap short immune trade evoke camera scout portion";

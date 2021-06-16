@@ -1,1 +1,1 @@
-var mnemonic = "already van resist brick canvas panel join click inmate thought eye pony";
+var mnemonic = "pumpkin multiply age quality speed message miracle zero carry finger fitness flock";

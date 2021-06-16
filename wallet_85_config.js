@@ -1,1 +1,1 @@
-var mnemonic = "kidney panic umbrella battle debris cluster rally vital shove slogan purse inherit";
+var mnemonic = "bike leader despair frozen gap ostrich faculty glue slight tumble attitude pill";

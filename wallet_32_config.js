@@ -1,1 +1,1 @@
-var mnemonic = "anger major toward this wheat leopard oak sister member dust canvas obey";
+var mnemonic = "beef vocal safe twist rubber escape panther father loyal absurd duty north";

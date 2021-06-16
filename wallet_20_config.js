@@ -1,1 +1,1 @@
-var mnemonic = "letter draw almost reunion broccoli mad sister boost grass rug say jeans";
+var mnemonic = "sad blood domain easy mosquito equip color unable safe scale will negative";

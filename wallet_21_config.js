@@ -1,1 +1,1 @@
-var mnemonic = "bullet around obtain know coffee cactus mosquito private level vessel reunion else";
+var mnemonic = "mass rapid view filter camera fly happy field discover prison notable inflict";

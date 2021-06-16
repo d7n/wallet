@@ -1,1 +1,1 @@
-var mnemonic = "sand hammer poverty guide wave deny cloud shadow praise pluck oval rude";
+var mnemonic = "shrimp food switch puppy hundred cereal adapt race gift fluid nest slender";

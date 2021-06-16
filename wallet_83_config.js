@@ -1,1 +1,1 @@
-var mnemonic = "hood march result trigger ribbon moment arch market mean decline airport ritual";
+var mnemonic = "gas science behave artist toast clarify first evolve replace happy clock digital";

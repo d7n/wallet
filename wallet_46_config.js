@@ -1,1 +1,1 @@
-var mnemonic = "valid boil gloom bench hat broken rural salute quantum fresh rhythm clip";
+var mnemonic = "maximum cheap sugar apple lawsuit describe pulp magnet cheap flush biology utility";

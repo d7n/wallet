@@ -1,1 +1,1 @@
-var mnemonic = "century express sorry virus frame weekend web bounce ketchup bacon industry leaf";
+var mnemonic = "device acid torch service novel swim shop agree cry mushroom exhaust ramp";

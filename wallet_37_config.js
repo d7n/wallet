@@ -1,1 +1,1 @@
-var mnemonic = "conduct six below diamond away visual lady hen brain crane eternal time";
+var mnemonic = "flat impact bar joke upset blur wine detect off adult produce shallow";

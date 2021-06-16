@@ -1,1 +1,1 @@
-var mnemonic = "glow inject warrior brief silver amazing gaze animal bacon claim muscle grief";
+var mnemonic = "sponsor antenna loyal foil lab profit cool celery coffee include first sound";

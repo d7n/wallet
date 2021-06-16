@@ -1,1 +1,1 @@
-var mnemonic = "fork sad gate ghost great tool embody ecology ski staff sign scene";
+var mnemonic = "opinion pulse egg hidden deer purity certain forward rapid eager live erode";

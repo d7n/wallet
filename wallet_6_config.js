@@ -1,1 +1,1 @@
-var mnemonic = "among ceiling sadness dove injury sure silk tiger frame kit load wrist";
+var mnemonic = "alone napkin select pink twin right rotate veteran emotion harsh way coin";

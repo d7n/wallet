@@ -1,1 +1,1 @@
-var mnemonic = "infant meat true gold load enlist caught science solve defense fan abstract";
+var mnemonic = "acoustic tape legal base bubble gown clutch sheriff foil brother shrimp pumpkin";

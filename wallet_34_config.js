@@ -1,1 +1,1 @@
-var mnemonic = "resemble gallery kite script taste spring six cat winter rice bean belt";
+var mnemonic = "habit glue oak shine tackle coil habit spirit dilemma agent text vicious";

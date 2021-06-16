@@ -1,1 +1,1 @@
-var mnemonic = "praise grape choice illegal august unfold refuse labor blanket hint blouse outer";
+var mnemonic = "fork remind direct couch gaze firm proof blade path fresh armed scissors";

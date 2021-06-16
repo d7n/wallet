@@ -1,1 +1,1 @@
-var mnemonic = "gate sick dragon buffalo family phrase call truck fault garlic supply heavy";
+var mnemonic = "rhythm weasel fence twice dentist fury spawn enforce cattle diagram crowd gaze";

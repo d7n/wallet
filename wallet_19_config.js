@@ -1,1 +1,1 @@
-var mnemonic = "simple often drip river help busy chair seat cash cycle never voice";
+var mnemonic = "kid path habit height affair deer sea brief tobacco narrow umbrella guide";

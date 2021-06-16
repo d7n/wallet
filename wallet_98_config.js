@@ -1,1 +1,1 @@
-var mnemonic = "cupboard antenna involve return rack young two street genre slush wrestle display";
+var mnemonic = "frown stone timber amateur novel sea squeeze series various cannon worry fruit";

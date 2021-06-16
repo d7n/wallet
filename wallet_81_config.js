@@ -1,1 +1,1 @@
-var mnemonic = "shallow rich ocean stumble run purpose ridge hundred betray museum round note";
+var mnemonic = "insane shove rifle erode mixed symptom regret trumpet chief pigeon suffer daring";

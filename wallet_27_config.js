@@ -1,1 +1,1 @@
-var mnemonic = "foam initial version family orchard aware copy beauty bench fish note detect";
+var mnemonic = "blast say plunge during hungry earn charge actress curve split first snow";

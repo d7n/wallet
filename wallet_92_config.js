@@ -1,1 +1,1 @@
-var mnemonic = "attitude inside ancient tobacco reward fade legend label wood outside ecology fire";
+var mnemonic = "snack decline rigid path summer attend mail volume april entry bind laugh";

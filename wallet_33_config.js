@@ -1,1 +1,1 @@
-var mnemonic = "giant sad digital response lens master similar update lounge mass noodle vivid";
+var mnemonic = "basket cupboard crowd barely motor twist rich saddle rapid lesson gift slogan";

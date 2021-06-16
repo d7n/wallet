@@ -1,1 +1,1 @@
-var mnemonic = "sign above soccer survey skate afford fluid game ghost treat increase vocal";
+var mnemonic = "sample festival decorate gloom basic pull brain raccoon useful impulse hill arctic";

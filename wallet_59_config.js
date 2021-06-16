@@ -1,1 +1,1 @@
-var mnemonic = "buzz impact true sock course drama lizard north satoshi enroll what wheat";
+var mnemonic = "hurt survey hood jump glory educate result eager young seminar cloud captain";

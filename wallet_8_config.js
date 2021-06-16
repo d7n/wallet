@@ -1,1 +1,1 @@
-var mnemonic = "wrestle search ten slam member grass regret volume buzz usage differ collect";
+var mnemonic = "load sick essay draw illegal ramp size immense betray autumn rocket pilot";

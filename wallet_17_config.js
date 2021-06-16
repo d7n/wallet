@@ -1,1 +1,1 @@
-var mnemonic = "bid diesel unit quiz select supply tag tool repeat urban blur outside";
+var mnemonic = "exit laugh warrior robust neutral answer jungle barely decrease salute spring select";

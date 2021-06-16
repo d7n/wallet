@@ -1,1 +1,1 @@
-var mnemonic = "drama opinion sail village nose city merry furnace budget hour film knee";
+var mnemonic = "twist trust shop verb heavy fury run will gentle wealth icon rug";

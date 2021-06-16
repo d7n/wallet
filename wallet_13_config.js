@@ -1,1 +1,1 @@
-var mnemonic = "organ suspect local tackle want phrase sleep actor sauce brother pear worth";
+var mnemonic = "source farm rule soon truck dutch enemy depend rude suit disorder disorder";

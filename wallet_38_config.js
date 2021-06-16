@@ -1,1 +1,1 @@
-var mnemonic = "raise shield extra theme tube coin legend general huge mammal depend swarm";
+var mnemonic = "pulse fringe play shaft obvious because wild uncover program fantasy cousin recall";

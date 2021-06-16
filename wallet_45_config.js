@@ -1,1 +1,1 @@
-var mnemonic = "only depth snow ensure ball stadium stool inquiry lab walnut legal arctic";
+var mnemonic = "human tell hurry argue cram shove turn avoid ketchup unaware fringe pumpkin";

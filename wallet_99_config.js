@@ -1,1 +1,1 @@
-var mnemonic = "actor kingdom wealth always peasant need pulp tenant next mass bring enhance";
+var mnemonic = "rough radio disorder suggest celery foam spirit follow steak project excuse shield";

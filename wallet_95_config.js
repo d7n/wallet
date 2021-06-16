@@ -1,1 +1,1 @@
-var mnemonic = "tired heart vague proof era broom produce alone minimum bacon syrup busy";
+var mnemonic = "wave horn baby deliver flock decline web antique mail nut card casino";

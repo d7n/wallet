@@ -1,1 +1,1 @@
-var mnemonic = "wedding coral attract able hamster drift capable quarter night joke lottery remain";
+var mnemonic = "hire zebra dance diesel tourist slow will element demise evil mammal frozen";
