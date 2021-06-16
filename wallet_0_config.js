@@ -1,1 +1,1 @@
-var mnemonic = "melt wool hurdle discover egg appear situate album drive battle warrior blanket";
+var mnemonic = "ranch elegant soft patrol plug race spot question famous ripple basket hat";

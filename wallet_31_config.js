@@ -1,1 +1,1 @@
-var mnemonic = "grow jump inject garbage movie across about order anxiety tape surge second";
+var mnemonic = "obtain quality magnet tape kingdom mushroom usage liberty wonder famous wolf bicycle";

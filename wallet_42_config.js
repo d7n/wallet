@@ -1,1 +1,1 @@
-var mnemonic = "distance card broom foam economy network auto kit wasp stereo achieve beauty";
+var mnemonic = "bleak social exhibit shed organ struggle soul alcohol small code grunt pave";

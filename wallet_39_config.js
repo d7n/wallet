@@ -1,1 +1,1 @@
-var mnemonic = "erase erosion enable empower boost grocery trophy flee bulb agree reflect section";
+var mnemonic = "artwork few then critic utility loud extra burden muscle hybrid more category";

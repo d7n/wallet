@@ -1,1 +1,1 @@
-var mnemonic = "runway again cloth shoot someone icon movie what dinner current kid vessel";
+var mnemonic = "antique claim hamster surprise casino quiz average brown bag combine trumpet toss";

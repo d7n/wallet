@@ -1,1 +1,1 @@
-var mnemonic = "series vibrant portion horse team diagram erupt page settle flight giant general";
+var mnemonic = "income pencil report grid oyster expand twelve license space two upgrade angle";

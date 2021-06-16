@@ -1,1 +1,1 @@
-var mnemonic = "problem build patient primary glove item rain off extra teach slim agree";
+var mnemonic = "avocado coin solid meat card catalog comfort brief acquire first picnic neck";

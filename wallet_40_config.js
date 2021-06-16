@@ -1,1 +1,1 @@
-var mnemonic = "soft measure pulse brief usage there kick post zero element void need";
+var mnemonic = "earn equal sketch leaf stand unveil penalty mesh bring wasp trumpet concert";

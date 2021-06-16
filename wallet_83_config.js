@@ -1,1 +1,1 @@
-var mnemonic = "blush enjoy million front buyer cup tortoise south drift tongue spider reunion";
+var mnemonic = "better shine industry tail lion toy acoustic basket wasp inch over blanket";

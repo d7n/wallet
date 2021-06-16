@@ -1,1 +1,1 @@
-var mnemonic = "brave flash alley immense cabbage winter breeze course agree distance receive sad";
+var mnemonic = "minor wise derive census warm express category grief setup salute elevator pulse";

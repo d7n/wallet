@@ -1,1 +1,1 @@
-var mnemonic = "island draw bread mirror color fever daring actual detect seed robot coast";
+var mnemonic = "cereal wrap velvet walnut under injury mean funny abstract atom acid health";

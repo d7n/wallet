@@ -1,1 +1,1 @@
-var mnemonic = "utility december sphere betray patient evoke excite side page sell gift rule";
+var mnemonic = "ill anger useful elephant chuckle donor gate sell menu wagon antique exact";

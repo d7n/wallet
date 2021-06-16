@@ -1,1 +1,1 @@
-var mnemonic = "gallery wreck wave cliff hire rely coin frost innocent pitch wedding hammer";
+var mnemonic = "brisk staff liquid coffee trick remain decorate pony fame area apology anchor";

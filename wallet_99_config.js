@@ -1,1 +1,1 @@
-var mnemonic = "absorb flush grant evolve alone sudden lesson valve simple kind lyrics tunnel";
+var mnemonic = "flush jump involve right leaf cereal enrich warrior fuel real turkey chimney";

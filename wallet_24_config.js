@@ -1,1 +1,1 @@
-var mnemonic = "rain agree drink nice become cube lottery grow orchard decline energy title";
+var mnemonic = "length habit girl bomb never hybrid price mesh floor pigeon future march";

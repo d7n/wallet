@@ -1,1 +1,1 @@
-var mnemonic = "decline lunch clutch piano asset drum friend license bamboo traffic tomorrow gaze";
+var mnemonic = "device decorate clutch project crack doll boring surprise rail nasty course trim";

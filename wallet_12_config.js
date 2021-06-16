@@ -1,1 +1,1 @@
-var mnemonic = "forum topple mistake fitness grain country unusual iron grace onion tilt shine";
+var mnemonic = "chase trim leopard green lawsuit host fragile spin emerge luxury ramp ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "venue mix tortoise marble art million weird family fitness sentence custom jump";
+var mnemonic = "flight hedgehog spatial joke apology payment forward ill cook distance fluid trust";

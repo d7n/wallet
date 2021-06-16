@@ -1,1 +1,1 @@
-var mnemonic = "slogan toast hen kit habit hope power velvet sustain tube lady cereal";
+var mnemonic = "leisure corn term around bike people total shoot stock copper nerve execute";

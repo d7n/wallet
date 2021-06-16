@@ -1,1 +1,1 @@
-var mnemonic = "cereal matter shine clap inhale chapter roast endorse border grape resemble stumble";
+var mnemonic = "ladder account vintage riot print able century police jungle document book list";

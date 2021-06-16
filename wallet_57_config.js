@@ -1,1 +1,1 @@
-var mnemonic = "capital enough sausage deny ivory spring leader initial ostrich tent measure drip";
+var mnemonic = "insect endorse merry pencil under issue seminar nephew venture link load apple";

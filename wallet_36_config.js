@@ -1,1 +1,1 @@
-var mnemonic = "front barrel treat much reason kite dawn duty trick school hollow vapor";
+var mnemonic = "liberty robust planet math sport water device maple catch trigger music auto";

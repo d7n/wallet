@@ -1,1 +1,1 @@
-var mnemonic = "video warrior little despair kitchen stay hawk december hamster train burden render";
+var mnemonic = "reject million snack pig gather chuckle alone drink orange tragic basic issue";

@@ -1,1 +1,1 @@
-var mnemonic = "hire bright harvest chunk dish motor enroll sorry fox boost emerge tomorrow";
+var mnemonic = "pig scout submit multiply social tag track adjust rude rough estate inner";

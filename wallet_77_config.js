@@ -1,1 +1,1 @@
-var mnemonic = "defy view essence slice gentle leader protect enough power forward hobby artefact";
+var mnemonic = "salt accident boost coffee lift picture palm rocket lend castle genuine arrow";

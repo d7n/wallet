@@ -1,1 +1,1 @@
-var mnemonic = "transfer salt egg crawl finish ancient nothing zoo tobacco lava angry cupboard";
+var mnemonic = "junior differ awake cushion urge pumpkin humble usage sad fatigue law degree";

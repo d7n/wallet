@@ -1,1 +1,1 @@
-var mnemonic = "human autumn canvas draft strike vacuum consider front dragon gadget taxi envelope";
+var mnemonic = "symptom slab umbrella exist angry cotton holiday genuine glass give diagram galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "youth velvet bracket artist vibrant ball tonight hedgehog planet dash control fit";
+var mnemonic = "village win escape double happy need caution feature devote dress burden dilemma";

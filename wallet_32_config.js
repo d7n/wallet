@@ -1,1 +1,1 @@
-var mnemonic = "fatal village decrease material crumble elder kind napkin subway smart chuckle empower";
+var mnemonic = "visa notice review great above bulk dream ankle wool saddle alley ivory";

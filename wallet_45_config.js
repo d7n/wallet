@@ -1,1 +1,1 @@
-var mnemonic = "grass round copy someone dash side sentence typical danger portion security green";
+var mnemonic = "riot spring teach hamster leaf smooth picture border earn dinosaur rich junior";

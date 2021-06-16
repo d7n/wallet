@@ -1,1 +1,1 @@
-var mnemonic = "demand person calm scrub engage column eager cross crouch plug short wall";
+var mnemonic = "gauge owner people wet exile adjust exotic nasty inside twelve rail chaos";

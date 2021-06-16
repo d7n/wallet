@@ -1,1 +1,1 @@
-var mnemonic = "same nothing brass blame scan drop mesh taxi taxi roof hidden senior";
+var mnemonic = "barrel only fat pumpkin cause road satisfy race antique stone property elephant";

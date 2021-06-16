@@ -1,1 +1,1 @@
-var mnemonic = "wing athlete transfer shrug upgrade air raise dentist disorder roof taste deputy";
+var mnemonic = "club hazard side illness near risk seed nature dog tray tuition scare";

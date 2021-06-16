@@ -1,1 +1,1 @@
-var mnemonic = "soul consider surprise solid jeans more squirrel proof random huge liquid wash";
+var mnemonic = "injury genius spread transfer bitter oblige damp raw artefact public priority anchor";

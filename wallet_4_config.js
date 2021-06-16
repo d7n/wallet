@@ -1,1 +1,1 @@
-var mnemonic = "crater fresh heart soup home excuse enrich grant citizen hockey nut omit";
+var mnemonic = "verb vapor water next wish assume naive trap enact cry shift surge";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey board any entire again report recycle series sudden chat yard plate";
+var mnemonic = "crime brave sadness sand force swing funny glow faith jealous fruit render";

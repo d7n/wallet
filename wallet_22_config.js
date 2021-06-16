@@ -1,1 +1,1 @@
-var mnemonic = "crash zone company mouse adult neck upon coyote decrease marriage swarm reason";
+var mnemonic = "adjust dinner wood energy husband cute speed couch parrot anger text spawn";

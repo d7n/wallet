@@ -1,1 +1,1 @@
-var mnemonic = "trumpet silver rely hard swing deposit age bike case parent argue radar";
+var mnemonic = "access proof sense enable pattern kite arch exchange again cable trend biology";

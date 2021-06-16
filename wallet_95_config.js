@@ -1,1 +1,1 @@
-var mnemonic = "mango garage south fresh ivory sentence simple december ice treat arm emotion";
+var mnemonic = "grow hawk mandate open utility reopen humor differ naive either bean chief";

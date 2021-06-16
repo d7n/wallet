@@ -1,1 +1,1 @@
-var mnemonic = "slogan shove comic ecology stem rival air verify pigeon run width silly";
+var mnemonic = "dial fetch country phrase chapter undo exercise any limit miracle artwork tiger";

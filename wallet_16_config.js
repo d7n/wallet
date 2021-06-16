@@ -1,1 +1,1 @@
-var mnemonic = "review erupt uphold gallery today poverty census hurry hard dizzy concert window";
+var mnemonic = "derive party wire vocal lion front job come pigeon rookie rotate subway";

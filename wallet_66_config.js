@@ -1,1 +1,1 @@
-var mnemonic = "fault hat afford stand midnight thing tonight view until else awful light";
+var mnemonic = "near rough fatigue artist captain voyage series scorpion estate mammal trade hungry";

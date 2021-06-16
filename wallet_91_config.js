@@ -1,1 +1,1 @@
-var mnemonic = "light edit chronic tissue dog reward slot nut chicken lens work tank";
+var mnemonic = "grief chaos napkin cave bottom frown movie cotton retreat spice match uncle";

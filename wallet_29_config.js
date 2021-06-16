@@ -1,1 +1,1 @@
-var mnemonic = "wave creek mandate paper tragic sorry egg ordinary firm manual connect sadness";
+var mnemonic = "enemy name exercise marriage piece learn obscure remain pottery atom rebel puppy";

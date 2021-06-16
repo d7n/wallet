@@ -1,1 +1,1 @@
-var mnemonic = "deer junk super blanket vivid window render voyage dust rich vivid below";
+var mnemonic = "system fun start fiscal again hospital ring tattoo another ten slot man";

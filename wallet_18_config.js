@@ -1,1 +1,1 @@
-var mnemonic = "meat embrace unfold speak charge radar hospital own unknown length surprise banner";
+var mnemonic = "display violin critic virus side fossil hello autumn myth tortoise extra basket";

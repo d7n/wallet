@@ -1,1 +1,1 @@
-var mnemonic = "resemble outside camera fortune horse torch sell traffic master satisfy silver can";
+var mnemonic = "dismiss bounce normal corn heart valve lecture explain curve card smart upon";

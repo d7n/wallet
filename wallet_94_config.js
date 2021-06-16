@@ -1,1 +1,1 @@
-var mnemonic = "clinic wide embark ladder uncover swing stage vicious armor one convince town";
+var mnemonic = "pigeon basic spice ride tower hurdle online rough grid quiz toward hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "general slush ridge solve wrist october slogan monkey envelope course parent mushroom";
+var mnemonic = "diamond chaos desert holiday logic all edit spice alpha era final inner";

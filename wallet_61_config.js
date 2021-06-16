@@ -1,1 +1,1 @@
-var mnemonic = "inherit victory enrich couch feel can myth want valley lens defy find";
+var mnemonic = "cabbage multiply pattern lawn inmate cabbage update gallery enter amazing rival panic";

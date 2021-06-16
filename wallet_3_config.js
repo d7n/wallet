@@ -1,1 +1,1 @@
-var mnemonic = "behind galaxy that blood dawn noodle empower atom pumpkin food about save";
+var mnemonic = "whale couple fiction sock bring idea slow sniff season bullet wear bless";

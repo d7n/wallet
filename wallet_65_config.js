@@ -1,1 +1,1 @@
-var mnemonic = "snack orchard motion vote caution image access false before latin border ghost";
+var mnemonic = "tag battle trim piece inhale fancy ozone close unfold disorder meat remove";

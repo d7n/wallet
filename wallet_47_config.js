@@ -1,1 +1,1 @@
-var mnemonic = "scrap tiger rabbit asthma prosper thrive chase music boil dignity hazard orient";
+var mnemonic = "century sleep distance leaf alter demand duty grow style dog leisure romance";

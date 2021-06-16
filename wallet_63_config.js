@@ -1,1 +1,1 @@
-var mnemonic = "badge trash habit ice quick morning castle echo false swear garbage remind";
+var mnemonic = "rail give drama mixture beach chef shed panther melody east spin boil";

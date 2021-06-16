@@ -1,1 +1,1 @@
-var mnemonic = "quarter someone gym unknown sort bitter weasel pretty innocent close code ticket";
+var mnemonic = "insane sea slight despair execute glow shrug concert mesh throw hip smoke";

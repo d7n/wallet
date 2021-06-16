@@ -1,1 +1,1 @@
-var mnemonic = "glad summer flight drum unveil cliff retire define detail cricket found purse";
+var mnemonic = "taxi picture version excuse ticket avoid soda exchange awesome wire lava unhappy";

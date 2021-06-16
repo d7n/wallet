@@ -1,1 +1,1 @@
-var mnemonic = "tenant draw silk buzz fox decide reduce leopard merge divert heart window";
+var mnemonic = "muscle tiger kiss claim fiction junior shock drip club bamboo planet evidence";

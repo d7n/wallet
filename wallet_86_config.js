@@ -1,1 +1,1 @@
-var mnemonic = "cluster news square crime party mixture arena treat kit ceiling correct blossom";
+var mnemonic = "upset picnic decade minor fringe siege used grape mass icon attract such";

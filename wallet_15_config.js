@@ -1,1 +1,1 @@
-var mnemonic = "imitate zoo toss idea expose aim attitude man derive east shy nuclear";
+var mnemonic = "excuse traffic follow around night glad need very slush breeze artefact cycle";

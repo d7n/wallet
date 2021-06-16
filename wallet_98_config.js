@@ -1,1 +1,1 @@
-var mnemonic = "tribe someone basket shell choice exotic convince until peasant amazing brand eagle";
+var mnemonic = "catalog they wing scheme muscle control answer sick peasant tent letter baby";

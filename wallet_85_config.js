@@ -1,1 +1,1 @@
-var mnemonic = "bind outer traffic skin ball column joke miss fish narrow attack broom";
+var mnemonic = "cash just million castle coconut thrive knee beauty garage bottom leopard degree";

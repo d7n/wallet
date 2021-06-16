@@ -1,1 +1,1 @@
-var mnemonic = "biology mobile apart problem shift wine upgrade rely token robust fade float";
+var mnemonic = "borrow grass copper again current build change frozen judge odor ivory moral";

@@ -1,1 +1,1 @@
-var mnemonic = "ability chief cup liar idea cotton street retreat person powder educate orphan";
+var mnemonic = "oblige bar miss people column screen marine vacant diet lion toddler hazard";

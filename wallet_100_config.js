@@ -1,1 +1,1 @@
-var mnemonic = "year boost mass occur cheap ribbon ribbon music attract torch attitude joke";
+var mnemonic = "junk about slab imitate network ethics merit hen subject other crouch myth";

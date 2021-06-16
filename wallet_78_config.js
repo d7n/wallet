@@ -1,1 +1,1 @@
-var mnemonic = "warm quiz flock audit ladder spy merry phrase seed sell salad sunny";
+var mnemonic = "weekend seed hamster repair original between try connect enforce toilet evolve vague";

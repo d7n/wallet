@@ -1,1 +1,1 @@
-var mnemonic = "actress copy parade ability ladder clip pink orphan behind moment abandon bird";
+var mnemonic = "manage minor truck fiscal ask simple eye glass front attend teach extra";

@@ -1,1 +1,1 @@
-var mnemonic = "choice holiday old crime lawn beyond atom blur joke maple finish only";
+var mnemonic = "world model month job pave fee attend define swear end idea rack";

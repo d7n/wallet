@@ -1,1 +1,1 @@
-var mnemonic = "mansion dust mom calm elite cycle portion canyon collect cluster spawn alter";
+var mnemonic = "joke fire glass guess cancel panic online ghost twice audit route choice";

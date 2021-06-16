@@ -1,1 +1,1 @@
-var mnemonic = "pass unable museum neutral elbow shadow addict banana soap tomorrow tuna paper";
+var mnemonic = "smooth dinosaur coast public accuse grace shift assist camera crater poverty trophy";

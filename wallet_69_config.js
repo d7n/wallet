@@ -1,1 +1,1 @@
-var mnemonic = "fashion arm bounce figure capital option list child rent raccoon method mule";
+var mnemonic = "fatal trip album exit extend siege cactus office unable bamboo verify gate";

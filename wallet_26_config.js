@@ -1,1 +1,1 @@
-var mnemonic = "science sniff issue truck waste parrot release legend phone expose federal fog";
+var mnemonic = "kit farm garment minute awful butter bike sentence acoustic region orchard fluid";

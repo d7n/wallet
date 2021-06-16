@@ -1,1 +1,1 @@
-var mnemonic = "asset flower gossip rude embark receive use despair lady reveal voyage satoshi";
+var mnemonic = "clean tide glide three slot captain goddess van earth capital strong salt";

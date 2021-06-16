@@ -1,1 +1,1 @@
-var mnemonic = "pudding empower attract lend oppose stamp rely camp toddler dash baby expand";
+var mnemonic = "eyebrow pear wheat can rebel reopen high expect lizard argue patient march";

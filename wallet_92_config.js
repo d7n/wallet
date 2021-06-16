@@ -1,1 +1,1 @@
-var mnemonic = "saddle relax stand powder domain million stool artist possible reveal mountain sleep";
+var mnemonic = "business fish exclude clay churn soccer cram catch vehicle merry segment real";

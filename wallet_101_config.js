@@ -1,1 +1,1 @@
-var mnemonic = "issue donate lava sausage long glass express school brief length transfer cook";
+var mnemonic = "dance ecology expand omit carbon mind payment reflect diesel nephew jelly carbon";

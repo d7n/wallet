@@ -1,1 +1,1 @@
-var mnemonic = "enter tongue number window quick bar goose lake spread absurd owner limit";
+var mnemonic = "begin sunny hidden melody horse earn identify system razor motor shiver finger";

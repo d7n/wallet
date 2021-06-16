@@ -1,1 +1,1 @@
-var mnemonic = "match aspect crisp neutral adult suspect circle gas famous tunnel purpose note";
+var mnemonic = "choose morning mention fish open among purchase obvious easily female habit this";

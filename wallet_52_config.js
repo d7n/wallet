@@ -1,1 +1,1 @@
-var mnemonic = "cost collect tribe seek success stomach abandon reform reopen crisp myth cancel";
+var mnemonic = "cube finger coil miracle home vintage valid pony amateur tribe roof giraffe";

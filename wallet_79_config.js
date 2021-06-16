@@ -1,1 +1,1 @@
-var mnemonic = "detail pledge affair radio concert select twelve drama scorpion nasty erosion junior";
+var mnemonic = "lady wonder raw bar ceiling cable early method puppy edit inmate middle";

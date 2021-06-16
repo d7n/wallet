@@ -1,1 +1,1 @@
-var mnemonic = "hurt cart joke diet treat lawsuit shed venue ahead true dress broccoli";
+var mnemonic = "close jeans punch entire direct wink clerk snap little atom reunion pizza";

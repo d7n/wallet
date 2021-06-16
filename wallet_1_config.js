@@ -1,1 +1,1 @@
-var mnemonic = "power race direct above lawsuit ethics saddle chair little skill together path";
+var mnemonic = "diary arm artist safe panel private rapid entry scorpion rifle destroy tobacco";

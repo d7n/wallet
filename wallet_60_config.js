@@ -1,1 +1,1 @@
-var mnemonic = "health dash truth arena dawn burst mesh beauty holiday orient plastic trap";
+var mnemonic = "together misery deposit picture reflect enjoy now siege level tired blanket excite";

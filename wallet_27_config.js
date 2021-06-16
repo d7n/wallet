@@ -1,1 +1,1 @@
-var mnemonic = "lecture warfare often satisfy okay common build olympic nut fiscal peace valve";
+var mnemonic = "benefit adjust menu party earth income version method miss embrace zero manual";

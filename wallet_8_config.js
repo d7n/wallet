@@ -1,1 +1,1 @@
-var mnemonic = "table clap lawsuit duck warfare piano predict cycle inside slim suffer loyal";
+var mnemonic = "borrow coil rebel soon repair endorse sponsor army accuse beyond suspect grape";

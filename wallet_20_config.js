@@ -1,1 +1,1 @@
-var mnemonic = "follow warrior program sadness student sudden dinner clay defense another noble century";
+var mnemonic = "cradle skirt damage ensure nature smoke vacuum rare fatigue song answer term";

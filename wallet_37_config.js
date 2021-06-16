@@ -1,1 +1,1 @@
-var mnemonic = "celery feature when fine fee spoil balcony trumpet together sort try obvious";
+var mnemonic = "tilt consider forget gap minimum radio alley sting release uncle field hurt";

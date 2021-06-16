@@ -1,1 +1,1 @@
-var mnemonic = "twelve mountain neutral trash welcome type quit beef man bulb one sting";
+var mnemonic = "runway filter fluid upper donkey magnet middle crowd head fiction oppose tackle";

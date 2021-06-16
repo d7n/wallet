@@ -1,1 +1,1 @@
-var mnemonic = "salt pilot lounge cotton appear hybrid duck cart predict jewel require label";
+var mnemonic = "rural autumn satisfy loop state common capital decline combine miracle narrow receive";

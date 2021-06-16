@@ -1,1 +1,1 @@
-var mnemonic = "label habit praise vacant unaware oil trim use network oppose pond toss";
+var mnemonic = "govern effort spin void fruit excuse amateur clarify pool clutch step enter";

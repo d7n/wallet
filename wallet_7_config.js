@@ -1,1 +1,1 @@
-var mnemonic = "rescue course true topple shop table vault assault key few flight aerobic";
+var mnemonic = "rebel angle video range make dog often clog staff fruit town wave";
