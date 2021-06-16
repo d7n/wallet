@@ -1,1 +1,1 @@
-var mnemonic = "swallow valve rug fork blanket box coin dream wine simple toddler butter";
+var mnemonic = "foster silk whip play wool coyote tumble carbon mouse soon fire mosquito";

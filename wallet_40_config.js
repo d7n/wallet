@@ -1,1 +1,1 @@
-var mnemonic = "paper portion shrimp jaguar abuse science long plastic february clown rain push";
+var mnemonic = "flavor duck axis expand build physical snake spin inner supreme noble post";

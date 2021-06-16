@@ -1,1 +1,1 @@
-var mnemonic = "illegal eye brisk motor wear night flee know tomorrow pupil mammal junior";
+var mnemonic = "develop impact kick jeans polar convince just knife laugh typical wear ceiling";

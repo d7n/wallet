@@ -1,1 +1,1 @@
-var mnemonic = "jump amateur exhibit adult atom census visual amused type cruise buffalo fetch";
+var mnemonic = "vintage bonus fruit sign lizard lottery canvas involve estate smooth island rug";

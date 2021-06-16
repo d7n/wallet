@@ -1,1 +1,1 @@
-var mnemonic = "muffin reason pause dry stumble recipe helmet raw reduce column mother mango";
+var mnemonic = "region enemy pave over floor envelope oxygen jealous cactus skirt crack gossip";

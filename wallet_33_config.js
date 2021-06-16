@@ -1,1 +1,1 @@
-var mnemonic = "movie firm volume detail model mix indoor cruel fetch dream now bag";
+var mnemonic = "artist floor zebra worry tent expect leg panel element nature gadget ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "angle switch pond aim ordinary almost material butter excess allow local matrix";
+var mnemonic = "notable mask enjoy swarm solar blind together liar apart diamond process color";

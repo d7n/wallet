@@ -1,1 +1,1 @@
-var mnemonic = "camp typical small miss notable labor business above ranch soup desert above";
+var mnemonic = "grow federal shrimp raw disorder lend foot always kangaroo average cousin enact";

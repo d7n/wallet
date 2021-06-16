@@ -1,1 +1,1 @@
-var mnemonic = "pilot special unusual enroll paddle unfair drastic afraid uncover blame crash amused";
+var mnemonic = "diesel auction iron visual flee nephew great regular taste rural heart cable";

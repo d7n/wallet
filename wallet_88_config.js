@@ -1,1 +1,1 @@
-var mnemonic = "awkward ensure magic wall swim valley early topic dragon beyond gun proof";
+var mnemonic = "toward blanket name example short urban decide lecture cash width price polar";

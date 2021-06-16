@@ -1,1 +1,1 @@
-var mnemonic = "catalog victory almost debris neutral later snack circle rural more bind parade";
+var mnemonic = "choose inject dentist another skate gather add increase pair quarter critic edge";

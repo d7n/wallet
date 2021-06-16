@@ -1,1 +1,1 @@
-var mnemonic = "fatigue rigid van drive exclude super cave slim father stock wash drive";
+var mnemonic = "purpose couch bid joy finger author flat victory twenty use expect gospel";

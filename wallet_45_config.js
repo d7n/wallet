@@ -1,1 +1,1 @@
-var mnemonic = "offer story cat clog joke upper credit suggest reflect vanish window sister";
+var mnemonic = "hand woman work sail toe humor pair before elder faint winner mean";

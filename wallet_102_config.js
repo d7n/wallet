@@ -1,1 +1,1 @@
-var mnemonic = "grant program click supreme solve crucial dismiss walk rent remove faith upset";
+var mnemonic = "neglect desert service scan glove where elite item oppose glide height rubber";

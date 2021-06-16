@@ -1,1 +1,1 @@
-var mnemonic = "scheme gallery afford welcome room ship favorite aerobic chuckle anchor upgrade summer";
+var mnemonic = "screen age exhaust solid fold yellow captain ladder slim squirrel upper ripple";

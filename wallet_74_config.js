@@ -1,1 +1,1 @@
-var mnemonic = "sing renew sausage loyal sort noise daughter master recycle labor stadium tag";
+var mnemonic = "venture object loyal shock brain suggest crisp skate supply interest sell exchange";

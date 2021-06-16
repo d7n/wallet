@@ -1,1 +1,1 @@
-var mnemonic = "primary urge smile stem popular much peace fragile soap jump tired clarify";
+var mnemonic = "category trap swing motion dove excuse nothing carbon recipe tank basket more";

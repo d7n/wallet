@@ -1,1 +1,1 @@
-var mnemonic = "simple whale mule pave peanut life seat atom upgrade thumb syrup expand";
+var mnemonic = "vibrant heart visual dumb black track barrel success release fox latin vast";

@@ -1,1 +1,1 @@
-var mnemonic = "color hedgehog broom way elite engage middle session hold laundry oil dolphin";
+var mnemonic = "eye mistake decline tent voyage fossil nurse void ride hand member tourist";

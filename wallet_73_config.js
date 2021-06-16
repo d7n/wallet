@@ -1,1 +1,1 @@
-var mnemonic = "position bullet admit angry brass betray decide year announce truck junk misery";
+var mnemonic = "beauty dial ill convince jewel use gaze mail rug carry gift october";

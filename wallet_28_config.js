@@ -1,1 +1,1 @@
-var mnemonic = "unlock case few peasant safe buffalo catalog cart morning illegal tomorrow sing";
+var mnemonic = "any ecology faith suggest dolphin oak magnet detect wife thought gate tube";

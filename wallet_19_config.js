@@ -1,1 +1,1 @@
-var mnemonic = "mosquito crack honey nephew measure connect ritual liberty clerk grunt grape leg";
+var mnemonic = "media insane nothing artefact spare frozen base cliff style inhale vague ghost";

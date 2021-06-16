@@ -1,1 +1,1 @@
-var mnemonic = "small donor people destroy nation giggle vintage leaf merit almost border include";
+var mnemonic = "rough mule monkey law feed apology pepper tide thunder voyage tube dress";

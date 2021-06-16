@@ -1,1 +1,1 @@
-var mnemonic = "work shop story upper metal fiscal remove ranch reveal holiday meadow island";
+var mnemonic = "basic jeans grape final crew worry model stock doctor essay want earth";

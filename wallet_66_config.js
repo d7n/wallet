@@ -1,1 +1,1 @@
-var mnemonic = "tent patrol mansion since trust ripple monitor dry moon nation soup above";
+var mnemonic = "reopen menu bird urge diary unaware best diet girl alone east skin";

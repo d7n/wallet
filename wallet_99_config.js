@@ -1,1 +1,1 @@
-var mnemonic = "can scene weird hockey mind reveal legend glad picture bleak deputy domain";
+var mnemonic = "youth peace luxury shallow world dress holiday prison coral announce tape music";

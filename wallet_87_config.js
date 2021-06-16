@@ -1,1 +1,1 @@
-var mnemonic = "awkward hole misery outer chalk soul earn glue winter betray quit tag";
+var mnemonic = "man between october muscle bless tackle cover truly nothing wisdom custom husband";

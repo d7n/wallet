@@ -1,1 +1,1 @@
-var mnemonic = "window dirt arm ribbon balance pottery okay song protect desert similar super";
+var mnemonic = "beef ordinary possible toss dinosaur spawn sure trial alpha extra forget omit";

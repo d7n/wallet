@@ -1,1 +1,1 @@
-var mnemonic = "object lunar sail dog fiber paddle language improve farm civil antique unhappy";
+var mnemonic = "royal kite sport victory mirror flag sugar quality mad camera tongue beauty";

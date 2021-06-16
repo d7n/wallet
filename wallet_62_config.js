@@ -1,1 +1,1 @@
-var mnemonic = "battle vehicle coral stomach ugly gallery dwarf approve snow code banana evil";
+var mnemonic = "accuse nose cannon empty weather weasel expand fancy nose maze fade trap";

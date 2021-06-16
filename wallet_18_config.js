@@ -1,1 +1,1 @@
-var mnemonic = "range draw write tone rural ring almost glove excess firm submit iron";
+var mnemonic = "improve column danger friend torch very dog mutual simple report struggle focus";

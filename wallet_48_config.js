@@ -1,1 +1,1 @@
-var mnemonic = "brass history material oval cancel cradle cradle gospel evoke crisp guilt present";
+var mnemonic = "nuclear woman kind ignore allow crater dress flash nephew burger purity quality";

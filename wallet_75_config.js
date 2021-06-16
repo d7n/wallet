@@ -1,1 +1,1 @@
-var mnemonic = "moon woman health job extra actor grid bless found valley problem celery";
+var mnemonic = "valid sail law almost lake grief unhappy loyal dance surround stable slender";

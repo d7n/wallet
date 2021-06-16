@@ -1,1 +1,1 @@
-var mnemonic = "task smart parent sound game stumble eyebrow rail pulp blush fluid switch";
+var mnemonic = "blade prevent midnight excite joy put kingdom hope shiver sunset gift letter";

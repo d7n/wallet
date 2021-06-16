@@ -1,1 +1,1 @@
-var mnemonic = "fluid badge window often latin lonely banana coral code adult chuckle relief";
+var mnemonic = "city episode tongue unit uncle venture tide choice sock wheat jacket asset";

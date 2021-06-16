@@ -1,1 +1,1 @@
-var mnemonic = "coral donor rally quality grid pact habit try canoe phone release repair";
+var mnemonic = "dumb glory way marine regret photo magnet lunar young stone marriage mother";

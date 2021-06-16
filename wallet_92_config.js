@@ -1,1 +1,1 @@
-var mnemonic = "unfair journey arena noodle shaft cup spot network must fly episode scan";
+var mnemonic = "thunder picture wrap seek glow employ pink direct they blue step repair";

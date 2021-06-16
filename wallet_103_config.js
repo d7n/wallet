@@ -1,1 +1,1 @@
-var mnemonic = "usual key rule regret urge kit truth already frown lucky east clever";
+var mnemonic = "mother gun scene know much error spice legend machine pumpkin clinic cactus";

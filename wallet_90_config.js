@@ -1,1 +1,1 @@
-var mnemonic = "vehicle movie loop wide child fatal rug must fade powder balance neutral";
+var mnemonic = "crew marine season pottery upgrade guide iron cycle citizen brief garbage confirm";

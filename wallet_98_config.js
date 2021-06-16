@@ -1,1 +1,1 @@
-var mnemonic = "crack library kind gown match elbow april sunset nasty tackle toilet brass";
+var mnemonic = "crop erase shove pudding silly phrase piece limb unit satisfy useless change";

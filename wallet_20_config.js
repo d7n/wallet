@@ -1,1 +1,1 @@
-var mnemonic = "cook garden salon prosper priority payment crouch danger topic young winter please";
+var mnemonic = "feature leisure trend deposit sun two expect cruise obscure buyer diagram bounce";

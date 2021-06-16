@@ -1,1 +1,1 @@
-var mnemonic = "merry matter web waste ignore lawsuit scatter spider shiver squeeze wire hurry";
+var mnemonic = "build anger panther pair pass bright furnace soon element chat bitter bomb";

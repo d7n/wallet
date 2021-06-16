@@ -1,1 +1,1 @@
-var mnemonic = "shuffle submit moon silent amazing satisfy law bus museum ramp reform crisp";
+var mnemonic = "fiscal salute advice stem risk asset execute figure ordinary helmet spray genius";

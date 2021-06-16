@@ -1,1 +1,1 @@
-var mnemonic = "road task asset month pencil aspect satisfy frozen movie wasp episode path";
+var mnemonic = "begin mesh fork muscle parent oppose discover pride love fantasy loyal pink";

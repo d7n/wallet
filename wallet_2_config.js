@@ -1,1 +1,1 @@
-var mnemonic = "hero couch hundred runway quarter hazard expect shallow enhance guilt wheel goat";
+var mnemonic = "garlic ensure enforce ill prepare cement permit below giant into kangaroo issue";

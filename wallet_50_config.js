@@ -1,1 +1,1 @@
-var mnemonic = "hobby trash run indoor town awful song rule exchange hundred dizzy energy";
+var mnemonic = "uniform glide tongue life velvet harvest manual speak elevator awful raven license";

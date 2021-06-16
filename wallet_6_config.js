@@ -1,1 +1,1 @@
-var mnemonic = "risk tree oak tortoise loan chapter glide direct smooth kind symptom slow";
+var mnemonic = "garbage replace matrix velvet review trap swear capable success ridge hip regular";

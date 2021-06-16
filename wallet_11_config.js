@@ -1,1 +1,1 @@
-var mnemonic = "dignity mention torch pupil post panel source frozen pottery voyage gun muscle";
+var mnemonic = "penalty wealth bamboo brief cool grass rookie hidden speak crystal intact lunch";

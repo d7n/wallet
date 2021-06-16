@@ -1,1 +1,1 @@
-var mnemonic = "soda myself neck provide hold say story jazz various illness term solid";
+var mnemonic = "analyst sphere region floor swear cupboard beef amazing misery shaft dream second";

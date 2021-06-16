@@ -1,1 +1,1 @@
-var mnemonic = "satoshi provide tide people detect flag steak clip drift until ripple boy";
+var mnemonic = "hero cup permit uphold pulse delay price index sting post embrace summer";

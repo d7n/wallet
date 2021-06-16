@@ -1,1 +1,1 @@
-var mnemonic = "kidney category rival quit arena actual they act refuse portion run ride";
+var mnemonic = "december pear fatal purpose essence brisk appear detect language fork adjust pole";

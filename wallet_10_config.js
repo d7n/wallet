@@ -1,1 +1,1 @@
-var mnemonic = "volume force raw razor evidence balcony develop tonight sense denial clay seek";
+var mnemonic = "limit document guard aim eye banner engage grass guitar lock toe man";

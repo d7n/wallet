@@ -1,1 +1,1 @@
-var mnemonic = "cigar knee amount oak couple crystal much luxury midnight pride canvas debris";
+var mnemonic = "sheriff acquire arm hazard churn average tenant style lazy blanket laugh reform";

@@ -1,1 +1,1 @@
-var mnemonic = "maple right audit cotton evolve wisdom chuckle poverty juice clerk pilot valid";
+var mnemonic = "amount pipe rookie robust sustain label soft gaze barrel speak snap guide";

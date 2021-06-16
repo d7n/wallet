@@ -1,1 +1,1 @@
-var mnemonic = "sense seminar debris lawsuit aim opera run upon muscle length category among";
+var mnemonic = "found flower glass sausage clog mask pistol ginger sudden scorpion carbon fold";

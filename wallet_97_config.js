@@ -1,1 +1,1 @@
-var mnemonic = "track opinion water pioneer rebuild work imitate anger captain bike injury sight";
+var mnemonic = "fix dutch online air rather fringe wheel rocket clog exile welcome eager";

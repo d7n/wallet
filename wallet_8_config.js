@@ -1,1 +1,1 @@
-var mnemonic = "struggle laptop whip outside camp rebel used length boring ugly rare size";
+var mnemonic = "ghost velvet captain weather dutch fly exhaust cattle valid dilemma album magic";

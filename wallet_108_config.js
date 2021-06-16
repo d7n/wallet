@@ -1,1 +1,1 @@
-var mnemonic = "youth engage island orphan fog ugly ranch credit inch giggle toss dose";
+var mnemonic = "crime river whale gloom solution super black van repeat badge lobster lesson";

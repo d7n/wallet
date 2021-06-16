@@ -1,1 +1,1 @@
-var mnemonic = "lobster describe coyote month razor custom tiny sting shock tuna earn nice";
+var mnemonic = "female globe wide gate fire clinic fury brick hurt broccoli impact prosper";

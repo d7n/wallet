@@ -1,1 +1,1 @@
-var mnemonic = "decide lounge enough double grape private glass time diamond fit aware notable";
+var mnemonic = "addict twin virtual hockey token chaos erosion leaf cable carry fault alone";

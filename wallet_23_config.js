@@ -1,1 +1,1 @@
-var mnemonic = "expect gas leave history canyon wet lonely lonely upset motor rescue kiwi";
+var mnemonic = "machine lunar hollow bundle bar client make shell image ask ahead law";

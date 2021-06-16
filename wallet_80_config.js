@@ -1,1 +1,1 @@
-var mnemonic = "usual crew embark trash slush page dwarf illegal pool lend require frequent";
+var mnemonic = "install squeeze ribbon odor pelican term aware dumb police matter congress similar";

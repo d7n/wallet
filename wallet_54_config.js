@@ -1,1 +1,1 @@
-var mnemonic = "grass mad since badge coffee novel object also limit wear first you";
+var mnemonic = "slow diet nuclear audit captain major hill solution wife live code veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "skin doctor earth type squeeze kit knife riot prosper cross boat exhibit";
+var mnemonic = "clump brother comfort change buzz what music case multiply sail squeeze coast";

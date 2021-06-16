@@ -1,1 +1,1 @@
-var mnemonic = "hip swap world direct submit march romance maximum alter nephew broken gap";
+var mnemonic = "sick result gap wool bless magic prefer rubber crystal change bus spoon";

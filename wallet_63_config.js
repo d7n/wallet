@@ -1,1 +1,1 @@
-var mnemonic = "column ozone decide idle doctor daring lizard zone attitude cattle erase inmate";
+var mnemonic = "copper cost logic best explain pact shuffle wish anchor upper naive license";

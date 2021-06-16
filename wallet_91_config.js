@@ -1,1 +1,1 @@
-var mnemonic = "wait beauty fiction mountain rack soap drip useless hospital head rude season";
+var mnemonic = "choose build usual clever brief kitchen labor weapon accuse transfer between ensure";

@@ -1,1 +1,1 @@
-var mnemonic = "month tuna reason galaxy dilemma castle blind resist wheel clerk rally deny";
+var mnemonic = "soft garment recall obtain vague entire lava strategy junk title material unfold";

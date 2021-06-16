@@ -1,1 +1,1 @@
-var mnemonic = "hunt labor trend drum dream marine sustain phrase bracket project inspire attack";
+var mnemonic = "man actual lunch shy argue potato test daughter unknown calm document law";

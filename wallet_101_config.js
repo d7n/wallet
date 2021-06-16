@@ -1,1 +1,1 @@
-var mnemonic = "limb accuse term differ burst surprise load inject kingdom hub bright narrow";
+var mnemonic = "bachelor manage shallow ankle circle horn subject magic two laptop egg renew";

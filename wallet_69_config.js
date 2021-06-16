@@ -1,1 +1,1 @@
-var mnemonic = "dragon noise dish slush spray spider coil ladder source expand dirt wave";
+var mnemonic = "tuition demise expire bargain divorce trap effort ribbon assault metal brave garbage";

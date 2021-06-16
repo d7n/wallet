@@ -1,1 +1,1 @@
-var mnemonic = "popular romance open hint sort physical sad property price acoustic follow excite";
+var mnemonic = "volcano arrive fever this supply identify walnut absurd park mom mean helmet";

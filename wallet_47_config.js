@@ -1,1 +1,1 @@
-var mnemonic = "mushroom crane asset off robust monster media pudding there flame twenty quiz";
+var mnemonic = "tooth ghost luggage dinner census still slab pool dish chair autumn load";

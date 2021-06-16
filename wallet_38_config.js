@@ -1,1 +1,1 @@
-var mnemonic = "apology still trick arm include gorilla purchase memory combine phrase point since";
+var mnemonic = "left evidence unusual tumble tide same mail income chicken mind people menu";

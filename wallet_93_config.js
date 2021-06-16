@@ -1,1 +1,1 @@
-var mnemonic = "zone kangaroo theory pact inmate rich ivory off father weapon simple image";
+var mnemonic = "cherry invite camera advance scrub escape wagon devote minor bind drift awkward";

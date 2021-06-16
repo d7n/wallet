@@ -1,1 +1,1 @@
-var mnemonic = "party vapor property shrimp reflect memory huge cheap inflict repeat okay image";
+var mnemonic = "imitate math toward click cup width ribbon deal fluid charge margin scout";

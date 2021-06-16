@@ -1,1 +1,1 @@
-var mnemonic = "regret coral cheese present high comfort letter inspire risk odor ramp excuse";
+var mnemonic = "valve double repeat morning answer indoor such mercy across nurse law follow";

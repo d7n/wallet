@@ -1,1 +1,1 @@
-var mnemonic = "slogan better cargo easy denial broccoli horn joy misery pattern clutch taste";
+var mnemonic = "mouse holiday orange correct melt desert top live mind stumble sphere rebel";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire kite prepare mango ill hamster legal weather tail prosper code relief";
+var mnemonic = "embody sketch manage only knock cactus salmon forget twin trade grape cloth";

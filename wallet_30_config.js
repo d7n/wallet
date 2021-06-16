@@ -1,1 +1,1 @@
-var mnemonic = "path scan priority odor stadium learn window garbage obtain awesome lawn comic";
+var mnemonic = "slot enforce glance action normal screen always mandate memory bike judge test";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic harbor beauty crew indoor else predict detail able casual expand young";
+var mnemonic = "frog decline squeeze tell dust seminar minute camera mirror smile alien vendor";

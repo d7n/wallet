@@ -1,1 +1,1 @@
-var mnemonic = "miracle horror giggle stairs time river half evidence choose option invite amateur";
+var mnemonic = "cheese lion rare work bread master play hospital invite ginger shaft steak";

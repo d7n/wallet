@@ -1,1 +1,1 @@
-var mnemonic = "kidney where left bulk elder flush near upgrade idea wheel pig senior";
+var mnemonic = "sketch split tank educate walnut legend head zero tiny bunker copper lonely";

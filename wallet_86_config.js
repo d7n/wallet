@@ -1,1 +1,1 @@
-var mnemonic = "bind junk alley process cloth theory glide rate public clerk stock urge";
+var mnemonic = "cabbage supreme spread renew first cool way kiss orphan chalk render shed";

@@ -1,1 +1,1 @@
-var mnemonic = "check ticket accident move scrub lizard okay amazing miss hospital erupt pact";
+var mnemonic = "section effort concert hundred camera debris shell tackle course before input car";

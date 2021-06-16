@@ -1,1 +1,1 @@
-var mnemonic = "air cash stick roast gap syrup guide zone lion pony okay fitness";
+var mnemonic = "network cover buzz error poem castle ecology frozen essay milk tornado boss";

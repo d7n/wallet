@@ -1,1 +1,1 @@
-var mnemonic = "grid cinnamon music breeze poet render quiz check style eternal humble bring";
+var mnemonic = "jungle gossip glue number sand wage question differ lunar estate loud local";

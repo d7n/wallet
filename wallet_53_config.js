@@ -1,1 +1,1 @@
-var mnemonic = "coffee victory menu wool innocent crouch pistol join wife enough control distance";
+var mnemonic = "twin throw ring remain resemble because turtle noodle letter kidney honey please";

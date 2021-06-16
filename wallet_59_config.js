@@ -1,1 +1,1 @@
-var mnemonic = "decide awkward glow vessel december oil album tooth anger pelican abuse liquid";
+var mnemonic = "force possible quarter regular december concert truly zebra movie loop airport penalty";

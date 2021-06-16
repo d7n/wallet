@@ -1,1 +1,1 @@
-var mnemonic = "elevator east include foster conduct diagram feel gentle they add desert silent";
+var mnemonic = "budget viable cousin famous hockey word execute coconut orange word deputy cram";

@@ -1,1 +1,1 @@
-var mnemonic = "idle flag glance barrel blue exhaust strong yellow senior few flip sweet";
+var mnemonic = "strike scheme actor improve into task bullet aware hood steak cluster claim";

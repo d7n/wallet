@@ -1,1 +1,1 @@
-var mnemonic = "whisper stock fish core wage horn mixed craft depth pair rule shell";
+var mnemonic = "can favorite forward media denial service endorse pull wonder energy glad fatigue";

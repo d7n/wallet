@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin south planet girl face clutch armor digital night car hedgehog else";
+var mnemonic = "infant daughter embrace foster cycle blind two where smoke armor spread habit";
