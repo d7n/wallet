@@ -1,1 +1,1 @@
-var mnemonic = "bone near abuse have unable track wrong comic envelope name worth gun";
+var mnemonic = "again flash impose vocal around easy pact usage old elder lounge adult";

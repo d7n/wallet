@@ -1,1 +1,1 @@
-var mnemonic = "ranch balance mind anxiety energy unknown grit blue fault stage zero earn";
+var mnemonic = "copper clerk then fit wrap crucial sing drip fat wise orient glare";

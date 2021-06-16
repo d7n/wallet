@@ -1,1 +1,1 @@
-var mnemonic = "venue fire embody flame someone need scheme minute income poverty supply almost";
+var mnemonic = "maid annual clarify build alley dilemma arm across approve pass table husband";

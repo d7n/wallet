@@ -1,1 +1,1 @@
-var mnemonic = "filter climb predict change cheese gaze moon lecture cattle crash surge indicate";
+var mnemonic = "marriage device movie square kite emerge coyote armed merit object gospel liberty";

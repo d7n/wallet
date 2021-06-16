@@ -1,1 +1,1 @@
-var mnemonic = "project length wink extra mirror path vacuum modify define stand merit damage";
+var mnemonic = "cash genius chase venture mammal main dish purchase noble lens obtain rough";

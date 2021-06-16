@@ -1,1 +1,1 @@
-var mnemonic = "tornado grape piano employ emerge enroll armed mask violin degree input have";
+var mnemonic = "found share flat waste gain neutral happy bread palm desk exhaust again";

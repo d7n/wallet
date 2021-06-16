@@ -1,1 +1,1 @@
-var mnemonic = "milk elegant reduce upper search vital seed tiger wash setup shrimp mansion";
+var mnemonic = "breeze bulb scan vapor noodle chronic repair erupt dash focus miracle program";

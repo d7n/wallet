@@ -1,1 +1,1 @@
-var mnemonic = "frozen topple express trade sphere famous quiz element april day someone medal";
+var mnemonic = "burst hello quarter excite alien market render dirt plastic echo soul file";

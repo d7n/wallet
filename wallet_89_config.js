@@ -1,1 +1,1 @@
-var mnemonic = "buffalo share canal pudding order sun brain have ticket climb ivory decline";
+var mnemonic = "sea vanish gloom review country fiscal hand hybrid diagram cool equip chalk";

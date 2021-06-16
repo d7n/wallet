@@ -1,1 +1,1 @@
-var mnemonic = "dad grab prison lawn want anchor mushroom van ridge pumpkin flock series";
+var mnemonic = "absent high time skin royal velvet dirt side rhythm come lobster ice";

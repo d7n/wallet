@@ -1,1 +1,1 @@
-var mnemonic = "dune coast inspire nation walk false apple dream shed beach claim thumb";
+var mnemonic = "abstract horse giant treat young inch perfect wild resource hood advice subway";

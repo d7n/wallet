@@ -1,1 +1,1 @@
-var mnemonic = "copper win release trade sea faith hockey collect despair client defy chalk";
+var mnemonic = "isolate width blame actor run remove holiday draft choose demise balcony saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "vital loop doctor abandon group square dream spice bomb guard reduce derive";
+var mnemonic = "bike welcome oxygen style there arrow razor decrease cycle idea mean fault";

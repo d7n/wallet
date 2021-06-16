@@ -1,1 +1,1 @@
-var mnemonic = "system piece gas eager position gun detect umbrella toast protect cage orient";
+var mnemonic = "erosion cat pledge sword number tool option spend trophy snack night hard";

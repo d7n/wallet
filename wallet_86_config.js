@@ -1,1 +1,1 @@
-var mnemonic = "upgrade pudding frame wrap kiwi aisle cattle exhaust journey fortune valley nuclear";
+var mnemonic = "amateur beef woman ahead quit clip arrange craft wrist expect element load";

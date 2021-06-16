@@ -1,1 +1,1 @@
-var mnemonic = "spread inside entire diet planet entire chimney midnight cruel nation occur rate";
+var mnemonic = "cross tool fine erosion street surface hospital sausage boss chest lady rude";

@@ -1,1 +1,1 @@
-var mnemonic = "assist view essay palm mobile crazy picnic expire soft indoor foot wife";
+var mnemonic = "dust payment indoor scan sound split actual custom treat actress blind iron";

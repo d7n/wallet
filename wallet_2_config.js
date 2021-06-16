@@ -1,1 +1,1 @@
-var mnemonic = "defense harbor exchange cave end follow bean nose analyst quantum stand ocean";
+var mnemonic = "trouble grace garbage narrow reform bone neither engage put army cabbage floor";

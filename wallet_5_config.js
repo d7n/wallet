@@ -1,1 +1,1 @@
-var mnemonic = "gorilla today enjoy raven broom tower burst harvest valley monster crew earth";
+var mnemonic = "clerk popular unveil code toilet obvious nasty copper lens guilt essence atom";

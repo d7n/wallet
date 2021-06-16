@@ -1,1 +1,1 @@
-var mnemonic = "wrist mail arm rally evoke lounge power dwarf sense host fade twist";
+var mnemonic = "rural empower nature shop ancient picture save success burst fame tornado rescue";

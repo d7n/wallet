@@ -1,1 +1,1 @@
-var mnemonic = "wait elephant surface bag antique cluster chair zone dance route side era";
+var mnemonic = "cruise hair cargo matrix benefit mean token swear produce senior glass nose";

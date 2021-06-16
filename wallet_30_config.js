@@ -1,1 +1,1 @@
-var mnemonic = "roof risk chicken total prefer setup honey world parent action enough throw";
+var mnemonic = "nice glow duck together view buffalo hint now wool foster lab crop";

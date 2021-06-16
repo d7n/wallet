@@ -1,1 +1,1 @@
-var mnemonic = "banner truth enough inquiry broom nut dust awkward hundred hotel burger hard";
+var mnemonic = "like concert behave usual tube female castle talk fiber winner egg pair";

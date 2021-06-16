@@ -1,1 +1,1 @@
-var mnemonic = "razor cigar hurdle coil benefit move fault crop mother famous innocent tip";
+var mnemonic = "sister sort cancel amount same gossip fever survey quantum crane gain wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "damage matter flee able tank fetch sail bronze sign rose clarify service";
+var mnemonic = "slab health celery gas boat when push outdoor deposit sibling same virus";

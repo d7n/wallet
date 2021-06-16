@@ -1,1 +1,1 @@
-var mnemonic = "breeze muscle more industry crouch ranch shove slim baby genuine ticket gossip";
+var mnemonic = "safe need gown author supreme horror breeze tool clarify trumpet fragile life";

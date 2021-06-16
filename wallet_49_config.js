@@ -1,1 +1,1 @@
-var mnemonic = "inside erosion keen lady fit traffic reflect female early insane live old";
+var mnemonic = "segment system pear scale section student crunch cancel question monkey prevent swap";

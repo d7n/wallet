@@ -1,1 +1,1 @@
-var mnemonic = "virus post dance pill grab kick critic orbit place enlist found mystery";
+var mnemonic = "spend hat garlic vapor film forward giant area unaware raccoon quality inspire";

@@ -1,1 +1,1 @@
-var mnemonic = "twice helmet average ridge renew glide ginger frog off awesome old nest";
+var mnemonic = "bench agree witness corn essence okay vendor absorb often fancy heart resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "much grit century pitch motion woman eager kitchen cube rule age useless";
+var mnemonic = "absent ethics harbor icon average art decline gauge noodle number all gain";

@@ -1,1 +1,1 @@
-var mnemonic = "random worry immense jewel country final almost wire corn bottom night affair";
+var mnemonic = "silk media rapid crater answer cheap mesh reunion lion decline paddle mixture";

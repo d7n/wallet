@@ -1,1 +1,1 @@
-var mnemonic = "trial wise pioneer keen wine acid muffin ski ankle between opera label";
+var mnemonic = "beauty because castle snake alter census rail program want mass car valid";

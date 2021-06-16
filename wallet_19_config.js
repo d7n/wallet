@@ -1,1 +1,1 @@
-var mnemonic = "lyrics uniform spice elegant fine dynamic mom inflict jacket nose despair bitter";
+var mnemonic = "upper viable banner course entire home country maximum private winter orient lumber";

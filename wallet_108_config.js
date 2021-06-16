@@ -1,1 +1,1 @@
-var mnemonic = "inside time found shallow craft sphere protect grocery spread pull box law";
+var mnemonic = "jeans recycle gossip reject proud tree direct debris gym twin cage pretty";

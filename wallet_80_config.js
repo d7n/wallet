@@ -1,1 +1,1 @@
-var mnemonic = "sponsor risk cushion tortoise planet tape emerge cube chase dolphin pattern cash";
+var mnemonic = "income fashion repeat hotel goddess gentle option despair solve chase possible tape";

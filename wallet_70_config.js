@@ -1,1 +1,1 @@
-var mnemonic = "claw portion glad true miracle isolate allow mountain minute link rely when";
+var mnemonic = "crucial inhale almost yellow kite alpha gallery demand swamp visit slam moral";

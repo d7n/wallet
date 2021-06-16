@@ -1,1 +1,1 @@
-var mnemonic = "board once run stone post fix cotton mom april awesome same clock";
+var mnemonic = "slice creek typical fringe coil write custom photo odor abstract giraffe village";

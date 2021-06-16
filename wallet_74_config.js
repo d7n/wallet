@@ -1,1 +1,1 @@
-var mnemonic = "resource clean screen congress expose only shrug frame permit ill alone movie";
+var mnemonic = "okay twenty frame liquid sugar deposit fog river immense supply oval ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic hover feature imitate deer bridge fever demand rude photo visit wreck";
+var mnemonic = "pioneer theme father plug trip divorce include country universe phrase tribe grant";

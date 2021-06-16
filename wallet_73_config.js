@@ -1,1 +1,1 @@
-var mnemonic = "sea stamp ivory also pull ceiling seed swallow bleak volume length label";
+var mnemonic = "certain come helmet midnight drift cart attract moral robust rotate inflict degree";

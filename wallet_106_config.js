@@ -1,1 +1,1 @@
-var mnemonic = "purpose fitness spin aerobic chapter scene rocket siege bracket peace apart sail";
+var mnemonic = "host beach fit panel gorilla someone joy sample possible leisure exclude engine";

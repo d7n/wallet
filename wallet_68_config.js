@@ -1,1 +1,1 @@
-var mnemonic = "join canvas wonder toss stay wagon lemon combine tone wrong discover arctic";
+var mnemonic = "swap lemon garage moon inch truly subject orient poverty hover tomato melt";

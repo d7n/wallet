@@ -1,1 +1,1 @@
-var mnemonic = "angle tone warm breeze lounge size champion divert expand orbit first print";
+var mnemonic = "deliver wrestle pepper regular electric jelly ensure network earth connect exchange funny";

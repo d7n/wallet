@@ -1,1 +1,1 @@
-var mnemonic = "peace base viable slim prevent six siege clay rookie degree process shoot";
+var mnemonic = "orbit scheme lamp foster pepper zebra sibling dream stem disease claim purse";

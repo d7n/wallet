@@ -1,1 +1,1 @@
-var mnemonic = "age face abandon crystal spoon midnight mass evil observe bar unusual negative";
+var mnemonic = "again shoe ten fury daughter digital answer circle paddle help author usual";

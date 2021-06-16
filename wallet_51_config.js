@@ -1,1 +1,1 @@
-var mnemonic = "icon average calm office caught tag burden element hood spider stomach ready";
+var mnemonic = "acquire pizza winter chronic pause hollow child bird frequent shaft come process";

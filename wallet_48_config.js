@@ -1,1 +1,1 @@
-var mnemonic = "nest story exist conduct jazz place faint agent bonus cause route deputy";
+var mnemonic = "observe affair pen feel swallow earn loyal faith fresh glow actress option";

@@ -1,1 +1,1 @@
-var mnemonic = "together bronze use boss lawsuit give doll perfect author all almost employ";
+var mnemonic = "still alter limit casino focus unhappy early pluck trick theory sell artefact";

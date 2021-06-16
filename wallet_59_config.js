@@ -1,1 +1,1 @@
-var mnemonic = "tag alert kingdom become kangaroo rhythm phrase tide merry cause test bamboo";
+var mnemonic = "exclude innocent reunion inquiry swift roof truly avoid tonight wagon strategy donor";

@@ -1,1 +1,1 @@
-var mnemonic = "trim public city shrimp pigeon dignity unusual dolphin slot inquiry wild garbage";
+var mnemonic = "inquiry meat usual tiger giggle feel merry garment dismiss neither pigeon usage";

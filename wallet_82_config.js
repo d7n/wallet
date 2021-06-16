@@ -1,1 +1,1 @@
-var mnemonic = "narrow traffic spy slide extend under destroy unhappy angry feed twice audit";
+var mnemonic = "brain devote first bundle surface battle tackle earn spy slice awkward car";

@@ -1,1 +1,1 @@
-var mnemonic = "casino test pave wisdom breeze flash poet exact august capable forward penalty";
+var mnemonic = "collect pony trend tilt antenna ripple jeans ensure wash spend surround flip";

@@ -1,1 +1,1 @@
-var mnemonic = "motor stage song design dish thumb review grow aware relief ready advance";
+var mnemonic = "demand end wealth symbol claim corn trip soda certain answer verify faculty";

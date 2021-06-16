@@ -1,1 +1,1 @@
-var mnemonic = "economy quick punch undo what inform response coil cabbage soap illness blame";
+var mnemonic = "truly curve farm salmon toe aerobic ride knee border squirrel divide alcohol";

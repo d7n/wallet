@@ -1,1 +1,1 @@
-var mnemonic = "edge guilt today disagree vendor pair dinner shop region practice drive vicious";
+var mnemonic = "bulb home two explain smooth clock edge open animal head feature lunch";

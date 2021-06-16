@@ -1,1 +1,1 @@
-var mnemonic = "urban mechanic farm legal palm worry alien dragon evolve predict borrow dentist";
+var mnemonic = "provide abstract custom mutual section asset plastic position keep razor return finger";

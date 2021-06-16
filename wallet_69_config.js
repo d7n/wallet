@@ -1,1 +1,1 @@
-var mnemonic = "blame lift indoor betray that winner machine actor quote render grain capital";
+var mnemonic = "absurd shock hub canoe minute above enough plunge dizzy dad noise humble";

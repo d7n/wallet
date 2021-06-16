@@ -1,1 +1,1 @@
-var mnemonic = "oak run worth grunt alert shrimp jelly pet patient rice trash dawn";
+var mnemonic = "ocean head truly sister guard approve butter inner income round cruise burger";

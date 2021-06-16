@@ -1,1 +1,1 @@
-var mnemonic = "sponsor tumble critic cotton elephant net tortoise ritual sugar ecology blade tattoo";
+var mnemonic = "olive cry nasty vanish detect summer devote insect ball wise faith between";

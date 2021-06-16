@@ -1,1 +1,1 @@
-var mnemonic = "cargo moon vast banner slot burden sleep early surface prison tomato spike";
+var mnemonic = "check vendor caution disorder meadow elbow either hero wait still payment bracket";

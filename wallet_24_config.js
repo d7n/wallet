@@ -1,1 +1,1 @@
-var mnemonic = "bag bracket imitate alien diagram print square wheel true memory pill plastic";
+var mnemonic = "idea stove number brown rare prepare sketch comfort scissors diesel flight loyal";

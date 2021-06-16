@@ -1,1 +1,1 @@
-var mnemonic = "buyer nuclear funny autumn gun skill hospital memory health viable behind obtain";
+var mnemonic = "decorate axis foam follow deal glance where era lonely chef holiday hurry";

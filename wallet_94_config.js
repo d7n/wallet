@@ -1,1 +1,1 @@
-var mnemonic = "trap deputy throw sphere behave stick frozen spirit vapor exotic anger prize";
+var mnemonic = "east shrug border dust horse toe reopen false boy lonely finish sight";

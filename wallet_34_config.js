@@ -1,1 +1,1 @@
-var mnemonic = "decorate notice truth crack explain fold among afraid survey skirt skin test";
+var mnemonic = "cash trend theory reduce glare gift comic begin oval weather speed champion";

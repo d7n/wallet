@@ -1,1 +1,1 @@
-var mnemonic = "divorce guess shell asthma siege antenna marine lizard ridge empower jungle snow";
+var mnemonic = "cannon polar midnight crunch best bone vessel fire case gasp order father";

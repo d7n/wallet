@@ -1,1 +1,1 @@
-var mnemonic = "goddess velvet brush soon mind boat entry grid olympic version ocean collect";
+var mnemonic = "junior wise hood during exist panel afford mix nurse tragic suit march";

@@ -1,1 +1,1 @@
-var mnemonic = "local resist sword live exit slush spoon door tissue cheap assist evolve";
+var mnemonic = "wage custom stuff loop forum luggage below catalog stove public tool fault";

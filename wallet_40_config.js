@@ -1,1 +1,1 @@
-var mnemonic = "dash video sheriff oil until guilt health biology notice mutual upon dragon";
+var mnemonic = "short clever crucial short auto develop hidden drum tobacco connect bullet web";

@@ -1,1 +1,1 @@
-var mnemonic = "put gather harsh seat tail sell episode exchange guide dove enough indoor";
+var mnemonic = "laptop chalk outside ship deliver where raise purchase task fresh blush bonus";

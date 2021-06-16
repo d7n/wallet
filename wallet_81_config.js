@@ -1,1 +1,1 @@
-var mnemonic = "rookie fitness hire member sponsor borrow curious model manage current secret pyramid";
+var mnemonic = "innocent body whip they infant hunt scout slide focus crowd edge head";

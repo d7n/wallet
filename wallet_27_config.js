@@ -1,1 +1,1 @@
-var mnemonic = "lunar list menu expect spot flat life penalty leg raw risk soon";
+var mnemonic = "group remove market injury elbow ready verify meadow recall angry always faint";

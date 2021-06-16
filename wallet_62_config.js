@@ -1,1 +1,1 @@
-var mnemonic = "solution desert equip tuition typical evolve license tiny aspect ask green brisk";
+var mnemonic = "phone magic enlist copper vocal high spirit owner weird supply display multiply";

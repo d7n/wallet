@@ -1,1 +1,1 @@
-var mnemonic = "laundry album excite cactus waste mirror gasp select brand upper potato author";
+var mnemonic = "soup airport together bind caution fence thunder need recycle galaxy author sample";

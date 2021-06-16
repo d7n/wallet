@@ -1,1 +1,1 @@
-var mnemonic = "utility matrix loud spider issue dynamic magnet crumble roast ladder entry obtain";
+var mnemonic = "rack cement walnut rack sphere saddle between force enact cool arrow bullet";

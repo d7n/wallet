@@ -1,1 +1,1 @@
-var mnemonic = "cousin ski plug lens rose census vacuum nature hope defense pigeon furnace";
+var mnemonic = "pretty lady typical essay final horse quarter garment fly maple worry autumn";

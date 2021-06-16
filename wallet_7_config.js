@@ -1,1 +1,1 @@
-var mnemonic = "coffee second enforce carbon ride worry lonely drop afraid wasp protect deposit";
+var mnemonic = "stereo describe feel float orange match erode relax quarter exchange bacon cannon";

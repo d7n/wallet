@@ -1,1 +1,1 @@
-var mnemonic = "churn member media pyramid fat energy media garbage green crime shove venture";
+var mnemonic = "ahead pull wine duty art range property peanut cricket orphan frost voice";

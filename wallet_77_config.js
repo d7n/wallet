@@ -1,1 +1,1 @@
-var mnemonic = "mouse bread meadow inspire occur typical poet defense cage caught deny ordinary";
+var mnemonic = "home capable never become express garlic inflict ship split lumber code enhance";

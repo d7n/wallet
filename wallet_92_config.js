@@ -1,1 +1,1 @@
-var mnemonic = "picnic viable initial salmon second forward hungry knife robust stuff day spare";
+var mnemonic = "result spawn whale window wheel display hood topic uniform mad tray light";

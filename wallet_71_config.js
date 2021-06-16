@@ -1,1 +1,1 @@
-var mnemonic = "ancient myth knife inch parade valid crumble point slab first sick shove";
+var mnemonic = "favorite square zebra month night need author document forum pill cry calm";

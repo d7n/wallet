@@ -1,1 +1,1 @@
-var mnemonic = "leisure fringe slow because measure silver drill smile catalog south share senior";
+var mnemonic = "ability video rocket movie clap ticket athlete present horror brown loyal soup";

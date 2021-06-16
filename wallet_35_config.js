@@ -1,1 +1,1 @@
-var mnemonic = "filter cloth giant receive fossil brother crazy ten fine lonely similar own";
+var mnemonic = "grant weather cliff select above clinic fish bomb afford marble awake jungle";

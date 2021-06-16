@@ -1,1 +1,1 @@
-var mnemonic = "dove fault second palace easily mother attack long spin tribe remember pair";
+var mnemonic = "because frog hire tuna erosion critic essay awesome choose attract demise rate";

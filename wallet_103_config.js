@@ -1,1 +1,1 @@
-var mnemonic = "dream seek develop amount column blind inflict dry bracket visit gaze genuine";
+var mnemonic = "purchase display pool detail input liberty cloth trigger mouse transfer unaware alter";

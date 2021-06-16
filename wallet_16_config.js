@@ -1,1 +1,1 @@
-var mnemonic = "supreme rail update federal sugar cricket festival skull artefact blouse net ankle";
+var mnemonic = "effort paddle cool wife bottom harsh onion siege wage tilt tackle rich";
