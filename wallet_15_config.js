@@ -1,1 +1,1 @@
-var mnemonic = "rubber winter admit paper tooth body deal divert system above obey slim";
+var mnemonic = "april shop anxiety blood stage notable wreck mobile brave gentle clay soup";

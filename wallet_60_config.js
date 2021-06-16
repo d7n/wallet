@@ -1,1 +1,1 @@
-var mnemonic = "clap flash erode unlock layer error genius call ecology age despair above";
+var mnemonic = "cup once disorder quick juice board volume club juice horn actor fog";

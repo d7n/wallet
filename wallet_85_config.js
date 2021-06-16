@@ -1,1 +1,1 @@
-var mnemonic = "hint about defense usual hotel symbol flavor spy dose autumn creek opinion";
+var mnemonic = "emotion hint note unveil penalty tail decrease castle penalty stove practice royal";

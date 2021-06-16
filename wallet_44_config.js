@@ -1,1 +1,1 @@
-var mnemonic = "glory drastic phone venue aunt insect remember talk image naive derive miss";
+var mnemonic = "heart shift abandon change unfair bleak future galaxy orchard zoo cinnamon arrange";

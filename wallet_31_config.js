@@ -1,1 +1,1 @@
-var mnemonic = "insect mountain fence submit dirt boring just level sound rocket cry oil";
+var mnemonic = "sauce end entire knock draw latin short cherry genuine worry shallow vault";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit aunt bone latin exist trigger crop prefer coffee certain describe enter";
+var mnemonic = "poet sure casual ill height erode category wagon catch harbor renew mutual";

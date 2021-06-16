@@ -1,1 +1,1 @@
-var mnemonic = "surge puzzle ankle office vault valley immense gadget volcano cute detect ripple";
+var mnemonic = "grace acquire child cup lock tragic document lecture honey element armed strong";

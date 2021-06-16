@@ -1,1 +1,1 @@
-var mnemonic = "social brisk mountain album satisfy behave element paper weird neither answer host";
+var mnemonic = "quality metal leisure bid brother engage oppose trigger type neglect tail oblige";

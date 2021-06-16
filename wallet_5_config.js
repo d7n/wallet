@@ -1,1 +1,1 @@
-var mnemonic = "young about stay act ribbon blush sight jaguar tuna tomorrow dentist river";
+var mnemonic = "original inspire income thing joy industry rich equip style happy mouse renew";

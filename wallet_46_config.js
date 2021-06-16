@@ -1,1 +1,1 @@
-var mnemonic = "portion van you learn rescue dry lemon awesome chaos dish way write";
+var mnemonic = "broom wreck husband call fancy orange armor picnic similar owner miss frog";

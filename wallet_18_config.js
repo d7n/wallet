@@ -1,1 +1,1 @@
-var mnemonic = "hire dry enforce series lawsuit tell save pretty shield promote try either";
+var mnemonic = "ride bullet chicken session trip that useless capable wood awake race test";

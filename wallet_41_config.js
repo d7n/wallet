@@ -1,1 +1,1 @@
-var mnemonic = "sense left gloom maze tackle bar today ethics voice summer label defense";
+var mnemonic = "install wheat city pill term journey reopen transfer crack syrup reunion luggage";

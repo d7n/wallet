@@ -1,1 +1,1 @@
-var mnemonic = "comic gorilla column nurse cash case toe ceiling victory foot first sugar";
+var mnemonic = "cream obscure hole dismiss matrix tiger admit spend myth farm royal sign";

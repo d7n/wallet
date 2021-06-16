@@ -1,1 +1,1 @@
-var mnemonic = "file tired unusual sign album taxi elder bright leisure anxiety lucky wall";
+var mnemonic = "stay derive pistol attract curtain mistake follow wrap lonely bullet situate stone";

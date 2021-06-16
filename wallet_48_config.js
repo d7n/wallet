@@ -1,1 +1,1 @@
-var mnemonic = "obvious deer gather ethics collect coast episode party proud pool end cruel";
+var mnemonic = "laugh impact shock market theme stereo lecture brick news midnight rich text";

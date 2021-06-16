@@ -1,1 +1,1 @@
-var mnemonic = "clarify nose sister blanket able mask coffee goose ostrich jar path scrap";
+var mnemonic = "utility enter refuse derive name shy other opera drink action hub coral";

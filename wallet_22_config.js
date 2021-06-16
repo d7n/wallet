@@ -1,1 +1,1 @@
-var mnemonic = "valley whisper intact obey congress cause correct because pipe frown fit salad";
+var mnemonic = "skirt bubble social virus badge help slot forget rib educate topic real";

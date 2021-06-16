@@ -1,1 +1,1 @@
-var mnemonic = "loan pupil music rely couch second broom bus slight grocery budget current";
+var mnemonic = "phone trophy repair endless around rough position cherry august myth maze cruel";

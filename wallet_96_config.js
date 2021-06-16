@@ -1,1 +1,1 @@
-var mnemonic = "cannon because crawl staff patient hurdle survey door broccoli belt gloom miss";
+var mnemonic = "sand suspect stable one bridge decline fortune camp dismiss furnace ski always";

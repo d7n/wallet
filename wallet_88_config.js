@@ -1,1 +1,1 @@
-var mnemonic = "boring throw elbow derive boost attend gate arrange mixture giraffe blur long";
+var mnemonic = "develop doll south grape bargain slush artist hobby burden senior fold patrol";

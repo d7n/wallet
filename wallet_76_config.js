@@ -1,1 +1,1 @@
-var mnemonic = "small whip hip lazy flat mom pelican fitness vote intact lens grant";
+var mnemonic = "dutch vehicle about opera captain brain idle window elephant matrix bar buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "focus glide doll execute view office teach pigeon satoshi come cherry chair";
+var mnemonic = "love trap forest arrive radar chief ridge ordinary logic palm judge erase";

@@ -1,1 +1,1 @@
-var mnemonic = "neither whisper soul avocado wash clinic amateur perfect print gap true tennis";
+var mnemonic = "right guide brain vacant tail flush critic spread edit nation blossom twelve";

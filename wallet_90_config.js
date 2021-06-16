@@ -1,1 +1,1 @@
-var mnemonic = "head produce soda hair vacuum escape domain aunt volcano dust miracle exile";
+var mnemonic = "truck december modify use bind damp throw produce glow donate rotate unveil";

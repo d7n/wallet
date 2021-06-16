@@ -1,1 +1,1 @@
-var mnemonic = "perfect struggle invite trash skill game family voice mobile merry wish health";
+var mnemonic = "exhibit beef guilt hawk then neither drama just oval luxury glove census";

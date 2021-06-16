@@ -1,1 +1,1 @@
-var mnemonic = "title jump pepper flee treat fortune place toss frequent general erode crumble";
+var mnemonic = "bird sunny noise feel fruit melody alone length elegant december brisk rather";

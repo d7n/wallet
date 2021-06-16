@@ -1,1 +1,1 @@
-var mnemonic = "goddess angry stairs ten favorite choice narrow shoulder tackle pool figure certain";
+var mnemonic = "team enemy major side lunar junior trick merge drama torch cricket street";

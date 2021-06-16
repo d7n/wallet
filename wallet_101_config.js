@@ -1,1 +1,1 @@
-var mnemonic = "envelope ocean tourist distance model auto drift wonder devote quiz cabin rigid";
+var mnemonic = "fee frequent venture book quiz blade nose sick adult gadget snack sentence";

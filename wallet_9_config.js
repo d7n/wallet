@@ -1,1 +1,1 @@
-var mnemonic = "card isolate inquiry nation december peasant return tray basket you ship mammal";
+var mnemonic = "artefact calm riot egg stamp another stadium express fiction during relax timber";

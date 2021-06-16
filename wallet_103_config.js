@@ -1,1 +1,1 @@
-var mnemonic = "sugar acoustic bacon glove host foil motion clinic essay laundry merry danger";
+var mnemonic = "wasp sample strategy monitor plate hawk various glass acid word tenant sell";

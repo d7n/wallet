@@ -1,1 +1,1 @@
-var mnemonic = "void cute vehicle finish seed loyal search awkward october mix document exhaust";
+var mnemonic = "sound mask thank tide author stomach smooth rebel link leisure hat frozen";

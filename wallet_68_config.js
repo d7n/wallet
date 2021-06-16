@@ -1,1 +1,1 @@
-var mnemonic = "type rule tennis school collect duck attend lab state secret announce ice";
+var mnemonic = "glad require matter knee found release until chat when subject trick slice";

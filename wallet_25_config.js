@@ -1,1 +1,1 @@
-var mnemonic = "curve train tunnel cannon smart clay left system fix mosquito relief rare";
+var mnemonic = "repeat antenna picnic gospel digital load differ vague imitate above item job";

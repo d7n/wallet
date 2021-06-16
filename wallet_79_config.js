@@ -1,1 +1,1 @@
-var mnemonic = "sound time science funny direct clutch exotic lottery impose rug area slogan";
+var mnemonic = "walk rich fork subject fruit boil wear kingdom tourist labor dirt hub";

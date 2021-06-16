@@ -1,1 +1,1 @@
-var mnemonic = "ocean biology lottery hello segment wish tube rigid add joke tornado game";
+var mnemonic = "coil solution behave sad derive useless buffalo moment rabbit twice minor floor";

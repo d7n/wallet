@@ -1,1 +1,1 @@
-var mnemonic = "panda mushroom citizen smooth cradle rich jump just miracle expose cry awful";
+var mnemonic = "dynamic wrap pause essay song chief stove debris ugly tomato fire expire";

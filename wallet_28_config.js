@@ -1,1 +1,1 @@
-var mnemonic = "industry marriage element pencil midnight result mom figure dilemma butter switch satoshi";
+var mnemonic = "body blind mercy target enhance music chicken taxi speed drink beauty wear";

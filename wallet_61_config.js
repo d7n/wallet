@@ -1,1 +1,1 @@
-var mnemonic = "cereal link render remind skate typical thought zero divide fold curve awesome";
+var mnemonic = "pair hurry inmate resource essence media picnic popular disagree neutral tree motor";

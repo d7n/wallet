@@ -1,1 +1,1 @@
-var mnemonic = "claw torch effort cigar else elephant response wire involve amused multiply promote";
+var mnemonic = "gold guilt bottom radar carbon fossil panic summer vintage paddle genuine casual";

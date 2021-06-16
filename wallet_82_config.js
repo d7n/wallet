@@ -1,1 +1,1 @@
-var mnemonic = "slim imitate first language subway weekend click save tilt airport can lesson";
+var mnemonic = "mechanic learn fiscal call language play page slot deal foot category rapid";

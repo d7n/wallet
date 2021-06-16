@@ -1,1 +1,1 @@
-var mnemonic = "nurse heavy economy rifle case innocent stage gym alone family baby own";
+var mnemonic = "media season dentist midnight drama wheat can little hero wide garbage joy";

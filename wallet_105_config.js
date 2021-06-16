@@ -1,1 +1,1 @@
-var mnemonic = "burst essay heart drop weapon copper refuse estate broccoli enforce wear board";
+var mnemonic = "oppose wheat deny much cushion misery zero viable speed lobster state timber";

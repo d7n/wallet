@@ -1,1 +1,1 @@
-var mnemonic = "kick mesh captain long crunch right carbon lizard unlock dinner virtual habit";
+var mnemonic = "bracket someone bar develop sister man champion clay swear seek loan pipe";

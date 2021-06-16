@@ -1,1 +1,1 @@
-var mnemonic = "web settle sand relief unfair front ribbon stick impose crew tank universe";
+var mnemonic = "hand snake know comfort movie tackle fiscal faint express mammal public april";

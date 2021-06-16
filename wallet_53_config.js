@@ -1,1 +1,1 @@
-var mnemonic = "midnight time special thought electric crime return essence engine wrestle such half";
+var mnemonic = "joke spy trick capable suggest female panic weather chief situate more bronze";

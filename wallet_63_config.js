@@ -1,1 +1,1 @@
-var mnemonic = "pony kind stamp hedgehog toilet deliver master naive today cup fabric job";
+var mnemonic = "repair hover rail obey orange fatigue power sail side aerobic oak witness";

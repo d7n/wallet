@@ -1,1 +1,1 @@
-var mnemonic = "cage rack vacant sting move dirt caution ship chunk divide coach song";
+var mnemonic = "pony bamboo dwarf hour skin patch hood buzz cluster lounge blame grass";

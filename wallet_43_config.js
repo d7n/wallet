@@ -1,1 +1,1 @@
-var mnemonic = "angle code reward waste veteran cactus mechanic whip hybrid nasty crowd hire";
+var mnemonic = "usage project sustain laptop sustain sorry spider forest venture armed small learn";

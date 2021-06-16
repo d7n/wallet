@@ -1,1 +1,1 @@
-var mnemonic = "cool target kitten sadness bone nation split they ostrich jazz life vague";
+var mnemonic = "wrap seat leisure aspect across dragon ivory around orchard april sand grocery";

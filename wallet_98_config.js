@@ -1,1 +1,1 @@
-var mnemonic = "rain quarter spring garden swarm what year cruel issue purchase survey van";
+var mnemonic = "body pistol hotel spirit angle manage crystal flavor velvet distance employ island";

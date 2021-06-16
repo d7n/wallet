@@ -1,1 +1,1 @@
-var mnemonic = "little genuine increase lumber upon woman inner clay company duck stove knock";
+var mnemonic = "globe honey home flag divorce few mom oil episode thunder pill exit";

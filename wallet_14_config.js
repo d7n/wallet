@@ -1,1 +1,1 @@
-var mnemonic = "wage under task immune elder much damp tooth spike nasty south farm";
+var mnemonic = "outside team person whale casual yard clump cup april loop artwork penalty";

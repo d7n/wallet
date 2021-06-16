@@ -1,1 +1,1 @@
-var mnemonic = "guilt egg hill trumpet message magnet village flash quiz rack depend clarify";
+var mnemonic = "industry skate ensure manage skin segment tilt salt elder ancient scout yard";

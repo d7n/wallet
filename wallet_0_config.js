@@ -1,1 +1,1 @@
-var mnemonic = "grace civil range foot exotic august casino lab priority appear aerobic drive";
+var mnemonic = "skin apart audit pair tree parade edge jacket insect amused alpha lonely";

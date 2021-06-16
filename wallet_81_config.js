@@ -1,1 +1,1 @@
-var mnemonic = "essence vessel tuna patient spy circle prison desk similar pottery lyrics hedgehog";
+var mnemonic = "loan report divide west exact royal pioneer unable museum seat this benefit";

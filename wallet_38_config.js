@@ -1,1 +1,1 @@
-var mnemonic = "matrix urge job flame hand depend milk potato ozone border smile rhythm";
+var mnemonic = "weapon monkey shove nerve oven odor wink scare eager output matter dentist";

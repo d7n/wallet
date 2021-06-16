@@ -1,1 +1,1 @@
-var mnemonic = "image cave suit panel fox blossom alter gossip laugh unfair cost action";
+var mnemonic = "lens awkward box rhythm three pill mercy century share song undo message";

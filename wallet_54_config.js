@@ -1,1 +1,1 @@
-var mnemonic = "moon danger firm employ two upgrade reunion system oval prepare toast fresh";
+var mnemonic = "gather reflect garden violin notable roof aware mutual negative lumber innocent prize";

@@ -1,1 +1,1 @@
-var mnemonic = "section kidney mimic quantum rocket vendor ensure ivory vintage ski script elevator";
+var mnemonic = "cry range plastic music thing cat need blade file dismiss rebuild cook";

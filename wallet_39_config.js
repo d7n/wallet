@@ -1,1 +1,1 @@
-var mnemonic = "stay crash silent dish connect powder volume across unlock diesel agree client";
+var mnemonic = "garden warrior poverty rebuild truck robust analyst planet tape fringe approve error";

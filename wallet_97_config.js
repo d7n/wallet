@@ -1,1 +1,1 @@
-var mnemonic = "hawk regular tail split famous blouse very genius require truck picnic sponsor";
+var mnemonic = "luxury cube strategy high another weather dilemma devote round scan bomb surface";

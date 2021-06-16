@@ -1,1 +1,1 @@
-var mnemonic = "canvas taste main mansion sight obvious small edge damage all sail idea";
+var mnemonic = "enjoy hope bid armor fly smoke pigeon floor apple proud absent diagram";

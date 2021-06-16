@@ -1,1 +1,1 @@
-var mnemonic = "peace deliver cable winter ethics inflict knee exercise current estate wife arm";
+var mnemonic = "inside drama infant that differ top color second express believe cost issue";

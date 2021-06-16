@@ -1,1 +1,1 @@
-var mnemonic = "timber beyond gauge crystal wonder solid dirt artefact urge convince captain term";
+var mnemonic = "exotic size motor rug master price deliver tell odor heart symptom near";

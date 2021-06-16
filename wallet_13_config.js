@@ -1,1 +1,1 @@
-var mnemonic = "run broccoli drop merge surface height atom evoke shove moon gap kangaroo";
+var mnemonic = "never fabric flag arrange regular pulse output aim rely ostrich wall address";

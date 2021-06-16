@@ -1,1 +1,1 @@
-var mnemonic = "monster bar rhythm elbow flavor foot wheel world pond protect giggle hidden";
+var mnemonic = "auction place slide penalty differ sport manual ring physical remove climb resource";

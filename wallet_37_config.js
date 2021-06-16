@@ -1,1 +1,1 @@
-var mnemonic = "hood group retire piano local street you pepper ship drama flip abstract";
+var mnemonic = "hair benefit float virus slush twenty obscure luxury regular penalty fine nice";

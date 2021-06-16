@@ -1,1 +1,1 @@
-var mnemonic = "sheriff junk gain supply burden vast define arrange blouse essay magic fine";
+var mnemonic = "gallery vapor open party kid ranch diamond light curtain robot world copper";

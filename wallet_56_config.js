@@ -1,1 +1,1 @@
-var mnemonic = "enroll argue box purchase convince fortune favorite curious aspect force thought culture";
+var mnemonic = "orchard proud denial before cat twist subject fine firm excite soldier please";

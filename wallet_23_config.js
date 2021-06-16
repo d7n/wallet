@@ -1,1 +1,1 @@
-var mnemonic = "face battle element baby height fault keen marriage define detect evidence ask";
+var mnemonic = "equip duty enrich dinosaur pilot borrow cook fragile slab paper glide volcano";

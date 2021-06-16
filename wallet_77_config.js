@@ -1,1 +1,1 @@
-var mnemonic = "brand category cook turn champion useful drip grit air small dad blush";
+var mnemonic = "help urban infant yellow clean settle sheriff glare menu inherit song century";

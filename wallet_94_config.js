@@ -1,1 +1,1 @@
-var mnemonic = "horror chicken glance country caution human topple vital swamp digital toward coil";
+var mnemonic = "bitter excuse antique supreme brush middle pattern infant share shell notice extra";

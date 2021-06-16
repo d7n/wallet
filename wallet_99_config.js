@@ -1,1 +1,1 @@
-var mnemonic = "apple artwork culture quote august answer ignore need discover fog early spread";
+var mnemonic = "palm manual sing blossom sort tree mixture learn arrest clarify calm museum";

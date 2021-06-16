@@ -1,1 +1,1 @@
-var mnemonic = "about expose picnic exhibit among shrug tree describe other monkey hobby couple";
+var mnemonic = "final remember exchange artefact slush language rebel half shrug fox viable sleep";

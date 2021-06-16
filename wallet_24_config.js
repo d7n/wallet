@@ -1,1 +1,1 @@
-var mnemonic = "next elevator result garden size armor fly security spare junior carry fog";
+var mnemonic = "high repair web charge afraid cloud tissue answer speak zero jeans journey";

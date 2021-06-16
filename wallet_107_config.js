@@ -1,1 +1,1 @@
-var mnemonic = "blade say erase vintage tunnel usage despair shrug join lemon crumble finish";
+var mnemonic = "steak inhale cook initial picnic aerobic small myself cactus trip knife desk";

@@ -1,1 +1,1 @@
-var mnemonic = "tragic violin truly trip unfair reunion elder avoid solve sword slight myth";
+var mnemonic = "picnic ancient brother glance desk response gossip dumb occur gallery spoil timber";

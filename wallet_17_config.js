@@ -1,1 +1,1 @@
-var mnemonic = "discover sweet route leave cabin mind main museum dream stomach swallow push";
+var mnemonic = "that squeeze avocado buffalo sugar best use dismiss bag solid antique crash";

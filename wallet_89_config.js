@@ -1,1 +1,1 @@
-var mnemonic = "traffic grocery define logic try rival mercy style include pink curve elite";
+var mnemonic = "rice gift pupil good assume glance high sick marble void stable ozone";

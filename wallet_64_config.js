@@ -1,1 +1,1 @@
-var mnemonic = "above long cradle wolf creek holiday length opinion vacant page patrol margin";
+var mnemonic = "inmate rifle vicious critic hard virtual orchard sauce core group derive mother";

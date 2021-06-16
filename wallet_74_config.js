@@ -1,1 +1,1 @@
-var mnemonic = "leaf raven crazy retire plunge fat turkey weird desert hen badge mechanic";
+var mnemonic = "accuse home absurd spend route company abuse glare course angle utility where";

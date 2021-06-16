@@ -1,1 +1,1 @@
-var mnemonic = "width weapon today ask bitter update juice legend word level detect quarter";
+var mnemonic = "enlist arctic laptop ghost mammal smile people parent pretty awkward pink super";

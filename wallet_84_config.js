@@ -1,1 +1,1 @@
-var mnemonic = "rug borrow execute draw equal stairs seat anger square subway rabbit sphere";
+var mnemonic = "direct level clip fade gauge eagle inner kidney match half test include";

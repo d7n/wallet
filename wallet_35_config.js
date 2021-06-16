@@ -1,1 +1,1 @@
-var mnemonic = "decrease bamboo rail other panther pass message guide tell usage gossip talent";
+var mnemonic = "intact filter casino athlete gaze case glue help question flash approve affair";

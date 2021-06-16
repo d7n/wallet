@@ -1,1 +1,1 @@
-var mnemonic = "primary title catalog alert unusual injury monster evolve label spot banner corn";
+var mnemonic = "mail ribbon uncle alien digital clean swift leg screen expect toss fuel";

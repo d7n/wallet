@@ -1,1 +1,1 @@
-var mnemonic = "country fine praise cage science jazz conduct begin predict flame leopard broken";
+var mnemonic = "assist snake angle elbow possible current fork reform wing fly silly oxygen";

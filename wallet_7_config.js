@@ -1,1 +1,1 @@
-var mnemonic = "motion tornado abstract cake hollow ramp venue right album prize eye reason";
+var mnemonic = "buzz argue pear leopard ball foot transfer east seed awesome anxiety luggage";

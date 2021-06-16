@@ -1,1 +1,1 @@
-var mnemonic = "basic theory dwarf exhaust phrase two rigid ready impact black dawn unveil";
+var mnemonic = "cave affair hill sniff obvious announce wisdom pair omit life foil know";

@@ -1,1 +1,1 @@
-var mnemonic = "sustain apple traffic grain marble kidney bachelor fortune oyster seven subway deputy";
+var mnemonic = "trumpet margin gossip agree able crucial thunder manual film journey damage fatigue";

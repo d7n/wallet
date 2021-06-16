@@ -1,1 +1,1 @@
-var mnemonic = "differ east clarify bonus tent process eternal vehicle spread try awkward unhappy";
+var mnemonic = "pencil coil wrestle mother issue sniff federal future again sport sound execute";

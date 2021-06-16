@@ -1,1 +1,1 @@
-var mnemonic = "path gravity ankle expire air repeat brain load arrow session kind enrich";
+var mnemonic = "right real cram balcony dinosaur spend slice immense viable segment fitness swing";

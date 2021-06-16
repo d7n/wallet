@@ -1,1 +1,1 @@
-var mnemonic = "popular coach correct exotic draw major pencil author cross worry artefact movie";
+var mnemonic = "guilt subway primary elevator uncover tower stuff creek caution safe coast super";
