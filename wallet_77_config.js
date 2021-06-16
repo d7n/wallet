@@ -1,1 +1,1 @@
-var mnemonic = "figure cook rigid draft road alpha velvet choose unable metal charge trophy";
+var mnemonic = "coast beyond hurdle dignity siege code anchor either pair human select lava";

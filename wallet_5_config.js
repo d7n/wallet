@@ -1,1 +1,1 @@
-var mnemonic = "urban document gas tired asthma film certain betray rocket safe sauce pupil";
+var mnemonic = "tiny jelly blood cherry october worry unique panel verify tail oyster scrap";

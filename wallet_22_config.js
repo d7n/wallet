@@ -1,1 +1,1 @@
-var mnemonic = "clever youth invite pupil stand kind faint century purse illness laugh possible";
+var mnemonic = "length narrow broccoli manual way warrior fox grow pioneer culture crowd decade";

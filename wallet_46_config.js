@@ -1,1 +1,1 @@
-var mnemonic = "moment wreck element much any segment uphold upon mean undo rack citizen";
+var mnemonic = "radar awkward trust wheel tent talent pond live jacket blouse circle arrest";

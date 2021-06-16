@@ -1,1 +1,1 @@
-var mnemonic = "tone decide tank evil vague sweet pig that prison kick snack steel";
+var mnemonic = "slim repair tomorrow win review vocal plunge giggle loyal range pudding reopen";

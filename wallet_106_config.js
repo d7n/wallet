@@ -1,1 +1,1 @@
-var mnemonic = "network regular habit hold type multiply rose hour unusual engine that job";
+var mnemonic = "smoke cloth coconut romance hope theory trust feel find fatal special scout";

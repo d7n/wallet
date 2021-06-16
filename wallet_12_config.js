@@ -1,1 +1,1 @@
-var mnemonic = "clerk useful tissue multiply onion elite south chalk guide another catch ring";
+var mnemonic = "drop erosion quick join minor velvet payment maid piece because seed sentence";

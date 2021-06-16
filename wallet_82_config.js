@@ -1,1 +1,1 @@
-var mnemonic = "sibling pond shy skate pause various put waste sting uniform perfect rabbit";
+var mnemonic = "goat furnace labor crop initial delay afraid else frown captain draw race";

@@ -1,1 +1,1 @@
-var mnemonic = "banner record tennis lesson brisk poverty price soon green inmate creek tenant";
+var mnemonic = "ski scorpion number solar machine build rookie park month black own pudding";

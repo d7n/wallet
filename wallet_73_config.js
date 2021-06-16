@@ -1,1 +1,1 @@
-var mnemonic = "hill demise record verify cabbage ticket famous include demise puzzle nice safe";
+var mnemonic = "symbol pelican penalty run toss picnic vacant mystery tourist fun food upper";

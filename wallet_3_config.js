@@ -1,1 +1,1 @@
-var mnemonic = "check kiss gym recipe crucial crowd force metal robot dilemma sail exotic";
+var mnemonic = "glad useless upper scrub steel major story expand acoustic suggest they absurd";

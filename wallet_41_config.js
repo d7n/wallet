@@ -1,1 +1,1 @@
-var mnemonic = "symptom ramp develop subject burger receive output rather wink apology neglect artist";
+var mnemonic = "album squeeze flag mouse nothing bar rate brave elevator mirror sight flock";

@@ -1,1 +1,1 @@
-var mnemonic = "tool solution soldier vapor pond mercy today deny nuclear arctic bamboo boss";
+var mnemonic = "cake day crazy combine lizard call fox express local guess injury improve";

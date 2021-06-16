@@ -1,1 +1,1 @@
-var mnemonic = "retire orange tiger baby drama grow wagon banana pride local hold attract";
+var mnemonic = "engine race chair ten scrap polar little village main reduce best rebel";

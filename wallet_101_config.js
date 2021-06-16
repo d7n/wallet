@@ -1,1 +1,1 @@
-var mnemonic = "any soda device focus elevator public warm spread unique balance van little";
+var mnemonic = "voice crack cream case hero citizen fresh century panther pink quality stuff";

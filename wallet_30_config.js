@@ -1,1 +1,1 @@
-var mnemonic = "pear off clay company until slush memory flag like hero fan artwork";
+var mnemonic = "trend agent barrel wage essay bitter glass outside kit problem shy devote";

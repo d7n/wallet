@@ -1,1 +1,1 @@
-var mnemonic = "video weasel observe angle under toilet wave stable involve sentence three clinic";
+var mnemonic = "quantum hero vault route blame grape flush cart trigger orchard orchard census";

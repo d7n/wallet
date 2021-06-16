@@ -1,1 +1,1 @@
-var mnemonic = "width draft direct wisdom chapter address wink burst journey convince arrange year";
+var mnemonic = "faculty they flame amused motor ski copper fork sorry belt media tortoise";

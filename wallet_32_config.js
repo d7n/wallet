@@ -1,1 +1,1 @@
-var mnemonic = "obvious either adjust hire pause slice wolf boss catalog honey rude north";
+var mnemonic = "stumble bottom poem cost couch dance hobby advance enrich cheese fossil still";

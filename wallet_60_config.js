@@ -1,1 +1,1 @@
-var mnemonic = "burger much news kingdom enforce zoo camp fork wealth gossip cabbage pink";
+var mnemonic = "base wife manage deliver dismiss day cabin siren swing stomach vessel mixed";

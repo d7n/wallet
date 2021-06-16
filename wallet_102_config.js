@@ -1,1 +1,1 @@
-var mnemonic = "burst planet belt derive demand cushion length voice cheese comfort margin camp";
+var mnemonic = "large among holiday horror birth vessel bring hobby juice frame sell gap";

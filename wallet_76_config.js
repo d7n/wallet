@@ -1,1 +1,1 @@
-var mnemonic = "video sudden idle rack kick water rebel clutch pole ship wool pitch";
+var mnemonic = "life basic trouble attend fish blur will digital baby scene stool bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect joke spread frown meat intact select elite estate awake few hybrid";
+var mnemonic = "bitter brown under trim box truth sense puppy exhibit speed fork divert";

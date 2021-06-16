@@ -1,1 +1,1 @@
-var mnemonic = "express flower master solid figure castle sell farm vital bacon conduct page";
+var mnemonic = "lift annual wait fitness model rookie drive must tobacco anchor choose invest";

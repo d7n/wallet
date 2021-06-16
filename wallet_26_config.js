@@ -1,1 +1,1 @@
-var mnemonic = "dynamic assault illegal prize silver phone head label useless rice demand universe";
+var mnemonic = "pair save boring eternal digital intact nuclear mechanic mix actress scrap sea";

@@ -1,1 +1,1 @@
-var mnemonic = "salon crunch tower short adult rapid fee collect bulb notable high second";
+var mnemonic = "actor hair claim fabric opera couple merry busy call unfold street fun";

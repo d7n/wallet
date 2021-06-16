@@ -1,1 +1,1 @@
-var mnemonic = "today resource enable field narrow lava owner trial include sister scare struggle";
+var mnemonic = "exercise admit when hobby tail actress option toast lemon gift mandate purse";

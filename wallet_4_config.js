@@ -1,1 +1,1 @@
-var mnemonic = "tobacco history avoid mad recycle play wear lawsuit truly advance afford desk";
+var mnemonic = "candy pulp element coffee tennis believe voyage sea debate witness pledge walnut";

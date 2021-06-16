@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin wisdom worth you around brick tattoo hawk lawsuit cross wash reward";
+var mnemonic = "whale kingdom shove unfold laugh bracket aspect attend educate hard kiss dinosaur";

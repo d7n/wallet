@@ -1,1 +1,1 @@
-var mnemonic = "soft ribbon fish lazy damp media kite aerobic clinic glove health catch";
+var mnemonic = "giggle dwarf exact situate dentist day female depart multiply double hire ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "crop crater cabbage tonight fix seed offer cradle love that message day";
+var mnemonic = "tired scout humor always review develop sweet chief exercise motion script fine";

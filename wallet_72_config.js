@@ -1,1 +1,1 @@
-var mnemonic = "core hair fan rely fan own original master license actor whisper flower";
+var mnemonic = "spread forum clog doll brick modify multiply diagram taste diagram pupil problem";

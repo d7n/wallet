@@ -1,1 +1,1 @@
-var mnemonic = "salad sibling dry stage pudding mean doll fat three force various arch";
+var mnemonic = "news panda reject toss goose subject old zoo castle stone note island";

@@ -1,1 +1,1 @@
-var mnemonic = "blouse accident lawsuit lift human match alley mammal person marine fringe six";
+var mnemonic = "credit rigid blanket alter frozen feel sad motion cousin reopen bid upper";

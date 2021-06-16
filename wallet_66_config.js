@@ -1,1 +1,1 @@
-var mnemonic = "hen razor toy present client disagree bullet family april elegant stove evoke";
+var mnemonic = "weird share explain pause pill luxury visit fashion quality supply maid double";

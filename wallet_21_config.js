@@ -1,1 +1,1 @@
-var mnemonic = "anchor hand nation vacant kid pear benefit wrist ride earth arm work";
+var mnemonic = "vault object group moral gas festival square vivid lumber latin battle piece";

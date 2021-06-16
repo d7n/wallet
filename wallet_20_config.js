@@ -1,1 +1,1 @@
-var mnemonic = "album public alarm pill chunk apart horn echo total walnut rich measure";
+var mnemonic = "infant boring foam typical baby warrior jar maid spread heavy enjoy weapon";

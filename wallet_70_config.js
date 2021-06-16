@@ -1,1 +1,1 @@
-var mnemonic = "daring split uncover subject burden detect turtle bulk luxury goddess lion filter";
+var mnemonic = "engage bridge tower artefact second wing actress cluster stove solar truly scrub";

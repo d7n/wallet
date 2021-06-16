@@ -1,1 +1,1 @@
-var mnemonic = "elbow chest gauge scale idle devote tilt tonight invest hover veteran october";
+var mnemonic = "expose biology lecture bring neutral jump banner cute worry differ aim predict";

@@ -1,1 +1,1 @@
-var mnemonic = "slab clay drama spike evidence visa require juice glory horse toward round";
+var mnemonic = "few olympic office broom pig crystal middle gold toddler lava undo else";

@@ -1,1 +1,1 @@
-var mnemonic = "payment game zone flower service panic dish obscure cube toward sphere viable";
+var mnemonic = "kind royal avoid train era carpet arena hunt sport dinosaur average credit";

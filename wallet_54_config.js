@@ -1,1 +1,1 @@
-var mnemonic = "leaf grid people orange island library peace capital license penalty salad life";
+var mnemonic = "vacuum surround toddler urban pelican come example monkey oblige august spot supply";

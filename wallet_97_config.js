@@ -1,1 +1,1 @@
-var mnemonic = "tourist trip boring filter nurse cricket analyst turtle bind february ladder appear";
+var mnemonic = "story planet sing unusual nature ocean isolate donate decrease brother photo walk";

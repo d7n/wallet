@@ -1,1 +1,1 @@
-var mnemonic = "pencil labor east subway destroy repair bus gown entire beauty rice fire";
+var mnemonic = "cream cement noble spider clever place blouse then gossip mammal boy behave";

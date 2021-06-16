@@ -1,1 +1,1 @@
-var mnemonic = "glove bone bean journey scare fetch act museum float project false hire";
+var mnemonic = "goat wedding drift hand recycle attitude squeeze tackle angle system ball guilt";

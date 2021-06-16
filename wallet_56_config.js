@@ -1,1 +1,1 @@
-var mnemonic = "food rail clay lava raw route park wide soap junk cigar trick";
+var mnemonic = "december link version hat table olympic indoor swift iron audit vendor tissue";

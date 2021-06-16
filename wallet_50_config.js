@@ -1,1 +1,1 @@
-var mnemonic = "health pledge frost addict hire child reopen mom street olympic obvious pyramid";
+var mnemonic = "garlic control tragic fly escape cancel solar second consider immune cage atom";

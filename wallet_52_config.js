@@ -1,1 +1,1 @@
-var mnemonic = "remove culture dolphin flip equip virus guide shell arch tennis argue ancient";
+var mnemonic = "orange remind youth basket best loop quality cute harsh paddle script resource";

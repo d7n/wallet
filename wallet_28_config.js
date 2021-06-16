@@ -1,1 +1,1 @@
-var mnemonic = "shy average bread impose decide congress double push ocean brother document festival";
+var mnemonic = "sword climb search waste ostrich oval emotion unaware barely message boost must";

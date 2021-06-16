@@ -1,1 +1,1 @@
-var mnemonic = "board point actress neglect urban fame kit adapt cluster weird extra soccer";
+var mnemonic = "deliver climb fade early enough satoshi vocal rocket only help maid scare";

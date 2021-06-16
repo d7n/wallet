@@ -1,1 +1,1 @@
-var mnemonic = "replace patch spoil blossom suggest sibling submit abandon notice cover plunge raw";
+var mnemonic = "east celery require wish pottery purse tone rotate vintage apple room outside";

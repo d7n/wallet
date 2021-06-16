@@ -1,1 +1,1 @@
-var mnemonic = "inspire more door brother crawl range maximum spice pilot foil ketchup network";
+var mnemonic = "wine intact dash crash hundred shell penalty tourist fancy rare half grid";

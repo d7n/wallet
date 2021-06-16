@@ -1,1 +1,1 @@
-var mnemonic = "turtle lens lunar swap exhibit marble stand gold hurdle oak bargain hover";
+var mnemonic = "refuse design pole spot scorpion tide marble involve winner garden clever city";

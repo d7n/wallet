@@ -1,1 +1,1 @@
-var mnemonic = "width spread word hub grain multiply scale width knock hill issue climb";
+var mnemonic = "short balance choose lift expect episode day spy sugar pink shiver nothing";

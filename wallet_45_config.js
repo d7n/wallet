@@ -1,1 +1,1 @@
-var mnemonic = "blush result treat endorse daughter picture spoil sand pull wrestle hurry sure";
+var mnemonic = "giraffe dynamic vibrant episode point guide adapt planet cup axis hope truly";

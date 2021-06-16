@@ -1,1 +1,1 @@
-var mnemonic = "leopard inform page yard exile mountain lottery between garden pupil spike scout";
+var mnemonic = "knock attend casino salmon victory pond vendor play describe wild birth snack";

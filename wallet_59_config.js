@@ -1,1 +1,1 @@
-var mnemonic = "grit peace patrol relax master tackle arrow mouse eager scissors speed laundry";
+var mnemonic = "spring ladder fence middle beauty mammal mixture casual retire sound lizard pioneer";

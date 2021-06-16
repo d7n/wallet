@@ -1,1 +1,1 @@
-var mnemonic = "intact cannon spawn sheriff wide leave couple range mom street hood install";
+var mnemonic = "child garment ranch dawn favorite able cloud excite drastic front other attack";

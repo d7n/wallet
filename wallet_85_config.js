@@ -1,1 +1,1 @@
-var mnemonic = "adapt input feature worth duty marriage loud goddess funny silent wish curve";
+var mnemonic = "crater reopen chat quick spice caught maid disorder process protect organ absurd";

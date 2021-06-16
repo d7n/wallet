@@ -1,1 +1,1 @@
-var mnemonic = "glare kiss amazing rural square add repeat flight grab hunt parrot device";
+var mnemonic = "merry match april talk lawn occur orchard mutual fit come genre document";

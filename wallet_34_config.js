@@ -1,1 +1,1 @@
-var mnemonic = "try boring cluster satisfy famous tonight impact exile sign squeeze finish blue";
+var mnemonic = "merit sauce goat cash churn season shoot buzz kidney sleep bomb kidney";

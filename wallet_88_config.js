@@ -1,1 +1,1 @@
-var mnemonic = "tape party family wisdom hazard myth gesture harvest switch hurdle blame window";
+var mnemonic = "gospel click height filter gain notable almost asthma license runway cliff honey";

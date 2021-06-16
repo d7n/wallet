@@ -1,1 +1,1 @@
-var mnemonic = "promote prosper old what film away pilot inject nice cousin manual casino";
+var mnemonic = "fork goddess artwork appear entry turkey course random wait idle cause exclude";

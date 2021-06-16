@@ -1,1 +1,1 @@
-var mnemonic = "check uncle spy mother crop betray quit combine must eye suit indicate";
+var mnemonic = "wealth volume brain proof clean wide fat kit scan split learn attack";

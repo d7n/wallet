@@ -1,1 +1,1 @@
-var mnemonic = "meat capable chat concert another math only pretty keen family scrub estate";
+var mnemonic = "bullet tell electric various toddler shadow insect episode refuse bird friend priority";

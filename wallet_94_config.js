@@ -1,1 +1,1 @@
-var mnemonic = "tone come bean wood tomorrow wing giant action abandon another romance unfold";
+var mnemonic = "desert humble true range solve vicious laptop develop invite board bridge urge";

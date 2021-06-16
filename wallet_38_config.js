@@ -1,1 +1,1 @@
-var mnemonic = "vessel eagle idle trophy pool group orient dose spider film garment isolate";
+var mnemonic = "bird foam spot leg uncle pupil random naive dragon group scare donkey";

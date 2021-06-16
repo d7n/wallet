@@ -1,1 +1,1 @@
-var mnemonic = "dilemma wheel wealth aware tackle range oil focus proof gun multiply oil";
+var mnemonic = "diamond valid humble have tuition tongue anchor donor eager wait violin dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry robot clutch demise survey panic clean zebra oval current guard mother";
+var mnemonic = "sort retreat poverty snake garage stool arrange rail water south door plug";

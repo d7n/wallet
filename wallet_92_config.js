@@ -1,1 +1,1 @@
-var mnemonic = "fatal game grief novel elbow solid genre spring student polar scare clip";
+var mnemonic = "veteran brick skill medal small frown father scorpion alpha flee boost scale";

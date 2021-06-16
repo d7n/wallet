@@ -1,1 +1,1 @@
-var mnemonic = "enact worry ship lottery runway state scale attract arm key label moment";
+var mnemonic = "until love wet virtual identify truck medal illegal wage monitor victory rescue";

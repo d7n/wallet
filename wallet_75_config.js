@@ -1,1 +1,1 @@
-var mnemonic = "wagon mind denial gloom nurse civil indicate hover guard provide gesture spring";
+var mnemonic = "dignity detect give favorite bargain fatigue solution just relax collect unfold radio";

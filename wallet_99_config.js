@@ -1,1 +1,1 @@
-var mnemonic = "rice west island mind toward general crime neither sister now rude market";
+var mnemonic = "solar sustain night spoil cup upgrade wait exhaust patient oblige response rail";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge mutual diet worth resemble neither company hazard tail three coast pink";
+var mnemonic = "town wood vapor jealous flat witness muffin defy crew wish exercise manage";

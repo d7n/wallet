@@ -1,1 +1,1 @@
-var mnemonic = "traffic scissors unable edge advance spray decline photo shove wasp truly output";
+var mnemonic = "east liquid coral marble deposit deposit remind fragile guide weird mask shy";

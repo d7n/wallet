@@ -1,1 +1,1 @@
-var mnemonic = "jump duck rookie now east tuna garage erosion country parent lend purchase";
+var mnemonic = "file clutch tourist cannon error thumb frequent lab meadow indicate arch initial";

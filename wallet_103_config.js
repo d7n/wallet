@@ -1,1 +1,1 @@
-var mnemonic = "drum nephew excuse tattoo brick castle pulse noodle pave nominee cute second";
+var mnemonic = "breeze sleep stool web fiction search warm simple black wet cream dose";

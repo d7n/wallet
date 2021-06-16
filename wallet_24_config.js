@@ -1,1 +1,1 @@
-var mnemonic = "code receive pig estate reason deny popular rescue blood giggle extend subject";
+var mnemonic = "city fabric local accident machine future film letter column false choose hand";

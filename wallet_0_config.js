@@ -1,1 +1,1 @@
-var mnemonic = "average collect solution sort alert service flash start shy hybrid mercy blanket";
+var mnemonic = "original wife opinion audit old own elevator extend mad alone segment chunk";

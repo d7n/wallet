@@ -1,1 +1,1 @@
-var mnemonic = "worth crime shop cable day panther fruit spirit lens voyage prepare nothing";
+var mnemonic = "all similar grass manual notice north fit silk visual giant uphold october";

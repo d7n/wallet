@@ -1,1 +1,1 @@
-var mnemonic = "tower skate cloth memory museum town luggage crawl time add corn digital";
+var mnemonic = "give fire robust series tissue youth report urban meadow sustain swim major";

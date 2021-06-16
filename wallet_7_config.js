@@ -1,1 +1,1 @@
-var mnemonic = "vault merge rate monster recipe acoustic shock subject elder civil scrap basic";
+var mnemonic = "boy cannon decide avoid favorite bus midnight hen sad final always fine";

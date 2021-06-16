@@ -1,1 +1,1 @@
-var mnemonic = "net hockey panther arctic leaf canvas electric arrest weird tornado airport inmate";
+var mnemonic = "normal seek lobster detail drop poverty april hundred evolve embark pave couch";

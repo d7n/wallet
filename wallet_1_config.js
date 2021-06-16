@@ -1,1 +1,1 @@
-var mnemonic = "guitar minimum service cradle absorb stumble network olive alone hood violin tobacco";
+var mnemonic = "cook order much swift crunch trick pink public filter exotic diet record";

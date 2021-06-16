@@ -1,1 +1,1 @@
-var mnemonic = "normal permit drink pilot over material police fresh smooth crawl beach sponsor";
+var mnemonic = "robot evolve ugly hospital love autumn word mask fog rapid bubble unfair";

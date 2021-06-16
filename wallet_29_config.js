@@ -1,1 +1,1 @@
-var mnemonic = "polar exhibit toast tilt female symptom quarter twenty tumble vicious grass output";
+var mnemonic = "debate spend festival group shrimp time fever glory horse omit ceiling crash";

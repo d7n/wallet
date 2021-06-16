@@ -1,1 +1,1 @@
-var mnemonic = "rack saddle purchase crane swarm analyst bread eyebrow notice govern chalk capable";
+var mnemonic = "jewel leaf stadium cream small artwork useless return door picture local security";

@@ -1,1 +1,1 @@
-var mnemonic = "mix jaguar scrap wagon retreat hold sail whale mosquito very camera chest";
+var mnemonic = "wasp hill grocery inform cover inherit rebuild laugh tiny live creek chicken";

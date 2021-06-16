@@ -1,1 +1,1 @@
-var mnemonic = "mass sail scorpion lamp alone just opinion about spice enrich focus pigeon";
+var mnemonic = "toilet invite repeat sentence hint energy bag ride endless fiction donor soldier";

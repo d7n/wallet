@@ -1,1 +1,1 @@
-var mnemonic = "teach recipe prison idea earth vendor stereo skin author other tackle cushion";
+var mnemonic = "thing click camera predict tunnel desk virus taxi rescue way planet trend";
