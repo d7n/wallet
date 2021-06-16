@@ -1,1 +1,1 @@
-var mnemonic = "fatal trip album exit extend siege cactus office unable bamboo verify gate";
+var mnemonic = "dust general act ticket craft size differ federal result iron soul canal";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate betray drip arrange bundle floor divorce tree plug note balance biology";
+var mnemonic = "forum short destroy grape antenna bean panda setup axis stock like slush";

@@ -1,1 +1,1 @@
-var mnemonic = "upset picnic decade minor fringe siege used grape mass icon attract such";
+var mnemonic = "oil invest museum nurse adjust pretty silent note evidence just tell hood";

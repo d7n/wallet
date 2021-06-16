@@ -1,1 +1,1 @@
-var mnemonic = "arch visa estate plastic super alert wash device parade pact fit transfer";
+var mnemonic = "jungle tower actual vocal sting share sustain couch whale gorilla embrace rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "lady wonder raw bar ceiling cable early method puppy edit inmate middle";
+var mnemonic = "cotton fit enable boil fluid chat visit alert couple elephant roof tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "device decorate clutch project crack doll boring surprise rail nasty course trim";
+var mnemonic = "boat time embody debate real bench potato brother spring also expect thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "broken erupt wire cotton mail master stool coast time special jungle coral";
+var mnemonic = "people field arena total cute beauty legend tiny uncover solve human extra";

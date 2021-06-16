@@ -1,1 +1,1 @@
-var mnemonic = "junior differ awake cushion urge pumpkin humble usage sad fatigue law degree";
+var mnemonic = "excite spring online genius float response update fish solar time cream cousin";

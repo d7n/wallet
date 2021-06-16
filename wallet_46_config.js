@@ -1,1 +1,1 @@
-var mnemonic = "joke fire glass guess cancel panic online ghost twice audit route choice";
+var mnemonic = "occur arrive evolve flat brown devote priority cement rebel jewel inject fine";

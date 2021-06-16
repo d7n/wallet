@@ -1,1 +1,1 @@
-var mnemonic = "begin sunny hidden melody horse earn identify system razor motor shiver finger";
+var mnemonic = "story gap helmet play try crunch build hen banana peace latin grab";

@@ -1,1 +1,1 @@
-var mnemonic = "salt accident boost coffee lift picture palm rocket lend castle genuine arrow";
+var mnemonic = "bone boat lawsuit tiny garden layer risk need average file clever luggage";

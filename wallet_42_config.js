@@ -1,1 +1,1 @@
-var mnemonic = "bleak social exhibit shed organ struggle soul alcohol small code grunt pave";
+var mnemonic = "divide source place crystal snow despair move design elder primary predict merit";

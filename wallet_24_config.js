@@ -1,1 +1,1 @@
-var mnemonic = "length habit girl bomb never hybrid price mesh floor pigeon future march";
+var mnemonic = "combine remind staff corn interest exclude hedgehog brown army call pepper magnet";

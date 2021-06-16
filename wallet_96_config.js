@@ -1,1 +1,1 @@
-var mnemonic = "ill anger useful elephant chuckle donor gate sell menu wagon antique exact";
+var mnemonic = "faint effort six replace horror apple leaf random nature odor toy sad";

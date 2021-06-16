@@ -1,1 +1,1 @@
-var mnemonic = "cancel accuse price retreat time found shuffle crystal green border cook myself";
+var mnemonic = "secret practice habit then effort task business text layer siren promote like";

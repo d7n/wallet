@@ -1,1 +1,1 @@
-var mnemonic = "brisk staff liquid coffee trick remain decorate pony fame area apology anchor";
+var mnemonic = "sponsor myself coach term allow vintage practice home fish start grow when";

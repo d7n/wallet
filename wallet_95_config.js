@@ -1,1 +1,1 @@
-var mnemonic = "grow hawk mandate open utility reopen humor differ naive either bean chief";
+var mnemonic = "swear vessel satisfy evil mother panther rebel beef noodle heart basket become";

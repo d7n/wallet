@@ -1,1 +1,1 @@
-var mnemonic = "obvious merge maple sorry grape square clay venture reject melt quantum random";
+var mnemonic = "panic much hover ivory sail large kingdom radio talent dose extra also";

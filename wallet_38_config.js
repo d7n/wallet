@@ -1,1 +1,1 @@
-var mnemonic = "taxi picture version excuse ticket avoid soda exchange awesome wire lava unhappy";
+var mnemonic = "baby pioneer finish area fox catalog sausage depend case beach first squeeze";

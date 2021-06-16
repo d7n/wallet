@@ -1,1 +1,1 @@
-var mnemonic = "choose morning mention fish open among purchase obvious easily female habit this";
+var mnemonic = "verify twist picture talk mouse fire stumble system husband piano valley virtual";

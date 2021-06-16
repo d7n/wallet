@@ -1,1 +1,1 @@
-var mnemonic = "ranch elegant soft patrol plug race spot question famous ripple basket hat";
+var mnemonic = "pass change shadow report multiply replace assist inject kitchen lift tumble fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "club hazard side illness near risk seed nature dog tray tuition scare";
+var mnemonic = "car road eight flash decrease parade hunt length evil fat weird until";

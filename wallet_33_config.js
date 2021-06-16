@@ -1,1 +1,1 @@
-var mnemonic = "female permit cargo type visa catalog tomato hurry dice planet ostrich topple";
+var mnemonic = "check zone two faculty bread half assault release wheat travel payment negative";

@@ -1,1 +1,1 @@
-var mnemonic = "manage minor truck fiscal ask simple eye glass front attend teach extra";
+var mnemonic = "review crawl stuff long current mind birth rice usual ask market dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "derive party wire vocal lion front job come pigeon rookie rotate subway";
+var mnemonic = "gain very popular motion define question entire mistake screen assume real female";

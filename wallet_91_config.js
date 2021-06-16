@@ -1,1 +1,1 @@
-var mnemonic = "grief chaos napkin cave bottom frown movie cotton retreat spice match uncle";
+var mnemonic = "thought hungry duty return enforce sense tourist elegant cluster brush traffic elegant";

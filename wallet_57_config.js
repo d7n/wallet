@@ -1,1 +1,1 @@
-var mnemonic = "insect endorse merry pencil under issue seminar nephew venture link load apple";
+var mnemonic = "pony odor model ranch corn rabbit property crowd pretty coconut jelly enough";

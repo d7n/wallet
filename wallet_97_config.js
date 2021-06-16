@@ -1,1 +1,1 @@
-var mnemonic = "village win escape double happy need caution feature devote dress burden dilemma";
+var mnemonic = "ritual bone lens toward twin twin ticket loop chief federal father play";

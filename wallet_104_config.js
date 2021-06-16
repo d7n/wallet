@@ -1,1 +1,1 @@
-var mnemonic = "gauge owner people wet exile adjust exotic nasty inside twelve rail chaos";
+var mnemonic = "coral rail rude puppy cabin scan guilt oven fit blanket mass forum";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza post olympic swap venture latin shrimp angle remember ecology leg hard";
+var mnemonic = "logic work oak produce relax bamboo sad tiny floor approve excuse life";

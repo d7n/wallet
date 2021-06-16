@@ -1,1 +1,1 @@
-var mnemonic = "near rough fatigue artist captain voyage series scorpion estate mammal trade hungry";
+var mnemonic = "trade brisk document check slot gun gallery pioneer garage twist board opera";

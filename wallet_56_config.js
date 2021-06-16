@@ -1,1 +1,1 @@
-var mnemonic = "reject million snack pig gather chuckle alone drink orange tragic basic issue";
+var mnemonic = "female carbon other swallow gadget total lobster wasp stay actor cage broccoli";

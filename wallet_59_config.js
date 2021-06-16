@@ -1,1 +1,1 @@
-var mnemonic = "dutch advance vocal mixture pigeon radio coral invest flock south isolate anchor";
+var mnemonic = "clean trend dove remember doctor decline light onion industry when city cash";

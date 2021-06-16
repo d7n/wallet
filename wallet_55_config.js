@@ -1,1 +1,1 @@
-var mnemonic = "clean tide glide three slot captain goddess van earth capital strong salt";
+var mnemonic = "mammal craft panic regular bounce snake toy uncle other tip south wide";

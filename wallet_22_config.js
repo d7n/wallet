@@ -1,1 +1,1 @@
-var mnemonic = "adjust dinner wood energy husband cute speed couch parrot anger text spawn";
+var mnemonic = "brave police dust enable unusual when fork yellow analyst team caution crime";

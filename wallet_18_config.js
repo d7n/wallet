@@ -1,1 +1,1 @@
-var mnemonic = "display violin critic virus side fossil hello autumn myth tortoise extra basket";
+var mnemonic = "hole barrel century chef poverty dentist food exhaust cook chase secret civil";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty robust planet math sport water device maple catch trigger music auto";
+var mnemonic = "crawl film secret hamster fury number include glow estate cause weapon report";

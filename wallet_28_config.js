@@ -1,1 +1,1 @@
-var mnemonic = "dismiss bounce normal corn heart valve lecture explain curve card smart upon";
+var mnemonic = "maple dignity bone purity wage ski join wing region surprise speak midnight";

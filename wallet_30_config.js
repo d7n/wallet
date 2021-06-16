@@ -1,1 +1,1 @@
-var mnemonic = "cereal wrap velvet walnut under injury mean funny abstract atom acid health";
+var mnemonic = "mutual essay amazing pink undo path weekend still pretty sure energy dragon";

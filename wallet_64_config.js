@@ -1,1 +1,1 @@
-var mnemonic = "antique claim hamster surprise casino quiz average brown bag combine trumpet toss";
+var mnemonic = "wheel drive minimum hawk unable insect note helmet also evil trophy curve";

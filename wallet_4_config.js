@@ -1,1 +1,1 @@
-var mnemonic = "verb vapor water next wish assume naive trap enact cry shift surge";
+var mnemonic = "scare album armor glory nothing fatigue abuse run primary amazing pulse hamster";

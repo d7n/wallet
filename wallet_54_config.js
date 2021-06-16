@@ -1,1 +1,1 @@
-var mnemonic = "world model month job pave fee attend define swear end idea rack";
+var mnemonic = "novel mass sibling neutral stamp net salmon harbor ball chuckle chef narrow";

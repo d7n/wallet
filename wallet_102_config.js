@@ -1,1 +1,1 @@
-var mnemonic = "gold people practice improve warfare glad monitor impulse food nation attract novel";
+var mnemonic = "sell spy put castle toilet winter suit issue tuition wool various merit";

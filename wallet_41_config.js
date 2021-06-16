@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow pear wheat can rebel reopen high expect lizard argue patient march";
+var mnemonic = "film fame paddle quick unknown nurse improve message spread skull jelly they";

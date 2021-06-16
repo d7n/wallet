@@ -1,1 +1,1 @@
-var mnemonic = "access proof sense enable pattern kite arch exchange again cable trend biology";
+var mnemonic = "disorder imitate nest quantum debris fiscal vault ignore vibrant birth eagle lazy";

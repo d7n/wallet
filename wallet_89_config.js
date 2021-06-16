@@ -1,1 +1,1 @@
-var mnemonic = "never social across parent nation avocado jealous motor that damage option impulse";
+var mnemonic = "tornado series year elder cycle note indoor donkey reveal nasty dilemma mass";

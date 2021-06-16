@@ -1,1 +1,1 @@
-var mnemonic = "pigeon basic spice ride tower hurdle online rough grid quiz toward hidden";
+var mnemonic = "planet view common whip kitchen neglect indicate warrior split erase also bring";

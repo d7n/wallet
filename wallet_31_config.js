@@ -1,1 +1,1 @@
-var mnemonic = "obtain quality magnet tape kingdom mushroom usage liberty wonder famous wolf bicycle";
+var mnemonic = "clever income debate rely blame song auction comic morning wish carry family";

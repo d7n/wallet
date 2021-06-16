@@ -1,1 +1,1 @@
-var mnemonic = "muscle tiger kiss claim fiction junior shock drip club bamboo planet evidence";
+var mnemonic = "buffalo increase bracket demise frozen lab danger combine sunset bless bar garment";

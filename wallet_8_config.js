@@ -1,1 +1,1 @@
-var mnemonic = "borrow coil rebel soon repair endorse sponsor army accuse beyond suspect grape";
+var mnemonic = "spatial brand view magic mobile false impact exact trick biology rude comic";

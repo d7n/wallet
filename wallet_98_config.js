@@ -1,1 +1,1 @@
-var mnemonic = "catalog they wing scheme muscle control answer sick peasant tent letter baby";
+var mnemonic = "round slow observe board plastic bench apple design gap mail vacuum potato";

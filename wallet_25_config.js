@@ -1,1 +1,1 @@
-var mnemonic = "system fun start fiscal again hospital ring tattoo another ten slot man";
+var mnemonic = "deliver math dress essay venue trade lift remain cage addict loyal outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "ship punch scrap already cry accuse pledge shiver august wild asset tonight";
+var mnemonic = "luxury gather catalog vicious broom fun nut february copper season boat blade";

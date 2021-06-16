@@ -1,1 +1,1 @@
-var mnemonic = "diary arm artist safe panel private rapid entry scorpion rifle destroy tobacco";
+var mnemonic = "achieve oblige discover share oven surprise fix seminar tell dolphin bomb learn";

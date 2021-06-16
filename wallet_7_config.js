@@ -1,1 +1,1 @@
-var mnemonic = "rebel angle video range make dog often clog staff fruit town wave";
+var mnemonic = "jump buffalo rose protect unhappy medal cereal pattern doctor gentle check ancient";

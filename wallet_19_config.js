@@ -1,1 +1,1 @@
-var mnemonic = "insane sea slight despair execute glow shrug concert mesh throw hip smoke";
+var mnemonic = "sleep burst bitter prize photo attack tomato battle quote vacuum caught figure";

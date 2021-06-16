@@ -1,1 +1,1 @@
-var mnemonic = "chase trim leopard green lawsuit host fragile spin emerge luxury ramp ecology";
+var mnemonic = "person gift mixed pelican remove soap gaze shuffle arrow ugly govern portion";

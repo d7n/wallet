@@ -1,1 +1,1 @@
-var mnemonic = "cabbage multiply pattern lawn inmate cabbage update gallery enter amazing rival panic";
+var mnemonic = "donor vague proud limit bonus fiscal decrease nothing sword cram stable crop";

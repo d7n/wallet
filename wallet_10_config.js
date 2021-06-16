@@ -1,1 +1,1 @@
-var mnemonic = "turtle moon fiscal trip domain language tent degree naive pitch border romance";
+var mnemonic = "despair negative timber dismiss arrive tennis devote recall social over evidence census";

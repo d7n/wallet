@@ -1,1 +1,1 @@
-var mnemonic = "together misery deposit picture reflect enjoy now siege level tired blanket excite";
+var mnemonic = "manual food fiber web solve crush cream hour album elephant rotate festival";

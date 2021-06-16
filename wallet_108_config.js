@@ -1,1 +1,1 @@
-var mnemonic = "oblige bar miss people column screen marine vacant diet lion toddler hazard";
+var mnemonic = "meadow another present frost shy plate misery hospital scene loan lemon invest";

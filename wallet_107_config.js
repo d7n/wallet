@@ -1,1 +1,1 @@
-var mnemonic = "smooth dinosaur coast public accuse grace shift assist camera crater poverty trophy";
+var mnemonic = "march fee arctic reform police gauge solar tuition taxi regular aware interest";

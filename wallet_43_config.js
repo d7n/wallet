@@ -1,1 +1,1 @@
-var mnemonic = "income pencil report grid oyster expand twelve license space two upgrade angle";
+var mnemonic = "census pioneer never lady fever extend veteran barrel unveil capable slot job";

@@ -1,1 +1,1 @@
-var mnemonic = "junk about slab imitate network ethics merit hen subject other crouch myth";
+var mnemonic = "section slight ivory sick foster current across wool arctic grace fiscal column";

@@ -1,1 +1,1 @@
-var mnemonic = "close jeans punch entire direct wink clerk snap little atom reunion pizza";
+var mnemonic = "disorder abuse tribe ranch price increase urge gas later alpha memory remember";

@@ -1,1 +1,1 @@
-var mnemonic = "rail give drama mixture beach chef shed panther melody east spin boil";
+var mnemonic = "pioneer burger this alcohol common property turtle dry early demise modify box";

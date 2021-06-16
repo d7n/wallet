@@ -1,1 +1,1 @@
-var mnemonic = "woman tiny isolate vanish error jungle impact task drop relief baby render";
+var mnemonic = "device fire rack state amateur forest auto like interest sadness gather dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "tag battle trim piece inhale fancy ozone close unfold disorder meat remove";
+var mnemonic = "false exercise dutch rebel museum list lucky brisk oblige phrase wasp merit";

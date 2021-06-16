@@ -1,1 +1,1 @@
-var mnemonic = "leisure corn term around bike people total shoot stock copper nerve execute";
+var mnemonic = "pretty laundry rhythm student hobby slam check catch door stove guilt cat";

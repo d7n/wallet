@@ -1,1 +1,1 @@
-var mnemonic = "symptom slab umbrella exist angry cotton holiday genuine glass give diagram galaxy";
+var mnemonic = "radio elegant luxury lift number suffer earth cricket slight hybrid fog obtain";

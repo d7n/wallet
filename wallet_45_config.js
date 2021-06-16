@@ -1,1 +1,1 @@
-var mnemonic = "riot spring teach hamster leaf smooth picture border earn dinosaur rich junior";
+var mnemonic = "meat skate indicate wolf dash topic horse jaguar transfer blue foam drop";

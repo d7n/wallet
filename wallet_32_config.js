@@ -1,1 +1,1 @@
-var mnemonic = "visa notice review great above bulk dream ankle wool saddle alley ivory";
+var mnemonic = "stove pottery victory elbow economy foster rough liar tobacco cute butter proof";

@@ -1,1 +1,1 @@
-var mnemonic = "earn equal sketch leaf stand unveil penalty mesh bring wasp trumpet concert";
+var mnemonic = "pave opinion today ball swing diamond arena shuffle pigeon broken lumber cinnamon";

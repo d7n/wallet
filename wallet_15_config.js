@@ -1,1 +1,1 @@
-var mnemonic = "excuse traffic follow around night glad need very slush breeze artefact cycle";
+var mnemonic = "runway since chronic below cotton pupil mansion speed advice legend mango collect";

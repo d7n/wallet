@@ -1,1 +1,1 @@
-var mnemonic = "runway filter fluid upper donkey magnet middle crowd head fiction oppose tackle";
+var mnemonic = "design upset draw wrong educate moment develop glance skin fat since island";

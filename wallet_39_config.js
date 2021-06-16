@@ -1,1 +1,1 @@
-var mnemonic = "artwork few then critic utility loud extra burden muscle hybrid more category";
+var mnemonic = "evoke smoke forget catalog basket just ankle among rebel cause rail hold";

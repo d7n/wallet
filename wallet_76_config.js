@@ -1,1 +1,1 @@
-var mnemonic = "borrow grass copper again current build change frozen judge odor ivory moral";
+var mnemonic = "prefer ranch gather original art above elegant wheat recycle input toward visa";

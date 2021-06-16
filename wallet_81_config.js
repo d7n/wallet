@@ -1,1 +1,1 @@
-var mnemonic = "pet hover shadow enjoy resource hint approve tuna chat bundle column animal";
+var mnemonic = "noble quarter castle fault abuse act zone tell strong vintage silk monkey";

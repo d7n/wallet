@@ -1,1 +1,1 @@
-var mnemonic = "ladder account vintage riot print able century police jungle document book list";
+var mnemonic = "flame name impulse slim deny later burger any coyote loyal quarter soon";

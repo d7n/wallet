@@ -1,1 +1,1 @@
-var mnemonic = "enemy name exercise marriage piece learn obscure remain pottery atom rebel puppy";
+var mnemonic = "diamond imitate squirrel better priority shove apart skirt design fox order into";

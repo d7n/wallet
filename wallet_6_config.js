@@ -1,1 +1,1 @@
-var mnemonic = "barrel only fat pumpkin cause road satisfy race antique stone property elephant";
+var mnemonic = "birth spell tenant glass detail owner pause march near misery prize penalty";

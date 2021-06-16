@@ -1,1 +1,1 @@
-var mnemonic = "diamond chaos desert holiday logic all edit spice alpha era final inner";
+var mnemonic = "use magnet recipe glide lawsuit hawk still direct isolate desk flush disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "injury genius spread transfer bitter oblige damp raw artefact public priority anchor";
+var mnemonic = "obscure coconut estate cute vibrant lizard tip diary viable sphere ring draft";

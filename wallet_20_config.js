@@ -1,1 +1,1 @@
-var mnemonic = "cradle skirt damage ensure nature smoke vacuum rare fatigue song answer term";
+var mnemonic = "essay actress before cupboard confirm divorce first arrest forward disorder citizen dinosaur";

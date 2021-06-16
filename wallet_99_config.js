@@ -1,1 +1,1 @@
-var mnemonic = "flush jump involve right leaf cereal enrich warrior fuel real turkey chimney";
+var mnemonic = "kangaroo trigger rhythm almost cart piece noodle nature energy approve sick depend";

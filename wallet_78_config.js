@@ -1,1 +1,1 @@
-var mnemonic = "weekend seed hamster repair original between try connect enforce toilet evolve vague";
+var mnemonic = "visa various miss acoustic song advice frequent letter bottom unable company wine";

@@ -1,1 +1,1 @@
-var mnemonic = "crime brave sadness sand force swing funny glow faith jealous fruit render";
+var mnemonic = "throw proof pool much picture relief tent ship disease shove then zero";

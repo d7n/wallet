@@ -1,1 +1,1 @@
-var mnemonic = "pig scout submit multiply social tag track adjust rude rough estate inner";
+var mnemonic = "dwarf orphan announce uncover roof citizen supply pattern unique draw green spray";

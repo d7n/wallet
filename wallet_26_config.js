@@ -1,1 +1,1 @@
-var mnemonic = "kit farm garment minute awful butter bike sentence acoustic region orchard fluid";
+var mnemonic = "guard peanut uncle brand area jazz dial bird battle library infant safe";

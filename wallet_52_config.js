@@ -1,1 +1,1 @@
-var mnemonic = "cube finger coil miracle home vintage valid pony amateur tribe roof giraffe";
+var mnemonic = "note cruel talk outer patient base bunker capital ski option bus body";

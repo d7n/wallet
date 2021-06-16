@@ -1,1 +1,1 @@
-var mnemonic = "benefit adjust menu party earth income version method miss embrace zero manual";
+var mnemonic = "scan fetch shrimp cycle bless save avocado inject obscure tomato fun ethics";

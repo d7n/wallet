@@ -1,1 +1,1 @@
-var mnemonic = "whale couple fiction sock bring idea slow sniff season bullet wear bless";
+var mnemonic = "behind push lunch morning omit member ride shrug choose float earth gesture";

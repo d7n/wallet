@@ -1,1 +1,1 @@
-var mnemonic = "better shine industry tail lion toy acoustic basket wasp inch over blanket";
+var mnemonic = "beauty mind history mechanic current enforce arm push seed school across market";

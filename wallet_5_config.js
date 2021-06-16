@@ -1,1 +1,1 @@
-var mnemonic = "govern effort spin void fruit excuse amateur clarify pool clutch step enter";
+var mnemonic = "local ocean alter donkey coin thunder adapt certain payment silent bench people";

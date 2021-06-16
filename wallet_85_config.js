@@ -1,1 +1,1 @@
-var mnemonic = "cash just million castle coconut thrive knee beauty garage bottom leopard degree";
+var mnemonic = "vocal truck ball clay normal alarm armed image brief hunt father urban";

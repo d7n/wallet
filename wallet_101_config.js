@@ -1,1 +1,1 @@
-var mnemonic = "dance ecology expand omit carbon mind payment reflect diesel nephew jelly carbon";
+var mnemonic = "jeans garment baby marble twin document involve jazz wrong affair toss letter";

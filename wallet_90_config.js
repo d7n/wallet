@@ -1,1 +1,1 @@
-var mnemonic = "hockey keen cattle decorate buyer arrow remind birth write damage drum winter";
+var mnemonic = "rubber fury subway mule snap calm night bacon drink web exile athlete";

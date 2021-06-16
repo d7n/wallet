@@ -1,1 +1,1 @@
-var mnemonic = "win clarify gospel nice initial often soap ghost glove anchor source resist";
+var mnemonic = "neutral other judge either pepper mirror own tag pony lounge usual example";

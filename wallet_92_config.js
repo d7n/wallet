@@ -1,1 +1,1 @@
-var mnemonic = "business fish exclude clay churn soccer cram catch vehicle merry segment real";
+var mnemonic = "van allow minimum report purity sketch piece seed bamboo move parent velvet";

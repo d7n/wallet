@@ -1,1 +1,1 @@
-var mnemonic = "tilt consider forget gap minimum radio alley sting release uncle field hurt";
+var mnemonic = "card return attack climb fruit absent mushroom trap stool trumpet miracle group";
