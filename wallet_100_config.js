@@ -1,1 +1,1 @@
-var mnemonic = "crunch pole nut author shove dress embrace duck attend reject throw bag";
+var mnemonic = "leave enrich rail enlist meat chase motion weasel cattle loyal marble creek";

@@ -1,1 +1,1 @@
-var mnemonic = "atom leader prison illegal recycle tumble use grunt soap trigger pledge spy";
+var mnemonic = "project correct circle blossom fog reflect open virus usage thank airport hand";

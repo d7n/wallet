@@ -1,1 +1,1 @@
-var mnemonic = "ankle concert season chuckle scrap divorce tooth book walnut meat jump like";
+var mnemonic = "habit hurry relief guess crime evoke charge note few acid please cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "obvious month elite engine heavy antenna chunk march entry fantasy inch submit";
+var mnemonic = "opinion deal onion melt outdoor melody draw depth salt treat wild bitter";

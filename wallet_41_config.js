@@ -1,1 +1,1 @@
-var mnemonic = "aspect anxiety spoon possible edge angry barely crystal bridge city abuse movie";
+var mnemonic = "assume tube usage become pet police find orbit sense car expect bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese rude flag tunnel floor novel have donkey mammal gift physical napkin";
+var mnemonic = "flush toilet narrow end bicycle lamp vault culture swallow old visa advice";

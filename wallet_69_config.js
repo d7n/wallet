@@ -1,1 +1,1 @@
-var mnemonic = "balance velvet congress alone bread train ritual dwarf zebra spray normal chronic";
+var mnemonic = "trust baby digital flip zero royal spoil admit atom inflict slam shock";

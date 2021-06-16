@@ -1,1 +1,1 @@
-var mnemonic = "strike embrace transfer message asthma axis urban october pulp relief scrub betray";
+var mnemonic = "enemy coin brass flame wrap hip great soda raven siege vehicle face";

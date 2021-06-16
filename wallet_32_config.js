@@ -1,1 +1,1 @@
-var mnemonic = "army raise cactus tool rescue grief chuckle fit coffee human latin offer";
+var mnemonic = "train pond invest bind veteran practice control cart glide bind final nature";

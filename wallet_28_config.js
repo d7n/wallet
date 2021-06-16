@@ -1,1 +1,1 @@
-var mnemonic = "refuse menu street provide equip spot summer atom injury major deposit quit";
+var mnemonic = "sorry mosquito parent faith nation predict public caught penalty material consider modify";

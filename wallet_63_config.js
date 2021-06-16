@@ -1,1 +1,1 @@
-var mnemonic = "medal crime settle transfer local high flavor attitude female merit yellow argue";
+var mnemonic = "asthma knife credit ostrich clarify audit explain patrol rather poem wrist spike";

@@ -1,1 +1,1 @@
-var mnemonic = "treat hold crater faith shy bracket brand lumber awful rule shiver table";
+var mnemonic = "abandon recall valley pepper impulse mercy glue point morning actor myth immense";

@@ -1,1 +1,1 @@
-var mnemonic = "toss flower absent prosper skate bird coral catalog sudden rival sorry organ";
+var mnemonic = "method tired fury special device amazing friend forget erupt crawl useful champion";

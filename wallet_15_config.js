@@ -1,1 +1,1 @@
-var mnemonic = "filter lock silk glance nephew choose hundred light race action tag apology";
+var mnemonic = "easily evidence east surprise grape ahead artwork infant glow cigar sell beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "ahead usage skin alter hospital immense planet spare torch fatal caught collect";
+var mnemonic = "unknown relief bounce endorse cotton van choice again much shoulder shrug used";

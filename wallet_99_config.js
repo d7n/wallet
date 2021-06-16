@@ -1,1 +1,1 @@
-var mnemonic = "always ghost ginger faith circle basic connect cotton timber mail surround theory";
+var mnemonic = "enter oak stove erosion color traffic age fun pause require day tackle";

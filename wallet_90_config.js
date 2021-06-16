@@ -1,1 +1,1 @@
-var mnemonic = "genius cat asset amount assault urban place dinner enter snack grace series";
+var mnemonic = "wire just print bacon behave danger curve belt embark river fee try";

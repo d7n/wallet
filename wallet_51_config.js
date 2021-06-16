@@ -1,1 +1,1 @@
-var mnemonic = "owner guard south cause express duty flame talent success globe skate pipe";
+var mnemonic = "gesture ride token immense series hope wife coil ecology mule make wink";

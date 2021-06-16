@@ -1,1 +1,1 @@
-var mnemonic = "firm time jelly kangaroo gate social neck patient whale aware reduce lock";
+var mnemonic = "way faint issue diesel change country hybrid stable quality silk brain toe";

@@ -1,1 +1,1 @@
-var mnemonic = "cup tower ice wolf mother practice bronze pig fitness spare gift harvest";
+var mnemonic = "dice hover build shock woman mango chest lyrics perfect net leopard record";

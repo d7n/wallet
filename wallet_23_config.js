@@ -1,1 +1,1 @@
-var mnemonic = "essay lesson bulb betray uphold nature wall gorilla captain goose truck humble";
+var mnemonic = "urban correct pig resist shop army that soldier federal torch wash menu";

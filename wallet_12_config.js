@@ -1,1 +1,1 @@
-var mnemonic = "move insane awkward oak wall abstract coin charge unfold siren staff canvas";
+var mnemonic = "expose bean parrot harvest cousin collect gain above exhibit alcohol will elite";

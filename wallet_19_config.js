@@ -1,1 +1,1 @@
-var mnemonic = "vicious object already nurse potato rather shock beauty battle pupil video mixture";
+var mnemonic = "mountain wrap crisp spread excess hard setup trust setup brain car certain";

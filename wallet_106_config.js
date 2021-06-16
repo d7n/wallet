@@ -1,1 +1,1 @@
-var mnemonic = "course kangaroo situate advance humble caught liberty enter pigeon twice dolphin dog";
+var mnemonic = "foot fence wing reunion popular hope isolate sword play ski arch media";

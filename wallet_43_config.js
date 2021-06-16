@@ -1,1 +1,1 @@
-var mnemonic = "cruise glimpse then marriage cake sketch script silver current inside during notice";
+var mnemonic = "enforce place control flat flush nephew soon drop ball jelly parade drill";

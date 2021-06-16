@@ -1,1 +1,1 @@
-var mnemonic = "autumn relief round design dry drum noble boat canal album kitchen kitten";
+var mnemonic = "paper shove during predict swim crucial mind bag member lazy person creek";

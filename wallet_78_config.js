@@ -1,1 +1,1 @@
-var mnemonic = "keen mass blossom kiwi amazing frown female capable call degree grocery control";
+var mnemonic = "text plastic dose alpha spy metal nominee razor capital casino wise poverty";

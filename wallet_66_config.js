@@ -1,1 +1,1 @@
-var mnemonic = "dish hard despair junk goose fall roof fog achieve race until speak";
+var mnemonic = "east toy ancient purse funny dad raven acquire cruise shoot satoshi angry";

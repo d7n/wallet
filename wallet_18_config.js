@@ -1,1 +1,1 @@
-var mnemonic = "pretty vintage asthma gravity phrase volcano mandate object lens mail exotic secret";
+var mnemonic = "frost garlic original friend section grief guard refuse whale public also cinnamon";

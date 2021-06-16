@@ -1,1 +1,1 @@
-var mnemonic = "rich bacon total purchase repair soldier window panic patient fine ginger drum";
+var mnemonic = "page all bitter tobacco motor dry off garment unknown chicken cargo ranch";

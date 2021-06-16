@@ -1,1 +1,1 @@
-var mnemonic = "friend urge exercise option cream hero payment flip chaos north still flame";
+var mnemonic = "twenty minute foster question suit symbol inherit impact rib myself lemon meadow";

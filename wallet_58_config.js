@@ -1,1 +1,1 @@
-var mnemonic = "curtain trust spend interest cliff cradle wisdom decline cart hunt minimum hour";
+var mnemonic = "daughter siege swim tag garage describe token blue apology fix trust crouch";

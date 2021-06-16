@@ -1,1 +1,1 @@
-var mnemonic = "level uniform library edit brown renew search deer piece subway between cause";
+var mnemonic = "mosquito fuel just sustain sibling tail apart section movie shield usage siren";

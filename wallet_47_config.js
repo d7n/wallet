@@ -1,1 +1,1 @@
-var mnemonic = "stock exhaust village push exotic waste cheese sunny hungry trouble sniff educate";
+var mnemonic = "soldier glimpse resist broccoli picture siege lift call liquid manage taste moment";

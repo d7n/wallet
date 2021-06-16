@@ -1,1 +1,1 @@
-var mnemonic = "course harbor force scare jump air empty blush this situate mechanic royal";
+var mnemonic = "action great middle again invest shine ship shy add brother umbrella deposit";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn fortune outer skull cup direct rug month ski address near relief";
+var mnemonic = "critic zoo sphere strategy truck mention allow video empty switch fatal victory";

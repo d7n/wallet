@@ -1,1 +1,1 @@
-var mnemonic = "trim price mass dentist equip dream coral brush blue tissue balance panel";
+var mnemonic = "where female donor skirt solution person elegant project grace depth music corn";

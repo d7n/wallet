@@ -1,1 +1,1 @@
-var mnemonic = "tragic trust size cause enter enroll topic famous crisp violin involve avocado";
+var mnemonic = "ecology glad dance now service grid police scale sketch endorse message plastic";

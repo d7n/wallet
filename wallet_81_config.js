@@ -1,1 +1,1 @@
-var mnemonic = "crash ghost empty talent sleep inflict pipe nothing mercy move document south";
+var mnemonic = "hollow heart taste virtual bike pretty vessel forget destroy acid loop bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "turn keen west mesh peasant silk south panda scrap soap husband among";
+var mnemonic = "local tumble differ layer mercy wave mosquito expose keen script lake welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "belt oval box early total cover kid unfold torch gloom exist angry";
+var mnemonic = "spy swim feed debate buzz leave address coffee obvious sail foot spoon";

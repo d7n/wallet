@@ -1,1 +1,1 @@
-var mnemonic = "approve wide allow design midnight rally valley attitude luxury grace fortune mango";
+var mnemonic = "vocal buzz today life what oxygen silent wood tilt crash decorate enrich";

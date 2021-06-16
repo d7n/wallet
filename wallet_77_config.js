@@ -1,1 +1,1 @@
-var mnemonic = "draft save fitness mixed pelican castle scare mask bridge zebra fork option";
+var mnemonic = "mystery elevator weather cancel lizard vacant strategy ahead hero slab finger cat";

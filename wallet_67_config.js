@@ -1,1 +1,1 @@
-var mnemonic = "garment tribe stove drop iron warm motor dumb about winner vital cross";
+var mnemonic = "charge prison romance draw bulb goat robot route hard absorb olympic illegal";

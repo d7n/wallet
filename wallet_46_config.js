@@ -1,1 +1,1 @@
-var mnemonic = "dad early recipe spin smooth oil essay top summer outer vast clip";
+var mnemonic = "charge spin tomato tuition choose gloom bomb clip burger snow vital skill";

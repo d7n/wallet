@@ -1,1 +1,1 @@
-var mnemonic = "slogan cloud ship enable cart summer pass phone jump twist bless want";
+var mnemonic = "erase sadness buddy ostrich path fantasy valid hazard knee adapt ethics run";

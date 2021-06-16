@@ -1,1 +1,1 @@
-var mnemonic = "kingdom police hub achieve faculty leisure little basket liar sadness aunt abuse";
+var mnemonic = "angry stumble echo group ice mother warfare educate shuffle auto metal demise";

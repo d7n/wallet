@@ -1,1 +1,1 @@
-var mnemonic = "curious column arctic afraid bubble pact sport item soul tiger deny surprise";
+var mnemonic = "organ abandon hand agent risk ginger carpet oak cannon man flee shock";

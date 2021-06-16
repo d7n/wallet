@@ -1,1 +1,1 @@
-var mnemonic = "agree glide resemble try okay someone pipe thumb manage eager super kiwi";
+var mnemonic = "decade chair copy scheme cart wing crash quality brisk true aisle fix";

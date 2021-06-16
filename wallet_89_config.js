@@ -1,1 +1,1 @@
-var mnemonic = "soul cigar chest twin afford life custom deputy drive giraffe obvious follow";
+var mnemonic = "arena rocket poverty average topple race middle gift pluck flame deer trouble";

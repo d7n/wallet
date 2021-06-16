@@ -1,1 +1,1 @@
-var mnemonic = "sugar pipe bird surge bus doll child car reflect clinic trade quiz";
+var mnemonic = "damage volume add nurse violin citizen dawn advance scare office member daring";

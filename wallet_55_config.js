@@ -1,1 +1,1 @@
-var mnemonic = "capable sponsor escape bottom quick unique size push symbol labor neglect culture";
+var mnemonic = "rely return twin shoulder tree right fringe scorpion crane either sort crack";

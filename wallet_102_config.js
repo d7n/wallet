@@ -1,1 +1,1 @@
-var mnemonic = "surge carbon lava chef roof apology theme move enable warm fan measure";
+var mnemonic = "when left wish object glue special program vibrant know twice hotel melt";

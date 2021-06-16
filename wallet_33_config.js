@@ -1,1 +1,1 @@
-var mnemonic = "element alcohol sport mango weasel upper lonely real sentence endorse escape flat";
+var mnemonic = "ritual excuse peace carbon match potato wire reject hover modify kid outside";

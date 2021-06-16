@@ -1,1 +1,1 @@
-var mnemonic = "cereal couple differ office library other sort jump fetch tree always general";
+var mnemonic = "siege endless arena chief source evidence victory flat forest enroll cricket have";

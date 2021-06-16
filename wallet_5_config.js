@@ -1,1 +1,1 @@
-var mnemonic = "please tree cradle sight review census patient outside bag salmon summer sun";
+var mnemonic = "damage powder spider dragon minute walnut stairs delay shoulder barely dust forward";

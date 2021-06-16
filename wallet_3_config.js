@@ -1,1 +1,1 @@
-var mnemonic = "now cycle festival satisfy rug welcome rigid wedding during brave depart man";
+var mnemonic = "online lady recipe solid require audit scorpion elevator mango fabric pair thrive";

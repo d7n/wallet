@@ -1,1 +1,1 @@
-var mnemonic = "forest flee detect grant garment media fancy news lab access kite dish";
+var mnemonic = "tortoise dose cart ticket giraffe devote axis hire there comic beyond pink";

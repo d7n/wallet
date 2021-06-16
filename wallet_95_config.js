@@ -1,1 +1,1 @@
-var mnemonic = "cement intact economy depth able board clutch rug raise region desert guard";
+var mnemonic = "tourist mercy neck prize total scene alcohol twist wisdom token social client";

@@ -1,1 +1,1 @@
-var mnemonic = "above glory unhappy jar destroy receive buddy wasp sure hood session shove";
+var mnemonic = "early maximum traffic symbol cheese labor jeans soldier fiber unique confirm water";

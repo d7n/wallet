@@ -1,1 +1,1 @@
-var mnemonic = "unhappy pact concert dirt canoe gallery firm clarify chest problem border lunar";
+var mnemonic = "hair note bleak cancel there viable false era drill balcony lucky gallery";

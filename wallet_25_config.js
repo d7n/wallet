@@ -1,1 +1,1 @@
-var mnemonic = "hobby fashion swim pulp trouble olive cloud cart worth spare web hybrid";
+var mnemonic = "pulse coffee fashion crew taxi much empower conduct occur vault affair either";

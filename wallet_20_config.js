@@ -1,1 +1,1 @@
-var mnemonic = "home north original federal salmon feature neither nothing elegant sausage run famous";
+var mnemonic = "page high buffalo climb banana peanut wool alter palm upon dawn stomach";

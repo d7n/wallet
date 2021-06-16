@@ -1,1 +1,1 @@
-var mnemonic = "inmate ramp curious month slam method burst talk first ensure accident day";
+var mnemonic = "deputy census involve opera obvious copy abstract before help lion limit frequent";

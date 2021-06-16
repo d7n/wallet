@@ -1,1 +1,1 @@
-var mnemonic = "tree general cheese merit edit aunt prevent federal fox menu indicate salad";
+var mnemonic = "damage moon achieve original science debate outdoor number engine hockey device accuse";

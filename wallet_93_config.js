@@ -1,1 +1,1 @@
-var mnemonic = "antenna reform dutch blind celery screen mixture remember silver clap weapon virus";
+var mnemonic = "before magnet rose seed fiscal leisure knock silver six junior source field";

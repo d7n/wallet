@@ -1,1 +1,1 @@
-var mnemonic = "shove attend scare save fish drama coyote report rescue steel orbit mystery";
+var mnemonic = "matrix uncover glance rapid blossom audit risk bid radio sausage bicycle twice";

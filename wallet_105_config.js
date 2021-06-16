@@ -1,1 +1,1 @@
-var mnemonic = "symptom used bubble home edit weekend number rebuild owner legal ladder hover";
+var mnemonic = "unfair planet bronze cigar spawn dilemma bar pencil mansion wrestle resource inhale";

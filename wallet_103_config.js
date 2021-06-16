@@ -1,1 +1,1 @@
-var mnemonic = "trap country elephant crystal shoulder canoe siege little often mobile library lawsuit";
+var mnemonic = "virtual assume wood school define gallery level girl price donor ancient acquire";

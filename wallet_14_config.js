@@ -1,1 +1,1 @@
-var mnemonic = "fade kid miracle put virtual shuffle sunset apple usual century suit mushroom";
+var mnemonic = "prosper settle siege change carry garlic sample notice advance library explain erupt";

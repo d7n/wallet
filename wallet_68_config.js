@@ -1,1 +1,1 @@
-var mnemonic = "salt spray siren bridge carry tornado pelican nuclear lake region will come";
+var mnemonic = "allow fancy discover shoulder inflict nation engine fruit heart fitness test rib";

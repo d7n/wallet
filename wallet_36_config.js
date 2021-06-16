@@ -1,1 +1,1 @@
-var mnemonic = "roof liquid hole place snow negative toss sausage exotic midnight receive hole";
+var mnemonic = "coin catch filter civil flower crack shadow flame silver major depth okay";

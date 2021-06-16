@@ -1,1 +1,1 @@
-var mnemonic = "guide strike ball kick catalog midnight crouch march offer save lottery target";
+var mnemonic = "decide recall blame palace differ cushion able cream accuse oil fish cherry";

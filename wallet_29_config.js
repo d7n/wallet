@@ -1,1 +1,1 @@
-var mnemonic = "green derive gesture vague marble unfold obvious into broccoli note wealth vacuum";
+var mnemonic = "amazing depth rude curious mercy real tone busy kit wet find pumpkin";

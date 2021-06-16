@@ -1,1 +1,1 @@
-var mnemonic = "mom disease lamp model lady acquire enact switch donor ill visa patient";
+var mnemonic = "dynamic cable dress rely glare float day snap oven ritual other vague";

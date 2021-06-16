@@ -1,1 +1,1 @@
-var mnemonic = "winter slide fault equip muffin wide novel kick fatigue tray spike resemble";
+var mnemonic = "boost assume rough guilt gather orient cancel bitter rally north water crowd";

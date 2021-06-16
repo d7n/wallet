@@ -1,1 +1,1 @@
-var mnemonic = "junior draft celery melody exist outer elephant digital legal cactus cherry dune";
+var mnemonic = "auction salad drama trap pizza arch witness icon device govern zebra assist";

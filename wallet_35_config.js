@@ -1,1 +1,1 @@
-var mnemonic = "ridge text rug print video fame fun shine scene frost lonely control";
+var mnemonic = "funny leave army climb scale cherry mechanic ankle monster unknown kick vessel";

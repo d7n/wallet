@@ -1,1 +1,1 @@
-var mnemonic = "clutch east relax whip husband focus wolf clinic seat warrior fantasy indoor";
+var mnemonic = "dog ostrich foot avoid powder owner column shine rocket network enhance garden";

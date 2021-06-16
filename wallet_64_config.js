@@ -1,1 +1,1 @@
-var mnemonic = "have area afraid filter quantum pact caught effort girl solve render perfect";
+var mnemonic = "bean replace patrol slam unhappy cruel marble author box announce funny swarm";

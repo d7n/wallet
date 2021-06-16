@@ -1,1 +1,1 @@
-var mnemonic = "ceiling man notice pottery idea margin there ready minute shift taste chest";
+var mnemonic = "method present gas focus hair razor hunt nothing pull hood fragile decrease";

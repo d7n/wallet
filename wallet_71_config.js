@@ -1,1 +1,1 @@
-var mnemonic = "impact ketchup doll cattle wreck ski flash blade quick doll cheap sketch";
+var mnemonic = "wine marine turtle fog tent girl pottery tower obvious edge hurdle search";

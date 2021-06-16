@@ -1,1 +1,1 @@
-var mnemonic = "robot coil mutual digital permit spend village error side floor sure forum";
+var mnemonic = "sunny divide volume occur crystal allow glove journey useless about craft fork";

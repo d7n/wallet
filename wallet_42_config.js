@@ -1,1 +1,1 @@
-var mnemonic = "student staff mosquito fun calm process book prepare please remain oven void";
+var mnemonic = "tonight dry enrich screen invest music destroy vehicle arena candy bonus pill";

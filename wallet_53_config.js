@@ -1,1 +1,1 @@
-var mnemonic = "judge access slender great bubble avocado average warrior hidden coyote gallery basket";
+var mnemonic = "enjoy envelope bind slogan during ivory prefer strike half hope model rate";

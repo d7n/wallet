@@ -1,1 +1,1 @@
-var mnemonic = "decorate bridge reunion sudden ability amateur music dice bachelor naive ten silver";
+var mnemonic = "hidden matrix trust despair ostrich sheriff hollow must congress knee point used";

@@ -1,1 +1,1 @@
-var mnemonic = "cat argue hover educate insect almost weird control oblige chronic accuse program";
+var mnemonic = "false travel shell nice lunch foster swim imitate throw annual phrase fragile";

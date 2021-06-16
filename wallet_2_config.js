@@ -1,1 +1,1 @@
-var mnemonic = "path dial economy sausage camera lumber chimney aunt brief choose napkin sponsor";
+var mnemonic = "enrich fortune slide ability picnic sort art reform cargo mass suffer fire";

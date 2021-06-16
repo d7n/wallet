@@ -1,1 +1,1 @@
-var mnemonic = "agree answer vault idea double spring raccoon path awake supreme mirror solve";
+var mnemonic = "nasty venture pink angle twist awesome essence idea toss pipe seek noble";
