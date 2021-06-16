@@ -1,1 +1,1 @@
-var mnemonic = "become apple injury tell shield door hair jungle also tail glare ability";
+var mnemonic = "hurt cart joke diet treat lawsuit shed venue ahead true dress broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "more retire ramp where noise trick moment fence connect barrel blanket top";
+var mnemonic = "resemble outside camera fortune horse torch sell traffic master satisfy silver can";

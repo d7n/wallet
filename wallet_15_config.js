@@ -1,1 +1,1 @@
-var mnemonic = "angle shrimp top exist daring symbol blue scale card owner obey grape";
+var mnemonic = "imitate zoo toss idea expose aim attitude man derive east shy nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "tool arch bike maximum liar jungle spider charge push devote outer frozen";
+var mnemonic = "lecture warfare often satisfy okay common build olympic nut fiscal peace valve";

@@ -1,1 +1,1 @@
-var mnemonic = "expect blue promote favorite pet arm enrich social sponsor mango trap steel";
+var mnemonic = "inherit victory enrich couch feel can myth want valley lens defy find";

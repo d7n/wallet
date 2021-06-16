@@ -1,1 +1,1 @@
-var mnemonic = "metal multiply language donate kind loyal kind napkin divert junior flee rich";
+var mnemonic = "select judge chicken grid shrug ability away begin number rough pumpkin wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "drink shoot polar corn pulp never target physical dad smile dog magic";
+var mnemonic = "pudding empower attract lend oppose stamp rely camp toddler dash baby expand";

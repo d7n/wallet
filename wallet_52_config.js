@@ -1,1 +1,1 @@
-var mnemonic = "broken laundry spider melody vanish quiz soap correct develop convince trim awful";
+var mnemonic = "cost collect tribe seek success stomach abandon reform reopen crisp myth cancel";

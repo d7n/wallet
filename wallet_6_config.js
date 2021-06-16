@@ -1,1 +1,1 @@
-var mnemonic = "unique merit direct drip drill drift sniff box ceiling wood sell market";
+var mnemonic = "same nothing brass blame scan drop mesh taxi taxi roof hidden senior";

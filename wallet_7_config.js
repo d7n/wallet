@@ -1,1 +1,1 @@
-var mnemonic = "number champion warm brown capital kidney tuition pistol skill perfect crater metal";
+var mnemonic = "rescue course true topple shop table vault assault key few flight aerobic";

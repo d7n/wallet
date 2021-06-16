@@ -1,1 +1,1 @@
-var mnemonic = "crane ribbon ripple robust water elbow learn belt toss surround stove brave";
+var mnemonic = "badge trash habit ice quick morning castle echo false swear garbage remind";

@@ -1,1 +1,1 @@
-var mnemonic = "height junior clutch leg other honey used clown bridge bottom member cruise";
+var mnemonic = "bundle piano inject siren embark about need finger dutch marble grocery virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "file elegant upset rough glad layer pretty flavor depth milk monkey galaxy";
+var mnemonic = "celery feature when fine fee spoil balcony trumpet together sort try obvious";

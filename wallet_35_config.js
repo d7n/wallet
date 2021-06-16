@@ -1,1 +1,1 @@
-var mnemonic = "divert trick catalog sand immune foot cute auto dream picture puppy between";
+var mnemonic = "hockey board any entire again report recycle series sudden chat yard plate";

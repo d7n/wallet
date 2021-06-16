@@ -1,1 +1,1 @@
-var mnemonic = "squirrel gasp model velvet birth area accuse bracket estate matrix cream usual";
+var mnemonic = "quarter someone gym unknown sort bitter weasel pretty innocent close code ticket";

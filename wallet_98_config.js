@@ -1,1 +1,1 @@
-var mnemonic = "fancy theory avoid dress honey side winner aware disagree frame pudding security";
+var mnemonic = "tribe someone basket shell choice exotic convince until peasant amazing brand eagle";

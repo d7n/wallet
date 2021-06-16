@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog push seat slender room job swarm speak ship kangaroo moment bunker";
+var mnemonic = "wave creek mandate paper tragic sorry egg ordinary firm manual connect sadness";

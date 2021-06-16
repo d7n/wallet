@@ -1,1 +1,1 @@
-var mnemonic = "thumb cage bar priority miracle maze envelope visual strike select enough uphold";
+var mnemonic = "distance card broom foam economy network auto kit wasp stereo achieve beauty";

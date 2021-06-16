@@ -1,1 +1,1 @@
-var mnemonic = "acoustic mandate hair vast defense cloth fringe slide enroll awful real crouch";
+var mnemonic = "shed raven carry tube orient giant paper pony flat caution wave either";

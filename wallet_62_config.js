@@ -1,1 +1,1 @@
-var mnemonic = "taxi turn vanish phone knee home phrase artefact balcony twenty banana spawn";
+var mnemonic = "decline lunch clutch piano asset drum friend license bamboo traffic tomorrow gaze";

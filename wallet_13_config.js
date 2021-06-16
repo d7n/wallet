@@ -1,1 +1,1 @@
-var mnemonic = "firm mimic tape keen rare agent genre curtain brass ability plunge scout";
+var mnemonic = "venue mix tortoise marble art million weird family fitness sentence custom jump";

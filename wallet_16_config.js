@@ -1,1 +1,1 @@
-var mnemonic = "pool gate matrix clever betray effort wine cinnamon viable arctic limb fantasy";
+var mnemonic = "review erupt uphold gallery today poverty census hurry hard dizzy concert window";

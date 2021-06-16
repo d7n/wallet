@@ -1,1 +1,1 @@
-var mnemonic = "rely unveil tackle tobacco click observe drink ill life asset jump shy";
+var mnemonic = "meat embrace unfold speak charge radar hospital own unknown length surprise banner";

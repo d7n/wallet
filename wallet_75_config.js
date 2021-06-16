@@ -1,1 +1,1 @@
-var mnemonic = "copy resemble cotton case cup melt divorce notable post grief announce milk";
+var mnemonic = "human autumn canvas draft strike vacuum consider front dragon gadget taxi envelope";

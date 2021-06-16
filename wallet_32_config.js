@@ -1,1 +1,1 @@
-var mnemonic = "disorder since position pulp tired leisure brush innocent cement nest fresh fatal";
+var mnemonic = "fatal village decrease material crumble elder kind napkin subway smart chuckle empower";

@@ -1,1 +1,1 @@
-var mnemonic = "bring peanut bean roof fortune promote breeze pizza amazing actor minimum crucial";
+var mnemonic = "slogan toast hen kit habit hope power velvet sustain tube lady cereal";

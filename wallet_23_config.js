@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog use sun rain tobacco bird dinosaur charge combine seed donate shoe";
+var mnemonic = "throw common absent ceiling guess jaguar adult bless broccoli vicious issue bargain";

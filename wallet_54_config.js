@@ -1,1 +1,1 @@
-var mnemonic = "adult please man notable crucial bench pilot spot ice palm butter mix";
+var mnemonic = "choice holiday old crime lawn beyond atom blur joke maple finish only";

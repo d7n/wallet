@@ -1,1 +1,1 @@
-var mnemonic = "squirrel river water gentle engage dish void human virtual vivid artefact useful";
+var mnemonic = "ability chief cup liar idea cotton street retreat person powder educate orphan";

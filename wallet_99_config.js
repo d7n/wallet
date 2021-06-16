@@ -1,1 +1,1 @@
-var mnemonic = "brisk question fault execute emotion lunch happy laptop brass man lemon knock";
+var mnemonic = "absorb flush grant evolve alone sudden lesson valve simple kind lyrics tunnel";

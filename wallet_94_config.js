@@ -1,1 +1,1 @@
-var mnemonic = "neglect fitness dawn month prefer camp churn beauty park ski bid sentence";
+var mnemonic = "clinic wide embark ladder uncover swing stage vicious armor one convince town";

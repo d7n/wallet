@@ -1,1 +1,1 @@
-var mnemonic = "lion iron sense pull disorder omit ahead update actress marriage mix can";
+var mnemonic = "detail pledge affair radio concert select twelve drama scorpion nasty erosion junior";

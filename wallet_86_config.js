@@ -1,1 +1,1 @@
-var mnemonic = "remember quote smooth end pledge quality nephew weapon fix hundred sketch rack";
+var mnemonic = "cluster news square crime party mixture arena treat kit ceiling correct blossom";

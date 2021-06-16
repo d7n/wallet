@@ -1,1 +1,1 @@
-var mnemonic = "say salmon ketchup arena scene barrel manage face feed come nuclear donate";
+var mnemonic = "blush enjoy million front buyer cup tortoise south drift tongue spider reunion";

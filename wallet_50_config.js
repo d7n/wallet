@@ -1,1 +1,1 @@
-var mnemonic = "increase blur coyote engine economy hurdle motor transfer term flower muscle again";
+var mnemonic = "tenant draw silk buzz fox decide reduce leopard merge divert heart window";

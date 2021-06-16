@@ -1,1 +1,1 @@
-var mnemonic = "stem buzz toddler elbow inspire angle country boss pioneer frost biology river";
+var mnemonic = "snack orchard motion vote caution image access false before latin border ghost";

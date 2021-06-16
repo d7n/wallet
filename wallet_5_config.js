@@ -1,1 +1,1 @@
-var mnemonic = "arm dream old vote purchase call buffalo right clutch like busy afraid";
+var mnemonic = "label habit praise vacant unaware oil trim use network oppose pond toss";

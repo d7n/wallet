@@ -1,1 +1,1 @@
-var mnemonic = "voice armed vital winner phrase prevent acquire lonely skate sell exotic often";
+var mnemonic = "resource salon hammer merge video satisfy live unaware pull soul tape hurry";

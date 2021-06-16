@@ -1,1 +1,1 @@
-var mnemonic = "cable desert elite orange bunker runway truth hurdle reject topic tortoise foster";
+var mnemonic = "health dash truth arena dawn burst mesh beauty holiday orient plastic trap";

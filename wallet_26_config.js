@@ -1,1 +1,1 @@
-var mnemonic = "arrive hunt detail actual reduce convince renew razor stadium credit urge skill";
+var mnemonic = "science sniff issue truck waste parrot release legend phone expose federal fog";

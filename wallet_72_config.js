@@ -1,1 +1,1 @@
-var mnemonic = "define stool razor proud tenant invite dutch urban ostrich rhythm deny again";
+var mnemonic = "chief monster cargo afford employ manage pair sick practice child below that";

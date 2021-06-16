@@ -1,1 +1,1 @@
-var mnemonic = "chair transfer width marriage share talk chair youth tide omit barrel dragon";
+var mnemonic = "island draw bread mirror color fever daring actual detect seed robot coast";

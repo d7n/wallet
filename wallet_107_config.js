@@ -1,1 +1,1 @@
-var mnemonic = "happy screen degree motor across sudden vivid under design joy cheap cliff";
+var mnemonic = "pass unable museum neutral elbow shadow addict banana soap tomorrow tuna paper";

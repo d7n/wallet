@@ -1,1 +1,1 @@
-var mnemonic = "salad power regular subway stage unique head supply example copper hamster link";
+var mnemonic = "tackle clerk future pizza seminar kid develop print squirrel dignity unknown rocket";

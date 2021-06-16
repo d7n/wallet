@@ -1,1 +1,1 @@
-var mnemonic = "toss isolate ship bonus unfold rib clog assist combine marine ecology fall";
+var mnemonic = "trumpet silver rely hard swing deposit age bike case parent argue radar";

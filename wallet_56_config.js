@@ -1,1 +1,1 @@
-var mnemonic = "adjust month witness return boss tree spoon improve denial auto sheriff cream";
+var mnemonic = "video warrior little despair kitchen stay hawk december hamster train burden render";

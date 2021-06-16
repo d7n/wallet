@@ -1,1 +1,1 @@
-var mnemonic = "yard hobby melody chuckle winner width frame swift vapor fluid dolphin typical";
+var mnemonic = "capital enough sausage deny ivory spring leader initial ostrich tent measure drip";

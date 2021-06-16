@@ -1,1 +1,1 @@
-var mnemonic = "ritual shoe loan rail day buddy save spray laundry utility happy ramp";
+var mnemonic = "behind galaxy that blood dawn noodle empower atom pumpkin food about save";

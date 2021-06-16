@@ -1,1 +1,1 @@
-var mnemonic = "train task guide ritual romance risk song slide better grow doll mobile";
+var mnemonic = "mango garage south fresh ivory sentence simple december ice treat arm emotion";

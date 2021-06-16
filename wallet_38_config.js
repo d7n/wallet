@@ -1,1 +1,1 @@
-var mnemonic = "sibling flush affair volume sad dismiss ceiling canoe latin device select garbage";
+var mnemonic = "glad summer flight drum unveil cliff retire define detail cricket found purse";

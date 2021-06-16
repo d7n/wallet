@@ -1,1 +1,1 @@
-var mnemonic = "census oven coral weekend asthma blind depart shallow jungle dust small doctor";
+var mnemonic = "actress copy parade ability ladder clip pink orphan behind moment abandon bird";

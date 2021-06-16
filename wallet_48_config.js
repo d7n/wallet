@@ -1,1 +1,1 @@
-var mnemonic = "collect various occur disorder giggle oval wild patch survey chicken hospital enough";
+var mnemonic = "slogan shove comic ecology stem rival air verify pigeon run width silly";

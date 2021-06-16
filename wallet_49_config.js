@@ -1,1 +1,1 @@
-var mnemonic = "mind cross motion joke bundle color prefer shrug sleep huge upgrade phone";
+var mnemonic = "panda stereo accident biology consider universe antique note energy maze february open";

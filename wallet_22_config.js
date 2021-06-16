@@ -1,1 +1,1 @@
-var mnemonic = "siren icon solution envelope protect latin glimpse major tenant rule vault exact";
+var mnemonic = "crash zone company mouse adult neck upon coyote decrease marriage swarm reason";

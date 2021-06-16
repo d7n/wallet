@@ -1,1 +1,1 @@
-var mnemonic = "because deputy sun pretty record average toe tent skill lunar crane enforce";
+var mnemonic = "salt pilot lounge cotton appear hybrid duck cart predict jewel require label";

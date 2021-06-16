@@ -1,1 +1,1 @@
-var mnemonic = "remain monitor december very explain witness autumn make razor obtain quality simple";
+var mnemonic = "home slight gospel aisle shed casino pole lava holiday cause way jeans";

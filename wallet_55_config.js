@@ -1,1 +1,1 @@
-var mnemonic = "believe this motor duty train find situate silver rubber tag muscle wash";
+var mnemonic = "asset flower gossip rude embark receive use despair lady reveal voyage satoshi";

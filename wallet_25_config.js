@@ -1,1 +1,1 @@
-var mnemonic = "economy pottery old twin dynamic produce ginger advance clock hold doll solar";
+var mnemonic = "deer junk super blanket vivid window render voyage dust rich vivid below";

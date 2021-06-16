@@ -1,1 +1,1 @@
-var mnemonic = "replace federal always limit stable forward quote east equip rival power across";
+var mnemonic = "saddle relax stand powder domain million stool artist possible reveal mountain sleep";

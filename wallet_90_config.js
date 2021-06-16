@@ -1,1 +1,1 @@
-var mnemonic = "august try rail quantum surround winner fence resource minor shaft best unlock";
+var mnemonic = "festival erode pole deny pudding label essence kangaroo solve border fuel auto";

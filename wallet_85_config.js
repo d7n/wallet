@@ -1,1 +1,1 @@
-var mnemonic = "sort inherit injury addict romance erase grape disorder vacant aerobic topic wonder";
+var mnemonic = "bind outer traffic skin ball column joke miss fish narrow attack broom";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt advice harbor move rude kid easily shock game leader chief escape";
+var mnemonic = "fault hat afford stand midnight thing tonight view until else awful light";

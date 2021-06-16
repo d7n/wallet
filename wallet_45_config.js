@@ -1,1 +1,1 @@
-var mnemonic = "ensure amazing annual student audit barrel practice echo left make mind cloth";
+var mnemonic = "grass round copy someone dash side sentence typical danger portion security green";

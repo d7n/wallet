@@ -1,1 +1,1 @@
-var mnemonic = "pyramid field now oak ostrich evolve assume float glide kick muscle trigger";
+var mnemonic = "general slush ridge solve wrist october slogan monkey envelope course parent mushroom";

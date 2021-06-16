@@ -1,1 +1,1 @@
-var mnemonic = "grape village fall rabbit announce bronze mechanic boost taste history vehicle yard";
+var mnemonic = "erase erosion enable empower boost grocery trophy flee bulb agree reflect section";

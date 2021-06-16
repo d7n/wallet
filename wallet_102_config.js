@@ -1,1 +1,1 @@
-var mnemonic = "point idle brave road fame waste right begin ankle prepare priority tennis";
+var mnemonic = "cycle breeze warfare soap head have raccoon vivid hair skull rack much";

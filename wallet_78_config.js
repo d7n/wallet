@@ -1,1 +1,1 @@
-var mnemonic = "sudden forum sport menu jacket hold milk notable sunny exist shoe fine";
+var mnemonic = "warm quiz flock audit ladder spy merry phrase seed sell salad sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "liar sample coral excess answer actor kidney above mandate stomach angle shop";
+var mnemonic = "table clap lawsuit duck warfare piano predict cycle inside slim suffer loyal";

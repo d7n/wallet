@@ -1,1 +1,1 @@
-var mnemonic = "jazz normal fantasy tell seek tank session gap garden medal fringe debate";
+var mnemonic = "grow jump inject garbage movie across about order anxiety tape surge second";

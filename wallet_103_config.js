@@ -1,1 +1,1 @@
-var mnemonic = "depart apple shed ability dad effort measure alert spoon about artwork cable";
+var mnemonic = "gallery wreck wave cliff hire rely coin frost innocent pitch wedding hammer";

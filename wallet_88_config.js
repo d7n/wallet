@@ -1,1 +1,1 @@
-var mnemonic = "athlete curtain else possible spider social squirrel wedding host glide coach live";
+var mnemonic = "wing athlete transfer shrug upgrade air raise dentist disorder roof taste deputy";

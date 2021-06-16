@@ -1,1 +1,1 @@
-var mnemonic = "enact wheat legal fiber fox animal direct copy ozone evoke drip robot";
+var mnemonic = "transfer salt egg crawl finish ancient nothing zoo tobacco lava angry cupboard";

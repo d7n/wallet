@@ -1,1 +1,1 @@
-var mnemonic = "enact sight rural original maximum camp ridge whale meadow access umbrella ripple";
+var mnemonic = "utility december sphere betray patient evoke excite side page sell gift rule";

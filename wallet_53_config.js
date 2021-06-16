@@ -1,1 +1,1 @@
-var mnemonic = "sun genuine used battle buffalo girl extend oyster cloud found person stem";
+var mnemonic = "match aspect crisp neutral adult suspect circle gas famous tunnel purpose note";

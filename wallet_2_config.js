@@ -1,1 +1,1 @@
-var mnemonic = "travel similar rice select recall tool scrap stock story dry spray cream";
+var mnemonic = "tree veteran coil symptom spatial blush video curve dish disagree sunset enjoy";

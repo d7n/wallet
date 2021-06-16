@@ -1,1 +1,1 @@
-var mnemonic = "age two stand sunny sing anxiety use strategy maze island pride census";
+var mnemonic = "aunt remember coil fall tool blossom erase cruel tone elbow garbage grape";

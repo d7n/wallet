@@ -1,1 +1,1 @@
-var mnemonic = "cotton decrease brain advice repair hard chapter chronic praise skill fun liar";
+var mnemonic = "vintage design asthma elegant expose east explain solid immense beyond method hover";

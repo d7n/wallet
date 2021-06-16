@@ -1,1 +1,1 @@
-var mnemonic = "strike picture beach guide help pitch mansion position stick program video border";
+var mnemonic = "melt wool hurdle discover egg appear situate album drive battle warrior blanket";

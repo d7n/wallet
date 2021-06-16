@@ -1,1 +1,1 @@
-var mnemonic = "budget legal alarm mouse exit snow enough update near crisp decorate north";
+var mnemonic = "brave flash alley immense cabbage winter breeze course agree distance receive sad";

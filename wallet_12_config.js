@@ -1,1 +1,1 @@
-var mnemonic = "runway breeze two planet lab order identify badge leisure cream hawk snack";
+var mnemonic = "forum topple mistake fitness grain country unusual iron grace onion tilt shine";

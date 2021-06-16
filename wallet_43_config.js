@@ -1,1 +1,1 @@
-var mnemonic = "visa same west forward reject iron unknown monitor dynamic sister dad turkey";
+var mnemonic = "series vibrant portion horse team diagram erupt page settle flight giant general";

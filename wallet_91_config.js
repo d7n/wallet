@@ -1,1 +1,1 @@
-var mnemonic = "smile wink brief napkin board lend rough fame worth present dress matrix";
+var mnemonic = "light edit chronic tissue dog reward slot nut chicken lens work tank";

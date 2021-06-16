@@ -1,1 +1,1 @@
-var mnemonic = "execute excess joke coyote coast just sunny shuffle style undo park solution";
+var mnemonic = "scrap tiger rabbit asthma prosper thrive chase music boil dignity hazard orient";

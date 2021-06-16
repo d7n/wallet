@@ -1,1 +1,1 @@
-var mnemonic = "mention urban enter oxygen century eyebrow scissors okay normal regular pottery peace";
+var mnemonic = "tip opera file recipe hidden picture west come purchase silver arrow number";

@@ -1,1 +1,1 @@
-var mnemonic = "atom fruit mosquito now car attract dolphin friend echo other admit cactus";
+var mnemonic = "enter tongue number window quick bar goose lake spread absurd owner limit";

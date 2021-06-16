@@ -1,1 +1,1 @@
-var mnemonic = "physical pitch force blur ski nut current multiply smart rug forest bomb";
+var mnemonic = "twelve mountain neutral trash welcome type quit beef man bulb one sting";

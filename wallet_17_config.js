@@ -1,1 +1,1 @@
-var mnemonic = "phrase umbrella dynamic dust fragile notice humble taste obvious tray wreck lab";
+var mnemonic = "problem build patient primary glove item rain off extra teach slim agree";

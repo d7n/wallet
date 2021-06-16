@@ -1,1 +1,1 @@
-var mnemonic = "awake season edge camp piano figure poverty kingdom catch image argue belt";
+var mnemonic = "defy view essence slice gentle leader protect enough power forward hobby artefact";

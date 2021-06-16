@@ -1,1 +1,1 @@
-var mnemonic = "power clog click giggle valley flame dawn awesome logic glare march stadium";
+var mnemonic = "front barrel treat much reason kite dawn duty trick school hollow vapor";

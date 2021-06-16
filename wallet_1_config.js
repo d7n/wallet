@@ -1,1 +1,1 @@
-var mnemonic = "cheap ivory music before matter word swear menu paddle water crunch during";
+var mnemonic = "power race direct above lawsuit ethics saddle chair little skill together path";

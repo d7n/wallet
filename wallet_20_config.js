@@ -1,1 +1,1 @@
-var mnemonic = "empower coast dog suit stick win wrap beach tail twin vehicle earth";
+var mnemonic = "follow warrior program sadness student sudden dinner clay defense another noble century";

@@ -1,1 +1,1 @@
-var mnemonic = "gain ticket universe kiwi goat isolate blossom harbor garbage recall liberty token";
+var mnemonic = "year boost mass occur cheap ribbon ribbon music attract torch attitude joke";

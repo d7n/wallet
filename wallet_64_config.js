@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin state camp super syrup organ marriage fiber enforce ticket confirm spend";
+var mnemonic = "runway again cloth shoot someone icon movie what dinner current kid vessel";

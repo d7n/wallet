@@ -1,1 +1,1 @@
-var mnemonic = "logic chief erupt slogan skull bundle idea tone life bulb remind medal";
+var mnemonic = "mansion dust mom calm elite cycle portion canyon collect cluster spawn alter";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance abstract subject fatigue unhappy chronic sail account giant vendor input slogan";
+var mnemonic = "fashion arm bounce figure capital option list child rent raccoon method mule";

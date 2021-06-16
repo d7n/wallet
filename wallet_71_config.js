@@ -1,1 +1,1 @@
-var mnemonic = "turn illness amused farm spend uniform noodle invest lonely early feature cancel";
+var mnemonic = "hire bright harvest chunk dish motor enroll sorry fox boost emerge tomorrow";

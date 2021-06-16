@@ -1,1 +1,1 @@
-var mnemonic = "sister shaft reunion tool tomato pear huge square toss craft person anchor";
+var mnemonic = "issue donate lava sausage long glass express school brief length transfer cook";

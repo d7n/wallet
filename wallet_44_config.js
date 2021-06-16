@@ -1,1 +1,1 @@
-var mnemonic = "portion marriage sell brass unveil range brass document brother gaze coconut voyage";
+var mnemonic = "endless cry bamboo possible similar sand elegant hotel voyage smoke subway sort";

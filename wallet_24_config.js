@@ -1,1 +1,1 @@
-var mnemonic = "clown they entire leisure wonder short fashion lion present citizen chuckle unique";
+var mnemonic = "rain agree drink nice become cube lottery grow orchard decline energy title";

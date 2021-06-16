@@ -1,1 +1,1 @@
-var mnemonic = "puzzle dismiss exhaust few faith target acoustic start frozen increase milk party";
+var mnemonic = "soul consider surprise solid jeans more squirrel proof random huge liquid wash";

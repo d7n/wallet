@@ -1,1 +1,1 @@
-var mnemonic = "witness water corn combine way funny just duty shadow refuse approve toast";
+var mnemonic = "girl crumble document push hint unhappy giraffe wasp wealth chest unknown wet";
