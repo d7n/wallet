@@ -1,1 +1,1 @@
-var mnemonic = "click solar feel skill goat expand brother tiger skull filter keen century";
+var mnemonic = "more curve ginger early buyer slab confirm grid sleep right envelope come";

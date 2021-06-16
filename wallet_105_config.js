@@ -1,1 +1,1 @@
-var mnemonic = "educate list key silk play mountain father stem arrange select path welcome";
+var mnemonic = "survey shaft napkin adapt type pride caution script work raccoon maid network";

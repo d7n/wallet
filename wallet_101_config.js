@@ -1,1 +1,1 @@
-var mnemonic = "action drum lady electric govern unfold science famous scrap february reject clown";
+var mnemonic = "region poet impact clip day awesome orchard vital often pact light traffic";

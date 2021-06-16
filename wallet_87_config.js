@@ -1,1 +1,1 @@
-var mnemonic = "sudden all wide more donate appear little view meadow regular host ignore";
+var mnemonic = "layer plug kangaroo silver chapter edge unlock trumpet very enforce melody absurd";

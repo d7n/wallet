@@ -1,1 +1,1 @@
-var mnemonic = "width craft merit major lesson over fault become apology possible stamp obvious";
+var mnemonic = "copy zero wide bachelor explain hire hurry order faith special brown what";

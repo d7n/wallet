@@ -1,1 +1,1 @@
-var mnemonic = "napkin infant dismiss scale toast appear jump trouble enemy brief glare learn";
+var mnemonic = "pole lucky recipe tank gift hand marine miss cash prefer derive capital";

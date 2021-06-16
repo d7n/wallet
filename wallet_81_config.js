@@ -1,1 +1,1 @@
-var mnemonic = "approve unaware case mule cabbage hungry scale fury cross foam stock large";
+var mnemonic = "puzzle inside bridge glory hill tissue grant cage grunt response vicious disease";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely lizard vocal slush mercy say pass wire distance april voice allow";
+var mnemonic = "refuse badge claw shiver husband aim whip want summer hire ignore section";

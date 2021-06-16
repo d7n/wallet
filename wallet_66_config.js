@@ -1,1 +1,1 @@
-var mnemonic = "yellow shadow gauge atom diagram shift welcome satoshi predict night cost neck";
+var mnemonic = "ensure weasel fog embrace parent rose ability home nephew honey evolve hockey";

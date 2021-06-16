@@ -1,1 +1,1 @@
-var mnemonic = "build sample vanish profit first pluck phone sport satoshi width theme ugly";
+var mnemonic = "assist gallery parade check uncle century spoil slide boil civil sister remain";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid quit bring unusual try hurt judge still shock chest hire eight";
+var mnemonic = "cannon roof pony cheese network brief elder garage oxygen check damage vivid";

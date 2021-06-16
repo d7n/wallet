@@ -1,1 +1,1 @@
-var mnemonic = "snack produce grid skill jealous random brisk style midnight old left finish";
+var mnemonic = "scorpion solve swear day try brand boat magnet bicycle rotate joke hood";

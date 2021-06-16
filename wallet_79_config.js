@@ -1,1 +1,1 @@
-var mnemonic = "cost flame rival pigeon rail top huge salmon unlock harsh hamster reason";
+var mnemonic = "suffer cage layer run card vibrant birth luxury deal confirm silk shell";

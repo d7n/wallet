@@ -1,1 +1,1 @@
-var mnemonic = "flat movie rebuild plug drink thank drift arrow bind critic oven abuse";
+var mnemonic = "scan denial rare peanut angry episode deal quit oppose need enforce pupil";

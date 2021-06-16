@@ -1,1 +1,1 @@
-var mnemonic = "lobster flower chapter visa scheme brisk term wrap young awkward love scrap";
+var mnemonic = "loud swing agree orient cabbage gesture attack gather ticket adjust senior maximum";

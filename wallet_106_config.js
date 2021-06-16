@@ -1,1 +1,1 @@
-var mnemonic = "pluck decorate nice original second dinner fame cabbage poverty much letter produce";
+var mnemonic = "later wave crowd copy erode wave always expect guard usage release asthma";

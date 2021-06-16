@@ -1,1 +1,1 @@
-var mnemonic = "rebuild want weekend kiss one fuel design scheme what gospel settle negative";
+var mnemonic = "pottery else system please rebel position carpet give penalty stool punch before";

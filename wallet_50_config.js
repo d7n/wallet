@@ -1,1 +1,1 @@
-var mnemonic = "lab hello payment uphold fox enjoy brown say combine stage slab viable";
+var mnemonic = "toe require current debate office trouble private wait tourist meat start region";

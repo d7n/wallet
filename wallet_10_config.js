@@ -1,1 +1,1 @@
-var mnemonic = "over salute woman embrace piano ride water adjust female panic sheriff scissors";
+var mnemonic = "outside can camera parade mom segment disorder one scheme rent blush craft";

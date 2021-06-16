@@ -1,1 +1,1 @@
-var mnemonic = "siren proud vacuum upgrade capital exchange melody quality damage brave physical purpose";
+var mnemonic = "desert include slight salute holiday horror below spray boost major auction shoulder";

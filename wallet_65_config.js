@@ -1,1 +1,1 @@
-var mnemonic = "sustain click audit hold stuff entire color tape verify shell dolphin talent";
+var mnemonic = "brown quantum clutch phone zero fault side ship south sense tornado witness";

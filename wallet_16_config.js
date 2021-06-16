@@ -1,1 +1,1 @@
-var mnemonic = "kit tragic girl artefact afford fringe enjoy letter lawn tent merry topple";
+var mnemonic = "leopard web three ginger tortoise crouch square soda pony economy science blade";

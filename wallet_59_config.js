@@ -1,1 +1,1 @@
-var mnemonic = "witness million profit decide artwork voice shrug bean leave lumber arch address";
+var mnemonic = "sugar wood distance head asthma gorilla oyster fashion ranch run bounce adjust";

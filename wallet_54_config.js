@@ -1,1 +1,1 @@
-var mnemonic = "process rabbit section mountain inquiry hotel reform legend kick economy cram girl";
+var mnemonic = "remain spoil day review cigar teach minor between captain thunder refuse cause";

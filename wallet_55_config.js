@@ -1,1 +1,1 @@
-var mnemonic = "strike trend mimic margin resource local mixture surprise sketch quote math common";
+var mnemonic = "force file resist sadness bronze venue husband maximum real refuse welcome capable";

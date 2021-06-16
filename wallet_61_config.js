@@ -1,1 +1,1 @@
-var mnemonic = "flag misery barrel pioneer ticket vintage almost knee jar kit illegal finger";
+var mnemonic = "actual layer dragon thought dawn useful old robot orange normal steak deal";

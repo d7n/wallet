@@ -1,1 +1,1 @@
-var mnemonic = "exclude trap breeze tail boat train uniform hospital glove hobby elite enjoy";
+var mnemonic = "immune snow tube spirit mother sugar mesh organ peasant element trumpet avocado";

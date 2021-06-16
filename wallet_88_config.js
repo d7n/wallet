@@ -1,1 +1,1 @@
-var mnemonic = "faculty piano memory voyage claw tiger second tuna consider canoe ten urban";
+var mnemonic = "bid baby wife glory story salt hen must near vendor error until";

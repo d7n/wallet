@@ -1,1 +1,1 @@
-var mnemonic = "twin social echo flame lawsuit top provide type supreme milk trim rescue";
+var mnemonic = "action atom oil arm follow ensure cluster kite join please off river";

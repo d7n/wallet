@@ -1,1 +1,1 @@
-var mnemonic = "imitate age inherit jealous expose card online between image resource insect ghost";
+var mnemonic = "door cannon soup lamp hammer salute sign inform job decade decrease car";

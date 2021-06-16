@@ -1,1 +1,1 @@
-var mnemonic = "story pumpkin abandon garbage auto general enlist chuckle axis amazing pretty ranch";
+var mnemonic = "cross various filter hobby naive poverty mix civil ozone tissue bounce rigid";

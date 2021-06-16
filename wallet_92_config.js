@@ -1,1 +1,1 @@
-var mnemonic = "clog teach mouse design depth wise payment tomato number giant rice kite";
+var mnemonic = "help spell gravity option lumber where invest blouse media melt belt subway";

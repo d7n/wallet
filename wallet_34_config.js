@@ -1,1 +1,1 @@
-var mnemonic = "hood alarm cement unfair side guilt survey motor sword divorce daring goddess";
+var mnemonic = "burst rack pledge tooth fork you uncle mixture piano glow rich share";

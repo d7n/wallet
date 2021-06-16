@@ -1,1 +1,1 @@
-var mnemonic = "moment grid umbrella canvas coast arch smart badge judge great wood venue";
+var mnemonic = "advance alien clap mix depth coconut follow lamp cake pig health room";

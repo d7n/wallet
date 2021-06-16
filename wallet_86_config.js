@@ -1,1 +1,1 @@
-var mnemonic = "refuse apart ice sunset case unfold cricket disease humor opinion sunny warrior";
+var mnemonic = "pluck title embrace polar cover enemy museum output exercise erupt screen art";

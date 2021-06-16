@@ -1,1 +1,1 @@
-var mnemonic = "total satoshi envelope position evolve damp above dolphin hold feature lady identify";
+var mnemonic = "diagram story crush love rural wear wisdom tenant apart arch since spend";

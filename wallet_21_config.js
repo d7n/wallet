@@ -1,1 +1,1 @@
-var mnemonic = "unveil return used bag buddy harbor bundle notice arm special fitness wise";
+var mnemonic = "rail motion hat horn verify monkey grace color ride future rapid carbon";

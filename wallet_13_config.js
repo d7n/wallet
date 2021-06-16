@@ -1,1 +1,1 @@
-var mnemonic = "surface skirt caution achieve morning pride tackle during since orphan lock lend";
+var mnemonic = "lounge area poem panda pole group topic virus term toilet maple bounce";

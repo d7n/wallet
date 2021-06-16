@@ -1,1 +1,1 @@
-var mnemonic = "finish pool over tongue palace goat observe vocal mobile man swing silver";
+var mnemonic = "dose country autumn erosion also suggest gentle repair bullet physical immune demand";

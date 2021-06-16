@@ -1,1 +1,1 @@
-var mnemonic = "clump ritual love jaguar humble bar disagree screen throw intact shy alert";
+var mnemonic = "eight diamond symbol friend husband cluster blanket depth swap ice trial wealth";

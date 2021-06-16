@@ -1,1 +1,1 @@
-var mnemonic = "biology empower vapor draw hen turtle broken people true health quality today";
+var mnemonic = "sketch fan inflict cliff tide bronze wet immense chunk abuse inflict obtain";

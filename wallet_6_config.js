@@ -1,1 +1,1 @@
-var mnemonic = "crush strategy accident green sing mountain brother extend announce win lunar absurd";
+var mnemonic = "repair bread switch merry sunset nuclear identify when key west lobster spatial";

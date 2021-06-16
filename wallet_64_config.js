@@ -1,1 +1,1 @@
-var mnemonic = "raven advance ripple diagram fuel time swing bronze novel shrimp gun year";
+var mnemonic = "this shuffle sheriff client venue live elegant kick goat oak coach embark";

@@ -1,1 +1,1 @@
-var mnemonic = "story ill sleep fade dance wood answer there chat nephew report other";
+var mnemonic = "luxury assault logic below make mechanic joke car legal path coral ritual";

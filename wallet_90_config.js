@@ -1,1 +1,1 @@
-var mnemonic = "family trial ethics light finger bind arctic bulk birth notable doll faith";
+var mnemonic = "vacant solve math square release blood novel cruel entry faith easily film";

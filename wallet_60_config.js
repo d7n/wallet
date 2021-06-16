@@ -1,1 +1,1 @@
-var mnemonic = "order industry faith gate citizen pact sight worth yellow prepare vivid typical";
+var mnemonic = "helmet secret focus cotton curtain tail safe struggle fatal practice gown exist";

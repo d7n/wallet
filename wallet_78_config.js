@@ -1,1 +1,1 @@
-var mnemonic = "corn glad kangaroo magnet join ranch course screen disorder fatigue buddy naive";
+var mnemonic = "siege merit useful advance safe call school announce fat weather draw proof";

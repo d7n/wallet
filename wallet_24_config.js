@@ -1,1 +1,1 @@
-var mnemonic = "umbrella hedgehog peasant safe dry talent fossil trophy donkey betray allow leisure";
+var mnemonic = "wealth evoke aware adult learn seed middle govern olive citizen pumpkin fan";

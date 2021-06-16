@@ -1,1 +1,1 @@
-var mnemonic = "inside act source suit credit silk sell awful same spend meat bicycle";
+var mnemonic = "print carbon culture hospital case report debris chat fold property open assist";

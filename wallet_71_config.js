@@ -1,1 +1,1 @@
-var mnemonic = "embark upset essence own sheriff layer issue cabbage question swallow table calm";
+var mnemonic = "dream brave gate exercise okay remain pill stable video trigger divide summer";

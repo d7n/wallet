@@ -1,1 +1,1 @@
-var mnemonic = "priority setup wave when section click brief stand urge frequent catch immune";
+var mnemonic = "start rival hill example behind era ecology sword fall silly ecology vintage";

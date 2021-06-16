@@ -1,1 +1,1 @@
-var mnemonic = "wrong announce begin bind output window punch chronic turtle nose imitate wolf";
+var mnemonic = "item ozone until flush setup trust divert again snow split sock garage";

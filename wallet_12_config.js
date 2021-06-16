@@ -1,1 +1,1 @@
-var mnemonic = "impact shoot grass music dog fork february display machine limb victory ritual";
+var mnemonic = "error aisle liquid able owner apple excess insane they fat plate unhappy";

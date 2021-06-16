@@ -1,1 +1,1 @@
-var mnemonic = "search inform hedgehog drum foam hurt install element fence ranch coil punch";
+var mnemonic = "dumb someone beach where churn success desk curtain write random garment tortoise";

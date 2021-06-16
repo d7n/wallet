@@ -1,1 +1,1 @@
-var mnemonic = "remind sword city major connect want dash meat suspect urge future youth";
+var mnemonic = "stove armor lonely miracle sleep siren forget ethics harbor round chest balcony";

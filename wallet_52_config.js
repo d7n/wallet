@@ -1,1 +1,1 @@
-var mnemonic = "daring often cave crane follow welcome airport forward cushion busy theme tonight";
+var mnemonic = "teach disease board want ladder want describe cram debate pilot caution clog";

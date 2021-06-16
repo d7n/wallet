@@ -1,1 +1,1 @@
-var mnemonic = "fiber theory tribe salt current grit labor impulse actress trap spare chapter";
+var mnemonic = "tomato multiply device snack find topple nature polar horror begin budget raw";

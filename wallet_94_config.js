@@ -1,1 +1,1 @@
-var mnemonic = "forget urge camera cloud address bachelor water nurse thumb tonight celery jeans";
+var mnemonic = "mind room light lawn chef naive issue learn helmet neck wrong horse";

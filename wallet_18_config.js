@@ -1,1 +1,1 @@
-var mnemonic = "outdoor canvas film strike ring oxygen guilt cigar matter head swing team";
+var mnemonic = "moment bitter dizzy bulb coral weasel wire acid coin romance vehicle design";

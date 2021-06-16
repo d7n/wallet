@@ -1,1 +1,1 @@
-var mnemonic = "accident praise kidney pyramid congress diamond clown reward enroll can monkey dish";
+var mnemonic = "fog pull guard shiver island hazard august goat enough segment gentle morning";

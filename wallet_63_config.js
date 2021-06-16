@@ -1,1 +1,1 @@
-var mnemonic = "bean differ gold onion eye topple ignore peace magnet point voyage diamond";
+var mnemonic = "click arrest frog husband barely web air rural manual safe brother guard";

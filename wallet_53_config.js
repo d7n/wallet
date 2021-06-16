@@ -1,1 +1,1 @@
-var mnemonic = "dizzy misery mango prison pudding bread stove smart write minor jewel road";
+var mnemonic = "clean head cannon cushion pull advice thought armor eight sock plate fortune";

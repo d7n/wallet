@@ -1,1 +1,1 @@
-var mnemonic = "flame already jaguar matter horse black moral empty lock ceiling remember sing";
+var mnemonic = "scatter phone dizzy render uniform grief couch hand three intact electric twice";

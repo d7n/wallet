@@ -1,1 +1,1 @@
-var mnemonic = "payment toddler physical stamp dry safe lucky win report crunch rule abstract";
+var mnemonic = "disorder drum wise aspect shuffle spider deputy move scrub clever dinosaur fan";

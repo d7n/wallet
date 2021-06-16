@@ -1,1 +1,1 @@
-var mnemonic = "used pupil theory eagle speed yellow situate vicious blouse sustain remind owner";
+var mnemonic = "index movie act tribe wage ignore limit dutch buzz endorse salad few";

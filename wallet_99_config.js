@@ -1,1 +1,1 @@
-var mnemonic = "stock rookie cloud weather kiss result cake skin satisfy gravity sick goose";
+var mnemonic = "hammer blossom reason flee jacket detect over town mammal over cruise mesh";

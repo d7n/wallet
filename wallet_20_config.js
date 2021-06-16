@@ -1,1 +1,1 @@
-var mnemonic = "train rebuild key soul call behind search armed pond immune witness east";
+var mnemonic = "duck viable skirt stem you grab text depend matrix basic vocal material";

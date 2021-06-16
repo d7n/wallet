@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo wife guilt oval cushion host lecture law grit mirror acquire minute";
+var mnemonic = "card pear uncover random glad mother horror barely oyster sing window circle";

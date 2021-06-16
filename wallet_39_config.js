@@ -1,1 +1,1 @@
-var mnemonic = "sport jar repeat cream inherit donate nice stereo survey soccer remind coin";
+var mnemonic = "year million replace move worth badge update brick hungry caution hire lizard";

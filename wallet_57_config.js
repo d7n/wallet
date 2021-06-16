@@ -1,1 +1,1 @@
-var mnemonic = "dwarf bid fiber search fame slow voice deer dice farm vanish smoke";
+var mnemonic = "echo order curious review ask talent scale helmet practice section primary require";

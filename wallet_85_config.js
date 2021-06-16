@@ -1,1 +1,1 @@
-var mnemonic = "program client clock couple run neglect bonus health pull trip club timber";
+var mnemonic = "weasel device frequent pioneer own actor absent dignity genius average chaos truth";

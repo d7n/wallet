@@ -1,1 +1,1 @@
-var mnemonic = "trash focus baby symbol feel cram announce input cliff thumb dizzy cup";
+var mnemonic = "jealous limb level window option gentle tank evil guilt safe seat false";

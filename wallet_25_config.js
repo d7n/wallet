@@ -1,1 +1,1 @@
-var mnemonic = "ribbon sphere chalk seven describe south best clutch buddy fruit alter acquire";
+var mnemonic = "end twice wood express bench bike miracle scare capable afraid visa pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "army lady attitude defy puppy material orchard unique nurse copy hollow problem";
+var mnemonic = "width window chair direct emerge salad pet glare dolphin wrap subject cream";

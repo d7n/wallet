@@ -1,1 +1,1 @@
-var mnemonic = "glide reason gorilla trip census exist open roof large usage feature bench";
+var mnemonic = "omit vendor retire fantasy verify fault flash spot spring acoustic gravity cup";

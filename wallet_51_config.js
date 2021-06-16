@@ -1,1 +1,1 @@
-var mnemonic = "kingdom embrace then outer few hold amazing bleak segment surprise echo run";
+var mnemonic = "piano grid spy sweet cash sure name chef term burger city assist";

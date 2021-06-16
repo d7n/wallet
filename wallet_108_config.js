@@ -1,1 +1,1 @@
-var mnemonic = "benefit mass repair tank bean embark brother pen envelope penalty taxi wave";
+var mnemonic = "welcome unaware hammer donate infant neither punch penalty ignore urge balcony harvest";

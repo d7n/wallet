@@ -1,1 +1,1 @@
-var mnemonic = "galaxy affair winner idle benefit essay provide include scissors nurse frog economy";
+var mnemonic = "inner bulk pencil mirror monster second bleak body shed fatal town dash";

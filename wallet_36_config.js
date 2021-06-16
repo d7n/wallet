@@ -1,1 +1,1 @@
-var mnemonic = "salmon motion add night surface uniform eagle under leaf just pond cash";
+var mnemonic = "situate memory solution pizza wine excite crunch chat rotate business fatigue garden";

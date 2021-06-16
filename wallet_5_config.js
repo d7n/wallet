@@ -1,1 +1,1 @@
-var mnemonic = "awake album outside employ nominee bundle over car price speak need snake";
+var mnemonic = "trim invest ordinary odor glare mesh bottom dish battle popular burden boat";

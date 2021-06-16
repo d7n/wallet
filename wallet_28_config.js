@@ -1,1 +1,1 @@
-var mnemonic = "quarter resist cabin sweet rabbit december female amount dawn idle system length";
+var mnemonic = "image circle vivid slab plate picnic teach robot injury analyst enroll pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent sponsor hotel biology verb border cage field youth put crime penalty";
+var mnemonic = "sunny siren figure kitchen bitter addict shadow blue crew accuse shiver abuse";

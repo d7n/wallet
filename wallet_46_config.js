@@ -1,1 +1,1 @@
-var mnemonic = "inherit buyer very rare blouse canoe blue maple kingdom plunge fork elite";
+var mnemonic = "limb gallery frequent bargain fury silly rookie light unfair error hat shrimp";

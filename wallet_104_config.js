@@ -1,1 +1,1 @@
-var mnemonic = "tortoise raccoon glad endorse urge harsh very again caution glue basket brand";
+var mnemonic = "cloth ozone swing banana thought mom dust winner leave lumber trumpet soda";

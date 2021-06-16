@@ -1,1 +1,1 @@
-var mnemonic = "practice divert forum south crawl easily climb people bunker base alley angry";
+var mnemonic = "proof crush donkey conduct useless flash federal hospital limit swing will option";

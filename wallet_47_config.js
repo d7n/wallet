@@ -1,1 +1,1 @@
-var mnemonic = "display turkey celery final aisle another leg dinosaur crime exact pupil jar";
+var mnemonic = "learn civil amateur carbon exile super monster strong creek cruel elegant auction";

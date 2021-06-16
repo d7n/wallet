@@ -1,1 +1,1 @@
-var mnemonic = "valve keep dad strong together design business deal rare believe pizza person";
+var mnemonic = "rubber crucial tooth fine cruel boss order group crane category exclude record";

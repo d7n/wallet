@@ -1,1 +1,1 @@
-var mnemonic = "hire fox correct egg sleep alcohol cushion release world honey ignore cliff";
+var mnemonic = "pull income robust figure science fine airport buddy fiscal razor pumpkin bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "family fat diesel width mango ceiling infant slight system crazy ship drip";
+var mnemonic = "tip soup since anchor penalty fever approve person describe velvet upon fluid";

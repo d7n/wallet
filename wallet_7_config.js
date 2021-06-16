@@ -1,1 +1,1 @@
-var mnemonic = "host silly horn hungry mango urban assume shrug novel afford clown scheme";
+var mnemonic = "eagle submit merit mean rookie prevent fever flush bachelor bubble pave until";

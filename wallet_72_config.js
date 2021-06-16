@@ -1,1 +1,1 @@
-var mnemonic = "pink siege raise project okay awful person glow sadness bag lecture flower";
+var mnemonic = "odor fitness bachelor uncover toddler come appear act supply monitor fiber debris";

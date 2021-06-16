@@ -1,1 +1,1 @@
-var mnemonic = "response antique point ready flat trip equal wash luggage march isolate hour";
+var mnemonic = "decade only second mix trash venture drink middle hope polar fitness retire";

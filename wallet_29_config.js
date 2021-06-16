@@ -1,1 +1,1 @@
-var mnemonic = "photo defy grunt start coast express extra cement pair middle diamond dish";
+var mnemonic = "plunge snap monkey electric direct page high rose between similar term shield";
