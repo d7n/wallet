@@ -1,1 +1,1 @@
-var mnemonic = "glove orange script symbol amazing super sport wagon winter hole arctic depend";
+var mnemonic = "impact shoot grass music dog fork february display machine limb victory ritual";

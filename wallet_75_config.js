@@ -1,1 +1,1 @@
-var mnemonic = "fiber strike produce alley purity rate exhibit spoon draw rabbit open expect";
+var mnemonic = "imitate age inherit jealous expose card online between image resource insect ghost";

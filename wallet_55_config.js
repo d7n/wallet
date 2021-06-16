@@ -1,1 +1,1 @@
-var mnemonic = "drama swim decorate inch electric exit cube slight valve caught until vital";
+var mnemonic = "strike trend mimic margin resource local mixture surprise sketch quote math common";

@@ -1,1 +1,1 @@
-var mnemonic = "also art place project relief begin explain diary write snap horse domain";
+var mnemonic = "bridge balcony fog already situate consider trust lunar seek payment junior liquid";

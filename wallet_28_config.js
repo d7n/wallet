@@ -1,1 +1,1 @@
-var mnemonic = "birth excess recycle view veteran during same prefer firm purity patrol dry";
+var mnemonic = "quarter resist cabin sweet rabbit december female amount dawn idle system length";

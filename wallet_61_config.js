@@ -1,1 +1,1 @@
-var mnemonic = "bubble treat robot spoil flavor law renew buddy release special useless fork";
+var mnemonic = "flag misery barrel pioneer ticket vintage almost knee jar kit illegal finger";

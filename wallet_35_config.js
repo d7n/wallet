@@ -1,1 +1,1 @@
-var mnemonic = "project lens hero diary alone plug harbor brave echo edge october tenant";
+var mnemonic = "clump ritual love jaguar humble bar disagree screen throw intact shy alert";

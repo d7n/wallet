@@ -1,1 +1,1 @@
-var mnemonic = "grunt reward slide object lyrics jazz strike damp pony chat trade ecology";
+var mnemonic = "dizzy misery mango prison pudding bread stove smart write minor jewel road";

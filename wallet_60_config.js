@@ -1,1 +1,1 @@
-var mnemonic = "fault tourist museum miracle machine hotel popular advice uniform master engage book";
+var mnemonic = "order industry faith gate citizen pact sight worth yellow prepare vivid typical";

@@ -1,1 +1,1 @@
-var mnemonic = "now top asthma sport business chest muffin gauge beach credit ordinary gather";
+var mnemonic = "twin social echo flame lawsuit top provide type supreme milk trim rescue";

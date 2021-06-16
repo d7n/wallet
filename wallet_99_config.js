@@ -1,1 +1,1 @@
-var mnemonic = "stage abuse shadow pact crowd crater sunset slender blast attract curtain green";
+var mnemonic = "stock rookie cloud weather kiss result cake skin satisfy gravity sick goose";

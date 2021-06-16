@@ -1,1 +1,1 @@
-var mnemonic = "utility trouble table resist snap answer raccoon action subway game nephew scrap";
+var mnemonic = "sudden all wide more donate appear little view meadow regular host ignore";

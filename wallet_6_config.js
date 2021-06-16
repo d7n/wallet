@@ -1,1 +1,1 @@
-var mnemonic = "journey sound infant gentle upon thought accident suffer excuse behind genuine solar";
+var mnemonic = "crush strategy accident green sing mountain brother extend announce win lunar absurd";

@@ -1,1 +1,1 @@
-var mnemonic = "save love junk opera buyer sound young surround because soldier foster weather";
+var mnemonic = "host silly horn hungry mango urban assume shrug novel afford clown scheme";

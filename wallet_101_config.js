@@ -1,1 +1,1 @@
-var mnemonic = "later correct mimic rule wing riot pull captain direct vote shoe conduct";
+var mnemonic = "action drum lady electric govern unfold science famous scrap february reject clown";

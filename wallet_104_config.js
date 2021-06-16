@@ -1,1 +1,1 @@
-var mnemonic = "dumb search culture pause pill swear equal unusual boat normal else journey";
+var mnemonic = "tortoise raccoon glad endorse urge harsh very again caution glue basket brand";

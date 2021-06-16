@@ -1,1 +1,1 @@
-var mnemonic = "boring stick ticket service pumpkin flip next bomb twenty pig nuclear raise";
+var mnemonic = "surface skirt caution achieve morning pride tackle during since orphan lock lend";

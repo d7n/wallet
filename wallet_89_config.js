@@ -1,1 +1,1 @@
-var mnemonic = "fall cushion forest toss swamp build imitate wedding script correct wrong polar";
+var mnemonic = "priority setup wave when section click brief stand urge frequent catch immune";

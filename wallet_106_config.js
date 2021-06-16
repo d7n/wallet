@@ -1,1 +1,1 @@
-var mnemonic = "survey flush boy beyond merry cargo antique raccoon give quarter system scatter";
+var mnemonic = "pluck decorate nice original second dinner fame cabbage poverty much letter produce";

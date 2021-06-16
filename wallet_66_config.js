@@ -1,1 +1,1 @@
-var mnemonic = "bird cable nephew miracle attitude thrive tuition betray occur inject puppy satoshi";
+var mnemonic = "yellow shadow gauge atom diagram shift welcome satoshi predict night cost neck";

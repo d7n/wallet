@@ -1,1 +1,1 @@
-var mnemonic = "expect issue lumber romance monitor merry enforce close pair any early jacket";
+var mnemonic = "dose lab alpha blind claim wrestle model decorate friend limit script transfer";

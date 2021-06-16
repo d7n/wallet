@@ -1,1 +1,1 @@
-var mnemonic = "page human unable mystery kick attitude warrior such love woman ridge usage";
+var mnemonic = "daring often cave crane follow welcome airport forward cushion busy theme tonight";

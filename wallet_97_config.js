@@ -1,1 +1,1 @@
-var mnemonic = "zone find high distance barrel repair vivid diamond fantasy phrase panther spread";
+var mnemonic = "build sample vanish profit first pluck phone sport satoshi width theme ugly";

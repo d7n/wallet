@@ -1,1 +1,1 @@
-var mnemonic = "inside cargo decrease entry enough laugh rally reward blossom clerk three unknown";
+var mnemonic = "width craft merit major lesson over fault become apology possible stamp obvious";

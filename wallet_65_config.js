@@ -1,1 +1,1 @@
-var mnemonic = "can raven guard brush offer hello moment metal sadness swim abuse hammer";
+var mnemonic = "sustain click audit hold stuff entire color tape verify shell dolphin talent";

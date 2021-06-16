@@ -1,1 +1,1 @@
-var mnemonic = "wide loyal bargain father submit idle humor canal horror weapon afraid legend";
+var mnemonic = "kit tragic girl artefact afford fringe enjoy letter lawn tent merry topple";

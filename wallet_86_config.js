@@ -1,1 +1,1 @@
-var mnemonic = "board wear occur tilt life caution among crush aim benefit two parent";
+var mnemonic = "refuse apart ice sunset case unfold cricket disease humor opinion sunny warrior";

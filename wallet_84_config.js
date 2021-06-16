@@ -1,1 +1,1 @@
-var mnemonic = "warfare marble mutual early speak actor deal ensure rain run token river";
+var mnemonic = "moment grid umbrella canvas coast arch smart badge judge great wood venue";

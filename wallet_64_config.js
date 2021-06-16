@@ -1,1 +1,1 @@
-var mnemonic = "artwork industry consider balcony canal broken explain syrup observe present base ski";
+var mnemonic = "raven advance ripple diagram fuel time swing bronze novel shrimp gun year";

@@ -1,1 +1,1 @@
-var mnemonic = "sort rose barely smile gas captain strategy great monster ripple dress egg";
+var mnemonic = "dwarf bid fiber search fame slow voice deer dice farm vanish smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "rather birth crime city lucky twist stick scheme simple merit company woman";
+var mnemonic = "story pumpkin abandon garbage auto general enlist chuckle axis amazing pretty ranch";

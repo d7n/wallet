@@ -1,1 +1,1 @@
-var mnemonic = "key absurd shock link merge ancient trash rebel upgrade inherit window strategy";
+var mnemonic = "faculty piano memory voyage claw tiger second tuna consider canoe ten urban";

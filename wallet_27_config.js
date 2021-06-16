@@ -1,1 +1,1 @@
-var mnemonic = "chase giraffe bag ramp forget melt find blast anxiety drama price hollow";
+var mnemonic = "payment toddler physical stamp dry safe lucky win report crunch rule abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "flee discover thrive cool company song illness correct develop want behave rose";
+var mnemonic = "program client clock couple run neglect bonus health pull trip club timber";

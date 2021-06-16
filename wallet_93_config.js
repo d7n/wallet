@@ -1,1 +1,1 @@
-var mnemonic = "impose sell write noise fever smart festival panda multiply cake hill pond";
+var mnemonic = "response focus above sell sound alert add flash very imitate milk flush";

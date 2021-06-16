@@ -1,1 +1,1 @@
-var mnemonic = "trash company travel firm mercy glue purse task plug fire noodle skirt";
+var mnemonic = "wrong announce begin bind output window punch chronic turtle nose imitate wolf";

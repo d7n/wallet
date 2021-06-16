@@ -1,1 +1,1 @@
-var mnemonic = "satoshi lend slab lunch abuse system weather matrix army gesture special seek";
+var mnemonic = "practice divert forum south crawl easily climb people bunker base alley angry";

@@ -1,1 +1,1 @@
-var mnemonic = "summer today combine modify craft evidence gadget lounge glove timber worry cliff";
+var mnemonic = "corn glad kangaroo magnet join ranch course screen disorder fatigue buddy naive";

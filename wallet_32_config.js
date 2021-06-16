@@ -1,1 +1,1 @@
-var mnemonic = "relax diamond undo tongue acquire hold strategy entry vanish biology strike mimic";
+var mnemonic = "glide reason gorilla trip census exist open roof large usage feature bench";

@@ -1,1 +1,1 @@
-var mnemonic = "split absorb beyond nothing evoke load shift airport current napkin wink code";
+var mnemonic = "lab hello payment uphold fox enjoy brown say combine stage slab viable";

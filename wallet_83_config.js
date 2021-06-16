@@ -1,1 +1,1 @@
-var mnemonic = "humble arena assault roast kangaroo ecology high style pudding gossip empty junior";
+var mnemonic = "trash focus baby symbol feel cram announce input cliff thumb dizzy cup";

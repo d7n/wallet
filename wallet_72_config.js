@@ -1,1 +1,1 @@
-var mnemonic = "process false electric exact include doll globe dash maximum cloth maple disease";
+var mnemonic = "pink siege raise project okay awful person glow sadness bag lecture flower";

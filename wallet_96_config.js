@@ -1,1 +1,1 @@
-var mnemonic = "cage enter route brown lounge prepare submit hammer shine oyster disorder aim";
+var mnemonic = "story ill sleep fade dance wood answer there chat nephew report other";

@@ -1,1 +1,1 @@
-var mnemonic = "victory budget kite remove filter confirm exact arrow biology hundred endorse result";
+var mnemonic = "biology empower vapor draw hen turtle broken people true health quality today";

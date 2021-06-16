@@ -1,1 +1,1 @@
-var mnemonic = "salute trash piano click float knock early chaos hungry disease innocent drive";
+var mnemonic = "galaxy affair winner idle benefit essay provide include scissors nurse frog economy";

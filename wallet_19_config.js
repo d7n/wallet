@@ -1,1 +1,1 @@
-var mnemonic = "question ensure okay glide among fly bar maid high rather dismiss whip";
+var mnemonic = "flame already jaguar matter horse black moral empty lock ceiling remember sing";

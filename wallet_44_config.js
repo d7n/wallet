@@ -1,1 +1,1 @@
-var mnemonic = "wealth beef reflect laptop proud barely burst fatigue protect develop stomach abuse";
+var mnemonic = "inside act source suit credit silk sell awful same spend meat bicycle";

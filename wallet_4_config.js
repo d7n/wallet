@@ -1,1 +1,1 @@
-var mnemonic = "only aisle ghost cage lounge taste negative wheel sing double later burger";
+var mnemonic = "lobster flower chapter visa scheme brisk term wrap young awkward love scrap";

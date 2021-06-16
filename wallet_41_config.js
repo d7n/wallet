@@ -1,1 +1,1 @@
-var mnemonic = "usual input pledge lunar more leisure bundle deer crystal mammal exit fetch";
+var mnemonic = "finish pool over tongue palace goat observe vocal mobile man swing silver";

@@ -1,1 +1,1 @@
-var mnemonic = "museum clock erase fat verb tired concert unfold state thank wedding broccoli";
+var mnemonic = "family trial ethics light finger bind arctic bulk birth notable doll faith";

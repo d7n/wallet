@@ -1,1 +1,1 @@
-var mnemonic = "wash bind then head arrange surround inflict flush effort power blue section";
+var mnemonic = "cost flame rival pigeon rail top huge salmon unlock harsh hamster reason";

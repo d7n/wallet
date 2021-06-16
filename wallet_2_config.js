@@ -1,1 +1,1 @@
-var mnemonic = "opera warrior rifle blossom kind vanish arctic ritual fortune alarm lend size";
+var mnemonic = "age regular fitness sheriff organ involve double bring prize whip father matter";

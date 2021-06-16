@@ -1,1 +1,1 @@
-var mnemonic = "banana belt ability box october patient illness approve sword nephew dial critic";
+var mnemonic = "display turkey celery final aisle another leg dinosaur crime exact pupil jar";

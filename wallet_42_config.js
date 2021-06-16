@@ -1,1 +1,1 @@
-var mnemonic = "picnic input prevent dry net jewel rapid best inherit tiny start cactus";
+var mnemonic = "snack produce grid skill jealous random brisk style midnight old left finish";

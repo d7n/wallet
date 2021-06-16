@@ -1,1 +1,1 @@
-var mnemonic = "credit toilet fortune repeat remind hire ripple relax owner journey maze peace";
+var mnemonic = "response antique point ready flat trip equal wash luggage march isolate hour";

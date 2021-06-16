@@ -1,1 +1,1 @@
-var mnemonic = "undo kingdom history profit promote ride execute over pudding rocket accuse eight";
+var mnemonic = "train rebuild key soul call behind search armed pond immune witness east";

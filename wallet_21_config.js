@@ -1,1 +1,1 @@
-var mnemonic = "sea obtain pause wine diesel guilt dune sign regret winter rhythm gallery";
+var mnemonic = "unveil return used bag buddy harbor bundle notice arm special fitness wise";

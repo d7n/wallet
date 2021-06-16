@@ -1,1 +1,1 @@
-var mnemonic = "matter trophy rebel spider rain unfair bridge pattern tank toy great creek";
+var mnemonic = "army lady attitude defy puppy material orchard unique nurse copy hollow problem";

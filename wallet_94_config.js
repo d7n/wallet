@@ -1,1 +1,1 @@
-var mnemonic = "about ask tackle wine silly lift render first erode zoo joy flock";
+var mnemonic = "forget urge camera cloud address bachelor water nurse thumb tonight celery jeans";

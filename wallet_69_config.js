@@ -1,1 +1,1 @@
-var mnemonic = "offer wasp clean ozone opera erosion dad junk since edit know barely";
+var mnemonic = "miracle curious year deal cloth disagree shop fancy organ grape comfort orphan";

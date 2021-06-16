@@ -1,1 +1,1 @@
-var mnemonic = "amused wagon mimic apple silly setup mystery disorder stuff fine they prepare";
+var mnemonic = "fiber theory tribe salt current grit labor impulse actress trap spare chapter";

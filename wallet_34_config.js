@@ -1,1 +1,1 @@
-var mnemonic = "exile pool bamboo world issue want venue egg age hammer fetch globe";
+var mnemonic = "hood alarm cement unfair side guilt survey motor sword divorce daring goddess";

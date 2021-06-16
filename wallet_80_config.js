@@ -1,1 +1,1 @@
-var mnemonic = "gap drink hold illness skin wagon duck capital long private glare banner";
+var mnemonic = "exclude trap breeze tail boat train uniform hospital glove hobby elite enjoy";

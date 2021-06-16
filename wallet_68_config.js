@@ -1,1 +1,1 @@
-var mnemonic = "domain glance palm cereal zone early short oyster help argue glare another";
+var mnemonic = "total satoshi envelope position evolve damp above dolphin hold feature lady identify";

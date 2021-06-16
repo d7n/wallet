@@ -1,1 +1,1 @@
-var mnemonic = "raise adjust daughter case arena panda venue junior desk rack muffin street";
+var mnemonic = "witness million profit decide artwork voice shrug bean leave lumber arch address";

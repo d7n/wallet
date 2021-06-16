@@ -1,1 +1,1 @@
-var mnemonic = "bread penalty sail pattern tongue camera funny scrub remove judge catch depart";
+var mnemonic = "used pupil theory eagle speed yellow situate vicious blouse sustain remind owner";

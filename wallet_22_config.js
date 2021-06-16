@@ -1,1 +1,1 @@
-var mnemonic = "detail ranch virus reason comic light cannon shoe post mystery timber grocery";
+var mnemonic = "search inform hedgehog drum foam hurt install element fence ranch coil punch";

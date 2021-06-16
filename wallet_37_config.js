@@ -1,1 +1,1 @@
-var mnemonic = "basic craft elite snack retreat family meadow text mirror vehicle flower across";
+var mnemonic = "innocent sponsor hotel biology verb border cage field youth put crime penalty";

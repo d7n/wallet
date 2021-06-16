@@ -1,1 +1,1 @@
-var mnemonic = "used lonely able inject hollow give silent essence mass profit narrow basket";
+var mnemonic = "family fat diesel width mango ceiling infant slight system crazy ship drip";

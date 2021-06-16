@@ -1,1 +1,1 @@
-var mnemonic = "chest trouble fire budget cost split jungle time festival post team own";
+var mnemonic = "flat movie rebuild plug drink thank drift arrow bind critic oven abuse";

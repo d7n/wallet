@@ -1,1 +1,1 @@
-var mnemonic = "brand final fan unfold repeat broken control time answer tiger cherry calm";
+var mnemonic = "lonely lizard vocal slush mercy say pass wire distance april voice allow";

@@ -1,1 +1,1 @@
-var mnemonic = "sure scorpion tray example aisle hurt magnet wood turkey pool zero point";
+var mnemonic = "photo defy grunt start coast express extra cement pair middle diamond dish";

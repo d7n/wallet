@@ -1,1 +1,1 @@
-var mnemonic = "bring glare purchase weird obscure assist picture shrug extra water payment rebuild";
+var mnemonic = "hard benefit tomato ring stage cradle also into celery theme frame decrease";

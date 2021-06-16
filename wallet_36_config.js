@@ -1,1 +1,1 @@
-var mnemonic = "profit lucky sauce cart pole crawl educate market laptop open come athlete";
+var mnemonic = "salmon motion add night surface uniform eagle under leaf just pond cash";

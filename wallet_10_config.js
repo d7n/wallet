@@ -1,1 +1,1 @@
-var mnemonic = "tone night coil scout random neutral list kick crouch game wish sport";
+var mnemonic = "over salute woman embrace piano ride water adjust female panic sheriff scissors";

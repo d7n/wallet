@@ -1,1 +1,1 @@
-var mnemonic = "cushion unaware client stomach honey pass private cheese know item crowd spot";
+var mnemonic = "pyramid quit bring unusual try hurt judge still shock chest hire eight";

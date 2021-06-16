@@ -1,1 +1,1 @@
-var mnemonic = "dizzy outer lion normal seed pelican cable smart joke execute transfer noise";
+var mnemonic = "process rabbit section mountain inquiry hotel reform legend kick economy cram girl";

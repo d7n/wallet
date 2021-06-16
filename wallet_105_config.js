@@ -1,1 +1,1 @@
-var mnemonic = "smoke soup into lunch deny afraid drink lens vivid fee domain cycle";
+var mnemonic = "educate list key silk play mountain father stem arrange select path welcome";

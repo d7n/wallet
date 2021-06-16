@@ -1,1 +1,1 @@
-var mnemonic = "strike bulb bless accident rural horn orbit crystal hungry acquire acquire reopen";
+var mnemonic = "benefit mass repair tank bean embark brother pen envelope penalty taxi wave";

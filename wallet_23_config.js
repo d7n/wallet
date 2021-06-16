@@ -1,1 +1,1 @@
-var mnemonic = "toddler chimney mammal wink crack mobile invite wing office shove easy burst";
+var mnemonic = "valve keep dad strong together design business deal rare believe pizza person";

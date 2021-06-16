@@ -1,1 +1,1 @@
-var mnemonic = "access flight please main armor thought unit syrup kick output clip mutual";
+var mnemonic = "accident praise kidney pyramid congress diamond clown reward enroll can monkey dish";

@@ -1,1 +1,1 @@
-var mnemonic = "yard brand nominee bullet custom paper trip health patrol perfect ride stool";
+var mnemonic = "venture ramp secret pear aware measure draft resemble image stamp grunt hotel";

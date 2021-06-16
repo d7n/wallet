@@ -1,1 +1,1 @@
-var mnemonic = "elite kidney produce rival leave century gas marble valley laptop race random";
+var mnemonic = "embark upset essence own sheriff layer issue cabbage question swallow table calm";

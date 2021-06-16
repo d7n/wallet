@@ -1,1 +1,1 @@
-var mnemonic = "ceiling face sing orange choice dolphin card country sign school unveil chase";
+var mnemonic = "clog teach mouse design depth wise payment tomato number giant rice kite";

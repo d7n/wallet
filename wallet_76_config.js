@@ -1,1 +1,1 @@
-var mnemonic = "one utility paddle bless sadness exile grit planet swim muscle parent gadget";
+var mnemonic = "siren proud vacuum upgrade capital exchange melody quality damage brave physical purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "pact hazard coral fuel pattern rookie balance pull weekend extend steak style";
+var mnemonic = "child fix usage canoe sniff flock chalk adult arrest february toward negative";

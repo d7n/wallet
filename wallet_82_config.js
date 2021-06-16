@@ -1,1 +1,1 @@
-var mnemonic = "arrow blind void viable rapid mechanic weasel ability filter network sorry morning";
+var mnemonic = "bamboo lamp chunk lecture rival liberty today ocean neutral brave daughter moral";

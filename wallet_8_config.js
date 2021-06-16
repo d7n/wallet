@@ -1,1 +1,1 @@
-var mnemonic = "hobby risk shoe february miracle buddy relax motor frog message grace dose";
+var mnemonic = "tackle owner wish wait evil about device pave chaos soul eagle awesome";

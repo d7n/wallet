@@ -1,1 +1,1 @@
-var mnemonic = "violin grit ski stumble wear april pride flip anger large paper zoo";
+var mnemonic = "awake album outside employ nominee bundle over car price speak need snake";

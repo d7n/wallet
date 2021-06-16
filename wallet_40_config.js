@@ -1,1 +1,1 @@
-var mnemonic = "enroll uncle sock sadness enact favorite once sudden scrub luggage network accident";
+var mnemonic = "rebuild want weekend kiss one fuel design scheme what gospel settle negative";

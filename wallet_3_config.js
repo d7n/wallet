@@ -1,1 +1,1 @@
-var mnemonic = "december slab wild flower upper valley floor bargain possible they cupboard unhappy";
+var mnemonic = "hire fox correct egg sleep alcohol cushion release world honey ignore cliff";

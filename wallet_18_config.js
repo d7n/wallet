@@ -1,1 +1,1 @@
-var mnemonic = "tide weapon memory put setup large cycle embody else before plug divorce";
+var mnemonic = "outdoor canvas film strike ring oxygen guilt cigar matter head swing team";

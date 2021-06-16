@@ -1,1 +1,1 @@
-var mnemonic = "lawn solar armor believe worth poverty bench faint sniff become best senior";
+var mnemonic = "click solar feel skill goat expand brother tiger skull filter keen century";

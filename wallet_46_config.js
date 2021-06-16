@@ -1,1 +1,1 @@
-var mnemonic = "valid rib room next census hard rifle cliff feature steel suspect dinner";
+var mnemonic = "inherit buyer very rare blouse canoe blue maple kingdom plunge fork elite";

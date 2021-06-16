@@ -1,1 +1,1 @@
-var mnemonic = "bounce interest poverty noodle doll analyst satisfy oil satoshi material predict garment";
+var mnemonic = "sport jar repeat cream inherit donate nice stereo survey soccer remind coin";
