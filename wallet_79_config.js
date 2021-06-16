@@ -1,1 +1,1 @@
-var mnemonic = "price summer lucky absorb faith object rose captain hello combine topic morning";
+var mnemonic = "lion iron sense pull disorder omit ahead update actress marriage mix can";

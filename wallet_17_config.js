@@ -1,1 +1,1 @@
-var mnemonic = "render say health actor brass end puppy drip advance dash olympic rent";
+var mnemonic = "phrase umbrella dynamic dust fragile notice humble taste obvious tray wreck lab";

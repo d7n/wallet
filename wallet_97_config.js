@@ -1,1 +1,1 @@
-var mnemonic = "clarify female tourist like receive habit radar diary charge fault there master";
+var mnemonic = "hire cry sudden spread birth spirit denial rare milk squirrel measure high";

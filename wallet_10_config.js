@@ -1,1 +1,1 @@
-var mnemonic = "start hole click distance three success actress sample bounce gift address dust";
+var mnemonic = "cotton decrease brain advice repair hard chapter chronic praise skill fun liar";

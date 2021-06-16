@@ -1,1 +1,1 @@
-var mnemonic = "episode cushion soap tired robust glove concert filter slab snow expire endless";
+var mnemonic = "more retire ramp where noise trick moment fence connect barrel blanket top";

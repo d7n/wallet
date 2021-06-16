@@ -1,1 +1,1 @@
-var mnemonic = "book swap obscure vast congress below steel clip attract humble plastic caught";
+var mnemonic = "execute excess joke coyote coast just sunny shuffle style undo park solution";

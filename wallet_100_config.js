@@ -1,1 +1,1 @@
-var mnemonic = "chunk entry topic grape van rose never gallery emotion hip flock wife";
+var mnemonic = "gain ticket universe kiwi goat isolate blossom harbor garbage recall liberty token";

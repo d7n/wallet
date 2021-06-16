@@ -1,1 +1,1 @@
-var mnemonic = "inform elephant point coin letter opera journey news waste deal hour strike";
+var mnemonic = "grunt advice harbor move rude kid easily shock game leader chief escape";

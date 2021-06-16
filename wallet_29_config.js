@@ -1,1 +1,1 @@
-var mnemonic = "hotel screen visual sample novel spawn elder miss analyst life iron oxygen";
+var mnemonic = "hedgehog push seat slender room job swarm speak ship kangaroo moment bunker";

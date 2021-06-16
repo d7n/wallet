@@ -1,1 +1,1 @@
-var mnemonic = "afford rely supreme risk chapter help outer just alcohol obvious impact roof";
+var mnemonic = "become apple injury tell shield door hair jungle also tail glare ability";

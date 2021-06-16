@@ -1,1 +1,1 @@
-var mnemonic = "tiny relax hard sail unable unhappy warm fiscal rent equip stuff robot";
+var mnemonic = "collect various occur disorder giggle oval wild patch survey chicken hospital enough";

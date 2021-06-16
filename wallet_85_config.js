@@ -1,1 +1,1 @@
-var mnemonic = "learn inside guide volume trade daring rude fix address toddler result bunker";
+var mnemonic = "sort inherit injury addict romance erase grape disorder vacant aerobic topic wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "order slot twin cheap blue enable begin differ hint network hover chimney";
+var mnemonic = "august try rail quantum surround winner fence resource minor shaft best unlock";

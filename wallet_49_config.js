@@ -1,1 +1,1 @@
-var mnemonic = "kiwi wood wheel paper deny hint tomato zebra slow napkin leisure aspect";
+var mnemonic = "mind cross motion joke bundle color prefer shrug sleep huge upgrade phone";

@@ -1,1 +1,1 @@
-var mnemonic = "goat into proud dolphin trick exist crime welcome spray reject little dust";
+var mnemonic = "firm mimic tape keen rare agent genre curtain brass ability plunge scout";

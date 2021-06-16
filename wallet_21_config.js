@@ -1,1 +1,1 @@
-var mnemonic = "bullet useful tired female around jelly stove genre siege laugh cube swarm";
+var mnemonic = "bring peanut bean roof fortune promote breeze pizza amazing actor minimum crucial";

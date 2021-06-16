@@ -1,1 +1,1 @@
-var mnemonic = "episode awful near category rubber math team dress neglect record impact bundle";
+var mnemonic = "enrich crucial banana demise vehicle sure when science siege minor suspect abuse";

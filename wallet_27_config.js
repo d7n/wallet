@@ -1,1 +1,1 @@
-var mnemonic = "garage level casual tenant twice convince blossom shoot history train soldier transfer";
+var mnemonic = "tool arch bike maximum liar jungle spider charge push devote outer frozen";

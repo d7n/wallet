@@ -1,1 +1,1 @@
-var mnemonic = "bone orange pond analyst scrub tuition bachelor senior base barely garlic upper";
+var mnemonic = "stem buzz toddler elbow inspire angle country boss pioneer frost biology river";

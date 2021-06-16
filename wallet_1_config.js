@@ -1,1 +1,1 @@
-var mnemonic = "again garment great crack smart news lava night panther method corn banana";
+var mnemonic = "cheap ivory music before matter word swear menu paddle water crunch during";

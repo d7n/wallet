@@ -1,1 +1,1 @@
-var mnemonic = "lab legend panel table core mass pencil find baby fan toy license";
+var mnemonic = "chair transfer width marriage share talk chair youth tide omit barrel dragon";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy already certain egg cloth tooth hair bulb must blush link brother";
+var mnemonic = "replace federal always limit stable forward quote east equip rival power across";

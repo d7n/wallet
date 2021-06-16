@@ -1,1 +1,1 @@
-var mnemonic = "coral twenty north warm unfold flash camp six trust oil matrix control";
+var mnemonic = "strike picture beach guide help pitch mansion position stick program video border";

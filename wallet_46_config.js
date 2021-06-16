@@ -1,1 +1,1 @@
-var mnemonic = "rule nurse forward orient forum mixture truck smoke when mule lock exhaust";
+var mnemonic = "logic chief erupt slogan skull bundle idea tone life bulb remind medal";

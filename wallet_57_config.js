@@ -1,1 +1,1 @@
-var mnemonic = "april pretty pole parent blade around daring orbit galaxy brand glory enroll";
+var mnemonic = "yard hobby melody chuckle winner width frame swift vapor fluid dolphin typical";

@@ -1,1 +1,1 @@
-var mnemonic = "follow beach picnic prefer quarter elite wage spike tent place shine mammal";
+var mnemonic = "clown they entire leisure wonder short fashion lion present citizen chuckle unique";

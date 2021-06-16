@@ -1,1 +1,1 @@
-var mnemonic = "rely denial drill habit melody escape hill scatter mixed coast polar story";
+var mnemonic = "early unfold silly upon near region gym knee melody notice picture violin";

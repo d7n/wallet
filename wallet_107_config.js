@@ -1,1 +1,1 @@
-var mnemonic = "census bar drop omit visit adult sweet define cloud letter rookie verb";
+var mnemonic = "happy screen degree motor across sudden vivid under design joy cheap cliff";

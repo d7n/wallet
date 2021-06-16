@@ -1,1 +1,1 @@
-var mnemonic = "desert casino switch lion country midnight twenty gaze tool recycle day claim";
+var mnemonic = "copy resemble cotton case cup melt divorce notable post grief announce milk";

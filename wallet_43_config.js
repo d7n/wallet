@@ -1,1 +1,1 @@
-var mnemonic = "soldier use employ drama hungry forward dove robust chalk gossip modify game";
+var mnemonic = "visa same west forward reject iron unknown monitor dynamic sister dad turkey";

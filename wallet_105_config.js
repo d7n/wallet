@@ -1,1 +1,1 @@
-var mnemonic = "oak either today clip subject pioneer wait future job connect buyer liquid";
+var mnemonic = "puzzle dismiss exhaust few faith target acoustic start frozen increase milk party";

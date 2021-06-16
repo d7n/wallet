@@ -1,1 +1,1 @@
-var mnemonic = "category wide warfare laptop slam bargain buffalo common album staff stove mutual";
+var mnemonic = "hedgehog use sun rain tobacco bird dinosaur charge combine seed donate shoe";

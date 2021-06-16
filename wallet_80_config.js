@@ -1,1 +1,1 @@
-var mnemonic = "grass skin estate nuclear sustain tree labor domain flavor kite laugh prison";
+var mnemonic = "height junior clutch leg other honey used clown bridge bottom member cruise";

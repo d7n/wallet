@@ -1,1 +1,1 @@
-var mnemonic = "expect spend know honey parent jump fire inhale satoshi ten help leader";
+var mnemonic = "because deputy sun pretty record average toe tent skill lunar crane enforce";

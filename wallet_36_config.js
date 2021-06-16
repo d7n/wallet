@@ -1,1 +1,1 @@
-var mnemonic = "across skate eager enroll lucky join hip pyramid obey prison ship palm";
+var mnemonic = "power clog click giggle valley flame dawn awesome logic glare march stadium";

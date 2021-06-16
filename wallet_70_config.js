@@ -1,1 +1,1 @@
-var mnemonic = "shy liar sadness swing resemble protect exotic torch section lounge south kiss";
+var mnemonic = "pyramid field now oak ostrich evolve assume float glide kick muscle trigger";

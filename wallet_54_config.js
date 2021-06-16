@@ -1,1 +1,1 @@
-var mnemonic = "depend mirror action meat treat biology arrow fan exercise doll snap empty";
+var mnemonic = "adult please man notable crucial bench pilot spot ice palm butter mix";

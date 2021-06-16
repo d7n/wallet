@@ -1,1 +1,1 @@
-var mnemonic = "property network hen write buyer giggle tag release vague fork giant option";
+var mnemonic = "portion marriage sell brass unveil range brass document brother gaze coconut voyage";

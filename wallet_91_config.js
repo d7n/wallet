@@ -1,1 +1,1 @@
-var mnemonic = "essay cotton provide loud bless off increase during illegal access subject pen";
+var mnemonic = "smile wink brief napkin board lend rough fame worth present dress matrix";

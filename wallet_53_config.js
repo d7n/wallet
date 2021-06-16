@@ -1,1 +1,1 @@
-var mnemonic = "congress robust unusual seminar express large nasty raw gift supreme pigeon zone";
+var mnemonic = "sun genuine used battle buffalo girl extend oyster cloud found person stem";

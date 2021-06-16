@@ -1,1 +1,1 @@
-var mnemonic = "parade fortune strategy green bread animal peace cheese device witness pride century";
+var mnemonic = "neglect fitness dawn month prefer camp churn beauty park ski bid sentence";

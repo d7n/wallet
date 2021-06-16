@@ -1,1 +1,1 @@
-var mnemonic = "found firm refuse tiny rose infant warrior prize miss abuse lawn trip";
+var mnemonic = "sister shaft reunion tool tomato pear huge square toss craft person anchor";

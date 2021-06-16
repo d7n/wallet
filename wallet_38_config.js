@@ -1,1 +1,1 @@
-var mnemonic = "voyage useful ketchup retire today tuition abandon burst smart current trend youth";
+var mnemonic = "sibling flush affair volume sad dismiss ceiling canoe latin device select garbage";

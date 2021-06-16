@@ -1,1 +1,1 @@
-var mnemonic = "insane chase myself code provide thunder immense hospital brick topic lady brown";
+var mnemonic = "salad power regular subway stage unique head supply example copper hamster link";

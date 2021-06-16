@@ -1,1 +1,1 @@
-var mnemonic = "wheat tonight ecology nut mixed clown crawl defy trip shed pen crime";
+var mnemonic = "adjust month witness return boss tree spoon improve denial auto sheriff cream";

@@ -1,1 +1,1 @@
-var mnemonic = "short move swallow label kingdom absurd acoustic offer what priority acoustic use";
+var mnemonic = "enact wheat legal fiber fox animal direct copy ozone evoke drip robot";

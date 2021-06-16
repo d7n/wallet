@@ -1,1 +1,1 @@
-var mnemonic = "turtle monitor lecture trouble include attract tent garbage two move rural ordinary";
+var mnemonic = "point idle brave road fame waste right begin ankle prepare priority tennis";

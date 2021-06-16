@@ -1,1 +1,1 @@
-var mnemonic = "day logic debris source chair inherit ensure miracle heart crazy upper divorce";
+var mnemonic = "cable desert elite orange bunker runway truth hurdle reject topic tortoise foster";

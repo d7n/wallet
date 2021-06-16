@@ -1,1 +1,1 @@
-var mnemonic = "party slender trick skin exist spare ghost roast hidden pill sun prosper";
+var mnemonic = "depart apple shed ability dad effort measure alert spoon about artwork cable";

@@ -1,1 +1,1 @@
-var mnemonic = "rose fork vicious hollow found easily worry crowd excite attract you accuse";
+var mnemonic = "unique merit direct drip drill drift sniff box ceiling wood sell market";

@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog hidden secret mule left ticket pyramid hybrid apology file victory ozone";
+var mnemonic = "runway breeze two planet lab order identify badge leisure cream hawk snack";

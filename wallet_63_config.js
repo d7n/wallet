@@ -1,1 +1,1 @@
-var mnemonic = "pact flock rail arm ticket hurry decrease dream episode fog silent theme";
+var mnemonic = "crane ribbon ripple robust water elbow learn belt toss surround stove brave";

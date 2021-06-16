@@ -1,1 +1,1 @@
-var mnemonic = "genre elder scout icon census flame ordinary argue swamp credit joke surround";
+var mnemonic = "define stool razor proud tenant invite dutch urban ostrich rhythm deny again";

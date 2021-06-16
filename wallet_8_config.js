@@ -1,1 +1,1 @@
-var mnemonic = "fine useful doctor top boy ordinary unaware digital rubber wet fringe outer";
+var mnemonic = "liar sample coral excess answer actor kidney above mandate stomach angle shop";

@@ -1,1 +1,1 @@
-var mnemonic = "melody patient wire charge betray battle frog use manage bronze sausage stock";
+var mnemonic = "believe this motor duty train find situate silver rubber tag muscle wash";

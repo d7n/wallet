@@ -1,1 +1,1 @@
-var mnemonic = "country green peasant border deal bulk radar then culture timber empty olympic";
+var mnemonic = "voice armed vital winner phrase prevent acquire lonely skate sell exotic often";

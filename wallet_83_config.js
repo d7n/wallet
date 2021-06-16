@@ -1,1 +1,1 @@
-var mnemonic = "search describe pyramid maximum sorry hope write canyon address fluid cost expire";
+var mnemonic = "say salmon ketchup arena scene barrel manage face feed come nuclear donate";

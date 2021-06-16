@@ -1,1 +1,1 @@
-var mnemonic = "tooth drum own blanket atom put boost coral humor ski sponsor dose";
+var mnemonic = "ensure amazing annual student audit barrel practice echo left make mind cloth";

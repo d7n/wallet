@@ -1,1 +1,1 @@
-var mnemonic = "about affair blade air audit tape tragic arena inspire move fortune ordinary";
+var mnemonic = "thumb cage bar priority miracle maze envelope visual strike select enough uphold";

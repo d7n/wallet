@@ -1,1 +1,1 @@
-var mnemonic = "bounce stadium cabin crack visit hold february hidden skill file budget target";
+var mnemonic = "pool gate matrix clever betray effort wine cinnamon viable arctic limb fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "direct leader window suffer extend boring chase churn wreck absent swarm melt";
+var mnemonic = "remain monitor december very explain witness autumn make razor obtain quality simple";

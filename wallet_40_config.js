@@ -1,1 +1,1 @@
-var mnemonic = "climb any century talent mountain concert orange trend divorce learn ivory unlock";
+var mnemonic = "burst birth about melody celery ketchup neither useful three album model bottom";

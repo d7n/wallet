@@ -1,1 +1,1 @@
-var mnemonic = "cannon welcome ball stomach erupt nurse duty buffalo salute rival crazy number";
+var mnemonic = "file elegant upset rough glad layer pretty flavor depth milk monkey galaxy";

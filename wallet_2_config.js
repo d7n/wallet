@@ -1,1 +1,1 @@
-var mnemonic = "blind robot hard arrange okay half small acoustic awesome diary fiction moon";
+var mnemonic = "travel similar rice select recall tool scrap stock story dry spray cream";

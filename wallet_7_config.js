@@ -1,1 +1,1 @@
-var mnemonic = "state enact skate crash language spawn album shrug alien near promote raven";
+var mnemonic = "number champion warm brown capital kidney tuition pistol skill perfect crater metal";

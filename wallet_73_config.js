@@ -1,1 +1,1 @@
-var mnemonic = "help region whisper report accuse transfer notice submit custom assume risk suffer";
+var mnemonic = "budget legal alarm mouse exit snow enough update near crisp decorate north";

@@ -1,1 +1,1 @@
-var mnemonic = "over useless purchase attend bring benefit canyon peanut color prize share biology";
+var mnemonic = "siren icon solution envelope protect latin glimpse major tenant rule vault exact";

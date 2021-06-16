@@ -1,1 +1,1 @@
-var mnemonic = "mutual ribbon erosion zoo rib runway vacant scheme tragic spirit win call";
+var mnemonic = "atom fruit mosquito now car attract dolphin friend echo other admit cactus";

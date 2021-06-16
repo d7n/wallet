@@ -1,1 +1,1 @@
-var mnemonic = "broom monkey august brief alpha inform deposit web wall virus width black";
+var mnemonic = "turn illness amused farm spend uniform noodle invest lonely early feature cancel";

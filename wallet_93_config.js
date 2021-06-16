@@ -1,1 +1,1 @@
-var mnemonic = "brother burden expose gas obscure actor hood lumber rescue rocket gauge coconut";
+var mnemonic = "census oven coral weekend asthma blind depart shallow jungle dust small doctor";

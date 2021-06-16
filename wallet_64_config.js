@@ -1,1 +1,1 @@
-var mnemonic = "physical shell target core isolate garment silver stone donkey deposit square fine";
+var mnemonic = "pumpkin state camp super syrup organ marriage fiber enforce ticket confirm spend";

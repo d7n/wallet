@@ -1,1 +1,1 @@
-var mnemonic = "enhance arch expire notable celery elbow legal sustain ordinary today review amateur";
+var mnemonic = "rely unveil tackle tobacco click observe drink ill life asset jump shy";

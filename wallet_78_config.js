@@ -1,1 +1,1 @@
-var mnemonic = "cheap guess ghost frame type shift priority cause bench captain scare enroll";
+var mnemonic = "sudden forum sport menu jacket hold milk notable sunny exist shoe fine";

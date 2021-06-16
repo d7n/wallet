@@ -1,1 +1,1 @@
-var mnemonic = "boat time enemy sample write suspect list scatter exhaust pet fade erupt";
+var mnemonic = "expect blue promote favorite pet arm enrich social sponsor mango trap steel";

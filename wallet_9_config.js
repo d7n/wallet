@@ -1,1 +1,1 @@
-var mnemonic = "travel muffin vocal six whisper hen lyrics belt suggest hip edge weekend";
+var mnemonic = "physical pitch force blur ski nut current multiply smart rug forest bomb";

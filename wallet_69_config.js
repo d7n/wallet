@@ -1,1 +1,1 @@
-var mnemonic = "capital empty smile orphan reveal example shrimp figure hour punch creek section";
+var mnemonic = "enhance abstract subject fatigue unhappy chronic sail account giant vendor input slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate poverty seed uphold fragile voice august uphold guitar sell tortoise wild";
+var mnemonic = "increase blur coyote engine economy hurdle motor transfer term flower muscle again";

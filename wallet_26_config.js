@@ -1,1 +1,1 @@
-var mnemonic = "indicate luggage wagon beef rug piece crop drop pond dry sort wire";
+var mnemonic = "arrive hunt detail actual reduce convince renew razor stadium credit urge skill";

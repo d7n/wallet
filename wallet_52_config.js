@@ -1,1 +1,1 @@
-var mnemonic = "jar flavor present nerve banner flavor embark bomb sport salon chimney tape";
+var mnemonic = "broken laundry spider melody vanish quiz soap correct develop convince trim awful";

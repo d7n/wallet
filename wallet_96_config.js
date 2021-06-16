@@ -1,1 +1,1 @@
-var mnemonic = "inmate spice innocent divert issue buyer bless illness panel ignore nuclear scatter";
+var mnemonic = "enact sight rural original maximum camp ridge whale meadow access umbrella ripple";

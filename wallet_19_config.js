@@ -1,1 +1,1 @@
-var mnemonic = "horror clutch dad matter proof choose uncle merit dinosaur peasant series soon";
+var mnemonic = "squirrel gasp model velvet birth area accuse bracket estate matrix cream usual";

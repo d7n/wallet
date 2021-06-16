@@ -1,1 +1,1 @@
-var mnemonic = "crazy blade exercise bulb live heart endorse path parent sugar example hair";
+var mnemonic = "empower coast dog suit stick win wrap beach tail twin vehicle earth";

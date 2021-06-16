@@ -1,1 +1,1 @@
-var mnemonic = "ostrich junk tag between shed crouch route private hint limit canal butter";
+var mnemonic = "witness water corn combine way funny just duty shadow refuse approve toast";

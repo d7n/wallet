@@ -1,1 +1,1 @@
-var mnemonic = "dream obtain primary trim symptom input depart eagle culture donate ceiling antique";
+var mnemonic = "icon boat local devote senior hip lesson urban mask attract help taxi";

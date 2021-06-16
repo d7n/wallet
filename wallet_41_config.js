@@ -1,1 +1,1 @@
-var mnemonic = "actress profit alert local rebel couch shadow skirt visit tent forum rebuild";
+var mnemonic = "drink shoot polar corn pulp never target physical dad smile dog magic";

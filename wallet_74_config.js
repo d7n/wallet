@@ -1,1 +1,1 @@
-var mnemonic = "lunar identify devote decide tip you salon leave rifle castle daughter speak";
+var mnemonic = "mention urban enter oxygen century eyebrow scissors okay normal regular pottery peace";

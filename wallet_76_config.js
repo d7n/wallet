@@ -1,1 +1,1 @@
-var mnemonic = "orange country slender year install pilot image rebel soon buffalo carbon review";
+var mnemonic = "arrest believe group resource panel skull empty frog immune gorilla deer cart";

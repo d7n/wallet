@@ -1,1 +1,1 @@
-var mnemonic = "only boat swap skull employ marble finger enemy canal quit juice file";
+var mnemonic = "fancy theory avoid dress honey side winner aware disagree frame pudding security";

@@ -1,1 +1,1 @@
-var mnemonic = "horse peace firm work fall square canvas other rival surprise barrel wish";
+var mnemonic = "acoustic mandate hair vast defense cloth fringe slide enroll awful real crouch";

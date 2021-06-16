@@ -1,1 +1,1 @@
-var mnemonic = "burden satisfy harbor alpha liquid width scorpion will segment switch that fix";
+var mnemonic = "angle shrimp top exist daring symbol blue scale card owner obey grape";

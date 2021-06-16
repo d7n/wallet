@@ -1,1 +1,1 @@
-var mnemonic = "lyrics cloth canyon ordinary thrive turkey machine immune clump fish state verb";
+var mnemonic = "arm dream old vote purchase call buffalo right clutch like busy afraid";

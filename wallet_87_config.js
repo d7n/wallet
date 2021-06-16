@@ -1,1 +1,1 @@
-var mnemonic = "document trip alarm spoon purse vocal victory trip equip trip swamp satisfy";
+var mnemonic = "toss isolate ship bonus unfold rib clog assist combine marine ecology fall";
