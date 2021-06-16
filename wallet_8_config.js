@@ -1,1 +1,1 @@
-var mnemonic = "stone save wing plunge copy grant repair bar dawn panel six embody";
+var mnemonic = "budget dwarf tag hamster trick tube wear eye two nest private cream";

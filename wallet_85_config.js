@@ -1,1 +1,1 @@
-var mnemonic = "jewel soul march myth garment market elevator leaf initial fringe dinosaur fiction";
+var mnemonic = "baby dove wreck design jewel outside disagree sponsor stuff course tenant connect";

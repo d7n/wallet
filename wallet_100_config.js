@@ -1,1 +1,1 @@
-var mnemonic = "grow grow garbage vivid cable run salmon focus own dog table copper";
+var mnemonic = "despair august jump ten congress excuse patrol voyage final dial relax wasp";

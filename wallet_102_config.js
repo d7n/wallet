@@ -1,1 +1,1 @@
-var mnemonic = "clap drastic rain decide mad speed owner push vote between ahead write";
+var mnemonic = "dial upgrade degree all feed fresh pipe fetch require talent tumble fancy";

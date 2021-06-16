@@ -1,1 +1,1 @@
-var mnemonic = "bulb cherry tongue bar orange poverty achieve minor ankle sun shoulder pigeon";
+var mnemonic = "giggle cricket volcano card main tent cave random limb ginger impulse note";

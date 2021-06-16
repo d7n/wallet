@@ -1,1 +1,1 @@
-var mnemonic = "present typical ball all degree cushion shed spider bleak usage upgrade echo";
+var mnemonic = "benefit garage hope rural again absurd cable mountain asthma intact segment liquid";

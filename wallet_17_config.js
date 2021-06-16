@@ -1,1 +1,1 @@
-var mnemonic = "yard pipe culture regular join wide awful rocket neither hint remember horse";
+var mnemonic = "obtain stadium hurdle language sea excess forget utility world eager cushion approve";

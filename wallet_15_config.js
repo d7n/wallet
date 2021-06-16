@@ -1,1 +1,1 @@
-var mnemonic = "tattoo fruit ball machine canyon gadget friend flame wage media extra coil";
+var mnemonic = "video nurse fox horn oblige outer peasant quality poverty learn grid glow";

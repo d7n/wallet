@@ -1,1 +1,1 @@
-var mnemonic = "mango success fever diet piece acid hero innocent answer broccoli you royal";
+var mnemonic = "cost flag water ginger prize old skill sting wealth bread scrap pen";

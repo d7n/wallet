@@ -1,1 +1,1 @@
-var mnemonic = "idle memory novel slender alter mobile drama garment advice pilot amazing crowd";
+var mnemonic = "theme indoor subject dumb chaos maid hole insect april eyebrow confirm hammer";

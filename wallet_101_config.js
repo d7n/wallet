@@ -1,1 +1,1 @@
-var mnemonic = "smile net panda tower capable collect wagon calm sauce anchor planet relief";
+var mnemonic = "item clutch zone gauge invite clean license group promote universe once web";

@@ -1,1 +1,1 @@
-var mnemonic = "fence second cactus powder metal above course similar raccoon property company bargain";
+var mnemonic = "crime symptom kit humor stumble able lumber crumble version betray transfer soul";

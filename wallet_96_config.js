@@ -1,1 +1,1 @@
-var mnemonic = "digital bottom endless abstract bounce thunder similar suit middle shove above hurdle";
+var mnemonic = "scan cruise clown letter misery home steak maze minor vibrant great call";

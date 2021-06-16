@@ -1,1 +1,1 @@
-var mnemonic = "myth cluster feel shuffle insect minute public notable deny door prison debate";
+var mnemonic = "boring column student empty sadness brother myself judge sick borrow document machine";

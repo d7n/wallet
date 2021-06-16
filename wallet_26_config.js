@@ -1,1 +1,1 @@
-var mnemonic = "force purity speed west rapid sting cruise spare network desert able arctic";
+var mnemonic = "harbor panda achieve fish weather ribbon myself sort series gentle cradle lumber";

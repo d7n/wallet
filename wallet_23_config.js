@@ -1,1 +1,1 @@
-var mnemonic = "kitten leg thunder twelve math grape craft liar item source service engine";
+var mnemonic = "fancy ring soul list cover erase allow day catalog paddle include flip";

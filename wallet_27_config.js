@@ -1,1 +1,1 @@
-var mnemonic = "egg gauge pumpkin jungle between interest morning library visual dinosaur vague escape";
+var mnemonic = "clap expect mixed hover snack change police spray course kit picture palm";

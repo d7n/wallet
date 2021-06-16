@@ -1,1 +1,1 @@
-var mnemonic = "brave accident legend oppose chronic tragic region lens into drum sunset merit";
+var mnemonic = "garment rule fetch buddy orchard custom exhaust meadow climb shell describe choose";

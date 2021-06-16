@@ -1,1 +1,1 @@
-var mnemonic = "correct diesel project blind crisp hint mango fence never innocent run kidney";
+var mnemonic = "have suggest special involve shove taxi wish stock address wash dish leader";

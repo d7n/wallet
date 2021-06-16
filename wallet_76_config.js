@@ -1,1 +1,1 @@
-var mnemonic = "decrease motion design marble flavor tornado drama south shield forum impact claim";
+var mnemonic = "lizard blur occur vessel key wreck local pull family kangaroo harvest occur";

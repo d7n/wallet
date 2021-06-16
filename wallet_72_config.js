@@ -1,1 +1,1 @@
-var mnemonic = "segment increase pistol connect benefit balcony unhappy drift buffalo valid marble nuclear";
+var mnemonic = "rifle vanish best vacant loop combine gown write eternal kit rescue where";

@@ -1,1 +1,1 @@
-var mnemonic = "minor chaos reopen first term melody phone slide scan market health chuckle";
+var mnemonic = "spread fun capital teach route better certain addict barrel update ranch siege";

@@ -1,1 +1,1 @@
-var mnemonic = "sense guard cigar maple illegal kiwi minimum street scale dial kangaroo dolphin";
+var mnemonic = "nuclear casual slam spirit cancel practice park amazing shaft prefer celery grief";

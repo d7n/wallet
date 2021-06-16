@@ -1,1 +1,1 @@
-var mnemonic = "announce guide swift neck section lava student amount concert spin industry piano";
+var mnemonic = "knock online surface review slow invite shaft clog protect seed fork cousin";

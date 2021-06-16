@@ -1,1 +1,1 @@
-var mnemonic = "spice cargo critic flat prison uncle system badge urge tell enable all";
+var mnemonic = "palace ceiling clean tiger decade avoid kick matrix measure minute gaze metal";

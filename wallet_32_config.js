@@ -1,1 +1,1 @@
-var mnemonic = "build bench keep depend soccer sentence train slot achieve become snap beyond";
+var mnemonic = "shift rare planet differ sign frame series model melt draft stable fade";

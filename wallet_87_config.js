@@ -1,1 +1,1 @@
-var mnemonic = "assist thank rough protect brain uphold prize man absorb flag bench movie";
+var mnemonic = "loud inflict tube find auction credit pave twelve oxygen hurdle cloud bring";

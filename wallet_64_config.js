@@ -1,1 +1,1 @@
-var mnemonic = "lunch obscure dutch divert salad truly rally guide man inner eagle plug";
+var mnemonic = "leave dumb record entry recall journey gadget creek umbrella cargo current flower";

@@ -1,1 +1,1 @@
-var mnemonic = "universe history mixed menu front mouse famous dynamic income resist kidney abandon";
+var mnemonic = "require lab cable lemon illegal deny finish tuition ghost reduce surface swap";

@@ -1,1 +1,1 @@
-var mnemonic = "romance lobster rain short bid attend lounge wheat two act note fitness";
+var mnemonic = "control surround idle over grace electric proof hip sound cram scissors slim";

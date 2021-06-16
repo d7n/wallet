@@ -1,1 +1,1 @@
-var mnemonic = "summer camp chronic cherry liar sign laptop truly arctic allow edge shop";
+var mnemonic = "turtle liberty spy hazard excite certain sell off school butter exile session";

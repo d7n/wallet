@@ -1,1 +1,1 @@
-var mnemonic = "excite tumble excess intact garage congress goose rail envelope company guilt lucky";
+var mnemonic = "nephew innocent scissors clarify front possible spread silent cradle minute forum peace";

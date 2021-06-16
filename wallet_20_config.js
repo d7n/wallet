@@ -1,1 +1,1 @@
-var mnemonic = "brand mind race hello figure venture endless remain like under toy inmate";
+var mnemonic = "earn peanut impulse middle brisk change open trick embrace art subject term";

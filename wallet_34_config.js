@@ -1,1 +1,1 @@
-var mnemonic = "degree hobby admit guide budget settle almost error vapor spice foam beauty";
+var mnemonic = "cable couple coast bind travel health inmate delay garment divert frozen wide";

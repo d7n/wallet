@@ -1,1 +1,1 @@
-var mnemonic = "will anger hub grocery pigeon debate mushroom treat elegant zone coyote another";
+var mnemonic = "champion tennis spawn bitter private concert common humor glove tape assault spray";

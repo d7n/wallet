@@ -1,1 +1,1 @@
-var mnemonic = "top desert lemon bone slow stock rebuild notice discover fence leopard unhappy";
+var mnemonic = "cattle brisk oxygen major render drama task borrow alone unfold notice rose";

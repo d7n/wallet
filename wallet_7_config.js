@@ -1,1 +1,1 @@
-var mnemonic = "sail summer awesome rail mass enforce picnic kind dumb talk awful trial";
+var mnemonic = "crumble cage hole girl stamp capital find gospel midnight endorse gallery cup";

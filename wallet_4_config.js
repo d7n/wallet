@@ -1,1 +1,1 @@
-var mnemonic = "click season lunch float already erode siege nut music box roof climb";
+var mnemonic = "leave shoot cost vacuum you energy civil crisp marine control foil beef";

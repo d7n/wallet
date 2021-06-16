@@ -1,1 +1,1 @@
-var mnemonic = "order amount vicious stock that poet bronze butter album hundred kitten utility";
+var mnemonic = "correct mixed earn taxi answer detail fly pioneer argue crime payment fever";

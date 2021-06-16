@@ -1,1 +1,1 @@
-var mnemonic = "sand gasp arena tonight topple convince seven month upset piece dance love";
+var mnemonic = "cliff stand betray tree suit bleak immune fringe pig carbon puzzle great";

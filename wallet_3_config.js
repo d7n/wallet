@@ -1,1 +1,1 @@
-var mnemonic = "mixed raccoon where grocery hold luggage despair control donkey jeans runway test";
+var mnemonic = "business garment era prepare engage spring front warm glide bottom foot rally";

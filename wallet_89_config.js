@@ -1,1 +1,1 @@
-var mnemonic = "admit naive duck weasel pen silent web spider female fall barrel key";
+var mnemonic = "rough sad crop lady stable ten road return inmate intact together cushion";

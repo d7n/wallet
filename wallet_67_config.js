@@ -1,1 +1,1 @@
-var mnemonic = "duck struggle trigger day jeans draw nest cricket tumble invite notable carpet";
+var mnemonic = "daughter focus protect angry pact clarify waste artefact venture enforce valid worry";

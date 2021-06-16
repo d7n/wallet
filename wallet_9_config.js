@@ -1,1 +1,1 @@
-var mnemonic = "pledge oval uphold wing torch notice urban pony dumb hair simple object";
+var mnemonic = "whale stadium edit cart garlic twenty chat inherit another snake filter key";

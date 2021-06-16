@@ -1,1 +1,1 @@
-var mnemonic = "vacant collect simple motor asset crumble radio wing zone evolve strike sound";
+var mnemonic = "middle void pottery eager try ring scale special tell wrong file flush";

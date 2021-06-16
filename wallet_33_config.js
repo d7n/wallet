@@ -1,1 +1,1 @@
-var mnemonic = "power expire surface loud kitchen claw gossip night amused prison sudden seek";
+var mnemonic = "age gorilla garage receive time tomato robust keen matrix window again awkward";

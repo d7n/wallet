@@ -1,1 +1,1 @@
-var mnemonic = "exotic provide grit bring erode echo option hill airport morning fix family";
+var mnemonic = "jazz already stairs thunder pink area valve true flower boy guide globe";

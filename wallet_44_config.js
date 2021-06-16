@@ -1,1 +1,1 @@
-var mnemonic = "dismiss stumble twenty vicious gold various satisfy depth train food hurry together";
+var mnemonic = "awake grit egg parade ketchup garage online sentence under discover guard bar";

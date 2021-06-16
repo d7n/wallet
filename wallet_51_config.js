@@ -1,1 +1,1 @@
-var mnemonic = "alert below fuel couple picture world pole spy couch receive orient frozen";
+var mnemonic = "onion actor syrup parade donate fragile anchor proof hidden vivid ticket decrease";

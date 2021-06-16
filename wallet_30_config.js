@@ -1,1 +1,1 @@
-var mnemonic = "dune vessel pumpkin crunch reflect twice nest jewel high pulse chronic jealous";
+var mnemonic = "width annual burden cost fog favorite butter ride item saddle glove opinion";

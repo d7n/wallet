@@ -1,1 +1,1 @@
-var mnemonic = "control retire subject bicycle clock engine hero gift demise layer open bomb";
+var mnemonic = "curious anger labor borrow tumble duck poem myth coast dream bamboo myth";

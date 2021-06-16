@@ -1,1 +1,1 @@
-var mnemonic = "draw because poem busy firm junior rack track garlic come picture that";
+var mnemonic = "beauty fortune lamp long provide teach desk fantasy negative absorb rookie predict";

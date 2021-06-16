@@ -1,1 +1,1 @@
-var mnemonic = "oblige manage subject all entire vendor celery talk wine trust expect social";
+var mnemonic = "abstract cake habit industry beauty plug daughter settle tennis bottom noise invest";

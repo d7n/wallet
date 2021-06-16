@@ -1,1 +1,1 @@
-var mnemonic = "require snack miracle fat hood online spawn river sibling bean auction donkey";
+var mnemonic = "eight uncover crash prosper source strike slot recipe expire deer token strategy";

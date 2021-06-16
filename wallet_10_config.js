@@ -1,1 +1,1 @@
-var mnemonic = "strategy super shy elbow craft quote spawn keep use invest shallow analyst";
+var mnemonic = "bean voyage regret auto garlic upper shoe island mom acoustic bitter cereal";

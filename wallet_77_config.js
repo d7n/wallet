@@ -1,1 +1,1 @@
-var mnemonic = "try alone neither shadow chunk hurry box end code end heavy tiny";
+var mnemonic = "pledge phrase total series color giggle add canoe mushroom resemble climb day";

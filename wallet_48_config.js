@@ -1,1 +1,1 @@
-var mnemonic = "blanket amused luxury valley filter blossom angry minute infant around order invest";
+var mnemonic = "fitness club reduce also pilot laundry injury nation boring cat amused traffic";

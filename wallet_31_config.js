@@ -1,1 +1,1 @@
-var mnemonic = "original verb vessel debris sting must print mammal across surface elbow cloth";
+var mnemonic = "source volume jealous rate medal tide arrive cluster tissue hundred ensure first";

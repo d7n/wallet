@@ -1,1 +1,1 @@
-var mnemonic = "action bomb tomato floor neck split fire ghost laugh valley false fall";
+var mnemonic = "toast dwarf liar census pause glory surround pulp renew lazy keep runway";

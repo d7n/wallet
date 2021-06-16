@@ -1,1 +1,1 @@
-var mnemonic = "agree degree govern gravity hammer garment shock female lunar this accuse penalty";
+var mnemonic = "battle satisfy bitter curve fit million hello seat flee egg judge gown";

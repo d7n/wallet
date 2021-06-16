@@ -1,1 +1,1 @@
-var mnemonic = "certain wise praise major release jacket risk design bulb ten extra picnic";
+var mnemonic = "tuna shove improve reveal super diesel spin air slice hire erase daring";

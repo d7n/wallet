@@ -1,1 +1,1 @@
-var mnemonic = "trophy gallery run smooth alter expose demise arch trash moral shed grid";
+var mnemonic = "inhale give snow example naive indoor unaware travel elbow motion dizzy blind";

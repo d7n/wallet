@@ -1,1 +1,1 @@
-var mnemonic = "just cat anxiety divorce crane sample vehicle chief lemon plunge unable fabric";
+var mnemonic = "thank deer give orphan course lunch city suggest kind window science female";

@@ -1,1 +1,1 @@
-var mnemonic = "mention seed reject excite walk load flavor viable page mushroom square adapt";
+var mnemonic = "wave same sorry general across champion stock extra stadium razor work essay";

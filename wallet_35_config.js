@@ -1,1 +1,1 @@
-var mnemonic = "solid stumble same poverty biology surround oil female absorb cradle opera cradle";
+var mnemonic = "when empower alcohol local cargo grain endorse soft catalog fitness grow spy";

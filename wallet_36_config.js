@@ -1,1 +1,1 @@
-var mnemonic = "adult outdoor always mix honey wink shiver lava tomato burden pulp blur";
+var mnemonic = "friend wreck orbit parent struggle trend world envelope click position hand initial";

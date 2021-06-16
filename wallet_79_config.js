@@ -1,1 +1,1 @@
-var mnemonic = "scorpion donate pepper margin hawk have cat hello zone tape label pencil";
+var mnemonic = "hip short slab organ fold letter tell flee gospel gravity lady angry";

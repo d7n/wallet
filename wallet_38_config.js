@@ -1,1 +1,1 @@
-var mnemonic = "arrow scene bulb sure image flee become truth circle zoo mountain neglect";
+var mnemonic = "found sunny scrap focus elephant screen soon inside forum odor lyrics best";

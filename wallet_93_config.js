@@ -1,1 +1,1 @@
-var mnemonic = "daughter attitude sword combine error leader sight route bind crouch draft erosion";
+var mnemonic = "confirm drum rubber wife mix match eight yard differ economy motor mention";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan album private climb warrior myth energy clerk practice chaos liquid toward";
+var mnemonic = "copy other crawl tribe harbor furnace alter bench estate loud boat always";

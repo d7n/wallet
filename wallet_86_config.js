@@ -1,1 +1,1 @@
-var mnemonic = "estate sustain domain sting enroll arena suspect park carpet aspect million laugh";
+var mnemonic = "flag garlic citizen private foil place fruit seven mesh develop subway vicious";

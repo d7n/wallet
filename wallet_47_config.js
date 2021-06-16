@@ -1,1 +1,1 @@
-var mnemonic = "foster trick impose crisp income quality check lesson jungle crucial noise lazy";
+var mnemonic = "fetch kite end dash sun lyrics account fortune fabric dress siege width";

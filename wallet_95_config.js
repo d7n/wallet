@@ -1,1 +1,1 @@
-var mnemonic = "fragile inquiry ecology mimic frozen token alley express powder analyst system can";
+var mnemonic = "food eager defy legend vessel pyramid tragic vault long random wrist oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "embark brown dove tent matrix feel hover solid easily expect mimic diary";
+var mnemonic = "hour mutual warfare glad emerge reform obey village ridge correct coral picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "obey misery endless punch carry can soda anchor upset blossom income survey";
+var mnemonic = "open transfer pledge hunt service rural wisdom smile ticket detail wink left";

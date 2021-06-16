@@ -1,1 +1,1 @@
-var mnemonic = "seek monitor toddler inform yellow brush obvious series woman giant riot orphan";
+var mnemonic = "arch minute frequent hole fruit crawl deny tennis avocado session defense surface";

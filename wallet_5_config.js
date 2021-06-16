@@ -1,1 +1,1 @@
-var mnemonic = "swallow amazing fun female oyster then pet erupt afford prison toast damp";
+var mnemonic = "student glide devote portion fatigue fire depth blame pepper rhythm citizen sell";

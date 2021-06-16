@@ -1,1 +1,1 @@
-var mnemonic = "program few submit action blade ribbon join day chronic cross prosper panic";
+var mnemonic = "tomorrow artefact sun assume flat guess raw jealous spike appear measure tank";

@@ -1,1 +1,1 @@
-var mnemonic = "huge stable annual recycle section stove torch flee mention spike hover exit";
+var mnemonic = "keen index cook mention gesture believe fee air rhythm click expand powder";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh slow diary hungry flock rack require ritual horse gown alarm panel";
+var mnemonic = "warfare attack fiscal parent cloth actual indicate gospel lucky flame music soon";

@@ -1,1 +1,1 @@
-var mnemonic = "spy oxygen tomorrow noble pilot purse imitate monitor truly beyond chuckle traffic";
+var mnemonic = "art glove buffalo runway plastic jelly eternal move involve broom suffer reunion";

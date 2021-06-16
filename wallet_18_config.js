@@ -1,1 +1,1 @@
-var mnemonic = "film seven bonus method quick employ slide penalty west end drip camp";
+var mnemonic = "urban face arrow demise reason culture inmate punch improve radar girl donate";

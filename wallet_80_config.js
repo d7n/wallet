@@ -1,1 +1,1 @@
-var mnemonic = "dismiss bind left orbit music arctic false practice save mosquito snack street";
+var mnemonic = "second scan first clip turkey quiz toilet step dove squirrel marriage boat";

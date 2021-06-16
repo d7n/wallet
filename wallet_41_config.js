@@ -1,1 +1,1 @@
-var mnemonic = "purse cherry urge plug enable logic candy canvas glue chaos sail idle";
+var mnemonic = "beyond fruit issue finish chat suit spice gun baby portion seven comic";

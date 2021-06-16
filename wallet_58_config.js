@@ -1,1 +1,1 @@
-var mnemonic = "hungry aspect minor holiday lunch glimpse flat december corn blame company spell";
+var mnemonic = "twenty vehicle size abuse book foot food tourist paddle various elder recycle";

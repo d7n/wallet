@@ -1,1 +1,1 @@
-var mnemonic = "pudding shaft fuel pink horse car attract scale robust route clump author";
+var mnemonic = "muscle sniff squirrel carbon crack relax code certain cherry flee unlock north";

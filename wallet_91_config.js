@@ -1,1 +1,1 @@
-var mnemonic = "husband example library world inflict swift good mix broom evoke wash spider";
+var mnemonic = "fork limb shrug plunge system come one tray minimum truck acoustic because";

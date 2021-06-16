@@ -1,1 +1,1 @@
-var mnemonic = "begin swift forward spend cost empower taxi isolate whale price cram stamp";
+var mnemonic = "market sleep float cotton artwork print ostrich enemy artwork vivid note skill";

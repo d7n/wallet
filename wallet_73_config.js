@@ -1,1 +1,1 @@
-var mnemonic = "burger hockey december spot include purse stomach mango venue else symbol present";
+var mnemonic = "coyote measure clean repair salute empty riot crowd hurt public retreat bus";

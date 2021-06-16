@@ -1,1 +1,1 @@
-var mnemonic = "yellow exact use bus spin wheat cricket spice latin convince cloth travel";
+var mnemonic = "very dose side liar hint one discover display junior glad seek pony";

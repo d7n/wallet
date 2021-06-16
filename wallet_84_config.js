@@ -1,1 +1,1 @@
-var mnemonic = "walk tube club volcano repeat impact energy check interest valve shove piano";
+var mnemonic = "library summer laugh mirror only once sick fish daring mix rocket melt";
