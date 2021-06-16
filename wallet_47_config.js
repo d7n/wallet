@@ -1,1 +1,1 @@
-var mnemonic = "viable occur because exist traffic scale prevent potato wrong response three fine";
+var mnemonic = "view potato helmet potato capable diagram dragon jaguar work fall main dry";

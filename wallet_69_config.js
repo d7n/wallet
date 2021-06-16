@@ -1,1 +1,1 @@
-var mnemonic = "memory faith demise original slam fork attack ecology laptop dance mom trim";
+var mnemonic = "attend boat sustain dune manual delay hurdle resist once ghost vendor guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "fix fossil sugar uphold leopard inhale okay safe miss brave frequent juice";
+var mnemonic = "radio become bird assault absent trash lunch hamster simple fuel evil enter";

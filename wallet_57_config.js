@@ -1,1 +1,1 @@
-var mnemonic = "render verify mass save dinosaur dawn clump tissue protect dismiss bone fault";
+var mnemonic = "speed draw blast frost figure leopard across globe desk depend more walk";

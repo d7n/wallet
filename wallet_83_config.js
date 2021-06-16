@@ -1,1 +1,1 @@
-var mnemonic = "rate forward price job absorb giant hold post cousin color turtle festival";
+var mnemonic = "rubber snake fatigue mirror filter uncover hybrid idea call link defense gift";

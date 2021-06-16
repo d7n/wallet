@@ -1,1 +1,1 @@
-var mnemonic = "anchor trumpet field various palm element donate alert news risk boring energy";
+var mnemonic = "universe sleep bundle ramp hurdle sense country increase leisure pact mango umbrella";

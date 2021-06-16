@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow size logic update victory tomorrow cable shuffle situate toast decide pause";
+var mnemonic = "genius ball adult spray among phrase cave latin uphold local police oven";

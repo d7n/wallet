@@ -1,1 +1,1 @@
-var mnemonic = "web master bulk sample tail tackle indoor notice slender nice wild feed";
+var mnemonic = "private virus fiscal rose logic patch spin achieve fresh glimpse book drink";

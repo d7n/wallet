@@ -1,1 +1,1 @@
-var mnemonic = "tooth swear fiction old toe mixture awkward strategy clog clarify remind game";
+var mnemonic = "culture barely surround install solid welcome pride barrel jealous twin erode deer";

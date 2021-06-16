@@ -1,1 +1,1 @@
-var mnemonic = "gallery abuse crowd plate business drive wink mean away you derive solution";
+var mnemonic = "smart world sand stone cement wing puppy twice blush exotic sell wet";

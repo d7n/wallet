@@ -1,1 +1,1 @@
-var mnemonic = "wife light ritual torch business strike theme test trust hybrid ride example";
+var mnemonic = "drastic sword inhale maple adjust rack very bargain scare harbor song beauty";

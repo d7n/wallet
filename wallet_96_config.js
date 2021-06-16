@@ -1,1 +1,1 @@
-var mnemonic = "camera invite betray action brother mammal reduce shuffle coffee print now force";
+var mnemonic = "spider chat panda battle matter leg review elevator jaguar eyebrow where diet";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom submit output survey audit taste midnight radio potato small broom hen";
+var mnemonic = "fog problem salon rotate tackle chunk magnet monkey piano stereo harbor hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "forward ranch slide draft bitter initial brave captain female rookie race palace";
+var mnemonic = "canyon vapor rug album attitude scrap dice since speak amazing vessel snake";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote angle kidney regret soul shop pink awful grocery polar mango muffin";
+var mnemonic = "zebra fold pioneer design strong flame exhaust fall donate ketchup crew ethics";

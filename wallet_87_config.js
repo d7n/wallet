@@ -1,1 +1,1 @@
-var mnemonic = "buyer swear round carry success replace section near knife expect glass lizard";
+var mnemonic = "lunch siren metal letter segment reunion body leader ghost palm salt child";

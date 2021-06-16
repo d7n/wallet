@@ -1,1 +1,1 @@
-var mnemonic = "observe mango portion result senior toast absorb trust gentle nice possible mask";
+var mnemonic = "risk depart evidence gift zero memory alarm acid couch habit size bench";

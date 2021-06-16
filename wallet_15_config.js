@@ -1,1 +1,1 @@
-var mnemonic = "pear violin infant dumb exit hungry recall license just blame wrap capital";
+var mnemonic = "ivory goose duty shallow segment seat position never have provide tent grant";

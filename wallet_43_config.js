@@ -1,1 +1,1 @@
-var mnemonic = "report clever tomato brand exhaust door whisper spider reject tenant pistol gift";
+var mnemonic = "fancy defy volcano doctor inject awkward puzzle try keep anchor trumpet quit";

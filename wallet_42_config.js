@@ -1,1 +1,1 @@
-var mnemonic = "say hope donor crater coach harsh close situate load lift dance paper";
+var mnemonic = "worry tower tourist option return subway mention wrong please retire health cook";

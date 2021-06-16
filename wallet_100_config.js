@@ -1,1 +1,1 @@
-var mnemonic = "predict wood hero into pyramid supply comic ability follow liquid stuff asthma";
+var mnemonic = "marine air tobacco decorate hollow frog print suit bar comfort damage name";

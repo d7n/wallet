@@ -1,1 +1,1 @@
-var mnemonic = "image math sausage matrix awful hair muffin swing purse crazy hint tenant";
+var mnemonic = "head cave blast what hazard topple fashion orange since embody shuffle any";

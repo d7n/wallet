@@ -1,1 +1,1 @@
-var mnemonic = "cluster call flight pioneer document raccoon popular youth piano theme humor toe";
+var mnemonic = "canal unlock reason option virtual spice odor daring material hold tongue peace";

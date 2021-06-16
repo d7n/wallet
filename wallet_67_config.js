@@ -1,1 +1,1 @@
-var mnemonic = "airport blast top december rice tragic tumble shuffle budget tank arm depart";
+var mnemonic = "debate coil question mind coach vessel pulse mixed element fuel future boss";

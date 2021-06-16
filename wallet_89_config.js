@@ -1,1 +1,1 @@
-var mnemonic = "trim explain genius crane master report state write ankle kangaroo main eyebrow";
+var mnemonic = "rural order divorce useless avocado rabbit able hole injury smile evoke path";

@@ -1,1 +1,1 @@
-var mnemonic = "book royal shrug mail sign cactus report clarify trend daring educate ill";
+var mnemonic = "stage dumb scan rally gym supreme erosion match zebra insect tiny pull";

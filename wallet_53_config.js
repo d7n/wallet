@@ -1,1 +1,1 @@
-var mnemonic = "crunch choice since inquiry journey mandate tortoise rebuild medal organ blur festival";
+var mnemonic = "present chicken ivory ahead minor fiscal nation pottery genius retire slender purity";

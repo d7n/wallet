@@ -1,1 +1,1 @@
-var mnemonic = "river liquid tail lottery smile hundred deliver chat idea return debris ocean";
+var mnemonic = "street require decide clarify barrel uncle solar slice sight magnet clump tribe";

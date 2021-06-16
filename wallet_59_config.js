@@ -1,1 +1,1 @@
-var mnemonic = "design catalog industry theory keen romance salon inhale language mimic quarter furnace";
+var mnemonic = "antenna carbon laugh bench want fork argue marine note buzz innocent mixed";

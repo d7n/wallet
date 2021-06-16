@@ -1,1 +1,1 @@
-var mnemonic = "custom such win regret increase drip exile magic mutual welcome west critic";
+var mnemonic = "worry virus pave october invest addict lonely initial over client large rapid";

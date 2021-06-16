@@ -1,1 +1,1 @@
-var mnemonic = "universe typical process prefer face social lumber stuff attack enable second pilot";
+var mnemonic = "mandate seminar yellow health reflect ribbon express output vault cute owner wife";

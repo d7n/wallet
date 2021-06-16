@@ -1,1 +1,1 @@
-var mnemonic = "warrior slam yellow fox dial chicken surround accident sorry pottery figure capable";
+var mnemonic = "trim youth disease just wrap detail liar uncover fluid diary math cannon";

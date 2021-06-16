@@ -1,1 +1,1 @@
-var mnemonic = "flush subject borrow tongue pigeon notable rival arrange brown witness rate soup";
+var mnemonic = "alter dust gloom credit list nominee fly banana mass thunder obvious deny";

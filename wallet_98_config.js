@@ -1,1 +1,1 @@
-var mnemonic = "enable exist topple orchard twin picture wisdom business dial employ pudding stamp";
+var mnemonic = "mail photo never accuse harsh repeat gravity order claim provide foam later";

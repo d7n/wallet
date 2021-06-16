@@ -1,1 +1,1 @@
-var mnemonic = "divert winner wild clap resemble hundred burst lounge medal bullet fly couch";
+var mnemonic = "wise rigid jungle maze laundry survey timber check attack six stamp half";

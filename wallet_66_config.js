@@ -1,1 +1,1 @@
-var mnemonic = "engage supreme shoe language skate slight farm tomorrow human spoon juice crush";
+var mnemonic = "soft lady return lab leaf put okay crazy air upon neck wait";

@@ -1,1 +1,1 @@
-var mnemonic = "banana primary cute web catalog pull coil still dinner mobile discover float";
+var mnemonic = "cause muscle piece illness fan attitude illegal sell above vapor impact taste";

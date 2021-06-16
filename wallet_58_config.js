@@ -1,1 +1,1 @@
-var mnemonic = "bar siren one glory flag loud keen teach pizza ladder make furnace";
+var mnemonic = "box unlock ahead position pear sun clerk smoke render slab emerge elite";

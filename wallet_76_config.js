@@ -1,1 +1,1 @@
-var mnemonic = "danger all flock come poem height tip school burden quality horror leaf";
+var mnemonic = "tunnel explain visit media century suffer other wood snake main orphan city";

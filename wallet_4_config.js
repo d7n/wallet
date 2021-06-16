@@ -1,1 +1,1 @@
-var mnemonic = "tent camera law job credit canal dizzy tribe solid bounce safe torch";
+var mnemonic = "other book minute top consider beauty practice leave wing sentence what sting";

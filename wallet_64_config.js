@@ -1,1 +1,1 @@
-var mnemonic = "auction opinion one upper orphan stove benefit envelope frequent blade hire raven";
+var mnemonic = "lottery test ensure uniform holiday obey describe gesture citizen vague minor install";

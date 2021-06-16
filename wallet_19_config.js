@@ -1,1 +1,1 @@
-var mnemonic = "until absent copper artwork tomorrow tumble refuse fan once zero drama coin";
+var mnemonic = "stuff response goose spend comfort soft orbit hurt early change cheap man";

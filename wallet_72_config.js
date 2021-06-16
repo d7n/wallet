@@ -1,1 +1,1 @@
-var mnemonic = "gaze song pitch coral manual skull first clump convince argue rely panda";
+var mnemonic = "asthma farm apart half impact earn swift east crater bitter friend aisle";

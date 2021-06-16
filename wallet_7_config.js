@@ -1,1 +1,1 @@
-var mnemonic = "phone merry enrich jump manual imitate arrive obvious people monkey lobster snake";
+var mnemonic = "oven empty leave human candy shield kiwi lunar unique exit lava path";

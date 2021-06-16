@@ -1,1 +1,1 @@
-var mnemonic = "genuine occur prevent error accuse toilet remove attend piano door upon denial";
+var mnemonic = "auto dice insect science champion congress chief man impose knife system leopard";

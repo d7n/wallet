@@ -1,1 +1,1 @@
-var mnemonic = "reunion mansion vast brother solve submit link pioneer joke indoor path wild";
+var mnemonic = "half lawsuit sight kick matter broom gun amused inmate table cereal record";

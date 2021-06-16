@@ -1,1 +1,1 @@
-var mnemonic = "pluck stay figure ball scorpion never blush measure glance velvet come boss";
+var mnemonic = "thought lawsuit invite design century hammer wisdom imitate clay resemble child like";

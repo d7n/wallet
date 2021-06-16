@@ -1,1 +1,1 @@
-var mnemonic = "various tide marriage exhaust alert pond bar brown wolf antique shift planet";
+var mnemonic = "patch foot remember sword until normal athlete negative carry tag cluster diary";

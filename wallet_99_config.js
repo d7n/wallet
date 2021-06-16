@@ -1,1 +1,1 @@
-var mnemonic = "advice caught swamp crush taste enlist aunt broom world plastic autumn grunt";
+var mnemonic = "exchange oyster live chapter receive brown regular song okay pelican priority palace";

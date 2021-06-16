@@ -1,1 +1,1 @@
-var mnemonic = "scissors soccer submit modify little hundred ozone banana nuclear olympic prosper soccer";
+var mnemonic = "exist math into invest disagree pet fall monster bounce dinner exact eight";

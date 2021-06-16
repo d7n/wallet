@@ -1,1 +1,1 @@
-var mnemonic = "rude coil board cabin absent return great album luxury heart surround recall";
+var mnemonic = "awake skill mango mechanic priority ask dice drop soda man scout shy";

@@ -1,1 +1,1 @@
-var mnemonic = "frost accuse barely major legend discover destroy great mule camp vendor spy";
+var mnemonic = "fee bronze output virtual evidence hospital settle pyramid denial exact normal glance";

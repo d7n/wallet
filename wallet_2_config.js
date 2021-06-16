@@ -1,1 +1,1 @@
-var mnemonic = "lock carry earth glide aim achieve success wagon please join fine lesson";
+var mnemonic = "push soul admit fault estate primary combine mention loud current crucial issue";

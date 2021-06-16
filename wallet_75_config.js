@@ -1,1 +1,1 @@
-var mnemonic = "amateur office crazy slow bamboo install ritual keen leisure luxury response problem";
+var mnemonic = "capital enroll vendor often figure either fever theme glass turtle exist million";

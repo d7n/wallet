@@ -1,1 +1,1 @@
-var mnemonic = "arm mirror horror hood stairs throw cousin learn code evolve original elder";
+var mnemonic = "anxiety celery vintage clerk into man change pizza congress two three turkey";

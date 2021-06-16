@@ -1,1 +1,1 @@
-var mnemonic = "stumble twelve tiny biology puzzle today tuition mammal decade electric cotton visit";
+var mnemonic = "business damp child matter resist junior hope toilet focus dignity shallow glimpse";

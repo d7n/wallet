@@ -1,1 +1,1 @@
-var mnemonic = "gaze neglect upon social tiger area loyal client success abuse doll cotton";
+var mnemonic = "subway mouse tongue wise power grit iron belt put world run exist";

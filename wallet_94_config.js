@@ -1,1 +1,1 @@
-var mnemonic = "fit cart album debris tumble local proof lawn wonder front airport immune";
+var mnemonic = "sun pencil fury inch able design obey follow cupboard fence slide firm";

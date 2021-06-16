@@ -1,1 +1,1 @@
-var mnemonic = "edge whisper flower lake rigid amateur food borrow dance barrel broom student";
+var mnemonic = "behind change bread ride effort shell army climb genre square panda usual";

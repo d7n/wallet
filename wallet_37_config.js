@@ -1,1 +1,1 @@
-var mnemonic = "gravity panda hill brass alter company deal dragon word captain thank pulse";
+var mnemonic = "repeat timber cram harsh slight oyster myself olympic find devote grain vacuum";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore discover eye strong vague group quick gather glue limb fantasy zoo";
+var mnemonic = "front fix drive achieve world key mandate roast jelly tooth wing elite";

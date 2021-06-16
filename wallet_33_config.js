@@ -1,1 +1,1 @@
-var mnemonic = "now youth work core dry horse common perfect raccoon pledge tribe ritual";
+var mnemonic = "addict venue protect early enroll aware price spatial resist guitar wear park";

@@ -1,1 +1,1 @@
-var mnemonic = "social injury reflect city away sing coast flip divorce hand sudden angry";
+var mnemonic = "spirit brisk icon issue differ quit enrich mixed ginger spoil school other";

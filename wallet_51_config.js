@@ -1,1 +1,1 @@
-var mnemonic = "axis call cotton demand meadow tag canal program still insane raise scout";
+var mnemonic = "negative affair patrol stone loyal atom grass cup kick primary moment tribe";

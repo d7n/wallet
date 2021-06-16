@@ -1,1 +1,1 @@
-var mnemonic = "crucial nothing peasant rebel crawl arrive transfer oblige dragon blur thumb drama";
+var mnemonic = "chest welcome price zebra decide depend blur humble cute tenant hover bridge";

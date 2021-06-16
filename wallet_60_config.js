@@ -1,1 +1,1 @@
-var mnemonic = "thunder black ring that under puppy panel ritual bike put minimum cool";
+var mnemonic = "inject candy tide stay enlist ivory extend split snake mandate observe shaft";

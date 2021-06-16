@@ -1,1 +1,1 @@
-var mnemonic = "green avocado junk ride jump merge capital cost spring ocean apology welcome";
+var mnemonic = "shock magic grid monster differ series donkey payment pioneer term reduce boost";

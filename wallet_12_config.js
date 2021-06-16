@@ -1,1 +1,1 @@
-var mnemonic = "baby leaf scorpion forward cliff income fun zoo frozen vivid spawn speed";
+var mnemonic = "unfair cook hood utility year arena gather ten crucial slab private network";

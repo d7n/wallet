@@ -1,1 +1,1 @@
-var mnemonic = "lion chat display joy burst prevent kind grace doctor squeeze chronic digital";
+var mnemonic = "office number become discover feature unlock motion virtual capital return hair shallow";

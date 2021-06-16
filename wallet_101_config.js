@@ -1,1 +1,1 @@
-var mnemonic = "advance weasel fame excite cliff almost salmon this bomb company off either";
+var mnemonic = "dentist doctor clean way fence prepare neglect agree essence horse save myth";

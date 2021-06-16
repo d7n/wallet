@@ -1,1 +1,1 @@
-var mnemonic = "else silk gloom opera frown bleak chuckle moral topple chest junk erupt";
+var mnemonic = "surge kitchen rapid wool pilot input cousin build magic music glass inner";

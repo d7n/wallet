@@ -1,1 +1,1 @@
-var mnemonic = "hurt cruise armor spice obscure point drop matrix door win oxygen false";
+var mnemonic = "machine surprise blur mixed choose situate arrive observe goat frame nominee satoshi";

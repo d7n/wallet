@@ -1,1 +1,1 @@
-var mnemonic = "choice fury chicken middle cube fortune deny worth wolf wise sustain van";
+var mnemonic = "mystery water dust ceiling vital goat race depart plastic soup lottery pact";

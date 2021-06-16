@@ -1,1 +1,1 @@
-var mnemonic = "flock universe believe guitar build recipe drift drill tool carpet chronic advice";
+var mnemonic = "sign gown someone typical much note advance hobby worth culture fuel broccoli";

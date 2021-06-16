@@ -1,1 +1,1 @@
-var mnemonic = "snake sail camera inner outdoor sugar upgrade cave accuse visual conduct west";
+var mnemonic = "benefit ozone rent van raw horn embrace protect kitten transfer permit student";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket draft news until alone talent clutch bright life craft inject orchard";
+var mnemonic = "never festival more juice language bracket tooth snap creek liberty fabric deny";

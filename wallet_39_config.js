@@ -1,1 +1,1 @@
-var mnemonic = "resist rabbit payment wrap neglect foster door extra escape remember mirror oval";
+var mnemonic = "glass photo present truly cry orphan limit twelve toast jealous case regular";

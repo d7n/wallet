@@ -1,1 +1,1 @@
-var mnemonic = "spare jump baby axis sorry stable awesome setup remain human sound lava";
+var mnemonic = "rival retire crime guide elite solve sorry axis pistol arrange rebel because";

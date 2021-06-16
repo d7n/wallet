@@ -1,1 +1,1 @@
-var mnemonic = "village dilemma shock direct tragic tape stuff street horn bonus wing bacon";
+var mnemonic = "language panic present nice engine zero youth neglect heavy shoe roof crater";

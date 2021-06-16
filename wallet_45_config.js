@@ -1,1 +1,1 @@
-var mnemonic = "kitten hungry emotion include hedgehog gym scorpion joy famous flush orphan rate";
+var mnemonic = "into during unveil antique client lottery subway danger board vacant piano type";

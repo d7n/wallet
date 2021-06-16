@@ -1,1 +1,1 @@
-var mnemonic = "purchase walnut version vapor angle very absent rapid across clay palm fortune";
+var mnemonic = "debate butter scene amount menu copy shift kiwi furnace cattle become debris";

@@ -1,1 +1,1 @@
-var mnemonic = "daring organ theory okay kitchen change festival abandon peanut art blame junk";
+var mnemonic = "jacket carpet waste travel advance asthma embark morning chimney junk license laugh";

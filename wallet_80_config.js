@@ -1,1 +1,1 @@
-var mnemonic = "equip used slim mirror erase mosquito dial spy tiger fancy sock summer";
+var mnemonic = "blame erupt coffee obvious fiber perfect torch method boil excite eyebrow decrease";

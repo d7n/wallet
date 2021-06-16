@@ -1,1 +1,1 @@
-var mnemonic = "venture right accident afford mobile film predict bind owner brave dose blur";
+var mnemonic = "lucky pause muscle dog void hobby velvet ripple message family bright garlic";

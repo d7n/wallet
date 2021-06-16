@@ -1,1 +1,1 @@
-var mnemonic = "boost junk half affair model garden wall apple meadow bird hazard sing";
+var mnemonic = "soft moral rapid design book cost trumpet cruel absorb accident flag enjoy";

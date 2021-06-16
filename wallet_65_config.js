@@ -1,1 +1,1 @@
-var mnemonic = "ocean champion lens humor once rebuild scout pulse canyon moon hope cycle";
+var mnemonic = "crush run diary energy inject together update logic deposit panel once sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "tag mass alcohol truck water carpet reward tiger whip solid tomato chef";
+var mnemonic = "clutch super payment lounge finger select elevator web trend corn mango square";

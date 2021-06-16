@@ -1,1 +1,1 @@
-var mnemonic = "tone dad dial appear antenna purchase legend weird tooth wonder drip tide";
+var mnemonic = "circle hamster burger coin describe guard cruel unfold farm drama erase pull";

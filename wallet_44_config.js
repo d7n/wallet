@@ -1,1 +1,1 @@
-var mnemonic = "panther suggest ring lock climb seminar heart boring dwarf neither jump diary";
+var mnemonic = "sense member sausage daring powder gather black illness kit skate dish club";

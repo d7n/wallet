@@ -1,1 +1,1 @@
-var mnemonic = "program shaft jump jacket panel waste supply copy attack soldier chat bone";
+var mnemonic = "cream entire mention giant among letter magnet please render jealous fine cheap";

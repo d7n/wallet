@@ -1,1 +1,1 @@
-var mnemonic = "steel bronze jelly fury flash parrot harbor normal portion account slab interest";
+var mnemonic = "inherit basket exit tumble pony tonight annual street crawl rare common panther";

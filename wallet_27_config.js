@@ -1,1 +1,1 @@
-var mnemonic = "call silent region dismiss erase holiday switch amateur atom soul earth clever";
+var mnemonic = "possible peasant inch vital front city recall beyond convince shine direct fluid";

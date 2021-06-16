@@ -1,1 +1,1 @@
-var mnemonic = "plunge push you thumb stock miss soft text erase blossom tunnel transfer";
+var mnemonic = "jealous world swear budget reward stove soon zero hello brown zebra century";

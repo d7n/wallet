@@ -1,1 +1,1 @@
-var mnemonic = "buffalo melody misery afraid quote sea human pig gym rotate crop shoe";
+var mnemonic = "domain fee dance obvious plug arrange able have quote present nurse sock";
