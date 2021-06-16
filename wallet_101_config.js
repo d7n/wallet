@@ -1,1 +1,1 @@
-var mnemonic = "clutch zero rice salt era swarm arm vacuum kidney trap frost chalk";
+var mnemonic = "broom tumble main flag crime garment unknown around dry because truly tool";

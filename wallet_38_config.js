@@ -1,1 +1,1 @@
-var mnemonic = "diagram broken prosper liberty undo glove track crew click build antenna man";
+var mnemonic = "oven example battle two scout secret expose thunder soon ghost tiger habit";

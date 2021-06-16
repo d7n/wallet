@@ -1,1 +1,1 @@
-var mnemonic = "indicate ridge bacon advice faculty quarter mesh noble soup tattoo expose predict";
+var mnemonic = "tool again regret bronze charge hidden enlist kiss dutch humor emerge bronze";

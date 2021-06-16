@@ -1,1 +1,1 @@
-var mnemonic = "moment pipe web slim since lounge entry mobile betray movie domain catalog";
+var mnemonic = "phrase beach call doll mean thumb ride eight scheme add borrow drill";

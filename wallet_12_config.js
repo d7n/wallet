@@ -1,1 +1,1 @@
-var mnemonic = "gap identify purse excuse average vanish major frown empower profit ball resist";
+var mnemonic = "please exhaust inspire ocean fish review festival spider roof jar atom program";

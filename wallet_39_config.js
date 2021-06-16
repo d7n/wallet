@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon warm tank enact benefit scale town rhythm strong erupt tide brand";
+var mnemonic = "sense fee physical seminar toward list melody crowd note air digital absurd";

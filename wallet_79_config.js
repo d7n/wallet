@@ -1,1 +1,1 @@
-var mnemonic = "harbor until inner hobby typical regret crumble fix timber property ankle donate";
+var mnemonic = "ketchup foster erase fresh laugh return receive check man grant any puppy";

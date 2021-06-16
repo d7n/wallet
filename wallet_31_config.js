@@ -1,1 +1,1 @@
-var mnemonic = "bamboo bottom steel become sick process anger swift project nice glance chair";
+var mnemonic = "amateur limb frozen ugly judge leave diet badge suspect sleep leisure dawn";

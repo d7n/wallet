@@ -1,1 +1,1 @@
-var mnemonic = "alpha want boy make argue three vintage guess dolphin magnet sudden system";
+var mnemonic = "output creek exhaust grid sauce gap balance burger high fence universe sleep";

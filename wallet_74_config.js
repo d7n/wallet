@@ -1,1 +1,1 @@
-var mnemonic = "ability regular balance test solution bulb connect confirm salmon cotton puzzle rural";
+var mnemonic = "delay transfer despair edge begin custom good all six jacket dirt exact";

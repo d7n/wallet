@@ -1,1 +1,1 @@
-var mnemonic = "material fiscal property light dust join decide stumble swamp opera best connect";
+var mnemonic = "toast phrase oxygen pistol dwarf genre film link piece giant intact trophy";

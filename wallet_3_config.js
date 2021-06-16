@@ -1,1 +1,1 @@
-var mnemonic = "risk acquire feature follow hill cube devote eyebrow deliver inside monster need";
+var mnemonic = "market chaos seek sail balance agent board title soft senior rule loyal";

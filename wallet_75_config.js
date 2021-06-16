@@ -1,1 +1,1 @@
-var mnemonic = "giraffe crowd smile public museum you engine banner silly dish jaguar lion";
+var mnemonic = "assault concert they steak fame vast medal elephant churn swarm arm town";

@@ -1,1 +1,1 @@
-var mnemonic = "napkin name comic turtle color virtual lion cute brass salad private stuff";
+var mnemonic = "stuff chef hospital slender repeat use child dynamic torch come million mountain";

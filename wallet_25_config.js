@@ -1,1 +1,1 @@
-var mnemonic = "client fork property fabric pond undo expect unable cave eye park network";
+var mnemonic = "mixture dragon nest salmon dwarf humor ticket nest play dizzy program report";

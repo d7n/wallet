@@ -1,1 +1,1 @@
-var mnemonic = "pony tank morning flower snap enact payment speed debris earn taxi snap";
+var mnemonic = "picnic donate alarm choice climb amount despair congress smart inquiry pool stumble";

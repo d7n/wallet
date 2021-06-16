@@ -1,1 +1,1 @@
-var mnemonic = "stem loyal song field harbor profit tooth legend swarm oppose attitude melt";
+var mnemonic = "edge nut above police matrix camera rack mandate warrior idle brush steak";

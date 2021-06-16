@@ -1,1 +1,1 @@
-var mnemonic = "busy banner burst whale snow problem nation fossil consider hybrid vast observe";
+var mnemonic = "scorpion man gentle mean soon hope else execute pass silly rail cave";

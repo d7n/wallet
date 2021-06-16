@@ -1,1 +1,1 @@
-var mnemonic = "chimney injury tuition proof minor coffee today teach iron brief sting bottom";
+var mnemonic = "plate audit spoil decorate twice apology coach symbol quiz breeze until beauty";

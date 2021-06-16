@@ -1,1 +1,1 @@
-var mnemonic = "critic seat else wedding total journey vault news degree cabin steak stage";
+var mnemonic = "mouse popular ocean lady vacuum name attack cabbage twelve lens useful sibling";

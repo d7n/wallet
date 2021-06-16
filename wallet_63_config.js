@@ -1,1 +1,1 @@
-var mnemonic = "combine nature toilet copy click floor better beauty antique solve liberty scrap";
+var mnemonic = "coin candy cry outdoor original capital warfare emotion leaf tuna brave physical";

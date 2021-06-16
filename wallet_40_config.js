@@ -1,1 +1,1 @@
-var mnemonic = "measure cabbage gas express erase skin collect clap mesh suggest indoor leopard";
+var mnemonic = "ribbon because inner immune taste tribe reward deliver jar grief potato axis";

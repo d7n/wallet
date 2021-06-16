@@ -1,1 +1,1 @@
-var mnemonic = "consider gesture glance stool cram void street execute patch mind asthma lobster";
+var mnemonic = "protect immense fetch milk fog story photo truck dial celery cancel clip";

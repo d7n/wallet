@@ -1,1 +1,1 @@
-var mnemonic = "term mother frown sure coast blanket quarter kidney carpet license talent tomato";
+var mnemonic = "smile setup pilot ecology bus umbrella nephew lecture uncle round come eye";

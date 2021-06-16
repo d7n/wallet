@@ -1,1 +1,1 @@
-var mnemonic = "fruit equal toe lazy assault agent clip aisle old shoot express brain";
+var mnemonic = "famous blind museum force merit final now gentle peasant dinner snap tuna";

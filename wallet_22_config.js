@@ -1,1 +1,1 @@
-var mnemonic = "wise this matrix cook high despair wrestle boring tiger sell give cream";
+var mnemonic = "inform tuna situate tumble box asset snake hat reflect price abstract found";

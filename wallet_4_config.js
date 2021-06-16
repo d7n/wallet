@@ -1,1 +1,1 @@
-var mnemonic = "ginger ghost vital circle inquiry voyage warrior bread tomato inform ship hood";
+var mnemonic = "chat salon tattoo stamp upper law winner cage primary tattoo drill suit";

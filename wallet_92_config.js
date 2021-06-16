@@ -1,1 +1,1 @@
-var mnemonic = "ladder sugar love pulp student popular nest swarm shock public myself embrace";
+var mnemonic = "endless rate trophy worry destroy one neglect welcome adult inject junk blossom";

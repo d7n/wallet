@@ -1,1 +1,1 @@
-var mnemonic = "love employ judge thunder wonder goose spin swim address pistol guess stage";
+var mnemonic = "exotic sponsor session caution hotel original label blossom short bring embrace sustain";

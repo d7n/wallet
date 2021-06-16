@@ -1,1 +1,1 @@
-var mnemonic = "trim venue secret option napkin blouse skull region club balcony sample boat";
+var mnemonic = "wrestle uniform thumb senior stable hurry plug job ensure solve artefact advance";

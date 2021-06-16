@@ -1,1 +1,1 @@
-var mnemonic = "tip inhale quantum dial immense uncle hurt style jar about wait voice";
+var mnemonic = "step victory grow early item aerobic ozone cabbage company conduct sibling lava";

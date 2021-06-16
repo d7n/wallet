@@ -1,1 +1,1 @@
-var mnemonic = "edit symptom glimpse define negative budget that industry fiction creek fresh point";
+var mnemonic = "nose file wrestle elephant century effort bag limb cave wrestle bind live";

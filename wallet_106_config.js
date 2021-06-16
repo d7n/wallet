@@ -1,1 +1,1 @@
-var mnemonic = "property tell pool mobile boring lock dawn robot area pull viable tissue";
+var mnemonic = "spin gasp amused solution edge blame prefer point blast umbrella laugh wolf";

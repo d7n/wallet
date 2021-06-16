@@ -1,1 +1,1 @@
-var mnemonic = "page basket youth pledge sorry episode animal vapor open lift rhythm hello";
+var mnemonic = "juice chief pig gym noodle moral hire whip answer mandate view annual";

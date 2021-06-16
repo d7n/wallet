@@ -1,1 +1,1 @@
-var mnemonic = "churn trick away portion mistake beauty chaos quantum lunch olympic wonder load";
+var mnemonic = "sugar toddler sample erase logic glimpse relax cigar thunder clinic toe honey";

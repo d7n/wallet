@@ -1,1 +1,1 @@
-var mnemonic = "steak across slight catalog vast capital rug embark mosquito frog shine afraid";
+var mnemonic = "glass cash surround lamp enjoy future unit cage notice traffic just almost";

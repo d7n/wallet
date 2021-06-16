@@ -1,1 +1,1 @@
-var mnemonic = "joke blast effort actual remove announce park leave ring sauce valve snake";
+var mnemonic = "increase pistol broken aerobic mesh allow portion letter august gap paper champion";

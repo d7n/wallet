@@ -1,1 +1,1 @@
-var mnemonic = "cabbage average orbit drill wrist unveil mad noodle stereo engine quality chuckle";
+var mnemonic = "pistol woman crisp entry rate layer bless tower drive love mirror bacon";

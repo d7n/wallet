@@ -1,1 +1,1 @@
-var mnemonic = "ivory nasty prize kitten kite page black obtain volcano gesture hello ride";
+var mnemonic = "firm talent eight long mom remove stone tilt truth brain then flavor";

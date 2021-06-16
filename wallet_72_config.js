@@ -1,1 +1,1 @@
-var mnemonic = "wool siren private strong disorder grit sort river hill wink route window";
+var mnemonic = "neither disagree outside age casual regret derive abuse access sunset grid hen";

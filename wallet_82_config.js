@@ -1,1 +1,1 @@
-var mnemonic = "average retreat chicken cherry crawl venue actual genuine news trip piece ensure";
+var mnemonic = "often depth panther universe print exist boy length celery goose napkin weird";

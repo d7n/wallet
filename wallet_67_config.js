@@ -1,1 +1,1 @@
-var mnemonic = "mechanic put suggest fancy region motor daughter unlock clutch pave kid oyster";
+var mnemonic = "tomorrow business fork that shuffle solar mandate wish divide income goose guess";

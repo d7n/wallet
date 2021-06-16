@@ -1,1 +1,1 @@
-var mnemonic = "unfair loan lion monkey buyer planet library birth glue people beach stable";
+var mnemonic = "collect intact welcome donkey lyrics atom ketchup walk tag cattle moment caught";

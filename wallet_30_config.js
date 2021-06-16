@@ -1,1 +1,1 @@
-var mnemonic = "thank electric nut welcome relief timber claim modify smoke edge error risk";
+var mnemonic = "because volume wealth bread lion mass another source opera produce bright bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "release city device prepare funny absent oak crazy eagle fall time clay";
+var mnemonic = "skull worth turtle candy inject cupboard latin survey divide glass junior brain";

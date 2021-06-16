@@ -1,1 +1,1 @@
-var mnemonic = "process winter twelve lyrics winner buzz bubble wagon shed eight heart eternal";
+var mnemonic = "edge gain cactus leave industry hire unique weird park display rack guitar";

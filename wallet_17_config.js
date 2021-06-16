@@ -1,1 +1,1 @@
-var mnemonic = "recipe lumber boost limb assault grant neutral inform away jaguar alert slogan";
+var mnemonic = "wrist found lazy fiscal across purpose artefact remain daring name salt ill";

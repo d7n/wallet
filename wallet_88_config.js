@@ -1,1 +1,1 @@
-var mnemonic = "own embark wait thunder music drama exist alien slam arrange mercy near";
+var mnemonic = "onion vote task answer receive tuition order cabin better lab plunge zoo";

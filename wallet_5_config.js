@@ -1,1 +1,1 @@
-var mnemonic = "magic pepper crime scale dutch cat photo rally pilot above napkin purse";
+var mnemonic = "venture man tongue history lazy region remove west miss leaf jelly scale";

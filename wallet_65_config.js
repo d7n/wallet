@@ -1,1 +1,1 @@
-var mnemonic = "crystal divert member nice clown mosquito flush high radio canvas fly pave";
+var mnemonic = "popular cherry agent arrest apology push mail axis chapter accident brand force";

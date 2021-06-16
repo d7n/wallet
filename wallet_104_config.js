@@ -1,1 +1,1 @@
-var mnemonic = "piano render long code arctic wait doctor hire into melody cart scheme";
+var mnemonic = "color ring voyage hockey gospel diary animal seat that phone pave road";

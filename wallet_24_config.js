@@ -1,1 +1,1 @@
-var mnemonic = "host soccer claw fox early equip kiwi science direct noble current subway";
+var mnemonic = "morning music increase double drama bundle pretty muffin napkin bread style pole";

@@ -1,1 +1,1 @@
-var mnemonic = "myself twelve salt relax goddess question accuse torch spatial copper top crater";
+var mnemonic = "ketchup slush result tip dream feature possible define immune wild either olympic";

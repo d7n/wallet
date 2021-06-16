@@ -1,1 +1,1 @@
-var mnemonic = "episode silk easy noodle announce wave into then popular topple public impact";
+var mnemonic = "unusual frame endless deny behind bar purchase settle spoon sand hill tenant";

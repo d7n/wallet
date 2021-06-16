@@ -1,1 +1,1 @@
-var mnemonic = "blur pluck burger deal spot history galaxy leisure elite girl gadget fuel";
+var mnemonic = "equal fall cup option gas ship galaxy capable owner pioneer slam reason";

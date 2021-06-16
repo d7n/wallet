@@ -1,1 +1,1 @@
-var mnemonic = "describe brick accident armed weapon extra lesson monitor fashion chaos order poverty";
+var mnemonic = "adapt device burger curve slice exit drink traffic phone october cluster tonight";

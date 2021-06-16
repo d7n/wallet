@@ -1,1 +1,1 @@
-var mnemonic = "green super sword merge emotion culture giraffe insect vibrant figure fun suggest";
+var mnemonic = "oven destroy chapter member rapid myth client wet egg job glove above";

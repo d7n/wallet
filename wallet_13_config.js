@@ -1,1 +1,1 @@
-var mnemonic = "sad apple public manual flee notable gold mechanic begin argue thrive equip";
+var mnemonic = "dry warrior link relax ghost raven state gun fatigue record neutral trap";

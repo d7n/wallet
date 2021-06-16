@@ -1,1 +1,1 @@
-var mnemonic = "measure indicate please about learn subway clog benefit stuff useful use pair";
+var mnemonic = "slush virus pelican unfold width skill engine merge crane deputy affair disease";

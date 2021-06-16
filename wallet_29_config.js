@@ -1,1 +1,1 @@
-var mnemonic = "speak radar razor park actress mistake animal virus moral story antenna income";
+var mnemonic = "code laptop pudding attract pull garment oval middle cave anxiety skin other";

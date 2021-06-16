@@ -1,1 +1,1 @@
-var mnemonic = "typical shock erosion cash plastic notable elite pride observe diagram supreme board";
+var mnemonic = "lobster curve truck giant word once visual gold symptom pelican bottom average";

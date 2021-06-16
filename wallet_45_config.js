@@ -1,1 +1,1 @@
-var mnemonic = "awful blast nature poem fold possible curtain green report smoke close battle";
+var mnemonic = "rally pluck derive chapter never cute auction palm supreme inmate dragon cry";

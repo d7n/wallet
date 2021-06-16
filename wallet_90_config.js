@@ -1,1 +1,1 @@
-var mnemonic = "bid popular coast scrap fix follow upgrade layer topic like voyage fame";
+var mnemonic = "pigeon will adjust rhythm program tooth defense end help scrap riot vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "shift tape lucky soup casino ranch bacon language ice bundle use awesome";
+var mnemonic = "vital scout isolate clerk auto open expand attack leaf amount potato live";

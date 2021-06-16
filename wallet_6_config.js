@@ -1,1 +1,1 @@
-var mnemonic = "ankle close meadow celery illegal slot meat exercise walnut achieve one fluid";
+var mnemonic = "cave flush chuckle horn shine diagram harsh wall lazy symbol spring find";

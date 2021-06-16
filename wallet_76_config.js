@@ -1,1 +1,1 @@
-var mnemonic = "between square gun doctor hedgehog violin fix genuine grid session lawn empower";
+var mnemonic = "amount pond guitar bird quarter bronze outdoor swift saddle hood crack slot";

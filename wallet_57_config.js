@@ -1,1 +1,1 @@
-var mnemonic = "risk blue absent record erase marriage flower sausage wage fossil neglect original";
+var mnemonic = "coral hold blouse crowd review country cram music life autumn noise feel";

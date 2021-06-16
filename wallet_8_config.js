@@ -1,1 +1,1 @@
-var mnemonic = "muscle day copy purity average tribe same foster kidney brother oxygen water";
+var mnemonic = "wagon emerge hair file strong predict broccoli quote merry crush course option";

@@ -1,1 +1,1 @@
-var mnemonic = "gather reduce prize attract action bus antenna coin hover affair alpha ceiling";
+var mnemonic = "harbor repeat pear quarter gown walk book culture awkward silver option budget";

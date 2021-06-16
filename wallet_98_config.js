@@ -1,1 +1,1 @@
-var mnemonic = "ensure frost cream roast rebel ethics disorder oyster satisfy suffer worry segment";
+var mnemonic = "round volume turtle olympic seven acquire quality enhance wood unable industry cricket";

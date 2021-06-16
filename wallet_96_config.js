@@ -1,1 +1,1 @@
-var mnemonic = "hotel burst once cradle ranch pattern quick frequent hidden attitude joke before";
+var mnemonic = "arctic local balcony across delay jewel auction shock electric toddler differ spoon";

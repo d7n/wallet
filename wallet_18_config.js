@@ -1,1 +1,1 @@
-var mnemonic = "market ripple element tornado token describe muffin entire mansion sing audit zone";
+var mnemonic = "tenant dismiss diagram submit short acid offer play endless orient crazy rack";

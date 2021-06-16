@@ -1,1 +1,1 @@
-var mnemonic = "patrol burger negative plunge merry woman message empty turkey gym guitar much";
+var mnemonic = "square spell dose photo index bundle vital glide hunt prefer churn prevent";

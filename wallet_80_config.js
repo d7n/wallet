@@ -1,1 +1,1 @@
-var mnemonic = "window next ladder crowd shallow man powder harvest opera always credit vintage";
+var mnemonic = "table flee visual black salad beach extra verify horror wood enroll deal";

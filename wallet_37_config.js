@@ -1,1 +1,1 @@
-var mnemonic = "slush frozen couple sheriff fault resemble evoke hollow evil simple ball motion";
+var mnemonic = "toss can welcome mercy baby you ticket autumn unfold silly suit share";

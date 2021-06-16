@@ -1,1 +1,1 @@
-var mnemonic = "topic entire park bracket cream axis night thrive crunch nose first mutual";
+var mnemonic = "announce donate nuclear ring record total mass salute huge ten tent comic";

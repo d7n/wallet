@@ -1,1 +1,1 @@
-var mnemonic = "tissue again end road elegant oblige cup pen blossom knife dizzy cabbage";
+var mnemonic = "squirrel genre unhappy odor front height remain trash stone ceiling debris about";

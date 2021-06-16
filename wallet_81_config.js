@@ -1,1 +1,1 @@
-var mnemonic = "rough regular smoke relief badge raccoon scout blouse there oblige legend city";
+var mnemonic = "airport solar tape manual cigar parrot siege magnet minimum spring anger era";

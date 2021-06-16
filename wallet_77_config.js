@@ -1,1 +1,1 @@
-var mnemonic = "exhibit drama attitude cherry sugar device wrong habit industry type vapor steel";
+var mnemonic = "code move west mushroom view merge define diamond unveil rain lawn enforce";

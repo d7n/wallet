@@ -1,1 +1,1 @@
-var mnemonic = "image capital foam electric scan ramp flip mean grid tired access crime";
+var mnemonic = "audit thank glide gather lift pumpkin advance useful whisper velvet glove judge";

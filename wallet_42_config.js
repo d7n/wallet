@@ -1,1 +1,1 @@
-var mnemonic = "anchor custom kick firm hire brand pupil pulp uncle token shed chronic";
+var mnemonic = "filter insane target pluck give smooth move skirt light disorder slab upon";

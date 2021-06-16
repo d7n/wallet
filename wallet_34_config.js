@@ -1,1 +1,1 @@
-var mnemonic = "evolve vague pink burst power donkey core anchor soul grant believe eight";
+var mnemonic = "atom crane luxury dawn spider used sock comfort tonight puzzle razor more";

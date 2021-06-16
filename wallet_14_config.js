@@ -1,1 +1,1 @@
-var mnemonic = "clean stem aspect hurry trash trumpet deposit purchase vintage indoor swift next";
+var mnemonic = "opera wagon whisper negative nest prepare knife wrap check canoe monkey marine";

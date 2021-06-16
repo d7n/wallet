@@ -1,1 +1,1 @@
-var mnemonic = "donor fence car eyebrow wild goose picture south blood clarify say loop";
+var mnemonic = "good conduct jazz sight lunch initial imitate method fatigue stomach cook neither";

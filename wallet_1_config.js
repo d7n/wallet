@@ -1,1 +1,1 @@
-var mnemonic = "loan bonus sad divorce embark neglect hill supply diamond turkey bless broom";
+var mnemonic = "just hope author unit polar express pencil sponsor access race naive melody";

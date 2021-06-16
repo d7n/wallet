@@ -1,1 +1,1 @@
-var mnemonic = "detail youth erode ring exhibit order buzz business broken merit kitten license";
+var mnemonic = "scene replace depart huge crop tray creek venture salt task loan print";

@@ -1,1 +1,1 @@
-var mnemonic = "burst proof balance horror panda route tilt aerobic myself hub butter cruel";
+var mnemonic = "extend obey absent lake domain wrong shoe car follow guitar rapid exchange";

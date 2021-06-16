@@ -1,1 +1,1 @@
-var mnemonic = "spot tone wisdom spike weather rather insane blade actress ribbon page bitter";
+var mnemonic = "north fiber rough dwarf banner bridge casino metal nurse test you mom";

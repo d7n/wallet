@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur strong absent afford lumber ten rack fluid century riot garment loud";
+var mnemonic = "gentle adjust bless behind actress begin bread liberty salon window worry eager";

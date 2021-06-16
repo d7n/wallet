@@ -1,1 +1,1 @@
-var mnemonic = "cash become paddle canoe decrease table kangaroo vapor universe remind remove april";
+var mnemonic = "neck suggest become space gap improve minor fly mind add rate muscle";

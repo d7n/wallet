@@ -1,1 +1,1 @@
-var mnemonic = "pool involve clean neutral orphan ball short private bunker speed master sure";
+var mnemonic = "address stomach message trend horse spot security endless eager obey sphere verb";

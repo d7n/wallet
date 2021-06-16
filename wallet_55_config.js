@@ -1,1 +1,1 @@
-var mnemonic = "stone sight repeat undo car voice hen supply stamp slender million wink";
+var mnemonic = "hedgehog dinner silent blind obscure phrase door artefact lonely tornado soft ghost";
