@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow scissors spell reflect sphere sing gap rival doll sick peace little";
+var mnemonic = "motor stage song design dish thumb review grow aware relief ready advance";

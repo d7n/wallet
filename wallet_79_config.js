@@ -1,1 +1,1 @@
-var mnemonic = "club fan nephew isolate garden gaze firm gossip hole culture tiny six";
+var mnemonic = "economy quick punch undo what inform response coil cabbage soap illness blame";

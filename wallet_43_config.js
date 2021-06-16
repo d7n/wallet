@@ -1,1 +1,1 @@
-var mnemonic = "sibling crash expand vast injury erupt float disagree mention island hero unveil";
+var mnemonic = "breeze muscle more industry crouch ranch shove slim baby genuine ticket gossip";

@@ -1,1 +1,1 @@
-var mnemonic = "depart truck bone window appear actor any solve shallow involve devote glass";
+var mnemonic = "goddess velvet brush soon mind boat entry grid olympic version ocean collect";

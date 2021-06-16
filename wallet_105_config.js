@@ -1,1 +1,1 @@
-var mnemonic = "bargain subway thought evolve rather vast hen wheel decrease involve vacant unique";
+var mnemonic = "kind rapid shrimp select dentist virus water cart police apple runway engage";

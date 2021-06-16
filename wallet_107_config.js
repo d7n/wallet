@@ -1,1 +1,1 @@
-var mnemonic = "acoustic viable robust shove decline bamboo together split wasp sock emotion cook";
+var mnemonic = "assist view essay palm mobile crazy picnic expire soft indoor foot wife";

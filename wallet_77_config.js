@@ -1,1 +1,1 @@
-var mnemonic = "athlete museum solid muffin cream devote nut medal artwork kite jacket hurt";
+var mnemonic = "mouse bread meadow inspire occur typical poet defense cage caught deny ordinary";

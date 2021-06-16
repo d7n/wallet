@@ -1,1 +1,1 @@
-var mnemonic = "uncle leader repair current oblige neither net maze pole place essay saddle";
+var mnemonic = "ranch balance mind anxiety energy unknown grit blue fault stage zero earn";

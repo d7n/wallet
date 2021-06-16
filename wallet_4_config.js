@@ -1,1 +1,1 @@
-var mnemonic = "dismiss review forward voyage student used fee blanket love future dirt oven";
+var mnemonic = "wait elephant surface bag antique cluster chair zone dance route side era";

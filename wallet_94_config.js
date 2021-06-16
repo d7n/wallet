@@ -1,1 +1,1 @@
-var mnemonic = "hobby donor dutch river never damage enable ozone result gesture runway agree";
+var mnemonic = "trap deputy throw sphere behave stick frozen spirit vapor exotic anger prize";

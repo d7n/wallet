@@ -1,1 +1,1 @@
-var mnemonic = "diesel choice width alert space giggle whale forest talent blind mystery vocal";
+var mnemonic = "dove fault second palace easily mother attack long spin tribe remember pair";

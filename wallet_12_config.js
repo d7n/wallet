@@ -1,1 +1,1 @@
-var mnemonic = "faith coral stem evidence metal joke crack suspect cement garlic cage wish";
+var mnemonic = "milk elegant reduce upper search vital seed tiger wash setup shrimp mansion";

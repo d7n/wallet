@@ -1,1 +1,1 @@
-var mnemonic = "initial garage vibrant plate output supply firm belt tornado upper accident episode";
+var mnemonic = "lunar list menu expect spot flat life penalty leg raw risk soon";

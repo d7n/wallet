@@ -1,1 +1,1 @@
-var mnemonic = "clever buzz glide announce mushroom wide together fashion veteran dynamic caught liberty";
+var mnemonic = "trim public city shrimp pigeon dignity unusual dolphin slot inquiry wild garbage";

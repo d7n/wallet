@@ -1,1 +1,1 @@
-var mnemonic = "select wool opera exclude tide track peanut melody destroy yellow belt hockey";
+var mnemonic = "angle tone warm breeze lounge size champion divert expand orbit first print";

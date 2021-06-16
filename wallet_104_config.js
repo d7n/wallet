@@ -1,1 +1,1 @@
-var mnemonic = "wine jacket frozen breeze dragon paddle advice recipe radar poet term sound";
+var mnemonic = "wrist mail arm rally evoke lounge power dwarf sense host fade twist";

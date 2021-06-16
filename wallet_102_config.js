@@ -1,1 +1,1 @@
-var mnemonic = "spatial until saddle hurdle excuse feed tone sea share noodle wood element";
+var mnemonic = "rural lobster attract hill reason remain jungle soft cushion fruit ankle season";

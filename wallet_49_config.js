@@ -1,1 +1,1 @@
-var mnemonic = "wrong scout athlete horror benefit total oyster mosquito begin secret leisure school";
+var mnemonic = "inside erosion keen lady fit traffic reflect female early insane live old";

@@ -1,1 +1,1 @@
-var mnemonic = "idea climb carry young people moral receive gadget pioneer safe agree purpose";
+var mnemonic = "board once run stone post fix cotton mom april awesome same clock";

@@ -1,1 +1,1 @@
-var mnemonic = "because food coast upon person potato old hint soul cloth exhaust start";
+var mnemonic = "venue fire embody flame someone need scheme minute income poverty supply almost";

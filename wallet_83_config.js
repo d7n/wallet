@@ -1,1 +1,1 @@
-var mnemonic = "pulse occur thrive domain cause panic piano dragon tube lock gym confirm";
+var mnemonic = "buyer nuclear funny autumn gun skill hospital memory health viable behind obtain";

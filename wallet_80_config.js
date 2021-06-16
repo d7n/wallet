@@ -1,1 +1,1 @@
-var mnemonic = "robot ethics noise scrap february evil dynamic tragic vast envelope turtle track";
+var mnemonic = "sponsor risk cushion tortoise planet tape emerge cube chase dolphin pattern cash";

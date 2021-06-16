@@ -1,1 +1,1 @@
-var mnemonic = "prepare cabin pencil outdoor nation chalk today salon obvious sail allow mom";
+var mnemonic = "tag alert kingdom become kangaroo rhythm phrase tide merry cause test bamboo";

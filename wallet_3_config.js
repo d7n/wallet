@@ -1,1 +1,1 @@
-var mnemonic = "olive glass follow tiger essay alley mad face cross effort muffin worry";
+var mnemonic = "frozen topple express trade sphere famous quiz element april day someone medal";

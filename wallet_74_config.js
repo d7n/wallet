@@ -1,1 +1,1 @@
-var mnemonic = "display pistol baby head harvest remind cradle stereo guess outside jaguar elbow";
+var mnemonic = "resource clean screen congress expose only shrug frame permit ill alone movie";

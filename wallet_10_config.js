@@ -1,1 +1,1 @@
-var mnemonic = "spy marine fiber caught toilet employ direct major swamp tomorrow brush border";
+var mnemonic = "laundry album excite cactus waste mirror gasp select brand upper potato author";

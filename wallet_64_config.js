@@ -1,1 +1,1 @@
-var mnemonic = "high lemon light unable original bronze inner trick album panel clinic awkward";
+var mnemonic = "project length wink extra mirror path vacuum modify define stand merit damage";

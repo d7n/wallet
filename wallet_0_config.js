@@ -1,1 +1,1 @@
-var mnemonic = "coconut detail decline speak secret gravity erosion inspire yellow curve tent proud";
+var mnemonic = "churn member media pyramid fat energy media garbage green crime shove venture";

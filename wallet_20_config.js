@@ -1,1 +1,1 @@
-var mnemonic = "pencil busy orchard puppy taste exact sentence layer dog word abandon night";
+var mnemonic = "cargo moon vast banner slot burden sleep early surface prison tomato spike";

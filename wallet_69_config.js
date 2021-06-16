@@ -1,1 +1,1 @@
-var mnemonic = "lazy merit pudding bless gold basic shadow draw among bird disorder grant";
+var mnemonic = "blame lift indoor betray that winner machine actor quote render grain capital";

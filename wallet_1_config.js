@@ -1,1 +1,1 @@
-var mnemonic = "stage again gun want symptom hotel bleak draft parrot mistake hospital enough";
+var mnemonic = "sponsor tumble critic cotton elephant net tortoise ritual sugar ecology blade tattoo";

@@ -1,1 +1,1 @@
-var mnemonic = "hair mechanic autumn hurt tackle cook neutral box diet manage object ahead";
+var mnemonic = "method panic grab mansion mimic autumn push negative idea author farm wheat";

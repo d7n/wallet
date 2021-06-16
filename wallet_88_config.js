@@ -1,1 +1,1 @@
-var mnemonic = "orphan lawsuit transfer asthma load reason wrist ice hunt orbit access thrive";
+var mnemonic = "peace base viable slim prevent six siege clay rookie degree process shoot";

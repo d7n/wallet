@@ -1,1 +1,1 @@
-var mnemonic = "grocery blame join cause section glance grief spirit offer happy nuclear circle";
+var mnemonic = "narrow traffic spy slide extend under destroy unhappy angry feed twice audit";

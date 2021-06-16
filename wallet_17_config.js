@@ -1,1 +1,1 @@
-var mnemonic = "device cross front loud icon image dove spirit staff rug such kick";
+var mnemonic = "banner truth enough inquiry broom nut dust awkward hundred hotel burger hard";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss place release attitude shadow inspire crime entry bus demise casino label";
+var mnemonic = "cousin ski plug lens rose census vacuum nature hope defense pigeon furnace";

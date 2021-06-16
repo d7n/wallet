@@ -1,1 +1,1 @@
-var mnemonic = "blush oil sound spread flower menu debris file defy twice emotion debris";
+var mnemonic = "reform pudding inside dinner orbit time minimum ridge when buffalo drive arch";

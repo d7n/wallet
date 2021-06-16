@@ -1,1 +1,1 @@
-var mnemonic = "original tell ankle hold robot wet vocal service lumber bronze circle cool";
+var mnemonic = "pepper scare merge april gloom connect lens gadget setup build element laptop";

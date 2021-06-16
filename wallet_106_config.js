@@ -1,1 +1,1 @@
-var mnemonic = "venue fancy slot victory void occur color leisure vital spell chair system";
+var mnemonic = "purpose fitness spin aerobic chapter scene rocket siege bracket peace apart sail";

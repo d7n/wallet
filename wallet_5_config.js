@@ -1,1 +1,1 @@
-var mnemonic = "apart roast frequent wrap pizza whip ancient picnic lesson spy exist conduct";
+var mnemonic = "gorilla today enjoy raven broom tower burst harvest valley monster crew earth";

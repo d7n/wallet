@@ -1,1 +1,1 @@
-var mnemonic = "giant vast learn hold face charge reopen matter quit title hollow diamond";
+var mnemonic = "warm seat coyote rally stamp erode day curtain still mammal zone fetch";

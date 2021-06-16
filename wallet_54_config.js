@@ -1,1 +1,1 @@
-var mnemonic = "blush lunch jewel ostrich toward same nurse clip amateur popular rail million";
+var mnemonic = "urban mechanic farm legal palm worry alien dragon evolve predict borrow dentist";

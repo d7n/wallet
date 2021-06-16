@@ -1,1 +1,1 @@
-var mnemonic = "stick spike rhythm include female arrive couch barely young senior rule engine";
+var mnemonic = "random worry immense jewel country final almost wire corn bottom night affair";

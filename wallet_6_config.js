@@ -1,1 +1,1 @@
-var mnemonic = "enroll drift fever wear tackle library citizen grace option crime chunk yellow";
+var mnemonic = "divorce guess shell asthma siege antenna marine lizard ridge empower jungle snow";

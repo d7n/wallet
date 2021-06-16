@@ -1,1 +1,1 @@
-var mnemonic = "clerk case rhythm slight address ramp giant coast hamster pottery over upper";
+var mnemonic = "copper win release trade sea faith hockey collect despair client defy chalk";

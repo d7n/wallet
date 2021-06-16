@@ -1,1 +1,1 @@
-var mnemonic = "demand gasp twice solar trial move wheat scale wear invest duck today";
+var mnemonic = "age face abandon crystal spoon midnight mass evil observe bar unusual negative";

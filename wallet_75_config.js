@@ -1,1 +1,1 @@
-var mnemonic = "either south script toward good ivory shift moral rival just elbow deputy";
+var mnemonic = "tornado grape piano employ emerge enroll armed mask violin degree input have";

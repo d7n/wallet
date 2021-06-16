@@ -1,1 +1,1 @@
-var mnemonic = "angry task avoid brief tired wreck approve twelve purity moment prevent pause";
+var mnemonic = "claw portion glad true miracle isolate allow mountain minute link rely when";

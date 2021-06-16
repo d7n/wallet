@@ -1,1 +1,1 @@
-var mnemonic = "exotic endorse trend add order draft cereal twin fancy height gospel gaze";
+var mnemonic = "zoo hat gold shuffle island inhale toy wise theory album razor neutral";

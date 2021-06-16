@@ -1,1 +1,1 @@
-var mnemonic = "hobby fork brief ecology harsh right cousin what brick inflict vibrant puppy";
+var mnemonic = "roof risk chicken total prefer setup honey world parent action enough throw";

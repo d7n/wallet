@@ -1,1 +1,1 @@
-var mnemonic = "borrow example similar neglect hello dumb champion swear friend double glue rug";
+var mnemonic = "trial wise pioneer keen wine acid muffin ski ankle between opera label";

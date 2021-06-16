@@ -1,1 +1,1 @@
-var mnemonic = "picture alpha six regular slice attract celery hole under slab craft kit";
+var mnemonic = "pulp please bright spy stock tray horn vast round rescue theory kind";

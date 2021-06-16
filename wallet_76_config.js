@@ -1,1 +1,1 @@
-var mnemonic = "educate common admit pilot crumble spot wisdom decide angry power meadow laptop";
+var mnemonic = "family void pond demand secret sugar wasp try trust rhythm climb muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "net transfer float muscle elegant glow essay trial veteran mask group artefact";
+var mnemonic = "lyrics uniform spice elegant fine dynamic mom inflict jacket nose despair bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "mask lock blood spring slow dove fork original move vibrant famous pluck";
+var mnemonic = "utility matrix loud spider issue dynamic magnet crumble roast ladder entry obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "similar will weird despair release report citizen prison grass few sick segment";
+var mnemonic = "razor cigar hurdle coil benefit move fault crop mother famous innocent tip";

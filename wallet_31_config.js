@@ -1,1 +1,1 @@
-var mnemonic = "series rug burger universe knife shoe angle live connect another damp aim";
+var mnemonic = "lottery joke bottom behind conduct casino tooth episode rude omit twelve mule";

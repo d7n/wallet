@@ -1,1 +1,1 @@
-var mnemonic = "clerk biology chase buyer domain stage worth field member rural embark fringe";
+var mnemonic = "edge guilt today disagree vendor pair dinner shop region practice drive vicious";

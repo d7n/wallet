@@ -1,1 +1,1 @@
-var mnemonic = "denial illegal enrich anchor improve advice arm hello energy lock radar below";
+var mnemonic = "vital loop doctor abandon group square dream spice bomb guard reduce derive";

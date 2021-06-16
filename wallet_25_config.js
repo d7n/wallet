@@ -1,1 +1,1 @@
-var mnemonic = "pipe lend sauce nest lift symbol school athlete surprise prosper shaft basket";
+var mnemonic = "bag spot safe hockey tiger allow like kidney cotton couple duck wrist";

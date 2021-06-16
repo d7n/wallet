@@ -1,1 +1,1 @@
-var mnemonic = "gauge student zoo note top accuse work away certain view abandon thunder";
+var mnemonic = "virus post dance pill grab kick critic orbit place enlist found mystery";

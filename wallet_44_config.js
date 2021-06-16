@@ -1,1 +1,1 @@
-var mnemonic = "truly jelly need pluck lift hundred decade catalog demise case skirt tired";
+var mnemonic = "enrich stable obey right artefact put gown draw right clever poverty lunar";

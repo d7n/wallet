@@ -1,1 +1,1 @@
-var mnemonic = "also lunar praise wagon scout sample monster forest jealous food reduce awake";
+var mnemonic = "cruel plug assist sausage orbit game hope worry galaxy start meadow grace";

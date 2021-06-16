@@ -1,1 +1,1 @@
-var mnemonic = "danger hover alien broken hope trip region negative around bounce lecture when";
+var mnemonic = "coffee second enforce carbon ride worry lonely drop afraid wasp protect deposit";

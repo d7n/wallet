@@ -1,1 +1,1 @@
-var mnemonic = "brand essence monitor venue stool excite impact good midnight grass display night";
+var mnemonic = "debris useful combine planet accuse public wolf battle cost dash answer rebuild";

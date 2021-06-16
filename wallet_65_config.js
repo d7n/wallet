@@ -1,1 +1,1 @@
-var mnemonic = "language border combine math vital industry shadow museum calm pipe voyage unit";
+var mnemonic = "twice helmet average ridge renew glide ginger frog off awesome old nest";

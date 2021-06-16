@@ -1,1 +1,1 @@
-var mnemonic = "boil expect van robust garden hawk fame boil purse then across brick";
+var mnemonic = "leisure fringe slow because measure silver drill smile catalog south share senior";

@@ -1,1 +1,1 @@
-var mnemonic = "test daring nasty stock eager useless this eight unique rail develop endorse";
+var mnemonic = "together bronze use boss lawsuit give doll perfect author all almost employ";

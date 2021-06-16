@@ -1,1 +1,1 @@
-var mnemonic = "leader leopard love enrich super virus tiny enemy hockey select brown transfer";
+var mnemonic = "icon average calm office caught tag burden element hood spider stomach ready";

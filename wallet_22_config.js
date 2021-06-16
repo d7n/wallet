@@ -1,1 +1,1 @@
-var mnemonic = "poet angry nothing river net farm code pass bleak ability alley squirrel";
+var mnemonic = "put gather harsh seat tail sell episode exchange guide dove enough indoor";

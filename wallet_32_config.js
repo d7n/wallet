@@ -1,1 +1,1 @@
-var mnemonic = "six matter quarter waste buzz trash once cushion wing belt tobacco prefer";
+var mnemonic = "invite shrimp slam always leader industry pond grape elephant alarm second crush";

@@ -1,1 +1,1 @@
-var mnemonic = "day lamp such invest blanket filter young limit choice gesture image defy";
+var mnemonic = "inside time found shallow craft sphere protect grocery spread pull box law";

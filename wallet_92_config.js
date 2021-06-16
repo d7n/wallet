@@ -1,1 +1,1 @@
-var mnemonic = "slice combine security worry match ability clump middle embody penalty view keen";
+var mnemonic = "picnic viable initial salmon second forward hungry knife robust stuff day spare";

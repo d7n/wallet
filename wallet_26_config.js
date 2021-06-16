@@ -1,1 +1,1 @@
-var mnemonic = "question head voice report audit tomorrow essay like name flat crumble eager";
+var mnemonic = "local resist sword live exit slush spoon door tissue cheap assist evolve";

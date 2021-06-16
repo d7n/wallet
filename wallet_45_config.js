@@ -1,1 +1,1 @@
-var mnemonic = "name require lake screen style more behind monster shallow toddler aunt staff";
+var mnemonic = "system piece gas eager position gun detect umbrella toast protect cage orient";

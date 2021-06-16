@@ -1,1 +1,1 @@
-var mnemonic = "honey mass spring predict helmet garden coyote aspect fortune acid reason debate";
+var mnemonic = "anchor pill before property tiger barely into thunder casual auction bulk weasel";

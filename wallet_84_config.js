@@ -1,1 +1,1 @@
-var mnemonic = "perfect display anger peace thrive frown piano good treat short auction loop";
+var mnemonic = "dad grab prison lawn want anchor mushroom van ridge pumpkin flock series";

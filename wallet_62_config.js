@@ -1,1 +1,1 @@
-var mnemonic = "asthma home foster marble off daughter mammal void excess shield abandon enough";
+var mnemonic = "solution desert equip tuition typical evolve license tiny aspect ask green brisk";

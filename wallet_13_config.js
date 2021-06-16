@@ -1,1 +1,1 @@
-var mnemonic = "elite skull goose sweet mosquito fabric same method wreck wink drastic script";
+var mnemonic = "casino test pave wisdom breeze flash poet exact august capable forward penalty";

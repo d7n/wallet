@@ -1,1 +1,1 @@
-var mnemonic = "young title faculty network term elevator such artefact notable wear much advice";
+var mnemonic = "abstract table bronze coffee advice acid magic prepare current venue midnight buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "general fuel order food tent valve height rally black prosper moment fiber";
+var mnemonic = "fringe juice misery owner hamster betray ensure object abandon anger inner pass";

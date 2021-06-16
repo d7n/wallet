@@ -1,1 +1,1 @@
-var mnemonic = "path roast under model neck cannon blush sight auto blade art olive";
+var mnemonic = "decorate notice truth crack explain fold among afraid survey skirt skin test";

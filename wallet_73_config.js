@@ -1,1 +1,1 @@
-var mnemonic = "moment unusual shop upset medal appear boring lumber exist random crouch erase";
+var mnemonic = "sea stamp ivory also pull ceiling seed swallow bleak volume length label";

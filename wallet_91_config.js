@@ -1,1 +1,1 @@
-var mnemonic = "almost twenty hat brass address solve space news wet art barely wealth";
+var mnemonic = "farm swap entire click device various ranch coil dream reform pitch secret";

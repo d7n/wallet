@@ -1,1 +1,1 @@
-var mnemonic = "exist orphan hunt life swing industry tank caught copy ginger seek already";
+var mnemonic = "ancient myth knife inch parade valid crumble point slab first sick shove";

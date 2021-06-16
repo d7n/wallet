@@ -1,1 +1,1 @@
-var mnemonic = "surge ticket ridge pencil rhythm army clerk stadium voyage leg cream shop";
+var mnemonic = "filter cloth giant receive fossil brother crazy ten fine lonely similar own";

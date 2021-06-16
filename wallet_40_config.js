@@ -1,1 +1,1 @@
-var mnemonic = "remind album august peasant fall few gorilla diet smart detect client ethics";
+var mnemonic = "dash video sheriff oil until guilt health biology notice mutual upon dragon";
