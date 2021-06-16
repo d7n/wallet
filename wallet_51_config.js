@@ -1,1 +1,1 @@
-var mnemonic = "popular negative sudden enhance aspect happy kit mansion crop erosion chef crouch";
+var mnemonic = "pistol slab reject try dignity face toast wire divert matter skill bridge";

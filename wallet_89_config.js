@@ -1,1 +1,1 @@
-var mnemonic = "human upon burst bacon reveal river apology point smooth mercy cage detect";
+var mnemonic = "spoil domain manage stairs club fresh powder melt radio empty tag fitness";

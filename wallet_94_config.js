@@ -1,1 +1,1 @@
-var mnemonic = "message evil fragile key wall dragon skull artwork exact breeze fluid echo";
+var mnemonic = "assault left crucial boy sail engage party shallow slide talent six arena";

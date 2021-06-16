@@ -1,1 +1,1 @@
-var mnemonic = "real balance blade furnace menu key father process awake copy crouch vacuum";
+var mnemonic = "plastic hen puzzle stomach honey marble lend margin reopen piece goddess kiwi";

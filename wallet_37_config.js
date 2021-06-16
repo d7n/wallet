@@ -1,1 +1,1 @@
-var mnemonic = "runway praise water mom pass oven easily stone rail ocean zebra mammal";
+var mnemonic = "swing mix air wish cabbage silly pluck camera blanket uphold morning symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "fly cup garage finish thought chapter bread device relief orphan crystal hockey";
+var mnemonic = "rural next uncover relax ostrich anger isolate oil unlock barrel biology bleak";

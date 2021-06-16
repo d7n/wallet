@@ -1,1 +1,1 @@
-var mnemonic = "warfare castle velvet network hold vanish already absorb dawn pattern spell marriage";
+var mnemonic = "fiction hope soon truth cover during industry master dress wagon mirror toss";

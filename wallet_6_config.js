@@ -1,1 +1,1 @@
-var mnemonic = "virus affair cause uniform cannon drop mixed sign clever isolate joke long";
+var mnemonic = "rain move gun bunker demise tornado wage portion chat sniff garment vivid";

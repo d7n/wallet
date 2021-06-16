@@ -1,1 +1,1 @@
-var mnemonic = "rifle liquid dice onion beauty opera catch flash major erupt shallow weekend";
+var mnemonic = "model action desert damage bronze cloud hobby excess prevent unfold pave salt";

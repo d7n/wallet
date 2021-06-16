@@ -1,1 +1,1 @@
-var mnemonic = "gasp employ recycle bachelor dad prepare repair olive decide brief antique inner";
+var mnemonic = "fit arch cattle wreck whisper truly alert produce sign banana broken aunt";

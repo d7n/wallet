@@ -1,1 +1,1 @@
-var mnemonic = "step spoon grocery obtain onion table liar element team gorilla doll spray";
+var mnemonic = "gadget sock unit until laundry reveal chalk top bronze morning unable finish";

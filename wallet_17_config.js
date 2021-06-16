@@ -1,1 +1,1 @@
-var mnemonic = "degree birth assault much exchange sugar shed glass choose reopen fringe sunny";
+var mnemonic = "hen typical job wing dilemma state play mesh talent fly grocery mystery";

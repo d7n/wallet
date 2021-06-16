@@ -1,1 +1,1 @@
-var mnemonic = "target idea inmate pilot all animal casual change joy girl flee penalty";
+var mnemonic = "poverty gym tank decorate brown finger gather credit million describe symbol bicycle";

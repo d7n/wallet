@@ -1,1 +1,1 @@
-var mnemonic = "cattle push barely broccoli wheel shiver cherry sheriff escape section inspire voice";
+var mnemonic = "hungry wine hero mushroom fluid try agent elder question submit believe audit";

@@ -1,1 +1,1 @@
-var mnemonic = "post height praise monster gauge sunset devote renew grace auction credit toe";
+var mnemonic = "sure else cat circle expose dumb box math muscle champion aspect involve";

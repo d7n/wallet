@@ -1,1 +1,1 @@
-var mnemonic = "polar island cattle faint negative ability cry stage submit confirm memory attack";
+var mnemonic = "entire short edge divert actor grape still file panel cancel column motor";

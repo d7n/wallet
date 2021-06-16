@@ -1,1 +1,1 @@
-var mnemonic = "town suggest release produce garden arrest garlic soda stem daughter universe bunker";
+var mnemonic = "typical twin buffalo close mansion author saddle possible city hover column explain";

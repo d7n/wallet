@@ -1,1 +1,1 @@
-var mnemonic = "tortoise senior rose inside diamond armed quote apology donate shoulder fury mechanic";
+var mnemonic = "caught boil fiction rival law buffalo talent siege spice armed melt keep";

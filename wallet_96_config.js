@@ -1,1 +1,1 @@
-var mnemonic = "apart talent industry tourist online combine focus spend another permit artist detect";
+var mnemonic = "tool already invite year metal teach mom ice spend basket tennis promote";

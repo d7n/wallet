@@ -1,1 +1,1 @@
-var mnemonic = "invite hurry cat lake always biology below plug ecology couple camera you";
+var mnemonic = "miss walnut antique tiny coyote slam avocado track vacuum lady leisure donor";

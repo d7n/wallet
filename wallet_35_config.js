@@ -1,1 +1,1 @@
-var mnemonic = "useful carbon boss congress federal decade north pulse verify during subway security";
+var mnemonic = "injury among flip poverty bachelor lecture mobile used space exchange grace snap";

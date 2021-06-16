@@ -1,1 +1,1 @@
-var mnemonic = "butter quarter aware cook thumb verify raccoon wealth core dutch problem mutual";
+var mnemonic = "search basket mention blur trash baby mother glide office company august effort";

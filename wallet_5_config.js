@@ -1,1 +1,1 @@
-var mnemonic = "rhythm promote goddess clean win neglect believe push hover expire outdoor logic";
+var mnemonic = "next dice broom upper dinosaur buffalo feel guide crumble deposit average photo";

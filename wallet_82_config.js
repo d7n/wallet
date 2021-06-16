@@ -1,1 +1,1 @@
-var mnemonic = "blade whip dog movie media engine future comfort income problem you pigeon";
+var mnemonic = "labor fun panel foam kick tiny hard brain news brown will journey";

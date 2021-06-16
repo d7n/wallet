@@ -1,1 +1,1 @@
-var mnemonic = "endorse bomb logic marine explain little master birth direct jacket erode absurd";
+var mnemonic = "stumble husband forest noodle suffer clever glimpse miss bargain long grunt canyon";

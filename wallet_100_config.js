@@ -1,1 +1,1 @@
-var mnemonic = "name medal target into venture puzzle round canvas nerve dry cycle wolf";
+var mnemonic = "prepare know rely hybrid border grunt kiss pottery trial omit bargain gather";

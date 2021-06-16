@@ -1,1 +1,1 @@
-var mnemonic = "truth catch lawsuit roof enact release organ reduce pink swear key swamp";
+var mnemonic = "bar retreat tell inhale piece mosquito silk cost silent claw govern letter";

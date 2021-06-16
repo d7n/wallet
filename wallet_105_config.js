@@ -1,1 +1,1 @@
-var mnemonic = "glove maze purse embody token ozone law album invest coral dish celery";
+var mnemonic = "skirt burger remember cancel easy abstract coil van onion notice cross horse";

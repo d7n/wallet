@@ -1,1 +1,1 @@
-var mnemonic = "light place diamond trumpet chair senior weird stage blue dove wife story";
+var mnemonic = "piano crunch food panther estate diagram napkin number spoil fine iron wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "bicycle flavor shadow perfect fault axis bunker coyote cactus legal journey climb";
+var mnemonic = "deputy online alley dial aisle habit uncle tomato wall morning property depend";

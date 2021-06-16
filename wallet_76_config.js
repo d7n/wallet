@@ -1,1 +1,1 @@
-var mnemonic = "will hire level decide heavy achieve cement mobile excite lottery credit baby";
+var mnemonic = "unknown occur tide drop divide author rack soccer nothing enhance web taste";

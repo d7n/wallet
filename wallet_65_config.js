@@ -1,1 +1,1 @@
-var mnemonic = "pink brick keen oil cannon allow message melt outside sample cliff used";
+var mnemonic = "siege midnight network fantasy wise basket opinion wash merge scrap sign coach";

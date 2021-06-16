@@ -1,1 +1,1 @@
-var mnemonic = "expect bright lecture prevent atom volcano wink strike puppy switch noble session";
+var mnemonic = "catch plate fold tag math steak glow license main kangaroo fortune mimic";

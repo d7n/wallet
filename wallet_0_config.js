@@ -1,1 +1,1 @@
-var mnemonic = "ten lyrics phrase virtual moon fix occur solve camera one opera plate";
+var mnemonic = "theory hawk food praise neglect december resist book chat raven vault pitch";

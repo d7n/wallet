@@ -1,1 +1,1 @@
-var mnemonic = "siren monkey quick return bone switch over primary security present soup rapid";
+var mnemonic = "gravity poet lawn defense hedgehog march scan drum ring explain royal february";

@@ -1,1 +1,1 @@
-var mnemonic = "extra mercy market moment rotate polar gossip crowd attack snap rough vapor";
+var mnemonic = "slide brisk envelope define prevent seat misery rotate bench token orphan pilot";

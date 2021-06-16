@@ -1,1 +1,1 @@
-var mnemonic = "execute scorpion thunder harbor feed daughter purity else planet pipe sail distance";
+var mnemonic = "amount moral away debris kidney insect pave transfer same popular plate garment";

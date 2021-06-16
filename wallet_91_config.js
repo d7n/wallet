@@ -1,1 +1,1 @@
-var mnemonic = "saddle result grunt trash shuffle shine release embody boring riot two truly";
+var mnemonic = "hurry wreck cigar entry crucial identify bonus coyote ribbon twelve smart school";

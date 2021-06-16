@@ -1,1 +1,1 @@
-var mnemonic = "loyal replace unusual exclude index exist educate scorpion tent youth black man";
+var mnemonic = "tuna doll boring share correct party rigid unfair sing fold ceiling motor";

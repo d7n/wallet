@@ -1,1 +1,1 @@
-var mnemonic = "plastic trophy segment curious basket kangaroo oven ill shine rigid neck skate";
+var mnemonic = "copy pilot meat junk door bright arena amused capital pizza rural add";

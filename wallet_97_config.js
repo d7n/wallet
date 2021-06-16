@@ -1,1 +1,1 @@
-var mnemonic = "frozen labor chronic minimum host next doctor knee dolphin believe raccoon immune";
+var mnemonic = "junk finger kind fee move clarify cage ostrich push tuna sail elder";

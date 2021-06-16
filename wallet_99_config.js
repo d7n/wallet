@@ -1,1 +1,1 @@
-var mnemonic = "pelican dumb target gorilla maple toy toilet special fetch chimney rain cloth";
+var mnemonic = "moment crawl nest crush word topple vote yard kangaroo disagree dawn forum";

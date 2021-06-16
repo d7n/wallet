@@ -1,1 +1,1 @@
-var mnemonic = "supply length farm veteran glue all asthma educate erase violin seminar pretty";
+var mnemonic = "egg young middle swallow please analyst bargain table invite marriage author flee";

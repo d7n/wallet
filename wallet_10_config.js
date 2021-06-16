@@ -1,1 +1,1 @@
-var mnemonic = "paper borrow urban below slam method essence arena forest nation logic autumn";
+var mnemonic = "post federal advice giraffe salon future judge dune still turtle predict lend";

@@ -1,1 +1,1 @@
-var mnemonic = "flip vacuum suffer south valid away plastic trend audit purse eagle profit";
+var mnemonic = "actual detail note shield grape fossil increase dress october life clump run";

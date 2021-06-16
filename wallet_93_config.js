@@ -1,1 +1,1 @@
-var mnemonic = "turkey sunset cruel renew start say orbit switch direct aim fire cake";
+var mnemonic = "science blossom food obtain leisure kitten view work team winter wasp nut";

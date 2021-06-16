@@ -1,1 +1,1 @@
-var mnemonic = "column grief peace nature error hill random auction icon normal glad dove";
+var mnemonic = "pumpkin dumb snap measure shift bundle addict naive recycle meat unit ugly";

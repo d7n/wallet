@@ -1,1 +1,1 @@
-var mnemonic = "rebel example grunt pyramid believe wood walk thing siren summer picture assault";
+var mnemonic = "beyond vintage soul ecology agree extra maximum caught strike used elbow pair";

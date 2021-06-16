@@ -1,1 +1,1 @@
-var mnemonic = "sugar arrest year thumb pipe gold concert move short soup media install";
+var mnemonic = "system oak tiny job interest traffic stand wreck blouse security learn winter";

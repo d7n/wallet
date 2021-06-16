@@ -1,1 +1,1 @@
-var mnemonic = "into ostrich vendor metal foil vibrant empower skill napkin silver today canal";
+var mnemonic = "various pulse door isolate race love wasp shoot doctor island warfare desert";

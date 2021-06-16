@@ -1,1 +1,1 @@
-var mnemonic = "cart physical cart stove orange steel pen again emerge rate fault cage";
+var mnemonic = "alert diesel moral blast knock limb heavy wolf love keep huge earn";

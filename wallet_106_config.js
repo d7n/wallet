@@ -1,1 +1,1 @@
-var mnemonic = "romance gain obey happy drip absurd fault lava stereo impulse flight plastic";
+var mnemonic = "vague monster stairs order tennis curve empower situate trade purpose plastic invest";

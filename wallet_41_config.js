@@ -1,1 +1,1 @@
-var mnemonic = "aim ordinary family possible body trophy sell metal lamp split unit run";
+var mnemonic = "canal expect utility glare also swallow wasp inflict emotion capable consider truck";

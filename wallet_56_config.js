@@ -1,1 +1,1 @@
-var mnemonic = "once reason truck lion gentle youth zero fresh used enforce shiver primary";
+var mnemonic = "afford sock hollow best slice obey earn scout summer behave luxury monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "summer climb husband wall bus express banner advice deliver cotton ahead lawsuit";
+var mnemonic = "police artist oppose tape grab maze citizen across unknown shop poverty tree";

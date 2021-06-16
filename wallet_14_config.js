@@ -1,1 +1,1 @@
-var mnemonic = "acid layer first toward group squirrel body claim twice drum female spend";
+var mnemonic = "oak cliff intact cotton describe skin walk system pause load mushroom property";

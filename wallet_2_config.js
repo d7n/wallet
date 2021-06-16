@@ -1,1 +1,1 @@
-var mnemonic = "fade robust mask combine attend hire social universe addict hen island coconut";
+var mnemonic = "romance tiny client velvet win cruel banner pipe wink timber update destroy";

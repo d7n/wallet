@@ -1,1 +1,1 @@
-var mnemonic = "acoustic result arctic bike scene hen meadow camera drip pumpkin fluid scene";
+var mnemonic = "cradle squeeze radar effort problem situate wreck state material myself hour illness";

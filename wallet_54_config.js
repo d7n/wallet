@@ -1,1 +1,1 @@
-var mnemonic = "follow unable february admit orphan produce twist black panda purchase load swap";
+var mnemonic = "employ where expire glance rookie narrow decorate silent breeze delay system interest";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen jealous chief napkin ocean fiscal hub label elder simple clog salad";
+var mnemonic = "equip decline smooth say left vocal crouch congress patrol melt capital sun";

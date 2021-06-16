@@ -1,1 +1,1 @@
-var mnemonic = "viable captain tourist sponsor shallow goddess noise bronze bird away next foster";
+var mnemonic = "nest shiver scatter invite wish uniform trim fragile hint off rhythm sick";

@@ -1,1 +1,1 @@
-var mnemonic = "once elite cancel swim survey fiscal goose crumble enhance rent citizen squeeze";
+var mnemonic = "coil walnut silly advance spell flash worth library appear address essence party";

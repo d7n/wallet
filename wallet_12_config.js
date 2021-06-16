@@ -1,1 +1,1 @@
-var mnemonic = "flush dust bitter total voice smart oblige direct maximum hobby wise kitchen";
+var mnemonic = "usual plunge manage lady round impulse control build staff minimum verb try";

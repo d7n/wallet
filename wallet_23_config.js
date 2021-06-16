@@ -1,1 +1,1 @@
-var mnemonic = "weekend school ridge expand baby ancient ticket source domain dirt advice champion";
+var mnemonic = "often round sunny easy ostrich dog virus embark expose retreat blossom diet";

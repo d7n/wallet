@@ -1,1 +1,1 @@
-var mnemonic = "upset scrap parrot rocket figure nerve captain belt shrimp essay brisk lecture";
+var mnemonic = "worth boost vendor game dolphin caught accident vague mango eye flavor page";

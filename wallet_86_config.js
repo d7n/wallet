@@ -1,1 +1,1 @@
-var mnemonic = "tornado animal idea message stand question tooth aim assume fabric give ostrich";
+var mnemonic = "tortoise forum combine bachelor elbow learn owner say body first snack spray";

@@ -1,1 +1,1 @@
-var mnemonic = "online claw cook bleak push just click blast memory web elevator sadness";
+var mnemonic = "demise cost champion cactus orphan obey judge photo blush pledge delay venue";

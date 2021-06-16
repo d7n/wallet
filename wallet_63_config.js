@@ -1,1 +1,1 @@
-var mnemonic = "spare analyst party allow ocean obtain humble patch mixed weather certain consider";
+var mnemonic = "airport congress switch blanket unfair inspire top grant book you talk cousin";

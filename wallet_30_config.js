@@ -1,1 +1,1 @@
-var mnemonic = "fun skull link stereo when tail deposit banana camp guide squirrel brother";
+var mnemonic = "stool habit seminar flavor jeans relief grape increase peasant park gesture word";

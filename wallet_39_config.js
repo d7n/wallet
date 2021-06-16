@@ -1,1 +1,1 @@
-var mnemonic = "fun expire tilt about polar decrease eternal make original sport plug evil";
+var mnemonic = "focus powder human estate assume wool still success pave dune alien canyon";

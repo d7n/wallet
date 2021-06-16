@@ -1,1 +1,1 @@
-var mnemonic = "heart build lawsuit skill describe lonely purpose route tape emotion usage cotton";
+var mnemonic = "display bus brave open latin mystery update inch dignity also cute illegal";

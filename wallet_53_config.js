@@ -1,1 +1,1 @@
-var mnemonic = "have easy develop still remember twin climb chief follow rally tent split";
+var mnemonic = "cloth ridge hole calm witness aim resemble gesture fat simple similar change";

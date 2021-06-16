@@ -1,1 +1,1 @@
-var mnemonic = "annual label rich net face seminar yard risk long link million pottery";
+var mnemonic = "kitchen sudden blame conduct clerk scan grid veteran lecture teach palace misery";

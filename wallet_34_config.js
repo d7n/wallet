@@ -1,1 +1,1 @@
-var mnemonic = "cross buyer upgrade rocket library stamp pink fine title chef crystal scorpion";
+var mnemonic = "amused core model fitness easy embody owner figure help day lobster scheme";

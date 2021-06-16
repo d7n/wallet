@@ -1,1 +1,1 @@
-var mnemonic = "obey pause casino setup spring hour plastic feature alcohol local hospital canvas";
+var mnemonic = "empty coast element tired kind supply spring address library cruel mechanic soul";

@@ -1,1 +1,1 @@
-var mnemonic = "window remember maximum fiction abuse picnic voice video enhance village gift attitude";
+var mnemonic = "hybrid tray comic coin legal utility often reopen slim armed derive destroy";

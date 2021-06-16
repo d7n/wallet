@@ -1,1 +1,1 @@
-var mnemonic = "seat unaware check cannon board boring cotton win sting upper clever quarter";
+var mnemonic = "blanket shuffle youth wine news mimic senior rely cannon local flock erase";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve essay science life honey rescue retire axis food immune spawn doll";
+var mnemonic = "aerobic usual aisle drill typical walk few duty moral talk occur fall";

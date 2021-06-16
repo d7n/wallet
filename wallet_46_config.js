@@ -1,1 +1,1 @@
-var mnemonic = "fetch excess exhaust enable close light seat hamster swap collect zoo stay";
+var mnemonic = "glance scheme addict jar model reduce curious sell obscure seed point seed";

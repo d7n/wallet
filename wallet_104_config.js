@@ -1,1 +1,1 @@
-var mnemonic = "tray prevent city window dignity toy tortoise because oil helmet milk aim";
+var mnemonic = "scrap mask tape reason ask powder refuse odor virtual metal mutual change";

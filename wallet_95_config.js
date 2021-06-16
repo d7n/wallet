@@ -1,1 +1,1 @@
-var mnemonic = "club siege gesture lunar cigar trash oven okay tent jewel glory rapid";
+var mnemonic = "magnet dial round retire moral place bundle match sniff they keep earn";

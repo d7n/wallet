@@ -1,1 +1,1 @@
-var mnemonic = "subway news nest trophy bicycle skate tribe uncover involve omit chicken stand";
+var mnemonic = "abandon march drum trap bunker promote defense describe junk second swallow bacon";

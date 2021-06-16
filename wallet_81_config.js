@@ -1,1 +1,1 @@
-var mnemonic = "profit soul subject front horror vicious arrange winter idea brisk rotate home";
+var mnemonic = "vacant access glove over strategy fiction noise balcony gesture ill inflict dad";

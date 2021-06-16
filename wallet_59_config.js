@@ -1,1 +1,1 @@
-var mnemonic = "cannon rhythm file scene life shoe stock rebuild vessel area velvet concert";
+var mnemonic = "ship broccoli stove opera client umbrella fee advice insane rigid paper heart";

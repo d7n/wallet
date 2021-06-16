@@ -1,1 +1,1 @@
-var mnemonic = "boat advance visit cliff enhance vessel piece bunker harbor trap dice enhance";
+var mnemonic = "leave crazy repair stomach edit flash floor tent clock neither surge okay";

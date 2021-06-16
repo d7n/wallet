@@ -1,1 +1,1 @@
-var mnemonic = "awful flight easily kit title debate level impact nature concert dinner behind";
+var mnemonic = "cushion attitude piano onion autumn happy flat assault scene bike grab avoid";

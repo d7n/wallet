@@ -1,1 +1,1 @@
-var mnemonic = "charge foot task disease paper search heart balcony bread dawn since remind";
+var mnemonic = "keen obtain crucial clap distance burst setup rude local close miracle rapid";
