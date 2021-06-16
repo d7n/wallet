@@ -1,1 +1,1 @@
-var mnemonic = "horn train luggage release electric future hotel doctor together liar crumble eyebrow";
+var mnemonic = "long actual champion slush dilemma proof fault tribe pool monitor runway neither";

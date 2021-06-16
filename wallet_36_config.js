@@ -1,1 +1,1 @@
-var mnemonic = "chef early avocado little crowd giraffe rate cabin sense near detect emerge";
+var mnemonic = "wasp brave radio husband blur bridge bean bone depend settle luggage live";

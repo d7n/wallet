@@ -1,1 +1,1 @@
-var mnemonic = "step visual bless bid ribbon border mule fit maid club rotate clever";
+var mnemonic = "track beach edge index invite office race hire remember left auto net";

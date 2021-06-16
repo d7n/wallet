@@ -1,1 +1,1 @@
-var mnemonic = "fish tackle harsh pulp budget couple concert model silent garbage wrist push";
+var mnemonic = "hero beyond again churn torch debris usage enrich around rough enroll verb";

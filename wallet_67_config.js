@@ -1,1 +1,1 @@
-var mnemonic = "cluster flash bubble monitor enter celery unusual nurse mother remain stuff claim";
+var mnemonic = "remain video chef payment tool radio rotate pause arrive nose defense enough";

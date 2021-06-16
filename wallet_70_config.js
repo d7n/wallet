@@ -1,1 +1,1 @@
-var mnemonic = "long gaze salon wish globe auto loop swap radio example police like";
+var mnemonic = "feel twelve gold primary host program melt adjust damage cousin duck struggle";

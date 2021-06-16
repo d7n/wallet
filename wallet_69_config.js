@@ -1,1 +1,1 @@
-var mnemonic = "draft phone orange outer bounce task suffer fossil rescue small hotel indicate";
+var mnemonic = "actual law crime episode trumpet arrange cotton frown noodle fragile blade aim";

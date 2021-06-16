@@ -1,1 +1,1 @@
-var mnemonic = "entire tooth fruit online input canal essay foot tag airport gravity flip";
+var mnemonic = "vital depend accident endorse ensure reflect oyster owner hour setup sight order";

@@ -1,1 +1,1 @@
-var mnemonic = "icon food any labor visual chunk sand bargain moon decade sausage virtual";
+var mnemonic = "illegal tape void scale physical together violin adapt tackle hen shop ahead";

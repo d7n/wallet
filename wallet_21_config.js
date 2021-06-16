@@ -1,1 +1,1 @@
-var mnemonic = "riot atom marble brown elevator motion blade sail cool wing jar option";
+var mnemonic = "devote toy neck violin kiss swift foot attack debris record review penalty";

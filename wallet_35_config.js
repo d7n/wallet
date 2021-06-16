@@ -1,1 +1,1 @@
-var mnemonic = "tone large habit found alone assault divorce grant fringe keep hole churn";
+var mnemonic = "fuel fee invest casino brisk year health local drip useful already subject";

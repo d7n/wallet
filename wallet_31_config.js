@@ -1,1 +1,1 @@
-var mnemonic = "error youth enact rescue adult police divert neutral cause jacket gloom beef";
+var mnemonic = "shiver dial steel clutch salute three sick eternal forget reject give gas";

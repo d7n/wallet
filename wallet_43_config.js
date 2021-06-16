@@ -1,1 +1,1 @@
-var mnemonic = "creek nothing skin organ style grant blush island window manage vacuum calm";
+var mnemonic = "visual pet original brain life flat love bench melody cloud oven empower";

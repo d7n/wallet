@@ -1,1 +1,1 @@
-var mnemonic = "strike smart survey post scrub tattoo alpha later lawsuit need curve stone";
+var mnemonic = "wise enroll chief define behind canvas advice couple obscure candy disorder scorpion";

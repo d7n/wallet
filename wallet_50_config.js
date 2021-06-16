@@ -1,1 +1,1 @@
-var mnemonic = "agree element horn true tennis rally dizzy onion mule forget waste swift";
+var mnemonic = "evolve dwarf stamp crucial interest foster raccoon shock comic joke burst survey";

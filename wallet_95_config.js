@@ -1,1 +1,1 @@
-var mnemonic = "soldier any health half room tape whisper napkin elder fork cave demand";
+var mnemonic = "laugh use they tool time scissors pizza short elbow sure room glide";

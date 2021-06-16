@@ -1,1 +1,1 @@
-var mnemonic = "surface aware rude manual giraffe elegant cabbage distance faculty near bicycle situate";
+var mnemonic = "tube magic staff media citizen chief submit tide salad dismiss reform enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge actual prevent drill depart crazy circle diesel random cousin patch artefact";
+var mnemonic = "rug supply lunar seat mixture access tomato link trim vital excite miracle";

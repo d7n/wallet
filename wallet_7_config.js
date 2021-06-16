@@ -1,1 +1,1 @@
-var mnemonic = "depth sample zero eye sort penalty old simple ridge dog choose express";
+var mnemonic = "method miss rice disorder detect produce trip birth argue cluster letter lawn";

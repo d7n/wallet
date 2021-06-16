@@ -1,1 +1,1 @@
-var mnemonic = "used profit left piano sea below famous shrimp other morning raven door";
+var mnemonic = "panel oppose addict example pair exhaust enlist pattern true exchange dust good";

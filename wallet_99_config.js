@@ -1,1 +1,1 @@
-var mnemonic = "useless ladder bird drastic armed cry raw plunge warrior mask recipe outdoor";
+var mnemonic = "bracket betray motor grain such evoke false useless range foot mother junk";

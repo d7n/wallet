@@ -1,1 +1,1 @@
-var mnemonic = "confirm seek clock original small gain eagle uphold stay suggest guard outside";
+var mnemonic = "rude position cherry swim veteran mom swear layer silly timber day brush";

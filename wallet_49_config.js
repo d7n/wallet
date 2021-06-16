@@ -1,1 +1,1 @@
-var mnemonic = "pupil patient picnic release pond ocean gift around artwork fiction defy mechanic";
+var mnemonic = "law hat urban album law detect west trap off slot grunt brand";

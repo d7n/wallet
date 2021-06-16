@@ -1,1 +1,1 @@
-var mnemonic = "cool garment motion permit inquiry this crowd segment acoustic destroy wrong wrong";
+var mnemonic = "iron across garment pipe fine hammer addict timber symptom avocado hire pledge";

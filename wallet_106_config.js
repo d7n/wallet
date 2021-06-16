@@ -1,1 +1,1 @@
-var mnemonic = "thought left guilt swarm crouch old photo eager kitchen isolate combine parrot";
+var mnemonic = "toy divorce room perfect relax theory exit silver endorse bulb manage hidden";

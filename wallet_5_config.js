@@ -1,1 +1,1 @@
-var mnemonic = "gap main arrange opinion walnut topple follow road solar credit grocery maid";
+var mnemonic = "regular flower since sure street visa tent bird blame they south best";

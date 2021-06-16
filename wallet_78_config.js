@@ -1,1 +1,1 @@
-var mnemonic = "pool exotic ready bright direct hidden analyst grunt same century vacant project";
+var mnemonic = "eyebrow shove impact coach steak ribbon brick toss emerge hill alert trim";

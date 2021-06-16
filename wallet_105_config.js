@@ -1,1 +1,1 @@
-var mnemonic = "muffin maximum often join proud strategy pave double urge exhibit mosquito lemon";
+var mnemonic = "gadget claim switch future pledge vicious slab copper fuel traffic chaos burst";

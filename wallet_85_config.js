@@ -1,1 +1,1 @@
-var mnemonic = "deputy oil page blast guide drama grief flash limb exact acid thank";
+var mnemonic = "frown put observe reform tennis fault receive air bench hello slide style";

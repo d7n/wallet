@@ -1,1 +1,1 @@
-var mnemonic = "nice typical town rocket zebra glass fork warm october entry acoustic elder";
+var mnemonic = "inspire topic high swim fall ancient face upgrade equal sting path toy";

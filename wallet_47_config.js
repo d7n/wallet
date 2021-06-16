@@ -1,1 +1,1 @@
-var mnemonic = "wrong online play culture shiver acoustic empty fit fuel primary attract slush";
+var mnemonic = "lonely fiction say copy female speed crush hospital quality meat friend hurt";

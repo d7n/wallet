@@ -1,1 +1,1 @@
-var mnemonic = "acquire road draft drop organ fault baby melody vintage gossip hybrid clean";
+var mnemonic = "lock consider appear rule agree fresh shed vendor clock dream usage angle";

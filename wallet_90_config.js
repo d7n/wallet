@@ -1,1 +1,1 @@
-var mnemonic = "barely cable spice cause scene circle cluster tree cabin twenty mistake tourist";
+var mnemonic = "banner repeat august fuel family manage envelope monitor jump reunion sustain else";

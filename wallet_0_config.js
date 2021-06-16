@@ -1,1 +1,1 @@
-var mnemonic = "worry agree bundle width reform barrel awesome health accident flock artist bar";
+var mnemonic = "oyster blade west kind candy indoor assume already someone jump fade bread";

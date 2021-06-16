@@ -1,1 +1,1 @@
-var mnemonic = "venture person bike pull coin wolf tent inhale chalk apology priority infant";
+var mnemonic = "elder wise number chief category swing adjust nuclear switch soup elbow lyrics";

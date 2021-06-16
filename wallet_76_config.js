@@ -1,1 +1,1 @@
-var mnemonic = "before approve skill rural belt muscle antique blouse chair topple early blind";
+var mnemonic = "city reduce move chimney afford caught vague spread number drama toss patient";

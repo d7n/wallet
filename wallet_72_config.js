@@ -1,1 +1,1 @@
-var mnemonic = "sausage front kingdom bird wide brief image scare erosion truly marble hope";
+var mnemonic = "artefact tackle gravity region net enemy piano torch able soda alert gasp";

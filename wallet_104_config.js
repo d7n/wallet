@@ -1,1 +1,1 @@
-var mnemonic = "merit original kit illegal security decline minute fit rapid unfair enact left";
+var mnemonic = "soccer fall zoo shaft mixture cloth trust system play document glory super";

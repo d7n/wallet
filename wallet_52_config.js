@@ -1,1 +1,1 @@
-var mnemonic = "ozone mad bid effort arch dwarf unit swim fan crater clean vault";
+var mnemonic = "meat wash glow wife mean omit ability frozen work monkey dad setup";

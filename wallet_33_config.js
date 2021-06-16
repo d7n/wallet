@@ -1,1 +1,1 @@
-var mnemonic = "pilot claim belt online liberty mass universe loop coil rug sugar travel";
+var mnemonic = "common monkey maid area cotton assume fiction funny speak hand negative jealous";

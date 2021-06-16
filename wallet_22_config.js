@@ -1,1 +1,1 @@
-var mnemonic = "toe top ride reflect rain spin above opinion gauge remove print home";
+var mnemonic = "usual cannon sound jazz rail sun immune pretty mule sting kid sample";

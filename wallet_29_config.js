@@ -1,1 +1,1 @@
-var mnemonic = "lemon round village power intact dash pulse rain debate robust achieve knife";
+var mnemonic = "desk mosquito absorb lizard space gather access clown novel gap alley essay";

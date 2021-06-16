@@ -1,1 +1,1 @@
-var mnemonic = "another tumble polar affair antique warrior stove hotel garlic warm museum grass";
+var mnemonic = "casual magic history castle weird make rough kitten victory what marriage deer";

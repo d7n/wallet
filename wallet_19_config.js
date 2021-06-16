@@ -1,1 +1,1 @@
-var mnemonic = "must write blue silver inquiry grit demand argue same conduct supreme stamp";
+var mnemonic = "credit diet hill matrix melt verb rule until chapter awesome burden above";

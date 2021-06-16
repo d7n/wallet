@@ -1,1 +1,1 @@
-var mnemonic = "bread regular trap appear behind demise novel obvious net curtain royal general";
+var mnemonic = "muffin average lecture three assault fade settle rent eyebrow negative about slush";

@@ -1,1 +1,1 @@
-var mnemonic = "apology cat hole various wild axis rate asthma borrow spider blind galaxy";
+var mnemonic = "test drink wear rug knife move grunt barrel garbage patient discover equal";

@@ -1,1 +1,1 @@
-var mnemonic = "volume search mouse lyrics recycle hammer pluck theme spell what chimney aspect";
+var mnemonic = "derive symbol spike unfold save member galaxy tooth forward hint city balance";

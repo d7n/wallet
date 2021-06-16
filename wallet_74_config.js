@@ -1,1 +1,1 @@
-var mnemonic = "because math tide brave sing useful calm scare tell sad start wish";
+var mnemonic = "else math cluster traffic glory fabric master noise unique code wise input";

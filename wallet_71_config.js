@@ -1,1 +1,1 @@
-var mnemonic = "tunnel champion sheriff fix review diagram general multiply despair throw miracle either";
+var mnemonic = "bulb scare similar woman any outdoor shrimp multiply always please resource height";

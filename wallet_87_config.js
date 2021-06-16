@@ -1,1 +1,1 @@
-var mnemonic = "sing holiday inhale refuse olympic assault icon tent friend awkward small pattern";
+var mnemonic = "grape brother post material net payment fury front rival news crime jealous";

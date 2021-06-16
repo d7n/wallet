@@ -1,1 +1,1 @@
-var mnemonic = "gun between ill civil fix horn canoe case almost gather reunion rough";
+var mnemonic = "chalk race pact theory tragic peace aim embark extra steak ignore spider";

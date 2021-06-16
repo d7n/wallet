@@ -1,1 +1,1 @@
-var mnemonic = "alone fat scorpion rhythm faculty mansion trend cave kingdom end midnight obscure";
+var mnemonic = "blame edit price eternal bamboo ecology airport off light oval cannon kitten";

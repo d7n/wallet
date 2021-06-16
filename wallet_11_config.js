@@ -1,1 +1,1 @@
-var mnemonic = "nominee iron crew lucky erode bonus repair involve year hurry switch very";
+var mnemonic = "above tomato illness fortune skill into master sound current shrug direct patient";

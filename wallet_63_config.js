@@ -1,1 +1,1 @@
-var mnemonic = "banner rookie drama december stand jump switch possible glass cage grape minor";
+var mnemonic = "install debate acquire mechanic arrow three clump aware eternal crew tent motor";

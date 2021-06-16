@@ -1,1 +1,1 @@
-var mnemonic = "impact cash search almost cheap erupt annual diamond evolve enlist buddy mixed";
+var mnemonic = "warrior luggage flat feel useful slow shop rent inflict armor awesome brush";

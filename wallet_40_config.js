@@ -1,1 +1,1 @@
-var mnemonic = "ramp potato ahead tortoise media orbit round salon lobster glance screen round";
+var mnemonic = "crash mutual long doctor fantasy cook label small section barely fly where";

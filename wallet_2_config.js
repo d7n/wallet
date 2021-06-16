@@ -1,1 +1,1 @@
-var mnemonic = "pact surface annual element drum solar warm business spike reform lawn rather";
+var mnemonic = "refuse lake merge tank shuffle gun regular agent praise glimpse robust casual";

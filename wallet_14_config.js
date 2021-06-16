@@ -1,1 +1,1 @@
-var mnemonic = "spoil deer object planet bleak girl feel excite huge program neck suggest";
+var mnemonic = "lion void tower decrease echo invite hospital put hollow confirm awful table";

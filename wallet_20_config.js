@@ -1,1 +1,1 @@
-var mnemonic = "cube motion situate fatal drip vehicle diesel convince limb early weapon honey";
+var mnemonic = "lazy any canal stone shadow poverty whisper seminar illegal echo direct skin";

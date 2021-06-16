@@ -1,1 +1,1 @@
-var mnemonic = "elder this grunt crush combine rice evoke pupil guilt general size hockey";
+var mnemonic = "gain orbit stairs sniff turkey unit usual key long rule wing detect";

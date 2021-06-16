@@ -1,1 +1,1 @@
-var mnemonic = "priority coach decade various elbow bronze light amazing sudden purse curtain peasant";
+var mnemonic = "fringe mixture venture elite legend olive drive club found maid twelve movie";

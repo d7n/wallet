@@ -1,1 +1,1 @@
-var mnemonic = "rhythm angle acid actress history donor credit industry safe select can chapter";
+var mnemonic = "toddler ripple never wasp trick help blast baby card arrange bird kite";

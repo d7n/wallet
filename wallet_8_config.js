@@ -1,1 +1,1 @@
-var mnemonic = "second belt fan helmet pigeon error mule tell nerve jar reunion pole";
+var mnemonic = "trouble club humble space door lend program side talk large velvet reward";

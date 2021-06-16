@@ -1,1 +1,1 @@
-var mnemonic = "oxygen suspect mother shadow coffee cave half odor since dish surface mention";
+var mnemonic = "build mechanic symbol kick post report feature gun buyer execute bid thunder";

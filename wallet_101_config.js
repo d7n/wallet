@@ -1,1 +1,1 @@
-var mnemonic = "dignity valve mutual always ripple immune daring pulp return hurt sort host";
+var mnemonic = "scan front brand message gallery idea own cook lawn problem amount swamp";

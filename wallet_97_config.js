@@ -1,1 +1,1 @@
-var mnemonic = "act cherry sheriff search lecture lab fringe critic gasp enroll hope clever";
+var mnemonic = "siege control valve patch polar diagram rule diet ramp inhale disagree language";

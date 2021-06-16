@@ -1,1 +1,1 @@
-var mnemonic = "trophy verify make lazy struggle minute process reflect waste owner rain ring";
+var mnemonic = "rapid quote wave play sheriff toy sweet torch destroy venue spike oyster";

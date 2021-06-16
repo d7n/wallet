@@ -1,1 +1,1 @@
-var mnemonic = "notable south milk faith desert universe have can nose crash logic shop";
+var mnemonic = "coast strong deal street ugly west perfect until matter that hole you";

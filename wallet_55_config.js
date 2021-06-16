@@ -1,1 +1,1 @@
-var mnemonic = "bridge viable crawl tennis shallow poet gossip slender record jacket abandon short";
+var mnemonic = "rebel episode slim satisfy knee human need leisure pledge pulse steak body";

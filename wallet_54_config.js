@@ -1,1 +1,1 @@
-var mnemonic = "tone universe black audit round until submit hub broccoli venture lend reduce";
+var mnemonic = "movie because fruit leisure stereo off come knock purchase conduct print three";

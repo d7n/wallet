@@ -1,1 +1,1 @@
-var mnemonic = "inquiry alert strike jazz damage bread wrestle dwarf observe orange level dawn";
+var mnemonic = "capital cheese recycle mansion speed clerk add omit among industry over conduct";

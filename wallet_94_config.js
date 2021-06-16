@@ -1,1 +1,1 @@
-var mnemonic = "fat pool spider youth police danger next blood bullet dose innocent fly";
+var mnemonic = "glue hybrid local sort turkey business ring web mercy ensure injury normal";

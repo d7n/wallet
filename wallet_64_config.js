@@ -1,1 +1,1 @@
-var mnemonic = "foot lawsuit include glare service accident switch rhythm twenty isolate camp soccer";
+var mnemonic = "add tag script convince cattle improve settle jelly better celery citizen absorb";

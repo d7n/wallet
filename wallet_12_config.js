@@ -1,1 +1,1 @@
-var mnemonic = "runway wing pipe hamster arm quantum country winner rare chicken learn flock";
+var mnemonic = "ecology valid smoke ensure luxury fragile strategy deposit sun board amused nature";

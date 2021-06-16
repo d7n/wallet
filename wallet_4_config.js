@@ -1,1 +1,1 @@
-var mnemonic = "gentle sample turn horse gorilla tongue toilet suggest original decorate dwarf book";
+var mnemonic = "useful monitor novel upgrade dream brother anxiety mix situate cake near crater";

@@ -1,1 +1,1 @@
-var mnemonic = "figure enemy drill chef twelve news cherry alone round zoo shallow arrive";
+var mnemonic = "mad version joke pretty surge silly boss require verb wedding rebuild worry";

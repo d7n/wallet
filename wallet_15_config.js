@@ -1,1 +1,1 @@
-var mnemonic = "lawn truly host runway shrimp eyebrow october gesture property wall behind cactus";
+var mnemonic = "weird hint know trip december between peace paper erode shiver crush leisure";

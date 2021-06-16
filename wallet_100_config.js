@@ -1,1 +1,1 @@
-var mnemonic = "poem transfer blame level way grass runway scissors tobacco want define case";
+var mnemonic = "certain glimpse raven tail diamond trap cliff equal copy tuna eager pull";

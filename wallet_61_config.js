@@ -1,1 +1,1 @@
-var mnemonic = "subway humor rate merge planet charge north flavor copy bean tornado bulk";
+var mnemonic = "ship shy word squirrel emerge hood fire junior urge glove recipe happy";

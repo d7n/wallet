@@ -1,1 +1,1 @@
-var mnemonic = "one cart robust champion cream fall mind try copper toss apple size";
+var mnemonic = "hazard detail fire south oak short green crisp cupboard jaguar hedgehog pet";

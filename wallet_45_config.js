@@ -1,1 +1,1 @@
-var mnemonic = "page glimpse scissors water like essence garbage tide motor south cool soap";
+var mnemonic = "burger cat nature dizzy payment spatial awesome choose remain quit decorate rabbit";

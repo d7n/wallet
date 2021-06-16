@@ -1,1 +1,1 @@
-var mnemonic = "legend snack duck inform shiver cram lunch catalog give essence like burden";
+var mnemonic = "square involve observe insane during leaf ill dry impulse sniff solar cause";

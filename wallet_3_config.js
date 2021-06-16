@@ -1,1 +1,1 @@
-var mnemonic = "phone purse face obscure pull scan athlete public quantum sell march fiction";
+var mnemonic = "suggest crunch omit start visa pioneer excess flag special give barrel oxygen";

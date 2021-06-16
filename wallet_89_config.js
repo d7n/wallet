@@ -1,1 +1,1 @@
-var mnemonic = "avocado wreck fish purity used antenna fashion noise game tape door industry";
+var mnemonic = "axis nuclear chicken field various bronze fame favorite butter victory very goddess";

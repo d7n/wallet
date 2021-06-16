@@ -1,1 +1,1 @@
-var mnemonic = "gauge brisk dilemma film crush explain crowd shoot tank bronze patch treat";
+var mnemonic = "quit impact dice huge reason void core ability burden solid culture away";

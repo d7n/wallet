@@ -1,1 +1,1 @@
-var mnemonic = "injury leaf rhythm try open ketchup age brisk club flat typical snap";
+var mnemonic = "bird pride enroll current hotel index woman deal wish common stuff prison";

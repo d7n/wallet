@@ -1,1 +1,1 @@
-var mnemonic = "region loyal rapid style struggle extend later come jewel citizen result media";
+var mnemonic = "curtain youth meat horse budget fiscal filter club romance broccoli improve romance";

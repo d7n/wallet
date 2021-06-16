@@ -1,1 +1,1 @@
-var mnemonic = "return shoulder hair mention chair dilemma foil junk blind sport twenty cost";
+var mnemonic = "village prison walnut add tornado tower blur south frown pyramid number evil";

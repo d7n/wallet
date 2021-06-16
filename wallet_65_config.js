@@ -1,1 +1,1 @@
-var mnemonic = "labor favorite capable resource hen tackle parent blind shed absurd captain crucial";
+var mnemonic = "surround luggage trophy manual chronic open useful huge economy equal impose glad";
