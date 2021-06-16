@@ -1,1 +1,1 @@
-var mnemonic = "casino art mirror original betray never because federal diesel flip reduce resist";
+var mnemonic = "actress puppy weird carpet furnace doll infant tonight fox purchase laundry minute";

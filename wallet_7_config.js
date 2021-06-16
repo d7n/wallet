@@ -1,1 +1,1 @@
-var mnemonic = "crush north version mother acquire umbrella alert improve accident own harsh maximum";
+var mnemonic = "tackle vapor lecture vessel robot spot echo rent antique move property panel";

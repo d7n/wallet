@@ -1,1 +1,1 @@
-var mnemonic = "hat venture average slide enough inflict theme wide nose dawn crucial retreat";
+var mnemonic = "veteran motor organ play praise despair shoot era night scatter mix tool";

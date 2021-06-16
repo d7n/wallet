@@ -1,1 +1,1 @@
-var mnemonic = "ride improve stool axis cook wait animal dismiss train deputy silly flight";
+var mnemonic = "auction ghost mad scare outside call camera duty light tumble swing sail";

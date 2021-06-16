@@ -1,1 +1,1 @@
-var mnemonic = "blur cage canoe sign matter evil barrel cube monster pottery tragic rich";
+var mnemonic = "tobacco upset enable banner enact book speed picture memory output rapid old";

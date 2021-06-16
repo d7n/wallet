@@ -1,1 +1,1 @@
-var mnemonic = "flame reject trim burden pulse news tonight era hard worth achieve clog";
+var mnemonic = "virus secret already aunt anger pluck glide payment blade trim miss panic";

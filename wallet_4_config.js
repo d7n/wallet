@@ -1,1 +1,1 @@
-var mnemonic = "hill genius pudding involve music afford devote ship fog option debate logic";
+var mnemonic = "surface train kiss news truly topple ladder era you enjoy chimney fade";

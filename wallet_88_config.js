@@ -1,1 +1,1 @@
-var mnemonic = "artwork extend act deputy always lawn keep faint figure decade fragile indoor";
+var mnemonic = "jar pumpkin scorpion chest then click smart gather few crack feature equip";

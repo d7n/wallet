@@ -1,1 +1,1 @@
-var mnemonic = "various strike trip favorite wave body miracle door measure scare ecology kidney";
+var mnemonic = "guide shell genuine viable receive item blossom intact sister velvet opera clown";

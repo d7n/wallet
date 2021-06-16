@@ -1,1 +1,1 @@
-var mnemonic = "fury foster cricket crew raccoon balance bridge amateur famous issue gossip short";
+var mnemonic = "frown race ostrich lock rifle estate neck army resemble screen chimney trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "swim doll border breeze this host decade violin weekend loop gossip leave";
+var mnemonic = "inform real harsh vague nest glide drop police toss seven inquiry tip";

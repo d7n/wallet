@@ -1,1 +1,1 @@
-var mnemonic = "afraid stuff lava mercy trash knee eight ladder saddle illness raw lumber";
+var mnemonic = "black moon glory crouch innocent harbor stage brave lend across outer basic";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace page scatter moral best amount country infant country era hospital curve";
+var mnemonic = "submit local escape people sleep thumb dentist celery gadget debris keep inner";

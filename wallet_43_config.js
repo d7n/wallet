@@ -1,1 +1,1 @@
-var mnemonic = "library media finish soda logic stadium scout typical planet camp close reveal";
+var mnemonic = "bicycle describe luxury sound ghost glance below quick shine wing large upper";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum toilet wife scatter voice country balcony witness parrot neck address width";
+var mnemonic = "glide artist mechanic sock donate area tree guitar what danger siren hour";

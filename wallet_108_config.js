@@ -1,1 +1,1 @@
-var mnemonic = "finish pistol slender wealth gas way merry toast enter churn bulb chuckle";
+var mnemonic = "pluck glory observe start tooth arrest deal course buzz hip drift entire";

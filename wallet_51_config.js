@@ -1,1 +1,1 @@
-var mnemonic = "hour inhale car figure blind lizard knife fragile second prosper imitate typical";
+var mnemonic = "bachelor wait trend border pass faith dawn very primary spend mimic gate";

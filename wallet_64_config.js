@@ -1,1 +1,1 @@
-var mnemonic = "special motion tray develop grow island pause siege soldier gauge border piano";
+var mnemonic = "frost cable win digital note task funny field hurry wish mixture cross";

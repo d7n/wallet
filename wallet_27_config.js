@@ -1,1 +1,1 @@
-var mnemonic = "rifle couple abuse slab foster abuse tackle volume receive inmate shell trigger";
+var mnemonic = "length diesel canvas enlist task property tree upon choose safe winter shoot";

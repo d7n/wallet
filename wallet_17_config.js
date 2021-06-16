@@ -1,1 +1,1 @@
-var mnemonic = "arctic peasant corn neither magic move trend utility fade local hurt october";
+var mnemonic = "extend mixed grit baby file margin imitate deal valid donkey autumn balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "robust blade piece nature lyrics picnic pattern wonder able surprise torch hen";
+var mnemonic = "venue jealous battle misery scissors correct strong sweet divorce forget one shoot";

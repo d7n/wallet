@@ -1,1 +1,1 @@
-var mnemonic = "knee worry soul depart mean mixture easily nominee shell style gauge check";
+var mnemonic = "pledge vendor taxi robust guilt sentence immense nuclear sibling digital frown quit";

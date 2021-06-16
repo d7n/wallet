@@ -1,1 +1,1 @@
-var mnemonic = "danger elevator pudding essence embrace spoil corn tuition wheel motor initial bless";
+var mnemonic = "range radio talk actual renew zero drastic elder coconut item olive short";

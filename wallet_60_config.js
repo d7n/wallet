@@ -1,1 +1,1 @@
-var mnemonic = "future movie cycle adjust size sudden assume promote tobacco match found lens";
+var mnemonic = "library believe rabbit release thought assume lesson wing silent vital huge indicate";

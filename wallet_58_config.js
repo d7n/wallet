@@ -1,1 +1,1 @@
-var mnemonic = "venture immense address spread summer machine squeeze visual warfare family comfort comic";
+var mnemonic = "genius purity alone cherry social stove air inherit kid veteran monkey hidden";

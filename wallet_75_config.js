@@ -1,1 +1,1 @@
-var mnemonic = "album carbon monitor notable fashion phrase trade swamp agent usual solar trumpet";
+var mnemonic = "opinion half also dwarf sphere record blue pony diamond jacket fun bicycle";

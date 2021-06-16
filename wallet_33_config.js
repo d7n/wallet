@@ -1,1 +1,1 @@
-var mnemonic = "when empty hire dream clutch impose teach choice grocery scheme neck main";
+var mnemonic = "banana destroy corn pill saddle crazy spatial lottery toast seek still humor";

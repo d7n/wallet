@@ -1,1 +1,1 @@
-var mnemonic = "quarter shine cliff broken balcony vanish logic person then cable announce light";
+var mnemonic = "toward bracket surge allow oppose parent obvious west forward glue myself spawn";

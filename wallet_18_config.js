@@ -1,1 +1,1 @@
-var mnemonic = "bike relax wise cliff token cloth scrub exile october blush invite order";
+var mnemonic = "century boil used faculty much mountain brief metal skill wage rose fork";

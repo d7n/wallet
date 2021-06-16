@@ -1,1 +1,1 @@
-var mnemonic = "broccoli slight manage swim undo they exile jungle explain fortune glare infant";
+var mnemonic = "cotton kind weapon couple vivid liberty goose message dawn ship riot image";

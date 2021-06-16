@@ -1,1 +1,1 @@
-var mnemonic = "weekend furnace talk bring burden clutch vocal tourist spoil festival exile song";
+var mnemonic = "law early master measure turn crack small melt melody pitch volcano dream";

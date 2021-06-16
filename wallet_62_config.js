@@ -1,1 +1,1 @@
-var mnemonic = "rice eye employ medal age alien merry capable route mosquito south abuse";
+var mnemonic = "wolf evidence divorce carpet artefact focus best mobile tonight move cute voice";

@@ -1,1 +1,1 @@
-var mnemonic = "display execute split shiver clutch able nation useful inmate business pretty they";
+var mnemonic = "bundle wool shallow example lens hub debate race quote entry flavor lion";

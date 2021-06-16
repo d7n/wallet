@@ -1,1 +1,1 @@
-var mnemonic = "hawk foam ability frequent aware budget stairs culture project fetch mistake wave";
+var mnemonic = "vendor local whisper eager deposit stick moon hollow wealth parrot turn tone";

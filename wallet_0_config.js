@@ -1,1 +1,1 @@
-var mnemonic = "receive vital dinner shoulder silk artist post rice blanket skate hope crystal";
+var mnemonic = "boy brave chunk wire vast lunar switch right chair job behave wine";

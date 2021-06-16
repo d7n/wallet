@@ -1,1 +1,1 @@
-var mnemonic = "stove express luxury owner section soccer motor melody manual history digital crater";
+var mnemonic = "upon can educate hood alter laptop design tiny foot park tomorrow spare";

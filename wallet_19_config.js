@@ -1,1 +1,1 @@
-var mnemonic = "hire celery wall sea ethics clean degree innocent piano insect misery shift";
+var mnemonic = "winter turtle legend address sorry town list black master unaware protect repair";

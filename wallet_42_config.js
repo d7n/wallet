@@ -1,1 +1,1 @@
-var mnemonic = "toy blood fix rice fantasy useful spend moral aerobic weapon ancient craft";
+var mnemonic = "convince hamster misery degree state age dream exact file orbit occur fresh";

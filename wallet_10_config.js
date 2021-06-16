@@ -1,1 +1,1 @@
-var mnemonic = "loop hybrid screen swear never swim board thumb lizard bachelor accuse announce";
+var mnemonic = "order hotel west box certain lesson vintage student fix pulp fish toast";

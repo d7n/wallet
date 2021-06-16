@@ -1,1 +1,1 @@
-var mnemonic = "clown true gather clean rural right child dry together fox speed alarm";
+var mnemonic = "filter top grit twice melt weird piece slush render someone strong unknown";

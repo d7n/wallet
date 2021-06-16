@@ -1,1 +1,1 @@
-var mnemonic = "inflict tongue there armor tissue year tonight adjust hip grain oak ripple";
+var mnemonic = "naive lobster affair win best risk inch come finish peasant pupil pipe";

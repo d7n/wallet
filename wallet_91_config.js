@@ -1,1 +1,1 @@
-var mnemonic = "speak manage domain inflict moral general cheap plate laundry endorse primary chef";
+var mnemonic = "grid equip harvest brave morning shine fringe actual boss absurd rhythm icon";

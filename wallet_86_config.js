@@ -1,1 +1,1 @@
-var mnemonic = "agent camera fatal mule cliff junior brown moon quick brave funny today";
+var mnemonic = "paddle embody maximum voice member talent mosquito banner exhibit spring omit loyal";

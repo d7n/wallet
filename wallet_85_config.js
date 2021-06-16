@@ -1,1 +1,1 @@
-var mnemonic = "system visual panther flush access lens solve symbol account alpha hub brain";
+var mnemonic = "copper hockey spray limb peace proof truck expire raw car help ability";

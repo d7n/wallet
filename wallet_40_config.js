@@ -1,1 +1,1 @@
-var mnemonic = "input toast metal gospel thunder lab wet smart cactus good celery taxi";
+var mnemonic = "grid pelican mosquito garbage figure speed foot borrow target climb crew ritual";

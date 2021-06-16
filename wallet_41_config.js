@@ -1,1 +1,1 @@
-var mnemonic = "nerve detail jewel resource rely stem oblige detail later heart west dirt";
+var mnemonic = "camp tackle potato cool acoustic tribe super balance embody frozen cream retreat";

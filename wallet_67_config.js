@@ -1,1 +1,1 @@
-var mnemonic = "shallow access struggle spoil dynamic tortoise friend shiver special run trouble citizen";
+var mnemonic = "way carpet hybrid host video plastic gaze pattern rifle long portion wealth";

@@ -1,1 +1,1 @@
-var mnemonic = "two pelican wing angle board faith moral chair plunge palace inherit phone";
+var mnemonic = "garage verify stuff tomorrow harbor truck demand decide cluster weapon faculty trust";

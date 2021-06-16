@@ -1,1 +1,1 @@
-var mnemonic = "seed fatigue peanut glass spatial case tower peace light vivid boring sustain";
+var mnemonic = "toy uphold alarm scan shrimp remind breeze struggle rifle diary turn vicious";

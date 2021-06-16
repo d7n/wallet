@@ -1,1 +1,1 @@
-var mnemonic = "giant lemon demand pause thrive junk icon fat special beauty spring sea";
+var mnemonic = "virtual push foot solution december panic faculty intact what shallow casual puppy";

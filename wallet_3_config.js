@@ -1,1 +1,1 @@
-var mnemonic = "become clump jungle chef lottery canoe pride pizza forward mind have clutch";
+var mnemonic = "biology that believe exact satoshi error ugly balance hotel youth jump acid";

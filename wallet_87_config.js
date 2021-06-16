@@ -1,1 +1,1 @@
-var mnemonic = "gun glue permit income female episode fix pig say lunch corn spy";
+var mnemonic = "indoor expand stove man wife case actual ramp edge dress eight boil";

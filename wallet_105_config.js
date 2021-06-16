@@ -1,1 +1,1 @@
-var mnemonic = "hour tobacco glare marine kiss foil fit kiwi fit winter material deputy";
+var mnemonic = "pull resemble album trip chest ranch game grass mystery jealous please beyond";

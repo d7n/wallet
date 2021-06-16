@@ -1,1 +1,1 @@
-var mnemonic = "soccer move neither potato lab horn pool steak liberty orange section trust";
+var mnemonic = "train extra brass baby canvas doll around own critic upon shield dog";

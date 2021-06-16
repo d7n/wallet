@@ -1,1 +1,1 @@
-var mnemonic = "rotate bounce blur dawn fresh tree embody combine truck salmon seek stumble";
+var mnemonic = "face tent wage left duck nurse loop leg board used piece trim";

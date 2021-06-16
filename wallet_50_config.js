@@ -1,1 +1,1 @@
-var mnemonic = "rude viable toilet combine bullet eight between leg swarm zone fiction slush";
+var mnemonic = "document pause canal best coral advance inherit powder trouble profit advice hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "garment bomb afford latin jelly chalk clown certain improve mix expand else";
+var mnemonic = "symbol general space retreat lottery help glory olympic doll divert mutual sword";

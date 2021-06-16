@@ -1,1 +1,1 @@
-var mnemonic = "bubble decline elevator select twin rain forward era ranch spot mixture domain";
+var mnemonic = "crisp gas act spoil slogan result banner light dizzy buzz change quote";

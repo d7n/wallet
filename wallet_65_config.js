@@ -1,1 +1,1 @@
-var mnemonic = "toilet guilt please happy extra moment grace smoke rapid exhibit fox penalty";
+var mnemonic = "draw lunar derive spring error retreat vocal cabbage address joy panther note";

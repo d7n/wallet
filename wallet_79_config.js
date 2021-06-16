@@ -1,1 +1,1 @@
-var mnemonic = "sentence system option notice under segment vivid solution muffin opinion beef measure";
+var mnemonic = "able bunker bubble avocado detect collect carry convince tiny demise error tail";

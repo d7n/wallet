@@ -1,1 +1,1 @@
-var mnemonic = "stick bench modify ceiling you intact fortune purity carbon reject matter tennis";
+var mnemonic = "purity dentist library antique scan february lecture equip fun fade evoke build";

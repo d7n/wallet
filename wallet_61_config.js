@@ -1,1 +1,1 @@
-var mnemonic = "broccoli right wall abandon celery curtain drift blame wear license thumb elephant";
+var mnemonic = "ignore process census evil pipe lumber burst cover parrot already flavor toy";

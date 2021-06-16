@@ -1,1 +1,1 @@
-var mnemonic = "fabric urban hockey athlete sad match village paddle grunt clean report conduct";
+var mnemonic = "clog glide cancel journey effort guide boss answer left culture screen axis";

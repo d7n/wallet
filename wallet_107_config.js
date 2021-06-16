@@ -1,1 +1,1 @@
-var mnemonic = "turtle secret goddess evoke foam resist either kiwi problem track rotate step";
+var mnemonic = "surprise online mercy danger neck prepare soda like basic faint point library";

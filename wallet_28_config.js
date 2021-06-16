@@ -1,1 +1,1 @@
-var mnemonic = "swift universe artwork enroll emerge planet empower submit decrease donkey frost still";
+var mnemonic = "wonder solution such wrist body judge library mistake head retreat vacant vanish";

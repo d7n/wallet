@@ -1,1 +1,1 @@
-var mnemonic = "elder unable cross vote mother deposit ramp outer peace region cram address";
+var mnemonic = "bag bracket primary assume pottery route enforce lock vintage crime uphold sibling";

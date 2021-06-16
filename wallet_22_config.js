@@ -1,1 +1,1 @@
-var mnemonic = "much coffee anxiety problem bread hold globe enough use rib artwork amount";
+var mnemonic = "edit deny exercise other swap need simple canoe oxygen thank trigger spend";

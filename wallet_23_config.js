@@ -1,1 +1,1 @@
-var mnemonic = "suspect diamond attract joke key carbon question urban vacant vapor able elder";
+var mnemonic = "blast journey hold water toward seven canyon analyst pear galaxy tenant hotel";

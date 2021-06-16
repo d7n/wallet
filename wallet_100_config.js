@@ -1,1 +1,1 @@
-var mnemonic = "clarify endless nominee pause tone wash next frost solar verify cinnamon stuff";
+var mnemonic = "catch ethics tool acquire crime trend cycle river index couple edit damage";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble proof fury pilot fancy rally accident minimum flip spell toilet dynamic";
+var mnemonic = "chase tourist marriage observe public token spy such volcano unveil scheme half";

@@ -1,1 +1,1 @@
-var mnemonic = "auto lab spice multiply trend traffic slab dance bench negative bubble outside";
+var mnemonic = "father vintage forget include brick other dynamic animal kingdom nuclear wealth grab";

@@ -1,1 +1,1 @@
-var mnemonic = "issue tag slow blade surface grant reject domain exist blue loud media";
+var mnemonic = "dirt gym crystal rose coral pulp rough narrow pelican idle youth vivid";

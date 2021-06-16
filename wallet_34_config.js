@@ -1,1 +1,1 @@
-var mnemonic = "jar twenty oppose color hole ignore wrist opera install excite unable surround";
+var mnemonic = "senior diamond reveal among quantum ready young dutch ranch recall cricket genius";

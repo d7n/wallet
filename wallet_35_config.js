@@ -1,1 +1,1 @@
-var mnemonic = "myself sell observe electric vessel raccoon alcohol cheese diagram grief demise moon";
+var mnemonic = "usage culture drink blame fork march creek venue boy van wool horror";

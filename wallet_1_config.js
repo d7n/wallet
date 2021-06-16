@@ -1,1 +1,1 @@
-var mnemonic = "obey exchange bitter direct barrel festival rifle abstract acoustic cage buyer fossil";
+var mnemonic = "donor quantum wrong million model powder liquid angle chicken grass middle label";

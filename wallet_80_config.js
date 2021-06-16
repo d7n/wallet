@@ -1,1 +1,1 @@
-var mnemonic = "gain can garage sand alpha under chapter sugar spoon february giant novel";
+var mnemonic = "vocal chalk spawn carry peasant warfare over fade cattle where piano twice";

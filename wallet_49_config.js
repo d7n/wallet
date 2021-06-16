@@ -1,1 +1,1 @@
-var mnemonic = "safe simple other hat amateur subject unveil arrest tongue asthma allow blossom";
+var mnemonic = "bicycle know chat motion faith canoe wall merge female despair across then";

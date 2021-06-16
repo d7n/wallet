@@ -1,1 +1,1 @@
-var mnemonic = "debris toddler smart minimum airport hair minor route sea this bamboo observe";
+var mnemonic = "brisk broom property twist human age attack prison shoe rare frost between";

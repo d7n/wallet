@@ -1,1 +1,1 @@
-var mnemonic = "suspect employ cupboard false assume faith salmon wife river upgrade weasel umbrella";
+var mnemonic = "rich debate ridge cycle whisper column liberty ignore record shadow silly lesson";

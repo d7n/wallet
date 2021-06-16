@@ -1,1 +1,1 @@
-var mnemonic = "flush face dry pottery punch carpet involve option say fun chronic pilot";
+var mnemonic = "busy cushion silly guide want acid split shrug mystery okay vacant amused";

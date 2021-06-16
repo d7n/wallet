@@ -1,1 +1,1 @@
-var mnemonic = "local milk pink toddler toast siren tortoise carbon fossil copper endless truly";
+var mnemonic = "shrug remove pony shrimp upon weapon hole twin monitor elbow tube slot";

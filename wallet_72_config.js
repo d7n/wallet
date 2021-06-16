@@ -1,1 +1,1 @@
-var mnemonic = "rally still mother relief entire next have pumpkin hedgehog luggage sun captain";
+var mnemonic = "review hundred soccer admit rookie will often grocery occur blast opinion wool";

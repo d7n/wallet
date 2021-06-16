@@ -1,1 +1,1 @@
-var mnemonic = "spell coast fly ill mobile shell item scale armor odor piece treat";
+var mnemonic = "guitar viable member edit oxygen photo hold kit custom mix usual depart";

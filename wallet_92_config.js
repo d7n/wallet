@@ -1,1 +1,1 @@
-var mnemonic = "bottom swear mercy adult orchard also aisle valve then income oxygen advice";
+var mnemonic = "round museum struggle open file pottery correct repeat uniform tragic where hair";

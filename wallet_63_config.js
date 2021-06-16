@@ -1,1 +1,1 @@
-var mnemonic = "zebra fiction across taste wood oval friend shrug glove fade whisper crawl";
+var mnemonic = "orphan roof deliver cool bind betray inherit bitter craft control digital universe";

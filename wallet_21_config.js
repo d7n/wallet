@@ -1,1 +1,1 @@
-var mnemonic = "dentist wonder hope card monitor birth clap inch they merry wheel moon";
+var mnemonic = "this corn parrot hamster gym fish deputy mean purchase glass gorilla turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "security ostrich place lemon bar hollow camera local cloth consider inform copy";
+var mnemonic = "miss capable profit consider produce dream quantum country glue consider casual total";

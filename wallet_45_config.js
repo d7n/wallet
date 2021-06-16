@@ -1,1 +1,1 @@
-var mnemonic = "lecture artwork grief know modify borrow century rough green gauge patient kit";
+var mnemonic = "mother expire horn trigger night apart grunt bullet crumble almost broccoli glide";

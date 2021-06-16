@@ -1,1 +1,1 @@
-var mnemonic = "length lottery hill cross agree lucky claw dose express scene unfair velvet";
+var mnemonic = "hen foot skirt wise scout claim try scrap danger brick wild legend";

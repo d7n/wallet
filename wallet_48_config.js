@@ -1,1 +1,1 @@
-var mnemonic = "explain rally rate enact romance churn stem chimney deputy program execute bird";
+var mnemonic = "wink option minute kick shoulder solve carpet search beef shed clown belt";

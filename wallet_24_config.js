@@ -1,1 +1,1 @@
-var mnemonic = "current barely estate deliver vessel home picnic release echo hint donkey decide";
+var mnemonic = "absurd matter list issue name size walk toss risk weasel soon monitor";
