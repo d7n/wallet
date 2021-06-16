@@ -1,1 +1,1 @@
-var mnemonic = "pool hill steak will connect sketch since fabric gauge lecture vivid alarm";
+var mnemonic = "month tuna reason galaxy dilemma castle blind resist wheel clerk rally deny";

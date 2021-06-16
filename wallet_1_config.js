@@ -1,1 +1,1 @@
-var mnemonic = "adult frame unknown stool common cook enter own pupil olive rebel nurse";
+var mnemonic = "idle flag glance barrel blue exhaust strong yellow senior few flip sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle glove flip aspect pole impulse indoor post pencil other convince citizen";
+var mnemonic = "check ticket accident move scrub lizard okay amazing miss hospital erupt pact";

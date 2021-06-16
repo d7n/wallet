@@ -1,1 +1,1 @@
-var mnemonic = "world method carry rigid clinic detail small report identify cattle attract scorpion";
+var mnemonic = "youth engage island orphan fog ugly ranch credit inch giggle toss dose";

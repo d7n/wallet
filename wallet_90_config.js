@@ -1,1 +1,1 @@
-var mnemonic = "unknown caution bright tired chef social train material normal escape match ranch";
+var mnemonic = "vehicle movie loop wide child fatal rug must fade powder balance neutral";

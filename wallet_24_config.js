@@ -1,1 +1,1 @@
-var mnemonic = "camp visit decrease machine inch skull orange resource country wrestle satoshi leaf";
+var mnemonic = "net forward misery convince genius frost obtain shoot slim border ahead mask";

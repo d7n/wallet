@@ -1,1 +1,1 @@
-var mnemonic = "six crater remove dumb market tide reject rare divert coyote mansion salt";
+var mnemonic = "battle vehicle coral stomach ugly gallery dwarf approve snow code banana evil";

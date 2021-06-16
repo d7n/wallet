@@ -1,1 +1,1 @@
-var mnemonic = "version coral rare silver marble fiscal stage assault pilot raw build welcome";
+var mnemonic = "moon woman health job extra actor grid bless found valley problem celery";

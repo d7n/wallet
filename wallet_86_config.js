@@ -1,1 +1,1 @@
-var mnemonic = "merit clinic merit castle like hedgehog bind mention kidney reopen club pattern";
+var mnemonic = "bind junk alley process cloth theory glide rate public clerk stock urge";

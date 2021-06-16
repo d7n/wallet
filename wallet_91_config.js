@@ -1,1 +1,1 @@
-var mnemonic = "olympic dinner memory drive weird phone advance spirit wage aspect window jewel";
+var mnemonic = "wait beauty fiction mountain rack soap drip useless hospital head rude season";

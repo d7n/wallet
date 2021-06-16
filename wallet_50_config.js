@@ -1,1 +1,1 @@
-var mnemonic = "empty crunch civil alone senior various hill glimpse cupboard foam neck similar";
+var mnemonic = "hobby trash run indoor town awful song rule exchange hundred dizzy energy";

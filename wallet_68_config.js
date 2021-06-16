@@ -1,1 +1,1 @@
-var mnemonic = "mountain veteran fence tornado enforce lucky cricket fluid daughter improve music razor";
+var mnemonic = "illegal eye brisk motor wear night flee know tomorrow pupil mammal junior";

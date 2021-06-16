@@ -1,1 +1,1 @@
-var mnemonic = "document fold paper material bar crime pigeon enough cannon sister reason garden";
+var mnemonic = "object lunar sail dog fiber paddle language improve farm civil antique unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "place flash manage offer soon across people finger patient area panther erosion";
+var mnemonic = "fatigue rigid van drive exclude super cave slim father stock wash drive";

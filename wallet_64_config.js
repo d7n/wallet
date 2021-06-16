@@ -1,1 +1,1 @@
-var mnemonic = "tide sample caution chef police include bike attend topic mixed quarter dizzy";
+var mnemonic = "party vapor property shrimp reflect memory huge cheap inflict repeat okay image";

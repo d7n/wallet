@@ -1,1 +1,1 @@
-var mnemonic = "online raise affair shallow hood entire asthma goose member nuclear arrow upset";
+var mnemonic = "office trim police choose define certain nose soft lion midnight accuse grid";

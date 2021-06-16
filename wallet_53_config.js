@@ -1,1 +1,1 @@
-var mnemonic = "under grocery laptop agree kitchen purchase fee adapt mouse vocal conduct purse";
+var mnemonic = "coffee victory menu wool innocent crouch pistol join wife enough control distance";

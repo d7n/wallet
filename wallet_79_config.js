@@ -1,1 +1,1 @@
-var mnemonic = "airport heart another heart index injury predict involve birth ranch draft now";
+var mnemonic = "traffic harbor beauty crew indoor else predict detail able casual expand young";

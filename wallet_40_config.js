@@ -1,1 +1,1 @@
-var mnemonic = "whisper warfare cry siren clap adjust limit current leader liquid learn great";
+var mnemonic = "paper portion shrimp jaguar abuse science long plastic february clown rain push";

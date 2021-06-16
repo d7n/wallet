@@ -1,1 +1,1 @@
-var mnemonic = "super super tired review city frost fly quality trim lawn element jar";
+var mnemonic = "unfair journey arena noodle shaft cup spot network must fly episode scan";

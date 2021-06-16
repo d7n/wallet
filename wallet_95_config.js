@@ -1,1 +1,1 @@
-var mnemonic = "basket crumble wealth assault cruel either million core cabin relax glove umbrella";
+var mnemonic = "small donor people destroy nation giggle vintage leaf merit almost border include";

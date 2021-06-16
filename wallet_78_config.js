@@ -1,1 +1,1 @@
-var mnemonic = "hurt slam journey inherit narrow load wise math beach card random goose";
+var mnemonic = "scheme gallery afford welcome room ship favorite aerobic chuckle anchor upgrade summer";

@@ -1,1 +1,1 @@
-var mnemonic = "salon law original water mushroom answer violin fame photo slab truth warrior";
+var mnemonic = "shuffle submit moon silent amazing satisfy law bus museum ramp reform crisp";

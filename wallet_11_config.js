@@ -1,1 +1,1 @@
-var mnemonic = "soda elevator across endorse muffin angry ecology emotion cliff language shadow swap";
+var mnemonic = "dignity mention torch pupil post panel source frozen pottery voyage gun muscle";

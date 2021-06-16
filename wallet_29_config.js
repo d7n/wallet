@@ -1,1 +1,1 @@
-var mnemonic = "half lecture repeat share error desert afraid few uncover crack mixture hunt";
+var mnemonic = "regret coral cheese present high comfort letter inspire risk odor ramp excuse";

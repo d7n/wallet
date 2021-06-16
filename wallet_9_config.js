@@ -1,1 +1,1 @@
-var mnemonic = "destroy invite talk tank mention prevent marine else effort card must truth";
+var mnemonic = "fire idea state lion myself husband spoon between give list narrow leisure";

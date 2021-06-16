@@ -1,1 +1,1 @@
-var mnemonic = "genre narrow sheriff zero discover scene twist chalk oblige weapon chase grow";
+var mnemonic = "camp typical small miss notable labor business above ranch soup desert above";

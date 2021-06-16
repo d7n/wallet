@@ -1,1 +1,1 @@
-var mnemonic = "solve flush tilt jaguar never evil core burst dune gentle must bag";
+var mnemonic = "apology still trick arm include gorilla purchase memory combine phrase point since";

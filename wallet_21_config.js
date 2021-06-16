@@ -1,1 +1,1 @@
-var mnemonic = "denial silver bubble weird impose minor bitter used submit cup special vivid";
+var mnemonic = "whisper stock fish core wage horn mixed craft depth pair rule shell";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual shove agent danger lumber unaware plate spoil fruit trim minute injury";
+var mnemonic = "kidney where left bulk elder flush near upgrade idea wheel pig senior";

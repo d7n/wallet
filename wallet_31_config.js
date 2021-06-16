@@ -1,1 +1,1 @@
-var mnemonic = "amazing top churn vault mass guard nuclear diesel donkey warm swarm long";
+var mnemonic = "hunt labor trend drum dream marine sustain phrase bracket project inspire attack";

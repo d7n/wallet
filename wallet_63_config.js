@@ -1,1 +1,1 @@
-var mnemonic = "trouble tiger heavy differ metal history shell hen now consider future focus";
+var mnemonic = "column ozone decide idle doctor daring lizard zone attitude cattle erase inmate";

@@ -1,1 +1,1 @@
-var mnemonic = "trend resource parrot together addict soldier sugar rain toilet piece only orchard";
+var mnemonic = "angle switch pond aim ordinary almost material butter excess allow local matrix";

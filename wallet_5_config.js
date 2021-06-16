@@ -1,1 +1,1 @@
-var mnemonic = "approve casino verb dose wife enough razor habit payment subject resemble pool";
+var mnemonic = "lobster describe coyote month razor custom tiny sting shock tuna earn nice";

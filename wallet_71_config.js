@@ -1,1 +1,1 @@
-var mnemonic = "fiction space pretty trim raven member desk clown enable gather staff essay";
+var mnemonic = "miracle horror giggle stairs time river half evidence choose option invite amateur";

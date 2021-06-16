@@ -1,1 +1,1 @@
-var mnemonic = "island jealous wife want man exile waste truth wide uncle feed power";
+var mnemonic = "cigar knee amount oak couple crystal much luxury midnight pride canvas debris";

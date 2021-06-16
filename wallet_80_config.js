@@ -1,1 +1,1 @@
-var mnemonic = "possible stumble heavy student enough consider hat again weapon essence evidence old";
+var mnemonic = "usual crew embark trash slush page dwarf illegal pool lend require frequent";

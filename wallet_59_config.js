@@ -1,1 +1,1 @@
-var mnemonic = "fine define poet friend check grant street parade mouse road pelican park";
+var mnemonic = "decide awkward glow vessel december oil album tooth anger pelican abuse liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "panel biology lemon shrug material miracle own impose vocal trip raw length";
+var mnemonic = "offer story cat clog joke upper credit suggest reflect vanish window sister";

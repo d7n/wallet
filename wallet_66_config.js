@@ -1,1 +1,1 @@
-var mnemonic = "leave wheel ginger blade exchange foster blanket glare loop nest tiny try";
+var mnemonic = "tent patrol mansion since trust ripple monitor dry moon nation soup above";

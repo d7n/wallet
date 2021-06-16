@@ -1,1 +1,1 @@
-var mnemonic = "remove thumb injury cute lunar insane enact tip sting valid maid mystery";
+var mnemonic = "risk tree oak tortoise loan chapter glide direct smooth kind symptom slow";

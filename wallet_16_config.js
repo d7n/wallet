@@ -1,1 +1,1 @@
-var mnemonic = "click arrow icon vessel sell travel skate ketchup breeze lady upgrade throw";
+var mnemonic = "coral donor rally quality grid pact habit try canoe phone release repair";

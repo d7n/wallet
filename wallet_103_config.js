@@ -1,1 +1,1 @@
-var mnemonic = "monster scrub gift vital style lounge ranch attack bird illness spot practice";
+var mnemonic = "usual key rule regret urge kit truth already frown lucky east clever";

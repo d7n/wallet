@@ -1,1 +1,1 @@
-var mnemonic = "remain clutch orchard skirt punch swallow cannon snap torch cover consider uniform";
+var mnemonic = "enough giggle below priority smoke path sense combine bring electric answer cram";

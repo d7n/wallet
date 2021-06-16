@@ -1,1 +1,1 @@
-var mnemonic = "uncover cake sock rain raven more gospel neither reduce arrest advance update";
+var mnemonic = "around abandon merge chaos napkin photo enhance humble trophy chest define desert";

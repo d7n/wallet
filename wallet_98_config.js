@@ -1,1 +1,1 @@
-var mnemonic = "wife salmon ugly method enable antique cinnamon panic client often myth summer";
+var mnemonic = "crack library kind gown match elbow april sunset nasty tackle toilet brass";

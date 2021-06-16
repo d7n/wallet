@@ -1,1 +1,1 @@
-var mnemonic = "engage avoid promote match allow moment vacant snow avoid injury cannon addict";
+var mnemonic = "decide lounge enough double grape private glass time diamond fit aware notable";

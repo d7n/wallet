@@ -1,1 +1,1 @@
-var mnemonic = "vacant destroy banner grass hockey dragon toward coach cricket reflect injury twice";
+var mnemonic = "inherit coil much fine timber radar strategy laugh puppy region cheese sister";

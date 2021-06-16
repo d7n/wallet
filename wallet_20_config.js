@@ -1,1 +1,1 @@
-var mnemonic = "farm dove head tag auction loyal super issue pool six armor woman";
+var mnemonic = "cook garden salon prosper priority payment crouch danger topic young winter please";

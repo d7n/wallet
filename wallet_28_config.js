@@ -1,1 +1,1 @@
-var mnemonic = "like arm glad amazing insane rack call atom cram flag govern congress";
+var mnemonic = "unlock case few peasant safe buffalo catalog cart morning illegal tomorrow sing";

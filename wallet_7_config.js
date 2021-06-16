@@ -1,1 +1,1 @@
-var mnemonic = "people strategy fancy truth green labor program lawsuit hand blur blur nut";
+var mnemonic = "satoshi provide tide people detect flag steak clip drift until ripple boy";

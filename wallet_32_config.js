@@ -1,1 +1,1 @@
-var mnemonic = "frame moral giggle pitch dynamic about chair any muscle mixed link opinion";
+var mnemonic = "pumpkin south planet girl face clutch armor digital night car hedgehog else";

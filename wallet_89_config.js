@@ -1,1 +1,1 @@
-var mnemonic = "direct minimum weather normal slight deliver swift sign final humble vocal camera";
+var mnemonic = "road task asset month pencil aspect satisfy frozen movie wasp episode path";

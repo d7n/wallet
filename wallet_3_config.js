@@ -1,1 +1,1 @@
-var mnemonic = "evidence approve hotel main they sad build filter monkey arctic blanket fiber";
+var mnemonic = "window dirt arm ribbon balance pottery okay song protect desert similar super";

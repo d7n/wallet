@@ -1,1 +1,1 @@
-var mnemonic = "october cross feed hurt organ one mass upon survey salt inhale photo";
+var mnemonic = "task smart parent sound game stumble eyebrow rail pulp blush fluid switch";

@@ -1,1 +1,1 @@
-var mnemonic = "frown wave wise nature omit under turtle isolate what limb oblige ready";
+var mnemonic = "acquire kite prepare mango ill hamster legal weather tail prosper code relief";

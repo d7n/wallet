@@ -1,1 +1,1 @@
-var mnemonic = "infant vague release gas insane foster airport tree youth real clump embody";
+var mnemonic = "zone kangaroo theory pact inmate rich ivory off father weapon simple image";

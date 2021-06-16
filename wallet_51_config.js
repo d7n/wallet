@@ -1,1 +1,1 @@
-var mnemonic = "issue video early glove giant kite silly yard dad mobile purse young";
+var mnemonic = "elevator east include foster conduct diagram feel gentle they add desert silent";

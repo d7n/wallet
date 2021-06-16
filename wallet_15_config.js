@@ -1,1 +1,1 @@
-var mnemonic = "scatter dove fresh account unfair own loop kiwi sauce opera harvest brave";
+var mnemonic = "weasel pair weird matter air bitter claim cattle topic invite dream law";

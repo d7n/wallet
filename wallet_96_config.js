@@ -1,1 +1,1 @@
-var mnemonic = "output gain skill fold pulse dry spend anxiety need calm cart return";
+var mnemonic = "fluid badge window often latin lonely banana coral code adult chuckle relief";

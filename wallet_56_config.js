@@ -1,1 +1,1 @@
-var mnemonic = "similar leave glad viable river valve text alcohol life bench suffer wisdom";
+var mnemonic = "soda myself neck provide hold say story jazz various illness term solid";

@@ -1,1 +1,1 @@
-var mnemonic = "danger prepare night pony between lake immune mushroom volcano soap trip equal";
+var mnemonic = "limb accuse term differ burst surprise load inject kingdom hub bright narrow";

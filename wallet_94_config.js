@@ -1,1 +1,1 @@
-var mnemonic = "wasp car hurry still modify laugh black recipe bread spray capable legal";
+var mnemonic = "jump amateur exhibit adult atom census visual amused type cruise buffalo fetch";

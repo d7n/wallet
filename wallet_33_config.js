@@ -1,1 +1,1 @@
-var mnemonic = "have reject sight eye brown swarm illness fold evoke stone palm marine";
+var mnemonic = "movie firm volume detail model mix indoor cruel fetch dream now bag";

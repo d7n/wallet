@@ -1,1 +1,1 @@
-var mnemonic = "defy orphan view smoke tongue lyrics day husband barely april festival view";
+var mnemonic = "slogan better cargo easy denial broccoli horn joy misery pattern clutch taste";

@@ -1,1 +1,1 @@
-var mnemonic = "verify sweet diet brass organ ritual various rib simple pet crush fetch";
+var mnemonic = "hip swap world direct submit march romance maximum alter nephew broken gap";

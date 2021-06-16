@@ -1,1 +1,1 @@
-var mnemonic = "payment stock track surge royal region volume anxiety antenna decline begin pumpkin";
+var mnemonic = "popular romance open hint sort physical sad property price acoustic follow excite";

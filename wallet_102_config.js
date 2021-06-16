@@ -1,1 +1,1 @@
-var mnemonic = "elite again magnet elephant raw expire thing purity useful chef say wheel";
+var mnemonic = "grant program click supreme solve crucial dismiss walk rent remove faith upset";

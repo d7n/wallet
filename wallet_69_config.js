@@ -1,1 +1,1 @@
-var mnemonic = "gravity dog motion capable castle run major twelve ask accuse blind jazz";
+var mnemonic = "dragon noise dish slush spray spider coil ladder source expand dirt wave";

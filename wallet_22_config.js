@@ -1,1 +1,1 @@
-var mnemonic = "floor away husband slow bean maze grape fancy benefit answer buddy hand";
+var mnemonic = "simple whale mule pave peanut life seat atom upgrade thumb syrup expand";

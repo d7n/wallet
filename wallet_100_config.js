@@ -1,1 +1,1 @@
-var mnemonic = "horror immune loop flame ivory satisfy blast zero language deliver final usual";
+var mnemonic = "color hedgehog broom way elite engage middle session hold laundry oil dolphin";

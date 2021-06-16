@@ -1,1 +1,1 @@
-var mnemonic = "raven card slush sugar bitter tennis whip chef outside rookie axis stay";
+var mnemonic = "struggle laptop whip outside camp rebel used length boring ugly rare size";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey stove twist trade client armor cliff thank like void slush certain";
+var mnemonic = "veteran leader proof such blur treat document muffin chaos mistake brain action";

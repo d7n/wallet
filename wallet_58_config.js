@@ -1,1 +1,1 @@
-var mnemonic = "master bitter globe one tube bulb aspect abstract ordinary survey rate pride";
+var mnemonic = "photo prepare inside fuel capital clean crush model youth vote bachelor axis";

@@ -1,1 +1,1 @@
-var mnemonic = "divide husband peanut senior puppy acoustic brisk toward federal frequent simple deal";
+var mnemonic = "skin doctor earth type squeeze kit knife riot prosper cross boat exhibit";

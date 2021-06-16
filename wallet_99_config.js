@@ -1,1 +1,1 @@
-var mnemonic = "poet mystery sketch during person still permit paper pass tray electric review";
+var mnemonic = "can scene weird hockey mind reveal legend glad picture bleak deputy domain";

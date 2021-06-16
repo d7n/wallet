@@ -1,1 +1,1 @@
-var mnemonic = "obtain audit minimum monkey save symbol blame portion emerge where taxi smart";
+var mnemonic = "confirm enter crush spot uphold secret truck toddler island elbow situate fox";

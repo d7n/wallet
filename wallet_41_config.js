@@ -1,1 +1,1 @@
-var mnemonic = "couple only enemy east later dog tonight pretty isolate negative monitor ordinary";
+var mnemonic = "maple right audit cotton evolve wisdom chuckle poverty juice clerk pilot valid";

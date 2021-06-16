@@ -1,1 +1,1 @@
-var mnemonic = "fee oxygen mobile net exhaust float autumn double behave valid skin domain";
+var mnemonic = "primary urge smile stem popular much peace fragile soap jump tired clarify";

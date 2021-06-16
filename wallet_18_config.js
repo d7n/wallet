@@ -1,1 +1,1 @@
-var mnemonic = "mirror gain polar wife ring cable parent climb obey tilt museum receive";
+var mnemonic = "range draw write tone rural ring almost glove excess firm submit iron";

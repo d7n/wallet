@@ -1,1 +1,1 @@
-var mnemonic = "mobile shoot chief vault still egg strike loud baby uphold ranch pull";
+var mnemonic = "position bullet admit angry brass betray decide year announce truck junk misery";

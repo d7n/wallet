@@ -1,1 +1,1 @@
-var mnemonic = "holiday happy whale because brisk pitch soldier brush sense junior small achieve";
+var mnemonic = "merry matter web waste ignore lawsuit scatter spider shiver squeeze wire hurry";

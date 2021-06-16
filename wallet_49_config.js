@@ -1,1 +1,1 @@
-var mnemonic = "excess mobile labor blind addict special arena concert echo brass space muffin";
+var mnemonic = "catalog victory almost debris neutral later snack circle rural more bind parade";

@@ -1,1 +1,1 @@
-var mnemonic = "join prevent horn scan lucky purchase script twist table child stomach token";
+var mnemonic = "kidney category rival quit arena actual they act refuse portion run ride";

@@ -1,1 +1,1 @@
-var mnemonic = "gold twice jealous stable robust shadow elevator alter ostrich stumble federal public";
+var mnemonic = "awkward hole misery outer chalk soul earn glue winter betray quit tag";
