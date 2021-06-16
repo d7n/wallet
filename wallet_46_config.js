@@ -1,1 +1,1 @@
-var mnemonic = "canvas fortune pet photo hill mother trend anchor bridge amazing virus auction";
+var mnemonic = "usual pink caution north priority slam banana blush width indicate spread song";

@@ -1,1 +1,1 @@
-var mnemonic = "advice pig water story tornado gate soft arm crowd cost purity poverty";
+var mnemonic = "solve carry exercise average foam tonight dirt awful extra notice flame depart";

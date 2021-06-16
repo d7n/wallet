@@ -1,1 +1,1 @@
-var mnemonic = "grace outer punch ship venture trick swift worry chalk toy blossom blind";
+var mnemonic = "route gate supreme maple marriage eye stand about hobby race mystery goose";

@@ -1,1 +1,1 @@
-var mnemonic = "bag pluck glide immune news father bid wife wise usual indicate million";
+var mnemonic = "dutch east evoke magnet patient swarm essay twelve ball lady price hair";

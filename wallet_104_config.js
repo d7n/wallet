@@ -1,1 +1,1 @@
-var mnemonic = "copper fix actual humble gloom away coach perfect picture cousin naive spring";
+var mnemonic = "weapon goddess gaze train large sweet climb rely useful advice couch priority";

@@ -1,1 +1,1 @@
-var mnemonic = "real slot better confirm brass fish pelican mosquito oblige next grape truly";
+var mnemonic = "tribe prepare magic unknown kingdom lucky invest outside zero fame okay goose";

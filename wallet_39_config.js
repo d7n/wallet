@@ -1,1 +1,1 @@
-var mnemonic = "october athlete bus strike box mind mention glide sausage question depart region";
+var mnemonic = "music eye blue toddler scrap chapter smoke betray hungry culture fuel taxi";

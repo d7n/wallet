@@ -1,1 +1,1 @@
-var mnemonic = "hill swallow tomato purse poet cage sun bronze fog submit elite peace";
+var mnemonic = "nephew final duck apart bulk blade material view pitch expire search news";

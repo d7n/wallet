@@ -1,1 +1,1 @@
-var mnemonic = "ramp caught market bundle panel organ model umbrella funny occur farm public";
+var mnemonic = "fluid property soon meadow ask inherit image critic iron couple make security";

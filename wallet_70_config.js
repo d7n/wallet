@@ -1,1 +1,1 @@
-var mnemonic = "state join fancy tissue catalog panel flock shrug truck blood vehicle clap";
+var mnemonic = "patch zone venture salmon two rabbit glance forward typical immense donate middle";

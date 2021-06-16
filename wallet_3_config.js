@@ -1,1 +1,1 @@
-var mnemonic = "birth van eight swing guilt gospel canal busy salmon stereo purchase barrel";
+var mnemonic = "video banana believe degree grain noise please blood cause fiscal gather such";

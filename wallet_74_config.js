@@ -1,1 +1,1 @@
-var mnemonic = "twelve weapon wedding awful tiny pet tongue stool cheese sock wagon apple";
+var mnemonic = "gorilla fame author snow bring during unaware tattoo squirrel hospital other cotton";

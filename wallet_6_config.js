@@ -1,1 +1,1 @@
-var mnemonic = "walnut car twelve shop float upon blast symptom normal dolphin return chief";
+var mnemonic = "guard honey fat actual style capital pond also apart rescue latin veteran";

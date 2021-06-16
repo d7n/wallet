@@ -1,1 +1,1 @@
-var mnemonic = "stairs east sunny banana media scene badge shadow excite wing deposit achieve";
+var mnemonic = "invite document ship spatial discover oval uncover sun embody follow skin toss";

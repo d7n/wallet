@@ -1,1 +1,1 @@
-var mnemonic = "student keep virtual rate protect surround chalk portion thrive loud bargain legend";
+var mnemonic = "other valve online always carbon grab mountain salute toast mixed doll river";

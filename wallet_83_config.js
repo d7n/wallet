@@ -1,1 +1,1 @@
-var mnemonic = "manage thought order shuffle process invite useful token village cushion crucial route";
+var mnemonic = "laundry debris ancient adult crawl runway marriage also miss curtain dry legal";

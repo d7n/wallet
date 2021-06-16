@@ -1,1 +1,1 @@
-var mnemonic = "edge library curve parent web horse short satisfy fluid same curtain ability";
+var mnemonic = "key art wet kitchen ceiling debate spoil century memory icon once patient";

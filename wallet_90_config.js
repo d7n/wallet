@@ -1,1 +1,1 @@
-var mnemonic = "ceiling nephew frost border fix used mad hunt spoon local pencil project";
+var mnemonic = "differ priority immense coral dumb second also frown ritual group cinnamon female";

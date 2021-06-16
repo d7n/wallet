@@ -1,1 +1,1 @@
-var mnemonic = "enforce fatigue sure transfer swing grass switch advice banana cycle fix february";
+var mnemonic = "sleep town interest century best veteran wreck mango genre rent away where";

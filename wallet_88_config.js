@@ -1,1 +1,1 @@
-var mnemonic = "portion they sustain exhaust shield school resemble team quick hunt chaos mesh";
+var mnemonic = "obscure rocket muscle album bring print choice exercise decline season begin helmet";

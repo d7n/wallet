@@ -1,1 +1,1 @@
-var mnemonic = "hat diamond eye kingdom upper danger forget mobile sing enough abstract crucial";
+var mnemonic = "pencil mouse trouble goat easy bone afford olympic fade silent solid eye";

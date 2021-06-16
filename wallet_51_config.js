@@ -1,1 +1,1 @@
-var mnemonic = "jaguar famous siege expire cactus draw celery entire gun zero amount clinic";
+var mnemonic = "bright discover offer second toast audit slogan dream athlete rigid horse remove";

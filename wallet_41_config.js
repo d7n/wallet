@@ -1,1 +1,1 @@
-var mnemonic = "page much donate chronic vacuum quiz click recipe input ahead pulse assault";
+var mnemonic = "element item purpose collect recipe coconut cart nephew rookie oblige tower waste";

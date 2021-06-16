@@ -1,1 +1,1 @@
-var mnemonic = "flavor resemble rebel oyster naive south polar twist scissors alpha butter term";
+var mnemonic = "glory claw walnut salmon pepper bring bind adult fix clay unaware ride";

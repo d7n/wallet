@@ -1,1 +1,1 @@
-var mnemonic = "always explain vibrant shrug scare bike cargo tonight bicycle potato lonely around";
+var mnemonic = "shiver dust design human okay chalk release select capital action else tiger";

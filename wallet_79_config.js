@@ -1,1 +1,1 @@
-var mnemonic = "faculty leader insect suggest resource pool volume praise knock total defense sudden";
+var mnemonic = "spoil fiscal observe flavor live song sample axis rigid modify negative west";

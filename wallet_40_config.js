@@ -1,1 +1,1 @@
-var mnemonic = "music scrub wave lens club dial sleep child divert pipe garage shallow";
+var mnemonic = "cricket short type number school era drama dizzy model toast chalk awful";

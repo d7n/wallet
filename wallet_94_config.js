@@ -1,1 +1,1 @@
-var mnemonic = "simple ten minute kangaroo swamp broccoli entry unveil enjoy garlic lonely hour";
+var mnemonic = "valve physical twin save motor naive throw demand teach scout turn giant";

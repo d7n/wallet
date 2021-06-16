@@ -1,1 +1,1 @@
-var mnemonic = "initial average door weekend slab rubber decrease pole vendor connect gain heart";
+var mnemonic = "brief option pole mean virus hollow plastic fitness scan hurdle host scissors";

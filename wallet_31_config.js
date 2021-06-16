@@ -1,1 +1,1 @@
-var mnemonic = "secret alien father intact area escape nurse trigger essence orient yard garden";
+var mnemonic = "body fetch tray riot divide myself exchange slam either relax tiger clip";

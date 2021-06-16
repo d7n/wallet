@@ -1,1 +1,1 @@
-var mnemonic = "ticket omit false account tooth above omit sweet involve disorder what clock";
+var mnemonic = "solution palace lens sadness option evolve oak horn suggest obscure quarter front";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory hood captain essay room auto spray protect release humor arena ramp";
+var mnemonic = "black coin couple subway youth palm click jar lumber machine replace frost";

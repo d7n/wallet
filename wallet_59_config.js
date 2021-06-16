@@ -1,1 +1,1 @@
-var mnemonic = "chef favorite admit blood strong talk response cheese unique escape trophy perfect";
+var mnemonic = "dust nephew claim alpha betray shadow flock please decorate half journey coral";

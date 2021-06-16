@@ -1,1 +1,1 @@
-var mnemonic = "general choice hurt buddy regret always venue ability design fiber wish future";
+var mnemonic = "august pumpkin crop nominee reunion guess drive oval mimic witness company lake";

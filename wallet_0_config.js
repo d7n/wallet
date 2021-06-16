@@ -1,1 +1,1 @@
-var mnemonic = "whip visa lumber possible sausage human destroy spend pupil hint uphold fragile";
+var mnemonic = "main web humble satisfy afford bracket dust cable own system monster live";

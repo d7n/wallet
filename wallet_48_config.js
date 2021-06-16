@@ -1,1 +1,1 @@
-var mnemonic = "relief awake excess way clerk tonight viable flight collect display margin castle";
+var mnemonic = "oblige math wreck code surprise season shuffle never drift caution peace script";

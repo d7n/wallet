@@ -1,1 +1,1 @@
-var mnemonic = "crucial spread beyond clerk open sustain card behave link miracle remove casual";
+var mnemonic = "involve comfort stage grape stamp airport vast catalog fringe pelican company danger";

@@ -1,1 +1,1 @@
-var mnemonic = "excess walnut skirt actress heart season assault torch afraid milk lemon minute";
+var mnemonic = "fade spot able virus neglect swing glide frozen gain tongue measure patient";

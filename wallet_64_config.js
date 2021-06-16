@@ -1,1 +1,1 @@
-var mnemonic = "buyer lens phrase control ensure settle dance excuse ignore clog film oyster";
+var mnemonic = "goat spare ship worth sunny odor siren narrow moral spawn anxiety actress";

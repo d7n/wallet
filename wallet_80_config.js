@@ -1,1 +1,1 @@
-var mnemonic = "bicycle iron zoo surge test alien shaft yard oval urban caught liberty";
+var mnemonic = "into hard devote motion dizzy nominee remember place wisdom volcano cherry slight";

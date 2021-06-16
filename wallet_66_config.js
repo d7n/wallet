@@ -1,1 +1,1 @@
-var mnemonic = "rude priority rail royal nasty dragon dilemma twin blade build favorite fuel";
+var mnemonic = "monkey razor audit rubber plug brown call faint lazy defy enjoy dilemma";

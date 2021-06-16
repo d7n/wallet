@@ -1,1 +1,1 @@
-var mnemonic = "ancient cloud disorder talk chef portion smooth edit upper payment sport tunnel";
+var mnemonic = "witness joke vapor nest midnight rookie image endless cradle loyal lamp arm";

@@ -1,1 +1,1 @@
-var mnemonic = "stereo tongue amateur butter link cover prevent now meat patient connect pilot";
+var mnemonic = "mammal coyote choose cook exotic walnut cream unfair sun save goddess cry";

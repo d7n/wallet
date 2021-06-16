@@ -1,1 +1,1 @@
-var mnemonic = "pause insane accident famous cube chronic merry give sound unaware put stay";
+var mnemonic = "ranch pitch lunar cash modify position worry weasel episode struggle rocket soft";

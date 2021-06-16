@@ -1,1 +1,1 @@
-var mnemonic = "off glue repeat high again alien jelly borrow space urban hire almost";
+var mnemonic = "ethics camera magic suffer solve feel general time tongue pudding wheat size";

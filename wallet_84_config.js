@@ -1,1 +1,1 @@
-var mnemonic = "brief foam remember frown once quality remain assault quiz intact wonder unable";
+var mnemonic = "strike neutral frog insect fetch imitate snow onion remind bacon roof banner";

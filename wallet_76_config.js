@@ -1,1 +1,1 @@
-var mnemonic = "lens weekend parent boy brisk scale cat dumb stem error announce street";
+var mnemonic = "balcony profit kangaroo copy talent cinnamon pluck major tongue arrow flee uphold";

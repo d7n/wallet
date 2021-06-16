@@ -1,1 +1,1 @@
-var mnemonic = "apart like renew robust mesh spawn pledge congress damp bulb divide acoustic";
+var mnemonic = "decorate basic fish decrease tuition impact endless auto oak snap involve vacant";

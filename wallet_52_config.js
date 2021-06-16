@@ -1,1 +1,1 @@
-var mnemonic = "kitten photo life response scout puzzle rain wolf wing flag protect mutual";
+var mnemonic = "pretty journey disagree verify damp chaos garden regret napkin pulp jungle magic";

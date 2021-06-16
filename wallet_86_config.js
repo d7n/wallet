@@ -1,1 +1,1 @@
-var mnemonic = "kitchen panda there surge have window time attract payment sting affair dry";
+var mnemonic = "day test front drip ride arrive final attend duty lend nasty salute";

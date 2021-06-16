@@ -1,1 +1,1 @@
-var mnemonic = "coyote crime artist lonely impulse ghost divert special job decline slot critic";
+var mnemonic = "lend tonight nut mushroom need art proof traffic want boost moral develop";

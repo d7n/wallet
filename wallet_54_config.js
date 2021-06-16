@@ -1,1 +1,1 @@
-var mnemonic = "response palm husband spider upgrade slam better praise merry mass episode street";
+var mnemonic = "motor universe manual sphere audit organ wealth type bird dragon thumb choose";

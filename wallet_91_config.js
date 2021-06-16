@@ -1,1 +1,1 @@
-var mnemonic = "more there grow summer fold position load version fatigue lumber scatter stamp";
+var mnemonic = "absorb grit crouch insane acid visa journey alone spice gorilla sense spin";

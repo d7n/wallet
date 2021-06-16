@@ -1,1 +1,1 @@
-var mnemonic = "twist moon toe kiwi debate raw announce lion change milk shiver near";
+var mnemonic = "pelican excite blind fury box since reveal vast grocery question biology answer";

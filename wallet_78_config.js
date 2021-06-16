@@ -1,1 +1,1 @@
-var mnemonic = "grass fat exclude table table stock diary pink small axis gas spoil";
+var mnemonic = "arctic define crystal cupboard height pipe shift report abandon warfare write jungle";

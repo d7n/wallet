@@ -1,1 +1,1 @@
-var mnemonic = "biology match over cherry mesh oil local sound owner wisdom leaf avoid";
+var mnemonic = "scrub during blood mesh cherry shy left combine absent fashion small dirt";

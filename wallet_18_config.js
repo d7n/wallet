@@ -1,1 +1,1 @@
-var mnemonic = "lumber audit option nut pistol miss fever echo kite alien obvious alone";
+var mnemonic = "escape crunch sudden orchard meat service base people safe later blanket once";

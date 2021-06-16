@@ -1,1 +1,1 @@
-var mnemonic = "pledge inflict sketch cool night shift couple amazing current mountain trust hub";
+var mnemonic = "head green reveal electric labor sound warm tiny spice pair frost diamond";

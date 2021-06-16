@@ -1,1 +1,1 @@
-var mnemonic = "salmon venture palm town exercise vibrant tragic fever helmet need foil type";
+var mnemonic = "nothing crew news swallow dice blast stool spin little penalty usual panther";

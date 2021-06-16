@@ -1,1 +1,1 @@
-var mnemonic = "special little dirt depart jazz course zebra inflict edit lion machine shrimp";
+var mnemonic = "spider insect rookie rice rookie way where improve wine property real lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle because actor country very eyebrow patch chunk govern furnace snap uniform";
+var mnemonic = "security disagree enforce cruise worry bamboo front asthma film sausage physical network";

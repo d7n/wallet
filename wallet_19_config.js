@@ -1,1 +1,1 @@
-var mnemonic = "old razor sock proof indoor help tornado fortune twin angle ridge carpet";
+var mnemonic = "all option hello vivid field dizzy island elegant earn knee response photo";

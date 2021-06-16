@@ -1,1 +1,1 @@
-var mnemonic = "domain pave total soul cream punch dad neutral unfair license abstract acid";
+var mnemonic = "glimpse powder also cloth great student february upset frost major lava confirm";

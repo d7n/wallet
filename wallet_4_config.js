@@ -1,1 +1,1 @@
-var mnemonic = "critic daring fruit response resemble license share husband nominee reveal silly ecology";
+var mnemonic = "noodle host rhythm around begin entry exclude fresh exhaust goose magnet quit";

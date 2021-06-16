@@ -1,1 +1,1 @@
-var mnemonic = "physical execute soup raise behind disorder hero pet logic flower burden express";
+var mnemonic = "have trade repeat update utility bamboo tent gravity marble ghost forest ribbon";

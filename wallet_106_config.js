@@ -1,1 +1,1 @@
-var mnemonic = "raw possible still razor owner ladder unlock wink measure winter veteran vacuum";
+var mnemonic = "evil involve color left auction bright sun laptop plunge energy history trophy";

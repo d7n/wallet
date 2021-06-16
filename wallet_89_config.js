@@ -1,1 +1,1 @@
-var mnemonic = "shadow liar science carry fame poem together flip fitness you country vacant";
+var mnemonic = "business furnace trade venue music toy reform dynamic sign napkin admit fan";

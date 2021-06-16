@@ -1,1 +1,1 @@
-var mnemonic = "start select chuckle hidden order motion tube stereo envelope cactus imitate orchard";
+var mnemonic = "muffin tooth sausage short join tribe scare fiction rocket cool enemy blur";

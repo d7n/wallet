@@ -1,1 +1,1 @@
-var mnemonic = "merit utility census fade glove identify liquid shadow shaft conduct clock game";
+var mnemonic = "lunar sleep comic cereal question embody opera nation valid capable tourist exact";

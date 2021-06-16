@@ -1,1 +1,1 @@
-var mnemonic = "one eyebrow tribe aunt ship mad smooth news asthma oppose pole mosquito";
+var mnemonic = "cool step renew void erase around plug jar useless leg cart across";

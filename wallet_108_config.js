@@ -1,1 +1,1 @@
-var mnemonic = "display cheese place scrub wear pass entire life confirm cover eyebrow aspect";
+var mnemonic = "this tip castle tomato option rule kangaroo antenna sure blanket drum flag";

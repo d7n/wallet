@@ -1,1 +1,1 @@
-var mnemonic = "melody carry purse noodle human glass abstract march option vehicle dash occur";
+var mnemonic = "win cheap purchase rain depart spy appear staff rich trash present napkin";

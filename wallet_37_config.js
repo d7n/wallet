@@ -1,1 +1,1 @@
-var mnemonic = "bag road tribe tortoise exercise piano where staff vault lunar sun clap";
+var mnemonic = "copper patient huge game upper upset panic erosion reduce arrow abandon usual";

@@ -1,1 +1,1 @@
-var mnemonic = "fine slow gain cousin visa unlock slow release already earn chronic harsh";
+var mnemonic = "mix account people team step drink grunt pepper swarm empty draw hamster";

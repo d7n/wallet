@@ -1,1 +1,1 @@
-var mnemonic = "budget melt embody pair fluid kid friend possible twelve dish produce speak";
+var mnemonic = "carpet above wing place abstract quality brass draft receive west spatial cross";

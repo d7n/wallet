@@ -1,1 +1,1 @@
-var mnemonic = "search fence goddess donor loud seed jacket smart aspect nerve point artist";
+var mnemonic = "happy lava unlock emerge lawn profit sentence dial draft faint busy govern";

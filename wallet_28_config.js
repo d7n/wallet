@@ -1,1 +1,1 @@
-var mnemonic = "topple top denial patient kitchen describe provide tongue mean style mind order";
+var mnemonic = "field dad orbit close wealth owner autumn erase predict basic adapt work";

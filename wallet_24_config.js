@@ -1,1 +1,1 @@
-var mnemonic = "hair magnet patrol crane demise hello torch blood marine gun imitate neglect";
+var mnemonic = "hold rapid mind spy quit vast hour reveal piano abstract spread youth";

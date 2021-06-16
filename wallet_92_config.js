@@ -1,1 +1,1 @@
-var mnemonic = "helmet rely spike pet will lift dog unable jealous edge ski rent";
+var mnemonic = "negative trap daughter object century exercise what drastic one equal angry emerge";

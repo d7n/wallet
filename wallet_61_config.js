@@ -1,1 +1,1 @@
-var mnemonic = "drama tobacco similar marriage fame cattle high bitter vessel enact diamond pistol";
+var mnemonic = "bird slide moral snow asset hamster crumble couple gasp icon there weird";

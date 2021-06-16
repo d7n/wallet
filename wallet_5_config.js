@@ -1,1 +1,1 @@
-var mnemonic = "vanish tenant orbit ozone oyster pencil top pipe scorpion vote arena grow";
+var mnemonic = "switch lecture pig mechanic wash waste toss impulse census label bonus bone";

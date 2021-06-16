@@ -1,1 +1,1 @@
-var mnemonic = "agree leg excess join century vast orange devote zoo gun shaft hurt";
+var mnemonic = "want fashion found balcony pulse reveal security burst strong lock task muscle";

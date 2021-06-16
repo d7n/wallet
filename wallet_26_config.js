@@ -1,1 +1,1 @@
-var mnemonic = "spot second paddle sport suspect auction puppy tornado asset april clever merit";
+var mnemonic = "shove hood bargain rotate fault faith nerve car advance journey surge puppy";

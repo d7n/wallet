@@ -1,1 +1,1 @@
-var mnemonic = "silent screen elder goddess jazz busy syrup weird cruise please fish again";
+var mnemonic = "frown cake picture advice alpha shed noble size maximum happy myself possible";

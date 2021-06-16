@@ -1,1 +1,1 @@
-var mnemonic = "chronic student decorate trigger carry first cabin dad expose symptom exile organ";
+var mnemonic = "law three grain clay essence unaware idle cupboard fit casual decorate true";

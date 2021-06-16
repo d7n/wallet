@@ -1,1 +1,1 @@
-var mnemonic = "polar erase scorpion excuse left bulb fly blame green venture rhythm leisure";
+var mnemonic = "unveil engage wash feature antique border father twenty loud gold crystal today";

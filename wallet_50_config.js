@@ -1,1 +1,1 @@
-var mnemonic = "record worry wise zero step fan tuna stamp until layer emotion adjust";
+var mnemonic = "denial smoke gospel misery regular merit reform ghost elder soon weasel elegant";

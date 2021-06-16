@@ -1,1 +1,1 @@
-var mnemonic = "husband ritual thunder dignity this reopen release nuclear hip hood gather derive";
+var mnemonic = "extra frequent patrol report tissue engage nothing dilemma hour strong clump during";

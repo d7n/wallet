@@ -1,1 +1,1 @@
-var mnemonic = "field drastic coil fire dress very ring volume brush teach grace this";
+var mnemonic = "athlete hand today brass that nation problem save broccoli brown shock remember";
