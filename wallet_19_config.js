@@ -1,1 +1,1 @@
-var mnemonic = "ribbon gravity hint august remain season bird please drill gold party chronic";
+var mnemonic = "until absent copper artwork tomorrow tumble refuse fan once zero drama coin";

@@ -1,1 +1,1 @@
-var mnemonic = "chief potato drink match asset raccoon warm air bus flight heart code";
+var mnemonic = "gravity panda hill brass alter company deal dragon word captain thank pulse";

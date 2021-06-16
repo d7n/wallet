@@ -1,1 +1,1 @@
-var mnemonic = "ecology ethics valid whip perfect brick maid glove grief tomorrow captain paddle";
+var mnemonic = "green avocado junk ride jump merge capital cost spring ocean apology welcome";

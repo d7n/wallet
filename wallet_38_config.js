@@ -1,1 +1,1 @@
-var mnemonic = "mimic beyond priority cactus entire smart index spoil diagram height consider sad";
+var mnemonic = "tooth swear fiction old toe mixture awkward strategy clog clarify remind game";

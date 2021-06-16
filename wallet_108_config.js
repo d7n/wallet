@@ -1,1 +1,1 @@
-var mnemonic = "slim casual deal brisk poverty blade flower hotel silver double call math";
+var mnemonic = "scissors soccer submit modify little hundred ozone banana nuclear olympic prosper soccer";

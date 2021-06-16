@@ -1,1 +1,1 @@
-var mnemonic = "bread asthma panther clay sample shy jewel spring second harsh update brief";
+var mnemonic = "team doll parade step wild manage color strike inspire knock across fault";

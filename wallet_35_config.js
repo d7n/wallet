@@ -1,1 +1,1 @@
-var mnemonic = "cake vacant subject cluster quit short inform pencil again cup column say";
+var mnemonic = "daring organ theory okay kitchen change festival abandon peanut art blame junk";

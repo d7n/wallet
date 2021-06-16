@@ -1,1 +1,1 @@
-var mnemonic = "mimic text text trophy tuition stumble glide anxiety soup same list tonight";
+var mnemonic = "design catalog industry theory keen romance salon inhale language mimic quarter furnace";

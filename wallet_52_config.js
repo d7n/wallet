@@ -1,1 +1,1 @@
-var mnemonic = "material legal point castle symbol tomorrow arch dolphin leopard ship right spot";
+var mnemonic = "village dilemma shock direct tragic tape stuff street horn bonus wing bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "anger reveal peanut song notable seven mention canvas able fruit later knock";
+var mnemonic = "bar siren one glory flag loud keen teach pizza ladder make furnace";

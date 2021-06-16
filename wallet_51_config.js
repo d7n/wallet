@@ -1,1 +1,1 @@
-var mnemonic = "behind dutch dress abuse inject genuine output dinner tongue ridge fortune bar";
+var mnemonic = "axis call cotton demand meadow tag canal program still insane raise scout";

@@ -1,1 +1,1 @@
-var mnemonic = "cat enough flock enemy say plate volcano flight develop health success dune";
+var mnemonic = "social injury reflect city away sing coast flip divorce hand sudden angry";

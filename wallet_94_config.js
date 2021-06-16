@@ -1,1 +1,1 @@
-var mnemonic = "garden target remind general tell grain fee snap angry only wish beauty";
+var mnemonic = "fit cart album debris tumble local proof lawn wonder front airport immune";

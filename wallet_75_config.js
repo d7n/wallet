@@ -1,1 +1,1 @@
-var mnemonic = "fresh creek diesel frozen town property between mirror success reunion until host";
+var mnemonic = "amateur office crazy slow bamboo install ritual keen leisure luxury response problem";

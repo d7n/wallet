@@ -1,1 +1,1 @@
-var mnemonic = "gauge lecture enlist rookie spring stuff victory upgrade unveil mind injury develop";
+var mnemonic = "else silk gloom opera frown bleak chuckle moral topple chest junk erupt";

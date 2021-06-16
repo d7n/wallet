@@ -1,1 +1,1 @@
-var mnemonic = "math unfair mountain twelve adapt primary destroy dial survey olive velvet galaxy";
+var mnemonic = "frown style scale aerobic olympic agent stick disorder patch decline rib anger";

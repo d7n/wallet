@@ -1,1 +1,1 @@
-var mnemonic = "axis mechanic final stomach motor wing long blush brief panda attack imitate";
+var mnemonic = "kitten hungry emotion include hedgehog gym scorpion joy famous flush orphan rate";

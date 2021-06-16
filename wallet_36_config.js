@@ -1,1 +1,1 @@
-var mnemonic = "art evoke degree pistol valve audit symptom tortoise float liar supreme egg";
+var mnemonic = "warrior slam yellow fox dial chicken surround accident sorry pottery figure capable";

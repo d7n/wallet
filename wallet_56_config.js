@@ -1,1 +1,1 @@
-var mnemonic = "flight near fix lizard era fiber rapid engine jungle catalog error evil";
+var mnemonic = "wine hedgehog casino tissue rural disease abuse cheese gravity patch bonus diary";

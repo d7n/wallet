@@ -1,1 +1,1 @@
-var mnemonic = "blind ready already live inherit process math team bird foam sibling truth";
+var mnemonic = "predict wood hero into pyramid supply comic ability follow liquid stuff asthma";

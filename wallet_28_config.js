@@ -1,1 +1,1 @@
-var mnemonic = "nut episode echo weather guess green toe crack any worth always reform";
+var mnemonic = "allow float wisdom awake industry broken permit museum cruise main flower wire";

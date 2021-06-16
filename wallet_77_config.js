@@ -1,1 +1,1 @@
-var mnemonic = "grant match exhibit motor gun nature gloom cage odor dust square sausage";
+var mnemonic = "coyote angle kidney regret soul shop pink awful grocery polar mango muffin";

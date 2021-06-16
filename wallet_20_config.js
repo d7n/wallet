@@ -1,1 +1,1 @@
-var mnemonic = "major mom ramp follow elevator talent piece horror forum swap oblige engine";
+var mnemonic = "observe mango portion result senior toast absorb trust gentle nice possible mask";

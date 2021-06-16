@@ -1,1 +1,1 @@
-var mnemonic = "sniff debate brain usual corn snap twice picture plug fan thing angle";
+var mnemonic = "panther suggest ring lock climb seminar heart boring dwarf neither jump diary";

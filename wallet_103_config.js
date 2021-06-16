@@ -1,1 +1,1 @@
-var mnemonic = "act shield pass ice spare pig glove wrestle better cradle moment seminar";
+var mnemonic = "program shaft jump jacket panel waste supply copy attack soldier chat bone";

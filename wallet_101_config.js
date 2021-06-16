@@ -1,1 +1,1 @@
-var mnemonic = "sweet step lottery estate exhaust project cup blouse between wide tonight second";
+var mnemonic = "advance weasel fame excite cliff almost salmon this bomb company off either";

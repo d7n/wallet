@@ -1,1 +1,1 @@
-var mnemonic = "foam canoe mail attack radar cheese question engine drum sleep pyramid sleep";
+var mnemonic = "thunder black ring that under puppy panel ritual bike put minimum cool";

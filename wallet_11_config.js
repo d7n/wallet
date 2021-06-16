@@ -1,1 +1,1 @@
-var mnemonic = "other rebuild city impulse long wonder tired illegal frame gospel team business";
+var mnemonic = "wife light ritual torch business strike theme test trust hybrid ride example";

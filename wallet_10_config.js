@@ -1,1 +1,1 @@
-var mnemonic = "basic toddler arena obey fade fruit real voyage arch better square media";
+var mnemonic = "reunion mansion vast brother solve submit link pioneer joke indoor path wild";

@@ -1,1 +1,1 @@
-var mnemonic = "blur fiber fringe quarter measure clap faculty join quote jeans account pyramid";
+var mnemonic = "flush subject borrow tongue pigeon notable rival arrange brown witness rate soup";

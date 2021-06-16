@@ -1,1 +1,1 @@
-var mnemonic = "later early rather month point cushion employ group wage forget slogan usage";
+var mnemonic = "snake sail camera inner outdoor sugar upgrade cave accuse visual conduct west";

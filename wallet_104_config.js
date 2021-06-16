@@ -1,1 +1,1 @@
-var mnemonic = "normal pencil wrestle usual duck nation life plug abuse road similar glad";
+var mnemonic = "web master bulk sample tail tackle indoor notice slender nice wild feed";

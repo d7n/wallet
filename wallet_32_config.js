@@ -1,1 +1,1 @@
-var mnemonic = "raven street book major forward toilet cover draft proof pepper hold ridge";
+var mnemonic = "gallery abuse crowd plate business drive wink mean away you derive solution";

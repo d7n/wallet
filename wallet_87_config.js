@@ -1,1 +1,1 @@
-var mnemonic = "alone obvious base tag depth tent know ticket island ride rifle vague";
+var mnemonic = "buyer swear round carry success replace section near knife expect glass lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "similar tone buffalo dove cousin gas right giggle accuse similar reduce spatial";
+var mnemonic = "lock carry earth glide aim achieve success wagon please join fine lesson";

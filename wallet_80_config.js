@@ -1,1 +1,1 @@
-var mnemonic = "flee pottery exotic trip aware walk valve ensure buffalo purity crowd rule";
+var mnemonic = "equip used slim mirror erase mosquito dial spy tiger fancy sock summer";

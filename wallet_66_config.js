@@ -1,1 +1,1 @@
-var mnemonic = "elephant flame demise title dizzy history steak obscure cigar olympic dentist very";
+var mnemonic = "engage supreme shoe language skate slight farm tomorrow human spoon juice crush";

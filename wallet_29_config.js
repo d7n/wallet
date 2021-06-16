@@ -1,1 +1,1 @@
-var mnemonic = "involve make palm august domain elegant cry jazz level amused exclude put";
+var mnemonic = "cluster call flight pioneer document raccoon popular youth piano theme humor toe";

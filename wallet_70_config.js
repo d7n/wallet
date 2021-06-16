@@ -1,1 +1,1 @@
-var mnemonic = "hen nominee parade toast census bamboo injury document term song damage help";
+var mnemonic = "only base message bomb liquid razor hen wild host ghost fancy sad";

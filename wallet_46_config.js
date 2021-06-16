@@ -1,1 +1,1 @@
-var mnemonic = "convince dose inmate delay mirror spring huge sound foil echo beyond fine";
+var mnemonic = "various tide marriage exhaust alert pond bar brown wolf antique shift planet";

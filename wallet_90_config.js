@@ -1,1 +1,1 @@
-var mnemonic = "tank power cement dolphin coast maple cheese recall symbol imitate glue emerge";
+var mnemonic = "stumble twelve tiny biology puzzle today tuition mammal decade electric cotton visit";

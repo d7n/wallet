@@ -1,1 +1,1 @@
-var mnemonic = "improve off machine royal fan planet leave sadness identify assault regular embrace";
+var mnemonic = "rate forward price job absorb giant hold post cousin color turtle festival";

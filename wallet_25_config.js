@@ -1,1 +1,1 @@
-var mnemonic = "produce moral high pilot hazard twice crew practice exchange lounge reveal crumble";
+var mnemonic = "rose keep hill control word december still depart egg strike funny crush";

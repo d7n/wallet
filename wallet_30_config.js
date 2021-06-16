@@ -1,1 +1,1 @@
-var mnemonic = "comic ribbon prefer aunt squeeze crash tourist south island reward fetch spring";
+var mnemonic = "valid layer idle laundry gadget crop craft mercy filter top excess airport";

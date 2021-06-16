@@ -1,1 +1,1 @@
-var mnemonic = "aspect control hole funny water praise castle pretty choice spider electric material";
+var mnemonic = "render verify mass save dinosaur dawn clump tissue protect dismiss bone fault";

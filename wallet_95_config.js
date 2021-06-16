@@ -1,1 +1,1 @@
-var mnemonic = "atom mosquito used spare quarter fresh two dumb symbol cross cheap pipe";
+var mnemonic = "fix fossil sugar uphold leopard inhale okay safe miss brave frequent juice";

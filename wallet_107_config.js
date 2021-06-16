@@ -1,1 +1,1 @@
-var mnemonic = "forest laundry talent achieve potato innocent ecology monster hat genius tip draft";
+var mnemonic = "flock universe believe guitar build recipe drift drill tool carpet chronic advice";

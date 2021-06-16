@@ -1,1 +1,1 @@
-var mnemonic = "brain rent slogan toddler grow want pioneer ramp verb parrot food penalty";
+var mnemonic = "gaze song pitch coral manual skull first clump convince argue rely panda";

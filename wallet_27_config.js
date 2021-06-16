@@ -1,1 +1,1 @@
-var mnemonic = "rule warfare square pave steel safe island fault clay undo float trade";
+var mnemonic = "call silent region dismiss erase holiday switch amateur atom soul earth clever";

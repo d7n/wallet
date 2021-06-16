@@ -1,1 +1,1 @@
-var mnemonic = "possible eager mechanic stove useful aware kidney jump meat bar thank balance";
+var mnemonic = "enable exist topple orchard twin picture wisdom business dial employ pudding stamp";

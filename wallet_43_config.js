@@ -1,1 +1,1 @@
-var mnemonic = "wire unhappy web bottom adapt twice figure virus volcano above vicious master";
+var mnemonic = "report clever tomato brand exhaust door whisper spider reject tenant pistol gift";

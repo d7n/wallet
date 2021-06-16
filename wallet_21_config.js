@@ -1,1 +1,1 @@
-var mnemonic = "apology face office parrot run energy column quantum grunt smoke muffin sing";
+var mnemonic = "rude coil board cabin absent return great album luxury heart surround recall";

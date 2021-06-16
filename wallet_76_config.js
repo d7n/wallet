@@ -1,1 +1,1 @@
-var mnemonic = "pill diesel similar kid flat wise priority lucky aunt vacant leopard box";
+var mnemonic = "danger all flock come poem height tip school burden quality horror leaf";

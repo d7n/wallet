@@ -1,1 +1,1 @@
-var mnemonic = "spot float front random diary weather repair joy rose consider number barely";
+var mnemonic = "essence shell wheel mail side alter siege narrow proof lounge cage snow";

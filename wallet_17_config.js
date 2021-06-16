@@ -1,1 +1,1 @@
-var mnemonic = "motion satisfy multiply act monitor toss permit tennis window dice ahead scene";
+var mnemonic = "tag mass alcohol truck water carpet reward tiger whip solid tomato chef";

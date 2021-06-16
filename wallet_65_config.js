@@ -1,1 +1,1 @@
-var mnemonic = "cliff hover adult come banner turtle habit away marble prevent list gas";
+var mnemonic = "ocean champion lens humor once rebuild scout pulse canyon moon hope cycle";

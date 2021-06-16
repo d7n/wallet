@@ -1,1 +1,1 @@
-var mnemonic = "omit win hold crazy apart cable thrive detail lottery glide must damp";
+var mnemonic = "auction opinion one upper orphan stove benefit envelope frequent blade hire raven";

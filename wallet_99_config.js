@@ -1,1 +1,1 @@
-var mnemonic = "jar scale raccoon antique leader swallow average trial flat body secret sister";
+var mnemonic = "advice caught swamp crush taste enlist aunt broom world plastic autumn grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "admit ramp decade term edge grid moral crisp boy idle labor warrior";
+var mnemonic = "fire harbor cute tomato enable brave rifle tray bargain avoid into govern";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry run north begin village harbor dish gap direct culture whip banana";
+var mnemonic = "kingdom submit output survey audit taste midnight radio potato small broom hen";

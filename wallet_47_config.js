@@ -1,1 +1,1 @@
-var mnemonic = "curtain play expose size inner blade popular smooth bracket uniform stuff soap";
+var mnemonic = "viable occur because exist traffic scale prevent potato wrong response three fine";

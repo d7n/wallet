@@ -1,1 +1,1 @@
-var mnemonic = "early when syrup cruise flip doll property affair produce pride senior wagon";
+var mnemonic = "pluck stay figure ball scorpion never blush measure glance velvet come boss";

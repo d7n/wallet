@@ -1,1 +1,1 @@
-var mnemonic = "caution sight theory people into hair actual hint way drop share aerobic";
+var mnemonic = "image math sausage matrix awful hair muffin swing purse crazy hint tenant";

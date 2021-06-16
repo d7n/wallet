@@ -1,1 +1,1 @@
-var mnemonic = "resist aspect intact sea member matter ecology aunt bunker history normal together";
+var mnemonic = "spare jump baby axis sorry stable awesome setup remain human sound lava";

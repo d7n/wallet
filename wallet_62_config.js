@@ -1,1 +1,1 @@
-var mnemonic = "address mail local tide dumb seed eight equip swim carbon couch script";
+var mnemonic = "forum crouch leopard clog index actor buyer grit snack slow alter open";

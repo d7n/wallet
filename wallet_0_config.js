@@ -1,1 +1,1 @@
-var mnemonic = "smooth tip toe pipe laundry sign ask token still hollow sheriff push";
+var mnemonic = "crucial nothing peasant rebel crawl arrive transfer oblige dragon blur thumb drama";

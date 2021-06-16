@@ -1,1 +1,1 @@
-var mnemonic = "actual cream vague hundred reduce true vapor settle clown senior grunt fee";
+var mnemonic = "venture right accident afford mobile film predict bind owner brave dose blur";

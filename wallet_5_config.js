@@ -1,1 +1,1 @@
-var mnemonic = "vacant mom alert immune film fortune trap much phone convince gun tower";
+var mnemonic = "book royal shrug mail sign cactus report clarify trend daring educate ill";

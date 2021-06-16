@@ -1,1 +1,1 @@
-var mnemonic = "divorce soul section wonder reduce crunch talk clarify castle afford pulp genre";
+var mnemonic = "choice fury chicken middle cube fortune deny worth wolf wise sustain van";

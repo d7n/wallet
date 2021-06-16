@@ -1,1 +1,1 @@
-var mnemonic = "scare doll tennis above pigeon crystal amateur asset latin language fun earth";
+var mnemonic = "buffalo melody misery afraid quote sea human pig gym rotate crop shoe";

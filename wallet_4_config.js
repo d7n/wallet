@@ -1,1 +1,1 @@
-var mnemonic = "mistake labor diamond clap paddle term bitter fancy comic reveal kangaroo mule";
+var mnemonic = "tent camera law job credit canal dizzy tribe solid bounce safe torch";

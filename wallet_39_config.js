@@ -1,1 +1,1 @@
-var mnemonic = "tribe dignity boost suit render left attend scatter party bacon teach gasp";
+var mnemonic = "resist rabbit payment wrap neglect foster door extra escape remember mirror oval";

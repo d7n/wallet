@@ -1,1 +1,1 @@
-var mnemonic = "prize duty cable lonely hockey fuel shrimp rather federal jewel cabin erupt";
+var mnemonic = "boost junk half affair model garden wall apple meadow bird hazard sing";

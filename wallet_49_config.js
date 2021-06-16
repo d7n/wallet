@@ -1,1 +1,1 @@
-var mnemonic = "black coil family merit carpet frost village hub desert soft jewel during";
+var mnemonic = "forward ranch slide draft bitter initial brave captain female rookie race palace";

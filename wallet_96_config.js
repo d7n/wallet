@@ -1,1 +1,1 @@
-var mnemonic = "wheel viable market sense ill burger market common together depth miracle maximum";
+var mnemonic = "camera invite betray action brother mammal reduce shuffle coffee print now force";

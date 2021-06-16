@@ -1,1 +1,1 @@
-var mnemonic = "poverty river fine soft once try glad mushroom rose skull wonder soft";
+var mnemonic = "steel bronze jelly fury flash parrot harbor normal portion account slab interest";

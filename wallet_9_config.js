@@ -1,1 +1,1 @@
-var mnemonic = "what man notice rural drum cancel early vocal wheat road cook hour";
+var mnemonic = "divert winner wild clap resemble hundred burst lounge medal bullet fly couch";

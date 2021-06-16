@@ -1,1 +1,1 @@
-var mnemonic = "giraffe stadium forum admit vote hover inflict tobacco throw slogan glare wash";
+var mnemonic = "genuine occur prevent error accuse toilet remove attend piano door upon denial";

@@ -1,1 +1,1 @@
-var mnemonic = "member village inside define donate snake chalk face cigar young spray attend";
+var mnemonic = "ignore discover eye strong vague group quick gather glue limb fantasy zoo";

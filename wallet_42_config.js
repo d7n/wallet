@@ -1,1 +1,1 @@
-var mnemonic = "exhaust deal notice state list answer torch fatigue style list margin lion";
+var mnemonic = "say hope donor crater coach harsh close situate load lift dance paper";

@@ -1,1 +1,1 @@
-var mnemonic = "husband spread portion face tilt run click cage crisp cabin sand age";
+var mnemonic = "custom such win regret increase drip exile magic mutual welcome west critic";

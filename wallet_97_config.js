@@ -1,1 +1,1 @@
-var mnemonic = "sustain canyon school bomb install gentle add slush hat cost you tiger";
+var mnemonic = "purchase walnut version vapor angle very absent rapid across clay palm fortune";

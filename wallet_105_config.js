@@ -1,1 +1,1 @@
-var mnemonic = "unfair give broccoli critic panel saddle weird donkey arctic lobster ladder drama";
+var mnemonic = "journey distance purpose slight oval glove ring zebra shoe tooth victory crunch";

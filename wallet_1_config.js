@@ -1,1 +1,1 @@
-var mnemonic = "must cheap moment select multiply icon man answer coast student combine man";
+var mnemonic = "tone dad dial appear antenna purchase legend weird tooth wonder drip tide";

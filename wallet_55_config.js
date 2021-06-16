@@ -1,1 +1,1 @@
-var mnemonic = "photo bulk rookie ball supreme tissue fetch curve language food always soldier";
+var mnemonic = "empty arrive enough tiny nose blur divide rare squeeze relief raccoon urge";

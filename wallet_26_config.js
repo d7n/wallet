@@ -1,1 +1,1 @@
-var mnemonic = "tenant super prize tooth maid drink depend oval object spin index antenna";
+var mnemonic = "river liquid tail lottery smile hundred deliver chat idea return debris ocean";

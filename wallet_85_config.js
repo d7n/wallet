@@ -1,1 +1,1 @@
-var mnemonic = "ripple decorate uphold sauce topple cliff put cook gas upon foster spoil";
+var mnemonic = "edge whisper flower lake rigid amateur food borrow dance barrel broom student";

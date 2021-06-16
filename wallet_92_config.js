@@ -1,1 +1,1 @@
-var mnemonic = "impulse olympic inform drip sunset also cruise panther hub jazz dinner swim";
+var mnemonic = "anchor trumpet field various palm element donate alert news risk boring energy";

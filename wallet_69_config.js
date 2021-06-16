@@ -1,1 +1,1 @@
-var mnemonic = "obey trick fitness spirit curious yard hunt yard awesome coast fee seat";
+var mnemonic = "memory faith demise original slam fork attack ecology laptop dance mom trim";
