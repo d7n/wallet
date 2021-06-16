@@ -1,1 +1,1 @@
-var mnemonic = "usage culture drink blame fork march creek venue boy van wool horror";
+var mnemonic = "cake vacant subject cluster quit short inform pencil again cup column say";

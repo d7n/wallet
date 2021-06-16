@@ -1,1 +1,1 @@
-var mnemonic = "vocal chalk spawn carry peasant warfare over fade cattle where piano twice";
+var mnemonic = "flee pottery exotic trip aware walk valve ensure buffalo purity crowd rule";

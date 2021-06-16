@@ -1,1 +1,1 @@
-var mnemonic = "winter turtle legend address sorry town list black master unaware protect repair";
+var mnemonic = "ribbon gravity hint august remain season bird please drill gold party chronic";

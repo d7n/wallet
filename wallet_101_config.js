@@ -1,1 +1,1 @@
-var mnemonic = "guitar viable member edit oxygen photo hold kit custom mix usual depart";
+var mnemonic = "sweet step lottery estate exhaust project cup blouse between wide tonight second";

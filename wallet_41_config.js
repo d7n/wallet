@@ -1,1 +1,1 @@
-var mnemonic = "camp tackle potato cool acoustic tribe super balance embody frozen cream retreat";
+var mnemonic = "scare doll tennis above pigeon crystal amateur asset latin language fun earth";

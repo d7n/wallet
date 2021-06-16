@@ -1,1 +1,1 @@
-var mnemonic = "grid pelican mosquito garbage figure speed foot borrow target climb crew ritual";
+var mnemonic = "bread asthma panther clay sample shy jewel spring second harsh update brief";

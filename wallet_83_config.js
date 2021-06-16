@@ -1,1 +1,1 @@
-var mnemonic = "submit local escape people sleep thumb dentist celery gadget debris keep inner";
+var mnemonic = "improve off machine royal fan planet leave sadness identify assault regular embrace";

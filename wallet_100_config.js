@@ -1,1 +1,1 @@
-var mnemonic = "catch ethics tool acquire crime trend cycle river index couple edit damage";
+var mnemonic = "blind ready already live inherit process math team bird foam sibling truth";

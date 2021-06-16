@@ -1,1 +1,1 @@
-var mnemonic = "biology that believe exact satoshi error ugly balance hotel youth jump acid";
+var mnemonic = "system danger repeat hedgehog broom vintage fantasy fancy immense soul laugh wife";

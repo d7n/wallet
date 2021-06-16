@@ -1,1 +1,1 @@
-var mnemonic = "glide artist mechanic sock donate area tree guitar what danger siren hour";
+var mnemonic = "raw slot print better lizard trip brush poet mushroom feature still gap";

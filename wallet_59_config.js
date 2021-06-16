@@ -1,1 +1,1 @@
-var mnemonic = "travel cover harvest typical cross wage useless settle gossip spirit idea federal";
+var mnemonic = "mimic text text trophy tuition stumble glide anxiety soup same list tonight";

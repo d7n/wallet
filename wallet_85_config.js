@@ -1,1 +1,1 @@
-var mnemonic = "copper hockey spray limb peace proof truck expire raw car help ability";
+var mnemonic = "ripple decorate uphold sauce topple cliff put cook gas upon foster spoil";

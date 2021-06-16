@@ -1,1 +1,1 @@
-var mnemonic = "wolf evidence divorce carpet artefact focus best mobile tonight move cute voice";
+var mnemonic = "address mail local tide dumb seed eight equip swim carbon couch script";

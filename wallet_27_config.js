@@ -1,1 +1,1 @@
-var mnemonic = "length diesel canvas enlist task property tree upon choose safe winter shoot";
+var mnemonic = "rule warfare square pave steel safe island fault clay undo float trade";

@@ -1,1 +1,1 @@
-var mnemonic = "inform real harsh vague nest glide drop police toss seven inquiry tip";
+var mnemonic = "mammal trim dizzy gentle profit collect airport radar gain west odor erode";

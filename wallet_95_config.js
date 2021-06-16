@@ -1,1 +1,1 @@
-var mnemonic = "filter top grit twice melt weird piece slush render someone strong unknown";
+var mnemonic = "atom mosquito used spare quarter fresh two dumb symbol cross cheap pipe";

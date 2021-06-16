@@ -1,1 +1,1 @@
-var mnemonic = "verb please trap diamond install gather orange cram frown boss final hover";
+var mnemonic = "flight near fix lizard era fiber rapid engine jungle catalog error evil";

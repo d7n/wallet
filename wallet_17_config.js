@@ -1,1 +1,1 @@
-var mnemonic = "extend mixed grit baby file margin imitate deal valid donkey autumn balcony";
+var mnemonic = "motion satisfy multiply act monitor toss permit tennis window dice ahead scene";

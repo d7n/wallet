@@ -1,1 +1,1 @@
-var mnemonic = "toy uphold alarm scan shrimp remind breeze struggle rifle diary turn vicious";
+var mnemonic = "service avoid rib senior loud adjust find edit admit logic treat mesh";

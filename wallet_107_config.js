@@ -1,1 +1,1 @@
-var mnemonic = "surprise online mercy danger neck prepare soda like basic faint point library";
+var mnemonic = "forest laundry talent achieve potato innocent ecology monster hat genius tip draft";

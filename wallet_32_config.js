@@ -1,1 +1,1 @@
-var mnemonic = "frown race ostrich lock rifle estate neck army resemble screen chimney trouble";
+var mnemonic = "raven street book major forward toilet cover draft proof pepper hold ridge";

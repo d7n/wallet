@@ -1,1 +1,1 @@
-var mnemonic = "wave lesson fish dirt quote evil angry sausage south ketchup genuine trouble";
+var mnemonic = "tank power cement dolphin coast maple cheese recall symbol imitate glue emerge";

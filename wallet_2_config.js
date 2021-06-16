@@ -1,1 +1,1 @@
-var mnemonic = "brain ceiling split guard enroll panic orange state soul metal wheat east";
+var mnemonic = "similar tone buffalo dove cousin gas right giggle accuse similar reduce spatial";

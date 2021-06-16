@@ -1,1 +1,1 @@
-var mnemonic = "clog glide cancel journey effort guide boss answer left culture screen axis";
+var mnemonic = "bullet intact crucial awkward glass remember east source wedding elegant book wolf";

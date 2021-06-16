@@ -1,1 +1,1 @@
-var mnemonic = "chase tourist marriage observe public token spy such volcano unveil scheme half";
+var mnemonic = "giraffe stadium forum admit vote hover inflict tobacco throw slogan glare wash";

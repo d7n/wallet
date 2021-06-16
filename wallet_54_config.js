@@ -1,1 +1,1 @@
-var mnemonic = "claw risk soup pioneer that snake horn rabbit fault decline silk concert";
+var mnemonic = "rice audit piece oval rely potato mass find danger fuel blouse couch";

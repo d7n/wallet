@@ -1,1 +1,1 @@
-var mnemonic = "mother expire horn trigger night apart grunt bullet crumble almost broccoli glide";
+var mnemonic = "axis mechanic final stomach motor wing long blush brief panda attack imitate";

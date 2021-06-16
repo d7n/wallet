@@ -1,1 +1,1 @@
-var mnemonic = "hole tone result genuine useless shield stone remind draw link vapor consider";
+var mnemonic = "stand holiday vacuum alarm unit spider imitate seat morning alert census today";

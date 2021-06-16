@@ -1,1 +1,1 @@
-var mnemonic = "convince hamster misery degree state age dream exact file orbit occur fresh";
+var mnemonic = "exhaust deal notice state list answer torch fatigue style list margin lion";

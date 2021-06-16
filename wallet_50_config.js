@@ -1,1 +1,1 @@
-var mnemonic = "document pause canal best coral advance inherit powder trouble profit advice hungry";
+var mnemonic = "ecology ethics valid whip perfect brick maid glove grief tomorrow captain paddle";

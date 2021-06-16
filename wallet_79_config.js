@@ -1,1 +1,1 @@
-var mnemonic = "able bunker bubble avocado detect collect carry convince tiny demise error tail";
+var mnemonic = "prize duty cable lonely hockey fuel shrimp rather federal jewel cabin erupt";

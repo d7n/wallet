@@ -1,1 +1,1 @@
-var mnemonic = "maze valid fox puzzle service october arctic merit margin chimney torch earn";
+var mnemonic = "possible eager mechanic stove useful aware kidney jump meat bar thank balance";

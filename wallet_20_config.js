@@ -1,1 +1,1 @@
-var mnemonic = "virus secret already aunt anger pluck glide payment blade trim miss panic";
+var mnemonic = "major mom ramp follow elevator talent piece horror forum swap oblige engine";

@@ -1,1 +1,1 @@
-var mnemonic = "range radio talk actual renew zero drastic elder coconut item olive short";
+var mnemonic = "tenant super prize tooth maid drink depend oval object spin index antenna";

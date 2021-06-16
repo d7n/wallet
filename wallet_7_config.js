@@ -1,1 +1,1 @@
-var mnemonic = "tackle vapor lecture vessel robot spot echo rent antique move property panel";
+var mnemonic = "broccoli fantasy powder pottery shallow twice narrow fatigue lock wing unit dawn";

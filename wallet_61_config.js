@@ -1,1 +1,1 @@
-var mnemonic = "ignore process census evil pipe lumber burst cover parrot already flavor toy";
+var mnemonic = "rubber kitten cause picture excite spray chaos choose blossom sustain fog switch";

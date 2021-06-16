@@ -1,1 +1,1 @@
-var mnemonic = "indoor expand stove man wife case actual ramp edge dress eight boil";
+var mnemonic = "alone obvious base tag depth tent know ticket island ride rifle vague";

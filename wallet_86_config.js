@@ -1,1 +1,1 @@
-var mnemonic = "paddle embody maximum voice member talent mosquito banner exhibit spring omit loyal";
+var mnemonic = "just fitness liquid robot remind buffalo odor clerk switch remain valve best";

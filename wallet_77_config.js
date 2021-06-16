@@ -1,1 +1,1 @@
-var mnemonic = "angle pig wise bronze stool burger online whisper worth trade gym danger";
+var mnemonic = "grant match exhibit motor gun nature gloom cage odor dust square sausage";

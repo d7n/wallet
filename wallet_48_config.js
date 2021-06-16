@@ -1,1 +1,1 @@
-var mnemonic = "wink option minute kick shoulder solve carpet search beef shed clown belt";
+var mnemonic = "resist aspect intact sea member matter ecology aunt bunker history normal together";

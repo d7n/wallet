@@ -1,1 +1,1 @@
-var mnemonic = "virtual push foot solution december panic faculty intact what shallow casual puppy";
+var mnemonic = "caution sight theory people into hair actual hint way drop share aerobic";

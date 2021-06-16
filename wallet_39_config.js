@@ -1,1 +1,1 @@
-var mnemonic = "garden blade awesome enhance bag wash fabric number palace now position fold";
+var mnemonic = "tribe dignity boost suit render left attend scatter party bacon teach gasp";

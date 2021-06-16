@@ -1,1 +1,1 @@
-var mnemonic = "train extra brass baby canvas doll around own critic upon shield dog";
+var mnemonic = "canyon ocean fun plunge account fresh upper any burden tackle milk poverty";

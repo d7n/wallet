@@ -1,1 +1,1 @@
-var mnemonic = "veteran motor organ play praise despair shoot era night scatter mix tool";
+var mnemonic = "garden target remind general tell grain fee snap angry only wish beauty";

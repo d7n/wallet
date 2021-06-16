@@ -1,1 +1,1 @@
-var mnemonic = "shrug remove pony shrimp upon weapon hole twin monitor elbow tube slot";
+var mnemonic = "elephant flame demise title dizzy history steak obscure cigar olympic dentist very";

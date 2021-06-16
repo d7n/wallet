@@ -1,1 +1,1 @@
-var mnemonic = "purity dentist library antique scan february lecture equip fun fade evoke build";
+var mnemonic = "reveal ozone hold wise correct item inject monster hold omit tower accident";

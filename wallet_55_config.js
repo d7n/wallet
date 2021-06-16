@@ -1,1 +1,1 @@
-var mnemonic = "tobacco upset enable banner enact book speed picture memory output rapid old";
+var mnemonic = "photo bulk rookie ball supreme tissue fetch curve language food always soldier";

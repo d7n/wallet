@@ -1,1 +1,1 @@
-var mnemonic = "guide shell genuine viable receive item blossom intact sister velvet opera clown";
+var mnemonic = "poverty river fine soft once try glad mushroom rose skull wonder soft";

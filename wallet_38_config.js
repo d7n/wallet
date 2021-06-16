@@ -1,1 +1,1 @@
-var mnemonic = "ghost still wreck draft violin few grit ghost enact shock exotic case";
+var mnemonic = "mimic beyond priority cactus entire smart index spoil diagram height consider sad";

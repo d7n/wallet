@@ -1,1 +1,1 @@
-var mnemonic = "senior diamond reveal among quantum ready young dutch ranch recall cricket genius";
+var mnemonic = "bar melt mother casino fit code pottery park upset badge fantasy lift";

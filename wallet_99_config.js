@@ -1,1 +1,1 @@
-var mnemonic = "bundle wool shallow example lens hub debate race quote entry flavor lion";
+var mnemonic = "jar scale raccoon antique leader swallow average trial flat body secret sister";

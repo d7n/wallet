@@ -1,1 +1,1 @@
-var mnemonic = "vendor local whisper eager deposit stick moon hollow wealth parrot turn tone";
+var mnemonic = "normal pencil wrestle usual duck nation life plug abuse road similar glad";

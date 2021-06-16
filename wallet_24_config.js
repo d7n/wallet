@@ -1,1 +1,1 @@
-var mnemonic = "absurd matter list issue name size walk toss risk weasel soon monitor";
+var mnemonic = "panic sponsor child garlic input memory exact one calm drastic bubble woman";

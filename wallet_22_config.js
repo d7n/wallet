@@ -1,1 +1,1 @@
-var mnemonic = "edit deny exercise other swap need simple canoe oxygen thank trigger spend";
+var mnemonic = "wash update soup sport wise relief nation permit flat dish grid tilt";

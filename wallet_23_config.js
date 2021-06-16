@@ -1,1 +1,1 @@
-var mnemonic = "blast journey hold water toward seven canyon analyst pear galaxy tenant hotel";
+var mnemonic = "cat enough flock enemy say plate volcano flight develop health success dune";

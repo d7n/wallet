@@ -1,1 +1,1 @@
-var mnemonic = "way carpet hybrid host video plastic gaze pattern rifle long portion wealth";
+var mnemonic = "okay wrist punch bonus crunch easy enemy fuel trigger crop budget ensure";

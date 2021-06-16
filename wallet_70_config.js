@@ -1,1 +1,1 @@
-var mnemonic = "symbol general space retreat lottery help glory olympic doll divert mutual sword";
+var mnemonic = "hen nominee parade toast census bamboo injury document term song damage help";

@@ -1,1 +1,1 @@
-var mnemonic = "frost cable win digital note task funny field hurry wish mixture cross";
+var mnemonic = "omit win hold crazy apart cable thrive detail lottery glide must damp";

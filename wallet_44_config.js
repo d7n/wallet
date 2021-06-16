@@ -1,1 +1,1 @@
-var mnemonic = "brisk broom property twist human age attack prison shoe rare frost between";
+var mnemonic = "sniff debate brain usual corn snap twice picture plug fan thing angle";

@@ -1,1 +1,1 @@
-var mnemonic = "genius purity alone cherry social stove air inherit kid veteran monkey hidden";
+var mnemonic = "anger reveal peanut song notable seven mention canvas able fruit later knock";

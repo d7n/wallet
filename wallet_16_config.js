@@ -1,1 +1,1 @@
-var mnemonic = "upon can educate hood alter laptop design tiny foot park tomorrow spare";
+var mnemonic = "blur fiber fringe quarter measure clap faculty join quote jeans account pyramid";

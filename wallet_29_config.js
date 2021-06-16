@@ -1,1 +1,1 @@
-var mnemonic = "dirt gym crystal rose coral pulp rough narrow pelican idle youth vivid";
+var mnemonic = "involve make palm august domain elegant cry jazz level amused exclude put";

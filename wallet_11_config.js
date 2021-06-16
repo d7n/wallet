@@ -1,1 +1,1 @@
-var mnemonic = "busy cushion silly guide want acid split shrug mystery okay vacant amused";
+var mnemonic = "other rebuild city impulse long wonder tired illegal frame gospel team business";

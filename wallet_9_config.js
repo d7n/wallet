@@ -1,1 +1,1 @@
-var mnemonic = "occur never heart water uphold region garlic girl assist offer axis link";
+var mnemonic = "what man notice rural drum cancel early vocal wheat road cook hour";

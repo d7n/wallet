@@ -1,1 +1,1 @@
-var mnemonic = "this corn parrot hamster gym fish deputy mean purchase glass gorilla turtle";
+var mnemonic = "apology face office parrot run energy column quantum grunt smoke muffin sing";

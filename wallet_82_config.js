@@ -1,1 +1,1 @@
-var mnemonic = "auction ghost mad scare outside call camera duty light tumble swing sail";
+var mnemonic = "spot float front random diary weather repair joy rose consider number barely";

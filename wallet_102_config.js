@@ -1,1 +1,1 @@
-var mnemonic = "black moon glory crouch innocent harbor stage brave lend across outer basic";
+var mnemonic = "math unfair mountain twelve adapt primary destroy dial survey olive velvet galaxy";

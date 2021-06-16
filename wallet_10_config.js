@@ -1,1 +1,1 @@
-var mnemonic = "order hotel west box certain lesson vintage student fix pulp fish toast";
+var mnemonic = "basic toddler arena obey fade fruit real voyage arch better square media";

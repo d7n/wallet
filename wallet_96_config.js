@@ -1,1 +1,1 @@
-var mnemonic = "chuckle siege arrow popular audit oven anger simple action paddle middle lady";
+var mnemonic = "wheel viable market sense ill burger market common together depth miracle maximum";

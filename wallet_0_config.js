@@ -1,1 +1,1 @@
-var mnemonic = "boy brave chunk wire vast lunar switch right chair job behave wine";
+var mnemonic = "smooth tip toe pipe laundry sign ask token still hollow sheriff push";

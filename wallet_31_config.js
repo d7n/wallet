@@ -1,1 +1,1 @@
-var mnemonic = "venue jealous battle misery scissors correct strong sweet divorce forget one shoot";
+var mnemonic = "gentle bone luxury girl laundry prize saddle zebra proof claim change scare";

@@ -1,1 +1,1 @@
-var mnemonic = "bag bracket primary assume pottery route enforce lock vintage crime uphold sibling";
+var mnemonic = "husband spread portion face tilt run click cage crisp cabin sand age";

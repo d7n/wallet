@@ -1,1 +1,1 @@
-var mnemonic = "hen foot skirt wise scout claim try scrap danger brick wild legend";
+var mnemonic = "produce moral high pilot hazard twice crew practice exchange lounge reveal crumble";

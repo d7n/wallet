@@ -1,1 +1,1 @@
-var mnemonic = "law early master measure turn crack small melt melody pitch volcano dream";
+var mnemonic = "aspect control hole funny water praise castle pretty choice spider electric material";

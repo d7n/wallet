@@ -1,1 +1,1 @@
-var mnemonic = "lab ice bulb hundred depend sustain coil guide onion galaxy school invest";
+var mnemonic = "convince dose inmate delay mirror spring huge sound foil echo beyond fine";

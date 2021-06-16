@@ -1,1 +1,1 @@
-var mnemonic = "major pond rule language toddler cause race small chunk turtle great recipe";
+var mnemonic = "divorce soul section wonder reduce crunch talk clarify castle afford pulp genre";

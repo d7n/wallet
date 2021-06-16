@@ -1,1 +1,1 @@
-var mnemonic = "jar pumpkin scorpion chest then click smart gather few crack feature equip";
+var mnemonic = "later early rather month point cushion employ group wage forget slogan usage";

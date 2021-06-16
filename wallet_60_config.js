@@ -1,1 +1,1 @@
-var mnemonic = "library believe rabbit release thought assume lesson wing silent vital huge indicate";
+var mnemonic = "foam canoe mail attack radar cheese question engine drum sleep pyramid sleep";

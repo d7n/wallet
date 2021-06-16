@@ -1,1 +1,1 @@
-var mnemonic = "donor quantum wrong million model powder liquid angle chicken grass middle label";
+var mnemonic = "must cheap moment select multiply icon man answer coast student combine man";

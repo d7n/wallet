@@ -1,1 +1,1 @@
-var mnemonic = "banana destroy corn pill saddle crazy spatial lottery toast seek still humor";
+var mnemonic = "imitate powder scrub glare budget dress device version skill yellow coral example";

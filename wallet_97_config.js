@@ -1,1 +1,1 @@
-var mnemonic = "crisp gas act spoil slogan result banner light dizzy buzz change quote";
+var mnemonic = "sustain canyon school bomb install gentle add slush hat cost you tiger";

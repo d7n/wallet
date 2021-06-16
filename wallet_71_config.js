@@ -1,1 +1,1 @@
-var mnemonic = "cotton kind weapon couple vivid liberty goose message dawn ship riot image";
+var mnemonic = "collect mercy artefact problem mass put load find mean zone tribe normal";

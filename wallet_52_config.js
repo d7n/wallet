@@ -1,1 +1,1 @@
-var mnemonic = "naive lobster affair win best risk inch come finish peasant pupil pipe";
+var mnemonic = "material legal point castle symbol tomorrow arch dolphin leopard ship right spot";

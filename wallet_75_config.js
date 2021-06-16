@@ -1,1 +1,1 @@
-var mnemonic = "opinion half also dwarf sphere record blue pony diamond jacket fun bicycle";
+var mnemonic = "fresh creek diesel frozen town property between mirror success reunion until host";

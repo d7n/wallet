@@ -1,1 +1,1 @@
-var mnemonic = "rich debate ridge cycle whisper column liberty ignore record shadow silly lesson";
+var mnemonic = "actual cream vague hundred reduce true vapor settle clown senior grunt fee";

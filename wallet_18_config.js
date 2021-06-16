@@ -1,1 +1,1 @@
-var mnemonic = "century boil used faculty much mountain brief metal skill wage rose fork";
+var mnemonic = "gauge lecture enlist rookie spring stuff victory upgrade unveil mind injury develop";

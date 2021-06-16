@@ -1,1 +1,1 @@
-var mnemonic = "face tent wage left duck nurse loop leg board used piece trim";
+var mnemonic = "chief potato drink match asset raccoon warm air bus flight heart code";

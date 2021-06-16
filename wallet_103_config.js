@@ -1,1 +1,1 @@
-var mnemonic = "clerk duck release one scheme submit damp jewel remove vendor leopard orient";
+var mnemonic = "act shield pass ice spare pig glove wrestle better cradle moment seminar";

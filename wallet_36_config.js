@@ -1,1 +1,1 @@
-var mnemonic = "toward bracket surge allow oppose parent obvious west forward glue myself spawn";
+var mnemonic = "art evoke degree pistol valve audit symptom tortoise float liar supreme egg";
