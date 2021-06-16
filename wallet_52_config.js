@@ -1,1 +1,1 @@
-var mnemonic = "method tired fury special device amazing friend forget erupt crawl useful champion";
+var mnemonic = "napkin mountain ripple require front fish decrease violin gospel mercy dinner recipe";

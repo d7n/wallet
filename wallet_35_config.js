@@ -1,1 +1,1 @@
-var mnemonic = "funny leave army climb scale cherry mechanic ankle monster unknown kick vessel";
+var mnemonic = "panda link salmon ripple apple visit repeat street remind lucky nerve tribe";

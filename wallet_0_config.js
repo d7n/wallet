@@ -1,1 +1,1 @@
-var mnemonic = "mosquito fuel just sustain sibling tail apart section movie shield usage siren";
+var mnemonic = "remain you basic stairs slow exile brave quarter barely coin wait detect";

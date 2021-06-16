@@ -1,1 +1,1 @@
-var mnemonic = "leave enrich rail enlist meat chase motion weasel cattle loyal marble creek";
+var mnemonic = "theme power young expose manual just brush plastic crystal piano panda wall";

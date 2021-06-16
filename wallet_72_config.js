@@ -1,1 +1,1 @@
-var mnemonic = "early maximum traffic symbol cheese labor jeans soldier fiber unique confirm water";
+var mnemonic = "educate goat often push laugh tray survey render endless lend truly flame";

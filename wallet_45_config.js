@@ -1,1 +1,1 @@
-var mnemonic = "sunny divide volume occur crystal allow glove journey useless about craft fork";
+var mnemonic = "curtain couple veteran gift material amount fun sadness donkey focus cat update";

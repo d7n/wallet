@@ -1,1 +1,1 @@
-var mnemonic = "rely return twin shoulder tree right fringe scorpion crane either sort crack";
+var mnemonic = "spring spoon already clerk viable climb bottom demise flock kingdom replace sample";

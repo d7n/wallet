@@ -1,1 +1,1 @@
-var mnemonic = "celery slam cattle glove flush defense chuckle property wink muffin twin motor";
+var mnemonic = "question swim alien wide surprise blame option envelope north flat panda boring";

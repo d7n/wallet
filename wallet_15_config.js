@@ -1,1 +1,1 @@
-var mnemonic = "easily evidence east surprise grape ahead artwork infant glow cigar sell beyond";
+var mnemonic = "trophy expect liar bottom buzz female pretty exotic winner receive shoulder jungle";

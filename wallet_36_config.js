@@ -1,1 +1,1 @@
-var mnemonic = "coin catch filter civil flower crack shadow flame silver major depth okay";
+var mnemonic = "west awful joke still million flash task humor wine step key desert";

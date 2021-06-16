@@ -1,1 +1,1 @@
-var mnemonic = "sorry mosquito parent faith nation predict public caught penalty material consider modify";
+var mnemonic = "ride fetch toward bicycle exclude analyst until scene fortune certain sweet choice";

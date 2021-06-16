@@ -1,1 +1,1 @@
-var mnemonic = "trust baby digital flip zero royal spoil admit atom inflict slam shock";
+var mnemonic = "unfair pulp sea wasp hungry blanket lend monkey spring merry merry rebel";

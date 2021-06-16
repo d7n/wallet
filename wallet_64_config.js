@@ -1,1 +1,1 @@
-var mnemonic = "bean replace patrol slam unhappy cruel marble author box announce funny swarm";
+var mnemonic = "cradle flush alley eight mesh shell help kite bullet mail tray upper";

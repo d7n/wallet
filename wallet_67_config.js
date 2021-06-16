@@ -1,1 +1,1 @@
-var mnemonic = "charge prison romance draw bulb goat robot route hard absorb olympic illegal";
+var mnemonic = "sand either hospital digital picnic sentence bind recall umbrella remain decrease mom";

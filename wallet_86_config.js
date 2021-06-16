@@ -1,1 +1,1 @@
-var mnemonic = "sand trick genre purpose eagle head cross fall found bitter miracle prevent";
+var mnemonic = "defy foam elevator pause rough person twin purpose since rural shell excuse";

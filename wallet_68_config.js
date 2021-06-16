@@ -1,1 +1,1 @@
-var mnemonic = "allow fancy discover shoulder inflict nation engine fruit heart fitness test rib";
+var mnemonic = "news guilt hobby mosquito abandon castle gentle digital blind flip sustain prefer";

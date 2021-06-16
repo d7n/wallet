@@ -1,1 +1,1 @@
-var mnemonic = "assume tube usage become pet police find orbit sense car expect bulk";
+var mnemonic = "select rug question decline lunch asthma tattoo welcome chuckle sort voyage rate";

@@ -1,1 +1,1 @@
-var mnemonic = "shed dog differ then laptop fork music laugh priority enter tenant lift";
+var mnemonic = "series distance tuition hen math tragic planet alter someone race gap pass";

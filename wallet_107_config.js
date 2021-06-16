@@ -1,1 +1,1 @@
-var mnemonic = "boost assume rough guilt gather orient cancel bitter rally north water crowd";
+var mnemonic = "corn one dinner join evolve work approve divorce daughter water hockey wisdom";

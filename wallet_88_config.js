@@ -1,1 +1,1 @@
-var mnemonic = "gravity bundle drive hurry reject hamster measure razor practice fantasy promote actor";
+var mnemonic = "wave capable fence copy palm fork alpha tumble since odor wonder demise";

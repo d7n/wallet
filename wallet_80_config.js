@@ -1,1 +1,1 @@
-var mnemonic = "angry stumble echo group ice mother warfare educate shuffle auto metal demise";
+var mnemonic = "pattern that result danger viable unfair jeans genre cloth also eyebrow deer";

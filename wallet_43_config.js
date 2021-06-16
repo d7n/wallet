@@ -1,1 +1,1 @@
-var mnemonic = "enforce place control flat flush nephew soon drop ball jelly parade drill";
+var mnemonic = "level grace torch debate size sweet heart debate window horn aisle appear";

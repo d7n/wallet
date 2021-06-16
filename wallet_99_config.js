@@ -1,1 +1,1 @@
-var mnemonic = "enter oak stove erosion color traffic age fun pause require day tackle";
+var mnemonic = "husband nature erase road maze visual rib inch dynamic property mansion pattern";

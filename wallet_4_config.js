@@ -1,1 +1,1 @@
-var mnemonic = "project correct circle blossom fog reflect open virus usage thank airport hand";
+var mnemonic = "main example payment trust famous seek moon settle cheap current task logic";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty minute foster question suit symbol inherit impact rib myself lemon meadow";
+var mnemonic = "cash ice fall merit exhibit resist load night normal tip runway paper";

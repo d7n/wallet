@@ -1,1 +1,1 @@
-var mnemonic = "debate enrich quote bronze know drastic cash safe galaxy survey select section";
+var mnemonic = "index giant project blast wave banana surge insane coconut rebel frost recipe";

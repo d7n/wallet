@@ -1,1 +1,1 @@
-var mnemonic = "siege endless arena chief source evidence victory flat forest enroll cricket have";
+var mnemonic = "library route speed dance alert about tortoise across clown club eight sword";

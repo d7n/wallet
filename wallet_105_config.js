@@ -1,1 +1,1 @@
-var mnemonic = "unfair planet bronze cigar spawn dilemma bar pencil mansion wrestle resource inhale";
+var mnemonic = "point zero fantasy other earn obscure huge type concert fatigue lyrics apart";

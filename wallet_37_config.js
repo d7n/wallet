@@ -1,1 +1,1 @@
-var mnemonic = "matrix uncover glance rapid blossom audit risk bid radio sausage bicycle twice";
+var mnemonic = "walk disagree beef off fun adapt original betray ecology oil dish trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "charge spin tomato tuition choose gloom bomb clip burger snow vital skill";
+var mnemonic = "answer cupboard forward nephew wave spawn legend total void mass filter join";

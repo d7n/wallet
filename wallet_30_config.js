@@ -1,1 +1,1 @@
-var mnemonic = "churn monkey goose endless rather raise cement tuna eager attend retreat exchange";
+var mnemonic = "parent cheap bid scorpion coyote kidney toilet display win simple credit tank";

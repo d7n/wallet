@@ -1,1 +1,1 @@
-var mnemonic = "frost garlic original friend section grief guard refuse whale public also cinnamon";
+var mnemonic = "unhappy draw among fork rural later cash junk rent wise adult gospel";

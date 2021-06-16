@@ -1,1 +1,1 @@
-var mnemonic = "admit people term fresh develop hamster area until budget fitness jewel road";
+var mnemonic = "boring super boring today excess ticket brain arrive purse tornado abstract shoulder";

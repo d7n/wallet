@@ -1,1 +1,1 @@
-var mnemonic = "ecology glad dance now service grid police scale sketch endorse message plastic";
+var mnemonic = "electric card relief early hidden fit giraffe ahead ship drill spirit salon";

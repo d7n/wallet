@@ -1,1 +1,1 @@
-var mnemonic = "typical need item biology radio noble stem south surface hire dignity fly";
+var mnemonic = "soldier useless belt scale blame attend wild valley square budget oil lottery";

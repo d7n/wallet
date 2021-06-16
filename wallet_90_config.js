@@ -1,1 +1,1 @@
-var mnemonic = "wire just print bacon behave danger curve belt embark river fee try";
+var mnemonic = "interest thumb film attract rent federal roof sock door lecture mother ability";

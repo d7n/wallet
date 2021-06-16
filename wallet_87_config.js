@@ -1,1 +1,1 @@
-var mnemonic = "decade chair copy scheme cart wing crash quality brisk true aisle fix";
+var mnemonic = "either play lyrics oxygen shoe phrase narrow sell input slab increase caught";

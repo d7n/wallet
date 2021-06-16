@@ -1,1 +1,1 @@
-var mnemonic = "meat stem sister erupt actress kingdom quote creek win gorilla clinic visual";
+var mnemonic = "helmet early flock session sheriff disagree dumb guitar drip lumber earn saddle";

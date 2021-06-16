@@ -1,1 +1,1 @@
-var mnemonic = "economy morning grocery junk farm belt memory sunny question awful profit salmon";
+var mnemonic = "better field crane immense oven verify atom pilot sick oil galaxy hope";

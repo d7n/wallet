@@ -1,1 +1,1 @@
-var mnemonic = "text plastic dose alpha spy metal nominee razor capital casino wise poverty";
+var mnemonic = "ranch mosquito satoshi access confirm patient horror claw two use rubber mind";

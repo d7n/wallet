@@ -1,1 +1,1 @@
-var mnemonic = "gesture ride token immense series hope wife coil ecology mule make wink";
+var mnemonic = "typical apple winter federal hotel filter acquire danger mango this prevent spider";

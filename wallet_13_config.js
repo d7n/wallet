@@ -1,1 +1,1 @@
-var mnemonic = "spy swim feed debate buzz leave address coffee obvious sail foot spoon";
+var mnemonic = "stuff horn empower snow icon drop over banner among subway casino history";

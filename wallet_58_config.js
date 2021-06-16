@@ -1,1 +1,1 @@
-var mnemonic = "daughter siege swim tag garage describe token blue apology fix trust crouch";
+var mnemonic = "worth slow initial catch husband tilt gadget slender detail miss coral pause";

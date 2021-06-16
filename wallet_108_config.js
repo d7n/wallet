@@ -1,1 +1,1 @@
-var mnemonic = "dynamic cable dress rely glare float day snap oven ritual other vague";
+var mnemonic = "analyst six code whale wreck later pass circle combine trend gadget glue";

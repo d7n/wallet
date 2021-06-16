@@ -1,1 +1,1 @@
-var mnemonic = "erase sadness buddy ostrich path fantasy valid hazard knee adapt ethics run";
+var mnemonic = "poet odor turkey labor around bag toward arrange you hover gospel ill";

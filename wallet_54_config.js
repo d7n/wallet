@@ -1,1 +1,1 @@
-var mnemonic = "dog ostrich foot avoid powder owner column shine rocket network enhance garden";
+var mnemonic = "junk water cradle funny fine purchase sell wage thunder crush luxury dinosaur";

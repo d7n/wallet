@@ -1,1 +1,1 @@
-var mnemonic = "disorder rigid response educate media cute avocado uncle accuse convince fresh relief";
+var mnemonic = "wave season remind million cattle march rate heart people situate gown puzzle";

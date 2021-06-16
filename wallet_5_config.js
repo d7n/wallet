@@ -1,1 +1,1 @@
-var mnemonic = "damage powder spider dragon minute walnut stairs delay shoulder barely dust forward";
+var mnemonic = "total awkward aim body wing motion illness velvet diet bulk supply renew";

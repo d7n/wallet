@@ -1,1 +1,1 @@
-var mnemonic = "action great middle again invest shine ship shy add brother umbrella deposit";
+var mnemonic = "world canal alone spread action remind robot fury culture maid between street";

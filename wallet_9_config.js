@@ -1,1 +1,1 @@
-var mnemonic = "hidden matrix trust despair ostrich sheriff hollow must congress knee point used";
+var mnemonic = "awful pool machine script soon country canal fat flip boil then clip";

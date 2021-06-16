@@ -1,1 +1,1 @@
-var mnemonic = "unknown relief bounce endorse cotton van choice again much shoulder shrug used";
+var mnemonic = "please fiction cycle tip fame seminar option gesture lottery valid bounce aisle";

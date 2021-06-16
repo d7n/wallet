@@ -1,1 +1,1 @@
-var mnemonic = "paper shove during predict swim crucial mind bag member lazy person creek";
+var mnemonic = "tell car either museum gorilla element trim trap return middle prefer that";

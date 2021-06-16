@@ -1,1 +1,1 @@
-var mnemonic = "where female donor skirt solution person elegant project grace depth music corn";
+var mnemonic = "animal nut index pluck alarm merge rifle anchor cradle lunar brush sweet";

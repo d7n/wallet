@@ -1,1 +1,1 @@
-var mnemonic = "before magnet rose seed fiscal leisure knock silver six junior source field";
+var mnemonic = "layer bag glance embark screen vibrant winter sea chef pony setup grace";

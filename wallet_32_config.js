@@ -1,1 +1,1 @@
-var mnemonic = "train pond invest bind veteran practice control cart glide bind final nature";
+var mnemonic = "post sunny evolve spice mistake pilot extend general seek basic used fit";

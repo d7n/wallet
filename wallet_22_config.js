@@ -1,1 +1,1 @@
-var mnemonic = "game easy differ coast merry rack search shock calm rib area wagon";
+var mnemonic = "chimney steel mention unveil gun jaguar liquid arrange version swap unveil reopen";

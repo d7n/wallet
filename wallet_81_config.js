@@ -1,1 +1,1 @@
-var mnemonic = "hollow heart taste virtual bike pretty vessel forget destroy acid loop bachelor";
+var mnemonic = "hill ugly kit convince drift medal topple provide govern casual atom air";

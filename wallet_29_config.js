@@ -1,1 +1,1 @@
-var mnemonic = "amazing depth rude curious mercy real tone busy kit wet find pumpkin";
+var mnemonic = "inherit grape hint gaze desert foil one hint rug face volume mix";

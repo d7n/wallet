@@ -1,1 +1,1 @@
-var mnemonic = "opinion deal onion melt outdoor melody draw depth salt treat wild bitter";
+var mnemonic = "jungle grass master code cross scheme usual act dune income someone error";

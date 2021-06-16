@@ -1,1 +1,1 @@
-var mnemonic = "foot fence wing reunion popular hope isolate sword play ski arch media";
+var mnemonic = "paddle payment walk stuff paper uniform into ecology rival like risk sketch";

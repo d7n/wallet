@@ -1,1 +1,1 @@
-var mnemonic = "habit hurry relief guess crime evoke charge note few acid please cruel";
+var mnemonic = "diamond force shy next north pledge science able bone road rack detail";

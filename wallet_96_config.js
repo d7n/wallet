@@ -1,1 +1,1 @@
-var mnemonic = "method present gas focus hair razor hunt nothing pull hood fragile decrease";
+var mnemonic = "when genre mind timber fiber special cinnamon rival hunt height leader mind";

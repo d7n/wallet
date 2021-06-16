@@ -1,1 +1,1 @@
-var mnemonic = "expose bean parrot harvest cousin collect gain above exhibit alcohol will elite";
+var mnemonic = "army glad soap shine eye hat veteran begin clever ordinary melt pupil";

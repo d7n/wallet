@@ -1,1 +1,1 @@
-var mnemonic = "squeeze capital update dad hold hospital throw soul polar glare acoustic clap";
+var mnemonic = "powder stomach scout daughter admit siren endless shrug ceiling victory junk advice";

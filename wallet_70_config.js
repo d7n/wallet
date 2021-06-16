@@ -1,1 +1,1 @@
-var mnemonic = "false travel shell nice lunch foster swim imitate throw annual phrase fragile";
+var mnemonic = "text bless explain legal farm neither lounge stem wedding feel install dismiss";

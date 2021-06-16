@@ -1,1 +1,1 @@
-var mnemonic = "panther visa across green auto clerk shoe oil poem raw thunder empty";
+var mnemonic = "scrap echo strategy fire climb barrel ceiling coil rifle van flat logic";

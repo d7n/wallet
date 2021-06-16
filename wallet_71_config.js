@@ -1,1 +1,1 @@
-var mnemonic = "wine marine turtle fog tent girl pottery tower obvious edge hurdle search";
+var mnemonic = "mixture sand knock ketchup lounge hole close stem legend arctic animal ordinary";

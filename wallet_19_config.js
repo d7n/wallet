@@ -1,1 +1,1 @@
-var mnemonic = "mountain wrap crisp spread excess hard setup trust setup brain car certain";
+var mnemonic = "mean bicycle elbow expand ask light curve result era gather boy sand";

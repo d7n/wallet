@@ -1,1 +1,1 @@
-var mnemonic = "nasty venture pink angle twist awesome essence idea toss pipe seek noble";
+var mnemonic = "cricket point wedding cloud curious razor invest lyrics maid fan example gun";

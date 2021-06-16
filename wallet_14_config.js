@@ -1,1 +1,1 @@
-var mnemonic = "prosper settle siege change carry garlic sample notice advance library explain erupt";
+var mnemonic = "hurdle bread royal bullet myth ceiling frame buyer bullet mobile rookie someone";

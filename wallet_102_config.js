@@ -1,1 +1,1 @@
-var mnemonic = "when left wish object glue special program vibrant know twice hotel melt";
+var mnemonic = "price host fragile gun answer guilt kidney play daring excess race ribbon";

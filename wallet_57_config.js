@@ -1,1 +1,1 @@
-var mnemonic = "page all bitter tobacco motor dry off garment unknown chicken cargo ranch";
+var mnemonic = "wrist dance master bind coconut attitude clump razor erase govern crunch grid";

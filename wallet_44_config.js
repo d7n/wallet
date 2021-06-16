@@ -1,1 +1,1 @@
-var mnemonic = "critic zoo sphere strategy truck mention allow video empty switch fatal victory";
+var mnemonic = "head feel average craft cotton plate include expand final dial define milk";

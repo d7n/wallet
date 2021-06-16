@@ -1,1 +1,1 @@
-var mnemonic = "way faint issue diesel change country hybrid stable quality silk brain toe";
+var mnemonic = "illness amazing note punch viable hurdle flip indoor expect horse property trend";

@@ -1,1 +1,1 @@
-var mnemonic = "flush toilet narrow end bicycle lamp vault culture swallow old visa advice";
+var mnemonic = "bless brisk number debris dad stay split nation income time surprise attend";

@@ -1,1 +1,1 @@
-var mnemonic = "local tumble differ layer mercy wave mosquito expose keen script lake welcome";
+var mnemonic = "misery grace juice plate shoot purpose discover snake discover unit tip reflect";

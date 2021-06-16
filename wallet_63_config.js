@@ -1,1 +1,1 @@
-var mnemonic = "asthma knife credit ostrich clarify audit explain patrol rather poem wrist spike";
+var mnemonic = "flock used kid artist student royal atom amateur purpose cupboard across slender";

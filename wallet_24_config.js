@@ -1,1 +1,1 @@
-var mnemonic = "vocal buzz today life what oxygen silent wood tilt crash decorate enrich";
+var mnemonic = "alien omit nephew place vintage symbol rookie shallow often vessel subject cause";

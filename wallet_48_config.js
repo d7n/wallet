@@ -1,1 +1,1 @@
-var mnemonic = "damage volume add nurse violin citizen dawn advance scare office member daring";
+var mnemonic = "reveal peanut divide myself thing person vibrant bubble garment forget edit method";

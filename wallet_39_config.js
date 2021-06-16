@@ -1,1 +1,1 @@
-var mnemonic = "deputy census involve opera obvious copy abstract before help lion limit frequent";
+var mnemonic = "friend sand tonight level scout system trash beauty will coyote believe concert";

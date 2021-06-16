@@ -1,1 +1,1 @@
-var mnemonic = "abandon recall valley pepper impulse mercy glue point morning actor myth immense";
+var mnemonic = "rival legend soap deer nose cable border switch burst number bus mechanic";

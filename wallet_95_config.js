@@ -1,1 +1,1 @@
-var mnemonic = "tourist mercy neck prize total scene alcohol twist wisdom token social client";
+var mnemonic = "total peanut total cluster decorate receive panther train normal cancel ridge rather";

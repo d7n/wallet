@@ -1,1 +1,1 @@
-var mnemonic = "auction salad drama trap pizza arch witness icon device govern zebra assist";
+var mnemonic = "round away tilt tail woman borrow rhythm cycle trial portion sample ball";

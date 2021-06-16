@@ -1,1 +1,1 @@
-var mnemonic = "organ abandon hand agent risk ginger carpet oak cannon man flee shock";
+var mnemonic = "total pair collect behind toss void credit wheel use drastic nut chef";

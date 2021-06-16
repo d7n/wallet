@@ -1,1 +1,1 @@
-var mnemonic = "decide recall blame palace differ cushion able cream accuse oil fish cherry";
+var mnemonic = "wife victory lens mandate liquid route talent lava boring inch lawn tent";

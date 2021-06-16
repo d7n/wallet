@@ -1,1 +1,1 @@
-var mnemonic = "pulse coffee fashion crew taxi much empower conduct occur vault affair either";
+var mnemonic = "dance file verify brisk they champion shaft build visual misery lens health";

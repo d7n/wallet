@@ -1,1 +1,1 @@
-var mnemonic = "damage moon achieve original science debate outdoor number engine hockey device accuse";
+var mnemonic = "wasp aspect woman history option nothing nose cluster differ raw hard alter";

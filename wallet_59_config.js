@@ -1,1 +1,1 @@
-var mnemonic = "tortoise dose cart ticket giraffe devote axis hire there comic beyond pink";
+var mnemonic = "husband excite fault debris reward soap brick risk album place aspect reform";

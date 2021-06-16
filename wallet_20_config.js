@@ -1,1 +1,1 @@
-var mnemonic = "page high buffalo climb banana peanut wool alter palm upon dawn stomach";
+var mnemonic = "uncover account this resemble wrist veteran slogan arch plug next february paper";

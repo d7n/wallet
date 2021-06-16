@@ -1,1 +1,1 @@
-var mnemonic = "dice hover build shock woman mango chest lyrics perfect net leopard record";
+var mnemonic = "believe health sell satoshi harbor culture mammal clarify merit dream almost atom";

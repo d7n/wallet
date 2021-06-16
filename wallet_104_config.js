@@ -1,1 +1,1 @@
-var mnemonic = "enemy coin brass flame wrap hip great soda raven siege vehicle face";
+var mnemonic = "comfort picture myself tenant insect axis flush library captain wage situate piano";

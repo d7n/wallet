@@ -1,1 +1,1 @@
-var mnemonic = "enjoy envelope bind slogan during ivory prefer strike half hope model rate";
+var mnemonic = "elevator end dry define march tail sound trophy mail double define scrap";

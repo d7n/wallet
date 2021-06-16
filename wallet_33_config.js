@@ -1,1 +1,1 @@
-var mnemonic = "ritual excuse peace carbon match potato wire reject hover modify kid outside";
+var mnemonic = "armor salmon bundle sentence sauce domain tuna develop credit differ choose volume";

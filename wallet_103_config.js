@@ -1,1 +1,1 @@
-var mnemonic = "virtual assume wood school define gallery level girl price donor ancient acquire";
+var mnemonic = "couch banner secret divert master field ensure ginger top vapor claim bitter";

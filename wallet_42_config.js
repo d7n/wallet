@@ -1,1 +1,1 @@
-var mnemonic = "tonight dry enrich screen invest music destroy vehicle arena candy bonus pill";
+var mnemonic = "vivid mask deer erupt anger artefact script scissors use elite victory coin";
