@@ -1,1 +1,1 @@
-var mnemonic = "bitter brown under trim box truth sense puppy exhibit speed fork divert";
+var mnemonic = "stand unusual sword enjoy matrix better correct elegant biology robust amount winner";

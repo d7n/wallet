@@ -1,1 +1,1 @@
-var mnemonic = "voice crack cream case hero citizen fresh century panther pink quality stuff";
+var mnemonic = "mean current travel meadow spare error shy include maid trust multiply flat";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze sleep stool web fiction search warm simple black wet cream dose";
+var mnemonic = "maid rival call allow field record unaware usual away fury odor system";

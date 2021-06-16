@@ -1,1 +1,1 @@
-var mnemonic = "december link version hat table olympic indoor swift iron audit vendor tissue";
+var mnemonic = "lyrics cruise obvious ship jealous tent execute eagle gap reward brain slide";

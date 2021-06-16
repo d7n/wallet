@@ -1,1 +1,1 @@
-var mnemonic = "hover coyote satisfy shrimp area judge craft corn flower never sound decorate";
+var mnemonic = "used deposit need buzz work midnight announce vocal scrub music table enough";

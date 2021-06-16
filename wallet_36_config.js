@@ -1,1 +1,1 @@
-var mnemonic = "kind royal avoid train era carpet arena hunt sport dinosaur average credit";
+var mnemonic = "tank island vital erase best tool damage pig project fatal resist senior";

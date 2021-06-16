@@ -1,1 +1,1 @@
-var mnemonic = "helmet soul riot pulp between piece push august wise sibling recipe moral";
+var mnemonic = "inspire denial unhappy riot fit wild inspire dumb pulp suggest cactus display";

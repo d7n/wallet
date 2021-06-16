@@ -1,1 +1,1 @@
-var mnemonic = "base wife manage deliver dismiss day cabin siren swing stomach vessel mixed";
+var mnemonic = "scatter tiny clutch copper glance tissue thought napkin hello blast chase chronic";

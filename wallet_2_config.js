@@ -1,1 +1,1 @@
-var mnemonic = "goat wedding drift hand recycle attitude squeeze tackle angle system ball guilt";
+var mnemonic = "multiply clutch write daring mouse alcohol document laundry local glare level stage";

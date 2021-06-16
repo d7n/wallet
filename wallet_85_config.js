@@ -1,1 +1,1 @@
-var mnemonic = "crater reopen chat quick spice caught maid disorder process protect organ absurd";
+var mnemonic = "cream social lottery stomach relief album action scheme library farm cabbage pitch";

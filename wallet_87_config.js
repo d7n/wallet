@@ -1,1 +1,1 @@
-var mnemonic = "wealth volume brain proof clean wide fat kit scan split learn attack";
+var mnemonic = "zone midnight eyebrow life scout paper hotel slender parade verb order velvet";

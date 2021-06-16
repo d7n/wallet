@@ -1,1 +1,1 @@
-var mnemonic = "length narrow broccoli manual way warrior fox grow pioneer culture crowd decade";
+var mnemonic = "broom frown snake panther pupil cotton seed book abuse broccoli oil loan";

@@ -1,1 +1,1 @@
-var mnemonic = "sort retreat poverty snake garage stool arrange rail water south door plug";
+var mnemonic = "lake mixed stuff large toward gift cancel illness treat obscure leisure cement";

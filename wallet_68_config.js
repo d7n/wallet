@@ -1,1 +1,1 @@
-var mnemonic = "news panda reject toss goose subject old zoo castle stone note island";
+var mnemonic = "team network water motor match shift brown cool cook main cream congress";

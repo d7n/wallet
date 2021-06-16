@@ -1,1 +1,1 @@
-var mnemonic = "veteran brick skill medal small frown father scorpion alpha flee boost scale";
+var mnemonic = "style umbrella crack stadium fetch repeat weekend diet antique comfort quote gold";

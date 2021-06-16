@@ -1,1 +1,1 @@
-var mnemonic = "airport level mansion cruise urge burden sheriff praise abuse similar bless decrease";
+var mnemonic = "torch have misery soldier vapor upset insect worry alarm arrive fork feature";

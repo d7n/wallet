@@ -1,1 +1,1 @@
-var mnemonic = "merit sauce goat cash churn season shoot buzz kidney sleep bomb kidney";
+var mnemonic = "ordinary various swamp tunnel obtain earn concert forum alpha find expire swear";

@@ -1,1 +1,1 @@
-var mnemonic = "lift annual wait fitness model rookie drive must tobacco anchor choose invest";
+var mnemonic = "guide master maximum trade video across tourist engine creek gravity enroll neglect";

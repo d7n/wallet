@@ -1,1 +1,1 @@
-var mnemonic = "original wife opinion audit old own elevator extend mad alone segment chunk";
+var mnemonic = "soon pet age board lounge bread language uniform glow era ostrich flash";

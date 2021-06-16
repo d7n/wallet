@@ -1,1 +1,1 @@
-var mnemonic = "mystery drill cash general angle master nice occur step rapid twist clean";
+var mnemonic = "globe rose economy timber lab lake vendor right obey hello impact such";

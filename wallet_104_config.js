@@ -1,1 +1,1 @@
-var mnemonic = "head vessel marble sample anchor uncle gorilla oval harsh flight virtual have";
+var mnemonic = "liberty desert gesture strong ahead barely hair lend rival embody cabbage drama";

@@ -1,1 +1,1 @@
-var mnemonic = "merry match april talk lawn occur orchard mutual fit come genre document";
+var mnemonic = "spider recipe unfold outer run ranch foot foam burger best chicken embark";

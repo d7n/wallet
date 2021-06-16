@@ -1,1 +1,1 @@
-var mnemonic = "dilemma nominee faculty swarm describe throw wink medal depth loop gravity prevent";
+var mnemonic = "interest start loan pond muscle silent toast silly teach duck soup climb";

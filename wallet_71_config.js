@@ -1,1 +1,1 @@
-var mnemonic = "giggle dwarf exact situate dentist day female depart multiply double hire ancient";
+var mnemonic = "dress movie rate coil file code unable feed spend forward style shadow";

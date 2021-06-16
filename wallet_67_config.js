@@ -1,1 +1,1 @@
-var mnemonic = "file clutch tourist cannon error thumb frequent lab meadow indicate arch initial";
+var mnemonic = "ghost jar weather odor case either coil clever hobby much virtual twelve";

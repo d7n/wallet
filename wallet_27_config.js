@@ -1,1 +1,1 @@
-var mnemonic = "ski scorpion number solar machine build rookie park month black own pudding";
+var mnemonic = "ozone merit lens pencil shy glance emerge weird behind similar love secret";

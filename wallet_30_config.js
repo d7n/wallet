@@ -1,1 +1,1 @@
-var mnemonic = "trend agent barrel wage essay bitter glass outside kit problem shy devote";
+var mnemonic = "reward loan huge lend expand boss quit question cool cram donkey advice";

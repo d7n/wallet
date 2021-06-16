@@ -1,1 +1,1 @@
-var mnemonic = "debate spend festival group shrimp time fever glory horse omit ceiling crash";
+var mnemonic = "brass defense first route brick space expose canoe talk elbow matter weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum surround toddler urban pelican come example monkey oblige august spot supply";
+var mnemonic = "joy oppose food taste grunt sick skin mimic humor gym tired stable";

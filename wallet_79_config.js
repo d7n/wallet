@@ -1,1 +1,1 @@
-var mnemonic = "cake day crazy combine lizard call fox express local guess injury improve";
+var mnemonic = "armor symbol office insane prefer plunge horse rough more dentist actress length";

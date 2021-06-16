@@ -1,1 +1,1 @@
-var mnemonic = "spread forum clog doll brick modify multiply diagram taste diagram pupil problem";
+var mnemonic = "tuition science asset health suffer pluck result rural unique during treat result";

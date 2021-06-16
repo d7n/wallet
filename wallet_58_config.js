@@ -1,1 +1,1 @@
-var mnemonic = "fork goddess artwork appear entry turkey course random wait idle cause exclude";
+var mnemonic = "behave host switch mind bachelor image atom canyon link diet august swamp";

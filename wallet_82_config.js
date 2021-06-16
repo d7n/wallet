@@ -1,1 +1,1 @@
-var mnemonic = "goat furnace labor crop initial delay afraid else frown captain draw race";
+var mnemonic = "transfer narrow domain erode draft fold benefit local blood message fashion post";

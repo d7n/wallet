@@ -1,1 +1,1 @@
-var mnemonic = "expose biology lecture bring neutral jump banner cute worry differ aim predict";
+var mnemonic = "glad fiscal wheel weasel useless job surface wolf opera salt spin spice";

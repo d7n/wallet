@@ -1,1 +1,1 @@
-var mnemonic = "faculty they flame amused motor ski copper fork sorry belt media tortoise";
+var mnemonic = "you guilt slender comfort army length rigid extra pencil any glide limb";

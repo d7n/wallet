@@ -1,1 +1,1 @@
-var mnemonic = "album squeeze flag mouse nothing bar rate brave elevator mirror sight flock";
+var mnemonic = "guard spice glove rather misery exact exact wall lake rate choice panel";

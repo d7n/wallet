@@ -1,1 +1,1 @@
-var mnemonic = "orange remind youth basket best loop quality cute harsh paddle script resource";
+var mnemonic = "visa own cool market cigar there game luggage column seven crumble endless";

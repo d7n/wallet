@@ -1,1 +1,1 @@
-var mnemonic = "east celery require wish pottery purse tone rotate vintage apple room outside";
+var mnemonic = "knife elbow used cabbage enlist boring roast risk siren injury inform glad";

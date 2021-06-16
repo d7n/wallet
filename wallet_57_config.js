@@ -1,1 +1,1 @@
-var mnemonic = "spot aim giraffe swarm laundry fragile fold woman empower urge coyote derive";
+var mnemonic = "gun bring flame glory science quarter monster birth march must nest soul";

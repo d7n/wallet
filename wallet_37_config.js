@@ -1,1 +1,1 @@
-var mnemonic = "robot evolve ugly hospital love autumn word mask fog rapid bubble unfair";
+var mnemonic = "corn detect elite duty theory tiny host danger enrich dawn inquiry panel";

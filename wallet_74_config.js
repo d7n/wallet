@@ -1,1 +1,1 @@
-var mnemonic = "all similar grass manual notice north fit silk visual giant uphold october";
+var mnemonic = "snack unfold core silent void pencil usual media gauge case unusual coast";

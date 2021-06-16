@@ -1,1 +1,1 @@
-var mnemonic = "wasp hill grocery inform cover inherit rebuild laugh tiny live creek chicken";
+var mnemonic = "turn million section fresh please want nurse silver jazz surround grant accuse";

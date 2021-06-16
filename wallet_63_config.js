@@ -1,1 +1,1 @@
-var mnemonic = "toilet invite repeat sentence hint energy bag ride endless fiction donor soldier";
+var mnemonic = "bunker miss cart trade sing replace winner transfer guard arrest catch save";

@@ -1,1 +1,1 @@
-var mnemonic = "town wood vapor jealous flat witness muffin defy crew wish exercise manage";
+var mnemonic = "dismiss dolphin junk vehicle dynamic hip primary physical tongue margin student outside";

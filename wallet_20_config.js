@@ -1,1 +1,1 @@
-var mnemonic = "infant boring foam typical baby warrior jar maid spread heavy enjoy weapon";
+var mnemonic = "winter frozen fold knock mirror stem barrel quick grab scheme junk collect";

@@ -1,1 +1,1 @@
-var mnemonic = "thing click camera predict tunnel desk virus taxi rescue way planet trend";
+var mnemonic = "lounge nut merit expire mom strong similar bronze lift range depart slide";

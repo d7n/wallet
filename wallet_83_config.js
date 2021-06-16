@@ -1,1 +1,1 @@
-var mnemonic = "rose mix speak patient mechanic any initial desk tragic library heavy boil";
+var mnemonic = "medal barrel grass slogan wealth token mule mask dash various since ceiling";

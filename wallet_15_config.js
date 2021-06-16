@@ -1,1 +1,1 @@
-var mnemonic = "give fire robust series tissue youth report urban meadow sustain swim major";
+var mnemonic = "angle squeeze galaxy talk envelope duck hollow fork helmet access sock dizzy";

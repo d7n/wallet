@@ -1,1 +1,1 @@
-var mnemonic = "jewel leaf stadium cream small artwork useless return door picture local security";
+var mnemonic = "globe sister window token way buyer lab orphan tissue finger rifle nurse";

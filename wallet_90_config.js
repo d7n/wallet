@@ -1,1 +1,1 @@
-var mnemonic = "refuse design pole spot scorpion tide marble involve winner garden clever city";
+var mnemonic = "embark rabbit stool layer brush remain chalk festival finger inmate castle surface";

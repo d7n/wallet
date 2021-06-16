@@ -1,1 +1,1 @@
-var mnemonic = "quantum hero vault route blame grape flush cart trigger orchard orchard census";
+var mnemonic = "cover hello total limb offer kangaroo addict once cheap transfer sadness truly";

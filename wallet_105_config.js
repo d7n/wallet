@@ -1,1 +1,1 @@
-var mnemonic = "atom satisfy loyal make you rude floor judge crater brief stumble eternal";
+var mnemonic = "afraid swear label cash magnet result ordinary final entire velvet myth elevator";

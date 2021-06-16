@@ -1,1 +1,1 @@
-var mnemonic = "object sea evoke roast mask dutch emotion harbor pigeon tortoise below year";
+var mnemonic = "siren zoo robust upgrade bless mystery farm goat include catalog gorilla swarm";

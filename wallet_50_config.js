@@ -1,1 +1,1 @@
-var mnemonic = "garlic control tragic fly escape cancel solar second consider immune cage atom";
+var mnemonic = "circle caught worry join half mesh midnight opinion space hedgehog off erase";

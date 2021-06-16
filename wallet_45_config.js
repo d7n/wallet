@@ -1,1 +1,1 @@
-var mnemonic = "giraffe dynamic vibrant episode point guide adapt planet cup axis hope truly";
+var mnemonic = "solid grab panic pizza squirrel casino chapter kitchen denial dream february skin";

@@ -1,1 +1,1 @@
-var mnemonic = "life basic trouble attend fish blur will digital baby scene stool bleak";
+var mnemonic = "cluster liberty snap enable prevent lottery multiply sock drop crater sauce glory";

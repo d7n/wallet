@@ -1,1 +1,1 @@
-var mnemonic = "boy cannon decide avoid favorite bus midnight hen sad final always fine";
+var mnemonic = "village behave wheat only battle tiny paddle deliver tunnel inhale voice upon";

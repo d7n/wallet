@@ -1,1 +1,1 @@
-var mnemonic = "until love wet virtual identify truck medal illegal wage monitor victory rescue";
+var mnemonic = "wagon awake toast innocent exclude exchange vapor fade uncover other way gift";

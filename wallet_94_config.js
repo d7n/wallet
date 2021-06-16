@@ -1,1 +1,1 @@
-var mnemonic = "desert humble true range solve vicious laptop develop invite board bridge urge";
+var mnemonic = "defy garden rocket various athlete loop dune pill ordinary shadow pudding pencil";

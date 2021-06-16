@@ -1,1 +1,1 @@
-var mnemonic = "cream cement noble spider clever place blouse then gossip mammal boy behave";
+var mnemonic = "gap decide patient cannon jacket dress parade crime soft slender adapt tiger";

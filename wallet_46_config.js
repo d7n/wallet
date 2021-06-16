@@ -1,1 +1,1 @@
-var mnemonic = "radar awkward trust wheel tent talent pond live jacket blouse circle arrest";
+var mnemonic = "purse interest bulb pull ahead power galaxy fish start post enact fix";

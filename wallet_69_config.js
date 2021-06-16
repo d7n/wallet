@@ -1,1 +1,1 @@
-var mnemonic = "normal seek lobster detail drop poverty april hundred evolve embark pave couch";
+var mnemonic = "forward reflect seat gospel talent baby cricket slice remain orange online misery";

@@ -1,1 +1,1 @@
-var mnemonic = "pair save boring eternal digital intact nuclear mechanic mix actress scrap sea";
+var mnemonic = "scan govern garbage ice leopard crew dream general term wait hub firm";

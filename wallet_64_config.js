@@ -1,1 +1,1 @@
-var mnemonic = "whale kingdom shove unfold laugh bracket aspect attend educate hard kiss dinosaur";
+var mnemonic = "hen infant love phone laugh trend spider acid base public lamp dignity";

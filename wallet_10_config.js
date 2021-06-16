@@ -1,1 +1,1 @@
-var mnemonic = "bullet tell electric various toddler shadow insect episode refuse bird friend priority";
+var mnemonic = "share nature tragic property essay grain oak lawsuit term first grief river";

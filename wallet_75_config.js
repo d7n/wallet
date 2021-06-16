@@ -1,1 +1,1 @@
-var mnemonic = "dignity detect give favorite bargain fatigue solution just relax collect unfold radio";
+var mnemonic = "coin bar error sail dose acid valid brush pen hawk album talk";

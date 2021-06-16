@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo random furnace tree clutch eye inspire vehicle pretty ghost protect foster";
+var mnemonic = "unable twenty then square magnet slam item pelican manage bike chapter satisfy";

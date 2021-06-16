@@ -1,1 +1,1 @@
-var mnemonic = "spring ladder fence middle beauty mammal mixture casual retire sound lizard pioneer";
+var mnemonic = "crash icon enable midnight remind strategy shuffle return day tide grid plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "coast beyond hurdle dignity siege code anchor either pair human select lava";
+var mnemonic = "help beyond orange audit habit region differ exhaust stage similar capital silver";

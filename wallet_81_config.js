@@ -1,1 +1,1 @@
-var mnemonic = "depth kiss excite powder moon recall tumble segment mule brief brass saddle";
+var mnemonic = "advance valve strategy rebuild surprise notable hollow poet silent neck purchase express";

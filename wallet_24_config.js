@@ -1,1 +1,1 @@
-var mnemonic = "city fabric local accident machine future film letter column false choose hand";
+var mnemonic = "giggle under february salt alert situate bind grief order rely abstract crunch";

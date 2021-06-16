@@ -1,1 +1,1 @@
-var mnemonic = "candy pulp element coffee tennis believe voyage sea debate witness pledge walnut";
+var mnemonic = "tiger floor sport welcome rich expand below inmate frog camera another radar";

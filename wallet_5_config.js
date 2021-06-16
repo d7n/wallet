@@ -1,1 +1,1 @@
-var mnemonic = "tiny jelly blood cherry october worry unique panel verify tail oyster scrap";
+var mnemonic = "exclude light kitchen actor scout month head tomato burden piano night addict";

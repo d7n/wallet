@@ -1,1 +1,1 @@
-var mnemonic = "east liquid coral marble deposit deposit remind fragile guide weird mask shy";
+var mnemonic = "tape design bright town position upper shield friend unit foil ski other";

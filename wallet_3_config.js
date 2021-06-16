@@ -1,1 +1,1 @@
-var mnemonic = "glad useless upper scrub steel major story expand acoustic suggest they absurd";
+var mnemonic = "turkey trumpet income culture velvet pledge zebra gadget hedgehog old lunch oppose";

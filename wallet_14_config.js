@@ -1,1 +1,1 @@
-var mnemonic = "credit rigid blanket alter frozen feel sad motion cousin reopen bid upper";
+var mnemonic = "index despair lazy tattoo deposit detect black ice note ostrich anxiety beauty";

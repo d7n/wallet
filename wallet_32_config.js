@@ -1,1 +1,1 @@
-var mnemonic = "stumble bottom poem cost couch dance hobby advance enrich cheese fossil still";
+var mnemonic = "impact seed ring book clog person flower critic dial rich vicious special";

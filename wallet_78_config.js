@@ -1,1 +1,1 @@
-var mnemonic = "tired scout humor always review develop sweet chief exercise motion script fine";
+var mnemonic = "execute luggage casino cash real twin crack funny myself woman lawsuit kind";

@@ -1,1 +1,1 @@
-var mnemonic = "slim repair tomorrow win review vocal plunge giggle loyal range pudding reopen";
+var mnemonic = "license fence produce pair elevator island enhance little old artwork loud notice";

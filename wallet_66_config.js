@@ -1,1 +1,1 @@
-var mnemonic = "weird share explain pause pill luxury visit fashion quality supply maid double";
+var mnemonic = "gorilla kangaroo avocado airport party tuna nominee either turkey sphere viable subject";

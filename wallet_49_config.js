@@ -1,1 +1,1 @@
-var mnemonic = "brief mention problem aim foil trust present find mistake this beyond piano";
+var mnemonic = "opera month element receive wash chimney orange galaxy luxury parent absent giggle";

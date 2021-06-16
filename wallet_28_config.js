@@ -1,1 +1,1 @@
-var mnemonic = "sword climb search waste ostrich oval emotion unaware barely message boost must";
+var mnemonic = "artwork worry electric drum health now various law tilt chase bronze escape";

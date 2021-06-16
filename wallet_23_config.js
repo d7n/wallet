@@ -1,1 +1,1 @@
-var mnemonic = "winner feel flame employ normal surround cart satoshi hockey dash vocal ridge";
+var mnemonic = "cabbage where expire wisdom magnet page stadium mad blame alarm before radio";

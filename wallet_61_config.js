@@ -1,1 +1,1 @@
-var mnemonic = "few olympic office broom pig crystal middle gold toddler lava undo else";
+var mnemonic = "aware result sun smooth shoot cram card occur panther around struggle diet";

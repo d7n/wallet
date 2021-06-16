@@ -1,1 +1,1 @@
-var mnemonic = "exercise admit when hobby tail actress option toast lemon gift mandate purse";
+var mnemonic = "undo cricket hybrid cluster filter buddy submit page expect rocket region deliver";

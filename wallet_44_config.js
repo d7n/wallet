@@ -1,1 +1,1 @@
-var mnemonic = "short balance choose lift expect episode day spy sugar pink shiver nothing";
+var mnemonic = "unaware endorse report insect quality plastic despair imitate bike shed display mango";

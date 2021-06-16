@@ -1,1 +1,1 @@
-var mnemonic = "bird foam spot leg uncle pupil random naive dragon group scare donkey";
+var mnemonic = "filter leaf clerk peace sell address worry net tiger again stable distance";

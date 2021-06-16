@@ -1,1 +1,1 @@
-var mnemonic = "solar sustain night spoil cup upgrade wait exhaust patient oblige response rail";
+var mnemonic = "use since hotel caught royal begin chef present crystal toddler guide universe";

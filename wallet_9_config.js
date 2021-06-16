@@ -1,1 +1,1 @@
-var mnemonic = "wine intact dash crash hundred shell penalty tourist fancy rare half grid";
+var mnemonic = "rate riot digital tuition priority penalty trouble brush bulk brown spread chronic";

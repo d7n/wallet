@@ -1,1 +1,1 @@
-var mnemonic = "name world enforce miss crumble hammer extend goddess note fame burger luggage";
+var mnemonic = "flip spring suggest atom brass detail kid obvious list dwarf reject hard";

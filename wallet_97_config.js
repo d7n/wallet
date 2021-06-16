@@ -1,1 +1,1 @@
-var mnemonic = "story planet sing unusual nature ocean isolate donate decrease brother photo walk";
+var mnemonic = "shrug trial virtual interest grid tennis clip glance mistake garden movie giant";

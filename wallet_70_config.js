@@ -1,1 +1,1 @@
-var mnemonic = "engage bridge tower artefact second wing actress cluster stove solar truly scrub";
+var mnemonic = "kid mosquito announce strategy card describe space spawn magic welcome pride movie";

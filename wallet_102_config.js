@@ -1,1 +1,1 @@
-var mnemonic = "large among holiday horror birth vessel bring hobby juice frame sell gap";
+var mnemonic = "fatal fold mobile vapor lizard already shiver stock mom tongue wisdom moment";

@@ -1,1 +1,1 @@
-var mnemonic = "derive cannon kiwi idea jealous guide afraid decline slight tube visual nephew";
+var mnemonic = "indicate just teach access sign across rural involve moral worry popular gospel";

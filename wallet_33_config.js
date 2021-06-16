@@ -1,1 +1,1 @@
-var mnemonic = "actor hair claim fabric opera couple merry busy call unfold street fun";
+var mnemonic = "athlete all moral anxiety good into useful victory immense excite glory trial";

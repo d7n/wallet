@@ -1,1 +1,1 @@
-var mnemonic = "group wing fun reveal mass fun walk obscure shell feel bleak behave";
+var mnemonic = "castle quote squeeze grab spy volcano census public frozen second any skirt";
