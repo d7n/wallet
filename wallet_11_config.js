@@ -1,1 +1,1 @@
-var mnemonic = "section shuffle item news fun almost check script apple bundle lizard alpha";
+var mnemonic = "love employ judge thunder wonder goose spin swim address pistol guess stage";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol change slush rebuild hungry diary wagon steak traffic elegant annual spirit";
+var mnemonic = "property tell pool mobile boring lock dawn robot area pull viable tissue";

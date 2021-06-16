@@ -1,1 +1,1 @@
-var mnemonic = "equal vote ordinary mouse slender solution six recycle tackle magnet case ecology";
+var mnemonic = "cash become paddle canoe decrease table kangaroo vapor universe remind remove april";

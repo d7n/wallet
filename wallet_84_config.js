@@ -1,1 +1,1 @@
-var mnemonic = "wild spatial hard mirror foster provide panic common winter prefer staff dice";
+var mnemonic = "rain simple wrist wage long summer worth area fork achieve engage exhaust";

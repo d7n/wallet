@@ -1,1 +1,1 @@
-var mnemonic = "defense picture battle acquire gravity appear abstract boy melt proud burger success";
+var mnemonic = "chimney injury tuition proof minor coffee today teach iron brief sting bottom";

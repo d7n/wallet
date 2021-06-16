@@ -1,1 +1,1 @@
-var mnemonic = "similar width moon chimney water cereal enroll victory mention tool link grow";
+var mnemonic = "clutch zero rice salt era swarm arm vacuum kidney trap frost chalk";

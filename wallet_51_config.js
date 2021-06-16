@@ -1,1 +1,1 @@
-var mnemonic = "push mesh ripple useful engage false match mask spike square dust zero";
+var mnemonic = "fruit equal toe lazy assault agent clip aisle old shoot express brain";

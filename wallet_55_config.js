@@ -1,1 +1,1 @@
-var mnemonic = "forum aunt between liberty napkin interest only invite miracle decline very pilot";
+var mnemonic = "stone sight repeat undo car voice hen supply stamp slender million wink";

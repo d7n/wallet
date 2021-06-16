@@ -1,1 +1,1 @@
-var mnemonic = "whip middle example demise nuclear transfer romance piano wood mushroom word sad";
+var mnemonic = "recipe lumber boost limb assault grant neutral inform away jaguar alert slogan";

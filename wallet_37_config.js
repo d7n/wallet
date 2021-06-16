@@ -1,1 +1,1 @@
-var mnemonic = "scheme grass phrase umbrella jump category sphere battle maid vague enter describe";
+var mnemonic = "slush frozen couple sheriff fault resemble evoke hollow evil simple ball motion";

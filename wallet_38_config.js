@@ -1,1 +1,1 @@
-var mnemonic = "clay virtual jungle blush tower key predict side inside enough mass gift";
+var mnemonic = "diagram broken prosper liberty undo glove track crew click build antenna man";

@@ -1,1 +1,1 @@
-var mnemonic = "maple web amount enable connect flame change add seek tank potato stove";
+var mnemonic = "magic pepper crime scale dutch cat photo rally pilot above napkin purse";

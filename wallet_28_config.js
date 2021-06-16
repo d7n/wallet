@@ -1,1 +1,1 @@
-var mnemonic = "capital asset false degree oblige cupboard reflect refuse connect ranch patrol simple";
+var mnemonic = "moment pipe web slim since lounge entry mobile betray movie domain catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "disagree summer draw emotion garage witness hedgehog message fish rookie reform attack";
+var mnemonic = "edit symptom glimpse define negative budget that industry fiction creek fresh point";

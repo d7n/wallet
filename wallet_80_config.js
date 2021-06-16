@@ -1,1 +1,1 @@
-var mnemonic = "shop word stick bottom trash slogan defy trend purse soda often talk";
+var mnemonic = "window next ladder crowd shallow man powder harvest opera always credit vintage";

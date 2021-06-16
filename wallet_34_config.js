@@ -1,1 +1,1 @@
-var mnemonic = "dust ten win boy safe there foam wink fresh bus team spell";
+var mnemonic = "evolve vague pink burst power donkey core anchor soul grant believe eight";

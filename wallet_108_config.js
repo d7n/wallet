@@ -1,1 +1,1 @@
-var mnemonic = "possible upset trick they glory movie fringe knife bronze napkin ordinary fix";
+var mnemonic = "release city device prepare funny absent oak crazy eagle fall time clay";

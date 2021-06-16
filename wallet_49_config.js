@@ -1,1 +1,1 @@
-var mnemonic = "lottery female elevator fitness only song assume quality diesel barely weather wreck";
+var mnemonic = "patrol burger negative plunge merry woman message empty turkey gym guitar much";

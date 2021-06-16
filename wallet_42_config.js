@@ -1,1 +1,1 @@
-var mnemonic = "inspire ship legend frog buddy update toe cloth behave caution common badge";
+var mnemonic = "anchor custom kick firm hire brand pupil pulp uncle token shed chronic";

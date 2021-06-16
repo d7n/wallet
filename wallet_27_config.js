@@ -1,1 +1,1 @@
-var mnemonic = "remove warfare shoulder hello embark sight interest doll reason alley stumble review";
+var mnemonic = "consider gesture glance stool cram void street execute patch mind asthma lobster";

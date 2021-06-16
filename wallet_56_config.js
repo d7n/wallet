@@ -1,1 +1,1 @@
-var mnemonic = "pool habit menu scrub bottom answer spin special outside nut throw plastic";
+var mnemonic = "steak across slight catalog vast capital rug embark mosquito frog shine afraid";

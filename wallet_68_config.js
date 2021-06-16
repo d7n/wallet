@@ -1,1 +1,1 @@
-var mnemonic = "clump hair relief wife purse donor nominee abstract regret pen guard curtain";
+var mnemonic = "asset path inside choice hover rotate seven moon key since goose weasel";

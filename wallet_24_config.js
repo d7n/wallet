@@ -1,1 +1,1 @@
-var mnemonic = "ramp clarify such dutch good super squeeze silk box finger brave seek";
+var mnemonic = "host soccer claw fox early equip kiwi science direct noble current subway";

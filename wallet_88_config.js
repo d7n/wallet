@@ -1,1 +1,1 @@
-var mnemonic = "right idea below theory frog smart vivid come order champion forum exercise";
+var mnemonic = "own embark wait thunder music drama exist alien slam arrange mercy near";

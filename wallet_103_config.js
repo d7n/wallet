@@ -1,1 +1,1 @@
-var mnemonic = "famous wonder inform giggle box runway canyon brain this faint stove armor";
+var mnemonic = "dutch noble blush festival define kit draft quote chase weapon finish predict";

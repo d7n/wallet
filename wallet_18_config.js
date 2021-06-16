@@ -1,1 +1,1 @@
-var mnemonic = "helmet medal release video crime dignity casino tent glow summer cluster title";
+var mnemonic = "market ripple element tornado token describe muffin entire mansion sing audit zone";

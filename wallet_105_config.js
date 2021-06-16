@@ -1,1 +1,1 @@
-var mnemonic = "umbrella lawsuit fuel awful list melt palm average disagree cycle congress illegal";
+var mnemonic = "image capital foam electric scan ramp flip mean grid tired access crime";

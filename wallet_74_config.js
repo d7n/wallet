@@ -1,1 +1,1 @@
-var mnemonic = "erupt fuel excite attend snow company dust orphan donkey armed sponsor fit";
+var mnemonic = "ability regular balance test solution bulb connect confirm salmon cotton puzzle rural";

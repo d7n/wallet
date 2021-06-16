@@ -1,1 +1,1 @@
-var mnemonic = "rude jealous dutch fabric predict crew disease pave bless humor control main";
+var mnemonic = "rough regular smoke relief badge raccoon scout blouse there oblige legend city";

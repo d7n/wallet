@@ -1,1 +1,1 @@
-var mnemonic = "sketch polar proud risk tuna tragic october gold twelve radar zone life";
+var mnemonic = "spoon merge spot filter flower horror planet fortune later puppy rule denial";

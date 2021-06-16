@@ -1,1 +1,1 @@
-var mnemonic = "until autumn maximum clump disagree second toss glass stuff absurd wreck outside";
+var mnemonic = "wise this matrix cook high despair wrestle boring tiger sell give cream";

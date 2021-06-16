@@ -1,1 +1,1 @@
-var mnemonic = "easily ripple office buffalo adjust duck worth annual universe denial seed dynamic";
+var mnemonic = "speak radar razor park actress mistake animal virus moral story antenna income";

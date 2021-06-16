@@ -1,1 +1,1 @@
-var mnemonic = "one tornado pulp essence ill nerve pumpkin salt table cotton know season";
+var mnemonic = "loan bonus sad divorce embark neglect hill supply diamond turkey bless broom";

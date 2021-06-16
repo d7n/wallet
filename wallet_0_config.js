@@ -1,1 +1,1 @@
-var mnemonic = "evoke hard kingdom car flock winner asthma theory panel erupt quote pond";
+var mnemonic = "term mother frown sure coast blanket quarter kidney carpet license talent tomato";

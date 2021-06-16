@@ -1,1 +1,1 @@
-var mnemonic = "brave atom cry shield cattle bargain then marine wave gas popular pen";
+var mnemonic = "ensure frost cream roast rebel ethics disorder oyster satisfy suffer worry segment";

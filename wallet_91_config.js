@@ -1,1 +1,1 @@
-var mnemonic = "focus work hen kangaroo air rail add april lemon time denial brush";
+var mnemonic = "cabbage average orbit drill wrist unveil mad noodle stereo engine quality chuckle";

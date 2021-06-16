@@ -1,1 +1,1 @@
-var mnemonic = "cat scare crowd veteran scrap bounce market poverty chef vast income sight";
+var mnemonic = "harbor until inner hobby typical regret crumble fix timber property ankle donate";

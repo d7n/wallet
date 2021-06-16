@@ -1,1 +1,1 @@
-var mnemonic = "ship home utility option pet muffin endless area later enroll safe elevator";
+var mnemonic = "material fiscal property light dust join decide stumble swamp opera best connect";

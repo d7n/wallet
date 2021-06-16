@@ -1,1 +1,1 @@
-var mnemonic = "error organ faculty hire nut track black special social sun tooth next";
+var mnemonic = "topic entire park bracket cream axis night thrive crunch nose first mutual";

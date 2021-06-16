@@ -1,1 +1,1 @@
-var mnemonic = "glue mistake giggle paddle luxury broom around pepper aunt syrup step toe";
+var mnemonic = "soup genuine nice pulp song diesel deny rose popular crouch bitter minor";

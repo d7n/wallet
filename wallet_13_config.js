@@ -1,1 +1,1 @@
-var mnemonic = "small mesh click relief outside drama inch swamp frozen race eager trim";
+var mnemonic = "sad apple public manual flee notable gold mechanic begin argue thrive equip";

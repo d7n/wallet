@@ -1,1 +1,1 @@
-var mnemonic = "clinic junior earth simple lonely bulk provide worry bring disorder fiber belt";
+var mnemonic = "cancel color furnace armor fever decline inquiry giant talent term admit mask";

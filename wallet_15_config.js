@@ -1,1 +1,1 @@
-var mnemonic = "radar spoon chimney visual enter report exhibit seat cargo trophy address usage";
+var mnemonic = "burden object illness uncover anchor clip fortune avocado assault various unit stadium";

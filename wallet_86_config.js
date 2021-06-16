@@ -1,1 +1,1 @@
-var mnemonic = "echo piece nature first taste absurd cost fresh battle know number slight";
+var mnemonic = "tip inhale quantum dial immense uncle hurt style jar about wait voice";

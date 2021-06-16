@@ -1,1 +1,1 @@
-var mnemonic = "empty narrow lesson coast mind forget rain abuse season pulse panel net";
+var mnemonic = "giraffe crowd smile public museum you engine banner silly dish jaguar lion";

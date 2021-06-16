@@ -1,1 +1,1 @@
-var mnemonic = "loop hunt estate push property crime brisk label earn oyster provide panther";
+var mnemonic = "process winter twelve lyrics winner buzz bubble wagon shed eight heart eternal";

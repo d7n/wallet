@@ -1,1 +1,1 @@
-var mnemonic = "sister frozen print render mixture derive year sphere culture minor strike snap";
+var mnemonic = "soda sell average system bird original injury pen mean goddess reflect canvas";

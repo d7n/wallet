@@ -1,1 +1,1 @@
-var mnemonic = "student idea borrow race someone garden situate news climb zebra review practice";
+var mnemonic = "gap identify purse excuse average vanish major frown empower profit ball resist";

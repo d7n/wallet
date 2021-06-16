@@ -1,1 +1,1 @@
-var mnemonic = "sport trade flower coconut away wave kick glass inflict pupil amused sting";
+var mnemonic = "thank electric nut welcome relief timber claim modify smoke edge error risk";

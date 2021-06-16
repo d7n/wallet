@@ -1,1 +1,1 @@
-var mnemonic = "train evidence gentle dream black borrow inquiry next stairs thrive camera hurry";
+var mnemonic = "image idea other price execute claim wet grocery soccer long number search";

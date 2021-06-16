@@ -1,1 +1,1 @@
-var mnemonic = "chaos symbol shallow figure claw cousin rough swear screen volcano vast moon";
+var mnemonic = "spot tone wisdom spike weather rather insane blade actress ribbon page bitter";

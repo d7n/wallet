@@ -1,1 +1,1 @@
-var mnemonic = "corn squirrel lounge hen claw side eager require sign museum path street";
+var mnemonic = "trim venue secret option napkin blouse skull region club balcony sample boat";

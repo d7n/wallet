@@ -1,1 +1,1 @@
-var mnemonic = "dress define trade cable suspect order nasty shell velvet morning oblige shield";
+var mnemonic = "exhibit drama attitude cherry sugar device wrong habit industry type vapor steel";

@@ -1,1 +1,1 @@
-var mnemonic = "bird soldier album assume friend smart envelope bright bounce tone grid someone";
+var mnemonic = "between square gun doctor hedgehog violin fix genuine grid session lawn empower";

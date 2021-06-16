@@ -1,1 +1,1 @@
-var mnemonic = "grid error once electric tortoise tomorrow alpha resist unfair aim crater state";
+var mnemonic = "crack lens amount multiply destroy unusual spread coin adapt vintage dutch ritual";

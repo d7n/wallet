@@ -1,1 +1,1 @@
-var mnemonic = "traffic regret bunker tray cloth short stadium load vacant weird twist crumble";
+var mnemonic = "detail youth erode ring exhibit order buzz business broken merit kitten license";

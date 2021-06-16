@@ -1,1 +1,1 @@
-var mnemonic = "arch shuffle solution plunge emerge wife gospel expose lonely danger traffic minute";
+var mnemonic = "mechanic put suggest fancy region motor daughter unlock clutch pave kid oyster";

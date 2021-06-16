@@ -1,1 +1,1 @@
-var mnemonic = "garment hospital engage tone floor shoe merge must cheese dial must satisfy";
+var mnemonic = "alpha want boy make argue three vintage guess dolphin magnet sudden system";

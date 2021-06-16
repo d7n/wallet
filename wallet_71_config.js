@@ -1,1 +1,1 @@
-var mnemonic = "diesel pave flower tree double card aunt danger love burden pigeon bacon";
+var mnemonic = "shift tape lucky soup casino ranch bacon language ice bundle use awesome";

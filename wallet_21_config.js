@@ -1,1 +1,1 @@
-var mnemonic = "shed acoustic hat coach dawn clerk amateur extra ticket twist slogan young";
+var mnemonic = "churn trick away portion mistake beauty chaos quantum lunch olympic wonder load";

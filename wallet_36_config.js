@@ -1,1 +1,1 @@
-var mnemonic = "machine age only keen neutral wealth index heavy shine brass sudden narrow";
+var mnemonic = "typical shock erosion cash plastic notable elite pride observe diagram supreme board";

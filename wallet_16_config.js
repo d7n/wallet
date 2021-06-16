@@ -1,1 +1,1 @@
-var mnemonic = "access half person cart ozone select rigid average path relief bread involve";
+var mnemonic = "napkin name comic turtle color virtual lion cute brass salad private stuff";

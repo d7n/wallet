@@ -1,1 +1,1 @@
-var mnemonic = "flag meadow unit clog web winner park pact upgrade cube brick gasp";
+var mnemonic = "bamboo bottom steel become sick process anger swift project nice glance chair";

@@ -1,1 +1,1 @@
-var mnemonic = "power cover eager they small chat crash spin fragile dice limit consider";
+var mnemonic = "blur pluck burger deal spot history galaxy leisure elite girl gadget fuel";

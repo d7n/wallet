@@ -1,1 +1,1 @@
-var mnemonic = "ethics ill patrol dynamic sound frown message hub denial major spatial original";
+var mnemonic = "advance media upon post ability evil loyal exhaust armor planet cash loud";

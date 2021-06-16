@@ -1,1 +1,1 @@
-var mnemonic = "novel story model attract place between cabbage ready brother gym thrive mad";
+var mnemonic = "muscle day copy purity average tribe same foster kidney brother oxygen water";

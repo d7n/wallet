@@ -1,1 +1,1 @@
-var mnemonic = "guide race melt detect whale head horn maid cluster ranch team boring";
+var mnemonic = "critic seat else wedding total journey vault news degree cabin steak stage";

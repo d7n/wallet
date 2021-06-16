@@ -1,1 +1,1 @@
-var mnemonic = "recall liquid vapor breeze course child float avoid element card cup equip";
+var mnemonic = "ginger ghost vital circle inquiry voyage warrior bread tomato inform ship hood";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote capable brand stamp urge they cream expose almost miss genre program";
+var mnemonic = "risk blue absent record erase marriage flower sausage wage fossil neglect original";

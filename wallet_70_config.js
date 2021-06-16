@@ -1,1 +1,1 @@
-var mnemonic = "right noble small boss emotion gas maid physical remember stadium robot cash";
+var mnemonic = "myself twelve salt relax goddess question accuse torch spatial copper top crater";

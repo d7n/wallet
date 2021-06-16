@@ -1,1 +1,1 @@
-var mnemonic = "urge artwork later elder boat ramp journey borrow museum title dove swap";
+var mnemonic = "green super sword merge emotion culture giraffe insect vibrant figure fun suggest";

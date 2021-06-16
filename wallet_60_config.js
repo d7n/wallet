@@ -1,1 +1,1 @@
-var mnemonic = "kit umbrella lamp purchase subject play slot brush sell pause put exercise";
+var mnemonic = "gather reduce prize attract action bus antenna coin hover affair alpha ceiling";

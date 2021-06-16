@@ -1,1 +1,1 @@
-var mnemonic = "scene core clutch fortune common coral problem general dose logic brush hurdle";
+var mnemonic = "describe brick accident armed weapon extra lesson monitor fashion chaos order poverty";

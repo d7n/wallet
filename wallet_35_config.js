@@ -1,1 +1,1 @@
-var mnemonic = "sand tail fix offer foil south base share left rally fall also";
+var mnemonic = "burst proof balance horror panda route tilt aerobic myself hub butter cruel";

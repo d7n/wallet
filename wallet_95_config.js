@@ -1,1 +1,1 @@
-var mnemonic = "jeans curve winner chunk orange safe slow spend morning tiny whisper pill";
+var mnemonic = "stem loyal song field harbor profit tooth legend swarm oppose attitude melt";

@@ -1,1 +1,1 @@
-var mnemonic = "sand inspire pilot salt wisdom unique expect shoot fury grow grace destroy";
+var mnemonic = "donor fence car eyebrow wild goose picture south blood clarify say loop";

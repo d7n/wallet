@@ -1,1 +1,1 @@
-var mnemonic = "credit puzzle today vibrant ensure bacon deliver cat cook lake angle urge";
+var mnemonic = "ladder sugar love pulp student popular nest swarm shock public myself embrace";

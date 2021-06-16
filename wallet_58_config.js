@@ -1,1 +1,1 @@
-var mnemonic = "fork island nose mixed noise neither nature moon buffalo guide fatal weird";
+var mnemonic = "hurt way prosper place another random steel upset record copper skirt modify";

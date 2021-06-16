@@ -1,1 +1,1 @@
-var mnemonic = "crash dad learn void claw kit silver aim split analyst tape program";
+var mnemonic = "average retreat chicken cherry crawl venue actual genuine news trip piece ensure";

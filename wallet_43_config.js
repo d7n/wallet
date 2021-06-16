@@ -1,1 +1,1 @@
-var mnemonic = "assist symbol dinner fall culture ancient auction focus identify city title lazy";
+var mnemonic = "unfair loan lion monkey buyer planet library birth glue people beach stable";

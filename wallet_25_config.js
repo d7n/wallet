@@ -1,1 +1,1 @@
-var mnemonic = "flat awful myself group liberty sound person attitude audit hard other mom";
+var mnemonic = "client fork property fabric pond undo expect unable cave eye park network";

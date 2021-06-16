@@ -1,1 +1,1 @@
-var mnemonic = "sting pull antenna clarify black insect rack life kitchen around burden drink";
+var mnemonic = "busy banner burst whale snow problem nation fossil consider hybrid vast observe";

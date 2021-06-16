@@ -1,1 +1,1 @@
-var mnemonic = "coil repeat improve profit scan close flight wing oven vocal swallow cave";
+var mnemonic = "page basket youth pledge sorry episode animal vapor open lift rhythm hello";

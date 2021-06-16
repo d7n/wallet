@@ -1,1 +1,1 @@
-var mnemonic = "someone empty liquid repeat solve absorb wolf idea warrior lift frozen aunt";
+var mnemonic = "nephew drip patrol duck fitness reduce easily already box merry walk visual";

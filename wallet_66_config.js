@@ -1,1 +1,1 @@
-var mnemonic = "thunder wise garden slam crucial umbrella zebra kitchen smart cart trash wasp";
+var mnemonic = "measure indicate please about learn subway clog benefit stuff useful use pair";

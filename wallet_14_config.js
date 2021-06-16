@@ -1,1 +1,1 @@
-var mnemonic = "woman help defense hazard royal endless panda stand avoid domain pair level";
+var mnemonic = "clean stem aspect hurry trash trumpet deposit purchase vintage indoor swift next";

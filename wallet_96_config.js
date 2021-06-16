@@ -1,1 +1,1 @@
-var mnemonic = "orange satisfy stem zero balcony delay sibling flush neutral robot gain denial";
+var mnemonic = "hotel burst once cradle ranch pattern quick frequent hidden attitude joke before";

@@ -1,1 +1,1 @@
-var mnemonic = "wool gather egg super crater arch inflict proof slab mystery original become";
+var mnemonic = "around title panel member fine fit ignore stool state more rely hub";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed point exchange soldier either stay elite empty toward clever mesh door";
+var mnemonic = "tissue again end road elegant oblige cup pen blossom knife dizzy cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "ready index rug suit vacuum announce place dwarf drink arena own twelve";
+var mnemonic = "wool siren private strong disorder grit sort river hill wink route window";

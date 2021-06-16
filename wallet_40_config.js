@@ -1,1 +1,1 @@
-var mnemonic = "comfort genre wreck release any bring rotate music lonely taste cream gas";
+var mnemonic = "measure cabbage gas express erase skin collect clap mesh suggest indoor leopard";

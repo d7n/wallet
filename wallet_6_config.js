@@ -1,1 +1,1 @@
-var mnemonic = "foster peanut noble only practice give achieve scan feature bike sugar kingdom";
+var mnemonic = "ankle close meadow celery illegal slot meat exercise walnut achieve one fluid";
