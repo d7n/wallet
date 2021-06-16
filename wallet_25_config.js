@@ -1,1 +1,1 @@
-var mnemonic = "much fluid hollow business boat ridge torch dawn neck suspect stem pact";
+var mnemonic = "length lottery hill cross agree lucky claw dose express scene unfair velvet";

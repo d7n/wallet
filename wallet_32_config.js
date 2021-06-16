@@ -1,1 +1,1 @@
-var mnemonic = "beef vocal safe twist rubber escape panther father loyal absurd duty north";
+var mnemonic = "fury foster cricket crew raccoon balance bridge amateur famous issue gossip short";

@@ -1,1 +1,1 @@
-var mnemonic = "east spoon soda ten able buyer budget special civil buyer tool marriage";
+var mnemonic = "finish pistol slender wealth gas way merry toast enter churn bulb chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "luxury hour amount guide lift enact cabin reveal coconut prize fuel bone";
+var mnemonic = "grief eagle flock leave humble social drop genuine burden awesome lyrics snow";

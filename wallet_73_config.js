@@ -1,1 +1,1 @@
-var mnemonic = "throw carbon produce blush decrease process liar manual winter elbow paddle oxygen";
+var mnemonic = "situate spring extra grab vendor insane quit fancy amused grace shoulder come";

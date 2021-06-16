@@ -1,1 +1,1 @@
-var mnemonic = "cigar process desert tragic mom drive hidden broccoli tent engage net angry";
+var mnemonic = "agent camera fatal mule cliff junior brown moon quick brave funny today";

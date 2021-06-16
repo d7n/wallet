@@ -1,1 +1,1 @@
-var mnemonic = "manage news bless quality act walnut reunion energy embrace robot vivid lonely";
+var mnemonic = "broccoli slight manage swim undo they exile jungle explain fortune glare infant";

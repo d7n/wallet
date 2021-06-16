@@ -1,1 +1,1 @@
-var mnemonic = "shrimp food switch puppy hundred cereal adapt race gift fluid nest slender";
+var mnemonic = "various strike trip favorite wave body miracle door measure scare ecology kidney";

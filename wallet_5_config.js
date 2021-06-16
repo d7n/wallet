@@ -1,1 +1,1 @@
-var mnemonic = "sample festival decorate gloom basic pull brain raccoon useful impulse hill arctic";
+var mnemonic = "trim vocal scissors annual collect normal seat raw people develop target wrap";

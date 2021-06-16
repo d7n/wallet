@@ -1,1 +1,1 @@
-var mnemonic = "merge empower fox armor ankle page fiscal coconut fragile such door enter";
+var mnemonic = "security ostrich place lemon bar hollow camera local cloth consider inform copy";

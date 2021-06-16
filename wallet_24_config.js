@@ -1,1 +1,1 @@
-var mnemonic = "opinion flat fortune genius rigid find budget ready weasel repair size warrior";
+var mnemonic = "current barely estate deliver vessel home picnic release echo hint donkey decide";

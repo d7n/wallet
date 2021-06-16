@@ -1,1 +1,1 @@
-var mnemonic = "crane knock void liar still ski tattoo what blush pulp output raccoon";
+var mnemonic = "mandate fix wise gesture month light fiction equip solid mixed mutual view";

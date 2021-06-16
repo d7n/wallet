@@ -1,1 +1,1 @@
-var mnemonic = "raw cook fork dismiss lady output liberty banner club inside phone faith";
+var mnemonic = "library media finish soda logic stadium scout typical planet camp close reveal";

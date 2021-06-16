@@ -1,1 +1,1 @@
-var mnemonic = "quit guard cat vote slow middle little flight waste change dragon bring";
+var mnemonic = "exhibit uniform canoe coconut belt shrimp nature mean name emerge devote flower";

@@ -1,1 +1,1 @@
-var mnemonic = "junior ranch steak deny confirm scale bicycle busy love myself hawk yard";
+var mnemonic = "turtle secret goddess evoke foam resist either kiwi problem track rotate step";

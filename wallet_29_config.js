@@ -1,1 +1,1 @@
-var mnemonic = "audit pair woman false torch drop flash clarify van theory deputy magnet";
+var mnemonic = "issue tag slow blade surface grant reject domain exist blue loud media";

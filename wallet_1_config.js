@@ -1,1 +1,1 @@
-var mnemonic = "stairs exchange humble toddler amateur coil six meadow loyal relief acquire appear";
+var mnemonic = "obey exchange bitter direct barrel festival rifle abstract acoustic cage buyer fossil";

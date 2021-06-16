@@ -1,1 +1,1 @@
-var mnemonic = "project trap reject clarify pink fiber brain april into tooth hold vivid";
+var mnemonic = "auto lab spice multiply trend traffic slab dance bench negative bubble outside";

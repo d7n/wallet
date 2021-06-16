@@ -1,1 +1,1 @@
-var mnemonic = "basket cupboard crowd barely motor twist rich saddle rapid lesson gift slogan";
+var mnemonic = "when empty hire dream clutch impose teach choice grocery scheme neck main";

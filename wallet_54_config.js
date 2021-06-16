@@ -1,1 +1,1 @@
-var mnemonic = "acoustic tape legal base bubble gown clutch sheriff foil brother shrimp pumpkin";
+var mnemonic = "cactus evidence moral link outdoor consider predict sea simple civil knife puppy";

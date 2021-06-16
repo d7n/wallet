@@ -1,1 +1,1 @@
-var mnemonic = "normal tuna gesture cable bread lottery normal roof token track right snake";
+var mnemonic = "velvet rice nuclear sting mandate frequent style shy tower unlock cousin roof";

@@ -1,1 +1,1 @@
-var mnemonic = "frog super patient split inspire leopard actress evidence subject happy mimic pigeon";
+var mnemonic = "horse rug play work thrive cattle embrace element indoor accident pig property";

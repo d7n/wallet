@@ -1,1 +1,1 @@
-var mnemonic = "flat impact bar joke upset blur wine detect off adult produce shallow";
+var mnemonic = "rotate bounce blur dawn fresh tree embody combine truck salmon seek stumble";

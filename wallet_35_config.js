@@ -1,1 +1,1 @@
-var mnemonic = "barely tackle adult mass egg explain member tomato apology divert wealth dinner";
+var mnemonic = "myself sell observe electric vessel raccoon alcohol cheese diagram grief demise moon";

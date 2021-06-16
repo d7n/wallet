@@ -1,1 +1,1 @@
-var mnemonic = "churn light arm match tornado gloom boy now town glory tongue again";
+var mnemonic = "special motion tray develop grow island pause siege soldier gauge border piano";

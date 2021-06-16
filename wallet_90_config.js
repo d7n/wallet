@@ -1,1 +1,1 @@
-var mnemonic = "skate gun print party skirt above steak manual nothing forget genre whisper";
+var mnemonic = "dumb hole board extend sight they raven garment like glimpse sustain delay";

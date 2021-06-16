@@ -1,1 +1,1 @@
-var mnemonic = "stay manage glove loan waste empower rack scout exotic silk material diamond";
+var mnemonic = "swift universe artwork enroll emerge planet empower submit decrease donkey frost still";

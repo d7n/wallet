@@ -1,1 +1,1 @@
-var mnemonic = "size pilot share sweet defy earth sheriff meat giraffe chase surge pioneer";
+var mnemonic = "two pelican wing angle board faith moral chair plunge palace inherit phone";

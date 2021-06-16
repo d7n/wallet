@@ -1,1 +1,1 @@
-var mnemonic = "frown stone timber amateur novel sea squeeze series various cannon worry fruit";
+var mnemonic = "vote chicken cupboard liberty purse roof shift treat erode soldier sort culture";

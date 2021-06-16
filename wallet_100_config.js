@@ -1,1 +1,1 @@
-var mnemonic = "melody drive december dirt very boring network glimpse burst shock among valid";
+var mnemonic = "clarify endless nominee pause tone wash next frost solar verify cinnamon stuff";

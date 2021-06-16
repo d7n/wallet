@@ -1,1 +1,1 @@
-var mnemonic = "bike leader despair frozen gap ostrich faculty glue slight tumble attitude pill";
+var mnemonic = "system visual panther flush access lens solve symbol account alpha hub brain";

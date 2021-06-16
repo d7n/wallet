@@ -1,1 +1,1 @@
-var mnemonic = "flavor mercy scrub sell blossom art naive flame cactus armed table jelly";
+var mnemonic = "casino art mirror original betray never because federal diesel flip reduce resist";

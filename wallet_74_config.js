@@ -1,1 +1,1 @@
-var mnemonic = "tonight alcohol fragile drift shine state sun random athlete approve behave balcony";
+var mnemonic = "swim doll border breeze this host decade violin weekend loop gossip leave";

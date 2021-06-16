@@ -1,1 +1,1 @@
-var mnemonic = "device acid torch service novel swim shop agree cry mushroom exhaust ramp";
+var mnemonic = "garment bomb afford latin jelly chalk clown certain improve mix expand else";

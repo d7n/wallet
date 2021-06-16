@@ -1,1 +1,1 @@
-var mnemonic = "load sick essay draw illegal ramp size immense betray autumn rocket pilot";
+var mnemonic = "giant lemon demand pause thrive junk icon fat special beauty spring sea";

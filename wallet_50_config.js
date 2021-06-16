@@ -1,1 +1,1 @@
-var mnemonic = "wreck snap palace process good ceiling modify fish upset more defense lamp";
+var mnemonic = "rude viable toilet combine bullet eight between leg swarm zone fiction slush";

@@ -1,1 +1,1 @@
-var mnemonic = "legal segment enough cup exchange imitate excuse slam move coffee palace abstract";
+var mnemonic = "debris toddler smart minimum airport hair minor route sea this bamboo observe";

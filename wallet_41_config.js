@@ -1,1 +1,1 @@
-var mnemonic = "sibling found twin breeze matrix dinosaur trick panda will below early home";
+var mnemonic = "nerve detail jewel resource rely stem oblige detail later heart west dirt";

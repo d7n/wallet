@@ -1,1 +1,1 @@
-var mnemonic = "pulse fringe play shaft obvious because wild uncover program fantasy cousin recall";
+var mnemonic = "spell use hazard remove clean autumn stay demand organ there proud ride";

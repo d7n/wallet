@@ -1,1 +1,1 @@
-var mnemonic = "pull notable service steel mansion deer tribe choose beauty curtain thing mushroom";
+var mnemonic = "artwork extend act deputy always lawn keep faint figure decade fragile indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "fork remind direct couch gaze firm proof blade path fresh armed scissors";
+var mnemonic = "stove express luxury owner section soccer motor melody manual history digital crater";

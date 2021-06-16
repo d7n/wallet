@@ -1,1 +1,1 @@
-var mnemonic = "hire zebra dance diesel tourist slow will element demise evil mammal frozen";
+var mnemonic = "quarter shine cliff broken balcony vanish logic person then cable announce light";

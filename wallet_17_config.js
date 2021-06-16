@@ -1,1 +1,1 @@
-var mnemonic = "exit laugh warrior robust neutral answer jungle barely decrease salute spring select";
+var mnemonic = "arctic peasant corn neither magic move trend utility fade local hurt october";

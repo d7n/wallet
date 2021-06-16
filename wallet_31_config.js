@@ -1,1 +1,1 @@
-var mnemonic = "twist trust shop verb heavy fury run will gentle wealth icon rug";
+var mnemonic = "robust blade piece nature lyrics picnic pattern wonder able surprise torch hen";

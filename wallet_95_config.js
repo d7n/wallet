@@ -1,1 +1,1 @@
-var mnemonic = "wave horn baby deliver flock decline web antique mail nut card casino";
+var mnemonic = "clown true gather clean rural right child dry together fox speed alarm";

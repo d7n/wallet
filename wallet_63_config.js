@@ -1,1 +1,1 @@
-var mnemonic = "school interest safe company ginger melody metal cereal mobile pattern permit aunt";
+var mnemonic = "zebra fiction across taste wood oval friend shrug glove fade whisper crawl";

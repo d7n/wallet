@@ -1,1 +1,1 @@
-var mnemonic = "hurt survey hood jump glory educate result eager young seminar cloud captain";
+var mnemonic = "bracket team scout crash unlock giant beef pulse garment quality height amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "junior pact below daughter firm disease spot spawn health kangaroo kitchen verb";
+var mnemonic = "blur cage canoe sign matter evil barrel cube monster pottery tragic rich";

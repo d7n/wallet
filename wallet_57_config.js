@@ -1,1 +1,1 @@
-var mnemonic = "bench episode pave crop rebuild elder aerobic trend diagram jealous use cause";
+var mnemonic = "weekend furnace talk bring burden clutch vocal tourist spoil festival exile song";

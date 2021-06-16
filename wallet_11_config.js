@@ -1,1 +1,1 @@
-var mnemonic = "act thought gain maximum glove other pond truck planet bright goose couple";
+var mnemonic = "flush face dry pottery punch carpet involve option say fun chronic pilot";

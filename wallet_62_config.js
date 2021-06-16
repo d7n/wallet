@@ -1,1 +1,1 @@
-var mnemonic = "aspect slam donkey away zero swap lake witness labor nature anchor drastic";
+var mnemonic = "rice eye employ medal age alien merry capable route mosquito south abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond energy license vacant crowd tomorrow hire brown budget gate blanket fatal";
+var mnemonic = "safe simple other hat amateur subject unveil arrest tongue asthma allow blossom";

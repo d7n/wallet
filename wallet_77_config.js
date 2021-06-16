@@ -1,1 +1,1 @@
-var mnemonic = "hill raven offer check place actress wood three traffic toward pretty tonight";
+var mnemonic = "claim spider glimpse grief farm steak donkey master employ icon globe shine";

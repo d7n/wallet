@@ -1,1 +1,1 @@
-var mnemonic = "rough radio disorder suggest celery foam spirit follow steak project excuse shield";
+var mnemonic = "display execute split shiver clutch able nation useful inmate business pretty they";

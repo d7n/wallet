@@ -1,1 +1,1 @@
-var mnemonic = "alpha bachelor oval scrap mom spawn post hire fury equal bubble define";
+var mnemonic = "gain can garage sand alpha under chapter sugar spoon february giant novel";

@@ -1,1 +1,1 @@
-var mnemonic = "habit glue oak shine tackle coil habit spirit dilemma agent text vicious";
+var mnemonic = "jar twenty oppose color hole ignore wrist opera install excite unable surround";

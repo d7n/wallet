@@ -1,1 +1,1 @@
-var mnemonic = "cover remind amount desert staff resemble month wash distance brass elevator recycle";
+var mnemonic = "spell coast fly ill mobile shell item scale armor odor piece treat";

@@ -1,1 +1,1 @@
-var mnemonic = "tunnel equal column critic swap piano arch seminar duty web tribe knee";
+var mnemonic = "much coffee anxiety problem bread hold globe enough use rib artwork amount";

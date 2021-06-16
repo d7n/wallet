@@ -1,1 +1,1 @@
-var mnemonic = "source farm rule soon truck dutch enemy depend rude suit disorder disorder";
+var mnemonic = "seed fatigue peanut glass spatial case tower peace light vivid boring sustain";

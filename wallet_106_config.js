@@ -1,1 +1,1 @@
-var mnemonic = "rhythm weasel fence twice dentist fury spawn enforce cattle diagram crowd gaze";
+var mnemonic = "state opera father choose gym dinosaur flavor great fossil casino daring sad";

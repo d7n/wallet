@@ -1,1 +1,1 @@
-var mnemonic = "head walnut swim various gasp old burger expose patrol picture light either";
+var mnemonic = "maximum toilet wife scatter voice country balcony witness parrot neck address width";

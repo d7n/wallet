@@ -1,1 +1,1 @@
-var mnemonic = "scheme genuine believe lunch protect mention make over hotel giant drop guess";
+var mnemonic = "local milk pink toddler toast siren tortoise carbon fossil copper endless truly";

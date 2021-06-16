@@ -1,1 +1,1 @@
-var mnemonic = "during swamp time resemble park brass divert rhythm science pair inch sort";
+var mnemonic = "ride improve stool axis cook wait animal dismiss train deputy silly flight";

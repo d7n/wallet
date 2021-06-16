@@ -1,1 +1,1 @@
-var mnemonic = "injury total affair safe seminar swear expose quantum judge theory account neutral";
+var mnemonic = "bubble decline elevator select twin rain forward era ranch spot mixture domain";

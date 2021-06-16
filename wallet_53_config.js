@@ -1,1 +1,1 @@
-var mnemonic = "useless monkey saddle hand agree drill list foster foil ecology toddler poet";
+var mnemonic = "stick bench modify ceiling you intact fortune purity carbon reject matter tennis";

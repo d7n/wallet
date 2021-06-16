@@ -1,1 +1,1 @@
-var mnemonic = "lizard loud dance gain wait pizza flip theory build friend pizza amount";
+var mnemonic = "hill genius pudding involve music afford devote ship fog option debate logic";

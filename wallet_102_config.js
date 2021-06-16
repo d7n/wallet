@@ -1,1 +1,1 @@
-var mnemonic = "ladder nominee ten when replace abuse relief waste fashion soap check blade";
+var mnemonic = "afraid stuff lava mercy trash knee eight ladder saddle illness raw lumber";

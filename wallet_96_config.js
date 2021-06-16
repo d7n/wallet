@@ -1,1 +1,1 @@
-var mnemonic = "ancient jungle they stairs unable floor trash asthma because early scare shallow";
+var mnemonic = "stock law spare over tortoise drum chest cycle salt cram athlete bag";

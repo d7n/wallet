@@ -1,1 +1,1 @@
-var mnemonic = "insane shove rifle erode mixed symptom regret trumpet chief pigeon suffer daring";
+var mnemonic = "elder unable cross vote mother deposit ramp outer peace region cram address";

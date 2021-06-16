@@ -1,1 +1,1 @@
-var mnemonic = "thank wage series maze visa require shuffle thing valley mom day swift";
+var mnemonic = "receive vital dinner shoulder silk artist post rice blanket skate hope crystal";

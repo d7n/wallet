@@ -1,1 +1,1 @@
-var mnemonic = "snack decline rigid path summer attend mail volume april entry bind laugh";
+var mnemonic = "bottom swear mercy adult orchard also aisle valve then income oxygen advice";

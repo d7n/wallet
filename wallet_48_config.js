@@ -1,1 +1,1 @@
-var mnemonic = "opinion pulse egg hidden deer purity certain forward rapid eager live erode";
+var mnemonic = "explain rally rate enact romance churn stem chimney deputy program execute bird";

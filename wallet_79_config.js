@@ -1,1 +1,1 @@
-var mnemonic = "salmon upset juice dwarf skate remember danger pledge sudden south foil agent";
+var mnemonic = "sentence system option notice under segment vivid solution muffin opinion beef measure";

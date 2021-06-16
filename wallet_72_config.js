@@ -1,1 +1,1 @@
-var mnemonic = "special message appear absurd casino hollow cereal moral name shed flavor mask";
+var mnemonic = "rally still mother relief entire next have pumpkin hedgehog luggage sun captain";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle candy need dinosaur mutual cabbage divert green load fashion ozone rail";
+var mnemonic = "speak manage domain inflict moral general cheap plate laundry endorse primary chef";

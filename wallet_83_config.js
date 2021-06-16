@@ -1,1 +1,1 @@
-var mnemonic = "gas science behave artist toast clarify first evolve replace happy clock digital";
+var mnemonic = "furnace page scatter moral best amount country infant country era hospital curve";

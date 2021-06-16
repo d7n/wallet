@@ -1,1 +1,1 @@
-var mnemonic = "human tell hurry argue cram shove turn avoid ketchup unaware fringe pumpkin";
+var mnemonic = "lecture artwork grief know modify borrow century rough green gauge patient kit";

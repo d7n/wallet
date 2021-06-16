@@ -1,1 +1,1 @@
-var mnemonic = "runway excuse matter rubber syrup tortoise inflict blanket dizzy debate soda you";
+var mnemonic = "suspect employ cupboard false assume faith salmon wife river upgrade weasel umbrella";

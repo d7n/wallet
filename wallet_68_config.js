@@ -1,1 +1,1 @@
-var mnemonic = "honey feed arm dash runway worth camera velvet payment reflect predict outdoor";
+var mnemonic = "fabric urban hockey athlete sad match village paddle grunt clean report conduct";

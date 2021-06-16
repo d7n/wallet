@@ -1,1 +1,1 @@
-var mnemonic = "dream host medal polar hazard measure horror fortune common visual finger soda";
+var mnemonic = "become clump jungle chef lottery canoe pride pizza forward mind have clutch";

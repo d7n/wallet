@@ -1,1 +1,1 @@
-var mnemonic = "sad blood domain easy mosquito equip color unable safe scale will negative";
+var mnemonic = "flame reject trim burden pulse news tonight era hard worth achieve clog";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth giraffe exercise reason cake logic six huge pioneer fresh master lumber";
+var mnemonic = "danger elevator pudding essence embrace spoil corn tuition wheel motor initial bless";

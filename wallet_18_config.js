@@ -1,1 +1,1 @@
-var mnemonic = "dynamic soul burden purchase pear aware public unveil modify machine plastic honey";
+var mnemonic = "bike relax wise cliff token cloth scrub exile october blush invite order";

@@ -1,1 +1,1 @@
-var mnemonic = "face alter broccoli swim opera other raccoon sphere car draw luggage gesture";
+var mnemonic = "toy blood fix rice fantasy useful spend moral aerobic weapon ancient craft";

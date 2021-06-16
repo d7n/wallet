@@ -1,1 +1,1 @@
-var mnemonic = "couch apology usage head humble hair mosquito furnace bronze warm mountain unusual";
+var mnemonic = "venture immense address spread summer machine squeeze visual warfare family comfort comic";

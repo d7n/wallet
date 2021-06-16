@@ -1,1 +1,1 @@
-var mnemonic = "bike defense tower cycle beyond task permit same gaze crystal verify discover";
+var mnemonic = "crush north version mother acquire umbrella alert improve accident own harsh maximum";

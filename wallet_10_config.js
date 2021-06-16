@@ -1,1 +1,1 @@
-var mnemonic = "release kid labor devote wrap short immune trade evoke camera scout portion";
+var mnemonic = "loop hybrid screen swear never swim board thumb lizard bachelor accuse announce";

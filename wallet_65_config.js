@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin multiply age quality speed message miracle zero carry finger fitness flock";
+var mnemonic = "toilet guilt please happy extra moment grace smoke rapid exhibit fox penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "okay element glow uphold bracket document science senior couple cat view tonight";
+var mnemonic = "hour inhale car figure blind lizard knife fragile second prosper imitate typical";

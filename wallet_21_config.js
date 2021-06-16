@@ -1,1 +1,1 @@
-var mnemonic = "mass rapid view filter camera fly happy field discover prison notable inflict";
+var mnemonic = "dentist wonder hope card monitor birth clap inch they merry wheel moon";
