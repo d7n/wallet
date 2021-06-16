@@ -1,1 +1,1 @@
-var mnemonic = "nothing crew news swallow dice blast stool spin little penalty usual panther";
+var mnemonic = "gauge betray confirm wife pond decide gold express erode ostrich grief sudden";

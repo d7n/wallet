@@ -1,1 +1,1 @@
-var mnemonic = "erosion loud mercy invest humor knee symbol lab fork neglect city bargain";
+var mnemonic = "drink print train acoustic marriage six exhaust ritual miracle oppose chase gown";

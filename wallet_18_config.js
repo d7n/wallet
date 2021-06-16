@@ -1,1 +1,1 @@
-var mnemonic = "escape crunch sudden orchard meat service base people safe later blanket once";
+var mnemonic = "concert south practice exhaust buyer powder output caught snack ugly virtual trend";

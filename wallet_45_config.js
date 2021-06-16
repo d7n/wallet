@@ -1,1 +1,1 @@
-var mnemonic = "key art wet kitchen ceiling debate spoil century memory icon once patient";
+var mnemonic = "renew alter jump merit cross boat expand festival pulp desk unusual abstract";

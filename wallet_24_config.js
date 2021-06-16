@@ -1,1 +1,1 @@
-var mnemonic = "hold rapid mind spy quit vast hour reveal piano abstract spread youth";
+var mnemonic = "fatal yellow snack seek timber insect ecology certain keep average village stove";

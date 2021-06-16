@@ -1,1 +1,1 @@
-var mnemonic = "hello tackle monster photo only abuse vicious remove entire duty sight comfort";
+var mnemonic = "trade until buffalo allow naive live also settle sting erode door gesture";

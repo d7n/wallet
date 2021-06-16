@@ -1,1 +1,1 @@
-var mnemonic = "glimpse powder also cloth great student february upset frost major lava confirm";
+var mnemonic = "visit obvious bracket ride kiwi already nice delay jaguar orchard poet sugar";

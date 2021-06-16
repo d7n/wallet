@@ -1,1 +1,1 @@
-var mnemonic = "fade spot able virus neglect swing glide frozen gain tongue measure patient";
+var mnemonic = "orbit area oak brisk entire mosquito deal verify creek filter blame walnut";

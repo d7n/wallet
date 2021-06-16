@@ -1,1 +1,1 @@
-var mnemonic = "lend tonight nut mushroom need art proof traffic want boost moral develop";
+var mnemonic = "replace worth over stairs demise brother century nerve jungle lawsuit file faith";

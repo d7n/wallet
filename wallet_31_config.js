@@ -1,1 +1,1 @@
-var mnemonic = "body fetch tray riot divide myself exchange slam either relax tiger clip";
+var mnemonic = "canyon surge liquid enlist join piece grace rain choice invest another jeans";

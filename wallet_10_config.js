@@ -1,1 +1,1 @@
-var mnemonic = "carpet above wing place abstract quality brass draft receive west spatial cross";
+var mnemonic = "rival remember clutch spawn fence local song syrup renew used spoil benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "exit chimney bomb moon analyst primary truck interest april private whisper anger";
+var mnemonic = "transfer slight sniff blade reunion year bench easily pink abuse naive type";

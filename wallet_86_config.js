@@ -1,1 +1,1 @@
-var mnemonic = "day test front drip ride arrive final attend duty lend nasty salute";
+var mnemonic = "cup version pen amount acquire squeeze ethics client dice canyon sleep buddy";

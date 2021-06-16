@@ -1,1 +1,1 @@
-var mnemonic = "guard honey fat actual style capital pond also apart rescue latin veteran";
+var mnemonic = "betray split road foil wire crew ghost music also saddle disagree arrest";

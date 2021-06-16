@@ -1,1 +1,1 @@
-var mnemonic = "muffin tooth sausage short join tribe scare fiction rocket cool enemy blur";
+var mnemonic = "desk judge estate faint unusual chest trial erupt kiwi alone omit search";

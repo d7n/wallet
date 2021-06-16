@@ -1,1 +1,1 @@
-var mnemonic = "bone jelly neglect axis mammal gift brush arrest sausage airport space maximum";
+var mnemonic = "noble still patch novel amateur gallery friend around young armed engine salt";

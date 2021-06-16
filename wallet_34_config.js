@@ -1,1 +1,1 @@
-var mnemonic = "pelican excite blind fury box since reveal vast grocery question biology answer";
+var mnemonic = "hour subject reveal identify venue wrist body chef behave video ankle picnic";

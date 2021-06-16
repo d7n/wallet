@@ -1,1 +1,1 @@
-var mnemonic = "shiver dust design human okay chalk release select capital action else tiger";
+var mnemonic = "utility fiscal purpose coach world snap fun cargo avoid number melody stereo";

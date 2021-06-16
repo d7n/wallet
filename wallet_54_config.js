@@ -1,1 +1,1 @@
-var mnemonic = "motor universe manual sphere audit organ wealth type bird dragon thumb choose";
+var mnemonic = "affair repair dolphin mule few live develop icon attitude foot life shallow";

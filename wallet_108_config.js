@@ -1,1 +1,1 @@
-var mnemonic = "this tip castle tomato option rule kangaroo antenna sure blanket drum flag";
+var mnemonic = "science detail fatal jaguar round wasp often first change barely fortune know";

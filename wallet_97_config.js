@@ -1,1 +1,1 @@
-var mnemonic = "nephew final duck apart bulk blade material view pitch expire search news";
+var mnemonic = "gadget major level athlete twelve spider voice enrich tower grace because cliff";

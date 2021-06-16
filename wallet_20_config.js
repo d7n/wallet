@@ -1,1 +1,1 @@
-var mnemonic = "have trade repeat update utility bamboo tent gravity marble ghost forest ribbon";
+var mnemonic = "believe tunnel reform chapter dismiss segment office club penalty tomato voice own";

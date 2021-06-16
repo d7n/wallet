@@ -1,1 +1,1 @@
-var mnemonic = "bright discover offer second toast audit slogan dream athlete rigid horse remove";
+var mnemonic = "august equip cream kangaroo hospital arrange viable inner choose pull fox veteran";

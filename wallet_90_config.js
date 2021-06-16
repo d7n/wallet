@@ -1,1 +1,1 @@
-var mnemonic = "differ priority immense coral dumb second also frown ritual group cinnamon female";
+var mnemonic = "favorite soldier essence later tide vessel huge script want fix deal stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil donkey genuine state north catch embrace twist traffic kind coin face";
+var mnemonic = "slot print dolphin love maximum rotate blue cave rough deny strong parrot";

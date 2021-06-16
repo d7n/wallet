@@ -1,1 +1,1 @@
-var mnemonic = "goat spare ship worth sunny odor siren narrow moral spawn anxiety actress";
+var mnemonic = "uncle devote powder original capital brave deliver nature page one brain tent";

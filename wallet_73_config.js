@@ -1,1 +1,1 @@
-var mnemonic = "range floor recall auction brass hover shy roast flat warm analyst beach";
+var mnemonic = "cable cloud august apple veteran balance shield weapon home ride chicken list";

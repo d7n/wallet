@@ -1,1 +1,1 @@
-var mnemonic = "solve carry exercise average foam tonight dirt awful extra notice flame depart";
+var mnemonic = "dry invest key limit final infant thrive correct body spy affair monster";

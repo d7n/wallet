@@ -1,1 +1,1 @@
-var mnemonic = "business furnace trade venue music toy reform dynamic sign napkin admit fan";
+var mnemonic = "upset iron brick insect physical original delay else color soup state office";

@@ -1,1 +1,1 @@
-var mnemonic = "august pumpkin crop nominee reunion guess drive oval mimic witness company lake";
+var mnemonic = "hamster acquire black spin excess scrub decrease fashion catch worry remove bike";

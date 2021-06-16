@@ -1,1 +1,1 @@
-var mnemonic = "arrow poverty elbow situate fetch push swift brass bracket ramp ridge grief";
+var mnemonic = "prefer hazard tragic fabric intact collect unfair silly upon prosper afford happy";

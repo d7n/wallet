@@ -1,1 +1,1 @@
-var mnemonic = "ranch pitch lunar cash modify position worry weasel episode struggle rocket soft";
+var mnemonic = "radio over actor gather traffic lobster favorite post solid toward kid gym";

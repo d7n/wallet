@@ -1,1 +1,1 @@
-var mnemonic = "valve physical twin save motor naive throw demand teach scout turn giant";
+var mnemonic = "snack pencil program art midnight city note nephew tide program swamp cross";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic define crystal cupboard height pipe shift report abandon warfare write jungle";
+var mnemonic = "hammer lunar able taxi suffer kit educate upon arch because favorite health";

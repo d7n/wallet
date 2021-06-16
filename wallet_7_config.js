@@ -1,1 +1,1 @@
-var mnemonic = "mix account people team step drink grunt pepper swarm empty draw hamster";
+var mnemonic = "series offer universe trash climb deer thing blush flame black fringe idea";

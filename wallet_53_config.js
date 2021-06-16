@@ -1,1 +1,1 @@
-var mnemonic = "desk vast book lyrics change worry morning cancel office autumn chef evil";
+var mnemonic = "wing circle repair group garment tumble crystal around budget garage balcony token";

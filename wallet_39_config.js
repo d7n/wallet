@@ -1,1 +1,1 @@
-var mnemonic = "music eye blue toddler scrap chapter smoke betray hungry culture fuel taxi";
+var mnemonic = "crash bridge innocent arch pond dinner beef sheriff waste hat book term";

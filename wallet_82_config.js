@@ -1,1 +1,1 @@
-var mnemonic = "dutch east evoke magnet patient swarm essay twelve ball lady price hair";
+var mnemonic = "host loud globe supply reflect fish payment wrist expand ball bargain library";

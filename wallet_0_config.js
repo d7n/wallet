@@ -1,1 +1,1 @@
-var mnemonic = "main web humble satisfy afford bracket dust cable own system monster live";
+var mnemonic = "coconut boring dish system kite minor because nuclear burden work hazard flash";

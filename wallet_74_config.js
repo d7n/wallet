@@ -1,1 +1,1 @@
-var mnemonic = "gorilla fame author snow bring during unaware tattoo squirrel hospital other cotton";
+var mnemonic = "between road talent defy soup foster gift endorse tornado tourist photo quick";

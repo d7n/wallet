@@ -1,1 +1,1 @@
-var mnemonic = "involve comfort stage grape stamp airport vast catalog fringe pelican company danger";
+var mnemonic = "example million abuse when force quality hurdle educate riot luggage liquid vapor";

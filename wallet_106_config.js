@@ -1,1 +1,1 @@
-var mnemonic = "evil involve color left auction bright sun laptop plunge energy history trophy";
+var mnemonic = "page rebuild photo cousin horror urge embody warfare typical man family breeze";

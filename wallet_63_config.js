@@ -1,1 +1,1 @@
-var mnemonic = "head inmate sunset van adjust hockey that ridge window puzzle silent master";
+var mnemonic = "aware hire dash panic near left gaze what hill panda arctic unlock";

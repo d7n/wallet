@@ -1,1 +1,1 @@
-var mnemonic = "invite document ship spatial discover oval uncover sun embody follow skin toss";
+var mnemonic = "legend belt region dress chimney bracket mean quiz trigger today dentist motion";

@@ -1,1 +1,1 @@
-var mnemonic = "usual pink caution north priority slam banana blush width indicate spread song";
+var mnemonic = "between thunder black hard series cherry truck cable unknown problem swarm wrestle";

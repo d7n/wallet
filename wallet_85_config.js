@@ -1,1 +1,1 @@
-var mnemonic = "fall monitor screen rely pelican song onion oval source claw pistol foam";
+var mnemonic = "grit attend test cute thumb other calm play equip consider quiz easy";

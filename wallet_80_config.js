@@ -1,1 +1,1 @@
-var mnemonic = "into hard devote motion dizzy nominee remember place wisdom volcano cherry slight";
+var mnemonic = "emotion swear together goddess ill faint radio taste sustain float noble warm";

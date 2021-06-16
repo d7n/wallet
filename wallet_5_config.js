@@ -1,1 +1,1 @@
-var mnemonic = "switch lecture pig mechanic wash waste toss impulse census label bonus bone";
+var mnemonic = "busy celery huge treat real coconut rose typical brush dial print gossip";

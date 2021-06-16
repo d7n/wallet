@@ -1,1 +1,1 @@
-var mnemonic = "monkey razor audit rubber plug brown call faint lazy defy enjoy dilemma";
+var mnemonic = "web olive setup approve diary arrest grunt basket load rule half shrimp";

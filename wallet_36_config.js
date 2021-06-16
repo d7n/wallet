@@ -1,1 +1,1 @@
-var mnemonic = "tribe prepare magic unknown kingdom lucky invest outside zero fame okay goose";
+var mnemonic = "kidney warrior lesson argue lawsuit cloud own dinner retire plastic axis lucky";

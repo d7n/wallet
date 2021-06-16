@@ -1,1 +1,1 @@
-var mnemonic = "solution palace lens sadness option evolve oak horn suggest obscure quarter front";
+var mnemonic = "retire improve color fiber holiday pencil survey shop endorse powder verb isolate";

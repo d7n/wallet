@@ -1,1 +1,1 @@
-var mnemonic = "extra frequent patrol report tissue engage nothing dilemma hour strong clump during";
+var mnemonic = "amazing leave monster sun sadness turn caught kind surface balance dragon wear";

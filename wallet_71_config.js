@@ -1,1 +1,1 @@
-var mnemonic = "cool step renew void erase around plug jar useless leg cart across";
+var mnemonic = "weapon meadow burst below zebra repeat hour jar tube caught skull absent";

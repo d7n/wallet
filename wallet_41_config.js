@@ -1,1 +1,1 @@
-var mnemonic = "element item purpose collect recipe coconut cart nephew rookie oblige tower waste";
+var mnemonic = "trim craft hunt bread reject morning economy immense certain loop belt salute";

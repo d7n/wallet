@@ -1,1 +1,1 @@
-var mnemonic = "copper patient huge game upper upset panic erosion reduce arrow abandon usual";
+var mnemonic = "drop fiscal denial magic foam camp ozone wagon series arena fade goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "dust nephew claim alpha betray shadow flock please decorate half journey coral";
+var mnemonic = "shoe legal guitar slush float will exchange rigid craft fringe decline build";

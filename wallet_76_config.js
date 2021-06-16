@@ -1,1 +1,1 @@
-var mnemonic = "balcony profit kangaroo copy talent cinnamon pluck major tongue arrow flee uphold";
+var mnemonic = "power edge weekend eight flag inquiry bomb fantasy sauce purpose rib duck";

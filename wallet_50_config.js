@@ -1,1 +1,1 @@
-var mnemonic = "denial smoke gospel misery regular merit reform ghost elder soon weasel elegant";
+var mnemonic = "adjust foster tattoo observe drastic radio bounce easy father slice buddy evoke";

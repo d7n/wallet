@@ -1,1 +1,1 @@
-var mnemonic = "decorate basic fish decrease tuition impact endless auto oak snap involve vacant";
+var mnemonic = "inquiry sheriff stand gloom few napkin bubble dolphin child beyond summer table";

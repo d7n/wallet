@@ -1,1 +1,1 @@
-var mnemonic = "security disagree enforce cruise worry bamboo front asthma film sausage physical network";
+var mnemonic = "address fat dog cat mind shoe fox veteran sugar safe fan occur";

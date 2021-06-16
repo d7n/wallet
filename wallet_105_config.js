@@ -1,1 +1,1 @@
-var mnemonic = "item ramp genre toe affair volume swap add avocado demise need stable";
+var mnemonic = "jump shed roof result tonight someone second already artist velvet crowd chunk";

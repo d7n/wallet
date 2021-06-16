@@ -1,1 +1,1 @@
-var mnemonic = "obscure rocket muscle album bring print choice exercise decline season begin helmet";
+var mnemonic = "lab luggage escape dawn ketchup heart seed figure rigid spot vicious subject";

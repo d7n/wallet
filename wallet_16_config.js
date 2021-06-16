@@ -1,1 +1,1 @@
-var mnemonic = "drum fault fabric siege mesh next write sea door near habit junior";
+var mnemonic = "leaf long region manual crack game useful bronze item grant blame bean";

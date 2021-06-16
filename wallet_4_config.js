@@ -1,1 +1,1 @@
-var mnemonic = "noodle host rhythm around begin entry exclude fresh exhaust goose magnet quit";
+var mnemonic = "stuff cup slow avoid wave assume extend sand source collect jacket input";

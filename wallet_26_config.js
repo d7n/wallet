@@ -1,1 +1,1 @@
-var mnemonic = "shove hood bargain rotate fault faith nerve car advance journey surge puppy";
+var mnemonic = "lend involve walnut pave kit system dilemma tuition push initial film kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil fiscal observe flavor live song sample axis rigid modify negative west";
+var mnemonic = "genuine jelly fantasy tower grape power weekend runway reduce damp honey tenant";

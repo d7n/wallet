@@ -1,1 +1,1 @@
-var mnemonic = "route gate supreme maple marriage eye stand about hobby race mystery goose";
+var mnemonic = "unable citizen opinion inner write danger fetch kidney rally sword left possible";

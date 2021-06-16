@@ -1,1 +1,1 @@
-var mnemonic = "spider insect rookie rice rookie way where improve wine property real lounge";
+var mnemonic = "snow skull desk diary pave connect drift section blur ritual deal symbol";

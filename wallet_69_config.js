@@ -1,1 +1,1 @@
-var mnemonic = "repair avoid grow angle brisk chase venue tackle found embrace onion riot";
+var mnemonic = "city crawl mean bus mosquito recall call squeeze always lobster oven check";

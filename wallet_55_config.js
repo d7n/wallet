@@ -1,1 +1,1 @@
-var mnemonic = "sleep town interest century best veteran wreck mango genre rent away where";
+var mnemonic = "flat certain enforce border chuckle eagle clever icon member arch tank never";

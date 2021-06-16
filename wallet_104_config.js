@@ -1,1 +1,1 @@
-var mnemonic = "weapon goddess gaze train large sweet climb rely useful advice couch priority";
+var mnemonic = "timber axis wine movie group tooth below enemy measure safe abstract loud";

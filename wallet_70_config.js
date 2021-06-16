@@ -1,1 +1,1 @@
-var mnemonic = "patch zone venture salmon two rabbit glance forward typical immense donate middle";
+var mnemonic = "horror thing dove special artefact swift entry glare solve echo achieve inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "all option hello vivid field dizzy island elegant earn knee response photo";
+var mnemonic = "electric denial kite rich castle kitten glide food achieve toast runway dawn";

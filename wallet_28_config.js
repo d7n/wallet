@@ -1,1 +1,1 @@
-var mnemonic = "field dad orbit close wealth owner autumn erase predict basic adapt work";
+var mnemonic = "gown guitar wasp ship hair verb law useless fever awesome animal ready";

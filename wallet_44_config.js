@@ -1,1 +1,1 @@
-var mnemonic = "black coin couple subway youth palm click jar lumber machine replace frost";
+var mnemonic = "saddle consider online bomb broom pig mercy clever cute danger switch visual";

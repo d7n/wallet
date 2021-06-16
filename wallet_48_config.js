@@ -1,1 +1,1 @@
-var mnemonic = "oblige math wreck code surprise season shuffle never drift caution peace script";
+var mnemonic = "report letter fault win creek skirt world upgrade ribbon lucky era happy";

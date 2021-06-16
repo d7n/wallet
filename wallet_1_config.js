@@ -1,1 +1,1 @@
-var mnemonic = "ability save nose come turn board second subway festival sweet need girl";
+var mnemonic = "fluid ozone bulb exile warm scheme fiscal erupt bench bench frost glance";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry debris ancient adult crawl runway marriage also miss curtain dry legal";
+var mnemonic = "symptom tourist violin cliff faint hard gasp cotton couple orient yard force";

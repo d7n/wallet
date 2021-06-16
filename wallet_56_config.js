@@ -1,1 +1,1 @@
-var mnemonic = "mammal coyote choose cook exotic walnut cream unfair sun save goddess cry";
+var mnemonic = "name brother quiz come clog champion mutual stairs envelope language tornado theory";

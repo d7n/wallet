@@ -1,1 +1,1 @@
-var mnemonic = "pencil mouse trouble goat easy bone afford olympic fade silent solid eye";
+var mnemonic = "code once meat skin milk orchard virus auto alpha skate bundle boy";

@@ -1,1 +1,1 @@
-var mnemonic = "law three grain clay essence unaware idle cupboard fit casual decorate true";
+var mnemonic = "loyal dune ask split over juice ordinary weasel flame such guess lumber";

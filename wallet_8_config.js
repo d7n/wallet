@@ -1,1 +1,1 @@
-var mnemonic = "frown cake picture advice alpha shed noble size maximum happy myself possible";
+var mnemonic = "decrease floor enroll project rough viable ocean payment dragon trial shrimp bonus";

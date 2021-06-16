@@ -1,1 +1,1 @@
-var mnemonic = "negative trap daughter object century exercise what drastic one equal angry emerge";
+var mnemonic = "outside mind liquid oven labor swift coyote real effort scrub offer jealous";

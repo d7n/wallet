@@ -1,1 +1,1 @@
-var mnemonic = "want fashion found balcony pulse reveal security burst strong lock task muscle";
+var mnemonic = "keen bargain float dynamic museum slim invest daring typical another assume plastic";

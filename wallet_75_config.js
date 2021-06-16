@@ -1,1 +1,1 @@
-var mnemonic = "unveil engage wash feature antique border father twenty loud gold crystal today";
+var mnemonic = "extra visa silly spy bulb twin wing document follow dragon reduce couch";

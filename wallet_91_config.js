@@ -1,1 +1,1 @@
-var mnemonic = "absorb grit crouch insane acid visa journey alone spice gorilla sense spin";
+var mnemonic = "noise bid damage space remember series rubber syrup sentence depart plunge elbow";

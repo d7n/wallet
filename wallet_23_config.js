@@ -1,1 +1,1 @@
-var mnemonic = "flavor chair apart appear exotic squeeze pool addict rocket resource home pottery";
+var mnemonic = "waste comic poem foil sister rate region satoshi chef invest ten ripple";

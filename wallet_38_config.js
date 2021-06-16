@@ -1,1 +1,1 @@
-var mnemonic = "lunar sleep comic cereal question embody opera nation valid capable tourist exact";
+var mnemonic = "sentence horn gorilla uncle bunker match curtain vanish invest head wheat skin";

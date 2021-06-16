@@ -1,1 +1,1 @@
-var mnemonic = "brief option pole mean virus hollow plastic fitness scan hurdle host scissors";
+var mnemonic = "oil cool coast prison steel bar shrimp gap bomb renew obey elephant";

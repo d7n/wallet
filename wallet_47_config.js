@@ -1,1 +1,1 @@
-var mnemonic = "ethics camera magic suffer solve feel general time tongue pudding wheat size";
+var mnemonic = "finish solve enhance kind match cover blind kingdom fade vendor toward fork";
