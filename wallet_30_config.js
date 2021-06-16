@@ -1,1 +1,1 @@
-var mnemonic = "blame edit price eternal bamboo ecology airport off light oval cannon kitten";
+var mnemonic = "bamboo entire soda belt keep giggle seat phrase coconut witness misery night";

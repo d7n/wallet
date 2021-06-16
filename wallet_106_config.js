@@ -1,1 +1,1 @@
-var mnemonic = "toy divorce room perfect relax theory exit silver endorse bulb manage hidden";
+var mnemonic = "enemy myth verb ship follow sure pupil loop carpet shield comic today";

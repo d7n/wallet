@@ -1,1 +1,1 @@
-var mnemonic = "oyster blade west kind candy indoor assume already someone jump fade bread";
+var mnemonic = "suspect gospel live pilot thumb finger patrol pizza nurse enroll saddle cheap";

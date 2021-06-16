@@ -1,1 +1,1 @@
-var mnemonic = "hazard detail fire south oak short green crisp cupboard jaguar hedgehog pet";
+var mnemonic = "story salad casual source tennis knife winner pill flight adjust interest pair";

@@ -1,1 +1,1 @@
-var mnemonic = "glue hybrid local sort turkey business ring web mercy ensure injury normal";
+var mnemonic = "lecture giant album harsh father tonight brick car exercise merit total rich";

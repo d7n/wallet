@@ -1,1 +1,1 @@
-var mnemonic = "artefact tackle gravity region net enemy piano torch able soda alert gasp";
+var mnemonic = "expose render salute tilt bamboo capable gospel detect left family pond holiday";

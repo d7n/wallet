@@ -1,1 +1,1 @@
-var mnemonic = "fuel fee invest casino brisk year health local drip useful already subject";
+var mnemonic = "auto theory train amused excuse country treat donkey keep hospital ginger gadget";

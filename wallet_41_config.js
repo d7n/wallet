@@ -1,1 +1,1 @@
-var mnemonic = "rhythm drastic wish nerve athlete black rose friend duty crunch catalog cotton";
+var mnemonic = "quick bulk pigeon mouse half panel shrug same stay car person gain";

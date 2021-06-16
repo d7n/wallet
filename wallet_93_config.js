@@ -1,1 +1,1 @@
-var mnemonic = "know radar tortoise leopard warrior waste candy merge wheel give age lounge";
+var mnemonic = "aspect buddy tube claim pink penalty grief outside wash connect napkin achieve";

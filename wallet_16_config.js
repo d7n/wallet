@@ -1,1 +1,1 @@
-var mnemonic = "subject aerobic stick tackle holiday essay increase elder between lab donate forget";
+var mnemonic = "develop lend cheap forward above answer kind mind true hunt shallow document";

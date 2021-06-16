@@ -1,1 +1,1 @@
-var mnemonic = "lazy any canal stone shadow poverty whisper seminar illegal echo direct skin";
+var mnemonic = "license panther rookie debris soap excess pet flat hub left width mix";

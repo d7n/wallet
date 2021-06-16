@@ -1,1 +1,1 @@
-var mnemonic = "refuse lake merge tank shuffle gun regular agent praise glimpse robust casual";
+var mnemonic = "nose taste clarify always best dish elephant top rug junior title blast";

@@ -1,1 +1,1 @@
-var mnemonic = "elite cloud tissue this item wide forum copper turkey viable prison scatter";
+var mnemonic = "light lawn envelope tornado main cash mind erupt chat dutch ride famous";

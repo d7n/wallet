@@ -1,1 +1,1 @@
-var mnemonic = "track beach edge index invite office race hire remember left auto net";
+var mnemonic = "ask hungry equip castle confirm mansion fresh exact layer toddler taste hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "ship shy word squirrel emerge hood fire junior urge glove recipe happy";
+var mnemonic = "bracket waste once powder lonely gentle oak invite inch seminar example gospel";

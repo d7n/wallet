@@ -1,1 +1,1 @@
-var mnemonic = "quit impact dice huge reason void core ability burden solid culture away";
+var mnemonic = "call exotic electric shoe border rude kitchen ocean exotic recycle matter ripple";

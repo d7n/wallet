@@ -1,1 +1,1 @@
-var mnemonic = "hero beyond again churn torch debris usage enrich around rough enroll verb";
+var mnemonic = "unfair mom best fury myth water end yellow gain arrive melody nest";

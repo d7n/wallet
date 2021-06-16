@@ -1,1 +1,1 @@
-var mnemonic = "review panel extra ecology jewel culture section spread arm trigger brief aware";
+var mnemonic = "mix ripple dial fan draft laptop atom slush effort forum era rib";

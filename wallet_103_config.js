@@ -1,1 +1,1 @@
-var mnemonic = "fringe mixture venture elite legend olive drive club found maid twelve movie";
+var mnemonic = "size master holiday pottery announce kidney honey rapid vehicle already issue account";

@@ -1,1 +1,1 @@
-var mnemonic = "useful monitor novel upgrade dream brother anxiety mix situate cake near crater";
+var mnemonic = "include nest throw torch climb rocket dumb edge pyramid logic army jazz";

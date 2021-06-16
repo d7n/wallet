@@ -1,1 +1,1 @@
-var mnemonic = "vital depend accident endorse ensure reflect oyster owner hour setup sight order";
+var mnemonic = "wheat marble lucky knock tent robot patient expect employ hobby planet keen";

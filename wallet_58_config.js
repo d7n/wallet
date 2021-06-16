@@ -1,1 +1,1 @@
-var mnemonic = "warrior luggage flat feel useful slow shop rent inflict armor awesome brush";
+var mnemonic = "bitter summer mother alert neutral own shiver speed pulp bonus dry garbage";

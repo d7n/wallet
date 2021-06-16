@@ -1,1 +1,1 @@
-var mnemonic = "credit wasp blind cluster best legend fancy ozone adult prevent brain menu";
+var mnemonic = "river bean bid mistake coconut exercise neither chef ensure hammer piece design";

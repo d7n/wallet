@@ -1,1 +1,1 @@
-var mnemonic = "long actual champion slush dilemma proof fault tribe pool monitor runway neither";
+var mnemonic = "deposit smile trim thumb exist language develop very essence space cute clarify";

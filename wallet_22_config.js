@@ -1,1 +1,1 @@
-var mnemonic = "usual cannon sound jazz rail sun immune pretty mule sting kid sample";
+var mnemonic = "dust image right catalog sight daughter resource napkin initial hire device foil";

@@ -1,1 +1,1 @@
-var mnemonic = "credit diet hill matrix melt verb rule until chapter awesome burden above";
+var mnemonic = "regular copy palm fog stock sword praise figure rookie trade magic library";

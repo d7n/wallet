@@ -1,1 +1,1 @@
-var mnemonic = "certain glimpse raven tail diamond trap cliff equal copy tuna eager pull";
+var mnemonic = "ecology give circle laugh fence flag manual cabbage lemon explain jar denial";

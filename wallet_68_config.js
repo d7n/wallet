@@ -1,1 +1,1 @@
-var mnemonic = "muffin average lecture three assault fade settle rent eyebrow negative about slush";
+var mnemonic = "airport person globe discover horse wreck iron soda knock gap cigar night";

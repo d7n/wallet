@@ -1,1 +1,1 @@
-var mnemonic = "behave practice example habit dune salad ankle leaf coach document upper pet";
+var mnemonic = "rude scrap faculty clog milk cradle spell undo prepare smart round paper";

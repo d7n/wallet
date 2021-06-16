@@ -1,1 +1,1 @@
-var mnemonic = "coast strong deal street ugly west perfect until matter that hole you";
+var mnemonic = "job sample system glide above negative drip destroy minimum horn citizen still";

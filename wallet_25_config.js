@@ -1,1 +1,1 @@
-var mnemonic = "lock consider appear rule agree fresh shed vendor clock dream usage angle";
+var mnemonic = "cross story frozen evoke furnace purpose lock put rather negative wing govern";

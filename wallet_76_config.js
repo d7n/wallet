@@ -1,1 +1,1 @@
-var mnemonic = "city reduce move chimney afford caught vague spread number drama toss patient";
+var mnemonic = "choose stage deliver actual holiday melody unit coast need risk fun rose";

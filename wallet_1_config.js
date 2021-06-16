@@ -1,1 +1,1 @@
-var mnemonic = "figure solve loop govern snow plug world any jeans code nasty major";
+var mnemonic = "hamster begin analyst fiction aware arrive enough orient achieve various inch weapon";

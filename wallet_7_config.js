@@ -1,1 +1,1 @@
-var mnemonic = "method miss rice disorder detect produce trip birth argue cluster letter lawn";
+var mnemonic = "broom rally father timber lounge soda bamboo describe birth combine mutual butter";

@@ -1,1 +1,1 @@
-var mnemonic = "casual magic history castle weird make rough kitten victory what marriage deer";
+var mnemonic = "proof into burger metal inside notable imitate answer grape desert rookie immense";

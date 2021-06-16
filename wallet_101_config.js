@@ -1,1 +1,1 @@
-var mnemonic = "scan front brand message gallery idea own cook lawn problem amount swamp";
+var mnemonic = "sphere web bronze notable weather insane unique world mail business tilt globe";

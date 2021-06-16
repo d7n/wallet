@@ -1,1 +1,1 @@
-var mnemonic = "desk mosquito absorb lizard space gather access clown novel gap alley essay";
+var mnemonic = "edge patient mosquito figure thrive mule same topple define surround rural viable";

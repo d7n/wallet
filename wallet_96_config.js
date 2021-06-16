@@ -1,1 +1,1 @@
-var mnemonic = "cattle spider sleep flight replace shaft next balance eight pole sauce execute";
+var mnemonic = "remain diamond palm hood popular donkey misery donor gaze together pyramid solar";

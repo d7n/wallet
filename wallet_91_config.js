@@ -1,1 +1,1 @@
-var mnemonic = "iron across garment pipe fine hammer addict timber symptom avocado hire pledge";
+var mnemonic = "increase inside gasp artist cook term stomach payment minute type skirt innocent";

@@ -1,1 +1,1 @@
-var mnemonic = "axis nuclear chicken field various bronze fame favorite butter victory very goddess";
+var mnemonic = "creek between force wrist stem like exit art neither demise virus tag";

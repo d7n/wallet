@@ -1,1 +1,1 @@
-var mnemonic = "inspire topic high swim fall ancient face upgrade equal sting path toy";
+var mnemonic = "honey paddle brother element nasty pluck eternal execute target curve cotton drip";

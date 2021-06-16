@@ -1,1 +1,1 @@
-var mnemonic = "capital cheese recycle mansion speed clerk add omit among industry over conduct";
+var mnemonic = "replace isolate tornado gas long mountain injury audit ancient soup hand vibrant";

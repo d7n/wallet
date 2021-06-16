@@ -1,1 +1,1 @@
-var mnemonic = "curtain youth meat horse budget fiscal filter club romance broccoli improve romance";
+var mnemonic = "off kid impose staff local six they weapon jacket clever innocent impulse";

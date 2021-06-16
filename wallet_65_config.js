@@ -1,1 +1,1 @@
-var mnemonic = "surround luggage trophy manual chronic open useful huge economy equal impose glad";
+var mnemonic = "artefact hat lab any invest wreck club bulk warm trade snap solid";

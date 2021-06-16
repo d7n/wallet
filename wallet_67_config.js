@@ -1,1 +1,1 @@
-var mnemonic = "remain video chef payment tool radio rotate pause arrive nose defense enough";
+var mnemonic = "head cargo axis abandon square give audit modify few trend endorse garment";

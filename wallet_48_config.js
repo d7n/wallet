@@ -1,1 +1,1 @@
-var mnemonic = "mad version joke pretty surge silly boss require verb wedding rebuild worry";
+var mnemonic = "slot flash edge special casino peanut license siege picnic nice rug short";

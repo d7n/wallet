@@ -1,1 +1,1 @@
-var mnemonic = "grape brother post material net payment fury front rival news crime jealous";
+var mnemonic = "rifle adult fortune live verb clinic glass vocal much copper kitchen onion";

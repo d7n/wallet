@@ -1,1 +1,1 @@
-var mnemonic = "crash mutual long doctor fantasy cook label small section barely fly where";
+var mnemonic = "upon tone face tuna name friend foot obey snack casual embody outdoor";

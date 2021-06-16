@@ -1,1 +1,1 @@
-var mnemonic = "toddler ripple never wasp trick help blast baby card arrange bird kite";
+var mnemonic = "result slogan tower cream rubber piece radio twist sound joy grit melody";

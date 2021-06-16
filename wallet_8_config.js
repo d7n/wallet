@@ -1,1 +1,1 @@
-var mnemonic = "trouble club humble space door lend program side talk large velvet reward";
+var mnemonic = "boat attack idle face hedgehog empower ginger cruel range protect skin decrease";

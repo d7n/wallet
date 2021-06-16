@@ -1,1 +1,1 @@
-var mnemonic = "virtual chest security mimic there never guide liar armed crane admit cover";
+var mnemonic = "surface receive dress vocal tube strike avoid bullet pilot net embark gaze";

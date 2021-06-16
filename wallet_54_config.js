@@ -1,1 +1,1 @@
-var mnemonic = "movie because fruit leisure stereo off come knock purchase conduct print three";
+var mnemonic = "lend fun stable boat wear tape among live recall cover verb traffic";

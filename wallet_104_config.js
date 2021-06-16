@@ -1,1 +1,1 @@
-var mnemonic = "soccer fall zoo shaft mixture cloth trust system play document glory super";
+var mnemonic = "visa tattoo shaft body nature until dumb one zoo extra grit wood";

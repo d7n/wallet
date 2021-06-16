@@ -1,1 +1,1 @@
-var mnemonic = "above tomato illness fortune skill into master sound current shrug direct patient";
+var mnemonic = "exotic normal insane tiny quick example medal polar gasp shrug film above";

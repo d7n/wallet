@@ -1,1 +1,1 @@
-var mnemonic = "banner repeat august fuel family manage envelope monitor jump reunion sustain else";
+var mnemonic = "spawn citizen ride loan calm excite depart panther enable cube brisk acoustic";

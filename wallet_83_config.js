@@ -1,1 +1,1 @@
-var mnemonic = "gain orbit stairs sniff turkey unit usual key long rule wing detect";
+var mnemonic = "unique enforce fame suggest clutch club ski budget main endless candy inherit";

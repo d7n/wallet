@@ -1,1 +1,1 @@
-var mnemonic = "frown put observe reform tennis fault receive air bench hello slide style";
+var mnemonic = "harbor tray thing lucky canoe lens laundry olympic poverty video parrot audit";

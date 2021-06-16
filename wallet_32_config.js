@@ -1,1 +1,1 @@
-var mnemonic = "dignity forget warrior banner twist fringe sure poet virus praise cash hood";
+var mnemonic = "purity defense dash payment young tag frown hood wasp syrup punch connect";

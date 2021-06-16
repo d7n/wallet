@@ -1,1 +1,1 @@
-var mnemonic = "wasp brave radio husband blur bridge bean bone depend settle luggage live";
+var mnemonic = "pumpkin obtain problem nurse rude stuff better camera bar aim you extra";

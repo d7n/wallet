@@ -1,1 +1,1 @@
-var mnemonic = "regular flower since sure street visa tent bird blame they south best";
+var mnemonic = "laptop mesh doctor follow phone bean avoid sample galaxy weather angle aerobic";

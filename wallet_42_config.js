@@ -1,1 +1,1 @@
-var mnemonic = "tube magic staff media citizen chief submit tide salad dismiss reform enhance";
+var mnemonic = "stick hole decade clean zebra fatal shaft engine owner offer ski decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "village prison walnut add tornado tower blur south frown pyramid number evil";
+var mnemonic = "glare tourist toward city loan sweet share indoor machine wave trend obey";

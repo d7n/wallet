@@ -1,1 +1,1 @@
-var mnemonic = "illegal tape void scale physical together violin adapt tackle hen shop ahead";
+var mnemonic = "process inch reunion chief science addict eyebrow trigger obey pull diary guess";

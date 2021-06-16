@@ -1,1 +1,1 @@
-var mnemonic = "rapid quote wave play sheriff toy sweet torch destroy venue spike oyster";
+var mnemonic = "clean measure adjust media couch casino very daughter smooth address scheme salt";

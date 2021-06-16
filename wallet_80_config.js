@@ -1,1 +1,1 @@
-var mnemonic = "test drink wear rug knife move grunt barrel garbage patient discover equal";
+var mnemonic = "bottom govern roof price engage direct assist wagon damp law virus essay";

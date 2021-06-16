@@ -1,1 +1,1 @@
-var mnemonic = "devote toy neck violin kiss swift foot attack debris record review penalty";
+var mnemonic = "discover apology enlist farm theme document note index large west trophy middle";

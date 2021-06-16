@@ -1,1 +1,1 @@
-var mnemonic = "add tag script convince cattle improve settle jelly better celery citizen absorb";
+var mnemonic = "nurse talk pudding record grow census have category focus pupil wink merit";

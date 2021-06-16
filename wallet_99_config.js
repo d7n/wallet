@@ -1,1 +1,1 @@
-var mnemonic = "bracket betray motor grain such evoke false useless range foot mother junk";
+var mnemonic = "fruit wreck enact nothing diamond stool borrow inject fall happy fiscal traffic";

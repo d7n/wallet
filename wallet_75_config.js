@@ -1,1 +1,1 @@
-var mnemonic = "derive symbol spike unfold save member galaxy tooth forward hint city balance";
+var mnemonic = "culture skate modify term banana tornado there draw top supply staff burger";

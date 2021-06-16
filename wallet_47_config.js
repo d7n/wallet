@@ -1,1 +1,1 @@
-var mnemonic = "lonely fiction say copy female speed crush hospital quality meat friend hurt";
+var mnemonic = "book acquire ozone reduce south garlic noise marine produce genuine venture unhappy";

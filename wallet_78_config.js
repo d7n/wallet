@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow shove impact coach steak ribbon brick toss emerge hill alert trim";
+var mnemonic = "home one swim learn priority wealth piano convince pyramid paper cruise ahead";

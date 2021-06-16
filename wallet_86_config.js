@@ -1,1 +1,1 @@
-var mnemonic = "elder wise number chief category swing adjust nuclear switch soup elbow lyrics";
+var mnemonic = "entire negative plastic bulb essay call shop give corn october bitter multiply";

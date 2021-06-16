@@ -1,1 +1,1 @@
-var mnemonic = "panel oppose addict example pair exhaust enlist pattern true exchange dust good";
+var mnemonic = "success spider vital swear together crowd armed mango wealth exclude mask fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "meat wash glow wife mean omit ability frozen work monkey dad setup";
+var mnemonic = "palm comfort dirt globe snow raven picnic cream gorilla melody trap east";

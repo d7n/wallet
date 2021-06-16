@@ -1,1 +1,1 @@
-var mnemonic = "common monkey maid area cotton assume fiction funny speak hand negative jealous";
+var mnemonic = "shine fashion endorse meat glide large solution various oppose pear fancy usual";

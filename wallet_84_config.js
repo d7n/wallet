@@ -1,1 +1,1 @@
-var mnemonic = "recycle hammer lemon crucial boring giggle list pause neglect double focus again";
+var mnemonic = "focus can visa predict coyote beauty early outside seven void august have";

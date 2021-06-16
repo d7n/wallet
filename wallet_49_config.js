@@ -1,1 +1,1 @@
-var mnemonic = "law hat urban album law detect west trap off slot grunt brand";
+var mnemonic = "cement rhythm near peanut spot worth soccer cake kitchen verify cancel hunt";

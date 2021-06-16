@@ -1,1 +1,1 @@
-var mnemonic = "economy afford gallery way tackle sentence chalk panda rich add despair accident";
+var mnemonic = "expose actor before debate surge actual inside still caution future metal parent";

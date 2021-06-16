@@ -1,1 +1,1 @@
-var mnemonic = "square involve observe insane during leaf ill dry impulse sniff solar cause";
+var mnemonic = "elder ten plastic age battle coffee upper diesel unaware ugly wheat once";

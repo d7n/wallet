@@ -1,1 +1,1 @@
-var mnemonic = "chalk race pact theory tragic peace aim embark extra steak ignore spider";
+var mnemonic = "arctic spy glue pulp bracket vendor appear join viable bleak script hazard";

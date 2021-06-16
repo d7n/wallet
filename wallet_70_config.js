@@ -1,1 +1,1 @@
-var mnemonic = "feel twelve gold primary host program melt adjust damage cousin duck struggle";
+var mnemonic = "harbor frost pepper tattoo abuse material hill gentle among steak orient prepare";

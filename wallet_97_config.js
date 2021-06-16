@@ -1,1 +1,1 @@
-var mnemonic = "siege control valve patch polar diagram rule diet ramp inhale disagree language";
+var mnemonic = "rebel trade venue labor develop poverty transfer beach remember express ensure jeans";

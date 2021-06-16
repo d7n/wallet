@@ -1,1 +1,1 @@
-var mnemonic = "rude position cherry swim veteran mom swear layer silly timber day brush";
+var mnemonic = "produce medal bubble meadow fiber artefact uphold timber easily inside can guide";

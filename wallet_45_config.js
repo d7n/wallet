@@ -1,1 +1,1 @@
-var mnemonic = "burger cat nature dizzy payment spatial awesome choose remain quit decorate rabbit";
+var mnemonic = "motion fall exact culture because need math atom better luxury pet rely";

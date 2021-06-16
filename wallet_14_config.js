@@ -1,1 +1,1 @@
-var mnemonic = "lion void tower decrease echo invite hospital put hollow confirm awful table";
+var mnemonic = "speed captain scorpion vocal chaos humor give gather volcano genre cabbage broom";

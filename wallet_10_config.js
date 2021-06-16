@@ -1,1 +1,1 @@
-var mnemonic = "wise enroll chief define behind canvas advice couple obscure candy disorder scorpion";
+var mnemonic = "traffic monitor affair search pig dilemma repeat spatial hub river poet version";

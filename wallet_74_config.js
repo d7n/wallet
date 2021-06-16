@@ -1,1 +1,1 @@
-var mnemonic = "else math cluster traffic glory fabric master noise unique code wise input";
+var mnemonic = "wedding guard double labor glad inform world slam dune figure dose aware";

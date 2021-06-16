@@ -1,1 +1,1 @@
-var mnemonic = "rug supply lunar seat mixture access tomato link trim vital excite miracle";
+var mnemonic = "radio joy lamp able dwarf marble volume educate satisfy emotion egg spoon";

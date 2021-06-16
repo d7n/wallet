@@ -1,1 +1,1 @@
-var mnemonic = "ecology valid smoke ensure luxury fragile strategy deposit sun board amused nature";
+var mnemonic = "assume dwarf grief wisdom cactus swarm anchor develop tiny lawn spawn cotton";

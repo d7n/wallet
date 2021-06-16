@@ -1,1 +1,1 @@
-var mnemonic = "build mechanic symbol kick post report feature gun buyer execute bid thunder";
+var mnemonic = "dismiss wait orient able shop concert spread recycle chuckle used feature wrap";

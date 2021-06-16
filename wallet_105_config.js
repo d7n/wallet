@@ -1,1 +1,1 @@
-var mnemonic = "gadget claim switch future pledge vicious slab copper fuel traffic chaos burst";
+var mnemonic = "gap exact invite damage stadium art drop fee pond february mixed frozen";

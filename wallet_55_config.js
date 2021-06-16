@@ -1,1 +1,1 @@
-var mnemonic = "rebel episode slim satisfy knee human need leisure pledge pulse steak body";
+var mnemonic = "master street wool pottery motor mobile fury sentence unknown topic large wall";

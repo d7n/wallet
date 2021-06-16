@@ -1,1 +1,1 @@
-var mnemonic = "visual pet original brain life flat love bench melody cloud oven empower";
+var mnemonic = "pause myself throw opera shed drum wing glue sure claim web route";

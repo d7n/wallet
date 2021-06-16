@@ -1,1 +1,1 @@
-var mnemonic = "smile victory document famous powder artist trend earn army grace exact tower";
+var mnemonic = "magnet lake album sword elder monster derive undo joy razor scheme plate";
