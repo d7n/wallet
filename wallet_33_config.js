@@ -1,1 +1,1 @@
-var mnemonic = "drum cool wheat blind jewel cushion crack puzzle agent average practice floor";
+var mnemonic = "accident zebra lake front resource decade jar admit bounce violin smooth sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "reward wrestle evidence tiger cereal moon cage thing fan recall drama vendor";
+var mnemonic = "release route demise smoke leader season naive chuckle glare short limb barely";

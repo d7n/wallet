@@ -1,1 +1,1 @@
-var mnemonic = "attitude various manual garlic flip trumpet over mechanic voice addict pill deny";
+var mnemonic = "quantum gentle walk dawn noise appear issue just reason onion flock trap";

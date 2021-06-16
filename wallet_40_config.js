@@ -1,1 +1,1 @@
-var mnemonic = "opinion old document body motion there pioneer post build charge liberty parrot";
+var mnemonic = "wood trick gaze brass sketch steel swear pottery flock hire exclude swing";

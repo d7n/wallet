@@ -1,1 +1,1 @@
-var mnemonic = "quiz valid finish mimic excess define casino civil twenty orchard hurt person";
+var mnemonic = "solid clean cactus bulb tone lounge proof emerge lens embrace list fiber";

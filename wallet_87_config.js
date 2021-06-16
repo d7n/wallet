@@ -1,1 +1,1 @@
-var mnemonic = "visa leisure vacuum cargo decorate drum frost execute please enforce arctic suit";
+var mnemonic = "rail mass chimney era census marine cluster dumb pink earn maximum orphan";

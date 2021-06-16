@@ -1,1 +1,1 @@
-var mnemonic = "pudding term crowd hover flame vital want cheap achieve blast spare surge";
+var mnemonic = "decade teach entry evil distance suffer mercy tower comic dizzy fan hundred";

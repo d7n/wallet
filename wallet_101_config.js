@@ -1,1 +1,1 @@
-var mnemonic = "hello brick harsh dream pledge gap main pudding victory inner cinnamon forest";
+var mnemonic = "speed crucial couple ignore wine license pencil spend catch employ math verify";

@@ -1,1 +1,1 @@
-var mnemonic = "border citizen cool bottom balance shrug ring remain situate elbow renew blame";
+var mnemonic = "ready slab fetch brown silly forum merry opera when blouse coffee history";

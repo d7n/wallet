@@ -1,1 +1,1 @@
-var mnemonic = "label uncle blood unaware champion diesel place couple feature daring fiber absent";
+var mnemonic = "palm tenant satoshi hamster blade drive program shove mule hood impact attack";

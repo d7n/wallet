@@ -1,1 +1,1 @@
-var mnemonic = "note hidden rifle nephew scheme client better grab entire tide dad bachelor";
+var mnemonic = "diesel ritual breeze rather treat quote predict motor topple home weather that";

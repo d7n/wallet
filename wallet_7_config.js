@@ -1,1 +1,1 @@
-var mnemonic = "useful dizzy dog medal vivid sugar post bird grief beef name roof";
+var mnemonic = "plate vivid crucial long quit measure gas discover opinion mad either weasel";

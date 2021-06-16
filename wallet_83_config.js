@@ -1,1 +1,1 @@
-var mnemonic = "suspect aerobic skull south advice humble ostrich chat travel goat stairs worry";
+var mnemonic = "win elder hockey replace quick level until announce sauce orange upon river";

@@ -1,1 +1,1 @@
-var mnemonic = "stick huge slight usage galaxy verify pepper process benefit fox differ target";
+var mnemonic = "ship myth element price more label grief border cabbage film jacket foster";

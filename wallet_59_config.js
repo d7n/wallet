@@ -1,1 +1,1 @@
-var mnemonic = "beauty since next warm nation bamboo kitchen thought quantum beauty estate credit";
+var mnemonic = "million leisure assist camera blade author tourist clever stamp chaos list ill";

@@ -1,1 +1,1 @@
-var mnemonic = "truly fatal depend various glass until romance manage easy option carpet ring";
+var mnemonic = "client subway forum oak ignore miss minor place brother guitar police domain";

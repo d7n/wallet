@@ -1,1 +1,1 @@
-var mnemonic = "this present pitch adjust cinnamon move doctor mosquito cannon galaxy educate mansion";
+var mnemonic = "possible critic reunion before square wisdom income globe attitude equip early relief";

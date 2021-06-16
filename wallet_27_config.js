@@ -1,1 +1,1 @@
-var mnemonic = "one fiscal private pet hospital hurry hill lizard mirror tackle clap fetch";
+var mnemonic = "wet virtual picture attend flash ten icon style dial animal correct rug";

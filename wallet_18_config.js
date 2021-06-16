@@ -1,1 +1,1 @@
-var mnemonic = "spell sleep width hidden replace maple seven scrub car meadow spirit oppose";
+var mnemonic = "maid reopen convince caution soon effort auto case drop bitter stadium mixture";

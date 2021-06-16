@@ -1,1 +1,1 @@
-var mnemonic = "champion carpet cable brick access begin equal lend habit glad pigeon occur";
+var mnemonic = "barely volcano flip cereal enter project pride cargo silly aware nurse thunder";

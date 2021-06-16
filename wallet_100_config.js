@@ -1,1 +1,1 @@
-var mnemonic = "genre idle pistol summer february this later twice approve cat castle maze";
+var mnemonic = "width turtle hedgehog satisfy like elder broccoli finger please speak chest erode";

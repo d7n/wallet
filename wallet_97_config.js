@@ -1,1 +1,1 @@
-var mnemonic = "cycle return today orange soap body stuff rich insane legend tortoise renew";
+var mnemonic = "volume limb floor length usage approve hole hungry bind square remind winner";

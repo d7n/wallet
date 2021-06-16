@@ -1,1 +1,1 @@
-var mnemonic = "differ inmate voyage foster tool left spoon true minor hedgehog property stove";
+var mnemonic = "offer mother sphere feed ball caution soft barely grief share magnet mechanic";

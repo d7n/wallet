@@ -1,1 +1,1 @@
-var mnemonic = "demise lava afford tennis ugly horror fetch exact divorce fitness rare mad";
+var mnemonic = "twist stay adapt cake thank jar spatial quality hat arctic inspire example";

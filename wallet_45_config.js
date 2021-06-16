@@ -1,1 +1,1 @@
-var mnemonic = "floor loop hover license fix december simple about wide wasp diagram series";
+var mnemonic = "primary squirrel soup candy wagon inside mad receive bless nothing steak smile";

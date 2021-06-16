@@ -1,1 +1,1 @@
-var mnemonic = "used oil rifle skin obtain average one vehicle galaxy alone misery jealous";
+var mnemonic = "gravity film purchase apart baby auto garage battle lesson worry hole embody";

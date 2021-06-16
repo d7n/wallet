@@ -1,1 +1,1 @@
-var mnemonic = "film blur type expire thought double inflict evil cigar venue oyster lunar";
+var mnemonic = "great buzz scrub uphold fluid notable mosquito burger wife dilemma food butter";

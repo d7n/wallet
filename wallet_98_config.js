@@ -1,1 +1,1 @@
-var mnemonic = "night spare ability knife clerk false industry trade naive great leader dance";
+var mnemonic = "sock lift accident easy inquiry nice surround object expose critic mean latin";

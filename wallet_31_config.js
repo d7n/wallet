@@ -1,1 +1,1 @@
-var mnemonic = "harbor arrive blanket emerge field dinner lesson climb shine approve raise weather";
+var mnemonic = "odor basic test lazy borrow intact trend shield warm scan fancy patient";

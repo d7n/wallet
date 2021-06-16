@@ -1,1 +1,1 @@
-var mnemonic = "hire method benefit virtual false fury breeze reason absent army push flip";
+var mnemonic = "flight session happy crater short tuna express disease moral treat trial sadness";

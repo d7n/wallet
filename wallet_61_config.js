@@ -1,1 +1,1 @@
-var mnemonic = "balance kitchen actor use candy deny island school cry tube stick train";
+var mnemonic = "radio essay glare fee exact jazz olympic erase similar know vivid oven";

@@ -1,1 +1,1 @@
-var mnemonic = "quality clerk crawl iron elevator useful word physical impulse post source exercise";
+var mnemonic = "tone flash inform legend village below useful motor direct bench trumpet minimum";

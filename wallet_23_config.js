@@ -1,1 +1,1 @@
-var mnemonic = "enroll useful battle seven ramp seat lamp stereo upset country situate wage";
+var mnemonic = "gather anchor party maid polar crowd until amateur network frost family mosquito";

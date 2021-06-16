@@ -1,1 +1,1 @@
-var mnemonic = "all observe network peace tattoo asthma special output mosquito note boat exile";
+var mnemonic = "disagree panda hero quantum scare magnet snap where kingdom dutch apart alert";

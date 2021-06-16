@@ -1,1 +1,1 @@
-var mnemonic = "pistol reason foot struggle tomato master wife myself woman strategy fantasy off";
+var mnemonic = "borrow monkey thrive predict elbow connect dumb marriage work cause struggle lottery";

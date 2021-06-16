@@ -1,1 +1,1 @@
-var mnemonic = "east staff they online flight host arena again ticket opinion subway capital";
+var mnemonic = "act pigeon issue genuine blossom access mask box toy unusual hair piece";

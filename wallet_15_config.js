@@ -1,1 +1,1 @@
-var mnemonic = "own hero lottery develop tool defy record such federal vessel air mad";
+var mnemonic = "rain consider insane soft festival opera silent pluck bullet era spoil case";

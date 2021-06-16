@@ -1,1 +1,1 @@
-var mnemonic = "donate spirit mobile hub parrot task distance best soda horse jazz struggle";
+var mnemonic = "custom spend armor happy foam sentence suspect knife sand game loan fork";

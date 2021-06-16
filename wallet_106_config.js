@@ -1,1 +1,1 @@
-var mnemonic = "acid oblige donor myth asset also dawn orient dinner idle kiwi pool";
+var mnemonic = "kidney panel raven fix room either topple excuse seat hint scrap outdoor";

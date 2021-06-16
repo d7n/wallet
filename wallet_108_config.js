@@ -1,1 +1,1 @@
-var mnemonic = "believe price spoil bulb hobby oak lazy diamond hammer ribbon still sure";
+var mnemonic = "transfer elegant supply together truth iron bread text ordinary bring embrace honey";

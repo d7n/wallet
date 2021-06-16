@@ -1,1 +1,1 @@
-var mnemonic = "erase iron shrimp return ski range then law bottom bid involve until";
+var mnemonic = "winner tuna rib flight alter crumble flavor month noise thumb brisk hold";

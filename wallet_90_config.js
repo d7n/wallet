@@ -1,1 +1,1 @@
-var mnemonic = "weather genuine allow skull what evidence board attend awake jealous caught sibling";
+var mnemonic = "jar axis sense talk power agree busy space list adapt elegant element";

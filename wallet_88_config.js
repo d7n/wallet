@@ -1,1 +1,1 @@
-var mnemonic = "piece enlist say term segment copy heavy pool truly flavor acquire real";
+var mnemonic = "spoon budget suffer giant finger require brave soft only party actual give";

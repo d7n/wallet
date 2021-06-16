@@ -1,1 +1,1 @@
-var mnemonic = "cabin patch silk riot point age volume fix roast miss art blouse";
+var mnemonic = "kite program own toast dinosaur ride desert garlic require deny cram nephew";

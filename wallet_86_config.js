@@ -1,1 +1,1 @@
-var mnemonic = "rabbit matrix razor absorb bus powder diamond forward uphold question bullet sing";
+var mnemonic = "cycle fiber student polar fresh ice feature exchange wrap liberty tone stuff";

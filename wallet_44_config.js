@@ -1,1 +1,1 @@
-var mnemonic = "only coil turn rate barrel mansion adjust scrub wait august siren blame";
+var mnemonic = "elbow reveal fitness rapid power valve rack gasp that coil stand kick";

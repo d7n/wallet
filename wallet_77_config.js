@@ -1,1 +1,1 @@
-var mnemonic = "emerge hub radar smart fruit rival faint stairs hold chicken reflect ketchup";
+var mnemonic = "trophy polar rely humor about capable route become month fame planet goat";

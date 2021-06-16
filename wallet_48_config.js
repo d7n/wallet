@@ -1,1 +1,1 @@
-var mnemonic = "brother smart crime spray animal result vault useful thrive suspect stomach fragile";
+var mnemonic = "inmate fringe coconut farm oven include chat satisfy flower idle cinnamon forward";

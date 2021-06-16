@@ -1,1 +1,1 @@
-var mnemonic = "pitch impulse punch cruel barely artist differ negative polar surface maximum typical";
+var mnemonic = "ensure blame practice dolphin doctor average client rubber bottom penalty latin emotion";

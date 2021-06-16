@@ -1,1 +1,1 @@
-var mnemonic = "tomato caught almost grape since grit flag farm shrimp rail mesh filter";
+var mnemonic = "zero hint pill despair inspire atom alien mango snow mistake museum attend";

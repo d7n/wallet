@@ -1,1 +1,1 @@
-var mnemonic = "brave park crop lawn address remind tennis urban auction orient safe actual";
+var mnemonic = "where brown orchard earn sauce accident bid green style summer sibling patient";

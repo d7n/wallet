@@ -1,1 +1,1 @@
-var mnemonic = "flag enrich relief allow strategy cup exclude release manual stand leisure panda";
+var mnemonic = "sense smile cruise chase flock obey armed fire smile blush bullet animal";

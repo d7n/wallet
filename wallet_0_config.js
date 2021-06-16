@@ -1,1 +1,1 @@
-var mnemonic = "walk check person minute effort sorry link fruit grit leopard year coil";
+var mnemonic = "ankle tribe popular glow possible captain door core amused order blur super";

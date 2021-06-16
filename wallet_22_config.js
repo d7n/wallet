@@ -1,1 +1,1 @@
-var mnemonic = "amount follow adapt correct market number live feed stage tomorrow glad impulse";
+var mnemonic = "ride pattern tornado rough drill text host fence gentle tip laundry hurt";

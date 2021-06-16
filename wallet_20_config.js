@@ -1,1 +1,1 @@
-var mnemonic = "relax shallow reunion stick multiply notable dentist better below indicate situate follow";
+var mnemonic = "awful elephant supply funny allow random demise reject airport toss awkward park";

@@ -1,1 +1,1 @@
-var mnemonic = "hour symptom seminar blanket gown wealth stomach keen forest echo topple harbor";
+var mnemonic = "buyer sphere picnic top laugh length any issue thing perfect agree cushion";

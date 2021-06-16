@@ -1,1 +1,1 @@
-var mnemonic = "country execute nephew cinnamon gown upgrade cream where confirm empower expose rival";
+var mnemonic = "sustain diet tiny cushion desert strike atom earn acoustic arch knock august";

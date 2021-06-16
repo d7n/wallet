@@ -1,1 +1,1 @@
-var mnemonic = "drop genius curious female legend island beyond manage air shine sheriff they";
+var mnemonic = "limb strong hobby nominee exotic fire frog company album box guess wave";

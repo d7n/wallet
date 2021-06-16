@@ -1,1 +1,1 @@
-var mnemonic = "buddy wise bench naive inch cruise shove omit fatal connect flip address";
+var mnemonic = "cloth extra suspect onion plate gasp practice monkey weather order casino coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "rice company spare front great scrub decorate dismiss tip credit dry wing";
+var mnemonic = "arctic achieve slice truck undo velvet must work fire inform shop cave";

@@ -1,1 +1,1 @@
-var mnemonic = "feel craft decorate grace foil because involve budget invite still verb cool";
+var mnemonic = "column minimum blue electric dinner hat exercise loop paddle cook wall must";

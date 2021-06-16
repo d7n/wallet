@@ -1,1 +1,1 @@
-var mnemonic = "volcano vivid happy black evoke solar execute behind eye sort era leader";
+var mnemonic = "gasp false canyon night scrap roof tent pigeon galaxy dinner flavor image";

@@ -1,1 +1,1 @@
-var mnemonic = "gown output nuclear gossip wink level hard song spice company define arrange";
+var mnemonic = "reveal two hurt prefer below ethics detect garment engage debate timber enter";

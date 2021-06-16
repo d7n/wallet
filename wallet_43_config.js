@@ -1,1 +1,1 @@
-var mnemonic = "rude announce shoe long light cross pyramid equal victory leader turkey three";
+var mnemonic = "speak reopen blur admit genre end cram tail insect destroy resist token";

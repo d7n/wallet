@@ -1,1 +1,1 @@
-var mnemonic = "cute poet review describe maze oil agent bleak bind struggle planet image";
+var mnemonic = "top interest adapt fabric leader tiny lab bread ride alcohol curtain quote";

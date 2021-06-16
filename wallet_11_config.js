@@ -1,1 +1,1 @@
-var mnemonic = "solve picture cute orbit supply burden genre evil weekend abandon jar vintage";
+var mnemonic = "talk music fault present rely face bless heart diesel then trust world";

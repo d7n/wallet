@@ -1,1 +1,1 @@
-var mnemonic = "object win upper bird soda drama private banana abandon badge toward where";
+var mnemonic = "fiscal give beef treat second pear priority cloud dilemma palace toss memory";

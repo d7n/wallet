@@ -1,1 +1,1 @@
-var mnemonic = "three clutch rose garage senior goddess poverty anchor pear disorder cabbage adapt";
+var mnemonic = "rare marine cotton tenant jazz lift east traffic glow sunny intact match";

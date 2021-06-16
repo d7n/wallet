@@ -1,1 +1,1 @@
-var mnemonic = "call bicycle flat crisp coin carry hair describe gown broken more damp";
+var mnemonic = "acoustic seminar rack awkward before october include lady age produce jaguar hip";

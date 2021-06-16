@@ -1,1 +1,1 @@
-var mnemonic = "session toward wheel zoo bottom impulse unknown want uphold produce gadget purchase";
+var mnemonic = "screen adapt snow shaft resist hill better view dream stadium veteran neck";

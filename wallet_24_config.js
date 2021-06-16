@@ -1,1 +1,1 @@
-var mnemonic = "room expire health allow silent flavor acquire bachelor vague below fluid bulb";
+var mnemonic = "fall argue portion exclude seven eye thing clock exist similar film shy";

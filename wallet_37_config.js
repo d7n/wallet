@@ -1,1 +1,1 @@
-var mnemonic = "panda inform exclude lizard snow trust balance million forward example check rice";
+var mnemonic = "unit riot future summer name march thing sister feel morning bird beauty";

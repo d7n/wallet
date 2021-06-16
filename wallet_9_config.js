@@ -1,1 +1,1 @@
-var mnemonic = "crazy duty stage claim egg capital what bundle debris book clip logic";
+var mnemonic = "sting genius recipe elevator maze ankle crater budget head dawn expand market";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle solar express tribe joke million outer panda soda ahead wave book";
+var mnemonic = "shuffle spider million time scare float reduce similar pig blade stadium blush";

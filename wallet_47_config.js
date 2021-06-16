@@ -1,1 +1,1 @@
-var mnemonic = "shoot rebuild series play dutch evoke multiply topic resist curious wisdom system";
+var mnemonic = "anger round moon census cigar bounce impose index immense whip sunny aspect";

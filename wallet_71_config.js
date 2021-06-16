@@ -1,1 +1,1 @@
-var mnemonic = "number offer hurdle consider loyal cheap narrow violin accident fit abandon position";
+var mnemonic = "swamp wealth animal staff exist journey narrow garden seminar stable clown blame";

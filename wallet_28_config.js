@@ -1,1 +1,1 @@
-var mnemonic = "tongue firm powder trim denial shadow elder neutral garbage seed absent friend";
+var mnemonic = "funny satoshi solar wage traffic keen flight corn van check report trend";

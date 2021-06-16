@@ -1,1 +1,1 @@
-var mnemonic = "exhaust cherry used noble october fiber outdoor moment bacon fox fall survey";
+var mnemonic = "village umbrella elevator old fresh glass trend odor awake cube minimum noble";

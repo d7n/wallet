@@ -1,1 +1,1 @@
-var mnemonic = "check effort soccer raven key mansion finish document canoe risk solar position";
+var mnemonic = "agent flower thunder upon bread draw symptom fix draft argue pigeon final";

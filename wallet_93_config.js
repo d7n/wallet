@@ -1,1 +1,1 @@
-var mnemonic = "cram coin taxi core chimney know primary hat novel dwarf pave senior";
+var mnemonic = "flame salad stove pattern figure sick lounge echo grab lottery flat crumble";

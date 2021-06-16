@@ -1,1 +1,1 @@
-var mnemonic = "myself invest provide mansion donate axis exhaust left foot install harsh bread";
+var mnemonic = "bleak tip mistake recipe danger cousin soda vicious fly dinosaur that beauty";

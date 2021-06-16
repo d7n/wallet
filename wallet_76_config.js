@@ -1,1 +1,1 @@
-var mnemonic = "cruel clump crazy venue believe bid weasel rough season silent vehicle gun";
+var mnemonic = "plastic tape neglect bid cushion debris like kite symptom fortune tray volume";

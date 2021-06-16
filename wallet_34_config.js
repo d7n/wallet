@@ -1,1 +1,1 @@
-var mnemonic = "coyote alley plate fatigue silly solve spoil pioneer law before vital second";
+var mnemonic = "you exhibit pet future flee miracle easy term lounge green payment actress";

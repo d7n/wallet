@@ -1,1 +1,1 @@
-var mnemonic = "wing wage photo power believe drastic eagle layer dwarf invest flavor tornado";
+var mnemonic = "elegant protect dice catalog coral initial coconut keen once album grape blouse";

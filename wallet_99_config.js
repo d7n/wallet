@@ -1,1 +1,1 @@
-var mnemonic = "awake process fine hidden relax orange valve distance jacket february tuna tornado";
+var mnemonic = "captain blade beauty cargo ethics salmon segment peasant pool wheat pause miss";

@@ -1,1 +1,1 @@
-var mnemonic = "photo border nut spy split swift coin usage winter bonus someone range";
+var mnemonic = "proof pistol degree drop rather address verb peasant follow neither toss drip";

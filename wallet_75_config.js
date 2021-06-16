@@ -1,1 +1,1 @@
-var mnemonic = "awesome credit sketch hill surround antique bind leopard rookie thunder anger junior";
+var mnemonic = "syrup oppose athlete danger seed save sausage announce few sphere access scare";

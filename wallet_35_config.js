@@ -1,1 +1,1 @@
-var mnemonic = "thrive surface elegant poverty account plunge stock success garbage drastic width sadness";
+var mnemonic = "display young smile differ laptop finish cushion lounge infant flower awkward chuckle";

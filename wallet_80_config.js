@@ -1,1 +1,1 @@
-var mnemonic = "limit bargain best better flavor million spatial stuff group result ski latin";
+var mnemonic = "one harvest million liquid castle loop void few forum lucky like pioneer";

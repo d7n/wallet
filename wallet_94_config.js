@@ -1,1 +1,1 @@
-var mnemonic = "journey remind special scheme earth crawl warrior powder illegal chronic please supply";
+var mnemonic = "endorse proof peanut vote quote diary solar glow shy witness brick second";

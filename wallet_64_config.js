@@ -1,1 +1,1 @@
-var mnemonic = "saddle silly dash behave theme insect diamond boil door delay scissors umbrella";
+var mnemonic = "emerge claw tiger educate claw undo unusual noise angry bird pipe addict";

@@ -1,1 +1,1 @@
-var mnemonic = "length ankle hen enjoy define work team pyramid blind chimney mad during";
+var mnemonic = "drum entire toward upon vague solution syrup bless ignore much enable dawn";

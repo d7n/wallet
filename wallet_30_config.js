@@ -1,1 +1,1 @@
-var mnemonic = "drop empty forward canyon amused anxiety jazz then sadness payment stay animal";
+var mnemonic = "measure arch beach congress mutual increase violin bone lamp monster victory shop";

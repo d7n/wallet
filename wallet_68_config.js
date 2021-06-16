@@ -1,1 +1,1 @@
-var mnemonic = "enemy wrist term pair twelve chicken high utility trend absurd side topple";
+var mnemonic = "legal cannon express clap jelly step eight exist tourist alien below finger";

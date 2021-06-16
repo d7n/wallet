@@ -1,1 +1,1 @@
-var mnemonic = "hello fade motor auction asthma degree law balcony hat enlist punch second";
+var mnemonic = "ability awake group spice penalty river onion plunge practice silk pepper express";

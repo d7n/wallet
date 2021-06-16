@@ -1,1 +1,1 @@
-var mnemonic = "security across rescue buddy entire cupboard uncover shoe truth system mom combine";
+var mnemonic = "card phrase play slice wood current bread fiction opinion cave hope vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch wisdom mobile female motion saddle game lecture phrase balance nuclear marriage";
+var mnemonic = "afford bread solution eagle easily tenant fee puppy jeans estate body bean";
