@@ -1,1 +1,1 @@
-var mnemonic = "charge win sweet dirt prevent meadow lab tent before hybrid increase point";
+var mnemonic = "lawn choose indicate biology daring special rich minute muscle puzzle praise wild";

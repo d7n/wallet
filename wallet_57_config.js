@@ -1,1 +1,1 @@
-var mnemonic = "wrap distance crazy orphan mango country satoshi reduce wrist magic cliff side";
+var mnemonic = "stem fiscal usual ignore first pave lunch subway upset able shaft run";

@@ -1,1 +1,1 @@
-var mnemonic = "tell spend mushroom bitter half ticket exit satoshi piece wagon retire note";
+var mnemonic = "injury curious must fragile ill awake yard cream resemble token grab layer";

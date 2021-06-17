@@ -1,1 +1,1 @@
-var mnemonic = "motor accuse drive spot together horse allow budget draft charge job unaware";
+var mnemonic = "index tumble three job issue warm syrup sock false brain spoon goat";

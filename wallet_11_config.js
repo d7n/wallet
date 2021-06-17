@@ -1,1 +1,1 @@
-var mnemonic = "ancient ahead fish demand plate ahead tube auto nut worry poem talent";
+var mnemonic = "response sock picnic network reunion govern fringe travel curtain such illness faculty";

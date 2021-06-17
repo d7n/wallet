@@ -1,1 +1,1 @@
-var mnemonic = "rule tail quality where nurse slight canal want skull project filter one";
+var mnemonic = "hard follow circle soft during athlete fine island bundle truth fiber miss";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny nature degree link odor recycle mammal observe assume check output repeat";
+var mnemonic = "voyage horror siren spread guitar similar rookie captain race arena rigid forward";

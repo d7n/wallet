@@ -1,1 +1,1 @@
-var mnemonic = "anchor north cost quantum zone cheese public night hedgehog split onion sort";
+var mnemonic = "course account ill hood figure library unfold aisle shallow crunch dismiss toilet";

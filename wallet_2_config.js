@@ -1,1 +1,1 @@
-var mnemonic = "move city twice slow toward devote weather warfare clean magic cruise bench";
+var mnemonic = "detail science admit invest tip power screen test sample want erupt move";

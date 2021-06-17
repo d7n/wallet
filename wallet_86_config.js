@@ -1,1 +1,1 @@
-var mnemonic = "profit craft equip reform actor marine focus eager limb faint grocery dust";
+var mnemonic = "heavy water shrimp mass appear seminar suffer narrow panic foam few culture";

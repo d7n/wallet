@@ -1,1 +1,1 @@
-var mnemonic = "impulse doll biology hood step coast mandate settle key quantum dad sing";
+var mnemonic = "defense fabric citizen gym plate climb state cross people banana near brother";

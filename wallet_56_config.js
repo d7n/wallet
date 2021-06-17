@@ -1,1 +1,1 @@
-var mnemonic = "file elegant vital extra romance coin yard card pulp guilt dash radar";
+var mnemonic = "embrace organ flee leaf law battle motor buyer ketchup describe patrol near";

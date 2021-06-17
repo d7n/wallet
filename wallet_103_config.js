@@ -1,1 +1,1 @@
-var mnemonic = "cement coyote welcome degree coyote galaxy habit fine buddy table erode vacant";
+var mnemonic = "noble quarter detect trash else window power mesh brisk decrease nerve ceiling";

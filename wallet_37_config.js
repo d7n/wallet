@@ -1,1 +1,1 @@
-var mnemonic = "sphere thunder amazing problem skirt much walnut scout repair mountain amused cinnamon";
+var mnemonic = "clip festival that capable yellow this sight pelican enhance bacon strategy ancient";

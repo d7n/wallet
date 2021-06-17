@@ -1,1 +1,1 @@
-var mnemonic = "feature country inject quick noble fit orbit lady all accident float armor";
+var mnemonic = "embark senior hero key inflict three acid laugh repair era chuckle again";

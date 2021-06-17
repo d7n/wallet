@@ -1,1 +1,1 @@
-var mnemonic = "velvet mask column gauge hour fold sunny table depth seed train crouch";
+var mnemonic = "mansion child true garlic short icon adjust fiscal athlete near urge urge";

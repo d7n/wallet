@@ -1,1 +1,1 @@
-var mnemonic = "train brick loyal burger zebra cigar utility weasel critic flavor couple second";
+var mnemonic = "pave admit force farm economy peanut swap crucial mom stem clog agent";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard blouse phone pupil delay rival moment scatter manual club stairs style";
+var mnemonic = "sport will prize tunnel parrot section during avocado round pet easy intact";

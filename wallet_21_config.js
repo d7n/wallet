@@ -1,1 +1,1 @@
-var mnemonic = "unlock tiny hunt benefit deny leaf coral fury artwork cherry earth garage";
+var mnemonic = "skin fun panic ship horse surprise mosquito cereal sport hybrid portion space";

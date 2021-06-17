@@ -1,1 +1,1 @@
-var mnemonic = "across summer hammer reunion urban olive bomb cactus evolve hunt mosquito garbage";
+var mnemonic = "taxi myself burden devote yellow river observe focus before goose unveil wedding";

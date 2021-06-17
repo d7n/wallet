@@ -1,1 +1,1 @@
-var mnemonic = "cute profit pond boat chicken maid wrist width proud slide asset tiger";
+var mnemonic = "audit obscure pole sustain pen apology day ski mango tail tray afford";

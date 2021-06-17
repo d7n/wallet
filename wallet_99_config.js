@@ -1,1 +1,1 @@
-var mnemonic = "invest tunnel raise priority top oppose phrase electric space scan they plate";
+var mnemonic = "burger differ burst movie host image link leg prefer bridge symptom remove";

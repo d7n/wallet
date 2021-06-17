@@ -1,1 +1,1 @@
-var mnemonic = "lunch stand cushion assume dolphin torch future lawn primary dolphin room riot";
+var mnemonic = "cigar actual among beach damage fall almost next access plug fall avoid";

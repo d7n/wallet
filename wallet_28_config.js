@@ -1,1 +1,1 @@
-var mnemonic = "give unit leaf blame shy bulk episode clerk wild rice butter consider";
+var mnemonic = "scorpion empty view urban head climb orchard spice only text outside escape";

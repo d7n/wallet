@@ -1,1 +1,1 @@
-var mnemonic = "loan hold neutral fog ranch wheat leisure family anchor figure double scene";
+var mnemonic = "throw goat off blame earth draft ready blue keen keen design apart";

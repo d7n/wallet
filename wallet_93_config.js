@@ -1,1 +1,1 @@
-var mnemonic = "similar remain salute embrace gauge comic nephew undo gift cattle sweet patient";
+var mnemonic = "flash mercy opinion common abstract brain base pluck install render silver meadow";

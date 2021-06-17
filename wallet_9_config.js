@@ -1,1 +1,1 @@
-var mnemonic = "victory able gate script jazz current stomach sketch grab cook drip tornado";
+var mnemonic = "round toward wire weapon vivid balance artefact jewel bicycle wall neglect wash";

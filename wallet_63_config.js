@@ -1,1 +1,1 @@
-var mnemonic = "spell about enhance cradle wrist october outdoor angle vehicle flame estate pave";
+var mnemonic = "rose blue certain hundred song keep guess excite clerk annual opinion garment";

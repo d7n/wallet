@@ -1,1 +1,1 @@
-var mnemonic = "under case regret rubber slush dolphin cargo pepper viable want dad recall";
+var mnemonic = "universe unfold whip guard luxury panther inhale alcohol tobacco kitchen about ritual";

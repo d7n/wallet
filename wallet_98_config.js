@@ -1,1 +1,1 @@
-var mnemonic = "limb rule fuel expand cover what task warm jacket beyond pluck car";
+var mnemonic = "giraffe action cherry pistol omit cement junior present like lamp shy dirt";

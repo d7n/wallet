@@ -1,1 +1,1 @@
-var mnemonic = "scare spot turtle room chat ridge prize proof token card lens tube";
+var mnemonic = "lift spike witness resource live carbon tobacco enemy sniff assist arrange supply";

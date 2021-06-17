@@ -1,1 +1,1 @@
-var mnemonic = "upgrade absurd used apology liberty clean vapor buzz powder remember glue ten";
+var mnemonic = "soft siege claim silent hen teach fresh year service bench test grid";

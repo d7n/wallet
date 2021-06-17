@@ -1,1 +1,1 @@
-var mnemonic = "emotion web improve mix hold pear best sure rule style pupil fossil";
+var mnemonic = "lucky liar runway desk police arctic venue atom glass milk life honey";

@@ -1,1 +1,1 @@
-var mnemonic = "success flip drum tray fashion mango jealous bind worth art future brush";
+var mnemonic = "arrange earth release tomato valid find expect buyer spice winner tobacco bulb";

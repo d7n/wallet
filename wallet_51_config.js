@@ -1,1 +1,1 @@
-var mnemonic = "horse decline rotate maximum harsh axis tunnel donkey language matrix august cruise";
+var mnemonic = "begin link surge now trend soon rapid surround girl shoot vacant mushroom";

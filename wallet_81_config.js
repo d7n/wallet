@@ -1,1 +1,1 @@
-var mnemonic = "alone ski mimic east scout fever ridge fruit brand fox marriage corn";
+var mnemonic = "veteran intact eye carpet core length together improve rate vibrant zoo false";

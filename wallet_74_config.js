@@ -1,1 +1,1 @@
-var mnemonic = "smart wait awesome approve hero exhibit cause drama paddle abuse alarm outside";
+var mnemonic = "predict clerk elegant sudden tape example lunch blast cross cement noise slab";

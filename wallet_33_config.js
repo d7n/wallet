@@ -1,1 +1,1 @@
-var mnemonic = "found essence proof fade escape boy wagon company autumn argue horn fluid";
+var mnemonic = "sniff code assist bottom marriage faculty muscle claim snake social alpha glow";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise machine rural scan just job uncover capable prosper slam cycle lizard";
+var mnemonic = "profit cattle drastic talent power exist process bird airport plug discover leave";

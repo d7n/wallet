@@ -1,1 +1,1 @@
-var mnemonic = "next fuel erosion armed thought cross throw steak fire issue rain tiny";
+var mnemonic = "settle noble tattoo crouch puzzle member exile ozone divert evolve hint under";

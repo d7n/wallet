@@ -1,1 +1,1 @@
-var mnemonic = "lock asthma affair ship agent auto cousin rhythm scan library danger parent";
+var mnemonic = "endorse rule rail spell sausage tackle cat song fame wing section video";

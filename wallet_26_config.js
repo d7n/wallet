@@ -1,1 +1,1 @@
-var mnemonic = "bonus bargain curve ski test cruel grant arrest wood valve ostrich cheese";
+var mnemonic = "little disagree until genius inhale envelope inflict ocean edit jelly clump collect";

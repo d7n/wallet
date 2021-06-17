@@ -1,1 +1,1 @@
-var mnemonic = "neglect error dune turkey forum muffin service derive furnace quote monster deer";
+var mnemonic = "legend goddess hub useful join equip appear festival during inmate tattoo they";

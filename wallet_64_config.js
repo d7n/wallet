@@ -1,1 +1,1 @@
-var mnemonic = "tool garden cheap asthma oval hedgehog saddle thank limit lemon horror afford";
+var mnemonic = "enjoy observe pear oven frame decrease good forum hair train spot taxi";

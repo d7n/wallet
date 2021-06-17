@@ -1,1 +1,1 @@
-var mnemonic = "leg seek goat display winter cradle repair young person divert jacket april";
+var mnemonic = "source cabbage impose song palace render subject flight west crack alley episode";

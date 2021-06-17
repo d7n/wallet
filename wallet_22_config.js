@@ -1,1 +1,1 @@
-var mnemonic = "warfare face pause evolve found shoulder tail card sustain emotion trophy scrub";
+var mnemonic = "cupboard bamboo scheme nice extend reunion custom swap world trophy episode bunker";

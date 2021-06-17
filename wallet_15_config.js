@@ -1,1 +1,1 @@
-var mnemonic = "brisk main valid smoke mask team parade mail absent picture echo define";
+var mnemonic = "strategy hat spare domain rookie art airport frog hill there alert where";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut long fine huge misery topple easily exercise gold twice knee wonder";
+var mnemonic = "turn about situate nasty romance crunch couple blossom summer outdoor trophy hat";

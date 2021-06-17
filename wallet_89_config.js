@@ -1,1 +1,1 @@
-var mnemonic = "crack pole way forward end addict purity urge drum burger act alley";
+var mnemonic = "judge certain stairs harbor inquiry erase brick cattle board fury trim film";

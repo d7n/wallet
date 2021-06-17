@@ -1,1 +1,1 @@
-var mnemonic = "business surround nice weird lumber fruit boil plate two reward trust system";
+var mnemonic = "torch rotate pride bulk pyramid become woman police wrist pony finger earth";

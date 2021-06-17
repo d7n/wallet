@@ -1,1 +1,1 @@
-var mnemonic = "shallow giraffe tissue elephant crumble design pulp license spread blame crew bring";
+var mnemonic = "topic walk friend theory napkin naive matter merit powder winner world skin";

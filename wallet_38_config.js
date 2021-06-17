@@ -1,1 +1,1 @@
-var mnemonic = "glance shed code require border three negative habit become segment stick bleak";
+var mnemonic = "lobster blast hire pottery hint roast hammer rookie argue creek fashion deliver";

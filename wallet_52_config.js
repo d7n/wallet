@@ -1,1 +1,1 @@
-var mnemonic = "arrive talent woman rare become mask affair dose medal attack exhibit ice";
+var mnemonic = "tomorrow season tray answer until radio polar verify system rib wash system";

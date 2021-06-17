@@ -1,1 +1,1 @@
-var mnemonic = "describe cake sudden can enjoy eagle aunt vivid dirt risk shuffle dutch";
+var mnemonic = "senior then rebel quick banner sword major blind guitar clutch carpet fluid";

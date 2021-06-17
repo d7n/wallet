@@ -1,1 +1,1 @@
-var mnemonic = "lava glory palace moon health social whip often mammal kingdom gun shield";
+var mnemonic = "vacant immune treat floor language opinion donate zoo cry kiss hollow polar";

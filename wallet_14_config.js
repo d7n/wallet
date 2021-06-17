@@ -1,1 +1,1 @@
-var mnemonic = "top cement empower flat lion clown modify fabric charge fatigue long make";
+var mnemonic = "napkin symptom other alert lens slot bargain relax begin quantum person plunge";

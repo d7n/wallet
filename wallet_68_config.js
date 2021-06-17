@@ -1,1 +1,1 @@
-var mnemonic = "idea bring card leave right banana come produce asthma sweet used february";
+var mnemonic = "hybrid virtual away dog embark fossil puzzle evoke destroy shaft used april";

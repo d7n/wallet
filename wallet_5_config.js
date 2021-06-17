@@ -1,1 +1,1 @@
-var mnemonic = "deposit table stereo bridge return execute pyramid engage very enact robot alarm";
+var mnemonic = "debris sting shuffle topple choice rule play spin common knee feature garment";

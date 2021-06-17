@@ -1,1 +1,1 @@
-var mnemonic = "strategy rabbit cover clip hood moon depend today skin roast thrive high";
+var mnemonic = "wagon laugh absent bid resemble hover love suit face birth cousin glue";

@@ -1,1 +1,1 @@
-var mnemonic = "turtle memory east total behind endless bless burst awake copy monster neck";
+var mnemonic = "fiction ability bleak fat wine cup access gas turn vocal erase kangaroo";

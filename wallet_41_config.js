@@ -1,1 +1,1 @@
-var mnemonic = "spray office devote buffalo fancy sad juice source purchase inquiry large latin";
+var mnemonic = "wine unfair citizen harvest water dirt repair address number credit burst glide";

@@ -1,1 +1,1 @@
-var mnemonic = "matter expose dignity attend wrap consider early peasant office hold abstract estate";
+var mnemonic = "swarm slush major food shop roof churn observe report coconut inflict sting";

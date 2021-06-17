@@ -1,1 +1,1 @@
-var mnemonic = "aware suggest era render answer purchase nothing ring rebuild page wood rescue";
+var mnemonic = "manage angle cute title edge cupboard enrich draw flush table speak amount";

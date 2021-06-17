@@ -1,1 +1,1 @@
-var mnemonic = "crane describe initial feed pizza member merge hip snap situate ghost dream";
+var mnemonic = "buddy deposit dice volcano slush sunset fresh ability gas below gesture toilet";

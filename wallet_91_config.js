@@ -1,1 +1,1 @@
-var mnemonic = "jewel strong radio myself notable amused equip identify seven mutual approve adapt";
+var mnemonic = "over human early announce source pepper vapor shuffle lumber combine script pulp";

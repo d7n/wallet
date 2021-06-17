@@ -1,1 +1,1 @@
-var mnemonic = "scatter off garden describe prison sister laundry sense limit easy abstract identify";
+var mnemonic = "unfair unknown quarter hollow quarter above domain runway shoe lottery wage smooth";

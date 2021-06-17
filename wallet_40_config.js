@@ -1,1 +1,1 @@
-var mnemonic = "thrive civil aerobic school burst blame sort front cigar output trade abstract";
+var mnemonic = "misery vital panther twelve ladder lift domain swing act crucial general light";

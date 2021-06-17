@@ -1,1 +1,1 @@
-var mnemonic = "lemon truck jacket license shoe expand subway over sun daring siren buddy";
+var mnemonic = "again sock neglect isolate border mimic annual catalog cannon boil twelve twin";

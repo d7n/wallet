@@ -1,1 +1,1 @@
-var mnemonic = "neither vanish peanut kitchen ketchup blush odor staff festival welcome silver casual";
+var mnemonic = "seminar range apple waste foster allow trap march witness slice label rack";

@@ -1,1 +1,1 @@
-var mnemonic = "announce wash oven comic wing vanish weasel virtual yellow source hope outer";
+var mnemonic = "pond curtain senior celery sail cruise almost merry online visual gaze best";

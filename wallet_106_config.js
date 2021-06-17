@@ -1,1 +1,1 @@
-var mnemonic = "upper double level surprise obvious prosper veteran cancel silk allow royal plug";
+var mnemonic = "love lucky worry priority label bachelor debris switch cause liberty antenna height";

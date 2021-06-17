@@ -1,1 +1,1 @@
-var mnemonic = "doll run claim test wet whisper seven observe final noise poem village";
+var mnemonic = "rookie pink cage trend rule scrub chest someone effort unhappy venue humble";

@@ -1,1 +1,1 @@
-var mnemonic = "clean debris another grant what liquid picnic detect goat alpha slogan coil";
+var mnemonic = "title relief royal evolve myth goat split eagle near banner head room";

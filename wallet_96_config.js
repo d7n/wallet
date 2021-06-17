@@ -1,1 +1,1 @@
-var mnemonic = "country pill health spend little reject excuse census turtle butter innocent diet";
+var mnemonic = "width confirm mountain across cave require wonder shoot today catalog record awkward";

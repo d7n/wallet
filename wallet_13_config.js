@@ -1,1 +1,1 @@
-var mnemonic = "cabbage lamp debris zebra digital truth pyramid rabbit taxi force slam addict";
+var mnemonic = "duty stable acid job era fame satisfy detail frog lounge helmet dust";

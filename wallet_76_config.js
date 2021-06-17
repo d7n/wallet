@@ -1,1 +1,1 @@
-var mnemonic = "senior sun shallow pave weekend pluck grunt potato route lecture clown magic";
+var mnemonic = "scissors magic comic actual history subway rare ticket similar snake wheat glue";

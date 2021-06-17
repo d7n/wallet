@@ -1,1 +1,1 @@
-var mnemonic = "cave caution abstract sorry giraffe devote delay envelope keep tattoo meadow pony";
+var mnemonic = "elephant great stay misery jealous patient salad orange waste treat garlic motor";

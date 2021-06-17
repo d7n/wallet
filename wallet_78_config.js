@@ -1,1 +1,1 @@
-var mnemonic = "replace give erupt avocado priority ball lucky canyon grab join gown chase";
+var mnemonic = "success crawl leg math remove author guess element retire cream forget skill";

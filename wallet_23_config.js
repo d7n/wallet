@@ -1,1 +1,1 @@
-var mnemonic = "grab favorite raccoon govern fitness post letter glove clown blood angle calm";
+var mnemonic = "tone seed solution arrest patrol journey expand draft volume basket raven merry";

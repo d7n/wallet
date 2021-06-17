@@ -1,1 +1,1 @@
-var mnemonic = "million trim supreme crime donate space tape divorce erase promote sort inhale";
+var mnemonic = "reunion timber unable logic fossil glow return diary debris dog walk consider";

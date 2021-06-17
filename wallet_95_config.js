@@ -1,1 +1,1 @@
-var mnemonic = "correct hip apology random regret hand odor toy logic license air opinion";
+var mnemonic = "crisp crucial myth lemon bottom miss throw artefact edge month palm pottery";

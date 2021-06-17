@@ -1,1 +1,1 @@
-var mnemonic = "state knee canyon upon west lottery alien link enemy ordinary antique earn";
+var mnemonic = "drill scrap cat early shoe crunch vital lyrics volcano item attend cart";

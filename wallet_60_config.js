@@ -1,1 +1,1 @@
-var mnemonic = "fall secret slab lion grocery fault source tone fetch render ramp vicious";
+var mnemonic = "cycle gauge hour blood right notice memory correct surge three board clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate idle sell traffic planet arrive topple talk drive evolve arrive want";
+var mnemonic = "clean detect cargo shallow draw better lumber citizen staff situate senior potato";

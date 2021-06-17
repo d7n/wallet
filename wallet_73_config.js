@@ -1,1 +1,1 @@
-var mnemonic = "friend echo betray peasant trophy join flight saddle fluid lion fade spatial";
+var mnemonic = "movie leave note blanket toward easily promote wasp peanut drama attack smoke";
