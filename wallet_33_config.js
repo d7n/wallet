@@ -1,1 +1,1 @@
-var mnemonic = "print loan pair diagram hospital virtual almost soul uniform exhaust guard derive";
+var mnemonic = "olympic ocean jeans else slot shock current metal diagram nature nurse turtle";

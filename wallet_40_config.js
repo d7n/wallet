@@ -1,1 +1,1 @@
-var mnemonic = "vibrant monster result become eternal person cricket balcony warrior report cricket history";
+var mnemonic = "verify diagram dawn donkey often absorb kitten jewel figure input pelican card";

@@ -1,1 +1,1 @@
-var mnemonic = "phone curtain place coconut index blind belt connect please ice split recipe";
+var mnemonic = "tuition crumble wet south excuse menu tongue clump defense detail elephant message";

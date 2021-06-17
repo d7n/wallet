@@ -1,1 +1,1 @@
-var mnemonic = "pelican fancy engage taxi grid update need west clean scale seed month";
+var mnemonic = "coast primary solve beach buyer topic ripple theme outer move soap invite";

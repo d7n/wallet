@@ -1,1 +1,1 @@
-var mnemonic = "camera jar inspire film guard job process number usual return chimney timber";
+var mnemonic = "combine source develop young jeans village animal advance matter double turn key";

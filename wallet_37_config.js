@@ -1,1 +1,1 @@
-var mnemonic = "trade kit parrot face arm inspire find pact quiz exhaust awkward library";
+var mnemonic = "morning tape carpet boil hat auto beauty holiday afraid cannon bulb sunset";

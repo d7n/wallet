@@ -1,1 +1,1 @@
-var mnemonic = "evoke uncover patch crack write dragon open tissue thrive wrong liar save";
+var mnemonic = "physical author review swing derive alert term drum menu forest broccoli worth";

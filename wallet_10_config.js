@@ -1,1 +1,1 @@
-var mnemonic = "just legend age slim tomato reason motor just hill flee normal effort";
+var mnemonic = "exist achieve mango upon differ twin unknown net rhythm modify bitter case";

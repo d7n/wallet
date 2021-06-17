@@ -1,1 +1,1 @@
-var mnemonic = "copy donor stock civil metal review bar title patch purity ketchup ship";
+var mnemonic = "original wave sustain arm guilt add cost twist auto mirror able best";

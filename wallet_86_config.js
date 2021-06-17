@@ -1,1 +1,1 @@
-var mnemonic = "cradle merit imitate stool flight fatal trust order theory escape wood garment";
+var mnemonic = "dust town category broom category blame museum degree pet arch pretty spot";

@@ -1,1 +1,1 @@
-var mnemonic = "brother badge surge weather current tiny edge lobster horse dog fox gallery";
+var mnemonic = "alone rail dress noble idea demise tourist lounge fit aspect suspect trap";

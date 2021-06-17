@@ -1,1 +1,1 @@
-var mnemonic = "unique moral they turtle scatter neutral analyst mean choose unusual vacuum liar";
+var mnemonic = "small quick mule anger program suggest board trigger hole front swap tortoise";

@@ -1,1 +1,1 @@
-var mnemonic = "garden moment broccoli law party discover drill struggle obey witness chief gravity";
+var mnemonic = "useful pony acoustic matter very burger throw ethics neglect post turkey unfold";

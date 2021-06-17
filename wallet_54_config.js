@@ -1,1 +1,1 @@
-var mnemonic = "afraid consider twist replace educate peanut pill cigar icon exist silent spike";
+var mnemonic = "banana exit input exclude empower diamond exhibit victory cigar goat must senior";

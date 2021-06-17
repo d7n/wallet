@@ -1,1 +1,1 @@
-var mnemonic = "gloom manual drive cube field viable security around witness feature cruel left";
+var mnemonic = "alter potato enable meat toast input club boat multiply vague blur pottery";

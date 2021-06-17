@@ -1,1 +1,1 @@
-var mnemonic = "never scatter all garment ice picture capital crew slush agree choose pattern";
+var mnemonic = "smoke evolve forget fragile manage zero describe torch offer era canyon custom";

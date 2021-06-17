@@ -1,1 +1,1 @@
-var mnemonic = "bubble brave timber erupt kiwi salon casual fun engage arrive fog best";
+var mnemonic = "roof logic hobby cash crop inside since kid salmon ethics inmate survey";

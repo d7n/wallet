@@ -1,1 +1,1 @@
-var mnemonic = "position bless one art bachelor twin diet upgrade bus bean unlock oil";
+var mnemonic = "film siege diet pumpkin return trip wedding sugar best error right soap";

@@ -1,1 +1,1 @@
-var mnemonic = "drive rich side boat struggle bicycle hotel away suggest firm satisfy margin";
+var mnemonic = "tissue hello firm gospel razor seek rookie vanish debate modify away scare";

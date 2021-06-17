@@ -1,1 +1,1 @@
-var mnemonic = "spawn pulp bronze profit inmate unique frequent age pledge crumble only bonus";
+var mnemonic = "buffalo negative oven derive decide romance silk athlete attitude suit economy goose";

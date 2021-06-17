@@ -1,1 +1,1 @@
-var mnemonic = "debris base simple high pepper ketchup leg leg wheat success patch inform";
+var mnemonic = "hope shoe best dove wheat mango logic hub say furnace stock quarter";

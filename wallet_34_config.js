@@ -1,1 +1,1 @@
-var mnemonic = "monster remind oil era material shrug enlist rather twist tilt attend jaguar";
+var mnemonic = "carpet diagram fly rail increase point reveal conduct trumpet quit wink ethics";

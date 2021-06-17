@@ -1,1 +1,1 @@
-var mnemonic = "mix aspect energy vast space museum trip pizza similar gown fragile congress";
+var mnemonic = "wink quality flavor height bar gather soup letter asset affair suspect gloom";

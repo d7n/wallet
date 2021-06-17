@@ -1,1 +1,1 @@
-var mnemonic = "dove during risk rally unit tissue same female monkey turkey giant acquire";
+var mnemonic = "unfair exclude belt cable weather mimic grain delay blade river worry off";

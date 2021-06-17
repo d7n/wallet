@@ -1,1 +1,1 @@
-var mnemonic = "scan one wrap tortoise give foster wash wasp bridge check file until";
+var mnemonic = "globe oven reflect girl census universe measure time pitch axis lucky brother";

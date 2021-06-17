@@ -1,1 +1,1 @@
-var mnemonic = "pupil father middle tuition blanket mean physical stereo forget inspire animal stool";
+var mnemonic = "review can either ranch grow index citizen child resist story pitch pulp";

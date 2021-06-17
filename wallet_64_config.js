@@ -1,1 +1,1 @@
-var mnemonic = "body slim agent page loan ignore now cat raise emotion work portion";
+var mnemonic = "demise wave city sheriff three twelve snow winter comic right wool sister";

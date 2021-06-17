@@ -1,1 +1,1 @@
-var mnemonic = "flock talk sketch army wise bracket safe elevator nasty mandate muscle end";
+var mnemonic = "drop rule opinion crowd head network loop legal hour session what buddy";

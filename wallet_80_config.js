@@ -1,1 +1,1 @@
-var mnemonic = "short proof autumn episode stable work zero shaft clarify sadness empower number";
+var mnemonic = "snap great expire impulse around about first year install venture canal laptop";

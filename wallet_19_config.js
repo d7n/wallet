@@ -1,1 +1,1 @@
-var mnemonic = "muscle lazy ability behind corn sweet build nasty disagree december enjoy put";
+var mnemonic = "rude off pet april fan woman vintage inquiry logic cattle replace vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "taste flash cheese retire approve scan curtain draw doctor unit rubber cherry";
+var mnemonic = "future own rabbit loan above lawn defy off combine pilot major deliver";

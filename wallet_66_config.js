@@ -1,1 +1,1 @@
-var mnemonic = "paddle duck balcony hen furnace drum cheap addict argue trumpet lab visa";
+var mnemonic = "artist blind beauty coyote sail toward antique sun hand good topic adapt";

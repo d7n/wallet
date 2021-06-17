@@ -1,1 +1,1 @@
-var mnemonic = "deal save bachelor swallow say diet miracle danger battle stone modify awful";
+var mnemonic = "idea remain issue elbow scatter ensure dress speed garment smile add survey";

@@ -1,1 +1,1 @@
-var mnemonic = "bone tornado fat glare ski minor citizen round taxi oxygen inhale solar";
+var mnemonic = "sun expire trophy extra thumb tank chimney lion average name torch among";

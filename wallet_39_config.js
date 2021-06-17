@@ -1,1 +1,1 @@
-var mnemonic = "friend visit april salmon indicate exhibit laugh window rib youth measure orbit";
+var mnemonic = "stamp debate repair saddle party arctic oil analyst powder tank attack paddle";

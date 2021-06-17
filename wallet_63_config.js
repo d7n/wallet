@@ -1,1 +1,1 @@
-var mnemonic = "picnic curious dilemma draw dilemma mango success boy danger unaware under symptom";
+var mnemonic = "identify waste luxury left copper fresh museum erase vanish swallow dance permit";

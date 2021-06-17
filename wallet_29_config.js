@@ -1,1 +1,1 @@
-var mnemonic = "portion champion shield dismiss prize erupt mango element merge palace river blouse";
+var mnemonic = "viable bunker more jar arena build diary hat filter taste diary banner";

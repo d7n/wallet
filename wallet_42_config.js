@@ -1,1 +1,1 @@
-var mnemonic = "seed syrup satoshi truck casual woman mandate hand head trigger hour valid";
+var mnemonic = "zero ketchup switch plunge design churn pigeon cover whale trouble relief frame";

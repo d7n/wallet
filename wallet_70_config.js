@@ -1,1 +1,1 @@
-var mnemonic = "online spare curve unusual dwarf timber slab curtain sing puppy shell able";
+var mnemonic = "quit web wrist cradle shaft weekend pumpkin artefact above toe normal ill";

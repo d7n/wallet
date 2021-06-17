@@ -1,1 +1,1 @@
-var mnemonic = "swarm adjust genius lock tonight uncover provide add letter anxiety anger vibrant";
+var mnemonic = "boring patient speak piano drop choice famous couch original artwork tower pride";

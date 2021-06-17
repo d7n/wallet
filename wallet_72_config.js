@@ -1,1 +1,1 @@
-var mnemonic = "visa escape rail swap round rug hazard genre any arch embark cross";
+var mnemonic = "picnic warrior distance double weather clip stadium piece palace genius year rather";

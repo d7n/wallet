@@ -1,1 +1,1 @@
-var mnemonic = "current kick afford earth wink sibling phone slot lizard ill slow usual";
+var mnemonic = "witness shy price hedgehog until sunset joke sing sister green attack half";

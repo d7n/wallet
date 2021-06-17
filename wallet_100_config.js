@@ -1,1 +1,1 @@
-var mnemonic = "bless tuna stuff option hover fence bullet street purse hobby stay unlock";
+var mnemonic = "quote wash trade harvest floor dog brain two disease green tooth typical";

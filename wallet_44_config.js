@@ -1,1 +1,1 @@
-var mnemonic = "method stool disorder olive flame wave team law owner predict main razor";
+var mnemonic = "bronze kidney anchor dinosaur parrot report future order ring movie sibling coyote";

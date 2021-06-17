@@ -1,1 +1,1 @@
-var mnemonic = "ask price acquire prison drift topic pool also sugar smooth clerk tag";
+var mnemonic = "drive town receive awesome tiny fancy fancy tortoise lucky indicate saddle volume";

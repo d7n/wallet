@@ -1,1 +1,1 @@
-var mnemonic = "soon hockey spatial reflect siren lemon cave present simple illegal blood flash";
+var mnemonic = "address museum gun seven found blame baby shiver city emerge bright legend";

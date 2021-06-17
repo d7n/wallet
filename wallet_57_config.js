@@ -1,1 +1,1 @@
-var mnemonic = "diagram lucky elegant upon sweet parrot employ will solar logic satisfy glide";
+var mnemonic = "tennis pony force foam uncle topic nation napkin office kiss bottom tent";

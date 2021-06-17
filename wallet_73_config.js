@@ -1,1 +1,1 @@
-var mnemonic = "glove pull edge mushroom motor fork glance enough swear any science family";
+var mnemonic = "mushroom fuel unusual solid dumb home focus zebra giraffe track grab clap";

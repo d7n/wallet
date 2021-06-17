@@ -1,1 +1,1 @@
-var mnemonic = "bracket scale have kick saddle moon twice virtual agree bitter glance shop";
+var mnemonic = "inside now bind property tooth push deer tube aunt actual style cave";

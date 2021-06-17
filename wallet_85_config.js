@@ -1,1 +1,1 @@
-var mnemonic = "purse news gap post artwork sting spice pear display system suspect shock";
+var mnemonic = "evolve flee trust convince outdoor shoe rely opera exile ritual discover trial";

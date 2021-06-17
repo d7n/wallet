@@ -1,1 +1,1 @@
-var mnemonic = "drastic phrase neutral between pulp work alcohol cup jungle friend village vast";
+var mnemonic = "wrap exact thank foster fall catalog lounge flight seat weekend virus quote";

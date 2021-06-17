@@ -1,1 +1,1 @@
-var mnemonic = "rich soul property garbage blade long situate weather fever region will shock";
+var mnemonic = "renew various cage pear battle pair siren reform spoil ability okay jaguar";

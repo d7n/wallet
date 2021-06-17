@@ -1,1 +1,1 @@
-var mnemonic = "dynamic tide trumpet try draw hurdle abstract bus immense weapon rib erode";
+var mnemonic = "invest target theme regular vast health salmon soda useless hurry success social";

@@ -1,1 +1,1 @@
-var mnemonic = "file exact stable member load cliff siren base grow rib mammal false";
+var mnemonic = "satoshi federal artist twice above audit minute movie now rain drill hand";

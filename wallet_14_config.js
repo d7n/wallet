@@ -1,1 +1,1 @@
-var mnemonic = "sugar grid camera cross gas economy over tooth ridge deputy boost quarter";
+var mnemonic = "victory oil van admit drip convince much feel cash resource gun renew";

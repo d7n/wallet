@@ -1,1 +1,1 @@
-var mnemonic = "fashion jaguar endless board peace soda suit funny tube lonely work help";
+var mnemonic = "toe about picture borrow fog local law agent route vault anxiety beyond";

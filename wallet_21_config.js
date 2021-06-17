@@ -1,1 +1,1 @@
-var mnemonic = "crane rough erode borrow admit cattle embark soon festival wall disease upgrade";
+var mnemonic = "silent error jacket window neck act word young beauty use tumble guard";

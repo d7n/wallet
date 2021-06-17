@@ -1,1 +1,1 @@
-var mnemonic = "delay cricket pipe axis trash unfold fragile design inject raccoon magnet boil";
+var mnemonic = "evolve under taste torch square teach renew general cousin slush fiction will";

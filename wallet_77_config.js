@@ -1,1 +1,1 @@
-var mnemonic = "beach logic wood box silly electric general lend lottery this response salmon";
+var mnemonic = "gate cousin toast banana essence disagree cabin poem timber curious state onion";

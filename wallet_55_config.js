@@ -1,1 +1,1 @@
-var mnemonic = "vocal exile success label amazing ride bird vague quiz place ocean anxiety";
+var mnemonic = "above approve fury axis engage steak false image recycle prevent priority help";

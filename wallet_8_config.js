@@ -1,1 +1,1 @@
-var mnemonic = "oil strike bachelor attitude discover width piano museum soft surround loud latin";
+var mnemonic = "lounge vessel slot false alcohol lonely invest purchase lottery finish suit awesome";

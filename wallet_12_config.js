@@ -1,1 +1,1 @@
-var mnemonic = "surface tape lake aisle defy shop stool spoon genre element vintage fury";
+var mnemonic = "treat year elder regular acoustic found beyond caution inspire ginger describe special";

@@ -1,1 +1,1 @@
-var mnemonic = "suit slight old place trust box method idea drive paper fault corn";
+var mnemonic = "tree someone eager diamond camp oval staff salmon vapor move physical host";

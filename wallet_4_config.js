@@ -1,1 +1,1 @@
-var mnemonic = "water evil orchard diagram ripple invest screen deer bubble lend soon one";
+var mnemonic = "shadow express modify frog ecology someone nut monster venture news food elegant";

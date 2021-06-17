@@ -1,1 +1,1 @@
-var mnemonic = "vehicle glow amateur flower soft pen rent flock wood swift rabbit spray";
+var mnemonic = "gospel cattle olympic absorb poem few claw decrease cook health deny village";

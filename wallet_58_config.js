@@ -1,1 +1,1 @@
-var mnemonic = "order flat clump issue suffer wet eager recycle almost bridge bronze pave";
+var mnemonic = "inject degree begin wreck drastic primary language one deal rotate elephant soul";

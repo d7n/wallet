@@ -1,1 +1,1 @@
-var mnemonic = "divert rescue energy genre share tennis during depart riot cry patrol hungry";
+var mnemonic = "matter pond toddler trash broken tape noise spell slide error return enact";

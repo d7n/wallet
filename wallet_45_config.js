@@ -1,1 +1,1 @@
-var mnemonic = "mosquito cruel rifle hurt giant tower raw letter primary office west mimic";
+var mnemonic = "alien crazy deposit foam wrap scale monitor list save pottery assault tongue";

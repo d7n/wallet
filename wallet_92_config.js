@@ -1,1 +1,1 @@
-var mnemonic = "relax matter deliver avocado pave grow stomach embody fresh sweet will cattle";
+var mnemonic = "jeans setup comfort slab soldier walnut insane mass embark limb focus blush";

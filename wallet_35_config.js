@@ -1,1 +1,1 @@
-var mnemonic = "rescue pitch vital cover december access certain monitor order general pulse antique";
+var mnemonic = "invite afford blush stuff unfold letter toy public degree exact country bounce";

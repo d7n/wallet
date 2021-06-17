@@ -1,1 +1,1 @@
-var mnemonic = "knock domain excess ozone alert water piano busy lecture include speed velvet";
+var mnemonic = "enhance include print joy liquid harsh adapt vacuum rhythm rebel size cruel";

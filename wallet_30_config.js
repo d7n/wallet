@@ -1,1 +1,1 @@
-var mnemonic = "cause leave custom quit smart wine defy retreat axis moment company fancy";
+var mnemonic = "armor aware smile luxury ramp build grit arrive despair oval cause method";

@@ -1,1 +1,1 @@
-var mnemonic = "eternal autumn alert hidden dinosaur report math blossom yard another rule fossil";
+var mnemonic = "cry service merry reflect scare erosion silk round soup enjoy tonight school";

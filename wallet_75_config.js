@@ -1,1 +1,1 @@
-var mnemonic = "soda narrow net mouse loop razor snake open raise elder earth vicious";
+var mnemonic = "dynamic cream valid winter crucial ill flee segment indoor meadow true blast";

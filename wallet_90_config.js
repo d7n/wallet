@@ -1,1 +1,1 @@
-var mnemonic = "lunch muscle push assist bread brain orient mixture cage wait wolf exchange";
+var mnemonic = "shrimp face cheap sweet between annual worth giraffe material owner wink fall";

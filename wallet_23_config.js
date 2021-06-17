@@ -1,1 +1,1 @@
-var mnemonic = "verify tiny fetch boss atom weather silent flight bid zebra release voice";
+var mnemonic = "truly bottom hospital fat refuse tool faculty author hollow nest sleep eye";

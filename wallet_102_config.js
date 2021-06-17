@@ -1,1 +1,1 @@
-var mnemonic = "blue armed denial gallery provide roof alone express toss treat miss fiber";
+var mnemonic = "abuse embody little fortune enroll soul raw disease fluid crawl obvious scissors";

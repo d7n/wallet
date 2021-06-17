@@ -1,1 +1,1 @@
-var mnemonic = "mean scan assault piece guess cash solve rifle scare curve negative coil";
+var mnemonic = "force cigar security miss math fat myself allow catalog identify over tomato";

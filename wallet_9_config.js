@@ -1,1 +1,1 @@
-var mnemonic = "opinion cream travel connect gas october arch impose thumb rather employ flee";
+var mnemonic = "cabbage nature boil broccoli develop decade action diamond trim sight supreme distance";

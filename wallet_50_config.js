@@ -1,1 +1,1 @@
-var mnemonic = "mixture success giggle palm toy prepare auto high glory sight fold brush";
+var mnemonic = "win urge sadness sand media hair title suggest energy punch flash drift";

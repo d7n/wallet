@@ -1,1 +1,1 @@
-var mnemonic = "blame laptop siren what story spider skin yellow observe congress business tomorrow";
+var mnemonic = "struggle basket void whisper fall into remind salad maze rain all blood";

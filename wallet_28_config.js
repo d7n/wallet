@@ -1,1 +1,1 @@
-var mnemonic = "used rare clip monitor blossom inside toddler float material scissors casual social";
+var mnemonic = "transfer improve romance typical oyster attract pig crouch motion reduce stool polar";

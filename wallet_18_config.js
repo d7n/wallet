@@ -1,1 +1,1 @@
-var mnemonic = "salon clinic dose purpose glory ketchup envelope supreme injury master lens ability";
+var mnemonic = "script need castle spray become night grace thumb have wet dismiss melody";

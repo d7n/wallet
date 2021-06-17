@@ -1,1 +1,1 @@
-var mnemonic = "good concert item garage fiction bone point matrix roast dizzy artist year";
+var mnemonic = "custom carry dumb basic damage frog teach page large engage message lunar";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse cushion party unhappy nasty earn boat caution circle ride depart defy";
+var mnemonic = "divide pupil lumber lecture indoor cruise employ donkey autumn december bike physical";

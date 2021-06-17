@@ -1,1 +1,1 @@
-var mnemonic = "round museum latin broken replace cable cram wash patient arrive blush garlic";
+var mnemonic = "abstract middle husband artist weather fiction comic bless type prepare purpose pizza";

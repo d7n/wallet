@@ -1,1 +1,1 @@
-var mnemonic = "buddy noble april estate cash alarm mountain crunch illegal oyster sting umbrella";
+var mnemonic = "soccer journey trigger useless review initial skate sea wish fluid beyond fiction";

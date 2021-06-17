@@ -1,1 +1,1 @@
-var mnemonic = "train update order beach reject they define erase debris sight virus video";
+var mnemonic = "isolate praise film lab unfair mercy humor sort rescue feel various tomorrow";

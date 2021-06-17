@@ -1,1 +1,1 @@
-var mnemonic = "actress wife net small cruel palm glimpse civil electric scrub garlic clerk";
+var mnemonic = "bring idea wire slab visa salon vicious figure unaware appear virtual float";

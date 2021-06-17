@@ -1,1 +1,1 @@
-var mnemonic = "put basket alpha rookie ozone race air shoulder artist gadget unknown volume";
+var mnemonic = "energy panel pioneer wool detail provide moment crunch multiply solar brother notable";

@@ -1,1 +1,1 @@
-var mnemonic = "task robot between bitter lake else giggle copy arrive tiny air horn";
+var mnemonic = "away nice aim fork monkey stage menu frame fit staff build distance";
