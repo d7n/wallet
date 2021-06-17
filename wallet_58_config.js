@@ -1,1 +1,1 @@
-var mnemonic = "capable token like blood memory wonder present edge ride apart help stomach";
+var mnemonic = "boss come mutual evil scissors love disagree tuna initial table demand gravity";

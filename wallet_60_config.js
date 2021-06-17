@@ -1,1 +1,1 @@
-var mnemonic = "clever mom express suspect sure multiply man heart liar omit permit plastic";
+var mnemonic = "apple carry lecture blue desert immune bottom crack burger nothing leader fly";

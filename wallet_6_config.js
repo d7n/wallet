@@ -1,1 +1,1 @@
-var mnemonic = "already nephew dawn move indicate father awful abstract identify found quantum moral";
+var mnemonic = "final wall book charge today impact antenna flip actress ozone sorry cereal";

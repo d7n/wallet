@@ -1,1 +1,1 @@
-var mnemonic = "prosper disease boy guitar motion possible slide pole orbit anchor cushion sorry";
+var mnemonic = "marriage walnut phrase where consider radar fluid notable few price fitness symptom";

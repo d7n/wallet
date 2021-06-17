@@ -1,1 +1,1 @@
-var mnemonic = "always muscle staff scrub horn arm tonight asset robot creek myself three";
+var mnemonic = "length rifle bamboo drama phone rose ginger learn defense earn remove kiwi";

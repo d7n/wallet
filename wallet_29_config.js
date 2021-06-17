@@ -1,1 +1,1 @@
-var mnemonic = "rifle peace humor gate fashion twelve sweet mule vanish crack oak hurdle";
+var mnemonic = "monster capital chunk riot usage hello mirror cruel fly system scene movie";

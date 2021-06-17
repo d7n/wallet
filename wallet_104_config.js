@@ -1,1 +1,1 @@
-var mnemonic = "sunny label process office spy follow sentence allow frame monster siege trip";
+var mnemonic = "spare skull top hair visa gentle ten welcome emerge digital pluck warfare";

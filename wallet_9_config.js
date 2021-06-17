@@ -1,1 +1,1 @@
-var mnemonic = "clap aim hair emotion car tomato disagree drop you regret rubber surprise";
+var mnemonic = "autumn draw novel hint brick load cross vendor image original fragile treat";

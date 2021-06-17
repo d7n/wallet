@@ -1,1 +1,1 @@
-var mnemonic = "story earth arrive dinner orbit exercise place castle enter tomorrow horror often";
+var mnemonic = "render inmate boss shoot street season weasel salt poem large delay team";

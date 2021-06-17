@@ -1,1 +1,1 @@
-var mnemonic = "pen mad jacket file average estate pride promote task fluid circle isolate";
+var mnemonic = "woman vintage extra rack erase monkey wrestle lamp cube deposit address trend";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme result front group armed wood tackle hour train margin brass buddy";
+var mnemonic = "vital differ dirt delay crash develop smile dizzy hole absent clay improve";

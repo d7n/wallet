@@ -1,1 +1,1 @@
-var mnemonic = "can theme deputy girl blame mule insane tribe basic laugh rival volume";
+var mnemonic = "good roof wisdom gap rookie chest idle believe play chuckle fly gain";

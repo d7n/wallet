@@ -1,1 +1,1 @@
-var mnemonic = "fragile helmet caught bundle scheme tip crack immense accuse elephant inside tide";
+var mnemonic = "double squirrel defy fiber sunset slide setup chef bridge meat solve bargain";

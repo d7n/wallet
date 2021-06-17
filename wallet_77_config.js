@@ -1,1 +1,1 @@
-var mnemonic = "coin try wedding diet dragon proof student web lecture train defy pulp";
+var mnemonic = "perfect key orange beyond raccoon proof rain about miss unable club mind";

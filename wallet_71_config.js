@@ -1,1 +1,1 @@
-var mnemonic = "scene bonus divorce toss output sell angle vintage fly tumble practice column";
+var mnemonic = "broccoli answer parrot comic nephew wide lucky later minor smart atom craft";

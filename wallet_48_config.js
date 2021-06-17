@@ -1,1 +1,1 @@
-var mnemonic = "assault mix neutral shove just puzzle bring undo large table aim field";
+var mnemonic = "cabbage thought comic taste harvest envelope trap adapt eternal exact maximum skull";

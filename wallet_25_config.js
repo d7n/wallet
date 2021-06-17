@@ -1,1 +1,1 @@
-var mnemonic = "carbon fortune shy badge leisure pretty detail vehicle pencil wet portion angry";
+var mnemonic = "cushion chief share maple endless script youth bread pride elephant know slim";

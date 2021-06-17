@@ -1,1 +1,1 @@
-var mnemonic = "supreme hybrid fork amazing any pause name panther kitchen fox solid bar";
+var mnemonic = "tennis food frost mountain text snow exile expand hat caution jungle coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "warm odor measure beach wing board pause uniform mother mango grass depth";
+var mnemonic = "drastic secret defense scare balcony busy adjust bamboo please mandate journey fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "middle parade require grab tape any crane glimpse match rotate zero pact";
+var mnemonic = "govern title noise nose mother private tell bean toy road abuse lemon";

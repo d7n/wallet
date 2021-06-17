@@ -1,1 +1,1 @@
-var mnemonic = "dismiss ensure female hunt attract culture actual piece midnight release market wage";
+var mnemonic = "found raw industry index cattle spy odor hobby young suspect grass idea";

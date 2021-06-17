@@ -1,1 +1,1 @@
-var mnemonic = "flight hard ghost bacon talk arena addict acquire pledge olympic deal code";
+var mnemonic = "wagon outside aware eye spatial upset oven setup rival true upon prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic wing stable month screen merge immune will drum firm symptom lonely";
+var mnemonic = "birth apart craft fortune olive city very slab expire letter jelly fever";

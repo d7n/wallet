@@ -1,1 +1,1 @@
-var mnemonic = "honey ostrich verb agent cereal sock seed music attitude fat mansion state";
+var mnemonic = "crystal rib drift keep domain salad impulse candy permit estate cushion dust";

@@ -1,1 +1,1 @@
-var mnemonic = "tail very runway imitate pitch chimney comic flavor slight snack legend leaf";
+var mnemonic = "dismiss river accident ski bind lecture answer path wet target note bone";

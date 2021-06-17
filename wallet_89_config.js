@@ -1,1 +1,1 @@
-var mnemonic = "december fit six hollow shop seat convince belt word slice matrix assist";
+var mnemonic = "width express glide length often quit entry eagle arrow water general eye";

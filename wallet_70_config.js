@@ -1,1 +1,1 @@
-var mnemonic = "candy clerk dumb robust humble dose cricket fog pole faculty often metal";
+var mnemonic = "argue grow audit palace fox salmon pitch thumb other decide awkward profit";

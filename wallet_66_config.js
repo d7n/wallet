@@ -1,1 +1,1 @@
-var mnemonic = "shy denial fabric learn chat broom crush shuffle dilemma sorry machine jelly";
+var mnemonic = "series program please mail slab scale truth goddess lonely betray scan museum";

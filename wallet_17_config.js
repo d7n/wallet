@@ -1,1 +1,1 @@
-var mnemonic = "first expire social core suspect into surface drip become gorilla oil organ";
+var mnemonic = "dinner frown suffer fancy bag follow craft orbit drift public talent guilt";

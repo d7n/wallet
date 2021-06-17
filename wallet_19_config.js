@@ -1,1 +1,1 @@
-var mnemonic = "flight muffin curtain devote ridge palm car pulp tennis scrub river alien";
+var mnemonic = "tired pupil crisp payment holiday junk prize strike equal shrug lecture chronic";

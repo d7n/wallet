@@ -1,1 +1,1 @@
-var mnemonic = "chicken pole plastic female swarm small hover genuine choose history when output";
+var mnemonic = "multiply matter lobster steak rice empower play ecology initial clap social issue";

@@ -1,1 +1,1 @@
-var mnemonic = "hand picture flash hover axis ship isolate club horn upset mixture oven";
+var mnemonic = "truly notable forum say visual ancient salt clerk police crash summer license";

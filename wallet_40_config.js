@@ -1,1 +1,1 @@
-var mnemonic = "crucial upgrade dragon erase machine exercise indoor soft coyote radar lecture debris";
+var mnemonic = "struggle elephant kitchen grab match ribbon again argue dinner hollow farm dog";

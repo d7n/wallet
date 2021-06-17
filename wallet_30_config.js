@@ -1,1 +1,1 @@
-var mnemonic = "stool replace piece dove poem aunt dragon ahead defense camp farm decorate";
+var mnemonic = "dirt spell embark cloud race pattern comfort bulb foot time satoshi spawn";

@@ -1,1 +1,1 @@
-var mnemonic = "empty behave hollow soccer egg naive middle nation tell vanish claim idea";
+var mnemonic = "organ robust venue bulk dinosaur someone guilt judge sniff symptom vapor tennis";

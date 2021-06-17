@@ -1,1 +1,1 @@
-var mnemonic = "window coyote absurd live help always melt awake path wolf omit enough";
+var mnemonic = "frog elite bachelor typical urban banana ancient ketchup slab wrist bounce black";

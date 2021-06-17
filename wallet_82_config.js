@@ -1,1 +1,1 @@
-var mnemonic = "educate exhaust strike match multiply warrior deer pistol creek meadow flash grace";
+var mnemonic = "jelly alone crack cupboard reopen camera silver kind beef glass cheese upon";

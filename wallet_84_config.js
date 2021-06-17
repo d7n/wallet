@@ -1,1 +1,1 @@
-var mnemonic = "output physical unknown enable slogan empty sweet supply long mouse plate similar";
+var mnemonic = "flash december panic expand raise banana scout damp result tattoo logic knee";

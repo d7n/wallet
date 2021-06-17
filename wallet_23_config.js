@@ -1,1 +1,1 @@
-var mnemonic = "guilt assault extend imitate noise jar lunch renew struggle crisp mention come";
+var mnemonic = "boil debris unknown arch hub fetch month toddler small dismiss link hill";

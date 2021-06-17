@@ -1,1 +1,1 @@
-var mnemonic = "hotel juice give train fuel floor bone wet guard put during siren";
+var mnemonic = "emerge couple usual calm escape voyage keep diet acquire amount burger rich";

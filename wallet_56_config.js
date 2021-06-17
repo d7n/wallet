@@ -1,1 +1,1 @@
-var mnemonic = "notice amused artwork famous note orbit such cabin echo sentence wage magnet";
+var mnemonic = "nothing pear timber monster maximum weapon vessel express almost width hair law";

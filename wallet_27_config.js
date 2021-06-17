@@ -1,1 +1,1 @@
-var mnemonic = "test make garden dwarf muscle cheese goat immune sausage hockey library once";
+var mnemonic = "original long educate peace way focus please rookie possible dynamic sea velvet";

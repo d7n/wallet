@@ -1,1 +1,1 @@
-var mnemonic = "can jungle paddle prison online pattern enable portion okay office segment door";
+var mnemonic = "science assume fetch slot wire banana master hedgehog impulse chronic system decorate";

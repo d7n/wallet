@@ -1,1 +1,1 @@
-var mnemonic = "topple border display scare lyrics guilt life unable sell task angry border";
+var mnemonic = "foam luxury state bonus direct until soul barrel harsh lava game order";

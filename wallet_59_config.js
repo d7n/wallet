@@ -1,1 +1,1 @@
-var mnemonic = "screen coconut design captain dinner lonely shift place erase forget discover story";
+var mnemonic = "text solar tortoise unveil unveil pilot slab index globe lumber cannon mistake";

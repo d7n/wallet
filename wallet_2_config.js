@@ -1,1 +1,1 @@
-var mnemonic = "shrug twelve senior autumn outer grid elephant wish mass advice scatter potato";
+var mnemonic = "adapt injury cute local near payment profit yard tonight matrix luggage latin";

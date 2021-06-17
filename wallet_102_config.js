@@ -1,1 +1,1 @@
-var mnemonic = "lava intact aunt raccoon large limb job hover quick trap differ rapid";
+var mnemonic = "cake pig lizard track jar denial decorate peanut chimney analyst distance glass";

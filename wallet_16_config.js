@@ -1,1 +1,1 @@
-var mnemonic = "alarm exercise winter tool local reward balcony model save accident frozen doll";
+var mnemonic = "husband cover actor idea drift town flavor salt treat pony screen reunion";

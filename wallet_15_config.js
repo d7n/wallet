@@ -1,1 +1,1 @@
-var mnemonic = "blur carpet coast metal glimpse fortune rebuild scorpion jaguar nasty point panda";
+var mnemonic = "spider carpet parade aunt buzz split shield buyer now delay biology sail";

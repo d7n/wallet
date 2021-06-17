@@ -1,1 +1,1 @@
-var mnemonic = "orient match deputy summer canvas during fatigue such wisdom scissors nice alpha";
+var mnemonic = "lonely success oxygen lobster please pulp learn exhaust hat zone oil broom";

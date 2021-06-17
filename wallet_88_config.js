@@ -1,1 +1,1 @@
-var mnemonic = "excite twist sight inquiry crisp alter guard symptom eight quarter liar obey";
+var mnemonic = "sock bar clip abstract minute debris tackle alarm struggle captain gravity survey";

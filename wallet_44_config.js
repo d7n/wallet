@@ -1,1 +1,1 @@
-var mnemonic = "fork awful sand health powder picture avoid divide crouch wage ancient celery";
+var mnemonic = "under general junk symbol february reopen shadow flock blade maple auto party";

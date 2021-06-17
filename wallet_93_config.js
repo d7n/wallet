@@ -1,1 +1,1 @@
-var mnemonic = "turkey lift chaos coin style spring object copper stadium that tragic typical";
+var mnemonic = "educate gap guide bleak inside twenty tray reveal price wage small shoulder";

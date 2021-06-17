@@ -1,1 +1,1 @@
-var mnemonic = "elder hero horse pledge high cash supply bid that catch cloth garage";
+var mnemonic = "stumble silver vibrant rent acid frame bread dilemma elevator roof sting history";

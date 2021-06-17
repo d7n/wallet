@@ -1,1 +1,1 @@
-var mnemonic = "tuition cliff person glory clutch muffin hover outer seminar erode master entry";
+var mnemonic = "arm vanish position vessel potato orient blind resource found sting stadium increase";

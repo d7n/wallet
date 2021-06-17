@@ -1,1 +1,1 @@
-var mnemonic = "attitude garlic rather valve engine canoe cereal mother prosper duck town lizard";
+var mnemonic = "raise slogan fine wreck repeat fruit share spatial private debris snap assist";

@@ -1,1 +1,1 @@
-var mnemonic = "same spare lunar mandate coyote diamond dutch shine nature split decide prison";
+var mnemonic = "erode picture smart discover illegal region plunge spirit excess nest stand grid";

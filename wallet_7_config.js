@@ -1,1 +1,1 @@
-var mnemonic = "smooth raccoon believe inside expect demand fee lyrics vast error erupt knife";
+var mnemonic = "series sorry dirt remain return alter cement notice twelve usual amused oak";

@@ -1,1 +1,1 @@
-var mnemonic = "palm pulp scatter basket obscure void practice banana notice prepare leopard connect";
+var mnemonic = "can gas gasp kiss pause degree recycle alarm dog fashion build pigeon";

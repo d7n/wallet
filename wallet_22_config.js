@@ -1,1 +1,1 @@
-var mnemonic = "myself employ blue later like release bitter predict trigger forest great coffee";
+var mnemonic = "melt figure tone table odor dash snap give quick face control pilot";

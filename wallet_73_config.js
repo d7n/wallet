@@ -1,1 +1,1 @@
-var mnemonic = "light machine rabbit crane any two expect blouse radio heavy moment tunnel";
+var mnemonic = "pear reason lobster pony eyebrow legal buzz critic cinnamon nothing sugar exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "valley twice ten clinic reject scissors desert brown fantasy endorse upon rude";
+var mnemonic = "job scatter inquiry kite resource soldier renew virus chunk pilot tobacco radio";

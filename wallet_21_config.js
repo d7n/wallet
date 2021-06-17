@@ -1,1 +1,1 @@
-var mnemonic = "list rubber match solve salad buffalo know hill romance double trouble shrimp";
+var mnemonic = "favorite loan donor plate hybrid gather laundry demise salmon miracle imitate essay";

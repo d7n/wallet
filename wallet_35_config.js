@@ -1,1 +1,1 @@
-var mnemonic = "choice evolve weird material pause swamp gorilla clip mirror budget goat rate";
+var mnemonic = "word fossil stairs lake stereo couple devote miracle lab oyster again raven";

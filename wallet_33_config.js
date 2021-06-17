@@ -1,1 +1,1 @@
-var mnemonic = "mask obtain dignity include mail help mouse awkward asset gap more birth";
+var mnemonic = "student color assault save vault dismiss penalty omit guitar finger original cruel";

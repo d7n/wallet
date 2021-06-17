@@ -1,1 +1,1 @@
-var mnemonic = "letter blade stomach cement husband palace end hotel access list foot bonus";
+var mnemonic = "dune margin manual foster embody tail sponsor vacuum chalk rural accuse good";

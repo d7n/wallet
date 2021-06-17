@@ -1,1 +1,1 @@
-var mnemonic = "select bulk lamp age various human crazy only aspect bind enough actress";
+var mnemonic = "system burst gap close develop dad annual size make badge train siege";

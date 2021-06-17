@@ -1,1 +1,1 @@
-var mnemonic = "tail industry still penalty absorb dog infant coral canvas test fortune estate";
+var mnemonic = "science yellow library pulp practice laugh lesson lock odor debris harbor marriage";

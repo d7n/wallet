@@ -1,1 +1,1 @@
-var mnemonic = "rough flock public finish end once pretty boil theme output ugly assist";
+var mnemonic = "maple middle scene inform purchase roast theme quality planet raw weird result";

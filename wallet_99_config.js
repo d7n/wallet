@@ -1,1 +1,1 @@
-var mnemonic = "bomb conduct illness rubber mail love stool online state reopen primary suffer";
+var mnemonic = "address someone park orange shuffle diesel water mouse couch witness believe garbage";

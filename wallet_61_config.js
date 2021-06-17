@@ -1,1 +1,1 @@
-var mnemonic = "undo what october boat fatal wage envelope tunnel loud blanket target nephew";
+var mnemonic = "kiss maze inch subway risk wisdom palm joke toss blade brain clever";

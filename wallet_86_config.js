@@ -1,1 +1,1 @@
-var mnemonic = "ignore stage moon spot dish bulk wool always child property swap stamp";
+var mnemonic = "choose struggle gorilla point game quote alert rhythm recipe bracket truly exercise";

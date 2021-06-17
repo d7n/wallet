@@ -1,1 +1,1 @@
-var mnemonic = "crawl achieve cherry vocal foster taste radar core penalty keep bitter embrace";
+var mnemonic = "offer economy velvet cargo act talent all term invest project kiss input";

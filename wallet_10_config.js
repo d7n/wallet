@@ -1,1 +1,1 @@
-var mnemonic = "law devote vast nation judge ceiling hill hour average cave clown fence";
+var mnemonic = "neck orient detect amused slam unfold flock hawk divorce buffalo enhance shoe";

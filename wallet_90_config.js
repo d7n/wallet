@@ -1,1 +1,1 @@
-var mnemonic = "system fabric figure hole tent top net model surprise duty patrol nuclear";
+var mnemonic = "anxiety crew usual awkward parent liquid result deny seed junk boil rural";

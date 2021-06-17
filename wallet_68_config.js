@@ -1,1 +1,1 @@
-var mnemonic = "point gap neck belt stamp wisdom cable jelly shoe return strategy tongue";
+var mnemonic = "address village maximum draft best unveil fatal uniform galaxy unveil build turkey";

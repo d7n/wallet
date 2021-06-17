@@ -1,1 +1,1 @@
-var mnemonic = "furnace swing rhythm noodle village quit pistol faith wage length twenty custom";
+var mnemonic = "indoor seed lyrics vacant copy copper sunny add true anxiety list want";

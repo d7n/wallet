@@ -1,1 +1,1 @@
-var mnemonic = "typical tip reveal frame repeat obtain junk rigid catalog style dial snake";
+var mnemonic = "ready rhythm brown space salon gasp inspire toss domain wink exclude sleep";

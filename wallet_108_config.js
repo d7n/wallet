@@ -1,1 +1,1 @@
-var mnemonic = "general banana swift wheel butter deal demise cement trouble slight move oven";
+var mnemonic = "damage rent pull damage position excuse return degree rescue behind rent toss";

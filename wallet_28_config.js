@@ -1,1 +1,1 @@
-var mnemonic = "october silent hair siege report few regular lounge olive slow still estate";
+var mnemonic = "shove solid erase fabric cement impose adapt capital addict ignore only limit";

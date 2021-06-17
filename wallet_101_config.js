@@ -1,1 +1,1 @@
-var mnemonic = "connect proof mystery moon cupboard ugly panda stage again tag govern era";
+var mnemonic = "observe empower course mansion real execute fiber law panther mean royal nominee";

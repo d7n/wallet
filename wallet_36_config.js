@@ -1,1 +1,1 @@
-var mnemonic = "spare swamp assume ketchup design index tag mouse book erosion smile youth";
+var mnemonic = "cereal quantum else text audit nurse finger distance skull position foam ahead";

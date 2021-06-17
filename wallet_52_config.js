@@ -1,1 +1,1 @@
-var mnemonic = "inquiry lumber easily same vanish attract drum symptom width cake layer girl";
+var mnemonic = "sail fuel camera gold giggle logic fringe economy hard cram method tortoise";

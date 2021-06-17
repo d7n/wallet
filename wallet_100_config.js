@@ -1,1 +1,1 @@
-var mnemonic = "tissue height update match layer scout connect merry vast catalog define consider";
+var mnemonic = "abstract when mercy fever trend curve era plastic trick tent wall exclude";

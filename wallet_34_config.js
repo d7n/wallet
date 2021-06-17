@@ -1,1 +1,1 @@
-var mnemonic = "tilt empty tragic popular visa envelope beef deny angle toe fly poem";
+var mnemonic = "nasty base ritual sentence clinic excess initial brass display use nature hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "broken canoe final pool card clock have actress green hero spot oak";
+var mnemonic = "afford bulb say orchard define gown dash buddy gather hood secret seven";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery blade silk damage fan spring sign brisk twelve journey such corn";
+var mnemonic = "pretty eagle inform erupt mother wave brother deposit mixture quit harbor crouch";

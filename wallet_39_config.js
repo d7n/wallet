@@ -1,1 +1,1 @@
-var mnemonic = "stay menu field rural august immense evidence track delay mobile hamster endorse";
+var mnemonic = "black museum cruel harvest sight credit odor derive bullet trap anxiety crouch";

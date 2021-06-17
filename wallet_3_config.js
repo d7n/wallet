@@ -1,1 +1,1 @@
-var mnemonic = "decrease lawn entire recycle alcohol giraffe wedding elbow egg vocal truly steak";
+var mnemonic = "over ensure primary basket misery nose coffee insane skill anchor mystery suspect";

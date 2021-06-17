@@ -1,1 +1,1 @@
-var mnemonic = "arm popular pretty usage sign empower soup badge pink ready true noise";
+var mnemonic = "hidden naive blame legal know stay sword neither review transfer nominee sphere";
