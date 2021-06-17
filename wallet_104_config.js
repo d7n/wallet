@@ -1,1 +1,1 @@
-var mnemonic = "shift vintage imitate congress stumble slogan morning defense cheap cram exhaust response";
+var mnemonic = "session lava path news extend rice must coral turtle soap original target";

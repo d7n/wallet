@@ -1,1 +1,1 @@
-var mnemonic = "clarify demand short box fresh skill cargo quick boss lion initial speed";
+var mnemonic = "isolate inform clog dog globe festival typical drama suit error body pigeon";

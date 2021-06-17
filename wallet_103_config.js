@@ -1,1 +1,1 @@
-var mnemonic = "muscle conduct nephew bacon prepare video magic good fork collect jelly coyote";
+var mnemonic = "cluster leader endless blade across prison congress drama road seven reopen orphan";

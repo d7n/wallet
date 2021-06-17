@@ -1,1 +1,1 @@
-var mnemonic = "pause monitor chuckle suffer jaguar other skill window round fork episode era";
+var mnemonic = "nothing nation nominee maximum anchor under craft safe disagree foam excess black";

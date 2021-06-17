@@ -1,1 +1,1 @@
-var mnemonic = "yard benefit air hill first tourist security equal waste layer panda tooth";
+var mnemonic = "buyer burger short rebuild juice minor proof foil gauge nerve report head";

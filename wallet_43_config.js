@@ -1,1 +1,1 @@
-var mnemonic = "pattern upper fire party jeans flavor frown toward also tobacco cousin wasp";
+var mnemonic = "imitate letter broccoli essence sad sort level lounge drama crater course lecture";

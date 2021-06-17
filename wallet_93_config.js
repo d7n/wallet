@@ -1,1 +1,1 @@
-var mnemonic = "either broken mirror blue unlock wrong crush saddle day mother romance stool";
+var mnemonic = "vacuum hedgehog palm room core absorb hire shove hobby spawn pool limit";

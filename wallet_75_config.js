@@ -1,1 +1,1 @@
-var mnemonic = "know knee nest animal tail add wing peace fiction bunker again input";
+var mnemonic = "illness clarify mixture two engine early ritual clean expose antique pitch ask";

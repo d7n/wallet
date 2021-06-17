@@ -1,1 +1,1 @@
-var mnemonic = "win there bus cushion broccoli essay soon forum unknown check asthma bottom";
+var mnemonic = "require lesson match staff nut sand fox cloth napkin across forget paper";

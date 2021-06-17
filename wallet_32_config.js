@@ -1,1 +1,1 @@
-var mnemonic = "vivid feel insect infant trash document coin rather spatial muffin fuel peanut";
+var mnemonic = "expand spawn motor mouse action ladder kid network price item word shiver";

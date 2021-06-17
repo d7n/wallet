@@ -1,1 +1,1 @@
-var mnemonic = "cloud since high rude entry suggest elbow bid balcony few world sniff";
+var mnemonic = "dish elegant barely hill stem blanket thrive crane shiver garage company october";

@@ -1,1 +1,1 @@
-var mnemonic = "skull ball agent roast cave maximum perfect flight ostrich banana method prevent";
+var mnemonic = "alert float hub reward fly climb suit bar virus aunt situate harvest";

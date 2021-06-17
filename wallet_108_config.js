@@ -1,1 +1,1 @@
-var mnemonic = "eight grow mansion glue meat spring satoshi evidence pig purchase fiction cradle";
+var mnemonic = "manual crush submit gentle cruise brush try run horror uncover merit venue";

@@ -1,1 +1,1 @@
-var mnemonic = "outdoor valley wide soccer special april joke hurdle allow junk approve photo";
+var mnemonic = "bundle salt safe clean major forward bomb smooth blue tenant drink screen";

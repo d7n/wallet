@@ -1,1 +1,1 @@
-var mnemonic = "unhappy shiver clog lock broken party obtain chef bullet surface mom flat";
+var mnemonic = "payment dragon brother hen benefit course salt example funny style fiscal symbol";

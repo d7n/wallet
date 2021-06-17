@@ -1,1 +1,1 @@
-var mnemonic = "blame stable twelve verify coin ski panic trust soap moral curious load";
+var mnemonic = "catalog exit card hungry pilot frame planet health cancel riot share region";

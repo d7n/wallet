@@ -1,1 +1,1 @@
-var mnemonic = "garment cement glory expect hungry rigid group note awful life develop voice";
+var mnemonic = "total helmet danger snake auction drive supreme ketchup beef cake choose resist";

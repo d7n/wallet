@@ -1,1 +1,1 @@
-var mnemonic = "blur burden matter rotate survey unique mixture stick problem sell hobby bench";
+var mnemonic = "insane machine pottery crop blouse medal soup cream excess present vacuum method";

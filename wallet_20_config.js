@@ -1,1 +1,1 @@
-var mnemonic = "atom dirt session slim evidence alone argue donkey click tiger glory soul";
+var mnemonic = "idle false coral pink major surge certain either shoulder attend tree dwarf";

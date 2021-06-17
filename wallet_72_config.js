@@ -1,1 +1,1 @@
-var mnemonic = "quantum burger twin visit copy reason wreck throw age chapter tackle type";
+var mnemonic = "ticket rely fix fork solve escape swallow mixture antique render caution obey";

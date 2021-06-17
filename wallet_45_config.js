@@ -1,1 +1,1 @@
-var mnemonic = "science provide elegant carpet cricket weekend throw letter renew cargo symptom camp";
+var mnemonic = "next flip initial aim stereo near chest humor luggage vital worry hood";

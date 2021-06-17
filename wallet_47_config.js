@@ -1,1 +1,1 @@
-var mnemonic = "egg shop innocent soldier illegal produce card empty ketchup flat inquiry sort";
+var mnemonic = "pill drama mask wing pig embark romance high pistol wheel leave kind";

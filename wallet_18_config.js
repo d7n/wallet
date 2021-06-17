@@ -1,1 +1,1 @@
-var mnemonic = "oppose north duck copy mean urge blade giggle forest gym swing link";
+var mnemonic = "provide table fluid rookie spend entry orange tower vocal lab angry struggle";

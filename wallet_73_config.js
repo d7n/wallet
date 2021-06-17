@@ -1,1 +1,1 @@
-var mnemonic = "sadness bonus cool suffer work clump payment ginger return boring visa casino";
+var mnemonic = "skate blade acoustic cover robust west silk spike useful replace cradle table";

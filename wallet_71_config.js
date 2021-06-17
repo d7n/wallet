@@ -1,1 +1,1 @@
-var mnemonic = "remember bag chair arrow hen fault thumb define fat table able word";
+var mnemonic = "doctor rent save high pigeon cheap skate where catch wink volcano swim";

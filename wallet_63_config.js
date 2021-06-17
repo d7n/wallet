@@ -1,1 +1,1 @@
-var mnemonic = "knife artefact frown tomorrow leaf edge attack wrestle ancient drive frost fuel";
+var mnemonic = "morning that tuna season habit cream agree display argue top lumber monster";

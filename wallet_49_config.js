@@ -1,1 +1,1 @@
-var mnemonic = "bread already east analyst toe receive beyond client derive number almost scissors";
+var mnemonic = "trap frozen purse thumb tone busy peace course left memory woman goddess";

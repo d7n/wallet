@@ -1,1 +1,1 @@
-var mnemonic = "possible raven gaze use diary mixed expose control proof forest error profit";
+var mnemonic = "stay follow stock enact ivory help segment oil castle hybrid again ghost";

@@ -1,1 +1,1 @@
-var mnemonic = "route joy film donor speak that embrace roof enroll tube innocent design";
+var mnemonic = "subway key picture army album fringe female farm erupt extra round noise";

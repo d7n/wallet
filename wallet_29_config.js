@@ -1,1 +1,1 @@
-var mnemonic = "fault various shy raise space thrive check night shoe budget chest gather";
+var mnemonic = "hair ten expect actor main choose rescue balcony earn theme opinion energy";

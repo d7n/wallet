@@ -1,1 +1,1 @@
-var mnemonic = "lounge awesome tent sea raven cactus taste shed remain cube excess real";
+var mnemonic = "subway buddy song exile silent weasel switch system life uncover liar ginger";

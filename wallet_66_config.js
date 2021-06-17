@@ -1,1 +1,1 @@
-var mnemonic = "escape hip weapon first biology amazing display quote reason author rubber idle";
+var mnemonic = "assume beach nominee artefact pottery mixture either episode alpha wink height stereo";

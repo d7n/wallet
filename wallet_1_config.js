@@ -1,1 +1,1 @@
-var mnemonic = "disagree wood hair tortoise good device urban render ozone illness hero axis";
+var mnemonic = "grass glance tower pole latin liberty smoke conduct nerve grunt goose disorder";

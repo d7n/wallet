@@ -1,1 +1,1 @@
-var mnemonic = "entire artefact city cattle enjoy muscle carpet update catch sadness regular pull";
+var mnemonic = "tiny leader basket hawk pepper hole record seat pottery live outside pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak tackle law royal glove analyst bird boat curious airport multiply toast";
+var mnemonic = "wide focus project town noise hundred tiny able follow various hip deny";

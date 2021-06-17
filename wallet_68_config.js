@@ -1,1 +1,1 @@
-var mnemonic = "vote uniform sugar solid table style divide under recall world city above";
+var mnemonic = "hamster link nurse social length strike marine phrase reward ability sample blast";

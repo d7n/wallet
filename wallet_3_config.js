@@ -1,1 +1,1 @@
-var mnemonic = "loan tragic draw ozone energy work tuition letter sail bridge brain talk";
+var mnemonic = "act hedgehog mansion fatigue door give involve keep modify embark slush step";

@@ -1,1 +1,1 @@
-var mnemonic = "speed segment stable level object staff avoid noble forget caution column legend";
+var mnemonic = "borrow bitter what impact sure old source device arctic sick good answer";

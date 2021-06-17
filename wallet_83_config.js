@@ -1,1 +1,1 @@
-var mnemonic = "mosquito snow head angry chuckle seed submit afford gauge inherit heart pass";
+var mnemonic = "flip cause stomach parent foot visa subway network timber state student sense";

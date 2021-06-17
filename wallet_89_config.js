@@ -1,1 +1,1 @@
-var mnemonic = "milk bread wire left page blue rival ensure motion shrimp airport water";
+var mnemonic = "lumber echo dolphin doll require romance diet track despair depart century attend";

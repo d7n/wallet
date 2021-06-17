@@ -1,1 +1,1 @@
-var mnemonic = "door title drill attract crash disease grace merit team forward tobacco swing";
+var mnemonic = "blush best wife ankle hat fiction crunch lady dog enroll topple rely";

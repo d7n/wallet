@@ -1,1 +1,1 @@
-var mnemonic = "system tide salad position swim swarm limit logic together walnut brief turtle";
+var mnemonic = "expand mix wrap ginger hammer soft frog chest attack mind syrup critic";

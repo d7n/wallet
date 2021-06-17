@@ -1,1 +1,1 @@
-var mnemonic = "often clean mind solar popular craft maid soup step combine afraid grain";
+var mnemonic = "stable evil income cloth afraid area tongue swim clarify frame unlock neutral";

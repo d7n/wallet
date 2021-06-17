@@ -1,1 +1,1 @@
-var mnemonic = "cargo frost mad orange atom rebuild way usage lend assault type message";
+var mnemonic = "leave decide issue liar flame pen there energy company game another helmet";

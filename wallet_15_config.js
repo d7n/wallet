@@ -1,1 +1,1 @@
-var mnemonic = "lizard cloth fatal bless tiny song custom ketchup clump hair ostrich dance";
+var mnemonic = "where fade cannon narrow badge dice olive soda mushroom ribbon field monster";

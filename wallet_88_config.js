@@ -1,1 +1,1 @@
-var mnemonic = "quit park antique blood front private injury physical sun bacon spy blood";
+var mnemonic = "diet public endless play speak mad slot giggle clerk sort leopard quality";

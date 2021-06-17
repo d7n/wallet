@@ -1,1 +1,1 @@
-var mnemonic = "organ pass repair wagon response acquire choose rigid demise reason radar razor";
+var mnemonic = "spoil blur ivory illness defy drastic slam pool include tired family weasel";

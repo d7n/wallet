@@ -1,1 +1,1 @@
-var mnemonic = "blue face deal radar veteran dice wagon tag expect side tag habit";
+var mnemonic = "congress current opera peace educate guard health large solve nerve breeze option";

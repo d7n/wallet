@@ -1,1 +1,1 @@
-var mnemonic = "coconut manage market cage fan void swim test permit gloom peasant piece";
+var mnemonic = "day merit rough cluster unknown gloom neglect tonight ribbon party rather cage";

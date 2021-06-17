@@ -1,1 +1,1 @@
-var mnemonic = "sentence similar door open thing iron acoustic badge robot claim math leave";
+var mnemonic = "bounce sea robust liberty health vacant prosper term pudding fruit fatigue live";

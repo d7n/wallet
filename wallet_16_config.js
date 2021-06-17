@@ -1,1 +1,1 @@
-var mnemonic = "concert arrive frequent flush print bag spin video pepper priority assault error";
+var mnemonic = "repeat essay digital lumber regular story cloud replace gas rule again theme";

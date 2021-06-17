@@ -1,1 +1,1 @@
-var mnemonic = "claw insane crane illness liar audit flame sight caught walnut omit wrong";
+var mnemonic = "lake clog fury dentist pair surface view angry setup gap mistake great";

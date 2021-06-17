@@ -1,1 +1,1 @@
-var mnemonic = "clip shed life fossil figure march evidence move special design priority ordinary";
+var mnemonic = "cabin save own gain category switch exist armor mobile bleak month roast";

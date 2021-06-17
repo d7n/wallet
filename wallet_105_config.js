@@ -1,1 +1,1 @@
-var mnemonic = "bacon assault dry pond release balance scout sport jump whip top diet";
+var mnemonic = "margin uphold table lawn tape scrap boy glide minimum police train script";

@@ -1,1 +1,1 @@
-var mnemonic = "sort volcano puzzle clever chase cost vendor depart learn section reward rigid";
+var mnemonic = "lava enhance claim marine expect arrive weapon army know tuition pond route";

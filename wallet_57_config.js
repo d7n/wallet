@@ -1,1 +1,1 @@
-var mnemonic = "venture raccoon nature miss banana venue enlist bleak deputy orange only tube";
+var mnemonic = "upper silk abandon twice maze curtain tank express amused orbit slim check";

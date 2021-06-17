@@ -1,1 +1,1 @@
-var mnemonic = "clump fly pigeon fuel people scene shell echo today able drastic stable";
+var mnemonic = "indicate casual usage rookie word noise reward access kind window amazing deer";

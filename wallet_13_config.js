@@ -1,1 +1,1 @@
-var mnemonic = "hockey verb rude grass repeat meat enable summer ripple simple fog attitude";
+var mnemonic = "snow twelve album gesture ability foster mesh journey lyrics tray element gas";

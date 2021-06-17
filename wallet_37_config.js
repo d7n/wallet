@@ -1,1 +1,1 @@
-var mnemonic = "trade hammer wool eye deer copper current describe firm capable fat cattle";
+var mnemonic = "elephant retire gym pigeon mean lake science ring stick chapter wine near";

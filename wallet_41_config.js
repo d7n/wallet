@@ -1,1 +1,1 @@
-var mnemonic = "flash champion virtual phrase humble two concert volume husband empower smooth learn";
+var mnemonic = "hundred surprise mango mobile abstract gasp siren multiply fine glory bread ginger";

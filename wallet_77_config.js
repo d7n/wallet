@@ -1,1 +1,1 @@
-var mnemonic = "report poet box chapter infant donkey upgrade bulk fog tiny excess merry";
+var mnemonic = "crew fee share scheme afford dynamic sight sunset tip sunset clarify quick";

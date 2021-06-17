@@ -1,1 +1,1 @@
-var mnemonic = "small loop inquiry draft crouch spell prefer square alley sustain venture rack";
+var mnemonic = "fancy asthma venue tiny supreme purity gown giggle report perfect grape jealous";

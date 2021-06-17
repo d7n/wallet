@@ -1,1 +1,1 @@
-var mnemonic = "parent mimic mutual remember mad price cloth lion hungry motion doctor power";
+var mnemonic = "meat welcome record neutral library jeans powder exhaust buzz cat blouse affair";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot asset what drip clump brave clump orange alarm parent banana neck";
+var mnemonic = "twelve bamboo cattle lottery aspect paper perfect trend expect dice force place";

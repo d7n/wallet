@@ -1,1 +1,1 @@
-var mnemonic = "usage wear female glow man tape crack annual bubble anxiety guilt hammer";
+var mnemonic = "spring smart mention yard matter mobile mobile wolf kingdom cradle control gift";

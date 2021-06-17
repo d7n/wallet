@@ -1,1 +1,1 @@
-var mnemonic = "also speak decide million half harvest avoid truly favorite orient radar work";
+var mnemonic = "enough asset cigar joke amused fit digital cable wild faith pig end";

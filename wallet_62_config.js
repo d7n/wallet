@@ -1,1 +1,1 @@
-var mnemonic = "chase vapor feel route ecology this coil entry cactus hour deal sunny";
+var mnemonic = "glory quality pond street stool margin define engage midnight bronze soda cattle";

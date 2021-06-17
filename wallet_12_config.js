@@ -1,1 +1,1 @@
-var mnemonic = "tackle broken orphan goat sting staff body exhaust lift cycle method lonely";
+var mnemonic = "rate follow blanket balance trip stove few video grit cheap isolate liberty";

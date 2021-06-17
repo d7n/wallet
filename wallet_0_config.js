@@ -1,1 +1,1 @@
-var mnemonic = "muscle faculty dad winter jeans menu only caution assault chuckle boost dentist";
+var mnemonic = "essay cradle maximum render midnight iron congress train much drastic muffin repeat";

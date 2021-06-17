@@ -1,1 +1,1 @@
-var mnemonic = "betray possible disagree avocado anchor diet mango fatigue gospel okay parent attract";
+var mnemonic = "memory visual spice off alter pass debris despair tonight lobster cage alarm";

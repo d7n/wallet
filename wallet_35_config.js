@@ -1,1 +1,1 @@
-var mnemonic = "hold meadow antenna farm sight conduct before cigar cake easily brief remind";
+var mnemonic = "learn merry achieve measure identify tuna ripple close trigger brick talent chat";

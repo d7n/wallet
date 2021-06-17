@@ -1,1 +1,1 @@
-var mnemonic = "turtle report cool local want enemy enact shine bone script mention type";
+var mnemonic = "code gate able fragile fall air tumble divert invest shy this release";

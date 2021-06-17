@@ -1,1 +1,1 @@
-var mnemonic = "slice ensure buzz dust budget light pig hip hurt water code seat";
+var mnemonic = "kitten ceiling solution feel endless pulse matter input zero repair duty arch";

@@ -1,1 +1,1 @@
-var mnemonic = "flame hotel chimney suggest cat spring quarter awful reveal damage bench inform";
+var mnemonic = "rare useless fog pizza boost magic slam correct hungry course stuff series";

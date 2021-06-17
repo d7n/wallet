@@ -1,1 +1,1 @@
-var mnemonic = "promote crunch add cloud spy coyote energy forest output guide resist absurd";
+var mnemonic = "tattoo drum mobile ginger walnut fire differ unknown organ cause color sniff";

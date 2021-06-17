@@ -1,1 +1,1 @@
-var mnemonic = "latin wasp ethics reveal cousin father grass dash easily autumn post ghost";
+var mnemonic = "father pipe annual more diagram version garage vibrant attitude act giant wage";

@@ -1,1 +1,1 @@
-var mnemonic = "session ill wedding air gallery gain royal aspect army crash gift antique";
+var mnemonic = "range tiny faint smart lock change figure notice actress rely pattern copper";

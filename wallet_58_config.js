@@ -1,1 +1,1 @@
-var mnemonic = "share win crystal body senior organ pizza speak narrow concert praise indicate";
+var mnemonic = "coast round twin inside gallery afford group shadow glue silly boost minimum";

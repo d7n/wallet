@@ -1,1 +1,1 @@
-var mnemonic = "cruel afraid come symptom upgrade vessel torch become fee clock possible nature";
+var mnemonic = "shove brush lake resist course hub away dial myself distance casual forum";

@@ -1,1 +1,1 @@
-var mnemonic = "ten remember core enact island frame shadow panther river primary diamond label";
+var mnemonic = "monitor blind work peasant conduct sad lyrics hood patient mobile radar just";

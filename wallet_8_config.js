@@ -1,1 +1,1 @@
-var mnemonic = "steak delay sunset soul all lady champion claw card canoe wear magnet";
+var mnemonic = "another scout absorb answer truth palace first front dice clever seed join";

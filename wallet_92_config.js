@@ -1,1 +1,1 @@
-var mnemonic = "summer meat meat silent small minor sister record oval thank change frequent";
+var mnemonic = "joy sight device that lounge cloud snake soda cheap member tornado reflect";

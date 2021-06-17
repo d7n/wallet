@@ -1,1 +1,1 @@
-var mnemonic = "soccer cheese execute thumb denial luggage sea festival toddler sea motor panther";
+var mnemonic = "solid crack oppose illegal young exhibit matrix friend february axis current trust";

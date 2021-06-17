@@ -1,1 +1,1 @@
-var mnemonic = "liar dial energy tent cycle squirrel hurry major exclude fatal improve effort";
+var mnemonic = "glove cherry humble degree essay tribe oyster airport upgrade spin oyster present";

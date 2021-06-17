@@ -1,1 +1,1 @@
-var mnemonic = "cook garbage wheat guide convince vehicle enjoy end wedding amount physical monitor";
+var mnemonic = "sunset magnet pudding barrel rib tide gate sad uphold coffee electric rule";

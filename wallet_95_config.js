@@ -1,1 +1,1 @@
-var mnemonic = "dog already hammer minor already armor wear weapon ramp inquiry chair husband";
+var mnemonic = "lizard stadium kingdom fall shift donate already sock child gesture music head";

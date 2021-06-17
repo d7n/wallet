@@ -1,1 +1,1 @@
-var mnemonic = "protect renew talk normal fantasy nature craft mesh visit cycle echo sample";
+var mnemonic = "true step marine virtual taste burger health capable broccoli jacket degree busy";

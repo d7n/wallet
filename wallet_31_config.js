@@ -1,1 +1,1 @@
-var mnemonic = "furnace roast bag raise axis oval december appear jealous uncover truth sleep";
+var mnemonic = "pitch spawn switch agent main rocket lumber wife bid lava crew insane";

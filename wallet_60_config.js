@@ -1,1 +1,1 @@
-var mnemonic = "connect spell demise spare angry leopard rather slot shop already shiver sad";
+var mnemonic = "duck quote upset decline punch tent trouble main fish whale cause spoon";

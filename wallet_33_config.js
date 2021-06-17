@@ -1,1 +1,1 @@
-var mnemonic = "siege method rapid noise seminar labor habit chronic nurse pyramid nice battle";
+var mnemonic = "attract swallow gasp wealth task east nose minor suit yard twenty endorse";

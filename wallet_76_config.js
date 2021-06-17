@@ -1,1 +1,1 @@
-var mnemonic = "ordinary tourist correct great clutch slab edit shock honey dash retire mother";
+var mnemonic = "oven taxi plastic outer liberty more scorpion spin gate glimpse country noise";

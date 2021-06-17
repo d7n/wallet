@@ -1,1 +1,1 @@
-var mnemonic = "electric rural input decide resist control dutch amazing update high metal rich";
+var mnemonic = "punch scan february aisle little close wise win obey traffic future worry";

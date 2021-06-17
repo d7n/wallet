@@ -1,1 +1,1 @@
-var mnemonic = "clinic chunk meadow enact gravity symptom tool dial column crater oil license";
+var mnemonic = "initial anxiety fashion real demand toilet rely beach below apple reward family";
