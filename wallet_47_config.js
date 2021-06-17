@@ -1,1 +1,1 @@
-var mnemonic = "tenant act program traffic share dream saddle inject october hood gauge rent";
+var mnemonic = "uniform curve security humble proof abuse cool trial lyrics robust alpha index";

@@ -1,1 +1,1 @@
-var mnemonic = "castle foot unaware topple obscure paddle sleep laundry pilot violin behave want";
+var mnemonic = "hurdle wish trim link know help during menu bulk shrug gorilla vague";

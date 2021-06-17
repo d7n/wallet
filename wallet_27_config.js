@@ -1,1 +1,1 @@
-var mnemonic = "effort carry engine heart royal dignity melody dice cattle kitten solve achieve";
+var mnemonic = "frame game palace east near view crucial logic next wide renew mass";

@@ -1,1 +1,1 @@
-var mnemonic = "whale spy urge doll atom flower labor zone humor course shrug crawl";
+var mnemonic = "flame one festival click uncover gravity almost divide scout place between faint";

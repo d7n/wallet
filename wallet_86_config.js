@@ -1,1 +1,1 @@
-var mnemonic = "cover inhale flat quantum swap air rough horror blast lecture scheme pull";
+var mnemonic = "deal burger pudding solution where build seminar engine figure excess enemy error";

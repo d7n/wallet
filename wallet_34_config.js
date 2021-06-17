@@ -1,1 +1,1 @@
-var mnemonic = "brick draft drink squeeze audit outer labor dove nice lemon jazz already";
+var mnemonic = "code maid voice planet accident afford invest narrow raw throw venture pistol";

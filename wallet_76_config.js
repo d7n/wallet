@@ -1,1 +1,1 @@
-var mnemonic = "drama green town retreat reflect inside arrive rural project render reject evolve";
+var mnemonic = "utility other shift use gym frog vicious fit detect barely spike detect";

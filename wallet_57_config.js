@@ -1,1 +1,1 @@
-var mnemonic = "young civil trumpet loud sun weird salt elbow melt dilemma mansion decline";
+var mnemonic = "arch lyrics aspect caution vessel choice color layer student naive mule warm";

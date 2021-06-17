@@ -1,1 +1,1 @@
-var mnemonic = "captain orchard square loyal bracket toe gain universe drastic margin approve reveal";
+var mnemonic = "wonder keep charge mass zero truly patch lake column canvas enough frequent";

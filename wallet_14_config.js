@@ -1,1 +1,1 @@
-var mnemonic = "prepare search phrase team change surround duty text clown aware invite helmet";
+var mnemonic = "train indicate olive outdoor beauty remain neither powder repair company install silver";

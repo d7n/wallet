@@ -1,1 +1,1 @@
-var mnemonic = "above fade cart defense pepper puppy tool second swift swarm duty market";
+var mnemonic = "hello they scrub present cabbage trim pioneer garbage science confirm slab essay";

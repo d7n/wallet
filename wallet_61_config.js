@@ -1,1 +1,1 @@
-var mnemonic = "disorder infant witness uncover sport morning coil define broom honey concert album";
+var mnemonic = "keep palace word name close laugh reward hundred this survey snow bicycle";

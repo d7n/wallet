@@ -1,1 +1,1 @@
-var mnemonic = "hospital normal regular mountain term mad flush depend cherry isolate run success";
+var mnemonic = "jungle pull rival ticket fork defense window barrel business satoshi talent exchange";

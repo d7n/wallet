@@ -1,1 +1,1 @@
-var mnemonic = "grid excite apology old burger true race grocery nature faint act seminar";
+var mnemonic = "slender lazy hold orchard dolphin volcano tunnel brave tumble waste attract rigid";

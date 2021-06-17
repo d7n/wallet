@@ -1,1 +1,1 @@
-var mnemonic = "venture danger hire sausage tilt hip track document dance fever deal where";
+var mnemonic = "hunt horn ramp acquire rent flush team high mean waste sport warfare";

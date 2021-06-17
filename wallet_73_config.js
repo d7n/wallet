@@ -1,1 +1,1 @@
-var mnemonic = "cycle elevator monster spend fade deer sort aspect accuse syrup idle online";
+var mnemonic = "finish rare nerve snack subway minor vacant category exercise thunder grace brave";

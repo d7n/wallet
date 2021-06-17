@@ -1,1 +1,1 @@
-var mnemonic = "truck sure have quiz cannon local scan bicycle purity hospital bright easily";
+var mnemonic = "message plug apology hint fall wrist media habit badge coach believe oyster";

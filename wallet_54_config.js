@@ -1,1 +1,1 @@
-var mnemonic = "dog voyage symptom camera taxi victory oil sign beyond clump retreat napkin";
+var mnemonic = "security canal obey maid ability keep service thank best need front name";

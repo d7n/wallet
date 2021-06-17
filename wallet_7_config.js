@@ -1,1 +1,1 @@
-var mnemonic = "front hedgehog salmon learn comfort century october easily panic arm bean fuel";
+var mnemonic = "need raccoon fee weasel question try reward ghost outer mad pill ocean";

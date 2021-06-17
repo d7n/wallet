@@ -1,1 +1,1 @@
-var mnemonic = "hold chat strike eyebrow betray choice manual network mother oxygen mystery car";
+var mnemonic = "beach supreme mail fashion unfold pigeon buddy aunt inflict bounce couple aspect";

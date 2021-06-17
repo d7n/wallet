@@ -1,1 +1,1 @@
-var mnemonic = "scene exit pave maximum range daring adult gold choice bind weekend busy";
+var mnemonic = "security tissue hurdle dust family nut ready eternal broom situate office front";

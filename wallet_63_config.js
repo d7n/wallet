@@ -1,1 +1,1 @@
-var mnemonic = "dance squirrel actual brick ripple taste since hood like fiction dish submit";
+var mnemonic = "spread glow trip awkward satoshi race maple journey path item ankle afraid";

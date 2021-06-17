@@ -1,1 +1,1 @@
-var mnemonic = "file media question barely tray eagle okay sign connect opinion there ring";
+var mnemonic = "tilt enemy install unusual sing claim nurse much pitch combine oppose bulb";

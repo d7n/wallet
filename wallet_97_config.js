@@ -1,1 +1,1 @@
-var mnemonic = "pause report barrel barely combine supreme ritual globe talk space aisle milk";
+var mnemonic = "swift domain panel shy alley tower helmet goat domain fold appear once";

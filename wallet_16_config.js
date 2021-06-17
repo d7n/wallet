@@ -1,1 +1,1 @@
-var mnemonic = "drill bless accuse remain vital sport hazard daughter service impose casino reject";
+var mnemonic = "target veteran light voice room receive drive ignore insane thrive maximum edge";

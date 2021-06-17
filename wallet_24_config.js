@@ -1,1 +1,1 @@
-var mnemonic = "flag senior boss crawl spend elite tuition convince spider abandon canal into";
+var mnemonic = "blind despair denial vehicle left envelope web aerobic float grant garlic evil";

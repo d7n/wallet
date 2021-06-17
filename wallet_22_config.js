@@ -1,1 +1,1 @@
-var mnemonic = "other peasant hover bundle pudding despair bag board holiday sleep head duty";
+var mnemonic = "color salon disorder jeans upper thrive spoon bright repair stumble angle sense";

@@ -1,1 +1,1 @@
-var mnemonic = "below remind future month victory alone sell benefit dumb predict enlist purpose";
+var mnemonic = "vocal chuckle tower glory capable unique elder work twenty wheel cost swarm";

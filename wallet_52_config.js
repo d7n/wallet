@@ -1,1 +1,1 @@
-var mnemonic = "gravity repeat crop carbon length zebra silver lamp open impose elite lamp";
+var mnemonic = "course loud enjoy pulp canal supreme cart wheel peasant credit tobacco rather";

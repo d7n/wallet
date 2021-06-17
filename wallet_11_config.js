@@ -1,1 +1,1 @@
-var mnemonic = "wise credit edit pepper blanket turkey mouse benefit refuse cereal toddler vote";
+var mnemonic = "sleep feel discover post erupt sword earth busy drift february tornado devote";

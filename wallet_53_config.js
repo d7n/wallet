@@ -1,1 +1,1 @@
-var mnemonic = "narrow enforce lobster dream maximum share much interest bird airport forum rich";
+var mnemonic = "fire edit jaguar film above wheel inhale note laptop desk group ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "desk stand shield gaze violin junior final round piece alert accuse rich";
+var mnemonic = "reward food throw fun frame vague gloom soldier print oxygen lawn notable";

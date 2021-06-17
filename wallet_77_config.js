@@ -1,1 +1,1 @@
-var mnemonic = "script bounce ghost long ice sock cloud brass coral special quick youth";
+var mnemonic = "call left icon quantum silk process shuffle assist text rich festival position";

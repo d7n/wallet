@@ -1,1 +1,1 @@
-var mnemonic = "soap mother feature mask glass biology voyage approve addict stadium invest coast";
+var mnemonic = "inherit shadow caution photo token notable away soda already stem name tool";

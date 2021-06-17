@@ -1,1 +1,1 @@
-var mnemonic = "thing inch rabbit mechanic inherit vehicle icon clock royal chapter shy job";
+var mnemonic = "current anxiety silly knife obscure music net diet taste item sponsor alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella appear lend element discover shallow zero flag near collect clip risk";
+var mnemonic = "sniff grape purpose offer magnet stomach boss pioneer marine detail sponsor jump";

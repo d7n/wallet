@@ -1,1 +1,1 @@
-var mnemonic = "taxi domain soup vendor address vacant know owner steak dynamic surge betray";
+var mnemonic = "tide marine october design gadget soldier success conduct reduce jewel silent machine";

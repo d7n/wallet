@@ -1,1 +1,1 @@
-var mnemonic = "history system zone congress claw boat pride solar swear woman grow hand";
+var mnemonic = "reflect run depend recall achieve control ridge suspect grain knock rural chief";

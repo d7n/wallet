@@ -1,1 +1,1 @@
-var mnemonic = "joke inch ostrich session grab later toe swap unknown wreck payment young";
+var mnemonic = "bright acoustic front swear gallery wall rug spawn enact dwarf talk window";

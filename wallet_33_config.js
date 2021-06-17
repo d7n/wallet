@@ -1,1 +1,1 @@
-var mnemonic = "document detail never lazy lonely bargain solve essay thrive danger suspect repair";
+var mnemonic = "violin half parrot approve fury icon erosion process frequent doll taxi remind";

@@ -1,1 +1,1 @@
-var mnemonic = "violin job arch valid chicken engage front tuna define wagon slender suffer";
+var mnemonic = "earn swing occur grace umbrella edge script kid shiver turtle amateur usage";

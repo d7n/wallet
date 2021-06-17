@@ -1,1 +1,1 @@
-var mnemonic = "pool eye finger kick split neglect oppose lift illness north patch upper";
+var mnemonic = "gloom foam actress analyst must soldier gravity twelve crisp network sense hotel";

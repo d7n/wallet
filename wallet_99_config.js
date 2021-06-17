@@ -1,1 +1,1 @@
-var mnemonic = "easily endorse frame fall fetch meadow immense stereo warrior awesome process drink";
+var mnemonic = "elegant two celery green debris multiply aspect column penalty ring mad butter";

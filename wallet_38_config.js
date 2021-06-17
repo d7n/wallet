@@ -1,1 +1,1 @@
-var mnemonic = "neglect celery actual artefact total trouble before beach pudding juice safe hundred";
+var mnemonic = "need shy atom cabbage hero move arena wrestle prosper salmon wolf enter";

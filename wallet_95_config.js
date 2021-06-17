@@ -1,1 +1,1 @@
-var mnemonic = "exhaust safe drastic dress fee shuffle whale oxygen holiday clog indoor item";
+var mnemonic = "layer panel crime monkey movie quote gorilla tree time ankle romance attend";

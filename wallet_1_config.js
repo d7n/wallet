@@ -1,1 +1,1 @@
-var mnemonic = "envelope walk slice east frequent trial obtain own fiscal thank cigar dinner";
+var mnemonic = "jealous simple position party extend now ecology asthma squeeze happy sad silver";

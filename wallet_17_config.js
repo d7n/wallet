@@ -1,1 +1,1 @@
-var mnemonic = "type neglect life action afford denial identify cloud dizzy play dwarf damp";
+var mnemonic = "enroll sponsor dentist hand blur since similar distance creek leopard journey faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "page hawk quality fault coast feature run horse toe segment scan road";
+var mnemonic = "now swift merge cargo only imitate orange conduct second bomb crater domain";

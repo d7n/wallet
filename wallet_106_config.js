@@ -1,1 +1,1 @@
-var mnemonic = "extend advice maid tray board square carbon fault tennis section insane gloom";
+var mnemonic = "tide absorb recall bomb document bind together bomb kangaroo candy raven best";

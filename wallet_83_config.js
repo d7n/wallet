@@ -1,1 +1,1 @@
-var mnemonic = "possible kick seed drum nut type medal horse puppy olympic service able";
+var mnemonic = "mimic high congress pledge typical lamp pyramid gasp local scissors cotton follow";

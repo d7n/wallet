@@ -1,1 +1,1 @@
-var mnemonic = "slight pride planet express olive phone select clap resource whale visual spare";
+var mnemonic = "amount connect science reward reward green perfect add material illness neglect nose";

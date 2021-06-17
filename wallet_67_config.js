@@ -1,1 +1,1 @@
-var mnemonic = "bunker try trash census wild nothing scan rival tissue often mystery flip";
+var mnemonic = "swarm razor innocent margin clever chunk annual axis flat buzz mistake decorate";

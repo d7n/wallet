@@ -1,1 +1,1 @@
-var mnemonic = "wool resemble any control card robust fatal best quiz surge silver grant";
+var mnemonic = "suggest just problem stand author fuel sniff obtain hour window advance summer";

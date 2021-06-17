@@ -1,1 +1,1 @@
-var mnemonic = "tent buddy van economy tag snow soul kid plunge such draft inject";
+var mnemonic = "lady slice slim street control energy east welcome example matrix direct mention";

@@ -1,1 +1,1 @@
-var mnemonic = "essence fuel catch elevator wagon crowd jazz north spell grass adult coral";
+var mnemonic = "inject wild cattle modify elevator select image noise inform rely gadget cluster";

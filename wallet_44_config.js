@@ -1,1 +1,1 @@
-var mnemonic = "panel match resource gas supreme monster illness pill clog envelope okay message";
+var mnemonic = "gather farm outdoor aisle daughter hybrid term disorder again minor castle window";

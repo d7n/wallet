@@ -1,1 +1,1 @@
-var mnemonic = "father skate ask margin merge surround twin tunnel frown round liar gentle";
+var mnemonic = "call margin blue faint quality cereal seed type visa avocado lizard excuse";

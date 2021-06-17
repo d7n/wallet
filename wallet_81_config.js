@@ -1,1 +1,1 @@
-var mnemonic = "omit salute copy clog quick rough squeeze input shrimp donate advance topic";
+var mnemonic = "frozen order wash text glass thing camera acid already ship snack intact";

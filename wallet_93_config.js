@@ -1,1 +1,1 @@
-var mnemonic = "little reveal public portion pattern lobster deputy middle swing protect carry frame";
+var mnemonic = "position magnet marble dream slide great churn jeans slam jacket anchor until";

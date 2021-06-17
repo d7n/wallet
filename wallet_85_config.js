@@ -1,1 +1,1 @@
-var mnemonic = "simple dirt card crumble various cream pitch marriage among board wall wealth";
+var mnemonic = "mixture solution project awake affair neither joke rare lesson mandate water horn";

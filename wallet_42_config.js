@@ -1,1 +1,1 @@
-var mnemonic = "friend anchor snack milk birth exist rather topple cup catch fatal defense";
+var mnemonic = "joke avocado into adapt choice remain miracle liquid grid behind chair buyer";

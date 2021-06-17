@@ -1,1 +1,1 @@
-var mnemonic = "hotel firm upset funny letter section icon service local owner over cram";
+var mnemonic = "column snap excess pulse sing parrot broken abuse survey there work evil";

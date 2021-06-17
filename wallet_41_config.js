@@ -1,1 +1,1 @@
-var mnemonic = "weasel bean explain live issue caught ozone staff manage very struggle chaos";
+var mnemonic = "judge brain ripple two engine toilet lottery bulb mom expand swarm suit";

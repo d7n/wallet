@@ -1,1 +1,1 @@
-var mnemonic = "all receive tree puzzle all love message excuse afford snap level risk";
+var mnemonic = "wish then slab stock cause host panda trend talent crater tower dry";

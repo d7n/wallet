@@ -1,1 +1,1 @@
-var mnemonic = "innocent twice quote kind dilemma slab film today company renew candy client";
+var mnemonic = "clinic strategy cereal false van relief pitch filter move what flight table";

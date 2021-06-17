@@ -1,1 +1,1 @@
-var mnemonic = "gauge three smart casino drift skirt advance core swap page olive boat";
+var mnemonic = "chase execute poem warm coyote allow usage galaxy grief owner jaguar steak";

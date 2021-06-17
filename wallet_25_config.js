@@ -1,1 +1,1 @@
-var mnemonic = "ceiling heart busy aerobic paddle acoustic vanish place trim denial private engine";
+var mnemonic = "month gravity afraid broccoli auction ability unaware purchase album vicious measure focus";

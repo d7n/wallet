@@ -1,1 +1,1 @@
-var mnemonic = "small mesh physical border upon soccer fine manage suit kidney endless share";
+var mnemonic = "walk suit solid cancel reveal target wide nice loop never rude shy";

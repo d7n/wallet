@@ -1,1 +1,1 @@
-var mnemonic = "legend buddy party female runway proud clinic sausage street snap canoe fold";
+var mnemonic = "planet mammal twin illness shoulder spot bundle equal jacket pink pupil citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "eager cram invest minor club trend topic force drive sick wide idea";
+var mnemonic = "frozen cash gate install rival knife ramp grace you feel priority gown";

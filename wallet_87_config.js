@@ -1,1 +1,1 @@
-var mnemonic = "slice alert saddle mirror call work marine then solution expand mass ugly";
+var mnemonic = "rice tornado canoe live plug hat ski turn debris stereo pattern relief";

@@ -1,1 +1,1 @@
-var mnemonic = "square frequent dove boil grant blade frog crystal glory pitch burger enter";
+var mnemonic = "reason music scale hollow inflict metal harsh afraid unaware spin river roast";

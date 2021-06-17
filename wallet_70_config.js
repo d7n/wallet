@@ -1,1 +1,1 @@
-var mnemonic = "eagle undo depend blind shove ramp pledge negative level pulp oil dish";
+var mnemonic = "adjust all emotion collect twelve timber magnet rescue position mammal cherry exclude";

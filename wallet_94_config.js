@@ -1,1 +1,1 @@
-var mnemonic = "cube vibrant ceiling matter iron feel enrich disease certain broccoli follow spice";
+var mnemonic = "embrace undo extra alpha rich cheap hole lion imitate library faith humor";

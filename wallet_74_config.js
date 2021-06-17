@@ -1,1 +1,1 @@
-var mnemonic = "apart acid cruise machine multiply grape pen law reform grace follow toy";
+var mnemonic = "caught document such physical profit jewel entry trick valley cash movie whale";

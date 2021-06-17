@@ -1,1 +1,1 @@
-var mnemonic = "trust cereal blade wrong shift found sentence public human expand void angry";
+var mnemonic = "table abstract come episode increase isolate guard sun chaos review ladder panel";

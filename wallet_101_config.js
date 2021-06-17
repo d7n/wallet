@@ -1,1 +1,1 @@
-var mnemonic = "reflect pudding try envelope breeze cannon evoke sight mirror radar hunt juice";
+var mnemonic = "chuckle nephew concert mixed wear fix royal fan vendor anger height antique";

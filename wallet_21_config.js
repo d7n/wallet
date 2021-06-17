@@ -1,1 +1,1 @@
-var mnemonic = "inhale drift spirit salt merit next lounge wall guilt absorb cave credit";
+var mnemonic = "decorate ask remember occur reduce skin inspire scale egg all deal impose";

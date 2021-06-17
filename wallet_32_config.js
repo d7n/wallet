@@ -1,1 +1,1 @@
-var mnemonic = "jazz output lemon copper future convince jeans sister shed knee trick core";
+var mnemonic = "joy start cherry spend expect siege potato poet object head tree narrow";

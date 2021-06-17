@@ -1,1 +1,1 @@
-var mnemonic = "apple gain rare lecture inmate size series arrange domain trust beach lab";
+var mnemonic = "idea apart balcony dream frog recall nothing crew situate final peanut success";

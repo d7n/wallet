@@ -1,1 +1,1 @@
-var mnemonic = "install arch nuclear mad dinner practice wise achieve vessel permit rural believe";
+var mnemonic = "vanish length strategy unable enrich weather coffee acquire glove nose useless gate";

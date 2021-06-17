@@ -1,1 +1,1 @@
-var mnemonic = "rent exchange involve toy diary rescue dilemma arena december pool staff over";
+var mnemonic = "suspect dinner fix sword craft moral member stable need smart dove spoon";

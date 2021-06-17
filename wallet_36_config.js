@@ -1,1 +1,1 @@
-var mnemonic = "afford police wing idea accuse inquiry mean obey relief today mixed scrub";
+var mnemonic = "shield submit shrug tackle stuff drill fury common defense soul federal jar";

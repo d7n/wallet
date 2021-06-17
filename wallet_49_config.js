@@ -1,1 +1,1 @@
-var mnemonic = "movie hope funny token ordinary welcome gas forest armor cream only dry";
+var mnemonic = "situate game tonight cover budget sort fresh deny middle result anxiety protect";

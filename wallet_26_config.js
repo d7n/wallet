@@ -1,1 +1,1 @@
-var mnemonic = "injury tongue chicken cricket lucky west express memory bulk winter evil soda";
+var mnemonic = "toast hair glass tower matrix insect pulp advice cream rescue trigger forest";

@@ -1,1 +1,1 @@
-var mnemonic = "sign flame search crane light spider police exact know romance kingdom valve";
+var mnemonic = "cruel cave client witness cactus loyal student credit combine parade tonight length";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory street erupt define denial pass shove term museum raw also paddle";
+var mnemonic = "enact hunt leisure pony draft flock bar canal neither item ice school";

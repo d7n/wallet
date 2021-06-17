@@ -1,1 +1,1 @@
-var mnemonic = "catalog walnut limit photo friend ten mango assault syrup gravity shock sail";
+var mnemonic = "what shoulder stairs jazz permit coconut bless eagle north angle boss problem";

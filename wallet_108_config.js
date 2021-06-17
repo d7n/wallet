@@ -1,1 +1,1 @@
-var mnemonic = "tail goat diagram stumble disagree toward genius quarter apple best frame north";
+var mnemonic = "tent sock emotion gravity ball pumpkin evolve diagram cream gap cart glide";

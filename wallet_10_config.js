@@ -1,1 +1,1 @@
-var mnemonic = "amused flash fun quote square warrior obtain unusual labor toy empty ignore";
+var mnemonic = "soap narrow vocal panel month wheat slam order regret lazy barrel scorpion";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel resource exit funny frog choose ready skill behind enemy permit coach";
+var mnemonic = "cloth exotic wink stumble census hero spin gallery road soup skate moral";

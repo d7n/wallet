@@ -1,1 +1,1 @@
-var mnemonic = "rib grow sort patrol into answer coconut guide flat skirt wash jungle";
+var mnemonic = "demand become awful joke crumble permit fix early spirit argue fire raw";
