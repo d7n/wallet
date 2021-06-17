@@ -1,1 +1,1 @@
-var mnemonic = "brisk have motion client flip neutral catch evolve police receive small laptop";
+var mnemonic = "island armor since trust mixture machine body awake flame hero turkey scheme";

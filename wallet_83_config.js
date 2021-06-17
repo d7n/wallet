@@ -1,1 +1,1 @@
-var mnemonic = "vague snap pilot inspire exhibit train client tank oblige reduce guitar visual";
+var mnemonic = "seed open program amount stable dirt cushion smooth father three couple virtual";

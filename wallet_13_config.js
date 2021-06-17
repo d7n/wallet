@@ -1,1 +1,1 @@
-var mnemonic = "kite dance payment seek cotton primary tube sail buddy brain roast father";
+var mnemonic = "cloud airport enforce vault behave later emerge drop canoe drill rib horn";

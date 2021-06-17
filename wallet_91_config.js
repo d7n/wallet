@@ -1,1 +1,1 @@
-var mnemonic = "sand salad head mix liquid regular tail salmon curtain fluid member bamboo";
+var mnemonic = "joke extra armed word twelve shoulder way history saddle symbol powder design";

@@ -1,1 +1,1 @@
-var mnemonic = "wild before rigid proof service force broken thought man latin else panic";
+var mnemonic = "scheme guilt lumber catalog swap person member fun feed leg awful start";

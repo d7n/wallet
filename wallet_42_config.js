@@ -1,1 +1,1 @@
-var mnemonic = "brisk train twenty any thunder gesture door fan pull analyst marriage dynamic";
+var mnemonic = "olympic oil salute faculty asset exotic shield rate unable robust lend patient";

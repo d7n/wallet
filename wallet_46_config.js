@@ -1,1 +1,1 @@
-var mnemonic = "color weird life nation critic churn acoustic save regular fantasy child acoustic";
+var mnemonic = "car brother between member frost oblige zero jewel allow habit fiber turtle";

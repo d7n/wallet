@@ -1,1 +1,1 @@
-var mnemonic = "cruel sister path avocado timber hole raw artefact bundle tag sun gadget";
+var mnemonic = "unveil upgrade tunnel lizard tuna student snake swim magnet stick runway face";

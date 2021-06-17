@@ -1,1 +1,1 @@
-var mnemonic = "manage mirror quantum damage valid nerve perfect pool yellow outdoor gun naive";
+var mnemonic = "artist neglect left dove pitch multiply warrior broccoli donate kitten describe unhappy";

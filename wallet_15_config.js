@@ -1,1 +1,1 @@
-var mnemonic = "gospel wear wire pulse reduce notice wasp priority dilemma paper genre child";
+var mnemonic = "shallow term maze transfer outdoor kiss also school spare desert learn cluster";

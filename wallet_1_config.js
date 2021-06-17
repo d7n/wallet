@@ -1,1 +1,1 @@
-var mnemonic = "sister urban joke neck author virtual advance awful hour parade gown pact";
+var mnemonic = "blast lazy fancy slab need acid crane release abuse song total toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "round prosper lens evoke shoe loan dinner coil fabric pumpkin ignore lunch";
+var mnemonic = "calm shaft order cross rotate warrior vehicle trick never recall air that";

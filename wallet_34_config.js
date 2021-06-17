@@ -1,1 +1,1 @@
-var mnemonic = "swim lava ridge print cabbage yellow rain earth brother cotton fuel master";
+var mnemonic = "tray together physical foot cabbage monkey holiday exchange wait public cabin fine";

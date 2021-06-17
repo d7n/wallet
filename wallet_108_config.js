@@ -1,1 +1,1 @@
-var mnemonic = "ladder title throw infant act mango meat brush surround during blur favorite";
+var mnemonic = "casual tired episode original steel wrestle dove tent announce clean dress shop";

@@ -1,1 +1,1 @@
-var mnemonic = "involve mandate satisfy stamp share cereal curve door spice squirrel pumpkin swamp";
+var mnemonic = "sunset bulb crumble pretty satoshi say general peanut genuine burger fortune beef";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado april stone coffee gravity crouch quiz furnace brain dose ketchup stove";
+var mnemonic = "panel banana wink logic regret nation grocery wonder flat wire media jelly";

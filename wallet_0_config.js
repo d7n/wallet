@@ -1,1 +1,1 @@
-var mnemonic = "filter model harbor access elephant pulp shoe small monster genre canal select";
+var mnemonic = "input hollow scissors opinion slice october glide surge truth pudding dentist earth";

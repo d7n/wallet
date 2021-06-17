@@ -1,1 +1,1 @@
-var mnemonic = "pig lesson slam spawn resist tourist sense galaxy unlock actress phrase forget";
+var mnemonic = "stand inhale gold empower frost napkin ethics private size impulse direct toast";

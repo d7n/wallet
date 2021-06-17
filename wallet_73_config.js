@@ -1,1 +1,1 @@
-var mnemonic = "wear napkin snack lion idea assault away hair budget pear dress own";
+var mnemonic = "use topple dumb quote health digital later keep vast fade float eternal";

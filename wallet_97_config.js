@@ -1,1 +1,1 @@
-var mnemonic = "cliff near indicate dry heart local labor game ready dose useless gather";
+var mnemonic = "decrease lab focus latin eager large feel thunder sting rhythm dilemma giant";

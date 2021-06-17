@@ -1,1 +1,1 @@
-var mnemonic = "alarm pelican comic remind snake cabin rebuild shoulder online until under turtle";
+var mnemonic = "finish erase disagree across raccoon lens warrior famous symptom rigid argue romance";

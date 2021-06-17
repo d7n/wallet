@@ -1,1 +1,1 @@
-var mnemonic = "kite situate skull click spray donate useless humor message sail label mandate";
+var mnemonic = "hotel sand curious demand meadow similar price path ski jaguar element kitten";

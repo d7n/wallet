@@ -1,1 +1,1 @@
-var mnemonic = "parent useless fault diamond wash high fence asthma reunion morning island naive";
+var mnemonic = "depart festival grid print eyebrow retreat prosper pulp sock region core bench";

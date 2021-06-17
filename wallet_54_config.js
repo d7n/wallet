@@ -1,1 +1,1 @@
-var mnemonic = "goddess section wine private faculty february spot celery rack cinnamon broken west";
+var mnemonic = "myself crystal jelly magic pride duck boss achieve wide ramp cute bonus";

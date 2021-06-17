@@ -1,1 +1,1 @@
-var mnemonic = "river pencil crunch abandon senior woman impose cousin stable coral health sorry";
+var mnemonic = "siren again uniform tornado reopen renew man high year trial day eye";

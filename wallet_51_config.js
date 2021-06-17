@@ -1,1 +1,1 @@
-var mnemonic = "clock material lecture media green robust attend journey ketchup middle source envelope";
+var mnemonic = "kiwi tenant nation display candy collect quantum deposit budget web sing test";

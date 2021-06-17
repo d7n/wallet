@@ -1,1 +1,1 @@
-var mnemonic = "annual allow only often prefer flower tiger unique culture upset lift dash";
+var mnemonic = "horror fetch dance veteran tiny sound present sock blind truth erase kick";

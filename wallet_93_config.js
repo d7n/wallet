@@ -1,1 +1,1 @@
-var mnemonic = "replace height soap canvas crawl expand naive inmate leaf fiscal ask witness";
+var mnemonic = "vehicle apple control refuse glide satisfy bubble earn dog myth casual hub";

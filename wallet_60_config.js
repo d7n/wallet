@@ -1,1 +1,1 @@
-var mnemonic = "comic pig estate notable left just strike sentence ranch gloom wine will";
+var mnemonic = "code hamster expose bottom day atom edit fruit rabbit engage abuse half";

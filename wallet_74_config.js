@@ -1,1 +1,1 @@
-var mnemonic = "affair cereal rose switch distance coin ceiling glimpse virtual job faculty keep";
+var mnemonic = "easily alone ensure fish ride diagram gallery february bitter same convince lift";

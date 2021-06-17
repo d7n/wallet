@@ -1,1 +1,1 @@
-var mnemonic = "exhibit pole assume catch blush prevent auto master august obtain multiply labor";
+var mnemonic = "napkin tongue repair wrong provide wrong mean orbit gun raise level harvest";

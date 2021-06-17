@@ -1,1 +1,1 @@
-var mnemonic = "hungry armor suffer close test diamond whip shove harsh false manual uncle";
+var mnemonic = "weird illness behind common into gain movie extra anger talent maple wedding";

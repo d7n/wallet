@@ -1,1 +1,1 @@
-var mnemonic = "boring cricket pledge crack pumpkin coast version chest spy silent mimic ankle";
+var mnemonic = "rib great collect helmet aspect left tip genuine damp replace crash sight";

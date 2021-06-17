@@ -1,1 +1,1 @@
-var mnemonic = "obtain arctic upgrade need shell pilot cradle loan lend ivory diet trip";
+var mnemonic = "flash gas demand grunt journey battle cube blade sad jacket share bid";

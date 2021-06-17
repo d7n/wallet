@@ -1,1 +1,1 @@
-var mnemonic = "culture permit stomach burst away swift awful rough involve blur process true";
+var mnemonic = "mobile tiny left icon goat involve offer chief dumb away dress inhale";

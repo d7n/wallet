@@ -1,1 +1,1 @@
-var mnemonic = "clever vibrant unfair tattoo proof write wet act gain letter timber museum";
+var mnemonic = "glimpse timber tomorrow clever exist leopard immune brass misery unfair banner ladder";

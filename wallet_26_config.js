@@ -1,1 +1,1 @@
-var mnemonic = "elephant mobile spot write any novel radar gesture typical case embark unable";
+var mnemonic = "fade try menu relief wrestle adjust ship toddler almost erupt usage learn";

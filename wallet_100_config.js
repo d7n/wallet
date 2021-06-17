@@ -1,1 +1,1 @@
-var mnemonic = "near slice cook giant gesture potato feel coach mention neutral type broccoli";
+var mnemonic = "diagram sketch swap gesture endless sound tell dry glass promote fossil belt";

@@ -1,1 +1,1 @@
-var mnemonic = "fit accuse steel connect grab ask walnut motor lucky pepper spy group";
+var mnemonic = "spike daring public hollow angle apple future hazard despair install obtain eternal";

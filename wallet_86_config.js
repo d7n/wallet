@@ -1,1 +1,1 @@
-var mnemonic = "shoot lend spring allow inquiry glimpse pencil fog program awful spend custom";
+var mnemonic = "describe typical female snack axis plate miss humble canyon jeans van tennis";

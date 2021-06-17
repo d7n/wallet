@@ -1,1 +1,1 @@
-var mnemonic = "dance october liquid old tag broom face clap athlete mushroom join potato";
+var mnemonic = "salt moon crumble cousin sentence surround gift retire tooth latin excite process";

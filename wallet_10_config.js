@@ -1,1 +1,1 @@
-var mnemonic = "rhythm page reform salt merit uphold square worry accuse soda shallow silent";
+var mnemonic = "saddle salad weekend minute guilt mule arrange tide harsh glimpse lemon moon";

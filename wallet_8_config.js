@@ -1,1 +1,1 @@
-var mnemonic = "satoshi all rent resource leg believe history virus alien garlic parrot zoo";
+var mnemonic = "green piano margin mobile garden panda vital early glad curve swallow trumpet";

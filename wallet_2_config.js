@@ -1,1 +1,1 @@
-var mnemonic = "design visual capital average torch dragon urban elder ostrich hawk rifle bacon";
+var mnemonic = "drink ivory maple find need oven apart brave envelope craft great immune";

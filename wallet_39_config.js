@@ -1,1 +1,1 @@
-var mnemonic = "slice life clay upon license rebel turn boy brick average boat repair";
+var mnemonic = "scrub language shed peanut breeze utility until educate violin unknown flame fiber";

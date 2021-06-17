@@ -1,1 +1,1 @@
-var mnemonic = "loop throw night world volcano quarter anxiety picture deputy rapid monkey indicate";
+var mnemonic = "desk fluid spoon kiss limit phone scissors venture unfold purpose drum involve";

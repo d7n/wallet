@@ -1,1 +1,1 @@
-var mnemonic = "target brief tray crew submit plunge develop light token sadness canal major";
+var mnemonic = "mixture hotel lava jaguar laundry faith snow struggle glove dice fish grow";

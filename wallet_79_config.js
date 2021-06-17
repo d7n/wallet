@@ -1,1 +1,1 @@
-var mnemonic = "super police draft brave flee wash bean donkey mountain fork bike rhythm";
+var mnemonic = "decorate culture section nerve bitter lunch suggest become expose drip load hurdle";

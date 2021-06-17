@@ -1,1 +1,1 @@
-var mnemonic = "grass void minor endorse garlic word ordinary place advice critic message crunch";
+var mnemonic = "caught rule bread escape close raw cluster corn used age three miracle";

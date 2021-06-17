@@ -1,1 +1,1 @@
-var mnemonic = "pride sausage canal future group patrol exist bird legal obscure margin hen";
+var mnemonic = "demand forum rhythm head wild stone rebel gym traffic rubber cheap still";

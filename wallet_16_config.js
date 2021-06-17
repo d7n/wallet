@@ -1,1 +1,1 @@
-var mnemonic = "habit arena absent shrug fade reunion alley between punch sample render history";
+var mnemonic = "sibling father orbit polar tomorrow peace earth salt test miracle feel found";

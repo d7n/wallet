@@ -1,1 +1,1 @@
-var mnemonic = "lunch feed alley bread bulb ozone cake tiny forum dwarf elder elephant";
+var mnemonic = "vapor first torch fan garbage float square divert reopen brick allow slight";

@@ -1,1 +1,1 @@
-var mnemonic = "plug purity violin three bomb dove other fox dose enough catalog lens";
+var mnemonic = "diamond hole twenty genius cry risk hire this electric paddle panic seek";

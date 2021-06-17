@@ -1,1 +1,1 @@
-var mnemonic = "slot amused dinosaur stomach cost purpose lounge ordinary ivory stairs grunt sport";
+var mnemonic = "taste lizard update mountain aspect panther ankle pilot frequent indoor radar walnut";

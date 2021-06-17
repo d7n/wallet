@@ -1,1 +1,1 @@
-var mnemonic = "over claim cinnamon sentence original buffalo trouble fashion biology post note uniform";
+var mnemonic = "enforce lawsuit wine excess foster social aspect suspect uphold drastic wine express";

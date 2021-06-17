@@ -1,1 +1,1 @@
-var mnemonic = "creek fish aware stable divert casino innocent face flower addict smoke alcohol";
+var mnemonic = "amazing drop acid people floor despair grow glue noble wealth danger easy";

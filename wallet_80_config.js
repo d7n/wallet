@@ -1,1 +1,1 @@
-var mnemonic = "outdoor cook lecture example bitter butter divorce odor sunset volcano because raccoon";
+var mnemonic = "way sign wisdom divide mask language divide mutual pole educate sweet convince";

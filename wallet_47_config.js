@@ -1,1 +1,1 @@
-var mnemonic = "total catch spend fringe dash rude moon vehicle ripple river hobby seek";
+var mnemonic = "brush mail tooth alert dust hill neutral purpose mix jump paddle burst";

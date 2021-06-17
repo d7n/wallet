@@ -1,1 +1,1 @@
-var mnemonic = "protect crane sail example truly else anchor milk human bomb vessel atom";
+var mnemonic = "forum noodle use force lion crunch isolate apart monkey mad urge memory";

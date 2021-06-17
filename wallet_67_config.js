@@ -1,1 +1,1 @@
-var mnemonic = "juice chaos lend load target addict fringe magic frog ability width wage";
+var mnemonic = "truly list payment mushroom once february error cushion book master auto unhappy";

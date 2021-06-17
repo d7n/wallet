@@ -1,1 +1,1 @@
-var mnemonic = "access mutual bag stereo hospital diagram among home music orchard tube medal";
+var mnemonic = "before buddy become attend proud feel gather tide finish belt announce bacon";

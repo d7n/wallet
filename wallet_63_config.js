@@ -1,1 +1,1 @@
-var mnemonic = "arrange blur excess pencil sun athlete surround install exact notable give enhance";
+var mnemonic = "market task hungry reward number double cram agree nuclear yellow select muffin";

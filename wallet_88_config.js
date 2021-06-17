@@ -1,1 +1,1 @@
-var mnemonic = "review icon genuine actor discover palm satisfy doll gate pole vintage silver";
+var mnemonic = "myth congress screen appear garden address ripple nuclear scrub amount toward path";

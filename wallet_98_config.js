@@ -1,1 +1,1 @@
-var mnemonic = "frown clarify fiscal height sell success possible grit brick input eagle actor";
+var mnemonic = "village caught inquiry permit company knock sail memory liquid control pupil ensure";

@@ -1,1 +1,1 @@
-var mnemonic = "steak oblige rookie duty fish kitten deny cool absent letter robot fossil";
+var mnemonic = "wide pride pause cricket clerk oak hold baby swamp fitness episode cat";

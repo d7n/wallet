@@ -1,1 +1,1 @@
-var mnemonic = "fiber more firm guide parade concert lucky dish gaze snack bronze dizzy";
+var mnemonic = "dizzy cat tray hero tourist defy fog tomato immune knock hint correct";

@@ -1,1 +1,1 @@
-var mnemonic = "physical sock crater proud home please large mesh improve swap dice spread";
+var mnemonic = "effort eagle future across envelope dial sauce afford ensure payment muffin describe";

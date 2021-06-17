@@ -1,1 +1,1 @@
-var mnemonic = "cloud mail naive caution more dinner notice exit fitness hockey gentle idea";
+var mnemonic = "walk offer tuna disorder danger banana honey claim small mail twist smoke";

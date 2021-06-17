@@ -1,1 +1,1 @@
-var mnemonic = "only list weasel rabbit derive clean diamond island machine flag seat present";
+var mnemonic = "like behind cute parent sell collect meat clarify upset chat salad label";

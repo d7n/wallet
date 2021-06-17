@@ -1,1 +1,1 @@
-var mnemonic = "behind wire abuse scorpion slide length key stereo thing enter token talk";
+var mnemonic = "notable sun area thumb test venue kiss horn birth glide wise rail";

@@ -1,1 +1,1 @@
-var mnemonic = "ask blast captain pencil million clip eagle code jar soap gossip harbor";
+var mnemonic = "humble stool color nice street blur exile claim mom genius nuclear during";

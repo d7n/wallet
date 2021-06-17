@@ -1,1 +1,1 @@
-var mnemonic = "web super radar parrot movie mother transfer wine frequent custom ordinary enhance";
+var mnemonic = "nurse gossip analyst forest demise glare syrup crush race goddess mistake noble";

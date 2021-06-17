@@ -1,1 +1,1 @@
-var mnemonic = "that file tail ozone tool pipe crunch orchard gain smart marriage recall";
+var mnemonic = "smooth harsh action rival sword spring fee sea tide option still assume";

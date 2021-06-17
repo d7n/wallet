@@ -1,1 +1,1 @@
-var mnemonic = "shell swim flame velvet noise forget social champion fabric arctic today leave";
+var mnemonic = "monitor twin mother secret prison bone misery brass tornado claw opera rich";

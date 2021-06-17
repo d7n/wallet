@@ -1,1 +1,1 @@
-var mnemonic = "salute skirt proof soul color dish jacket design pulse trash twelve obey";
+var mnemonic = "salute express dynamic life panic alpha basket party screen minute boat noodle";

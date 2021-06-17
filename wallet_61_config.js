@@ -1,1 +1,1 @@
-var mnemonic = "improve wish leader improve skill monitor truth border middle company luxury misery";
+var mnemonic = "expire dog woman valley jar small fish increase fault minimum way alcohol";

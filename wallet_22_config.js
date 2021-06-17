@@ -1,1 +1,1 @@
-var mnemonic = "book fiction expire hamster width annual kick crystal obvious hybrid stage various";
+var mnemonic = "collect field fetch keen spare crew course search profit elite fix either";

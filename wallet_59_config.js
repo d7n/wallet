@@ -1,1 +1,1 @@
-var mnemonic = "sniff version blue top tribe sting whale impulse mask onion clap proof";
+var mnemonic = "rude lottery zone humble hungry bright accident salmon prepare timber pottery nurse";

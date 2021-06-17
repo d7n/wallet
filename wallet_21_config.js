@@ -1,1 +1,1 @@
-var mnemonic = "boost attend inmate certain cube cattle portion joy dismiss paddle dilemma jacket";
+var mnemonic = "crack power apple hybrid denial blur text retire property timber vast multiply";

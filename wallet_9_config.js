@@ -1,1 +1,1 @@
-var mnemonic = "trust material empower same winter design question taxi stage weekend shell floor";
+var mnemonic = "ten find essence oak recycle calm roof twist lawn rule curious filter";

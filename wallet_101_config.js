@@ -1,1 +1,1 @@
-var mnemonic = "kitchen front problem grief exchange much mercy dry pair danger forget divide";
+var mnemonic = "warrior multiply sting govern electric mother idea canvas wear route render impose";

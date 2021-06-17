@@ -1,1 +1,1 @@
-var mnemonic = "drastic rebel put enemy deal bitter oppose quantum find render open flower";
+var mnemonic = "flash unique fantasy alone bird add aerobic jewel furnace search shield master";

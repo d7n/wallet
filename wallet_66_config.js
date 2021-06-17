@@ -1,1 +1,1 @@
-var mnemonic = "churn hold click enforce robust square weather place winter tobacco sentence advance";
+var mnemonic = "coffee fit fringe meadow only digital child drip capable provide section steel";

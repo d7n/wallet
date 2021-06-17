@@ -1,1 +1,1 @@
-var mnemonic = "minor work case devote egg winner saddle olive citizen palace attend dynamic";
+var mnemonic = "erase hamster horn hobby unveil bonus pause student lyrics execute require holiday";

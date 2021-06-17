@@ -1,1 +1,1 @@
-var mnemonic = "blast corn reunion address crouch spot leader tunnel victory muscle circle file";
+var mnemonic = "draft sugar auto jump slide local dog mixture satisfy wrist stone weather";

@@ -1,1 +1,1 @@
-var mnemonic = "drop muffin visit battle forward mystery sentence chunk great unveil clock pulse";
+var mnemonic = "pet tuition fever spell horn option sad human action unveil virtual oblige";

@@ -1,1 +1,1 @@
-var mnemonic = "derive jelly idea key fancy police bundle fish country galaxy wasp edit";
+var mnemonic = "asset vapor oval spread scissors rice pizza capable car pupil rain foil";

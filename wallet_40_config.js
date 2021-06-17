@@ -1,1 +1,1 @@
-var mnemonic = "people race loyal diamond plunge purpose balcony round diet come business bus";
+var mnemonic = "agree large asset piece surface blood wet gift type legend tomato reward";

@@ -1,1 +1,1 @@
-var mnemonic = "brand north way certain shed wealth accuse similar chuckle draft keen shaft";
+var mnemonic = "pool release illegal biology tenant can term hire indicate now alone walk";

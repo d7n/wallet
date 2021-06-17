@@ -1,1 +1,1 @@
-var mnemonic = "dress peace noise outer siege issue print husband sport run small fetch";
+var mnemonic = "forum timber there autumn few snake match party illegal outdoor scrub tower";

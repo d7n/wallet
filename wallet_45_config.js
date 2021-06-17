@@ -1,1 +1,1 @@
-var mnemonic = "fox recycle quantum economy follow syrup spider swarm infant traffic view climb";
+var mnemonic = "today wash gap document rookie question hurt receive fossil impose rely case";

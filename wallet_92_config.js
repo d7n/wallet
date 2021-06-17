@@ -1,1 +1,1 @@
-var mnemonic = "garage place soup claim keep vivid survey lift load pony child until";
+var mnemonic = "parade tonight main antenna guilt accident castle begin shaft churn wear mix";
