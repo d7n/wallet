@@ -1,1 +1,1 @@
-var mnemonic = "crouch decline motor glimpse coyote once chair omit change cotton child clutch";
+var mnemonic = "huge benefit heavy canal blanket coast own dentist sibling level stable point";

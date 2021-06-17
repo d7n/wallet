@@ -1,1 +1,1 @@
-var mnemonic = "pull leaf rival tired royal stable trick sport deer area turn like";
+var mnemonic = "entry topple pluck orange leisure walk prosper slice exhaust gap office chalk";

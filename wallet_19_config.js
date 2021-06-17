@@ -1,1 +1,1 @@
-var mnemonic = "matrix custom pear across course radar bulb memory table ice gasp analyst";
+var mnemonic = "series sight melody author route kitten shed silly civil hood medal mushroom";

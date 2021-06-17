@@ -1,1 +1,1 @@
-var mnemonic = "session just assault badge cat table pluck chuckle decade nest annual mercy";
+var mnemonic = "analyst pioneer permit cactus forest fuel clown direct combine helmet quality document";

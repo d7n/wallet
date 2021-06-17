@@ -1,1 +1,1 @@
-var mnemonic = "cage sponsor dynamic love fox connect goat foot meadow soup vote regret";
+var mnemonic = "river obtain garlic avocado turkey genuine nut replace skull runway moon firm";

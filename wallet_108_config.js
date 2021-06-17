@@ -1,1 +1,1 @@
-var mnemonic = "release verb action ball virus reform message orient shrug ripple steel hand";
+var mnemonic = "thrive museum february under truth mechanic urge turtle fiber radio puppy strong";

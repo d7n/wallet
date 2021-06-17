@@ -1,1 +1,1 @@
-var mnemonic = "pool chief cliff tobacco scatter ride spray hidden defy word abstract people";
+var mnemonic = "text royal pave magnet scan enough unfold surprise current stock random grit";

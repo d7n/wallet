@@ -1,1 +1,1 @@
-var mnemonic = "cable hospital pizza another quiz visit mad desk palm rifle urge twenty";
+var mnemonic = "squirrel urge knee trim waste conduct pipe relief plastic neither horror firm";

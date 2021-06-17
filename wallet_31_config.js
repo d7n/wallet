@@ -1,1 +1,1 @@
-var mnemonic = "inspire minute warrior person slogan rigid delay stuff boring people prison fade";
+var mnemonic = "excess pond eternal accident gospel hybrid height about into annual east consider";

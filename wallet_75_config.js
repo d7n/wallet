@@ -1,1 +1,1 @@
-var mnemonic = "laugh report agree purity creek person world visual safe fix worth bone";
+var mnemonic = "avoid lazy swim ostrich balcony way engage drop weapon blue salute spirit";

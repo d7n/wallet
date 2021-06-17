@@ -1,1 +1,1 @@
-var mnemonic = "decorate give blood hint connect pave denial speak defense today proof harvest";
+var mnemonic = "width glad slow chalk horn cram cook pet trigger coin vocal attack";

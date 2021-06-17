@@ -1,1 +1,1 @@
-var mnemonic = "spike arm view elder trip dance clog light record industry damp vehicle";
+var mnemonic = "teach patient when pact fit puppy upon text hint comic public carbon";

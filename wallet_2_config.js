@@ -1,1 +1,1 @@
-var mnemonic = "ceiling youth swim refuse pottery humor trim harvest inflict shrug lesson donate";
+var mnemonic = "amateur easily stay soda humor friend enforce much salute arrest range alarm";

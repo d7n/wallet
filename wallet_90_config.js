@@ -1,1 +1,1 @@
-var mnemonic = "reason other loan drop mercy federal behind old celery oak inner code";
+var mnemonic = "cannon wagon unfold prefer rubber morning thunder act type shoulder chase rude";

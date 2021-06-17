@@ -1,1 +1,1 @@
-var mnemonic = "gadget day owner lion wrestle medal armed toast steak below bonus never";
+var mnemonic = "moon impulse live slow wall boil tomorrow glove breeze define brisk country";

@@ -1,1 +1,1 @@
-var mnemonic = "forward rescue neck flat nose rural trial detect music recall total kiwi";
+var mnemonic = "sure wrist rule illegal social above live donkey slender normal record latin";

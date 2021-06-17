@@ -1,1 +1,1 @@
-var mnemonic = "smart knife repeat cart melody reward gossip apple wave coil baby stage";
+var mnemonic = "that skirt husband length banner inhale escape route spray double receive play";

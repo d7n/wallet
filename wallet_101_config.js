@@ -1,1 +1,1 @@
-var mnemonic = "scrap afford kit ladder junk trim elegant citizen dog cherry shed obscure";
+var mnemonic = "dice scene muscle pattern trim juice champion expand tumble entire virtual cross";

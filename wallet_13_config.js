@@ -1,1 +1,1 @@
-var mnemonic = "basket faint sausage bus boy diesel jacket guard hole coral prepare injury";
+var mnemonic = "moral engine hello region muffin gadget bird regular rude raw hungry sad";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil satoshi invite yellow gap rich prepare vote cannon hundred review hello";
+var mnemonic = "ivory foam velvet work talent young convince rural evoke minimum swift primary";

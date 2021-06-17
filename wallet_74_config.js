@@ -1,1 +1,1 @@
-var mnemonic = "chronic topple permit film remind bean hill repeat walnut buzz legend concert";
+var mnemonic = "alpha nurse romance silent party wonder slender balcony salon engage view venture";

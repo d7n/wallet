@@ -1,1 +1,1 @@
-var mnemonic = "open blue leisure tired inflict reopen sell winter siren bid column load";
+var mnemonic = "exact blouse blouse powder inhale prefer snack axis security client olympic ramp";

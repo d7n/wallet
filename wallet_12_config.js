@@ -1,1 +1,1 @@
-var mnemonic = "correct parade lumber write witness critic document proof vendor trim economy ride";
+var mnemonic = "mule enact nut bar stand phrase elephant have swarm mixture section honey";

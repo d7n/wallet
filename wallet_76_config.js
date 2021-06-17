@@ -1,1 +1,1 @@
-var mnemonic = "come soccer mother sense glory dragon attract neutral muscle metal hill candy";
+var mnemonic = "off velvet afford gesture december orange frown mammal olive car box you";

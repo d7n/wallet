@@ -1,1 +1,1 @@
-var mnemonic = "asthma wolf perfect very burden patrol auto connect grant region curtain blur";
+var mnemonic = "ball drop cheese bracket atom orbit december bench fiber choose beach thank";

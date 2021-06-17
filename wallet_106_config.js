@@ -1,1 +1,1 @@
-var mnemonic = "glare tuna cram barely update beyond benefit gesture awful pilot seminar easy";
+var mnemonic = "flame token window castle tomato embark burger water oblige crawl future elevator";

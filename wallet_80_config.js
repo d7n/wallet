@@ -1,1 +1,1 @@
-var mnemonic = "giraffe write saddle exhibit narrow clerk curve plastic anxiety elder gain ugly";
+var mnemonic = "creek nominee yard doctor animal scorpion arm outdoor giggle secret chuckle hour";

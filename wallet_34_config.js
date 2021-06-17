@@ -1,1 +1,1 @@
-var mnemonic = "stand squirrel eager raw violin extend engine kiss ceiling jaguar clown observe";
+var mnemonic = "glimpse they cry plunge outer fine educate fly client illegal plate old";

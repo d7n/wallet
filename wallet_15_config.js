@@ -1,1 +1,1 @@
-var mnemonic = "effort trouble hub dry any utility pulp tiger anxiety skill sure breeze";
+var mnemonic = "welcome write any beauty idea train leader pet slab permit connect chapter";

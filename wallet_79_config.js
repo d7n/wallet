@@ -1,1 +1,1 @@
-var mnemonic = "wonder attack trip problem peanut pizza track crew card ivory arrange language";
+var mnemonic = "script name submit harbor lizard february pill bullet satisfy quick improve diesel";

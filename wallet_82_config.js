@@ -1,1 +1,1 @@
-var mnemonic = "rural upper mountain sight great tuna digital scatter solar lady ginger stool";
+var mnemonic = "decade route tourist enrich salute suffer double music doll cruise fortune cactus";

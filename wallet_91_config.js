@@ -1,1 +1,1 @@
-var mnemonic = "away stumble retire trust wage damp attract steak wrong giant betray upon";
+var mnemonic = "gun delay crater animal outside leave bread stay earn garden finish still";

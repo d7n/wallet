@@ -1,1 +1,1 @@
-var mnemonic = "damp pig mercy floor success glue riot ranch claim return game public";
+var mnemonic = "vital shadow table report coach distance adjust web loop wrist tumble wage";

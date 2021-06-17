@@ -1,1 +1,1 @@
-var mnemonic = "genuine fabric purchase change hood craft citizen blind economy club video creek";
+var mnemonic = "assist project razor slide era left drop fantasy divert guitar tape fade";

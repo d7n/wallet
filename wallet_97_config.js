@@ -1,1 +1,1 @@
-var mnemonic = "tobacco snake wave fan dutch enhance auction trouble enforce govern volume build";
+var mnemonic = "clump whisper beef glad truly fiscal grain asset hen close auction style";

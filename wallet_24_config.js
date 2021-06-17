@@ -1,1 +1,1 @@
-var mnemonic = "gallery bottom cool bridge flock couple found detail vibrant smile scissors cannon";
+var mnemonic = "whip brain minute alpha another dash ethics industry path hammer grant already";

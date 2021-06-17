@@ -1,1 +1,1 @@
-var mnemonic = "someone prefer mosquito purpose please video minimum payment sunny affair predict glare";
+var mnemonic = "risk vapor mail opinion notice destroy shed twenty garment tumble account short";

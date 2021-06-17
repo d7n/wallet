@@ -1,1 +1,1 @@
-var mnemonic = "peanut rotate jungle bird load minimum toss phrase atom flower town cousin";
+var mnemonic = "predict urban broccoli horse say minor talk mad nerve life invite cost";

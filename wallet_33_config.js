@@ -1,1 +1,1 @@
-var mnemonic = "hover three soon ripple battle design exist orange judge blast change divert";
+var mnemonic = "derive diary topic kitten eyebrow absent upset work bounce chest behind cushion";

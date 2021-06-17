@@ -1,1 +1,1 @@
-var mnemonic = "point rabbit collect sweet cereal bag latin box census ahead gap raccoon";
+var mnemonic = "morning trouble foam pottery scrap lazy tone girl decade around stone parade";

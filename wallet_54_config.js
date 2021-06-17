@@ -1,1 +1,1 @@
-var mnemonic = "sauce aware apart weird essay early trade auto income reject enjoy pitch";
+var mnemonic = "furnace stem journey empower horror pill siren citizen family motion final cycle";

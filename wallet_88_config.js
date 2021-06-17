@@ -1,1 +1,1 @@
-var mnemonic = "actual fetch scare cross circle anchor hunt crush october round crowd vocal";
+var mnemonic = "glad pudding dignity ghost resource earth boil bamboo timber genuine captain hollow";

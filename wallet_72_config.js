@@ -1,1 +1,1 @@
-var mnemonic = "hat acid drastic neutral drink issue plunge fancy debate actress conduct science";
+var mnemonic = "topple swap pink leg sense wife poem stick veteran lemon aisle reward";

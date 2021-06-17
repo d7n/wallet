@@ -1,1 +1,1 @@
-var mnemonic = "trap cube fiber limit gate laugh quit region faith dwarf sort train";
+var mnemonic = "between retire vague river churn damp siren number mercy hammer ride public";

@@ -1,1 +1,1 @@
-var mnemonic = "group still nothing desert journey pigeon fault dice must shiver vanish curtain";
+var mnemonic = "cabin area divide target figure vanish paper cabin total middle image marble";

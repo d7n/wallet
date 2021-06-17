@@ -1,1 +1,1 @@
-var mnemonic = "walnut model adjust swap screen twist change silly credit ordinary plastic grit";
+var mnemonic = "clump match infant obvious era suffer casino magnet equal famous victory rice";

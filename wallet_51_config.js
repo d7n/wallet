@@ -1,1 +1,1 @@
-var mnemonic = "scare trap mind market mimic broccoli orphan jelly salad flight tired genius";
+var mnemonic = "local filter drip capable sadness upset across gold repair yellow soap safe";

@@ -1,1 +1,1 @@
-var mnemonic = "man cargo report maze stadium floor town ecology risk fame alert arctic";
+var mnemonic = "little smoke novel ball execute tag scorpion time culture license put box";

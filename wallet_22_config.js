@@ -1,1 +1,1 @@
-var mnemonic = "distance again fork question olive upon confirm theme cinnamon once tornado program";
+var mnemonic = "strike material damp bonus account ship urge above notable law wrap ill";

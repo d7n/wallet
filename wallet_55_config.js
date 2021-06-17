@@ -1,1 +1,1 @@
-var mnemonic = "sustain awake oyster gown ancient truck since exclude robust art rescue inside";
+var mnemonic = "team give asset name rescue execute volcano anger gas citizen slide neglect";

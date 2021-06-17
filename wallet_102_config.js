@@ -1,1 +1,1 @@
-var mnemonic = "tribe wide glove degree music evoke damp south buddy ordinary sure guide";
+var mnemonic = "message sentence actress pledge today few express limit whisper type review mail";

@@ -1,1 +1,1 @@
-var mnemonic = "submit dust ribbon tonight write setup genuine gorilla liberty skate large chronic";
+var mnemonic = "melody valid empower grab cool supreme orange fresh check finger arrest jaguar";

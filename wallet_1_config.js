@@ -1,1 +1,1 @@
-var mnemonic = "daughter chimney celery curious cabin enhance canoe feed member sunny total exact";
+var mnemonic = "hungry consider wedding divide right mutual faint car fold blame bomb protect";

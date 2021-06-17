@@ -1,1 +1,1 @@
-var mnemonic = "useless oppose heavy begin crash gallery still lamp topple liar wagon bullet";
+var mnemonic = "grape sample orphan very announce aunt absorb blouse unhappy annual suffer ritual";

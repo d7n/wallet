@@ -1,1 +1,1 @@
-var mnemonic = "bronze describe letter vessel pill must basic fury theme sausage degree sibling";
+var mnemonic = "east tourist kit siege approve palm depth knife slim demise sand alley";

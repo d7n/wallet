@@ -1,1 +1,1 @@
-var mnemonic = "shine asthma love rather glad conduct innocent crop excess hybrid alarm kidney";
+var mnemonic = "lucky inspire creek taxi interest visual review juice thrive tell race trophy";

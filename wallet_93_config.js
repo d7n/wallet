@@ -1,1 +1,1 @@
-var mnemonic = "ancient exit throw burden comfort pepper wrong belt dragon trick endless lesson";
+var mnemonic = "flower popular episode defense repair anxiety banner rotate hotel travel invest amateur";

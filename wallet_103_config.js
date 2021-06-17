@@ -1,1 +1,1 @@
-var mnemonic = "great van torch apart canal dream equip amused explain admit slow retire";
+var mnemonic = "cotton emotion pause long over only appear record beyond base pupil current";

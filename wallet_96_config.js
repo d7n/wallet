@@ -1,1 +1,1 @@
-var mnemonic = "slot turkey obtain dragon corn hidden move bus summer genuine twice demand";
+var mnemonic = "garbage setup enable power general arrow spread evolve lobster detect vacant swallow";

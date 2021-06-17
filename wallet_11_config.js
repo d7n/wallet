@@ -1,1 +1,1 @@
-var mnemonic = "dream rose impose air like creek wide coach cigar bicycle divert pride";
+var mnemonic = "employ verify series device sick analyst again drip goose embody praise shoulder";

@@ -1,1 +1,1 @@
-var mnemonic = "infant remove trial plastic elbow fetch mail debate universe color dish enact";
+var mnemonic = "join alone twist wreck sheriff beef describe endless daughter public carpet stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "plunge earn mirror noise travel settle theory great decorate victory history afraid";
+var mnemonic = "across horse client popular supreme curve critic person tooth good kiwi margin";

@@ -1,1 +1,1 @@
-var mnemonic = "knee detect orbit turn violin sound wall loop island spoon snow border";
+var mnemonic = "decade shock maximum sorry real mesh skirt wage burger patient follow honey";

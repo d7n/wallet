@@ -1,1 +1,1 @@
-var mnemonic = "state rookie enrich excess alarm fault blame powder collect clog muscle sheriff";
+var mnemonic = "orbit quarter frost engine afraid kitten blanket luggage reform escape blast hunt";

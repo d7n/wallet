@@ -1,1 +1,1 @@
-var mnemonic = "layer heart unfair lift unique build trust snake card tone boss fitness";
+var mnemonic = "cupboard digital parade add baby rural two timber this devote announce embark";

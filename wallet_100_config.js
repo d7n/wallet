@@ -1,1 +1,1 @@
-var mnemonic = "annual imitate excess theme rich ski guard gravity bunker swap shaft among";
+var mnemonic = "reform chalk sock scatter couple rookie wall corn pyramid bus culture wait";

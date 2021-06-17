@@ -1,1 +1,1 @@
-var mnemonic = "mule middle feel rescue arctic clutch alpha rival elegant service they silver";
+var mnemonic = "cotton lyrics liberty resemble leader flight gold muscle come tooth unlock bronze";

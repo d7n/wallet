@@ -1,1 +1,1 @@
-var mnemonic = "velvet member hire fossil talent tunnel priority truth nature beyond antique fame";
+var mnemonic = "nut become draw keen proof turn voice monkey borrow olive economy radar";

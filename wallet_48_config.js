@@ -1,1 +1,1 @@
-var mnemonic = "antenna pet rubber flag imitate law switch unhappy mixed include poem bachelor";
+var mnemonic = "noodle festival lawsuit initial vocal history idea hurry axis welcome crew vocal";

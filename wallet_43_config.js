@@ -1,1 +1,1 @@
-var mnemonic = "foil green split modify series place cliff venue marriage mountain supply picnic";
+var mnemonic = "innocent loan submit talk second essay dinner stand seed burger feature future";

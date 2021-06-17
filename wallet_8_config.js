@@ -1,1 +1,1 @@
-var mnemonic = "scrub disorder guitar feed mimic flock shadow feature hint laptop oak travel";
+var mnemonic = "second keen dentist disorder silk lumber bottom sudden pave best boy smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle feed toddler laundry sport crawl cat valid circle shoulder pride gain";
+var mnemonic = "gadget relief explain hood slender seat globe pyramid agree powder gun final";

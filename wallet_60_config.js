@@ -1,1 +1,1 @@
-var mnemonic = "carpet churn laptop sing pepper horn rotate bracket fitness evolve milk during";
+var mnemonic = "kick cram zero pizza funny fit chaos shrimp budget adapt social box";

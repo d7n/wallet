@@ -1,1 +1,1 @@
-var mnemonic = "online lawsuit fantasy spice april happy month divert business super leave lounge";
+var mnemonic = "cake patch dolphin fix mistake enrich alone scatter sketch reveal royal embrace";

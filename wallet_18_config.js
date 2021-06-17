@@ -1,1 +1,1 @@
-var mnemonic = "senior impose april crawl pioneer welcome route direct author timber october obvious";
+var mnemonic = "stage sort donkey seed box width field deal hurry critic task practice";

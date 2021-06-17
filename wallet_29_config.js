@@ -1,1 +1,1 @@
-var mnemonic = "huge cart web fluid toilet start sibling jealous duck moon umbrella vehicle";
+var mnemonic = "conduct tooth wait vacant civil maid unveil kingdom fury affair baby enemy";

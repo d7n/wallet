@@ -1,1 +1,1 @@
-var mnemonic = "wedding true ripple curious image ticket slight lemon clerk dentist rude payment";
+var mnemonic = "pottery diesel math escape tank midnight tone gain focus door media buddy";

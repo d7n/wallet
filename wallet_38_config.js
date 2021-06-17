@@ -1,1 +1,1 @@
-var mnemonic = "artist entry boat divorce soda crack crouch mimic zero reopen shrimp fold";
+var mnemonic = "violin stumble earth play spike quarter impose warfare else media panel lesson";

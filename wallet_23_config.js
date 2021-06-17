@@ -1,1 +1,1 @@
-var mnemonic = "hurt family calm glimpse aspect upgrade shove flower depart twelve trumpet source";
+var mnemonic = "unveil fiction ramp final desk fade age trend stuff home obey fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "plug tonight power hungry grain treat sustain disorder book vapor jump rotate";
+var mnemonic = "tooth receive define cost thrive tag nasty inquiry fit primary chief mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "possible relief gauge gadget school tooth inside nerve brave age ancient foam";
+var mnemonic = "nose artefact visa hello siege nephew decide spread place raven wet clown";

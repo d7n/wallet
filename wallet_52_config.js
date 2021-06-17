@@ -1,1 +1,1 @@
-var mnemonic = "dragon expect acoustic woman dolphin forum practice scheme unable omit senior top";
+var mnemonic = "piano body fat will physical license lamp shiver anxiety disease whale silver";

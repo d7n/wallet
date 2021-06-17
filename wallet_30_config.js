@@ -1,1 +1,1 @@
-var mnemonic = "check panda speed hockey athlete benefit unlock confirm inflict grape feel side";
+var mnemonic = "nature short hub bridge board ball invest crane teach city random street";

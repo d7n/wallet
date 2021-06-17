@@ -1,1 +1,1 @@
-var mnemonic = "tennis mention nature autumn soap join manage gasp alpha wisdom edit claim";
+var mnemonic = "sheriff market old cinnamon barrel dirt argue foam end happy empower april";

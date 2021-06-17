@@ -1,1 +1,1 @@
-var mnemonic = "off melt one real reject frame slender dream elevator trumpet remove bleak";
+var mnemonic = "obvious marine brush coach awake reward meadow useless pattern small unknown glide";

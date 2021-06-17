@@ -1,1 +1,1 @@
-var mnemonic = "inherit offer armed render afraid cat degree manual produce dove meat air";
+var mnemonic = "laptop burden iron river library wreck bulb enrich provide final talk burden";

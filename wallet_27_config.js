@@ -1,1 +1,1 @@
-var mnemonic = "rate undo senior gentle identify radio include subject moon vast clever hair";
+var mnemonic = "village faint funny diagram emotion bridge noodle boil sustain evil sword mask";
