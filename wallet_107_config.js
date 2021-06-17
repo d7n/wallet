@@ -1,1 +1,1 @@
-var mnemonic = "grunt capable reflect bean awake leg grain oblige carpet stable stuff match";
+var mnemonic = "work town police call flip hint step medal school stove spell merry";

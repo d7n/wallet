@@ -1,1 +1,1 @@
-var mnemonic = "series sight melody author route kitten shed silly civil hood medal mushroom";
+var mnemonic = "raccoon melody estate question engage space hollow story broken wagon luxury tragic";

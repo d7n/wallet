@@ -1,1 +1,1 @@
-var mnemonic = "amateur easily stay soda humor friend enforce much salute arrest range alarm";
+var mnemonic = "make combine hard small net winner jar attend ocean skate orient refuse";

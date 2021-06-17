@@ -1,1 +1,1 @@
-var mnemonic = "gun delay crater animal outside leave bread stay earn garden finish still";
+var mnemonic = "kitten worth suffer cushion use submit bid define under video language balance";

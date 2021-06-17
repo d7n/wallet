@@ -1,1 +1,1 @@
-var mnemonic = "join alone twist wreck sheriff beef describe endless daughter public carpet stereo";
+var mnemonic = "again wrestle draw outdoor hammer security fame vote shadow nothing receive toddler";

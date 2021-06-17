@@ -1,1 +1,1 @@
-var mnemonic = "lobster account acquire draw dune gold crop agent hip mother owner impulse";
+var mnemonic = "item they place whale shed license argue use destroy couple guide alter";

@@ -1,1 +1,1 @@
-var mnemonic = "decade route tourist enrich salute suffer double music doll cruise fortune cactus";
+var mnemonic = "crime notable second project jungle level hub used check bring novel twelve";

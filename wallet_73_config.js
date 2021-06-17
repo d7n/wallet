@@ -1,1 +1,1 @@
-var mnemonic = "mention fan body elder dirt liquid other pitch height they door april";
+var mnemonic = "spring august mind inherit habit discover mystery example client fly sketch jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "teach patient when pact fit puppy upon text hint comic public carbon";
+var mnemonic = "build income hawk narrow mail arena grid vocal infant follow hover whale";

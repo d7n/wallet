@@ -1,1 +1,1 @@
-var mnemonic = "unveil fiction ramp final desk fade age trend stuff home obey fabric";
+var mnemonic = "fiscal ordinary stamp jewel discover ozone shell quote silent crazy mask pear";

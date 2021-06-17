@@ -1,1 +1,1 @@
-var mnemonic = "river obtain garlic avocado turkey genuine nut replace skull runway moon firm";
+var mnemonic = "welcome magic anxiety grape peasant noble mixture behind minute purse west dignity";

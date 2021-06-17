@@ -1,1 +1,1 @@
-var mnemonic = "second keen dentist disorder silk lumber bottom sudden pave best boy smooth";
+var mnemonic = "accident escape danger whale tank stock merry air crime refuse vehicle output";

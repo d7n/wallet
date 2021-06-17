@@ -1,1 +1,1 @@
-var mnemonic = "creek nominee yard doctor animal scorpion arm outdoor giggle secret chuckle hour";
+var mnemonic = "sadness glass wheel mass rebuild satisfy heavy upgrade sunset estate crazy must";

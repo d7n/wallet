@@ -1,1 +1,1 @@
-var mnemonic = "stage sort donkey seed box width field deal hurry critic task practice";
+var mnemonic = "table visit plastic benefit control spike loud catch suffer hello payment use";

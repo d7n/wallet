@@ -1,1 +1,1 @@
-var mnemonic = "cannon wagon unfold prefer rubber morning thunder act type shoulder chase rude";
+var mnemonic = "distance diesel bind cricket agree random much panel mountain brick script thing";

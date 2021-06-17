@@ -1,1 +1,1 @@
-var mnemonic = "moon impulse live slow wall boil tomorrow glove breeze define brisk country";
+var mnemonic = "horror quick rain salon taste into often solar team visa trophy level";

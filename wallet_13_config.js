@@ -1,1 +1,1 @@
-var mnemonic = "moral engine hello region muffin gadget bird regular rude raw hungry sad";
+var mnemonic = "sick field column spawn antique betray aunt gym garlic taxi rely crash";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome write any beauty idea train leader pet slab permit connect chapter";
+var mnemonic = "mesh museum double truth ivory add parrot limit wild can wet report";

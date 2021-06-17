@@ -1,1 +1,1 @@
-var mnemonic = "nut become draw keen proof turn voice monkey borrow olive economy radar";
+var mnemonic = "lady cruise surge process medal gown one utility average entire trip metal";

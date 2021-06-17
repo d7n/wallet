@@ -1,1 +1,1 @@
-var mnemonic = "script name submit harbor lizard february pill bullet satisfy quick improve diesel";
+var mnemonic = "enlist return donate aisle pause join climb skull human case season crumble";

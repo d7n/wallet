@@ -1,1 +1,1 @@
-var mnemonic = "excess pond eternal accident gospel hybrid height about into annual east consider";
+var mnemonic = "achieve thought maximum potato resist impose weird rifle sausage cruel drink useful";

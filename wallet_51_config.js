@@ -1,1 +1,1 @@
-var mnemonic = "local filter drip capable sadness upset across gold repair yellow soap safe";
+var mnemonic = "material tonight educate flight alert master relax great year zero learn brother";

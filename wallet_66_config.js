@@ -1,1 +1,1 @@
-var mnemonic = "awake unveil favorite mirror parrot forum prefer envelope help strong camp matrix";
+var mnemonic = "roast carry bike team master cheap snack later develop science lock major";

@@ -1,1 +1,1 @@
-var mnemonic = "whip brain minute alpha another dash ethics industry path hammer grant already";
+var mnemonic = "tonight adapt kangaroo argue prison sadness olympic journey section photo two always";

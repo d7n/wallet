@@ -1,1 +1,1 @@
-var mnemonic = "huge benefit heavy canal blanket coast own dentist sibling level stable point";
+var mnemonic = "physical glad second liberty choice fetch manage lion right picture mobile unique";

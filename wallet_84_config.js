@@ -1,1 +1,1 @@
-var mnemonic = "cupboard digital parade add baby rural two timber this devote announce embark";
+var mnemonic = "open elegant actress coyote observe brief three ahead embrace lift cradle right";

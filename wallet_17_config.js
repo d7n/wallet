@@ -1,1 +1,1 @@
-var mnemonic = "parade bleak absent toast gift surround carbon cargo home kit raven wild";
+var mnemonic = "author century find swarm crowd moral grow lion forget cute rice afford";

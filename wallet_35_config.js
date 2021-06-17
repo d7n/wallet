@@ -1,1 +1,1 @@
-var mnemonic = "predict urban broccoli horse say minor talk mad nerve life invite cost";
+var mnemonic = "blue save flower uphold lunar dish act cradle praise gather kitten abuse";

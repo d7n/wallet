@@ -1,1 +1,1 @@
-var mnemonic = "across horse client popular supreme curve critic person tooth good kiwi margin";
+var mnemonic = "trial zone marble replace total subject casual stand consider jaguar cheap join";

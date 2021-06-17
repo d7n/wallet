@@ -1,1 +1,1 @@
-var mnemonic = "orbit quarter frost engine afraid kitten blanket luggage reform escape blast hunt";
+var mnemonic = "taste news offer carbon napkin traffic problem tower castle real shove remember";

@@ -1,1 +1,1 @@
-var mnemonic = "right play tackle dog chicken possible rely copy program barrel visit front";
+var mnemonic = "question digital parade tell fetch inspire check stand female agent permit mercy";

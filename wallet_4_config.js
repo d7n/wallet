@@ -1,1 +1,1 @@
-var mnemonic = "kitchen fog vintage indoor romance minute bargain cruel calm code lemon achieve";
+var mnemonic = "top fiction lunar update march green sand bargain intact judge deputy wonder";

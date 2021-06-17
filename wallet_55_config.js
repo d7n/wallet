@@ -1,1 +1,1 @@
-var mnemonic = "team give asset name rescue execute volcano anger gas citizen slide neglect";
+var mnemonic = "next immense toilet multiply hotel auction notable man topic zebra cherry cricket";

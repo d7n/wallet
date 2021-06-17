@@ -1,1 +1,1 @@
-var mnemonic = "glad pudding dignity ghost resource earth boil bamboo timber genuine captain hollow";
+var mnemonic = "other army trial rent spatial odor glow skill unable protect sister shed";

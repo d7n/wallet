@@ -1,1 +1,1 @@
-var mnemonic = "conduct tooth wait vacant civil maid unveil kingdom fury affair baby enemy";
+var mnemonic = "ribbon pony analyst list doll middle inform lecture undo say finish explain";

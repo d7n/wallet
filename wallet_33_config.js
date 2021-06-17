@@ -1,1 +1,1 @@
-var mnemonic = "derive diary topic kitten eyebrow absent upset work bounce chest behind cushion";
+var mnemonic = "click moral organ humble stable vacant drill slam measure junior deal raise";

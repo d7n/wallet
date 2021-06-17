@@ -1,1 +1,1 @@
-var mnemonic = "cabin area divide target figure vanish paper cabin total middle image marble";
+var mnemonic = "pave horror canal dolphin bamboo wrong favorite swamp couple enlist movie swamp";

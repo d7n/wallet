@@ -1,1 +1,1 @@
-var mnemonic = "shock purity visit garlic mouse error little mango boring bless hurt dial";
+var mnemonic = "sing ocean champion message fold cricket three gentle stereo much dad slogan";

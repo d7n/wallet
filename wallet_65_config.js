@@ -1,1 +1,1 @@
-var mnemonic = "east tourist kit siege approve palm depth knife slim demise sand alley";
+var mnemonic = "drift wash kitten safe upper ecology object brand crystal main card about";

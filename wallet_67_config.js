@@ -1,1 +1,1 @@
-var mnemonic = "sheriff market old cinnamon barrel dirt argue foam end happy empower april";
+var mnemonic = "unfair lizard victory tomorrow blouse luxury vocal arctic zoo oil common spike";

@@ -1,1 +1,1 @@
-var mnemonic = "estate flee wise since toast network reward bacon cluster okay behind smooth";
+var mnemonic = "bleak unique crime twist cannon honey cream false decide grid simple object";

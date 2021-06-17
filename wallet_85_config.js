@@ -1,1 +1,1 @@
-var mnemonic = "lucky inspire creek taxi interest visual review juice thrive tell race trophy";
+var mnemonic = "awkward crazy clown tennis problem struggle public december consider soul tomato saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "obvious marine brush coach awake reward meadow useless pattern small unknown glide";
+var mnemonic = "mouse world salmon universe few season sure sunset mammal armor release arctic";

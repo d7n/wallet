@@ -1,1 +1,1 @@
-var mnemonic = "hurt illegal hard more trend oil very bonus december buzz language someone";
+var mnemonic = "spin engine because glance hockey galaxy harvest replace also recycle tip black";

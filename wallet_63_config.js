@@ -1,1 +1,1 @@
-var mnemonic = "exact blouse blouse powder inhale prefer snack axis security client olympic ramp";
+var mnemonic = "soda upgrade learn yard donkey fiction gallery angry sense brand deal lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "between retire vague river churn damp siren number mercy hammer ride public";
+var mnemonic = "pave day one mystery escape false ask action enroll click simple insect";

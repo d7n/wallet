@@ -1,1 +1,1 @@
-var mnemonic = "cotton lyrics liberty resemble leader flight gold muscle come tooth unlock bronze";
+var mnemonic = "tag genre setup time bring emerge example boss keep enter head sting";

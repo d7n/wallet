@@ -1,1 +1,1 @@
-var mnemonic = "nose artefact visa hello siege nephew decide spread place raven wet clown";
+var mnemonic = "bronze choice will before swing tomorrow honey anxiety unique will skin deal";

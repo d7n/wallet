@@ -1,1 +1,1 @@
-var mnemonic = "risk vapor mail opinion notice destroy shed twenty garment tumble account short";
+var mnemonic = "simple spell screen derive december item timber slow empty kick laundry girl";

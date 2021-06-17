@@ -1,1 +1,1 @@
-var mnemonic = "village faint funny diagram emotion bridge noodle boil sustain evil sword mask";
+var mnemonic = "inform voice wise glance garbage category draft suit close twelve change engine";

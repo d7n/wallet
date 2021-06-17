@@ -1,1 +1,1 @@
-var mnemonic = "tooth receive define cost thrive tag nasty inquiry fit primary chief mansion";
+var mnemonic = "fuel ask wing gorilla like clerk fiber ill rate latin gate walnut";

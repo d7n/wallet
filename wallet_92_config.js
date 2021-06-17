@@ -1,1 +1,1 @@
-var mnemonic = "quantum mimic test shy since romance tilt flight spring prosper dinosaur differ";
+var mnemonic = "best divert direct chunk license dirt mesh setup merit attitude bottom spawn";

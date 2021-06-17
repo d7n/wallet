@@ -1,1 +1,1 @@
-var mnemonic = "ivory foam velvet work talent young convince rural evoke minimum swift primary";
+var mnemonic = "during employ cost better survey vibrant mean lava cereal replace iron quiz";

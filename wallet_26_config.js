@@ -1,1 +1,1 @@
-var mnemonic = "text royal pave magnet scan enough unfold surprise current stock random grit";
+var mnemonic = "remind attract pair response love gather pond police hub usage stay item";

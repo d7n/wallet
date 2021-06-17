@@ -1,1 +1,1 @@
-var mnemonic = "network age special spin document luxury address enforce daughter medal dad host";
+var mnemonic = "hover patch wedding young lab fortune float upper reason ensure glimpse there";

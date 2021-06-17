@@ -1,1 +1,1 @@
-var mnemonic = "nature short hub bridge board ball invest crane teach city random street";
+var mnemonic = "clip army aim live dumb movie egg net catalog liquid range subway";

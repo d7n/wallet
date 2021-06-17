@@ -1,1 +1,1 @@
-var mnemonic = "noodle festival lawsuit initial vocal history idea hurry axis welcome crew vocal";
+var mnemonic = "carry chief elbow plug extra double device warfare early fame immense current";

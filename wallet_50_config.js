@@ -1,1 +1,1 @@
-var mnemonic = "decade shock maximum sorry real mesh skirt wage burger patient follow honey";
+var mnemonic = "brass stable wool team kick sword claw sail album kitchen noble sure";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet reunion tree shy way when mutual interest consider nut adjust century";
+var mnemonic = "armor puzzle tuition pencil hand young recipe today limb afraid hill tray";

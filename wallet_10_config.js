@@ -1,1 +1,1 @@
-var mnemonic = "width glad slow chalk horn cram cook pet trigger coin vocal attack";
+var mnemonic = "tunnel ghost industry neck during token vessel daughter enlist zebra balance music";

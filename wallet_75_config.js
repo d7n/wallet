@@ -1,1 +1,1 @@
-var mnemonic = "avoid lazy swim ostrich balcony way engage drop weapon blue salute spirit";
+var mnemonic = "input lawsuit scale catch prison main upon step cram combine juice kite";

@@ -1,1 +1,1 @@
-var mnemonic = "business depart message price trend wire morning outdoor fall coyote eyebrow city";
+var mnemonic = "evidence village use genuine security guess prepare steel grief pink opinion trust";

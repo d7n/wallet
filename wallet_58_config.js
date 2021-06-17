@@ -1,1 +1,1 @@
-var mnemonic = "vital shadow table report coach distance adjust web loop wrist tumble wage";
+var mnemonic = "whale peace brain ride depart resemble lamp slam champion puzzle wreck beauty";

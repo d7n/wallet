@@ -1,1 +1,1 @@
-var mnemonic = "off velvet afford gesture december orange frown mammal olive car box you";
+var mnemonic = "hour time supreme depend wrestle series floor exhibit crush amount fashion wrestle";

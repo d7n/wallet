@@ -1,1 +1,1 @@
-var mnemonic = "entry topple pluck orange leisure walk prosper slice exhaust gap office chalk";
+var mnemonic = "nut until luxury glow gentle stamp utility trap okay edge occur give";

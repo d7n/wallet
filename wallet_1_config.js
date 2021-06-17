@@ -1,1 +1,1 @@
-var mnemonic = "hungry consider wedding divide right mutual faint car fold blame bomb protect";
+var mnemonic = "lucky example awkward cart trend ladder slice party ignore benefit better throw";

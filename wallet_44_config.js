@@ -1,1 +1,1 @@
-var mnemonic = "squirrel urge knee trim waste conduct pipe relief plastic neither horror firm";
+var mnemonic = "correct involve result turtle dune domain call change expand office goat logic";

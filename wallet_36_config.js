@@ -1,1 +1,1 @@
-var mnemonic = "pottery diesel math escape tank midnight tone gain focus door media buddy";
+var mnemonic = "purchase opinion vote element trash cage skin boss beauty oppose program pioneer";

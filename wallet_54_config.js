@@ -1,1 +1,1 @@
-var mnemonic = "furnace stem journey empower horror pill siren citizen family motion final cycle";
+var mnemonic = "gorilla cloth health promote canvas outer adjust grape require scout wash zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget relief explain hood slender seat globe pyramid agree powder gun final";
+var mnemonic = "twin social stick miracle vicious tortoise essence kitten organ squirrel label rather";

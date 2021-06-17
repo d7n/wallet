@@ -1,1 +1,1 @@
-var mnemonic = "cake patch dolphin fix mistake enrich alone scatter sketch reveal royal embrace";
+var mnemonic = "segment vessel food jump peasant giraffe crater fun issue trip away attend";

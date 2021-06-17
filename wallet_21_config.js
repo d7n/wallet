@@ -1,1 +1,1 @@
-var mnemonic = "mention kit drill arctic bonus soap depend axis screen flat dance degree";
+var mnemonic = "cloud often beauty similar hawk person remove stick enemy surround media pink";

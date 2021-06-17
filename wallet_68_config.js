@@ -1,1 +1,1 @@
-var mnemonic = "that skirt husband length banner inhale escape route spray double receive play";
+var mnemonic = "economy concert hat nature fall venture stone demand pull gain marine oven";

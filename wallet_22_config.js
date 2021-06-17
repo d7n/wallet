@@ -1,1 +1,1 @@
-var mnemonic = "strike material damp bonus account ship urge above notable law wrap ill";
+var mnemonic = "ethics human actress timber gallery fringe expire method document nose phone end";

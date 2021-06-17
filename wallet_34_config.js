@@ -1,1 +1,1 @@
-var mnemonic = "glimpse they cry plunge outer fine educate fly client illegal plate old";
+var mnemonic = "section allow quality into season diary arrange girl empty palace garage fuel";

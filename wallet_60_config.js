@@ -1,1 +1,1 @@
-var mnemonic = "kick cram zero pizza funny fit chaos shrimp budget adapt social box";
+var mnemonic = "thought forest grief bar easily winter force couch arrest property vital vivid";

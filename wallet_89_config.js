@@ -1,1 +1,1 @@
-var mnemonic = "laptop burden iron river library wreck bulb enrich provide final talk burden";
+var mnemonic = "grocery tattoo chronic express pipe puzzle attack certain test chaos bid brother";

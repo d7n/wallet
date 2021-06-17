@@ -1,1 +1,1 @@
-var mnemonic = "employ verify series device sick analyst again drip goose embody praise shoulder";
+var mnemonic = "rapid metal fiction coffee return tobacco annual giant flee never lizard stable";

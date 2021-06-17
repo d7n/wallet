@@ -1,1 +1,1 @@
-var mnemonic = "vicious order juice tide oven tide select accident bridge mango actual raise";
+var mnemonic = "run sing they switch combine antenna later gate symbol close put butter";

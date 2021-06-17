@@ -1,1 +1,1 @@
-var mnemonic = "innocent loan submit talk second essay dinner stand seed burger feature future";
+var mnemonic = "draft demise sea milk almost true three trick latin hurry bus fiber";

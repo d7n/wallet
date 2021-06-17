@@ -1,1 +1,1 @@
-var mnemonic = "sure wrist rule illegal social above live donkey slender normal record latin";
+var mnemonic = "way undo lift payment devote legal butter census dice file maximum catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "dance paper arch bless young guard behave neither reflect object kidney orange";
+var mnemonic = "manage invite pumpkin kick icon orient impose deputy moon shop glide nominee";

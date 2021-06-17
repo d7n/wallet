@@ -1,1 +1,1 @@
-var mnemonic = "arrange force milk pear reveal surge front until cause demand process quiz";
+var mnemonic = "story garbage beef visit reunion undo curve insane net sausage grant skull";

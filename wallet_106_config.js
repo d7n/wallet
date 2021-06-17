@@ -1,1 +1,1 @@
-var mnemonic = "flame token window castle tomato embark burger water oblige crawl future elevator";
+var mnemonic = "sting they banner enroll banana business struggle east together wine river girl";

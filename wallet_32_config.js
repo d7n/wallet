@@ -1,1 +1,1 @@
-var mnemonic = "morning trouble foam pottery scrap lazy tone girl decade around stone parade";
+var mnemonic = "armor breeze speak clarify just company jelly nurse book coconut hood floor";

@@ -1,1 +1,1 @@
-var mnemonic = "door lazy smart battle scale rely autumn federal captain summer you erase";
+var mnemonic = "assume obtain rain expect dilemma pull nephew blind giraffe save brain best";

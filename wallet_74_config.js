@@ -1,1 +1,1 @@
-var mnemonic = "alpha nurse romance silent party wonder slender balcony salon engage view venture";
+var mnemonic = "below ribbon diagram clever license boss hammer bomb travel fortune reduce mention";

@@ -1,1 +1,1 @@
-var mnemonic = "little smoke novel ball execute tag scorpion time culture license put box";
+var mnemonic = "south embark donkey outdoor indoor can sail evil tube veteran call erase";

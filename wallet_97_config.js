@@ -1,1 +1,1 @@
-var mnemonic = "clump whisper beef glad truly fiscal grain asset hen close auction style";
+var mnemonic = "weekend midnight orange mule absent exclude hedgehog slight athlete action urban roast";

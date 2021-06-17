@@ -1,1 +1,1 @@
-var mnemonic = "piano body fat will physical license lamp shiver anxiety disease whale silver";
+var mnemonic = "below wage equal card veteran tape desert coyote ski ship whip royal";

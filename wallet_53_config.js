@@ -1,1 +1,1 @@
-var mnemonic = "zone lab country lounge bag help art gap odor forest repeat circle";
+var mnemonic = "then language also circle turkey used mention soup float autumn cloth window";
