@@ -1,1 +1,1 @@
-var mnemonic = "tennis trip fossil addict absurd draw car cancel identify robot fiber zoo";
+var mnemonic = "protect renew talk normal fantasy nature craft mesh visit cycle echo sample";

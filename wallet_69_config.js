@@ -1,1 +1,1 @@
-var mnemonic = "milk enrich fence glimpse pudding sausage tired release similar alien blood agent";
+var mnemonic = "giraffe tornado arrive plunge rebuild sleep rug basic amused property grass wise";

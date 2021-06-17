@@ -1,1 +1,1 @@
-var mnemonic = "reveal addict runway coyote lion arctic expand party snake code glare giant";
+var mnemonic = "know knee nest animal tail add wing peace fiction bunker again input";

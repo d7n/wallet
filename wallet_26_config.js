@@ -1,1 +1,1 @@
-var mnemonic = "virtual tower behind carpet thought derive issue shove cupboard orange message drastic";
+var mnemonic = "cook garbage wheat guide convince vehicle enjoy end wedding amount physical monitor";

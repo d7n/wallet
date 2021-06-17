@@ -1,1 +1,1 @@
-var mnemonic = "joy vendor onion solve tissue snap sting cereal resource atom six spy";
+var mnemonic = "such pave door shrimp bundle spatial purity remind bus wide decline sibling";

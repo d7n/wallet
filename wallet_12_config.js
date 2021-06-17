@@ -1,1 +1,1 @@
-var mnemonic = "equal into avoid crew isolate polar ugly enable title cake inhale vanish";
+var mnemonic = "tackle broken orphan goat sting staff body exhaust lift cycle method lonely";

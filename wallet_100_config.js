@@ -1,1 +1,1 @@
-var mnemonic = "census dwarf assume electric piece true deal someone evoke sibling kick celery";
+var mnemonic = "outdoor valley wide soccer special april joke hurdle allow junk approve photo";

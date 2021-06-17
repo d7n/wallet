@@ -1,1 +1,1 @@
-var mnemonic = "immense sphere fatal winter uncle divorce notable nut trip motor total mix";
+var mnemonic = "coconut manage market cage fan void swim test permit gloom peasant piece";

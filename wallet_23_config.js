@@ -1,1 +1,1 @@
-var mnemonic = "light ice arrest solar ladder arena kit erupt museum defy label miracle";
+var mnemonic = "blur burden matter rotate survey unique mixture stick problem sell hobby bench";

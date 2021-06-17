@@ -1,1 +1,1 @@
-var mnemonic = "pull way actress outdoor object tuna alpha battle extra uncle bright engage";
+var mnemonic = "escape hip weapon first biology amazing display quote reason author rubber idle";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna deposit mammal find never inherit talk asthma maximum unable amazing drift";
+var mnemonic = "bleak tackle law royal glove analyst bird boat curious airport multiply toast";

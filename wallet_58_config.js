@@ -1,1 +1,1 @@
-var mnemonic = "tribe can rhythm idea timber blind hill clay canal coral please useless";
+var mnemonic = "share win crystal body senior organ pizza speak narrow concert praise indicate";

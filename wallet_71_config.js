@@ -1,1 +1,1 @@
-var mnemonic = "supply advance home audit canvas wash cushion whale insect because near lab";
+var mnemonic = "remember bag chair arrow hen fault thumb define fat table able word";

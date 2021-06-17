@@ -1,1 +1,1 @@
-var mnemonic = "whisper middle wheel oppose crop device unhappy spirit cycle climb rely dizzy";
+var mnemonic = "hold meadow antenna farm sight conduct before cigar cake easily brief remind";

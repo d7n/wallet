@@ -1,1 +1,1 @@
-var mnemonic = "cannon feed maximum apple clerk advance mutual cook exercise keen snack obey";
+var mnemonic = "ordinary tourist correct great clutch slab edit shock honey dash retire mother";

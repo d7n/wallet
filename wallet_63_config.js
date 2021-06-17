@@ -1,1 +1,1 @@
-var mnemonic = "music guitar bright kind lazy private glue wool average ten magnet pistol";
+var mnemonic = "knife artefact frown tomorrow leaf edge attack wrestle ancient drive frost fuel";

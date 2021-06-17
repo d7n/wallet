@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow gorilla stool walk forum melt job taste kit goddess fix sound";
+var mnemonic = "quit park antique blood front private injury physical sun bacon spy blood";

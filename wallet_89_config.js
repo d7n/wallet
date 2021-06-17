@@ -1,1 +1,1 @@
-var mnemonic = "dilemma goat fiscal happy real boost share matrix image bright general include";
+var mnemonic = "milk bread wire left page blue rival ensure motion shrimp airport water";

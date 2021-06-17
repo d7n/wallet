@@ -1,1 +1,1 @@
-var mnemonic = "ghost ecology shed naive divert copy picture tuition horn giggle wear remove";
+var mnemonic = "universe memory float mixed mouse farm neck life extend weird jungle lunar";

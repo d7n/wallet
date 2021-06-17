@@ -1,1 +1,1 @@
-var mnemonic = "unknown follow acid smooth clump obvious portion figure keen actual bounce file";
+var mnemonic = "possible raven gaze use diary mixed expose control proof forest error profit";

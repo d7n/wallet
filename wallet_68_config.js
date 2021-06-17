@@ -1,1 +1,1 @@
-var mnemonic = "asset opera segment lion muscle garbage normal misery dog thought trend scorpion";
+var mnemonic = "vote uniform sugar solid table style divide under recall world city above";

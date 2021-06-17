@@ -1,1 +1,1 @@
-var mnemonic = "island bench focus staff nest grid satoshi fresh critic brisk add helmet";
+var mnemonic = "lounge awesome tent sea raven cactus taste shed remain cube excess real";

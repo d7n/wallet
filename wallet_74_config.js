@@ -1,1 +1,1 @@
-var mnemonic = "wild hammer talent sphere seven marriage cream denial tell detail sure panel";
+var mnemonic = "route joy film donor speak that embrace roof enroll tube innocent design";

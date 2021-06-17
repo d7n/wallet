@@ -1,1 +1,1 @@
-var mnemonic = "bread logic diamond stool trigger symbol fun marble client devote neutral glad";
+var mnemonic = "stadium always uncle crime rubber goat mechanic jaguar audit cross final exit";

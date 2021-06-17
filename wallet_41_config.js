@@ -1,1 +1,1 @@
-var mnemonic = "region arrange oak thumb spy toddler melt need morning risk cute chest";
+var mnemonic = "flash champion virtual phrase humble two concert volume husband empower smooth learn";

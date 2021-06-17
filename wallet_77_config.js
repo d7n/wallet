@@ -1,1 +1,1 @@
-var mnemonic = "cancel usage ill when soon knock provide fiction place camp velvet hunt";
+var mnemonic = "report poet box chapter infant donkey upgrade bulk fog tiny excess merry";

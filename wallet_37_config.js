@@ -1,1 +1,1 @@
-var mnemonic = "habit supply powder clog trial label melt hour vast nut metal split";
+var mnemonic = "trade hammer wool eye deer copper current describe firm capable fat cattle";

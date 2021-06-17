@@ -1,1 +1,1 @@
-var mnemonic = "weird senior umbrella sudden economy define dragon van dash parade sign valley";
+var mnemonic = "blue face deal radar veteran dice wagon tag expect side tag habit";

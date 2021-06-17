@@ -1,1 +1,1 @@
-var mnemonic = "bring brush canoe candy sister forget bracket disorder source route erosion more";
+var mnemonic = "concert arrive frequent flush print bag spin video pepper priority assault error";

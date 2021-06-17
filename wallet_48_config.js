@@ -1,1 +1,1 @@
-var mnemonic = "junior goddess alien unfold stable great steel canyon wonder gold narrow excess";
+var mnemonic = "speed segment stable level object staff avoid noble forget caution column legend";

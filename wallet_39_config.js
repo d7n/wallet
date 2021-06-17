@@ -1,1 +1,1 @@
-var mnemonic = "balcony boring domain safe outer wire reunion year sunset drastic before liar";
+var mnemonic = "liquid color chase heavy breeze area spice surge asset prevent bone guide";

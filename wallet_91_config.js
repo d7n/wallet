@@ -1,1 +1,1 @@
-var mnemonic = "change device ice purse cannon bomb crack flower stamp pumpkin embody tired";
+var mnemonic = "cruel afraid come symptom upgrade vessel torch become fee clock possible nature";

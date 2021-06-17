@@ -1,1 +1,1 @@
-var mnemonic = "fever glance connect scrub warrior balcony energy moon lawn excuse quantum party";
+var mnemonic = "unhappy shiver clog lock broken party obtain chef bullet surface mom flat";

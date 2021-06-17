@@ -1,1 +1,1 @@
-var mnemonic = "siege crazy boy slot city bonus about vintage know peanut system bunker";
+var mnemonic = "egg shop innocent soldier illegal produce card empty ketchup flat inquiry sort";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror ice subject coyote town dismiss dream topple slim pretty witness echo";
+var mnemonic = "vivid feel insect infant trash document coin rather spatial muffin fuel peanut";

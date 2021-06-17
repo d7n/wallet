@@ -1,1 +1,1 @@
-var mnemonic = "best require lock prefer quiz shrimp wrestle umbrella tiger decade kitchen asthma";
+var mnemonic = "chase vapor feel route ecology this coil entry cactus hour deal sunny";

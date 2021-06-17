@@ -1,1 +1,1 @@
-var mnemonic = "grit spice topple project target tree ozone squeeze bus image quiz fox";
+var mnemonic = "often clean mind solar popular craft maid soup step combine afraid grain";

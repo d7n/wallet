@@ -1,1 +1,1 @@
-var mnemonic = "always shaft another another orphan album buzz since weasel music adult review";
+var mnemonic = "muscle conduct nephew bacon prepare video magic good fork collect jelly coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "time metal silk crane sock camp bundle empty unfold venture limit woman";
+var mnemonic = "play hollow sing liar brother across sphere sadness head outside swim intact";

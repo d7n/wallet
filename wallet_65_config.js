@@ -1,1 +1,1 @@
-var mnemonic = "funny snake raven tree special banner bone ivory step recipe amount olympic";
+var mnemonic = "parent mimic mutual remember mad price cloth lion hungry motion doctor power";

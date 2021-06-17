@@ -1,1 +1,1 @@
-var mnemonic = "pear fuel year sell mutual plate pepper sail wealth search rack build";
+var mnemonic = "clarify demand short box fresh skill cargo quick boss lion initial speed";

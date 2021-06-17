@@ -1,1 +1,1 @@
-var mnemonic = "first renew oven sniff loop diet recycle hammer sport turn life autumn";
+var mnemonic = "cloud since high rude entry suggest elbow bid balcony few world sniff";

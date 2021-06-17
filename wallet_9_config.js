@@ -1,1 +1,1 @@
-var mnemonic = "leader peasant pole plunge arrest envelope disease drum either text voyage artist";
+var mnemonic = "fiber wild dinosaur cliff appear clay mammal pig divorce view program dash";

@@ -1,1 +1,1 @@
-var mnemonic = "theme celery fossil drift become utility coconut bird torch subject cloth aspect";
+var mnemonic = "burden affair easy sick hammer genre luggage zebra salad great consider nasty";

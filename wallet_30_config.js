@@ -1,1 +1,1 @@
-var mnemonic = "feature sustain scare sad sport state tennis quantum ability speak utility column";
+var mnemonic = "system tide salad position swim swarm limit logic together walnut brief turtle";

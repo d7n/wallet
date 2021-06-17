@@ -1,1 +1,1 @@
-var mnemonic = "coach clerk ability display click alley awkward crouch annual arrive sense interest";
+var mnemonic = "fault various shy raise space thrive check night shoe budget chest gather";

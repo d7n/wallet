@@ -1,1 +1,1 @@
-var mnemonic = "gasp toy unfair muffin mind pluck flat useful van harsh crop capital";
+var mnemonic = "session ill wedding air gallery gain royal aspect army crash gift antique";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend gap erase promote three celery stumble gauge gain field repair body";
+var mnemonic = "sentence similar door open thing iron acoustic badge robot claim math leave";

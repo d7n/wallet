@@ -1,1 +1,1 @@
-var mnemonic = "club play spy earth conduct express safe siren unable craft hair category";
+var mnemonic = "bench ozone popular menu empty senior govern mixed panther govern faculty balcony";

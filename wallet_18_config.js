@@ -1,1 +1,1 @@
-var mnemonic = "harbor marine act version fee afford effort atom aunt tragic police obey";
+var mnemonic = "oppose north duck copy mean urge blade giggle forest gym swing link";

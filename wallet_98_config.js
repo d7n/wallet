@@ -1,1 +1,1 @@
-var mnemonic = "cook quote must demand menu spoil series humble extra drum clog husband";
+var mnemonic = "bench essay color episode need talent asthma belt offer arm eagle able";

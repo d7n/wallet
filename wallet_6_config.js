@@ -1,1 +1,1 @@
-var mnemonic = "language patrol fluid tennis virtual deal promote analyst girl asset behind link";
+var mnemonic = "slice ensure buzz dust budget light pig hip hurt water code seat";

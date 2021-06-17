@@ -1,1 +1,1 @@
-var mnemonic = "movie scrub clock inflict ridge spend sorry huge deer monitor fluid peasant";
+var mnemonic = "win there bus cushion broccoli essay soon forum unknown check asthma bottom";

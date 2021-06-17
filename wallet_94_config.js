@@ -1,1 +1,1 @@
-var mnemonic = "weird price spoon ski mind curtain target cart inspire donate crisp unveil";
+var mnemonic = "blame stable twelve verify coin ski panic trust soap moral curious load";

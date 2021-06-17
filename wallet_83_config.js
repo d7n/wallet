@@ -1,1 +1,1 @@
-var mnemonic = "apology nephew ozone foster attract carbon scorpion alert path hurdle abuse embody";
+var mnemonic = "mosquito snow head angry chuckle seed submit afford gauge inherit heart pass";

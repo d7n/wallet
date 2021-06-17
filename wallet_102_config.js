@@ -1,1 +1,1 @@
-var mnemonic = "grief artefact ignore fat either true forum garage gather accuse pact bamboo";
+var mnemonic = "also speak decide million half harvest avoid truly favorite orient radar work";

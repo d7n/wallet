@@ -1,1 +1,1 @@
-var mnemonic = "loop festival soup remember cause rapid immense obtain buzz employ joke lamp";
+var mnemonic = "summer meat meat silent small minor sister record oval thank change frequent";

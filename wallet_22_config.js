@@ -1,1 +1,1 @@
-var mnemonic = "holiday advice spring polar deer cannon similar truly expose hope smoke wave";
+var mnemonic = "pilot asset what drip clump brave clump orange alarm parent banana neck";

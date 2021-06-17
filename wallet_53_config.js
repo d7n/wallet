@@ -1,1 +1,1 @@
-var mnemonic = "mother arrow tornado sample warrior great episode air lock around tail blur";
+var mnemonic = "flame hotel chimney suggest cat spring quarter awful reveal damage bench inform";

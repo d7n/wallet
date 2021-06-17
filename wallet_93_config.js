@@ -1,1 +1,1 @@
-var mnemonic = "cycle unaware adjust gold slab fever mutual voyage fringe barrel sibling during";
+var mnemonic = "either broken mirror blue unlock wrong crush saddle day mother romance stool";

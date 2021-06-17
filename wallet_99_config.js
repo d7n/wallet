@@ -1,1 +1,1 @@
-var mnemonic = "close offer world sorry they rare demand penalty affair scatter smart travel";
+var mnemonic = "soccer cheese execute thumb denial luggage sea festival toddler sea motor panther";

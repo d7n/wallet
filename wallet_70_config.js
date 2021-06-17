@@ -1,1 +1,1 @@
-var mnemonic = "assault pyramid member danger figure patient document cook enrich slam twelve hope";
+var mnemonic = "clump fly pigeon fuel people scene shell echo today able drastic stable";

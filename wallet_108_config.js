@@ -1,1 +1,1 @@
-var mnemonic = "dynamic sister jewel stem despair icon head mobile tortoise speak forest gesture";
+var mnemonic = "eight grow mansion glue meat spring satoshi evidence pig purchase fiction cradle";

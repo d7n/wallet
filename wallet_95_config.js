@@ -1,1 +1,1 @@
-var mnemonic = "obtain act latin kangaroo off security ecology just sense talk end swift";
+var mnemonic = "dog already hammer minor already armor wear weapon ramp inquiry chair husband";

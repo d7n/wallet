@@ -1,1 +1,1 @@
-var mnemonic = "train physical prize bleak ugly tell usage remain total earn add library";
+var mnemonic = "wool cost limit expire inspire breeze loyal inhale keen organ smart beach";

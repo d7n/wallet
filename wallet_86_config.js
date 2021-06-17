@@ -1,1 +1,1 @@
-var mnemonic = "snow bird dignity inch path twin miss crumble conduct label whip soul";
+var mnemonic = "usage wear female glow man tape crack annual bubble anxiety guilt hammer";

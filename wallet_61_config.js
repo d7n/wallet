@@ -1,1 +1,1 @@
-var mnemonic = "weapon crumble skate harsh rocket galaxy hammer athlete hire brisk skate exclude";
+var mnemonic = "sort volcano puzzle clever chase cost vendor depart learn section reward rigid";

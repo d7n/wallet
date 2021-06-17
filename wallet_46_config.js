@@ -1,1 +1,1 @@
-var mnemonic = "safe put foot file find explain moment work soft execute where play";
+var mnemonic = "liar dial energy tent cycle squirrel hurry major exclude fatal improve effort";

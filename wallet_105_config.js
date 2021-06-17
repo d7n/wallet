@@ -1,1 +1,1 @@
-var mnemonic = "student sniff style kiwi space ritual disagree type cloth predict glance hip";
+var mnemonic = "bacon assault dry pond release balance scout sport jump whip top diet";

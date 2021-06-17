@@ -1,1 +1,1 @@
-var mnemonic = "toe lamp sugar scene chest curtain march result wrong bounce pulp own";
+var mnemonic = "atom dirt session slim evidence alone argue donkey click tiger glory soul";

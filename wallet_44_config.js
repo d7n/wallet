@@ -1,1 +1,1 @@
-var mnemonic = "sugar rookie grain scan maximum engage reopen machine demise butter industry romance";
+var mnemonic = "cool thumb doll fork noble radar slender state gaze legal anger error";

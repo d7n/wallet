@@ -1,1 +1,1 @@
-var mnemonic = "ahead regular pledge into clog path seek song tower dragon baby caution";
+var mnemonic = "ten remember core enact island frame shadow panther river primary diamond label";

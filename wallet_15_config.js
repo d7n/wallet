@@ -1,1 +1,1 @@
-var mnemonic = "bind captain kangaroo butter wealth silent lion tuna mandate cluster stand stuff";
+var mnemonic = "lizard cloth fatal bless tiny song custom ketchup clump hair ostrich dance";

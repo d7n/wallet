@@ -1,1 +1,1 @@
-var mnemonic = "dawn fall fragile grass donkey frame place give wood seek tilt visit";
+var mnemonic = "promote crunch add cloud spy coyote energy forest output guide resist absurd";

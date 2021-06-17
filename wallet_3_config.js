@@ -1,1 +1,1 @@
-var mnemonic = "short giraffe honey master various baby squirrel come remain dice region obvious";
+var mnemonic = "loan tragic draw ozone energy work tuition letter sail bridge brain talk";

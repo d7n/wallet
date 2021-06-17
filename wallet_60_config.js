@@ -1,1 +1,1 @@
-var mnemonic = "pool artefact glide miracle fall victory move price power next trip siege";
+var mnemonic = "connect spell demise spare angry leopard rather slot shop already shiver sad";

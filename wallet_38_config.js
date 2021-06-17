@@ -1,1 +1,1 @@
-var mnemonic = "city load indicate naive bullet bird rabbit response spray since wash nothing";
+var mnemonic = "yard benefit air hill first tourist security equal waste layer panda tooth";

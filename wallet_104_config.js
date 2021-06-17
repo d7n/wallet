@@ -1,1 +1,1 @@
-var mnemonic = "abuse sell battle walnut inner sniff witness scissors pull timber milk river";
+var mnemonic = "shift vintage imitate congress stumble slogan morning defense cheap cram exhaust response";

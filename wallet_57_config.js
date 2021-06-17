@@ -1,1 +1,1 @@
-var mnemonic = "fresh sniff shy dress increase drama order soda barely crack weather float";
+var mnemonic = "venture raccoon nature miss banana venue enlist bleak deputy orange only tube";

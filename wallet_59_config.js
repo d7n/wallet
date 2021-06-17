@@ -1,1 +1,1 @@
-var mnemonic = "fork rely captain hire brass install other problem proud mutual girl forward";
+var mnemonic = "trust crop dog arena tell fuel boss half end chaos assist silk";

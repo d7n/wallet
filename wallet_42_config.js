@@ -1,1 +1,1 @@
-var mnemonic = "discover crane state mystery toast jacket abuse burst year fly radar slim";
+var mnemonic = "small loop inquiry draft crouch spell prefer square alley sustain venture rack";

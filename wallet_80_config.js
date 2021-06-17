@@ -1,1 +1,1 @@
-var mnemonic = "scrub walk rookie gun feed resemble boss gym flag option gallery outer";
+var mnemonic = "electric rural input decide resist control dutch amazing update high metal rich";

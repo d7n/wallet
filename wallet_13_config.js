@@ -1,1 +1,1 @@
-var mnemonic = "shuffle divert boy ugly hour canal viable because awful knock easy turtle";
+var mnemonic = "hockey verb rude grass repeat meat enable summer ripple simple fog attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain there swim defense bulb december odor misery ride sign hint fame";
+var mnemonic = "siege method rapid noise seminar labor habit chronic nurse pyramid nice battle";

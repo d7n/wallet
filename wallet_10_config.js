@@ -1,1 +1,1 @@
-var mnemonic = "anchor aisle point naive draw twin fever phrase circle arch gaze devote";
+var mnemonic = "raccoon rescue position mention reduce renew year black open grass equal walnut";

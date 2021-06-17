@@ -1,1 +1,1 @@
-var mnemonic = "upper fog skin address banana coach maximum tell blanket media salmon robust";
+var mnemonic = "clinic chunk meadow enact gravity symptom tool dial column crater oil license";

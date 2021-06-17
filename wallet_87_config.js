@@ -1,1 +1,1 @@
-var mnemonic = "limb amazing abstract gym diamond arrow ready jaguar injury live oval case";
+var mnemonic = "clip shed life fossil figure march evidence move special design priority ordinary";

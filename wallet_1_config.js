@@ -1,1 +1,1 @@
-var mnemonic = "company crisp remind cream absent always mammal gaze first avocado umbrella fly";
+var mnemonic = "disagree wood hair tortoise good device urban render ozone illness hero axis";

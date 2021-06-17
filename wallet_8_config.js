@@ -1,1 +1,1 @@
-var mnemonic = "excess today rotate dad flock palace brain pool seed gas plug say";
+var mnemonic = "steak delay sunset soul all lady champion claw card canoe wear magnet";

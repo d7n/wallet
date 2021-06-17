@@ -1,1 +1,1 @@
-var mnemonic = "plunge love post palm rally clock pencil naive fragile gloom evolve sock";
+var mnemonic = "latin wasp ethics reveal cousin father grass dash easily autumn post ghost";

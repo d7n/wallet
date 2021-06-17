@@ -1,1 +1,1 @@
-var mnemonic = "roof moon club ignore nerve exit document wash lottery such clog relief";
+var mnemonic = "furnace roast bag raise axis oval december appear jealous uncover truth sleep";
