@@ -1,1 +1,1 @@
-var mnemonic = "merit crucial dish genre hire husband day girl pyramid shove input fork";
+var mnemonic = "kick gather bronze matter debris chief cigar welcome wide share weapon ripple";

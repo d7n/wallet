@@ -1,1 +1,1 @@
-var mnemonic = "match invest black dust aunt pen document debate lamp episode rack neck";
+var mnemonic = "correct segment icon unfair donate sudden because mixed nasty edge note nominee";

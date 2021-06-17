@@ -1,1 +1,1 @@
-var mnemonic = "issue turkey nominee puzzle illegal soldier sort dinner over cherry behave tail";
+var mnemonic = "next hen subject swim hood shy despair obey grunt arrest media profit";

@@ -1,1 +1,1 @@
-var mnemonic = "stool emotion sail notable nasty wire rival address piano ladder embark certain";
+var mnemonic = "lamp hip road water mistake unit sting another embark head arctic ripple";

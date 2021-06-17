@@ -1,1 +1,1 @@
-var mnemonic = "business demand fluid east seven judge shallow budget mix flat call popular";
+var mnemonic = "prize neglect skill intact hope mesh exchange sketch coconut matrix weather biology";

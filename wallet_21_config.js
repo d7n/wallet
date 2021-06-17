@@ -1,1 +1,1 @@
-var mnemonic = "drama person message relief stamp neutral regret stick gallery slim ghost black";
+var mnemonic = "huge worry category kick still mobile dream stage panic column test online";

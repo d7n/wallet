@@ -1,1 +1,1 @@
-var mnemonic = "tribe butter hour jelly finish wage desk include attend step relief bulk";
+var mnemonic = "fish resist aerobic pill twelve depend twelve kangaroo climb again airport advance";

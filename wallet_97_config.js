@@ -1,1 +1,1 @@
-var mnemonic = "diamond gym among actor detail cannon bright tomorrow kid primary brand wild";
+var mnemonic = "vibrant ivory great gift sick seminar predict swim comfort sell tumble spare";

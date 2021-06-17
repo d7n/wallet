@@ -1,1 +1,1 @@
-var mnemonic = "sock glass bunker install voyage fire hamster waste argue pencil fringe naive";
+var mnemonic = "artefact tennis penalty walnut basic burger nasty motor pause filter kangaroo naive";

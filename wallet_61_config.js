@@ -1,1 +1,1 @@
-var mnemonic = "toilet little ridge enable behave pledge pig plate concert survey flee own";
+var mnemonic = "upper book repeat vocal cargo ankle steak dog tonight figure sunny capable";

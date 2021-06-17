@@ -1,1 +1,1 @@
-var mnemonic = "where liar stadium lamp quarter proud retire wasp sound boost together sadness";
+var mnemonic = "pretty input drama venture fashion sleep skin valve audit crunch write pear";

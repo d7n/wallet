@@ -1,1 +1,1 @@
-var mnemonic = "praise math west menu more million rubber kitten shock weather mutual warfare";
+var mnemonic = "range atom height chapter crater wheel choice wide wreck snap plunge search";

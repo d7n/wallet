@@ -1,1 +1,1 @@
-var mnemonic = "matter off cabin leave gift grant sight exhaust leaf steak else opinion";
+var mnemonic = "inside brave dune knock stem orient arrive mystery ceiling initial edit unit";

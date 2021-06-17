@@ -1,1 +1,1 @@
-var mnemonic = "differ size maple random pull stand cradle predict credit guilt bicycle fence";
+var mnemonic = "tooth garden vital dirt august dose bless grab family bench sea excess";

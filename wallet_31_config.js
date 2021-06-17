@@ -1,1 +1,1 @@
-var mnemonic = "kiss pyramid trap payment produce nothing hello breeze scout help win live";
+var mnemonic = "practice canal immune picnic pitch dinner empower jeans body ignore carry remember";

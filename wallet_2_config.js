@@ -1,1 +1,1 @@
-var mnemonic = "coconut suggest recycle globe decrease language tattoo ability armor giant impact recipe";
+var mnemonic = "unit rate mammal genre crater pact daring course vintage mixed mercy cup";

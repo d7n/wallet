@@ -1,1 +1,1 @@
-var mnemonic = "boss art mutual glimpse style wonder helmet cube victory dutch when story";
+var mnemonic = "hill primary almost earn grace globe drama clip social token tool inch";

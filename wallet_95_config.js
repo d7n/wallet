@@ -1,1 +1,1 @@
-var mnemonic = "upset clock because talent casino clog match permit join nose brief ecology";
+var mnemonic = "crunch milk vessel clap flash weekend top social ankle enable surprise type";

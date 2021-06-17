@@ -1,1 +1,1 @@
-var mnemonic = "error else shop material easily velvet river slow live solar debris napkin";
+var mnemonic = "rely govern ridge opinion crime jacket letter exchange toward seat noble process";

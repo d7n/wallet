@@ -1,1 +1,1 @@
-var mnemonic = "diary dolphin cherry hybrid gallery viable plunge cherry wear assume jump evolve";
+var mnemonic = "nose half lumber effort menu control keep scan holiday shrimp fish pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "melt old salute fork disagree erode bullet notable force able wrap move";
+var mnemonic = "below model enroll detail nose only diesel exhibit canyon harsh farm deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "pony radio rookie abuse actual foam typical example subject witness provide electric";
+var mnemonic = "wear copper cabbage slender ahead aspect cereal yard float load squirrel drill";

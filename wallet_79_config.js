@@ -1,1 +1,1 @@
-var mnemonic = "trumpet hospital essence happy garbage taste peasant bomb alpha relief key cycle";
+var mnemonic = "chuckle element badge merry earth inflict congress army camp nominee march camp";

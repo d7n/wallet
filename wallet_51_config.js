@@ -1,1 +1,1 @@
-var mnemonic = "truck dentist series tumble absurd damp fault cushion sell spot away mountain";
+var mnemonic = "carpet steak clever bitter vessel skin school talk robust coil patrol treat";

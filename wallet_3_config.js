@@ -1,1 +1,1 @@
-var mnemonic = "obey assist mosquito retire ahead custom elegant profit code target crumble naive";
+var mnemonic = "dwarf start text slim aim width domain refuse enter zone fossil motion";

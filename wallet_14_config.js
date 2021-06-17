@@ -1,1 +1,1 @@
-var mnemonic = "age quarter setup cereal north edge team lecture learn common drop muscle";
+var mnemonic = "immune toy reflect one crush extra train hair result frown derive fiscal";

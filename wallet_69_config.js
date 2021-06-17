@@ -1,1 +1,1 @@
-var mnemonic = "move hen alley pen nut there scorpion lunch monitor common pencil defense";
+var mnemonic = "noodle agent snap tortoise tuna culture lesson save proud detail curtain cinnamon";

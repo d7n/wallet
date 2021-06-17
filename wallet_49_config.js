@@ -1,1 +1,1 @@
-var mnemonic = "humble walnut worry blouse treat green congress forest size embrace sand syrup";
+var mnemonic = "crumble ivory year pretty juice basic twice found dragon giggle grant supply";

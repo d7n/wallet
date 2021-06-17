@@ -1,1 +1,1 @@
-var mnemonic = "army offer easy crime cattle man gaze elite smart knife unable champion";
+var mnemonic = "decorate already tornado addict bachelor genuine glide twist joy between judge path";

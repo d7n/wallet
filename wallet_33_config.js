@@ -1,1 +1,1 @@
-var mnemonic = "sing involve plunge destroy material shallow check merge worth vital target suggest";
+var mnemonic = "electric still install close solve review alone camp duty dirt jacket abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "plunge couple govern disorder hover aspect dog sunny rival frequent blouse pottery";
+var mnemonic = "cool account bunker chronic oak inquiry damp caution twist fringe visit sunny";

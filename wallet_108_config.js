@@ -1,1 +1,1 @@
-var mnemonic = "deer excuse bottom trade urge essence senior audit fossil topple useful table";
+var mnemonic = "neither discover cannon daughter menu buffalo uphold orbit wheat extra endless gain";

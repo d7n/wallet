@@ -1,1 +1,1 @@
-var mnemonic = "flight vacant female run pigeon opinion glide cloud purchase true blouse bullet";
+var mnemonic = "theory diagram coconut argue attitude elephant radar pledge piano cube umbrella rice";

@@ -1,1 +1,1 @@
-var mnemonic = "mountain autumn only ethics panther mom merge denial such chase wool tuition";
+var mnemonic = "impulse river emotion buffalo pulse cheese gasp palm cost teach slot universe";

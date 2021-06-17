@@ -1,1 +1,1 @@
-var mnemonic = "envelope option satisfy this upset doll pupil damp income exhaust hurt melody";
+var mnemonic = "shuffle panther hour engine dinner picture drop way like enjoy use burden";

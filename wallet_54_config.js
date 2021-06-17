@@ -1,1 +1,1 @@
-var mnemonic = "country husband roof hold cradle jungle spoil rare antique soul diamond speed";
+var mnemonic = "attend valley enhance very curtain scrap melt stone victory stage nuclear tomato";

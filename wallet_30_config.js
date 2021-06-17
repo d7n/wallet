@@ -1,1 +1,1 @@
-var mnemonic = "bus slow page involve nut truth remain response then feature cheese rescue";
+var mnemonic = "inquiry buddy basket rhythm sample gift endless shoe avocado bachelor kangaroo term";

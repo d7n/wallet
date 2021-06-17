@@ -1,1 +1,1 @@
-var mnemonic = "alien room palm virtual fabric glance crucial whip device fashion fringe because";
+var mnemonic = "wagon athlete north obscure foot tennis empower west meat end carry they";

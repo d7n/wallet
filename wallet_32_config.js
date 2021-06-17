@@ -1,1 +1,1 @@
-var mnemonic = "public crash roof execute kangaroo park object huge palm original obtain upon";
+var mnemonic = "midnight suggest remove grace decline photo copy replace clump primary work account";

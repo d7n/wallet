@@ -1,1 +1,1 @@
-var mnemonic = "notice family suit simple sun math letter annual once room knee enrich";
+var mnemonic = "glide never ankle slide focus aware arch orient song pole shield day";

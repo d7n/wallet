@@ -1,1 +1,1 @@
-var mnemonic = "party crop today dose copy urban train biology vocal hold pool episode";
+var mnemonic = "core few toward stove aspect rate olympic image napkin have law collect";

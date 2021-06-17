@@ -1,1 +1,1 @@
-var mnemonic = "maid trade zero cross tilt width pair mention emerge voyage print move";
+var mnemonic = "bird swear hold bag farm suggest achieve verify friend invest actor agent";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish witness fire project filter meat bachelor rotate embody target calm old";
+var mnemonic = "garage glow hello clock only way candy whale catch onion tackle decorate";

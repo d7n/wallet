@@ -1,1 +1,1 @@
-var mnemonic = "curve yard clever eternal core bracket hurry quality saddle loan boat fiber";
+var mnemonic = "purpose easily slight frozen energy depart oxygen belt fitness winter network mother";

@@ -1,1 +1,1 @@
-var mnemonic = "screen awake arch reject happy century annual accuse advance lobster analyst sense";
+var mnemonic = "garden wrestle planet grace myself loud follow love peasant payment faint seed";

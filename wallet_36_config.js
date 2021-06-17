@@ -1,1 +1,1 @@
-var mnemonic = "satisfy gate gas around strong example strong glad solid question absent color";
+var mnemonic = "wise pink tribe idea chaos near sock jump mosquito tourist antenna idea";

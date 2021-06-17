@@ -1,1 +1,1 @@
-var mnemonic = "margin neglect radar wet rally liquid robot spatial brisk room ancient absorb";
+var mnemonic = "stuff agree benefit business jungle leave recipe profit news virtual people dynamic";

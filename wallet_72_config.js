@@ -1,1 +1,1 @@
-var mnemonic = "diesel garage unaware staff item still public length faculty risk minute mixture";
+var mnemonic = "column shrug toilet legend bomb cancel retreat hello vast reveal blind banner";

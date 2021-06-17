@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur volcano awful liar eternal lake ship wash crucial rich gun hair";
+var mnemonic = "wisdom expire awake twist safe sunny menu rocket eternal parade coffee kangaroo";

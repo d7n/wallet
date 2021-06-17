@@ -1,1 +1,1 @@
-var mnemonic = "jump valve immune wheat basic chase lucky coil bean huge cook account";
+var mnemonic = "curve chest say curious path sheriff glove seat paddle yellow noodle cancel";

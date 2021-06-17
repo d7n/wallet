@@ -1,1 +1,1 @@
-var mnemonic = "example scatter flock celery frog noble deal visa father inch stumble beyond";
+var mnemonic = "jar kitchen share almost feel pencil dune hard minor clerk roof degree";

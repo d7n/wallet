@@ -1,1 +1,1 @@
-var mnemonic = "deer puzzle very uncover chase sheriff throw minute tooth brown metal stadium";
+var mnemonic = "video bitter pyramid wheel suffer element annual below pitch trend seminar salad";

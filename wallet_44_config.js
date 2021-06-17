@@ -1,1 +1,1 @@
-var mnemonic = "chunk hand rocket scan tongue harvest pluck taxi coffee wreck tennis oven";
+var mnemonic = "limb embark holiday art fuel please jealous swallow possible verify castle blame";

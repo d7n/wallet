@@ -1,1 +1,1 @@
-var mnemonic = "badge powder into ocean side heart document kiss logic wheat naive lemon";
+var mnemonic = "mercy inch okay can ceiling badge labor drip december recall myth arrange";

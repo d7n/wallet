@@ -1,1 +1,1 @@
-var mnemonic = "edit decorate post time decade weather despair during december drip nasty labor";
+var mnemonic = "aspect deal kind kitten tortoise vote bronze afraid river slot pistol close";

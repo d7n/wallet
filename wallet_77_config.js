@@ -1,1 +1,1 @@
-var mnemonic = "library monitor congress main upset permit evoke loud slim scale turtle snake";
+var mnemonic = "napkin crazy mule debris swing more gasp mix hour grain car thunder";

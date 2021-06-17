@@ -1,1 +1,1 @@
-var mnemonic = "tornado enter wheat hedgehog cancel tilt permit mom edge cry broken reopen";
+var mnemonic = "exit toilet present field perfect fabric power cargo super eagle gym fault";

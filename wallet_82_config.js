@@ -1,1 +1,1 @@
-var mnemonic = "level toddler extend ozone museum abandon purchase boring run increase unlock siren";
+var mnemonic = "glow doctor stadium chest seminar price trend judge antique august remind issue";

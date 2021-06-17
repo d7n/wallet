@@ -1,1 +1,1 @@
-var mnemonic = "local cake average shiver garage apple cram dilemma hand traffic split cruel";
+var mnemonic = "ghost giraffe since skill organ genre renew gallery crucial hurdle claw finger";

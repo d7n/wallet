@@ -1,1 +1,1 @@
-var mnemonic = "flat swing attract fire rent nasty alone afford enhance trumpet charge dutch";
+var mnemonic = "equal trash exclude copper chest order tourist radar govern famous salt dizzy";

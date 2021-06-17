@@ -1,1 +1,1 @@
-var mnemonic = "floor execute fiber grant seat survey easily major antique demand mail pool";
+var mnemonic = "mass basket spare donate ethics barrel demise maid shaft crane oil atom";

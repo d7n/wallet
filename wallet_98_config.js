@@ -1,1 +1,1 @@
-var mnemonic = "situate eager suspect photo gesture wealth drink pill blur labor nest awake";
+var mnemonic = "dutch menu mercy session choice buffalo cream rhythm pencil spray oak bundle";

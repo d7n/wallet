@@ -1,1 +1,1 @@
-var mnemonic = "inspire dynamic same acoustic gloom topple woman vague kingdom lady arm latin";
+var mnemonic = "enough camera ladder liquid connect spot tackle monkey apology object outdoor nurse";

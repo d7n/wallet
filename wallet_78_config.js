@@ -1,1 +1,1 @@
-var mnemonic = "foster heart boat violin old diesel slight leave cruise buddy cycle title";
+var mnemonic = "know chaos song wing ghost perfect edge modify head document evidence act";

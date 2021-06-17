@@ -1,1 +1,1 @@
-var mnemonic = "trust guard second venture wife degree liquid outdoor oven fluid advance adapt";
+var mnemonic = "old quick science issue sausage buffalo color shrug frozen fetch seek display";

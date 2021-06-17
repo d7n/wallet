@@ -1,1 +1,1 @@
-var mnemonic = "vacant because actual alarm false bonus stereo hurry pitch stairs control churn";
+var mnemonic = "draw void unlock rally occur affair buzz diary sunny dash recipe turn";

@@ -1,1 +1,1 @@
-var mnemonic = "early put enact train baby human income bargain staff fashion apology that";
+var mnemonic = "devote fun client coffee fire shed satoshi prefer funny ocean boss amused";

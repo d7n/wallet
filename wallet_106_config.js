@@ -1,1 +1,1 @@
-var mnemonic = "inspire filter hen switch object minimum evoke club chief vital drum drum";
+var mnemonic = "bacon random cake sad sweet horn people audit broom cover crazy clean";

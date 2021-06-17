@@ -1,1 +1,1 @@
-var mnemonic = "used little soap cancel equip raw muscle learn swear auction depth noble";
+var mnemonic = "bulk wear virtual devote globe memory picture scrap sadness top amazing measure";

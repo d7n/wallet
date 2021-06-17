@@ -1,1 +1,1 @@
-var mnemonic = "curtain capital ginger dash wood risk stool suggest plate trumpet hazard permit";
+var mnemonic = "cover cousin item ignore truth ready slender coast strategy jazz lucky age";

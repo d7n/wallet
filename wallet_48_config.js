@@ -1,1 +1,1 @@
-var mnemonic = "hungry hundred dinner desert symbol napkin drift increase increase acquire leave upper";
+var mnemonic = "frozen swift cry employ feed pepper drink march gym brass digital genre";

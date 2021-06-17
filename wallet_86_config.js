@@ -1,1 +1,1 @@
-var mnemonic = "monkey file torch meat round mom code session avoid kid blush slice";
+var mnemonic = "shiver burger fish pole judge secret wrestle meadow derive bunker state mix";

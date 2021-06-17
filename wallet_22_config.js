@@ -1,1 +1,1 @@
-var mnemonic = "odor erupt torch grab close betray pen tumble nasty zoo oil job";
+var mnemonic = "divide canoe harsh desert paddle poem unknown lumber ribbon accident awful mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "talent saddle yard draw notable visit job picture layer kid lake occur";
+var mnemonic = "craft fatigue super snow charge evolve fire tiny soda name digital iron";

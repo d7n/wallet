@@ -1,1 +1,1 @@
-var mnemonic = "jungle angle oven trip capable tell now admit adapt arrest believe people";
+var mnemonic = "swift remain rude lunch oval poet chalk swear off pink sting meat";

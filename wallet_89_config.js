@@ -1,1 +1,1 @@
-var mnemonic = "robust noble hawk similar home waste volume flush benefit trust update lucky";
+var mnemonic = "speak onion maid fence curious spin bitter used stuff scrub thunder talk";

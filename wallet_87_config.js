@@ -1,1 +1,1 @@
-var mnemonic = "mind tone mouse element grid chair recycle sword kit awake turn merge";
+var mnemonic = "reveal act category ginger junk chaos region universe neck toast adjust subway";

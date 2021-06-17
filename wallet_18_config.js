@@ -1,1 +1,1 @@
-var mnemonic = "harsh shell summer six issue donor stairs index unfair usual normal stuff";
+var mnemonic = "canoe ensure vast sting history pony brush harvest ceiling cream jaguar kick";

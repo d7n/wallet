@@ -1,1 +1,1 @@
-var mnemonic = "mind quiz chalk wet kiss picture crack blanket eye slim couch patrol";
+var mnemonic = "butter game witness witness advice dumb toss route invest reason child laptop";

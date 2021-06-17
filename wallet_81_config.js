@@ -1,1 +1,1 @@
-var mnemonic = "kitten wreck odor ship grape famous awful two vital impact okay ski";
+var mnemonic = "abandon ensure cotton desert dwarf squirrel ostrich salon track idea barely gun";

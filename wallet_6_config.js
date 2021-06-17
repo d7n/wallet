@@ -1,1 +1,1 @@
-var mnemonic = "make slice oak library indoor crater degree special moon orchard initial throw";
+var mnemonic = "snack vessel limit hen exact dry file matter delay globe hand enlist";

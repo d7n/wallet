@@ -1,1 +1,1 @@
-var mnemonic = "entire grain town wrist kit beyond dry measure trust require palm dry";
+var mnemonic = "humor struggle crunch reward bronze pizza erupt warm when glove harbor enrich";

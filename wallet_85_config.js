@@ -1,1 +1,1 @@
-var mnemonic = "disagree craft noble figure hat oven mixed offer beach advice notice have";
+var mnemonic = "recipe ice force diary syrup dinner find despair flash false input viable";

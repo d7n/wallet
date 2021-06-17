@@ -1,1 +1,1 @@
-var mnemonic = "word decade body traffic pond blur hobby poet deer column garden invite";
+var mnemonic = "tribe yellow unlock narrow tiger remove jeans else trash frozen garden section";

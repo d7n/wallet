@@ -1,1 +1,1 @@
-var mnemonic = "ten lab company note gorilla blast scan drive enhance credit task moment";
+var mnemonic = "cycle tooth amazing organ meat main cluster van donor midnight mimic vague";

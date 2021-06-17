@@ -1,1 +1,1 @@
-var mnemonic = "lab age side assist donate mass cloth rhythm climb grunt kingdom that";
+var mnemonic = "father access fresh occur regret primary hamster response cattle jelly naive reason";
