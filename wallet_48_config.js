@@ -1,1 +1,1 @@
-var mnemonic = "unlock illegal kid obscure alpha happy tip laundry record replace suspect work";
+var mnemonic = "proud slide fabric post barely firm winner metal snake machine film legend";

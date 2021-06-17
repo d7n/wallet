@@ -1,1 +1,1 @@
-var mnemonic = "brown surge eager emerge mango lemon cliff play salmon embody anchor snack";
+var mnemonic = "pool decorate fade spatial retire build music repair toilet salt mask receive";

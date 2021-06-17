@@ -1,1 +1,1 @@
-var mnemonic = "avocado afraid remind across negative night deal clog pencil crowd poet atom";
+var mnemonic = "furnace noodle inject predict license toilet dress attract today melt front all";

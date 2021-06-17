@@ -1,1 +1,1 @@
-var mnemonic = "warm old skate blouse settle unique garlic fence apart fee across forward";
+var mnemonic = "green energy release early casino close conduct pact village space edge draw";

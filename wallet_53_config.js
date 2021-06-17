@@ -1,1 +1,1 @@
-var mnemonic = "okay prison fitness badge pigeon usual become jaguar zebra delay sight bicycle";
+var mnemonic = "strike glad concert amount news awake sail original race wait social ketchup";

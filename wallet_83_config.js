@@ -1,1 +1,1 @@
-var mnemonic = "clay uniform shine tuition myth dizzy inherit knock guard narrow basket ready";
+var mnemonic = "liquid bullet badge midnight cram inmate sponsor rebel business gadget joke copy";

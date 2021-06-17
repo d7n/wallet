@@ -1,1 +1,1 @@
-var mnemonic = "diagram seat spin stem depend modify body abuse popular kite breeze twice";
+var mnemonic = "syrup retreat board topple plate bar zoo card boy fault art crop";

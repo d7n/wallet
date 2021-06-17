@@ -1,1 +1,1 @@
-var mnemonic = "expand try stable veteran visit cave festival route tube subject enlist tank";
+var mnemonic = "girl pipe world follow gorilla helmet firm hockey jeans tray drop tumble";

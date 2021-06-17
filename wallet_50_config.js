@@ -1,1 +1,1 @@
-var mnemonic = "sunset cabin spin wall arch educate outdoor panther source input peanut dilemma";
+var mnemonic = "surface scout upon broom depth civil mad keep scheme gossip ritual shop";

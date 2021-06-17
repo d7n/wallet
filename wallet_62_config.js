@@ -1,1 +1,1 @@
-var mnemonic = "front secret number blade sunset gun duck crazy record ladder gravity coin";
+var mnemonic = "way blanket hurry member minor special rotate female captain host equip crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "promote typical cabbage delay ugly valid potato daring brand reunion drift space";
+var mnemonic = "hurt clinic comfort hip relief vapor dove art elder timber doctor evidence";

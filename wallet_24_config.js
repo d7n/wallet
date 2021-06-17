@@ -1,1 +1,1 @@
-var mnemonic = "usage bounce embrace rough urban move cheap armor life humor moon vast";
+var mnemonic = "song network hollow gate helmet obscure gossip hurdle payment differ goddess coast";

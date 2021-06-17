@@ -1,1 +1,1 @@
-var mnemonic = "aisle dog lumber autumn dash raw label swarm cable vehicle prize bike";
+var mnemonic = "marine rich kit sugar wrong purity promote item claw carbon describe marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward jealous comic into spirit ceiling moral practice hamster nurse timber spend";
+var mnemonic = "major shoe appear index giant elephant undo master sure jazz know spawn";

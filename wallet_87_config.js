@@ -1,1 +1,1 @@
-var mnemonic = "major canoe cement blade minor honey awful eagle wasp rib essence hope";
+var mnemonic = "elbow boss iron music resist fault announce material nut clump level success";

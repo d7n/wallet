@@ -1,1 +1,1 @@
-var mnemonic = "cruise umbrella time clock certain turtle melody sun alarm reward predict siege";
+var mnemonic = "release caution section voyage delay cook frog uniform panic matter casual pen";

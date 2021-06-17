@@ -1,1 +1,1 @@
-var mnemonic = "fatal barrel spell little voice jewel volume horse badge bubble good pumpkin";
+var mnemonic = "speed narrow oyster hill palm club side battle warrior quality door travel";

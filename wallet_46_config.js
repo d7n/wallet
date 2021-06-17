@@ -1,1 +1,1 @@
-var mnemonic = "gorilla enable ripple seek hood clerk above evolve prefer effort brick gold";
+var mnemonic = "banner bullet come perfect oblige chalk pear snap tortoise strong army fantasy";

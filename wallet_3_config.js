@@ -1,1 +1,1 @@
-var mnemonic = "need modify liberty glove control blanket fork project family napkin magic predict";
+var mnemonic = "region raw tide pitch online negative humor off soup meat goose tissue";

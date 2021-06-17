@@ -1,1 +1,1 @@
-var mnemonic = "midnight hollow exile flat basket shed ice firm lounge upgrade energy divide";
+var mnemonic = "cousin hero salad cup airport rally subject embark resist office fitness unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle exhibit movie snap script rude sting panda season exit brown ocean";
+var mnemonic = "silk oxygen dance knife question climb surround arena diamond weekend moral midnight";

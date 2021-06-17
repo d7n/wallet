@@ -1,1 +1,1 @@
-var mnemonic = "obtain voice deliver code pony frozen shaft verb embark hedgehog hard injury";
+var mnemonic = "season never piano valve web inflict clutch piece fire boil grain awesome";

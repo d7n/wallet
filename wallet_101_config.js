@@ -1,1 +1,1 @@
-var mnemonic = "payment that scout critic venue gym popular culture any fan danger cluster";
+var mnemonic = "slow agree index nasty bonus confirm install firm funny bullet cinnamon begin";

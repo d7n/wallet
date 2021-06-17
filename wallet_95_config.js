@@ -1,1 +1,1 @@
-var mnemonic = "upgrade lizard quantum scrap fossil farm lazy smile parent approve embark wire";
+var mnemonic = "tonight suggest pledge solar confirm fine roast fever trouble breeze asset oppose";

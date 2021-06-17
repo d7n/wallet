@@ -1,1 +1,1 @@
-var mnemonic = "build miracle special common elevator lounge stereo else tortoise search main trap";
+var mnemonic = "buffalo annual canvas bitter because bar setup elephant end apple tragic solution";

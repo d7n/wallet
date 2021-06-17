@@ -1,1 +1,1 @@
-var mnemonic = "tired curtain afraid amount panda federal wood question sister differ maid father";
+var mnemonic = "about shield panda sponsor engine blouse prosper tool unique dice draw normal";

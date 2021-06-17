@@ -1,1 +1,1 @@
-var mnemonic = "wage zero glory regular again brass office robust ceiling balance neck embrace";
+var mnemonic = "utility ghost action primary truly trouble crop security problem grass permit decade";

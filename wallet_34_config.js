@@ -1,1 +1,1 @@
-var mnemonic = "neck steel slender nothing voice confirm access pole south congress figure zone";
+var mnemonic = "expand mass sample bomb episode aim echo page universe sing attack axis";

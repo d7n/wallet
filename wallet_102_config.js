@@ -1,1 +1,1 @@
-var mnemonic = "thrive install choice noise violin umbrella exact indicate crush nest bike science";
+var mnemonic = "across laugh feed height drama unable lion peace jump rail actress tiny";

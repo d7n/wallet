@@ -1,1 +1,1 @@
-var mnemonic = "camp attitude century open device oxygen light alone boy major honey civil";
+var mnemonic = "profit weapon ranch rookie pause region innocent uphold scatter rice beach curve";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor pupil razor civil guide aim valve paddle badge radar punch harbor";
+var mnemonic = "behind point turn prosper key goat popular uniform endless equip rich powder";

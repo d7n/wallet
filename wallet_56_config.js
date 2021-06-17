@@ -1,1 +1,1 @@
-var mnemonic = "wisdom stuff lab cage drive weird thought tonight lawsuit regret chapter laugh";
+var mnemonic = "public nerve antique neglect bronze dwarf enforce gather believe million post catalog";

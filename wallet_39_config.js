@@ -1,1 +1,1 @@
-var mnemonic = "mimic mystery flash address lift weekend leaf legal appear second fault impose";
+var mnemonic = "file wife banana thought just boring brief uniform clay sorry palm diary";

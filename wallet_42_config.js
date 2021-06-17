@@ -1,1 +1,1 @@
-var mnemonic = "select reject smile mansion steak lumber else size rifle dish silver world";
+var mnemonic = "scan fortune fence quiz animal fault dance head milk recipe ship minor";

@@ -1,1 +1,1 @@
-var mnemonic = "hand short cable basic mobile intact never course kiss welcome remain slush";
+var mnemonic = "planet ahead neither ordinary zoo jacket brand danger absent ready captain weasel";

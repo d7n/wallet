@@ -1,1 +1,1 @@
-var mnemonic = "great eagle pelican combine casino fox wrist you coral cigar mouse talk";
+var mnemonic = "deal ecology indicate despair month spoil purchase mail dignity detail priority artefact";

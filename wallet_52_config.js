@@ -1,1 +1,1 @@
-var mnemonic = "pact ranch outdoor avoid exile infant solve grass joy laptop quick left";
+var mnemonic = "wide damage language champion squeeze exact baby gossip basket swap answer submit";

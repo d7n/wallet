@@ -1,1 +1,1 @@
-var mnemonic = "accident possible hill depend illness bracket civil seek exit panic jacket plastic";
+var mnemonic = "cloth bless damage aunt swap flag nature damage hurry razor peanut undo";

@@ -1,1 +1,1 @@
-var mnemonic = "system gas dance beauty prison pipe math era indicate monster author banana";
+var mnemonic = "bottom unique actress negative bullet dragon autumn simple sadness endorse convince elevator";

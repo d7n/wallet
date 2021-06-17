@@ -1,1 +1,1 @@
-var mnemonic = "equal stone second hungry toast kick trend typical minor august reopen auto";
+var mnemonic = "river oak more brass chicken guitar middle much wood baby strike double";

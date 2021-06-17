@@ -1,1 +1,1 @@
-var mnemonic = "south person abuse chalk indoor canyon ceiling turkey syrup valley lock priority";
+var mnemonic = "build ten yellow flip balance hawk conduct barely medal already syrup differ";

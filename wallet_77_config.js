@@ -1,1 +1,1 @@
-var mnemonic = "undo rubber weather water regular jungle ocean tell hair salute tumble volcano";
+var mnemonic = "whisper verify expect reunion flee wage dice nut black wage power abstract";

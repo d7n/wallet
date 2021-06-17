@@ -1,1 +1,1 @@
-var mnemonic = "demand casual exercise uphold stereo bounce drop legal attract weapon airport pact";
+var mnemonic = "canyon kit custom correct negative bus leaf frown close ecology sea damp";

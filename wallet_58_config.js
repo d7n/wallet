@@ -1,1 +1,1 @@
-var mnemonic = "chimney occur enrich ecology spirit govern away month essence demise veteran vault";
+var mnemonic = "among symptom junior group various crowd repair toy echo grab valve upgrade";

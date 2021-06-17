@@ -1,1 +1,1 @@
-var mnemonic = "churn armed awesome please avocado zoo hidden inside artist learn will flash";
+var mnemonic = "layer bird layer diamond sock gun special mad mirror furnace zone screen";

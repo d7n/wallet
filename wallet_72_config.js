@@ -1,1 +1,1 @@
-var mnemonic = "easy seek object judge task common reduce area mosquito crucial tunnel tenant";
+var mnemonic = "gift shoulder senior across fork mosquito citizen fat rural odor security address";

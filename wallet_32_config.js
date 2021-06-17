@@ -1,1 +1,1 @@
-var mnemonic = "kiwi display foster spoon pool buzz legend busy aunt sun else hobby";
+var mnemonic = "client print adult gaze shy board wrist pond mesh favorite office crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "coral chimney display right glide uncle sand avocado machine simple equip crowd";
+var mnemonic = "above oven frame betray pond ready clap address protect sword cave poem";

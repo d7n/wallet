@@ -1,1 +1,1 @@
-var mnemonic = "space average oil undo victory hotel ring walnut domain toast catch gym";
+var mnemonic = "high topic maximum correct pact color swarm globe frozen scare tent front";

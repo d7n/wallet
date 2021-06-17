@@ -1,1 +1,1 @@
-var mnemonic = "pass dash scheme polar obtain park comfort tomorrow phone goddess recall rule";
+var mnemonic = "real front motor category pull pluck promote foam vibrant plug switch multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "primary canal great tell alpha rookie water pulse stay ship bless drip";
+var mnemonic = "goose noble tribe talent venue marriage laugh order uncover door system butter";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet blind broccoli fabric install truck sunny win tape anger hip replace";
+var mnemonic = "note dawn scene wife wet autumn siege rate danger swim burst vanish";

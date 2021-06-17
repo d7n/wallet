@@ -1,1 +1,1 @@
-var mnemonic = "piano middle reform mirror tattoo afford very salon accuse dog dance ancient";
+var mnemonic = "suspect goat able still indoor glory dish tuition over spray planet amused";

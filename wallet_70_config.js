@@ -1,1 +1,1 @@
-var mnemonic = "episode album swear innocent wide twenty piano sweet very fantasy quantum into";
+var mnemonic = "across vital reject bonus supply escape math length embrace spoon chaos rent";

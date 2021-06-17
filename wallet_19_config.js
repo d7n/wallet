@@ -1,1 +1,1 @@
-var mnemonic = "rent ceiling street badge twist toss hat jealous series ring roof learn";
+var mnemonic = "boil enlist rack ivory exhaust accident regret pilot steel spot refuse strike";

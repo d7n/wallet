@@ -1,1 +1,1 @@
-var mnemonic = "rough pill subway hidden roof town bulk circle like pig unaware rail";
+var mnemonic = "noise crane coyote crack jungle stone please drink perfect choice ketchup swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "decide join chaos between circle liberty anchor valley race dwarf benefit mystery";
+var mnemonic = "indoor horse crack begin media tumble divorce split resist air salt true";

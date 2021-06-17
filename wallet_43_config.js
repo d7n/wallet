@@ -1,1 +1,1 @@
-var mnemonic = "front novel onion romance index liquid exclude sea raccoon cream disagree ethics";
+var mnemonic = "vital alien cost gossip hockey car parade there hip weekend debate mechanic";

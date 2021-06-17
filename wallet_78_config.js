@@ -1,1 +1,1 @@
-var mnemonic = "mango easily define rug velvet response unhappy leisure sell eagle income elder";
+var mnemonic = "minor impulse mean august dolphin curious client mistake furnace car judge ugly";

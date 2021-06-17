@@ -1,1 +1,1 @@
-var mnemonic = "cattle address pill story barely version naive chest glide actual frozen satoshi";
+var mnemonic = "math song judge scale sing please knee minute fitness bicycle habit cabin";

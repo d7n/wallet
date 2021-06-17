@@ -1,1 +1,1 @@
-var mnemonic = "solid slender person cheap wolf fence need post chronic taste okay pupil";
+var mnemonic = "cinnamon seminar swamp equal frog frequent rent book sell gossip timber connect";

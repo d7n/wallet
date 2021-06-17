@@ -1,1 +1,1 @@
-var mnemonic = "choose abuse pill result rent sight side moment way sing pipe decorate";
+var mnemonic = "hotel brick turtle interest gentle judge road convince fold broccoli music eternal";

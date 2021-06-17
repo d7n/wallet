@@ -1,1 +1,1 @@
-var mnemonic = "air visa basket question picture leisure exhaust hospital action gloom kidney fold";
+var mnemonic = "fringe collect rich tongue admit client science divorce better spy nothing tonight";

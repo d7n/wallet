@@ -1,1 +1,1 @@
-var mnemonic = "depart awful cabin bridge renew spike slender desk feed music swallow enroll";
+var mnemonic = "powder boost opera increase congress uniform arm boss notice second execute age";

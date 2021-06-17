@@ -1,1 +1,1 @@
-var mnemonic = "pulp fabric dance always online knife phone course cushion second right olympic";
+var mnemonic = "kitchen daughter pottery early argue music invest achieve balance exhaust transfer total";

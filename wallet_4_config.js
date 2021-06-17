@@ -1,1 +1,1 @@
-var mnemonic = "bag glass run claim noodle one suggest lend aunt athlete just gather";
+var mnemonic = "unusual verb suggest reject memory large bounce nasty aisle business admit eye";

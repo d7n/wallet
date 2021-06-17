@@ -1,1 +1,1 @@
-var mnemonic = "toward naive boost tornado jacket hope tag wine neither ignore person rather";
+var mnemonic = "kid cliff raw chronic charge alert slot squeeze disease firm riot magnet";

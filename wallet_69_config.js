@@ -1,1 +1,1 @@
-var mnemonic = "during outside nothing bike feed rose derive water dog unlock tell soccer";
+var mnemonic = "pipe calm fever despair ahead genre hurdle consider spike habit punch replace";

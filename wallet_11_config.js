@@ -1,1 +1,1 @@
-var mnemonic = "romance sphere dirt exhaust vanish decorate feed curve talent crumble congress jar";
+var mnemonic = "slab person copy level farm ship attitude input pupil below icon dawn";

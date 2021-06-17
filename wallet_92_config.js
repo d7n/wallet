@@ -1,1 +1,1 @@
-var mnemonic = "verify parrot bag ride virtual muffin gentle play knife devote tornado arrange";
+var mnemonic = "length borrow suspect bronze unknown usual jeans burden million beyond gloom buffalo";

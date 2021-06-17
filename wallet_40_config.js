@@ -1,1 +1,1 @@
-var mnemonic = "strategy abandon key debate three abstract poet amazing party project demise interest";
+var mnemonic = "choose volcano make loop lend horn napkin flame garment raw flight equal";

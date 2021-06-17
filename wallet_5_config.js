@@ -1,1 +1,1 @@
-var mnemonic = "pet cloth enrich alarm exclude surround wild obtain time wing reduce real";
+var mnemonic = "bonus remove make cram split twin solution penalty nurse loan vanish convince";

@@ -1,1 +1,1 @@
-var mnemonic = "energy bench indicate say ramp screen stay push toddler caught legal void";
+var mnemonic = "inherit weasel cupboard scare uncover spin doll thing wash title vast agree";

@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit strike hungry sweet fine grief focus robust opera liar vehicle fancy";
+var mnemonic = "expand enact runway good tooth retire agree heart accuse more argue obscure";

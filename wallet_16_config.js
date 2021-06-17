@@ -1,1 +1,1 @@
-var mnemonic = "bulk coconut wet glove peanut simple beach exclude travel reward poet candy";
+var mnemonic = "ugly glance unhappy carbon guilt census benefit robot custom admit reveal hip";

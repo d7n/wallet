@@ -1,1 +1,1 @@
-var mnemonic = "wrestle yellow end witness cruise hundred salon poem museum sock festival express";
+var mnemonic = "mask pond butter best unaware cement turtle tag finger cause horse weird";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss neutral exotic unveil gorilla boss kiwi width disease print fashion fiction";
+var mnemonic = "inject beach include icon merry oblige estate ice soccer wrestle year nasty";

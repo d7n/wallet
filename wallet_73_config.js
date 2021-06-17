@@ -1,1 +1,1 @@
-var mnemonic = "dream blue invite burger guitar equal valve fatal wasp infant myth jeans";
+var mnemonic = "rack lava range very orient rival invest talk lab vicious vote used";

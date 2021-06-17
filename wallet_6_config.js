@@ -1,1 +1,1 @@
-var mnemonic = "usage fault snow smooth pulp aisle once alien giggle liquid wild raw";
+var mnemonic = "planet mountain deny behind culture mule gadget riot clay dinosaur deputy live";

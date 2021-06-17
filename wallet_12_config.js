@@ -1,1 +1,1 @@
-var mnemonic = "option history brass onion silk advice ketchup fabric polar view canvas cannon";
+var mnemonic = "bargain visa enhance anchor valid mad denial safe oxygen genuine cabin van";

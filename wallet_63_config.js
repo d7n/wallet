@@ -1,1 +1,1 @@
-var mnemonic = "inhale penalty lonely simple orange panther claw clock laugh cushion loyal learn";
+var mnemonic = "empower leave upon panther coffee biology real volcano ahead rent planet shift";

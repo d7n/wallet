@@ -1,1 +1,1 @@
-var mnemonic = "claw play knee vacuum recall midnight twelve dream secret nothing pledge remember";
+var mnemonic = "pulse swear disagree lab lock man course track angry suspect brush truck";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold super rebuild sun produce dress pistol fold subway lion retreat say";
+var mnemonic = "excess claim glad deliver share job knee two sing stomach cause bring";

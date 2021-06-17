@@ -1,1 +1,1 @@
-var mnemonic = "once wink shadow gap elite moon monitor stage stock near record recipe";
+var mnemonic = "trouble symptom property insect hip essence depart angry purse business rug tobacco";

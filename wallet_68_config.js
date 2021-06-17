@@ -1,1 +1,1 @@
-var mnemonic = "across cross alcohol expect express success pitch measure notable rebuild bag eyebrow";
+var mnemonic = "unfair floor pottery boat wall acquire despair ceiling call tennis enemy friend";

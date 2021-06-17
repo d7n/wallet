@@ -1,1 +1,1 @@
-var mnemonic = "exhibit industry catalog choose convince duty caution feature language kiss core early";
+var mnemonic = "until home under smoke slight bicycle outer struggle focus because share tenant";

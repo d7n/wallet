@@ -1,1 +1,1 @@
-var mnemonic = "what exhaust antique leg critic police trouble soap betray spatial behind lion";
+var mnemonic = "palm wagon refuse tobacco book clip banana palace wheel dial place admit";

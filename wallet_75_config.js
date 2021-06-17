@@ -1,1 +1,1 @@
-var mnemonic = "scatter cement deliver ship jealous girl any make when suffer fluid appear";
+var mnemonic = "random drift super twelve airport caught practice inner corn nose miracle forest";

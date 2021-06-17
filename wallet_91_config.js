@@ -1,1 +1,1 @@
-var mnemonic = "dream exercise surface quote whale clip glow uphold sweet cliff river ride";
+var mnemonic = "truly market exchange boss shell purse moon grass guard absorb soul just";

@@ -1,1 +1,1 @@
-var mnemonic = "able winner text cushion coach hunt gather hamster ignore cage cash camera";
+var mnemonic = "twist eight office mixed outdoor horse soul decorate raven process already health";

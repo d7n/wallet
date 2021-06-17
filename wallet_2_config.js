@@ -1,1 +1,1 @@
-var mnemonic = "east party ankle turkey attend crowd morning fitness melt fence embark lava";
+var mnemonic = "loan asthma ethics wine noble upon lend outdoor series all usage flock";

@@ -1,1 +1,1 @@
-var mnemonic = "control excuse sure shine doctor provide employ bottom oblige width bottom know";
+var mnemonic = "lizard tool tower spy funny hundred ridge file elephant table uphold public";

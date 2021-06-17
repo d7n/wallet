@@ -1,1 +1,1 @@
-var mnemonic = "peace purity know hunt error among save zoo deposit cake joy stick";
+var mnemonic = "exclude canvas half civil panic grid suit battle rich emerge farm attitude";

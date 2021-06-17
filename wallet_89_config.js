@@ -1,1 +1,1 @@
-var mnemonic = "hammer fancy bottom festival torch thought huge wine olive away odor bridge";
+var mnemonic = "vendor boring inquiry chronic later spin enforce describe guess toy drive drill";
