@@ -1,1 +1,1 @@
-var mnemonic = "onion plunge flavor flush cliff noise jazz motion common match apology tent";
+var mnemonic = "yard roof carpet limit tell sweet wheat submit obscure pole dutch system";

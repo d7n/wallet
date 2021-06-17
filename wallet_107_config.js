@@ -1,1 +1,1 @@
-var mnemonic = "excite save couch produce attract crime engage filter buzz win horn eager";
+var mnemonic = "essence wide crew tunnel holiday together relief law panic diagram mesh birth";

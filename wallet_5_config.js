@@ -1,1 +1,1 @@
-var mnemonic = "defy project near unique exclude short only farm private color salon labor";
+var mnemonic = "share hockey crime jewel runway artefact boring casual federal practice cinnamon service";

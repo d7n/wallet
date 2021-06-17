@@ -1,1 +1,1 @@
-var mnemonic = "parrot spider section dwarf salmon tip tragic world tornado hedgehog domain couple";
+var mnemonic = "later nice save muscle conduct merry medal cruel giggle slogan roast siren";

@@ -1,1 +1,1 @@
-var mnemonic = "olive output master pony like prefer panda nest know volume iron between";
+var mnemonic = "borrow jeans inquiry box ethics memory keen acid just filter siren arrive";

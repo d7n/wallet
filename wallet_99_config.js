@@ -1,1 +1,1 @@
-var mnemonic = "village click client enrich father chef venture alone educate ticket doctor claw";
+var mnemonic = "couple render iron lunar worry uphold piece bridge venture north broken ability";

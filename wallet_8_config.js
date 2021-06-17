@@ -1,1 +1,1 @@
-var mnemonic = "dilemma stay radio hint now card audit congress anxiety swing movie voyage";
+var mnemonic = "bone lottery negative exchange trip recipe lounge pistol mouse again write opinion";

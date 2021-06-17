@@ -1,1 +1,1 @@
-var mnemonic = "inquiry depend regular feature patch evolve vendor slide dwarf ahead noble jazz";
+var mnemonic = "caution project animal humble churn zone tribe oven file tortoise release surprise";

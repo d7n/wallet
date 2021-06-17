@@ -1,1 +1,1 @@
-var mnemonic = "visa anxiety then certain know crawl client flag raven never across leaf";
+var mnemonic = "confirm fatigue helmet enable cabbage mango express again fine waste time broom";

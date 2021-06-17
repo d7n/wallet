@@ -1,1 +1,1 @@
-var mnemonic = "diamond loud milk grape jealous sick lucky pluck bronze glare winner cry";
+var mnemonic = "dry coast ask brain among punch tomato web pill tuna jar trick";

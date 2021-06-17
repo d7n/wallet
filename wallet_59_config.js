@@ -1,1 +1,1 @@
-var mnemonic = "boost rural disagree suffer pretty resist outside welcome slender ice bullet diary";
+var mnemonic = "dry universe inhale define more face away silver sad spoil current veteran";

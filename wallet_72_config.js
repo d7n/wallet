@@ -1,1 +1,1 @@
-var mnemonic = "network breeze inmate borrow income zoo deputy like acquire equal hen solid";
+var mnemonic = "enough jazz also present juice breeze squeeze subject film resemble oil rookie";

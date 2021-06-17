@@ -1,1 +1,1 @@
-var mnemonic = "lazy flag right asset six obscure wink glad idle also load ribbon";
+var mnemonic = "excuse bundle world float dutch soda junk smoke leader cheap seven raise";

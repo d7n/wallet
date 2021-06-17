@@ -1,1 +1,1 @@
-var mnemonic = "chunk crack lazy field hip power reveal alone know food suggest amount";
+var mnemonic = "theory bicycle oven scheme rail original away public sunny cancel pupil boy";

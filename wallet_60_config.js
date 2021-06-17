@@ -1,1 +1,1 @@
-var mnemonic = "sphere check exotic maid burst mirror company nerve service level cousin pupil";
+var mnemonic = "option convince curious actress vacuum cat acoustic sugar vague note rely crack";

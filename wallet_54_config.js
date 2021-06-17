@@ -1,1 +1,1 @@
-var mnemonic = "laundry entire raw mosquito unit company pilot napkin reward usual nature rebuild";
+var mnemonic = "hair employ relax walk accident empower path six badge degree copper gain";

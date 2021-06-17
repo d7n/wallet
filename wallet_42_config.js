@@ -1,1 +1,1 @@
-var mnemonic = "basket brother orchard renew blood donor poet explain ball voyage chief wool";
+var mnemonic = "success ice edge emerge jar shuffle task group act citizen choice song";

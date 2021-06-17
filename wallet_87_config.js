@@ -1,1 +1,1 @@
-var mnemonic = "zoo kiwi palace cluster gauge age close orbit focus galaxy someone actor";
+var mnemonic = "diesel hire regret tiny huge dream cargo umbrella riot argue wood sick";

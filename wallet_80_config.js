@@ -1,1 +1,1 @@
-var mnemonic = "trigger diesel patient hospital primary prepare super weapon sphere truly awkward glove";
+var mnemonic = "fuel catch mix legal cheese boss sausage work venture wool certain distance";

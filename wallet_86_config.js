@@ -1,1 +1,1 @@
-var mnemonic = "license phone combine gas medal diary cotton chuckle hockey lemon exotic glide";
+var mnemonic = "bird toast pipe uncover delay pepper prison deposit daughter vehicle talk trim";

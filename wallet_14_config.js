@@ -1,1 +1,1 @@
-var mnemonic = "inform deputy monster scout bundle drive neither assume tuition sell zero drop";
+var mnemonic = "measure bundle farm life road eagle cross salmon robust east shrimp crime";

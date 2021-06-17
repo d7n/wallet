@@ -1,1 +1,1 @@
-var mnemonic = "wine obtain manage boss want timber brisk minute student biology fade bonus";
+var mnemonic = "message supply sudden harsh tree glimpse speed phone slim dog apart potato";

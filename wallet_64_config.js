@@ -1,1 +1,1 @@
-var mnemonic = "fortune glue kiss teach glory together advice media property lunar enrich will";
+var mnemonic = "camera finger scrub earn caught guitar salmon slim sorry final thank monkey";

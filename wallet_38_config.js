@@ -1,1 +1,1 @@
-var mnemonic = "scissors roof must lunar reunion question fault second nothing warfare minor make";
+var mnemonic = "nest odor priority globe drift scorpion creek lion olive collect slight clutch";

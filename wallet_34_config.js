@@ -1,1 +1,1 @@
-var mnemonic = "table strong essence tennis expire design resource organ lizard paper tired apart";
+var mnemonic = "mushroom final cradle kitten save century access oven flight flock glow tail";

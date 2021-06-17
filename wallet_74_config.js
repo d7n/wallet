@@ -1,1 +1,1 @@
-var mnemonic = "device cattle stand dutch air scene session deal island north snap clean";
+var mnemonic = "common guide pig afraid train punch pave glow cake firm filter vibrant";

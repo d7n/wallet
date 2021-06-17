@@ -1,1 +1,1 @@
-var mnemonic = "pause camera word umbrella toast faculty toe kidney ahead clump deposit ensure";
+var mnemonic = "simple time blast pull minimum galaxy frequent empower bench recall other infant";

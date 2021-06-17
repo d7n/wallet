@@ -1,1 +1,1 @@
-var mnemonic = "office length measure depend aerobic scene pizza leg real easily source charge";
+var mnemonic = "onion any humor citizen rich mirror vacuum diesel awkward park salmon couple";

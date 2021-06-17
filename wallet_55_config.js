@@ -1,1 +1,1 @@
-var mnemonic = "spread donor airport creek plate alcohol extend drum main walnut cause check";
+var mnemonic = "fluid exile harsh skill busy frog brand reform gallery nephew message dance";

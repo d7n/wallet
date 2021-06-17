@@ -1,1 +1,1 @@
-var mnemonic = "unaware flock sorry mushroom thumb price bright inspire frame cradle guess equip";
+var mnemonic = "meadow luggage wheel card elder fog hundred nasty lonely snow forward play";

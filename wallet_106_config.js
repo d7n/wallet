@@ -1,1 +1,1 @@
-var mnemonic = "wheel trend diagram brave craft crop tape law must clock target panel";
+var mnemonic = "display hub property scissors ribbon ocean near steak length oval found win";

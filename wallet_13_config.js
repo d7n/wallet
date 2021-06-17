@@ -1,1 +1,1 @@
-var mnemonic = "solar hamster notice opinion pool oyster orphan angle certain manage cradle unique";
+var mnemonic = "spirit maze dinosaur name pepper siren useful promote pill square curtain snap";

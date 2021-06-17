@@ -1,1 +1,1 @@
-var mnemonic = "kit deputy way beyond scorpion pistol sad rhythm bike more title trap";
+var mnemonic = "novel output tennis laundry health divert nuclear faith hair clutch hard romance";

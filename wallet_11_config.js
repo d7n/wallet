@@ -1,1 +1,1 @@
-var mnemonic = "slot ring mouse outside manage reduce vague pink dance dilemma thought pretty";
+var mnemonic = "enhance always meadow grocery table lava grace shoulder thrive inch travel odor";

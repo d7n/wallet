@@ -1,1 +1,1 @@
-var mnemonic = "trial ensure soap impact egg vibrant sock easy more arrow dune club";
+var mnemonic = "very brass master hope ask eternal kick festival pride steak immune program";

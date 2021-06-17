@@ -1,1 +1,1 @@
-var mnemonic = "brown farm exercise rescue half hundred unveil portion sign express device skull";
+var mnemonic = "loan blame shed pair egg sure style scorpion access aisle reunion purse";

@@ -1,1 +1,1 @@
-var mnemonic = "actual custom sting fiscal arrange push reflect enroll dash mean favorite source";
+var mnemonic = "blossom grant trust satoshi hour recall feature palace drill ozone protect once";

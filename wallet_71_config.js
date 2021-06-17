@@ -1,1 +1,1 @@
-var mnemonic = "online twelve cliff exotic marriage divide ready nuclear miracle pottery equip piano";
+var mnemonic = "abuse basket derive stock metal relax retreat message pride movie squeeze blame";

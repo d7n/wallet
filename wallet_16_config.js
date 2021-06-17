@@ -1,1 +1,1 @@
-var mnemonic = "gift undo above rabbit horror attitude dream series unable young hungry rare";
+var mnemonic = "alone echo fame rare hello ready adjust waste prepare unlock mom address";

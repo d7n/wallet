@@ -1,1 +1,1 @@
-var mnemonic = "control verb phone debris sense volume avocado scrap response slice modify cushion";
+var mnemonic = "sauce exist universe muscle rapid payment expire honey economy inject napkin task";

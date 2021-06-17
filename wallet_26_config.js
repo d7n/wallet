@@ -1,1 +1,1 @@
-var mnemonic = "siren promote dolphin fun run dynamic retire idea slogan apple disease there";
+var mnemonic = "accident busy abstract alter limit hybrid spirit loop laundry dice roast mix";

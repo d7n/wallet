@@ -1,1 +1,1 @@
-var mnemonic = "slender humor scrub unveil hobby cement retreat lounge grab silent awkward action";
+var mnemonic = "act water such episode plastic spend bless fun abstract can element category";

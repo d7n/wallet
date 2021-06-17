@@ -1,1 +1,1 @@
-var mnemonic = "arctic honey boss airport hurdle artwork amateur split clown turn focus blast";
+var mnemonic = "juice refuse blouse struggle sniff milk define any split drill snow tool";

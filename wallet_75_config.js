@@ -1,1 +1,1 @@
-var mnemonic = "divert bridge crawl blanket basket mass side lend inquiry expand eyebrow dial";
+var mnemonic = "erase catalog point plastic weasel volume gym lottery between above they wire";

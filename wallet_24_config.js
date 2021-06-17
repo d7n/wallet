@@ -1,1 +1,1 @@
-var mnemonic = "census kingdom sort parent nose wool blast avoid assault exist silly script";
+var mnemonic = "perfect motion nothing camp album trip wagon crowd injury average belt hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "quick embody boat comfort copper glow badge replace equip tag tuition famous";
+var mnemonic = "estate alarm degree piano garage fire diet path flush night biology frozen";

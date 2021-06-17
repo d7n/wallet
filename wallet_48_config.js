@@ -1,1 +1,1 @@
-var mnemonic = "rotate youth client family seek weekend token slow pink owner soul cherry";
+var mnemonic = "uniform gentle equal detail senior shrug direct foot aware chuckle hello start";

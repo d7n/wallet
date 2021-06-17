@@ -1,1 +1,1 @@
-var mnemonic = "hurdle rule rose clip absorb allow raw year clip useless used protect";
+var mnemonic = "country antenna plastic hospital hire upgrade armed update lunar disagree addict large";

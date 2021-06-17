@@ -1,1 +1,1 @@
-var mnemonic = "festival sight coconut plate small install airport cost soldier mix remind blood";
+var mnemonic = "express reunion kick long crouch film absurd vivid access educate shine analyst";

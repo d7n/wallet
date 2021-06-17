@@ -1,1 +1,1 @@
-var mnemonic = "leisure ahead foil wall donkey resist glad diamond flock describe jealous month";
+var mnemonic = "wing canvas rose differ man wild pistol degree begin cat domain curtain";

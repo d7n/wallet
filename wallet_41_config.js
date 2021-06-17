@@ -1,1 +1,1 @@
-var mnemonic = "pet employ accident inspire slam indicate exclude trip mail torch wine junior";
+var mnemonic = "come fancy paper title various reunion trip couple fancy arrow option oyster";

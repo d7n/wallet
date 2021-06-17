@@ -1,1 +1,1 @@
-var mnemonic = "surge door final stick miss battle deputy photo coil addict mimic crowd";
+var mnemonic = "festival nuclear clock clown foil tone ghost purse skate notice country process";

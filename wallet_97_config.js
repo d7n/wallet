@@ -1,1 +1,1 @@
-var mnemonic = "dismiss sausage squirrel clog believe focus wheel divert lyrics letter wild eager";
+var mnemonic = "install vacuum era detect entire margin web shed tumble ladder gun trial";

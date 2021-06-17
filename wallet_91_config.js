@@ -1,1 +1,1 @@
-var mnemonic = "inch flash robust dwarf law shrug copy minimum include chicken win eyebrow";
+var mnemonic = "hub engage start gesture follow promote beauty imitate gaze sing thing oval";

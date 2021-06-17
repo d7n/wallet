@@ -1,1 +1,1 @@
-var mnemonic = "shed palm parade zoo motion busy pencil renew fresh hazard swim grant";
+var mnemonic = "clump change mosquito chef occur shift upset ball local conduct minimum acquire";

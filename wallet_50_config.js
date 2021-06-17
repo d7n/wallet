@@ -1,1 +1,1 @@
-var mnemonic = "crash add deny assume tail copy rely shop album virtual diagram blur";
+var mnemonic = "good tackle sniff transfer address random scrub child when equal helmet cherry";

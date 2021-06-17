@@ -1,1 +1,1 @@
-var mnemonic = "giraffe relax elephant famous judge resource awkward fit theory oblige volcano sponsor";
+var mnemonic = "eagle meadow clip clog process surge cute bird blossom canvas frame issue";

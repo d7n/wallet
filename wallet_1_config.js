@@ -1,1 +1,1 @@
-var mnemonic = "chuckle trade come squeeze ancient slot rhythm sword address snack early average";
+var mnemonic = "over weapon seed way night wrong poverty advance sick what sheriff arrow";

@@ -1,1 +1,1 @@
-var mnemonic = "deal filter live monster answer unit west favorite zone sponsor kite left";
+var mnemonic = "wrap music magic donate half remember process antenna pool abstract prize achieve";

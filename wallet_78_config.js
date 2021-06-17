@@ -1,1 +1,1 @@
-var mnemonic = "silly promote dry saddle joke stamp erase scout unlock misery mountain voice";
+var mnemonic = "dignity fold chase note myself weasel you render purse pulse endorse squirrel";

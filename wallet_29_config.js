@@ -1,1 +1,1 @@
-var mnemonic = "matter escape arrow legend energy arch extend space drastic minimum tourist actor";
+var mnemonic = "impulse phrase tragic affair notable swift famous similar mom jungle ski dog";

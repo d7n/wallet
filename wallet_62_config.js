@@ -1,1 +1,1 @@
-var mnemonic = "enable bitter category alpha spare mad benefit decrease enough slam game bullet";
+var mnemonic = "duck legal six venue boat silly ice daring acoustic topple reject pattern";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen plastic swift broken voyage super roast brain extra keen history suspect";
+var mnemonic = "consider trash immense medal dress evil again try era crisp diary noble";

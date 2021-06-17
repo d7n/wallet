@@ -1,1 +1,1 @@
-var mnemonic = "dream thrive sport wish pretty elite honey news merit latin flavor earn";
+var mnemonic = "secret attack youth ocean month permit barrel power drip orphan camp twin";

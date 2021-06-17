@@ -1,1 +1,1 @@
-var mnemonic = "proud silent whisper silent tortoise wink cliff tunnel suit fitness crazy planet";
+var mnemonic = "napkin fetch twenty gown exercise used drill menu conduct strategy coral later";

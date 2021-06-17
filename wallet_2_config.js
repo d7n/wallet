@@ -1,1 +1,1 @@
-var mnemonic = "enemy margin proof ivory pony charge ostrich frozen unable quote grow attend";
+var mnemonic = "thumb extra mention trade husband eyebrow salon idea siren twelve token hospital";

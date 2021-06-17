@@ -1,1 +1,1 @@
-var mnemonic = "ugly elder busy bubble hint script capable chest noodle body love celery";
+var mnemonic = "water motor lecture fitness tower six connect ramp spatial remove twenty portion";

@@ -1,1 +1,1 @@
-var mnemonic = "depart cart gate payment sadness praise inflict sunset buddy kidney various input";
+var mnemonic = "demise lawn survey hockey sweet picture wash possible royal sting buzz enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "mass illegal robust crush poverty monitor holiday grocery timber embrace two because";
+var mnemonic = "hub outside replace oppose crop version royal solve sister initial water credit";

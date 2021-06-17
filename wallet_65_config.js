@@ -1,1 +1,1 @@
-var mnemonic = "wrist budget cake gain craft fancy rich patrol main address dinner area";
+var mnemonic = "code oil intact panda veteran farm glide sunny gorilla nephew senior measure";

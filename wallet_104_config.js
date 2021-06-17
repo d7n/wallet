@@ -1,1 +1,1 @@
-var mnemonic = "submit oil problem rain movie fan stand artwork canoe theme pull elder";
+var mnemonic = "expose sun impose drink produce control credit piano snack still stamp deer";

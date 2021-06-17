@@ -1,1 +1,1 @@
-var mnemonic = "close milk ignore west series depth hero sphere kiss fossil bulk upon";
+var mnemonic = "hurt noodle arrange idea camp peace antique badge hammer measure method original";

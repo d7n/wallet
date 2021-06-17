@@ -1,1 +1,1 @@
-var mnemonic = "trim ripple kick enlist annual shock throw jacket abuse lake vital april";
+var mnemonic = "pave edge alley unlock arena later birth afford spawn tattoo either trial";

@@ -1,1 +1,1 @@
-var mnemonic = "swim differ option diary pledge visa grab retreat tenant leopard crunch globe";
+var mnemonic = "pretty walk dinner input boss curve deal century please zebra bitter warm";

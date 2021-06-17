@@ -1,1 +1,1 @@
-var mnemonic = "cause during crew social gap journey beach grab kiwi skin genius tail";
+var mnemonic = "pretty sense faith muffin mom crowd wage install ocean bus network remind";

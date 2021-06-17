@@ -1,1 +1,1 @@
-var mnemonic = "faint tip false snack cube crowd receive decade cost river ankle whisper";
+var mnemonic = "museum metal easy shield guide wife tent already quick list true ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "draft coil stamp brown poverty retire juice glare employ gain wild mask";
+var mnemonic = "juice brisk say exact blouse phone burden say taste height place slender";

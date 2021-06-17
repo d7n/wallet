@@ -1,1 +1,1 @@
-var mnemonic = "warm crash fly strategy leave fork race own engage broccoli swear mutual";
+var mnemonic = "birth usual evolve napkin blush age various mean wide tone witness seek";

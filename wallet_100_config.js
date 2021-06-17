@@ -1,1 +1,1 @@
-var mnemonic = "kick raccoon place juice forum shock motor jelly black typical obtain capital";
+var mnemonic = "plug tourist play midnight cram fix chalk urban ritual cliff flower tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "obvious comfort stage fortune elegant display predict limit kidney sauce insane candy";
+var mnemonic = "torch engine salt maid art absent moon dream cargo fit cricket grant";

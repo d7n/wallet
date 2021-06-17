@@ -1,1 +1,1 @@
-var mnemonic = "shiver vanish lab disagree alter blood other dynamic vast powder cargo cabin";
+var mnemonic = "stand robust either voice mercy betray auto guard armor hover neglect viable";

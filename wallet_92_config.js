@@ -1,1 +1,1 @@
-var mnemonic = "chat common soup involve draw swift trigger cluster chuckle wood witness infant";
+var mnemonic = "permit peace wagon tired coast ahead subway sail suit weasel fit cook";

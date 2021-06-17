@@ -1,1 +1,1 @@
-var mnemonic = "life rose swim chair fossil shuffle car nature hunt father clay milk";
+var mnemonic = "direct raw pluck session raven glare north design door ocean cave able";

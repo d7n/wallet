@@ -1,1 +1,1 @@
-var mnemonic = "estate bean level behave retire verb remain vendor reform deer leisure exile";
+var mnemonic = "siren cruise west rent together uniform cool valve despair game kitten select";

@@ -1,1 +1,1 @@
-var mnemonic = "ring case garment wet donor world stable narrow federal argue dinner cricket";
+var mnemonic = "apology frown truly sustain topic shy aim there split crisp flush cement";

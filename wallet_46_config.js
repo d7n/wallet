@@ -1,1 +1,1 @@
-var mnemonic = "found cool kiwi program flat final cross flip flush royal extra rebel";
+var mnemonic = "marriage frost churn sad check nephew nerve person want fatigue century gospel";

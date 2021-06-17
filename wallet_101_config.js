@@ -1,1 +1,1 @@
-var mnemonic = "rabbit base fringe same garlic note minute history mind junior seven boss";
+var mnemonic = "hole zero inner iron crime humor squeeze write outer reward husband pet";

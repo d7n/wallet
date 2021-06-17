@@ -1,1 +1,1 @@
-var mnemonic = "robust hold siege tomato try remember today lens fix security noble expire";
+var mnemonic = "patient dad injury parade buffalo because rude project lady surface attack before";

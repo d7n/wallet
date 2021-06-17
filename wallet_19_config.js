@@ -1,1 +1,1 @@
-var mnemonic = "swap unknown poverty one prize museum volcano fortune slow caution skull pipe";
+var mnemonic = "manual primary lyrics pencil sad suit spike tooth ten trial permit marine";
