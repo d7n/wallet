@@ -1,1 +1,1 @@
-var mnemonic = "pretty eagle inform erupt mother wave brother deposit mixture quit harbor crouch";
+var mnemonic = "diamond gym among actor detail cannon bright tomorrow kid primary brand wild";

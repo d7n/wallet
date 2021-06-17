@@ -1,1 +1,1 @@
-var mnemonic = "series sorry dirt remain return alter cement notice twelve usual amused oak";
+var mnemonic = "badge powder into ocean side heart document kiss logic wheat naive lemon";

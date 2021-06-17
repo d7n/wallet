@@ -1,1 +1,1 @@
-var mnemonic = "abstract when mercy fever trend curve era plastic trick tent wall exclude";
+var mnemonic = "margin neglect radar wet rally liquid robot spatial brisk room ancient absorb";

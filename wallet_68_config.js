@@ -1,1 +1,1 @@
-var mnemonic = "address village maximum draft best unveil fatal uniform galaxy unveil build turkey";
+var mnemonic = "screen awake arch reject happy century annual accuse advance lobster analyst sense";

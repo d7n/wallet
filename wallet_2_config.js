@@ -1,1 +1,1 @@
-var mnemonic = "adapt injury cute local near payment profit yard tonight matrix luggage latin";
+var mnemonic = "coconut suggest recycle globe decrease language tattoo ability armor giant impact recipe";

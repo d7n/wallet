@@ -1,1 +1,1 @@
-var mnemonic = "erode picture smart discover illegal region plunge spirit excess nest stand grid";
+var mnemonic = "puppy outside keen pill boring color habit slot bullet desk version skate";

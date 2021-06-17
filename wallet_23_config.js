@@ -1,1 +1,1 @@
-var mnemonic = "boil debris unknown arch hub fetch month toddler small dismiss link hill";
+var mnemonic = "sand bachelor detail seminar lens chronic shaft ocean baby ahead ugly popular";

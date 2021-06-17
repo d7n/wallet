@@ -1,1 +1,1 @@
-var mnemonic = "vital differ dirt delay crash develop smile dizzy hole absent clay improve";
+var mnemonic = "vanish witness fire project filter meat bachelor rotate embody target calm old";

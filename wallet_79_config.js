@@ -1,1 +1,1 @@
-var mnemonic = "lonely success oxygen lobster please pulp learn exhaust hat zone oil broom";
+var mnemonic = "trumpet hospital essence happy garbage taste peasant bomb alpha relief key cycle";

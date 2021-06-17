@@ -1,1 +1,1 @@
-var mnemonic = "damage rent pull damage position excuse return degree rescue behind rent toss";
+var mnemonic = "deer excuse bottom trade urge essence senior audit fossil topple useful table";

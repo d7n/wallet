@@ -1,1 +1,1 @@
-var mnemonic = "tired pupil crisp payment holiday junk prize strike equal shrug lecture chronic";
+var mnemonic = "runway duck south van very ship barely hungry violin fan cement make";

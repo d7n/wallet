@@ -1,1 +1,1 @@
-var mnemonic = "indoor seed lyrics vacant copy copper sunny add true anxiety list want";
+var mnemonic = "define field wink bullet envelope extra return attend genuine escape zebra cluster";

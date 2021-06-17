@@ -1,1 +1,1 @@
-var mnemonic = "cereal quantum else text audit nurse finger distance skull position foam ahead";
+var mnemonic = "satisfy gate gas around strong example strong glad solid question absent color";

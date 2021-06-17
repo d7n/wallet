@@ -1,1 +1,1 @@
-var mnemonic = "humor grid behind evil aware rack shaft balcony champion square snap minor";
+var mnemonic = "recall era taxi coil initial gauge girl dinosaur plunge food cycle menu";

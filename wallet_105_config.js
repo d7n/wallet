@@ -1,1 +1,1 @@
-var mnemonic = "armor uncover useless sock cross express rib pitch surface destroy helmet undo";
+var mnemonic = "flat swing attract fire rent nasty alone afford enhance trumpet charge dutch";

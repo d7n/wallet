@@ -1,1 +1,1 @@
-var mnemonic = "pear reason lobster pony eyebrow legal buzz critic cinnamon nothing sugar exchange";
+var mnemonic = "promote blanket venue notice grass color avocado mass stage paddle baby region";

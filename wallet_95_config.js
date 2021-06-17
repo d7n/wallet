@@ -1,1 +1,1 @@
-var mnemonic = "render inmate boss shoot street season weasel salt poem large delay team";
+var mnemonic = "upset clock because talent casino clog match permit join nose brief ecology";

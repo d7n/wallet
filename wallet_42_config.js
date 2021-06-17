@@ -1,1 +1,1 @@
-var mnemonic = "page fat will core gauge seed please lobster remain sea conduct ginger";
+var mnemonic = "duty replace harsh unique private quick transfer bid maze illegal scare canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis food frost mountain text snow exile expand hat caution jungle coyote";
+var mnemonic = "public crash roof execute kangaroo park object huge palm original obtain upon";

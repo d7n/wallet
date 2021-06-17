@@ -1,1 +1,1 @@
-var mnemonic = "favorite loan donor plate hybrid gather laundry demise salmon miracle imitate essay";
+var mnemonic = "drama person message relief stamp neutral regret stick gallery slim ghost black";

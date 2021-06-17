@@ -1,1 +1,1 @@
-var mnemonic = "spare skull top hair visa gentle ten welcome emerge digital pluck warfare";
+var mnemonic = "example scatter flock celery frog noble deal visa father inch stumble beyond";

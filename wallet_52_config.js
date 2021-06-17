@@ -1,1 +1,1 @@
-var mnemonic = "sail fuel camera gold giggle logic fringe economy hard cram method tortoise";
+var mnemonic = "edit decorate post time decade weather despair during december drip nasty labor";

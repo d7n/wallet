@@ -1,1 +1,1 @@
-var mnemonic = "job scatter inquiry kite resource soldier renew virus chunk pilot tobacco radio";
+var mnemonic = "inspire filter hen switch object minimum evoke club chief vital drum drum";

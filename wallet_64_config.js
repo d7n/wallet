@@ -1,1 +1,1 @@
-var mnemonic = "unveil brother torch winter dance analyst firm can dance perfect mechanic simple";
+var mnemonic = "army offer easy crime cattle man gaze elite smart knife unable champion";

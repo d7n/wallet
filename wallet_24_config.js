@@ -1,1 +1,1 @@
-var mnemonic = "base describe occur exclude relax balance angle fantasy swamp faith raven cat";
+var mnemonic = "stool emotion sail notable nasty wire rival address piano ladder embark certain";

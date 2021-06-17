@@ -1,1 +1,1 @@
-var mnemonic = "struggle elephant kitchen grab match ribbon again argue dinner hollow farm dog";
+var mnemonic = "tornado enter wheat hedgehog cancel tilt permit mom edge cry broken reopen";

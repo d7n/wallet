@@ -1,1 +1,1 @@
-var mnemonic = "cushion chief share maple endless script youth bread pride elephant know slim";
+var mnemonic = "sock glass bunker install voyage fire hamster waste argue pencil fringe naive";

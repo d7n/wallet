@@ -1,1 +1,1 @@
-var mnemonic = "cabbage thought comic taste harvest envelope trap adapt eternal exact maximum skull";
+var mnemonic = "hungry hundred dinner desert symbol napkin drift increase increase acquire leave upper";

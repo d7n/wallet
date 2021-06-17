@@ -1,1 +1,1 @@
-var mnemonic = "spider carpet parade aunt buzz split shield buyer now delay biology sail";
+var mnemonic = "where liar stadium lamp quarter proud retire wasp sound boost together sadness";

@@ -1,1 +1,1 @@
-var mnemonic = "black museum cruel harvest sight credit odor derive bullet trap anxiety crouch";
+var mnemonic = "usual chunk bonus gym seek rotate comic frost cheap quote input cook";

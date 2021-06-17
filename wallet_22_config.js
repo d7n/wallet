@@ -1,1 +1,1 @@
-var mnemonic = "melt figure tone table odor dash snap give quick face control pilot";
+var mnemonic = "odor erupt torch grab close betray pen tumble nasty zoo oil job";

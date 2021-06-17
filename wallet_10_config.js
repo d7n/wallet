@@ -1,1 +1,1 @@
-var mnemonic = "neck orient detect amused slam unfold flock hawk divorce buffalo enhance shoe";
+var mnemonic = "local cake average shiver garage apple cram dilemma hand traffic split cruel";

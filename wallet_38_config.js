@@ -1,1 +1,1 @@
-var mnemonic = "foam luxury state bonus direct until soul barrel harsh lava game order";
+var mnemonic = "entire grain town wrist kit beyond dry measure trust require palm dry";

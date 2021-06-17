@@ -1,1 +1,1 @@
-var mnemonic = "monster capital chunk riot usage hello mirror cruel fly system scene movie";
+var mnemonic = "plunge couple govern disorder hover aspect dog sunny rival frequent blouse pottery";

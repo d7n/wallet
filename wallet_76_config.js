@@ -1,1 +1,1 @@
-var mnemonic = "stumble silver vibrant rent acid frame bread dilemma elevator roof sting history";
+var mnemonic = "lab age side assist donate mass cloth rhythm climb grunt kingdom that";

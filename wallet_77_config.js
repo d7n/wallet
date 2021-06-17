@@ -1,1 +1,1 @@
-var mnemonic = "perfect key orange beyond raccoon proof rain about miss unable club mind";
+var mnemonic = "library monitor congress main upset permit evoke loud slim scale turtle snake";

@@ -1,1 +1,1 @@
-var mnemonic = "choose struggle gorilla point game quote alert rhythm recipe bracket truly exercise";
+var mnemonic = "monkey file torch meat round mom code session avoid kid blush slice";

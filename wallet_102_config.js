@@ -1,1 +1,1 @@
-var mnemonic = "cake pig lizard track jar denial decorate peanut chimney analyst distance glass";
+var mnemonic = "wash other spatial aspect dismiss gravity demand poet twist flower champion plug";

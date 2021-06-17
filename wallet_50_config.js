@@ -1,1 +1,1 @@
-var mnemonic = "govern title noise nose mother private tell bean toy road abuse lemon";
+var mnemonic = "merit crucial dish genre hire husband day girl pyramid shove input fork";

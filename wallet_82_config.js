@@ -1,1 +1,1 @@
-var mnemonic = "jelly alone crack cupboard reopen camera silver kind beef glass cheese upon";
+var mnemonic = "level toddler extend ozone museum abandon purchase boring run increase unlock siren";

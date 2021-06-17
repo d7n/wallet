@@ -1,1 +1,1 @@
-var mnemonic = "purpose note best among notice cash vivid face major benefit script breeze";
+var mnemonic = "business demand fluid east seven judge shallow budget mix flat call popular";

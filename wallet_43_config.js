@@ -1,1 +1,1 @@
-var mnemonic = "double squirrel defy fiber sunset slide setup chef bridge meat solve bargain";
+var mnemonic = "differ size maple random pull stand cradle predict credit guilt bicycle fence";

@@ -1,1 +1,1 @@
-var mnemonic = "boss come mutual evil scissors love disagree tuna initial table demand gravity";
+var mnemonic = "inspire dynamic same acoustic gloom topple woman vague kingdom lady arm latin";

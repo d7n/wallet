@@ -1,1 +1,1 @@
-var mnemonic = "ready rhythm brown space salon gasp inspire toss domain wink exclude sleep";
+var mnemonic = "curve yard clever eternal core bracket hurry quality saddle loan boat fiber";

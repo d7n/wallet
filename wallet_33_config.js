@@ -1,1 +1,1 @@
-var mnemonic = "student color assault save vault dismiss penalty omit guitar finger original cruel";
+var mnemonic = "sing involve plunge destroy material shallow check merge worth vital target suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt spell embark cloud race pattern comfort bulb foot time satoshi spawn";
+var mnemonic = "bus slow page involve nut truth remain response then feature cheese rescue";

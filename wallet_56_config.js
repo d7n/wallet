@@ -1,1 +1,1 @@
-var mnemonic = "nothing pear timber monster maximum weapon vessel express almost width hair law";
+var mnemonic = "ten lab company note gorilla blast scan drive enhance credit task moment";

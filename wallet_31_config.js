@@ -1,1 +1,1 @@
-var mnemonic = "organ robust venue bulk dinosaur someone guilt judge sniff symptom vapor tennis";
+var mnemonic = "kiss pyramid trap payment produce nothing hello breeze scout help win live";

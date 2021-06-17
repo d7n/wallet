@@ -1,1 +1,1 @@
-var mnemonic = "multiply matter lobster steak rice empower play ecology initial clap social issue";
+var mnemonic = "plate fiber inject wife net roof benefit flat fly cram will jaguar";

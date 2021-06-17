@@ -1,1 +1,1 @@
-var mnemonic = "educate gap guide bleak inside twenty tray reveal price wage small shoulder";
+var mnemonic = "issue turkey nominee puzzle illegal soldier sort dinner over cherry behave tail";

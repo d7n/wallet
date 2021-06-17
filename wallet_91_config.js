@@ -1,1 +1,1 @@
-var mnemonic = "hidden naive blame legal know stay sword neither review transfer nominee sphere";
+var mnemonic = "dinosaur volcano awful liar eternal lake ship wash crucial rich gun hair";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage walnut phrase where consider radar fluid notable few price fitness symptom";
+var mnemonic = "mountain autumn only ethics panther mom merge denial such chase wool tuition";

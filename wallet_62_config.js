@@ -1,1 +1,1 @@
-var mnemonic = "ready journey symptom sock nature dizzy found inch myth visit pave keep";
+var mnemonic = "explain pear make boy oyster little excuse clarify rally cattle digital easy";

@@ -1,1 +1,1 @@
-var mnemonic = "maple middle scene inform purchase roast theme quality planet raw weird result";
+var mnemonic = "truck dentist series tumble absurd damp fault cushion sell spot away mountain";

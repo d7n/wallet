@@ -1,1 +1,1 @@
-var mnemonic = "can gas gasp kiss pause degree recycle alarm dog fashion build pigeon";
+var mnemonic = "floor execute fiber grant seat survey easily major antique demand mail pool";

@@ -1,1 +1,1 @@
-var mnemonic = "science yellow library pulp practice laugh lesson lock odor debris harbor marriage";
+var mnemonic = "please december bunker drift vital genre close trumpet canvas vicious street depart";

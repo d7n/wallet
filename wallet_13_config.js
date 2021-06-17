@@ -1,1 +1,1 @@
-var mnemonic = "cargo thank pyramid scheme coin fiber notable anxiety airport envelope aunt margin";
+var mnemonic = "notice family suit simple sun math letter annual once room knee enrich";

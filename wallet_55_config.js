@@ -1,1 +1,1 @@
-var mnemonic = "wage riot soldier blur mixture cotton vivid hamster access middle case together";
+var mnemonic = "vacant because actual alarm false bonus stereo hurry pitch stairs control churn";

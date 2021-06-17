@@ -1,1 +1,1 @@
-var mnemonic = "sock bar clip abstract minute debris tackle alarm struggle captain gravity survey";
+var mnemonic = "soul access decade inside mosquito wild few hill idea cliff hurdle zebra";

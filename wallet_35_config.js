@@ -1,1 +1,1 @@
-var mnemonic = "word fossil stairs lake stereo couple devote miracle lab oyster again raven";
+var mnemonic = "then anger lab labor menu prize demand milk speak dial alley lock";

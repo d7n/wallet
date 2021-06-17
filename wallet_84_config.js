@@ -1,1 +1,1 @@
-var mnemonic = "flash december panic expand raise banana scout damp result tattoo logic knee";
+var mnemonic = "envelope option satisfy this upset doll pupil damp income exhaust hurt melody";

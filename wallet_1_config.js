@@ -1,1 +1,1 @@
-var mnemonic = "offer economy velvet cargo act talent all term invest project kiss input";
+var mnemonic = "melt motor blood gate federal yellow fit post auction ten thought much";

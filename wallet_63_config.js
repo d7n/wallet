@@ -1,1 +1,1 @@
-var mnemonic = "woman alarm custom arrest quarter net wool exist sibling frequent post festival";
+var mnemonic = "party crop today dose copy urban train biology vocal hold pool episode";

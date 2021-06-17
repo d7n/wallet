@@ -1,1 +1,1 @@
-var mnemonic = "broccoli answer parrot comic nephew wide lucky later minor smart atom craft";
+var mnemonic = "double owner staff govern fatigue chair scene mandate peasant broom rice vapor";

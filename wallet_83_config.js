@@ -1,1 +1,1 @@
-var mnemonic = "birth apart craft fortune olive city very slab expire letter jelly fever";
+var mnemonic = "praise math west menu more million rubber kitten shock weather mutual warfare";

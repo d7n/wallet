@@ -1,1 +1,1 @@
-var mnemonic = "dinner frown suffer fancy bag follow craft orbit drift public talent guilt";
+var mnemonic = "error else shop material easily velvet river slow live solar debris napkin";

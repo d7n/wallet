@@ -1,1 +1,1 @@
-var mnemonic = "wagon outside aware eye spatial upset oven setup rival true upon prepare";
+var mnemonic = "trust guard second venture wife degree liquid outdoor oven fluid advance adapt";

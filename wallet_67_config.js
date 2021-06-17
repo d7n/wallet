@@ -1,1 +1,1 @@
-var mnemonic = "length rifle bamboo drama phone rose ginger learn defense earn remove kiwi";
+var mnemonic = "alien room palm virtual fabric glance crucial whip device fashion fringe because";

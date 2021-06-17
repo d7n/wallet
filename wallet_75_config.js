@@ -1,1 +1,1 @@
-var mnemonic = "tenant emerge film bundle exist slot inhale blush category bullet inmate way";
+var mnemonic = "pony radio rookie abuse actual foam typical example subject witness provide electric";

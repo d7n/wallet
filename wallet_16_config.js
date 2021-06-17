@@ -1,1 +1,1 @@
-var mnemonic = "husband cover actor idea drift town flavor salt treat pony screen reunion";
+var mnemonic = "dune mind history clap defy enter weasel vivid shove unhappy timber horse";

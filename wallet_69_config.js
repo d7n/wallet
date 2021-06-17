@@ -1,1 +1,1 @@
-var mnemonic = "car nominee brave federal rude swear stadium romance real message popular debate";
+var mnemonic = "move hen alley pen nut there scorpion lunch monitor common pencil defense";

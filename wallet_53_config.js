@@ -1,1 +1,1 @@
-var mnemonic = "distance range draft tomorrow false ice enter soccer fortune tide spring shine";
+var mnemonic = "deer puzzle very uncover chase sheriff throw minute tooth brown metal stadium";

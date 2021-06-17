@@ -1,1 +1,1 @@
-var mnemonic = "drastic secret defense scare balcony busy adjust bamboo please mandate journey fragile";
+var mnemonic = "situate eager suspect photo gesture wealth drink pill blur labor nest awake";

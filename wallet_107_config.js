@@ -1,1 +1,1 @@
-var mnemonic = "truly notable forum say visual ancient salt clerk police crash summer license";
+var mnemonic = "early put enact train baby human income bargain staff fashion apology that";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss river accident ski bind lecture answer path wet target note bone";
+var mnemonic = "jungle angle oven trip capable tell now admit adapt arrest believe people";

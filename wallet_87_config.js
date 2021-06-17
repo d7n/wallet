@@ -1,1 +1,1 @@
-var mnemonic = "afford bulb say orchard define gown dash buddy gather hood secret seven";
+var mnemonic = "mind tone mouse element grid chair recycle sword kit awake turn merge";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture present neither flame ship addict have twelve buddy laundry purity floor";
+var mnemonic = "age quarter setup cereal north edge team lecture learn common drop muscle";

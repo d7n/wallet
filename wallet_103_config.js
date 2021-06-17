@@ -1,1 +1,1 @@
-var mnemonic = "crystal rib drift keep domain salad impulse candy permit estate cushion dust";
+var mnemonic = "network witness fix rack gather casual pencil frozen like scout bean angle";

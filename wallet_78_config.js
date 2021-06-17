@@ -1,1 +1,1 @@
-var mnemonic = "frog elite bachelor typical urban banana ancient ketchup slab wrist bounce black";
+var mnemonic = "foster heart boat violin old diesel slight leave cruise buddy cycle title";

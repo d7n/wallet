@@ -1,1 +1,1 @@
-var mnemonic = "text solar tortoise unveil unveil pilot slab index globe lumber cannon mistake";
+var mnemonic = "matter off cabin leave gift grant sight exhaust leaf steak else opinion";

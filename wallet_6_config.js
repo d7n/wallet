@@ -1,1 +1,1 @@
-var mnemonic = "final wall book charge today impact antenna flip actress ozone sorry cereal";
+var mnemonic = "make slice oak library indoor crater degree special moon orchard initial throw";

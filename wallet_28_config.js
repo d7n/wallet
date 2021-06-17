@@ -1,1 +1,1 @@
-var mnemonic = "shove solid erase fabric cement impose adapt capital addict ignore only limit";
+var mnemonic = "boss art mutual glimpse style wonder helmet cube victory dutch when story";

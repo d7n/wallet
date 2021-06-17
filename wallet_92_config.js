@@ -1,1 +1,1 @@
-var mnemonic = "dose cereal upon wish type fame lion hat ramp digital wink assume";
+var mnemonic = "curtain capital ginger dash wood risk stool suggest plate trumpet hazard permit";

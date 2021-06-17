@@ -1,1 +1,1 @@
-var mnemonic = "found raw industry index cattle spy odor hobby young suspect grass idea";
+var mnemonic = "harsh shell summer six issue donor stairs index unfair usual normal stuff";

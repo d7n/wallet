@@ -1,1 +1,1 @@
-var mnemonic = "autumn draw novel hint brick load cross vendor image original fragile treat";
+var mnemonic = "melt old salute fork disagree erode bullet notable force able wrap move";

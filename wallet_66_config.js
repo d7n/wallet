@@ -1,1 +1,1 @@
-var mnemonic = "series program please mail slab scale truth goddess lonely betray scan museum";
+var mnemonic = "cake poet wise divorce slender zero insect tower unhappy flash unlock upper";

@@ -1,1 +1,1 @@
-var mnemonic = "over ensure primary basket misery nose coffee insane skill anchor mystery suspect";
+var mnemonic = "obey assist mosquito retire ahead custom elegant profit code target crumble naive";

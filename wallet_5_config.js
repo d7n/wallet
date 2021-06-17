@@ -1,1 +1,1 @@
-var mnemonic = "woman vintage extra rack erase monkey wrestle lamp cube deposit address trend";
+var mnemonic = "exotic legend small year bag bright cross there since rare enter junk";

@@ -1,1 +1,1 @@
-var mnemonic = "width express glide length often quit entry eagle arrow water general eye";
+var mnemonic = "robust noble hawk similar home waste volume flush benefit trust update lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "anxiety crew usual awkward parent liquid result deny seed junk boil rural";
+var mnemonic = "animal crunch knock muffin token system omit color force flat quote blur";

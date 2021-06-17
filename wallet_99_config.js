@@ -1,1 +1,1 @@
-var mnemonic = "address someone park orange shuffle diesel water mouse couch witness believe garbage";
+var mnemonic = "word decade body traffic pond blur hobby poet deer column garden invite";

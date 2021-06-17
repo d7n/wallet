@@ -1,1 +1,1 @@
-var mnemonic = "apple carry lecture blue desert immune bottom crack burger nothing leader fly";
+var mnemonic = "tuna ride grape expect brown write scrub tomato scatter accident chair castle";

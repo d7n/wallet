@@ -1,1 +1,1 @@
-var mnemonic = "miracle dumb wheat galaxy tape output aisle city party muffin hill accident";
+var mnemonic = "talent saddle yard draw notable visit job picture layer kid lake occur";

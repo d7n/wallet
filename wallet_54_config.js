@@ -1,1 +1,1 @@
-var mnemonic = "dune margin manual foster embody tail sponsor vacuum chalk rural accuse good";
+var mnemonic = "country husband roof hold cradle jungle spoil rare antique soul diamond speed";
