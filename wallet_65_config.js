@@ -1,1 +1,1 @@
-var mnemonic = "razor pond arctic summer grab juice pride welcome doll else fit steak";
+var mnemonic = "lunch feed alley bread bulb ozone cake tiny forum dwarf elder elephant";

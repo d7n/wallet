@@ -1,1 +1,1 @@
-var mnemonic = "voyage flash virus screen magnet merry mouse object merit awful season ocean";
+var mnemonic = "creek fish aware stable divert casino innocent face flower addict smoke alcohol";

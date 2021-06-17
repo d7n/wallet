@@ -1,1 +1,1 @@
-var mnemonic = "twelve vendor surround dinosaur wine certain cup lyrics mountain bomb scale nurse";
+var mnemonic = "improve wish leader improve skill monitor truth border middle company luxury misery";

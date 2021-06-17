@@ -1,1 +1,1 @@
-var mnemonic = "treat balcony squeeze shadow please decade present always version team tissue intact";
+var mnemonic = "outdoor cook lecture example bitter butter divorce odor sunset volcano because raccoon";

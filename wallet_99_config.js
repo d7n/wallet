@@ -1,1 +1,1 @@
-var mnemonic = "turtle blame easily spoon bleak feed slush expire rose piano hat blouse";
+var mnemonic = "shell swim flame velvet noise forget social champion fabric arctic today leave";

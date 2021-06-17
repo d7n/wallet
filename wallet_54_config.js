@@ -1,1 +1,1 @@
-var mnemonic = "loop biology consider chapter attitude mercy list blind punch ignore wet excess";
+var mnemonic = "goddess section wine private faculty february spot celery rack cinnamon broken west";

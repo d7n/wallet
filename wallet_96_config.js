@@ -1,1 +1,1 @@
-var mnemonic = "habit tooth staff gravity bag fury culture flush begin abandon absent screen";
+var mnemonic = "river pencil crunch abandon senior woman impose cousin stable coral health sorry";

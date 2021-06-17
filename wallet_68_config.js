@@ -1,1 +1,1 @@
-var mnemonic = "mom ancient uncle income ribbon wool group stone dash spare sniff advice";
+var mnemonic = "target brief tray crew submit plunge develop light token sadness canal major";

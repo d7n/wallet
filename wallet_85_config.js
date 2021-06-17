@@ -1,1 +1,1 @@
-var mnemonic = "number patient quiz hockey reject dinner elegant retreat pottery autumn december motion";
+var mnemonic = "cousin ten vicious evil cherry gentle mutual canoe rule animal clerk much";

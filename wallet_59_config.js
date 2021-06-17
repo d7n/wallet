@@ -1,1 +1,1 @@
-var mnemonic = "pledge hood punch punch pluck damage recipe boil rubber local record flame";
+var mnemonic = "sniff version blue top tribe sting whale impulse mask onion clap proof";

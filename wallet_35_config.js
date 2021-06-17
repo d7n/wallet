@@ -1,1 +1,1 @@
-var mnemonic = "crunch situate mixture celery confirm world brush filter express onion boy course";
+var mnemonic = "round prosper lens evoke shoe loan dinner coil fabric pumpkin ignore lunch";

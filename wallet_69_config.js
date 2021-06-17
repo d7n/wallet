@@ -1,1 +1,1 @@
-var mnemonic = "cash sell system poem click pull satisfy online pitch muscle element noise";
+var mnemonic = "alarm pelican comic remind snake cabin rebuild shoulder online until under turtle";

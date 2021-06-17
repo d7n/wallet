@@ -1,1 +1,1 @@
-var mnemonic = "purity slide wolf absorb cook bracket retire police mimic huge diamond pizza";
+var mnemonic = "spring defense exact ride cactus wave they gown reform grit devote blame";

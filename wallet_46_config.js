@@ -1,1 +1,1 @@
-var mnemonic = "write super public forest just rescue bind endorse tent eight input club";
+var mnemonic = "color weird life nation critic churn acoustic save regular fantasy child acoustic";

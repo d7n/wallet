@@ -1,1 +1,1 @@
-var mnemonic = "wheel abuse oil plug destroy fragile gallery shoe path snack fine youth";
+var mnemonic = "grass void minor endorse garlic word ordinary place advice critic message crunch";

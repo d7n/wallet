@@ -1,1 +1,1 @@
-var mnemonic = "fall victory patient palm auto arch cluster job miracle damp sell skate";
+var mnemonic = "habit arena absent shrug fade reunion alley between punch sample render history";

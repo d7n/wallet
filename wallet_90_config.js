@@ -1,1 +1,1 @@
-var mnemonic = "wolf crush write rain screen draw poem verb they alpha denial puppy";
+var mnemonic = "clever vibrant unfair tattoo proof write wet act gain letter timber museum";

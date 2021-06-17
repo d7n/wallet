@@ -1,1 +1,1 @@
-var mnemonic = "doctor flee rare beach ahead spoon board marine hidden move quit tortoise";
+var mnemonic = "churn hold click enforce robust square weather place winter tobacco sentence advance";

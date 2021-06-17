@@ -1,1 +1,1 @@
-var mnemonic = "hammer cloth input cat argue offer name limit fruit hip make mimic";
+var mnemonic = "ten champion special already group false puzzle web million theme prevent betray";

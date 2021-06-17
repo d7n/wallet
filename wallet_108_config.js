@@ -1,1 +1,1 @@
-var mnemonic = "vote tomato grow embrace rookie spy such rug casino idle truly strike";
+var mnemonic = "ladder title throw infant act mango meat brush surround during blur favorite";

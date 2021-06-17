@@ -1,1 +1,1 @@
-var mnemonic = "steel elevator helmet sort result scissors stool loan special wise lady smile";
+var mnemonic = "cruel sister path avocado timber hole raw artefact bundle tag sun gadget";

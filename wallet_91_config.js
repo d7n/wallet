@@ -1,1 +1,1 @@
-var mnemonic = "protect toe pencil suffer enhance state copy lady distance conduct excess just";
+var mnemonic = "sand salad head mix liquid regular tail salmon curtain fluid member bamboo";

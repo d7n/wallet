@@ -1,1 +1,1 @@
-var mnemonic = "aisle resource orphan harsh spend viable hollow target gain forward february boat";
+var mnemonic = "holiday basic choice quote dream tape relief swing knock differ remember brother";

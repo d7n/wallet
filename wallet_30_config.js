@@ -1,1 +1,1 @@
-var mnemonic = "cloud safe deliver planet taste they ticket creek embrace jewel wealth thunder";
+var mnemonic = "protect crane sail example truly else anchor milk human bomb vessel atom";

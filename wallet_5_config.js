@@ -1,1 +1,1 @@
-var mnemonic = "whisper denial husband blur protect usual snake balcony lawn response accident swim";
+var mnemonic = "drop muffin visit battle forward mystery sentence chunk great unveil clock pulse";

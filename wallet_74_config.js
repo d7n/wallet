@@ -1,1 +1,1 @@
-var mnemonic = "immune stone sad piano say program light various dove cup confirm powder";
+var mnemonic = "affair cereal rose switch distance coin ceiling glimpse virtual job faculty keep";

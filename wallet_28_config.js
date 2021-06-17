@@ -1,1 +1,1 @@
-var mnemonic = "artefact much embark cycle demand theory kitten blame unknown fury jungle push";
+var mnemonic = "brisk have motion client flip neutral catch evolve police receive small laptop";

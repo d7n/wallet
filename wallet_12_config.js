@@ -1,1 +1,1 @@
-var mnemonic = "eight youth warrior elegant mixed bounce fire myself bulb addict below clean";
+var mnemonic = "exhibit pole assume catch blush prevent auto master august obtain multiply labor";

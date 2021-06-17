@@ -1,1 +1,1 @@
-var mnemonic = "chest stand hen blast enter asset prefer subject tool robot pull jump";
+var mnemonic = "involve mandate satisfy stamp share cereal curve door spice squirrel pumpkin swamp";

@@ -1,1 +1,1 @@
-var mnemonic = "flash size ancient apart firm hint glare demise tired garbage finger pigeon";
+var mnemonic = "garage place soup claim keep vivid survey lift load pony child until";

@@ -1,1 +1,1 @@
-var mnemonic = "steel taste wife chronic valley eager butter tackle foot during chef used";
+var mnemonic = "damage clay push tank champion verify grab charge boring vibrant round buyer";

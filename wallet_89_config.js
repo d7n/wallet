@@ -1,1 +1,1 @@
-var mnemonic = "excess board happy suspect match rifle mention wolf master ankle absurd brief";
+var mnemonic = "salute skirt proof soul color dish jacket design pulse trash twelve obey";

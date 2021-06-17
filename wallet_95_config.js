@@ -1,1 +1,1 @@
-var mnemonic = "cave visual use nephew skirt float expand affair suit destroy only sort";
+var mnemonic = "hungry armor suffer close test diamond whip shove harsh false manual uncle";

@@ -1,1 +1,1 @@
-var mnemonic = "medal cherry arrest before assault gallery peanut nominee treat loyal ticket drive";
+var mnemonic = "youth airport wasp tennis slam fitness photo feel you foil flower segment";

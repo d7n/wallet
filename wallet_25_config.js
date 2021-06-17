@@ -1,1 +1,1 @@
-var mnemonic = "salute guess sea grid casual brass note lounge jealous exotic volume either";
+var mnemonic = "hood flip review bitter stage olympic tone below stool swallow art primary";

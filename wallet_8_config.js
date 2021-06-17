@@ -1,1 +1,1 @@
-var mnemonic = "maple advance pear table test neck play update spike you cruise panel";
+var mnemonic = "satoshi all rent resource leg believe history virus alien garlic parrot zoo";

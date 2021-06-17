@@ -1,1 +1,1 @@
-var mnemonic = "jealous output suspect spring middle taxi entry enemy come juice mesh wage";
+var mnemonic = "culture permit stomach burst away swift awful rough involve blur process true";

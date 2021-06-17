@@ -1,1 +1,1 @@
-var mnemonic = "eye audit brisk hover hungry thumb village milk fun coconut sleep never";
+var mnemonic = "fit accuse steel connect grab ask walnut motor lucky pepper spy group";

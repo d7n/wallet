@@ -1,1 +1,1 @@
-var mnemonic = "price dune void hurdle debate achieve other veteran swap benefit scheme utility";
+var mnemonic = "arrange blur excess pencil sun athlete surround install exact notable give enhance";

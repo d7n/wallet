@@ -1,1 +1,1 @@
-var mnemonic = "arena solution report sugar pretty bachelor planet quit rally blossom subject approve";
+var mnemonic = "only list weasel rabbit derive clean diamond island machine flag seat present";

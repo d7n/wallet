@@ -1,1 +1,1 @@
-var mnemonic = "weather wear frame math common whisper script spoil brown digital agent cage";
+var mnemonic = "wear napkin snack lion idea assault away hair budget pear dress own";

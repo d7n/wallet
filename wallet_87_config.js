@@ -1,1 +1,1 @@
-var mnemonic = "lake view sorry trash indoor kitchen earth betray stage siege law sure";
+var mnemonic = "minor work case devote egg winner saddle olive citizen palace attend dynamic";

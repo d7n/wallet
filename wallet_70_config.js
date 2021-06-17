@@ -1,1 +1,1 @@
-var mnemonic = "drama blush sibling admit jacket figure measure labor quality saddle alien season";
+var mnemonic = "piece kid pretty utility way crisp strategy laundry book gauge cage fetch";

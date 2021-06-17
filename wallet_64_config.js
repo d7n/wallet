@@ -1,1 +1,1 @@
-var mnemonic = "dial thunder awkward post artefact about intact pyramid pipe wife raw absorb";
+var mnemonic = "physical sock crater proud home please large mesh improve swap dice spread";

@@ -1,1 +1,1 @@
-var mnemonic = "burger person put strategy relax another awkward letter token camp salad garbage";
+var mnemonic = "drastic rebel put enemy deal bitter oppose quantum find render open flower";

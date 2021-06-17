@@ -1,1 +1,1 @@
-var mnemonic = "excuse minute above inherit uniform hill problem fly chaos bacon wait fish";
+var mnemonic = "rhythm page reform salt merit uphold square worry accuse soda shallow silent";

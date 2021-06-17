@@ -1,1 +1,1 @@
-var mnemonic = "spell anger hammer tattoo vacant century loud off private cross process soap";
+var mnemonic = "jar document indicate giggle garden impulse jazz young proof double artwork depth";

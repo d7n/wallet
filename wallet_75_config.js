@@ -1,1 +1,1 @@
-var mnemonic = "always upset more town charge aisle poem umbrella link remove foot grief";
+var mnemonic = "globe very candy life often heavy enrich switch happy lamp meat volcano";

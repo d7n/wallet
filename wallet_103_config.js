@@ -1,1 +1,1 @@
-var mnemonic = "rail lazy vintage rib honey collect beyond expire leg job merit move";
+var mnemonic = "pride sausage canal future group patrol exist bird legal obscure margin hen";

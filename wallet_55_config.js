@@ -1,1 +1,1 @@
-var mnemonic = "hungry milk vehicle pilot fiscal one adult silk squeeze problem weasel brown";
+var mnemonic = "avocado april stone coffee gravity crouch quiz furnace brain dose ketchup stove";

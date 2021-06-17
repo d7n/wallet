@@ -1,1 +1,1 @@
-var mnemonic = "sugar visit people labor multiply shell danger error mercy harvest joke keen";
+var mnemonic = "filter model harbor access elephant pulp shoe small monster genre canal select";

@@ -1,1 +1,1 @@
-var mnemonic = "much soccer flee home eight live word group tattoo veteran entire harbor";
+var mnemonic = "clock material lecture media green robust attend journey ketchup middle source envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "legal violin elbow innocent castle remain cruel dolphin exclude athlete mercy census";
+var mnemonic = "dress peace noise outer siege issue print husband sport run small fetch";

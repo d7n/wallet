@@ -1,1 +1,1 @@
-var mnemonic = "sponsor verb jealous member uphold vibrant practice undo comfort maximum galaxy wrestle";
+var mnemonic = "sister urban joke neck author virtual advance awful hour parade gown pact";

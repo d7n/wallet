@@ -1,1 +1,1 @@
-var mnemonic = "junk there fee okay rookie cupboard stove soup bread evil report dance";
+var mnemonic = "comic pig estate notable left just strike sentence ranch gloom wine will";

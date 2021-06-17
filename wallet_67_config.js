@@ -1,1 +1,1 @@
-var mnemonic = "staff spoon stomach tissue monster foot cinnamon grab urban inspire talk faint";
+var mnemonic = "juice chaos lend load target addict fringe magic frog ability width wage";

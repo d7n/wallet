@@ -1,1 +1,1 @@
-var mnemonic = "anxiety dance puzzle roast flush detect general cause permit inject future mercy";
+var mnemonic = "derive jelly idea key fancy police bundle fish country galaxy wasp edit";

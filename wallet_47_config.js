@@ -1,1 +1,1 @@
-var mnemonic = "practice tumble champion achieve rather outer imitate regret explain bounce pole market";
+var mnemonic = "total catch spend fringe dash rude moon vehicle ripple river hobby seek";

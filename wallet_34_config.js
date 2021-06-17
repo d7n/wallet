@@ -1,1 +1,1 @@
-var mnemonic = "evil exchange advance hidden bring during wrestle chest little video stamp mouse";
+var mnemonic = "swim lava ridge print cabbage yellow rain earth brother cotton fuel master";

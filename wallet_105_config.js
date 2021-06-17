@@ -1,1 +1,1 @@
-var mnemonic = "cry pet whisper snap ensure welcome task strong effort clever trip high";
+var mnemonic = "cloud mail naive caution more dinner notice exit fitness hockey gentle idea";

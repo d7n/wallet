@@ -1,1 +1,1 @@
-var mnemonic = "know midnight winner pelican pulp distance faculty rural artefact abstract flock stand";
+var mnemonic = "frown clarify fiscal height sell success possible grit brick input eagle actor";

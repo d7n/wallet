@@ -1,1 +1,1 @@
-var mnemonic = "flower agree angle plate primary race coral life physical evidence muscle note";
+var mnemonic = "slice life clay upon license rebel turn boy brick average boat repair";

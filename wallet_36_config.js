@@ -1,1 +1,1 @@
-var mnemonic = "endorse axis fun name lift cute wine amateur net spring first brand";
+var mnemonic = "plug purity violin three bomb dove other fox dose enough catalog lens";

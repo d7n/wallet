@@ -1,1 +1,1 @@
-var mnemonic = "cabin resemble phrase person gain test honey point naive arrow ride deputy";
+var mnemonic = "review icon genuine actor discover palm satisfy doll gate pole vintage silver";

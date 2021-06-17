@@ -1,1 +1,1 @@
-var mnemonic = "siege giggle face danger desk tobacco speak bomb burden climb chapter chunk";
+var mnemonic = "slot amused dinosaur stomach cost purpose lounge ordinary ivory stairs grunt sport";

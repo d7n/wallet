@@ -1,1 +1,1 @@
-var mnemonic = "portion disagree horror blood mad abstract blue main decide kidney reflect flush";
+var mnemonic = "blast corn reunion address crouch spot leader tunnel victory muscle circle file";

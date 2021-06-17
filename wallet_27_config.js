@@ -1,1 +1,1 @@
-var mnemonic = "turtle loop end flight track pepper spoon tail deposit arrest trim urban";
+var mnemonic = "man race win soon ivory master actress improve anchor forward juice topple";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard inspire pride pact hair rent amused history sort ecology leave whisper";
+var mnemonic = "ask blast captain pencil million clip eagle code jar soap gossip harbor";

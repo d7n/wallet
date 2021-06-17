@@ -1,1 +1,1 @@
-var mnemonic = "reflect icon impact census curve tooth gate elevator absent few whale have";
+var mnemonic = "shoot lend spring allow inquiry glimpse pencil fog program awful spend custom";

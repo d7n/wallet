@@ -1,1 +1,1 @@
-var mnemonic = "wear vanish stone surface cigar finish buzz heavy rapid road kid wheat";
+var mnemonic = "super police draft brave flee wash bean donkey mountain fork bike rhythm";

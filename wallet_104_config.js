@@ -1,1 +1,1 @@
-var mnemonic = "weapon thank pass pink renew extend limb gate flavor receive gauge indoor";
+var mnemonic = "pig lesson slam spawn resist tourist sense galaxy unlock actress phrase forget";

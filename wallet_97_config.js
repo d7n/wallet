@@ -1,1 +1,1 @@
-var mnemonic = "witness super despair answer risk reward play between tone cash border silver";
+var mnemonic = "cliff near indicate dry heart local labor game ready dose useless gather";

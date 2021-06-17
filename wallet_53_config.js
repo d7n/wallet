@@ -1,1 +1,1 @@
-var mnemonic = "gun razor salad kiwi camera letter liquid swamp better goddess outer cannon";
+var mnemonic = "pattern shrug cliff arrange light hurt address pause blouse rally lab wrong";

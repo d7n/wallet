@@ -1,1 +1,1 @@
-var mnemonic = "congress first oyster surface exhibit dune turtle push drift cycle screen tortoise";
+var mnemonic = "over claim cinnamon sentence original buffalo trouble fashion biology post note uniform";

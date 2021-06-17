@@ -1,1 +1,1 @@
-var mnemonic = "fork arrest orchard distance memory there true youth leopard peace make intact";
+var mnemonic = "annual allow only often prefer flower tiger unique culture upset lift dash";

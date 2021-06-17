@@ -1,1 +1,1 @@
-var mnemonic = "crunch baby powder wall oak cherry bid garlic arrest battle seat six";
+var mnemonic = "boring cricket pledge crack pumpkin coast version chest spy silent mimic ankle";

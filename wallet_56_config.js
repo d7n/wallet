@@ -1,1 +1,1 @@
-var mnemonic = "finish resemble aware laptop spare design minor invite purity path album dinner";
+var mnemonic = "dance october liquid old tag broom face clap athlete mushroom join potato";

@@ -1,1 +1,1 @@
-var mnemonic = "end make leaf solid render wise taste curtain solution together snap vehicle";
+var mnemonic = "brand north way certain shed wealth accuse similar chuckle draft keen shaft";

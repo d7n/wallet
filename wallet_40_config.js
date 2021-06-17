@@ -1,1 +1,1 @@
-var mnemonic = "torch crawl claim hard garage swim stone garage border royal find brass";
+var mnemonic = "people race loyal diamond plunge purpose balcony round diet come business bus";

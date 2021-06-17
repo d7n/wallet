@@ -1,1 +1,1 @@
-var mnemonic = "strategy number police exhibit exhibit release hen invite elegant melt frozen memory";
+var mnemonic = "obtain arctic upgrade need shell pilot cradle loan lend ivory diet trip";

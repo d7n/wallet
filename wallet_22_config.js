@@ -1,1 +1,1 @@
-var mnemonic = "stem cinnamon loan process afford drum fall amazing ship system repeat conduct";
+var mnemonic = "book fiction expire hamster width annual kick crystal obvious hybrid stage various";

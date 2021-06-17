@@ -1,1 +1,1 @@
-var mnemonic = "mobile junior blame away museum fee taxi omit hire spray mule idle";
+var mnemonic = "kite situate skull click spray donate useless humor message sail label mandate";

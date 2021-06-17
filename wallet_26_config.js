@@ -1,1 +1,1 @@
-var mnemonic = "tattoo allow coast adult custom release butter ancient hotel start maximum decline";
+var mnemonic = "elephant mobile spot write any novel radar gesture typical case embark unable";

@@ -1,1 +1,1 @@
-var mnemonic = "december orient casino core element mean album thunder stock coyote skate habit";
+var mnemonic = "puppy core near plunge ask name volume noble guard donate skull budget";

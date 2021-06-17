@@ -1,1 +1,1 @@
-var mnemonic = "knock spice install since name skull video category carpet test truth globe";
+var mnemonic = "parent useless fault diamond wash high fence asthma reunion morning island naive";

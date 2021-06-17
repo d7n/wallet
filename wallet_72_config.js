@@ -1,1 +1,1 @@
-var mnemonic = "equip absorb indicate goose vast until erode bottom finger grit mesh purity";
+var mnemonic = "manage mirror quantum damage valid nerve perfect pool yellow outdoor gun naive";

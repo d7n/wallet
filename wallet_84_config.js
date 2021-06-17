@@ -1,1 +1,1 @@
-var mnemonic = "first medal boat snap alley dizzy bring crime heart pole erase live";
+var mnemonic = "behind wire abuse scorpion slide length key stereo thing enter token talk";

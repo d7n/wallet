@@ -1,1 +1,1 @@
-var mnemonic = "call pair captain chapter awkward mansion sight message accident truth summer flee";
+var mnemonic = "brisk train twenty any thunder gesture door fan pull analyst marriage dynamic";

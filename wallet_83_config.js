@@ -1,1 +1,1 @@
-var mnemonic = "cross give spoil pill tide vague jewel tobacco symptom cycle energy observe";
+var mnemonic = "vague snap pilot inspire exhibit train client tank oblige reduce guitar visual";

@@ -1,1 +1,1 @@
-var mnemonic = "boat whisper awesome melody rate toss else allow help visual birth air";
+var mnemonic = "web super radar parrot movie mother transfer wine frequent custom ordinary enhance";
