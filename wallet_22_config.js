@@ -1,1 +1,1 @@
-var mnemonic = "shallow spirit arrange vital grocery eagle hello forget jaguar normal this kitchen";
+var mnemonic = "sadness strategy cave miss dinosaur potato three bachelor skin trial describe winter";

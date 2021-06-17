@@ -1,1 +1,1 @@
-var mnemonic = "raise denial cost virtual order gap decrease illegal foil typical weather lion";
+var mnemonic = "galaxy display fold planet buffalo energy inquiry trash pistol reform truly order";

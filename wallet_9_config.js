@@ -1,1 +1,1 @@
-var mnemonic = "kitten cricket theme federal day cupboard holiday congress tattoo crawl float sad";
+var mnemonic = "cheese right diet visit scare melt clerk giggle mobile similar side eternal";

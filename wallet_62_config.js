@@ -1,1 +1,1 @@
-var mnemonic = "teach prize bike discover doll sing unlock wide inform stem kick usage";
+var mnemonic = "current retire brief dry laundry quality nut flight struggle soldier direct guess";

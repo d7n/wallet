@@ -1,1 +1,1 @@
-var mnemonic = "outdoor uncle slogan avocado music plate start large window dinner thing little";
+var mnemonic = "dog inhale hidden hawk small rack noodle add project fox blast expect";

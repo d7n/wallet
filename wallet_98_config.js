@@ -1,1 +1,1 @@
-var mnemonic = "trust sea kick attend frequent capital time glance fruit diary zero melt";
+var mnemonic = "hammer lonely lizard concert miracle ignore rubber pipe merit wink clog problem";

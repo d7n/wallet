@@ -1,1 +1,1 @@
-var mnemonic = "lawn heart world half term practice warrior dignity dice vessel acoustic hurt";
+var mnemonic = "laundry glove income album toy quote carbon tired arrange until famous moral";

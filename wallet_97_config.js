@@ -1,1 +1,1 @@
-var mnemonic = "mule rookie unable medal tobacco library air orient master federal when video";
+var mnemonic = "inhale nation bitter collect lava dilemma receive exist hip long praise birth";

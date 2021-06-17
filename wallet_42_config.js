@@ -1,1 +1,1 @@
-var mnemonic = "other system index pull churn bachelor music vague private luxury opinion raccoon";
+var mnemonic = "mirror moon taxi rare medal furnace coral portion acid assume valley hill";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer talent dizzy weekend grain lady another gasp clutch subway fiction advice";
+var mnemonic = "prosper input ability possible hurdle later answer elephant catalog energy moral woman";

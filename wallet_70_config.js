@@ -1,1 +1,1 @@
-var mnemonic = "alert alarm exhaust curious kangaroo access organ lock year jazz enhance raccoon";
+var mnemonic = "lonely magic tumble flavor awesome hockey foam jacket swallow arrow weapon then";

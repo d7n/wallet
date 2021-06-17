@@ -1,1 +1,1 @@
-var mnemonic = "pear inherit outer fat priority maze thought tray such coin across come";
+var mnemonic = "wheat tissue joke angry captain veteran there pulp cliff woman silk door";

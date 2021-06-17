@@ -1,1 +1,1 @@
-var mnemonic = "monitor cable carpet trouble when route joy deputy double island right relax";
+var mnemonic = "erode elevator sure switch antenna stomach critic later awkward broccoli spirit virtual";

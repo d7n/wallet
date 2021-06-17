@@ -1,1 +1,1 @@
-var mnemonic = "payment own penalty proof answer celery grow bunker female hedgehog night own";
+var mnemonic = "banner common jeans situate coast foil bacon chase actor prefer million else";

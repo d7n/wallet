@@ -1,1 +1,1 @@
-var mnemonic = "book often shine trouble describe flush dutch much sock safe strategy episode";
+var mnemonic = "review canal web remove animal borrow more poem goose finger snow same";

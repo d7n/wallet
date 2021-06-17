@@ -1,1 +1,1 @@
-var mnemonic = "wash pioneer unusual actor guilt rescue reunion vessel stand curtain inform tell";
+var mnemonic = "cigar actual chimney shell way viable twist capital security strong pretty engine";

@@ -1,1 +1,1 @@
-var mnemonic = "machine ocean arena absent ripple ramp bag neutral near champion fame custom";
+var mnemonic = "gym wave swim ice cloth defy inhale rent leopard increase fiscal inspire";

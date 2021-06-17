@@ -1,1 +1,1 @@
-var mnemonic = "puppy sugar emotion order debris direct embrace split home swim also refuse";
+var mnemonic = "hover holiday surprise tobacco bomb entire dog race elevator spatial kind organ";

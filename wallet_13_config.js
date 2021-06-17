@@ -1,1 +1,1 @@
-var mnemonic = "misery tree kingdom select shy ensure response control nation unable switch donkey";
+var mnemonic = "maximum series start bid coyote rather record group grunt armor lumber august";

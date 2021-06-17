@@ -1,1 +1,1 @@
-var mnemonic = "wash room defense wisdom argue figure ticket champion sleep age danger web";
+var mnemonic = "rigid surround ship galaxy simple vibrant only change jungle witness address neck";

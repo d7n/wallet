@@ -1,1 +1,1 @@
-var mnemonic = "wise float swap loud transfer observe remind armor ball sound despair typical";
+var mnemonic = "denial become viable solution dust holiday drastic buddy globe tuition unveil model";

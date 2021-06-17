@@ -1,1 +1,1 @@
-var mnemonic = "faint skin drop prize cash special oppose company frequent wedding obvious deliver";
+var mnemonic = "toe soccer false start wreck forget witness month author account eagle govern";

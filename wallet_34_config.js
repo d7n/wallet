@@ -1,1 +1,1 @@
-var mnemonic = "front liquid tag leisure lake scale region wild board marble moment fold";
+var mnemonic = "another column better scale love loyal lounge help thing pupil sun shift";

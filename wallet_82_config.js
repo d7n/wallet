@@ -1,1 +1,1 @@
-var mnemonic = "warfare math wrap climb soldier evil stem train equal abandon riot summer";
+var mnemonic = "vanish coach logic brief detect token decline arctic merge stem enjoy physical";

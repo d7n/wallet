@@ -1,1 +1,1 @@
-var mnemonic = "must develop festival candy tell clean clean half crumble leg wreck upset";
+var mnemonic = "matrix worry nice shaft ignore scene fire aim aisle supply tourist ask";

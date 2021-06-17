@@ -1,1 +1,1 @@
-var mnemonic = "hub junk dice steak melt violin laugh online cloud fun wealth anxiety";
+var mnemonic = "rebuild kiss bag sunny state hammer truly unhappy monkey phrase history hamster";

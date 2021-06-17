@@ -1,1 +1,1 @@
-var mnemonic = "tired name leopard valve wine labor blanket blind unknown december box jungle";
+var mnemonic = "manage wide dash fade always nerve junior charge gown sunset food model";

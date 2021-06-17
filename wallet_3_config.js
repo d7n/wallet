@@ -1,1 +1,1 @@
-var mnemonic = "speed organ page brief ball man easily master famous issue usage cause";
+var mnemonic = "drill idea dial ripple balcony where renew taxi tobacco park feature modify";

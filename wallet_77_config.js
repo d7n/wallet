@@ -1,1 +1,1 @@
-var mnemonic = "duck stock vault tank trial obvious protect main detail question wagon height";
+var mnemonic = "melt anger mansion better intact kiwi peace invite rough imitate strike oyster";

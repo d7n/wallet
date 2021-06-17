@@ -1,1 +1,1 @@
-var mnemonic = "census soldier area congress label drink scatter vendor cover prize unlock exact";
+var mnemonic = "coffee beauty solve gloom hill region brother story bundle strike mention grab";

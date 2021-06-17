@@ -1,1 +1,1 @@
-var mnemonic = "rigid angle allow embody aware pond pyramid profit sing spare rather coil";
+var mnemonic = "essence drink lesson twice smart frozen father blur shiver work october inch";

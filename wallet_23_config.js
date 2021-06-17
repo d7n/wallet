@@ -1,1 +1,1 @@
-var mnemonic = "provide baby judge rally rice rib weasel lens upset bind drive reduce";
+var mnemonic = "someone mind deal poet donkey man slush fuel convince excuse dice hint";

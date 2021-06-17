@@ -1,1 +1,1 @@
-var mnemonic = "excite ability fatal evoke tomato author tomato move table mosquito jungle whip";
+var mnemonic = "appear misery scrap sauce weekend okay super impose between tip notice space";

@@ -1,1 +1,1 @@
-var mnemonic = "slush dragon rain quote fiber hawk state similar question rug mutual hint";
+var mnemonic = "april busy rebel remove crowd hazard nice fix either phrase upgrade weekend";

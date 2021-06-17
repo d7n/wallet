@@ -1,1 +1,1 @@
-var mnemonic = "phrase sweet pepper wrestle slice entire project team focus render vault cabin";
+var mnemonic = "pair cage brief grunt actor magic bleak put ribbon core ladder jump";

@@ -1,1 +1,1 @@
-var mnemonic = "tip current live vital glance blue account sand crash alter same plate";
+var mnemonic = "aim fiscal radar salon initial pulp skate tide utility okay input wrap";

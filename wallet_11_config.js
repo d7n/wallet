@@ -1,1 +1,1 @@
-var mnemonic = "fame orange turkey dash maple wall record luggage method tuition where key";
+var mnemonic = "window subject raccoon phone popular zero rough prefer step body smile common";

@@ -1,1 +1,1 @@
-var mnemonic = "extend someone there combine account solid chat palm toss alert degree shallow";
+var mnemonic = "sustain scrap rival youth engage heavy gaze faith age zone thank stumble";

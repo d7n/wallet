@@ -1,1 +1,1 @@
-var mnemonic = "brown swing mango method stairs venture blouse squirrel wheel split cinnamon conduct";
+var mnemonic = "solid vintage close crisp claw despair actual profit foot fluid demise trick";

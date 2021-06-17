@@ -1,1 +1,1 @@
-var mnemonic = "south exercise patrol tennis lounge wonder ahead trophy erode deliver old vacuum";
+var mnemonic = "unveil earth page involve title drink topple below job high you aisle";

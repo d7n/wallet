@@ -1,1 +1,1 @@
-var mnemonic = "swim blanket ill reject stuff airport become pudding crisp impose tip disagree";
+var mnemonic = "appear swallow comfort planet lecture cabin time subway rich pudding feel grain";

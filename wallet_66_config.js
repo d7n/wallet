@@ -1,1 +1,1 @@
-var mnemonic = "begin business chase clip donkey sunset slow card humor reject reopen income";
+var mnemonic = "legal priority chronic wash symbol goat ahead ill elephant device vacuum anchor";

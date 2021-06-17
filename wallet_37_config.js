@@ -1,1 +1,1 @@
-var mnemonic = "shiver search talk afford panel shaft curious aspect canyon thunder pill black";
+var mnemonic = "garbage garbage topple shrug grant sand example swamp forest pattern seed glow";

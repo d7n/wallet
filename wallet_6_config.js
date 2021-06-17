@@ -1,1 +1,1 @@
-var mnemonic = "jealous brand velvet answer purity client know treat column thrive exit stove";
+var mnemonic = "subject vanish tree hybrid capital reflect obscure wasp duck census client concert";

@@ -1,1 +1,1 @@
-var mnemonic = "belt lazy exotic panda squirrel modify fog bench unfair swamp artefact culture";
+var mnemonic = "knee stomach park save lucky slab bulb hobby modify clutch face nest";

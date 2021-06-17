@@ -1,1 +1,1 @@
-var mnemonic = "collect usage endless prosper thank mule neutral very topic seed olympic scrub";
+var mnemonic = "desk rocket okay clever eye crash stem perfect code logic physical tongue";

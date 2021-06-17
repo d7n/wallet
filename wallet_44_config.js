@@ -1,1 +1,1 @@
-var mnemonic = "flock shift air police pioneer solid riot inhale nothing verb first start";
+var mnemonic = "feel prison leaf size demand planet churn coast duck evil crawl soda";

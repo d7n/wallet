@@ -1,1 +1,1 @@
-var mnemonic = "museum fork shed cliff ginger apology echo dawn figure vital liquid regret";
+var mnemonic = "safe trouble width keep shrimp stomach drip mom grocery fringe salon stereo";

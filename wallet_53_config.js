@@ -1,1 +1,1 @@
-var mnemonic = "expose picture job fork foam shed try glimpse tennis situate farm punch";
+var mnemonic = "owner people rebel matrix lumber mushroom lady slab boss west puzzle ten";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage rough wrestle cute maximum arena gauge hundred cancel echo once rate";
+var mnemonic = "someone leisure main vast charge tone drink throw select excuse mask attitude";

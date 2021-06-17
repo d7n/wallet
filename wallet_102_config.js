@@ -1,1 +1,1 @@
-var mnemonic = "blur drama snake book dice soul cotton bless split plate economy upgrade";
+var mnemonic = "kit flight spider alley endorse gap pink balcony will holiday night turkey";

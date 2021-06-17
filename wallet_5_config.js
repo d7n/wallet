@@ -1,1 +1,1 @@
-var mnemonic = "gauge wheel sunny twelve maximum snake arrange host elder soup sponsor slab";
+var mnemonic = "frog heavy stove add approve sport hazard moral clarify wheat movie clog";

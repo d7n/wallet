@@ -1,1 +1,1 @@
-var mnemonic = "step announce shoot affair chalk stairs bridge banner ocean sting hill curve";
+var mnemonic = "artefact win please brand hungry office there paper lawn resemble ugly right";

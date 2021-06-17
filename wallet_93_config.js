@@ -1,1 +1,1 @@
-var mnemonic = "old wage state huge lecture lecture happy guard mobile venue device chapter";
+var mnemonic = "catch equal labor sadness verb puzzle stool number strategy boost impose tone";

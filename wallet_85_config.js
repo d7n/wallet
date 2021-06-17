@@ -1,1 +1,1 @@
-var mnemonic = "age size shadow refuse verify depend offer lady tent merit upset put";
+var mnemonic = "wrong sauce affair boring suggest width object deer release infant arrest blanket";

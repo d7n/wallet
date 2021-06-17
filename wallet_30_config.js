@@ -1,1 +1,1 @@
-var mnemonic = "speak pyramid regret horn spring twist carry accident bean steel wrist voyage";
+var mnemonic = "foster advice switch wood acoustic absorb permit hair pride round upon indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "motion mandate sketch improve jazz general theory evoke diamond hip annual photo";
+var mnemonic = "grow blast swim scatter success tumble eight high strong sponsor sure segment";

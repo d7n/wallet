@@ -1,1 +1,1 @@
-var mnemonic = "august mercy forward inject pond resemble episode comfort oven rate brass toast";
+var mnemonic = "unknown helmet mercy giggle hub sausage wife warrior lottery allow wrap ride";

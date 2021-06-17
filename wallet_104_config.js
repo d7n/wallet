@@ -1,1 +1,1 @@
-var mnemonic = "stereo maze area grow arrive jungle fabric chronic very begin ladder walnut";
+var mnemonic = "fringe used flame march winter clean balance space view fragile key task";

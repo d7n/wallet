@@ -1,1 +1,1 @@
-var mnemonic = "hip nation plate sell raven sugar blush social little present style math";
+var mnemonic = "uncover laptop found force found want wish desk endorse abstract cry allow";

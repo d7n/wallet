@@ -1,1 +1,1 @@
-var mnemonic = "school motion injury sort labor stairs olympic solve awful orient frown client";
+var mnemonic = "worry say define empower glance reason fluid kit draft drum clog kiss";

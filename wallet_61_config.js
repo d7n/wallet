@@ -1,1 +1,1 @@
-var mnemonic = "minimum pledge arrive wisdom hat loud sauce wheel enter unhappy black citizen";
+var mnemonic = "goose palm glue castle syrup code member roast emerge shadow sand sentence";

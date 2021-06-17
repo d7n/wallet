@@ -1,1 +1,1 @@
-var mnemonic = "stairs street approve output sibling theory alcohol opinion post range sponsor sting";
+var mnemonic = "hint edit split author wage arrest spot health worry survey maze ice";

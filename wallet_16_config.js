@@ -1,1 +1,1 @@
-var mnemonic = "cereal fluid charge tank strong wrap boring quality burst tired asthma planet";
+var mnemonic = "depend armed wrap away coin pink valley balance lobster zero noble must";

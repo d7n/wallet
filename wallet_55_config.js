@@ -1,1 +1,1 @@
-var mnemonic = "priority ghost stage bubble print dust pear urban snake smile oil category";
+var mnemonic = "opera senior cabbage swarm client intact alley noble lottery purse rain bus";

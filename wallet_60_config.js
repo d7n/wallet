@@ -1,1 +1,1 @@
-var mnemonic = "uphold eight caution few genre enact fame hurt door help surface hammer";
+var mnemonic = "permit tornado inch amateur regret tornado lift vibrant cinnamon struggle deputy solve";

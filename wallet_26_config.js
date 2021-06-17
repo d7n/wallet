@@ -1,1 +1,1 @@
-var mnemonic = "garbage shift young around cargo elevator sing joke bring permit raccoon liberty";
+var mnemonic = "atom stereo prepare index fragile sail stool rug crisp average news become";

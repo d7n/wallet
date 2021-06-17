@@ -1,1 +1,1 @@
-var mnemonic = "turkey pride mobile girl clock company dawn morning address ability alien celery";
+var mnemonic = "word horse someone cart upset hundred dinner wood tornado rival media share";

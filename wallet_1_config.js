@@ -1,1 +1,1 @@
-var mnemonic = "fortune demise month supreme joke foster clap because crawl fossil wolf laundry";
+var mnemonic = "income verify good retreat skull disagree apart shrimp bulb drastic oven bubble";

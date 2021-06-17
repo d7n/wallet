@@ -1,1 +1,1 @@
-var mnemonic = "artefact tank genius void unveil subway child raw entire about riot credit";
+var mnemonic = "bind keen chef private organ child library swarm unhappy either better poem";

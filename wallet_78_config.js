@@ -1,1 +1,1 @@
-var mnemonic = "nature copy depth doll admit tilt muffin eye fork pond filter neck";
+var mnemonic = "member feature boat peace test front organ popular rural armed anchor banner";

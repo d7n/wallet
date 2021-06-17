@@ -1,1 +1,1 @@
-var mnemonic = "pupil victory spice popular offer brick divide glare asset distance night cable";
+var mnemonic = "truly clarify mutual retreat wheel circle dentist manual typical vibrant detail scorpion";

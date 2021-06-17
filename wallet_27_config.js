@@ -1,1 +1,1 @@
-var mnemonic = "aerobic amount brief define illegal stereo danger retreat shock athlete canoe prize";
+var mnemonic = "pill lens forest labor survey fit romance sphere call crunch core seek";

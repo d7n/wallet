@@ -1,1 +1,1 @@
-var mnemonic = "hungry chat shoot matter mushroom vote pair void core movie limit three";
+var mnemonic = "crack elegant peasant stereo earn speak educate cruel stool practice increase organ";

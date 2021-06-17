@@ -1,1 +1,1 @@
-var mnemonic = "combine supply bottom replace mother release source wine element image winter vintage";
+var mnemonic = "aim layer leg spoon glue nasty onion truly noble anchor option slot";

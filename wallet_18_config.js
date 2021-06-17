@@ -1,1 +1,1 @@
-var mnemonic = "grow sadness tray bunker gloom clown diet unveil element hawk hurdle charge";
+var mnemonic = "flip usage nominee daring hill novel cabbage disorder hand sister thunder arrive";

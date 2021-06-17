@@ -1,1 +1,1 @@
-var mnemonic = "card calm garbage lens unfold duty hill tourist human warfare profit ostrich";
+var mnemonic = "tail deliver giraffe soap organ confirm spread digital couch rough lawsuit embrace";

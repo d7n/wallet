@@ -1,1 +1,1 @@
-var mnemonic = "wet wisdom notice trial shine shell during way rotate oval silk popular";
+var mnemonic = "sudden meat weekend cluster paddle tonight accuse imitate holiday tenant pool material";

@@ -1,1 +1,1 @@
-var mnemonic = "other collect answer ghost business door lesson job present ignore video hint";
+var mnemonic = "rose craft paddle cancel jewel anxiety blanket rain affair garment grid reform";

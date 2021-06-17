@@ -1,1 +1,1 @@
-var mnemonic = "fuel april acid ladder wreck sponsor sister view rely humble wreck pull";
+var mnemonic = "welcome canoe reason orient bamboo click brother pioneer pole yard blush illness";

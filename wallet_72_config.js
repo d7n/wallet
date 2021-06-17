@@ -1,1 +1,1 @@
-var mnemonic = "tunnel tortoise spoon casual drip mutual milk deer soul bicycle ribbon benefit";
+var mnemonic = "youth reduce benefit tragic liar scare bus year athlete notable fat onion";

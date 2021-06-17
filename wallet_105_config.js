@@ -1,1 +1,1 @@
-var mnemonic = "punch own bonus use power silver pottery chat decline angle tilt december";
+var mnemonic = "bone crop that icon flame canoe conduct audit slide drip useless model";

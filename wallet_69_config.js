@@ -1,1 +1,1 @@
-var mnemonic = "usual sponsor pool style lunch isolate real initial music blame orange century";
+var mnemonic = "comfort sense genius indoor census lecture arrive bracket mouse soft flock alley";

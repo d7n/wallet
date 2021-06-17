@@ -1,1 +1,1 @@
-var mnemonic = "canoe local arena soon post hundred tiger matter impose nerve blind help";
+var mnemonic = "castle cargo sport side useless assist term cross cloud exact town hover";

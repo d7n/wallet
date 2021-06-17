@@ -1,1 +1,1 @@
-var mnemonic = "spice come carbon bind forum gather danger robot casual powder text speed";
+var mnemonic = "viable festival have session interest upgrade spike grid first craft deputy describe";

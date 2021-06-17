@@ -1,1 +1,1 @@
-var mnemonic = "raise turn animal sport narrow vivid pass year stereo dilemma avoid cruel";
+var mnemonic = "escape portion eager narrow someone harsh wrong recall moment upset bonus dignity";

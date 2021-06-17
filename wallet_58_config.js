@@ -1,1 +1,1 @@
-var mnemonic = "fat bomb sing autumn subject abstract tower code aunt denial online wide";
+var mnemonic = "man floor rocket author flush badge deputy slow pulse title profit surround";

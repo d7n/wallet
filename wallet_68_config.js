@@ -1,1 +1,1 @@
-var mnemonic = "grab unusual defy elevator project second tragic diamond still quality plastic village";
+var mnemonic = "three between upper similar air vehicle item little law glimpse olympic prison";

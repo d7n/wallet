@@ -1,1 +1,1 @@
-var mnemonic = "ribbon path journey fee permit olympic bonus cycle virtual empty critic wait";
+var mnemonic = "genuine across return april shadow swamp enemy stereo excuse fix income salad";

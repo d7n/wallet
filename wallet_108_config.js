@@ -1,1 +1,1 @@
-var mnemonic = "guard whisper track cement laugh theory enhance brief popular summer order tomorrow";
+var mnemonic = "release banana doll radio bitter outside caution effort desk bullet flip flock";

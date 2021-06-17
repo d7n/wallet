@@ -1,1 +1,1 @@
-var mnemonic = "begin violin tip hub humble admit waste crumble question earn slim monitor";
+var mnemonic = "marine palm eagle draw damage win warm argue similar puzzle list company";
