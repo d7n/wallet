@@ -1,1 +1,1 @@
-var mnemonic = "lunar comfort awkward slim service edge again powder alter hole frog pelican";
+var mnemonic = "man ketchup news eagle echo high sausage enact rain meadow dash destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow such check debris sorry session evolve float brave sick hire eager";
+var mnemonic = "timber cat turn dust day case blame sniff pass genre device butter";

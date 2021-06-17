@@ -1,1 +1,1 @@
-var mnemonic = "moment nominee lucky artefact year lava vital ivory chuckle output floor shoot";
+var mnemonic = "security step skill cherry crime effort junk index gauge motor valid camp";

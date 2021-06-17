@@ -1,1 +1,1 @@
-var mnemonic = "mango wish candy innocent annual cotton silent throw silver student describe kid";
+var mnemonic = "brick like offer faith axis find sing desk fly produce mesh ugly";

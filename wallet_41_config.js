@@ -1,1 +1,1 @@
-var mnemonic = "canal flat orient hen soccer essay idle setup describe whale erupt cream";
+var mnemonic = "glow vacant hidden soda grass switch smile network weather apple ahead clay";

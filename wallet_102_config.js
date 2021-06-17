@@ -1,1 +1,1 @@
-var mnemonic = "charge scare link envelope will must exchange pudding easy belt decrease click";
+var mnemonic = "leave spread lunch agree tragic slide salon column screen cancel sorry foam";

@@ -1,1 +1,1 @@
-var mnemonic = "moon hub faith talent pepper allow display cotton general meat lion hole";
+var mnemonic = "chronic shiver yard train media type mass metal million dress core limb";

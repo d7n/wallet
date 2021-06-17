@@ -1,1 +1,1 @@
-var mnemonic = "olive east mirror little flat eagle disease erosion stand sentence armed shrug";
+var mnemonic = "original cattle detect tell give rib point fold please basic garbage multiply";

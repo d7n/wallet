@@ -1,1 +1,1 @@
-var mnemonic = "dune slender fit note west six toss erode moon author flavor amused";
+var mnemonic = "scorpion pride artefact couple switch ghost assault mesh fly economy grief adjust";

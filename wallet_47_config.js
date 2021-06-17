@@ -1,1 +1,1 @@
-var mnemonic = "glance warrior sniff very basket gas live special fatigue club spice hub";
+var mnemonic = "modify kidney virtual panda ten sign mimic wheel pencil turkey tuna little";

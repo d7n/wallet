@@ -1,1 +1,1 @@
-var mnemonic = "current toy cat waste slush valley soldier tent affair find side panel";
+var mnemonic = "tired throw sting govern glass body target hurt inner wink rain history";

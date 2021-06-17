@@ -1,1 +1,1 @@
-var mnemonic = "husband ginger million raven love innocent thank whisper room mirror mistake elder";
+var mnemonic = "decorate gold pluck sibling rookie region hire loop metal object tell april";

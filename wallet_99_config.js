@@ -1,1 +1,1 @@
-var mnemonic = "husband six art program shuffle bean crawl output enhance parade grace relief";
+var mnemonic = "inside modify birth resource flush bamboo great afraid poverty warfare scrub despair";

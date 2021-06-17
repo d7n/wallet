@@ -1,1 +1,1 @@
-var mnemonic = "keen afford swim soon buzz nuclear cradle sustain magic calm sample civil";
+var mnemonic = "demand essay reform cave join school parrot mimic jacket muffin mercy helmet";

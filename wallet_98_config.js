@@ -1,1 +1,1 @@
-var mnemonic = "success entire fault satisfy raise banner memory daughter genius trap claw rescue";
+var mnemonic = "predict laugh trial gallery bracket eternal purpose tooth thunder intact setup laugh";

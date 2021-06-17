@@ -1,1 +1,1 @@
-var mnemonic = "decide forum luxury gas ice believe forget attract simple elder trophy wave";
+var mnemonic = "year bread grape twin season rebel hybrid lobster naive juice eye join";

@@ -1,1 +1,1 @@
-var mnemonic = "basket lock hidden climb current surface mercy pumpkin forward scout talk travel";
+var mnemonic = "column question regular review common bright never jar margin island conduct peace";

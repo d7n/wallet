@@ -1,1 +1,1 @@
-var mnemonic = "whip pizza sea clever antique caution pudding erase olive squeeze swallow gap";
+var mnemonic = "rebel merit fork gasp paper smart hello situate silver nephew term dial";

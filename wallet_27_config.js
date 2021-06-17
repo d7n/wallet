@@ -1,1 +1,1 @@
-var mnemonic = "torch unknown jelly warfare cradle stem space field february anchor rail month";
+var mnemonic = "smoke raise crystal jelly repeat refuse tilt outdoor foot disorder asset ten";

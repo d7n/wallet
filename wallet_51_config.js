@@ -1,1 +1,1 @@
-var mnemonic = "evoke danger apology ring love theory orphan unknown divert peace foot south";
+var mnemonic = "draw lizard album rough vocal about celery satisfy purchase rule glide regular";

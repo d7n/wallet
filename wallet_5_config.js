@@ -1,1 +1,1 @@
-var mnemonic = "valley hair distance ill short smart wear defense slogan combine harbor okay";
+var mnemonic = "empty grocery reduce differ magnet distance tip shop vapor certain sleep excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure strategy pond vanish shine reflect cigar rocket siege order vapor depend";
+var mnemonic = "physical month faculty frost accident aisle hover dose output swallow absorb property";

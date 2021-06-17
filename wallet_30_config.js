@@ -1,1 +1,1 @@
-var mnemonic = "one history robot business lunch busy shrug chronic dice obvious raven million";
+var mnemonic = "grief ecology rotate disagree crumble merge member exhibit dinosaur victory camera involve";

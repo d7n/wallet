@@ -1,1 +1,1 @@
-var mnemonic = "hunt exchange gift case brave congress beach fish quote pig toilet food";
+var mnemonic = "ability skin crystal rapid already effort swim twenty pizza deal burger praise";

@@ -1,1 +1,1 @@
-var mnemonic = "credit crater moral member portion radar slush tired property glove absent agent";
+var mnemonic = "evidence harbor aerobic fuel balcony property dilemma car tourist mule buddy artist";

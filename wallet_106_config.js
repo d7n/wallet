@@ -1,1 +1,1 @@
-var mnemonic = "kind cook welcome extra law suffer ignore fun park cash today hope";
+var mnemonic = "blood hair taste time critic provide broken inch gravity eagle pave scrub";

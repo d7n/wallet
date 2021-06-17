@@ -1,1 +1,1 @@
-var mnemonic = "region road unique shoot tomato uniform balcony slide also sound car sponsor";
+var mnemonic = "huge depart range august carry portion reunion love heart blush boost swallow";

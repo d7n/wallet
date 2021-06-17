@@ -1,1 +1,1 @@
-var mnemonic = "approve fish abstract leave mail lumber casual attract same fiber employ design";
+var mnemonic = "oval indicate fancy avoid just voyage snake giraffe small average dog silent";

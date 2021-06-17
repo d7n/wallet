@@ -1,1 +1,1 @@
-var mnemonic = "group reason express unique salon dismiss valve antique abuse banner phone palace";
+var mnemonic = "govern only route bird mountain area lava tent hazard task window prevent";

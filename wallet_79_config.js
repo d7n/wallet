@@ -1,1 +1,1 @@
-var mnemonic = "else mail volcano village staff lunar post cheap print put parrot cart";
+var mnemonic = "runway live simple stable endless elegant dry step acoustic brush depth glue";

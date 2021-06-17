@@ -1,1 +1,1 @@
-var mnemonic = "donor ocean miss stand elephant six balcony column sugar solar radio chase";
+var mnemonic = "census pitch reunion object code zone business fox crucial between swamp ribbon";

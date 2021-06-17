@@ -1,1 +1,1 @@
-var mnemonic = "taste torch dash cigar spoil ketchup upgrade surprise useful dose dog that";
+var mnemonic = "riot custom episode prepare doll glass speed home media random smoke festival";

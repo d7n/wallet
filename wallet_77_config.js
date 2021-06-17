@@ -1,1 +1,1 @@
-var mnemonic = "food ordinary manage organ side focus shine atom aspect party lounge arena";
+var mnemonic = "episode wheel where solar vote area display whisper powder prefer beef ball";

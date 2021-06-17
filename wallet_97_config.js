@@ -1,1 +1,1 @@
-var mnemonic = "fruit world answer garage van dynamic swarm raw state mushroom gate gaze";
+var mnemonic = "comic kangaroo protect tool pyramid want town cattle exact carbon satoshi actual";

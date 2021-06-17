@@ -1,1 +1,1 @@
-var mnemonic = "flag tip ticket mesh frog clip movie banner thrive elevator mixture confirm";
+var mnemonic = "cousin ceiling spirit dinner address team answer radar capital roof autumn reform";

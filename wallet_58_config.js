@@ -1,1 +1,1 @@
-var mnemonic = "rural diamond rent roast smart pyramid van board fever above asset rate";
+var mnemonic = "buffalo machine ecology patrol fat cash bargain panic arrange choice mushroom jazz";

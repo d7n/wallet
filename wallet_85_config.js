@@ -1,1 +1,1 @@
-var mnemonic = "just abstract attitude vapor now load three trial choice boring satisfy divorce";
+var mnemonic = "air once practice choose crew wall spider mirror problem hawk leopard scan";

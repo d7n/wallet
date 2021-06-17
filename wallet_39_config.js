@@ -1,1 +1,1 @@
-var mnemonic = "topic current arrest key media hotel hand artefact again slush material relief";
+var mnemonic = "diesel fetch shaft trip truly snake crawl certain capable sadness plug vessel";

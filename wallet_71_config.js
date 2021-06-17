@@ -1,1 +1,1 @@
-var mnemonic = "mosquito tower thought trust feel budget notice rigid cute top rebel vehicle";
+var mnemonic = "tool medal slush raven situate trick chunk language spare fabric absurd bright";

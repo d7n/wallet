@@ -1,1 +1,1 @@
-var mnemonic = "puppy dismiss poem across print neck pass diamond laptop cry panel cattle";
+var mnemonic = "tiny bacon illness equal write push oval bind logic jeans rubber doll";

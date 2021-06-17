@@ -1,1 +1,1 @@
-var mnemonic = "heavy misery file behind matrix casual crunch soup already fan bread client";
+var mnemonic = "recall gain post correct shift canal laugh chief air cluster column you";

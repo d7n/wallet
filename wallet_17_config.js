@@ -1,1 +1,1 @@
-var mnemonic = "depart use horse hole hour brown goose hard trim actor rhythm ripple";
+var mnemonic = "misery path very leg know also moon usage can news enroll disorder";

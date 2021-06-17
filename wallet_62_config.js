@@ -1,1 +1,1 @@
-var mnemonic = "pistol physical impact rude siren museum moral obey bunker movie usage say";
+var mnemonic = "fat security twice balance shy doll put case acid clutch radio plastic";

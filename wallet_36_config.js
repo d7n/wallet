@@ -1,1 +1,1 @@
-var mnemonic = "alien cake maze useless eye flock chest direct snake ribbon reduce transfer";
+var mnemonic = "stem amused charge thought rebel advice egg tenant future resemble long basket";

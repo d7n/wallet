@@ -1,1 +1,1 @@
-var mnemonic = "elder yard coach submit humble mountain action quote ladder river arrow moment";
+var mnemonic = "merge vast plastic input box embrace shrimp monster scheme confirm tape phone";

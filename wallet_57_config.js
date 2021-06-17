@@ -1,1 +1,1 @@
-var mnemonic = "video vital apology attack summer lesson screen obscure tornado meadow dilemma truth";
+var mnemonic = "romance blanket robot jelly assault patient noise ceiling library liquid boss rate";

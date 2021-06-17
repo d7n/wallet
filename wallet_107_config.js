@@ -1,1 +1,1 @@
-var mnemonic = "century fitness certain manage whisper return wall enact tank welcome skirt roast";
+var mnemonic = "future actress case olive angry soda few access price stay remind kind";

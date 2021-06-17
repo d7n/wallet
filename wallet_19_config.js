@@ -1,1 +1,1 @@
-var mnemonic = "refuse second supreme either junior typical stool mix planet element siege radio";
+var mnemonic = "spread honey replace zone engine absorb purse ramp lunar angle ignore unlock";

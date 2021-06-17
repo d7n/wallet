@@ -1,1 +1,1 @@
-var mnemonic = "link bulb when visit flush affair render subway swamp ticket orphan layer";
+var mnemonic = "fabric relief disease cheap segment shine work uncle hip peace muffin quarter";

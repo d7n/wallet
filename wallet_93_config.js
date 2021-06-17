@@ -1,1 +1,1 @@
-var mnemonic = "increase spoil adjust nut slam bid dinner patrol resemble amazing fog beauty";
+var mnemonic = "equip book decide problem odor orbit middle shift naive sail chaos rent";

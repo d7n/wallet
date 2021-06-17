@@ -1,1 +1,1 @@
-var mnemonic = "open love regular notice poem rabbit stone law dove sock cube shy";
+var mnemonic = "tank hollow symbol since magic plunge miss vital dial digital erode capable";

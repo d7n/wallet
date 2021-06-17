@@ -1,1 +1,1 @@
-var mnemonic = "rebel ocean boat stand fatigue prosper width venue skate wife disorder acoustic";
+var mnemonic = "erosion unique kiss ladder swallow unfold baby fatal fade city wait card";

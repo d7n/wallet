@@ -1,1 +1,1 @@
-var mnemonic = "health forest decline there boost satisfy assault fun shoulder gloom volume system";
+var mnemonic = "gentle pitch ocean clown happy coyote village argue syrup remind wait member";

@@ -1,1 +1,1 @@
-var mnemonic = "airport note bonus option liquid lounge electric shrug zone will tourist visit";
+var mnemonic = "payment pigeon pulp wish excite master castle stadium salute blush certain salon";

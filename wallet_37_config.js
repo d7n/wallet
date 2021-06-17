@@ -1,1 +1,1 @@
-var mnemonic = "army manage market review squeeze tobacco evil mammal rule math spoil gym";
+var mnemonic = "leisure hover spirit token modify clock erase twice casual place enjoy flush";

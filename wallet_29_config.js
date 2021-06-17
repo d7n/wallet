@@ -1,1 +1,1 @@
-var mnemonic = "note taste elephant system today popular parent alcohol undo cruel food win";
+var mnemonic = "execute slide acquire pretty immune skull tomato solar transfer case float all";

@@ -1,1 +1,1 @@
-var mnemonic = "essence umbrella stamp stand race scrub just never tired theory volume sauce";
+var mnemonic = "pigeon damp vast street call novel venture maze funny pledge sport rather";

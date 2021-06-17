@@ -1,1 +1,1 @@
-var mnemonic = "shift day camera ability cement spider dust among equip close easy base";
+var mnemonic = "motor wage gravity ginger core meadow hard fit laugh swarm cabbage scheme";

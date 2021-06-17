@@ -1,1 +1,1 @@
-var mnemonic = "inflict gold chest rapid length auto phrase differ brush boat climb rapid";
+var mnemonic = "pulp lift ask brisk tumble since hurdle equip rescue middle clock ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle accuse promote visit require since nerve appear pact main robust cash";
+var mnemonic = "pitch antenna adapt use regular own hobby gauge wheat fee inquiry animal";

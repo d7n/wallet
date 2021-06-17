@@ -1,1 +1,1 @@
-var mnemonic = "raw fever author question pizza tomorrow asset ecology sister rather easy minor";
+var mnemonic = "silent perfect flee absorb insane order trend eyebrow city tent scheme blur";

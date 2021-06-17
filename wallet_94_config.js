@@ -1,1 +1,1 @@
-var mnemonic = "group enforce isolate very act lend left enact sauce emerge topple hour";
+var mnemonic = "logic siege mixed resemble husband autumn penalty reward virus erupt baby salmon";

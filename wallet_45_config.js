@@ -1,1 +1,1 @@
-var mnemonic = "gather dinner thrive puppy cactus client push enemy border private shell fly";
+var mnemonic = "issue share chef elephant rail hedgehog speak funny mechanic twice bullet arctic";

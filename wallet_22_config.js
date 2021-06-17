@@ -1,1 +1,1 @@
-var mnemonic = "frost garage cable often cash remain tomato quiz cinnamon bird garment sister";
+var mnemonic = "patrol bounce rude govern soon country lucky inspire multiply shield era chapter";

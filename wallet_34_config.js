@@ -1,1 +1,1 @@
-var mnemonic = "goat fold under access fiction turn language describe noble melt stock doll";
+var mnemonic = "find tail deposit swarm menu six stumble gift direct fall tube spread";

@@ -1,1 +1,1 @@
-var mnemonic = "owner decade fever limb mix chapter float okay giggle boil rocket category";
+var mnemonic = "canyon puppy problem roof noise circle boat settle solid shell harbor frost";

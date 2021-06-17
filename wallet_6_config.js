@@ -1,1 +1,1 @@
-var mnemonic = "make punch raise beyond castle floor wrestle exhibit buffalo kiss promote bright";
+var mnemonic = "gate latin spice august lyrics confirm artefact bachelor bulk exclude maid winter";

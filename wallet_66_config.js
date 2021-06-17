@@ -1,1 +1,1 @@
-var mnemonic = "quarter piece angry team ranch trip price palace middle answer budget legend";
+var mnemonic = "tired ring bulk velvet behind glare deal proof parent devote favorite wreck";

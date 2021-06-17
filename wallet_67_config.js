@@ -1,1 +1,1 @@
-var mnemonic = "member permit vanish ready catch civil angle cruel cram loop live orchard";
+var mnemonic = "fruit sudden asthma voyage estate special entry team moral cliff leader photo";

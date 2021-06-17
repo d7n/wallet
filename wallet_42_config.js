@@ -1,1 +1,1 @@
-var mnemonic = "hazard side process car cross space scrap step fan comic useful smart";
+var mnemonic = "resist spread dial craft ball luxury original woman crunch use shrug render";

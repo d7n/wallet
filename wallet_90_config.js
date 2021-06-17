@@ -1,1 +1,1 @@
-var mnemonic = "sense author upgrade swarm disorder kite plunge indicate tonight dance win night";
+var mnemonic = "hybrid job gadget sense walnut love orphan brick pilot omit smoke culture";

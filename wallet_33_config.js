@@ -1,1 +1,1 @@
-var mnemonic = "alcohol tomorrow mention fantasy tornado tobacco pupil candy broccoli during mass lecture";
+var mnemonic = "odor intact tribe damage alpha evil oblige raven drive armed simple slim";

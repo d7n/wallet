@@ -1,1 +1,1 @@
-var mnemonic = "annual clean plastic outside sheriff split tower range salmon consider where agent";
+var mnemonic = "alley output heart chronic other property correct immune print you call gas";

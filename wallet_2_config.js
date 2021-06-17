@@ -1,1 +1,1 @@
-var mnemonic = "rug rookie quantum gain globe lucky major grace found acquire door whisper";
+var mnemonic = "actor focus bachelor essence defense kingdom series chronic nature jazz urge zebra";

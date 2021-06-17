@@ -1,1 +1,1 @@
-var mnemonic = "cabbage lumber settle priority outside scale desk south follow day busy fresh";
+var mnemonic = "dragon exact dirt chicken cousin assault dry hub dentist horn census say";

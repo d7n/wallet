@@ -1,1 +1,1 @@
-var mnemonic = "garment employ solar pass fog soap regret casual exist tired match raise";
+var mnemonic = "reveal piece sponsor unfold borrow armed dust quit road theory decide grape";

@@ -1,1 +1,1 @@
-var mnemonic = "fat poem banner remove cloud subway cycle net network leaf arch pass";
+var mnemonic = "humble legal spin model carpet absent soap simple debris fancy plunge hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "apart intact pipe miss art coast bitter chicken injury shadow endless code";
+var mnemonic = "turtle mosquito young penalty where parent frown income casual become harvest knock";

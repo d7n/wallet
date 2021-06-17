@@ -1,1 +1,1 @@
-var mnemonic = "write cabin already stereo sword pole off become curious fit shuffle flip";
+var mnemonic = "street flock extend opera frozen that science dismiss fix measure depth base";

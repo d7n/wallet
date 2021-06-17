@@ -1,1 +1,1 @@
-var mnemonic = "wait mean edit canoe easy insane car blame grace bundle shaft assist";
+var mnemonic = "feature acid shoe jeans donate test nerve cabbage bundle wheat dentist trash";

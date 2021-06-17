@@ -1,1 +1,1 @@
-var mnemonic = "shy climb magic loyal slight legal foot buddy syrup clean vanish response";
+var mnemonic = "artist shrimp still culture clever road evoke fragile two produce dinosaur fade";

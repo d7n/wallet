@@ -1,1 +1,1 @@
-var mnemonic = "quantum urban endless ticket fox park nominee nose sleep entire remove hint";
+var mnemonic = "elegant bracket ranch minimum pony corn search dinner wing office need kiwi";

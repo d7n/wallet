@@ -1,1 +1,1 @@
-var mnemonic = "buzz actual animal mix autumn battle supreme milk width month rescue brave";
+var mnemonic = "smile sword gallery vault spread unveil pill purity enough ladder idle secret";

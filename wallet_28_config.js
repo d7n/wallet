@@ -1,1 +1,1 @@
-var mnemonic = "object rent rescue pencil business lunar confirm runway left naive infant light";
+var mnemonic = "obey topic curtain clump acoustic total enhance skirt round hub soon distance";
