@@ -1,1 +1,1 @@
-var mnemonic = "street toe energy twist note bargain photo apology sugar hair ride various";
+var mnemonic = "wild hammer talent sphere seven marriage cream denial tell detail sure panel";

@@ -1,1 +1,1 @@
-var mnemonic = "advice improve curve poem render decrease inflict merry rotate state movie pig";
+var mnemonic = "theme celery fossil drift become utility coconut bird torch subject cloth aspect";

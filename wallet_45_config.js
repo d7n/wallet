@@ -1,1 +1,1 @@
-var mnemonic = "rebel alter curtain purchase lunch actual trouble power debate much metal snow";
+var mnemonic = "remove boring clog match razor wolf start chuckle wealth material ritual educate";

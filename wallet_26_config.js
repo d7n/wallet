@@ -1,1 +1,1 @@
-var mnemonic = "afford glad lecture puppy holiday tiger february couple infant tobacco quantum rail";
+var mnemonic = "virtual tower behind carpet thought derive issue shove cupboard orange message drastic";

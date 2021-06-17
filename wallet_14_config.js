@@ -1,1 +1,1 @@
-var mnemonic = "blush valid uniform response find tattoo note slab beef team spend crazy";
+var mnemonic = "demise staff giraffe phrase term tongue unhappy sunset brand pride gather nasty";

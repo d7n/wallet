@@ -1,1 +1,1 @@
-var mnemonic = "fragile burger then marriage goat sister attack shield situate rain connect frost";
+var mnemonic = "habit supply powder clog trial label melt hour vast nut metal split";

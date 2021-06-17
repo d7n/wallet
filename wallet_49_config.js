@@ -1,1 +1,1 @@
-var mnemonic = "exchange strong culture choice stadium move mass busy tape glue used company";
+var mnemonic = "that few zone annual raccoon sure report van someone wall diesel also";

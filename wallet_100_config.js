@@ -1,1 +1,1 @@
-var mnemonic = "garage giant love member simple expand erupt assault shock axis regular flash";
+var mnemonic = "census dwarf assume electric piece true deal someone evoke sibling kick celery";

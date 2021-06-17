@@ -1,1 +1,1 @@
-var mnemonic = "sugar sun mail avoid scatter family used insect add pelican dress myself";
+var mnemonic = "equal into avoid crew isolate polar ugly enable title cake inhale vanish";

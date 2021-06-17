@@ -1,1 +1,1 @@
-var mnemonic = "arrest crunch end letter chaos liar same omit release shed banana stool";
+var mnemonic = "fever glance connect scrub warrior balcony energy moon lawn excuse quantum party";

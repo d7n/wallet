@@ -1,1 +1,1 @@
-var mnemonic = "exile shrimp pottery birth birth theme decorate simple verb recycle expect push";
+var mnemonic = "fresh sniff shy dress increase drama order soda barely crack weather float";

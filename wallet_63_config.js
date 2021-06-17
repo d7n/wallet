@@ -1,1 +1,1 @@
-var mnemonic = "thing solution pen alter nominee special symptom silver remain decorate zoo battle";
+var mnemonic = "music guitar bright kind lazy private glue wool average ten magnet pistol";

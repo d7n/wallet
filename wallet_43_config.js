@@ -1,1 +1,1 @@
-var mnemonic = "rail ready state lazy fluid hair gown helmet render note coconut great";
+var mnemonic = "tower exist assume orphan swim huge skirt road release clown inhale steak";

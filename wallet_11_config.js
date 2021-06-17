@@ -1,1 +1,1 @@
-var mnemonic = "verify news sister kingdom upset toddler bottom raccoon risk luxury cabbage huge";
+var mnemonic = "chest noise crater soup toast vacuum whip foster recall inside rifle scissors";

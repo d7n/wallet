@@ -1,1 +1,1 @@
-var mnemonic = "ribbon fortune athlete tree announce dance punch artwork wife paddle acquire crisp";
+var mnemonic = "roof moon club ignore nerve exit document wash lottery such clog relief";

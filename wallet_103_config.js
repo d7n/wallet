@@ -1,1 +1,1 @@
-var mnemonic = "over float across solution tape ceiling dismiss medal patch capital must release";
+var mnemonic = "always shaft another another orphan album buzz since weasel music adult review";

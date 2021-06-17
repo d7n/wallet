@@ -1,1 +1,1 @@
-var mnemonic = "zero zone way minor physical quote wash axis cruise advice south crop";
+var mnemonic = "movie scrub clock inflict ridge spend sorry huge deer monitor fluid peasant";

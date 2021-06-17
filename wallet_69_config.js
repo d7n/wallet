@@ -1,1 +1,1 @@
-var mnemonic = "hungry differ sting coach base habit dash figure inflict income bomb hobby";
+var mnemonic = "milk enrich fence glimpse pudding sausage tired release similar alien blood agent";

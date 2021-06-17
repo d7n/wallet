@@ -1,1 +1,1 @@
-var mnemonic = "february mesh dog cruel wealth volcano chunk transfer print problem master barrel";
+var mnemonic = "pear fuel year sell mutual plate pepper sail wealth search rack build";

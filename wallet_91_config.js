@@ -1,1 +1,1 @@
-var mnemonic = "feature clip aim ancient fault text green urban chaos basket perfect walk";
+var mnemonic = "change device ice purse cannon bomb crack flower stamp pumpkin embody tired";

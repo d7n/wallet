@@ -1,1 +1,1 @@
-var mnemonic = "exile order captain sword audit royal order alarm mass alter ivory father";
+var mnemonic = "gasp toy unfair muffin mind pluck flat useful van harsh crop capital";

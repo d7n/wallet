@@ -1,1 +1,1 @@
-var mnemonic = "resource coffee behave assist cross impulse link arrange insane million exclude mimic";
+var mnemonic = "harbor marine act version fee afford effort atom aunt tragic police obey";

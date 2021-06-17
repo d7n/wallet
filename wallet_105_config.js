@@ -1,1 +1,1 @@
-var mnemonic = "much brief place base cherry elite carbon truck view transfer trade early";
+var mnemonic = "student sniff style kiwi space ritual disagree type cloth predict glance hip";

@@ -1,1 +1,1 @@
-var mnemonic = "bless unveil thought half october nerve profit pink salt frost grant evoke";
+var mnemonic = "bring brush canoe candy sister forget bracket disorder source route erosion more";

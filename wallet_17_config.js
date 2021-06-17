@@ -1,1 +1,1 @@
-var mnemonic = "dwarf urban into trophy able canyon mosquito easy horse actress napkin shallow";
+var mnemonic = "weird senior umbrella sudden economy define dragon van dash parade sign valley";

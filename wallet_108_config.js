@@ -1,1 +1,1 @@
-var mnemonic = "mom turtle pledge laptop filter type shield winner pumpkin patch barely pyramid";
+var mnemonic = "dynamic sister jewel stem despair icon head mobile tortoise speak forest gesture";

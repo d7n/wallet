@@ -1,1 +1,1 @@
-var mnemonic = "like camp ginger execute burger ghost estate noble switch lyrics true axis";
+var mnemonic = "anchor aisle point naive draw twin fever phrase circle arch gaze devote";

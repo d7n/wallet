@@ -1,1 +1,1 @@
-var mnemonic = "crawl tide salmon captain foam sunny ocean fun diamond major across flight";
+var mnemonic = "leader peasant pole plunge arrest envelope disease drum either text voyage artist";

@@ -1,1 +1,1 @@
-var mnemonic = "behave tortoise elephant pumpkin ability lumber vapor during box label involve anger";
+var mnemonic = "mother arrow tornado sample warrior great episode air lock around tail blur";

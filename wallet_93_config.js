@@ -1,1 +1,1 @@
-var mnemonic = "lamp orchard that glide fetch donate squirrel dish frog upon pen reject";
+var mnemonic = "cycle unaware adjust gold slab fever mutual voyage fringe barrel sibling during";

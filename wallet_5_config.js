@@ -1,1 +1,1 @@
-var mnemonic = "fragile marble shoulder elephant edge reward allow saddle myself govern member drama";
+var mnemonic = "bread logic diamond stool trigger symbol fun marble client devote neutral glad";

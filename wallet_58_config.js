@@ -1,1 +1,1 @@
-var mnemonic = "aunt flag milk flee riot pistol trust chat custom tortoise daring love";
+var mnemonic = "tribe can rhythm idea timber blind hill clay canal coral please useless";

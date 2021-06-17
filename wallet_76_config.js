@@ -1,1 +1,1 @@
-var mnemonic = "reform end dinosaur stomach lunar tenant educate glove stereo dentist output scrap";
+var mnemonic = "cannon feed maximum apple clerk advance mutual cook exercise keen snack obey";

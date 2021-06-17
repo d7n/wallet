@@ -1,1 +1,1 @@
-var mnemonic = "choice toss grape oyster sting decorate confirm laptop mass lunch upper pause";
+var mnemonic = "ghost ecology shed naive divert copy picture tuition horn giggle wear remove";

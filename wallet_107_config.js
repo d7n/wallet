@@ -1,1 +1,1 @@
-var mnemonic = "circle patch gold write notice laugh year cart prepare cash female cram";
+var mnemonic = "unknown follow acid smooth clump obvious portion figure keen actual bounce file";

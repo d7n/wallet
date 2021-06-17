@@ -1,1 +1,1 @@
-var mnemonic = "rescue between stairs capital horror buffalo admit scan treat reform modify vault";
+var mnemonic = "plunge love post palm rally clock pencil naive fragile gloom evolve sock";

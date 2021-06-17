@@ -1,1 +1,1 @@
-var mnemonic = "fever measure train strategy tongue ladder submit couple glove deny loyal million";
+var mnemonic = "region arrange oak thumb spy toddler melt need morning risk cute chest";

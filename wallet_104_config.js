@@ -1,1 +1,1 @@
-var mnemonic = "loyal ask chronic payment alley fantasy humble beef identify large humor unable";
+var mnemonic = "abuse sell battle walnut inner sniff witness scissors pull timber milk river";

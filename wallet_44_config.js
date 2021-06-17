@@ -1,1 +1,1 @@
-var mnemonic = "diary must recall furnace giggle cause rare nasty gossip snake flash brief";
+var mnemonic = "sugar rookie grain scan maximum engage reopen machine demise butter industry romance";

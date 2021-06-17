@@ -1,1 +1,1 @@
-var mnemonic = "gospel parent ecology load repeat captain noise impose top hunt wasp crop";
+var mnemonic = "grief artefact ignore fat either true forum garage gather accuse pact bamboo";

@@ -1,1 +1,1 @@
-var mnemonic = "gate gun rally combine position ability actress rice acquire raise matrix devote";
+var mnemonic = "apology nephew ozone foster attract carbon scorpion alert path hurdle abuse embody";

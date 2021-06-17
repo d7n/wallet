@@ -1,1 +1,1 @@
-var mnemonic = "today blouse atom buzz garage render armed fan globe lock smoke favorite";
+var mnemonic = "umbrella link valley indicate shine soldier video fashion rebuild recall knock differ";

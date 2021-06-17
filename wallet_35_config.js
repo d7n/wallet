@@ -1,1 +1,1 @@
-var mnemonic = "loyal cinnamon glide margin walnut husband ordinary garlic shell canal pet old";
+var mnemonic = "whisper middle wheel oppose crop device unhappy spirit cycle climb rely dizzy";

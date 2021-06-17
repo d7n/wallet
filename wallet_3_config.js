@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog mandate erupt industry glare stadium science only abstract doll spy neutral";
+var mnemonic = "short giraffe honey master various baby squirrel come remain dice region obvious";

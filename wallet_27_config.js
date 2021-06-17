@@ -1,1 +1,1 @@
-var mnemonic = "crisp mule basket motor twice provide supply run engine elder fuel bronze";
+var mnemonic = "similar protect anxiety grow slide able lemon flash resource change retire achieve";

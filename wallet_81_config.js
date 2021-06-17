@@ -1,1 +1,1 @@
-var mnemonic = "invest admit raw rebuild foam caught fantasy blouse carry dilemma differ divide";
+var mnemonic = "plunge engine swing oven strike habit concert undo exile bounce else soul";

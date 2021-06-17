@@ -1,1 +1,1 @@
-var mnemonic = "hazard current cloud naive crisp fence alone legal shiver artwork penalty income";
+var mnemonic = "train physical prize bleak ugly tell usage remain total earn add library";

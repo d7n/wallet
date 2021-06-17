@@ -1,1 +1,1 @@
-var mnemonic = "eager fiber garden torch else resource afford burden kit throw tourist cloud";
+var mnemonic = "upper fog skin address banana coach maximum tell blanket media salmon robust";

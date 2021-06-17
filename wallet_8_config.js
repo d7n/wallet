@@ -1,1 +1,1 @@
-var mnemonic = "desk walnut insane fluid champion fiction bomb trash border hawk obscure neglect";
+var mnemonic = "excess today rotate dad flock palace brain pool seed gas plug say";

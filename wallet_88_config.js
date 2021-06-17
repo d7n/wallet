@@ -1,1 +1,1 @@
-var mnemonic = "weekend trophy distance describe mango solution script control rather area toddler assume";
+var mnemonic = "eyebrow gorilla stool walk forum melt job taste kit goddess fix sound";

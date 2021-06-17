@@ -1,1 +1,1 @@
-var mnemonic = "wise spin retreat afraid blind source capital random goose state good mutual";
+var mnemonic = "safe put foot file find explain moment work soft execute where play";

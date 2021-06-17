@@ -1,1 +1,1 @@
-var mnemonic = "certain chalk wash cup annual tired fun snow tuition disorder own cement";
+var mnemonic = "junior bone account glow pistol sunset hover board crack crunch action slight";

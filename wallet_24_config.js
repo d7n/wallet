@@ -1,1 +1,1 @@
-var mnemonic = "gain ring chuckle shine unknown nice foot pilot client close scatter august";
+var mnemonic = "ahead regular pledge into clog path seek song tower dragon baby caution";

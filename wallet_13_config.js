@@ -1,1 +1,1 @@
-var mnemonic = "secret orange shy power refuse depart favorite name peace million busy drill";
+var mnemonic = "shuffle divert boy ugly hour canal viable because awful knock easy turtle";

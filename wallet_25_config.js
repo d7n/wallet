@@ -1,1 +1,1 @@
-var mnemonic = "umbrella amount suffer tag loyal cabbage pizza lonely grid venue luxury fantasy";
+var mnemonic = "immense sphere fatal winter uncle divorce notable nut trip motor total mix";

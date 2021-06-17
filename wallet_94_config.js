@@ -1,1 +1,1 @@
-var mnemonic = "floor orient check quiz element stairs ill drop ready input release across";
+var mnemonic = "weird price spoon ski mind curtain target cart inspire donate crisp unveil";

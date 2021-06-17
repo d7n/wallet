@@ -1,1 +1,1 @@
-var mnemonic = "assault leg reveal vocal turn wealth bird accident upper minimum tourist absorb";
+var mnemonic = "accuse grow dog attitude vast flee liberty naive receive usual strike jaguar";

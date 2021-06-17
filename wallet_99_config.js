@@ -1,1 +1,1 @@
-var mnemonic = "dolphin rapid over plug wire mango property oven orphan minute spoon fire";
+var mnemonic = "close offer world sorry they rare demand penalty affair scatter smart travel";

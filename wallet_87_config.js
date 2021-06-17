@@ -1,1 +1,1 @@
-var mnemonic = "decade siege sun aspect pause slot cabin fit frost brass there clown";
+var mnemonic = "limb amazing abstract gym diamond arrow ready jaguar injury live oval case";

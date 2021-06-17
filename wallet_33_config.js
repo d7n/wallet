@@ -1,1 +1,1 @@
-var mnemonic = "space smile thrive bus tiger great prison fork aerobic erupt cry upon";
+var mnemonic = "bargain there swim defense bulb december odor misery ride sign hint fame";

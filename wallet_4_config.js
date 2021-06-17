@@ -1,1 +1,1 @@
-var mnemonic = "nerve worth trial proud outside path depend payment soccer crash special cherry";
+var mnemonic = "grit spice topple project target tree ozone squeeze bus image quiz fox";

@@ -1,1 +1,1 @@
-var mnemonic = "grape able frozen insane entry improve prefer basic fine isolate hour theory";
+var mnemonic = "weekend gap erase promote three celery stumble gauge gain field repair body";

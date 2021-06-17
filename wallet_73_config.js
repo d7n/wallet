@@ -1,1 +1,1 @@
-var mnemonic = "always erosion kid winner nature flat genius off birth funny wall lawsuit";
+var mnemonic = "hub father half will blade cricket caution student little slam paddle festival";

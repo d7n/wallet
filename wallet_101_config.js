@@ -1,1 +1,1 @@
-var mnemonic = "link across huge over quality movie order shrug cupboard tell appear moment";
+var mnemonic = "island bench focus staff nest grid satoshi fresh critic brisk add helmet";

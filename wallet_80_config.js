@@ -1,1 +1,1 @@
-var mnemonic = "token federal light remind height emotion safe this fox you dash theory";
+var mnemonic = "scrub walk rookie gun feed resemble boss gym flag option gallery outer";

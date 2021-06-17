@@ -1,1 +1,1 @@
-var mnemonic = "conduct unfold repeat myself dumb whisper sea source upper autumn market craft";
+var mnemonic = "ability tackle illegal shiver frown neck auto topple this crane ask slush";

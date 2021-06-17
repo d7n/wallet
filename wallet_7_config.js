@@ -1,1 +1,1 @@
-var mnemonic = "social front describe deposit dry obvious beauty fetch sail drill display post";
+var mnemonic = "club play spy earth conduct express safe siren unable craft hair category";

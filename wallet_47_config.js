@@ -1,1 +1,1 @@
-var mnemonic = "era desk interest police divide kitten found elegant chair approve define saddle";
+var mnemonic = "siege crazy boy slot city bonus about vintage know peanut system bunker";

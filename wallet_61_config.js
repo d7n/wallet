@@ -1,1 +1,1 @@
-var mnemonic = "fiction width drip obvious select book orchard steak misery female peanut find";
+var mnemonic = "weapon crumble skate harsh rocket galaxy hammer athlete hire brisk skate exclude";

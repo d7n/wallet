@@ -1,1 +1,1 @@
-var mnemonic = "globe girl divide obscure measure snack mutual nose night slab phrase connect";
+var mnemonic = "city load indicate naive bullet bird rabbit response spray since wash nothing";

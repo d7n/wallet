@@ -1,1 +1,1 @@
-var mnemonic = "forget kangaroo citizen clay alone doctor lift dry ball nerve legal region";
+var mnemonic = "coach clerk ability display click alley awkward crouch annual arrive sense interest";

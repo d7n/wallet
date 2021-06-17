@@ -1,1 +1,1 @@
-var mnemonic = "dragon shell express plunge horse glove path bunker woman fever turn first";
+var mnemonic = "tennis trip fossil addict absurd draw car cancel identify robot fiber zoo";

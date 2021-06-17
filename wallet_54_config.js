@@ -1,1 +1,1 @@
-var mnemonic = "slender fringe quarter celery crumble stick clock what trophy attack release crucial";
+var mnemonic = "point awful dignity hint host extra allow uniform october vintage sugar tribe";

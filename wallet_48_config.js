@@ -1,1 +1,1 @@
-var mnemonic = "evil husband churn clock oven claim climb ketchup since elegant inhale noble";
+var mnemonic = "junior goddess alien unfold stable great steel canyon wonder gold narrow excess";

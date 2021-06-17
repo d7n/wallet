@@ -1,1 +1,1 @@
-var mnemonic = "tray flat hungry health leisure lounge remain address grit right coffee move";
+var mnemonic = "joy vendor onion solve tissue snap sting cereal resource atom six spy";

@@ -1,1 +1,1 @@
-var mnemonic = "fold glare firm brass valley helmet vehicle rhythm cushion crash sweet snap";
+var mnemonic = "discover crane state mystery toast jacket abuse burst year fly radar slim";

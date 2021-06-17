@@ -1,1 +1,1 @@
-var mnemonic = "detail dream general frozen erosion drift crunch soap clay destroy insane gossip";
+var mnemonic = "fork rely captain hire brass install other problem proud mutual girl forward";

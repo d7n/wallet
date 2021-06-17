@@ -1,1 +1,1 @@
-var mnemonic = "upset medal abuse height own rose rude squirrel shrug like segment ten";
+var mnemonic = "rule diet puzzle decorate bird nose foot dune thought loop bachelor gallery";

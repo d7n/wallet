@@ -1,1 +1,1 @@
-var mnemonic = "squeeze hazard salute smooth mansion clap alcohol arrive kiss person blossom indoor";
+var mnemonic = "balcony boring domain safe outer wire reunion year sunset drastic before liar";

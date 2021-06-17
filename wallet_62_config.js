@@ -1,1 +1,1 @@
-var mnemonic = "alarm boost cute error rather toast person cool foam effort milk mercy";
+var mnemonic = "best require lock prefer quiz shrimp wrestle umbrella tiger decade kitchen asthma";

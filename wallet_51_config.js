@@ -1,1 +1,1 @@
-var mnemonic = "rug forum assist leaf medal ability conduct ride portion limit middle enemy";
+var mnemonic = "tuna deposit mammal find never inherit talk asthma maximum unable amazing drift";

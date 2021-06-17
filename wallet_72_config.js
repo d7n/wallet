@@ -1,1 +1,1 @@
-var mnemonic = "unique muffin assault funny mirror pudding hub camp off delay raccoon team";
+var mnemonic = "velvet picture denial dolphin shuffle urge entry motor cake buddy virtual paddle";

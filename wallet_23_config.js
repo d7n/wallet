@@ -1,1 +1,1 @@
-var mnemonic = "patrol beef wire gauge confirm media milk drip phone return erase lazy";
+var mnemonic = "light ice arrest solar ladder arena kit erupt museum defy label miracle";

@@ -1,1 +1,1 @@
-var mnemonic = "announce height valve tired gossip cancel mixed brush fluid book legend slab";
+var mnemonic = "funny snake raven tree special banner bone ivory step recipe amount olympic";

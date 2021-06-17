@@ -1,1 +1,1 @@
-var mnemonic = "fault front seek wear guide occur brave convince air lottery future repair";
+var mnemonic = "pool artefact glide miracle fall victory move price power next trip siege";

@@ -1,1 +1,1 @@
-var mnemonic = "museum have diagram mansion divide tiny grass liar dish cheap legal hundred";
+var mnemonic = "dawn fall fragile grass donkey frame place give wood seek tilt visit";

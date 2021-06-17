@@ -1,1 +1,1 @@
-var mnemonic = "skirt fix sniff happy provide recall broccoli punch oppose news brief dawn";
+var mnemonic = "assault pyramid member danger figure patient document cook enrich slam twelve hope";

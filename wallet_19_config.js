@@ -1,1 +1,1 @@
-var mnemonic = "filter shoot filter label prison permit afford puzzle insect define movie pave";
+var mnemonic = "time metal silk crane sock camp bundle empty unfold venture limit woman";

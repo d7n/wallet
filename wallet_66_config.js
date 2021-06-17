@@ -1,1 +1,1 @@
-var mnemonic = "lend lunar eye number frame target better fix select thumb license prize";
+var mnemonic = "pull way actress outdoor object tuna alpha battle extra uncle bright engage";
