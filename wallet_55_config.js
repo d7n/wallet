@@ -1,1 +1,1 @@
-var mnemonic = "slush hub off spy acquire brisk unknown zone plate veteran lift awkward";
+var mnemonic = "busy banana salute because grab desert wedding swamp account decrease sorry avocado";

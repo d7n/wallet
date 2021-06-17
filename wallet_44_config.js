@@ -1,1 +1,1 @@
-var mnemonic = "click raise edit lunar oyster senior debate melody hover cricket mention indicate";
+var mnemonic = "fork awful sand health powder picture avoid divide crouch wage ancient celery";

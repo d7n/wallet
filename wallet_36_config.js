@@ -1,1 +1,1 @@
-var mnemonic = "combine behave scrap fuel ancient witness siege blind relax company strike express";
+var mnemonic = "spare swamp assume ketchup design index tag mouse book erosion smile youth";

@@ -1,1 +1,1 @@
-var mnemonic = "april filter poverty utility awful assume weapon eagle multiply hedgehog blame model";
+var mnemonic = "plastic wing stable month screen merge immune will drum firm symptom lonely";

@@ -1,1 +1,1 @@
-var mnemonic = "pull mystery surface autumn leisure rabbit embrace choice bargain tortoise interest inflict";
+var mnemonic = "warm odor measure beach wing board pause uniform mother mango grass depth";

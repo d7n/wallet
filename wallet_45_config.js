@@ -1,1 +1,1 @@
-var mnemonic = "fashion surprise toss business sudden gentle cliff security liberty window cliff tomorrow";
+var mnemonic = "same spare lunar mandate coyote diamond dutch shine nature split decide prison";

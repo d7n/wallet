@@ -1,1 +1,1 @@
-var mnemonic = "cake march frost fabric seminar now push spell blood near satoshi funny";
+var mnemonic = "light machine rabbit crane any two expect blouse radio heavy moment tunnel";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle unhappy obvious cycle author subway display people poet recipe motor retreat";
+var mnemonic = "side punch involve convince suffer tired armed cancel arch destroy peasant web";

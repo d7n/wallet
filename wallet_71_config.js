@@ -1,1 +1,1 @@
-var mnemonic = "omit nerve observe cake anxiety drill east pulp embody vibrant work custom";
+var mnemonic = "scene bonus divorce toss output sell angle vintage fly tumble practice column";

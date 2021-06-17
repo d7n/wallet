@@ -1,1 +1,1 @@
-var mnemonic = "hunt smart copper sniff gospel yard volume asthma more omit cave destroy";
+var mnemonic = "list rubber match solve salad buffalo know hill romance double trouble shrimp";

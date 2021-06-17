@@ -1,1 +1,1 @@
-var mnemonic = "innocent flavor mechanic very hidden faith rebuild coconut thrive muscle route slight";
+var mnemonic = "inquiry lumber easily same vanish attract drum symptom width cake layer girl";

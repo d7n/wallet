@@ -1,1 +1,1 @@
-var mnemonic = "snake second pause enact awkward alley venue can visual useless record brass";
+var mnemonic = "middle parade require grab tape any crane glimpse match rotate zero pact";

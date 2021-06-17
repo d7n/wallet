@@ -1,1 +1,1 @@
-var mnemonic = "document motion nose immense small few example giraffe immune special comfort rebel";
+var mnemonic = "select bulk lamp age various human crazy only aspect bind enough actress";

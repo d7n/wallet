@@ -1,1 +1,1 @@
-var mnemonic = "elbow squeeze auction hedgehog dragon hero parrot perfect buyer chief fruit okay";
+var mnemonic = "crucial upgrade dragon erase machine exercise indoor soft coyote radar lecture debris";

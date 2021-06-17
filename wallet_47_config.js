@@ -1,1 +1,1 @@
-var mnemonic = "clean witness chunk hidden general suspect hazard joy virus favorite keen excuse";
+var mnemonic = "attitude garlic rather valve engine canoe cereal mother prosper duck town lizard";

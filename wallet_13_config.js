@@ -1,1 +1,1 @@
-var mnemonic = "volume limit amateur fat then muffin style romance coral sheriff method manage";
+var mnemonic = "catch job village release energy pitch awake expect grocery wrist shaft thunder";

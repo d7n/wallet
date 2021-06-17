@@ -1,1 +1,1 @@
-var mnemonic = "aware right cigar monster puppy imitate fat frame disease hen chimney animal";
+var mnemonic = "clever mom express suspect sure multiply man heart liar omit permit plastic";

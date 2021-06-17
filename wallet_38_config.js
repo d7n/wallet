@@ -1,1 +1,1 @@
-var mnemonic = "cabin always catalog solution borrow mesh pretty scout cattle color lizard turtle";
+var mnemonic = "topple border display scare lyrics guilt life unable sell task angry border";

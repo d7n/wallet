@@ -1,1 +1,1 @@
-var mnemonic = "soda decade tube such brass distance fashion arch can fine apology fancy";
+var mnemonic = "assault mix neutral shove just puzzle bring undo large table aim field";

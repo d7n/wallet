@@ -1,1 +1,1 @@
-var mnemonic = "fee recipe choice pony sock coach clarify sudden brother lobster pudding pause";
+var mnemonic = "flight hard ghost bacon talk arena addict acquire pledge olympic deal code";

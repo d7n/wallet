@@ -1,1 +1,1 @@
-var mnemonic = "boy manual palm crush pony ridge card culture beyond trim fiction road";
+var mnemonic = "shrug twelve senior autumn outer grid elephant wish mass advice scatter potato";

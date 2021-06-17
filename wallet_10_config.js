@@ -1,1 +1,1 @@
-var mnemonic = "oyster hammer prosper wood must embrace unaware day raccoon cage liberty consider";
+var mnemonic = "law devote vast nation judge ceiling hill hour average cave clown fence";

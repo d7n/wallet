@@ -1,1 +1,1 @@
-var mnemonic = "casual planet snap just bag mesh vault recall special zone cliff sort";
+var mnemonic = "valley twice ten clinic reject scissors desert brown fantasy endorse upon rude";

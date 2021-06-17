@@ -1,1 +1,1 @@
-var mnemonic = "plate wrist dove kit sunset depth close innocent attract tired agree labor";
+var mnemonic = "dismiss ensure female hunt attract culture actual piece midnight release market wage";

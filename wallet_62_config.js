@@ -1,1 +1,1 @@
-var mnemonic = "fluid chimney pink area blossom country oxygen flower melody crumble boost mind";
+var mnemonic = "stereo drive dinosaur oppose abandon onion gown frown owner rail demand plate";

@@ -1,1 +1,1 @@
-var mnemonic = "wolf quarter later crop bird foster card evolve october bicycle anchor afraid";
+var mnemonic = "can theme deputy girl blame mule insane tribe basic laugh rival volume";

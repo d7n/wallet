@@ -1,1 +1,1 @@
-var mnemonic = "ranch student enact all say shell dumb elite buffalo diamond shift beauty";
+var mnemonic = "scheme result front group armed wood tackle hour train margin brass buddy";

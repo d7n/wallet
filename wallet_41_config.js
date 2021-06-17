@@ -1,1 +1,1 @@
-var mnemonic = "jealous hill copper trade series doll ridge detect stick hand school leader";
+var mnemonic = "chicken pole plastic female swarm small hover genuine choose history when output";

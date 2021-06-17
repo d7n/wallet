@@ -1,1 +1,1 @@
-var mnemonic = "thing document device there increase help orange armor stone enable push pink";
+var mnemonic = "scrub become update other dust embark keep drive novel conduct they stove";

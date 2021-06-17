@@ -1,1 +1,1 @@
-var mnemonic = "stove warfare stone scrap rebuild dry hope weekend calm cliff govern demand";
+var mnemonic = "broken canoe final pool card clock have actress green hero spot oak";

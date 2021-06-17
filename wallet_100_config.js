@@ -1,1 +1,1 @@
-var mnemonic = "sunny thumb peace lunch spawn patch aspect april wealth unique stable destroy";
+var mnemonic = "tissue height update match layer scout connect merry vast catalog define consider";

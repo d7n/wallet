@@ -1,1 +1,1 @@
-var mnemonic = "you school pizza forward talk dose section prize shadow shy route slide";
+var mnemonic = "prosper disease boy guitar motion possible slide pole orbit anchor cushion sorry";

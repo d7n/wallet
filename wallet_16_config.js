@@ -1,1 +1,1 @@
-var mnemonic = "recycle rubber gorilla mystery exact embrace dignity chimney chef toddler civil artist";
+var mnemonic = "alarm exercise winter tool local reward balcony model save accident frozen doll";

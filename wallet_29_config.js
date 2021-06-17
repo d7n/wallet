@@ -1,1 +1,1 @@
-var mnemonic = "oxygen reason jump left best settle cabin expose web barely goat water";
+var mnemonic = "rifle peace humor gate fashion twelve sweet mule vanish crack oak hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "blind regular abuse lens chase lucky april gadget twist fluid news crumble";
+var mnemonic = "december fit six hollow shop seat convince belt word slice matrix assist";

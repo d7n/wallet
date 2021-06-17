@@ -1,1 +1,1 @@
-var mnemonic = "waste pull make woman nerve stand favorite twelve portion base family version";
+var mnemonic = "excite twist sight inquiry crisp alter guard symptom eight quarter liar obey";

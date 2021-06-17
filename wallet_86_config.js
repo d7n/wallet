@@ -1,1 +1,1 @@
-var mnemonic = "napkin miracle shove unit describe ivory always circle sword gospel bitter cancel";
+var mnemonic = "ignore stage moon spot dish bulk wool always child property swap stamp";

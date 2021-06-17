@@ -1,1 +1,1 @@
-var mnemonic = "lunch donor chicken omit lens tomato donate sand slush myth air raven";
+var mnemonic = "fee inquiry hurt region arm winner skin lake yellow jealous used satoshi";

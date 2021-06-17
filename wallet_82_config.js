@@ -1,1 +1,1 @@
-var mnemonic = "gospel pretty drop congress fence pulp shell cart piano approve virtual major";
+var mnemonic = "educate exhaust strike match multiply warrior deer pistol creek meadow flash grace";

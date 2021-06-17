@@ -1,1 +1,1 @@
-var mnemonic = "yard mercy trigger execute piano sphere floor decline forum school enemy nerve";
+var mnemonic = "tail industry still penalty absorb dog infant coral canvas test fortune estate";

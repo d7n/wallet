@@ -1,1 +1,1 @@
-var mnemonic = "friend cave omit super boat wait pause use trash just deposit document";
+var mnemonic = "october silent hair siege report few regular lounge olive slow still estate";

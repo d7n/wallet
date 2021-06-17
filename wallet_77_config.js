@@ -1,1 +1,1 @@
-var mnemonic = "fragile novel identify rally vessel juice dignity negative neglect provide humble knock";
+var mnemonic = "coin try wedding diet dragon proof student web lecture train defy pulp";

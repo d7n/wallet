@@ -1,1 +1,1 @@
-var mnemonic = "left make radio credit lava dismiss puzzle secret merry hub glimpse pluck";
+var mnemonic = "myself employ blue later like release bitter predict trigger forest great coffee";

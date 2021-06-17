@@ -1,1 +1,1 @@
-var mnemonic = "frown shaft foil foster entire saddle genius fiction reason write senior pipe";
+var mnemonic = "test make garden dwarf muscle cheese goat immune sausage hockey library once";

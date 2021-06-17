@@ -1,1 +1,1 @@
-var mnemonic = "discover kind cat install rapid reject together suggest obey comfort found shoe";
+var mnemonic = "crawl achieve cherry vocal foster taste radar core penalty keep bitter embrace";

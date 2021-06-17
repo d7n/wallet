@@ -1,1 +1,1 @@
-var mnemonic = "vacuum struggle fit neither into vocal addict antique energy inhale caught issue";
+var mnemonic = "sunny label process office spy follow sentence allow frame monster siege trip";

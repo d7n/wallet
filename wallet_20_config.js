@@ -1,1 +1,1 @@
-var mnemonic = "imitate item toss feature loud beef valley produce taxi gravity patch marriage";
+var mnemonic = "tail very runway imitate pitch chimney comic flavor slight snack legend leaf";

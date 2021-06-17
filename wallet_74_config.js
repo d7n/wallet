@@ -1,1 +1,1 @@
-var mnemonic = "loop idea idle victory absorb diary ghost tourist hungry virus bargain boring";
+var mnemonic = "spoon history make race amateur patch half slow crazy donate try boy";

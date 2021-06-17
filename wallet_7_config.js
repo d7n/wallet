@@ -1,1 +1,1 @@
-var mnemonic = "slogan phrase auction shoulder almost smoke like discover panda fuel annual perfect";
+var mnemonic = "smooth raccoon believe inside expect demand fee lyrics vast error erupt knife";

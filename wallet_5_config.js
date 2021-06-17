@@ -1,1 +1,1 @@
-var mnemonic = "goose husband relief start slab dinner stool soul language census scout total";
+var mnemonic = "pen mad jacket file average estate pride promote task fluid circle isolate";

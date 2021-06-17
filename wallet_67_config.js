@@ -1,1 +1,1 @@
-var mnemonic = "develop trip order price palm april change kitchen knee rug drift size";
+var mnemonic = "always muscle staff scrub horn arm tonight asset robot creek myself three";

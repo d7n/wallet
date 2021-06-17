@@ -1,1 +1,1 @@
-var mnemonic = "subject warm jump blue praise crazy need avoid grow solution vibrant square";
+var mnemonic = "candy clerk dumb robust humble dose cricket fog pole faculty often metal";

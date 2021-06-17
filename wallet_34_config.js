@@ -1,1 +1,1 @@
-var mnemonic = "draw flame candy body wrong pear raccoon hedgehog remind once soul base";
+var mnemonic = "tilt empty tragic popular visa envelope beef deny angle toe fly poem";

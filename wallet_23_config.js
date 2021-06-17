@@ -1,1 +1,1 @@
-var mnemonic = "mixture dial great lunch home chronic path verify wash cool cream slight";
+var mnemonic = "guilt assault extend imitate noise jar lunch renew struggle crisp mention come";

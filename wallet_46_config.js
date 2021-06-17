@@ -1,1 +1,1 @@
-var mnemonic = "assume typical slam wire obey embrace notable detect quantum leader tenant mango";
+var mnemonic = "palm pulp scatter basket obscure void practice banana notice prepare leopard connect";

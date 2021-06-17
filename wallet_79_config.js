@@ -1,1 +1,1 @@
-var mnemonic = "session way exit network more skill eagle camera true response impulse situate";
+var mnemonic = "orient match deputy summer canvas during fatigue such wisdom scissors nice alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "now explain obey credit pudding tomorrow thumb wine peasant famous hold kit";
+var mnemonic = "valve rifle test level transfer mix decorate friend special diagram salon ostrich";

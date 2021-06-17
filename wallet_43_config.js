@@ -1,1 +1,1 @@
-var mnemonic = "sad green release doctor critic coral wash maple brisk oxygen forum feel";
+var mnemonic = "fragile helmet caught bundle scheme tip crack immense accuse elephant inside tide";

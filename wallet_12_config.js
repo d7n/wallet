@@ -1,1 +1,1 @@
-var mnemonic = "extend delay aisle open plug hood fun stick hurry there spray share";
+var mnemonic = "typical tip reveal frame repeat obtain junk rigid catalog style dial snake";

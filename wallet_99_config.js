@@ -1,1 +1,1 @@
-var mnemonic = "glow tag river vintage better square crater neither strong taxi occur announce";
+var mnemonic = "bomb conduct illness rubber mail love stool online state reopen primary suffer";

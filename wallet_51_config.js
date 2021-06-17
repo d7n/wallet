@@ -1,1 +1,1 @@
-var mnemonic = "mansion shoe cradle auction plastic world daughter planet nurse fabric vast student";
+var mnemonic = "rough flock public finish end once pretty boil theme output ugly assist";

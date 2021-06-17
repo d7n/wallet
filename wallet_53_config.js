@@ -1,1 +1,1 @@
-var mnemonic = "canvas key route two dirt expose tilt enable cost visa climb chimney";
+var mnemonic = "derive away fish tooth agree canvas pole divide car reduce crowd mean";

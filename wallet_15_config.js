@@ -1,1 +1,1 @@
-var mnemonic = "all silly certain famous foot invite snow version sword scheme catalog punch";
+var mnemonic = "blur carpet coast metal glimpse fortune rebuild scorpion jaguar nasty point panda";

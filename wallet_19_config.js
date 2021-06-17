@@ -1,1 +1,1 @@
-var mnemonic = "wife window clutch shield sword width finger involve tumble wire session rib";
+var mnemonic = "flight muffin curtain devote ridge palm car pulp tennis scrub river alien";

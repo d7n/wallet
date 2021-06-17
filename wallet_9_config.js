@@ -1,1 +1,1 @@
-var mnemonic = "this start oblige like reopen orphan scene dwarf measure canvas hole duck";
+var mnemonic = "clap aim hair emotion car tomato disagree drop you regret rubber surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "license rate eight script crash enlist sniff buzz drop picnic swamp service";
+var mnemonic = "lava intact aunt raccoon large limb job hover quick trap differ rapid";

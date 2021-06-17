@@ -1,1 +1,1 @@
-var mnemonic = "jewel flee artist february average shield one mimic robust track swim voice";
+var mnemonic = "appear coach lemon screen space easily brown idle then sorry sibling wheat";

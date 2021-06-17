@@ -1,1 +1,1 @@
-var mnemonic = "taxi cry pencil awkward question mad alley volcano choose hazard ancient swap";
+var mnemonic = "elder hero horse pledge high cash supply bid that catch cloth garage";

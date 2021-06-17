@@ -1,1 +1,1 @@
-var mnemonic = "deliver damage tribe kitchen height crew prosper weekend excuse convince bubble thought";
+var mnemonic = "long shaft dash puppy universe galaxy hotel trick agree small carbon exist";

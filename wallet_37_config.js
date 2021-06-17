@@ -1,1 +1,1 @@
-var mnemonic = "broom lounge extend mutual harsh summer special loan solve cheese catalog nurse";
+var mnemonic = "tuition cliff person glory clutch muffin hover outer seminar erode master entry";

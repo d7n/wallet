@@ -1,1 +1,1 @@
-var mnemonic = "kick cloth gain chicken tree hire coin neutral broccoli surface cage nurse";
+var mnemonic = "story earth arrive dinner orbit exercise place castle enter tomorrow horror often";

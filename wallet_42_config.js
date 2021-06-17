@@ -1,1 +1,1 @@
-var mnemonic = "modify ride ready gentle mule cloud peace dinosaur game make observe left";
+var mnemonic = "correct reveal wood art lecture coyote repair invest equal junior dentist topple";

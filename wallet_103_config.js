@@ -1,1 +1,1 @@
-var mnemonic = "witness since honey unable today spot plate shock sister fantasy steak pink";
+var mnemonic = "honey ostrich verb agent cereal sock seed music attitude fat mansion state";

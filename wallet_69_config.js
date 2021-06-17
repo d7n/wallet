@@ -1,1 +1,1 @@
-var mnemonic = "strong course leg brass used danger license broom aunt swap sight swim";
+var mnemonic = "peanut damp enough drop game common slogan tank equip segment rare hole";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal disorder soul security harvest beauty horn close amateur trim mother hockey";
+var mnemonic = "stool replace piece dove poem aunt dragon ahead defense camp farm decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "finish nuclear swarm diary weird depth crew neither depth joke ill luggage";
+var mnemonic = "turkey lift chaos coin style spring object copper stadium that tragic typical";

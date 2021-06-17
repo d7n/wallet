@@ -1,1 +1,1 @@
-var mnemonic = "popular cradle drink fat pact hazard stadium narrow rack kiss myself wrist";
+var mnemonic = "already nephew dawn move indicate father awful abstract identify found quantum moral";

@@ -1,1 +1,1 @@
-var mnemonic = "video vintage list decline question sell sleep vendor unfold pill nest document";
+var mnemonic = "grief lyrics just bracket thing tilt friend churn cross cheap desert skill";

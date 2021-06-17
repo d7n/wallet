@@ -1,1 +1,1 @@
-var mnemonic = "attitude excuse gate country farm quarter stand left giraffe wave pyramid match";
+var mnemonic = "output physical unknown enable slogan empty sweet supply long mouse plate similar";

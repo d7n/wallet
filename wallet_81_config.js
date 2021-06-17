@@ -1,1 +1,1 @@
-var mnemonic = "fiscal pencil build power stable pause anger spin cash one before fun";
+var mnemonic = "can jungle paddle prison online pattern enable portion okay office segment door";

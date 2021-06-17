@@ -1,1 +1,1 @@
-var mnemonic = "paddle pull debate era acoustic rate party place refuse wheel garage yard";
+var mnemonic = "arm popular pretty usage sign empower soup badge pink ready true noise";

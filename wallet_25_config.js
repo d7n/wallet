@@ -1,1 +1,1 @@
-var mnemonic = "fog hazard term usage reason reduce correct enlist kit panther cinnamon pistol";
+var mnemonic = "carbon fortune shy badge leisure pretty detail vehicle pencil wet portion angry";

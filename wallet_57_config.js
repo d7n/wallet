@@ -1,1 +1,1 @@
-var mnemonic = "betray wheat stool hedgehog book slice private stumble panel test loan diary";
+var mnemonic = "furnace swing rhythm noodle village quit pistol faith wage length twenty custom";

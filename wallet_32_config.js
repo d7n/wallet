@@ -1,1 +1,1 @@
-var mnemonic = "post minimum agent ketchup neither inject object inhale boost dizzy asthma train";
+var mnemonic = "supreme hybrid fork amazing any pause name panther kitchen fox solid bar";

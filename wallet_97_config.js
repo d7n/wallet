@@ -1,1 +1,1 @@
-var mnemonic = "spoon medal old actual morning arrest alien yard merge author engine chaos";
+var mnemonic = "grocery blade silk damage fan spring sign brisk twelve journey such corn";

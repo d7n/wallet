@@ -1,1 +1,1 @@
-var mnemonic = "tooth heart help limit donate usual february profit spy because choice faculty";
+var mnemonic = "screen coconut design captain dinner lonely shift place erase forget discover story";

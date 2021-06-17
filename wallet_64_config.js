@@ -1,1 +1,1 @@
-var mnemonic = "machine coconut owner file wheel seminar else sun expire snow trip board";
+var mnemonic = "fancy happy come crush rely easily aspect only direct belt plug accident";

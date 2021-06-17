@@ -1,1 +1,1 @@
-var mnemonic = "awkward amused anchor soccer general mistake vehicle gift iron proud slam shallow";
+var mnemonic = "upper exist setup rely coin fiscal purity advice index toilet trust mouse";

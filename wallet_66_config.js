@@ -1,1 +1,1 @@
-var mnemonic = "panic throw engine cancel meadow neither section orphan wonder guide tree iron";
+var mnemonic = "shy denial fabric learn chat broom crush shuffle dilemma sorry machine jelly";

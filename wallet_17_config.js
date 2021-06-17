@@ -1,1 +1,1 @@
-var mnemonic = "antique barrel wish silver choose regular jump repeat deal salt assume nuclear";
+var mnemonic = "first expire social core suspect into surface drip become gorilla oil organ";
