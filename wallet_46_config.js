@@ -1,1 +1,1 @@
-var mnemonic = "plug garden bind online robust shock park you finger flip calm pencil";
+var mnemonic = "drastic flag popular shallow note liberty laugh tube treat public unhappy skirt";

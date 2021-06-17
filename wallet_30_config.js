@@ -1,1 +1,1 @@
-var mnemonic = "knock early derive soup canvas ridge egg detect bleak junk coffee april";
+var mnemonic = "figure private manage laundry win push about visa muffin vessel spy rescue";

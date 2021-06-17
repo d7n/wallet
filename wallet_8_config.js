@@ -1,1 +1,1 @@
-var mnemonic = "siege turn measure season tiny success above inherit below keep planet fossil";
+var mnemonic = "file direct ripple float monkey unveil scale frown buyer dash spring emotion";

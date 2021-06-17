@@ -1,1 +1,1 @@
-var mnemonic = "slab swap hard scout minute dress away van tomato small robot off";
+var mnemonic = "stock enable destroy intact audit grunt average source inch way brain digital";

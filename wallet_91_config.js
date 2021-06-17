@@ -1,1 +1,1 @@
-var mnemonic = "orient curtain robot wreck jewel knock trade usual lawsuit scheme proof nurse";
+var mnemonic = "fix square defy post echo affair mountain body define path brother style";

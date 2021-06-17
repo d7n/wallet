@@ -1,1 +1,1 @@
-var mnemonic = "vocal visit display detect renew easily draw mountain aspect fitness work human";
+var mnemonic = "oven shoot response omit axis trash garbage intact vapor evoke arm napkin";

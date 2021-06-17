@@ -1,1 +1,1 @@
-var mnemonic = "senior bench canyon add garage neglect sunset bitter valve sauce shock valid";
+var mnemonic = "next someone monitor whisper run library sign code orphan model way model";

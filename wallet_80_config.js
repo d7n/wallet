@@ -1,1 +1,1 @@
-var mnemonic = "history butter sound announce adult purchase rhythm rigid brass start sudden wear";
+var mnemonic = "faint escape glue knife soda wage blanket exclude win system cost flight";

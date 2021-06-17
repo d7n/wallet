@@ -1,1 +1,1 @@
-var mnemonic = "tail twelve before tourist rude six sausage spare solution piece salute number";
+var mnemonic = "broken mango deal area easily ladder rocket pumpkin middle hamster seat tail";

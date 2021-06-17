@@ -1,1 +1,1 @@
-var mnemonic = "village bar crop drastic keen carbon nice offer hello wheat purse dry";
+var mnemonic = "network prevent twist stove clever ritual stage brush morning soldier cabin quote";

@@ -1,1 +1,1 @@
-var mnemonic = "promote season decide zero skull law nominee person deposit prosper victory total";
+var mnemonic = "crane burden key please someone spatial crunch come retreat into course boy";

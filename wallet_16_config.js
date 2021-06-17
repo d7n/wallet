@@ -1,1 +1,1 @@
-var mnemonic = "habit limb proud orient tourist degree turn uphold erode second cluster fitness";
+var mnemonic = "enough bless together ridge spoil minor access account round shadow drastic rotate";

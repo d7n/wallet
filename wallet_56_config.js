@@ -1,1 +1,1 @@
-var mnemonic = "antenna enter law element lava flip indicate beach patch capital poet blade";
+var mnemonic = "question visa trade boat cigar squeeze copper glory ring icon hundred oblige";

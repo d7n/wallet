@@ -1,1 +1,1 @@
-var mnemonic = "winner erupt tourist add hammer exclude pistol unlock indicate cool enrich immense";
+var mnemonic = "outside rain athlete arm poem mutual useful rapid try defy symptom coil";

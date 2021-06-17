@@ -1,1 +1,1 @@
-var mnemonic = "hint boil vocal balance axis debate evoke girl bar melt fault eyebrow";
+var mnemonic = "gentle lunar undo equal wear pond fragile planet diesel moral chimney reform";

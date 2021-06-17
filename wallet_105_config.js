@@ -1,1 +1,1 @@
-var mnemonic = "lizard time grid ozone wear side stadium crater muffin gather powder dolphin";
+var mnemonic = "farm prosper boring midnight heavy foot lucky across pattern audit million draft";

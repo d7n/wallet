@@ -1,1 +1,1 @@
-var mnemonic = "estate swear boil walnut era offer pill welcome coin alpha crush valve";
+var mnemonic = "detect sausage cabbage neutral ensure brown eye exercise daring oak busy purchase";

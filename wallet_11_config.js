@@ -1,1 +1,1 @@
-var mnemonic = "clutch delay buddy net mystery vendor maximum level detect pulp monkey flower";
+var mnemonic = "stock hope half diary you metal visit return zoo champion have blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "sustain soap rain ship divide gold parent display upset disagree peace essay";
+var mnemonic = "enter aerobic slogan hair still black daughter west swing orbit join across";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur bunker airport cash fatal shrug math bright acquire tattoo infant frame";
+var mnemonic = "symptom tattoo equal spare nation manual riot curve weird trap cherry salmon";

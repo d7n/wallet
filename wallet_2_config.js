@@ -1,1 +1,1 @@
-var mnemonic = "salad entry need lyrics provide year rose fancy oppose quarter focus soap";
+var mnemonic = "merry antique art satisfy library school excite garment avocado scout uncle code";

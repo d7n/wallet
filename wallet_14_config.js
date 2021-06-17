@@ -1,1 +1,1 @@
-var mnemonic = "stuff into try between draw kick marriage erode help burger essence material";
+var mnemonic = "immune side live woman vicious wash someone loop wish inquiry salute recall";

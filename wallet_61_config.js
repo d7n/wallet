@@ -1,1 +1,1 @@
-var mnemonic = "balance inch rude hazard kite choice wall figure inform vacuum approve section";
+var mnemonic = "weather pull demise uniform grit brisk connect wait spider human snow witness";

@@ -1,1 +1,1 @@
-var mnemonic = "what rail muscle crash winner brave eye say unhappy urge under infant";
+var mnemonic = "tired congress fish maid style venue detect track poet gown clutch syrup";

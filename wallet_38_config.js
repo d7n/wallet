@@ -1,1 +1,1 @@
-var mnemonic = "more brand hamster flash sock across rug light eight topple mixture puzzle";
+var mnemonic = "middle answer circle aerobic amused material mimic until choose require riot grow";

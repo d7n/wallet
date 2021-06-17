@@ -1,1 +1,1 @@
-var mnemonic = "student mutual repair aisle document empty club sort journey estate wild luxury";
+var mnemonic = "special cliff screen illegal fun general tackle awkward helmet net myself edit";

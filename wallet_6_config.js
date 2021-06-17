@@ -1,1 +1,1 @@
-var mnemonic = "slight loop rent federal faint wonder upgrade keen lesson coyote cup frequent";
+var mnemonic = "peace boil diagram grace moon toward shy shop wheat gas image myself";

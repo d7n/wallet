@@ -1,1 +1,1 @@
-var mnemonic = "crunch person swallow pull wet category ribbon album awkward trial design true";
+var mnemonic = "cake tiger radar meat invest kangaroo step manage delay school unfold very";

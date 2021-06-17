@@ -1,1 +1,1 @@
-var mnemonic = "bright seat neither gap small dove erosion wrestle risk cigar gain demise";
+var mnemonic = "wreck mosquito vessel rain sign drum undo brass abuse bounce hen primary";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol rate antique lemon fury letter inhale answer include slim provide garage";
+var mnemonic = "math insane artist cave goddess theme estate arch library dress obtain error";

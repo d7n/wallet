@@ -1,1 +1,1 @@
-var mnemonic = "edge island flame limit country soda summer grow love that series boil";
+var mnemonic = "clay claim copper afford tennis quarter employ certain evoke winter festival able";

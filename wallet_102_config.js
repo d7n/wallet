@@ -1,1 +1,1 @@
-var mnemonic = "coconut festival peasant vocal sell arrest glass tent promote pilot immune glare";
+var mnemonic = "shine pigeon vital october kid cable explain rack connect capital bring tomato";

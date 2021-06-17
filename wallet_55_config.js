@@ -1,1 +1,1 @@
-var mnemonic = "valley enlist welcome frozen eyebrow trial penalty motor urge tuna tackle control";
+var mnemonic = "plate match moral green burger candy torch frost camp call brisk else";

@@ -1,1 +1,1 @@
-var mnemonic = "nice jealous okay digital unique expire say portion expect meadow essay host";
+var mnemonic = "pig grass vacuum thrive away save they day copper consider innocent tube";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn language clarify drift artist renew relief into change odor resist assault";
+var mnemonic = "connect manual onion divide clay symbol excess find manual tank venture label";

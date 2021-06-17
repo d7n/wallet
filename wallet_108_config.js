@@ -1,1 +1,1 @@
-var mnemonic = "either phrase jungle bonus trust kangaroo divert always walk what slush better";
+var mnemonic = "bus sight scan aim lounge embrace index cigar author glory pink abstract";

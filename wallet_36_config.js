@@ -1,1 +1,1 @@
-var mnemonic = "sort art that arrange manage depart mix riot impact render trophy smooth";
+var mnemonic = "still behind dignity quote emerge pet talent coin voyage same gentle toward";

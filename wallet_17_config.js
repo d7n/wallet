@@ -1,1 +1,1 @@
-var mnemonic = "mandate rose october breeze age oil easy van foil artwork rain oil";
+var mnemonic = "arrive visa find fantasy deny owner flash pipe deny oblige viable galaxy";

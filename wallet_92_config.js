@@ -1,1 +1,1 @@
-var mnemonic = "expand wave youth discover film cheap clump produce razor caught effort basket";
+var mnemonic = "fork rapid neither expect visual glide comic relief cause system tiny across";

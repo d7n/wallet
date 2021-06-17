@@ -1,1 +1,1 @@
-var mnemonic = "weekend agent sign silver hammer hurdle hobby auction intact truly keep toward";
+var mnemonic = "business employ bird method verb duty before reject process scan carpet minor";

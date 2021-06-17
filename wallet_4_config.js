@@ -1,1 +1,1 @@
-var mnemonic = "unknown foil cargo demise around story fever hurt cook latin tunnel spin";
+var mnemonic = "submit wood swamp liar stomach blame mirror business achieve sausage harbor aspect";

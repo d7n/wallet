@@ -1,1 +1,1 @@
-var mnemonic = "wrestle amused real close female brand vehicle gym mixed call rookie fossil";
+var mnemonic = "deliver sleep mother exclude bottom photo human veteran mansion jungle decade sea";

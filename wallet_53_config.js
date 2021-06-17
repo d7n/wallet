@@ -1,1 +1,1 @@
-var mnemonic = "area twist vital pretty million flush benefit area liquid junior crucial kangaroo";
+var mnemonic = "entire recall area miss they hat ride hollow envelope team wall finish";

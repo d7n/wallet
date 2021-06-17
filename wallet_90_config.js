@@ -1,1 +1,1 @@
-var mnemonic = "question half holiday play notice hurdle page else amount leaf library usage";
+var mnemonic = "supreme casino noodle peasant fancy dice remove display fold follow genius film";

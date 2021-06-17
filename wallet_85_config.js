@@ -1,1 +1,1 @@
-var mnemonic = "bundle claim offer seat famous electric pool used lion rare quarter music";
+var mnemonic = "order text rough vivid note popular stone exhaust taste cupboard photo useless";

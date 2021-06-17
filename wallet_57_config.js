@@ -1,1 +1,1 @@
-var mnemonic = "term uncover bottom focus steak buddy ring pause park denial sausage answer";
+var mnemonic = "oxygen winner parade scatter inmate joy dizzy jelly seven width pencil army";

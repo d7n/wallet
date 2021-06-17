@@ -1,1 +1,1 @@
-var mnemonic = "injury filter blade trim hard output suffer shed exhaust slot chair bag";
+var mnemonic = "tool stone victory globe forum mean trim coin lonely catalog taste accuse";

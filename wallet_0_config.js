@@ -1,1 +1,1 @@
-var mnemonic = "height magic welcome ceiling valve betray moral weekend weekend drill suit recipe";
+var mnemonic = "virus water doctor elegant shield husband sure emotion crucial orange sock never";

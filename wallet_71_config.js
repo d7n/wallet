@@ -1,1 +1,1 @@
-var mnemonic = "margin discover rival novel cereal clerk town scissors weekend aunt unveil cook";
+var mnemonic = "fat health blast prison motor voice prison famous field intact family need";

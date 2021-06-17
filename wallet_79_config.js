@@ -1,1 +1,1 @@
-var mnemonic = "attack this order horse enemy shield pave hope advice half inch fish";
+var mnemonic = "seek size radio require wish renew finger cinnamon garage trend bacon protect";

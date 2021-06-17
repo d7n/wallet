@@ -1,1 +1,1 @@
-var mnemonic = "unit pumpkin finish clown tray capable shrimp credit business cotton bronze what";
+var mnemonic = "accuse rate learn easy lion gaze gas brisk hood elegant kangaroo already";

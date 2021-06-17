@@ -1,1 +1,1 @@
-var mnemonic = "hole tomorrow drink quarter coyote avoid hip club globe notable verify process";
+var mnemonic = "reduce never stand nuclear animal pledge initial sustain struggle wedding cousin coach";

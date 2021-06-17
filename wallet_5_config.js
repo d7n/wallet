@@ -1,1 +1,1 @@
-var mnemonic = "naive high weird veteran donkey faint guide citizen document virus inner update";
+var mnemonic = "soul affair episode brisk guess desk opera match twenty burst suffer dragon";

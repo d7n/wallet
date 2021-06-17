@@ -1,1 +1,1 @@
-var mnemonic = "shield first host jewel staff amount jacket motor prepare coffee degree slush";
+var mnemonic = "capable bonus sound three volcano bulk rely deer leisure typical glide school";

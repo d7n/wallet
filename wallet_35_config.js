@@ -1,1 +1,1 @@
-var mnemonic = "child stuff witness village body mystery amused citizen furnace tone rifle corn";
+var mnemonic = "smart put oven credit bright paddle infant casual physical easy final rail";

@@ -1,1 +1,1 @@
-var mnemonic = "output pulse pet cliff chuckle sorry recipe section similar attract attitude keep";
+var mnemonic = "upper inherit spy write wheel possible sight viable you kangaroo wrap flat";

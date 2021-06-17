@@ -1,1 +1,1 @@
-var mnemonic = "manage lawsuit struggle taxi oppose deal enough delay super search regular spice";
+var mnemonic = "crouch south kiss property train use valve say lawn give congress zero";

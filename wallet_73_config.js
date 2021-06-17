@@ -1,1 +1,1 @@
-var mnemonic = "track quantum light advice toast eternal yard nut zoo push gain first";
+var mnemonic = "income ancient pretty issue wife birth poem reveal bus tobacco stand relief";

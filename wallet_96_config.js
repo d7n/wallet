@@ -1,1 +1,1 @@
-var mnemonic = "grunt account pave unhappy cave chalk addict alcohol method kiss wise fuel";
+var mnemonic = "provide ensure broccoli blade human grab water story behind between hope fee";

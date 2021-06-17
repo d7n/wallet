@@ -1,1 +1,1 @@
-var mnemonic = "betray lens tourist dragon share boring lift basic arrow valley vocal dress";
+var mnemonic = "interest inject alpha web term travel vendor virus hungry talk never deer";

@@ -1,1 +1,1 @@
-var mnemonic = "found crew sausage bar silly eagle depend warm short glow reform differ";
+var mnemonic = "veteran ethics expand trade indoor gravity reduce pilot black sick melody sick";

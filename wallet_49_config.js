@@ -1,1 +1,1 @@
-var mnemonic = "exclude filter crouch canal refuse wife repair expand upper six jungle library";
+var mnemonic = "powder song wash struggle skate order snack walk cactus leopard raise evidence";

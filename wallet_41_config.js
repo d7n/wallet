@@ -1,1 +1,1 @@
-var mnemonic = "slush affair hill night unveil crime shed city future amateur upon trophy";
+var mnemonic = "casual wonder tell joy split amazing safe clip announce knock staff muffin";

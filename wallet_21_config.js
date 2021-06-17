@@ -1,1 +1,1 @@
-var mnemonic = "photo run primary glove hub cupboard century robot exchange earn truck struggle";
+var mnemonic = "disagree grab vibrant boss calm payment spider mandate bean myth rabbit float";

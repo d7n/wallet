@@ -1,1 +1,1 @@
-var mnemonic = "gasp oval neither seek fury sorry silver ocean fragile enjoy smart fat";
+var mnemonic = "pass october amazing host charge kitten stem squeeze require scan social bone";

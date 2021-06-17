@@ -1,1 +1,1 @@
-var mnemonic = "flight save dragon chest genuine more brother track total camera forest victory";
+var mnemonic = "resource error mushroom chunk word indoor scan scorpion novel load donor release";

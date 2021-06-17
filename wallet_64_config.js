@@ -1,1 +1,1 @@
-var mnemonic = "foster change polar acoustic strategy february relief mom vault rose exclude myth";
+var mnemonic = "beauty lonely hundred thunder demand claw nominee champion finger tonight attend kiss";

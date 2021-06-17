@@ -1,1 +1,1 @@
-var mnemonic = "sign goddess shock toddler evolve put cinnamon airport genius finger impact champion";
+var mnemonic = "shock steak sleep property flip equal crucial enjoy rigid way floor glance";

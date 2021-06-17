@@ -1,1 +1,1 @@
-var mnemonic = "deny tomorrow other stem evil auction chalk donor leader total hotel comic";
+var mnemonic = "bright direct scrub pony nerve cheese order despair polar acoustic open right";

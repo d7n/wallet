@@ -1,1 +1,1 @@
-var mnemonic = "excite donate genuine session body fun aunt step convince number olympic book";
+var mnemonic = "vendor caught goddess stay wealth model giraffe accident clump before link source";

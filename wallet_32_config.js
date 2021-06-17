@@ -1,1 +1,1 @@
-var mnemonic = "morning theme credit dutch basic wage where quality merit enjoy behave cover";
+var mnemonic = "disease seminar then memory stick blade ball group frog join sentence beef";

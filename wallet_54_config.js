@@ -1,1 +1,1 @@
-var mnemonic = "ensure multiply drink misery ethics antenna obey relief lady discover promote supply";
+var mnemonic = "school duty special divorce ancient camera orphan cable north crowd assist estate";

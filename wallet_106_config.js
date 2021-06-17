@@ -1,1 +1,1 @@
-var mnemonic = "mule fitness rocket lake release income swamp assume major device resist lobster";
+var mnemonic = "genre rocket cat worry rack olympic auto raw length risk gown harsh";

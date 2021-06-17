@@ -1,1 +1,1 @@
-var mnemonic = "coach tide hope purchase air dutch ball echo excess bridge river before";
+var mnemonic = "depth time still radar spend spray flat horn drop remove warm shrug";

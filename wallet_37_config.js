@@ -1,1 +1,1 @@
-var mnemonic = "arena rotate job picture dial avocado puzzle sibling fragile remind pluck arch";
+var mnemonic = "welcome abuse master ceiling vehicle rally click orphan faith reward slot trial";

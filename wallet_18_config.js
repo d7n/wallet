@@ -1,1 +1,1 @@
-var mnemonic = "squeeze rack exhibit welcome thought base ignore glory parade badge resist seminar";
+var mnemonic = "shine primary farm modify palace castle plug fringe swim crew trade club";

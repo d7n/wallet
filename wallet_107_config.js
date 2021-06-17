@@ -1,1 +1,1 @@
-var mnemonic = "island duty loyal left glare energy infant senior lens never book game";
+var mnemonic = "bamboo cave wall turn tool man piece unique picture flash tornado coconut";

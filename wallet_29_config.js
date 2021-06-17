@@ -1,1 +1,1 @@
-var mnemonic = "pause side stamp debris garlic prosper have pattern private tool another gorilla";
+var mnemonic = "armed frame weapon clog spin effort husband sausage beauty worry about tongue";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent tumble tackle water equal thrive nut road ten roast breeze artist";
+var mnemonic = "slide barrel fiction mention famous check pause spy venture jump silk crunch";

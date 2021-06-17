@@ -1,1 +1,1 @@
-var mnemonic = "congress you pigeon scan search keen canvas choose neck waste stick where";
+var mnemonic = "write tag sick gift virus wing together problem electric example cannon size";

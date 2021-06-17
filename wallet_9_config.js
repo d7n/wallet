@@ -1,1 +1,1 @@
-var mnemonic = "nose merge direct tube twin liquid fitness riot marriage around topic risk";
+var mnemonic = "brand share follow course plastic grocery novel dream meat trend sponsor detail";

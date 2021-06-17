@@ -1,1 +1,1 @@
-var mnemonic = "wrong loud finish tray myself local toward indoor song screen enact photo";
+var mnemonic = "attend trumpet gauge eight sure picture suffer armor unaware position correct park";

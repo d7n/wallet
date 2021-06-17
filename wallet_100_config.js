@@ -1,1 +1,1 @@
-var mnemonic = "taxi click giraffe camera toward timber shaft odor dry abandon yard raven";
+var mnemonic = "wagon cactus foil muscle spike once metal trust sort inflict mercy lawsuit";

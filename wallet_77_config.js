@@ -1,1 +1,1 @@
-var mnemonic = "total promote that leg toy home bridge film start soldier useful afford";
+var mnemonic = "cost stamp obey siren glare web town crystal plug apart clog seek";

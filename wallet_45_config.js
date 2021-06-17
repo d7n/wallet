@@ -1,1 +1,1 @@
-var mnemonic = "car fluid float globe upgrade zoo veteran arch symbol smooth race diamond";
+var mnemonic = "boy trend expect host abuse pig famous soul appear fine various ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "shove student trumpet craft thunder dance grief universe quality fury animal interest";
+var mnemonic = "saddle hotel result cage clarify weasel jelly north horse vintage guilt drop";

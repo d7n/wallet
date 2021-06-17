@@ -1,1 +1,1 @@
-var mnemonic = "squirrel absent blossom retreat push zoo grid oyster borrow lucky jewel tray";
+var mnemonic = "spray girl discover dizzy crisp attend sauce bag tornado clog claw nurse";

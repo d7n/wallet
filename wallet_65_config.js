@@ -1,1 +1,1 @@
-var mnemonic = "moral wheat whip dawn spice onion myself isolate moment draft load glad";
+var mnemonic = "taxi trick ritual hello palace pitch village vivid seminar hunt diagram tray";

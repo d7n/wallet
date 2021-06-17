@@ -1,1 +1,1 @@
-var mnemonic = "trumpet zone kangaroo ramp wedding jacket equal food decrease lumber strategy staff";
+var mnemonic = "proof tragic parrot auto coil repair column strong liberty friend foot vanish";

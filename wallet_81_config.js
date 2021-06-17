@@ -1,1 +1,1 @@
-var mnemonic = "false fury illegal river suit virus inner top sock mosquito knife left";
+var mnemonic = "choice negative infant soup either soccer clarify buddy margin useless lawn okay";

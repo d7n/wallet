@@ -1,1 +1,1 @@
-var mnemonic = "rare account inmate fragile economy deposit moral lamp student spider collect few";
+var mnemonic = "divide hello pulse symptom fossil run hello virus call repair clog depth";

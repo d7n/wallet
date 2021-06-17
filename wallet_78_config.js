@@ -1,1 +1,1 @@
-var mnemonic = "drastic clip casino cash tilt predict cattle nothing chapter pride entire year";
+var mnemonic = "accident bonus hover naive toward remember distance wine entire spin elephant own";
