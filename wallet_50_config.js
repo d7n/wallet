@@ -1,1 +1,1 @@
-var mnemonic = "grief chicken time peanut sister tray kite lecture paper miracle snow fever";
+var mnemonic = "wasp leisure stool layer frog motion vivid cloth penalty public lucky frost";

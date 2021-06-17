@@ -1,1 +1,1 @@
-var mnemonic = "crazy shoe neither relax rhythm trigger love become lunar poem sword aspect";
+var mnemonic = "gather dinner thrive puppy cactus client push enemy border private shell fly";

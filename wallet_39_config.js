@@ -1,1 +1,1 @@
-var mnemonic = "urban across dove tank mango grocery fox limb trial file mesh guide";
+var mnemonic = "topic current arrest key media hotel hand artefact again slush material relief";

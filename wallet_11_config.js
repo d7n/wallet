@@ -1,1 +1,1 @@
-var mnemonic = "saddle drink clever ship carpet purse debris lounge slab inhale identify online";
+var mnemonic = "alert farm cushion brain dirt human retire priority tackle project foil return";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity often about scrap ivory craft shrimp boring garage water behave cost";
+var mnemonic = "inflict gold chest rapid length auto phrase differ brush boat climb rapid";

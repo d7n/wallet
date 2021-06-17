@@ -1,1 +1,1 @@
-var mnemonic = "world maze half noble struggle option saddle cement festival symbol prison toy";
+var mnemonic = "convince oyster strategy steel just moment gadget captain catch shadow fun glow";

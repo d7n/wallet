@@ -1,1 +1,1 @@
-var mnemonic = "pride battle off baby connect vital book sense yellow trigger hint history";
+var mnemonic = "quarter piece angry team ranch trip price palace middle answer budget legend";

@@ -1,1 +1,1 @@
-var mnemonic = "casual vapor spider live dove crime addict canal faculty flag pigeon prosper";
+var mnemonic = "wait mean edit canoe easy insane car blame grace bundle shaft assist";

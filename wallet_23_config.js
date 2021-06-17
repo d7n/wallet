@@ -1,1 +1,1 @@
-var mnemonic = "genuine resource reform lift melody stuff rubber lemon fantasy grow voice recall";
+var mnemonic = "husband ginger million raven love innocent thank whisper room mirror mistake elder";

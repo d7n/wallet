@@ -1,1 +1,1 @@
-var mnemonic = "solid assume lava wasp praise version anger achieve dad head vicious dice";
+var mnemonic = "note taste elephant system today popular parent alcohol undo cruel food win";

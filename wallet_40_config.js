@@ -1,1 +1,1 @@
-var mnemonic = "twice advance lottery voice demand confirm immune feature fun pulp job wheat";
+var mnemonic = "basket lock hidden climb current surface mercy pumpkin forward scout talk travel";

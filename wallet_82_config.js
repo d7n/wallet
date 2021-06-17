@@ -1,1 +1,1 @@
-var mnemonic = "add danger pitch shield head hazard secret fly joy give style race";
+var mnemonic = "airport note bonus option liquid lounge electric shrug zone will tourist visit";

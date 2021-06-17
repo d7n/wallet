@@ -1,1 +1,1 @@
-var mnemonic = "hover calm truth perfect hundred group cancel cliff into chef add write";
+var mnemonic = "region road unique shoot tomato uniform balcony slide also sound car sponsor";

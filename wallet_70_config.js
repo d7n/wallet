@@ -1,1 +1,1 @@
-var mnemonic = "mask laundry dad staff ranch boy nest club expand father venue upon";
+var mnemonic = "snap raise measure razor insect outdoor confirm decrease net always giant orchard";

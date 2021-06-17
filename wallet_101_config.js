@@ -1,1 +1,1 @@
-var mnemonic = "food option swim embody error spatial adult shed afraid nephew proud bamboo";
+var mnemonic = "open love regular notice poem rabbit stone law dove sock cube shy";

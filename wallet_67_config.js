@@ -1,1 +1,1 @@
-var mnemonic = "good letter long violin frequent pigeon later absurd organ access cook prize";
+var mnemonic = "member permit vanish ready catch civil angle cruel cram loop live orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "vote ozone gravity sure mammal orbit like pizza coast attend clever eternal";
+var mnemonic = "change mind problem siren code van check acquire adapt decide ostrich love";

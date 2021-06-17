@@ -1,1 +1,1 @@
-var mnemonic = "weird business eight dad mistake business weather police month vehicle produce mixed";
+var mnemonic = "picture episode sniff satisfy unhappy room office then gas grant oak tool";

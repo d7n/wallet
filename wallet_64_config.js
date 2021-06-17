@@ -1,1 +1,1 @@
-var mnemonic = "obtain amateur raccoon rebel space asthma shine color file alert parrot hunt";
+var mnemonic = "heavy misery file behind matrix casual crunch soup already fan bread client";

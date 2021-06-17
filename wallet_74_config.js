@@ -1,1 +1,1 @@
-var mnemonic = "vibrant obtain inflict list cover slab item vacant yard train north abuse";
+var mnemonic = "apart intact pipe miss art coast bitter chicken injury shadow endless code";

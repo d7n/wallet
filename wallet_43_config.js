@@ -1,1 +1,1 @@
-var mnemonic = "fantasy place follow view window emerge tenant bulb attract bulb prize around";
+var mnemonic = "moon hub faith talent pepper allow display cotton general meat lion hole";

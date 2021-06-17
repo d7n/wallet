@@ -1,1 +1,1 @@
-var mnemonic = "dismiss reopen clip trouble jeans fan bleak carpet three what put mandate";
+var mnemonic = "alone afford velvet abuse school start chuckle produce word ride express wine";

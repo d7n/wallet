@@ -1,1 +1,1 @@
-var mnemonic = "call flower luggage heart mad cluster tree circle harsh occur mandate aerobic";
+var mnemonic = "torch unknown jelly warfare cradle stem space field february anchor rail month";

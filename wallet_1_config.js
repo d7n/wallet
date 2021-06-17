@@ -1,1 +1,1 @@
-var mnemonic = "arrow fiber antique adapt convince wrist pride rib interest morning hobby primary";
+var mnemonic = "fat poem banner remove cloud subway cycle net network leaf arch pass";

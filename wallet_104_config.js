@@ -1,1 +1,1 @@
-var mnemonic = "indicate sphere polar degree consider settle fame bullet minute position canvas summer";
+var mnemonic = "rebel ocean boat stand fatigue prosper width venue skate wife disorder acoustic";

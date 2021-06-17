@@ -1,1 +1,1 @@
-var mnemonic = "bind system couple speed piano wild phone improve present lake action junior";
+var mnemonic = "sense author upgrade swarm disorder kite plunge indicate tonight dance win night";

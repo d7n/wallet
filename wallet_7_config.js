@@ -1,1 +1,1 @@
-var mnemonic = "mesh park off asthma gadget eagle hard cargo trouble history script primary";
+var mnemonic = "whip pizza sea clever antique caution pudding erase olive squeeze swallow gap";

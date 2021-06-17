@@ -1,1 +1,1 @@
-var mnemonic = "enhance twice slender obey pudding blur become deputy business inmate life alcohol";
+var mnemonic = "produce sponsor easily trust nephew like assault sock cart art zebra ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "daring remind second unit shed empty wrist have better suit chaos regret";
+var mnemonic = "century fitness certain manage whisper return wall enact tank welcome skirt roast";

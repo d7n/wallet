@@ -1,1 +1,1 @@
-var mnemonic = "electric dragon chronic ensure skill mechanic allow actual inhale nerve now mansion";
+var mnemonic = "quantum urban endless ticket fox park nominee nose sleep entire remove hint";

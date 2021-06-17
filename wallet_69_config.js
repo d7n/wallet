@@ -1,1 +1,1 @@
-var mnemonic = "audit spike file antenna must present fruit undo deposit pattern pet result";
+var mnemonic = "swallow such check debris sorry session evolve float brave sick hire eager";

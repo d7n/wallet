@@ -1,1 +1,1 @@
-var mnemonic = "intact venue canyon gold mention nominee snap glory mirror robust across scheme";
+var mnemonic = "dune slender fit note west six toss erode moon author flavor amused";

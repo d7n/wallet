@@ -1,1 +1,1 @@
-var mnemonic = "pioneer picture primary require bar pole birth soon farm enhance garage frost";
+var mnemonic = "annual clean plastic outside sheriff split tower range salmon consider where agent";

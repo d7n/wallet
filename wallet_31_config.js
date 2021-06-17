@@ -1,1 +1,1 @@
-var mnemonic = "mammal sleep clown dial midnight fly pair sword crater tell frequent expire";
+var mnemonic = "denial month artist struggle brass cushion nest reduce clean sample shrimp cable";

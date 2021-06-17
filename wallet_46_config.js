@@ -1,1 +1,1 @@
-var mnemonic = "memory awesome tunnel often three essay today rude choice magnet seven swear";
+var mnemonic = "write cabin already stereo sword pole off become curious fit shuffle flip";

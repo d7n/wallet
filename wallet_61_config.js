@@ -1,1 +1,1 @@
-var mnemonic = "purity truck crouch please enrich shift poverty toward jump butter giant luxury";
+var mnemonic = "elder yard coach submit humble mountain action quote ladder river arrow moment";

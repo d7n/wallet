@@ -1,1 +1,1 @@
-var mnemonic = "try explain company shield design flush stairs leisure lottery afraid april mansion";
+var mnemonic = "taste torch dash cigar spoil ketchup upgrade surprise useful dose dog that";

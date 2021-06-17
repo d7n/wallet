@@ -1,1 +1,1 @@
-var mnemonic = "drill hire frown genre boat soon excite frame street eager mercy butter";
+var mnemonic = "kind cook welcome extra law suffer ignore fun park cash today hope";

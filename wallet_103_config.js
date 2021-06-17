@@ -1,1 +1,1 @@
-var mnemonic = "fun funny drill arena icon lunch together tip version energy car mimic";
+var mnemonic = "olive east mirror little flat eagle disease erosion stand sentence armed shrug";

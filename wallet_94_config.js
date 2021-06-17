@@ -1,1 +1,1 @@
-var mnemonic = "blush jelly proud eagle head brush expand usage expand depart awful light";
+var mnemonic = "group enforce isolate very act lend left enact sauce emerge topple hour";

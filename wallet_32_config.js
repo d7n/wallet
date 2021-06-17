@@ -1,1 +1,1 @@
-var mnemonic = "baby home trash sea ability ritual tonight wood grow concert cement reunion";
+var mnemonic = "essence umbrella stamp stand race scrub just never tired theory volume sauce";

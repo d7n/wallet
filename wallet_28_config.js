@@ -1,1 +1,1 @@
-var mnemonic = "circle merit accuse disagree pupil pride time universe mosquito shoulder shop begin";
+var mnemonic = "object rent rescue pencil business lunar confirm runway left naive infant light";

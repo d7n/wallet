@@ -1,1 +1,1 @@
-var mnemonic = "toddler cement dizzy main ahead camp puppy village spot tenant six retire";
+var mnemonic = "shift day camera ability cement spider dust among equip close easy base";

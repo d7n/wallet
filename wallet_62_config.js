@@ -1,1 +1,1 @@
-var mnemonic = "stone cross joy coral scorpion dragon giant deal fee misery south find";
+var mnemonic = "pistol physical impact rude siren museum moral obey bunker movie usage say";

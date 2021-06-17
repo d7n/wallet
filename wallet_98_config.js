@@ -1,1 +1,1 @@
-var mnemonic = "negative soap wrong prevent emerge seven script guess crime beauty sock tennis";
+var mnemonic = "success entire fault satisfy raise banner memory daughter genius trap claw rescue";

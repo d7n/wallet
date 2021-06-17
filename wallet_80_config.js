@@ -1,1 +1,1 @@
-var mnemonic = "strike come dentist wage head lab pride coral assist despair dust tiger";
+var mnemonic = "ankle accuse promote visit require since nerve appear pact main robust cash";

@@ -1,1 +1,1 @@
-var mnemonic = "box tired develop gravity brown decline neutral organ modify deer around jealous";
+var mnemonic = "quick letter dragon actress brave total next grain runway enter end foot";

@@ -1,1 +1,1 @@
-var mnemonic = "meat guard collect rocket forum bunker impulse guilt twenty tell tortoise segment";
+var mnemonic = "evoke danger apology ring love theory orphan unknown divert peace foot south";

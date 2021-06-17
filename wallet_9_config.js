@@ -1,1 +1,1 @@
-var mnemonic = "area drink detail nasty direct nurse canal prepare frame earn feature allow";
+var mnemonic = "decide forum luxury gas ice believe forget attract simple elder trophy wave";

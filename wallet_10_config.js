@@ -1,1 +1,1 @@
-var mnemonic = "liquid know divide wrist book census skin job spice country excess fitness";
+var mnemonic = "shy climb magic loyal slight legal foot buddy syrup clean vanish response";

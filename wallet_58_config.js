@@ -1,1 +1,1 @@
-var mnemonic = "spoil pull sight album addict rule local west boring orchard tragic capital";
+var mnemonic = "rural diamond rent roast smart pyramid van board fever above asset rate";

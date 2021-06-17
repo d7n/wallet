@@ -1,1 +1,1 @@
-var mnemonic = "curve year quality diesel visit fragile depth excite chef vivid spirit warfare";
+var mnemonic = "express turtle thing very clock guilt spawn lucky wine that grit crawl";

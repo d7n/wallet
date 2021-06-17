@@ -1,1 +1,1 @@
-var mnemonic = "attract lunar night feed silver fix congress valve okay remove height december";
+var mnemonic = "lunar comfort awkward slim service edge again powder alter hole frog pelican";

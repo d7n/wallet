@@ -1,1 +1,1 @@
-var mnemonic = "fan light swamp chapter tribe over deny tuition december smooth attitude raw";
+var mnemonic = "typical grit cream pottery expire liar denial avocado use correct village ship";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow cup okay word castle beyond blast cluster nice boring stand parade";
+var mnemonic = "owner decade fever limb mix chapter float okay giggle boil rocket category";

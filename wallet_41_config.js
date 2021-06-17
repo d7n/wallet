@@ -1,1 +1,1 @@
-var mnemonic = "hazard flag member mango stereo wasp retreat section attend joke panther injury";
+var mnemonic = "canal flat orient hen soccer essay idle setup describe whale erupt cream";

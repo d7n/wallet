@@ -1,1 +1,1 @@
-var mnemonic = "feed toward market find fiscal parent riot heavy motor tomorrow dog rotate";
+var mnemonic = "group reason express unique salon dismiss valve antique abuse banner phone palace";

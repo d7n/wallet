@@ -1,1 +1,1 @@
-var mnemonic = "hope open response toss company mother right gaze cycle march minimum daughter";
+var mnemonic = "refuse second supreme either junior typical stool mix planet element siege radio";

@@ -1,1 +1,1 @@
-var mnemonic = "vote knee until laugh family brother stick fiction coach indicate reward okay";
+var mnemonic = "sell iron narrow clay flat glare include subject else parade lunch garment";

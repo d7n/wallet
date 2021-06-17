@@ -1,1 +1,1 @@
-var mnemonic = "reform sudden cycle clog scorpion citizen average apart right imitate want ring";
+var mnemonic = "bomb hammer indoor network dune addict ranch donate about spirit fit razor";

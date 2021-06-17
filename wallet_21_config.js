@@ -1,1 +1,1 @@
-var mnemonic = "world engine fame have make hollow space exclude tired dad squeeze snap";
+var mnemonic = "credit crater moral member portion radar slush tired property glove absent agent";

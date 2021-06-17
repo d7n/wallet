@@ -1,1 +1,1 @@
-var mnemonic = "kid unit chaos since wood entire team matter balance blame detail umbrella";
+var mnemonic = "moment nominee lucky artefact year lava vital ivory chuckle output floor shoot";

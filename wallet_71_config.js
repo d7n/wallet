@@ -1,1 +1,1 @@
-var mnemonic = "connect menu rely march raccoon denial timber dice swamp that fade truth";
+var mnemonic = "mosquito tower thought trust feel budget notice rigid cute top rebel vehicle";

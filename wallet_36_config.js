@@ -1,1 +1,1 @@
-var mnemonic = "tag upset forget develop anxiety truth corn double what hint decide minor";
+var mnemonic = "alien cake maze useless eye flock chest direct snake ribbon reduce transfer";

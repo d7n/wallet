@@ -1,1 +1,1 @@
-var mnemonic = "evolve victory rubber world pride arena unit combine flavor come magnet critic";
+var mnemonic = "motor father fish entry unknown bid book box unique badge rocket fresh";

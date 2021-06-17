@@ -1,1 +1,1 @@
-var mnemonic = "soldier repeat apart satoshi immense caution iron genuine suspect quit pipe inmate";
+var mnemonic = "flag tip ticket mesh frog clip movie banner thrive elevator mixture confirm";

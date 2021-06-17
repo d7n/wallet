@@ -1,1 +1,1 @@
-var mnemonic = "magnet trick width ball year access audit galaxy busy cash sword emotion";
+var mnemonic = "army manage market review squeeze tobacco evil mammal rule math spoil gym";

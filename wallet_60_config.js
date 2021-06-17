@@ -1,1 +1,1 @@
-var mnemonic = "chimney fly urge bird that frown sadness alone glue wood beauty smoke";
+var mnemonic = "ritual setup daring tower speed between key dirt van solid change please";

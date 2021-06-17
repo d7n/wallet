@@ -1,1 +1,1 @@
-var mnemonic = "settle vacant end endless require excite super swim trust host differ bridge";
+var mnemonic = "one history robot business lunch busy shrug chronic dice obvious raven million";

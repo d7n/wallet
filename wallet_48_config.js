@@ -1,1 +1,1 @@
-var mnemonic = "slush banner butter carry vague quality trash income resist option brush supreme";
+var mnemonic = "puppy dismiss poem across print neck pass diamond laptop cry panel cattle";

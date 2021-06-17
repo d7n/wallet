@@ -1,1 +1,1 @@
-var mnemonic = "file letter agent will parent find leisure catalog carry flag wrap cannon";
+var mnemonic = "just abstract attitude vapor now load three trial choice boring satisfy divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "under cherry burger scrub swap shop common grid busy salon abuse brother";
+var mnemonic = "depart use horse hole hour brown goose hard trim actor rhythm ripple";

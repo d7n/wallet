@@ -1,1 +1,1 @@
-var mnemonic = "air garden update local bike taste intact motion want short logic nephew";
+var mnemonic = "trophy clerk remove banana vocal bird leopard play brush order humor student";

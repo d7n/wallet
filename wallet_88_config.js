@@ -1,1 +1,1 @@
-var mnemonic = "punch neck dash wink empower science north put slot sting barrel topple";
+var mnemonic = "approve fish abstract leave mail lumber casual attract same fiber employ design";

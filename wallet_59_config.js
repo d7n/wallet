@@ -1,1 +1,1 @@
-var mnemonic = "view region kite copper grief again camp enrich staff link ring trend";
+var mnemonic = "raw fever author question pizza tomorrow asset ecology sister rather easy minor";

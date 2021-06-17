@@ -1,1 +1,1 @@
-var mnemonic = "frozen profit theme upset glance dawn account liberty gas vehicle fun daughter";
+var mnemonic = "glance warrior sniff very basket gas live special fatigue club spice hub";

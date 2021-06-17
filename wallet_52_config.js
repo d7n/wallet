@@ -1,1 +1,1 @@
-var mnemonic = "wedding hint hood jungle salute seed gentle wool retreat screen harsh faith";
+var mnemonic = "choice attract unit story keep collect hour width basic coyote hidden throw";

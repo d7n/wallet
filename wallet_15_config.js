@@ -1,1 +1,1 @@
-var mnemonic = "breeze situate emotion jump airport smooth sample excess fly all able royal";
+var mnemonic = "moral fish wild poet kidney menu nation false punch target boost teach";

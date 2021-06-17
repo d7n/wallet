@@ -1,1 +1,1 @@
-var mnemonic = "client lend bread salmon exercise gossip hawk today ball lock change cargo";
+var mnemonic = "charge scare link envelope will must exchange pudding easy belt decrease click";

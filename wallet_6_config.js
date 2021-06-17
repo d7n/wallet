@@ -1,1 +1,1 @@
-var mnemonic = "grit luggage exact beyond chef bike sing amateur series remain daring chapter";
+var mnemonic = "make punch raise beyond castle floor wrestle exhibit buffalo kiss promote bright";
