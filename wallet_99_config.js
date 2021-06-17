@@ -1,1 +1,1 @@
-var mnemonic = "sun vanish ribbon lizard royal elegant call lend garden matter response food";
+var mnemonic = "village click client enrich father chef venture alone educate ticket doctor claw";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup valve virtual mixed arm final start number include twin ketchup mix";
+var mnemonic = "shed palm parade zoo motion busy pencil renew fresh hazard swim grant";

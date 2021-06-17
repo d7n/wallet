@@ -1,1 +1,1 @@
-var mnemonic = "picnic moral ivory figure situate frog then resemble female taxi under tortoise";
+var mnemonic = "license phone combine gas medal diary cotton chuckle hockey lemon exotic glide";

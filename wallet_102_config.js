@@ -1,1 +1,1 @@
-var mnemonic = "poem acoustic sun swing upon outside outer state minute airport legend fiscal";
+var mnemonic = "trial ensure soap impact egg vibrant sock easy more arrow dune club";

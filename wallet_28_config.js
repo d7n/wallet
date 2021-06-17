@@ -1,1 +1,1 @@
-var mnemonic = "lobster bubble flip session tissue dash shoot island sand balcony flush bicycle";
+var mnemonic = "kitchen plastic swift broken voyage super roast brain extra keen history suspect";

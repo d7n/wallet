@@ -1,1 +1,1 @@
-var mnemonic = "badge access river vast garlic glow pattern figure head dance mass cheese";
+var mnemonic = "shiver vanish lab disagree alter blood other dynamic vast powder cargo cabin";

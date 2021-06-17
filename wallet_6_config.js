@@ -1,1 +1,1 @@
-var mnemonic = "tissue faculty pupil where express vicious ahead only absorb credit slogan perfect";
+var mnemonic = "brown farm exercise rescue half hundred unveil portion sign express device skull";

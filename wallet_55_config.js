@@ -1,1 +1,1 @@
-var mnemonic = "price knock high excuse desert aspect crane enter soul chicken galaxy render";
+var mnemonic = "spread donor airport creek plate alcohol extend drum main walnut cause check";

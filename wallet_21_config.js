@@ -1,1 +1,1 @@
-var mnemonic = "weather monster fix clarify ride dad flat mask grunt label meadow bulk";
+var mnemonic = "life rose swim chair fossil shuffle car nature hunt father clay milk";

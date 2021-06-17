@@ -1,1 +1,1 @@
-var mnemonic = "frost dash extra smart tragic recall spell nation leisure alcohol poem guide";
+var mnemonic = "robust hold siege tomato try remember today lens fix security noble expire";

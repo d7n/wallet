@@ -1,1 +1,1 @@
-var mnemonic = "envelope undo flock trash sock math robot quote another way raccoon damage";
+var mnemonic = "chunk crack lazy field hip power reveal alone know food suggest amount";

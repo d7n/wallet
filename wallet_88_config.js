@@ -1,1 +1,1 @@
-var mnemonic = "call farm fine word raw corn detail spoon away utility erode dizzy";
+var mnemonic = "lazy flag right asset six obscure wink glad idle also load ribbon";

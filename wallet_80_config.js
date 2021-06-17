@@ -1,1 +1,1 @@
-var mnemonic = "leaf invest midnight aim pulp brass title siren critic network myth zero";
+var mnemonic = "trigger diesel patient hospital primary prepare super weapon sphere truly awkward glove";

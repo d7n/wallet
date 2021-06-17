@@ -1,1 +1,1 @@
-var mnemonic = "lion year snake climb entry canoe air much tomorrow dinosaur shield lecture";
+var mnemonic = "siren promote dolphin fun run dynamic retire idea slogan apple disease there";

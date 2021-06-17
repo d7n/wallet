@@ -1,1 +1,1 @@
-var mnemonic = "obvious forward obtain adult rally mosquito ball benefit daring rotate retreat toilet";
+var mnemonic = "enemy margin proof ivory pony charge ostrich frozen unable quote grow attend";

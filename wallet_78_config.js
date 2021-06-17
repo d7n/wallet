@@ -1,1 +1,1 @@
-var mnemonic = "cave fatigue favorite detect desert combine prepare blur venue glass shield other";
+var mnemonic = "silly promote dry saddle joke stamp erase scout unlock misery mountain voice";

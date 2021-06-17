@@ -1,1 +1,1 @@
-var mnemonic = "wrong inject visa setup document velvet quit venture helmet pelican surge grass";
+var mnemonic = "laundry entire raw mosquito unit company pilot napkin reward usual nature rebuild";

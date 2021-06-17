@@ -1,1 +1,1 @@
-var mnemonic = "engine since around casual awesome repeat cattle cruel gown angle curve injury";
+var mnemonic = "festival sight coconut plate small install airport cost soldier mix remind blood";

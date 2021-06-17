@@ -1,1 +1,1 @@
-var mnemonic = "bring useless receive boat program nothing sick screen estate maid trial wet";
+var mnemonic = "surge door final stick miss battle deputy photo coil addict mimic crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "joke pretty dwarf couch cage north fine secret excuse desert stove color";
+var mnemonic = "table strong essence tennis expire design resource organ lizard paper tired apart";

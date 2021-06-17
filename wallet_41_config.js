@@ -1,1 +1,1 @@
-var mnemonic = "tourist belt detect beauty leader strategy rural raise outdoor fabric struggle result";
+var mnemonic = "pet employ accident inspire slam indicate exclude trip mail torch wine junior";

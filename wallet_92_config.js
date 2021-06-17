@@ -1,1 +1,1 @@
-var mnemonic = "december short target coin zone palm clap bleak add found dice ramp";
+var mnemonic = "chat common soup involve draw swift trigger cluster chuckle wood witness infant";

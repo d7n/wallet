@@ -1,1 +1,1 @@
-var mnemonic = "rotate someone yellow hurry taste prosper blanket one elevator purpose round found";
+var mnemonic = "crash add deny assume tail copy rely shop album virtual diagram blur";

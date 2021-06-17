@@ -1,1 +1,1 @@
-var mnemonic = "goose hood ankle share toy assist chair coin outdoor nurse want below";
+var mnemonic = "office length measure depend aerobic scene pizza leg real easily source charge";

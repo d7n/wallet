@@ -1,1 +1,1 @@
-var mnemonic = "cram square attend skull cruise true essence junk decrease swarm oblige glare";
+var mnemonic = "depart cart gate payment sadness praise inflict sunset buddy kidney various input";

@@ -1,1 +1,1 @@
-var mnemonic = "case adult carry ignore grass dish empower elite illness husband rare humor";
+var mnemonic = "hurdle rule rose clip absorb allow raw year clip useless used protect";

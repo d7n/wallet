@@ -1,1 +1,1 @@
-var mnemonic = "neither lounge skull office ritual figure buzz garden peace final ancient give";
+var mnemonic = "two dwarf evil fluid clutch alpha polar chunk earth attack tower range";

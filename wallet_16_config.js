@@ -1,1 +1,1 @@
-var mnemonic = "rescue primary hip always dad vast ridge flight catch brick enjoy coyote";
+var mnemonic = "gift undo above rabbit horror attitude dream series unable young hungry rare";

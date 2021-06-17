@@ -1,1 +1,1 @@
-var mnemonic = "uphold silk east pact betray shadow onion wheel loan exercise film arrow";
+var mnemonic = "deal filter live monster answer unit west favorite zone sponsor kite left";

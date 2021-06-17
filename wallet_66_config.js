@@ -1,1 +1,1 @@
-var mnemonic = "desert resource track dress mesh cube review scissors crowd sunny aspect orange";
+var mnemonic = "parrot spider section dwarf salmon tip tragic world tornado hedgehog domain couple";

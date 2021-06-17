@@ -1,1 +1,1 @@
-var mnemonic = "learn owner consider flame garment organ custom fish code large exclude car";
+var mnemonic = "network breeze inmate borrow income zoo deputy like acquire equal hen solid";

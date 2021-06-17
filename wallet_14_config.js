@@ -1,1 +1,1 @@
-var mnemonic = "switch sport text best avoid vicious infant news divorce vault salute green";
+var mnemonic = "inform deputy monster scout bundle drive neither assume tuition sell zero drop";

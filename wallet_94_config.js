@@ -1,1 +1,1 @@
-var mnemonic = "noise sugar miss silver kick voyage lab child lamp upset bright awful";
+var mnemonic = "olive output master pony like prefer panda nest know volume iron between";

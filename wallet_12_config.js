@@ -1,1 +1,1 @@
-var mnemonic = "cash frost dinosaur fury lamp gas balcony random bless wing song kind";
+var mnemonic = "ring case garment wet donor world stable narrow federal argue dinner cricket";

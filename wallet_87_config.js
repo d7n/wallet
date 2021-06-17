@@ -1,1 +1,1 @@
-var mnemonic = "mystery reform forget bullet share middle alter add life interest measure consider";
+var mnemonic = "zoo kiwi palace cluster gauge age close orbit focus galaxy someone actor";

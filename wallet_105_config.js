@@ -1,1 +1,1 @@
-var mnemonic = "that dog pulp carbon shop night purchase siren spy room upgrade split";
+var mnemonic = "stone daughter sniff domain giggle vacuum helmet salad brush stumble alley video";

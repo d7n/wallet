@@ -1,1 +1,1 @@
-var mnemonic = "reflect ignore forward nerve plastic connect evolve satoshi solution question impose slim";
+var mnemonic = "diamond loud milk grape jealous sick lucky pluck bronze glare winner cry";

@@ -1,1 +1,1 @@
-var mnemonic = "gun fever girl picture moral wait wash silk blind myth case must";
+var mnemonic = "congress plastic obscure evoke pitch casino burger calm drastic often monitor when";

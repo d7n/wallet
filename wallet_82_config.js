@@ -1,1 +1,1 @@
-var mnemonic = "battle brand onion borrow myself maple employ tiger broken dizzy token dismiss";
+var mnemonic = "quick embody boat comfort copper glow badge replace equip tag tuition famous";

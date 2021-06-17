@@ -1,1 +1,1 @@
-var mnemonic = "grain excite iron about fiscal off float return extra album apology present";
+var mnemonic = "pause camera word umbrella toast faculty toe kidney ahead clump deposit ensure";

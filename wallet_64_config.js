@@ -1,1 +1,1 @@
-var mnemonic = "start comic moon bicycle tide write effort plastic rule guilt blouse antenna";
+var mnemonic = "fortune glue kiss teach glory together advice media property lunar enrich will";

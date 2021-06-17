@@ -1,1 +1,1 @@
-var mnemonic = "lunar naive magic angry slab excite mixed pave roast check system rate";
+var mnemonic = "found cool kiwi program flat final cross flip flush royal extra rebel";

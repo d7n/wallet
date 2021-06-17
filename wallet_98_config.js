@@ -1,1 +1,1 @@
-var mnemonic = "game pumpkin suffer barely museum comic goose sister boat harvest sail frozen";
+var mnemonic = "lamp useless hamster boost skate detail rain domain maximum outside volcano manual";

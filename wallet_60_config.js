@@ -1,1 +1,1 @@
-var mnemonic = "duck flee enact fitness noodle cabbage choose lawn laugh wisdom fatal reunion";
+var mnemonic = "sphere check exotic maid burst mirror company nerve service level cousin pupil";

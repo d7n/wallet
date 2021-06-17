@@ -1,1 +1,1 @@
-var mnemonic = "damage climb purse unfair debris grunt bean trap buzz frozen inform rate";
+var mnemonic = "solar hamster notice opinion pool oyster orphan angle certain manage cradle unique";

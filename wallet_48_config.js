@@ -1,1 +1,1 @@
-var mnemonic = "drink whip section can mom rally enlist tray lion avocado long museum";
+var mnemonic = "rotate youth client family seek weekend token slow pink owner soul cherry";

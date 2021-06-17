@@ -1,1 +1,1 @@
-var mnemonic = "rely iron joke evoke warrior valley shaft update actor monkey follow evolve";
+var mnemonic = "swim differ option diary pledge visa grab retreat tenant leopard crunch globe";

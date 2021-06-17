@@ -1,1 +1,1 @@
-var mnemonic = "online sleep bachelor sing load knee cigar crack shaft desk gym citizen";
+var mnemonic = "kick raccoon place juice forum shock motor jelly black typical obtain capital";

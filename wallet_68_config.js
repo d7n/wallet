@@ -1,1 +1,1 @@
-var mnemonic = "soccer digital scatter cable similar assume debris deal brain milk orange orchard";
+var mnemonic = "galaxy reward relax myself switch fault half seed target thrive jar trip";

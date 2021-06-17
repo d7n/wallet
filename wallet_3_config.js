@@ -1,1 +1,1 @@
-var mnemonic = "divide judge biology beef section slot satoshi clarify spike tobacco yellow curtain";
+var mnemonic = "oak shrimp transfer quarter transfer general drop neck tomorrow arrive river link";

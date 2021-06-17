@@ -1,1 +1,1 @@
-var mnemonic = "exercise credit object pitch front deal off stage kingdom alcohol pig news";
+var mnemonic = "divert bridge crawl blanket basket mass side lend inquiry expand eyebrow dial";

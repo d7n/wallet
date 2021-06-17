@@ -1,1 +1,1 @@
-var mnemonic = "sphere street plug retreat find calm choose gym bamboo version toddler delay";
+var mnemonic = "giraffe relax elephant famous judge resource awkward fit theory oblige volcano sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong gorilla disease excess dad person ladder adapt cream kid raw job";
+var mnemonic = "faint tip false snack cube crowd receive decade cost river ankle whisper";

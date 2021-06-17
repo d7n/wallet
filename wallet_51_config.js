@@ -1,1 +1,1 @@
-var mnemonic = "library tongue rough verify trap prepare lend drum scout absorb panel click";
+var mnemonic = "close milk ignore west series depth hero sphere kiss fossil bulk upon";

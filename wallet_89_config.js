@@ -1,1 +1,1 @@
-var mnemonic = "bleak found execute toast air member exclude slush nephew gadget tissue trash";
+var mnemonic = "kit deputy way beyond scorpion pistol sad rhythm bike more title trap";

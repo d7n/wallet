@@ -1,1 +1,1 @@
-var mnemonic = "ready erode lecture pet omit helmet produce wall polar panda jelly parrot";
+var mnemonic = "matter escape arrow legend energy arch extend space drastic minimum tourist actor";

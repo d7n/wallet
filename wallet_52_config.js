@@ -1,1 +1,1 @@
-var mnemonic = "wide grass salad zero city breeze donate yard point alien swallow cute";
+var mnemonic = "library visual coffee law buddy brass mule learn kiwi cream movie trophy";

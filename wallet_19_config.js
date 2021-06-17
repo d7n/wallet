@@ -1,1 +1,1 @@
-var mnemonic = "bunker crucial still soldier upset wrap buzz gun test eternal happy tone";
+var mnemonic = "swap unknown poverty one prize museum volcano fortune slow caution skull pipe";

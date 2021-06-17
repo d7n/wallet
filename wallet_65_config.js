@@ -1,1 +1,1 @@
-var mnemonic = "mistake hunt adjust lucky find young secret pink wage marine abstract royal";
+var mnemonic = "wrist budget cake gain craft fancy rich patrol main address dinner area";

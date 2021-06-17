@@ -1,1 +1,1 @@
-var mnemonic = "oyster convince base glow sleep mosquito raw gravity captain fetch royal private";
+var mnemonic = "scissors roof must lunar reunion question fault second nothing warfare minor make";

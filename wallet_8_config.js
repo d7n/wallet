@@ -1,1 +1,1 @@
-var mnemonic = "all best music endless student accident clutch wide around guard flight swift";
+var mnemonic = "dilemma stay radio hint now card audit congress anxiety swing movie voyage";

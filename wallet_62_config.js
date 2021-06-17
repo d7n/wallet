@@ -1,1 +1,1 @@
-var mnemonic = "slot skate fancy turn ignore circle frozen giggle capital buffalo forum search";
+var mnemonic = "enable bitter category alpha spare mad benefit decrease enough slam game bullet";

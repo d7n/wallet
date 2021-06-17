@@ -1,1 +1,1 @@
-var mnemonic = "left math rich skirt drink sound trash ridge depth exchange onion police";
+var mnemonic = "control verb phone debris sense volume avocado scrap response slice modify cushion";

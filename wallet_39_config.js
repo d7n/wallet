@@ -1,1 +1,1 @@
-var mnemonic = "pretty library avocado anxiety can sing favorite leisure prosper wire define kiss";
+var mnemonic = "fossil movie atom cloud poverty nerve casual column noise normal tip rude";

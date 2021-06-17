@@ -1,1 +1,1 @@
-var mnemonic = "behind alone impulse practice chief smooth visa scan tent domain short whale";
+var mnemonic = "chuckle trade come squeeze ancient slot rhythm sword address snack early average";

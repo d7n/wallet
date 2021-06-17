@@ -1,1 +1,1 @@
-var mnemonic = "front charge panda area nothing describe toss duck flight squeeze occur security";
+var mnemonic = "onion plunge flavor flush cliff noise jazz motion common match apology tent";

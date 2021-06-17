@@ -1,1 +1,1 @@
-var mnemonic = "staff smart convince sign cycle weird erosion since unit maple slide glow";
+var mnemonic = "cause during crew social gap journey beach grab kiwi skin genius tail";

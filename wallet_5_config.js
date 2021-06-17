@@ -1,1 +1,1 @@
-var mnemonic = "exchange exchange rely inhale wrestle join cook degree select inspire animal velvet";
+var mnemonic = "defy project near unique exclude short only farm private color salon labor";

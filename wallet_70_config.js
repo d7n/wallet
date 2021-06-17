@@ -1,1 +1,1 @@
-var mnemonic = "master rain nice sample tissue elite metal place census excess elephant kiss";
+var mnemonic = "private ugly seven avocado elite throw border whip element ginger blush water";

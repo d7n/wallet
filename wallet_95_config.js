@@ -1,1 +1,1 @@
-var mnemonic = "audit make page novel spike burden mind message gown inject frozen zero";
+var mnemonic = "toast mountain hen post range cash salon problem huge motor swear cigar";

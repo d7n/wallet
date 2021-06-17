@@ -1,1 +1,1 @@
-var mnemonic = "other board jewel forward include common any fashion poem outside era still";
+var mnemonic = "proud silent whisper silent tortoise wink cliff tunnel suit fitness crazy planet";

@@ -1,1 +1,1 @@
-var mnemonic = "segment unknown animal sign spike priority clay gossip pause warfare public inside";
+var mnemonic = "chair canvas pepper paper distance keen shoe object sustain knee response you";

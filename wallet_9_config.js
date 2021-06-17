@@ -1,1 +1,1 @@
-var mnemonic = "material old theme hunt behave survey alarm sausage spider census swear lend";
+var mnemonic = "arrive direct impose circle seek lottery sorry purpose correct become shop choose";

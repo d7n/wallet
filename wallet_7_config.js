@@ -1,1 +1,1 @@
-var mnemonic = "exclude cry economy sort practice differ faith hen sustain panic mom immune";
+var mnemonic = "chat attack journey need front crew broccoli kick lady penalty speak pledge";

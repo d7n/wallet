@@ -1,1 +1,1 @@
-var mnemonic = "explain also boost cargo artwork stay reason acid welcome trash debate wrist";
+var mnemonic = "actual custom sting fiscal arrange push reflect enroll dash mean favorite source";

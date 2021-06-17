@@ -1,1 +1,1 @@
-var mnemonic = "neutral damage envelope material safe category normal conduct interest size thrive put";
+var mnemonic = "obvious comfort stage fortune elegant display predict limit kidney sauce insane candy";

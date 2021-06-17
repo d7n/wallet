@@ -1,1 +1,1 @@
-var mnemonic = "aspect slot harbor roof donkey toilet wisdom two boat picnic social physical";
+var mnemonic = "draft coil stamp brown poverty retire juice glare employ gain wild mask";

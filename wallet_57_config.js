@@ -1,1 +1,1 @@
-var mnemonic = "couple castle act home rate oven science measure cheap business flame lake";
+var mnemonic = "sport cross gas loyal update sand peanut void outer level security moment";

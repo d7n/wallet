@@ -1,1 +1,1 @@
-var mnemonic = "verb despair crunch creek okay head wrist thank summer celery expand crystal";
+var mnemonic = "unaware flock sorry mushroom thumb price bright inspire frame cradle guess equip";

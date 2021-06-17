@@ -1,1 +1,1 @@
-var mnemonic = "brick scrap immune antique reunion add pull cream faith security pride faith";
+var mnemonic = "inch flash robust dwarf law shrug copy minimum include chicken win eyebrow";

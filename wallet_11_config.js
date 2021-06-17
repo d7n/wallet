@@ -1,1 +1,1 @@
-var mnemonic = "mixed car tongue swift ride large resist gospel zero nominee clever truck";
+var mnemonic = "slot ring mouse outside manage reduce vague pink dance dilemma thought pretty";

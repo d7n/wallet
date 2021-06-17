@@ -1,1 +1,1 @@
-var mnemonic = "palace owner innocent matter inner public pond chest claw vague rhythm knock";
+var mnemonic = "ugly elder busy bubble hint script capable chest noodle body love celery";

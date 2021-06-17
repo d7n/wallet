@@ -1,1 +1,1 @@
-var mnemonic = "guitar spin merry blame manage quote ivory legend accuse follow chicken aim";
+var mnemonic = "muscle work borrow scout club exile layer badge speak dentist damp knee";

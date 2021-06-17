@@ -1,1 +1,1 @@
-var mnemonic = "urban asset lend holiday inject siren candy soon insane habit utility must";
+var mnemonic = "wine obtain manage boss want timber brisk minute student biology fade bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "visual female figure response cactus early embark pony sing disagree cloth win";
+var mnemonic = "trim ripple kick enlist annual shock throw jacket abuse lake vital april";

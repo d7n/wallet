@@ -1,1 +1,1 @@
-var mnemonic = "put toddler goddess puzzle beyond lounge bleak quarter culture picture birth phrase";
+var mnemonic = "census kingdom sort parent nose wool blast avoid assault exist silly script";

@@ -1,1 +1,1 @@
-var mnemonic = "industry salon raw walk waste neglect dinosaur wisdom disease equal panic bracket";
+var mnemonic = "slender humor scrub unveil hobby cement retreat lounge grab silent awkward action";

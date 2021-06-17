@@ -1,1 +1,1 @@
-var mnemonic = "grief liquid flip toddler nerve slice evil ripple weekend oxygen wish online";
+var mnemonic = "wheel trend diagram brave craft crop tape law must clock target panel";

@@ -1,1 +1,1 @@
-var mnemonic = "flower unknown pulp minute vanish swamp short climb crawl time rocket spin";
+var mnemonic = "boost rural disagree suffer pretty resist outside welcome slender ice bullet diary";

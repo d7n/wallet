@@ -1,1 +1,1 @@
-var mnemonic = "use another welcome palace cool cheese metal mom daughter lion guide input";
+var mnemonic = "dismiss sausage squirrel clog believe focus wheel divert lyrics letter wild eager";

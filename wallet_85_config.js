@@ -1,1 +1,1 @@
-var mnemonic = "fame salon tonight amused report eternal oval public play grief any gas";
+var mnemonic = "visa anxiety then certain know crawl client flag raven never across leaf";

@@ -1,1 +1,1 @@
-var mnemonic = "exact any army limit effort car nasty atom health disorder kit blossom";
+var mnemonic = "excite save couch produce attract crime engage filter buzz win horn eager";
