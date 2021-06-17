@@ -1,1 +1,1 @@
-var mnemonic = "welcome canoe reason orient bamboo click brother pioneer pole yard blush illness";
+var mnemonic = "main juice hint gold warm turn tenant evolve birth dash brick oven";

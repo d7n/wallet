@@ -1,1 +1,1 @@
-var mnemonic = "melt anger mansion better intact kiwi peace invite rough imitate strike oyster";
+var mnemonic = "volcano person timber visit crisp admit comfort leader keen share day mosquito";

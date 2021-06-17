@@ -1,1 +1,1 @@
-var mnemonic = "maximum series start bid coyote rather record group grunt armor lumber august";
+var mnemonic = "long champion yard enhance sunset donkey spend exit black prefer boil have";

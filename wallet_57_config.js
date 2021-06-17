@@ -1,1 +1,1 @@
-var mnemonic = "castle cargo sport side useless assist term cross cloud exact town hover";
+var mnemonic = "crawl size aerobic begin cycle goddess vote reunion vault know curtain photo";

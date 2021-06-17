@@ -1,1 +1,1 @@
-var mnemonic = "jungle pitch lawsuit tomorrow decorate hollow net wing key entry aspect rack";
+var mnemonic = "setup blanket slender only cluster spatial lumber afraid cable forward burst remember";

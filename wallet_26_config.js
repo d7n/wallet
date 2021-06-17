@@ -1,1 +1,1 @@
-var mnemonic = "atom stereo prepare index fragile sail stool rug crisp average news become";
+var mnemonic = "trick effort early walnut admit slide seven gospel resist conduct consider fix";

@@ -1,1 +1,1 @@
-var mnemonic = "sustain scrap rival youth engage heavy gaze faith age zone thank stumble";
+var mnemonic = "divide skin audit card sphere critic curtain entry video pledge oak miracle";

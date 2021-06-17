@@ -1,1 +1,1 @@
-var mnemonic = "sudden meat weekend cluster paddle tonight accuse imitate holiday tenant pool material";
+var mnemonic = "shift head valid possible judge sad supply video session vessel flower arch";

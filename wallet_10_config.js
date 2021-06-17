@@ -1,1 +1,1 @@
-var mnemonic = "matrix worry nice shaft ignore scene fire aim aisle supply tourist ask";
+var mnemonic = "able bulb envelope buzz manage nominee session swift blush still embark know";

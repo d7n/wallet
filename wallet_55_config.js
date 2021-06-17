@@ -1,1 +1,1 @@
-var mnemonic = "opera senior cabbage swarm client intact alley noble lottery purse rain bus";
+var mnemonic = "arena loyal actual toe garden hidden collect lion parrot stand thrive video";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust once document silk hair program wait praise train damp wild silent";
+var mnemonic = "hurdle cook gesture effort van stay dwarf party game turtle bitter couple";

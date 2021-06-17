@@ -1,1 +1,1 @@
-var mnemonic = "review canal web remove animal borrow more poem goose finger snow same";
+var mnemonic = "gown lock busy sock humble public output space history any success picture";

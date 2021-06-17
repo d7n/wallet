@@ -1,1 +1,1 @@
-var mnemonic = "feel prison leaf size demand planet churn coast duck evil crawl soda";
+var mnemonic = "meat canoe barely dose life drift truth farm pottery robust pattern theory";

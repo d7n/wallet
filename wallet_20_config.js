@@ -1,1 +1,1 @@
-var mnemonic = "banner common jeans situate coast foil bacon chase actor prefer million else";
+var mnemonic = "holiday wing topic author pig worry prize vendor recipe tail trial meat";

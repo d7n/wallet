@@ -1,1 +1,1 @@
-var mnemonic = "vanish bonus wool wait parrot rain sauce puzzle rude smile require fitness";
+var mnemonic = "essay scatter slow report burst error seed shine calm inquiry fringe fancy";

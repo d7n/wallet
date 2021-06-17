@@ -1,1 +1,1 @@
-var mnemonic = "rebuild kiss bag sunny state hammer truly unhappy monkey phrase history hamster";
+var mnemonic = "round average general cheese ensure brown suggest color slam rice sketch brief";

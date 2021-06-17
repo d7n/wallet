@@ -1,1 +1,1 @@
-var mnemonic = "rose craft paddle cancel jewel anxiety blanket rain affair garment grid reform";
+var mnemonic = "transfer resource clerk humble parrot tenant device north issue lab answer snack";

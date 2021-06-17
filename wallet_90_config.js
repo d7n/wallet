@@ -1,1 +1,1 @@
-var mnemonic = "marine palm eagle draw damage win warm argue similar puzzle list company";
+var mnemonic = "reform letter agent hole debris bullet thank sand unlock drink bread parrot";

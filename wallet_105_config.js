@@ -1,1 +1,1 @@
-var mnemonic = "bone crop that icon flame canoe conduct audit slide drip useless model";
+var mnemonic = "bar polar trap bench program fury million hover rack hundred surprise define";

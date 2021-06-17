@@ -1,1 +1,1 @@
-var mnemonic = "goose palm glue castle syrup code member roast emerge shadow sand sentence";
+var mnemonic = "cart cat connect wheat void all risk audit sea picnic tired feature";

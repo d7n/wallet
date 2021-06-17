@@ -1,1 +1,1 @@
-var mnemonic = "knee stomach park save lucky slab bulb hobby modify clutch face nest";
+var mnemonic = "rain swallow loud artist pretty spread feel fancy chest fashion vicious chest";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine across return april shadow swamp enemy stereo excuse fix income salad";
+var mnemonic = "help light fly category machine clinic elegant real orphan next ethics admit";

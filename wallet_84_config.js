@@ -1,1 +1,1 @@
-var mnemonic = "aim layer leg spoon glue nasty onion truly noble anchor option slot";
+var mnemonic = "mail body exact pipe slim stand stay shine wear harvest lemon glare";

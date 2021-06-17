@@ -1,1 +1,1 @@
-var mnemonic = "hover holiday surprise tobacco bomb entire dog race elevator spatial kind organ";
+var mnemonic = "hockey still call work sibling palace divorce between tennis close town impose";

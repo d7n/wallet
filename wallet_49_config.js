@@ -1,1 +1,1 @@
-var mnemonic = "prosper input ability possible hurdle later answer elephant catalog energy moral woman";
+var mnemonic = "guess gauge vast neglect divide fade lizard throw payment miss frog travel";

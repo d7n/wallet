@@ -1,1 +1,1 @@
-var mnemonic = "gym wave swim ice cloth defy inhale rent leopard increase fiscal inspire";
+var mnemonic = "chair dress hover crash loyal yellow slab patch timber arctic among one";

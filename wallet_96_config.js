@@ -1,1 +1,1 @@
-var mnemonic = "rigid surround ship galaxy simple vibrant only change jungle witness address neck";
+var mnemonic = "siren congress agree away alarm sibling error push check dragon ticket salute";

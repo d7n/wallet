@@ -1,1 +1,1 @@
-var mnemonic = "aim fiscal radar salon initial pulp skate tide utility okay input wrap";
+var mnemonic = "violin evidence flip jealous display execute basket lonely turtle flag token gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "artefact win please brand hungry office there paper lawn resemble ugly right";
+var mnemonic = "law problem flag crack witness issue burger vendor keep marble royal carbon";

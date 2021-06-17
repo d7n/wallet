@@ -1,1 +1,1 @@
-var mnemonic = "reduce since twin clump hurdle nation dream round country differ mandate outside";
+var mnemonic = "measure dawn fluid blur connect girl sleep lucky tomorrow olive kiwi leopard";

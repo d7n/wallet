@@ -1,1 +1,1 @@
-var mnemonic = "silly choose heart pistol audit ship horse skin belt friend sausage torch";
+var mnemonic = "wrist filter ski catch mutual glance inflict lift vanish humor video whale";

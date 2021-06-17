@@ -1,1 +1,1 @@
-var mnemonic = "denial become viable solution dust holiday drastic buddy globe tuition unveil model";
+var mnemonic = "screen rookie equip flame double purity suspect make piano tell captain quit";

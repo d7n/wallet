@@ -1,1 +1,1 @@
-var mnemonic = "flip usage nominee daring hill novel cabbage disorder hand sister thunder arrive";
+var mnemonic = "bless august clown initial castle crisp brain clip predict nephew account reunion";

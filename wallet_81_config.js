@@ -1,1 +1,1 @@
-var mnemonic = "matrix segment diagram upon congress crowd foot protect subway lend tiny south";
+var mnemonic = "asset fee voice fit monitor true fade awake once tray club flavor";

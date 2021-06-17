@@ -1,1 +1,1 @@
-var mnemonic = "inhale nation bitter collect lava dilemma receive exist hip long praise birth";
+var mnemonic = "rich neck buzz cinnamon woman else pyramid relief maximum swap mistake mistake";

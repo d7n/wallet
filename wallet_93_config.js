@@ -1,1 +1,1 @@
-var mnemonic = "catch equal labor sadness verb puzzle stool number strategy boost impose tone";
+var mnemonic = "morning guard leisure explain maze sail fun disease someone find employ sport";

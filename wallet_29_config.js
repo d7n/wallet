@@ -1,1 +1,1 @@
-var mnemonic = "wheat tissue joke angry captain veteran there pulp cliff woman silk door";
+var mnemonic = "cushion there flavor slight panel basic text insane broccoli ring labor negative";

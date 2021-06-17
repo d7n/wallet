@@ -1,1 +1,1 @@
-var mnemonic = "boy evoke edge horror surround board raise join total brass ugly bundle";
+var mnemonic = "head bamboo impact trial dragon ostrich own catch trouble forget element spider";

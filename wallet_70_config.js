@@ -1,1 +1,1 @@
-var mnemonic = "lonely magic tumble flavor awesome hockey foam jacket swallow arrow weapon then";
+var mnemonic = "method song skirt flee entry they bottom machine hamster need climb taxi";

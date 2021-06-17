@@ -1,1 +1,1 @@
-var mnemonic = "erode elevator sure switch antenna stomach critic later awkward broccoli spirit virtual";
+var mnemonic = "fame layer expect stuff head occur exchange warrior claw find lend ask";

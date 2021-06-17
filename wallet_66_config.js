@@ -1,1 +1,1 @@
-var mnemonic = "legal priority chronic wash symbol goat ahead ill elephant device vacuum anchor";
+var mnemonic = "unknown siren lamp roof crop deputy shoe addict hint mule follow liquid";

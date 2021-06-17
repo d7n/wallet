@@ -1,1 +1,1 @@
-var mnemonic = "tail deliver giraffe soap organ confirm spread digital couch rough lawsuit embrace";
+var mnemonic = "plunge web horn alcohol success essay absent laundry web lend vacuum door";

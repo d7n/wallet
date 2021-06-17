@@ -1,1 +1,1 @@
-var mnemonic = "hint edit split author wage arrest spot health worry survey maze ice";
+var mnemonic = "shop slogan hip trouble flip make insect pulse finger ribbon woman clerk";

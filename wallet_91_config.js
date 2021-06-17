@@ -1,1 +1,1 @@
-var mnemonic = "word horse someone cart upset hundred dinner wood tornado rival media share";
+var mnemonic = "arm tourist normal indoor tape wrong unit mix barrel mimic black shield";

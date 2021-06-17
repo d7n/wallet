@@ -1,1 +1,1 @@
-var mnemonic = "appear misery scrap sauce weekend okay super impose between tip notice space";
+var mnemonic = "priority nice promote already stove noise conduct slide clock parrot seminar skirt";

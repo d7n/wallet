@@ -1,1 +1,1 @@
-var mnemonic = "mirror moon taxi rare medal furnace coral portion acid assume valley hill";
+var mnemonic = "lobster happy sleep pulse truck tip frost device where can style now";

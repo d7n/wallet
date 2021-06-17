@@ -1,1 +1,1 @@
-var mnemonic = "unveil earth page involve title drink topple below job high you aisle";
+var mnemonic = "guitar only catalog asthma scout hobby swamp indicate work lobster tape state";

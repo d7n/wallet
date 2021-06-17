@@ -1,1 +1,1 @@
-var mnemonic = "subject vanish tree hybrid capital reflect obscure wasp duck census client concert";
+var mnemonic = "rival involve clean loud about nephew online fan emotion blame siege caution";

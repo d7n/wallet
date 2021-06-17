@@ -1,1 +1,1 @@
-var mnemonic = "truly shoot absurd wonder eager gap easily health retire mystery risk mansion";
+var mnemonic = "reward army few morning start ski exercise year year stadium eagle visa";

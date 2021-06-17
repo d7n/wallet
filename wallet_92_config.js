@@ -1,1 +1,1 @@
-var mnemonic = "solid vintage close crisp claw despair actual profit foot fluid demise trick";
+var mnemonic = "file music west horse notable shoot unlock mystery bar episode soccer drum";

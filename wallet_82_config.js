@@ -1,1 +1,1 @@
-var mnemonic = "vanish coach logic brief detect token decline arctic merge stem enjoy physical";
+var mnemonic = "sport local soda west jacket tilt grace audit length bench topic cream";

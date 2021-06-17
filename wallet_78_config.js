@@ -1,1 +1,1 @@
-var mnemonic = "member feature boat peace test front organ popular rural armed anchor banner";
+var mnemonic = "scan dance fatal drama polar hotel window daring habit bid rescue deny";

@@ -1,1 +1,1 @@
-var mnemonic = "apple then pride fragile change solar caught receive resemble jazz monster switch";
+var mnemonic = "decade mule venture type dinner buzz sphere apology choice ribbon firm filter";

@@ -1,1 +1,1 @@
-var mnemonic = "expire knock there claw enhance assault train arch elder snap useless fall";
+var mnemonic = "asthma fossil hood only snap inject old vendor route arena upset brown";

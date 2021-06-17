@@ -1,1 +1,1 @@
-var mnemonic = "frog heavy stove add approve sport hazard moral clarify wheat movie clog";
+var mnemonic = "inquiry dance tornado forest pride night mother soul gentle make load energy";

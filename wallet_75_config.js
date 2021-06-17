@@ -1,1 +1,1 @@
-var mnemonic = "someone leisure main vast charge tone drink throw select excuse mask attitude";
+var mnemonic = "repeat transfer truly boss camp type dress chair typical document front chat";

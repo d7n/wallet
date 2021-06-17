@@ -1,1 +1,1 @@
-var mnemonic = "laundry glove income album toy quote carbon tired arrange until famous moral";
+var mnemonic = "rubber kit involve person must toe dose first wet tonight hungry give";

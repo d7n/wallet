@@ -1,1 +1,1 @@
-var mnemonic = "safe trouble width keep shrimp stomach drip mom grocery fringe salon stereo";
+var mnemonic = "conduct early donkey extra typical country they welcome science what hill run";

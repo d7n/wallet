@@ -1,1 +1,1 @@
-var mnemonic = "senior spray stairs scene push neck define attend cigar miss crouch welcome";
+var mnemonic = "give expand swear royal arctic bike canal side resource vehicle coach pumpkin";

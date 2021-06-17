@@ -1,1 +1,1 @@
-var mnemonic = "kit flight spider alley endorse gap pink balcony will holiday night turkey";
+var mnemonic = "strong flush deputy peace humble need myth feed damage butter humor dizzy";

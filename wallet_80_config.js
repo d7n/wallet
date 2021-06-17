@@ -1,1 +1,1 @@
-var mnemonic = "appear swallow comfort planet lecture cabin time subway rich pudding feel grain";
+var mnemonic = "raw tongue orient monitor rally example assist shove surface genius flock amused";

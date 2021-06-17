@@ -1,1 +1,1 @@
-var mnemonic = "cliff away spy copper trouble grain setup state home vintage wave exhibit";
+var mnemonic = "now old prepare easily gauge mask mountain current tiger system liar key";

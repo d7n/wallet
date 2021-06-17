@@ -1,1 +1,1 @@
-var mnemonic = "depend armed wrap away coin pink valley balance lobster zero noble must";
+var mnemonic = "convince damage noble artwork goose cigar glove antenna music crew basic any";

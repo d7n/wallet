@@ -1,1 +1,1 @@
-var mnemonic = "unknown helmet mercy giggle hub sausage wife warrior lottery allow wrap ride";
+var mnemonic = "humble absent issue slight detail monster brush solid crunch butter zone express";

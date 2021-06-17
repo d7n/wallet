@@ -1,1 +1,1 @@
-var mnemonic = "crater chapter organ spatial eager lock road stem reason initial anger then";
+var mnemonic = "later nation scan shoe naive payment media august fortune erode piece learn";

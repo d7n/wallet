@@ -1,1 +1,1 @@
-var mnemonic = "essence drink lesson twice smart frozen father blur shiver work october inch";
+var mnemonic = "machine squirrel ensure wrestle unfair install wonder rate light common rescue peanut";

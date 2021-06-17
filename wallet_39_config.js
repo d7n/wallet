@@ -1,1 +1,1 @@
-var mnemonic = "worry say define empower glance reason fluid kit draft drum clog kiss";
+var mnemonic = "two nest miracle layer oak habit portion grab area viable answer talent";

@@ -1,1 +1,1 @@
-var mnemonic = "crack elegant peasant stereo earn speak educate cruel stool practice increase organ";
+var mnemonic = "patch toy fetch grass glory awkward piece glare rally doctor ripple sugar";

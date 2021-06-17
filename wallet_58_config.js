@@ -1,1 +1,1 @@
-var mnemonic = "man floor rocket author flush badge deputy slow pulse title profit surround";
+var mnemonic = "uncle initial fan reflect false topic vault mistake grow vivid peanut trial";

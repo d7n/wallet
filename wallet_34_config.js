@@ -1,1 +1,1 @@
-var mnemonic = "another column better scale love loyal lounge help thing pupil sun shift";
+var mnemonic = "hospital few speak bulb oil outside brain door father village neglect require";

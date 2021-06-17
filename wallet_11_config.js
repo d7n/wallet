@@ -1,1 +1,1 @@
-var mnemonic = "window subject raccoon phone popular zero rough prefer step body smile common";
+var mnemonic = "alley task festival april hen elite depend repeat unaware notable pool mandate";

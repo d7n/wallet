@@ -1,1 +1,1 @@
-var mnemonic = "viable festival have session interest upgrade spike grid first craft deputy describe";
+var mnemonic = "outer solution farm genius wild gloom embody cabbage stamp solution acid silly";

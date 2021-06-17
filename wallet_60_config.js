@@ -1,1 +1,1 @@
-var mnemonic = "permit tornado inch amateur regret tornado lift vibrant cinnamon struggle deputy solve";
+var mnemonic = "vacant opera brave fault bundle resource slim glass mammal rookie renew wolf";

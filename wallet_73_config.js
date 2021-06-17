@@ -1,1 +1,1 @@
-var mnemonic = "galaxy display fold planet buffalo energy inquiry trash pistol reform truly order";
+var mnemonic = "car sample battle armor biology panel travel gasp tag apple tiny drum";

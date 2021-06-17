@@ -1,1 +1,1 @@
-var mnemonic = "hammer lonely lizard concert miracle ignore rubber pipe merit wink clog problem";
+var mnemonic = "hair permit fiscal blossom erase disease hand chunk crack between expect gentle";

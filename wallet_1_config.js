@@ -1,1 +1,1 @@
-var mnemonic = "income verify good retreat skull disagree apart shrimp bulb drastic oven bubble";
+var mnemonic = "artist noise lens tag acquire way autumn hello upon olympic omit audit";

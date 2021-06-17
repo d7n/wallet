@@ -1,1 +1,1 @@
-var mnemonic = "cheese right diet visit scare melt clerk giggle mobile similar side eternal";
+var mnemonic = "once fish offer bracket rabbit material enroll deposit beauty circle turn begin";

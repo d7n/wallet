@@ -1,1 +1,1 @@
-var mnemonic = "youth reduce benefit tragic liar scare bus year athlete notable fat onion";
+var mnemonic = "glare child category month fancy fashion rally flush that accuse drop addict";

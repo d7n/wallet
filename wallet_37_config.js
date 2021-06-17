@@ -1,1 +1,1 @@
-var mnemonic = "garbage garbage topple shrug grant sand example swamp forest pattern seed glow";
+var mnemonic = "aim great season fluid final bring decline depend educate fox tribe orient";

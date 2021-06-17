@@ -1,1 +1,1 @@
-var mnemonic = "bind keen chef private organ child library swarm unhappy either better poem";
+var mnemonic = "attitude regret milk smoke just team code unusual slight solution orange across";

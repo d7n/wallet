@@ -1,1 +1,1 @@
-var mnemonic = "unveil person frown enroll weather timber crouch junk double tape deal column";
+var mnemonic = "pen behave caught profit hamster audit witness daughter gold fade urban usual";

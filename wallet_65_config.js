@@ -1,1 +1,1 @@
-var mnemonic = "truly clarify mutual retreat wheel circle dentist manual typical vibrant detail scorpion";
+var mnemonic = "weather fossil spin history shield depart sunny breeze forward blur voice elite";

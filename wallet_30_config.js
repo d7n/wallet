@@ -1,1 +1,1 @@
-var mnemonic = "foster advice switch wood acoustic absorb permit hair pride round upon indicate";
+var mnemonic = "city million first double stay asthma fitness broom oppose exchange fashion battle";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness strategy cave miss dinosaur potato three bachelor skin trial describe winter";
+var mnemonic = "daring spell flower fury hurt syrup outer happy execute duty special cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "manage wide dash fade always nerve junior charge gown sunset food model";
+var mnemonic = "major rail nasty love fall expose code gravity purchase obscure labor gold";

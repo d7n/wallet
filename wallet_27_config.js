@@ -1,1 +1,1 @@
-var mnemonic = "pill lens forest labor survey fit romance sphere call crunch core seek";
+var mnemonic = "proof wheat mule broom victory setup gloom large copper cover group kingdom";

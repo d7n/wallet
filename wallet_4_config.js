@@ -1,1 +1,1 @@
-var mnemonic = "profit vibrant kid piano relax casual melody save belt crawl leaf ostrich";
+var mnemonic = "crisp verify chef swift shiver insane process defy cherry path flip stay";

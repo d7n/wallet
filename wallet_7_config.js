@@ -1,1 +1,1 @@
-var mnemonic = "grow blast swim scatter success tumble eight high strong sponsor sure segment";
+var mnemonic = "move wrap good below debris rookie degree desk lift program razor gain";

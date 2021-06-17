@@ -1,1 +1,1 @@
-var mnemonic = "join creek poet luxury believe famous damage bottom galaxy vapor survey fluid";
+var mnemonic = "tennis host deal worth mask dynamic happy forest play fox warm brand";

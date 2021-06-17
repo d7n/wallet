@@ -1,1 +1,1 @@
-var mnemonic = "escape portion eager narrow someone harsh wrong recall moment upset bonus dignity";
+var mnemonic = "decide welcome online leopard mesh rich six peace unaware topic dirt heavy";

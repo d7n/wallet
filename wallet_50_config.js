@@ -1,1 +1,1 @@
-var mnemonic = "pair cage brief grunt actor magic bleak put ribbon core ladder jump";
+var mnemonic = "deposit bone spawn frown melt captain alert series hour honey bitter raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "release banana doll radio bitter outside caution effort desk bullet flip flock";
+var mnemonic = "cupboard vocal pulse fall boat trouble grass admit paddle bike story staff";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong sauce affair boring suggest width object deer release infant arrest blanket";
+var mnemonic = "scrub stage success carry release fruit dirt fashion feel disagree oil like";

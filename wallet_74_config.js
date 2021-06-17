@@ -1,1 +1,1 @@
-var mnemonic = "toe soccer false start wreck forget witness month author account eagle govern";
+var mnemonic = "month select adult penalty inspire seminar magic glass intact twice exclude uncover";
