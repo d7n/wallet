@@ -1,1 +1,1 @@
-var mnemonic = "lounge vessel slot false alcohol lonely invest purchase lottery finish suit awesome";
+var mnemonic = "razor jazz cluster industry catch pear supply ginger canyon labor sketch blouse";

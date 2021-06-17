@@ -1,1 +1,1 @@
-var mnemonic = "speak foot cross primary design surprise expose tortoise umbrella wire side process";
+var mnemonic = "vicious hurry false toast buzz hurt grace worth two chat task spike";

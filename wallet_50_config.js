@@ -1,1 +1,1 @@
-var mnemonic = "win urge sadness sand media hair title suggest energy punch flash drift";
+var mnemonic = "giraffe mixture method glide order six trial extend special wire ivory hazard";

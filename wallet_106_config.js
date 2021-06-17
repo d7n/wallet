@@ -1,1 +1,1 @@
-var mnemonic = "renew various cage pear battle pair siren reform spoil ability okay jaguar";
+var mnemonic = "identify crack neck frog donkey abandon arrow bulk banner entry drastic verify";

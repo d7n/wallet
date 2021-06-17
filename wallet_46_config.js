@@ -1,1 +1,1 @@
-var mnemonic = "alter potato enable meat toast input club boat multiply vague blur pottery";
+var mnemonic = "expose actor kidney base travel fame book ship quarter whisper virus object";

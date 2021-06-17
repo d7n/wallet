@@ -1,1 +1,1 @@
-var mnemonic = "small quick mule anger program suggest board trigger hole front swap tortoise";
+var mnemonic = "drama adapt expect spoon cushion middle sunny screen bubble become room deer";

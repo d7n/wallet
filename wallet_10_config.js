@@ -1,1 +1,1 @@
-var mnemonic = "exist achieve mango upon differ twin unknown net rhythm modify bitter case";
+var mnemonic = "kick replace hurdle busy river inject accident opera vanish enemy cupboard novel";

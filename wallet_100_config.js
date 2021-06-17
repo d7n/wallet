@@ -1,1 +1,1 @@
-var mnemonic = "quote wash trade harvest floor dog brain two disease green tooth typical";
+var mnemonic = "meadow tide giggle alone brother resist dash bomb humble shock park weather";

@@ -1,1 +1,1 @@
-var mnemonic = "useful pony acoustic matter very burger throw ethics neglect post turkey unfold";
+var mnemonic = "sibling again absorb wash thunder reject traffic profit roof quality nothing sample";

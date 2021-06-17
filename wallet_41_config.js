@@ -1,1 +1,1 @@
-var mnemonic = "wrap exact thank foster fall catalog lounge flight seat weekend virus quote";
+var mnemonic = "twelve dawn virtual vendor hungry injury beef liquid tide vote bomb bless";

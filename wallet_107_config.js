@@ -1,1 +1,1 @@
-var mnemonic = "rapid visa hazard oxygen pattern key exercise tortoise often spawn slim soda";
+var mnemonic = "goose sketch develop stadium table hurt luxury green bright oak vanish gun";

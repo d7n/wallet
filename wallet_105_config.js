@@ -1,1 +1,1 @@
-var mnemonic = "evolve under taste torch square teach renew general cousin slush fiction will";
+var mnemonic = "plastic note bless sick year amateur pink cupboard then umbrella scan song";

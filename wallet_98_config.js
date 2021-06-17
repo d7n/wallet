@@ -1,1 +1,1 @@
-var mnemonic = "abstract middle husband artist weather fiction comic bless type prepare purpose pizza";
+var mnemonic = "need dice sport rate ginger wisdom match word case finish round frog";

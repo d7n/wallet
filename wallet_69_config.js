@@ -1,1 +1,1 @@
-var mnemonic = "drive town receive awesome tiny fancy fancy tortoise lucky indicate saddle volume";
+var mnemonic = "tenant enact cup bar reward creek crush vivid portion surround behave kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage rigid multiply addict bronze chicken hard feed remove remain trip equip";
+var mnemonic = "master stand obscure pledge deer honey morning horse lonely lonely stable obscure";

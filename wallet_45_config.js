@@ -1,1 +1,1 @@
-var mnemonic = "alien crazy deposit foam wrap scale monitor list save pottery assault tongue";
+var mnemonic = "sun jungle decline soon prosper genius now pattern joy educate clay sustain";

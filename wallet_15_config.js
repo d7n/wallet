@@ -1,1 +1,1 @@
-var mnemonic = "sun expire trophy extra thumb tank chimney lion average name torch among";
+var mnemonic = "amount task club orchard ball foam original marine club couch mask elder";

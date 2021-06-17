@@ -1,1 +1,1 @@
-var mnemonic = "divide pupil lumber lecture indoor cruise employ donkey autumn december bike physical";
+var mnemonic = "dinosaur penalty outdoor wrestle diary visa swap loud glass prison seat wife";

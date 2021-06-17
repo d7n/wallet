@@ -1,1 +1,1 @@
-var mnemonic = "need fatal pumpkin inherit audit chalk year april render random journey thumb";
+var mnemonic = "similar assault tiger item era ten adapt mammal mixed sister drip script";

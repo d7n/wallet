@@ -1,1 +1,1 @@
-var mnemonic = "address museum gun seven found blame baby shiver city emerge bright legend";
+var mnemonic = "club stove garment bring brother obscure fox ridge silk basket race bulb";

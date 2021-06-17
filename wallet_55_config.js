@@ -1,1 +1,1 @@
-var mnemonic = "above approve fury axis engage steak false image recycle prevent priority help";
+var mnemonic = "unlock pizza use frown forward legal evil glow place effort judge diet";

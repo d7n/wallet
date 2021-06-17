@@ -1,1 +1,1 @@
-var mnemonic = "inside now bind property tooth push deer tube aunt actual style cave";
+var mnemonic = "approve sand toe mechanic drop curtain crunch stadium bulb rain display gloom";

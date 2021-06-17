@@ -1,1 +1,1 @@
-var mnemonic = "away nice aim fork monkey stage menu frame fit staff build distance";
+var mnemonic = "spoil today dry absorb ocean reflect nuclear spoon expand south diary dumb";

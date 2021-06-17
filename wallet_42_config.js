@@ -1,1 +1,1 @@
-var mnemonic = "zero ketchup switch plunge design churn pigeon cover whale trouble relief frame";
+var mnemonic = "online grit artefact silent beef mystery square palm cliff pool swarm decrease";

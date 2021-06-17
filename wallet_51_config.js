@@ -1,1 +1,1 @@
-var mnemonic = "drama velvet travel page solar payment silent ensure wagon onion security acoustic";
+var mnemonic = "boss sail tray twenty again foster water drip sketch raw fantasy infant";

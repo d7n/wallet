@@ -1,1 +1,1 @@
-var mnemonic = "unfair exclude belt cable weather mimic grain delay blade river worry off";
+var mnemonic = "devote paper mandate unfair solve grab rent vivid grain chief shy tattoo";

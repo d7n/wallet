@@ -1,1 +1,1 @@
-var mnemonic = "invest target theme regular vast health salmon soda useless hurry success social";
+var mnemonic = "donate hood diagram clay quit wheel favorite broken top myself outer cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi federal artist twice above audit minute movie now rain drill hand";
+var mnemonic = "firm eternal imitate mango seat wrong song address bubble sadness work sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "witness shy price hedgehog until sunset joke sing sister green attack half";
+var mnemonic = "pass ripple casino tank offer hover settle elegant coach deliver skill coil";

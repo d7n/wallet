@@ -1,1 +1,1 @@
-var mnemonic = "soccer journey trigger useless review initial skate sea wish fluid beyond fiction";
+var mnemonic = "tuna cheese year master logic issue copy pluck slush awful caution online";

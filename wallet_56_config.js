@@ -1,1 +1,1 @@
-var mnemonic = "alone rail dress noble idea demise tourist lounge fit aspect suspect trap";
+var mnemonic = "rigid subject blur idle idle taxi predict garden mother assist below match";

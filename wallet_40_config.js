@@ -1,1 +1,1 @@
-var mnemonic = "verify diagram dawn donkey often absorb kitten jewel figure input pelican card";
+var mnemonic = "dose swim dilemma strike now guitar despair license parrot sample enforce toast";

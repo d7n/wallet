@@ -1,1 +1,1 @@
-var mnemonic = "custom carry dumb basic damage frog teach page large engage message lunar";
+var mnemonic = "zoo region parent fox venue bird swing owner physical tell capital gossip";

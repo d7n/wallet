@@ -1,1 +1,1 @@
-var mnemonic = "artist blind beauty coyote sail toward antique sun hand good topic adapt";
+var mnemonic = "large word broken next oval degree balcony harbor throw consider creek betray";

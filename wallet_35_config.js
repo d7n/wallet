@@ -1,1 +1,1 @@
-var mnemonic = "invite afford blush stuff unfold letter toy public degree exact country bounce";
+var mnemonic = "stock put summer scissors typical river awkward boost child camera tank top";

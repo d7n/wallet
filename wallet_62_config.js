@@ -1,1 +1,1 @@
-var mnemonic = "know puppy turn drill act gorilla eagle face remember planet another steak";
+var mnemonic = "apology bicycle flight proud winter music spend panther drift rain sure jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp debate repair saddle party arctic oil analyst powder tank attack paddle";
+var mnemonic = "plunge helmet salt pause enjoy refuse intact laugh vital cradle image random";

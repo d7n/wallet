@@ -1,1 +1,1 @@
-var mnemonic = "roof logic hobby cash crop inside since kid salmon ethics inmate survey";
+var mnemonic = "swing depart soup pull honey turn follow stock minute sheriff calm spell";

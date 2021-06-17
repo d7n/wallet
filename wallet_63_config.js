@@ -1,1 +1,1 @@
-var mnemonic = "identify waste luxury left copper fresh museum erase vanish swallow dance permit";
+var mnemonic = "assault wolf device submit marriage silent exact file wink total floor current";

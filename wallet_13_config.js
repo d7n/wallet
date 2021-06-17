@@ -1,1 +1,1 @@
-var mnemonic = "finish apple scout skirt length amount knock blush feature such gym option";
+var mnemonic = "burden glance drastic public float slow build improve wing approve year tourist";

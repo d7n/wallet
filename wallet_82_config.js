@@ -1,1 +1,1 @@
-var mnemonic = "drop rule opinion crowd head network loop legal hour session what buddy";
+var mnemonic = "response broken reform defy smart rule panic chat problem hand aisle taste";

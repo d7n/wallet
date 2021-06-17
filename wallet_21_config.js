@@ -1,1 +1,1 @@
-var mnemonic = "silent error jacket window neck act word young beauty use tumble guard";
+var mnemonic = "spatial genuine snap banner question athlete arrange mail shrimp apart traffic huge";

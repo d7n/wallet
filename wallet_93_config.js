@@ -1,1 +1,1 @@
-var mnemonic = "fringe fee property evolve unaware image magic leaf lucky wire buzz pony";
+var mnemonic = "endorse receive fresh floor design waste pill sister response forget lottery obscure";

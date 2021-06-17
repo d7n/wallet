@@ -1,1 +1,1 @@
-var mnemonic = "treat year elder regular acoustic found beyond caution inspire ginger describe special";
+var mnemonic = "version crucial evil chunk parent math arrange insane battle omit test clog";

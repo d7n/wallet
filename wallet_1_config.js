@@ -1,1 +1,1 @@
-var mnemonic = "future own rabbit loan above lawn defy off combine pilot major deliver";
+var mnemonic = "coffee opera obtain joke tattoo group divide exchange eight rival velvet stove";

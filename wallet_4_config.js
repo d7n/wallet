@@ -1,1 +1,1 @@
-var mnemonic = "shadow express modify frog ecology someone nut monster venture news food elegant";
+var mnemonic = "bright foster body oak sunny hunt save crater basket ankle rent neck";

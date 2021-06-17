@@ -1,1 +1,1 @@
-var mnemonic = "victory oil van admit drip convince much feel cash resource gun renew";
+var mnemonic = "lemon slender science oil green enjoy remove gasp brave expose ridge hour";

@@ -1,1 +1,1 @@
-var mnemonic = "physical author review swing derive alert term drum menu forest broccoli worth";
+var mnemonic = "morning volcano produce arch away air fruit paper recycle carry special mystery";

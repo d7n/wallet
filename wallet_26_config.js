@@ -1,1 +1,1 @@
-var mnemonic = "coast primary solve beach buyer topic ripple theme outer move soap invite";
+var mnemonic = "leaf dirt usage cattle this ill anger blossom cotton pony image hello";

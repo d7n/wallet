@@ -1,1 +1,1 @@
-var mnemonic = "dilemma sting square find movie diary field chicken below win bike oxygen";
+var mnemonic = "morning crime angle away extend shift gift depend ketchup door that sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "combine source develop young jeans village animal advance matter double turn key";
+var mnemonic = "silk chunk rubber face wood twice faith dream axis magnet whisper car";

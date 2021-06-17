@@ -1,1 +1,1 @@
-var mnemonic = "morning tape carpet boil hat auto beauty holiday afraid cannon bulb sunset";
+var mnemonic = "purse half trouble coast judge income ostrich victory pistol shaft post reunion";

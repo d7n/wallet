@@ -1,1 +1,1 @@
-var mnemonic = "gate cousin toast banana essence disagree cabin poem timber curious state onion";
+var mnemonic = "deny copy cradle young boy conduct solar maximum shove soldier prefer convince";

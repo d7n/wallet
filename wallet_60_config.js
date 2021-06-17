@@ -1,1 +1,1 @@
-var mnemonic = "enhance include print joy liquid harsh adapt vacuum rhythm rebel size cruel";
+var mnemonic = "engage black chair clarify visual cook fee inner scale winner sadness direct";

@@ -1,1 +1,1 @@
-var mnemonic = "quit web wrist cradle shaft weekend pumpkin artefact above toe normal ill";
+var mnemonic = "install spatial purity sunny faith nasty disagree spirit retreat buyer minute doll";

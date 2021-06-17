@@ -1,1 +1,1 @@
-var mnemonic = "picnic warrior distance double weather clip stadium piece palace genius year rather";
+var mnemonic = "door two treat regret panther universe message explain dad focus cat party";

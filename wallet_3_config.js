@@ -1,1 +1,1 @@
-var mnemonic = "matter pond toddler trash broken tape noise spell slide error return enact";
+var mnemonic = "kiwi nothing long cry engine hungry lamp already pattern atom section duty";

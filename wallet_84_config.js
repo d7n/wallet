@@ -1,1 +1,1 @@
-var mnemonic = "isolate praise film lab unfair mercy humor sort rescue feel various tomorrow";
+var mnemonic = "inject iron sugar skirt skill dentist claim secret marine tribe level way";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet diagram fly rail increase point reveal conduct trumpet quit wink ethics";
+var mnemonic = "client word absent mom proud hold exchange gossip adult point scale useless";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue hello firm gospel razor seek rookie vanish debate modify away scare";
+var mnemonic = "seven auction engage tone doctor patient egg cricket patient height typical woman";

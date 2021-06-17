@@ -1,1 +1,1 @@
-var mnemonic = "bronze kidney anchor dinosaur parrot report future order ring movie sibling coyote";
+var mnemonic = "vast hat organ outside hockey lecture husband volume february patient vivid minor";

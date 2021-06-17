@@ -1,1 +1,1 @@
-var mnemonic = "force cigar security miss math fat myself allow catalog identify over tomato";
+var mnemonic = "session nothing bench artist lecture choose frequent awful normal grit volcano capable";

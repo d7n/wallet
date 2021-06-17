@@ -1,1 +1,1 @@
-var mnemonic = "evolve flee trust convince outdoor shoe rely opera exile ritual discover trial";
+var mnemonic = "desert piano health sting awful denial emerge charge same repeat brush add";

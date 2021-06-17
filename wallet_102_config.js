@@ -1,1 +1,1 @@
-var mnemonic = "abuse embody little fortune enroll soul raw disease fluid crawl obvious scissors";
+var mnemonic = "supply impose bronze rack sign harbor sound hello phrase genuine immense common";

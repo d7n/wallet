@@ -1,1 +1,1 @@
-var mnemonic = "olympic ocean jeans else slot shock current metal diagram nature nurse turtle";
+var mnemonic = "end cage lion cactus fork episode broccoli guide into possible will fiction";

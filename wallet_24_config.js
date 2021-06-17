@@ -1,1 +1,1 @@
-var mnemonic = "boring patient speak piano drop choice famous couch original artwork tower pride";
+var mnemonic = "explain dust twelve assist round pink ethics cry camera movie senior economy";

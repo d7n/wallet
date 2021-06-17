@@ -1,1 +1,1 @@
-var mnemonic = "toe about picture borrow fog local law agent route vault anxiety beyond";
+var mnemonic = "sand toward broken test ecology mule team okay special emerge beyond you";

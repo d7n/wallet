@@ -1,1 +1,1 @@
-var mnemonic = "energy panel pioneer wool detail provide moment crunch multiply solar brother notable";
+var mnemonic = "quantum degree birth intact mesh idle dismiss prevent fat easily plastic vivid";

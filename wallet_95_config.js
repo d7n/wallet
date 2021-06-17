@@ -1,1 +1,1 @@
-var mnemonic = "film siege diet pumpkin return trip wedding sugar best error right soap";
+var mnemonic = "crew over celery saddle slender phone gather elite upper better food regret";

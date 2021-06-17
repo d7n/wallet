@@ -1,1 +1,1 @@
-var mnemonic = "smoke evolve forget fragile manage zero describe torch offer era canyon custom";
+var mnemonic = "bitter since junior measure relief poem chimney bread total protect bronze mosquito";

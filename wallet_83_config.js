@@ -1,1 +1,1 @@
-var mnemonic = "diesel chase diary impulse nut chest depart enhance income march kitten churn";
+var mnemonic = "typical slim sure rough raw make purchase glass settle forum winter erupt";

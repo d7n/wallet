@@ -1,1 +1,1 @@
-var mnemonic = "agree renew ginger tiny frown question fall renew mobile accuse sudden brisk";
+var mnemonic = "unlock wealth file deal expose final snake describe blame indoor bread army";

@@ -1,1 +1,1 @@
-var mnemonic = "truly bottom hospital fat refuse tool faculty author hollow nest sleep eye";
+var mnemonic = "clap vendor rent lumber cherry else holiday adult bleak punch demand flush";

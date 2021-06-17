@@ -1,1 +1,1 @@
-var mnemonic = "globe oven reflect girl census universe measure time pitch axis lucky brother";
+var mnemonic = "width cancel limb inform paper satoshi reason food chase whale baby athlete";

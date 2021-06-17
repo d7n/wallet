@@ -1,1 +1,1 @@
-var mnemonic = "script need castle spray become night grace thumb have wet dismiss melody";
+var mnemonic = "soul amused sponsor second process duck struggle detect blind brief task fantasy";

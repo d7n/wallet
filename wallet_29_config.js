@@ -1,1 +1,1 @@
-var mnemonic = "viable bunker more jar arena build diary hat filter taste diary banner";
+var mnemonic = "decrease humor recycle mouse pepper column scorpion faculty bunker easily woman garden";

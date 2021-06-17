@@ -1,1 +1,1 @@
-var mnemonic = "gospel cattle olympic absorb poem few claw decrease cook health deny village";
+var mnemonic = "hollow loan anger debris battle margin jealous mandate quick vicious myself roast";

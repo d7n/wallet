@@ -1,1 +1,1 @@
-var mnemonic = "mushroom fuel unusual solid dumb home focus zebra giraffe track grab clap";
+var mnemonic = "multiply album dolphin repeat essence replace sweet chimney around celery cradle core";

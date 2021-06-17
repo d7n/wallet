@@ -1,1 +1,1 @@
-var mnemonic = "hope shoe best dove wheat mango logic hub say furnace stock quarter";
+var mnemonic = "deny body simple discover turtle market imitate boost mandate bar hammer december";

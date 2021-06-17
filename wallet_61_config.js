@@ -1,1 +1,1 @@
-var mnemonic = "wink quality flavor height bar gather soup letter asset affair suspect gloom";
+var mnemonic = "fitness home bunker vault topple skill certain enrich urge door scrap scrap";

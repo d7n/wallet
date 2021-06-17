@@ -1,1 +1,1 @@
-var mnemonic = "fiction collect mobile bid patrol page service ability napkin card area energy";
+var mnemonic = "citizen reopen edit ride ostrich crane oval island unfold about daughter heavy";

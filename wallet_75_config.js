@@ -1,1 +1,1 @@
-var mnemonic = "dynamic cream valid winter crucial ill flee segment indoor meadow true blast";
+var mnemonic = "transfer toy today rebuild bring ritual river immense board agree boy grit";

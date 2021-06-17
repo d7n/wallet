@@ -1,1 +1,1 @@
-var mnemonic = "consider anger faculty piece recycle cabin parade attract garbage fatigue one moral";
+var mnemonic = "blouse amused cage dance slight sunny cute hire disagree cliff bamboo tattoo";

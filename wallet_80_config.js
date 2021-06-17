@@ -1,1 +1,1 @@
-var mnemonic = "snap great expire impulse around about first year install venture canal laptop";
+var mnemonic = "frog water online mixed slush fruit walnut feed defy regular wood fiction";

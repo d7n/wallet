@@ -1,1 +1,1 @@
-var mnemonic = "armor aware smile luxury ramp build grit arrive despair oval cause method";
+var mnemonic = "critic sight antenna bright hope frost effort grit home embody stereo refuse";

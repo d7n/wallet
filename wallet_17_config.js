@@ -1,1 +1,1 @@
-var mnemonic = "struggle basket void whisper fall into remind salad maze rain all blood";
+var mnemonic = "album harsh phrase tail grunt rigid achieve bulk castle bundle clay common";
