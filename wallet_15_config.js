@@ -1,1 +1,1 @@
-var mnemonic = "detail dumb arrange brisk hidden kind vacant bulk quality inspire snap because";
+var mnemonic = "area metal jungle advice dinosaur dish twenty skill when science tourist turn";

@@ -1,1 +1,1 @@
-var mnemonic = "worth engage slam trim found squeeze sea expand crawl cabin pen candy";
+var mnemonic = "excess board happy suspect match rifle mention wolf master ankle absurd brief";

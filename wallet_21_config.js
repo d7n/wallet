@@ -1,1 +1,1 @@
-var mnemonic = "sea tunnel cactus artist amateur thumb safe asset verb mesh purchase season";
+var mnemonic = "evoke gain render clump lyrics option output grief caught size bleak reunion";

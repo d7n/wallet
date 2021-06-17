@@ -1,1 +1,1 @@
-var mnemonic = "wrestle jar daughter pact mean valley box victory prosper friend inform negative";
+var mnemonic = "call pair captain chapter awkward mansion sight message accident truth summer flee";

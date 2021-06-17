@@ -1,1 +1,1 @@
-var mnemonic = "copy thought neutral jar cute post strike horse between assume home retreat";
+var mnemonic = "chest stand hen blast enter asset prefer subject tool robot pull jump";

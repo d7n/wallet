@@ -1,1 +1,1 @@
-var mnemonic = "skill napkin pink ozone tilt repair weird sniff gasp stereo acid client";
+var mnemonic = "eight youth warrior elegant mixed bounce fire myself bulb addict below clean";

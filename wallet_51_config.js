@@ -1,1 +1,1 @@
-var mnemonic = "gloom dutch tide scheme bike blind spider tenant head primary vapor foster";
+var mnemonic = "much soccer flee home eight live word group tattoo veteran entire harbor";

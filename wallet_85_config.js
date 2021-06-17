@@ -1,1 +1,1 @@
-var mnemonic = "saddle enact version wolf organ obvious merge enroll field make kid notable";
+var mnemonic = "number patient quiz hockey reject dinner elegant retreat pottery autumn december motion";

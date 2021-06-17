@@ -1,1 +1,1 @@
-var mnemonic = "loyal index bulk sting trick device lonely attend chicken lava game prefer";
+var mnemonic = "dial thunder awkward post artefact about intact pyramid pipe wife raw absorb";

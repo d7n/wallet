@@ -1,1 +1,1 @@
-var mnemonic = "stove patch record knife save forum timber common candy tonight embrace fog";
+var mnemonic = "wheel abuse oil plug destroy fragile gallery shoe path snack fine youth";

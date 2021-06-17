@@ -1,1 +1,1 @@
-var mnemonic = "scatter eyebrow total tray syrup salute myth property stove ill atom cram";
+var mnemonic = "lizard inspire pride pact hair rent amused history sort ecology leave whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "follow critic orbit bulb caution truck honey online direct stand blush arch";
+var mnemonic = "economy abuse near milk rhythm puppy market thank useful network scrub mesh";

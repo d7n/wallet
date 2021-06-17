@@ -1,1 +1,1 @@
-var mnemonic = "hood predict horror mask else purpose supreme panda coin surge object curve";
+var mnemonic = "stem cinnamon loan process afford drum fall amazing ship system repeat conduct";

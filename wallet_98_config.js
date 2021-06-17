@@ -1,1 +1,1 @@
-var mnemonic = "casino divert wrap cargo cart opinion city settle devote climb grain soap";
+var mnemonic = "know midnight winner pelican pulp distance faculty rural artefact abstract flock stand";

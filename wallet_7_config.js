@@ -1,1 +1,1 @@
-var mnemonic = "quarter rack fat spawn foam lawsuit diamond pluck wall achieve duty steak";
+var mnemonic = "mobile junior blame away museum fee taxi omit hire spray mule idle";

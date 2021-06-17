@@ -1,1 +1,1 @@
-var mnemonic = "base exotic recall grain myself head satisfy velvet pledge theme stock leaf";
+var mnemonic = "flower agree angle plate primary race coral life physical evidence muscle note";

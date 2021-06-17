@@ -1,1 +1,1 @@
-var mnemonic = "develop music brush book remove bounce sphere thumb chuckle cable oppose solution";
+var mnemonic = "inside woman leopard symptom monitor flash enlist churn poverty indoor unlock solve";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent december melt gift combine between connect near twist kit animal collect";
+var mnemonic = "aim little bulb already crystal element wisdom box deputy habit purity make";

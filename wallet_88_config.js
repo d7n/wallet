@@ -1,1 +1,1 @@
-var mnemonic = "nuclear give mule snap jump educate velvet remember trust cupboard desert salute";
+var mnemonic = "cabin resemble phrase person gain test honey point naive arrow ride deputy";

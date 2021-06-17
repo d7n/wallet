@@ -1,1 +1,1 @@
-var mnemonic = "nasty barrel race leave correct pilot loan feed mule toddler escape bread";
+var mnemonic = "jealous output suspect spring middle taxi entry enemy come juice mesh wage";

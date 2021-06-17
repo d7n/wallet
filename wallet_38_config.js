@@ -1,1 +1,1 @@
-var mnemonic = "machine argue seven clock exclude heavy corn spread royal arrow stool garage";
+var mnemonic = "burger person put strategy relax another awkward letter token camp salad garbage";

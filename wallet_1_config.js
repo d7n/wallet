@@ -1,1 +1,1 @@
-var mnemonic = "soccer bid kiss athlete dirt cheese side stuff often key involve fit";
+var mnemonic = "sponsor verb jealous member uphold vibrant practice undo comfort maximum galaxy wrestle";

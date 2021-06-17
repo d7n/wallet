@@ -1,1 +1,1 @@
-var mnemonic = "discover filter apart gallery hire ranch anger wonder educate reveal split check";
+var mnemonic = "witness super despair answer risk reward play between tone cash border silver";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp program envelope barrel boil shy sibling tree inspire saddle expect into";
+var mnemonic = "mom ancient uncle income ribbon wool group stone dash spare sniff advice";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck spike apart element husband welcome agree critic delay bright glove sweet";
+var mnemonic = "protect toe pencil suffer enhance state copy lady distance conduct excess just";

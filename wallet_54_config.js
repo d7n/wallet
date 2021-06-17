@@ -1,1 +1,1 @@
-var mnemonic = "outside human tell chronic core bright walk frog amazing segment hurdle betray";
+var mnemonic = "loop biology consider chapter attitude mercy list blind punch ignore wet excess";

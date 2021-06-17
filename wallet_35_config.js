@@ -1,1 +1,1 @@
-var mnemonic = "prepare swallow young elephant stay pause scout jazz mutual uphold wolf share";
+var mnemonic = "crunch situate mixture celery confirm world brush filter express onion boy course";

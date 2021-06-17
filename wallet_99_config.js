@@ -1,1 +1,1 @@
-var mnemonic = "range knee glass wide taxi flip retreat blue topple key deliver minute";
+var mnemonic = "turtle blame easily spoon bleak feed slush expire rose piano hat blouse";

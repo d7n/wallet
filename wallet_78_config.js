@@ -1,1 +1,1 @@
-var mnemonic = "mechanic infant combine pottery picture main oil peasant security seed flip leader";
+var mnemonic = "dumb scene second elevator ski alley deliver negative online december offer resource";

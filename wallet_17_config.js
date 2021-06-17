@@ -1,1 +1,1 @@
-var mnemonic = "soul unique beef section rebuild science stool drop scorpion movie abuse stay";
+var mnemonic = "bread neither holiday rubber venture skin armor sound tonight ritual allow coconut";

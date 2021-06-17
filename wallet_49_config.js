@@ -1,1 +1,1 @@
-var mnemonic = "drive retreat pool iron decorate hair time reason link chef bid major";
+var mnemonic = "sign brass dove rib rack sword add sure initial lizard manage attend";

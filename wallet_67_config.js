@@ -1,1 +1,1 @@
-var mnemonic = "wrong wire parent rice crash sick rapid sport situate friend lobster forward";
+var mnemonic = "staff spoon stomach tissue monster foot cinnamon grab urban inspire talk faint";

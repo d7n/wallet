@@ -1,1 +1,1 @@
-var mnemonic = "okay cushion gym exercise quarter outdoor cheese unit cactus right skin parade";
+var mnemonic = "aisle resource orphan harsh spend viable hollow target gain forward february boat";

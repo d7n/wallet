@@ -1,1 +1,1 @@
-var mnemonic = "alley decorate outside segment crack final envelope employ ceiling camera fantasy brisk";
+var mnemonic = "steel elevator helmet sort result scissors stool loan special wise lady smile";

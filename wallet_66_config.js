@@ -1,1 +1,1 @@
-var mnemonic = "gauge derive woman swim jewel soap lumber earn copper ignore pig switch";
+var mnemonic = "doctor flee rare beach ahead spoon board marine hidden move quit tortoise";

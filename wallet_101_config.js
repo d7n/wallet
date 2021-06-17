@@ -1,1 +1,1 @@
-var mnemonic = "scrub auto first film taxi calm raccoon panel link unique slam range";
+var mnemonic = "envelope report cable draw loyal random wool staff trumpet peasant trumpet test";

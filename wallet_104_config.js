@@ -1,1 +1,1 @@
-var mnemonic = "glass elephant exercise hospital genius define giggle dose federal survey scare forward";
+var mnemonic = "weapon thank pass pink renew extend limb gate flavor receive gauge indoor";

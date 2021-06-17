@@ -1,1 +1,1 @@
-var mnemonic = "purpose avoid dress version found setup initial joy manual strong slam wasp";
+var mnemonic = "artefact much embark cycle demand theory kitten blame unknown fury jungle push";

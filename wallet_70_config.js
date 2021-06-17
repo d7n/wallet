@@ -1,1 +1,1 @@
-var mnemonic = "crush bag furnace hard vacant level language use stuff wing cheese giant";
+var mnemonic = "drama blush sibling admit jacket figure measure labor quality saddle alien season";

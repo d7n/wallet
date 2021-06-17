@@ -1,1 +1,1 @@
-var mnemonic = "patch silk often witness equal hotel squeeze example explain involve now emerge";
+var mnemonic = "cry pet whisper snap ensure welcome task strong effort clever trip high";

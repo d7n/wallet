@@ -1,1 +1,1 @@
-var mnemonic = "love boat can obvious vital decline fantasy ritual okay memory bicycle brand";
+var mnemonic = "cash sell system poem click pull satisfy online pitch muscle element noise";

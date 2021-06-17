@@ -1,1 +1,1 @@
-var mnemonic = "search brief forum twist net minute enemy figure pink practice inject exit";
+var mnemonic = "razor pond arctic summer grab juice pride welcome doll else fit steak";

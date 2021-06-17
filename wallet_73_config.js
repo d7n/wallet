@@ -1,1 +1,1 @@
-var mnemonic = "cream want elegant apple grit fury simple place collect hub buzz neglect";
+var mnemonic = "weather wear frame math common whisper script spoil brown digital agent cage";

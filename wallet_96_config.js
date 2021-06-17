@@ -1,1 +1,1 @@
-var mnemonic = "legend drama menu future weapon bonus word horse fiber share solid garlic";
+var mnemonic = "habit tooth staff gravity bag fury culture flush begin abandon absent screen";

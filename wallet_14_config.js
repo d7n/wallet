@@ -1,1 +1,1 @@
-var mnemonic = "visual rebuild fence side canyon brass tide fence you police luxury common";
+var mnemonic = "hammer cloth input cat argue offer name limit fruit hip make mimic";

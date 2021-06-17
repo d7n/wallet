@@ -1,1 +1,1 @@
-var mnemonic = "loan hollow victory usage cup web hint album subway virus horn borrow";
+var mnemonic = "belt march alley table humble leg march honey tissue hedgehog pattern suspect";

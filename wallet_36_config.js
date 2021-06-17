@@ -1,1 +1,1 @@
-var mnemonic = "brave doll crawl you monster promote certain average stand wisdom document envelope";
+var mnemonic = "endorse axis fun name lift cute wine amateur net spring first brand";

@@ -1,1 +1,1 @@
-var mnemonic = "eternal glue long mutual survey work color artefact space title tumble obscure";
+var mnemonic = "excuse minute above inherit uniform hill problem fly chaos bacon wait fish";

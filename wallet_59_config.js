@@ -1,1 +1,1 @@
-var mnemonic = "lottery peace dinner sauce absorb vapor crisp degree such rare hamster lab";
+var mnemonic = "pledge hood punch punch pluck damage recipe boil rubber local record flame";

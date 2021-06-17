@@ -1,1 +1,1 @@
-var mnemonic = "shoulder grace squirrel menu candy satisfy dentist canyon shine furnace click cat";
+var mnemonic = "sugar visit people labor multiply shell danger error mercy harvest joke keen";

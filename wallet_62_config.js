@@ -1,1 +1,1 @@
-var mnemonic = "mix used remember coach utility because secret combine prosper wrist attack taste";
+var mnemonic = "rubber key wheel unhappy elevator sport earth school sword bright weasel dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "marine race tide depend tag sheriff plastic raw shop salmon various solution";
+var mnemonic = "torch crawl claim hard garage swim stone garage border royal find brass";

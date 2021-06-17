@@ -1,1 +1,1 @@
-var mnemonic = "fork soap biology inject endorse profit kitchen dog raccoon design twist endless";
+var mnemonic = "fall victory patient palm auto arch cluster job miracle damp sell skate";

@@ -1,1 +1,1 @@
-var mnemonic = "basket scan piece stove weasel shine bike tenant praise board dose seed";
+var mnemonic = "cave visual use nephew skirt float expand affair suit destroy only sort";

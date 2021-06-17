@@ -1,1 +1,1 @@
-var mnemonic = "supply dumb return aware chapter fame lumber width pipe assault renew beef";
+var mnemonic = "spirit blame panic stable else seven blue fresh hire penalty behave cool";

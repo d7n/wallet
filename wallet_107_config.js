@@ -1,1 +1,1 @@
-var mnemonic = "you arctic laugh quote gas inspire cable robust dog bunker fiscal chase";
+var mnemonic = "voyage flash virus screen magnet merry mouse object merit awful season ocean";

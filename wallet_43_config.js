@@ -1,1 +1,1 @@
-var mnemonic = "grit picture fatal still neglect exclude skin change resist fish guilt favorite";
+var mnemonic = "portion disagree horror blood mad abstract blue main decide kidney reflect flush";

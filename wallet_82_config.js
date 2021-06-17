@@ -1,1 +1,1 @@
-var mnemonic = "place skin goddess exclude fade achieve stock among point ignore abuse shine";
+var mnemonic = "congress first oyster surface exhibit dune turtle push drift cycle screen tortoise";

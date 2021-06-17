@@ -1,1 +1,1 @@
-var mnemonic = "avoid weekend alarm cabin gauge great matrix again coconut magic roof reunion";
+var mnemonic = "vote tomato grow embrace rookie spy such rug casino idle truly strike";

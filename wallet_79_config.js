@@ -1,1 +1,1 @@
-var mnemonic = "hybrid toward hockey typical pill glide river armed problem federal birth cute";
+var mnemonic = "wear vanish stone surface cigar finish buzz heavy rapid road kid wheat";

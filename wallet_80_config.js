@@ -1,1 +1,1 @@
-var mnemonic = "idea fault employ amateur inquiry social glue item phrase civil arrest civil";
+var mnemonic = "treat balcony squeeze shadow please decade present always version team tissue intact";

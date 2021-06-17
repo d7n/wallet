@@ -1,1 +1,1 @@
-var mnemonic = "canvas cram chest crawl wool differ cause expire seminar miss man floor";
+var mnemonic = "brief sick flame retire cactus wedding dash fever nurse spring relief afford";

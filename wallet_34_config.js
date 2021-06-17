@@ -1,1 +1,1 @@
-var mnemonic = "that cause faint current target pen spatial better foster manual power destroy";
+var mnemonic = "evil exchange advance hidden bring during wrestle chest little video stamp mouse";

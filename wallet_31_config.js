@@ -1,1 +1,1 @@
-var mnemonic = "lava void price slender opinion earn interest lamp token used moon blossom";
+var mnemonic = "anxiety dance puzzle roast flush detect general cause permit inject future mercy";

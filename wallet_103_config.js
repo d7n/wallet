@@ -1,1 +1,1 @@
-var mnemonic = "pilot pattern assault rather bone police shock range response pilot arrest wild";
+var mnemonic = "rail lazy vintage rib honey collect beyond expire leg job merit move";

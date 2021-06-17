@@ -1,1 +1,1 @@
-var mnemonic = "present buzz urge gravity blue poverty work brush awesome bitter insect fish";
+var mnemonic = "reflect icon impact census curve tooth gate elevator absent few whale have";

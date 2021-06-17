@@ -1,1 +1,1 @@
-var mnemonic = "above motor grab bamboo success view this fee spice crisp canoe plug";
+var mnemonic = "swallow risk bullet chalk butter glory column razor antique whisper cliff punch";

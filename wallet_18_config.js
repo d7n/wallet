@@ -1,1 +1,1 @@
-var mnemonic = "film oil couch name lunch dinosaur innocent nature cat wrist wink century";
+var mnemonic = "eye audit brisk hover hungry thumb village milk fun coconut sleep never";

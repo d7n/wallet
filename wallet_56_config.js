@@ -1,1 +1,1 @@
-var mnemonic = "type love dad federal glow defense useful smile smile also collect embark";
+var mnemonic = "finish resemble aware laptop spare design minor invite purity path album dinner";

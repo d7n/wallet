@@ -1,1 +1,1 @@
-var mnemonic = "brother define garlic yard milk indicate oxygen sand tuition couple flower peace";
+var mnemonic = "fork arrest orchard distance memory there true youth leopard peace make intact";

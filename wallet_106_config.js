@@ -1,1 +1,1 @@
-var mnemonic = "energy total spare fury domain join install damage prevent noble flag panda";
+var mnemonic = "end make leaf solid render wise taste curtain solution together snap vehicle";

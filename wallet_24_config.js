@@ -1,1 +1,1 @@
-var mnemonic = "exclude trash evoke attract day strike fine fix genius science senior endless";
+var mnemonic = "knock spice install since name skull video category carpet test truth globe";

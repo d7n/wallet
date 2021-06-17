@@ -1,1 +1,1 @@
-var mnemonic = "lazy hidden thumb fringe between core weasel brand absurd swim inquiry hire";
+var mnemonic = "junk there fee okay rookie cupboard stove soup bread evil report dance";

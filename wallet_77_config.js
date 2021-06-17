@@ -1,1 +1,1 @@
-var mnemonic = "coconut remove explain pond local expire spring west jewel pony submit term";
+var mnemonic = "legal violin elbow innocent castle remain cruel dolphin exclude athlete mercy census";

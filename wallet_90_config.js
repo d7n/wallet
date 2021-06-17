@@ -1,1 +1,1 @@
-var mnemonic = "gather marble rebel cement focus pole shaft panda dwarf brain fiction regret";
+var mnemonic = "wolf crush write rain screen draw poem verb they alpha denial puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "device soul tissue risk fever clerk lucky silk sniff surface beauty fold";
+var mnemonic = "price dune void hurdle debate achieve other veteran swap benefit scheme utility";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry increase frequent bacon gain this shiver wedding beach submit kiwi effort";
+var mnemonic = "gun razor salad kiwi camera letter liquid swamp better goddess outer cannon";

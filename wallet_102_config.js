@@ -1,1 +1,1 @@
-var mnemonic = "valid melt problem mystery dilemma review note fish october state dog little";
+var mnemonic = "december orient casino core element mean album thunder stock coyote skate habit";

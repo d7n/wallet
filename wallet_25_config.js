@@ -1,1 +1,1 @@
-var mnemonic = "vibrant corn hair motion fashion penalty glass trim close good drill top";
+var mnemonic = "salute guess sea grid casual brass note lounge jealous exotic volume either";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual scale lonely also derive multiply diamond theory retreat garment dice april";
+var mnemonic = "flash size ancient apart firm hint glare demise tired garbage finger pigeon";

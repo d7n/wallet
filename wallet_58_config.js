@@ -1,1 +1,1 @@
-var mnemonic = "thank success duty artwork lens diagram spray frozen shed image rain clay";
+var mnemonic = "helmet fox inch useless bag all light danger head pulp act decorate";

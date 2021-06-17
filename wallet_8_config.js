@@ -1,1 +1,1 @@
-var mnemonic = "right true level depart nephew choose film raven deal icon actress arrest";
+var mnemonic = "maple advance pear table test neck play update spike you cruise panel";

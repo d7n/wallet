@@ -1,1 +1,1 @@
-var mnemonic = "duck before video inform canoe entire doctor delay scissors manual hybrid valid";
+var mnemonic = "practice tumble champion achieve rather outer imitate regret explain bounce pole market";

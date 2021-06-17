@@ -1,1 +1,1 @@
-var mnemonic = "vacant shoot kit web nerve face clerk gesture sail work resist labor";
+var mnemonic = "always upset more town charge aisle poem umbrella link remove foot grief";

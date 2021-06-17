@@ -1,1 +1,1 @@
-var mnemonic = "spatial toilet thrive plunge exact wrestle long silly post siege craft happy";
+var mnemonic = "steel taste wife chronic valley eager butter tackle foot during chef used";

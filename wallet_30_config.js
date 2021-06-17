@@ -1,1 +1,1 @@
-var mnemonic = "sudden power ketchup hundred rifle feel satisfy agent laptop prison vivid wrestle";
+var mnemonic = "cloud safe deliver planet taste they ticket creek embrace jewel wealth thunder";

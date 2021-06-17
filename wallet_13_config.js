@@ -1,1 +1,1 @@
-var mnemonic = "lobster brisk off once crucial equal urban bid find envelope tail rifle";
+var mnemonic = "potato use giant labor appear melt aim arrow manage gorilla tobacco jazz";

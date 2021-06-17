@@ -1,1 +1,1 @@
-var mnemonic = "page leaf judge travel mean picnic gorilla leaf disease picture glimpse run";
+var mnemonic = "tattoo allow coast adult custom release butter ancient hotel start maximum decline";
