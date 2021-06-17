@@ -1,1 +1,1 @@
-var mnemonic = "spare solve veteran weather into trend cattle usage piece hurdle bargain first";
+var mnemonic = "game silver pact mail spring fiction define tree reform muscle answer pride";

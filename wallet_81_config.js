@@ -1,1 +1,1 @@
-var mnemonic = "shrug hero all gold call wrestle increase army humble adapt feature mistake";
+var mnemonic = "find furnace eight before clock buddy load oil adjust cube awake age";

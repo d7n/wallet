@@ -1,1 +1,1 @@
-var mnemonic = "industry priority panic phrase across power oak either federal share under fly";
+var mnemonic = "very essay gentle pool grape virus baby toy hybrid zone join unhappy";

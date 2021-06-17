@@ -1,1 +1,1 @@
-var mnemonic = "april damp weather kidney frequent casino forward helmet pact taxi sunny legal";
+var mnemonic = "cute that search rigid amount dune burden short plate frequent seminar mystery";

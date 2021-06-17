@@ -1,1 +1,1 @@
-var mnemonic = "stage laugh defy stem proud glue tell prize slender friend clip amused";
+var mnemonic = "retire season cheap usual venue soda pen vote night require evoke volume";

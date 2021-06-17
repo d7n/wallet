@@ -1,1 +1,1 @@
-var mnemonic = "patrol puzzle goose piece exotic peanut gather source music swap era stadium";
+var mnemonic = "damage renew police jar surface person stable dinner silk hamster moral open";

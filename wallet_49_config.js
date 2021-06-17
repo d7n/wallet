@@ -1,1 +1,1 @@
-var mnemonic = "remain inform acoustic thrive cave vicious gown work emotion frog agent step";
+var mnemonic = "swim again tooth reduce sad dish bind position arena romance payment swamp";

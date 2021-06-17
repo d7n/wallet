@@ -1,1 +1,1 @@
-var mnemonic = "illness salmon disagree hint ready kitchen dawn float ripple tribe fiber year";
+var mnemonic = "evolve defy valid phone foil weasel affair engage fitness afford lonely future";

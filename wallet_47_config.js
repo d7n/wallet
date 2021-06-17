@@ -1,1 +1,1 @@
-var mnemonic = "piano have save film famous stick crawl mushroom inherit infant ridge huge";
+var mnemonic = "kingdom average reform prosper glimpse actor dawn holiday happy chicken fun ensure";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden valve rubber exit mixture coil check bean wear search rack riot";
+var mnemonic = "hundred blind long noble reason protect spoon ethics list merge typical pole";

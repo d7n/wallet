@@ -1,1 +1,1 @@
-var mnemonic = "element alley wait brisk common mobile ripple pencil believe desert olympic almost";
+var mnemonic = "uphold scene always grab search answer lazy motion account loyal moon minor";

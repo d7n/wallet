@@ -1,1 +1,1 @@
-var mnemonic = "palace tattoo cart vault pledge ketchup boil doctor recycle replace eagle super";
+var mnemonic = "detail option skate allow duty polar say avoid humble harbor apology hood";

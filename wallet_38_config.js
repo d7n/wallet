@@ -1,1 +1,1 @@
-var mnemonic = "kidney impose lonely build soup flush humor relax skin diagram drum drop";
+var mnemonic = "height slender duty verify skill syrup there brand visit wheat garage border";

@@ -1,1 +1,1 @@
-var mnemonic = "library bike carry clever acquire because volume paddle escape demise spring focus";
+var mnemonic = "belt like wood essay theory size convince ladder ask crisp company grid";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn burger better pencil mansion style disorder arrange relief wash wise monkey";
+var mnemonic = "excess endorse betray someone birth host wild aerobic fit swim fever mother";

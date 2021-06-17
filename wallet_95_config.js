@@ -1,1 +1,1 @@
-var mnemonic = "iron report bless state group walk habit ticket moral differ duty shadow";
+var mnemonic = "intact salute speed height loop remain grief say cruise antique home moon";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent habit record search update promote fatal away armed route blur must";
+var mnemonic = "mad glide fossil nothing wall crystal night risk business tube twelve book";

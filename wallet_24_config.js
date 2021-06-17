@@ -1,1 +1,1 @@
-var mnemonic = "fashion expose snack jealous hockey venture green orange where addict border thing";
+var mnemonic = "suspect ring never snake cargo prison cube aim tongue narrow sad very";

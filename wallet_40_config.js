@@ -1,1 +1,1 @@
-var mnemonic = "chaos coyote under detect cry drop panic penalty mom build loop extend";
+var mnemonic = "budget ready hurry news bird like genre toe pond couch twelve summer";

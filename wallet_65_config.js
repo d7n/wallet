@@ -1,1 +1,1 @@
-var mnemonic = "tuition someone disease flush island today scare resemble bean type entry roof";
+var mnemonic = "switch dry struggle truly rifle regret tourist gown talent shrug slice zero";

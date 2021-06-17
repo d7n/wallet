@@ -1,1 +1,1 @@
-var mnemonic = "derive chalk there chase snow satoshi saddle rose visit tiny artefact art";
+var mnemonic = "lawsuit joke cup excess merit taxi occur border only income thunder ivory";

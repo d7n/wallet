@@ -1,1 +1,1 @@
-var mnemonic = "uniform journey grocery weasel arena comic worry buyer same shove fatal harsh";
+var mnemonic = "drama spread salon misery enhance marriage post broom moon rabbit cup human";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin network ship amateur month fruit hub trial horn more toward inmate";
+var mnemonic = "number exercise strategy client extra swallow someone sphere faith exit catch know";

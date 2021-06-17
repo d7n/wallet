@@ -1,1 +1,1 @@
-var mnemonic = "panic cheap curve birth digital flush notable critic aim slight forward decade";
+var mnemonic = "raven bike timber night visa act attitude bracket window flower trouble lift";

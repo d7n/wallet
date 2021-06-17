@@ -1,1 +1,1 @@
-var mnemonic = "trend involve skull canyon among wait theme swallow vault father oak buzz";
+var mnemonic = "pretty recipe ribbon cost garden laugh very avocado turtle family correct ozone";

@@ -1,1 +1,1 @@
-var mnemonic = "ostrich master audit forum cave net once fire fever project already stool";
+var mnemonic = "useful cannon chalk menu surface utility pony essence pet auto phrase divide";

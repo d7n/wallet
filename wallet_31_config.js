@@ -1,1 +1,1 @@
-var mnemonic = "spoon mention load holiday all wise solid zone beach alert boil beyond";
+var mnemonic = "castle trumpet scrap dawn winner someone axis debate ethics broom abstract dumb";

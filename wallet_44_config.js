@@ -1,1 +1,1 @@
-var mnemonic = "snap whale emotion park just allow require foot age mask mutual pave";
+var mnemonic = "dutch vivid people phrase bomb right immune machine moral toss any uncover";

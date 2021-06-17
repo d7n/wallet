@@ -1,1 +1,1 @@
-var mnemonic = "street square pilot gesture decline invite oblige absent match topic connect focus";
+var mnemonic = "viable frequent access infant history survey blush talk motion dove vendor donate";

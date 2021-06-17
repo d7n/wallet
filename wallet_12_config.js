@@ -1,1 +1,1 @@
-var mnemonic = "myth shallow risk link alter dismiss dial wedding myth punch reason seminar";
+var mnemonic = "pass quit crisp fat benefit coil host wave round vintage valid donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "energy today glory salmon rocket before type food moral iron sunset knife";
+var mnemonic = "else romance easy tower crop route amount topic accident worth bachelor junk";

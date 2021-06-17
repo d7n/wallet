@@ -1,1 +1,1 @@
-var mnemonic = "burden that stage river glory inflict critic stem middle scare hybrid wealth";
+var mnemonic = "upset soon steak reopen forest steak cliff slab weather spray mean dress";

@@ -1,1 +1,1 @@
-var mnemonic = "render vessel run tilt museum pole diesel exist wing glory identify size";
+var mnemonic = "giggle task polar twist smile deal fat grain army already flip napkin";

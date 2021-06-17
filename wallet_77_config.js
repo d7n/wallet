@@ -1,1 +1,1 @@
-var mnemonic = "road access hybrid dentist address waste heavy parrot risk slide discover hidden";
+var mnemonic = "force town cloth scheme digital flag letter armed one misery run fault";

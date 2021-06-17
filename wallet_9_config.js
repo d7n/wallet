@@ -1,1 +1,1 @@
-var mnemonic = "novel cash rain language elder input give inspire physical calm puppy matrix";
+var mnemonic = "zone oblige hunt crime joke adult exile tone actual visit output energy";

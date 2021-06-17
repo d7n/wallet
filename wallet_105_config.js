@@ -1,1 +1,1 @@
-var mnemonic = "crater strong always pig sight similar sail sauce bridge wrong verify lawn";
+var mnemonic = "secret subject auction raw abuse panel practice shoe slab army antenna dove";

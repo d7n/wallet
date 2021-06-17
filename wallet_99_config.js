@@ -1,1 +1,1 @@
-var mnemonic = "wasp improve chief magnet define ceiling private stamp stick scissors body twist";
+var mnemonic = "bitter pill tank acquire source loan card summer blame zebra panic amazing";

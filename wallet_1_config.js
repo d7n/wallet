@@ -1,1 +1,1 @@
-var mnemonic = "employ shield name knee success trigger true duty atom layer stove rebuild";
+var mnemonic = "base cushion retire huge knife like random metal nasty seat mean enable";

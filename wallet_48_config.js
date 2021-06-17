@@ -1,1 +1,1 @@
-var mnemonic = "knee thunder final level edit bounce feed noodle smooth occur burden twin";
+var mnemonic = "chimney depend yellow tunnel promote welcome nose limit oyster laptop course divert";

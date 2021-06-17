@@ -1,1 +1,1 @@
-var mnemonic = "then valid carbon lucky want lumber acid endorse flight chef siren pony";
+var mnemonic = "noble end sense follow cook yellow pig subway tomorrow across slot carry";

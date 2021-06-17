@@ -1,1 +1,1 @@
-var mnemonic = "badge cloud stem twice odor pave plate cricket dress lesson essay immense";
+var mnemonic = "release shallow phone pigeon depart budget shop approve artist dress slogan that";

@@ -1,1 +1,1 @@
-var mnemonic = "exit suffer chase debris receive giggle drip decrease despair crew rather defense";
+var mnemonic = "valve skin strong route pattern mesh portion expose virus sure plunge father";

@@ -1,1 +1,1 @@
-var mnemonic = "fine rare shed image service more bitter divide mixed curve violin sphere";
+var mnemonic = "essence course range rail parade space whip february tube write risk swim";

@@ -1,1 +1,1 @@
-var mnemonic = "where skin master similar sadness treat prize claim gentle omit position swap";
+var mnemonic = "very goddess pond good task found lyrics stumble thumb avoid viable vivid";

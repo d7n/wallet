@@ -1,1 +1,1 @@
-var mnemonic = "turtle school initial arch sun struggle absurd mercy person occur episode clever";
+var mnemonic = "culture spare drill radar cluster name believe federal punch episode aerobic section";

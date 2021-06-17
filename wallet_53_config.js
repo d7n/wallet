@@ -1,1 +1,1 @@
-var mnemonic = "matrix myth target push barely amazing news soul cargo floor tell inform";
+var mnemonic = "acquire income wreck acid jungle hungry entry report drill stairs purse baby";

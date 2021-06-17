@@ -1,1 +1,1 @@
-var mnemonic = "wall nasty liar funny bundle such record peasant lesson guitar cup spread";
+var mnemonic = "cluster gather oval siren reflect ignore stand easy hope husband scheme layer";

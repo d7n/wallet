@@ -1,1 +1,1 @@
-var mnemonic = "ethics artist system relief pass avocado shoe used base grass govern consider";
+var mnemonic = "century cost face segment various ceiling crouch air forum abandon work cigar";

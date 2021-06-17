@@ -1,1 +1,1 @@
-var mnemonic = "meat fringe paddle question good meadow sausage adult approve soup frame term";
+var mnemonic = "shallow follow spoon use remind bind kangaroo student tissue skirt flash gentle";

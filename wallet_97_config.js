@@ -1,1 +1,1 @@
-var mnemonic = "snap dog cable fire clap sort advance damp blind resemble joke bamboo";
+var mnemonic = "dove must certain tuna pink regular one same eight powder parrot excuse";

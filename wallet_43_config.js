@@ -1,1 +1,1 @@
-var mnemonic = "grief act like law trick job pulp one home write glare attract";
+var mnemonic = "syrup royal loan liberty run science satoshi fork fall donate away manage";

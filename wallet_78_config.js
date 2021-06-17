@@ -1,1 +1,1 @@
-var mnemonic = "soldier boy history engage stomach foot rescue way shoe dry matrix wide";
+var mnemonic = "rebel kit kit pattern matrix under visit urban patrol length waste grow";

@@ -1,1 +1,1 @@
-var mnemonic = "have decrease amount dilemma sponsor error worry retreat blossom school alien bread";
+var mnemonic = "mountain mercy autumn rally muffin crazy orient boost hybrid spread young photo";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle apology resemble trash mercy general input offer wink decade sugar between";
+var mnemonic = "lend cruel disease index east faint arctic pitch kangaroo captain water laptop";

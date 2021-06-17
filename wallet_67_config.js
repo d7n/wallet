@@ -1,1 +1,1 @@
-var mnemonic = "broken north truly acquire cargo setup river use whisper coral affair car";
+var mnemonic = "manage truck fat dwarf cat cook false assault young canoe expose vessel";

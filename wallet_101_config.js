@@ -1,1 +1,1 @@
-var mnemonic = "alert total tray what tumble stereo echo excite water lawsuit bus faith";
+var mnemonic = "fiber select fat black oyster only salute dutch stove concert icon behind";

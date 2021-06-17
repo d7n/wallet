@@ -1,1 +1,1 @@
-var mnemonic = "loan dog unhappy zone jeans nut exile run chalk van typical chapter";
+var mnemonic = "mixed rookie unveil situate eyebrow symptom render same ripple satoshi shaft zero";

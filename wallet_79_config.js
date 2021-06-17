@@ -1,1 +1,1 @@
-var mnemonic = "cereal pool powder imitate dutch hole step install ramp urge length survey";
+var mnemonic = "entry youth voice tell bless drill bread able lemon room ticket message";

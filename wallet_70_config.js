@@ -1,1 +1,1 @@
-var mnemonic = "aim room hunt remember cream hurt green false erosion fatigue bronze sword";
+var mnemonic = "reunion census morning above antenna lizard bar fringe vivid mean consider oblige";

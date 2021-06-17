@@ -1,1 +1,1 @@
-var mnemonic = "divert frown pilot frown ski glide vast despair more six bleak afraid";
+var mnemonic = "oval offer valve capable bunker model between timber erupt lunch whip humble";

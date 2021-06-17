@@ -1,1 +1,1 @@
-var mnemonic = "glance cash upon buyer balance swim shoe job unfold quantum double return";
+var mnemonic = "popular rookie echo worth survey casual milk learn flee write approve swim";

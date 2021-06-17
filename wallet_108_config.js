@@ -1,1 +1,1 @@
-var mnemonic = "setup canoe cement cupboard country country cross pony rather price dirt copy";
+var mnemonic = "stone mercy daring alert urban indicate swim talent absorb sand slight resource";

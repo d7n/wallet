@@ -1,1 +1,1 @@
-var mnemonic = "best erode finish wear explain key kitten sea net future opera garbage";
+var mnemonic = "dignity moment end agent solve reward together butter awake ahead praise refuse";

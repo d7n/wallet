@@ -1,1 +1,1 @@
-var mnemonic = "disease tissue dutch purity argue hen endorse basket forum rice ability pencil";
+var mnemonic = "hard rival airport evoke relax magnet mask bundle guess panther blanket extra";

@@ -1,1 +1,1 @@
-var mnemonic = "region badge frown disorder pulp marine nuclear poem always add quarter bicycle";
+var mnemonic = "example crouch purse glide nurse trial emerge angle lava student title shop";

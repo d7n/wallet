@@ -1,1 +1,1 @@
-var mnemonic = "project cupboard alien novel album problem private mutual provide cabin popular recipe";
+var mnemonic = "family cake give summer capital bronze gadget income prepare swarm later rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic orbit file match seek remind need squirrel art illness secret mobile";
+var mnemonic = "rare lemon popular lazy able thank number enhance lab expire very between";

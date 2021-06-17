@@ -1,1 +1,1 @@
-var mnemonic = "achieve hurt rack now camp time myth bless wave host speed brisk";
+var mnemonic = "nation forest play forum all else cat rifle onion stock rifle tank";

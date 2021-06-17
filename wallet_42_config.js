@@ -1,1 +1,1 @@
-var mnemonic = "degree demise domain isolate scan portion chapter sea range near cake dwarf";
+var mnemonic = "quit snake physical style title arrive gym seek visa author hello hawk";

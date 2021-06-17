@@ -1,1 +1,1 @@
-var mnemonic = "chapter auction cash finish snack swallow birth bracket between address entry viable";
+var mnemonic = "oval public put render sound spread romance stereo proof opera exhaust bridge";

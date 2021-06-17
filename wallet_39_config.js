@@ -1,1 +1,1 @@
-var mnemonic = "sword album reject prosper people gasp pole october dutch gate easy result";
+var mnemonic = "ritual before second hunt online eight unfair bridge core asthma uncle meat";

@@ -1,1 +1,1 @@
-var mnemonic = "omit crime armed topple ahead tourist lock wink camera long link typical";
+var mnemonic = "regret heavy define gentle submit champion banner release useless range ocean balance";

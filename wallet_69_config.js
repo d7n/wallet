@@ -1,1 +1,1 @@
-var mnemonic = "ozone thought stereo cotton feed dad curious trophy exile monkey tip include";
+var mnemonic = "resemble upgrade ankle panel perfect bind rain obvious advance scorpion field soccer";

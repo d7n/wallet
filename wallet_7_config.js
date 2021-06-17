@@ -1,1 +1,1 @@
-var mnemonic = "culture shiver code dentist wrong virtual scorpion program fork pair pause number";
+var mnemonic = "cactus meadow color snow until brand elevator credit absurd monkey kiss design";

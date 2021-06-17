@@ -1,1 +1,1 @@
-var mnemonic = "desert foot list try save multiply panic easily coyote hero envelope erode";
+var mnemonic = "capable kitten shed blood ability damage rain guess bunker fury problem fantasy";

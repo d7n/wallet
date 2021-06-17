@@ -1,1 +1,1 @@
-var mnemonic = "exit rapid monster word twist frame cabin choice question between huge bacon";
+var mnemonic = "trial will option laptop chalk hand only pause giant gap olive dolphin";

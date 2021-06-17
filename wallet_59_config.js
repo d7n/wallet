@@ -1,1 +1,1 @@
-var mnemonic = "clip kite casino illegal okay moment price say stomach mobile minimum ribbon";
+var mnemonic = "swift vital equal gown resource orange embody board better upset remind pudding";

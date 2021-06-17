@@ -1,1 +1,1 @@
-var mnemonic = "false ensure cake same fade treat pole chef fury hobby priority purse";
+var mnemonic = "gravity buddy grit tumble photo govern effort violin erosion slogan upon reject";

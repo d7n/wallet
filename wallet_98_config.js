@@ -1,1 +1,1 @@
-var mnemonic = "sock train model verb diesel diesel rubber believe duck must oak angry";
+var mnemonic = "dutch pony firm wrestle radar clock range legal orchard crucial jungle hill";

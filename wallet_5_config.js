@@ -1,1 +1,1 @@
-var mnemonic = "original weather layer disease stage again pyramid vivid attract toddler suffer large";
+var mnemonic = "wire kite bright neglect sun grocery ketchup mammal guilt glare prevent aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf camp reflect elephant vanish army bracket crack very garment mammal tumble";
+var mnemonic = "emotion seminar steel alter clap educate elephant prefer scout distance film puzzle";

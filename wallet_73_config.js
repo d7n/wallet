@@ -1,1 +1,1 @@
-var mnemonic = "ostrich spoil melt prepare fan random soccer strike path raccoon barely body";
+var mnemonic = "twice excite burst twist ivory tent bulk large legal notable rather knife";

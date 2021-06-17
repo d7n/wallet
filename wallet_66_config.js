@@ -1,1 +1,1 @@
-var mnemonic = "minor honey october light artist fantasy ski disorder carbon tunnel awake rapid";
+var mnemonic = "you shift two hello velvet dentist axis dentist urge roast group actress";

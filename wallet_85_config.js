@@ -1,1 +1,1 @@
-var mnemonic = "solar baby forward caution custom state angry vote hint interest snack fun";
+var mnemonic = "great genre load betray steak cherry girl wheel leg pill fire spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "fit fit add trigger among journey start image argue shine chalk flock";
+var mnemonic = "slush stick eternal mechanic mosquito work sell jealous sugar bar rack cannon";

@@ -1,1 +1,1 @@
-var mnemonic = "crater orchard crunch learn engage vacant burden work wood cotton flame glove";
+var mnemonic = "enter remain fiction web vote donkey waste flame garage sauce annual thank";

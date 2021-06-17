@@ -1,1 +1,1 @@
-var mnemonic = "short fiber drink height glare glimpse video blind rigid lesson robust april";
+var mnemonic = "thought miracle wrestle truth health gesture blue knee pretty prosper night merge";

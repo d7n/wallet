@@ -1,1 +1,1 @@
-var mnemonic = "two major position misery cattle silly predict crawl twin math stone actor";
+var mnemonic = "alien convince ugly explain diamond hurdle burger sense dinosaur spatial donor planet";

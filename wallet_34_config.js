@@ -1,1 +1,1 @@
-var mnemonic = "humor tiger island cluster danger loyal pond used type brief rule aunt";
+var mnemonic = "teach harvest ancient shed mansion creek quote rather tobacco embrace trouble tone";
