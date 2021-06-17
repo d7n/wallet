@@ -1,1 +1,1 @@
-var mnemonic = "exit toilet present field perfect fabric power cargo super eagle gym fault";
+var mnemonic = "chaos coyote under detect cry drop panic penalty mom build loop extend";

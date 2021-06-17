@@ -1,1 +1,1 @@
-var mnemonic = "rely govern ridge opinion crime jacket letter exchange toward seat noble process";
+var mnemonic = "fire poet music bleak stick orphan wage fetch crane woman stadium asset";

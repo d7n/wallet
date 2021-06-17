@@ -1,1 +1,1 @@
-var mnemonic = "crunch milk vessel clap flash weekend top social ankle enable surprise type";
+var mnemonic = "iron report bless state group walk habit ticket moral differ duty shadow";

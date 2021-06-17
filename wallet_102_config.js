@@ -1,1 +1,1 @@
-var mnemonic = "bonus manage hybrid jealous shoulder three lottery keep bid crack vicious problem";
+var mnemonic = "element alley wait brisk common mobile ripple pencil believe desert olympic almost";

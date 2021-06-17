@@ -1,1 +1,1 @@
-var mnemonic = "purpose easily slight frozen energy depart oxygen belt fitness winter network mother";
+var mnemonic = "myth shallow risk link alter dismiss dial wedding myth punch reason seminar";

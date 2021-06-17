@@ -1,1 +1,1 @@
-var mnemonic = "column shrug toilet legend bomb cancel retreat hello vast reveal blind banner";
+var mnemonic = "clinic orbit file match seek remind need squirrel art illness secret mobile";

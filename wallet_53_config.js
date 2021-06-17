@@ -1,1 +1,1 @@
-var mnemonic = "video bitter pyramid wheel suffer element annual below pitch trend seminar salad";
+var mnemonic = "matrix myth target push barely amazing news soul cargo floor tell inform";

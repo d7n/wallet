@@ -1,1 +1,1 @@
-var mnemonic = "butter game witness witness advice dumb toss route invest reason child laptop";
+var mnemonic = "alert total tray what tumble stereo echo excite water lawsuit bus faith";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth garden vital dirt august dose bless grab family bench sea excess";
+var mnemonic = "grief act like law trick job pulp one home write glare attract";

@@ -1,1 +1,1 @@
-var mnemonic = "know chaos song wing ghost perfect edge modify head document evidence act";
+var mnemonic = "soldier boy history engage stomach foot rescue way shoe dry matrix wide";

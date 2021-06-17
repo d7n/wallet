@@ -1,1 +1,1 @@
-var mnemonic = "lesson pave daring one night lady collect forest verify mule artefact december";
+var mnemonic = "street march board resemble public casino add flower rib ill ability retire";

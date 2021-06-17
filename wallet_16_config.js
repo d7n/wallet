@@ -1,1 +1,1 @@
-var mnemonic = "lobster unhappy identify beef fiction size upper timber few opera reopen lazy";
+var mnemonic = "street square pilot gesture decline invite oblige absent match topic connect focus";

@@ -1,1 +1,1 @@
-var mnemonic = "speak onion maid fence curious spin bitter used stuff scrub thunder talk";
+var mnemonic = "fit fit add trigger among journey start image argue shine chalk flock";

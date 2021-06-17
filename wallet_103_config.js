@@ -1,1 +1,1 @@
-var mnemonic = "ridge pepper fun grape enough corn circle coffee hire reflect hint boil";
+var mnemonic = "april damp weather kidney frequent casino forward helmet pact taxi sunny legal";

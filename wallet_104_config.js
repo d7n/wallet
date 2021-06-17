@@ -1,1 +1,1 @@
-var mnemonic = "jar kitchen share almost feel pencil dune hard minor clerk roof degree";
+var mnemonic = "dwarf camp reflect elephant vanish army bracket crack very garment mammal tumble";

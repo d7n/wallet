@@ -1,1 +1,1 @@
-var mnemonic = "decorate already tornado addict bachelor genuine glide twist joy between judge path";
+var mnemonic = "consider upper ability smoke fortune cargo have song meadow change upon cost";

@@ -1,1 +1,1 @@
-var mnemonic = "inch author congress utility benefit fancy bachelor fun early venture benefit clock";
+var mnemonic = "cabin network ship amateur month fruit hub trial horn more toward inmate";

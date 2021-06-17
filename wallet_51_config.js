@@ -1,1 +1,1 @@
-var mnemonic = "carpet steak clever bitter vessel skin school talk robust coil patrol treat";
+var mnemonic = "citizen illness machine sponsor famous spider blame nose special common border flip";

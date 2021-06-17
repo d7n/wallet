@@ -1,1 +1,1 @@
-var mnemonic = "inhale obey glare paddle spike diary dust total sweet load goose volcano";
+var mnemonic = "endless deer whale else bitter tonight artefact ability keep liquid swallow gain";

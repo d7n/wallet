@@ -1,1 +1,1 @@
-var mnemonic = "dwarf start text slim aim width domain refuse enter zone fossil motion";
+var mnemonic = "ramp lava whisper tortoise much task keen lava fantasy danger later runway";

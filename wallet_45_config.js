@@ -1,1 +1,1 @@
-var mnemonic = "chat learn reopen cabin charge body endless feel space work time gate";
+var mnemonic = "derive chalk there chase snow satoshi saddle rose visit tiny artefact art";

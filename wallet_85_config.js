@@ -1,1 +1,1 @@
-var mnemonic = "recipe ice force diary syrup dinner find despair flash false input viable";
+var mnemonic = "solar baby forward caution custom state angry vote hint interest snack fun";

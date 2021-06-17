@@ -1,1 +1,1 @@
-var mnemonic = "memory cute pole urban cash farm risk before brush misery current script";
+var mnemonic = "patrol puzzle goose piece exotic peanut gather source music swap era stadium";

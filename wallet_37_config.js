@@ -1,1 +1,1 @@
-var mnemonic = "bird swear hold bag farm suggest achieve verify friend invest actor agent";
+var mnemonic = "uniform journey grocery weasel arena comic worry buyer same shove fatal harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "just appear hub use panther bird yellow solid bar crawl devote camera";
+var mnemonic = "panic cheap curve birth digital flush notable critic aim slight forward decade";

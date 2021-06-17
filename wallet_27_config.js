@@ -1,1 +1,1 @@
-var mnemonic = "theory diagram coconut argue attitude elephant radar pledge piano cube umbrella rice";
+var mnemonic = "disease tissue dutch purity argue hen endorse basket forum rice ability pencil";

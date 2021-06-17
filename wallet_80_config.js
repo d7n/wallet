@@ -1,1 +1,1 @@
-var mnemonic = "prize neglect skill intact hope mesh exchange sketch coconut matrix weather biology";
+var mnemonic = "exit suffer chase debris receive giggle drip decrease despair crew rather defense";

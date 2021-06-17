@@ -1,1 +1,1 @@
-var mnemonic = "immune toy reflect one crush extra train hair result frown derive fiscal";
+var mnemonic = "amount grid finger gossip brick true giant father senior cycle finger eternal";

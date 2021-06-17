@@ -1,1 +1,1 @@
-var mnemonic = "hill primary almost earn grace globe drama clip social token tool inch";
+var mnemonic = "short fiber drink height glare glimpse video blind rigid lesson robust april";

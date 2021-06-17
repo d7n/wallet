@@ -1,1 +1,1 @@
-var mnemonic = "ghost giraffe since skill organ genre renew gallery crucial hurdle claw finger";
+var mnemonic = "medal drill knee quarter gravity height buffalo vehicle perfect envelope offer cheese";

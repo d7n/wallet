@@ -1,1 +1,1 @@
-var mnemonic = "garage glow hello clock only way candy whale catch onion tackle decorate";
+var mnemonic = "curious furnace enable absent satisfy blast cancel file way eternal quiz giggle";

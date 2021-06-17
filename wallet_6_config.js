@@ -1,1 +1,1 @@
-var mnemonic = "snack vessel limit hen exact dry file matter delay globe hand enlist";
+var mnemonic = "energy today glory salmon rocket before type food moral iron sunset knife";

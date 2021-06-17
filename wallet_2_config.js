@@ -1,1 +1,1 @@
-var mnemonic = "unit rate mammal genre crater pact daring course vintage mixed mercy cup";
+var mnemonic = "best erode finish wear explain key kitten sea net future opera garbage";

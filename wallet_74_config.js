@@ -1,1 +1,1 @@
-var mnemonic = "fish resist aerobic pill twelve depend twelve kangaroo climb again airport advance";
+var mnemonic = "then valid carbon lucky want lumber acid endorse flight chef siren pony";

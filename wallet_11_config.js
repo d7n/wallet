@@ -1,1 +1,1 @@
-var mnemonic = "old quick science issue sausage buffalo color shrug frozen fetch seek display";
+var mnemonic = "wall nasty liar funny bundle such record peasant lesson guitar cup spread";

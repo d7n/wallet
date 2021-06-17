@@ -1,1 +1,1 @@
-var mnemonic = "abandon ensure cotton desert dwarf squirrel ostrich salon track idea barely gun";
+var mnemonic = "shrug hero all gold call wrestle increase army humble adapt feature mistake";

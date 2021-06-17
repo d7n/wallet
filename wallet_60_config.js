@@ -1,1 +1,1 @@
-var mnemonic = "blur word adjust income drop topple flower turn flash trigger grief indoor";
+var mnemonic = "sudden valve rubber exit mixture coil check bean wear search rack riot";

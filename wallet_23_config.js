@@ -1,1 +1,1 @@
-var mnemonic = "pigeon donor remove forget wall cherry resist because mushroom venue mass wrong";
+var mnemonic = "project cupboard alien novel album problem private mutual provide cabin popular recipe";

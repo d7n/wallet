@@ -1,1 +1,1 @@
-var mnemonic = "nose half lumber effort menu control keep scan holiday shrimp fish pyramid";
+var mnemonic = "industry priority panic phrase across power oak either federal share under fly";

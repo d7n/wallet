@@ -1,1 +1,1 @@
-var mnemonic = "father access fresh occur regret primary hamster response cattle jelly naive reason";
+var mnemonic = "trend involve skull canyon among wait theme swallow vault father oak buzz";

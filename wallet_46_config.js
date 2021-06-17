@@ -1,1 +1,1 @@
-var mnemonic = "mass basket spare donate ethics barrel demise maid shaft crane oil atom";
+var mnemonic = "chapter auction cash finish snack swallow birth bracket between address entry viable";

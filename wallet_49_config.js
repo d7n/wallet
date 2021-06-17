@@ -1,1 +1,1 @@
-var mnemonic = "crumble ivory year pretty juice basic twice found dragon giggle grant supply";
+var mnemonic = "remain inform acoustic thrive cave vicious gown work emotion frog agent step";

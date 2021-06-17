@@ -1,1 +1,1 @@
-var mnemonic = "twelve zoo soccer detect thunder short foam flat stem west bright also";
+var mnemonic = "ostrich spoil melt prepare fan random soccer strike path raccoon barely body";

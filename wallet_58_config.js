@@ -1,1 +1,1 @@
-var mnemonic = "enough camera ladder liquid connect spot tackle monkey apology object outdoor nurse";
+var mnemonic = "crater orchard crunch learn engage vacant burden work wood cotton flame glove";

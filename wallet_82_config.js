@@ -1,1 +1,1 @@
-var mnemonic = "glow doctor stadium chest seminar price trend judge antique august remind issue";
+var mnemonic = "divert frown pilot frown ski glide vast despair more six bleak afraid";

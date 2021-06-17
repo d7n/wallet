@@ -1,1 +1,1 @@
-var mnemonic = "pipe metal plate predict profit scheme ask bomb mixture report amount rate";
+var mnemonic = "glance cash upon buyer balance swim shoe job unfold quantum double return";

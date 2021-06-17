@@ -1,1 +1,1 @@
-var mnemonic = "craft fatigue super snow charge evolve fire tiny soda name digital iron";
+var mnemonic = "tuition someone disease flush island today scare resemble bean type entry roof";

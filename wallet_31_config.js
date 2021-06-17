@@ -1,1 +1,1 @@
-var mnemonic = "practice canal immune picnic pitch dinner empower jeans body ignore carry remember";
+var mnemonic = "spoon mention load holiday all wise solid zone beach alert boil beyond";

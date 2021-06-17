@@ -1,1 +1,1 @@
-var mnemonic = "stuff agree benefit business jungle leave recipe profit news virtual people dynamic";
+var mnemonic = "spare solve veteran weather into trend cattle usage piece hurdle bargain first";

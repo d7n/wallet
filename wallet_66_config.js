@@ -1,1 +1,1 @@
-var mnemonic = "glad obtain girl once pudding deputy right enough trophy mammal raccoon analyst";
+var mnemonic = "minor honey october light artist fantasy ski disorder carbon tunnel awake rapid";

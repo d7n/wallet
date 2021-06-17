@@ -1,1 +1,1 @@
-var mnemonic = "cycle tooth amazing organ meat main cluster van donor midnight mimic vague";
+var mnemonic = "achieve hurt rack now camp time myth bless wave host speed brisk";

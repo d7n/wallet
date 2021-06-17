@@ -1,1 +1,1 @@
-var mnemonic = "curve chest say curious path sheriff glove seat paddle yellow noodle cancel";
+var mnemonic = "vapor evil okay upon episode glory net intact unfair sudden park letter";

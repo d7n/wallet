@@ -1,1 +1,1 @@
-var mnemonic = "huge worry category kick still mobile dream stage panic column test online";
+var mnemonic = "have decrease amount dilemma sponsor error worry retreat blossom school alien bread";

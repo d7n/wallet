@@ -1,1 +1,1 @@
-var mnemonic = "father damage tumble garlic raccoon cash promote obvious scissors exact copper space";
+var mnemonic = "degree demise domain isolate scan portion chapter sea range near cake dwarf";

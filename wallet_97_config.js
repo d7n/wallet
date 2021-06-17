@@ -1,1 +1,1 @@
-var mnemonic = "vibrant ivory great gift sick seminar predict swim comfort sell tumble spare";
+var mnemonic = "snap dog cable fire clap sort advance damp blind resemble joke bamboo";

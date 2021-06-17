@@ -1,1 +1,1 @@
-var mnemonic = "inside brave dune knock stem orient arrive mystery ceiling initial edit unit";
+var mnemonic = "clip kite casino illegal okay moment price say stomach mobile minimum ribbon";

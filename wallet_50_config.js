@@ -1,1 +1,1 @@
-var mnemonic = "kick gather bronze matter debris chief cigar welcome wide share weapon ripple";
+var mnemonic = "slim panic measure monkey grocery photo narrow swear idle define merge good";

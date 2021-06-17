@@ -1,1 +1,1 @@
-var mnemonic = "garden wrestle planet grace myself loud follow love peasant payment faint seed";
+var mnemonic = "cotton merit student parrot abandon pony please giant mercy simple speed sleep";

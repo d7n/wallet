@@ -1,1 +1,1 @@
-var mnemonic = "napkin crazy mule debris swing more gasp mix hour grain car thunder";
+var mnemonic = "road access hybrid dentist address waste heavy parrot risk slide discover hidden";

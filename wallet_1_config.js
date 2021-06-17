@@ -1,1 +1,1 @@
-var mnemonic = "twin doctor topple shuffle conduct gain spoil view pipe muffin drama amused";
+var mnemonic = "employ shield name knee success trigger true duty atom layer stove rebuild";

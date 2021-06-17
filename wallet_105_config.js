@@ -1,1 +1,1 @@
-var mnemonic = "equal trash exclude copper chest order tourist radar govern famous salt dizzy";
+var mnemonic = "crater strong always pig sight similar sail sauce bridge wrong verify lawn";

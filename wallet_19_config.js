@@ -1,1 +1,1 @@
-var mnemonic = "april humor buffalo saddle you rebuild month leisure exchange problem cliff puzzle";
+var mnemonic = "shine element capable speak run lab plate clutch picnic notice mention rib";

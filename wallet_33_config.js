@@ -1,1 +1,1 @@
-var mnemonic = "electric still install close solve review alone camp duty dirt jacket abuse";
+var mnemonic = "ethics artist system relief pass avocado shoe used base grass govern consider";

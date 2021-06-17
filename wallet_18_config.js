@@ -1,1 +1,1 @@
-var mnemonic = "canoe ensure vast sting history pony brush harvest ceiling cream jaguar kick";
+var mnemonic = "render vessel run tilt museum pole diesel exist wing glory identify size";

@@ -1,1 +1,1 @@
-var mnemonic = "next hen subject swim hood shy despair obey grunt arrest media profit";
+var mnemonic = "render timber step sausage swing wife mad crane oblige token wink grunt";

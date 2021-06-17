@@ -1,1 +1,1 @@
-var mnemonic = "inquiry buddy basket rhythm sample gift endless shoe avocado bachelor kangaroo term";
+var mnemonic = "ostrich master audit forum cave net once fire fever project already stool";

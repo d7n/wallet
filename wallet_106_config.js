@@ -1,1 +1,1 @@
-var mnemonic = "bacon random cake sad sweet horn people audit broom cover crazy clean";
+var mnemonic = "false ensure cake same fade treat pole chef fury hobby priority purse";

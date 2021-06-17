@@ -1,1 +1,1 @@
-var mnemonic = "wisdom expire awake twist safe sunny menu rocket eternal parade coffee kangaroo";
+var mnemonic = "miracle apology resemble trash mercy general input offer wink decade sugar between";

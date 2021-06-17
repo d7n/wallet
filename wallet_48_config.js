@@ -1,1 +1,1 @@
-var mnemonic = "frozen swift cry employ feed pepper drink march gym brass digital genre";
+var mnemonic = "knee thunder final level edit bounce feed noodle smooth occur burden twin";

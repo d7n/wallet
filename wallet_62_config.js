@@ -1,1 +1,1 @@
-var mnemonic = "hotel business drama example canyon sudden inside trust hammer lawn frog term";
+var mnemonic = "stage laugh defy stem proud glue tell prize slender friend clip amused";

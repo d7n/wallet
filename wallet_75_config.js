@@ -1,1 +1,1 @@
-var mnemonic = "wear copper cabbage slender ahead aspect cereal yard float load squirrel drill";
+var mnemonic = "desert foot list try save multiply panic easily coyote hero envelope erode";

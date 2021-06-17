@@ -1,1 +1,1 @@
-var mnemonic = "shiver burger fish pole judge secret wrestle meadow derive bunker state mix";
+var mnemonic = "car leopard blue donate aerobic error stock monkey group offer series tobacco";

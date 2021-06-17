@@ -1,1 +1,1 @@
-var mnemonic = "attend valley enhance very curtain scrap melt stone victory stage nuclear tomato";
+var mnemonic = "gasp cup door cup coconut giant burst filter absent lucky jungle busy";

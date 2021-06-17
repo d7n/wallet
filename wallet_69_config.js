@@ -1,1 +1,1 @@
-var mnemonic = "noodle agent snap tortoise tuna culture lesson save proud detail curtain cinnamon";
+var mnemonic = "ozone thought stereo cotton feed dad curious trophy exile monkey tip include";

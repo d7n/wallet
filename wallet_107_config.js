@@ -1,1 +1,1 @@
-var mnemonic = "devote fun client coffee fire shed satoshi prefer funny ocean boss amused";
+var mnemonic = "omit crime armed topple ahead tourist lock wink camera long link typical";

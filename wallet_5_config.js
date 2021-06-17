@@ -1,1 +1,1 @@
-var mnemonic = "actress egg love need system maid client offer alone galaxy wreck exhaust";
+var mnemonic = "original weather layer disease stage again pyramid vivid attract toddler suffer large";

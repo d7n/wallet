@@ -1,1 +1,1 @@
-var mnemonic = "pretty input drama venture fashion sleep skin valve audit crunch write pear";
+var mnemonic = "burden that stage river glory inflict critic stem middle scare hybrid wealth";

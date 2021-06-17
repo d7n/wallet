@@ -1,1 +1,1 @@
-var mnemonic = "fox crystal jelly iron coral youth ask comfort father forum mad profit";
+var mnemonic = "sword album reject prosper people gasp pole october dutch gate easy result";

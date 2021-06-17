@@ -1,1 +1,1 @@
-var mnemonic = "swift remain rude lunch oval poet chalk swear off pink sting meat";
+var mnemonic = "library bike carry clever acquire because volume paddle escape demise spring focus";

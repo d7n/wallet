@@ -1,1 +1,1 @@
-var mnemonic = "chuckle element badge merry earth inflict congress army camp nominee march camp";
+var mnemonic = "cereal pool powder imitate dutch hole step install ramp urge length survey";

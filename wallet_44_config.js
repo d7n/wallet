@@ -1,1 +1,1 @@
-var mnemonic = "limb embark holiday art fuel please jealous swallow possible verify castle blame";
+var mnemonic = "snap whale emotion park just allow require foot age mask mutual pave";

@@ -1,1 +1,1 @@
-var mnemonic = "humor struggle crunch reward bronze pizza erupt warm when glove harbor enrich";
+var mnemonic = "kidney impose lonely build soup flush humor relax skin diagram drum drop";

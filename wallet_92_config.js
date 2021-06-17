@@ -1,1 +1,1 @@
-var mnemonic = "cover cousin item ignore truth ready slender coast strategy jazz lucky age";
+var mnemonic = "where skin master similar sadness treat prize claim gentle omit position swap";

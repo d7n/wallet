@@ -1,1 +1,1 @@
-var mnemonic = "draw void unlock rally occur affair buzz diary sunny dash recipe turn";
+var mnemonic = "turtle school initial arch sun struggle absurd mercy person occur episode clever";

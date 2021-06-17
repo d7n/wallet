@@ -1,1 +1,1 @@
-var mnemonic = "neither discover cannon daughter menu buffalo uphold orbit wheat extra endless gain";
+var mnemonic = "setup canoe cement cupboard country country cross pony rather price dirt copy";

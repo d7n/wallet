@@ -1,1 +1,1 @@
-var mnemonic = "reveal act category ginger junk chaos region universe neck toast adjust subway";
+var mnemonic = "dawn burger better pencil mansion style disorder arrange relief wash wise monkey";

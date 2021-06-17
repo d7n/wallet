@@ -1,1 +1,1 @@
-var mnemonic = "buzz vessel diamond law camp spoon someone draw example congress hip wire";
+var mnemonic = "humor tiger island cluster danger loyal pond used type brief rule aunt";

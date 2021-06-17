@@ -1,1 +1,1 @@
-var mnemonic = "impulse river emotion buffalo pulse cheese gasp palm cost teach slot universe";
+var mnemonic = "palace tattoo cart vault pledge ketchup boil doctor recycle replace eagle super";

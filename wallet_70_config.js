@@ -1,1 +1,1 @@
-var mnemonic = "bulk wear virtual devote globe memory picture scrap sadness top amazing measure";
+var mnemonic = "aim room hunt remember cream hurt green false erosion fatigue bronze sword";

@@ -1,1 +1,1 @@
-var mnemonic = "cool account bunker chronic oak inquiry damp caution twist fringe visit sunny";
+var mnemonic = "innocent habit record search update promote fatal away armed route blur must";
