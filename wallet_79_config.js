@@ -1,1 +1,1 @@
-var mnemonic = "seek size radio require wish renew finger cinnamon garage trend bacon protect";
+var mnemonic = "grid excite apology old burger true race grocery nature faint act seminar";

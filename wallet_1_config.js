@@ -1,1 +1,1 @@
-var mnemonic = "outside rain athlete arm poem mutual useful rapid try defy symptom coil";
+var mnemonic = "envelope walk slice east frequent trial obtain own fiscal thank cigar dinner";

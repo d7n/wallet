@@ -1,1 +1,1 @@
-var mnemonic = "depth time still radar spend spray flat horn drop remove warm shrug";
+var mnemonic = "father skate ask margin merge surround twin tunnel frown round liar gentle";

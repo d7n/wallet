@@ -1,1 +1,1 @@
-var mnemonic = "fix square defy post echo affair mountain body define path brother style";
+var mnemonic = "below remind future month victory alone sell benefit dumb predict enlist purpose";

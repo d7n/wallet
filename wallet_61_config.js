@@ -1,1 +1,1 @@
-var mnemonic = "weather pull demise uniform grit brisk connect wait spider human snow witness";
+var mnemonic = "disorder infant witness uncover sport morning coil define broom honey concert album";

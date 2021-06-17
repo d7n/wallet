@@ -1,1 +1,1 @@
-var mnemonic = "figure private manage laundry win push about visa muffin vessel spy rescue";
+var mnemonic = "history system zone congress claw boat pride solar swear woman grow hand";

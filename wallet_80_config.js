@@ -1,1 +1,1 @@
-var mnemonic = "faint escape glue knife soda wage blanket exclude win system cost flight";
+var mnemonic = "umbrella appear lend element discover shallow zero flag near collect clip risk";

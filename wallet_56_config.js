@@ -1,1 +1,1 @@
-var mnemonic = "question visa trade boat cigar squeeze copper glory ring icon hundred oblige";
+var mnemonic = "castle foot unaware topple obscure paddle sleep laundry pilot violin behave want";

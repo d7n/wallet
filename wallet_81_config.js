@@ -1,1 +1,1 @@
-var mnemonic = "choice negative infant soup either soccer clarify buddy margin useless lawn okay";
+var mnemonic = "omit salute copy clog quick rough squeeze input shrimp donate advance topic";

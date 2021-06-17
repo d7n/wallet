@@ -1,1 +1,1 @@
-var mnemonic = "spy mutual season disagree loop announce blanket bamboo brass curve state banner";
+var mnemonic = "taste play father system share boat stock apology thank ankle phone cream";

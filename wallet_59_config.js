@@ -1,1 +1,1 @@
-var mnemonic = "enter aerobic slogan hair still black daughter west swing orbit join across";
+var mnemonic = "trust cereal blade wrong shift found sentence public human expand void angry";

@@ -1,1 +1,1 @@
-var mnemonic = "cost stamp obey siren glare web town crystal plug apart clog seek";
+var mnemonic = "script bounce ghost long ice sock cloud brass coral special quick youth";

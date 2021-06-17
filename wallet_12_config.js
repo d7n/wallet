@@ -1,1 +1,1 @@
-var mnemonic = "math insane artist cave goddess theme estate arch library dress obtain error";
+var mnemonic = "security comfort task sea adjust supreme rule doctor amateur recall soap post";

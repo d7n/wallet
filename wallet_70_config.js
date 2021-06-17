@@ -1,1 +1,1 @@
-var mnemonic = "sense retreat october lady happy flash fluid coil great chimney cruel velvet";
+var mnemonic = "eagle undo depend blind shove ramp pledge negative level pulp oil dish";

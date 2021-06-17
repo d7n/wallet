@@ -1,1 +1,1 @@
-var mnemonic = "business employ bird method verb duty before reject process scan carpet minor";
+var mnemonic = "worry city buyer debate say another mobile spell awkward mammal summer panel";

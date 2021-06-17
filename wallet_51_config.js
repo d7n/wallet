@@ -1,1 +1,1 @@
-var mnemonic = "cake tiger radar meat invest kangaroo step manage delay school unfold very";
+var mnemonic = "link material regular local engage either harsh awesome appear absorb cover slender";

@@ -1,1 +1,1 @@
-var mnemonic = "oven shoot response omit axis trash garbage intact vapor evoke arm napkin";
+var mnemonic = "accident clown move order leave cactus dolphin picnic remain sample runway upon";

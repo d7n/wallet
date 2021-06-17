@@ -1,1 +1,1 @@
-var mnemonic = "network prevent twist stove clever ritual stage brush morning soldier cabin quote";
+var mnemonic = "wheel resource exit funny frog choose ready skill behind enemy permit coach";

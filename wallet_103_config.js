@@ -1,1 +1,1 @@
-var mnemonic = "upon fat upper skin gesture nation blanket ship rate plastic nut become";
+var mnemonic = "attend offer damage purpose this swift kitchen enemy basket usual flee merry";

@@ -1,1 +1,1 @@
-var mnemonic = "shock steak sleep property flip equal crucial enjoy rigid way floor glance";
+var mnemonic = "little reveal public portion pattern lobster deputy middle swing protect carry frame";

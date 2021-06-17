@@ -1,1 +1,1 @@
-var mnemonic = "vendor caught goddess stay wealth model giraffe accident clump before link source";
+var mnemonic = "easily endorse frame fall fetch meadow immense stereo warrior awesome process drink";

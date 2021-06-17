@@ -1,1 +1,1 @@
-var mnemonic = "tired congress fish maid style venue detect track poet gown clutch syrup";
+var mnemonic = "apart acid cruise machine multiply grape pen law reform grace follow toy";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive visa find fantasy deny owner flash pipe deny oblige viable galaxy";
+var mnemonic = "type neglect life action afford denial identify cloud dizzy play dwarf damp";

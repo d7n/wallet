@@ -1,1 +1,1 @@
-var mnemonic = "connect manual onion divide clay symbol excess find manual tank venture label";
+var mnemonic = "friend anchor snack milk birth exist rather topple cup catch fatal defense";

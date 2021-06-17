@@ -1,1 +1,1 @@
-var mnemonic = "veteran ethics expand trade indoor gravity reduce pilot black sick melody sick";
+var mnemonic = "reflect pudding try envelope breeze cannon evoke sight mirror radar hunt juice";

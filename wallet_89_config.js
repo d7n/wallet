@@ -1,1 +1,1 @@
-var mnemonic = "crouch south kiss property train use valve say lawn give congress zero";
+var mnemonic = "beyond over unhappy trumpet heart domain voice spend spring equip reward oak";

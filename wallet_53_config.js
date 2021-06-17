@@ -1,1 +1,1 @@
-var mnemonic = "entire recall area miss they hat ride hollow envelope team wall finish";
+var mnemonic = "narrow enforce lobster dream maximum share much interest bird airport forum rich";

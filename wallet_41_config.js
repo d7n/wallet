@@ -1,1 +1,1 @@
-var mnemonic = "casual wonder tell joy split amazing safe clip announce knock staff muffin";
+var mnemonic = "weasel bean explain live issue caught ozone staff manage very struggle chaos";

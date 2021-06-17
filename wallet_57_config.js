@@ -1,1 +1,1 @@
-var mnemonic = "oxygen winner parade scatter inmate joy dizzy jelly seven width pencil army";
+var mnemonic = "young civil trumpet loud sun weird salt elbow melt dilemma mansion decline";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow rally engage useful early collect someone clog select frost detail slogan";
+var mnemonic = "cover inhale flat quantum swap air rough horror blast lecture scheme pull";

@@ -1,1 +1,1 @@
-var mnemonic = "write tag sick gift virus wing together problem electric example cannon size";
+var mnemonic = "rib grow sort patrol into answer coconut guide flat skirt wash jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "tool stone victory globe forum mean trim coin lonely catalog taste accuse";
+var mnemonic = "exhaust safe drastic dress fee shuffle whale oxygen holiday clog indoor item";

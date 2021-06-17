@@ -1,1 +1,1 @@
-var mnemonic = "bright direct scrub pony nerve cheese order despair polar acoustic open right";
+var mnemonic = "legend buddy party female runway proud clinic sausage street snap canoe fold";

@@ -1,1 +1,1 @@
-var mnemonic = "file direct ripple float monkey unveil scale frown buyer dash spring emotion";
+var mnemonic = "eager cram invest minor club trend topic force drive sick wide idea";

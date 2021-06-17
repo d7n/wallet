@@ -1,1 +1,1 @@
-var mnemonic = "behind symbol tank room unfold lion text give error thumb warfare tomato";
+var mnemonic = "desk stand shield gaze violin junior final round piece alert accuse rich";

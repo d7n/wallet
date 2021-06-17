@@ -1,1 +1,1 @@
-var mnemonic = "welcome abuse master ceiling vehicle rally click orphan faith reward slot trial";
+var mnemonic = "innocent twice quote kind dilemma slab film today company renew candy client";

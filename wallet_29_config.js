@@ -1,1 +1,1 @@
-var mnemonic = "armed frame weapon clog spin effort husband sausage beauty worry about tongue";
+var mnemonic = "captain orchard square loyal bracket toe gain universe drastic margin approve reveal";

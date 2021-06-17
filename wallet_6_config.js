@@ -1,1 +1,1 @@
-var mnemonic = "peace boil diagram grace moon toward shy shop wheat gas image myself";
+var mnemonic = "taxi domain soup vendor address vacant know owner steak dynamic surge betray";

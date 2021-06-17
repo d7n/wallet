@@ -1,1 +1,1 @@
-var mnemonic = "drastic flag popular shallow note liberty laugh tube treat public unhappy skirt";
+var mnemonic = "square frequent dove boil grant blade frog crystal glory pitch burger enter";

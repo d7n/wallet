@@ -1,1 +1,1 @@
-var mnemonic = "interest inject alpha web term travel vendor virus hungry talk never deer";
+var mnemonic = "injury tongue chicken cricket lucky west express memory bulk winter evil soda";

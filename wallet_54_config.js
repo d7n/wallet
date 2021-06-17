@@ -1,1 +1,1 @@
-var mnemonic = "school duty special divorce ancient camera orphan cable north crowd assist estate";
+var mnemonic = "dog voyage symptom camera taxi victory oil sign beyond clump retreat napkin";

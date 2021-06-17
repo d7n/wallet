@@ -1,1 +1,1 @@
-var mnemonic = "capable bonus sound three volcano bulk rely deer leisure typical glide school";
+var mnemonic = "pause report barrel barely combine supreme ritual globe talk space aisle milk";

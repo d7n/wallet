@@ -1,1 +1,1 @@
-var mnemonic = "slide barrel fiction mention famous check pause spy venture jump silk crunch";
+var mnemonic = "pool eye finger kick split neglect oppose lift illness north patch upper";

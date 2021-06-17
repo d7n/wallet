@@ -1,1 +1,1 @@
-var mnemonic = "bus sight scan aim lounge embrace index cigar author glory pink abstract";
+var mnemonic = "tail goat diagram stumble disagree toward genius quarter apple best frame north";

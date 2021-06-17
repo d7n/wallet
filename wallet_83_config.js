@@ -1,1 +1,1 @@
-var mnemonic = "deliver sleep mother exclude bottom photo human veteran mansion jungle decade sea";
+var mnemonic = "possible kick seed drum nut type medal horse puppy olympic service able";

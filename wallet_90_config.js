@@ -1,1 +1,1 @@
-var mnemonic = "supreme casino noodle peasant fancy dice remove display fold follow genius film";
+var mnemonic = "joke inch ostrich session grab later toe swap unknown wreck payment young";

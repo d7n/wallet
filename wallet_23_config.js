@@ -1,1 +1,1 @@
-var mnemonic = "print opinion wire often young long track harbor vivid hungry doll mirror";
+var mnemonic = "whale spy urge doll atom flower labor zone humor course shrug crawl";

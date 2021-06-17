@@ -1,1 +1,1 @@
-var mnemonic = "usage heavy hand adult upgrade sun correct hybrid note essay play inherit";
+var mnemonic = "hospital normal regular mountain term mad flush depend cherry isolate run success";

@@ -1,1 +1,1 @@
-var mnemonic = "attend trumpet gauge eight sure picture suffer armor unaware position correct park";
+var mnemonic = "gravity repeat crop carbon length zebra silver lamp open impose elite lamp";

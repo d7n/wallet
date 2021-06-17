@@ -1,1 +1,1 @@
-var mnemonic = "divide hello pulse symptom fossil run hello virus call repair clog depth";
+var mnemonic = "flag senior boss crawl spend elite tuition convince spider abandon canal into";

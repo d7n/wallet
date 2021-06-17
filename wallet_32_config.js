@@ -1,1 +1,1 @@
-var mnemonic = "disease seminar then memory stick blade ball group frog join sentence beef";
+var mnemonic = "jazz output lemon copper future convince jeans sister shed knee trick core";

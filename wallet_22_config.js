@@ -1,1 +1,1 @@
-var mnemonic = "next someone monitor whisper run library sign code orphan model way model";
+var mnemonic = "other peasant hover bundle pudding despair bag board holiday sleep head duty";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse rate learn easy lion gaze gas brisk hood elegant kangaroo already";
+var mnemonic = "front hedgehog salmon learn comfort century october easily panic arm bean fuel";

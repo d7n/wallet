@@ -1,1 +1,1 @@
-var mnemonic = "shine pigeon vital october kid cable explain rack connect capital bring tomato";
+var mnemonic = "box soldier consider absorb pretty faculty tackle swift text glass adult crater";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon cactus foil muscle spike once metal trust sort inflict mercy lawsuit";
+var mnemonic = "fresh stock pride foot slow usage cash impact rival similar romance easy";

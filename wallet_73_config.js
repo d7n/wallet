@@ -1,1 +1,1 @@
-var mnemonic = "income ancient pretty issue wife birth poem reveal bus tobacco stand relief";
+var mnemonic = "cycle elevator monster spend fade deer sort aspect accuse syrup idle online";

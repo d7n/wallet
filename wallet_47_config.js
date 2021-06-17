@@ -1,1 +1,1 @@
-var mnemonic = "record uncle marriage reason fashion cart other retire picture museum praise diagram";
+var mnemonic = "tenant act program traffic share dream saddle inject october hood gauge rent";

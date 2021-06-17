@@ -1,1 +1,1 @@
-var mnemonic = "exact stadium extend good fatigue legal same ozone aware juice juice one";
+var mnemonic = "bunker try trash census wild nothing scan rival tissue often mystery flip";

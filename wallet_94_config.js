@@ -1,1 +1,1 @@
-var mnemonic = "clay claim copper afford tennis quarter employ certain evoke winter festival able";
+var mnemonic = "cube vibrant ceiling matter iron feel enrich disease certain broccoli follow spice";

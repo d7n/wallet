@@ -1,1 +1,1 @@
-var mnemonic = "fork rapid neither expect visual glide comic relief cause system tiny across";
+var mnemonic = "ivory street erupt define denial pass shove term museum raw also paddle";

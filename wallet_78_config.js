@@ -1,1 +1,1 @@
-var mnemonic = "accident bonus hover naive toward remember distance wine entire spin elephant own";
+var mnemonic = "small mesh physical border upon soccer fine manage suit kidney endless share";

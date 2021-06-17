@@ -1,1 +1,1 @@
-var mnemonic = "symptom tattoo equal spare nation manual riot curve weird trap cherry salmon";
+var mnemonic = "file media question barely tray eagle okay sign connect opinion there ring";

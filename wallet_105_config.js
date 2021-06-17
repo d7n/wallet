@@ -1,1 +1,1 @@
-var mnemonic = "farm prosper boring midnight heavy foot lucky across pattern audit million draft";
+var mnemonic = "install arch nuclear mad dinner practice wise achieve vessel permit rural believe";

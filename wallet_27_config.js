@@ -1,1 +1,1 @@
-var mnemonic = "saddle hotel result cage clarify weasel jelly north horse vintage guilt drop";
+var mnemonic = "effort carry engine heart royal dignity melody dice cattle kitten solve achieve";

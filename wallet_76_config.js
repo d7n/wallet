@@ -1,1 +1,1 @@
-var mnemonic = "gentle lunar undo equal wear pond fragile planet diesel moral chimney reform";
+var mnemonic = "drama green town retreat reflect inside arrive rural project render reject evolve";

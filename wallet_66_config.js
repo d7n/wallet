@@ -1,1 +1,1 @@
-var mnemonic = "detect sausage cabbage neutral ensure brown eye exercise daring oak busy purchase";
+var mnemonic = "truck sure have quiz cannon local scan bicycle purity hospital bright easily";

@@ -1,1 +1,1 @@
-var mnemonic = "proof tragic parrot auto coil repair column strong liberty friend foot vanish";
+var mnemonic = "rent exchange involve toy diary rescue dilemma arena december pool staff over";

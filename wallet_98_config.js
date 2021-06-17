@@ -1,1 +1,1 @@
-var mnemonic = "broken mango deal area easily ladder rocket pumpkin middle hamster seat tail";
+var mnemonic = "hold chat strike eyebrow betray choice manual network mother oxygen mystery car";

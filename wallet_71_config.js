@@ -1,1 +1,1 @@
-var mnemonic = "fat health blast prison motor voice prison famous field intact family need";
+var mnemonic = "soap mother feature mask glass biology voyage approve addict stadium invest coast";

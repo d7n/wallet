@@ -1,1 +1,1 @@
-var mnemonic = "shine primary farm modify palace castle plug fringe swim crew trade club";
+var mnemonic = "wool resemble any control card robust fatal best quiz surge silver grant";

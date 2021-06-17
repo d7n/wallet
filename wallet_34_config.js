@@ -1,1 +1,1 @@
-var mnemonic = "crane burden key please someone spatial crunch come retreat into course boy";
+var mnemonic = "brick draft drink squeeze audit outer labor dove nice lemon jazz already";

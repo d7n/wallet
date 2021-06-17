@@ -1,1 +1,1 @@
-var mnemonic = "still behind dignity quote emerge pet talent coin voyage same gentle toward";
+var mnemonic = "afford police wing idea accuse inquiry mean obey relief today mixed scrub";

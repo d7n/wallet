@@ -1,1 +1,1 @@
-var mnemonic = "sail marine zero bus melt receive remind put silly pledge hover confirm";
+var mnemonic = "document detail never lazy lonely bargain solve essay thrive danger suspect repair";

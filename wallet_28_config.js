@@ -1,1 +1,1 @@
-var mnemonic = "upper inherit spy write wheel possible sight viable you kangaroo wrap flat";
+var mnemonic = "woman corn soap cry extend fix pole rude assault tragic law minimum";

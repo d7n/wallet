@@ -1,1 +1,1 @@
-var mnemonic = "submit wood swamp liar stomach blame mirror business achieve sausage harbor aspect";
+var mnemonic = "page hawk quality fault coast feature run horse toe segment scan road";

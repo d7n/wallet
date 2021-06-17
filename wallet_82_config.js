@@ -1,1 +1,1 @@
-var mnemonic = "grunt kind into castle such hunt legal surround shock worry label alien";
+var mnemonic = "tent buddy van economy tag snow soul kid plunge such draft inject";

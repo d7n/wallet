@@ -1,1 +1,1 @@
-var mnemonic = "spray girl discover dizzy crisp attend sauce bag tornado clog claw nurse";
+var mnemonic = "thing inch rabbit mechanic inherit vehicle icon clock royal chapter shy job";

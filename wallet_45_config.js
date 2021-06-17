@@ -1,1 +1,1 @@
-var mnemonic = "boy trend expect host abuse pig famous soul appear fine various ketchup";
+var mnemonic = "hotel firm upset funny letter section icon service local owner over cram";

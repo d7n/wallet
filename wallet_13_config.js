@@ -1,1 +1,1 @@
-var mnemonic = "balcony bottom wing exact fuel drop pony shadow tired wait gallery lyrics";
+var mnemonic = "book answer normal rookie drill embark erosion text order obey obey various";

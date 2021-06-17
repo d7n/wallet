@@ -1,1 +1,1 @@
-var mnemonic = "provide ensure broccoli blade human grab water story behind between hope fee";
+var mnemonic = "impulse regret label scene resource tilt soccer asthma dove badge stove eight";

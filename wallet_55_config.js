@@ -1,1 +1,1 @@
-var mnemonic = "plate match moral green burger candy torch frost camp call brisk else";
+var mnemonic = "kidney beyond desert pond luxury pretty ask era pause cement tree west";

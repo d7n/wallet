@@ -1,1 +1,1 @@
-var mnemonic = "middle answer circle aerobic amused material mimic until choose require riot grow";
+var mnemonic = "neglect celery actual artefact total trouble before beach pudding juice safe hundred";

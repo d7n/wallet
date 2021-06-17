@@ -1,1 +1,1 @@
-var mnemonic = "order text rough vivid note popular stone exhaust taste cupboard photo useless";
+var mnemonic = "simple dirt card crumble various cream pitch marriage among board wall wealth";

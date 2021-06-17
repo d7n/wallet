@@ -1,1 +1,1 @@
-var mnemonic = "enough bless together ridge spoil minor access account round shadow drastic rotate";
+var mnemonic = "drill bless accuse remain vital sport hazard daughter service impose casino reject";

@@ -1,1 +1,1 @@
-var mnemonic = "predict increase beach impose misery hawk trust creek unfair fringe arm thing";
+var mnemonic = "above fade cart defense pepper puppy tool second swift swarm duty market";

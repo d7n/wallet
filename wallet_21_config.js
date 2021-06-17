@@ -1,1 +1,1 @@
-var mnemonic = "disagree grab vibrant boss calm payment spider mandate bean myth rabbit float";
+var mnemonic = "inhale drift spirit salt merit next lounge wall guilt absorb cave credit";

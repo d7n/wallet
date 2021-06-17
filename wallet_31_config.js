@@ -1,1 +1,1 @@
-var mnemonic = "stock enable destroy intact audit grunt average source inch way brain digital";
+var mnemonic = "violin job arch valid chicken engage front tuna define wagon slender suffer";

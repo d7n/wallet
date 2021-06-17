@@ -1,1 +1,1 @@
-var mnemonic = "reduce never stand nuclear animal pledge initial sustain struggle wedding cousin coach";
+var mnemonic = "venture danger hire sausage tilt hip track document dance fever deal where";

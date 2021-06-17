@@ -1,1 +1,1 @@
-var mnemonic = "genre rocket cat worry rack olympic auto raw length risk gown harsh";
+var mnemonic = "extend advice maid tray board square carbon fault tennis section insane gloom";

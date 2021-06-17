@@ -1,1 +1,1 @@
-var mnemonic = "denial bounce skull crater teach chronic belt girl extend east despair enact";
+var mnemonic = "panel match resource gas supreme monster illness pill clog envelope okay message";

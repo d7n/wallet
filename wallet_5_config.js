@@ -1,1 +1,1 @@
-var mnemonic = "soul affair episode brisk guess desk opera match twenty burst suffer dragon";
+var mnemonic = "drop glad day limb know crouch elevator trend remove royal mosquito lounge";
