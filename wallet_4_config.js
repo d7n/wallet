@@ -1,1 +1,1 @@
-var mnemonic = "always exercise maple crazy deputy effort pelican toilet lion pupil denial reform";
+var mnemonic = "across tide alarm farm goat target diamond weapon job secret jewel walk";

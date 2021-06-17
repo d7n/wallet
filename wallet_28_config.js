@@ -1,1 +1,1 @@
-var mnemonic = "thought miracle wrestle truth health gesture blue knee pretty prosper night merge";
+var mnemonic = "awesome hotel possible assist helmet gas chuckle poem logic walnut oppose page";

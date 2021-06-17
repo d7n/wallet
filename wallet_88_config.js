@@ -1,1 +1,1 @@
-var mnemonic = "popular rookie echo worth survey casual milk learn flee write approve swim";
+var mnemonic = "dream never borrow okay absurd match chef bounce puzzle vote usual vital";

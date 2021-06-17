@@ -1,1 +1,1 @@
-var mnemonic = "emotion seminar steel alter clap educate elephant prefer scout distance film puzzle";
+var mnemonic = "orbit half bar kitten give glue grow pair waste gun story wire";

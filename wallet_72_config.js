@@ -1,1 +1,1 @@
-var mnemonic = "rare lemon popular lazy able thank number enhance lab expire very between";
+var mnemonic = "trash strategy loan cruel polar erode tent sense toy lava detail dust";

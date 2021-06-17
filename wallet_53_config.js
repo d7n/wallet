@@ -1,1 +1,1 @@
-var mnemonic = "acquire income wreck acid jungle hungry entry report drill stairs purse baby";
+var mnemonic = "tape tumble until mind palace topic accuse target pyramid almost notice ethics";

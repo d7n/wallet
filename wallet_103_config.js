@@ -1,1 +1,1 @@
-var mnemonic = "cute that search rigid amount dune burden short plate frequent seminar mystery";
+var mnemonic = "truly axis artwork ladder smoke quick sister soccer chest host park indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "render head squirrel almost reward ranch pet improve royal point nice orient";
+var mnemonic = "mention steak must year delay air mystery weapon mail shaft atom govern";

@@ -1,1 +1,1 @@
-var mnemonic = "mad glide fossil nothing wall crystal night risk business tube twelve book";
+var mnemonic = "treat garlic honey decorate diagram february infant cabbage rebuild flower cute flee";

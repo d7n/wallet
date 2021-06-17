@@ -1,1 +1,1 @@
-var mnemonic = "upgrade pencil borrow near oven remain deputy decline busy chaos adjust avocado";
+var mnemonic = "best coffee else divert whisper human cute curious room clip picture lizard";

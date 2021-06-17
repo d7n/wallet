@@ -1,1 +1,1 @@
-var mnemonic = "quit snake physical style title arrive gym seek visa author hello hawk";
+var mnemonic = "feature bless inner census pair virtual giggle enable mix pause better crop";

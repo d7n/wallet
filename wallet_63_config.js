@@ -1,1 +1,1 @@
-var mnemonic = "alien convince ugly explain diamond hurdle burger sense dinosaur spatial donor planet";
+var mnemonic = "sponsor mansion sand section muscle mystery kick oak kidney inmate grow indoor";

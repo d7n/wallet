@@ -1,1 +1,1 @@
-var mnemonic = "budget ready hurry news bird like genre toe pond couch twelve summer";
+var mnemonic = "glide code arrange cage ramp sauce spring company thank hurdle shell barrel";

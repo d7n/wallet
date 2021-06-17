@@ -1,1 +1,1 @@
-var mnemonic = "height slender duty verify skill syrup there brand visit wheat garage border";
+var mnemonic = "limb modify increase jaguar cross jungle rescue case swear primary film theme";

@@ -1,1 +1,1 @@
-var mnemonic = "twice excite burst twist ivory tent bulk large legal notable rather knife";
+var mnemonic = "high dry across process amazing risk record share citizen size weird worth";

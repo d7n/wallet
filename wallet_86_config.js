@@ -1,1 +1,1 @@
-var mnemonic = "matrix cotton mechanic neglect text produce husband divorce mesh cost bamboo exact";
+var mnemonic = "raw country diamond narrow local office margin series pill shed erode mosquito";

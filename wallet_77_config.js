@@ -1,1 +1,1 @@
-var mnemonic = "force town cloth scheme digital flag letter armed one misery run fault";
+var mnemonic = "milk surge pencil clean notice few fatigue bright funny despair lizard cinnamon";

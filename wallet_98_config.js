@@ -1,1 +1,1 @@
-var mnemonic = "dutch pony firm wrestle radar clock range legal orchard crucial jungle hill";
+var mnemonic = "receive squeeze process method response force midnight assume adjust sadness bronze host";

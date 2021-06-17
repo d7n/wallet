@@ -1,1 +1,1 @@
-var mnemonic = "fiber select fat black oyster only salute dutch stove concert icon behind";
+var mnemonic = "absorb churn order domain match silly flip witness robot nasty wine owner";

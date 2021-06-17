@@ -1,1 +1,1 @@
-var mnemonic = "floor weird belt rich enrich better above hollow brother cereal list sudden";
+var mnemonic = "artwork salt anger genuine valley hair brown salute fog door seed kiwi";

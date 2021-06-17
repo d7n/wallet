@@ -1,1 +1,1 @@
-var mnemonic = "very essay gentle pool grape virus baby toy hybrid zone join unhappy";
+var mnemonic = "diamond sunset metal dinner daring vibrant metal glide relax priority sail foam";

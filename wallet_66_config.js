@@ -1,1 +1,1 @@
-var mnemonic = "you shift two hello velvet dentist axis dentist urge roast group actress";
+var mnemonic = "vintage thunder citizen scorpion rocket tape cupboard fold tornado venture actual distance";

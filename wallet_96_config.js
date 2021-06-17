@@ -1,1 +1,1 @@
-var mnemonic = "detail option skate allow duty polar say avoid humble harbor apology hood";
+var mnemonic = "success undo stereo domain column topic draw grab coral way light boring";

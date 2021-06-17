@@ -1,1 +1,1 @@
-var mnemonic = "slush stick eternal mechanic mosquito work sell jealous sugar bar rack cannon";
+var mnemonic = "virtual unknown trust include nut half silent legal left century like window";

@@ -1,1 +1,1 @@
-var mnemonic = "essence course range rail parade space whip february tube write risk swim";
+var mnemonic = "accident voice world food excuse scare abuse replace argue silly bachelor mule";

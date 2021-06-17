@@ -1,1 +1,1 @@
-var mnemonic = "mixed rookie unveil situate eyebrow symptom render same ripple satoshi shaft zero";
+var mnemonic = "jazz crunch start tissue zone torch express income autumn tumble wonder night";

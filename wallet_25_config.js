@@ -1,1 +1,1 @@
-var mnemonic = "shallow follow spoon use remind bind kangaroo student tissue skirt flash gentle";
+var mnemonic = "couch title weapon speak baby pencil clinic record apart oppose rabbit luxury";

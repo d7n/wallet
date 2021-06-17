@@ -1,1 +1,1 @@
-var mnemonic = "dutch vivid people phrase bomb right immune machine moral toss any uncover";
+var mnemonic = "inner twist deputy sense bid basic health type damp fluid help canvas";

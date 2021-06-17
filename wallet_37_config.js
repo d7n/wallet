@@ -1,1 +1,1 @@
-var mnemonic = "drama spread salon misery enhance marriage post broom moon rabbit cup human";
+var mnemonic = "observe sell piano kiss matter split duty forward credit sausage puzzle patch";

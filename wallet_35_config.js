@@ -1,1 +1,1 @@
-var mnemonic = "meadow vote plate figure world electric reason supreme lunch diary warfare velvet";
+var mnemonic = "trip inform utility visit install detect sheriff clown scrub wait world property";

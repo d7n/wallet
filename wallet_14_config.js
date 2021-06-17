@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin quote arena text auction west portion divorce detect desk envelope forward";
+var mnemonic = "giraffe casino mandate advice vault width can neglect despair smile boy gown";

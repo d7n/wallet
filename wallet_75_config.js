@@ -1,1 +1,1 @@
-var mnemonic = "capable kitten shed blood ability damage rain guess bunker fury problem fantasy";
+var mnemonic = "video lift canal dune follow manage vast rabbit bracket hover heart car";

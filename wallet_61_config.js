@@ -1,1 +1,1 @@
-var mnemonic = "day capital fiber crucial gown check awful enlist museum conduct hour local";
+var mnemonic = "rain ceiling can goose tattoo sorry retire average science element pepper bachelor";

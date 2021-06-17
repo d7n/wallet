@@ -1,1 +1,1 @@
-var mnemonic = "oval public put render sound spread romance stereo proof opera exhaust bridge";
+var mnemonic = "sauce evoke mansion cup dwarf gaze grow cart net bunker eternal monkey";

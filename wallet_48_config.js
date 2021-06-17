@@ -1,1 +1,1 @@
-var mnemonic = "chimney depend yellow tunnel promote welcome nose limit oyster laptop course divert";
+var mnemonic = "fox name angle license bike shine sail right wasp suit wall hero";

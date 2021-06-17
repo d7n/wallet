@@ -1,1 +1,1 @@
-var mnemonic = "mountain mercy autumn rally muffin crazy orient boost hybrid spread young photo";
+var mnemonic = "seven tackle spin twist title brown divorce dilemma badge negative battle squirrel";

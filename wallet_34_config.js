@@ -1,1 +1,1 @@
-var mnemonic = "teach harvest ancient shed mansion creek quote rather tobacco embrace trouble tone";
+var mnemonic = "wait narrow crisp kind citizen neutral firm fashion bleak width inquiry stool";

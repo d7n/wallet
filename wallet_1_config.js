@@ -1,1 +1,1 @@
-var mnemonic = "base cushion retire huge knife like random metal nasty seat mean enable";
+var mnemonic = "witness nice glide month foot erupt bounce accident cancel boost prepare wonder";

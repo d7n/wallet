@@ -1,1 +1,1 @@
-var mnemonic = "hundred blind long noble reason protect spoon ethics list merge typical pole";
+var mnemonic = "innocent junior remove duck problem blush pelican solution invest oval cave mule";

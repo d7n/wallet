@@ -1,1 +1,1 @@
-var mnemonic = "very goddess pond good task found lyrics stumble thumb avoid viable vivid";
+var mnemonic = "play clip upper swallow lazy worry swear kingdom cook bless chat found";

@@ -1,1 +1,1 @@
-var mnemonic = "city casino document flame swear ship industry ignore nature bulk joke tide";
+var mnemonic = "street idea myself lawsuit about hello you where morning live tired roof";

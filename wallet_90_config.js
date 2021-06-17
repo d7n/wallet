@@ -1,1 +1,1 @@
-var mnemonic = "melt script twelve wreck diet dolphin treat enforce assume thunder accident spin";
+var mnemonic = "rule chief royal exit display story addict dumb upon light world vapor";

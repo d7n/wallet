@@ -1,1 +1,1 @@
-var mnemonic = "evolve defy valid phone foil weasel affair engage fitness afford lonely future";
+var mnemonic = "surround hedgehog stairs obtain century goddess case anger carpet suggest shell knock";

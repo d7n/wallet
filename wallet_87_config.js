@@ -1,1 +1,1 @@
-var mnemonic = "excess endorse betray someone birth host wild aerobic fit swim fever mother";
+var mnemonic = "genre under time curve mandate route clay grunt ozone home lawsuit advance";

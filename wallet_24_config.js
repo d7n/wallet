@@ -1,1 +1,1 @@
-var mnemonic = "suspect ring never snake cargo prison cube aim tongue narrow sad very";
+var mnemonic = "picnic path stamp salad pill clinic blush dizzy warrior radio clutch crawl";

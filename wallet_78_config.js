@@ -1,1 +1,1 @@
-var mnemonic = "rebel kit kit pattern matrix under visit urban patrol length waste grow";
+var mnemonic = "clutch couch melody weird twelve erase flee any enough custom common security";

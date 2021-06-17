@@ -1,1 +1,1 @@
-var mnemonic = "pretty recipe ribbon cost garden laugh very avocado turtle family correct ozone";
+var mnemonic = "hedgehog win tell hurt blast urban bulb island rifle wild ostrich broom";

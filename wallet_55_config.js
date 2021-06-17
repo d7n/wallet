@@ -1,1 +1,1 @@
-var mnemonic = "culture spare drill radar cluster name believe federal punch episode aerobic section";
+var mnemonic = "cliff cute vault detail balance sketch nature grocery story hurry test describe";

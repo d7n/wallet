@@ -1,1 +1,1 @@
-var mnemonic = "great genre load betray steak cherry girl wheel leg pill fire spatial";
+var mnemonic = "hazard short cable boring close rather actress sister urge faculty hard frequent";

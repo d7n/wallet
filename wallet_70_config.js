@@ -1,1 +1,1 @@
-var mnemonic = "reunion census morning above antenna lizard bar fringe vivid mean consider oblige";
+var mnemonic = "fork carpet desk circle misery clerk above negative legal inquiry shoot view";

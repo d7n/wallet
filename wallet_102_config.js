@@ -1,1 +1,1 @@
-var mnemonic = "uphold scene always grab search answer lazy motion account loyal moon minor";
+var mnemonic = "exile impose sister travel jar goddess tank corn equip wave math object";

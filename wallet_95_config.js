@@ -1,1 +1,1 @@
-var mnemonic = "intact salute speed height loop remain grief say cruise antique home moon";
+var mnemonic = "airport weather sock fine latin nest essence cram idle visual funny fix";

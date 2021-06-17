@@ -1,1 +1,1 @@
-var mnemonic = "secret subject auction raw abuse panel practice shoe slab army antenna dove";
+var mnemonic = "never duck art person ladder provide glare mansion hint congress clutch invest";

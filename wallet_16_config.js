@@ -1,1 +1,1 @@
-var mnemonic = "viable frequent access infant history survey blush talk motion dove vendor donate";
+var mnemonic = "decrease marble rely fiscal unit fork power resemble upon certain vocal side";

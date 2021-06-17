@@ -1,1 +1,1 @@
-var mnemonic = "milk short merry pelican laptop trend icon position message school put genuine";
+var mnemonic = "boat drastic vital bright private ostrich expose rapid various juice august guilt";

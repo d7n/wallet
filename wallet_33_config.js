@@ -1,1 +1,1 @@
-var mnemonic = "century cost face segment various ceiling crouch air forum abandon work cigar";
+var mnemonic = "hidden crouch ritual culture brief amused execute swear dignity expand fix trade";

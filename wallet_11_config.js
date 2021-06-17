@@ -1,1 +1,1 @@
-var mnemonic = "cluster gather oval siren reflect ignore stand easy hope husband scheme layer";
+var mnemonic = "follow celery lyrics year pioneer bulb sister chuckle inmate bulk jaguar hub";

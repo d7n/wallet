@@ -1,1 +1,1 @@
-var mnemonic = "else romance easy tower crop route amount topic accident worth bachelor junk";
+var mnemonic = "settle win much column adapt guard town dilemma acoustic cute struggle couch";

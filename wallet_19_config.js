@@ -1,1 +1,1 @@
-var mnemonic = "bridge arrange load audit sphere electric merry impulse tumble fine suspect city";
+var mnemonic = "inmate noble mind able cram service canal siege hurdle economy borrow gloom";

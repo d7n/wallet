@@ -1,1 +1,1 @@
-var mnemonic = "oval offer valve capable bunker model between timber erupt lunch whip humble";
+var mnemonic = "ostrich ceiling girl witness educate fragile feel liquid pyramid force milk feature";

@@ -1,1 +1,1 @@
-var mnemonic = "manage truck fat dwarf cat cook false assault young canoe expose vessel";
+var mnemonic = "spatial debate clutch lyrics bachelor fence write food eight biology collect demise";

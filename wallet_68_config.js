@@ -1,1 +1,1 @@
-var mnemonic = "record relax child note usual quote inherit certain agree ozone genuine inner";
+var mnemonic = "clown combine crawl category sport ring myth assault bind wrestle unfair reopen";

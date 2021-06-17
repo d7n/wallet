@@ -1,1 +1,1 @@
-var mnemonic = "nation forest play forum all else cat rifle onion stock rifle tank";
+var mnemonic = "family enroll fan burger solid ginger evidence crash bulk empower clip suggest";

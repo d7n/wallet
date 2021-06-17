@@ -1,1 +1,1 @@
-var mnemonic = "game silver pact mail spring fiction define tree reform muscle answer pride";
+var mnemonic = "primary brown electric bulb curve wealth below stomach mansion blood call symbol";

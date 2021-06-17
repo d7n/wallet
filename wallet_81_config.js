@@ -1,1 +1,1 @@
-var mnemonic = "find furnace eight before clock buddy load oil adjust cube awake age";
+var mnemonic = "light whisper early rack squirrel identify width vital silly coconut crucial recipe";

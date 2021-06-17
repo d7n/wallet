@@ -1,1 +1,1 @@
-var mnemonic = "castle trumpet scrap dawn winner someone axis debate ethics broom abstract dumb";
+var mnemonic = "cereal silly off renew hub rich attract casino trim isolate metal casino";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity moment end agent solve reward together butter awake ahead praise refuse";
+var mnemonic = "sheriff call kick shallow state liquid oval visit modify sausage chief unique";

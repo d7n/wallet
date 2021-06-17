@@ -1,1 +1,1 @@
-var mnemonic = "gravity buddy grit tumble photo govern effort violin erosion slogan upon reject";
+var mnemonic = "thing capable right reject ordinary mom copper decline apart oven bomb insane";

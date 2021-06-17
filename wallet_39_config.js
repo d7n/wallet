@@ -1,1 +1,1 @@
-var mnemonic = "ritual before second hunt online eight unfair bridge core asthma uncle meat";
+var mnemonic = "basket mansion moment inform chronic bitter wheel lonely reflect vanish choice wagon";

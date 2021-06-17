@@ -1,1 +1,1 @@
-var mnemonic = "canvas rose same clump dish poet season small solar junk galaxy swamp";
+var mnemonic = "motion swap mosquito breeze bright slim era neutral tilt ecology front hand";

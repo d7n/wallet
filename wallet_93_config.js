@@ -1,1 +1,1 @@
-var mnemonic = "early ill person game cactus aware oven describe ridge sport toast use";
+var mnemonic = "immense fantasy pyramid pet student company page siren jump bachelor space scorpion";

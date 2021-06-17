@@ -1,1 +1,1 @@
-var mnemonic = "noble end sense follow cook yellow pig subway tomorrow across slot carry";
+var mnemonic = "luxury grief ready unusual bus rocket kitten mutual asthma install tone sorry";

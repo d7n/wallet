@@ -1,1 +1,1 @@
-var mnemonic = "example crouch purse glide nurse trial emerge angle lava student title shop";
+var mnemonic = "reveal erupt squeeze increase inmate insect truly point beyond melody brave crane";

@@ -1,1 +1,1 @@
-var mnemonic = "pitch puzzle father odor lottery minimum delay retire foster ten voyage sign";
+var mnemonic = "velvet thrive cat hedgehog scissors talent smoke whale category dad pretty today";

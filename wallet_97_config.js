@@ -1,1 +1,1 @@
-var mnemonic = "dove must certain tuna pink regular one same eight powder parrot excuse";
+var mnemonic = "wise exist mushroom off fossil accuse please track fossil rain exist ivory";

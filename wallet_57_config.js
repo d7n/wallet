@@ -1,1 +1,1 @@
-var mnemonic = "raven bike timber night visa act attitude bracket window flower trouble lift";
+var mnemonic = "casual biology medal athlete submit kitten review sister orient defy obey vessel";

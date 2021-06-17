@@ -1,1 +1,1 @@
-var mnemonic = "regret heavy define gentle submit champion banner release useless range ocean balance";
+var mnemonic = "liquid they learn prevent wire staff decrease wonder major sphere minute genius";

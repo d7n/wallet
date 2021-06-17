@@ -1,1 +1,1 @@
-var mnemonic = "syrup royal loan liberty run science satoshi fork fall donate away manage";
+var mnemonic = "until emerge typical abstract open inject pistol aerobic welcome replace dream fire";

@@ -1,1 +1,1 @@
-var mnemonic = "number exercise strategy client extra swallow someone sphere faith exit catch know";
+var mnemonic = "welcome recycle soon pledge certain salute capable ill victory just oven box";

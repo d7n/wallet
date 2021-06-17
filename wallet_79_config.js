@@ -1,1 +1,1 @@
-var mnemonic = "entry youth voice tell bless drill bread able lemon room ticket message";
+var mnemonic = "crush fiction fall hurry valid lucky purpose feature cute twice master spend";

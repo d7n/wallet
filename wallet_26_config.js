@@ -1,1 +1,1 @@
-var mnemonic = "until index cable catch grid any half skin direct make endorse grape";
+var mnemonic = "style fun stamp gun float stem flat marine oil cover cluster exit";

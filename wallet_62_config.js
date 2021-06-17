@@ -1,1 +1,1 @@
-var mnemonic = "retire season cheap usual venue soda pen vote night require evoke volume";
+var mnemonic = "goose build pause shell birth stuff mercy labor error twin tomorrow pistol";

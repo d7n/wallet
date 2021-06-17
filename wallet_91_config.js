@@ -1,1 +1,1 @@
-var mnemonic = "lend cruel disease index east faint arctic pitch kangaroo captain water laptop";
+var mnemonic = "thunder weekend panic win abandon coin myself police high symptom insect talk";

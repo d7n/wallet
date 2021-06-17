@@ -1,1 +1,1 @@
-var mnemonic = "enter remain fiction web vote donkey waste flame garage sauce annual thank";
+var mnemonic = "coin olive twelve trim famous prize fringe matter diamond live version noble";

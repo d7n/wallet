@@ -1,1 +1,1 @@
-var mnemonic = "bitter pill tank acquire source loan card summer blame zebra panic amazing";
+var mnemonic = "model clutch betray common castle jacket blossom fluid denial piano jealous chest";

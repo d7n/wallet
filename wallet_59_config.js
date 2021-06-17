@@ -1,1 +1,1 @@
-var mnemonic = "swift vital equal gown resource orange embody board better upset remind pudding";
+var mnemonic = "only urge ignore shine virus board thrive only excess hollow wash letter";

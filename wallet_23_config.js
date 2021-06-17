@@ -1,1 +1,1 @@
-var mnemonic = "family cake give summer capital bronze gadget income prepare swarm later rapid";
+var mnemonic = "syrup torch metal punch flash solar evil earn wise gaze attract eager";

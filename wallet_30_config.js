@@ -1,1 +1,1 @@
-var mnemonic = "useful cannon chalk menu surface utility pony essence pet auto phrase divide";
+var mnemonic = "chat someone guide misery naive detail antique crack loud prize close busy";

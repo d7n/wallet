@@ -1,1 +1,1 @@
-var mnemonic = "upset soon steak reopen forest steak cliff slab weather spray mean dress";
+var mnemonic = "suffer good fine pool cave input slot soldier express drift truth kingdom";

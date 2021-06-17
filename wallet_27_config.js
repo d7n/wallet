@@ -1,1 +1,1 @@
-var mnemonic = "hard rival airport evoke relax magnet mask bundle guess panther blanket extra";
+var mnemonic = "dose best exercise drill toe deer embody label divorce gap chuckle fiscal";

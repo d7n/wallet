@@ -1,1 +1,1 @@
-var mnemonic = "pass quit crisp fat benefit coil host wave round vintage valid donkey";
+var mnemonic = "script mixture awkward leg decade embark husband inmate two basket midnight present";
