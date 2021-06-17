@@ -1,1 +1,1 @@
-var mnemonic = "until home under smoke slight bicycle outer struggle focus because share tenant";
+var mnemonic = "desk walnut insane fluid champion fiction bomb trash border hawk obscure neglect";

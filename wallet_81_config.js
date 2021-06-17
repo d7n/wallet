@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon seminar swamp equal frog frequent rent book sell gossip timber connect";
+var mnemonic = "invest admit raw rebuild foam caught fantasy blouse carry dilemma differ divide";

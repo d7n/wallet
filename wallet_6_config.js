@@ -1,1 +1,1 @@
-var mnemonic = "planet mountain deny behind culture mule gadget riot clay dinosaur deputy live";
+var mnemonic = "stumble common rabbit double busy solve foot mutual coconut help smooth slow";

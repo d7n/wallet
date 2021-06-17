@@ -1,1 +1,1 @@
-var mnemonic = "across laugh feed height drama unable lion peace jump rail actress tiny";
+var mnemonic = "gospel parent ecology load repeat captain noise impose top hunt wasp crop";

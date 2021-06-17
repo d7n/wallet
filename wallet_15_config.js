@@ -1,1 +1,1 @@
-var mnemonic = "cousin hero salad cup airport rally subject embark resist office fitness unfair";
+var mnemonic = "honey ankle sphere dawn cup extend alert harbor sniff coil search fashion";

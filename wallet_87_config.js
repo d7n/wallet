@@ -1,1 +1,1 @@
-var mnemonic = "elbow boss iron music resist fault announce material nut clump level success";
+var mnemonic = "decade siege sun aspect pause slot cabin fit frost brass there clown";

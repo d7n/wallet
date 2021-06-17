@@ -1,1 +1,1 @@
-var mnemonic = "across vital reject bonus supply escape math length embrace spoon chaos rent";
+var mnemonic = "skirt fix sniff happy provide recall broccoli punch oppose news brief dawn";

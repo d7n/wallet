@@ -1,1 +1,1 @@
-var mnemonic = "girl pipe world follow gorilla helmet firm hockey jeans tray drop tumble";
+var mnemonic = "over float across solution tape ceiling dismiss medal patch capital must release";

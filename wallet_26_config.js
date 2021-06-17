@@ -1,1 +1,1 @@
-var mnemonic = "jealous gloom prepare calm taxi slim kingdom hello during symptom wise ribbon";
+var mnemonic = "afford glad lecture puppy holiday tiger february couple infant tobacco quantum rail";

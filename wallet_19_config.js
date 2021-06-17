@@ -1,1 +1,1 @@
-var mnemonic = "boil enlist rack ivory exhaust accident regret pilot steel spot refuse strike";
+var mnemonic = "filter shoot filter label prison permit afford puzzle insect define movie pave";

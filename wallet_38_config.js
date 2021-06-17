@@ -1,1 +1,1 @@
-var mnemonic = "noise crane coyote crack jungle stone please drink perfect choice ketchup swallow";
+var mnemonic = "globe girl divide obscure measure snack mutual nose night slab phrase connect";

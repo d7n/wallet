@@ -1,1 +1,1 @@
-var mnemonic = "kitchen daughter pottery early argue music invest achieve balance exhaust transfer total";
+var mnemonic = "social front describe deposit dry obvious beauty fetch sail drill display post";

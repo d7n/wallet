@@ -1,1 +1,1 @@
-var mnemonic = "mask pond butter best unaware cement turtle tag finger cause horse weird";
+var mnemonic = "kiss guilt leader claim sibling blast poverty rude stereo urge crawl badge";

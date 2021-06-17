@@ -1,1 +1,1 @@
-var mnemonic = "goose noble tribe talent venue marriage laugh order uncover door system butter";
+var mnemonic = "today blouse atom buzz garage render armed fan globe lock smoke favorite";

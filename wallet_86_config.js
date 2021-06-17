@@ -1,1 +1,1 @@
-var mnemonic = "river oak more brass chicken guitar middle much wood baby strike double";
+var mnemonic = "birth glow belt ability rice move nut bottom bullet foam settle arm";

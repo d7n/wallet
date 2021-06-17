@@ -1,1 +1,1 @@
-var mnemonic = "high topic maximum correct pact color swarm globe frozen scare tent front";
+var mnemonic = "zero zone way minor physical quote wash axis cruise advice south crop";

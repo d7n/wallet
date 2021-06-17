@@ -1,1 +1,1 @@
-var mnemonic = "pool decorate fade spatial retire build music repair toilet salt mask receive";
+var mnemonic = "assault leg reveal vocal turn wealth bird accident upper minimum tourist absorb";

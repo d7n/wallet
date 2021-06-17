@@ -1,1 +1,1 @@
-var mnemonic = "suspect goat able still indoor glory dish tuition over spray planet amused";
+var mnemonic = "rug forum assist leaf medal ability conduct ride portion limit middle enemy";

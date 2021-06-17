@@ -1,1 +1,1 @@
-var mnemonic = "rack lava range very orient rival invest talk lab vicious vote used";
+var mnemonic = "always erosion kid winner nature flat genius off birth funny wall lawsuit";

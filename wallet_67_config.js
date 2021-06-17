@@ -1,1 +1,1 @@
-var mnemonic = "hurt clinic comfort hip relief vapor dove art elder timber doctor evidence";
+var mnemonic = "until warfare age bench plate mule water flush oval truly mixed honey";

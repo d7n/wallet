@@ -1,1 +1,1 @@
-var mnemonic = "truly market exchange boss shell purse moon grass guard absorb soul just";
+var mnemonic = "feature clip aim ancient fault text green urban chaos basket perfect walk";

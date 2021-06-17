@@ -1,1 +1,1 @@
-var mnemonic = "ugly glance unhappy carbon guilt census benefit robot custom admit reveal hip";
+var mnemonic = "bless unveil thought half october nerve profit pink salt frost grant evoke";

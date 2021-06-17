@@ -1,1 +1,1 @@
-var mnemonic = "absurd another tonight agree subway hello arrange cactus avoid wrestle april raven";
+var mnemonic = "loyal cinnamon glide margin walnut husband ordinary garlic shell canal pet old";

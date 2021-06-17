@@ -1,1 +1,1 @@
-var mnemonic = "gift shoulder senior across fork mosquito citizen fat rural odor security address";
+var mnemonic = "unique muffin assault funny mirror pudding hub camp off delay raccoon team";

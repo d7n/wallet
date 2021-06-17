@@ -1,1 +1,1 @@
-var mnemonic = "excess claim glad deliver share job knee two sing stomach cause bring";
+var mnemonic = "secret orange shy power refuse depart favorite name peace million busy drill";

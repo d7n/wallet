@@ -1,1 +1,1 @@
-var mnemonic = "choose volcano make loop lend horn napkin flame garment raw flight equal";
+var mnemonic = "choice toss grape oyster sting decorate confirm laptop mass lunch upper pause";

@@ -1,1 +1,1 @@
-var mnemonic = "drill arrive inquiry prosper ancient muscle vapor census cram fiscal payment fish";
+var mnemonic = "lamp orchard that glide fetch donate squirrel dish frog upon pen reject";

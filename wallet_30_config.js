@@ -1,1 +1,1 @@
-var mnemonic = "layer bird layer diamond sock gun special mad mirror furnace zone screen";
+var mnemonic = "inherit cushion you crowd basic hobby float drastic favorite tourist allow pretty";

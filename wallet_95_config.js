@@ -1,1 +1,1 @@
-var mnemonic = "tonight suggest pledge solar confirm fine roast fever trouble breeze asset oppose";
+var mnemonic = "judge situate obscure banner employ party bounce feel isolate ankle mushroom believe";

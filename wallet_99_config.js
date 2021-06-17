@@ -1,1 +1,1 @@
-var mnemonic = "ethics sauce danger fault sick little noise saddle auction moon coral produce";
+var mnemonic = "dolphin rapid over plug wire mango property oven orphan minute spoon fire";

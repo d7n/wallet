@@ -1,1 +1,1 @@
-var mnemonic = "surface scout upon broom depth civil mad keep scheme gossip ritual shop";
+var mnemonic = "certain chalk wash cup annual tired fun snow tuition disorder own cement";

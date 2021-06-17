@@ -1,1 +1,1 @@
-var mnemonic = "buffalo annual canvas bitter because bar setup elephant end apple tragic solution";
+var mnemonic = "era desk interest police divide kitten found elegant chair approve define saddle";

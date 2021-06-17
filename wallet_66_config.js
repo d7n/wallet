@@ -1,1 +1,1 @@
-var mnemonic = "deal ecology indicate despair month spoil purchase mail dignity detail priority artefact";
+var mnemonic = "lend lunar eye number frame target better fix select thumb license prize";

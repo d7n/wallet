@@ -1,1 +1,1 @@
-var mnemonic = "build ten yellow flip balance hawk conduct barely medal already syrup differ";
+var mnemonic = "protect mango humble gown burst mercy oblige stand kidney castle firm dice";

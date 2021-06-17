@@ -1,1 +1,1 @@
-var mnemonic = "vendor boring inquiry chronic later spin enforce describe guess toy drive drill";
+var mnemonic = "bird arm viable about wise unaware cabbage renew denial shrimp vocal response";

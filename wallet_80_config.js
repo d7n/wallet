@@ -1,1 +1,1 @@
-var mnemonic = "syrup retreat board topple plate bar zoo card boy fault art crop";
+var mnemonic = "token federal light remind height emotion safe this fox you dash theory";

@@ -1,1 +1,1 @@
-var mnemonic = "expand mass sample bomb episode aim echo page universe sing attack axis";
+var mnemonic = "hazard current cloud naive crisp fence alone legal shiver artwork penalty income";

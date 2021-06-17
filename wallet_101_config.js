@@ -1,1 +1,1 @@
-var mnemonic = "slow agree index nasty bonus confirm install firm funny bullet cinnamon begin";
+var mnemonic = "link across huge over quality movie order shrug cupboard tell appear moment";

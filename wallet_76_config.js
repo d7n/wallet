@@ -1,1 +1,1 @@
-var mnemonic = "twist eight office mixed outdoor horse soul decorate raven process already health";
+var mnemonic = "reform end dinosaur stomach lunar tenant educate glove stereo dentist output scrap";

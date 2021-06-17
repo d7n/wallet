@@ -1,1 +1,1 @@
-var mnemonic = "vital alien cost gossip hockey car parade there hip weekend debate mechanic";
+var mnemonic = "rail ready state lazy fluid hair gown helmet render note coconut great";

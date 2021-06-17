@@ -1,1 +1,1 @@
-var mnemonic = "slab person copy level farm ship attitude input pupil below icon dawn";
+var mnemonic = "verify news sister kingdom upset toddler bottom raccoon risk luxury cabbage huge";

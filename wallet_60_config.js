@@ -1,1 +1,1 @@
-var mnemonic = "say roof surprise dizzy hen wool spoil catch amazing trick afford figure";
+var mnemonic = "fault front seek wear guide occur brave convince air lottery future repair";

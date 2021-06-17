@@ -1,1 +1,1 @@
-var mnemonic = "note dawn scene wife wet autumn siege rate danger swim burst vanish";
+var mnemonic = "umbrella amount suffer tag loyal cabbage pizza lonely grid venue luxury fantasy";

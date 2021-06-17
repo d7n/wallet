@@ -1,1 +1,1 @@
-var mnemonic = "scan fortune fence quiz animal fault dance head milk recipe ship minor";
+var mnemonic = "fold glare firm brass valley helmet vehicle rhythm cushion crash sweet snap";

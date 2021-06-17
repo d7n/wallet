@@ -1,1 +1,1 @@
-var mnemonic = "bottom unique actress negative bullet dragon autumn simple sadness endorse convince elevator";
+var mnemonic = "ribbon fortune athlete tree announce dance punch artwork wife paddle acquire crisp";

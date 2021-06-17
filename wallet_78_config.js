@@ -1,1 +1,1 @@
-var mnemonic = "minor impulse mean august dolphin curious client mistake furnace car judge ugly";
+var mnemonic = "rescue between stairs capital horror buffalo admit scan treat reform modify vault";

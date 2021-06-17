@@ -1,1 +1,1 @@
-var mnemonic = "about shield panda sponsor engine blouse prosper tool unique dice draw normal";
+var mnemonic = "exchange strong culture choice stadium move mass busy tape glue used company";

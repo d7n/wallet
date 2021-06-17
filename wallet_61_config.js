@@ -1,1 +1,1 @@
-var mnemonic = "furnace noodle inject predict license toilet dress attract today melt front all";
+var mnemonic = "fiction width drip obvious select book orchard steak misery female peanut find";

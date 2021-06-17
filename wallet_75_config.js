@@ -1,1 +1,1 @@
-var mnemonic = "random drift super twelve airport caught practice inner corn nose miracle forest";
+var mnemonic = "quarter decrease cup relief need tape exotic transfer upgrade spike negative venture";

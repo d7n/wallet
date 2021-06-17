@@ -1,1 +1,1 @@
-var mnemonic = "fringe collect rich tongue admit client science divorce better spy nothing tonight";
+var mnemonic = "narrow promote awesome snake junior swear category asset light talk end damp";

@@ -1,1 +1,1 @@
-var mnemonic = "strike glad concert amount news awake sail original race wait social ketchup";
+var mnemonic = "behave tortoise elephant pumpkin ability lumber vapor during box label involve anger";

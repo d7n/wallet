@@ -1,1 +1,1 @@
-var mnemonic = "pipe calm fever despair ahead genre hurdle consider spike habit punch replace";
+var mnemonic = "hungry differ sting coach base habit dash figure inflict income bomb hobby";

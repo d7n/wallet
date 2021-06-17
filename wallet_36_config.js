@@ -1,1 +1,1 @@
-var mnemonic = "inject beach include icon merry oblige estate ice soccer wrestle year nasty";
+var mnemonic = "eager fiber garden torch else resource afford burden kit throw tourist cloud";

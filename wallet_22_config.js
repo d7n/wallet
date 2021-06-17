@@ -1,1 +1,1 @@
-var mnemonic = "green energy release early casino close conduct pact village space edge draw";
+var mnemonic = "heavy issue gadget album machine shop search okay cigar rapid fabric segment";

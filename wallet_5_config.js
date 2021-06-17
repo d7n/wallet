@@ -1,1 +1,1 @@
-var mnemonic = "bonus remove make cram split twin solution penalty nurse loan vanish convince";
+var mnemonic = "fragile marble shoulder elephant edge reward allow saddle myself govern member drama";

@@ -1,1 +1,1 @@
-var mnemonic = "visa pride deny leaf airport firm seek olympic flip peace cluster now";
+var mnemonic = "supply fruit dish shed project story old aspect super argue actress profit";

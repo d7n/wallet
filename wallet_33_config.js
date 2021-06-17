@@ -1,1 +1,1 @@
-var mnemonic = "utility ghost action primary truly trouble crop security problem grass permit decade";
+var mnemonic = "space smile thrive bus tiger great prison fork aerobic erupt cry upon";

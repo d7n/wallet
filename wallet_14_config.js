@@ -1,1 +1,1 @@
-var mnemonic = "twenty north cabin check figure cousin stumble frozen twice auto sausage debris";
+var mnemonic = "blush valid uniform response find tattoo note slab beef team spend crazy";

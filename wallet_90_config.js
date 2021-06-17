@@ -1,1 +1,1 @@
-var mnemonic = "balcony diary super absent morning adapt gorilla license notice brand describe security";
+var mnemonic = "museum have diagram mansion divide tiny grass liar dish cheap legal hundred";

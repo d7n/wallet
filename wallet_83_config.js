@@ -1,1 +1,1 @@
-var mnemonic = "liquid bullet badge midnight cram inmate sponsor rebel business gadget joke copy";
+var mnemonic = "gate gun rally combine position ability actress rice acquire raise matrix devote";

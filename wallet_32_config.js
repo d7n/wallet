@@ -1,1 +1,1 @@
-var mnemonic = "client print adult gaze shy board wrist pond mesh favorite office crawl";
+var mnemonic = "beef apart soul laptop dad female green easily lobster tuition garbage title";

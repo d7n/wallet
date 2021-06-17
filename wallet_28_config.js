@@ -1,1 +1,1 @@
-var mnemonic = "square thumb dragon combine balance hospital rifle brass stairs fade street doll";
+var mnemonic = "ugly century dress tragic cake symptom tool all oval wink super raw";

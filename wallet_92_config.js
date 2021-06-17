@@ -1,1 +1,1 @@
-var mnemonic = "length borrow suspect bronze unknown usual jeans burden million beyond gloom buffalo";
+var mnemonic = "target limit text patch toward lemon actress cabin service swear manage army";

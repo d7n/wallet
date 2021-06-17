@@ -1,1 +1,1 @@
-var mnemonic = "exclude canvas half civil panic grid suit battle rich emerge farm attitude";
+var mnemonic = "rice height section toast soldier multiply always digital author jump arrest tennis";

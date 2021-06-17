@@ -1,1 +1,1 @@
-var mnemonic = "song network hollow gate helmet obscure gossip hurdle payment differ goddess coast";
+var mnemonic = "gain ring chuckle shine unknown nice foot pilot client close scatter august";

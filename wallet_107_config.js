@@ -1,1 +1,1 @@
-var mnemonic = "behind point turn prosper key goat popular uniform endless equip rich powder";
+var mnemonic = "circle patch gold write notice laugh year cart prepare cash female cram";

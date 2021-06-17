@@ -1,1 +1,1 @@
-var mnemonic = "empower leave upon panther coffee biology real volcano ahead rent planet shift";
+var mnemonic = "thing solution pen alter nominee special symptom silver remain decorate zoo battle";

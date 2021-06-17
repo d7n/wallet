@@ -1,1 +1,1 @@
-var mnemonic = "agent royal monitor sustain aisle nuclear online right mind banner wedding grape";
+var mnemonic = "garage giant love member simple expand erupt assault shock axis regular flash";

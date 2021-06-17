@@ -1,1 +1,1 @@
-var mnemonic = "indoor horse crack begin media tumble divorce split resist air salt true";
+var mnemonic = "announce height valve tired gossip cancel mixed brush fluid book legend slab";

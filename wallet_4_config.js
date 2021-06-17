@@ -1,1 +1,1 @@
-var mnemonic = "unusual verb suggest reject memory large bounce nasty aisle business admit eye";
+var mnemonic = "nerve worth trial proud outside path depend payment soccer crash special cherry";

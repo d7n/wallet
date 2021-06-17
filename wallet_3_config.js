@@ -1,1 +1,1 @@
-var mnemonic = "region raw tide pitch online negative humor off soup meat goose tissue";
+var mnemonic = "hedgehog mandate erupt industry glare stadium science only abstract doll spy neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble symptom property insect hip essence depart angry purse business rug tobacco";
+var mnemonic = "exile order captain sword audit royal order alarm mass alter ivory father";

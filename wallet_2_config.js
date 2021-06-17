@@ -1,1 +1,1 @@
-var mnemonic = "loan asthma ethics wine noble upon lend outdoor series all usage flock";
+var mnemonic = "conduct unfold repeat myself dumb whisper sea source upper autumn market craft";

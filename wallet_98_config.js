@@ -1,1 +1,1 @@
-var mnemonic = "profit weapon ranch rookie pause region innocent uphold scatter rice beach curve";
+var mnemonic = "lend observe rice that donor museum about hurry bracket exist door final";

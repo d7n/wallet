@@ -1,1 +1,1 @@
-var mnemonic = "speed narrow oyster hill palm club side battle warrior quality door travel";
+var mnemonic = "fever measure train strategy tongue ladder submit couple glove deny loyal million";

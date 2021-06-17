@@ -1,1 +1,1 @@
-var mnemonic = "kid cliff raw chronic charge alert slot squeeze disease firm riot magnet";
+var mnemonic = "diary must recall furnace giggle cause rare nasty gossip snake flash brief";

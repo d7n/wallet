@@ -1,1 +1,1 @@
-var mnemonic = "release caution section voyage delay cook frog uniform panic matter casual pen";
+var mnemonic = "loyal ask chronic payment alley fantasy humble beef identify large humor unable";

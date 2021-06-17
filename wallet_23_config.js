@@ -1,1 +1,1 @@
-var mnemonic = "real front motor category pull pluck promote foam vibrant plug switch multiply";
+var mnemonic = "patrol beef wire gauge confirm media milk drip phone return erase lazy";

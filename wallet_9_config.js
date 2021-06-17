@@ -1,1 +1,1 @@
-var mnemonic = "lizard tool tower spy funny hundred ridge file elephant table uphold public";
+var mnemonic = "crawl tide salmon captain foam sunny ocean fun diamond major across flight";

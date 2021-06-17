@@ -1,1 +1,1 @@
-var mnemonic = "banner bullet come perfect oblige chalk pear snap tortoise strong army fantasy";
+var mnemonic = "wise spin retreat afraid blind source capital random goose state good mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "way blanket hurry member minor special rotate female captain host equip crunch";
+var mnemonic = "alarm boost cute error rather toast person cool foam effort milk mercy";

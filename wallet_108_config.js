@@ -1,1 +1,1 @@
-var mnemonic = "viable involve company bring emerge because dizzy gap busy evoke across morning";
+var mnemonic = "mom turtle pledge laptop filter type shield winner pumpkin patch barely pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "file wife banana thought just boring brief uniform clay sorry palm diary";
+var mnemonic = "squeeze hazard salute smooth mansion clap alcohol arrive kiss person blossom indoor";

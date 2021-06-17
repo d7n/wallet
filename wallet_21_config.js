@@ -1,1 +1,1 @@
-var mnemonic = "cloth bless damage aunt swap flag nature damage hurry razor peanut undo";
+var mnemonic = "february mesh dog cruel wealth volcano chunk transfer print problem master barrel";

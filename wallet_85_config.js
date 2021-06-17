@@ -1,1 +1,1 @@
-var mnemonic = "usage begin chunk ripple often name blur torch lion kiwi husband insane";
+var mnemonic = "upset medal abuse height own rose rude squirrel shrug like segment ten";

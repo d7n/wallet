@@ -1,1 +1,1 @@
-var mnemonic = "public nerve antique neglect bronze dwarf enforce gather believe million post catalog";
+var mnemonic = "advice improve curve poem render decrease inflict merry rotate state movie pig";

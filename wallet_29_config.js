@@ -1,1 +1,1 @@
-var mnemonic = "silk oxygen dance knife question climb surround arena diamond weekend moral midnight";
+var mnemonic = "forget kangaroo citizen clay alone doctor lift dry ball nerve legal region";

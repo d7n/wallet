@@ -1,1 +1,1 @@
-var mnemonic = "major shoe appear index giant elephant undo master sure jazz know spawn";
+var mnemonic = "dragon shell express plunge horse glove path bunker woman fever turn first";

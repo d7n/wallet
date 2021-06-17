@@ -1,1 +1,1 @@
-var mnemonic = "palm wagon refuse tobacco book clip banana palace wheel dial place admit";
+var mnemonic = "weekend trophy distance describe mango solution script control rather area toddler assume";

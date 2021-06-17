@@ -1,1 +1,1 @@
-var mnemonic = "math song judge scale sing please knee minute fitness bicycle habit cabin";
+var mnemonic = "fragile burger then marriage goat sister attack shield situate rain connect frost";

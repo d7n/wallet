@@ -1,1 +1,1 @@
-var mnemonic = "planet ahead neither ordinary zoo jacket brand danger absent ready captain weasel";
+var mnemonic = "crisp mule basket motor twice provide supply run engine elder fuel bronze";

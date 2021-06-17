@@ -1,1 +1,1 @@
-var mnemonic = "grunt wet scorpion barrel glance tuna skirt tattoo hub pretty morning used";
+var mnemonic = "exile shrimp pottery birth birth theme decorate simple verb recycle expect push";

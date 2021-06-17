@@ -1,1 +1,1 @@
-var mnemonic = "canyon kit custom correct negative bus leaf frown close ecology sea damp";
+var mnemonic = "rebel alter curtain purchase lunch actual trouble power debate much metal snow";

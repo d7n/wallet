@@ -1,1 +1,1 @@
-var mnemonic = "among symptom junior group various crowd repair toy echo grab valve upgrade";
+var mnemonic = "aunt flag milk flee riot pistol trust chat custom tortoise daring love";

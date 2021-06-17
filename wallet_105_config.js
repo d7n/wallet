@@ -1,1 +1,1 @@
-var mnemonic = "above oven frame betray pond ready clap address protect sword cave poem";
+var mnemonic = "much brief place base cherry elite carbon truck view transfer trade early";

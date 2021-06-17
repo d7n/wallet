@@ -1,1 +1,1 @@
-var mnemonic = "season never piano valve web inflict clutch piece fire boil grain awesome";
+var mnemonic = "arrest crunch end letter chaos liar same omit release shed banana stool";

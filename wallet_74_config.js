@@ -1,1 +1,1 @@
-var mnemonic = "pulse swear disagree lab lock man course track angry suspect brush truck";
+var mnemonic = "street toe energy twist note bargain photo apology sugar hair ride various";
