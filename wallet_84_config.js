@@ -1,1 +1,1 @@
-var mnemonic = "media leg relax sustain enjoy lawsuit sign sport bamboo into measure leaf";
+var mnemonic = "peace purity know hunt error among save zoo deposit cake joy stick";

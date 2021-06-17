@@ -1,1 +1,1 @@
-var mnemonic = "kick grant predict balance pottery able man message swing knock obscure test";
+var mnemonic = "primary canal great tell alpha rookie water pulse stay ship bless drip";

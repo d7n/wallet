@@ -1,1 +1,1 @@
-var mnemonic = "fat mistake tennis dinner team silver lumber conduct flash machine enroll dune";
+var mnemonic = "usage bounce embrace rough urban move cheap armor life humor moon vast";

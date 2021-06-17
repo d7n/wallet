@@ -1,1 +1,1 @@
-var mnemonic = "moral unique valid kid display dinosaur wing unit gravity already road tent";
+var mnemonic = "cup virus double cloud key call buffalo broccoli choose become miracle seed";

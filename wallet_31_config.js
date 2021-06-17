@@ -1,1 +1,1 @@
-var mnemonic = "aisle buddy ceiling guitar cave author bless someone region airport ski track";
+var mnemonic = "system gas dance beauty prison pipe math era indicate monster author banana";

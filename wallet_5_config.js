@@ -1,1 +1,1 @@
-var mnemonic = "undo goat luxury lucky whale october science elder vacuum february foil sure";
+var mnemonic = "pet cloth enrich alarm exclude surround wild obtain time wing reduce real";

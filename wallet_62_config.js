@@ -1,1 +1,1 @@
-var mnemonic = "detect income suit salmon october almost topic point luxury spell month unfair";
+var mnemonic = "front secret number blade sunset gun duck crazy record ladder gravity coin";

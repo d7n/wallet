@@ -1,1 +1,1 @@
-var mnemonic = "hold pupil truth economy color police bless become hidden solar eagle juice";
+var mnemonic = "gorilla enable ripple seek hood clerk above evolve prefer effort brick gold";

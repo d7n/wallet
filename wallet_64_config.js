@@ -1,1 +1,1 @@
-var mnemonic = "swarm kite island access limb file fall public demise mix arena edge";
+var mnemonic = "once wink shadow gap elite moon monitor stage stock near record recipe";

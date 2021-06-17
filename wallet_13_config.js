@@ -1,1 +1,1 @@
-var mnemonic = "earn surge symbol tourist robot tilt jaguar afraid develop special aware income";
+var mnemonic = "unfold super rebuild sun produce dress pistol fold subway lion retreat say";

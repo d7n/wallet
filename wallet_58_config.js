@@ -1,1 +1,1 @@
-var mnemonic = "prosper wife prefer erode helmet daring depend next tomato actual level country";
+var mnemonic = "chimney occur enrich ecology spirit govern away month essence demise veteran vault";

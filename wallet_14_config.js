@@ -1,1 +1,1 @@
-var mnemonic = "path hold few valid rent vessel ship pyramid sausage cannon busy used";
+var mnemonic = "venture cloud topple total shop raise town matter uphold breeze problem enroll";

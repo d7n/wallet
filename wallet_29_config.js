@@ -1,1 +1,1 @@
-var mnemonic = "turn spy episode extend dolphin ugly victory silver suffer quick olympic absent";
+var mnemonic = "hurdle exhibit movie snap script rude sting panda season exit brown ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "owner female flock render fee urban enough begin aisle limit toss equip";
+var mnemonic = "valley warm truck vehicle nominee dinner arrange symbol decline edge copy empty";

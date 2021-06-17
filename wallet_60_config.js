@@ -1,1 +1,1 @@
-var mnemonic = "exile degree sword dinner tired exhaust diary solid exchange cherry copy piece";
+var mnemonic = "cruel beef museum brother teach practice target creek net day afraid vessel";

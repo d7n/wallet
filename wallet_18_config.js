@@ -1,1 +1,1 @@
-var mnemonic = "small half tennis draft method squeeze slide derive raven patrol street pitch";
+var mnemonic = "lawsuit strike hungry sweet fine grief focus robust opera liar vehicle fancy";

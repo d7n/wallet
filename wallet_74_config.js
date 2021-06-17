@@ -1,1 +1,1 @@
-var mnemonic = "siren update range rack symbol trend swamp sketch fog snow matter palm";
+var mnemonic = "claw play knee vacuum recall midnight twelve dream secret nothing pledge remember";

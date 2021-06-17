@@ -1,1 +1,1 @@
-var mnemonic = "scatter apart fancy hamster shoe foil praise foil oblige write domain saddle";
+var mnemonic = "wrestle yellow end witness cruise hundred salon poem museum sock festival express";

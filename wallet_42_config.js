@@ -1,1 +1,1 @@
-var mnemonic = "impact runway bulb spot grit hybrid future apology present phrase shuffle club";
+var mnemonic = "select reject smile mansion steak lumber else size rifle dish silver world";

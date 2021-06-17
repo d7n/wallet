@@ -1,1 +1,1 @@
-var mnemonic = "title expand glove sunset human slender dinosaur pipe tissue excite pluck dynamic";
+var mnemonic = "air visa basket question picture leisure exhaust hospital action gloom kidney fold";

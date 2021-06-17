@@ -1,1 +1,1 @@
-var mnemonic = "total dose battle combine lunch gold scrap dinner submit fame find trigger";
+var mnemonic = "pact ranch outdoor avoid exile infant solve grass joy laptop quick left";

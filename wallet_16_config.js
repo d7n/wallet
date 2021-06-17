@@ -1,1 +1,1 @@
-var mnemonic = "denial brief cram rural alert corn family edit title wave list ship";
+var mnemonic = "bulk coconut wet glove peanut simple beach exclude travel reward poet candy";

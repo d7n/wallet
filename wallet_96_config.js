@@ -1,1 +1,1 @@
-var mnemonic = "organ better until illegal author saddle illegal vehicle toe lecture patient list";
+var mnemonic = "south person abuse chalk indoor canyon ceiling turkey syrup valley lock priority";

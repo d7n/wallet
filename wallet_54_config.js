@@ -1,1 +1,1 @@
-var mnemonic = "banana bomb balance prize antenna learn travel allow dry pair reopen foam";
+var mnemonic = "air idea noise multiply useful joke multiply office picnic lock quantum drastic";

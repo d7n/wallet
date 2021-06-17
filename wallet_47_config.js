@@ -1,1 +1,1 @@
-var mnemonic = "keen skirt civil pilot clown dose craft wage laugh twice uniform urge";
+var mnemonic = "build miracle special common elevator lounge stereo else tortoise search main trap";

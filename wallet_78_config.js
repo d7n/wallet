@@ -1,1 +1,1 @@
-var mnemonic = "tree uniform during sword sweet switch subway will trash always pact shaft";
+var mnemonic = "mango easily define rug velvet response unhappy leisure sell eagle income elder";

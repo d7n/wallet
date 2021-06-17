@@ -1,1 +1,1 @@
-var mnemonic = "bread coconut narrow today noise cost tunnel surface just concert virtual palm";
+var mnemonic = "payment that scout critic venue gym popular culture any fan danger cluster";

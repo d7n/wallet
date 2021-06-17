@@ -1,1 +1,1 @@
-var mnemonic = "toe woman nasty girl dry client miss final win winter foot fork";
+var mnemonic = "hunt leaf roast guitar minute music answer giggle wood behind permit sail";

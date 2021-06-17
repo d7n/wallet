@@ -1,1 +1,1 @@
-var mnemonic = "shock option they fat crisp suspect pottery mule elevator service habit say";
+var mnemonic = "avocado afraid remind across negative night deal clog pencil crowd poet atom";

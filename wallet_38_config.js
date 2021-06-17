@@ -1,1 +1,1 @@
-var mnemonic = "post stool cave correct trophy column spy unfold denial inhale extra decade";
+var mnemonic = "rough pill subway hidden roof town bulk circle like pig unaware rail";

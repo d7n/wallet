@@ -1,1 +1,1 @@
-var mnemonic = "note limit witness box faith must fiber snap alone major mixed furnace";
+var mnemonic = "solid slender person cheap wolf fence need post chronic taste okay pupil";

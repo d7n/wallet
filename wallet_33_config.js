@@ -1,1 +1,1 @@
-var mnemonic = "oval mom limit obtain loan weasel street decline vehicle wire inform romance";
+var mnemonic = "wage zero glory regular again brass office robust ceiling balance neck embrace";

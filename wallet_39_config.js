@@ -1,1 +1,1 @@
-var mnemonic = "badge gallery cushion pencil vivid laundry gain recipe keen recycle frame reform";
+var mnemonic = "mimic mystery flash address lift weekend leaf legal appear second fault impose";

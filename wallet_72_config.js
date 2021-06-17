@@ -1,1 +1,1 @@
-var mnemonic = "slim win race hole urge twice survey system wagon cram deny hundred";
+var mnemonic = "easy seek object judge task common reduce area mosquito crucial tunnel tenant";

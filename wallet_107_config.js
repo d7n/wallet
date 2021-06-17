@@ -1,1 +1,1 @@
-var mnemonic = "celery type they aerobic dutch spray deputy fish lake sight must couple";
+var mnemonic = "vendor pupil razor civil guide aim valve paddle badge radar punch harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "coast tongue forward clump deer glow sunset visa move file hard verb";
+var mnemonic = "dream blue invite burger guitar equal valve fatal wasp infant myth jeans";

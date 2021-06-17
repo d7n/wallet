@@ -1,1 +1,1 @@
-var mnemonic = "lyrics stomach organ boy shallow build sauce tongue possible great gas pact";
+var mnemonic = "promote typical cabbage delay ugly valid potato daring brand reunion drift space";

@@ -1,1 +1,1 @@
-var mnemonic = "kind this peasant since wide mandate only parrot crop mesh spread bridge";
+var mnemonic = "hand short cable basic mobile intact never course kiss welcome remain slush";

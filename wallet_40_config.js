@@ -1,1 +1,1 @@
-var mnemonic = "rather stamp hover fiber language valve pitch print blind hammer envelope picture";
+var mnemonic = "strategy abandon key debate three abstract poet amazing party project demise interest";

@@ -1,1 +1,1 @@
-var mnemonic = "assault claw time rich scheme record retire risk sadness barely runway belt";
+var mnemonic = "east party ankle turkey attend crowd morning fitness melt fence embark lava";

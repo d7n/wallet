@@ -1,1 +1,1 @@
-var mnemonic = "month smooth option wheat myth blade brass divorce scene craft unit cabbage";
+var mnemonic = "piano middle reform mirror tattoo afford very salon accuse dog dance ancient";

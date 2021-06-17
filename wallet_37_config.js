@@ -1,1 +1,1 @@
-var mnemonic = "kite scrub broom task symptom interest impose afford cute toast wise siege";
+var mnemonic = "cattle address pill story barely version naive chest glide actual frozen satoshi";

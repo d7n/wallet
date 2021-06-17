@@ -1,1 +1,1 @@
-var mnemonic = "drip opera frequent night lumber spirit crawl come drill april winner miracle";
+var mnemonic = "pyramid excuse sick edit captain cigar inspire clock census jelly stomach client";

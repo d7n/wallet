@@ -1,1 +1,1 @@
-var mnemonic = "uncover village clog clutch sentence charge dolphin raccoon hazard mother parade melody";
+var mnemonic = "churn armed awesome please avocado zoo hidden inside artist learn will flash";

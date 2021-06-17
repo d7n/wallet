@@ -1,1 +1,1 @@
-var mnemonic = "flag half approve tool slam season sketch afford say tennis noodle topic";
+var mnemonic = "able winner text cushion coach hunt gather hamster ignore cage cash camera";

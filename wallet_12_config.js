@@ -1,1 +1,1 @@
-var mnemonic = "citizen mom flower choice choice fashion proud river ceiling cinnamon imitate clinic";
+var mnemonic = "option history brass onion silk advice ketchup fabric polar view canvas cannon";

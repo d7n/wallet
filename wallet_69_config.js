@@ -1,1 +1,1 @@
-var mnemonic = "slight eternal reduce room hurt excess category equip gossip meat denial exhaust";
+var mnemonic = "during outside nothing bike feed rose derive water dog unlock tell soccer";

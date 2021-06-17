@@ -1,1 +1,1 @@
-var mnemonic = "cliff ship delay base holiday bread raven cash guitar copper forward apart";
+var mnemonic = "what exhaust antique leg critic police trouble soap betray spatial behind lion";

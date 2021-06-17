@@ -1,1 +1,1 @@
-var mnemonic = "little fade mention eye foot orbit alpha heart loan tilt win harvest";
+var mnemonic = "major canoe cement blade minor honey awful eagle wasp rib essence hope";

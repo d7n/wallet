@@ -1,1 +1,1 @@
-var mnemonic = "tumble width harbor truth alone calm drink wise palm easy bridge spare";
+var mnemonic = "camp attitude century open device oxygen light alone boy major honey civil";

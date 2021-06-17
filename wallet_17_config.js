@@ -1,1 +1,1 @@
-var mnemonic = "parrot buffalo portion onion member glance foam spice actual cancel glare ski";
+var mnemonic = "aisle dog lumber autumn dash raw label swarm cable vehicle prize bike";

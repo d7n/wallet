@@ -1,1 +1,1 @@
-var mnemonic = "member fever cup song beauty dwarf when what leopard axis tower same";
+var mnemonic = "romance sphere dirt exhaust vanish decorate feed curve talent crumble congress jar";

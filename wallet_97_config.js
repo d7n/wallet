@@ -1,1 +1,1 @@
-var mnemonic = "below labor orchard snap pause mix voice crowd island cherry excuse oxygen";
+var mnemonic = "space average oil undo victory hotel ring walnut domain toast catch gym";

@@ -1,1 +1,1 @@
-var mnemonic = "draft crazy ladder squeeze glance this initial quantum mother embark can naive";
+var mnemonic = "lottery tunnel gate announce bleak response divert hidden beyond alert tired volcano";

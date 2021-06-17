@@ -1,1 +1,1 @@
-var mnemonic = "obvious chair cruel stable process shuffle one web corn ethics reform siege";
+var mnemonic = "cruise umbrella time clock certain turtle melody sun alarm reward predict siege";

@@ -1,1 +1,1 @@
-var mnemonic = "move evil length swarm achieve just cluster dream office essay scorpion keen";
+var mnemonic = "great eagle pelican combine casino fox wrist you coral cigar mouse talk";

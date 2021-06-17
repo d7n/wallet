@@ -1,1 +1,1 @@
-var mnemonic = "movie boring jazz spot real truck mirror prize prepare charge danger card";
+var mnemonic = "tired curtain afraid amount panda federal wood question sister differ maid father";

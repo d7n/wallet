@@ -1,1 +1,1 @@
-var mnemonic = "brisk despair clean dust false scan infant large maid disagree twice wage";
+var mnemonic = "awkward jealous comic into spirit ceiling moral practice hamster nurse timber spend";

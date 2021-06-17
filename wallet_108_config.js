@@ -1,1 +1,1 @@
-var mnemonic = "clean earth bring shock civil gather ritual busy stem bargain slow culture";
+var mnemonic = "tunnel tackle crumble borrow wish pen elegant hover mobile move gun goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage inflict laptop border shine spice cart monitor drama lab half excuse";
+var mnemonic = "dream exercise surface quote whale clip glow uphold sweet cliff river ride";

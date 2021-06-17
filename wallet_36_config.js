@@ -1,1 +1,1 @@
-var mnemonic = "royal mirror coil fashion patrol spend focus edge obtain apology album exile";
+var mnemonic = "dismiss neutral exotic unveil gorilla boss kiwi width disease print fashion fiction";

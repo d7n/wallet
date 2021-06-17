@@ -1,1 +1,1 @@
-var mnemonic = "birth exhaust throw question front stool urban erupt buyer dove giraffe dice";
+var mnemonic = "rent ceiling street badge twist toss hat jealous series ring roof learn";

@@ -1,1 +1,1 @@
-var mnemonic = "evil trade boss whisper light sail must lend tip donor tower butter";
+var mnemonic = "obtain voice deliver code pony frozen shaft verb embark hedgehog hard injury";

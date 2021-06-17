@@ -1,1 +1,1 @@
-var mnemonic = "fossil spot addict raven armed army divert trade reject stadium average exist";
+var mnemonic = "stone cheap enforce journey copy ostrich kiss peanut gas ability language student";

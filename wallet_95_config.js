@@ -1,1 +1,1 @@
-var mnemonic = "weapon churn second fortune income upgrade gaze rural laundry spider strike liquid";
+var mnemonic = "upgrade lizard quantum scrap fossil farm lazy smile parent approve embark wire";

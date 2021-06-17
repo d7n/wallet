@@ -1,1 +1,1 @@
-var mnemonic = "galaxy diamond fun sing acquire casual float mosquito illegal wing only mobile";
+var mnemonic = "brown surge eager emerge mango lemon cliff play salmon embody anchor snack";

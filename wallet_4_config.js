@@ -1,1 +1,1 @@
-var mnemonic = "ugly metal oven arrive episode nature theory scrap same canoe peasant prepare";
+var mnemonic = "bag glass run claim noodle one suggest lend aunt athlete just gather";

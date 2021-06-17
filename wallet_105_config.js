@@ -1,1 +1,1 @@
-var mnemonic = "soup recycle away approve reject pool general use party squirrel april side";
+var mnemonic = "coral chimney display right glide uncle sand avocado machine simple equip crowd";

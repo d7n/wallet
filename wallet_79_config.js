@@ -1,1 +1,1 @@
-var mnemonic = "motion special copper gravity final embrace library argue undo impact lizard submit";
+var mnemonic = "energy bench indicate say ramp screen stay push toddler caught legal void";

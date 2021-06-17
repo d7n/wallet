@@ -1,1 +1,1 @@
-var mnemonic = "snack problem balance riot dress interest hill vague suggest duty palm earth";
+var mnemonic = "across cross alcohol expect express success pitch measure notable rebuild bag eyebrow";

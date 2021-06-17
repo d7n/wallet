@@ -1,1 +1,1 @@
-var mnemonic = "verify weapon ride danger effort property manual expand truck coyote fire rebuild";
+var mnemonic = "scatter cement deliver ship jealous girl any make when suffer fluid appear";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard section room orbit seek panther evoke stairs alter great garage order";
+var mnemonic = "sunset cabin spin wall arch educate outdoor panther source input peanut dilemma";

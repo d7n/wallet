@@ -1,1 +1,1 @@
-var mnemonic = "wrestle coast repair anger guilt fault seminar surge document buyer lemon century";
+var mnemonic = "pass dash scheme polar obtain park comfort tomorrow phone goddess recall rule";

@@ -1,1 +1,1 @@
-var mnemonic = "invest patient erase normal rival mixed permit panel mobile foot dinner gym";
+var mnemonic = "kiwi display foster spoon pool buzz legend busy aunt sun else hobby";

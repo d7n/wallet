@@ -1,1 +1,1 @@
-var mnemonic = "enter north barrel road happy crash dial say flame dinner emotion round";
+var mnemonic = "episode album swear innocent wide twenty piano sweet very fantasy quantum into";

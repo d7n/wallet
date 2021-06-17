@@ -1,1 +1,1 @@
-var mnemonic = "jump point slow merry soda damage combine cash hospital message company inhale";
+var mnemonic = "front novel onion romance index liquid exclude sea raccoon cream disagree ethics";

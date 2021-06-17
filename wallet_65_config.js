@@ -1,1 +1,1 @@
-var mnemonic = "bamboo stuff edit casino family endless define doctor object armor ordinary panda";
+var mnemonic = "decide join chaos between circle liberty anchor valley race dwarf benefit mystery";

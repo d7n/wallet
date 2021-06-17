@@ -1,1 +1,1 @@
-var mnemonic = "dawn gown road ensure burger harbor utility turkey spend toss maple copper";
+var mnemonic = "diagram seat spin stem depend modify body abuse popular kite breeze twice";

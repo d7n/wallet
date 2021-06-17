@@ -1,1 +1,1 @@
-var mnemonic = "claw stove film mechanic hub foam seat deposit series either truth february";
+var mnemonic = "bullet blind broccoli fabric install truck sunny win tape anger hip replace";

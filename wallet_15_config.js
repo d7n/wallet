@@ -1,1 +1,1 @@
-var mnemonic = "dream wink inhale cigar prevent immense corn kick hour cat also basket";
+var mnemonic = "midnight hollow exile flat basket shed ice firm lounge upgrade energy divide";

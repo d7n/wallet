@@ -1,1 +1,1 @@
-var mnemonic = "wrist drastic drastic crisp virtual draw genius coin display deer cry essay";
+var mnemonic = "thrive install choice noise violin umbrella exact indicate crush nest bike science";

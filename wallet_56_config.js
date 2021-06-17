@@ -1,1 +1,1 @@
-var mnemonic = "raccoon cinnamon gaze kid say denial real issue remind resource dignity table";
+var mnemonic = "wisdom stuff lab cage drive weird thought tonight lawsuit regret chapter laugh";

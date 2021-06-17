@@ -1,1 +1,1 @@
-var mnemonic = "brown piano trial number ship brief current wire rare cupboard sock dynamic";
+var mnemonic = "control excuse sure shine doctor provide employ bottom oblige width bottom know";

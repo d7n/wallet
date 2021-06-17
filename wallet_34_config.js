@@ -1,1 +1,1 @@
-var mnemonic = "rigid pistol virus eight earth fiction cement width royal busy tornado arctic";
+var mnemonic = "neck steel slender nothing voice confirm access pole south congress figure zone";

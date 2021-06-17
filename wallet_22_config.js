@@ -1,1 +1,1 @@
-var mnemonic = "couple guess pencil real thing jeans apology attend minute can hair dinosaur";
+var mnemonic = "warm old skate blouse settle unique garlic fence apart fee across forward";

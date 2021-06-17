@@ -1,1 +1,1 @@
-var mnemonic = "actor such submit visa observe fantasy rookie kiss wealth spice wonder unaware";
+var mnemonic = "clay uniform shine tuition myth dizzy inherit knock guard narrow basket ready";

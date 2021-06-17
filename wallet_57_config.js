@@ -1,1 +1,1 @@
-var mnemonic = "river sand warfare desk oven pear soda couch valve dolphin fence exercise";
+var mnemonic = "addict mimic remain online reward clerk element vibrant mobile pyramid warrior wild";

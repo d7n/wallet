@@ -1,1 +1,1 @@
-var mnemonic = "favorite crowd certain benefit nominee song harbor unhappy cage inhale dream addict";
+var mnemonic = "hammer fancy bottom festival torch thought huge wine olive away odor bridge";
