@@ -1,1 +1,1 @@
-var mnemonic = "enhance always meadow grocery table lava grace shoulder thrive inch travel odor";
+var mnemonic = "ancient ahead fish demand plate ahead tube auto nut worry poem talent";

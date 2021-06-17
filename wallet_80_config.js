@@ -1,1 +1,1 @@
-var mnemonic = "fuel catch mix legal cheese boss sausage work venture wool certain distance";
+var mnemonic = "scare spot turtle room chat ridge prize proof token card lens tube";

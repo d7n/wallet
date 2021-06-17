@@ -1,1 +1,1 @@
-var mnemonic = "direct raw pluck session raven glare north design door ocean cave able";
+var mnemonic = "unlock tiny hunt benefit deny leaf coral fury artwork cherry earth garage";

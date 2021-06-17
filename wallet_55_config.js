@@ -1,1 +1,1 @@
-var mnemonic = "fluid exile harsh skill busy frog brand reform gallery nephew message dance";
+var mnemonic = "lemon truck jacket license shoe expand subway over sun daring siren buddy";

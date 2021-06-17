@@ -1,1 +1,1 @@
-var mnemonic = "code oil intact panda veteran farm glide sunny gorilla nephew senior measure";
+var mnemonic = "oppose flat cover hip main vacuum wild desert destroy horse grape despair";

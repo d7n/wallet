@@ -1,1 +1,1 @@
-var mnemonic = "birth usual evolve napkin blush age various mean wide tone witness seek";
+var mnemonic = "absorb clock dial find heavy vibrant crawl now small repair balance reward";

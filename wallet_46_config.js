@@ -1,1 +1,1 @@
-var mnemonic = "marriage frost churn sad check nephew nerve person want fatigue century gospel";
+var mnemonic = "neglect gain pact various club empower police address coffee verify dice valley";

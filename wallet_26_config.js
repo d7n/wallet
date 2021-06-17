@@ -1,1 +1,1 @@
-var mnemonic = "accident busy abstract alter limit hybrid spirit loop laundry dice roast mix";
+var mnemonic = "bonus bargain curve ski test cruel grant arrest wood valve ostrich cheese";

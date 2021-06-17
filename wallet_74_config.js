@@ -1,1 +1,1 @@
-var mnemonic = "common guide pig afraid train punch pave glow cake firm filter vibrant";
+var mnemonic = "smart wait awesome approve hero exhibit cause drama paddle abuse alarm outside";

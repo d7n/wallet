@@ -1,1 +1,1 @@
-var mnemonic = "borrow jeans inquiry box ethics memory keen acid just filter siren arrive";
+var mnemonic = "under case regret rubber slush dolphin cargo pepper viable want dad recall";

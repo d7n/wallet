@@ -1,1 +1,1 @@
-var mnemonic = "meadow luggage wheel card elder fog hundred nasty lonely snow forward play";
+var mnemonic = "matter expose dignity attend wrap consider early peasant office hold abstract estate";

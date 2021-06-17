@@ -1,1 +1,1 @@
-var mnemonic = "thumb extra mention trade husband eyebrow salon idea siren twelve token hospital";
+var mnemonic = "move city twice slow toward devote weather warfare clean magic cruise bench";

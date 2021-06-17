@@ -1,1 +1,1 @@
-var mnemonic = "mushroom final cradle kitten save century access oven flight flock glow tail";
+var mnemonic = "predict capable raw jealous juice spot summer tower glance rookie advance sustain";

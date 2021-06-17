@@ -1,1 +1,1 @@
-var mnemonic = "sauce exist universe muscle rapid payment expire honey economy inject napkin task";
+var mnemonic = "spend profit economy hurdle aunt also lazy boy area warm hat desert";

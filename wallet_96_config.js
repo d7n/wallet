@@ -1,1 +1,1 @@
-var mnemonic = "act water such episode plastic spend bless fun abstract can element category";
+var mnemonic = "country pill health spend little reject excuse census turtle butter innocent diet";

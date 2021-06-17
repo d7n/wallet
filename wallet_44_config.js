@@ -1,1 +1,1 @@
-var mnemonic = "express reunion kick long crouch film absurd vivid access educate shine analyst";
+var mnemonic = "neglect error dune turkey forum muffin service derive furnace quote monster deer";

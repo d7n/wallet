@@ -1,1 +1,1 @@
-var mnemonic = "clump change mosquito chef occur shift upset ball local conduct minimum acquire";
+var mnemonic = "business surround nice weird lumber fruit boil plate two reward trust system";

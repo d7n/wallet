@@ -1,1 +1,1 @@
-var mnemonic = "secret attack youth ocean month permit barrel power drip orphan camp twin";
+var mnemonic = "blame vague repeat soon vault near flower fire saddle dial joke burger";

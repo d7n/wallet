@@ -1,1 +1,1 @@
-var mnemonic = "erode multiply duty stock rival paper inherit spell better cool estate display";
+var mnemonic = "idea bring card leave right banana come produce asthma sweet used february";

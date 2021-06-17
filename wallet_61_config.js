@@ -1,1 +1,1 @@
-var mnemonic = "caution project animal humble churn zone tribe oven file tortoise release surprise";
+var mnemonic = "lava glory palace moon health social whip often mammal kingdom gun shield";

@@ -1,1 +1,1 @@
-var mnemonic = "come fancy paper title various reunion trip couple fancy arrow option oyster";
+var mnemonic = "spray office devote buffalo fancy sad juice source purchase inquiry large latin";

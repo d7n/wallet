@@ -1,1 +1,1 @@
-var mnemonic = "option convince curious actress vacuum cat acoustic sugar vague note rely crack";
+var mnemonic = "fall secret slab lion grocery fault source tone fetch render ramp vicious";

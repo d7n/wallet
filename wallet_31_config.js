@@ -1,1 +1,1 @@
-var mnemonic = "enforce question witness purpose gauge smart exhaust goat sweet public frequent bracket";
+var mnemonic = "feature country inject quick noble fit orbit lady all accident float armor";

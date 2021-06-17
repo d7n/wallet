@@ -1,1 +1,1 @@
-var mnemonic = "loan blame shed pair egg sure style scorpion access aisle reunion purse";
+var mnemonic = "loan hold neutral fog ranch wheat leisure family anchor figure double scene";

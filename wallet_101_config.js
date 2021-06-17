@@ -1,1 +1,1 @@
-var mnemonic = "hole zero inner iron crime humor squeeze write outer reward husband pet";
+var mnemonic = "crack pass solve coral nominee exact nation hurdle knock flight range fly";

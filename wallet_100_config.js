@@ -1,1 +1,1 @@
-var mnemonic = "plug tourist play midnight cram fix chalk urban ritual cliff flower tilt";
+var mnemonic = "priority puzzle zoo phrase lawsuit earn angry exchange large stand again student";

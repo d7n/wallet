@@ -1,1 +1,1 @@
-var mnemonic = "weather chaos enter alert service nut argue danger catalog impact broken shrug";
+var mnemonic = "shallow giraffe tissue elephant crumble design pulp license spread blame crew bring";

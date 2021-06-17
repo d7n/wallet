@@ -1,1 +1,1 @@
-var mnemonic = "stand robust either voice mercy betray auto guard armor hover neglect viable";
+var mnemonic = "peanut long fine huge misery topple easily exercise gold twice knee wonder";

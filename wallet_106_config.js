@@ -1,1 +1,1 @@
-var mnemonic = "display hub property scissors ribbon ocean near steak length oval found win";
+var mnemonic = "upper double level surprise obvious prosper veteran cancel silk allow royal plug";

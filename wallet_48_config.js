@@ -1,1 +1,1 @@
-var mnemonic = "uniform gentle equal detail senior shrug direct foot aware chuckle hello start";
+var mnemonic = "shell buffalo daring cover correct breeze pizza clinic sustain calm please weasel";

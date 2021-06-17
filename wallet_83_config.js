@@ -1,1 +1,1 @@
-var mnemonic = "simple time blast pull minimum galaxy frequent empower bench recall other infant";
+var mnemonic = "emotion web improve mix hold pear best sure rule style pupil fossil";

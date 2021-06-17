@@ -1,1 +1,1 @@
-var mnemonic = "wrap music magic donate half remember process antenna pool abstract prize achieve";
+var mnemonic = "friend echo betray peasant trophy join flight saddle fluid lion fade spatial";

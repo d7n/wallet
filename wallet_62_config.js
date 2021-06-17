@@ -1,1 +1,1 @@
-var mnemonic = "duck legal six venue boat silly ice daring acoustic topple reject pattern";
+var mnemonic = "paddle position cool rookie engage express walk walk example advice bag claw";

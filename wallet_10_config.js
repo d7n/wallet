@@ -1,1 +1,1 @@
-var mnemonic = "torch engine salt maid art absent moon dream cargo fit cricket grant";
+var mnemonic = "imitate idle sell traffic planet arrive topple talk drive evolve arrive want";

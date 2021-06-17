@@ -1,1 +1,1 @@
-var mnemonic = "timber dilemma oxygen catalog shove disagree clinic swift pony need fault service";
+var mnemonic = "cupboard blouse phone pupil delay rival moment scatter manual club stairs style";

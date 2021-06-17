@@ -1,1 +1,1 @@
-var mnemonic = "water motor lecture fitness tower six connect ramp spatial remove twenty portion";
+var mnemonic = "sunny nature degree link odor recycle mammal observe assume check output repeat";

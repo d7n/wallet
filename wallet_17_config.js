@@ -1,1 +1,1 @@
-var mnemonic = "dry coast ask brain among punch tomato web pill tuna jar trick";
+var mnemonic = "train brick loyal burger zebra cigar utility weasel critic flavor couple second";

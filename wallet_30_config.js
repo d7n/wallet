@@ -1,1 +1,1 @@
-var mnemonic = "private immense alarm air boil predict age success result service cheese aunt";
+var mnemonic = "anchor north cost quantum zone cheese public night hedgehog split onion sort";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity fold chase note myself weasel you render purse pulse endorse squirrel";
+var mnemonic = "replace give erupt avocado priority ball lucky canyon grab join gown chase";

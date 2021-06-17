@@ -1,1 +1,1 @@
-var mnemonic = "acoustic ability tent wish window want mad curtain family family crumble outside";
+var mnemonic = "victory able gate script jazz current stomach sketch grab cook drip tornado";

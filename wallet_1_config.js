@@ -1,1 +1,1 @@
-var mnemonic = "over weapon seed way night wrong poverty advance sick what sheriff arrow";
+var mnemonic = "million trim supreme crime donate space tape divorce erase promote sort inhale";

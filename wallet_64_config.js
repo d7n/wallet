@@ -1,1 +1,1 @@
-var mnemonic = "camera finger scrub earn caught guitar salmon slim sorry final thank monkey";
+var mnemonic = "tool garden cheap asthma oval hedgehog saddle thank limit lemon horror afford";

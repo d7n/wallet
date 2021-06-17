@@ -1,1 +1,1 @@
-var mnemonic = "tube sheriff unusual zero congress gentle cable jar glow issue that asthma";
+var mnemonic = "correct hip apology random regret hand odor toy logic license air opinion";

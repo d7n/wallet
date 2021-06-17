@@ -1,1 +1,1 @@
-var mnemonic = "essence wide crew tunnel holiday together relief law panic diagram mesh birth";
+var mnemonic = "push plug village helmet curious lift bronze razor air rigid orchard neck";

@@ -1,1 +1,1 @@
-var mnemonic = "manual primary lyrics pencil sad suit spike tooth ten trial permit marine";
+var mnemonic = "describe cake sudden can enjoy eagle aunt vivid dirt risk shuffle dutch";

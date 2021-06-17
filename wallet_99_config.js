@@ -1,1 +1,1 @@
-var mnemonic = "couple render iron lunar worry uphold piece bridge venture north broken ability";
+var mnemonic = "invest tunnel raise priority top oppose phrase electric space scan they plate";

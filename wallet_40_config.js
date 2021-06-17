@@ -1,1 +1,1 @@
-var mnemonic = "napkin fetch twenty gown exercise used drill menu conduct strategy coral later";
+var mnemonic = "thrive civil aerobic school burst blame sort front cigar output trade abstract";

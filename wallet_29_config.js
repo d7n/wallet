@@ -1,1 +1,1 @@
-var mnemonic = "impulse phrase tragic affair notable swift famous similar mom jungle ski dog";
+var mnemonic = "aware suggest era render answer purchase nothing ring rebuild page wood rescue";

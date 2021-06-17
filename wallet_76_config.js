@@ -1,1 +1,1 @@
-var mnemonic = "onion any humor citizen rich mirror vacuum diesel awkward park salmon couple";
+var mnemonic = "senior sun shallow pave weekend pluck grunt potato route lecture clown magic";

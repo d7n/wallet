@@ -1,1 +1,1 @@
-var mnemonic = "message supply sudden harsh tree glimpse speed phone slim dog apart potato";
+var mnemonic = "fitness tonight trash vibrant tomorrow hospital humor gravity diagram enrich install fame";

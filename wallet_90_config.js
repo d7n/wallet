@@ -1,1 +1,1 @@
-var mnemonic = "blossom grant trust satoshi hour recall feature palace drill ozone protect once";
+var mnemonic = "scatter off garden describe prison sister laundry sense limit easy abstract identify";

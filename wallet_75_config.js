@@ -1,1 +1,1 @@
-var mnemonic = "erase catalog point plastic weasel volume gym lottery between above they wire";
+var mnemonic = "know blouse thunder coffee asset similar same panel sound diary boil put";

@@ -1,1 +1,1 @@
-var mnemonic = "dry universe inhale define more face away silver sad spoil current veteran";
+var mnemonic = "cute profit pond boat chicken maid wrist width proud slide asset tiger";

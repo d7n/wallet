@@ -1,1 +1,1 @@
-var mnemonic = "pool price unveil matrix safe remind enlist right demise easy army insane";
+var mnemonic = "wrap distance crazy orphan mango country satoshi reduce wrist magic cliff side";

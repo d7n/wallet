@@ -1,1 +1,1 @@
-var mnemonic = "vacuum ball wreck meat resource horror soccer adjust water worry thing actual";
+var mnemonic = "sail game other long sniff effort taste ranch yard couple salad suffer";

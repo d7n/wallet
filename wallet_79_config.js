@@ -1,1 +1,1 @@
-var mnemonic = "solve chalk noise fury flame gossip verb trumpet limb judge erase session";
+var mnemonic = "strategy rabbit cover clip hood moon depend today skin roast thrive high";

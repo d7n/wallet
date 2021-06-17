@@ -1,1 +1,1 @@
-var mnemonic = "nest odor priority globe drift scorpion creek lion olive collect slight clutch";
+var mnemonic = "glance shed code require border three negative habit become segment stick bleak";

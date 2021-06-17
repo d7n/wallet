@@ -1,1 +1,1 @@
-var mnemonic = "hurt noodle arrange idea camp peace antique badge hammer measure method original";
+var mnemonic = "horse decline rotate maximum harsh axis tunnel donkey language matrix august cruise";

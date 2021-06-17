@@ -1,1 +1,1 @@
-var mnemonic = "abuse basket derive stock metal relax retreat message pride movie squeeze blame";
+var mnemonic = "impulse doll biology hood step coast mandate settle key quantum dad sing";

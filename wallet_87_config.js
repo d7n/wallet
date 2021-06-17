@@ -1,1 +1,1 @@
-var mnemonic = "diesel hire regret tiny huge dream cargo umbrella riot argue wood sick";
+var mnemonic = "orange together high there truth parent alien pyramid divide cost debris salute";

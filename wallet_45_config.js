@@ -1,1 +1,1 @@
-var mnemonic = "soda ecology submit crumble ribbon logic angle jungle main omit buddy acid";
+var mnemonic = "engage calm now laptop sight wave lobster affair bring output matrix hospital";

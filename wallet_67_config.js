@@ -1,1 +1,1 @@
-var mnemonic = "patient dad injury parade buffalo because rude project lady surface attack before";
+var mnemonic = "motor accuse drive spot together horse allow budget draft charge job unaware";

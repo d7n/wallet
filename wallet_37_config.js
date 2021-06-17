@@ -1,1 +1,1 @@
-var mnemonic = "juice brisk say exact blouse phone burden say taste height place slender";
+var mnemonic = "sphere thunder amazing problem skirt much walnut scout repair mountain amused cinnamon";

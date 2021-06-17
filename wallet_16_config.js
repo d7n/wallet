@@ -1,1 +1,1 @@
-var mnemonic = "alone echo fame rare hello ready adjust waste prepare unlock mom address";
+var mnemonic = "chapter blossom actual silent october satisfy return village transfer vacuum member grace";

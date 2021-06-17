@@ -1,1 +1,1 @@
-var mnemonic = "wisdom decide art vessel hover rabbit cake olympic army jump chalk team";
+var mnemonic = "leg seek goat display winter cradle repair young person divert jacket april";

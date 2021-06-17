@@ -1,1 +1,1 @@
-var mnemonic = "turn network calm inspire auction fine thought jacket legal latin exile rookie";
+var mnemonic = "upgrade absurd used apology liberty clean vapor buzz powder remember glue ten";

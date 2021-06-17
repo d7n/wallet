@@ -1,1 +1,1 @@
-var mnemonic = "expose sun impose drink produce control credit piano snack still stamp deer";
+var mnemonic = "lock asthma affair ship agent auto cousin rhythm scan library danger parent";

@@ -1,1 +1,1 @@
-var mnemonic = "museum metal easy shield guide wife tent already quick list true ignore";
+var mnemonic = "crane describe initial feed pizza member merge hip snap situate ghost dream";

@@ -1,1 +1,1 @@
-var mnemonic = "bone lottery negative exchange trip recipe lounge pistol mouse again write opinion";
+var mnemonic = "punch settle pudding absent motion novel climb oil alarm trade region egg";

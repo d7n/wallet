@@ -1,1 +1,1 @@
-var mnemonic = "estate alarm degree piano garage fire diet path flush night biology frozen";
+var mnemonic = "dune approve balcony hollow merge master tree trap track bundle audit lunch";

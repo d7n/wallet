@@ -1,1 +1,1 @@
-var mnemonic = "sadness critic ugly tragic burst access lesson horn lamp jar muffin good";
+var mnemonic = "purse human alter melody clump hair pitch program lizard attitude region invite";

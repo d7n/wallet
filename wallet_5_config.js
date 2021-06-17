@@ -1,1 +1,1 @@
-var mnemonic = "share hockey crime jewel runway artefact boring casual federal practice cinnamon service";
+var mnemonic = "deposit table stereo bridge return execute pyramid engage very enact robot alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "festival nuclear clock clown foil tone ghost purse skate notice country process";
+var mnemonic = "announce wash oven comic wing vanish weasel virtual yellow source hope outer";

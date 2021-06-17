@@ -1,1 +1,1 @@
-var mnemonic = "good tackle sniff transfer address random scrub child when equal helmet cherry";
+var mnemonic = "piano skirt age artefact upgrade vast leader depart lamp require finger please";

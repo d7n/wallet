@@ -1,1 +1,1 @@
-var mnemonic = "siren cruise west rent together uniform cool valve despair game kitten select";
+var mnemonic = "file elegant vital extra romance coin yard card pulp guilt dash radar";

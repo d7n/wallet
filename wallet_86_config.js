@@ -1,1 +1,1 @@
-var mnemonic = "bird toast pipe uncover delay pepper prison deposit daughter vehicle talk trim";
+var mnemonic = "profit craft equip reform actor marine focus eager limb faint grocery dust";

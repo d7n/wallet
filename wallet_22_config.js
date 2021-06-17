@@ -1,1 +1,1 @@
-var mnemonic = "yard roof carpet limit tell sweet wheat submit obscure pole dutch system";
+var mnemonic = "warfare face pause evolve found shoulder tail card sustain emotion trophy scrub";

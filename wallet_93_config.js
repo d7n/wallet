@@ -1,1 +1,1 @@
-var mnemonic = "wing canvas rose differ man wild pistol degree begin cat domain curtain";
+var mnemonic = "similar remain salute embrace gauge comic nephew undo gift cattle sweet patient";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse bundle world float dutch soda junk smoke leader cheap seven raise";
+var mnemonic = "rule tail quality where nurse slight canal want skull project filter one";

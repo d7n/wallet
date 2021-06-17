@@ -1,1 +1,1 @@
-var mnemonic = "hair employ relax walk accident empower path six badge degree copper gain";
+var mnemonic = "state knee canyon upon west lottery alien link enemy ordinary antique earn";

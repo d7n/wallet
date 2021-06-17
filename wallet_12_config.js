@@ -1,1 +1,1 @@
-var mnemonic = "apology frown truly sustain topic shy aim there split crisp flush cement";
+var mnemonic = "next fuel erosion armed thought cross throw steak fire issue rain tiny";

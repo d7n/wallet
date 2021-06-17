@@ -1,1 +1,1 @@
-var mnemonic = "permit peace wagon tired coast ahead subway sail suit weasel fit cook";
+var mnemonic = "turtle memory east total behind endless bless burst awake copy monster neck";

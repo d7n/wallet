@@ -1,1 +1,1 @@
-var mnemonic = "clever matter mind satoshi lumber pottery good drop dizzy reward disagree truth";
+var mnemonic = "grab favorite raccoon govern fitness post letter glove clown blood angle calm";

@@ -1,1 +1,1 @@
-var mnemonic = "install vacuum era detect entire margin web shed tumble ladder gun trial";
+var mnemonic = "neither vanish peanut kitchen ketchup blush odor staff festival welcome silver casual";

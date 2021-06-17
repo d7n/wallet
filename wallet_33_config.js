@@ -1,1 +1,1 @@
-var mnemonic = "juice refuse blouse struggle sniff milk define any split drill snow tool";
+var mnemonic = "found essence proof fade escape boy wagon company autumn argue horn fluid";

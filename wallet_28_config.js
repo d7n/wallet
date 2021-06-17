@@ -1,1 +1,1 @@
-var mnemonic = "consider trash immense medal dress evil again try era crisp diary noble";
+var mnemonic = "give unit leaf blame shy bulk episode clerk wild rice butter consider";

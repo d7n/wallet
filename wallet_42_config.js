@@ -1,1 +1,1 @@
-var mnemonic = "success ice edge emerge jar shuffle task group act citizen choice song";
+var mnemonic = "surprise machine rural scan just job uncover capable prosper slam cycle lizard";
