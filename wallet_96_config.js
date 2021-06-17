@@ -1,1 +1,1 @@
-var mnemonic = "ability skin crystal rapid already effort swim twenty pizza deal burger praise";
+var mnemonic = "enrich vacant bulb salute only cube buzz bike base together pumpkin wealth";

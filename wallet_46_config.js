@@ -1,1 +1,1 @@
-var mnemonic = "street flock extend opera frozen that science dismiss fix measure depth base";
+var mnemonic = "weasel public special truly fee monitor bird finish copper all vapor blouse";

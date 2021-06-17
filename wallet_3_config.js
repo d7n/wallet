@@ -1,1 +1,1 @@
-var mnemonic = "alley output heart chronic other property correct immune print you call gas";
+var mnemonic = "surge balance thunder safe race stick frozen leopard can fancy unlock merit";

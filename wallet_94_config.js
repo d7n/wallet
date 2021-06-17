@@ -1,1 +1,1 @@
-var mnemonic = "logic siege mixed resemble husband autumn penalty reward virus erupt baby salmon";
+var mnemonic = "betray fabric monster position cover moment water fatal toddler lake eagle furnace";

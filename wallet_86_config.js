@@ -1,1 +1,1 @@
-var mnemonic = "disorder rice order foot crane attend anchor oxygen december viable similar make";
+var mnemonic = "project attack north inflict chef viable unfold recipe sail cable hotel guess";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny bacon illness equal write push oval bind logic jeans rubber doll";
+var mnemonic = "history whip junk will few poet tail scissors travel grant survey rabbit";

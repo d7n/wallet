@@ -1,1 +1,1 @@
-var mnemonic = "payment pigeon pulp wish excite master castle stadium salute blush certain salon";
+var mnemonic = "stamp illegal busy expose ahead account evoke dolphin stock polar drill minor";

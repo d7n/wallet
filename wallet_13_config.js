@@ -1,1 +1,1 @@
-var mnemonic = "huge depart range august carry portion reunion love heart blush boost swallow";
+var mnemonic = "celery benefit pumpkin garlic jelly husband rack sort ozone cattle fee cart";

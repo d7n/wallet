@@ -1,1 +1,1 @@
-var mnemonic = "canyon puppy problem roof noise circle boat settle solid shell harbor frost";
+var mnemonic = "session defy stomach item ecology shrug arctic license canoe post comfort ranch";

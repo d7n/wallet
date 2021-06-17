@@ -1,1 +1,1 @@
-var mnemonic = "oval indicate fancy avoid just voyage snake giraffe small average dog silent";
+var mnemonic = "sport decline boost aunt diamond tomorrow arctic any busy rookie spoil chief";

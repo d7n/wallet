@@ -1,1 +1,1 @@
-var mnemonic = "pitch antenna adapt use regular own hobby gauge wheat fee inquiry animal";
+var mnemonic = "badge bid toddler mesh travel pear blossom pool cloud lab quote comic";

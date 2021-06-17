@@ -1,1 +1,1 @@
-var mnemonic = "scorpion pride artefact couple switch ghost assault mesh fly economy grief adjust";
+var mnemonic = "stand detect primary moon cry emerge hurry cook awesome prevent gravity sign";

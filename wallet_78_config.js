@@ -1,1 +1,1 @@
-var mnemonic = "tired throw sting govern glass body target hurt inner wink rain history";
+var mnemonic = "unveil step spread bench path enroll beyond clerk hold aisle fashion term";

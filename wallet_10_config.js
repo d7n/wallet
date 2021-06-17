@@ -1,1 +1,1 @@
-var mnemonic = "artist shrimp still culture clever road evoke fragile two produce dinosaur fade";
+var mnemonic = "review outer rigid where year moral tragic stool door solid loyal sure";

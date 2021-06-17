@@ -1,1 +1,1 @@
-var mnemonic = "misery path very leg know also moon usage can news enroll disorder";
+var mnemonic = "sort circle eternal chef want mouse tribe column vacant pumpkin cradle arrange";

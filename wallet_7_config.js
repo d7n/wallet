@@ -1,1 +1,1 @@
-var mnemonic = "rebel merit fork gasp paper smart hello situate silver nephew term dial";
+var mnemonic = "myth sunny zone receive scrap mercy solve wolf divide script vessel pitch";

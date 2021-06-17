@@ -1,1 +1,1 @@
-var mnemonic = "motor wage gravity ginger core meadow hard fit laugh swarm cabbage scheme";
+var mnemonic = "good open core turtle reform dance disorder chat memory slender course general";

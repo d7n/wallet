@@ -1,1 +1,1 @@
-var mnemonic = "dinner blade play giraffe target kind damage expire turn boat spring strike";
+var mnemonic = "ill snap own subject umbrella manual have wife inhale ship swap major";

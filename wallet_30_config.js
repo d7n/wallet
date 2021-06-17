@@ -1,1 +1,1 @@
-var mnemonic = "grief ecology rotate disagree crumble merge member exhibit dinosaur victory camera involve";
+var mnemonic = "worth find century shrug dash enemy pony dose search fox punch task";

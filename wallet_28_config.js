@@ -1,1 +1,1 @@
-var mnemonic = "obey topic curtain clump acoustic total enhance skirt round hub soon distance";
+var mnemonic = "warfare protect gate put fury top interest sketch able escape interest lounge";

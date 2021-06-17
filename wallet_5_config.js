@@ -1,1 +1,1 @@
-var mnemonic = "empty grocery reduce differ magnet distance tip shop vapor certain sleep excuse";
+var mnemonic = "leopard swing enhance oil choose heart cloth immune immune dance else metal";

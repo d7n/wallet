@@ -1,1 +1,1 @@
-var mnemonic = "patrol bounce rude govern soon country lucky inspire multiply shield era chapter";
+var mnemonic = "exercise festival student cruel club always pepper velvet acquire van negative dolphin";

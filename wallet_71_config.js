@@ -1,1 +1,1 @@
-var mnemonic = "tool medal slush raven situate trick chunk language spare fabric absurd bright";
+var mnemonic = "desk lottery buddy wealth festival muffin ill pretty foster awful cereal pond";

@@ -1,1 +1,1 @@
-var mnemonic = "brick like offer faith axis find sing desk fly produce mesh ugly";
+var mnemonic = "chunk portion amazing fade service canyon custom mango regret gesture ugly weather";

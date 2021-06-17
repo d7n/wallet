@@ -1,1 +1,1 @@
-var mnemonic = "tank hollow symbol since magic plunge miss vital dial digital erode capable";
+var mnemonic = "fade rather hurdle cabbage ski giggle urban behind mother enrich extend mind";

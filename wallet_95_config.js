@@ -1,1 +1,1 @@
-var mnemonic = "indoor artist cart prepare prize mango gauge music parade one evoke tomato";
+var mnemonic = "hockey tackle grief force trash bleak rough august extra skirt month dirt";

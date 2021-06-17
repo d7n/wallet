@@ -1,1 +1,1 @@
-var mnemonic = "elbow margin essay mushroom they area coach leisure merry shoe april torch";
+var mnemonic = "hurt file call jaguar pass guide glimpse fantasy copper fee satoshi hip";

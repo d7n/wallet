@@ -1,1 +1,1 @@
-var mnemonic = "lend tone goddess shift write beach reward grief twin story swift egg";
+var mnemonic = "kingdom day athlete oxygen rival tag net unveil iron wear lesson ensure";

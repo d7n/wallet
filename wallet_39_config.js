@@ -1,1 +1,1 @@
-var mnemonic = "diesel fetch shaft trip truly snake crawl certain capable sadness plug vessel";
+var mnemonic = "pond lock stage analyst check attack use pear occur tattoo art april";

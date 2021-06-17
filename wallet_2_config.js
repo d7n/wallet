@@ -1,1 +1,1 @@
-var mnemonic = "actor focus bachelor essence defense kingdom series chronic nature jazz urge zebra";
+var mnemonic = "book spatial party belt income engage awake portion transfer stick gallery curtain";

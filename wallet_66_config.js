@@ -1,1 +1,1 @@
-var mnemonic = "tired ring bulk velvet behind glare deal proof parent devote favorite wreck";
+var mnemonic = "power win front become sure thumb lucky undo gauge echo biology mosquito";

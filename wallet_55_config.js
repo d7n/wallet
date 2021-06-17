@@ -1,1 +1,1 @@
-var mnemonic = "drive hard endless proud clog bonus scale suit museum category galaxy innocent";
+var mnemonic = "claw bone bullet wedding fiction forward clutch isolate wedding two add depart";

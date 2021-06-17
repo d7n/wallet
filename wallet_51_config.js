@@ -1,1 +1,1 @@
-var mnemonic = "draw lizard album rough vocal about celery satisfy purchase rule glide regular";
+var mnemonic = "visa treat limb game suffer shift flame birth cinnamon glory day okay";

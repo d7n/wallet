@@ -1,1 +1,1 @@
-var mnemonic = "air once practice choose crew wall spider mirror problem hawk leopard scan";
+var mnemonic = "ritual police chest floor camera close thunder garage clay dynamic raise attend";

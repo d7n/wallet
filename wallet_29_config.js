@@ -1,1 +1,1 @@
-var mnemonic = "execute slide acquire pretty immune skull tomato solar transfer case float all";
+var mnemonic = "author master vendor like can beauty give plastic upset receive velvet edit";

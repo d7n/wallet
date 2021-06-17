@@ -1,1 +1,1 @@
-var mnemonic = "physical month faculty frost accident aisle hover dose output swallow absorb property";
+var mnemonic = "narrow biology rabbit actress squeeze alert illness clown whip present picture fan";

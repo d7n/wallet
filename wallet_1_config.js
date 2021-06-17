@@ -1,1 +1,1 @@
-var mnemonic = "humble legal spin model carpet absent soap simple debris fancy plunge hobby";
+var mnemonic = "food math merry rain thrive foam entry humor creek sell upgrade evoke";

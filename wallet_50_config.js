@@ -1,1 +1,1 @@
-var mnemonic = "eternal busy south trash fog stem slush grab decide age usage advance";
+var mnemonic = "reduce seven happy rebel frozen circle master unfair deposit damp risk pioneer";

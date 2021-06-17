@@ -1,1 +1,1 @@
-var mnemonic = "pigeon damp vast street call novel venture maze funny pledge sport rather";
+var mnemonic = "ability cliff student fabric victory lion van struggle holiday place sight egg";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious cigar roast cycle scissors salt buzz core fashion kiss long problem";
+var mnemonic = "bring believe sunset humble wild ancient suspect search fury sleep smile task";

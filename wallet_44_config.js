@@ -1,1 +1,1 @@
-var mnemonic = "rent dismiss energy trial will miracle hammer sweet song excuse axis tray";
+var mnemonic = "ship kangaroo knee notice rent silly lion forward way settle loud fix";

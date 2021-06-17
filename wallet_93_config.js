@@ -1,1 +1,1 @@
-var mnemonic = "equip book decide problem odor orbit middle shift naive sail chaos rent";
+var mnemonic = "crucial crawl tackle unaware scissors seek enforce faculty boy yellow live piece";

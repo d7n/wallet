@@ -1,1 +1,1 @@
-var mnemonic = "feature acid shoe jeans donate test nerve cabbage bundle wheat dentist trash";
+var mnemonic = "brief work scan inherit tornado sheriff inhale shed exact circle town advice";

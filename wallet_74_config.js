@@ -1,1 +1,1 @@
-var mnemonic = "turtle mosquito young penalty where parent frown income casual become harvest knock";
+var mnemonic = "device heavy message fragile keep camera chief donkey rent target purse vote";

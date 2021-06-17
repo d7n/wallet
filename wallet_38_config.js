@@ -1,1 +1,1 @@
-var mnemonic = "horn either they require suggest water salad depart swift garlic vibrant open";
+var mnemonic = "basket around quarter alley ticket draw raise decrease glide tuna three spirit";

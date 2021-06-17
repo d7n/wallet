@@ -1,1 +1,1 @@
-var mnemonic = "smile sword gallery vault spread unveil pill purity enough ladder idle secret";
+var mnemonic = "hunt wasp swing aware shed cup silent photo material biology hedgehog daring";

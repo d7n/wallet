@@ -1,1 +1,1 @@
-var mnemonic = "merge vast plastic input box embrace shrimp monster scheme confirm tape phone";
+var mnemonic = "coral mercy used close dog record gas prefer already hurt assault cargo";

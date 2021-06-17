@@ -1,1 +1,1 @@
-var mnemonic = "leave spread lunch agree tragic slide salon column screen cancel sorry foam";
+var mnemonic = "shed endorse taxi amount range rare claw initial twelve exercise target umbrella";

@@ -1,1 +1,1 @@
-var mnemonic = "memory immense sand priority present media verify city lonely december melt guess";
+var mnemonic = "speak cradle slogan coach board expand nothing victory final upgrade walnut echo";

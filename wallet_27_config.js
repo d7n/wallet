@@ -1,1 +1,1 @@
-var mnemonic = "smoke raise crystal jelly repeat refuse tilt outdoor foot disorder asset ten";
+var mnemonic = "mention unable warrior execute hope camera hurt bullet ethics future bacon caught";

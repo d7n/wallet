@@ -1,1 +1,1 @@
-var mnemonic = "price devote analyst put reunion concert tiny family valve bundle poem cigar";
+var mnemonic = "clip degree cloth guilt eager castle tank flash daring mutual elegant tobacco";

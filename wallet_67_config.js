@@ -1,1 +1,1 @@
-var mnemonic = "fruit sudden asthma voyage estate special entry team moral cliff leader photo";
+var mnemonic = "brush rubber hand private paper control mistake ginger release latin chest garage";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate gold pluck sibling rookie region hire loop metal object tell april";
+var mnemonic = "olive yard expand badge stand sniff surface consider enlist omit citizen force";

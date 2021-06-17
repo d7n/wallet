@@ -1,1 +1,1 @@
-var mnemonic = "issue share chef elephant rail hedgehog speak funny mechanic twice bullet arctic";
+var mnemonic = "jar same scare tilt exercise salmon uphold fly away boy clay drive";

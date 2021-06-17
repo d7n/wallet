@@ -1,1 +1,1 @@
-var mnemonic = "glow vacant hidden soda grass switch smile network weather apple ahead clay";
+var mnemonic = "puppy endorse tumble tone ahead disorder poem six exchange quit farm test";

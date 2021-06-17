@@ -1,1 +1,1 @@
-var mnemonic = "stem amused charge thought rebel advice egg tenant future resemble long basket";
+var mnemonic = "drive enrich jacket sadness spell scan junior bird narrow bamboo glue victory";

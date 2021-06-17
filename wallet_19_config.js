@@ -1,1 +1,1 @@
-var mnemonic = "spread honey replace zone engine absorb purse ramp lunar angle ignore unlock";
+var mnemonic = "maze seat spoil employ diesel ozone satisfy echo can thumb region jar";

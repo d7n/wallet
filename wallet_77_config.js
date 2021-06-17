@@ -1,1 +1,1 @@
-var mnemonic = "episode wheel where solar vote area display whisper powder prefer beef ball";
+var mnemonic = "length carpet zero toilet utility avocado sleep arrive grief suggest another chuckle";

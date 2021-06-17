@@ -1,1 +1,1 @@
-var mnemonic = "pulp lift ask brisk tumble since hurdle equip rescue middle clock ketchup";
+var mnemonic = "able velvet salmon salon pattern kind surface dutch forget relief record artist";

@@ -1,1 +1,1 @@
-var mnemonic = "govern only route bird mountain area lava tent hazard task window prevent";
+var mnemonic = "muscle more voice sleep false remember scan indicate breeze olive initial wood";

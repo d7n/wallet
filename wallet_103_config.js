@@ -1,1 +1,1 @@
-var mnemonic = "original cattle detect tell give rib point fold please basic garbage multiply";
+var mnemonic = "nephew gain theory merge chaos donate cargo attack save man plate volcano";

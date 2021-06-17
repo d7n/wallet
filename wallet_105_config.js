@@ -1,1 +1,1 @@
-var mnemonic = "reveal piece sponsor unfold borrow armed dust quit road theory decide grape";
+var mnemonic = "claim world switch school daring thing much liquid derive broccoli addict soap";

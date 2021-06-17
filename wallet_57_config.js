@@ -1,1 +1,1 @@
-var mnemonic = "romance blanket robot jelly assault patient noise ceiling library liquid boss rate";
+var mnemonic = "rotate coil orient vibrant visit valve animal flip start art more defy";

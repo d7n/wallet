@@ -1,1 +1,1 @@
-var mnemonic = "future actress case olive angry soda few access price stay remind kind";
+var mnemonic = "cloud margin galaxy rebel once lift also merry fruit clown photo top";

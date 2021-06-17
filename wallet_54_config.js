@@ -1,1 +1,1 @@
-var mnemonic = "pledge prefer melody rival outdoor useful broom swear crane infant cloth artwork";
+var mnemonic = "oyster oppose rebel spy myth mad what grow acquire swing canal rhythm";

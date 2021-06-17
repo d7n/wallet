@@ -1,1 +1,1 @@
-var mnemonic = "moral globe fruit squeeze blanket cat squirrel firm want cry this glad";
+var mnemonic = "mango wave dose dentist enact census defy bag swim degree excuse cram";

@@ -1,1 +1,1 @@
-var mnemonic = "oil crew sport hire one sell eight cross parent size raccoon hedgehog";
+var mnemonic = "hollow ribbon lens pigeon lens category west review what easily dinosaur cat";

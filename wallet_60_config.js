@@ -1,1 +1,1 @@
-var mnemonic = "group sentence surface mystery illness media rally finger term ride dinner solve";
+var mnemonic = "abuse steak animal wrap pole main dutch again scheme above security tattoo";

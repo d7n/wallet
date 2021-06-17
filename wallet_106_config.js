@@ -1,1 +1,1 @@
-var mnemonic = "blood hair taste time critic provide broken inch gravity eagle pave scrub";
+var mnemonic = "jump mail monster gentle puzzle sauce across hood reveal disorder lumber mention";

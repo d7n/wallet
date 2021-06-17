@@ -1,1 +1,1 @@
-var mnemonic = "labor scatter movie endorse truck bicycle shell hip rain nest flower stand";
+var mnemonic = "vehicle coach truly bean magnet unusual biology minute reunion ocean ask furnace";

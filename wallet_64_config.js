@@ -1,1 +1,1 @@
-var mnemonic = "recall gain post correct shift canal laugh chief air cluster column you";
+var mnemonic = "raven during aisle emerge harsh biology easy access great cherry tone alley";

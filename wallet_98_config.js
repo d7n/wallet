@@ -1,1 +1,1 @@
-var mnemonic = "predict laugh trial gallery bracket eternal purpose tooth thunder intact setup laugh";
+var mnemonic = "scorpion food pattern scan edge siren river trim tooth once kick offer";

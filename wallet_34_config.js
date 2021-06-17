@@ -1,1 +1,1 @@
-var mnemonic = "find tail deposit swarm menu six stumble gift direct fall tube spread";
+var mnemonic = "oxygen split mutual exercise amazing mass express safe steel venue all roast";

@@ -1,1 +1,1 @@
-var mnemonic = "security step skill cherry crime effort junk index gauge motor valid camp";
+var mnemonic = "client heavy abandon boss push gift wish brand health birth pencil custom";

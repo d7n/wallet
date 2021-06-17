@@ -1,1 +1,1 @@
-var mnemonic = "buffalo machine ecology patrol fat cash bargain panic arrange choice mushroom jazz";
+var mnemonic = "yard silk survey pipe east language hole other ethics voice shed apart";

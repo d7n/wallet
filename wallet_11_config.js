@@ -1,1 +1,1 @@
-var mnemonic = "flip crater lizard scale surround wrestle hint toy behind balance athlete know";
+var mnemonic = "relief weather picture faculty narrow boil guard appear muffin town cabin box";

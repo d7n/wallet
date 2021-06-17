@@ -1,1 +1,1 @@
-var mnemonic = "dragon exact dirt chicken cousin assault dry hub dentist horn census say";
+var mnemonic = "hint group marriage impose squirrel naive home used top wrestle woman limit";

@@ -1,1 +1,1 @@
-var mnemonic = "power smart bag home pet peasant end fog please error festival spare";
+var mnemonic = "cricket pulse buyer school alpha hospital relief apology feed rent vault parent";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion unique kiss ladder swallow unfold baby fatal fade city wait card";
+var mnemonic = "arch gain primary enlist bottom silent magnet search surprise artwork gap lift";

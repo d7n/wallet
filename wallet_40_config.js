@@ -1,1 +1,1 @@
-var mnemonic = "column question regular review common bright never jar margin island conduct peace";
+var mnemonic = "special spot swift oblige exchange fatal vital buffalo feature voice educate wreck";

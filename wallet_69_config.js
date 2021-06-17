@@ -1,1 +1,1 @@
-var mnemonic = "timber cat turn dust day case blame sniff pass genre device butter";
+var mnemonic = "dinosaur until custom diet window popular dilemma cousin monkey gain vessel tag";

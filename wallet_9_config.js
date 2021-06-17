@@ -1,1 +1,1 @@
-var mnemonic = "year bread grape twin season rebel hybrid lobster naive juice eye join";
+var mnemonic = "ensure vintage require huge bone hotel logic pitch catalog alley still awake";

@@ -1,1 +1,1 @@
-var mnemonic = "snack floor tumble end post seven tape tell trophy ring ritual quality";
+var mnemonic = "view enough occur laptop shift cruel claw deliver scatter soup consider cement";

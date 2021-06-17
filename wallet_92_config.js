@@ -1,1 +1,1 @@
-var mnemonic = "riot custom episode prepare doll glass speed home media random smoke festival";
+var mnemonic = "girl into light local narrow clever two account ignore raw describe plastic";

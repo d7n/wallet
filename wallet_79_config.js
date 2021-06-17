@@ -1,1 +1,1 @@
-var mnemonic = "runway live simple stable endless elegant dry step acoustic brush depth glue";
+var mnemonic = "order lunar depart wagon city wrap during garbage burst cannon upper equal";

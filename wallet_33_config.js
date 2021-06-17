@@ -1,1 +1,1 @@
-var mnemonic = "odor intact tribe damage alpha evil oblige raven drive armed simple slim";
+var mnemonic = "gun quiz more embrace melt sauce object twin defy walnut desk element";

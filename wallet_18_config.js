@@ -1,1 +1,1 @@
-var mnemonic = "water spike cross puzzle try fish west image pistol group middle bike";
+var mnemonic = "salmon skate prefer math tilt science category grief ritual very middle salt";

@@ -1,1 +1,1 @@
-var mnemonic = "add kit wink robot fitness bamboo valley off identify trash hair tattoo";
+var mnemonic = "before gather desert sail page system review pink then verify enact pelican";

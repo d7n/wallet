@@ -1,1 +1,1 @@
-var mnemonic = "fabric relief disease cheap segment shine work uncle hip peace muffin quarter";
+var mnemonic = "identify release deal protect voyage evoke shoot zero excuse pulse stone reveal";

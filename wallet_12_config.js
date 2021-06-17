@@ -1,1 +1,1 @@
-var mnemonic = "man ketchup news eagle echo high sausage enact rain meadow dash destroy";
+var mnemonic = "lend female pony project summer rare attack mail thrive notable elevator dumb";

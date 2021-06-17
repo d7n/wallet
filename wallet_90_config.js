@@ -1,1 +1,1 @@
-var mnemonic = "hybrid job gadget sense walnut love orphan brick pilot omit smoke culture";
+var mnemonic = "now wage maximum spatial velvet coffee raven hungry raw angle exhibit series";
