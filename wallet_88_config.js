@@ -1,1 +1,1 @@
-var mnemonic = "open fun connect gown aspect brain subway stove benefit define off unaware";
+var mnemonic = "easily diary alley material vehicle weather casual govern member evidence license stumble";

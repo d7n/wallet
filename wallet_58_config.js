@@ -1,1 +1,1 @@
-var mnemonic = "fruit angry rally eternal umbrella devote illegal cabin fury fade excess will";
+var mnemonic = "minimum village girl note trim private chicken kidney hundred engage zoo cherry";

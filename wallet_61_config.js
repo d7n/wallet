@@ -1,1 +1,1 @@
-var mnemonic = "fitness home bunker vault topple skill certain enrich urge door scrap scrap";
+var mnemonic = "donate idea faith timber share mercy kitchen punch submit parrot eyebrow produce";

@@ -1,1 +1,1 @@
-var mnemonic = "large word broken next oval degree balcony harbor throw consider creek betray";
+var mnemonic = "hawk dizzy pulse kid radio oil goose add inhale first royal clinic";

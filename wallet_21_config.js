@@ -1,1 +1,1 @@
-var mnemonic = "spatial genuine snap banner question athlete arrange mail shrimp apart traffic huge";
+var mnemonic = "deputy shell diamond celery vocal drastic pelican vacant copper loop crucial step";

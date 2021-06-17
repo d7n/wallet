@@ -1,1 +1,1 @@
-var mnemonic = "frog water online mixed slush fruit walnut feed defy regular wood fiction";
+var mnemonic = "athlete appear skill also response resource pact coin bag tourist joy empower";

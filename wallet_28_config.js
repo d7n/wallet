@@ -1,1 +1,1 @@
-var mnemonic = "share sight remain panic dad average betray hip usual eye like kidney";
+var mnemonic = "turkey gauge vague domain coconut transfer decline anger border once acoustic pottery";

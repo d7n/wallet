@@ -1,1 +1,1 @@
-var mnemonic = "leisure skirt engine grocery balance grape because budget simple alarm tube capable";
+var mnemonic = "win method world relief minute glimpse run claim ivory regular proud bless";

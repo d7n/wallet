@@ -1,1 +1,1 @@
-var mnemonic = "seven auction engage tone doctor patient egg cricket patient height typical woman";
+var mnemonic = "chunk chicken topple hollow stock nuclear hunt kid outside margin family ankle";

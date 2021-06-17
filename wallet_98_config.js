@@ -1,1 +1,1 @@
-var mnemonic = "need dice sport rate ginger wisdom match word case finish round frog";
+var mnemonic = "debate creek sail easily taxi brand toss high august frozen sight noise";

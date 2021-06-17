@@ -1,1 +1,1 @@
-var mnemonic = "plunge helmet salt pause enjoy refuse intact laugh vital cradle image random";
+var mnemonic = "voice crucial inform acid scare betray unfold page million quantum begin model";

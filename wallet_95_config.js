@@ -1,1 +1,1 @@
-var mnemonic = "crew over celery saddle slender phone gather elite upper better food regret";
+var mnemonic = "gorilla owner pattern run enact fruit follow mansion near fall vital enforce";

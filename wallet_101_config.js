@@ -1,1 +1,1 @@
-var mnemonic = "swim turkey isolate salute install resist skull sort picture code save blue";
+var mnemonic = "glue dance library glare reflect canyon gravity approve science weird raise person";

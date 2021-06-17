@@ -1,1 +1,1 @@
-var mnemonic = "leader art liquid second asset party yellow all urge reject combine spend";
+var mnemonic = "steel knock element spring iron wise camera aunt flag shaft similar vague";

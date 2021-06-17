@@ -1,1 +1,1 @@
-var mnemonic = "twelve dawn virtual vendor hungry injury beef liquid tide vote bomb bless";
+var mnemonic = "link illness theory pact angle news reflect satoshi proud dizzy drink funny";

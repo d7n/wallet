@@ -1,1 +1,1 @@
-var mnemonic = "client word absent mom proud hold exchange gossip adult point scale useless";
+var mnemonic = "thing coffee ramp fantasy bring crunch chat spirit vault city phrase pitch";

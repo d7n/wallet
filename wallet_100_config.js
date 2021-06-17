@@ -1,1 +1,1 @@
-var mnemonic = "meadow tide giggle alone brother resist dash bomb humble shock park weather";
+var mnemonic = "stand eager field subject praise deal fault sketch feel project worth abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "silk chunk rubber face wood twice faith dream axis magnet whisper car";
+var mnemonic = "nose grab defy basket badge senior blood theory nature cart arrange journey";

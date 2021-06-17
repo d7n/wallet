@@ -1,1 +1,1 @@
-var mnemonic = "quantum degree birth intact mesh idle dismiss prevent fat easily plastic vivid";
+var mnemonic = "only resist chalk surge fantasy puppy move hold social entry globe reason";

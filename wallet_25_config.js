@@ -1,1 +1,1 @@
-var mnemonic = "focus shadow crystal reduce fame shy clap wear round charge mixture upon";
+var mnemonic = "arrive window bottom issue float mushroom return fun pepper throw sick gauge";

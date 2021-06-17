@@ -1,1 +1,1 @@
-var mnemonic = "unlock pizza use frown forward legal evil glow place effort judge diet";
+var mnemonic = "garlic bright process voice echo grocery round food foam expire possible credit";

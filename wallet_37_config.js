@@ -1,1 +1,1 @@
-var mnemonic = "purse half trouble coast judge income ostrich victory pistol shaft post reunion";
+var mnemonic = "control version effort page frown blood electric slow battle sister around spice";

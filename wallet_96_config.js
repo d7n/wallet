@@ -1,1 +1,1 @@
-var mnemonic = "devote paper mandate unfair solve grab rent vivid grain chief shy tattoo";
+var mnemonic = "crazy smooth doctor dolphin pulp bind place health tower verify crisp joke";

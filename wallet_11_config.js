@@ -1,1 +1,1 @@
-var mnemonic = "firm eternal imitate mango seat wrong song address bubble sadness work sunset";
+var mnemonic = "penalty control dust pelican bounce moral toddler gate theory flower page galaxy";

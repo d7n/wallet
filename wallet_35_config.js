@@ -1,1 +1,1 @@
-var mnemonic = "stock put summer scissors typical river awkward boost child camera tank top";
+var mnemonic = "gain enable someone father host jacket lamp poet fashion slim weird arctic";

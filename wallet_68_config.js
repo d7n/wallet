@@ -1,1 +1,1 @@
-var mnemonic = "dinner never lemon discover across debate owner deliver paddle sorry ostrich lava";
+var mnemonic = "capital where snack lens neutral federal limit hood afraid puzzle fence book";

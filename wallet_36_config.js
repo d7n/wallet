@@ -1,1 +1,1 @@
-var mnemonic = "unlock wealth file deal expose final snake describe blame indoor bread army";
+var mnemonic = "harsh razor inherit trumpet lottery silent mountain first special boil today marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "identify crack neck frog donkey abandon arrow bulk banner entry drastic verify";
+var mnemonic = "peanut bless crunch enable nothing guess dash surprise midnight use hunt drum";

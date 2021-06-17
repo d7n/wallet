@@ -1,1 +1,1 @@
-var mnemonic = "vicious hurry false toast buzz hurt grace worth two chat task spike";
+var mnemonic = "fresh consider sand super bulk fashion unknown loan color fluid delay exist";

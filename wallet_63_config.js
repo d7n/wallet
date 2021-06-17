@@ -1,1 +1,1 @@
-var mnemonic = "assault wolf device submit marriage silent exact file wink total floor current";
+var mnemonic = "swing tone good situate alter team abstract express mom donkey swarm walk";

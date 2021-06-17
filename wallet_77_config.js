@@ -1,1 +1,1 @@
-var mnemonic = "deny copy cradle young boy conduct solar maximum shove soldier prefer convince";
+var mnemonic = "opera total aspect brief giggle door shock engine finish select pitch adult";

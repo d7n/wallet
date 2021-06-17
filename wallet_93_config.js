@@ -1,1 +1,1 @@
-var mnemonic = "endorse receive fresh floor design waste pill sister response forget lottery obscure";
+var mnemonic = "vocal catch mobile stage rare shadow exclude vibrant spike slogan brief elder";

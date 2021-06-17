@@ -1,1 +1,1 @@
-var mnemonic = "expose actor kidney base travel fame book ship quarter whisper virus object";
+var mnemonic = "huge guilt claim skill language sibling brass hazard rent gasp energy breeze";

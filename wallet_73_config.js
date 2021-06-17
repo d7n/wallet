@@ -1,1 +1,1 @@
-var mnemonic = "multiply album dolphin repeat essence replace sweet chimney around celery cradle core";
+var mnemonic = "video gossip interest pulp name true pulp card grunt measure mandate drop";

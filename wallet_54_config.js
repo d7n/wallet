@@ -1,1 +1,1 @@
-var mnemonic = "code approve eager spider lunch smooth spare mother twist three unfold dynamic";
+var mnemonic = "office plastic fiscal coyote arrive empower laptop image fine quiz broom agree";

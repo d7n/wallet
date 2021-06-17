@@ -1,1 +1,1 @@
-var mnemonic = "citizen reopen edit ride ostrich crane oval island unfold about daughter heavy";
+var mnemonic = "robot inject system faint upper scan envelope mother puppy logic cream sweet";

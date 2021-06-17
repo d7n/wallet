@@ -1,1 +1,1 @@
-var mnemonic = "decrease humor recycle mouse pepper column scorpion faculty bunker easily woman garden";
+var mnemonic = "whisper vocal palm saddle economy moral idea total awake sound true rural";

@@ -1,1 +1,1 @@
-var mnemonic = "bright foster body oak sunny hunt save crater basket ankle rent neck";
+var mnemonic = "gate junior estate fringe wrestle lemon fence rose argue best leaf knock";

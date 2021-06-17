@@ -1,1 +1,1 @@
-var mnemonic = "club stove garment bring brother obscure fox ridge silk basket race bulb";
+var mnemonic = "deer inquiry better famous coconut pulp scatter clever silly hundred fashion cotton";

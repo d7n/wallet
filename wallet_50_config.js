@@ -1,1 +1,1 @@
-var mnemonic = "giraffe mixture method glide order six trial extend special wire ivory hazard";
+var mnemonic = "nurse history voyage throw amazing emerge morning olive poem enact pledge rice";

@@ -1,1 +1,1 @@
-var mnemonic = "end cage lion cactus fork episode broccoli guide into possible will fiction";
+var mnemonic = "side select whip whale weird begin reunion exit tonight pride zebra output";

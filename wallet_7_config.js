@@ -1,1 +1,1 @@
-var mnemonic = "drama adapt expect spoon cushion middle sunny screen bubble become room deer";
+var mnemonic = "sail scatter enjoy only omit need between because turkey raccoon version axis";

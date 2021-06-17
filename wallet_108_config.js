@@ -1,1 +1,1 @@
-var mnemonic = "oil can save mosquito interest stick ice rabbit aunt syrup basket regular";
+var mnemonic = "wreck number win scissors execute belt butter kit absent idea maple social";

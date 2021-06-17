@@ -1,1 +1,1 @@
-var mnemonic = "desert piano health sting awful denial emerge charge same repeat brush add";
+var mnemonic = "proud law message wife myth quantum pioneer height warrior taste during stick";

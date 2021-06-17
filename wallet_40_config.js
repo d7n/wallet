@@ -1,1 +1,1 @@
-var mnemonic = "dose swim dilemma strike now guitar despair license parrot sample enforce toast";
+var mnemonic = "slam edge entry spice mansion despair again agent struggle knee flame recycle";

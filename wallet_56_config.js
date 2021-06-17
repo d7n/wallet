@@ -1,1 +1,1 @@
-var mnemonic = "rigid subject blur idle idle taxi predict garden mother assist below match";
+var mnemonic = "once print output tomorrow casino cave chalk violin wine calm bitter relief";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow chaos group wrist hospital margin fossil chase forward oyster jacket enhance";
+var mnemonic = "link rifle flag enjoy pencil island mimic width spy unit ticket card";

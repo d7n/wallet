@@ -1,1 +1,1 @@
-var mnemonic = "tuna cheese year master logic issue copy pluck slush awful caution online";
+var mnemonic = "team sponsor lava west release debris wealth wife sport brave destroy news";

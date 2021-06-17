@@ -1,1 +1,1 @@
-var mnemonic = "inject iron sugar skirt skill dentist claim secret marine tribe level way";
+var mnemonic = "core fruit mad bacon scene entire idea position snap venue fortune crater";

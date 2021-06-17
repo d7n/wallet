@@ -1,1 +1,1 @@
-var mnemonic = "relief truth bottom medal slow defy zoo hungry glow tunnel elevator domain";
+var mnemonic = "humble misery van toddler initial heart blast brave liar toy symbol category";

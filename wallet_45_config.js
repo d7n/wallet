@@ -1,1 +1,1 @@
-var mnemonic = "sun jungle decline soon prosper genius now pattern joy educate clay sustain";
+var mnemonic = "solve police office alone below gate cream thumb bind peace better coral";

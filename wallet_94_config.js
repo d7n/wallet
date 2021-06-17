@@ -1,1 +1,1 @@
-var mnemonic = "sand toward broken test ecology mule team okay special emerge beyond you";
+var mnemonic = "salt loop oppose property pony hurt salad market embrace always curtain debris";

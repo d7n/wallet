@@ -1,1 +1,1 @@
-var mnemonic = "razor jazz cluster industry catch pear supply ginger canyon labor sketch blouse";
+var mnemonic = "taste defy actress iron protect cricket noble volume cute park track whip";

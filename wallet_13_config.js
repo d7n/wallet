@@ -1,1 +1,1 @@
-var mnemonic = "burden glance drastic public float slow build improve wing approve year tourist";
+var mnemonic = "stomach survey security bone range airport flower voyage weird bronze human kangaroo";

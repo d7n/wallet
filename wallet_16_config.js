@@ -1,1 +1,1 @@
-var mnemonic = "action merit forget way volcano tool mutual gas blue mercy verb lend";
+var mnemonic = "morning tooth cost kit satoshi picture egg beef hunt goat future gap";

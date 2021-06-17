@@ -1,1 +1,1 @@
-var mnemonic = "lemon slender science oil green enjoy remove gasp brave expose ridge hour";
+var mnemonic = "saddle exact bottom slice kangaroo dress pledge steak perfect room reward allow";

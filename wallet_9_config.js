@@ -1,1 +1,1 @@
-var mnemonic = "soldier ability steel vocal soda thought nominee sell leopard infant canyon find";
+var mnemonic = "catch capital snow sudden kiss search angry guess cross liquid drift guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "clap vendor rent lumber cherry else holiday adult bleak punch demand flush";
+var mnemonic = "level obey balance hockey dentist behind mass material half worth program upset";

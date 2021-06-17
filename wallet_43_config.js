@@ -1,1 +1,1 @@
-var mnemonic = "approve sand toe mechanic drop curtain crunch stadium bulb rain display gloom";
+var mnemonic = "sausage bachelor agree merit enhance section suspect wise song blood decide kick";

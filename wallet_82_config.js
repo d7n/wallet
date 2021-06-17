@@ -1,1 +1,1 @@
-var mnemonic = "response broken reform defy smart rule panic chat problem hand aisle taste";
+var mnemonic = "subway scan weasel permit mule narrow essay loud normal hole series weekend";

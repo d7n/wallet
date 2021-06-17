@@ -1,1 +1,1 @@
-var mnemonic = "typical slim sure rough raw make purchase glass settle forum winter erupt";
+var mnemonic = "august plunge pole real spell sausage once dilemma merry boring era easily";

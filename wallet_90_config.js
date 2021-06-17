@@ -1,1 +1,1 @@
-var mnemonic = "tool yard night reward crowd champion share casual capable kangaroo ghost fan";
+var mnemonic = "people tragic vintage pave clarify south regular helmet hip silent exact reduce";

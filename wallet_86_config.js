@@ -1,1 +1,1 @@
-var mnemonic = "thumb size glare remove danger roof trap burden winter close impulse fringe";
+var mnemonic = "name chunk life anger prevent midnight raccoon prosper weather bag barrel gospel";

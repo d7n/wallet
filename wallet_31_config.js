@@ -1,1 +1,1 @@
-var mnemonic = "donate hood diagram clay quit wheel favorite broken top myself outer cinnamon";
+var mnemonic = "waste embrace heavy wear coin tape pistol poverty prison patch document merit";

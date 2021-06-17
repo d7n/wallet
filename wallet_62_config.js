@@ -1,1 +1,1 @@
-var mnemonic = "apology bicycle flight proud winter music spend panther drift rain sure jeans";
+var mnemonic = "fun nephew jacket lazy enable dynamic agent angle safe orbit conduct same";

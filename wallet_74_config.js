@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur penalty outdoor wrestle diary visa swap loud glass prison seat wife";
+var mnemonic = "electric sand vapor tip cube rug reason slender margin pause engage own";

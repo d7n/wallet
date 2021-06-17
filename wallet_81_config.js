@@ -1,1 +1,1 @@
-var mnemonic = "session nothing bench artist lecture choose frequent awful normal grit volcano capable";
+var mnemonic = "mean fall slot bacon staff develop noble match ghost question spider era";

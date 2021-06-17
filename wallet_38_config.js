@@ -1,1 +1,1 @@
-var mnemonic = "question lumber champion cloth trouble undo deliver axis tower develop merry pistol";
+var mnemonic = "divert praise mail annual welcome actor erosion expose figure slight opinion act";

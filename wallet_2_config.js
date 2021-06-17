@@ -1,1 +1,1 @@
-var mnemonic = "hollow loan anger debris battle margin jealous mandate quick vicious myself roast";
+var mnemonic = "predict laugh assist donor phrase defy area sad place arrest lock culture";

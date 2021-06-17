@@ -1,1 +1,1 @@
-var mnemonic = "album harsh phrase tail grunt rigid achieve bulk castle bundle clay common";
+var mnemonic = "upon gauge garbage album bundle coconut marriage wine recycle nation suspect mother";

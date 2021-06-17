@@ -1,1 +1,1 @@
-var mnemonic = "door two treat regret panther universe message explain dad focus cat party";
+var mnemonic = "target sibling vacuum clinic whisper vintage detail fringe wet purity relief improve";

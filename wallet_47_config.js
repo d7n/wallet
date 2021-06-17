@@ -1,1 +1,1 @@
-var mnemonic = "detail inspire slide update ensure cactus increase frequent once dish enough broccoli";
+var mnemonic = "elder island visual reopen taxi scare dune lecture powder rally practice rent";

@@ -1,1 +1,1 @@
-var mnemonic = "name reopen across crash weasel hidden invest south illness carbon electric morning";
+var mnemonic = "bulk early indicate version midnight promote wolf absorb ankle erode sick essay";

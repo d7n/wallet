@@ -1,1 +1,1 @@
-var mnemonic = "sibling again absorb wash thunder reject traffic profit roof quality nothing sample";
+var mnemonic = "file fetch tornado hope dwarf north educate seven still asset bridge rival";

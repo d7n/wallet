@@ -1,1 +1,1 @@
-var mnemonic = "advance husband stay teach clock voyage chunk swing salute border mountain electric";
+var mnemonic = "garlic pact skin cook office drum plug proud velvet knee language latin";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee opera obtain joke tattoo group divide exchange eight rival velvet stove";
+var mnemonic = "print spare shift beauty pluck possible glance old snack begin usual medal";

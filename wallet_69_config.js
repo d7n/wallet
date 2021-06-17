@@ -1,1 +1,1 @@
-var mnemonic = "tenant enact cup bar reward creek crush vivid portion surround behave kiss";
+var mnemonic = "camp deny fluid sheriff soup erosion health refuse pretty square word priority";

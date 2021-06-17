@@ -1,1 +1,1 @@
-var mnemonic = "explain dust twelve assist round pink ethics cry camera movie senior economy";
+var mnemonic = "sphere brass expose almost useful wealth vocal shell between joy slot gown";

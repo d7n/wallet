@@ -1,1 +1,1 @@
-var mnemonic = "deny body simple discover turtle market imitate boost mandate bar hammer december";
+var mnemonic = "hobby opinion victory yard away stick enact genius endorse diary gas vintage";

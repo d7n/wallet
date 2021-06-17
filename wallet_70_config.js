@@ -1,1 +1,1 @@
-var mnemonic = "install spatial purity sunny faith nasty disagree spirit retreat buyer minute doll";
+var mnemonic = "property mango monkey climb frog turkey face finish ahead enlist unveil slot";

@@ -1,1 +1,1 @@
-var mnemonic = "supply impose bronze rack sign harbor sound hello phrase genuine immense common";
+var mnemonic = "stand state cook hood fame image balcony consider junk hard canal hobby";

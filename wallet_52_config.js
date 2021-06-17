@@ -1,1 +1,1 @@
-var mnemonic = "pass ripple casino tank offer hover settle elegant coach deliver skill coil";
+var mnemonic = "fee bone car system friend young knee firm work spin clutch tomorrow";

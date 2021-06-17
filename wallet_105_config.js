@@ -1,1 +1,1 @@
-var mnemonic = "plastic note bless sick year amateur pink cupboard then umbrella scan song";
+var mnemonic = "april mushroom omit one amused forum focus flight cousin hard seek misery";

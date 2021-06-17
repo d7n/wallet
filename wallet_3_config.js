@@ -1,1 +1,1 @@
-var mnemonic = "kiwi nothing long cry engine hungry lamp already pattern atom section duty";
+var mnemonic = "another nasty antique rose metal cluster gravity luxury joke post museum subway";

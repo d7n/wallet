@@ -1,1 +1,1 @@
-var mnemonic = "reveal alarm glare apart average angle rescue reject garden animal bind current";
+var mnemonic = "myth round middle indoor buffalo brass insect return comic inch unknown lake";

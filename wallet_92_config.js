@@ -1,1 +1,1 @@
-var mnemonic = "nurse concert walk tumble cage guard various chat cook find worth stomach";
+var mnemonic = "surge birth brisk post awful length artwork wreck venue hurdle skin bulb";

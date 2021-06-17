@@ -1,1 +1,1 @@
-var mnemonic = "spoil today dry absorb ocean reflect nuclear spoon expand south diary dumb";
+var mnemonic = "ship agree biology giggle afraid refuse sustain initial find bulk perfect torch";
