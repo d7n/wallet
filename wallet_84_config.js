@@ -1,1 +1,1 @@
-var mnemonic = "silver rocket link test armor canoe deposit write piano rude delay clinic";
+var mnemonic = "digital agree auction bottom sun apology marriage remove slush ill fury behind";

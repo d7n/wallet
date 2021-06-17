@@ -1,1 +1,1 @@
-var mnemonic = "problem wisdom upgrade stomach paddle just unique laptop menu light dragon churn";
+var mnemonic = "sponsor frown have husband pelican ridge dragon thumb coyote bundle airport permit";

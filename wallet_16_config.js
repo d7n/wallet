@@ -1,1 +1,1 @@
-var mnemonic = "good shove ugly owner engine accident muscle color genuine room garage oven";
+var mnemonic = "fork soap biology inject endorse profit kitchen dog raccoon design twist endless";

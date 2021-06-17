@@ -1,1 +1,1 @@
-var mnemonic = "ordinary cabin base check match leisure citizen sniff supply behind copy devote";
+var mnemonic = "thank success duty artwork lens diagram spray frozen shed image rain clay";

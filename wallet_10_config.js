@@ -1,1 +1,1 @@
-var mnemonic = "title core grace select evil acid fitness base oyster section coil catch";
+var mnemonic = "eternal glue long mutual survey work color artefact space title tumble obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty swim pipe trap favorite build earn cover idle luxury impact near";
+var mnemonic = "discover filter apart gallery hire ranch anger wonder educate reveal split check";

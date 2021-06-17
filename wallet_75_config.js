@@ -1,1 +1,1 @@
-var mnemonic = "desert stool sleep marriage sport run kite fiscal loop foster lesson mask";
+var mnemonic = "vacant shoot kit web nerve face clerk gesture sail work resist labor";

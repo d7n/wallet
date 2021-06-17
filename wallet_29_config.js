@@ -1,1 +1,1 @@
-var mnemonic = "basket stuff skull nominee decade drift shoe flavor bicycle lock okay there";
+var mnemonic = "supply dumb return aware chapter fame lumber width pipe assault renew beef";

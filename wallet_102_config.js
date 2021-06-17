@@ -1,1 +1,1 @@
-var mnemonic = "group embark pear race extra arrive tool whip during zero delay awake";
+var mnemonic = "valid melt problem mystery dilemma review note fish october state dog little";

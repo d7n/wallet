@@ -1,1 +1,1 @@
-var mnemonic = "mesh pitch match tank slam upon repair light canal mention rate security";
+var mnemonic = "innocent december melt gift combine between connect near twist kit animal collect";

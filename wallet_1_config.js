@@ -1,1 +1,1 @@
-var mnemonic = "village midnight flame infant suggest novel miracle announce flush shoulder shield impulse";
+var mnemonic = "soccer bid kiss athlete dirt cheese side stuff often key involve fit";

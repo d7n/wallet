@@ -1,1 +1,1 @@
-var mnemonic = "nothing airport either fog sunny virus blood olive almost bleak recycle radio";
+var mnemonic = "pilot pattern assault rather bone police shock range response pilot arrest wild";

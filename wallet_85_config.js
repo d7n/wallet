@@ -1,1 +1,1 @@
-var mnemonic = "gain denial sell sorry wage mention slide open spend sentence alter short";
+var mnemonic = "saddle enact version wolf organ obvious merge enroll field make kid notable";

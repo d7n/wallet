@@ -1,1 +1,1 @@
-var mnemonic = "room mixed trick view abandon frame undo borrow season ostrich project tent";
+var mnemonic = "crush bag furnace hard vacant level language use stuff wing cheese giant";

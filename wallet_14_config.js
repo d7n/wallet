@@ -1,1 +1,1 @@
-var mnemonic = "lift world endless disagree laundry actual aim lab solar praise rabbit announce";
+var mnemonic = "visual rebuild fence side canyon brass tide fence you police luxury common";

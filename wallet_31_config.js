@@ -1,1 +1,1 @@
-var mnemonic = "safe village best hospital deal waste pistol outside knee point video noise";
+var mnemonic = "lava void price slender opinion earn interest lamp token used moon blossom";

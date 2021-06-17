@@ -1,1 +1,1 @@
-var mnemonic = "surge dad lady peace liberty hunt weasel that please embrace weather cigar";
+var mnemonic = "ordinary jungle myself couch craft tragic drop satoshi imitate chalk relax install";

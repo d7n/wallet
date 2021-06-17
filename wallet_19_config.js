@@ -1,1 +1,1 @@
-var mnemonic = "accuse elbow pistol razor breeze scissors retire ankle awkward winter trend electric";
+var mnemonic = "okay cushion gym exercise quarter outdoor cheese unit cactus right skin parade";

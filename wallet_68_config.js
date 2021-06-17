@@ -1,1 +1,1 @@
-var mnemonic = "habit slam first buddy retreat dynamic youth live riot example million predict";
+var mnemonic = "crisp program envelope barrel boil shy sibling tree inspire saddle expect into";

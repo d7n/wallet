@@ -1,1 +1,1 @@
-var mnemonic = "negative wood purity limb skirt service cousin humor roast exhibit happy biology";
+var mnemonic = "detail dumb arrange brisk hidden kind vacant bulk quality inspire snap because";

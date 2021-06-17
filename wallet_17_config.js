@@ -1,1 +1,1 @@
-var mnemonic = "age resemble position heavy whale access journey next advance rebel host goose";
+var mnemonic = "soul unique beef section rebuild science stool drop scorpion movie abuse stay";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet cart lizard hurry usage glow turtle unusual weasel chest chicken pony";
+var mnemonic = "patch silk often witness equal hotel squeeze example explain involve now emerge";

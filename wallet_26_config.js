@@ -1,1 +1,1 @@
-var mnemonic = "bike young crack orchard cake arrange pond bunker define cabin raw holiday";
+var mnemonic = "page leaf judge travel mean picnic gorilla leaf disease picture glimpse run";

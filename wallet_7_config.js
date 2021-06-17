@@ -1,1 +1,1 @@
-var mnemonic = "emotion tide ski census biology torch current caught token merry hurry ethics";
+var mnemonic = "quarter rack fat spawn foam lawsuit diamond pluck wall achieve duty steak";

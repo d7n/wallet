@@ -1,1 +1,1 @@
-var mnemonic = "evolve suggest outside lab able during supreme simple spawn village salad nothing";
+var mnemonic = "place skin goddess exclude fade achieve stock among point ignore abuse shine";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest brass pitch another pair hungry water rescue goose file shed outer";
+var mnemonic = "chair quick maximum van number behind enemy glare keen vicious matter afraid";

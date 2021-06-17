@@ -1,1 +1,1 @@
-var mnemonic = "reunion stamp paddle badge vital term patch false inject can grit bar";
+var mnemonic = "duck before video inform canoe entire doctor delay scissors manual hybrid valid";

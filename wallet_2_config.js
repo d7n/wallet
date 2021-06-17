@@ -1,1 +1,1 @@
-var mnemonic = "voice media topic fiction lunch way ladder among priority never pelican february";
+var mnemonic = "develop music brush book remove bounce sphere thumb chuckle cable oppose solution";

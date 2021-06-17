@@ -1,1 +1,1 @@
-var mnemonic = "remain friend goose anchor fit dawn exit know double lottery surround fancy";
+var mnemonic = "brother define garlic yard milk indicate oxygen sand tuition couple flower peace";

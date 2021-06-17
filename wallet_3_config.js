@@ -1,1 +1,1 @@
-var mnemonic = "team gaze smart myself catch magnet jungle remind engine crater timber flat";
+var mnemonic = "height gold regret until front can collect need digital news offer length";

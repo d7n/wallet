@@ -1,1 +1,1 @@
-var mnemonic = "drink index equal era naive answer track dentist judge ski farm pass";
+var mnemonic = "you arctic laugh quote gas inspire cable robust dog bunker fiscal chase";

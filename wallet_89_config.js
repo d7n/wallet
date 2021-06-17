@@ -1,1 +1,1 @@
-var mnemonic = "sail pistol kiwi clap album obvious top draft rebuild budget occur talk";
+var mnemonic = "worth engage slam trim found squeeze sea expand crawl cabin pen candy";

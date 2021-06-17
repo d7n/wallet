@@ -1,1 +1,1 @@
-var mnemonic = "movie attack sand flavor best humor jungle top relax cheap thank another";
+var mnemonic = "gather marble rebel cement focus pole shaft panda dwarf brain fiction regret";

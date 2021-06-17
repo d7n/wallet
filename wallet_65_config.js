@@ -1,1 +1,1 @@
-var mnemonic = "property west accuse guilt clean degree lemon sound topic road color lab";
+var mnemonic = "search brief forum twist net minute enemy figure pink practice inject exit";

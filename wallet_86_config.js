@@ -1,1 +1,1 @@
-var mnemonic = "second host traffic major collect collect monkey oval fashion emotion yellow talk";
+var mnemonic = "present buzz urge gravity blue poverty work brush awesome bitter insect fish";

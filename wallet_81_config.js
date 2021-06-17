@@ -1,1 +1,1 @@
-var mnemonic = "turkey police assault midnight leave junk cycle rally cruise jar shrug fix";
+var mnemonic = "notable salon lock message pulp private echo jealous destroy tourist neither cram";

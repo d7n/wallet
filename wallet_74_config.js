@@ -1,1 +1,1 @@
-var mnemonic = "crop torch champion barrel switch knee spawn laugh raven glue trip later";
+var mnemonic = "wide foam resource soldier candy catalog easily garment canyon fit ill tackle";

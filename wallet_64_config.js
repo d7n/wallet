@@ -1,1 +1,1 @@
-var mnemonic = "glare nothing loop security bread fox wire color club reject make hazard";
+var mnemonic = "loyal index bulk sting trick device lonely attend chicken lava game prefer";

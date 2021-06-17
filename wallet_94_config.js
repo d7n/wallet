@@ -1,1 +1,1 @@
-var mnemonic = "during shed similar guitar surge slab bounce daughter increase smooth still surround";
+var mnemonic = "nasty barrel race leave correct pilot loan feed mule toddler escape bread";

@@ -1,1 +1,1 @@
-var mnemonic = "nation fortune camp carpet vital sweet large team inquiry paddle spirit account";
+var mnemonic = "idea fault employ amateur inquiry social glue item phrase civil arrest civil";

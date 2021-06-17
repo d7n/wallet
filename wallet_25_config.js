@@ -1,1 +1,1 @@
-var mnemonic = "slot armed print thank social explain wisdom chuckle bamboo quantum soul stumble";
+var mnemonic = "vibrant corn hair motion fashion penalty glass trim close good drill top";

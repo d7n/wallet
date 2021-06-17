@@ -1,1 +1,1 @@
-var mnemonic = "occur gravity eyebrow sick drastic joke never area beef spice vicious hint";
+var mnemonic = "busy mind oxygen resource fun save tooth air mandate huge scissors miracle";

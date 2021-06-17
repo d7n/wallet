@@ -1,1 +1,1 @@
-var mnemonic = "expand okay nuclear excess glare sport eye light flower deny stay liar";
+var mnemonic = "sea tunnel cactus artist amateur thumb safe asset verb mesh purchase season";

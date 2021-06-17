@@ -1,1 +1,1 @@
-var mnemonic = "soccer diamond step twice memory slight private tool negative mammal stove total";
+var mnemonic = "lobster brisk off once crucial equal urban bid find envelope tail rifle";

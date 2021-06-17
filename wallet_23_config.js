@@ -1,1 +1,1 @@
-var mnemonic = "hour grid sand rival rookie spy furnace hold affair among orbit theory";
+var mnemonic = "copy thought neutral jar cute post strike horse between assume home retreat";

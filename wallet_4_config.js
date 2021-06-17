@@ -1,1 +1,1 @@
-var mnemonic = "chase transfer opera error health honey push screen fragile master fame twenty";
+var mnemonic = "hello tackle sure iron soldier zoo gloom require thunder such seek shoot";

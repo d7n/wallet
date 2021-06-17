@@ -1,1 +1,1 @@
-var mnemonic = "dust isolate session insect cube legend mandate kangaroo control much surface burden";
+var mnemonic = "range knee glass wide taxi flip retreat blue topple key deliver minute";

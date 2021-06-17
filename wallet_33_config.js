@@ -1,1 +1,1 @@
-var mnemonic = "logic submit shrug era forest waste flat predict grid bag dirt online";
+var mnemonic = "scatter eyebrow total tray syrup salute myth property stove ill atom cram";

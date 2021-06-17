@@ -1,1 +1,1 @@
-var mnemonic = "artwork amount apple uniform fit loyal cheap interest ramp hurdle market joke";
+var mnemonic = "love boat can obvious vital decline fantasy ritual okay memory bicycle brand";

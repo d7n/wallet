@@ -1,1 +1,1 @@
-var mnemonic = "gravity rich exile board base axis icon sad library desk state divert";
+var mnemonic = "decrease promote credit butter capital edit secret child swim day alcohol pony";

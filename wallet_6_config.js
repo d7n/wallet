@@ -1,1 +1,1 @@
-var mnemonic = "sudden already cannon board digital bachelor divorce material hat awake rack extra";
+var mnemonic = "loan hollow victory usage cup web hint album subway virus horn borrow";

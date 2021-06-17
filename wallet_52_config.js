@@ -1,1 +1,1 @@
-var mnemonic = "lumber coin number hat inform banner heavy penalty phone soda coyote struggle";
+var mnemonic = "strategy force sound dynamic stable hover vibrant symbol menu doctor mango aerobic";

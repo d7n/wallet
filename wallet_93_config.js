@@ -1,1 +1,1 @@
-var mnemonic = "rabbit tip nation list appear spin screen biology march menu shoulder slam";
+var mnemonic = "squeeze axis gap injury side wait snake margin receive medal insane master";

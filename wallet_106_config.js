@@ -1,1 +1,1 @@
-var mnemonic = "boat shoulder stem rotate hamster visit middle victory off during solid unfold";
+var mnemonic = "energy total spare fury domain join install damage prevent noble flag panda";

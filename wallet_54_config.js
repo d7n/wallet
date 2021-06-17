@@ -1,1 +1,1 @@
-var mnemonic = "figure forget accident primary carpet attitude short flash apology corn about fuel";
+var mnemonic = "outside human tell chronic core bright walk frog amazing segment hurdle betray";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic nephew walk october purity sustain floor emerge evolve stove best wide";
+var mnemonic = "shoulder grace squirrel menu candy satisfy dentist canyon shine furnace click cat";

@@ -1,1 +1,1 @@
-var mnemonic = "essay below cloth scorpion hen now citizen say letter ordinary work bean";
+var mnemonic = "basket scan piece stove weasel shine bike tenant praise board dose seed";

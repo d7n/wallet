@@ -1,1 +1,1 @@
-var mnemonic = "distance carpet right busy amused license cinnamon glad sweet quote develop pause";
+var mnemonic = "cousin dinosaur three sibling forward resource glad cruise jeans lucky april exile";

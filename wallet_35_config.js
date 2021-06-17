@@ -1,1 +1,1 @@
-var mnemonic = "review noodle picture refuse develop slide sphere spawn final power bridge sight";
+var mnemonic = "prepare swallow young elephant stay pause scout jazz mutual uphold wolf share";

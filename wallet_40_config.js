@@ -1,1 +1,1 @@
-var mnemonic = "must guilt nut alley truck coyote egg path case device hundred paper";
+var mnemonic = "marine race tide depend tag sheriff plastic raw shop salmon various solution";

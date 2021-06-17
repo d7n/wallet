@@ -1,1 +1,1 @@
-var mnemonic = "sweet coil pitch breeze sport mother village release search possible decrease trap";
+var mnemonic = "grit picture fatal still neglect exclude skin change resist fish guilt favorite";

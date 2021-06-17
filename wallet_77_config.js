@@ -1,1 +1,1 @@
-var mnemonic = "fault speed gorilla assault gadget foster ribbon media awesome vanish noble rigid";
+var mnemonic = "coconut remove explain pond local expire spring west jewel pony submit term";

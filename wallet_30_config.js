@@ -1,1 +1,1 @@
-var mnemonic = "nurse hat fresh glove plug goat dirt room twin sad become eight";
+var mnemonic = "sudden power ketchup hundred rifle feel satisfy agent laptop prison vivid wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "snake top disorder tell gentle onion gas junk reflect entire abuse mimic";
+var mnemonic = "bean extend client fish flower jar bike there story voice jelly artwork";

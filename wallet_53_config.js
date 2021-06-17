@@ -1,1 +1,1 @@
-var mnemonic = "foam beauty noodle oxygen chuckle possible slight safe catch oyster addict file";
+var mnemonic = "laundry increase frequent bacon gain this shiver wedding beach submit kiwi effort";

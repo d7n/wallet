@@ -1,1 +1,1 @@
-var mnemonic = "tube flat market fork expand puppy gun spice rebel myth general sketch";
+var mnemonic = "glass elephant exercise hospital genius define giggle dose federal survey scare forward";

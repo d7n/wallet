@@ -1,1 +1,1 @@
-var mnemonic = "exit predict myth bean amazing joke chef gate hood total any accuse";
+var mnemonic = "canvas cram chest crawl wool differ cause expire seminar miss man floor";

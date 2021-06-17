@@ -1,1 +1,1 @@
-var mnemonic = "wine treat grass casino unusual nuclear sadness teach shoot drift advice knife";
+var mnemonic = "film oil couch name lunch dinosaur innocent nature cat wrist wink century";

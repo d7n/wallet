@@ -1,1 +1,1 @@
-var mnemonic = "survey sniff tissue height idle vacant dirt acid curtain light pen gather";
+var mnemonic = "follow critic orbit bulb caution truck honey online direct stand blush arch";

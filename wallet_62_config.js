@@ -1,1 +1,1 @@
-var mnemonic = "obtain pioneer coast off rice short defense spatial destroy office lonely shift";
+var mnemonic = "mix used remember coach utility because secret combine prosper wrist attack taste";

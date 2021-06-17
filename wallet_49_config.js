@@ -1,1 +1,1 @@
-var mnemonic = "path error hat gym era debate flame level correct cash identify relax";
+var mnemonic = "drive retreat pool iron decorate hair time reason link chef bid major";

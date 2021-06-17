@@ -1,1 +1,1 @@
-var mnemonic = "spell bike promote nominee clutch ghost require remain clever inherit hungry story";
+var mnemonic = "umbrella outside grant dish history access work ankle mad front deputy pet";

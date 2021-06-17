@@ -1,1 +1,1 @@
-var mnemonic = "repair penalty cart wrap clown mom shrimp hair material scatter nation crisp";
+var mnemonic = "mechanic infant combine pottery picture main oil peasant security seed flip leader";

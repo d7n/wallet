@@ -1,1 +1,1 @@
-var mnemonic = "burger universe bunker subject fossil agent snow ball excess ski vast define";
+var mnemonic = "that cause faint current target pen spatial better foster manual power destroy";

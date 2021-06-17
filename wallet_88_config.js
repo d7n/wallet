@@ -1,1 +1,1 @@
-var mnemonic = "furnace brick junior moment clip repair pumpkin flee all matter tackle summer";
+var mnemonic = "nuclear give mule snap jump educate velvet remember trust cupboard desert salute";

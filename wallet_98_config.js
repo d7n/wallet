@@ -1,1 +1,1 @@
-var mnemonic = "subject joke much chronic such toddler eternal spirit agree invest same salmon";
+var mnemonic = "casino divert wrap cargo cart opinion city settle devote climb grain soap";

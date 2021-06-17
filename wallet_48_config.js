@@ -1,1 +1,1 @@
-var mnemonic = "they gate prepare entire dial twin until good lens grass gesture electric";
+var mnemonic = "round kitten oak plate escape fancy remember guide patrol twin despair panda";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit table jelly body birth sustain seven dash leopard lyrics ozone ship";
+var mnemonic = "legend drama menu future weapon bonus word horse fiber share solid garlic";

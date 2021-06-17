@@ -1,1 +1,1 @@
-var mnemonic = "drop canyon exotic dinosaur spoil spare pulse valley change reform praise govern";
+var mnemonic = "mask recall salute rapid party add setup oyster ribbon charge noodle tone";

@@ -1,1 +1,1 @@
-var mnemonic = "toss music team gallery predict copy river parrot iron soccer lazy leg";
+var mnemonic = "machine argue seven clock exclude heavy corn spread royal arrow stool garage";

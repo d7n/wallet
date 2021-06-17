@@ -1,1 +1,1 @@
-var mnemonic = "indicate trigger edit hybrid injury kidney target eight split news metal label";
+var mnemonic = "wrestle jar daughter pact mean valley box victory prosper friend inform negative";

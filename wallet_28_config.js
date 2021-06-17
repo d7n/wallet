@@ -1,1 +1,1 @@
-var mnemonic = "report early tattoo tuition basket time pause kite cost thought zero elite";
+var mnemonic = "purpose avoid dress version found setup initial joy manual strong slam wasp";

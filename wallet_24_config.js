@@ -1,1 +1,1 @@
-var mnemonic = "tired inject tool glance sponsor civil act three country universe page hard";
+var mnemonic = "exclude trash evoke attract day strike fine fix genius science senior endless";

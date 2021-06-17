@@ -1,1 +1,1 @@
-var mnemonic = "cross immune know celery monkey abstract balcony address jazz believe uncover swap";
+var mnemonic = "brave doll crawl you monster promote certain average stand wisdom document envelope";

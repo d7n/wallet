@@ -1,1 +1,1 @@
-var mnemonic = "kitten attack weird wet neglect harsh cram camera aspect video install word";
+var mnemonic = "hood predict horror mask else purpose supreme panda coin surge object curve";

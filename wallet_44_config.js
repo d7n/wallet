@@ -1,1 +1,1 @@
-var mnemonic = "annual lobster rookie repair shy any together drive squeeze fit define defy";
+var mnemonic = "spatial toilet thrive plunge exact wrestle long silly post siege craft happy";

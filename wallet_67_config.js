@@ -1,1 +1,1 @@
-var mnemonic = "cargo afraid tree loud viable window share artwork detail galaxy kitchen moment";
+var mnemonic = "wrong wire parent rice crash sick rapid sport situate friend lobster forward";

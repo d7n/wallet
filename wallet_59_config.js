@@ -1,1 +1,1 @@
-var mnemonic = "opinion flame olympic save unaware repair situate plunge bargain card control day";
+var mnemonic = "lottery peace dinner sauce absorb vapor crisp degree such rare hamster lab";

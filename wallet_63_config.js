@@ -1,1 +1,1 @@
-var mnemonic = "stand plug liar decade isolate dumb ranch invite shield gravity fog leopard";
+var mnemonic = "device soul tissue risk fever clerk lucky silk sniff surface beauty fold";

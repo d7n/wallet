@@ -1,1 +1,1 @@
-var mnemonic = "nature diesel sail brisk truly local royal law dwarf obey random one";
+var mnemonic = "avoid weekend alarm cabin gauge great matrix again coconut magic roof reunion";
