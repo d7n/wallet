@@ -1,1 +1,1 @@
-var mnemonic = "once fish offer bracket rabbit material enroll deposit beauty circle turn begin";
+var mnemonic = "tragic photo piano round upon blood want clean inside agent act program";

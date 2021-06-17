@@ -1,1 +1,1 @@
-var mnemonic = "month select adult penalty inspire seminar magic glass intact twice exclude uncover";
+var mnemonic = "draft spider review dragon window name survey feel supply napkin knock other";

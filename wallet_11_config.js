@@ -1,1 +1,1 @@
-var mnemonic = "alley task festival april hen elite depend repeat unaware notable pool mandate";
+var mnemonic = "sense twin priority history inflict two filter spot trend must vacuum witness";

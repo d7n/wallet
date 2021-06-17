@@ -1,1 +1,1 @@
-var mnemonic = "aim great season fluid final bring decline depend educate fox tribe orient";
+var mnemonic = "actor pencil super anxiety disease depend clinic hurry squirrel foil end pony";

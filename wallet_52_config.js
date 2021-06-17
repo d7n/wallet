@@ -1,1 +1,1 @@
-var mnemonic = "hurdle cook gesture effort van stay dwarf party game turtle bitter couple";
+var mnemonic = "exact perfect worry comic exhibit charge fish gallery useful spoil tackle scare";

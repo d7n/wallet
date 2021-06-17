@@ -1,1 +1,1 @@
-var mnemonic = "major rail nasty love fall expose code gravity purchase obscure labor gold";
+var mnemonic = "false clay property target oyster bid correct tomorrow retire hungry make project";

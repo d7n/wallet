@@ -1,1 +1,1 @@
-var mnemonic = "rival involve clean loud about nephew online fan emotion blame siege caution";
+var mnemonic = "hole plunge glass buddy erase diet sand tool mosquito rebuild scan cousin";

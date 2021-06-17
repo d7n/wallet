@@ -1,1 +1,1 @@
-var mnemonic = "car sample battle armor biology panel travel gasp tag apple tiny drum";
+var mnemonic = "broom today brand parent bean salt shrimp twin remove then modify odor";

@@ -1,1 +1,1 @@
-var mnemonic = "help light fly category machine clinic elegant real orphan next ethics admit";
+var mnemonic = "master unfair duty train obtain dice cry nominee chair flavor capable bean";

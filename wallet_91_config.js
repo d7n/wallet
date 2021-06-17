@@ -1,1 +1,1 @@
-var mnemonic = "arm tourist normal indoor tape wrong unit mix barrel mimic black shield";
+var mnemonic = "piano license cart boy enact paddle host okay check foam unlock liberty";

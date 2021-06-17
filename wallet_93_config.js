@@ -1,1 +1,1 @@
-var mnemonic = "morning guard leisure explain maze sail fun disease someone find employ sport";
+var mnemonic = "quality language report obvious warfare episode twist anxiety stamp salmon apology doll";

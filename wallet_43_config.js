@@ -1,1 +1,1 @@
-var mnemonic = "essay scatter slow report burst error seed shine calm inquiry fringe fancy";
+var mnemonic = "target caught wrong dial egg lawsuit brain payment canoe runway clog issue";

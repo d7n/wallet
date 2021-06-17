@@ -1,1 +1,1 @@
-var mnemonic = "screen rookie equip flame double purity suspect make piano tell captain quit";
+var mnemonic = "odor vendor immense lamp cinnamon story flight march gospel faint poverty grain";

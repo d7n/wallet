@@ -1,1 +1,1 @@
-var mnemonic = "file music west horse notable shoot unlock mystery bar episode soccer drum";
+var mnemonic = "excess honey tiger dust spider coffee local wink crack moment address culture";

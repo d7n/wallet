@@ -1,1 +1,1 @@
-var mnemonic = "tennis host deal worth mask dynamic happy forest play fox warm brand";
+var mnemonic = "ladder shield glide alert timber weather magnet taste test afford rabbit blue";

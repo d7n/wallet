@@ -1,1 +1,1 @@
-var mnemonic = "unknown siren lamp roof crop deputy shoe addict hint mule follow liquid";
+var mnemonic = "art scale hope cube scheme viable horror elephant whisper brief height canal";

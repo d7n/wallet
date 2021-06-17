@@ -1,1 +1,1 @@
-var mnemonic = "later nation scan shoe naive payment media august fortune erode piece learn";
+var mnemonic = "isolate exhaust truck walk tonight boil dance pig around dove seat judge";

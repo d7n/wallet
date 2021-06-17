@@ -1,1 +1,1 @@
-var mnemonic = "asthma fossil hood only snap inject old vendor route arena upset brown";
+var mnemonic = "unusual rack tray opera kitten dove buddy season world frog nature aspect";

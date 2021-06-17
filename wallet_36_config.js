@@ -1,1 +1,1 @@
-var mnemonic = "gown lock busy sock humble public output space history any success picture";
+var mnemonic = "plunge service giraffe prison orbit hundred basket icon teach fade wrist demise";

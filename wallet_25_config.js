@@ -1,1 +1,1 @@
-var mnemonic = "month universe task spike float hood drive ride vital rare river join";
+var mnemonic = "marriage drill stamp stove evidence capable verb eye cliff daring time version";

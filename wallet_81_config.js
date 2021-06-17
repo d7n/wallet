@@ -1,1 +1,1 @@
-var mnemonic = "asset fee voice fit monitor true fade awake once tray club flavor";
+var mnemonic = "panic napkin hair fabric photo kid puppy doctor shy tissue foot fantasy";

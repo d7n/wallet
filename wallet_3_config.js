@@ -1,1 +1,1 @@
-var mnemonic = "ignore circle start absurd fitness crack rocket base image arrive erupt dry";
+var mnemonic = "mail hill invite portion buddy cause man acquire ski suffer wife erase";

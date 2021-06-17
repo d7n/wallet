@@ -1,1 +1,1 @@
-var mnemonic = "raw tongue orient monitor rally example assist shove surface genius flock amused";
+var mnemonic = "happy normal dentist charge observe love affair six put social hair zebra";

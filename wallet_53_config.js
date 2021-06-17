@@ -1,1 +1,1 @@
-var mnemonic = "exit satoshi must civil observe wave damp female sense unable tired smoke";
+var mnemonic = "absent place goddess nation bird attract cable system ecology acoustic alarm cost";

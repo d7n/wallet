@@ -1,1 +1,1 @@
-var mnemonic = "shift head valid possible judge sad supply video session vessel flower arch";
+var mnemonic = "solar speak mistake run okay goose tragic awesome envelope combine lady medal";

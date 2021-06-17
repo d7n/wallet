@@ -1,1 +1,1 @@
-var mnemonic = "chair dress hover crash loyal yellow slab patch timber arctic among one";
+var mnemonic = "address today emerge diesel picnic blossom click anger river seven curve alarm";

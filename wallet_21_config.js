@@ -1,1 +1,1 @@
-var mnemonic = "machine squirrel ensure wrestle unfair install wonder rate light common rescue peanut";
+var mnemonic = "when base blue edge north loud miss whale genius boost visual enroll";

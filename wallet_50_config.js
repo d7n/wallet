@@ -1,1 +1,1 @@
-var mnemonic = "deposit bone spawn frown melt captain alert series hour honey bitter raccoon";
+var mnemonic = "govern tank wool universe amount question acquire random one decorate remove fish";

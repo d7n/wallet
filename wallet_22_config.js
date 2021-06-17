@@ -1,1 +1,1 @@
-var mnemonic = "daring spell flower fury hurt syrup outer happy execute duty special cluster";
+var mnemonic = "about speak bar brain divert erode stumble mind special afford tongue occur";

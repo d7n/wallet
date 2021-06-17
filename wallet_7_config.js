@@ -1,1 +1,1 @@
-var mnemonic = "move wrap good below debris rookie degree desk lift program razor gain";
+var mnemonic = "mad fiction perfect thrive hotel target dry sketch float unfair ecology present";

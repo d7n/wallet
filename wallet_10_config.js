@@ -1,1 +1,1 @@
-var mnemonic = "able bulb envelope buzz manage nominee session swift blush still embark know";
+var mnemonic = "awesome spider ginger cushion talent guard odor mass mushroom famous mix insect";

@@ -1,1 +1,1 @@
-var mnemonic = "round average general cheese ensure brown suggest color slam rice sketch brief";
+var mnemonic = "drive trick sure road prize celery december web material license immune receive";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber kit involve person must toe dose first wet tonight hungry give";
+var mnemonic = "remind cook inner language penalty certain repeat broom scheme artefact wing twenty";

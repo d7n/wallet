@@ -1,1 +1,1 @@
-var mnemonic = "crawl size aerobic begin cycle goddess vote reunion vault know curtain photo";
+var mnemonic = "swing face start toast what situate fence gym hope engine shuffle flee";

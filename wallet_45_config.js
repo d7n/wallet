@@ -1,1 +1,1 @@
-var mnemonic = "main juice hint gold warm turn tenant evolve birth dash brick oven";
+var mnemonic = "example play dose salon toilet club food hen nice runway portion claim";

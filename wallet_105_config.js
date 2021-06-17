@@ -1,1 +1,1 @@
-var mnemonic = "bar polar trap bench program fury million hover rack hundred surprise define";
+var mnemonic = "then method transfer congress try fatal gadget coin broccoli figure sword pause";

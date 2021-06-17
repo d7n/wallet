@@ -1,1 +1,1 @@
-var mnemonic = "palace toss baby face neutral resource rural funny advice broom royal erode";
+var mnemonic = "senior half someone wasp young inmate toy denial slab because skin surge";

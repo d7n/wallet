@@ -1,1 +1,1 @@
-var mnemonic = "long champion yard enhance sunset donkey spend exit black prefer boil have";
+var mnemonic = "drop buzz coil used silent gain peanut cake quantum tortoise tape jar";

@@ -1,1 +1,1 @@
-var mnemonic = "outer solution farm genius wild gloom embody cabbage stamp solution acid silly";
+var mnemonic = "renew lava library aspect jazz almost fork voice only name pitch pull";

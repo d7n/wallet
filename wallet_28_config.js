@@ -1,1 +1,1 @@
-var mnemonic = "measure dawn fluid blur connect girl sleep lucky tomorrow olive kiwi leopard";
+var mnemonic = "ready pretty quote save portion give camp risk cat neck found fiscal";

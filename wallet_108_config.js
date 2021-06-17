@@ -1,1 +1,1 @@
-var mnemonic = "cupboard vocal pulse fall boat trouble grass admit paddle bike story staff";
+var mnemonic = "vessel reject unfair dragon dice mandate phrase teach solve merry bubble whip";

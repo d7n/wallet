@@ -1,1 +1,1 @@
-var mnemonic = "turkey amused differ delay response subway object guess announce ridge bike example";
+var mnemonic = "accident once maze armor violin example chat number atom elegant loan glue";

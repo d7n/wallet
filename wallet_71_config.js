@@ -1,1 +1,1 @@
-var mnemonic = "guitar only catalog asthma scout hobby swamp indicate work lobster tape state";
+var mnemonic = "two excuse utility radio voyage cost witness method inner merry swift wave";

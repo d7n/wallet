@@ -1,1 +1,1 @@
-var mnemonic = "siren congress agree away alarm sibling error push check dragon ticket salute";
+var mnemonic = "claim infant cigar buyer ranch blouse spirit release ball team loan balcony";

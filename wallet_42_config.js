@@ -1,1 +1,1 @@
-var mnemonic = "lobster happy sleep pulse truck tip frost device where can style now";
+var mnemonic = "clap divide surprise dragon cool fabric raccoon twice tone riot leave rebel";

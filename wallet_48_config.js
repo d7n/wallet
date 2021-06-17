@@ -1,1 +1,1 @@
-var mnemonic = "head bamboo impact trial dragon ostrich own catch trouble forget element spider";
+var mnemonic = "arrest wealth cross field decorate zebra cigar ill bridge skin slush fit";

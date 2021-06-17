@@ -1,1 +1,1 @@
-var mnemonic = "bless august clown initial castle crisp brain clip predict nephew account reunion";
+var mnemonic = "position plate diesel steel pepper cruise glimpse cart magnet recipe frozen museum";

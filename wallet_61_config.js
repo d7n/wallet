@@ -1,1 +1,1 @@
-var mnemonic = "cart cat connect wheat void all risk audit sea picnic tired feature";
+var mnemonic = "tape disease man evoke little voice edit involve model area early where";

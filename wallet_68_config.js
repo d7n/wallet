@@ -1,1 +1,1 @@
-var mnemonic = "sketch amount bacon hazard fuel echo craft fortune quality mean whip ensure";
+var mnemonic = "mule major wash estate decade confirm subway middle enough valley little cabbage";

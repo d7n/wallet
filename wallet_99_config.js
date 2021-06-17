@@ -1,1 +1,1 @@
-var mnemonic = "wrist filter ski catch mutual glance inflict lift vanish humor video whale";
+var mnemonic = "catalog stick basket satisfy noble mistake bus chalk load promote rally adapt";

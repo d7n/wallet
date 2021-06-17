@@ -1,1 +1,1 @@
-var mnemonic = "divide skin audit card sphere critic curtain entry video pledge oak miracle";
+var mnemonic = "scatter heavy eight rigid mango envelope focus expire pave dune mushroom company";

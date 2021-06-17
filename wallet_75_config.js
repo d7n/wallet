@@ -1,1 +1,1 @@
-var mnemonic = "repeat transfer truly boss camp type dress chair typical document front chat";
+var mnemonic = "avocado best void valid recall around truck whisper confirm insane skirt blur";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure broom season meat toss sheriff victory win bind good hero organ";
+var mnemonic = "flight chief flush spend thought nuclear disease naive world flash that rice";

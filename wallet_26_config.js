@@ -1,1 +1,1 @@
-var mnemonic = "trick effort early walnut admit slide seven gospel resist conduct consider fix";
+var mnemonic = "tray glad slow raw reduce pulp squirrel lottery habit require doctor pulp";

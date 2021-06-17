@@ -1,1 +1,1 @@
-var mnemonic = "uncle initial fan reflect false topic vault mistake grow vivid peanut trial";
+var mnemonic = "census actress chronic flame neutral dad loyal tape peanut private rapid pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile void bubble puzzle task purity west velvet tide add only couple";
+var mnemonic = "bomb random brand share unveil clutch picture slide food present loop tornado";

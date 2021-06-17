@@ -1,1 +1,1 @@
-var mnemonic = "meat canoe barely dose life drift truth farm pottery robust pattern theory";
+var mnemonic = "lottery visual tag punch lyrics insect issue critic bounce cake own sheriff";

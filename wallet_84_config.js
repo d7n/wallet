@@ -1,1 +1,1 @@
-var mnemonic = "mail body exact pipe slim stand stay shine wear harvest lemon glare";
+var mnemonic = "bottom proof horror filter roast know online ceiling praise alert clog believe";

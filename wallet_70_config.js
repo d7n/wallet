@@ -1,1 +1,1 @@
-var mnemonic = "method song skirt flee entry they bottom machine hamster need climb taxi";
+var mnemonic = "pioneer present cabin bright choice garlic real notable float script rival reflect";

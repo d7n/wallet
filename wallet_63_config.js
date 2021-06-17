@@ -1,1 +1,1 @@
-var mnemonic = "fame layer expect stuff head occur exchange warrior claw find lend ask";
+var mnemonic = "juice upper edit acquire lizard hotel staff insane cross clog daughter embody";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp verify chef swift shiver insane process defy cherry path flip stay";
+var mnemonic = "arrest camp jelly thumb cover carpet bonus stage beach wine throw cluster";

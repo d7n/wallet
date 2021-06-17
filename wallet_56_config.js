@@ -1,1 +1,1 @@
-var mnemonic = "transfer resource clerk humble parrot tenant device north issue lab answer snack";
+var mnemonic = "loop into spell corn spoon want pact include asset club bunker street";

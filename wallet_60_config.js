@@ -1,1 +1,1 @@
-var mnemonic = "vacant opera brave fault bundle resource slim glass mammal rookie renew wolf";
+var mnemonic = "jazz vibrant afraid brain voice human kind model great clever trigger crater";

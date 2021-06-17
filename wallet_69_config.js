@@ -1,1 +1,1 @@
-var mnemonic = "glimpse swamp gasp until erupt hair smooth craft march police detect more";
+var mnemonic = "vocal upon skirt kit switch patient plate south regret expect chronic special";

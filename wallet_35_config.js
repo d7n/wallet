@@ -1,1 +1,1 @@
-var mnemonic = "plunge web horn alcohol success essay absent laundry web lend vacuum door";
+var mnemonic = "stem welcome burger perfect cereal across vacant drink jaguar anchor win lemon";

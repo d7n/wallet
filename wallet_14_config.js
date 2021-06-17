@@ -1,1 +1,1 @@
-var mnemonic = "setup blanket slender only cluster spatial lumber afraid cable forward burst remember";
+var mnemonic = "doctor fiction feel symbol radar night gadget hazard rigid real into trip";

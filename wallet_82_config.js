@@ -1,1 +1,1 @@
-var mnemonic = "sport local soda west jacket tilt grace audit length bench topic cream";
+var mnemonic = "point awesome front dignity client title situate shoe raccoon feel sniff possible";

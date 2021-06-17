@@ -1,1 +1,1 @@
-var mnemonic = "hair permit fiscal blossom erase disease hand chunk crack between expect gentle";
+var mnemonic = "spend sunny sound zoo denial flash cement gravity sell switch puzzle street";

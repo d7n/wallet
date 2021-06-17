@@ -1,1 +1,1 @@
-var mnemonic = "angle physical ostrich upon local local power still skate vintage negative leave";
+var mnemonic = "vanish kitchen veteran foam ocean patient water slam fitness quick version hill";

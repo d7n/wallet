@@ -1,1 +1,1 @@
-var mnemonic = "conduct early donkey extra typical country they welcome science what hill run";
+var mnemonic = "leisure robot physical mansion piano enemy dust lucky pipe donor habit oven";

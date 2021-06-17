@@ -1,1 +1,1 @@
-var mnemonic = "give expand swear royal arctic bike canal side resource vehicle coach pumpkin";
+var mnemonic = "car fury champion tray reward evoke glance stadium renew chest mechanic bacon";

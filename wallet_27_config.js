@@ -1,1 +1,1 @@
-var mnemonic = "proof wheat mule broom victory setup gloom large copper cover group kingdom";
+var mnemonic = "door inquiry logic width rent embrace spin skin skill sudden dumb false";

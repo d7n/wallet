@@ -1,1 +1,1 @@
-var mnemonic = "guess gauge vast neglect divide fade lizard throw payment miss frog travel";
+var mnemonic = "remove type juice soldier brass program feature umbrella fan sentence plate dog";

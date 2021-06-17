@@ -1,1 +1,1 @@
-var mnemonic = "artist noise lens tag acquire way autumn hello upon olympic omit audit";
+var mnemonic = "girl divert foot beyond recycle home season whisper young local grit ill";

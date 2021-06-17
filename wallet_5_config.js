@@ -1,1 +1,1 @@
-var mnemonic = "inquiry dance tornado forest pride night mother soul gentle make load energy";
+var mnemonic = "coil audit pill pledge corn easily sister open either coin tribe wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "strong flush deputy peace humble need myth feed damage butter humor dizzy";
+var mnemonic = "finger reform acid urge panel alpha rare thing leaf ridge latin can";

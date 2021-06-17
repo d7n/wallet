@@ -1,1 +1,1 @@
-var mnemonic = "rich neck buzz cinnamon woman else pyramid relief maximum swap mistake mistake";
+var mnemonic = "maid peace bamboo antique alien cry voice forest meadow exhaust phone cost";

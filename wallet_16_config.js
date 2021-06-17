@@ -1,1 +1,1 @@
-var mnemonic = "convince damage noble artwork goose cigar glove antenna music crew basic any";
+var mnemonic = "auto save punch random just deal wait loyal cigar explain critic swarm";

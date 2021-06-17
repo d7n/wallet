@@ -1,1 +1,1 @@
-var mnemonic = "violin evidence flip jealous display execute basket lonely turtle flag token gesture";
+var mnemonic = "tiny hotel mesh mad afford sound alarm pride verb grief hurt leopard";

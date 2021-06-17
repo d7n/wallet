@@ -1,1 +1,1 @@
-var mnemonic = "oak rent trust year shrug power fluid bridge okay dash coast shallow";
+var mnemonic = "cash attend pink length lecture galaxy panel tribe west language dentist lesson";

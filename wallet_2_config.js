@@ -1,1 +1,1 @@
-var mnemonic = "humble absent issue slight detail monster brush solid crunch butter zone express";
+var mnemonic = "device rocket load grape fantasy such symptom interest movie hamster coach master";

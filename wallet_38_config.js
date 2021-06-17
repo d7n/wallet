@@ -1,1 +1,1 @@
-var mnemonic = "now old prepare easily gauge mask mountain current tiger system liar key";
+var mnemonic = "creek double habit oppose pact motion inform nasty jeans alpha pilot tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "arena loyal actual toe garden hidden collect lion parrot stand thrive video";
+var mnemonic = "picture robot acid upon allow local soft snow issue hello entire right";

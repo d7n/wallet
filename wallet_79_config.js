@@ -1,1 +1,1 @@
-var mnemonic = "shop slogan hip trouble flip make insect pulse finger ribbon woman clerk";
+var mnemonic = "exile design silver hospital race frost still rifle equip example eternal onion";

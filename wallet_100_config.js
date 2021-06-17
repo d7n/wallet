@@ -1,1 +1,1 @@
-var mnemonic = "pen behave caught profit hamster audit witness daughter gold fade urban usual";
+var mnemonic = "document guard vocal connect float crawl broken traffic august sure bring vessel";

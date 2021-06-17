@@ -1,1 +1,1 @@
-var mnemonic = "rain swallow loud artist pretty spread feel fancy chest fashion vicious chest";
+var mnemonic = "nerve cause tag scorpion emerge spy someone leader day local fetch step";

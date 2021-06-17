@@ -1,1 +1,1 @@
-var mnemonic = "mobile school egg citizen neglect act ready purpose panther find truck borrow";
+var mnemonic = "pig nephew wave seek carpet glow dust around pave trial whip quick";

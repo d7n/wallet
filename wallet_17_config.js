@@ -1,1 +1,1 @@
-var mnemonic = "reward army few morning start ski exercise year year stadium eagle visa";
+var mnemonic = "swear group scout ivory tiger diary describe note farm bachelor piano pink";

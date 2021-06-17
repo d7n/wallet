@@ -1,1 +1,1 @@
-var mnemonic = "volcano person timber visit crisp admit comfort leader keen share day mosquito";
+var mnemonic = "sheriff flag weasel outside bonus core pattern planet shoot camera twin accuse";

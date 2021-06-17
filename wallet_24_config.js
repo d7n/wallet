@@ -1,1 +1,1 @@
-var mnemonic = "patch toy fetch grass glory awkward piece glare rally doctor ripple sugar";
+var mnemonic = "distance jacket discover whip crumble diet gasp tumble strike spawn tell excess";

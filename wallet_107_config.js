@@ -1,1 +1,1 @@
-var mnemonic = "priority nice promote already stove noise conduct slide clock parrot seminar skirt";
+var mnemonic = "stem venture smoke patient during opera crazy dawn cash guitar faint thumb";

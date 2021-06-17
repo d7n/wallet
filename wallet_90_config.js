@@ -1,1 +1,1 @@
-var mnemonic = "reform letter agent hole debris bullet thank sand unlock drink bread parrot";
+var mnemonic = "amused load escape custom sausage praise coast scissors where trend awkward laundry";

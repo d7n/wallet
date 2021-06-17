@@ -1,1 +1,1 @@
-var mnemonic = "city million first double stay asthma fitness broom oppose exchange fashion battle";
+var mnemonic = "seat apple supreme farm nose train winter duty mean route purpose illegal";
