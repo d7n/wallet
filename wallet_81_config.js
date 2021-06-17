@@ -1,1 +1,1 @@
-var mnemonic = "veteran intact eye carpet core length together improve rate vibrant zoo false";
+var mnemonic = "false fury illegal river suit virus inner top sock mosquito knife left";

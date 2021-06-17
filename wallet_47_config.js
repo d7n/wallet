@@ -1,1 +1,1 @@
-var mnemonic = "pond curtain senior celery sail cruise almost merry online visual gaze best";
+var mnemonic = "artwork wool dinosaur sauce nerve mask alone exclude cross ridge grocery lecture";

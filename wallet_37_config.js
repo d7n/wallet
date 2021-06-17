@@ -1,1 +1,1 @@
-var mnemonic = "clip festival that capable yellow this sight pelican enhance bacon strategy ancient";
+var mnemonic = "arena rotate job picture dial avocado puzzle sibling fragile remind pluck arch";

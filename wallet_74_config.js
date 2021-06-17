@@ -1,1 +1,1 @@
-var mnemonic = "predict clerk elegant sudden tape example lunch blast cross cement noise slab";
+var mnemonic = "what rail muscle crash winner brave eye say unhappy urge under infant";

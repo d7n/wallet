@@ -1,1 +1,1 @@
-var mnemonic = "reform claim open note crack pitch kick hard adult napkin spray dinosaur";
+var mnemonic = "protect thank math card fix gauge output obtain absurd attitude spare gaze";

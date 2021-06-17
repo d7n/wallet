@@ -1,1 +1,1 @@
-var mnemonic = "beyond memory april choose vague forward renew loop casual provide gym violin";
+var mnemonic = "exclude filter crouch canal refuse wife repair expand upper six jungle library";

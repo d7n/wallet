@@ -1,1 +1,1 @@
-var mnemonic = "round toward wire weapon vivid balance artefact jewel bicycle wall neglect wash";
+var mnemonic = "nose merge direct tube twin liquid fitness riot marriage around topic risk";

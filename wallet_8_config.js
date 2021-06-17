@@ -1,1 +1,1 @@
-var mnemonic = "flash dinosaur nerve know trash cry asset shoe sibling limb reward buzz";
+var mnemonic = "siege turn measure season tiny success above inherit below keep planet fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "index tumble three job issue warm syrup sock false brain spoon goat";
+var mnemonic = "tumble mean rain call mandate blast couple exercise curious stand evoke obscure";

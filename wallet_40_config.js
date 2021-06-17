@@ -1,1 +1,1 @@
-var mnemonic = "misery vital panther twelve ladder lift domain swing act crucial general light";
+var mnemonic = "amateur bunker airport cash fatal shrug math bright acquire tattoo infant frame";

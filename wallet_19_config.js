@@ -1,1 +1,1 @@
-var mnemonic = "senior then rebel quick banner sword major blind guitar clutch carpet fluid";
+var mnemonic = "coach tide hope purchase air dutch ball echo excess bridge river before";

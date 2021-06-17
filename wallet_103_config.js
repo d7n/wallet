@@ -1,1 +1,1 @@
-var mnemonic = "noble quarter detect trash else window power mesh brisk decrease nerve ceiling";
+var mnemonic = "adult rebel report hybrid cute feature object orange opera explain hobby slide";

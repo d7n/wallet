@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow season tray answer until radio polar verify system rib wash system";
+var mnemonic = "wrong loud finish tray myself local toward indoor song screen enact photo";

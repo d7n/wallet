@@ -1,1 +1,1 @@
-var mnemonic = "embark senior hero key inflict three acid laugh repair era chuckle again";
+var mnemonic = "slab swap hard scout minute dress away van tomato small robot off";

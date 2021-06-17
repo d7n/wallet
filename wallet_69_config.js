@@ -1,1 +1,1 @@
-var mnemonic = "sport will prize tunnel parrot section during avocado round pet easy intact";
+var mnemonic = "love fiscal rival regular bundle galaxy sorry truly enough chicken balance way";

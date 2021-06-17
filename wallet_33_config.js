@@ -1,1 +1,1 @@
-var mnemonic = "sniff code assist bottom marriage faculty muscle claim snake social alpha glow";
+var mnemonic = "gold bulb first symbol exotic town teach rebuild release nurse end tag";

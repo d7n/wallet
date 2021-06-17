@@ -1,1 +1,1 @@
-var mnemonic = "wine unfair citizen harvest water dirt repair address number credit burst glide";
+var mnemonic = "slush affair hill night unveil crime shed city future amateur upon trophy";

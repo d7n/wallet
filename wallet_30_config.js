@@ -1,1 +1,1 @@
-var mnemonic = "course account ill hood figure library unfold aisle shallow crunch dismiss toilet";
+var mnemonic = "knock early derive soup canvas ridge egg detect bleak junk coffee april";

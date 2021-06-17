@@ -1,1 +1,1 @@
-var mnemonic = "torch rotate pride bulk pyramid become woman police wrist pony finger earth";
+var mnemonic = "height magic welcome ceiling valve betray moral weekend weekend drill suit recipe";

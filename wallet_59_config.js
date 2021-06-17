@@ -1,1 +1,1 @@
-var mnemonic = "audit obscure pole sustain pen apology day ski mango tail tray afford";
+var mnemonic = "sustain soap rain ship divide gold parent display upset disagree peace essay";

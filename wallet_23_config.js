@@ -1,1 +1,1 @@
-var mnemonic = "tone seed solution arrest patrol journey expand draft volume basket raven merry";
+var mnemonic = "live trip light vast proof surge myth fish proof song juice grace";

@@ -1,1 +1,1 @@
-var mnemonic = "viable file defy allow critic because worry pen fortune sting night smart";
+var mnemonic = "congress you pigeon scan search keen canvas choose neck waste stick where";

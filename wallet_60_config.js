@@ -1,1 +1,1 @@
-var mnemonic = "cycle gauge hour blood right notice memory correct surge three board clutch";
+var mnemonic = "flight save dragon chest genuine more brother track total camera forest victory";

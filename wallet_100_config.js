@@ -1,1 +1,1 @@
-var mnemonic = "suffer turtle physical wool mosquito rotate unhappy lawn rescue actor soap void";
+var mnemonic = "taxi click giraffe camera toward timber shaft odor dry abandon yard raven";

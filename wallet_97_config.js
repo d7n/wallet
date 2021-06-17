@@ -1,1 +1,1 @@
-var mnemonic = "seminar range apple waste foster allow trap march witness slice label rack";
+var mnemonic = "shield first host jewel staff amount jacket motor prepare coffee degree slush";

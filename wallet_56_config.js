@@ -1,1 +1,1 @@
-var mnemonic = "embrace organ flee leaf law battle motor buyer ketchup describe patrol near";
+var mnemonic = "antenna enter law element lava flip indicate beach patch capital poet blade";

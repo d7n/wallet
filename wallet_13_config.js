@@ -1,1 +1,1 @@
-var mnemonic = "duty stable acid job era fame satisfy detail frog lounge helmet dust";
+var mnemonic = "humble machine mix pencil hidden jelly goddess fancy step giraffe notice famous";

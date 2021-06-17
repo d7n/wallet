@@ -1,1 +1,1 @@
-var mnemonic = "jealous sample hobby hockey argue seed thumb remain cash utility shell put";
+var mnemonic = "village bar crop drastic keen carbon nice offer hello wheat purse dry";

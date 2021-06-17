@@ -1,1 +1,1 @@
-var mnemonic = "cliff boring onion observe upper table world copper combine chapter retire source";
+var mnemonic = "found crew sausage bar silly eagle depend warm short glow reform differ";

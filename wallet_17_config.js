@@ -1,1 +1,1 @@
-var mnemonic = "pave admit force farm economy peanut swap crucial mom stem clog agent";
+var mnemonic = "mandate rose october breeze age oil easy van foil artwork rain oil";

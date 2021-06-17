@@ -1,1 +1,1 @@
-var mnemonic = "napkin symptom other alert lens slot bargain relax begin quantum person plunge";
+var mnemonic = "stuff into try between draw kick marriage erode help burger essence material";

@@ -1,1 +1,1 @@
-var mnemonic = "slender erode similar stage chunk deal hundred pilot radar jaguar curious august";
+var mnemonic = "habit limb proud orient tourist degree turn uphold erode second cluster fitness";

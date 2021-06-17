@@ -1,1 +1,1 @@
-var mnemonic = "wagon laugh absent bid resemble hover love suit face birth cousin glue";
+var mnemonic = "attack this order horse enemy shield pave hope advice half inch fish";

@@ -1,1 +1,1 @@
-var mnemonic = "month tenant census oblige type humble scissors bridge custom protect next someone";
+var mnemonic = "car fluid float globe upgrade zoo veteran arch symbol smooth race diamond";

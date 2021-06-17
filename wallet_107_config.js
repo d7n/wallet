@@ -1,1 +1,1 @@
-var mnemonic = "capital firm super lady tank wash absorb outside anchor industry ice place";
+var mnemonic = "island duty loyal left glare energy infant senior lens never book game";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi myself burden devote yellow river observe focus before goose unveil wedding";
+var mnemonic = "lizard time grid ozone wear side stadium crater muffin gather powder dolphin";

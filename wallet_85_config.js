@@ -1,1 +1,1 @@
-var mnemonic = "arrange earth release tomato valid find expect buyer spice winner tobacco bulb";
+var mnemonic = "bundle claim offer seat famous electric pool used lion rare quarter music";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion empty view urban head climb orchard spice only text outside escape";
+var mnemonic = "output pulse pet cliff chuckle sorry recipe section similar attract attitude keep";

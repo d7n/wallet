@@ -1,1 +1,1 @@
-var mnemonic = "little disagree until genius inhale envelope inflict ocean edit jelly clump collect";
+var mnemonic = "betray lens tourist dragon share boring lift basic arrow valley vocal dress";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant immune treat floor language opinion donate zoo cry kiss hollow polar";
+var mnemonic = "balance inch rude hazard kite choice wall figure inform vacuum approve section";

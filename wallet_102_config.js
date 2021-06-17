@@ -1,1 +1,1 @@
-var mnemonic = "segment movie athlete idle display dumb provide hospital gravity hybrid short draft";
+var mnemonic = "coconut festival peasant vocal sell arrest glass tent promote pilot immune glare";

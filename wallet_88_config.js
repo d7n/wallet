@@ -1,1 +1,1 @@
-var mnemonic = "hard follow circle soft during athlete fine island bundle truth fiber miss";
+var mnemonic = "gasp oval neither seek fury sorry silver ocean fragile enjoy smart fat";

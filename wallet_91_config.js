@@ -1,1 +1,1 @@
-var mnemonic = "over human early announce source pepper vapor shuffle lumber combine script pulp";
+var mnemonic = "orient curtain robot wreck jewel knock trade usual lawsuit scheme proof nurse";

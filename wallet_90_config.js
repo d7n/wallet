@@ -1,1 +1,1 @@
-var mnemonic = "unfair unknown quarter hollow quarter above domain runway shoe lottery wage smooth";
+var mnemonic = "question half holiday play notice hurdle page else amount leaf library usage";

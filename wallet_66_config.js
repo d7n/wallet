@@ -1,1 +1,1 @@
-var mnemonic = "injury curious must fragile ill awake yard cream resemble token grab layer";
+var mnemonic = "estate swear boil walnut era offer pill welcome coin alpha crush valve";

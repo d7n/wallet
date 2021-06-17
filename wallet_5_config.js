@@ -1,1 +1,1 @@
-var mnemonic = "debris sting shuffle topple choice rule play spin common knee feature garment";
+var mnemonic = "naive high weird veteran donkey faint guide citizen document virus inner update";

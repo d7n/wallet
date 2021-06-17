@@ -1,1 +1,1 @@
-var mnemonic = "title relief royal evolve myth goat split eagle near banner head room";
+var mnemonic = "loop keep blossom shed first wild visit peanut ceiling struggle height order";

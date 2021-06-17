@@ -1,1 +1,1 @@
-var mnemonic = "begin link surge now trend soon rapid surround girl shoot vacant mushroom";
+var mnemonic = "crunch person swallow pull wet category ribbon album awkward trial design true";

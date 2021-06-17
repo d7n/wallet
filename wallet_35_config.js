@@ -1,1 +1,1 @@
-var mnemonic = "buddy deposit dice volcano slush sunset fresh ability gas below gesture toilet";
+var mnemonic = "child stuff witness village body mystery amused citizen furnace tone rifle corn";

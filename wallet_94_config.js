@@ -1,1 +1,1 @@
-var mnemonic = "universe unfold whip guard luxury panther inhale alcohol tobacco kitchen about ritual";
+var mnemonic = "edge island flame limit country soda summer grow love that series boil";

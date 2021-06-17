@@ -1,1 +1,1 @@
-var mnemonic = "talent quote broken now athlete happy acquire cave worth quantum draw plug";
+var mnemonic = "squirrel absent blossom retreat push zoo grid oyster borrow lucky jewel tray";

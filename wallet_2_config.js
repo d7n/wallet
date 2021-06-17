@@ -1,1 +1,1 @@
-var mnemonic = "detail science admit invest tip power screen test sample want erupt move";
+var mnemonic = "salad entry need lyrics provide year rose fancy oppose quarter focus soap";

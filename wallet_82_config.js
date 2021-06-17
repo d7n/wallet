@@ -1,1 +1,1 @@
-var mnemonic = "excuse rally pool before best weird walnut alter aunt setup umbrella silver";
+var mnemonic = "forum boil purpose kangaroo hair merry saddle relax mosquito royal stairs blossom";

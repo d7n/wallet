@@ -1,1 +1,1 @@
-var mnemonic = "play better protect degree spoon apart broccoli inject hundred record material surprise";
+var mnemonic = "unit pumpkin finish clown tray capable shrimp credit business cotton bronze what";

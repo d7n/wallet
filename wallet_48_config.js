@@ -1,1 +1,1 @@
-var mnemonic = "rack job avoid bright trip vanish hour critic find tennis crime paper";
+var mnemonic = "weekend agent sign silver hammer hurdle hobby auction intact truly keep toward";

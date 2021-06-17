@@ -1,1 +1,1 @@
-var mnemonic = "scissors magic comic actual history subway rare ticket similar snake wheat glue";
+var mnemonic = "hint boil vocal balance axis debate evoke girl bar melt fault eyebrow";

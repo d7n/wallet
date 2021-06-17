@@ -1,1 +1,1 @@
-var mnemonic = "rookie pink cage trend rule scrub chest someone effort unhappy venue humble";
+var mnemonic = "rare account inmate fragile economy deposit moral lamp student spider collect few";

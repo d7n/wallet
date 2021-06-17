@@ -1,1 +1,1 @@
-var mnemonic = "swarm slush major food shop roof churn observe report coconut inflict sting";
+var mnemonic = "omit submit twin mirror gold tell glove blue teach rough tool essay";

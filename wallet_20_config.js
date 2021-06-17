@@ -1,1 +1,1 @@
-var mnemonic = "turn about situate nasty romance crunch couple blossom summer outdoor trophy hat";
+var mnemonic = "frequent tumble tackle water equal thrive nut road ten roast breeze artist";

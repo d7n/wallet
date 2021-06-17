@@ -1,1 +1,1 @@
-var mnemonic = "piano fog raccoon example fashion apart toddler about lawn mixed insane lava";
+var mnemonic = "either phrase jungle bonus trust kangaroo divert always walk what slush better";

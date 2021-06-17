@@ -1,1 +1,1 @@
-var mnemonic = "legend goddess hub useful join equip appear festival during inmate tattoo they";
+var mnemonic = "wash meat barely because exercise omit nuclear elder banana bag repeat kangaroo";

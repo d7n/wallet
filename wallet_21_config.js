@@ -1,1 +1,1 @@
-var mnemonic = "skin fun panic ship horse surprise mosquito cereal sport hybrid portion space";
+var mnemonic = "photo run primary glove hub cupboard century robot exchange earn truck struggle";

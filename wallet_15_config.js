@@ -1,1 +1,1 @@
-var mnemonic = "strategy hat spare domain rookie art airport frog hill there alert where";
+var mnemonic = "trumpet zone kangaroo ramp wedding jacket equal food decrease lumber strategy staff";

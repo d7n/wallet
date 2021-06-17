@@ -1,1 +1,1 @@
-var mnemonic = "lift spike witness resource live carbon tobacco enemy sniff assist arrange supply";
+var mnemonic = "history butter sound announce adult purchase rhythm rigid brass start sudden wear";

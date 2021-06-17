@@ -1,1 +1,1 @@
-var mnemonic = "clean detect cargo shallow draw better lumber citizen staff situate senior potato";
+var mnemonic = "ecology fog black license shield photo obey spend distance cargo spread deliver";

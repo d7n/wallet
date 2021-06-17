@@ -1,1 +1,1 @@
-var mnemonic = "defense fabric citizen gym plate climb state cross people banana near brother";
+var mnemonic = "margin discover rival novel cereal clerk town scissors weekend aunt unveil cook";

@@ -1,1 +1,1 @@
-var mnemonic = "movie leave note blanket toward easily promote wasp peanut drama attack smoke";
+var mnemonic = "track quantum light advice toast eternal yard nut zoo push gain first";

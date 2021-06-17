@@ -1,1 +1,1 @@
-var mnemonic = "elephant great stay misery jealous patient salad orange waste treat garlic motor";
+var mnemonic = "total promote that leg toy home bridge film start soldier useful afford";

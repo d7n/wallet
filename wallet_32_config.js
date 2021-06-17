@@ -1,1 +1,1 @@
-var mnemonic = "topic walk friend theory napkin naive matter merit powder winner world skin";
+var mnemonic = "morning theme credit dutch basic wage where quality merit enjoy behave cover";

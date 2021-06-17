@@ -1,1 +1,1 @@
-var mnemonic = "settle noble tattoo crouch puzzle member exile ozone divert evolve hint under";
+var mnemonic = "alcohol rate antique lemon fury letter inhale answer include slim provide garage";

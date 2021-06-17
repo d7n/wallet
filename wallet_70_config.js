@@ -1,1 +1,1 @@
-var mnemonic = "stove rabbit maple sting manual roast upset treat random alley small crane";
+var mnemonic = "alley moment skin glove pair proof catch strong culture rabbit meat shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "stem fiscal usual ignore first pave lunch subway upset able shaft run";
+var mnemonic = "term uncover bottom focus steak buddy ring pause park denial sausage answer";

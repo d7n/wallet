@@ -1,1 +1,1 @@
-var mnemonic = "lucky liar runway desk police arctic venue atom glass milk life honey";
+var mnemonic = "wrestle amused real close female brand vehicle gym mixed call rookie fossil";

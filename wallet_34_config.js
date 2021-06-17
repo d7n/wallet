@@ -1,1 +1,1 @@
-var mnemonic = "mesh mechanic casino jealous cave apology rather toss milk object core embody";
+var mnemonic = "promote season decide zero skull law nominee person deposit prosper victory total";

@@ -1,1 +1,1 @@
-var mnemonic = "throw goat off blame earth draft ready blue keen keen design apart";
+var mnemonic = "slight loop rent federal faint wonder upgrade keen lesson coyote cup frequent";

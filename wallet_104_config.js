@@ -1,1 +1,1 @@
-var mnemonic = "endorse rule rail spell sausage tackle cat song fame wing section video";
+var mnemonic = "vocal visit display detect renew easily draw mountain aspect fitness work human";

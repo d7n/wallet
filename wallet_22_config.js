@@ -1,1 +1,1 @@
-var mnemonic = "cupboard bamboo scheme nice extend reunion custom swap world trophy episode bunker";
+var mnemonic = "senior bench canyon add garage neglect sunset bitter valve sauce shock valid";

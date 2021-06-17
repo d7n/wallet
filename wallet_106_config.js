@@ -1,1 +1,1 @@
-var mnemonic = "love lucky worry priority label bachelor debris switch cause liberty antenna height";
+var mnemonic = "mule fitness rocket lake release income swamp assume major device resist lobster";

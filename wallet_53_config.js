@@ -1,1 +1,1 @@
-var mnemonic = "only about main year idea charge bottom clutch range summer tell carbon";
+var mnemonic = "area twist vital pretty million flush benefit area liquid junior crucial kangaroo";

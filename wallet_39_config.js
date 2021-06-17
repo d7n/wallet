@@ -1,1 +1,1 @@
-var mnemonic = "source cabbage impose song palace render subject flight west crack alley episode";
+var mnemonic = "hole tomorrow drink quarter coyote avoid hip club globe notable verify process";

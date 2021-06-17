@@ -1,1 +1,1 @@
-var mnemonic = "flash mercy opinion common abstract brain base pluck install render silver meadow";
+var mnemonic = "sign goddess shock toddler evolve put cinnamon airport genius finger impact champion";

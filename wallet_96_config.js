@@ -1,1 +1,1 @@
-var mnemonic = "width confirm mountain across cave require wonder shoot today catalog record awkward";
+var mnemonic = "grunt account pave unhappy cave chalk addict alcohol method kiss wise fuel";

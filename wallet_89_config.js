@@ -1,1 +1,1 @@
-var mnemonic = "judge certain stairs harbor inquiry erase brick cattle board fury trim film";
+var mnemonic = "manage lawsuit struggle taxi oppose deal enough delay super search regular spice";

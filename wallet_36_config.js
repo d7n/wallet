@@ -1,1 +1,1 @@
-var mnemonic = "army rug neglect grocery term social ticket grain token soldier flag return";
+var mnemonic = "sort art that arrange manage depart mix riot impact render trophy smooth";

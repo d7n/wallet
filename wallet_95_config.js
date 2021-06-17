@@ -1,1 +1,1 @@
-var mnemonic = "crisp crucial myth lemon bottom miss throw artefact edge month palm pottery";
+var mnemonic = "injury filter blade trim hard output suffer shed exhaust slot chair bag";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion when feature medal helmet network summer put gentle secret bind across";
+var mnemonic = "plug garden bind online robust shock park you finger flip calm pencil";

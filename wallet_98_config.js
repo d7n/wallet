@@ -1,1 +1,1 @@
-var mnemonic = "giraffe action cherry pistol omit cement junior present like lamp shy dirt";
+var mnemonic = "tail twelve before tourist rude six sausage spare solution piece salute number";

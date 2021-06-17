@@ -1,1 +1,1 @@
-var mnemonic = "voyage horror siren spread guitar similar rookie captain race arena rigid forward";
+var mnemonic = "student mutual repair aisle document empty club sort journey estate wild luxury";

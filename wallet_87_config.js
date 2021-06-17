@@ -1,1 +1,1 @@
-var mnemonic = "cancel move practice muffin note weapon industry urge december cry fabric grunt";
+var mnemonic = "convince kiwi leisure family vocal suggest wait hedgehog glass pact pigeon confirm";
