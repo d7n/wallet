@@ -1,1 +1,1 @@
-var mnemonic = "inherit jump bless vacant erode time input wink time carry soldier genius";
+var mnemonic = "mansion shoe cradle auction plastic world daughter planet nurse fabric vast student";

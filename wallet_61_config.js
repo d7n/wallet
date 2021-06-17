@@ -1,1 +1,1 @@
-var mnemonic = "echo extra ozone unit olive library prosper build sketch air critic maze";
+var mnemonic = "plastic found insect combine pretty replace gain tenant verb mesh spice gravity";

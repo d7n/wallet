@@ -1,1 +1,1 @@
-var mnemonic = "rival sword inflict mobile exit cave dish damage parent opinion witness mountain";
+var mnemonic = "post minimum agent ketchup neither inject object inhale boost dizzy asthma train";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase pretty hurry left side seed middle depth leopard board indicate acoustic";
+var mnemonic = "loop idea idle victory absorb diary ghost tourist hungry virus bargain boring";

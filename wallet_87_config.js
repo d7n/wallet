@@ -1,1 +1,1 @@
-var mnemonic = "couple dove hurt credit nice grape balcony fashion genuine future glow crowd";
+var mnemonic = "stove warfare stone scrap rebuild dry hope weekend calm cliff govern demand";

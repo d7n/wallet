@@ -1,1 +1,1 @@
-var mnemonic = "limit lesson program crane insane capital hire obvious atom invite material famous";
+var mnemonic = "wolf quarter later crop bird foster card evolve october bicycle anchor afraid";

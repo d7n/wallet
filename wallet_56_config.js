@@ -1,1 +1,1 @@
-var mnemonic = "purse trophy glide ball swarm similar note craft fiber duck wool ahead";
+var mnemonic = "above delay page follow balance film snap veteran poet dose nest mountain";

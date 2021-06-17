@@ -1,1 +1,1 @@
-var mnemonic = "mail limb regret window crawl post exchange place theme type pioneer eye";
+var mnemonic = "plate wrist dove kit sunset depth close innocent attract tired agree labor";

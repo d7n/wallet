@@ -1,1 +1,1 @@
-var mnemonic = "rely pizza wink cool scrap above episode trash way jacket police logic";
+var mnemonic = "canvas key route two dirt expose tilt enable cost visa climb chimney";

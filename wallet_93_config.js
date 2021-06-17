@@ -1,1 +1,1 @@
-var mnemonic = "horse throw brand also spirit jaguar high second lunch comic voyage anchor";
+var mnemonic = "finish nuclear swarm diary weird depth crew neither depth joke ill luggage";

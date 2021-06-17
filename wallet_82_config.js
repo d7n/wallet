@@ -1,1 +1,1 @@
-var mnemonic = "quote slide lab awake foil blade gravity decorate always hour song eye";
+var mnemonic = "gospel pretty drop congress fence pulp shell cart piano approve virtual major";

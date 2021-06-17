@@ -1,1 +1,1 @@
-var mnemonic = "galaxy figure park decorate sniff auto art cram announce image warrior flavor";
+var mnemonic = "awkward amused anchor soccer general mistake vehicle gift iron proud slam shallow";

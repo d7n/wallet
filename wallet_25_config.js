@@ -1,1 +1,1 @@
-var mnemonic = "drum rocket track awake heart author panic unfold future tube captain truth";
+var mnemonic = "fog hazard term usage reason reduce correct enlist kit panther cinnamon pistol";

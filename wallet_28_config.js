@@ -1,1 +1,1 @@
-var mnemonic = "view right dose avocado sample general coyote cram mushroom cash wild input";
+var mnemonic = "friend cave omit super boat wait pause use trash just deposit document";

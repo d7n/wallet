@@ -1,1 +1,1 @@
-var mnemonic = "dragon ginger orient shrimp scan close stand know track small uphold sniff";
+var mnemonic = "paddle pull debate era acoustic rate party place refuse wheel garage yard";

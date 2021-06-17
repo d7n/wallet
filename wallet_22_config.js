@@ -1,1 +1,1 @@
-var mnemonic = "cliff near region drastic music original south virus earth leaf father wink";
+var mnemonic = "left make radio credit lava dismiss puzzle secret merry hub glimpse pluck";

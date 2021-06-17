@@ -1,1 +1,1 @@
-var mnemonic = "rule disagree twice ketchup mechanic profit strong kitchen media throw festival tattoo";
+var mnemonic = "extend delay aisle open plug hood fun stick hurry there spray share";

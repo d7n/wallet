@@ -1,1 +1,1 @@
-var mnemonic = "outside agent adapt share duck clump water motor win wood scrap match";
+var mnemonic = "casual planet snap just bag mesh vault recall special zone cliff sort";

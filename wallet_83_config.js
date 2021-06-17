@@ -1,1 +1,1 @@
-var mnemonic = "grab tuna peanut typical guide warfare album super hamster humble wise verb";
+var mnemonic = "april filter poverty utility awful assume weapon eagle multiply hedgehog blame model";

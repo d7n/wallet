@@ -1,1 +1,1 @@
-var mnemonic = "inside fix enter viable drip patch stock drink pipe blush gain chronic";
+var mnemonic = "clean witness chunk hidden general suspect hazard joy virus favorite keen excuse";

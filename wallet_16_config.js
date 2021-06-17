@@ -1,1 +1,1 @@
-var mnemonic = "inherit ostrich clean define domain health service face resource enact bright lion";
+var mnemonic = "recycle rubber gorilla mystery exact embrace dignity chimney chef toddler civil artist";

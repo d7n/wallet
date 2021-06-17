@@ -1,1 +1,1 @@
-var mnemonic = "tissue robust gaze blast rebel frozen spring blue print yellow globe smoke";
+var mnemonic = "vacuum struggle fit neither into vocal addict antique energy inhale caught issue";

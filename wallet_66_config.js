@@ -1,1 +1,1 @@
-var mnemonic = "warrior exist obscure camp hat amused mimic nephew thunder shiver wide record";
+var mnemonic = "panic throw engine cancel meadow neither section orphan wonder guide tree iron";

@@ -1,1 +1,1 @@
-var mnemonic = "immune position local opinion sport salmon pave multiply estate photo bunker because";
+var mnemonic = "yard mercy trigger execute piano sphere floor decline forum school enemy nerve";

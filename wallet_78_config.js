@@ -1,1 +1,1 @@
-var mnemonic = "fence bottom road enroll promote escape pizza truly gym stand rate glad";
+var mnemonic = "toe jealous sail return phone early assault screen ketchup raven wrap east";

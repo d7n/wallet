@@ -1,1 +1,1 @@
-var mnemonic = "expand mind pelican enemy shock present narrow unable dove hole pottery series";
+var mnemonic = "hunt smart copper sniff gospel yard volume asthma more omit cave destroy";

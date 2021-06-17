@@ -1,1 +1,1 @@
-var mnemonic = "supreme alone august burden usual boss sponsor hold shrug merit ticket write";
+var mnemonic = "blind regular abuse lens chase lucky april gadget twist fluid news crumble";

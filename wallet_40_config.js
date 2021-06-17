@@ -1,1 +1,1 @@
-var mnemonic = "celery bike execute chimney wine pistol dry upgrade finish bread tragic harvest";
+var mnemonic = "elbow squeeze auction hedgehog dragon hero parrot perfect buyer chief fruit okay";

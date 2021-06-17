@@ -1,1 +1,1 @@
-var mnemonic = "flock goddess loyal item grit leopard this blame wish best spell moment";
+var mnemonic = "crowd journey agree alcohol clever peasant surface oval cycle waste fuel dolphin";

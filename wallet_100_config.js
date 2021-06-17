@@ -1,1 +1,1 @@
-var mnemonic = "worth often hollow divide dash correct gold achieve oak real end fee";
+var mnemonic = "sunny thumb peace lunch spawn patch aspect april wealth unique stable destroy";

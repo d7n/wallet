@@ -1,1 +1,1 @@
-var mnemonic = "remove crew goat spring involve cry dish together liberty black meat render";
+var mnemonic = "all silly certain famous foot invite snow version sword scheme catalog punch";

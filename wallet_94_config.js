@@ -1,1 +1,1 @@
-var mnemonic = "design item side express hand bid ordinary speak lawsuit soap minimum color";
+var mnemonic = "margin sort original soda artwork goddess afford vanish thank task inside item";

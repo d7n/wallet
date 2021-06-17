@@ -1,1 +1,1 @@
-var mnemonic = "home disorder swim sorry lion drink salon occur smooth tenant crazy lizard";
+var mnemonic = "lunch donor chicken omit lens tomato donate sand slush myth air raven";

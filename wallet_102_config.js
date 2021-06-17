@@ -1,1 +1,1 @@
-var mnemonic = "pink until vintage spin direct blast garden left climb select misery lumber";
+var mnemonic = "license rate eight script crash enlist sniff buzz drop picnic swamp service";

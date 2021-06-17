@@ -1,1 +1,1 @@
-var mnemonic = "sudden climb eternal fiber better illness confirm vault salute accident fiber foot";
+var mnemonic = "jewel flee artist february average shield one mimic robust track swim voice";

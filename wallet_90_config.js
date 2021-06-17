@@ -1,1 +1,1 @@
-var mnemonic = "party because dress swamp curious fuel fork budget husband attack slight spawn";
+var mnemonic = "misery salmon knock donkey hurry coil indoor actress nuclear raw pledge scrub";

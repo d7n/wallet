@@ -1,1 +1,1 @@
-var mnemonic = "hole piece company hurt bomb cheese advance letter idea wool cancel sound";
+var mnemonic = "betray wheat stool hedgehog book slice private stumble panel test loan diary";

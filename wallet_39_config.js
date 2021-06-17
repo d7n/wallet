@@ -1,1 +1,1 @@
-var mnemonic = "horse lunar embody recall depend broom advice holiday only subway fork short";
+var mnemonic = "mercy radar denial onion advance license decrease song first goat shoot define";

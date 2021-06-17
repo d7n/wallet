@@ -1,1 +1,1 @@
-var mnemonic = "correct busy nasty exchange pitch salad upgrade visit voice amused circle sudden";
+var mnemonic = "frown shaft foil foster entire saddle genius fiction reason write senior pipe";

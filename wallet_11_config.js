@@ -1,1 +1,1 @@
-var mnemonic = "tragic quote cash tip between buddy mountain turn clay stairs because second";
+var mnemonic = "fee recipe choice pony sock coach clarify sudden brother lobster pudding pause";

@@ -1,1 +1,1 @@
-var mnemonic = "sad soccer general clump weapon sing door canal relief original chaos tackle";
+var mnemonic = "reveal disorder soul security harvest beauty horn close amateur trim mother hockey";

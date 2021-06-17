@@ -1,1 +1,1 @@
-var mnemonic = "discover heavy machine marriage heart you decrease leisure can various number liar";
+var mnemonic = "fashion surprise toss business sudden gentle cliff security liberty window cliff tomorrow";

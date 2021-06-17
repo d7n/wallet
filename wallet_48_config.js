@@ -1,1 +1,1 @@
-var mnemonic = "vital upper effort edge estate main congress pudding valve month deliver brown";
+var mnemonic = "soda decade tube such brass distance fashion arch can fine apology fancy";

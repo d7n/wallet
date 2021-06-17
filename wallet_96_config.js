@@ -1,1 +1,1 @@
-var mnemonic = "shadow bridge wide reduce saddle oxygen thing swarm pear remind soon use";
+var mnemonic = "you school pizza forward talk dose section prize shadow shy route slide";

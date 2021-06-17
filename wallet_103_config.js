@@ -1,1 +1,1 @@
-var mnemonic = "spend expire session hard sustain spawn joy deputy six normal love again";
+var mnemonic = "witness since honey unable today spot plate shock sister fantasy steak pink";

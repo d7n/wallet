@@ -1,1 +1,1 @@
-var mnemonic = "urge matter apology fun remove identify middle reveal patient alley vital mixed";
+var mnemonic = "session way exit network more skill eagle camera true response impulse situate";

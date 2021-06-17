@@ -1,1 +1,1 @@
-var mnemonic = "decorate student setup gun animal public use shoot sun casino light layer";
+var mnemonic = "waste pull make woman nerve stand favorite twelve portion base family version";

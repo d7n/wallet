@@ -1,1 +1,1 @@
-var mnemonic = "imitate chapter entire struggle way pony curve tuna water sister indoor donor";
+var mnemonic = "oyster hammer prosper wood must embrace unaware day raccoon cage liberty consider";

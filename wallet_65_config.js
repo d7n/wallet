@@ -1,1 +1,1 @@
-var mnemonic = "fruit bonus lucky thought acid fantasy width patrol myth series portion input";
+var mnemonic = "rifle unhappy obvious cycle author subway display people poet recipe motor retreat";

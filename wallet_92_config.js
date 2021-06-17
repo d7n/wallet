@@ -1,1 +1,1 @@
-var mnemonic = "risk neglect they arctic country paper strategy mean answer lobster section save";
+var mnemonic = "deliver damage tribe kitchen height crew prosper weekend excuse convince bubble thought";

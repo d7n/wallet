@@ -1,1 +1,1 @@
-var mnemonic = "announce shift train kiss dream smile cancel misery album horse license crazy";
+var mnemonic = "human humble mix vendor gadget cross prefer hand intact monitor erosion surge";

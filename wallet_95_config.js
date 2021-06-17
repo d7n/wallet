@@ -1,1 +1,1 @@
-var mnemonic = "present announce material picture choice loan summer fossil crowd main job pool";
+var mnemonic = "kick cloth gain chicken tree hire coin neutral broccoli surface cage nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "develop acquire law candy member try carpet forest gadget demise fossil swear";
+var mnemonic = "volume limit amateur fat then muffin style romance coral sheriff method manage";

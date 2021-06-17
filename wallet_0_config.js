@@ -1,1 +1,1 @@
-var mnemonic = "uniform baby orphan ladder cram test source nature awful rescue hair result";
+var mnemonic = "now explain obey credit pudding tomorrow thumb wine peasant famous hold kit";

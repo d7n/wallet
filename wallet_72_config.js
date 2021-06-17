@@ -1,1 +1,1 @@
-var mnemonic = "truth identify avoid quality gauge hair correct agent crumble fabric rigid vapor";
+var mnemonic = "document motion nose immense small few example giraffe immune special comfort rebel";

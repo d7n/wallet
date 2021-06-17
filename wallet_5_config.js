@@ -1,1 +1,1 @@
-var mnemonic = "accuse lake divert skirt coconut inspire tackle point target october find tongue";
+var mnemonic = "goose husband relief start slab dinner stool soul language census scout total";

@@ -1,1 +1,1 @@
-var mnemonic = "letter rail negative together guard leisure banana rookie disagree virus trumpet where";
+var mnemonic = "cake march frost fabric seminar now push spell blood near satoshi funny";

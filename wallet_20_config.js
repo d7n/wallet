@@ -1,1 +1,1 @@
-var mnemonic = "symbol mule orange congress gentle gym cool electric loyal guilt void fringe";
+var mnemonic = "imitate item toss feature loud beef valley produce taxi gravity patch marriage";

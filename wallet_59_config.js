@@ -1,1 +1,1 @@
-var mnemonic = "visa either uniform dove ritual spot electric day light scout stage fit";
+var mnemonic = "tooth heart help limit donate usual february profit spy because choice faculty";

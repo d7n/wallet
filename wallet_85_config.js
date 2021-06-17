@@ -1,1 +1,1 @@
-var mnemonic = "opera exist punch deal grain two loan blood skate tuna slide stereo";
+var mnemonic = "model mixed client reopen hockey glare end ahead cupboard wheel snow please";

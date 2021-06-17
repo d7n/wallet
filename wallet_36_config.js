@@ -1,1 +1,1 @@
-var mnemonic = "remember flat outside embody garage eight globe excess access exhibit game wear";
+var mnemonic = "combine behave scrap fuel ancient witness siege blind relax company strike express";

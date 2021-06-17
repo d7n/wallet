@@ -1,1 +1,1 @@
-var mnemonic = "want margin couch erase alien assume police gap cancel author bacon dish";
+var mnemonic = "clump orange judge slide name gaze logic question govern ostrich foam lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "giraffe assume awesome lyrics divert confirm april problem vacant sponsor glass unknown";
+var mnemonic = "subject warm jump blue praise crazy need avoid grow solution vibrant square";

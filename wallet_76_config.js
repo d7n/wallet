@@ -1,1 +1,1 @@
-var mnemonic = "best print cake praise during earth snack roast together eagle inspire dignity";
+var mnemonic = "taxi cry pencil awkward question mad alley volcano choose hazard ancient swap";

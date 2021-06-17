@@ -1,1 +1,1 @@
-var mnemonic = "brave mechanic audit display shed please sample language upon exist health bachelor";
+var mnemonic = "prize must kid aerobic waste copy cliff vehicle quick nice grace item";

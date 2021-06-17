@@ -1,1 +1,1 @@
-var mnemonic = "uncle puzzle cycle aunt senior balcony brain zero expire expose organ rug";
+var mnemonic = "oxygen reason jump left best settle cabin expose web barely goat water";

@@ -1,1 +1,1 @@
-var mnemonic = "tree grocery width vehicle tattoo lend exotic impact truly off punch suspect";
+var mnemonic = "machine coconut owner file wheel seminar else sun expire snow trip board";

@@ -1,1 +1,1 @@
-var mnemonic = "post jacket uniform bleak already soap grit together during elbow seed slush";
+var mnemonic = "aware right cigar monster puppy imitate fat frame disease hen chimney animal";

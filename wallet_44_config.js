@@ -1,1 +1,1 @@
-var mnemonic = "clutch cinnamon carbon load address pudding snow want obvious version acid direct";
+var mnemonic = "click raise edit lunar oyster senior debate melody hover cricket mention indicate";

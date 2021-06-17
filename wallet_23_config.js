@@ -1,1 +1,1 @@
-var mnemonic = "spoon spawn pigeon tenant brave wedding garbage awesome equal warfare filter wolf";
+var mnemonic = "mixture dial great lunch home chronic path verify wash cool cream slight";

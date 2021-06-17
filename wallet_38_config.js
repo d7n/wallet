@@ -1,1 +1,1 @@
-var mnemonic = "gain emotion weird another quantum emerge mistake reduce tent guess fragile until";
+var mnemonic = "cabin always catalog solution borrow mesh pretty scout cattle color lizard turtle";

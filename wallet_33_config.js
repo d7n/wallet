@@ -1,1 +1,1 @@
-var mnemonic = "modify december apart siege panda mosquito embark proud entire speak stove impact";
+var mnemonic = "tunnel copy success glad rigid kind sister barrel mandate yellow next praise";

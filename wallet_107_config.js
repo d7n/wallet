@@ -1,1 +1,1 @@
-var mnemonic = "patient black love reform forest stumble member remind tilt credit knock noodle";
+var mnemonic = "ticket champion tackle neck huge enter trust concert pottery garage donor trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "order joke pumpkin misery dance suggest hat stamp thumb fossil magnet urge";
+var mnemonic = "popular cradle drink fat pact hazard stadium narrow rack kiss myself wrist";

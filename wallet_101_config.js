@@ -1,1 +1,1 @@
-var mnemonic = "smoke sheriff six occur clip industry speed daring stage hungry envelope already";
+var mnemonic = "come come control neglect agree shiver crash sauce debate fine swamp frequent";

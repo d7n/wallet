@@ -1,1 +1,1 @@
-var mnemonic = "century float disease forget brand veteran fresh oyster tomato analyst balcony comfort";
+var mnemonic = "wife window clutch shield sword width finger involve tumble wire session rib";

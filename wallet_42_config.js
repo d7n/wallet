@@ -1,1 +1,1 @@
-var mnemonic = "pear lion worth gossip basic side gesture summer ability remain shoot girl";
+var mnemonic = "modify ride ready gentle mule cloud peace dinosaur game make observe left";

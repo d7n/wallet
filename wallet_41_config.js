@@ -1,1 +1,1 @@
-var mnemonic = "leopard drink region ride ignore orange abuse green vehicle town muffin page";
+var mnemonic = "jealous hill copper trade series doll ridge detect stick hand school leader";

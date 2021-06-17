@@ -1,1 +1,1 @@
-var mnemonic = "repeat forget profit negative chunk member current present obtain ill slogan observe";
+var mnemonic = "napkin miracle shove unit describe ivory always circle sword gospel bitter cancel";

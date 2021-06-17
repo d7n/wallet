@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog raccoon raven float deliver ecology captain possible exhaust keep another demise";
+var mnemonic = "boy manual palm crush pony ridge card culture beyond trim fiction road";

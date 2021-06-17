@@ -1,1 +1,1 @@
-var mnemonic = "episode endorse robust label genre quick media tone picture taxi patient vague";
+var mnemonic = "slush hub off spy acquire brisk unknown zone plate veteran lift awkward";

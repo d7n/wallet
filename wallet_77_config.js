@@ -1,1 +1,1 @@
-var mnemonic = "kidney awkward clap cupboard yellow material slam hub dutch pudding confirm pond";
+var mnemonic = "fragile novel identify rally vessel juice dignity negative neglect provide humble knock";

@@ -1,1 +1,1 @@
-var mnemonic = "dial quit buyer coffee sponsor catch remain merge violin soap mean lawsuit";
+var mnemonic = "fiscal pencil build power stable pause anger spin cash one before fun";

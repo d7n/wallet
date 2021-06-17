@@ -1,1 +1,1 @@
-var mnemonic = "firm butter salute baby comic west viable sustain desk provide snake tuition";
+var mnemonic = "thing document device there increase help orange armor stone enable push pink";

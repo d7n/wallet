@@ -1,1 +1,1 @@
-var mnemonic = "swift paper fabric clip exhaust legend journey bundle powder settle crouch impact";
+var mnemonic = "slogan phrase auction shoulder almost smoke like discover panda fuel annual perfect";

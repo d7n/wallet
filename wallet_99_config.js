@@ -1,1 +1,1 @@
-var mnemonic = "essence sheriff rib noise salmon february ski cupboard chalk antique under forward";
+var mnemonic = "glow tag river vintage better square crater neither strong taxi occur announce";
