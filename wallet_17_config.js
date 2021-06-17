@@ -1,1 +1,1 @@
-var mnemonic = "enroll sponsor dentist hand blur since similar distance creek leopard journey faculty";
+var mnemonic = "age resemble position heavy whale access journey next advance rebel host goose";

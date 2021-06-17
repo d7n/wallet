@@ -1,1 +1,1 @@
-var mnemonic = "vacant pen diesel way voice gauge horse receive leisure alarm sad banana";
+var mnemonic = "distance carpet right busy amused license cinnamon glad sweet quote develop pause";

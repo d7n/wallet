@@ -1,1 +1,1 @@
-var mnemonic = "frozen cash gate install rival knife ramp grace you feel priority gown";
+var mnemonic = "master suffer embrace predict airport actual innocent brass annual essence arena road";

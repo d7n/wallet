@@ -1,1 +1,1 @@
-var mnemonic = "color salon disorder jeans upper thrive spoon bright repair stumble angle sense";
+var mnemonic = "kitten attack weird wet neglect harsh cram camera aspect video install word";

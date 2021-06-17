@@ -1,1 +1,1 @@
-var mnemonic = "fire edit jaguar film above wheel inhale note laptop desk group ancient";
+var mnemonic = "foam beauty noodle oxygen chuckle possible slight safe catch oyster addict file";

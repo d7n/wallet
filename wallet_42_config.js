@@ -1,1 +1,1 @@
-var mnemonic = "joke avocado into adapt choice remain miracle liquid grid behind chair buyer";
+var mnemonic = "indicate trigger edit hybrid injury kidney target eight split news metal label";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth exotic wink stumble census hero spin gallery road soup skate moral";
+var mnemonic = "sweet coil pitch breeze sport mother village release search possible decrease trap";

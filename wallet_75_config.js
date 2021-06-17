@@ -1,1 +1,1 @@
-var mnemonic = "reward food throw fun frame vague gloom soldier print oxygen lawn notable";
+var mnemonic = "desert stool sleep marriage sport run kite fiscal loop foster lesson mask";

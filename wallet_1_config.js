@@ -1,1 +1,1 @@
-var mnemonic = "jealous simple position party extend now ecology asthma squeeze happy sad silver";
+var mnemonic = "village midnight flame infant suggest novel miracle announce flush shoulder shield impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt horn ramp acquire rent flush team high mean waste sport warfare";
+var mnemonic = "oppose obvious slab release auction neither desk impose time wait nose glimpse";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish length strategy unable enrich weather coffee acquire glove nose useless gate";
+var mnemonic = "sweet cart lizard hurry usage glow turtle unusual weasel chest chicken pony";

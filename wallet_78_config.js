@@ -1,1 +1,1 @@
-var mnemonic = "walk suit solid cancel reveal target wide nice loop never rude shy";
+var mnemonic = "repair penalty cart wrap clown mom shrimp hair material scatter nation crisp";

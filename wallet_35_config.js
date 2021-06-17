@@ -1,1 +1,1 @@
-var mnemonic = "security tissue hurdle dust family nut ready eternal broom situate office front";
+var mnemonic = "review noodle picture refuse develop slide sphere spawn final power bridge sight";

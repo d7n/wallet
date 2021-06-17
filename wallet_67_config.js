@@ -1,1 +1,1 @@
-var mnemonic = "swarm razor innocent margin clever chunk annual axis flat buzz mistake decorate";
+var mnemonic = "cargo afraid tree loud viable window share artwork detail galaxy kitchen moment";

@@ -1,1 +1,1 @@
-var mnemonic = "message plug apology hint fall wrist media habit badge coach believe oyster";
+var mnemonic = "write useless win elite decrease render round mask essay ability assault vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "target veteran light voice room receive drive ignore insane thrive maximum edge";
+var mnemonic = "good shove ugly owner engine accident muscle color genuine room garage oven";

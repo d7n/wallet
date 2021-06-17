@@ -1,1 +1,1 @@
-var mnemonic = "rice tornado canoe live plug hat ski turn debris stereo pattern relief";
+var mnemonic = "arrest brass pitch another pair hungry water rescue goose file shed outer";

@@ -1,1 +1,1 @@
-var mnemonic = "wish then slab stock cause host panda trend talent crater tower dry";
+var mnemonic = "spell bike promote nominee clutch ghost require remain clever inherit hungry story";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar skill poet recipe ten captain horn empower casual hidden glare crop";
+var mnemonic = "group embark pear race extra arrive tool whip during zero delay awake";

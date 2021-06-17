@@ -1,1 +1,1 @@
-var mnemonic = "inherit shadow caution photo token notable away soda already stem name tool";
+var mnemonic = "survey sniff tissue height idle vacant dirt acid curtain light pen gather";

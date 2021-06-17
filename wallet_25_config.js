@@ -1,1 +1,1 @@
-var mnemonic = "month gravity afraid broccoli auction ability unaware purchase album vicious measure focus";
+var mnemonic = "slot armed print thank social explain wisdom chuckle bamboo quantum soul stumble";

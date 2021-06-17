@@ -1,1 +1,1 @@
-var mnemonic = "joy start cherry spend expect siege potato poet object head tree narrow";
+var mnemonic = "snake top disorder tell gentle onion gas junk reflect entire abuse mimic";

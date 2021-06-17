@@ -1,1 +1,1 @@
-var mnemonic = "tent sock emotion gravity ball pumpkin evolve diagram cream gap cart glide";
+var mnemonic = "nature diesel sail brisk truly local royal law dwarf obey random one";

@@ -1,1 +1,1 @@
-var mnemonic = "lady slice slim street control energy east welcome example matrix direct mention";
+var mnemonic = "evolve suggest outside lab able during supreme simple spawn village salad nothing";

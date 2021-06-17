@@ -1,1 +1,1 @@
-var mnemonic = "need raccoon fee weasel question try reward ghost outer mad pill ocean";
+var mnemonic = "emotion tide ski census biology torch current caught token merry hurry ethics";

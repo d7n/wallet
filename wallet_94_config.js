@@ -1,1 +1,1 @@
-var mnemonic = "embrace undo extra alpha rich cheap hole lion imitate library faith humor";
+var mnemonic = "during shed similar guitar surge slab bounce daughter increase smooth still surround";

@@ -1,1 +1,1 @@
-var mnemonic = "spread glow trip awkward satoshi race maple journey path item ankle afraid";
+var mnemonic = "stand plug liar decade isolate dumb ranch invite shield gravity fog leopard";

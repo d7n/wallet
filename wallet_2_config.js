@@ -1,1 +1,1 @@
-var mnemonic = "cruel cave client witness cactus loyal student credit combine parade tonight length";
+var mnemonic = "voice media topic fiction lunch way ladder among priority never pelican february";

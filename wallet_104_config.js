@@ -1,1 +1,1 @@
-var mnemonic = "dolphin film submit idle wear hidden direct bus exercise woman glad merge";
+var mnemonic = "tube flat market fork expand puppy gun spice rebel myth general sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile impose slim enhance junk pledge town pepper office trim twist scout";
+var mnemonic = "they gate prepare entire dial twin until good lens grass gesture electric";

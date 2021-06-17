@@ -1,1 +1,1 @@
-var mnemonic = "gather farm outdoor aisle daughter hybrid term disorder again minor castle window";
+var mnemonic = "annual lobster rookie repair shy any together drive squeeze fit define defy";

@@ -1,1 +1,1 @@
-var mnemonic = "utility other shift use gym frog vicious fit detect barely spike detect";
+var mnemonic = "person present also voice scare squeeze bridge meadow word elder dice uniform";

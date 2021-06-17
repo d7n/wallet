@@ -1,1 +1,1 @@
-var mnemonic = "tide marine october design gadget soldier success conduct reduce jewel silent machine";
+var mnemonic = "sudden already cannon board digital bachelor divorce material hat awake rack extra";

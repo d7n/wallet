@@ -1,1 +1,1 @@
-var mnemonic = "idea apart balcony dream frog recall nothing crew situate final peanut success";
+var mnemonic = "drink index equal era naive answer track dentist judge ski farm pass";

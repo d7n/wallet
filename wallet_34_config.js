@@ -1,1 +1,1 @@
-var mnemonic = "code maid voice planet accident afford invest narrow raw throw venture pistol";
+var mnemonic = "burger universe bunker subject fossil agent snow ball excess ski vast define";

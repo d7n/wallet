@@ -1,1 +1,1 @@
-var mnemonic = "demand become awful joke crumble permit fix early spirit argue fire raw";
+var mnemonic = "obtain pioneer coast off rice short defense spatial destroy office lonely shift";

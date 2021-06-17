@@ -1,1 +1,1 @@
-var mnemonic = "frame game palace east near view crucial logic next wide renew mass";
+var mnemonic = "problem wisdom upgrade stomach paddle just unique laptop menu light dragon churn";

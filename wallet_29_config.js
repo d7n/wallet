@@ -1,1 +1,1 @@
-var mnemonic = "wonder keep charge mass zero truly patch lake column canvas enough frequent";
+var mnemonic = "basket stuff skull nominee decade drift shoe flavor bicycle lock okay there";

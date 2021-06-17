@@ -1,1 +1,1 @@
-var mnemonic = "situate game tonight cover budget sort fresh deny middle result anxiety protect";
+var mnemonic = "path error hat gym era debate flame level correct cash identify relax";

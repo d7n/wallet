@@ -1,1 +1,1 @@
-var mnemonic = "enact hunt leisure pony draft flock bar canal neither item ice school";
+var mnemonic = "goddess ask they sister together pool carry various plate sausage learn unit";

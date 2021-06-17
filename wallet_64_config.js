@@ -1,1 +1,1 @@
-var mnemonic = "inject wild cattle modify elevator select image noise inform rely gadget cluster";
+var mnemonic = "glare nothing loop security bread fox wire color club reject make hazard";

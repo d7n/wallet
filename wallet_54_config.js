@@ -1,1 +1,1 @@
-var mnemonic = "security canal obey maid ability keep service thank best need front name";
+var mnemonic = "figure forget accident primary carpet attitude short flash apology corn about fuel";

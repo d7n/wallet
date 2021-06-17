@@ -1,1 +1,1 @@
-var mnemonic = "soap narrow vocal panel month wheat slam order regret lazy barrel scorpion";
+var mnemonic = "title core grace select evil acid fitness base oyster section coil catch";

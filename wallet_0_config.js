@@ -1,1 +1,1 @@
-var mnemonic = "what shoulder stairs jazz permit coconut bless eagle north angle boss problem";
+var mnemonic = "exotic nephew walk october purity sustain floor emerge evolve stove best wide";

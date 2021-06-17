@@ -1,1 +1,1 @@
-var mnemonic = "deal burger pudding solution where build seminar engine figure excess enemy error";
+var mnemonic = "second host traffic major collect collect monkey oval fashion emotion yellow talk";

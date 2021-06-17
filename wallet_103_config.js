@@ -1,1 +1,1 @@
-var mnemonic = "boy clean amount curtain picture truck despair wolf glare stadium orphan high";
+var mnemonic = "nothing airport either fog sunny virus blood olive almost bleak recycle radio";

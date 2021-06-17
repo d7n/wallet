@@ -1,1 +1,1 @@
-var mnemonic = "shield submit shrug tackle stuff drill fury common defense soul federal jar";
+var mnemonic = "cross immune know celery monkey abstract balcony address jazz believe uncover swap";

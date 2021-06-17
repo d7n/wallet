@@ -1,1 +1,1 @@
-var mnemonic = "planet mammal twin illness shoulder spot bundle equal jacket pink pupil citizen";
+var mnemonic = "habit slam first buddy retreat dynamic youth live riot example million predict";

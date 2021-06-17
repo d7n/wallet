@@ -1,1 +1,1 @@
-var mnemonic = "bright acoustic front swear gallery wall rug spawn enact dwarf talk window";
+var mnemonic = "movie attack sand flavor best humor jungle top relax cheap thank another";

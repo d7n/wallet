@@ -1,1 +1,1 @@
-var mnemonic = "violin half parrot approve fury icon erosion process frequent doll taxi remind";
+var mnemonic = "logic submit shrug era forest waste flat predict grid bag dirt online";

@@ -1,1 +1,1 @@
-var mnemonic = "connect february forest track snake ostrich peasant pave shrimp news sausage ridge";
+var mnemonic = "soccer diamond step twice memory slight private tool negative mammal stove total";

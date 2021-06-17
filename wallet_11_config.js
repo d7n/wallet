@@ -1,1 +1,1 @@
-var mnemonic = "sleep feel discover post erupt sword earth busy drift february tornado devote";
+var mnemonic = "earth limb drastic cup lobster antique knee oval adapt young better rather";

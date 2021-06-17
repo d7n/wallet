@@ -1,1 +1,1 @@
-var mnemonic = "amount connect science reward reward green perfect add material illness neglect nose";
+var mnemonic = "exit predict myth bean amazing joke chef gate hood total any accuse";

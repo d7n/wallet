@@ -1,1 +1,1 @@
-var mnemonic = "current anxiety silly knife obscure music net diet taste item sponsor alcohol";
+var mnemonic = "pink decline drift exchange bike dentist nothing language mesh life chair blue";

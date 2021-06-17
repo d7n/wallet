@@ -1,1 +1,1 @@
-var mnemonic = "position magnet marble dream slide great churn jeans slam jacket anchor until";
+var mnemonic = "rabbit tip nation list appear spin screen biology march menu shoulder slam";

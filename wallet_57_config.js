@@ -1,1 +1,1 @@
-var mnemonic = "arch lyrics aspect caution vessel choice color layer student naive mule warm";
+var mnemonic = "alley notice fun drastic april velvet meadow process chest raw project asthma";

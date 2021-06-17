@@ -1,1 +1,1 @@
-var mnemonic = "need shy atom cabbage hero move arena wrestle prosper salmon wolf enter";
+var mnemonic = "toss music team gallery predict copy river parrot iron soccer lazy leg";

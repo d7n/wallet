@@ -1,1 +1,1 @@
-var mnemonic = "judge brain ripple two engine toilet lottery bulb mom expand swarm suit";
+var mnemonic = "remain friend goose anchor fit dawn exit know double lottery surround fancy";

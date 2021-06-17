@@ -1,1 +1,1 @@
-var mnemonic = "decorate ask remember occur reduce skin inspire scale egg all deal impose";
+var mnemonic = "expand okay nuclear excess glare sport eye light flower deny stay liar";

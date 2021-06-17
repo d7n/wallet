@@ -1,1 +1,1 @@
-var mnemonic = "blind despair denial vehicle left envelope web aerobic float grant garlic evil";
+var mnemonic = "tired inject tool glance sponsor civil act three country universe page hard";

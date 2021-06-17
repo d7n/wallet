@@ -1,1 +1,1 @@
-var mnemonic = "earn swing occur grace umbrella edge script kid shiver turtle amateur usage";
+var mnemonic = "safe village best hospital deal waste pistol outside knee point video noise";

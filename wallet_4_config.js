@@ -1,1 +1,1 @@
-var mnemonic = "now swift merge cargo only imitate orange conduct second bomb crater domain";
+var mnemonic = "chase transfer opera error health honey push screen fragile master fame twenty";

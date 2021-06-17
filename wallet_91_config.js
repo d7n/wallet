@@ -1,1 +1,1 @@
-var mnemonic = "vocal chuckle tower glory capable unique elder work twenty wheel cost swarm";
+var mnemonic = "upper grit chat bamboo rice ill will gun target anxiety cactus net";

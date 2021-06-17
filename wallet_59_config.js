@@ -1,1 +1,1 @@
-var mnemonic = "table abstract come episode increase isolate guard sun chaos review ladder panel";
+var mnemonic = "opinion flame olympic save unaware repair situate plunge bargain card control day";

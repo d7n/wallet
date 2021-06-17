@@ -1,1 +1,1 @@
-var mnemonic = "chuckle nephew concert mixed wear fix royal fan vendor anger height antique";
+var mnemonic = "lady acquire tunnel guess arrest verb planet snake trim screen armed rebuild";

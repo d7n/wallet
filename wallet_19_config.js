@@ -1,1 +1,1 @@
-var mnemonic = "call margin blue faint quality cereal seed type visa avocado lizard excuse";
+var mnemonic = "accuse elbow pistol razor breeze scissors retire ankle awkward winter trend electric";

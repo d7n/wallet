@@ -1,1 +1,1 @@
-var mnemonic = "slender lazy hold orchard dolphin volcano tunnel brave tumble waste attract rigid";
+var mnemonic = "original horror nephew little sample fortune mammal cave settle lend voice armor";

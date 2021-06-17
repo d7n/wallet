@@ -1,1 +1,1 @@
-var mnemonic = "remove useful title ill ignore side will release catalog patrol tobacco inch";
+var mnemonic = "border can task broken menu sock control saddle burden salad together message";

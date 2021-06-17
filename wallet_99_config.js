@@ -1,1 +1,1 @@
-var mnemonic = "elegant two celery green debris multiply aspect column penalty ring mad butter";
+var mnemonic = "dust isolate session insect cube legend mandate kangaroo control much surface burden";

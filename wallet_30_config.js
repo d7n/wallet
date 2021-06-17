@@ -1,1 +1,1 @@
-var mnemonic = "reflect run depend recall achieve control ridge suspect grain knock rural chief";
+var mnemonic = "nurse hat fresh glove plug goat dirt room twin sad become eight";

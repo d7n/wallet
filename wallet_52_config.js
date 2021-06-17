@@ -1,1 +1,1 @@
-var mnemonic = "course loud enjoy pulp canal supreme cart wheel peasant credit tobacco rather";
+var mnemonic = "lumber coin number hat inform banner heavy penalty phone soda coyote struggle";

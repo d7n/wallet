@@ -1,1 +1,1 @@
-var mnemonic = "habit whip mechanic concert pair junk bean muscle quick now away foot";
+var mnemonic = "furnace brick junior moment clip repair pumpkin flee all matter tackle summer";

@@ -1,1 +1,1 @@
-var mnemonic = "keep palace word name close laugh reward hundred this survey snow bicycle";
+var mnemonic = "island render case piece security pulse photo slight image zebra sniff scrub";

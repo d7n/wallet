@@ -1,1 +1,1 @@
-var mnemonic = "train indicate olive outdoor beauty remain neither powder repair company install silver";
+var mnemonic = "lift world endless disagree laundry actual aim lab solar praise rabbit announce";

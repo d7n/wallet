@@ -1,1 +1,1 @@
-var mnemonic = "purchase smoke skate demand hungry surge isolate obvious fame vacant umbrella envelope";
+var mnemonic = "session punch rival describe accident side main seminar lumber height select remove";

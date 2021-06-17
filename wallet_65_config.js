@@ -1,1 +1,1 @@
-var mnemonic = "chase execute poem warm coyote allow usage galaxy grief owner jaguar steak";
+var mnemonic = "property west accuse guilt clean degree lemon sound topic road color lab";

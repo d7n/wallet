@@ -1,1 +1,1 @@
-var mnemonic = "frozen order wash text glass thing camera acid already ship snack intact";
+var mnemonic = "turkey police assault midnight leave junk cycle rally cruise jar shrug fix";

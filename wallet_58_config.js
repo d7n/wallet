@@ -1,1 +1,1 @@
-var mnemonic = "jungle pull rival ticket fork defense window barrel business satoshi talent exchange";
+var mnemonic = "ordinary cabin base check match leisure citizen sniff supply behind copy devote";

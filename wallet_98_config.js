@@ -1,1 +1,1 @@
-var mnemonic = "beach supreme mail fashion unfold pigeon buddy aunt inflict bounce couple aspect";
+var mnemonic = "subject joke much chronic such toddler eternal spirit agree invest same salmon";

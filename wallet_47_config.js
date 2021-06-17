@@ -1,1 +1,1 @@
-var mnemonic = "uniform curve security humble proof abuse cool trial lyrics robust alpha index";
+var mnemonic = "reunion stamp paddle badge vital term patch false inject can grit bar";

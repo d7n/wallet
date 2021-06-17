@@ -1,1 +1,1 @@
-var mnemonic = "mixture solution project awake affair neither joke rare lesson mandate water horn";
+var mnemonic = "gain denial sell sorry wage mention slide open spend sentence alter short";

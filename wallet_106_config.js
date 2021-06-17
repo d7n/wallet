@@ -1,1 +1,1 @@
-var mnemonic = "tide absorb recall bomb document bind together bomb kangaroo candy raven best";
+var mnemonic = "boat shoulder stem rotate hamster visit middle victory off during solid unfold";

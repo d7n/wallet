@@ -1,1 +1,1 @@
-var mnemonic = "adjust all emotion collect twelve timber magnet rescue position mammal cherry exclude";
+var mnemonic = "room mixed trick view abandon frame undo borrow season ostrich project tent";

@@ -1,1 +1,1 @@
-var mnemonic = "swift domain panel shy alley tower helmet goat domain fold appear once";
+var mnemonic = "nasty swim pipe trap favorite build earn cover idle luxury impact near";

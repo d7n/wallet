@@ -1,1 +1,1 @@
-var mnemonic = "sniff grape purpose offer magnet stomach boss pioneer marine detail sponsor jump";
+var mnemonic = "nation fortune camp carpet vital sweet large team inquiry paddle spirit account";

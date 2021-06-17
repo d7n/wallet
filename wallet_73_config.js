@@ -1,1 +1,1 @@
-var mnemonic = "finish rare nerve snack subway minor vacant category exercise thunder grace brave";
+var mnemonic = "orange addict pause actress hybrid day congress siege enforce female zebra remain";

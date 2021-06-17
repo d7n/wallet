@@ -1,1 +1,1 @@
-var mnemonic = "year truck kidney scrub column glad cause track tonight merry lens vicious";
+var mnemonic = "sail pistol kiwi clap album obvious top draft rebuild budget occur talk";

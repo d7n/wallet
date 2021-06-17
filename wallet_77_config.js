@@ -1,1 +1,1 @@
-var mnemonic = "call left icon quantum silk process shuffle assist text rich festival position";
+var mnemonic = "fault speed gorilla assault gadget foster ribbon media awesome vanish noble rigid";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect dinner fix sword craft moral member stable need smart dove spoon";
+var mnemonic = "negative wood purity limb skirt service cousin humor roast exhibit happy biology";

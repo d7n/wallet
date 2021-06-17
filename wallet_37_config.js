@@ -1,1 +1,1 @@
-var mnemonic = "clinic strategy cereal false van relief pitch filter move what flight table";
+var mnemonic = "wedding language visual fat skate rail regular hungry dice gown define nerve";
