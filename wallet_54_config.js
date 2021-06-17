@@ -1,1 +1,1 @@
-var mnemonic = "renew lava library aspect jazz almost fork voice only name pitch pull";
+var mnemonic = "sauce aware apart weird essay early trade auto income reject enjoy pitch";

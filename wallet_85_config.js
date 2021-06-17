@@ -1,1 +1,1 @@
-var mnemonic = "nuclear right major glance remind child gym term trigger crop inmate certain";
+var mnemonic = "shine asthma love rather glad conduct innocent crop excess hybrid alarm kidney";

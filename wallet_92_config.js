@@ -1,1 +1,1 @@
-var mnemonic = "excess honey tiger dust spider coffee local wink crack moment address culture";
+var mnemonic = "blind melt inspire differ subject dash inherit thing faith congress destroy nation";

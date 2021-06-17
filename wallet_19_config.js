@@ -1,1 +1,1 @@
-var mnemonic = "address today emerge diesel picnic blossom click anger river seven curve alarm";
+var mnemonic = "matrix custom pear across course radar bulb memory table ice gasp analyst";

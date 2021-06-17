@@ -1,1 +1,1 @@
-var mnemonic = "sense twin priority history inflict two filter spot trend must vacuum witness";
+var mnemonic = "dream rose impose air like creek wide coach cigar bicycle divert pride";

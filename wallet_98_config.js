@@ -1,1 +1,1 @@
-var mnemonic = "spend sunny sound zoo denial flash cement gravity sell switch puzzle street";
+var mnemonic = "man cargo report maze stadium floor town ecology risk fame alert arctic";

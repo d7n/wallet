@@ -1,1 +1,1 @@
-var mnemonic = "bomb random brand share unveil clutch picture slide food present loop tornado";
+var mnemonic = "hover three soon ripple battle design exist orange judge blast change divert";

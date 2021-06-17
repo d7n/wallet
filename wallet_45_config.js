@@ -1,1 +1,1 @@
-var mnemonic = "example play dose salon toilet club food hen nice runway portion claim";
+var mnemonic = "useless oppose heavy begin crash gallery still lamp topple liar wagon bullet";

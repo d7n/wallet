@@ -1,1 +1,1 @@
-var mnemonic = "bottom proof horror filter roast know online ceiling praise alert clog believe";
+var mnemonic = "layer heart unfair lift unique build trust snake card tone boss fitness";

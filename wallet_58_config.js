@@ -1,1 +1,1 @@
-var mnemonic = "census actress chronic flame neutral dad loyal tape peanut private rapid pencil";
+var mnemonic = "damp pig mercy floor success glue riot ranch claim return game public";

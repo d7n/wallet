@@ -1,1 +1,1 @@
-var mnemonic = "stem welcome burger perfect cereal across vacant drink jaguar anchor win lemon";
+var mnemonic = "peanut rotate jungle bird load minimum toss phrase atom flower town cousin";

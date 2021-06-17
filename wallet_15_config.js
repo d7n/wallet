@@ -1,1 +1,1 @@
-var mnemonic = "isolate exhaust truck walk tonight boil dance pig around dove seat judge";
+var mnemonic = "effort trouble hub dry any utility pulp tiger anxiety skill sure breeze";

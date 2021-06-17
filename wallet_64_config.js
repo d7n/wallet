@@ -1,1 +1,1 @@
-var mnemonic = "nerve cause tag scorpion emerge spy someone leader day local fetch step";
+var mnemonic = "reopen clock chronic dutch evil athlete clump leisure effort shoulder bicycle soap";

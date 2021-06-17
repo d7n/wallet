@@ -1,1 +1,1 @@
-var mnemonic = "car fury champion tray reward evoke glance stadium renew chest mechanic bacon";
+var mnemonic = "come soccer mother sense glory dragon attract neutral muscle metal hill candy";

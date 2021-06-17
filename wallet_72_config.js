@@ -1,1 +1,1 @@
-var mnemonic = "talent april victory broccoli point ready notice suit crime type avoid index";
+var mnemonic = "hat acid drastic neutral drink issue plunge fancy debate actress conduct science";

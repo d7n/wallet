@@ -1,1 +1,1 @@
-var mnemonic = "position plate diesel steel pepper cruise glimpse cart magnet recipe frozen museum";
+var mnemonic = "senior impose april crawl pioneer welcome route direct author timber october obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "claim infant cigar buyer ranch blouse spirit release ball team loan balcony";
+var mnemonic = "slot turkey obtain dragon corn hidden move bus summer genuine twice demand";

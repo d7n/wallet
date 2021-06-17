@@ -1,1 +1,1 @@
-var mnemonic = "cross fluid such print tennis leader universe ten prison seven upon post";
+var mnemonic = "plug tonight power hungry grain treat sustain disorder book vapor jump rotate";

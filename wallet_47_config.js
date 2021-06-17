@@ -1,1 +1,1 @@
-var mnemonic = "galaxy bachelor tribe chapter vapor goat moon angle witness near giant unit";
+var mnemonic = "pencil satoshi invite yellow gap rich prepare vote cannon hundred review hello";

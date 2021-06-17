@@ -1,1 +1,1 @@
-var mnemonic = "clap divide surprise dragon cool fabric raccoon twice tone riot leave rebel";
+var mnemonic = "online lawsuit fantasy spice april happy month divert business super leave lounge";

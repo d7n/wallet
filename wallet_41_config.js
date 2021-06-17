@@ -1,1 +1,1 @@
-var mnemonic = "crowd drip benefit net april beach crucial cook scout correct arrange faith";
+var mnemonic = "submit dust ribbon tonight write setup genuine gorilla liberty skate large chronic";

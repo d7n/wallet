@@ -1,1 +1,1 @@
-var mnemonic = "odor vendor immense lamp cinnamon story flight march gospel faint poverty grain";
+var mnemonic = "spike arm view elder trip dance clog light record industry damp vehicle";

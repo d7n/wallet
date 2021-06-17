@@ -1,1 +1,1 @@
-var mnemonic = "coil audit pill pledge corn easily sister open either coin tribe wrist";
+var mnemonic = "pull leaf rival tired royal stable trick sport deer area turn like";

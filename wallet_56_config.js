@@ -1,1 +1,1 @@
-var mnemonic = "loop into spell corn spoon want pact include asset club bunker street";
+var mnemonic = "state rookie enrich excess alarm fault blame powder collect clog muscle sheriff";

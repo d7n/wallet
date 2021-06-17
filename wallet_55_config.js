@@ -1,1 +1,1 @@
-var mnemonic = "picture robot acid upon allow local soft snow issue hello entire right";
+var mnemonic = "sustain awake oyster gown ancient truck since exclude robust art rescue inside";

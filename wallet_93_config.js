@@ -1,1 +1,1 @@
-var mnemonic = "quality language report obvious warfare episode twist anxiety stamp salmon apology doll";
+var mnemonic = "ancient exit throw burden comfort pepper wrong belt dragon trick endless lesson";

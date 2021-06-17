@@ -1,1 +1,1 @@
-var mnemonic = "then method transfer congress try fatal gadget coin broccoli figure sword pause";
+var mnemonic = "chunk vibrant glow zebra turtle protect meat horror father verify street child";

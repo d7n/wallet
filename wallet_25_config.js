@@ -1,1 +1,1 @@
-var mnemonic = "marriage drill stamp stove evidence capable verb eye cliff daring time version";
+var mnemonic = "sketch gather flower erosion firm six body garage dawn gap turkey uphold";

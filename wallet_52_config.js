@@ -1,1 +1,1 @@
-var mnemonic = "exact perfect worry comic exhibit charge fish gallery useful spoil tackle scare";
+var mnemonic = "dragon expect acoustic woman dolphin forum practice scheme unable omit senior top";

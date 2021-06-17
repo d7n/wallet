@@ -1,1 +1,1 @@
-var mnemonic = "scrub strategy patrol wrong task cover live relief resist balcony invest security";
+var mnemonic = "asthma wolf perfect very burden patrol auto connect grant region curtain blur";

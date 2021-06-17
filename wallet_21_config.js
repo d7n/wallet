@@ -1,1 +1,1 @@
-var mnemonic = "when base blue edge north loud miss whale genius boost visual enroll";
+var mnemonic = "business venue theory manage average close silver ready boat invest answer love";

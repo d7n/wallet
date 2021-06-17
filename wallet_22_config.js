@@ -1,1 +1,1 @@
-var mnemonic = "about speak bar brain divert erode stumble mind special afford tongue occur";
+var mnemonic = "distance again fork question olive upon confirm theme cinnamon once tornado program";

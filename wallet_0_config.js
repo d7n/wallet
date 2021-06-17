@@ -1,1 +1,1 @@
-var mnemonic = "solar speak mistake run okay goose tragic awesome envelope combine lady medal";
+var mnemonic = "giraffe audit scrap hello hire smoke column stumble plate cliff engine differ";

@@ -1,1 +1,1 @@
-var mnemonic = "ready pretty quote save portion give camp risk cat neck found fiscal";
+var mnemonic = "someone prefer mosquito purpose please video minimum payment sunny affair predict glare";

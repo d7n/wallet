@@ -1,1 +1,1 @@
-var mnemonic = "senior half someone wasp young inmate toy denial slab because skin surge";
+var mnemonic = "hurt family calm glimpse aspect upgrade shove flower depart twelve trumpet source";

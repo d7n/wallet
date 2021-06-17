@@ -1,1 +1,1 @@
-var mnemonic = "vocal upon skirt kit switch patient plate south regret expect chronic special";
+var mnemonic = "blossom glare link floor vehicle medal wash dynamic grant plastic spirit review";

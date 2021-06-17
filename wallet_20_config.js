@@ -1,1 +1,1 @@
-var mnemonic = "digital bind spring winter easy list wheel panther marble risk stamp horse";
+var mnemonic = "rabbit public dinner joy purpose example quantum unhappy prison repeat weird scrap";

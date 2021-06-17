@@ -1,1 +1,1 @@
-var mnemonic = "unusual rack tray opera kitten dove buddy season world frog nature aspect";
+var mnemonic = "scare trap mind market mimic broccoli orphan jelly salad flight tired genius";

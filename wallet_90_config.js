@@ -1,1 +1,1 @@
-var mnemonic = "amused load escape custom sausage praise coast scissors where trend awkward laundry";
+var mnemonic = "reason other loan drop mercy federal behind old celery oak inner code";

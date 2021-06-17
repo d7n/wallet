@@ -1,1 +1,1 @@
-var mnemonic = "target caught wrong dial egg lawsuit brain payment canoe runway clog issue";
+var mnemonic = "foil green split modify series place cliff venue marriage mountain supply picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "accident once maze armor violin example chat number atom elegant loan glue";
+var mnemonic = "group still nothing desert journey pigeon fault dice must shiver vanish curtain";

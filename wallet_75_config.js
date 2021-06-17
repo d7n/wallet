@@ -1,1 +1,1 @@
-var mnemonic = "avocado best void valid recall around truck whisper confirm insane skirt blur";
+var mnemonic = "laugh report agree purity creek person world visual safe fix worth bone";

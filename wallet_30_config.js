@@ -1,1 +1,1 @@
-var mnemonic = "seat apple supreme farm nose train winter duty mean route purpose illegal";
+var mnemonic = "check panda speed hockey athlete benefit unlock confirm inflict grape feel side";

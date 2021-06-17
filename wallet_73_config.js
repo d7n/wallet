@@ -1,1 +1,1 @@
-var mnemonic = "broom today brand parent bean salt shrimp twin remove then modify odor";
+var mnemonic = "rubber repeat exile resist clock honey orange quote shy sadness you wrong";

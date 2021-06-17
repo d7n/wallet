@@ -1,1 +1,1 @@
-var mnemonic = "govern tank wool universe amount question acquire random one decorate remove fish";
+var mnemonic = "knee detect orbit turn violin sound wall loop island spoon snow border";

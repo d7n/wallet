@@ -1,1 +1,1 @@
-var mnemonic = "cash attend pink length lecture galaxy panel tribe west language dentist lesson";
+var mnemonic = "glare tuna cram barely update beyond benefit gesture awful pilot seminar easy";

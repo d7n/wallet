@@ -1,1 +1,1 @@
-var mnemonic = "creek double habit oppose pact motion inform nasty jeans alpha pilot tumble";
+var mnemonic = "artist entry boat divorce soda crack crouch mimic zero reopen shrimp fold";

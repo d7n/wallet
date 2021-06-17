@@ -1,1 +1,1 @@
-var mnemonic = "juice upper edit acquire lizard hotel staff insane cross clog daughter embody";
+var mnemonic = "open blue leisure tired inflict reopen sell winter siren bid column load";

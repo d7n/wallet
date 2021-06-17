@@ -1,1 +1,1 @@
-var mnemonic = "device rocket load grape fantasy such symptom interest movie hamster coach master";
+var mnemonic = "ceiling youth swim refuse pottery humor trim harvest inflict shrug lesson donate";

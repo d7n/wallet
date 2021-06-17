@@ -1,1 +1,1 @@
-var mnemonic = "draft spider review dragon window name survey feel supply napkin knock other";
+var mnemonic = "chronic topple permit film remind bean hill repeat walnut buzz legend concert";

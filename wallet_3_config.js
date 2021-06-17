@@ -1,1 +1,1 @@
-var mnemonic = "mail hill invite portion buddy cause man acquire ski suffer wife erase";
+var mnemonic = "infant remove trial plastic elbow fetch mail debate universe color dish enact";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst timber speed era eye range bottom pair wife dice hundred hamster";
+var mnemonic = "huge cart web fluid toilet start sibling jealous duck moon umbrella vehicle";

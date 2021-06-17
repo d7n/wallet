@@ -1,1 +1,1 @@
-var mnemonic = "absent place goddess nation bird attract cable system ecology acoustic alarm cost";
+var mnemonic = "repair clown pioneer exist giraffe venture sad kid clerk task cloth episode";

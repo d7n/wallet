@@ -1,1 +1,1 @@
-var mnemonic = "girl divert foot beyond recycle home season whisper young local grit ill";
+var mnemonic = "daughter chimney celery curious cabin enhance canoe feed member sunny total exact";

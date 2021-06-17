@@ -1,1 +1,1 @@
-var mnemonic = "leisure robot physical mansion piano enemy dust lucky pipe donor habit oven";
+var mnemonic = "correct parade lumber write witness critic document proof vendor trim economy ride";

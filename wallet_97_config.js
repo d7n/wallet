@@ -1,1 +1,1 @@
-var mnemonic = "maid peace bamboo antique alien cry voice forest meadow exhaust phone cost";
+var mnemonic = "tobacco snake wave fan dutch enhance auction trouble enforce govern volume build";

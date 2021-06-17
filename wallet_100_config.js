@@ -1,1 +1,1 @@
-var mnemonic = "document guard vocal connect float crawl broken traffic august sure bring vessel";
+var mnemonic = "annual imitate excess theme rich ski guard gravity bunker swap shaft among";

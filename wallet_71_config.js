@@ -1,1 +1,1 @@
-var mnemonic = "two excuse utility radio voyage cost witness method inner merry swift wave";
+var mnemonic = "off melt one real reject frame slender dream elevator trumpet remove bleak";

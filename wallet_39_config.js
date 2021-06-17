@@ -1,1 +1,1 @@
-var mnemonic = "nurse rather bunker mention clean giraffe genuine taxi ball emerge infant upgrade";
+var mnemonic = "obvious green symbol planet cloth fringe hunt sail coil pledge soft digital";

@@ -1,1 +1,1 @@
-var mnemonic = "swing face start toast what situate fence gym hope engine shuffle flee";
+var mnemonic = "velvet member hire fossil talent tunnel priority truth nature beyond antique fame";

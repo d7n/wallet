@@ -1,1 +1,1 @@
-var mnemonic = "plunge service giraffe prison orbit hundred basket icon teach fade wrist demise";
+var mnemonic = "wedding true ripple curious image ticket slight lemon clerk dentist rude payment";

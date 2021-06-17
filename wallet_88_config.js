@@ -1,1 +1,1 @@
-var mnemonic = "scatter heavy eight rigid mango envelope focus expire pave dune mushroom company";
+var mnemonic = "actual fetch scare cross circle anchor hunt crush october round crowd vocal";

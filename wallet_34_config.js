@@ -1,1 +1,1 @@
-var mnemonic = "fun nature true next web trap decide matter aware glass clutch dog";
+var mnemonic = "stand squirrel eager raw violin extend engine kiss ceiling jaguar clown observe";

@@ -1,1 +1,1 @@
-var mnemonic = "mule major wash estate decade confirm subway middle enough valley little cabbage";
+var mnemonic = "smart knife repeat cart melody reward gossip apple wave coil baby stage";

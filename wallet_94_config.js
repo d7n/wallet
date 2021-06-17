@@ -1,1 +1,1 @@
-var mnemonic = "flight chief flush spend thought nuclear disease naive world flash that rice";
+var mnemonic = "forward rescue neck flat nose rural trial detect music recall total kiwi";

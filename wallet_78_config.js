@@ -1,1 +1,1 @@
-var mnemonic = "grant evil spoil sadness cook lecture mind chimney negative nothing exhaust poet";
+var mnemonic = "empty face tissue tattoo almost unusual profit reject ride disease maximum pitch";

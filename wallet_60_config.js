@@ -1,1 +1,1 @@
-var mnemonic = "jazz vibrant afraid brain voice human kind model great clever trigger crater";
+var mnemonic = "carpet churn laptop sing pepper horn rotate bracket fitness evolve milk during";

@@ -1,1 +1,1 @@
-var mnemonic = "point awesome front dignity client title situate shoe raccoon feel sniff possible";
+var mnemonic = "rural upper mountain sight great tuna digital scatter solar lady ginger stool";

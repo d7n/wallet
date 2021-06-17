@@ -1,1 +1,1 @@
-var mnemonic = "lottery visual tag punch lyrics insect issue critic bounce cake own sheriff";
+var mnemonic = "cable hospital pizza another quiz visit mad desk palm rifle urge twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "panic napkin hair fabric photo kid puppy doctor shy tissue foot fantasy";
+var mnemonic = "walnut model adjust swap screen twist change silly credit ordinary plastic grit";

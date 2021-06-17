@@ -1,1 +1,1 @@
-var mnemonic = "drop buzz coil used silent gain peanut cake quantum tortoise tape jar";
+var mnemonic = "basket faint sausage bus boy diesel jacket guard hole coral prepare injury";

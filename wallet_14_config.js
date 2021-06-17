@@ -1,1 +1,1 @@
-var mnemonic = "doctor fiction feel symbol radar night gadget hazard rigid real into trip";
+var mnemonic = "genuine fabric purchase change hood craft citizen blind economy club video creek";

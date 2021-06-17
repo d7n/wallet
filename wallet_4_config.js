@@ -1,1 +1,1 @@
-var mnemonic = "arrest camp jelly thumb cover carpet bonus stage beach wine throw cluster";
+var mnemonic = "kingdom saddle aerobic rug burst sail exchange potato arm speed rain nominee";

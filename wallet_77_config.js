@@ -1,1 +1,1 @@
-var mnemonic = "sheriff flag weasel outside bonus core pattern planet shoot camera twin accuse";
+var mnemonic = "plunge earn mirror noise travel settle theory great decorate victory history afraid";

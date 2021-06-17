@@ -1,1 +1,1 @@
-var mnemonic = "mad fiction perfect thrive hotel target dry sketch float unfair ecology present";
+var mnemonic = "wink always chuckle employ upgrade silk car live total often gold warfare";

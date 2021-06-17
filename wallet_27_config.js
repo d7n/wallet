@@ -1,1 +1,1 @@
-var mnemonic = "door inquiry logic width rent embrace spin skin skill sudden dumb false";
+var mnemonic = "rate undo senior gentle identify radio include subject moon vast clever hair";

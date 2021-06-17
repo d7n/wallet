@@ -1,1 +1,1 @@
-var mnemonic = "vanish kitchen veteran foam ocean patient water slam fitness quick version hill";
+var mnemonic = "trap cube fiber limit gate laugh quit region faith dwarf sort train";

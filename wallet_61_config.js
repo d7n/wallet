@@ -1,1 +1,1 @@
-var mnemonic = "tape disease man evoke little voice edit involve model area early where";
+var mnemonic = "possible relief gauge gadget school tooth inside nerve brave age ancient foam";

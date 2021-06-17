@@ -1,1 +1,1 @@
-var mnemonic = "actor pencil super anxiety disease depend clinic hurry squirrel foil end pony";
+var mnemonic = "session just assault badge cat table pluck chuckle decade nest annual mercy";

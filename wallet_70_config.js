@@ -1,1 +1,1 @@
-var mnemonic = "pioneer present cabin bright choice garlic real notable float script rival reflect";
+var mnemonic = "mask original loan box include mixture initial kitten lounge pretty shield oven";

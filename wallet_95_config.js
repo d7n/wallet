@@ -1,1 +1,1 @@
-var mnemonic = "false clay property target oyster bid correct tomorrow retire hungry make project";
+var mnemonic = "crouch decline motor glimpse coyote once chair omit change cotton child clutch";

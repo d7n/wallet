@@ -1,1 +1,1 @@
-var mnemonic = "exile design silver hospital race frost still rifle equip example eternal onion";
+var mnemonic = "wonder attack trip problem peanut pizza track crew card ivory arrange language";

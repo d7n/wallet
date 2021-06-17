@@ -1,1 +1,1 @@
-var mnemonic = "hole plunge glass buddy erase diet sand tool mosquito rebuild scan cousin";
+var mnemonic = "crisp member cook bus physical pull kangaroo base heavy degree luxury excess";

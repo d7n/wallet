@@ -1,1 +1,1 @@
-var mnemonic = "piano license cart boy enact paddle host okay check foam unlock liberty";
+var mnemonic = "away stumble retire trust wage damp attract steak wrong giant betray upon";
