@@ -1,1 +1,1 @@
-var mnemonic = "between road talent defy soup foster gift endorse tornado tourist photo quick";
+var mnemonic = "glimpse cushion party unhappy nasty earn boat caution circle ride depart defy";

@@ -1,1 +1,1 @@
-var mnemonic = "visit obvious bracket ride kiwi already nice delay jaguar orchard poet sugar";
+var mnemonic = "blue armed denial gallery provide roof alone express toss treat miss fiber";

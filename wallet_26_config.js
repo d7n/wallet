@@ -1,1 +1,1 @@
-var mnemonic = "lend involve walnut pave kit system dilemma tuition push initial film kingdom";
+var mnemonic = "pelican fancy engage taxi grid update need west clean scale seed month";

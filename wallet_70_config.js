@@ -1,1 +1,1 @@
-var mnemonic = "horror thing dove special artefact swift entry glare solve echo achieve inquiry";
+var mnemonic = "online spare curve unusual dwarf timber slab curtain sing puppy shell able";

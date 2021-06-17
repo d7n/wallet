@@ -1,1 +1,1 @@
-var mnemonic = "canyon surge liquid enlist join piece grace rain choice invest another jeans";
+var mnemonic = "dynamic tide trumpet try draw hurdle abstract bus immense weapon rib erode";

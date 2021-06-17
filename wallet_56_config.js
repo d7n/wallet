@@ -1,1 +1,1 @@
-var mnemonic = "name brother quiz come clog champion mutual stairs envelope language tornado theory";
+var mnemonic = "brother badge surge weather current tiny edge lobster horse dog fox gallery";

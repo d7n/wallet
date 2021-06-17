@@ -1,1 +1,1 @@
-var mnemonic = "believe tunnel reform chapter dismiss segment office club penalty tomato voice own";
+var mnemonic = "crawl embrace slow various slow honey depth task approve day rent segment";

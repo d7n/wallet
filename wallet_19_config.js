@@ -1,1 +1,1 @@
-var mnemonic = "electric denial kite rich castle kitten glide food achieve toast runway dawn";
+var mnemonic = "muscle lazy ability behind corn sweet build nasty disagree december enjoy put";

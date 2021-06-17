@@ -1,1 +1,1 @@
-var mnemonic = "report letter fault win creek skirt world upgrade ribbon lucky era happy";
+var mnemonic = "buddy noble april estate cash alarm mountain crunch illegal oyster sting umbrella";

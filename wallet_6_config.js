@@ -1,1 +1,1 @@
-var mnemonic = "betray split road foil wire crew ghost music also saddle disagree arrest";
+var mnemonic = "city remind rude tomorrow auto solution extend frog employ visual abuse tornado";

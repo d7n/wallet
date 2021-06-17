@@ -1,1 +1,1 @@
-var mnemonic = "utility fiscal purpose coach world snap fun cargo avoid number melody stereo";
+var mnemonic = "round museum latin broken replace cable cram wash patient arrive blush garlic";

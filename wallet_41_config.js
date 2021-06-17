@@ -1,1 +1,1 @@
-var mnemonic = "trim craft hunt bread reject morning economy immense certain loop belt salute";
+var mnemonic = "drastic phrase neutral between pulp work alcohol cup jungle friend village vast";

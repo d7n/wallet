@@ -1,1 +1,1 @@
-var mnemonic = "finish solve enhance kind match cover blind kingdom fade vendor toward fork";
+var mnemonic = "return push trial steak garment fiscal broccoli inch dirt aisle share paddle";

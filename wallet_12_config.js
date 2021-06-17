@@ -1,1 +1,1 @@
-var mnemonic = "example flock pigeon slide federal media maze maximum estate false paper original";
+var mnemonic = "surface tape lake aisle defy shop stool spoon genre element vintage fury";

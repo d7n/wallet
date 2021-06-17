@@ -1,1 +1,1 @@
-var mnemonic = "clump because arrest abstract click soda slice dragon vacant narrow odor gesture";
+var mnemonic = "opinion cream travel connect gas october arch impose thumb rather employ flee";

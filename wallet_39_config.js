@@ -1,1 +1,1 @@
-var mnemonic = "crash bridge innocent arch pond dinner beef sheriff waste hat book term";
+var mnemonic = "friend visit april salmon indicate exhibit laugh window rib youth measure orbit";

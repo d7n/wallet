@@ -1,1 +1,1 @@
-var mnemonic = "loyal dune ask split over juice ordinary weasel flame such guess lumber";
+var mnemonic = "task robot between bitter lake else giggle copy arrive tiny air horn";

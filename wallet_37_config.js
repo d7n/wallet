@@ -1,1 +1,1 @@
-var mnemonic = "drop fiscal denial magic foam camp ozone wagon series arena fade goddess";
+var mnemonic = "trade kit parrot face arm inspire find pact quiz exhaust awkward library";

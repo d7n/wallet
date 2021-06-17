@@ -1,1 +1,1 @@
-var mnemonic = "noble still patch novel amateur gallery friend around young armed engine salt";
+var mnemonic = "sugar grid camera cross gas economy over tooth ridge deputy boost quarter";

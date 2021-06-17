@@ -1,1 +1,1 @@
-var mnemonic = "web olive setup approve diary arrest grunt basket load rule half shrimp";
+var mnemonic = "paddle duck balcony hen furnace drum cheap addict argue trumpet lab visa";

@@ -1,1 +1,1 @@
-var mnemonic = "between thunder black hard series cherry truck cable unknown problem swarm wrestle";
+var mnemonic = "gloom manual drive cube field viable security around witness feature cruel left";

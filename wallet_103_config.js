@@ -1,1 +1,1 @@
-var mnemonic = "gauge betray confirm wife pond decide gold express erode ostrich grief sudden";
+var mnemonic = "original tribe chronic apple keep color series verb toe dance lock aisle";

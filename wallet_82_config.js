@@ -1,1 +1,1 @@
-var mnemonic = "host loud globe supply reflect fish payment wrist expand ball bargain library";
+var mnemonic = "flock talk sketch army wise bracket safe elevator nasty mandate muscle end";

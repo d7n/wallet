@@ -1,1 +1,1 @@
-var mnemonic = "clean squirrel length clerk room rate tide jungle super picnic slight puzzle";
+var mnemonic = "diagram lucky elegant upon sweet parrot employ will solar logic satisfy glide";

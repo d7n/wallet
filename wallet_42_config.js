@@ -1,1 +1,1 @@
-var mnemonic = "piece solve game skin trip nose prosper erode sausage price luggage shoe";
+var mnemonic = "seed syrup satoshi truck casual woman mandate hand head trigger hour valid";

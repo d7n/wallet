@@ -1,1 +1,1 @@
-var mnemonic = "oil cool coast prison steel bar shrimp gap bomb renew obey elephant";
+var mnemonic = "predict inform soap castle grant strategy nasty motor plug base cancel know";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing leave monster sun sadness turn caught kind surface balance dragon wear";
+var mnemonic = "bless tuna stuff option hover fence bullet street purse hobby stay unlock";

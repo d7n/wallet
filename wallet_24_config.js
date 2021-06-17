@@ -1,1 +1,1 @@
-var mnemonic = "fatal yellow snack seek timber insect ecology certain keep average village stove";
+var mnemonic = "swarm adjust genius lock tonight uncover provide add letter anxiety anger vibrant";

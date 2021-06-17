@@ -1,1 +1,1 @@
-var mnemonic = "outside mind liquid oven labor swift coyote real effort scrub offer jealous";
+var mnemonic = "relax matter deliver avocado pave grow stomach embody fresh sweet will cattle";

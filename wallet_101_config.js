@@ -1,1 +1,1 @@
-var mnemonic = "legend belt region dress chimney bracket mean quiz trigger today dentist motion";
+var mnemonic = "suit slight old place trust box method idea drive paper fault corn";

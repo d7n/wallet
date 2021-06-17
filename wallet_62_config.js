@@ -1,1 +1,1 @@
-var mnemonic = "code once meat skin milk orchard virus auto alpha skate bundle boy";
+var mnemonic = "filter direct device private link mixed awful fiction duty million tissue bottom";

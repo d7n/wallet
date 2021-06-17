@@ -1,1 +1,1 @@
-var mnemonic = "imitate vast inside slice plug dolphin piece update sort basic text dilemma";
+var mnemonic = "bracket scale have kick saddle moon twice virtual agree bitter glance shop";

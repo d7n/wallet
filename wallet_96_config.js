@@ -1,1 +1,1 @@
-var mnemonic = "address fat dog cat mind shoe fox veteran sugar safe fan occur";
+var mnemonic = "dove during risk rally unit tissue same female monkey turkey giant acquire";

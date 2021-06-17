@@ -1,1 +1,1 @@
-var mnemonic = "aware hire dash panic near left gaze what hill panda arctic unlock";
+var mnemonic = "picnic curious dilemma draw dilemma mango success boy danger unaware under symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal online pave piece all lunch bamboo city reduce grow grace stage";
+var mnemonic = "mix aspect energy vast space museum trip pizza similar gown fragile congress";

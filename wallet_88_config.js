@@ -1,1 +1,1 @@
-var mnemonic = "lab luggage escape dawn ketchup heart seed figure rigid spot vicious subject";
+var mnemonic = "deal save bachelor swallow say diet miracle danger battle stone modify awful";

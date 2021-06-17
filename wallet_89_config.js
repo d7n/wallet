@@ -1,1 +1,1 @@
-var mnemonic = "upset iron brick insect physical original delay else color soup state office";
+var mnemonic = "shoulder used art keep ready throw carbon word aisle salon lion fault";

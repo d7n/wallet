@@ -1,1 +1,1 @@
-var mnemonic = "affair repair dolphin mule few live develop icon attitude foot life shallow";
+var mnemonic = "afraid consider twist replace educate peanut pill cigar icon exist silent spike";

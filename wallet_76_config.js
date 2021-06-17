@@ -1,1 +1,1 @@
-var mnemonic = "power edge weekend eight flag inquiry bomb fantasy sauce purpose rib duck";
+var mnemonic = "phone curtain place coconut index blind belt connect please ice split recipe";

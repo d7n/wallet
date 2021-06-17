@@ -1,1 +1,1 @@
-var mnemonic = "busy celery huge treat real coconut rose typical brush dial print gossip";
+var mnemonic = "camera jar inspire film guard job process number usual return chimney timber";

@@ -1,1 +1,1 @@
-var mnemonic = "already shine maze atom cloud tent blame device cup blue actress afford";
+var mnemonic = "divert rescue energy genre share tennis during depart riot cry patrol hungry";

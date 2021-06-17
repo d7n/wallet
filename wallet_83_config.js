@@ -1,1 +1,1 @@
-var mnemonic = "symptom tourist violin cliff faint hard gasp cotton couple orient yard force";
+var mnemonic = "glass range type december album ignore maple night door material crazy hobby";

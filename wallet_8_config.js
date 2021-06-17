@@ -1,1 +1,1 @@
-var mnemonic = "decrease floor enroll project rough viable ocean payment dragon trial shrimp bonus";
+var mnemonic = "oil strike bachelor attitude discover width piano museum soft surround loud latin";

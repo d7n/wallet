@@ -1,1 +1,1 @@
-var mnemonic = "snow skull desk diary pave connect drift section blur ritual deal symbol";
+var mnemonic = "order flat clump issue suffer wet eager recycle almost bridge bronze pave";

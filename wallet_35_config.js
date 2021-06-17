@@ -1,1 +1,1 @@
-var mnemonic = "prefer hazard tragic fabric intact collect unfair silly upon prosper afford happy";
+var mnemonic = "rescue pitch vital cover december access certain monitor order general pulse antique";

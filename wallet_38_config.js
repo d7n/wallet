@@ -1,1 +1,1 @@
-var mnemonic = "sentence horn gorilla uncle bunker match curtain vanish invest head wheat skin";
+var mnemonic = "online abuse keep pony bitter lottery unlock plug dragon wasp use about";

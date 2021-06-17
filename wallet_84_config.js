@@ -1,1 +1,1 @@
-var mnemonic = "diagram assist excuse eyebrow kangaroo stomach laptop muffin ability dentist nice leopard";
+var mnemonic = "train update order beach reject they define erase debris sight virus video";

@@ -1,1 +1,1 @@
-var mnemonic = "desk judge estate faint unusual chest trial erupt kiwi alone omit search";
+var mnemonic = "bubble brave timber erupt kiwi salon casual fun engage arrive fog best";

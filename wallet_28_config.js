@@ -1,1 +1,1 @@
-var mnemonic = "gown guitar wasp ship hair verb law useless fever awesome animal ready";
+var mnemonic = "used rare clip monitor blossom inside toddler float material scissors casual social";

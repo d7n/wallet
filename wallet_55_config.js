@@ -1,1 +1,1 @@
-var mnemonic = "flat certain enforce border chuckle eagle clever icon member arch tank never";
+var mnemonic = "vocal exile success label amazing ride bird vague quiz place ocean anxiety";

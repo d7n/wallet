@@ -1,1 +1,1 @@
-var mnemonic = "green quick illness truly hole album popular guess muffin finger capable during";
+var mnemonic = "portion champion shield dismiss prize erupt mango element merge palace river blouse";

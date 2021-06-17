@@ -1,1 +1,1 @@
-var mnemonic = "drink print train acoustic marriage six exhaust ritual miracle oppose chase gown";
+var mnemonic = "copy donor stock civil metal review bar title patch purity ketchup ship";

@@ -1,1 +1,1 @@
-var mnemonic = "renew alter jump merit cross boat expand festival pulp desk unusual abstract";
+var mnemonic = "mosquito cruel rifle hurt giant tower raw letter primary office west mimic";

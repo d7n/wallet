@@ -1,1 +1,1 @@
-var mnemonic = "noise bid damage space remember series rubber syrup sentence depart plunge elbow";
+var mnemonic = "drive rich side boat struggle bicycle hotel away suggest firm satisfy margin";

@@ -1,1 +1,1 @@
-var mnemonic = "transfer slight sniff blade reunion year bench easily pink abuse naive type";
+var mnemonic = "risk already video walk embody share method quote today original advice bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "waste comic poem foil sister rate region satoshi chef invest ten ripple";
+var mnemonic = "verify tiny fetch boss atom weather silent flight bid zebra release voice";

@@ -1,1 +1,1 @@
-var mnemonic = "example million abuse when force quality hurdle educate riot luggage liquid vapor";
+var mnemonic = "position bless one art bachelor twin diet upgrade bus bean unlock oil";

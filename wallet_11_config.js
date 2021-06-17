@@ -1,1 +1,1 @@
-var mnemonic = "horror need proud journey scan miracle viable grunt upgrade genuine recipe use";
+var mnemonic = "file exact stable member load cliff siren base grow rib mammal false";

@@ -1,1 +1,1 @@
-var mnemonic = "grit attend test cute thumb other calm play equip consider quiz easy";
+var mnemonic = "purse news gap post artwork sting spice pear display system suspect shock";

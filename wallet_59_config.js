@@ -1,1 +1,1 @@
-var mnemonic = "shoe legal guitar slush float will exchange rigid craft fringe decline build";
+var mnemonic = "garden moment broccoli law party discover drill struggle obey witness chief gravity";

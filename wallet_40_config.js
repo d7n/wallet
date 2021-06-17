@@ -1,1 +1,1 @@
-var mnemonic = "deposit much couple faint match water ivory planet blue razor canal answer";
+var mnemonic = "vibrant monster result become eternal person cricket balcony warrior report cricket history";

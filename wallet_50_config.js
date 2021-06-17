@@ -1,1 +1,1 @@
-var mnemonic = "adjust foster tattoo observe drastic radio bounce easy father slice buddy evoke";
+var mnemonic = "mixture success giggle palm toy prepare auto high glory sight fold brush";

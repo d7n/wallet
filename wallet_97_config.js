@@ -1,1 +1,1 @@
-var mnemonic = "gadget major level athlete twelve spider voice enrich tower grace because cliff";
+var mnemonic = "pupil father middle tuition blanket mean physical stereo forget inspire animal stool";

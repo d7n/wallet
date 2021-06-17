@@ -1,1 +1,1 @@
-var mnemonic = "concert south practice exhaust buyer powder output caught snack ugly virtual trend";
+var mnemonic = "salon clinic dose purpose glory ketchup envelope supreme injury master lens ability";

@@ -1,1 +1,1 @@
-var mnemonic = "hour subject reveal identify venue wrist body chef behave video ankle picnic";
+var mnemonic = "monster remind oil era material shrug enlist rather twist tilt attend jaguar";

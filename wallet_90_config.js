@@ -1,1 +1,1 @@
-var mnemonic = "favorite soldier essence later tide vessel huge script want fix deal stumble";
+var mnemonic = "lunch muscle push assist bread brain orient mixture cage wait wolf exchange";

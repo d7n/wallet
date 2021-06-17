@@ -1,1 +1,1 @@
-var mnemonic = "citizen resource junior fault shine trial family accuse daughter mass soul choose";
+var mnemonic = "vehicle glow amateur flower soft pen rent flock wood swift rabbit spray";

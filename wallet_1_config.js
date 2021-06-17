@@ -1,1 +1,1 @@
-var mnemonic = "fluid ozone bulb exile warm scheme fiscal erupt bench bench frost glance";
+var mnemonic = "taste flash cheese retire approve scan curtain draw doctor unit rubber cherry";

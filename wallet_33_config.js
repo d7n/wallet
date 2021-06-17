@@ -1,1 +1,1 @@
-var mnemonic = "hamster acquire black spin excess scrub decrease fashion catch worry remove bike";
+var mnemonic = "print loan pair diagram hospital virtual almost soul uniform exhaust guard derive";

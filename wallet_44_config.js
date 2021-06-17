@@ -1,1 +1,1 @@
-var mnemonic = "saddle consider online bomb broom pig mercy clever cute danger switch visual";
+var mnemonic = "method stool disorder olive flame wave team law owner predict main razor";

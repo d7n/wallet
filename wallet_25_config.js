@@ -1,1 +1,1 @@
-var mnemonic = "trade until buffalo allow naive live also settle sting erode door gesture";
+var mnemonic = "devote put proof link shy depend salt wage coffee flock foil fragile";

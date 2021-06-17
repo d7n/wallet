@@ -1,1 +1,1 @@
-var mnemonic = "keen bargain float dynamic museum slim invest daring typical another assume plastic";
+var mnemonic = "bone tornado fat glare ski minor citizen round taxi oxygen inhale solar";

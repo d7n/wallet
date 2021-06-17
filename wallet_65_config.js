@@ -1,1 +1,1 @@
-var mnemonic = "salute liar giraffe flame such pause volume sun gold oxygen donor exhibit";
+var mnemonic = "adult decrease label frequent naive move rabbit wear creek mandate merit off";

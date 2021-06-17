@@ -1,1 +1,1 @@
-var mnemonic = "limit tuition chimney wealth theory fog lift panda august slim kitchen venture";
+var mnemonic = "beach logic wood box silly electric general lend lottery this response salmon";

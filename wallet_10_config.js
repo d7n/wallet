@@ -1,1 +1,1 @@
-var mnemonic = "rival remember clutch spawn fence local song syrup renew used spoil benefit";
+var mnemonic = "just legend age slim tomato reason motor just hill flee normal effort";

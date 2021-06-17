@@ -1,1 +1,1 @@
-var mnemonic = "dry invest key limit final infant thrive correct body spy affair monster";
+var mnemonic = "knock domain excess ozone alert water piano busy lecture include speed velvet";

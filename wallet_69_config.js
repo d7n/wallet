@@ -1,1 +1,1 @@
-var mnemonic = "city crawl mean bus mosquito recall call squeeze always lobster oven check";
+var mnemonic = "ask price acquire prison drift topic pool also sugar smooth clerk tag";

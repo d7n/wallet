@@ -1,1 +1,1 @@
-var mnemonic = "coconut boring dish system kite minor because nuclear burden work hazard flash";
+var mnemonic = "scan one wrap tortoise give foster wash wasp bridge check file until";

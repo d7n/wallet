@@ -1,1 +1,1 @@
-var mnemonic = "cable cloud august apple veteran balance shield weapon home ride chicken list";
+var mnemonic = "glove pull edge mushroom motor fork glance enough swear any science family";

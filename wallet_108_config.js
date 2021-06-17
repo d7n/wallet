@@ -1,1 +1,1 @@
-var mnemonic = "science detail fatal jaguar round wasp often first change barely fortune know";
+var mnemonic = "eternal autumn alert hidden dinosaur report math blossom yard another rule fossil";

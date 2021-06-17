@@ -1,1 +1,1 @@
-var mnemonic = "unable citizen opinion inner write danger fetch kidney rally sword left possible";
+var mnemonic = "spot margin unaware neutral people hello castle anchor safe fitness jar flee";

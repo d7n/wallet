@@ -1,1 +1,1 @@
-var mnemonic = "retire improve color fiber holiday pencil survey shop endorse powder verb isolate";
+var mnemonic = "blame laptop siren what story spider skin yellow observe congress business tomorrow";

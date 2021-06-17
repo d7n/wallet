@@ -1,1 +1,1 @@
-var mnemonic = "nasty offer derive vehicle nominee chief dial cousin expect apology bunker slide";
+var mnemonic = "current kick afford earth wink sibling phone slot lizard ill slow usual";

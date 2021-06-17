@@ -1,1 +1,1 @@
-var mnemonic = "snack pencil program art midnight city note nephew tide program swamp cross";
+var mnemonic = "fashion jaguar endless board peace soda suit funny tube lonely work help";

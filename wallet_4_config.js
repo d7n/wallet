@@ -1,1 +1,1 @@
-var mnemonic = "stuff cup slow avoid wave assume extend sand source collect jacket input";
+var mnemonic = "water evil orchard diagram ripple invest screen deer bubble lend soon one";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon meadow burst below zebra repeat hour jar tube caught skull absent";
+var mnemonic = "soon hockey spatial reflect siren lemon cave present simple illegal blood flash";

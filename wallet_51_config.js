@@ -1,1 +1,1 @@
-var mnemonic = "august equip cream kangaroo hospital arrange viable inner choose pull fox veteran";
+var mnemonic = "ripple shed quit exhibit frost donate maximum potato seek flock female sheriff";

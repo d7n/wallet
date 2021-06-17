@@ -1,1 +1,1 @@
-var mnemonic = "replace worth over stairs demise brother century nerve jungle lawsuit file faith";
+var mnemonic = "crane rough erode borrow admit cattle embark soon festival wall disease upgrade";

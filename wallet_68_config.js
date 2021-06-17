@@ -1,1 +1,1 @@
-var mnemonic = "orbit area oak brisk entire mosquito deal verify creek filter blame walnut";
+var mnemonic = "extra question side camp combine include beauty hint sail thought reform border";

@@ -1,1 +1,1 @@
-var mnemonic = "timber axis wine movie group tooth below enemy measure safe abstract loud";
+var mnemonic = "satisfy mesh that illegal seminar proud keep elder thought steel wise spice";

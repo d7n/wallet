@@ -1,1 +1,1 @@
-var mnemonic = "radio over actor gather traffic lobster favorite post solid toward kid gym";
+var mnemonic = "cause leave custom quit smart wine defy retreat axis moment company fancy";

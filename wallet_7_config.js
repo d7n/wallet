@@ -1,1 +1,1 @@
-var mnemonic = "series offer universe trash climb deer thing blush flame black fringe idea";
+var mnemonic = "unique moral they turtle scatter neutral analyst mean choose unusual vacuum liar";
