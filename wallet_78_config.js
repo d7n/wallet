@@ -1,1 +1,1 @@
-var mnemonic = "clutch couch melody weird twelve erase flee any enough custom common security";
+var mnemonic = "tree uniform during sword sweet switch subway will trash always pact shaft";

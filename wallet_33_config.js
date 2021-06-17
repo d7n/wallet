@@ -1,1 +1,1 @@
-var mnemonic = "hidden crouch ritual culture brief amused execute swear dignity expand fix trade";
+var mnemonic = "oval mom limit obtain loan weasel street decline vehicle wire inform romance";

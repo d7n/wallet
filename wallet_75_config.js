@@ -1,1 +1,1 @@
-var mnemonic = "video lift canal dune follow manage vast rabbit bracket hover heart car";
+var mnemonic = "verify weapon ride danger effort property manual expand truck coyote fire rebuild";

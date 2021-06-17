@@ -1,1 +1,1 @@
-var mnemonic = "rain ceiling can goose tattoo sorry retire average science element pepper bachelor";
+var mnemonic = "shock option they fat crisp suspect pottery mule elevator service habit say";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff cute vault detail balance sketch nature grocery story hurry test describe";
+var mnemonic = "kick grant predict balance pottery able man message swing knock obscure test";

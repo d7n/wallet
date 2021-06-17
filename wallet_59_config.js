@@ -1,1 +1,1 @@
-var mnemonic = "only urge ignore shine virus board thrive only excess hollow wash letter";
+var mnemonic = "drip opera frequent night lumber spirit crawl come drill april winner miracle";

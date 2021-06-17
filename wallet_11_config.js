@@ -1,1 +1,1 @@
-var mnemonic = "follow celery lyrics year pioneer bulb sister chuckle inmate bulk jaguar hub";
+var mnemonic = "member fever cup song beauty dwarf when what leopard axis tower same";

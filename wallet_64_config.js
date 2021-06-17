@@ -1,1 +1,1 @@
-var mnemonic = "gap unfair wool upgrade hockey ankle fat dog obvious chronic whip coach";
+var mnemonic = "swarm kite island access limb file fall public demise mix arena edge";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup torch metal punch flash solar evil earn wise gaze attract eager";
+var mnemonic = "wrestle coast repair anger guilt fault seminar surge document buyer lemon century";

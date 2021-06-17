@@ -1,1 +1,1 @@
-var mnemonic = "treat garlic honey decorate diagram february infant cabbage rebuild flower cute flee";
+var mnemonic = "turn spy episode extend dolphin ugly victory silver suffer quick olympic absent";

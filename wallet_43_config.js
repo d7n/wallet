@@ -1,1 +1,1 @@
-var mnemonic = "until emerge typical abstract open inject pistol aerobic welcome replace dream fire";
+var mnemonic = "jump point slow merry soda damage combine cash hospital message company inhale";

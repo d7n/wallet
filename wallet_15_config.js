@@ -1,1 +1,1 @@
-var mnemonic = "suffer good fine pool cave input slot soldier express drift truth kingdom";
+var mnemonic = "dream wink inhale cigar prevent immense corn kick hour cat also basket";

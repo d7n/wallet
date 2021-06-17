@@ -1,1 +1,1 @@
-var mnemonic = "liquid they learn prevent wire staff decrease wonder major sphere minute genius";
+var mnemonic = "celery type they aerobic dutch spray deputy fish lake sight must couple";

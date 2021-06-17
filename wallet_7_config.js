@@ -1,1 +1,1 @@
-var mnemonic = "priority kick tower screen thing canyon clerk cargo risk cycle begin embody";
+var mnemonic = "shy glow winner have winter media liar favorite gospel twice eye clutch";

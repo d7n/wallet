@@ -1,1 +1,1 @@
-var mnemonic = "dream never borrow okay absurd match chef bounce puzzle vote usual vital";
+var mnemonic = "cliff ship delay base holiday bread raven cash guitar copper forward apart";

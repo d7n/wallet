@@ -1,1 +1,1 @@
-var mnemonic = "motion swap mosquito breeze bright slim era neutral tilt ecology front hand";
+var mnemonic = "couple guess pencil real thing jeans apology attend minute can hair dinosaur";

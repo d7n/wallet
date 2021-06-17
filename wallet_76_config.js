@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog win tell hurt blast urban bulb island rifle wild ostrich broom";
+var mnemonic = "flag half approve tool slam season sketch afford say tennis noodle topic";

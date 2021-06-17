@@ -1,1 +1,1 @@
-var mnemonic = "reveal erupt squeeze increase inmate insect truly point beyond melody brave crane";
+var mnemonic = "media leg relax sustain enjoy lawsuit sign sport bamboo into measure leaf";

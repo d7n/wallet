@@ -1,1 +1,1 @@
-var mnemonic = "fox name angle license bike shine sail right wasp suit wall hero";
+var mnemonic = "cat waste search alcohol skin foster solution wreck north absurd betray report";

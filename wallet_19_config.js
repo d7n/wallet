@@ -1,1 +1,1 @@
-var mnemonic = "inmate noble mind able cram service canal siege hurdle economy borrow gloom";
+var mnemonic = "birth exhaust throw question front stool urban erupt buyer dove giraffe dice";

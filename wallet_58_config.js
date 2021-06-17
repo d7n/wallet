@@ -1,1 +1,1 @@
-var mnemonic = "coin olive twelve trim famous prize fringe matter diamond live version noble";
+var mnemonic = "prosper wife prefer erode helmet daring depend next tomato actual level country";

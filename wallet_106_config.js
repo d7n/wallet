@@ -1,1 +1,1 @@
-var mnemonic = "thing capable right reject ordinary mom copper decline apart oven bomb insane";
+var mnemonic = "evil trade boss whisper light sail must lend tip donor tower butter";

@@ -1,1 +1,1 @@
-var mnemonic = "armor stamp depth buffalo crazy average merge sausage negative loop obvious cinnamon";
+var mnemonic = "royal mirror coil fashion patrol spend focus edge obtain apology album exile";

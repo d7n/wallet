@@ -1,1 +1,1 @@
-var mnemonic = "welcome recycle soon pledge certain salute capable ill victory just oven box";
+var mnemonic = "panic ethics mass put evolve wood lamp crazy pupil crouch climb legend";

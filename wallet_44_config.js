@@ -1,1 +1,1 @@
-var mnemonic = "inner twist deputy sense bid basic health type damp fluid help canvas";
+var mnemonic = "tag picnic giant pretty alcohol resist buddy disease slim seminar right allow";

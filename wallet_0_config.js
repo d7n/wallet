@@ -1,1 +1,1 @@
-var mnemonic = "ethics skill sunset grace again sister mountain crunch strong often rug tone";
+var mnemonic = "galaxy diamond fun sing acquire casual float mosquito illegal wing only mobile";

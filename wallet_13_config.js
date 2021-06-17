@@ -1,1 +1,1 @@
-var mnemonic = "surround hedgehog stairs obtain century goddess case anger carpet suggest shell knock";
+var mnemonic = "earn surge symbol tourist robot tilt jaguar afraid develop special aware income";

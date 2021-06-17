@@ -1,1 +1,1 @@
-var mnemonic = "witness nice glide month foot erupt bounce accident cancel boost prepare wonder";
+var mnemonic = "bargain sphere solve meadow name arena one employ remain drop divert spot";

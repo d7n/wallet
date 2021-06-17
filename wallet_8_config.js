@@ -1,1 +1,1 @@
-var mnemonic = "diamond sunset metal dinner daring vibrant metal glide relax priority sail foam";
+var mnemonic = "holiday sniff rookie return champion label avocado hockey depth basket rude ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge useful cliff motor fan seven host thunder story cry patrol deliver";
+var mnemonic = "brown piano trial number ship brief current wire rare cupboard sock dynamic";

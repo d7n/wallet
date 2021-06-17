@@ -1,1 +1,1 @@
-var mnemonic = "thunder weekend panic win abandon coin myself police high symptom insect talk";
+var mnemonic = "sausage inflict laptop border shine spice cart monitor drama lab half excuse";

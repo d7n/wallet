@@ -1,1 +1,1 @@
-var mnemonic = "faint setup core various upper creek reason hire crumble frequent face output";
+var mnemonic = "total dose battle combine lunch gold scrap dinner submit fame find trigger";

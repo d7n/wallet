@@ -1,1 +1,1 @@
-var mnemonic = "crack august disease trade please pilot copper void afford staff adjust truly";
+var mnemonic = "small half tennis draft method squeeze slide derive raven patrol street pitch";

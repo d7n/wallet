@@ -1,1 +1,1 @@
-var mnemonic = "casual biology medal athlete submit kitten review sister orient defy obey vessel";
+var mnemonic = "river sand warfare desk oven pear soda couch valve dolphin fence exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "wait narrow crisp kind citizen neutral firm fashion bleak width inquiry stool";
+var mnemonic = "rigid pistol virus eight earth fiction cement width royal busy tornado arctic";

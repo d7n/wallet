@@ -1,1 +1,1 @@
-var mnemonic = "trophy frost summer like lesson arrange add sense oven horn reform manage";
+var mnemonic = "keen skirt civil pilot clown dose craft wage laugh twice uniform urge";

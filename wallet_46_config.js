@@ -1,1 +1,1 @@
-var mnemonic = "sauce evoke mansion cup dwarf gaze grow cart net bunker eternal monkey";
+var mnemonic = "hold pupil truth economy color police bless become hidden solar eagle juice";

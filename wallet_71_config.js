@@ -1,1 +1,1 @@
-var mnemonic = "jazz crunch start tissue zone torch express income autumn tumble wonder night";
+var mnemonic = "scatter apart fancy hamster shoe foil praise foil oblige write domain saddle";

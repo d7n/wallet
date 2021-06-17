@@ -1,1 +1,1 @@
-var mnemonic = "clown combine crawl category sport ring myth assault bind wrestle unfair reopen";
+var mnemonic = "snack problem balance riot dress interest hill vague suggest duty palm earth";

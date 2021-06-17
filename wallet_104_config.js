@@ -1,1 +1,1 @@
-var mnemonic = "orbit half bar kitten give glue grow pair waste gun story wire";
+var mnemonic = "obvious chair cruel stable process shuffle one web corn ethics reform siege";

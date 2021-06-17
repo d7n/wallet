@@ -1,1 +1,1 @@
-var mnemonic = "luxury grief ready unusual bus rocket kitten mutual asthma install tone sorry";
+var mnemonic = "siren update range rack symbol trend swamp sketch fog snow matter palm";

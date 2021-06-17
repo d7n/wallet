@@ -1,1 +1,1 @@
-var mnemonic = "chat someone guide misery naive detail antique crack loud prize close busy";
+var mnemonic = "uncover village clog clutch sentence charge dolphin raccoon hazard mother parade melody";

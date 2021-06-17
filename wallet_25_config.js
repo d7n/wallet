@@ -1,1 +1,1 @@
-var mnemonic = "couch title weapon speak baby pencil clinic record apart oppose rabbit luxury";
+var mnemonic = "claw stove film mechanic hub foam seat deposit series either truth february";

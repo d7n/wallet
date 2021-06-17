@@ -1,1 +1,1 @@
-var mnemonic = "basket mansion moment inform chronic bitter wheel lonely reflect vanish choice wagon";
+var mnemonic = "badge gallery cushion pencil vivid laundry gain recipe keen recycle frame reform";

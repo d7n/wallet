@@ -1,1 +1,1 @@
-var mnemonic = "across tide alarm farm goat target diamond weapon job secret jewel walk";
+var mnemonic = "ugly metal oven arrive episode nature theory scrap same canoe peasant prepare";

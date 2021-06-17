@@ -1,1 +1,1 @@
-var mnemonic = "seven tackle spin twist title brown divorce dilemma badge negative battle squirrel";
+var mnemonic = "rail pitch need close motion hour document hunt job service public beauty";

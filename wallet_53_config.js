@@ -1,1 +1,1 @@
-var mnemonic = "tape tumble until mind palace topic accuse target pyramid almost notice ethics";
+var mnemonic = "bean absurd husband stadium trim estate again damage entry solid sentence notice";

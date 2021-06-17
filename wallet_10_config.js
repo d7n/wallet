@@ -1,1 +1,1 @@
-var mnemonic = "boat drastic vital bright private ostrich expose rapid various juice august guilt";
+var mnemonic = "height kingdom mixed swallow cave shy outer antique legal neutral abandon invite";

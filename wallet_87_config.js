@@ -1,1 +1,1 @@
-var mnemonic = "genre under time curve mandate route clay grunt ozone home lawsuit advance";
+var mnemonic = "little fade mention eye foot orbit alpha heart loan tilt win harvest";

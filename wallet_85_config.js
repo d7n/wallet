@@ -1,1 +1,1 @@
-var mnemonic = "hazard short cable boring close rather actress sister urge faculty hard frequent";
+var mnemonic = "fossil spot addict raven armed army divert trade reject stadium average exist";

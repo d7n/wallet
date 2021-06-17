@@ -1,1 +1,1 @@
-var mnemonic = "primary brown electric bulb curve wealth below stomach mansion blood call symbol";
+var mnemonic = "flee tray calm chef tilt find frequent sword dolphin club actor husband";

@@ -1,1 +1,1 @@
-var mnemonic = "high dry across process amazing risk record share citizen size weird worth";
+var mnemonic = "coast tongue forward clump deer glow sunset visa move file hard verb";

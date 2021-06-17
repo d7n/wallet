@@ -1,1 +1,1 @@
-var mnemonic = "vintage thunder citizen scorpion rocket tape cupboard fold tornado venture actual distance";
+var mnemonic = "move evil length swarm achieve just cluster dream office essay scorpion keen";

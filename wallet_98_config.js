@@ -1,1 +1,1 @@
-var mnemonic = "receive squeeze process method response force midnight assume adjust sadness bronze host";
+var mnemonic = "tumble width harbor truth alone calm drink wise palm easy bridge spare";

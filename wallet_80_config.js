@@ -1,1 +1,1 @@
-var mnemonic = "provide anxiety humor novel fatigue emotion panic party cause column invite employ";
+var mnemonic = "dawn gown road ensure burger harbor utility turkey spend toss maple copper";

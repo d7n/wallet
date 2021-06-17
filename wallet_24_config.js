@@ -1,1 +1,1 @@
-var mnemonic = "picnic path stamp salad pill clinic blush dizzy warrior radio clutch crawl";
+var mnemonic = "fat mistake tennis dinner team silver lumber conduct flash machine enroll dune";

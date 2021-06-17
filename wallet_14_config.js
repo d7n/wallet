@@ -1,1 +1,1 @@
-var mnemonic = "giraffe casino mandate advice vault width can neglect despair smile boy gown";
+var mnemonic = "path hold few valid rent vessel ship pyramid sausage cannon busy used";

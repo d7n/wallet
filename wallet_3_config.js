@@ -1,1 +1,1 @@
-var mnemonic = "best coffee else divert whisper human cute curious room clip picture lizard";
+var mnemonic = "sketch punch uncle address inquiry version board vessel robot please include gesture";

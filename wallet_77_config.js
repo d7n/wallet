@@ -1,1 +1,1 @@
-var mnemonic = "milk surge pencil clean notice few fatigue bright funny despair lizard cinnamon";
+var mnemonic = "client govern cover luggage state frost pudding stumble purpose tomato debate session";

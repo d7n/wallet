@@ -1,1 +1,1 @@
-var mnemonic = "trip inform utility visit install detect sheriff clown scrub wait world property";
+var mnemonic = "owner female flock render fee urban enough begin aisle limit toss equip";

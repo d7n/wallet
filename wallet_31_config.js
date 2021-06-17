@@ -1,1 +1,1 @@
-var mnemonic = "cereal silly off renew hub rich attract casino trim isolate metal casino";
+var mnemonic = "aisle buddy ceiling guitar cave author bless someone region airport ski track";

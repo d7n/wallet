@@ -1,1 +1,1 @@
-var mnemonic = "fork carpet desk circle misery clerk above negative legal inquiry shoot view";
+var mnemonic = "enter north barrel road happy crash dial say flame dinner emotion round";

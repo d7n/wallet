@@ -1,1 +1,1 @@
-var mnemonic = "ostrich ceiling girl witness educate fragile feel liquid pyramid force milk feature";
+var mnemonic = "brisk despair clean dust false scan infant large maid disagree twice wage";

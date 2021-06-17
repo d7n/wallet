@@ -1,1 +1,1 @@
-var mnemonic = "script mixture awkward leg decade embark husband inmate two basket midnight present";
+var mnemonic = "citizen mom flower choice choice fashion proud river ceiling cinnamon imitate clinic";

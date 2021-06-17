@@ -1,1 +1,1 @@
-var mnemonic = "light whisper early rack squirrel identify width vital silly coconut crucial recipe";
+var mnemonic = "note limit witness box faith must fiber snap alone major mixed furnace";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding split luxury fitness swamp hello rule armor comfort engage promote there";
+var mnemonic = "invest patient erase normal rival mixed permit panel mobile foot dinner gym";

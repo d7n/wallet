@@ -1,1 +1,1 @@
-var mnemonic = "decrease marble rely fiscal unit fork power resemble upon certain vocal side";
+var mnemonic = "denial brief cram rural alert corn family edit title wave list ship";

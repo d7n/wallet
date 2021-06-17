@@ -1,1 +1,1 @@
-var mnemonic = "never duck art person ladder provide glare mansion hint congress clutch invest";
+var mnemonic = "soup recycle away approve reject pool general use party squirrel april side";

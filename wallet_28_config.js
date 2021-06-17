@@ -1,1 +1,1 @@
-var mnemonic = "awesome hotel possible assist helmet gas chuckle poem logic walnut oppose page";
+var mnemonic = "toe woman nasty girl dry client miss final win winter foot fork";

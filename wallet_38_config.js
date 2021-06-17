@@ -1,1 +1,1 @@
-var mnemonic = "limb modify increase jaguar cross jungle rescue case swear primary film theme";
+var mnemonic = "post stool cave correct trophy column spy unfold denial inhale extra decade";

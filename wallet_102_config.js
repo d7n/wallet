@@ -1,1 +1,1 @@
-var mnemonic = "exile impose sister travel jar goddess tank corn equip wave math object";
+var mnemonic = "wrist drastic drastic crisp virtual draw genius coin display deer cry essay";

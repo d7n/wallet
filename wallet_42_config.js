@@ -1,1 +1,1 @@
-var mnemonic = "feature bless inner census pair virtual giggle enable mix pause better crop";
+var mnemonic = "impact runway bulb spot grit hybrid future apology present phrase shuffle club";

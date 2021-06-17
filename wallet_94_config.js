@@ -1,1 +1,1 @@
-var mnemonic = "hour fatigue swim wreck survey pepper cram exhibit sunset about legal sign";
+var mnemonic = "roof garden wall soda trade crack camp normal welcome sock usage sugar";

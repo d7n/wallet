@@ -1,1 +1,1 @@
-var mnemonic = "dose best exercise drill toe deer embody label divorce gap chuckle fiscal";
+var mnemonic = "kind this peasant since wide mandate only parrot crop mesh spread bridge";

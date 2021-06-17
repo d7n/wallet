@@ -1,1 +1,1 @@
-var mnemonic = "velvet thrive cat hedgehog scissors talent smoke whale category dad pretty today";
+var mnemonic = "parrot buffalo portion onion member glance foam spice actual cancel glare ski";

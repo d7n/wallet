@@ -1,1 +1,1 @@
-var mnemonic = "raw country diamond narrow local office margin series pill shed erode mosquito";
+var mnemonic = "grid gap obvious robust voice material ball love feed much say exile";

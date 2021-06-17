@@ -1,1 +1,1 @@
-var mnemonic = "bitter hole ginger layer concert protect key dinosaur river photo labor gasp";
+var mnemonic = "undo goat luxury lucky whale october science elder vacuum february foil sure";

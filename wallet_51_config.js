@@ -1,1 +1,1 @@
-var mnemonic = "mention steak must year delay air mystery weapon mail shaft atom govern";
+var mnemonic = "month smooth option wheat myth blade brass divorce scene craft unit cabbage";

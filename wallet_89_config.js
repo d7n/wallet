@@ -1,1 +1,1 @@
-var mnemonic = "virtual unknown trust include nut half silent legal left century like window";
+var mnemonic = "favorite crowd certain benefit nominee song harbor unhappy cage inhale dream addict";

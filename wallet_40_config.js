@@ -1,1 +1,1 @@
-var mnemonic = "glide code arrange cage ramp sauce spring company thank hurdle shell barrel";
+var mnemonic = "rather stamp hover fiber language valve pitch print blind hammer envelope picture";

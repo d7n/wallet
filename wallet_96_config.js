@@ -1,1 +1,1 @@
-var mnemonic = "success undo stereo domain column topic draw grab coral way light boring";
+var mnemonic = "organ better until illegal author saddle illegal vehicle toe lecture patient list";

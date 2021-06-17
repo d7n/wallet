@@ -1,1 +1,1 @@
-var mnemonic = "play clip upper swallow lazy worry swear kingdom cook bless chat found";
+var mnemonic = "powder firm exchange hope any blame like powder aerobic tape steel attitude";

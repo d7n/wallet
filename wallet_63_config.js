@@ -1,1 +1,1 @@
-var mnemonic = "sponsor mansion sand section muscle mystery kick oak kidney inmate grow indoor";
+var mnemonic = "maze mother track swing high tenant sting agent gasp high sweet puppy";

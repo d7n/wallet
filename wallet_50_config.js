@@ -1,1 +1,1 @@
-var mnemonic = "street idea myself lawsuit about hello you where morning live tired roof";
+var mnemonic = "hazard section room orbit seek panther evoke stairs alter great garage order";

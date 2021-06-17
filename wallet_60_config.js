@@ -1,1 +1,1 @@
-var mnemonic = "innocent junior remove duck problem blush pelican solution invest oval cave mule";
+var mnemonic = "exile degree sword dinner tired exhaust diary solid exchange cherry copy piece";

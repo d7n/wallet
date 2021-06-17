@@ -1,1 +1,1 @@
-var mnemonic = "settle win much column adapt guard town dilemma acoustic cute struggle couch";
+var mnemonic = "dismiss multiply speed answer flee gesture error put grief enlist pet pole";

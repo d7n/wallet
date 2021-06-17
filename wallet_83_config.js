@@ -1,1 +1,1 @@
-var mnemonic = "accident voice world food excuse scare abuse replace argue silly bachelor mule";
+var mnemonic = "actor such submit visa observe fantasy rookie kiss wealth spice wonder unaware";

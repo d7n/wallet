@@ -1,1 +1,1 @@
-var mnemonic = "family enroll fan burger solid ginger evidence crash bulk empower clip suggest";
+var mnemonic = "raccoon cinnamon gaze kid say denial real issue remind resource dignity table";

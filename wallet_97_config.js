@@ -1,1 +1,1 @@
-var mnemonic = "wise exist mushroom off fossil accuse please track fossil rain exist ivory";
+var mnemonic = "below labor orchard snap pause mix voice crowd island cherry excuse oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "unique thunder salmon employ health pigeon lab chase pole flag elder force";
+var mnemonic = "bamboo stuff edit casino family endless define doctor object armor ordinary panda";
