@@ -1,1 +1,1 @@
-var mnemonic = "enlist return donate aisle pause join climb skull human case season crumble";
+var mnemonic = "rice trust thrive live forest rude economy fever youth eager impact tumble";

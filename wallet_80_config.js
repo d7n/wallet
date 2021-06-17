@@ -1,1 +1,1 @@
-var mnemonic = "sadness glass wheel mass rebuild satisfy heavy upgrade sunset estate crazy must";
+var mnemonic = "ocean pulp benefit boat angry advice cute label unfold fiction verify habit";

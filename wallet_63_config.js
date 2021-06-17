@@ -1,1 +1,1 @@
-var mnemonic = "soda upgrade learn yard donkey fiction gallery angry sense brand deal lemon";
+var mnemonic = "rent before oxygen lock more observe minimum occur analyst escape airport local";

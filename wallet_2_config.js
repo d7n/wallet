@@ -1,1 +1,1 @@
-var mnemonic = "make combine hard small net winner jar attend ocean skate orient refuse";
+var mnemonic = "mountain pledge behind moon kangaroo unveil monkey narrow truth nothing rescue tank";

@@ -1,1 +1,1 @@
-var mnemonic = "section allow quality into season diary arrange girl empty palace garage fuel";
+var mnemonic = "mimic grunt donate radio solve express forum pigeon giant pluck mango train";

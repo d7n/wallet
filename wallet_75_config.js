@@ -1,1 +1,1 @@
-var mnemonic = "input lawsuit scale catch prison main upon step cram combine juice kite";
+var mnemonic = "cereal barrel oak ill mom love muffin battle brand dash long adapt";

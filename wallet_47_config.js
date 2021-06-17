@@ -1,1 +1,1 @@
-var mnemonic = "during employ cost better survey vibrant mean lava cereal replace iron quiz";
+var mnemonic = "enjoy eagle car enhance core large fiction genre ability strike grace marine";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak unique crime twist cannon honey cream false decide grid simple object";
+var mnemonic = "spike climb sibling climb cram giggle glow mobile world zero throw beef";

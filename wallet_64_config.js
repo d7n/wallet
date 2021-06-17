@@ -1,1 +1,1 @@
-var mnemonic = "assume obtain rain expect dilemma pull nephew blind giraffe save brain best";
+var mnemonic = "another hero regret asset concert lady promote safe stove custom six drama";

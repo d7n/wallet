@@ -1,1 +1,1 @@
-var mnemonic = "rapid metal fiction coffee return tobacco annual giant flee never lizard stable";
+var mnemonic = "couple decide spike display together radio about undo divert stable bachelor half";

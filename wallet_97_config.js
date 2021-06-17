@@ -1,1 +1,1 @@
-var mnemonic = "weekend midnight orange mule absent exclude hedgehog slight athlete action urban roast";
+var mnemonic = "inside spirit hurry defense fan runway test stairs coast brave notable garlic";

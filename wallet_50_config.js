@@ -1,1 +1,1 @@
-var mnemonic = "brass stable wool team kick sword claw sail album kitchen noble sure";
+var mnemonic = "okay talent abstract wild march clerk ski game youth will kind tobacco";

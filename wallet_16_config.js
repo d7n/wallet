@@ -1,1 +1,1 @@
-var mnemonic = "horror quick rain salon taste into often solar team visa trophy level";
+var mnemonic = "mass disorder machine myself away crane fitness excess stove sunset opera offer";

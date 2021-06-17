@@ -1,1 +1,1 @@
-var mnemonic = "tornado essay screen trouble object notice super feed pizza attract surge squeeze";
+var mnemonic = "dismiss emotion wire dawn chunk shrimp hurdle corn absent chaos emotion coyote";

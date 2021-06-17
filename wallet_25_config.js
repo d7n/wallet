@@ -1,1 +1,1 @@
-var mnemonic = "hover patch wedding young lab fortune float upper reason ensure glimpse there";
+var mnemonic = "banner leopard stamp switch toilet pyramid pumpkin remove story argue army minimum";

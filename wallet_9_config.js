@@ -1,1 +1,1 @@
-var mnemonic = "twin social stick miracle vicious tortoise essence kitten organ squirrel label rather";
+var mnemonic = "craft jazz sort wear supply pair bamboo coil box all library great";

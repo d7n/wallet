@@ -1,1 +1,1 @@
-var mnemonic = "below ribbon diagram clever license boss hammer bomb travel fortune reduce mention";
+var mnemonic = "note envelope energy dumb fetch snake imitate unit train chimney scrap lizard";

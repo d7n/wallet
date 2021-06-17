@@ -1,1 +1,1 @@
-var mnemonic = "cargo yellow sphere adjust raw make gun glow loud hood olive mosquito";
+var mnemonic = "view snake dynamic actress solar rule coach burden false cannon live aim";

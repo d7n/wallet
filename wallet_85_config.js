@@ -1,1 +1,1 @@
-var mnemonic = "awkward crazy clown tennis problem struggle public december consider soul tomato saddle";
+var mnemonic = "kick frog elegant anxiety leader wolf song gas early fat can expire";

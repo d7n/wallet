@@ -1,1 +1,1 @@
-var mnemonic = "welcome magic anxiety grape peasant noble mixture behind minute purse west dignity";
+var mnemonic = "base become token material burst alarm diary actual robust pass orbit permit";

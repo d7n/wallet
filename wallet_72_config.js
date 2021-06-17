@@ -1,1 +1,1 @@
-var mnemonic = "yard velvet cabbage original buzz gift appear calm pelican mansion abandon scout";
+var mnemonic = "evolve purchase debris bundle program equal power tag wealth blouse symptom company";

@@ -1,1 +1,1 @@
-var mnemonic = "fiscal ordinary stamp jewel discover ozone shell quote silent crazy mask pear";
+var mnemonic = "system bird silent answer skirt change gospel process broccoli square address omit";

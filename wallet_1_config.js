@@ -1,1 +1,1 @@
-var mnemonic = "lucky example awkward cart trend ladder slice party ignore benefit better throw";
+var mnemonic = "please case enrich cram life figure gun lunch shed hold case jar";

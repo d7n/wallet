@@ -1,1 +1,1 @@
-var mnemonic = "clip army aim live dumb movie egg net catalog liquid range subway";
+var mnemonic = "such toss rice arch true sock more what divorce bronze wise faith";

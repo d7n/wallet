@@ -1,1 +1,1 @@
-var mnemonic = "story garbage beef visit reunion undo curve insane net sausage grant skull";
+var mnemonic = "pave penalty surge road hybrid hole ring trip affair kick cause horse";

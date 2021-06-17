@@ -1,1 +1,1 @@
-var mnemonic = "life credit burden smoke predict come daring menu violin pizza sudden fish";
+var mnemonic = "maple jazz claw original cheap topple escape leisure wire bleak elder clap";

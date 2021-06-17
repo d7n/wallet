@@ -1,1 +1,1 @@
-var mnemonic = "item they place whale shed license argue use destroy couple guide alter";
+var mnemonic = "turkey keep urban palace claw cook gate human hip twenty figure media";

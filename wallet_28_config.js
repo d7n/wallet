@@ -1,1 +1,1 @@
-var mnemonic = "simple spell screen derive december item timber slow empty kick laundry girl";
+var mnemonic = "grief desk secret despair head penalty year often poet dust boat trigger";

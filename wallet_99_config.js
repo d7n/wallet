@@ -1,1 +1,1 @@
-var mnemonic = "run sing they switch combine antenna later gate symbol close put butter";
+var mnemonic = "tourist welcome indicate wrist stamp seven aisle season woman whip stem motor";

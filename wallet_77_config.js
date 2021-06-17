@@ -1,1 +1,1 @@
-var mnemonic = "trial zone marble replace total subject casual stand consider jaguar cheap join";
+var mnemonic = "pledge float glad danger castle funny stage bomb decline guitar cannon arch";

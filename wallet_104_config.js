@@ -1,1 +1,1 @@
-var mnemonic = "pave day one mystery escape false ask action enroll click simple insect";
+var mnemonic = "among topic wedding faith scissors today park blind exact book distance phone";

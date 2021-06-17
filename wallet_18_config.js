@@ -1,1 +1,1 @@
-var mnemonic = "table visit plastic benefit control spike loud catch suffer hello payment use";
+var mnemonic = "seat idle undo art chicken curious group decide witness gravity forward sense";

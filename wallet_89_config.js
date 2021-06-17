@@ -1,1 +1,1 @@
-var mnemonic = "grocery tattoo chronic express pipe puzzle attack certain test chaos bid brother";
+var mnemonic = "verify humble depart segment seek claw always friend patient hamster clump swear";

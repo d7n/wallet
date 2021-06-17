@@ -1,1 +1,1 @@
-var mnemonic = "cloud often beauty similar hawk person remove stick enemy surround media pink";
+var mnemonic = "rebuild rookie vendor survey quality castle movie tornado nose panda oil audit";

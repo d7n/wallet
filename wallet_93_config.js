@@ -1,1 +1,1 @@
-var mnemonic = "shallow direct armed ripple hybrid hollow ceiling autumn verb random what sample";
+var mnemonic = "grace forest season two fly survey science slice fury champion burst brush";

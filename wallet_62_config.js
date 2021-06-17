@@ -1,1 +1,1 @@
-var mnemonic = "evidence village use genuine security guess prepare steel grief pink opinion trust";
+var mnemonic = "robust dad zoo welcome juice slim body abandon hair nuclear local chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "tunnel ghost industry neck during token vessel daughter enlist zebra balance music";
+var mnemonic = "boil dry stick differ close manual sunset fly woman gather race above";

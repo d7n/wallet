@@ -1,1 +1,1 @@
-var mnemonic = "manage invite pumpkin kick icon orient impose deputy moon shop glide nominee";
+var mnemonic = "spatial reflect rocket actual tray around squirrel hire gesture debris cash essence";

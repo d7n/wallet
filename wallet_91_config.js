@@ -1,1 +1,1 @@
-var mnemonic = "kitten worth suffer cushion use submit bid define under video language balance";
+var mnemonic = "twin pumpkin opera shift shoulder bulb pulse hockey ahead length illness brand";

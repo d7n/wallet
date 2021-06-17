@@ -1,1 +1,1 @@
-var mnemonic = "carry chief elbow plug extra double device warfare early fame immense current";
+var mnemonic = "empower weasel sail icon episode skirt length cruise antique latin shrug analyst";

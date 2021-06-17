@@ -1,1 +1,1 @@
-var mnemonic = "mass buzz spike special million giggle sentence injury cage divorce hotel coconut";
+var mnemonic = "master upon fork upon fall film cement survey economy rebel primary grace";

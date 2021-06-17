@@ -1,1 +1,1 @@
-var mnemonic = "draft demise sea milk almost true three trick latin hurry bus fiber";
+var mnemonic = "expire tone school diet cage glide wave neglect taste tenant impose hire";

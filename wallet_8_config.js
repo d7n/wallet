@@ -1,1 +1,1 @@
-var mnemonic = "accident escape danger whale tank stock merry air crime refuse vehicle output";
+var mnemonic = "advice dove mesh air draw tongue witness item vocal stable inhale slogan";

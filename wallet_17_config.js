@@ -1,1 +1,1 @@
-var mnemonic = "author century find swarm crowd moral grow lion forget cute rice afford";
+var mnemonic = "dinner birth virtual hospital thank absorb issue million color afford author message";

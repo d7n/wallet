@@ -1,1 +1,1 @@
-var mnemonic = "knife quarter owner outer orchard more hazard output kiwi jewel action case";
+var mnemonic = "wear humor lamp couple conduct west matrix smooth skill inform river primary";

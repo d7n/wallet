@@ -1,1 +1,1 @@
-var mnemonic = "mesh museum double truth ivory add parrot limit wild can wet report";
+var mnemonic = "left oven trumpet wage venue label weird just put muffin arrange credit";

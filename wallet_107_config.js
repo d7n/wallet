@@ -1,1 +1,1 @@
-var mnemonic = "work town police call flip hint step medal school stove spell merry";
+var mnemonic = "quote call destroy bacon bomb tail bronze crawl truly drink acquire absorb";

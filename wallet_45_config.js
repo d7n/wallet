@@ -1,1 +1,1 @@
-var mnemonic = "praise exotic cherry amazing phone maple mutual captain meat alley elegant cannon";
+var mnemonic = "parrot record verify obscure dutch ability idle rice warm suffer soda upon";

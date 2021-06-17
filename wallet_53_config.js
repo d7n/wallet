@@ -1,1 +1,1 @@
-var mnemonic = "then language also circle turkey used mention soup float autumn cloth window";
+var mnemonic = "spoon broccoli affair urge inform screen cluster fury table tomorrow point inch";

@@ -1,1 +1,1 @@
-var mnemonic = "whale peace brain ride depart resemble lamp slam champion puzzle wreck beauty";
+var mnemonic = "curtain fine cereal hundred poverty horse sudden skull deputy network vendor pool";

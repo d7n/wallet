@@ -1,1 +1,1 @@
-var mnemonic = "open elegant actress coyote observe brief three ahead embrace lift cradle right";
+var mnemonic = "ahead scale shock shrimp program series result police erupt million begin differ";

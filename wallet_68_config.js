@@ -1,1 +1,1 @@
-var mnemonic = "economy concert hat nature fall venture stone demand pull gain marine oven";
+var mnemonic = "hair gravity raw silent parade confirm organ drama penalty tree earn adapt";

@@ -1,1 +1,1 @@
-var mnemonic = "lady cruise surge process medal gown one utility average entire trip metal";
+var mnemonic = "zone poem turn wheat critic skill rib reject october stick winner midnight";

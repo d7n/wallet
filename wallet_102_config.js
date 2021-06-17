@@ -1,1 +1,1 @@
-var mnemonic = "skate teach notice wild taste random eager ship raw sport fluid mouse";
+var mnemonic = "sand peasant lucky venue south shift device ski uphold bleak sweet chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "sing ocean champion message fold cricket three gentle stereo much dad slogan";
+var mnemonic = "wage capable simple cute ticket club little flock glue cruise toe occur";

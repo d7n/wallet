@@ -1,1 +1,1 @@
-var mnemonic = "raccoon melody estate question engage space hollow story broken wagon luxury tragic";
+var mnemonic = "pilot ivory still strike prosper humor viable rapid mixed mind afraid rice";

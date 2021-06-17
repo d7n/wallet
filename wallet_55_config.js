@@ -1,1 +1,1 @@
-var mnemonic = "next immense toilet multiply hotel auction notable man topic zebra cherry cricket";
+var mnemonic = "slim body hello final similar giant illness business tiger pledge travel thank";

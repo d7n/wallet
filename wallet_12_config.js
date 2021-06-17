@@ -1,1 +1,1 @@
-var mnemonic = "audit soap kick problem wife sentence brand document say grunt draft dinosaur";
+var mnemonic = "rally never issue quality amount mystery world extend dish bid consider field";

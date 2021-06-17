@@ -1,1 +1,1 @@
-var mnemonic = "armor puzzle tuition pencil hand young recipe today limb afraid hill tray";
+var mnemonic = "dinosaur forest monitor saddle saddle season hockey bottom salmon middle cover girl";

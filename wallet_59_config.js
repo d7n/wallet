@@ -1,1 +1,1 @@
-var mnemonic = "ensure final panther deposit curtain have sing valve motor raven street demand";
+var mnemonic = "assault march rebel keep need file merry inmate guilt census slim advance";

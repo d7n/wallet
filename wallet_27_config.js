@@ -1,1 +1,1 @@
-var mnemonic = "inform voice wise glance garbage category draft suit close twelve change engine";
+var mnemonic = "report fence cram knock supreme ketchup club anxiety impose pride sun finger";

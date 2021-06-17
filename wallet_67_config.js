@@ -1,1 +1,1 @@
-var mnemonic = "unfair lizard victory tomorrow blouse luxury vocal arctic zoo oil common spike";
+var mnemonic = "prize budget plate swallow labor lake sleep mystery shaft stove garage local";

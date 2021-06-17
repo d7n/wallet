@@ -1,1 +1,1 @@
-var mnemonic = "blue save flower uphold lunar dish act cradle praise gather kitten abuse";
+var mnemonic = "mango smooth minor dash machine upon muscle broken over artwork you acquire";

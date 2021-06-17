@@ -1,1 +1,1 @@
-var mnemonic = "purchase opinion vote element trash cage skin boss beauty oppose program pioneer";
+var mnemonic = "orient grain glory mistake duck announce visit frost nation debate border wisdom";

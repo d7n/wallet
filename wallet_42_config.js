@@ -1,1 +1,1 @@
-var mnemonic = "segment vessel food jump peasant giraffe crater fun issue trip away attend";
+var mnemonic = "cousin ticket setup credit museum payment dentist coral ski worry hood era";

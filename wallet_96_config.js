@@ -1,1 +1,1 @@
-var mnemonic = "width knee shrimp bounce defense moon blood scare false pretty twice person";
+var mnemonic = "glove rotate limit ring rude flavor awkward tape fault entry dutch trick";

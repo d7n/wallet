@@ -1,1 +1,1 @@
-var mnemonic = "material tonight educate flight alert master relax great year zero learn brother";
+var mnemonic = "decorate embrace later casino destroy turn matter comic hour hawk certain fortune";

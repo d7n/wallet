@@ -1,1 +1,1 @@
-var mnemonic = "top fiction lunar update march green sand bargain intact judge deputy wonder";
+var mnemonic = "gown toward soap used charge unit life cave trend other verify tunnel";

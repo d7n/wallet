@@ -1,1 +1,1 @@
-var mnemonic = "achieve thought maximum potato resist impose weird rifle sausage cruel drink useful";
+var mnemonic = "abuse dress nuclear tooth card banana friend bag assume indoor when retreat";

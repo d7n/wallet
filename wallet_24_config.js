@@ -1,1 +1,1 @@
-var mnemonic = "tonight adapt kangaroo argue prison sadness olympic journey section photo two always";
+var mnemonic = "yellow diamond elephant label coin that cute impact spoon lift zero mansion";

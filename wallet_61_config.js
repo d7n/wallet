@@ -1,1 +1,1 @@
-var mnemonic = "bronze choice will before swing tomorrow honey anxiety unique will skin deal";
+var mnemonic = "grass error magic helmet advice biology infant act measure save under snap";

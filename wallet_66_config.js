@@ -1,1 +1,1 @@
-var mnemonic = "roast carry bike team master cheap snack later develop science lock major";
+var mnemonic = "know use issue soap engine almost tank thunder shine foil citizen thing";

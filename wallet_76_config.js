@@ -1,1 +1,1 @@
-var mnemonic = "hour time supreme depend wrestle series floor exhibit crush amount fashion wrestle";
+var mnemonic = "blind adult also anchor sheriff inch vibrant scare element impose shed pause";

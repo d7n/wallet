@@ -1,1 +1,1 @@
-var mnemonic = "physical glad second liberty choice fetch manage lion right picture mobile unique";
+var mnemonic = "problem mechanic gasp clay nation staff code burden exist purse moral habit";

@@ -1,1 +1,1 @@
-var mnemonic = "taste news offer carbon napkin traffic problem tower castle real shove remember";
+var mnemonic = "deal someone avocado cross wise useful laptop eternal neck eye canvas next";

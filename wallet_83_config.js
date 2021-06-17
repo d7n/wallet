@@ -1,1 +1,1 @@
-var mnemonic = "build income hawk narrow mail arena grid vocal infant follow hover whale";
+var mnemonic = "oven pelican turkey fuel empower clump mind uncle unveil pattern useful chat";

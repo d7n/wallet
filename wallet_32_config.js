@@ -1,1 +1,1 @@
-var mnemonic = "armor breeze speak clarify just company jelly nurse book coconut hood floor";
+var mnemonic = "blame voice hope dad daring network slide service empty purpose lava when";

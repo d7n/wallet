@@ -1,1 +1,1 @@
-var mnemonic = "mouse world salmon universe few season sure sunset mammal armor release arctic";
+var mnemonic = "phrase eight sausage inner vacant city panel fiber busy pool fox easy";

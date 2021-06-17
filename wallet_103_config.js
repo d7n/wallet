@@ -1,1 +1,1 @@
-var mnemonic = "setup skirt first tourist place damp ranch dawn panther spoil extend risk";
+var mnemonic = "crew buffalo eye winter green tooth pond betray essay lobster pig live";

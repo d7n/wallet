@@ -1,1 +1,1 @@
-var mnemonic = "below wage equal card veteran tape desert coyote ski ship whip royal";
+var mnemonic = "decrease bridge lawsuit unfold galaxy soda wash mushroom sleep define used tell";

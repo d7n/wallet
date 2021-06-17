@@ -1,1 +1,1 @@
-var mnemonic = "clip scorpion olive level enter multiply quantum race dish high hedgehog often";
+var mnemonic = "net sorry doctor deliver december sell cave canvas safe autumn chalk regular";

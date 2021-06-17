@@ -1,1 +1,1 @@
-var mnemonic = "actor merry soccer cupboard ripple gossip curious bargain response okay man valve";
+var mnemonic = "curious input hurdle topic ceiling enhance exhibit bag bounce ten enter little";

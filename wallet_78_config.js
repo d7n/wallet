@@ -1,1 +1,1 @@
-var mnemonic = "question digital parade tell fetch inspire check stand female agent permit mercy";
+var mnemonic = "problem galaxy eye kid twin tackle tube side leader visit mouse all";

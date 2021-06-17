@@ -1,1 +1,1 @@
-var mnemonic = "drift wash kitten safe upper ecology object brand crystal main card about";
+var mnemonic = "high call front pulp hurt lizard setup modify right nerve funny rail";

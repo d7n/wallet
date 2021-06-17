@@ -1,1 +1,1 @@
-var mnemonic = "click moral organ humble stable vacant drill slam measure junior deal raise";
+var mnemonic = "area wealth whale cigar ripple safe hand six delay carry tissue afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel ask wing gorilla like clerk fiber ill rate latin gate walnut";
+var mnemonic = "crater team panel report mass credit palm pond clown uniform hand coral";

@@ -1,1 +1,1 @@
-var mnemonic = "remind attract pair response love gather pond police hub usage stay item";
+var mnemonic = "grain potato blur doll charge tired viable hope real exile region multiply";

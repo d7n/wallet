@@ -1,1 +1,1 @@
-var mnemonic = "ethics human actress timber gallery fringe expire method document nose phone end";
+var mnemonic = "point apple tonight route bomb oxygen reveal cruel object cloth wash rule";

@@ -1,1 +1,1 @@
-var mnemonic = "spin engine because glance hockey galaxy harvest replace also recycle tip black";
+var mnemonic = "evolve fox ensure hundred short tortoise feel curious expire dish suffer around";

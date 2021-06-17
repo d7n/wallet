@@ -1,1 +1,1 @@
-var mnemonic = "south embark donkey outdoor indoor can sail evil tube veteran call erase";
+var mnemonic = "exhaust tenant move fiber forum trick mango canyon report blanket scale defense";

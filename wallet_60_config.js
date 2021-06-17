@@ -1,1 +1,1 @@
-var mnemonic = "thought forest grief bar easily winter force couch arrest property vital vivid";
+var mnemonic = "comfort dish evolve deputy estate wild bright annual prize priority obvious pet";

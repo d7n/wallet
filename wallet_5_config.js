@@ -1,1 +1,1 @@
-var mnemonic = "nut until luxury glow gentle stamp utility trap okay edge occur give";
+var mnemonic = "school quit traffic move kiwi joy rain spoon swamp better cram vote";

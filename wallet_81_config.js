@@ -1,1 +1,1 @@
-var mnemonic = "visit famous turn lion topic case sorry cupboard fiction art laundry affair";
+var mnemonic = "elbow sun arrest super expect unaware venue miracle sand random blush garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "distance diesel bind cricket agree random much panel mountain brick script thing";
+var mnemonic = "master prevent street donor tackle dirt outside gorilla enroll baby manual display";
