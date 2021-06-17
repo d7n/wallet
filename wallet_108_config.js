@@ -1,1 +1,1 @@
-var mnemonic = "wreck number win scissors execute belt butter kit absent idea maple social";
+var mnemonic = "cram square attend skull cruise true essence junk decrease swarm oblige glare";

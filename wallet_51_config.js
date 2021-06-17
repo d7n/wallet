@@ -1,1 +1,1 @@
-var mnemonic = "play mean frozen fever chimney trend crater base morning hazard gauge dutch";
+var mnemonic = "library tongue rough verify trap prepare lend drum scout absorb panel click";

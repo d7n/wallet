@@ -1,1 +1,1 @@
-var mnemonic = "gorilla owner pattern run enact fruit follow mansion near fall vital enforce";
+var mnemonic = "audit make page novel spike burden mind message gown inject frozen zero";

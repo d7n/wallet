@@ -1,1 +1,1 @@
-var mnemonic = "link rifle flag enjoy pencil island mimic width spy unit ticket card";
+var mnemonic = "couple castle act home rate oven science measure cheap business flame lake";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach survey security bone range airport flower voyage weird bronze human kangaroo";
+var mnemonic = "damage climb purse unfair debris grunt bean trap buzz frozen inform rate";

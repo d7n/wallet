@@ -1,1 +1,1 @@
-var mnemonic = "subway scan weasel permit mule narrow essay loud normal hole series weekend";
+var mnemonic = "battle brand onion borrow myself maple employ tiger broken dizzy token dismiss";

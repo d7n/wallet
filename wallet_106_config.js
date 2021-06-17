@@ -1,1 +1,1 @@
-var mnemonic = "peanut bless crunch enable nothing guess dash surprise midnight use hunt drum";
+var mnemonic = "grief liquid flip toddler nerve slice evil ripple weekend oxygen wish online";

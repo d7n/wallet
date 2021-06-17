@@ -1,1 +1,1 @@
-var mnemonic = "core fruit mad bacon scene entire idea position snap venue fortune crater";
+var mnemonic = "verb despair crunch creek okay head wrist thank summer celery expand crystal";

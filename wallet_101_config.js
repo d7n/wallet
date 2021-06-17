@@ -1,1 +1,1 @@
-var mnemonic = "glue dance library glare reflect canyon gravity approve science weird raise person";
+var mnemonic = "pudding social plug business economy drop sustain change only agent bitter cheap";

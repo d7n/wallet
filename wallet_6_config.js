@@ -1,1 +1,1 @@
-var mnemonic = "robot inject system faint upper scan envelope mother puppy logic cream sweet";
+var mnemonic = "tissue faculty pupil where express vicious ahead only absorb credit slogan perfect";

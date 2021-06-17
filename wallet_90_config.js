@@ -1,1 +1,1 @@
-var mnemonic = "people tragic vintage pave clarify south regular helmet hip silent exact reduce";
+var mnemonic = "explain also boost cargo artwork stay reason acid welcome trash debate wrist";

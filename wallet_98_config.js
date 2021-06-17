@@ -1,1 +1,1 @@
-var mnemonic = "debate creek sail easily taxi brand toss high august frozen sight noise";
+var mnemonic = "game pumpkin suffer barely museum comic goose sister boat harvest sail frozen";

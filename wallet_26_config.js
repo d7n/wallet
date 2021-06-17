@@ -1,1 +1,1 @@
-var mnemonic = "emotion domain level armor middle coral kitten manual stove very depend net";
+var mnemonic = "lion year snake climb entry canoe air much tomorrow dinosaur shield lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "elder island visual reopen taxi scare dune lecture powder rally practice rent";
+var mnemonic = "bring useless receive boat program nothing sick screen estate maid trial wet";

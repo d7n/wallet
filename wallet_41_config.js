@@ -1,1 +1,1 @@
-var mnemonic = "link illness theory pact angle news reflect satoshi proud dizzy drink funny";
+var mnemonic = "tourist belt detect beauty leader strategy rural raise outdoor fabric struggle result";

@@ -1,1 +1,1 @@
-var mnemonic = "nose grab defy basket badge senior blood theory nature cart arrange journey";
+var mnemonic = "exchange exchange rely inhale wrestle join cook degree select inspire animal velvet";

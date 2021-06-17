@@ -1,1 +1,1 @@
-var mnemonic = "stand state cook hood fame image balcony consider junk hard canal hobby";
+var mnemonic = "poem acoustic sun swing upon outside outer state minute airport legend fiscal";

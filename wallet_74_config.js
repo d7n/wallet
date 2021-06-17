@@ -1,1 +1,1 @@
-var mnemonic = "electric sand vapor tip cube rug reason slender margin pause engage own";
+var mnemonic = "damage trash coast speed unit crush engine pave steel pitch grunt coconut";

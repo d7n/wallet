@@ -1,1 +1,1 @@
-var mnemonic = "penalty control dust pelican bounce moral toddler gate theory flower page galaxy";
+var mnemonic = "mixed car tongue swift ride large resist gospel zero nominee clever truck";

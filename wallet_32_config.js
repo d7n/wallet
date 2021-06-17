@@ -1,1 +1,1 @@
-var mnemonic = "garlic pact skin cook office drum plug proud velvet knee language latin";
+var mnemonic = "segment unknown animal sign spike priority clay gossip pause warfare public inside";

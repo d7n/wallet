@@ -1,1 +1,1 @@
-var mnemonic = "only resist chalk surge fantasy puppy move hold social entry globe reason";
+var mnemonic = "urban asset lend holiday inject siren candy soon insane habit utility must";

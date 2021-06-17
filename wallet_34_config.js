@@ -1,1 +1,1 @@
-var mnemonic = "thing coffee ramp fantasy bring crunch chat spirit vault city phrase pitch";
+var mnemonic = "joke pretty dwarf couch cage north fine secret excuse desert stove color";

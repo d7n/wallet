@@ -1,1 +1,1 @@
-var mnemonic = "slam edge entry spice mansion despair again agent struggle knee flame recycle";
+var mnemonic = "other board jewel forward include common any fashion poem outside era still";

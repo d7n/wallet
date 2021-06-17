@@ -1,1 +1,1 @@
-var mnemonic = "solve police office alone below gate cream thumb bind peace better coral";
+var mnemonic = "lazy attract pull glance palm soft invest fence report orphan donate game";

@@ -1,1 +1,1 @@
-var mnemonic = "sphere brass expose almost useful wealth vocal shell between joy slot gown";
+var mnemonic = "put toddler goddess puzzle beyond lounge bleak quarter culture picture birth phrase";

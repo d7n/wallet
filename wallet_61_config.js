@@ -1,1 +1,1 @@
-var mnemonic = "donate idea faith timber share mercy kitchen punch submit parrot eyebrow produce";
+var mnemonic = "trigger anxiety crane sponsor trigger copper slight into pact argue invest middle";

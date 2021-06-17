@@ -1,1 +1,1 @@
-var mnemonic = "deputy shell diamond celery vocal drastic pelican vacant copper loop crucial step";
+var mnemonic = "weather monster fix clarify ride dad flat mask grunt label meadow bulk";

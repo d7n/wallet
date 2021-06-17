@@ -1,1 +1,1 @@
-var mnemonic = "office plastic fiscal coyote arrive empower laptop image fine quiz broom agree";
+var mnemonic = "wrong inject visa setup document velvet quit venture helmet pelican surge grass";

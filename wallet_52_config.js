@@ -1,1 +1,1 @@
-var mnemonic = "fee bone car system friend young knee firm work spin clutch tomorrow";
+var mnemonic = "wide grass salad zero city breeze donate yard point alien swallow cute";

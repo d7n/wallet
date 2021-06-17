@@ -1,1 +1,1 @@
-var mnemonic = "hobby opinion victory yard away stick enact genius endorse diary gas vintage";
+var mnemonic = "front charge panda area nothing describe toss duck flight squeeze occur security";

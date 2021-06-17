@@ -1,1 +1,1 @@
-var mnemonic = "saddle exact bottom slice kangaroo dress pledge steak perfect room reward allow";
+var mnemonic = "switch sport text best avoid vicious infant news divorce vault salute green";

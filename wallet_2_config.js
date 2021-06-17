@@ -1,1 +1,1 @@
-var mnemonic = "predict laugh assist donor phrase defy area sad place arrest lock culture";
+var mnemonic = "obvious forward obtain adult rally mosquito ball benefit daring rotate retreat toilet";

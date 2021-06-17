@@ -1,1 +1,1 @@
-var mnemonic = "win method world relief minute glimpse run claim ivory regular proud bless";
+var mnemonic = "start comic moon bicycle tide write effort plastic rule guilt blouse antenna";

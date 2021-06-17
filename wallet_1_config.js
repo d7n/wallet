@@ -1,1 +1,1 @@
-var mnemonic = "print spare shift beauty pluck possible glance old snack begin usual medal";
+var mnemonic = "behind alone impulse practice chief smooth visa scan tent domain short whale";

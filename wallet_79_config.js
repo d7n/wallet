@@ -1,1 +1,1 @@
-var mnemonic = "decline glare soon produce gift wish delay degree quote awake tooth chimney";
+var mnemonic = "neither lounge skull office ritual figure buzz garden peace final ancient give";

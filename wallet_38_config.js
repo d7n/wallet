@@ -1,1 +1,1 @@
-var mnemonic = "divert praise mail annual welcome actor erosion expose figure slight opinion act";
+var mnemonic = "oyster convince base glow sleep mosquito raw gravity captain fetch royal private";

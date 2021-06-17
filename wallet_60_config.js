@@ -1,1 +1,1 @@
-var mnemonic = "orbit flock fat fine patrol rack eager gorilla cheap cargo brick tell";
+var mnemonic = "duck flee enact fitness noodle cabbage choose lawn laugh wisdom fatal reunion";

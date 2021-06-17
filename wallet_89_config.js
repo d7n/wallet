@@ -1,1 +1,1 @@
-var mnemonic = "gentle reason bridge code service climb manual leg trophy insect swear during";
+var mnemonic = "bleak found execute toast air member exclude slush nephew gadget tissue trash";

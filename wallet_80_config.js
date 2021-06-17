@@ -1,1 +1,1 @@
-var mnemonic = "athlete appear skill also response resource pact coin bag tourist joy empower";
+var mnemonic = "leaf invest midnight aim pulp brass title siren critic network myth zero";

@@ -1,1 +1,1 @@
-var mnemonic = "consider wear movie rocket soccer divert entire ride bench amused jewel gym";
+var mnemonic = "cash frost dinosaur fury lamp gas balcony random bless wing song kind";

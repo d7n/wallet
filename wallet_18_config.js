@@ -1,1 +1,1 @@
-var mnemonic = "nothing lecture tray fantasy disagree hollow story bundle arrest nut normal lend";
+var mnemonic = "left math rich skirt drink sound trash ridge depth exchange onion police";

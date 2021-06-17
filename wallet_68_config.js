@@ -1,1 +1,1 @@
-var mnemonic = "capital where snack lens neutral federal limit hood afraid puzzle fence book";
+var mnemonic = "soccer digital scatter cable similar assume debris deal brain milk orange orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "steel knock element spring iron wise camera aunt flag shaft similar vague";
+var mnemonic = "bunker crucial still soldier upset wrap buzz gun test eternal happy tone";

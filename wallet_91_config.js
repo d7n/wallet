@@ -1,1 +1,1 @@
-var mnemonic = "chunk chicken topple hollow stock nuclear hunt kid outside margin family ankle";
+var mnemonic = "brick scrap immune antique reunion add pull cream faith security pride faith";

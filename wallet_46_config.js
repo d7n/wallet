@@ -1,1 +1,1 @@
-var mnemonic = "huge guilt claim skill language sibling brass hazard rent gasp energy breeze";
+var mnemonic = "lunar naive magic angry slab excite mixed pave roast check system rate";

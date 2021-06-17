@@ -1,1 +1,1 @@
-var mnemonic = "vanish release zero sibling trial case enroll side can mad festival pull";
+var mnemonic = "sun vanish ribbon lizard royal elegant call lend garden matter response food";

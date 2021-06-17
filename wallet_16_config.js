@@ -1,1 +1,1 @@
-var mnemonic = "morning tooth cost kit satoshi picture egg beef hunt goat future gap";
+var mnemonic = "rescue primary hip always dad vast ridge flight catch brick enjoy coyote";

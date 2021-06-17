@@ -1,1 +1,1 @@
-var mnemonic = "stand eager field subject praise deal fault sketch feel project worth abstract";
+var mnemonic = "online sleep bachelor sing load knee cigar crack shaft desk gym citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "deer inquiry better famous coconut pulp scatter clever silly hundred fashion cotton";
+var mnemonic = "custom account sudden kit injury abstract satoshi wave burger sugar six boost";

@@ -1,1 +1,1 @@
-var mnemonic = "mention teach thing twenty duty palm river balance soldier hold powder palm";
+var mnemonic = "neutral damage envelope material safe category normal conduct interest size thrive put";

@@ -1,1 +1,1 @@
-var mnemonic = "upon gauge garbage album bundle coconut marriage wine recycle nation suspect mother";
+var mnemonic = "reflect ignore forward nerve plastic connect evolve satoshi solution question impose slim";

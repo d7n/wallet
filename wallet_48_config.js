@@ -1,1 +1,1 @@
-var mnemonic = "team sponsor lava west release debris wealth wife sport brave destroy news";
+var mnemonic = "drink whip section can mom rally enlist tray lion avocado long museum";

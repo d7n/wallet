@@ -1,1 +1,1 @@
-var mnemonic = "pond draw illegal differ exit gravity across pledge hair expand need galaxy";
+var mnemonic = "exercise credit object pitch front deal off stage kingdom alcohol pig news";

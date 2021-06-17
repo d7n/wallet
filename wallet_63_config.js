@@ -1,1 +1,1 @@
-var mnemonic = "swing tone good situate alter team abstract express mom donkey swarm walk";
+var mnemonic = "case adult carry ignore grass dish empower elite illness husband rare humor";

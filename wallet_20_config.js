@@ -1,1 +1,1 @@
-var mnemonic = "chief income canal napkin husband glide weapon example brass distance pyramid tragic";
+var mnemonic = "badge access river vast garlic glow pattern figure head dance mass cheese";

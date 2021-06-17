@@ -1,1 +1,1 @@
-var mnemonic = "garlic bright process voice echo grocery round food foam expire possible credit";
+var mnemonic = "price knock high excuse desert aspect crane enter soul chicken galaxy render";

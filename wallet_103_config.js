@@ -1,1 +1,1 @@
-var mnemonic = "myth round middle indoor buffalo brass insect return comic inch unknown lake";
+var mnemonic = "feel october involve fee essay couch involve topple snake cloud skate thing";

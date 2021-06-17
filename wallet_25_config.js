@@ -1,1 +1,1 @@
-var mnemonic = "arrive window bottom issue float mushroom return fun pepper throw sick gauge";
+var mnemonic = "palace owner innocent matter inner public pond chest claw vague rhythm knock";

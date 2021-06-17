@@ -1,1 +1,1 @@
-var mnemonic = "another nasty antique rose metal cluster gravity luxury joke post museum subway";
+var mnemonic = "divide judge biology beef section slot satoshi clarify spike tobacco yellow curtain";

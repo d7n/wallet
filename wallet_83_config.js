@@ -1,1 +1,1 @@
-var mnemonic = "august plunge pole real spell sausage once dilemma merry boring era easily";
+var mnemonic = "grain excite iron about fiscal off float return extra album apology present";

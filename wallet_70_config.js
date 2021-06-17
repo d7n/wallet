@@ -1,1 +1,1 @@
-var mnemonic = "property mango monkey climb frog turkey face finish ahead enlist unveil slot";
+var mnemonic = "master rain nice sample tissue elite metal place census excess elephant kiss";

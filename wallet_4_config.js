@@ -1,1 +1,1 @@
-var mnemonic = "gate junior estate fringe wrestle lemon fence rose argue best leaf knock";
+var mnemonic = "note deputy pizza raise trade pupil public remain cupboard desert shuffle roast";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy smooth doctor dolphin pulp bind place health tower verify crisp joke";
+var mnemonic = "industry salon raw walk waste neglect dinosaur wisdom disease equal panic bracket";

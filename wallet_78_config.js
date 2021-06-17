@@ -1,1 +1,1 @@
-var mnemonic = "slight accident success purpose toy gloom feature diagram orange grit citizen window";
+var mnemonic = "cave fatigue favorite detect desert combine prepare blur venue glass shield other";

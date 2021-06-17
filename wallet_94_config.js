@@ -1,1 +1,1 @@
-var mnemonic = "salt loop oppose property pony hurt salad market embrace always curtain debris";
+var mnemonic = "noise sugar miss silver kick voyage lab child lamp upset bright awful";

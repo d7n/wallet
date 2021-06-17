@@ -1,1 +1,1 @@
-var mnemonic = "target sibling vacuum clinic whisper vintage detail fringe wet purity relief improve";
+var mnemonic = "learn owner consider flame garment organ custom fish code large exclude car";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse history voyage throw amazing emerge morning olive poem enact pledge rice";
+var mnemonic = "rotate someone yellow hurry taste prosper blanket one elevator purpose round found";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk early indicate version midnight promote wolf absorb ankle erode sick essay";
+var mnemonic = "use another welcome palace cool cheese metal mom daughter lion guide input";

@@ -1,1 +1,1 @@
-var mnemonic = "mean fall slot bacon staff develop noble match ghost question spider era";
+var mnemonic = "rely iron joke evoke warrior valley shaft update actor monkey follow evolve";

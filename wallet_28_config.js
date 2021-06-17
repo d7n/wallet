@@ -1,1 +1,1 @@
-var mnemonic = "turkey gauge vague domain coconut transfer decline anger border once acoustic pottery";
+var mnemonic = "lobster bubble flip session tissue dash shoot island sand balcony flush bicycle";

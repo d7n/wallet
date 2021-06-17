@@ -1,1 +1,1 @@
-var mnemonic = "gather fantasy casual dynamic dragon immune dolphin ten hurt reopen derive upset";
+var mnemonic = "gun fever girl picture moral wait wash silk blind myth case must";

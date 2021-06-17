@@ -1,1 +1,1 @@
-var mnemonic = "whisper vocal palm saddle economy moral idea total awake sound true rural";
+var mnemonic = "ready erode lecture pet omit helmet produce wall polar panda jelly parrot";

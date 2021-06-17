@@ -1,1 +1,1 @@
-var mnemonic = "vocal catch mobile stage rare shadow exclude vibrant spike slogan brief elder";
+var mnemonic = "company agree tuition popular door kitchen private dash what nuclear rely bonus";

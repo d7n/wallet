@@ -1,1 +1,1 @@
-var mnemonic = "april mushroom omit one amused forum focus flight cousin hard seek misery";
+var mnemonic = "that dog pulp carbon shop night purchase siren spy room upgrade split";

@@ -1,1 +1,1 @@
-var mnemonic = "once print output tomorrow casino cave chalk violin wine calm bitter relief";
+var mnemonic = "siren icon pizza giraffe mosquito play fetch blind like alpha lab buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "minimum village girl note trim private chicken kidney hundred engage zoo cherry";
+var mnemonic = "staff smart convince sign cycle weird erosion since unit maple slide glow";

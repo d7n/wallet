@@ -1,1 +1,1 @@
-var mnemonic = "relax excuse twist slogan athlete essence region river tray unhappy jelly manual";
+var mnemonic = "exact any army limit effort car nasty atom health disorder kit blossom";

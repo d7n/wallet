@@ -1,1 +1,1 @@
-var mnemonic = "holiday voyage oak denial reopen payment wave wealth fix stairs shock west";
+var mnemonic = "ketchup valve virtual mixed arm final start number include twin ketchup mix";

@@ -1,1 +1,1 @@
-var mnemonic = "ship agree biology giggle afraid refuse sustain initial find bulk perfect torch";
+var mnemonic = "enhance oak north nurse very hole blade scene chalk catalog valve outside";

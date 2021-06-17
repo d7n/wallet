@@ -1,1 +1,1 @@
-var mnemonic = "humble misery van toddler initial heart blast brave liar toy symbol category";
+var mnemonic = "goose hood ankle share toy assist chair coin outdoor nurse want below";

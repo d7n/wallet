@@ -1,1 +1,1 @@
-var mnemonic = "arctic roof tool cotton cage exact afraid oppose purpose habit clog census";
+var mnemonic = "mystery reform forget bullet share middle alter add life interest measure consider";

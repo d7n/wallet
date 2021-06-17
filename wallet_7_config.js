@@ -1,1 +1,1 @@
-var mnemonic = "sail scatter enjoy only omit need between because turkey raccoon version axis";
+var mnemonic = "exclude cry economy sort practice differ faith hen sustain panic mom immune";

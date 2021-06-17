@@ -1,1 +1,1 @@
-var mnemonic = "fresh consider sand super bulk fashion unknown loan color fluid delay exist";
+var mnemonic = "mistake hunt adjust lucky find young secret pink wage marine abstract royal";

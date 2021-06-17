@@ -1,1 +1,1 @@
-var mnemonic = "easily diary alley material vehicle weather casual govern member evidence license stumble";
+var mnemonic = "call farm fine word raw corn detail spoon away utility erode dizzy";

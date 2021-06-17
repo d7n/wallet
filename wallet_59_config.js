@@ -1,1 +1,1 @@
-var mnemonic = "file fetch tornado hope dwarf north educate seven still asset bridge rival";
+var mnemonic = "flower unknown pulp minute vanish swamp short climb crawl time rocket spin";

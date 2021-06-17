@@ -1,1 +1,1 @@
-var mnemonic = "gain enable someone father host jacket lamp poet fashion slim weird arctic";
+var mnemonic = "wrong gorilla disease excess dad person ladder adapt cream kid raw job";

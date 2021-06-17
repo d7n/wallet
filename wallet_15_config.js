@@ -1,1 +1,1 @@
-var mnemonic = "zoo silent awful creek shock total dizzy bleak glimpse tourist detect pulp";
+var mnemonic = "visual female figure response cactus early embark pony sing disagree cloth win";

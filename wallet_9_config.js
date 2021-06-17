@@ -1,1 +1,1 @@
-var mnemonic = "catch capital snow sudden kiss search angry guess cross liquid drift guilt";
+var mnemonic = "material old theme hunt behave survey alarm sausage spider census swear lend";
