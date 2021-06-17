@@ -1,1 +1,1 @@
-var mnemonic = "effort eagle future across envelope dial sauce afford ensure payment muffin describe";
+var mnemonic = "spider switch chaos allow own ostrich orphan cherry hello void raise milk";

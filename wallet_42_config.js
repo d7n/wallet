@@ -1,1 +1,1 @@
-var mnemonic = "olympic oil salute faculty asset exotic shield rate unable robust lend patient";
+var mnemonic = "pencil avoid crystal buzz achieve attack winter garage expose doctor spell rival";

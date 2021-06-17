@@ -1,1 +1,1 @@
-var mnemonic = "glimpse timber tomorrow clever exist leopard immune brass misery unfair banner ladder";
+var mnemonic = "ensure vacuum purpose wet symbol angle curtain era diary expire canvas junk";

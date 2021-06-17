@@ -1,1 +1,1 @@
-var mnemonic = "taste lizard update mountain aspect panther ankle pilot frequent indoor radar walnut";
+var mnemonic = "chest nothing barely tackle symbol hedgehog essay inch labor access knife crucial";

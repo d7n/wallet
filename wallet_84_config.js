@@ -1,1 +1,1 @@
-var mnemonic = "notable sun area thumb test venue kiss horn birth glide wise rail";
+var mnemonic = "pitch keep visa often possible salmon eyebrow outdoor praise march lazy digital";

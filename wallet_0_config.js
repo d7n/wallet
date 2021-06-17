@@ -1,1 +1,1 @@
-var mnemonic = "input hollow scissors opinion slice october glide surge truth pudding dentist earth";
+var mnemonic = "cup learn swear tone industry popular vanish report survey action cage pepper";

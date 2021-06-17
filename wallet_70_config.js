@@ -1,1 +1,1 @@
-var mnemonic = "protect shrug before middle creek water appear goose gun ability mixed raccoon";
+var mnemonic = "lava subject dune lamp cereal clerk miss taste fringe notice share family";

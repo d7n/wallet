@@ -1,1 +1,1 @@
-var mnemonic = "diamond hole twenty genius cry risk hire this electric paddle panic seek";
+var mnemonic = "begin wedding interest window shuffle junior gold limit tornado radio economy produce";

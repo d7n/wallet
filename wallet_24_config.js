@@ -1,1 +1,1 @@
-var mnemonic = "depart festival grid print eyebrow retreat prosper pulp sock region core bench";
+var mnemonic = "guard great random sudden mix ring amazing weekend repeat mansion liar infant";

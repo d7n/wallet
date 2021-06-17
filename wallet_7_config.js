@@ -1,1 +1,1 @@
-var mnemonic = "hotel sand curious demand meadow similar price path ski jaguar element kitten";
+var mnemonic = "pen lizard stay isolate remind swim easy dentist develop surface ring plunge";

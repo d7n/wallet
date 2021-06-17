@@ -1,1 +1,1 @@
-var mnemonic = "asset vapor oval spread scissors rice pizza capable car pupil rain foil";
+var mnemonic = "aware silly finish test unique snack caution fox shrug object brown debris";

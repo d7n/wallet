@@ -1,1 +1,1 @@
-var mnemonic = "village caught inquiry permit company knock sail memory liquid control pupil ensure";
+var mnemonic = "pen time program involve effort dune blue stomach coil suggest stem monkey";

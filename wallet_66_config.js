@@ -1,1 +1,1 @@
-var mnemonic = "coffee fit fringe meadow only digital child drip capable provide section steel";
+var mnemonic = "film fun ride angle release race merry unlock arena long divide ladder";

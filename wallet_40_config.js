@@ -1,1 +1,1 @@
-var mnemonic = "agree large asset piece surface blood wet gift type legend tomato reward";
+var mnemonic = "mule ball tourist mutual raise find siege since govern index vague eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "code hamster expose bottom day atom edit fruit rabbit engage abuse half";
+var mnemonic = "attract impose swing wedding crane nominee abstract gesture shrug health announce crazy";

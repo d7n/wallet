@@ -1,1 +1,1 @@
-var mnemonic = "car brother between member frost oblige zero jewel allow habit fiber turtle";
+var mnemonic = "exercise gloom game insane dose chaos clutch post priority fit upset unable";

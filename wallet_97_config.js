@@ -1,1 +1,1 @@
-var mnemonic = "decrease lab focus latin eager large feel thunder sting rhythm dilemma giant";
+var mnemonic = "ridge whip area again lucky sport dash cluster addict toward ozone acid";

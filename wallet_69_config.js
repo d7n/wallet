@@ -1,1 +1,1 @@
-var mnemonic = "finish erase disagree across raccoon lens warrior famous symptom rigid argue romance";
+var mnemonic = "meadow buyer sugar desert illegal dice cool bundle fiscal document pigeon side";

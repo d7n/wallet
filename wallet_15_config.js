@@ -1,1 +1,1 @@
-var mnemonic = "shallow term maze transfer outdoor kiss also school spare desert learn cluster";
+var mnemonic = "zone win fish shoe ball video flock book rare multiply radar slow";

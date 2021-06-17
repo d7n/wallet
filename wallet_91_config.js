@@ -1,1 +1,1 @@
-var mnemonic = "joke extra armed word twelve shoulder way history saddle symbol powder design";
+var mnemonic = "echo latin escape change east badge awesome blur around solution outside vicious";

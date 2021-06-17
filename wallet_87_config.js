@@ -1,1 +1,1 @@
-var mnemonic = "erase hamster horn hobby unveil bonus pause student lyrics execute require holiday";
+var mnemonic = "volume key true advice disease credit forum you honey sail laundry lecture";

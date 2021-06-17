@@ -1,1 +1,1 @@
-var mnemonic = "seed open program amount stable dirt cushion smooth father three couple virtual";
+var mnemonic = "divide empower artwork staff case globe napkin swamp bunker barely equal endorse";

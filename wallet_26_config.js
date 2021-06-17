@@ -1,1 +1,1 @@
-var mnemonic = "fade try menu relief wrestle adjust ship toddler almost erupt usage learn";
+var mnemonic = "orange genuine calm verb rain barrel august approve have fat slow stereo";

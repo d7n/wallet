@@ -1,1 +1,1 @@
-var mnemonic = "rude lottery zone humble hungry bright accident salmon prepare timber pottery nurse";
+var mnemonic = "side armed sorry pass eagle obscure dress menu success angry any gospel";

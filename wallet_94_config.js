@@ -1,1 +1,1 @@
-var mnemonic = "mobile tiny left icon goat involve offer chief dumb away dress inhale";
+var mnemonic = "price attend recipe soup balcony rescue tuition critic update phone vapor live";

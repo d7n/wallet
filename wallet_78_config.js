@@ -1,1 +1,1 @@
-var mnemonic = "before buddy become attend proud feel gather tide finish belt announce bacon";
+var mnemonic = "express twelve object crane bottom fork glow already inquiry awesome worth guide";

@@ -1,1 +1,1 @@
-var mnemonic = "frame obtain trouble feature holiday mixture submit bring deputy month rhythm glow";
+var mnemonic = "arctic umbrella process engine check yellow wool month during already sad below";

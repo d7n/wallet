@@ -1,1 +1,1 @@
-var mnemonic = "pet example label artwork patient summer clock glass habit flock region denial";
+var mnemonic = "van spatial moon wrestle brass mutual dizzy tribe valid cherry core medal";

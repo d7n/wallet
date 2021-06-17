@@ -1,1 +1,1 @@
-var mnemonic = "flash unique fantasy alone bird add aerobic jewel furnace search shield master";
+var mnemonic = "run lyrics coffee antenna tissue shiver light dawn suggest luxury velvet fine";

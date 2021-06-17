@@ -1,1 +1,1 @@
-var mnemonic = "napkin tongue repair wrong provide wrong mean orbit gun raise level harvest";
+var mnemonic = "front romance worry weasel oxygen stable cannon scan sure attitude message enroll";

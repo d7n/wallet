@@ -1,1 +1,1 @@
-var mnemonic = "parade tonight main antenna guilt accident castle begin shaft churn wear mix";
+var mnemonic = "butter merit acid frog text retire prevent degree injury develop skill help";

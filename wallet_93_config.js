@@ -1,1 +1,1 @@
-var mnemonic = "vehicle apple control refuse glide satisfy bubble earn dog myth casual hub";
+var mnemonic = "pen popular beach stumble dinosaur curious forum ice quality radio hello blame";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse gossip analyst forest demise glare syrup crush race goddess mistake noble";
+var mnemonic = "prize winter slot season pencil twin net deer vapor fuel early mushroom";

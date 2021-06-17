@@ -1,1 +1,1 @@
-var mnemonic = "expire dog woman valley jar small fish increase fault minimum way alcohol";
+var mnemonic = "produce wrist tiger rack soul runway force luggage length type beyond critic";

@@ -1,1 +1,1 @@
-var mnemonic = "brush mail tooth alert dust hill neutral purpose mix jump paddle burst";
+var mnemonic = "buffalo large series goose duck spell allow clip upset only wrap region";

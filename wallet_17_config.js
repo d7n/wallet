@@ -1,1 +1,1 @@
-var mnemonic = "wife calm patch floor this leaf prepare ordinary give paper rate useful";
+var mnemonic = "toast yard kangaroo junk below crystal feed army version aerobic execute indicate";

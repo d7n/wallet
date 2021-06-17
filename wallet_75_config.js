@@ -1,1 +1,1 @@
-var mnemonic = "scene orange fee enrich grief trim movie market round shoot public inform";
+var mnemonic = "shoot awesome grief snake profit relax scan confirm pony acid sign nurse";

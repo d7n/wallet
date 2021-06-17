@@ -1,1 +1,1 @@
-var mnemonic = "easily alone ensure fish ride diagram gallery february bitter same convince lift";
+var mnemonic = "legal tenant jealous appear rich pipe entry castle arena heart alpha modify";

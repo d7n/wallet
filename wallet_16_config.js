@@ -1,1 +1,1 @@
-var mnemonic = "sibling father orbit polar tomorrow peace earth salt test miracle feel found";
+var mnemonic = "quarter blue access wreck chicken box supreme address electric december amount wink";

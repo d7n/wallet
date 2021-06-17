@@ -1,1 +1,1 @@
-var mnemonic = "load rhythm heart later marine hazard source total grid dune amused victory";
+var mnemonic = "birth pistol prosper clown disease jeans island narrow weapon theory spring pink";

@@ -1,1 +1,1 @@
-var mnemonic = "horror fetch dance veteran tiny sound present sock blind truth erase kick";
+var mnemonic = "layer basic degree tortoise unable eager model choose suggest sorry juice just";

@@ -1,1 +1,1 @@
-var mnemonic = "wide pride pause cricket clerk oak hold baby swamp fitness episode cat";
+var mnemonic = "picture cereal east physical betray judge solid laugh pride fire owner tank";

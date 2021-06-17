@@ -1,1 +1,1 @@
-var mnemonic = "myself crystal jelly magic pride duck boss achieve wide ramp cute bonus";
+var mnemonic = "romance sword feel traffic sunny various canvas green animal hole save museum";

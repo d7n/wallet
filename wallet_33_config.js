@@ -1,1 +1,1 @@
-var mnemonic = "humble stool color nice street blur exile claim mom genius nuclear during";
+var mnemonic = "enemy woman exhibit return bronze brave arrow weekend wild rocket extra burger";

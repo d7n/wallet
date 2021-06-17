@@ -1,1 +1,1 @@
-var mnemonic = "demand forum rhythm head wild stone rebel gym traffic rubber cheap still";
+var mnemonic = "title fat party letter arena push flat bean light abuse between eye";

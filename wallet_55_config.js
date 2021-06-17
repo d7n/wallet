@@ -1,1 +1,1 @@
-var mnemonic = "panel banana wink logic regret nation grocery wonder flat wire media jelly";
+var mnemonic = "tree silver correct suffer deer spend walnut canal act name web enemy";

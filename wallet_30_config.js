@@ -1,1 +1,1 @@
-var mnemonic = "forum noodle use force lion crunch isolate apart monkey mad urge memory";
+var mnemonic = "room topic nation hat crater armed weasel surge tiny aisle expire spring";

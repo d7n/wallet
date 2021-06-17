@@ -1,1 +1,1 @@
-var mnemonic = "flash gas demand grunt journey battle cube blade sad jacket share bid";
+var mnemonic = "inherit word dirt crime rain exact lunch soda eagle tape broken elite";

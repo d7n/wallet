@@ -1,1 +1,1 @@
-var mnemonic = "today wash gap document rookie question hurt receive fossil impose rely case";
+var mnemonic = "setup battle body roof purse dumb tent minor diet juice lesson feed";

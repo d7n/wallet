@@ -1,1 +1,1 @@
-var mnemonic = "smooth harsh action rival sword spring fee sea tide option still assume";
+var mnemonic = "trust ripple junior inhale shell radar deputy ankle oppose miss bind country";

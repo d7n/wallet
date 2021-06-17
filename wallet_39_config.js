@@ -1,1 +1,1 @@
-var mnemonic = "scrub language shed peanut breeze utility until educate violin unknown flame fiber";
+var mnemonic = "earn festival typical hurt public typical tooth main anchor example poem culture";

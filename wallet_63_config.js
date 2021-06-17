@@ -1,1 +1,1 @@
-var mnemonic = "market task hungry reward number double cram agree nuclear yellow select muffin";
+var mnemonic = "grief virtual breeze street practice zone gadget announce inch alter inspire wear";

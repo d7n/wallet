@@ -1,1 +1,1 @@
-var mnemonic = "walk offer tuna disorder danger banana honey claim small mail twist smoke";
+var mnemonic = "endless you alpha close net marble axis farm leave spy electric color";

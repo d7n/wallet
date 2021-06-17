@@ -1,1 +1,1 @@
-var mnemonic = "cloud airport enforce vault behave later emerge drop canoe drill rib horn";
+var mnemonic = "river jungle finger deposit use card envelope donor special endless neck amateur";

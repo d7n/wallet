@@ -1,1 +1,1 @@
-var mnemonic = "forum timber there autumn few snake match party illegal outdoor scrub tower";
+var mnemonic = "pull emotion evidence beef grant risk actress frost clump phrase fit grape";

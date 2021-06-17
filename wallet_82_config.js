@@ -1,1 +1,1 @@
-var mnemonic = "enforce lawsuit wine excess foster social aspect suspect uphold drastic wine express";
+var mnemonic = "crush maple shift desert abuse pen route basic purpose hammer inhale orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "pool release illegal biology tenant can term hire indicate now alone walk";
+var mnemonic = "suggest pitch unique useless train return army analyst limit town bag congress";

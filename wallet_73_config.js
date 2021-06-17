@@ -1,1 +1,1 @@
-var mnemonic = "use topple dumb quote health digital later keep vast fade float eternal";
+var mnemonic = "tackle know gift gown ladder thrive spend stuff drop electric pistol noodle";

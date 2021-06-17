@@ -1,1 +1,1 @@
-var mnemonic = "amazing drop acid people floor despair grow glue noble wealth danger easy";
+var mnemonic = "rent tissue lava provide pilot play absent moral cinnamon post soda moment";

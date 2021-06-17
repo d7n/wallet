@@ -1,1 +1,1 @@
-var mnemonic = "mixture hotel lava jaguar laundry faith snow struggle glove dice fish grow";
+var mnemonic = "load denial very vital river tiny tree poem submit spirit arm morning";

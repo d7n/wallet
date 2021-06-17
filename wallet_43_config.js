@@ -1,1 +1,1 @@
-var mnemonic = "draft sugar auto jump slide local dog mixture satisfy wrist stone weather";
+var mnemonic = "art salt plastic between fine trust beef enrich charge vessel legal naive";

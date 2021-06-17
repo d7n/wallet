@@ -1,1 +1,1 @@
-var mnemonic = "green piano margin mobile garden panda vital early glad curve swallow trumpet";
+var mnemonic = "actor include there abstract pioneer buffalo discover velvet arm arena gaze feature";

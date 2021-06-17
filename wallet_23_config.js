@@ -1,1 +1,1 @@
-var mnemonic = "sunset bulb crumble pretty satoshi say general peanut genuine burger fortune beef";
+var mnemonic = "satisfy twice fame marine host alpha scrap orbit canal tiny camera defense";

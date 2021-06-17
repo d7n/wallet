@@ -1,1 +1,1 @@
-var mnemonic = "budget shock album bird vacuum camp pledge crush woman fluid noise winter";
+var mnemonic = "used copy adjust night infant later canal cereal inject mutual shrug absent";

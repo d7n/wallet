@@ -1,1 +1,1 @@
-var mnemonic = "warrior multiply sting govern electric mother idea canvas wear route render impose";
+var mnemonic = "random loop broccoli master note bracket place combine magnet cactus slot rally";

@@ -1,1 +1,1 @@
-var mnemonic = "artist neglect left dove pitch multiply warrior broccoli donate kitten describe unhappy";
+var mnemonic = "load general grief love envelope slim leave assume happy finish weather frog";

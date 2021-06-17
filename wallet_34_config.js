@@ -1,1 +1,1 @@
-var mnemonic = "tray together physical foot cabbage monkey holiday exchange wait public cabin fine";
+var mnemonic = "piano poem liar rug mystery mix clap tide stomach kingdom test useless";

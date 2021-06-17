@@ -1,1 +1,1 @@
-var mnemonic = "diagram sketch swap gesture endless sound tell dry glass promote fossil belt";
+var mnemonic = "only must frown dream spread cricket spell stairs expect husband misery top";

@@ -1,1 +1,1 @@
-var mnemonic = "ten find essence oak recycle calm roof twist lawn rule curious filter";
+var mnemonic = "orient endorse leisure book there monkey easily salmon exit spring critic ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor first torch fan garbage float square divert reopen brick allow slight";
+var mnemonic = "decrease between fuel dismiss punch quote pole royal tiger write nurse ordinary";

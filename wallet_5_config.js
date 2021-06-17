@@ -1,1 +1,1 @@
-var mnemonic = "pet tuition fever spell horn option sad human action unveil virtual oblige";
+var mnemonic = "inner stairs asset option security kiss analyst sausage buffalo glance hurry arch";

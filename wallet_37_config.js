@@ -1,1 +1,1 @@
-var mnemonic = "like behind cute parent sell collect meat clarify upset chat salad label";
+var mnemonic = "detect this swallow hold begin knock speak guard radio destroy win appear";

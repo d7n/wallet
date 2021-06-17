@@ -1,1 +1,1 @@
-var mnemonic = "host erosion analyst same winner capital fog fault sample social odor angry";
+var mnemonic = "reject wash teach egg senior valley bacon rifle item resource senior offer";

@@ -1,1 +1,1 @@
-var mnemonic = "drink ivory maple find need oven apart brave envelope craft great immune";
+var mnemonic = "intact bleak cook sword cousin oppose purse glow detail manage ill mom";

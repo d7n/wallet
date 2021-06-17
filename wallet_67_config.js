@@ -1,1 +1,1 @@
-var mnemonic = "truly list payment mushroom once february error cushion book master auto unhappy";
+var mnemonic = "clog faint mother equip near festival attend affair number escape sound kiss";

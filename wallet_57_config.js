@@ -1,1 +1,1 @@
-var mnemonic = "grit female guitar soccer waste oven nasty island cool fat dose filter";
+var mnemonic = "ordinary home inform accident address wood leave sense birth fame emotion satoshi";

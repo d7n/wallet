@@ -1,1 +1,1 @@
-var mnemonic = "island armor since trust mixture machine body awake flame hero turkey scheme";
+var mnemonic = "embody volcano seek layer attend health human general width gallery treat worry";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil upgrade tunnel lizard tuna student snake swim magnet stick runway face";
+var mnemonic = "maple squirrel useless eye helmet expand envelope board holiday pride spy swear";

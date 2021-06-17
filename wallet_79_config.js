@@ -1,1 +1,1 @@
-var mnemonic = "decorate culture section nerve bitter lunch suggest become expose drip load hurdle";
+var mnemonic = "file require poet armor spell bulk utility virtual stadium quarter bicycle stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "describe typical female snack axis plate miss humble canyon jeans van tennis";
+var mnemonic = "flee axis fortune inform cargo where vanish age cancel wrap fatigue sample";

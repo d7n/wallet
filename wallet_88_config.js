@@ -1,1 +1,1 @@
-var mnemonic = "myth congress screen appear garden address ripple nuclear scrub amount toward path";
+var mnemonic = "below door wine hedgehog risk spell burden below powder surround modify during";

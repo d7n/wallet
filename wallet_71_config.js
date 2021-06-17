@@ -1,1 +1,1 @@
-var mnemonic = "flower soccer knee doll journey boring exhaust female display winner steel desk";
+var mnemonic = "alcohol size fee tomato fish start brick critic curious kiss wine repeat";

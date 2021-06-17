@@ -1,1 +1,1 @@
-var mnemonic = "heavy square taste valid pilot snow sand bone volume develop silver peanut";
+var mnemonic = "salute margin crack skin north mystery coffee december palm hybrid orient walk";

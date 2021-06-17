@@ -1,1 +1,1 @@
-var mnemonic = "crack power apple hybrid denial blur text retire property timber vast multiply";
+var mnemonic = "chalk unknown tree vibrant breeze nut blush flash enlist disease name alter";

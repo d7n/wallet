@@ -1,1 +1,1 @@
-var mnemonic = "casual tired episode original steel wrestle dove tent announce clean dress shop";
+var mnemonic = "rescue other arrange young surface escape require duck injury combine mechanic crack";

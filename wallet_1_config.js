@@ -1,1 +1,1 @@
-var mnemonic = "blast lazy fancy slab need acid crane release abuse song total toddler";
+var mnemonic = "plunge obtain board shoulder surround misery deliver throw fame cradle rhythm damp";

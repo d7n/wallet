@@ -1,1 +1,1 @@
-var mnemonic = "desk fluid spoon kiss limit phone scissors venture unfold purpose drum involve";
+var mnemonic = "lava wash uncle couple dragon vault thunder friend immense hamster barely cage";

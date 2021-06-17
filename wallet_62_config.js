@@ -1,1 +1,1 @@
-var mnemonic = "ugly tone cattle choice price fatal frog demand fiber federal nasty cable";
+var mnemonic = "blame borrow wait live six merit harsh floor salmon unit appear aerobic";
