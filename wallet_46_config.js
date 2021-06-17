@@ -1,1 +1,1 @@
-var mnemonic = "exercise gloom game insane dose chaos clutch post priority fit upset unable";
+var mnemonic = "memory awesome tunnel often three essay today rude choice magnet seven swear";

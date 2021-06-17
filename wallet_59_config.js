@@ -1,1 +1,1 @@
-var mnemonic = "side armed sorry pass eagle obscure dress menu success angry any gospel";
+var mnemonic = "view region kite copper grief again camp enrich staff link ring trend";

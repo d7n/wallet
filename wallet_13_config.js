@@ -1,1 +1,1 @@
-var mnemonic = "river jungle finger deposit use card envelope donor special endless neck amateur";
+var mnemonic = "hover calm truth perfect hundred group cancel cliff into chef add write";

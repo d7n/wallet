@@ -1,1 +1,1 @@
-var mnemonic = "actor include there abstract pioneer buffalo discover velvet arm arena gaze feature";
+var mnemonic = "electric dragon chronic ensure skill mechanic allow actual inhale nerve now mansion";

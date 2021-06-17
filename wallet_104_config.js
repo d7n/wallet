@@ -1,1 +1,1 @@
-var mnemonic = "ability remove tell tornado siren predict saddle visa lottery dinner head sing";
+var mnemonic = "indicate sphere polar degree consider settle fame bullet minute position canvas summer";

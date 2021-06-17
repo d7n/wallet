@@ -1,1 +1,1 @@
-var mnemonic = "only must frown dream spread cricket spell stairs expect husband misery top";
+var mnemonic = "feed toward market find fiscal parent riot heavy motor tomorrow dog rotate";

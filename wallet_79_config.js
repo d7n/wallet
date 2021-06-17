@@ -1,1 +1,1 @@
-var mnemonic = "file require poet armor spell bulk utility virtual stadium quarter bicycle stumble";
+var mnemonic = "rapid battle gift donate tuition alcohol review three renew news carry foil";

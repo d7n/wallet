@@ -1,1 +1,1 @@
-var mnemonic = "art salt plastic between fine trust beef enrich charge vessel legal naive";
+var mnemonic = "fantasy place follow view window emerge tenant bulb attract bulb prize around";

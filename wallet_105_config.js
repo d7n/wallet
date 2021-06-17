@@ -1,1 +1,1 @@
-var mnemonic = "endless you alpha close net marble axis farm leave spy electric color";
+var mnemonic = "pet tired vivid shadow medal effort loop attract wool describe pole dash";

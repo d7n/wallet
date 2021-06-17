@@ -1,1 +1,1 @@
-var mnemonic = "dance excess debate layer glance disorder attack hobby warrior obey path because";
+var mnemonic = "gravity often about scrap ivory craft shrimp boring garage water behave cost";

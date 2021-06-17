@@ -1,1 +1,1 @@
-var mnemonic = "guard great random sudden mix ring amazing weekend repeat mansion liar infant";
+var mnemonic = "used extra fiction win prefer borrow trash milk wife there depart tomorrow";

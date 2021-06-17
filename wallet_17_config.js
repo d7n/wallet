@@ -1,1 +1,1 @@
-var mnemonic = "toast yard kangaroo junk below crystal feed army version aerobic execute indicate";
+var mnemonic = "under cherry burger scrub swap shop common grid busy salon abuse brother";

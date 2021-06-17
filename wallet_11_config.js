@@ -1,1 +1,1 @@
-var mnemonic = "lava wash uncle couple dragon vault thunder friend immense hamster barely cage";
+var mnemonic = "saddle drink clever ship carpet purse debris lounge slab inhale identify online";

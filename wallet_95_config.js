@@ -1,1 +1,1 @@
-var mnemonic = "rely barely display whale mandate absurd wear toast roast prosper sand wine";
+var mnemonic = "vote knee until laugh family brother stick fiction coach indicate reward okay";

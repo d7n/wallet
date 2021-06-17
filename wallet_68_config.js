@@ -1,1 +1,1 @@
-var mnemonic = "load denial very vital river tiny tree poem submit spirit arm morning";
+var mnemonic = "kid unit chaos since wood entire team matter balance blame detail umbrella";

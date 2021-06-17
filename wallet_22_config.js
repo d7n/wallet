@@ -1,1 +1,1 @@
-var mnemonic = "rather kid brick eyebrow board mind antique address have cement shrimp action";
+var mnemonic = "notice hidden hollow theme merit duty pigeon clarify any elder season then";

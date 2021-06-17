@@ -1,1 +1,1 @@
-var mnemonic = "ordinary home inform accident address wood leave sense birth fame emotion satoshi";
+var mnemonic = "sugar potato immense next earn leg lab donate hair disorder cake apology";

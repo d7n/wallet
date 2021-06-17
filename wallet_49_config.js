@@ -1,1 +1,1 @@
-var mnemonic = "avocado about seed reduce float imitate bunker pole beauty mushroom potato pen";
+var mnemonic = "elbow cup okay word castle beyond blast cluster nice boring stand parade";

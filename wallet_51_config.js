@@ -1,1 +1,1 @@
-var mnemonic = "siege exclude dinosaur tank smoke shield learn journey top tumble chapter any";
+var mnemonic = "meat guard collect rocket forum bunker impulse guilt twenty tell tortoise segment";

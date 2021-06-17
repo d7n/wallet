@@ -1,1 +1,1 @@
-var mnemonic = "shoot awesome grief snake profit relax scan confirm pony acid sign nurse";
+var mnemonic = "vote ozone gravity sure mammal orbit like pizza coast attend clever eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol size fee tomato fish start brick critic curious kiss wine repeat";
+var mnemonic = "connect menu rely march raccoon denial timber dice swamp that fade truth";

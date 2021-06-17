@@ -1,1 +1,1 @@
-var mnemonic = "flee axis fortune inform cargo where vanish age cancel wrap fatigue sample";
+var mnemonic = "air garden update local bike taste intact motion want short logic nephew";

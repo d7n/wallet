@@ -1,1 +1,1 @@
-var mnemonic = "life crush please pizza plastic humble toddler right cute catalog fortune inform";
+var mnemonic = "hope open response toss company mother right gaze cycle march minimum daughter";

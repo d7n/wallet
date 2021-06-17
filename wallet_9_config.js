@@ -1,1 +1,1 @@
-var mnemonic = "orient endorse leisure book there monkey easily salmon exit spring critic ribbon";
+var mnemonic = "area drink detail nasty direct nurse canal prepare frame earn feature allow";

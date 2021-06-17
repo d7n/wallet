@@ -1,1 +1,1 @@
-var mnemonic = "satisfy twice fame marine host alpha scrap orbit canal tiny camera defense";
+var mnemonic = "genuine resource reform lift melody stuff rubber lemon fantasy grow voice recall";

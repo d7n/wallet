@@ -1,1 +1,1 @@
-var mnemonic = "virtual health elevator audit evoke stand tornado voice peanut ethics scale news";
+var mnemonic = "wedding hint hood jungle salute seed gentle wool retreat screen harsh faith";

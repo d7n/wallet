@@ -1,1 +1,1 @@
-var mnemonic = "film fun ride angle release race merry unlock arena long divide ladder";
+var mnemonic = "pride battle off baby connect vital book sense yellow trigger hint history";

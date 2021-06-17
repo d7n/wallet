@@ -1,1 +1,1 @@
-var mnemonic = "parrot long pudding tornado grit foster oyster plate unknown music say hunt";
+var mnemonic = "like hour enter approve lab leisure fetch sadness gap decide produce bread";

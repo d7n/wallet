@@ -1,1 +1,1 @@
-var mnemonic = "room topic nation hat crater armed weasel surge tiny aisle expire spring";
+var mnemonic = "settle vacant end endless require excite super swim trust host differ bridge";

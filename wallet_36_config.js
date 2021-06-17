@@ -1,1 +1,1 @@
-var mnemonic = "begin wedding interest window shuffle junior gold limit tornado radio economy produce";
+var mnemonic = "tag upset forget develop anxiety truth corn double what hint decide minor";

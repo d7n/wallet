@@ -1,1 +1,1 @@
-var mnemonic = "pencil avoid crystal buzz achieve attack winter garage expose doctor spell rival";
+var mnemonic = "surround cloth ring hurdle swap glow business random hard axis decade book";

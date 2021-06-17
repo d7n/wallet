@@ -1,1 +1,1 @@
-var mnemonic = "romance sword feel traffic sunny various canvas green animal hole save museum";
+var mnemonic = "retire south rely brown fury evoke tuition soft across jungle then best";

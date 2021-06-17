@@ -1,1 +1,1 @@
-var mnemonic = "aware silly finish test unique snack caution fox shrug object brown debris";
+var mnemonic = "mammal sleep clown dial midnight fly pair sword crater tell frequent expire";

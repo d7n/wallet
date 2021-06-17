@@ -1,1 +1,1 @@
-var mnemonic = "weird name solid obscure mistake able asset correct cruise topic milk erosion";
+var mnemonic = "cotton buffalo half below trap borrow peace science magic fiction garage decline";

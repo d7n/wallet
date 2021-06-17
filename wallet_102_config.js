@@ -1,1 +1,1 @@
-var mnemonic = "used copy adjust night infant later canal cereal inject mutual shrug absent";
+var mnemonic = "client lend bread salmon exercise gossip hawk today ball lock change cargo";

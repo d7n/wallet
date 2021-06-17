@@ -1,1 +1,1 @@
-var mnemonic = "chalk unknown tree vibrant breeze nut blush flash enlist disease name alter";
+var mnemonic = "world engine fame have make hollow space exclude tired dad squeeze snap";

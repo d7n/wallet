@@ -1,1 +1,1 @@
-var mnemonic = "buffalo large series goose duck spell allow clip upset only wrap region";
+var mnemonic = "frozen profit theme upset glance dawn account liberty gas vehicle fun daughter";

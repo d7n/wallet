@@ -1,1 +1,1 @@
-var mnemonic = "pitch keep visa often possible salmon eyebrow outdoor praise march lazy digital";
+var mnemonic = "plunge spoon afford fence ivory doctor holiday hollow unique nation ship abstract";

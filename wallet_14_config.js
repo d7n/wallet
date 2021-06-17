@@ -1,1 +1,1 @@
-var mnemonic = "birth pistol prosper clown disease jeans island narrow weapon theory spring pink";
+var mnemonic = "toddler cement dizzy main ahead camp puppy village spot tenant six retire";

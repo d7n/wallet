@@ -1,1 +1,1 @@
-var mnemonic = "mule ball tourist mutual raise find siege since govern index vague eagle";
+var mnemonic = "twice advance lottery voice demand confirm immune feature fun pulp job wheat";

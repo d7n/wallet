@@ -1,1 +1,1 @@
-var mnemonic = "tree silver correct suffer deer spend walnut canal act name web enemy";
+var mnemonic = "dismiss reopen clip trouble jeans fan bleak carpet three what put mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "ensure vacuum purpose wet symbol angle curtain era diary expire canvas junk";
+var mnemonic = "bind system couple speed piano wild phone improve present lake action junior";

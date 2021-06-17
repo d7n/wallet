@@ -1,1 +1,1 @@
-var mnemonic = "divide empower artwork staff case globe napkin swamp bunker barely equal endorse";
+var mnemonic = "merge east vague drink behave split small owner answer feature venture run";

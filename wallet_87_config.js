@@ -1,1 +1,1 @@
-var mnemonic = "volume key true advice disease credit forum you honey sail laundry lecture";
+var mnemonic = "soldier repeat apart satoshi immense caution iron genuine suspect quit pipe inmate";

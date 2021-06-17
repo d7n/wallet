@@ -1,1 +1,1 @@
-var mnemonic = "express twelve object crane bottom fork glow already inquiry awesome worth guide";
+var mnemonic = "farm mass ecology laugh dress enrich blade addict project milk van fine";

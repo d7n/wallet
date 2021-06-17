@@ -1,1 +1,1 @@
-var mnemonic = "crush maple shift desert abuse pen route basic purpose hammer inhale orchard";
+var mnemonic = "add danger pitch shield head hazard secret fly joy give style race";

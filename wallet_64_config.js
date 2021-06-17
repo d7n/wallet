@@ -1,1 +1,1 @@
-var mnemonic = "spider switch chaos allow own ostrich orphan cherry hello void raise milk";
+var mnemonic = "obtain amateur raccoon rebel space asthma shine color file alert parrot hunt";

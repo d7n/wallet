@@ -1,1 +1,1 @@
-var mnemonic = "blouse crowd certain try pull indoor much case provide boy supreme place";
+var mnemonic = "curve year quality diesel visit fragile depth excite chef vivid spirit warfare";

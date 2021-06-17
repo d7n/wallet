@@ -1,1 +1,1 @@
-var mnemonic = "pull emotion evidence beef grant risk actress frost clump phrase fit grape";
+var mnemonic = "dove valley eyebrow regret oval rescue arrange smile cable time hover syrup";

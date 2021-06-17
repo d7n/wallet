@@ -1,1 +1,1 @@
-var mnemonic = "intact bleak cook sword cousin oppose purse glow detail manage ill mom";
+var mnemonic = "into quantum giggle sport latin nuclear april hammer sand joy priority hour";

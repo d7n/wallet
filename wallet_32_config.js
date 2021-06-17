@@ -1,1 +1,1 @@
-var mnemonic = "reject wash teach egg senior valley bacon rifle item resource senior offer";
+var mnemonic = "baby home trash sea ability ritual tonight wood grow concert cement reunion";

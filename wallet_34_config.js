@@ -1,1 +1,1 @@
-var mnemonic = "piano poem liar rug mystery mix clap tide stomach kingdom test useless";
+var mnemonic = "brother trial casual manage crew pave neck liquid lava eye journey girl";

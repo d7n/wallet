@@ -1,1 +1,1 @@
-var mnemonic = "zone win fish shoe ball video flock book rare multiply radar slow";
+var mnemonic = "breeze situate emotion jump airport smooth sample excess fly all able royal";

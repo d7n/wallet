@@ -1,1 +1,1 @@
-var mnemonic = "detect this swallow hold begin knock speak guard radio destroy win appear";
+var mnemonic = "magnet trick width ball year access audit galaxy busy cash sword emotion";

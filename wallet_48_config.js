@@ -1,1 +1,1 @@
-var mnemonic = "chest nothing barely tackle symbol hedgehog essay inch labor access knife crucial";
+var mnemonic = "slush banner butter carry vague quality trash income resist option brush supreme";

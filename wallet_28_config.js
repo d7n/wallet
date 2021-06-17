@@ -1,1 +1,1 @@
-var mnemonic = "embody volcano seek layer attend health human general width gallery treat worry";
+var mnemonic = "circle merit accuse disagree pupil pride time universe mosquito shoulder shop begin";

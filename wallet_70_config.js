@@ -1,1 +1,1 @@
-var mnemonic = "lava subject dune lamp cereal clerk miss taste fringe notice share family";
+var mnemonic = "mask laundry dad staff ranch boy nest club expand father venue upon";

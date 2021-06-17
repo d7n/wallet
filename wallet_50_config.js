@@ -1,1 +1,1 @@
-var mnemonic = "maple squirrel useless eye helmet expand envelope board holiday pride spy swear";
+var mnemonic = "grief chicken time peanut sister tray kite lecture paper miracle snow fever";

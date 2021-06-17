@@ -1,1 +1,1 @@
-var mnemonic = "title fat party letter arena push flat bean light abuse between eye";
+var mnemonic = "fun funny drill arena icon lunch together tip version energy car mimic";

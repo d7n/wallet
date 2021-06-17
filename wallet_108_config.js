@@ -1,1 +1,1 @@
-var mnemonic = "rescue other arrange young surface escape require duck injury combine mechanic crack";
+var mnemonic = "box tired develop gravity brown decline neutral organ modify deer around jealous";

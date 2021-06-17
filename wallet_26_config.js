@@ -1,1 +1,1 @@
-var mnemonic = "orange genuine calm verb rain barrel august approve have fat slow stereo";
+var mnemonic = "enhance twice slender obey pudding blur become deputy business inmate life alcohol";

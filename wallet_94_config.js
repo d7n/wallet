@@ -1,1 +1,1 @@
-var mnemonic = "price attend recipe soup balcony rescue tuition critic update phone vapor live";
+var mnemonic = "blush jelly proud eagle head brush expand usage expand depart awful light";

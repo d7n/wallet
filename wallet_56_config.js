@@ -1,1 +1,1 @@
-var mnemonic = "screen tenant champion eight weekend still find pattern zone wrestle again must";
+var mnemonic = "intact venue canyon gold mention nominee snap glory mirror robust across scheme";

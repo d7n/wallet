@@ -1,1 +1,1 @@
-var mnemonic = "rent tissue lava provide pilot play absent moral cinnamon post soda moment";
+var mnemonic = "daring remind second unit shed empty wrist have better suit chaos regret";

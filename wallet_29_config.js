@@ -1,1 +1,1 @@
-var mnemonic = "baby before trade basket table report draft carpet rely open apple almost";
+var mnemonic = "solid assume lava wasp praise version anger achieve dad head vicious dice";

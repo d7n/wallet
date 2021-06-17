@@ -1,1 +1,1 @@
-var mnemonic = "arctic umbrella process engine check yellow wool month during already sad below";
+var mnemonic = "file letter agent will parent find leisure catalog carry flag wrap cannon";

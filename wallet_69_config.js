@@ -1,1 +1,1 @@
-var mnemonic = "meadow buyer sugar desert illegal dice cool bundle fiscal document pigeon side";
+var mnemonic = "audit spike file antenna must present fruit undo deposit pattern pet result";

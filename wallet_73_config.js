@@ -1,1 +1,1 @@
-var mnemonic = "tackle know gift gown ladder thrive spend stuff drop electric pistol noodle";
+var mnemonic = "reject glimpse cloud deposit display typical cat scorpion recycle palace police fuel";

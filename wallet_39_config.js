@@ -1,1 +1,1 @@
-var mnemonic = "earn festival typical hurt public typical tooth main anchor example poem culture";
+var mnemonic = "urban across dove tank mango grocery fox limb trial file mesh guide";

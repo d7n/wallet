@@ -1,1 +1,1 @@
-var mnemonic = "clog faint mother equip near festival attend affair number escape sound kiss";
+var mnemonic = "good letter long violin frequent pigeon later absurd organ access cook prize";

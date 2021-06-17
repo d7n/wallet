@@ -1,1 +1,1 @@
-var mnemonic = "load general grief love envelope slim leave assume happy finish weather frog";
+var mnemonic = "fan light swamp chapter tribe over deny tuition december smooth attitude raw";

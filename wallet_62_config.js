@@ -1,1 +1,1 @@
-var mnemonic = "blame borrow wait live six merit harsh floor salmon unit appear aerobic";
+var mnemonic = "stone cross joy coral scorpion dragon giant deal fee misery south find";

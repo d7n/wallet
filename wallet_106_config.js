@@ -1,1 +1,1 @@
-var mnemonic = "suggest pitch unique useless train return army analyst limit town bag congress";
+var mnemonic = "drill hire frown genre boat soon excite frame street eager mercy butter";

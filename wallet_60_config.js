@@ -1,1 +1,1 @@
-var mnemonic = "attract impose swing wedding crane nominee abstract gesture shrug health announce crazy";
+var mnemonic = "chimney fly urge bird that frown sadness alone glue wood beauty smoke";

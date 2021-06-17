@@ -1,1 +1,1 @@
-var mnemonic = "effort fatal upgrade oblige across year visual verb verb leader napkin check";
+var mnemonic = "reform sudden cycle clog scorpion citizen average apart right imitate want ring";

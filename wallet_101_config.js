@@ -1,1 +1,1 @@
-var mnemonic = "random loop broccoli master note bracket place combine magnet cactus slot rally";
+var mnemonic = "food option swim embody error spatial adult shed afraid nephew proud bamboo";

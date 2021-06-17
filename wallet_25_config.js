@@ -1,1 +1,1 @@
-var mnemonic = "goose cool treat enroll ankle science ladder curtain glory about magnet visual";
+var mnemonic = "purpose filter cushion fresh gate daughter evil citizen grid once venue person";

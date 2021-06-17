@@ -1,1 +1,1 @@
-var mnemonic = "produce wrist tiger rack soul runway force luggage length type beyond critic";
+var mnemonic = "purity truck crouch please enrich shift poverty toward jump butter giant luxury";

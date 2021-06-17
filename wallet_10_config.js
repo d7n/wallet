@@ -1,1 +1,1 @@
-var mnemonic = "retire remain civil jump churn bicycle uncover basket fortune valley under sauce";
+var mnemonic = "liquid know divide wrist book census skin job spice country excess fitness";

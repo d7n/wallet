@@ -1,1 +1,1 @@
-var mnemonic = "quarter blue access wreck chicken box supreme address electric december amount wink";
+var mnemonic = "casual vapor spider live dove crime addict canal faculty flag pigeon prosper";

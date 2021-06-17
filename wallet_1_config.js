@@ -1,1 +1,1 @@
-var mnemonic = "plunge obtain board shoulder surround misery deliver throw fame cradle rhythm damp";
+var mnemonic = "arrow fiber antique adapt convince wrist pride rib interest morning hobby primary";

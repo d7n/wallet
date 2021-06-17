@@ -1,1 +1,1 @@
-var mnemonic = "butter merit acid frog text retire prevent degree injury develop skill help";
+var mnemonic = "try explain company shield design flush stairs leisure lottery afraid april mansion";

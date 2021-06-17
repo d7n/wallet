@@ -1,1 +1,1 @@
-var mnemonic = "legal tenant jealous appear rich pipe entry castle arena heart alpha modify";
+var mnemonic = "vibrant obtain inflict list cover slab item vacant yard train north abuse";

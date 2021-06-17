@@ -1,1 +1,1 @@
-var mnemonic = "prize winter slot season pencil twin net deer vapor fuel early mushroom";
+var mnemonic = "pioneer picture primary require bar pole birth soon farm enhance garage frost";

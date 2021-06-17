@@ -1,1 +1,1 @@
-var mnemonic = "front romance worry weasel oxygen stable cannon scan sure attitude message enroll";
+var mnemonic = "attract lunar night feed silver fix congress valve okay remove height december";

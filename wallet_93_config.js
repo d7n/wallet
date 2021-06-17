@@ -1,1 +1,1 @@
-var mnemonic = "pen popular beach stumble dinosaur curious forum ice quality radio hello blame";
+var mnemonic = "rescue trick reunion aerobic boss receive table sell point dress carbon clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "inherit word dirt crime rain exact lunch soda eagle tape broken elite";
+var mnemonic = "round crack enable hazard dial devote crack cactus crouch strong hammer crime";
