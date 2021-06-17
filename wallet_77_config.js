@@ -1,1 +1,1 @@
-var mnemonic = "pledge float glad danger castle funny stage bomb decline guitar cannon arch";
+var mnemonic = "lamp fox credit fashion prize rotate limit february polar bid image float";

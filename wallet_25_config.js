@@ -1,1 +1,1 @@
-var mnemonic = "banner leopard stamp switch toilet pyramid pumpkin remove story argue army minimum";
+var mnemonic = "what cradle supreme equip into need company soft cheap autumn street close";

@@ -1,1 +1,1 @@
-var mnemonic = "glove rotate limit ring rude flavor awkward tape fault entry dutch trick";
+var mnemonic = "uncover balance wet immense hill violin income cheap pulse nest topic apart";

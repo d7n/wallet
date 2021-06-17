@@ -1,1 +1,1 @@
-var mnemonic = "grace forest season two fly survey science slice fury champion burst brush";
+var mnemonic = "ready car few light metal cereal entire field profit gain safe shy";

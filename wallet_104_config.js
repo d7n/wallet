@@ -1,1 +1,1 @@
-var mnemonic = "among topic wedding faith scissors today park blind exact book distance phone";
+var mnemonic = "aerobic draft glass state garlic panel empower aim rely spoil oven main";

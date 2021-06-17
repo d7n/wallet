@@ -1,1 +1,1 @@
-var mnemonic = "phrase eight sausage inner vacant city panel fiber busy pool fox easy";
+var mnemonic = "crystal buddy art fence dad inhale already plastic add dignity allow convince";

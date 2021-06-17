@@ -1,1 +1,1 @@
-var mnemonic = "prize budget plate swallow labor lake sleep mystery shaft stove garage local";
+var mnemonic = "harsh sunny insect narrow endorse rice real negative bridge champion float engine";

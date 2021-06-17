@@ -1,1 +1,1 @@
-var mnemonic = "curious input hurdle topic ceiling enhance exhibit bag bounce ten enter little";
+var mnemonic = "nasty average minute same remind gauge zoo bless endorse home poverty possible";

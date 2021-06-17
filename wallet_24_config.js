@@ -1,1 +1,1 @@
-var mnemonic = "yellow diamond elephant label coin that cute impact spoon lift zero mansion";
+var mnemonic = "toast country bridge notable ring angry print fold quiz tissue grow rabbit";

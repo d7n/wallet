@@ -1,1 +1,1 @@
-var mnemonic = "kick frog elegant anxiety leader wolf song gas early fat can expire";
+var mnemonic = "immense unique gentle rib artwork snake parade hope prison anchor marble spawn";

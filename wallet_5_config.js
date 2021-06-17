@@ -1,1 +1,1 @@
-var mnemonic = "school quit traffic move kiwi joy rain spoon swamp better cram vote";
+var mnemonic = "gossip rule taxi orchard when nominee eternal box brain recycle crash control";

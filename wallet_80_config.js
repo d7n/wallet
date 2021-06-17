@@ -1,1 +1,1 @@
-var mnemonic = "ocean pulp benefit boat angry advice cute label unfold fiction verify habit";
+var mnemonic = "gaze setup tone that grant calm nature live marine slide across come";

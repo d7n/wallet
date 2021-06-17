@@ -1,1 +1,1 @@
-var mnemonic = "decrease bridge lawsuit unfold galaxy soda wash mushroom sleep define used tell";
+var mnemonic = "design unhappy arrive earth pigeon gasp tiny govern smart ill media alter";

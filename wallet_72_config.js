@@ -1,1 +1,1 @@
-var mnemonic = "evolve purchase debris bundle program equal power tag wealth blouse symptom company";
+var mnemonic = "jewel robust hammer wife sell thrive reason oil lift wing candy expand";

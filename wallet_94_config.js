@@ -1,1 +1,1 @@
-var mnemonic = "trouble north loop consider crater fossil quiz ostrich rib walk sand crunch";
+var mnemonic = "girl parade drive width scissors coconut across embark harvest pool river grow";

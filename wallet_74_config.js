@@ -1,1 +1,1 @@
-var mnemonic = "note envelope energy dumb fetch snake imitate unit train chimney scrap lizard";
+var mnemonic = "board easy dust flip sweet topic stomach habit version swallow size snack";

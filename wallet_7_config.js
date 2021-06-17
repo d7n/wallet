@@ -1,1 +1,1 @@
-var mnemonic = "spike climb sibling climb cram giggle glow mobile world zero throw beef";
+var mnemonic = "subject usual stable metal artist speed slim detail garlic clinic odor boss";

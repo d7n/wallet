@@ -1,1 +1,1 @@
-var mnemonic = "myth budget chief already chimney buzz shop nation nephew bird bar appear";
+var mnemonic = "pencil again settle east truly debate earn oxygen nose spawn addict extra";

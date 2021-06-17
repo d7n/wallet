@@ -1,1 +1,1 @@
-var mnemonic = "exhaust tenant move fiber forum trick mango canyon report blanket scale defense";
+var mnemonic = "romance deny ill lift drama letter ice mass ranch student runway seed";

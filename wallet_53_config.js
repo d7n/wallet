@@ -1,1 +1,1 @@
-var mnemonic = "spoon broccoli affair urge inform screen cluster fury table tomorrow point inch";
+var mnemonic = "code torch glow panda coconut raccoon economy pipe prepare oxygen club juice";

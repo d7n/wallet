@@ -1,1 +1,1 @@
-var mnemonic = "comfort dish evolve deputy estate wild bright annual prize priority obvious pet";
+var mnemonic = "now glory small loud crawl wire champion gown blush only network glimpse";

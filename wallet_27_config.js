@@ -1,1 +1,1 @@
-var mnemonic = "report fence cram knock supreme ketchup club anxiety impose pride sun finger";
+var mnemonic = "denial april bless tiny child order credit off coral thrive interest nut";

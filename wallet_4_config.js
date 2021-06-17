@@ -1,1 +1,1 @@
-var mnemonic = "gown toward soap used charge unit life cave trend other verify tunnel";
+var mnemonic = "seek jungle blush zero federal escape victory interest tongue cook wire knock";

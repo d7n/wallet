@@ -1,1 +1,1 @@
-var mnemonic = "assault march rebel keep need file merry inmate guilt census slim advance";
+var mnemonic = "tunnel humor retreat recipe knife bulk camera someone warfare rate bring achieve";

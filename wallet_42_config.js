@@ -1,1 +1,1 @@
-var mnemonic = "cousin ticket setup credit museum payment dentist coral ski worry hood era";
+var mnemonic = "tired direct bus stuff small differ black nice sketch beauty message devote";

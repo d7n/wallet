@@ -1,1 +1,1 @@
-var mnemonic = "sketch dismiss chimney lens flush pet episode domain hockey lion twenty cargo";
+var mnemonic = "salon duck coach convince knock sister drop float inhale asthma enjoy auto";

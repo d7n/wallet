@@ -1,1 +1,1 @@
-var mnemonic = "mass disorder machine myself away crane fitness excess stove sunset opera offer";
+var mnemonic = "glad coffee basket mushroom empower mandate protect decide purity what market ordinary";

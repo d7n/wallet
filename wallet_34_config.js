@@ -1,1 +1,1 @@
-var mnemonic = "mimic grunt donate radio solve express forum pigeon giant pluck mango train";
+var mnemonic = "series spike off walnut forget alien gate weekend want latin cement lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "quote call destroy bacon bomb tail bronze crawl truly drink acquire absorb";
+var mnemonic = "shield print please draft source payment draw hour true luxury off cloth";

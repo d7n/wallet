@@ -1,1 +1,1 @@
-var mnemonic = "evolve fox ensure hundred short tortoise feel curious expire dish suffer around";
+var mnemonic = "cereal shock shaft crystal panda debris blossom swallow private tape broom jungle";

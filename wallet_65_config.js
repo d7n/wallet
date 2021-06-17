@@ -1,1 +1,1 @@
-var mnemonic = "high call front pulp hurt lizard setup modify right nerve funny rail";
+var mnemonic = "charge cube adult number exist correct boost simple amount vacant disorder tribe";

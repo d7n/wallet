@@ -1,1 +1,1 @@
-var mnemonic = "ahead scale shock shrimp program series result police erupt million begin differ";
+var mnemonic = "leopard tail surge sail portion bean attitude soldier snack true panic stairs";

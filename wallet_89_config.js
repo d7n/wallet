@@ -1,1 +1,1 @@
-var mnemonic = "verify humble depart segment seek claw always friend patient hamster clump swear";
+var mnemonic = "cement apart false hope express pool pelican century response topple various pupil";

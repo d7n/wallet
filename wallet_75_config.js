@@ -1,1 +1,1 @@
-var mnemonic = "cereal barrel oak ill mom love muffin battle brand dash long adapt";
+var mnemonic = "escape senior easy access space town patient lake below fork rabbit author";

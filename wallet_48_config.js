@@ -1,1 +1,1 @@
-var mnemonic = "empower weasel sail icon episode skirt length cruise antique latin shrug analyst";
+var mnemonic = "salmon life rescue slice common ignore fitness wood rifle clog mosquito once";

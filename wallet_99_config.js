@@ -1,1 +1,1 @@
-var mnemonic = "tourist welcome indicate wrist stamp seven aisle season woman whip stem motor";
+var mnemonic = "oak fiscal sponsor situate estate expose member ill huge first destroy identify";

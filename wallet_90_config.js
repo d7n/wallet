@@ -1,1 +1,1 @@
-var mnemonic = "master prevent street donor tackle dirt outside gorilla enroll baby manual display";
+var mnemonic = "month marriage enter ginger genius crouch game almost shell client use shop";

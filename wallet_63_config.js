@@ -1,1 +1,1 @@
-var mnemonic = "rent before oxygen lock more observe minimum occur analyst escape airport local";
+var mnemonic = "october candy witness bag confirm addict approve genre shoulder dawn squeeze size";

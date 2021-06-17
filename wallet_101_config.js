@@ -1,1 +1,1 @@
-var mnemonic = "wear humor lamp couple conduct west matrix smooth skill inform river primary";
+var mnemonic = "broccoli ceiling blanket choose salute reflect average wheel absent try speak lazy";

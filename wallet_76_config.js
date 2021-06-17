@@ -1,1 +1,1 @@
-var mnemonic = "blind adult also anchor sheriff inch vibrant scare element impose shed pause";
+var mnemonic = "moral catalog napkin remember elevator dial rubber empower clarify visa describe crew";

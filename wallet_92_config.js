@@ -1,1 +1,1 @@
-var mnemonic = "panda plug rich ski letter horror pen boring tackle pull mirror select";
+var mnemonic = "fold neglect tiger plunge immense poverty deer anger claw oxygen have salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "left oven trumpet wage venue label weird just put muffin arrange credit";
+var mnemonic = "erase business embrace like aspect great ocean solution index topic good sweet";

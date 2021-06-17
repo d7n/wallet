@@ -1,1 +1,1 @@
-var mnemonic = "blame voice hope dad daring network slide service empty purpose lava when";
+var mnemonic = "net time high grief more wolf payment drift junior riot drastic until";

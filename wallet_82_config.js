@@ -1,1 +1,1 @@
-var mnemonic = "cute stove bullet early embrace load actual table core dwarf capital aware";
+var mnemonic = "improve dinosaur speak truck chuckle minute foot tip glimpse cricket used lens";

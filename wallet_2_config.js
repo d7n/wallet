@@ -1,1 +1,1 @@
-var mnemonic = "mountain pledge behind moon kangaroo unveil monkey narrow truth nothing rescue tank";
+var mnemonic = "unit pond doctor lunch toe brain double ginger gate spy loyal long";

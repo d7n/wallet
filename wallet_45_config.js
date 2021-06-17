@@ -1,1 +1,1 @@
-var mnemonic = "parrot record verify obscure dutch ability idle rice warm suffer soda upon";
+var mnemonic = "noodle ice year primary carpet pioneer grit april renew beauty virus bottom";

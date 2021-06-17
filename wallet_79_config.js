@@ -1,1 +1,1 @@
-var mnemonic = "rice trust thrive live forest rude economy fever youth eager impact tumble";
+var mnemonic = "fly shiver salon wrestle slab chuckle arena spy try soccer benefit conduct";

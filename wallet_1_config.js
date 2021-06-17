@@ -1,1 +1,1 @@
-var mnemonic = "please case enrich cram life figure gun lunch shed hold case jar";
+var mnemonic = "immune slab toilet diary melody ankle auction usage amazing frequent height useless";

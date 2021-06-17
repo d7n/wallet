@@ -1,1 +1,1 @@
-var mnemonic = "expire tone school diet cage glide wave neglect taste tenant impose hire";
+var mnemonic = "brown dust wolf share stage taste spray cycle august picture flat shock";

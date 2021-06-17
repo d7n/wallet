@@ -1,1 +1,1 @@
-var mnemonic = "pilot ivory still strike prosper humor viable rapid mixed mind afraid rice";
+var mnemonic = "witness chase fiber future use submit green alarm artefact fix waste tonight";

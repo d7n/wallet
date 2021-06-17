@@ -1,1 +1,1 @@
-var mnemonic = "oven pelican turkey fuel empower clump mind uncle unveil pattern useful chat";
+var mnemonic = "upper what shallow always love horn glue annual swear surface soon magic";

@@ -1,1 +1,1 @@
-var mnemonic = "mango smooth minor dash machine upon muscle broken over artwork you acquire";
+var mnemonic = "occur pause style secret input session capable term tiger online tool admit";

@@ -1,1 +1,1 @@
-var mnemonic = "know use issue soap engine almost tank thunder shine foil citizen thing";
+var mnemonic = "sudden denial during priority solution abuse exclude brass assume abuse rack hire";

@@ -1,1 +1,1 @@
-var mnemonic = "crew buffalo eye winter green tooth pond betray essay lobster pig live";
+var mnemonic = "matter multiply unable confirm law disagree spot peanut axis virtual bunker grow";

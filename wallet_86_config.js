@@ -1,1 +1,1 @@
-var mnemonic = "enemy smile oyster reform parade danger capital genius hunt pond can police";
+var mnemonic = "rocket woman cross witness about boy clean trigger unhappy owner float attack";

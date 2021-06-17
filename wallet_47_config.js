@@ -1,1 +1,1 @@
-var mnemonic = "enjoy eagle car enhance core large fiction genre ability strike grace marine";
+var mnemonic = "two prefer father dilemma age journey amused select legal drip adjust festival";

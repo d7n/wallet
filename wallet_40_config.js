@@ -1,1 +1,1 @@
-var mnemonic = "share include nest click bomb height laptop unveil ski snow hamster copper";
+var mnemonic = "burst build mother witness evidence melody load parade kangaroo excite photo plug";

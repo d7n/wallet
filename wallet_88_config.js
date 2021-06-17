@@ -1,1 +1,1 @@
-var mnemonic = "foil lady pattern update wagon pumpkin minute pioneer ten glove predict rent";
+var mnemonic = "priority retire arrange want suit maid digital blood solve arrow latin flower";

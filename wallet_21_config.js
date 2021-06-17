@@ -1,1 +1,1 @@
-var mnemonic = "rebuild rookie vendor survey quality castle movie tornado nose panda oil audit";
+var mnemonic = "valve potato pudding timber say quick rigid aunt risk clap below patch";

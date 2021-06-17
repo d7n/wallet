@@ -1,1 +1,1 @@
-var mnemonic = "crater team panel report mass credit palm pond clown uniform hand coral";
+var mnemonic = "large actor bracket canoe capable mosquito nominee ensure clap athlete glare issue";

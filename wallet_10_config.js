@@ -1,1 +1,1 @@
-var mnemonic = "boil dry stick differ close manual sunset fly woman gather race above";
+var mnemonic = "bind cabin rival animal adapt reason firm east impose silver mirror simple";

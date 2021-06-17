@@ -1,1 +1,1 @@
-var mnemonic = "grass error magic helmet advice biology infant act measure save under snap";
+var mnemonic = "mango erupt skill deal wrist uniform language salmon mistake iron october season";

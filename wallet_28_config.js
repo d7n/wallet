@@ -1,1 +1,1 @@
-var mnemonic = "grief desk secret despair head penalty year often poet dust boat trigger";
+var mnemonic = "project setup health comic dutch fiction cereal anger super mountain uncover tiger";

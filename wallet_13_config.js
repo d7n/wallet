@@ -1,1 +1,1 @@
-var mnemonic = "amused human dutch tumble style aspect erupt connect item owner woman hour";
+var mnemonic = "clean reason blood earn forum plug body subway course leave own run";

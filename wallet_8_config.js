@@ -1,1 +1,1 @@
-var mnemonic = "advice dove mesh air draw tongue witness item vocal stable inhale slogan";
+var mnemonic = "symptom piece kitchen major honey edit number wagon erupt tag cereal trigger";

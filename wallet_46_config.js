@@ -1,1 +1,1 @@
-var mnemonic = "dismiss emotion wire dawn chunk shrimp hurdle corn absent chaos emotion coyote";
+var mnemonic = "magnet work enough elite promote donkey foot flock debris parade proof embrace";

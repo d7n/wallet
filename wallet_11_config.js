@@ -1,1 +1,1 @@
-var mnemonic = "couple decide spike display together radio about undo divert stable bachelor half";
+var mnemonic = "field legend dream source license cat sight bounce broccoli zebra demand feature";

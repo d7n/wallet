@@ -1,1 +1,1 @@
-var mnemonic = "slim body hello final similar giant illness business tiger pledge travel thank";
+var mnemonic = "party rhythm degree gadget cause quote tent cloth poverty rookie engine brick";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial reflect rocket actual tray around squirrel hire gesture debris cash essence";
+var mnemonic = "sport fun drama sweet couple huge kitchen fork health lazy aisle library";

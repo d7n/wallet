@@ -1,1 +1,1 @@
-var mnemonic = "abuse dress nuclear tooth card banana friend bag assume indoor when retreat";
+var mnemonic = "below wage system ribbon between account whip sort marriage spread green protect";

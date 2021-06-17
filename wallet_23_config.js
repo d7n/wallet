@@ -1,1 +1,1 @@
-var mnemonic = "system bird silent answer skirt change gospel process broccoli square address omit";
+var mnemonic = "shoe wash pole benefit flat edge humble forward casual awesome dumb melody";

@@ -1,1 +1,1 @@
-var mnemonic = "seat idle undo art chicken curious group decide witness gravity forward sense";
+var mnemonic = "all rally giggle close rebel hedgehog hub ten bracket artwork silly upper";

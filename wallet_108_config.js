@@ -1,1 +1,1 @@
-var mnemonic = "view snake dynamic actress solar rule coach burden false cannon live aim";
+var mnemonic = "basic anger skull alcohol hub lift deny soap gas fatigue mesh rookie";

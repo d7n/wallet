@@ -1,1 +1,1 @@
-var mnemonic = "often drop income foot reunion exhibit network once grocery agent clarify virus";
+var mnemonic = "mammal defy what kangaroo upon umbrella escape sun empty achieve segment mosquito";

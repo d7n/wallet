@@ -1,1 +1,1 @@
-var mnemonic = "wage capable simple cute ticket club little flock glue cruise toe occur";
+var mnemonic = "slide bundle palm uniform rotate inmate hundred horror rent leave absorb rally";

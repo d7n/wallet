@@ -1,1 +1,1 @@
-var mnemonic = "solution wonder depth mother admit conduct insect affair sunset alarm actor sudden";
+var mnemonic = "slab kid kidney borrow creek creek angle waste vault worry manage derive";

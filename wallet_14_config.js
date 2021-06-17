@@ -1,1 +1,1 @@
-var mnemonic = "maple jazz claw original cheap topple escape leisure wire bleak elder clap";
+var mnemonic = "maximum bar this canyon gospel mother exact antique pupil food tip another";

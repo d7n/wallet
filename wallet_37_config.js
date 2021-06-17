@@ -1,1 +1,1 @@
-var mnemonic = "net sorry doctor deliver december sell cave canvas safe autumn chalk regular";
+var mnemonic = "wreck rabbit snack drill toast umbrella chair memory clutch token theme improve";

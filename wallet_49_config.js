@@ -1,1 +1,1 @@
-var mnemonic = "base become token material burst alarm diary actual robust pass orbit permit";
+var mnemonic = "fire viable correct swarm again make top stick seminar draw toddler marble";

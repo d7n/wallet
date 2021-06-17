@@ -1,1 +1,1 @@
-var mnemonic = "twin pumpkin opera shift shoulder bulb pulse hockey ahead length illness brand";
+var mnemonic = "scatter tape organ below party era table april beach antenna hunt post";

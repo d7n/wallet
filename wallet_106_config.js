@@ -1,1 +1,1 @@
-var mnemonic = "rifle burger damp brother evil fiber voice few aware truth buyer swarm";
+var mnemonic = "foam nothing puppy swap embark board position knee paper fresh attitude profit";
