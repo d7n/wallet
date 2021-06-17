@@ -1,1 +1,1 @@
-var mnemonic = "subject usual stable metal artist speed slim detail garlic clinic odor boss";
+var mnemonic = "swift paper fabric clip exhaust legend journey bundle powder settle crouch impact";

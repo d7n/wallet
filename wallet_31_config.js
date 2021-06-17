@@ -1,1 +1,1 @@
-var mnemonic = "below wage system ribbon between account whip sort marriage spread green protect";
+var mnemonic = "announce shift train kiss dream smile cancel misery album horse license crazy";

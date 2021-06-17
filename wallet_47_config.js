@@ -1,1 +1,1 @@
-var mnemonic = "two prefer father dilemma age journey amused select legal drip adjust festival";
+var mnemonic = "inside fix enter viable drip patch stock drink pipe blush gain chronic";

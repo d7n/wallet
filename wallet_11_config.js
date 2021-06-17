@@ -1,1 +1,1 @@
-var mnemonic = "field legend dream source license cat sight bounce broccoli zebra demand feature";
+var mnemonic = "tragic quote cash tip between buddy mountain turn clay stairs because second";

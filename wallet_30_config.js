@@ -1,1 +1,1 @@
-var mnemonic = "find pizza float suit yard tourist slab put small daring into exact";
+var mnemonic = "sad soccer general clump weapon sing door canal relief original chaos tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "ship there lake seminar tiny famous width seven raise much price arrange";
+var mnemonic = "immune position local opinion sport salmon pave multiply estate photo bunker because";

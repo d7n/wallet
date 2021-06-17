@@ -1,1 +1,1 @@
-var mnemonic = "tree mind uniform lumber candy west clerk odor one style permit wear";
+var mnemonic = "offer few away fault wrestle equal alter two brother castle pottery useless";

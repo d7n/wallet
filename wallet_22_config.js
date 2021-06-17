@@ -1,1 +1,1 @@
-var mnemonic = "glory second obvious cricket file spoil throw tackle reduce slim unit scout";
+var mnemonic = "cliff near region drastic music original south virus earth leaf father wink";

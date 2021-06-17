@@ -1,1 +1,1 @@
-var mnemonic = "tunnel humor retreat recipe knife bulk camera someone warfare rate bring achieve";
+var mnemonic = "visa either uniform dove ritual spot electric day light scout stage fit";

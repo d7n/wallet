@@ -1,1 +1,1 @@
-var mnemonic = "call siege hire stay boy jar exist uncle morning oxygen zebra gate";
+var mnemonic = "dwarf weekend solution chimney track soup tower occur strike danger elevator runway";

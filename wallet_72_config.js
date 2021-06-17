@@ -1,1 +1,1 @@
-var mnemonic = "jewel robust hammer wife sell thrive reason oil lift wing candy expand";
+var mnemonic = "truth identify avoid quality gauge hair correct agent crumble fabric rigid vapor";

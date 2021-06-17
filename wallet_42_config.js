@@ -1,1 +1,1 @@
-var mnemonic = "tired direct bus stuff small differ black nice sketch beauty message devote";
+var mnemonic = "pear lion worth gossip basic side gesture summer ability remain shoot girl";

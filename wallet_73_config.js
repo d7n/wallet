@@ -1,1 +1,1 @@
-var mnemonic = "swamp mention van stay alarm ship boss grit company walk glimpse tackle";
+var mnemonic = "letter rail negative together guard leisure banana rookie disagree virus trumpet where";

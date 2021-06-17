@@ -1,1 +1,1 @@
-var mnemonic = "project setup health comic dutch fiction cereal anger super mountain uncover tiger";
+var mnemonic = "view right dose avocado sample general coyote cram mushroom cash wild input";

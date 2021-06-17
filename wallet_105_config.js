@@ -1,1 +1,1 @@
-var mnemonic = "weather pottery frozen bamboo monkey evoke jacket assume badge fruit palm add";
+var mnemonic = "galaxy figure park decorate sniff auto art cram announce image warrior flavor";

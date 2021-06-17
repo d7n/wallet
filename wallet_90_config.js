@@ -1,1 +1,1 @@
-var mnemonic = "month marriage enter ginger genius crouch game almost shell client use shop";
+var mnemonic = "party because dress swamp curious fuel fork budget husband attack slight spawn";

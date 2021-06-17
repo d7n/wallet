@@ -1,1 +1,1 @@
-var mnemonic = "large actor bracket canoe capable mosquito nominee ensure clap athlete glare issue";
+var mnemonic = "couple dove hurt credit nice grape balcony fashion genuine future glow crowd";

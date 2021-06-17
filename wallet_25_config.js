@@ -1,1 +1,1 @@
-var mnemonic = "what cradle supreme equip into need company soft cheap autumn street close";
+var mnemonic = "drum rocket track awake heart author panic unfold future tube captain truth";

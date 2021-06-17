@@ -1,1 +1,1 @@
-var mnemonic = "ready car few light metal cereal entire field profit gain safe shy";
+var mnemonic = "horse throw brand also spirit jaguar high second lunch comic voyage anchor";

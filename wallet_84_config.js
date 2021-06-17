@@ -1,1 +1,1 @@
-var mnemonic = "leopard tail surge sail portion bean attitude soldier snack true panic stairs";
+var mnemonic = "father energy diet sad able cousin planet hint top vehicle left lizard";

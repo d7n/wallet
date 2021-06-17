@@ -1,1 +1,1 @@
-var mnemonic = "party rhythm degree gadget cause quote tent cloth poverty rookie engine brick";
+var mnemonic = "episode endorse robust label genre quick media tone picture taxi patient vague";

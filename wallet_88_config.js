@@ -1,1 +1,1 @@
-var mnemonic = "priority retire arrange want suit maid digital blood solve arrow latin flower";
+var mnemonic = "decorate student setup gun animal public use shoot sun casino light layer";

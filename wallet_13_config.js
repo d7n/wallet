@@ -1,1 +1,1 @@
-var mnemonic = "clean reason blood earn forum plug body subway course leave own run";
+var mnemonic = "develop acquire law candy member try carpet forest gadget demise fossil swear";

@@ -1,1 +1,1 @@
-var mnemonic = "rocket woman cross witness about boy clean trigger unhappy owner float attack";
+var mnemonic = "repeat forget profit negative chunk member current present obtain ill slogan observe";

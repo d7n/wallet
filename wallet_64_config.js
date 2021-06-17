@@ -1,1 +1,1 @@
-var mnemonic = "fortune wine limb enforce awkward once trumpet two easily sadness when humble";
+var mnemonic = "tree grocery width vehicle tattoo lend exotic impact truly off punch suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "escape senior easy access space town patient lake below fork rabbit author";
+var mnemonic = "firm butter salute baby comic west viable sustain desk provide snake tuition";

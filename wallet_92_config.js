@@ -1,1 +1,1 @@
-var mnemonic = "fold neglect tiger plunge immense poverty deer anger claw oxygen have salmon";
+var mnemonic = "risk neglect they arctic country paper strategy mean answer lobster section save";

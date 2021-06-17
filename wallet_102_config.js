@@ -1,1 +1,1 @@
-var mnemonic = "drip daughter left twelve voyage invite narrow dutch match clump conduct train";
+var mnemonic = "pink until vintage spin direct blast garden left climb select misery lumber";

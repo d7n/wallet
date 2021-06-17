@@ -1,1 +1,1 @@
-var mnemonic = "duty catalog buffalo guilt melody minor spike valve excite stove move method";
+var mnemonic = "brave mechanic audit display shed please sample language upon exist health bachelor";

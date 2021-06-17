@@ -1,1 +1,1 @@
-var mnemonic = "lamp fox credit fashion prize rotate limit february polar bid image float";
+var mnemonic = "kidney awkward clap cupboard yellow material slam hub dutch pudding confirm pond";

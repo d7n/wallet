@@ -1,1 +1,1 @@
-var mnemonic = "series spike off walnut forget alien gate weekend want latin cement lecture";
+var mnemonic = "orange frequent monitor syrup patient reveal submit behave point unable quote flight";

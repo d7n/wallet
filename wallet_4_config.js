@@ -1,1 +1,1 @@
-var mnemonic = "seek jungle blush zero federal escape victory interest tongue cook wire knock";
+var mnemonic = "drum orbit fish guitar frequent quiz split web opinion chuckle try film";

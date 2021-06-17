@@ -1,1 +1,1 @@
-var mnemonic = "board easy dust flip sweet topic stomach habit version swallow size snack";
+var mnemonic = "phrase pretty hurry left side seed middle depth leopard board indicate acoustic";

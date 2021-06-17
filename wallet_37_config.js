@@ -1,1 +1,1 @@
-var mnemonic = "wreck rabbit snack drill toast umbrella chair memory clutch token theme improve";
+var mnemonic = "offer vanish announce rapid practice tattoo balance laugh direct quick gown ability";

@@ -1,1 +1,1 @@
-var mnemonic = "divorce fatal bunker away ill pink shove bone supply wrestle seat barrel";
+var mnemonic = "modify december apart siege panda mosquito embark proud entire speak stove impact";

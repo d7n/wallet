@@ -1,1 +1,1 @@
-var mnemonic = "flash trim reason captain often device guess reduce mask lecture mouse hour";
+var mnemonic = "inherit jump bless vacant erode time input wink time carry soldier genius";

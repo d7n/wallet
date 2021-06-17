@@ -1,1 +1,1 @@
-var mnemonic = "matter multiply unable confirm law disagree spot peanut axis virtual bunker grow";
+var mnemonic = "spend expire session hard sustain spawn joy deputy six normal love again";

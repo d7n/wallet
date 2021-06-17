@@ -1,1 +1,1 @@
-var mnemonic = "fly shiver salon wrestle slab chuckle arena spy try soccer benefit conduct";
+var mnemonic = "urge matter apology fun remove identify middle reveal patient alley vital mixed";

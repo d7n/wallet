@@ -1,1 +1,1 @@
-var mnemonic = "witness chase fiber future use submit green alarm artefact fix waste tonight";
+var mnemonic = "century float disease forget brand veteran fresh oyster tomato analyst balcony comfort";

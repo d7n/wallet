@@ -1,1 +1,1 @@
-var mnemonic = "fan awesome pumpkin vehicle kitten loyal code rescue jealous begin devote try";
+var mnemonic = "gauge oblige myth rule boss already visual suit pen search arrive squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "toast country bridge notable ring angry print fold quiz tissue grow rabbit";
+var mnemonic = "sudden climb eternal fiber better illness confirm vault salute accident fiber foot";

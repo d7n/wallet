@@ -1,1 +1,1 @@
-var mnemonic = "gossip rule taxi orchard when nominee eternal box brain recycle crash control";
+var mnemonic = "accuse lake divert skirt coconut inspire tackle point target october find tongue";

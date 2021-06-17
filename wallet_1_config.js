@@ -1,1 +1,1 @@
-var mnemonic = "immune slab toilet diary melody ankle auction usage amazing frequent height useless";
+var mnemonic = "drastic win kit pioneer fruit captain blame swallow harsh lend illegal point";

@@ -1,1 +1,1 @@
-var mnemonic = "oak fiscal sponsor situate estate expose member ill huge first destroy identify";
+var mnemonic = "essence sheriff rib noise salmon february ski cupboard chalk antique under forward";

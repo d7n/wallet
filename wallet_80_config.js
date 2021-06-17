@@ -1,1 +1,1 @@
-var mnemonic = "gaze setup tone that grant calm nature live marine slide across come";
+var mnemonic = "flock goddess loyal item grit leopard this blame wish best spell moment";

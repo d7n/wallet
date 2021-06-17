@@ -1,1 +1,1 @@
-var mnemonic = "salon duck coach convince knock sister drop float inhale asthma enjoy auto";
+var mnemonic = "repair cake empower mass veteran drink leopard ostrich grain seed tribe embark";

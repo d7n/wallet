@@ -1,1 +1,1 @@
-var mnemonic = "salmon life rescue slice common ignore fitness wood rifle clog mosquito once";
+var mnemonic = "vital upper effort edge estate main congress pudding valve month deliver brown";

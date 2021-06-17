@@ -1,1 +1,1 @@
-var mnemonic = "maximum bar this canyon gospel mother exact antique pupil food tip another";
+var mnemonic = "much chase deposit cruise name garlic gravity industry pig any enlist business";

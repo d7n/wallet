@@ -1,1 +1,1 @@
-var mnemonic = "net time high grief more wolf payment drift junior riot drastic until";
+var mnemonic = "rival sword inflict mobile exit cave dish damage parent opinion witness mountain";

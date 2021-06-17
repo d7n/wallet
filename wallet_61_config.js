@@ -1,1 +1,1 @@
-var mnemonic = "mango erupt skill deal wrist uniform language salmon mistake iron october season";
+var mnemonic = "echo extra ozone unit olive library prosper build sketch air critic maze";

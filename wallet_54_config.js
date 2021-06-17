@@ -1,1 +1,1 @@
-var mnemonic = "slab kid kidney borrow creek creek angle waste vault worry manage derive";
+var mnemonic = "wing silent barrel atom pottery lesson advice barrel control attack novel pitch";

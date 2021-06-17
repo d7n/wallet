@@ -1,1 +1,1 @@
-var mnemonic = "all rally giggle close rebel hedgehog hub ten bracket artwork silly upper";
+var mnemonic = "mail limb regret window crawl post exchange place theme type pioneer eye";

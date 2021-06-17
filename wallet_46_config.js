@@ -1,1 +1,1 @@
-var mnemonic = "magnet work enough elite promote donkey foot flock debris parade proof embrace";
+var mnemonic = "evolve chronic kidney february cheap engine top expect tobacco loan switch total";

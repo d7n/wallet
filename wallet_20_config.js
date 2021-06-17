@@ -1,1 +1,1 @@
-var mnemonic = "pencil again settle east truly debate earn oxygen nose spawn addict extra";
+var mnemonic = "symbol mule orange congress gentle gym cool electric loyal guilt void fringe";

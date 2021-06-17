@@ -1,1 +1,1 @@
-var mnemonic = "broccoli ceiling blanket choose salute reflect average wheel absent try speak lazy";
+var mnemonic = "smoke sheriff six occur clip industry speed daring stage hungry envelope already";

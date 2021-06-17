@@ -1,1 +1,1 @@
-var mnemonic = "harsh sunny insect narrow endorse rice real negative bridge champion float engine";
+var mnemonic = "online garbage pilot know place elbow sand lock child vehicle cross net";

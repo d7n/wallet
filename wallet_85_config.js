@@ -1,1 +1,1 @@
-var mnemonic = "immense unique gentle rib artwork snake parade hope prison anchor marble spawn";
+var mnemonic = "opera exist punch deal grain two loan blood skate tuna slide stereo";

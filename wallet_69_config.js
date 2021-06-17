@@ -1,1 +1,1 @@
-var mnemonic = "oblige fabric panther trophy when fashion leg wish picture man vehicle claw";
+var mnemonic = "pepper certain certain cloth vault prefer reveal start hip dream seminar uncle";

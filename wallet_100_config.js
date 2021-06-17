@@ -1,1 +1,1 @@
-var mnemonic = "mammal defy what kangaroo upon umbrella escape sun empty achieve segment mosquito";
+var mnemonic = "worth often hollow divide dash correct gold achieve oak real end fee";

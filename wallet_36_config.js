@@ -1,1 +1,1 @@
-var mnemonic = "assault shell foil link measure clip salt scout crop mention horror until";
+var mnemonic = "remember flat outside embody garage eight globe excess access exhibit game wear";

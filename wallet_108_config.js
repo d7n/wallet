@@ -1,1 +1,1 @@
-var mnemonic = "basic anger skull alcohol hub lift deny soap gas fatigue mesh rookie";
+var mnemonic = "juice label sibling exercise tribe drastic idle walk tiny table vacant shop";

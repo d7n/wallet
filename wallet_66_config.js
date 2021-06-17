@@ -1,1 +1,1 @@
-var mnemonic = "sudden denial during priority solution abuse exclude brass assume abuse rack hire";
+var mnemonic = "warrior exist obscure camp hat amused mimic nephew thunder shiver wide record";

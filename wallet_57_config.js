@@ -1,1 +1,1 @@
-var mnemonic = "wise public cactus claw pony talent trade layer radio click lemon document";
+var mnemonic = "hole piece company hurt bomb cheese advance letter idea wool cancel sound";

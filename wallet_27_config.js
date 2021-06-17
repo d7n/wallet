@@ -1,1 +1,1 @@
-var mnemonic = "denial april bless tiny child order credit off coral thrive interest nut";
+var mnemonic = "correct busy nasty exchange pitch salad upgrade visit voice amused circle sudden";

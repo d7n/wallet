@@ -1,1 +1,1 @@
-var mnemonic = "glad coffee basket mushroom empower mandate protect decide purity what market ordinary";
+var mnemonic = "inherit ostrich clean define domain health service face resource enact bright lion";

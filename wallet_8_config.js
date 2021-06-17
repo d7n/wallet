@@ -1,1 +1,1 @@
-var mnemonic = "symptom piece kitchen major honey edit number wagon erupt tag cereal trigger";
+var mnemonic = "limit lesson program crane insane capital hire obvious atom invite material famous";

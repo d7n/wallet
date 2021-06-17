@@ -1,1 +1,1 @@
-var mnemonic = "foam nothing puppy swap embark board position knee paper fresh attitude profit";
+var mnemonic = "outside agent adapt share duck clump water motor win wood scrap match";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle deposit car slam fetch goose cargo lend core below army orphan";
+var mnemonic = "present announce material picture choice loan summer fossil crowd main job pool";

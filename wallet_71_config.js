@@ -1,1 +1,1 @@
-var mnemonic = "crystal buddy art fence dad inhale already plastic add dignity allow convince";
+var mnemonic = "topic sunset achieve license work metal museum boring woman arrow afford repair";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate sheriff frost bar angry fit practice indicate hint love warm fine";
+var mnemonic = "fence bottom road enroll promote escape pizza truly gym stand rate glad";

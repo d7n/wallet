@@ -1,1 +1,1 @@
-var mnemonic = "era dynamic start unable across dizzy frost normal essay that pluck exhibit";
+var mnemonic = "dial quit buyer coffee sponsor catch remain merge violin soap mean lawsuit";

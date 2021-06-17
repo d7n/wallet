@@ -1,1 +1,1 @@
-var mnemonic = "company tribe replace crime actor because pencil enrich visa category exclude agent";
+var mnemonic = "purse trophy glide ball swarm similar note craft fiber duck wool ahead";

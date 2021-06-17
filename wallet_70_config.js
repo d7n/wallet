@@ -1,1 +1,1 @@
-var mnemonic = "sport fun drama sweet couple huge kitchen fork health lazy aisle library";
+var mnemonic = "giraffe assume awesome lyrics divert confirm april problem vacant sponsor glass unknown";

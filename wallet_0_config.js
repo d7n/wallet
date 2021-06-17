@@ -1,1 +1,1 @@
-var mnemonic = "cereal shock shaft crystal panda debris blossom swallow private tape broom jungle";
+var mnemonic = "uniform baby orphan ladder cram test source nature awful rescue hair result";

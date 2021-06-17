@@ -1,1 +1,1 @@
-var mnemonic = "upper what shallow always love horn glue annual swear surface soon magic";
+var mnemonic = "grab tuna peanut typical guide warfare album super hamster humble wise verb";

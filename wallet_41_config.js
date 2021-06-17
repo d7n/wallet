@@ -1,1 +1,1 @@
-var mnemonic = "nasty average minute same remind gauge zoo bless endorse home poverty possible";
+var mnemonic = "leopard drink region ride ignore orange abuse green vehicle town muffin page";

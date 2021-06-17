@@ -1,1 +1,1 @@
-var mnemonic = "scatter tape organ below party era table april beach antenna hunt post";
+var mnemonic = "dragon ginger orient shrimp scan close stand know track small uphold sniff";

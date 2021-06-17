@@ -1,1 +1,1 @@
-var mnemonic = "romance deny ill lift drama letter ice mass ranch student runway seed";
+var mnemonic = "welcome purpose enroll scrap banner hood elite road popular uncle climb detail";

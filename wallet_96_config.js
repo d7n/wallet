@@ -1,1 +1,1 @@
-var mnemonic = "uncover balance wet immense hill violin income cheap pulse nest topic apart";
+var mnemonic = "shadow bridge wide reduce saddle oxygen thing swarm pear remind soon use";

@@ -1,1 +1,1 @@
-var mnemonic = "burst build mother witness evidence melody load parade kangaroo excite photo plug";
+var mnemonic = "celery bike execute chimney wine pistol dry upgrade finish bread tragic harvest";

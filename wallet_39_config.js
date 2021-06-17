@@ -1,1 +1,1 @@
-var mnemonic = "slide bundle palm uniform rotate inmate hundred horror rent leave absorb rally";
+var mnemonic = "horse lunar embody recall depend broom advice holiday only subway fork short";

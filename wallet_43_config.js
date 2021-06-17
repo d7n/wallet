@@ -1,1 +1,1 @@
-var mnemonic = "brown dust wolf share stage taste spray cycle august picture flat shock";
+var mnemonic = "pupil acquire garbage bottom table carbon offer today empower senior knife joy";

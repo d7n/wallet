@@ -1,1 +1,1 @@
-var mnemonic = "fire viable correct swarm again make top stick seminar draw toddler marble";
+var mnemonic = "test illegal inside success wisdom hard brother police over junk feel release";

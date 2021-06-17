@@ -1,1 +1,1 @@
-var mnemonic = "noodle ice year primary carpet pioneer grit april renew beauty virus bottom";
+var mnemonic = "discover heavy machine marriage heart you decrease leisure can various number liar";

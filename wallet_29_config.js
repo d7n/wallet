@@ -1,1 +1,1 @@
-var mnemonic = "suit wrong olive trouble twin feature feed riot story course acoustic quote";
+var mnemonic = "uncle puzzle cycle aunt senior balcony brain zero expire expose organ rug";

@@ -1,1 +1,1 @@
-var mnemonic = "bind cabin rival animal adapt reason firm east impose silver mirror simple";
+var mnemonic = "imitate chapter entire struggle way pony curve tuna water sister indoor donor";

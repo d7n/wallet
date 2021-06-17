@@ -1,1 +1,1 @@
-var mnemonic = "cement apart false hope express pool pelican century response topple various pupil";
+var mnemonic = "supreme alone august burden usual boss sponsor hold shrug merit ticket write";

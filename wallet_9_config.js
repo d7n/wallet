@@ -1,1 +1,1 @@
-var mnemonic = "theory reopen glove novel crucial hurdle head enrich inner dumb library father";
+var mnemonic = "toast mystery wonder derive accident can affair regret engine oven degree glad";

@@ -1,1 +1,1 @@
-var mnemonic = "lift bag humble old setup brave amateur forget victory camera arena champion";
+var mnemonic = "gain emotion weird another quantum emerge mistake reduce tent guess fragile until";

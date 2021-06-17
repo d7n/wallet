@@ -1,1 +1,1 @@
-var mnemonic = "charge cube adult number exist correct boost simple amount vacant disorder tribe";
+var mnemonic = "fruit bonus lucky thought acid fantasy width patrol myth series portion input";

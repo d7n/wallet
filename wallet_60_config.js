@@ -1,1 +1,1 @@
-var mnemonic = "now glory small loud crawl wire champion gown blush only network glimpse";
+var mnemonic = "post jacket uniform bleak already soap grit together during elbow seed slush";

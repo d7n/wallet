@@ -1,1 +1,1 @@
-var mnemonic = "erase business embrace like aspect great ocean solution index topic good sweet";
+var mnemonic = "remove crew goat spring involve cry dish together liberty black meat render";

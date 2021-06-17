@@ -1,1 +1,1 @@
-var mnemonic = "girl parade drive width scissors coconut across embark harvest pool river grow";
+var mnemonic = "design item side express hand bid ordinary speak lawsuit soap minimum color";

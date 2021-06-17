@@ -1,1 +1,1 @@
-var mnemonic = "people ritual head firm summer pattern erode put response barely biology gorilla";
+var mnemonic = "want margin couch erase alien assume police gap cancel author bacon dish";

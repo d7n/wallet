@@ -1,1 +1,1 @@
-var mnemonic = "october candy witness bag confirm addict approve genre shoulder dawn squeeze size";
+var mnemonic = "home disorder swim sorry lion drink salon occur smooth tenant crazy lizard";

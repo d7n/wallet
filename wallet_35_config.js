@@ -1,1 +1,1 @@
-var mnemonic = "occur pause style secret input session capable term tiger online tool admit";
+var mnemonic = "fragile ahead oak process work length floor unit tide rough curtain silly";

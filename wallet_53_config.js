@@ -1,1 +1,1 @@
-var mnemonic = "code torch glow panda coconut raccoon economy pipe prepare oxygen club juice";
+var mnemonic = "rely pizza wink cool scrap above episode trash way jacket police logic";
