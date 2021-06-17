@@ -1,1 +1,1 @@
-var mnemonic = "speak cradle slogan coach board expand nothing victory final upgrade walnut echo";
+var mnemonic = "wet wisdom notice trial shine shell during way rotate oval silk popular";

@@ -1,1 +1,1 @@
-var mnemonic = "fade rather hurdle cabbage ski giggle urban behind mother enrich extend mind";
+var mnemonic = "step announce shoot affair chalk stairs bridge banner ocean sting hill curve";

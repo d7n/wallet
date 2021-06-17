@@ -1,1 +1,1 @@
-var mnemonic = "ship kangaroo knee notice rent silly lion forward way settle loud fix";
+var mnemonic = "flock shift air police pioneer solid riot inhale nothing verb first start";

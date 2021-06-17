@@ -1,1 +1,1 @@
-var mnemonic = "claim world switch school daring thing much liquid derive broccoli addict soap";
+var mnemonic = "punch own bonus use power silver pottery chat decline angle tilt december";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy indoor any large symbol push only survey spoil vacant element dizzy";
+var mnemonic = "doll earn define inch half stove suspect coach guess bright smooth pigeon";

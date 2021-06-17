@@ -1,1 +1,1 @@
-var mnemonic = "book spatial party belt income engage awake portion transfer stick gallery curtain";
+var mnemonic = "august mercy forward inject pond resemble episode comfort oven rate brass toast";

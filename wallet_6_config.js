@@ -1,1 +1,1 @@
-var mnemonic = "club feature stereo ugly proof enforce rookie olive once hill obtain grief";
+var mnemonic = "jealous brand velvet answer purity client know treat column thrive exit stove";

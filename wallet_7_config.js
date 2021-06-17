@@ -1,1 +1,1 @@
-var mnemonic = "myth sunny zone receive scrap mercy solve wolf divide script vessel pitch";
+var mnemonic = "motion mandate sketch improve jazz general theory evoke diamond hip annual photo";

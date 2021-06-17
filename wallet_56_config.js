@@ -1,1 +1,1 @@
-var mnemonic = "stand detect primary moon cry emerge hurry cook awesome prevent gravity sign";
+var mnemonic = "other collect answer ghost business door lesson job present ignore video hint";

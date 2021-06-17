@@ -1,1 +1,1 @@
-var mnemonic = "crucial crawl tackle unaware scissors seek enforce faculty boy yellow live piece";
+var mnemonic = "old wage state huge lecture lecture happy guard mobile venue device chapter";

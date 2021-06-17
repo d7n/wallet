@@ -1,1 +1,1 @@
-var mnemonic = "hollow ribbon lens pigeon lens category west review what easily dinosaur cat";
+var mnemonic = "combine supply bottom replace mother release source wine element image winter vintage";

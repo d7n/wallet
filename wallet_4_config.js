@@ -1,1 +1,1 @@
-var mnemonic = "hunt wasp swing aware shed cup silent photo material biology hedgehog daring";
+var mnemonic = "fame enroll pledge behind basket broom exist object approve another van sunny";

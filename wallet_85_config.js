@@ -1,1 +1,1 @@
-var mnemonic = "ritual police chest floor camera close thunder garage clay dynamic raise attend";
+var mnemonic = "age size shadow refuse verify depend offer lady tent merit upset put";

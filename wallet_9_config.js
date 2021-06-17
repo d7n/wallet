@@ -1,1 +1,1 @@
-var mnemonic = "ensure vintage require huge bone hotel logic pitch catalog alley still awake";
+var mnemonic = "kitten cricket theme federal day cupboard holiday congress tattoo crawl float sad";

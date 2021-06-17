@@ -1,1 +1,1 @@
-var mnemonic = "sport shock armor miss hire dance nasty police expire wise melody gaze";
+var mnemonic = "mule rookie unable medal tobacco library air orient master federal when video";

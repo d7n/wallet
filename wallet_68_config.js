@@ -1,1 +1,1 @@
-var mnemonic = "client heavy abandon boss push gift wish brand health birth pencil custom";
+var mnemonic = "grab unusual defy elevator project second tragic diamond still quality plastic village";

@@ -1,1 +1,1 @@
-var mnemonic = "path language paper plug large cluster motion hole kingdom hurry empty ethics";
+var mnemonic = "raise denial cost virtual order gap decrease illegal foil typical weather lion";

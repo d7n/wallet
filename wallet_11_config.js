@@ -1,1 +1,1 @@
-var mnemonic = "relief weather picture faculty narrow boil guard appear muffin town cabin box";
+var mnemonic = "fame orange turkey dash maple wall record luggage method tuition where key";

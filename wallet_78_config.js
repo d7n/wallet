@@ -1,1 +1,1 @@
-var mnemonic = "unveil step spread bench path enroll beyond clerk hold aisle fashion term";
+var mnemonic = "nature copy depth doll admit tilt muffin eye fork pond filter neck";

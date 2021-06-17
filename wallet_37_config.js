@@ -1,1 +1,1 @@
-var mnemonic = "front sibling guitar fantasy organ donor firm input shoe prefer vacant leaf";
+var mnemonic = "shiver search talk afford panel shaft curious aspect canyon thunder pill black";

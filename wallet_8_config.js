@@ -1,1 +1,1 @@
-var mnemonic = "float leg raw utility price divide weasel prefer release chuckle lyrics august";
+var mnemonic = "lawn heart world half term practice warrior dignity dice vessel acoustic hurt";

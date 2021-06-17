@@ -1,1 +1,1 @@
-var mnemonic = "brush rubber hand private paper control mistake ginger release latin chest garage";
+var mnemonic = "artefact tank genius void unveil subway child raw entire about riot credit";

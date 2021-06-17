@@ -1,1 +1,1 @@
-var mnemonic = "muscle more voice sleep false remember scan indicate breeze olive initial wood";
+var mnemonic = "tower hungry result cricket there syrup want foil canoe sunny notable guess";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen split mutual exercise amazing mass express safe steel venue all roast";
+var mnemonic = "front liquid tag leisure lake scale region wild board marble moment fold";

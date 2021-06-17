@@ -1,1 +1,1 @@
-var mnemonic = "betray fabric monster position cover moment water fatal toddler lake eagle furnace";
+var mnemonic = "wash pioneer unusual actor guilt rescue reunion vessel stand curtain inform tell";

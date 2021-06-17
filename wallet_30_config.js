@@ -1,1 +1,1 @@
-var mnemonic = "worth find century shrug dash enemy pony dose search fox punch task";
+var mnemonic = "speak pyramid regret horn spring twist carry accident bean steel wrist voyage";

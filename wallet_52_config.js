@@ -1,1 +1,1 @@
-var mnemonic = "cricket pulse buyer school alpha hospital relief apology feed rent vault parent";
+var mnemonic = "conduct page vintage path follow very forum local blanket tonight luxury penalty";

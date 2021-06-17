@@ -1,1 +1,1 @@
-var mnemonic = "raven during aisle emerge harsh biology easy access great cherry tone alley";
+var mnemonic = "belt lazy exotic panda squirrel modify fog bench unfair swamp artefact culture";

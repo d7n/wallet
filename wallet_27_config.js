@@ -1,1 +1,1 @@
-var mnemonic = "mention unable warrior execute hope camera hurt bullet ethics future bacon caught";
+var mnemonic = "aerobic amount brief define illegal stereo danger retreat shock athlete canoe prize";

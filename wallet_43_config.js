@@ -1,1 +1,1 @@
-var mnemonic = "frozen badge inquiry other circle thunder olympic today symbol drip alter legal";
+var mnemonic = "ready diagram coin one pottery moral myth own open sadness peasant catalog";

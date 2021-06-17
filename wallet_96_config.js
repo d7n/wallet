@@ -1,1 +1,1 @@
-var mnemonic = "enrich vacant bulb salute only cube buzz bike base together pumpkin wealth";
+var mnemonic = "wash room defense wisdom argue figure ticket champion sleep age danger web";

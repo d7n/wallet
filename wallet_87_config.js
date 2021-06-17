@@ -1,1 +1,1 @@
-var mnemonic = "much rail hurry toast grid option rice custom assume impact immune loan";
+var mnemonic = "outdoor uncle slogan avocado music plate start large window dinner thing little";

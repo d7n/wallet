@@ -1,1 +1,1 @@
-var mnemonic = "scorpion food pattern scan edge siren river trim tooth once kick offer";
+var mnemonic = "trust sea kick attend frequent capital time glance fruit diary zero melt";

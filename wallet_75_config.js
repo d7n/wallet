@@ -1,1 +1,1 @@
-var mnemonic = "ill snap own subject umbrella manual have wife inhale ship swap major";
+var mnemonic = "luggage rough wrestle cute maximum arena gauge hundred cancel echo once rate";

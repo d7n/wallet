@@ -1,1 +1,1 @@
-var mnemonic = "hint group marriage impose squirrel naive home used top wrestle woman limit";
+var mnemonic = "kick opinion grow teach agree team immune demand brand crush castle rural";

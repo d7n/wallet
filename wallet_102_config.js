@@ -1,1 +1,1 @@
-var mnemonic = "shed endorse taxi amount range rare claw initial twelve exercise target umbrella";
+var mnemonic = "blur drama snake book dice soul cotton bless split plate economy upgrade";

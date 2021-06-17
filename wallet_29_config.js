@@ -1,1 +1,1 @@
-var mnemonic = "author master vendor like can beauty give plastic upset receive velvet edit";
+var mnemonic = "pear inherit outer fat priority maze thought tray such coin across come";

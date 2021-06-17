@@ -1,1 +1,1 @@
-var mnemonic = "sort circle eternal chef want mouse tribe column vacant pumpkin cradle arrange";
+var mnemonic = "length cool fire wealth two train where modify erosion voyage leader jealous";

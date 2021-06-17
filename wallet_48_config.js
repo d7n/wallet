@@ -1,1 +1,1 @@
-var mnemonic = "history whip junk will few poet tail scissors travel grant survey rabbit";
+var mnemonic = "ecology chief talent begin inmate spoil flash congress entry clean loud myself";

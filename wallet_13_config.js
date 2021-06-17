@@ -1,1 +1,1 @@
-var mnemonic = "celery benefit pumpkin garlic jelly husband rack sort ozone cattle fee cart";
+var mnemonic = "misery tree kingdom select shy ensure response control nation unable switch donkey";

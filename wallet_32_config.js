@@ -1,1 +1,1 @@
-var mnemonic = "ability cliff student fabric victory lion van struggle holiday place sight egg";
+var mnemonic = "tip current live vital glance blue account sand crash alter same plate";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition toward alcohol pistol zero mesh stem tree jacket liquid slush radio";
+var mnemonic = "pupil victory spice popular offer brick divide glare asset distance night cable";

@@ -1,1 +1,1 @@
-var mnemonic = "project attack north inflict chef viable unfold recipe sail cable hotel guess";
+var mnemonic = "census soldier area congress label drink scatter vendor cover prize unlock exact";

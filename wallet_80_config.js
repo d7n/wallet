@@ -1,1 +1,1 @@
-var mnemonic = "badge bid toddler mesh travel pear blossom pool cloud lab quote comic";
+var mnemonic = "swim blanket ill reject stuff airport become pudding crisp impose tip disagree";

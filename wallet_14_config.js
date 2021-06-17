@@ -1,1 +1,1 @@
-var mnemonic = "good open core turtle reform dance disorder chat memory slender course general";
+var mnemonic = "manage slush jacket argue stomach champion liquid lake three wait mammal title";

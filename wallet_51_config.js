@@ -1,1 +1,1 @@
-var mnemonic = "visa treat limb game suffer shift flame birth cinnamon glory day okay";
+var mnemonic = "zone bronze major melt capable nominee path midnight piano water patch ritual";

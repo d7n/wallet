@@ -1,1 +1,1 @@
-var mnemonic = "able velvet salmon salon pattern kind surface dutch forget relief record artist";
+var mnemonic = "fruit room future hill pony story festival meadow suggest mad pumpkin measure";

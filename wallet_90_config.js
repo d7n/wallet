@@ -1,1 +1,1 @@
-var mnemonic = "now wage maximum spatial velvet coffee raven hungry raw angle exhibit series";
+var mnemonic = "begin violin tip hub humble admit waste crumble question earn slim monitor";

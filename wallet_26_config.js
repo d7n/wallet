@@ -1,1 +1,1 @@
-var mnemonic = "rate survey leg viable horn extra raw better book trigger will march";
+var mnemonic = "garbage shift young around cargo elevator sing joke bring permit raccoon liberty";

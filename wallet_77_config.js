@@ -1,1 +1,1 @@
-var mnemonic = "length carpet zero toilet utility avocado sleep arrive grief suggest another chuckle";
+var mnemonic = "duck stock vault tank trial obvious protect main detail question wagon height";

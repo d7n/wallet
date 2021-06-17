@@ -1,1 +1,1 @@
-var mnemonic = "mango wave dose dentist enact census defy bag swim degree excuse cram";
+var mnemonic = "sister cluster crater faith lizard bomb agree panda exotic hover pudding rough";

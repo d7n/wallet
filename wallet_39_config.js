@@ -1,1 +1,1 @@
-var mnemonic = "pond lock stage analyst check attack use pear occur tattoo art april";
+var mnemonic = "school motion injury sort labor stairs olympic solve awful orient frown client";

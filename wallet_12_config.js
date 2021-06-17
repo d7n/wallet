@@ -1,1 +1,1 @@
-var mnemonic = "lend female pony project summer rare attack mail thrive notable elevator dumb";
+var mnemonic = "museum fork shed cliff ginger apology echo dawn figure vital liquid regret";

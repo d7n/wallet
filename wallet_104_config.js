@@ -1,1 +1,1 @@
-var mnemonic = "arch gain primary enlist bottom silent magnet search surprise artwork gap lift";
+var mnemonic = "stereo maze area grow arrive jungle fabric chronic very begin ladder walnut";

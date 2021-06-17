@@ -1,1 +1,1 @@
-var mnemonic = "vehicle coach truly bean magnet unusual biology minute reunion ocean ask furnace";
+var mnemonic = "alert alarm exhaust curious kangaroo access organ lock year jazz enhance raccoon";

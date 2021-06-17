@@ -1,1 +1,1 @@
-var mnemonic = "coral mercy used close dog record gas prefer already hurt assault cargo";
+var mnemonic = "minimum pledge arrive wisdom hat loud sauce wheel enter unhappy black citizen";

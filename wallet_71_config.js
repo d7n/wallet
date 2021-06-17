@@ -1,1 +1,1 @@
-var mnemonic = "desk lottery buddy wealth festival muffin ill pretty foster awful cereal pond";
+var mnemonic = "south exercise patrol tennis lounge wonder ahead trophy erode deliver old vacuum";

@@ -1,1 +1,1 @@
-var mnemonic = "jar same scare tilt exercise salmon uphold fly away boy clay drive";
+var mnemonic = "fuel april acid ladder wreck sponsor sister view rely humble wreck pull";

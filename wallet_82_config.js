@@ -1,1 +1,1 @@
-var mnemonic = "stamp illegal busy expose ahead account evoke dolphin stock polar drill minor";
+var mnemonic = "warfare math wrap climb soldier evil stem train equal abandon riot summer";

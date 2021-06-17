@@ -1,1 +1,1 @@
-var mnemonic = "sport decline boost aunt diamond tomorrow arctic any busy rookie spoil chief";
+var mnemonic = "extend someone there combine account solid chat palm toss alert degree shallow";

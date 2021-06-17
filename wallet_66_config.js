@@ -1,1 +1,1 @@
-var mnemonic = "power win front become sure thumb lucky undo gauge echo biology mosquito";
+var mnemonic = "begin business chase clip donkey sunset slow card humor reject reopen income";

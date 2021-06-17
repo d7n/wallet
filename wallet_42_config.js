@@ -1,1 +1,1 @@
-var mnemonic = "window hub garden guide erosion text dolphin tuna donor tenant receive flight";
+var mnemonic = "other system index pull churn bachelor music vague private luxury opinion raccoon";

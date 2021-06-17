@@ -1,1 +1,1 @@
-var mnemonic = "warfare protect gate put fury top interest sketch able escape interest lounge";
+var mnemonic = "account airport tone shield outside food glare humor gasp original autumn fossil";

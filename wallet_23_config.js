@@ -1,1 +1,1 @@
-var mnemonic = "olive yard expand badge stand sniff surface consider enlist omit citizen force";
+var mnemonic = "provide baby judge rally rice rib weasel lens upset bind drive reduce";

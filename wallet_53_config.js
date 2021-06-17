@@ -1,1 +1,1 @@
-var mnemonic = "chunk portion amazing fade service canyon custom mango regret gesture ugly weather";
+var mnemonic = "expose picture job fork foam shed try glimpse tennis situate farm punch";

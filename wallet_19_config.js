@@ -1,1 +1,1 @@
-var mnemonic = "maze seat spoil employ diesel ozone satisfy echo can thumb region jar";
+var mnemonic = "machine ocean arena absent ripple ramp bag neutral near champion fame custom";

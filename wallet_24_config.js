@@ -1,1 +1,1 @@
-var mnemonic = "engine about kitchen pole letter month nasty company project blame hotel canal";
+var mnemonic = "hungry chat shoot matter mushroom vote pair void core movie limit three";

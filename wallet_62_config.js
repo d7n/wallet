@@ -1,1 +1,1 @@
-var mnemonic = "utility century garlic tennis sure since laundry dry town empty soft ranch";
+var mnemonic = "teach prize bike discover doll sing unlock wide inform stem kick usage";

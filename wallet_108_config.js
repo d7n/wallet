@@ -1,1 +1,1 @@
-var mnemonic = "kingdom day athlete oxygen rival tag net unveil iron wear lesson ensure";
+var mnemonic = "guard whisper track cement laugh theory enhance brief popular summer order tomorrow";

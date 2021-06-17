@@ -1,1 +1,1 @@
-var mnemonic = "weasel public special truly fee monitor bird finish copper all vapor blouse";
+var mnemonic = "slush cinnamon gauge disagree glimpse sample gate swamp glass spin genius smoke";

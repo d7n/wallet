@@ -1,1 +1,1 @@
-var mnemonic = "order lunar depart wagon city wrap during garbage burst cannon upper equal";
+var mnemonic = "stairs street approve output sibling theory alcohol opinion post range sponsor sting";

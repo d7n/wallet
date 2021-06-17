@@ -1,1 +1,1 @@
-var mnemonic = "gun quiz more embrace melt sauce object twin defy walnut desk element";
+var mnemonic = "collect usage endless prosper thank mule neutral very topic seed olympic scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt file call jaguar pass guide glimpse fantasy copper fee satoshi hip";
+var mnemonic = "tunnel tortoise spoon casual drip mutual milk deer soul bicycle ribbon benefit";

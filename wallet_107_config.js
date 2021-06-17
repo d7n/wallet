@@ -1,1 +1,1 @@
-var mnemonic = "cloud margin galaxy rebel once lift also merry fruit clown photo top";
+var mnemonic = "excite ability fatal evoke tomato author tomato move table mosquito jungle whip";

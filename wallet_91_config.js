@@ -1,1 +1,1 @@
-var mnemonic = "narrow biology rabbit actress squeeze alert illness clown whip present picture fan";
+var mnemonic = "turkey pride mobile girl clock company dawn morning address ability alien celery";

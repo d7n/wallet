@@ -1,1 +1,1 @@
-var mnemonic = "abuse steak animal wrap pole main dutch again scheme above security tattoo";
+var mnemonic = "uphold eight caution few genre enact fame hurt door help surface hammer";

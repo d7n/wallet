@@ -1,1 +1,1 @@
-var mnemonic = "ocean walk sentence feel runway else divide memory rib witness evoke grace";
+var mnemonic = "awake city dumb mention atom tenant mass video time paper reveal crisp";

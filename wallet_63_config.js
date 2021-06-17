@@ -1,1 +1,1 @@
-var mnemonic = "panther fiber egg woman inflict fetch reject inner edit flag memory month";
+var mnemonic = "monitor cable carpet trouble when route joy deputy double island right relax";

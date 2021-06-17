@@ -1,1 +1,1 @@
-var mnemonic = "brief work scan inherit tornado sheriff inhale shed exact circle town advice";
+var mnemonic = "cereal fluid charge tank strong wrap boring quality burst tired asthma planet";

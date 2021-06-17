@@ -1,1 +1,1 @@
-var mnemonic = "leopard swing enhance oil choose heart cloth immune immune dance else metal";
+var mnemonic = "gauge wheel sunny twelve maximum snake arrange host elder soup sponsor slab";

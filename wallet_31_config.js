@@ -1,1 +1,1 @@
-var mnemonic = "view enough occur laptop shift cruel claw deliver scatter soup consider cement";
+var mnemonic = "hub junk dice steak melt violin laugh online cloud fun wealth anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "ship staff title uniform nerve circle evil essay spot ribbon skill omit";
+var mnemonic = "rigid angle allow embody aware pond pyramid profit sing spare rather coil";

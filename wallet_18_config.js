@@ -1,1 +1,1 @@
-var mnemonic = "salmon skate prefer math tilt science category grief ritual very middle salt";
+var mnemonic = "grow sadness tray bunker gloom clown diet unveil element hawk hurdle charge";

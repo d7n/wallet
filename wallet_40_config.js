@@ -1,1 +1,1 @@
-var mnemonic = "special spot swift oblige exchange fatal vital buffalo feature voice educate wreck";
+var mnemonic = "raise turn animal sport narrow vivid pass year stereo dilemma avoid cruel";

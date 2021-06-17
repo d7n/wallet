@@ -1,1 +1,1 @@
-var mnemonic = "surge balance thunder safe race stick frozen leopard can fancy unlock merit";
+var mnemonic = "speed organ page brief ball man easily master famous issue usage cause";

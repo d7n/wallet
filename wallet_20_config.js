@@ -1,1 +1,1 @@
-var mnemonic = "bring believe sunset humble wild ancient suspect search fury sleep smile task";
+var mnemonic = "payment own penalty proof answer celery grow bunker female hedgehog night own";

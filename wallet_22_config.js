@@ -1,1 +1,1 @@
-var mnemonic = "exercise festival student cruel club always pepper velvet acquire van negative dolphin";
+var mnemonic = "shallow spirit arrange vital grocery eagle hello forget jaguar normal this kitchen";

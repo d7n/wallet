@@ -1,1 +1,1 @@
-var mnemonic = "review outer rigid where year moral tragic stool door solid loyal sure";
+var mnemonic = "must develop festival candy tell clean clean half crumble leg wreck upset";
