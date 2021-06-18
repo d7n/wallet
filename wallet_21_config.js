@@ -1,1 +1,1 @@
-var mnemonic = "siren return life soul toss prepare require fiction tube real tool banana";
+var mnemonic = "truth home rocket riot slogan foster relief deal spoil stick stable budget";

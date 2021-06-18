@@ -1,1 +1,1 @@
-var mnemonic = "coin friend shell hurry spell hollow pencil edit rent gauge special arrest";
+var mnemonic = "tomorrow bid sight spawn elder original illness ozone club note when winner";

@@ -1,1 +1,1 @@
-var mnemonic = "capital point prevent dizzy shove crouch warfare door clump fox valid mobile";
+var mnemonic = "tomato wire annual rebel tell galaxy call poet elegant smoke bottom hen";

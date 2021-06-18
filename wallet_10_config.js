@@ -1,1 +1,1 @@
-var mnemonic = "oak opinion bicycle example tuna about choose firm keen step claim siren";
+var mnemonic = "sorry situate february risk gap blush surface muffin obvious tired one buffalo";

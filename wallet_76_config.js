@@ -1,1 +1,1 @@
-var mnemonic = "enforce path evolve interest lazy target toss crucial dumb sea school treat";
+var mnemonic = "siren adapt pattern hurry curve online snake cabin wide gospel edit question";

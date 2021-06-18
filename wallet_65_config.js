@@ -1,1 +1,1 @@
-var mnemonic = "army test victory fiscal clay code myth doll stairs excite connect nominee";
+var mnemonic = "accuse knife never dinosaur second surface stool twenty decline diagram achieve enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "ice web toddler bundle work acid produce doctor avoid unaware dentist desk";
+var mnemonic = "hidden legal green deny wrist repair smile still lonely fold gentle normal";

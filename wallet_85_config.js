@@ -1,1 +1,1 @@
-var mnemonic = "differ chest grit leave night palace notable celery turtle again cricket fiber";
+var mnemonic = "rural grass urban tilt olympic couch north rack divert deny box taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "junior much trim trophy attitude cupboard page faith tuna embrace other net";
+var mnemonic = "foam betray kidney quit damp jump involve punch effort attack south faith";

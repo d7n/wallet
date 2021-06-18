@@ -1,1 +1,1 @@
-var mnemonic = "assault witness tape task cattle blossom axis curtain kidney early warrior century";
+var mnemonic = "nothing base giant today device artist tribe desert travel garage kick simple";

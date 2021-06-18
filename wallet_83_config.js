@@ -1,1 +1,1 @@
-var mnemonic = "come recall accident bracket rough wedding erode misery soup echo rent aspect";
+var mnemonic = "turtle above aisle system resource route ahead grow stone fever screen beach";

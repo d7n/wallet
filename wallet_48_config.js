@@ -1,1 +1,1 @@
-var mnemonic = "plate moment proud daughter scene start urban dust charge gold acoustic about";
+var mnemonic = "travel wrestle shock soap such kick soup fit cave field later advice";

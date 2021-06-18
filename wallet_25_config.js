@@ -1,1 +1,1 @@
-var mnemonic = "refuse quarter address parade cotton pioneer october opinion display shop cost stomach";
+var mnemonic = "alone mango sword letter repeat nuclear fade pitch fun stomach negative list";

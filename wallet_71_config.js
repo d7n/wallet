@@ -1,1 +1,1 @@
-var mnemonic = "match price alone recipe trade enroll dinosaur kick demise chase bargain base";
+var mnemonic = "minute pupil poet cream embody model fit helmet track north keen improve";

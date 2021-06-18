@@ -1,1 +1,1 @@
-var mnemonic = "nuclear chief float way fog retire cruise fancy inner tornado black manual";
+var mnemonic = "tide journey exchange attack midnight veteran fatal marriage radar knife whisper top";

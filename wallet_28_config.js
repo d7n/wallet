@@ -1,1 +1,1 @@
-var mnemonic = "jungle similar similar shuffle razor dizzy emotion moral wide head abuse custom";
+var mnemonic = "dash year lyrics whale slam design digital very strong false laundry wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "culture index enrich balcony solution congress deer engage fever bright unlock razor";
+var mnemonic = "bitter best happy illness churn rival saddle echo index alpha camp donkey";

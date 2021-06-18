@@ -1,1 +1,1 @@
-var mnemonic = "elegant comic bird claw sudden tray season crew elephant plunge spice garbage";
+var mnemonic = "term degree kidney cheese tissue weasel noise spy stadium shield fortune know";

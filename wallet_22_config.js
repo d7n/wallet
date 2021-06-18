@@ -1,1 +1,1 @@
-var mnemonic = "agent wonder resource room accident juice where slush inmate eight tortoise ridge";
+var mnemonic = "sight village depth recycle before solution interest infant survey resist step life";

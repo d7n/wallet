@@ -1,1 +1,1 @@
-var mnemonic = "goat champion invite pear enroll kick beef multiply powder alpha guitar bronze";
+var mnemonic = "ride hard dune slide master potato cloud evoke wagon absurd coconut gun";

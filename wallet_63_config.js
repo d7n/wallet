@@ -1,1 +1,1 @@
-var mnemonic = "damage toward rifle silly month romance quote segment guess soft this umbrella";
+var mnemonic = "twice debate blood answer stamp license note acquire clever march hint royal";

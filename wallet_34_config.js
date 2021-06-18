@@ -1,1 +1,1 @@
-var mnemonic = "stand liberty own carpet mesh flower few wild water edit spray toe";
+var mnemonic = "mosquito borrow regular main trigger catch either float main dolphin panel elegant";

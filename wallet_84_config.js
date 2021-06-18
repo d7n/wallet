@@ -1,1 +1,1 @@
-var mnemonic = "actual merry pulse educate moral apology culture laugh afford resist answer tilt";
+var mnemonic = "state ill goat trip define wisdom list erode lottery oppose reflect spawn";

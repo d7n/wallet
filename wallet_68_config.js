@@ -1,1 +1,1 @@
-var mnemonic = "wet injury usage crash common dismiss machine crack wrist fortune sibling slush";
+var mnemonic = "point spray gym wool defy wedding energy scatter material green south unfold";

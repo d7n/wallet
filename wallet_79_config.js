@@ -1,1 +1,1 @@
-var mnemonic = "lens soup alert tonight video modify width cloud series universe uphold police";
+var mnemonic = "car aisle misery busy matter print enhance trim real canyon domain planet";

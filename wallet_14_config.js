@@ -1,1 +1,1 @@
-var mnemonic = "about one oval poet immune engage exclude whale tent sail pattern image";
+var mnemonic = "account inner knock pretty demise hood social mule betray unlock era faint";

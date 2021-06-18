@@ -1,1 +1,1 @@
-var mnemonic = "awesome awkward proud practice panda resource version life poverty heavy effort park";
+var mnemonic = "color real morning private great journey silk border lobster method perfect scorpion";

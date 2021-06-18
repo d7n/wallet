@@ -1,1 +1,1 @@
-var mnemonic = "practice tourist prefer shell chalk purpose dragon bring attitude sorry rocket host";
+var mnemonic = "brick heavy uncover fall popular connect include medal coconut anxiety town harsh";

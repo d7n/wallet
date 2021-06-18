@@ -1,1 +1,1 @@
-var mnemonic = "woman below caution noise defense broccoli welcome curious phone proof trigger distance";
+var mnemonic = "flower cannon decide bring sleep fiscal cluster story forward derive unit cube";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose kiwi switch abstract survey verify multiply practice glide chapter trip around";
+var mnemonic = "infant certain absurd scorpion echo lake club sorry abandon alone subject coconut";

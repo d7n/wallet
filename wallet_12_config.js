@@ -1,1 +1,1 @@
-var mnemonic = "bunker doll vapor void couple deposit fuel box kid accuse worry priority";
+var mnemonic = "trouble teach future grace surge story artwork pattern remain marriage draw exist";

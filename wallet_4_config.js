@@ -1,1 +1,1 @@
-var mnemonic = "cook build enemy among night exhibit return page globe dust favorite wisdom";
+var mnemonic = "punch vacant stone first brother wear staff enlist clump flat upset coffee";

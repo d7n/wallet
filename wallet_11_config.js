@@ -1,1 +1,1 @@
-var mnemonic = "demand family gauge angry job crawl ranch series renew lucky large control";
+var mnemonic = "office trumpet private input remove flight gallery nasty domain vanish spoon fetch";

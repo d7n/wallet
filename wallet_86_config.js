@@ -1,1 +1,1 @@
-var mnemonic = "heart spoon liar pass glare whisper kick ridge bacon auction calm hip";
+var mnemonic = "now craft energy clever deer anchor bomb symbol duty veteran quality oak";

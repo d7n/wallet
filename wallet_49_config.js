@@ -1,1 +1,1 @@
-var mnemonic = "paper organ source earn rib recall endorse business staff enter forget liberty";
+var mnemonic = "husband vital skin field forget lonely voyage budget defense grunt baby shield";

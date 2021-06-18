@@ -1,1 +1,1 @@
-var mnemonic = "exile basic equip situate save thrive like pupil address garment canvas spice";
+var mnemonic = "put close mango require crack battle bench scheme fire chat turtle wall";

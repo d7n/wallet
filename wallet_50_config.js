@@ -1,1 +1,1 @@
-var mnemonic = "noise sudden aerobic hard liberty mask wire copper fury cave hen curious";
+var mnemonic = "brief elbow royal furnace half hundred annual wing buyer dash canoe ghost";

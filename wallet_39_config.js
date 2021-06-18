@@ -1,1 +1,1 @@
-var mnemonic = "merit angry joke symbol half butter power absurd field useless sustain blouse";
+var mnemonic = "rifle bundle limb hire velvet chronic tent valve dignity friend ghost deny";

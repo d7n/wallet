@@ -1,1 +1,1 @@
-var mnemonic = "special clay arm conduct rib shift festival meadow history awake ripple bright";
+var mnemonic = "danger settle project balance expire hour time wish bamboo correct flight knock";

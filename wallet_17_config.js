@@ -1,1 +1,1 @@
-var mnemonic = "orient boat escape captain shell ecology margin steak wheel void cage undo";
+var mnemonic = "flip nut wash athlete fresh attack clean legend emerge runway total wage";

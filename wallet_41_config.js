@@ -1,1 +1,1 @@
-var mnemonic = "illegal twelve amused share close inch motion arch accident enough trumpet wheat";
+var mnemonic = "fish either entire laundry smooth seven lawsuit distance toss reject choose sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "useful decorate catalog escape entire glue despair tree turn february birth hurry";
+var mnemonic = "century accident hover day wood fruit belt match coral rough car brother";

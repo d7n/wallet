@@ -1,1 +1,1 @@
-var mnemonic = "luxury veteran bomb grace dutch fault long clock surge scheme bacon spring";
+var mnemonic = "sell large secret repair rule into swamp broken erode term situate coast";

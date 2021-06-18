@@ -1,1 +1,1 @@
-var mnemonic = "stage metal gather warfare follow peace trash crime salad aerobic team current";
+var mnemonic = "begin quantum mass dress erase guilt bike glow term dirt output race";

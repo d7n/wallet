@@ -1,1 +1,1 @@
-var mnemonic = "wild illness produce talk young brave sure guitar pink logic depart orbit";
+var mnemonic = "web cluster struggle ladder fold journey weird autumn country copper hard jump";

@@ -1,1 +1,1 @@
-var mnemonic = "upset that save keep style wave garage envelope acoustic practice actual frog";
+var mnemonic = "practice roast paper body special force chicken pitch notice stereo cable make";

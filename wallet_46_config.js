@@ -1,1 +1,1 @@
-var mnemonic = "outer arrive absorb pen castle rose fox empower amazing night wolf bike";
+var mnemonic = "pitch three cash obvious glare mind extra frown stick diagram around current";

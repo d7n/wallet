@@ -1,1 +1,1 @@
-var mnemonic = "degree choice truth sand broccoli junior time organ oval feature diamond cable";
+var mnemonic = "next trial copy bridge vast civil divide mushroom empower end health scene";

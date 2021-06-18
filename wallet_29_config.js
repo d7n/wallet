@@ -1,1 +1,1 @@
-var mnemonic = "grain evolve neglect modify hire favorite skull pulse wrong social bike receive";
+var mnemonic = "large crime frequent silly lemon stone imitate like truly oppose female chef";

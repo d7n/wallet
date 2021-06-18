@@ -1,1 +1,1 @@
-var mnemonic = "sing slot obey impulse struggle defy feed wire race slow fat end";
+var mnemonic = "letter process much catalog universe attract feed spoon plastic cruise wash earth";

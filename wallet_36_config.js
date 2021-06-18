@@ -1,1 +1,1 @@
-var mnemonic = "write cash enroll citizen acquire hold pull garlic pipe urban goddess often";
+var mnemonic = "park stool royal fatal love blouse oxygen filter almost album erupt pole";

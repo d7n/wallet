@@ -1,1 +1,1 @@
-var mnemonic = "donor mountain lake sample impulse blast angle milk recall idea cloth marble";
+var mnemonic = "mixed diagram crisp dice riot faith need royal usage exit thrive lizard";

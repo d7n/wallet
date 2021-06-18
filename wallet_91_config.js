@@ -1,1 +1,1 @@
-var mnemonic = "humor taxi neck woman feed horse dose voice sustain hero angry armed";
+var mnemonic = "canvas often park wagon lemon live exotic walk calm month bus benefit";

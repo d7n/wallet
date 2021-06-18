@@ -1,1 +1,1 @@
-var mnemonic = "brother method stove play win donkey crane clever maple work tiny winner";
+var mnemonic = "issue march math side lesson core beauty tag luggage estate custom mimic";

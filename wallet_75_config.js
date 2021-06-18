@@ -1,1 +1,1 @@
-var mnemonic = "immense rug fiscal tourist divert pool steak prison almost pioneer tissue answer";
+var mnemonic = "pair burger moral hero gain satoshi dove spare scan select hour left";

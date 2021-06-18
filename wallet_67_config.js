@@ -1,1 +1,1 @@
-var mnemonic = "bench jungle earn between lemon cause possible tuna prepare gallery organ chapter";
+var mnemonic = "antenna scatter laundry region benefit type cancel enemy best gift crime route";

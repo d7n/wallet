@@ -1,1 +1,1 @@
-var mnemonic = "sock message token garment style glad what calm naive resemble tumble sight";
+var mnemonic = "sad square switch hybrid joy cousin throw spike equal net episode shrimp";

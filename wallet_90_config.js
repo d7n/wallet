@@ -1,1 +1,1 @@
-var mnemonic = "cube brick minor stumble cry satoshi enough fork monster fatigue chat omit";
+var mnemonic = "tribe boil sure swift planet enter reject ugly keep syrup aim language";

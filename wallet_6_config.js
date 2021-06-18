@@ -1,1 +1,1 @@
-var mnemonic = "model gadget spring method prize salt pepper glimpse strike hedgehog lamp castle";
+var mnemonic = "pave spring wave vessel tape dish route shield fiscal price search pretty";

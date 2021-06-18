@@ -1,1 +1,1 @@
-var mnemonic = "tunnel feature west wrong into bracket valve giraffe learn kick follow help";
+var mnemonic = "wedding cave end pioneer toward genre alpha ball galaxy swear fade liquid";

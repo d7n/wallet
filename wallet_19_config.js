@@ -1,1 +1,1 @@
-var mnemonic = "snow genuine room cheap hazard harbor raw popular stand learn work gospel";
+var mnemonic = "pond sugar beef pipe marriage walnut label large cute exotic sketch always";

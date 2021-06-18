@@ -1,1 +1,1 @@
-var mnemonic = "salon viable fun mercy ghost custom around tilt pride strategy brother detect";
+var mnemonic = "output small slam harbor time gym permit pattern clown cigar public follow";

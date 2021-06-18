@@ -1,1 +1,1 @@
-var mnemonic = "muscle canal wash fossil shield caught eyebrow pipe peace shed giraffe convince";
+var mnemonic = "noodle govern ball brave fatigue moral carpet wine visual mosquito diary shy";

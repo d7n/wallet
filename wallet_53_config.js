@@ -1,1 +1,1 @@
-var mnemonic = "clump enough liar noise leisure coyote thrive print charge arena scorpion thought";
+var mnemonic = "super busy cliff pluck energy pass can rare coast sick hub material";

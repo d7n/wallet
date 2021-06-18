@@ -1,1 +1,1 @@
-var mnemonic = "lizard scatter cigar thing speed travel vivid cinnamon aunt surround margin enact";
+var mnemonic = "nature logic dawn blame donkey action wish require thing ensure spike acid";

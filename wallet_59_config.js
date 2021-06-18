@@ -1,1 +1,1 @@
-var mnemonic = "way tuition also arrive bench leg idea bright midnight fine oyster circle";
+var mnemonic = "cushion sauce wing slush valley shop pig surround elevator twist age riot";

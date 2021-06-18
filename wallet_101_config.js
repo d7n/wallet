@@ -1,1 +1,1 @@
-var mnemonic = "brick help genuine shadow midnight eyebrow garment close cement visit ginger treat";
+var mnemonic = "choose planet owner congress nephew agree ritual width autumn swallow super earth";

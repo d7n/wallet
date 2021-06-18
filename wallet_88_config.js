@@ -1,1 +1,1 @@
-var mnemonic = "again ten expect reduce fold decide dog hand word spray buyer busy";
+var mnemonic = "cheese spell trouble dawn bike match shield design jealous outdoor fatigue urge";

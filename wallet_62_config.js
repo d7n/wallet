@@ -1,1 +1,1 @@
-var mnemonic = "company car news suffer grief hedgehog sword upon firm major town body";
+var mnemonic = "barrel mother excuse army timber fault atom swallow film memory tell analyst";

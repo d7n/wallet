@@ -1,1 +1,1 @@
-var mnemonic = "suit enforce appear wait sing kick exact coyote plate weasel oval bring";
+var mnemonic = "trophy lizard material decade suggest trap wash noise hedgehog wrap idle fall";

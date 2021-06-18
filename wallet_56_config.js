@@ -1,1 +1,1 @@
-var mnemonic = "this hawk trip frost cycle junk equip only index crumble mixed giraffe";
+var mnemonic = "cannon milk unfold sense actual change wheel aspect smart home pigeon fold";

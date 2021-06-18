@@ -1,1 +1,1 @@
-var mnemonic = "seek essay erase alarm evil verb drip nephew act stand disorder two";
+var mnemonic = "calm enable either share shoe when index off disagree vault news filter";

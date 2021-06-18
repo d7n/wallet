@@ -1,1 +1,1 @@
-var mnemonic = "brown upon miracle quantum road hamster nephew cause unhappy ocean way affair";
+var mnemonic = "promote swing atom engage garbage practice garage three order bone pet upper";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist business shine zone announce bleak erase uniform egg leader pride room";
+var mnemonic = "sense about liar sausage shaft solar attract fan kitchen sudden village setup";

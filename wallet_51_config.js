@@ -1,1 +1,1 @@
-var mnemonic = "kick nephew arrive rain ring enough inquiry lawsuit buddy keep theme peace";
+var mnemonic = "wine purchase wish captain blast unfair double help asthma frequent peasant erase";

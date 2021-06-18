@@ -1,1 +1,1 @@
-var mnemonic = "napkin hurt normal chef hope firm announce member thumb adult assume toy";
+var mnemonic = "regret shadow wrong south obey pig observe title wing giraffe duty hundred";

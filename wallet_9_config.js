@@ -1,1 +1,1 @@
-var mnemonic = "cabbage witness laptop script clever universe garden grant oil bounce vocal buzz";
+var mnemonic = "guilt neglect board mixture silent other avoid earth clutch swallow crop mom";

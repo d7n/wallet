@@ -1,1 +1,1 @@
-var mnemonic = "early aisle vital alert slush walnut electric physical police choice slow believe";
+var mnemonic = "general cube arm hundred actual thrive one security flower kiwi minimum steak";

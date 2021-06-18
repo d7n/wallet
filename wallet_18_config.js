@@ -1,1 +1,1 @@
-var mnemonic = "anxiety victory twelve know vanish ride foil sting inhale total artefact know";
+var mnemonic = "brass park just host oven youth time august baby host casual peasant";

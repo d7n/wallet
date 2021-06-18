@@ -1,1 +1,1 @@
-var mnemonic = "pill profit suspect gravity suggest two income series moral web lonely glove";
+var mnemonic = "enroll rib know ship suit tower fish off auto below debate trend";

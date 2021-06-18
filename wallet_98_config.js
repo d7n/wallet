@@ -1,1 +1,1 @@
-var mnemonic = "coast then excite clog enough screen wear end bulk industry monkey pool";
+var mnemonic = "repeat huge vintage invest this tag fork danger trap session topple oxygen";

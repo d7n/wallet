@@ -1,1 +1,1 @@
-var mnemonic = "pause treat impact mad action bread thank squirrel album merry water beauty";
+var mnemonic = "funny best myself monitor frequent carpet volume category toast fork retreat reduce";

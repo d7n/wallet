@@ -1,1 +1,1 @@
-var mnemonic = "umbrella lock brown ask hotel question lawn explain bleak recall tail grocery";
+var mnemonic = "cloud chunk fitness other fog blush shop demise journey enough curious vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "common hamster saddle drastic cruise feel antique curious pluck few length income";
+var mnemonic = "civil claw pioneer six vendor umbrella kite lizard joke pitch naive round";

@@ -1,1 +1,1 @@
-var mnemonic = "report family trick weird smoke castle decline coyote shaft shaft exist blind";
+var mnemonic = "shed guitar virus business boil slush bulk document mammal rate error wear";

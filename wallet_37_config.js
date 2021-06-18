@@ -1,1 +1,1 @@
-var mnemonic = "swamp okay oxygen frame salon chief shield swing timber tiger slight huge";
+var mnemonic = "cart rapid horse filter diet twin critic window adult betray brother future";

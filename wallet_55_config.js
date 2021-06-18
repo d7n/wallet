@@ -1,1 +1,1 @@
-var mnemonic = "prepare retire title alone gorilla guide science bus excess thrive prepare unhappy";
+var mnemonic = "maple divert domain web summer myself execute vault lottery search shrimp swap";

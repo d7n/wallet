@@ -1,1 +1,1 @@
-var mnemonic = "impact ensure brush wool soul body nose upset infant essay tonight burst";
+var mnemonic = "fatigue pull weather figure edge reduce wood heavy summer tourist nothing alert";

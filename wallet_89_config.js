@@ -1,1 +1,1 @@
-var mnemonic = "travel potato unable radar mobile crystal clap minimum cable engage gorilla rescue";
+var mnemonic = "mushroom scrub rare road matrix lens topple peanut must flame soap notice";

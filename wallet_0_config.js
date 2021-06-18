@@ -1,1 +1,1 @@
-var mnemonic = "buzz primary manage sleep when ancient clean build dry copy detail pretty";
+var mnemonic = "dream effort grow solution enlist multiply right dolphin one similar nest season";

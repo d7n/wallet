@@ -1,1 +1,1 @@
-var mnemonic = "girl right february lab cargo round sick robust proof slogan couch park";
+var mnemonic = "unusual unit screen honey kite exist odor genius library border high hat";

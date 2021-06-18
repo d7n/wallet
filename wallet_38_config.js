@@ -1,1 +1,1 @@
-var mnemonic = "apart distance aspect trumpet ability soon link century ship sail huge fury";
+var mnemonic = "faculty room planet echo extend junk bottom grant purchase zebra success trap";
