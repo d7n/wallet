@@ -1,1 +1,1 @@
-var mnemonic = "song cannon weather mystery favorite coast flock wheat easily cheap course flame";
+var mnemonic = "shop seek pottery forest style furnace gospel guess rose jaguar push crash";

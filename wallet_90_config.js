@@ -1,1 +1,1 @@
-var mnemonic = "canvas love cause glass leader twice stock enforce power gadget absent mushroom";
+var mnemonic = "live region cup badge woman damage security outdoor diesel undo record young";

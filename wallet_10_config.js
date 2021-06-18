@@ -1,1 +1,1 @@
-var mnemonic = "describe measure citizen blur spin lunar napkin ice cake orange join sustain";
+var mnemonic = "few member wall dolphin run laugh arrow master crater talk exclude spike";

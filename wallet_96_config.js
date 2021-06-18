@@ -1,1 +1,1 @@
-var mnemonic = "anxiety steel october repeat exist rapid syrup twist visit slot answer midnight";
+var mnemonic = "typical nothing reflect advance ecology report acid misery egg shed auction assault";

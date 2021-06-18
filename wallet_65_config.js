@@ -1,1 +1,1 @@
-var mnemonic = "protect tennis security spin trade clip soft guard cricket nuclear fade east";
+var mnemonic = "useful diary crowd index doll camera enjoy busy worry false fever mountain";

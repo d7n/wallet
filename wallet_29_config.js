@@ -1,1 +1,1 @@
-var mnemonic = "plate will intact dash capable suspect protect tilt task barrel destroy dilemma";
+var mnemonic = "glare act address panic dinosaur inch split oyster possible soccer orchard brother";

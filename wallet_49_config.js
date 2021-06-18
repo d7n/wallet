@@ -1,1 +1,1 @@
-var mnemonic = "mask better blind exact thrive bronze rifle broken poverty shadow clock prison";
+var mnemonic = "post loyal pulp test borrow real exit narrow put fix control guard";

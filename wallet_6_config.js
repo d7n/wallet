@@ -1,1 +1,1 @@
-var mnemonic = "guitar inform miracle island poet seminar argue board way sign siren economy";
+var mnemonic = "derive elder math conduct allow wheel eagle section return radio pottery submit";

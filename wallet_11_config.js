@@ -1,1 +1,1 @@
-var mnemonic = "angle wild service effort replace payment cup gate name zone giggle truth";
+var mnemonic = "chuckle whale example other custom whip wreck core brass organ hood strong";

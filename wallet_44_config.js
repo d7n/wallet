@@ -1,1 +1,1 @@
-var mnemonic = "damage target unusual twelve include concert quantum cat wide wisdom vacant firm";
+var mnemonic = "hungry harvest jewel fetch bird mansion myth burst unfold nurse actor detail";

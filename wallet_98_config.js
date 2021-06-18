@@ -1,1 +1,1 @@
-var mnemonic = "car render media file alone winner shield insane charge trumpet business extra";
+var mnemonic = "stage bean holiday symbol guilt vehicle arm young shiver pair matter brick";

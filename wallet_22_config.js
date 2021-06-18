@@ -1,1 +1,1 @@
-var mnemonic = "coral forward chief brief surge pair negative aunt one dismiss fame advance";
+var mnemonic = "fashion ask disagree air machine skirt phrase inflict soon swarm giggle reopen";

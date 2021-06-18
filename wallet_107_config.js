@@ -1,1 +1,1 @@
-var mnemonic = "snake shoot crazy liar thunder erosion plug height salute trash august canal";
+var mnemonic = "okay lock shine depth latin scare gesture media awful elder process shock";

@@ -1,1 +1,1 @@
-var mnemonic = "family hint sad scorpion resource skull apology box regret glow bounce media";
+var mnemonic = "husband fashion since cream nerve behind fitness pony grunt card crush slender";

@@ -1,1 +1,1 @@
-var mnemonic = "alien paddle grunt inflict valve arrow hospital dolphin seven frequent hotel extend";
+var mnemonic = "front garage type mention panther original wine toilet silk pact husband luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry buyer enable network live view daring tomorrow cannon industry tent coconut";
+var mnemonic = "office item busy festival brick when fashion element plug process dolphin file";

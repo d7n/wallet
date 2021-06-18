@@ -1,1 +1,1 @@
-var mnemonic = "fossil box flat between strike appear total spot salt traffic glory response";
+var mnemonic = "pig thumb answer immune sauce define prison grunt narrow super apple summer";

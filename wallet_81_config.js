@@ -1,1 +1,1 @@
-var mnemonic = "height apple endless fiscal shine wink brave park float raven unable priority";
+var mnemonic = "welcome element basic whale absurd engage unable mask impact unaware easy brand";

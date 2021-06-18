@@ -1,1 +1,1 @@
-var mnemonic = "fabric vicious tooth spawn type wing way pool collect shift cruel exile";
+var mnemonic = "quality fragile lecture prevent slot pool solar duty six blur lumber manage";

@@ -1,1 +1,1 @@
-var mnemonic = "car balance jealous shop ghost anchor relief morning lonely brick grunt impose";
+var mnemonic = "bone near vibrant talent person lesson pet industry spring morning dinosaur link";

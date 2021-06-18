@@ -1,1 +1,1 @@
-var mnemonic = "abuse interest sunny trigger property laptop hen pen diagram raven middle intact";
+var mnemonic = "error island tell bid bunker forget motion seek crouch dream shove small";

@@ -1,1 +1,1 @@
-var mnemonic = "material key lecture forum gas carry equal fault relief square grow fan";
+var mnemonic = "glory inspire police brisk penalty wall dish juice hospital ketchup craft gaze";

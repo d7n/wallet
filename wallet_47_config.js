@@ -1,1 +1,1 @@
-var mnemonic = "sugar slush popular pattern immune twice robot mammal nerve noble scissors chunk";
+var mnemonic = "giggle wait tonight reveal chest know fiction grant that busy mouse oppose";

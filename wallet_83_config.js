@@ -1,1 +1,1 @@
-var mnemonic = "jewel stamp elephant proof swarm auto record throw when emerge monster assault";
+var mnemonic = "north shrug battle renew mixture milk divert tuition pave dizzy tribe vehicle";

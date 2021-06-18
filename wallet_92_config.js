@@ -1,1 +1,1 @@
-var mnemonic = "orchard habit vague loop globe property inhale assault butter found plug tuna";
+var mnemonic = "squeeze dad physical daughter album dizzy fruit betray answer before domain retire";

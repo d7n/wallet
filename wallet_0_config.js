@@ -1,1 +1,1 @@
-var mnemonic = "grass amateur traffic eyebrow south spider rotate toddler fortune load story acoustic";
+var mnemonic = "estate combine divert valid hole steak clump thank level slice clay mammal";

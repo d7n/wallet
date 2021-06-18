@@ -1,1 +1,1 @@
-var mnemonic = "bottom twist diet oxygen neither frost talent custom media scale century learn";
+var mnemonic = "volcano furnace drill kitten sand health need morning woman maid unique blossom";

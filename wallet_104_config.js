@@ -1,1 +1,1 @@
-var mnemonic = "still blade replace ostrich resource number bitter gospel negative occur decade select";
+var mnemonic = "later swallow float book tilt talent ketchup error duty heart aware burger";

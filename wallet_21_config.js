@@ -1,1 +1,1 @@
-var mnemonic = "win current practice bike file clog popular upgrade peanut drive despair proud";
+var mnemonic = "duty lunar void device domain fossil wasp stumble uncle clinic crunch stove";

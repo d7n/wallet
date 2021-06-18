@@ -1,1 +1,1 @@
-var mnemonic = "cash crouch token just episode green raw direct tortoise blood affair twin";
+var mnemonic = "mule hello harvest icon shift couch armor relief crawl used insect club";

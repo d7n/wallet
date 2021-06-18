@@ -1,1 +1,1 @@
-var mnemonic = "goddess ankle clarify book three ritual transfer thing cave series frost common";
+var mnemonic = "hero royal pigeon other melody hurt script paddle until impact rack bamboo";

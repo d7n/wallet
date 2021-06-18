@@ -1,1 +1,1 @@
-var mnemonic = "bleak rely comfort culture gun smart friend twelve close dawn jump main";
+var mnemonic = "simple plug like misery sister later piece dust antenna summer caution switch";

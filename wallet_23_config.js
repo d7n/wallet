@@ -1,1 +1,1 @@
-var mnemonic = "purchase combine debris clip huge voice smart chaos medal hawk client grain";
+var mnemonic = "denial ship trick keen athlete brick lens whale useful board oven false";

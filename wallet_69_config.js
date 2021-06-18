@@ -1,1 +1,1 @@
-var mnemonic = "video join damp sweet lemon sample innocent cigar shuffle oxygen expand evil";
+var mnemonic = "student blind original minimum jazz suit adapt swear hotel column near salute";

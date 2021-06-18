@@ -1,1 +1,1 @@
-var mnemonic = "thank trade possible duty true unique gauge want gauge artefact question learn";
+var mnemonic = "heavy maid dress whisper coil parent train barely truly tooth oil recipe";

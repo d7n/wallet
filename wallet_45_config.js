@@ -1,1 +1,1 @@
-var mnemonic = "inherit stable room soap twice priority friend car pull divide device panther";
+var mnemonic = "job segment comfort start lobster combine hover useless access canal monitor spring";

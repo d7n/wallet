@@ -1,1 +1,1 @@
-var mnemonic = "share aware loud kid true slim pen lounge pelican dutch jeans army";
+var mnemonic = "when trade avoid mistake legal village brand wage mushroom robust common soccer";

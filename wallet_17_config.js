@@ -1,1 +1,1 @@
-var mnemonic = "sense tackle example diamond pave silly wife market tragic eager find rug";
+var mnemonic = "excuse acid devote million appear inside valve ill tide toward hospital enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "joke topple tragic body shed duck lumber lecture menu lamp feature rhythm";
+var mnemonic = "entire inmate walnut plunge eye fame liberty video cable such reunion anxiety";

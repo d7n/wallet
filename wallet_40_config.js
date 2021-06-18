@@ -1,1 +1,1 @@
-var mnemonic = "kitchen enable approve cup twelve tragic grain milk online photo hawk kidney";
+var mnemonic = "error grape song senior machine cake clog game conduct tomato proud lazy";

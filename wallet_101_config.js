@@ -1,1 +1,1 @@
-var mnemonic = "polar burger chase theme smooth small achieve cereal shed nominee column useful";
+var mnemonic = "next sentence picnic snack crunch about phrase joy engine replace eyebrow liberty";

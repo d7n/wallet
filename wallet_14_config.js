@@ -1,1 +1,1 @@
-var mnemonic = "abstract kind gym sun mutual vessel extend alpha cricket entire kiwi bounce";
+var mnemonic = "burst effort village range example burst just cargo leave solution mechanic organ";

@@ -1,1 +1,1 @@
-var mnemonic = "require illness cloud lyrics furnace replace skirt lottery picture attack make dream";
+var mnemonic = "radio best mystery expect case supreme admit all rose gadget lazy together";

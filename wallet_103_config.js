@@ -1,1 +1,1 @@
-var mnemonic = "faint common prepare extend peanut toy market renew canal calm trade cactus";
+var mnemonic = "pupil magnet run color pull sample future behind banner pledge funny text";

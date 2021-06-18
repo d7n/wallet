@@ -1,1 +1,1 @@
-var mnemonic = "animal hospital ramp catch loop mass casino craft monitor pony mad senior";
+var mnemonic = "differ mixed opinion fold autumn tired deputy affair future timber soft tape";

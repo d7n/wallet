@@ -1,1 +1,1 @@
-var mnemonic = "short bring above welcome regular elder sauce nurse insect crystal endorse credit";
+var mnemonic = "leisure belt gown punch mix small riot then divorce wing depart wave";

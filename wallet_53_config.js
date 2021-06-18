@@ -1,1 +1,1 @@
-var mnemonic = "pipe orient symbol spot crater bless okay foam morning large trend notable";
+var mnemonic = "universe rescue system engage people math pottery van female beyond tackle bargain";

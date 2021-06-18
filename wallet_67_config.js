@@ -1,1 +1,1 @@
-var mnemonic = "connect you come wheel lunch area size sugar ivory possible slam impact";
+var mnemonic = "melody local segment oblige metal sting head clog rabbit squirrel kiwi flight";

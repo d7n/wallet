@@ -1,1 +1,1 @@
-var mnemonic = "tourist brave iron limb duty horn spare grape mixed horror caution picture";
+var mnemonic = "nation injury unfold endorse repair tape muscle all half valve credit vehicle";

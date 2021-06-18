@@ -1,1 +1,1 @@
-var mnemonic = "kit liar orbit deny column peace peace flavor model because aspect orphan";
+var mnemonic = "bamboo uphold tackle excuse drastic fit infant pave orchard empower trade reduce";

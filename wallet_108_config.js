@@ -1,1 +1,1 @@
-var mnemonic = "license pistol mule dose foam feel problem action police fish prison air";
+var mnemonic = "reflect acoustic lobster that tooth immune when deputy future hamster stairs word";

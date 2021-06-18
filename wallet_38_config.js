@@ -1,1 +1,1 @@
-var mnemonic = "all opera noise muscle absent salute return fancy over truth finish glance";
+var mnemonic = "shop despair lock valve clown guess impose ozone priority monitor fame wife";

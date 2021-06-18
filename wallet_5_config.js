@@ -1,1 +1,1 @@
-var mnemonic = "find tuna off grocery target stool obtain wagon claw label nerve forward";
+var mnemonic = "awkward scare squeeze forward capital cool adjust milk ecology busy much injury";

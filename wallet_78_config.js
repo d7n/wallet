@@ -1,1 +1,1 @@
-var mnemonic = "list woman happy stock weather candy unhappy resource file traffic any scrub";
+var mnemonic = "around satisfy swim rookie stock rule spy fence brief surround method unaware";

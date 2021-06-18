@@ -1,1 +1,1 @@
-var mnemonic = "canyon anchor power august coast layer movie celery debate tortoise layer tribe";
+var mnemonic = "only spread unknown arrow tuition patient pattern cash glory fork bright chalk";

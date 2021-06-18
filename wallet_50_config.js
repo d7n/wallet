@@ -1,1 +1,1 @@
-var mnemonic = "kitten fine great cook breeze poverty cup tenant garment render second shoulder";
+var mnemonic = "endless lobster bench mention neck animal social vessel price public hundred pond";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt ramp clutch morning iron motor kind eye ready lady meat caught";
+var mnemonic = "soul favorite jewel fame indicate machine involve upper wreck now foster erode";

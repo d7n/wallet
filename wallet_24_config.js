@@ -1,1 +1,1 @@
-var mnemonic = "cereal summer among indicate buyer ancient erupt hip retire student force member";
+var mnemonic = "mouse come window method night cousin cancel trim number glimpse term liar";

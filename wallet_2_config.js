@@ -1,1 +1,1 @@
-var mnemonic = "crouch cruise surround they make sudden wasp rigid rather mouse share exchange";
+var mnemonic = "oppose hen news welcome brush wide horse moon purse glance source lens";

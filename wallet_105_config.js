@@ -1,1 +1,1 @@
-var mnemonic = "predict require border mimic marine warm hint coyote antenna hen couch kidney";
+var mnemonic = "key disorder nominee upper powder control busy member cliff bunker arrow prize";

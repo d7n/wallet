@@ -1,1 +1,1 @@
-var mnemonic = "infant uphold legal taste motion slim bright property until spy rubber fox";
+var mnemonic = "divorce define vocal when build lawsuit indicate letter fossil bomb wasp pistol";

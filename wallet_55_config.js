@@ -1,1 +1,1 @@
-var mnemonic = "swing expect off brush illegal learn since pull yellow apology slab outside";
+var mnemonic = "vacant mystery pony ask neglect cover magic lonely hat mimic stock minimum";

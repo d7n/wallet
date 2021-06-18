@@ -1,1 +1,1 @@
-var mnemonic = "path cloud miss skirt sponsor unknown transfer local scale mouse crystal corn";
+var mnemonic = "palace gospel cannon above lyrics size flock catalog myth enact impose bacon";

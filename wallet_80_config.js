@@ -1,1 +1,1 @@
-var mnemonic = "cheese tomato extend life check wine whip employ hope win shadow quiz";
+var mnemonic = "pledge tip key card fossil shed shove bridge depart palm sunny smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "program radar effort improve breeze pear walk funny wheel strike verify frame";
+var mnemonic = "shaft reform team news beyond fat collect roast health mass voice pool";

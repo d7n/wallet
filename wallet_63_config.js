@@ -1,1 +1,1 @@
-var mnemonic = "copy shrug tray input eternal desert notice usual assault gadget camera emerge";
+var mnemonic = "chronic push title sheriff kid hunt mammal prevent vacant buffalo truck tuna";

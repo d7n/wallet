@@ -1,1 +1,1 @@
-var mnemonic = "clinic voyage divert thrive wire hospital weird argue brass trust abandon supreme";
+var mnemonic = "soft grit famous pencil valley element jealous school mask use chase canvas";

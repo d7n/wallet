@@ -1,1 +1,1 @@
-var mnemonic = "banana organ world crystal essence fix exact nose bird final that hobby";
+var mnemonic = "skate trial sibling produce people board wrong harsh job announce aspect art";

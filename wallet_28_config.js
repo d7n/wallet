@@ -1,1 +1,1 @@
-var mnemonic = "web inner reject panther security pave giant friend exhibit office crop remember";
+var mnemonic = "ankle six south swap hollow human clarify warfare hen state retire vast";

@@ -1,1 +1,1 @@
-var mnemonic = "universe must gym flavor struggle course sudden history equip creek allow hen";
+var mnemonic = "apple anxiety print small round two roast one document pass way cargo";

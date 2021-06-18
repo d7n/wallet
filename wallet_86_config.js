@@ -1,1 +1,1 @@
-var mnemonic = "kitchen title ladder proof like element year ordinary horse effort faith clump";
+var mnemonic = "attitude chair genuine coil jazz weapon board slam cheese float certain festival";

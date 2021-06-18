@@ -1,1 +1,1 @@
-var mnemonic = "crane poem document syrup degree veteran rice measure remember apology island raise";
+var mnemonic = "split stand stem fetch atom guilt solid pudding blade palm already great";

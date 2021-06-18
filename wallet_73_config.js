@@ -1,1 +1,1 @@
-var mnemonic = "almost van oven burger orient uniform coin warfare remove boring decrease error";
+var mnemonic = "example wash favorite romance garage sea hungry prefer busy sadness exhibit gate";

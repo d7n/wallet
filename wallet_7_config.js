@@ -1,1 +1,1 @@
-var mnemonic = "three pen cute input vacant leader hint song airport ladder there airport";
+var mnemonic = "saddle limb equal soldier promote design climb jeans mammal rapid deputy access";

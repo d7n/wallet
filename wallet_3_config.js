@@ -1,1 +1,1 @@
-var mnemonic = "student minor arrive movie crouch wealth alien law spray found series ocean";
+var mnemonic = "assault view family also horror combine number battle brief grass injury attack";

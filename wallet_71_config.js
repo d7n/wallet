@@ -1,1 +1,1 @@
-var mnemonic = "climb extend suspect region jaguar know ill city clean describe stuff leg";
+var mnemonic = "razor field ankle rent bid clutch trumpet depart survey gym reduce judge";

@@ -1,1 +1,1 @@
-var mnemonic = "end surround system grunt pear such never toss length segment zone barely";
+var mnemonic = "father penalty tuna labor dilemma join crunch autumn cover argue myth jelly";

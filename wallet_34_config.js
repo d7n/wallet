@@ -1,1 +1,1 @@
-var mnemonic = "pencil border sunny wrap leg mix net depend trophy pluck spirit high";
+var mnemonic = "diamond brisk fabric ceiling opera exotic armed bronze novel series kitchen action";

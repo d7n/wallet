@@ -1,1 +1,1 @@
-var mnemonic = "false require tuna alarm egg unique black impact bridge replace leave bamboo";
+var mnemonic = "disorder girl tell real second dragon main tuition decide monitor happy issue";

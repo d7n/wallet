@@ -1,1 +1,1 @@
-var mnemonic = "village teach lesson shoulder erase adapt good pause enhance float tuition fatal";
+var mnemonic = "vital also sister minimum shadow dumb feature ketchup copy remind polar snack";

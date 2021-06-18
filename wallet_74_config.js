@@ -1,1 +1,1 @@
-var mnemonic = "select manual sponsor maple author harsh clerk miss bronze shop wash garlic";
+var mnemonic = "lamp ivory promote settle govern market rival trend vital scout clinic lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "shop seat battle journey proud blade exercise dash project gossip possible bread";
+var mnemonic = "garlic hope animal squeeze bullet ordinary gorilla mule ostrich motion cross disagree";

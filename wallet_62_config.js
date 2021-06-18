@@ -1,1 +1,1 @@
-var mnemonic = "collect media start meat office essence brick art canoe flip drastic item";
+var mnemonic = "knock expose install rapid salute appear ball salmon sibling spot announce please";

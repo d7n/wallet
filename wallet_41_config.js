@@ -1,1 +1,1 @@
-var mnemonic = "menu blood chest main minor alien spider jaguar impose august live oak";
+var mnemonic = "plug tissue drum final fatal better bridge federal reflect tattoo region height";

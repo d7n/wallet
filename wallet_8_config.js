@@ -1,1 +1,1 @@
-var mnemonic = "exit ugly inherit wall build demise fiction trouble public infant clap gas";
+var mnemonic = "story believe bonus anchor young lucky coil husband actor river release hospital";

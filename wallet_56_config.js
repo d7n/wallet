@@ -1,1 +1,1 @@
-var mnemonic = "craft plunge tomorrow father faculty advice mercy leave sing daughter decide kite";
+var mnemonic = "island school hat curtain equip diary company excite push umbrella model normal";
