@@ -1,1 +1,1 @@
-var mnemonic = "mouse poverty add proof tilt loyal modify example add few approve impact";
+var mnemonic = "cycle uncover actress brave adjust winter birth inflict unfold luxury direct lottery";

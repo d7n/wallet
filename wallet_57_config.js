@@ -1,1 +1,1 @@
-var mnemonic = "fat only rose tell such plastic rally multiply average thunder chicken similar";
+var mnemonic = "spot fragile birth olive slow pioneer mask poverty say knock grunt access";

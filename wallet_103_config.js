@@ -1,1 +1,1 @@
-var mnemonic = "step service submit equip quit lab release coconut pudding country tomorrow cart";
+var mnemonic = "hub garlic taste purchase shy session leisure paddle flush load habit vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "decline observe exotic dinner small useful six swarm occur notable dice sea";
+var mnemonic = "topple brown swallow fall vanish six fiscal hero panic valid shallow goose";

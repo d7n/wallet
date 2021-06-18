@@ -1,1 +1,1 @@
-var mnemonic = "make claim ostrich ketchup token better tilt find sell settle deposit energy";
+var mnemonic = "census mind brick boy simple view arch caught remove beyond final embark";

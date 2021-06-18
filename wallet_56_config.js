@@ -1,1 +1,1 @@
-var mnemonic = "essay model vault blood young inner gown cram runway promote quality pioneer";
+var mnemonic = "tornado pioneer smile item indicate today source gas guess river lunar dress";

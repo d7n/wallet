@@ -1,1 +1,1 @@
-var mnemonic = "carry wild illegal alien drip endorse strategy liquid witness velvet until skirt";
+var mnemonic = "physical twin canal loop weekend kiss science coyote ancient trophy hat urge";

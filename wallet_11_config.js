@@ -1,1 +1,1 @@
-var mnemonic = "runway cushion avoid north orphan trumpet oyster must gym blur saddle middle";
+var mnemonic = "super rebuild uniform box dinosaur brown bitter super kit power bullet evil";

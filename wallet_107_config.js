@@ -1,1 +1,1 @@
-var mnemonic = "laundry sell sample emotion much angle use air rapid easily planet cheese";
+var mnemonic = "protect great diagram deer corn cost supply volume material burst school girl";

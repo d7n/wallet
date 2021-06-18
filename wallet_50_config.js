@@ -1,1 +1,1 @@
-var mnemonic = "canyon sniff spot hawk pig forget quantum merit escape thing robust seat";
+var mnemonic = "off trophy coffee hip afraid also protect liquid creek light genius army";

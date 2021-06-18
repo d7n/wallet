@@ -1,1 +1,1 @@
-var mnemonic = "general bachelor shock sock lounge lawsuit rigid verify lazy robot evidence verb";
+var mnemonic = "crater danger street usage script system wolf close puppy snap there warfare";

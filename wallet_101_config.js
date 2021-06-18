@@ -1,1 +1,1 @@
-var mnemonic = "priority reward live doll boring beef sample enemy cat foil onion outside";
+var mnemonic = "cry custom slogan average together curtain bargain busy about loud economy meadow";

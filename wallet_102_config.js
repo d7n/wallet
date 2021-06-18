@@ -1,1 +1,1 @@
-var mnemonic = "tent job life manual desert pigeon stem begin area odor weather figure";
+var mnemonic = "all unveil three coral trim roof chapter beyond wine feed raw absorb";

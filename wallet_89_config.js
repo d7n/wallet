@@ -1,1 +1,1 @@
-var mnemonic = "weekend palm doctor kite grain village regular engine ensure prevent diamond match";
+var mnemonic = "bicycle satoshi egg cheese bicycle hobby average extend daughter topic expire nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "debris spoil calm dawn grow kidney diet shock trip vital unaware rocket";
+var mnemonic = "fee give select impose group garbage exit have fee stool gospel kid";

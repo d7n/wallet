@@ -1,1 +1,1 @@
-var mnemonic = "vault divide acid network advice nice eight run pool concert foam exotic";
+var mnemonic = "such degree strategy pigeon result hour double roast daring describe label regular";

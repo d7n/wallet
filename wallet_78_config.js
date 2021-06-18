@@ -1,1 +1,1 @@
-var mnemonic = "illness warfare swim project choose priority shift unhappy reject that duck grape";
+var mnemonic = "drift silent fold morning mushroom jacket rubber display arrive planet grace day";

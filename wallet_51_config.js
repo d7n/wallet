@@ -1,1 +1,1 @@
-var mnemonic = "neck glow learn stomach scrub wall invite slot square case depth nature";
+var mnemonic = "simple edit stairs goat canoe achieve ozone language piano bone season around";

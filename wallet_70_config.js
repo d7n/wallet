@@ -1,1 +1,1 @@
-var mnemonic = "clown door swear team bunker general fantasy bleak sunny indicate blind purse";
+var mnemonic = "creek believe lake raccoon embark uniform tomorrow cool pledge inmate hold misery";

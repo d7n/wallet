@@ -1,1 +1,1 @@
-var mnemonic = "device file heavy carbon trouble finish monitor oil tobacco letter dune embody";
+var mnemonic = "moon pause path virtual purity federal imitate relax steel decade chapter champion";

@@ -1,1 +1,1 @@
-var mnemonic = "artefact civil spin ketchup pool erase myth battle fuel mix member add";
+var mnemonic = "silk there phrase bounce angry faculty repair curve best cook throw release";

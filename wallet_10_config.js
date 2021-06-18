@@ -1,1 +1,1 @@
-var mnemonic = "potato trick manage suit large quick unlock soul picnic exist dune either";
+var mnemonic = "there finish horror myth solar actual prevent firm artefact electric window festival";

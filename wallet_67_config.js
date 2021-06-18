@@ -1,1 +1,1 @@
-var mnemonic = "card december deer echo index absorb metal pet rapid craft left shell";
+var mnemonic = "drop cancel lake shed surround field dolphin festival equal mobile fun veteran";

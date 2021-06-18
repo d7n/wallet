@@ -1,1 +1,1 @@
-var mnemonic = "come kick field stadium canal wage rare youth history model assault push";
+var mnemonic = "wave future machine that general review rigid actor subject engine romance actual";

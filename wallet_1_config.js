@@ -1,1 +1,1 @@
-var mnemonic = "umbrella lunar borrow awkward anxiety flash lesson urban reveal census dance sail";
+var mnemonic = "organ castle breeze know bacon error steak dinosaur pride wreck joke lift";

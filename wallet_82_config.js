@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit resist clay acquire farm pause solar honey thunder carry supply brother";
+var mnemonic = "select portion drum recipe math welcome middle year very exotic virtual inherit";

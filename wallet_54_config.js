@@ -1,1 +1,1 @@
-var mnemonic = "maple brown shield tiger clown what abstract tragic soul hedgehog welcome nasty";
+var mnemonic = "convince weasel option thrive east fatigue festival evolve cliff decline mansion credit";

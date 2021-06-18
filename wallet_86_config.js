@@ -1,1 +1,1 @@
-var mnemonic = "arrest edit audit valid social more misery cigar expand voyage advice addict";
+var mnemonic = "relief improve vapor today clean garlic candy frozen cube search captain solution";

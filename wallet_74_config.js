@@ -1,1 +1,1 @@
-var mnemonic = "bounce nephew crater bonus aspect magnet skate one bachelor soap crowd sock";
+var mnemonic = "fashion because parent unique area ankle gravity pool cat salt soon half";

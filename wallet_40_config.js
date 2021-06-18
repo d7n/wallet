@@ -1,1 +1,1 @@
-var mnemonic = "nose agent try notable prefer find faculty expand sock address opera glass";
+var mnemonic = "public clock company crash open various return mean comic web image explain";

@@ -1,1 +1,1 @@
-var mnemonic = "cart door obtain grant wire oyster smooth naive rib evidence brain fat";
+var mnemonic = "jeans habit aware reopen luxury post load couple image neck session execute";

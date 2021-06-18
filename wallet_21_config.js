@@ -1,1 +1,1 @@
-var mnemonic = "grab render bind liar absent uncover muscle work rapid answer spring feed";
+var mnemonic = "rather raise penalty pony crazy student humble zero crash must together strong";

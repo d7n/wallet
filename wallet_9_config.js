@@ -1,1 +1,1 @@
-var mnemonic = "number runway call ketchup duck vicious history provide comfort fancy cricket movie";
+var mnemonic = "glass total six click stomach human ethics wash crater bird busy hollow";

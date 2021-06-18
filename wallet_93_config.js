@@ -1,1 +1,1 @@
-var mnemonic = "season bachelor sport hover original clog shock embark lamp scorpion oyster screen";
+var mnemonic = "width allow utility clarify bargain frost solid will sheriff goose vague bitter";

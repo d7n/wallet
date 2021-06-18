@@ -1,1 +1,1 @@
-var mnemonic = "sorry youth frozen labor reason castle jeans castle scare cool october innocent";
+var mnemonic = "earth loop merge best fatigue feature add humor beef physical expect simple";

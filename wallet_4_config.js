@@ -1,1 +1,1 @@
-var mnemonic = "wing nurse awesome fade urban smoke come symptom bomb supply tomorrow sting";
+var mnemonic = "across correct phrase tenant purchase morning snow robot dirt park road select";

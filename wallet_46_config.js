@@ -1,1 +1,1 @@
-var mnemonic = "also album bike blossom brick staff service effort awesome timber proof message";
+var mnemonic = "first universe pride entry what diesel pencil post tooth mad frog hawk";

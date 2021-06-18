@@ -1,1 +1,1 @@
-var mnemonic = "very talk february cactus large faith cover glimpse imitate exhibit habit lens";
+var mnemonic = "lesson crawl depart already buzz actual monitor involve stumble retreat ankle reopen";

@@ -1,1 +1,1 @@
-var mnemonic = "daring erupt festival resemble tooth exchange couple hub myth body shock devote";
+var mnemonic = "region evil margin alien decline minor amazing fitness open august limb traffic";

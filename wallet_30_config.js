@@ -1,1 +1,1 @@
-var mnemonic = "claim venture pet property swallow film agree voyage render brick hero photo";
+var mnemonic = "food apology butter legal onion trend congress spare harsh night era climb";

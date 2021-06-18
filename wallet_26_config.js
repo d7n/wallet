@@ -1,1 +1,1 @@
-var mnemonic = "bleak uncle emotion neglect more awful quarter canoe excite elevator copy resource";
+var mnemonic = "early emerge retire legend lock raven cover bridge version sibling fiber yard";

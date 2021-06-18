@@ -1,1 +1,1 @@
-var mnemonic = "bounce honey panic thought shoot gauge goat recycle subway thunder entire thunder";
+var mnemonic = "trigger chest off basic vivid spray alien icon diagram million foam property";

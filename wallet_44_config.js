@@ -1,1 +1,1 @@
-var mnemonic = "avoid next dance around pattern assault post train hobby force online shuffle";
+var mnemonic = "excuse pig plunge drop cup crowd unable dirt crane scheme surface soup";

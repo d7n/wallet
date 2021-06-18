@@ -1,1 +1,1 @@
-var mnemonic = "obey shy decorate belt diary float strong north cash invest biology ivory";
+var mnemonic = "foster odor chest secret hidden north sick crouch manual maid embrace fury";

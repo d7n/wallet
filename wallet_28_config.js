@@ -1,1 +1,1 @@
-var mnemonic = "buddy pen cereal flat special ready clown month sorry zero pioneer salon";
+var mnemonic = "habit unhappy enough theory pony control card prevent equal indicate bonus melody";

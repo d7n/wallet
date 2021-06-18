@@ -1,1 +1,1 @@
-var mnemonic = "source brain teach salt boost capable panther dragon elbow alien dutch above";
+var mnemonic = "obvious scatter slot control inspire input spot tool crunch grain wedding stomach";

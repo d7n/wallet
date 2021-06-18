@@ -1,1 +1,1 @@
-var mnemonic = "soon tip together fold fatigue boat bottom run upset title grain crack";
+var mnemonic = "certain margin camera venture anxiety smart suit grain festival catalog rocket peace";

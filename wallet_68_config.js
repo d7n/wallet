@@ -1,1 +1,1 @@
-var mnemonic = "wheel sniff soda green enjoy tumble ostrich tiny slush bulk wisdom biology";
+var mnemonic = "devote happy flee bottom buffalo match undo cream attitude idea frost fiber";

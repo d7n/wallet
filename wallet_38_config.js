@@ -1,1 +1,1 @@
-var mnemonic = "need fall flush when whisper fit uniform guess lemon object dust offer";
+var mnemonic = "rifle pony horror plate security purse flight weird panic usage dwarf approve";

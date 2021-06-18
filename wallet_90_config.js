@@ -1,1 +1,1 @@
-var mnemonic = "birth frog come judge shift change easily fruit reopen arena vessel shed";
+var mnemonic = "scrub light output jacket midnight air annual volcano deputy useful buddy gym";

@@ -1,1 +1,1 @@
-var mnemonic = "sell ecology cause gate long burst web wave sing pause near pumpkin";
+var mnemonic = "long office flash avoid debris eyebrow borrow brick adjust pause feature menu";

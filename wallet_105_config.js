@@ -1,1 +1,1 @@
-var mnemonic = "volume essay rhythm prepare inject toward wage autumn south when feed collect";
+var mnemonic = "member flight sense clever canvas make card foam dish oil honey section";

@@ -1,1 +1,1 @@
-var mnemonic = "repair bright satisfy live blood invite donkey umbrella recall permit piano genuine";
+var mnemonic = "fatal extra own year where car absorb link luggage hole garage all";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic expand oval check brown segment purity nation whale modify they snake";
+var mnemonic = "aunt december front loyal solid couch once sweet weird rely crucial stand";

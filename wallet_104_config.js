@@ -1,1 +1,1 @@
-var mnemonic = "camera void mule expire betray chase flat stand anchor toilet survey way";
+var mnemonic = "caution media salmon void east under strategy knife there sister such mixture";

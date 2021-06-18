@@ -1,1 +1,1 @@
-var mnemonic = "powder bicycle climb purse sense damp gossip boy soccer virus ladder head";
+var mnemonic = "extra unfair mountain hospital torch legal brush slush slim combine tide coconut";

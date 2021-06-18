@@ -1,1 +1,1 @@
-var mnemonic = "brother teach alert flame mutual spray length banana mushroom surround skill visual";
+var mnemonic = "fringe three lizard cabbage ability toilet flee decide simple reform very crash";

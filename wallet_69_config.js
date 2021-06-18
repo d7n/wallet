@@ -1,1 +1,1 @@
-var mnemonic = "wait relief cage stove diagram soap extend quality true wage dolphin budget";
+var mnemonic = "smart pause artefact trash gorilla stairs note mind dice alcohol glance silver";

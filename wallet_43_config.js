@@ -1,1 +1,1 @@
-var mnemonic = "eager truck diesel loud crazy curious path auto shock balcony leisure slice";
+var mnemonic = "fog recipe note theory excess puppy sustain wisdom camp announce few phrase";

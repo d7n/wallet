@@ -1,1 +1,1 @@
-var mnemonic = "occur pizza diesel output imitate suit thing remove enforce track sign service";
+var mnemonic = "river forward ancient isolate crazy okay square scare senior search organ cigar";

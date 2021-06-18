@@ -1,1 +1,1 @@
-var mnemonic = "roof odor story behave dice often demand feel print movie peace power";
+var mnemonic = "brass danger sense left shield tower forest copper way banner hood leopard";

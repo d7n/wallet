@@ -1,1 +1,1 @@
-var mnemonic = "snow plastic approve better fly broken awkward goat shove model catalog arrow";
+var mnemonic = "husband spy oven announce muscle illegal floor jacket coach fitness calm garbage";

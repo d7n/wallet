@@ -1,1 +1,1 @@
-var mnemonic = "swallow throw rescue joy limb upset glance cash wet appear heart peace";
+var mnemonic = "palm reopen grass gesture electric steak stick shift burger apart recycle armed";

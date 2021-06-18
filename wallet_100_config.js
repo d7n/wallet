@@ -1,1 +1,1 @@
-var mnemonic = "relax track tornado web main fork please devote mansion slice artefact demand";
+var mnemonic = "morning rebel upgrade unaware pear humor face husband shoe crash oak glare";

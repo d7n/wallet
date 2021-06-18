@@ -1,1 +1,1 @@
-var mnemonic = "equip exit furnace garlic pulp east update chat exhaust frequent pink wreck";
+var mnemonic = "speak review noise unhappy shop gasp hello stick parent occur alert tent";

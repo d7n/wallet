@@ -1,1 +1,1 @@
-var mnemonic = "joy finger drift enable film later baby bonus erase cool bleak link";
+var mnemonic = "people balcony remember zebra wolf off under begin return hard love plastic";

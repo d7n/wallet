@@ -1,1 +1,1 @@
-var mnemonic = "trick ethics wear never divide people shy wild meadow step library section";
+var mnemonic = "topple ribbon still lottery cloth glimpse either onion excite urge indicate safe";

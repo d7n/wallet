@@ -1,1 +1,1 @@
-var mnemonic = "scatter shift scissors ahead acid elbow cat hour insect autumn market online";
+var mnemonic = "avoid eight banana middle tent glide table fit gift shock budget flee";

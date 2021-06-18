@@ -1,1 +1,1 @@
-var mnemonic = "stove fiction cave myth day pudding record wine era dutch mutual injury";
+var mnemonic = "tiger certain town forum rifle vanish tonight forest swift space mistake lounge";

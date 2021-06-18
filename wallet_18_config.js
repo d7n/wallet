@@ -1,1 +1,1 @@
-var mnemonic = "home ticket raw mother face drift entire pitch music off guitar pottery";
+var mnemonic = "price road better grass boil beef antenna dutch ecology frown apple spray";

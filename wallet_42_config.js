@@ -1,1 +1,1 @@
-var mnemonic = "cage rocket staff barely snack fine ginger mass happy major walk razor";
+var mnemonic = "south sing hamster grab insane under quiz above holiday panic fabric pelican";

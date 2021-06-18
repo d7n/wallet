@@ -1,1 +1,1 @@
-var mnemonic = "leg stay puppy brain grape kick derive cake acquire reunion cupboard peace";
+var mnemonic = "shock appear catch alter patrol pony weasel badge adult garden unhappy spoil";

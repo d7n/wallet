@@ -1,1 +1,1 @@
-var mnemonic = "boss carpet tuna what beauty vibrant tooth sell track option report museum";
+var mnemonic = "canal beef faculty come course kiss choose wait memory chuckle element auction";

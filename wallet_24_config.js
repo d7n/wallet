@@ -1,1 +1,1 @@
-var mnemonic = "syrup stone blood save bridge path glow legend faculty noodle speed kingdom";
+var mnemonic = "toddler scissors language certain tonight genuine fabric despair edit infant limit curious";

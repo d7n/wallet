@@ -1,1 +1,1 @@
-var mnemonic = "antenna alone fox prepare lyrics actor brief surprise endless silent beach excess";
+var mnemonic = "sphere retire jazz rude kingdom enter fortune identify exit rookie patch swift";

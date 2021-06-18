@@ -1,1 +1,1 @@
-var mnemonic = "pattern index lecture hero jaguar powder crumble language cook peace gospel fall";
+var mnemonic = "judge room creek display rib orange fresh actress chief mobile record future";

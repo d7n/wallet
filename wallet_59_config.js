@@ -1,1 +1,1 @@
-var mnemonic = "west little virtual benefit library access fortune phone vapor nurse fault awesome";
+var mnemonic = "sweet plunge badge rail friend evidence antenna smoke window car easy slam";

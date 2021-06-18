@@ -1,1 +1,1 @@
-var mnemonic = "word street ranch rate whisper blossom ten series team train entry sight";
+var mnemonic = "front clean used announce green dial unusual car coil liar hunt core";

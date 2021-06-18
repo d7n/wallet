@@ -1,1 +1,1 @@
-var mnemonic = "pave rifle copper quantum nut tonight omit candy pluck engage trap enemy";
+var mnemonic = "dolphin leg argue giraffe exist area book grunt joy trophy east gallery";

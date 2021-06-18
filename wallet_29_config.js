@@ -1,1 +1,1 @@
-var mnemonic = "error liberty diagram combine suggest detect amazing fence index dog cook skin";
+var mnemonic = "zoo oppose virus dilemma belt stay galaxy oxygen other identify decrease sort";

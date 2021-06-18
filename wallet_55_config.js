@@ -1,1 +1,1 @@
-var mnemonic = "smooth echo oxygen leg acoustic essence home crumble sea upgrade autumn gallery";
+var mnemonic = "group bunker clay boring hope current educate cost bacon matrix say rice";

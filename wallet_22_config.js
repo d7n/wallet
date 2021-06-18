@@ -1,1 +1,1 @@
-var mnemonic = "antique idle keen similar ignore neutral task grief benefit document anxiety unknown";
+var mnemonic = "miracle title once two enact speed bring thunder youth admit chase penalty";

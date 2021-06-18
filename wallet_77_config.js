@@ -1,1 +1,1 @@
-var mnemonic = "badge spoil joy crowd wing toss pink tomato taxi robust example cliff";
+var mnemonic = "unknown exotic marine item record orchard fog citizen advance diamond admit digital";

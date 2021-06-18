@@ -1,1 +1,1 @@
-var mnemonic = "lion dice amount area injury disorder brain lizard tourist enemy stage room";
+var mnemonic = "torch hello salute grab tube riot banner tragic fantasy flight brass coconut";

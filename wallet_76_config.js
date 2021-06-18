@@ -1,1 +1,1 @@
-var mnemonic = "first glad lab castle birth bitter define dignity hope spare blur dawn";
+var mnemonic = "boring lift hope flat deliver sad room base lamp chaos want pudding";
