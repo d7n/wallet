@@ -1,1 +1,1 @@
-var mnemonic = "indicate primary very crucial neck raise submit avoid margin lock model duty";
+var mnemonic = "park casino field smile crack parent drive like frown frozen find three";

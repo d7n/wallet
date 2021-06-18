@@ -1,1 +1,1 @@
-var mnemonic = "divert void bracket piano celery hidden regret current puzzle debris loop enough";
+var mnemonic = "ahead keep catalog team thought enemy quote crack extra tired valid inform";

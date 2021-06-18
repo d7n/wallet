@@ -1,1 +1,1 @@
-var mnemonic = "neck broken agent baby turtle choice face float peasant dog aunt pledge";
+var mnemonic = "pizza second fringe month public client vehicle damp image pool pact thank";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory million corn million dawn edit observe dice potato approve electric blanket";
+var mnemonic = "useless river share kind father pudding pudding chapter uphold aerobic tumble bracket";

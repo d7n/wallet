@@ -1,1 +1,1 @@
-var mnemonic = "auto fade balcony summer kind pool dust please include gadget okay code";
+var mnemonic = "confirm crew lock chat toilet way biology local bacon rebel speed prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "tomato celery spot shop spider among spatial behave shoot chalk catalog eight";
+var mnemonic = "man permit busy around undo sail museum truck correct wrestle fee unaware";

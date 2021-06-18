@@ -1,1 +1,1 @@
-var mnemonic = "brief humor imitate nominee above ankle remember dentist noise cheese tattoo impose";
+var mnemonic = "move lab outdoor curve garage jump trial mix bracket pencil home car";

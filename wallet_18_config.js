@@ -1,1 +1,1 @@
-var mnemonic = "treat bullet father siren airport avoid gown crunch kit border brown maximum";
+var mnemonic = "cricket crush turtle want object call lottery poverty wait rescue mountain remember";

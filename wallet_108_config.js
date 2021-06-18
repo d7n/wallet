@@ -1,1 +1,1 @@
-var mnemonic = "prison over timber stadium beach brain axis glass thumb estate attitude between";
+var mnemonic = "distance fork dream wrap soul mother neutral defy orange punch near solution";

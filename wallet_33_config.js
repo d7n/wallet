@@ -1,1 +1,1 @@
-var mnemonic = "palm awkward found kite foster awake nurse fiscal piano slot fatal later";
+var mnemonic = "rescue sand wear bundle stuff churn mountain truly chronic soda firm mass";

@@ -1,1 +1,1 @@
-var mnemonic = "add drama draw coffee isolate renew length right capable cereal hour amazing";
+var mnemonic = "thing glove math worth scatter educate lucky doctor goat special dismiss gaze";

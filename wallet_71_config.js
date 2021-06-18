@@ -1,1 +1,1 @@
-var mnemonic = "truth always festival garlic among steel improve egg flag east faculty denial";
+var mnemonic = "citizen aerobic vanish foam step image artist sponsor turkey mule fault miracle";

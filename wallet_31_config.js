@@ -1,1 +1,1 @@
-var mnemonic = "muffin output major prevent tent document organ mean multiply hill daughter sadness";
+var mnemonic = "hood oval inch ostrich world maze exist panel secret foster dash total";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom absent drop yard dust deputy admit advice ancient fan exotic fog";
+var mnemonic = "napkin table vendor shoot invest length supreme parent puzzle range call enter";

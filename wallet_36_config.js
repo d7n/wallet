@@ -1,1 +1,1 @@
-var mnemonic = "gauge glove orchard vacuum topple peanut settle surprise wagon gaze believe comic";
+var mnemonic = "marble jeans license lava tag route hurdle smile equal share hood always";

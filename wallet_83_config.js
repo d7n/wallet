@@ -1,1 +1,1 @@
-var mnemonic = "autumn guitar useful happy ten survey candy banana token cry divide tackle";
+var mnemonic = "uncover describe crime wise chat essence lizard sick this service pig ten";

@@ -1,1 +1,1 @@
-var mnemonic = "bus dance leaf nurse connect abstract funny orbit autumn depth reunion various";
+var mnemonic = "identify object asthma ladder crop soul dynamic actor auction hub embody arctic";

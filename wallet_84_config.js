@@ -1,1 +1,1 @@
-var mnemonic = "trim flower ready satoshi modify margin all shield unaware erupt palm sure";
+var mnemonic = "spy exhibit belt guess drip bless tower pipe patrol coyote medal slice";

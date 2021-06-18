@@ -1,1 +1,1 @@
-var mnemonic = "birth account blame wagon onion century glow tribe pistol deal jeans cactus";
+var mnemonic = "prize stairs spider language gravity lawn casino vivid oppose fancy convince life";

@@ -1,1 +1,1 @@
-var mnemonic = "rice recycle imitate runway twice noble foot derive worry enlist tide match";
+var mnemonic = "drop noble danger receive lift onion goddess kid fog cup fold sleep";

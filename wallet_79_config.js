@@ -1,1 +1,1 @@
-var mnemonic = "open depart ceiling ice mango execute jump lift civil video across label";
+var mnemonic = "surround pioneer vintage utility kid blast spin nothing basic primary learn frozen";

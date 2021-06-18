@@ -1,1 +1,1 @@
-var mnemonic = "weapon hope mother close rack venue sample dawn lazy false annual exercise";
+var mnemonic = "earth jacket humble rally suspect clap next swarm access meadow sketch trigger";

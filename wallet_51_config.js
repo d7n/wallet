@@ -1,1 +1,1 @@
-var mnemonic = "lizard they moment dove meat curtain critic absurd hope unhappy actor will";
+var mnemonic = "deliver grocery robust enable cheap brass skate brown olympic hello creek safe";

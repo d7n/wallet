@@ -1,1 +1,1 @@
-var mnemonic = "useless goat seven knee spell between tower syrup chicken detail female polar";
+var mnemonic = "energy episode way upset smile congress print horn uphold salmon fit middle";

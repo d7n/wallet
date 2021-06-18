@@ -1,1 +1,1 @@
-var mnemonic = "awake empty proof truly drill brain endorse tongue peanut essay finger walk";
+var mnemonic = "midnight drink female crisp exile tackle slogan budget domain club sample powder";

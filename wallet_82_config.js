@@ -1,1 +1,1 @@
-var mnemonic = "tunnel scheme decide forward door base repair walk share move glove twice";
+var mnemonic = "black van end rotate merry drum wagon hip point subway gather twist";

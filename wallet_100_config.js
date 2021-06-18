@@ -1,1 +1,1 @@
-var mnemonic = "borrow hole vacuum choice crane blue mobile aware hollow life soon toast";
+var mnemonic = "hand immune object session saddle message asset account ticket way behind flat";

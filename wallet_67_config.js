@@ -1,1 +1,1 @@
-var mnemonic = "diesel bonus account flee critic produce promote fringe powder void lion tackle";
+var mnemonic = "since scissors romance spatial anxiety dice leave seminar wedding include heavy bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "void often search call soap unlock wine cement pepper few build recycle";
+var mnemonic = "cross crew lawsuit million output fence describe cattle wreck eight merry soul";

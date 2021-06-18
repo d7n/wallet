@@ -1,1 +1,1 @@
-var mnemonic = "balcony camera empty label vehicle document gather assault exile hope umbrella vacuum";
+var mnemonic = "rapid myself primary airport plastic toss actor wisdom drill warrior couch island";

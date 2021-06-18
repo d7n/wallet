@@ -1,1 +1,1 @@
-var mnemonic = "impact vendor forward north host popular fancy bamboo jealous praise runway stuff";
+var mnemonic = "material endorse loop frown soldier gospel peace early remain edit prevent mask";

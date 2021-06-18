@@ -1,1 +1,1 @@
-var mnemonic = "damage collect erupt indoor thumb endorse tiny remove manual grow snack bomb";
+var mnemonic = "shaft flash auction inform crisp later answer castle impulse mercy hamster smoke";

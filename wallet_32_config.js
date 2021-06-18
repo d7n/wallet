@@ -1,1 +1,1 @@
-var mnemonic = "mask weather seat uniform muffin screen coast labor target blanket unlock glare";
+var mnemonic = "slim close rude valve super there collect kid bachelor report neglect wealth";

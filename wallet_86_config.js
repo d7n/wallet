@@ -1,1 +1,1 @@
-var mnemonic = "nature build copy debris switch sister song grape kick window unaware thrive";
+var mnemonic = "rich hello hurt type quarter dolphin jungle number method undo rug number";

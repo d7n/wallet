@@ -1,1 +1,1 @@
-var mnemonic = "memory day muffin someone tip fruit same joy swim life museum canoe";
+var mnemonic = "pool fire lava city convince cash caught mango obey fancy machine duty";

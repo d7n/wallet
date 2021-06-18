@@ -1,1 +1,1 @@
-var mnemonic = "island sister boil young vicious skate world shy later bulb beauty atom";
+var mnemonic = "name vacant fabric gentle fall day domain leopard sponsor flight ripple romance";

@@ -1,1 +1,1 @@
-var mnemonic = "medal emotion tragic keen test tag rotate awful slush august follow friend";
+var mnemonic = "price list note fee blood decrease romance split need maple fence december";

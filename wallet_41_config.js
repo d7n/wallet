@@ -1,1 +1,1 @@
-var mnemonic = "hair sort city host seed surprise damp cage lounge spatial cross sing";
+var mnemonic = "juice inhale job front sponsor fortune shaft cheap valley cotton hour address";

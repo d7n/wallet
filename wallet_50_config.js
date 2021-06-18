@@ -1,1 +1,1 @@
-var mnemonic = "upper save neglect stock tray device elbow save bar bless orphan walk";
+var mnemonic = "beef diagram tenant harvest lamp best project door furnace cactus anger puzzle";

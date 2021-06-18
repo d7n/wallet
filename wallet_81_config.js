@@ -1,1 +1,1 @@
-var mnemonic = "twenty burden copper solid tattoo trick curious hen fiber joy way trend";
+var mnemonic = "hour acquire wedding measure surge chunk replace mountain muscle holiday cradle twenty";

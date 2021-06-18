@@ -1,1 +1,1 @@
-var mnemonic = "large excite exhibit saddle drop welcome always rib cherry flee local segment";
+var mnemonic = "resemble canal dutch island truly arrow spoil minimum enact sword paper kick";

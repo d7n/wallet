@@ -1,1 +1,1 @@
-var mnemonic = "tiger fault draw century easy gauge trend pioneer dilemma alone tenant client";
+var mnemonic = "interest pear future foot nut rebel spend image shift error list disorder";

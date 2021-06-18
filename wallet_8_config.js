@@ -1,1 +1,1 @@
-var mnemonic = "cousin hand actual blame job female ecology intact filter punch apple best";
+var mnemonic = "april include nose left grow gospel brave order false enforce next remove";

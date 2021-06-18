@@ -1,1 +1,1 @@
-var mnemonic = "sentence genre welcome weasel letter supreme advice camera engine unit object skill";
+var mnemonic = "length story dove owner asthma camera spell lecture scene thumb stove crane";

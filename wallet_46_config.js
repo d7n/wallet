@@ -1,1 +1,1 @@
-var mnemonic = "face coconut wheel venue goddess shoe ripple rose security hand rally solid";
+var mnemonic = "loud midnight fire grow economy correct law muscle balance upset drama draft";

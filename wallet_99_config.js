@@ -1,1 +1,1 @@
-var mnemonic = "put strong between wish peasant object gun possible ripple echo method piano";
+var mnemonic = "nuclear evolve wave zone submit spice cruel stock swim trip humble decade";

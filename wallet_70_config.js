@@ -1,1 +1,1 @@
-var mnemonic = "auction hint expect kitten grow radio dumb claw either umbrella room flush";
+var mnemonic = "oblige organ cliff style pledge essence bleak duty cream voice cram renew";

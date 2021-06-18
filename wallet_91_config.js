@@ -1,1 +1,1 @@
-var mnemonic = "castle agent warfare casino wild trouble recycle pear sense ignore crowd sketch";
+var mnemonic = "maid deputy clever giggle area region lens drift move yard crisp lecture";

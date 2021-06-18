@@ -1,1 +1,1 @@
-var mnemonic = "brother brisk deal tuition pact delay all rule female margin category expect";
+var mnemonic = "when early nest enact suggest find never vintage poverty daughter repeat draft";

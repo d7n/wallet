@@ -1,1 +1,1 @@
-var mnemonic = "clump ride wheel radio heavy kit will real fatigue south stamp monster";
+var mnemonic = "mammal cram drip chest cannon carpet crater frown moral scan provide pool";

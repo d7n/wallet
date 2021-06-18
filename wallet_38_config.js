@@ -1,1 +1,1 @@
-var mnemonic = "tail figure asset seek twenty lawn truth rice nut near tonight hen";
+var mnemonic = "orient two manual spider clay casual custom ship broken ripple clinic indoor";

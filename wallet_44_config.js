@@ -1,1 +1,1 @@
-var mnemonic = "guitar forest captain antenna wild orange expire food monkey cargo artist rail";
+var mnemonic = "enact mouse ripple shallow invest luggage toddler cherry spike indicate mesh soon";

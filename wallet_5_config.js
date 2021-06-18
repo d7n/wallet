@@ -1,1 +1,1 @@
-var mnemonic = "author before venue ocean device bind truly fix day warfare grow orbit";
+var mnemonic = "viable walk man first just embark final juice riot ghost year grid";

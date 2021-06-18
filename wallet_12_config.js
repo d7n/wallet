@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin rubber reward tragic lunar cement attitude harvest series skin movie mammal";
+var mnemonic = "muscle round gap skirt portion tunnel you ecology eight nuclear bone flee";

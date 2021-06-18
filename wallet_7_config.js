@@ -1,1 +1,1 @@
-var mnemonic = "party tomorrow push call dignity sentence social panel long blue basic canyon";
+var mnemonic = "ghost immune bulb science cheap super general describe blind dizzy ahead vocal";

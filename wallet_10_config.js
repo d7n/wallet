@@ -1,1 +1,1 @@
-var mnemonic = "elbow alarm rescue idea type memory rebuild voice angry gaze trend alarm";
+var mnemonic = "act vendor place agent mushroom school guilt earn lucky wide cruel sponsor";

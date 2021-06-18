@@ -1,1 +1,1 @@
-var mnemonic = "among favorite own fan globe adjust emerge canoe fan diagram diary monster";
+var mnemonic = "setup census success know village abstract box cement welcome next sponsor age";

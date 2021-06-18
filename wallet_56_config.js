@@ -1,1 +1,1 @@
-var mnemonic = "hollow east rail food define scheme remove antenna earn awake oyster merit";
+var mnemonic = "forum prefer word game flag possible student interest primary casino run miracle";

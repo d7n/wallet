@@ -1,1 +1,1 @@
-var mnemonic = "brass defy fox menu nature exclude primary knee moment hint law elephant";
+var mnemonic = "wage rich gospel cloth ugly address ivory embody tenant document cash combine";

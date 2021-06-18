@@ -1,1 +1,1 @@
-var mnemonic = "anger romance obey mechanic bless lend eye culture history fortune hunt laptop";
+var mnemonic = "pen similar couple innocent across session eyebrow prosper mix victory popular adapt";

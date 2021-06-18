@@ -1,1 +1,1 @@
-var mnemonic = "century dizzy dress defense door hard you material engine thrive tiny penalty";
+var mnemonic = "skate quit grass grit nation across eternal pledge exercise business wrist topic";

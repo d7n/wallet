@@ -1,1 +1,1 @@
-var mnemonic = "egg adjust virtual small pattern tobacco dentist cupboard pulse pen album rude";
+var mnemonic = "leaf uncover napkin glad jewel punch lawn broken toddler labor flip gorilla";

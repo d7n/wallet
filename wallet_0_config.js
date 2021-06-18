@@ -1,1 +1,1 @@
-var mnemonic = "budget ceiling ready warm fantasy square cute eternal kick zero reflect potato";
+var mnemonic = "across maze sheriff track woman crouch still gaze vendor change cricket used";

@@ -1,1 +1,1 @@
-var mnemonic = "regular idle grid senior steak cupboard broken gaze wish host build first";
+var mnemonic = "adapt kidney dinner play time cheese drastic wave tide chief puzzle major";

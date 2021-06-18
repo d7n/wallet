@@ -1,1 +1,1 @@
-var mnemonic = "blue disorder whale silk frost coyote cupboard inspire submit quick electric boring";
+var mnemonic = "insane million sister giraffe gain spell clever parade tunnel soft crush tortoise";

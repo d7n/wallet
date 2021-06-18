@@ -1,1 +1,1 @@
-var mnemonic = "basket renew hover sort deal parrot age birth enrich tongue feel citizen";
+var mnemonic = "woman moment blouse pencil fabric jump blind observe mesh quiz boost car";

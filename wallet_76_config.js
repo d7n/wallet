@@ -1,1 +1,1 @@
-var mnemonic = "few mule write upon onion appear jump same popular express drama cage";
+var mnemonic = "boost online hub stand magnet leaf oppose vanish squirrel diagram already cool";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve pudding spell thank blame like all love debris remain divert accuse";
+var mnemonic = "float leg artwork copy mass give say still other change play grant";

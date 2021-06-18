@@ -1,1 +1,1 @@
-var mnemonic = "lounge behind pear suggest portion warrior later laugh grape dinner popular horse";
+var mnemonic = "beach trip raw acquire bubble silk husband glue ordinary pact cement flip";

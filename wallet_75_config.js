@@ -1,1 +1,1 @@
-var mnemonic = "clean mimic critic dirt tennis argue useful argue pelican forget engine man";
+var mnemonic = "ticket opinion original pioneer diary clutch excite coil near amateur between fix";

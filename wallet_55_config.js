@@ -1,1 +1,1 @@
-var mnemonic = "phone vivid erosion hire asthma bonus poem envelope motor local order nation";
+var mnemonic = "pause depend meadow shallow ring gap oppose copper maze when search bleak";

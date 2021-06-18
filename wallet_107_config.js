@@ -1,1 +1,1 @@
-var mnemonic = "wrong negative fame danger final siege nature manual wash amateur alarm document";
+var mnemonic = "vessel raccoon mean wagon duck sea reopen east excuse injury skill assume";

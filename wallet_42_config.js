@@ -1,1 +1,1 @@
-var mnemonic = "draft ready fabric artist time bike pen fly setup muffin truth squirrel";
+var mnemonic = "advice canoe verify since vault prefer display scorpion ball maze mask gallery";

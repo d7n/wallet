@@ -1,1 +1,1 @@
-var mnemonic = "uniform shock taste view miracle boost color sunny diary become sad use";
+var mnemonic = "hat spoon female letter simple estate trade fresh repair sorry quantum car";

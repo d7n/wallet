@@ -1,1 +1,1 @@
-var mnemonic = "stone ahead soul pact already elevator kitchen album misery scene illegal uphold";
+var mnemonic = "vacuum shove depart view wine improve lawn milk daughter identify enjoy stadium";

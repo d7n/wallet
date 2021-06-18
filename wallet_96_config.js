@@ -1,1 +1,1 @@
-var mnemonic = "bid glass inquiry oppose heart soul unusual beach net frozen work engine";
+var mnemonic = "blood pudding lawsuit toward track wide horse lava scissors feed sand better";

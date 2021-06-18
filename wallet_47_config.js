@@ -1,1 +1,1 @@
-var mnemonic = "time demand easily entire success cancel sun erode desk tower hamster win";
+var mnemonic = "canoe logic snow between clutch shaft language decrease seed mountain fetch afraid";

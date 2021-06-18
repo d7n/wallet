@@ -1,1 +1,1 @@
-var mnemonic = "retire tone vapor transfer unveil clarify draw ship dress lawn globe vessel";
+var mnemonic = "home hero upgrade urge guide erode solar festival half rely mass night";

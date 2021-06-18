@@ -1,1 +1,1 @@
-var mnemonic = "inmate chat coach blue ugly nuclear rally drill offer knee then praise";
+var mnemonic = "pledge cruise only certain fringe cement arrest deposit you rack air gown";

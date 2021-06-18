@@ -1,1 +1,1 @@
-var mnemonic = "marble salt stick winner emerge scale bitter draft edge fan sand trap";
+var mnemonic = "toward rural side dirt family buffalo virus answer daughter swift exercise travel";

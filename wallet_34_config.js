@@ -1,1 +1,1 @@
-var mnemonic = "major one possible nose arrange add setup lobster slice trophy just oven";
+var mnemonic = "silly caution solid friend heart expect people denial invite coast number celery";

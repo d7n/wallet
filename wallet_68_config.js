@@ -1,1 +1,1 @@
-var mnemonic = "own impulse filter one symptom vast hole gown math dwarf define sting";
+var mnemonic = "gain middle own marble torch unaware toe outside monkey wrong clean popular";

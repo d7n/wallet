@@ -1,1 +1,1 @@
-var mnemonic = "explain brand decline space drill ramp analyst venture federal candy orbit seven";
+var mnemonic = "valve trap business champion chair roast ship bleak rabbit stone tell ship";

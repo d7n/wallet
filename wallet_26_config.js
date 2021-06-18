@@ -1,1 +1,1 @@
-var mnemonic = "season uncle shoe elbow main confirm couch argue door security salon describe";
+var mnemonic = "bleak sphere aspect slim armed loud nose quote confirm embark arctic black";

@@ -1,1 +1,1 @@
-var mnemonic = "six attack wine advice setup repair title process keep spike wheat music";
+var mnemonic = "misery chapter coach motor toy join picnic occur logic earn spring battle";

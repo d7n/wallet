@@ -1,1 +1,1 @@
-var mnemonic = "ready grunt stereo learn desert tuition grow flag chase thank minute search";
+var mnemonic = "poet diesel panel bunker harbor arrive supreme erode ginger smooth aerobic wood";

@@ -1,1 +1,1 @@
-var mnemonic = "soap clerk shiver sign enhance weasel nerve pizza segment early scan goddess";
+var mnemonic = "cash friend silent window elegant crazy faint hidden coin warm holiday exist";

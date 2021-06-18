@@ -1,1 +1,1 @@
-var mnemonic = "cry defense parrot issue egg tunnel fossil spawn fantasy replace half pupil";
+var mnemonic = "exile syrup submit peanut jump mimic blush joke atom theme avocado tomorrow";

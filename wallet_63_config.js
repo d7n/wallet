@@ -1,1 +1,1 @@
-var mnemonic = "august canal engine biology act draft history creek emotion affair exile expect";
+var mnemonic = "palace cluster toe viable slot huge equal material enemy dentist smile inspire";

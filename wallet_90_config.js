@@ -1,1 +1,1 @@
-var mnemonic = "build thunder detect fork crucial animal success junk menu glove true fog";
+var mnemonic = "copper dragon decade clerk edit gloom throw thunder define adjust fruit need";

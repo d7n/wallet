@@ -1,1 +1,1 @@
-var mnemonic = "toss primary foil aspect dumb limit cereal message like twenty glory apart";
+var mnemonic = "random earth bitter game eye source swing hurdle train erode cheap banner";

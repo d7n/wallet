@@ -1,1 +1,1 @@
-var mnemonic = "reward emotion electric awkward define victory fit trophy wonder mistake accuse post";
+var mnemonic = "asset damage trip boss success town leaf moral mammal perfect pretty regret";
