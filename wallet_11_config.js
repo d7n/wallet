@@ -1,1 +1,1 @@
-var mnemonic = "gloom day brief cherry glimpse emerge neck rally man crop worth account";
+var mnemonic = "mobile one glance legal method secret brave fold mask quick lyrics print";

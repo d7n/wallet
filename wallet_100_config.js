@@ -1,1 +1,1 @@
-var mnemonic = "credit twelve penalty observe gym cancel high sun over twelve until frequent";
+var mnemonic = "theory dry tooth habit absent lake present volcano link horn harbor follow";

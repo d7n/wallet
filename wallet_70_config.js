@@ -1,1 +1,1 @@
-var mnemonic = "retire banner tree hour execute obey can scrub donkey gown vicious luxury";
+var mnemonic = "scrub shrimp fashion goose orbit average simple silver custom expire present custom";

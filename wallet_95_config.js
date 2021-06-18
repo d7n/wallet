@@ -1,1 +1,1 @@
-var mnemonic = "monster mammal zoo buzz poverty antenna misery leaf live merry document put";
+var mnemonic = "ready system space position memory useful step risk off bulb stereo antique";

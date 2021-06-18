@@ -1,1 +1,1 @@
-var mnemonic = "end cactus rice day tool sad hotel luxury whale chalk valid canvas";
+var mnemonic = "produce clog ski force goose odor labor horn weasel pig collect siren";

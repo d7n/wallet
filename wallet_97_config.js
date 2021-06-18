@@ -1,1 +1,1 @@
-var mnemonic = "daring invite foster innocent penalty ability vendor saddle unit domain become resist";
+var mnemonic = "lunar miss head case network forget material monitor album build theory curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn smile cupboard leave floor melody unable harvest evil mutual sea once";
+var mnemonic = "save start clutch fiction salon donor fat possible pond accuse way cloth";

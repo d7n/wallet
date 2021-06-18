@@ -1,1 +1,1 @@
-var mnemonic = "bring degree sustain income panda remind collect hole debris chalk august river";
+var mnemonic = "recycle title misery weird tuna tonight exist wheat pact cricket census route";

@@ -1,1 +1,1 @@
-var mnemonic = "where dismiss copy daughter differ ball talk ivory afford finish famous great";
+var mnemonic = "network napkin fat jewel angle reveal lemon ball start swift entire skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "defense output winter exact alarm also regular zoo potato fee load illegal";
+var mnemonic = "bubble hub chat victory canoe poet blue member average problem awesome loyal";

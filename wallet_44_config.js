@@ -1,1 +1,1 @@
-var mnemonic = "lemon lock frown fringe paper avoid depend board thing yard wife organ";
+var mnemonic = "tribe banana brand denial shuffle document smile mouse symptom guide burst beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "dune spot hint income scrap onion festival tuition athlete opinion vacuum patrol";
+var mnemonic = "royal ginger desert panic average group vault nerve glimpse fold raw merit";

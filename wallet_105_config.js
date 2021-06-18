@@ -1,1 +1,1 @@
-var mnemonic = "ugly carry avocado coyote tooth winner predict pitch legend library winner parrot";
+var mnemonic = "misery beauty include fatigue nominee treat address once price enact fatigue feature";

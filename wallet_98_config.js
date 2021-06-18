@@ -1,1 +1,1 @@
-var mnemonic = "axis riot joy ridge enlist rib fragile peasant exchange orbit setup emotion";
+var mnemonic = "people cute bag volcano sphere pistol iron honey roast attitude mimic hybrid";

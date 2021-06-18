@@ -1,1 +1,1 @@
-var mnemonic = "pizza lizard wise squirrel twin plunge inhale fat stage curious present mouse";
+var mnemonic = "setup train rug enrich expand term draft renew grid tongue supreme west";

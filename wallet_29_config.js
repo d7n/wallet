@@ -1,1 +1,1 @@
-var mnemonic = "tail shift daughter yard hip cancel exchange entry naive aware bulb royal";
+var mnemonic = "fancy camp prevent virtual enter flush case crumble shift auto december ritual";

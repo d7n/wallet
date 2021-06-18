@@ -1,1 +1,1 @@
-var mnemonic = "balcony liar random magnet gloom aware simple wagon rural repeat pyramid rent";
+var mnemonic = "gasp kitchen alone reward shoulder fox cereal flip gap solve give ritual";

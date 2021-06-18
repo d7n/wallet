@@ -1,1 +1,1 @@
-var mnemonic = "cover reflect imitate actor discover answer burden exchange copper road kiwi castle";
+var mnemonic = "humble camp double zone carpet water hip soul entry survey vanish timber";

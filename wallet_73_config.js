@@ -1,1 +1,1 @@
-var mnemonic = "toilet ride flavor behind explain chronic expect afraid quantum kite violin bar";
+var mnemonic = "knee cigar unable agent people excuse giraffe quantum west sibling turkey shrimp";

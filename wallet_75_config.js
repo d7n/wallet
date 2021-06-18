@@ -1,1 +1,1 @@
-var mnemonic = "permit merit peasant harsh sunny divide exhaust proof auto prefer voyage foam";
+var mnemonic = "cousin lawsuit install toy arctic pretty record degree cost good express yellow";

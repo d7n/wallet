@@ -1,1 +1,1 @@
-var mnemonic = "judge race smile multiply unveil eager bonus snake level alien rate unfair";
+var mnemonic = "grain venture team critic differ pistol rice unit network grant text helmet";

@@ -1,1 +1,1 @@
-var mnemonic = "write fame slow wool fiber west avocado man mixed physical critic drop";
+var mnemonic = "provide dad hire repair egg normal course traffic mass renew gather soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "often boss wreck myth couple seed entire satisfy hello maid dynamic permit";
+var mnemonic = "tomato clock kit window eye laundry assault profit start traffic unable valley";

@@ -1,1 +1,1 @@
-var mnemonic = "hat town mango rug mix sun loud monkey earn play hold impulse";
+var mnemonic = "spoon betray coast occur gather anchor radio glad minute vendor crack evolve";

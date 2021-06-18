@@ -1,1 +1,1 @@
-var mnemonic = "multiply focus miss tower mistake task arch combine burden figure grab put";
+var mnemonic = "follow start remember salute price make region party canoe butter lawsuit doll";

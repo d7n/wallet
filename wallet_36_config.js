@@ -1,1 +1,1 @@
-var mnemonic = "inflict nurse put weekend seek senior marine give dream camera discover thought";
+var mnemonic = "regret change grape mammal clown fatal reflect concert damage bachelor dose yellow";

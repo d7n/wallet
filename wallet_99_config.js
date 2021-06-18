@@ -1,1 +1,1 @@
-var mnemonic = "work company relief salute reopen off kitten taste famous farm reason estate";
+var mnemonic = "machine filter fabric trial slight skirt cotton income tuition autumn behind zero";

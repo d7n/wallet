@@ -1,1 +1,1 @@
-var mnemonic = "cake play blouse patrol wish decorate memory kidney nominee arrow drastic this";
+var mnemonic = "range increase ceiling flower prefer addict valve fold vicious riot blossom donor";

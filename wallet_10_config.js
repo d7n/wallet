@@ -1,1 +1,1 @@
-var mnemonic = "miracle scissors uphold flavor loop fiber museum when light grocery upgrade monitor";
+var mnemonic = "february token mind wide result hunt pulse neck demise next acquire poet";

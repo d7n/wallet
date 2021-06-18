@@ -1,1 +1,1 @@
-var mnemonic = "ranch ocean exact goat deal doctor analyst excuse universe thank trend provide";
+var mnemonic = "boy minute digital member cake extra meadow indoor earn much truck install";

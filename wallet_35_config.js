@@ -1,1 +1,1 @@
-var mnemonic = "calm search search excuse nice round embrace number receive spawn moral gravity";
+var mnemonic = "two vapor tide enhance exotic town drink lake spread traffic address dumb";

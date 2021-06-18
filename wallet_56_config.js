@@ -1,1 +1,1 @@
-var mnemonic = "favorite bunker sure any strike prosper latin smart health thing axis kidney";
+var mnemonic = "spread repeat galaxy another solid muffin dilemma unusual inside guilt stairs impulse";

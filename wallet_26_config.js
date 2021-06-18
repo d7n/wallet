@@ -1,1 +1,1 @@
-var mnemonic = "match nasty skin maple various rather credit siege unfair expand bamboo major";
+var mnemonic = "thunder ability balcony congress shrimp attract glove decline sadness across end tobacco";

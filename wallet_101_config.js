@@ -1,1 +1,1 @@
-var mnemonic = "situate answer velvet invite memory master actual feature brown radar vicious crash";
+var mnemonic = "share arm fragile flee actor simple law cry ridge member club rubber";

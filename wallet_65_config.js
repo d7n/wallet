@@ -1,1 +1,1 @@
-var mnemonic = "kiwi floor filter film van skate hotel coil erode biology apology dice";
+var mnemonic = "victory lunch special horn melody animal road used frown tail parade celery";

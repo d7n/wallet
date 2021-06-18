@@ -1,1 +1,1 @@
-var mnemonic = "surge art option chair amazing come layer weapon miss narrow impulse begin";
+var mnemonic = "unveil ranch pride polar mix aerobic cross force describe shrug budget fragile";

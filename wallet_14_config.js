@@ -1,1 +1,1 @@
-var mnemonic = "gallery turtle save black loud spoil couch pistol change glide ghost hill";
+var mnemonic = "weekend gather glide bicycle hard aunt oppose used soon snow bring traffic";

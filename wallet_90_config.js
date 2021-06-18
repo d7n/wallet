@@ -1,1 +1,1 @@
-var mnemonic = "clog bounce crime swift pave target man slim toast peace squeeze rack";
+var mnemonic = "exact scare planet flower outer trial million gas meat beyond punch lucky";

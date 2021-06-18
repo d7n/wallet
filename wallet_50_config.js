@@ -1,1 +1,1 @@
-var mnemonic = "jazz slight dawn identify behave oxygen cereal van devote length soup glance";
+var mnemonic = "orphan opinion afford wolf divorce border slender giggle office salon energy onion";

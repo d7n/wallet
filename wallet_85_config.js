@@ -1,1 +1,1 @@
-var mnemonic = "razor jump impact island raise cruel drill valve melt mail weapon wage";
+var mnemonic = "gasp shed lazy absurd grass emerge bag awful pole detect entry design";

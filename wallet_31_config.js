@@ -1,1 +1,1 @@
-var mnemonic = "educate captain canal pole voyage trap gallery abstract often wink correct mix";
+var mnemonic = "syrup owner antique sight family suit broken patch latin target snap fog";

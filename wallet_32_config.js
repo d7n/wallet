@@ -1,1 +1,1 @@
-var mnemonic = "fitness ask human resist supreme legal cattle merge custom quote globe chicken";
+var mnemonic = "inject canyon skill smooth foot verb slim kid nice used soccer tragic";

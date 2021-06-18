@@ -1,1 +1,1 @@
-var mnemonic = "neglect squirrel vehicle erode defy expand mass olive alert stereo category swear";
+var mnemonic = "cost ride scan sustain kitten stock dignity ensure main tortoise false hand";

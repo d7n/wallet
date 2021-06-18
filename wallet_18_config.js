@@ -1,1 +1,1 @@
-var mnemonic = "crouch oblige junk orbit office shrimp tired behave useless right warfare grape";
+var mnemonic = "stand this worry that offer speed hunt young shallow when owner forum";

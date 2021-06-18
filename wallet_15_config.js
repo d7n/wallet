@@ -1,1 +1,1 @@
-var mnemonic = "cake term ring fee damp quantum talent satoshi during palm crazy wife";
+var mnemonic = "neglect course pigeon purse title wine web asset cruel social oval asthma";

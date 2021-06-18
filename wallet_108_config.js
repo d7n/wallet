@@ -1,1 +1,1 @@
-var mnemonic = "window swamp quote couch hawk leisure mouse night census become amount effort";
+var mnemonic = "truck choose width three tank smoke edit fat broom fiction sibling charge";

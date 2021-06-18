@@ -1,1 +1,1 @@
-var mnemonic = "combine total umbrella play mercy knee bracket chicken final radar door behave";
+var mnemonic = "purse brain solar good fault modify egg purchase voice donate remember junk";

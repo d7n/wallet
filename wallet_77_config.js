@@ -1,1 +1,1 @@
-var mnemonic = "sustain profit escape half nut today axis board parrot symbol squeeze legend";
+var mnemonic = "scissors bamboo scrub weather trip error evil include where candy second analyst";

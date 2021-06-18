@@ -1,1 +1,1 @@
-var mnemonic = "salt property escape sight angle object venue pull various used offer cream";
+var mnemonic = "rough gloom table island away unusual noodle wisdom brother actress phrase brush";

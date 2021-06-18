@@ -1,1 +1,1 @@
-var mnemonic = "virtual reveal damage sort bubble lecture index width sense swim journey holiday";
+var mnemonic = "code throw power arrest web save knife half strong size pride submit";

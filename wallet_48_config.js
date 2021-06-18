@@ -1,1 +1,1 @@
-var mnemonic = "cycle mutual alter sure goose mistake fence vintage box color brother refuse";
+var mnemonic = "print glare film claw artwork rule luxury strong plate spare author cabbage";

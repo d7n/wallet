@@ -1,1 +1,1 @@
-var mnemonic = "nerve tribe rug fragile warm hunt mask delay such disease type blind";
+var mnemonic = "symptom tornado canoe fashion ankle rack naive direct ship main slide fault";

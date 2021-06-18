@@ -1,1 +1,1 @@
-var mnemonic = "switch drift slender business salmon echo venture game you design animal suit";
+var mnemonic = "trade useless paper brisk heavy inside fog inform attract fuel height myself";

@@ -1,1 +1,1 @@
-var mnemonic = "surround trial little balance april asset proud dizzy angle brush wire grunt";
+var mnemonic = "author forward peace effort scene innocent service slot leisure service stage proud";

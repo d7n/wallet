@@ -1,1 +1,1 @@
-var mnemonic = "mountain chuckle obey call sort tube eye fuel betray female air invest";
+var mnemonic = "loyal soldier rocket multiply tumble sunny property motion mobile beauty promote surround";

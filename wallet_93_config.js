@@ -1,1 +1,1 @@
-var mnemonic = "lamp same mirror chicken because lonely segment gym swift local curve pottery";
+var mnemonic = "olive sniff galaxy ticket where extra injury nothing ensure group pill more";

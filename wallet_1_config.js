@@ -1,1 +1,1 @@
-var mnemonic = "arch project defense hello rabbit bonus scissors spatial debate various buddy razor";
+var mnemonic = "region police image setup inform depth fury pattern world mushroom choice shell";

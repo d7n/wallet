@@ -1,1 +1,1 @@
-var mnemonic = "future program nice breeze sunny exercise another sunset what churn vintage special";
+var mnemonic = "roof genius fiber dish wreck dignity purpose spray inspire motor climb coin";

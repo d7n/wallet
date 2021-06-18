@@ -1,1 +1,1 @@
-var mnemonic = "rib brown another cricket wood radio scorpion brother system erase engage pattern";
+var mnemonic = "rib success height violin suspect dentist scorpion call ivory check ensure board";

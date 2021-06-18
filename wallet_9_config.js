@@ -1,1 +1,1 @@
-var mnemonic = "february nice basic stable cover lock emotion habit jealous print found dirt";
+var mnemonic = "coyote autumn garbage mother echo undo stadium sight profit address spot ranch";

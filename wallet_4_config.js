@@ -1,1 +1,1 @@
-var mnemonic = "reason antique gadget city upper bundle claw leader salon tragic stool visa";
+var mnemonic = "cable still dolphin clutch state service amused slim rose license trophy sweet";

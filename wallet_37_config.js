@@ -1,1 +1,1 @@
-var mnemonic = "mystery riot noise lion brand response boy lecture company lizard elite logic";
+var mnemonic = "nurse science puzzle include taxi daring family lava ability wash thank swift";

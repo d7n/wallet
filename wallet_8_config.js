@@ -1,1 +1,1 @@
-var mnemonic = "pause network catalog slab smart need easily tribe bread gift jaguar warrior";
+var mnemonic = "tube test frown become useless above report couple old festival survey leisure";

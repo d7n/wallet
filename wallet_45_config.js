@@ -1,1 +1,1 @@
-var mnemonic = "abandon true number cloud genius current cream buffalo vibrant sphere despair isolate";
+var mnemonic = "evoke area luxury present frozen office midnight hedgehog bird produce have sword";

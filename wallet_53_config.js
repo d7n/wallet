@@ -1,1 +1,1 @@
-var mnemonic = "success blanket addict burger indicate roof pave throw bleak inherit embrace citizen";
+var mnemonic = "always shaft opinion hurt steak captain okay winter wood crawl decade ignore";

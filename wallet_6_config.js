@@ -1,1 +1,1 @@
-var mnemonic = "response whisper inform trap patch penalty dice utility run bottom fringe chef";
+var mnemonic = "trust panda weekend oval wise peace mystery salt pass hold scare response";

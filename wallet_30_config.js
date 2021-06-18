@@ -1,1 +1,1 @@
-var mnemonic = "fun taste keen step country feature bronze master normal strike horse beef";
+var mnemonic = "reject audit notable gesture prison chuckle learn task fabric section riot soft";

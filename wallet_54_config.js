@@ -1,1 +1,1 @@
-var mnemonic = "index fee squeeze match empty blame virtual bacon endless sleep exhaust teach";
+var mnemonic = "match tornado scale lobster beef upper flash one chief dash coach morning";

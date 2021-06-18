@@ -1,1 +1,1 @@
-var mnemonic = "devote little little interest decade brass stay crucial vocal rare woman wide";
+var mnemonic = "address trip marriage jeans electric hold farm student length pride clay dry";

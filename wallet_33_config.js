@@ -1,1 +1,1 @@
-var mnemonic = "catalog column glance broken busy kit ribbon skill prison old emerge spirit";
+var mnemonic = "wife gate aim satoshi target destroy crew dignity category office panther supply";

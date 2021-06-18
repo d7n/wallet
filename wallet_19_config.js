@@ -1,1 +1,1 @@
-var mnemonic = "reflect what pattern style pony stem guard today iron tray enter plug";
+var mnemonic = "fade beach tunnel decline rural another humor sustain annual skin father build";

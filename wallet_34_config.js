@@ -1,1 +1,1 @@
-var mnemonic = "style dignity abuse meat agent swarm welcome decrease regular segment deliver position";
+var mnemonic = "smooth matrix liar hen flame emotion flush walk economy virus age system";

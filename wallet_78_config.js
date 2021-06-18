@@ -1,1 +1,1 @@
-var mnemonic = "opera across affair element bubble autumn obvious cost behave tiny job weapon";
+var mnemonic = "universe bone firm response october crowd symptom rigid thumb road toe term";

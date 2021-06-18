@@ -1,1 +1,1 @@
-var mnemonic = "adjust check sunset walnut smoke tiny grace invest snake solar scrap mule";
+var mnemonic = "edge monster field regret oxygen seven vote insane sauce twice music style";

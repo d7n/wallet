@@ -1,1 +1,1 @@
-var mnemonic = "appear radio trash control ensure laundry dish crew room exhaust robot hand";
+var mnemonic = "inherit absorb measure supply tackle gloom cotton orphan make cruel park until";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme burst raccoon transfer fetch dirt only wool cake rate surge swing";
+var mnemonic = "useful ribbon sell vault suspect capable empower purity boost giraffe walnut approve";

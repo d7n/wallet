@@ -1,1 +1,1 @@
-var mnemonic = "model husband kit sugar sight public tennis gloom include ketchup remove oak";
+var mnemonic = "vicious blame head comfort depart food camera settle hello voice choose miss";

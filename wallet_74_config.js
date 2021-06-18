@@ -1,1 +1,1 @@
-var mnemonic = "super produce paddle frame eternal once water spoon black manage vicious penalty";
+var mnemonic = "chase taste real life tone extend clog box two penalty range state";

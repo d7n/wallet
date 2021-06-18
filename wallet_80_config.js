@@ -1,1 +1,1 @@
-var mnemonic = "oval future borrow fury roof install draft olympic silk panic vast silent";
+var mnemonic = "blade unfair orient cable forum drop allow magic practice cream tank element";

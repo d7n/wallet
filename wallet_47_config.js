@@ -1,1 +1,1 @@
-var mnemonic = "what alien air nut leisure twin soul step man dolphin tattoo pledge";
+var mnemonic = "key blush rib decide answer tired crowd guess account turtle company trouble";

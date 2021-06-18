@@ -1,1 +1,1 @@
-var mnemonic = "sniff chef genre crumble two shock staff sketch noble essence domain antenna";
+var mnemonic = "nut warfare dash gain snack trim leg potato business choose bracket leopard";

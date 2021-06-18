@@ -1,1 +1,1 @@
-var mnemonic = "sand panic exist forum finger waste drop medal fame depend verb way";
+var mnemonic = "fiber chimney insane screen alien faith yellow profit large copper nothing control";

@@ -1,1 +1,1 @@
-var mnemonic = "naive valid imitate explain trip fruit silk hotel trumpet cactus radio day";
+var mnemonic = "park permit runway chief country message common economy frame cloth learn endless";

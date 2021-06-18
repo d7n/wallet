@@ -1,1 +1,1 @@
-var mnemonic = "miracle gain involve wagon sing machine you topic cool early sentence grit";
+var mnemonic = "analyst tattoo apart absorb occur season vacant settle citizen dry review obscure";

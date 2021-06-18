@@ -1,1 +1,1 @@
-var mnemonic = "veteran spell anger pole chaos soft area machine clown foil option inhale";
+var mnemonic = "mail glove model stuff silent basic acid inquiry mad lady culture hockey";

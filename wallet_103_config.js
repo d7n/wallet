@@ -1,1 +1,1 @@
-var mnemonic = "fold orange metal vault silent thumb raise spray series nasty margin candy";
+var mnemonic = "egg save teach stumble program fatal rural fall practice visit parade dirt";

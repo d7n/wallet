@@ -1,1 +1,1 @@
-var mnemonic = "broccoli cabbage such ghost strategy purpose infant gadget voyage imitate reason ridge";
+var mnemonic = "skill fringe subject simple saddle tool ritual recycle bless glue bless season";

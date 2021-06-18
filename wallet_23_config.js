@@ -1,1 +1,1 @@
-var mnemonic = "raw treat submit term dawn punch bind disagree produce position airport room";
+var mnemonic = "family fence ranch core merry silly arrow february battle assault range phrase";

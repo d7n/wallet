@@ -1,1 +1,1 @@
-var mnemonic = "minor wrap favorite add sadness glow reject crane robot trip cradle nose";
+var mnemonic = "net maximum link manage ice imitate dolphin situate enforce shy small spot";
