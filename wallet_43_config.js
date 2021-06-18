@@ -1,1 +1,1 @@
-var mnemonic = "coin among mixed able adult slice flush churn hope snow lens funny";
+var mnemonic = "useful decorate catalog escape entire glue despair tree turn february birth hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "duty lunar void device domain fossil wasp stumble uncle clinic crunch stove";
+var mnemonic = "siren return life soul toss prepare require fiction tube real tool banana";

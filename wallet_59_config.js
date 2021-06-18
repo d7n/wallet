@@ -1,1 +1,1 @@
-var mnemonic = "husband fashion since cream nerve behind fitness pony grunt card crush slender";
+var mnemonic = "way tuition also arrive bench leg idea bright midnight fine oyster circle";

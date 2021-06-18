@@ -1,1 +1,1 @@
-var mnemonic = "hungry harvest jewel fetch bird mansion myth burst unfold nurse actor detail";
+var mnemonic = "salon viable fun mercy ghost custom around tilt pride strategy brother detect";

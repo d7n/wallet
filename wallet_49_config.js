@@ -1,1 +1,1 @@
-var mnemonic = "post loyal pulp test borrow real exit narrow put fix control guard";
+var mnemonic = "paper organ source earn rib recall endorse business staff enter forget liberty";

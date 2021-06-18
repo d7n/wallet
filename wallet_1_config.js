@@ -1,1 +1,1 @@
-var mnemonic = "plastic jungle grain acid child shed better heart nerve input display depend";
+var mnemonic = "general space army gain canoe exhaust horn draw wait coconut anchor ring";

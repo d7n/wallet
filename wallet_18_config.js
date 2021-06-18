@@ -1,1 +1,1 @@
-var mnemonic = "heavy warrior various wise tray bridge involve admit outer about bulb deposit";
+var mnemonic = "anxiety victory twelve know vanish ride foil sting inhale total artefact know";

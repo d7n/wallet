@@ -1,1 +1,1 @@
-var mnemonic = "office item busy festival brick when fashion element plug process dolphin file";
+var mnemonic = "snow genuine room cheap hazard harbor raw popular stand learn work gospel";

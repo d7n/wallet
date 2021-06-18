@@ -1,1 +1,1 @@
-var mnemonic = "volcano furnace drill kitten sand health need morning woman maid unique blossom";
+var mnemonic = "again ten expect reduce fold decide dog hand word spray buyer busy";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder girl tell real second dragon main tuition decide monitor happy issue";
+var mnemonic = "refuse quarter address parade cotton pioneer october opinion display shop cost stomach";

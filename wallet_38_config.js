@@ -1,1 +1,1 @@
-var mnemonic = "shop despair lock valve clown guess impose ozone priority monitor fame wife";
+var mnemonic = "apart distance aspect trumpet ability soon link century ship sail huge fury";

@@ -1,1 +1,1 @@
-var mnemonic = "story believe bonus anchor young lucky coil husband actor river release hospital";
+var mnemonic = "coin friend shell hurry spell hollow pencil edit rent gauge special arrest";

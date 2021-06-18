@@ -1,1 +1,1 @@
-var mnemonic = "scorpion dune exclude secret orange myself either roast season quit ostrich dog";
+var mnemonic = "outer arrive absorb pen castle rose fox empower amazing night wolf bike";

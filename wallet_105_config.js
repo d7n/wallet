@@ -1,1 +1,1 @@
-var mnemonic = "key disorder nominee upper powder control busy member cliff bunker arrow prize";
+var mnemonic = "donor mountain lake sample impulse blast angle milk recall idea cloth marble";

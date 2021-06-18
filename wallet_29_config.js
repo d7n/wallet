@@ -1,1 +1,1 @@
-var mnemonic = "glare act address panic dinosaur inch split oyster possible soccer orchard brother";
+var mnemonic = "grain evolve neglect modify hire favorite skull pulse wrong social bike receive";

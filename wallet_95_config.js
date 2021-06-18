@@ -1,1 +1,1 @@
-var mnemonic = "simple plug like misery sister later piece dust antenna summer caution switch";
+var mnemonic = "boil medal list conduct creek action pyramid gain broom time sheriff require";

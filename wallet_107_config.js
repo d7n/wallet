@@ -1,1 +1,1 @@
-var mnemonic = "okay lock shine depth latin scare gesture media awful elder process shock";
+var mnemonic = "pulp club powder nature nurse scene buzz clerk romance legal fox pony";

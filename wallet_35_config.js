@@ -1,1 +1,1 @@
-var mnemonic = "divorce define vocal when build lawsuit indicate letter fossil bomb wasp pistol";
+var mnemonic = "door nature license celery genuine panda gallery shoot expire ability group trash";

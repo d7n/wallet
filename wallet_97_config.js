@@ -1,1 +1,1 @@
-var mnemonic = "front garage type mention panther original wine toilet silk pact husband luxury";
+var mnemonic = "stage metal gather warfare follow peace trash crime salad aerobic team current";

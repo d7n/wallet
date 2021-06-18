@@ -1,1 +1,1 @@
-var mnemonic = "vacant mystery pony ask neglect cover magic lonely hat mimic stock minimum";
+var mnemonic = "prepare retire title alone gorilla guide science bus excess thrive prepare unhappy";

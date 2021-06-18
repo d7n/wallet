@@ -1,1 +1,1 @@
-var mnemonic = "crisp hub elder either furnace rally behind raise camp ketchup rotate slide";
+var mnemonic = "capital point prevent dizzy shove crouch warfare door clump fox valid mobile";

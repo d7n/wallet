@@ -1,1 +1,1 @@
-var mnemonic = "excuse acid devote million appear inside valve ill tide toward hospital enhance";
+var mnemonic = "orient boat escape captain shell ecology margin steak wheel void cage undo";

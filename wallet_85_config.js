@@ -1,1 +1,1 @@
-var mnemonic = "zero under metal victory suit term snack two tone spend prevent steak";
+var mnemonic = "differ chest grit leave night palace notable celery turtle again cricket fiber";

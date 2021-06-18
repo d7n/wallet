@@ -1,1 +1,1 @@
-var mnemonic = "welcome element basic whale absurd engage unable mask impact unaware easy brand";
+var mnemonic = "panda rigid salad range ocean long decorate cram consider repair rose nut";

@@ -1,1 +1,1 @@
-var mnemonic = "skate trial sibling produce people board wrong harsh job announce aspect art";
+var mnemonic = "upset that save keep style wave garage envelope acoustic practice actual frog";

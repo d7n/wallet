@@ -1,1 +1,1 @@
-var mnemonic = "assault view family also horror combine number battle brief grass injury attack";
+var mnemonic = "wise rally fan practice such cactus tank phrase limit trade just luxury";

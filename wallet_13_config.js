@@ -1,1 +1,1 @@
-var mnemonic = "excess final already person brass rose manage mirror wrong arrive isolate soul";
+var mnemonic = "sing slot obey impulse struggle defy feed wire race slow fat end";

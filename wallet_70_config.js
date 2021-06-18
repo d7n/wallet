@@ -1,1 +1,1 @@
-var mnemonic = "bamboo uphold tackle excuse drastic fit infant pave orchard empower trade reduce";
+var mnemonic = "umbrella lock brown ask hotel question lawn explain bleak recall tail grocery";

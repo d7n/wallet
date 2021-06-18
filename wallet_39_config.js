@@ -1,1 +1,1 @@
-var mnemonic = "rich pitch leg twice afraid grace supply coin honey regret satisfy spider";
+var mnemonic = "merit angry joke symbol half butter power absurd field useless sustain blouse";

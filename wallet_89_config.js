@@ -1,1 +1,1 @@
-var mnemonic = "shaft reform team news beyond fat collect roast health mass voice pool";
+var mnemonic = "travel potato unable radar mobile crystal clap minimum cable engage gorilla rescue";

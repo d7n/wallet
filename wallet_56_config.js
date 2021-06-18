@@ -1,1 +1,1 @@
-var mnemonic = "island school hat curtain equip diary company excite push umbrella model normal";
+var mnemonic = "this hawk trip frost cycle junk equip only index crumble mixed giraffe";

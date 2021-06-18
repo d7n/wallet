@@ -1,1 +1,1 @@
-var mnemonic = "next sentence picnic snack crunch about phrase joy engine replace eyebrow liberty";
+var mnemonic = "brick help genuine shadow midnight eyebrow garment close cement visit ginger treat";

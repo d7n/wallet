@@ -1,1 +1,1 @@
-var mnemonic = "diamond brisk fabric ceiling opera exotic armed bronze novel series kitchen action";
+var mnemonic = "stand liberty own carpet mesh flower few wild water edit spray toe";

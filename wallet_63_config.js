@@ -1,1 +1,1 @@
-var mnemonic = "chronic push title sheriff kid hunt mammal prevent vacant buffalo truck tuna";
+var mnemonic = "damage toward rifle silly month romance quote segment guess soft this umbrella";

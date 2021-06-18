@@ -1,1 +1,1 @@
-var mnemonic = "mule hello harvest icon shift couch armor relief crawl used insect club";
+var mnemonic = "nuclear chief float way fog retire cruise fancy inner tornado black manual";

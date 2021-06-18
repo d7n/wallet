@@ -1,1 +1,1 @@
-var mnemonic = "ceiling scissors napkin medal together engine bitter into light critic also wealth";
+var mnemonic = "kiss answer until uniform curve cherry vibrant weird primary absurd pulp warfare";

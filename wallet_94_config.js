@@ -1,1 +1,1 @@
-var mnemonic = "garlic hope animal squeeze bullet ordinary gorilla mule ostrich motion cross disagree";
+var mnemonic = "design occur crop lottery debate walk helmet biology traffic minute mirror shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "burst effort village range example burst just cargo leave solution mechanic organ";
+var mnemonic = "about one oval poet immune engage exclude whale tent sail pattern image";

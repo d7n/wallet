@@ -1,1 +1,1 @@
-var mnemonic = "north shrug battle renew mixture milk divert tuition pave dizzy tribe vehicle";
+var mnemonic = "come recall accident bracket rough wedding erode misery soup echo rent aspect";

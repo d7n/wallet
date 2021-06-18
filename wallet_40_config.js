@@ -1,1 +1,1 @@
-var mnemonic = "error grape song senior machine cake clog game conduct tomato proud lazy";
+var mnemonic = "degree choice truth sand broccoli junior time organ oval feature diamond cable";

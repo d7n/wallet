@@ -1,1 +1,1 @@
-var mnemonic = "dentist ecology tail repeat sure faint mandate rent pool nation organ vicious";
+var mnemonic = "seek essay erase alarm evil verb drip nephew act stand disorder two";

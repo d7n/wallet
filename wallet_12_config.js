@@ -1,1 +1,1 @@
-var mnemonic = "canvas speak woman when second siren satisfy hip raccoon smart hockey inner";
+var mnemonic = "bunker doll vapor void couple deposit fuel box kid accuse worry priority";

@@ -1,1 +1,1 @@
-var mnemonic = "hero royal pigeon other melody hurt script paddle until impact rack bamboo";
+var mnemonic = "woman below caution noise defense broccoli welcome curious phone proof trigger distance";

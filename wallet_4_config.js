@@ -1,1 +1,1 @@
-var mnemonic = "father penalty tuna labor dilemma join crunch autumn cover argue myth jelly";
+var mnemonic = "cook build enemy among night exhibit return page globe dust favorite wisdom";

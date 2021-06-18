@@ -1,1 +1,1 @@
-var mnemonic = "few member wall dolphin run laugh arrow master crater talk exclude spike";
+var mnemonic = "oak opinion bicycle example tuna about choose firm keen step claim siren";

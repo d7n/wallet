@@ -1,1 +1,1 @@
-var mnemonic = "oppose hen news welcome brush wide horse moon purse glance source lens";
+var mnemonic = "elegant comic bird claw sudden tray season crew elephant plunge spice garbage";

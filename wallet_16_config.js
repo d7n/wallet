@@ -1,1 +1,1 @@
-var mnemonic = "patient couch guess repeat humor dream unit crop spread yellow census enemy";
+var mnemonic = "cradle orient boss entry talent crush orange history idea traffic empty lazy";

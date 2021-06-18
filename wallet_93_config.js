@@ -1,1 +1,1 @@
-var mnemonic = "split stand stem fetch atom guilt solid pudding blade palm already great";
+var mnemonic = "brown upon miracle quantum road hamster nephew cause unhappy ocean way affair";

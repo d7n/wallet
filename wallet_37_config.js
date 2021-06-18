@@ -1,1 +1,1 @@
-var mnemonic = "radio best mystery expect case supreme admit all rose gadget lazy together";
+var mnemonic = "swamp okay oxygen frame salon chief shield swing timber tiger slight huge";

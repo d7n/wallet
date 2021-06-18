@@ -1,1 +1,1 @@
-var mnemonic = "around satisfy swim rookie stock rule spy fence brief surround method unaware";
+var mnemonic = "wild illness produce talk young brave sure guitar pink logic depart orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "plug tissue drum final fatal better bridge federal reflect tattoo region height";
+var mnemonic = "illegal twelve amused share close inch motion arch accident enough trumpet wheat";

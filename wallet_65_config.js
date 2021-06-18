@@ -1,1 +1,1 @@
-var mnemonic = "useful diary crowd index doll camera enjoy busy worry false fever mountain";
+var mnemonic = "army test victory fiscal clay code myth doll stairs excite connect nominee";

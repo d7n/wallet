@@ -1,1 +1,1 @@
-var mnemonic = "example wash favorite romance garage sea hungry prefer busy sadness exhibit gate";
+var mnemonic = "girl right february lab cargo round sick robust proof slogan couch park";

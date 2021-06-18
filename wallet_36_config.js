@@ -1,1 +1,1 @@
-var mnemonic = "glory inspire police brisk penalty wall dish juice hospital ketchup craft gaze";
+var mnemonic = "write cash enroll citizen acquire hold pull garlic pipe urban goddess often";

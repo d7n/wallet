@@ -1,1 +1,1 @@
-var mnemonic = "pig thumb answer immune sauce define prison grunt narrow super apple summer";
+var mnemonic = "actual merry pulse educate moral apology culture laugh afford resist answer tilt";

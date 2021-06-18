@@ -1,1 +1,1 @@
-var mnemonic = "endless lobster bench mention neck animal social vessel price public hundred pond";
+var mnemonic = "noise sudden aerobic hard liberty mask wire copper fury cave hen curious";

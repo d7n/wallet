@@ -1,1 +1,1 @@
-var mnemonic = "mouse come window method night cousin cancel trim number glimpse term liar";
+var mnemonic = "oppose kiwi switch abstract survey verify multiply practice glide chapter trip around";

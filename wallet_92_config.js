@@ -1,1 +1,1 @@
-var mnemonic = "squeeze dad physical daughter album dizzy fruit betray answer before domain retire";
+var mnemonic = "one muffin accident first reveal address habit virus dumb night embark provide";

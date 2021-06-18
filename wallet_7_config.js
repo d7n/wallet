@@ -1,1 +1,1 @@
-var mnemonic = "saddle limb equal soldier promote design climb jeans mammal rapid deputy access";
+var mnemonic = "special clay arm conduct rib shift festival meadow history awake ripple bright";

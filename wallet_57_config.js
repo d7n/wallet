@@ -1,1 +1,1 @@
-var mnemonic = "nation injury unfold endorse repair tape muscle all half valve credit vehicle";
+var mnemonic = "brother method stove play win donkey crane clever maple work tiny winner";

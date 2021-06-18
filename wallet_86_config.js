@@ -1,1 +1,1 @@
-var mnemonic = "attitude chair genuine coil jazz weapon board slam cheese float certain festival";
+var mnemonic = "heart spoon liar pass glare whisper kick ridge bacon auction calm hip";

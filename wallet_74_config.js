@@ -1,1 +1,1 @@
-var mnemonic = "lamp ivory promote settle govern market rival trend vital scout clinic lumber";
+var mnemonic = "suit enforce appear wait sing kick exact coyote plate weasel oval bring";

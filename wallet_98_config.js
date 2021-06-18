@@ -1,1 +1,1 @@
-var mnemonic = "stage bean holiday symbol guilt vehicle arm young shiver pair matter brick";
+var mnemonic = "coast then excite clog enough screen wear end bulk industry monkey pool";

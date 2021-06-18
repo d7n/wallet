@@ -1,1 +1,1 @@
-var mnemonic = "melody local segment oblige metal sting head clog rabbit squirrel kiwi flight";
+var mnemonic = "bench jungle earn between lemon cause possible tuna prepare gallery organ chapter";

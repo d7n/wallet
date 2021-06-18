@@ -1,1 +1,1 @@
-var mnemonic = "razor field ankle rent bid clutch trumpet depart survey gym reduce judge";
+var mnemonic = "match price alone recipe trade enroll dinosaur kick demise chase bargain base";

@@ -1,1 +1,1 @@
-var mnemonic = "live region cup badge woman damage security outdoor diesel undo record young";
+var mnemonic = "cube brick minor stumble cry satoshi enough fork monster fatigue chat omit";

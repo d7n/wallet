@@ -1,1 +1,1 @@
-var mnemonic = "winner hazard toss fold bracket aspect jungle pool choice midnight advance evil";
+var mnemonic = "wet injury usage crash common dismiss machine crack wrist fortune sibling slush";

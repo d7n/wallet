@@ -1,1 +1,1 @@
-var mnemonic = "pupil magnet run color pull sample future behind banner pledge funny text";
+var mnemonic = "culture index enrich balcony solution congress deer engage fever bright unlock razor";

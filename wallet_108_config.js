@@ -1,1 +1,1 @@
-var mnemonic = "reflect acoustic lobster that tooth immune when deputy future hamster stairs word";
+var mnemonic = "awesome awkward proud practice panda resource version life poverty heavy effort park";

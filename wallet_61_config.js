@@ -1,1 +1,1 @@
-var mnemonic = "matter recipe shoot rail stove gas intact receive clip tongue trash steel";
+var mnemonic = "fuel shoot curious nurse image bar ask either seminar tip huge winner";

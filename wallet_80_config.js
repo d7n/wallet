@@ -1,1 +1,1 @@
-var mnemonic = "pledge tip key card fossil shed shove bridge depart palm sunny smooth";
+var mnemonic = "goat champion invite pear enroll kick beef multiply powder alpha guitar bronze";

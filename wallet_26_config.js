@@ -1,1 +1,1 @@
-var mnemonic = "when trade avoid mistake legal village brand wage mushroom robust common soccer";
+var mnemonic = "pill profit suspect gravity suggest two income series moral web lonely glove";

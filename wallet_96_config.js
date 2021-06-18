@@ -1,1 +1,1 @@
-var mnemonic = "typical nothing reflect advance ecology report acid misery egg shed auction assault";
+var mnemonic = "wear modify august barrel shrimp brick grunt gorilla spend portion chalk coyote";

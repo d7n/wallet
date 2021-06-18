@@ -1,1 +1,1 @@
-var mnemonic = "entire inmate walnut plunge eye fame liberty video cable such reunion anxiety";
+var mnemonic = "exile basic equip situate save thrive like pupil address garment canvas spice";

@@ -1,1 +1,1 @@
-var mnemonic = "soul favorite jewel fame indicate machine involve upper wreck now foster erode";
+var mnemonic = "pause treat impact mad action bread thank squirrel album merry water beauty";

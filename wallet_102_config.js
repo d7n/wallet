@@ -1,1 +1,1 @@
-var mnemonic = "shop seek pottery forest style furnace gospel guess rose jaguar push crash";
+var mnemonic = "napkin hurt normal chef hope firm announce member thumb adult assume toy";

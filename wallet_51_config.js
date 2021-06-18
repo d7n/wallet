@@ -1,1 +1,1 @@
-var mnemonic = "danger surprise episode wild sense ethics general calm point innocent void just";
+var mnemonic = "kick nephew arrive rain ring enough inquiry lawsuit buddy keep theme peace";

@@ -1,1 +1,1 @@
-var mnemonic = "apple anxiety print small round two roast one document pass way cargo";
+var mnemonic = "muscle canal wash fossil shield caught eyebrow pipe peace shed giraffe convince";

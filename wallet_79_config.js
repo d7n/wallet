@@ -1,1 +1,1 @@
-var mnemonic = "bone near vibrant talent person lesson pet industry spring morning dinosaur link";
+var mnemonic = "lens soup alert tonight video modify width cloud series universe uphold police";

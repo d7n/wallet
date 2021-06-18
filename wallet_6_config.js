@@ -1,1 +1,1 @@
-var mnemonic = "derive elder math conduct allow wheel eagle section return radio pottery submit";
+var mnemonic = "model gadget spring method prize salt pepper glimpse strike hedgehog lamp castle";

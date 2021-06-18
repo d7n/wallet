@@ -1,1 +1,1 @@
-var mnemonic = "differ mixed opinion fold autumn tired deputy affair future timber soft tape";
+var mnemonic = "lizard scatter cigar thing speed travel vivid cinnamon aunt surround margin enact";

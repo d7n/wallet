@@ -1,1 +1,1 @@
-var mnemonic = "knock expose install rapid salute appear ball salmon sibling spot announce please";
+var mnemonic = "company car news suffer grief hedgehog sword upon firm major town body";

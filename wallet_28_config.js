@@ -1,1 +1,1 @@
-var mnemonic = "ankle six south swap hollow human clarify warfare hen state retire vast";
+var mnemonic = "jungle similar similar shuffle razor dizzy emotion moral wide head abuse custom";

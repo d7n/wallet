@@ -1,1 +1,1 @@
-var mnemonic = "student blind original minimum jazz suit adapt swear hotel column near salute";
+var mnemonic = "common hamster saddle drastic cruise feel antique curious pluck few length income";

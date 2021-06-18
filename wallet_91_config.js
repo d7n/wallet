@@ -1,1 +1,1 @@
-var mnemonic = "vital also sister minimum shadow dumb feature ketchup copy remind polar snack";
+var mnemonic = "humor taxi neck woman feed horse dose voice sustain hero angry armed";

@@ -1,1 +1,1 @@
-var mnemonic = "error island tell bid bunker forget motion seek crouch dream shove small";
+var mnemonic = "luxury veteran bomb grace dutch fault long clock surge scheme bacon spring";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle whale example other custom whip wreck core brass organ hood strong";
+var mnemonic = "demand family gauge angry job crawl ranch series renew lucky large control";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle wait tonight reveal chest know fiction grant that busy mouse oppose";
+var mnemonic = "junior much trim trophy attitude cupboard page faith tuna embrace other net";

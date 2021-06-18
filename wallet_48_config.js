@@ -1,1 +1,1 @@
-var mnemonic = "fade lyrics fuel entry dragon share grass provide large picnic lawn either";
+var mnemonic = "plate moment proud daughter scene start urban dust charge gold acoustic about";

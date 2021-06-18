@@ -1,1 +1,1 @@
-var mnemonic = "fashion ask disagree air machine skirt phrase inflict soon swarm giggle reopen";
+var mnemonic = "agent wonder resource room accident juice where slush inmate eight tortoise ridge";
