@@ -1,1 +1,1 @@
-var mnemonic = "ten youth amused mixture calm tired height oval marriage polar regret hub";
+var mnemonic = "sister pluck you between race catch knee number one around turkey february";

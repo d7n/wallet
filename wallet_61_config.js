@@ -1,1 +1,1 @@
-var mnemonic = "decide pause shove weapon write pretty diesel shine venture opera chair tank";
+var mnemonic = "keen slot relief manual battle salt exotic brisk cinnamon debate bachelor execute";

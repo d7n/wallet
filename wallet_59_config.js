@@ -1,1 +1,1 @@
-var mnemonic = "magnet result undo throw arctic brave pen scan fancy own club cereal";
+var mnemonic = "elevator tobacco cable holiday correct bachelor sport during wealth reward equip diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel ski donate betray rocket duck day tissue sausage net defense clinic";
+var mnemonic = "problem damp try salmon sustain goddess approve filter entire extra across taxi";

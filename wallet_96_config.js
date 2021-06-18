@@ -1,1 +1,1 @@
-var mnemonic = "income social hard gesture range lunch sail utility client cheese flight alarm";
+var mnemonic = "wheel light path initial loan industry invest rival gadget twenty subject cage";

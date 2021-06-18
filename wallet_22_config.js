@@ -1,1 +1,1 @@
-var mnemonic = "gown armor alley alone era genius corn dignity isolate define crane deposit";
+var mnemonic = "nut novel detect bean crack filter all evil skull fit snow absorb";

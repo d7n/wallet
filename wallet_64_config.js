@@ -1,1 +1,1 @@
-var mnemonic = "please copy scissors soup brain judge keep eye divorce scene dinosaur peanut";
+var mnemonic = "talent amateur walk make tonight embrace latin hurt robust glory fashion funny";

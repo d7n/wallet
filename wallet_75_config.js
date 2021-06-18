@@ -1,1 +1,1 @@
-var mnemonic = "squirrel click recipe traffic lonely resource orient december hunt unfair increase hub";
+var mnemonic = "around ill power follow tomato sausage old canyon bacon super cinnamon illegal";

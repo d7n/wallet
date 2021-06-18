@@ -1,1 +1,1 @@
-var mnemonic = "crater genius crumble fine follow cram gorilla almost monitor shoot cat please";
+var mnemonic = "charge blind burden slot excite bulb side throw stomach cruel blanket zero";

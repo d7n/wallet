@@ -1,1 +1,1 @@
-var mnemonic = "strategy enlist average face snake old sauce future monitor picnic bargain cinnamon";
+var mnemonic = "hood grace diary cluster bus today february congress mosquito caught coral decline";

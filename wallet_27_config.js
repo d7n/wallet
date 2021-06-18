@@ -1,1 +1,1 @@
-var mnemonic = "cupboard keep risk tip initial element merge client best portion all gather";
+var mnemonic = "scheme piece anxiety pigeon canal devote galaxy swamp entire approve beauty couple";

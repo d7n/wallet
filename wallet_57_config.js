@@ -1,1 +1,1 @@
-var mnemonic = "feature glare summer load bean ozone curtain assume exhibit laptop weasel decade";
+var mnemonic = "abandon network oak laundry shuffle jeans waste spring spawn table net shift";

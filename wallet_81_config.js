@@ -1,1 +1,1 @@
-var mnemonic = "spoon manual intact chief alien rain soft pattern visit fade melody burger";
+var mnemonic = "rookie limb object dynamic swallow piece system easy outer olympic habit enough";

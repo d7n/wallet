@@ -1,1 +1,1 @@
-var mnemonic = "ski danger cliff draft relief jungle egg parade voyage chase sell arctic";
+var mnemonic = "wheat shallow wall ordinary polar cruel scale soccer window sibling candy diagram";

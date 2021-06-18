@@ -1,1 +1,1 @@
-var mnemonic = "dish inject occur tuition tissue state myself learn fitness type auto essence";
+var mnemonic = "mechanic fiber length lounge auto obtain peanut ordinary describe system expire fiction";

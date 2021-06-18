@@ -1,1 +1,1 @@
-var mnemonic = "animal inmate tobacco axis myth toy gravity hobby crouch size express pair";
+var mnemonic = "idea guitar ordinary sing winner junk room open debate page you plug";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper ordinary list hybrid strategy alert copy throw lazy more song rain";
+var mnemonic = "media lady nominee child nurse hour charge cousin spy burden wall liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "van poet hamster rubber wealth old inside either lake elite brother base";
+var mnemonic = "awful ill wave find seven replace belt basket manual about gown problem";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch rose arch original cost super pass army decade panda festival enforce";
+var mnemonic = "corn license color tone renew focus universe six chuckle issue cloth coach";

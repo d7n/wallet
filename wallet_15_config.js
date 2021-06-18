@@ -1,1 +1,1 @@
-var mnemonic = "width feature april best battle east bike patrol valley skate recall barrel";
+var mnemonic = "drastic artwork keep example vehicle follow elevator rail wing olympic hover depart";

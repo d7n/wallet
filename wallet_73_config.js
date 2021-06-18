@@ -1,1 +1,1 @@
-var mnemonic = "tragic walk nasty mountain trophy oxygen job veteran guitar jelly canoe gift";
+var mnemonic = "together weird bike damage team screen dwarf era share check lend tragic";

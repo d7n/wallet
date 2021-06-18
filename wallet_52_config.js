@@ -1,1 +1,1 @@
-var mnemonic = "connect soap stock reduce apology mansion escape maximum badge toss planet traffic";
+var mnemonic = "mixed dose unlock silent story rail fever test enter put sudden ice";

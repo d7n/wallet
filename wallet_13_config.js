@@ -1,1 +1,1 @@
-var mnemonic = "depart palm clip duck robot shrug mosquito hurdle sand gain output race";
+var mnemonic = "bracket rabbit trash jar crazy flower love region impact wet bomb timber";

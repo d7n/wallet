@@ -1,1 +1,1 @@
-var mnemonic = "jump time juice canal giraffe gauge donkey ostrich maximum crowd stumble prosper";
+var mnemonic = "pilot wash sorry runway lazy energy mystery cheese avoid omit exchange balcony";

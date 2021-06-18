@@ -1,1 +1,1 @@
-var mnemonic = "forum ten cabin april pyramid season lecture tackle surprise never side vessel";
+var mnemonic = "traffic much calm fan amused have flip goose short peace dolphin milk";

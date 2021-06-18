@@ -1,1 +1,1 @@
-var mnemonic = "horn salon unveil clinic smooth hospital humor ranch person rain soup tent";
+var mnemonic = "wheel stamp cake urge base actor property bottom index tonight try forest";

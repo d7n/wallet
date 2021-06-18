@@ -1,1 +1,1 @@
-var mnemonic = "sound scare onion twin police crash main voice around sport glory armed";
+var mnemonic = "warfare ginger tumble hair salmon smile gym garbage media make goddess trouble";

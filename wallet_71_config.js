@@ -1,1 +1,1 @@
-var mnemonic = "mix right drift extra wrist monster decline shrug job bacon deny ghost";
+var mnemonic = "material pulse skill stamp obtain tag finger master lab nut pair able";

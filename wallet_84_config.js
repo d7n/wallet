@@ -1,1 +1,1 @@
-var mnemonic = "core roast retire boil creek child need salon purpose deal hope rookie";
+var mnemonic = "crew number antique hazard harvest crack coin motion summer tomorrow type field";

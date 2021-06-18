@@ -1,1 +1,1 @@
-var mnemonic = "dismiss clown pepper sorry reopen pumpkin end primary awesome biology planet hybrid";
+var mnemonic = "figure attract napkin rib convince identify letter width depend muffin circle industry";

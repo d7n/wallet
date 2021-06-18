@@ -1,1 +1,1 @@
-var mnemonic = "include album orphan energy detail monster credit okay extra shiver raven release";
+var mnemonic = "auction become neck trade oxygen bright first wage ski arm napkin vicious";

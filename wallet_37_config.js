@@ -1,1 +1,1 @@
-var mnemonic = "phone bulb merit again satisfy broccoli smooth pony gesture snap utility tortoise";
+var mnemonic = "gospel extra obtain danger three oval insane inside trip awake sketch force";

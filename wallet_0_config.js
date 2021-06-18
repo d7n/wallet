@@ -1,1 +1,1 @@
-var mnemonic = "process enlist happy room world fantasy north valve spin stumble post damp";
+var mnemonic = "any sea boost help hub impact chunk uphold body image reason father";

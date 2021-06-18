@@ -1,1 +1,1 @@
-var mnemonic = "decline sphere hotel torch angry fuel amazing inmate uniform loud upon obvious";
+var mnemonic = "foil flower ignore october shy hill park humor much priority word erupt";

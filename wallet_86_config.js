@@ -1,1 +1,1 @@
-var mnemonic = "walnut dove aisle flower cheese write loyal stick output robust reflect axis";
+var mnemonic = "price ribbon solar velvet vibrant female horror gossip type surface proof oil";

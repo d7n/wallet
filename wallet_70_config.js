@@ -1,1 +1,1 @@
-var mnemonic = "rib canvas split simple pigeon advice supreme attitude hold trophy column bunker";
+var mnemonic = "fresh pizza excite vocal elite describe vicious friend ugly volcano soon found";

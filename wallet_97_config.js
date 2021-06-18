@@ -1,1 +1,1 @@
-var mnemonic = "cactus coyote team shove trial dutch crazy ladder public surround buddy tobacco";
+var mnemonic = "slim neutral neutral pond spin together merry stay cube tilt horse mom";

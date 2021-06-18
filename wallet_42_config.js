@@ -1,1 +1,1 @@
-var mnemonic = "hole broccoli curious silly inject share margin grant genuine mango bottom jazz";
+var mnemonic = "boat thought title fatigue swim face taste vintage inform embody uphold pattern";

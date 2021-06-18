@@ -1,1 +1,1 @@
-var mnemonic = "omit shiver switch tennis donor maze denial six execute swamp panther wish";
+var mnemonic = "immune margin purity account debris tip fury exit town win evil theory";

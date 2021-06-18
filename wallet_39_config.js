@@ -1,1 +1,1 @@
-var mnemonic = "voice pioneer session tilt erode sting shadow tourist payment reason peanut alarm";
+var mnemonic = "green heart purse pistol main put rival home bar great during protect";

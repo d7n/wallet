@@ -1,1 +1,1 @@
-var mnemonic = "purse gasp liar noodle pumpkin replace sniff produce mad nerve inner comfort";
+var mnemonic = "pause absent problem cup soap knife eternal curve copy recipe renew fee";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff key meadow awful canyon portion flip harsh doll flock gadget unhappy";
+var mnemonic = "layer rose suffer leopard solar can rug slim false young identify soul";

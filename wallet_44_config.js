@@ -1,1 +1,1 @@
-var mnemonic = "argue soft cigar tonight forum morning income deputy day advance squeeze minimum";
+var mnemonic = "salute arch soft leave history profit speak bind fan autumn property impulse";

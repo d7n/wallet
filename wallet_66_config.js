@@ -1,1 +1,1 @@
-var mnemonic = "capable wish record faculty visa sword only hip payment dumb cave scale";
+var mnemonic = "spread ranch apology mountain trial hammer illegal mammal wisdom luggage increase rally";

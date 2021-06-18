@@ -1,1 +1,1 @@
-var mnemonic = "capital lava fold vital coast machine scheme surface enhance say involve squirrel";
+var mnemonic = "daughter night decline warrior saddle figure result rigid resemble together fabric long";

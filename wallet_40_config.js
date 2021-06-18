@@ -1,1 +1,1 @@
-var mnemonic = "winner reason mirror airport wall this bitter pact fall next animal accuse";
+var mnemonic = "master noble kangaroo bag bounce ecology lemon liar eternal fatal orphan bundle";

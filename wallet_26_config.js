@@ -1,1 +1,1 @@
-var mnemonic = "speed fashion stable season flight eight toddler bid bacon sibling topple choice";
+var mnemonic = "lyrics split outdoor affair real resource there aware mansion envelope charge exit";

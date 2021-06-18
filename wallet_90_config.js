@@ -1,1 +1,1 @@
-var mnemonic = "chicken render know assist mesh day advice someone fuel amazing skin below";
+var mnemonic = "matrix inhale add error myself merry dream element fitness birth gentle stick";

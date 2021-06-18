@@ -1,1 +1,1 @@
-var mnemonic = "concert night narrow tortoise fork sniff marine flame shadow begin adjust judge";
+var mnemonic = "meadow tortoise piano rabbit ready sword enough laptop sign pencil risk pipe";

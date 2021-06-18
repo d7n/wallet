@@ -1,1 +1,1 @@
-var mnemonic = "pigeon inner cave penalty pond appear ticket stool sell evolve beauty exhaust";
+var mnemonic = "lens lend wish virus dignity begin shock voice clinic absorb kitten harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme hedgehog girl cake equal blame tobacco total under satisfy chronic zebra";
+var mnemonic = "upset entire multiply theory seminar have type fetch boss area soul kiss";

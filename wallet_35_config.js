@@ -1,1 +1,1 @@
-var mnemonic = "lucky useless runway place arch about estate moral cause elder around loan";
+var mnemonic = "live transfer price fluid kidney theory whip seed code sunset vendor outside";

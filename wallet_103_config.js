@@ -1,1 +1,1 @@
-var mnemonic = "situate recipe rapid notice arctic wash era drastic gauge decide disagree annual";
+var mnemonic = "home chaos sun solve will region monitor weather source ankle pepper fork";

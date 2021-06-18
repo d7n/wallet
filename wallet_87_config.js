@@ -1,1 +1,1 @@
-var mnemonic = "hobby margin awesome ritual nerve casual fun carbon pitch review impact eager";
+var mnemonic = "clown buyer ridge job already appear cement album fiber donor cruise gain";

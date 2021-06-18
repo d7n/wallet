@@ -1,1 +1,1 @@
-var mnemonic = "calm token arrange bag differ argue mind enjoy public mechanic glance creek";
+var mnemonic = "abstract bracket strong melt happy valley express give flame bike clown jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel loyal more liberty surface leisure citizen split wasp rival vapor hobby";
+var mnemonic = "eye patch friend become miss pepper bronze poem correct busy witness fold";

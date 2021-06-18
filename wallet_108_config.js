@@ -1,1 +1,1 @@
-var mnemonic = "eternal master valley frown prize light liberty turtle miss agent retreat coffee";
+var mnemonic = "copy river table tail six ramp rebuild robot animal illegal denial approve";

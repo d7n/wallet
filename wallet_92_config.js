@@ -1,1 +1,1 @@
-var mnemonic = "under royal need armor analyst object strategy differ math antenna sing pass";
+var mnemonic = "borrow arctic cinnamon catch crop south luggage detail list wide symbol pepper";

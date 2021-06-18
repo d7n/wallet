@@ -1,1 +1,1 @@
-var mnemonic = "similar analyst among blur current casual quarter rally trap market false phrase";
+var mnemonic = "race novel alien early fish market opinion marine turkey scan soul amount";

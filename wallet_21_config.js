@@ -1,1 +1,1 @@
-var mnemonic = "culture edit humor remind aspect bronze venture shrimp stay notable true carry";
+var mnemonic = "crazy live license detect fame pilot layer asset agree paper pistol call";

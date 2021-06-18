@@ -1,1 +1,1 @@
-var mnemonic = "crack dish cram hazard price mistake buddy naive wolf ostrich silly amused";
+var mnemonic = "make auto negative retire frame step during custom grace review fetch acquire";

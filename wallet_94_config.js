@@ -1,1 +1,1 @@
-var mnemonic = "quarter cram fantasy gap stumble village accident deposit square sketch pact music";
+var mnemonic = "erosion used hen cross vital sheriff yard swamp aerobic drive memory era";

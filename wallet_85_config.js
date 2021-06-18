@@ -1,1 +1,1 @@
-var mnemonic = "helmet faith please over city result input civil vessel beef gun save";
+var mnemonic = "elbow romance knee acid swallow level learn type patch kangaroo salad cry";

@@ -1,1 +1,1 @@
-var mnemonic = "someone inmate analyst method coffee powder donate file detail melody invest blame";
+var mnemonic = "screen allow option immune lottery caution fat nature vapor echo auction tube";

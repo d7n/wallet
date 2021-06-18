@@ -1,1 +1,1 @@
-var mnemonic = "ugly mechanic hat wage cream auction prosper immune exhaust unknown industry pole";
+var mnemonic = "alarm rather scissors wrap half keep host rib hunt speak spread another";

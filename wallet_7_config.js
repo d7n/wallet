@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow critic bracket young matrix carbon brother cabin asset walk enrich animal";
+var mnemonic = "confirm that napkin penalty way tissue pave useful car move captain review";

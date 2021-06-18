@@ -1,1 +1,1 @@
-var mnemonic = "pattern seat original child scene thing essay clever seek huge hamster hundred";
+var mnemonic = "roast fine album flower vibrant trade broccoli they escape rubber filter pepper";

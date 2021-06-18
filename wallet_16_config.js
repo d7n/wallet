@@ -1,1 +1,1 @@
-var mnemonic = "twenty three noodle minor cannon track always become pilot exchange catalog green";
+var mnemonic = "entire mandate art echo mass dilemma equip finish surprise verify consider traffic";

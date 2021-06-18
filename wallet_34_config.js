@@ -1,1 +1,1 @@
-var mnemonic = "involve pride rely best lobster rain upgrade vague outdoor jungle scale series";
+var mnemonic = "maze legal purity absent option cover pledge mirror flush view comic result";

@@ -1,1 +1,1 @@
-var mnemonic = "humor soft then video old joy nurse hold wear ticket fluid text";
+var mnemonic = "keep eager duty blush scheme diagram snap tape potato trophy stick dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "robot stone during divide diary faculty habit kiwi wet ahead bind safe";
+var mnemonic = "fire nation scatter brass indicate image soup hollow tray cause dry admit";

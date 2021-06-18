@@ -1,1 +1,1 @@
-var mnemonic = "frequent setup camera regular price absent spray transfer rhythm always inflict wing";
+var mnemonic = "credit problem cram floor crack retire puzzle host stumble festival history exact";

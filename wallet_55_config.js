@@ -1,1 +1,1 @@
-var mnemonic = "soldier because opera skull toilet scan ostrich gadget pizza hybrid latin absorb";
+var mnemonic = "perfect disagree observe decade crunch sad absorb shoulder right holiday olive gold";

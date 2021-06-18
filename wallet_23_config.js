@@ -1,1 +1,1 @@
-var mnemonic = "time finger rubber narrow sphere reopen unhappy eternal other fun raw trophy";
+var mnemonic = "hotel edge napkin bulk eager remove they neither invest venture plug local";

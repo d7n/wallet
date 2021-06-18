@@ -1,1 +1,1 @@
-var mnemonic = "dose move victory lobster payment pilot salon window tenant brown already wear";
+var mnemonic = "velvet exit orphan custom soon cricket neither woman lyrics help ritual maple";

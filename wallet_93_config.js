@@ -1,1 +1,1 @@
-var mnemonic = "predict east delay rose first oblige duck mercy fragile tool brush theme";
+var mnemonic = "rain refuse horn math task soap illness manage bread wrap mystery public";

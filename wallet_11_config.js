@@ -1,1 +1,1 @@
-var mnemonic = "envelope favorite resemble sustain pepper impulse pudding shine athlete outside rail song";
+var mnemonic = "solar fuel cousin history perfect sadness obvious tent success pluck fade mean";

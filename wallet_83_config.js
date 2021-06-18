@@ -1,1 +1,1 @@
-var mnemonic = "boy sudden funny evolve used shadow melt breeze hybrid peanut copper evidence";
+var mnemonic = "shove seed squirrel habit party motor search wink nest ranch sentence beach";

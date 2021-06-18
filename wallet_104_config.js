@@ -1,1 +1,1 @@
-var mnemonic = "dinner still guess fee equip author boost member wave story giraffe vibrant";
+var mnemonic = "solar few away kingdom soft pencil speed shuffle right cry convince music";

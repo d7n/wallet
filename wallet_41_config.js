@@ -1,1 +1,1 @@
-var mnemonic = "matrix upgrade spice coast process account model maid miss abandon chapter media";
+var mnemonic = "cereal alarm crowd pulse trumpet direct daring vote raw pair neither bulk";

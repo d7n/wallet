@@ -1,1 +1,1 @@
-var mnemonic = "gas dune fortune crew hip museum hazard quit robust river pink defy";
+var mnemonic = "wink much tell bus law twist park return hidden secret size burden";

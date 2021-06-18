@@ -1,1 +1,1 @@
-var mnemonic = "woman bid enemy town cloth runway barely favorite eight cart urban scrub";
+var mnemonic = "crowd virus flash cool where initial tail derive able unable trigger leave";

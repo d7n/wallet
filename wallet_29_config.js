@@ -1,1 +1,1 @@
-var mnemonic = "mesh remind drift exist artist rocket design auto guard actor dinosaur void";
+var mnemonic = "ostrich basic apology merit fame reopen round arch scheme enlist bag physical";

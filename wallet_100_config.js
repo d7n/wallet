@@ -1,1 +1,1 @@
-var mnemonic = "auto magnet insect unique boss head need scatter jacket result spare kit";
+var mnemonic = "hold melody primary crash cash eternal truly provide obvious comic defense acquire";

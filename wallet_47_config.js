@@ -1,1 +1,1 @@
-var mnemonic = "stock large slush steak attend once faculty someone normal chief piece pipe";
+var mnemonic = "wild giraffe fabric repeat shiver protect bundle key illegal review awesome miss";

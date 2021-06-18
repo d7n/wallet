@@ -1,1 +1,1 @@
-var mnemonic = "column adapt flock flight angle gun great runway catalog defy inhale kit";
+var mnemonic = "volume acid year pitch fresh gas hour olympic cart anchor force beauty";

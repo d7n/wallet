@@ -1,1 +1,1 @@
-var mnemonic = "program garage melody monitor loop praise come bean thumb slush fury door";
+var mnemonic = "divert quit impose blood menu visa actor misery broken harvest hover urge";

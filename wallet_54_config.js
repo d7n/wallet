@@ -1,1 +1,1 @@
-var mnemonic = "shiver person move judge buffalo mention tilt debris hedgehog stool include rude";
+var mnemonic = "interest boil stereo curtain guide cigar foot road town fever kiss train";

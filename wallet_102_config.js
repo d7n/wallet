@@ -1,1 +1,1 @@
-var mnemonic = "deputy good weird sound pony piece castle window first theme brass push";
+var mnemonic = "ripple transfer prize tiger salmon adapt father oven drill deny peace example";
