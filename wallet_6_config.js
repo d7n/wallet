@@ -1,1 +1,1 @@
-var mnemonic = "mistake initial cricket soap apology fall echo inner brand horn call deposit";
+var mnemonic = "crisp potato broom boat color wise boost simple library short soup kiwi";

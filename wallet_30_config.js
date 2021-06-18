@@ -1,1 +1,1 @@
-var mnemonic = "coral enemy cube pair awkward gap behind appear remember oppose trophy primary";
+var mnemonic = "dish problem other apology sign repeat admit place clutch fit slush all";

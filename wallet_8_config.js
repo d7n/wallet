@@ -1,1 +1,1 @@
-var mnemonic = "stereo stomach wide cricket inch side atom absent group dial board rural";
+var mnemonic = "fatigue supply column dignity acoustic play puppy tooth glass alone across gain";

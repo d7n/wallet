@@ -1,1 +1,1 @@
-var mnemonic = "exhibit happy empty wear neglect lemon section merge entry animal idea cover";
+var mnemonic = "artefact provide brown repeat nasty rebel three news slot carbon exile chaos";

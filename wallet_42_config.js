@@ -1,1 +1,1 @@
-var mnemonic = "usual genius section pepper adapt muscle super ostrich fence magnet series snake";
+var mnemonic = "ivory sock capital wish approve cry reveal tool clay license vocal reduce";

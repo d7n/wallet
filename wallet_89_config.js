@@ -1,1 +1,1 @@
-var mnemonic = "vapor solution wasp century clinic toward canal runway arrive load ginger cherry";
+var mnemonic = "misery drink digital finger razor gain tunnel ripple hill struggle retire split";

@@ -1,1 +1,1 @@
-var mnemonic = "animal general obtain leaf march twelve friend bubble ridge slender van century";
+var mnemonic = "hawk effort soon music twelve achieve vote seek combine attack prize brand";

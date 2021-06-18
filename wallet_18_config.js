@@ -1,1 +1,1 @@
-var mnemonic = "tiger engine unit rich nasty subway coast donor pelican salmon duck tone";
+var mnemonic = "tone fiber ceiling once crack tackle dragon response worry repeat interest harbor";

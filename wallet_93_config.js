@@ -1,1 +1,1 @@
-var mnemonic = "ceiling dish cycle garden end paper provide solar glad correct fever laugh";
+var mnemonic = "gasp aunt wreck program prevent visa visit biology master small tide trash";

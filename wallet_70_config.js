@@ -1,1 +1,1 @@
-var mnemonic = "tail pulse idle useless level setup pet bright comic hold teach yellow";
+var mnemonic = "stable open calm grape inhale result poem green route rebel exhibit siege";

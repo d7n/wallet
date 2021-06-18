@@ -1,1 +1,1 @@
-var mnemonic = "stone escape alter execute lonely gather flash pelican warm online kangaroo mushroom";
+var mnemonic = "grit intact obscure robust secret boil tourist captain wealth sauce rapid rail";

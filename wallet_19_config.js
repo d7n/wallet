@@ -1,1 +1,1 @@
-var mnemonic = "face pink labor inmate anchor fuel horn forum rug ticket gorilla ask";
+var mnemonic = "digital exercise minute boring nuclear weird secret sheriff spread chair piece segment";

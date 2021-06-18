@@ -1,1 +1,1 @@
-var mnemonic = "shine margin since above outdoor faculty cancel sadness club response avocado salute";
+var mnemonic = "vacuum snap novel regular jelly frost rocket antenna mimic bullet depth spend";

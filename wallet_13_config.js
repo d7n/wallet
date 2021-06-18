@@ -1,1 +1,1 @@
-var mnemonic = "exile hurdle together fall move deposit false word squirrel employ brother feed";
+var mnemonic = "transfer kidney total clutch mansion place glass snow abandon behind sweet salute";

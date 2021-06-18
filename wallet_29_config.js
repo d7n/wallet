@@ -1,1 +1,1 @@
-var mnemonic = "knife media mention mosquito afford stool entire energy crawl network display park";
+var mnemonic = "coil beyond eager dizzy fitness skill develop notice smile extend wage thumb";

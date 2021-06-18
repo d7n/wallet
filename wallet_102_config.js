@@ -1,1 +1,1 @@
-var mnemonic = "wink sister core brain bulk book brief drop enrich island ship virus";
+var mnemonic = "supreme fiction victory thank nature lab climb loop eternal marriage become bone";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen company question foster save accuse visa later zero upper arm enable";
+var mnemonic = "yard entire topic address spring conduct year quick mutual present under cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "slight sea song test century bean vote square stumble clog during merge";
+var mnemonic = "ancient weather such faith oil true guard holiday kick bean ceiling dash";

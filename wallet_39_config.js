@@ -1,1 +1,1 @@
-var mnemonic = "announce sure rough tongue eight motion spread fossil square exotic sleep barrel";
+var mnemonic = "holiday cruel average curtain soap theory income total present elephant insect chicken";

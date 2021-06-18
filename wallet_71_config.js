@@ -1,1 +1,1 @@
-var mnemonic = "proud regret anxiety mesh toast merry kangaroo fit outer elbow acquire novel";
+var mnemonic = "path rare obscure master comic replace canoe key prevent bid cool supreme";

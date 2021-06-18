@@ -1,1 +1,1 @@
-var mnemonic = "ocean income success toward canyon assume attitude robot impulse song elevator inside";
+var mnemonic = "ensure caution utility shrimp sauce alcohol obscure vacant soon inflict giraffe patient";

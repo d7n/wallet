@@ -1,1 +1,1 @@
-var mnemonic = "account core bike tissue fragile rotate acid scare valve render skull old";
+var mnemonic = "glad risk loud best document valve saddle garage royal embrace pudding hamster";

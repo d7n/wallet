@@ -1,1 +1,1 @@
-var mnemonic = "naive absorb journey sell dust wash rocket guitar false gap bid company";
+var mnemonic = "razor lyrics damp power random never vicious soccer cup faculty village gloom";

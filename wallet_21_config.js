@@ -1,1 +1,1 @@
-var mnemonic = "mystery brass crush observe purity rib wonder agree awesome uniform garbage notice";
+var mnemonic = "purse empower direct leader two sea core hat jewel key wool grocery";

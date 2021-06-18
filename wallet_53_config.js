@@ -1,1 +1,1 @@
-var mnemonic = "fame ankle strike laundry salute manual ancient have pattern steak unveil prefer";
+var mnemonic = "exact before air grow borrow scare bar save inflict almost margin wolf";

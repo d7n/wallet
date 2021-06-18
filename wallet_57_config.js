@@ -1,1 +1,1 @@
-var mnemonic = "girl soft barrel exist stomach half result outer bundle juice topic deputy";
+var mnemonic = "ugly dragon fresh swift south stay very snap teach shallow skirt happy";

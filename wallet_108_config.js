@@ -1,1 +1,1 @@
-var mnemonic = "gadget mean history position helmet yellow south random expand shadow essence flavor";
+var mnemonic = "stumble equip village ticket naive chunk baby maple awesome remind error genre";

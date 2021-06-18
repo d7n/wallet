@@ -1,1 +1,1 @@
-var mnemonic = "deputy theory much gadget foam power nose neutral logic raccoon ask other";
+var mnemonic = "spin mushroom sword small clog mimic elegant bottom country dice expire blame";

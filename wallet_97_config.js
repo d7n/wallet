@@ -1,1 +1,1 @@
-var mnemonic = "beyond supply trial artefact cash illness twist grace company phone note damage";
+var mnemonic = "shaft name dignity ripple tip water scrap connect theory fire divert frequent";

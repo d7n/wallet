@@ -1,1 +1,1 @@
-var mnemonic = "reason nose yard next bulk thank scorpion lonely nuclear describe brand couch";
+var mnemonic = "blast muscle cheese giraffe february mammal fringe share proof above mesh nation";

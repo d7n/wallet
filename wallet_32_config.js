@@ -1,1 +1,1 @@
-var mnemonic = "ecology misery until flavor mom must guess yellow coconut kitten slam repeat";
+var mnemonic = "before demise toilet extend stadium solution radio attract toss ramp hundred again";

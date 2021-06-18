@@ -1,1 +1,1 @@
-var mnemonic = "replace spray usage derive able mom put corn mosquito mesh hurt unfold";
+var mnemonic = "census actor ski also display brave peace process volcano flash device drop";

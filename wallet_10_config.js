@@ -1,1 +1,1 @@
-var mnemonic = "best time chief ugly safe produce grain special trigger giraffe stage suit";
+var mnemonic = "improve series bulb carbon hazard champion first moral barely core fabric address";

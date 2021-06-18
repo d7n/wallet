@@ -1,1 +1,1 @@
-var mnemonic = "tortoise ladder soul burst hope elite medal pony ginger pledge announce dice";
+var mnemonic = "fox harbor once keen future profit hire dwarf arrest jewel slogan fade";

@@ -1,1 +1,1 @@
-var mnemonic = "edit fluid shine balance rescue modify early plastic clown put creek robot";
+var mnemonic = "scale parent ahead nuclear author engage affair require pizza salt excuse poem";

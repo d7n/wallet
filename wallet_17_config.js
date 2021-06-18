@@ -1,1 +1,1 @@
-var mnemonic = "below grab toast pelican drill tiny riot affair pattern couple hawk sun";
+var mnemonic = "palace leopard unknown extend bless sun phrase online panda faint mystery scale";

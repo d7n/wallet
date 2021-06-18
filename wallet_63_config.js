@@ -1,1 +1,1 @@
-var mnemonic = "torch jazz talk used resemble valve gaze damp decide twist life scatter";
+var mnemonic = "dress lock tribe army photo sample buzz all green horror cabin famous";

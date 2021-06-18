@@ -1,1 +1,1 @@
-var mnemonic = "dry box orchard visit shoe exercise try throw attack chapter purse sauce";
+var mnemonic = "clown spy eye hazard nominee jeans trade strategy hurry car purpose spoil";

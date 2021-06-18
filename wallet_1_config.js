@@ -1,1 +1,1 @@
-var mnemonic = "grace onion enemy pretty almost spot crouch laundry merit sphere exhibit code";
+var mnemonic = "coil certain purpose cable mouse enjoy shop either goddess mistake tuition monitor";

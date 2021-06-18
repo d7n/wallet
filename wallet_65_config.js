@@ -1,1 +1,1 @@
-var mnemonic = "sustain black answer toast green this pair beef wreck peasant worth asthma";
+var mnemonic = "shell hockey trim energy flavor film timber task funny inhale loud diamond";

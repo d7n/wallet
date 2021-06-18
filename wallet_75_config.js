@@ -1,1 +1,1 @@
-var mnemonic = "demand sentence border mystery idea panther great planet sting mail caught banana";
+var mnemonic = "message skate balance laugh cage plate web interest circle mountain escape rebuild";

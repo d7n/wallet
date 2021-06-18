@@ -1,1 +1,1 @@
-var mnemonic = "next invest soft faculty dune orphan work ill shrimp equal marriage dirt";
+var mnemonic = "response question initial skin gentle find upgrade quarter move slow improve you";

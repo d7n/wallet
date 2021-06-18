@@ -1,1 +1,1 @@
-var mnemonic = "program work wife urge jazz jelly stairs frequent attitude thunder trust ask";
+var mnemonic = "budget cigar economy farm logic rabbit fabric minor grow small carry prosper";

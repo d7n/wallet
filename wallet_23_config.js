@@ -1,1 +1,1 @@
-var mnemonic = "render dizzy west cave region tide proof enforce romance discover hotel empty";
+var mnemonic = "sun enforce foil silly tilt cargo embrace crack nephew peanut accuse advice";

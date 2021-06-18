@@ -1,1 +1,1 @@
-var mnemonic = "sell evidence water elegant seek key method envelope three rice grape potato";
+var mnemonic = "foam elegant scrub abuse supply arrive mean elevator impact decline patient leopard";

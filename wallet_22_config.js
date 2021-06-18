@@ -1,1 +1,1 @@
-var mnemonic = "payment same position ready bag swear normal wisdom page kangaroo lottery habit";
+var mnemonic = "trim basket embark motion bicycle wet fox patrol moon damp bike bunker";

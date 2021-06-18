@@ -1,1 +1,1 @@
-var mnemonic = "between book frame trade reunion wheat disorder joke gadget green hen belt";
+var mnemonic = "rubber strong field always brick kite glad orange color hawk sand goddess";

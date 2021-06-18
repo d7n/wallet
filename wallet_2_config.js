@@ -1,1 +1,1 @@
-var mnemonic = "aspect tool kingdom submit stove mad dismiss alert someone tomorrow trend dilemma";
+var mnemonic = "joy symbol mistake banana copper cargo rather crystal dismiss warfare beach century";

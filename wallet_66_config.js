@@ -1,1 +1,1 @@
-var mnemonic = "captain horror pig uniform resemble grace assist hour useless minimum movie misery";
+var mnemonic = "general soon problem find crime submit orphan aspect clip health ancient network";

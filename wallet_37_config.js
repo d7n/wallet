@@ -1,1 +1,1 @@
-var mnemonic = "nose north laugh close mind glow bonus furnace tunnel often busy fortune";
+var mnemonic = "brave that mistake artist arena slush ozone ranch letter neck come voyage";

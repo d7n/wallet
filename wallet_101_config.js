@@ -1,1 +1,1 @@
-var mnemonic = "only alley obscure payment vapor sustain cruel hollow admit tail loan deputy";
+var mnemonic = "stove battle patient follow code infant orange bubble report turn midnight minimum";

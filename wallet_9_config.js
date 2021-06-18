@@ -1,1 +1,1 @@
-var mnemonic = "super minor cage best fun barrel social miss normal trust divide segment";
+var mnemonic = "pluck tiny run holiday arrive toss actor tool journey winner simple bamboo";

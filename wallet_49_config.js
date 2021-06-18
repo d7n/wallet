@@ -1,1 +1,1 @@
-var mnemonic = "agree track casual jungle promote guitar earn lyrics october crumble antenna train";
+var mnemonic = "inside museum mixture comic gospel kitten little license cream olive exchange also";

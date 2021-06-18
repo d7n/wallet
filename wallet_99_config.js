@@ -1,1 +1,1 @@
-var mnemonic = "estate grow tree desk toast act roast toddler two vapor audit wagon";
+var mnemonic = "usage mixture shoulder only vendor critic ladder awful tribe reward million group";

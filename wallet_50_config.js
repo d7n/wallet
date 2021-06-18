@@ -1,1 +1,1 @@
-var mnemonic = "raw impulse gentle vague away sight sad harsh dash cattle knee wait";
+var mnemonic = "help diesel minute zoo income student floor inquiry crumble shallow elegant strategy";

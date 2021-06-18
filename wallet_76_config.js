@@ -1,1 +1,1 @@
-var mnemonic = "athlete syrup ridge air own dune innocent cry brick leisure tired tower";
+var mnemonic = "dance pitch attend waste sunset satoshi head water frog vintage peanut hour";

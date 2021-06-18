@@ -1,1 +1,1 @@
-var mnemonic = "pulp maximum live awkward focus light donkey unusual lens symbol airport alien";
+var mnemonic = "kingdom payment world merit pink run enrich cube hat exhibit sorry trick";

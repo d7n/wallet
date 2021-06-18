@@ -1,1 +1,1 @@
-var mnemonic = "screen village broccoli network member need menu daughter cinnamon harbor gesture seed";
+var mnemonic = "off panda reform flame vendor acid text govern sadness mother ride solution";

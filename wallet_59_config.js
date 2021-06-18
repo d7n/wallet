@@ -1,1 +1,1 @@
-var mnemonic = "gun phone tail stairs surge trash riot phrase fabric taste fork million";
+var mnemonic = "scheme galaxy teach carry rookie bar state window fence person wash skull";

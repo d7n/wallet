@@ -1,1 +1,1 @@
-var mnemonic = "ahead manage diet crush flock mass glue they okay wonder urban shaft";
+var mnemonic = "wealth ten learn cat mention vintage donate clerk refuse minute exist scan";

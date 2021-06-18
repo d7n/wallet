@@ -1,1 +1,1 @@
-var mnemonic = "ridge abuse live wide scale invite have hobby fuel plunge earn letter";
+var mnemonic = "uphold artefact asthma ramp twenty write sea income zero claw gym sand";

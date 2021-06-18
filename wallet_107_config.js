@@ -1,1 +1,1 @@
-var mnemonic = "month crush jar ensure yellow teach truly fat horse fabric rail say";
+var mnemonic = "subject great rebuild identify ripple render arrange huge slab concert fan roast";

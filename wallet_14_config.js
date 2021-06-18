@@ -1,1 +1,1 @@
-var mnemonic = "govern traffic faith jeans observe shrimp patient dress head skirt treat wood";
+var mnemonic = "enforce surface motor crash clog parade obtain genre brother struggle display skate";

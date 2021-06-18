@@ -1,1 +1,1 @@
-var mnemonic = "any door paddle nature erode manual panic lend size boat another crop";
+var mnemonic = "side screen cinnamon differ walk appear search auction horror vibrant roast uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "evil lift grunt stomach vanish slow casual pitch soap firm snake goddess";
+var mnemonic = "segment east cigar february upset test level uphold summer thrive water into";

@@ -1,1 +1,1 @@
-var mnemonic = "venue mutual armor ecology dilemma mango bamboo illness disagree width life body";
+var mnemonic = "cash rain allow address fringe impulse pond smoke discover company head wet";

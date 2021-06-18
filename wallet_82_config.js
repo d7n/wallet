@@ -1,1 +1,1 @@
-var mnemonic = "benefit scissors elder knock camp weather radio inner visual lizard recall vapor";
+var mnemonic = "year hawk remember sketch crucial affair admit alarm cry vivid congress social";

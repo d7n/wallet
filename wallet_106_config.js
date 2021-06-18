@@ -1,1 +1,1 @@
-var mnemonic = "town because mansion fuel behave life enrich young good nature island badge";
+var mnemonic = "swamp arrest mind slice awake future indoor stomach clever similar outer access";

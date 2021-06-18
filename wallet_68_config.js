@@ -1,1 +1,1 @@
-var mnemonic = "donkey what food laptop kidney tribe horror cabin soda uncover prison panic";
+var mnemonic = "open that public bring output extra manual average tower garbage soon column";

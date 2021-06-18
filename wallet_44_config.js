@@ -1,1 +1,1 @@
-var mnemonic = "blanket inspire impose valve beauty panda real practice current spend art illegal";
+var mnemonic = "memory salute grass lottery hint tiny desk crush village truck oval soccer";

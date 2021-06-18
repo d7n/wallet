@@ -1,1 +1,1 @@
-var mnemonic = "will symbol slogan engine bind lift ride deer fatigue figure symptom crowd";
+var mnemonic = "display remember chief ramp pipe include inspire cliff virus oven raise dumb";

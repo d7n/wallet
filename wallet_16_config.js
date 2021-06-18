@@ -1,1 +1,1 @@
-var mnemonic = "topple ramp mean fish screen security unusual dumb afford buddy arena scatter";
+var mnemonic = "wave apart slot shy grace quiz wise appear glory session bacon unfold";

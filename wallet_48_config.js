@@ -1,1 +1,1 @@
-var mnemonic = "obey regular room silk wrap unaware nose case junk axis weather media";
+var mnemonic = "absorb bid solar fish clever easy source ticket luxury virtual frost finish";

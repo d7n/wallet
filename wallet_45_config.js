@@ -1,1 +1,1 @@
-var mnemonic = "citizen panda idle bonus save general deposit miracle manage various spatial man";
+var mnemonic = "dial reform exist stone keen arctic cabbage save sunset patrol clip light";

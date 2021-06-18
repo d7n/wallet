@@ -1,1 +1,1 @@
-var mnemonic = "rent potato debris prevent shield life crater tomorrow evoke can menu bar";
+var mnemonic = "foster surround winner dish input visa snow inherit spoil jacket impulse arrive";

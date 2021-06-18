@@ -1,1 +1,1 @@
-var mnemonic = "torch warfare code joy people diet agent intact color mystery tunnel jar";
+var mnemonic = "seven solid winner exercise royal armed dinosaur mistake cram idea size category";

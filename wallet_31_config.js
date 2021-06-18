@@ -1,1 +1,1 @@
-var mnemonic = "icon dress poverty broom winter fold skin merge image danger execute faint";
+var mnemonic = "size afford wait edit mixture render onion cricket shrug pottery sort extend";

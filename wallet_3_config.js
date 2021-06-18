@@ -1,1 +1,1 @@
-var mnemonic = "inside august dismiss hour turkey street talent response tobacco price orient speed";
+var mnemonic = "sea hour replace lemon game found daughter large swamp popular profit relax";

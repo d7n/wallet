@@ -1,1 +1,1 @@
-var mnemonic = "tone salon series upper spawn now trophy area swim stone fashion punch";
+var mnemonic = "library text lend home pumpkin myself perfect when artist kick silk just";

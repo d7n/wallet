@@ -1,1 +1,1 @@
-var mnemonic = "injury thought claw perfect category crater morning once title position pistol duty";
+var mnemonic = "index ladder stomach buddy master picnic behave hybrid flat grain grid before";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch diary amount six today blood disease army street maple vital shadow";
+var mnemonic = "together cricket flavor smoke entire choice blossom amused razor mail install kit";

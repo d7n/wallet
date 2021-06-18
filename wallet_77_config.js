@@ -1,1 +1,1 @@
-var mnemonic = "frog path verb throw trial ridge aspect sail battle monkey test clap";
+var mnemonic = "medal reflect relief miracle imitate million question flee early notable embrace once";

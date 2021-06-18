@@ -1,1 +1,1 @@
-var mnemonic = "milk soda like daring direct barely ecology canal true tribe peanut track";
+var mnemonic = "spring zero together detect pull garment tongue resist forward scrub slot worth";

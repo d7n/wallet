@@ -1,1 +1,1 @@
-var mnemonic = "human atom cake rookie hedgehog analyst ginger clutch spider soul bomb matrix";
+var mnemonic = "faint super hover error affair velvet anchor meadow entry repair fossil tank";

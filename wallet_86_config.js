@@ -1,1 +1,1 @@
-var mnemonic = "flame fold maple bubble dawn skirt traffic please dry man give danger";
+var mnemonic = "bargain toe train time broccoli mention rain donor sad violin text crash";

@@ -1,1 +1,1 @@
-var mnemonic = "permit example dumb daring awake neck broken garage genuine hat clinic intact";
+var mnemonic = "warfare prize ketchup what eager hole school inquiry punch reveal color pattern";

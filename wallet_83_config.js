@@ -1,1 +1,1 @@
-var mnemonic = "idle valve green mention shrimp climb satisfy giant disagree salon huge inmate";
+var mnemonic = "want beach impulse coin system milk great industry twenty excite attitude radio";

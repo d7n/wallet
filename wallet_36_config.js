@@ -1,1 +1,1 @@
-var mnemonic = "obvious doctor end taxi border squirrel people lizard nice elbow exotic muffin";
+var mnemonic = "face crouch person true salute inmate thank age mask syrup shed pair";

@@ -1,1 +1,1 @@
-var mnemonic = "still detail consider cook february nation evoke very rich chaos salmon cement";
+var mnemonic = "top undo poem frozen father novel recall client menu rotate donor lesson";

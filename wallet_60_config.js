@@ -1,1 +1,1 @@
-var mnemonic = "misery kid account issue domain lunch sample special car enemy depth bracket";
+var mnemonic = "vibrant length student genius twelve walnut moon bike toss patch planet hard";
