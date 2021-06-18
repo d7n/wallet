@@ -1,1 +1,1 @@
-var mnemonic = "owner song giant tooth profit roast eye then heart edge give afford";
+var mnemonic = "pipe orient symbol spot crater bless okay foam morning large trend notable";

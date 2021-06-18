@@ -1,1 +1,1 @@
-var mnemonic = "globe cream rally glove couch naive kick genre ability pistol cup divert";
+var mnemonic = "menu blood chest main minor alien spider jaguar impose august live oak";

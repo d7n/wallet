@@ -1,1 +1,1 @@
-var mnemonic = "icon worry actress razor math caught mean album sad artefact settle scale";
+var mnemonic = "tourist brave iron limb duty horn spare grape mixed horror caution picture";

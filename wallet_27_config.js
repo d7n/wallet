@@ -1,1 +1,1 @@
-var mnemonic = "olive turn retreat raven ball museum torch chest opera catch tone amazing";
+var mnemonic = "current tonight modify hood budget decide quality hire deer joke can predict";

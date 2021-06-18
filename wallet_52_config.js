@@ -1,1 +1,1 @@
-var mnemonic = "narrow use clump amateur squirrel wonder smart grunt donkey mule network surface";
+var mnemonic = "critic fit social toy next omit blast float wise planet source vault";

@@ -1,1 +1,1 @@
-var mnemonic = "better outdoor transfer fault fiber body unknown transfer local grief green relief";
+var mnemonic = "require illness cloud lyrics furnace replace skirt lottery picture attack make dream";

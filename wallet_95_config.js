@@ -1,1 +1,1 @@
-var mnemonic = "gauge law survey lemon innocent bubble oven shuffle edge either zero belt";
+var mnemonic = "bleak rely comfort culture gun smart friend twelve close dawn jump main";

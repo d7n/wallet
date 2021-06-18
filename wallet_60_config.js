@@ -1,1 +1,1 @@
-var mnemonic = "hill reveal buzz assist plug coral round unable praise zebra spray emerge";
+var mnemonic = "olympic dog chaos spider version genre carbon breeze collect bean runway type";

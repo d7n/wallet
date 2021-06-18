@@ -1,1 +1,1 @@
-var mnemonic = "tail sense aisle wool carry found grid swamp vintage tail admit wise";
+var mnemonic = "license pistol mule dose foam feel problem action police fish prison air";

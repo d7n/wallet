@@ -1,1 +1,1 @@
-var mnemonic = "journey diary immune fancy lazy shield lens crazy hero supply supreme cotton";
+var mnemonic = "fossil box flat between strike appear total spot salt traffic glory response";

@@ -1,1 +1,1 @@
-var mnemonic = "silent muscle mixture crumble card reflect orchard tone captain stairs junior retreat";
+var mnemonic = "material key lecture forum gas carry equal fault relief square grow fan";

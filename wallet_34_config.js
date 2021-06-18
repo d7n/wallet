@@ -1,1 +1,1 @@
-var mnemonic = "excite bring region energy vessel ribbon list empty ramp sort wear paddle";
+var mnemonic = "pencil border sunny wrap leg mix net depend trophy pluck spirit high";

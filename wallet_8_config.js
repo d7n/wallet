@@ -1,1 +1,1 @@
-var mnemonic = "cotton apple plate lend chase horn life system rotate damage foot drift";
+var mnemonic = "exit ugly inherit wall build demise fiction trouble public infant clap gas";

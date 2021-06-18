@@ -1,1 +1,1 @@
-var mnemonic = "unit charge region govern word sell curtain very zero destroy shoulder tilt";
+var mnemonic = "plate will intact dash capable suspect protect tilt task barrel destroy dilemma";

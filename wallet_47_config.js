@@ -1,1 +1,1 @@
-var mnemonic = "cycle rib flee future pull nose liberty case drastic guide barely degree";
+var mnemonic = "sugar slush popular pattern immune twice robot mammal nerve noble scissors chunk";

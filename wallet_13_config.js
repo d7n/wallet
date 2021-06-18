@@ -1,1 +1,1 @@
-var mnemonic = "silver bachelor barrel across love ready size clever gospel cherry account gym";
+var mnemonic = "dawn aspect budget oak know visit scheme capital heart unique glow small";

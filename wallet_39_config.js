@@ -1,1 +1,1 @@
-var mnemonic = "few border alarm praise betray bleak bundle analyst stuff super parent mom";
+var mnemonic = "equip vehicle spirit gather anger next bomb opinion have pledge base collect";

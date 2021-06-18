@@ -1,1 +1,1 @@
-var mnemonic = "truth neck oxygen nephew false rookie pudding ecology inform divert awful rubber";
+var mnemonic = "thank trade possible duty true unique gauge want gauge artefact question learn";

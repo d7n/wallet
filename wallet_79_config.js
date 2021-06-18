@@ -1,1 +1,1 @@
-var mnemonic = "rally animal army elegant rent arena problem dish champion solution stone true";
+var mnemonic = "car balance jealous shop ghost anchor relief morning lonely brick grunt impose";

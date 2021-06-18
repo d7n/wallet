@@ -1,1 +1,1 @@
-var mnemonic = "team squeeze proof oil menu wonder fix guide today casino loyal vocal";
+var mnemonic = "crater start deliver solution virtual rubber below quit minor maze maple gesture";

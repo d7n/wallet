@@ -1,1 +1,1 @@
-var mnemonic = "knife grid vanish exclude unknown merge cook faculty topple razor dust room";
+var mnemonic = "coral forward chief brief surge pair negative aunt one dismiss fame advance";

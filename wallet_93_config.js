@@ -1,1 +1,1 @@
-var mnemonic = "cousin inquiry scatter whale upset nothing smart soul spare target spin ripple";
+var mnemonic = "crane poem document syrup degree veteran rice measure remember apology island raise";

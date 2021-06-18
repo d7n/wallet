@@ -1,1 +1,1 @@
-var mnemonic = "defense oblige topple foam cliff critic frost desert jazz truth switch window";
+var mnemonic = "abuse interest sunny trigger property laptop hen pen diagram raven middle intact";

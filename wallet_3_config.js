@@ -1,1 +1,1 @@
-var mnemonic = "loud pause eager frown wisdom tide trigger lake betray proof frame magnet";
+var mnemonic = "student minor arrive movie crouch wealth alien law spray found series ocean";

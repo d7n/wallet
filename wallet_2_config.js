@@ -1,1 +1,1 @@
-var mnemonic = "liar bind venue present boss crazy hockey benefit laptop venue diet diary";
+var mnemonic = "crouch cruise surround they make sudden wasp rigid rather mouse share exchange";

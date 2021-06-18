@@ -1,1 +1,1 @@
-var mnemonic = "unveil depart pride drill video humor shaft garden opinion vital lizard bring";
+var mnemonic = "canvas love cause glass leader twice stock enforce power gadget absent mushroom";

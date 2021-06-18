@@ -1,1 +1,1 @@
-var mnemonic = "deal glimpse kiss ship labor system purchase tag reward basic another science";
+var mnemonic = "kitchen title ladder proof like element year ordinary horse effort faith clump";

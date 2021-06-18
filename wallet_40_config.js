@@ -1,1 +1,1 @@
-var mnemonic = "crack visa supreme slight build between raccoon attend ask cycle phone engine";
+var mnemonic = "kitchen enable approve cup twelve tragic grain milk online photo hawk kidney";

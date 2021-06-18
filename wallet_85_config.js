@@ -1,1 +1,1 @@
-var mnemonic = "away wasp rib citizen grant click canoe smart kind silk coin wing";
+var mnemonic = "indicate believe cart industry clay grace divert monkey exist raven call assume";

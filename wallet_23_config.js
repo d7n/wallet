@@ -1,1 +1,1 @@
-var mnemonic = "sign wife beauty slice spare autumn meadow scheme bamboo boy use cable";
+var mnemonic = "purchase combine debris clip huge voice smart chaos medal hawk client grain";

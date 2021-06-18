@@ -1,1 +1,1 @@
-var mnemonic = "oblige hybrid promote swear female ramp napkin forward shield ignore just notice";
+var mnemonic = "all opera noise muscle absent salute return fancy over truth finish glance";

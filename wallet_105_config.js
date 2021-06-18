@@ -1,1 +1,1 @@
-var mnemonic = "dismiss note lawsuit sheriff ticket total post violin whip gather slush melt";
+var mnemonic = "predict require border mimic marine warm hint coyote antenna hen couch kidney";

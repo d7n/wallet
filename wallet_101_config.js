@@ -1,1 +1,1 @@
-var mnemonic = "honey violin lake elegant cook velvet any kind narrow dynamic purchase admit";
+var mnemonic = "polar burger chase theme smooth small achieve cereal shed nominee column useful";

@@ -1,1 +1,1 @@
-var mnemonic = "ill grab scan unit enjoy crime fish under weasel confirm fame middle";
+var mnemonic = "universe must gym flavor struggle course sudden history equip creek allow hen";

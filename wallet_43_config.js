@@ -1,1 +1,1 @@
-var mnemonic = "fruit wet patch venture mail utility search hat pupil cotton plug lion";
+var mnemonic = "consider rhythm swamp prepare subway art thumb matrix color catch bus flip";

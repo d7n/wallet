@@ -1,1 +1,1 @@
-var mnemonic = "collect differ this tobacco soldier rib major park barrel nose depart clock";
+var mnemonic = "short bring above welcome regular elder sauce nurse insect crystal endorse credit";

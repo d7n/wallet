@@ -1,1 +1,1 @@
-var mnemonic = "advance rely myself capital legend candy census office expand shop joy orchard";
+var mnemonic = "sense tackle example diamond pave silly wife market tragic eager find rug";

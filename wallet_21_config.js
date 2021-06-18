@@ -1,1 +1,1 @@
-var mnemonic = "digital develop love stand pride negative light obtain power actual physical script";
+var mnemonic = "win current practice bike file clog popular upgrade peanut drive despair proud";

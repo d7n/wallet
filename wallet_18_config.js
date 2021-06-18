@@ -1,1 +1,1 @@
-var mnemonic = "fiction color decade arctic thank differ rain auction push bless morning disease";
+var mnemonic = "envelope romance media message frog name drink forum purpose entry display oil";

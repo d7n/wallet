@@ -1,1 +1,1 @@
-var mnemonic = "joke exile punch bid lemon immense dream series mean staff disagree crystal";
+var mnemonic = "false require tuna alarm egg unique black impact bridge replace leave bamboo";

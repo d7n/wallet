@@ -1,1 +1,1 @@
-var mnemonic = "maximum torch author energy month belt resource gauge dwarf lion proud two";
+var mnemonic = "grass amateur traffic eyebrow south spider rotate toddler fortune load story acoustic";

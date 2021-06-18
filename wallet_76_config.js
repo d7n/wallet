@@ -1,1 +1,1 @@
-var mnemonic = "cruise advance usual devote bulk goddess waste blast damage lamp winner want";
+var mnemonic = "clinic voyage divert thrive wire hospital weird argue brass trust abandon supreme";

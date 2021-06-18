@@ -1,1 +1,1 @@
-var mnemonic = "pen screen trap humor round lunch dirt night fatigue beach fat live";
+var mnemonic = "almost van oven burger orient uniform coin warfare remove boring decrease error";

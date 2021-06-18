@@ -1,1 +1,1 @@
-var mnemonic = "provide divert picture present observe truth picnic predict giant food same churn";
+var mnemonic = "village teach lesson shoulder erase adapt good pause enhance float tuition fatal";

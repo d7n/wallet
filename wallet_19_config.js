@@ -1,1 +1,1 @@
-var mnemonic = "thought worth tattoo coast runway winter gym comic whisper side else detect";
+var mnemonic = "laundry buyer enable network live view daring tomorrow cannon industry tent coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "old digital blade benefit armor drill surge dinner excess prize broccoli stuff";
+var mnemonic = "craft plunge tomorrow father faculty advice mercy leave sing daughter decide kite";

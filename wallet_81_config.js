@@ -1,1 +1,1 @@
-var mnemonic = "mask market remove lamp fashion cannon space waste pluck finish spread casino";
+var mnemonic = "height apple endless fiscal shine wink brave park float raven unable priority";

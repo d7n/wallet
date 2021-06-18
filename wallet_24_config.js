@@ -1,1 +1,1 @@
-var mnemonic = "cover liquid gather vacuum pave whale decade wheat walnut tower deposit voice";
+var mnemonic = "cereal summer among indicate buyer ancient erupt hip retire student force member";

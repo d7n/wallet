@@ -1,1 +1,1 @@
-var mnemonic = "soon cliff general edge solar shoulder goose army lunar nephew rib sleep";
+var mnemonic = "leisure february satoshi monster absorb void very arch jazz travel ring future";

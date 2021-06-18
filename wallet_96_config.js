@@ -1,1 +1,1 @@
-var mnemonic = "memory pass wing pioneer task beyond pulse armor curve rebel aspect tide";
+var mnemonic = "anxiety steel october repeat exist rapid syrup twist visit slot answer midnight";

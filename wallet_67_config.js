@@ -1,1 +1,1 @@
-var mnemonic = "quit obscure service capital resist lemon mind guess cloud junk nurse blur";
+var mnemonic = "connect you come wheel lunch area size sugar ivory possible slam impact";

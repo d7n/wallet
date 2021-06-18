@@ -1,1 +1,1 @@
-var mnemonic = "output stay drink discover glide armor table engage bacon odor typical tomato";
+var mnemonic = "blossom spawn comic any fatal deposit develop love crack glue language knock";

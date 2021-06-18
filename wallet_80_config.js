@@ -1,1 +1,1 @@
-var mnemonic = "spike lemon output chicken rigid quality trust voyage diary naive science wage";
+var mnemonic = "cheese tomato extend life check wine whip employ hope win shadow quiz";

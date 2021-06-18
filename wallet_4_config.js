@@ -1,1 +1,1 @@
-var mnemonic = "lab boat will logic inmate virtual soda hazard neglect luggage damp easy";
+var mnemonic = "end surround system grunt pear such never toss length segment zone barely";

@@ -1,1 +1,1 @@
-var mnemonic = "lake hover neither stumble blade seat earn library modify tattoo piano easily";
+var mnemonic = "aunt ramp clutch morning iron motor kind eye ready lady meat caught";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator ugly assist risk myself alpha load advance crack open field section";
+var mnemonic = "faint common prepare extend peanut toy market renew canal calm trade cactus";

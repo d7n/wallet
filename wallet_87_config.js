@@ -1,1 +1,1 @@
-var mnemonic = "alcohol culture still wrist rally crush inside mosquito roof saddle naive coast";
+var mnemonic = "nation defy rug august wish hood hundred visual evil judge accident only";

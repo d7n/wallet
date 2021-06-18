@@ -1,1 +1,1 @@
-var mnemonic = "denial awful saddle seminar simple clinic raw tube census cancel vault pear";
+var mnemonic = "lizard album box female garlic three property tonight describe play mention must";

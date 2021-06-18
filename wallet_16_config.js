@@ -1,1 +1,1 @@
-var mnemonic = "interest lens page canoe paper divert liar dynamic asthma venue donkey cook";
+var mnemonic = "crew weird treat crew large vacant voyage deputy sign nurse furnace debris";

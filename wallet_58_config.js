@@ -1,1 +1,1 @@
-var mnemonic = "clerk fall patrol keep pass help video table apology body uniform cushion";
+var mnemonic = "goddess ankle clarify book three ritual transfer thing cave series frost common";

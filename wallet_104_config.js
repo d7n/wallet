@@ -1,1 +1,1 @@
-var mnemonic = "need another antenna table gasp weekend throw into gravity purity click roast";
+var mnemonic = "still blade replace ostrich resource number bitter gospel negative occur decade select";

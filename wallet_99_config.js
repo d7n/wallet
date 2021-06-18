@@ -1,1 +1,1 @@
-var mnemonic = "hollow broccoli poverty love act abstract useless hurt abandon cherry deal erode";
+var mnemonic = "path cloud miss skirt sponsor unknown transfer local scale mouse crystal corn";

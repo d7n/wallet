@@ -1,1 +1,1 @@
-var mnemonic = "enable fall matrix shell eagle zoo plastic ivory kingdom trigger retreat skirt";
+var mnemonic = "car render media file alone winner shield insane charge trumpet business extra";

@@ -1,1 +1,1 @@
-var mnemonic = "attack source life fire patient choice tennis unknown jeans clinic start weapon";
+var mnemonic = "kitten fine great cook breeze poverty cup tenant garment render second shoulder";

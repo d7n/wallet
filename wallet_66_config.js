@@ -1,1 +1,1 @@
-var mnemonic = "book can cradle six hospital peanut much chuckle vacuum rule day sorry";
+var mnemonic = "sort swamp vital episode satoshi alpha crystal tragic habit ship knee list";

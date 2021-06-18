@@ -1,1 +1,1 @@
-var mnemonic = "leaf column struggle topic police roof car zone success square afraid favorite";
+var mnemonic = "joke topple tragic body shed duck lumber lecture menu lamp feature rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble ahead river arrange vintage when head faint easily mansion pond hungry";
+var mnemonic = "protect tennis security spin trade clip soft guard cricket nuclear fade east";

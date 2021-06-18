@@ -1,1 +1,1 @@
-var mnemonic = "usage main picture artist patch weather trash catch pencil blossom ship tag";
+var mnemonic = "copy shrug tray input eternal desert notice usual assault gadget camera emerge";

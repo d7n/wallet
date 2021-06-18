@@ -1,1 +1,1 @@
-var mnemonic = "avoid forum bicycle movie word broom team accuse liquid accident notice soccer";
+var mnemonic = "length knock guide upon stay invest shadow cloth proud upgrade finish crisp";

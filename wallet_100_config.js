@@ -1,1 +1,1 @@
-var mnemonic = "copy enjoy hotel country yellow humble choice luggage silly upset stairs surround";
+var mnemonic = "fatal hole guess dial crush urban lesson replace movie tooth travel addict";

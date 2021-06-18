@@ -1,1 +1,1 @@
-var mnemonic = "laundry figure strategy payment glimpse february innocent discover beef century rain quote";
+var mnemonic = "list woman happy stock weather candy unhappy resource file traffic any scrub";

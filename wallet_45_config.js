@@ -1,1 +1,1 @@
-var mnemonic = "brief wrong corn vast pioneer shrimp kind fitness north aspect tackle scare";
+var mnemonic = "inherit stable room soap twice priority friend car pull divide device panther";

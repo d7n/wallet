@@ -1,1 +1,1 @@
-var mnemonic = "slot heart hurdle culture aunt pupil table noodle stage desert bachelor mouse";
+var mnemonic = "fabric vicious tooth spawn type wing way pool collect shift cruel exile";

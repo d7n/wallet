@@ -1,1 +1,1 @@
-var mnemonic = "resemble retreat absurd myth melody believe knife about sting cereal where mystery";
+var mnemonic = "cash crouch token just episode green raw direct tortoise blood affair twin";

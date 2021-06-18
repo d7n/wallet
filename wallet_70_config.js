@@ -1,1 +1,1 @@
-var mnemonic = "shop version submit fortune gaze angle bounce chef crucial debate food surge";
+var mnemonic = "kit liar orbit deny column peace peace flavor model because aspect orphan";

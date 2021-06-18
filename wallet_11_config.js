@@ -1,1 +1,1 @@
-var mnemonic = "floor boring worth slow dentist fox return toe amount predict unknown impact";
+var mnemonic = "angle wild service effort replace payment cup gate name zone giggle truth";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse ankle pink usual chair liquid you vital pact race yellow volume";
+var mnemonic = "hunt picnic tattoo wolf fatal drip grace math worry funny solid cash";

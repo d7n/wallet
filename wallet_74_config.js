@@ -1,1 +1,1 @@
-var mnemonic = "speak seminar hood capital aware stuff frozen once cargo stand slender remove";
+var mnemonic = "select manual sponsor maple author harsh clerk miss bronze shop wash garlic";

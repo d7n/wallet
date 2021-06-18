@@ -1,1 +1,1 @@
-var mnemonic = "grid tool bus tackle tenant aunt grief combine vehicle gun current mistake";
+var mnemonic = "alien paddle grunt inflict valve arrow hospital dolphin seven frequent hotel extend";

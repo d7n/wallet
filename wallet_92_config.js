@@ -1,1 +1,1 @@
-var mnemonic = "patient attitude rail true material donkey among oven buffalo ugly lawsuit update";
+var mnemonic = "orchard habit vague loop globe property inhale assault butter found plug tuna";

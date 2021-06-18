@@ -1,1 +1,1 @@
-var mnemonic = "blade pelican coin chair shield depart faith group fault require silver truth";
+var mnemonic = "wild surprise waste gown pupil parent undo floor problem forest manage able";

@@ -1,1 +1,1 @@
-var mnemonic = "world claw miss piece just aunt clump million shell speed beach actual";
+var mnemonic = "swing expect off brush illegal learn since pull yellow apology slab outside";

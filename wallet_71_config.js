@@ -1,1 +1,1 @@
-var mnemonic = "angle six muffin whale toilet minute option cabbage into limit popular dinosaur";
+var mnemonic = "climb extend suspect region jaguar know ill city clean describe stuff leg";

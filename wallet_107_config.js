@@ -1,1 +1,1 @@
-var mnemonic = "idea stock floor derive tonight actor sport embark public ghost reopen slight";
+var mnemonic = "snake shoot crazy liar thunder erosion plug height salute trash august canal";

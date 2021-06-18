@@ -1,1 +1,1 @@
-var mnemonic = "idea help vital trust congress enact sting shoulder mention ugly garbage knee";
+var mnemonic = "family hint sad scorpion resource skull apology box regret glow bounce media";

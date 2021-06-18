@@ -1,1 +1,1 @@
-var mnemonic = "garment alcohol bubble grant artefact section treat divert grow scout market cost";
+var mnemonic = "canyon anchor power august coast layer movie celery debate tortoise layer tribe";

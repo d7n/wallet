@@ -1,1 +1,1 @@
-var mnemonic = "evil connect garlic explain token mind tooth door pupil hurdle broken shrug";
+var mnemonic = "share aware loud kid true slim pen lounge pelican dutch jeans army";

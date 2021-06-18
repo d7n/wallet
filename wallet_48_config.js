@@ -1,1 +1,1 @@
-var mnemonic = "comic such myth noise woman satisfy stairs route family this crowd recycle";
+var mnemonic = "wine this push elite view once vital hunt poverty neutral time spot";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp wire write unveil sick glow zone switch clever fee reflect ocean";
+var mnemonic = "song cannon weather mystery favorite coast flock wheat easily cheap course flame";

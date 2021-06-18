@@ -1,1 +1,1 @@
-var mnemonic = "athlete answer rely parade much sport aunt knife snack child walk canoe";
+var mnemonic = "infant uphold legal taste motion slim bright property until spy rubber fox";
