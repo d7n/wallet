@@ -1,1 +1,1 @@
-var mnemonic = "two before tribe oven tank duty test trade offer van then mouse";
+var mnemonic = "blood frost six panda surprise mail candy crumble helmet minute color can";

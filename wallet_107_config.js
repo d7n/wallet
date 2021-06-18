@@ -1,1 +1,1 @@
-var mnemonic = "wall sweet eyebrow veteran pudding sunny wire mean broom ceiling outer glow";
+var mnemonic = "pioneer echo save forget cream remove rebuild wink alert off female drive";

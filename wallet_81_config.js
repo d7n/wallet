@@ -1,1 +1,1 @@
-var mnemonic = "bamboo title confirm cabin easily chief cream room ship view oil test";
+var mnemonic = "use toe coast ranch range sausage interest burst together crater chronic balance";

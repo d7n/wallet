@@ -1,1 +1,1 @@
-var mnemonic = "party insect elite retire guide report clever mistake hat twice volcano hold";
+var mnemonic = "taste soccer fence verb refuse federal nut scan float defense agree rack";

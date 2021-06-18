@@ -1,1 +1,1 @@
-var mnemonic = "tiger belt march regular spirit solar flush next odor midnight usage bid";
+var mnemonic = "prize airport bundle grace gallery stable surprise month become pave obtain minute";

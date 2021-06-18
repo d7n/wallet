@@ -1,1 +1,1 @@
-var mnemonic = "economy school bracket disagree page stomach since advice tragic boring online demand";
+var mnemonic = "neck act easily twelve supply festival thrive hello swift resist alien sound";

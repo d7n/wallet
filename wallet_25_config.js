@@ -1,1 +1,1 @@
-var mnemonic = "girl brick horn black vote velvet table vague limb collect scissors leave";
+var mnemonic = "warfare brand merge card volume sign push say slab tilt wide alpha";

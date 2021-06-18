@@ -1,1 +1,1 @@
-var mnemonic = "outside daring future spy acquire crater march speed proof sing shy wine";
+var mnemonic = "setup ski stick lab cheap hover screen office simple dish task rain";

@@ -1,1 +1,1 @@
-var mnemonic = "auto food vicious arctic desk grid vendor strike oven margin impulse hawk";
+var mnemonic = "domain great envelope fly reopen usage anxiety enrich label scrap razor quote";

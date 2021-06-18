@@ -1,1 +1,1 @@
-var mnemonic = "smart journey expand physical liquid tooth artwork chief rely trash execute spring";
+var mnemonic = "announce current poem confirm scrap yard despair talent dress misery radio sword";

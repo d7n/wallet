@@ -1,1 +1,1 @@
-var mnemonic = "plug bag pear welcome daughter subject suit safe inside tired trash cram";
+var mnemonic = "change job virtual toy fiscal hollow they subway shoe rocket approve volcano";

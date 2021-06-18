@@ -1,1 +1,1 @@
-var mnemonic = "wise damage pattern wire ankle trim dance myself blur keep magic grief";
+var mnemonic = "author arena reunion license slice gorilla pottery sadness found train describe live";

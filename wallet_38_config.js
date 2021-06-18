@@ -1,1 +1,1 @@
-var mnemonic = "bleak guide guess powder cargo best poem kiwi spring faculty label assist";
+var mnemonic = "achieve you flee viable moment error conduct when mention pet sock enhance";

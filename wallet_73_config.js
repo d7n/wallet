@@ -1,1 +1,1 @@
-var mnemonic = "roast clutch fabric jealous burden second job weather vote tell gain wisdom";
+var mnemonic = "render shop vital else oppose pepper scatter enemy damage clarify scrub wise";

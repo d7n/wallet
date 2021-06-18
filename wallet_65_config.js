@@ -1,1 +1,1 @@
-var mnemonic = "crawl cream donor hedgehog bonus board cannon bamboo flock toilet violin volcano";
+var mnemonic = "client riot hint wine blood suffer deal nation give can ivory miracle";

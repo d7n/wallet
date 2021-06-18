@@ -1,1 +1,1 @@
-var mnemonic = "comic dance month valve envelope satoshi axis divert primary vanish truck submit";
+var mnemonic = "addict rotate slam brush lava isolate finger hover canvas next favorite fortune";

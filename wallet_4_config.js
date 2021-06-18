@@ -1,1 +1,1 @@
-var mnemonic = "gospel manage plastic sniff evoke lens rebuild save raise pulse since symbol";
+var mnemonic = "pen duty path coil pulp found satisfy cricket rich load ignore erosion";

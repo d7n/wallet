@@ -1,1 +1,1 @@
-var mnemonic = "joke journey half blame transfer horn crowd blur west injury naive crunch";
+var mnemonic = "spot churn stumble confirm render symptom access require then analyst edge empty";

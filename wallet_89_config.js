@@ -1,1 +1,1 @@
-var mnemonic = "just test pave case few speed wait chronic hobby above toy quiz";
+var mnemonic = "ozone wild rib rhythm expose vanish hat shoot liberty soft wild stove";

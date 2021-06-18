@@ -1,1 +1,1 @@
-var mnemonic = "lift seat oven skull web brick quit marine execute guide peanut demand";
+var mnemonic = "cool left action exit infant nose conduct happy exact kiss clarify pink";

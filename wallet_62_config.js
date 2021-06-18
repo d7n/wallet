@@ -1,1 +1,1 @@
-var mnemonic = "equip violin coach acquire snack once clump arrive february reopen idea cloth";
+var mnemonic = "end fiscal come decide occur float end neutral gentle nest whale step";

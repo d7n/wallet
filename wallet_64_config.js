@@ -1,1 +1,1 @@
-var mnemonic = "deny twice outdoor abuse assault neither trend lobster stage winter dance minor";
+var mnemonic = "above truly decline stone prefer wink bulk choice duty effort predict egg";

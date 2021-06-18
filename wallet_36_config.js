@@ -1,1 +1,1 @@
-var mnemonic = "spider cactus say receive caught seek toast tail clerk orbit alone boring";
+var mnemonic = "just betray stumble collect soup either picture avoid lend public picnic survey";

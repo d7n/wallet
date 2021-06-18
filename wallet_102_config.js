@@ -1,1 +1,1 @@
-var mnemonic = "giraffe napkin banana conduct drink leave clutch people floor rule load absurd";
+var mnemonic = "shed inhale cycle can essay actor process milk pyramid board modify usage";

@@ -1,1 +1,1 @@
-var mnemonic = "off abandon stove divide kite trap fee forget cream maid toe sorry";
+var mnemonic = "diet vocal egg breeze shield dumb taxi select category image conduct twice";

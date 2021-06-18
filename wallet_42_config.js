@@ -1,1 +1,1 @@
-var mnemonic = "ostrich security employ sunset payment ready state saddle hazard easy trick emerge";
+var mnemonic = "uncover figure quote goose city sauce insane canoe trap electric novel merit";

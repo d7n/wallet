@@ -1,1 +1,1 @@
-var mnemonic = "fortune attitude deposit heart window outdoor reveal ginger tobacco life devote camp";
+var mnemonic = "load wife room life spoil neutral depart stadium weird leopard mosquito shop";

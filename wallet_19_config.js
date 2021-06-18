@@ -1,1 +1,1 @@
-var mnemonic = "floor analyst enough clown order potato tell tank typical ball truck art";
+var mnemonic = "alpha expire game dad wisdom height exclude market maximum diet stand color";

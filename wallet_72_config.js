@@ -1,1 +1,1 @@
-var mnemonic = "noble room nurse skull cave roof blanket viable radar place visual dumb";
+var mnemonic = "century seven enemy ring more fantasy venue maple subway laundry spend tribe";

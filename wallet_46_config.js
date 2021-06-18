@@ -1,1 +1,1 @@
-var mnemonic = "horse sausage joy dutch robust grass peanut abuse hero shoulder jeans rail";
+var mnemonic = "joy endorse boy boy mixture pretty crane wedding file rude squeeze weekend";

@@ -1,1 +1,1 @@
-var mnemonic = "forget hat success stem shuffle tomato radio plunge fan want brand corn";
+var mnemonic = "body enjoy ability also remind neck exchange injury else chunk elbow range";

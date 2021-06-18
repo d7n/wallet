@@ -1,1 +1,1 @@
-var mnemonic = "just junior mind deposit refuse banana sphere bench dress involve solar club";
+var mnemonic = "rally cheap isolate depend found simple often anger define tornado saddle image";

@@ -1,1 +1,1 @@
-var mnemonic = "love topic refuse romance reason play license dismiss curve phone toast metal";
+var mnemonic = "inmate interest start bind skirt achieve shift spoil minimum doll aunt culture";

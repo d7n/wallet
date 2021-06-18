@@ -1,1 +1,1 @@
-var mnemonic = "cupboard parent term coyote envelope carry dutch display name early table assist";
+var mnemonic = "journey valley vacant awake stock evil gun praise bike upper inspire clock";

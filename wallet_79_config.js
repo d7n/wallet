@@ -1,1 +1,1 @@
-var mnemonic = "merge vessel great artwork review spin auto seed absorb live view mask";
+var mnemonic = "vacuum usage tenant front rotate cargo near gate number primary glide purchase";

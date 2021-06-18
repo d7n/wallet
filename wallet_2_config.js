@@ -1,1 +1,1 @@
-var mnemonic = "derive coast cereal dawn rug cloth indoor critic planet corn rebel faint";
+var mnemonic = "sunset hat gown plunge agent sing skull crash table dose potato suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal segment swear marble swift pupil fault burden board pretty couch kit";
+var mnemonic = "beauty laptop regular chuckle call night type sea below pride cloud worth";

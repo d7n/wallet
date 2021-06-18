@@ -1,1 +1,1 @@
-var mnemonic = "clock nice milk squirrel predict please enhance pencil interest recall solution bubble";
+var mnemonic = "include attitude cheap magic month pottery patient soup vintage salute harvest give";

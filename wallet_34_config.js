@@ -1,1 +1,1 @@
-var mnemonic = "miracle novel detail box throw snake uniform belt exist old stumble proof";
+var mnemonic = "veteran spin chase smile flock banner deposit cigar student dance lawsuit defy";

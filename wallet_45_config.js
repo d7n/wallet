@@ -1,1 +1,1 @@
-var mnemonic = "excess scheme cactus wolf ordinary odor false deer buyer bracket rescue two";
+var mnemonic = "unveil car employ alley brave more entire crash frown funny chunk sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "final marine hurry prepare device fork surge favorite raven perfect machine blame";
+var mnemonic = "jelly toward indoor admit cave final clinic road skull twelve area private";

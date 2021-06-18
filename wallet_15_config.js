@@ -1,1 +1,1 @@
-var mnemonic = "choose cause diagram loyal answer mammal lizard gain crunch hidden above husband";
+var mnemonic = "shadow release level helmet deposit claim expect depend plug current swarm legal";

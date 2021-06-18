@@ -1,1 +1,1 @@
-var mnemonic = "photo media arctic insane worth stone sell thunder hammer planet purse awake";
+var mnemonic = "still police feature enrich trouble warrior shuffle zero slice army close timber";

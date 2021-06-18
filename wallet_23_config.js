@@ -1,1 +1,1 @@
-var mnemonic = "quantum world scheme bring sudden upper used patrol poet quiz model shadow";
+var mnemonic = "egg gossip rain love avoid science review vehicle swim close canoe private";

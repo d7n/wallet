@@ -1,1 +1,1 @@
-var mnemonic = "mountain ladder add fantasy deliver hair number fetch cycle puppy pencil dune";
+var mnemonic = "glow fire clutch sense exercise height system language method today umbrella unique";

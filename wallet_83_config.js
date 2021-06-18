@@ -1,1 +1,1 @@
-var mnemonic = "blind cycle blood actress evolve that knife receive below gentle connect flavor";
+var mnemonic = "detect lemon hidden into monster task drift olive black reduce spider spirit";

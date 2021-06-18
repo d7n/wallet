@@ -1,1 +1,1 @@
-var mnemonic = "crisp evolve sweet egg ostrich brass hammer divide print polar melt buddy";
+var mnemonic = "dutch huge tide hire argue insect axis empower two unique gun pink";

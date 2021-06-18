@@ -1,1 +1,1 @@
-var mnemonic = "collect simple drive goat gain dragon ball lucky giraffe fan pave long";
+var mnemonic = "first business idea number drama frown dress leave level defense matrix give";

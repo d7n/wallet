@@ -1,1 +1,1 @@
-var mnemonic = "proud frequent pause catch tenant invite require stereo catalog arena victory trial";
+var mnemonic = "lesson imitate assault solar since rival slice resemble wool hill sudden carbon";

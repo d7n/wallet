@@ -1,1 +1,1 @@
-var mnemonic = "power gown express pulse globe develop luxury cart melt chair wide ask";
+var mnemonic = "immune food stuff upper company wave chef lumber scrub exchange harbor toward";

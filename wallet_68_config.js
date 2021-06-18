@@ -1,1 +1,1 @@
-var mnemonic = "fuel lake curious crumble obey spice outdoor unveil clock carry pottery degree";
+var mnemonic = "before push album kiss unable awake remain behave never test digital already";

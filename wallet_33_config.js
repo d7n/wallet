@@ -1,1 +1,1 @@
-var mnemonic = "dolphin kind reunion shy muffin coyote elite domain into actress claim boss";
+var mnemonic = "mercy fetch exotic text play train story unusual few shield tray million";

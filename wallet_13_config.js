@@ -1,1 +1,1 @@
-var mnemonic = "tip foot venture verify carbon peasant risk save song feel slim lawsuit";
+var mnemonic = "bike festival flash wing hand scene series power song attack debris isolate";

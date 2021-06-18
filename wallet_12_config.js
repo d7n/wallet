@@ -1,1 +1,1 @@
-var mnemonic = "surprise coffee hood congress few runway salt myself couch tilt disease flat";
+var mnemonic = "image hole spoil diet motion satisfy chase fatigue raccoon beyond day address";

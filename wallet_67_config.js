@@ -1,1 +1,1 @@
-var mnemonic = "cheap junior husband delay ethics best close second clerk example spare affair";
+var mnemonic = "spend better frame advance offer message time member erode unable bounce used";

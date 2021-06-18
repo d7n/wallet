@@ -1,1 +1,1 @@
-var mnemonic = "cigar quit admit lyrics rural divide celery symptom retreat lens size spread";
+var mnemonic = "club hard tongue mixture normal dinosaur setup stuff pulp general spot skirt";

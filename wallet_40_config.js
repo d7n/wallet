@@ -1,1 +1,1 @@
-var mnemonic = "family swing emerge shallow abandon leopard dust quit before service mansion negative";
+var mnemonic = "merit near mosquito lyrics recipe kitten accident impact update wear jaguar physical";

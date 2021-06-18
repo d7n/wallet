@@ -1,1 +1,1 @@
-var mnemonic = "minor super beef grass increase awesome matrix include digital speak panther gravity";
+var mnemonic = "fee give lottery fuel nature coin cradle clog lonely prefer appear amazing";

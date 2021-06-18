@@ -1,1 +1,1 @@
-var mnemonic = "throw oblige high garlic marriage badge stadium stadium area baby fat hidden";
+var mnemonic = "seek prosper pottery pride blast year glad desert shuffle setup patient evoke";

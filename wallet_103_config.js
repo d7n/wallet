@@ -1,1 +1,1 @@
-var mnemonic = "maximum poverty regular uphold air update smoke trip debate nut remove south";
+var mnemonic = "skull arena taste arrange inside sustain seed again ripple casual struggle shock";

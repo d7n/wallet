@@ -1,1 +1,1 @@
-var mnemonic = "paddle crisp chef level village agent mandate fall essay kangaroo fiction puzzle";
+var mnemonic = "corn matter roast dawn donate seat tonight eagle mansion distance blush infant";

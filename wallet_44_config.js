@@ -1,1 +1,1 @@
-var mnemonic = "around race fitness admit squirrel among current what taste misery trumpet burst";
+var mnemonic = "hurry letter alert penalty crisp awesome trial ahead long silk leader debris";

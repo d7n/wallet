@@ -1,1 +1,1 @@
-var mnemonic = "risk merry journey frost embark point bulb shield easily soap rate correct";
+var mnemonic = "neglect chapter isolate insane abuse dial flush news moral order super pipe";

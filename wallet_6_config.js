@@ -1,1 +1,1 @@
-var mnemonic = "prepare keen elite fat science wet actual still robot job describe gasp";
+var mnemonic = "company gun render series dry cup habit prosper force thunder web thank";

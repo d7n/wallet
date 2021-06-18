@@ -1,1 +1,1 @@
-var mnemonic = "female lawsuit honey shop burst custom clay front clinic teach ranch swarm";
+var mnemonic = "retire comic manual dog diary cook caught decline blast drop must catch";

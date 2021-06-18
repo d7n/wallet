@@ -1,1 +1,1 @@
-var mnemonic = "doctor skull melt muscle chapter moment thrive latin crunch turn describe tide";
+var mnemonic = "symptom method space cage any obey manage other patient brief predict often";

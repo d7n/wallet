@@ -1,1 +1,1 @@
-var mnemonic = "hold soldier position output salmon pizza idle salute noodle minute allow flat";
+var mnemonic = "chef cycle limit direct young gain today early burst dwarf suffer ripple";

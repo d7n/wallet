@@ -1,1 +1,1 @@
-var mnemonic = "antique mesh word magic occur venture club volcano unveil stairs zero bargain";
+var mnemonic = "eager gate rich evil roof local skirt card fortune occur before phrase";

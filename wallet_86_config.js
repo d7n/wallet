@@ -1,1 +1,1 @@
-var mnemonic = "fever unable uniform funny dash east rough motion easily tape system slim";
+var mnemonic = "recipe ticket turn fringe strategy brick argue banana rocket stamp crash captain";

@@ -1,1 +1,1 @@
-var mnemonic = "picture metal object country interest skin cousin fruit skill sock two benefit";
+var mnemonic = "spread dance cloud nut auction element faint urban legend service disagree choose";

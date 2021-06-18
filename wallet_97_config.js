@@ -1,1 +1,1 @@
-var mnemonic = "damage enjoy sphere around sadness shield second sign whisper fold pluck wool";
+var mnemonic = "rack misery jelly clog weapon decide hazard tent custom lobster reject dinosaur";

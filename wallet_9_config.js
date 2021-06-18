@@ -1,1 +1,1 @@
-var mnemonic = "fork toy success oxygen opera biology fold health produce suffer pig destroy";
+var mnemonic = "balcony record foot invest first blue firm capital wrestle utility try field";

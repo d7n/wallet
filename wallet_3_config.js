@@ -1,1 +1,1 @@
-var mnemonic = "main abstract used sudden force flame glare wool grass raven virus autumn";
+var mnemonic = "series bacon diagram front minute rough sun crucial solid oyster service vault";

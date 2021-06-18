@@ -1,1 +1,1 @@
-var mnemonic = "moment scheme parrot spice common network weather pistol lake crouch air fit";
+var mnemonic = "beach ivory mom struggle soldier human avoid practice into night legend faculty";

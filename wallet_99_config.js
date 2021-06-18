@@ -1,1 +1,1 @@
-var mnemonic = "climb fitness music royal author riot social announce improve embody catalog elevator";
+var mnemonic = "cereal garment toddler divert extend absurd poem call item reject cheap pear";

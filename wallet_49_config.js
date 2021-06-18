@@ -1,1 +1,1 @@
-var mnemonic = "neutral skirt start keen marble turkey welcome spider addict humor renew mad";
+var mnemonic = "venture hair elephant absent bind vote vault frame seminar ask much flavor";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel ball shove check rude account bright hint chair oxygen vivid gas";
+var mnemonic = "frog reward strong drift wet obscure twin side lawsuit corn vapor east";

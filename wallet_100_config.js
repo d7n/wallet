@@ -1,1 +1,1 @@
-var mnemonic = "economy minimum person oak cross usage prosper wisdom airport approve route trial";
+var mnemonic = "regret early price half room cargo critic oppose wood sing expect nut";

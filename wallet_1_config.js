@@ -1,1 +1,1 @@
-var mnemonic = "rescue end prevent culture obey bachelor discover arena laugh wife shield follow";
+var mnemonic = "surge country space cinnamon lizard gloom clump reason lava wave express dignity";

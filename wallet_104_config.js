@@ -1,1 +1,1 @@
-var mnemonic = "proof lizard reopen renew hole unique core chapter depend uncle undo man";
+var mnemonic = "monitor weasel visa eight place paper stage run sphere solve train hello";

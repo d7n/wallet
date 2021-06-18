@@ -1,1 +1,1 @@
-var mnemonic = "able reform mother upper advice inherit hope meat boat hurt zebra iron";
+var mnemonic = "entry miss expand regular palace thing brief toy shine kiwi deliver kidney";

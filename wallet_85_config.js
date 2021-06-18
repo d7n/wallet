@@ -1,1 +1,1 @@
-var mnemonic = "diagram speak giggle twenty cannon shop window call satisfy cable scare elegant";
+var mnemonic = "truly tattoo auction stable leisure frost title allow shift museum essence since";

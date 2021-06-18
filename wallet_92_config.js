@@ -1,1 +1,1 @@
-var mnemonic = "devote echo wood wheat water wife hobby usage lake purchase chalk prize";
+var mnemonic = "angle crime shove silent idle velvet regret choice pair common source virtual";

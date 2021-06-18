@@ -1,1 +1,1 @@
-var mnemonic = "purpose weasel mixed pupil truly divert tuna rifle ten trip deliver fork";
+var mnemonic = "juice sorry acquire click sign jacket long food nuclear rate galaxy maid";

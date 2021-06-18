@@ -1,1 +1,1 @@
-var mnemonic = "logic grass slim snap must floor boat provide join chapter core today";
+var mnemonic = "believe sight pipe brown radio find same knock pigeon cannon imitate fold";

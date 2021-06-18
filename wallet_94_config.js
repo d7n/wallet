@@ -1,1 +1,1 @@
-var mnemonic = "squirrel actor toilet clerk dizzy subject travel basket letter angle craft tiger";
+var mnemonic = "bread truly crop vibrant era half depth puppy drift truth talk hybrid";

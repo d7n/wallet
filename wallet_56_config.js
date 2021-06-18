@@ -1,1 +1,1 @@
-var mnemonic = "peace invest business average shaft coral ketchup match laugh spring river insect";
+var mnemonic = "nerve vibrant health observe car damage reunion prosper village engine tissue medal";

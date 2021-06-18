@@ -1,1 +1,1 @@
-var mnemonic = "more chalk early neither rice fat service expire enlist lady friend doctor";
+var mnemonic = "equip coast noodle recycle pizza foot sheriff right spread once laundry access";

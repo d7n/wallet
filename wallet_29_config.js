@@ -1,1 +1,1 @@
-var mnemonic = "resemble captain vendor fortune shaft offer large hello all spoon promote mandate";
+var mnemonic = "urge find plate shove tilt cycle bleak father legend coral strategy reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "agent enhance picture female love basic rural attitude special fire print card";
+var mnemonic = "where estate neglect split screen nominee notice demand endorse insect scrap clip";

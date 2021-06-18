@@ -1,1 +1,1 @@
-var mnemonic = "elegant unusual next evoke champion quarter useful kiwi sting tomato arch squeeze";
+var mnemonic = "globe state steak alert lunch icon price couch industry sail live outer";

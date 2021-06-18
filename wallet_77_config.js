@@ -1,1 +1,1 @@
-var mnemonic = "garment cupboard replace museum adapt orient another gadget forget fetch focus menu";
+var mnemonic = "write leader couple merry note apart huge midnight mail push utility door";

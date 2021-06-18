@@ -1,1 +1,1 @@
-var mnemonic = "order buddy crawl gas negative ask few leopard come shoe pelican heart";
+var mnemonic = "pave roast whisper fluid dog birth depend cement ridge sword grocery stock";

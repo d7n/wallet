@@ -1,1 +1,1 @@
-var mnemonic = "steak lawsuit laugh obey master civil jeans mass pull betray churn harvest";
+var mnemonic = "ecology shock foot uniform snake rookie confirm identify assault hunt legal current";

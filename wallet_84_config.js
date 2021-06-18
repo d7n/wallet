@@ -1,1 +1,1 @@
-var mnemonic = "monkey marriage situate peanut stock animal child side profit cycle noise chapter";
+var mnemonic = "involve cruel bone fossil dial betray phrase cactus wife tourist cabbage spawn";

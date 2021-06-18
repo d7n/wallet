@@ -1,1 +1,1 @@
-var mnemonic = "advance fatal open relief december infant forest silent purpose road mobile glad";
+var mnemonic = "eternal peace long holiday hill receive hold bar ten fish tribe idle";
