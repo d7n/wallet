@@ -1,1 +1,1 @@
-var mnemonic = "man permit busy around undo sail museum truck correct wrestle fee unaware";
+var mnemonic = "issue decorate expose quantum ranch alpha kiss oblige pink can hope basket";

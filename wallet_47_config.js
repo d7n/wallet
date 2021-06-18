@@ -1,1 +1,1 @@
-var mnemonic = "canoe logic snow between clutch shaft language decrease seed mountain fetch afraid";
+var mnemonic = "age isolate unusual method cable leg page palace range display warm better";

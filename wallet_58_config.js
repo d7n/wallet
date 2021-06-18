@@ -1,1 +1,1 @@
-var mnemonic = "wire violin peasant mansion beyond misery junior grow expire betray crisp float";
+var mnemonic = "river height cart orange gospel rival brush tomorrow fatigue rug crew mobile";

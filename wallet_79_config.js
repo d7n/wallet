@@ -1,1 +1,1 @@
-var mnemonic = "surround pioneer vintage utility kid blast spin nothing basic primary learn frozen";
+var mnemonic = "security write rabbit galaxy swap fiber pumpkin sentence assault brother bracket acid";

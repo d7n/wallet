@@ -1,1 +1,1 @@
-var mnemonic = "rapid myself primary airport plastic toss actor wisdom drill warrior couch island";
+var mnemonic = "metal ivory praise fly upset mistake card renew vanish lady ranch announce";

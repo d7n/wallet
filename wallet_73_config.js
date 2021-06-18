@@ -1,1 +1,1 @@
-var mnemonic = "sick teach voyage moment large survey treat detect basic denial possible loyal";
+var mnemonic = "spread limb water tomorrow donate cry sand whale nurse brisk toast cost";

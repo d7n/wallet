@@ -1,1 +1,1 @@
-var mnemonic = "april include nose left grow gospel brave order false enforce next remove";
+var mnemonic = "maximum science avoid fringe range spy turn face dwarf decade claim beach";

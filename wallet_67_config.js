@@ -1,1 +1,1 @@
-var mnemonic = "since scissors romance spatial anxiety dice leave seminar wedding include heavy bomb";
+var mnemonic = "fan alert supply harvest maid student kitchen brave brick deposit romance sail";

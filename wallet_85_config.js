@@ -1,1 +1,1 @@
-var mnemonic = "pizza second fringe month public client vehicle damp image pool pact thank";
+var mnemonic = "knock barrel transfer kingdom fat verb muscle spoon woman fossil slow little";

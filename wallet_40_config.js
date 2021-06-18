@@ -1,1 +1,1 @@
-var mnemonic = "drop noble danger receive lift onion goddess kid fog cup fold sleep";
+var mnemonic = "gain shaft because stock loop decide prosper cruise birth private reveal million";

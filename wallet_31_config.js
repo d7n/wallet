@@ -1,1 +1,1 @@
-var mnemonic = "hood oval inch ostrich world maze exist panel secret foster dash total";
+var mnemonic = "entire have enhance pass soup energy bag enhance media gold enact crystal";

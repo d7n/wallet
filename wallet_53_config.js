@@ -1,1 +1,1 @@
-var mnemonic = "price list note fee blood decrease romance split need maple fence december";
+var mnemonic = "mercy soul burst neither abuse together real outside hint axis ball engage";

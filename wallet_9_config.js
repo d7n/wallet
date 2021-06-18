@@ -1,1 +1,1 @@
-var mnemonic = "earth jacket humble rally suspect clap next swarm access meadow sketch trigger";
+var mnemonic = "caught panic eagle erupt slot oxygen snap grant gun glimpse ride thank";

@@ -1,1 +1,1 @@
-var mnemonic = "park casino field smile crack parent drive like frown frozen find three";
+var mnemonic = "during sail place orient kick maximum wide reward couple fever robust coin";

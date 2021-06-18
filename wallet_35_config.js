@@ -1,1 +1,1 @@
-var mnemonic = "wage rich gospel cloth ugly address ivory embody tenant document cash combine";
+var mnemonic = "owner flip jaguar maximum trip light pig clarify helmet buddy book judge";

@@ -1,1 +1,1 @@
-var mnemonic = "maid deputy clever giggle area region lens drift move yard crisp lecture";
+var mnemonic = "egg mad describe beef present robot snow pair angle cave access olive";

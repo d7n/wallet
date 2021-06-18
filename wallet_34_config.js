@@ -1,1 +1,1 @@
-var mnemonic = "silly caution solid friend heart expect people denial invite coast number celery";
+var mnemonic = "glance garlic mother erupt useful excite luggage endorse expand zebra regret spoon";

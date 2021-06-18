@@ -1,1 +1,1 @@
-var mnemonic = "skate quit grass grit nation across eternal pledge exercise business wrist topic";
+var mnemonic = "approve tenant stay topic hour manual erupt boring lecture social exile guard";

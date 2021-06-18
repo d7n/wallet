@@ -1,1 +1,1 @@
-var mnemonic = "woman moment blouse pencil fabric jump blind observe mesh quiz boost car";
+var mnemonic = "adjust spider kid asset local live auto when odor apart dilemma light";

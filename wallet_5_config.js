@@ -1,1 +1,1 @@
-var mnemonic = "viable walk man first just embark final juice riot ghost year grid";
+var mnemonic = "sugar author leg jazz slide situate badge rate erode timber pizza color";

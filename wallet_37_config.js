@@ -1,1 +1,1 @@
-var mnemonic = "fog maid group pear van direct pen capable spoon fashion ritual scissors";
+var mnemonic = "east fancy gaze chuckle frog host quick swallow frozen uphold ordinary wire";

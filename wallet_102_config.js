@@ -1,1 +1,1 @@
-var mnemonic = "humor accident yard address entire fly drill exact follow situate mercy gown";
+var mnemonic = "retire patch fever penalty gentle bring impose danger leader radar legend balance";

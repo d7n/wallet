@@ -1,1 +1,1 @@
-var mnemonic = "black van end rotate merry drum wagon hip point subway gather twist";
+var mnemonic = "expand demise wash survey orphan ill harbor another glance drift mesh auto";

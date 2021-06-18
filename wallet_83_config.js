@@ -1,1 +1,1 @@
-var mnemonic = "uncover describe crime wise chat essence lizard sick this service pig ten";
+var mnemonic = "earth decline angle uncover robust eight fatal payment wisdom razor next wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "cash friend silent window elegant crazy faint hidden coin warm holiday exist";
+var mnemonic = "barrel random column defy cat laptop play extend caught cradle veteran aware";

@@ -1,1 +1,1 @@
-var mnemonic = "random earth bitter game eye source swing hurdle train erode cheap banner";
+var mnemonic = "phrase say inherit galaxy lunar shock sign pill sketch enact update brown";

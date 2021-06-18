@@ -1,1 +1,1 @@
-var mnemonic = "hand immune object session saddle message asset account ticket way behind flat";
+var mnemonic = "hope evolve aspect term craft glance trim intact dynamic pluck below tired";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum shove depart view wine improve lawn milk daughter identify enjoy stadium";
+var mnemonic = "topple cement depart price sunny filter used loan venue chair trade awake";

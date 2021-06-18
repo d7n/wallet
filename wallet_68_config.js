@@ -1,1 +1,1 @@
-var mnemonic = "gain middle own marble torch unaware toe outside monkey wrong clean popular";
+var mnemonic = "kiwi pair captain clutch caught assume identify burger hole stone slush ill";

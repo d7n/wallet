@@ -1,1 +1,1 @@
-var mnemonic = "spy exhibit belt guess drip bless tower pipe patrol coyote medal slice";
+var mnemonic = "phrase odor gloom more movie weather opinion tomorrow any panic mosquito blur";

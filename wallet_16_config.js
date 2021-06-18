@@ -1,1 +1,1 @@
-var mnemonic = "beach trip raw acquire bubble silk husband glue ordinary pact cement flip";
+var mnemonic = "glare pulse pass orchard future supply coast jewel drive nice call suspect";

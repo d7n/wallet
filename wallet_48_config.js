@@ -1,1 +1,1 @@
-var mnemonic = "cross crew lawsuit million output fence describe cattle wreck eight merry soul";
+var mnemonic = "tooth cradle earth wash fame shuffle indicate bridge energy mercy used credit";

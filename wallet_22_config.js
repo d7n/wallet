@@ -1,1 +1,1 @@
-var mnemonic = "pledge cruise only certain fringe cement arrest deposit you rack air gown";
+var mnemonic = "pipe tube pass fringe someone modify hurdle lemon amount season aware box";

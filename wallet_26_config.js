@@ -1,1 +1,1 @@
-var mnemonic = "bleak sphere aspect slim armed loud nose quote confirm embark arctic black";
+var mnemonic = "mix world judge company super minor lady win come dirt first open";

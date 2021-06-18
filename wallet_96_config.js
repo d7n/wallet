@@ -1,1 +1,1 @@
-var mnemonic = "blood pudding lawsuit toward track wide horse lava scissors feed sand better";
+var mnemonic = "ship repeat sudden guide desk police galaxy casino perfect work chicken brain";

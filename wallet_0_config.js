@@ -1,1 +1,1 @@
-var mnemonic = "across maze sheriff track woman crouch still gaze vendor change cricket used";
+var mnemonic = "between glass wife radar night combine deputy usage purse shop essay penalty";

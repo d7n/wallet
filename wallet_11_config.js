@@ -1,1 +1,1 @@
-var mnemonic = "prize stairs spider language gravity lawn casino vivid oppose fancy convince life";
+var mnemonic = "regular monster copper term cluster fiction uncover cover vapor argue spice desk";

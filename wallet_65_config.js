@@ -1,1 +1,1 @@
-var mnemonic = "fiber awake blouse degree consider blanket leave leisure setup decorate trigger island";
+var mnemonic = "hammer soon envelope vessel lumber vacant air loud first mammal swallow float";

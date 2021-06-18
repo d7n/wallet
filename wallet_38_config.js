@@ -1,1 +1,1 @@
-var mnemonic = "orient two manual spider clay casual custom ship broken ripple clinic indoor";
+var mnemonic = "tonight scrap drip winner peanut settle toilet fresh grid vacuum skin wild";

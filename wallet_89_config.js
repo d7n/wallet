@@ -1,1 +1,1 @@
-var mnemonic = "adapt kidney dinner play time cheese drastic wave tide chief puzzle major";
+var mnemonic = "hockey rural brother gospel pause ancient pelican dinosaur slogan quote engage ceiling";

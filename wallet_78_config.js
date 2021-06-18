@@ -1,1 +1,1 @@
-var mnemonic = "misery chapter coach motor toy join picnic occur logic earn spring battle";
+var mnemonic = "again whisper two despair loop bamboo second avoid run truly west ritual";

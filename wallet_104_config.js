@@ -1,1 +1,1 @@
-var mnemonic = "name vacant fabric gentle fall day domain leopard sponsor flight ripple romance";
+var mnemonic = "knee science grief forward badge area side play bird post jelly today";

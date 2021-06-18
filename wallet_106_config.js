@@ -1,1 +1,1 @@
-var mnemonic = "warm shy pulse casual sadness vault toe floor tiger bracket casino call";
+var mnemonic = "dad swap drink maximum fence pond drip school earth enroll hunt upon";

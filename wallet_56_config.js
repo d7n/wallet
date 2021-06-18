@@ -1,1 +1,1 @@
-var mnemonic = "forum prefer word game flag possible student interest primary casino run miracle";
+var mnemonic = "jar flee minute mango amount era pilot canal hybrid later pottery swarm";

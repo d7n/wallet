@@ -1,1 +1,1 @@
-var mnemonic = "rich hello hurt type quarter dolphin jungle number method undo rug number";
+var mnemonic = "solution net van better tower blouse direct cat audit debris print present";

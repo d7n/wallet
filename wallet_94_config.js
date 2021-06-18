@@ -1,1 +1,1 @@
-var mnemonic = "energy episode way upset smile congress print horn uphold salmon fit middle";
+var mnemonic = "warfare apology render magic category distance auto program mesh thrive few isolate";

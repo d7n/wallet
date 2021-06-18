@@ -1,1 +1,1 @@
-var mnemonic = "length story dove owner asthma camera spell lecture scene thumb stove crane";
+var mnemonic = "crush rain very will surprise lemon enable paddle crystal jacket call desk";

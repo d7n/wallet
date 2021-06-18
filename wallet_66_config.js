@@ -1,1 +1,1 @@
-var mnemonic = "add never fire empower power find write mystery bus vacant deliver pledge";
+var mnemonic = "dice century palm organ bread milk illegal call pole scare sword dirt";

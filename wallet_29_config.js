@@ -1,1 +1,1 @@
-var mnemonic = "move lab outdoor curve garage jump trial mix bracket pencil home car";
+var mnemonic = "liar churn rain issue genuine lazy forest rich reflect federal water spin";

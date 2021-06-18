@@ -1,1 +1,1 @@
-var mnemonic = "when early nest enact suggest find never vintage poverty daughter repeat draft";
+var mnemonic = "elder donkey describe flock curious strategy blur antique expect south zone repair";

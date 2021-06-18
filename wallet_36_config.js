@@ -1,1 +1,1 @@
-var mnemonic = "marble jeans license lava tag route hurdle smile equal share hood always";
+var mnemonic = "visa tunnel utility outer rotate diamond police point forward review record approve";

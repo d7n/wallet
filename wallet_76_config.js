@@ -1,1 +1,1 @@
-var mnemonic = "boost online hub stand magnet leaf oppose vanish squirrel diagram already cool";
+var mnemonic = "student mimic avocado gas organ deputy accuse demand enact alter volcano buffalo";

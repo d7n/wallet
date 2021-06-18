@@ -1,1 +1,1 @@
-var mnemonic = "toward rural side dirt family buffalo virus answer daughter swift exercise travel";
+var mnemonic = "private maple reopen spirit artwork permit skirt document midnight unlock drive physical";

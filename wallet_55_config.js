@@ -1,1 +1,1 @@
-var mnemonic = "pause depend meadow shallow ring gap oppose copper maze when search bleak";
+var mnemonic = "breeze place scheme proud survey cigar rotate shine universe wrong hill shop";

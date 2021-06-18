@@ -1,1 +1,1 @@
-var mnemonic = "magic arrow best donate brisk great scout rich ensure rhythm verb put";
+var mnemonic = "cat answer tank virtual lunch alley exchange burst infant acquire border junk";

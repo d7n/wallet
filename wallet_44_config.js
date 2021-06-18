@@ -1,1 +1,1 @@
-var mnemonic = "enact mouse ripple shallow invest luggage toddler cherry spike indicate mesh soon";
+var mnemonic = "mention exhibit strike paper debate castle west blind peasant swear pact quantum";

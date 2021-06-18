@@ -1,1 +1,1 @@
-var mnemonic = "hour acquire wedding measure surge chunk replace mountain muscle holiday cradle twenty";
+var mnemonic = "theme few afford salmon grid tilt congress various nuclear rifle small opera";

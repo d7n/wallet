@@ -1,1 +1,1 @@
-var mnemonic = "dash grace salute tissue weather luggage manual squeeze suffer settle material demise";
+var mnemonic = "audit mango pull desert scissors one spirit cargo news dinner voice sweet";

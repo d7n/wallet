@@ -1,1 +1,1 @@
-var mnemonic = "home hero upgrade urge guide erode solar festival half rely mass night";
+var mnemonic = "matter solid session letter proud novel wet snap grape kite swarm game";

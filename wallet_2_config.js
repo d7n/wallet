@@ -1,1 +1,1 @@
-var mnemonic = "hat spoon female letter simple estate trade fresh repair sorry quantum car";
+var mnemonic = "around witness ramp crack alert slice sting comic brief bid love social";

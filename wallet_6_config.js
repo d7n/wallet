@@ -1,1 +1,1 @@
-var mnemonic = "confirm crew lock chat toilet way biology local bacon rebel speed prosper";
+var mnemonic = "owner brown abuse perfect palace price people slow excuse can about desk";

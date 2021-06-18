@@ -1,1 +1,1 @@
-var mnemonic = "ghost immune bulb science cheap super general describe blind dizzy ahead vocal";
+var mnemonic = "exhibit between shift decade divorce try pole snack coffee journey poet invite";

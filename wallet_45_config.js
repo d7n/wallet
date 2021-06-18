@@ -1,1 +1,1 @@
-var mnemonic = "moral enable frequent ceiling prize goddess rebuild wild quote baby topic such";
+var mnemonic = "crater animal dinosaur woman tiny tourist abuse cloth bottom spoon home split";

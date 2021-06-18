@@ -1,1 +1,1 @@
-var mnemonic = "useless river share kind father pudding pudding chapter uphold aerobic tumble bracket";
+var mnemonic = "paper wrap situate dust hybrid loan desert ahead camera polar stomach abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "midnight drink female crisp exile tackle slogan budget domain club sample powder";
+var mnemonic = "trigger guard general useful estate ice sausage year message skull shiver apple";

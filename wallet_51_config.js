@@ -1,1 +1,1 @@
-var mnemonic = "deliver grocery robust enable cheap brass skate brown olympic hello creek safe";
+var mnemonic = "catch deputy finish announce early census private tennis army hope stomach carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige organ cliff style pledge essence bleak duty cream voice cram renew";
+var mnemonic = "short reject slam check arm oven half material shallow popular fantasy cat";

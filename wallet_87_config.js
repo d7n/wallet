@@ -1,1 +1,1 @@
-var mnemonic = "shaft flash auction inform crisp later answer castle impulse mercy hamster smoke";
+var mnemonic = "giggle coast furnace road curtain february long gain slide rescue blouse enable";

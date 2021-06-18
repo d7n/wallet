@@ -1,1 +1,1 @@
-var mnemonic = "advice canoe verify since vault prefer display scorpion ball maze mask gallery";
+var mnemonic = "what stone trumpet feature cup erupt inject help gorilla moon room door";

@@ -1,1 +1,1 @@
-var mnemonic = "poet diesel panel bunker harbor arrive supreme erode ginger smooth aerobic wood";
+var mnemonic = "beauty mixture spring demise document hill poem produce scare puppy only box";

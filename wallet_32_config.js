@@ -1,1 +1,1 @@
-var mnemonic = "slim close rude valve super there collect kid bachelor report neglect wealth";
+var mnemonic = "curtain engine grab blush eyebrow ordinary better lawsuit napkin grant uncover achieve";

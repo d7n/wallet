@@ -1,1 +1,1 @@
-var mnemonic = "ahead keep catalog team thought enemy quote crack extra tired valid inform";
+var mnemonic = "thumb guitar street only usual patch siren rally north help collect multiply";

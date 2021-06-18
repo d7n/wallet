@@ -1,1 +1,1 @@
-var mnemonic = "interest pear future foot nut rebel spend image shift error list disorder";
+var mnemonic = "swift toss track post enough lyrics arrow magic boil situate daring mother";

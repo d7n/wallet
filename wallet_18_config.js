@@ -1,1 +1,1 @@
-var mnemonic = "cricket crush turtle want object call lottery poverty wait rescue mountain remember";
+var mnemonic = "speak gospel asthma pilot thunder section dismiss actress harvest wreck treat exile";

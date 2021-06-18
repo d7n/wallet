@@ -1,1 +1,1 @@
-var mnemonic = "copper dragon decade clerk edit gloom throw thunder define adjust fruit need";
+var mnemonic = "exhibit review crane silver popular like honey honey ribbon cash acid vocal";

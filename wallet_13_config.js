@@ -1,1 +1,1 @@
-var mnemonic = "juice possible maid bargain cliff lemon topic assume device solution hospital observe";
+var mnemonic = "desert way afford lend faith gym eager great brand glow rotate mystery";

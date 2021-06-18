@@ -1,1 +1,1 @@
-var mnemonic = "loud midnight fire grow economy correct law muscle balance upset drama draft";
+var mnemonic = "ankle citizen join cart post cattle card foam another piano angry suspect";

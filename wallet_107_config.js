@@ -1,1 +1,1 @@
-var mnemonic = "vessel raccoon mean wagon duck sea reopen east excuse injury skill assume";
+var mnemonic = "notice survey reason gasp divert rural dolphin scare drip little state relax";

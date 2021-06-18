@@ -1,1 +1,1 @@
-var mnemonic = "vast water novel plastic depth pride fantasy train sound trial host canvas";
+var mnemonic = "canal kiss equip shadow van grunt answer earn machine oval cruel sort";

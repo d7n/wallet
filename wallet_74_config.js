@@ -1,1 +1,1 @@
-var mnemonic = "thing glove math worth scatter educate lucky doctor goat special dismiss gaze";
+var mnemonic = "head screen hidden close bone ask brother loud palm lazy joy donate";

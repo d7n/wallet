@@ -1,1 +1,1 @@
-var mnemonic = "nuclear evolve wave zone submit spice cruel stock swim trip humble decade";
+var mnemonic = "age plug tobacco right trophy lazy unfold decide mule cash cotton mix";

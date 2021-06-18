@@ -1,1 +1,1 @@
-var mnemonic = "float leg artwork copy mass give say still other change play grant";
+var mnemonic = "mechanic project critic gorilla disagree sun source forum trim bench steak march";

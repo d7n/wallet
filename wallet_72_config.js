@@ -1,1 +1,1 @@
-var mnemonic = "jewel hard alter dentist agent switch climb canoe despair day slam accident";
+var mnemonic = "green hint latin sad certain hero remain future priority earth use add";

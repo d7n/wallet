@@ -1,1 +1,1 @@
-var mnemonic = "mammal cram drip chest cannon carpet crater frown moral scan provide pool";
+var mnemonic = "curve phrase north fan glue ladder miss turkey arena abuse wrist slide";

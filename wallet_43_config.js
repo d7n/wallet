@@ -1,1 +1,1 @@
-var mnemonic = "insane million sister giraffe gain spell clever parade tunnel soft crush tortoise";
+var mnemonic = "toddler garbage aim sure dizzy myth dinner expand victory version cinnamon planet";

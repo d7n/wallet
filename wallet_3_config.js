@@ -1,1 +1,1 @@
-var mnemonic = "napkin table vendor shoot invest length supreme parent puzzle range call enter";
+var mnemonic = "old armor surround tiger faculty robot check ceiling machine odor spawn assist";

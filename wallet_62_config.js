@@ -1,1 +1,1 @@
-var mnemonic = "title debris situate melody evoke zero level sleep hollow end busy will";
+var mnemonic = "lady guess melt bronze engine arena size blade liar convince cluster color";

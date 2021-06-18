@@ -1,1 +1,1 @@
-var mnemonic = "ticket opinion original pioneer diary clutch excite coil near amateur between fix";
+var mnemonic = "head hair network brown charge hope utility switch away hurry fiction bulk";

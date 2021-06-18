@@ -1,1 +1,1 @@
-var mnemonic = "asset damage trip boss success town leaf moral mammal perfect pretty regret";
+var mnemonic = "damage decade achieve quantum rebuild gallery artwork hazard panda stuff device fall";

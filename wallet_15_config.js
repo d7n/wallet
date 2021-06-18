@@ -1,1 +1,1 @@
-var mnemonic = "leaf uncover napkin glad jewel punch lawn broken toddler labor flip gorilla";
+var mnemonic = "young parent bicycle agent reject sleep sausage lake kingdom ranch essay combine";

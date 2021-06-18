@@ -1,1 +1,1 @@
-var mnemonic = "identify object asthma ladder crop soul dynamic actor auction hub embody arctic";
+var mnemonic = "whip tape neither inspire convince people upper tell alarm immune photo cruel";

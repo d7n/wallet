@@ -1,1 +1,1 @@
-var mnemonic = "beef diagram tenant harvest lamp best project door furnace cactus anger puzzle";
+var mnemonic = "daring hope slam blood list rail reopen life demand captain uniform advance";

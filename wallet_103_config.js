@@ -1,1 +1,1 @@
-var mnemonic = "setup census success know village abstract box cement welcome next sponsor age";
+var mnemonic = "account crowd slogan congress sun thrive elevator output estate faith tooth cement";

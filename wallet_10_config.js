@@ -1,1 +1,1 @@
-var mnemonic = "act vendor place agent mushroom school guilt earn lucky wide cruel sponsor";
+var mnemonic = "once fat forget abandon inject taste private cruel digital target brain ribbon";

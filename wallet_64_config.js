@@ -1,1 +1,1 @@
-var mnemonic = "pen similar couple innocent across session eyebrow prosper mix victory popular adapt";
+var mnemonic = "reopen float trap kite zone wine race slogan slot gloom cat certain";

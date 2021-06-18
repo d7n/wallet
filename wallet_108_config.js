@@ -1,1 +1,1 @@
-var mnemonic = "distance fork dream wrap soul mother neutral defy orange punch near solution";
+var mnemonic = "grocery abuse album wait refuse benefit olive void dizzy gesture know poet";

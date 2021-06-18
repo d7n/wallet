@@ -1,1 +1,1 @@
-var mnemonic = "salt admit yard clump lucky crystal help govern flock auction lawsuit course";
+var mnemonic = "pony spray guide lucky quit diary cattle ball wait omit million now";
