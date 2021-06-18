@@ -1,1 +1,1 @@
-var mnemonic = "observe cube congress alone possible image weapon object neither found myth burden";
+var mnemonic = "cross drama trigger science female balcony sunset account weapon join honey tone";

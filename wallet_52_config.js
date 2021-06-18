@@ -1,1 +1,1 @@
-var mnemonic = "upper alert list fitness choose engine tiger agent cheap brisk glow design";
+var mnemonic = "recycle erase inquiry joke verb easily identify opinion nose future glad outside";

@@ -1,1 +1,1 @@
-var mnemonic = "orient tower slight observe better taxi assume girl cotton twin stove oblige";
+var mnemonic = "second photo deliver brown all boy vessel knife flee finish evoke skull";

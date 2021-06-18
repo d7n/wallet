@@ -1,1 +1,1 @@
-var mnemonic = "mercy fitness kitchen famous often banner harsh object glory piece offer retreat";
+var mnemonic = "sun swap tooth maximum decrease eye melt motor release captain bless scatter";

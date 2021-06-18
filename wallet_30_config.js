@@ -1,1 +1,1 @@
-var mnemonic = "wire bamboo similar stove enough oven ripple deal injury reward ski term";
+var mnemonic = "night alcohol slight yellow account fruit spray review govern maximum road wish";

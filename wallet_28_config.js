@@ -1,1 +1,1 @@
-var mnemonic = "soft express scale jungle fetch celery gravity middle uncover much found twist";
+var mnemonic = "praise tip glow motion bachelor bonus seven jelly control follow hedgehog common";

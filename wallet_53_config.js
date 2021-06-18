@@ -1,1 +1,1 @@
-var mnemonic = "welcome snake reward depart stove course loop over weird produce later girl";
+var mnemonic = "virtual vessel outer village world citizen relax finish fiber post wedding floor";

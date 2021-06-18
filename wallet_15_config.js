@@ -1,1 +1,1 @@
-var mnemonic = "ethics wrong amateur wisdom height rule runway level speak hero involve jungle";
+var mnemonic = "glory bright paper boring analyst like public tribe siege test slogan armor";

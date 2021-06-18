@@ -1,1 +1,1 @@
-var mnemonic = "ritual toilet amused burst grape luxury strategy famous puppy bird spider trend";
+var mnemonic = "lamp august cushion meat green index wisdom dumb noise mandate property reflect";

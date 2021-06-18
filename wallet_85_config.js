@@ -1,1 +1,1 @@
-var mnemonic = "tone lens fame napkin bomb debate universe retire aerobic blame mushroom smart";
+var mnemonic = "amazing path dentist intact enter confirm stuff hope canal page inmate worth";

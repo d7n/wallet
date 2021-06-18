@@ -1,1 +1,1 @@
-var mnemonic = "emotion addict degree guide meat escape jeans dawn three stage world expose";
+var mnemonic = "amateur write bicycle head woman language other right cool salute lawn video";

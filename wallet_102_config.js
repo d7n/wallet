@@ -1,1 +1,1 @@
-var mnemonic = "auto idea home someone illegal marriage relax mercy coil lizard shoe limb";
+var mnemonic = "upon fury lizard dizzy endorse giant oval tooth define vivid bicycle sudden";

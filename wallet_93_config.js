@@ -1,1 +1,1 @@
-var mnemonic = "comfort screen simple scatter sunny title race outside real message mother work";
+var mnemonic = "escape estate female attack film slight piano parade abandon crop just file";

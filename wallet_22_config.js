@@ -1,1 +1,1 @@
-var mnemonic = "clerk spot betray tag into ceiling give perfect extra actor present bubble";
+var mnemonic = "derive crack cat replace maid theory fiction planet hero slice pizza host";

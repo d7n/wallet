@@ -1,1 +1,1 @@
-var mnemonic = "message apology acoustic grit decide attract economy fun pipe uniform absorb action";
+var mnemonic = "feature jacket powder teach reform cliff coffee tool ozone seek screen next";

@@ -1,1 +1,1 @@
-var mnemonic = "try voyage name holiday fetch veteran strike around fog oppose above uniform";
+var mnemonic = "surface abandon upper tenant cook dilemma small enrich lazy apart illness huge";

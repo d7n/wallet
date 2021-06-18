@@ -1,1 +1,1 @@
-var mnemonic = "miracle tube setup world scare juice arch ginger neither traffic three tube";
+var mnemonic = "nominee stool shoot pitch type burger predict basic subway fragile arrest depend";

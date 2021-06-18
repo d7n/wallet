@@ -1,1 +1,1 @@
-var mnemonic = "grain general put occur setup delay unknown response fashion inform prefer spy";
+var mnemonic = "frame icon census praise penalty evidence surge toilet congress during column city";

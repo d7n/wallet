@@ -1,1 +1,1 @@
-var mnemonic = "stumble success nut pen pulp maple fun actress zoo rubber stock rare";
+var mnemonic = "skull general enforce mutual vintage hybrid tell pig parade useless foil faith";

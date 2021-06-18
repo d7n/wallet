@@ -1,1 +1,1 @@
-var mnemonic = "sunny convince wrap fresh oyster indoor sample dinner layer glow earn end";
+var mnemonic = "reveal dial amateur robot lizard roast stage inspire burger pink fitness omit";

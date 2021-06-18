@@ -1,1 +1,1 @@
-var mnemonic = "average parrot bus switch romance maze tennis wagon cover defense math whale";
+var mnemonic = "seek seven balance normal syrup glass again marriage relax disorder attend increase";

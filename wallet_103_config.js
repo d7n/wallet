@@ -1,1 +1,1 @@
-var mnemonic = "crop medal ring opinion firm buyer enhance ecology enemy naive duck treat";
+var mnemonic = "chuckle tragic battle surround kick pizza isolate brown cheese icon desk seek";

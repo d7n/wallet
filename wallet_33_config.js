@@ -1,1 +1,1 @@
-var mnemonic = "bleak arrest lecture error chuckle vicious job mountain employ audit alter absent";
+var mnemonic = "cinnamon globe remember shy boss jacket grain stock door happy drastic excess";

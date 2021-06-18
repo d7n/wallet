@@ -1,1 +1,1 @@
-var mnemonic = "key vivid weasel sleep stay kitten vicious flower boring ceiling glow follow";
+var mnemonic = "around invest hurt love develop fiction approve solar globe seat category sail";

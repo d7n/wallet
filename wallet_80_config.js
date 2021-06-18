@@ -1,1 +1,1 @@
-var mnemonic = "century boost screen patrol garden long tongue camp bachelor deputy replace follow";
+var mnemonic = "skull solar cattle shed build cable silent volcano upper license explain manual";

@@ -1,1 +1,1 @@
-var mnemonic = "express lab slender provide face solar predict pool cousin enhance food diamond";
+var mnemonic = "table rabbit vintage wall holiday very marble salt tonight million reflect false";

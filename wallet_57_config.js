@@ -1,1 +1,1 @@
-var mnemonic = "include ride body escape chalk quantum cube twice initial bring spin banner";
+var mnemonic = "express bomb good young cupboard fade purpose friend boil arena flavor grow";

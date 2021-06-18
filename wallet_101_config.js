@@ -1,1 +1,1 @@
-var mnemonic = "mimic agent speed draft joy number orbit fall flash grief hawk buffalo";
+var mnemonic = "wet exhibit exact picnic innocent tower fly alien act film tide left";

@@ -1,1 +1,1 @@
-var mnemonic = "merry dumb forum success issue same public humble doctor first feel silly";
+var mnemonic = "card castle task actress tail village inch dial other pledge obtain smooth";

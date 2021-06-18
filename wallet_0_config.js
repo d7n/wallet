@@ -1,1 +1,1 @@
-var mnemonic = "box snake siege immense galaxy level carpet aware transfer clutch believe divide";
+var mnemonic = "print disease island member fly busy measure result usage asset age amazing";

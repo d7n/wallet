@@ -1,1 +1,1 @@
-var mnemonic = "tiger wing soldier custom castle ranch holiday buyer crop word ozone unit";
+var mnemonic = "matrix clump apart manage doctor tonight fresh cycle vital matter furnace crash";

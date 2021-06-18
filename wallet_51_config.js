@@ -1,1 +1,1 @@
-var mnemonic = "fetch holiday power tent old lock hat coral dizzy mass proof hundred";
+var mnemonic = "hungry fabric wash glad hole sand winner tide harsh tumble caught pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "used code else siege basic lunar pilot slab payment empty judge whisper";
+var mnemonic = "split palace uncle destroy soda betray illegal remind image good crash sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze install fat broken eternal cry message bone enter skate rubber pet";
+var mnemonic = "hidden orphan maid flee raccoon weather globe second brush immense vivid left";

@@ -1,1 +1,1 @@
-var mnemonic = "loud can flat foster game law typical fire zebra above cook sunset";
+var mnemonic = "oppose voyage valid solve basket window library mansion position secret endorse catalog";

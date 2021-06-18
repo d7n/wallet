@@ -1,1 +1,1 @@
-var mnemonic = "door praise junior junk buddy catch area luggage act february describe pelican";
+var mnemonic = "recycle must purchase minute mother profit rocket nothing feel soccer click such";

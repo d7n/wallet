@@ -1,1 +1,1 @@
-var mnemonic = "steel achieve begin shuffle leg arch flight chair wheel dice finger aunt";
+var mnemonic = "man outside lake hawk oil elevator impose void episode spice enforce fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "bone random coach frozen dry universe lounge carry abandon suggest domain border";
+var mnemonic = "involve rookie aunt shoe puppy soon screen climb phone common such shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "sniff cabin solar prize junior bar cattle laptop spell boss solar chunk";
+var mnemonic = "scatter disease patch grace silk major endless three scatter police wolf input";

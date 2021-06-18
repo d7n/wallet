@@ -1,1 +1,1 @@
-var mnemonic = "pair arena boy typical payment check barely grape excuse awesome promote glare";
+var mnemonic = "cigar approve globe juice casual gather ten video submit follow permit already";

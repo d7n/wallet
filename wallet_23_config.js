@@ -1,1 +1,1 @@
-var mnemonic = "high mystery length exist trim solve height biology toast plastic hand disagree";
+var mnemonic = "coil museum final under install polar detail satisfy ivory path ramp fabric";

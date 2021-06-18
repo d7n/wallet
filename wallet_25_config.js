@@ -1,1 +1,1 @@
-var mnemonic = "tribe present piano eye captain equal under repeat subway alley canoe boat";
+var mnemonic = "pink power spread people actor grid fortune access frozen elder gospel ice";

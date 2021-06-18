@@ -1,1 +1,1 @@
-var mnemonic = "question essence festival father party hire dumb avocado injury glass sustain urge";
+var mnemonic = "vanish spike march rare symptom hurdle disorder lobster tilt coach auction survey";

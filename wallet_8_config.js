@@ -1,1 +1,1 @@
-var mnemonic = "dolphin awful split spy rifle business region can guess early dress wisdom";
+var mnemonic = "tired hundred luggage team aerobic door gospel endorse exile wife surprise orchard";

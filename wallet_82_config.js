@@ -1,1 +1,1 @@
-var mnemonic = "measure solid pass cereal seminar sun heart wink primary spawn rare risk";
+var mnemonic = "foam train easy mule ivory such under flag gloom present pencil energy";

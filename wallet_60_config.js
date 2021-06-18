@@ -1,1 +1,1 @@
-var mnemonic = "cram brain spawn lawn dish target fly surround manual dynamic motion puppy";
+var mnemonic = "clog dirt student spell jump play laugh slice drastic grunt evil mutual";

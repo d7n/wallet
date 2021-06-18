@@ -1,1 +1,1 @@
-var mnemonic = "salt decrease sphere pupil spread tribe siren knife rifle utility ordinary acoustic";
+var mnemonic = "hazard damage truly blame bench invest survey outside biology rescue can citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "dream ginger connect wrestle sponsor since force total vivid woman predict enter";
+var mnemonic = "hurdle soul wait utility ripple ostrich search winner carry liberty grape cruel";

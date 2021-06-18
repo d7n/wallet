@@ -1,1 +1,1 @@
-var mnemonic = "adapt twenty captain horror suggest token hurt legal avoid alert violin first";
+var mnemonic = "current favorite danger toss vacant stomach mesh unknown nation purity crush dragon";

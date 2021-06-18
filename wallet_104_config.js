@@ -1,1 +1,1 @@
-var mnemonic = "keep mimic jewel throw pudding sausage unhappy settle acid obvious mesh media";
+var mnemonic = "draft fetch theme oil property grace program tenant measure speed wife citizen";

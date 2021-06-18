@@ -1,1 +1,1 @@
-var mnemonic = "medal staff favorite opera drive pitch trend slogan color offer ranch gossip";
+var mnemonic = "drop clinic torch cloth soon letter odor live pudding follow token price";

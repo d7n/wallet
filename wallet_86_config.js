@@ -1,1 +1,1 @@
-var mnemonic = "hood stock actor credit question year congress nature office advice outer vendor";
+var mnemonic = "chapter broccoli spring alarm code raccoon taste actor six silk toward display";

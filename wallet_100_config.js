@@ -1,1 +1,1 @@
-var mnemonic = "chunk axis carbon live output sentence gospel moment doll grit pyramid wing";
+var mnemonic = "pulp divert coast torch grit okay pony rule emerge panel middle brave";

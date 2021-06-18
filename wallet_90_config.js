@@ -1,1 +1,1 @@
-var mnemonic = "poverty together float great message hobby brown pipe job earth profit industry";
+var mnemonic = "popular inspire prepare laugh prevent local benefit vast green mail answer space";

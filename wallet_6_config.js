@@ -1,1 +1,1 @@
-var mnemonic = "gossip crush kid retire elevator retreat this security camp noodle collect mountain";
+var mnemonic = "minor copy unaware piece grunt obtain crisp armed purse buddy castle basic";

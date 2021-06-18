@@ -1,1 +1,1 @@
-var mnemonic = "chef extend bitter elbow inner grain symptom twin until rifle eight enjoy";
+var mnemonic = "flat canal uncover rug region vicious erase series shock rather wink shy";

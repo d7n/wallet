@@ -1,1 +1,1 @@
-var mnemonic = "idle ship apple property neutral multiply bulb arch truly pottery tell two";
+var mnemonic = "fun clock turn recipe garden design delay moon degree inject exclude retire";

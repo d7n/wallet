@@ -1,1 +1,1 @@
-var mnemonic = "eight double ostrich undo resource cry drum sing narrow immense alcohol orchard";
+var mnemonic = "squeeze enemy describe bachelor cancel wealth foster insane empower fit series feel";

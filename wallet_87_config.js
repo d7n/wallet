@@ -1,1 +1,1 @@
-var mnemonic = "tip trash chuckle couple dice brain orphan name october choice aerobic coyote";
+var mnemonic = "grunt tattoo crush slice maid message extra awful industry parrot inner tower";

@@ -1,1 +1,1 @@
-var mnemonic = "run chunk about chaos grace swim text catalog same rather dragon morning";
+var mnemonic = "turtle october choose very faculty alien soup this surge viable pigeon gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze caught differ quality uncover feel erode tourist prevent town fly auction";
+var mnemonic = "barely symptom suggest hair parent strong neglect spare luxury monkey motion conduct";

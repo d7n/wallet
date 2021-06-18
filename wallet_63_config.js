@@ -1,1 +1,1 @@
-var mnemonic = "alcohol crack ignore pride chase try merit meadow uniform beauty inhale address";
+var mnemonic = "aware horse radio pizza rural scene reform core cherry observe grape broom";

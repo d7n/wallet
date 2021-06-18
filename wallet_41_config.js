@@ -1,1 +1,1 @@
-var mnemonic = "whip thing crouch thumb maximum pupil memory never canyon net school saddle";
+var mnemonic = "burger cliff keep curve shell sun forest typical olive cricket tuna napkin";

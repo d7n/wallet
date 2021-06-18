@@ -1,1 +1,1 @@
-var mnemonic = "law joy prize nuclear blood voice indicate express friend cage old security";
+var mnemonic = "atom estate order bacon roof duck garbage cushion unusual coil bring bundle";

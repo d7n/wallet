@@ -1,1 +1,1 @@
-var mnemonic = "unveil casual peasant glue chunk vivid corn report annual fortune false crush";
+var mnemonic = "route visual pizza expose couch tape vacant sign immense canoe mountain zero";

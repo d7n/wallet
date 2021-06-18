@@ -1,1 +1,1 @@
-var mnemonic = "senior spawn game mechanic frown intact globe second man lava fall cannon";
+var mnemonic = "film couple burger gorilla strike icon consider obscure jump cushion taste girl";

@@ -1,1 +1,1 @@
-var mnemonic = "december what winter bridge verify nature carry eyebrow weekend raccoon addict treat";
+var mnemonic = "panel valley ability hundred modify egg term luxury awesome luxury sponsor spell";

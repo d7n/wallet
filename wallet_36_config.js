@@ -1,1 +1,1 @@
-var mnemonic = "bid salad argue common repair quantum roof dilemma pumpkin object describe visit";
+var mnemonic = "later motion safe bitter soda fantasy federal fade lounge metal panther phrase";

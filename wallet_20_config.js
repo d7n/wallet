@@ -1,1 +1,1 @@
-var mnemonic = "pair omit define doll fork aunt angle tourist park stamp wrap jacket";
+var mnemonic = "fade square eagle inhale wheel spider cattle ball leave bounce blanket all";

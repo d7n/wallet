@@ -1,1 +1,1 @@
-var mnemonic = "harbor index misery salt twice bike grow only lock exist prefer verb";
+var mnemonic = "again rebel spice dad people churn tuna cat oxygen any random conduct";

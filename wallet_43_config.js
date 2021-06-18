@@ -1,1 +1,1 @@
-var mnemonic = "swarm stand people wall shed scatter degree glow spatial length such invest";
+var mnemonic = "found fiscal budget solve consider weekend able twin view bottom come lion";

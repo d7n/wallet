@@ -1,1 +1,1 @@
-var mnemonic = "jealous hybrid occur dream rug expand churn slot casino butter screen ready";
+var mnemonic = "carbon spin insect actor climb media subject solve frame sight pink first";

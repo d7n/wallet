@@ -1,1 +1,1 @@
-var mnemonic = "beach daring essay fame blood syrup tunnel broccoli describe smoke chest tiger";
+var mnemonic = "buzz range behave weather double unhappy letter impact eagle cycle energy student";

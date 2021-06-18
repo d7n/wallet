@@ -1,1 +1,1 @@
-var mnemonic = "wife basic fruit hospital caught gallery sword fury neutral under tragic pepper";
+var mnemonic = "trade indicate effort save similar mask attend where brain wrestle catch remember";

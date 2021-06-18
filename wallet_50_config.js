@@ -1,1 +1,1 @@
-var mnemonic = "blouse early echo cake copy version pitch pen dress search obtain good";
+var mnemonic = "brass fold debris endless fly badge muffin public shoot fix release tool";

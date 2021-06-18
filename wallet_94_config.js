@@ -1,1 +1,1 @@
-var mnemonic = "same divide tornado three rifle chapter crush pig welcome web buddy urge";
+var mnemonic = "program fame gym few patient furnace glad matrix document lava three wine";

@@ -1,1 +1,1 @@
-var mnemonic = "banner credit okay anger future fiscal smart second cave tragic panic rookie";
+var mnemonic = "agree bulb east pencil athlete cheese scatter still thing dinosaur aspect hamster";

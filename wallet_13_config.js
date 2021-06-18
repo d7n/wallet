@@ -1,1 +1,1 @@
-var mnemonic = "write inner silent menu road glare pigeon reward alert fork inform exile";
+var mnemonic = "cook garment forget item arrest sniff light any various belt parrot sword";

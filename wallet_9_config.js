@@ -1,1 +1,1 @@
-var mnemonic = "clinic solution speak rude burger liquid fortune skate trophy lyrics jazz youth";
+var mnemonic = "bulb usage door dentist faculty water manage cause yard void list swamp";

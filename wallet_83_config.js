@@ -1,1 +1,1 @@
-var mnemonic = "stick crowd entry trial between pledge obscure legal carbon disorder lesson daring";
+var mnemonic = "output bonus gloom weekend umbrella shrug toddler auto save estate comic butter";

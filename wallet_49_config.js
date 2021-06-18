@@ -1,1 +1,1 @@
-var mnemonic = "advance hero wagon two focus barely expand giraffe portion output physical embody";
+var mnemonic = "depart want hour wish verb scale crazy chuckle glove energy cabbage act";

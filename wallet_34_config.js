@@ -1,1 +1,1 @@
-var mnemonic = "roast rug maple shove caution over slim rocket ship better era escape";
+var mnemonic = "annual combine silly option outer trash retreat fat clutch tornado change rocket";

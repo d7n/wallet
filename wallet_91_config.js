@@ -1,1 +1,1 @@
-var mnemonic = "mirror hub echo glove recall impose arm close exile tool wreck vibrant";
+var mnemonic = "know tide dream dinosaur gossip track this fix solar boat rice proud";

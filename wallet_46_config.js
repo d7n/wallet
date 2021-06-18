@@ -1,1 +1,1 @@
-var mnemonic = "sort web region planet correct prevent dinosaur hungry run obey initial coconut";
+var mnemonic = "congress solution panic ostrich theory hero small faith custom smart bomb quote";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic baby tongue empty estate away critic pull similar lottery hair renew";
+var mnemonic = "bronze banana milk delay useful click short appear slide point twelve capable";

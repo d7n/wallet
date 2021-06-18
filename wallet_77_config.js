@@ -1,1 +1,1 @@
-var mnemonic = "brain multiply noodle obtain tenant reform prepare move mercy chest learn hub";
+var mnemonic = "just write pilot scorpion rug can city rice call buffalo juice coach";

@@ -1,1 +1,1 @@
-var mnemonic = "window toy install laugh spice flight sweet believe rich when acquire capital";
+var mnemonic = "razor depend sniff toddler cinnamon fuel response chair skate knee gentle sleep";

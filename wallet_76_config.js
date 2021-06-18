@@ -1,1 +1,1 @@
-var mnemonic = "vast mouse pet genius grass dumb finish credit matrix vivid flower raise";
+var mnemonic = "soccer flush find song reform frost inmate alarm relief chief month chest";
