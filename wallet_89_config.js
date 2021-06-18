@@ -1,1 +1,1 @@
-var mnemonic = "blur carpet bird talk draft robot april gossip blood gauge hover level";
+var mnemonic = "deer keep body pet they nation purchase oak liberty security bracket baby";

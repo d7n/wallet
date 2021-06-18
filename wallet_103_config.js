@@ -1,1 +1,1 @@
-var mnemonic = "moment metal cargo picture sound beauty suffer guard bone ring smooth grow";
+var mnemonic = "elevator ugly assist risk myself alpha load advance crack open field section";

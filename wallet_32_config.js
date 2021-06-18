@@ -1,1 +1,1 @@
-var mnemonic = "nurse eye cause joy vault impulse bread loyal what fox planet success";
+var mnemonic = "flight trash kit spice creek dove echo tail alert grab glimpse tomato";

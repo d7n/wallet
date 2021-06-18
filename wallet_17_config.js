@@ -1,1 +1,1 @@
-var mnemonic = "risk beach federal knee cactus upper moon provide shrug amount course apart";
+var mnemonic = "advance rely myself capital legend candy census office expand shop joy orchard";

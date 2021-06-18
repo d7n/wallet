@@ -1,1 +1,1 @@
-var mnemonic = "giant budget teach again banner purpose ostrich episode warfare quiz shoe purse";
+var mnemonic = "old digital blade benefit armor drill surge dinner excess prize broccoli stuff";

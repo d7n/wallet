@@ -1,1 +1,1 @@
-var mnemonic = "decrease bitter outdoor range always aspect siege citizen sphere renew blame oil";
+var mnemonic = "icon worry actress razor math caught mean album sad artefact settle scale";

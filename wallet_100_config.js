@@ -1,1 +1,1 @@
-var mnemonic = "entire february habit beyond shop earth banana dirt rescue broccoli entry attack";
+var mnemonic = "copy enjoy hotel country yellow humble choice luggage silly upset stairs surround";

@@ -1,1 +1,1 @@
-var mnemonic = "meat shoulder century mobile dress fat wheel syrup yard present law upset";
+var mnemonic = "dismiss note lawsuit sheriff ticket total post violin whip gather slush melt";

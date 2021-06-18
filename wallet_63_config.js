@@ -1,1 +1,1 @@
-var mnemonic = "imitate near october trumpet pact around blouse fine angry picture fringe believe";
+var mnemonic = "usage main picture artist patch weather trash catch pencil blossom ship tag";

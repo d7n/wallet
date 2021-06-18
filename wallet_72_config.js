@@ -1,1 +1,1 @@
-var mnemonic = "nerve praise stumble two shell hospital unveil copy object bachelor surround test";
+var mnemonic = "leaf column struggle topic police roof car zone success square afraid favorite";

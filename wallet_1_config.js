@@ -1,1 +1,1 @@
-var mnemonic = "glass print meadow baby rug apart jump hybrid episode legal position spare";
+var mnemonic = "soon cliff general edge solar shoulder goose army lunar nephew rib sleep";

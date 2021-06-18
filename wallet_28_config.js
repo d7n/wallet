@@ -1,1 +1,1 @@
-var mnemonic = "expose olive left stem dinner dream feature daughter wool ignore series whale";
+var mnemonic = "unhappy remind come rifle tiger door street outside cargo scene symptom gloom";

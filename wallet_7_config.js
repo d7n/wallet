@@ -1,1 +1,1 @@
-var mnemonic = "penalty suspect air scale shift dragon mango crawl betray angry wall impulse";
+var mnemonic = "wall purse filter animal abuse force expect retire black jazz either shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth guide air unfair cause evolve left crucial material decade devote gospel";
+var mnemonic = "owner song giant tooth profit roast eye then heart edge give afford";

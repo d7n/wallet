@@ -1,1 +1,1 @@
-var mnemonic = "number body steak taxi visa capable trouble disease coil imitate else aspect";
+var mnemonic = "defense oblige topple foam cliff critic frost desert jazz truth switch window";

@@ -1,1 +1,1 @@
-var mnemonic = "inner coin cream woman digital about fortune comic rubber latin father frog";
+var mnemonic = "occur twin drop paper owner valve hard owner aware debate copy slice";

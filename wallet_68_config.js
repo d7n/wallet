@@ -1,1 +1,1 @@
-var mnemonic = "shift tongue rack job other race add false lizard found gadget oblige";
+var mnemonic = "avoid forum bicycle movie word broom team accuse liquid accident notice soccer";

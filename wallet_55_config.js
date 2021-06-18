@@ -1,1 +1,1 @@
-var mnemonic = "exit aspect wear world mouse ready mask loyal title frame badge maid";
+var mnemonic = "world claw miss piece just aunt clump million shell speed beach actual";

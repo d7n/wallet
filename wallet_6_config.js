@@ -1,1 +1,1 @@
-var mnemonic = "nose humble rate long blur stone smile clay input dragon stand crime";
+var mnemonic = "lift lumber certain bachelor praise drastic right large bicycle index visit firm";

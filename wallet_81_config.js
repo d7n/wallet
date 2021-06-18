@@ -1,1 +1,1 @@
-var mnemonic = "puzzle off refuse during grocery ten slam consider easy child rate shallow";
+var mnemonic = "mask market remove lamp fashion cannon space waste pluck finish spread casino";

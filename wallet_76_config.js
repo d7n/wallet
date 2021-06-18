@@ -1,1 +1,1 @@
-var mnemonic = "pelican feel warrior basket bring balance fantasy utility task project remember live";
+var mnemonic = "cruise advance usual devote bulk goddess waste blast damage lamp winner want";

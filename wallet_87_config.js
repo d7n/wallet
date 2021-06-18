@@ -1,1 +1,1 @@
-var mnemonic = "busy lady ocean choose pyramid recycle today gasp come avocado report material";
+var mnemonic = "alcohol culture still wrist rally crush inside mosquito roof saddle naive coast";

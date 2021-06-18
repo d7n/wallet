@@ -1,1 +1,1 @@
-var mnemonic = "zone meadow fatal gym very naive nothing stand shoulder busy lunch coach";
+var mnemonic = "crisp wire write unveil sick glow zone switch clever fee reflect ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "horror uncle side bulk harvest cabin drip atom science thumb current tribe";
+var mnemonic = "slot heart hurdle culture aunt pupil table noodle stage desert bachelor mouse";

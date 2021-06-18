@@ -1,1 +1,1 @@
-var mnemonic = "someone element drastic chronic drift verb heavy violin major cement flee blood";
+var mnemonic = "maximum torch author energy month belt resource gauge dwarf lion proud two";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd dinosaur giant struggle hand just identify liberty deer silent sibling like";
+var mnemonic = "truth neck oxygen nephew false rookie pudding ecology inform divert awful rubber";

@@ -1,1 +1,1 @@
-var mnemonic = "tell replace nuclear final fluid enroll mandate mad camera bar target charge";
+var mnemonic = "hill reveal buzz assist plug coral round unable praise zebra spray emerge";

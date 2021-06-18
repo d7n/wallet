@@ -1,1 +1,1 @@
-var mnemonic = "suit that night million produce possible bunker brain credit famous echo drip";
+var mnemonic = "mouse ankle pink usual chair liquid you vital pact race yellow volume";

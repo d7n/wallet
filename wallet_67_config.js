@@ -1,1 +1,1 @@
-var mnemonic = "club viable just jewel oil speed wide electric confirm shoe barrel shadow";
+var mnemonic = "quit obscure service capital resist lemon mind guess cloud junk nurse blur";

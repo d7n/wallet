@@ -1,1 +1,1 @@
-var mnemonic = "grab sun achieve burden leaf coach frost umbrella ramp brick material person";
+var mnemonic = "globe cream rally glove couch naive kick genre ability pistol cup divert";

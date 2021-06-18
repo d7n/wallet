@@ -1,1 +1,1 @@
-var mnemonic = "head baby heavy expect parrot trip history define crowd human harbor arrest";
+var mnemonic = "tail sense aisle wool carry found grid swamp vintage tail admit wise";

@@ -1,1 +1,1 @@
-var mnemonic = "shine thumb orange chimney ugly duty brother convince gentle obscure mimic glad";
+var mnemonic = "idea help vital trust congress enact sting shoulder mention ugly garbage knee";

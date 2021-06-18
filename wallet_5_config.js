@@ -1,1 +1,1 @@
-var mnemonic = "material mushroom picnic dish shield loop nominee level magic notable ketchup grape";
+var mnemonic = "input ethics law bind horn bird pitch business priority hamster rifle normal";

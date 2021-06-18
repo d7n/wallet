@@ -1,1 +1,1 @@
-var mnemonic = "venue fiction rib tag possible nothing few alter option future marriage barrel";
+var mnemonic = "shop version submit fortune gaze angle bounce chef crucial debate food surge";

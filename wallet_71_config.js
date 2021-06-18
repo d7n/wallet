@@ -1,1 +1,1 @@
-var mnemonic = "utility useless web train clip forum saddle giggle buddy basket few glad";
+var mnemonic = "angle six muffin whale toilet minute option cabbage into limit popular dinosaur";

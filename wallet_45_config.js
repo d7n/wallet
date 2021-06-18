@@ -1,1 +1,1 @@
-var mnemonic = "there earth review possible swing shift cushion polar away theory author lava";
+var mnemonic = "brief wrong corn vast pioneer shrimp kind fitness north aspect tackle scare";

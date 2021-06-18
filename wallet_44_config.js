@@ -1,1 +1,1 @@
-var mnemonic = "face squirrel title salute huge poet fabric wrong drip butter deposit fit";
+var mnemonic = "glide glow scissors deputy brave sleep strong strategy table cluster prevent pitch";

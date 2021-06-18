@@ -1,1 +1,1 @@
-var mnemonic = "laptop veteran minor junk tell fitness chunk practice scare spread exercise demand";
+var mnemonic = "rally animal army elegant rent arena problem dish champion solution stone true";

@@ -1,1 +1,1 @@
-var mnemonic = "open veteran radar setup cable favorite sheriff always royal vocal intact bleak";
+var mnemonic = "silent muscle mixture crumble card reflect orchard tone captain stairs junior retreat";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch elder begin solar brisk tenant clap spend receive quantum hold example";
+var mnemonic = "enable fall matrix shell eagle zoo plastic ivory kingdom trigger retreat skirt";

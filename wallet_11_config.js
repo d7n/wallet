@@ -1,1 +1,1 @@
-var mnemonic = "witness light alert rule soon guard picture one model small clever distance";
+var mnemonic = "floor boring worth slow dentist fox return toe amount predict unknown impact";

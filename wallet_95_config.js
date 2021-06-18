@@ -1,1 +1,1 @@
-var mnemonic = "brave mule thought attack blame what cook fold inject robot sword cupboard";
+var mnemonic = "gauge law survey lemon innocent bubble oven shuffle edge either zero belt";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt hair alley caution alley rapid forget climb input card bracket video";
+var mnemonic = "need another antenna table gasp weekend throw into gravity purity click roast";

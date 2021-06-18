@@ -1,1 +1,1 @@
-var mnemonic = "virus drip snake firm final speed excess unit settle lyrics concert gauge";
+var mnemonic = "laundry figure strategy payment glimpse february innocent discover beef century rain quote";

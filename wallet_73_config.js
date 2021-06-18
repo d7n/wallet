@@ -1,1 +1,1 @@
-var mnemonic = "swing couch asthma victory lesson silly board meat robust recall thrive job";
+var mnemonic = "pen screen trap humor round lunch dirt night fatigue beach fat live";

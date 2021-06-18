@@ -1,1 +1,1 @@
-var mnemonic = "panic cradle umbrella valley umbrella affair guilt apple omit provide renew gloom";
+var mnemonic = "output stay drink discover glide armor table engage bacon odor typical tomato";

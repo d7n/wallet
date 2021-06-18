@@ -1,1 +1,1 @@
-var mnemonic = "expand heart awkward boil exist minor alarm decrease used noodle culture juice";
+var mnemonic = "float pond side forum legend style affair comfort clap arena name they";

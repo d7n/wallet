@@ -1,1 +1,1 @@
-var mnemonic = "immune joke grid glow kit have pass clerk success snack winter you";
+var mnemonic = "crack visa supreme slight build between raccoon attend ask cycle phone engine";

@@ -1,1 +1,1 @@
-var mnemonic = "supreme squeeze salt manage noble column mountain way mutual cargo castle page";
+var mnemonic = "target maple balcony human awesome eyebrow top unable favorite search bronze side";

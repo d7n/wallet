@@ -1,1 +1,1 @@
-var mnemonic = "ridge someone ensure police match skirt smoke fiscal verify wire pipe amateur";
+var mnemonic = "clerk fall patrol keep pass help video table apology body uniform cushion";

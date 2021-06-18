@@ -1,1 +1,1 @@
-var mnemonic = "penalty focus october glimpse report hero doctor flame lab property twin gauge";
+var mnemonic = "comic such myth noise woman satisfy stairs route family this crowd recycle";

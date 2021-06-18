@@ -1,1 +1,1 @@
-var mnemonic = "judge quiz harvest fat remain fix gather seat code move puppy gasp";
+var mnemonic = "resemble retreat absurd myth melody believe knife about sting cereal where mystery";

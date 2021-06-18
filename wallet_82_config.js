@@ -1,1 +1,1 @@
-var mnemonic = "deposit million custom match between genuine ridge congress online mad tiger holiday";
+var mnemonic = "ill grab scan unit enjoy crime fish under weasel confirm fame middle";

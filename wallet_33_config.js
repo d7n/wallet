@@ -1,1 +1,1 @@
-var mnemonic = "sleep print assume jeans lake thrive deer scare put domain embark layer";
+var mnemonic = "cushion crane chase rude strike lion sorry provide broccoli alpha velvet choice";

@@ -1,1 +1,1 @@
-var mnemonic = "blue goat skin rifle call hen force stay lesson all parrot crack";
+var mnemonic = "joke exile punch bid lemon immense dream series mean staff disagree crystal";

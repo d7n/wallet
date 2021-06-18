@@ -1,1 +1,1 @@
-var mnemonic = "tree harvest leopard lift mail front pull have hair hotel armed era";
+var mnemonic = "creek comfort rely pigeon family gospel junior rare swear weapon hospital address";

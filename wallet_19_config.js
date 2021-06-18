@@ -1,1 +1,1 @@
-var mnemonic = "hazard tissue bridge mistake gasp twin remove clerk radar region sample arm";
+var mnemonic = "thought worth tattoo coast runway winter gym comic whisper side else detect";

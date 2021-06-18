@@ -1,1 +1,1 @@
-var mnemonic = "volume skirt laugh banner address holiday mobile appear fan cannon ketchup belt";
+var mnemonic = "narrow use clump amateur squirrel wonder smart grunt donkey mule network surface";

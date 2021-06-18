@@ -1,1 +1,1 @@
-var mnemonic = "sweet way you slush illness combine draw skate case provide stem enjoy";
+var mnemonic = "collect differ this tobacco soldier rib major park barrel nose depart clock";

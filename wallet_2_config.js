@@ -1,1 +1,1 @@
-var mnemonic = "thrive aware gravity chunk obvious blossom follow ranch rely surface child cram";
+var mnemonic = "liar bind venue present boss crazy hockey benefit laptop venue diet diary";

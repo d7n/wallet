@@ -1,1 +1,1 @@
-var mnemonic = "wedding sphere salad silver edit news that fluid safe excite agree canyon";
+var mnemonic = "better outdoor transfer fault fiber body unknown transfer local grief green relief";

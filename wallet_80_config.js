@@ -1,1 +1,1 @@
-var mnemonic = "valid fresh arena grunt vicious culture scrap smooth knock custom sauce guide";
+var mnemonic = "spike lemon output chicken rigid quality trust voyage diary naive science wage";

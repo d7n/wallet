@@ -1,1 +1,1 @@
-var mnemonic = "three spin sleep icon daughter observe buzz prefer cradle skate short erode";
+var mnemonic = "grid tool bus tackle tenant aunt grief combine vehicle gun current mistake";

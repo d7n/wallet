@@ -1,1 +1,1 @@
-var mnemonic = "knee toe toss dress clap stamp author chalk scare tongue income snake";
+var mnemonic = "garment alcohol bubble grant artefact section treat divert grow scout market cost";

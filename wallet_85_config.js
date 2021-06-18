@@ -1,1 +1,1 @@
-var mnemonic = "puppy olive token rich decorate seed cereal brief leisure lawsuit umbrella title";
+var mnemonic = "away wasp rib citizen grant click canoe smart kind silk coin wing";

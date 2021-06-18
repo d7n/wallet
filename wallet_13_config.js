@@ -1,1 +1,1 @@
-var mnemonic = "example deliver movie alley awesome attend very labor fame payment thank decrease";
+var mnemonic = "silver bachelor barrel across love ready size clever gospel cherry account gym";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite kick gallery milk coffee mouse local damp child icon treat remind";
+var mnemonic = "oblige hybrid promote swear female ramp napkin forward shield ignore just notice";

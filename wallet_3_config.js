@@ -1,1 +1,1 @@
-var mnemonic = "peasant depth skin cave sample neck version tag brother bird expect minute";
+var mnemonic = "loud pause eager frown wisdom tide trigger lake betray proof frame magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "deer hope ocean drama funny junk repeat neither mechanic limit bundle coach";
+var mnemonic = "stumble ahead river arrange vintage when head faint easily mansion pond hungry";

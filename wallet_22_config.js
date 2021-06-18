@@ -1,1 +1,1 @@
-var mnemonic = "law receive list pumpkin cargo flavor simple need motor citizen plug expose";
+var mnemonic = "knife grid vanish exclude unknown merge cook faculty topple razor dust room";

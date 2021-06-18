@@ -1,1 +1,1 @@
-var mnemonic = "twenty coffee print they upper save rocket forget pencil unfold autumn laundry";
+var mnemonic = "memory pass wing pioneer task beyond pulse armor curve rebel aspect tide";

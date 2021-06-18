@@ -1,1 +1,1 @@
-var mnemonic = "viable olive scare practice solar verb avoid alter flash token gossip chase";
+var mnemonic = "shallow oak stove tide property engine antenna team rally cheap fall guilt";

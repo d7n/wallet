@@ -1,1 +1,1 @@
-var mnemonic = "loan chief reject utility smoke remind derive divide small tooth violin carpet";
+var mnemonic = "speak seminar hood capital aware stuff frozen once cargo stand slender remove";

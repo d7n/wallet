@@ -1,1 +1,1 @@
-var mnemonic = "error urge reason mad credit deal neck catch autumn tennis zoo robust";
+var mnemonic = "cousin inquiry scatter whale upset nothing smart soul spare target spin ripple";

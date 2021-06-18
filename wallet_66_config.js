@@ -1,1 +1,1 @@
-var mnemonic = "sort board echo balcony world saddle pilot oval shuffle license glare monster";
+var mnemonic = "book can cradle six hospital peanut much chuckle vacuum rule day sorry";

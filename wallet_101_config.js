@@ -1,1 +1,1 @@
-var mnemonic = "before load fix usual head rough assault enjoy basket club slim alpha";
+var mnemonic = "honey violin lake elegant cook velvet any kind narrow dynamic purchase admit";

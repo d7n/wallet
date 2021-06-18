@@ -1,1 +1,1 @@
-var mnemonic = "scatter jazz absurd reason dismiss hand brush girl news just unveil hole";
+var mnemonic = "denial awful saddle seminar simple clinic raw tube census cancel vault pear";

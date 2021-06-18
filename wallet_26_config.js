@@ -1,1 +1,1 @@
-var mnemonic = "organ whale spare recipe ketchup present rigid float bracket circle cotton october";
+var mnemonic = "evil connect garlic explain token mind tooth door pupil hurdle broken shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "pen wild saddle scene together enlist tomorrow dice wheel farm net easily";
+var mnemonic = "patient attitude rail true material donkey among oven buffalo ugly lawsuit update";

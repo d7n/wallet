@@ -1,1 +1,1 @@
-var mnemonic = "spawn hazard rent awful knife champion dynamic cotton thought mean brass ride";
+var mnemonic = "unit charge region govern word sell curtain very zero destroy shoulder tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip decade math belt output airport coyote stable pottery inner warrior unable";
+var mnemonic = "fruit wet patch venture mail utility search hat pupil cotton plug lion";

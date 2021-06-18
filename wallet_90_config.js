@@ -1,1 +1,1 @@
-var mnemonic = "radar sing multiply task scheme win present pigeon rebel rival aspect pride";
+var mnemonic = "unveil depart pride drill video humor shaft garden opinion vital lizard bring";

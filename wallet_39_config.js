@@ -1,1 +1,1 @@
-var mnemonic = "cushion that cactus elite water attack unfold since record humble fix lottery";
+var mnemonic = "few border alarm praise betray bleak bundle analyst stuff super parent mom";

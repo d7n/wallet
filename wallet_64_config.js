@@ -1,1 +1,1 @@
-var mnemonic = "boost original kitchen razor bicycle blade ahead cover nominee unusual garlic alert";
+var mnemonic = "lake hover neither stumble blade seat earn library modify tattoo piano easily";

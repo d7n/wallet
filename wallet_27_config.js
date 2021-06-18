@@ -1,1 +1,1 @@
-var mnemonic = "shy barely glow equal picture submit amazing lesson large swear drive canoe";
+var mnemonic = "olive turn retreat raven ball museum torch chest opera catch tone amazing";

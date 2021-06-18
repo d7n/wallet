@@ -1,1 +1,1 @@
-var mnemonic = "pink ring poet wet swap obscure unique light cable draft warfare nasty";
+var mnemonic = "attack source life fire patient choice tennis unknown jeans clinic start weapon";

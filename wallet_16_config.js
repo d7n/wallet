@@ -1,1 +1,1 @@
-var mnemonic = "suggest speak sweet position attend antique major spare tape dizzy trouble desk";
+var mnemonic = "interest lens page canoe paper divert liar dynamic asthma venue donkey cook";

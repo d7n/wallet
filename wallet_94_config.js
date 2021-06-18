@@ -1,1 +1,1 @@
-var mnemonic = "tone figure include street wool pink balance core entire profit differ dial";
+var mnemonic = "engage search empty afford square twin slot fitness tooth rocket desk energy";

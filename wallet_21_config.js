@@ -1,1 +1,1 @@
-var mnemonic = "iron involve hour small large better ethics supply devote slide review gaze";
+var mnemonic = "digital develop love stand pride negative light obtain power actual physical script";

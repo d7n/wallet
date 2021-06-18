@@ -1,1 +1,1 @@
-var mnemonic = "april muscle subject galaxy option pudding pepper bacon universe brother essence blouse";
+var mnemonic = "sign wife beauty slice spare autumn meadow scheme bamboo boy use cable";

@@ -1,1 +1,1 @@
-var mnemonic = "spend awful business dice carry once ripple short velvet hurry obscure unfair";
+var mnemonic = "hollow broccoli poverty love act abstract useless hurt abandon cherry deal erode";

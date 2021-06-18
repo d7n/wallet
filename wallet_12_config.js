@@ -1,1 +1,1 @@
-var mnemonic = "rebuild truly weird thank vacuum clap until super crouch lyrics vapor provide";
+var mnemonic = "team squeeze proof oil menu wonder fix guide today casino loyal vocal";
