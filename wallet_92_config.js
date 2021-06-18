@@ -1,1 +1,1 @@
-var mnemonic = "feature occur blood slogan ripple candy citizen isolate grid picnic summer milk";
+var mnemonic = "pen tail element energy swamp apple knife buzz gauge fashion unable false";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel mother excuse army timber fault atom swallow film memory tell analyst";
+var mnemonic = "obtain planet undo process bring junk cage flower local report fitness orange";

@@ -1,1 +1,1 @@
-var mnemonic = "flip nut wash athlete fresh attack clean legend emerge runway total wage";
+var mnemonic = "sentence genre welcome weasel letter supreme advice camera engine unit object skill";

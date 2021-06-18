@@ -1,1 +1,1 @@
-var mnemonic = "bitter best happy illness churn rival saddle echo index alpha camp donkey";
+var mnemonic = "among favorite own fan globe adjust emerge canoe fan diagram diary monster";

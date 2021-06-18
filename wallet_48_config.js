@@ -1,1 +1,1 @@
-var mnemonic = "travel wrestle shock soap such kick soup fit cave field later advice";
+var mnemonic = "void often search call soap unlock wine cement pepper few build recycle";

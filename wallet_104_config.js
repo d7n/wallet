@@ -1,1 +1,1 @@
-var mnemonic = "away mail hungry sibling salute major sauce net head erode arena candy";
+var mnemonic = "island sister boil young vicious skate world shy later bulb beauty atom";

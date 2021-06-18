@@ -1,1 +1,1 @@
-var mnemonic = "maple divert domain web summer myself execute vault lottery search shrimp swap";
+var mnemonic = "phone vivid erosion hire asthma bonus poem envelope motor local order nation";

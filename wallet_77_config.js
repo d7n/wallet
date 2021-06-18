@@ -1,1 +1,1 @@
-var mnemonic = "general cube arm hundred actual thrive one security flower kiwi minimum steak";
+var mnemonic = "indicate primary very crucial neck raise submit avoid margin lock model duty";

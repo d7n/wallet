@@ -1,1 +1,1 @@
-var mnemonic = "arrow crush noise problem weird high between table slender blouse hand clog";
+var mnemonic = "mushroom absent drop yard dust deputy admit advice ancient fan exotic fog";

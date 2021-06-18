@@ -1,1 +1,1 @@
-var mnemonic = "promote swing atom engage garbage practice garage three order bone pet upper";
+var mnemonic = "ivory million corn million dawn edit observe dice potato approve electric blanket";

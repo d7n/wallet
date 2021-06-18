@@ -1,1 +1,1 @@
-var mnemonic = "mixed diagram crisp dice riot faith need royal usage exit thrive lizard";
+var mnemonic = "cry defense parrot issue egg tunnel fossil spawn fantasy replace half pupil";

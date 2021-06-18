@@ -1,1 +1,1 @@
-var mnemonic = "dash year lyrics whale slam design digital very strong false laundry wrist";
+var mnemonic = "explain brand decline space drill ramp analyst venture federal candy orbit seven";

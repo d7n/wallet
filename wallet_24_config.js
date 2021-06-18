@@ -1,1 +1,1 @@
-var mnemonic = "infant certain absurd scorpion echo lake club sorry abandon alone subject coconut";
+var mnemonic = "clump ride wheel radio heavy kit will real fatigue south stamp monster";

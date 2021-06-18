@@ -1,1 +1,1 @@
-var mnemonic = "truth home rocket riot slogan foster relief deal spoil stick stable budget";
+var mnemonic = "ready grunt stereo learn desert tuition grow flag chase thank minute search";

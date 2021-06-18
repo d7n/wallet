@@ -1,1 +1,1 @@
-var mnemonic = "sell large secret repair rule into swamp broken erode term situate coast";
+var mnemonic = "century dizzy dress defense door hard you material engine thrive tiny penalty";

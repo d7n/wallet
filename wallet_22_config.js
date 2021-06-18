@@ -1,1 +1,1 @@
-var mnemonic = "sight village depth recycle before solution interest infant survey resist step life";
+var mnemonic = "inmate chat coach blue ugly nuclear rally drill offer knee then praise";

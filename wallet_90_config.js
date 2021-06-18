@@ -1,1 +1,1 @@
-var mnemonic = "tribe boil sure swift planet enter reject ugly keep syrup aim language";
+var mnemonic = "build thunder detect fork crucial animal success junk menu glove true fog";

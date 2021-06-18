@@ -1,1 +1,1 @@
-var mnemonic = "term degree kidney cheese tissue weasel noise spy stadium shield fortune know";
+var mnemonic = "uniform shock taste view miracle boost color sunny diary become sad use";

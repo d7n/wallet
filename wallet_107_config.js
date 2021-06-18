@@ -1,1 +1,1 @@
-var mnemonic = "path divert can grit cake symptom fiber ugly soldier squirrel huge obey";
+var mnemonic = "wrong negative fame danger final siege nature manual wash amateur alarm document";

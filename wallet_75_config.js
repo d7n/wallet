@@ -1,1 +1,1 @@
-var mnemonic = "pair burger moral hero gain satoshi dove spare scan select hour left";
+var mnemonic = "clean mimic critic dirt tennis argue useful argue pelican forget engine man";

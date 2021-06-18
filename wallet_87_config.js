@@ -1,1 +1,1 @@
-var mnemonic = "nothing base giant today device artist tribe desert travel garage kick simple";
+var mnemonic = "damage collect erupt indoor thumb endorse tiny remove manual grow snack bomb";

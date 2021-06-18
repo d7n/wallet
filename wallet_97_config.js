@@ -1,1 +1,1 @@
-var mnemonic = "begin quantum mass dress erase guilt bike glow term dirt output race";
+var mnemonic = "basket renew hover sort deal parrot age birth enrich tongue feel citizen";

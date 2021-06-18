@@ -1,1 +1,1 @@
-var mnemonic = "erupt now glass surface wagon lake light race ahead agent explain dirt";
+var mnemonic = "borrow hole vacuum choice crane blue mobile aware hollow life soon toast";

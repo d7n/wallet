@@ -1,1 +1,1 @@
-var mnemonic = "next trial copy bridge vast civil divide mushroom empower end health scene";
+var mnemonic = "rice recycle imitate runway twice noble foot derive worry enlist tide match";

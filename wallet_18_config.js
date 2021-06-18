@@ -1,1 +1,1 @@
-var mnemonic = "brass park just host oven youth time august baby host casual peasant";
+var mnemonic = "treat bullet father siren airport avoid gown crunch kit border brown maximum";

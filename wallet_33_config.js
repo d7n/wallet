@@ -1,1 +1,1 @@
-var mnemonic = "sad square switch hybrid joy cousin throw spike equal net episode shrimp";
+var mnemonic = "palm awkward found kite foster awake nurse fiscal piano slot fatal later";

@@ -1,1 +1,1 @@
-var mnemonic = "pave spring wave vessel tape dish route shield fiscal price search pretty";
+var mnemonic = "auto fade balcony summer kind pool dust please include gadget okay code";

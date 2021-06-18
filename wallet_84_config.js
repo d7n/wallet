@@ -1,1 +1,1 @@
-var mnemonic = "state ill goat trip define wisdom list erode lottery oppose reflect spawn";
+var mnemonic = "trim flower ready satoshi modify margin all shield unaware erupt palm sure";

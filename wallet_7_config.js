@@ -1,1 +1,1 @@
-var mnemonic = "danger settle project balance expire hour time wish bamboo correct flight knock";
+var mnemonic = "party tomorrow push call dignity sentence social panel long blue basic canyon";

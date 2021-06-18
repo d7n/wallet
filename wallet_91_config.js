@@ -1,1 +1,1 @@
-var mnemonic = "canvas often park wagon lemon live exotic walk calm month bus benefit";
+var mnemonic = "castle agent warfare casino wild trouble recycle pear sense ignore crowd sketch";

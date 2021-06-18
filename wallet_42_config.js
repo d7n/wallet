@@ -1,1 +1,1 @@
-var mnemonic = "tide journey exchange attack midnight veteran fatal marriage radar knife whisper top";
+var mnemonic = "draft ready fabric artist time bike pen fly setup muffin truth squirrel";

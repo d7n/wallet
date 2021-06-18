@@ -1,1 +1,1 @@
-var mnemonic = "tomato wire annual rebel tell galaxy call poet elegant smoke bottom hen";
+var mnemonic = "mask weather seat uniform muffin screen coast labor target blanket unlock glare";

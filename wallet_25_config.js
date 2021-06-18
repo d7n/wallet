@@ -1,1 +1,1 @@
-var mnemonic = "alone mango sword letter repeat nuclear fade pitch fun stomach negative list";
+var mnemonic = "brother brisk deal tuition pact delay all rule female margin category expect";

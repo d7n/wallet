@@ -1,1 +1,1 @@
-var mnemonic = "regret shadow wrong south obey pig observe title wing giraffe duty hundred";
+var mnemonic = "puppy twelve blood physical mistake sweet sorry decide copper live sorry increase";

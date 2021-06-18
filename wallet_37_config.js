@@ -1,1 +1,1 @@
-var mnemonic = "cart rapid horse filter diet twin critic window adult betray brother future";
+var mnemonic = "broom glare minute fence maid thumb recipe busy pipe priority lesson acoustic";

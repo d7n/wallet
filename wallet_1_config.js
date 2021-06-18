@@ -1,1 +1,1 @@
-var mnemonic = "brass glimpse kidney hour garlic matter romance airport connect shoe rough tube";
+var mnemonic = "bus dance leaf nurse connect abstract funny orbit autumn depth reunion various";

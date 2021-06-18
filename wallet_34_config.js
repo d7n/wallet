@@ -1,1 +1,1 @@
-var mnemonic = "mosquito borrow regular main trigger catch either float main dolphin panel elegant";
+var mnemonic = "major one possible nose arrange add setup lobster slice trophy just oven";

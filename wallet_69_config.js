@@ -1,1 +1,1 @@
-var mnemonic = "civil claw pioneer six vendor umbrella kite lizard joke pitch naive round";
+var mnemonic = "bring general typical anxiety forest conduct category globe stick assume cabbage budget";

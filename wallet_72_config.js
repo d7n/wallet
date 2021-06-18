@@ -1,1 +1,1 @@
-var mnemonic = "put close mango require crack battle bench scheme fire chat turtle wall";
+var mnemonic = "fine frost notable zero shell blind car coin glove summer level beyond";

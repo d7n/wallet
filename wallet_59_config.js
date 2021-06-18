@@ -1,1 +1,1 @@
-var mnemonic = "cushion sauce wing slush valley shop pig surround elevator twist age riot";
+var mnemonic = "retire tone vapor transfer unveil clarify draw ship dress lawn globe vessel";

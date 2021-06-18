@@ -1,1 +1,1 @@
-var mnemonic = "ride hard dune slide master potato cloud evoke wagon absurd coconut gun";
+var mnemonic = "evolve pudding spell thank blame like all love debris remain divert accuse";

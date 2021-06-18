@@ -1,1 +1,1 @@
-var mnemonic = "office trumpet private input remove flight gallery nasty domain vanish spoon fetch";
+var mnemonic = "birth account blame wagon onion century glow tribe pistol deal jeans cactus";

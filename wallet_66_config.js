@@ -1,1 +1,1 @@
-var mnemonic = "garment emotion indoor blanket art tackle social injury sign train hire guitar";
+var mnemonic = "glass medal quality entry weasel march portion few insect spoil school cinnamon";

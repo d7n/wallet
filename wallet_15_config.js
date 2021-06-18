@@ -1,1 +1,1 @@
-var mnemonic = "shed guitar virus business boil slush bulk document mammal rate error wear";
+var mnemonic = "egg adjust virtual small pattern tobacco dentist cupboard pulse pen album rude";

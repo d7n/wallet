@@ -1,1 +1,1 @@
-var mnemonic = "antenna scatter laundry region benefit type cancel enemy best gift crime route";
+var mnemonic = "diesel bonus account flee critic produce promote fringe powder void lion tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "practice roast paper body special force chicken pitch notice stereo cable make";
+var mnemonic = "muffin output major prevent tent document organ mean multiply hill daughter sadness";

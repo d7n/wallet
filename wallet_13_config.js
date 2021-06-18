@@ -1,1 +1,1 @@
-var mnemonic = "letter process much catalog universe attract feed spoon plastic cruise wash earth";
+var mnemonic = "music forget fever unfair plate torch attack organ swallow coyote spot plate";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry situate february risk gap blush surface muffin obvious tired one buffalo";
+var mnemonic = "elbow alarm rescue idea type memory rebuild voice angry gaze trend alarm";

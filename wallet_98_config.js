@@ -1,1 +1,1 @@
-var mnemonic = "repeat huge vintage invest this tag fork danger trap session topple oxygen";
+var mnemonic = "explain lawsuit screen humble army license notice since garment audit goose start";

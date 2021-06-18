@@ -1,1 +1,1 @@
-var mnemonic = "trouble teach future grace surge story artwork pattern remain marriage draw exist";
+var mnemonic = "pumpkin rubber reward tragic lunar cement attitude harvest series skin movie mammal";

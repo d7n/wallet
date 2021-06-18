@@ -1,1 +1,1 @@
-var mnemonic = "husband vital skin field forget lonely voyage budget defense grunt baby shield";
+var mnemonic = "large excite exhibit saddle drop welcome always rib cherry flee local segment";

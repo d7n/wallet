@@ -1,1 +1,1 @@
-var mnemonic = "quit pony tribe anchor stem frog wear display among buyer cabin empty";
+var mnemonic = "employ cattle forum ankle laugh way liquid crucial topic ahead diary club";

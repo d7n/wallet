@@ -1,1 +1,1 @@
-var mnemonic = "pitch three cash obvious glare mind extra frown stick diagram around current";
+var mnemonic = "face coconut wheel venue goddess shoe ripple rose security hand rally solid";

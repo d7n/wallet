@@ -1,1 +1,1 @@
-var mnemonic = "choose planet owner congress nephew agree ritual width autumn swallow super earth";
+var mnemonic = "balcony camera empty label vehicle document gather assault exile hope umbrella vacuum";

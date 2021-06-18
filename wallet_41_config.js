@@ -1,1 +1,1 @@
-var mnemonic = "fish either entire laundry smooth seven lawsuit distance toss reject choose sauce";
+var mnemonic = "hair sort city host seed surprise damp cage lounge spatial cross sing";

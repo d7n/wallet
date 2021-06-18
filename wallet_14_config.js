@@ -1,1 +1,1 @@
-var mnemonic = "account inner knock pretty demise hood social mule betray unlock era faint";
+var mnemonic = "soap clerk shiver sign enhance weasel nerve pizza segment early scan goddess";

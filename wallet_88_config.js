@@ -1,1 +1,1 @@
-var mnemonic = "cheese spell trouble dawn bike match shield design jealous outdoor fatigue urge";
+var mnemonic = "stone ahead soul pact already elevator kitchen album misery scene illegal uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "hidden legal green deny wrist repair smile still lonely fold gentle normal";
+var mnemonic = "margin person skull steak broken absent other cabin ball bamboo mimic pencil";

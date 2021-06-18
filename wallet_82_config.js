@@ -1,1 +1,1 @@
-var mnemonic = "noodle govern ball brave fatigue moral carpet wine visual mosquito diary shy";
+var mnemonic = "tunnel scheme decide forward door base repair walk share move glove twice";

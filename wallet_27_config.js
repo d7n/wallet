@@ -1,1 +1,1 @@
-var mnemonic = "calm enable either share shoe when index off disagree vault news filter";
+var mnemonic = "toss primary foil aspect dumb limit cereal message like twenty glory apart";

@@ -1,1 +1,1 @@
-var mnemonic = "payment apple file member trick illness ramp jealous team lava slice female";
+var mnemonic = "brass defy fox menu nature exclude primary knee moment hint law elephant";

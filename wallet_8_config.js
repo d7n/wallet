@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow bid sight spawn elder original illness ozone club note when winner";
+var mnemonic = "cousin hand actual blame job female ecology intact filter punch apple best";

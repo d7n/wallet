@@ -1,1 +1,1 @@
-var mnemonic = "mushroom scrub rare road matrix lens topple peanut must flame soap notice";
+var mnemonic = "regular idle grid senior steak cupboard broken gaze wish host build first";

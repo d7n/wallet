@@ -1,1 +1,1 @@
-var mnemonic = "issue march math side lesson core beauty tag luggage estate custom mimic";
+var mnemonic = "bleak bone shoot glue panel salt toast left federal grab street east";

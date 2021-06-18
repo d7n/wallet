@@ -1,1 +1,1 @@
-var mnemonic = "dream effort grow solution enlist multiply right dolphin one similar nest season";
+var mnemonic = "budget ceiling ready warm fantasy square cute eternal kick zero reflect potato";

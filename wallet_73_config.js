@@ -1,1 +1,1 @@
-var mnemonic = "unusual unit screen honey kite exist odor genius library border high hat";
+var mnemonic = "sight movie toss shrug envelope stomach essence clump language tunnel shield enlist";

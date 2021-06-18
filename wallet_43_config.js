@@ -1,1 +1,1 @@
-var mnemonic = "century accident hover day wood fruit belt match coral rough car brother";
+var mnemonic = "blue disorder whale silk frost coyote cupboard inspire submit quick electric boring";

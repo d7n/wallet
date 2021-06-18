@@ -1,1 +1,1 @@
-var mnemonic = "now craft energy clever deer anchor bomb symbol duty veteran quality oak";
+var mnemonic = "nature build copy debris switch sister song grape kick window unaware thrive";

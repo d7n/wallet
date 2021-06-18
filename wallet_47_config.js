@@ -1,1 +1,1 @@
-var mnemonic = "foam betray kidney quit damp jump involve punch effort attack south faith";
+var mnemonic = "time demand easily entire success cancel sun erode desk tower hamster win";

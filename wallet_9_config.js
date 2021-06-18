@@ -1,1 +1,1 @@
-var mnemonic = "guilt neglect board mixture silent other avoid earth clutch swallow crop mom";
+var mnemonic = "weapon hope mother close rack venue sample dawn lazy false annual exercise";

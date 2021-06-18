@@ -1,1 +1,1 @@
-var mnemonic = "web cluster struggle ladder fold journey weird autumn country copper hard jump";
+var mnemonic = "six attack wine advice setup repair title process keep spike wheat music";

@@ -1,1 +1,1 @@
-var mnemonic = "sense about liar sausage shaft solar attract fan kitchen sudden village setup";
+var mnemonic = "mirror donate ozone casual early awesome clever winner sort bench crawl depth";

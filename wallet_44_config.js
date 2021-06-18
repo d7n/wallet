@@ -1,1 +1,1 @@
-var mnemonic = "output small slam harbor time gym permit pattern clown cigar public follow";
+var mnemonic = "guitar forest captain antenna wild orange expire food monkey cargo artist rail";

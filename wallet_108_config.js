@@ -1,1 +1,1 @@
-var mnemonic = "color real morning private great journey silk border lobster method perfect scorpion";
+var mnemonic = "prison over timber stadium beach brain axis glass thumb estate attitude between";

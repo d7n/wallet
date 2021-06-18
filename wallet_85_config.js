@@ -1,1 +1,1 @@
-var mnemonic = "rural grass urban tilt olympic couch north rack divert deny box taxi";
+var mnemonic = "neck broken agent baby turtle choice face float peasant dog aunt pledge";

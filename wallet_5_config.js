@@ -1,1 +1,1 @@
-var mnemonic = "endorse load equip fee mixture cluster buyer zebra apology celery arrive casual";
+var mnemonic = "author before venue ocean device bind truly fix day warfare grow orbit";

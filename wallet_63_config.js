@@ -1,1 +1,1 @@
-var mnemonic = "twice debate blood answer stamp license note acquire clever march hint royal";
+var mnemonic = "august canal engine biology act draft history creek emotion affair exile expect";

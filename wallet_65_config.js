@@ -1,1 +1,1 @@
-var mnemonic = "accuse knife never dinosaur second surface stool twenty decline diagram achieve enrich";
+var mnemonic = "arm million spy distance surround glance notice fan soda quality mesh before";

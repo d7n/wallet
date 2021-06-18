@@ -1,1 +1,1 @@
-var mnemonic = "confirm away depend coconut always fuel witness size flee film brown noble";
+var mnemonic = "lounge behind pear suggest portion warrior later laugh grape dinner popular horse";

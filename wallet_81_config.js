@@ -1,1 +1,1 @@
-var mnemonic = "describe day ice lunar pet sample number fun honey chimney arm ripple";
+var mnemonic = "twenty burden copper solid tattoo trick curious hen fiber joy way trend";

@@ -1,1 +1,1 @@
-var mnemonic = "nature logic dawn blame donkey action wish require thing ensure spike acid";
+var mnemonic = "impact vendor forward north host popular fancy bamboo jealous praise runway stuff";

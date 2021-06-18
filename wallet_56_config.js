@@ -1,1 +1,1 @@
-var mnemonic = "cannon milk unfold sense actual change wheel aspect smart home pigeon fold";
+var mnemonic = "hollow east rail food define scheme remove antenna earn awake oyster merit";

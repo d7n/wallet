@@ -1,1 +1,1 @@
-var mnemonic = "echo change ginger seed dog slush pig inside more buddy grass venture";
+var mnemonic = "tiger fault draw century easy gauge trend pioneer dilemma alone tenant client";

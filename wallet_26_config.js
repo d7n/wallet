@@ -1,1 +1,1 @@
-var mnemonic = "enroll rib know ship suit tower fish off auto below debate trend";
+var mnemonic = "season uncle shoe elbow main confirm couch argue door security salon describe";

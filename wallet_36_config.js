@@ -1,1 +1,1 @@
-var mnemonic = "park stool royal fatal love blouse oxygen filter almost album erupt pole";
+var mnemonic = "gauge glove orchard vacuum topple peanut settle surprise wagon gaze believe comic";

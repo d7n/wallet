@@ -1,1 +1,1 @@
-var mnemonic = "cloud chunk fitness other fog blush shop demise journey enough curious vicious";
+var mnemonic = "auction hint expect kitten grow radio dumb claw either umbrella room flush";

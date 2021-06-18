@@ -1,1 +1,1 @@
-var mnemonic = "wine purchase wish captain blast unfair double help asthma frequent peasant erase";
+var mnemonic = "lizard they moment dove meat curtain critic absurd hope unhappy actor will";

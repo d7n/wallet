@@ -1,1 +1,1 @@
-var mnemonic = "flower cannon decide bring sleep fiscal cluster story forward derive unit cube";
+var mnemonic = "royal umbrella funny version potato whip pact pride leisure around galaxy can";

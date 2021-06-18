@@ -1,1 +1,1 @@
-var mnemonic = "point spray gym wool defy wedding energy scatter material green south unfold";
+var mnemonic = "own impulse filter one symptom vast hole gown math dwarf define sting";

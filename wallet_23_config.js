@@ -1,1 +1,1 @@
-var mnemonic = "fatigue pull weather figure edge reduce wood heavy summer tourist nothing alert";
+var mnemonic = "reward emotion electric awkward define victory fit trophy wonder mistake accuse post";

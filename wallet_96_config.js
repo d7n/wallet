@@ -1,1 +1,1 @@
-var mnemonic = "earn stand oak pulse assist bench wrist cattle unit ghost try merit";
+var mnemonic = "bid glass inquiry oppose heart soul unusual beach net frozen work engine";

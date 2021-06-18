@@ -1,1 +1,1 @@
-var mnemonic = "steel zero coil tobacco biology uncle science spray fade lift garage alpha";
+var mnemonic = "marble salt stick winner emerge scale bitter draft edge fan sand trap";

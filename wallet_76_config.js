@@ -1,1 +1,1 @@
-var mnemonic = "siren adapt pattern hurry curve online snake cabin wide gospel edit question";
+var mnemonic = "few mule write upon onion appear jump same popular express drama cage";

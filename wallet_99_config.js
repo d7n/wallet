@@ -1,1 +1,1 @@
-var mnemonic = "bike finish host stand hunt type speak chuckle thing custom way bonus";
+var mnemonic = "put strong between wish peasant object gun possible ripple echo method piano";
