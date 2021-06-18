@@ -1,1 +1,1 @@
-var mnemonic = "tattoo drum mobile ginger walnut fire differ unknown organ cause color sniff";
+var mnemonic = "humble caution sample brand panther delay pottery direct riot grace scrub cherry";

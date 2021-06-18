@@ -1,1 +1,1 @@
-var mnemonic = "nothing nation nominee maximum anchor under craft safe disagree foam excess black";
+var mnemonic = "gasp crane legal zone floor way key captain aunt purchase chair pattern";

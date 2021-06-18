@@ -1,1 +1,1 @@
-var mnemonic = "borrow bitter what impact sure old source device arctic sick good answer";
+var mnemonic = "nose slender canvas inspire resource express dutch twelve tube own fiber chronic";

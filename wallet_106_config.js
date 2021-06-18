@@ -1,1 +1,1 @@
-var mnemonic = "payment dragon brother hen benefit course salt example funny style fiscal symbol";
+var mnemonic = "cricket intact pioneer play energy cargo main gossip digital document thing advice";

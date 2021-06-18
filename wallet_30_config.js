@@ -1,1 +1,1 @@
-var mnemonic = "expand mix wrap ginger hammer soft frog chest attack mind syrup critic";
+var mnemonic = "place guess grid liquid isolate steak claw fantasy story patient amateur novel";

@@ -1,1 +1,1 @@
-var mnemonic = "island car access gospel bread flame short voyage road luxury joke swamp";
+var mnemonic = "rhythm alone hobby torch away country wife naive rotate word extra hair";

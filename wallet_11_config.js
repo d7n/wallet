@@ -1,1 +1,1 @@
-var mnemonic = "memory visual spice off alter pass debris despair tonight lobster cage alarm";
+var mnemonic = "canoe vintage leaf scrub bomb sight flight monster display silk feed vintage";

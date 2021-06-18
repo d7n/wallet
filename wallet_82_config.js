@@ -1,1 +1,1 @@
-var mnemonic = "true step marine virtual taste burger health capable broccoli jacket degree busy";
+var mnemonic = "stool island address expose injury like rabbit almost vote notice dad unveil";

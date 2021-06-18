@@ -1,1 +1,1 @@
-var mnemonic = "upper silk abandon twice maze curtain tank express amused orbit slim check";
+var mnemonic = "orbit pudding impose call chapter cement long shiver tower chest alter south";

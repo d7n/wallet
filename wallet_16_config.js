@@ -1,1 +1,1 @@
-var mnemonic = "repeat essay digital lumber regular story cloud replace gas rule again theme";
+var mnemonic = "hub reason rookie earth window cloud middle surge legal chimney region history";

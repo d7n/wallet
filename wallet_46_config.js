@@ -1,1 +1,1 @@
-var mnemonic = "glove cherry humble degree essay tribe oyster airport upgrade spin oyster present";
+var mnemonic = "violin route still search aisle front evidence fit cheap dove join blur";

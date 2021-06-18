@@ -1,1 +1,1 @@
-var mnemonic = "learn merry achieve measure identify tuna ripple close trigger brick talent chat";
+var mnemonic = "tourist denial notable dawn drum card task monitor sugar deal bar merit";

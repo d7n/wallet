@@ -1,1 +1,1 @@
-var mnemonic = "stable evil income cloth afraid area tongue swim clarify frame unlock neutral";
+var mnemonic = "sort chef alien affair lab donate bullet mouse renew soul virtual predict";

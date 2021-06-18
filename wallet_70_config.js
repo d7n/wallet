@@ -1,1 +1,1 @@
-var mnemonic = "indicate casual usage rookie word noise reward access kind window amazing deer";
+var mnemonic = "wrist one tornado flat apology movie real document museum puppy word zero";

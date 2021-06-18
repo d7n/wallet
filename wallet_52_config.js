@@ -1,1 +1,1 @@
-var mnemonic = "culture lazy blush misery holiday short lamp fire chaos symptom cry uncover";
+var mnemonic = "shoe priority empower snap luxury borrow wreck solar dynamic awake stem else";

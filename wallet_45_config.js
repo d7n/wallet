@@ -1,1 +1,1 @@
-var mnemonic = "next flip initial aim stereo near chest humor luggage vital worry hood";
+var mnemonic = "gravity nest flat program tell explain web glance leave current alcohol access";

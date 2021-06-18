@@ -1,1 +1,1 @@
-var mnemonic = "buyer burger short rebuild juice minor proof foil gauge nerve report head";
+var mnemonic = "stand term feel stand top law foam eternal toward march embrace evolve";

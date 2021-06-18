@@ -1,1 +1,1 @@
-var mnemonic = "manual crush submit gentle cruise brush try run horror uncover merit venue";
+var mnemonic = "tool almost vehicle hungry dragon choose poem wine bench dismiss warm regular";

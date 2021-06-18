@@ -1,1 +1,1 @@
-var mnemonic = "tiny leader basket hawk pepper hole record seat pottery live outside pumpkin";
+var mnemonic = "father void bitter cabin wire stem away mean client fatigue input meat";

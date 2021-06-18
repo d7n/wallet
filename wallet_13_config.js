@@ -1,1 +1,1 @@
-var mnemonic = "snow twelve album gesture ability foster mesh journey lyrics tray element gas";
+var mnemonic = "empty twice dwarf elegant ticket tree collect smart siege pudding input camera";

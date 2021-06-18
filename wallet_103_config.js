@@ -1,1 +1,1 @@
-var mnemonic = "cluster leader endless blade across prison congress drama road seven reopen orphan";
+var mnemonic = "ostrich noise fox job term wage blanket horror office bone brand left";

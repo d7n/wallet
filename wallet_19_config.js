@@ -1,1 +1,1 @@
-var mnemonic = "hen office hole ticket stone thumb increase trim submit sustain oven review";
+var mnemonic = "obscure enhance vacuum dream picture cliff length pledge eyebrow shy oppose quiz";

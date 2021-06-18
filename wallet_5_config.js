@@ -1,1 +1,1 @@
-var mnemonic = "list adjust aware crunch major shadow devote there sustain laugh cup equip";
+var mnemonic = "shine judge taxi seat regret picnic access air artwork issue tortoise pill";

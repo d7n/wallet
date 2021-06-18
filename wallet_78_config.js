@@ -1,1 +1,1 @@
-var mnemonic = "father pipe annual more diagram version garage vibrant attitude act giant wage";
+var mnemonic = "image indicate someone seat have midnight impact mammal position journey crime couple";

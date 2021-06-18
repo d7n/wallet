@@ -1,1 +1,1 @@
-var mnemonic = "rare useless fog pizza boost magic slam correct hungry course stuff series";
+var mnemonic = "rotate spy leisure piece apple carry thumb night obvious bracket claim dose";

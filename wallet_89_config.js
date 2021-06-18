@@ -1,1 +1,1 @@
-var mnemonic = "lumber echo dolphin doll require romance diet track despair depart century attend";
+var mnemonic = "lens faith marine rug direct envelope man grass donor degree valid salmon";

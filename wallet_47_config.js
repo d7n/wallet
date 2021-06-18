@@ -1,1 +1,1 @@
-var mnemonic = "pill drama mask wing pig embark romance high pistol wheel leave kind";
+var mnemonic = "dirt emotion brand ugly neutral remind attend priority merit twist shuffle engage";

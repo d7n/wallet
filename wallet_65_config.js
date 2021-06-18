@@ -1,1 +1,1 @@
-var mnemonic = "meat welcome record neutral library jeans powder exhaust buzz cat blouse affair";
+var mnemonic = "bomb denial fresh wife artwork act near method weird tent pupil state";

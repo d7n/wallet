@@ -1,1 +1,1 @@
-var mnemonic = "dish elegant barely hill stem blanket thrive crane shiver garage company october";
+var mnemonic = "typical shrimp dry fancy alarm bind scout problem asset answer history drama";

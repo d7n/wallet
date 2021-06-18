@@ -1,1 +1,1 @@
-var mnemonic = "leave decide issue liar flame pen there energy company game another helmet";
+var mnemonic = "ribbon click bean flash bamboo wolf lonely excite arrest forest install night";

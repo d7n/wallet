@@ -1,1 +1,1 @@
-var mnemonic = "elephant retire gym pigeon mean lake science ring stick chapter wine near";
+var mnemonic = "cable cotton general noise provide harsh access hover twice already excuse throw";

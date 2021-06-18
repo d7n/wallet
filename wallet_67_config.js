@@ -1,1 +1,1 @@
-var mnemonic = "alert float hub reward fly climb suit bar virus aunt situate harvest";
+var mnemonic = "tattoo favorite atom leave copper permit witness armor head lunar name ship";

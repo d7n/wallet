@@ -1,1 +1,1 @@
-var mnemonic = "shove brush lake resist course hub away dial myself distance casual forum";
+var mnemonic = "test valve gain daughter derive delay pave tomato tank leisure call minimum";

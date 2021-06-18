@@ -1,1 +1,1 @@
-var mnemonic = "glory quality pond street stool margin define engage midnight bronze soda cattle";
+var mnemonic = "beauty describe illegal blossom sniff stereo occur gap rule stool limb trouble";

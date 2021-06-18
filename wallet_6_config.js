@@ -1,1 +1,1 @@
-var mnemonic = "kitten ceiling solution feel endless pulse matter input zero repair duty arch";
+var mnemonic = "ripple debris gesture window pipe salon price harvest disease struggle return sing";

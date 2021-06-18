@@ -1,1 +1,1 @@
-var mnemonic = "initial anxiety fashion real demand toilet rely beach below apple reward family";
+var mnemonic = "dish slide client bless cave install village regret upper message sheriff rhythm";

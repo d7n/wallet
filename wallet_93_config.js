@@ -1,1 +1,1 @@
-var mnemonic = "vacuum hedgehog palm room core absorb hire shove hobby spawn pool limit";
+var mnemonic = "transfer pact charge skate cherry wait caught frown save album sauce skate";

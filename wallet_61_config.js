@@ -1,1 +1,1 @@
-var mnemonic = "lava enhance claim marine expect arrive weapon army know tuition pond route";
+var mnemonic = "expose you tissue sleep fiber picnic rival begin dash meadow term fly";

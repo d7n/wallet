@@ -1,1 +1,1 @@
-var mnemonic = "lizard stadium kingdom fall shift donate already sock child gesture music head";
+var mnemonic = "purse pilot bottom guard sorry suffer grant caught coconut solution silly bench";

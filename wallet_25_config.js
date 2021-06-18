@@ -1,1 +1,1 @@
-var mnemonic = "day merit rough cluster unknown gloom neglect tonight ribbon party rather cage";
+var mnemonic = "course feature empty capital crash couple until grace moon lab symptom heavy";

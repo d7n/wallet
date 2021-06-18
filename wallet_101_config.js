@@ -1,1 +1,1 @@
-var mnemonic = "subway buddy song exile silent weasel switch system life uncover liar ginger";
+var mnemonic = "decorate result refuse helmet play blur warrior acquire basket exit sword liberty";

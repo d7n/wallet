@@ -1,1 +1,1 @@
-var mnemonic = "another scout absorb answer truth palace first front dice clever seed join";
+var mnemonic = "giraffe nominee limb mom fun spice summer parent diary hungry forward credit";

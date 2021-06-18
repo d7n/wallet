@@ -1,1 +1,1 @@
-var mnemonic = "violin dove magnet gasp cliff time rescue wave glare figure amateur prize";
+var mnemonic = "science patrol lyrics actual pink argue suit jazz online sorry aunt engage";

@@ -1,1 +1,1 @@
-var mnemonic = "feed moment awesome skirt wrap grain erosion final blanket tobacco depth analyst";
+var mnemonic = "sunset film grocery jealous mind rude quiz tuna saddle nerve evidence sadness";

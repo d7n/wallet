@@ -1,1 +1,1 @@
-var mnemonic = "monitor blind work peasant conduct sad lyrics hood patient mobile radar just";
+var mnemonic = "muscle kid decline boring settle donate boil border board obvious disorder combine";

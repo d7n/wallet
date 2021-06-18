@@ -1,1 +1,1 @@
-var mnemonic = "diet public endless play speak mad slot giggle clerk sort leopard quality";
+var mnemonic = "eagle lobster draw warrior insect game river lamp transfer excess shop setup";

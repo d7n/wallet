@@ -1,1 +1,1 @@
-var mnemonic = "expand spawn motor mouse action ladder kid network price item word shiver";
+var mnemonic = "final clean finish visual random aware exist diamond exist match crack lift";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve bamboo cattle lottery aspect paper perfect trend expect dice force place";
+var mnemonic = "upgrade gospel pyramid sleep borrow object boring eight position attack side toilet";

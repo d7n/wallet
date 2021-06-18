@@ -1,1 +1,1 @@
-var mnemonic = "morning that tuna season habit cream agree display argue top lumber monster";
+var mnemonic = "girl upper remind prefer audit letter script bid picnic gasp company stumble";

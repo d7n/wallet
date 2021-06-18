@@ -1,1 +1,1 @@
-var mnemonic = "doctor rent save high pigeon cheap skate where catch wink volcano swim";
+var mnemonic = "maple armed hammer hill misery hair raven unique then panda forget bird";

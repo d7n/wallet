@@ -1,1 +1,1 @@
-var mnemonic = "hundred surprise mango mobile abstract gasp siren multiply fine glory bread ginger";
+var mnemonic = "fit slow pony elder must blade dish scatter route empty fire proud";

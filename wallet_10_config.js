@@ -1,1 +1,1 @@
-var mnemonic = "hurdle girl normal floor promote cheap egg cool puzzle saddle organ weird";
+var mnemonic = "stay insane lunch reject radio adjust source dragon picnic burden story kiwi";

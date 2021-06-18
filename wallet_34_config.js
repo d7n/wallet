@@ -1,1 +1,1 @@
-var mnemonic = "govern certain much you dawn lyrics parent kingdom pelican way knee valid";
+var mnemonic = "rigid wild faculty solution basic gossip pass baby dumb noise social rich";

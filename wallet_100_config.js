@@ -1,1 +1,1 @@
-var mnemonic = "bundle salt safe clean major forward bomb smooth blue tenant drink screen";
+var mnemonic = "elegant today protect dove typical wedding priority patch fine law junior wisdom";

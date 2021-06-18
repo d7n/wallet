@@ -1,1 +1,1 @@
-var mnemonic = "joy sight device that lounge cloud snake soda cheap member tornado reflect";
+var mnemonic = "balcony digital clerk reject retire vast indicate rural cause flavor mystery mansion";

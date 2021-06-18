@@ -1,1 +1,1 @@
-var mnemonic = "flip cause stomach parent foot visa subway network timber state student sense";
+var mnemonic = "unable adapt nose city gain settle nest arrest expect faint cycle online";

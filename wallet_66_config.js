@@ -1,1 +1,1 @@
-var mnemonic = "assume beach nominee artefact pottery mixture either episode alpha wink height stereo";
+var mnemonic = "skull night link vanish inflict obtain liberty voyage spike essence quit sudden";

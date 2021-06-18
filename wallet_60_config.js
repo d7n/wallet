@@ -1,1 +1,1 @@
-var mnemonic = "duck quote upset decline punch tent trouble main fish whale cause spoon";
+var mnemonic = "alley ketchup remove shine capable advance combine stand thought they square two";

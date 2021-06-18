@@ -1,1 +1,1 @@
-var mnemonic = "solid crack oppose illegal young exhibit matrix friend february axis current trust";
+var mnemonic = "finger bracket dance humor payment holiday ten utility accuse try digital tiger";

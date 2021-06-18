@@ -1,1 +1,1 @@
-var mnemonic = "catalog exit card hungry pilot frame planet health cancel riot share region";
+var mnemonic = "owner hybrid tip effort unhappy trend various slogan mom dinner fold crew";

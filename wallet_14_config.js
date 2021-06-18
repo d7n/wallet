@@ -1,1 +1,1 @@
-var mnemonic = "total helmet danger snake auction drive supreme ketchup beef cake choose resist";
+var mnemonic = "decide festival desk good enjoy differ despair suggest unfold acoustic lyrics either";

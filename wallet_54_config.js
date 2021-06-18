@@ -1,1 +1,1 @@
-var mnemonic = "pigeon fashion task simple mistake hard prefer dilemma duty midnight citizen timber";
+var mnemonic = "ripple notable stamp vivid like state sustain table transfer inquiry frog fun";

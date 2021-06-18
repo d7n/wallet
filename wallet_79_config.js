@@ -1,1 +1,1 @@
-var mnemonic = "bounce sea robust liberty health vacant prosper term pudding fruit fatigue live";
+var mnemonic = "hard sport unfold item viable next strategy flight crawl ankle actual scale";

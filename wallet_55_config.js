@@ -1,1 +1,1 @@
-var mnemonic = "lake clog fury dentist pair surface view angry setup gap mistake great";
+var mnemonic = "quantum tower immune pilot cigar evil stomach sun midnight combine popular since";

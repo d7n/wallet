@@ -1,1 +1,1 @@
-var mnemonic = "stay follow stock enact ivory help segment oil castle hybrid again ghost";
+var mnemonic = "across scale chimney slide vivid arch auto mass genuine gadget stairs panic";

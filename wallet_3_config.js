@@ -1,1 +1,1 @@
-var mnemonic = "act hedgehog mansion fatigue door give involve keep modify embark slush step";
+var mnemonic = "gift neither wood green ice cover topic rebuild fury dumb steel language";

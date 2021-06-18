@@ -1,1 +1,1 @@
-var mnemonic = "ozone direct unhappy travel apple noodle heavy mind movie memory portion differ";
+var mnemonic = "helmet vast rule business fault confirm primary derive zebra layer chalk bicycle";

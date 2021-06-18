@@ -1,1 +1,1 @@
-var mnemonic = "crew fee share scheme afford dynamic sight sunset tip sunset clarify quick";
+var mnemonic = "stadium divide cheap rough patient diesel blur arrest snow great cage lecture";

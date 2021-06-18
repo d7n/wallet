@@ -1,1 +1,1 @@
-var mnemonic = "spoil blur ivory illness defy drastic slam pool include tired family weasel";
+var mnemonic = "gorilla coral year reduce distance crunch young similar corn approve crush dream";

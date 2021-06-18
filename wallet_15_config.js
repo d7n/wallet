@@ -1,1 +1,1 @@
-var mnemonic = "where fade cannon narrow badge dice olive soda mushroom ribbon field monster";
+var mnemonic = "wall fossil twelve artwork cloud crater canoe walk drink method awful fine";

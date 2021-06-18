@@ -1,1 +1,1 @@
-var mnemonic = "pitch spawn switch agent main rocket lumber wife bid lava crew insane";
+var mnemonic = "month dove secret modify smart mind tag program awkward deputy aim man";

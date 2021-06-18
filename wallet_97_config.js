@@ -1,1 +1,1 @@
-var mnemonic = "require lesson match staff nut sand fox cloth napkin across forget paper";
+var mnemonic = "nominee index start elegant text benefit nest dwarf attitude dune fly long";

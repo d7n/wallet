@@ -1,1 +1,1 @@
-var mnemonic = "lucky kick host kick scorpion rare hair hen height jar pledge original";
+var mnemonic = "level hat enemy tank parrot under tuna other castle divide sword margin";

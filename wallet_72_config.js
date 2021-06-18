@@ -1,1 +1,1 @@
-var mnemonic = "ticket rely fix fork solve escape swallow mixture antique render caution obey";
+var mnemonic = "manual purity defy wild barrel segment oppose shield rural spoil illness project";

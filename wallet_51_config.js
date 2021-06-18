@@ -1,1 +1,1 @@
-var mnemonic = "wide focus project town noise hundred tiny able follow various hip deny";
+var mnemonic = "found gasp allow air saddle swarm exile figure genre leisure eight immune";

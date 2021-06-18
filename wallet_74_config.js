@@ -1,1 +1,1 @@
-var mnemonic = "subway key picture army album fringe female farm erupt extra round noise";
+var mnemonic = "behind iron help fish fork come broken lava very tone fog purchase";

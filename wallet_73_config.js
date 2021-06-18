@@ -1,1 +1,1 @@
-var mnemonic = "skate blade acoustic cover robust west silk spike useful replace cradle table";
+var mnemonic = "lemon case liberty spirit box august employ news canvas section cram ride";

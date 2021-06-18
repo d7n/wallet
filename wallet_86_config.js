@@ -1,1 +1,1 @@
-var mnemonic = "spring smart mention yard matter mobile mobile wolf kingdom cradle control gift";
+var mnemonic = "congress answer plate trophy name acoustic evil govern tuna battle creek abandon";

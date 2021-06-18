@@ -1,1 +1,1 @@
-var mnemonic = "code gate able fragile fall air tumble divert invest shy this release";
+var mnemonic = "height fragile walnut collect save adjust valve embrace index chest awesome snake";

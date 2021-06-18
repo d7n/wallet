@@ -1,1 +1,1 @@
-var mnemonic = "elephant deposit jaguar swamp curious unusual defense apology scene client author scorpion";
+var mnemonic = "claw angle pretty boost opera dash race doctor vital genius crime clump";

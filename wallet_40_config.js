@@ -1,1 +1,1 @@
-var mnemonic = "breeze trigger coast obscure wedding rent verb absorb shoot park upper aisle";
+var mnemonic = "myth pear deputy present remain noble duck abstract resemble february snack girl";

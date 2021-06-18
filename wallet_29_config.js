@@ -1,1 +1,1 @@
-var mnemonic = "hair ten expect actor main choose rescue balcony earn theme opinion energy";
+var mnemonic = "bind mouse clock mention popular eight chapter rapid visa ripple usage hard";

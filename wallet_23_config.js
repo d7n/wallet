@@ -1,1 +1,1 @@
-var mnemonic = "insane machine pottery crop blouse medal soup cream excess present vacuum method";
+var mnemonic = "limit bronze fame collect just violin lunar control test inspire plate friend";

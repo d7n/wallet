@@ -1,1 +1,1 @@
-var mnemonic = "punch scan february aisle little close wise win obey traffic future worry";
+var mnemonic = "ecology famous mail spray boat cinnamon fault picture still truck fall lumber";

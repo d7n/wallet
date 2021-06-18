@@ -1,1 +1,1 @@
-var mnemonic = "essay cradle maximum render midnight iron congress train much drastic muffin repeat";
+var mnemonic = "crumble joke suit carbon envelope rally pond defense between trumpet illegal keep";

@@ -1,1 +1,1 @@
-var mnemonic = "attract swallow gasp wealth task east nose minor suit yard twenty endorse";
+var mnemonic = "buzz call forget what sleep game kiss orange guitar follow elbow tortoise";
