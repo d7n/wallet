@@ -1,1 +1,1 @@
-var mnemonic = "seed table business service craft modify wage daring young lawsuit clerk bitter";
+var mnemonic = "thrive globe pave book lake direct foam tenant enact slab together edge";

@@ -1,1 +1,1 @@
-var mnemonic = "craft fun jacket firm crucial engine clean polar draft maximum brush sweet";
+var mnemonic = "wild traffic daring artwork annual pet future dial ten consider update brisk";

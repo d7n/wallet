@@ -1,1 +1,1 @@
-var mnemonic = "section drift sign letter move dice exit butter stable brief sad legend";
+var mnemonic = "hat loan mechanic always chaos early fruit fat glide gather defense welcome";

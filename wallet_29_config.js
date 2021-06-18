@@ -1,1 +1,1 @@
-var mnemonic = "dragon glass vacant nice cart echo consider flat walk anxiety glide away";
+var mnemonic = "expose verb salmon climb knock mother aware diet broken vanish blast forum";

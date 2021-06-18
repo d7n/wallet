@@ -1,1 +1,1 @@
-var mnemonic = "festival grace share toy slim patch champion insect kidney palace palace lock";
+var mnemonic = "soccer victory subway trouble assault dismiss fancy innocent build ginger enough cause";

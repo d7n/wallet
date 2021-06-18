@@ -1,1 +1,1 @@
-var mnemonic = "shrimp uphold blade emotion rather tobacco issue body bag beach bullet away";
+var mnemonic = "security brick exclude hello knock harsh glow live tooth forest mutual play";

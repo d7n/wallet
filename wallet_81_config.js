@@ -1,1 +1,1 @@
-var mnemonic = "borrow vote car climb arrest fix erode frame discover torch evolve limb";
+var mnemonic = "oyster duty clarify inside enrich fancy mask broken gospel room veteran flag";

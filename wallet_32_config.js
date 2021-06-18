@@ -1,1 +1,1 @@
-var mnemonic = "lady occur also skate satisfy make fame chest hidden pudding orphan sauce";
+var mnemonic = "win fine shallow cricket oval lawsuit push sister manage north throw client";

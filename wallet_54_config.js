@@ -1,1 +1,1 @@
-var mnemonic = "stadium earth slab category attract proof person crouch humble extend proof olive";
+var mnemonic = "picture audit planet august dignity initial morning wink isolate erosion mix urban";

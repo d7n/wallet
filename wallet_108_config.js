@@ -1,1 +1,1 @@
-var mnemonic = "winter steak turkey kit cover erase equal donkey airport flower arrive purse";
+var mnemonic = "reduce cannon wage ill finish health local lock someone sustain moon praise";

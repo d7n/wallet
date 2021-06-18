@@ -1,1 +1,1 @@
-var mnemonic = "jazz crater grunt burst embark remain cost swift oppose skate camera box";
+var mnemonic = "call series gallery tree yard combine lift another funny north funny increase";

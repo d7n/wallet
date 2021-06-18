@@ -1,1 +1,1 @@
-var mnemonic = "erode skin silver manual around bacon library neck invest early chaos minute";
+var mnemonic = "helmet infant crystal below rapid flight tower unit effort buffalo lab copper";

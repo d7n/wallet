@@ -1,1 +1,1 @@
-var mnemonic = "fabric resource wish polar super close holiday keen urban reflect scheme acid";
+var mnemonic = "music slow excuse lawn traffic crush define thrive oven elder into core";

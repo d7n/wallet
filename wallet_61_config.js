@@ -1,1 +1,1 @@
-var mnemonic = "silver crash invest seven bulb repeat degree demand faint ethics city dose";
+var mnemonic = "soul unveil fire dash hawk noise sense youth olympic old forward modify";

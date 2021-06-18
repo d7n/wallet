@@ -1,1 +1,1 @@
-var mnemonic = "hybrid fluid legal okay frown sound hybrid city away boat faculty valid";
+var mnemonic = "scrap actress lunch garage flock tenant salt capital merry rough soul slab";

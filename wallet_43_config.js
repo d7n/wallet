@@ -1,1 +1,1 @@
-var mnemonic = "drip cave unhappy finish gown seminar soon finger kite length scale height";
+var mnemonic = "cream pull effort sense gadget guard share improve move omit rescue reject";

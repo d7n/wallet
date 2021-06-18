@@ -1,1 +1,1 @@
-var mnemonic = "moral pledge ranch wear pink where gate stove armed price dutch someone";
+var mnemonic = "ready mind daughter disease fly sheriff abuse stairs model sock fade learn";

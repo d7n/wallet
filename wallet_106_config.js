@@ -1,1 +1,1 @@
-var mnemonic = "deal license faint girl acid picture amateur cereal engage load multiply mom";
+var mnemonic = "evoke surround saddle pepper melody pull gaze radar denial panic maid olympic";

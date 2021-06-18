@@ -1,1 +1,1 @@
-var mnemonic = "barrel clog extra deputy urban love midnight pave good deal over proof";
+var mnemonic = "color sister degree fruit cause hazard evoke tired deny salt oven second";

@@ -1,1 +1,1 @@
-var mnemonic = "spot kitten crouch resist what hub media proof cushion pulp rally rug";
+var mnemonic = "fun dumb notable raise elite wonder man tuna goose hip relax morning";

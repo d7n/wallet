@@ -1,1 +1,1 @@
-var mnemonic = "reason napkin curve code pull dice pact stand north strategy jeans wisdom";
+var mnemonic = "sting climb script spin kangaroo travel burst range crew eternal prosper dice";

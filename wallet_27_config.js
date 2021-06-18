@@ -1,1 +1,1 @@
-var mnemonic = "marriage twist latin east boost arrange wealth action jealous rough subway light";
+var mnemonic = "change harsh advance guilt undo idle toy quarter bounce swallow foil solve";

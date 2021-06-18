@@ -1,1 +1,1 @@
-var mnemonic = "emerge rotate equal axis demise speak poet bullet bargain angle tornado soft";
+var mnemonic = "unit island neutral lottery essence initial marriage rude asthma inflict media history";

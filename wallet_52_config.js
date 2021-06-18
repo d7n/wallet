@@ -1,1 +1,1 @@
-var mnemonic = "aisle mask wave embody vote boss discover aisle fat galaxy torch bargain";
+var mnemonic = "tide shock one someone assault pact myself gas spirit fog derive route";

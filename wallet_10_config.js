@@ -1,1 +1,1 @@
-var mnemonic = "text strategy ahead follow bone blame often memory pet perfect exercise bonus";
+var mnemonic = "express robot banner aunt pencil stable glove victory aware swift knee bulk";

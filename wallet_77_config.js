@@ -1,1 +1,1 @@
-var mnemonic = "jeans saddle visit oxygen first town luxury armed oblige news render fix";
+var mnemonic = "deer truck evidence need machine pause coral crazy fortune profit prison spoil";

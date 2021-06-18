@@ -1,1 +1,1 @@
-var mnemonic = "august gorilla tissue table race fitness away few escape neither rebuild nurse";
+var mnemonic = "end unfair dice major grit cloth school marble panther grid hungry cloud";

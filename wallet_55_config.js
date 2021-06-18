@@ -1,1 +1,1 @@
-var mnemonic = "hurt share stereo gold black ride agree reform tower ritual advance prevent";
+var mnemonic = "bamboo bulk fold theme empower pigeon siege wink must sick ecology sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "buffalo system notable general pull appear speed online marble spirit assist arena";
+var mnemonic = "fatigue spin attend rose artist route mom decade suit analyst ocean arrive";

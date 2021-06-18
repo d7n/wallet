@@ -1,1 +1,1 @@
-var mnemonic = "size space unlock rural section bid already senior sunset consider unable wash";
+var mnemonic = "treat more teach choice plunge powder start palm nest flee ugly hair";

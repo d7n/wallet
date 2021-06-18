@@ -1,1 +1,1 @@
-var mnemonic = "bind figure lobster electric road absent report fish knife drastic symptom buddy";
+var mnemonic = "moon club scheme purpose mosquito addict spawn unhappy current glory pumpkin list";

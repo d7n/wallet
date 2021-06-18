@@ -1,1 +1,1 @@
-var mnemonic = "sugar jealous picnic crack garbage trick crouch approve wine swear three seek";
+var mnemonic = "bind pulse true gossip aisle blouse cereal equal twice situate pause gap";

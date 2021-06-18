@@ -1,1 +1,1 @@
-var mnemonic = "twist office couple super size urge flip timber verify guilt tribe turn";
+var mnemonic = "fashion return noodle parent outside fiction economy hope pipe vicious parade enact";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon lens eye vehicle visa popular deer tiny mango nurse artwork pull";
+var mnemonic = "short divert bottom suffer meat twist aware slot isolate apple breeze announce";

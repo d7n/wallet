@@ -1,1 +1,1 @@
-var mnemonic = "world skill round junk work double need nation congress drastic express rib";
+var mnemonic = "finish juice cigar orient aisle toe claw bamboo acoustic behave pair borrow";

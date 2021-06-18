@@ -1,1 +1,1 @@
-var mnemonic = "traffic lobster more vacant devote announce spring actual meat mass funny health";
+var mnemonic = "rich meat behind honey hungry unique embrace short blur name staff trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk mouse rail alley fiscal wave try slight library vocal december sniff";
+var mnemonic = "orbit soon rate bulk between walk subway army hire smoke dash space";

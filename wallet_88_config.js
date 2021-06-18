@@ -1,1 +1,1 @@
-var mnemonic = "uncle train device double ready wasp hotel proud word uncle glass green";
+var mnemonic = "saddle heart gown such wagon discover topic galaxy leave great shiver enemy";

@@ -1,1 +1,1 @@
-var mnemonic = "rely joy school mail debate hamster best name rabbit crop hat illness";
+var mnemonic = "virtual asset worry twenty quote canal chat embody dial elder birth celery";

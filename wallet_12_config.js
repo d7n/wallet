@@ -1,1 +1,1 @@
-var mnemonic = "open short deputy bike series clean noodle zebra shift sleep okay drift";
+var mnemonic = "average report hole resemble shoulder buyer staff time machine spatial tortoise vault";

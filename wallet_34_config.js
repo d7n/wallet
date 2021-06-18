@@ -1,1 +1,1 @@
-var mnemonic = "peasant virus ski concert shy hollow output access stay drift wage vote";
+var mnemonic = "relax okay below quick athlete power cruel damp volume antenna member balance";

@@ -1,1 +1,1 @@
-var mnemonic = "fog region veteran repair crack symbol spirit escape fossil ridge immense light";
+var mnemonic = "peanut awful jealous helmet idle elephant few sea blossom equal garbage time";

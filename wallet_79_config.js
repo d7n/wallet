@@ -1,1 +1,1 @@
-var mnemonic = "glove congress junk uncover cup fox require liquid bright wave enough snake";
+var mnemonic = "teach woman voyage dynamic remind stamp problem elite seek girl liquid original";

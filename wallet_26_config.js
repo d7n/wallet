@@ -1,1 +1,1 @@
-var mnemonic = "inside edit crowd village stock defy survey poem lumber session public inquiry";
+var mnemonic = "wolf range maple seat history sign toward mule direct hub submit frown";

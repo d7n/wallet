@@ -1,1 +1,1 @@
-var mnemonic = "giraffe comic fatal stairs tuna piano cricket arrange elegant north edge entry";
+var mnemonic = "crisp expand render mixture tag tail holiday aim brain oval police arrive";

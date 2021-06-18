@@ -1,1 +1,1 @@
-var mnemonic = "citizen cave boss address leaf jeans edge fantasy battle melody estate situate";
+var mnemonic = "theory battle balance tell pole purity tobacco solve angry dragon essay drink";

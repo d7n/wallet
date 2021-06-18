@@ -1,1 +1,1 @@
-var mnemonic = "crawl control beef middle belt drastic sweet bike subway stem ski damp";
+var mnemonic = "search enrich wild wait what fossil boring wire core program amount swamp";

@@ -1,1 +1,1 @@
-var mnemonic = "word unaware suggest power fox mom prefer ice inherit three walnut foil";
+var mnemonic = "actress flower various tomato cliff base street describe empty finger that actor";

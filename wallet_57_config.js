@@ -1,1 +1,1 @@
-var mnemonic = "loop ginger citizen essay above replace pizza traffic paddle harvest answer wage";
+var mnemonic = "west club remember engine october slow situate series adjust ugly author design";

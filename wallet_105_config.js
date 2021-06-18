@@ -1,1 +1,1 @@
-var mnemonic = "enlist typical moral quality eager judge salon fringe welcome stable grain planet";
+var mnemonic = "spare truly jaguar brave news dice tray sadness main edit inject pyramid";

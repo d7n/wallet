@@ -1,1 +1,1 @@
-var mnemonic = "wrap square sun grab surround describe tackle clinic luxury forget thrive ride";
+var mnemonic = "start this pony game mother multiply reform diagram snow travel ski tragic";

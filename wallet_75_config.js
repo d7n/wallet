@@ -1,1 +1,1 @@
-var mnemonic = "promote another length real elephant claim egg era squeeze grab east input";
+var mnemonic = "defense melody shoot cause elephant curtain space flight snake visit retire frame";

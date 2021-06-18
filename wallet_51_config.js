@@ -1,1 +1,1 @@
-var mnemonic = "trick push punch hire survey empower gauge now plunge drip genuine robot";
+var mnemonic = "absurd poem mad range leisure dog farm float argue erode tonight flock";

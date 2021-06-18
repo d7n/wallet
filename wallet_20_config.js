@@ -1,1 +1,1 @@
-var mnemonic = "left jelly minor silk small leaf vendor page cheese dutch inhale hover";
+var mnemonic = "bid music code motion gate truly donkey inflict peace provide same timber";

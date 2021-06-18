@@ -1,1 +1,1 @@
-var mnemonic = "culture rubber prepare twin rely naive endorse winner useful tribe file rocket";
+var mnemonic = "hotel orbit crawl north layer extend elder hockey pact hobby jealous alley";

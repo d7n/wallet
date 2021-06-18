@@ -1,1 +1,1 @@
-var mnemonic = "month cotton youth unknown cycle often cotton much airport fork obvious update";
+var mnemonic = "orange tray hundred rare loud divide anchor payment tuition insane thing access";

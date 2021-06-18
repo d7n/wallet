@@ -1,1 +1,1 @@
-var mnemonic = "prepare annual aspect flat table scare tongue infant pulse rice dismiss proof";
+var mnemonic = "usual awesome quantum arena rocket pizza ostrich essay fence fetch eight trend";

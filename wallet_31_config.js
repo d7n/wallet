@@ -1,1 +1,1 @@
-var mnemonic = "excuse drive chapter leaf brush coach ginger snack genre congress funny feel";
+var mnemonic = "chair market announce mesh wet session track maze globe market photo profit";

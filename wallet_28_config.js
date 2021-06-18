@@ -1,1 +1,1 @@
-var mnemonic = "noodle exotic visual size aerobic parade merry strong brisk common drill history";
+var mnemonic = "maid butter country explain engage pitch wrong hood carpet letter ignore account";

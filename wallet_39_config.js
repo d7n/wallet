@@ -1,1 +1,1 @@
-var mnemonic = "slogan merge stick awful ritual below forget labor pet early oyster just";
+var mnemonic = "mouse brass pottery double among dry loyal shrimp fog board bridge sing";

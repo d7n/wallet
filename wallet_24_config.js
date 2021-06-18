@@ -1,1 +1,1 @@
-var mnemonic = "logic torch little ancient army industry false pond hundred safe addict junior";
+var mnemonic = "scan virtual term net cruel hand material blind remove comfort fold control";

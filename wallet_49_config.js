@@ -1,1 +1,1 @@
-var mnemonic = "pitch piano month shrug error tip negative clump whale similar lazy warrior";
+var mnemonic = "smoke brief hello amazing emerge anchor skate rug rifle spot layer merit";

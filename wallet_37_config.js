@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow soccer voyage muscle flight slogan half vivid rare have idea victory";
+var mnemonic = "interest game kid again use office any biology index aunt critic sausage";

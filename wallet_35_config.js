@@ -1,1 +1,1 @@
-var mnemonic = "shove mandate grain check spot atom kiss pizza grain tongue priority loyal";
+var mnemonic = "together lounge question stairs baby neither crucial around grit envelope noodle repeat";

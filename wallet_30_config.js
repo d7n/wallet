@@ -1,1 +1,1 @@
-var mnemonic = "double guess body grief chat sweet glove ahead illness piece grunt flush";
+var mnemonic = "screen danger crucial estate walk special action hidden slight patient ecology diary";

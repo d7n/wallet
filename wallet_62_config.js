@@ -1,1 +1,1 @@
-var mnemonic = "pave scissors pumpkin wait dinosaur lucky retreat tray police yard bean shock";
+var mnemonic = "witness kitten genuine venture hollow become sunny cross dwarf hero amount normal";

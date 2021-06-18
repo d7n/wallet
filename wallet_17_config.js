@@ -1,1 +1,1 @@
-var mnemonic = "choice snack usage fan hero flip domain high fuel drive method yellow";
+var mnemonic = "eternal model rice stick leader liquid husband brush shield identify beach menu";

@@ -1,1 +1,1 @@
-var mnemonic = "fish stumble umbrella junk talk hour reopen casino clutch innocent token busy";
+var mnemonic = "hard effort light aware eight gun grit wait better hamster ice river";

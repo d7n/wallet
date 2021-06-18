@@ -1,1 +1,1 @@
-var mnemonic = "fan reveal inform mad disease imitate room surface result scrap list unfold";
+var mnemonic = "bless scare next fiction aware gossip sound box sock dragon pigeon cinnamon";

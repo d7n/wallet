@@ -1,1 +1,1 @@
-var mnemonic = "will soldier clutch west autumn element donkey business huge limb cash arena";
+var mnemonic = "what approve indoor fade receive quick vendor behave satisfy test alarm nerve";

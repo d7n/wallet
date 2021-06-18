@@ -1,1 +1,1 @@
-var mnemonic = "erode wheat journey useless cupboard solar bacon close liquid auto curve census";
+var mnemonic = "text diamond stand such deal burst way grief wage dice sauce pistol";

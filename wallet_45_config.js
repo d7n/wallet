@@ -1,1 +1,1 @@
-var mnemonic = "claw toss provide inform antenna upon empower idle soon nothing enhance veteran";
+var mnemonic = "leader share object brass correct away diary away fabric glow radio ugly";

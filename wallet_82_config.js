@@ -1,1 +1,1 @@
-var mnemonic = "vibrant scorpion obscure drink horror ugly box build ignore only auction melt";
+var mnemonic = "trust news alert obey night energy gloom fetch oval park choose index";

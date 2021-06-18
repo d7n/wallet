@@ -1,1 +1,1 @@
-var mnemonic = "this undo mean finger patch connect coyote hawk velvet heavy organ remove";
+var mnemonic = "love culture blush away mother excess depend bottom tomorrow doll trash casual";

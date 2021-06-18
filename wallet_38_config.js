@@ -1,1 +1,1 @@
-var mnemonic = "guard vintage subject swallow stock fatigue security dance blanket confirm soon juice";
+var mnemonic = "lawsuit rocket lyrics fold swing quality resemble million shadow prevent nothing adjust";

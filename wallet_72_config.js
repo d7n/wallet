@@ -1,1 +1,1 @@
-var mnemonic = "seed calm fuel balance harvest debate help obey avoid guess innocent long";
+var mnemonic = "inner live love large shed wife surface space write detect era exist";

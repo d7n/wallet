@@ -1,1 +1,1 @@
-var mnemonic = "erupt cheese grant extra brain bitter arctic insane video wealth rescue bonus";
+var mnemonic = "virtual knee scale rival flip car frown frozen super drama spice family";

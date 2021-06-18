@@ -1,1 +1,1 @@
-var mnemonic = "peace together melody broom tell unlock budget vessel excite wrestle visa squirrel";
+var mnemonic = "project sketch forward endorse orange private popular sibling one duty industry hat";

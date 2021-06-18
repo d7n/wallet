@@ -1,1 +1,1 @@
-var mnemonic = "cram struggle family dune gauge smoke olive front patch trim discover critic";
+var mnemonic = "world link key scare escape march grief dog disorder harsh dust guess";

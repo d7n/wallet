@@ -1,1 +1,1 @@
-var mnemonic = "arrest until senior essence bread tower have infant private awful rural success";
+var mnemonic = "era nice kind robot sign daring shaft mountain claim parent option pumpkin";

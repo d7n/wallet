@@ -1,1 +1,1 @@
-var mnemonic = "panel demand behave robot affair beach ice rule future uphold slot hockey";
+var mnemonic = "flush mass will valley kid journey swallow bless tribe rail quick security";

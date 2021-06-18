@@ -1,1 +1,1 @@
-var mnemonic = "issue like must sing desert game toilet observe apart patient hover grit";
+var mnemonic = "elbow chalk party damp slab impulse speed man culture media border drift";

@@ -1,1 +1,1 @@
-var mnemonic = "setup protect token view nation priority dizzy all maximum labor random toy";
+var mnemonic = "sample tree reform vast file smoke title fancy canal pond add elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "seven build recycle various peace diamond improve awake cousin success post rose";
+var mnemonic = "process start census priority limb wheat erode infant dwarf title venture clay";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor taxi evolve filter scene siege profit carry actor business end toe";
+var mnemonic = "lucky devote salmon acid circle tenant ceiling village unaware fantasy swift either";

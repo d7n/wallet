@@ -1,1 +1,1 @@
-var mnemonic = "then vague cushion battle glory cabbage title egg pair oil tattoo barrel";
+var mnemonic = "similar student limb call sting pig cruise much alley clock trouble mention";

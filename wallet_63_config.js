@@ -1,1 +1,1 @@
-var mnemonic = "actual calm grain garden wealth fold awesome inmate evoke certain crystal kangaroo";
+var mnemonic = "island animal obtain element valley yard gossip insect trigger tackle ribbon coin";
