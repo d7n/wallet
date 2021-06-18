@@ -1,1 +1,1 @@
-var mnemonic = "fringe ginger menu inside agent sketch ten catalog bracket oxygen often impact";
+var mnemonic = "tunnel planet live item kick discover claim ill connect because chapter shadow";

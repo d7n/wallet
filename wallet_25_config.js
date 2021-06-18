@@ -1,1 +1,1 @@
-var mnemonic = "impose quarter right wire awful eagle goat laundry poet move sustain ankle";
+var mnemonic = "famous turkey area laptop loud deputy team inform alarm budget farm tackle";

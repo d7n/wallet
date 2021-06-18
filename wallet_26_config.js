@@ -1,1 +1,1 @@
-var mnemonic = "swarm rain grant lucky company lumber spider drip breeze novel wrong okay";
+var mnemonic = "what mask erode stool arch layer topic tent domain cherry spy inspire";

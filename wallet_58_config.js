@@ -1,1 +1,1 @@
-var mnemonic = "clinic true random joke cupboard garden fringe merit differ step orient forget";
+var mnemonic = "bird focus fork goddess crumble uncle girl wage forward artefact issue toddler";

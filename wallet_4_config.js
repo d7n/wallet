@@ -1,1 +1,1 @@
-var mnemonic = "correct flavor anxiety grass plate jewel hollow cactus motion swamp elegant glue";
+var mnemonic = "cup sunset void arm west energy inflict despair soon august kidney act";

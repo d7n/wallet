@@ -1,1 +1,1 @@
-var mnemonic = "vapor bid maple civil crunch distance change zebra sponsor notable side observe";
+var mnemonic = "glance warrior harbor energy lobster miss plug any during flock disease artist";

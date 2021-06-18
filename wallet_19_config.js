@@ -1,1 +1,1 @@
-var mnemonic = "vintage absent dolphin primary display slogan industry twelve champion bicycle patrol salt";
+var mnemonic = "dumb sword minimum renew cliff razor tray thumb give robust vacant fish";

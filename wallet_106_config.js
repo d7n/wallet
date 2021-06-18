@@ -1,1 +1,1 @@
-var mnemonic = "aisle solar life roof curve embrace danger pulse proof churn aerobic adjust";
+var mnemonic = "shield elite replace weird right flame network fragile miss picture garbage abstract";

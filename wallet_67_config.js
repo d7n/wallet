@@ -1,1 +1,1 @@
-var mnemonic = "sponsor shoot grid property fox ten cloth coral casino couple hollow grain";
+var mnemonic = "card creek public quarter sentence liar canal expose cake loud boat learn";

@@ -1,1 +1,1 @@
-var mnemonic = "chef case first slush fatigue bitter shiver merge journey depth winter nation";
+var mnemonic = "little broccoli vibrant poem mask thank coconut arch card sight seven suffer";

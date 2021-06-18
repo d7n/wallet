@@ -1,1 +1,1 @@
-var mnemonic = "essence reveal sphere creek fury victory elegant opinion short quantum source spawn";
+var mnemonic = "genuine butter soul damage uniform evoke piece lizard unfold swamp fragile carbon";

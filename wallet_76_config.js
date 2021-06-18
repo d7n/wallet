@@ -1,1 +1,1 @@
-var mnemonic = "theory song inject melt endless idea throw diet scissors fold toward split";
+var mnemonic = "energy puzzle ramp satoshi twelve level collect fix notable stand interest shell";

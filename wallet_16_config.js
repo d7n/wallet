@@ -1,1 +1,1 @@
-var mnemonic = "agent visit section arrest equal amazing whisper ramp genre liar oppose pink";
+var mnemonic = "express diary palm banana silly hotel refuse excuse profit census pink double";

@@ -1,1 +1,1 @@
-var mnemonic = "cage dad measure gauge body wink burger effort target height erase frequent";
+var mnemonic = "eagle false plastic garden pluck march tide lawn useful horror traffic moon";

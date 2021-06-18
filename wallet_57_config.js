@@ -1,1 +1,1 @@
-var mnemonic = "stage term resemble veteran genuine job blur just chunk network youth soda";
+var mnemonic = "clutch project seed access sibling bargain screen unhappy nerve donor fan eye";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud danger choice diamond assume motion fat episode build install crystal stairs";
+var mnemonic = "play airport purse border emotion market rare normal bean clarify parrot long";

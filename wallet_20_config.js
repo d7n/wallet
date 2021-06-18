@@ -1,1 +1,1 @@
-var mnemonic = "small palace undo grape tobacco olympic shoulder hire planet debate garage panda";
+var mnemonic = "love trend fog mirror scare silent island husband base decrease act cloth";

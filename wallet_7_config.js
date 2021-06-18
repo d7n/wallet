@@ -1,1 +1,1 @@
-var mnemonic = "solar outside candy wear situate blush employ whip call oval oven current";
+var mnemonic = "top resemble gospel patrol style surge shuffle range lamp mutual bless chef";

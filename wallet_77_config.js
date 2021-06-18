@@ -1,1 +1,1 @@
-var mnemonic = "thumb whip violin picture mother sister enforce figure rebel fuel envelope crop";
+var mnemonic = "inner trash symptom bid equip cover cross pond seek enough hip question";

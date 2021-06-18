@@ -1,1 +1,1 @@
-var mnemonic = "lion diary song swallow tuition junior spoon laundry toward hazard column album";
+var mnemonic = "shop travel alien cliff build gossip inject sting swing pet first reunion";

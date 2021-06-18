@@ -1,1 +1,1 @@
-var mnemonic = "visual slab fitness catch dentist helmet siren discover middle journey reveal slow";
+var mnemonic = "decorate secret learn twin latin warrior phrase parade mail book shove afford";

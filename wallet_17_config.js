@@ -1,1 +1,1 @@
-var mnemonic = "absorb mango raven major symptom patch disorder surge pool trick own story";
+var mnemonic = "ladder better about right lawn prison just doll buzz weasel weasel grant";

@@ -1,1 +1,1 @@
-var mnemonic = "stereo help lazy deer alarm zone penalty minor elbow avocado grow awkward";
+var mnemonic = "inside moon siren rent order try equip blouse awkward punch desk trouble";

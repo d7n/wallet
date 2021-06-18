@@ -1,1 +1,1 @@
-var mnemonic = "thunder race spare drill hotel verb extra remember person dice topic shed";
+var mnemonic = "topic office swamp situate young harbor zone detail since chef human outer";

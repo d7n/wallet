@@ -1,1 +1,1 @@
-var mnemonic = "labor sport morning swap mother category north special fetch switch earth canal";
+var mnemonic = "fury dream fever boil gloom note cake mercy future item decrease inmate";

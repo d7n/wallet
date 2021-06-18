@@ -1,1 +1,1 @@
-var mnemonic = "filter develop long broken ball danger couple blade install goose marble item";
+var mnemonic = "unique skill deal wife cherry velvet exist bag select engage light orphan";

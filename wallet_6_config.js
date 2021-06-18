@@ -1,1 +1,1 @@
-var mnemonic = "during number valid flock rug pottery happy enter humble office wing west";
+var mnemonic = "escape olympic grab liar job soda lake rare misery news assist coast";

@@ -1,1 +1,1 @@
-var mnemonic = "book lake keep turkey staff length emerge casual mirror bean excuse very";
+var mnemonic = "afraid figure find paper world renew easily stairs cotton obvious unusual hip";

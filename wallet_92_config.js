@@ -1,1 +1,1 @@
-var mnemonic = "tower wrestle salt curious disagree leg olive rule ahead tape reject ancient";
+var mnemonic = "bunker close addict believe slush bottom differ entry gesture unusual wisdom diagram";

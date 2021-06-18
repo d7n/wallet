@@ -1,1 +1,1 @@
-var mnemonic = "demise neck able afraid harvest host gather frequent gesture diet million sleep";
+var mnemonic = "artwork ostrich army surprise you salt update leopard aware copy blind cave";

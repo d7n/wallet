@@ -1,1 +1,1 @@
-var mnemonic = "permit brick catalog decide gather sample scatter balance tragic ordinary lunar again";
+var mnemonic = "wrong spare gauge dance supreme forum length urban unlock dentist happy spawn";

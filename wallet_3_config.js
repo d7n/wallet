@@ -1,1 +1,1 @@
-var mnemonic = "dentist fatal race congress age april parent soccer isolate kick quote parade";
+var mnemonic = "gate model key exile ready fat awesome dinner cake flight royal blood";

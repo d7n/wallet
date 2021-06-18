@@ -1,1 +1,1 @@
-var mnemonic = "paddle improve renew purse near pattern camera bus dilemma degree trade bargain";
+var mnemonic = "sell chat kidney island spike alone butter side distance token library poem";

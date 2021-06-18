@@ -1,1 +1,1 @@
-var mnemonic = "target tooth twin analyst sand option pulp great volume ancient toe erode";
+var mnemonic = "october around spoil front require track nose undo fiscal despair become cricket";

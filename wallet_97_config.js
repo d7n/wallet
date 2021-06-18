@@ -1,1 +1,1 @@
-var mnemonic = "digital cool violin multiply double tunnel civil warm urge trouble hero addict";
+var mnemonic = "utility movie unit merry sorry enact screen dinner nephew weird stuff sense";

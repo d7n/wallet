@@ -1,1 +1,1 @@
-var mnemonic = "option book learn deliver exchange robust depth poet nothing screen reject snow";
+var mnemonic = "drop point link else crumble acoustic charge ozone april alcohol build canoe";

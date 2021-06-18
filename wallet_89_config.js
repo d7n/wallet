@@ -1,1 +1,1 @@
-var mnemonic = "into rhythm attract useless swarm ivory train calm spoil wire effort dutch";
+var mnemonic = "eye fish black forget much ill obey fold initial bind vessel afford";

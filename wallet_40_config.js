@@ -1,1 +1,1 @@
-var mnemonic = "rough split record later motion believe insane casual exhibit nation cake nerve";
+var mnemonic = "urge return real future shadow whip friend mention crop shadow hover vote";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget fog fatigue jacket chicken leopard sibling weapon novel kiss air turn";
+var mnemonic = "vintage black ivory inside want when aim pony evolve pave glass video";

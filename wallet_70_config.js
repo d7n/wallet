@@ -1,1 +1,1 @@
-var mnemonic = "path kick love range job grid donor parade interest salon vital material";
+var mnemonic = "degree festival favorite alter ignore creek crater slam dune envelope nothing possible";

@@ -1,1 +1,1 @@
-var mnemonic = "brick eagle divide hint orphan stomach uncle glance water where vendor quiz";
+var mnemonic = "ocean stuff laugh knock demise uniform lyrics ticket special pet awkward shrug";

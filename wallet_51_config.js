@@ -1,1 +1,1 @@
-var mnemonic = "enter fame menu fat cousin crazy dirt brown fall protect board senior";
+var mnemonic = "tortoise inch vintage unaware admit keen kiss utility random pepper frame december";

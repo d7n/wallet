@@ -1,1 +1,1 @@
-var mnemonic = "gloom poem above area reform verify tomorrow artist bronze abstract judge refuse";
+var mnemonic = "umbrella size normal artwork donkey adult crop brisk absent salt wonder brand";

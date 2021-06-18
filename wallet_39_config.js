@@ -1,1 +1,1 @@
-var mnemonic = "power cradle pill lion resist oil plate sense uncover media device eyebrow";
+var mnemonic = "license slow virus express table wisdom edit tank truck civil alpha clog";

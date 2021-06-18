@@ -1,1 +1,1 @@
-var mnemonic = "other extra indicate possible claim easy oil angle reward burger raise fuel";
+var mnemonic = "grape label tumble rely follow garden thing repeat start father express face";

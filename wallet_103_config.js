@@ -1,1 +1,1 @@
-var mnemonic = "senior scrap plunge traffic mountain know hollow river clean skin north bundle";
+var mnemonic = "donor anxiety nut ask elephant issue vehicle curious thrive mutual steak economy";

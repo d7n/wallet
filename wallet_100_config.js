@@ -1,1 +1,1 @@
-var mnemonic = "hello vendor athlete crucial torch alter result among educate surround boy link";
+var mnemonic = "arch cactus unlock reduce drive tackle street donkey any catalog victory number";

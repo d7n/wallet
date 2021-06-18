@@ -1,1 +1,1 @@
-var mnemonic = "suggest insect device exhibit they evoke sort pig magnet meat uncover suggest";
+var mnemonic = "forget minor race mammal glove festival deliver ostrich rough grass luxury yellow";

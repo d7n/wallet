@@ -1,1 +1,1 @@
-var mnemonic = "deer wrist mule tattoo fly wish century fluid stairs era nature squirrel";
+var mnemonic = "dynamic ecology motion maid sail trigger strike remind fresh talent anchor rally";

@@ -1,1 +1,1 @@
-var mnemonic = "fat stuff rare pizza vacuum winter casual edit strike surge jungle olive";
+var mnemonic = "now room pact genuine ship jeans universe joke air lucky food crop";

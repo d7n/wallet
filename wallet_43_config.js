@@ -1,1 +1,1 @@
-var mnemonic = "outdoor fancy mercy plug robust pen more main certain oval choose cereal";
+var mnemonic = "zone lizard ride game rebel enemy lady waste agree enlist carbon loud";

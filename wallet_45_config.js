@@ -1,1 +1,1 @@
-var mnemonic = "trust victory loop service chest beach drink victory donate idea mansion tiger";
+var mnemonic = "scheme innocent tool pottery sting problem coast hurt firm crater sausage fame";

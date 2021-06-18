@@ -1,1 +1,1 @@
-var mnemonic = "track noise move infant cereal gravity dance afford warm chalk group drink";
+var mnemonic = "boat increase offer hand give gain drastic view ancient lock bacon company";

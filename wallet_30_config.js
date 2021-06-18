@@ -1,1 +1,1 @@
-var mnemonic = "fringe joy sad over snow nerve adult brother radio search paper peace";
+var mnemonic = "clever during sing asthma host upper critic primary priority dragon now april";

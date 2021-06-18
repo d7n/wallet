@@ -1,1 +1,1 @@
-var mnemonic = "donate tone head extend talk arm remember sponsor talk neutral old else";
+var mnemonic = "design trust day year elder typical yard similar lawn harsh grace tenant";

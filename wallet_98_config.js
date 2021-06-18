@@ -1,1 +1,1 @@
-var mnemonic = "shrug renew sample double sight hair attitude language picture damage east loyal";
+var mnemonic = "price news east indoor wedding solution rack indoor blossom leaf syrup adjust";

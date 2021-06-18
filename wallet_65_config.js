@@ -1,1 +1,1 @@
-var mnemonic = "item mobile win price ahead security enemy nasty predict actual offer hospital";
+var mnemonic = "toe unfair verify metal real waste height demise diet lamp love stone";

@@ -1,1 +1,1 @@
-var mnemonic = "brother vehicle analyst pave glass rib smooth fan copper window zoo latin";
+var mnemonic = "awake cable bamboo rocket twelve prevent people place curve just fatal anger";

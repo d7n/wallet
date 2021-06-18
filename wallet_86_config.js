@@ -1,1 +1,1 @@
-var mnemonic = "hurry rebel empty bunker regular boss month connect catalog crystal public shell";
+var mnemonic = "brick evoke robust frog giraffe rhythm pyramid cage ahead erode crowd holiday";

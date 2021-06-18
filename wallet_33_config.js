@@ -1,1 +1,1 @@
-var mnemonic = "wedding calm describe chronic advance script problem ski payment pull detect twelve";
+var mnemonic = "capital visual puppy bring brother essence custom topic vapor chaos decline abuse";

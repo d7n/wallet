@@ -1,1 +1,1 @@
-var mnemonic = "cup fashion various potato escape hard joke area combine base alien crop";
+var mnemonic = "empty pave silly switch section praise space lend stock aspect music powder";

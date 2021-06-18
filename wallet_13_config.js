@@ -1,1 +1,1 @@
-var mnemonic = "travel will extend talk increase bargain worry rug curious main tuition usual";
+var mnemonic = "atom tomorrow arrange brand enact cross sunset bullet humble fragile weasel light";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon marble rebuild defense dignity october window used voice very voice green";
+var mnemonic = "carbon lyrics hungry slush few swallow roast danger dawn spell bone win";

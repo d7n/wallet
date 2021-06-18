@@ -1,1 +1,1 @@
-var mnemonic = "shoe blue flat industry venture will dream pony gain book reform shove";
+var mnemonic = "funny twelve vivid pool pipe diary insane know around bag ahead soft";

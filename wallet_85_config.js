@@ -1,1 +1,1 @@
-var mnemonic = "detect cycle prize cloth banner post social demand demand model lottery rule";
+var mnemonic = "rose nephew picture pitch crop priority blind mother danger foster guitar wide";

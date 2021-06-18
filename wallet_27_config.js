@@ -1,1 +1,1 @@
-var mnemonic = "legal solar kite valley bring grief tent awful birth quick fence basic";
+var mnemonic = "talk naive river cave meat prevent rapid people normal average ranch breeze";

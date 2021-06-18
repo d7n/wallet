@@ -1,1 +1,1 @@
-var mnemonic = "ranch clock winter hold between original cradle find electric bench grid embody";
+var mnemonic = "vintage rigid economy garage cloud blue discover intact document stool sister basic";

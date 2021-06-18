@@ -1,1 +1,1 @@
-var mnemonic = "exotic refuse van sick piano wreck option blame sense coil sunset random";
+var mnemonic = "almost adult main husband dial below jacket pioneer search sunny wolf daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "marble medal salute another eternal emerge fly cheap own pencil must obvious";
+var mnemonic = "stone choose mean they popular grace trick pattern canal envelope swim always";

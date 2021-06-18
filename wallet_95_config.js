@@ -1,1 +1,1 @@
-var mnemonic = "enjoy rely initial upset ridge hurt sunny cloth army someone street citizen";
+var mnemonic = "sphere soccer swarm inject model worth gallery detect slight bubble medal antenna";

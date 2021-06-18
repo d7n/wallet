@@ -1,1 +1,1 @@
-var mnemonic = "degree enroll purchase ketchup wonder humor spin crunch bar chicken execute maximum";
+var mnemonic = "battle cabin exclude dentist action pulse chase bubble crush picture manage better";

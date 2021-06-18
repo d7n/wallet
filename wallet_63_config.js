@@ -1,1 +1,1 @@
-var mnemonic = "upset rather spin allow setup crucial noise stick force scrap trick special";
+var mnemonic = "solve time fortune lift blush tone orphan crack round eager rifle entry";

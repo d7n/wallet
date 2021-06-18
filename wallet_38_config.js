@@ -1,1 +1,1 @@
-var mnemonic = "wave sauce life slight unveil stamp leaf bag inject pet sword fantasy";
+var mnemonic = "art dice arrow regret drop remove flee winter turtle daughter type section";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest goddess issue favorite treat again hold one rhythm call vault snap";
+var mnemonic = "hotel hint advice venture person super promote kind sea head tag dance";

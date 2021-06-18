@@ -1,1 +1,1 @@
-var mnemonic = "twenty wage gentle main shiver target minute indicate spoon pet area fox";
+var mnemonic = "text blind under family ensure clutch inflict pyramid limit cargo piece memory";

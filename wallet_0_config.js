@@ -1,1 +1,1 @@
-var mnemonic = "question gauge tourist thing author scale space ridge give fruit rough palm";
+var mnemonic = "have spread phone hungry math drive blood boost entry fuel essay zero";

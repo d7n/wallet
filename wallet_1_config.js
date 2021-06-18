@@ -1,1 +1,1 @@
-var mnemonic = "symptom thrive draw mystery profit expand north you crystal chronic praise divide";
+var mnemonic = "cake pilot water hurt focus glimpse tape debate chaos gravity catalog section";

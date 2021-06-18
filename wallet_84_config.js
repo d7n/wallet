@@ -1,1 +1,1 @@
-var mnemonic = "blur kitten gift tobacco poet crew distance story exhibit frame bone gather";
+var mnemonic = "culture view can wrist nephew asthma flavor miracle gather quality satoshi more";

@@ -1,1 +1,1 @@
-var mnemonic = "face dice submit capital group eyebrow okay cousin fat coffee vessel pitch";
+var mnemonic = "fuel area layer reunion volcano soon sniff view right gym trial orange";

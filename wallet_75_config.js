@@ -1,1 +1,1 @@
-var mnemonic = "way come crop keen degree track master belt cute soda grape spike";
+var mnemonic = "only silent pluck vintage whip genius fame corn glue embrace ride diagram";

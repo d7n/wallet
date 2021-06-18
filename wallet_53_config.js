@@ -1,1 +1,1 @@
-var mnemonic = "glad rug bacon enemy never bulk hungry about onion pride lunch idle";
+var mnemonic = "just bridge flat laugh omit wish purpose twice logic lazy erupt cherry";

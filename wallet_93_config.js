@@ -1,1 +1,1 @@
-var mnemonic = "couch quiz same calm uphold dress material street rice donor island private";
+var mnemonic = "kiwi advance warrior six film address mercy motion sentence moment stamp mistake";

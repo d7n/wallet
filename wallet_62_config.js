@@ -1,1 +1,1 @@
-var mnemonic = "robust dirt upset cabin witness else rug few slogan today around explain";
+var mnemonic = "average taste goat industry mechanic camera panda head glue horse draft fade";

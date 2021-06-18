@@ -1,1 +1,1 @@
-var mnemonic = "fall girl author turn bridge uphold put combine shield wool prosper select";
+var mnemonic = "draw brass level body say treat this weird memory wool smooth drastic";

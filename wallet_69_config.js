@@ -1,1 +1,1 @@
-var mnemonic = "believe element disease delay bid domain wrong nasty sort sword hat artefact";
+var mnemonic = "absurd boil surprise super right topic top rhythm gift ramp cupboard penalty";

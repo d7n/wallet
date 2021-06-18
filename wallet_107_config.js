@@ -1,1 +1,1 @@
-var mnemonic = "skate below planet expand lion zero ankle cry slow noise document scrub";
+var mnemonic = "bamboo winter turkey explain better two equip law cycle sponsor knife help";

@@ -1,1 +1,1 @@
-var mnemonic = "firm badge vintage embrace nominee antenna fatal seminar come security stool grain";
+var mnemonic = "discover tuition false offer moment noodle thumb slogan outside elegant there budget";

@@ -1,1 +1,1 @@
-var mnemonic = "tube bacon fit hope bullet vendor hand slogan crop vehicle short eagle";
+var mnemonic = "venue fog because popular dance anger total rich reduce rack portion pledge";

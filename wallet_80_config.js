@@ -1,1 +1,1 @@
-var mnemonic = "loud harvest notice thank bring they arena shrug water rose lady dad";
+var mnemonic = "proud spin hello floor trumpet dress thumb boss mammal basket script mail";

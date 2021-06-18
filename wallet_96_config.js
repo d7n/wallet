@@ -1,1 +1,1 @@
-var mnemonic = "industry bone sleep ensure tip dutch fit calm river govern almost height";
+var mnemonic = "fat harsh panda legal olympic prize hill hood visual entry nut lunch";

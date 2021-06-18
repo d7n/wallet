@@ -1,1 +1,1 @@
-var mnemonic = "mirror tired page library people grow tail little saddle scan innocent foot";
+var mnemonic = "assist concert noodle echo digital crew skull bar talent behave twist cram";
