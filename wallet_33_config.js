@@ -1,1 +1,1 @@
-var mnemonic = "seed thunder apple scene modify domain frost weird supreme post wear shock";
+var mnemonic = "ahead manage diet crush flock mass glue they okay wonder urban shaft";

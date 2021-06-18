@@ -1,1 +1,1 @@
-var mnemonic = "trick figure shallow snack august mutual approve gate wing analyst decade renew";
+var mnemonic = "inside august dismiss hour turkey street talent response tobacco price orient speed";

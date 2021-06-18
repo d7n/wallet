@@ -1,1 +1,1 @@
-var mnemonic = "supply fiction praise mercy ice host child math stumble supply dust unique";
+var mnemonic = "ridge abuse live wide scale invite have hobby fuel plunge earn letter";

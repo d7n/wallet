@@ -1,1 +1,1 @@
-var mnemonic = "noble social imitate embark gesture visit play speed design cactus galaxy stone";
+var mnemonic = "govern traffic faith jeans observe shrimp patient dress head skirt treat wood";

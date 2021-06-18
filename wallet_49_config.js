@@ -1,1 +1,1 @@
-var mnemonic = "short worry traffic swing position fine bonus rifle number black option comic";
+var mnemonic = "agree track casual jungle promote guitar earn lyrics october crumble antenna train";

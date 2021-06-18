@@ -1,1 +1,1 @@
-var mnemonic = "daughter enact mixed series banana laugh ketchup around time engine start safe";
+var mnemonic = "mistake initial cricket soap apology fall echo inner brand horn call deposit";

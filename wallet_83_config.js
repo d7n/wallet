@@ -1,1 +1,1 @@
-var mnemonic = "meadow appear display vote alien custom picnic glove amount enrich milk unhappy";
+var mnemonic = "idle valve green mention shrimp climb satisfy giant disagree salon huge inmate";

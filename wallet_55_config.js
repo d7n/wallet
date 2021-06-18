@@ -1,1 +1,1 @@
-var mnemonic = "joy crumble oval matter drift stay blast pattern toy analyst toe lobster";
+var mnemonic = "suit daughter garage grab float candy inject parent vendor evolve blur elegant";

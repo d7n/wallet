@@ -1,1 +1,1 @@
-var mnemonic = "panda rib garment decorate mixture proof erupt addict enforce addict lemon law";
+var mnemonic = "beyond supply trial artefact cash illness twist grace company phone note damage";

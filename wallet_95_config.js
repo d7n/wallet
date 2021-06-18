@@ -1,1 +1,1 @@
-var mnemonic = "degree blast coin nest kiss whisper prepare eagle rule caught spot urban";
+var mnemonic = "uncle hockey learn body donkey later dolphin someone slam media suit trade";

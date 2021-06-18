@@ -1,1 +1,1 @@
-var mnemonic = "parade airport spread syrup warm enter october cherry yellow castle imitate party";
+var mnemonic = "announce sure rough tongue eight motion spread fossil square exotic sleep barrel";

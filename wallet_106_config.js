@@ -1,1 +1,1 @@
-var mnemonic = "chalk plate drop basic oven silver flip deliver crucial argue text eager";
+var mnemonic = "town because mansion fuel behave life enrich young good nature island badge";

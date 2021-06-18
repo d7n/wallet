@@ -1,1 +1,1 @@
-var mnemonic = "future surface merge earth arrest power wall rent leopard toss churn hawk";
+var mnemonic = "injury thought claw perfect category crater morning once title position pistol duty";

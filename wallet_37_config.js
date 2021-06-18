@@ -1,1 +1,1 @@
-var mnemonic = "hurt fatal vague side real renew earn oblige green wrestle trash armed";
+var mnemonic = "nose north laugh close mind glow bonus furnace tunnel often busy fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney cigar prosper early scene champion wink indicate rural crunch okay power";
+var mnemonic = "entire trade cross impose grid foil turn major ginger slim jar what";

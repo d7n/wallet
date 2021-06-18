@@ -1,1 +1,1 @@
-var mnemonic = "diet equal neither snap embody abandon together toddler floor crop opinion debate";
+var mnemonic = "girl soft barrel exist stomach half result outer bundle juice topic deputy";

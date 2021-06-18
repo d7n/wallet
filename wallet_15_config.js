@@ -1,1 +1,1 @@
-var mnemonic = "two sound throw burst cheese lion coin mystery harvest east token salad";
+var mnemonic = "program work wife urge jazz jelly stairs frequent attitude thunder trust ask";

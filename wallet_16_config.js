@@ -1,1 +1,1 @@
-var mnemonic = "puzzle exile puppy auto cinnamon estate cradle mix merit wisdom please balcony";
+var mnemonic = "topple ramp mean fish screen security unusual dumb afford buddy arena scatter";

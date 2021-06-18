@@ -1,1 +1,1 @@
-var mnemonic = "grant nuclear local verb dumb dog sponsor number sudden depend actor leader";
+var mnemonic = "naive absorb journey sell dust wash rocket guitar false gap bid company";

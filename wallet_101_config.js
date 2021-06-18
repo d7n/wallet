@@ -1,1 +1,1 @@
-var mnemonic = "own parent hybrid budget gossip office uphold suggest lawsuit guess armed raw";
+var mnemonic = "only alley obscure payment vapor sustain cruel hollow admit tail loan deputy";

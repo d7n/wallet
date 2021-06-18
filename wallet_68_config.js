@@ -1,1 +1,1 @@
-var mnemonic = "protect best badge motor illness draw affair conduct illegal desk pond crazy";
+var mnemonic = "donkey what food laptop kidney tribe horror cabin soda uncover prison panic";

@@ -1,1 +1,1 @@
-var mnemonic = "say flag deputy anchor coach wine consider account wish rigid symptom short";
+var mnemonic = "torch jazz talk used resemble valve gaze damp decide twist life scatter";

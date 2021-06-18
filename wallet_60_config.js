@@ -1,1 +1,1 @@
-var mnemonic = "shine require shell swim sniff income judge urban anchor document wood drive";
+var mnemonic = "misery kid account issue domain lunch sample special car enemy depth bracket";

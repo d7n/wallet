@@ -1,1 +1,1 @@
-var mnemonic = "erosion toddler budget away frame near section cluster nation oval mail eight";
+var mnemonic = "payment same position ready bag swear normal wisdom page kangaroo lottery habit";

@@ -1,1 +1,1 @@
-var mnemonic = "input misery faint predict ball churn honey length scatter scan slice library";
+var mnemonic = "shine margin since above outdoor faculty cancel sadness club response avocado salute";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive trust heavy opinion danger pull glue roof festival village cluster wine";
+var mnemonic = "milk soda like daring direct barely ecology canal true tribe peanut track";

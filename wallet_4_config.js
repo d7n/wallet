@@ -1,1 +1,1 @@
-var mnemonic = "stomach primary blur pistol large library frog conduct inmate act creek service";
+var mnemonic = "panic increase onion table item gasp false soccer you casino exhibit swing";

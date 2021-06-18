@@ -1,1 +1,1 @@
-var mnemonic = "core abuse floor tackle junk square various jump tortoise aware ceiling execute";
+var mnemonic = "exile hurdle together fall move deposit false word squirrel employ brother feed";

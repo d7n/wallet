@@ -1,1 +1,1 @@
-var mnemonic = "jealous oxygen bench sentence abandon cage fan ask purity indicate call inquiry";
+var mnemonic = "month crush jar ensure yellow teach truly fat horse fabric rail say";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth frost uncle artefact heavy regret globe buffalo twist tackle whale witness";
+var mnemonic = "frog path verb throw trial ridge aspect sail battle monkey test clap";

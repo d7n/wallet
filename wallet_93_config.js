@@ -1,1 +1,1 @@
-var mnemonic = "attitude armed spend adjust bus people merry prison cake uniform stomach risk";
+var mnemonic = "ceiling dish cycle garden end paper provide solar glad correct fever laugh";

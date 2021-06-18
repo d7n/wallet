@@ -1,1 +1,1 @@
-var mnemonic = "inherit devote control dinosaur language obscure moment tattoo swift weird embark canal";
+var mnemonic = "tiger engine unit rich nasty subway coast donor pelican salmon duck tone";

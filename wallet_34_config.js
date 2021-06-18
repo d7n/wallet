@@ -1,1 +1,1 @@
-var mnemonic = "together tent renew margin either mountain forget empty lobster toast assist couple";
+var mnemonic = "any door paddle nature erode manual panic lend size boat another crop";

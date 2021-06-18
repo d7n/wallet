@@ -1,1 +1,1 @@
-var mnemonic = "stable muffin skin bundle faculty scan chimney crew quote clap wing market";
+var mnemonic = "obvious doctor end taxi border squirrel people lizard nice elbow exotic muffin";

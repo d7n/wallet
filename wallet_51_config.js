@@ -1,1 +1,1 @@
-var mnemonic = "steel aware inner wine twenty train leisure ranch eyebrow clip hedgehog enrich";
+var mnemonic = "pulp maximum live awkward focus light donkey unusual lens symbol airport alien";

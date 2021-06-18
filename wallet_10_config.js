@@ -1,1 +1,1 @@
-var mnemonic = "link pencil evil sample doll inmate south okay earn summer slab expose";
+var mnemonic = "best time chief ugly safe produce grain special trigger giraffe stage suit";

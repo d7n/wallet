@@ -1,1 +1,1 @@
-var mnemonic = "gate symptom boring enjoy simple online liberty outer bicycle achieve volcano couch";
+var mnemonic = "athlete syrup ridge air own dune innocent cry brick leisure tired tower";

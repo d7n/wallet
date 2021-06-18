@@ -1,1 +1,1 @@
-var mnemonic = "noble assume spy cable fringe select island help slogan save father hen";
+var mnemonic = "screen village broccoli network member need menu daughter cinnamon harbor gesture seed";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle drive dial silly utility enjoy defense define used era drive satoshi";
+var mnemonic = "color gold earn sunny enable mango palace any income inch february truck";

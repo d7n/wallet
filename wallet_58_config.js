@@ -1,1 +1,1 @@
-var mnemonic = "electric suit path peanut endless broken brick decline bag stadium media choose";
+var mnemonic = "apart shy palm salad defy aim brisk disagree ketchup all inject lonely";

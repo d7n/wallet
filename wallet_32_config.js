@@ -1,1 +1,1 @@
-var mnemonic = "advice census mercy trigger problem garage wait match vocal coin hazard blush";
+var mnemonic = "ecology misery until flavor mom must guess yellow coconut kitten slam repeat";

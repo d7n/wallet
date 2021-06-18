@@ -1,1 +1,1 @@
-var mnemonic = "crush hero analyst humor they enter aunt glance turkey exile planet utility";
+var mnemonic = "edit fluid shine balance rescue modify early plastic clown put creek robot";

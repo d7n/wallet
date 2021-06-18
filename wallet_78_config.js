@@ -1,1 +1,1 @@
-var mnemonic = "ensure pig sadness confirm album hint strike board polar desk tonight jewel";
+var mnemonic = "next invest soft faculty dune orphan work ill shrimp equal marriage dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "clog language vault talent rocket laugh climb inmate quantum cupboard common clerk";
+var mnemonic = "vapor solution wasp century clinic toward canal runway arrive load ginger cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "burst cruel pact entire share thank glad science truly coin oxygen chair";
+var mnemonic = "reason nose yard next bulk thank scorpion lonely nuclear describe brand couch";

@@ -1,1 +1,1 @@
-var mnemonic = "ordinary enrich tenant pipe comfort bright auto angry fire toy dawn fancy";
+var mnemonic = "obey regular room silk wrap unaware nose case junk axis weather media";

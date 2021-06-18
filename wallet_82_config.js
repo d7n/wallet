@@ -1,1 +1,1 @@
-var mnemonic = "total riot poet unaware urban mixed girl blue throw brown fatigue must";
+var mnemonic = "benefit scissors elder knock camp weather radio inner visual lizard recall vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "same sail proof secret dutch pact rifle creek worth muffin author salmon";
+var mnemonic = "ocean income success toward canyon assume attitude robot impulse song elevator inside";

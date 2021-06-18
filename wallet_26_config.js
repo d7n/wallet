@@ -1,1 +1,1 @@
-var mnemonic = "symbol morning icon okay spare reunion fly buddy speak sustain grape breeze";
+var mnemonic = "slight sea song test century bean vote square stumble clog during merge";

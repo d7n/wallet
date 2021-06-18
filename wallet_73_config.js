@@ -1,1 +1,1 @@
-var mnemonic = "elevator tree uncover item swallow pass tongue lock fish elder rose finish";
+var mnemonic = "dutch diary amount six today blood disease army street maple vital shadow";

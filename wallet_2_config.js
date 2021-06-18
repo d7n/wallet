@@ -1,1 +1,1 @@
-var mnemonic = "idea delay finger steel wrong great language shoot hand angry shift across";
+var mnemonic = "aspect tool kingdom submit stove mad dismiss alert someone tomorrow trend dilemma";

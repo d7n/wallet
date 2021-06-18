@@ -1,1 +1,1 @@
-var mnemonic = "sadness noise meadow notice suffer provide second camera thrive south echo salt";
+var mnemonic = "face pink labor inmate anchor fuel horn forum rug ticket gorilla ask";

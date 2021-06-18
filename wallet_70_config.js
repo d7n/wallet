@@ -1,1 +1,1 @@
-var mnemonic = "switch sure survey perfect help recall segment maple client fabric trash warrior";
+var mnemonic = "tail pulse idle useless level setup pet bright comic hold teach yellow";

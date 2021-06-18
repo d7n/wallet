@@ -1,1 +1,1 @@
-var mnemonic = "finish casino nature across poem comic kitten trophy misery border vintage yard";
+var mnemonic = "pond brush begin future sea better roof table snake rural swing initial";

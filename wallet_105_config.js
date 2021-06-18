@@ -1,1 +1,1 @@
-var mnemonic = "plug drastic gauge onion melody viable cheese issue search into foil boring";
+var mnemonic = "fire news sound start cup permit flight wheat dish village calm honey";

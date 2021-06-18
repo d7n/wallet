@@ -1,1 +1,1 @@
-var mnemonic = "hawk combine summer fan define usage tonight vicious rebuild sail glide mixed";
+var mnemonic = "deputy theory much gadget foam power nose neutral logic raccoon ask other";

@@ -1,1 +1,1 @@
-var mnemonic = "segment enjoy pitch bind loan whisper knee flee forget catch wet grape";
+var mnemonic = "grace onion enemy pretty almost spot crouch laundry merit sphere exhibit code";

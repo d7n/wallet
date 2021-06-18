@@ -1,1 +1,1 @@
-var mnemonic = "awkward destroy alien castle ice stone cluster metal ice action joke system";
+var mnemonic = "beach fall record number pig happy word educate organ point tone wheel";

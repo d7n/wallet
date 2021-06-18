@@ -1,1 +1,1 @@
-var mnemonic = "success pistol small sadness stable cement song orange island tone liar dinner";
+var mnemonic = "icon dress poverty broom winter fold skin merge image danger execute faint";

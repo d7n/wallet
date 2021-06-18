@@ -1,1 +1,1 @@
-var mnemonic = "spawn ill winner ladder silly light brand wing drift honey wink smile";
+var mnemonic = "sustain black answer toast green this pair beef wreck peasant worth asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "loop rich monster report term ready like best unhappy prison ecology tone";
+var mnemonic = "coral enemy cube pair awkward gap behind appear remember oppose trophy primary";

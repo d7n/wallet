@@ -1,1 +1,1 @@
-var mnemonic = "inch tourist river dolphin agent daring actress excess dream property sign city";
+var mnemonic = "citizen panda idle bonus save general deposit miracle manage various spatial man";

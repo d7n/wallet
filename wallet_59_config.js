@@ -1,1 +1,1 @@
-var mnemonic = "special mosquito spatial later fossil gather faint sadness ahead raccoon baby energy";
+var mnemonic = "gun phone tail stairs surge trash riot phrase fabric taste fork million";

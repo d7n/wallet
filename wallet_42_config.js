@@ -1,1 +1,1 @@
-var mnemonic = "reject almost spawn news canoe excuse shed normal turn minor dream pear";
+var mnemonic = "usual genius section pepper adapt muscle super ostrich fence magnet series snake";

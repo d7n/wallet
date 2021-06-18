@@ -1,1 +1,1 @@
-var mnemonic = "lady tragic guard coyote rhythm bamboo coin forget case unit local entry";
+var mnemonic = "embark alpha deer orient claw labor thumb strike fashion shrimp inner deposit";

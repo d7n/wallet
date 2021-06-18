@@ -1,1 +1,1 @@
-var mnemonic = "notice wet kit home chair evidence inmate wagon expire scorpion green sniff";
+var mnemonic = "will symbol slogan engine bind lift ride deer fatigue figure symptom crowd";

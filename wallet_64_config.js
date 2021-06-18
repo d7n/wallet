@@ -1,1 +1,1 @@
-var mnemonic = "giggle response narrow post normal gaze time secret misery useful step pretty";
+var mnemonic = "tone salon series upper spawn now trophy area swim stone fashion punch";

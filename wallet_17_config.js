@@ -1,1 +1,1 @@
-var mnemonic = "magnet latin craft hill stamp cream unhappy join merge admit rifle laundry";
+var mnemonic = "below grab toast pelican drill tiny riot affair pattern couple hawk sun";

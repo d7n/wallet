@@ -1,1 +1,1 @@
-var mnemonic = "corn edge detect pencil rail shoulder symbol damage brown sign harsh loan";
+var mnemonic = "torch warfare code joy people diet agent intact color mystery tunnel jar";

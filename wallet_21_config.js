@@ -1,1 +1,1 @@
-var mnemonic = "panther coral there priority verb foot blanket easily page wild divide scale";
+var mnemonic = "mystery brass crush observe purity rib wonder agree awesome uniform garbage notice";

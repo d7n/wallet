@@ -1,1 +1,1 @@
-var mnemonic = "project sand gaze follow visa mule lazy science vapor flip material puzzle";
+var mnemonic = "add soccer hello still menu erase canyon ability humor west destroy consider";

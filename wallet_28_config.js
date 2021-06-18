@@ -1,1 +1,1 @@
-var mnemonic = "text media brass sustain merge comic churn prize finish awful upset poem";
+var mnemonic = "venue mutual armor ecology dilemma mango bamboo illness disagree width life body";

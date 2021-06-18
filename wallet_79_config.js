@@ -1,1 +1,1 @@
-var mnemonic = "defense remain cereal anchor witness page daring scout region fancy champion school";
+var mnemonic = "still detail consider cook february nation evoke very rich chaos salmon cement";

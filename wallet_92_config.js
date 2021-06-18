@@ -1,1 +1,1 @@
-var mnemonic = "any sort holiday cruise gloom margin swing spy chalk drastic pumpkin category";
+var mnemonic = "tortoise ladder soul burst hope elite medal pony ginger pledge announce dice";

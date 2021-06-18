@@ -1,1 +1,1 @@
-var mnemonic = "nurse already oval fabric angle illness virus name hurt tobacco night sting";
+var mnemonic = "frozen company question foster save accuse visa later zero upper arm enable";

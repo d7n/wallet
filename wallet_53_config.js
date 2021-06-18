@@ -1,1 +1,1 @@
-var mnemonic = "december puppy session siren spike clarify plunge push token cube present page";
+var mnemonic = "fame ankle strike laundry salute manual ancient have pattern steak unveil prefer";

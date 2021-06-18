@@ -1,1 +1,1 @@
-var mnemonic = "shrug hurt until puzzle ethics zone dog cannon odor rail manual engine";
+var mnemonic = "illness width west measure flee skirt run december lobster near cloth episode";

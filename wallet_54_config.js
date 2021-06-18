@@ -1,1 +1,1 @@
-var mnemonic = "wealth vehicle february flavor minor mushroom elegant sad discover tone body usual";
+var mnemonic = "fine barely path royal caught ladder riot update flavor history private piece";

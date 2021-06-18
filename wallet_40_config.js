@@ -1,1 +1,1 @@
-var mnemonic = "security tip advance tourist doctor flag huge issue use donate industry slush";
+var mnemonic = "replace spray usage derive able mom put corn mosquito mesh hurt unfold";

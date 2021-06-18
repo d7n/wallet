@@ -1,1 +1,1 @@
-var mnemonic = "evidence shift fit radio bargain quick thunder wide emerge donkey soup arch";
+var mnemonic = "animal general obtain leaf march twelve friend bubble ridge slender van century";

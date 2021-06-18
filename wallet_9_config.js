@@ -1,1 +1,1 @@
-var mnemonic = "essay beyond gym truth ordinary mistake hurry void wedding ginger mirror bridge";
+var mnemonic = "super minor cage best fun barrel social miss normal trust divide segment";

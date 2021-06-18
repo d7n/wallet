@@ -1,1 +1,1 @@
-var mnemonic = "mesh scare prize resemble warm maple crazy orange cloud manual mask option";
+var mnemonic = "exhibit happy empty wear neglect lemon section merge entry animal idea cover";

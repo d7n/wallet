@@ -1,1 +1,1 @@
-var mnemonic = "bachelor either radio whip fabric reflect inmate concert airport shallow avoid fade";
+var mnemonic = "evil lift grunt stomach vanish slow casual pitch soap firm snake goddess";

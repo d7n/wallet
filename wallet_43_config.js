@@ -1,1 +1,1 @@
-var mnemonic = "forget zebra view nurse keep yard spice mystery detail crouch firm dial";
+var mnemonic = "portion normal network exact unusual fetch pair deal submit loan exchange rocket";

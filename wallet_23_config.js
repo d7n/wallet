@@ -1,1 +1,1 @@
-var mnemonic = "maple demise real voice cost tired recall cluster source tone tape sauce";
+var mnemonic = "render dizzy west cave region tide proof enforce romance discover hotel empty";

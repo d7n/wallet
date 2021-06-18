@@ -1,1 +1,1 @@
-var mnemonic = "love current mirror million long hover estate gallery liar catalog veteran end";
+var mnemonic = "dry box orchard visit shoe exercise try throw attack chapter purse sauce";

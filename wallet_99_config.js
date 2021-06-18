@@ -1,1 +1,1 @@
-var mnemonic = "finish cloud puzzle lunch neglect stove drama pass resource modify sister obscure";
+var mnemonic = "estate grow tree desk toast act roast toddler two vapor audit wagon";

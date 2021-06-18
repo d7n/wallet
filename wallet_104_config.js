@@ -1,1 +1,1 @@
-var mnemonic = "donor search evil upset until eagle cabin own sweet august address ankle";
+var mnemonic = "fuel base slam pledge filter banana distance catalog repeat car summer south";

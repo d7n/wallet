@@ -1,1 +1,1 @@
-var mnemonic = "sad unusual rate arm isolate define measure letter embody empower alley super";
+var mnemonic = "proud regret anxiety mesh toast merry kangaroo fit outer elbow acquire novel";

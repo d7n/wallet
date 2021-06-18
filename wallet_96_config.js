@@ -1,1 +1,1 @@
-var mnemonic = "program genius wonder sing retire asset effort achieve hope chair gallery million";
+var mnemonic = "armor tool broccoli next piano marriage knife siege random eye tent need";
