@@ -1,1 +1,1 @@
-var mnemonic = "intact concert lizard confirm prize install slab guard wagon excite wall cargo";
+var mnemonic = "music credit endorse oven beauty meadow beach wisdom exit wealth shine soap";

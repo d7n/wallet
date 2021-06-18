@@ -1,1 +1,1 @@
-var mnemonic = "sound crucial travel loan noodle spray carbon easily flower noble box fatigue";
+var mnemonic = "hotel fan stairs garbage census eye fancy old trophy electric defy dream";

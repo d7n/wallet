@@ -1,1 +1,1 @@
-var mnemonic = "prefer sugar punch find umbrella spin sport obvious twist follow refuse light";
+var mnemonic = "mention embody avoid royal bomb junior walnut burst civil next kangaroo hamster";

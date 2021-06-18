@@ -1,1 +1,1 @@
-var mnemonic = "stage race trumpet double town gravity gym ugly around ritual steel lazy";
+var mnemonic = "typical nature fine drip cinnamon define bounce whip window service oxygen exist";

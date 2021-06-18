@@ -1,1 +1,1 @@
-var mnemonic = "plunge trophy mosquito abandon tennis receive digital define outdoor world monitor candy";
+var mnemonic = "era curtain cactus pause tree border flat load adult display pioneer assume";

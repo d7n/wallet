@@ -1,1 +1,1 @@
-var mnemonic = "robot earth credit legend advice visit grass cake urban water knee three";
+var mnemonic = "double sugar rabbit road want laugh myth genuine capital mother virus shiver";

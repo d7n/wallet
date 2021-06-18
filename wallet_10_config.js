@@ -1,1 +1,1 @@
-var mnemonic = "screen item awkward say small square online rocket margin unable vapor panther";
+var mnemonic = "second lonely become daughter inspire social board dinner chase deny much genre";

@@ -1,1 +1,1 @@
-var mnemonic = "reduce regret catalog cruel close dumb dutch spray margin habit slush business";
+var mnemonic = "tail dismiss another monster erode thing pass lyrics climb ball salute august";

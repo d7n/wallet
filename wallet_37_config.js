@@ -1,1 +1,1 @@
-var mnemonic = "strategy meadow clip vague hip latin diet viable elephant journey settle provide";
+var mnemonic = "calm unknown then solar fix vacuum blouse arrest width property clever fame";

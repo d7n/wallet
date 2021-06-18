@@ -1,1 +1,1 @@
-var mnemonic = "struggle come jaguar divorce walk shadow whale proud occur click bubble staff";
+var mnemonic = "zone setup view trumpet spray action gas settle banana case mutual erosion";

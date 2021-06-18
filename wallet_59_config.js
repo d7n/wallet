@@ -1,1 +1,1 @@
-var mnemonic = "stool sister scene during easily similar logic mule wrap broom joy blouse";
+var mnemonic = "else laundry crash toddler sail student glance vanish whisper summer casino usage";

@@ -1,1 +1,1 @@
-var mnemonic = "panda need puppy twenty scissors screen genuine body segment gather flush mother";
+var mnemonic = "possible equal mule hand hope helmet song library zero use reform tool";

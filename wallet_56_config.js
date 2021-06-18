@@ -1,1 +1,1 @@
-var mnemonic = "robot payment cart tired symbol icon guard calm between pupil strong account";
+var mnemonic = "cup isolate envelope milk veteran raise ladder appear broom nominee saddle food";

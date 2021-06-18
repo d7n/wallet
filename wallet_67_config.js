@@ -1,1 +1,1 @@
-var mnemonic = "nut nephew half few option rabbit tenant height boy still double casino";
+var mnemonic = "sword leisure fatal private near spice mobile claim various green differ trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "double two stomach unable slow whisper hand trial dad time waste patch";
+var mnemonic = "hundred together auction clutch write stomach meadow stomach forward slam hire ten";

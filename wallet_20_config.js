@@ -1,1 +1,1 @@
-var mnemonic = "post unable sniff canvas parrot body middle infant manage twelve cabin gain";
+var mnemonic = "joy seat myth laptop knee pioneer mansion inch mobile hybrid luggage crush";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel sugar wrong disorder inject devote omit garage oppose alcohol silver kingdom";
+var mnemonic = "marble nature vintage dust hill wealth churn detect bonus wink reveal oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle pottery arrive dune hungry quick lecture mom planet filter allow moment";
+var mnemonic = "round dragon exit sea shoot reform volume tilt glad secret loyal proof";

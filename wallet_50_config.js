@@ -1,1 +1,1 @@
-var mnemonic = "rally earn melody spare infant wall service divert person forum suggest problem";
+var mnemonic = "vacuum puzzle keep focus leave point lawsuit poverty field calm style engine";

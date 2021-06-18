@@ -1,1 +1,1 @@
-var mnemonic = "link session kangaroo trouble screen summer mansion gravity shop best patient abstract";
+var mnemonic = "seed jacket myth goose document yellow crowd hello chief caution tomorrow burst";

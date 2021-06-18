@@ -1,1 +1,1 @@
-var mnemonic = "bachelor chaos angry federal sail blossom alone junk embody curtain coach bunker";
+var mnemonic = "blade latin spider rabbit huge million artist else obscure fly mass brand";

@@ -1,1 +1,1 @@
-var mnemonic = "high voyage idle way lawsuit bomb venue rain bonus decorate find relax";
+var mnemonic = "hotel permit adult gift cinnamon inherit brand dune avoid coast crumble course";

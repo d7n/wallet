@@ -1,1 +1,1 @@
-var mnemonic = "host person quiz wage enhance link hole advance dash door denial warfare";
+var mnemonic = "bomb boring shed duty phrase excuse coil awesome door chest feature ask";

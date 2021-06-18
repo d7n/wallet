@@ -1,1 +1,1 @@
-var mnemonic = "garbage vocal narrow awful infant ability page net forward oxygen cricket also";
+var mnemonic = "stool tattoo trick wonder bulb roof guitar monkey digital about devote all";

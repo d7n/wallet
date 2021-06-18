@@ -1,1 +1,1 @@
-var mnemonic = "bunker bridge pudding metal entire disease garment appear spend engine target image";
+var mnemonic = "mouse favorite palace expand sudden vapor festival focus shiver dynamic bunker resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "phone special tent glue brown sketch roast sight toast giggle drastic dream";
+var mnemonic = "enlist estate venture all glance lady card rotate minimum chaos furnace climb";

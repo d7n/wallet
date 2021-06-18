@@ -1,1 +1,1 @@
-var mnemonic = "wood annual friend satoshi vault giraffe notable supply include canyon enforce egg";
+var mnemonic = "sun category sand fee since have horror blind better major kit put";

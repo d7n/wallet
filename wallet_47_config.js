@@ -1,1 +1,1 @@
-var mnemonic = "ceiling unusual aim vibrant camp rich dose unfold risk boring spare matrix";
+var mnemonic = "ramp imitate mule foil voice pave picture gown derive cushion soup lab";

@@ -1,1 +1,1 @@
-var mnemonic = "bring tornado control brass unusual dragon menu claim broccoli uniform gauge rice";
+var mnemonic = "become rigid chalk odor output core pulp appear tip salt debate gallery";

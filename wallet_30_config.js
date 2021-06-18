@@ -1,1 +1,1 @@
-var mnemonic = "want exchange open post quote flower diagram equal wool layer surprise crystal";
+var mnemonic = "swap dose impose collect dance trade sting airport cool yard cable liquid";

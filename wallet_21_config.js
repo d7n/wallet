@@ -1,1 +1,1 @@
-var mnemonic = "flavor solid school sign artefact large clap lyrics onion urban silly shock";
+var mnemonic = "tool usual air decorate banner churn peanut canoe wink give document struggle";

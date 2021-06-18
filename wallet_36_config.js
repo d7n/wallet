@@ -1,1 +1,1 @@
-var mnemonic = "relax item stand organ strike fashion maze scan injury neglect adult tree";
+var mnemonic = "memory correct fall drop wave bachelor panel jaguar shallow cherry inner horror";

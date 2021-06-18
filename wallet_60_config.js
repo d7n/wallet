@@ -1,1 +1,1 @@
-var mnemonic = "test announce brother clown nothing armor run record this movie piece decline";
+var mnemonic = "vast find coast solve burger trade million dad bind lens pottery find";

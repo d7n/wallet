@@ -1,1 +1,1 @@
-var mnemonic = "bomb script hold father where mind stone fun knee glare auction clerk";
+var mnemonic = "seminar shrug fortune olympic mad hobby again away help walk inhale retire";

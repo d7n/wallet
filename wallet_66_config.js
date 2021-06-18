@@ -1,1 +1,1 @@
-var mnemonic = "cement truth lock over design butter region shallow tone cabbage proud cute";
+var mnemonic = "cause path utility infant charge endless fork front clerk round surge tennis";

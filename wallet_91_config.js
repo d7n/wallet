@@ -1,1 +1,1 @@
-var mnemonic = "spray roof shrug whale prize sentence mosquito submit crunch lawn nice minimum";
+var mnemonic = "squeeze dash device usage dice ticket lonely member tourist chalk analyst invest";

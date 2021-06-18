@@ -1,1 +1,1 @@
-var mnemonic = "possible once toss dynamic snow matrix novel flag segment entry town angle";
+var mnemonic = "crouch when evoke critic sudden brass noodle powder discover symptom peace popular";

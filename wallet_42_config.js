@@ -1,1 +1,1 @@
-var mnemonic = "model artwork holiday eye common brass together occur devote injury fun east";
+var mnemonic = "carbon comfort scan interest short victory slam flame invest strategy enemy bag";

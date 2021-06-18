@@ -1,1 +1,1 @@
-var mnemonic = "burger legend lucky marriage still artist spell awesome rain warrior print ostrich";
+var mnemonic = "poet short fitness aim lawn bulk frog autumn coach sketch canyon civil";

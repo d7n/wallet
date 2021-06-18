@@ -1,1 +1,1 @@
-var mnemonic = "habit taxi fly rookie tail beef jelly output skill eight cactus market";
+var mnemonic = "unveil fortune upon train rookie fringe table you space dance radar enter";

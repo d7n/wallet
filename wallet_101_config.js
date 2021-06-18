@@ -1,1 +1,1 @@
-var mnemonic = "sudden turn clown wise success hurt bounce merge sleep law rubber when";
+var mnemonic = "box barrel quit move brush topple require dirt ceiling gentle chuckle jazz";

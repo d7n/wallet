@@ -1,1 +1,1 @@
-var mnemonic = "annual owner advance slim inform version absent post clock bundle arrive nephew";
+var mnemonic = "hurry black naive pencil spoon outdoor mercy theory canal insane pepper glance";

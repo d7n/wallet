@@ -1,1 +1,1 @@
-var mnemonic = "trick turkey cradle pony slender club myth bread rigid elephant remind odor";
+var mnemonic = "glass favorite damp alley neither people buddy cover season basket imitate scale";

@@ -1,1 +1,1 @@
-var mnemonic = "amount clock agree illness venture orphan daughter deposit hero boring punch seat";
+var mnemonic = "enact slot judge guilt evidence aware leaf erase mention fever original match";

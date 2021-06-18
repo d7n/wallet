@@ -1,1 +1,1 @@
-var mnemonic = "mercy library confirm vanish say dignity height output near smoke trust surge";
+var mnemonic = "solution valve victory bind noble planet exercise genius mind business credit six";

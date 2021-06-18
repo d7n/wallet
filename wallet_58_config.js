@@ -1,1 +1,1 @@
-var mnemonic = "exhibit end tube lift night target tennis wealth inner avoid style deputy";
+var mnemonic = "basket cousin agree lucky hazard hero supreme close neither scare play script";

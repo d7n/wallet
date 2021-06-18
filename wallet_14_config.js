@@ -1,1 +1,1 @@
-var mnemonic = "endless twelve lady void candy chunk large spy yellow space wedding virtual";
+var mnemonic = "slogan humble divert limit viable music orient chef give kiss energy crane";

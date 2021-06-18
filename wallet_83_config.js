@@ -1,1 +1,1 @@
-var mnemonic = "flight tired project appear muffin unknown analyst believe select crack convince strong";
+var mnemonic = "surround pyramid report series ozone first coyote olive best heart property often";

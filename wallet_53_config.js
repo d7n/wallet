@@ -1,1 +1,1 @@
-var mnemonic = "tent distance lawsuit area devote venue between romance reflect arctic unit horror";
+var mnemonic = "canyon figure kiss shallow husband true sample obtain odor panic promote man";

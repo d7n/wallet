@@ -1,1 +1,1 @@
-var mnemonic = "anger pretty name true physical clock snow until target neglect depart gospel";
+var mnemonic = "museum absent fiscal ritual monitor piano soap kitten tenant boil magnet left";

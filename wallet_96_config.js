@@ -1,1 +1,1 @@
-var mnemonic = "text secret uncle filter consider faith misery ridge crush smooth want dinosaur";
+var mnemonic = "family slide actor rabbit escape satoshi chef wall capable decline cage various";

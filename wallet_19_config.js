@@ -1,1 +1,1 @@
-var mnemonic = "injury chronic athlete wet hip tenant pilot apart plunge double nothing nothing";
+var mnemonic = "primary fish awesome agree glue fade damp fade kick oyster decade host";

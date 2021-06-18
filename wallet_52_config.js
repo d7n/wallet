@@ -1,1 +1,1 @@
-var mnemonic = "hurdle inflict almost reduce inform flavor joy cereal lobster damp mutual forget";
+var mnemonic = "hello recipe remove valley winter solution ask surge scale pulse wood exact";

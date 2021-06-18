@@ -1,1 +1,1 @@
-var mnemonic = "avoid ocean tone water shiver mutual crater then debris sudden gown cereal";
+var mnemonic = "network seek pond almost lend scrub music robust truck reunion actor head";

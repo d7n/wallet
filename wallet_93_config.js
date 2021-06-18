@@ -1,1 +1,1 @@
-var mnemonic = "merge execute ribbon canoe pumpkin manual august shrimp company bench muscle school";
+var mnemonic = "pumpkin hunt stage arm mountain calm hip two rubber broom phone glimpse";

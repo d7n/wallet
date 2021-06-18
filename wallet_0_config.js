@@ -1,1 +1,1 @@
-var mnemonic = "episode gorilla future course fabric wise grape print trick approve slush settle";
+var mnemonic = "flag custom pepper tank document kid carry enough will silk banner beyond";

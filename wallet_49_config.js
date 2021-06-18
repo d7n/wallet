@@ -1,1 +1,1 @@
-var mnemonic = "copy brain flee cereal extend smart inject cube portion depart skirt cry";
+var mnemonic = "large satisfy ready power share parade flash cram sad soul city square";

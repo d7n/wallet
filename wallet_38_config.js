@@ -1,1 +1,1 @@
-var mnemonic = "tiger father ahead vendor paddle master deal solid benefit such grit midnight";
+var mnemonic = "provide drastic call lend coconut used armed letter gym gloom husband wine";

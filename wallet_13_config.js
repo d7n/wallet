@@ -1,1 +1,1 @@
-var mnemonic = "escape exhibit oval entire enough occur dinosaur dose rule rapid hip ridge";
+var mnemonic = "sport disorder kick odor army glide weird anger exchange glimpse review depart";

@@ -1,1 +1,1 @@
-var mnemonic = "start myth address alert test taxi rule lake vault snake source angry";
+var mnemonic = "noodle street tuition bread rug silent chief taxi gorilla marriage problem goose";

@@ -1,1 +1,1 @@
-var mnemonic = "love word rude fold stomach shrimp coffee small sibling lobster frown unfair";
+var mnemonic = "mixed idea robot clay wisdom wise disorder arena name slender fringe section";

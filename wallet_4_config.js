@@ -1,1 +1,1 @@
-var mnemonic = "rhythm tent inspire carpet subject velvet indoor mesh skate rely blue excite";
+var mnemonic = "repeat drill emotion alarm parent hotel leaf parrot series fade transfer acoustic";

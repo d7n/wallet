@@ -1,1 +1,1 @@
-var mnemonic = "wet area diesel layer what same holiday cook current avoid grace monitor";
+var mnemonic = "castle patch detail buyer firm unit fortune jacket game evoke frame amateur";

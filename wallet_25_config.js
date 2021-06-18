@@ -1,1 +1,1 @@
-var mnemonic = "tube face close child can live snap analyst strike hover riot laptop";
+var mnemonic = "border brave cradle runway stool salute knife depend plunge usual head total";

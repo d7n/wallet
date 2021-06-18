@@ -1,1 +1,1 @@
-var mnemonic = "stamp squeeze donor mouse much analyst pigeon leader useful tone runway old";
+var mnemonic = "amazing humble jar tennis fantasy advice couple verb movie fiscal maximum wagon";

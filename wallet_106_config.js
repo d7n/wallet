@@ -1,1 +1,1 @@
-var mnemonic = "cloth doll slide clog icon stereo evil world common essay series hockey";
+var mnemonic = "cliff consider route job wire captain rapid pole treat camera useless nation";

@@ -1,1 +1,1 @@
-var mnemonic = "soup accuse letter cluster canoe moment airport impulse cigar foam squirrel brother";
+var mnemonic = "edge glad fame squirrel panel dolphin bacon month abandon tornado price decide";

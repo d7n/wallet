@@ -1,1 +1,1 @@
-var mnemonic = "rain focus oxygen cactus seminar upon bid renew trip follow quiz lawn";
+var mnemonic = "supply cube keep security ethics noble during reopen position heavy sure subway";

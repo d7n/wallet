@@ -1,1 +1,1 @@
-var mnemonic = "version when void artefact symptom meadow spend neglect stuff glass rival once";
+var mnemonic = "soul modify tent depart crack swarm hood earn account grid enough super";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade off illness near prison tuition position oak menu sting topic reunion";
+var mnemonic = "wagon giant stay salon depart trap child idea broccoli easy business oblige";

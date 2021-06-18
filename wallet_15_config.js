@@ -1,1 +1,1 @@
-var mnemonic = "salt canoe lens wild climb adult bitter comfort boss desert modify aim";
+var mnemonic = "swallow arctic gasp body drink rough keep way awake crawl sense arena";

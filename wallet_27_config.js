@@ -1,1 +1,1 @@
-var mnemonic = "wreck pioneer bundle impose shallow offer apart evil zero circle spray leaf";
+var mnemonic = "limit area abstract diet hospital acquire clerk conduct local witness improve doll";

@@ -1,1 +1,1 @@
-var mnemonic = "fade ensure net improve empower pool pyramid modify brave skate pear valve";
+var mnemonic = "pair risk above begin collect box bar polar adjust useful father meadow";

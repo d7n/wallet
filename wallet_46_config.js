@@ -1,1 +1,1 @@
-var mnemonic = "baby globe wreck patch off reform whale speed census token future stock";
+var mnemonic = "elegant good blue sustain number nasty cactus tiger wide fence color output";

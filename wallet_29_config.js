@@ -1,1 +1,1 @@
-var mnemonic = "will carpet adjust radar float view infant category order review mad cattle";
+var mnemonic = "mechanic art embody twelve stereo suit rain follow genuine uncle scare lottery";

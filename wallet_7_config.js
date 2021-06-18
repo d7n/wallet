@@ -1,1 +1,1 @@
-var mnemonic = "chunk illegal angle reduce elephant ask source balance target october crazy remove";
+var mnemonic = "hotel minor over beef salmon march category dilemma coral cram ginger quote";

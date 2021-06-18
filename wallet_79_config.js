@@ -1,1 +1,1 @@
-var mnemonic = "blanket wheel craft client west plastic eternal lemon type ankle mother hamster";
+var mnemonic = "pool notable erupt favorite decrease swarm wise cluster frequent immense motor chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "job give comic intact hurt lava discover arch barrel aim pink lemon";
+var mnemonic = "issue lady mushroom message crack banner honey student whale joke payment wire";

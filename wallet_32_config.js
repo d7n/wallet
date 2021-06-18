@@ -1,1 +1,1 @@
-var mnemonic = "business month grace swallow fluid like avocado fox discover six cloud recycle";
+var mnemonic = "basic endorse actual attract absent primary basic cushion drop unlock tuna gorilla";

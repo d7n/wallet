@@ -1,1 +1,1 @@
-var mnemonic = "crush pencil endorse trial female pottery zero kitchen settle pipe concert sand";
+var mnemonic = "smooth swamp fork rally build easy spy drop bunker system train lumber";

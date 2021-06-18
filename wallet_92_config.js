@@ -1,1 +1,1 @@
-var mnemonic = "canoe tent desert glance setup hope always swear thunder brain prison dawn";
+var mnemonic = "autumn crash print drive apart afford struggle guide angry nerve payment soccer";

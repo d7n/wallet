@@ -1,1 +1,1 @@
-var mnemonic = "beach emotion melt rival hire lonely melody dentist false you meat real";
+var mnemonic = "universe flower chase alley canyon peace feature decade lawn crouch message bone";

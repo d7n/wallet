@@ -1,1 +1,1 @@
-var mnemonic = "wire animal small entry salon term what humble security broken replace journey";
+var mnemonic = "pelican walnut cattle sand enroll rug shuffle trim mango brand hidden start";

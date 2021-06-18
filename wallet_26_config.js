@@ -1,1 +1,1 @@
-var mnemonic = "board bless involve alarm add elite enjoy dentist slow awful observe total";
+var mnemonic = "virus diamond limb clown bulk patient access earn citizen december subway grass";

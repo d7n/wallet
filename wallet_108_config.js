@@ -1,1 +1,1 @@
-var mnemonic = "thing enact quit fault kid violin crack expand relax exclude right juice";
+var mnemonic = "patient organ name solar lunch poverty busy coach upset practice purity vanish";

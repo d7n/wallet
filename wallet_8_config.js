@@ -1,1 +1,1 @@
-var mnemonic = "jacket enough farm clinic slight lemon release remain afford unaware blast artwork";
+var mnemonic = "father current gravity range bubble square depend seat twelve lock venue balcony";

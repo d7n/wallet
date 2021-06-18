@@ -1,1 +1,1 @@
-var mnemonic = "base bitter twelve live law since hour nasty party joke bunker bean";
+var mnemonic = "hotel enhance bachelor title country mix exhibit enable shoe coconut parrot neck";

@@ -1,1 +1,1 @@
-var mnemonic = "open dance tragic subject once peace usual toss soft mandate grace spend";
+var mnemonic = "hold attend uncle sign impact biology chase chief inflict wild permit boring";

@@ -1,1 +1,1 @@
-var mnemonic = "slam smart blue desk ramp where enough park vivid meadow sugar frame";
+var mnemonic = "october hint door pride estate describe gentle flight despair unusual dismiss april";

@@ -1,1 +1,1 @@
-var mnemonic = "census deputy list march flat vague sauce various kite intact trap trick";
+var mnemonic = "clerk scout dirt enact opinion gossip dignity armed word regret trial library";
