@@ -1,1 +1,1 @@
-var mnemonic = "abuse innocent coral normal know trade quote rubber resemble torch like sentence";
+var mnemonic = "era ozone disagree ball borrow critic simple scan behave awkward stay olympic";

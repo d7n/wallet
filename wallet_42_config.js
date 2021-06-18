@@ -1,1 +1,1 @@
-var mnemonic = "matter uncover help coach annual cement oppose fruit rely goddess fun track";
+var mnemonic = "sample column income gaze kid laundry garlic safe vivid fitness pistol grant";

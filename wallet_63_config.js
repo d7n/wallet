@@ -1,1 +1,1 @@
-var mnemonic = "joke satoshi pattern hard junior abuse fatal crowd exclude merry route priority";
+var mnemonic = "tortoise path broom master nation dentist luxury rally quit head security total";

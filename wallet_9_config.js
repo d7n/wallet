@@ -1,1 +1,1 @@
-var mnemonic = "around earn detail stadium canyon course photo follow spoon minute pattern palace";
+var mnemonic = "horror dash impact father paper alert aerobic donor impose school tag venture";

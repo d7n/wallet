@@ -1,1 +1,1 @@
-var mnemonic = "decorate chuckle busy embrace pony obtain author twin fork rescue tunnel shine";
+var mnemonic = "sick explain primary build glance erode negative deposit coral bench cry orchard";

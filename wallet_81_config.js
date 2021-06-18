@@ -1,1 +1,1 @@
-var mnemonic = "vital robot belt false cloud grace yellow hero tornado quick canal pulse";
+var mnemonic = "airport husband glove busy script pride tip brush bullet grocery possible creek";

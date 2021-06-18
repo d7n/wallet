@@ -1,1 +1,1 @@
-var mnemonic = "remind car easy buffalo welcome blush parade fuel duty later glow cliff";
+var mnemonic = "anxiety churn foster glide onion wet diagram simple column thing law thunder";

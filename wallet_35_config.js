@@ -1,1 +1,1 @@
-var mnemonic = "shine bus inject nature december paddle gauge truth atom table lonely forget";
+var mnemonic = "cradle cream desk lesson shift giraffe list eyebrow fatigue bubble quick rifle";

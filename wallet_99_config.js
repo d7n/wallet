@@ -1,1 +1,1 @@
-var mnemonic = "approve survey bonus reduce tired stamp clip ride grow document fabric mixture";
+var mnemonic = "job swamp group uncle across vital equal tiny phone push story dune";

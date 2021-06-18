@@ -1,1 +1,1 @@
-var mnemonic = "inject typical equip acoustic blade laugh ladder above auction bleak gasp daring";
+var mnemonic = "distance smile load grow door safe when auto muffin awkward cinnamon blind";

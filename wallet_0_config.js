@@ -1,1 +1,1 @@
-var mnemonic = "unfair snap jacket please cherry island average oppose indicate brisk rent give";
+var mnemonic = "juice fury march now metal senior border ability napkin unit faith access";

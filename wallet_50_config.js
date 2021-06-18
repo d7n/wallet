@@ -1,1 +1,1 @@
-var mnemonic = "example end toilet olive engine again grab supply large apology pony wheat";
+var mnemonic = "destroy panel spawn cool either tide convince inflict ridge style rug hole";

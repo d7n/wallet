@@ -1,1 +1,1 @@
-var mnemonic = "come measure guard usage hood embody genre quick century tuition run other";
+var mnemonic = "file drill double include alpha wear rhythm liquid leaf true deal dutch";

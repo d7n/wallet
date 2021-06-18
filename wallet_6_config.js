@@ -1,1 +1,1 @@
-var mnemonic = "sunny glow street also possible razor arena tattoo board again rookie spawn";
+var mnemonic = "dignity lend above sunny alter curve quick fence delay item mountain engage";

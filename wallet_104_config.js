@@ -1,1 +1,1 @@
-var mnemonic = "walk oil margin identify only produce street direct ankle urban dose ridge";
+var mnemonic = "true admit usage sausage tool cost baby assault raise dawn author frog";

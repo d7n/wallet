@@ -1,1 +1,1 @@
-var mnemonic = "sail return atom horn snow mirror nasty arena report much job maple";
+var mnemonic = "snake multiply fence feel acquire athlete finish duck cluster lion potato sample";

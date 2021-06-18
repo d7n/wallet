@@ -1,1 +1,1 @@
-var mnemonic = "census chest urge direct toy family point coil warm poem raw setup";
+var mnemonic = "brain love brief worth cat subway pig mind path clean million moral";

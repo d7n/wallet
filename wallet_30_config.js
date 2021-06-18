@@ -1,1 +1,1 @@
-var mnemonic = "bomb farm cage please slim void aware type exhibit modify text solar";
+var mnemonic = "ahead release puzzle solid clay flock category south nuclear earth dinosaur famous";

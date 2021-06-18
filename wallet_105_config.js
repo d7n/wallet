@@ -1,1 +1,1 @@
-var mnemonic = "grain unfold dwarf one tragic gown combine smile garbage cannon manage mother";
+var mnemonic = "vast treat water insect knife skirt obtain atom notable inside guilt wisdom";

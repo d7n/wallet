@@ -1,1 +1,1 @@
-var mnemonic = "amount draw firm shadow foster neglect cement bridge volume donkey cat rotate";
+var mnemonic = "rare depart canvas pilot edge crush gown oven negative hire spike oppose";

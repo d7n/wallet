@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow habit dragon coral ribbon search film hurry bulk extra okay labor";
+var mnemonic = "security jar cute amount crack evoke opera dumb melt juice supreme parade";

@@ -1,1 +1,1 @@
-var mnemonic = "random rude grain add assume modify feature giant wreck potato hint puppy";
+var mnemonic = "clap popular phrase coach blouse defy unique bitter smooth unit payment doctor";

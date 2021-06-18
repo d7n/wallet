@@ -1,1 +1,1 @@
-var mnemonic = "tongue almost dream uncover rack wool mammal involve snake hill wife guess";
+var mnemonic = "shadow liberty patrol point soda surround key caught ancient tiny valley region";

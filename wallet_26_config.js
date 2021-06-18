@@ -1,1 +1,1 @@
-var mnemonic = "option someone hover cloth about shift guess tomato soldier inject child morning";
+var mnemonic = "loop decide open recycle claw scare wet pave ankle stomach robot table";

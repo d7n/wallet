@@ -1,1 +1,1 @@
-var mnemonic = "mail pony option milk sphere car atom cart palm barely liar jeans";
+var mnemonic = "shell turn run lab brass you expose lyrics inject circle stock like";

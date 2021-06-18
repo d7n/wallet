@@ -1,1 +1,1 @@
-var mnemonic = "evil actor remember pet exclude aisle cinnamon fitness talk upon wait bone";
+var mnemonic = "birth shield police eye pear guard indoor zebra trust cash method vehicle";

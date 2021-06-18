@@ -1,1 +1,1 @@
-var mnemonic = "join fatigue wink help drop cover scan inquiry siege typical business pink";
+var mnemonic = "accuse grocery donate cute fiction cliff vanish clump mosquito kingdom cash expect";

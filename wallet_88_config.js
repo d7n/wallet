@@ -1,1 +1,1 @@
-var mnemonic = "mother today leader material pyramid hundred jealous bullet resist enhance gadget universe";
+var mnemonic = "ticket glad topple fox aim monkey woman uncle deposit balcony mother cotton";

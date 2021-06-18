@@ -1,1 +1,1 @@
-var mnemonic = "pledge fuel inhale alley alert eyebrow minor melody lizard oppose hen typical";
+var mnemonic = "clog gadget physical hurdle explain slogan sunset comic oval trash captain topple";

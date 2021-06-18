@@ -1,1 +1,1 @@
-var mnemonic = "angle document inflict outside cram feature liar horror option write syrup baby";
+var mnemonic = "monster actor barrel belt nephew member treat crucial hospital feed pear brave";

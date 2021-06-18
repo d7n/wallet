@@ -1,1 +1,1 @@
-var mnemonic = "delay man razor voyage forget seek armor glue fuel midnight robot tongue";
+var mnemonic = "sure innocent february slender junior verify rely dinner pride camera grit nasty";

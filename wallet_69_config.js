@@ -1,1 +1,1 @@
-var mnemonic = "acid rather record attract section upset chaos disorder gadget pottery reveal thrive";
+var mnemonic = "wage riot charge agree rack symptom raccoon cattle accident list write convince";

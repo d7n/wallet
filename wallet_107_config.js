@@ -1,1 +1,1 @@
-var mnemonic = "display fossil remove fashion lucky switch hobby soap fragile tree shadow corn";
+var mnemonic = "board post survey cactus frozen scene prefer anger exotic regular city walk";

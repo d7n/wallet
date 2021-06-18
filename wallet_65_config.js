@@ -1,1 +1,1 @@
-var mnemonic = "lobster online aisle tower toss stamp clap test review faith say battle";
+var mnemonic = "cannon task express scheme neither trash april cabin diagram brand stomach razor";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp round card boost misery pistol battle write profit outer ahead quantum";
+var mnemonic = "human donate praise dwarf oven swear demise scrap hybrid surge border salute";

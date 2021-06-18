@@ -1,1 +1,1 @@
-var mnemonic = "drive labor ask cannon there fresh soda mutual hood other error wish";
+var mnemonic = "dumb rally success blast brisk hair beef door bridge powder benefit patient";

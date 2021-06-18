@@ -1,1 +1,1 @@
-var mnemonic = "oppose spatial lyrics wave bonus pair mandate soul craft gentle core satoshi";
+var mnemonic = "tray split fresh when hazard topic puppy error mandate leopard file squirrel";

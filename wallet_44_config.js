@@ -1,1 +1,1 @@
-var mnemonic = "document make sun eagle concert position arrow legal box quantum annual wear";
+var mnemonic = "raw ocean refuse toe century search six please health aerobic country husband";

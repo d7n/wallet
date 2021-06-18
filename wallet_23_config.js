@@ -1,1 +1,1 @@
-var mnemonic = "august unveil clay mirror pave core axis banana abuse put aisle noble";
+var mnemonic = "price busy enjoy humble improve antique index fiction peasant merry exist boring";

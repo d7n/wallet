@@ -1,1 +1,1 @@
-var mnemonic = "execute elevator music sponsor sign layer buddy replace satisfy design badge tuna";
+var mnemonic = "tenant sick meadow decide twist animal calm foam bench dad ahead neck";

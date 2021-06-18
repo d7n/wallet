@@ -1,1 +1,1 @@
-var mnemonic = "globe bubble ready upset goddess about phrase crucial wire mule punch carbon";
+var mnemonic = "crawl mix deal essence rubber brass away kind exist bitter ill inflict";

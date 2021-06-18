@@ -1,1 +1,1 @@
-var mnemonic = "about drill love collect update cool west caught town field scrap final";
+var mnemonic = "hidden trigger merry media resist soccer nasty crush crawl enforce whip crucial";

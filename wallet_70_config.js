@@ -1,1 +1,1 @@
-var mnemonic = "waste grow intact cricket volcano speed air where budget lamp dynamic door";
+var mnemonic = "harsh outdoor razor pudding race swim arm small delay food clever worth";

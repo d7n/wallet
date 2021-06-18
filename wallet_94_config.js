@@ -1,1 +1,1 @@
-var mnemonic = "obscure shy lounge laugh north rough limb mail rebuild match below slush";
+var mnemonic = "armed month audit cat limit hawk word unlock slice example acoustic delay";

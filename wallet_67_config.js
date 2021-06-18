@@ -1,1 +1,1 @@
-var mnemonic = "level language gasp fresh soul chapter height angle boy spare metal spot";
+var mnemonic = "learn leader surge suffer clarify misery history sell wrestle ivory camera birth";

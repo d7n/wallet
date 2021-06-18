@@ -1,1 +1,1 @@
-var mnemonic = "addict rival sugar lemon oyster frost army dune deputy caught monster model";
+var mnemonic = "few visa wood reward inch market ethics width divert group ship advance";

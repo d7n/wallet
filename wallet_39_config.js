@@ -1,1 +1,1 @@
-var mnemonic = "virtual trend purchase cigar belt tower comic change culture liar asset wing";
+var mnemonic = "lonely ocean find park length champion strike bench alone decline borrow nominee";

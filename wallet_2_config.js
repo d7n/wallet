@@ -1,1 +1,1 @@
-var mnemonic = "they humble eternal rule perfect safe regret winner transfer clog approve region";
+var mnemonic = "panel first unknown vault bullet grocery bone nothing tower basket smooth destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "stuff nurse powder spin panda devote wash hub label tunnel family dance";
+var mnemonic = "cement hamster twice regular guess fossil liquid depend wide attend theme label";

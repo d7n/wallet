@@ -1,1 +1,1 @@
-var mnemonic = "purchase clown swarm echo donkey device impulse foot thrive wire enroll brain";
+var mnemonic = "quantum avocado ordinary burger level air repair appear harsh solar movie miss";

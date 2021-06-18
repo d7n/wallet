@@ -1,1 +1,1 @@
-var mnemonic = "spoon acid project marine bind practice suit gentle click school scan tenant";
+var mnemonic = "slim once nurse eyebrow avocado enable easily receive visit slot attend merge";

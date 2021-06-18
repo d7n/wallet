@@ -1,1 +1,1 @@
-var mnemonic = "estate knife hen present session february human vibrant subject oyster able hint";
+var mnemonic = "brisk obtain dizzy skate normal size awkward update share awesome move tonight";

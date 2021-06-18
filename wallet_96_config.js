@@ -1,1 +1,1 @@
-var mnemonic = "dutch actual mom thumb payment bonus toward fault sample program silk pupil";
+var mnemonic = "dizzy okay rib render private safe room sleep peanut isolate immune run";

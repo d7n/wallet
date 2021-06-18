@@ -1,1 +1,1 @@
-var mnemonic = "mushroom pulp vendor identify also genuine monster weasel okay fun inflict joy";
+var mnemonic = "step number slim rule when congress canyon flower muscle borrow cat push";

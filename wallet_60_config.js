@@ -1,1 +1,1 @@
-var mnemonic = "car captain bind one position pipe situate emerge execute giraffe salon welcome";
+var mnemonic = "pepper slight pottery build dial indoor crime cradle certain remind avocado parade";

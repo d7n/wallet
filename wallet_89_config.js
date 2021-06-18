@@ -1,1 +1,1 @@
-var mnemonic = "sport bind behind vehicle reveal grace simple armor capable symptom husband caught";
+var mnemonic = "minor lunch arrow extra open pulse column surge problem juice intact hip";

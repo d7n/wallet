@@ -1,1 +1,1 @@
-var mnemonic = "reform repair bench suffer hire express pipe dance hammer blue false keen";
+var mnemonic = "sheriff aim hold stand clinic repair hole solve risk news pattern interest";

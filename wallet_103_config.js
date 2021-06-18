@@ -1,1 +1,1 @@
-var mnemonic = "camp night imitate cattle mail deliver pigeon filter avoid october order toy";
+var mnemonic = "glad advice health sword income obscure swift ceiling room sorry imitate soft";

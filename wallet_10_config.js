@@ -1,1 +1,1 @@
-var mnemonic = "elite torch reduce print motion off tonight stem soup curve primary yellow";
+var mnemonic = "answer certain symbol cotton buffalo poverty soap margin stamp build exotic train";

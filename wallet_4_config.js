@@ -1,1 +1,1 @@
-var mnemonic = "tree perfect blade olive smooth spread measure praise scissors invite insect use";
+var mnemonic = "public prison stadium defense wisdom taste quantum inform jealous today increase fluid";

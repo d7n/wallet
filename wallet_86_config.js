@@ -1,1 +1,1 @@
-var mnemonic = "fish horror ball whale nature scissors ranch mistake net cover cost because";
+var mnemonic = "already wolf law uncle rain bubble divide toilet wheat promote vacuum raven";

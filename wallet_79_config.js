@@ -1,1 +1,1 @@
-var mnemonic = "axis woman often fade idea table drill defense shock address expire bomb";
+var mnemonic = "core melody anxiety lesson clerk add term receive valley lounge hen federal";

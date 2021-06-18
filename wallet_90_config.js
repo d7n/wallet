@@ -1,1 +1,1 @@
-var mnemonic = "renew super trip trophy divide bubble feature rich elbow vivid lunch buyer";
+var mnemonic = "youth humor slight hybrid myself doctor section virus left spot film wrong";

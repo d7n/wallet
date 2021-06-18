@@ -1,1 +1,1 @@
-var mnemonic = "weasel medal radio luxury raw muffin side ketchup horror raw across suspect";
+var mnemonic = "income mammal boy way decline desk wave ahead ring rib marble price";

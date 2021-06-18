@@ -1,1 +1,1 @@
-var mnemonic = "merry engine rocket like country honey adult energy bench menu omit extra";
+var mnemonic = "begin skin region element circle afford reason pretty talk install wish until";

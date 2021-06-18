@@ -1,1 +1,1 @@
-var mnemonic = "aspect stove regret magnet also start cliff humble culture rail picnic hero";
+var mnemonic = "creek click absorb pencil update fall crew half hole velvet degree defense";

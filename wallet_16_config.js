@@ -1,1 +1,1 @@
-var mnemonic = "allow bitter walk hamster announce shrug stem silly major tribe old clinic";
+var mnemonic = "very long feature observe small tornado reform lobster load fan carry current";

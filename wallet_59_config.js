@@ -1,1 +1,1 @@
-var mnemonic = "endless link castle fox again advance bind lobster type violin width solve";
+var mnemonic = "display avocado sleep mixed turn kick pass crop universe elephant talk shy";

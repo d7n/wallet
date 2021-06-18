@@ -1,1 +1,1 @@
-var mnemonic = "erupt hand duck wrong year similar short purity alcohol accuse virus eye";
+var mnemonic = "calm tooth collect ugly release mention cement vanish midnight asset thunder sibling";

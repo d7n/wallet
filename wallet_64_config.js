@@ -1,1 +1,1 @@
-var mnemonic = "deer brand copy amount sorry success behave visit pink chief warrior dynamic";
+var mnemonic = "immense tag inherit attitude merit public master sting quit situate case word";

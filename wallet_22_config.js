@@ -1,1 +1,1 @@
-var mnemonic = "shoulder nose sadness oval ketchup student lion exhaust actual wrap equal strategy";
+var mnemonic = "grain squeeze shield noble boil grant human mercy what install laptop divert";

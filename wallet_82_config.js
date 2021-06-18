@@ -1,1 +1,1 @@
-var mnemonic = "divorce half shoot excite column gentle oil need tube brisk answer motor";
+var mnemonic = "fiber anchor session very tumble twice detect hamster frequent horse forum imitate";

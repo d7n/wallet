@@ -1,1 +1,1 @@
-var mnemonic = "mirror level anchor save leopard again echo virtual cushion avocado endorse trim";
+var mnemonic = "panda blast load soap around social child pioneer industry language prize favorite";

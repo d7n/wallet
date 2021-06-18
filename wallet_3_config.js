@@ -1,1 +1,1 @@
-var mnemonic = "wrestle poverty parade aware script citizen verb junk judge screen simple glow";
+var mnemonic = "inner loop ten first cash tool live mistake poem tourist theme please";

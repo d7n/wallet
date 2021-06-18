@@ -1,1 +1,1 @@
-var mnemonic = "engage never survey curve also bamboo employ cannon safe awkward menu paddle";
+var mnemonic = "rookie deposit drastic thrive smile erode expand wisdom enforce deer shrimp still";

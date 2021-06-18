@@ -1,1 +1,1 @@
-var mnemonic = "blouse dress decrease ritual approve assault vague cost artefact fade assault badge";
+var mnemonic = "wolf figure random draw raise way copper dog liberty brother fuel ready";

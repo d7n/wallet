@@ -1,1 +1,1 @@
-var mnemonic = "mad chaos glove legend mom flush ceiling artwork own save physical inner";
+var mnemonic = "tree kind area leisure rice forest attract repeat milk hospital beach orange";

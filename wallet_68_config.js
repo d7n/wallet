@@ -1,1 +1,1 @@
-var mnemonic = "cradle connect agent stumble twin hotel suggest romance spend advice rhythm grab";
+var mnemonic = "various inquiry question obtain pull social curtain hospital under media keen alarm";

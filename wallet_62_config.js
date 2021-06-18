@@ -1,1 +1,1 @@
-var mnemonic = "avoid world remove price argue split life theme face panel concert athlete";
+var mnemonic = "access train question govern ramp army proof beauty despair evolve umbrella diesel";

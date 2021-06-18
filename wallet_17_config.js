@@ -1,1 +1,1 @@
-var mnemonic = "disagree volcano sport talk great ten release neck squirrel vague breeze prosper";
+var mnemonic = "current apart allow media myself model aisle pole refuse high aim tower";

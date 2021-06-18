@@ -1,1 +1,1 @@
-var mnemonic = "stuff master fat useful design bridge physical toss modify talent border maid";
+var mnemonic = "barely gift answer dog kid swap perfect slice east legend inject couple";

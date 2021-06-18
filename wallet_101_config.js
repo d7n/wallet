@@ -1,1 +1,1 @@
-var mnemonic = "teach alley antique coyote birth excess keep return grain rescue damp soon";
+var mnemonic = "fetch flock license sustain lens bullet burst dumb merit sail organ capable";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics phone uniform pudding hand pulse exact device soft ribbon social burst";
+var mnemonic = "make solve interest brief jungle mail lecture coffee bonus mixture hello flame";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar unknown else tape snack december dwarf mountain certain harsh embark target";
+var mnemonic = "festival car awkward rude actor rib vocal nest stamp kangaroo stay crater";

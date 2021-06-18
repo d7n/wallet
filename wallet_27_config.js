@@ -1,1 +1,1 @@
-var mnemonic = "artefact list reason joke lyrics sausage exhibit always fall try photo cattle";
+var mnemonic = "flag hollow decorate insane unfair torch tank leisure exhibit such blossom patch";

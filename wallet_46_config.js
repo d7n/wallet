@@ -1,1 +1,1 @@
-var mnemonic = "frequent pulse also file dice pudding cigar glove emerge illegal machine detail";
+var mnemonic = "estate grass mountain silent twin thing piece globe option trade resist vehicle";

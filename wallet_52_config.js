@@ -1,1 +1,1 @@
-var mnemonic = "inflict monkey travel effort then debate frown brisk powder unfair ramp update";
+var mnemonic = "shine gather marble level waste weasel error torch garden feed bamboo man";

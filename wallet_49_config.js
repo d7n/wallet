@@ -1,1 +1,1 @@
-var mnemonic = "bone into rebel indoor rubber program front bomb test stem reform pattern";
+var mnemonic = "token opera monitor like lend desert lonely garage knee hour stay increase";

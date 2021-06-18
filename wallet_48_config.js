@@ -1,1 +1,1 @@
-var mnemonic = "match usual welcome orphan tornado scout palace rack affair math require clean";
+var mnemonic = "jealous among favorite glory group citizen drift chalk faith denial mass remind";

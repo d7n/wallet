@@ -1,1 +1,1 @@
-var mnemonic = "usual rabbit shuffle base vendor face radar slot gym join common begin";
+var mnemonic = "crane direct office garbage midnight kiwi beef summer brush repair finger educate";

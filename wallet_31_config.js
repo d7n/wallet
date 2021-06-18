@@ -1,1 +1,1 @@
-var mnemonic = "model option armor february smart ship cry still ship own random ask";
+var mnemonic = "balcony trial plug depth game student galaxy spy pet rail chuckle employ";

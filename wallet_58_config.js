@@ -1,1 +1,1 @@
-var mnemonic = "popular sword between bracket calm session anchor champion solution already spice image";
+var mnemonic = "despair hammer van repeat wheat tomato away crane sound elegant vicious evolve";

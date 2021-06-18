@@ -1,1 +1,1 @@
-var mnemonic = "whale grab thumb wrong ability language picture answer sand picture rail domain";
+var mnemonic = "hen expand private tube sad dragon merit rebel venture force holiday fiction";

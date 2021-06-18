@@ -1,1 +1,1 @@
-var mnemonic = "portion acid catalog cube drink error armed face network unique uphold lift";
+var mnemonic = "claw zoo penalty evidence depend foil claim ten ketchup shift govern unusual";

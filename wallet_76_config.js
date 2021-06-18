@@ -1,1 +1,1 @@
-var mnemonic = "prize always slab harvest firm salad check negative situate shoe cabbage scene";
+var mnemonic = "deal gather liberty tongue target blush decide true taxi maximum dinner glow";

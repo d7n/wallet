@@ -1,1 +1,1 @@
-var mnemonic = "predict cattle flat swing video thing across worth autumn spend vast sister";
+var mnemonic = "eight question sample feature omit donkey hurdle wet tourist click clinic river";
