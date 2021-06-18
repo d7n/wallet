@@ -1,1 +1,1 @@
-var mnemonic = "rude scale argue village neutral dutch desert hover expect suggest kitchen smoke";
+var mnemonic = "purchase twist scan favorite amused uncover want mirror vibrant exile coin spray";

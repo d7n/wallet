@@ -1,1 +1,1 @@
-var mnemonic = "champion range ketchup route silent input among dream argue faith soup hawk";
+var mnemonic = "finish sorry core define garden mobile potato ladder senior stock grape interest";

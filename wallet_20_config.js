@@ -1,1 +1,1 @@
-var mnemonic = "nuclear much glad news sword media panda depart latin false eternal powder";
+var mnemonic = "sniff key letter razor forget mass exotic kind avocado position goddess wrong";

@@ -1,1 +1,1 @@
-var mnemonic = "bread crystal fall verb swamp sort brave vacant print reward connect gold";
+var mnemonic = "asthma garden fan desert foam island sense unit snake weather burden wink";

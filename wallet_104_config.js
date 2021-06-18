@@ -1,1 +1,1 @@
-var mnemonic = "decline setup bus inflict come border pretty accident muffin glare crush poet";
+var mnemonic = "illness tornado oxygen strong mouse economy gift leave own wink dwarf concert";

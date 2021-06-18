@@ -1,1 +1,1 @@
-var mnemonic = "scan drift arch rail day gallery protect pilot town that ghost extend";
+var mnemonic = "panther exercise mention seminar intact inquiry express crawl unlock odor kid want";

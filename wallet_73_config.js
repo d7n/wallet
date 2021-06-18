@@ -1,1 +1,1 @@
-var mnemonic = "negative sketch surface soccer lucky help dizzy welcome soldier peace high balcony";
+var mnemonic = "lunar angle hundred ecology wife then muscle exotic faith above depend poem";

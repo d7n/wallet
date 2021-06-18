@@ -1,1 +1,1 @@
-var mnemonic = "elephant battle ready into rubber acid ski simple muscle solid shine joke";
+var mnemonic = "armor nice arch tuition chief gentle lumber size crawl cash legend roast";

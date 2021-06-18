@@ -1,1 +1,1 @@
-var mnemonic = "garment recycle sponsor betray design work stem put athlete health stadium burger";
+var mnemonic = "autumn fence volume injury thrive taxi bargain unit sort clock wet husband";

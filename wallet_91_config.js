@@ -1,1 +1,1 @@
-var mnemonic = "sorry ozone trash proud acid install sell maple grow analyst chicken identify";
+var mnemonic = "snow ski rate abuse valid sell rotate crew ten inner begin carry";

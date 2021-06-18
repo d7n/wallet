@@ -1,1 +1,1 @@
-var mnemonic = "cave rebuild arrange dad shift ball coil dinosaur quarter whale sheriff firm";
+var mnemonic = "sea blade sunset mix home flag chat sausage ordinary flower check solar";

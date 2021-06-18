@@ -1,1 +1,1 @@
-var mnemonic = "multiply mixture choose fortune prevent flush maximum profit seat unusual airport story";
+var mnemonic = "jar bus rigid sting sound promote shop shed virus settle gown industry";

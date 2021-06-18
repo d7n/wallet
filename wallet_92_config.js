@@ -1,1 +1,1 @@
-var mnemonic = "weekend future clinic discover city crime fit book budget captain still gold";
+var mnemonic = "debris mind cannon copper film exotic other accuse unable human outdoor sorry";

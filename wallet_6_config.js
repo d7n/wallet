@@ -1,1 +1,1 @@
-var mnemonic = "fury fire clerk spider tissue segment penalty lonely twin excite picnic insect";
+var mnemonic = "shuffle develop rifle buzz alarm chest trim balcony lawn enemy badge chronic";

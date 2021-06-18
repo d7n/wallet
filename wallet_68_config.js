@@ -1,1 +1,1 @@
-var mnemonic = "pear borrow measure hard glow theme banana cake dwarf stereo entire oppose";
+var mnemonic = "else strike old divorce cause shift long tobacco clutch share spy bid";

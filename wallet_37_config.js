@@ -1,1 +1,1 @@
-var mnemonic = "return average where company sport dish riot aunt enough ship escape since";
+var mnemonic = "orchard alien flee wrestle nice conduct credit skin suffer scan bottom okay";

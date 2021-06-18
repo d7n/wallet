@@ -1,1 +1,1 @@
-var mnemonic = "shine shiver narrow mango blade abandon olympic second wild advice chat front";
+var mnemonic = "pill sail carry ozone parade immune video nature amount soon monitor certain";

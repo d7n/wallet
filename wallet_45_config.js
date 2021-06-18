@@ -1,1 +1,1 @@
-var mnemonic = "boil hybrid glow artefact idea elevator elevator web sentence alley junior horse";
+var mnemonic = "vague frown airport enact report jump door fragile deal always music glad";

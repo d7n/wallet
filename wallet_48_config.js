@@ -1,1 +1,1 @@
-var mnemonic = "pink holiday lounge outer dad swim digital usual scrap learn once dove";
+var mnemonic = "catch soap oval cup brown spring inquiry chunk sound odor act vague";

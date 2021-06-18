@@ -1,1 +1,1 @@
-var mnemonic = "cactus receive drill noodle anxiety trade expire argue brother salad witness ahead";
+var mnemonic = "wish engage inside surge mixture furnace tiger rack uncover document avoid anger";

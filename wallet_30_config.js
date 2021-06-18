@@ -1,1 +1,1 @@
-var mnemonic = "earth aspect tongue online sting hire avocado gain meadow manual great sense";
+var mnemonic = "current mandate olive kingdom fault symptom visa wealth devote net come senior";

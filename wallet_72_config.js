@@ -1,1 +1,1 @@
-var mnemonic = "parade jewel ordinary volume swim invest abuse around fragile animal hunt sweet";
+var mnemonic = "siren rapid credit initial stamp bright waste alone year enter credit increase";

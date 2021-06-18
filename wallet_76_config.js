@@ -1,1 +1,1 @@
-var mnemonic = "satisfy human seed stomach wire garden wrap toward holiday vote fiction bike";
+var mnemonic = "drop column lift slender invite cliff cushion soccer raise ability wisdom vicious";

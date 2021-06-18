@@ -1,1 +1,1 @@
-var mnemonic = "exclude train school logic dog sentence begin reunion inspire cupboard note daughter";
+var mnemonic = "kingdom disorder fresh action obtain sniff spread salad despair adapt vacant matter";

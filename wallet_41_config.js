@@ -1,1 +1,1 @@
-var mnemonic = "field small desk ankle reunion tumble track path oil bunker actress sugar";
+var mnemonic = "culture fall awful venture fit style choice thank opera say scorpion math";

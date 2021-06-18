@@ -1,1 +1,1 @@
-var mnemonic = "pulse culture oval mountain prosper include fame discover broccoli wisdom piece curtain";
+var mnemonic = "access pair crucial vocal cable broccoli crisp real square alpha frost heavy";

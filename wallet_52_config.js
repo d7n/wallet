@@ -1,1 +1,1 @@
-var mnemonic = "assist rubber stage annual robust deal switch hood soon aisle method water";
+var mnemonic = "asset slam travel rival attract library forward hold catalog evoke unique rotate";

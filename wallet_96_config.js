@@ -1,1 +1,1 @@
-var mnemonic = "imitate dish plunge drip false tone cousin worth sight lunch modify duty";
+var mnemonic = "slogan sister minute truly desert element fire they when nurse must useful";

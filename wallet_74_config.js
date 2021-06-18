@@ -1,1 +1,1 @@
-var mnemonic = "frost transfer empty vehicle lock liberty hotel clap left victory weapon fuel";
+var mnemonic = "dynamic vacant game chef decide tribe left mind olympic become quantum reveal";

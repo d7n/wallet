@@ -1,1 +1,1 @@
-var mnemonic = "act girl crunch wing glove frame coffee kiss leave demand talk gaze";
+var mnemonic = "polar coconut small unfair trim cable number dial auto attack penalty lottery";

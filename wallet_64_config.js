@@ -1,1 +1,1 @@
-var mnemonic = "release deliver army turn list deny spirit increase female cliff light reveal";
+var mnemonic = "exist twist paddle attitude blue crime palm shine such disagree tobacco observe";

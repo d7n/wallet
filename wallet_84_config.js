@@ -1,1 +1,1 @@
-var mnemonic = "opera upper drink era chief foster snake snack repair fantasy trigger slim";
+var mnemonic = "wire involve victory boat crazy valve basket theory flip discover engage narrow";

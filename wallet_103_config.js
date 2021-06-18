@@ -1,1 +1,1 @@
-var mnemonic = "reform any table enlist flame essence about solar clinic glow escape lemon";
+var mnemonic = "slab exhibit advance panda admit senior ketchup hope angry pact over sock";

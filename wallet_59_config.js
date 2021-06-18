@@ -1,1 +1,1 @@
-var mnemonic = "expire cluster thank carry amount garden stay arctic favorite dignity badge proud";
+var mnemonic = "gaze ship someone flee link busy employ pause language legend isolate reject";

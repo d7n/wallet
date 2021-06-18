@@ -1,1 +1,1 @@
-var mnemonic = "fossil embrace shine kick chef pig repair guess retreat paddle run energy";
+var mnemonic = "switch sustain autumn waste crowd onion push unaware know phone feed enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware shell fresh walk burden climb object inhale borrow jewel spike vessel";
+var mnemonic = "buffalo note ski used coral shove view hungry lucky burger taste daring";

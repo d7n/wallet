@@ -1,1 +1,1 @@
-var mnemonic = "climb scan zone summer rate clown live wasp trick fan bubble fire";
+var mnemonic = "seminar assume peasant coral board sick pumpkin general lion future media improve";

@@ -1,1 +1,1 @@
-var mnemonic = "eye infant brand puppy slush paper bind poverty flower unique noise verb";
+var mnemonic = "tonight onion volume lizard eye reopen vicious general law exotic abuse cereal";

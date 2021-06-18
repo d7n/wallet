@@ -1,1 +1,1 @@
-var mnemonic = "penalty razor true hedgehog parade ship baby error scare ridge segment exhibit";
+var mnemonic = "plate edit armed soon flush blade rule husband demise elevator tree reflect";

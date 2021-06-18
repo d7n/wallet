@@ -1,1 +1,1 @@
-var mnemonic = "parrot pole evolve index junk exotic certain always aware month rack coral";
+var mnemonic = "vicious year fit conduct copper youth survey artist office fresh spike custom";

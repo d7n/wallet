@@ -1,1 +1,1 @@
-var mnemonic = "box gadget narrow subway kitchen guilt tennis harsh rice false cause mutual";
+var mnemonic = "leave monkey shell frog grocery sick minor seek interest bulk gown rare";

@@ -1,1 +1,1 @@
-var mnemonic = "wall minimum hazard coach market speed monitor around satoshi push argue tired";
+var mnemonic = "pass cancel february rural tone document anchor detect goddess eager east wing";

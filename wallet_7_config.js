@@ -1,1 +1,1 @@
-var mnemonic = "ill road caution plate thank hurt oxygen that quick green boy wool";
+var mnemonic = "toddler later away design say noble divorce knife grass skin chest fatigue";

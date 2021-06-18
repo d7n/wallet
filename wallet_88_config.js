@@ -1,1 +1,1 @@
-var mnemonic = "oppose naive barely manage pistol suffer legend special cram blast flame pepper";
+var mnemonic = "key assist resemble put female life horse cube damage heart dash twelve";

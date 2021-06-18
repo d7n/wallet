@@ -1,1 +1,1 @@
-var mnemonic = "athlete quick wrestle object park coffee under lobster crane announce myth dose";
+var mnemonic = "educate hazard sick genre abuse menu lyrics misery exclude number front jump";

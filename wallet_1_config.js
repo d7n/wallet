@@ -1,1 +1,1 @@
-var mnemonic = "patch spell girl tissue universe thought cable slender ticket ask subject empty";
+var mnemonic = "will elder license equip best squeeze vicious educate danger food page eager";

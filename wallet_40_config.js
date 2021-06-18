@@ -1,1 +1,1 @@
-var mnemonic = "neutral welcome film border frame mercy various rich comic alien tattoo reduce";
+var mnemonic = "salad prize piece buddy silly fossil unfold eternal ghost brief battle inflict";

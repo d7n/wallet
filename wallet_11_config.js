@@ -1,1 +1,1 @@
-var mnemonic = "adapt spin magic toss offer ordinary clog ask useless keen camp catalog";
+var mnemonic = "helmet shell treat decade alpha evil sunny review guess chaos world sample";

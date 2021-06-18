@@ -1,1 +1,1 @@
-var mnemonic = "yard scout taste copper anchor picture advance rhythm angry bless blame announce";
+var mnemonic = "puppy gown flat fruit surface wagon feed dolphin slice grab dawn brown";

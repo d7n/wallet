@@ -1,1 +1,1 @@
-var mnemonic = "pitch stamp indicate movie magic unable ladder fat unique feature regular peasant";
+var mnemonic = "spray update purchase this outer cook goat benefit afford crash seek flavor";

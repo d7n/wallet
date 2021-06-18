@@ -1,1 +1,1 @@
-var mnemonic = "noise crush allow enlist muscle glimpse paper awake exit verify token pipe";
+var mnemonic = "blast course message wire upset panda churn quiz burger sense merge crowd";

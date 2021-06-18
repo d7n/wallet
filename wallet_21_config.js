@@ -1,1 +1,1 @@
-var mnemonic = "tourist height song inhale come gesture prison hero swap fat raven quiz";
+var mnemonic = "shop pause inner domain cruise rich song fog bless picture tool velvet";

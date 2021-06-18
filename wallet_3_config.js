@@ -1,1 +1,1 @@
-var mnemonic = "humble bus lounge payment wheat sudden method wine degree hotel squirrel slab";
+var mnemonic = "just harbor kite deliver brisk photo movie chef ozone process door bacon";

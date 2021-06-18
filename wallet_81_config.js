@@ -1,1 +1,1 @@
-var mnemonic = "differ coyote custom turtle trend useful dream worry truth laptop giant coin";
+var mnemonic = "initial trick board enough onion wave crop play remain depth critic notice";

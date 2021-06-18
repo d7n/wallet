@@ -1,1 +1,1 @@
-var mnemonic = "shift topic wrong stomach little tennis term cinnamon impulse survey across useful";
+var mnemonic = "letter slot expire rice join warrior february marine elbow very draft allow";

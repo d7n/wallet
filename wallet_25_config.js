@@ -1,1 +1,1 @@
-var mnemonic = "arena total aim length decade sniff deliver process food bottom casino stem";
+var mnemonic = "left property extend submit relax save sell blame swarm relax prepare stove";

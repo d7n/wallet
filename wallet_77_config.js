@@ -1,1 +1,1 @@
-var mnemonic = "menu motor carpet ball broom manual credit element velvet click afford burden";
+var mnemonic = "rate mushroom robot very action say image crisp castle stage slow student";

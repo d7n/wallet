@@ -1,1 +1,1 @@
-var mnemonic = "village shoot able sun kitten town corn bronze craft left journey thrive";
+var mnemonic = "swear rescue all mother ginger nation outer dinner school shaft express model";

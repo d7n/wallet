@@ -1,1 +1,1 @@
-var mnemonic = "window warrior aerobic garden weapon merge bacon hedgehog sadness other wrist under";
+var mnemonic = "slow mobile pair proof paper dinosaur casino perfect estate dance world purchase";

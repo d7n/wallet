@@ -1,1 +1,1 @@
-var mnemonic = "brave post dwarf tray tragic build universe paddle final explain hour brief";
+var mnemonic = "corn end time someone chunk high license gauge enrich apple pattern head";

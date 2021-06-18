@@ -1,1 +1,1 @@
-var mnemonic = "suit valley smooth pledge bird festival gym review same aunt project merge";
+var mnemonic = "fiscal glove apology pottery bleak traffic panther album brisk scale knife any";

@@ -1,1 +1,1 @@
-var mnemonic = "order spatial neither morning fetch health lake solid type orange rude margin";
+var mnemonic = "size range bargain post deposit offer rookie carbon office myth dilemma item";

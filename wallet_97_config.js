@@ -1,1 +1,1 @@
-var mnemonic = "inside dance blanket they victory verify elevator envelope bitter spot toilet cool";
+var mnemonic = "unaware jacket top soccer soccer butter follow napkin dentist copy mad defense";

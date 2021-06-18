@@ -1,1 +1,1 @@
-var mnemonic = "elder remind cash audit negative glow destroy cage catalog fancy vehicle cloth";
+var mnemonic = "field jaguar cat exotic into defense emotion bright plug deposit aim verb";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil heart thrive image forward cabbage exclude around robot airport climb verb";
+var mnemonic = "punch face trade element switch net nasty life clown income blanket crater";

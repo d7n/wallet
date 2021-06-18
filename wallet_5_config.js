@@ -1,1 +1,1 @@
-var mnemonic = "welcome alcohol quarter hand forward behave nerve stay device regret list since";
+var mnemonic = "rent between roof true swarm accident often fence scare inspire autumn around";

@@ -1,1 +1,1 @@
-var mnemonic = "knee purity kite hamster document early farm spread announce panda opera luggage";
+var mnemonic = "unusual inch canoe clog voice obvious original shrimp two middle wife foot";

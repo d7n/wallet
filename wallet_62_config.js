@@ -1,1 +1,1 @@
-var mnemonic = "length tackle brisk shallow critic modify rookie kiwi flash neck suffer hub";
+var mnemonic = "twin crime someone soldier flee device valve meadow depth lottery pizza alarm";

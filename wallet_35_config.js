@@ -1,1 +1,1 @@
-var mnemonic = "ask prepare inch express arrange excuse conduct capable swarm give term symbol";
+var mnemonic = "only priority almost pony mention offer spend shell omit topic half equip";

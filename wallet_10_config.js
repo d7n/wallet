@@ -1,1 +1,1 @@
-var mnemonic = "property cherry rose car crash behave rare correct owner bone exchange youth";
+var mnemonic = "crumble toast bike warrior jar calm federal hobby cargo wood tired fit";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard million warm electric among casual credit mammal found ocean reveal meat";
+var mnemonic = "this frame scorpion grant coffee squirrel cruise tag inner bus trumpet screen";

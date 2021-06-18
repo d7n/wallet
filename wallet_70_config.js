@@ -1,1 +1,1 @@
-var mnemonic = "call off ten leg advice common goddess chapter beauty dwarf illness forum";
+var mnemonic = "actor proud injury tone poverty west enrich cricket twice average sword hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "myth isolate thumb imitate hill firm law armed member suspect happy luggage";
+var mnemonic = "service high gorilla state suffer question crane cactus napkin calm civil afraid";

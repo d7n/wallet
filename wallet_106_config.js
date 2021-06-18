@@ -1,1 +1,1 @@
-var mnemonic = "narrow tonight salon twin second indicate key sibling network vivid prevent stick";
+var mnemonic = "tongue mass solve repair olympic hover ridge wrong sorry figure kit buzz";

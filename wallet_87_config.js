@@ -1,1 +1,1 @@
-var mnemonic = "labor expect roast bread ceiling prize artist autumn cabbage edge circle situate";
+var mnemonic = "claim staff business second inspire enjoy series turtle roof avoid awesome olive";

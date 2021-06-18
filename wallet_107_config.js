@@ -1,1 +1,1 @@
-var mnemonic = "super method media symptom vote slow topple drive couple grass demand pencil";
+var mnemonic = "blade add honey fence advice lobster uncover joke monitor lawsuit clerk hire";

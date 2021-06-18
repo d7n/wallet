@@ -1,1 +1,1 @@
-var mnemonic = "rent coyote predict deny more daughter light soon empty pizza grunt jump";
+var mnemonic = "panel visit maximum stamp coast cycle evoke gloom police lab milk fabric";

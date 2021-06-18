@@ -1,1 +1,1 @@
-var mnemonic = "walk deer front riot deny smart tray apple jazz clap update castle";
+var mnemonic = "kiss path tower shove awkward sample foot front foster milk case resist";

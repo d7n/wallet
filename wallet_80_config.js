@@ -1,1 +1,1 @@
-var mnemonic = "arrive uncle edge sad trophy tone print old very casual auction crystal";
+var mnemonic = "cheap super describe pepper dose inside chaos fringe abstract thought adult retreat";

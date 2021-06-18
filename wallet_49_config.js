@@ -1,1 +1,1 @@
-var mnemonic = "valid typical recipe color attract garbage satoshi plug hurdle city orient list";
+var mnemonic = "fragile enemy shiver year habit stove famous soccer omit march bargain fossil";

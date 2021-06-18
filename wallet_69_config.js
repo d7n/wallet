@@ -1,1 +1,1 @@
-var mnemonic = "link measure toddler calm young empower loyal believe company escape work crash";
+var mnemonic = "plate wear main output twice awkward subway sword wreck slim inside curve";

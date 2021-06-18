@@ -1,1 +1,1 @@
-var mnemonic = "combine network then sword cube patient wrestle dwarf organ oblige alien squeeze";
+var mnemonic = "genuine wage better plate cake siege pottery inform simple rain love casual";

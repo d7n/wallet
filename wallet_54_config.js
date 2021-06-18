@@ -1,1 +1,1 @@
-var mnemonic = "proud mutual ready board bridge purity book eyebrow blame fault mimic tattoo";
+var mnemonic = "trial exhaust engine wing crunch benefit spray bicycle street curve never expand";

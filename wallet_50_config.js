@@ -1,1 +1,1 @@
-var mnemonic = "broom journey holiday donate artwork gym extra drop punch earn fold update";
+var mnemonic = "travel shuffle stool borrow call update abuse custom valid inflict cover truth";

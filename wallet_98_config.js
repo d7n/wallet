@@ -1,1 +1,1 @@
-var mnemonic = "explain pottery alone option grape eye innocent olympic wrong wide noise baby";
+var mnemonic = "share exit annual wire supreme season heavy girl west pistol pattern brain";

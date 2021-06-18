@@ -1,1 +1,1 @@
-var mnemonic = "lyrics tool vivid enable dragon replace power banner oak agree outside basic";
+var mnemonic = "cross alien special deputy renew rescue absent fringe track twice advance sound";

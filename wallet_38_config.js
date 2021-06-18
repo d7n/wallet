@@ -1,1 +1,1 @@
-var mnemonic = "maid turkey fire lady cloth prize wreck siege bid deal decorate laptop";
+var mnemonic = "hard cross come call glad account trade icon jaguar amount humor mushroom";

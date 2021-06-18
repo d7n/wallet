@@ -1,1 +1,1 @@
-var mnemonic = "change proof such siege motion during congress shaft coast social retire pink";
+var mnemonic = "spare despair matter home chunk grief stone pizza unhappy elder ladder tone";

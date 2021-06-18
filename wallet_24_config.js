@@ -1,1 +1,1 @@
-var mnemonic = "blue consider ranch solid injury noise oven gun drama rose category marriage";
+var mnemonic = "volume hundred donate gift credit foot satisfy farm gain silent title age";

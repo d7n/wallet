@@ -1,1 +1,1 @@
-var mnemonic = "royal confirm punch insect noble menu lunch excite burger sudden mammal ritual";
+var mnemonic = "earn skirt attitude agree easy air foam angle receive edge ozone fortune";

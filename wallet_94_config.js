@@ -1,1 +1,1 @@
-var mnemonic = "eight evil auction day property mixture physical bus east extra empower term";
+var mnemonic = "scan clay easily then negative vessel amount tell cat rely song forget";

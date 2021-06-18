@@ -1,1 +1,1 @@
-var mnemonic = "render food mom shoe autumn stage mixture amateur brother photo abstract vocal";
+var mnemonic = "diary puzzle advance illegal shaft decline inflict wisdom pilot enhance toy orbit";

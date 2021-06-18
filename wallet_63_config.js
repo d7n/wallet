@@ -1,1 +1,1 @@
-var mnemonic = "sheriff rare lyrics topic family ocean skill nurse either quality what mixture";
+var mnemonic = "mango glare rug pair pig train opera title moment zebra space fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "cup letter educate sense hobby duty action wine panic injury rule reunion";
+var mnemonic = "vendor sound tired problem eyebrow frog bean knife hollow any corn snake";

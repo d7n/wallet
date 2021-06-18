@@ -1,1 +1,1 @@
-var mnemonic = "cannon member glide lobster before easily grape ranch symbol insane visa gasp";
+var mnemonic = "lyrics portion style torch gauge chase brain ring faculty field dress lobster";

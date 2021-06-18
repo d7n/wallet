@@ -1,1 +1,1 @@
-var mnemonic = "great utility warm clown glimpse chimney tackle tower mix phone member strategy";
+var mnemonic = "original trip present smooth mutual yard wedding vocal ozone screen flash slot";
