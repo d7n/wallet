@@ -1,1 +1,1 @@
-var mnemonic = "travel version ugly blade retire muffin weasel matter way ceiling swear garlic";
+var mnemonic = "risk fly rubber insect action unusual present hen member effort steak pitch";

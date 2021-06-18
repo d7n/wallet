@@ -1,1 +1,1 @@
-var mnemonic = "myself cluster rack coral combine avocado vast token nerve surprise turtle bronze";
+var mnemonic = "path kick love range job grid donor parade interest salon vital material";

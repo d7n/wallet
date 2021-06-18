@@ -1,1 +1,1 @@
-var mnemonic = "melt weapon example tragic amused order survey kiss flight syrup boss excite";
+var mnemonic = "loud harvest notice thank bring they arena shrug water rose lady dad";

@@ -1,1 +1,1 @@
-var mnemonic = "element short very hurt box found celery into follow correct art lift";
+var mnemonic = "book lake keep turkey staff length emerge casual mirror bean excuse very";

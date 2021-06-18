@@ -1,1 +1,1 @@
-var mnemonic = "rare ecology announce concert wash purity tissue home sea winner reject strategy";
+var mnemonic = "paddle improve renew purse near pattern camera bus dilemma degree trade bargain";

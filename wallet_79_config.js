@@ -1,1 +1,1 @@
-var mnemonic = "reward inch steak divorce artist render stamp inherit absorb sad recipe market";
+var mnemonic = "demise neck able afraid harvest host gather frequent gesture diet million sleep";

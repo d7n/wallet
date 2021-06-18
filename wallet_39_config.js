@@ -1,1 +1,1 @@
-var mnemonic = "afford record else kite toward boat orient position helmet typical friend mind";
+var mnemonic = "power cradle pill lion resist oil plate sense uncover media device eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "edit sound expand choose debris paddle know abstract unaware survey cricket student";
+var mnemonic = "absorb mango raven major symptom patch disorder surge pool trick own story";

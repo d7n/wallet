@@ -1,1 +1,1 @@
-var mnemonic = "guard agree title decline hospital clap bubble neutral pole smoke rib frequent";
+var mnemonic = "sponsor shoot grid property fox ten cloth coral casino couple hollow grain";

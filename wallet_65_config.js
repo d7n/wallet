@@ -1,1 +1,1 @@
-var mnemonic = "visa scrub festival assume august six air protect blood code write boil";
+var mnemonic = "item mobile win price ahead security enemy nasty predict actual offer hospital";

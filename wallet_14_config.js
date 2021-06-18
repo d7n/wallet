@@ -1,1 +1,1 @@
-var mnemonic = "loop among help camera problem donkey spot among panda upper icon merge";
+var mnemonic = "narrow view course swallow organ river term crazy grain slice stage shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "pool announce surface mushroom evidence pond crowd daughter nut drip anger issue";
+var mnemonic = "couch quiz same calm uphold dress material street rice donor island private";

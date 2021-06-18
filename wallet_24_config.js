@@ -1,1 +1,1 @@
-var mnemonic = "prefer whip hospital answer lunch amount stereo embark pact heavy mutual creek";
+var mnemonic = "target tooth twin analyst sand option pulp great volume ancient toe erode";

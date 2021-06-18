@@ -1,1 +1,1 @@
-var mnemonic = "reflect jealous gap voice horse benefit hurdle copper weird page melody blue";
+var mnemonic = "flee cook canoe bonus option delay grow relief spot humble shift cactus";

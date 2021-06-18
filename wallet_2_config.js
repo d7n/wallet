@@ -1,1 +1,1 @@
-var mnemonic = "sight column physical vibrant silent blossom process clarify planet tomorrow abandon orbit";
+var mnemonic = "twenty wage gentle main shiver target minute indicate spoon pet area fox";

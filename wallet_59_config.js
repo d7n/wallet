@@ -1,1 +1,1 @@
-var mnemonic = "tomato cart famous update miracle correct cancel job special suffer inject deliver";
+var mnemonic = "govern february enact announce horse episode flower spray service warrior peace sudden";

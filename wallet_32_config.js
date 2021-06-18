@@ -1,1 +1,1 @@
-var mnemonic = "display visual position witness position stereo danger disagree ice govern arrow neither";
+var mnemonic = "option book learn deliver exchange robust depth poet nothing screen reject snow";

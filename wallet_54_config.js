@@ -1,1 +1,1 @@
-var mnemonic = "clutch cat cloth hint primary swamp kangaroo entry park keep offer ceiling";
+var mnemonic = "canyon marble rebuild defense dignity october window used voice very voice green";

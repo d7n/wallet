@@ -1,1 +1,1 @@
-var mnemonic = "frown series boring curve jacket assume obvious cigar during picture lazy slim";
+var mnemonic = "digital cool violin multiply double tunnel civil warm urge trouble hero addict";

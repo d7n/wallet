@@ -1,1 +1,1 @@
-var mnemonic = "royal usual velvet hover stable advice suspect pause winner gun best degree";
+var mnemonic = "labor sport morning swap mother category north special fetch switch earth canal";

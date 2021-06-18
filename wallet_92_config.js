@@ -1,1 +1,1 @@
-var mnemonic = "decorate blanket caught diamond busy liar thank save ugly scout autumn visa";
+var mnemonic = "tower wrestle salt curious disagree leg olive rule ahead tape reject ancient";

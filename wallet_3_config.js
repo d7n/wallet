@@ -1,1 +1,1 @@
-var mnemonic = "finger wonder uphold drama ankle confirm physical toward ridge duck yard proof";
+var mnemonic = "dentist fatal race congress age april parent soccer isolate kick quote parade";

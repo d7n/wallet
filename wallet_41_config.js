@@ -1,1 +1,1 @@
-var mnemonic = "bread unknown move shoe output verb track bleak mushroom method assist provide";
+var mnemonic = "other extra indicate possible claim easy oil angle reward burger raise fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing spin screen nose noise frozen machine claim eagle eye world rookie";
+var mnemonic = "horse frost work collect cube team brisk cave man usual glow gospel";

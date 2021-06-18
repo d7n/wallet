@@ -1,1 +1,1 @@
-var mnemonic = "kind enforce comic empower predict bachelor critic faint snow tornado renew acoustic";
+var mnemonic = "face dice submit capital group eyebrow okay cousin fat coffee vessel pitch";

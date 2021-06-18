@@ -1,1 +1,1 @@
-var mnemonic = "silly twice bundle pass chaos luggage burden unaware wait panel alert cute";
+var mnemonic = "sad job must fury carbon muffin turtle zoo identify practice economy exclude";

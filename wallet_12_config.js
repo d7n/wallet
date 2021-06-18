@@ -1,1 +1,1 @@
-var mnemonic = "void century forward walk depth mango supply script cat senior more mass";
+var mnemonic = "fringe ginger menu inside agent sketch ten catalog bracket oxygen often impact";

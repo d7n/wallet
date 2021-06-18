@@ -1,1 +1,1 @@
-var mnemonic = "tribe into own hurry time two enforce walk royal holiday envelope idle";
+var mnemonic = "renew stone velvet distance social grape what solution goddess inspire collect just";

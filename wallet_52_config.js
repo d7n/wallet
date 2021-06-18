@@ -1,1 +1,1 @@
-var mnemonic = "melt call what blood hawk timber margin call hurdle slice range fly";
+var mnemonic = "mistake heart rhythm rail brown hub hen inform wall minor museum avoid";

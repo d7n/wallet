@@ -1,1 +1,1 @@
-var mnemonic = "where announce math cake weapon flavor health year aerobic equip truck bar";
+var mnemonic = "shoe blue flat industry venture will dream pony gain book reform shove";

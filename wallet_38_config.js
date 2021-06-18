@@ -1,1 +1,1 @@
-var mnemonic = "carbon ticket electric buyer derive turtle diagram aware prosper account addict work";
+var mnemonic = "wave sauce life slight unveil stamp leaf bag inject pet sword fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "patch electric witness again maple item glow pistol between weather track chimney";
+var mnemonic = "solar outside candy wear situate blush employ whip call oval oven current";

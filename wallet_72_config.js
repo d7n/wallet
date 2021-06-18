@@ -1,1 +1,1 @@
-var mnemonic = "pony exit spare feel patrol problem habit young neck half route cram";
+var mnemonic = "mirror tired page library people grow tail little saddle scan innocent foot";

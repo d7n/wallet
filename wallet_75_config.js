@@ -1,1 +1,1 @@
-var mnemonic = "time health scheme marine volume wait man area father dance lawsuit ghost";
+var mnemonic = "way come crop keen degree track master belt cute soda grape spike";

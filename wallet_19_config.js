@@ -1,1 +1,1 @@
-var mnemonic = "board install borrow hover parrot horse sound buzz sad stem spot motion";
+var mnemonic = "vintage absent dolphin primary display slogan industry twelve champion bicycle patrol salt";

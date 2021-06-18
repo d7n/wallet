@@ -1,1 +1,1 @@
-var mnemonic = "assist balance foil rack boss twice liquid student tray custom cart reform";
+var mnemonic = "fringe joy sad over snow nerve adult brother radio search paper peace";

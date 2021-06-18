@@ -1,1 +1,1 @@
-var mnemonic = "badge ankle true razor order romance interest artefact own hybrid bargain hip";
+var mnemonic = "permit brick catalog decide gather sample scatter balance tragic ordinary lunar again";

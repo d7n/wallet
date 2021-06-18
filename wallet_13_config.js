@@ -1,1 +1,1 @@
-var mnemonic = "debris birth fine razor crush any release woman knock gather fish donkey";
+var mnemonic = "travel will extend talk increase bargain worry rug curious main tuition usual";

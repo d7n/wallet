@@ -1,1 +1,1 @@
-var mnemonic = "yard daring buffalo sunset bread october layer prison company lock net apology";
+var mnemonic = "agent visit section arrest equal amazing whisper ramp genre liar oppose pink";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal orphan lend often piece need wage beauty census inch forum taxi";
+var mnemonic = "into rhythm attract useless swarm ivory train calm spoil wire effort dutch";

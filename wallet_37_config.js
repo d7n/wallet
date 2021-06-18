@@ -1,1 +1,1 @@
-var mnemonic = "thrive grow spoil chronic envelope bridge room hurt excite stock level receive";
+var mnemonic = "chef case first slush fatigue bitter shiver merge journey depth winter nation";

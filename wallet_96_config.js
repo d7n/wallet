@@ -1,1 +1,1 @@
-var mnemonic = "loan negative ramp diary ask ladder regret bitter royal point mountain pistol";
+var mnemonic = "industry bone sleep ensure tip dutch fit calm river govern almost height";

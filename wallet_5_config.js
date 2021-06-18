@@ -1,1 +1,1 @@
-var mnemonic = "action balcony van globe huge extend noodle accuse all bag ritual naive";
+var mnemonic = "brother vehicle analyst pave glass rib smooth fan copper window zoo latin";

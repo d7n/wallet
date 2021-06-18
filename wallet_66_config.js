@@ -1,1 +1,1 @@
-var mnemonic = "fatigue claim draw congress talk slight mimic alert fever virus ski notable";
+var mnemonic = "deer wrist mule tattoo fly wish century fluid stairs era nature squirrel";

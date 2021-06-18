@@ -1,1 +1,1 @@
-var mnemonic = "more control expose pony try grain lift mother narrow impulse tail ready";
+var mnemonic = "exotic refuse van sick piano wreck option blame sense coil sunset random";

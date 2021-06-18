@@ -1,1 +1,1 @@
-var mnemonic = "spray mother expand twist adjust stomach loud vacant anger punch blur slight";
+var mnemonic = "cloud danger choice diamond assume motion fat episode build install crystal stairs";

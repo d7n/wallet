@@ -1,1 +1,1 @@
-var mnemonic = "rocket car fury ritual blade panic model behind sing capital donkey obvious";
+var mnemonic = "fall girl author turn bridge uphold put combine shield wool prosper select";

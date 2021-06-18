@@ -1,1 +1,1 @@
-var mnemonic = "federal daring script cook degree capital sword engine filter harbor art way";
+var mnemonic = "silk trip capital length today dream mutual cat chuckle ritual obscure prefer";

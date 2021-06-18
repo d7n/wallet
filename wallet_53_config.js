@@ -1,1 +1,1 @@
-var mnemonic = "father upgrade crack adult subject clutch alarm carpet oxygen come scare lamp";
+var mnemonic = "glad rug bacon enemy never bulk hungry about onion pride lunch idle";

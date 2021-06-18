@@ -1,1 +1,1 @@
-var mnemonic = "mother negative actress photo inflict monkey veteran foam arctic green demise oak";
+var mnemonic = "bus course betray broom rubber brick panic virtual august frozen clap draft";

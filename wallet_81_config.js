@@ -1,1 +1,1 @@
-var mnemonic = "track man saddle whip throw job change cousin tent nice very assault";
+var mnemonic = "joke various action pilot aware tomato access home agree fee dust endorse";

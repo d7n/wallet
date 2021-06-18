@@ -1,1 +1,1 @@
-var mnemonic = "title ball web acoustic object teach typical final profit teach heart rapid";
+var mnemonic = "filter develop long broken ball danger couple blade install goose marble item";

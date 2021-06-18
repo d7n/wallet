@@ -1,1 +1,1 @@
-var mnemonic = "audit cat burger bless speed dust meat win pave off spread cattle";
+var mnemonic = "slogan vivid speed parrot until bicycle proud bench travel media caution skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "legend zone quality network brick sunny denial need grape emerge above have";
+var mnemonic = "visual slab fitness catch dentist helmet siren discover middle journey reveal slow";

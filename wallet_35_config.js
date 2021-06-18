@@ -1,1 +1,1 @@
-var mnemonic = "future trim between hotel release keep glass few general vast lecture person";
+var mnemonic = "cage dad measure gauge body wink burger effort target height erase frequent";

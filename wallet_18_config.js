@@ -1,1 +1,1 @@
-var mnemonic = "mandate bind subway symbol vote cat true ignore degree garlic typical park";
+var mnemonic = "fat stuff rare pizza vacuum winter casual edit strike surge jungle olive";

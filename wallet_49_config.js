@@ -1,1 +1,1 @@
-var mnemonic = "month security dismiss okay gift robust brand loud sting recipe typical nose";
+var mnemonic = "brass vacuum typical buyer flame pear sad theme rabbit endorse update drill";

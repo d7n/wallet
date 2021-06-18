@@ -1,1 +1,1 @@
-var mnemonic = "primary crouch fetch bottom pave theory mango snap heart kit enjoy fade";
+var mnemonic = "small palace undo grape tobacco olympic shoulder hire planet debate garage panda";

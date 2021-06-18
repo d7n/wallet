@@ -1,1 +1,1 @@
-var mnemonic = "nut suggest catch helmet diagram boil follow script under jelly side rival";
+var mnemonic = "ranch clock winter hold between original cradle find electric bench grid embody";

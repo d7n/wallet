@@ -1,1 +1,1 @@
-var mnemonic = "glue couple patient first pudding atom drink wait table pretty exercise harsh";
+var mnemonic = "degree enroll purchase ketchup wonder humor spin crunch bar chicken execute maximum";

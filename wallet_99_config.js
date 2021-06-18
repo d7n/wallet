@@ -1,1 +1,1 @@
-var mnemonic = "tumble taxi seat motion found nothing help actress abuse lizard hollow oyster";
+var mnemonic = "brick eagle divide hint orphan stomach uncle glance water where vendor quiz";

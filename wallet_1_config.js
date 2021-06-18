@@ -1,1 +1,1 @@
-var mnemonic = "inform field vicious eyebrow bread group knock glimpse trophy rival twice outdoor";
+var mnemonic = "symptom thrive draw mystery profit expand north you crystal chronic praise divide";

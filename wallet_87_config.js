@@ -1,1 +1,1 @@
-var mnemonic = "gauge build orbit pelican rice achieve miss spread credit cushion bag risk";
+var mnemonic = "gloom poem above area reform verify tomorrow artist bronze abstract judge refuse";

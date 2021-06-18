@@ -1,1 +1,1 @@
-var mnemonic = "suffer style sport upset stool true fat nasty focus rain disease hello";
+var mnemonic = "enjoy rely initial upset ridge hurt sunny cloth army someone street citizen";

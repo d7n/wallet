@@ -1,1 +1,1 @@
-var mnemonic = "announce mistake awkward search primary undo visit ankle ugly shaft rain pave";
+var mnemonic = "wedding calm describe chronic advance script problem ski payment pull detect twelve";

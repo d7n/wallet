@@ -1,1 +1,1 @@
-var mnemonic = "add wool soup crack above flush spirit body burger video chase rib";
+var mnemonic = "during number valid flock rug pottery happy enter humble office wing west";

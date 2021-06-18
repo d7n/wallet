@@ -1,1 +1,1 @@
-var mnemonic = "zebra tennis neck angry carpet wage rival wall civil annual stock beef";
+var mnemonic = "firm badge vintage embrace nominee antenna fatal seminar come security stool grain";

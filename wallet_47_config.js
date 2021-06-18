@@ -1,1 +1,1 @@
-var mnemonic = "link recipe focus analyst garment margin cream alert husband injury blur kidney";
+var mnemonic = "track noise move infant cereal gravity dance afford warm chalk group drink";

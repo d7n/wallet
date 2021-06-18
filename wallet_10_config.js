@@ -1,1 +1,1 @@
-var mnemonic = "question dose rebel maximum bargain amount grape wide churn moment novel goose";
+var mnemonic = "vapor bid maple civil crunch distance change zebra sponsor notable side observe";

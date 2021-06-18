@@ -1,1 +1,1 @@
-var mnemonic = "economy fiscal sniff staff degree wave toilet admit cloth resemble erase coach";
+var mnemonic = "life bid network raven write demand breeze impose cactus mind museum carpet";

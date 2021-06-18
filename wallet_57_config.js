@@ -1,1 +1,1 @@
-var mnemonic = "bag desert speak position direct obscure liberty child drill emotion pattern festival";
+var mnemonic = "stage term resemble veteran genuine job blur just chunk network youth soda";

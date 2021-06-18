@@ -1,1 +1,1 @@
-var mnemonic = "poet cup awake fiction speak charge involve grape satisfy dutch horn orbit";
+var mnemonic = "buddy stay turtle recipe twice negative pass during resource future again way";

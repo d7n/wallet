@@ -1,1 +1,1 @@
-var mnemonic = "miss seed lock industry slender merit rebuild hockey clarify cherry dove domain";
+var mnemonic = "rough split record later motion believe insane casual exhibit nation cake nerve";

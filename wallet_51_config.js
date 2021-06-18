@@ -1,1 +1,1 @@
-var mnemonic = "fault pony defy people alien coffee sense ahead soldier badge correct message";
+var mnemonic = "enter fame menu fat cousin crazy dirt brown fall protect board senior";

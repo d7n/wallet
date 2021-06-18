@@ -1,1 +1,1 @@
-var mnemonic = "clump beauty special grape myth fruit wrap panic relax success galaxy reform";
+var mnemonic = "blur kitten gift tobacco poet crew distance story exhibit frame bone gather";

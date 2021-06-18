@@ -1,1 +1,1 @@
-var mnemonic = "uncover left lazy spell canvas sword together moment load firm mystery pencil";
+var mnemonic = "detect cycle prize cloth banner post social demand demand model lottery rule";

@@ -1,1 +1,1 @@
-var mnemonic = "grit weird crystal bonus chief round upper input vault potato duck special";
+var mnemonic = "upset rather spin allow setup crucial noise stick force scrap trick special";

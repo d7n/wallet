@@ -1,1 +1,1 @@
-var mnemonic = "shop wagon mango mixture dose job saddle awesome decide envelope rubber attract";
+var mnemonic = "gadget fog fatigue jacket chicken leopard sibling weapon novel kiss air turn";

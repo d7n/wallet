@@ -1,1 +1,1 @@
-var mnemonic = "observe depart gloom enact iron clip vast sauce bridge design job improve";
+var mnemonic = "hello vendor athlete crucial torch alter result among educate surround boy link";

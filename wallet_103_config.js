@@ -1,1 +1,1 @@
-var mnemonic = "anchor clump deposit police scare speak screen throw layer brush gift canoe";
+var mnemonic = "senior scrap plunge traffic mountain know hollow river clean skin north bundle";

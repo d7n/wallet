@@ -1,1 +1,1 @@
-var mnemonic = "party effort whisper stone erupt filter force volcano vacuum neck caught risk";
+var mnemonic = "theory song inject melt endless idea throw diet scissors fold toward split";

@@ -1,1 +1,1 @@
-var mnemonic = "farm earth milk target hospital ill post coral traffic left denial blood";
+var mnemonic = "thumb whip violin picture mother sister enforce figure rebel fuel envelope crop";

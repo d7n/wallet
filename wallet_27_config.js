@@ -1,1 +1,1 @@
-var mnemonic = "high load usage private stage brown boil scare exhibit bid route catalog";
+var mnemonic = "legal solar kite valley bring grief tent awful birth quick fence basic";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt dad forum bronze sorry weasel coffee flavor parrot goddess estate fade";
+var mnemonic = "answer erosion simple hip garage lecture credit window evoke defense arrest wisdom";

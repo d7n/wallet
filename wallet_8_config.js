@@ -1,1 +1,1 @@
-var mnemonic = "speed people excess layer range icon tennis remind label joy runway knee";
+var mnemonic = "essence reveal sphere creek fury victory elegant opinion short quantum source spawn";

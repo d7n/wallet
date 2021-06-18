@@ -1,1 +1,1 @@
-var mnemonic = "divert filter distance prefer visa scrap erase genius only december movie brush";
+var mnemonic = "thunder race spare drill hotel verb extra remember person dice topic shed";

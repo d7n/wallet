@@ -1,1 +1,1 @@
-var mnemonic = "address raven vote subject figure gasp weapon pet master prison student subject";
+var mnemonic = "impose quarter right wire awful eagle goat laundry poet move sustain ankle";
