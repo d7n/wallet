@@ -1,1 +1,1 @@
-var mnemonic = "reunion glory dad like cry fun bright mansion save demise claw hurt";
+var mnemonic = "october sausage buddy letter pitch spread obtain bind coconut rookie vacuum situate";

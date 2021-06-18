@@ -1,1 +1,1 @@
-var mnemonic = "make winner remember dust try plastic steak sand clap lobster escape skill";
+var mnemonic = "appear radio trash control ensure laundry dish crew room exhaust robot hand";

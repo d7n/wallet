@@ -1,1 +1,1 @@
-var mnemonic = "spray share valid friend bitter position sketch path ball figure wrong slim";
+var mnemonic = "miracle scissors uphold flavor loop fiber museum when light grocery upgrade monitor";

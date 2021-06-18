@@ -1,1 +1,1 @@
-var mnemonic = "wink script million search someone lock luxury narrow door dry stay room";
+var mnemonic = "light distance bid bird rabbit birth teach report seek load manage quote";

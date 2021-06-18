@@ -1,1 +1,1 @@
-var mnemonic = "wish talent mammal crowd toilet chronic huge crime stone camera organ wall";
+var mnemonic = "sustain profit escape half nut today axis board parrot symbol squeeze legend";

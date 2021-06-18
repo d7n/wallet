@@ -1,1 +1,1 @@
-var mnemonic = "sadness fever exchange vault pipe napkin dream attract boss olive ankle identify";
+var mnemonic = "balcony liar random magnet gloom aware simple wagon rural repeat pyramid rent";

@@ -1,1 +1,1 @@
-var mnemonic = "clog envelope disease sphere bunker catalog lounge oval casino brother desert hamster";
+var mnemonic = "catalog column glance broken busy kit ribbon skill prison old emerge spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "clump begin priority shadow human play lucky fluid ecology usual pact inch";
+var mnemonic = "fun taste keen step country feature bronze master normal strike horse beef";

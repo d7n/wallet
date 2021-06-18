@@ -1,1 +1,1 @@
-var mnemonic = "shy finish april hover poet empty radar river obscure install young wave";
+var mnemonic = "spend measure where learn vicious fitness circle lunar youth point maze economy";

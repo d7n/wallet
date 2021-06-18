@@ -1,1 +1,1 @@
-var mnemonic = "essay speed primary sunny shoe chunk fancy limit duck twice clever room";
+var mnemonic = "permit merit peasant harsh sunny divide exhaust proof auto prefer voyage foam";

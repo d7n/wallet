@@ -1,1 +1,1 @@
-var mnemonic = "skin chuckle inject voice human endless make abuse project bone owner drum";
+var mnemonic = "surge art option chair amazing come layer weapon miss narrow impulse begin";

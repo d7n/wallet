@@ -1,1 +1,1 @@
-var mnemonic = "autumn lunch bike motion program rule cinnamon mimic knee claim minor diesel";
+var mnemonic = "rib brown another cricket wood radio scorpion brother system erase engage pattern";

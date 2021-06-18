@@ -1,1 +1,1 @@
-var mnemonic = "code slot hill cattle share exact junk cannon later tumble kick panic";
+var mnemonic = "favorite bunker sure any strike prosper latin smart health thing axis kidney";

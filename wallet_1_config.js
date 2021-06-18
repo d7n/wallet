@@ -1,1 +1,1 @@
-var mnemonic = "unfold suit wire mail kite jaguar crisp rude oven library phone rough";
+var mnemonic = "arch project defense hello rabbit bonus scissors spatial debate various buddy razor";

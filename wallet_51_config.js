@@ -1,1 +1,1 @@
-var mnemonic = "deposit wool chunk junk mask loyal matrix away clerk weird south bring";
+var mnemonic = "nerve tribe rug fragile warm hunt mask delay such disease type blind";

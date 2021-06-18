@@ -1,1 +1,1 @@
-var mnemonic = "safe silver duck thumb select pause actor access miracle giraffe soccer open";
+var mnemonic = "gallery turtle save black loud spoil couch pistol change glide ghost hill";

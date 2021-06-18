@@ -1,1 +1,1 @@
-var mnemonic = "world start prosper barely pond travel almost practice area mango bulk talent";
+var mnemonic = "salt property escape sight angle object venue pull various used offer cream";

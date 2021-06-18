@@ -1,1 +1,1 @@
-var mnemonic = "wink impulse bubble social math step wait dial butter key segment build";
+var mnemonic = "snack humor luxury donkey flavor direct hammer travel wasp inherit garden discover";

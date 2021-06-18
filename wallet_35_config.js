@@ -1,1 +1,1 @@
-var mnemonic = "parrot step humble differ mountain book pond own distance license amount caught";
+var mnemonic = "calm search search excuse nice round embrace number receive spawn moral gravity";

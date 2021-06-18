@@ -1,1 +1,1 @@
-var mnemonic = "awake category journey alley place typical history across inspire fat nothing above";
+var mnemonic = "minor wrap favorite add sadness glow reject crane robot trip cradle nose";

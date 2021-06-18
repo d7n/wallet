@@ -1,1 +1,1 @@
-var mnemonic = "crane private acquire hold faith verb hurt north emotion consider leisure empty";
+var mnemonic = "autumn smile cupboard leave floor melody unable harvest evil mutual sea once";

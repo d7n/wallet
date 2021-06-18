@@ -1,1 +1,1 @@
-var mnemonic = "friend alien panda much various option hurt sick plug lab hurdle tackle";
+var mnemonic = "kiwi floor filter film van skate hotel coil erode biology apology dice";

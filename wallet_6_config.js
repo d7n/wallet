@@ -1,1 +1,1 @@
-var mnemonic = "limb enhance finger mistake all siren party panther voice blanket region error";
+var mnemonic = "response whisper inform trap patch penalty dice utility run bottom fringe chef";

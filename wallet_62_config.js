@@ -1,1 +1,1 @@
-var mnemonic = "pigeon rubber mistake scatter glass loan congress element shiver mixture shield apple";
+var mnemonic = "adjust check sunset walnut smoke tiny grace invest snake solar scrap mule";

@@ -1,1 +1,1 @@
-var mnemonic = "six venue wish below will hobby robot guilt plug awake nerve riot";
+var mnemonic = "style dignity abuse meat agent swarm welcome decrease regular segment deliver position";

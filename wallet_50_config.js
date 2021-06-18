@@ -1,1 +1,1 @@
-var mnemonic = "menu jar brass elder endless flavor carry useful warfare ivory erode badge";
+var mnemonic = "jazz slight dawn identify behave oxygen cereal van devote length soup glance";

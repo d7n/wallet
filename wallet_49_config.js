@@ -1,1 +1,1 @@
-var mnemonic = "iron few vivid explain guess another mail crush scrap fluid miss shy";
+var mnemonic = "model husband kit sugar sight public tennis gloom include ketchup remove oak";

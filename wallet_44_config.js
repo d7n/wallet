@@ -1,1 +1,1 @@
-var mnemonic = "divorce depth kitten slim prosper pelican exhaust include artist payment art curtain";
+var mnemonic = "lemon lock frown fringe paper avoid depend board thing yard wife organ";

@@ -1,1 +1,1 @@
-var mnemonic = "budget blush ski theme soup lawn butter husband cabin spare chaos comic";
+var mnemonic = "lamp same mirror chicken because lonely segment gym swift local curve pottery";

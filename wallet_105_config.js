@@ -1,1 +1,1 @@
-var mnemonic = "ride puzzle swift divorce just patch cry envelope either jazz plug melody";
+var mnemonic = "ugly carry avocado coyote tooth winner predict pitch legend library winner parrot";

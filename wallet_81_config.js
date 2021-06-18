@@ -1,1 +1,1 @@
-var mnemonic = "link razor invest jealous release toast airport stone space turtle hungry apology";
+var mnemonic = "end cactus rice day tool sad hotel luxury whale chalk valid canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "whale crop margin give sun slow seed puzzle box volcano dolphin volcano";
+var mnemonic = "combine total umbrella play mercy knee bracket chicken final radar door behave";

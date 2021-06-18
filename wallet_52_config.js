@@ -1,1 +1,1 @@
-var mnemonic = "prepare air glare message toy idea aim congress jeans submit whisper brave";
+var mnemonic = "virtual reveal damage sort bubble lecture index width sense swim journey holiday";

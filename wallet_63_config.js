@@ -1,1 +1,1 @@
-var mnemonic = "industry tent broccoli treat palace scissors puzzle creek mimic man afraid flash";
+var mnemonic = "joke divorce rural senior equal join grid suspect frog quiz indicate priority";

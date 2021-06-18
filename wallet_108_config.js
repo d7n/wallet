@@ -1,1 +1,1 @@
-var mnemonic = "tobacco tomorrow hunt alien prison appear rain leg stem tag act border";
+var mnemonic = "window swamp quote couch hawk leisure mouse night census become amount effort";

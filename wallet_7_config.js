@@ -1,1 +1,1 @@
-var mnemonic = "grief primary unfold coil egg dinner digital famous relief crowd inspire kitten";
+var mnemonic = "better lens argue gap six illegal unveil saddle transfer lesson pole defense";

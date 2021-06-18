@@ -1,1 +1,1 @@
-var mnemonic = "pizza below proud ability fiscal include nest engage curve stomach ankle leisure";
+var mnemonic = "scheme burst raccoon transfer fetch dirt only wool cake rate surge swing";

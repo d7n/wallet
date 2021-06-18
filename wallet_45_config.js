@@ -1,1 +1,1 @@
-var mnemonic = "number ketchup duty aisle icon feed life photo sadness fine reveal chat";
+var mnemonic = "abandon true number cloud genius current cream buffalo vibrant sphere despair isolate";

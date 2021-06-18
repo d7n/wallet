@@ -1,1 +1,1 @@
-var mnemonic = "soccer ancient vague skin multiply hint also good bicycle bomb daring toward";
+var mnemonic = "judge race smile multiply unveil eager bonus snake level alien rate unfair";

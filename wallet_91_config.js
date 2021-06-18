@@ -1,1 +1,1 @@
-var mnemonic = "gossip spare use around pupil club act twin flavor satoshi short exchange";
+var mnemonic = "multiply focus miss tower mistake task arch combine burden figure grab put";

@@ -1,1 +1,1 @@
-var mnemonic = "quality try fox fit sphere bracket slot general guess into clutch can";
+var mnemonic = "work company relief salute reopen off kitten taste famous farm reason estate";

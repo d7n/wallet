@@ -1,1 +1,1 @@
-var mnemonic = "autumn bomb mushroom floor educate you symbol decorate beach price delay creek";
+var mnemonic = "often boss wreck myth couple seed entire satisfy hello maid dynamic permit";

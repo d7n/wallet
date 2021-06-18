@@ -1,1 +1,1 @@
-var mnemonic = "note two sniff soft tumble mind mesh satisfy genre burden sand kick";
+var mnemonic = "cake term ring fee damp quantum talent satoshi during palm crazy wife";

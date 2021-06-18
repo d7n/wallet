@@ -1,1 +1,1 @@
-var mnemonic = "move snap cart amused cup metal siege pizza prison ordinary phone use";
+var mnemonic = "oval future borrow fury roof install draft olympic silk panic vast silent";

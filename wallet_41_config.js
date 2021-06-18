@@ -1,1 +1,1 @@
-var mnemonic = "symbol giant segment sick example either distance often file skate announce area";
+var mnemonic = "miracle gain involve wagon sing machine you topic cool early sentence grit";

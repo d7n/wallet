@@ -1,1 +1,1 @@
-var mnemonic = "party olive glory cat shoulder divorce dog category stick arrange urban acoustic";
+var mnemonic = "head witness tower immense silver sudden food elite verify defy twelve father";

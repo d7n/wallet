@@ -1,1 +1,1 @@
-var mnemonic = "recipe expand album piano critic when brown assault eternal legal attitude inner";
+var mnemonic = "super produce paddle frame eternal once water spoon black manage vicious penalty";

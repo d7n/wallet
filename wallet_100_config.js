@@ -1,1 +1,1 @@
-var mnemonic = "begin pact wonder net void reduce theory nerve salt phrase lock zoo";
+var mnemonic = "credit twelve penalty observe gym cancel high sun over twelve until frequent";

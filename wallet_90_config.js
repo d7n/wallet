@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit page chest father flee range brother toilet frost can rude refuse";
+var mnemonic = "clog bounce crime swift pave target man slim toast peace squeeze rack";

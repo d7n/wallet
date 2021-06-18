@@ -1,1 +1,1 @@
-var mnemonic = "rubber science resemble night jazz problem leisure couple trigger detect sibling universe";
+var mnemonic = "pause network catalog slab smart need easily tribe bread gift jaguar warrior";

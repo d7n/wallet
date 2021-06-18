@@ -1,1 +1,1 @@
-var mnemonic = "bounce jump deputy hidden strike pear oppose two crumble length grass remove";
+var mnemonic = "daring invite foster innocent penalty ability vendor saddle unit domain become resist";

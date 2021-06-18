@@ -1,1 +1,1 @@
-var mnemonic = "enhance hungry virus surround digital cruel air filter divide copper already hood";
+var mnemonic = "bring degree sustain income panda remind collect hole debris chalk august river";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid cool powder twelve toilet student gold leaf write hockey accident slight";
+var mnemonic = "devote little little interest decade brass stay crucial vocal rare woman wide";

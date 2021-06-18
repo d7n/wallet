@@ -1,1 +1,1 @@
-var mnemonic = "immune moon shadow need kidney embrace acoustic axis alley fitness disagree make";
+var mnemonic = "comfort local depend boy injury usage six vicious sail crew kit soup";

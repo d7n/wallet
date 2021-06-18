@@ -1,1 +1,1 @@
-var mnemonic = "gorilla arctic despair treat limb melt nice gown food teach basket snack";
+var mnemonic = "icon outdoor green grief syrup mountain fat unfair water salmon pig accident";

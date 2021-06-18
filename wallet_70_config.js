@@ -1,1 +1,1 @@
-var mnemonic = "worry another prevent label clarify useful work echo depth intact matter gossip";
+var mnemonic = "retire banner tree hour execute obey can scrub donkey gown vicious luxury";

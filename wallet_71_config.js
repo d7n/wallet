@@ -1,1 +1,1 @@
-var mnemonic = "enough lecture middle glad combine debate sound penalty bind flower vanish nothing";
+var mnemonic = "ranch ocean exact goat deal doctor analyst excuse universe thank trend provide";

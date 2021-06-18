@@ -1,1 +1,1 @@
-var mnemonic = "fix prepare hope soda exercise fringe enjoy limb party easy appear drip";
+var mnemonic = "surround trial little balance april asset proud dizzy angle brush wire grunt";

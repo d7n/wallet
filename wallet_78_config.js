@@ -1,1 +1,1 @@
-var mnemonic = "atom letter give assault trade raccoon access crane soap amateur result today";
+var mnemonic = "opera across affair element bubble autumn obvious cost behave tiny job weapon";

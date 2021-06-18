@@ -1,1 +1,1 @@
-var mnemonic = "clinic alpha enable cupboard horn utility deal combine glass ensure attend spy";
+var mnemonic = "write fame slow wool fiber west avocado man mixed physical critic drop";

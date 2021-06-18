@@ -1,1 +1,1 @@
-var mnemonic = "public talk accuse rapid canyon whisper squirrel organ ill false blood basic";
+var mnemonic = "situate answer velvet invite memory master actual feature brown radar vicious crash";

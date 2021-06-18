@@ -1,1 +1,1 @@
-var mnemonic = "marble key frequent slush phone foot child level twist gadget half cart";
+var mnemonic = "axis riot joy ridge enlist rib fragile peasant exchange orbit setup emotion";

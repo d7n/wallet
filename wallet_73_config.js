@@ -1,1 +1,1 @@
-var mnemonic = "sleep charge slush ladder regret civil mutual vote peasant cloth boil tribe";
+var mnemonic = "toilet ride flavor behind explain chronic expect afraid quantum kite violin bar";

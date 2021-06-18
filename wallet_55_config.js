@@ -1,1 +1,1 @@
-var mnemonic = "snow ivory radar grunt picture message glimpse away local barrel fame genre";
+var mnemonic = "future program nice breeze sunny exercise another sunset what churn vintage special";

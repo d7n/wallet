@@ -1,1 +1,1 @@
-var mnemonic = "amateur nothing already print layer clever absurd gather review hip sport hole";
+var mnemonic = "monster mammal zoo buzz poverty antenna misery leaf live merry document put";

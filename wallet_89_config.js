@@ -1,1 +1,1 @@
-var mnemonic = "cigar bulb fan select panther history shift bleak base jeans cat fantasy";
+var mnemonic = "crane attend verb chalk parrot patrol subject nephew enjoy resource convince anger";

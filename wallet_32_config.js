@@ -1,1 +1,1 @@
-var mnemonic = "wisdom mean turn bulk prefer north gather glory few wagon tissue square";
+var mnemonic = "fitness ask human resist supreme legal cattle merge custom quote globe chicken";

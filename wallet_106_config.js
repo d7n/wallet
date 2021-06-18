@@ -1,1 +1,1 @@
-var mnemonic = "explain nature grace valve knock nation lawsuit consider buddy glove produce spy";
+var mnemonic = "rural ivory other wet aware follow copper sponsor feed entire update attract";

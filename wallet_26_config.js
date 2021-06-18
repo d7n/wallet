@@ -1,1 +1,1 @@
-var mnemonic = "call chronic ocean sphere demand bar tribe flat festival south online rice";
+var mnemonic = "match nasty skin maple various rather credit siege unfair expand bamboo major";

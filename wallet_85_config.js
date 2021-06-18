@@ -1,1 +1,1 @@
-var mnemonic = "dust wash today crash draw same flight emotion balcony quote barrel there";
+var mnemonic = "razor jump impact island raise cruel drill valve melt mail weapon wage";

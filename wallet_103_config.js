@@ -1,1 +1,1 @@
-var mnemonic = "cable pelican symbol series coyote weekend decade lottery hard shock army tunnel";
+var mnemonic = "fold orange metal vault silent thumb raise spray series nasty margin candy";

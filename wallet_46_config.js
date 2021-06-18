@@ -1,1 +1,1 @@
-var mnemonic = "position vessel nation entire lunch armed print shoot wing bronze opera company";
+var mnemonic = "attack grief rebuild good feature inject method mistake siege stand rocket absent";

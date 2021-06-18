@@ -1,1 +1,1 @@
-var mnemonic = "window wide across engage aspect scissors impact color economy volcano history delay";
+var mnemonic = "sand panic exist forum finger waste drop medal fame depend verb way";

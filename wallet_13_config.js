@@ -1,1 +1,1 @@
-var mnemonic = "era way burden clever enforce volcano clerk city fan whip rely endless";
+var mnemonic = "give vintage lucky walk prize gate unlock belt soul bread gold such";

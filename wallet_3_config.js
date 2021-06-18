@@ -1,1 +1,1 @@
-var mnemonic = "orchard pink material young oppose south crop stove whale silk over upset";
+var mnemonic = "dune spot hint income scrap onion festival tuition athlete opinion vacuum patrol";

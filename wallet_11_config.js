@@ -1,1 +1,1 @@
-var mnemonic = "dutch shove where innocent twelve either over tackle spin combine model matter";
+var mnemonic = "gloom day brief cherry glimpse emerge neck rally man crop worth account";

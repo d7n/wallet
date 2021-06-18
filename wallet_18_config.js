@@ -1,1 +1,1 @@
-var mnemonic = "legend ability cool jaguar glance marine bargain figure rural harbor champion dirt";
+var mnemonic = "crouch oblige junk orbit office shrimp tired behave useless right warfare grape";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve sport pottery slush habit actor toss brush nation skull various piano";
+var mnemonic = "naive valid imitate explain trip fruit silk hotel trumpet cactus radio day";

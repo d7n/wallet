@@ -1,1 +1,1 @@
-var mnemonic = "toy rule output divorce cube wrong squeeze soul senior kiwi network raven";
+var mnemonic = "switch drift slender business salmon echo venture game you design animal suit";

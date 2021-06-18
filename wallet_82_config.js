@@ -1,1 +1,1 @@
-var mnemonic = "memory affair cube seven base scheme own about cattle web panel attitude";
+var mnemonic = "where dismiss copy daughter differ ball talk ivory afford finish famous great";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder auction unique crazy table music master movie casual decrease inspire final";
+var mnemonic = "usual spring agent slim tenant two evoke glare oil flower process uphold";

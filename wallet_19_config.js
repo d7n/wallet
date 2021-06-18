@@ -1,1 +1,1 @@
-var mnemonic = "begin strike broccoli butter hawk fall earn appear grow boring traffic shell";
+var mnemonic = "reflect what pattern style pony stem guard today iron tray enter plug";

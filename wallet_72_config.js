@@ -1,1 +1,1 @@
-var mnemonic = "unknown maze meat hover dash inform monitor stairs head wage sibling phone";
+var mnemonic = "broccoli cabbage such ghost strategy purpose infant gadget voyage imitate reason ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "pride express nut foot weather night short rain dilemma coyote dirt million";
+var mnemonic = "pizza lizard wise squirrel twin plunge inhale fat stage curious present mouse";

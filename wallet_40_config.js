@@ -1,1 +1,1 @@
-var mnemonic = "air until peace survey flower project climb wrist bag pen height cross";
+var mnemonic = "merry liquid trouble witness virtual invite ranch absorb brush gauge debris nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse shaft taxi peasant inside movie tragic diagram phrase liquid feel reform";
+var mnemonic = "tail shift daughter yard hip cancel exchange entry naive aware bulb royal";

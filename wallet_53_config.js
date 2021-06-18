@@ -1,1 +1,1 @@
-var mnemonic = "slot consider hood foam mushroom please avocado arctic demand inspire private whale";
+var mnemonic = "success blanket addict burger indicate roof pave throw bleak inherit embrace citizen";

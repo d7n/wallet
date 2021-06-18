@@ -1,1 +1,1 @@
-var mnemonic = "mix able label glory diesel hurry space marine spot adult shoulder fault";
+var mnemonic = "mystery riot noise lion brand response boy lecture company lizard elite logic";

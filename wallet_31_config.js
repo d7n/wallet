@@ -1,1 +1,1 @@
-var mnemonic = "message dream cruel little arch glare onion pilot slim dream topic tell";
+var mnemonic = "educate captain canal pole voyage trap gallery abstract often wink correct mix";

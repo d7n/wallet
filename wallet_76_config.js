@@ -1,1 +1,1 @@
-var mnemonic = "child bonus face dignity aspect general hero border foot cannon mimic bread";
+var mnemonic = "defense output winter exact alarm also regular zoo potato fee load illegal";

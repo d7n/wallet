@@ -1,1 +1,1 @@
-var mnemonic = "taste target lounge sausage small sunset into merry animal curve figure wealth";
+var mnemonic = "index fee squeeze match empty blame virtual bacon endless sleep exhaust teach";

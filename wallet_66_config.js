@@ -1,1 +1,1 @@
-var mnemonic = "fork frozen sort ritual valid jeans already toe fly focus cabin budget";
+var mnemonic = "measure grunt okay fringe attack smile budget valid report achieve club entry";

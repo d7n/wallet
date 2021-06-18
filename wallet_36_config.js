@@ -1,1 +1,1 @@
-var mnemonic = "course fog learn match gym you jewel domain hope panther sunny super";
+var mnemonic = "inflict nurse put weekend seek senior marine give dream camera discover thought";

@@ -1,1 +1,1 @@
-var mnemonic = "monster exercise window hurry erosion pride later square slight kiwi galaxy glove";
+var mnemonic = "cover reflect imitate actor discover answer burden exchange copper road kiwi castle";

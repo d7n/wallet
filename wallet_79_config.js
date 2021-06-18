@@ -1,1 +1,1 @@
-var mnemonic = "audit chief deputy mango suffer gate blanket demand bring echo oxygen move";
+var mnemonic = "sniff chef genre crumble two shock staff sketch noble essence domain antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "layer crash nurse clinic key reunion fork trouble right minimum scheme choose";
+var mnemonic = "mountain chuckle obey call sort tube eye fuel betray female air invest";

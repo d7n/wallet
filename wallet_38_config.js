@@ -1,1 +1,1 @@
-var mnemonic = "argue wall sauce panel copper retreat design release acquire exclude viable neither";
+var mnemonic = "cloth puppy sudden hurt lava swamp abandon require reason pelican fish life";

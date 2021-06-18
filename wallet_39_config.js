@@ -1,1 +1,1 @@
-var mnemonic = "derive idle basic stock matrix zebra fork canal festival nation empty vague";
+var mnemonic = "neglect squirrel vehicle erode defy expand mass olive alert stereo category swear";
