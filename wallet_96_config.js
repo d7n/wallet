@@ -1,1 +1,1 @@
-var mnemonic = "media plate broccoli atom slot eager label notable cereal plastic frown sea";
+var mnemonic = "fork ankle pioneer invite suit atom like bench minute label kitten cliff";

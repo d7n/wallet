@@ -1,1 +1,1 @@
-var mnemonic = "news combine reflect artefact race steel general month daughter goddess dolphin similar";
+var mnemonic = "seed human genre strong domain sunny zebra tiny bleak moon fog guilt";

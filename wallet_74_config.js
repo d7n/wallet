@@ -1,1 +1,1 @@
-var mnemonic = "nerve exist flag paper coral someone phone tape illegal desk candy equal";
+var mnemonic = "carbon firm illegal degree used margin raise dad envelope glance same six";

@@ -1,1 +1,1 @@
-var mnemonic = "smile badge estate pet slim betray country wine shoe addict float empower";
+var mnemonic = "reunion narrow avocado caution bitter riot window pig life session short wall";

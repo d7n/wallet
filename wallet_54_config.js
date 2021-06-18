@@ -1,1 +1,1 @@
-var mnemonic = "trick bread apple judge tape duck soon certain question negative trigger ketchup";
+var mnemonic = "glue success purse example topic black cat movie exercise real goose chimney";

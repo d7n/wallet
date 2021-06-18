@@ -1,1 +1,1 @@
-var mnemonic = "suspect solid capable angle page symbol adult alley derive way trick salmon";
+var mnemonic = "plug split pluck sudden case bar exact tenant battle pulp fantasy lesson";

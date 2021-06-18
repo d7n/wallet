@@ -1,1 +1,1 @@
-var mnemonic = "present approve canvas world farm pitch domain build include boat donkey lazy";
+var mnemonic = "fix afraid vehicle object outside fitness scout output hundred hair gift grit";

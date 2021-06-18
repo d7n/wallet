@@ -1,1 +1,1 @@
-var mnemonic = "punch stable toilet hundred own end whip merry pitch wheat ripple fire";
+var mnemonic = "shine coconut potato olympic cross crash school bar expand task argue climb";

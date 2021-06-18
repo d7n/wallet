@@ -1,1 +1,1 @@
-var mnemonic = "fragile orchard category lecture metal boost obscure rebuild fragile deliver remove burden";
+var mnemonic = "crucial faint puzzle tiny attract select crime road brisk liquid like harvest";

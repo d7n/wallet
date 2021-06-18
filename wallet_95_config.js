@@ -1,1 +1,1 @@
-var mnemonic = "share spike basic employ machine pact tissue wonder pond song marble regular";
+var mnemonic = "save umbrella order zone embrace aware ecology cause assume brain decide margin";

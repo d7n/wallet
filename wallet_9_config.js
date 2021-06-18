@@ -1,1 +1,1 @@
-var mnemonic = "rain source color pull welcome interest hollow negative seat anger vibrant word";
+var mnemonic = "ladder verb brave broom honey world awake depth raven rice labor awake";

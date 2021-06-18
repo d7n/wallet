@@ -1,1 +1,1 @@
-var mnemonic = "public case oven spell advice solve love lava foster clay feel hedgehog";
+var mnemonic = "brush leave task timber minor orchard library model joke venture hotel visit";

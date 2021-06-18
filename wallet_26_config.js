@@ -1,1 +1,1 @@
-var mnemonic = "unfair hurt toddler path industry occur atom valley keep dilemma laundry dismiss";
+var mnemonic = "wait divert puzzle park endorse hen category museum wool sentence mention switch";

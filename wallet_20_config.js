@@ -1,1 +1,1 @@
-var mnemonic = "elevator govern seat just aisle van title toddler load menu mystery teach";
+var mnemonic = "practice hurry aim busy orchard notice document dinner wrist rhythm cake antique";

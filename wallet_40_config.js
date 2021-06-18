@@ -1,1 +1,1 @@
-var mnemonic = "demise false hazard embark have congress drastic episode machine critic size oval";
+var mnemonic = "buyer letter guard hundred almost chuckle hire pear vendor husband paddle bullet";

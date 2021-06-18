@@ -1,1 +1,1 @@
-var mnemonic = "right corn curtain donate weather cover spoon evolve enjoy cloud tide erode";
+var mnemonic = "actor fly aerobic infant tattoo purity age canvas medal honey wife grow";

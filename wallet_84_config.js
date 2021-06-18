@@ -1,1 +1,1 @@
-var mnemonic = "deer two marriage charge decorate denial inhale hero sight differ pistol mass";
+var mnemonic = "gas emerge purity knock ostrich adapt wrap left snap absorb fat diagram";

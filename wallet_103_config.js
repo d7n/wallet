@@ -1,1 +1,1 @@
-var mnemonic = "stone globe juice degree start punch badge split theory hybrid cook traffic";
+var mnemonic = "bone script skirt sea beauty digital humor emotion oppose name table ladder";

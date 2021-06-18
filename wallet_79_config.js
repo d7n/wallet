@@ -1,1 +1,1 @@
-var mnemonic = "render boil magnet limb grab rigid kingdom bulb faint marble island chimney";
+var mnemonic = "derive issue cruise goose cave verb lock pencil candy sadness talent pencil";

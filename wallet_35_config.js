@@ -1,1 +1,1 @@
-var mnemonic = "lounge book crew able protect slide peasant purse consider banner source fun";
+var mnemonic = "charge legal someone defy kick satisfy curtain orbit title scare doctor oil";

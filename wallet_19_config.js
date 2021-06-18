@@ -1,1 +1,1 @@
-var mnemonic = "scissors brother adult side rely occur regret error wrist sunset bundle genre";
+var mnemonic = "congress raven stick main repair panel print catch kitchen mistake subway inherit";

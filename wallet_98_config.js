@@ -1,1 +1,1 @@
-var mnemonic = "conduct winner subway tackle rack disagree enroll frozen remember popular trim inmate";
+var mnemonic = "cigar domain current wolf wild tape omit stay water happy report flush";

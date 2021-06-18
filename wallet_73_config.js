@@ -1,1 +1,1 @@
-var mnemonic = "scan prize gallery human survey must vote perfect patch main chapter office";
+var mnemonic = "denial wood until brand review raise copper seven cherry action shrimp pattern";

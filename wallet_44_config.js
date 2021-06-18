@@ -1,1 +1,1 @@
-var mnemonic = "option reduce unique mansion bean print rotate smooth rebel warm add feed";
+var mnemonic = "seven source ghost pig skill tortoise day lemon vacuum false reject liar";

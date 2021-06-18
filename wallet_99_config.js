@@ -1,1 +1,1 @@
-var mnemonic = "stomach neglect minimum excuse hollow cruise long amazing print olympic melt detect";
+var mnemonic = "pottery hotel bird tone eye fold quote various daring welcome suffer modify";

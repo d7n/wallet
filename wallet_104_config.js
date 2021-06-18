@@ -1,1 +1,1 @@
-var mnemonic = "royal know pitch wine doctor tell near urge wage betray potato someone";
+var mnemonic = "mammal federal venture ball this blanket name neck sentence warm metal hurry";

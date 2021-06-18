@@ -1,1 +1,1 @@
-var mnemonic = "earth language hill bitter pencil million decline keen drama source thank rocket";
+var mnemonic = "ripple actor garage ship pear jump enact bulb gym fade reason section";

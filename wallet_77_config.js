@@ -1,1 +1,1 @@
-var mnemonic = "word chapter argue caught machine flower spike pear dish meadow blast anchor";
+var mnemonic = "million salad record smart physical marble alley jump warm idea long umbrella";

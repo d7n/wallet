@@ -1,1 +1,1 @@
-var mnemonic = "fun trumpet onion blind keen three cliff humor reform scale grunt genius";
+var mnemonic = "scale image rival cross odor ocean install door advance segment shine era";

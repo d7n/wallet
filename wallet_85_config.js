@@ -1,1 +1,1 @@
-var mnemonic = "shine keen remain meadow exotic ready when abuse olive charge dune ginger";
+var mnemonic = "top enemy sport erosion visit flat monkey match project pond leave hotel";

@@ -1,1 +1,1 @@
-var mnemonic = "tell rubber barely risk hour wage wave eyebrow shove robust sunset faint";
+var mnemonic = "memory eager sense notice trophy sibling choice sand organ learn advice eternal";

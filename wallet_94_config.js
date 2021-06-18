@@ -1,1 +1,1 @@
-var mnemonic = "minute luxury material depart gown cake visa slab tragic skin simple all";
+var mnemonic = "pluck faith century argue shadow drastic meadow stumble scout praise afford lake";

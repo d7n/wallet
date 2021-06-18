@@ -1,1 +1,1 @@
-var mnemonic = "video enable fee more gravity topple student damage hollow harvest allow scan";
+var mnemonic = "unknown garlic rain canoe gain chronic sheriff noise goddess ring genius end";

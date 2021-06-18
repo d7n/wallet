@@ -1,1 +1,1 @@
-var mnemonic = "fly female own alone hurt detail physical virtual vapor airport alarm pumpkin";
+var mnemonic = "element soda custom stem ugly promote garden huge ranch shift caught hip";

@@ -1,1 +1,1 @@
-var mnemonic = "mention water entry urge plug giant annual jazz swarm pipe canvas recall";
+var mnemonic = "patch theory pink empower omit kind simple deliver behind east tobacco turkey";

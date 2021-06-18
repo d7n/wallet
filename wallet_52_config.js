@@ -1,1 +1,1 @@
-var mnemonic = "club acid turn math fix series sort outdoor humor van plate motor";
+var mnemonic = "much good salt winter ladder sustain section deputy orange decade fuel squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely home mushroom citizen certain load riot mirror rice wink need bulb";
+var mnemonic = "erase blossom wedding illegal main budget discover verify impulse tongue gossip hurry";

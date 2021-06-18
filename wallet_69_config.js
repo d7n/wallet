@@ -1,1 +1,1 @@
-var mnemonic = "catch subway write attitude nature chief era project vault clarify embrace trouble";
+var mnemonic = "garage enable square miss expand venue under absent enrich horror critic when";

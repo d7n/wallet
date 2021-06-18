@@ -1,1 +1,1 @@
-var mnemonic = "curve gadget dog time suggest submit valley model curtain mistake hire plug";
+var mnemonic = "acquire pulp loan canyon ghost neither shrug option fog unlock bus struggle";

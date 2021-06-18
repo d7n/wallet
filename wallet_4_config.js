@@ -1,1 +1,1 @@
-var mnemonic = "cereal leave load leave popular shiver twelve safe sunny debris neck organ";
+var mnemonic = "stadium stand certain ability fruit cave imitate puzzle era plunge tongue ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "survey move mandate glance often street fatigue deny morning wedding screen acquire";
+var mnemonic = "weather win frame actual thank leopard offer feel average silk physical bag";

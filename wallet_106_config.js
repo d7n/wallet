@@ -1,1 +1,1 @@
-var mnemonic = "chronic movie antenna black often side silver essay twenty umbrella intact machine";
+var mnemonic = "glare august genuine valve trend volume shoe end little robot model laundry";

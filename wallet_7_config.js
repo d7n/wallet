@@ -1,1 +1,1 @@
-var mnemonic = "trade act find faculty leave capable primary main sphere claw twin adult";
+var mnemonic = "wide unfold armed alley disease model remind jewel obvious spray hunt lobster";

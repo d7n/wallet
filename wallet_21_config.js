@@ -1,1 +1,1 @@
-var mnemonic = "dynamic village rather frozen artist mixture sight other valid road gold violin";
+var mnemonic = "chicken wear verify visit high buzz grow stable camp planet affair radar";

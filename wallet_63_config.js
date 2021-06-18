@@ -1,1 +1,1 @@
-var mnemonic = "matrix regret service decrease truth route please ritual truck smart aware profit";
+var mnemonic = "sport middle crumble dice inhale filter sound august puppy family palm battle";

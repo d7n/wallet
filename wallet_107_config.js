@@ -1,1 +1,1 @@
-var mnemonic = "snack vessel follow remain pulse bicycle clog magnet art exit bubble yard";
+var mnemonic = "leopard bounce text document tag sort cloud glass spy erode paper ginger";

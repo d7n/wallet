@@ -1,1 +1,1 @@
-var mnemonic = "slab similar evolve ghost pistol galaxy ecology better damage foster vast avoid";
+var mnemonic = "opera secret fish question custom price among pumpkin exhaust fine olympic whip";

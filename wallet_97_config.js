@@ -1,1 +1,1 @@
-var mnemonic = "used eight detect program guard coral misery slush embark excuse chaos news";
+var mnemonic = "nut wink planet garden phone garbage vanish anger gap rather picnic merit";

@@ -1,1 +1,1 @@
-var mnemonic = "razor artefact pool napkin embark fantasy hat bright crime submit drive stem";
+var mnemonic = "zebra grief enlist prison thrive minimum exit hidden leisure fetch gasp budget";

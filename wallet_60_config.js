@@ -1,1 +1,1 @@
-var mnemonic = "ripple display cloth poem jealous dumb endorse prosper pen monkey inflict visa";
+var mnemonic = "tide clarify love huge describe trumpet desk cruel behind crew silk caught";

@@ -1,1 +1,1 @@
-var mnemonic = "daring wisdom account rely sing palace cover security divert sugar thumb ship";
+var mnemonic = "curve grit slight rate menu panda pass illegal uncle menu shield wing";

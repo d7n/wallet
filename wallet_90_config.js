@@ -1,1 +1,1 @@
-var mnemonic = "tag festival hundred guide wink bachelor spider idle surge swamp language feel";
+var mnemonic = "dirt thank hundred rare exchange connect road volume scatter across illness gap";

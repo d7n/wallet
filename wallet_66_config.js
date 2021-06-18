@@ -1,1 +1,1 @@
-var mnemonic = "coast antenna furnace notice practice describe mango purchase spray crush love gossip";
+var mnemonic = "broccoli nut good organ expect decorate into base click bundle kick south";

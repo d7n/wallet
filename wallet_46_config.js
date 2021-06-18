@@ -1,1 +1,1 @@
-var mnemonic = "miss render sweet lonely crowd edge history reduce near fatigue foam pizza";
+var mnemonic = "nasty can accuse snake emotion hint exact suggest short quarter region know";

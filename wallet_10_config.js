@@ -1,1 +1,1 @@
-var mnemonic = "viable dwarf flight tool agree problem mask artefact spin tent tail unfold";
+var mnemonic = "stadium ship prison atom pond matrix avocado bring reveal outer any final";

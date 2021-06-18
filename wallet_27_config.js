@@ -1,1 +1,1 @@
-var mnemonic = "night cereal gauge laundry enroll creek scout wrong leaf ignore team wash";
+var mnemonic = "person sock canoe little system reflect sand collect august defy unhappy monkey";

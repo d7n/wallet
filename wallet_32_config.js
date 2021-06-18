@@ -1,1 +1,1 @@
-var mnemonic = "screen penalty truck scrap industry shaft december dinner excite settle area birth";
+var mnemonic = "cause parent earth negative raw timber throw width defy hunt lift race";

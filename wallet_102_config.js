@@ -1,1 +1,1 @@
-var mnemonic = "parade vintage arch chat lens master trigger derive shallow derive duck palace";
+var mnemonic = "girl calm lyrics muffin skirt end million depend odor reunion order soda";

@@ -1,1 +1,1 @@
-var mnemonic = "quality elephant cabin river inspire suit fever family between fury maple glad";
+var mnemonic = "frequent atom sting warfare erase bright matrix matrix inherit park mansion badge";

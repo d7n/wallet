@@ -1,1 +1,1 @@
-var mnemonic = "volume actor pill enact mirror cheap citizen jump mule barrel suffer giggle";
+var mnemonic = "guard wrong actor mix chronic elbow token twice tumble aisle city pulp";

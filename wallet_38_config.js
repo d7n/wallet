@@ -1,1 +1,1 @@
-var mnemonic = "economy toddler asthma evolve pet bunker purse olympic there burger detail parrot";
+var mnemonic = "until solution drum garment orphan relief display direct concert panel debate window";

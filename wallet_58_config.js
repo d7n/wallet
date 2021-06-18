@@ -1,1 +1,1 @@
-var mnemonic = "lake oxygen interest tilt prison income kite number rare clutch crater custom";
+var mnemonic = "wild bamboo universe awake buddy lamp unique purity brass force biology lumber";

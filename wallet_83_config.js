@@ -1,1 +1,1 @@
-var mnemonic = "color similar crater seat pink embark divorce hotel loyal apology soft sunny";
+var mnemonic = "donor fury labor table steel almost wine museum lab jeans timber cat";

@@ -1,1 +1,1 @@
-var mnemonic = "square divorce decorate cluster notable saddle consider unfair credit tilt hour silver";
+var mnemonic = "jaguar flag reveal fork abstract quantum maid journey victory wet estate must";

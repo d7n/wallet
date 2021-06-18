@@ -1,1 +1,1 @@
-var mnemonic = "cupboard deliver crucial long become case car similar absorb fiction yard charge";
+var mnemonic = "opera tongue deal quick dose silver size frog loop ill visit bench";

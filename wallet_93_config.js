@@ -1,1 +1,1 @@
-var mnemonic = "slow cherry biology drastic nephew athlete gentle shift exact eager hill bird";
+var mnemonic = "faint cook foot uncover spirit point zebra sick photo still cable seminar";

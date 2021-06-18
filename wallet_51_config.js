@@ -1,1 +1,1 @@
-var mnemonic = "fortune length mango color orient kitten jealous crazy shrug dynamic between pyramid";
+var mnemonic = "arch vapor process thank junk only now man slide kitchen negative zero";

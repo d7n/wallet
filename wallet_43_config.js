@@ -1,1 +1,1 @@
-var mnemonic = "aspect main trap empower carbon goddess spice van airport cart biology keep";
+var mnemonic = "eagle dawn fancy shuffle veteran paper yard merge love enact annual between";

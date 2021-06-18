@@ -1,1 +1,1 @@
-var mnemonic = "discover sail soccer away stock mango right mixed filter game alien visit";
+var mnemonic = "key visual vault benefit amateur travel social panda knock advance lend dizzy";

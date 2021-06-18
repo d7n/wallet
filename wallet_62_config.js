@@ -1,1 +1,1 @@
-var mnemonic = "inspire round goose oil unlock evolve parade diary cart stomach praise forest";
+var mnemonic = "dash repair menu divide tennis fatal half wheel alley man wheel canvas";

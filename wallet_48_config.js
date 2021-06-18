@@ -1,1 +1,1 @@
-var mnemonic = "wear toy total harbor indoor peasant snap coil eternal luxury broccoli slush";
+var mnemonic = "file spy upset miss artefact enable excite ahead wall smoke child farm";

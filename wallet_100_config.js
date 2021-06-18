@@ -1,1 +1,1 @@
-var mnemonic = "frown siren sentence father play square regret margin match start slim pupil";
+var mnemonic = "one kangaroo pet double room dress undo nation bitter hold soup attack";

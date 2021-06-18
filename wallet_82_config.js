@@ -1,1 +1,1 @@
-var mnemonic = "chunk file cool quick produce day laugh coral include tornado cactus obscure";
+var mnemonic = "common dinosaur relief gauge cherry average debris accident balance enjoy describe fabric";

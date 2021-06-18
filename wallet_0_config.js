@@ -1,1 +1,1 @@
-var mnemonic = "scrap pony please night ship dragon style young quality video equip collect";
+var mnemonic = "drastic crack gasp boost gossip ice silly patient abandon can curtain august";

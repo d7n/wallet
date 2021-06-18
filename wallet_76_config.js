@@ -1,1 +1,1 @@
-var mnemonic = "trip awkward fish august road one bulb ski found unusual label tag";
+var mnemonic = "vintage wreck denial settle lonely damage pig soon disorder luggage latin unique";

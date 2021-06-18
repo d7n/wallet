@@ -1,1 +1,1 @@
-var mnemonic = "tomato travel flee usage combine spirit until vocal banana welcome rule cricket";
+var mnemonic = "farm bulk strike hair gloom clay long head faint sheriff pelican found";

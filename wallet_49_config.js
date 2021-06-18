@@ -1,1 +1,1 @@
-var mnemonic = "celery also jump vacuum wall member shaft relief abandon mimic patch quarter";
+var mnemonic = "tool ranch treat train fragile news taxi either immense air provide island";

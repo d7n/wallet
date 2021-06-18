@@ -1,1 +1,1 @@
-var mnemonic = "gift end advice evil rough shy sauce trip sun swamp swap useful";
+var mnemonic = "month inmate toast seminar please camera nation left negative already rhythm solid";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow alarm predict frequent artwork chef title love write arrow silver jump";
+var mnemonic = "post attract blade addict flavor path quarter solar dynamic spawn panther test";

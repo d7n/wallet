@@ -1,1 +1,1 @@
-var mnemonic = "fade unhappy fiber author execute page settle saddle breeze gaze that magic";
+var mnemonic = "chief else swallow reunion gorilla humor talent carbon popular devote smart recipe";

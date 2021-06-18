@@ -1,1 +1,1 @@
-var mnemonic = "spell barrel open never fringe settle wage text people wing quantum hope";
+var mnemonic = "radar sock raise length skirt arrange pilot increase valley rule lecture speed";

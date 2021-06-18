@@ -1,1 +1,1 @@
-var mnemonic = "lazy final worry lobster fruit awesome margin trust other raven reject lyrics";
+var mnemonic = "card sauce else labor motor garden fit reform cruel catch grape silent";

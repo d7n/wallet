@@ -1,1 +1,1 @@
-var mnemonic = "oven ship spoil evoke drive model mobile title found twin decorate outer";
+var mnemonic = "credit myth mosquito just loop social isolate analyst flip outer vacant cousin";

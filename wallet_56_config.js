@@ -1,1 +1,1 @@
-var mnemonic = "fury palace develop have dolphin unhappy stem spawn special only argue nothing";
+var mnemonic = "cook shock hurt embark seven people gap life clay enrich profit reopen";

@@ -1,1 +1,1 @@
-var mnemonic = "rent extend tell duty immense argue vibrant hole blame portion pave father";
+var mnemonic = "cricket walk oppose orbit math column busy blouse again unknown fuel stock";

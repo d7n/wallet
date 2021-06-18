@@ -1,1 +1,1 @@
-var mnemonic = "seed search blanket scale tired athlete digital extend jacket ocean stand silk";
+var mnemonic = "stone tonight swap suit mix movie tooth husband magic design slender auto";

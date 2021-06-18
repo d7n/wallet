@@ -1,1 +1,1 @@
-var mnemonic = "local census undo alien powder chronic abstract drum genre cool seed slot";
+var mnemonic = "casino cup field patient supreme record hire claw cross special spring vocal";
