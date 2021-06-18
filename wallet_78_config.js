@@ -1,1 +1,1 @@
-var mnemonic = "letter toast execute poet trip nose road auction country tiger large tape";
+var mnemonic = "ten youth amused mixture calm tired height oval marriage polar regret hub";

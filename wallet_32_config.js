@@ -1,1 +1,1 @@
-var mnemonic = "spare despair matter home chunk grief stone pizza unhappy elder ladder tone";
+var mnemonic = "strategy enlist average face snake old sauce future monitor picnic bargain cinnamon";

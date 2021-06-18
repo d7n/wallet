@@ -1,1 +1,1 @@
-var mnemonic = "educate hazard sick genre abuse menu lyrics misery exclude number front jump";
+var mnemonic = "deputy good weird sound pony piece castle window first theme brass push";

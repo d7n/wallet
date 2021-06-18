@@ -1,1 +1,1 @@
-var mnemonic = "kiss path tower shove awkward sample foot front foster milk case resist";
+var mnemonic = "woman bid enemy town cloth runway barely favorite eight cart urban scrub";

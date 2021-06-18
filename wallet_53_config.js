@@ -1,1 +1,1 @@
-var mnemonic = "access pair crucial vocal cable broccoli crisp real square alpha frost heavy";
+var mnemonic = "animal inmate tobacco axis myth toy gravity hobby crouch size express pair";

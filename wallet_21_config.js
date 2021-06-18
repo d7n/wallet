@@ -1,1 +1,1 @@
-var mnemonic = "shop pause inner domain cruise rich song fog bless picture tool velvet";
+var mnemonic = "culture edit humor remind aspect bronze venture shrimp stay notable true carry";

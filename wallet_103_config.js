@@ -1,1 +1,1 @@
-var mnemonic = "slab exhibit advance panda admit senior ketchup hope angry pact over sock";
+var mnemonic = "situate recipe rapid notice arctic wash era drastic gauge decide disagree annual";

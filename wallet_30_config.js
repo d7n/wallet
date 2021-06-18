@@ -1,1 +1,1 @@
-var mnemonic = "current mandate olive kingdom fault symptom visa wealth devote net come senior";
+var mnemonic = "network nature drift gather amount subject tunnel release left jealous nose sure";

@@ -1,1 +1,1 @@
-var mnemonic = "license cup also wine fee hockey evil sketch harbor blame dad brush";
+var mnemonic = "yard castle profit emotion poverty quiz crowd report access dream detect common";

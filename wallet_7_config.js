@@ -1,1 +1,1 @@
-var mnemonic = "toddler later away design say noble divorce knife grass skin chest fatigue";
+var mnemonic = "eyebrow critic bracket young matrix carbon brother cabin asset walk enrich animal";

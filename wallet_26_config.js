@@ -1,1 +1,1 @@
-var mnemonic = "unusual inch canoe clog voice obvious original shrimp two middle wife foot";
+var mnemonic = "speed fashion stable season flight eight toddler bid bacon sibling topple choice";

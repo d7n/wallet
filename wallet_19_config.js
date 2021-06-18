@@ -1,1 +1,1 @@
-var mnemonic = "spray update purchase this outer cook goat benefit afford crash seek flavor";
+var mnemonic = "oval blouse impulse eagle shed police neutral damp shaft pass resemble unfair";

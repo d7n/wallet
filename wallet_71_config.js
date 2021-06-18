@@ -1,1 +1,1 @@
-var mnemonic = "aim island mystery amount emotion minute denial ticket jungle sea easily weekend";
+var mnemonic = "mix right drift extra wrist monster decline shrug job bacon deny ghost";

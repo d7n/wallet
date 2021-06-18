@@ -1,1 +1,1 @@
-var mnemonic = "panther exercise mention seminar intact inquiry express crawl unlock odor kid want";
+var mnemonic = "helmet faith please over city result input civil vessel beef gun save";

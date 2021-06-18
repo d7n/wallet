@@ -1,1 +1,1 @@
-var mnemonic = "vague frown airport enact report jump door fragile deal always music glad";
+var mnemonic = "goddess all mixed wrist second sentence supply net merge valve invite crisp";

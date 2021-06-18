@@ -1,1 +1,1 @@
-var mnemonic = "catch soap oval cup brown spring inquiry chunk sound odor act vague";
+var mnemonic = "crater genius crumble fine follow cram gorilla almost monitor shoot cat please";

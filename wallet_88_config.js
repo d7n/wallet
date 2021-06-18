@@ -1,1 +1,1 @@
-var mnemonic = "key assist resemble put female life horse cube damage heart dash twelve";
+var mnemonic = "omit shiver switch tennis donor maze denial six execute swamp panther wish";

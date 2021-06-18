@@ -1,1 +1,1 @@
-var mnemonic = "midnight mechanic trim mass tell monkey snake arrest mechanic special coffee cloth";
+var mnemonic = "chicken render know assist mesh day advice someone fuel amazing skin below";

@@ -1,1 +1,1 @@
-var mnemonic = "siren rapid credit initial stamp bright waste alone year enter credit increase";
+var mnemonic = "dish inject occur tuition tissue state myself learn fitness type auto essence";

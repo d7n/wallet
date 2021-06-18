@@ -1,1 +1,1 @@
-var mnemonic = "buffalo note ski used coral shove view hungry lucky burger taste daring";
+var mnemonic = "soldier because opera skull toilet scan ostrich gadget pizza hybrid latin absorb";

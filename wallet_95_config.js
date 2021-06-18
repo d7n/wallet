@@ -1,1 +1,1 @@
-var mnemonic = "genuine wage better plate cake siege pottery inform simple rain love casual";
+var mnemonic = "humor soft then video old joy nurse hold wear ticket fluid text";

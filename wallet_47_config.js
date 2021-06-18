@@ -1,1 +1,1 @@
-var mnemonic = "plate edit armed soon flush blade rule husband demise elevator tree reflect";
+var mnemonic = "stock large slush steak attend once faculty someone normal chief piece pipe";

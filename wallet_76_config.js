@@ -1,1 +1,1 @@
-var mnemonic = "drop column lift slender invite cliff cushion soccer raise ability wisdom vicious";
+var mnemonic = "scheme hedgehog girl cake equal blame tobacco total under satisfy chronic zebra";

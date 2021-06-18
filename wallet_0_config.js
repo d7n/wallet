@@ -1,1 +1,1 @@
-var mnemonic = "letter slot expire rice join warrior february marine elbow very draft allow";
+var mnemonic = "process enlist happy room world fantasy north valve spin stumble post damp";

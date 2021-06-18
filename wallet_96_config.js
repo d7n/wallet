@@ -1,1 +1,1 @@
-var mnemonic = "slogan sister minute truly desert element fire they when nurse must useful";
+var mnemonic = "income social hard gesture range lunch sail utility client cheese flight alarm";

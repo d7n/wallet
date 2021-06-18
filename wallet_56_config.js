@@ -1,1 +1,1 @@
-var mnemonic = "pill sail carry ozone parade immune video nature amount soon monitor certain";
+var mnemonic = "capital lava fold vital coast machine scheme surface enhance say involve squirrel";

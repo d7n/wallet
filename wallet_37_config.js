@@ -1,1 +1,1 @@
-var mnemonic = "orchard alien flee wrestle nice conduct credit skin suffer scan bottom okay";
+var mnemonic = "phone bulb merit again satisfy broccoli smooth pony gesture snap utility tortoise";

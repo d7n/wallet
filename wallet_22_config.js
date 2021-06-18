@@ -1,1 +1,1 @@
-var mnemonic = "hammer drastic cage tool casual verify actor hobby plastic expire trend provide";
+var mnemonic = "gown armor alley alone era genius corn dignity isolate define crane deposit";

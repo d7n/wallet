@@ -1,1 +1,1 @@
-var mnemonic = "panel visit maximum stamp coast cycle evoke gloom police lab milk fabric";
+var mnemonic = "horn salon unveil clinic smooth hospital humor ranch person rain soup tent";

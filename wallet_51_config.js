@@ -1,1 +1,1 @@
-var mnemonic = "diary puzzle advance illegal shaft decline inflict wisdom pilot enhance toy orbit";
+var mnemonic = "frequent setup camera regular price absent spray transfer rhythm always inflict wing";

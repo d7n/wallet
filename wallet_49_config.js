@@ -1,1 +1,1 @@
-var mnemonic = "fragile enemy shiver year habit stove famous soccer omit march bargain fossil";
+var mnemonic = "pattern seat original child scene thing essay clever seek huge hamster hundred";

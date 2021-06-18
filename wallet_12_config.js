@@ -1,1 +1,1 @@
-var mnemonic = "language blind network act emerge scout moral gun lock have approve drop";
+var mnemonic = "cry chuckle struggle alien chase minimum ramp mix boring payment toss quick";

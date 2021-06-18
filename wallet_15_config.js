@@ -1,1 +1,1 @@
-var mnemonic = "service high gorilla state suffer question crane cactus napkin calm civil afraid";
+var mnemonic = "width feature april best battle east bike patrol valley skate recall barrel";

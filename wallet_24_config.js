@@ -1,1 +1,1 @@
-var mnemonic = "volume hundred donate gift credit foot satisfy farm gain silent title age";
+var mnemonic = "nose skull pioneer basic acquire spray couch prize fun tumble deer notice";

@@ -1,1 +1,1 @@
-var mnemonic = "initial trick board enough onion wave crop play remain depth critic notice";
+var mnemonic = "spoon manual intact chief alien rain soft pattern visit fade melody burger";

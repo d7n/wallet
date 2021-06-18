@@ -1,1 +1,1 @@
-var mnemonic = "this frame scorpion grant coffee squirrel cruise tag inner bus trumpet screen";
+var mnemonic = "jump time juice canal giraffe gauge donkey ostrich maximum crowd stumble prosper";

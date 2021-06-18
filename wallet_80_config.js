@@ -1,1 +1,1 @@
-var mnemonic = "cheap super describe pepper dose inside chaos fringe abstract thought adult retreat";
+var mnemonic = "purse gasp liar noodle pumpkin replace sniff produce mad nerve inner comfort";

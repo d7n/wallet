@@ -1,1 +1,1 @@
-var mnemonic = "blade add honey fence advice lobster uncover joke monitor lawsuit clerk hire";
+var mnemonic = "lottery ostrich attack dwarf simple govern lend army patient door congress oval";

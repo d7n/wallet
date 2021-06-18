@@ -1,1 +1,1 @@
-var mnemonic = "field jaguar cat exotic into defense emotion bright plug deposit aim verb";
+var mnemonic = "twenty three noodle minor cannon track always become pilot exchange catalog green";

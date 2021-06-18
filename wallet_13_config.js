@@ -1,1 +1,1 @@
-var mnemonic = "ladder tackle mammal alien buddy sad fabric oyster canyon matter bulb local";
+var mnemonic = "depart palm clip duck robot shrug mosquito hurdle sand gain output race";

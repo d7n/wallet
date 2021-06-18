@@ -1,1 +1,1 @@
-var mnemonic = "actor proud injury tone poverty west enrich cricket twice average sword hobby";
+var mnemonic = "rib canvas split simple pigeon advice supreme attitude hold trophy column bunker";

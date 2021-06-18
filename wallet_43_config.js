@@ -1,1 +1,1 @@
-var mnemonic = "purchase twist scan favorite amused uncover want mirror vibrant exile coin spray";
+var mnemonic = "van poet hamster rubber wealth old inside either lake elite brother base";

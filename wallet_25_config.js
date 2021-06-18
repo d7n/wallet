@@ -1,1 +1,1 @@
-var mnemonic = "left property extend submit relax save sell blame swarm relax prepare stove";
+var mnemonic = "ski danger cliff draft relief jungle egg parade voyage chase sell arctic";

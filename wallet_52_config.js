@@ -1,1 +1,1 @@
-var mnemonic = "asset slam travel rival attract library forward hold catalog evoke unique rotate";
+var mnemonic = "connect soap stock reduce apology mansion escape maximum badge toss planet traffic";

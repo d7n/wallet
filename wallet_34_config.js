@@ -1,1 +1,1 @@
-var mnemonic = "leave monkey shell frog grocery sick minor seek interest bulk gown rare";
+var mnemonic = "involve pride rely best lobster rain upgrade vague outdoor jungle scale series";

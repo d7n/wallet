@@ -1,1 +1,1 @@
-var mnemonic = "earn skirt attitude agree easy air foam angle receive edge ozone fortune";
+var mnemonic = "capable wish record faculty visa sword only hip payment dumb cave scale";

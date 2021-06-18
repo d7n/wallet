@@ -1,1 +1,1 @@
-var mnemonic = "high this click carpet wing unique shuffle bar target code eager make";
+var mnemonic = "time finger rubber narrow sphere reopen unhappy eternal other fun raw trophy";

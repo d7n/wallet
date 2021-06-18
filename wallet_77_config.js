@@ -1,1 +1,1 @@
-var mnemonic = "rate mushroom robot very action say image crisp castle stage slow student";
+var mnemonic = "sadness vibrant lawn color security skate depend device sausage tooth reduce enhance";

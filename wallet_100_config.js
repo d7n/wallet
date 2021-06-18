@@ -1,1 +1,1 @@
-var mnemonic = "corn end time someone chunk high license gauge enrich apple pattern head";
+var mnemonic = "auto magnet insect unique boss head need scatter jacket result spare kit";

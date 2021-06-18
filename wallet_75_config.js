@@ -1,1 +1,1 @@
-var mnemonic = "original trip present smooth mutual yard wedding vocal ozone screen flash slot";
+var mnemonic = "squirrel click recipe traffic lonely resource orient december hunt unfair increase hub";

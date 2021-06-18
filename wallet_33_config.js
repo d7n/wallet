@@ -1,1 +1,1 @@
-var mnemonic = "tonight onion volume lizard eye reopen vicious general law exotic abuse cereal";
+var mnemonic = "dismiss clown pepper sorry reopen pumpkin end primary awesome biology planet hybrid";

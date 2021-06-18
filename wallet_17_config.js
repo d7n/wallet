@@ -1,1 +1,1 @@
-var mnemonic = "green ring vibrant prevent grocery real enact crystal novel must often pair";
+var mnemonic = "kind recipe supply fly lesson flavor envelope goose weapon castle purse indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "pass cancel february rural tone document anchor detect goddess eager east wing";
+var mnemonic = "boy sudden funny evolve used shadow melt breeze hybrid peanut copper evidence";

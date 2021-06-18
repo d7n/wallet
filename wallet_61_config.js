@@ -1,1 +1,1 @@
-var mnemonic = "fiscal glove apology pottery bleak traffic panther album brisk scale knife any";
+var mnemonic = "decide pause shove weapon write pretty diesel shine venture opera chair tank";

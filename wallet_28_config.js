@@ -1,1 +1,1 @@
-var mnemonic = "blast course message wire upset panda churn quiz burger sense merge crowd";
+var mnemonic = "fuel ski donate betray rocket duck day tissue sausage net defense clinic";

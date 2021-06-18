@@ -1,1 +1,1 @@
-var mnemonic = "mango glare rug pair pig train opera title moment zebra space fruit";
+var mnemonic = "sound scare onion twin police crash main voice around sport glory armed";

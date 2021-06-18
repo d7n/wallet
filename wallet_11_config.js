@@ -1,1 +1,1 @@
-var mnemonic = "helmet shell treat decade alpha evil sunny review guess chaos world sample";
+var mnemonic = "envelope favorite resemble sustain pepper impulse pudding shine athlete outside rail song";

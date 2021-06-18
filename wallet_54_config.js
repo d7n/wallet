@@ -1,1 +1,1 @@
-var mnemonic = "trial exhaust engine wing crunch benefit spray bicycle street curve never expand";
+var mnemonic = "shiver person move judge buffalo mention tilt debris hedgehog stool include rude";

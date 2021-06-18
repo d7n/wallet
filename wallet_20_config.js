@@ -1,1 +1,1 @@
-var mnemonic = "sniff key letter razor forget mass exotic kind avocado position goddess wrong";
+var mnemonic = "dose move victory lobster payment pilot salon window tenant brown already wear";

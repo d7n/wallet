@@ -1,1 +1,1 @@
-var mnemonic = "just harbor kite deliver brisk photo movie chef ozone process door bacon";
+var mnemonic = "sheriff key meadow awful canyon portion flip harsh doll flock gadget unhappy";

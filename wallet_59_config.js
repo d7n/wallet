@@ -1,1 +1,1 @@
-var mnemonic = "gaze ship someone flee link busy employ pause language legend isolate reject";
+var mnemonic = "magnet result undo throw arctic brave pen scan fancy own club cereal";

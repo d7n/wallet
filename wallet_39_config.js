@@ -1,1 +1,1 @@
-var mnemonic = "pen husband left grunt turkey broom airport debate burger future tell gold";
+var mnemonic = "voice pioneer session tilt erode sting shadow tourist payment reason peanut alarm";

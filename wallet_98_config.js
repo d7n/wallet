@@ -1,1 +1,1 @@
-var mnemonic = "share exit annual wire supreme season heavy girl west pistol pattern brain";
+var mnemonic = "calm token arrange bag differ argue mind enjoy public mechanic glance creek";

@@ -1,1 +1,1 @@
-var mnemonic = "finish sorry core define garden mobile potato ladder senior stock grape interest";
+var mnemonic = "shy leisure clarify erosion right various easy surprise scout enlist wrap erupt";

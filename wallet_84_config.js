@@ -1,1 +1,1 @@
-var mnemonic = "wire involve victory boat crazy valve basket theory flip discover engage narrow";
+var mnemonic = "core roast retire boil creek child need salon purpose deal hope rookie";

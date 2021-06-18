@@ -1,1 +1,1 @@
-var mnemonic = "lunar angle hundred ecology wife then muscle exotic faith above depend poem";
+var mnemonic = "tragic walk nasty mountain trophy oxygen job veteran guitar jelly canoe gift";

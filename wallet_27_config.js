@@ -1,1 +1,1 @@
-var mnemonic = "kingdom disorder fresh action obtain sniff spread salad despair adapt vacant matter";
+var mnemonic = "cupboard keep risk tip initial element merge client best portion all gather";

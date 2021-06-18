@@ -1,1 +1,1 @@
-var mnemonic = "punch face trade element switch net nasty life clown income blanket crater";
+var mnemonic = "toe lemon talk method laugh sponsor alien prison horse discover market reopen";

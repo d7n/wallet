@@ -1,1 +1,1 @@
-var mnemonic = "crumble toast bike warrior jar calm federal hobby cargo wood tired fit";
+var mnemonic = "clarify weasel uphold charge trash stairs second panel diamond output obscure capital";

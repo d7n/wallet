@@ -1,1 +1,1 @@
-var mnemonic = "claim staff business second inspire enjoy series turtle roof avoid awesome olive";
+var mnemonic = "hobby margin awesome ritual nerve casual fun carbon pitch review impact eager";

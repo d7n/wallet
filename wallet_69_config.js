@@ -1,1 +1,1 @@
-var mnemonic = "plate wear main output twice awkward subway sword wreck slim inside curve";
+var mnemonic = "forum ten cabin april pyramid season lecture tackle surprise never side vessel";

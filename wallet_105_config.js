@@ -1,1 +1,1 @@
-var mnemonic = "cross alien special deputy renew rescue absent fringe track twice advance sound";
+var mnemonic = "ugly mechanic hat wage cream auction prosper immune exhaust unknown industry pole";

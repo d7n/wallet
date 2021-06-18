@@ -1,1 +1,1 @@
-var mnemonic = "swear rescue all mother ginger nation outer dinner school shaft express model";
+var mnemonic = "include album orphan energy detail monster credit okay extra shiver raven release";

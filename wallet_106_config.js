@@ -1,1 +1,1 @@
-var mnemonic = "tongue mass solve repair olympic hover ridge wrong sorry figure kit buzz";
+var mnemonic = "sadness dwarf proud add average system kidney skate negative quick wave jump";

@@ -1,1 +1,1 @@
-var mnemonic = "upset night camera police husband shove vacuum cross canoe stumble write wrestle";
+var mnemonic = "same priority venture viable such detail fatigue cruise catch junior pyramid scissors";

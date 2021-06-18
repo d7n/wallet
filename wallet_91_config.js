@@ -1,1 +1,1 @@
-var mnemonic = "snow ski rate abuse valid sell rotate crew ten inner begin carry";
+var mnemonic = "lecture network copy visual raise rather talk reason culture cause frozen ball";

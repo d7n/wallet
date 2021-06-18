@@ -1,1 +1,1 @@
-var mnemonic = "scan clay easily then negative vessel amount tell cat rely song forget";
+var mnemonic = "quarter cram fantasy gap stumble village accident deposit square sketch pact music";

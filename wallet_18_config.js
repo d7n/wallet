@@ -1,1 +1,1 @@
-var mnemonic = "size range bargain post deposit offer rookie carbon office myth dilemma item";
+var mnemonic = "someone inmate analyst method coffee powder donate file detail melody invest blame";

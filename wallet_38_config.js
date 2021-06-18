@@ -1,1 +1,1 @@
-var mnemonic = "hard cross come call glad account trade icon jaguar amount humor mushroom";
+var mnemonic = "clutch rose arch original cost super pass army decade panda festival enforce";

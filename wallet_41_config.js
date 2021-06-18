@@ -1,1 +1,1 @@
-var mnemonic = "culture fall awful venture fit style choice thank opera say scorpion math";
+var mnemonic = "matrix upgrade spice coast process account model maid miss abandon chapter media";

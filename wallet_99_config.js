@@ -1,1 +1,1 @@
-var mnemonic = "lyrics portion style torch gauge chase brain ring faculty field dress lobster";
+var mnemonic = "decline sphere hotel torch angry fuel amazing inmate uniform loud upon obvious";

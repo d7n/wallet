@@ -1,1 +1,1 @@
-var mnemonic = "jar bus rigid sting sound promote shop shed virus settle gown industry";
+var mnemonic = "column adapt flock flight angle gun great runway catalog defy inhale kit";

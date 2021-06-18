@@ -1,1 +1,1 @@
-var mnemonic = "twin crime someone soldier flee device valve meadow depth lottery pizza alarm";
+var mnemonic = "robot stone during divide diary faculty habit kiwi wet ahead bind safe";

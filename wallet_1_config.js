@@ -1,1 +1,1 @@
-var mnemonic = "will elder license equip best squeeze vicious educate danger food page eager";
+var mnemonic = "crack dish cram hazard price mistake buddy naive wolf ostrich silly amused";

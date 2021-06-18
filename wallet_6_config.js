@@ -1,1 +1,1 @@
-var mnemonic = "shuffle develop rifle buzz alarm chest trim balcony lawn enemy badge chronic";
+var mnemonic = "method turkey coast offer enter trial visa afford put then leisure catalog";

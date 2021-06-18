@@ -1,1 +1,1 @@
-var mnemonic = "dynamic vacant game chef decide tribe left mind olympic become quantum reveal";
+var mnemonic = "spray six ring skate deal monster thrive inquiry dial reward carbon merit";

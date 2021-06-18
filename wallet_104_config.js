@@ -1,1 +1,1 @@
-var mnemonic = "illness tornado oxygen strong mouse economy gift leave own wink dwarf concert";
+var mnemonic = "dinner still guess fee equip author boost member wave story giraffe vibrant";

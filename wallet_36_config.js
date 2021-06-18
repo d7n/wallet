@@ -1,1 +1,1 @@
-var mnemonic = "puppy gown flat fruit surface wagon feed dolphin slice grab dawn brown";
+var mnemonic = "pigeon inner cave penalty pond appear ticket stool sell evolve beauty exhaust";

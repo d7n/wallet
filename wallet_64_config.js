@@ -1,1 +1,1 @@
-var mnemonic = "exist twist paddle attitude blue crime palm shine such disagree tobacco observe";
+var mnemonic = "please copy scissors soup brain judge keep eye divorce scene dinosaur peanut";

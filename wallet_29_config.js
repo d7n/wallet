@@ -1,1 +1,1 @@
-var mnemonic = "polar coconut small unfair trim cable number dial auto attack penalty lottery";
+var mnemonic = "mesh remind drift exist artist rocket design auto guard actor dinosaur void";
