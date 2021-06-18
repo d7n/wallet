@@ -1,1 +1,1 @@
-var mnemonic = "zebra pipe spirit net north wife rule angry combine nut common subway";
+var mnemonic = "social reunion indicate confirm cloud myth piece link because photo immune rate";

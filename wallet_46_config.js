@@ -1,1 +1,1 @@
-var mnemonic = "lecture opera chair junior wood since main skate nation solve ketchup genius";
+var mnemonic = "swear resemble number cheap coconut angry march valley caution supply ivory toilet";

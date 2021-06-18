@@ -1,1 +1,1 @@
-var mnemonic = "luxury ridge life hill half purchase castle comfort rocket tongue phone pig";
+var mnemonic = "crater gather harsh shop ten often join kit decorate topic hole galaxy";

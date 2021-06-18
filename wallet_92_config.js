@@ -1,1 +1,1 @@
-var mnemonic = "island test circle catch length unit knee sell detect script vintage already";
+var mnemonic = "dumb foam call output lunar finger myth boy chimney fury type donor";

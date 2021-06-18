@@ -1,1 +1,1 @@
-var mnemonic = "august donate situate soul robust bomb off planet base agent bacon token";
+var mnemonic = "loyal wrong exact tourist veteran corn ecology zebra style bunker credit south";

@@ -1,1 +1,1 @@
-var mnemonic = "chef move ocean tag side vapor annual outside device board tobacco mango";
+var mnemonic = "sketch scorpion book worth hour juice practice sunny defense beyond okay physical";

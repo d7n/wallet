@@ -1,1 +1,1 @@
-var mnemonic = "angry body sustain vendor hamster surprise quote game kid term educate orphan";
+var mnemonic = "distance urban song super keep pudding edge save mobile soda perfect toy";

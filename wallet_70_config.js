@@ -1,1 +1,1 @@
-var mnemonic = "rocket convince miss club battle benefit spell cradle bless industry left sad";
+var mnemonic = "virus blast step enrich witness teach sponsor divorce amount apart paper castle";

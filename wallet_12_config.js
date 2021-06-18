@@ -1,1 +1,1 @@
-var mnemonic = "soon rough tired rack quick actual rigid neither fiction wine shiver planet";
+var mnemonic = "receive speed hair essay awkward bulk orbit deal panda cage country spawn";

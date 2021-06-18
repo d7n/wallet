@@ -1,1 +1,1 @@
-var mnemonic = "tape turtle blame nation hamster universe bargain title art gasp since repair";
+var mnemonic = "sort master master please today fox suspect horse swarm enemy student flash";

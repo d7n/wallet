@@ -1,1 +1,1 @@
-var mnemonic = "dog master romance virus cube swift pencil soap trash slab decade extra";
+var mnemonic = "spy help tower brother victory ancient bottom plastic shift when plug tobacco";

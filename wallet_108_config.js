@@ -1,1 +1,1 @@
-var mnemonic = "name paper pupil tree ship lawsuit wasp place wisdom october slogan egg";
+var mnemonic = "property style catalog release real rebuild lottery legend inflict addict broken fan";

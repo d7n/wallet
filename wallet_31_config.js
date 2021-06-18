@@ -1,1 +1,1 @@
-var mnemonic = "dial wisdom pen marine pizza nurse person hotel enough pencil strike permit";
+var mnemonic = "resist amazing major net minor renew mechanic divert great enjoy evil melt";

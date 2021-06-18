@@ -1,1 +1,1 @@
-var mnemonic = "toe attract live wink material beef phrase tornado female electric shed jealous";
+var mnemonic = "keep rate casual universe trust develop annual switch special inherit cross grant";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness tomato jaguar hole cage industry biology surprise critic vast flip mandate";
+var mnemonic = "river pioneer bus draft saddle visit seat paper hurdle nice flower sense";

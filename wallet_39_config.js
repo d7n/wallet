@@ -1,1 +1,1 @@
-var mnemonic = "force matter cannon long cross bubble relax climb spot bag yellow direct";
+var mnemonic = "useful cricket hold blur hungry talent element stable glad mesh pull submit";

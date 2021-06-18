@@ -1,1 +1,1 @@
-var mnemonic = "space empower label also april trip dawn remain faint rack bleak victory";
+var mnemonic = "spider tongue patch list mansion anxiety caution label anchor regret village pond";

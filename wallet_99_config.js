@@ -1,1 +1,1 @@
-var mnemonic = "rice humor square dial say rally reject ordinary skin panther obtain affair";
+var mnemonic = "coconut quiz van celery burden matrix loud ceiling series shield badge mammal";

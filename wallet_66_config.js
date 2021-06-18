@@ -1,1 +1,1 @@
-var mnemonic = "toe behave shift buffalo trumpet march goat sea equip hawk reveal camera";
+var mnemonic = "arm board hero mystery ahead bridge beef breeze tank skirt noise market";

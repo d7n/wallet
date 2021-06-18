@@ -1,1 +1,1 @@
-var mnemonic = "carry party soup decade path sail salad rate balance humble jewel fence";
+var mnemonic = "flavor round beach fever mammal company nice number hidden interest slush emerge";

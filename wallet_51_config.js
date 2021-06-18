@@ -1,1 +1,1 @@
-var mnemonic = "polar able kitten design direct endless real message palm couple purse cabin";
+var mnemonic = "love grow blanket relief oval ripple way poverty video argue hotel ritual";

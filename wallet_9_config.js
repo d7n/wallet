@@ -1,1 +1,1 @@
-var mnemonic = "history deer junk mercy intact under rude escape cry jewel inherit crunch";
+var mnemonic = "soul enlist vocal grow tank siren buzz keen mercy west wrong situate";

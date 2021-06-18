@@ -1,1 +1,1 @@
-var mnemonic = "fold theory hurdle gift tone loud lunar brand dinosaur often require spell";
+var mnemonic = "cable decrease category sleep open seven garbage endless aisle biology fashion nature";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma focus dumb midnight insane core royal flush snack bulk select dry";
+var mnemonic = "gasp mimic brush riot zero scissors depth juice pigeon chaos kiss into";

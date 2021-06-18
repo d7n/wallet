@@ -1,1 +1,1 @@
-var mnemonic = "fabric vacant say wash cabin bronze amused fashion diary possible dust goddess";
+var mnemonic = "oppose attract shop abstract pistol ranch enlist bulk asset between drama stone";

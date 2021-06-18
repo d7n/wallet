@@ -1,1 +1,1 @@
-var mnemonic = "harsh drama cluster morning endorse hazard trick rely faint sure lamp subway";
+var mnemonic = "satoshi demand notice retire purse remember senior middle beyond rubber short aware";

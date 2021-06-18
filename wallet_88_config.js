@@ -1,1 +1,1 @@
-var mnemonic = "provide outside submit resist speak visit differ youth bunker risk doctor noodle";
+var mnemonic = "pair morning undo jazz genuine reunion kind mushroom oval easily sponsor eager";

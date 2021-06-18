@@ -1,1 +1,1 @@
-var mnemonic = "marriage inquiry produce impact distance afraid program toe domain predict sample deal";
+var mnemonic = "nothing away woman bottom vote ahead parent bid giant rich square network";

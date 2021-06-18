@@ -1,1 +1,1 @@
-var mnemonic = "promote section priority zebra violin faculty base still infant bundle tumble ring";
+var mnemonic = "trouble hidden bulk crash kind element quality invest dolphin nature slogan security";

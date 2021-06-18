@@ -1,1 +1,1 @@
-var mnemonic = "diesel tired turn share crystal steel monster fruit convince average buyer aspect";
+var mnemonic = "next meadow because destroy slow then kitchen must heavy iron brother merry";

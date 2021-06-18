@@ -1,1 +1,1 @@
-var mnemonic = "grid help crouch air bike grunt tuition soul report over champion aspect";
+var mnemonic = "armed rescue quarter asthma biology garage reason kit hundred curve two hunt";

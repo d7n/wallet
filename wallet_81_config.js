@@ -1,1 +1,1 @@
-var mnemonic = "feature wrestle appear prepare bomb income lemon avoid casual zebra merge educate";
+var mnemonic = "amazing current still torch rib photo party original remain buffalo autumn captain";

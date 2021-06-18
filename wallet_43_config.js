@@ -1,1 +1,1 @@
-var mnemonic = "sea surge trouble silly april pink motor always ugly orange assault pink";
+var mnemonic = "mobile test test century dance avocado paddle grace check hair increase version";

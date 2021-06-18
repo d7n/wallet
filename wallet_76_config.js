@@ -1,1 +1,1 @@
-var mnemonic = "nice winner kangaroo slide crater hip soon pelican actor water siren refuse";
+var mnemonic = "mail among banana saddle lend range same rare uncover wagon opinion seven";

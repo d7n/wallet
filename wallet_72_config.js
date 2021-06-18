@@ -1,1 +1,1 @@
-var mnemonic = "fix script upon orchard picnic reform involve afford cricket broom dutch mansion";
+var mnemonic = "wool name walk junk stairs silk utility success exhibit cross lesson polar";

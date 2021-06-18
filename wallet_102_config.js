@@ -1,1 +1,1 @@
-var mnemonic = "trash sudden vacant quiz lemon blossom unhappy dune keep jump buffalo jump";
+var mnemonic = "wild resemble enough cattle soup token stadium impulse emerge devote pudding fame";

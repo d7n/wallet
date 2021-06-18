@@ -1,1 +1,1 @@
-var mnemonic = "spirit foam oak logic pen elbow october neutral auction have renew gate";
+var mnemonic = "core minor grab write differ solid burden select sing miracle there quit";

@@ -1,1 +1,1 @@
-var mnemonic = "certain face vibrant rifle praise weather crash canal midnight away buyer online";
+var mnemonic = "visit clump depend identify chair animal math core pen cave give actual";

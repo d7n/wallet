@@ -1,1 +1,1 @@
-var mnemonic = "you theory fit defy close enemy clap ramp letter fit demise spy";
+var mnemonic = "suit divorce gather reject wisdom actor joke park tunnel member element legend";

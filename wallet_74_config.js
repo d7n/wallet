@@ -1,1 +1,1 @@
-var mnemonic = "rather vast innocent around become spot whip actual cry pear release immense";
+var mnemonic = "clinic style apart tool donate detail leg hedgehog wisdom luxury abstract soap";

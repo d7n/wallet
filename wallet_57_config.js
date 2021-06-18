@@ -1,1 +1,1 @@
-var mnemonic = "decorate super fiber there grant steak soup endorse fox leaf grunt length";
+var mnemonic = "bridge fluid drill convince letter flag invite borrow barely hood indoor story";

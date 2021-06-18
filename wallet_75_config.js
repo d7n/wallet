@@ -1,1 +1,1 @@
-var mnemonic = "near hurt castle miss choose select bike gasp castle casual clog wave";
+var mnemonic = "super march yard aspect aunt more chief fame mixture witness cheese position";

@@ -1,1 +1,1 @@
-var mnemonic = "certain proof dial glove token melody maid depend gown lonely someone quarter";
+var mnemonic = "canoe silk dust quarter manual syrup lift cargo sing rotate unhappy learn";

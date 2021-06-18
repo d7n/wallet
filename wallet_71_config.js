@@ -1,1 +1,1 @@
-var mnemonic = "foster layer express crumble border smoke claim law sport junior powder solution";
+var mnemonic = "loan own air suit indicate road head lock basket biology dignity unusual";

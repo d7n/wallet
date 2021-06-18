@@ -1,1 +1,1 @@
-var mnemonic = "mouse tell flash pass sand unaware debate lava tunnel benefit price flame";
+var mnemonic = "face screen melt local segment retire motion surround much silent urban room";

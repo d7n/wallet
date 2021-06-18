@@ -1,1 +1,1 @@
-var mnemonic = "expire visual velvet knife unaware rude census perfect ice gallery mosquito able";
+var mnemonic = "great elegant funny title west wine life rice bulb fun cousin knee";

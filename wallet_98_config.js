@@ -1,1 +1,1 @@
-var mnemonic = "hollow lock mosquito paddle alone dish axis meat cherry fiscal shoot offer";
+var mnemonic = "cloud split now scout brown shoulder oval kangaroo guard planet misery kiwi";

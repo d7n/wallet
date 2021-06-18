@@ -1,1 +1,1 @@
-var mnemonic = "picnic hobby hamster hotel muscle among miss elegant choose upset pink game";
+var mnemonic = "ocean unhappy path mean roof pen hand quiz paddle accident magic casual";

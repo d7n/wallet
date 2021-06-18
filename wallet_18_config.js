@@ -1,1 +1,1 @@
-var mnemonic = "song pear puzzle veteran indoor siren goddess area phrase season machine camp";
+var mnemonic = "sleep nuclear cereal resemble vocal announce ugly worry run warfare invest veteran";

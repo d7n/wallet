@@ -1,1 +1,1 @@
-var mnemonic = "gospel journey meat kangaroo scissors near twenty abandon prefer empty hope field";
+var mnemonic = "hair cover setup kit clinic face gather just caution taxi recycle rain";

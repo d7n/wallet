@@ -1,1 +1,1 @@
-var mnemonic = "know result immense narrow marriage empty dinner tuition struggle salt sister stage";
+var mnemonic = "eagle fee wife squeeze vintage buyer dutch bench embody fault thought vessel";

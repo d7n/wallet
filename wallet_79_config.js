@@ -1,1 +1,1 @@
-var mnemonic = "leisure hobby deposit dash true idle quiz wood inhale unknown fruit private";
+var mnemonic = "other sponsor palace indicate hard acoustic business earth state recipe audit cute";

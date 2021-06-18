@@ -1,1 +1,1 @@
-var mnemonic = "enable parrot elephant adapt scene video breeze farm lava nest park orient";
+var mnemonic = "undo foam open enter grace runway unfair crazy wrestle valid shallow velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve much celery unveil between afford obtain lion expand weapon hint winner";
+var mnemonic = "thrive fluid pet digital weird enlist math federal tattoo reward meat pipe";

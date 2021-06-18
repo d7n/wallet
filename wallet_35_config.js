@@ -1,1 +1,1 @@
-var mnemonic = "left settle lottery smoke despair maple such dash head million bronze proof";
+var mnemonic = "light gravity morning genius quantum earn sketch run reason cushion prize secret";

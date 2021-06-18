@@ -1,1 +1,1 @@
-var mnemonic = "cable collect name kingdom car fault wage bench elephant army theme debris";
+var mnemonic = "cattle chat trumpet retreat depth inner host cactus physical addict gravity advance";

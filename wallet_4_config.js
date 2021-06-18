@@ -1,1 +1,1 @@
-var mnemonic = "boost salon mango ready drill across scrap solid weasel blouse issue snack";
+var mnemonic = "leaf bottom setup wrap service build popular mass scheme mention traffic mesh";

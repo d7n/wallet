@@ -1,1 +1,1 @@
-var mnemonic = "mad excuse void drama bounce broccoli repeat radar joy copper gate please";
+var mnemonic = "anchor horn trumpet vintage spice chat stock audit enhance wasp idle plastic";

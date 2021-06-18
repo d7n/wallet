@@ -1,1 +1,1 @@
-var mnemonic = "goat simple utility garbage punch liar wall wedding gather hand flavor crystal";
+var mnemonic = "human submit cup aisle husband cream source truth pretty sugar work gym";

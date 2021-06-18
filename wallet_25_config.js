@@ -1,1 +1,1 @@
-var mnemonic = "enemy dance more forget enhance include obvious weird fence man act october";
+var mnemonic = "cause barrel index young idea cool country amused grit frozen tortoise right";

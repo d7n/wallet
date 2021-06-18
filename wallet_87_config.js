@@ -1,1 +1,1 @@
-var mnemonic = "trust detect budget oppose coin erupt dose various impact mobile grab draw";
+var mnemonic = "sport banana dentist trash meat zebra merry squeeze edge fly ecology damp";

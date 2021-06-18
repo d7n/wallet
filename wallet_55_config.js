@@ -1,1 +1,1 @@
-var mnemonic = "unit board raccoon window weird debris frog absent shoe pool stove pen";
+var mnemonic = "one crawl candy cannon club element virtual device rhythm turkey leave snap";

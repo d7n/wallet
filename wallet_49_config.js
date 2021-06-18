@@ -1,1 +1,1 @@
-var mnemonic = "fame exhibit congress flavor alien rate clump true quarter switch junior regular";
+var mnemonic = "picnic upset journey sword utility all silly now approve rebel idle siren";

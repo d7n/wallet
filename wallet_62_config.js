@@ -1,1 +1,1 @@
-var mnemonic = "protect wheel kick warm strong cry sentence language guide quantum road coach";
+var mnemonic = "board advance unusual because relief snow laptop also thumb rapid guide olympic";

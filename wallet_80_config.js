@@ -1,1 +1,1 @@
-var mnemonic = "abstract total smart flip man burden cherry clerk essay bid judge timber";
+var mnemonic = "health enhance anchor cabbage will hungry april march rate sibling peace retire";

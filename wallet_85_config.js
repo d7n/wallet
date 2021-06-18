@@ -1,1 +1,1 @@
-var mnemonic = "obey wealth seven age few swarm exhibit mule chicken drink accident recall";
+var mnemonic = "muffin vessel relax letter remain snake disagree elegant climb rent subject can";

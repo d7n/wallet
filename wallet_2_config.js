@@ -1,1 +1,1 @@
-var mnemonic = "farm front sock cruel garment flee farm decade sketch divide coil forget";
+var mnemonic = "better seminar medal comfort initial fee shield estate bench code fan love";

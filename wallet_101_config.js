@@ -1,1 +1,1 @@
-var mnemonic = "entry marble ripple moral garment category crop six autumn oblige flame method";
+var mnemonic = "diesel clerk kingdom income bike fork friend start casual rally robust squirrel";

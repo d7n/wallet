@@ -1,1 +1,1 @@
-var mnemonic = "select bachelor poet special witness dentist fresh useless play misery quick dance";
+var mnemonic = "kite refuse ask taste bachelor toddler blue tornado tone twelve paddle conduct";

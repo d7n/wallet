@@ -1,1 +1,1 @@
-var mnemonic = "eternal tray cinnamon canal dumb side cactus guard cream era autumn light";
+var mnemonic = "mango maple identify business strategy need bike news future wealth trust farm";

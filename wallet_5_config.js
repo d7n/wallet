@@ -1,1 +1,1 @@
-var mnemonic = "cake useful speak disorder peace feel real time rate enable cover decide";
+var mnemonic = "sketch answer antique priority author clutch sponsor hub job where agree process";

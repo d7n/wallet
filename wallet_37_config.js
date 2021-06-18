@@ -1,1 +1,1 @@
-var mnemonic = "twist once police mobile follow ribbon delay good flock oil episode deer";
+var mnemonic = "rate help will history innocent erase mule word good path potato dignity";

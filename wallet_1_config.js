@@ -1,1 +1,1 @@
-var mnemonic = "cradle pig opinion review alcohol cute exercise return able hurry kit find";
+var mnemonic = "have pelican guard case flower list novel school amazing phrase frame version";

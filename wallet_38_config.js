@@ -1,1 +1,1 @@
-var mnemonic = "slide remind express club give exact crystal split beach smart mom tumble";
+var mnemonic = "waste corn bread act abandon express deposit wreck camera ship split net";

@@ -1,1 +1,1 @@
-var mnemonic = "record yard jacket canyon onion olympic obtain slice trim sausage announce grocery";
+var mnemonic = "senior creek when trip ensure margin medal still verify unfair voyage brass";

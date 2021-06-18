@@ -1,1 +1,1 @@
-var mnemonic = "inspire account state slogan lyrics wrist slight culture across hundred wink coin";
+var mnemonic = "wink baby market wait river vehicle frozen coin half hope infant cram";

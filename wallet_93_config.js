@@ -1,1 +1,1 @@
-var mnemonic = "apple keen comfort supreme disorder hungry setup affair gym defense protect glad";
+var mnemonic = "behind special decline nature supreme penalty motor enter edge ribbon broken math";

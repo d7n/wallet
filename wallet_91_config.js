@@ -1,1 +1,1 @@
-var mnemonic = "undo fan chef elbow cruise weird medal axis gloom faith glow expand";
+var mnemonic = "wise ten bounce float aerobic melt caught biology turn effort baby milk";

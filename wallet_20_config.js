@@ -1,1 +1,1 @@
-var mnemonic = "cake before giggle spoil laugh proud divide echo between able address unfair";
+var mnemonic = "blade noble giggle require cube dynamic track drama wedding solve nature ignore";

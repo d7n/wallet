@@ -1,1 +1,1 @@
-var mnemonic = "accuse brother lens silver soap evil mansion answer oil door intact express";
+var mnemonic = "advice bag forest review october cattle release urge canoe maximum sock solar";

@@ -1,1 +1,1 @@
-var mnemonic = "hurry ring diary hand critic finish health whip dose ski trap catalog";
+var mnemonic = "scissors economy eagle chapter burst arrange movie cattle siege pipe toss border";

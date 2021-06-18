@@ -1,1 +1,1 @@
-var mnemonic = "relax owner flock inspire then rebel census faculty brush island what trophy";
+var mnemonic = "exhaust route drink clay asthma super matrix woman bunker witness topic once";

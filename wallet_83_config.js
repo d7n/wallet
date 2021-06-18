@@ -1,1 +1,1 @@
-var mnemonic = "release cousin inflict badge card wagon puppy sick hurry agree potato betray";
+var mnemonic = "labor olive web game seat artwork joke matrix dentist genuine garden surface";

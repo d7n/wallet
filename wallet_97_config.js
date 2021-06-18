@@ -1,1 +1,1 @@
-var mnemonic = "aim book siren shiver render sick bomb cereal fiber drop tribe bird";
+var mnemonic = "hurt kit once moon race leaf crash risk knife term glide glory";

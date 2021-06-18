@@ -1,1 +1,1 @@
-var mnemonic = "supreme nest water pepper economy ship subject what cheese next crouch valve";
+var mnemonic = "illness wear guess burger scene injury world angry burger loop toy lecture";

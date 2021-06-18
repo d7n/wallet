@@ -1,1 +1,1 @@
-var mnemonic = "oil explain winter payment comfort gauge relief forward peanut loyal lion more";
+var mnemonic = "simple unique corn gravity net atom point mind wedding core impact mule";

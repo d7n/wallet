@@ -1,1 +1,1 @@
-var mnemonic = "core enhance throw auto pause anger march hundred green inquiry balcony swim";
+var mnemonic = "material ivory orchard bulk income other cancel mom scheme aim tumble analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "hen tape actress table input paper rabbit love bike spirit live idea";
+var mnemonic = "lucky word aware burger spend input vibrant else hint head ready advice";

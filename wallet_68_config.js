@@ -1,1 +1,1 @@
-var mnemonic = "chuckle current sister female situate neglect slide repair moon cruel donor girl";
+var mnemonic = "purpose fade twenty wink auction peanut pen magic betray benefit lend poem";

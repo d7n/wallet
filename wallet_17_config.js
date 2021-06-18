@@ -1,1 +1,1 @@
-var mnemonic = "patient front feature away cute ignore sport steel forest level emerge visit";
+var mnemonic = "strike clean retire wasp globe empower donkey absent save super slide draw";

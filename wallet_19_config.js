@@ -1,1 +1,1 @@
-var mnemonic = "repeat rather planet very ignore credit breeze edge west nuclear simple neither";
+var mnemonic = "emerge brass order alarm hen uncle orchard broom oil swarm click affair";
