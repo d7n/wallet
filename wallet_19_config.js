@@ -1,1 +1,1 @@
-var mnemonic = "brass danger sense left shield tower forest copper way banner hood leopard";
+var mnemonic = "museum casual escape venue reject verb trip repeat dinner cabbage provide abuse";

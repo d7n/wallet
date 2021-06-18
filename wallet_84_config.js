@@ -1,1 +1,1 @@
-var mnemonic = "truck pave occur estate strike inner mass spring inherit nasty tunnel motion";
+var mnemonic = "message apology acoustic grit decide attract economy fun pipe uniform absorb action";

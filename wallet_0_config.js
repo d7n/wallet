@@ -1,1 +1,1 @@
-var mnemonic = "emotion cash shed busy fabric acquire movie dry shoulder pitch clay pony";
+var mnemonic = "box snake siege immense galaxy level carpet aware transfer clutch believe divide";

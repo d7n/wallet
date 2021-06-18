@@ -1,1 +1,1 @@
-var mnemonic = "first universe pride entry what diesel pencil post tooth mad frog hawk";
+var mnemonic = "sort web region planet correct prevent dinosaur hungry run obey initial coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse pig plunge drop cup crowd unable dirt crane scheme surface soup";
+var mnemonic = "life hill aunt cupboard erupt around tobacco region more skin weasel inquiry";

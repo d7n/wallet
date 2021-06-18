@@ -1,1 +1,1 @@
-var mnemonic = "extra unfair mountain hospital torch legal brush slush slim combine tide coconut";
+var mnemonic = "loud can flat foster game law typical fire zebra above cook sunset";

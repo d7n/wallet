@@ -1,1 +1,1 @@
-var mnemonic = "protect great diagram deer corn cost supply volume material burst school girl";
+var mnemonic = "sunny convince wrap fresh oyster indoor sample dinner layer glow earn end";

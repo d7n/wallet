@@ -1,1 +1,1 @@
-var mnemonic = "toddler scissors language certain tonight genuine fabric despair edit infant limit curious";
+var mnemonic = "question essence festival father party hire dumb avocado injury glass sustain urge";

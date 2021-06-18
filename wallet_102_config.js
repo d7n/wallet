@@ -1,1 +1,1 @@
-var mnemonic = "all unveil three coral trim roof chapter beyond wine feed raw absorb";
+var mnemonic = "auto idea home someone illegal marriage relax mercy coil lizard shoe limb";

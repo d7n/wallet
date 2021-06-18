@@ -1,1 +1,1 @@
-var mnemonic = "crater danger street usage script system wolf close puppy snap there warfare";
+var mnemonic = "pair arena boy typical payment check barely grape excuse awesome promote glare";

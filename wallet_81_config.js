@@ -1,1 +1,1 @@
-var mnemonic = "shock appear catch alter patrol pony weasel badge adult garden unhappy spoil";
+var mnemonic = "basket federal oval castle essay soldier jaguar bomb obvious buzz mandate genius";

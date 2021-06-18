@@ -1,1 +1,1 @@
-var mnemonic = "acoustic silver fall shine truck plastic rent drop stable check abstract slender";
+var mnemonic = "tone lens fame napkin bomb debate universe retire aerobic blame mushroom smart";

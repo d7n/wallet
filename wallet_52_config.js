@@ -1,1 +1,1 @@
-var mnemonic = "churn situate warfare federal page comic best replace artefact error style truck";
+var mnemonic = "upper alert list fitness choose engine tiger agent cheap brisk glow design";

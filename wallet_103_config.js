@@ -1,1 +1,1 @@
-var mnemonic = "hub garlic taste purchase shy session leisure paddle flush load habit vendor";
+var mnemonic = "crop medal ring opinion firm buyer enhance ecology enemy naive duck treat";

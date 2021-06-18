@@ -1,1 +1,1 @@
-var mnemonic = "avoid eight banana middle tent glide table fit gift shock budget flee";
+var mnemonic = "gaze caught differ quality uncover feel erode tourist prevent town fly auction";

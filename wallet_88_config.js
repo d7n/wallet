@@ -1,1 +1,1 @@
-var mnemonic = "trigger chest off basic vivid spray alien icon diagram million foam property";
+var mnemonic = "adapt twenty captain horror suggest token hurt legal avoid alert violin first";

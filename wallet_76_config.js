@@ -1,1 +1,1 @@
-var mnemonic = "boring lift hope flat deliver sad room base lamp chaos want pudding";
+var mnemonic = "vast mouse pet genius grass dumb finish credit matrix vivid flower raise";

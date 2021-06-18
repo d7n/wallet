@@ -1,1 +1,1 @@
-var mnemonic = "early emerge retire legend lock raven cover bridge version sibling fiber yard";
+var mnemonic = "rhythm install region steak claw genre enter equal prosper topic fix kick";

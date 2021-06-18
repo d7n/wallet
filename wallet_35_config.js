@@ -1,1 +1,1 @@
-var mnemonic = "machine arrange desert ceiling brass soda today whip note sentence girl this";
+var mnemonic = "key vivid weasel sleep stay kitten vicious flower boring ceiling glow follow";

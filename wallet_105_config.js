@@ -1,1 +1,1 @@
-var mnemonic = "member flight sense clever canvas make card foam dish oil honey section";
+var mnemonic = "crew now confirm comic fragile party rough audit false feel rally mention";

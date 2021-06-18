@@ -1,1 +1,1 @@
-var mnemonic = "fringe three lizard cabbage ability toilet flee decide simple reform very crash";
+var mnemonic = "roast rug maple shove caution over slim rocket ship better era escape";

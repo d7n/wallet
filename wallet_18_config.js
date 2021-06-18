@@ -1,1 +1,1 @@
-var mnemonic = "price road better grass boil beef antenna dutch ecology frown apple spray";
+var mnemonic = "picnic baby tongue empty estate away critic pull similar lottery hair renew";

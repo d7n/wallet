@@ -1,1 +1,1 @@
-var mnemonic = "certain margin camera venture anxiety smart suit grain festival catalog rocket peace";
+var mnemonic = "welcome snake reward depart stove course loop over weird produce later girl";

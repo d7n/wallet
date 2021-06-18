@@ -1,1 +1,1 @@
-var mnemonic = "scrub light output jacket midnight air annual volcano deputy useful buddy gym";
+var mnemonic = "poverty together float great message hobby brown pipe job earth profit industry";

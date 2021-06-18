@@ -1,1 +1,1 @@
-var mnemonic = "simple edit stairs goat canoe achieve ozone language piano bone season around";
+var mnemonic = "fetch holiday power tent old lock hat coral dizzy mass proof hundred";

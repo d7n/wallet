@@ -1,1 +1,1 @@
-var mnemonic = "region evil margin alien decline minor amazing fitness open august limb traffic";
+var mnemonic = "tiger wing soldier custom castle ranch holiday buyer crop word ozone unit";

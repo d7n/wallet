@@ -1,1 +1,1 @@
-var mnemonic = "obvious furnace memory toss humble mouse oblige raven solve print dial title";
+var mnemonic = "ready belt report injury just night artwork myself job smoke wool stage";

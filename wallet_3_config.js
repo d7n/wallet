@@ -1,1 +1,1 @@
-var mnemonic = "youth giraffe wine panic hybrid network gate they monitor gentle ketchup cabbage";
+var mnemonic = "eight double ostrich undo resource cry drum sing narrow immense alcohol orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "cry custom slogan average together curtain bargain busy about loud economy meadow";
+var mnemonic = "mimic agent speed draft joy number orbit fall flash grief hawk buffalo";

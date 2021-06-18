@@ -1,1 +1,1 @@
-var mnemonic = "physical twin canal loop weekend kiss science coyote ancient trophy hat urge";
+var mnemonic = "stick crowd entry trial between pledge obscure legal carbon disorder lesson daring";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle pony horror plate security purse flight weird panic usage dwarf approve";
+var mnemonic = "harbor index misery salt twice bike grow only lock exist prefer verb";

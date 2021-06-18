@@ -1,1 +1,1 @@
-var mnemonic = "bicycle satoshi egg cheese bicycle hobby average extend daughter topic expire nominee";
+var mnemonic = "steel achieve begin shuffle leg arch flight chair wheel dice finger aunt";

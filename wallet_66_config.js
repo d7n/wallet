@@ -1,1 +1,1 @@
-var mnemonic = "moon pause path virtual purity federal imitate relax steel decade chapter champion";
+var mnemonic = "emotion addict degree guide meat escape jeans dawn three stage world expose";

@@ -1,1 +1,1 @@
-var mnemonic = "large shoe ramp situate domain mistake city scout rule acquire scrub unhappy";
+var mnemonic = "bid salad argue common repair quantum roof dilemma pumpkin object describe visit";

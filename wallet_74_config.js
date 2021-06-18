@@ -1,1 +1,1 @@
-var mnemonic = "fashion because parent unique area ankle gravity pool cat salt soon half";
+var mnemonic = "orient tower slight observe better taxi assume girl cotton twin stove oblige";

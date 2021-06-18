@@ -1,1 +1,1 @@
-var mnemonic = "organ castle breeze know bacon error steak dinosaur pride wreck joke lift";
+var mnemonic = "idle ship apple property neutral multiply bulb arch truly pottery tell two";

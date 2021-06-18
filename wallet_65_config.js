@@ -1,1 +1,1 @@
-var mnemonic = "aunt december front loyal solid couch once sweet weird rely crucial stand";
+var mnemonic = "medal staff favorite opera drive pitch trend slogan color offer ranch gossip";

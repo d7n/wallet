@@ -1,1 +1,1 @@
-var mnemonic = "there finish horror myth solar actual prevent firm artefact electric window festival";
+var mnemonic = "cargo oblige upset cluster wagon promote nuclear worth join cotton february boil";

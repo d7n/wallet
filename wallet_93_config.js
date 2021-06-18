@@ -1,1 +1,1 @@
-var mnemonic = "width allow utility clarify bargain frost solid will sheriff goose vague bitter";
+var mnemonic = "comfort screen simple scatter sunny title race outside real message mother work";

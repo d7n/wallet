@@ -1,1 +1,1 @@
-var mnemonic = "off trophy coffee hip afraid also protect liquid creek light genius army";
+var mnemonic = "blouse early echo cake copy version pitch pen dress search obtain good";

@@ -1,1 +1,1 @@
-var mnemonic = "glass total six click stomach human ethics wash crater bird busy hollow";
+var mnemonic = "clinic solution speak rude burger liquid fortune skate trophy lyrics jazz youth";

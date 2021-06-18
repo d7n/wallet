@@ -1,1 +1,1 @@
-var mnemonic = "wave future machine that general review rigid actor subject engine romance actual";
+var mnemonic = "ethics wrong amateur wisdom height rule runway level speak hero involve jungle";

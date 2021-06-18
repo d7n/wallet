@@ -1,1 +1,1 @@
-var mnemonic = "captain boss endless jar badge bomb noble fever wire achieve twist grief";
+var mnemonic = "stumble success nut pen pulp maple fun actress zoo rubber stock rare";

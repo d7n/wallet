@@ -1,1 +1,1 @@
-var mnemonic = "fee give select impose group garbage exit have fee stool gospel kid";
+var mnemonic = "salt decrease sphere pupil spread tribe siren knife rifle utility ordinary acoustic";

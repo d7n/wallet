@@ -1,1 +1,1 @@
-var mnemonic = "silk there phrase bounce angry faculty repair curve best cook throw release";
+var mnemonic = "wife basic fruit hospital caught gallery sword fury neutral under tragic pepper";

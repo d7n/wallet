@@ -1,1 +1,1 @@
-var mnemonic = "zoo oppose virus dilemma belt stay galaxy oxygen other identify decrease sort";
+var mnemonic = "beach daring essay fame blood syrup tunnel broccoli describe smoke chest tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "front clean used announce green dial unusual car coil liar hunt core";
+var mnemonic = "dolphin awful split spy rifle business region can guess early dress wisdom";

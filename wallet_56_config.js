@@ -1,1 +1,1 @@
-var mnemonic = "tornado pioneer smile item indicate today source gas guess river lunar dress";
+var mnemonic = "squeeze install fat broken eternal cry message bone enter skate rubber pet";

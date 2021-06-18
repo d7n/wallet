@@ -1,1 +1,1 @@
-var mnemonic = "drop cancel lake shed surround field dolphin festival equal mobile fun veteran";
+var mnemonic = "bone random coach frozen dry universe lounge carry abandon suggest domain border";

@@ -1,1 +1,1 @@
-var mnemonic = "topple brown swallow fall vanish six fiscal hero panic valid shallow goose";
+var mnemonic = "dream ginger connect wrestle sponsor since force total vivid woman predict enter";

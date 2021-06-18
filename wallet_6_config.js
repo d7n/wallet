@@ -1,1 +1,1 @@
-var mnemonic = "sister rare area humor post toe praise castle simple increase siege caution";
+var mnemonic = "gossip crush kid retire elevator retreat this security camp noodle collect mountain";

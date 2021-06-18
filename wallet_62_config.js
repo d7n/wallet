@@ -1,1 +1,1 @@
-var mnemonic = "pilot lucky cube rookie foster candy fiscal coffee truly forget fiction soft";
+var mnemonic = "senior spawn game mechanic frown intact globe second man lava fall cannon";

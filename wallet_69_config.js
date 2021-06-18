@@ -1,1 +1,1 @@
-var mnemonic = "smart pause artefact trash gorilla stairs note mind dice alcohol glance silver";
+var mnemonic = "average parrot bus switch romance maze tennis wagon cover defense math whale";

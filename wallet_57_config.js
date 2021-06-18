@@ -1,1 +1,1 @@
-var mnemonic = "spot fragile birth olive slow pioneer mask poverty say knock grunt access";
+var mnemonic = "include ride body escape chalk quantum cube twice initial bring spin banner";

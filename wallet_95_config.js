@@ -1,1 +1,1 @@
-var mnemonic = "such degree strategy pigeon result hour double roast daring describe label regular";
+var mnemonic = "grain general put occur setup delay unknown response fashion inform prefer spy";

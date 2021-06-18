@@ -1,1 +1,1 @@
-var mnemonic = "caution media salmon void east under strategy knife there sister such mixture";
+var mnemonic = "keep mimic jewel throw pudding sausage unhappy settle acid obvious mesh media";

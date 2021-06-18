@@ -1,1 +1,1 @@
-var mnemonic = "speak review noise unhappy shop gasp hello stick parent occur alert tent";
+var mnemonic = "tribe present piano eye captain equal under repeat subway alley canoe boat";

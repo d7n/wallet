@@ -1,1 +1,1 @@
-var mnemonic = "fog recipe note theory excess puppy sustain wisdom camp announce few phrase";
+var mnemonic = "swarm stand people wall shed scatter degree glow spatial length such invest";

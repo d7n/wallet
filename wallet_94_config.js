@@ -1,1 +1,1 @@
-var mnemonic = "fatal extra own year where car absorb link luggage hole garage all";
+var mnemonic = "same divide tornado three rifle chapter crush pig welcome web buddy urge";

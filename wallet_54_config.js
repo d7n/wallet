@@ -1,1 +1,1 @@
-var mnemonic = "convince weasel option thrive east fatigue festival evolve cliff decline mansion credit";
+var mnemonic = "when august stadium piece crater hedgehog twelve sorry soldier pretty suit brief";

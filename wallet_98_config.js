@@ -1,1 +1,1 @@
-var mnemonic = "tiger certain town forum rifle vanish tonight forest swift space mistake lounge";
+var mnemonic = "student gift fiber volume sunny spike survey slight hybrid device easy story";

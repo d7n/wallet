@@ -1,1 +1,1 @@
-var mnemonic = "food apology butter legal onion trend congress spare harsh night era climb";
+var mnemonic = "wire bamboo similar stove enough oven ripple deal injury reward ski term";

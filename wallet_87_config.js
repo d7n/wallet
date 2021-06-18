@@ -1,1 +1,1 @@
-var mnemonic = "torch hello salute grab tube riot banner tragic fantasy flight brass coconut";
+var mnemonic = "tip trash chuckle couple dice brain orphan name october choice aerobic coyote";

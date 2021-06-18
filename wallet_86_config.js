@@ -1,1 +1,1 @@
-var mnemonic = "relief improve vapor today clean garlic candy frozen cube search captain solution";
+var mnemonic = "hood stock actor credit question year congress nature office advice outer vendor";

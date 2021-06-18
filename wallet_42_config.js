@@ -1,1 +1,1 @@
-var mnemonic = "south sing hamster grab insane under quiz above holiday panic fabric pelican";
+var mnemonic = "sniff cabin solar prize junior bar cattle laptop spell boss solar chunk";

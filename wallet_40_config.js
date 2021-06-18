@@ -1,1 +1,1 @@
-var mnemonic = "public clock company crash open various return mean comic web image explain";
+var mnemonic = "brain fresh student flag bench unlock easily shell palace faith calm army";

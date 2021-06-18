@@ -1,1 +1,1 @@
-var mnemonic = "select portion drum recipe math welcome middle year very exotic virtual inherit";
+var mnemonic = "measure solid pass cereal seminar sun heart wink primary spawn rare risk";

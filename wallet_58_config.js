@@ -1,1 +1,1 @@
-var mnemonic = "canal beef faculty come course kiss choose wait memory chuckle element auction";
+var mnemonic = "globe filter output cry gift erode uncle artwork urge dust little you";

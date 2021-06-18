@@ -1,1 +1,1 @@
-var mnemonic = "long office flash avoid debris eyebrow borrow brick adjust pause feature menu";
+var mnemonic = "advance hero wagon two focus barely expand giraffe portion output physical embody";

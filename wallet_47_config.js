@@ -1,1 +1,1 @@
-var mnemonic = "buyer will diamond thrive need search knife region find volume denial cattle";
+var mnemonic = "law joy prize nuclear blood voice indicate express friend cage old security";

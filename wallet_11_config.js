@@ -1,1 +1,1 @@
-var mnemonic = "super rebuild uniform box dinosaur brown bitter super kit power bullet evil";
+var mnemonic = "warm setup camera output twenty twist embark cloud exclude vessel walnut accuse";

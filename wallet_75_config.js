@@ -1,1 +1,1 @@
-var mnemonic = "nerve ice winter evidence broken coral fame empower million blast beef dismiss";
+var mnemonic = "december what winter bridge verify nature carry eyebrow weekend raccoon addict treat";

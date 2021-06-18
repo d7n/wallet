@@ -1,1 +1,1 @@
-var mnemonic = "left avocado point picture find pumpkin crowd renew arrest hollow coyote antique";
+var mnemonic = "pair omit define doll fork aunt angle tourist park stamp wrap jacket";

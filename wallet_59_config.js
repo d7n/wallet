@@ -1,1 +1,1 @@
-var mnemonic = "sweet plunge badge rail friend evidence antenna smoke window car easy slam";
+var mnemonic = "jealous hybrid occur dream rug expand churn slot casino butter screen ready";

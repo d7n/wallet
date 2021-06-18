@@ -1,1 +1,1 @@
-var mnemonic = "census mind brick boy simple view arch caught remove beyond final embark";
+var mnemonic = "demise chair rent dream deer absurd more fall ability thing film robot";

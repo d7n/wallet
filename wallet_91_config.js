@@ -1,1 +1,1 @@
-var mnemonic = "blade clump scene duty innocent loan element term labor cushion festival crater";
+var mnemonic = "mirror hub echo glove recall impose arm close exile tool wreck vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "sphere retire jazz rude kingdom enter fortune identify exit rookie patch swift";
+var mnemonic = "door praise junior junk buddy catch area luggage act february describe pelican";

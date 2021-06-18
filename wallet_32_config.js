@@ -1,1 +1,1 @@
-var mnemonic = "dolphin leg argue giraffe exist area book grunt joy trophy east gallery";
+var mnemonic = "chef extend bitter elbow inner grain symptom twin until rifle eight enjoy";

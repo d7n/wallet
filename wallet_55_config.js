@@ -1,1 +1,1 @@
-var mnemonic = "group bunker clay boring hope current educate cost bacon matrix say rice";
+var mnemonic = "remove fantasy leopard cat busy robust hope neglect moral place expose stone";

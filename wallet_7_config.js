@@ -1,1 +1,1 @@
-var mnemonic = "cycle uncover actress brave adjust winter birth inflict unfold luxury direct lottery";
+var mnemonic = "aunt pig make echo unique extra acquire exhibit body often audit seed";

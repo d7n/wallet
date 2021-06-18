@@ -1,1 +1,1 @@
-var mnemonic = "obvious scatter slot control inspire input spot tool crunch grain wedding stomach";
+var mnemonic = "banner credit okay anger future fiscal smart second cave tragic panic rookie";

@@ -1,1 +1,1 @@
-var mnemonic = "judge room creek display rib orange fresh actress chief mobile record future";
+var mnemonic = "used code else siege basic lunar pilot slab payment empty judge whisper";

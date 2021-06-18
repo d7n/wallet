@@ -1,1 +1,1 @@
-var mnemonic = "miracle title once two enact speed bring thunder youth admit chase penalty";
+var mnemonic = "clerk spot betray tag into ceiling give perfect extra actor present bubble";

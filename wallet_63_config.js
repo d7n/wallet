@@ -1,1 +1,1 @@
-var mnemonic = "foster odor chest secret hidden north sick crouch manual maid embrace fury";
+var mnemonic = "alcohol crack ignore pride chase try merit meadow uniform beauty inhale address";

@@ -1,1 +1,1 @@
-var mnemonic = "palm reopen grass gesture electric steak stick shift burger apart recycle armed";
+var mnemonic = "write inner silent menu road glare pigeon reward alert fork inform exile";

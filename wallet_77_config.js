@@ -1,1 +1,1 @@
-var mnemonic = "unknown exotic marine item record orchard fog citizen advance diamond admit digital";
+var mnemonic = "brain multiply noodle obtain tenant reform prepare move mercy chest learn hub";

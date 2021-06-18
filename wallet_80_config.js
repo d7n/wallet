@@ -1,1 +1,1 @@
-var mnemonic = "eternal toilet credit monkey credit capital hold meadow print quality relax drill";
+var mnemonic = "century boost screen patrol garden long tongue camp bachelor deputy replace follow";
