@@ -1,1 +1,1 @@
-var mnemonic = "diamond test question album tag million cream pyramid any arm frog tray";
+var mnemonic = "scan drift arch rail day gallery protect pilot town that ghost extend";

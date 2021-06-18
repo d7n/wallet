@@ -1,1 +1,1 @@
-var mnemonic = "rice wrap barely family arrow glad ecology draft teach kid dinner barrel";
+var mnemonic = "pitch stamp indicate movie magic unable ladder fat unique feature regular peasant";

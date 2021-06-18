@@ -1,1 +1,1 @@
-var mnemonic = "volume luggage snap eagle pool produce elephant warfare execute lumber pony happy";
+var mnemonic = "climb scan zone summer rate clown live wasp trick fan bubble fire";

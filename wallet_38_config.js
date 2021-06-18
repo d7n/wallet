@@ -1,1 +1,1 @@
-var mnemonic = "donor nest acoustic duck shaft buddy tumble inquiry scheme popular eight input";
+var mnemonic = "maid turkey fire lady cloth prize wreck siege bid deal decorate laptop";

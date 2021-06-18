@@ -1,1 +1,1 @@
-var mnemonic = "regular raccoon case end cave belt very grit trend art result peanut";
+var mnemonic = "negative sketch surface soccer lucky help dizzy welcome soldier peace high balcony";

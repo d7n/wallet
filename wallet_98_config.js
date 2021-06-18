@@ -1,1 +1,1 @@
-var mnemonic = "dutch kit verify step pen tilt super battle genuine auction merry lens";
+var mnemonic = "explain pottery alone option grape eye innocent olympic wrong wide noise baby";

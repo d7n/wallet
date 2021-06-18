@@ -1,1 +1,1 @@
-var mnemonic = "flush puzzle brave jaguar critic room swing tongue own jump lemon gentle";
+var mnemonic = "super method media symptom vote slow topple drive couple grass demand pencil";

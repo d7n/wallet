@@ -1,1 +1,1 @@
-var mnemonic = "master wool ask order sand deputy scan quick future diet evoke toward";
+var mnemonic = "aerobic guide tilt blade grass betray noise faint copy first recycle when";

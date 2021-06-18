@@ -1,1 +1,1 @@
-var mnemonic = "prevent goose surface narrow yellow pyramid result leaf vintage cycle gravity wrist";
+var mnemonic = "narrow tonight salon twin second indicate key sibling network vivid prevent stick";

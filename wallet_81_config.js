@@ -1,1 +1,1 @@
-var mnemonic = "hundred quantum blush tribe filter release spirit weekend ketchup clerk truth lawn";
+var mnemonic = "differ coyote custom turtle trend useful dream worry truth laptop giant coin";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze oppose under obvious net wrist obtain ensure parent change possible praise";
+var mnemonic = "fury fire clerk spider tissue segment penalty lonely twin excite picnic insect";

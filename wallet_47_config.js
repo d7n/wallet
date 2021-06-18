@@ -1,1 +1,1 @@
-var mnemonic = "behave insane spoon margin chief giant holiday witness game release olive air";
+var mnemonic = "penalty razor true hedgehog parade ship baby error scare ridge segment exhibit";

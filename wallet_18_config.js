@@ -1,1 +1,1 @@
-var mnemonic = "scheme glass kingdom elephant follow width bean during need ritual ketchup sun";
+var mnemonic = "order spatial neither morning fetch health lake solid type orange rude margin";

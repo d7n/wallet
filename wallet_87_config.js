@@ -1,1 +1,1 @@
-var mnemonic = "possible wood hope type goose because decrease dizzy orange wear coral artwork";
+var mnemonic = "labor expect roast bread ceiling prize artist autumn cabbage edge circle situate";

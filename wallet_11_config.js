@@ -1,1 +1,1 @@
-var mnemonic = "dwarf arctic anxiety custom keen shift degree warrior bone viable poverty ability";
+var mnemonic = "adapt spin magic toss offer ordinary clog ask useless keen camp catalog";

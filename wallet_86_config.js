@@ -1,1 +1,1 @@
-var mnemonic = "steak nasty tobacco disease number forget infant border change six abuse kidney";
+var mnemonic = "elephant battle ready into rubber acid ski simple muscle solid shine joke";

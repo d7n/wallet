@@ -1,1 +1,1 @@
-var mnemonic = "green hub drill teach intact hungry split nuclear easily coconut parade skin";
+var mnemonic = "frost transfer empty vehicle lock liberty hotel clap left victory weapon fuel";

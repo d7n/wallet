@@ -1,1 +1,1 @@
-var mnemonic = "cabbage goddess bone ancient sketch allow under degree divide route plate mom";
+var mnemonic = "clump patient bubble hover silver expose cruise staff suit cinnamon twenty embark";

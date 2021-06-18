@@ -1,1 +1,1 @@
-var mnemonic = "become trash actor oblige hen emerge reject update weather detect burger miracle";
+var mnemonic = "act girl crunch wing glove frame coffee kiss leave demand talk gaze";

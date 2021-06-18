@@ -1,1 +1,1 @@
-var mnemonic = "body possible cheese mansion enable moral maximum strike mango vital able gallery";
+var mnemonic = "return average where company sport dish riot aunt enough ship escape since";

@@ -1,1 +1,1 @@
-var mnemonic = "feed similar lonely assume dumb task question grant acquire pool task gloom";
+var mnemonic = "eight evil auction day property mixture physical bus east extra empower term";

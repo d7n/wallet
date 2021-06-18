@@ -1,1 +1,1 @@
-var mnemonic = "trim whale copy camera nut spread captain remember stage wheat pet husband";
+var mnemonic = "elder remind cash audit negative glow destroy cage catalog fancy vehicle cloth";

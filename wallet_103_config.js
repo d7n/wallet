@@ -1,1 +1,1 @@
-var mnemonic = "all royal crater when own write grace eagle clown case feed feature";
+var mnemonic = "reform any table enlist flame essence about solar clinic glow escape lemon";

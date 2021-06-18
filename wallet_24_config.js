@@ -1,1 +1,1 @@
-var mnemonic = "robust crash legend fish alert anchor unable square please rabbit luggage wing";
+var mnemonic = "blue consider ranch solid injury noise oven gun drama rose category marriage";

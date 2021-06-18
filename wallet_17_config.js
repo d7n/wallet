@@ -1,1 +1,1 @@
-var mnemonic = "purse story rubber maple reveal service view swift plug duty marriage sign";
+var mnemonic = "gate truly tortoise diamond nut immune pond actual peasant rigid ball clock";

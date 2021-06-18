@@ -1,1 +1,1 @@
-var mnemonic = "install clump forest erase gasp useless corn real top marble apology hello";
+var mnemonic = "sheriff rare lyrics topic family ocean skill nurse either quality what mixture";

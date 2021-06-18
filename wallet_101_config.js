@@ -1,1 +1,1 @@
-var mnemonic = "can night patient soap inside betray duty damp width grass host senior";
+var mnemonic = "walk deer front riot deny smart tray apple jazz clap update castle";

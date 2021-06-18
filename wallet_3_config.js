@@ -1,1 +1,1 @@
-var mnemonic = "fix manual eager deal slam long eager category filter true torch junior";
+var mnemonic = "humble bus lounge payment wheat sudden method wine degree hotel squirrel slab";

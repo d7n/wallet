@@ -1,1 +1,1 @@
-var mnemonic = "dog hover device vehicle burden talent joke bracket poet theme certain allow";
+var mnemonic = "boil hybrid glow artefact idea elevator elevator web sentence alley junior horse";

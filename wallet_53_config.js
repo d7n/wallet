@@ -1,1 +1,1 @@
-var mnemonic = "stomach element soon relax time inherit lion edit script joy elephant person";
+var mnemonic = "pulse culture oval mountain prosper include fame discover broccoli wisdom piece curtain";

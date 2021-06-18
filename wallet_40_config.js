@@ -1,1 +1,1 @@
-var mnemonic = "toddler knee witness champion wear yellow table seek expose chicken buffalo gesture";
+var mnemonic = "neutral welcome film border frame mercy various rich comic alien tattoo reduce";

@@ -1,1 +1,1 @@
-var mnemonic = "boost table movie jelly regret satoshi clever omit moon enhance acoustic mistake";
+var mnemonic = "rich ill attract shoe attitude feed unique crowd nuclear horror acquire tomato";

@@ -1,1 +1,1 @@
-var mnemonic = "answer bargain host festival brief cattle tissue lounge empower above globe end";
+var mnemonic = "myth isolate thumb imitate hill firm law armed member suspect happy luggage";

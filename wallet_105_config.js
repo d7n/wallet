@@ -1,1 +1,1 @@
-var mnemonic = "oil dress cute coconut demand rally catch hundred stay scout vacuum occur";
+var mnemonic = "lyrics tool vivid enable dragon replace power banner oak agree outside basic";

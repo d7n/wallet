@@ -1,1 +1,1 @@
-var mnemonic = "round pepper mirror obvious solution boat street quarter ribbon clip joy speak";
+var mnemonic = "nuclear much glad news sword media panda depart latin false eternal powder";

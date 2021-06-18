@@ -1,1 +1,1 @@
-var mnemonic = "firm print pulse rough people maple isolate game uniform jump age undo";
+var mnemonic = "exclude train school logic dog sentence begin reunion inspire cupboard note daughter";

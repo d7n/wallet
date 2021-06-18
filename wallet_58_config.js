@@ -1,1 +1,1 @@
-var mnemonic = "miracle gasp finish defy shift sample tube that sell taste outside picture";
+var mnemonic = "village shoot able sun kitten town corn bronze craft left journey thrive";

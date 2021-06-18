@@ -1,1 +1,1 @@
-var mnemonic = "teach bunker ocean cash chronic tree race initial limb faculty social hero";
+var mnemonic = "proud mutual ready board bridge purity book eyebrow blame fault mimic tattoo";

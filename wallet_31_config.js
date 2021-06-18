@@ -1,1 +1,1 @@
-var mnemonic = "rigid embrace pave crash sunset dismiss where truth same lobster honey legend";
+var mnemonic = "fossil heart thrive image forward cabbage exclude around robot airport climb verb";

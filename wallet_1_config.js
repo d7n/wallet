@@ -1,1 +1,1 @@
-var mnemonic = "aim spy object average cheese salt member leave protect injury twin panel";
+var mnemonic = "patch spell girl tissue universe thought cable slender ticket ask subject empty";

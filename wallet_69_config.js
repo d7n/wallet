@@ -1,1 +1,1 @@
-var mnemonic = "rally wise process describe fossil soccer borrow know rescue castle gorilla matter";
+var mnemonic = "link measure toddler calm young empower loyal believe company escape work crash";

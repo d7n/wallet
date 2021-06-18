@@ -1,1 +1,1 @@
-var mnemonic = "crop globe wedding put blind tired coral merry blanket unaware cheese crowd";
+var mnemonic = "earth aspect tongue online sting hire avocado gain meadow manual great sense";

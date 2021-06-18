@@ -1,1 +1,1 @@
-var mnemonic = "cactus elevator layer woman axis pudding ride story reject merry permit bleak";
+var mnemonic = "arena total aim length decade sniff deliver process food bottom casino stem";

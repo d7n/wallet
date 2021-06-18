@@ -1,1 +1,1 @@
-var mnemonic = "cluster fence rule giraffe glory amused depth achieve never employ attend junk";
+var mnemonic = "champion range ketchup route silent input among dream argue faith soup hawk";

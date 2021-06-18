@@ -1,1 +1,1 @@
-var mnemonic = "cattle harsh era hollow shoulder nuclear surface job coast live harvest book";
+var mnemonic = "garment recycle sponsor betray design work stem put athlete health stadium burger";

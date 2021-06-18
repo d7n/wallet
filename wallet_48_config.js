@@ -1,1 +1,1 @@
-var mnemonic = "impulse patch pond normal hazard sniff bullet fiction retire bounce expand confirm";
+var mnemonic = "pink holiday lounge outer dad swim digital usual scrap learn once dove";

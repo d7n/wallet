@@ -1,1 +1,1 @@
-var mnemonic = "private riot stable impose fade minute enough angry fantasy awful comic liberty";
+var mnemonic = "cannon member glide lobster before easily grape ranch symbol insane visa gasp";

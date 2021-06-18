@@ -1,1 +1,1 @@
-var mnemonic = "total slight six hint option snack lizard drop age scatter cement plunge";
+var mnemonic = "ensure milk chicken middle giraffe link arm surround farm snow become mean";

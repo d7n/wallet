@@ -1,1 +1,1 @@
-var mnemonic = "isolate stem wish sadness elder vintage motion student message mass answer close";
+var mnemonic = "broom journey holiday donate artwork gym extra drop punch earn fold update";

@@ -1,1 +1,1 @@
-var mnemonic = "couch wonder fan phrase inspire logic tomato one away move hurdle dentist";
+var mnemonic = "cupboard million warm electric among casual credit mammal found ocean reveal meat";

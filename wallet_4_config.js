@@ -1,1 +1,1 @@
-var mnemonic = "carpet parrot mystery hammer dumb horn want two pyramid cycle destroy east";
+var mnemonic = "bread crystal fall verb swamp sort brave vacant print reward connect gold";

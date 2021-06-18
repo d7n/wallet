@@ -1,1 +1,1 @@
-var mnemonic = "canal poem afraid party aerobic antique attitude silver change room place kiwi";
+var mnemonic = "decline setup bus inflict come border pretty accident muffin glare crush poet";

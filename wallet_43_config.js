@@ -1,1 +1,1 @@
-var mnemonic = "beach govern pause relief inspire become capital tray bridge love ship sell";
+var mnemonic = "rude scale argue village neutral dutch desert hover expect suggest kitchen smoke";

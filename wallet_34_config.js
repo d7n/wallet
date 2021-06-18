@@ -1,1 +1,1 @@
-var mnemonic = "armor slice squirrel basket ritual shrimp cat brain remain cinnamon dignity side";
+var mnemonic = "box gadget narrow subway kitchen guilt tennis harsh rice false cause mutual";

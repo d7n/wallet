@@ -1,1 +1,1 @@
-var mnemonic = "choice orbit poem topic near alone picnic toddler hedgehog omit wild divide";
+var mnemonic = "welcome alcohol quarter hand forward behave nerve stay device regret list since";

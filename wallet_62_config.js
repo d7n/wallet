@@ -1,1 +1,1 @@
-var mnemonic = "laugh hover bless measure wasp puppy recall finish mirror muscle carpet slim";
+var mnemonic = "length tackle brisk shallow critic modify rookie kiwi flash neck suffer hub";

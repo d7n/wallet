@@ -1,1 +1,1 @@
-var mnemonic = "piece car second proof desert ticket direct wheat gift bonus onion kit";
+var mnemonic = "shed dice candy basic cupboard critic affair cause steak fine bike play";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp pulp lady churn deny broom bulb nephew negative theme buzz clock";
+var mnemonic = "crazy dismiss pole fantasy leader then skirt confirm carry innocent book adult";

@@ -1,1 +1,1 @@
-var mnemonic = "real later match nerve cliff hole tissue poverty poverty mean drastic acquire";
+var mnemonic = "shift topic wrong stomach little tennis term cinnamon impulse survey across useful";

@@ -1,1 +1,1 @@
-var mnemonic = "firm caution famous dog figure excuse alone hamster never planet immune ten";
+var mnemonic = "tourist height song inhale come gesture prison hero swap fat raven quiz";

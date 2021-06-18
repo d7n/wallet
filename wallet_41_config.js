@@ -1,1 +1,1 @@
-var mnemonic = "noodle omit charge shift few dove finish flush broom offer grant giraffe";
+var mnemonic = "field small desk ankle reunion tumble track path oil bunker actress sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "skill uncle divide hedgehog lens ocean shove effort polar put skill fatigue";
+var mnemonic = "yard scout taste copper anchor picture advance rhythm angry bless blame announce";

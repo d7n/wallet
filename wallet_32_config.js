@@ -1,1 +1,1 @@
-var mnemonic = "knife soldier master gauge betray oxygen already hazard age income rude quick";
+var mnemonic = "change proof such siege motion during congress shaft coast social retire pink";

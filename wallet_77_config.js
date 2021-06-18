@@ -1,1 +1,1 @@
-var mnemonic = "street suggest impulse any half cloth scale dwarf blush budget leopard card";
+var mnemonic = "menu motor carpet ball broom manual credit element velvet click afford burden";

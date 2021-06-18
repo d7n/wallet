@@ -1,1 +1,1 @@
-var mnemonic = "law melody auto turtle enter cart sphere stock raw next shrug law";
+var mnemonic = "pear borrow measure hard glow theme banana cake dwarf stereo entire oppose";

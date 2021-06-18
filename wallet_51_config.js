@@ -1,1 +1,1 @@
-var mnemonic = "snake history bulk satisfy round robot route original list magnet wheel film";
+var mnemonic = "render food mom shoe autumn stage mixture amateur brother photo abstract vocal";

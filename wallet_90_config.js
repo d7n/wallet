@@ -1,1 +1,1 @@
-var mnemonic = "paper cherry panther elite awesome quarter require title syrup flat rescue fruit";
+var mnemonic = "endorse tuition garlic assume pipe wage clarify brave black later cupboard sound";

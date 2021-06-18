@@ -1,1 +1,1 @@
-var mnemonic = "security charge make tuna pause theory salmon half kite future step minor";
+var mnemonic = "eye infant brand puppy slush paper bind poverty flower unique noise verb";

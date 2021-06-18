@@ -1,1 +1,1 @@
-var mnemonic = "client beyond bag glimpse clutch decorate nerve almost sibling hip perfect fence";
+var mnemonic = "imitate dish plunge drip false tone cousin worth sight lunch modify duty";

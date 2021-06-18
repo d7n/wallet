@@ -1,1 +1,1 @@
-var mnemonic = "angry pyramid power truck double sadness tape cactus farm click diesel outer";
+var mnemonic = "oppose naive barely manage pistol suffer legend special cram blast flame pepper";

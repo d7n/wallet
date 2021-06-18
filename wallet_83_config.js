@@ -1,1 +1,1 @@
-var mnemonic = "jewel energy retire paddle thrive spoil flame carry smart interest quality sugar";
+var mnemonic = "wall minimum hazard coach market speed monitor around satoshi push argue tired";

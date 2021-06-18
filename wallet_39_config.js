@@ -1,1 +1,1 @@
-var mnemonic = "hurry boss coil hand lazy canyon fantasy claim infant emotion clinic three";
+var mnemonic = "sport mail plunge scene raven purity inflict actual round wide survey mixture";

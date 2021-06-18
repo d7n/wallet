@@ -1,1 +1,1 @@
-var mnemonic = "spirit pole glory tuna arrange focus equip run nasty giggle apology fury";
+var mnemonic = "knee purity kite hamster document early farm spread announce panda opera luggage";

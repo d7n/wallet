@@ -1,1 +1,1 @@
-var mnemonic = "addict hundred test trophy ladder body love luxury tumble uncle knock gym";
+var mnemonic = "fossil embrace shine kick chef pig repair guess retreat paddle run energy";

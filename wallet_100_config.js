@@ -1,1 +1,1 @@
-var mnemonic = "west oblige squirrel viable text vocal bring fossil chronic palm leader orient";
+var mnemonic = "brave post dwarf tray tragic build universe paddle final explain hour brief";

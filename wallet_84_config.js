@@ -1,1 +1,1 @@
-var mnemonic = "canvas boil learn run ahead kit blouse mystery license grow finish human";
+var mnemonic = "opera upper drink era chief foster snake snack repair fantasy trigger slim";

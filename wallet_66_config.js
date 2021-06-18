@@ -1,1 +1,1 @@
-var mnemonic = "excite actor shoe group myth muffin shoulder replace element elegant six resource";
+var mnemonic = "royal confirm punch insect noble menu lunch excite burger sudden mammal ritual";

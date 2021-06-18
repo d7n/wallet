@@ -1,1 +1,1 @@
-var mnemonic = "venture security middle much web north depend over left breeze year planet";
+var mnemonic = "cup letter educate sense hobby duty action wine panic injury rule reunion";

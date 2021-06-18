@@ -1,1 +1,1 @@
-var mnemonic = "satoshi wise also bus limit buffalo monitor furnace churn save opinion stamp";
+var mnemonic = "great utility warm clown glimpse chimney tackle tower mix phone member strategy";

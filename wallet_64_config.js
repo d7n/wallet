@@ -1,1 +1,1 @@
-var mnemonic = "pony foam unfair insect degree flash kiwi toilet original column image claim";
+var mnemonic = "release deliver army turn list deny spirit increase female cliff light reveal";

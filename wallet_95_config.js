@@ -1,1 +1,1 @@
-var mnemonic = "clap tonight tooth forest erupt quiz praise lake tape swim mandate silly";
+var mnemonic = "combine network then sword cube patient wrestle dwarf organ oblige alien squeeze";

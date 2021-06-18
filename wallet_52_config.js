@@ -1,1 +1,1 @@
-var mnemonic = "skirt result loop elite matrix meadow wet blue ripple mushroom outside one";
+var mnemonic = "assist rubber stage annual robust deal switch hood soon aisle method water";

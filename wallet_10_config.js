@@ -1,1 +1,1 @@
-var mnemonic = "old isolate crouch keen zero success humble portion loud kiwi bright summer";
+var mnemonic = "property cherry rose car crash behave rare correct owner bone exchange youth";

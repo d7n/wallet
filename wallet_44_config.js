@@ -1,1 +1,1 @@
-var mnemonic = "soon awesome energy soon verb happy buyer enrich luxury begin plate rally";
+var mnemonic = "cave rebuild arrange dad shift ball coil dinosaur quarter whale sheriff firm";
