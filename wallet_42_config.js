@@ -1,1 +1,1 @@
-var mnemonic = "advice bag forest review october cattle release urge canoe maximum sock solar";
+var mnemonic = "title ball web acoustic object teach typical final profit teach heart rapid";

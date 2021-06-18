@@ -1,1 +1,1 @@
-var mnemonic = "visit clump depend identify chair animal math core pen cave give actual";
+var mnemonic = "where announce math cake weapon flavor health year aerobic equip truck bar";

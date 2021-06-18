@@ -1,1 +1,1 @@
-var mnemonic = "arm board hero mystery ahead bridge beef breeze tank skirt noise market";
+var mnemonic = "fatigue claim draw congress talk slight mimic alert fever virus ski notable";

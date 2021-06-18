@@ -1,1 +1,1 @@
-var mnemonic = "wink baby market wait river vehicle frozen coin half hope infant cram";
+var mnemonic = "weird zero asset aerobic buddy session vacuum obvious step general laundry fabric";

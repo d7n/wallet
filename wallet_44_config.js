@@ -1,1 +1,1 @@
-var mnemonic = "face screen melt local segment retire motion surround much silent urban room";
+var mnemonic = "tone such parade uncover seminar dog initial age apart away hamster worry";

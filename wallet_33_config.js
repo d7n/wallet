@@ -1,1 +1,1 @@
-var mnemonic = "senior creek when trip ensure margin medal still verify unfair voyage brass";
+var mnemonic = "announce mistake awkward search primary undo visit ankle ugly shaft rain pave";

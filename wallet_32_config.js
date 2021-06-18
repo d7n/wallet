@@ -1,1 +1,1 @@
-var mnemonic = "spread casual demand chest churn swing find mimic old screen rifle good";
+var mnemonic = "display visual position witness position stereo danger disagree ice govern arrow neither";

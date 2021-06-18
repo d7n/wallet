@@ -1,1 +1,1 @@
-var mnemonic = "faith nominee choose pilot pen bullet tilt bunker orphan gesture enemy relax";
+var mnemonic = "travel version ugly blade retire muffin weasel matter way ceiling swear garlic";

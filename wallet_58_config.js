@@ -1,1 +1,1 @@
-var mnemonic = "thrive fluid pet digital weird enlist math federal tattoo reward meat pipe";
+var mnemonic = "asthma lonely margin hood noble this rifle describe please bundle keen endless";

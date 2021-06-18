@@ -1,1 +1,1 @@
-var mnemonic = "core minor grab write differ solid burden select sing miracle there quit";
+var mnemonic = "tribe into own hurry time two enforce walk royal holiday envelope idle";

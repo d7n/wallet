@@ -1,1 +1,1 @@
-var mnemonic = "purpose fade twenty wink auction peanut pen magic betray benefit lend poem";
+var mnemonic = "poet cup awake fiction speak charge involve grape satisfy dutch horn orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "cable decrease category sleep open seven garbage endless aisle biology fashion nature";
+var mnemonic = "mother negative actress photo inflict monkey veteran foam arctic green demise oak";

@@ -1,1 +1,1 @@
-var mnemonic = "swear resemble number cheap coconut angry march valley caution supply ivory toilet";
+var mnemonic = "consider tired trust today canvas business spawn valve miracle fox ranch always";

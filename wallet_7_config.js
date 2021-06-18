@@ -1,1 +1,1 @@
-var mnemonic = "armed rescue quarter asthma biology garage reason kit hundred curve two hunt";
+var mnemonic = "patch electric witness again maple item glow pistol between weather track chimney";

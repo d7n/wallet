@@ -1,1 +1,1 @@
-var mnemonic = "ocean unhappy path mean roof pen hand quiz paddle accident magic casual";
+var mnemonic = "reveal orphan lend often piece need wage beauty census inch forum taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor horn trumpet vintage spice chat stock audit enhance wasp idle plastic";
+var mnemonic = "clutch cat cloth hint primary swamp kangaroo entry park keep offer ceiling";

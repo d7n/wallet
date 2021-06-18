@@ -1,1 +1,1 @@
-var mnemonic = "undo foam open enter grace runway unfair crazy wrestle valid shallow velvet";
+var mnemonic = "cricket more sample nurse milk admit soap fire ahead maximum summer caution";

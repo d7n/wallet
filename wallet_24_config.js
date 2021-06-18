@@ -1,1 +1,1 @@
-var mnemonic = "pizza shoe mango poverty genuine rifle harvest balance sort solve winner crystal";
+var mnemonic = "prefer whip hospital answer lunch amount stereo embark pact heavy mutual creek";

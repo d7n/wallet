@@ -1,1 +1,1 @@
-var mnemonic = "behind special decline nature supreme penalty motor enter edge ribbon broken math";
+var mnemonic = "pool announce surface mushroom evidence pond crowd daughter nut drip anger issue";

@@ -1,1 +1,1 @@
-var mnemonic = "wise ten bounce float aerobic melt caught biology turn effort baby milk";
+var mnemonic = "audit cat burger bless speed dust meat win pave off spread cattle";

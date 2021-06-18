@@ -1,1 +1,1 @@
-var mnemonic = "obey hollow excess antenna tiger slide aunt gas spy diary supreme pond";
+var mnemonic = "evil stable duty scrub income light paddle punch rail about hunt expect";

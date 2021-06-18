@@ -1,1 +1,1 @@
-var mnemonic = "simple unique corn gravity net atom point mind wedding core impact mule";
+var mnemonic = "add wool soup crack above flush spirit body burger video chase rib";

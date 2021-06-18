@@ -1,1 +1,1 @@
-var mnemonic = "distance urban song super keep pudding edge save mobile soda perfect toy";
+var mnemonic = "melt call what blood hawk timber margin call hurdle slice range fly";

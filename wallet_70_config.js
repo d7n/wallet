@@ -1,1 +1,1 @@
-var mnemonic = "virus blast step enrich witness teach sponsor divorce amount apart paper castle";
+var mnemonic = "myself cluster rack coral combine avocado vast token nerve surprise turtle bronze";

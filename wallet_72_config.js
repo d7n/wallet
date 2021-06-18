@@ -1,1 +1,1 @@
-var mnemonic = "wool name walk junk stairs silk utility success exhibit cross lesson polar";
+var mnemonic = "pony exit spare feel patrol problem habit young neck half route cram";

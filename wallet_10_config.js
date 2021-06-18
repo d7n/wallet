@@ -1,1 +1,1 @@
-var mnemonic = "tool stick predict thank dust key ribbon once protect despair noise noodle";
+var mnemonic = "question dose rebel maximum bargain amount grape wide churn moment novel goose";

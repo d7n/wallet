@@ -1,1 +1,1 @@
-var mnemonic = "better seminar medal comfort initial fee shield estate bench code fan love";
+var mnemonic = "sight column physical vibrant silent blossom process clarify planet tomorrow abandon orbit";

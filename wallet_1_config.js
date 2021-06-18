@@ -1,1 +1,1 @@
-var mnemonic = "have pelican guard case flower list novel school amazing phrase frame version";
+var mnemonic = "inform field vicious eyebrow bread group knock glimpse trophy rival twice outdoor";

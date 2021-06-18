@@ -1,1 +1,1 @@
-var mnemonic = "exhaust route drink clay asthma super matrix woman bunker witness topic once";
+var mnemonic = "royal usual velvet hover stable advice suspect pause winner gun best degree";

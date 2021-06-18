@@ -1,1 +1,1 @@
-var mnemonic = "resist amazing major net minor renew mechanic divert great enjoy evil melt";
+var mnemonic = "zebra tennis neck angry carpet wage rival wall civil annual stock beef";

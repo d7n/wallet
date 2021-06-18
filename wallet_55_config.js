@@ -1,1 +1,1 @@
-var mnemonic = "one crawl candy cannon club element virtual device rhythm turkey leave snap";
+var mnemonic = "rocket car fury ritual blade panic model behind sing capital donkey obvious";

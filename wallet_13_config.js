@@ -1,1 +1,1 @@
-var mnemonic = "keep rate casual universe trust develop annual switch special inherit cross grant";
+var mnemonic = "debris birth fine razor crush any release woman knock gather fish donkey";

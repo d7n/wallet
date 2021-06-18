@@ -1,1 +1,1 @@
-var mnemonic = "light gravity morning genius quantum earn sketch run reason cushion prize secret";
+var mnemonic = "future trim between hotel release keep glass few general vast lecture person";

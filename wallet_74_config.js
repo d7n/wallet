@@ -1,1 +1,1 @@
-var mnemonic = "clinic style apart tool donate detail leg hedgehog wisdom luxury abstract soap";
+var mnemonic = "rare ecology announce concert wash purity tissue home sea winner reject strategy";

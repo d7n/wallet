@@ -1,1 +1,1 @@
-var mnemonic = "cloud split now scout brown shoulder oval kangaroo guard planet misery kiwi";
+var mnemonic = "wedding high pulse advance aspect crazy cradle trick bracket arena improve fossil";

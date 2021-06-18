@@ -1,1 +1,1 @@
-var mnemonic = "mango maple identify business strategy need bike news future wealth trust farm";
+var mnemonic = "tomato cart famous update miracle correct cancel job special suffer inject deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "sort master master please today fox suspect horse swarm enemy student flash";
+var mnemonic = "kind enforce comic empower predict bachelor critic faint snow tornado renew acoustic";

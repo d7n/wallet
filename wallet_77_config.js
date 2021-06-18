@@ -1,1 +1,1 @@
-var mnemonic = "useful trap flame narrow hair ghost host way permit enemy treat student";
+var mnemonic = "farm earth milk target hospital ill post coral traffic left denial blood";

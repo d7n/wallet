@@ -1,1 +1,1 @@
-var mnemonic = "social reunion indicate confirm cloud myth piece link because photo immune rate";
+var mnemonic = "more control expose pony try grain lift mother narrow impulse tail ready";

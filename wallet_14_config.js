@@ -1,1 +1,1 @@
-var mnemonic = "sketch scorpion book worth hour juice practice sunny defense beyond okay physical";
+var mnemonic = "loop among help camera problem donkey spot among panda upper icon merge";

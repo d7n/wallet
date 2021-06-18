@@ -1,1 +1,1 @@
-var mnemonic = "grunt tuna wise embody faint marble core chat height curious umbrella above";
+var mnemonic = "glue couple patient first pudding atom drink wait table pretty exercise harsh";

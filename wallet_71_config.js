@@ -1,1 +1,1 @@
-var mnemonic = "loan own air suit indicate road head lock basket biology dignity unusual";
+var mnemonic = "nothing spin screen nose noise frozen machine claim eagle eye world rookie";

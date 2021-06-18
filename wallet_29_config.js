@@ -1,1 +1,1 @@
-var mnemonic = "kite refuse ask taste bachelor toddler blue tornado tone twelve paddle conduct";
+var mnemonic = "lecture member update path social draft renew sheriff peasant dilemma start refuse";

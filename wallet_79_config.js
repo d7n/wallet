@@ -1,1 +1,1 @@
-var mnemonic = "other sponsor palace indicate hard acoustic business earth state recipe audit cute";
+var mnemonic = "reward inch steak divorce artist render stamp inherit absorb sad recipe market";

@@ -1,1 +1,1 @@
-var mnemonic = "hair cover setup kit clinic face gather just caution taxi recycle rain";
+var mnemonic = "proof shadow embrace differ trouble oblige clog okay hurdle clap build mirror";

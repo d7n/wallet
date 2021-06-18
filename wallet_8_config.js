@@ -1,1 +1,1 @@
-var mnemonic = "river pioneer bus draft saddle visit seat paper hurdle nice flower sense";
+var mnemonic = "speed people excess layer range icon tennis remind label joy runway knee";

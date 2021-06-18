@@ -1,1 +1,1 @@
-var mnemonic = "property style catalog release real rebuild lottery legend inflict addict broken fan";
+var mnemonic = "spray mother expand twist adjust stomach loud vacant anger punch blur slight";

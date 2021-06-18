@@ -1,1 +1,1 @@
-var mnemonic = "receive speed hair essay awkward bulk orbit deal panda cage country spawn";
+var mnemonic = "void century forward walk depth mango supply script cat senior more mass";

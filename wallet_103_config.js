@@ -1,1 +1,1 @@
-var mnemonic = "gasp mimic brush riot zero scissors depth juice pigeon chaos kiss into";
+var mnemonic = "anchor clump deposit police scare speak screen throw layer brush gift canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf bottom setup wrap service build popular mass scheme mention traffic mesh";
+var mnemonic = "glad clog grass master wear merit slender palace timber frog six impact";

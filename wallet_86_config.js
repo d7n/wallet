@@ -1,1 +1,1 @@
-var mnemonic = "lucky word aware burger spend input vibrant else hint head ready advice";
+var mnemonic = "common bench mesh response vessel tide spike until verb wash pelican boost";

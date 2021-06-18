@@ -1,1 +1,1 @@
-var mnemonic = "sport banana dentist trash meat zebra merry squeeze edge fly ecology damp";
+var mnemonic = "gauge build orbit pelican rice achieve miss spread credit cushion bag risk";

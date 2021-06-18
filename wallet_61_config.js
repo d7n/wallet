@@ -1,1 +1,1 @@
-var mnemonic = "suit divorce gather reject wisdom actor joke park tunnel member element legend";
+var mnemonic = "economy fiscal sniff staff degree wave toilet admit cloth resemble erase coach";

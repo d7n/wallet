@@ -1,1 +1,1 @@
-var mnemonic = "great elegant funny title west wine life rice bulb fun cousin knee";
+var mnemonic = "shop wagon mango mixture dose job saddle awesome decide envelope rubber attract";

@@ -1,1 +1,1 @@
-var mnemonic = "muffin vessel relax letter remain snake disagree elegant climb rent subject can";
+var mnemonic = "uncover left lazy spell canvas sword together moment load firm mystery pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt kit once moon race leaf crash risk knife term glide glory";
+var mnemonic = "frown series boring curve jacket assume obvious cigar during picture lazy slim";

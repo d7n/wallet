@@ -1,1 +1,1 @@
-var mnemonic = "spider tongue patch list mansion anxiety caution label anchor regret village pond";
+var mnemonic = "element short very hurt box found celery into follow correct art lift";

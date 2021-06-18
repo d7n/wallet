@@ -1,1 +1,1 @@
-var mnemonic = "diesel clerk kingdom income bike fork friend start casual rally robust squirrel";
+var mnemonic = "rude that drink snack income call circle intact brass slim search valid";

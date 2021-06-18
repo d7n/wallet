@@ -1,1 +1,1 @@
-var mnemonic = "endless deer tent gallery sister clinic nation wide left mercy orbit shoulder";
+var mnemonic = "father upgrade crack adult subject clutch alarm carpet oxygen come scare lamp";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise poem giraffe oyster rescue runway bag spot police cloth skin olive";
+var mnemonic = "divert filter distance prefer visa scrap erase genius only december movie brush";

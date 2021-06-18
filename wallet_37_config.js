@@ -1,1 +1,1 @@
-var mnemonic = "rate help will history innocent erase mule word good path potato dignity";
+var mnemonic = "thrive grow spoil chronic envelope bridge room hurt excite stock level receive";

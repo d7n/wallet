@@ -1,1 +1,1 @@
-var mnemonic = "health enhance anchor cabbage will hungry april march rate sibling peace retire";
+var mnemonic = "melt weapon example tragic amused order survey kiss flight syrup boss excite";

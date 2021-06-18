@@ -1,1 +1,1 @@
-var mnemonic = "love grow blanket relief oval ripple way poverty video argue hotel ritual";
+var mnemonic = "fault pony defy people alien coffee sense ahead soldier badge correct message";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber nose layer legal crystal cargo head staff outer six damage badge";
+var mnemonic = "visa scrub festival assume august six air protect blood code write boil";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal load fiction tower employ vicious kind pyramid oppose run nut secret";
+var mnemonic = "aunt dad forum bronze sorry weasel coffee flavor parrot goddess estate fade";

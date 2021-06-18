@@ -1,1 +1,1 @@
-var mnemonic = "illness wear guess burger scene injury world angry burger loop toy lecture";
+var mnemonic = "valley march flag illness crush spatial distance hunt safe sand royal include";

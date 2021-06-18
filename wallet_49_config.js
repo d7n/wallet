@@ -1,1 +1,1 @@
-var mnemonic = "picnic upset journey sword utility all silly now approve rebel idle siren";
+var mnemonic = "month security dismiss okay gift robust brand loud sting recipe typical nose";

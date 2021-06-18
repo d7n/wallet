@@ -1,1 +1,1 @@
-var mnemonic = "cattle chat trumpet retreat depth inner host cactus physical addict gravity advance";
+var mnemonic = "legend zone quality network brick sunny denial need grape emerge above have";

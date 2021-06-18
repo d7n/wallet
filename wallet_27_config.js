@@ -1,1 +1,1 @@
-var mnemonic = "husband slab novel cable team video toward coin squeeze oyster kidney lady";
+var mnemonic = "high load usage private stage brown boil scare exhibit bid route catalog";

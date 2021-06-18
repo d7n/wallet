@@ -1,1 +1,1 @@
-var mnemonic = "nothing away woman bottom vote ahead parent bid giant rich square network";
+var mnemonic = "finger wonder uphold drama ankle confirm physical toward ridge duck yard proof";

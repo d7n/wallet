@@ -1,1 +1,1 @@
-var mnemonic = "emerge brass order alarm hen uncle orchard broom oil swarm click affair";
+var mnemonic = "board install borrow hover parrot horse sound buzz sad stem spot motion";

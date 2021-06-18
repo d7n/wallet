@@ -1,1 +1,1 @@
-var mnemonic = "labor olive web game seat artwork joke matrix dentist genuine garden surface";
+var mnemonic = "weird flock mix stamp entire manual rebuild stick dress bottom bicycle one";

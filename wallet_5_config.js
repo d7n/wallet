@@ -1,1 +1,1 @@
-var mnemonic = "sketch answer antique priority author clutch sponsor hub job where agree process";
+var mnemonic = "action balcony van globe huge extend noodle accuse all bag ritual naive";

@@ -1,1 +1,1 @@
-var mnemonic = "human submit cup aisle husband cream source truth pretty sugar work gym";
+var mnemonic = "physical list obey drill cube torch cactus trouble rough kid derive until";

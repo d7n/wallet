@@ -1,1 +1,1 @@
-var mnemonic = "boil pair resist crowd turn sunset owner state service visual edge cave";
+var mnemonic = "miss seed lock industry slender merit rebuild hockey clarify cherry dove domain";

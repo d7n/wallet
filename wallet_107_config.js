@@ -1,1 +1,1 @@
-var mnemonic = "next meadow because destroy slow then kitchen must heavy iron brother merry";
+var mnemonic = "spring physical canoe sand patch cactus endless enlist amused mixture improve moral";

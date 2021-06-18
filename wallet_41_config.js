@@ -1,1 +1,1 @@
-var mnemonic = "material ivory orchard bulk income other cancel mom scheme aim tumble analyst";
+var mnemonic = "bread unknown move shoe output verb track bleak mushroom method assist provide";

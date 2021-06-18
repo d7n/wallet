@@ -1,1 +1,1 @@
-var mnemonic = "session again protect squeeze thrive daring odor height fly vivid pulp oven";
+var mnemonic = "yard daring buffalo sunset bread october layer prison company lock net apology";

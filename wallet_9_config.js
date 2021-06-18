@@ -1,1 +1,1 @@
-var mnemonic = "soul enlist vocal grow tank siren buzz keen mercy west wrong situate";
+var mnemonic = "nut suggest catch helmet diagram boil follow script under jelly side rival";

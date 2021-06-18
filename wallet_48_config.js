@@ -1,1 +1,1 @@
-var mnemonic = "spy help tower brother victory ancient bottom plastic shift when plug tobacco";
+var mnemonic = "silly twice bundle pass chaos luggage burden unaware wait panel alert cute";

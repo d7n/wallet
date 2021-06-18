@@ -1,1 +1,1 @@
-var mnemonic = "mail among banana saddle lend range same rare uncover wagon opinion seven";
+var mnemonic = "party effort whisper stone erupt filter force volcano vacuum neck caught risk";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors economy eagle chapter burst arrange movie cattle siege pipe toss border";
+var mnemonic = "badge ankle true razor order romance interest artefact own hybrid bargain hip";

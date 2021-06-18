@@ -1,1 +1,1 @@
-var mnemonic = "wild resemble enough cattle soup token stadium impulse emerge devote pudding fame";
+var mnemonic = "federal daring script cook degree capital sword engine filter harbor art way";

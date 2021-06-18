@@ -1,1 +1,1 @@
-var mnemonic = "enlist trim special crime will sentence face pony rate gather rebel aerobic";
+var mnemonic = "assist balance foil rack boss twice liquid student tray custom cart reform";

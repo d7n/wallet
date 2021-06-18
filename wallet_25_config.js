@@ -1,1 +1,1 @@
-var mnemonic = "cause barrel index young idea cool country amused grit frozen tortoise right";
+var mnemonic = "address raven vote subject figure gasp weapon pet master prison student subject";

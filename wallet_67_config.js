@@ -1,1 +1,1 @@
-var mnemonic = "eagle fee wife squeeze vintage buyer dutch bench embody fault thought vessel";
+var mnemonic = "guard agree title decline hospital clap bubble neutral pole smoke rib frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep nuclear cereal resemble vocal announce ugly worry run warfare invest veteran";
+var mnemonic = "mandate bind subway symbol vote cat true ignore degree garlic typical park";

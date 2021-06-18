@@ -1,1 +1,1 @@
-var mnemonic = "trouble hidden bulk crash kind element quality invest dolphin nature slogan security";
+var mnemonic = "clinic field photo train joy all ugly recall review palace steak slim";

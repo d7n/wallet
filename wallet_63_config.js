@@ -1,1 +1,1 @@
-var mnemonic = "ignore flock border quick hope train razor render wrap tank flash edit";
+var mnemonic = "grit weird crystal bonus chief round upper input vault potato duck special";
