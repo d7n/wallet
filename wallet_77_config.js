@@ -1,1 +1,1 @@
-var mnemonic = "scissors bamboo scrub weather trip error evil include where candy second analyst";
+var mnemonic = "about drill love collect update cool west caught town field scrap final";

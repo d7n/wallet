@@ -1,1 +1,1 @@
-var mnemonic = "net maximum link manage ice imitate dolphin situate enforce shy small spot";
+var mnemonic = "deer brand copy amount sorry success behave visit pink chief warrior dynamic";

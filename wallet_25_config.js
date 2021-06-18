@@ -1,1 +1,1 @@
-var mnemonic = "minor fault initial element such congress auto dove lunar pupil flight expect";
+var mnemonic = "tongue almost dream uncover rack wool mammal involve snake hill wife guess";

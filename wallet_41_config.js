@@ -1,1 +1,1 @@
-var mnemonic = "analyst tattoo apart absorb occur season vacant settle citizen dry review obscure";
+var mnemonic = "mad chaos glove legend mom flush ceiling artwork own save physical inner";

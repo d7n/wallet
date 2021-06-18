@@ -1,1 +1,1 @@
-var mnemonic = "nut warfare dash gain snack trim leg potato business choose bracket leopard";
+var mnemonic = "axis woman often fade idea table drill defense shock address expire bomb";

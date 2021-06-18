@@ -1,1 +1,1 @@
-var mnemonic = "network napkin fat jewel angle reveal lemon ball start swift entire skirt";
+var mnemonic = "divorce half shoot excite column gentle oil need tube brisk answer motor";

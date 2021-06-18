@@ -1,1 +1,1 @@
-var mnemonic = "cost ride scan sustain kitten stock dignity ensure main tortoise false hand";
+var mnemonic = "virtual trend purchase cigar belt tower comic change culture liar asset wing";

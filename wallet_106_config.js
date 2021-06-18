@@ -1,1 +1,1 @@
-var mnemonic = "blur improve purpose keen pause between rocket illness blue label also pizza";
+var mnemonic = "weasel medal radio luxury raw muffin side ketchup horror raw across suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "park permit runway chief country message common economy frame cloth learn endless";
+var mnemonic = "stuff master fat useful design bridge physical toss modify talent border maid";

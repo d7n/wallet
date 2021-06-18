@@ -1,1 +1,1 @@
-var mnemonic = "people cute bag volcano sphere pistol iron honey roast attitude mimic hybrid";
+var mnemonic = "sugar unknown else tape snack december dwarf mountain certain harsh embark target";

@@ -1,1 +1,1 @@
-var mnemonic = "match tornado scale lobster beef upper flash one chief dash coach morning";
+var mnemonic = "whale grab thumb wrong ability language picture answer sand picture rail domain";

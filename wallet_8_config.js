@@ -1,1 +1,1 @@
-var mnemonic = "tube test frown become useless above report couple old festival survey leisure";
+var mnemonic = "inject typical equip acoustic blade laugh ladder above auction bleak gasp daring";

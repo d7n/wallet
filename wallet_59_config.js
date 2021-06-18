@@ -1,1 +1,1 @@
-var mnemonic = "address trip marriage jeans electric hold farm student length pride clay dry";
+var mnemonic = "endless link castle fox again advance bind lobster type violin width solve";

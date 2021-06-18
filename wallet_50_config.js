@@ -1,1 +1,1 @@
-var mnemonic = "orphan opinion afford wolf divorce border slender giggle office salon energy onion";
+var mnemonic = "example end toilet olive engine again grab supply large apology pony wheat";

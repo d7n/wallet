@@ -1,1 +1,1 @@
-var mnemonic = "range increase ceiling flower prefer addict valve fold vicious riot blossom donor";
+var mnemonic = "cat stadium fancy spell bread bulk then sorry idle omit brief cousin";

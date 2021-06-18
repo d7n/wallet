@@ -1,1 +1,1 @@
-var mnemonic = "evoke area luxury present frozen office midnight hedgehog bird produce have sword";
+var mnemonic = "reform repair bench suffer hire express pipe dance hammer blue false keen";

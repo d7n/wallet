@@ -1,1 +1,1 @@
-var mnemonic = "mobile way match model hover cover convince dirt moral walnut february convince";
+var mnemonic = "dutch actual mom thumb payment bonus toward fault sample program silk pupil";

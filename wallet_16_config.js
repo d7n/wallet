@@ -1,1 +1,1 @@
-var mnemonic = "tomato clock kit window eye laundry assault profit start traffic unable valley";
+var mnemonic = "allow bitter walk hamster announce shrug stem silly major tribe old clinic";

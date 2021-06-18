@@ -1,1 +1,1 @@
-var mnemonic = "print glare film claw artwork rule luxury strong plate spare author cabbage";
+var mnemonic = "match usual welcome orphan tornado scout palace rack affair math require clean";

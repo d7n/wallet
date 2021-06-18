@@ -1,1 +1,1 @@
-var mnemonic = "royal ginger desert panic average group vault nerve glimpse fold raw merit";
+var mnemonic = "wrestle poverty parade aware script citizen verb junk judge screen simple glow";

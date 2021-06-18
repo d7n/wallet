@@ -1,1 +1,1 @@
-var mnemonic = "lunar miss head case network forget material monitor album build theory curtain";
+var mnemonic = "purchase clown swarm echo donkey device impulse foot thrive wire enroll brain";

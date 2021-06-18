@@ -1,1 +1,1 @@
-var mnemonic = "grain venture team critic differ pistol rice unit network grant text helmet";
+var mnemonic = "predict cattle flat swing video thing across worth autumn spend vast sister";

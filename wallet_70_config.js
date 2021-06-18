@@ -1,1 +1,1 @@
-var mnemonic = "scrub shrimp fashion goose orbit average simple silver custom expire present custom";
+var mnemonic = "waste grow intact cricket volcano speed air where budget lamp dynamic door";

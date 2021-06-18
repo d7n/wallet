@@ -1,1 +1,1 @@
-var mnemonic = "produce clog ski force goose odor labor horn weasel pig collect siren";
+var mnemonic = "vital robot belt false cloud grace yellow hero tornado quick canal pulse";

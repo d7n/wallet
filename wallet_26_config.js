@@ -1,1 +1,1 @@
-var mnemonic = "thunder ability balcony congress shrimp attract glove decline sadness across end tobacco";
+var mnemonic = "option someone hover cloth about shift guess tomato soldier inject child morning";

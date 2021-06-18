@@ -1,1 +1,1 @@
-var mnemonic = "bubble hub chat victory canoe poet blue member average problem awesome loyal";
+var mnemonic = "prize always slab harvest firm salad check negative situate shoe cabbage scene";

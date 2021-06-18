@@ -1,1 +1,1 @@
-var mnemonic = "region police image setup inform depth fury pattern world mushroom choice shell";
+var mnemonic = "come measure guard usage hood embody genre quick century tuition run other";

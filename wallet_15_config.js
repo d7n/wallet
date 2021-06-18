@@ -1,1 +1,1 @@
-var mnemonic = "neglect course pigeon purse title wine web asset cruel social oval asthma";
+var mnemonic = "sail return atom horn snow mirror nasty arena report much job maple";

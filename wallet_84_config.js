@@ -1,1 +1,1 @@
-var mnemonic = "harvest beyond critic caution that tunnel weekend crater elephant rent crumble flock";
+var mnemonic = "mushroom pulp vendor identify also genuine monster weasel okay fun inflict joy";

@@ -1,1 +1,1 @@
-var mnemonic = "symptom tornado canoe fashion ankle rack naive direct ship main slide fault";
+var mnemonic = "random rude grain add assume modify feature giant wreck potato hint puppy";

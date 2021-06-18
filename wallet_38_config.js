@@ -1,1 +1,1 @@
-var mnemonic = "birth drip cheese budget flame strike speed machine book bundle mandate task";
+var mnemonic = "pledge fuel inhale alley alert eyebrow minor melody lizard oppose hen typical";

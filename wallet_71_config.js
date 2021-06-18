@@ -1,1 +1,1 @@
-var mnemonic = "boy minute digital member cake extra meadow indoor earn much truck install";
+var mnemonic = "remind car easy buffalo welcome blush parade fuel duty later glow cliff";

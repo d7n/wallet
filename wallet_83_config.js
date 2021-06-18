@@ -1,1 +1,1 @@
-var mnemonic = "unveil ranch pride polar mix aerobic cross force describe shrug budget fragile";
+var mnemonic = "erupt hand duck wrong year similar short purity alcohol accuse virus eye";

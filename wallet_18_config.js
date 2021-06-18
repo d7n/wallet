@@ -1,1 +1,1 @@
-var mnemonic = "stand this worry that offer speed hunt young shallow when owner forum";
+var mnemonic = "drive labor ask cannon there fresh soda mutual hood other error wish";

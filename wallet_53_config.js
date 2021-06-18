@@ -1,1 +1,1 @@
-var mnemonic = "always shaft opinion hurt steak captain okay winter wood crawl decade ignore";
+var mnemonic = "gasp round card boost misery pistol battle write profit outer ahead quantum";

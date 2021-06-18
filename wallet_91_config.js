@@ -1,1 +1,1 @@
-var mnemonic = "follow start remember salute price make region party canoe butter lawsuit doll";
+var mnemonic = "decorate chuckle busy embrace pony obtain author twin fork rescue tunnel shine";

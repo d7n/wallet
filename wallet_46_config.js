@@ -1,1 +1,1 @@
-var mnemonic = "trend tired frame earn bottom damp negative patrol life slam next hidden";
+var mnemonic = "frequent pulse also file dice pudding cigar glove emerge illegal machine detail";

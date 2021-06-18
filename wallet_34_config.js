@@ -1,1 +1,1 @@
-var mnemonic = "smooth matrix liar hen flame emotion flush walk economy virus age system";
+var mnemonic = "tomorrow habit dragon coral ribbon search film hurry bulk extra okay labor";

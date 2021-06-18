@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon arrange ivory scene tobacco alcohol galaxy tag also wrap sketch label";
+var mnemonic = "fish horror ball whale nature scissors ranch mistake net cover cost because";

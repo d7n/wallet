@@ -1,1 +1,1 @@
-var mnemonic = "rib success height violin suspect dentist scorpion call ivory check ensure board";
+var mnemonic = "artefact list reason joke lyrics sausage exhibit always fall try photo cattle";

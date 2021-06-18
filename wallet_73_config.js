@@ -1,1 +1,1 @@
-var mnemonic = "knee cigar unable agent people excuse giraffe quantum west sibling turkey shrimp";
+var mnemonic = "amount draw firm shadow foster neglect cement bridge volume donkey cat rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "misery beauty include fatigue nominee treat address once price enact fatigue feature";
+var mnemonic = "grain unfold dwarf one tragic gown combine smile garbage cannon manage mother";

@@ -1,1 +1,1 @@
-var mnemonic = "speed weird blame pair foam siren gate often goose tuition bounce tonight";
+var mnemonic = "walk oil margin identify only produce street direct ankle urban dose ridge";

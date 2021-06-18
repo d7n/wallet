@@ -1,1 +1,1 @@
-var mnemonic = "tragic velvet rhythm town spell inherit mean thank push dog game opinion";
+var mnemonic = "matter uncover help coach annual cement oppose fruit rely goddess fun track";

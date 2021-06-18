@@ -1,1 +1,1 @@
-var mnemonic = "vicious blame head comfort depart food camera settle hello voice choose miss";
+var mnemonic = "bone into rebel indoor rubber program front bomb test stem reform pattern";

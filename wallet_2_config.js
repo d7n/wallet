@@ -1,1 +1,1 @@
-var mnemonic = "engage blur ivory jungle leader pattern runway boring scrap little jaguar reject";
+var mnemonic = "they humble eternal rule perfect safe regret winner transfer clog approve region";

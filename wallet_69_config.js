@@ -1,1 +1,1 @@
-var mnemonic = "sheriff boy rely expect push explain nice flock joke review neck oyster";
+var mnemonic = "acid rather record attract section upset chaos disorder gadget pottery reveal thrive";

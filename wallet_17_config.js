@@ -1,1 +1,1 @@
-var mnemonic = "inherit absorb measure supply tackle gloom cotton orphan make cruel park until";
+var mnemonic = "disagree volcano sport talk great ten release neck squirrel vague breeze prosper";

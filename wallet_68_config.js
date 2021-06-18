@@ -1,1 +1,1 @@
-var mnemonic = "spoon betray coast occur gather anchor radio glad minute vendor crack evolve";
+var mnemonic = "cradle connect agent stumble twin hotel suggest romance spend advice rhythm grab";

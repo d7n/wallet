@@ -1,1 +1,1 @@
-var mnemonic = "intact salon ivory barely couple follow domain emerge tired agree drift visit";
+var mnemonic = "sport bind behind vehicle reveal grace simple armor capable symptom husband caught";

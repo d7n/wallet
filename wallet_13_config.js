@@ -1,1 +1,1 @@
-var mnemonic = "furnace invest hurt rib sport pool inhale radar cradle napkin bird ozone";
+var mnemonic = "engage never survey curve also bamboo employ cannon safe awkward menu paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "loyal soldier rocket multiply tumble sunny property motion mobile beauty promote surround";
+var mnemonic = "display fossil remove fashion lucky switch hobby soap fragile tree shadow corn";

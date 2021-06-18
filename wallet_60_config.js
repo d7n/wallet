@@ -1,1 +1,1 @@
-var mnemonic = "recycle title misery weird tuna tonight exist wheat pact cricket census route";
+var mnemonic = "car captain bind one position pipe situate emerge execute giraffe salon welcome";

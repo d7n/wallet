@@ -1,1 +1,1 @@
-var mnemonic = "useful ribbon sell vault suspect capable empower purity boost giraffe walnut approve";
+var mnemonic = "blouse dress decrease ritual approve assault vague cost artefact fade assault badge";

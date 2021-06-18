@@ -1,1 +1,1 @@
-var mnemonic = "key blush rib decide answer tired crowd guess account turtle company trouble";
+var mnemonic = "estate knife hen present session february human vibrant subject oyster able hint";

@@ -1,1 +1,1 @@
-var mnemonic = "inject canyon skill smooth foot verb slim kid nice used soccer tragic";
+var mnemonic = "stuff nurse powder spin panda devote wash hub label tunnel family dance";

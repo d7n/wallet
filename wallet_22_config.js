@@ -1,1 +1,1 @@
-var mnemonic = "rough gloom table island away unusual noodle wisdom brother actress phrase brush";
+var mnemonic = "shoulder nose sadness oval ketchup student lion exhaust actual wrap equal strategy";

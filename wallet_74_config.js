@@ -1,1 +1,1 @@
-var mnemonic = "chase taste real life tone extend clog box two penalty range state";
+var mnemonic = "lumber subway envelope put question senior honey material pistol unique key exercise";

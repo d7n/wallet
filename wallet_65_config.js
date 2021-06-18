@@ -1,1 +1,1 @@
-var mnemonic = "victory lunch special horn melody animal road used frown tail parade celery";
+var mnemonic = "lobster online aisle tower toss stamp clap test review faith say battle";

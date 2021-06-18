@@ -1,1 +1,1 @@
-var mnemonic = "family fence ranch core merry silly arrow february battle assault range phrase";
+var mnemonic = "august unveil clay mirror pave core axis banana abuse put aisle noble";

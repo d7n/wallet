@@ -1,1 +1,1 @@
-var mnemonic = "theory dry tooth habit absent lake present volcano link horn harbor follow";
+var mnemonic = "unfold drive claw tone own prize used cable pretty frequent monkey ski";

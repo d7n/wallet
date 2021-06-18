@@ -1,1 +1,1 @@
-var mnemonic = "aerobic task alley until wrist lawsuit faint gorilla know light zone street";
+var mnemonic = "joke satoshi pattern hard junior abuse fatal crowd exclude merry route priority";

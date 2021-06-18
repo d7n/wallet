@@ -1,1 +1,1 @@
-var mnemonic = "fiber chimney insane screen alien faith yellow profit large copper nothing control";
+var mnemonic = "aspect stove regret magnet also start cliff humble culture rail picnic hero";

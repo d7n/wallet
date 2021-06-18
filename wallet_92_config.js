@@ -1,1 +1,1 @@
-var mnemonic = "author forward peace effort scene innocent service slot leisure service stage proud";
+var mnemonic = "essence green evidence donate skate ridge satoshi east wrestle tiger story develop";

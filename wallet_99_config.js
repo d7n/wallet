@@ -1,1 +1,1 @@
-var mnemonic = "machine filter fabric trial slight skirt cotton income tuition autumn behind zero";
+var mnemonic = "approve survey bonus reduce tired stamp clip ride grow document fabric mixture";

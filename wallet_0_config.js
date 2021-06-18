@@ -1,1 +1,1 @@
-var mnemonic = "purse brain solar good fault modify egg purchase voice donate remember junk";
+var mnemonic = "unfair snap jacket please cherry island average oppose indicate brisk rent give";

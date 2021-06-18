@@ -1,1 +1,1 @@
-var mnemonic = "fancy camp prevent virtual enter flush case crumble shift auto december ritual";
+var mnemonic = "delay man razor voyage forget seek armor glue fuel midnight robot tongue";

@@ -1,1 +1,1 @@
-var mnemonic = "provide dad hire repair egg normal course traffic mass renew gather soldier";
+var mnemonic = "merry engine rocket like country honey adult energy bench menu omit extra";

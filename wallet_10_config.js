@@ -1,1 +1,1 @@
-var mnemonic = "february token mind wide result hunt pulse neck demise next acquire poet";
+var mnemonic = "elite torch reduce print motion off tonight stem soup curve primary yellow";

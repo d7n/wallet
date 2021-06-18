@@ -1,1 +1,1 @@
-var mnemonic = "ready system space position memory useful step risk off bulb stereo antique";
+var mnemonic = "squirrel off little trend layer away dentist defy ecology labor erase client";

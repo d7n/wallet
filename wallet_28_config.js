@@ -1,1 +1,1 @@
-var mnemonic = "humble camp double zone carpet water hip soul entry survey vanish timber";
+var mnemonic = "addict rival sugar lemon oyster frost army dune deputy caught monster model";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend gather glide bicycle hard aunt oppose used soon snow bring traffic";
+var mnemonic = "census chest urge direct toy family point coil warm poem raw setup";

@@ -1,1 +1,1 @@
-var mnemonic = "skill fringe subject simple saddle tool ritual recycle bless glue bless season";
+var mnemonic = "laptop trend tag simple behind diary husband snow engine brain blade have";

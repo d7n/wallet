@@ -1,1 +1,1 @@
-var mnemonic = "trust panda weekend oval wise peace mystery salt pass hold scare response";
+var mnemonic = "sunny glow street also possible razor arena tattoo board again rookie spawn";

@@ -1,1 +1,1 @@
-var mnemonic = "share arm fragile flee actor simple law cry ridge member club rubber";
+var mnemonic = "teach alley antique coyote birth excess keep return grain rescue damp soon";

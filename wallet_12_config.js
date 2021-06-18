@@ -1,1 +1,1 @@
-var mnemonic = "blame security raw enrich cash emotion bar swap hub trip elevator provide";
+var mnemonic = "rate picture edge vital athlete joy surge media mistake anger clap ketchup";

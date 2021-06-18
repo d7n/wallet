@@ -1,1 +1,1 @@
-var mnemonic = "gasp shed lazy absurd grass emerge bag awful pole detect entry design";
+var mnemonic = "angle document inflict outside cram feature liar horror option write syrup baby";

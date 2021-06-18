@@ -1,1 +1,1 @@
-var mnemonic = "tribe banana brand denial shuffle document smile mouse symptom guide burst beyond";
+var mnemonic = "document make sun eagle concert position arrow legal box quantum annual wear";

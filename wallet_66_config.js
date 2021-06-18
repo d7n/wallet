@@ -1,1 +1,1 @@
-var mnemonic = "weapon buyer price unaware loyal open modify hip mimic soap mushroom open";
+var mnemonic = "mail pony option milk sphere car atom cart palm barely liar jeans";

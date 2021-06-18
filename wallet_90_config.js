@@ -1,1 +1,1 @@
-var mnemonic = "exact scare planet flower outer trial million gas meat beyond punch lucky";
+var mnemonic = "renew super trip trophy divide bubble feature rich elbow vivid lunch buyer";

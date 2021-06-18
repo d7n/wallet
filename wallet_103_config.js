@@ -1,1 +1,1 @@
-var mnemonic = "egg save teach stumble program fatal rural fall practice visit parade dirt";
+var mnemonic = "camp night imitate cattle mail deliver pigeon filter avoid october order toy";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse science puzzle include taxi daring family lava ability wash thank swift";
+var mnemonic = "turkey system great you dismiss weasel live lake deal game clean decorate";

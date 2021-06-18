@@ -1,1 +1,1 @@
-var mnemonic = "blade unfair orient cable forum drop allow magic practice cream tank element";
+var mnemonic = "evil actor remember pet exclude aisle cinnamon fitness talk upon wait bone";

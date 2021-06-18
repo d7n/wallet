@@ -1,1 +1,1 @@
-var mnemonic = "valid market soup country supply volcano stone shrug path dash problem diesel";
+var mnemonic = "obscure shy lounge laugh north rough limb mail rebuild match below slush";

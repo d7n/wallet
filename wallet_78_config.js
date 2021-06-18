@@ -1,1 +1,1 @@
-var mnemonic = "universe bone firm response october crowd symptom rigid thumb road toe term";
+var mnemonic = "alley load toddler point gather crop embrace reopen holiday install future couch";

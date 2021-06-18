@@ -1,1 +1,1 @@
-var mnemonic = "trade useless paper brisk heavy inside fog inform attract fuel height myself";
+var mnemonic = "oppose spatial lyrics wave bonus pair mandate soul craft gentle core satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "fade beach tunnel decline rural another humor sustain annual skin father build";
+var mnemonic = "very copper enter success learn build turn scan zoo melody tattoo garment";

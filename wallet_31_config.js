@@ -1,1 +1,1 @@
-var mnemonic = "syrup owner antique sight family suit broken patch latin target snap fog";
+var mnemonic = "model option armor february smart ship cry still ship own random ask";

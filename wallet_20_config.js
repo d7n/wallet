@@ -1,1 +1,1 @@
-var mnemonic = "setup train rug enrich expand term draft renew grid tongue supreme west";
+var mnemonic = "portion acid catalog cube drink error armed face network unique uphold lift";

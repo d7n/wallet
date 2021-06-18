@@ -1,1 +1,1 @@
-var mnemonic = "code throw power arrest web save knife half strong size pride submit";
+var mnemonic = "inflict monkey travel effort then debate frown brisk powder unfair ramp update";

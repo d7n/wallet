@@ -1,1 +1,1 @@
-var mnemonic = "mobile one glance legal method secret brave fold mask quick lyrics print";
+var mnemonic = "globe bubble ready upset goddess about phrase crucial wire mule punch carbon";
