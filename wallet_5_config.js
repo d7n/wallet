@@ -1,1 +1,1 @@
-var mnemonic = "reject half blue face consider skill thunder neutral twist day blood flee";
+var mnemonic = "bench raw put hint random success meadow minor side silver cash middle";

@@ -1,1 +1,1 @@
-var mnemonic = "grid siege frog record upon shove gift desert bless dirt virus vault";
+var mnemonic = "flavor outer cable armed slim echo identify elephant network exchange club gate";

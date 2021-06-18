@@ -1,1 +1,1 @@
-var mnemonic = "old desert current drum credit split hello shift negative before ethics small";
+var mnemonic = "crumble cactus negative village nation kitchen clay nurse burst fall brave north";

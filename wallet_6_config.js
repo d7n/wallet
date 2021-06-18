@@ -1,1 +1,1 @@
-var mnemonic = "mixture escape beyond broken breeze slim shift rigid warfare van loyal pulse";
+var mnemonic = "sail concert credit vacant electric season head diamond tuna inquiry kidney speak";

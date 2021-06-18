@@ -1,1 +1,1 @@
-var mnemonic = "school cause flower ladder panic mom drill kangaroo theory earn clever build";
+var mnemonic = "neutral effort taste zone damp ribbon life myself save later text afford";

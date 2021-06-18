@@ -1,1 +1,1 @@
-var mnemonic = "predict better river ribbon staff embody pretty clutch awkward define zone engine";
+var mnemonic = "praise display fan rural travel wedding force festival focus sock tent transfer";

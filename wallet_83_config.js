@@ -1,1 +1,1 @@
-var mnemonic = "charge security useful path miracle lyrics try tumble picture mask begin carbon";
+var mnemonic = "wasp river drastic curious rural critic subject excuse runway palace absorb icon";

@@ -1,1 +1,1 @@
-var mnemonic = "toy special reward almost cliff blanket disease allow shell baby destroy negative";
+var mnemonic = "pond actress small hole blue exchange hood nice thumb pulp electric early";

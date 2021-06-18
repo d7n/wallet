@@ -1,1 +1,1 @@
-var mnemonic = "champion pole noble excess pave boil lion toast frog solid allow bracket";
+var mnemonic = "bird sausage cinnamon fashion fossil gift start useful rotate casino jazz turn";

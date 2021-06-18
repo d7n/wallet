@@ -1,1 +1,1 @@
-var mnemonic = "bracket tape birth lab rescue poem coral liberty seven frequent abuse juice";
+var mnemonic = "camera smoke pond victory inform total crouch glow eight royal hungry era";

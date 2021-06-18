@@ -1,1 +1,1 @@
-var mnemonic = "unknown toilet body wish thing practice bid divide void undo belt review";
+var mnemonic = "doll right now remain acid assist fox seminar truth crew travel army";

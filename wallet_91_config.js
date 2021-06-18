@@ -1,1 +1,1 @@
-var mnemonic = "vapor give pattern network habit moral taxi vast super service clog weapon";
+var mnemonic = "warrior essay give seminar inhale quarter quit poet eternal oyster save salmon";

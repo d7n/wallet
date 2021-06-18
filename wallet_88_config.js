@@ -1,1 +1,1 @@
-var mnemonic = "actress trial market wasp fuel matrix select fix heart seminar survey water";
+var mnemonic = "victory fox hour strike creek month swing trust gold scene engage fox";

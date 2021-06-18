@@ -1,1 +1,1 @@
-var mnemonic = "aerobic crystal online make churn expand man trophy steak confirm patrol devote";
+var mnemonic = "student wish slab lawn denial wife curtain gossip suffer digital web tide";

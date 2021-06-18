@@ -1,1 +1,1 @@
-var mnemonic = "sure race jealous this pig agree trim middle wash vast defense tennis";
+var mnemonic = "swamp spread traffic later shaft weekend thunder position struggle trade clean black";

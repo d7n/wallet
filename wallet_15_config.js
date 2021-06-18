@@ -1,1 +1,1 @@
-var mnemonic = "tourist dwarf soap vital faith trial evolve able swamp advice feed defense";
+var mnemonic = "urge payment dad vacant abandon embark decade gossip lonely flush crumble pride";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh flip card various solution law harvest jewel garment uniform album hire";
+var mnemonic = "pluck cargo crazy ethics base praise engine gas narrow hour senior cruel";

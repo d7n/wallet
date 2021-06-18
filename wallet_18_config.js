@@ -1,1 +1,1 @@
-var mnemonic = "debris gadget miracle heavy bright glimpse slide rose long dignity kind picnic";
+var mnemonic = "senior until enough whisper viable afraid cycle one dolphin advance close switch";

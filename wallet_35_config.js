@@ -1,1 +1,1 @@
-var mnemonic = "exercise grant honey rib vacuum stereo cotton stumble come custom lounge disagree";
+var mnemonic = "girl detect rough process child side eager novel measure narrow skate shield";

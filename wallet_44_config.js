@@ -1,1 +1,1 @@
-var mnemonic = "dwarf earn sail collect purity slight sand path warfare visual reopen fever";
+var mnemonic = "balcony game sick own memory glance rival caution olive avoid body proud";

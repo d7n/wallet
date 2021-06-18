@@ -1,1 +1,1 @@
-var mnemonic = "foam shadow crew series sell innocent raise gasp about bottom expire tower";
+var mnemonic = "armed machine upper remember flock stand crime twist wood double tilt tenant";

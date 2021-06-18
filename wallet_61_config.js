@@ -1,1 +1,1 @@
-var mnemonic = "chief absorb often eyebrow put approve echo key original often horse busy";
+var mnemonic = "economy nerve apart hood delay kangaroo split chair ski uniform silk gun";

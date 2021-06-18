@@ -1,1 +1,1 @@
-var mnemonic = "opinion gym cousin cake snake electric include exhibit walk merge salon butter";
+var mnemonic = "scatter mirror march planet debate despair tornado bomb island february toward used";

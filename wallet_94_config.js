@@ -1,1 +1,1 @@
-var mnemonic = "engage unusual foot type hazard round snake surround rural loan across spawn";
+var mnemonic = "guard resemble attitude duty notice cereal outdoor holiday baby opinion travel prize";

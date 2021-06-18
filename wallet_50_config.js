@@ -1,1 +1,1 @@
-var mnemonic = "soap flame spider near during security merit viable chef vacuum quarter december";
+var mnemonic = "scrub custom nominee oven clutch eternal satoshi stage curtain almost possible blossom";

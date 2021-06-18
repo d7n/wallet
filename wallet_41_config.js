@@ -1,1 +1,1 @@
-var mnemonic = "dumb scorpion ostrich muscle room fortune retreat ice aerobic doctor hidden parrot";
+var mnemonic = "blade behave jacket sugar report daughter sea ask burst south lumber primary";

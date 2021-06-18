@@ -1,1 +1,1 @@
-var mnemonic = "above yellow quit reopen vintage wolf spirit board cup furnace mammal minor";
+var mnemonic = "canoe say check bread uncle neither dance robust scale enroll light fade";

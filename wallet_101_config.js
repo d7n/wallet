@@ -1,1 +1,1 @@
-var mnemonic = "pet radar loyal sight dilemma add club ocean giant play thing sudden";
+var mnemonic = "fortune local time resist nut advance venue exchange fragile pupil smooth story";

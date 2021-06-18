@@ -1,1 +1,1 @@
-var mnemonic = "affair dwarf soccer parent film regular hunt possible bottom idea desert indicate";
+var mnemonic = "federal bacon knife office fly arch derive apology next street pass mechanic";

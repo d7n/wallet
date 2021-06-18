@@ -1,1 +1,1 @@
-var mnemonic = "exile dizzy picnic record slush medal under observe situate city question fame";
+var mnemonic = "fitness three flee blossom control student assume eight antique sight razor nephew";

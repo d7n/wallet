@@ -1,1 +1,1 @@
-var mnemonic = "bread embody case pear slam leaf human nose treat retire goddess follow";
+var mnemonic = "order client come foot shrimp logic fury maid visit aerobic wool leopard";

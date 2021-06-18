@@ -1,1 +1,1 @@
-var mnemonic = "sword alpha once equip silver sail allow hard before vital public inspire";
+var mnemonic = "bone unit grass cluster betray range process priority bounce smooth depth junk";

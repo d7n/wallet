@@ -1,1 +1,1 @@
-var mnemonic = "cup base evoke kind olive warm weapon cash hotel chef harbor essay";
+var mnemonic = "idea asset fury coffee arrow giggle curious noise loud adapt offer tribe";

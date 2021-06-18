@@ -1,1 +1,1 @@
-var mnemonic = "federal furnace judge wide buyer nose base cook midnight jar erase student";
+var mnemonic = "century gold rifle nice twelve ill later fork blast sausage again memory";

@@ -1,1 +1,1 @@
-var mnemonic = "ensure winner hope offer outdoor tell ethics electric rabbit magnet bench mimic";
+var mnemonic = "video sauce silk fit fox grid hold notable upon excuse indoor number";

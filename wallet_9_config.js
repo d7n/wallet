@@ -1,1 +1,1 @@
-var mnemonic = "dawn van physical shadow cradle layer wrap cram remove equal pencil zoo";
+var mnemonic = "cactus void amused unlock more blanket raise rain quick mushroom feed skirt";

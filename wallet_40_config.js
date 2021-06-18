@@ -1,1 +1,1 @@
-var mnemonic = "alcohol subway neutral yard wait drama width myth resist level useless okay";
+var mnemonic = "shallow rare quick current need talk suit enlist raise below rich wage";

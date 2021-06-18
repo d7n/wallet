@@ -1,1 +1,1 @@
-var mnemonic = "exile monkey memory mule poem soldier escape wrap baby rebuild aspect sibling";
+var mnemonic = "oxygen roast tail impose tip cry venue direct gaze borrow happy celery";

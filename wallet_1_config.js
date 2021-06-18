@@ -1,1 +1,1 @@
-var mnemonic = "law finish river current paper unveil text horror avocado describe cycle maid";
+var mnemonic = "dial pair tray grief turtle come hen express loyal drop boring truck";

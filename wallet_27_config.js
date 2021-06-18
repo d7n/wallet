@@ -1,1 +1,1 @@
-var mnemonic = "volume picnic clip shuffle train brick boil collect obtain choice ranch please";
+var mnemonic = "grain broccoli lazy era hotel kiwi ship eagle aerobic magnet lyrics measure";

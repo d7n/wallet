@@ -1,1 +1,1 @@
-var mnemonic = "coach state any advance modify bottom drink awful boost symptom together giggle";
+var mnemonic = "drama early employ attend over luggage laundry senior layer clerk world sauce";

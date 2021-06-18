@@ -1,1 +1,1 @@
-var mnemonic = "recall cabbage illegal brand subject return rare oyster history noodle innocent fault";
+var mnemonic = "bus wrestle enter ugly woman enrich clarify thrive reason mixed member panda";

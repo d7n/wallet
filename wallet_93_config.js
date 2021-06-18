@@ -1,1 +1,1 @@
-var mnemonic = "cloud edge genuine forward lunch relief tired fat crunch smoke bullet easy";
+var mnemonic = "animal idea tomorrow team online census chimney radio maple crawl shadow vicious";

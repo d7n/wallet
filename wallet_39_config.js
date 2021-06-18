@@ -1,1 +1,1 @@
-var mnemonic = "unique miss volume retreat direct cattle name lady under topic ball shaft";
+var mnemonic = "calm since pepper cheese miss funny palace west like taste quiz series";

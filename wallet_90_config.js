@@ -1,1 +1,1 @@
-var mnemonic = "forward casual clarify way fall crop radar pupil entry junior film seek";
+var mnemonic = "pyramid banner fence option rich road rude business view adapt keep absurd";

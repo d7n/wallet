@@ -1,1 +1,1 @@
-var mnemonic = "elegant hawk swamp select tiger deer animal retire alley dose trumpet tone";
+var mnemonic = "puppy fan renew chat visa receive picture obvious clinic kingdom faculty canvas";

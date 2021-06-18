@@ -1,1 +1,1 @@
-var mnemonic = "symptom merit idle quality click gallery patrol bind plunge coffee attract wolf";
+var mnemonic = "behind deliver lawn insect quarter tower team merge surround unusual truly theory";

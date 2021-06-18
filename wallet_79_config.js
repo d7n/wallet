@@ -1,1 +1,1 @@
-var mnemonic = "since quiz shrug put input myself divert economy hurt army hair tomorrow";
+var mnemonic = "must clarify chuckle hole runway drama bag spring soda grape flag wine";

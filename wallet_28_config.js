@@ -1,1 +1,1 @@
-var mnemonic = "flame infant gesture chicken state mean such forget pill cream slush repair";
+var mnemonic = "wave tide cloth puppy air budget sick slam vacuum never hollow hero";

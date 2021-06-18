@@ -1,1 +1,1 @@
-var mnemonic = "fatigue gossip property gospel exist guide toss street demise lava work decorate";
+var mnemonic = "hero dad festival chunk melody trumpet tell oyster trigger despair act art";

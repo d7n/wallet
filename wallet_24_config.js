@@ -1,1 +1,1 @@
-var mnemonic = "olive glad arena noble squirrel legal response silk control fold gain syrup";
+var mnemonic = "trick farm duty brain script load six swallow sibling toast video desk";

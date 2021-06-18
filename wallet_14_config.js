@@ -1,1 +1,1 @@
-var mnemonic = "patch mobile claw actor below vanish destroy term neglect index success acquire";
+var mnemonic = "aunt sponsor retreat razor short knock seminar region air rare canal walnut";

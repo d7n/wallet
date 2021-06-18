@@ -1,1 +1,1 @@
-var mnemonic = "taxi derive orchard firm circle flock nerve joy wink rain shield agree";
+var mnemonic = "midnight update kite tornado shop shove gauge chat venue initial slab address";

@@ -1,1 +1,1 @@
-var mnemonic = "provide giant regret cluster oppose animal follow item tip pipe oven base";
+var mnemonic = "dream series ankle piano time argue veteran miracle bitter copper priority hungry";

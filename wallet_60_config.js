@@ -1,1 +1,1 @@
-var mnemonic = "call there glow dwarf alone curve slush fire amazing fan gaze coast";
+var mnemonic = "tiger tornado bridge paddle taxi inside spread shine amused anxiety oxygen describe";

@@ -1,1 +1,1 @@
-var mnemonic = "organ faint orient climb ten speed protect access visual keep aware leg";
+var mnemonic = "donkey zoo credit kind special outside draft found chief ethics modify truth";

@@ -1,1 +1,1 @@
-var mnemonic = "turn census acquire marriage hire arrow sniff panel fever illness tornado divert";
+var mnemonic = "sure despair rule soup twelve version ozone ethics such inherit include bunker";

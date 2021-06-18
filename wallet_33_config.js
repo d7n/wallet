@@ -1,1 +1,1 @@
-var mnemonic = "sing sunset repair hope royal match observe gospel crumble neither spend furnace";
+var mnemonic = "pact situate fly champion labor quiz change gold axis antique nerve poem";

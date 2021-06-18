@@ -1,1 +1,1 @@
-var mnemonic = "trend artist polar emerge almost stock salon express render crew depend nerve";
+var mnemonic = "peanut found glide castle trick capable chuckle arena riot goat job miss";

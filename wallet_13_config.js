@@ -1,1 +1,1 @@
-var mnemonic = "solar mean hub license execute return situate this tongue embody rule pencil";
+var mnemonic = "scale tomorrow absent student wheat service input rival pink deal drive diesel";

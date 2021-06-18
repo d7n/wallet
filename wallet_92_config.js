@@ -1,1 +1,1 @@
-var mnemonic = "elegant maid clay charge keen rib upgrade glass outside stadium rigid crouch";
+var mnemonic = "mushroom stage master million this resource few save grit garlic toward betray";

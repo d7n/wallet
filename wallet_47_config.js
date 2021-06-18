@@ -1,1 +1,1 @@
-var mnemonic = "category slow arm faculty pet clean embark number advice monitor list rib";
+var mnemonic = "balance include pig stamp depth unusual wool pair coin book vintage fine";

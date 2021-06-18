@@ -1,1 +1,1 @@
-var mnemonic = "mask call damage original still desert smoke silent dignity unfair defy capital";
+var mnemonic = "grow just truth beyond school file evil type soup finger donor find";

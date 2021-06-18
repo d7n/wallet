@@ -1,1 +1,1 @@
-var mnemonic = "size trigger mimic dice skirt scorpion panther reform indoor unit pudding insane";
+var mnemonic = "tonight access siege social code virtual entry segment desk valve corn pony";

@@ -1,1 +1,1 @@
-var mnemonic = "enter palm march icon crouch sing lock reform table network life vivid";
+var mnemonic = "order despair clever version army fat great cigar glimpse aspect utility rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble poet chat gossip derive blanket expose theme ski buyer slogan powder";
+var mnemonic = "submit say vehicle box another phrase exit spy govern essay mom sense";

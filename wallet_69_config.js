@@ -1,1 +1,1 @@
-var mnemonic = "learn bonus mutual miracle yellow stumble any wear fabric alpha reform speed";
+var mnemonic = "civil hollow enrich reward skull daughter pizza draw normal sadness short portion";

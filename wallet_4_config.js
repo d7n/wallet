@@ -1,1 +1,1 @@
-var mnemonic = "vast recall stone exercise hole wealth machine elbow uphold one update stone";
+var mnemonic = "friend letter daughter raven foam they party harbor enforce reopen have boring";

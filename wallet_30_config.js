@@ -1,1 +1,1 @@
-var mnemonic = "anxiety hidden pill furnace gain grow travel miracle aerobic you reward skill";
+var mnemonic = "shock gossip host prosper antenna mutual sauce engine learn foot honey forget";

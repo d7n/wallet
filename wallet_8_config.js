@@ -1,1 +1,1 @@
-var mnemonic = "visit sweet sample select cloth random farm buddy giggle pole bleak talk";
+var mnemonic = "dream bench coral camera biology recall museum notable digital middle equal talk";

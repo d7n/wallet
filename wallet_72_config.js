@@ -1,1 +1,1 @@
-var mnemonic = "corn senior adult grow artwork demand force hello limb lunar permit subway";
+var mnemonic = "scale twin mix toward twist crystal neglect utility height second marriage vessel";

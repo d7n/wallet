@@ -1,1 +1,1 @@
-var mnemonic = "zebra crisp breeze hold panic hungry awesome stove palace rhythm step napkin";
+var mnemonic = "round tooth mother hammer dinosaur power problem patient soft junk reduce ability";

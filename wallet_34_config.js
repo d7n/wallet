@@ -1,1 +1,1 @@
-var mnemonic = "tag believe vendor relief message gravity west fever scrap census wrestle noodle";
+var mnemonic = "vague spell danger adapt replace emotion flee amount then volume jar night";

@@ -1,1 +1,1 @@
-var mnemonic = "stove couple govern raw toward crash lounge radar soft razor dentist weasel";
+var mnemonic = "budget pattern honey limb rude dilemma amused news suspect scheme hurry zone";

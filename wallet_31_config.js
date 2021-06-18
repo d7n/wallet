@@ -1,1 +1,1 @@
-var mnemonic = "predict turkey spend zone become image text skate pupil winner humble digital";
+var mnemonic = "autumn update spell auction adjust clap turkey plunge canoe duck able road";

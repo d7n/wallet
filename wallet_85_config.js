@@ -1,1 +1,1 @@
-var mnemonic = "ivory author snap load harbor bar twist story blood clinic metal boil";
+var mnemonic = "abstract game sort vendor pass luggage hood drift nerve choice spray try";

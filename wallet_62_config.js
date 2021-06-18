@@ -1,1 +1,1 @@
-var mnemonic = "inquiry stem proud dutch relief water drill sample zone trumpet way uncle";
+var mnemonic = "subject salon claw must hood stairs danger disease blue road lift bike";

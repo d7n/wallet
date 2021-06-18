@@ -1,1 +1,1 @@
-var mnemonic = "story bachelor solution oyster motion equal lend ocean idea trap seek little";
+var mnemonic = "joy alien cook inherit toe warrior ketchup outdoor provide tackle option donor";

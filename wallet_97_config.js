@@ -1,1 +1,1 @@
-var mnemonic = "glare april stand fork fatigue assault layer party woman artwork solar candy";
+var mnemonic = "stage session ankle phone betray split moon lens settle day net act";

@@ -1,1 +1,1 @@
-var mnemonic = "spare primary enter act delay push fence cement ocean grace inner fog";
+var mnemonic = "pond news infant that act siege receive affair treat enable account drama";

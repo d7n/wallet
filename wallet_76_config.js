@@ -1,1 +1,1 @@
-var mnemonic = "damp run gate tower gesture total alley fortune problem correct pride other";
+var mnemonic = "imitate blade crunch turkey dentist walnut ginger solid bread rather harvest arrive";

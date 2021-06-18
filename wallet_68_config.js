@@ -1,1 +1,1 @@
-var mnemonic = "hurt current stumble miss drink wild airport drama sentence upgrade history march";
+var mnemonic = "ribbon creek sign virtual asset wealth portion zebra clean jar south domain";

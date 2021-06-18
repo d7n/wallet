@@ -1,1 +1,1 @@
-var mnemonic = "staff amount convince deposit street surround flock robust detail plate damage spawn";
+var mnemonic = "puppy cherry key mammal adjust crumble twist screen turn veteran hen surface";

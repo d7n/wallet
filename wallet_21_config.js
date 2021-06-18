@@ -1,1 +1,1 @@
-var mnemonic = "supreme sniff table mixed body host essay consider aunt shoe gold unlock";
+var mnemonic = "mail coconut tribe truth click auto someone maze couch tomato satoshi void";

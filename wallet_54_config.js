@@ -1,1 +1,1 @@
-var mnemonic = "denial seed inhale half pipe polar pet zone acoustic main pink spawn";
+var mnemonic = "journey fashion staff hint fee decrease draft morning census never scout palace";

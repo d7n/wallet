@@ -1,1 +1,1 @@
-var mnemonic = "drill defense limit rely armed track bronze cement mercy curtain feel bounce";
+var mnemonic = "pipe art coil auction course bright into fault panda trigger address grunt";

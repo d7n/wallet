@@ -1,1 +1,1 @@
-var mnemonic = "congress person ready goddess funny elder guard dilemma such person nice ostrich";
+var mnemonic = "shoot high school rebel scorpion stadium canvas tide ethics fence cream one";

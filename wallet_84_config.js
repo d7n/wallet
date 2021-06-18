@@ -1,1 +1,1 @@
-var mnemonic = "excuse cram fossil glide animal inner abandon absurd option draft never assist";
+var mnemonic = "patrol decorate mask give wrist ketchup scorpion repeat food profit stick wreck";

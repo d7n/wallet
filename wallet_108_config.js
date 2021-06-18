@@ -1,1 +1,1 @@
-var mnemonic = "test chuckle certain custom pitch real much clever box group galaxy sound";
+var mnemonic = "armor face enjoy worth apart hint medal arm forward sentence raw useful";

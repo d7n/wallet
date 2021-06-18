@@ -1,1 +1,1 @@
-var mnemonic = "reunion admit enable raven inner inform clutch heavy benefit oak adult stable";
+var mnemonic = "midnight two unfair pilot depend memory easy magnet design tenant win trigger";

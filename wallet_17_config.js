@@ -1,1 +1,1 @@
-var mnemonic = "cement tornado annual menu lottery minute people ill knee average addict adapt";
+var mnemonic = "exact advance mouse inmate define grass wrong ring lumber trial quiz home";

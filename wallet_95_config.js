@@ -1,1 +1,1 @@
-var mnemonic = "farm write oak valve aim ensure rapid spoon seven oblige puppy resemble";
+var mnemonic = "lottery glue capital actor shield surprise today bicycle bunker approve leader carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "box theme gadget purchase language dismiss ancient entire ski kidney eternal village";
+var mnemonic = "warrior identify someone flag struggle tank bulb limit fork smooth road minimum";

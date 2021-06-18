@@ -1,1 +1,1 @@
-var mnemonic = "bicycle give lion penalty bike symptom wait simple case gap scissors width";
+var mnemonic = "matter because dynamic priority pulp elite hybrid safe possible piece winner raccoon";
