@@ -1,1 +1,1 @@
-var mnemonic = "accuse glory snap special grace leader room mesh script vast fetch either";
+var mnemonic = "garlic humble echo alley wheat bacon surprise vocal vote phrase tiger assault";

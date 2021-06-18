@@ -1,1 +1,1 @@
-var mnemonic = "finger carbon sword liquid ahead ginger hub scan slide dragon involve give";
+var mnemonic = "sketch fatigue afford reveal list order monkey silent merry source alpha host";

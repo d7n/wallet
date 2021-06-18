@@ -1,1 +1,1 @@
-var mnemonic = "parade eternal bone exchange tobacco season sail include swing gaze upon nose";
+var mnemonic = "drill emotion erupt stuff under top swarm flip father owner zero true";

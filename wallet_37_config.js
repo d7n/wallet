@@ -1,1 +1,1 @@
-var mnemonic = "dumb luxury waste pole execute simple empower entry original spray cash deny";
+var mnemonic = "explain bacon episode avocado ship mixture picture estate legal fence screen coast";

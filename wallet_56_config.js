@@ -1,1 +1,1 @@
-var mnemonic = "disorder december extend exact story phone cover water exclude lamp thank rain";
+var mnemonic = "great steel wine sense corn ocean display mimic garment bone bottom canal";

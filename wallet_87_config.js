@@ -1,1 +1,1 @@
-var mnemonic = "anxiety renew thrive deal holiday collect protect silk absent easily manual cover";
+var mnemonic = "home fruit donkey jump since trigger day vintage obvious afraid raise allow";

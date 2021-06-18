@@ -1,1 +1,1 @@
-var mnemonic = "upset clinic slush health swim mail famous duty scout club body winner";
+var mnemonic = "harvest donkey walnut canoe regular news flower beyond spoon stool swing onion";

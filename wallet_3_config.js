@@ -1,1 +1,1 @@
-var mnemonic = "history quit twice dentist weasel misery art toe elephant fossil genuine gain";
+var mnemonic = "marriage employ payment west exotic lounge key fresh flower scorpion alarm empower";

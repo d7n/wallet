@@ -1,1 +1,1 @@
-var mnemonic = "cannon right monkey garment little tenant dawn stool diagram roast door behave";
+var mnemonic = "salon spin salute size fuel drink trim pluck used utility rent deny";

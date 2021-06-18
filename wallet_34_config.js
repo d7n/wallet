@@ -1,1 +1,1 @@
-var mnemonic = "neglect gravity bean tackle shine oak wrist brass episode arm blush bomb";
+var mnemonic = "grace assist slogan palace isolate polar amount ocean trim lottery wave luxury";

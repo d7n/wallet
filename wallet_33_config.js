@@ -1,1 +1,1 @@
-var mnemonic = "route alien blue umbrella network over supply state language rebuild toss level";
+var mnemonic = "brick junior become globe mimic cloud sad exhaust creek quick voice mean";

@@ -1,1 +1,1 @@
-var mnemonic = "fish bullet mix inquiry place rain noise double liar twelve maze trust";
+var mnemonic = "hole mountain climb kangaroo provide alley apple click bicycle swim potato butter";

@@ -1,1 +1,1 @@
-var mnemonic = "viable critic time success repeat nominee forum media pave surge fix depth";
+var mnemonic = "number attend trust train mean umbrella scout stable december sister wide strategy";

@@ -1,1 +1,1 @@
-var mnemonic = "motion juice cover test elevator daughter ranch hello wash sustain much almost";
+var mnemonic = "motor stock list cloth wheel cage cage acquire grape upper rough impose";

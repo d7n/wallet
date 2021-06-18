@@ -1,1 +1,1 @@
-var mnemonic = "alien judge lemon kick source excite swap never combine vague series trash";
+var mnemonic = "secret rotate tail target swarm patch deputy marble reflect vintage surge mention";

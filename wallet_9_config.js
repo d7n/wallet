@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog shaft become athlete swim cave cheese romance fine bus armed old";
+var mnemonic = "effort clown display glue act drink demise canal kangaroo catch hair cook";

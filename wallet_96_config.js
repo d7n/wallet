@@ -1,1 +1,1 @@
-var mnemonic = "tower employ basket element fabric luxury arrive effort load turkey isolate wrap";
+var mnemonic = "whale twin else daughter black solar theory execute observe icon order empower";

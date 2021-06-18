@@ -1,1 +1,1 @@
-var mnemonic = "bamboo federal web case era keep mistake any between car jungle chest";
+var mnemonic = "sense author woman kid glimpse alter crop window lounge open math drip";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic admit rough join wire post destroy better dial tomato vanish awake";
+var mnemonic = "among size weather lens sword drill click armor ramp help demand diesel";

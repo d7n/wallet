@@ -1,1 +1,1 @@
-var mnemonic = "sail opera dismiss olive usual position bomb spin luggage other pact inhale";
+var mnemonic = "thumb wedding during punch match chat tongue grow smart inmate match sand";

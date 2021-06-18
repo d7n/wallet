@@ -1,1 +1,1 @@
-var mnemonic = "memory phone face zone light degree swallow valley equal collect ship drift";
+var mnemonic = "dune cube void price ginger diet praise minor girl speed doctor sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "clip tray museum banana prevent express plug huge diamond holiday crater peasant";
+var mnemonic = "double glow alter bullet tip best trap rare upset expire gadget lend";

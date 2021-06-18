@@ -1,1 +1,1 @@
-var mnemonic = "caught drip glad tumble february praise quit connect trouble license curve orient";
+var mnemonic = "tumble spice fetch still step adapt cake project limit awake couch slow";

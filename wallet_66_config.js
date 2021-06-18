@@ -1,1 +1,1 @@
-var mnemonic = "gentle when north tissue dust winner talk error faculty during guide present";
+var mnemonic = "young across lake list orbit clutch board alter pizza rely verb curtain";

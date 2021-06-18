@@ -1,1 +1,1 @@
-var mnemonic = "grief excess unaware panda option bundle exist tip bomb excite hawk immune";
+var mnemonic = "lemon slogan soul organ giggle pride pluck alpha remove unaware swarm barrel";

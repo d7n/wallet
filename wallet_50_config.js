@@ -1,1 +1,1 @@
-var mnemonic = "holiday trap release quick curtain bachelor jungle kingdom road brown identify neither";
+var mnemonic = "taxi odor retreat uniform hundred shift negative juice sadness arena arrest shine";

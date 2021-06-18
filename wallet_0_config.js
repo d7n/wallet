@@ -1,1 +1,1 @@
-var mnemonic = "gospel stumble lounge retire design sign fall other ripple put damp bottom";
+var mnemonic = "sniff replace good method rifle ethics venture measure border symbol firm any";

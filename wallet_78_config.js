@@ -1,1 +1,1 @@
-var mnemonic = "truth absorb upgrade begin polar estate auction victory cream cash genuine recipe";
+var mnemonic = "fashion act step practice type rifle inherit latin super cactus reduce soft";

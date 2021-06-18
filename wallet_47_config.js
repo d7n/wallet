@@ -1,1 +1,1 @@
-var mnemonic = "rhythm attitude renew crush swamp traffic teach vault soldier position hen old";
+var mnemonic = "arch primary february solid chat local retreat between public boost discover old";

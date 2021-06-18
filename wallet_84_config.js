@@ -1,1 +1,1 @@
-var mnemonic = "giraffe stereo orchard century front slogan castle lend describe tissue cinnamon dumb";
+var mnemonic = "garbage tribe price impose steak ladder alpha wide mammal alert move best";

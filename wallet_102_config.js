@@ -1,1 +1,1 @@
-var mnemonic = "fringe pig rail gossip avoid mobile blanket cabbage impact album deposit robot";
+var mnemonic = "clown skirt calm trade convince away dish fun agree panda salt shadow";

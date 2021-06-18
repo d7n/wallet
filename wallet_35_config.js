@@ -1,1 +1,1 @@
-var mnemonic = "toward cute fashion toast suggest trade model over anxiety bronze write one";
+var mnemonic = "play fold pistol water slab congress often success aunt yard soccer submit";

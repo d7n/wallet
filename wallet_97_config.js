@@ -1,1 +1,1 @@
-var mnemonic = "spirit march celery truth flame donkey drift ozone limit useful rifle gaze";
+var mnemonic = "boring manage quiz index glance animal game response honey ankle order enroll";

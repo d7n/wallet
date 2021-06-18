@@ -1,1 +1,1 @@
-var mnemonic = "easily cushion eternal have tornado rural inquiry still you evoke worth swarm";
+var mnemonic = "peasant shadow over mistake lecture duty approve slight element wall keep runway";

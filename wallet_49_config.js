@@ -1,1 +1,1 @@
-var mnemonic = "shield floor myself limb warrior six canal hockey verify cotton afraid ladder";
+var mnemonic = "yard behind differ dwarf toy forward country drip problem winter salute still";

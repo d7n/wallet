@@ -1,1 +1,1 @@
-var mnemonic = "grant green duty other slender quick inject coil festival brick year poet";
+var mnemonic = "fancy switch lottery program live inject lamp draw trumpet youth first depend";

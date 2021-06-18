@@ -1,1 +1,1 @@
-var mnemonic = "save dog mandate injury crush normal strike scan security brief ugly predict";
+var mnemonic = "hold orient remove matter portion thrive column nut shield develop phone purchase";

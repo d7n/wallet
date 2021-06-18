@@ -1,1 +1,1 @@
-var mnemonic = "near index memory insane helmet rely grunt title clinic rely wrestle candy";
+var mnemonic = "capital merge promote zoo crush regular split young reveal shop earth exclude";

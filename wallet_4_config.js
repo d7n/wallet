@@ -1,1 +1,1 @@
-var mnemonic = "orphan loan unknown kitchen blue cute begin shed daring language tennis husband";
+var mnemonic = "net client enrich quit omit churn misery virus athlete nurse embody tackle";

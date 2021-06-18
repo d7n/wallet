@@ -1,1 +1,1 @@
-var mnemonic = "blanket blame amateur close wait guess obvious chase mixture mammal crawl whisper";
+var mnemonic = "brain near power couch admit lecture need surface venture cube promote scare";

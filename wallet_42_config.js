@@ -1,1 +1,1 @@
-var mnemonic = "edit easily trumpet consider cherry load stairs cool little sample divorce key";
+var mnemonic = "cool rabbit fashion flash apology swear ignore enable theory permit project machine";

@@ -1,1 +1,1 @@
-var mnemonic = "cube velvet trip detect phrase verb bus judge tribe siege nest bleak";
+var mnemonic = "spy cushion once convince peace either post bunker reunion tube punch blur";

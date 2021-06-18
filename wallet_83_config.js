@@ -1,1 +1,1 @@
-var mnemonic = "diesel leader potato tattoo cinnamon kick enrich great copy elbow travel burst";
+var mnemonic = "risk liquid nominee scorpion practice isolate subject flee zoo update tackle miss";

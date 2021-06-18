@@ -1,1 +1,1 @@
-var mnemonic = "monster dirt body decrease museum zoo furnace mad clutch primary alone yard";
+var mnemonic = "vapor tape soul danger dress close put royal reduce spare video amused";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze alien creek potato hybrid smooth firm absurd lizard crater fall father";
+var mnemonic = "snap brain rose truly afford broccoli example attitude sugar link vintage pulp";

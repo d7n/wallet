@@ -1,1 +1,1 @@
-var mnemonic = "engine cluster acquire top route creek dash kiwi supreme lecture foot wealth";
+var mnemonic = "bridge fashion wheel ostrich fantasy donkey moon unknown glass normal subject cry";

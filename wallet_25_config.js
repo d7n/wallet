@@ -1,1 +1,1 @@
-var mnemonic = "twelve dilemma exhibit clock settle engine push antenna puppy lava faculty swallow";
+var mnemonic = "stone guilt force soap split congress credit prevent leisure absurd ecology inside";

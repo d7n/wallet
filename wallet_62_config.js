@@ -1,1 +1,1 @@
-var mnemonic = "business love winner discover gesture slight host plate tape effort tell fossil";
+var mnemonic = "rescue silly help beyond mosquito lucky unknown jaguar coffee call magic lizard";

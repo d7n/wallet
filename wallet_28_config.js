@@ -1,1 +1,1 @@
-var mnemonic = "loud script sister state alter portion client cinnamon frog purse round wrap";
+var mnemonic = "love lonely antique kick virtual rough swing fork swallow corn police deposit";

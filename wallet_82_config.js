@@ -1,1 +1,1 @@
-var mnemonic = "trumpet include reward often nerve subject palace mammal lock mesh claw leaf";
+var mnemonic = "parrot real hotel attend visit crouch fit evoke can tilt dice side";

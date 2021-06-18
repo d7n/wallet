@@ -1,1 +1,1 @@
-var mnemonic = "either smoke venture mosquito trend monkey glue army mom nut horn garlic";
+var mnemonic = "settle admit wood mad castle chapter just hybrid lunar pudding gesture tattoo";

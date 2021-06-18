@@ -1,1 +1,1 @@
-var mnemonic = "teach educate elite chief mad recipe scheme key unusual expose awesome roast";
+var mnemonic = "cinnamon love borrow ketchup oppose deer expose recall waste anchor spy game";

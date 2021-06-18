@@ -1,1 +1,1 @@
-var mnemonic = "pluck own arrow enable year doctor cruise vibrant autumn radar plug taxi";
+var mnemonic = "nurse salute candy slide spend mountain extra patrol donkey vague certain control";

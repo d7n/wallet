@@ -1,1 +1,1 @@
-var mnemonic = "gravity buzz dismiss enemy bread song million odor leisure rubber behave length";
+var mnemonic = "quality whale mutual fun tortoise learn history nation cross term write woman";

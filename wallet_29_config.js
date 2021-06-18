@@ -1,1 +1,1 @@
-var mnemonic = "stem auto alarm left confirm load flash cherry above whisper island list";
+var mnemonic = "number muffin zero hard pink cannon sight squeeze uniform symptom reopen topic";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset online ride captain wing brain story flame devote stock cage galaxy";
+var mnemonic = "suffer hospital body dilemma young crack celery achieve ritual crime title rare";

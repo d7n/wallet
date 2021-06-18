@@ -1,1 +1,1 @@
-var mnemonic = "food pact crime company online dad borrow autumn silly sad raven upon";
+var mnemonic = "urge toward exercise subway powder adapt brick wheel atom earth rabbit mechanic";

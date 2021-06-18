@@ -1,1 +1,1 @@
-var mnemonic = "gossip suit vibrant learn convince medal category airport permit yellow gas reward";
+var mnemonic = "bronze token stuff capital inquiry vehicle glance caution bulk citizen divorce midnight";

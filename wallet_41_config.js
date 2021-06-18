@@ -1,1 +1,1 @@
-var mnemonic = "jungle burden erupt glad company flight father prepare silver bid jump rigid";
+var mnemonic = "record arrange antenna stand walnut define can cereal front invite cricket cup";

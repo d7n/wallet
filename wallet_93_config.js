@@ -1,1 +1,1 @@
-var mnemonic = "either use vapor mixture confirm female farm wave urge expire omit since";
+var mnemonic = "face tube weather swamp auto reason funny input firm again trouble agree";

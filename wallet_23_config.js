@@ -1,1 +1,1 @@
-var mnemonic = "isolate wedding congress defense lumber sand story apart escape couch sustain observe";
+var mnemonic = "toddler month lyrics bounce check people swift expand boost arrange balcony shadow";

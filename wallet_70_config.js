@@ -1,1 +1,1 @@
-var mnemonic = "return soon ladder fortune include poem pottery sing file output strong add";
+var mnemonic = "top sausage across turn category gesture blast depth acoustic muffin nominee duty";

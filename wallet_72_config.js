@@ -1,1 +1,1 @@
-var mnemonic = "tilt grit parrot stove pizza crush dignity divorce fantasy ozone vapor north";
+var mnemonic = "tail crawl panel drip grass dream business flip twenty ribbon wise balcony";

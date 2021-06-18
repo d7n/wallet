@@ -1,1 +1,1 @@
-var mnemonic = "pause push media obey top spot subway six bullet heart ginger correct";
+var mnemonic = "stairs flame myself gate clarify enrich bunker unit coast race knife guess";

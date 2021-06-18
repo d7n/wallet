@@ -1,1 +1,1 @@
-var mnemonic = "biology dumb mechanic task wash luxury teach crime cotton uphold token salute";
+var mnemonic = "fog slight champion ugly area fortune north rally brother video say family";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious dress marine nominee neglect sleep arm wrestle slice label will tent";
+var mnemonic = "must ridge forget lawsuit country coil drama happy labor ginger glance minimum";

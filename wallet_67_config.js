@@ -1,1 +1,1 @@
-var mnemonic = "lobster reunion tuition tortoise bird among focus twenty invest salmon minor smoke";
+var mnemonic = "alcohol sport hamster leader rely effort donor solve mad together main parrot";

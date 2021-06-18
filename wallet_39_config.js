@@ -1,1 +1,1 @@
-var mnemonic = "empower dawn present figure valve prison action depend ridge injury cupboard include";
+var mnemonic = "chat melt wrap toast doll coffee body embody blue conduct fall obey";

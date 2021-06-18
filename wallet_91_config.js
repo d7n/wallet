@@ -1,1 +1,1 @@
-var mnemonic = "announce company nose time crush faculty fortune final release equip nuclear acoustic";
+var mnemonic = "leave tornado zebra mesh matrix sample fall occur erode myself proud fun";

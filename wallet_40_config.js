@@ -1,1 +1,1 @@
-var mnemonic = "when rabbit broccoli split forum fantasy door foot beyond coconut derive bar";
+var mnemonic = "bacon lady health term crunch mixture index allow frame axis ozone what";

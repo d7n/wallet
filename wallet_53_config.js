@@ -1,1 +1,1 @@
-var mnemonic = "concert busy between deny forest return jump start insane match remove photo";
+var mnemonic = "soap chronic settle section plastic green chest frozen better later cousin stone";

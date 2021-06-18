@@ -1,1 +1,1 @@
-var mnemonic = "assume pilot imitate episode glide when render hole few wise cave girl";
+var mnemonic = "ensure taxi glad tumble carpet voice vote elite kidney dream rail gain";

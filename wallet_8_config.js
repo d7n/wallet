@@ -1,1 +1,1 @@
-var mnemonic = "fatigue vocal chunk paper mountain spin mushroom test frozen cricket rocket real";
+var mnemonic = "repair earn prefer ozone devote swamp wool sting fitness plug trust detect";

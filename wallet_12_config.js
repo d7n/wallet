@@ -1,1 +1,1 @@
-var mnemonic = "follow satoshi grass region announce kind rare clean rhythm winner soul stomach";
+var mnemonic = "success update skirt brass table collect lava fence atom noodle rotate day";

@@ -1,1 +1,1 @@
-var mnemonic = "famous fence baby seed million animal foam soda innocent table morning urban";
+var mnemonic = "hotel dynamic discover spread glide brave oil unaware vehicle useless where bind";

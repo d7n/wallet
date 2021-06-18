@@ -1,1 +1,1 @@
-var mnemonic = "like scorpion cat song split sheriff survey law panda man crush army";
+var mnemonic = "front village animal trophy surprise space bomb dumb nose reflect goose merry";

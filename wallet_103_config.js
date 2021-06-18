@@ -1,1 +1,1 @@
-var mnemonic = "kitten mimic drastic material exhibit nice original cushion dial coral special corn";
+var mnemonic = "castle pink doctor income require weasel leader first flush circle nice pig";

@@ -1,1 +1,1 @@
-var mnemonic = "potato clerk raise friend lava private pilot scene exclude face switch float";
+var mnemonic = "aware arctic travel chronic day evidence page school jacket recycle source immense";

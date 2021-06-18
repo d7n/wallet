@@ -1,1 +1,1 @@
-var mnemonic = "quick into affair ecology bonus blanket fitness wide segment enter turtle slam";
+var mnemonic = "try cost glide pilot roast deal body asthma assault moral female toddler";

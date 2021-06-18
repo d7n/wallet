@@ -1,1 +1,1 @@
-var mnemonic = "gentle armed eye pond danger lamp infant tenant pink brother glory lonely";
+var mnemonic = "citizen robust dice trust donor ability frequent stadium draw artist sweet panel";

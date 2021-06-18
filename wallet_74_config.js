@@ -1,1 +1,1 @@
-var mnemonic = "able head orange bundle issue fork inch picture theory bulk tomorrow crop";
+var mnemonic = "ensure love inform talk coast swift where enhance useful van thrive youth";

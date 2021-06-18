@@ -1,1 +1,1 @@
-var mnemonic = "catalog shrimp pelican cricket indicate endorse lucky across own silver depend flush";
+var mnemonic = "entire belt reunion swim equal athlete eight sun just noise rice among";

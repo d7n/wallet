@@ -1,1 +1,1 @@
-var mnemonic = "brisk market cup stereo girl drift obscure all screen patrol zero canvas";
+var mnemonic = "poverty talk list script mother unfair brave army chunk salad inhale giant";

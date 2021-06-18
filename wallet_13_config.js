@@ -1,1 +1,1 @@
-var mnemonic = "daring click elephant blossom window source busy essay more wife deliver old";
+var mnemonic = "suspect fever project resemble neither attitude myth jar assault raw pilot muscle";

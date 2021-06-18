@@ -1,1 +1,1 @@
-var mnemonic = "ensure tag boost know uncover fade equal rebel hen joy review spell";
+var mnemonic = "upon fan plastic online street sort because noodle wrist leopard border welcome";

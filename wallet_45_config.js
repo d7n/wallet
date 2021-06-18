@@ -1,1 +1,1 @@
-var mnemonic = "deer please dwarf panther someone burst spot armor almost defy guilt strategy";
+var mnemonic = "accuse castle street bean citizen person midnight shift render build control help";
