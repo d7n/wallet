@@ -1,1 +1,1 @@
-var mnemonic = "jelly toward indoor admit cave final clinic road skull twelve area private";
+var mnemonic = "local retire police owner barely action arrange clarify home image census swamp";

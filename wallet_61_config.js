@@ -1,1 +1,1 @@
-var mnemonic = "neglect chapter isolate insane abuse dial flush news moral order super pipe";
+var mnemonic = "sing deer harsh force tomorrow bottom script kick rice avocado half carbon";

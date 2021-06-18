@@ -1,1 +1,1 @@
-var mnemonic = "eager gate rich evil roof local skirt card fortune occur before phrase";
+var mnemonic = "armor grid immune maximum kite catch truth sorry shoot capital dial spread";

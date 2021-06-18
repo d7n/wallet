@@ -1,1 +1,1 @@
-var mnemonic = "author arena reunion license slice gorilla pottery sadness found train describe live";
+var mnemonic = "spider exhaust flee brass current educate situate reveal nasty palm legend business";

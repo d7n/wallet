@@ -1,1 +1,1 @@
-var mnemonic = "glow fire clutch sense exercise height system language method today umbrella unique";
+var mnemonic = "group scare other tongue merge supply angry essay satisfy word crater move";

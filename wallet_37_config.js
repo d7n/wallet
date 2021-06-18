@@ -1,1 +1,1 @@
-var mnemonic = "poverty hurt rent office trim advice hold tilt between intact egg harvest";
+var mnemonic = "deal dose neck produce noble cart random seat stove brush item endless";

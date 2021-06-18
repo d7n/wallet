@@ -1,1 +1,1 @@
-var mnemonic = "nerve vibrant health observe car damage reunion prosper village engine tissue medal";
+var mnemonic = "piano rail police deliver gossip scorpion topple eagle video boost empty bargain";

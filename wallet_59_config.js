@@ -1,1 +1,1 @@
-var mnemonic = "juice sorry acquire click sign jacket long food nuclear rate galaxy maid";
+var mnemonic = "empower one recycle reunion inspire knock butter bleak head struggle hen again";

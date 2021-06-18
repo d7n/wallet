@@ -1,1 +1,1 @@
-var mnemonic = "company gun render series dry cup habit prosper force thunder web thank";
+var mnemonic = "vital pigeon useful rent rain garage blue mind alert capable capable off";

@@ -1,1 +1,1 @@
-var mnemonic = "diet vocal egg breeze shield dumb taxi select category image conduct twice";
+var mnemonic = "unfold resist debris inside movie return stumble flat pond monkey window slogan";

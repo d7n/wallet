@@ -1,1 +1,1 @@
-var mnemonic = "rally cheap isolate depend found simple often anger define tornado saddle image";
+var mnemonic = "sphere enhance task muscle wrist flat foot upgrade solar name taxi ordinary";

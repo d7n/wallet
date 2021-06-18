@@ -1,1 +1,1 @@
-var mnemonic = "globe state steak alert lunch icon price couch industry sail live outer";
+var mnemonic = "other maid multiply test delay require fence column float plastic perfect vintage";

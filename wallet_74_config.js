@@ -1,1 +1,1 @@
-var mnemonic = "physical claw lunch devote seek inquiry sound brick junk humor ostrich canal";
+var mnemonic = "melody derive dinner caution coin there festival gift cool road inquiry donkey";

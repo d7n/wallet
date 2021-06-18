@@ -1,1 +1,1 @@
-var mnemonic = "lesson imitate assault solar since rival slice resemble wool hill sudden carbon";
+var mnemonic = "pitch churn south can motion dolphin vital glass gold crater spread divide";

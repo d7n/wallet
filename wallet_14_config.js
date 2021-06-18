@@ -1,1 +1,1 @@
-var mnemonic = "ecology shock foot uniform snake rookie confirm identify assault hunt legal current";
+var mnemonic = "slush super judge suggest inspire return vessel man elder note click garment";

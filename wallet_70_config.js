@@ -1,1 +1,1 @@
-var mnemonic = "entry miss expand regular palace thing brief toy shine kiwi deliver kidney";
+var mnemonic = "fault shoe puppy desert pottery twice retire trash image junk music age";

@@ -1,1 +1,1 @@
-var mnemonic = "urge find plate shove tilt cycle bleak father legend coral strategy reflect";
+var mnemonic = "thumb venture embark hedgehog rather inject right cram tilt donate grid above";

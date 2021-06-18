@@ -1,1 +1,1 @@
-var mnemonic = "addict rotate slam brush lava isolate finger hover canvas next favorite fortune";
+var mnemonic = "squeeze gospel feature orchard swarm peasant pretty virus daughter sting increase battle";

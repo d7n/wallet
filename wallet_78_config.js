@@ -1,1 +1,1 @@
-var mnemonic = "equip coast noodle recycle pizza foot sheriff right spread once laundry access";
+var mnemonic = "cotton huge talent cart omit run worry property trumpet shoulder iron pony";

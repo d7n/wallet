@@ -1,1 +1,1 @@
-var mnemonic = "warfare brand merge card volume sign push say slab tilt wide alpha";
+var mnemonic = "lobster oil journey smart strategy horse author hockey end normal rough waste";

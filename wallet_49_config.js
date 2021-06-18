@@ -1,1 +1,1 @@
-var mnemonic = "venture hair elephant absent bind vote vault frame seminar ask much flavor";
+var mnemonic = "educate obscure card pledge road casual grid pole simple model finish junk";

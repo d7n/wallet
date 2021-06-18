@@ -1,1 +1,1 @@
-var mnemonic = "series bacon diagram front minute rough sun crucial solid oyster service vault";
+var mnemonic = "blast prison element good blast omit candy ocean special tilt absorb vanish";

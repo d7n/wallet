@@ -1,1 +1,1 @@
-var mnemonic = "century seven enemy ring more fantasy venue maple subway laundry spend tribe";
+var mnemonic = "actual wagon visit matter extend also asthma rocket okay message bounce pigeon";

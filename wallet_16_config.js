@@ -1,1 +1,1 @@
-var mnemonic = "frog reward strong drift wet obscure twin side lawsuit corn vapor east";
+var mnemonic = "tragic inspire icon flat tooth shiver pact scan convince mix truly juice";

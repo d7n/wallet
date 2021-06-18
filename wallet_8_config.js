@@ -1,1 +1,1 @@
-var mnemonic = "retire comic manual dog diary cook caught decline blast drop must catch";
+var mnemonic = "unaware regret cook volcano east place collect museum horn embrace patch spare";

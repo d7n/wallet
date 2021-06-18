@@ -1,1 +1,1 @@
-var mnemonic = "recipe ticket turn fringe strategy brick argue banana rocket stamp crash captain";
+var mnemonic = "traffic again wrist butter umbrella occur grape crunch book candy sustain protect";

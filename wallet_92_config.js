@@ -1,1 +1,1 @@
-var mnemonic = "angle crime shove silent idle velvet regret choice pair common source virtual";
+var mnemonic = "clarify stage gap submit fury gas diamond emotion broccoli drill leopard size";

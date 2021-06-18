@@ -1,1 +1,1 @@
-var mnemonic = "make milk talk mad solve pelican faculty shift awkward cram relax awful";
+var mnemonic = "donate cute sick net phrase unaware ticket multiply deliver obtain until alcohol";

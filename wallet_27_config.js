@@ -1,1 +1,1 @@
-var mnemonic = "load wife room life spoil neutral depart stadium weird leopard mosquito shop";
+var mnemonic = "push fox polar arrest strategy ocean talk wood aunt ordinary salon route";

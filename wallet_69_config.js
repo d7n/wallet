@@ -1,1 +1,1 @@
-var mnemonic = "dutch huge tide hire argue insect axis empower two unique gun pink";
+var mnemonic = "change town magic pyramid review festival guitar glow little carpet flat ancient";

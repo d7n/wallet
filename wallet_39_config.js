@@ -1,1 +1,1 @@
-var mnemonic = "journey valley vacant awake stock evil gun praise bike upper inspire clock";
+var mnemonic = "donkey option throw fabric person retreat solve pet night obey rice grief";

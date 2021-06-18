@@ -1,1 +1,1 @@
-var mnemonic = "rack misery jelly clog weapon decide hazard tent custom lobster reject dinosaur";
+var mnemonic = "visit asset limb corn patient mobile razor goddess fruit worry jelly good";

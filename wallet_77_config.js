@@ -1,1 +1,1 @@
-var mnemonic = "write leader couple merry note apart huge midnight mail push utility door";
+var mnemonic = "health basic melt uncover hand place chicken nasty inch model manual plate";

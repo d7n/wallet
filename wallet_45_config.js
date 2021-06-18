@@ -1,1 +1,1 @@
-var mnemonic = "unveil car employ alley brave more entire crash frown funny chunk sudden";
+var mnemonic = "arrow cancel arena math airport glove broccoli timber fold gap panel snack";

@@ -1,1 +1,1 @@
-var mnemonic = "client riot hint wine blood suffer deal nation give can ivory miracle";
+var mnemonic = "wrist stomach horror exclude kiwi life silly number sleep toy solution holiday";

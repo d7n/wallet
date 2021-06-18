@@ -1,1 +1,1 @@
-var mnemonic = "vacuum usage tenant front rotate cargo near gate number primary glide purchase";
+var mnemonic = "twelve shift orient floor clean lend lecture company genius current fury curve";

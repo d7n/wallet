@@ -1,1 +1,1 @@
-var mnemonic = "sunset hat gown plunge agent sing skull crash table dose potato suggest";
+var mnemonic = "cheap item proof lava antique quality hobby secret simple blast churn sand";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty laptop regular chuckle call night type sea below pride cloud worth";
+var mnemonic = "blush lonely subject emotion one jaguar truth speed mobile rigid boring surround";

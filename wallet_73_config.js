@@ -1,1 +1,1 @@
-var mnemonic = "render shop vital else oppose pepper scatter enemy damage clarify scrub wise";
+var mnemonic = "corn cash unit polar obey vibrant picture gallery forum clean food blouse";

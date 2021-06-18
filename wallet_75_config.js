@@ -1,1 +1,1 @@
-var mnemonic = "where estate neglect split screen nominee notice demand endorse insect scrap clip";
+var mnemonic = "whip enrich wish april market crisp blood acid tuna couple output shock";

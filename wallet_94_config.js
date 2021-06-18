@@ -1,1 +1,1 @@
-var mnemonic = "bread truly crop vibrant era half depth puppy drift truth talk hybrid";
+var mnemonic = "glimpse dress drive place fatigue census danger awesome vacant snow zone hammer";

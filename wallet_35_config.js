@@ -1,1 +1,1 @@
-var mnemonic = "include attitude cheap magic month pottery patient soup vintage salute harvest give";
+var mnemonic = "replace wagon smooth kick seminar ladder cushion alter can subway loan hidden";

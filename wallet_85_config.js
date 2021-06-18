@@ -1,1 +1,1 @@
-var mnemonic = "truly tattoo auction stable leisure frost title allow shift museum essence since";
+var mnemonic = "coral biology forum palace faculty motion brick skirt tape fever below desert";

@@ -1,1 +1,1 @@
-var mnemonic = "cool left action exit infant nose conduct happy exact kiss clarify pink";
+var mnemonic = "vintage enough degree quick twenty husband cannon runway minor inform virus account";

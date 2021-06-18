@@ -1,1 +1,1 @@
-var mnemonic = "fee give lottery fuel nature coin cradle clog lonely prefer appear amazing";
+var mnemonic = "tennis demand rare mechanic hollow orbit bonus library square strategy shiver neck";

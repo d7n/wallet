@@ -1,1 +1,1 @@
-var mnemonic = "heart climb error answer orbit bacon glove trouble sun fiscal bottom hammer";
+var mnemonic = "cement salad power order curious body bike original joy lyrics cube crouch";

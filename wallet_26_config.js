@@ -1,1 +1,1 @@
-var mnemonic = "domain great envelope fly reopen usage anxiety enrich label scrap razor quote";
+var mnemonic = "source elite draw tribe erosion rent develop toilet siege cousin away please";

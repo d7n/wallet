@@ -1,1 +1,1 @@
-var mnemonic = "blood frost six panda surprise mail candy crumble helmet minute color can";
+var mnemonic = "usual claim deny harsh nuclear grass provide finish next twenty undo certain";

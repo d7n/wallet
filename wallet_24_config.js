@@ -1,1 +1,1 @@
-var mnemonic = "pave roast whisper fluid dog birth depend cement ridge sword grocery stock";
+var mnemonic = "dumb increase motor bless require lunar immense frost theory order cricket race";

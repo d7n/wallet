@@ -1,1 +1,1 @@
-var mnemonic = "merit near mosquito lyrics recipe kitten accident impact update wear jaguar physical";
+var mnemonic = "miracle light grape quote party wear polar mercy cube armor rifle tortoise";

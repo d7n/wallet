@@ -1,1 +1,1 @@
-var mnemonic = "beach ivory mom struggle soldier human avoid practice into night legend faculty";
+var mnemonic = "vote ask bullet panic hockey intact animal whip wrist differ city swing";

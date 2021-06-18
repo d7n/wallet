@@ -1,1 +1,1 @@
-var mnemonic = "inmate interest start bind skirt achieve shift spoil minimum doll aunt culture";
+var mnemonic = "awesome fade thunder just garden turtle check sketch cover utility happy echo";

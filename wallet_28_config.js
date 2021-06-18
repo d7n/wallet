@@ -1,1 +1,1 @@
-var mnemonic = "prize airport bundle grace gallery stable surprise month become pave obtain minute";
+var mnemonic = "duty fog drop crucial shop miracle cart decide pistol such jewel orange";

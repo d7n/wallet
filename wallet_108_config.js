@@ -1,1 +1,1 @@
-var mnemonic = "announce current poem confirm scrap yard despair talent dress misery radio sword";
+var mnemonic = "venture casino spice capable essay actual soul long swamp valley sentence fire";

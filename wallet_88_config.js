@@ -1,1 +1,1 @@
-var mnemonic = "spread dance cloud nut auction element faint urban legend service disagree choose";
+var mnemonic = "empty assault room brain bulb person retire roof path grid problem prepare";

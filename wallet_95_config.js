@@ -1,1 +1,1 @@
-var mnemonic = "seek prosper pottery pride blast year glad desert shuffle setup patient evoke";
+var mnemonic = "eight secret cabin actress above they normal keen equip budget copy infant";

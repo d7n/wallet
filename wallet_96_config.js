@@ -1,1 +1,1 @@
-var mnemonic = "still police feature enrich trouble warrior shuffle zero slice army close timber";
+var mnemonic = "sweet joke news museum despair believe have beyond cat year lumber nut";

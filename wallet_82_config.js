@@ -1,1 +1,1 @@
-var mnemonic = "sad flip high cash face column asthma deer thought element install enact";
+var mnemonic = "narrow entire length decline lounge crawl chapter doll peasant holiday possible knock";

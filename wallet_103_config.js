@@ -1,1 +1,1 @@
-var mnemonic = "skull arena taste arrange inside sustain seed again ripple casual struggle shock";
+var mnemonic = "power owner border hungry rich nerve whip pulse room shield grass organ";

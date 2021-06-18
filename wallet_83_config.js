@@ -1,1 +1,1 @@
-var mnemonic = "detect lemon hidden into monster task drift olive black reduce spider spirit";
+var mnemonic = "attitude glove fatal shaft flock this rocket above silent snake rare define";

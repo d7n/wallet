@@ -1,1 +1,1 @@
-var mnemonic = "before push album kiss unable awake remain behave never test digital already";
+var mnemonic = "burden fantasy divorce word machine lemon camera purse plastic leave misery push";

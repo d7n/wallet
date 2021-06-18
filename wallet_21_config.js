@@ -1,1 +1,1 @@
-var mnemonic = "club hard tongue mixture normal dinosaur setup stuff pulp general spot skirt";
+var mnemonic = "sheriff pattern top before actual naive expose life uncle tackle ranch path";

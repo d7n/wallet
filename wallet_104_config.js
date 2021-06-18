@@ -1,1 +1,1 @@
-var mnemonic = "monitor weasel visa eight place paper stage run sphere solve train hello";
+var mnemonic = "artefact then trial about secret cupboard foam blast area ski knife grow";

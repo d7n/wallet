@@ -1,1 +1,1 @@
-var mnemonic = "immune food stuff upper company wave chef lumber scrub exchange harbor toward";
+var mnemonic = "cash allow auction ignore upon barrel post meat salad moment kid ranch";

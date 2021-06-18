@@ -1,1 +1,1 @@
-var mnemonic = "mercy fetch exotic text play train story unusual few shield tray million";
+var mnemonic = "april fruit arrive jaguar buzz attend plate very polar february success void";

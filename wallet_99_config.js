@@ -1,1 +1,1 @@
-var mnemonic = "cereal garment toddler divert extend absurd poem call item reject cheap pear";
+var mnemonic = "diary all visa sight crawl clip dirt hollow slow acoustic trap neglect";

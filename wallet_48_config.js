@@ -1,1 +1,1 @@
-var mnemonic = "believe sight pipe brown radio find same knock pigeon cannon imitate fold";
+var mnemonic = "such toy dog guess pen rigid govern know join ignore inside injury";

@@ -1,1 +1,1 @@
-var mnemonic = "setup ski stick lab cheap hover screen office simple dish task rain";
+var mnemonic = "cruise cube library baby material debate element tomorrow bridge strong garment give";

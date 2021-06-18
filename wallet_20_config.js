@@ -1,1 +1,1 @@
-var mnemonic = "symptom method space cage any obey manage other patient brief predict often";
+var mnemonic = "report pet spoil monitor ladder simple people load enroll slush law month";

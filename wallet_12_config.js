@@ -1,1 +1,1 @@
-var mnemonic = "image hole spoil diet motion satisfy chase fatigue raccoon beyond day address";
+var mnemonic = "tortoise kingdom disorder powder survey pipe use involve gas chair guilt used";

@@ -1,1 +1,1 @@
-var mnemonic = "pen duty path coil pulp found satisfy cricket rich load ignore erosion";
+var mnemonic = "bitter diary live auction sniff ripple bind fatal satoshi harsh advance cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer echo save forget cream remove rebuild wink alert off female drive";
+var mnemonic = "grass blush tobacco vault bottom expand letter poem three embody rose area";

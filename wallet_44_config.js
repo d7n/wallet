@@ -1,1 +1,1 @@
-var mnemonic = "hurry letter alert penalty crisp awesome trial ahead long silk leader debris";
+var mnemonic = "ride lion tape alone ribbon art vault mimic common liquid era soon";

@@ -1,1 +1,1 @@
-var mnemonic = "body enjoy ability also remind neck exchange injury else chunk elbow range";
+var mnemonic = "pulp roast antique cage labor narrow silver trend knock produce doll wedding";

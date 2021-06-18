@@ -1,1 +1,1 @@
-var mnemonic = "shed inhale cycle can essay actor process milk pyramid board modify usage";
+var mnemonic = "demand depth peanut fortune print habit legal tent first prevent lucky road";

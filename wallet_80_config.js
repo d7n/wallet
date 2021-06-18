@@ -1,1 +1,1 @@
-var mnemonic = "eternal peace long holiday hill receive hold bar ten fish tribe idle";
+var mnemonic = "dwarf seek knee emerge phone swallow donkey above together original into awesome";

@@ -1,1 +1,1 @@
-var mnemonic = "regret early price half room cargo critic oppose wood sing expect nut";
+var mnemonic = "later slim magic drift soon pulp next evidence proof sausage include city";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover figure quote goose city sauce insane canoe trap electric novel merit";
+var mnemonic = "swim abandon riot tool ship age already together eye churn click shaft";

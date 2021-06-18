@@ -1,1 +1,1 @@
-var mnemonic = "quick cry okay once grace river one piano satoshi conduct flip hold";
+var mnemonic = "hen panda goddess thrive use apart cherry mansion fitness lounge convince solar";

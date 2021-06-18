@@ -1,1 +1,1 @@
-var mnemonic = "spend often stick circle enrich pass dawn exhibit hurdle romance quarter mystery";
+var mnemonic = "trumpet baby embody helmet cheap dwarf verb exit magnet sea sad exchange";

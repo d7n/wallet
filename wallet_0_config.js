@@ -1,1 +1,1 @@
-var mnemonic = "battle brain minimum world match soft hat donkey fire define slow panic";
+var mnemonic = "used certain broom rude person decorate glove length noble someone service gadget";

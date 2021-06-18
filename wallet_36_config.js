@@ -1,1 +1,1 @@
-var mnemonic = "just betray stumble collect soup either picture avoid lend public picnic survey";
+var mnemonic = "limit turkey accident cheap candy pen stuff magnet rack scorpion damp dance";

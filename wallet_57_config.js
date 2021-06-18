@@ -1,1 +1,1 @@
-var mnemonic = "taste soccer fence verb refuse federal nut scan float defense agree rack";
+var mnemonic = "mountain regular napkin survey grocery resource decorate lava relief prefer ask power";

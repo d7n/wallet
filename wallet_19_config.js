@@ -1,1 +1,1 @@
-var mnemonic = "alpha expire game dad wisdom height exclude market maximum diet stand color";
+var mnemonic = "bird head raw flavor labor spice sure regular nuclear antique media silver";

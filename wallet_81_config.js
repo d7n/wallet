@@ -1,1 +1,1 @@
-var mnemonic = "use toe coast ranch range sausage interest burst together crater chronic balance";
+var mnemonic = "pudding style drama drip waste fossil ridge pigeon zebra plate trumpet power";

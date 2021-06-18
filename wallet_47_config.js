@@ -1,1 +1,1 @@
-var mnemonic = "celery imitate spike current tower hazard monkey mass salad brick relax weasel";
+var mnemonic = "insane erode tube later love rather face struggle table rocket pluck merge";

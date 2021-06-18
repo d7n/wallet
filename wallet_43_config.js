@@ -1,1 +1,1 @@
-var mnemonic = "spot churn stumble confirm render symptom access require then analyst edge empty";
+var mnemonic = "say wealth mammal exit arrange alpha join bracket stock fiction sugar second";

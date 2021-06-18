@@ -1,1 +1,1 @@
-var mnemonic = "end fiscal come decide occur float end neutral gentle nest whale step";
+var mnemonic = "liar shadow find blur path census crush tilt educate bitter poet two";

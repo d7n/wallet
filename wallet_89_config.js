@@ -1,1 +1,1 @@
-var mnemonic = "ozone wild rib rhythm expose vanish hat shoot liberty soft wild stove";
+var mnemonic = "enroll despair gaze nurse fat silk inject inflict team seven mixture patch";
