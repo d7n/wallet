@@ -1,1 +1,1 @@
-var mnemonic = "age isolate unusual method cable leg page palace range display warm better";
+var mnemonic = "behave insane spoon margin chief giant holiday witness game release olive air";

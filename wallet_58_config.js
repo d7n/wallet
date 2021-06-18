@@ -1,1 +1,1 @@
-var mnemonic = "river height cart orange gospel rival brush tomorrow fatigue rug crew mobile";
+var mnemonic = "miracle gasp finish defy shift sample tube that sell taste outside picture";

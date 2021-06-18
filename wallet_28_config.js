@@ -1,1 +1,1 @@
-var mnemonic = "curtain total wasp electric country deposit pioneer jungle axis meat spend employ";
+var mnemonic = "water scrub title title mask cover design choice divide pumpkin wire aware";

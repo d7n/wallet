@@ -1,1 +1,1 @@
-var mnemonic = "old armor surround tiger faculty robot check ceiling machine odor spawn assist";
+var mnemonic = "fix manual eager deal slam long eager category filter true torch junior";

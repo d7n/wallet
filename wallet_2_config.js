@@ -1,1 +1,1 @@
-var mnemonic = "around witness ramp crack alert slice sting comic brief bid love social";
+var mnemonic = "couch wonder fan phrase inspire logic tomato one away move hurdle dentist";

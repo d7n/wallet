@@ -1,1 +1,1 @@
-var mnemonic = "catch deputy finish announce early census private tennis army hope stomach carpet";
+var mnemonic = "snake history bulk satisfy round robot route original list magnet wheel film";

@@ -1,1 +1,1 @@
-var mnemonic = "pipe tube pass fringe someone modify hurdle lemon amount season aware box";
+var mnemonic = "master wool ask order sand deputy scan quick future diet evoke toward";

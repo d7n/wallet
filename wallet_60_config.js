@@ -1,1 +1,1 @@
-var mnemonic = "butter shadow noise cabbage pepper record they lock lecture sign blast pull";
+var mnemonic = "clip wood garbage clip poverty question viable glory metal gravity right trumpet";

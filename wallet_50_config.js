@@ -1,1 +1,1 @@
-var mnemonic = "daring hope slam blood list rail reopen life demand captain uniform advance";
+var mnemonic = "isolate stem wish sadness elder vintage motion student message mass answer close";

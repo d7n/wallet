@@ -1,1 +1,1 @@
-var mnemonic = "expand demise wash survey orphan ill harbor another glance drift mesh auto";
+var mnemonic = "total slight six hint option snack lizard drop age scatter cement plunge";

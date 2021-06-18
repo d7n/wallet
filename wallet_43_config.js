@@ -1,1 +1,1 @@
-var mnemonic = "toddler garbage aim sure dizzy myth dinner expand victory version cinnamon planet";
+var mnemonic = "beach govern pause relief inspire become capital tray bridge love ship sell";

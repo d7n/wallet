@@ -1,1 +1,1 @@
-var mnemonic = "hope evolve aspect term craft glance trim intact dynamic pluck below tired";
+var mnemonic = "west oblige squirrel viable text vocal bring fossil chronic palm leader orient";

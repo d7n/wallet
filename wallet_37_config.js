@@ -1,1 +1,1 @@
-var mnemonic = "east fancy gaze chuckle frog host quick swallow frozen uphold ordinary wire";
+var mnemonic = "body possible cheese mansion enable moral maximum strike mango vital able gallery";

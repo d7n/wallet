@@ -1,1 +1,1 @@
-var mnemonic = "grocery abuse album wait refuse benefit olive void dizzy gesture know poet";
+var mnemonic = "addict hundred test trophy ladder body love luxury tumble uncle knock gym";

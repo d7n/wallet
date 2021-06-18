@@ -1,1 +1,1 @@
-var mnemonic = "tooth cradle earth wash fame shuffle indicate bridge energy mercy used credit";
+var mnemonic = "impulse patch pond normal hazard sniff bullet fiction retire bounce expand confirm";

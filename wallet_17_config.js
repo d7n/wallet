@@ -1,1 +1,1 @@
-var mnemonic = "crush rain very will surprise lemon enable paddle crystal jacket call desk";
+var mnemonic = "purse story rubber maple reveal service view swift plug duty marriage sign";

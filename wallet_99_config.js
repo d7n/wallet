@@ -1,1 +1,1 @@
-var mnemonic = "age plug tobacco right trophy lazy unfold decide mule cash cotton mix";
+var mnemonic = "private riot stable impose fade minute enough angry fantasy awful comic liberty";

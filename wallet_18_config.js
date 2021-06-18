@@ -1,1 +1,1 @@
-var mnemonic = "speak gospel asthma pilot thunder section dismiss actress harvest wreck treat exile";
+var mnemonic = "scheme glass kingdom elephant follow width bean during need ritual ketchup sun";

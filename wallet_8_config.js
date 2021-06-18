@@ -1,1 +1,1 @@
-var mnemonic = "maximum science avoid fringe range spy turn face dwarf decade claim beach";
+var mnemonic = "boost table movie jelly regret satoshi clever omit moon enhance acoustic mistake";

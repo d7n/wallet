@@ -1,1 +1,1 @@
-var mnemonic = "baby defense sausage annual law ship burden record walk bronze animal control";
+var mnemonic = "oil dress cute coconut demand rally catch hundred stay scout vacuum occur";

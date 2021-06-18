@@ -1,1 +1,1 @@
-var mnemonic = "desert way afford lend faith gym eager great brand glow rotate mystery";
+var mnemonic = "adapt march awesome sock cabbage wagon mother input fork admit matter oak";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight scrap drip winner peanut settle toilet fresh grid vacuum skin wild";
+var mnemonic = "donor nest acoustic duck shaft buddy tumble inquiry scheme popular eight input";

@@ -1,1 +1,1 @@
-var mnemonic = "trigger guard general useful estate ice sausage year message skull shiver apple";
+var mnemonic = "rice wrap barely family arrow glad ecology draft teach kid dinner barrel";

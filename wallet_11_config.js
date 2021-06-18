@@ -1,1 +1,1 @@
-var mnemonic = "regular monster copper term cluster fiction uncover cover vapor argue spice desk";
+var mnemonic = "dwarf arctic anxiety custom keen shift degree warrior bone viable poverty ability";

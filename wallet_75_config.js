@@ -1,1 +1,1 @@
-var mnemonic = "head hair network brown charge hope utility switch away hurry fiction bulk";
+var mnemonic = "satoshi wise also bus limit buffalo monitor furnace churn save opinion stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "earth decline angle uncover robust eight fatal payment wisdom razor next wagon";
+var mnemonic = "jewel energy retire paddle thrive spoil flame carry smart interest quality sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "owner flip jaguar maximum trip light pig clarify helmet buddy book judge";
+var mnemonic = "language ginger young tackle pear second silk panel people jelly report leg";

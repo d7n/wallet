@@ -1,1 +1,1 @@
-var mnemonic = "thumb guitar street only usual patch siren rally north help collect multiply";
+var mnemonic = "hurry boss coil hand lazy canyon fantasy claim infant emotion clinic three";

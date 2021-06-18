@@ -1,1 +1,1 @@
-var mnemonic = "hammer soon envelope vessel lumber vacant air loud first mammal swallow float";
+var mnemonic = "cattle harsh era hollow shoulder nuclear surface job coast live harvest book";

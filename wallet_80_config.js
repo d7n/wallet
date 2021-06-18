@@ -1,1 +1,1 @@
-var mnemonic = "mechanic project critic gorilla disagree sun source forum trim bench steak march";
+var mnemonic = "subject fatigue panel situate bullet cheese jazz stamp coyote govern airport divert";

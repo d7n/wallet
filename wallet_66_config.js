@@ -1,1 +1,1 @@
-var mnemonic = "dice century palm organ bread milk illegal call pole scare sword dirt";
+var mnemonic = "excite actor shoe group myth muffin shoulder replace element elegant six resource";

@@ -1,1 +1,1 @@
-var mnemonic = "knee science grief forward badge area side play bird post jelly today";
+var mnemonic = "canal poem afraid party aerobic antique attitude silver change room place kiwi";

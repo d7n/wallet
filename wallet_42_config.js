@@ -1,1 +1,1 @@
-var mnemonic = "what stone trumpet feature cup erupt inject help gorilla moon room door";
+var mnemonic = "mansion choice derive disagree sock scan canyon grief tray come quarter strike";

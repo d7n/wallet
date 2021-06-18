@@ -1,1 +1,1 @@
-var mnemonic = "gain shaft because stock loop decide prosper cruise birth private reveal million";
+var mnemonic = "toddler knee witness champion wear yellow table seek expose chicken buffalo gesture";

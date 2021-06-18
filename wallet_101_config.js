@@ -1,1 +1,1 @@
-var mnemonic = "metal ivory praise fly upset mistake card renew vanish lady ranch announce";
+var mnemonic = "can night patient soap inside betray duty damp width grass host senior";

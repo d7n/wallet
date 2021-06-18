@@ -1,1 +1,1 @@
-var mnemonic = "ankle citizen join cart post cattle card foam another piano angry suspect";
+var mnemonic = "wine phone human rifle address raw again utility snack purity ridge wall";

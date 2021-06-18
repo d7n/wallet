@@ -1,1 +1,1 @@
-var mnemonic = "kite shield appear share purchase stumble muscle fix asthma risk inherit cricket";
+var mnemonic = "rally wise process describe fossil soccer borrow know rescue castle gorilla matter";

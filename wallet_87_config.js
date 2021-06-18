@@ -1,1 +1,1 @@
-var mnemonic = "giggle coast furnace road curtain february long gain slide rescue blouse enable";
+var mnemonic = "possible wood hope type goose because decrease dizzy orange wear coral artwork";

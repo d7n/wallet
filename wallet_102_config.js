@@ -1,1 +1,1 @@
-var mnemonic = "retire patch fever penalty gentle bring impose danger leader radar legend balance";
+var mnemonic = "ritual ridge amateur cover spawn bottom cup obtain annual winner leisure coast";

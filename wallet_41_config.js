@@ -1,1 +1,1 @@
-var mnemonic = "alarm shock fine usage pledge bar knife ill cheap purpose aim power";
+var mnemonic = "noodle omit charge shift few dove finish flush broom offer grant giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "security write rabbit galaxy swap fiber pumpkin sentence assault brother bracket acid";
+var mnemonic = "join flat initial topple enrich evoke key talent swift urge final thing";

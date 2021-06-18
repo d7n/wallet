@@ -1,1 +1,1 @@
-var mnemonic = "mix world judge company super minor lady win come dirt first open";
+var mnemonic = "spirit pole glory tuna arrange focus equip run nasty giggle apology fury";

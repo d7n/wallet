@@ -1,1 +1,1 @@
-var mnemonic = "barrel random column defy cat laptop play extend caught cradle veteran aware";
+var mnemonic = "volume luggage snap eagle pool produce elephant warfare execute lumber pony happy";

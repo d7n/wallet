@@ -1,1 +1,1 @@
-var mnemonic = "audit mango pull desert scissors one spirit cargo news dinner voice sweet";
+var mnemonic = "judge typical report dentist matrix museum ugly grab ribbon run soon guess";

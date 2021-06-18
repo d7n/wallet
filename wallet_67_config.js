@@ -1,1 +1,1 @@
-var mnemonic = "fan alert supply harvest maid student kitchen brave brick deposit romance sail";
+var mnemonic = "verify family march sword picture script nose sing judge repeat cruel pet";

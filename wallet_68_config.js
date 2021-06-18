@@ -1,1 +1,1 @@
-var mnemonic = "kiwi pair captain clutch caught assume identify burger hole stone slush ill";
+var mnemonic = "law melody auto turtle enter cart sphere stock raw next shrug law";

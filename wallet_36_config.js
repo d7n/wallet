@@ -1,1 +1,1 @@
-var mnemonic = "visa tunnel utility outer rotate diamond police point forward review record approve";
+var mnemonic = "skill uncle divide hedgehog lens ocean shove effort polar put skill fatigue";

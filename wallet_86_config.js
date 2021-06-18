@@ -1,1 +1,1 @@
-var mnemonic = "solution net van better tower blouse direct cat audit debris print present";
+var mnemonic = "steak nasty tobacco disease number forget infant border change six abuse kidney";

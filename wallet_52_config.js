@@ -1,1 +1,1 @@
-var mnemonic = "canal kiss equip shadow van grunt answer earn machine oval cruel sort";
+var mnemonic = "skirt result loop elite matrix meadow wet blue ripple mushroom outside one";

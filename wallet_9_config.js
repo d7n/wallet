@@ -1,1 +1,1 @@
-var mnemonic = "caught panic eagle erupt slot oxygen snap grant gun glimpse ride thank";
+var mnemonic = "cluster fence rule giraffe glory amused depth achieve never employ attend junk";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey rural brother gospel pause ancient pelican dinosaur slogan quote engage ceiling";
+var mnemonic = "venture security middle much web north depend over left breeze year planet";

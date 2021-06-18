@@ -1,1 +1,1 @@
-var mnemonic = "cat answer tank virtual lunch alley exchange burst infant acquire border junk";
+var mnemonic = "stamp pulp lady churn deny broom bulb nephew negative theme buzz clock";

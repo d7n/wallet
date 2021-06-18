@@ -1,1 +1,1 @@
-var mnemonic = "exhibit review crane silver popular like honey honey ribbon cash acid vocal";
+var mnemonic = "paper cherry panther elite awesome quarter require title syrup flat rescue fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain engine grab blush eyebrow ordinary better lawsuit napkin grant uncover achieve";
+var mnemonic = "knife soldier master gauge betray oxygen already hazard age income rude quick";

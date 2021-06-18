@@ -1,1 +1,1 @@
-var mnemonic = "during sail place orient kick maximum wide reward couple fever robust coin";
+var mnemonic = "street suggest impulse any half cloth scale dwarf blush budget leopard card";

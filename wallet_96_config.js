@@ -1,1 +1,1 @@
-var mnemonic = "ship repeat sudden guide desk police galaxy casino perfect work chicken brain";
+var mnemonic = "client beyond bag glimpse clutch decorate nerve almost sibling hip perfect fence";

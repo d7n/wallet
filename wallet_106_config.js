@@ -1,1 +1,1 @@
-var mnemonic = "dad swap drink maximum fence pond drip school earth enroll hunt upon";
+var mnemonic = "prevent goose surface narrow yellow pyramid result leaf vintage cycle gravity wrist";

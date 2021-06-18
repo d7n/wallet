@@ -1,1 +1,1 @@
-var mnemonic = "dress intact reason produce pizza noble chalk light father idle drip execute";
+var mnemonic = "teach bunker ocean cash chronic tree race initial limb faculty social hero";

@@ -1,1 +1,1 @@
-var mnemonic = "glance garlic mother erupt useful excite luggage endorse expand zebra regret spoon";
+var mnemonic = "armor slice squirrel basket ritual shrimp cat brain remain cinnamon dignity side";

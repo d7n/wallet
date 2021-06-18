@@ -1,1 +1,1 @@
-var mnemonic = "again whisper two despair loop bamboo second avoid run truly west ritual";
+var mnemonic = "piece car second proof desert ticket direct wheat gift bonus onion kit";

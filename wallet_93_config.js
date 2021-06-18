@@ -1,1 +1,1 @@
-var mnemonic = "paper wrap situate dust hybrid loan desert ahead camera polar stomach abuse";
+var mnemonic = "breeze report drama december enable media stomach income health kangaroo sell together";

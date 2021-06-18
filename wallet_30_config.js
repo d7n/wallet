@@ -1,1 +1,1 @@
-var mnemonic = "swift toss track post enough lyrics arrow magic boil situate daring mother";
+var mnemonic = "crop globe wedding put blind tired coral merry blanket unaware cheese crowd";

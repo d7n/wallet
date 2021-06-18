@@ -1,1 +1,1 @@
-var mnemonic = "between glass wife radar night combine deputy usage purse shop essay penalty";
+var mnemonic = "real later match nerve cliff hole tissue poverty poverty mean drastic acquire";

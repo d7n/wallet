@@ -1,1 +1,1 @@
-var mnemonic = "year race actual hard advice device ancient desert arrange purchase bulb blade";
+var mnemonic = "install clump forest erase gasp useless corn real top marble apology hello";

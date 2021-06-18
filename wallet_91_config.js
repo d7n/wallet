@@ -1,1 +1,1 @@
-var mnemonic = "egg mad describe beef present robot snow pair angle cave access olive";
+var mnemonic = "company casino cheap meadow lecture smart arrive chair catalog fold cross wife";

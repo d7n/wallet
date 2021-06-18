@@ -1,1 +1,1 @@
-var mnemonic = "liar churn rain issue genuine lazy forest rich reflect federal water spin";
+var mnemonic = "become trash actor oblige hen emerge reject update weather detect burger miracle";

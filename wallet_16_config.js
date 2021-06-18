@@ -1,1 +1,1 @@
-var mnemonic = "glare pulse pass orchard future supply coast jewel drive nice call suspect";
+var mnemonic = "trim whale copy camera nut spread captain remember stage wheat pet husband";

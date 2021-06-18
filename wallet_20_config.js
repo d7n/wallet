@@ -1,1 +1,1 @@
-var mnemonic = "approve tenant stay topic hour manual erupt boring lecture social exile guard";
+var mnemonic = "round pepper mirror obvious solution boat street quarter ribbon clip joy speak";

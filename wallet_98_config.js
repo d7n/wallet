@@ -1,1 +1,1 @@
-var mnemonic = "pony spray guide lucky quit diary cattle ball wait omit million now";
+var mnemonic = "dutch kit verify step pen tilt super battle genuine auction merry lens";

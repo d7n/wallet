@@ -1,1 +1,1 @@
-var mnemonic = "crater animal dinosaur woman tiny tourist abuse cloth bottom spoon home split";
+var mnemonic = "dog hover device vehicle burden talent joke bracket poet theme certain allow";

@@ -1,1 +1,1 @@
-var mnemonic = "lady guess melt bronze engine arena size blade liar convince cluster color";
+var mnemonic = "laugh hover bless measure wasp puppy recall finish mirror muscle carpet slim";

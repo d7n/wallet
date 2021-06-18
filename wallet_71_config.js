@@ -1,1 +1,1 @@
-var mnemonic = "surface absurd age exclude grow tissue potato federal toy citizen staff angry";
+var mnemonic = "cabbage goddess bone ancient sketch allow under degree divide route plate mom";

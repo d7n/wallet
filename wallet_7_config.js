@@ -1,1 +1,1 @@
-var mnemonic = "exhibit between shift decade divorce try pole snack coffee journey poet invite";
+var mnemonic = "endless foot enlist again tackle clump science swallow swap mushroom force tunnel";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust spider kid asset local live auto when odor apart dilemma light";
+var mnemonic = "doll tornado exercise convince bone exit impulse dolphin song topple drive pave";

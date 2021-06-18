@@ -1,1 +1,1 @@
-var mnemonic = "mercy soul burst neither abuse together real outside hint axis ball engage";
+var mnemonic = "stomach element soon relax time inherit lion edit script joy elephant person";

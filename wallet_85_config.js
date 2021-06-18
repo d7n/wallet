@@ -1,1 +1,1 @@
-var mnemonic = "knock barrel transfer kingdom fat verb muscle spoon woman fossil slow little";
+var mnemonic = "diamond test question album tag million cream pyramid any arm frog tray";

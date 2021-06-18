@@ -1,1 +1,1 @@
-var mnemonic = "once fat forget abandon inject taste private cruel digital target brain ribbon";
+var mnemonic = "old isolate crouch keen zero success humble portion loud kiwi bright summer";

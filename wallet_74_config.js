@@ -1,1 +1,1 @@
-var mnemonic = "head screen hidden close bone ask brother loud palm lazy joy donate";
+var mnemonic = "green hub drill teach intact hungry split nuclear easily coconut parade skin";

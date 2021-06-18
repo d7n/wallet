@@ -1,1 +1,1 @@
-var mnemonic = "notice survey reason gasp divert rural dolphin scare drip little state relax";
+var mnemonic = "flush puzzle brave jaguar critic room swing tongue own jump lemon gentle";

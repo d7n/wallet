@@ -1,1 +1,1 @@
-var mnemonic = "slab math draw marriage present asset anger practice since autumn supreme pig";
+var mnemonic = "security charge make tuna pause theory salmon half kite future step minor";

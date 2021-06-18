@@ -1,1 +1,1 @@
-var mnemonic = "warfare apology render magic category distance auto program mesh thrive few isolate";
+var mnemonic = "feed similar lonely assume dumb task question grant acquire pool task gloom";

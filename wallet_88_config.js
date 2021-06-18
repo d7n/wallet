@@ -1,1 +1,1 @@
-var mnemonic = "topple cement depart price sunny filter used loan venue chair trade awake";
+var mnemonic = "angry pyramid power truck double sadness tape cactus farm click diesel outer";

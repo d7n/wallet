@@ -1,1 +1,1 @@
-var mnemonic = "whip tape neither inspire convince people upper tell alarm immune photo cruel";
+var mnemonic = "aim spy object average cheese salt member leave protect injury twin panel";

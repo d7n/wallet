@@ -1,1 +1,1 @@
-var mnemonic = "sugar author leg jazz slide situate badge rate erode timber pizza color";
+var mnemonic = "choice orbit poem topic near alone picnic toddler hedgehog omit wild divide";

@@ -1,1 +1,1 @@
-var mnemonic = "student mimic avocado gas organ deputy accuse demand enact alter volcano buffalo";
+var mnemonic = "differ annual next credit early library enrich desk average plate view bind";

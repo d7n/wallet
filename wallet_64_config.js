@@ -1,1 +1,1 @@
-var mnemonic = "reopen float trap kite zone wine race slogan slot gloom cat certain";
+var mnemonic = "pony foam unfair insect degree flash kiwi toilet original column image claim";

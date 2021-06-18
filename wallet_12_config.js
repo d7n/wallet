@@ -1,1 +1,1 @@
-var mnemonic = "size ecology judge ginger total view find unknown ahead couch name dry";
+var mnemonic = "attend gun online electric right misery poem purchase habit favorite where aspect";

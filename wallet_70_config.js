@@ -1,1 +1,1 @@
-var mnemonic = "short reject slam check arm oven half material shallow popular fantasy cat";
+var mnemonic = "fringe giraffe protect disease elephant armed coil finish few find hammer consider";
