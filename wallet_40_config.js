@@ -1,1 +1,1 @@
-var mnemonic = "lock bar transfer decrease promote village solar between disagree social crucial bus";
+var mnemonic = "when rabbit broccoli split forum fantasy door foot beyond coconut derive bar";

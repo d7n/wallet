@@ -1,1 +1,1 @@
-var mnemonic = "flight immense emotion fade stuff unfair bag normal must harvest dynamic poet";
+var mnemonic = "gentle armed eye pond danger lamp infant tenant pink brother glory lonely";

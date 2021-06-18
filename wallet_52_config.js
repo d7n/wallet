@@ -1,1 +1,1 @@
-var mnemonic = "half zebra weather horror royal between lady practice there mandate rally occur";
+var mnemonic = "pause push media obey top spot subway six bullet heart ginger correct";

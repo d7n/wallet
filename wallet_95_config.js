@@ -1,1 +1,1 @@
-var mnemonic = "chimney monitor modify doll nasty virus any crouch weapon crowd alley frame";
+var mnemonic = "biology dumb mechanic task wash luxury teach crime cotton uphold token salute";

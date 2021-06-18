@@ -1,1 +1,1 @@
-var mnemonic = "glass grain session supply flush antique glove ahead riot wet action glide";
+var mnemonic = "either smoke venture mosquito trend monkey glue army mom nut horn garlic";

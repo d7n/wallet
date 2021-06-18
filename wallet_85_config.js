@@ -1,1 +1,1 @@
-var mnemonic = "alone math table scrub funny produce humble today horn bulb tomorrow devote";
+var mnemonic = "lecture solar unhappy notice connect card panic real crop author people laptop";

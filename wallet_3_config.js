@@ -1,1 +1,1 @@
-var mnemonic = "will time hurry review reveal urge stamp board denial picnic topple pulp";
+var mnemonic = "history quit twice dentist weasel misery art toe elephant fossil genuine gain";

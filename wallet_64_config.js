@@ -1,1 +1,1 @@
-var mnemonic = "asset aspect park aerobic across lawsuit obey client fee reveal brick web";
+var mnemonic = "caught drip glad tumble february praise quit connect trouble license curve orient";

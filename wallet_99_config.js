@@ -1,1 +1,1 @@
-var mnemonic = "noble true exercise chuckle shy next fringe used mistake clap reopen wine";
+var mnemonic = "engine cluster acquire top route creek dash kiwi supreme lecture foot wealth";

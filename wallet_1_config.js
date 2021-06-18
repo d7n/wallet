@@ -1,1 +1,1 @@
-var mnemonic = "system dilemma magnet escape vendor average maximum uncle letter mix off day";
+var mnemonic = "grief excess unaware panda option bundle exist tip bomb excite hawk immune";

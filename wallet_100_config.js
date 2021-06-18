@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow option birth obscure drop food hospital crisp object design two assault";
+var mnemonic = "wild alter mosquito lock must project obey rain trouble brief pizza can";

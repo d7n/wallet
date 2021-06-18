@@ -1,1 +1,1 @@
-var mnemonic = "glare lunar honey relief vote share account subway viable federal wire soccer";
+var mnemonic = "clip tray museum banana prevent express plug huge diamond holiday crater peasant";

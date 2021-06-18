@@ -1,1 +1,1 @@
-var mnemonic = "bus hammer regular boy entire tray strong legend banner coconut inmate galaxy";
+var mnemonic = "gentle when north tissue dust winner talk error faculty during guide present";

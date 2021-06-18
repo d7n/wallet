@@ -1,1 +1,1 @@
-var mnemonic = "cross elite alcohol always fluid crash march elevator betray across tower lawsuit";
+var mnemonic = "meadow develop panther moon okay torch law magnet tell wash toilet when";

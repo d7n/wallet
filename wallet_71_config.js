@@ -1,1 +1,1 @@
-var mnemonic = "time deer fancy near recycle tuition fatal annual lyrics egg bundle front";
+var mnemonic = "parade eternal bone exchange tobacco season sail include swing gaze upon nose";

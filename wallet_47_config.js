@@ -1,1 +1,1 @@
-var mnemonic = "you crack limb fiscal achieve soccer rebel volume fame smart debate flush";
+var mnemonic = "rhythm attitude renew crush swamp traffic teach vault soldier position hen old";

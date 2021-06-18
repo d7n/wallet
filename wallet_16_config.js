@@ -1,1 +1,1 @@
-var mnemonic = "intact session half deliver infant fish employ deer arrow jar merit step";
+var mnemonic = "save dog mandate injury crush normal strike scan security brief ugly predict";

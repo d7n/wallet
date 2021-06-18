@@ -1,1 +1,1 @@
-var mnemonic = "series kid mention divert receive giraffe avoid year away green increase trade";
+var mnemonic = "lumber suffer like action glass immense stereo canoe basic term rude payment";

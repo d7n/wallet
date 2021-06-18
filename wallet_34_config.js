@@ -1,1 +1,1 @@
-var mnemonic = "join hover august daughter tiny find rabbit wink vendor neutral verb enter";
+var mnemonic = "neglect gravity bean tackle shine oak wrist brass episode arm blush bomb";

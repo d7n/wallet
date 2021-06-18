@@ -1,1 +1,1 @@
-var mnemonic = "oxygen elegant sphere trophy spirit dwarf issue surround jump car divorce resemble";
+var mnemonic = "blanket blame amateur close wait guess obvious chase mixture mammal crawl whisper";

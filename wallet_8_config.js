@@ -1,1 +1,1 @@
-var mnemonic = "accuse retire basket vault invest help enough lion access situate beach rural";
+var mnemonic = "fatigue vocal chunk paper mountain spin mushroom test frozen cricket rocket real";

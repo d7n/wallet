@@ -1,1 +1,1 @@
-var mnemonic = "solid adapt letter rifle wrong seat feel coast mule team lesson category";
+var mnemonic = "shield floor myself limb warrior six canal hockey verify cotton afraid ladder";

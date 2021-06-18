@@ -1,1 +1,1 @@
-var mnemonic = "trim skate people cargo bike degree mirror orange month much save market";
+var mnemonic = "deer please dwarf panther someone burst spot armor almost defy guilt strategy";

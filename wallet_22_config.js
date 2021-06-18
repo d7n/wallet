@@ -1,1 +1,1 @@
-var mnemonic = "silk small magnet hint release survey scan detail genre access team fly";
+var mnemonic = "bamboo federal web case era keep mistake any between car jungle chest";

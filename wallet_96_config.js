@@ -1,1 +1,1 @@
-var mnemonic = "flame method sustain voyage divide old tourist icon rare shed hip rare";
+var mnemonic = "tower employ basket element fabric luxury arrive effort load turkey isolate wrap";

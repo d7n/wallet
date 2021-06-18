@@ -1,1 +1,1 @@
-var mnemonic = "vessel banana path master neither script riot release charge mushroom pistol hockey";
+var mnemonic = "gossip suit vibrant learn convince medal category airport permit yellow gas reward";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard great naive junk diet light shadow control slam tower rookie twelve";
+var mnemonic = "teach educate elite chief mad recipe scheme key unusual expose awesome roast";

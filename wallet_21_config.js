@@ -1,1 +1,1 @@
-var mnemonic = "barely pool make air clap tail auto license dinosaur cream tattoo arrange";
+var mnemonic = "fish bullet mix inquiry place rain noise double liar twelve maze trust";

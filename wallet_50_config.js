@@ -1,1 +1,1 @@
-var mnemonic = "below pigeon hurdle impulse decorate find table credit napkin wealth acquire enroll";
+var mnemonic = "holiday trap release quick curtain bachelor jungle kingdom road brown identify neither";

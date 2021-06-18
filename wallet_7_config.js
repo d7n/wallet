@@ -1,1 +1,1 @@
-var mnemonic = "artist useful moon puzzle sugar sea design magnet search text write endorse";
+var mnemonic = "viable critic time success repeat nominee forum media pave surge fix depth";

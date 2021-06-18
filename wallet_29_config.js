@@ -1,1 +1,1 @@
-var mnemonic = "ladder keen crew royal hazard member eight margin sing space conduct car";
+var mnemonic = "stem auto alarm left confirm load flash cherry above whisper island list";

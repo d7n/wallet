@@ -1,1 +1,1 @@
-var mnemonic = "measure worry indicate quote rather father wish conduct real picture olympic quote";
+var mnemonic = "buzz senior kite dawn improve estate weird april stand reason absurd course";

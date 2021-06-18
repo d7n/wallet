@@ -1,1 +1,1 @@
-var mnemonic = "pretty adapt kiss tribe page return buddy shy ring much gesture learn";
+var mnemonic = "spirit march celery truth flame donkey drift ozone limit useful rifle gaze";

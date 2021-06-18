@@ -1,1 +1,1 @@
-var mnemonic = "damp tongue gym engage letter hip save artist flat marble course fan";
+var mnemonic = "gospel stumble lounge retire design sign fall other ripple put damp bottom";

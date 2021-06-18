@@ -1,1 +1,1 @@
-var mnemonic = "february spatial pause jaguar shoot baby neglect rebuild person thunder ozone paddle";
+var mnemonic = "people promote toe outside eight glory memory move quote cotton unique stock";

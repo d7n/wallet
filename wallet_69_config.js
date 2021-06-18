@@ -1,1 +1,1 @@
-var mnemonic = "long snow skate what method spare faith lounge dignity solid tiny camp";
+var mnemonic = "area insect because fault cheap supply cart shy actor exile submit uncle";

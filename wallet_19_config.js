@@ -1,1 +1,1 @@
-var mnemonic = "asset problem much raw mask traffic vendor object edge cat spring outdoor";
+var mnemonic = "sunset online ride captain wing brain story flame devote stock cage galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "stem check evil fabric lizard category solution true approve captain soap series";
+var mnemonic = "vicious dress marine nominee neglect sleep arm wrestle slice label will tent";

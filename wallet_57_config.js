@@ -1,1 +1,1 @@
-var mnemonic = "cross van slim bless buffalo brown leisure fiction once brick double island";
+var mnemonic = "truck scale tackle pattern observe identify loud benefit thrive cube excuse napkin";

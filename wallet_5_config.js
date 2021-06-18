@@ -1,1 +1,1 @@
-var mnemonic = "acid economy search bubble clean solve cart emerge error jazz chef myth";
+var mnemonic = "clip couple finish medal combine token dove zoo claw organ team enemy";

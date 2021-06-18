@@ -1,1 +1,1 @@
-var mnemonic = "cram quote business leg toy own skill answer since miracle nature person";
+var mnemonic = "cannon right monkey garment little tenant dawn stool diagram roast door behave";

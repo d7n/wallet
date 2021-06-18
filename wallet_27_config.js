@@ -1,1 +1,1 @@
-var mnemonic = "season universe toddler payment alone bean slight name beef corn opinion local";
+var mnemonic = "easily cushion eternal have tornado rural inquiry still you evoke worth swarm";

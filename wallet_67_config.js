@@ -1,1 +1,1 @@
-var mnemonic = "tomato half advice visit lens thought candy van uncover tissue depth end";
+var mnemonic = "lobster reunion tuition tortoise bird among focus twenty invest salmon minor smoke";

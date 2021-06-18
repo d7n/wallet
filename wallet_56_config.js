@@ -1,1 +1,1 @@
-var mnemonic = "economy lyrics whip bleak copy gospel parrot cart ride patch diamond produce";
+var mnemonic = "disorder december extend exact story phone cover water exclude lamp thank rain";

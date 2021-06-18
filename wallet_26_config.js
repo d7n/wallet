@@ -1,1 +1,1 @@
-var mnemonic = "elder session fiber dinosaur silver venture leave glad rare yellow coin double";
+var mnemonic = "motion juice cover test elevator daughter ranch hello wash sustain much almost";

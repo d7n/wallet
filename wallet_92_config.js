@@ -1,1 +1,1 @@
-var mnemonic = "tag miss other fish cliff october try income hat near castle mystery";
+var mnemonic = "credit win ranch meat cave tumble doll pioneer plug update total zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo floor teach shoe addict surprise cheese toward connect patrol night about";
+var mnemonic = "daring click elephant blossom window source busy essay more wife deliver old";

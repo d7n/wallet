@@ -1,1 +1,1 @@
-var mnemonic = "credit bottom rule sea trade promote video manage piano evil indicate kid";
+var mnemonic = "isolate wedding congress defense lumber sand story apart escape couch sustain observe";

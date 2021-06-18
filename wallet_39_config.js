@@ -1,1 +1,1 @@
-var mnemonic = "limb movie cage camera bounce pet discover morning soft win blade ceiling";
+var mnemonic = "empower dawn present figure valve prison action depend ridge injury cupboard include";

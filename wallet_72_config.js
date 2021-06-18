@@ -1,1 +1,1 @@
-var mnemonic = "usage foam bird defy leisure sell crystal bike purse before hero piece";
+var mnemonic = "tilt grit parrot stove pizza crush dignity divorce fantasy ozone vapor north";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf pumpkin bind wire announce fortune lemon express roof tooth violin crucial";
+var mnemonic = "assume pilot imitate episode glide when render hole few wise cave girl";

@@ -1,1 +1,1 @@
-var mnemonic = "boy detect buffalo pact slam bird feed ethics lion reform outdoor mask";
+var mnemonic = "olympic admit rough join wire post destroy better dial tomato vanish awake";

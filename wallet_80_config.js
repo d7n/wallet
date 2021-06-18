@@ -1,1 +1,1 @@
-var mnemonic = "rare famous seminar field carry filter neutral face shell opera stand area";
+var mnemonic = "cube velvet trip detect phrase verb bus judge tribe siege nest bleak";

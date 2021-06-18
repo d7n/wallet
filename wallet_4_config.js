@@ -1,1 +1,1 @@
-var mnemonic = "again taxi when slim trial during real fury mind heavy because marble";
+var mnemonic = "orphan loan unknown kitchen blue cute begin shed daring language tennis husband";

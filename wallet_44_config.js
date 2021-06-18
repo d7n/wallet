@@ -1,1 +1,1 @@
-var mnemonic = "tennis material aspect business sugar cream liberty sword gift boil camera divert";
+var mnemonic = "swift agree column raccoon rubber style orange call second chef siren since";

@@ -1,1 +1,1 @@
-var mnemonic = "depth such urban truck daring bench lion glory click ability fiscal door";
+var mnemonic = "frost diesel action intact bright universe maximum soda deputy wedding bamboo cactus";

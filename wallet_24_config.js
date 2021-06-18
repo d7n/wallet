@@ -1,1 +1,1 @@
-var mnemonic = "produce laundry decade music absurd know satisfy uphold leave question melt zoo";
+var mnemonic = "bronze alien creek potato hybrid smooth firm absurd lizard crater fall father";

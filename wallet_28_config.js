@@ -1,1 +1,1 @@
-var mnemonic = "circle brave crew grass combine evidence stairs pulp barrel shop gallery weather";
+var mnemonic = "loud script sister state alter portion client cinnamon frog purse round wrap";

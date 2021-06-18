@@ -1,1 +1,1 @@
-var mnemonic = "genius zero raise rocket super awake chunk junk effort drive occur daughter";
+var mnemonic = "brisk market cup stereo girl drift obscure all screen patrol zero canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "flock torch lucky divorce brave near time decide shadow taxi grid solution";
+var mnemonic = "either use vapor mixture confirm female farm wave urge expire omit since";

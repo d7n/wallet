@@ -1,1 +1,1 @@
-var mnemonic = "assist gentle fox mail hen stomach tourist cheap space over mad axis";
+var mnemonic = "bronze planet leg omit swim ready afraid twin second stem illness expose";

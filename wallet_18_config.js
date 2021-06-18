@@ -1,1 +1,1 @@
-var mnemonic = "cable music dignity grain season scrap what ship east broom local skill";
+var mnemonic = "wood bid museum human melody gown valley nasty trigger space isolate endless";

@@ -1,1 +1,1 @@
-var mnemonic = "tag artefact daring estate sketch once city brave hurry library super blanket";
+var mnemonic = "ensure tag boost know uncover fade equal rebel hen joy review spell";

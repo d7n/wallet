@@ -1,1 +1,1 @@
-var mnemonic = "road kite strong harvest group rather lobster media purse depend mechanic piano";
+var mnemonic = "gaze elbow napkin bacon travel gravity drift target post original tumble matrix";

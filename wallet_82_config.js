@@ -1,1 +1,1 @@
-var mnemonic = "enact idea wait rice figure report laptop giraffe chat energy movie volcano";
+var mnemonic = "trumpet include reward often nerve subject palace mammal lock mesh claw leaf";

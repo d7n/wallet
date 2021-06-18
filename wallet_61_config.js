@@ -1,1 +1,1 @@
-var mnemonic = "staff payment hurdle horn axis disagree fame top spider tuna situate churn";
+var mnemonic = "finger carbon sword liquid ahead ginger hub scan slide dragon involve give";

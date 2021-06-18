@@ -1,1 +1,1 @@
-var mnemonic = "mechanic trigger action badge afford unable screen icon all require vocal ketchup";
+var mnemonic = "horror explain spatial flash wall company concert oblige language remain busy armor";

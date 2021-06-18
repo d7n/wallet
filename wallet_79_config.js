@@ -1,1 +1,1 @@
-var mnemonic = "earn brass peace dinner connect shallow dumb grace maze lend solar bike";
+var mnemonic = "grant green duty other slender quick inject coil festival brick year poet";

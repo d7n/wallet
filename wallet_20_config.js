@@ -1,1 +1,1 @@
-var mnemonic = "grant result base exchange term thrive day fit secret level ginger enter";
+var mnemonic = "chapter jungle flight language cement weather cream assault fault black furnace worry";

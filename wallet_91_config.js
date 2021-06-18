@@ -1,1 +1,1 @@
-var mnemonic = "acquire auto sentence million kangaroo victory shiver lemon chair fossil guitar early";
+var mnemonic = "announce company nose time crush faculty fortune final release equip nuclear acoustic";

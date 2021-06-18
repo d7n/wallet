@@ -1,1 +1,1 @@
-var mnemonic = "office lawn display flip cinnamon snap bread female sniff helmet length code";
+var mnemonic = "famous fence baby seed million animal foam soda innocent table morning urban";

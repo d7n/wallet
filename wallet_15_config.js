@@ -1,1 +1,1 @@
-var mnemonic = "round bachelor hero glance victory table security pond course vicious jacket now";
+var mnemonic = "shoot actual client such purse honey frown space excuse replace clinic cradle";

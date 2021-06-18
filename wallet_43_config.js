@@ -1,1 +1,1 @@
-var mnemonic = "winner mass panic tongue crazy pride web fence despair vapor social until";
+var mnemonic = "near index memory insane helmet rely grunt title clinic rely wrestle candy";

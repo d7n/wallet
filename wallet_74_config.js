@@ -1,1 +1,1 @@
-var mnemonic = "slogan attack ship own payment stamp twenty impulse tree find scene test";
+var mnemonic = "able head orange bundle issue fork inch picture theory bulk tomorrow crop";

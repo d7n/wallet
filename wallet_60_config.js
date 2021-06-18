@@ -1,1 +1,1 @@
-var mnemonic = "sorry blouse seek twin tissue river lizard sort review quarter adult whip";
+var mnemonic = "catalog shrimp pelican cricket indicate endorse lucky across own silver depend flush";

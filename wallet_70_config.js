@@ -1,1 +1,1 @@
-var mnemonic = "repair logic logic aisle check define verify buyer tackle frame panic delay";
+var mnemonic = "return soon ladder fortune include poem pottery sing file output strong add";

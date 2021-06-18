@@ -1,1 +1,1 @@
-var mnemonic = "upper object parade number school clarify mass tube leaf scatter marble mix";
+var mnemonic = "route alien blue umbrella network over supply state language rebuild toss level";

@@ -1,1 +1,1 @@
-var mnemonic = "toe hazard story rebel grace fury clip opera cupboard color grass diagram";
+var mnemonic = "kitten smile catch october once awkward olympic fish bulb spend fever rain";

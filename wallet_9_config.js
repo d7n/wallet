@@ -1,1 +1,1 @@
-var mnemonic = "three survey bind hidden stadium quality minimum cactus sand predict mask correct";
+var mnemonic = "hedgehog shaft become athlete swim cave cheese romance fine bus armed old";

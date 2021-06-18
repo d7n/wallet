@@ -1,1 +1,1 @@
-var mnemonic = "chest flower october art rude middle inspire success eternal guide ride lizard";
+var mnemonic = "truth absorb upgrade begin polar estate auction victory cream cash genuine recipe";

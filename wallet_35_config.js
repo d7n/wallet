@@ -1,1 +1,1 @@
-var mnemonic = "shrug useful identify purity tide drum lucky elite furnace flame vehicle snap";
+var mnemonic = "toward cute fashion toast suggest trade model over anxiety bronze write one";

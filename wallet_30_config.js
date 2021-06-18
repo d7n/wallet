@@ -1,1 +1,1 @@
-var mnemonic = "enact useless aim trial giraffe message guide what wash cool maximum negative";
+var mnemonic = "food pact crime company online dad borrow autumn silly sad raven upon";

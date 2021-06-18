@@ -1,1 +1,1 @@
-var mnemonic = "wage protect reason report win trash vague provide joy auction noise unhappy";
+var mnemonic = "twelve dilemma exhibit clock settle engine push antenna puppy lava faculty swallow";

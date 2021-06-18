@@ -1,1 +1,1 @@
-var mnemonic = "craft size abuse income diagram buddy reopen token only stumble choice unhappy";
+var mnemonic = "gravity buzz dismiss enemy bread song million odor leisure rubber behave length";

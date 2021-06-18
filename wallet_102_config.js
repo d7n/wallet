@@ -1,1 +1,1 @@
-var mnemonic = "resource bread limit glimpse run critic rotate corn stone switch token must";
+var mnemonic = "fringe pig rail gossip avoid mobile blanket cabbage impact album deposit robot";

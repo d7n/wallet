@@ -1,1 +1,1 @@
-var mnemonic = "grief layer nice maximum under trip lyrics round club unveil foil march";
+var mnemonic = "alien judge lemon kick source excite swap never combine vague series trash";

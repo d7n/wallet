@@ -1,1 +1,1 @@
-var mnemonic = "analyst visit forget local armed orphan angry tide arena demise client wild";
+var mnemonic = "kitten mimic drastic material exhibit nice original cushion dial coral special corn";

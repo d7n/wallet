@@ -1,1 +1,1 @@
-var mnemonic = "roof give this blanket aerobic mixed parent injury shy mixture town real";
+var mnemonic = "follow satoshi grass region announce kind rare clean rhythm winner soul stomach";

@@ -1,1 +1,1 @@
-var mnemonic = "catch quit spatial stay vault glide world olive vicious isolate until quit";
+var mnemonic = "upset clinic slush health swim mail famous duty scout club body winner";

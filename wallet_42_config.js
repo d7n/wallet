@@ -1,1 +1,1 @@
-var mnemonic = "limb coffee clown organ turn behind follow video person anger about still";
+var mnemonic = "edit easily trumpet consider cherry load stairs cool little sample divorce key";
