@@ -1,1 +1,1 @@
-var mnemonic = "claw zoo penalty evidence depend foil claim ten ketchup shift govern unusual";
+var mnemonic = "number body steak taxi visa capable trouble disease coil imitate else aspect";

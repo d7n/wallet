@@ -1,1 +1,1 @@
-var mnemonic = "begin skin region element circle afford reason pretty talk install wish until";
+var mnemonic = "material mushroom picnic dish shield loop nominee level magic notable ketchup grape";

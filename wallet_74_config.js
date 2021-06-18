@@ -1,1 +1,1 @@
-var mnemonic = "slab claim stomach media logic famous cook school bone lawsuit erosion trend";
+var mnemonic = "loan chief reject utility smoke remind derive divide small tooth violin carpet";

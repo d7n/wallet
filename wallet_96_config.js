@@ -1,1 +1,1 @@
-var mnemonic = "dizzy okay rib render private safe room sleep peanut isolate immune run";
+var mnemonic = "twenty coffee print they upper save rocket forget pencil unfold autumn laundry";

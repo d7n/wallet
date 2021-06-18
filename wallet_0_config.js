@@ -1,1 +1,1 @@
-var mnemonic = "juice fury march now metal senior border ability napkin unit faith access";
+var mnemonic = "someone element drastic chronic drift verb heavy violin major cement flee blood";

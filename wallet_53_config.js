@@ -1,1 +1,1 @@
-var mnemonic = "human donate praise dwarf oven swear demise scrap hybrid surge border salute";
+var mnemonic = "tooth guide air unfair cause evolve left crucial material decade devote gospel";

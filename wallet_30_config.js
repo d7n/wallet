@@ -1,1 +1,1 @@
-var mnemonic = "ahead release puzzle solid clay flock category south nuclear earth dinosaur famous";
+var mnemonic = "knee toe toss dress clap stamp author chalk scare tongue income snake";

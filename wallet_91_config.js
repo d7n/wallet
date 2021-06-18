@@ -1,1 +1,1 @@
-var mnemonic = "sick explain primary build glance erode negative deposit coral bench cry orchard";
+var mnemonic = "heart bleak sun employ transfer wink cry donor easy limit seed member";

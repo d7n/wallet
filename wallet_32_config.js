@@ -1,1 +1,1 @@
-var mnemonic = "cement hamster twice regular guess fossil liquid depend wide attend theme label";
+var mnemonic = "nurse eye cause joy vault impulse bread loyal what fox planet success";

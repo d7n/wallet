@@ -1,1 +1,1 @@
-var mnemonic = "fiber anchor session very tumble twice detect hamster frequent horse forum imitate";
+var mnemonic = "deposit million custom match between genuine ridge congress online mad tiger holiday";

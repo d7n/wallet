@@ -1,1 +1,1 @@
-var mnemonic = "festival car awkward rude actor rib vocal nest stamp kangaroo stay crater";
+var mnemonic = "crunch elder begin solar brisk tenant clap spend receive quantum hold example";

@@ -1,1 +1,1 @@
-var mnemonic = "display avocado sleep mixed turn kick pass crop universe elephant talk shy";
+var mnemonic = "shine thumb orange chimney ugly duty brother convince gentle obscure mimic glad";

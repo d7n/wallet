@@ -1,1 +1,1 @@
-var mnemonic = "destroy panel spawn cool either tide convince inflict ridge style rug hole";
+var mnemonic = "pink ring poet wet swap obscure unique light cable draft warfare nasty";

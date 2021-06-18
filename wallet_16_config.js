@@ -1,1 +1,1 @@
-var mnemonic = "very long feature observe small tornado reform lobster load fan carry current";
+var mnemonic = "suggest speak sweet position attend antique major spare tape dizzy trouble desk";

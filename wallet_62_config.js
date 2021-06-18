@@ -1,1 +1,1 @@
-var mnemonic = "access train question govern ramp army proof beauty despair evolve umbrella diesel";
+var mnemonic = "inner coin cream woman digital about fortune comic rubber latin father frog";

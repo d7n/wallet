@@ -1,1 +1,1 @@
-var mnemonic = "grape dune stable excess census fiber early coyote around erosion outdoor brave";
+var mnemonic = "hazard tissue bridge mistake gasp twin remove clerk radar region sample arm";

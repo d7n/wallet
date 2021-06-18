@@ -1,1 +1,1 @@
-var mnemonic = "learn leader surge suffer clarify misery history sell wrestle ivory camera birth";
+var mnemonic = "club viable just jewel oil speed wide electric confirm shoe barrel shadow";

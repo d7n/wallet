@@ -1,1 +1,1 @@
-var mnemonic = "hidden trigger merry media resist soccer nasty crush crawl enforce whip crucial";
+var mnemonic = "horror uncle side bulk harvest cabin drip atom science thumb current tribe";

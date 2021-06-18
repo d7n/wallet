@@ -1,1 +1,1 @@
-var mnemonic = "goat cup letter you escape recall trash humble door speed crack flush";
+var mnemonic = "iron involve hour small large better ethics supply devote slide review gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "birth shield police eye pear guard indoor zebra trust cash method vehicle";
+var mnemonic = "valid fresh arena grunt vicious culture scrap smooth knock custom sauce guide";

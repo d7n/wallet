@@ -1,1 +1,1 @@
-var mnemonic = "wage riot charge agree rack symptom raccoon cattle accident list write convince";
+var mnemonic = "chuckle tumble toddler crazy gadget radar already action patient thumb north avoid";

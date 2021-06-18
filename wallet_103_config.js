@@ -1,1 +1,1 @@
-var mnemonic = "glad advice health sword income obscure swift ceiling room sorry imitate soft";
+var mnemonic = "moment metal cargo picture sound beauty suffer guard bone ring smooth grow";

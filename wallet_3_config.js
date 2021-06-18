@@ -1,1 +1,1 @@
-var mnemonic = "inner loop ten first cash tool live mistake poem tourist theme please";
+var mnemonic = "peasant depth skin cave sample neck version tag brother bird expect minute";

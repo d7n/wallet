@@ -1,1 +1,1 @@
-var mnemonic = "monster actor barrel belt nephew member treat crucial hospital feed pear brave";
+var mnemonic = "puppy olive token rich decorate seed cereal brief leisure lawsuit umbrella title";

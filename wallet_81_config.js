@@ -1,1 +1,1 @@
-var mnemonic = "airport husband glove busy script pride tip brush bullet grocery possible creek";
+var mnemonic = "puzzle off refuse during grocery ten slam consider easy child rate shallow";

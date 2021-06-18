@@ -1,1 +1,1 @@
-var mnemonic = "panel first unknown vault bullet grocery bone nothing tower basket smooth destroy";
+var mnemonic = "thrive aware gravity chunk obvious blossom follow ranch rely surface child cram";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise path broom master nation dentist luxury rally quit head security total";
+var mnemonic = "imitate near october trumpet pact around blouse fine angry picture fringe believe";

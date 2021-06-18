@@ -1,1 +1,1 @@
-var mnemonic = "cannon task express scheme neither trash april cabin diagram brand stomach razor";
+var mnemonic = "deer hope ocean drama funny junk repeat neither mechanic limit bundle coach";

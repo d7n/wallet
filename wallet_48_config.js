@@ -1,1 +1,1 @@
-var mnemonic = "jealous among favorite glory group citizen drift chalk faith denial mass remind";
+var mnemonic = "penalty focus october glimpse report hero doctor flame lab property twin gauge";

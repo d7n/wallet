@@ -1,1 +1,1 @@
-var mnemonic = "loop decide open recycle claw scare wet pave ankle stomach robot table";
+var mnemonic = "organ whale spare recipe ketchup present rigid float bracket circle cotton october";

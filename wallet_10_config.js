@@ -1,1 +1,1 @@
-var mnemonic = "answer certain symbol cotton buffalo poverty soap margin stamp build exotic train";
+var mnemonic = "tree harvest leopard lift mail front pull have hair hotel armed era";

@@ -1,1 +1,1 @@
-var mnemonic = "shine gather marble level waste weasel error torch garden feed bamboo man";
+var mnemonic = "volume skirt laugh banner address holiday mobile appear fan cannon ketchup belt";

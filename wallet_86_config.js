@@ -1,1 +1,1 @@
-var mnemonic = "already wolf law uncle rain bubble divide toilet wheat promote vacuum raven";
+var mnemonic = "health fit trick hidden little ship disease net domain awesome similar pizza";

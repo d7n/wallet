@@ -1,1 +1,1 @@
-var mnemonic = "despair hammer van repeat wheat tomato away crane sound elegant vicious evolve";
+var mnemonic = "ridge someone ensure police match skirt smoke fiscal verify wire pipe amateur";

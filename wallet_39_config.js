@@ -1,1 +1,1 @@
-var mnemonic = "lonely ocean find park length champion strike bench alone decline borrow nominee";
+var mnemonic = "cushion that cactus elite water attack unfold since record humble fix lottery";

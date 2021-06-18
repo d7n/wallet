@@ -1,1 +1,1 @@
-var mnemonic = "rookie deposit drastic thrive smile erode expand wisdom enforce deer shrimp still";
+var mnemonic = "example deliver movie alley awesome attend very labor fame payment thank decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb rally success blast brisk hair beef door bridge powder benefit patient";
+var mnemonic = "antenna wreck vapor melody test robust shoulder end pyramid purchase grant wrap";

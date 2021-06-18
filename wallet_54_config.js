@@ -1,1 +1,1 @@
-var mnemonic = "hen expand private tube sad dragon merit rebel venture force holiday fiction";
+var mnemonic = "oyster iron kid index sea bottom zero truck rebuild blur entire stuff";

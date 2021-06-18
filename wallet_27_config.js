@@ -1,1 +1,1 @@
-var mnemonic = "flag hollow decorate insane unfair torch tank leisure exhibit such blossom patch";
+var mnemonic = "shy barely glow equal picture submit amazing lesson large swear drive canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper slight pottery build dial indoor crime cradle certain remind avocado parade";
+var mnemonic = "tell replace nuclear final fluid enroll mandate mad camera bar target charge";

@@ -1,1 +1,1 @@
-var mnemonic = "snake multiply fence feel acquire athlete finish duck cluster lion potato sample";
+var mnemonic = "fresh genuine now ritual elephant worth pill eager opinion harbor blind alien";

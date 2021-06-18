@@ -1,1 +1,1 @@
-var mnemonic = "board post survey cactus frozen scene prefer anger exotic regular city walk";
+var mnemonic = "muscle ensure traffic junior appear royal water spirit october medal carpet gossip";

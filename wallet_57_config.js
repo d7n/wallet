@@ -1,1 +1,1 @@
-var mnemonic = "barely gift answer dog kid swap perfect slice east legend inject couple";
+var mnemonic = "decrease bitter outdoor range always aspect siege citizen sphere renew blame oil";

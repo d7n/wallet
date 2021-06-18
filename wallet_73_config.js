@@ -1,1 +1,1 @@
-var mnemonic = "rare depart canvas pilot edge crush gown oven negative hire spike oppose";
+var mnemonic = "swing couch asthma victory lesson silly board meat robust recall thrive job";

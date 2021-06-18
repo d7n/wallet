@@ -1,1 +1,1 @@
-var mnemonic = "shell turn run lab brass you expose lyrics inject circle stock like";
+var mnemonic = "sort board echo balcony world saddle pilot oval shuffle license glare monster";

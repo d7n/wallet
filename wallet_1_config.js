@@ -1,1 +1,1 @@
-var mnemonic = "file drill double include alpha wear rhythm liquid leaf true deal dutch";
+var mnemonic = "glass print meadow baby rug apart jump hybrid episode legal position spare";

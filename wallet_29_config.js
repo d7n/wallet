@@ -1,1 +1,1 @@
-var mnemonic = "sure innocent february slender junior verify rely dinner pride camera grit nasty";
+var mnemonic = "spawn hazard rent awful knife champion dynamic cotton thought mean brass ride";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff aim hold stand clinic repair hole solve risk news pattern interest";
+var mnemonic = "there earth review possible swing shift cushion polar away theory author lava";

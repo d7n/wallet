@@ -1,1 +1,1 @@
-var mnemonic = "raw ocean refuse toe century search six please health aerobic country husband";
+var mnemonic = "face squirrel title salute huge poet fabric wrong drip butter deposit fit";

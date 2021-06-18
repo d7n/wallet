@@ -1,1 +1,1 @@
-var mnemonic = "minor lunch arrow extra open pulse column surge problem juice intact hip";
+var mnemonic = "blur carpet bird talk draft robot april gossip blood gauge hover level";

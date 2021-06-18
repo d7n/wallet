@@ -1,1 +1,1 @@
-var mnemonic = "shadow liberty patrol point soda surround key caught ancient tiny valley region";
+var mnemonic = "blue goat skin rifle call hen force stay lesson all parrot crack";

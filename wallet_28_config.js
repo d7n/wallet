@@ -1,1 +1,1 @@
-var mnemonic = "few visa wood reward inch market ethics width divert group ship advance";
+var mnemonic = "expose olive left stem dinner dream feature daughter wool ignore series whale";

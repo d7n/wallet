@@ -1,1 +1,1 @@
-var mnemonic = "estate grass mountain silent twin thing piece globe option trade resist vehicle";
+var mnemonic = "viable olive scare practice solar verb avoid alter flash token gossip chase";

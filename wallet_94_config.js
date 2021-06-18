@@ -1,1 +1,1 @@
-var mnemonic = "armed month audit cat limit hawk word unlock slice example acoustic delay";
+var mnemonic = "tone figure include street wool pink balance core entire profit differ dial";

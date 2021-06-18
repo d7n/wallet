@@ -1,1 +1,1 @@
-var mnemonic = "dignity lend above sunny alter curve quick fence delay item mountain engage";
+var mnemonic = "nose humble rate long blur stone smile clay input dragon stand crime";

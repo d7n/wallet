@@ -1,1 +1,1 @@
-var mnemonic = "step number slim rule when congress canyon flower muscle borrow cat push";
+var mnemonic = "issue hire pledge stage hobby clog slot absent list tooth nerve prize";

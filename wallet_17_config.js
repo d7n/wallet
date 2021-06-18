@@ -1,1 +1,1 @@
-var mnemonic = "current apart allow media myself model aisle pole refuse high aim tower";
+var mnemonic = "risk beach federal knee cactus upper moon provide shrug amount course apart";

@@ -1,1 +1,1 @@
-var mnemonic = "between leisure lumber level seat faith anxiety disorder mimic mask shed device";
+var mnemonic = "rebuild truly weird thank vacuum clap until super crouch lyrics vapor provide";

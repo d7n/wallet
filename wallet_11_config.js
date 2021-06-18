@@ -1,1 +1,1 @@
-var mnemonic = "crawl mix deal essence rubber brass away kind exist bitter ill inflict";
+var mnemonic = "witness light alert rule soon guard picture one model small clever distance";

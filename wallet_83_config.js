@@ -1,1 +1,1 @@
-var mnemonic = "calm tooth collect ugly release mention cement vanish midnight asset thunder sibling";
+var mnemonic = "expand heart awkward boil exist minor alarm decrease used noodle culture juice";

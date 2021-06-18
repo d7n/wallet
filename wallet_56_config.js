@@ -1,1 +1,1 @@
-var mnemonic = "era ozone disagree ball borrow critic simple scan behave awkward stay olympic";
+var mnemonic = "giant budget teach again banner purpose ostrich episode warfare quiz shoe purse";

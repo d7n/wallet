@@ -1,1 +1,1 @@
-var mnemonic = "brain love brief worth cat subway pig mind path clean million moral";
+var mnemonic = "supreme squeeze salt manage noble column mountain way mutual cargo castle page";

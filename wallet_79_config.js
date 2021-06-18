@@ -1,1 +1,1 @@
-var mnemonic = "core melody anxiety lesson clerk add term receive valley lounge hen federal";
+var mnemonic = "laptop veteran minor junk tell fitness chunk practice scare spread exercise demand";

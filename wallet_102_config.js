@@ -1,1 +1,1 @@
-var mnemonic = "creek click absorb pencil update fall crew half hole velvet degree defense";
+var mnemonic = "zone meadow fatal gym very naive nothing stand shoulder busy lunch coach";

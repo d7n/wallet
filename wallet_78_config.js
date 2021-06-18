@@ -1,1 +1,1 @@
-var mnemonic = "system jump stamp amused ahead ready slight bless can fine around involve";
+var mnemonic = "virus drip snake firm final speed excess unit settle lyrics concert gauge";

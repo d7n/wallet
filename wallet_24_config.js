@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur sock soul crystal fiction friend gun impact good gate quit note";
+var mnemonic = "visit law put chronic expect divide spike bulk devote artwork stand wolf";

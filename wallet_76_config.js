@@ -1,1 +1,1 @@
-var mnemonic = "deal gather liberty tongue target blush decide true taxi maximum dinner glow";
+var mnemonic = "pelican feel warrior basket bring balance fantasy utility task project remember live";

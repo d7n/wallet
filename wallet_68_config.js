@@ -1,1 +1,1 @@
-var mnemonic = "various inquiry question obtain pull social curtain hospital under media keen alarm";
+var mnemonic = "shift tongue rack job other race add false lizard found gadget oblige";

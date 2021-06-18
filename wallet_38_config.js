@@ -1,1 +1,1 @@
-var mnemonic = "clog gadget physical hurdle explain slogan sunset comic oval trash captain topple";
+var mnemonic = "favorite kick gallery milk coffee mouse local damp child icon treat remind";

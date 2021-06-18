@@ -1,1 +1,1 @@
-var mnemonic = "sample column income gaze kid laundry garlic safe vivid fitness pistol grant";
+var mnemonic = "judge quiz harvest fat remain fix gather seat code move puppy gasp";

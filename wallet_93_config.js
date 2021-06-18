@@ -1,1 +1,1 @@
-var mnemonic = "crane direct office garbage midnight kiwi beef summer brush repair finger educate";
+var mnemonic = "error urge reason mad credit deal neck catch autumn tennis zoo robust";

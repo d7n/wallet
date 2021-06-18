@@ -1,1 +1,1 @@
-var mnemonic = "cradle cream desk lesson shift giraffe list eyebrow fatigue bubble quick rifle";
+var mnemonic = "margin junior lend mail pottery curve heavy rebel industry shock dream tooth";

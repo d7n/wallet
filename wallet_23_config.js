@@ -1,1 +1,1 @@
-var mnemonic = "price busy enjoy humble improve antique index fiction peasant merry exist boring";
+var mnemonic = "april muscle subject galaxy option pudding pepper bacon universe brother essence blouse";

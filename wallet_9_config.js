@@ -1,1 +1,1 @@
-var mnemonic = "horror dash impact father paper alert aerobic donor impose school tag venture";
+var mnemonic = "absurd dinosaur giant struggle hand just identify liberty deer silent sibling like";

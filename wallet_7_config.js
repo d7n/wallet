@@ -1,1 +1,1 @@
-var mnemonic = "tenant sick meadow decide twist animal calm foam bench dad ahead neck";
+var mnemonic = "penalty suspect air scale shift dragon mango crawl betray angry wall impulse";

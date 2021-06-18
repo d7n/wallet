@@ -1,1 +1,1 @@
-var mnemonic = "eight question sample feature omit donkey hurdle wet tourist click clinic river";
+var mnemonic = "busy lady ocean choose pyramid recycle today gasp come avocado report material";

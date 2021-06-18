@@ -1,1 +1,1 @@
-var mnemonic = "vast treat water insect knife skirt obtain atom notable inside guilt wisdom";
+var mnemonic = "meat shoulder century mobile dress fat wheel syrup yard present law upset";

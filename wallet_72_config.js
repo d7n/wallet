@@ -1,1 +1,1 @@
-var mnemonic = "nature faint silk garment muffin claim master fee hamster solve victory medal";
+var mnemonic = "nerve praise stumble two shell hospital unveil copy object bachelor surround test";

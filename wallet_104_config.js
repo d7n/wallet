@@ -1,1 +1,1 @@
-var mnemonic = "true admit usage sausage tool cost baby assault raise dawn author frog";
+var mnemonic = "hunt hair alley caution alley rapid forget climb input card bracket video";

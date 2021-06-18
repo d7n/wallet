@@ -1,1 +1,1 @@
-var mnemonic = "clap popular phrase coach blouse defy unique bitter smooth unit payment doctor";
+var mnemonic = "suit that night million produce possible bunker brain credit famous echo drip";

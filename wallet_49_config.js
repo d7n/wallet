@@ -1,1 +1,1 @@
-var mnemonic = "token opera monitor like lend desert lonely garage knee hour stay increase";
+var mnemonic = "olympic knife tell wedding sudden width mountain razor rebel smart myth weasel";

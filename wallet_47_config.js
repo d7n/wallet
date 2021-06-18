@@ -1,1 +1,1 @@
-var mnemonic = "brisk obtain dizzy skate normal size awkward update share awesome move tonight";
+var mnemonic = "spoil certain nice excuse tomato artwork margin fold depth humble camera become";

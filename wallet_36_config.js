@@ -1,1 +1,1 @@
-var mnemonic = "panda blast load soap around social child pioneer industry language prize favorite";
+var mnemonic = "open veteran radar setup cable favorite sheriff always royal vocal intact bleak";

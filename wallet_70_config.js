@@ -1,1 +1,1 @@
-var mnemonic = "harsh outdoor razor pudding race swim arm small delay food clever worth";
+var mnemonic = "venue fiction rib tag possible nothing few alter option future marriage barrel";

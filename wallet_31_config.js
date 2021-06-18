@@ -1,1 +1,1 @@
-var mnemonic = "balcony trial plug depth game student galaxy spy pet rail chuckle employ";
+var mnemonic = "six pretty wave jacket rotate apology bird still frequent evoke bread cupboard";

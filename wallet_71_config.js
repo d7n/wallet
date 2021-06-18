@@ -1,1 +1,1 @@
-var mnemonic = "anxiety churn foster glide onion wet diagram simple column thing law thunder";
+var mnemonic = "utility useless web train clip forum saddle giggle buddy basket few glad";
