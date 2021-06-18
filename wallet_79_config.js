@@ -1,1 +1,1 @@
-var mnemonic = "kitchen panther avoid planet master before soup rate exhaust when subject tornado";
+var mnemonic = "render boil magnet limb grab rigid kingdom bulb faint marble island chimney";

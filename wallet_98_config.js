@@ -1,1 +1,1 @@
-var mnemonic = "abstract bracket strong melt happy valley express give flame bike clown jacket";
+var mnemonic = "conduct winner subway tackle rack disagree enroll frozen remember popular trim inmate";

@@ -1,1 +1,1 @@
-var mnemonic = "idea guitar ordinary sing winner junk room open debate page you plug";
+var mnemonic = "volume actor pill enact mirror cheap citizen jump mule barrel suffer giggle";

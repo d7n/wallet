@@ -1,1 +1,1 @@
-var mnemonic = "harsh betray volume fossil dog cup fruit shoulder bacon slender bonus brave";
+var mnemonic = "chunk file cool quick produce day laugh coral include tornado cactus obscure";

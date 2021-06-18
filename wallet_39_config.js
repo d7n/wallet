@@ -1,1 +1,1 @@
-var mnemonic = "green heart purse pistol main put rival home bar great during protect";
+var mnemonic = "velvet blade emotion cousin distance write anchor twenty social capital coast saddle";

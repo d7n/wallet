@@ -1,1 +1,1 @@
-var mnemonic = "cereal alarm crowd pulse trumpet direct daring vote raw pair neither bulk";
+var mnemonic = "fragile orchard category lecture metal boost obscure rebuild fragile deliver remove burden";

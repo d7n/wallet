@@ -1,1 +1,1 @@
-var mnemonic = "sister pluck you between race catch knee number one around turkey february";
+var mnemonic = "custom people dance bonus lizard siege cattle tower all snap congress guilt";

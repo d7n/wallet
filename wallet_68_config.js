@@ -1,1 +1,1 @@
-var mnemonic = "divert quit impose blood menu visa actor misery broken harvest hover urge";
+var mnemonic = "local census undo alien powder chronic abstract drum genre cool seed slot";

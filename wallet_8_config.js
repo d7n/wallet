@@ -1,1 +1,1 @@
-var mnemonic = "wrestle clean tail suggest lawsuit spy cheese review auction squirrel rule water";
+var mnemonic = "lonely home mushroom citizen certain load riot mirror rice wink need bulb";

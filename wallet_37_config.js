@@ -1,1 +1,1 @@
-var mnemonic = "gospel extra obtain danger three oval insane inside trip awake sketch force";
+var mnemonic = "destroy rotate type wonder art second cost exhaust bundle board proud carpet";

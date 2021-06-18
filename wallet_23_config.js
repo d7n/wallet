@@ -1,1 +1,1 @@
-var mnemonic = "hotel edge napkin bulk eager remove they neither invest venture plug local";
+var mnemonic = "actual cluster check wealth satisfy final umbrella sign nurse weasel attack cream";

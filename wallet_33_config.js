@@ -1,1 +1,1 @@
-var mnemonic = "figure attract napkin rib convince identify letter width depend muffin circle industry";
+var mnemonic = "seed search blanket scale tired athlete digital extend jacket ocean stand silk";

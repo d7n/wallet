@@ -1,1 +1,1 @@
-var mnemonic = "corn license color tone renew focus universe six chuckle issue cloth coach";
+var mnemonic = "economy toddler asthma evolve pet bunker purse olympic there burger detail parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie limb object dynamic swallow piece system easy outer olympic habit enough";
+var mnemonic = "boring caught chimney avocado disorder margin patch choose almost angle insect royal";

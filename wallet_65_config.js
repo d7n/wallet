@@ -1,1 +1,1 @@
-var mnemonic = "eye patch friend become miss pepper bronze poem correct busy witness fold";
+var mnemonic = "enough just voyage bonus now town bulk loud gown exhaust such speak";

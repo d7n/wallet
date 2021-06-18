@@ -1,1 +1,1 @@
-var mnemonic = "wild giraffe fabric repeat shiver protect bundle key illegal review awesome miss";
+var mnemonic = "punch stable toilet hundred own end whip merry pitch wheat ripple fire";

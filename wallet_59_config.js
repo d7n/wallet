@@ -1,1 +1,1 @@
-var mnemonic = "elevator tobacco cable holiday correct bachelor sport during wealth reward equip diesel";
+var mnemonic = "fade unhappy fiber author execute page settle saddle breeze gaze that magic";

@@ -1,1 +1,1 @@
-var mnemonic = "boat thought title fatigue swim face taste vintage inform embody uphold pattern";
+var mnemonic = "captain city omit near large return escape horn dutch swear oxygen ticket";

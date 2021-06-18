@@ -1,1 +1,1 @@
-var mnemonic = "shove seed squirrel habit party motor search wink nest ranch sentence beach";
+var mnemonic = "color similar crater seat pink embark divorce hotel loyal apology soft sunny";

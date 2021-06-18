@@ -1,1 +1,1 @@
-var mnemonic = "that vague half kitchen agent castle fortune brand zone purse carry evoke";
+var mnemonic = "fun trumpet onion blind keen three cliff humor reform scale grunt genius";

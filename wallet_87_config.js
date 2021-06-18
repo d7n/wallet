@@ -1,1 +1,1 @@
-var mnemonic = "clown buyer ridge job already appear cement album fiber donor cruise gain";
+var mnemonic = "exhibit rent reduce wink trophy test ahead tortoise valley guess gap ghost";

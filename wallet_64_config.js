@@ -1,1 +1,1 @@
-var mnemonic = "talent amateur walk make tonight embrace latin hurt robust glory fashion funny";
+var mnemonic = "fly female own alone hurt detail physical virtual vapor airport alarm pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel stamp cake urge base actor property bottom index tonight try forest";
+var mnemonic = "miss render sweet lonely crowd edge history reduce near fatigue foam pizza";

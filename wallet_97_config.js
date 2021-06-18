@@ -1,1 +1,1 @@
-var mnemonic = "slim neutral neutral pond spin together merry stay cube tilt horse mom";
+var mnemonic = "used eight detect program guard coral misery slush embark excuse chaos news";

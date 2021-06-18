@@ -1,1 +1,1 @@
-var mnemonic = "solar few away kingdom soft pencil speed shuffle right cry convince music";
+var mnemonic = "royal know pitch wine doctor tell near urge wage betray potato someone";

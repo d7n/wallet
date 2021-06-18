@@ -1,1 +1,1 @@
-var mnemonic = "layer rose suffer leopard solar can rug slim false young identify soul";
+var mnemonic = "oven ship spoil evoke drive model mobile title found twin decorate outer";

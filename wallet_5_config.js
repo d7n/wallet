@@ -1,1 +1,1 @@
-var mnemonic = "meadow tortoise piano rabbit ready sword enough laptop sign pencil risk pipe";
+var mnemonic = "lazy final worry lobster fruit awesome margin trust other raven reject lyrics";

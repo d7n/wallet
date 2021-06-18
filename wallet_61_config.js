@@ -1,1 +1,1 @@
-var mnemonic = "keen slot relief manual battle salt exotic brisk cinnamon debate bachelor execute";
+var mnemonic = "smoke action shell organ muffin file another palm plug sport venue action";

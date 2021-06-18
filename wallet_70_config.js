@@ -1,1 +1,1 @@
-var mnemonic = "fresh pizza excite vocal elite describe vicious friend ugly volcano soon found";
+var mnemonic = "survey move mandate glance often street fatigue deny morning wedding screen acquire";

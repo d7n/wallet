@@ -1,1 +1,1 @@
-var mnemonic = "upset entire multiply theory seminar have type fetch boss area soul kiss";
+var mnemonic = "trip awkward fish august road one bulb ski found unusual label tag";

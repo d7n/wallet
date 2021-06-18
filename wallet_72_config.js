@@ -1,1 +1,1 @@
-var mnemonic = "mechanic fiber length lounge auto obtain peanut ordinary describe system expire fiction";
+var mnemonic = "rent extend tell duty immense argue vibrant hole blame portion pave father";

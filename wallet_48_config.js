@@ -1,1 +1,1 @@
-var mnemonic = "charge blind burden slot excite bulb side throw stomach cruel blanket zero";
+var mnemonic = "wear toy total harbor indoor peasant snap coil eternal luxury broccoli slush";

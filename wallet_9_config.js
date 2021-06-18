@@ -1,1 +1,1 @@
-var mnemonic = "add safe crisp random before impact that truly legal gasp exile feature";
+var mnemonic = "rain source color pull welcome interest hollow negative seat anger vibrant word";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme piece anxiety pigeon canal devote galaxy swamp entire approve beauty couple";
+var mnemonic = "night cereal gauge laundry enroll creek scout wrong leaf ignore team wash";

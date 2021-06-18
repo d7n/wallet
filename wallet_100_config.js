@@ -1,1 +1,1 @@
-var mnemonic = "hold melody primary crash cash eternal truly provide obvious comic defense acquire";
+var mnemonic = "frown siren sentence father play square regret margin match start slim pupil";

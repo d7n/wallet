@@ -1,1 +1,1 @@
-var mnemonic = "elbow romance knee acid swallow level learn type patch kangaroo salad cry";
+var mnemonic = "shine keen remain meadow exotic ready when abuse olive charge dune ginger";

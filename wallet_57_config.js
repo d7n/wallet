@@ -1,1 +1,1 @@
-var mnemonic = "abandon network oak laundry shuffle jeans waste spring spawn table net shift";
+var mnemonic = "tomato travel flee usage combine spirit until vocal banana welcome rule cricket";

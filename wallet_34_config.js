@@ -1,1 +1,1 @@
-var mnemonic = "maze legal purity absent option cover pledge mirror flush view comic result";
+var mnemonic = "thing come enforce idea expose ginger reward dress desk chat narrow tragic";

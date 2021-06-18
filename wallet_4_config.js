@@ -1,1 +1,1 @@
-var mnemonic = "race novel alien early fish market opinion marine turkey scan soul amount";
+var mnemonic = "cereal leave load leave popular shiver twelve safe sunny debris neck organ";

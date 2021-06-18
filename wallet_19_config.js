@@ -1,1 +1,1 @@
-var mnemonic = "output dinosaur road era find soccer lens person custom rigid stove potato";
+var mnemonic = "scissors brother adult side rely occur regret error wrist sunset bundle genre";

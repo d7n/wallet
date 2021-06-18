@@ -1,1 +1,1 @@
-var mnemonic = "crowd virus flash cool where initial tail derive able unable trigger leave";
+var mnemonic = "various chicken distance journey reunion curve rapid alpha tag latin grace they";

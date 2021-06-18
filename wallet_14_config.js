@@ -1,1 +1,1 @@
-var mnemonic = "media lady nominee child nurse hour charge cousin spy burden wall liberty";
+var mnemonic = "discover sail soccer away stock mango right mixed filter game alien visit";

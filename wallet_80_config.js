@@ -1,1 +1,1 @@
-var mnemonic = "pause absent problem cup soap knife eternal curve copy recipe renew fee";
+var mnemonic = "smile badge estate pet slim betray country wine shoe addict float empower";

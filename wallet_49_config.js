@@ -1,1 +1,1 @@
-var mnemonic = "roast fine album flower vibrant trade broccoli they escape rubber filter pepper";
+var mnemonic = "celery also jump vacuum wall member shaft relief abandon mimic patch quarter";

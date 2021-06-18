@@ -1,1 +1,1 @@
-var mnemonic = "live transfer price fluid kidney theory whip seed code sunset vendor outside";
+var mnemonic = "lounge book crew able protect slide peasant purse consider banner source fun";

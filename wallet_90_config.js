@@ -1,1 +1,1 @@
-var mnemonic = "matrix inhale add error myself merry dream element fitness birth gentle stick";
+var mnemonic = "tag festival hundred guide wink bachelor spider idle surge swamp language feel";

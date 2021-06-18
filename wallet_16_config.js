@@ -1,1 +1,1 @@
-var mnemonic = "entire mandate art echo mass dilemma equip finish surprise verify consider traffic";
+var mnemonic = "cinnamon lion insect muffin coral because travel ramp aisle clock reveal gap";

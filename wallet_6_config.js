@@ -1,1 +1,1 @@
-var mnemonic = "direct hurt ketchup business risk peasant upgrade shield helmet nasty cactus dice";
+var mnemonic = "leg below finger fall cart paper hero scrub strike fluid trade clap";

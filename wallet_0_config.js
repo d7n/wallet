@@ -1,1 +1,1 @@
-var mnemonic = "any sea boost help hub impact chunk uphold body image reason father";
+var mnemonic = "scrap pony please night ship dragon style young quality video equip collect";

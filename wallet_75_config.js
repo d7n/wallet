@@ -1,1 +1,1 @@
-var mnemonic = "around ill power follow tomato sausage old canyon bacon super cinnamon illegal";
+var mnemonic = "news combine reflect artefact race steel general month daughter goddess dolphin similar";

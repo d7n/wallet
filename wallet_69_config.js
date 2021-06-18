@@ -1,1 +1,1 @@
-var mnemonic = "traffic much calm fan amused have flip goose short peace dolphin milk";
+var mnemonic = "catch subway write attitude nature chief era project vault clarify embrace trouble";

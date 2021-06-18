@@ -1,1 +1,1 @@
-var mnemonic = "humble boring wrist blast wagon burger pizza soon segment diamond judge inner";
+var mnemonic = "nerve exist flag paper coral someone phone tape illegal desk candy equal";

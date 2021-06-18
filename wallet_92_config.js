@@ -1,1 +1,1 @@
-var mnemonic = "borrow arctic cinnamon catch crop south luggage detail list wide symbol pepper";
+var mnemonic = "enough brother soul goose hundred scatter cave off balance calm caught unaware";

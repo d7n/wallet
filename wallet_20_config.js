@@ -1,1 +1,1 @@
-var mnemonic = "velvet exit orphan custom soon cricket neither woman lyrics help ritual maple";
+var mnemonic = "elevator govern seat just aisle van title toddler load menu mystery teach";

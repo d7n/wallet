@@ -1,1 +1,1 @@
-var mnemonic = "make auto negative retire frame step during custom grace review fetch acquire";
+var mnemonic = "elbow alarm predict frequent artwork chef title love write arrow silver jump";

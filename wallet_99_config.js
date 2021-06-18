@@ -1,1 +1,1 @@
-var mnemonic = "foil flower ignore october shy hill park humor much priority word erupt";
+var mnemonic = "stomach neglect minimum excuse hollow cruise long amazing print olympic melt detect";

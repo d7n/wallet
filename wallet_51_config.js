@@ -1,1 +1,1 @@
-var mnemonic = "credit problem cram floor crack retire puzzle host stumble festival history exact";
+var mnemonic = "fortune length mango color orient kitten jealous crazy shrug dynamic between pyramid";

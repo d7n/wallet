@@ -1,1 +1,1 @@
-var mnemonic = "wheat shallow wall ordinary polar cruel scale soccer window sibling candy diagram";
+var mnemonic = "hip loyal fox lift imitate caution pave proud best drop pulse topple";

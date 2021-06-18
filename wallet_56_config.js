@@ -1,1 +1,1 @@
-var mnemonic = "daughter night decline warrior saddle figure result rigid resemble together fabric long";
+var mnemonic = "fury palace develop have dolphin unhappy stem spawn special only argue nothing";

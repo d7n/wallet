@@ -1,1 +1,1 @@
-var mnemonic = "master noble kangaroo bag bounce ecology lemon liar eternal fatal orphan bundle";
+var mnemonic = "demise false hazard embark have congress drastic episode machine critic size oval";

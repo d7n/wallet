@@ -1,1 +1,1 @@
-var mnemonic = "erosion used hen cross vital sheriff yard swamp aerobic drive memory era";
+var mnemonic = "minute luxury material depart gown cake visa slab tragic skin simple all";

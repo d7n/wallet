@@ -1,1 +1,1 @@
-var mnemonic = "screen allow option immune lottery caution fat nature vapor echo auction tube";
+var mnemonic = "video enable fee more gravity topple student damage hollow harvest allow scan";

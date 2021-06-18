@@ -1,1 +1,1 @@
-var mnemonic = "hood grace diary cluster bus today february congress mosquito caught coral decline";
+var mnemonic = "screen penalty truck scrap industry shaft december dinner excite settle area birth";

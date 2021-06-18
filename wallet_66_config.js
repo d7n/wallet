@@ -1,1 +1,1 @@
-var mnemonic = "spread ranch apology mountain trial hammer illegal mammal wisdom luggage increase rally";
+var mnemonic = "coast antenna furnace notice practice describe mango purchase spray crush love gossip";

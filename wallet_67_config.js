@@ -1,1 +1,1 @@
-var mnemonic = "volume acid year pitch fresh gas hour olympic cart anchor force beauty";
+var mnemonic = "present approve canvas world farm pitch domain build include boat donkey lazy";

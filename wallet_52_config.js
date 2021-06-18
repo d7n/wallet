@@ -1,1 +1,1 @@
-var mnemonic = "mixed dose unlock silent story rail fever test enter put sudden ice";
+var mnemonic = "club acid turn math fix series sort outdoor humor van plate motor";

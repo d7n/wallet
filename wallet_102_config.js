@@ -1,1 +1,1 @@
-var mnemonic = "ripple transfer prize tiger salmon adapt father oven drill deny peace example";
+var mnemonic = "parade vintage arch chat lens master trigger derive shallow derive duck palace";

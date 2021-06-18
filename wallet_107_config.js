@@ -1,1 +1,1 @@
-var mnemonic = "journey humor prefer dune unveil rival twist ketchup seed topic property negative";
+var mnemonic = "snack vessel follow remain pulse bicycle clog magnet art exit bubble yard";

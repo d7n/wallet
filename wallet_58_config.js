@@ -1,1 +1,1 @@
-var mnemonic = "auction become neck trade oxygen bright first wage ski arm napkin vicious";
+var mnemonic = "lake oxygen interest tilt prison income kite number rare clutch crater custom";

@@ -1,1 +1,1 @@
-var mnemonic = "suggest future tornado brother main again profit best chuckle shuffle castle jacket";
+var mnemonic = "chronic movie antenna black often side silver essay twenty umbrella intact machine";

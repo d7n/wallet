@@ -1,1 +1,1 @@
-var mnemonic = "awful ill wave find seven replace belt basket manual about gown problem";
+var mnemonic = "aspect main trap empower carbon goddess spice van airport cart biology keep";

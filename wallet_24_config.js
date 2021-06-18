@@ -1,1 +1,1 @@
-var mnemonic = "seat enact maple dial verb cabbage bunker chase purpose clog treat must";
+var mnemonic = "square divorce decorate cluster notable saddle consider unfair credit tilt hour silver";

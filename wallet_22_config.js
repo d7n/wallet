@@ -1,1 +1,1 @@
-var mnemonic = "nut novel detect bean crack filter all evil skull fit snow absorb";
+var mnemonic = "cotton pizza gauge parade matter census delay write twin swear kitten immense";

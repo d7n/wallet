@@ -1,1 +1,1 @@
-var mnemonic = "stomach version gas polar found resemble air grace possible color kidney rhythm";
+var mnemonic = "spirit hip payment enhance unusual innocent above jaguar large prefer ramp dignity";

@@ -1,1 +1,1 @@
-var mnemonic = "grain pretty erase near edge tiger smile magic slam remind gossip crater";
+var mnemonic = "viable dwarf flight tool agree problem mask artefact spin tent tail unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "ostrich basic apology merit fame reopen round arch scheme enlist bag physical";
+var mnemonic = "guess dish pet melt people crime hand pair miss same armed slab";

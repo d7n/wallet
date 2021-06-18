@@ -1,1 +1,1 @@
-var mnemonic = "napkin action put sword busy young absurd banana burst train cruise globe";
+var mnemonic = "earth language hill bitter pencil million decline keen drama source thank rocket";

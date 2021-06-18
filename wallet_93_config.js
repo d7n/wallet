@@ -1,1 +1,1 @@
-var mnemonic = "rain refuse horn math task soap illness manage bread wrap mystery public";
+var mnemonic = "slow cherry biology drastic nephew athlete gentle shift exact eager hill bird";

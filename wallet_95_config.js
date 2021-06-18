@@ -1,1 +1,1 @@
-var mnemonic = "keep eager duty blush scheme diagram snap tape potato trophy stick dentist";
+var mnemonic = "share spike basic employ machine pact tissue wonder pond song marble regular";

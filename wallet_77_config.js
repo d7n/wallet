@@ -1,1 +1,1 @@
-var mnemonic = "target salute evidence magic duty bulb garbage pyramid note comfort survey exotic";
+var mnemonic = "word chapter argue caught machine flower spike pear dish meadow blast anchor";

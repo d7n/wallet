@@ -1,1 +1,1 @@
-var mnemonic = "pill doll please input broccoli drip call cash diary wood head tenant";
+var mnemonic = "tell rubber barely risk hour wage wave eyebrow shove robust sunset faint";

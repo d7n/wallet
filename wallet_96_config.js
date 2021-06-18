@@ -1,1 +1,1 @@
-var mnemonic = "wheel light path initial loan industry invest rival gadget twenty subject cage";
+var mnemonic = "media plate broccoli atom slot eager label notable cereal plastic frown sea";

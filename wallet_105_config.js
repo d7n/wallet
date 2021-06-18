@@ -1,1 +1,1 @@
-var mnemonic = "alarm rather scissors wrap half keep host rib hunt speak spread another";
+var mnemonic = "right corn curtain donate weather cover spoon evolve enjoy cloud tide erode";

@@ -1,1 +1,1 @@
-var mnemonic = "fire nation scatter brass indicate image soup hollow tray cause dry admit";
+var mnemonic = "inspire round goose oil unlock evolve parade diary cart stomach praise forest";

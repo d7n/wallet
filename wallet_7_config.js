@@ -1,1 +1,1 @@
-var mnemonic = "confirm that napkin penalty way tissue pave useful car move captain review";
+var mnemonic = "trade act find faculty leave capable primary main sphere claw twin adult";

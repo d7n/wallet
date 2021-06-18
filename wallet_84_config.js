@@ -1,1 +1,1 @@
-var mnemonic = "crew number antique hazard harvest crack coin motion summer tomorrow type field";
+var mnemonic = "deer two marriage charge decorate denial inhale hero sight differ pistol mass";

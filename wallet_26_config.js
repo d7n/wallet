@@ -1,1 +1,1 @@
-var mnemonic = "lyrics split outdoor affair real resource there aware mansion envelope charge exit";
+var mnemonic = "unfair hurt toddler path industry occur atom valley keep dilemma laundry dismiss";

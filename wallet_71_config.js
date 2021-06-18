@@ -1,1 +1,1 @@
-var mnemonic = "material pulse skill stamp obtain tag finger master lab nut pair able";
+var mnemonic = "mention water entry urge plug giant annual jazz swarm pipe canvas recall";

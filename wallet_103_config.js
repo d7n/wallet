@@ -1,1 +1,1 @@
-var mnemonic = "home chaos sun solve will region monitor weather source ankle pepper fork";
+var mnemonic = "stone globe juice degree start punch badge split theory hybrid cook traffic";

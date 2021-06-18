@@ -1,1 +1,1 @@
-var mnemonic = "price ribbon solar velvet vibrant female horror gossip type surface proof oil";
+var mnemonic = "spell barrel open never fringe settle wage text people wing quantum hope";

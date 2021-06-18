@@ -1,1 +1,1 @@
-var mnemonic = "together weird bike damage team screen dwarf era share check lend tragic";
+var mnemonic = "scan prize gallery human survey must vote perfect patch main chapter office";

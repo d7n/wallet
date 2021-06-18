@@ -1,1 +1,1 @@
-var mnemonic = "wink much tell bus law twist park return hidden secret size burden";
+var mnemonic = "slab similar evolve ghost pistol galaxy ecology better damage foster vast avoid";

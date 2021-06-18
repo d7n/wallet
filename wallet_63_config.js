@@ -1,1 +1,1 @@
-var mnemonic = "warfare ginger tumble hair salmon smile gym garbage media make goddess trouble";
+var mnemonic = "matrix regret service decrease truth route please ritual truck smart aware profit";

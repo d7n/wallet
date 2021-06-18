@@ -1,1 +1,1 @@
-var mnemonic = "immune margin purity account debris tip fury exit town win evil theory";
+var mnemonic = "public case oven spell advice solve love lava foster clay feel hedgehog";

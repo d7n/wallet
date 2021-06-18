@@ -1,1 +1,1 @@
-var mnemonic = "surface evidence level hurry victory math elder math push canal witness exclude";
+var mnemonic = "giraffe release ceiling humor romance finish fine bonus fiction summer oil tobacco";
