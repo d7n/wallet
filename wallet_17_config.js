@@ -1,1 +1,1 @@
-var mnemonic = "zebra grief enlist prison thrive minimum exit hidden leisure fetch gasp budget";
+var mnemonic = "choice snack usage fan hero flip domain high fuel drive method yellow";

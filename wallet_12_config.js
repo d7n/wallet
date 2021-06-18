@@ -1,1 +1,1 @@
-var mnemonic = "memory eager sense notice trophy sibling choice sand organ learn advice eternal";
+var mnemonic = "open short deputy bike series clean noodle zebra shift sleep okay drift";

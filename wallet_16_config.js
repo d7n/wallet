@@ -1,1 +1,1 @@
-var mnemonic = "thumb enough gather current salt sorry beyond venue lonely memory raccoon rely";
+var mnemonic = "glare issue guide base bleak festival ecology beach talk shift burger client";

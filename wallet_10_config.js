@@ -1,1 +1,1 @@
-var mnemonic = "stadium ship prison atom pond matrix avocado bring reveal outer any final";
+var mnemonic = "text strategy ahead follow bone blame often memory pet perfect exercise bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "post attract blade addict flavor path quarter solar dynamic spawn panther test";
+var mnemonic = "afraid salon neither often fatigue fabric cycle glory grow oppose major allow";

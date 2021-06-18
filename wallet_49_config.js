@@ -1,1 +1,1 @@
-var mnemonic = "tool ranch treat train fragile news taxi either immense air provide island";
+var mnemonic = "pitch piano month shrug error tip negative clump whale similar lazy warrior";

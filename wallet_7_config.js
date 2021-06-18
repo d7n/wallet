@@ -1,1 +1,1 @@
-var mnemonic = "wide unfold armed alley disease model remind jewel obvious spray hunt lobster";
+var mnemonic = "barrel quiz artist raccoon shoulder fury address world fiction educate pilot toilet";

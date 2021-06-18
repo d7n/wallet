@@ -1,1 +1,1 @@
-var mnemonic = "program push gospel obscure useful tank undo clog stool unlock cause blouse";
+var mnemonic = "arrest until senior essence bread tower have infant private awful rural success";

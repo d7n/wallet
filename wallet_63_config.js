@@ -1,1 +1,1 @@
-var mnemonic = "sport middle crumble dice inhale filter sound august puppy family palm battle";
+var mnemonic = "actual calm grain garden wealth fold awesome inmate evoke certain crystal kangaroo";

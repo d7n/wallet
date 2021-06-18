@@ -1,1 +1,1 @@
-var mnemonic = "brief fossil bread private someone sunny hurt sea pill limit supreme level";
+var mnemonic = "eyebrow soccer voyage muscle flight slogan half vivid rare have idea victory";

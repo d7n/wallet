@@ -1,1 +1,1 @@
-var mnemonic = "mammal federal venture ball this blanket name neck sentence warm metal hurry";
+var mnemonic = "rug return easy slide chronic fatal athlete develop cricket maze food govern";

@@ -1,1 +1,1 @@
-var mnemonic = "fix afraid vehicle object outside fitness scout output hundred hair gift grit";
+var mnemonic = "will soldier clutch west autumn element donkey business huge limb cash arena";

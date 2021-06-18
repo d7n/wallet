@@ -1,1 +1,1 @@
-var mnemonic = "topic truck jungle toddler scout bacon differ advance blouse smooth mad senior";
+var mnemonic = "firm ready cannon join life occur number gallery ensure defense rude early";

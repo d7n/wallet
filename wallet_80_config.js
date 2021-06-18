@@ -1,1 +1,1 @@
-var mnemonic = "reunion narrow avocado caution bitter riot window pig life session short wall";
+var mnemonic = "barrel clog extra deputy urban love midnight pave good deal over proof";

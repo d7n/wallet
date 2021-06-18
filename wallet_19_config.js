@@ -1,1 +1,1 @@
-var mnemonic = "congress raven stick main repair panel print catch kitchen mistake subway inherit";
+var mnemonic = "fan reveal inform mad disease imitate room surface result scrap list unfold";

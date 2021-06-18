@@ -1,1 +1,1 @@
-var mnemonic = "radar sock raise length skirt arrange pilot increase valley rule lecture speed";
+var mnemonic = "bone error employ panther domain divert result tag fancy used plastic table";

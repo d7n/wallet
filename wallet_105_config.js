@@ -1,1 +1,1 @@
-var mnemonic = "actor fly aerobic infant tattoo purity age canvas medal honey wife grow";
+var mnemonic = "enlist typical moral quality eager judge salon fringe welcome stable grain planet";

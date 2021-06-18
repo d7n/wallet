@@ -1,1 +1,1 @@
-var mnemonic = "energy mechanic skill hair segment oxygen zebra bleak help fish junior emerge";
+var mnemonic = "seed table business service craft modify wage daring young lawsuit clerk bitter";

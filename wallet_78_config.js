@@ -1,1 +1,1 @@
-var mnemonic = "duty sorry figure blouse grid cup gentle office tunnel case venue lift";
+var mnemonic = "rely joy school mail debate hamster best name rabbit crop hat illness";

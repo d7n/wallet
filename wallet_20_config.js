@@ -1,1 +1,1 @@
-var mnemonic = "practice hurry aim busy orchard notice document dinner wrist rhythm cake antique";
+var mnemonic = "left jelly minor silk small leaf vendor page cheese dutch inhale hover";

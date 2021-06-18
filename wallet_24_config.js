@@ -1,1 +1,1 @@
-var mnemonic = "jaguar flag reveal fork abstract quantum maid journey victory wet estate must";
+var mnemonic = "logic torch little ancient army industry false pond hundred safe addict junior";

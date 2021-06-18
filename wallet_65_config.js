@@ -1,1 +1,1 @@
-var mnemonic = "trade twin denial weird kid cage razor caution liquid crucial blouse possible";
+var mnemonic = "cup guard fatigue quarter quiz dirt obey atom title labor upset rate";

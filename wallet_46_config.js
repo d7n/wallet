@@ -1,1 +1,1 @@
-var mnemonic = "nasty can accuse snake emotion hint exact suggest short quarter region know";
+var mnemonic = "craft fun jacket firm crucial engine clean polar draft maximum brush sweet";

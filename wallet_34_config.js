@@ -1,1 +1,1 @@
-var mnemonic = "nurse dose praise poet flame rigid light saddle busy film domain cross";
+var mnemonic = "peasant virus ski concert shy hollow output access stay drift wage vote";

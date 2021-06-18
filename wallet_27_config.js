@@ -1,1 +1,1 @@
-var mnemonic = "person sock canoe little system reflect sand collect august defy unhappy monkey";
+var mnemonic = "marriage twist latin east boost arrange wealth action jealous rough subway light";

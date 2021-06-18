@@ -1,1 +1,1 @@
-var mnemonic = "opera tongue deal quick dose silver size frog loop ill visit bench";
+var mnemonic = "cram struggle family dune gauge smoke olive front patch trim discover critic";

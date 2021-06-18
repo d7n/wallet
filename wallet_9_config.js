@@ -1,1 +1,1 @@
-var mnemonic = "ladder verb brave broom honey world awake depth raven rice labor awake";
+var mnemonic = "culture rubber prepare twin rely naive endorse winner useful tribe file rocket";

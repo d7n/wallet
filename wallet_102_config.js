@@ -1,1 +1,1 @@
-var mnemonic = "girl calm lyrics muffin skirt end million depend odor reunion order soda";
+var mnemonic = "prepare annual aspect flat table scare tongue infant pulse rice dismiss proof";

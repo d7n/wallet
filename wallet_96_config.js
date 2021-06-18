@@ -1,1 +1,1 @@
-var mnemonic = "fork ankle pioneer invite suit atom like bench minute label kitten cliff";
+var mnemonic = "way family analyst dutch crowd among balance evil actress forward cluster alley";

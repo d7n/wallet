@@ -1,1 +1,1 @@
-var mnemonic = "denial wood until brand review raise copper seven cherry action shrimp pattern";
+var mnemonic = "peace together melody broom tell unlock budget vessel excite wrestle visa squirrel";

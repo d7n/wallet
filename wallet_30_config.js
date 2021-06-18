@@ -1,1 +1,1 @@
-var mnemonic = "ripple actor garage ship pear jump enact bulb gym fade reason section";
+var mnemonic = "double guess body grief chat sweet glove ahead illness piece grunt flush";

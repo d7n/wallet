@@ -1,1 +1,1 @@
-var mnemonic = "bone script skirt sea beauty digital humor emotion oppose name table ladder";
+var mnemonic = "fish stumble umbrella junk talk hour reopen casino clutch innocent token busy";

@@ -1,1 +1,1 @@
-var mnemonic = "leopard bounce text document tag sort cloud glass spy erode paper ginger";
+var mnemonic = "blur potato person orphan liar nice brush sudden drill hungry kiss success";

@@ -1,1 +1,1 @@
-var mnemonic = "gas emerge purity knock ostrich adapt wrap left snap absorb fat diagram";
+var mnemonic = "brain circle torch slogan simple rotate mother trigger enlist street sorry peanut";

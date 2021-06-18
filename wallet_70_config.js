@@ -1,1 +1,1 @@
-var mnemonic = "weather win frame actual thank leopard offer feel average silk physical bag";
+var mnemonic = "hybrid fluid legal okay frown sound hybrid city away boat faculty valid";

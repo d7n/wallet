@@ -1,1 +1,1 @@
-var mnemonic = "until solution drum garment orphan relief display direct concert panel debate window";
+var mnemonic = "guard vintage subject swallow stock fatigue security dance blanket confirm soon juice";

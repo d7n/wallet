@@ -1,1 +1,1 @@
-var mnemonic = "dirt thank hundred rare exchange connect road volume scatter across illness gap";
+var mnemonic = "wrap square sun grab surround describe tackle clinic luxury forget thrive ride";

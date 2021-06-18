@@ -1,1 +1,1 @@
-var mnemonic = "wait divert puzzle park endorse hen category museum wool sentence mention switch";
+var mnemonic = "inside edit crowd village stock defy survey poem lumber session public inquiry";

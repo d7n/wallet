@@ -1,1 +1,1 @@
-var mnemonic = "farm bulk strike hair gloom clay long head faint sheriff pelican found";
+var mnemonic = "loop ginger citizen essay above replace pizza traffic paddle harvest answer wage";

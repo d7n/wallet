@@ -1,1 +1,1 @@
-var mnemonic = "chicken wear verify visit high buzz grow stable camp planet affair radar";
+var mnemonic = "material cargo output cradle captain crowd stamp denial just scan seek robust";

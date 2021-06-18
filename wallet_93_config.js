@@ -1,1 +1,1 @@
-var mnemonic = "faint cook foot uncover spirit point zebra sick photo still cable seminar";
+var mnemonic = "august gorilla tissue table race fitness away few escape neither rebuild nurse";

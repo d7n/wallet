@@ -1,1 +1,1 @@
-var mnemonic = "endless struggle loud skill pelican innocent loyal thunder era scare boil hero";
+var mnemonic = "sugar jealous picnic crack garbage trick crouch approve wine swear three seek";

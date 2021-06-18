@@ -1,1 +1,1 @@
-var mnemonic = "glare august genuine valve trend volume shoe end little robot model laundry";
+var mnemonic = "deal license faint girl acid picture amateur cereal engage load multiply mom";

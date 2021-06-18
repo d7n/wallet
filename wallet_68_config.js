@@ -1,1 +1,1 @@
-var mnemonic = "casino cup field patient supreme record hire claw cross special spring vocal";
+var mnemonic = "cute loop vicious ginger video prison play husband idea bargain solar field";

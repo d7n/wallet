@@ -1,1 +1,1 @@
-var mnemonic = "donor fury labor table steel almost wine museum lab jeans timber cat";
+var mnemonic = "traffic lobster more vacant devote announce spring actual meat mass funny health";

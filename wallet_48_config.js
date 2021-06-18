@@ -1,1 +1,1 @@
-var mnemonic = "file spy upset miss artefact enable excite ahead wall smoke child farm";
+var mnemonic = "section drift sign letter move dice exit butter stable brief sad legend";

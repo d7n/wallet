@@ -1,1 +1,1 @@
-var mnemonic = "oil security fly smile sun news cannon car load spy input quote";
+var mnemonic = "jazz crater grunt burst embark remain cost swift oppose skate camera box";

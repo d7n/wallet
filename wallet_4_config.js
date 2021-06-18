@@ -1,1 +1,1 @@
-var mnemonic = "stadium stand certain ability fruit cave imitate puzzle era plunge tongue ladder";
+var mnemonic = "giraffe comic fatal stairs tuna piano cricket arrange elegant north edge entry";

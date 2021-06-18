@@ -1,1 +1,1 @@
-var mnemonic = "eagle dawn fancy shuffle veteran paper yard merge love enact annual between";
+var mnemonic = "drip cave unhappy finish gown seminar soon finger kite length scale height";

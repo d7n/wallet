@@ -1,1 +1,1 @@
-var mnemonic = "card sauce else labor motor garden fit reform cruel catch grape silent";
+var mnemonic = "bind figure lobster electric road absent report fish knife drastic symptom buddy";

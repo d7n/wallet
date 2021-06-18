@@ -1,1 +1,1 @@
-var mnemonic = "acquire pulp loan canyon ghost neither shrug option fog unlock bus struggle";
+var mnemonic = "erupt cheese grant extra brain bitter arctic insane video wealth rescue bonus";

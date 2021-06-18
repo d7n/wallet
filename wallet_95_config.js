@@ -1,1 +1,1 @@
-var mnemonic = "save umbrella order zone embrace aware ecology cause assume brain decide margin";
+var mnemonic = "festival grace share toy slim patch champion insect kidney palace palace lock";

@@ -1,1 +1,1 @@
-var mnemonic = "buyer letter guard hundred almost chuckle hire pear vendor husband paddle bullet";
+var mnemonic = "reason napkin curve code pull dice pact stand north strategy jeans wisdom";

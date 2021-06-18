@@ -1,1 +1,1 @@
-var mnemonic = "cement sight ethics supply kick vintage cousin spider original labor melt sleep";
+var mnemonic = "excuse drive chapter leaf brush coach ginger snack genre congress funny feel";

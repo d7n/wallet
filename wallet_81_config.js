@@ -1,1 +1,1 @@
-var mnemonic = "atom boost elder isolate draft online present rent reopen library kingdom trash";
+var mnemonic = "borrow vote car climb arrest fix erode frame discover torch evolve limb";

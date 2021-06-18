@@ -1,1 +1,1 @@
-var mnemonic = "plug split pluck sudden case bar exact tenant battle pulp fantasy lesson";
+var mnemonic = "hurt share stereo gold black ride agree reform tower ritual advance prevent";

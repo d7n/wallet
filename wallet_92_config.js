@@ -1,1 +1,1 @@
-var mnemonic = "stove phrase fashion isolate budget thrive gown rough edit middle life nut";
+var mnemonic = "faculty silly manage miracle tide achieve sauce lawsuit skill brush stomach gym";

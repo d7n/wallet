@@ -1,1 +1,1 @@
-var mnemonic = "frequent atom sting warfare erase bright matrix matrix inherit park mansion badge";
+var mnemonic = "winter steak turkey kit cover erase equal donkey airport flower arrive purse";

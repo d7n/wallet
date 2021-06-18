@@ -1,1 +1,1 @@
-var mnemonic = "pluck faith century argue shadow drastic meadow stumble scout praise afford lake";
+var mnemonic = "fog region veteran repair crack symbol spirit escape fossil ridge immense light";

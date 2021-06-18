@@ -1,1 +1,1 @@
-var mnemonic = "credit myth mosquito just loop social isolate analyst flip outer vacant cousin";
+var mnemonic = "size space unlock rural section bid already senior sunset consider unable wash";

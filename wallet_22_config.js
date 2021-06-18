@@ -1,1 +1,1 @@
-var mnemonic = "pupil benefit universe token ordinary gather practice wait begin squeeze rapid remove";
+var mnemonic = "crawl control beef middle belt drastic sweet bike subway stem ski damp";

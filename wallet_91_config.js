@@ -1,1 +1,1 @@
-var mnemonic = "cherry false car million guitar imitate solve dutch life bind glare rice";
+var mnemonic = "raccoon lens eye vehicle visa popular deer tiny mango nurse artwork pull";

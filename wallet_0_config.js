@@ -1,1 +1,1 @@
-var mnemonic = "drastic crack gasp boost gossip ice silly patient abandon can curtain august";
+var mnemonic = "month cotton youth unknown cycle often cotton much airport fork obvious update";

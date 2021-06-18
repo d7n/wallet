@@ -1,1 +1,1 @@
-var mnemonic = "cigar domain current wolf wild tape omit stay water happy report flush";
+var mnemonic = "issue like must sing desert game toilet observe apart patient hover grit";

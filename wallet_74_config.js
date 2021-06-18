@@ -1,1 +1,1 @@
-var mnemonic = "carbon firm illegal degree used margin raise dad envelope glance same six";
+var mnemonic = "seven build recycle various peace diamond improve awake cousin success post rose";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown garlic rain canoe gain chronic sheriff noise goddess ring genius end";
+var mnemonic = "maximum ill dawn large ice hip ride income truth stamp true copper";

@@ -1,1 +1,1 @@
-var mnemonic = "taste easily wet basic delay other auction learn hospital inmate frame unknown";
+var mnemonic = "dragon glass vacant nice cart echo consider flat walk anxiety glide away";

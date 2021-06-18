@@ -1,1 +1,1 @@
-var mnemonic = "attack clump initial seed pattern fox arm asset pact hand drum push";
+var mnemonic = "bachelor occur doll acquire wheel auction lounge truck raven normal monster multiply";

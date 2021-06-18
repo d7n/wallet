@@ -1,1 +1,1 @@
-var mnemonic = "charge legal someone defy kick satisfy curtain orbit title scare doctor oil";
+var mnemonic = "shove mandate grain check spot atom kiss pizza grain tongue priority loyal";

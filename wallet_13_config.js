@@ -1,1 +1,1 @@
-var mnemonic = "month inmate toast seminar please camera nation left negative already rhythm solid";
+var mnemonic = "trend erosion shove kangaroo sunny frame desert vague final weapon thank whip";

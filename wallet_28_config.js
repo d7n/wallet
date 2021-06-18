@@ -1,1 +1,1 @@
-var mnemonic = "soup pudding divorce boil soap execute adjust spawn ignore avocado spring coil";
+var mnemonic = "noodle exotic visual size aerobic parade merry strong brisk common drill history";

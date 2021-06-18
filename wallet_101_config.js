@@ -1,1 +1,1 @@
-var mnemonic = "prison drastic you provide trust predict broccoli trouble finish lesson genius scan";
+var mnemonic = "wrong ethics climb gadget palace venue easily oyster book kit spoon ocean";

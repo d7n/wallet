@@ -1,1 +1,1 @@
-var mnemonic = "nut wink planet garden phone garbage vanish anger gap rather picnic merit";
+var mnemonic = "mixed police lawsuit sing display lawn mammal hidden term seed alarm era";

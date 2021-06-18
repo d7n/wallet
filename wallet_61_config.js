@@ -1,1 +1,1 @@
-var mnemonic = "almost dish minute elephant phone assault life science noodle author potato rare";
+var mnemonic = "silver crash invest seven bulb repeat degree demand faint ethics city dose";

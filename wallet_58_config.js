@@ -1,1 +1,1 @@
-var mnemonic = "wild bamboo universe awake buddy lamp unique purity brass force biology lumber";
+var mnemonic = "twist office couple super size urge flip timber verify guilt tribe turn";

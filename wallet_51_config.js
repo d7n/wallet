@@ -1,1 +1,1 @@
-var mnemonic = "arch vapor process thank junk only now man slide kitchen negative zero";
+var mnemonic = "trick push punch hire survey empower gauge now plunge drip genuine robot";

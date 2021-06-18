@@ -1,1 +1,1 @@
-var mnemonic = "one kangaroo pet double room dress undo nation bitter hold soup attack";
+var mnemonic = "word unaware suggest power fox mom prefer ice inherit three walnut foil";

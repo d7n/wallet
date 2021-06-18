@@ -1,1 +1,1 @@
-var mnemonic = "cook shock hurt embark seven people gap life clay enrich profit reopen";
+var mnemonic = "knee wise either mystery sauce alter portion design flame middle minimum host";

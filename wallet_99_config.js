@@ -1,1 +1,1 @@
-var mnemonic = "pottery hotel bird tone eye fold quote various daring welcome suffer modify";
+var mnemonic = "fabric resource wish polar super close holiday keen urban reflect scheme acid";

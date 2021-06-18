@@ -1,1 +1,1 @@
-var mnemonic = "brush leave task timber minor orchard library model joke venture hotel visit";
+var mnemonic = "uncle train device double ready wasp hotel proud word uncle glass green";

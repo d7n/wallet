@@ -1,1 +1,1 @@
-var mnemonic = "vintage wreck denial settle lonely damage pig soon disorder luggage latin unique";
+var mnemonic = "emerge rotate equal axis demise speak poet bullet bargain angle tornado soft";

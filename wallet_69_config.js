@@ -1,1 +1,1 @@
-var mnemonic = "garage enable square miss expand venue under absent enrich horror critic when";
+var mnemonic = "setup protect token view nation priority dizzy all maximum labor random toy";

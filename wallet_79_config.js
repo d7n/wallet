@@ -1,1 +1,1 @@
-var mnemonic = "derive issue cruise goose cave verb lock pencil candy sadness talent pencil";
+var mnemonic = "glove congress junk uncover cup fox require liquid bright wave enough snake";

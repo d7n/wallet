@@ -1,1 +1,1 @@
-var mnemonic = "tide clarify love huge describe trumpet desk cruel behind crew silk caught";
+var mnemonic = "flavor taxi evolve filter scene siege profit carry actor business end toe";

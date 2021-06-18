@@ -1,1 +1,1 @@
-var mnemonic = "key visual vault benefit amateur travel social panda knock advance lend dizzy";
+var mnemonic = "movie tenant tell stairs embody bird manual grid unfold keen episode smoke";

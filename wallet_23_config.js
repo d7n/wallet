@@ -1,1 +1,1 @@
-var mnemonic = "umbrella fame estate hold mutual mom law ladder heart object skull mosquito";
+var mnemonic = "citizen cave boss address leaf jeans edge fantasy battle melody estate situate";

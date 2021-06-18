@@ -1,1 +1,1 @@
-var mnemonic = "cricket walk oppose orbit math column busy blouse again unknown fuel stock";
+var mnemonic = "seed calm fuel balance harvest debate help obey avoid guess innocent long";

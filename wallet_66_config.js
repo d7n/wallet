@@ -1,1 +1,1 @@
-var mnemonic = "broccoli nut good organ expect decorate into base click bundle kick south";
+var mnemonic = "then vague cushion battle glory cabbage title egg pair oil tattoo barrel";
