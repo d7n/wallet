@@ -1,1 +1,1 @@
-var mnemonic = "transfer pact charge skate cherry wait caught frown save album sauce skate";
+var mnemonic = "attitude armed spend adjust bus people merry prison cake uniform stomach risk";

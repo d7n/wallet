@@ -1,1 +1,1 @@
-var mnemonic = "final clean finish visual random aware exist diamond exist match crack lift";
+var mnemonic = "advice census mercy trigger problem garage wait match vocal coin hazard blush";

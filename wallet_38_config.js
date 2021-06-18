@@ -1,1 +1,1 @@
-var mnemonic = "stand term feel stand top law foam eternal toward march embrace evolve";
+var mnemonic = "notice wet kit home chair evidence inmate wagon expire scorpion green sniff";

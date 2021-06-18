@@ -1,1 +1,1 @@
-var mnemonic = "aunt gym add notice abandon van flag bread blood young cotton change";
+var mnemonic = "magnet latin craft hill stamp cream unhappy join merge admit rifle laundry";

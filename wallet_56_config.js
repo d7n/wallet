@@ -1,1 +1,1 @@
-var mnemonic = "claw angle pretty boost opera dash race doctor vital genius crime clump";
+var mnemonic = "shrug hurt until puzzle ethics zone dog cannon odor rail manual engine";

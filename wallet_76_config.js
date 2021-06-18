@@ -1,1 +1,1 @@
-var mnemonic = "final order orbit mimic opinion assault canyon mind join input blood venture";
+var mnemonic = "gate symptom boring enjoy simple online liberty outer bicycle achieve volcano couch";

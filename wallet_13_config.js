@@ -1,1 +1,1 @@
-var mnemonic = "empty twice dwarf elegant ticket tree collect smart siege pudding input camera";
+var mnemonic = "core abuse floor tackle junk square various jump tortoise aware ceiling execute";

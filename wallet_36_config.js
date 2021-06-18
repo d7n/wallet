@@ -1,1 +1,1 @@
-var mnemonic = "dish slide client bless cave install village regret upper message sheriff rhythm";
+var mnemonic = "stable muffin skin bundle faculty scan chimney crew quote clap wing market";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose sadness kiss like rug journey figure vicious lens kidney sight appear";
+var mnemonic = "awkward destroy alien castle ice stone cluster metal ice action joke system";

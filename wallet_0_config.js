@@ -1,1 +1,1 @@
-var mnemonic = "crumble joke suit carbon envelope rally pond defense between trumpet illegal keep";
+var mnemonic = "bachelor either radio whip fabric reflect inmate concert airport shallow avoid fade";

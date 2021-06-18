@@ -1,1 +1,1 @@
-var mnemonic = "place guess grid liquid isolate steak claw fantasy story patient amateur novel";
+var mnemonic = "loop rich monster report term ready like best unhappy prison ecology tone";

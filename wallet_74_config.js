@@ -1,1 +1,1 @@
-var mnemonic = "behind iron help fish fork come broken lava very tone fog purchase";
+var mnemonic = "nurse already oval fabric angle illness virus name hurt tobacco night sting";

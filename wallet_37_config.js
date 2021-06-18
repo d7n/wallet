@@ -1,1 +1,1 @@
-var mnemonic = "cable cotton general noise provide harsh access hover twice already excuse throw";
+var mnemonic = "hurt fatal vague side real renew earn oblige green wrestle trash armed";

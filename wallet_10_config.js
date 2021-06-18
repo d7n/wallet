@@ -1,1 +1,1 @@
-var mnemonic = "stay insane lunch reject radio adjust source dragon picnic burden story kiwi";
+var mnemonic = "link pencil evil sample doll inmate south okay earn summer slab expose";

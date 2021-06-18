@@ -1,1 +1,1 @@
-var mnemonic = "congress answer plate trophy name acoustic evil govern tuna battle creek abandon";
+var mnemonic = "leopard claw joke olympic crater six eight joke initial fashion crisp bright";

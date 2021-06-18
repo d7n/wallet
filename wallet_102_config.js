@@ -1,1 +1,1 @@
-var mnemonic = "airport moon enrich proud pyramid jeans cliff poem symptom morning miss flame";
+var mnemonic = "section tribe fresh city action wife split artefact carbon mammal pair vacuum";

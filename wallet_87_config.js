@@ -1,1 +1,1 @@
-var mnemonic = "coral stool wave thumb lunar grunt capable fluid ball creek mushroom coin";
+var mnemonic = "love current mirror million long hover estate gallery liar catalog veteran end";

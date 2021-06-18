@@ -1,1 +1,1 @@
-var mnemonic = "eagle lobster draw warrior insect game river lamp transfer excess shop setup";
+var mnemonic = "chimney cigar prosper early scene champion wink indicate rural crunch okay power";

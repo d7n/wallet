@@ -1,1 +1,1 @@
-var mnemonic = "buzz call forget what sleep game kiss orange guitar follow elbow tortoise";
+var mnemonic = "seed thunder apple scene modify domain frost weird supreme post wear shock";

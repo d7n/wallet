@@ -1,1 +1,1 @@
-var mnemonic = "stool island address expose injury like rabbit almost vote notice dad unveil";
+var mnemonic = "total riot poet unaware urban mixed girl blue throw brown fatigue must";

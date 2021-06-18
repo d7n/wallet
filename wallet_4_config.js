@@ -1,1 +1,1 @@
-var mnemonic = "sort chef alien affair lab donate bullet mouse renew soul virtual predict";
+var mnemonic = "stomach primary blur pistol large library frog conduct inmate act creek service";

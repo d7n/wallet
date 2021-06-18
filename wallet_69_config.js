@@ -1,1 +1,1 @@
-var mnemonic = "couch early chef magnet polar able catch early steel rhythm grape foot";
+var mnemonic = "mesh scare prize resemble warm maple crazy orange cloud manual mask option";

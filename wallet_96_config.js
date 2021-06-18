@@ -1,1 +1,1 @@
-var mnemonic = "typical shrimp dry fancy alarm bind scout problem asset answer history drama";
+var mnemonic = "program genius wonder sing retire asset effort achieve hope chair gallery million";

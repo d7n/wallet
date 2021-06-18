@@ -1,1 +1,1 @@
-var mnemonic = "breeze coyote rubber cheese cabin ship flavor love dismiss actual grace call";
+var mnemonic = "cattle drive dial silly utility enjoy defense define used era drive satoshi";

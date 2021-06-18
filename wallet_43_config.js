@@ -1,1 +1,1 @@
-var mnemonic = "brass pond hurt donate oak alarm faith dance reflect vote tail apart";
+var mnemonic = "forget zebra view nurse keep yard spice mystery detail crouch firm dial";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum tower immune pilot cigar evil stomach sun midnight combine popular since";
+var mnemonic = "joy crumble oval matter drift stay blast pattern toy analyst toe lobster";

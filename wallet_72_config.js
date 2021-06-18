@@ -1,1 +1,1 @@
-var mnemonic = "manual purity defy wild barrel segment oppose shield rural spoil illness project";
+var mnemonic = "crush hero analyst humor they enter aunt glance turkey exile planet utility";

@@ -1,1 +1,1 @@
-var mnemonic = "science patrol lyrics actual pink argue suit jazz online sorry aunt engage";
+var mnemonic = "parade airport spread syrup warm enter october cherry yellow castle imitate party";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon click bean flash bamboo wolf lonely excite arrest forest install night";
+var mnemonic = "text media brass sustain merge comic churn prize finish awful upset poem";

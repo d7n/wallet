@@ -1,1 +1,1 @@
-var mnemonic = "brave fine dutch behave detect frame plunge twin total consider october fragile";
+var mnemonic = "arrow oyster dry offer reduce object vicious middle expand addict test wing";

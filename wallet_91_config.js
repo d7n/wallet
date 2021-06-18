@@ -1,1 +1,1 @@
-var mnemonic = "test valve gain daughter derive delay pave tomato tank leisure call minimum";
+var mnemonic = "burst cruel pact entire share thank glad science truly coin oxygen chair";

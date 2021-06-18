@@ -1,1 +1,1 @@
-var mnemonic = "bind mouse clock mention popular eight chapter rapid visa ripple usage hard";
+var mnemonic = "orient wrestle employ clump adult approve immense syrup become valid weekend firm";

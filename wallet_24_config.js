@@ -1,1 +1,1 @@
-var mnemonic = "muscle kid decline boring settle donate boil border board obvious disorder combine";
+var mnemonic = "supply fiction praise mercy ice host child math stumble supply dust unique";

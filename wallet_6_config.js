@@ -1,1 +1,1 @@
-var mnemonic = "ripple debris gesture window pipe salon price harvest disease struggle return sing";
+var mnemonic = "daughter enact mixed series banana laugh ketchup around time engine start safe";

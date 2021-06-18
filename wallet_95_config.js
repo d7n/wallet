@@ -1,1 +1,1 @@
-var mnemonic = "purse pilot bottom guard sorry suffer grant caught coconut solution silly bench";
+var mnemonic = "degree blast coin nest kiss whisper prepare eagle rule caught spot urban";

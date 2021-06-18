@@ -1,1 +1,1 @@
-var mnemonic = "elegant today protect dove typical wedding priority patch fine law junior wisdom";
+var mnemonic = "case resource expire person day marriage develop park demand flight put success";

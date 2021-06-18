@@ -1,1 +1,1 @@
-var mnemonic = "violin route still search aisle front evidence fit cheap dove join blur";
+var mnemonic = "noble assume spy cable fringe select island help slogan save father hen";

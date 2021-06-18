@@ -1,1 +1,1 @@
-var mnemonic = "limit bronze fame collect just violin lunar control test inspire plate friend";
+var mnemonic = "maple demise real voice cost tired recall cluster source tone tape sauce";

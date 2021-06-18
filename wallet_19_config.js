@@ -1,1 +1,1 @@
-var mnemonic = "obscure enhance vacuum dream picture cliff length pledge eyebrow shy oppose quiz";
+var mnemonic = "sadness noise meadow notice suffer provide second camera thrive south echo salt";

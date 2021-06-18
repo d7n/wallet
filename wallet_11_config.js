@@ -1,1 +1,1 @@
-var mnemonic = "canoe vintage leaf scrub bomb sight flight monster display silk feed vintage";
+var mnemonic = "thrive trust heavy opinion danger pull glue roof festival village cluster wine";

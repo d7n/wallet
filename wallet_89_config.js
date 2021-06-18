@@ -1,1 +1,1 @@
-var mnemonic = "lens faith marine rug direct envelope man grass donor degree valid salmon";
+var mnemonic = "clog language vault talent rocket laugh climb inmate quantum cupboard common clerk";

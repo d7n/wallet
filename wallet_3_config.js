@@ -1,1 +1,1 @@
-var mnemonic = "gift neither wood green ice cover topic rebuild fury dumb steel language";
+var mnemonic = "trick figure shallow snack august mutual approve gate wing analyst decade renew";

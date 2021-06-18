@@ -1,1 +1,1 @@
-var mnemonic = "decorate result refuse helmet play blur warrior acquire basket exit sword liberty";
+var mnemonic = "own parent hybrid budget gossip office uphold suggest lawsuit guess armed raw";

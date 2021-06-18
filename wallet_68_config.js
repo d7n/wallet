@@ -1,1 +1,1 @@
-var mnemonic = "pen install farm drink answer target topic estate tenant build earth retreat";
+var mnemonic = "protect best badge motor illness draw affair conduct illegal desk pond crazy";

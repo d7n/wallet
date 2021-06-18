@@ -1,1 +1,1 @@
-var mnemonic = "finger bracket dance humor payment holiday ten utility accuse try digital tiger";
+var mnemonic = "finish cloud puzzle lunch neglect stove drama pass resource modify sister obscure";

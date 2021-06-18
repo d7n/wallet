@@ -1,1 +1,1 @@
-var mnemonic = "lemon case liberty spirit box august employ news canvas section cram ride";
+var mnemonic = "elevator tree uncover item swallow pass tongue lock fish elder rose finish";

@@ -1,1 +1,1 @@
-var mnemonic = "shine judge taxi seat regret picnic access air artwork issue tortoise pill";
+var mnemonic = "evidence shift fit radio bargain quick thunder wide emerge donkey soup arch";

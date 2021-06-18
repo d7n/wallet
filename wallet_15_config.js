@@ -1,1 +1,1 @@
-var mnemonic = "wall fossil twelve artwork cloud crater canoe walk drink method awful fine";
+var mnemonic = "two sound throw burst cheese lion coin mystery harvest east token salad";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist denial notable dawn drum card task monitor sugar deal bar merit";
+var mnemonic = "viable wet error start brass kind direct mule pigeon crouch cloud royal";

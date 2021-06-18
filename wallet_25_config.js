@@ -1,1 +1,1 @@
-var mnemonic = "course feature empty capital crash couple until grace moon lab symptom heavy";
+var mnemonic = "same sail proof secret dutch pact rifle creek worth muffin author salmon";

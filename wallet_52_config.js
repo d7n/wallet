@@ -1,1 +1,1 @@
-var mnemonic = "shoe priority empower snap luxury borrow wreck solar dynamic awake stem else";
+var mnemonic = "hawk combine summer fan define usage tonight vicious rebuild sail glide mixed";

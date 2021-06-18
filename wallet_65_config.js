@@ -1,1 +1,1 @@
-var mnemonic = "bomb denial fresh wife artwork act near method weird tent pupil state";
+var mnemonic = "spawn ill winner ladder silly light brand wing drift honey wink smile";

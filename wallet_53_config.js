@@ -1,1 +1,1 @@
-var mnemonic = "rotate spy leisure piece apple carry thumb night obvious bracket claim dose";
+var mnemonic = "december puppy session siren spike clarify plunge push token cube present page";

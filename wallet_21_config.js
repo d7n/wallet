@@ -1,1 +1,1 @@
-var mnemonic = "spike stove scrap regret keep pair utility rug airport excuse deal power";
+var mnemonic = "panther coral there priority verb foot blanket easily page wild divide scale";

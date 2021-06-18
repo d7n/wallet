@@ -1,1 +1,1 @@
-var mnemonic = "nominee index start elegant text benefit nest dwarf attitude dune fly long";
+var mnemonic = "panda rib garment decorate mixture proof erupt addict enforce addict lemon law";

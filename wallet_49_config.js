@@ -1,1 +1,1 @@
-var mnemonic = "reform hybrid kite palace kid tumble oblige sister original toast hen picnic";
+var mnemonic = "short worry traffic swing position fine bonus rifle number black option comic";

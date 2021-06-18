@@ -1,1 +1,1 @@
-var mnemonic = "giraffe nominee limb mom fun spice summer parent diary hungry forward credit";
+var mnemonic = "limb adjust solution flight receive swap mammal dinner rent voyage life invite";

@@ -1,1 +1,1 @@
-var mnemonic = "weather police defense always frozen web decrease usual system vital dove snake";
+var mnemonic = "reject almost spawn news canoe excuse shed normal turn minor dream pear";

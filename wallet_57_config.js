@@ -1,1 +1,1 @@
-var mnemonic = "orbit pudding impose call chapter cement long shiver tower chest alter south";
+var mnemonic = "diet equal neither snap embody abandon together toddler floor crop opinion debate";

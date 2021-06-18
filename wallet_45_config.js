@@ -1,1 +1,1 @@
-var mnemonic = "gravity nest flat program tell explain web glance leave current alcohol access";
+var mnemonic = "inch tourist river dolphin agent daring actress excess dream property sign city";

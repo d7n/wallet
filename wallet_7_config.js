@@ -1,1 +1,1 @@
-var mnemonic = "helmet vast rule business fault confirm primary derive zebra layer chalk bicycle";
+var mnemonic = "future surface merge earth arrest power wall rent leopard toss churn hawk";

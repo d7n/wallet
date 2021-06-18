@@ -1,1 +1,1 @@
-var mnemonic = "ecology famous mail spray boat cinnamon fault picture still truck fall lumber";
+var mnemonic = "project sand gaze follow visa mule lazy science vapor flip material puzzle";

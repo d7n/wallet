@@ -1,1 +1,1 @@
-var mnemonic = "river pulse drop gospel unit uniform street garment sea subject category theme";
+var mnemonic = "segment enjoy pitch bind loan whisper knee flee forget catch wet grape";

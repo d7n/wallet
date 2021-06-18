@@ -1,1 +1,1 @@
-var mnemonic = "fit slow pony elder must blade dish scatter route empty fire proud";
+var mnemonic = "input misery faint predict ball churn honey length scatter scan slice library";

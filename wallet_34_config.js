@@ -1,1 +1,1 @@
-var mnemonic = "rigid wild faculty solution basic gossip pass baby dumb noise social rich";
+var mnemonic = "together tent renew margin either mountain forget empty lobster toast assist couple";

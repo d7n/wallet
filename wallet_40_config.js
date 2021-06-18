@@ -1,1 +1,1 @@
-var mnemonic = "myth pear deputy present remain noble duck abstract resemble february snack girl";
+var mnemonic = "security tip advance tourist doctor flag huge issue use donate industry slush";

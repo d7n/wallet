@@ -1,1 +1,1 @@
-var mnemonic = "found gasp allow air saddle swarm exile figure genre leisure eight immune";
+var mnemonic = "steel aware inner wine twenty train leisure ranch eyebrow clip hedgehog enrich";

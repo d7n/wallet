@@ -1,1 +1,1 @@
-var mnemonic = "skull night link vanish inflict obtain liberty voyage spike essence quit sudden";
+var mnemonic = "atom wish east fiscal olympic chapter shuffle elder clown oval endless text";

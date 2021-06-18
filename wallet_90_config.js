@@ -1,1 +1,1 @@
-var mnemonic = "humble caution sample brand panther delay pottery direct riot grace scrub cherry";
+var mnemonic = "latin expose toilet climb armor fantasy thunder satisfy limb mother vanish vital";

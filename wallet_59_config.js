@@ -1,1 +1,1 @@
-var mnemonic = "sunset film grocery jealous mind rude quiz tuna saddle nerve evidence sadness";
+var mnemonic = "special mosquito spatial later fossil gather faint sadness ahead raccoon baby energy";

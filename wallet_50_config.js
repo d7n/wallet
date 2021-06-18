@@ -1,1 +1,1 @@
-var mnemonic = "father void bitter cabin wire stem away mean client fatigue input meat";
+var mnemonic = "design will mother town little scan jar please girl hold matter palm";

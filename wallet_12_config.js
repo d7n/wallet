@@ -1,1 +1,1 @@
-var mnemonic = "sheriff tumble talk onion wolf once mom myth moment print pattern twist";
+var mnemonic = "finish casino nature across poem comic kitten trophy misery border vintage yard";

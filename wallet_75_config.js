@@ -1,1 +1,1 @@
-var mnemonic = "coconut bottom have jaguar person table script safe april catch ask walk";
+var mnemonic = "parent frog tuition airport gravity cry defy feel ocean material polar drastic";

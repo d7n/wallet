@@ -1,1 +1,1 @@
-var mnemonic = "ripple notable stamp vivid like state sustain table transfer inquiry frog fun";
+var mnemonic = "wealth vehicle february flavor minor mushroom elegant sad discover tone body usual";

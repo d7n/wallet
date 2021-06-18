@@ -1,1 +1,1 @@
-var mnemonic = "image indicate someone seat have midnight impact mammal position journey crime couple";
+var mnemonic = "ensure pig sadness confirm album hint strike board polar desk tonight jewel";

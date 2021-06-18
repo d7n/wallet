@@ -1,1 +1,1 @@
-var mnemonic = "month dove secret modify smart mind tag program awkward deputy aim man";
+var mnemonic = "success pistol small sadness stable cement song orange island tone liar dinner";

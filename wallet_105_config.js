@@ -1,1 +1,1 @@
-var mnemonic = "trigger mobile bargain era casual capital amount attend once rather apart junk";
+var mnemonic = "plug drastic gauge onion melody viable cheese issue search into foil boring";

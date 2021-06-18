@@ -1,1 +1,1 @@
-var mnemonic = "gasp crane legal zone floor way key captain aunt purchase chair pattern";
+var mnemonic = "acoustic copper stairs dignity keep dish hedgehog bid athlete motion movie direct";

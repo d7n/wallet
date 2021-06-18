@@ -1,1 +1,1 @@
-var mnemonic = "gorilla coral year reduce distance crunch young similar corn approve crush dream";
+var mnemonic = "idea delay finger steel wrong great language shoot hand angry shift across";

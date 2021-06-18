@@ -1,1 +1,1 @@
-var mnemonic = "nose slender canvas inspire resource express dutch twelve tube own fiber chronic";
+var mnemonic = "ordinary enrich tenant pipe comfort bright auto angry fire toy dawn fancy";

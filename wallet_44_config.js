@@ -1,1 +1,1 @@
-var mnemonic = "level hat enemy tank parrot under tuna other castle divide sword margin";
+var mnemonic = "arrest noble boss pond adapt dizzy pair hole visa trust embrace frown";

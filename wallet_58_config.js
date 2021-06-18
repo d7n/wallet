@@ -1,1 +1,1 @@
-var mnemonic = "put fitness bounce secret supreme grant entry jar predict huge skate shrug";
+var mnemonic = "electric suit path peanut endless broken brick decline bag stadium media choose";

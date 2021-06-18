@@ -1,1 +1,1 @@
-var mnemonic = "unable adapt nose city gain settle nest arrest expect faint cycle online";
+var mnemonic = "meadow appear display vote alien custom picnic glove amount enrich milk unhappy";

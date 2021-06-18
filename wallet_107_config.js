@@ -1,1 +1,1 @@
-var mnemonic = "across scale chimney slide vivid arch auto mass genuine gadget stairs panic";
+var mnemonic = "jealous oxygen bench sentence abandon cage fan ask purity indicate call inquiry";

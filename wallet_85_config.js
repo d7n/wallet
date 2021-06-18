@@ -1,1 +1,1 @@
-var mnemonic = "height fragile walnut collect save adjust valve embrace index chest awesome snake";
+var mnemonic = "scrap own repeat minute drift type void trouble sail strategy require cable";

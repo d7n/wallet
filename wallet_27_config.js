@@ -1,1 +1,1 @@
-var mnemonic = "rhythm alone hobby torch away country wife naive rotate word extra hair";
+var mnemonic = "excuse average inform supply ranch vague junk helmet motion ahead obscure plate";
