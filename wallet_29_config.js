@@ -1,1 +1,1 @@
-var mnemonic = "coil beyond eager dizzy fitness skill develop notice smile extend wage thumb";
+var mnemonic = "pulse shaft taxi peasant inside movie tragic diagram phrase liquid feel reform";

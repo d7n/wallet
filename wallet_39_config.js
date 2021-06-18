@@ -1,1 +1,1 @@
-var mnemonic = "holiday cruel average curtain soap theory income total present elephant insect chicken";
+var mnemonic = "derive idle basic stock matrix zebra fork canal festival nation empty vague";

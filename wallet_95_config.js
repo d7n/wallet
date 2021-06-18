@@ -1,1 +1,1 @@
-var mnemonic = "half ship flame meat photo bargain expand ice away excess tenant burst";
+var mnemonic = "amateur nothing already print layer clever absurd gather review hip sport hole";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue supply column dignity acoustic play puppy tooth glass alone across gain";
+var mnemonic = "rubber science resemble night jazz problem leisure couple trigger detect sibling universe";

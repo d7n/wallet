@@ -1,1 +1,1 @@
-var mnemonic = "before demise toilet extend stadium solution radio attract toss ramp hundred again";
+var mnemonic = "wisdom mean turn bulk prefer north gather glory few wagon tissue square";

@@ -1,1 +1,1 @@
-var mnemonic = "top undo poem frozen father novel recall client menu rotate donor lesson";
+var mnemonic = "audit chief deputy mango suffer gate blanket demand bring echo oxygen move";

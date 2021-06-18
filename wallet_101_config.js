@@ -1,1 +1,1 @@
-var mnemonic = "stove battle patient follow code infant orange bubble report turn midnight minimum";
+var mnemonic = "public talk accuse rapid canyon whisper squirrel organ ill false blood basic";

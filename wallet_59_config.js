@@ -1,1 +1,1 @@
-var mnemonic = "scheme galaxy teach carry rookie bar state window fence person wash skull";
+var mnemonic = "liquid cool powder twelve toilet student gold leaf write hockey accident slight";

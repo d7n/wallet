@@ -1,1 +1,1 @@
-var mnemonic = "absorb bid solar fish clever easy source ticket luxury virtual frost finish";
+var mnemonic = "cotton fix grant zero discover soda bring message egg arch provide notable";

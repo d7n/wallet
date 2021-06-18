@@ -1,1 +1,1 @@
-var mnemonic = "artefact provide brown repeat nasty rebel three news slot carbon exile chaos";
+var mnemonic = "shy finish april hover poet empty radar river obscure install young wave";

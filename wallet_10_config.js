@@ -1,1 +1,1 @@
-var mnemonic = "improve series bulb carbon hazard champion first moral barely core fabric address";
+var mnemonic = "spray share valid friend bitter position sketch path ball figure wrong slim";

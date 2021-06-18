@@ -1,1 +1,1 @@
-var mnemonic = "coil certain purpose cable mouse enjoy shop either goddess mistake tuition monitor";
+var mnemonic = "unfold suit wire mail kite jaguar crisp rude oven library phone rough";

@@ -1,1 +1,1 @@
-var mnemonic = "faint super hover error affair velvet anchor meadow entry repair fossil tank";
+var mnemonic = "autumn lunch bike motion program rule cinnamon mimic knee claim minor diesel";

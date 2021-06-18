@@ -1,1 +1,1 @@
-var mnemonic = "palace leopard unknown extend bless sun phrase online panda faint mystery scale";
+var mnemonic = "make winner remember dust try plastic steak sand clap lobster escape skill";

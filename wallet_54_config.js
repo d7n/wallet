@@ -1,1 +1,1 @@
-var mnemonic = "peasant gain raven decade extend kite work purpose fiscal guilt ready over";
+var mnemonic = "taste target lounge sausage small sunset into merry animal curve figure wealth";

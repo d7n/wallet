@@ -1,1 +1,1 @@
-var mnemonic = "vibrant length student genius twelve walnut moon bike toss patch planet hard";
+var mnemonic = "enhance hungry virus surround digital cruel air filter divide copper already hood";

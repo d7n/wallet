@@ -1,1 +1,1 @@
-var mnemonic = "foster surround winner dish input visa snow inherit spoil jacket impulse arrive";
+var mnemonic = "parrot step humble differ mountain book pond own distance license amount caught";

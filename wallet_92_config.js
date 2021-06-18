@@ -1,1 +1,1 @@
-var mnemonic = "fox harbor once keen future profit hire dwarf arrest jewel slogan fade";
+var mnemonic = "fix prepare hope soda exercise fringe enjoy limb party easy appear drip";

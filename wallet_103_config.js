@@ -1,1 +1,1 @@
-var mnemonic = "razor lyrics damp power random never vicious soccer cup faculty village gloom";
+var mnemonic = "cable pelican symbol series coyote weekend decade lottery hard shock army tunnel";

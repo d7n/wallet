@@ -1,1 +1,1 @@
-var mnemonic = "hawk effort soon music twelve achieve vote seek combine attack prize brand";
+var mnemonic = "clinic alpha enable cupboard horn utility deal combine glass ensure attend spy";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy outer oblige planet dice rate blue video coast include name deer";
+var mnemonic = "snow ivory radar grunt picture message glimpse away local barrel fame genre";

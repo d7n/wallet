@@ -1,1 +1,1 @@
-var mnemonic = "shaft name dignity ripple tip water scrap connect theory fire divert frequent";
+var mnemonic = "bounce jump deputy hidden strike pear oppose two crumble length grass remove";

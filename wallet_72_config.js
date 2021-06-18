@@ -1,1 +1,1 @@
-var mnemonic = "scale parent ahead nuclear author engage affair require pizza salt excuse poem";
+var mnemonic = "unknown maze meat hover dash inform monitor stairs head wage sibling phone";

@@ -1,1 +1,1 @@
-var mnemonic = "subject great rebuild identify ripple render arrange huge slab concert fan roast";
+var mnemonic = "layer crash nurse clinic key reunion fork trouble right minimum scheme choose";

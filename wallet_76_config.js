@@ -1,1 +1,1 @@
-var mnemonic = "dance pitch attend waste sunset satoshi head water frog vintage peanut hour";
+var mnemonic = "child bonus face dignity aspect general hero border foot cannon mimic bread";

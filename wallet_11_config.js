@@ -1,1 +1,1 @@
-var mnemonic = "spring zero together detect pull garment tongue resist forward scrub slot worth";
+var mnemonic = "dutch shove where innocent twelve either over tackle spin combine model matter";

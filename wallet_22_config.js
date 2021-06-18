@@ -1,1 +1,1 @@
-var mnemonic = "trim basket embark motion bicycle wet fox patrol moon damp bike bunker";
+var mnemonic = "world start prosper barely pond travel almost practice area mango bulk talent";

@@ -1,1 +1,1 @@
-var mnemonic = "display remember chief ramp pipe include inspire cliff virus oven raise dumb";
+var mnemonic = "argue wall sauce panel copper retreat design release acquire exclude viable neither";

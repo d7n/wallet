@@ -1,1 +1,1 @@
-var mnemonic = "stumble equip village ticket naive chunk baby maple awesome remind error genre";
+var mnemonic = "tobacco tomorrow hunt alien prison appear rain leg stem tag act border";

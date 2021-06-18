@@ -1,1 +1,1 @@
-var mnemonic = "foam elegant scrub abuse supply arrive mean elevator impact decline patient leopard";
+var mnemonic = "dust wash today crash draw same flight emotion balcony quote barrel there";

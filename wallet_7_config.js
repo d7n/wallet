@@ -1,1 +1,1 @@
-var mnemonic = "index ladder stomach buddy master picnic behave hybrid flat grain grid before";
+var mnemonic = "grief primary unfold coil egg dinner digital famous relief crowd inspire kitten";

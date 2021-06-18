@@ -1,1 +1,1 @@
-var mnemonic = "response question initial skin gentle find upgrade quarter move slow improve you";
+var mnemonic = "atom letter give assault trade raccoon access crane soap amateur result today";

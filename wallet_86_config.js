@@ -1,1 +1,1 @@
-var mnemonic = "bargain toe train time broccoli mention rain donor sad violin text crash";
+var mnemonic = "wink script million search someone lock luxury narrow door dry stay room";

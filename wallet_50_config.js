@@ -1,1 +1,1 @@
-var mnemonic = "help diesel minute zoo income student floor inquiry crumble shallow elegant strategy";
+var mnemonic = "menu jar brass elder endless flavor carry useful warfare ivory erode badge";

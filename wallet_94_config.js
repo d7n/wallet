@@ -1,1 +1,1 @@
-var mnemonic = "bracket bulb solve pool trip beach neck reason luggage unable goose video";
+var mnemonic = "reunion glory dad like cry fun bright mansion save demise claw hurt";

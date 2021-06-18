@@ -1,1 +1,1 @@
-var mnemonic = "silent use fog begin gallery deliver panther quiz skill private normal guard";
+var mnemonic = "gorilla arctic despair treat limb melt nice gown food teach basket snack";

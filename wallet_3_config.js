@@ -1,1 +1,1 @@
-var mnemonic = "sea hour replace lemon game found daughter large swamp popular profit relax";
+var mnemonic = "orchard pink material young oppose south crop stove whale silk over upset";

@@ -1,1 +1,1 @@
-var mnemonic = "misery drink digital finger razor gain tunnel ripple hill struggle retire split";
+var mnemonic = "cigar bulb fan select panther history shift bleak base jeans cat fantasy";

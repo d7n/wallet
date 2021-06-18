@@ -1,1 +1,1 @@
-var mnemonic = "shadow rhythm census across shoulder unit mention stone price crawl eagle mobile";
+var mnemonic = "bargain luggage address hurdle artwork rifle faculty moment book rescue save asset";

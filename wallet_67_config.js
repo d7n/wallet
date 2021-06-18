@@ -1,1 +1,1 @@
-var mnemonic = "glad risk loud best document valve saddle garage royal embrace pudding hamster";
+var mnemonic = "crane private acquire hold faith verb hurt north emotion consider leisure empty";

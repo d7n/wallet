@@ -1,1 +1,1 @@
-var mnemonic = "wave apart slot shy grace quiz wise appear glory session bacon unfold";
+var mnemonic = "autumn bomb mushroom floor educate you symbol decorate beach price delay creek";

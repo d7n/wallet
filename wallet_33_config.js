@@ -1,1 +1,1 @@
-var mnemonic = "wealth ten learn cat mention vintage donate clerk refuse minute exist scan";
+var mnemonic = "clog envelope disease sphere bunker catalog lounge oval casino brother desert hamster";

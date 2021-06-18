@@ -1,1 +1,1 @@
-var mnemonic = "dress lock tribe army photo sample buzz all green horror cabin famous";
+var mnemonic = "industry tent broccoli treat palace scissors puzzle creek mimic man afraid flash";

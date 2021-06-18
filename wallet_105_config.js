@@ -1,1 +1,1 @@
-var mnemonic = "useful bitter churn blur depart dish staff return alone glad indoor vapor";
+var mnemonic = "ride puzzle swift divorce just patch cry envelope either jazz plug melody";

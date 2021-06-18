@@ -1,1 +1,1 @@
-var mnemonic = "render exchange clarify size siege issue project poet diary moral toddler prevent";
+var mnemonic = "sadness fever exchange vault pipe napkin dream attract boss olive ankle identify";

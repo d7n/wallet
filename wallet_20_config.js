@@ -1,1 +1,1 @@
-var mnemonic = "grit intact obscure robust secret boil tourist captain wealth sauce rapid rail";
+var mnemonic = "pride express nut foot weather night short rain dilemma coyote dirt million";

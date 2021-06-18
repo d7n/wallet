@@ -1,1 +1,1 @@
-var mnemonic = "message skate balance laugh cage plate web interest circle mountain escape rebuild";
+var mnemonic = "essay speed primary sunny shoe chunk fancy limit duck twice clever room";

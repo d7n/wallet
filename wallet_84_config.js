@@ -1,1 +1,1 @@
-var mnemonic = "rubber strong field always brick kite glad orange color hawk sand goddess";
+var mnemonic = "party olive glory cat shoulder divorce dog category stick arrange urban acoustic";

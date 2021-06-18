@@ -1,1 +1,1 @@
-var mnemonic = "uphold artefact asthma ramp twenty write sea income zero claw gym sand";
+var mnemonic = "hedgehog devote expire bike motor steel control keen hobby can lunar hair";

@@ -1,1 +1,1 @@
-var mnemonic = "purse empower direct leader two sea core hat jewel key wool grocery";
+var mnemonic = "feature adjust easily scissors frog once quality harbor fiber banana bronze average";

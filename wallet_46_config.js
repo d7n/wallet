@@ -1,1 +1,1 @@
-var mnemonic = "off panda reform flame vendor acid text govern sadness mother ride solution";
+var mnemonic = "position vessel nation entire lunch armed print shoot wing bronze opera company";

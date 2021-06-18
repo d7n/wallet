@@ -1,1 +1,1 @@
-var mnemonic = "memory salute grass lottery hint tiny desk crush village truck oval soccer";
+var mnemonic = "divorce depth kitten slim prosper pelican exhaust include artist payment art curtain";

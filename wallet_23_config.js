@@ -1,1 +1,1 @@
-var mnemonic = "sun enforce foil silly tilt cargo embrace crack nephew peanut accuse advice";
+var mnemonic = "raccoon group assault engage zoo blue wild pond business brave fault city";

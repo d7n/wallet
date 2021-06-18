@@ -1,1 +1,1 @@
-var mnemonic = "tobacco moral glass menu dice federal knee awake smoke infant morning tumble";
+var mnemonic = "link razor invest jealous release toast airport stone space turtle hungry apology";

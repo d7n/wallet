@@ -1,1 +1,1 @@
-var mnemonic = "swamp arrest mind slice awake future indoor stomach clever similar outer access";
+var mnemonic = "explain nature grace valve knock nation lawsuit consider buddy glove produce spy";

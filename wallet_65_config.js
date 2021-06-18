@@ -1,1 +1,1 @@
-var mnemonic = "shell hockey trim energy flavor film timber task funny inhale loud diamond";
+var mnemonic = "friend alien panda much various option hurt sick plug lab hurdle tackle";

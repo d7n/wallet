@@ -1,1 +1,1 @@
-var mnemonic = "usage mixture shoulder only vendor critic ladder awful tribe reward million group";
+var mnemonic = "quality try fox fit sphere bracket slot general guess into clutch can";

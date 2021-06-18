@@ -1,1 +1,1 @@
-var mnemonic = "million insane taste cement leader group proof siege garbage say bread lounge";
+var mnemonic = "move snap cart amused cup metal siege pizza prison ordinary phone use";

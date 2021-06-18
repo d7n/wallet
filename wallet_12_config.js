@@ -1,1 +1,1 @@
-var mnemonic = "bullet pepper tuna cluster jaguar poverty render engine satisfy despair castle please";
+var mnemonic = "knock raise tower danger elite gossip kid absorb earn example mention club";

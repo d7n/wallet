@@ -1,1 +1,1 @@
-var mnemonic = "blast muscle cheese giraffe february mammal fringe share proof above mesh nation";
+var mnemonic = "gossip spare use around pupil club act twin flavor satoshi short exchange";

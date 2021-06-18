@@ -1,1 +1,1 @@
-var mnemonic = "open that public bring output extra manual average tower garbage soon column";
+var mnemonic = "safe code volume cloud industry trip canoe oven skill share margin truck";

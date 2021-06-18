@@ -1,1 +1,1 @@
-var mnemonic = "ensure caution utility shrimp sauce alcohol obscure vacant soon inflict giraffe patient";
+var mnemonic = "wonder auction unique crazy table music master movie casual decrease inspire final";

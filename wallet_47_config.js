@@ -1,1 +1,1 @@
-var mnemonic = "box cause mail steak orange swear cluster hood remove caught item sock";
+var mnemonic = "shuffle share oxygen else educate start clip affair mad quality want cereal";

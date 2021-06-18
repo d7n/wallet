@@ -1,1 +1,1 @@
-var mnemonic = "tube autumn lumber predict today habit plate display average wrist throw city";
+var mnemonic = "toy rule output divorce cube wrong squeeze soul senior kiwi network raven";

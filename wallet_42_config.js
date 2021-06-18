@@ -1,1 +1,1 @@
-var mnemonic = "ivory sock capital wish approve cry reveal tool clay license vocal reduce";
+var mnemonic = "chapter awesome safe ask tongue phone embrace movie top boring short moment";

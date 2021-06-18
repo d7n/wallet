@@ -1,1 +1,1 @@
-var mnemonic = "inside museum mixture comic gospel kitten little license cream olive exchange also";
+var mnemonic = "iron few vivid explain guess another mail crush scrap fluid miss shy";

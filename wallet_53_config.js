@@ -1,1 +1,1 @@
-var mnemonic = "exact before air grow borrow scare bar save inflict almost margin wolf";
+var mnemonic = "slot consider hood foam mushroom please avocado arctic demand inspire private whale";

@@ -1,1 +1,1 @@
-var mnemonic = "transfer kidney total clutch mansion place glass snow abandon behind sweet salute";
+var mnemonic = "era way burden clever enforce volcano clerk city fan whip rely endless";

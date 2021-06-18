@@ -1,1 +1,1 @@
-var mnemonic = "crisp potato broom boat color wise boost simple library short soup kiwi";
+var mnemonic = "limb enhance finger mistake all siren party panther voice blanket region error";

@@ -1,1 +1,1 @@
-var mnemonic = "path rare obscure master comic replace canoe key prevent bid cool supreme";
+var mnemonic = "enough lecture middle glad combine debate sound penalty bind flower vanish nothing";

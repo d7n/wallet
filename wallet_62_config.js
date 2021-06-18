@@ -1,1 +1,1 @@
-var mnemonic = "seven solid winner exercise royal armed dinosaur mistake cram idea size category";
+var mnemonic = "pigeon rubber mistake scatter glass loan congress element shiver mixture shield apple";

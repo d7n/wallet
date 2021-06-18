@@ -1,1 +1,1 @@
-var mnemonic = "joy symbol mistake banana copper cargo rather crystal dismiss warfare beach century";
+var mnemonic = "wink impulse bubble social math step wait dial butter key segment build";

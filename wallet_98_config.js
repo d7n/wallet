@@ -1,1 +1,1 @@
-var mnemonic = "fish emotion wasp tooth inject what visa noise raw viable ensure tell";
+var mnemonic = "marble key frequent slush phone foot child level twist gadget half cart";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare prize ketchup what eager hole school inquiry punch reveal color pattern";
+var mnemonic = "pizza below proud ability fiscal include nest engage curve stomach ankle leisure";

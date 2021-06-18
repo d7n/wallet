@@ -1,1 +1,1 @@
-var mnemonic = "general soon problem find crime submit orphan aspect clip health ancient network";
+var mnemonic = "fork frozen sort ritual valid jeans already toe fly focus cabin budget";

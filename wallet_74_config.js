@@ -1,1 +1,1 @@
-var mnemonic = "yard entire topic address spring conduct year quick mutual present under cereal";
+var mnemonic = "recipe expand album piano critic when brown assault eternal legal attitude inner";

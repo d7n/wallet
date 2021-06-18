@@ -1,1 +1,1 @@
-var mnemonic = "together cricket flavor smoke entire choice blossom amused razor mail install kit";
+var mnemonic = "sleep charge slush ladder regret civil mutual vote peasant cloth boil tribe";

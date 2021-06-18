@@ -1,1 +1,1 @@
-var mnemonic = "digital exercise minute boring nuclear weird secret sheriff spread chair piece segment";
+var mnemonic = "begin strike broccoli butter hawk fall earn appear grow boring traffic shell";

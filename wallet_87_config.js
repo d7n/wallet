@@ -1,1 +1,1 @@
-var mnemonic = "clown spy eye hazard nominee jeans trade strategy hurry car purpose spoil";
+var mnemonic = "soccer ancient vague skin multiply hint also good bicycle bomb daring toward";

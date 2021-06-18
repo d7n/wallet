@@ -1,1 +1,1 @@
-var mnemonic = "census actor ski also display brave peace process volcano flash device drop";
+var mnemonic = "air until peace survey flower project climb wrist bag pen height cross";

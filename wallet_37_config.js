@@ -1,1 +1,1 @@
-var mnemonic = "brave that mistake artist arena slush ozone ranch letter neck come voyage";
+var mnemonic = "mix able label glory diesel hurry space marine spot adult shoulder fault";

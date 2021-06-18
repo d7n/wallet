@@ -1,1 +1,1 @@
-var mnemonic = "stable open calm grape inhale result poem green route rebel exhibit siege";
+var mnemonic = "worry another prevent label clarify useful work echo depth intact matter gossip";

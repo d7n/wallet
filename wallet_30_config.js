@@ -1,1 +1,1 @@
-var mnemonic = "dish problem other apology sign repeat admit place clutch fit slush all";
+var mnemonic = "clump begin priority shadow human play lucky fluid ecology usual pact inch";

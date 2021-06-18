@@ -1,1 +1,1 @@
-var mnemonic = "spin mushroom sword small clog mimic elegant bottom country dice expire blame";
+var mnemonic = "prepare air glare message toy idea aim congress jeans submit whisper brave";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum snap novel regular jelly frost rocket antenna mimic bullet depth spend";
+var mnemonic = "symbol giant segment sick example either distance often file skate announce area";

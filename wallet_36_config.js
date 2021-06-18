@@ -1,1 +1,1 @@
-var mnemonic = "face crouch person true salute inmate thank age mask syrup shed pair";
+var mnemonic = "course fog learn match gym you jewel domain hope panther sunny super";

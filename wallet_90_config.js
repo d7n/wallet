@@ -1,1 +1,1 @@
-var mnemonic = "pink same inch click debate scare knock museum aware toward critic seed";
+var mnemonic = "lawsuit page chest father flee range brother toilet frost can rude refuse";

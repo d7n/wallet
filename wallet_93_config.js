@@ -1,1 +1,1 @@
-var mnemonic = "gasp aunt wreck program prevent visa visit biology master small tide trash";
+var mnemonic = "budget blush ski theme soup lawn butter husband cabin spare chaos comic";

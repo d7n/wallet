@@ -1,1 +1,1 @@
-var mnemonic = "size afford wait edit mixture render onion cricket shrug pottery sort extend";
+var mnemonic = "message dream cruel little arch glare onion pilot slim dream topic tell";

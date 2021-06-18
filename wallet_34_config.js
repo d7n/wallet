@@ -1,1 +1,1 @@
-var mnemonic = "side screen cinnamon differ walk appear search auction horror vibrant roast uniform";
+var mnemonic = "six venue wish below will hobby robot guilt plug awake nerve riot";

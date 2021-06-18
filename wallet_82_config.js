@@ -1,1 +1,1 @@
-var mnemonic = "year hawk remember sketch crucial affair admit alarm cry vivid congress social";
+var mnemonic = "memory affair cube seven base scheme own about cattle web panel attitude";
