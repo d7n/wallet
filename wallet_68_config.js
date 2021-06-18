@@ -1,1 +1,1 @@
-var mnemonic = "rotate ahead slush method crop auto share level dream gather change media";
+var mnemonic = "hurt current stumble miss drink wild airport drama sentence upgrade history march";

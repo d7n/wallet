@@ -1,1 +1,1 @@
-var mnemonic = "express diary palm banana silly hotel refuse excuse profit census pink double";
+var mnemonic = "bracket tape birth lab rescue poem coral liberty seven frequent abuse juice";

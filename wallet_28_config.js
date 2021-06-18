@@ -1,1 +1,1 @@
-var mnemonic = "marble trip amazing such quote rich funny toast flash welcome enlist tag";
+var mnemonic = "flame infant gesture chicken state mean such forget pill cream slush repair";

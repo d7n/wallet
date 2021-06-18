@@ -1,1 +1,1 @@
-var mnemonic = "empty pave silly switch section praise space lend stock aspect music powder";
+var mnemonic = "robot wear vanish gallery hip dumb buddy hundred welcome glass limit tissue";

@@ -1,1 +1,1 @@
-var mnemonic = "atom tomorrow arrange brand enact cross sunset bullet humble fragile weasel light";
+var mnemonic = "solar mean hub license execute return situate this tongue embody rule pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "fury dream fever boil gloom note cake mercy future item decrease inmate";
+var mnemonic = "forward casual clarify way fall crop radar pupil entry junior film seek";

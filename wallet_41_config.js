@@ -1,1 +1,1 @@
-var mnemonic = "grape label tumble rely follow garden thing repeat start father express face";
+var mnemonic = "dumb scorpion ostrich muscle room fortune retreat ice aerobic doctor hidden parrot";

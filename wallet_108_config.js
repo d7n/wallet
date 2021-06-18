@@ -1,1 +1,1 @@
-var mnemonic = "play airport purse border emotion market rare normal bean clarify parrot long";
+var mnemonic = "test chuckle certain custom pitch real much clever box group galaxy sound";

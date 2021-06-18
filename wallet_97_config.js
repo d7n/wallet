@@ -1,1 +1,1 @@
-var mnemonic = "utility movie unit merry sorry enact screen dinner nephew weird stuff sense";
+var mnemonic = "glare april stand fork fatigue assault layer party woman artwork solar candy";

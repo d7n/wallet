@@ -1,1 +1,1 @@
-var mnemonic = "decorate secret learn twin latin warrior phrase parade mail book shove afford";
+var mnemonic = "box theme gadget purchase language dismiss ancient entire ski kidney eternal village";

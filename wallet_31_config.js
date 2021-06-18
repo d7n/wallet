@@ -1,1 +1,1 @@
-var mnemonic = "discover tuition false offer moment noodle thumb slogan outside elegant there budget";
+var mnemonic = "predict turkey spend zone become image text skate pupil winner humble digital";

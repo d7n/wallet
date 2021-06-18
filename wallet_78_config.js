@@ -1,1 +1,1 @@
-var mnemonic = "original hello protect manual attract source famous tiger test city vague endless";
+var mnemonic = "spare primary enter act delay push fence cement ocean grace inner fog";

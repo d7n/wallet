@@ -1,1 +1,1 @@
-var mnemonic = "kiwi advance warrior six film address mercy motion sentence moment stamp mistake";
+var mnemonic = "cloud edge genuine forward lunch relief tired fat crunch smoke bullet easy";

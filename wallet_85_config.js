@@ -1,1 +1,1 @@
-var mnemonic = "rose nephew picture pitch crop priority blind mother danger foster guitar wide";
+var mnemonic = "ivory author snap load harbor bar twist story blood clinic metal boil";

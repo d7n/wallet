@@ -1,1 +1,1 @@
-var mnemonic = "boat increase offer hand give gain drastic view ancient lock bacon company";
+var mnemonic = "category slow arm faculty pet clean embark number advice monitor list rib";

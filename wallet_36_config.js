@@ -1,1 +1,1 @@
-var mnemonic = "venue fog because popular dance anger total rich reduce rack portion pledge";
+var mnemonic = "congress person ready goddess funny elder guard dilemma such person nice ostrich";

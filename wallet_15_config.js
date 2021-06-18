@@ -1,1 +1,1 @@
-var mnemonic = "battle cabin exclude dentist action pulse chase bubble crush picture manage better";
+var mnemonic = "tourist dwarf soap vital faith trial evolve able swamp advice feed defense";

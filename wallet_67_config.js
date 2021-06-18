@@ -1,1 +1,1 @@
-var mnemonic = "card creek public quarter sentence liar canal expose cake loud boat learn";
+var mnemonic = "aerobic crystal online make churn expand man trophy steak confirm patrol devote";

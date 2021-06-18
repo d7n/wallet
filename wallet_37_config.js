@@ -1,1 +1,1 @@
-var mnemonic = "little broccoli vibrant poem mask thank coconut arch card sight seven suffer";
+var mnemonic = "school cause flower ladder panic mom drill kangaroo theory earn clever build";

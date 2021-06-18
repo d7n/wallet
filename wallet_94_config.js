@@ -1,1 +1,1 @@
-var mnemonic = "knock blue empower grass stand high arrange prevent obtain end extra cactus";
+var mnemonic = "engage unusual foot type hazard round snake surround rural loan across spawn";

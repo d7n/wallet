@@ -1,1 +1,1 @@
-var mnemonic = "afraid figure find paper world renew easily stairs cotton obvious unusual hip";
+var mnemonic = "supreme sniff table mixed body host essay consider aunt shoe gold unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage black ivory inside want when aim pony evolve pave glass video";
+var mnemonic = "useful ill shoe tiny garbage decline sick street rude prefer weapon decide";

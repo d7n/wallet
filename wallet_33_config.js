@@ -1,1 +1,1 @@
-var mnemonic = "capital visual puppy bring brother essence custom topic vapor chaos decline abuse";
+var mnemonic = "sing sunset repair hope royal match observe gospel crumble neither spend furnace";

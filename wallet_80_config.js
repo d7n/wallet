@@ -1,1 +1,1 @@
-var mnemonic = "proud spin hello floor trumpet dress thumb boss mammal basket script mail";
+var mnemonic = "toy special reward almost cliff blanket disease allow shell baby destroy negative";

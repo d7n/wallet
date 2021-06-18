@@ -1,1 +1,1 @@
-var mnemonic = "october around spoil front require track nose undo fiscal despair become cricket";
+var mnemonic = "olive glad arena noble squirrel legal response silk control fold gain syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder better about right lawn prison just doll buzz weasel weasel grant";
+var mnemonic = "cement tornado annual menu lottery minute people ill knee average addict adapt";

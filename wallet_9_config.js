@@ -1,1 +1,1 @@
-var mnemonic = "vintage rigid economy garage cloud blue discover intact document stool sister basic";
+var mnemonic = "dawn van physical shadow cradle layer wrap cram remove equal pencil zoo";

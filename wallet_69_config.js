@@ -1,1 +1,1 @@
-var mnemonic = "absurd boil surprise super right topic top rhythm gift ramp cupboard penalty";
+var mnemonic = "learn bonus mutual miracle yellow stumble any wear fabric alpha reform speed";

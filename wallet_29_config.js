@@ -1,1 +1,1 @@
-var mnemonic = "volcano music mask spin slice love circle climb enforce obey elbow program";
+var mnemonic = "enter palm march icon crouch sing lock reform table network life vivid";

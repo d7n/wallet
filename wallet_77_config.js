@@ -1,1 +1,1 @@
-var mnemonic = "inner trash symptom bid equip cover cross pond seek enough hip question";
+var mnemonic = "coach state any advance modify bottom drink awful boost symptom together giggle";

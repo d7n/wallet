@@ -1,1 +1,1 @@
-var mnemonic = "carbon lyrics hungry slush few swallow roast danger dawn spell bone win";
+var mnemonic = "denial seed inhale half pipe polar pet zone acoustic main pink spawn";

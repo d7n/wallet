@@ -1,1 +1,1 @@
-var mnemonic = "assist concert noodle echo digital crew skull bar talent behave twist cram";
+var mnemonic = "corn senior adult grow artwork demand force hello limb lunar permit subway";

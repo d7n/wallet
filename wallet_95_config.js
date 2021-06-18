@@ -1,1 +1,1 @@
-var mnemonic = "sphere soccer swarm inject model worth gallery detect slight bubble medal antenna";
+var mnemonic = "farm write oak valve aim ensure rapid spoon seven oblige puppy resemble";

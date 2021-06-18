@@ -1,1 +1,1 @@
-var mnemonic = "piece summer camp delay siren unfair inspire perfect level close insect tip";
+var mnemonic = "reunion admit enable raven inner inform clutch heavy benefit oak adult stable";

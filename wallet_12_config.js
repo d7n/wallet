@@ -1,1 +1,1 @@
-var mnemonic = "tunnel planet live item kick discover claim ill connect because chapter shadow";
+var mnemonic = "rubber profit math harvest local leopard benefit grief grit hunt payment cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "bird focus fork goddess crumble uncle girl wage forward artefact issue toddler";
+var mnemonic = "cup base evoke kind olive warm weapon cash hotel chef harbor essay";

@@ -1,1 +1,1 @@
-var mnemonic = "only silent pluck vintage whip genius fame corn glue embrace ride diagram";
+var mnemonic = "symptom merit idle quality click gallery patrol bind plunge coffee attract wolf";

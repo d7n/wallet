@@ -1,1 +1,1 @@
-var mnemonic = "dynamic ecology motion maid sail trigger strike remind fresh talent anchor rally";
+var mnemonic = "trend artist polar emerge almost stock salon express render crew depend nerve";

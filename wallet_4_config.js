@@ -1,1 +1,1 @@
-var mnemonic = "cup sunset void arm west energy inflict despair soon august kidney act";
+var mnemonic = "vast recall stone exercise hole wealth machine elbow uphold one update stone";

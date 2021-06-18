@@ -1,1 +1,1 @@
-var mnemonic = "now room pact genuine ship jeans universe joke air lucky food crop";
+var mnemonic = "debris gadget miracle heavy bright glimpse slide rose long dignity kind picnic";

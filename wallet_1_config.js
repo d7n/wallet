@@ -1,1 +1,1 @@
-var mnemonic = "cake pilot water hurt focus glimpse tape debate chaos gravity catalog section";
+var mnemonic = "law finish river current paper unveil text horror avocado describe cycle maid";

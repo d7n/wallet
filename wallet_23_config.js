@@ -1,1 +1,1 @@
-var mnemonic = "funny twelve vivid pool pipe diary insane know around bag ahead soft";
+var mnemonic = "elegant hawk swamp select tiger deer animal retire alley dose trumpet tone";

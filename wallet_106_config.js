@@ -1,1 +1,1 @@
-var mnemonic = "shield elite replace weird right flame network fragile miss picture garbage abstract";
+var mnemonic = "affair dwarf soccer parent film regular hunt possible bottom idea desert indicate";

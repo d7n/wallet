@@ -1,1 +1,1 @@
-var mnemonic = "donor anxiety nut ask elephant issue vehicle curious thrive mutual steak economy";
+var mnemonic = "old desert current drum credit split hello shift negative before ethics small";

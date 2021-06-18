@@ -1,1 +1,1 @@
-var mnemonic = "boring clutch churn sustain lesson little marble order embark admit face leave";
+var mnemonic = "turn census acquire marriage hire arrow sniff panel fever illness tornado divert";

@@ -1,1 +1,1 @@
-var mnemonic = "wear dentist trade chimney depend then sausage polar hurt embark near sheriff";
+var mnemonic = "above yellow quit reopen vintage wolf spirit board cup furnace mammal minor";

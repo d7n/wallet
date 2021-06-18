@@ -1,1 +1,1 @@
-var mnemonic = "solve time fortune lift blush tone orphan crack round eager rifle entry";
+var mnemonic = "mask call damage original still desert smoke silent dignity unfair defy capital";

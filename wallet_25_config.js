@@ -1,1 +1,1 @@
-var mnemonic = "famous turkey area laptop loud deputy team inform alarm budget farm tackle";
+var mnemonic = "vessel pottery essence matter fashion uniform letter obtain quiz beauty flavor hat";

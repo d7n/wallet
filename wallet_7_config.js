@@ -1,1 +1,1 @@
-var mnemonic = "top resemble gospel patrol style surge shuffle range lamp mutual bless chef";
+var mnemonic = "stove couple govern raw toward crash lounge radar soft razor dentist weasel";

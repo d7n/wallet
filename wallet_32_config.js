@@ -1,1 +1,1 @@
-var mnemonic = "drop point link else crumble acoustic charge ozone april alcohol build canoe";
+var mnemonic = "frequent pudding duck history account net drum genre raise theme member crazy";

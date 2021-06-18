@@ -1,1 +1,1 @@
-var mnemonic = "clutch project seed access sibling bargain screen unhappy nerve donor fan eye";
+var mnemonic = "taxi derive orchard firm circle flock nerve joy wink rain shield agree";

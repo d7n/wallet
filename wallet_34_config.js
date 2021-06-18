@@ -1,1 +1,1 @@
-var mnemonic = "topic office swamp situate young harbor zone detail since chef human outer";
+var mnemonic = "tag believe vendor relief message gravity west fever scrap census wrestle noodle";

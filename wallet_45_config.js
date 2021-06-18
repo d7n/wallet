@@ -1,1 +1,1 @@
-var mnemonic = "scheme innocent tool pottery sting problem coast hurt firm crater sausage fame";
+var mnemonic = "sword alpha once equip silver sail allow hard before vital public inspire";

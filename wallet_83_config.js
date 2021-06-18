@@ -1,1 +1,1 @@
-var mnemonic = "forget minor race mammal glove festival deliver ostrich rough grass luxury yellow";
+var mnemonic = "charge security useful path miracle lyrics try tumble picture mask begin carbon";

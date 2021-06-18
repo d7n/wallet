@@ -1,1 +1,1 @@
-var mnemonic = "zone lizard ride game rebel enemy lady waste agree enlist carbon loud";
+var mnemonic = "fatigue gossip property gospel exist guide toss street demise lava work decorate";

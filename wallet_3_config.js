@@ -1,1 +1,1 @@
-var mnemonic = "gate model key exile ready fat awesome dinner cake flight royal blood";
+var mnemonic = "champion pole noble excess pave boil lion toast frog solid allow bracket";

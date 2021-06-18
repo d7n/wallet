@@ -1,1 +1,1 @@
-var mnemonic = "toe unfair verify metal real waste height demise diet lamp love stone";
+var mnemonic = "staff amount convince deposit street surround flock robust detail plate damage spawn";

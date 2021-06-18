@@ -1,1 +1,1 @@
-var mnemonic = "escape olympic grab liar job soda lake rare misery news assist coast";
+var mnemonic = "mixture escape beyond broken breeze slim shift rigid warfare van loyal pulse";

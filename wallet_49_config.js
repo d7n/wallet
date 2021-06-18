@@ -1,1 +1,1 @@
-var mnemonic = "sign wasp doll grain swallow gadget clerk actual vacuum knife release pulse";
+var mnemonic = "unknown toilet body wish thing practice bid divide void undo belt review";

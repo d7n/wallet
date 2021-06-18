@@ -1,1 +1,1 @@
-var mnemonic = "meadow pass develop radar junk output purchase paddle dial test dismiss business";
+var mnemonic = "vapor give pattern network habit moral taxi vast super service clog weapon";

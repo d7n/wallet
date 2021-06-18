@@ -1,1 +1,1 @@
-var mnemonic = "have spread phone hungry math drive blood boost entry fuel essay zero";
+var mnemonic = "sure race jealous this pig agree trim middle wash vast defense tennis";

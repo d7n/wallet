@@ -1,1 +1,1 @@
-var mnemonic = "gaze swing gold power glue alarm spring job asthma beyond pluck stadium";
+var mnemonic = "cat pride invite hill inflict canoe cloud board pear also cousin hip";

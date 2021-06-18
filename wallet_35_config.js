@@ -1,1 +1,1 @@
-var mnemonic = "eagle false plastic garden pluck march tide lawn useful horror traffic moon";
+var mnemonic = "exercise grant honey rib vacuum stereo cotton stumble come custom lounge disagree";

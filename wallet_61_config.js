@@ -1,1 +1,1 @@
-var mnemonic = "caution wrestle foil resource vacuum inject boss danger fabric normal nature extend";
+var mnemonic = "chief absorb often eyebrow put approve echo key original often horse busy";

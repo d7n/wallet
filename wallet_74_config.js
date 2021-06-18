@@ -1,1 +1,1 @@
-var mnemonic = "sell chat kidney island spike alone butter side distance token library poem";
+var mnemonic = "exile monkey memory mule poem soldier escape wrap baby rebuild aspect sibling";

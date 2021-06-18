@@ -1,1 +1,1 @@
-var mnemonic = "fuel area layer reunion volcano soon sniff view right gym trial orange";
+var mnemonic = "call there glow dwarf alone curve slush fire amazing fan gaze coast";

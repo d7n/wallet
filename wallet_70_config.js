@@ -1,1 +1,1 @@
-var mnemonic = "degree festival favorite alter ignore creek crater slam dune envelope nothing possible";
+var mnemonic = "zebra crisp breeze hold panic hungry awesome stove palace rhythm step napkin";

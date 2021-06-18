@@ -1,1 +1,1 @@
-var mnemonic = "dumb sword minimum renew cliff razor tray thumb give robust vacant fish";
+var mnemonic = "opinion gym cousin cake snake electric include exhibit walk merge salon butter";

@@ -1,1 +1,1 @@
-var mnemonic = "rude sketch neither suffer during squeeze lumber income month actress cradle number";
+var mnemonic = "receive major nose brush sell police runway before cushion chicken flavor reunion";

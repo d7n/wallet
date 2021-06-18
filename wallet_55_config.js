@@ -1,1 +1,1 @@
-var mnemonic = "draw brass level body say treat this weird memory wool smooth drastic";
+var mnemonic = "bread embody case pear slam leaf human nose treat retire goddess follow";

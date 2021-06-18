@@ -1,1 +1,1 @@
-var mnemonic = "unique skill deal wife cherry velvet exist bag select engage light orphan";
+var mnemonic = "federal furnace judge wide buyer nose base cook midnight jar erase student";

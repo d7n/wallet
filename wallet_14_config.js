@@ -1,1 +1,1 @@
-var mnemonic = "fitness word capable curtain muffin daring demise apart jaguar bus grunt omit";
+var mnemonic = "patch mobile claw actor below vanish destroy term neglect index success acquire";

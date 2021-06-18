@@ -1,1 +1,1 @@
-var mnemonic = "brick evoke robust frog giraffe rhythm pyramid cage ahead erode crowd holiday";
+var mnemonic = "predict better river ribbon staff embody pretty clutch awkward define zone engine";

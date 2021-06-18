@@ -1,1 +1,1 @@
-var mnemonic = "culture view can wrist nephew asthma flavor miracle gather quality satoshi more";
+var mnemonic = "excuse cram fossil glide animal inner abandon absurd option draft never assist";

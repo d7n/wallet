@@ -1,1 +1,1 @@
-var mnemonic = "ocean stuff laugh knock demise uniform lyrics ticket special pet awkward shrug";
+var mnemonic = "ensure winner hope offer outdoor tell ethics electric rabbit magnet bench mimic";

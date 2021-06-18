@@ -1,1 +1,1 @@
-var mnemonic = "almost adult main husband dial below jacket pioneer search sunny wolf daughter";
+var mnemonic = "grid siege frog record upon shove gift desert bless dirt virus vault";

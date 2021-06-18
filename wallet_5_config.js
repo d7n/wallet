@@ -1,1 +1,1 @@
-var mnemonic = "awake cable bamboo rocket twelve prevent people place curve just fatal anger";
+var mnemonic = "reject half blue face consider skill thunder neutral twist day blood flee";

@@ -1,1 +1,1 @@
-var mnemonic = "what mask erode stool arch layer topic tent domain cherry spy inspire";
+var mnemonic = "foam shadow crew series sell innocent raise gasp about bottom expire tower";

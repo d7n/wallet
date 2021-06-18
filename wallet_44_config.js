@@ -1,1 +1,1 @@
-var mnemonic = "design trust day year elder typical yard similar lawn harsh grace tenant";
+var mnemonic = "dwarf earn sail collect purity slight sand path warfare visual reopen fever";

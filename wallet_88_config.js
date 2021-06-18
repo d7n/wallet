@@ -1,1 +1,1 @@
-var mnemonic = "stone choose mean they popular grace trick pattern canal envelope swim always";
+var mnemonic = "actress trial market wasp fuel matrix select fix heart seminar survey water";

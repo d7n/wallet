@@ -1,1 +1,1 @@
-var mnemonic = "talk naive river cave meat prevent rapid people normal average ranch breeze";
+var mnemonic = "volume picnic clip shuffle train brick boil collect obtain choice ranch please";

@@ -1,1 +1,1 @@
-var mnemonic = "average taste goat industry mechanic camera panda head glue horse draft fade";
+var mnemonic = "inquiry stem proud dutch relief water drill sample zone trumpet way uncle";

@@ -1,1 +1,1 @@
-var mnemonic = "urge return real future shadow whip friend mention crop shadow hover vote";
+var mnemonic = "alcohol subway neutral yard wait drama width myth resist level useless okay";

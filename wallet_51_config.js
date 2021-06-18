@@ -1,1 +1,1 @@
-var mnemonic = "tortoise inch vintage unaware admit keen kiss utility random pepper frame december";
+var mnemonic = "fresh flip card various solution law harvest jewel garment uniform album hire";

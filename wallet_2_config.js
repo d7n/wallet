@@ -1,1 +1,1 @@
-var mnemonic = "text blind under family ensure clutch inflict pyramid limit cargo piece memory";
+var mnemonic = "recall cabbage illegal brand subject return rare oyster history noodle innocent fault";

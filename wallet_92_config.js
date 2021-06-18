@@ -1,1 +1,1 @@
-var mnemonic = "bunker close addict believe slush bottom differ entry gesture unusual wisdom diagram";
+var mnemonic = "elegant maid clay charge keen rib upgrade glass outside stadium rigid crouch";

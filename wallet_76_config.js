@@ -1,1 +1,1 @@
-var mnemonic = "energy puzzle ramp satoshi twelve level collect fix notable stand interest shell";
+var mnemonic = "damp run gate tower gesture total alley fortune problem correct pride other";
