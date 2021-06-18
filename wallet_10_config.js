@@ -1,1 +1,1 @@
-var mnemonic = "pottery shrug drift oxygen sunny juice ceiling original wave govern bleak make";
+var mnemonic = "screen item awkward say small square online rocket margin unable vapor panther";

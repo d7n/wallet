@@ -1,1 +1,1 @@
-var mnemonic = "fade square eagle inhale wheel spider cattle ball leave bounce blanket all";
+var mnemonic = "post unable sniff canvas parrot body middle infant manage twelve cabin gain";

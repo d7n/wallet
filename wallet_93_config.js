@@ -1,1 +1,1 @@
-var mnemonic = "escape estate female attack film slight piano parade abandon crop just file";
+var mnemonic = "merge execute ribbon canoe pumpkin manual august shrimp company bench muscle school";

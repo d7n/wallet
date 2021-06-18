@@ -1,1 +1,1 @@
-var mnemonic = "found fiscal budget solve consider weekend able twin view bottom come lion";
+var mnemonic = "mercy library confirm vanish say dignity height output near smoke trust surge";

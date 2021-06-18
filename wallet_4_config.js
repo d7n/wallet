@@ -1,1 +1,1 @@
-var mnemonic = "pitch van kangaroo run post liberty toy pave dragon open junior fringe";
+var mnemonic = "rhythm tent inspire carpet subject velvet indoor mesh skate rely blue excite";

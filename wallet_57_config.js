@@ -1,1 +1,1 @@
-var mnemonic = "express bomb good young cupboard fade purpose friend boil arena flavor grow";
+var mnemonic = "avoid ocean tone water shiver mutual crater then debris sudden gown cereal";

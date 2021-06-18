@@ -1,1 +1,1 @@
-var mnemonic = "pulp divert coast torch grit okay pony rule emerge panel middle brave";
+var mnemonic = "start myth address alert test taxi rule lake vault snake source angry";

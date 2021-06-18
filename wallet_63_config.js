@@ -1,1 +1,1 @@
-var mnemonic = "aware horse radio pizza rural scene reform core cherry observe grape broom";
+var mnemonic = "wood annual friend satoshi vault giraffe notable supply include canyon enforce egg";

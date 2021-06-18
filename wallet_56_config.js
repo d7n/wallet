@@ -1,1 +1,1 @@
-var mnemonic = "hidden orphan maid flee raccoon weather globe second brush immense vivid left";
+var mnemonic = "robot payment cart tired symbol icon guard calm between pupil strong account";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur write bicycle head woman language other right cool salute lawn video";
+var mnemonic = "cement truth lock over design butter region shallow tone cabbage proud cute";

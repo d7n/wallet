@@ -1,1 +1,1 @@
-var mnemonic = "output bonus gloom weekend umbrella shrug toddler auto save estate comic butter";
+var mnemonic = "flight tired project appear muffin unknown analyst believe select crack convince strong";

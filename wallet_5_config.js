@@ -1,1 +1,1 @@
-var mnemonic = "razor depend sniff toddler cinnamon fuel response chair skate knee gentle sleep";
+var mnemonic = "prefer sugar punch find umbrella spin sport obvious twist follow refuse light";

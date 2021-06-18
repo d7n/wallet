@@ -1,1 +1,1 @@
-var mnemonic = "chapter broccoli spring alarm code raccoon taste actor six silk toward display";
+var mnemonic = "win inner screen chaos crew text flock pluck depth lazy major neutral";

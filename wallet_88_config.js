@@ -1,1 +1,1 @@
-var mnemonic = "current favorite danger toss vacant stomach mesh unknown nation purity crush dragon";
+var mnemonic = "practice sunny smooth hurry anger slice charge advice cancel soap trigger assault";

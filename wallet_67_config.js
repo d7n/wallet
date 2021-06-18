@@ -1,1 +1,1 @@
-var mnemonic = "involve rookie aunt shoe puppy soon screen climb phone common such shoot";
+var mnemonic = "nut nephew half few option rabbit tenant height boy still double casino";

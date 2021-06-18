@@ -1,1 +1,1 @@
-var mnemonic = "foam train easy mule ivory such under flag gloom present pencil energy";
+var mnemonic = "open dance tragic subject once peace usual toss soft mandate grace spend";

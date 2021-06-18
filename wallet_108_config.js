@@ -1,1 +1,1 @@
-var mnemonic = "sun swap tooth maximum decrease eye melt motor release captain bless scatter";
+var mnemonic = "thing enact quit fault kid violin crack expand relax exclude right juice";

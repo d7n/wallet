@@ -1,1 +1,1 @@
-var mnemonic = "route visual pizza expose couch tape vacant sign immense canoe mountain zero";
+var mnemonic = "strategy meadow clip vague hip latin diet viable elephant journey settle provide";

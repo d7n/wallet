@@ -1,1 +1,1 @@
-var mnemonic = "swarm auction exile unusual liar cost card cotton winter income good outside";
+var mnemonic = "exhibit end tube lift night target tennis wealth inner avoid style deputy";

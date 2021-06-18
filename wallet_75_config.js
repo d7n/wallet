@@ -1,1 +1,1 @@
-var mnemonic = "panel valley ability hundred modify egg term luxury awesome luxury sponsor spell";
+var mnemonic = "defy illness dove outside reason spend saddle flame hotel million nothing law";

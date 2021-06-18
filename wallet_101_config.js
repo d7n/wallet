@@ -1,1 +1,1 @@
-var mnemonic = "wet exhibit exact picnic innocent tower fly alien act film tide left";
+var mnemonic = "sudden turn clown wise success hurt bounce merge sleep law rubber when";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze enemy describe bachelor cancel wealth foster insane empower fit series feel";
+var mnemonic = "high voyage idle way lawsuit bomb venue rain bonus decorate find relax";

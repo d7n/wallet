@@ -1,1 +1,1 @@
-var mnemonic = "turtle october choose very faculty alien soup this surge viable pigeon gaze";
+var mnemonic = "blanket wheel craft client west plastic eternal lemon type ankle mother hamster";

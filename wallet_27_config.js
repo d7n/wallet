@@ -1,1 +1,1 @@
-var mnemonic = "lamp august cushion meat green index wisdom dumb noise mandate property reflect";
+var mnemonic = "wreck pioneer bundle impose shallow offer apart evil zero circle spray leaf";

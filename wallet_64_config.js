@@ -1,1 +1,1 @@
-var mnemonic = "recycle must purchase minute mother profit rocket nothing feel soccer click such";
+var mnemonic = "host person quiz wage enhance link hole advance dash door denial warfare";

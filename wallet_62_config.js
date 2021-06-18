@@ -1,1 +1,1 @@
-var mnemonic = "film couple burger gorilla strike icon consider obscure jump cushion taste girl";
+var mnemonic = "ready tongue achieve typical program tobacco brass hope decorate slab child cement";

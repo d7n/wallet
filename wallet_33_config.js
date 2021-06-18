@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon globe remember shy boss jacket grain stock door happy drastic excess";
+var mnemonic = "concert shell buddy dilemma guard dirt slush cabin theory swift castle rural";

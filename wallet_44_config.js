@@ -1,1 +1,1 @@
-var mnemonic = "denial note always kitten barrel tone wrong guilt gift today evoke kitchen";
+var mnemonic = "barely chair ill busy patrol medal bread snap tennis subject rally wire";

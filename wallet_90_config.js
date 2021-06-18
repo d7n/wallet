@@ -1,1 +1,1 @@
-var mnemonic = "popular inspire prepare laugh prevent local benefit vast green mail answer space";
+var mnemonic = "crush pencil endorse trial female pottery zero kitchen settle pipe concert sand";

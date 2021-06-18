@@ -1,1 +1,1 @@
-var mnemonic = "frame icon census praise penalty evidence surge toilet congress during column city";
+var mnemonic = "anger pretty name true physical clock snow until target neglect depart gospel";

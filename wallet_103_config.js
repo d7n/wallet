@@ -1,1 +1,1 @@
-var mnemonic = "chuckle tragic battle surround kick pizza isolate brown cheese icon desk seek";
+var mnemonic = "version when void artefact symptom meadow spend neglect stuff glass rival once";

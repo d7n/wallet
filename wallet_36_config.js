@@ -1,1 +1,1 @@
-var mnemonic = "later motion safe bitter soda fantasy federal fade lounge metal panther phrase";
+var mnemonic = "relax item stand organ strike fashion maze scan injury neglect adult tree";

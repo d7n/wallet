@@ -1,1 +1,1 @@
-var mnemonic = "around invest hurt love develop fiction approve solar globe seat category sail";
+var mnemonic = "wire animal small entry salon term what humble security broken replace journey";

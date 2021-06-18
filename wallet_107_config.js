@@ -1,1 +1,1 @@
-var mnemonic = "reveal dial amateur robot lizard roast stage inspire burger pink fitness omit";
+var mnemonic = "soup accuse letter cluster canoe moment airport impulse cigar foam squirrel brother";

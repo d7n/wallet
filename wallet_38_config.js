@@ -1,1 +1,1 @@
-var mnemonic = "again rebel spice dad people churn tuna cat oxygen any random conduct";
+var mnemonic = "tiger father ahead vendor paddle master deal solid benefit such grit midnight";

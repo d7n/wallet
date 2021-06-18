@@ -1,1 +1,1 @@
-var mnemonic = "bulb usage door dentist faculty water manage cause yard void list swamp";
+var mnemonic = "annual owner advance slim inform version absent post clock bundle arrive nephew";

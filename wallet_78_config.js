@@ -1,1 +1,1 @@
-var mnemonic = "simple matrix food extend own labor shell chicken harvest shoe biology flash";
+var mnemonic = "hotel sugar wrong disorder inject devote omit garage oppose alcohol silver kingdom";

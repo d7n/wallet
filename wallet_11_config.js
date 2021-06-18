@@ -1,1 +1,1 @@
-var mnemonic = "ability useful amateur swim six flash neither demise private major dress easy";
+var mnemonic = "festival mountain wreck remember estate tomato universe gesture food charge extend nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "flat canal uncover rug region vicious erase series shock rather wink shy";
+var mnemonic = "business month grace swallow fluid like avocado fox discover six cloud recycle";

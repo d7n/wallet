@@ -1,1 +1,1 @@
-var mnemonic = "cigar approve globe juice casual gather ten video submit follow permit already";
+var mnemonic = "bring tornado control brass unusual dragon menu claim broccoli uniform gauge rice";

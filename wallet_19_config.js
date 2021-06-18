@@ -1,1 +1,1 @@
-var mnemonic = "gasp train ill network author nose torch garlic twist screen mix merit";
+var mnemonic = "injury chronic athlete wet hip tenant pilot apart plunge double nothing nothing";

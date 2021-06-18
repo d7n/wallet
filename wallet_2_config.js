@@ -1,1 +1,1 @@
-var mnemonic = "agree bulb east pencil athlete cheese scatter still thing dinosaur aspect hamster";
+var mnemonic = "stamp squeeze donor mouse much analyst pigeon leader useful tone runway old";

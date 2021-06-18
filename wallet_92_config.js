@@ -1,1 +1,1 @@
-var mnemonic = "type stomach jungle urban board observe another window fish still pencil vicious";
+var mnemonic = "canoe tent desert glance setup hope always swear thunder brain prison dawn";

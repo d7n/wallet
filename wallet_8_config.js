@@ -1,1 +1,1 @@
-var mnemonic = "tired hundred luggage team aerobic door gospel endorse exile wife surprise orchard";
+var mnemonic = "jacket enough farm clinic slight lemon release remain afford unaware blast artwork";

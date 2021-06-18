@@ -1,1 +1,1 @@
-var mnemonic = "arrange decrease mask blanket fitness deer derive remember soda casual fruit taste";
+var mnemonic = "balance average apple castle travel language result scale clown deposit joke tape";

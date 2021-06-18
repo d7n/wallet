@@ -1,1 +1,1 @@
-var mnemonic = "depart want hour wish verb scale crazy chuckle glove energy cabbage act";
+var mnemonic = "copy brain flee cereal extend smart inject cube portion depart skirt cry";

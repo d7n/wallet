@@ -1,1 +1,1 @@
-var mnemonic = "buzz range behave weather double unhappy letter impact eagle cycle energy student";
+var mnemonic = "will carpet adjust radar float view infant category order review mad cattle";

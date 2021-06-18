@@ -1,1 +1,1 @@
-var mnemonic = "draft fetch theme oil property grace program tenant measure speed wife citizen";
+var mnemonic = "garbage vocal narrow awful infant ability page net forward oxygen cricket also";

@@ -1,1 +1,1 @@
-var mnemonic = "barely idea sister width magic long cancel abuse pull bounce elite grocery";
+var mnemonic = "cave knife ticket door urge wave top donate daughter eight grocery spend";

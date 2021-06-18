@@ -1,1 +1,1 @@
-var mnemonic = "maple citizen develop view choose salt indoor insect neglect spring wrist gauge";
+var mnemonic = "link session kangaroo trouble screen summer mansion gravity shop best patient abstract";

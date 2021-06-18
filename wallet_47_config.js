@@ -1,1 +1,1 @@
-var mnemonic = "atom estate order bacon roof duck garbage cushion unusual coil bring bundle";
+var mnemonic = "ceiling unusual aim vibrant camp rich dose unfold risk boring spare matrix";

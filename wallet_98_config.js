@@ -1,1 +1,1 @@
-var mnemonic = "lock cute bargain security harvest they scout bring can hub twist jazz";
+var mnemonic = "census deputy list march flat vague sauce various kite intact trap trick";

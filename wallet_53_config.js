@@ -1,1 +1,1 @@
-var mnemonic = "virtual vessel outer village world citizen relax finish fiber post wedding floor";
+var mnemonic = "tent distance lawsuit area devote venue between romance reflect arctic unit horror";

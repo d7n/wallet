@@ -1,1 +1,1 @@
-var mnemonic = "seek seven balance normal syrup glass again marriage relax disorder attend increase";
+var mnemonic = "tackle pottery arrive dune hungry quick lecture mom planet filter allow moment";

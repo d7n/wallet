@@ -1,1 +1,1 @@
-var mnemonic = "praise tip glow motion bachelor bonus seven jelly control follow hedgehog common";
+var mnemonic = "possible once toss dynamic snow matrix novel flag segment entry town angle";

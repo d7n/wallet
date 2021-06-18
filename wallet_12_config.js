@@ -1,1 +1,1 @@
-var mnemonic = "hurdle soul wait utility ripple ostrich search winner carry liberty grape cruel";
+var mnemonic = "double two stomach unable slow whisper hand trial dad time waste patch";

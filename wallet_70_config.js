@@ -1,1 +1,1 @@
-var mnemonic = "card castle task actress tail village inch dial other pledge obtain smooth";
+var mnemonic = "slam smart blue desk ramp where enough park vivid meadow sugar frame";

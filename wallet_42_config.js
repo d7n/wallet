@@ -1,1 +1,1 @@
-var mnemonic = "scatter disease patch grace silk major endless three scatter police wolf input";
+var mnemonic = "model artwork holiday eye common brass together occur devote injury fun east";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt tattoo crush slice maid message extra awful industry parrot inner tower";
+var mnemonic = "wet area diesel layer what same holiday cook current avoid grace monitor";

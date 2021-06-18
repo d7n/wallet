@@ -1,1 +1,1 @@
-var mnemonic = "drop clinic torch cloth soon letter odor live pudding follow token price";
+var mnemonic = "margin decline comic evoke cigar act essence when oak eager old choice";

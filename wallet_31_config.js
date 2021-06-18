@@ -1,1 +1,1 @@
-var mnemonic = "surface abandon upper tenant cook dilemma small enrich lazy apart illness huge";
+var mnemonic = "coyote table doll morning assume remember employ paddle axis salt canoe tray";

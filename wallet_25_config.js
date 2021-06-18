@@ -1,1 +1,1 @@
-var mnemonic = "pink power spread people actor grid fortune access frozen elder gospel ice";
+var mnemonic = "tube face close child can live snap analyst strike hover riot laptop";

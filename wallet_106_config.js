@@ -1,1 +1,1 @@
-var mnemonic = "skull general enforce mutual vintage hybrid tell pig parade useless foil faith";
+var mnemonic = "cloth doll slide clog icon stereo evil world common essay series hockey";

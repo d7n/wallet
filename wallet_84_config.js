@@ -1,1 +1,1 @@
-var mnemonic = "feature jacket powder teach reform cliff coffee tool ozone seek screen next";
+var mnemonic = "fade ensure net improve empower pool pyramid modify brave skate pear valve";

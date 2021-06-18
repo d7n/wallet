@@ -1,1 +1,1 @@
-var mnemonic = "barely symptom suggest hair parent strong neglect spare luxury monkey motion conduct";
+var mnemonic = "wide bless scheme barely asthma month badge maid glue blind magic sun";

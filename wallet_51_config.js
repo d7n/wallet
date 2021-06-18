@@ -1,1 +1,1 @@
-var mnemonic = "hungry fabric wash glad hole sand winner tide harsh tumble caught pyramid";
+var mnemonic = "plunge trophy mosquito abandon tennis receive digital define outdoor world monitor candy";

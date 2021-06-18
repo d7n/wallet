@@ -1,1 +1,1 @@
-var mnemonic = "pole legal base slight uphold asset switch sister midnight swing romance attract";
+var mnemonic = "job give comic intact hurt lava discover arch barrel aim pink lemon";

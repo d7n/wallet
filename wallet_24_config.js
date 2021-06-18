@@ -1,1 +1,1 @@
-var mnemonic = "vanish spike march rare symptom hurdle disorder lobster tilt coach auction survey";
+var mnemonic = "term foot retire bird owner wild pizza object tide addict success want";

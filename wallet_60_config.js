@@ -1,1 +1,1 @@
-var mnemonic = "clog dirt student spell jump play laugh slice drastic grunt evil mutual";
+var mnemonic = "test announce brother clown nothing armor run record this movie piece decline";

@@ -1,1 +1,1 @@
-var mnemonic = "fury manual tip gravity win age remember rose wish puppy hub human";
+var mnemonic = "trick turkey cradle pony slender club myth bread rigid elephant remind odor";

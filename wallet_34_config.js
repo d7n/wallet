@@ -1,1 +1,1 @@
-var mnemonic = "annual combine silly option outer trash retreat fat clutch tornado change rocket";
+var mnemonic = "aerobic million joke sunset actress update bind loyal gossip crouch breeze baby";

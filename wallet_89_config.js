@@ -1,1 +1,1 @@
-var mnemonic = "man outside lake hawk oil elevator impose void episode spice enforce fruit";
+var mnemonic = "must vapor ring grain notable shop barely ostrich stamp color already kidney";

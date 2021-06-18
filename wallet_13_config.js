@@ -1,1 +1,1 @@
-var mnemonic = "cook garment forget item arrest sniff light any various belt parrot sword";
+var mnemonic = "escape exhibit oval entire enough occur dinosaur dose rule rapid hip ridge";

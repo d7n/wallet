@@ -1,1 +1,1 @@
-var mnemonic = "matrix clump apart manage doctor tonight fresh cycle vital matter furnace crash";
+var mnemonic = "limit oval bless muffin shadow liar stable brush monitor more injury nerve";

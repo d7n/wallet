@@ -1,1 +1,1 @@
-var mnemonic = "congress solution panic ostrich theory hero small faith custom smart bomb quote";
+var mnemonic = "baby globe wreck patch off reform whale speed census token future stock";

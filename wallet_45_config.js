@@ -1,1 +1,1 @@
-var mnemonic = "day mobile lab easily couch item burden rigid enhance rotate news space";
+var mnemonic = "bachelor chaos angry federal sail blossom alone junk embody curtain coach bunker";

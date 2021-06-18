@@ -1,1 +1,1 @@
-var mnemonic = "glory bright paper boring analyst like public tribe siege test slogan armor";
+var mnemonic = "salt canoe lens wild climb adult bitter comfort boss desert modify aim";

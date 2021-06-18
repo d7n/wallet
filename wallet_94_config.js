@@ -1,1 +1,1 @@
-var mnemonic = "program fame gym few patient furnace glad matrix document lava three wine";
+var mnemonic = "intact concert lizard confirm prize install slab guard wagon excite wall cargo";

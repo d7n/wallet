@@ -1,1 +1,1 @@
-var mnemonic = "skull solar cattle shed build cable silent volcano upper license explain manual";
+var mnemonic = "upgrade off illness near prison tuition position oak menu sting topic reunion";

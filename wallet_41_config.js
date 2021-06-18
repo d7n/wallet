@@ -1,1 +1,1 @@
-var mnemonic = "burger cliff keep curve shell sun forest typical olive cricket tuna napkin";
+var mnemonic = "crystal rude blade truck trend panther essence census machine student excuse visit";

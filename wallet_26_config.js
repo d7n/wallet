@@ -1,1 +1,1 @@
-var mnemonic = "lobster detail slow melt sudden marine second million despair reduce festival approve";
+var mnemonic = "board bless involve alarm add elite enjoy dentist slow awful observe total";

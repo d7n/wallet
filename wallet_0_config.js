@@ -1,1 +1,1 @@
-var mnemonic = "print disease island member fly busy measure result usage asset age amazing";
+var mnemonic = "episode gorilla future course fabric wise grape print trick approve slush settle";

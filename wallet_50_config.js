@@ -1,1 +1,1 @@
-var mnemonic = "brass fold debris endless fly badge muffin public shoot fix release tool";
+var mnemonic = "rally earn melody spare infant wall service divert person forum suggest problem";

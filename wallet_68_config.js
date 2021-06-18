@@ -1,1 +1,1 @@
-var mnemonic = "warrior thumb response eye across guilt page venture exercise finger awkward piece";
+var mnemonic = "rain focus oxygen cactus seminar upon bid renew trip follow quiz lawn";

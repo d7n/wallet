@@ -1,1 +1,1 @@
-var mnemonic = "bronze banana milk delay useful click short appear slide point twelve capable";
+var mnemonic = "near involve ensure slender blind avocado garden record ski identify balance embrace";

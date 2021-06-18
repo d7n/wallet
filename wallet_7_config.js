@@ -1,1 +1,1 @@
-var mnemonic = "idle acoustic pulse ordinary army bunker easy pave circle first fruit opinion";
+var mnemonic = "chunk illegal angle reduce elephant ask source balance target october crazy remove";

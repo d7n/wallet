@@ -1,1 +1,1 @@
-var mnemonic = "upon fury lizard dizzy endorse giant oval tooth define vivid bicycle sudden";
+var mnemonic = "robot earth credit legend advice visit grass cake urban water knee three";

@@ -1,1 +1,1 @@
-var mnemonic = "trap wink ranch total load kitten drum trade shuffle outside hidden uncle";
+var mnemonic = "endless twelve lady void candy chunk large spy yellow space wedding virtual";

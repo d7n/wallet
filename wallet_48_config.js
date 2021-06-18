@@ -1,1 +1,1 @@
-var mnemonic = "nominee stool shoot pitch type burger predict basic subway fragile arrest depend";
+var mnemonic = "burger legend lucky marriage still artist spell awesome rain warrior print ostrich";
