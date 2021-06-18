@@ -1,1 +1,1 @@
-var mnemonic = "reduce cannon wage ill finish health local lock someone sustain moon praise";
+var mnemonic = "prevent start coast fabric cross clip remain setup aisle stadium rice top";

@@ -1,1 +1,1 @@
-var mnemonic = "anxiety kiss outdoor trust blind minute strong behind shed loan client try";
+var mnemonic = "chronic critic quantum phone child ensure myth memory shine motor reveal chef";

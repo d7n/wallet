@@ -1,1 +1,1 @@
-var mnemonic = "sample tree reform vast file smoke title fancy canal pond add elevator";
+var mnemonic = "mango fortune gain north omit almost unfair will street inquiry kick oppose";

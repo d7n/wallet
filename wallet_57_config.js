@@ -1,1 +1,1 @@
-var mnemonic = "west club remember engine october slow situate series adjust ugly author design";
+var mnemonic = "twelve easily estate hope orchard craft first wet pony car sorry access";

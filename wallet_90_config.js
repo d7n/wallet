@@ -1,1 +1,1 @@
-var mnemonic = "start this pony game mother multiply reform diagram snow travel ski tragic";
+var mnemonic = "hold pair whip play potato decade coyote million destroy uncle shadow column";

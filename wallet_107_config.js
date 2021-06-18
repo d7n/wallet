@@ -1,1 +1,1 @@
-var mnemonic = "safe puzzle feed deal seven trap suffer laundry stock sphere amused ski";
+var mnemonic = "category manage correct noodle relief impose earn shine outside race spray rose";

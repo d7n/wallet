@@ -1,1 +1,1 @@
-var mnemonic = "dose favorite tenant oval teach earth resource fashion stage trip gravity green";
+var mnemonic = "call thunder survey dance explain flame avocado peasant humble special afraid artist";

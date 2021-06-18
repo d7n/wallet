@@ -1,1 +1,1 @@
-var mnemonic = "flush mass will valley kid journey swallow bless tribe rail quick security";
+var mnemonic = "check grab identify true loan giraffe forget improve virus olive era trim";

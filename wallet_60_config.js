@@ -1,1 +1,1 @@
-var mnemonic = "lucky devote salmon acid circle tenant ceiling village unaware fantasy swift either";
+var mnemonic = "world horn write deal attack train vicious blush benefit umbrella capable need";

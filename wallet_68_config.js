@@ -1,1 +1,1 @@
-var mnemonic = "secret follow little sugar angry odor good diamond word jazz core gun";
+var mnemonic = "flush small coil worth mountain motor join raccoon female tragic palm benefit";

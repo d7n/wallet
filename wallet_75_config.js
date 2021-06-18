@@ -1,1 +1,1 @@
-var mnemonic = "defense melody shoot cause elephant curtain space flight snake visit retire frame";
+var mnemonic = "hockey remove rate excuse almost virtual renew obscure whale sniff brother pelican";

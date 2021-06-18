@@ -1,1 +1,1 @@
-var mnemonic = "evoke surround saddle pepper melody pull gaze radar denial panic maid olympic";
+var mnemonic = "whale sniff margin next winter check scene adapt enhance reward track tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive globe pave book lake direct foam tenant enact slab together edge";
+var mnemonic = "series attack strike harbor stuff mandate enter quick exercise elbow that shoulder";

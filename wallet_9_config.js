@@ -1,1 +1,1 @@
-var mnemonic = "hotel orbit crawl north layer extend elder hockey pact hobby jealous alley";
+var mnemonic = "inform behind mail festival liquid shell whisper exile broom journey advice swap";

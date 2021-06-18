@@ -1,1 +1,1 @@
-var mnemonic = "hat loan mechanic always chaos early fruit fat glide gather defense welcome";
+var mnemonic = "fiber problem purse office pencil broccoli nut bean wing outside margin robot";

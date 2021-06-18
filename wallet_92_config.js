@@ -1,1 +1,1 @@
-var mnemonic = "cushion bleak legal poverty clever vendor matter few phrase clown during vapor";
+var mnemonic = "lesson access human now pig fan airport elite teach veteran inner illegal";

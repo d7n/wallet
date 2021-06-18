@@ -1,1 +1,1 @@
-var mnemonic = "plunge spend only physical spider timber name acid exercise muscle steel sustain";
+var mnemonic = "service tired abuse meadow claw project game govern sound feed sentence little";

@@ -1,1 +1,1 @@
-var mnemonic = "color sister degree fruit cause hazard evoke tired deny salt oven second";
+var mnemonic = "toward mind survey hen payment practice person garbage dial team correct tool";

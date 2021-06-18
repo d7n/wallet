@@ -1,1 +1,1 @@
-var mnemonic = "noodle mercy unusual lumber piece talent category ticket whale castle squeeze patch";
+var mnemonic = "title pen turkey casino swarm carbon knock march boil creek vague anxiety";

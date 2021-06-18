@@ -1,1 +1,1 @@
-var mnemonic = "text diamond stand such deal burst way grief wage dice sauce pistol";
+var mnemonic = "often hurry case brick basket diesel melt hint piano glory lunar hood";

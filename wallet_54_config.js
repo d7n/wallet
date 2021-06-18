@@ -1,1 +1,1 @@
-var mnemonic = "picture audit planet august dignity initial morning wink isolate erosion mix urban";
+var mnemonic = "aunt glance flat ordinary cycle earn lens source occur fruit husband legal";

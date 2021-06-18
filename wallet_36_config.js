@@ -1,1 +1,1 @@
-var mnemonic = "virtual knee scale rival flip car frown frozen super drama spice family";
+var mnemonic = "property crowd despair garment stomach engage shift maple trouble confirm exercise basic";

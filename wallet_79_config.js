@@ -1,1 +1,1 @@
-var mnemonic = "teach woman voyage dynamic remind stamp problem elite seek girl liquid original";
+var mnemonic = "arm clean grit fever champion sport gap piano mutual prefer ship core";

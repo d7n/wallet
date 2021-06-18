@@ -1,1 +1,1 @@
-var mnemonic = "helmet infant crystal below rapid flight tower unit effort buffalo lab copper";
+var mnemonic = "unhappy tribe social hybrid empower model photo segment actress grunt shrimp muffin";

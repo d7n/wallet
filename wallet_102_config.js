@@ -1,1 +1,1 @@
-var mnemonic = "usual awesome quantum arena rocket pizza ostrich essay fence fetch eight trend";
+var mnemonic = "crush switch clinic peasant metal siren drastic hybrid page quick sound weapon";

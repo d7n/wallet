@@ -1,1 +1,1 @@
-var mnemonic = "ready mind daughter disease fly sheriff abuse stairs model sock fade learn";
+var mnemonic = "menu cool bitter mom volcano tortoise roast diamond top boil plate isolate";

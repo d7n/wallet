@@ -1,1 +1,1 @@
-var mnemonic = "end unfair dice major grit cloth school marble panther grid hungry cloud";
+var mnemonic = "run enlist custom enlist street annual salt once mail tragic shine sugar";

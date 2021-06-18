@@ -1,1 +1,1 @@
-var mnemonic = "cream pull effort sense gadget guard share improve move omit rescue reject";
+var mnemonic = "admit kingdom attract tray error oven throw nasty wife deal caution sight";

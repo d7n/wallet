@@ -1,1 +1,1 @@
-var mnemonic = "maid butter country explain engage pitch wrong hood carpet letter ignore account";
+var mnemonic = "member lawsuit kite frozen patch practice seminar defense truly vivid gym yard";

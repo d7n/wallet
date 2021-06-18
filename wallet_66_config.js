@@ -1,1 +1,1 @@
-var mnemonic = "similar student limb call sting pig cruise much alley clock trouble mention";
+var mnemonic = "bronze wild daring joke rabbit census sail moment author model load erode";

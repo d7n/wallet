@@ -1,1 +1,1 @@
-var mnemonic = "bid music code motion gate truly donkey inflict peace provide same timber";
+var mnemonic = "skill sword shaft hobby scout usage combine open siren turtle author case";

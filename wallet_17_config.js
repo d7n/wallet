@@ -1,1 +1,1 @@
-var mnemonic = "eternal model rice stick leader liquid husband brush shield identify beach menu";
+var mnemonic = "script tissue home pear monkey hard peasant forget monkey scan vote once";

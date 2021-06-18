@@ -1,1 +1,1 @@
-var mnemonic = "interest game kid again use office any biology index aunt critic sausage";
+var mnemonic = "cute fix want roof parrot resist spice cram coin lab settle choice";

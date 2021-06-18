@@ -1,1 +1,1 @@
-var mnemonic = "essay special swear until range increase poverty image mountain budget unit unfair";
+var mnemonic = "unfair green sad episode speed final ginger strong enlist topple general village";

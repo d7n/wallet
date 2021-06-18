@@ -1,1 +1,1 @@
-var mnemonic = "bullet permit labor leave shift evolve bread cluster human across leisure bread";
+var mnemonic = "parrot crop bomb scene trash kitten idle word dilemma keen guard negative";

@@ -1,1 +1,1 @@
-var mnemonic = "episode two stool barely inner supreme federal frown powder dove belt glimpse";
+var mnemonic = "distance hour length casino agent garden neither enroll apology dawn disease pen";

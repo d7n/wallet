@@ -1,1 +1,1 @@
-var mnemonic = "love culture blush away mother excess depend bottom tomorrow doll trash casual";
+var mnemonic = "west street sunset drip pool marriage private absurd siren wonder ice behave";

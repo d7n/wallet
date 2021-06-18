@@ -1,1 +1,1 @@
-var mnemonic = "world link key scare escape march grief dog disorder harsh dust guess";
+var mnemonic = "shoulder combine during surge icon depart detail play magic another first success";

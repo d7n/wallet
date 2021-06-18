@@ -1,1 +1,1 @@
-var mnemonic = "hard effort light aware eight gun grit wait better hamster ice river";
+var mnemonic = "multiply plunge drift health answer rather stay medal involve remain flash skirt";

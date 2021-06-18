@@ -1,1 +1,1 @@
-var mnemonic = "virtual asset worry twenty quote canal chat embody dial elder birth celery";
+var mnemonic = "rabbit battle angle borrow zero wink assist much narrow ticket demise sock";

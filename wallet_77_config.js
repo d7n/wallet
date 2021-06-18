@@ -1,1 +1,1 @@
-var mnemonic = "deer truck evidence need machine pause coral crazy fortune profit prison spoil";
+var mnemonic = "metal student lift voyage soul merry coconut feed switch injury theory method";

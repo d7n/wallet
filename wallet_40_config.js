@@ -1,1 +1,1 @@
-var mnemonic = "sting climb script spin kangaroo travel burst range crew eternal prosper dice";
+var mnemonic = "goddess miracle tobacco embrace dose faint better protect essence six cattle prepare";

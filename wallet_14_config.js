@@ -1,1 +1,1 @@
-var mnemonic = "figure slice easy yard concert mask resemble excuse clerk tired stand tooth";
+var mnemonic = "truck present suit company super relief guilt vintage ankle bargain cattle firm";

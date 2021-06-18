@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit rocket lyrics fold swing quality resemble million shadow prevent nothing adjust";
+var mnemonic = "table switch member maple zone end glue project rough neck diagram identify";

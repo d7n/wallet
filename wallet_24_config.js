@@ -1,1 +1,1 @@
-var mnemonic = "scan virtual term net cruel hand material blind remove comfort fold control";
+var mnemonic = "credit together spin capital decorate exhibit entire property alpha walk alert fox";

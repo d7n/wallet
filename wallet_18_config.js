@@ -1,1 +1,1 @@
-var mnemonic = "tail gentle craft evidence typical foot syrup oppose alter segment salon wine";
+var mnemonic = "around accuse whisper squeeze raven uphold plug degree explain sing amount wet";

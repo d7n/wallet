@@ -1,1 +1,1 @@
-var mnemonic = "scrap actress lunch garage flock tenant salt capital merry rough soul slab";
+var mnemonic = "sort clean miracle gallery ritual diesel history erosion frog fade clarify client";

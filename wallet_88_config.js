@@ -1,1 +1,1 @@
-var mnemonic = "saddle heart gown such wagon discover topic galaxy leave great shiver enemy";
+var mnemonic = "crane mix garbage snow throw peanut uncle spot answer trial globe tank";

@@ -1,1 +1,1 @@
-var mnemonic = "island animal obtain element valley yard gossip insect trigger tackle ribbon coin";
+var mnemonic = "jeans border visual card vendor vast staff assume spend congress useless pig";

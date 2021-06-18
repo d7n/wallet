@@ -1,1 +1,1 @@
-var mnemonic = "win fine shallow cricket oval lawsuit push sister manage north throw client";
+var mnemonic = "have airport salt embark cactus bird awkward local chicken tooth visual hub";

@@ -1,1 +1,1 @@
-var mnemonic = "treat more teach choice plunge powder start palm nest flee ugly hair";
+var mnemonic = "please pyramid good intact quiz cable turkey issue equal health stuff chair";

@@ -1,1 +1,1 @@
-var mnemonic = "chair market announce mesh wet session track maze globe market photo profit";
+var mnemonic = "sudden shock predict priority castle vicious false subway property course upon pudding";

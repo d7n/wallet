@@ -1,1 +1,1 @@
-var mnemonic = "short divert bottom suffer meat twist aware slot isolate apple breeze announce";
+var mnemonic = "snack venture able thank novel tank nut giraffe void horn army obtain";

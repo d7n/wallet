@@ -1,1 +1,1 @@
-var mnemonic = "orange tray hundred rare loud divide anchor payment tuition insane thing access";
+var mnemonic = "boil target cable ecology rice enjoy champion dilemma kitchen mosquito borrow warfare";

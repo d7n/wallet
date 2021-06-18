@@ -1,1 +1,1 @@
-var mnemonic = "soul unveil fire dash hawk noise sense youth olympic old forward modify";
+var mnemonic = "funny mixture aerobic endorse easily pass typical load detail unhappy fresh wrong";

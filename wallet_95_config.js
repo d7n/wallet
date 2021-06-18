@@ -1,1 +1,1 @@
-var mnemonic = "soccer victory subway trouble assault dismiss fancy innocent build ginger enough cause";
+var mnemonic = "jewel title goose actor spend raven dash response bird grass wheel excuse";

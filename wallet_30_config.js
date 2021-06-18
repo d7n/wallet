@@ -1,1 +1,1 @@
-var mnemonic = "screen danger crucial estate walk special action hidden slight patient ecology diary";
+var mnemonic = "guilt option toy deliver essence exist dust uphold language robust feel annual";

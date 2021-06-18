@@ -1,1 +1,1 @@
-var mnemonic = "call series gallery tree yard combine lift another funny north funny increase";
+var mnemonic = "hundred abuse crucial brain farm winter couch guess dumb snap token permit";

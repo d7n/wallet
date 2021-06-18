@@ -1,1 +1,1 @@
-var mnemonic = "orbit soon rate bulk between walk subway army hire smoke dash space";
+var mnemonic = "symptom drastic drum weird differ fall catalog water wave sheriff pole talent";

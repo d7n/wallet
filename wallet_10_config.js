@@ -1,1 +1,1 @@
-var mnemonic = "express robot banner aunt pencil stable glove victory aware swift knee bulk";
+var mnemonic = "used opera toward flower can wheel accuse apple field ivory churn learn";

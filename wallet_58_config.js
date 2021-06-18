@@ -1,1 +1,1 @@
-var mnemonic = "fashion return noodle parent outside fiction economy hope pipe vicious parade enact";
+var mnemonic = "kick achieve mercy decide gain animal brave noble extra have genuine invite";

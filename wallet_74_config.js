@@ -1,1 +1,1 @@
-var mnemonic = "process start census priority limb wheat erode infant dwarf title venture clay";
+var mnemonic = "alone awkward unaware whale cable body almost excite finish rocket notable spider";

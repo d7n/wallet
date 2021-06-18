@@ -1,1 +1,1 @@
-var mnemonic = "era nice kind robot sign daring shaft mountain claim parent option pumpkin";
+var mnemonic = "festival repeat puzzle ten tomorrow dune awesome puzzle vacant quick moon amazing";

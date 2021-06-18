@@ -1,1 +1,1 @@
-var mnemonic = "wild traffic daring artwork annual pet future dial ten consider update brisk";
+var mnemonic = "smoke beach foot bitter fan hundred apart snack rain just certain divert";

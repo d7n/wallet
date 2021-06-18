@@ -1,1 +1,1 @@
-var mnemonic = "music slow excuse lawn traffic crush define thrive oven elder into core";
+var mnemonic = "ordinary between judge adjust symbol someone retreat judge father legal promote craft";

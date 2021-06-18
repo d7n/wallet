@@ -1,1 +1,1 @@
-var mnemonic = "theory battle balance tell pole purity tobacco solve angry dragon essay drink";
+var mnemonic = "medal casino liquid embrace above slim express thunder night kind quantum sense";

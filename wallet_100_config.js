@@ -1,1 +1,1 @@
-var mnemonic = "actress flower various tomato cliff base street describe empty finger that actor";
+var mnemonic = "fossil cram rescue insane crucial dragon multiply panda public tape digital sword";

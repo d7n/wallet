@@ -1,1 +1,1 @@
-var mnemonic = "leader share object brass correct away diary away fabric glow radio ugly";
+var mnemonic = "sting woman right crop lend agree plastic castle pluck pave nerve jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "harbor damp crash cash electric unaware foster online delay alone bicycle pill";
+var mnemonic = "test naive answer useful umbrella decorate cattle spin spider sun flight like";

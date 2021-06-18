@@ -1,1 +1,1 @@
-var mnemonic = "off wasp diesel breeze unusual pave tool scissors dwarf hurry impulse minor";
+var mnemonic = "dizzy citizen usual mobile glance jungle limb pupil draft spatial roast seed";

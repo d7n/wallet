@@ -1,1 +1,1 @@
-var mnemonic = "traffic success nerve first pride add pitch marble trick alcohol side tank";
+var mnemonic = "come soon gorilla pottery resource canoe drip move bird air breeze shield";

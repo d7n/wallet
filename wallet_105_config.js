@@ -1,1 +1,1 @@
-var mnemonic = "spare truly jaguar brave news dice tray sadness main edit inject pyramid";
+var mnemonic = "toast salute poet damage clutch pride artefact luggage more dizzy opera section";

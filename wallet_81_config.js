@@ -1,1 +1,1 @@
-var mnemonic = "oyster duty clarify inside enrich fancy mask broken gospel room veteran flag";
+var mnemonic = "online away music detect pulse obtain topic grid anger eight scale angry";

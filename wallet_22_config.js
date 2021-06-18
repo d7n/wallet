@@ -1,1 +1,1 @@
-var mnemonic = "search enrich wild wait what fossil boring wire core program amount swamp";
+var mnemonic = "meat rebel interest radio asset letter spice project salmon chef demand twin";

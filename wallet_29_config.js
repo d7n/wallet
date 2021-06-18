@@ -1,1 +1,1 @@
-var mnemonic = "expose verb salmon climb knock mother aware diet broken vanish blast forum";
+var mnemonic = "apart vital wolf peace portion hire air empower bring install hungry blur";

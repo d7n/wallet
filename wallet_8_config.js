@@ -1,1 +1,1 @@
-var mnemonic = "moral trophy bulk eye height nature endless regret year canal above shoulder";
+var mnemonic = "together toast breeze private early obvious blouse expose buyer renew pattern forward";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue spin attend rose artist route mom decade suit analyst ocean arrive";
+var mnemonic = "always guide yellow course hollow fly athlete tone recipe observe tiger mass";

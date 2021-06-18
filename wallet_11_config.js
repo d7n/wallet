@@ -1,1 +1,1 @@
-var mnemonic = "fun dumb notable raise elite wonder man tuna goose hip relax morning";
+var mnemonic = "combine farm couch develop rapid valid frequent crater sense welcome shiver dice";

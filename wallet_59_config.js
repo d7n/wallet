@@ -1,1 +1,1 @@
-var mnemonic = "finish juice cigar orient aisle toe claw bamboo acoustic behave pair borrow";
+var mnemonic = "bullet apology portion pet sword noble subject decade promote orchard gym stool";

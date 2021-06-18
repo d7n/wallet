@@ -1,1 +1,1 @@
-var mnemonic = "bless scare next fiction aware gossip sound box sock dragon pigeon cinnamon";
+var mnemonic = "athlete estate shadow buyer six random steak select thunder risk chunk rotate";

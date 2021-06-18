@@ -1,1 +1,1 @@
-var mnemonic = "smoke brief hello amazing emerge anchor skate rug rifle spot layer merit";
+var mnemonic = "attract spirit army bless axis ecology estate panel write original power spell";

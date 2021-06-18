@@ -1,1 +1,1 @@
-var mnemonic = "peanut awful jealous helmet idle elephant few sea blossom equal garbage time";
+var mnemonic = "corn palm wrap garage rug entire immense lift three home kit smile";

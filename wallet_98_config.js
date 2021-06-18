@@ -1,1 +1,1 @@
-var mnemonic = "elbow chalk party damp slab impulse speed man culture media border drift";
+var mnemonic = "vacuum obvious cousin tomato wage amazing crouch stock vapor wisdom swamp unique";

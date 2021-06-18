@@ -1,1 +1,1 @@
-var mnemonic = "rich meat behind honey hungry unique embrace short blur name staff trouble";
+var mnemonic = "capable trash fiscal thunder render rack model wash purchase head grit detect";

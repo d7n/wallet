@@ -1,1 +1,1 @@
-var mnemonic = "average report hole resemble shoulder buyer staff time machine spatial tortoise vault";
+var mnemonic = "purity rule unique alarm cancel hard flower tag relief buffalo soon alter";

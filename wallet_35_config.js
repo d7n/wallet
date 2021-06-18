@@ -1,1 +1,1 @@
-var mnemonic = "together lounge question stairs baby neither crucial around grit envelope noodle repeat";
+var mnemonic = "bachelor despair marble reflect carry copy wage head twelve rib street orbit";

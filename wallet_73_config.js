@@ -1,1 +1,1 @@
-var mnemonic = "project sketch forward endorse orange private popular sibling one duty industry hat";
+var mnemonic = "type source olympic mansion fault fan bid mail abstract fruit vintage gaze";

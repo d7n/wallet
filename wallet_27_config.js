@@ -1,1 +1,1 @@
-var mnemonic = "change harsh advance guilt undo idle toy quarter bounce swallow foil solve";
+var mnemonic = "rough napkin faint fossil crush more evil edge model protect silly entry";

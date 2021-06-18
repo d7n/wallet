@@ -1,1 +1,1 @@
-var mnemonic = "crisp expand render mixture tag tail holiday aim brain oval police arrive";
+var mnemonic = "slide act near torch flame laugh cupboard anxiety cage recall idea bracket";

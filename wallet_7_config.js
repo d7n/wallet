@@ -1,1 +1,1 @@
-var mnemonic = "surprise illness figure object moon glow have such purpose trash distance beach";
+var mnemonic = "fruit pause broccoli crunch fit senior fetch magic hamster good post shrug";

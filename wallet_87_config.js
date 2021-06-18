@@ -1,1 +1,1 @@
-var mnemonic = "danger design layer acoustic resist mirror help squeeze quality desk lift race";
+var mnemonic = "exercise business excuse stay party donate right addict bulb air early drill";

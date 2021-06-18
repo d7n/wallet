@@ -1,1 +1,1 @@
-var mnemonic = "save grace able start achieve laugh insane screen odor goddess rib audit";
+var mnemonic = "average subway drum secret song donor grape tree giant lion boy ripple";

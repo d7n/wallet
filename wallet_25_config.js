@@ -1,1 +1,1 @@
-var mnemonic = "bind pulse true gossip aisle blouse cereal equal twice situate pause gap";
+var mnemonic = "fee disagree elevator submit snow upset cabbage frog noble claim neither lion";

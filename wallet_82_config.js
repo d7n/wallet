@@ -1,1 +1,1 @@
-var mnemonic = "trust news alert obey night energy gloom fetch oval park choose index";
+var mnemonic = "mom west layer dinner federal rhythm weird ramp purity nice mesh kid";

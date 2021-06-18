@@ -1,1 +1,1 @@
-var mnemonic = "ivory bread walk mask kind claim tooth outside ridge conduct cherry six";
+var mnemonic = "upset toward clarify pool thing lobster south tower club atom random clock";

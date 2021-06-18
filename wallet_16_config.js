@@ -1,1 +1,1 @@
-var mnemonic = "tip add submit divert vessel ghost south feel gate liberty arm flower";
+var mnemonic = "rack verb famous aim stadium promote scissors prefer vibrant tackle suggest lucky";
