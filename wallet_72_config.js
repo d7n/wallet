@@ -1,1 +1,1 @@
-var mnemonic = "genuine mosquito donor jungle consider exhibit make marble toilet fever rate cool";
+var mnemonic = "noble room nurse skull cave roof blanket viable radar place visual dumb";

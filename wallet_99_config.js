@@ -1,1 +1,1 @@
-var mnemonic = "ordinary between judge adjust symbol someone retreat judge father legal promote craft";
+var mnemonic = "climb fitness music royal author riot social announce improve embody catalog elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "west street sunset drip pool marriage private absurd siren wonder ice behave";
+var mnemonic = "around race fitness admit squirrel among current what taste misery trumpet burst";

@@ -1,1 +1,1 @@
-var mnemonic = "alone awkward unaware whale cable body almost excite finish rocket notable spider";
+var mnemonic = "arena this model glance shove plate merge spread effort lake enhance super";

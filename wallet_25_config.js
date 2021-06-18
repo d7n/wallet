@@ -1,1 +1,1 @@
-var mnemonic = "fee disagree elevator submit snow upset cabbage frog noble claim neither lion";
+var mnemonic = "girl brick horn black vote velvet table vague limb collect scissors leave";

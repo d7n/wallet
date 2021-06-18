@@ -1,1 +1,1 @@
-var mnemonic = "cute fix want roof parrot resist spice cram coin lab settle choice";
+var mnemonic = "want sting easily coil panther exact tornado search apology lady genre keep";

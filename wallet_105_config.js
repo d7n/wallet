@@ -1,1 +1,1 @@
-var mnemonic = "toast salute poet damage clutch pride artefact luggage more dizzy opera section";
+var mnemonic = "frown slogan foam bread brick upset dinosaur amateur quarter scissors surge save";

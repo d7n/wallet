@@ -1,1 +1,1 @@
-var mnemonic = "please pyramid good intact quiz cable turkey issue equal health stuff chair";
+var mnemonic = "main abstract used sudden force flame glare wool grass raven virus autumn";

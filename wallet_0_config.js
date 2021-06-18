@@ -1,1 +1,1 @@
-var mnemonic = "boil target cable ecology rice enjoy champion dilemma kitchen mosquito borrow warfare";
+var mnemonic = "eight salt prize gesture nuclear enforce anger permit party easy dove liquid";

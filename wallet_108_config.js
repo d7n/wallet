@@ -1,1 +1,1 @@
-var mnemonic = "prevent start coast fabric cross clip remain setup aisle stadium rice top";
+var mnemonic = "smart journey expand physical liquid tooth artwork chief rely trash execute spring";

@@ -1,1 +1,1 @@
-var mnemonic = "have airport salt embark cactus bird awkward local chicken tooth visual hub";
+var mnemonic = "reveal segment swear marble swift pupil fault burden board pretty couch kit";

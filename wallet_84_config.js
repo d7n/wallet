@@ -1,1 +1,1 @@
-var mnemonic = "call thunder survey dance explain flame avocado peasant humble special afraid artist";
+var mnemonic = "monkey marriage situate peanut stock animal child side profit cycle noise chapter";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil cram rescue insane crucial dragon multiply panda public tape digital sword";
+var mnemonic = "economy minimum person oak cross usage prosper wisdom airport approve route trial";

@@ -1,1 +1,1 @@
-var mnemonic = "metal student lift voyage soul merry coconut feed switch injury theory method";
+var mnemonic = "garment cupboard replace museum adapt orient another gadget forget fetch focus menu";

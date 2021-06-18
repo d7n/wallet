@@ -1,1 +1,1 @@
-var mnemonic = "test naive answer useful umbrella decorate cattle spin spider sun flight like";
+var mnemonic = "rescue end prevent culture obey bachelor discover arena laugh wife shield follow";

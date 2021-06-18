@@ -1,1 +1,1 @@
-var mnemonic = "mango fortune gain north omit almost unfair will street inquiry kick oppose";
+var mnemonic = "crisp evolve sweet egg ostrich brass hammer divide print polar melt buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans border visual card vendor vast staff assume spend congress useless pig";
+var mnemonic = "elegant unusual next evoke champion quarter useful kiwi sting tomato arch squeeze";

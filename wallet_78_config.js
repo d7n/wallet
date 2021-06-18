@@ -1,1 +1,1 @@
-var mnemonic = "rabbit battle angle borrow zero wink assist much narrow ticket demise sock";
+var mnemonic = "more chalk early neither rice fat service expire enlist lady friend doctor";

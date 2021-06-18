@@ -1,1 +1,1 @@
-var mnemonic = "around accuse whisper squeeze raven uphold plug degree explain sing amount wet";
+var mnemonic = "lift seat oven skull web brick quit marine execute guide peanut demand";

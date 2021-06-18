@@ -1,1 +1,1 @@
-var mnemonic = "upset toward clarify pool thing lobster south tower club atom random clock";
+var mnemonic = "tenant boost ostrich ability child rate man basket setup genius old crouch";

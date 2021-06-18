@@ -1,1 +1,1 @@
-var mnemonic = "meat rebel interest radio asset letter spice project salmon chef demand twin";
+var mnemonic = "economy school bracket disagree page stomach since advice tragic boring online demand";

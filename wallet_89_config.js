@@ -1,1 +1,1 @@
-var mnemonic = "dizzy citizen usual mobile glance jungle limb pupil draft spatial roast seed";
+var mnemonic = "just test pave case few speed wait chronic hobby above toy quiz";

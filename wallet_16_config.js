@@ -1,1 +1,1 @@
-var mnemonic = "rack verb famous aim stadium promote scissors prefer vibrant tackle suggest lucky";
+var mnemonic = "vessel ball shove check rude account bright hint chair oxygen vivid gas";

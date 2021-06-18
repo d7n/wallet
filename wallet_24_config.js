@@ -1,1 +1,1 @@
-var mnemonic = "credit together spin capital decorate exhibit entire property alpha walk alert fox";
+var mnemonic = "order buddy crawl gas negative ask few leopard come shoe pelican heart";

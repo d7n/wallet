@@ -1,1 +1,1 @@
-var mnemonic = "bachelor despair marble reflect carry copy wage head twelve rib street orbit";
+var mnemonic = "clock nice milk squirrel predict please enhance pencil interest recall solution bubble";

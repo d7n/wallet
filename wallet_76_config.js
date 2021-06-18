@@ -1,1 +1,1 @@
-var mnemonic = "define inspire city evolve insect wool promote phrase ensure trumpet food shuffle";
+var mnemonic = "two before tribe oven tank duty test trade offer van then mouse";

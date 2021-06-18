@@ -1,1 +1,1 @@
-var mnemonic = "member lawsuit kite frozen patch practice seminar defense truly vivid gym yard";
+var mnemonic = "tiger belt march regular spirit solar flush next odor midnight usage bid";

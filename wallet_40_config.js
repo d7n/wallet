@@ -1,1 +1,1 @@
-var mnemonic = "goddess miracle tobacco embrace dose faint better protect essence six cattle prepare";
+var mnemonic = "family swing emerge shallow abandon leopard dust quit before service mansion negative";

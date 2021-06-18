@@ -1,1 +1,1 @@
-var mnemonic = "theory plug endless find kitchen post apart slush moral napkin steak fury";
+var mnemonic = "cigar quit admit lyrics rural divide celery symptom retreat lens size spread";

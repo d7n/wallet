@@ -1,1 +1,1 @@
-var mnemonic = "unhappy tribe social hybrid empower model photo segment actress grunt shrimp muffin";
+var mnemonic = "deny twice outdoor abuse assault neither trend lobster stage winter dance minor";

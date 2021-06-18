@@ -1,1 +1,1 @@
-var mnemonic = "hold pair whip play potato decade coyote million destroy uncle shadow column";
+var mnemonic = "final marine hurry prepare device fork surge favorite raven perfect machine blame";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber problem purse office pencil broccoli nut bean wing outside margin robot";
+var mnemonic = "logic grass slim snap must floor boat provide join chapter core today";

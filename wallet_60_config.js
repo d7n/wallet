@@ -1,1 +1,1 @@
-var mnemonic = "world horn write deal attack train vicious blush benefit umbrella capable need";
+var mnemonic = "collect simple drive goat gain dragon ball lucky giraffe fan pave long";

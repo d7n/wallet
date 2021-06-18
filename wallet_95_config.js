@@ -1,1 +1,1 @@
-var mnemonic = "jewel title goose actor spend raven dash response bird grass wheel excuse";
+var mnemonic = "throw oblige high garlic marriage badge stadium stadium area baby fat hidden";

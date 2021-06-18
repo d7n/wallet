@@ -1,1 +1,1 @@
-var mnemonic = "check grab identify true loan giraffe forget improve virus olive era trim";
+var mnemonic = "mountain ladder add fantasy deliver hair number fetch cycle puppy pencil dune";

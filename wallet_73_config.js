@@ -1,1 +1,1 @@
-var mnemonic = "type source olympic mansion fault fan bid mail abstract fruit vintage gaze";
+var mnemonic = "roast clutch fabric jealous burden second job weather vote tell gain wisdom";

@@ -1,1 +1,1 @@
-var mnemonic = "whale sniff margin next winter check scene adapt enhance reward track tiger";
+var mnemonic = "loud correct glide echo bird infant caution hospital fiction chimney inject muffin";

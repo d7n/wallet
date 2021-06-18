@@ -1,1 +1,1 @@
-var mnemonic = "repair dust beef carbon output tell trumpet cluster fetch you bike huge";
+var mnemonic = "equip violin coach acquire snack once clump arrive february reopen idea cloth";

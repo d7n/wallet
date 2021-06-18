@@ -1,1 +1,1 @@
-var mnemonic = "property crowd despair garment stomach engage shift maple trouble confirm exercise basic";
+var mnemonic = "spider cactus say receive caught seek toast tail clerk orbit alone boring";

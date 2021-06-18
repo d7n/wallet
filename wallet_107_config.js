@@ -1,1 +1,1 @@
-var mnemonic = "category manage correct noodle relief impose earn shine outside race spray rose";
+var mnemonic = "wall sweet eyebrow veteran pudding sunny wire mean broom ceiling outer glow";

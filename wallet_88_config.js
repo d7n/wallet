@@ -1,1 +1,1 @@
-var mnemonic = "crane mix garbage snow throw peanut uncle spot answer trial globe tank";
+var mnemonic = "picture metal object country interest skin cousin fruit skill sock two benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold legend suspect enter lawn word upset gift rapid enroll simple coast";
+var mnemonic = "cheap junior husband delay ethics best close second clerk example spare affair";

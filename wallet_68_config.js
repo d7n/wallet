@@ -1,1 +1,1 @@
-var mnemonic = "flush small coil worth mountain motor join raccoon female tragic palm benefit";
+var mnemonic = "fuel lake curious crumble obey spice outdoor unveil clock carry pottery degree";

@@ -1,1 +1,1 @@
-var mnemonic = "crush switch clinic peasant metal siren drastic hybrid page quick sound weapon";
+var mnemonic = "giraffe napkin banana conduct drink leave clutch people floor rule load absurd";

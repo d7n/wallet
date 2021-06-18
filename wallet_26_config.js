@@ -1,1 +1,1 @@
-var mnemonic = "swift scrub vocal script hire dry concert sing random strong polar pear";
+var mnemonic = "auto food vicious arctic desk grid vendor strike oven margin impulse hawk";

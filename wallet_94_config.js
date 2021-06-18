@@ -1,1 +1,1 @@
-var mnemonic = "corn palm wrap garage rug entire immense lift three home kit smile";
+var mnemonic = "squirrel actor toilet clerk dizzy subject travel basket letter angle craft tiger";

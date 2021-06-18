@@ -1,1 +1,1 @@
-var mnemonic = "bullet apology portion pet sword noble subject decade promote orchard gym stool";
+var mnemonic = "purpose weasel mixed pupil truly divert tuna rifle ten trip deliver fork";

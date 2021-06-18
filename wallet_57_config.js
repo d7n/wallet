@@ -1,1 +1,1 @@
-var mnemonic = "twelve easily estate hope orchard craft first wet pony car sorry access";
+var mnemonic = "party insect elite retire guide report clever mistake hat twice volcano hold";

@@ -1,1 +1,1 @@
-var mnemonic = "truck present suit company super relief guilt vintage ankle bargain cattle firm";
+var mnemonic = "steak lawsuit laugh obey master civil jeans mass pull betray churn harvest";

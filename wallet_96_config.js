@@ -1,1 +1,1 @@
-var mnemonic = "service tired abuse meadow claw project game govern sound feed sentence little";
+var mnemonic = "photo media arctic insane worth stone sell thunder hammer planet purse awake";

@@ -1,1 +1,1 @@
-var mnemonic = "admit kingdom attract tray error oven throw nasty wife deal caution sight";
+var mnemonic = "joke journey half blame transfer horn crowd blur west injury naive crunch";

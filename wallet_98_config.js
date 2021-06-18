@@ -1,1 +1,1 @@
-var mnemonic = "vacuum obvious cousin tomato wage amazing crouch stock vapor wisdom swamp unique";
+var mnemonic = "forget hat success stem shuffle tomato radio plunge fan want brand corn";

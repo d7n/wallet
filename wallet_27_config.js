@@ -1,1 +1,1 @@
-var mnemonic = "rough napkin faint fossil crush more evil edge model protect silly entry";
+var mnemonic = "fortune attitude deposit heart window outdoor reveal ginger tobacco life devote camp";

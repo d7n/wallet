@@ -1,1 +1,1 @@
-var mnemonic = "online away music detect pulse obtain topic grid anger eight scale angry";
+var mnemonic = "bamboo title confirm cabin easily chief cream room ship view oil test";

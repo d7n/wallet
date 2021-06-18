@@ -1,1 +1,1 @@
-var mnemonic = "average subway drum secret song donor grape tree giant lion boy ripple";
+var mnemonic = "powder ensure horror crucial cigar fatigue arctic syrup announce police letter unfair";

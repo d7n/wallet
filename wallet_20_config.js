@@ -1,1 +1,1 @@
-var mnemonic = "skill sword shaft hobby scout usage combine open siren turtle author case";
+var mnemonic = "doctor skull melt muscle chapter moment thrive latin crunch turn describe tide";

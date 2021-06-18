@@ -1,1 +1,1 @@
-var mnemonic = "always guide yellow course hollow fly athlete tone recipe observe tiger mass";
+var mnemonic = "dolphin kind reunion shy muffin coyote elite domain into actress claim boss";

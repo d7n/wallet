@@ -1,1 +1,1 @@
-var mnemonic = "run enlist custom enlist street annual salt once mail tragic shine sugar";
+var mnemonic = "proud frequent pause catch tenant invite require stereo catalog arena victory trial";

@@ -1,1 +1,1 @@
-var mnemonic = "script tissue home pear monkey hard peasant forget monkey scan vote once";
+var mnemonic = "paddle crisp chef level village agent mandate fall essay kangaroo fiction puzzle";

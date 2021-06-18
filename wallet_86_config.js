@@ -1,1 +1,1 @@
-var mnemonic = "title pen turkey casino swarm carbon knock march boil creek vague anxiety";
+var mnemonic = "fever unable uniform funny dash east rough motion easily tape system slim";

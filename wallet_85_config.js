@@ -1,1 +1,1 @@
-var mnemonic = "menu cool bitter mom volcano tortoise roast diamond top boil plate isolate";
+var mnemonic = "diagram speak giggle twenty cannon shop window call satisfy cable scare elegant";

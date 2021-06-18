@@ -1,1 +1,1 @@
-var mnemonic = "aunt glance flat ordinary cycle earn lens source occur fruit husband legal";
+var mnemonic = "grape liar pole figure uphold path swallow seat online palace common gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "used opera toward flower can wheel accuse apple field ivory churn learn";
+var mnemonic = "off abandon stove divide kite trap fee forget cream maid toe sorry";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair green sad episode speed final ginger strong enlist topple general village";
+var mnemonic = "peace invest business average shaft coral ketchup match laugh spring river insect";

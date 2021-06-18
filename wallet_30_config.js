@@ -1,1 +1,1 @@
-var mnemonic = "guilt option toy deliver essence exist dust uphold language robust feel annual";
+var mnemonic = "love topic refuse romance reason play license dismiss curve phone toast metal";

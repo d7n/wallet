@@ -1,1 +1,1 @@
-var mnemonic = "sudden shock predict priority castle vicious false subway property course upon pudding";
+var mnemonic = "million vital juice swing stove opinion mandate night join teach since random";

@@ -1,1 +1,1 @@
-var mnemonic = "inform behind mail festival liquid shell whisper exile broom journey advice swap";
+var mnemonic = "fork toy success oxygen opera biology fold health produce suffer pig destroy";

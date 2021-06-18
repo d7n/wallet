@@ -1,1 +1,1 @@
-var mnemonic = "lesson access human now pig fan airport elite teach veteran inner illegal";
+var mnemonic = "devote echo wood wheat water wife hobby usage lake purchase chalk prize";

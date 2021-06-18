@@ -1,1 +1,1 @@
-var mnemonic = "exercise business excuse stay party donate right addict bulb air early drill";
+var mnemonic = "bulb wing carry love pumpkin cover awesome diesel surprise share shock cabin";

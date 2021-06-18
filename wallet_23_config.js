@@ -1,1 +1,1 @@
-var mnemonic = "medal casino liquid embrace above slim express thunder night kind quantum sense";
+var mnemonic = "quantum world scheme bring sudden upper used patrol poet quiz model shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "snack venture able thank novel tank nut giraffe void horn army obtain";
+var mnemonic = "just junior mind deposit refuse banana sphere bench dress involve solar club";

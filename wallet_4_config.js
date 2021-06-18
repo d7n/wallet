@@ -1,1 +1,1 @@
-var mnemonic = "slide act near torch flame laugh cupboard anxiety cage recall idea bracket";
+var mnemonic = "gospel manage plastic sniff evoke lens rebuild save raise pulse since symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "often hurry case brick basket diesel melt hint piano glory lunar hood";
+var mnemonic = "wise damage pattern wire ankle trim dance myself blur keep magic grief";

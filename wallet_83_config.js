@@ -1,1 +1,1 @@
-var mnemonic = "capable trash fiscal thunder render rack model wash purchase head grit detect";
+var mnemonic = "blind cycle blood actress evolve that knife receive below gentle connect flavor";

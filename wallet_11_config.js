@@ -1,1 +1,1 @@
-var mnemonic = "combine farm couch develop rapid valid frequent crater sense welcome shiver dice";
+var mnemonic = "antique mesh word magic occur venture club volcano unveil stairs zero bargain";

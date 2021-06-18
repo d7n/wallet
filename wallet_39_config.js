@@ -1,1 +1,1 @@
-var mnemonic = "upset eager high load glove inch merge genre train column apple hint";
+var mnemonic = "cupboard parent term coyote envelope carry dutch display name early table assist";

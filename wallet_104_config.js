@@ -1,1 +1,1 @@
-var mnemonic = "distance hour length casino agent garden neither enroll apology dawn disease pen";
+var mnemonic = "proof lizard reopen renew hole unique core chapter depend uncle undo man";

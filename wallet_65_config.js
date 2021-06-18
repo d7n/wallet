@@ -1,1 +1,1 @@
-var mnemonic = "come soon gorilla pottery resource canoe drip move bird air breeze shield";
+var mnemonic = "crawl cream donor hedgehog bonus board cannon bamboo flock toilet violin volcano";

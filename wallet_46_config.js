@@ -1,1 +1,1 @@
-var mnemonic = "smoke beach foot bitter fan hundred apart snack rain just certain divert";
+var mnemonic = "horse sausage joy dutch robust grass peanut abuse hero shoulder jeans rail";

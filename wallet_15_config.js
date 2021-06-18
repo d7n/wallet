@@ -1,1 +1,1 @@
-var mnemonic = "shoulder combine during surge icon depart detail play magic another first success";
+var mnemonic = "choose cause diagram loyal answer mammal lizard gain crunch hidden above husband";

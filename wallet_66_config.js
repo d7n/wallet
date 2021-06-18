@@ -1,1 +1,1 @@
-var mnemonic = "bronze wild daring joke rabbit census sail moment author model load erode";
+var mnemonic = "outside daring future spy acquire crater march speed proof sing shy wine";

@@ -1,1 +1,1 @@
-var mnemonic = "hundred abuse crucial brain farm winter couch guess dumb snap token permit";
+var mnemonic = "prepare keen elite fat science wet actual still robot job describe gasp";

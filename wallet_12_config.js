@@ -1,1 +1,1 @@
-var mnemonic = "purity rule unique alarm cancel hard flower tag relief buffalo soon alter";
+var mnemonic = "surprise coffee hood congress few runway salt myself couch tilt disease flat";

@@ -1,1 +1,1 @@
-var mnemonic = "position miracle say fitness summer today ozone buffalo grab entire silk cross";
+var mnemonic = "comic dance month valve envelope satoshi axis divert primary vanish truck submit";

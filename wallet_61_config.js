@@ -1,1 +1,1 @@
-var mnemonic = "funny mixture aerobic endorse easily pass typical load detail unhappy fresh wrong";
+var mnemonic = "risk merry journey frost embark point bulb shield easily soap rate correct";

@@ -1,1 +1,1 @@
-var mnemonic = "attract spirit army bless axis ecology estate panel write original power spell";
+var mnemonic = "neutral skirt start keen marble turkey welcome spider addict humor renew mad";

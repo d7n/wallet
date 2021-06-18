@@ -1,1 +1,1 @@
-var mnemonic = "fruit pause broccoli crunch fit senior fetch magic hamster good post shrug";
+var mnemonic = "plug bag pear welcome daughter subject suit safe inside tired trash cram";

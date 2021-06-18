@@ -1,1 +1,1 @@
-var mnemonic = "table switch member maple zone end glue project rough neck diagram identify";
+var mnemonic = "bleak guide guess powder cargo best poem kiwi spring faculty label assist";

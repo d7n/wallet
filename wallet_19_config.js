@@ -1,1 +1,1 @@
-var mnemonic = "athlete estate shadow buyer six random steak select thunder risk chunk rotate";
+var mnemonic = "floor analyst enough clown order potato tell tank typical ball truck art";

@@ -1,1 +1,1 @@
-var mnemonic = "acid test law like ozone item shadow dizzy sport issue index skirt";
+var mnemonic = "miracle novel detail box throw snake uniform belt exist old stumble proof";

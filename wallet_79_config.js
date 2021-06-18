@@ -1,1 +1,1 @@
-var mnemonic = "arm clean grit fever champion sport gap piano mutual prefer ship core";
+var mnemonic = "merge vessel great artwork review spin auto seed absorb live view mask";
