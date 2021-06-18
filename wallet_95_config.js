@@ -1,1 +1,1 @@
-var mnemonic = "eight secret cabin actress above they normal keen equip budget copy infant";
+var mnemonic = "certain proof dial glove token melody maid depend gown lonely someone quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "local retire police owner barely action arrange clarify home image census swamp";
+var mnemonic = "relax owner flock inspire then rebel census faculty brush island what trophy";

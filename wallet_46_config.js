@@ -1,1 +1,1 @@
-var mnemonic = "pledge flavor stable play column demand help warrior seat loop proud drama";
+var mnemonic = "lecture opera chair junior wood since main skate nation solve ketchup genius";

@@ -1,1 +1,1 @@
-var mnemonic = "duty fog drop crucial shop miracle cart decide pistol such jewel orange";
+var mnemonic = "census intact fabric put kind olive rail embrace usual arrange enter bachelor";

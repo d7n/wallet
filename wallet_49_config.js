@@ -1,1 +1,1 @@
-var mnemonic = "educate obscure card pledge road casual grid pole simple model finish junk";
+var mnemonic = "fame exhibit congress flavor alien rate clump true quarter switch junior regular";

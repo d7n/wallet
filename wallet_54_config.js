@@ -1,1 +1,1 @@
-var mnemonic = "trumpet baby embody helmet cheap dwarf verb exit magnet sea sad exchange";
+var mnemonic = "mad excuse void drama bounce broccoli repeat radar joy copper gate please";

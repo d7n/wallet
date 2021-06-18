@@ -1,1 +1,1 @@
-var mnemonic = "cotton huge talent cart omit run worry property trumpet shoulder iron pony";
+var mnemonic = "luxury ridge life hill half purchase castle comfort rocket tongue phone pig";

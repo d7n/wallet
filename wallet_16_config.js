@@ -1,1 +1,1 @@
-var mnemonic = "tragic inspire icon flat tooth shiver pact scan convince mix truly juice";
+var mnemonic = "slow salute amateur boil pause laptop buffalo floor sponsor define rain leader";

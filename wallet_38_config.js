@@ -1,1 +1,1 @@
-var mnemonic = "witness critic afraid advance girl offer pretty enact boss dizzy visa arrest";
+var mnemonic = "slide remind express club give exact crystal split beach smart mom tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff pattern top before actual naive expose life uncle tackle ranch path";
+var mnemonic = "space empower label also april trip dawn remain faint rack bleak victory";

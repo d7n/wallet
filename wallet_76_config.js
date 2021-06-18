@@ -1,1 +1,1 @@
-var mnemonic = "usual claim deny harsh nuclear grass provide finish next twenty undo certain";
+var mnemonic = "nice winner kangaroo slide crater hip soon pelican actor water siren refuse";

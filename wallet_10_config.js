@@ -1,1 +1,1 @@
-var mnemonic = "unfold resist debris inside movie return stumble flat pond monkey window slogan";
+var mnemonic = "clarify zero infant decline match view twenty text garage garden pyramid screen";

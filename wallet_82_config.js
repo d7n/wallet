@@ -1,1 +1,1 @@
-var mnemonic = "narrow entire length decline lounge crawl chapter doll peasant holiday possible knock";
+var mnemonic = "hurry ring diary hand critic finish health whip dose ski trap catalog";

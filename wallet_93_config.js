@@ -1,1 +1,1 @@
-var mnemonic = "pitch churn south can motion dolphin vital glass gold crater spread divide";
+var mnemonic = "apple keen comfort supreme disorder hungry setup affair gym defense protect glad";

@@ -1,1 +1,1 @@
-var mnemonic = "venture casino spice capable essay actual soul long swamp valley sentence fire";
+var mnemonic = "name paper pupil tree ship lawsuit wasp place wisdom october slogan egg";

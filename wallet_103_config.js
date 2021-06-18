@@ -1,1 +1,1 @@
-var mnemonic = "power owner border hungry rich nerve whip pulse room shield grass organ";
+var mnemonic = "asthma focus dumb midnight insane core royal flush snack bulk select dry";

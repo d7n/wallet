@@ -1,1 +1,1 @@
-var mnemonic = "report pet spoil monitor ladder simple people load enroll slush law month";
+var mnemonic = "cake before giggle spoil laugh proud divide echo between able address unfair";

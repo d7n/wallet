@@ -1,1 +1,1 @@
-var mnemonic = "artefact then trial about secret cupboard foam blast area ski knife grow";
+var mnemonic = "zebra pipe spirit net north wife rule angry combine nut common subway";

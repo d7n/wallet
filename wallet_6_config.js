@@ -1,1 +1,1 @@
-var mnemonic = "vital pigeon useful rent rain garage blue mind alert capable capable off";
+var mnemonic = "oil explain winter payment comfort gauge relief forward peanut loyal lion more";

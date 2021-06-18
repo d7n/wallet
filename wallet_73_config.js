@@ -1,1 +1,1 @@
-var mnemonic = "corn cash unit polar obey vibrant picture gallery forum clean food blouse";
+var mnemonic = "cable collect name kingdom car fault wage bench elephant army theme debris";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket eye hungry life canoe pistol rubber hurt renew pencil distance soccer";
+var mnemonic = "patient front feature away cute ignore sport steel forest level emerge visit";

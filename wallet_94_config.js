@@ -1,1 +1,1 @@
-var mnemonic = "glimpse dress drive place fatigue census danger awesome vacant snow zone hammer";
+var mnemonic = "fabric vacant say wash cabin bronze amused fashion diary possible dust goddess";

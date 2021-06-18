@@ -1,1 +1,1 @@
-var mnemonic = "change town magic pyramid review festival guitar glow little carpet flat ancient";
+var mnemonic = "enable parrot elephant adapt scene video breeze farm lava nest park orient";

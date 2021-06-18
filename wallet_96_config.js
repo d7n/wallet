@@ -1,1 +1,1 @@
-var mnemonic = "sweet joke news museum despair believe have beyond cat year lumber nut";
+var mnemonic = "people cactus pride earth abandon injury genius problem sail cereal year casino";

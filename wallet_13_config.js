@@ -1,1 +1,1 @@
-var mnemonic = "gate work phone fun summer just meat fresh fit expand east father";
+var mnemonic = "toe attract live wink material beef phrase tornado female electric shed jealous";

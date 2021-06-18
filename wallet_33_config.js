@@ -1,1 +1,1 @@
-var mnemonic = "april fruit arrive jaguar buzz attend plate very polar february success void";
+var mnemonic = "record yard jacket canyon onion olympic obtain slice trim sausage announce grocery";

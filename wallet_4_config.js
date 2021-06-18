@@ -1,1 +1,1 @@
-var mnemonic = "bitter diary live auction sniff ripple bind fatal satoshi harsh advance cloud";
+var mnemonic = "boost salon mango ready drill across scrap solid weasel blouse issue snack";

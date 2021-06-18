@@ -1,1 +1,1 @@
-var mnemonic = "such toy dog guess pen rigid govern know join ignore inside injury";
+var mnemonic = "dog master romance virus cube swift pencil soap trash slab decade extra";

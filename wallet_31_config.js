@@ -1,1 +1,1 @@
-var mnemonic = "crane learn color work aim hood invite body twelve fog blanket legend";
+var mnemonic = "dial wisdom pen marine pizza nurse person hotel enough pencil strike permit";

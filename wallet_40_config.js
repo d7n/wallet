@@ -1,1 +1,1 @@
-var mnemonic = "miracle light grape quote party wear polar mercy cube armor rifle tortoise";
+var mnemonic = "whisper pumpkin demand whip section kid rebel guard inner clay scale marriage";

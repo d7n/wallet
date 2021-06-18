@@ -1,1 +1,1 @@
-var mnemonic = "lobster oil journey smart strategy horse author hockey end normal rough waste";
+var mnemonic = "enemy dance more forget enhance include obvious weird fence man act october";

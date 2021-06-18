@@ -1,1 +1,1 @@
-var mnemonic = "donate cute sick net phrase unaware ticket multiply deliver obtain until alcohol";
+var mnemonic = "salt hurry artwork ability trend cost gas aisle vehicle gown squirrel moment";

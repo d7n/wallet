@@ -1,1 +1,1 @@
-var mnemonic = "blush lonely subject emotion one jaguar truth speed mobile rigid boring surround";
+var mnemonic = "swap used renew aware clever minute sort ceiling transfer candy board evoke";

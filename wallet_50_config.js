@@ -1,1 +1,1 @@
-var mnemonic = "group scare other tongue merge supply angry essay satisfy word crater move";
+var mnemonic = "spirit foam oak logic pen elbow october neutral auction have renew gate";

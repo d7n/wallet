@@ -1,1 +1,1 @@
-var mnemonic = "visit asset limb corn patient mobile razor goddess fruit worry jelly good";
+var mnemonic = "aim book siren shiver render sick bomb cereal fiber drop tribe bird";

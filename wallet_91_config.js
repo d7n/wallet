@@ -1,1 +1,1 @@
-var mnemonic = "sphere enhance task muscle wrist flat foot upgrade solar name taxi ordinary";
+var mnemonic = "undo fan chef elbow cruise weird medal axis gloom faith glow expand";

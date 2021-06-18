@@ -1,1 +1,1 @@
-var mnemonic = "slush super judge suggest inspire return vessel man elder note click garment";
+var mnemonic = "chef move ocean tag side vapor annual outside device board tobacco mango";

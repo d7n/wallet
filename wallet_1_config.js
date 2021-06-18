@@ -1,1 +1,1 @@
-var mnemonic = "option brown now silly welcome chest jar job balance fiber flight caution";
+var mnemonic = "cradle pig opinion review alcohol cute exercise return able hurry kit find";

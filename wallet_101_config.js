@@ -1,1 +1,1 @@
-var mnemonic = "cement salad power order curious body bike original joy lyrics cube crouch";
+var mnemonic = "entry marble ripple moral garment category crop six autumn oblige flame method";

@@ -1,1 +1,1 @@
-var mnemonic = "empty assault room brain bulb person retire roof path grid problem prepare";
+var mnemonic = "provide outside submit resist speak visit differ youth bunker risk doctor noodle";

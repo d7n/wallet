@@ -1,1 +1,1 @@
-var mnemonic = "cruise cube library baby material debate element tomorrow bridge strong garment give";
+var mnemonic = "toe behave shift buffalo trumpet march goat sea equip hawk reveal camera";

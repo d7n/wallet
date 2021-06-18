@@ -1,1 +1,1 @@
-var mnemonic = "whip enrich wish april market crisp blood acid tuna couple output shock";
+var mnemonic = "near hurt castle miss choose select bike gasp castle casual clog wave";

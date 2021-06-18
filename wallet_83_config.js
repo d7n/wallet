@@ -1,1 +1,1 @@
-var mnemonic = "attitude glove fatal shaft flock this rocket above silent snake rare define";
+var mnemonic = "release cousin inflict badge card wagon puppy sick hurry agree potato betray";

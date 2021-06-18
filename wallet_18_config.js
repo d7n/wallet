@@ -1,1 +1,1 @@
-var mnemonic = "vintage enough degree quick twenty husband cannon runway minor inform virus account";
+var mnemonic = "song pear puzzle veteran indoor siren goddess area phrase season machine camp";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve shift orient floor clean lend lecture company genius current fury curve";
+var mnemonic = "leisure hobby deposit dash true idle quiz wood inhale unknown fruit private";

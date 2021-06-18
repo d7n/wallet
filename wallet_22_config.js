@@ -1,1 +1,1 @@
-var mnemonic = "donor various border easily ribbon mule village bonus essence asthma bounce ball";
+var mnemonic = "goat simple utility garbage punch liar wall wedding gather hand flavor crystal";

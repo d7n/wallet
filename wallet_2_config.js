@@ -1,1 +1,1 @@
-var mnemonic = "cheap item proof lava antique quality hobby secret simple blast churn sand";
+var mnemonic = "farm front sock cruel garment flee farm decade sketch divide coil forget";

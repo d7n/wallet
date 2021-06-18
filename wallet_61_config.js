@@ -1,1 +1,1 @@
-var mnemonic = "sing deer harsh force tomorrow bottom script kick rice avocado half carbon";
+var mnemonic = "you theory fit defy close enemy clap ramp letter fit demise spy";

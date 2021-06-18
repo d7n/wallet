@@ -1,1 +1,1 @@
-var mnemonic = "tennis demand rare mechanic hollow orbit bonus library square strategy shiver neck";
+var mnemonic = "unit board raccoon window weird debris frog absent shoe pool stove pen";

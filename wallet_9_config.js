@@ -1,1 +1,1 @@
-var mnemonic = "pledge liar expect artwork zoo symptom fringe promote trouble afraid renew bag";
+var mnemonic = "history deer junk mercy intact under rude escape cry jewel inherit crunch";

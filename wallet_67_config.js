@@ -1,1 +1,1 @@
-var mnemonic = "animal monkey loan safe pitch add page today wrong craft vivid couple";
+var mnemonic = "know result immense narrow marriage empty dinner tuition struggle salt sister stage";

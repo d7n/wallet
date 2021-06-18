@@ -1,1 +1,1 @@
-var mnemonic = "coral biology forum palace faculty motion brick skirt tape fever below desert";
+var mnemonic = "obey wealth seven age few swarm exhibit mule chicken drink accident recall";

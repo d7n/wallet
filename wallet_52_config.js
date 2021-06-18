@@ -1,1 +1,1 @@
-var mnemonic = "erupt aware purity monster hold mad subject depart soul zoo motor stairs";
+var mnemonic = "angry body sustain vendor hamster surprise quote game kid term educate orphan";

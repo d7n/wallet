@@ -1,1 +1,1 @@
-var mnemonic = "empower one recycle reunion inspire knock butter bleak head struggle hen again";
+var mnemonic = "eternal tray cinnamon canal dumb side cactus guard cream era autumn light";

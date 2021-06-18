@@ -1,1 +1,1 @@
-var mnemonic = "burden fantasy divorce word machine lemon camera purse plastic leave misery push";
+var mnemonic = "chuckle current sister female situate neglect slide repair moon cruel donor girl";

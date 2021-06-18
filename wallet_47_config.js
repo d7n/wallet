@@ -1,1 +1,1 @@
-var mnemonic = "insane erode tube later love rather face struggle table rocket pluck merge";
+var mnemonic = "carry party soup decade path sail salad rate balance humble jewel fence";

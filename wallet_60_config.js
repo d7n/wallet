@@ -1,1 +1,1 @@
-var mnemonic = "pet finish conduct sphere outdoor thought assume vehicle ecology fever slim coconut";
+var mnemonic = "tape turtle blame nation hamster universe bargain title art gasp since repair";

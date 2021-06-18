@@ -1,1 +1,1 @@
-var mnemonic = "push fox polar arrest strategy ocean talk wood aunt ordinary salon route";
+var mnemonic = "budget hire open own hammer pond sphere gold elder shaft crush couch";

@@ -1,1 +1,1 @@
-var mnemonic = "hen panda goddess thrive use apart cherry mansion fitness lounge convince solar";
+var mnemonic = "core enhance throw auto pause anger march hundred green inquiry balcony swim";

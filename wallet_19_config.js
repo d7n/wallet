@@ -1,1 +1,1 @@
-var mnemonic = "bird head raw flavor labor spice sure regular nuclear antique media silver";
+var mnemonic = "repeat rather planet very ignore credit breeze edge west nuclear simple neither";

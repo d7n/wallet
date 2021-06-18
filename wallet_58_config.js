@@ -1,1 +1,1 @@
-var mnemonic = "own else market cube viable want rotate drastic whisper supreme beef unusual";
+var mnemonic = "achieve much celery unveil between afford obtain lion expand weapon hint winner";

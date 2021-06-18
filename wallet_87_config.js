@@ -1,1 +1,1 @@
-var mnemonic = "modify control burger faint twice bike jump crawl shoot enough creek sound";
+var mnemonic = "trust detect budget oppose coin erupt dose various impact mobile grab draw";

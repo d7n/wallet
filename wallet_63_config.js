@@ -1,1 +1,1 @@
-var mnemonic = "other maid multiply test delay require fence column float plastic perfect vintage";
+var mnemonic = "fortune series can garden clean salt romance adult novel know brush birth";

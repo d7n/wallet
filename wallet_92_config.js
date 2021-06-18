@@ -1,1 +1,1 @@
-var mnemonic = "clarify stage gap submit fury gas diamond emotion broccoli drill leopard size";
+var mnemonic = "island test circle catch length unit knee sell detect script vintage already";

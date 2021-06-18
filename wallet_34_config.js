@@ -1,1 +1,1 @@
-var mnemonic = "physical torch utility beyond flight behind tackle enough derive habit core drink";
+var mnemonic = "hold spawn tired fall soldier harbor error someone develop coach guide width";

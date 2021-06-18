@@ -1,1 +1,1 @@
-var mnemonic = "pudding style drama drip waste fossil ridge pigeon zebra plate trumpet power";
+var mnemonic = "feature wrestle appear prepare bomb income lemon avoid casual zebra merge educate";

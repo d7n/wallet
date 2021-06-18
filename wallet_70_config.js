@@ -1,1 +1,1 @@
-var mnemonic = "fault shoe puppy desert pottery twice retire trash image junk music age";
+var mnemonic = "rocket convince miss club battle benefit spell cradle bless industry left sad";

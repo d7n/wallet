@@ -1,1 +1,1 @@
-var mnemonic = "vote ask bullet panic hockey intact animal whip wrist differ city swing";
+var mnemonic = "cake useful speak disorder peace feel real time rate enable cover decide";

@@ -1,1 +1,1 @@
-var mnemonic = "toy congress bulb bottom wet mail divorce once trap blame virus voyage";
+var mnemonic = "fold theory hurdle gift tone loud lunar brand dinosaur often require spell";

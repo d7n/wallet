@@ -1,1 +1,1 @@
-var mnemonic = "armor grid immune maximum kite catch truth sorry shoot capital dial spread";
+var mnemonic = "harsh drama cluster morning endorse hazard trick rely faint sure lamp subway";

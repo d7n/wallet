@@ -1,1 +1,1 @@
-var mnemonic = "awesome fade thunder just garden turtle check sketch cover utility happy echo";
+var mnemonic = "shaft hurt useless grab turn cradle green crane license worth suggest under";

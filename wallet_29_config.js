@@ -1,1 +1,1 @@
-var mnemonic = "thumb venture embark hedgehog rather inject right cram tilt donate grid above";
+var mnemonic = "select bachelor poet special witness dentist fresh useless play misery quick dance";

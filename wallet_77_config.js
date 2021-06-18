@@ -1,1 +1,1 @@
-var mnemonic = "health basic melt uncover hand place chicken nasty inch model manual plate";
+var mnemonic = "embark cruel school negative delay drink crystal margin swift cake view captain";

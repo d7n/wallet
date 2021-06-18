@@ -1,1 +1,1 @@
-var mnemonic = "hybrid student pass gate voyage click first gain roof card basket various";
+var mnemonic = "same gesture human client cabbage demise slim remind dust trap celery timber";

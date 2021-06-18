@@ -1,1 +1,1 @@
-var mnemonic = "cash allow auction ignore upon barrel post meat salad moment kid ranch";
+var mnemonic = "foster layer express crumble border smoke claim law sport junior powder solution";

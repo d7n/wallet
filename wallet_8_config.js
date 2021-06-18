@@ -1,1 +1,1 @@
-var mnemonic = "unaware regret cook volcano east place collect museum horn embrace patch spare";
+var mnemonic = "sadness tomato jaguar hole cage industry biology surprise critic vast flip mandate";

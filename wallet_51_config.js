@@ -1,1 +1,1 @@
-var mnemonic = "squeeze gospel feature orchard swarm peasant pretty virus daughter sting increase battle";
+var mnemonic = "polar able kitten design direct endless real message palm couple purse cabin";

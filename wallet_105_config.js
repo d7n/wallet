@@ -1,1 +1,1 @@
-var mnemonic = "manage wasp index virtual sport punch mother solution receive keen glad panel";
+var mnemonic = "expire visual velvet knife unaware rude census perfect ice gallery mosquito able";

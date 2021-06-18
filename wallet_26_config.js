@@ -1,1 +1,1 @@
-var mnemonic = "source elite draw tribe erosion rent develop toilet siege cousin away please";
+var mnemonic = "promote section priority zebra violin faculty base still infant bundle tumble ring";

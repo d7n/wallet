@@ -1,1 +1,1 @@
-var mnemonic = "tortoise kingdom disorder powder survey pipe use involve gas chair guilt used";
+var mnemonic = "soon rough tired rack quick actual rigid neither fiction wine shiver planet";

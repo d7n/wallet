@@ -1,1 +1,1 @@
-var mnemonic = "ride lion tape alone ribbon art vault mimic common liquid era soon";
+var mnemonic = "mouse tell flash pass sand unaware debate lava tunnel benefit price flame";

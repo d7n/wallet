@@ -1,1 +1,1 @@
-var mnemonic = "actual wagon visit matter extend also asthma rocket okay message bounce pigeon";
+var mnemonic = "fix script upon orchard picnic reform involve afford cricket broom dutch mansion";

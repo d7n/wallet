@@ -1,1 +1,1 @@
-var mnemonic = "grass blush tobacco vault bottom expand letter poem three embody rose area";
+var mnemonic = "diesel tired turn share crystal steel monster fruit convince average buyer aspect";

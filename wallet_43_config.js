@@ -1,1 +1,1 @@
-var mnemonic = "say wealth mammal exit arrange alpha join bracket stock fiction sugar second";
+var mnemonic = "sea surge trouble silly april pink motor always ugly orange assault pink";

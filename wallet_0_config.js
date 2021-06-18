@@ -1,1 +1,1 @@
-var mnemonic = "used certain broom rude person decorate glove length noble someone service gadget";
+var mnemonic = "supreme nest water pepper economy ship subject what cheese next crouch valve";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll despair gaze nurse fat silk inject inflict team seven mixture patch";
+var mnemonic = "picnic hobby hamster hotel muscle among miss elegant choose upset pink game";

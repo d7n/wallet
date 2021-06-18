@@ -1,1 +1,1 @@
-var mnemonic = "diary all visa sight crawl clip dirt hollow slow acoustic trap neglect";
+var mnemonic = "rice humor square dial say rally reject ordinary skin panther obtain affair";

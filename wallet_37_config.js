@@ -1,1 +1,1 @@
-var mnemonic = "deal dose neck produce noble cart random seat stove brush item endless";
+var mnemonic = "twist once police mobile follow ribbon delay good flock oil episode deer";

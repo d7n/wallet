@@ -1,1 +1,1 @@
-var mnemonic = "priority soft find hurdle fiction wealth frozen prosper close useful name forum";
+var mnemonic = "grid help crouch air bike grunt tuition soul report over champion aspect";

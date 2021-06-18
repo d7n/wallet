@@ -1,1 +1,1 @@
-var mnemonic = "demand depth peanut fortune print habit legal tent first prevent lucky road";
+var mnemonic = "trash sudden vacant quiz lemon blossom unhappy dune keep jump buffalo jump";
