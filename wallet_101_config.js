@@ -1,1 +1,1 @@
-var mnemonic = "try cost glide pilot roast deal body asthma assault moral female toddler";
+var mnemonic = "tooth crime pelican shoot match flip bag lucky remove plunge mass inhale";

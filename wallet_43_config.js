@@ -1,1 +1,1 @@
-var mnemonic = "capital merge promote zoo crush regular split young reveal shop earth exclude";
+var mnemonic = "dish expect decade able nothing patch again bike ripple toy shift panda";

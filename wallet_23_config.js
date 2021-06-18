@@ -1,1 +1,1 @@
-var mnemonic = "toddler month lyrics bounce check people swift expand boost arrange balcony shadow";
+var mnemonic = "wheat found weather burst rotate derive inject donkey narrow success million artefact";

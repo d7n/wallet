@@ -1,1 +1,1 @@
-var mnemonic = "bronze token stuff capital inquiry vehicle glance caution bulk citizen divorce midnight";
+var mnemonic = "junior monster october intact pyramid blast undo carry mesh maid easy nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer hospital body dilemma young crack celery achieve ritual crime title rare";
+var mnemonic = "share climb power brave mind task syrup oyster belt fury rude fragile";

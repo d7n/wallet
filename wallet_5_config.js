@@ -1,1 +1,1 @@
-var mnemonic = "hand review eight actor general hospital neither glance lamp three tomorrow differ";
+var mnemonic = "volume illness example rescue brush stumble food oven erase physical gesture east";

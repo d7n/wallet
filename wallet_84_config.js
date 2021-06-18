@@ -1,1 +1,1 @@
-var mnemonic = "garbage tribe price impose steak ladder alpha wide mammal alert move best";
+var mnemonic = "repeat wish abuse canoe card job eight fetch speak olympic life canoe";

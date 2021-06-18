@@ -1,1 +1,1 @@
-var mnemonic = "repair earn prefer ozone devote swamp wool sting fitness plug trust detect";
+var mnemonic = "boat fix trophy baby smart crane sauce garage chase toast violin copper";

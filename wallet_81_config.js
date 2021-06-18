@@ -1,1 +1,1 @@
-var mnemonic = "ranch slogan bleak pottery crack deer good case inside knife wild rebel";
+var mnemonic = "arrive fence inspire simple spoil session fan budget push runway fashion sound";

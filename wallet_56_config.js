@@ -1,1 +1,1 @@
-var mnemonic = "great steel wine sense corn ocean display mimic garment bone bottom canal";
+var mnemonic = "genre razor whale artwork capital scale rescue employ delay live ostrich train";

@@ -1,1 +1,1 @@
-var mnemonic = "brick junior become globe mimic cloud sad exhaust creek quick voice mean";
+var mnemonic = "action guide accuse glide comic actor domain afraid useless candy diagram error";

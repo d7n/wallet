@@ -1,1 +1,1 @@
-var mnemonic = "top sausage across turn category gesture blast depth acoustic muffin nominee duty";
+var mnemonic = "apology venture position brisk skirt knee alpha summer behave limit ski dumb";

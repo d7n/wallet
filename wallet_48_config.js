@@ -1,1 +1,1 @@
-var mnemonic = "erase insane carbon require valid liberty trick ten certain decrease good normal";
+var mnemonic = "odor crater under catch ritual sense lunch clutch autumn bench lamp forest";

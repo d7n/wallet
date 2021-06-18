@@ -1,1 +1,1 @@
-var mnemonic = "sense author woman kid glimpse alter crop window lounge open math drip";
+var mnemonic = "gather debris math casino pulse enlist work market episode else great intact";

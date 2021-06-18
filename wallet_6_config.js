@@ -1,1 +1,1 @@
-var mnemonic = "citizen robust dice trust donor ability frequent stadium draw artist sweet panel";
+var mnemonic = "coin second salon shoot between acquire merry give magnet flush design people";

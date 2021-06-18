@@ -1,1 +1,1 @@
-var mnemonic = "sniff replace good method rifle ethics venture measure border symbol firm any";
+var mnemonic = "flat friend good alcohol edit echo vintage caught discover method unaware stereo";

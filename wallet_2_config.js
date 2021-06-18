@@ -1,1 +1,1 @@
-var mnemonic = "ensure taxi glad tumble carpet voice vote elite kidney dream rail gain";
+var mnemonic = "turn sweet setup image matter east wash salad swing inject catalog economy";

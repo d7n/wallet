@@ -1,1 +1,1 @@
-var mnemonic = "jewel search pole diary mosquito fluid act powder blind pepper help write";
+var mnemonic = "corn matter wash oyster morning save stove search explain since mail large";

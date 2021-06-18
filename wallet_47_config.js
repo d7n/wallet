@@ -1,1 +1,1 @@
-var mnemonic = "arch primary february solid chat local retreat between public boost discover old";
+var mnemonic = "boring right myself reason ginger expire quote morning dance rifle crime invest";

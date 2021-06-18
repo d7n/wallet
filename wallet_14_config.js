@@ -1,1 +1,1 @@
-var mnemonic = "aware arctic travel chronic day evidence page school jacket recycle source immense";
+var mnemonic = "face state unknown topple path jelly renew place syrup demise feel hat";

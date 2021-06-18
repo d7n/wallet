@@ -1,1 +1,1 @@
-var mnemonic = "number muffin zero hard pink cannon sight squeeze uniform symptom reopen topic";
+var mnemonic = "check start menu now pencil photo finger apple bounce thrive mask select";

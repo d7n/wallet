@@ -1,1 +1,1 @@
-var mnemonic = "entire belt reunion swim equal athlete eight sun just noise rice among";
+var mnemonic = "party series tool maze album sport danger during cloud blush forum fence";

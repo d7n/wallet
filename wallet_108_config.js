@@ -1,1 +1,1 @@
-var mnemonic = "salon spin salute size fuel drink trim pluck used utility rent deny";
+var mnemonic = "hundred guess sense chief merry inquiry cradle plug tent slide police belt";

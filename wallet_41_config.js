@@ -1,1 +1,1 @@
-var mnemonic = "record arrange antenna stand walnut define can cereal front invite cricket cup";
+var mnemonic = "rug gloom sure diesel orient vibrant coach jealous order jealous exercise clap";

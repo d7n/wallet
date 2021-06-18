@@ -1,1 +1,1 @@
-var mnemonic = "drill emotion erupt stuff under top swarm flip father owner zero true";
+var mnemonic = "joke front doctor easily shoe window season where play voice jungle slow";

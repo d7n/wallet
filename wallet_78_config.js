@@ -1,1 +1,1 @@
-var mnemonic = "fashion act step practice type rifle inherit latin super cactus reduce soft";
+var mnemonic = "laugh alter enroll typical attack miracle onion visit gasp judge often before";

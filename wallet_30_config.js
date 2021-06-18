@@ -1,1 +1,1 @@
-var mnemonic = "urge toward exercise subway powder adapt brick wheel atom earth rabbit mechanic";
+var mnemonic = "wire nerve jewel artist faith spawn matter steel ridge travel pause match";

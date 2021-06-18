@@ -1,1 +1,1 @@
-var mnemonic = "leave tornado zebra mesh matrix sample fall occur erode myself proud fun";
+var mnemonic = "wheel ankle orbit sheriff clay school write youth craft absent crash short";

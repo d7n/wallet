@@ -1,1 +1,1 @@
-var mnemonic = "bridge fashion wheel ostrich fantasy donkey moon unknown glass normal subject cry";
+var mnemonic = "extend volume regret pole donor situate creek believe friend hurdle walnut mask";

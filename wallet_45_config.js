@@ -1,1 +1,1 @@
-var mnemonic = "accuse castle street bean citizen person midnight shift render build control help";
+var mnemonic = "safe garden one spend patrol vague ride crisp essay else file desert";

@@ -1,1 +1,1 @@
-var mnemonic = "grace assist slogan palace isolate polar amount ocean trim lottery wave luxury";
+var mnemonic = "awesome boss rough curious marble drink crane engine obey current puppy kingdom";

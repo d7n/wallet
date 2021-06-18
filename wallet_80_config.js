@@ -1,1 +1,1 @@
-var mnemonic = "spy cushion once convince peace either post bunker reunion tube punch blur";
+var mnemonic = "wood add spy library mule educate museum remind curtain oyster angry access";

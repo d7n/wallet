@@ -1,1 +1,1 @@
-var mnemonic = "engine attack caught amused legend bamboo tortoise eyebrow airport lake garment desk";
+var mnemonic = "convince erode device tree toss picture owner loud evolve plug outside tooth";

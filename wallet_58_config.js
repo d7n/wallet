@@ -1,1 +1,1 @@
-var mnemonic = "debris strategy dismiss vapor march fault segment step track plunge door crime";
+var mnemonic = "because provide involve spell weasel manage want supreme side opera subway pipe";

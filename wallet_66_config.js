@@ -1,1 +1,1 @@
-var mnemonic = "young across lake list orbit clutch board alter pizza rely verb curtain";
+var mnemonic = "among twist drift idea dumb spawn deposit ancient cousin ability fix jar";

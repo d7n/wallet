@@ -1,1 +1,1 @@
-var mnemonic = "quality whale mutual fun tortoise learn history nation cross term write woman";
+var mnemonic = "skate badge correct leopard scare host girl fresh juice clown thing random";

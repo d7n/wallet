@@ -1,1 +1,1 @@
-var mnemonic = "suspect fever project resemble neither attitude myth jar assault raw pilot muscle";
+var mnemonic = "sister soup client catalog crime tube shove web either bus there merry";

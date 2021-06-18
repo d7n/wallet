@@ -1,1 +1,1 @@
-var mnemonic = "fog slight champion ugly area fortune north rally brother video say family";
+var mnemonic = "what fatal shrug awful differ promote release field chaos napkin faint extend";

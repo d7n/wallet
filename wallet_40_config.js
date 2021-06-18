@@ -1,1 +1,1 @@
-var mnemonic = "bacon lady health term crunch mixture index allow frame axis ozone what";
+var mnemonic = "pear water potato april ethics until ready unknown screen garage segment prison";

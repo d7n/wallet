@@ -1,1 +1,1 @@
-var mnemonic = "glide mouse kangaroo squeeze butter crowd outer burst bring direct stool margin";
+var mnemonic = "hungry city pride drill extend garlic traffic husband empty leaf cradle become";

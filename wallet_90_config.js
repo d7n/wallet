@@ -1,1 +1,1 @@
-var mnemonic = "among size weather lens sword drill click armor ramp help demand diesel";
+var mnemonic = "kangaroo mistake cave endless rural dream parade prefer donkey measure tiger lion";

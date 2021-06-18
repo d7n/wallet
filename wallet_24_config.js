@@ -1,1 +1,1 @@
-var mnemonic = "snap brain rose truly afford broccoli example attitude sugar link vintage pulp";
+var mnemonic = "pencil retire flame enforce swallow mimic search grass fade female awake drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "assist muffin invite phone vast trumpet turkey piece hurry crazy maid orchard";
+var mnemonic = "pole relax ripple minute junior tilt chair buyer thrive sentence ugly grocery";

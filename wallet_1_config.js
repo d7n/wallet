@@ -1,1 +1,1 @@
-var mnemonic = "lemon slogan soul organ giggle pride pluck alpha remove unaware swarm barrel";
+var mnemonic = "fashion blur art client mix super pink slogan chief swamp lady output";

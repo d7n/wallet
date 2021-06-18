@@ -1,1 +1,1 @@
-var mnemonic = "dog toe meat card hammer index print degree foster man lounge cat";
+var mnemonic = "give kangaroo duck few upon tape silver enrich sphere jar sphere exist";

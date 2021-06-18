@@ -1,1 +1,1 @@
-var mnemonic = "home effort unusual sad bargain bright yellow grape employ organ photo plastic";
+var mnemonic = "collect script fire explain close valid vehicle anchor educate remove truth fat";

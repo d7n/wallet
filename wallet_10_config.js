@@ -1,1 +1,1 @@
-var mnemonic = "double glow alter bullet tip best trap rare upset expire gadget lend";
+var mnemonic = "polar document sport punch risk joke list produce license skill lift paper";

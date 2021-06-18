@@ -1,1 +1,1 @@
-var mnemonic = "dune cube void price ginger diet praise minor girl speed doctor sugar";
+var mnemonic = "flag copper better bind tube shuffle portion exile crystal member come warm";

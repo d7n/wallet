@@ -1,1 +1,1 @@
-var mnemonic = "poverty talk list script mother unfair brave army chunk salad inhale giant";
+var mnemonic = "erase slot helmet explain alone teach insect panel slush kiwi broom more";

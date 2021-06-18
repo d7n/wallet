@@ -1,1 +1,1 @@
-var mnemonic = "soap chronic settle section plastic green chest frozen better later cousin stone";
+var mnemonic = "knee maple process sheriff mobile fluid stand cattle combine dash armor oxygen";

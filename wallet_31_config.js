@@ -1,1 +1,1 @@
-var mnemonic = "nurse salute candy slide spend mountain extra patrol donkey vague certain control";
+var mnemonic = "success strong knife chapter donate topic boil fresh ahead judge case north";

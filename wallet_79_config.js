@@ -1,1 +1,1 @@
-var mnemonic = "fancy switch lottery program live inject lamp draw trumpet youth first depend";
+var mnemonic = "viable nothing bulb pilot simple rotate maximum apart marine random royal unique";

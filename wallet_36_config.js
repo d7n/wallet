@@ -1,1 +1,1 @@
-var mnemonic = "amateur distance hat twenty certain hill banner drum truth tool sunny buddy";
+var mnemonic = "brave festival interest random stereo seek arena laptop achieve share peace crane";

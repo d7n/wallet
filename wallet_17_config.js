@@ -1,1 +1,1 @@
-var mnemonic = "hour theory female reflect then stumble cruel begin hungry hurdle pear inflict";
+var mnemonic = "fee genuine ceiling slush weird wave cook concert churn buffalo finger burst";

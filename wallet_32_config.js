@@ -1,1 +1,1 @@
-var mnemonic = "thumb wedding during punch match chat tongue grow smart inmate match sand";
+var mnemonic = "flip denial almost proof crisp crop furnace chaos cable grid oval orbit";

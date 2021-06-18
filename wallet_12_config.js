@@ -1,1 +1,1 @@
-var mnemonic = "success update skirt brass table collect lava fence atom noodle rotate day";
+var mnemonic = "injury sport farm apology glad exile infant dirt gossip crisp vapor real";

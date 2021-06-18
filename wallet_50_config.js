@@ -1,1 +1,1 @@
-var mnemonic = "taxi odor retreat uniform hundred shift negative juice sadness arena arrest shine";
+var mnemonic = "pledge arch faith muffin relief spice law hope dumb blue fiction crisp";

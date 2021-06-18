@@ -1,1 +1,1 @@
-var mnemonic = "home fruit donkey jump since trigger day vintage obvious afraid raise allow";
+var mnemonic = "bounce judge mix audit illness memory stage car stay burger predict minimum";

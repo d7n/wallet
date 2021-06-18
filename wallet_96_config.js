@@ -1,1 +1,1 @@
-var mnemonic = "whale twin else daughter black solar theory execute observe icon order empower";
+var mnemonic = "quality wage useless during try daughter toy bargain manage combine client envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "castle pink doctor income require weasel leader first flush circle nice pig";
+var mnemonic = "enrich monitor mass divorce load silent guess twin keen toddler rubber this";

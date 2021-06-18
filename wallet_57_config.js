@@ -1,1 +1,1 @@
-var mnemonic = "school cradle process aware song govern door usage race cave avocado echo";
+var mnemonic = "end picnic throw hole develop word swing gift recipe end weapon educate";

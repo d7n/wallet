@@ -1,1 +1,1 @@
-var mnemonic = "upon fan plastic online street sort because noodle wrist leopard border welcome";
+var mnemonic = "pulp little monitor rescue burst record welcome soup analyst purse regular fog";

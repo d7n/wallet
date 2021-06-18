@@ -1,1 +1,1 @@
-var mnemonic = "brain near power couch admit lecture need surface venture cube promote scare";
+var mnemonic = "knock title grow frost anchor deer champion invite brand tray sheriff vote";

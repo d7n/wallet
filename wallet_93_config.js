@@ -1,1 +1,1 @@
-var mnemonic = "face tube weather swamp auto reason funny input firm again trouble agree";
+var mnemonic = "notice foot fault radio pulse fashion garment egg cube craft unknown civil";

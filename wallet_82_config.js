@@ -1,1 +1,1 @@
-var mnemonic = "parrot real hotel attend visit crouch fit evoke can tilt dice side";
+var mnemonic = "treat under joy copy boost shield false device deal question describe advance";

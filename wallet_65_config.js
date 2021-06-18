@@ -1,1 +1,1 @@
-var mnemonic = "front village animal trophy surprise space bomb dumb nose reflect goose merry";
+var mnemonic = "master voyage permit bright light mechanic never phone device sight snow awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry truck sail bulb demand key person unique citizen lesson beauty adapt";
+var mnemonic = "spider endorse abuse slot elite visual direct twin popular time frog treat";

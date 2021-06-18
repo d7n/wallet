@@ -1,1 +1,1 @@
-var mnemonic = "hotel crawl smooth neutral apology interest suspect alien vital fade cliff act";
+var mnemonic = "quit action lava style museum elevator idea page general divide sugar rather";

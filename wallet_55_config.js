@@ -1,1 +1,1 @@
-var mnemonic = "hotel dynamic discover spread glide brave oil unaware vehicle useless where bind";
+var mnemonic = "omit mechanic account rude satisfy file frog debris history rival merit clean";

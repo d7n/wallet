@@ -1,1 +1,1 @@
-var mnemonic = "list illness angry immense sick pet bounce coral ketchup audit tobacco cloud";
+var mnemonic = "file miss hour laugh clinic load daring youth panic sweet history permit";

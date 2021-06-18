@@ -1,1 +1,1 @@
-var mnemonic = "notice glow wire notice puppy add disease interest flag boss priority east";
+var mnemonic = "cloud option swallow mimic copy february ocean cause alley happy ozone cost";

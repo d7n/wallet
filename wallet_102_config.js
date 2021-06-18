@@ -1,1 +1,1 @@
-var mnemonic = "clown skirt calm trade convince away dish fun agree panda salt shadow";
+var mnemonic = "harvest dream physical endorse hello leave pudding notable boil cause diesel indicate";

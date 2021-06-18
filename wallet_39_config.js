@@ -1,1 +1,1 @@
-var mnemonic = "chat melt wrap toast doll coffee body embody blue conduct fall obey";
+var mnemonic = "order club hover twelve access clay robot obtain junk west result dash";

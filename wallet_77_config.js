@@ -1,1 +1,1 @@
-var mnemonic = "manage spoil metal tomorrow display balcony arch cycle high all turkey perfect";
+var mnemonic = "gallery blush summer museum brain this grief obtain gallery display disagree canal";

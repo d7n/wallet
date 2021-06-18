@@ -1,1 +1,1 @@
-var mnemonic = "bacon virtual tube frozen midnight hand festival erupt web tragic silk pig";
+var mnemonic = "size aerobic tackle boss assist lens sure pause better rib citizen wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor tape soul danger dress close put royal reduce spare video amused";
+var mnemonic = "suggest garage village image vendor sting mean copper poverty jaguar shoe motor";

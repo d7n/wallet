@@ -1,1 +1,1 @@
-var mnemonic = "net client enrich quit omit churn misery virus athlete nurse embody tackle";
+var mnemonic = "source disorder trash cradle layer insect athlete agent pupil add wonder move";

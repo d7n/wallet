@@ -1,1 +1,1 @@
-var mnemonic = "marriage employ payment west exotic lounge key fresh flower scorpion alarm empower";
+var mnemonic = "lake secret winner gasp parent title copper runway enable patrol debate fiscal";

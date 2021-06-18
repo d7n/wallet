@@ -1,1 +1,1 @@
-var mnemonic = "garlic humble echo alley wheat bacon surprise vocal vote phrase tiger assault";
+var mnemonic = "pretty valid actual obey nature cycle jazz file sight expect bracket comic";

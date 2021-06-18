@@ -1,1 +1,1 @@
-var mnemonic = "secret rotate tail target swarm patch deputy marble reflect vintage surge mention";
+var mnemonic = "civil brave scout aim depth daring safe also salt enjoy retire weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli west close person parade brick tide glass jump private select ship";
+var mnemonic = "divorce portion cradle dilemma laundry measure leaf shadow artefact file century metal";

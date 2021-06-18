@@ -1,1 +1,1 @@
-var mnemonic = "tumble spice fetch still step adapt cake project limit awake couch slow";
+var mnemonic = "supply luggage summer world arrow flat loyal finger enroll rough coast spin";

@@ -1,1 +1,1 @@
-var mnemonic = "number attend trust train mean umbrella scout stable december sister wide strategy";
+var mnemonic = "poverty youth survey shiver above umbrella wheel able rabbit play decorate danger";

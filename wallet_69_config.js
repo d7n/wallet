@@ -1,1 +1,1 @@
-var mnemonic = "faculty omit mercy comic below have curve beach save below wash mouse";
+var mnemonic = "notable fashion magic cake clean adjust brush soup slab soft unaware double";

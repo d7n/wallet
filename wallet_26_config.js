@@ -1,1 +1,1 @@
-var mnemonic = "motor stock list cloth wheel cage cage acquire grape upper rough impose";
+var mnemonic = "robot lava fantasy paddle quiz silly swing process satoshi bachelor frequent gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "yard behind differ dwarf toy forward country drip problem winter salute still";
+var mnemonic = "confirm bar wage sick allow bid churn muscle coyote come erupt basic";

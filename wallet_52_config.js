@@ -1,1 +1,1 @@
-var mnemonic = "stairs flame myself gate clarify enrich bunker unit coast race knife guess";
+var mnemonic = "rule another shrug birth believe vague festival impose run pool step bird";
