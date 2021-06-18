@@ -1,1 +1,1 @@
-var mnemonic = "enlist estate venture all glance lady card rotate minimum chaos furnace climb";
+var mnemonic = "silk small magnet hint release survey scan detail genre access team fly";

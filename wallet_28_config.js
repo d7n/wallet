@@ -1,1 +1,1 @@
-var mnemonic = "crouch when evoke critic sudden brass noodle powder discover symptom peace popular";
+var mnemonic = "circle brave crew grass combine evidence stairs pulp barrel shop gallery weather";

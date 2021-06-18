@@ -1,1 +1,1 @@
-var mnemonic = "limit area abstract diet hospital acquire clerk conduct local witness improve doll";
+var mnemonic = "season universe toddler payment alone bean slight name beef corn opinion local";

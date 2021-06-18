@@ -1,1 +1,1 @@
-var mnemonic = "hotel minor over beef salmon march category dilemma coral cram ginger quote";
+var mnemonic = "artist useful moon puzzle sugar sea design magnet search text write endorse";

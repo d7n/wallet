@@ -1,1 +1,1 @@
-var mnemonic = "zone setup view trumpet spray action gas settle banana case mutual erosion";
+var mnemonic = "slogan attack ship own payment stamp twenty impulse tree find scene test";

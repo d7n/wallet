@@ -1,1 +1,1 @@
-var mnemonic = "panda grass hurry fatal alone such release shiver area unlock marble inner";
+var mnemonic = "usage foam bird defy leisure sell crystal bike purse before hero piece";

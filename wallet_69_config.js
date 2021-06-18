@@ -1,1 +1,1 @@
-var mnemonic = "round dragon exit sea shoot reform volume tilt glad secret loyal proof";
+var mnemonic = "long snow skate what method spare faith lounge dignity solid tiny camp";

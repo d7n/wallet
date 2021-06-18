@@ -1,1 +1,1 @@
-var mnemonic = "planet giggle weekend cup shy orphan inside resist glance pet put cradle";
+var mnemonic = "produce laundry decade music absurd know satisfy uphold leave question melt zoo";

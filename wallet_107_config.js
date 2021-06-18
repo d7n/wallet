@@ -1,1 +1,1 @@
-var mnemonic = "edge glad fame squirrel panel dolphin bacon month abandon tornado price decide";
+var mnemonic = "tag artefact daring estate sketch once city brave hurry library super blanket";

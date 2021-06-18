@@ -1,1 +1,1 @@
-var mnemonic = "hotel enhance bachelor title country mix exhibit enable shoe coconut parrot neck";
+var mnemonic = "assist gentle fox mail hen stomach tourist cheap space over mad axis";

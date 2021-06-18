@@ -1,1 +1,1 @@
-var mnemonic = "hotel permit adult gift cinnamon inherit brand dune avoid coast crumble course";
+var mnemonic = "will time hurry review reveal urge stamp board denial picnic topple pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "glass favorite damp alley neither people buddy cover season basket imitate scale";
+var mnemonic = "happy giant island lawn lunch negative industry zone fossil pilot empty ecology";

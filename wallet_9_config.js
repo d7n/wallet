@@ -1,1 +1,1 @@
-var mnemonic = "hurry black naive pencil spoon outdoor mercy theory canal insane pepper glance";
+var mnemonic = "three survey bind hidden stadium quality minimum cactus sand predict mask correct";

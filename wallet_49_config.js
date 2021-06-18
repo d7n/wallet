@@ -1,1 +1,1 @@
-var mnemonic = "large satisfy ready power share parade flash cram sad soul city square";
+var mnemonic = "solid adapt letter rifle wrong seat feel coast mule team lesson category";

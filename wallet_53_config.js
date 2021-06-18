@@ -1,1 +1,1 @@
-var mnemonic = "canyon figure kiss shallow husband true sample obtain odor panic promote man";
+var mnemonic = "vacuum rice grant spread age super inmate wait slam open target clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "family slide actor rabbit escape satoshi chef wall capable decline cage various";
+var mnemonic = "flame method sustain voyage divide old tourist icon rare shed hip rare";

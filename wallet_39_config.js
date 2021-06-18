@@ -1,1 +1,1 @@
-var mnemonic = "unveil fortune upon train rookie fringe table you space dance radar enter";
+var mnemonic = "limb movie cage camera bounce pet discover morning soft win blade ceiling";

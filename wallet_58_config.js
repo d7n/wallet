@@ -1,1 +1,1 @@
-var mnemonic = "basket cousin agree lucky hazard hero supreme close neither scare play script";
+var mnemonic = "toe hazard story rebel grace fury clip opera cupboard color grass diagram";

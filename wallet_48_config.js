@@ -1,1 +1,1 @@
-var mnemonic = "poet short fitness aim lawn bulk frog autumn coach sketch canyon civil";
+var mnemonic = "cross elite alcohol always fluid crash march elevator betray across tower lawsuit";

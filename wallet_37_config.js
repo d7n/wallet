@@ -1,1 +1,1 @@
-var mnemonic = "calm unknown then solar fix vacuum blouse arrest width property clever fame";
+var mnemonic = "erode beach penalty blur bus real crew stairs panel luxury scorpion fabric";

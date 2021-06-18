@@ -1,1 +1,1 @@
-var mnemonic = "sport disorder kick odor army glide weird anger exchange glimpse review depart";
+var mnemonic = "bamboo floor teach shoe addict surprise cheese toward connect patrol night about";

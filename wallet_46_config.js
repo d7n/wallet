@@ -1,1 +1,1 @@
-var mnemonic = "elegant good blue sustain number nasty cactus tiger wide fence color output";
+var mnemonic = "vessel banana path master neither script riot release charge mushroom pistol hockey";

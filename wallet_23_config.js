@@ -1,1 +1,1 @@
-var mnemonic = "universe flower chase alley canyon peace feature decade lawn crouch message bone";
+var mnemonic = "credit bottom rule sea trade promote video manage piano evil indicate kid";

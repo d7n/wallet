@@ -1,1 +1,1 @@
-var mnemonic = "pool notable erupt favorite decrease swarm wise cluster frequent immense motor chalk";
+var mnemonic = "earn brass peace dinner connect shallow dumb grace maze lend solar bike";

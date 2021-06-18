@@ -1,1 +1,1 @@
-var mnemonic = "clerk scout dirt enact opinion gossip dignity armed word regret trial library";
+var mnemonic = "quit distance south ask phone cat neck absurd often relax photo buffalo";

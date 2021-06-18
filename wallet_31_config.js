@@ -1,1 +1,1 @@
-var mnemonic = "short settle ridge hurt month drum toss alpha entry practice charge elite";
+var mnemonic = "gaze garlic barrel aim custom close scale inject glide derive dose silent";

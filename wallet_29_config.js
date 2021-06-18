@@ -1,1 +1,1 @@
-var mnemonic = "mechanic art embody twelve stereo suit rain follow genuine uncle scare lottery";
+var mnemonic = "ladder keen crew royal hazard member eight margin sing space conduct car";

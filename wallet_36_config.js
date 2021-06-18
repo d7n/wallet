@@ -1,1 +1,1 @@
-var mnemonic = "memory correct fall drop wave bachelor panel jaguar shallow cherry inner horror";
+var mnemonic = "road kite strong harvest group rather lobster media purse depend mechanic piano";

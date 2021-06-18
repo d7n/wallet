@@ -1,1 +1,1 @@
-var mnemonic = "slogan humble divert limit viable music orient chef give kiss energy crane";
+var mnemonic = "puzzle charge employ hour resemble detail syrup actor kiwi sweet bench torch";

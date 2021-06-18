@@ -1,1 +1,1 @@
-var mnemonic = "blade latin spider rabbit huge million artist else obscure fly mass brand";
+var mnemonic = "trim skate people cargo bike degree mirror orange month much save market";

@@ -1,1 +1,1 @@
-var mnemonic = "tool usual air decorate banner churn peanut canoe wink give document struggle";
+var mnemonic = "barely pool make air clap tail auto license dinosaur cream tattoo arrange";

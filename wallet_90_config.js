@@ -1,1 +1,1 @@
-var mnemonic = "smooth swamp fork rally build easy spy drop bunker system train lumber";
+var mnemonic = "boy detect buffalo pact slam bird feed ethics lion reform outdoor mask";

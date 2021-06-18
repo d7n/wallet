@@ -1,1 +1,1 @@
-var mnemonic = "joy seat myth laptop knee pioneer mansion inch mobile hybrid luggage crush";
+var mnemonic = "grant result base exchange term thrive day fit secret level ginger enter";

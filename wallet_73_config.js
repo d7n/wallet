@@ -1,1 +1,1 @@
-var mnemonic = "tattoo squeeze pottery gospel easily female general baby vault chaos staff captain";
+var mnemonic = "depth such urban truck daring bench lion glory click ability fiscal door";

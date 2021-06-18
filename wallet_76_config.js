@@ -1,1 +1,1 @@
-var mnemonic = "typical nature fine drip cinnamon define bounce whip window service oxygen exist";
+var mnemonic = "system fatigue cover link kidney diagram grab myself master violin puppy lizard";

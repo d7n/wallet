@@ -1,1 +1,1 @@
-var mnemonic = "else laundry crash toddler sail student glance vanish whisper summer casino usage";
+var mnemonic = "mobile phrase organ swarm crime odor since artwork adapt recipe latin bench";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican walnut cattle sand enroll rug shuffle trim mango brand hidden start";
+var mnemonic = "shrug useful identify purity tide drum lucky elite furnace flame vehicle snap";

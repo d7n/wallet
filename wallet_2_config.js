@@ -1,1 +1,1 @@
-var mnemonic = "amazing humble jar tennis fantasy advice couple verb movie fiscal maximum wagon";
+var mnemonic = "dwarf pumpkin bind wire announce fortune lemon express roof tooth violin crucial";

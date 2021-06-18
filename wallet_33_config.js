@@ -1,1 +1,1 @@
-var mnemonic = "mimic piece confirm pause erase math foster water usage replace palace vault";
+var mnemonic = "upper object parade number school clarify mass tube leaf scatter marble mix";

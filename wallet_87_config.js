@@ -1,1 +1,1 @@
-var mnemonic = "castle patch detail buyer firm unit fortune jacket game evoke frame amateur";
+var mnemonic = "flock any earth cricket toss know alarm duty warrior rare boost twice";

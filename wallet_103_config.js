@@ -1,1 +1,1 @@
-var mnemonic = "soul modify tent depart crack swarm hood earn account grid enough super";
+var mnemonic = "analyst visit forget local armed orphan angry tide arena demise client wild";

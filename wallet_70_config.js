@@ -1,1 +1,1 @@
-var mnemonic = "october hint door pride estate describe gentle flight despair unusual dismiss april";
+var mnemonic = "repair logic logic aisle check define verify buyer tackle frame panic delay";

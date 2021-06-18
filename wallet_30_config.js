@@ -1,1 +1,1 @@
-var mnemonic = "swap dose impose collect dance trade sting airport cool yard cable liquid";
+var mnemonic = "enact useless aim trial giraffe message guide what wash cool maximum negative";

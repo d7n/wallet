@@ -1,1 +1,1 @@
-var mnemonic = "seed jacket myth goose document yellow crowd hello chief caution tomorrow burst";
+var mnemonic = "damp grocery welcome offer extend media elevator pause royal abandon staff sign";

@@ -1,1 +1,1 @@
-var mnemonic = "border brave cradle runway stool salute knife depend plunge usual head total";
+var mnemonic = "wage protect reason report win trash vague provide joy auction noise unhappy";

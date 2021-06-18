@@ -1,1 +1,1 @@
-var mnemonic = "supply cube keep security ethics noble during reopen position heavy sure subway";
+var mnemonic = "genius zero raise rocket super awake chunk junk effort drive occur daughter";

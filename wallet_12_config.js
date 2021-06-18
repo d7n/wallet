@@ -1,1 +1,1 @@
-var mnemonic = "hundred together auction clutch write stomach meadow stomach forward slam hire ten";
+var mnemonic = "roof give this blanket aerobic mixed parent injury shy mixture town real";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze dash device usage dice ticket lonely member tourist chalk analyst invest";
+var mnemonic = "acquire auto sentence million kangaroo victory shiver lemon chair fossil guitar early";

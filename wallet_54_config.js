@@ -1,1 +1,1 @@
-var mnemonic = "tail dismiss another monster erode thing pass lyrics climb ball salute august";
+var mnemonic = "measure worry indicate quote rather father wish conduct real picture olympic quote";

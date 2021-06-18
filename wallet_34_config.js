@@ -1,1 +1,1 @@
-var mnemonic = "then hungry olympic help power boy tent glue where crew bleak great";
+var mnemonic = "join hover august daughter tiny find rabbit wink vendor neutral verb enter";

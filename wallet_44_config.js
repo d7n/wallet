@@ -1,1 +1,1 @@
-var mnemonic = "action online report boil maximum prize quit patient segment shield question staff";
+var mnemonic = "tennis material aspect business sugar cream liberty sword gift boil camera divert";

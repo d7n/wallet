@@ -1,1 +1,1 @@
-var mnemonic = "box barrel quit move brush topple require dirt ceiling gentle chuckle jazz";
+var mnemonic = "aware rebuild nation certain wall simple mad fall evidence dumb enrich net";

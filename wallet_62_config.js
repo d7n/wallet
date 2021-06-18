@@ -1,1 +1,1 @@
-var mnemonic = "burden mouse lounge language derive wrestle myself wealth still large narrow ring";
+var mnemonic = "yard innocent race common promote reunion guess blossom venture cinnamon ramp hire";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp imitate mule foil voice pave picture gown derive cushion soup lab";
+var mnemonic = "you crack limb fiscal achieve soccer rebel volume fame smart debate flush";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow arctic gasp body drink rough keep way awake crawl sense arena";
+var mnemonic = "round bachelor hero glance victory table security pond course vicious jacket now";

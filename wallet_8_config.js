@@ -1,1 +1,1 @@
-var mnemonic = "father current gravity range bubble square depend seat twelve lock venue balcony";
+var mnemonic = "accuse retire basket vault invest help enough lion access situate beach rural";

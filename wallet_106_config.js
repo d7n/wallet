@@ -1,1 +1,1 @@
-var mnemonic = "cliff consider route job wire captain rapid pole treat camera useless nation";
+var mnemonic = "hazard great naive junk diet light shadow control slam tower rookie twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "error vacant miracle service enact series identify reveal flash park snake draw";
+var mnemonic = "marine absurd stumble scrub video drink note soda defense young mammal birth";

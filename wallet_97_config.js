@@ -1,1 +1,1 @@
-var mnemonic = "enact slot judge guilt evidence aware leaf erase mention fever original match";
+var mnemonic = "pretty adapt kiss tribe page return buddy shy ring much gesture learn";

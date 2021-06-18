@@ -1,1 +1,1 @@
-var mnemonic = "music credit endorse oven beauty meadow beach wisdom exit wealth shine soap";
+var mnemonic = "glass grain session supply flush antique glove ahead riot wet action glide";

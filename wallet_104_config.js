@@ -1,1 +1,1 @@
-var mnemonic = "stool tattoo trick wonder bulb roof guitar monkey digital about devote all";
+var mnemonic = "catch quit spatial stay vault glide world olive vicious isolate until quit";

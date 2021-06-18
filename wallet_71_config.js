@@ -1,1 +1,1 @@
-var mnemonic = "possible equal mule hand hope helmet song library zero use reform tool";
+var mnemonic = "time deer fancy near recycle tuition fatal annual lyrics egg bundle front";

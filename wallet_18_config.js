@@ -1,1 +1,1 @@
-var mnemonic = "you pear social lecture deal change maple brain cheese phone canoe memory";
+var mnemonic = "cable music dignity grain season scrap what ship east broom local skill";

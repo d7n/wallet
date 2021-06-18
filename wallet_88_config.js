@@ -1,1 +1,1 @@
-var mnemonic = "nice argue collect indoor shoe cash crazy absurd silly drip link sea";
+var mnemonic = "craft size abuse income diagram buddy reopen token only stumble choice unhappy";

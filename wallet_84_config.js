@@ -1,1 +1,1 @@
-var mnemonic = "pair risk above begin collect box bar polar adjust useful father meadow";
+var mnemonic = "prepare loop nasty tray vacuum attract achieve loan spatial left gather man";

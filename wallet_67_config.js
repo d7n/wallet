@@ -1,1 +1,1 @@
-var mnemonic = "sword leisure fatal private near spice mobile claim various green differ trumpet";
+var mnemonic = "tomato half advice visit lens thought candy van uncover tissue depth end";

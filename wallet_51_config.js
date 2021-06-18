@@ -1,1 +1,1 @@
-var mnemonic = "era curtain cactus pause tree border flat load adult display pioneer assume";
+var mnemonic = "peasant penalty menu outdoor reject dinner upper sport swing base faith slab";

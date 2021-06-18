@@ -1,1 +1,1 @@
-var mnemonic = "hello recipe remove valley winter solution ask surge scale pulse wood exact";
+var mnemonic = "half zebra weather horror royal between lady practice there mandate rally occur";

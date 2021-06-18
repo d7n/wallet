@@ -1,1 +1,1 @@
-var mnemonic = "surround pyramid report series ozone first coyote olive best heart property often";
+var mnemonic = "civil tobacco tumble dwarf wonder expire defy used impact junk school glue";

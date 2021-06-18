@@ -1,1 +1,1 @@
-var mnemonic = "hotel fan stairs garbage census eye fancy old trophy electric defy dream";
+var mnemonic = "february spatial pause jaguar shoot baby neglect rebuild person thunder ozone paddle";

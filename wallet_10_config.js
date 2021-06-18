@@ -1,1 +1,1 @@
-var mnemonic = "second lonely become daughter inspire social board dinner chase deny much genre";
+var mnemonic = "glare lunar honey relief vote share account subway viable federal wire soccer";

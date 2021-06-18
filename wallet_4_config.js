@@ -1,1 +1,1 @@
-var mnemonic = "repeat drill emotion alarm parent hotel leaf parrot series fade transfer acoustic";
+var mnemonic = "again taxi when slim trial during real fury mind heavy because marble";

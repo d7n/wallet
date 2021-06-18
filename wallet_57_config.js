@@ -1,1 +1,1 @@
-var mnemonic = "network seek pond almost lend scrub music robust truck reunion actor head";
+var mnemonic = "cross van slim bless buffalo brown leisure fiction once brick double island";

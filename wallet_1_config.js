@@ -1,1 +1,1 @@
-var mnemonic = "mouse favorite palace expand sudden vapor festival focus shiver dynamic bunker resemble";
+var mnemonic = "system dilemma magnet escape vendor average maximum uncle letter mix off day";

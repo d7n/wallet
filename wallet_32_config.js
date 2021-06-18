@@ -1,1 +1,1 @@
-var mnemonic = "basic endorse actual attract absent primary basic cushion drop unlock tuna gorilla";
+var mnemonic = "erode arch diesel render opinion minute undo truck kitchen bomb blouse suggest";

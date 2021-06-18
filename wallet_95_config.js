@@ -1,1 +1,1 @@
-var mnemonic = "museum absent fiscal ritual monitor piano soap kitten tenant boil magnet left";
+var mnemonic = "chimney monitor modify doll nasty virus any crouch weapon crowd alley frame";

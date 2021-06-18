@@ -1,1 +1,1 @@
-var mnemonic = "iron crowd first nurse photo own hill once kidney donor wash morning";
+var mnemonic = "intact session half deliver infant fish employ deer arrow jar merit step";

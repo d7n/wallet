@@ -1,1 +1,1 @@
-var mnemonic = "become rigid chalk odor output core pulp appear tip salt debate gallery";
+var mnemonic = "noble true exercise chuckle shy next fringe used mistake clap reopen wine";

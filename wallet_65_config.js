@@ -1,1 +1,1 @@
-var mnemonic = "major drama legal slab slim candy lift question volcano art matter step";
+var mnemonic = "chef rib interest crush physical guilt ritual weasel quantum impact ship bus";

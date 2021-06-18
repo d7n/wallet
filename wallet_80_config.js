@@ -1,1 +1,1 @@
-var mnemonic = "wagon giant stay salon depart trap child idea broccoli easy business oblige";
+var mnemonic = "rare famous seminar field carry filter neutral face shell opera stand area";

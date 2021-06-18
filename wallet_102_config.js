@@ -1,1 +1,1 @@
-var mnemonic = "double sugar rabbit road want laugh myth genuine capital mother virus shiver";
+var mnemonic = "resource bread limit glimpse run critic rotate corn stone switch token must";

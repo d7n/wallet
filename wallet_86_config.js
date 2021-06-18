@@ -1,1 +1,1 @@
-var mnemonic = "exist nice swing soft brass control believe infant fetch piano friend glue";
+var mnemonic = "series kid mention divert receive giraffe avoid year away green increase trade";

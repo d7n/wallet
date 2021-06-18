@@ -1,1 +1,1 @@
-var mnemonic = "hold attend uncle sign impact biology chase chief inflict wild permit boring";
+var mnemonic = "enact idea wait rice figure report laptop giraffe chat energy movie volcano";
