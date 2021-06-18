@@ -1,1 +1,1 @@
-var mnemonic = "federal bacon knife office fly arch derive apology next street pass mechanic";
+var mnemonic = "stuff despair gauge now treat level ankle sell thumb street pulse desk";

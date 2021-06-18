@@ -1,1 +1,1 @@
-var mnemonic = "oxygen roast tail impose tip cry venue direct gaze borrow happy celery";
+var mnemonic = "bounce nephew crater bonus aspect magnet skate one bachelor soap crowd sock";

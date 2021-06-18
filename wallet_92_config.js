@@ -1,1 +1,1 @@
-var mnemonic = "mushroom stage master million this resource few save grit garlic toward betray";
+var mnemonic = "theory jelly museum cradle tackle pistol bronze exist resemble deer captain scheme";

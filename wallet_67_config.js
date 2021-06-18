@@ -1,1 +1,1 @@
-var mnemonic = "student wish slab lawn denial wife curtain gossip suffer digital web tide";
+var mnemonic = "card december deer echo index absorb metal pet rapid craft left shell";

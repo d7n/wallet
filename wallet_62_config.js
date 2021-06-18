@@ -1,1 +1,1 @@
-var mnemonic = "subject salon claw must hood stairs danger disease blue road lift bike";
+var mnemonic = "express wrap march tuna prosper hard loyal trumpet angle render enact soon";

@@ -1,1 +1,1 @@
-var mnemonic = "blade behave jacket sugar report daughter sea ask burst south lumber primary";
+var mnemonic = "joy finger drift enable film later baby bonus erase cool bleak link";

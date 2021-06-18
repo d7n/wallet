@@ -1,1 +1,1 @@
-var mnemonic = "scrub custom nominee oven clutch eternal satoshi stage curtain almost possible blossom";
+var mnemonic = "canyon sniff spot hawk pig forget quantum merit escape thing robust seat";

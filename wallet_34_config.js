@@ -1,1 +1,1 @@
-var mnemonic = "vague spell danger adapt replace emotion flee amount then volume jar night";
+var mnemonic = "brother teach alert flame mutual spray length banana mushroom surround skill visual";

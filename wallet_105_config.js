@@ -1,1 +1,1 @@
-var mnemonic = "ignore view proof vapor burger utility upset west paper arrest rabbit spare";
+var mnemonic = "volume essay rhythm prepare inject toward wage autumn south when feed collect";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior essay give seminar inhale quarter quit poet eternal oyster save salmon";
+var mnemonic = "soft predict photo among notice wrong solve marble broccoli buyer differ breeze";

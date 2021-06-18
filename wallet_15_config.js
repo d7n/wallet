@@ -1,1 +1,1 @@
-var mnemonic = "urge payment dad vacant abandon embark decade gossip lonely flush crumble pride";
+var mnemonic = "come kick field stadium canal wage rare youth history model assault push";

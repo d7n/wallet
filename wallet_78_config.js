@@ -1,1 +1,1 @@
-var mnemonic = "pond news infant that act siege receive affair treat enable account drama";
+var mnemonic = "illness warfare swim project choose priority shift unhappy reject that duck grape";

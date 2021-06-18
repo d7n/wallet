@@ -1,1 +1,1 @@
-var mnemonic = "wave tide cloth puppy air budget sick slam vacuum never hollow hero";
+var mnemonic = "buddy pen cereal flat special ready clown month sorry zero pioneer salon";

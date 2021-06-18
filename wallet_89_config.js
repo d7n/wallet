@@ -1,1 +1,1 @@
-var mnemonic = "joy alien cook inherit toe warrior ketchup outdoor provide tackle option donor";
+var mnemonic = "weekend palm doctor kite grain village regular engine ensure prevent diamond match";

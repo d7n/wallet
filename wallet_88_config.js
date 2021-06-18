@@ -1,1 +1,1 @@
-var mnemonic = "victory fox hour strike creek month swing trust gold scene engage fox";
+var mnemonic = "bounce honey panic thought shoot gauge goat recycle subway thunder entire thunder";

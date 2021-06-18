@@ -1,1 +1,1 @@
-var mnemonic = "neutral effort taste zone damp ribbon life myself save later text afford";
+var mnemonic = "trick ethics wear never divide people shy wild meadow step library section";

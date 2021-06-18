@@ -1,1 +1,1 @@
-var mnemonic = "ribbon creek sign virtual asset wealth portion zebra clean jar south domain";
+var mnemonic = "wheel sniff soda green enjoy tumble ostrich tiny slush bulk wisdom biology";

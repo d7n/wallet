@@ -1,1 +1,1 @@
-var mnemonic = "mail coconut tribe truth click auto someone maze couch tomato satoshi void";
+var mnemonic = "grab render bind liar absent uncover muscle work rapid answer spring feed";

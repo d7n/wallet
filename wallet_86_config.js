@@ -1,1 +1,1 @@
-var mnemonic = "praise display fan rural travel wedding force festival focus sock tent transfer";
+var mnemonic = "arrest edit audit valid social more misery cigar expand voyage advice addict";

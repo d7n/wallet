@@ -1,1 +1,1 @@
-var mnemonic = "girl detect rough process child side eager novel measure narrow skate shield";
+var mnemonic = "harbor welcome drama crisp stereo sorry above security shift hire equal slender";

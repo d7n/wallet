@@ -1,1 +1,1 @@
-var mnemonic = "shoot high school rebel scorpion stadium canvas tide ethics fence cream one";
+var mnemonic = "person rib daughter present box denial moment sell typical wisdom suit inform";

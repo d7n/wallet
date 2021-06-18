@@ -1,1 +1,1 @@
-var mnemonic = "order client come foot shrimp logic fury maid visit aerobic wool leopard";
+var mnemonic = "smooth echo oxygen leg acoustic essence home crumble sea upgrade autumn gallery";

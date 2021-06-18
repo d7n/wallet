@@ -1,1 +1,1 @@
-var mnemonic = "video sauce silk fit fox grid hold notable upon excuse indoor number";
+var mnemonic = "general bachelor shock sock lounge lawsuit rigid verify lazy robot evidence verb";

@@ -1,1 +1,1 @@
-var mnemonic = "surface crush daring leaf stamp race flower trash phone pencil half oak";
+var mnemonic = "antique idle keen similar ignore neutral task grief benefit document anxiety unknown";

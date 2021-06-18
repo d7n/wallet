@@ -1,1 +1,1 @@
-var mnemonic = "civil hollow enrich reward skull daughter pizza draw normal sadness short portion";
+var mnemonic = "wait relief cage stove diagram soap extend quality true wage dolphin budget";

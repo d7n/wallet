@@ -1,1 +1,1 @@
-var mnemonic = "loop sentence control hip trouble promote limit snake setup move theme swear";
+var mnemonic = "equip exit furnace garlic pulp east update chat exhaust frequent pink wreck";

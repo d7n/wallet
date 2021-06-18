@@ -1,1 +1,1 @@
-var mnemonic = "armor face enjoy worth apart hint medal arm forward sentence raw useful";
+var mnemonic = "occur pizza diesel output imitate suit thing remove enforce track sign service";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness three flee blossom control student assume eight antique sight razor nephew";
+var mnemonic = "laundry sell sample emotion much angle use air rapid easily planet cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "exact advance mouse inmate define grass wrong ring lumber trial quiz home";
+var mnemonic = "icon pioneer fossil maze window sunset dizzy jump stumble frozen tomorrow pattern";

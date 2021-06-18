@@ -1,1 +1,1 @@
-var mnemonic = "century gold rifle nice twelve ill later fork blast sausage again memory";
+var mnemonic = "cage rocket staff barely snack fine ginger mass happy major walk razor";

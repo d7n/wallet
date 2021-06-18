@@ -1,1 +1,1 @@
-var mnemonic = "perfect suit student shield wage trim trial together rhythm rather fragile kid";
+var mnemonic = "bench sound december float unhappy essay valve degree again flight draw alert";

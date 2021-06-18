@@ -1,1 +1,1 @@
-var mnemonic = "budget pattern honey limb rude dilemma amused news suspect scheme hurry zone";
+var mnemonic = "mouse poverty add proof tilt loyal modify example add few approve impact";

@@ -1,1 +1,1 @@
-var mnemonic = "shock gossip host prosper antenna mutual sauce engine learn foot honey forget";
+var mnemonic = "claim venture pet property swallow film agree voyage render brick hero photo";

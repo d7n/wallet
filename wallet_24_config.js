@@ -1,1 +1,1 @@
-var mnemonic = "trick farm duty brain script load six swallow sibling toast video desk";
+var mnemonic = "syrup stone blood save bridge path glow legend faculty noodle speed kingdom";

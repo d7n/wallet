@@ -1,1 +1,1 @@
-var mnemonic = "crumble cactus negative village nation kitchen clay nurse burst fall brave north";
+var mnemonic = "step service submit equip quit lab release coconut pudding country tomorrow cart";

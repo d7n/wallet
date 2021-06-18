@@ -1,1 +1,1 @@
-var mnemonic = "sure despair rule soup twelve version ozone ethics such inherit include bunker";
+var mnemonic = "leg stay puppy brain grape kick derive cake acquire reunion cupboard peace";

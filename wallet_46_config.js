@@ -1,1 +1,1 @@
-var mnemonic = "gloom outer odor portion pilot catch athlete please dream true feed behind";
+var mnemonic = "also album bike blossom brick staff service effort awesome timber proof message";

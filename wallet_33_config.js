@@ -1,1 +1,1 @@
-var mnemonic = "pact situate fly champion labor quiz change gold axis antique nerve poem";
+var mnemonic = "enrich stable prosper garage economy car embrace leopard must flag fantasy canoe";

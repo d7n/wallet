@@ -1,1 +1,1 @@
-var mnemonic = "doll right now remain acid assist fox seminar truth crew travel army";
+var mnemonic = "sell ecology cause gate long burst web wave sing pause near pumpkin";

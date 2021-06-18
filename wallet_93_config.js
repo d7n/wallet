@@ -1,1 +1,1 @@
-var mnemonic = "animal idea tomorrow team online census chimney radio maple crawl shadow vicious";
+var mnemonic = "season bachelor sport hover original clog shock embark lamp scorpion oyster screen";

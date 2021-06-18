@@ -1,1 +1,1 @@
-var mnemonic = "order despair clever version army fat great cigar glimpse aspect utility rifle";
+var mnemonic = "error liberty diagram combine suggest detect amazing fence index dog cook skin";

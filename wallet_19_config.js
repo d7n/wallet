@@ -1,1 +1,1 @@
-var mnemonic = "scatter mirror march planet debate despair tornado bomb island february toward used";
+var mnemonic = "roof odor story behave dice often demand feel print movie peace power";

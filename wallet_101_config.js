@@ -1,1 +1,1 @@
-var mnemonic = "fortune local time resist nut advance venue exchange fragile pupil smooth story";
+var mnemonic = "priority reward live doll boring beef sample enemy cat foil onion outside";

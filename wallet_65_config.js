@@ -1,1 +1,1 @@
-var mnemonic = "puppy cherry key mammal adjust crumble twist screen turn veteran hen surface";
+var mnemonic = "drastic expand oval check brown segment purity nation whale modify they snake";

@@ -1,1 +1,1 @@
-var mnemonic = "scale tomorrow absent student wheat service input rival pink deal drive diesel";
+var mnemonic = "swallow throw rescue joy limb upset glance cash wet appear heart peace";

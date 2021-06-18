@@ -1,1 +1,1 @@
-var mnemonic = "tiger tornado bridge paddle taxi inside spread shine amused anxiety oxygen describe";
+var mnemonic = "regret film base skate economy feed impact inject refuse length tunnel outer";

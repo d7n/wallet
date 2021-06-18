@@ -1,1 +1,1 @@
-var mnemonic = "journey fashion staff hint fee decrease draft morning census never scout palace";
+var mnemonic = "maple brown shield tiger clown what abstract tragic soul hedgehog welcome nasty";

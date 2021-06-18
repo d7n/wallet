@@ -1,1 +1,1 @@
-var mnemonic = "art timber absent term almost donor warrior bike recipe outdoor era talent";
+var mnemonic = "essay model vault blood young inner gown cram runway promote quality pioneer";

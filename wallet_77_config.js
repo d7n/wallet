@@ -1,1 +1,1 @@
-var mnemonic = "drama early employ attend over luggage laundry senior layer clerk world sauce";
+var mnemonic = "badge spoil joy crowd wing toss pink tomato taxi robust example cliff";

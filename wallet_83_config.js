@@ -1,1 +1,1 @@
-var mnemonic = "wasp river drastic curious rural critic subject excuse runway palace absorb icon";
+var mnemonic = "carry wild illegal alien drip endorse strategy liquid witness velvet until skirt";

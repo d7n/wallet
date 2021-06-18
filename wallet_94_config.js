@@ -1,1 +1,1 @@
-var mnemonic = "guard resemble attitude duty notice cereal outdoor holiday baby opinion travel prize";
+var mnemonic = "repair bright satisfy live blood invite donkey umbrella recall permit piano genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "sail concert credit vacant electric season head diamond tuna inquiry kidney speak";
+var mnemonic = "giraffe purchase filter range grid script clock shine bless one grow wage";

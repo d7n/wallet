@@ -1,1 +1,1 @@
-var mnemonic = "give lunar bounce outer april enrich food magnet salt pistol prefer lawn";
+var mnemonic = "stove fiction cave myth day pudding record wine era dutch mutual injury";

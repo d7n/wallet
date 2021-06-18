@@ -1,1 +1,1 @@
-var mnemonic = "submit say vehicle box another phrase exit spy govern essay mom sense";
+var mnemonic = "relax track tornado web main fork please devote mansion slice artefact demand";

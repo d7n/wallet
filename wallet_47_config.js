@@ -1,1 +1,1 @@
-var mnemonic = "balance include pig stamp depth unusual wool pair coin book vintage fine";
+var mnemonic = "vintage garden execute detect same custom august radar drum veteran marriage normal";

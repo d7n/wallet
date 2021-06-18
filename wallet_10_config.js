@@ -1,1 +1,1 @@
-var mnemonic = "learn indicate twin link erode throw glue mutual judge remove erase history";
+var mnemonic = "potato trick manage suit large quick unlock soul picnic exist dune either";

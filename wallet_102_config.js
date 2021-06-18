@@ -1,1 +1,1 @@
-var mnemonic = "matter because dynamic priority pulp elite hybrid safe possible piece winner raccoon";
+var mnemonic = "tent job life manual desert pigeon stem begin area odor weather figure";

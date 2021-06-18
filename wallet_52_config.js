@@ -1,1 +1,1 @@
-var mnemonic = "midnight two unfair pilot depend memory easy magnet design tenant win trigger";
+var mnemonic = "afraid magnet print ancient badge unhappy diary such salad panel neck protect";

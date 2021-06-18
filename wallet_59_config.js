@@ -1,1 +1,1 @@
-var mnemonic = "canoe say check bread uncle neither dance robust scale enroll light fade";
+var mnemonic = "west little virtual benefit library access fortune phone vapor nurse fault awesome";

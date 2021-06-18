@@ -1,1 +1,1 @@
-var mnemonic = "must clarify chuckle hole runway drama bag spring soda grape flag wine";
+var mnemonic = "cart door obtain grant wire oyster smooth naive rib evidence brain fat";

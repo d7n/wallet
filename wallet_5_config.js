@@ -1,1 +1,1 @@
-var mnemonic = "bench raw put hint random success meadow minor side silver cash middle";
+var mnemonic = "very talk february cactus large faith cover glimpse imitate exhibit habit lens";

@@ -1,1 +1,1 @@
-var mnemonic = "vault orchard shock trash job pulse diet alter limit popular clever result";
+var mnemonic = "pave rifle copper quantum nut tonight omit candy pluck engage trap enemy";

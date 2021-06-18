@@ -1,1 +1,1 @@
-var mnemonic = "friend letter daughter raven foam they party harbor enforce reopen have boring";
+var mnemonic = "wing nurse awesome fade urban smoke come symptom bomb supply tomorrow sting";

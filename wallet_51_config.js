@@ -1,1 +1,1 @@
-var mnemonic = "pluck cargo crazy ethics base praise engine gas narrow hour senior cruel";
+var mnemonic = "neck glow learn stomach scrub wall invite slot square case depth nature";

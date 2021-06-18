@@ -1,1 +1,1 @@
-var mnemonic = "dream bench coral camera biology recall museum notable digital middle equal talk";
+var mnemonic = "word street ranch rate whisper blossom ten series team train entry sight";

@@ -1,1 +1,1 @@
-var mnemonic = "grow just truth beyond school file evil type soup finger donor find";
+var mnemonic = "obey shy decorate belt diary float strong north cash invest biology ivory";

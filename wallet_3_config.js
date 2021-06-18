@@ -1,1 +1,1 @@
-var mnemonic = "bird sausage cinnamon fashion fossil gift start useful rotate casino jazz turn";
+var mnemonic = "icon apple muffin chapter guess neither expect old breeze evoke camera stomach";

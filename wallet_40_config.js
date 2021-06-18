@@ -1,1 +1,1 @@
-var mnemonic = "shallow rare quick current need talk suit enlist raise below rich wage";
+var mnemonic = "nose agent try notable prefer find faculty expand sock address opera glass";

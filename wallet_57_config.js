@@ -1,1 +1,1 @@
-var mnemonic = "midnight update kite tornado shop shove gauge chat venue initial slab address";
+var mnemonic = "fat only rose tell such plastic rally multiply average thunder chicken similar";

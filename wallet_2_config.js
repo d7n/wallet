@@ -1,1 +1,1 @@
-var mnemonic = "bus wrestle enter ugly woman enrich clarify thrive reason mixed member panda";
+var mnemonic = "source brain teach salt boost capable panther dragon elbow alien dutch above";

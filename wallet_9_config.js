@@ -1,1 +1,1 @@
-var mnemonic = "cactus void amused unlock more blanket raise rain quick mushroom feed skirt";
+var mnemonic = "number runway call ketchup duck vicious history provide comfort fancy cricket movie";

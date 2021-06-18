@@ -1,1 +1,1 @@
-var mnemonic = "imitate blade crunch turkey dentist walnut ginger solid bread rather harvest arrive";
+var mnemonic = "first glad lab castle birth bitter define dignity hope spare blur dawn";

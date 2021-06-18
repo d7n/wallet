@@ -1,1 +1,1 @@
-var mnemonic = "grain broccoli lazy era hotel kiwi ship eagle aerobic magnet lyrics measure";
+var mnemonic = "behave learn elevator column poverty half connect flavor timber town casino roof";

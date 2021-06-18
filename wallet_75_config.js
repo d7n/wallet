@@ -1,1 +1,1 @@
-var mnemonic = "behind deliver lawn insect quarter tower team merge surround unusual truly theory";
+var mnemonic = "become atom adult inside traffic obvious eager juice upset polar camp inch";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy fan renew chat visa receive picture obvious clinic kingdom faculty canvas";
+var mnemonic = "sorry youth frozen labor reason castle jeans castle scare cool october innocent";

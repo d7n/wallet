@@ -1,1 +1,1 @@
-var mnemonic = "flavor outer cable armed slim echo identify elephant network exchange club gate";
+var mnemonic = "camera void mule expire betray chase flat stand anchor toilet survey way";

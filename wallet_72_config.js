@@ -1,1 +1,1 @@
-var mnemonic = "scale twin mix toward twist crystal neglect utility height second marriage vessel";
+var mnemonic = "daring erupt festival resemble tooth exchange couple hub myth body shock devote";

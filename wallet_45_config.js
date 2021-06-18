@@ -1,1 +1,1 @@
-var mnemonic = "bone unit grass cluster betray range process priority bounce smooth depth junk";
+var mnemonic = "snow plastic approve better fly broken awkward goat shove model catalog arrow";

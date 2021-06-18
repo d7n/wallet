@@ -1,1 +1,1 @@
-var mnemonic = "task edge soccer trouble neglect release absent smart elder bundle blind wise";
+var mnemonic = "powder bicycle climb purse sense damp gossip boy soccer virus ladder head";

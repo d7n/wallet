@@ -1,1 +1,1 @@
-var mnemonic = "illegal bicycle olive critic clutch view nasty potato cube enrich soccer february";
+var mnemonic = "lion dice amount area injury disorder brain lizard tourist enemy stage room";

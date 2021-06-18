@@ -1,1 +1,1 @@
-var mnemonic = "pipe art coil auction course bright into fault panda trigger address grunt";
+var mnemonic = "lawsuit resist clay acquire farm pause solar honey thunder carry supply brother";

@@ -1,1 +1,1 @@
-var mnemonic = "round tooth mother hammer dinosaur power problem patient soft junk reduce ability";
+var mnemonic = "clown door swear team bunker general fantasy bleak sunny indicate blind purse";

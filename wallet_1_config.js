@@ -1,1 +1,1 @@
-var mnemonic = "dial pair tray grief turtle come hen express loyal drop boring truck";
+var mnemonic = "umbrella lunar borrow awkward anxiety flash lesson urban reveal census dance sail";

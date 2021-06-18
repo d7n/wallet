@@ -1,1 +1,1 @@
-var mnemonic = "abstract game sort vendor pass luggage hood drift nerve choice spray try";
+var mnemonic = "whale bitter disease program slab first sunny absent dragon invest poverty shoot";
