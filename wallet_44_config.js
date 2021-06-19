@@ -1,1 +1,1 @@
-var mnemonic = "mention learn shoulder drastic shoe bamboo exhaust side steel ordinary width major";
+var mnemonic = "hub vessel amateur copy rabbit any beyond duck advice accident better bid";

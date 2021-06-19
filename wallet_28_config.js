@@ -1,1 +1,1 @@
-var mnemonic = "industry cherry smart voyage source direct ocean venue teach area bring crop";
+var mnemonic = "undo detail hungry bonus link joy used solve umbrella buddy mirror dove";

@@ -1,1 +1,1 @@
-var mnemonic = "save raven bullet trial arrow border coconut siege suit misery rather moment";
+var mnemonic = "couch alter glue you excuse zoo coconut mistake birth soldier jacket present";

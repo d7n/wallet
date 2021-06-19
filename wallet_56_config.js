@@ -1,1 +1,1 @@
-var mnemonic = "fossil tennis kind mom duty tag earth canyon ice bubble lady document";
+var mnemonic = "report explain siren grief three mammal teach club state note dismiss urban";

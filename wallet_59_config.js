@@ -1,1 +1,1 @@
-var mnemonic = "liquid carry bar course coil gym deliver melt elbow patient erupt pottery";
+var mnemonic = "skate dice announce rigid borrow bracket pelican vault bone saddle loyal coyote";

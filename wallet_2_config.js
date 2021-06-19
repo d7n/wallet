@@ -1,1 +1,1 @@
-var mnemonic = "couch draft marriage outer hole alarm obey ordinary stock relief use pretty";
+var mnemonic = "detect friend give finger hope minimum carry devote person tree remain exclude";

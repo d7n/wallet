@@ -1,1 +1,1 @@
-var mnemonic = "suffer oppose manual life marine during pause program habit tiny net tomato";
+var mnemonic = "velvet sphere nut quarter shoe want friend author bid sustain desert knife";

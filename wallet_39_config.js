@@ -1,1 +1,1 @@
-var mnemonic = "corn paddle food animal task quality fortune country fee embark gauge prize";
+var mnemonic = "distance amused differ category vehicle twenty letter ocean raccoon execute phone tiny";

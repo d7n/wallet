@@ -1,1 +1,1 @@
-var mnemonic = "attend wave unfold west knock peace one fork neither oxygen average garment";
+var mnemonic = "thrive art vanish sentence crouch worth split nasty holiday casino fashion patch";

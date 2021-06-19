@@ -1,1 +1,1 @@
-var mnemonic = "rely auction abandon simple cushion invest arch toilet bone online amount quote";
+var mnemonic = "bright relax wild they false couch quarter rhythm hazard art topple cat";

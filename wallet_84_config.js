@@ -1,1 +1,1 @@
-var mnemonic = "start antique include grow park arrest orphan seek surge describe shoulder gold";
+var mnemonic = "elder follow general smoke exist please baby obey nothing curtain cause frost";

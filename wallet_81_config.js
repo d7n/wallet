@@ -1,1 +1,1 @@
-var mnemonic = "unable width program tomato outside myth primary shop turn now gain flash";
+var mnemonic = "corn filter weekend audit canoe bind glory surface estate struggle click pilot";

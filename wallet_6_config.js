@@ -1,1 +1,1 @@
-var mnemonic = "shaft mystery amateur magic library bunker evoke spring concert school modify crouch";
+var mnemonic = "dynamic drama joke fuel girl cheap script abstract bring mail split talk";

@@ -1,1 +1,1 @@
-var mnemonic = "major injury divide early castle educate rocket chalk bring reflect acoustic forward";
+var mnemonic = "forget divert produce crumble riot essay shallow enact forum trash image destroy";

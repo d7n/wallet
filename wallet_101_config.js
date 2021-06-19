@@ -1,1 +1,1 @@
-var mnemonic = "step record coach match like wear job more tiny era dirt gentle";
+var mnemonic = "web theme seven volume super disorder hundred certain onion frequent spirit forward";

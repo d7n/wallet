@@ -1,1 +1,1 @@
-var mnemonic = "vicious garden loop dawn gas quality gesture coral wood right foot salon";
+var mnemonic = "bronze remember chapter correct pulp method coffee make confirm table survey tooth";

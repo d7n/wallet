@@ -1,1 +1,1 @@
-var mnemonic = "tray fiscal response pole combine kiss have forest betray chapter frozen lend";
+var mnemonic = "brown scrap social grace conduct mango whip oval ranch else behind ask";

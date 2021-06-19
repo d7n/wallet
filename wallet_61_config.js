@@ -1,1 +1,1 @@
-var mnemonic = "common tube toe stove category stand add among flame brass east change";
+var mnemonic = "brain sphere nice learn famous step orbit beach razor satisfy silver skill";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble surprise veteran define thought also convince mention farm cotton flash horse";
+var mnemonic = "choice paddle broken head earn ginger public chunk help diamond desert fork";

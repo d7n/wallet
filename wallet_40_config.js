@@ -1,1 +1,1 @@
-var mnemonic = "sauce leaf aware secret confirm calm neither expose laptop fault own success";
+var mnemonic = "give trust system melt exchange order meat virus traffic spy atom case";

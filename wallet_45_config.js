@@ -1,1 +1,1 @@
-var mnemonic = "guide cage will tail imitate sauce explain coral joke category sustain divide";
+var mnemonic = "west dove civil innocent coast swim vital daughter idle indicate opera praise";

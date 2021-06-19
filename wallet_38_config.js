@@ -1,1 +1,1 @@
-var mnemonic = "arrest crowd card bundle loan game very address float second satoshi tell";
+var mnemonic = "ecology spray outdoor humble trip pulp enforce soap unable position roof number";

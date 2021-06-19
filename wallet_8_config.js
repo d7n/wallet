@@ -1,1 +1,1 @@
-var mnemonic = "banana neither broken parade tank shell airport rule dawn corn spider side";
+var mnemonic = "scan dune rice people fire toy update rubber holiday case around spring";

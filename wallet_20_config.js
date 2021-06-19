@@ -1,1 +1,1 @@
-var mnemonic = "annual nothing mountain recycle quality diamond top stairs august sauce jealous tiny";
+var mnemonic = "skill ranch scan antenna just all laugh deputy roof antique silver forum";

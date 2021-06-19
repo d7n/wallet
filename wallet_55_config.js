@@ -1,1 +1,1 @@
-var mnemonic = "false muffin creek gather source gold drastic journey crouch arrest name town";
+var mnemonic = "push water culture path wolf kind armed nest elite surprise twelve frog";

@@ -1,1 +1,1 @@
-var mnemonic = "beef warrior start will great vivid quit fever fever thunder step join";
+var mnemonic = "latin cheese excite brick choose hen fork victory essence engine shoe helmet";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft ankle brother hobby timber tuna canvas decrease employ satisfy relax actual";
+var mnemonic = "between night runway raise yellow make fix glance tonight cable animal silk";

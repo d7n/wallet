@@ -1,1 +1,1 @@
-var mnemonic = "error swap horse close know duty weasel flush shallow sniff safe guard";
+var mnemonic = "client squirrel sponsor spot absent notable frame unusual isolate sauce athlete shop";

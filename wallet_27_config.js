@@ -1,1 +1,1 @@
-var mnemonic = "fortune frost economy merge boss noodle sock hurdle major hold dream boss";
+var mnemonic = "junk magic fold lumber minute cancel topic liar endless grab never spy";

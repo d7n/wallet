@@ -1,1 +1,1 @@
-var mnemonic = "medal attract butter scissors more useful neutral remain page surface hawk wage";
+var mnemonic = "toast job sentence about busy close random busy fury dinosaur fame choose";

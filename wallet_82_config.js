@@ -1,1 +1,1 @@
-var mnemonic = "craft control account tool beach chief afford staff alpha exotic begin device";
+var mnemonic = "solution note warfare season sibling hybrid captain finger unable token eye punch";

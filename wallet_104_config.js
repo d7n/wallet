@@ -1,1 +1,1 @@
-var mnemonic = "color dinosaur hip boy become weapon adapt outer infant hello toe road";
+var mnemonic = "parrot able kiss about angle globe sell border spot journey crucial unlock";

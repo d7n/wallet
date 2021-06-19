@@ -1,1 +1,1 @@
-var mnemonic = "holiday bitter gold worth south install stand renew crowd mix upper twist";
+var mnemonic = "renew illness arrow okay want slow must organ next avocado bachelor screen";

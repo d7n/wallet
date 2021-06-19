@@ -1,1 +1,1 @@
-var mnemonic = "pill disease stand lemon initial brief thunder win best chicken echo helmet";
+var mnemonic = "protect eye figure round lounge bus donate affair tortoise black prefer razor";

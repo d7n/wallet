@@ -1,1 +1,1 @@
-var mnemonic = "bleak juice acoustic awful teach depth canoe pizza scrub radio gadget subway";
+var mnemonic = "thing keen else absurd object segment fit boy oblige artwork sweet corn";

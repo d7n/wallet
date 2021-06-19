@@ -1,1 +1,1 @@
-var mnemonic = "ball craft dash drip nice kingdom venture poem author believe ribbon opera";
+var mnemonic = "sniff layer copy tennis primary harvest equal miracle spike girl need outdoor";

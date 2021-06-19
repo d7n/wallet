@@ -1,1 +1,1 @@
-var mnemonic = "dish purchase below fly song trust become couple vendor birth much art";
+var mnemonic = "ice catalog mother consider night rain supply mechanic imitate vehicle seat typical";

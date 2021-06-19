@@ -1,1 +1,1 @@
-var mnemonic = "hello daughter hero timber clinic wrong year happy still book cup lecture";
+var mnemonic = "buzz latin umbrella normal brother during evidence rookie six height gasp blouse";

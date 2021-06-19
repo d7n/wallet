@@ -1,1 +1,1 @@
-var mnemonic = "present blame cattle category account autumn cement stereo lawsuit element keen trend";
+var mnemonic = "liquid captain dentist interest utility demand surge crazy grid curve lizard scissors";

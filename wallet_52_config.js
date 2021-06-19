@@ -1,1 +1,1 @@
-var mnemonic = "bicycle goose move ostrich valid tiger multiply autumn essay antique leader skate";
+var mnemonic = "tree mass panel aware woman climb caution album design mirror dream chase";

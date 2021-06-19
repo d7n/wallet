@@ -1,1 +1,1 @@
-var mnemonic = "essence slender mistake divert excite blossom asset notable vacant easily bulk way";
+var mnemonic = "around friend alarm deny stage only reduce clever mask world sausage lab";

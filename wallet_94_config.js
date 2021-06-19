@@ -1,1 +1,1 @@
-var mnemonic = "ritual size keep cupboard matter smoke funny submit exit phrase trust able";
+var mnemonic = "stock unaware mammal slow letter coast victory flavor never pony student rail";

@@ -1,1 +1,1 @@
-var mnemonic = "cross always define expect evolve era air grain toy tube until process";
+var mnemonic = "throw nephew lion dawn state diet skate six muffin owner purse anger";

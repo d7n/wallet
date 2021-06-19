@@ -1,1 +1,1 @@
-var mnemonic = "depend blouse someone exhibit million razor mean scrub clay baby divorce input";
+var mnemonic = "crystal mistake kidney kiwi cotton attract head dash dune whale someone drip";

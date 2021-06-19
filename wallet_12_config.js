@@ -1,1 +1,1 @@
-var mnemonic = "believe history collect action skill street snack ketchup consider prize maximum mad";
+var mnemonic = "erupt renew whale circle hotel dog picnic leopard breeze crisp device nothing";

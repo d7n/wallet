@@ -1,1 +1,1 @@
-var mnemonic = "three penalty mule marriage mother keep during sauce goose admit open turkey";
+var mnemonic = "arm pull news indoor knife tide punch similar melt disease uncle team";

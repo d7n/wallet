@@ -1,1 +1,1 @@
-var mnemonic = "history check need two visit possible alpha expose quantum shadow act enlist";
+var mnemonic = "general embrace vocal barrel random middle glow gain reflect cliff shell chat";

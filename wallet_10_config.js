@@ -1,1 +1,1 @@
-var mnemonic = "effort craft grain honey slow eye faculty crime spare adjust man soda";
+var mnemonic = "actress monitor faint isolate foot pilot mail topic weekend pyramid parrot main";

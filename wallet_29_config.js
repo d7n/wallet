@@ -1,1 +1,1 @@
-var mnemonic = "maze fuel blanket divide luggage stable cradle crack chest infant upper inhale";
+var mnemonic = "obey awesome shell better episode draft axis rather favorite output liquid hero";

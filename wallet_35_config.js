@@ -1,1 +1,1 @@
-var mnemonic = "gaze stock design club hen fish lawsuit gather replace hover meat stem";
+var mnemonic = "flag shoe essay today bird correct any brick glow couch host tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "antique edit walnut enough sustain cave possible spot jacket mimic ocean vault";
+var mnemonic = "rigid journey ginger route skin clump bread deny corn ceiling soap left";

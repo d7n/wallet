@@ -1,1 +1,1 @@
-var mnemonic = "upset debris replace finger insane coconut quote syrup stable yard flock loud";
+var mnemonic = "pool tent tomorrow split wave cupboard humble tank draw nut trigger run";

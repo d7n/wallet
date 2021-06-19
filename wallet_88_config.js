@@ -1,1 +1,1 @@
-var mnemonic = "shallow occur impose upset refuse laugh leader duty tobacco mesh dress wool";
+var mnemonic = "marble jeans assist range sorry panda drill loyal refuse spare cram impulse";

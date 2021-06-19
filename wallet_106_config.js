@@ -1,1 +1,1 @@
-var mnemonic = "friend race basic pioneer rocket crop solid since session make squeeze laptop";
+var mnemonic = "dad seven spike kangaroo sorry alert flush essay random merit attitude interest";

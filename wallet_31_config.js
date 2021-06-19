@@ -1,1 +1,1 @@
-var mnemonic = "output above acoustic slab clay draft often degree uncle impulse found street";
+var mnemonic = "icon can sand village shoulder festival hybrid gown behind kidney rubber erode";

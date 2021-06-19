@@ -1,1 +1,1 @@
-var mnemonic = "letter hire state risk praise shop mother head lesson dry adjust delay";
+var mnemonic = "battle left master hungry tribe sheriff allow alter apart surround angle brick";

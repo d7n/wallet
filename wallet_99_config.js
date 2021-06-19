@@ -1,1 +1,1 @@
-var mnemonic = "seed pyramid lemon lady main toy wet shy hybrid cricket cram plate";
+var mnemonic = "bus school sting object candy rural rack stage coyote road sad lobster";

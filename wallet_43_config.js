@@ -1,1 +1,1 @@
-var mnemonic = "awake tower old mean soft include tunnel autumn hood dwarf clerk account";
+var mnemonic = "crater bird crop general age eternal lonely pair jazz south hamster ring";

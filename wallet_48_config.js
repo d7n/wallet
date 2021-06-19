@@ -1,1 +1,1 @@
-var mnemonic = "episode call then false prison vicious oblige segment surface render dish box";
+var mnemonic = "cook mail struggle ship universe grid bid casual brush very hire crew";

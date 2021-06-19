@@ -1,1 +1,1 @@
-var mnemonic = "glance long law drip scare honey major bounce security boss bundle bridge";
+var mnemonic = "pear answer expect anxiety share miracle area vehicle rib exclude bar make";

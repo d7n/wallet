@@ -1,1 +1,1 @@
-var mnemonic = "engine switch cheap major palace option uniform idle urge upset filter absorb";
+var mnemonic = "broom topic visa siege pelican swing resemble give candy erosion hello job";

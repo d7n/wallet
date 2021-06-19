@@ -1,1 +1,1 @@
-var mnemonic = "silk frozen maid unit churn video waste spike zone loop sport oval";
+var mnemonic = "office beyond thank unusual barely rough ivory ordinary tunnel twist source dad";

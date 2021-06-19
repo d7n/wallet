@@ -1,1 +1,1 @@
-var mnemonic = "fatal violin shield music just situate copy chapter relax neutral december stool";
+var mnemonic = "kit laptop piece dice trash arrive prevent card wrong club verify match";

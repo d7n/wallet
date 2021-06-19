@@ -1,1 +1,1 @@
-var mnemonic = "phrase tattoo gas congress achieve iron outdoor symbol zoo cricket clog shrimp";
+var mnemonic = "exact diary door talent lyrics sword sick shaft lemon plug insect napkin";

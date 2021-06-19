@@ -1,1 +1,1 @@
-var mnemonic = "cloud already solve conduct jazz primary weird kit edge stock general this";
+var mnemonic = "blue knee hurdle clever short later awake suit race also potato snack";

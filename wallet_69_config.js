@@ -1,1 +1,1 @@
-var mnemonic = "grit donor join snow above inner diary rally polar custom dutch trick";
+var mnemonic = "jelly sugar van car slot opera network drama envelope shell galaxy work";

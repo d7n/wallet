@@ -1,1 +1,1 @@
-var mnemonic = "legend together thunder cash arrest shallow amused blossom boy discover spirit energy";
+var mnemonic = "glue true genre ivory cabbage certain aspect enroll fun pupil lottery science";

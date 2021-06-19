@@ -1,1 +1,1 @@
-var mnemonic = "blue increase ring build noble bullet hobby unfold symbol appear spider stove";
+var mnemonic = "dance luggage arena task human uncle fat ball frog pitch dragon ability";

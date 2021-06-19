@@ -1,1 +1,1 @@
-var mnemonic = "fluid visit deer patrol catalog dog hover cattle park poverty acquire carbon";
+var mnemonic = "often rebuild elegant wear mad order decrease ethics toe ride demand oak";

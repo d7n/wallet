@@ -1,1 +1,1 @@
-var mnemonic = "exhaust purchase hope spoon screen zone rocket lawn sell dentist black rule";
+var mnemonic = "merry dance huge tissue exit demise below hurdle topic argue twelve test";

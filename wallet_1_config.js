@@ -1,1 +1,1 @@
-var mnemonic = "win bounce athlete life easy rather grit hurt stage humor glide rural";
+var mnemonic = "peanut valid later whisper open truck polar year mad thrive core until";

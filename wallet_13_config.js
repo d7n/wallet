@@ -1,1 +1,1 @@
-var mnemonic = "absurd they annual very pizza piece hood inhale toilet fragile rough excuse";
+var mnemonic = "submit rare sting give document kind clown hollow mail dust garage ethics";

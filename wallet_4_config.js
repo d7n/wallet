@@ -1,1 +1,1 @@
-var mnemonic = "demand rail box crunch health share bachelor salt scrub swear enlist warrior";
+var mnemonic = "gift assist tuna uphold venue cradle width twist question city truly enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "title swallow quick gold reason pole injury royal sun annual orange strike";
+var mnemonic = "arctic cargo shrug fence theory vacuum cement control quality industry hat shed";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong assault hollow dance knee gown scene name kiwi bind monkey file";
+var mnemonic = "parent day gravity require deputy rice ten excess pen occur place type";

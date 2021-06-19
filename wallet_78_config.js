@@ -1,1 +1,1 @@
-var mnemonic = "test want duck shed decrease lecture high diet humble any cabbage youth";
+var mnemonic = "remember tongue elephant friend river evil hazard again unhappy frog pilot same";

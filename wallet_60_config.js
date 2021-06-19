@@ -1,1 +1,1 @@
-var mnemonic = "soon install spot please vanish dash frozen you learn salon spider embark";
+var mnemonic = "danger peace spare ready sense lamp barrel apple solid clerk double gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "attack core page voyage brisk glimpse shoulder ghost minor oppose spend glory";
+var mnemonic = "kidney danger depart glory sock aerobic glory dumb quality language orbit build";

@@ -1,1 +1,1 @@
-var mnemonic = "tide illness lizard common conduct dove peasant tobacco trigger supreme pond umbrella";
+var mnemonic = "truck lawn trap vacuum enroll october still attract volcano fetch surge attend";

@@ -1,1 +1,1 @@
-var mnemonic = "swim weird cry rug total cake mosquito stadium memory cart member peace";
+var mnemonic = "kidney joke phone piano unknown harbor wagon anxiety cry brisk flag inside";

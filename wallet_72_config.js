@@ -1,1 +1,1 @@
-var mnemonic = "fiction flag river connect burst master amateur dash impose arrive figure glass";
+var mnemonic = "hockey scatter caution drop biology merry chalk solve only hedgehog table mansion";

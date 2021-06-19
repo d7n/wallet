@@ -1,1 +1,1 @@
-var mnemonic = "alcohol monitor age humble law live submit hotel outdoor violin rebel protect";
+var mnemonic = "mammal apology melody tell improve unveil history diet eyebrow turtle deliver load";

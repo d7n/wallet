@@ -1,1 +1,1 @@
-var mnemonic = "victory develop case road rather chunk rhythm weather try mad inmate mercy";
+var mnemonic = "depart inquiry parrot dolphin mandate organ invest spring topic census sign flip";

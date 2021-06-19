@@ -1,1 +1,1 @@
-var mnemonic = "page decline grass fresh sorry quarter pistol puppy plate pet screen ability";
+var mnemonic = "drip smooth suspect upon curve time minimum wheat scare way fortune sure";

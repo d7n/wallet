@@ -1,1 +1,1 @@
-var mnemonic = "lemon yellow eager clown lesson unfair stand cheese half case battle tiny";
+var mnemonic = "snap ceiling install include uncle regret phone situate interest toy chair critic";

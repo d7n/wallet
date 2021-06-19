@@ -1,1 +1,1 @@
-var mnemonic = "bright artist protect number chimney broom wear jelly devote cabin nest poet";
+var mnemonic = "vacuum sense parent giant wish response sand shield cloth roof lesson winner";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow bottom captain roast census hard moral volcano file capable nation opera";
+var mnemonic = "gaze lady leave bulk foot aim north cage jealous label chalk wolf";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit open tail snow armor seven brush ice long mail kite stick";
+var mnemonic = "congress ask input print imitate theory damage chalk tattoo tooth shield parent";

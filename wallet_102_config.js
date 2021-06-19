@@ -1,1 +1,1 @@
-var mnemonic = "tired square forest orient decorate torch finish robust bleak glory post lobster";
+var mnemonic = "wash remove floor volcano echo ginger nation sniff man enable badge fish";

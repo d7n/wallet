@@ -1,1 +1,1 @@
-var mnemonic = "myth logic leisure vanish intact dice slab current actor they purity shaft";
+var mnemonic = "shop invest fragile busy drum double roast stove error square battle term";

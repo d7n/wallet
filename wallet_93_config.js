@@ -1,1 +1,1 @@
-var mnemonic = "aware develop trick eight tell foot note settle either excess first leave";
+var mnemonic = "turn drip isolate route apology rice autumn price destroy mouse few exhaust";

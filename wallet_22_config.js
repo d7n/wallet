@@ -1,1 +1,1 @@
-var mnemonic = "comic choose leader quick pyramid educate host flame public orange story chicken";
+var mnemonic = "height pepper hospital bridge charge ghost spoon hero glare manual museum edge";

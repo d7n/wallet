@@ -1,1 +1,1 @@
-var mnemonic = "future lawn race engage betray return scheme collect uniform into demand elbow";
+var mnemonic = "initial cereal raven cactus common lazy best host acoustic ski enter music";

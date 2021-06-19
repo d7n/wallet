@@ -1,1 +1,1 @@
-var mnemonic = "pulp top comic bike athlete peasant elevator laundry bundle rival dignity decrease";
+var mnemonic = "pelican ethics verb fruit typical abandon supreme arch attack proud cream stock";

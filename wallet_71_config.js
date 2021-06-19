@@ -1,1 +1,1 @@
-var mnemonic = "gym water erupt question brass salute witness process girl frog dawn color";
+var mnemonic = "stage favorite inhale march cart sting slogan glare stage scan eye leaf";
