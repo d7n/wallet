@@ -1,1 +1,1 @@
-var mnemonic = "recall feel web nice nephew recall bird capable define voice nurse embrace";
+var mnemonic = "apology cable diary again final bounce woman van render loud sunset name";

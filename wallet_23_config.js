@@ -1,1 +1,1 @@
-var mnemonic = "arrow ladder stock front gorilla vanish famous domain few theory doll circle";
+var mnemonic = "attend warm push coral amazing awful bacon grant include tortoise seek purchase";

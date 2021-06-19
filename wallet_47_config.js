@@ -1,1 +1,1 @@
-var mnemonic = "receive neutral auto nominee either luggage fringe rent box spider fit guitar";
+var mnemonic = "little story chalk illness tilt destroy lounge explain crumble resemble gossip next";

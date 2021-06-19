@@ -1,1 +1,1 @@
-var mnemonic = "light apart badge cactus knee wage stand truth tuition chest quit auto";
+var mnemonic = "drift scorpion gym leader plunge already nation gesture clip timber height such";

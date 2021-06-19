@@ -1,1 +1,1 @@
-var mnemonic = "saddle reflect indoor method divorce rent choice milk weasel segment defense topple";
+var mnemonic = "thumb glory benefit surprise right success major trend panther shift answer library";

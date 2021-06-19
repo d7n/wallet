@@ -1,1 +1,1 @@
-var mnemonic = "fossil carbon jaguar nut lizard elevator laugh never faint walk garment cloth";
+var mnemonic = "mandate speed bubble upper term insane safe often worth caught stadium drastic";

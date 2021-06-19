@@ -1,1 +1,1 @@
-var mnemonic = "mango wage nest blue neutral leaf resist fruit account connect marble change";
+var mnemonic = "common earth nut actual begin over rug goddess wrong student october follow";

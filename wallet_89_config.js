@@ -1,1 +1,1 @@
-var mnemonic = "seminar input luxury ketchup excite coil senior multiply memory spare timber middle";
+var mnemonic = "lyrics tide struggle scissors legal around slot draft fix fault powder question";

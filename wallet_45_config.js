@@ -1,1 +1,1 @@
-var mnemonic = "museum often fiscal check typical ozone fatigue label angle recipe aware plunge";
+var mnemonic = "produce maple happy way story grass slush fashion huge laundry sugar antique";

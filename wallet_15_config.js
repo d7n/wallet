@@ -1,1 +1,1 @@
-var mnemonic = "banner comic just acid picnic burst portion envelope coral force shoulder hurdle";
+var mnemonic = "organ tissue danger vital lizard wreck august tired cabin blood uphold useful";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza assume canal obtain alcohol select cupboard trust decade owner minimum warm";
+var mnemonic = "pencil sell broccoli resemble gospel fame simple net abuse speak try marriage";

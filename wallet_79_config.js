@@ -1,1 +1,1 @@
-var mnemonic = "paper inquiry tobacco outer normal voyage lottery split animal tooth involve mesh";
+var mnemonic = "grape sketch effort kind any goddess ensure again walnut owner alone minor";

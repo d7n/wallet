@@ -1,1 +1,1 @@
-var mnemonic = "choose smile debate defense clap siren wash trigger width circle marine shuffle";
+var mnemonic = "carbon burst orient tooth level once stage pair lesson live drop holiday";

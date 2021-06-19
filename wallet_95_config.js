@@ -1,1 +1,1 @@
-var mnemonic = "fluid zoo assume dynamic pizza dance parade donkey code donor during crucial";
+var mnemonic = "away vintage rescue worth region short pull bomb decide swallow chalk rain";

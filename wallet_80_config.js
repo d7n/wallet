@@ -1,1 +1,1 @@
-var mnemonic = "tape inmate fat wrestle surprise gate cargo ugly voice display clay just";
+var mnemonic = "grain umbrella sponsor match head desert digital panda slim live deputy almost";

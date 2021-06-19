@@ -1,1 +1,1 @@
-var mnemonic = "trade country coffee afford couch syrup shiver shuffle else element truly organ";
+var mnemonic = "crane tennis topic move very license seek video cry exclude real diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "soda shrimp coffee protect focus drive bubble bacon inhale another soup provide";
+var mnemonic = "gun anxiety aunt ocean family amount section uncover ball pair idea innocent";

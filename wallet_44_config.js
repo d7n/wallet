@@ -1,1 +1,1 @@
-var mnemonic = "rookie ice tilt exchange high cattle snake fiscal goose erode wolf mammal";
+var mnemonic = "fruit cake public knee version indicate vault hero good mix story cool";

@@ -1,1 +1,1 @@
-var mnemonic = "right click able rely indicate document dignity forum liquid coil weasel enrich";
+var mnemonic = "forum ten sunny rather reveal film leave crop pioneer install frozen theme";

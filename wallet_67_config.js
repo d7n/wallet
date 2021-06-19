@@ -1,1 +1,1 @@
-var mnemonic = "aerobic furnace radar wash general search obtain spring boring taste pretty dash";
+var mnemonic = "garment language six trust family canyon napkin reject symptom print perfect intact";

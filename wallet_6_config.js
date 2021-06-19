@@ -1,1 +1,1 @@
-var mnemonic = "sister switch settle stuff umbrella visual language pigeon camera spend space alcohol";
+var mnemonic = "employ taxi system demand gloom cereal kite mutual wave despair sorry ramp";

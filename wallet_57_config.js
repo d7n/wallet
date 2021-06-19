@@ -1,1 +1,1 @@
-var mnemonic = "layer journey social island segment wealth drift funny payment champion crop vendor";
+var mnemonic = "prison junior all gift room black pear kind that text album night";

@@ -1,1 +1,1 @@
-var mnemonic = "farm caught boss pill ride first talent soccer attack awkward digital series";
+var mnemonic = "fall captain ill fold finger aunt aisle rural rare ride infant lobster";

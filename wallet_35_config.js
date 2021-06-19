@@ -1,1 +1,1 @@
-var mnemonic = "apology vibrant fall crush scene coach pipe sudden lizard soldier hope base";
+var mnemonic = "alley cupboard path output turkey raccoon twin fortune inherit design plug main";

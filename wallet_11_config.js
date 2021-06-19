@@ -1,1 +1,1 @@
-var mnemonic = "tilt accident feed farm ridge hospital ozone apology citizen gentle shed shoe";
+var mnemonic = "online soft tone indoor hawk stereo want impulse often tattoo top mother";

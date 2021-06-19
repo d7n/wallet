@@ -1,1 +1,1 @@
-var mnemonic = "fever heart grief more spoon skate gap woman spell frozen chimney method";
+var mnemonic = "pizza trigger mind unveil shy prefer wedding raw sadness index thank devote";

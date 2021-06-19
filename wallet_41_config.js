@@ -1,1 +1,1 @@
-var mnemonic = "picture exotic orchard wolf lounge whip require utility night alien agree plastic";
+var mnemonic = "strong bundle almost hire cup road step rug upon blur gather useful";

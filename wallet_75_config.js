@@ -1,1 +1,1 @@
-var mnemonic = "grant increase festival swift whisper trial problem clap define inherit kitten slide";
+var mnemonic = "stay judge spin settle steak artist lawn party one artist again art";

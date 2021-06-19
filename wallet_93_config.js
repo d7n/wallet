@@ -1,1 +1,1 @@
-var mnemonic = "start champion around remind return virtual balcony under balance galaxy soft inch";
+var mnemonic = "organ black fee gadget scare access benefit other window limit payment betray";

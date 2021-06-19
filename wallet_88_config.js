@@ -1,1 +1,1 @@
-var mnemonic = "delay spike brisk cement siege forum grid harsh daring cherry giraffe boost";
+var mnemonic = "chicken secret certain daring project liberty unfair oval faith sing doll easy";

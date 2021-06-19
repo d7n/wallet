@@ -1,1 +1,1 @@
-var mnemonic = "another slight club repeat palm match myself scout peanut sunset spare forward";
+var mnemonic = "shrimp put bunker unaware rent base scatter pledge quarter mutual ensure riot";

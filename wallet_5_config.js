@@ -1,1 +1,1 @@
-var mnemonic = "assault eagle force carpet maid myth dad zone silver destroy meat today";
+var mnemonic = "erode gravity sand nuclear elbow network picnic purchase spend record grant demise";

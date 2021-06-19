@@ -1,1 +1,1 @@
-var mnemonic = "latin reject patient theme audit real energy cushion gain vital rice flip";
+var mnemonic = "dinner donate silly captain tattoo endorse nephew inner island funny consider cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "rival glove quit minimum staff bring brisk hole say moment clown ethics";
+var mnemonic = "water cotton day filter obscure reunion warfare never leave bean express attitude";

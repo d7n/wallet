@@ -1,1 +1,1 @@
-var mnemonic = "later awkward happy eye stage business caution shuffle clown story tattoo remain";
+var mnemonic = "idle skull rival near eagle detect strong advice strategy hat doctor immense";

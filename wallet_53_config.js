@@ -1,1 +1,1 @@
-var mnemonic = "beach parrot jeans palm habit hedgehog secret answer length expand jaguar desert";
+var mnemonic = "moon lobster gesture settle afford atom cool fossil unusual icon melody net";

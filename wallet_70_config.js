@@ -1,1 +1,1 @@
-var mnemonic = "supreme explain disease warm town calm exchange magic diet critic modify crush";
+var mnemonic = "hurry dust bid license rebel violin wage topic concert abandon close tumble";

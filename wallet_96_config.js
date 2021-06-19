@@ -1,1 +1,1 @@
-var mnemonic = "cheap open farm ball list man aisle image rigid verify tobacco abstract";
+var mnemonic = "hair unveil garment dilemma tenant crisp ramp october grocery crisp damage wife";

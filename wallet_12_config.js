@@ -1,1 +1,1 @@
-var mnemonic = "portion fee thumb orbit child forward village squeeze tube velvet mechanic decide";
+var mnemonic = "draft loud mountain miss gift bench adapt autumn all sustain fringe real";

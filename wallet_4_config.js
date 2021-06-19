@@ -1,1 +1,1 @@
-var mnemonic = "universe hand beauty short express equip knife donor fiber onion neutral material";
+var mnemonic = "harsh cash noble spring today invite parade old draft series false snake";

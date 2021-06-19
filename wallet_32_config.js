@@ -1,1 +1,1 @@
-var mnemonic = "fortune loop glue debate dilemma program job picture market change ahead drill";
+var mnemonic = "arena kitten labor cloth wash seat resource forest hidden alarm dirt wave";

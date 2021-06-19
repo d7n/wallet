@@ -1,1 +1,1 @@
-var mnemonic = "decline marine rookie bacon language hobby evolve oil message shaft upon then";
+var mnemonic = "help estate february detect book key knife drift horn border leader vehicle";

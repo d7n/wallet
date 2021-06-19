@@ -1,1 +1,1 @@
-var mnemonic = "shrug smile giraffe property behave major vault utility clever embody charge crisp";
+var mnemonic = "wing zebra wealth female festival real ridge fork spoil swamp charge galaxy";

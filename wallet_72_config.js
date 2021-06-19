@@ -1,1 +1,1 @@
-var mnemonic = "street abuse grocery burden obtain glance lazy measure salmon stomach box extend";
+var mnemonic = "garlic unable neglect father alarm truth brother giraffe appear help alcohol relief";

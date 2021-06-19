@@ -1,1 +1,1 @@
-var mnemonic = "arch tiny net elite life erode zero basket spice toddler century unknown";
+var mnemonic = "action nasty cheese sleep nuclear raw forward high jazz fortune explain position";

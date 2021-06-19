@@ -1,1 +1,1 @@
-var mnemonic = "buzz mention spawn okay address famous near episode wire sauce glow helmet";
+var mnemonic = "aerobic group fork oblige brick hazard picnic scheme marriage repair ivory plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "evil general gospel puzzle deputy blur replace brand spy warm boil climb";
+var mnemonic = "shrimp copper material student water super hood become youth mountain they talk";

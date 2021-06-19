@@ -1,1 +1,1 @@
-var mnemonic = "core absent head inch rich knock torch animal wise slogan language judge";
+var mnemonic = "rain mammal exchange carbon famous segment shock problem nasty dignity cactus file";

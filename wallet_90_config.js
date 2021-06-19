@@ -1,1 +1,1 @@
-var mnemonic = "guitar ski fox paddle onion admit benefit energy exit pioneer embrace life";
+var mnemonic = "lizard attack biology kind noble gun sugar wool satoshi armor winter rent";

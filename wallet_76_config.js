@@ -1,1 +1,1 @@
-var mnemonic = "endless april demise enroll provide train pair bullet parrot smooth layer daughter";
+var mnemonic = "athlete artefact retire strategy fiction kitten allow brother trade soup labor science";

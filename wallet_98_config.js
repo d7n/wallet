@@ -1,1 +1,1 @@
-var mnemonic = "pencil bounce pulse index dutch pear blouse tribe stage diagram snack affair";
+var mnemonic = "runway amateur random happy gather sniff drive elite rich place size forget";

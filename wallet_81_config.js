@@ -1,1 +1,1 @@
-var mnemonic = "raccoon little horn curtain razor car dirt accuse diesel meat level flash";
+var mnemonic = "truly bounce board slice curve require analyst assist agent inquiry unit outdoor";

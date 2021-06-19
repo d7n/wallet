@@ -1,1 +1,1 @@
-var mnemonic = "rubber cruise false ramp volume raven gain stuff consider attack retire sadness";
+var mnemonic = "swarm lady twenty because marriage bunker impact uniform develop race more unhappy";

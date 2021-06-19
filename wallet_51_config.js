@@ -1,1 +1,1 @@
-var mnemonic = "affair shock option recipe sleep hire young auto army urban ribbon priority";
+var mnemonic = "vicious arrange roof main spirit mask dutch shoot end scan caution ugly";

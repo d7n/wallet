@@ -1,1 +1,1 @@
-var mnemonic = "anxiety gentle rib mean since similar middle view bargain awake bicycle annual";
+var mnemonic = "shed jump cream entry genius column laptop story involve uncle idle drive";

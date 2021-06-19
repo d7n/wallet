@@ -1,1 +1,1 @@
-var mnemonic = "purity foam solar regular govern idle still eight above addict flag notice";
+var mnemonic = "tent brown rough peanut ozone snow buffalo convince simple same disease apart";

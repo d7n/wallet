@@ -1,1 +1,1 @@
-var mnemonic = "quiz cabin mix ladder banana unusual apology domain crush speed romance interest";
+var mnemonic = "ankle cactus retreat october heavy viable priority razor motor vital gospel eager";

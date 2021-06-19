@@ -1,1 +1,1 @@
-var mnemonic = "inherit life shrimp zebra wealth wrestle excess vague voice chimney tiger churn";
+var mnemonic = "love keen wire exist guilt tree polar output nurse brother canoe long";

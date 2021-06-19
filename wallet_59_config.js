@@ -1,1 +1,1 @@
-var mnemonic = "spice shock soccer anchor release cruel slide expose warfare business mom quantum";
+var mnemonic = "post diesel mistake invest bronze analyst oval clean jeans print spot dilemma";

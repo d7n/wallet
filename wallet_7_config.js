@@ -1,1 +1,1 @@
-var mnemonic = "install record draw brush salute cycle base cement space kid toilet fit";
+var mnemonic = "six dish there unhappy wrist sweet frost buddy trip web tackle flat";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve grace educate jungle scheme laptop into exclude goose easy wool fog";
+var mnemonic = "festival raw assume family detect suspect tired olive fatigue chair venture tank";

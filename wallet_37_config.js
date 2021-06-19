@@ -1,1 +1,1 @@
-var mnemonic = "club pepper evoke victory blade skirt knife hunt advance town mushroom vanish";
+var mnemonic = "glass share skirt neutral fan grape valid tell eager elegant comfort market";

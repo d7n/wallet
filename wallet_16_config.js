@@ -1,1 +1,1 @@
-var mnemonic = "bicycle bind talent dwarf oxygen coast permit pipe swallow force symptom much";
+var mnemonic = "pistol tomorrow credit dismiss unveil select olympic rural usual zero index walnut";

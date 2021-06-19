@@ -1,1 +1,1 @@
-var mnemonic = "tattoo enroll ancient light model lizard food angry replace final fiscal circle";
+var mnemonic = "maximum sword ankle foot agree melody index fragile tube hawk unhappy alpha";

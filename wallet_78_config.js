@@ -1,1 +1,1 @@
-var mnemonic = "clap music such weasel zoo tired lounge clutch rose cost series lizard";
+var mnemonic = "grant fringe orange zone annual exhibit reflect imitate drastic famous dish sea";

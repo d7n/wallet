@@ -1,1 +1,1 @@
-var mnemonic = "dentist fatigue lend old hundred twelve gauge trumpet indoor baby bounce decrease";
+var mnemonic = "diesel call try toddler stadium stable very man abuse tank express zoo";

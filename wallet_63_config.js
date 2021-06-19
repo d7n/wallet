@@ -1,1 +1,1 @@
-var mnemonic = "inhale reveal average path sense purity distance fork foot auto betray better";
+var mnemonic = "until false media inhale unable before exile sphere current evil shiver trust";

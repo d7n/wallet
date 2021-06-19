@@ -1,1 +1,1 @@
-var mnemonic = "inside fish embark spoil fox space horse birth solve gap ten master";
+var mnemonic = "vote loan rigid gym lunch excite length audit twelve lion forest armed";

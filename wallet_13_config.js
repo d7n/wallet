@@ -1,1 +1,1 @@
-var mnemonic = "tired maze excite steel hub tone armed fever inspire water silent else";
+var mnemonic = "between arrow adapt limb aerobic suspect hotel zebra chimney strike story shove";

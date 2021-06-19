@@ -1,1 +1,1 @@
-var mnemonic = "cash scrub sustain frequent rhythm pilot clap address gas excess thumb lift";
+var mnemonic = "nerve execute awful police various faculty duty travel comfort repeat urban ginger";

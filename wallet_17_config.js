@@ -1,1 +1,1 @@
-var mnemonic = "exact bridge valve there toe tide situate junior famous spatial tooth birth";
+var mnemonic = "doll street funny gorilla peasant hunt dash trouble raw cradle number snow";

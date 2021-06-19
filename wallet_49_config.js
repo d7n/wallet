@@ -1,1 +1,1 @@
-var mnemonic = "soft outside rigid asset depend fetch vessel public clay grocery neglect pride";
+var mnemonic = "produce junk stage rhythm seek invest use immense game time art believe";

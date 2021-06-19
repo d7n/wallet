@@ -1,1 +1,1 @@
-var mnemonic = "voyage online awkward jump print record expect chase capital sea control market";
+var mnemonic = "eagle recipe loan circle safe fame couple pumpkin reopen erase author crater";

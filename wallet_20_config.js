@@ -1,1 +1,1 @@
-var mnemonic = "media embody member gain escape cat across boss confirm dish accuse baby";
+var mnemonic = "sausage bracket urge inherit metal chest group phrase alarm coffee tube awake";

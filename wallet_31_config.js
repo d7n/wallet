@@ -1,1 +1,1 @@
-var mnemonic = "rug squeeze crisp canal clarify border pause love arrange grape copy joke";
+var mnemonic = "modify resource large basket song diesel where dismiss task candy advice more";

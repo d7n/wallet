@@ -1,1 +1,1 @@
-var mnemonic = "prevent empower swim allow render knee wrist milk joy rose holiday mind";
+var mnemonic = "grain liar require leaf orbit crumble puzzle dune shiver chicken assist clay";

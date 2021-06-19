@@ -1,1 +1,1 @@
-var mnemonic = "stairs olympic illness over give chaos episode give search logic later sleep";
+var mnemonic = "direct second pond length whisper traffic hire clinic assume believe total unveil";

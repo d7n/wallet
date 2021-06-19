@@ -1,1 +1,1 @@
-var mnemonic = "box total text typical angle weasel wealth castle brand kangaroo useless renew";
+var mnemonic = "trial promote immense sample speak picnic steak injury lemon clown fox slush";

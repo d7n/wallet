@@ -1,1 +1,1 @@
-var mnemonic = "purity right often young cake nuclear fork salmon west tool snow rare";
+var mnemonic = "shove moral smoke luggage reject ball split cupboard citizen comic ice cost";

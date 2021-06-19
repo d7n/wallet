@@ -1,1 +1,1 @@
-var mnemonic = "surprise fit word broccoli chaos nasty bid quantum debris gloom royal donkey";
+var mnemonic = "mistake bleak ready situate negative useful coil evoke orient give twice unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "keep sunset world vivid violin betray lamp march anxiety asset bonus obey";
+var mnemonic = "eager boost tomato price agent hurt reveal green cricket swim eternal night";

@@ -1,1 +1,1 @@
-var mnemonic = "grace tragic toilet game elephant swap twice gather what cycle jaguar captain";
+var mnemonic = "seat between spirit hotel blouse blue empower pool pistol winner raven reunion";

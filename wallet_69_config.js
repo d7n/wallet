@@ -1,1 +1,1 @@
-var mnemonic = "snap fragile matter narrow erase chief grain subject earn exclude run material";
+var mnemonic = "tent board student symbol elephant involve happy this topic harvest select rotate";

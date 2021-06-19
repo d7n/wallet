@@ -1,1 +1,1 @@
-var mnemonic = "wheat indicate kitchen behind rapid critic wool galaxy ozone table movie fossil";
+var mnemonic = "fun across dog original dizzy legend target school opinion unusual oyster pull";

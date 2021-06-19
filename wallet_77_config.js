@@ -1,1 +1,1 @@
-var mnemonic = "snake art space course asthma prepare rally twelve sheriff consider slide task";
+var mnemonic = "erase disorder fatal cloud path sentence genre enjoy friend beef loop combine";

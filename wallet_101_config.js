@@ -1,1 +1,1 @@
-var mnemonic = "decade kingdom lounge soul obscure cruise huge need pretty core clog easy";
+var mnemonic = "bitter clog kid flag more organ fantasy clog resist squirrel old foot";

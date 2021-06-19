@@ -1,1 +1,1 @@
-var mnemonic = "portion noodle save benefit soft picnic rally ensure trip rhythm casual citizen";
+var mnemonic = "regular pill cream race unlock stereo label tail cliff reason select slow";

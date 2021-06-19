@@ -1,1 +1,1 @@
-var mnemonic = "job dune segment wave present leopard student unhappy old simple robot ten";
+var mnemonic = "light coach analyst apart green suit awkward dawn flash pole practice pistol";

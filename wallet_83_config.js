@@ -1,1 +1,1 @@
-var mnemonic = "icon parent utility bundle wage bean empty bachelor donor blush until rival";
+var mnemonic = "strike mystery civil coffee hard dumb coast tail grunt eagle imitate burden";

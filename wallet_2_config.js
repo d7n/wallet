@@ -1,1 +1,1 @@
-var mnemonic = "trigger decade medal desert pair gain drill almost bullet disease fever coil";
+var mnemonic = "peace often room estate repeat again luxury expand pistol much afraid endorse";

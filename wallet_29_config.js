@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin asthma quarter lucky useless donkey iron brand basket dust dance forest";
+var mnemonic = "song elbow innocent piece magnet creek always analyst giraffe horn pipe correct";

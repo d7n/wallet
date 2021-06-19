@@ -1,1 +1,1 @@
-var mnemonic = "utility sell school family spin salon raven salute sphere glory sunny often";
+var mnemonic = "control black auction void crater define account critic village near spirit slogan";

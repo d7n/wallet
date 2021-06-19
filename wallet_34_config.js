@@ -1,1 +1,1 @@
-var mnemonic = "orchard endorse castle garbage use acoustic canyon vague core ramp truck swim";
+var mnemonic = "cupboard unfair build decade cargo left dance scheme romance primary picnic guide";

@@ -1,1 +1,1 @@
-var mnemonic = "gym unhappy symptom rival drift mushroom mammal special dragon scan exchange toilet";
+var mnemonic = "already later tunnel outer pride corn protect pizza few usual light perfect";
