@@ -1,1 +1,1 @@
-var mnemonic = "prevent report roast race live canal involve donate manage foster upon name";
+var mnemonic = "liberty crucial since witness pulse gaze amount angle myself control practice person";

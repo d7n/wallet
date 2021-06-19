@@ -1,1 +1,1 @@
-var mnemonic = "pepper object buyer easily avocado legal dolphin advance excess cat human fun";
+var mnemonic = "surge tiny steel post this tide recipe client spin quality patient rival";

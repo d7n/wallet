@@ -1,1 +1,1 @@
-var mnemonic = "critic wall adult target stadium assault clutch kangaroo clap sick coil prosper";
+var mnemonic = "people special skate pyramid avocado skill envelope lion vacant wage snack plug";

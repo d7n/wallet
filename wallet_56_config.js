@@ -1,1 +1,1 @@
-var mnemonic = "width bird multiply ice quarter various jeans solve hotel glow erode sponsor";
+var mnemonic = "curtain extra soon base alcohol already tattoo cheap lab middle one recall";

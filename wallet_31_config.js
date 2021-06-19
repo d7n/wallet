@@ -1,1 +1,1 @@
-var mnemonic = "skill retire drum casual bitter addict obvious girl note sunny marine shop";
+var mnemonic = "leg detect federal use into wreck market answer run fish shield reason";

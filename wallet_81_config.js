@@ -1,1 +1,1 @@
-var mnemonic = "much tattoo purse tourist dirt quality soap bulk skate exclude harbor drama";
+var mnemonic = "soap brisk embark hazard pulse pepper weird buzz kit canvas goddess news";

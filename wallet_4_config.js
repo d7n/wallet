@@ -1,1 +1,1 @@
-var mnemonic = "claim together diesel tiger surprise aisle ill repeat fever iron solid stable";
+var mnemonic = "collect neglect belt seminar nice deal gentle clutch copy priority dumb hurry";

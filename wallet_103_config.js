@@ -1,1 +1,1 @@
-var mnemonic = "destroy giggle match come robot victory east pill venture enlist oil meat";
+var mnemonic = "total annual talk deny initial jealous shove roast friend then glare village";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze admit degree inmate speak toward like arm cereal derive document infant";
+var mnemonic = "helmet velvet vintage mass fox car under dial few warrior planet basket";

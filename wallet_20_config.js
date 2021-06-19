@@ -1,1 +1,1 @@
-var mnemonic = "march outdoor liberty opera lottery clay rack detail seat original soft evidence";
+var mnemonic = "monitor core owner dog excite concert ridge brisk across napkin salad holiday";

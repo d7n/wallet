@@ -1,1 +1,1 @@
-var mnemonic = "ring cute quick predict cake ripple sauce crush demand moment sibling crumble";
+var mnemonic = "must mass photo yellow toss ancient debate now oblige afraid mushroom soul";

@@ -1,1 +1,1 @@
-var mnemonic = "force festival lab assume pistol breeze have mule grunt pull taxi flee";
+var mnemonic = "cause lend expect spawn tree album near find slim sadness milk mule";

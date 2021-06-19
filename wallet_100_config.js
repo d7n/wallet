@@ -1,1 +1,1 @@
-var mnemonic = "depth swap celery various flag dentist sketch naive stove gap seed conduct";
+var mnemonic = "empty photo urge wrong aunt achieve ship raw south search grain loan";

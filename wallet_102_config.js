@@ -1,1 +1,1 @@
-var mnemonic = "initial top rule fruit puppy vapor onion dawn option walnut door dragon";
+var mnemonic = "hotel village enhance rain season patient trash first notice such left heart";

@@ -1,1 +1,1 @@
-var mnemonic = "image clean exhaust flower harsh cart radar trade luxury ten connect outside";
+var mnemonic = "curious plate loyal gather churn table broken trend ecology dune purpose saddle";

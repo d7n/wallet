@@ -1,1 +1,1 @@
-var mnemonic = "because acquire dial gift trigger square estate tail left arrange enjoy celery";
+var mnemonic = "tobacco either loud saddle wreck best occur frost name lizard shadow book";

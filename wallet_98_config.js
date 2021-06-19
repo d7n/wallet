@@ -1,1 +1,1 @@
-var mnemonic = "book wool increase olive half example assist sting detect first observe tray";
+var mnemonic = "person today indoor hotel subway unfold tray chuckle kit scene motion alley";

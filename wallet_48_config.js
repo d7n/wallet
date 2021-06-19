@@ -1,1 +1,1 @@
-var mnemonic = "unusual skull transfer negative effort female style before quality task echo alert";
+var mnemonic = "magic frown bracket feature wagon super potato film athlete coil alert kingdom";

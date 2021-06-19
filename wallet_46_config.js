@@ -1,1 +1,1 @@
-var mnemonic = "about audit bread skirt ocean father fiscal cube update jealous link casual";
+var mnemonic = "panther wash salute patient coast vapor hope fade view damp repeat absent";

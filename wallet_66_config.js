@@ -1,1 +1,1 @@
-var mnemonic = "train region pill sense gasp orchard festival feature giraffe disorder outside hat";
+var mnemonic = "ranch cash slogan parrot example decorate time example erosion unfold soft coast";

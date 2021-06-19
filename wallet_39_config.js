@@ -1,1 +1,1 @@
-var mnemonic = "yard atom lizard inherit ginger dream mixture goddess funny symptom risk half";
+var mnemonic = "useless agent depend final box entry budget foil arm nature square admit";

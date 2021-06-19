@@ -1,1 +1,1 @@
-var mnemonic = "company embody apology ivory neglect need tooth alter delay ring donor edit";
+var mnemonic = "title foot maximum frog survey excess primary slush suggest old siege section";

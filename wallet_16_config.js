@@ -1,1 +1,1 @@
-var mnemonic = "thunder program arm recipe document ginger inform fly picnic truth shrug cancel";
+var mnemonic = "soccer chase pill armor grace park sausage almost observe weird floor abandon";

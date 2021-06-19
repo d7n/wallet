@@ -1,1 +1,1 @@
-var mnemonic = "this degree badge expand dove mimic trouble harbor impulse session arctic salad";
+var mnemonic = "waste combine afford knee beyond shallow record anxiety joke west raccoon swift";

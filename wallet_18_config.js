@@ -1,1 +1,1 @@
-var mnemonic = "merge certain protect omit sweet cereal escape another muscle design profit elegant";
+var mnemonic = "source tornado perfect frost donkey letter buffalo coconut guilt hair clarify liar";

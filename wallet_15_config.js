@@ -1,1 +1,1 @@
-var mnemonic = "invest picnic surface ugly skirt tunnel citizen lion ozone cool canoe joke";
+var mnemonic = "key level return danger detect leader invest giant noble race finger only";

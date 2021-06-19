@@ -1,1 +1,1 @@
-var mnemonic = "uphold magic picnic cake business staff affair extend nose truck punch possible";
+var mnemonic = "border cancel room walnut rather exact smile attend total cause rival essence";

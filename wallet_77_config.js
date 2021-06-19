@@ -1,1 +1,1 @@
-var mnemonic = "average shrimp gown twin smooth state jeans roof boil easily cash exit";
+var mnemonic = "wash jaguar wet swarm arrest timber wrestle proud obscure engine senior wheat";

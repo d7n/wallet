@@ -1,1 +1,1 @@
-var mnemonic = "cannon modify funny aware enroll image wheat just cost still symbol nerve";
+var mnemonic = "crazy divorce mimic wheat energy twelve sketch island laptop absent cat first";

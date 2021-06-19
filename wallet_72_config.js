@@ -1,1 +1,1 @@
-var mnemonic = "purse yellow debris trip cherry bracket favorite measure metal hard chief harvest";
+var mnemonic = "pattern eye spring injury question youth bird amazing pulp city laundry cave";

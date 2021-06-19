@@ -1,1 +1,1 @@
-var mnemonic = "produce solution cycle add world already strike search protect friend then normal";
+var mnemonic = "laugh keen net about room coral adult walnut differ forest churn wisdom";

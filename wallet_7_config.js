@@ -1,1 +1,1 @@
-var mnemonic = "elite arch drastic attitude retire panther leopard syrup buddy modify tonight wire";
+var mnemonic = "reject liquid voice hamster bamboo column select like such erase question wine";

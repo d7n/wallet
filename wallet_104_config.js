@@ -1,1 +1,1 @@
-var mnemonic = "name ribbon dish fit forum fiction word output hockey obvious sound air";
+var mnemonic = "mean magnet whisper laugh book there will oak wool profit pink air";

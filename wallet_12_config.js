@@ -1,1 +1,1 @@
-var mnemonic = "cargo chair wool assault later govern wreck delay since where shrimp leader";
+var mnemonic = "quit muscle enact blur budget pole snap wealth step cheap message amazing";

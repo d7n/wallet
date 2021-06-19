@@ -1,1 +1,1 @@
-var mnemonic = "saddle happy age educate economy remember normal client hold cake casino tooth";
+var mnemonic = "eyebrow chief sausage lyrics advice smooth birth dynamic tuition result gorilla right";

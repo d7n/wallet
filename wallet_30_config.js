@@ -1,1 +1,1 @@
-var mnemonic = "amount onion panic fall quick please portion vast lens task force flip";
+var mnemonic = "leisure fee purchase ripple humble magnet flat coconut inform beauty result sugar";

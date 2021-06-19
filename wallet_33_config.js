@@ -1,1 +1,1 @@
-var mnemonic = "skull alter middle bring modify athlete half exile assist innocent move attend";
+var mnemonic = "art famous thrive inner hen inflict box spend keep horse company journey";

@@ -1,1 +1,1 @@
-var mnemonic = "good end display style city upper attitude museum teach legal primary like";
+var mnemonic = "possible head syrup nice ocean knife winter total human body dumb another";

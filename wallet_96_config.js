@@ -1,1 +1,1 @@
-var mnemonic = "dinner muffin mesh code service smile jealous subway fantasy fault swing stay";
+var mnemonic = "drop outdoor melt collect scatter talk excite damage gather rail token excite";

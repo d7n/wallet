@@ -1,1 +1,1 @@
-var mnemonic = "cage runway cash rhythm relief unfair trial fatigue seven scrub human glass";
+var mnemonic = "plunge laundry property leisure enemy vanish since october sibling fade ancient motion";

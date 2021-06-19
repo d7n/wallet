@@ -1,1 +1,1 @@
-var mnemonic = "joy mandate bean use hurdle run vacuum spray plunge camp control misery";
+var mnemonic = "draw will mixture cash session patch reflect fiber weird sniff armed balance";

@@ -1,1 +1,1 @@
-var mnemonic = "develop twelve divide harbor aware blouse busy embody neck snap behave aisle";
+var mnemonic = "protect client weapon height tell truth pretty vapor goat surprise heavy cruel";

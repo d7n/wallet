@@ -1,1 +1,1 @@
-var mnemonic = "apology minimum aim wish remove inform cash route glass wrist trash void";
+var mnemonic = "way gap blast toe garment idle gas note fat ripple night order";

@@ -1,1 +1,1 @@
-var mnemonic = "guess subject scan share upset calm over news roof chicken vital supply";
+var mnemonic = "settle spike warrior slogan swear farm vessel thrive helmet essence couple thunder";

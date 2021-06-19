@@ -1,1 +1,1 @@
-var mnemonic = "canoe vehicle survey buyer fossil luxury false sauce portion economy favorite build";
+var mnemonic = "define excite hair anchor arrange boost oppose first simple wing one glance";

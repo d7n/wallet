@@ -1,1 +1,1 @@
-var mnemonic = "cliff wrong woman world square jaguar ribbon private bundle cave snack smart";
+var mnemonic = "hundred roast limb happy fork boat venture evolve cost deny miss grit";

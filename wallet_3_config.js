@@ -1,1 +1,1 @@
-var mnemonic = "asset salmon struggle shallow wish upgrade icon rubber repair wheel behave frame";
+var mnemonic = "engine energy catalog fantasy empower lounge crawl little dinosaur kitchen enable crystal";

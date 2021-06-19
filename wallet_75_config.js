@@ -1,1 +1,1 @@
-var mnemonic = "shiver promote collect catalog squirrel duty gesture rude forget mother diagram awake";
+var mnemonic = "license child cactus suspect dry drift client note onion turn tail repair";

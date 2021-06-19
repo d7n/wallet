@@ -1,1 +1,1 @@
-var mnemonic = "devote device play vault bundle tornado hill sword second join syrup nerve";
+var mnemonic = "health because economy resist gift develop elevator trim struggle actor title unique";

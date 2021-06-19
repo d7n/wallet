@@ -1,1 +1,1 @@
-var mnemonic = "viable kitten zero length motion hungry diagram mirror announce retreat churn impulse";
+var mnemonic = "garbage sudden opinion square behind scene plunge humor rhythm tower praise alley";

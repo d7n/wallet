@@ -1,1 +1,1 @@
-var mnemonic = "cliff marble burden poverty trade cloth expire result harvest snake cycle loop";
+var mnemonic = "matter mean swamp have crush spot grace matrix wage female rookie urge";

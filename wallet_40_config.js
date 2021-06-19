@@ -1,1 +1,1 @@
-var mnemonic = "town hamster lesson resource same correct excuse rude diamond game crazy feed";
+var mnemonic = "spoon cigar govern together load dwarf winner level bronze diagram evil reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "transfer crucial brave lecture mule survey adjust praise tail school cube cruise";
+var mnemonic = "gasp lottery robot strike auto company steel cake ecology version gorilla trip";

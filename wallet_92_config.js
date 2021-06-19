@@ -1,1 +1,1 @@
-var mnemonic = "entry vague ring age canal crime virtual load example lion physical elegant";
+var mnemonic = "road shoulder actual cry ramp silver road unusual tape element great orange";

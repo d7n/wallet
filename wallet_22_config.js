@@ -1,1 +1,1 @@
-var mnemonic = "coral pull casual muffin earn idea owner exit zoo enter alone volume";
+var mnemonic = "hole section uphold fitness glide clinic room plunge unlock hawk tooth hawk";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt clever extra novel oppose pluck exile seven crucial napkin isolate mountain";
+var mnemonic = "maid wolf stool glance cancel ready feed scout stone electric mixed winner";

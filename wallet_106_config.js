@@ -1,1 +1,1 @@
-var mnemonic = "liquid unlock giant annual half mushroom double praise sister daring finger creek";
+var mnemonic = "donate awkward bridge medal cause street diagram broom north wave toward power";

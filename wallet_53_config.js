@@ -1,1 +1,1 @@
-var mnemonic = "light nurse plug coffee column prison spend blind divert security trend regret";
+var mnemonic = "shrug slender kangaroo rebel edge draft title eager better glide clean short";

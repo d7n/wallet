@@ -1,1 +1,1 @@
-var mnemonic = "fun genre trip wash trophy sick mango enforce poet deputy clinic viable";
+var mnemonic = "grass release congress whip absurd chalk leaf feature ordinary daughter club pattern";

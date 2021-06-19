@@ -1,1 +1,1 @@
-var mnemonic = "quality aim six tired nominee clay exchange wood venture material scan cash";
+var mnemonic = "moon iron sock badge marble level horn winner jealous gentle emerge word";

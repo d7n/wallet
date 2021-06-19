@@ -1,1 +1,1 @@
-var mnemonic = "help iron flip antenna pride patrol clutch job always tomorrow armor fix";
+var mnemonic = "shiver lend candy quantum auto nature visa hamster twice senior bomb then";

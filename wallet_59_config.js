@@ -1,1 +1,1 @@
-var mnemonic = "mind wink hat property celery major april setup impose teach dad ancient";
+var mnemonic = "mean involve lesson sun ship carpet check husband clip play radar rain";

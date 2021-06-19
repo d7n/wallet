@@ -1,1 +1,1 @@
-var mnemonic = "squeeze fresh top able sign artwork what result announce dinner dad until";
+var mnemonic = "purchase film misery acquire present garden dilemma deposit blast say cube enough";

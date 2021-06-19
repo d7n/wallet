@@ -1,1 +1,1 @@
-var mnemonic = "response deposit machine topic demise produce breeze because vibrant add law immune";
+var mnemonic = "before upon spin skirt patrol slush popular once author salute help isolate";

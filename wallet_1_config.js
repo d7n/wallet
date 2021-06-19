@@ -1,1 +1,1 @@
-var mnemonic = "snow tag decide phrase end home become chuckle mad leopard soup noise";
+var mnemonic = "corn diary will photo bulb gentle keep fix govern dress public jungle";

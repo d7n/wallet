@@ -1,1 +1,1 @@
-var mnemonic = "rose train valve civil fix fault inmate drip inherit cup fee blade";
+var mnemonic = "saddle man drastic armor woman hidden twenty brass approve awesome funny weather";

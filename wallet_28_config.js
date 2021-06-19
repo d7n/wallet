@@ -1,1 +1,1 @@
-var mnemonic = "correct gain issue flower spring rubber apart immense banana theme hurdle fade";
+var mnemonic = "force pulp piano goddess armed cross gift release cat apart capital cat";

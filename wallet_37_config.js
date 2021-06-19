@@ -1,1 +1,1 @@
-var mnemonic = "derive era nominee quote pause illegal pair title flag mad shoot food";
+var mnemonic = "agree night employ entry blood adult suffer exit odor garbage minor album";

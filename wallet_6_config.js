@@ -1,1 +1,1 @@
-var mnemonic = "slim group process immune bunker certain pave clean federal rule priority rotate";
+var mnemonic = "balance lonely cake addict link rhythm mail used daring cricket biology write";

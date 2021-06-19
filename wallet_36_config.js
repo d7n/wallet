@@ -1,1 +1,1 @@
-var mnemonic = "puppy thumb afraid liquid doctor borrow satisfy amused paddle pitch garden angle";
+var mnemonic = "all cube boss bottom paper knife thunder age report end alpha nice";

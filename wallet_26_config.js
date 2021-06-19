@@ -1,1 +1,1 @@
-var mnemonic = "verify squirrel nasty bag wing future juice clutch decorate fine loop route";
+var mnemonic = "emerge trigger card adjust slim earn assist adult enter raise inject crack";

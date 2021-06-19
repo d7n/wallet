@@ -1,1 +1,1 @@
-var mnemonic = "crush round champion urge pave swamp various owner crunch lesson erase gaze";
+var mnemonic = "elbow safe ask moral sure badge access grief salmon gather arena wealth";

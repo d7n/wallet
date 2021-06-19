@@ -1,1 +1,1 @@
-var mnemonic = "shoe thumb flight odor glue wrap canal loop space stick foot purse";
+var mnemonic = "topic aspect kid episode turkey boss idea hole weather height trip box";

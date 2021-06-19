@@ -1,1 +1,1 @@
-var mnemonic = "umbrella erase welcome stick antenna radio truth produce pigeon cactus parrot proof";
+var mnemonic = "exact master rich van life arrest choose bus field tornado vibrant chief";

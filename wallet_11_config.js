@@ -1,1 +1,1 @@
-var mnemonic = "disagree blanket morning subway stadium knife twelve school unit olympic supply reduce";
+var mnemonic = "easy quality century casino foster alpha enforce awesome option glory account sea";

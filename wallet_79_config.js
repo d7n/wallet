@@ -1,1 +1,1 @@
-var mnemonic = "voice wink grief make boring notable pipe act hungry tomato narrow end";
+var mnemonic = "adapt boss meat truth choice zoo grunt deliver emotion region lemon click";

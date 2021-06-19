@@ -1,1 +1,1 @@
-var mnemonic = "face swamp combine feature order critic bonus need person enough wedding depart";
+var mnemonic = "candy swear permit neck wine artwork shiver drastic travel possible green expand";

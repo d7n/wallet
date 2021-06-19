@@ -1,1 +1,1 @@
-var mnemonic = "flash people lizard govern account galaxy suit nation urban symptom duck spike";
+var mnemonic = "check anxiety leader injury thunder target honey health remain phrase double ski";

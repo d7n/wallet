@@ -1,1 +1,1 @@
-var mnemonic = "same loop armor unknown artefact crime crane link venue defy train ghost";
+var mnemonic = "seed clarify lock drop rich coffee cluster okay useless orange social update";

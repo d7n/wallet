@@ -1,1 +1,1 @@
-var mnemonic = "analyst relief absurd exit clean toe abstract shine brisk actual buddy develop";
+var mnemonic = "uphold coconut wrong coyote light option float trouble damp fiction remind canvas";

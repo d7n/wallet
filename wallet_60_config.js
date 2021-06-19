@@ -1,1 +1,1 @@
-var mnemonic = "treat elder true leopard canyon apology scatter vibrant clutch charge oven wood";
+var mnemonic = "rule napkin glow panel physical health relief beauty dirt hurry tank emerge";

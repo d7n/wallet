@@ -1,1 +1,1 @@
-var mnemonic = "quit rain basic south weasel advance negative easy clutch car burden salt";
+var mnemonic = "scan enjoy awful worth industry copy two area flock primary equip able";

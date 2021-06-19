@@ -1,1 +1,1 @@
-var mnemonic = "short moment bunker bundle cube key alter bullet road rent guide print";
+var mnemonic = "accident manual pattern earth civil pyramid snake egg damp basic hidden slogan";

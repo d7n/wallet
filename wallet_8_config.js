@@ -1,1 +1,1 @@
-var mnemonic = "column force cement blur pill modify run novel client toast throw echo";
+var mnemonic = "degree cargo chair decrease broom neck mercy task learn because much timber";

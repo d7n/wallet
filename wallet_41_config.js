@@ -1,1 +1,1 @@
-var mnemonic = "digital agent later result ghost donkey comic demise weather promote divide hidden";
+var mnemonic = "flip decide moment universe slight camp payment top start broom never winter";

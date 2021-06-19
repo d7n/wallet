@@ -1,1 +1,1 @@
-var mnemonic = "vapor speak since gravity orient tank water urban muffin skin pet people";
+var mnemonic = "oak excite wealth since already flag enemy thank novel very cereal puppy";

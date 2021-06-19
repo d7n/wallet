@@ -1,1 +1,1 @@
-var mnemonic = "frequent spoil what burger chat air zero census snap pottery image sniff";
+var mnemonic = "sphere office survey uncover problem city smooth cushion company discover memory cherry";

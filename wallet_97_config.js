@@ -1,1 +1,1 @@
-var mnemonic = "maze chair valve jacket hour hip essay jump tone hammer will medal";
+var mnemonic = "come review settle pig dizzy erode reveal equip vacant attitude violin mother";

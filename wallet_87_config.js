@@ -1,1 +1,1 @@
-var mnemonic = "grace unfair pulp muscle senior please verify butter frost own wrist gasp";
+var mnemonic = "provide movie rare piece champion train quarter boil give stumble also defense";

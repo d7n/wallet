@@ -1,1 +1,1 @@
-var mnemonic = "resist spoil magic apart announce sausage purity measure power iron universe rice";
+var mnemonic = "orbit decorate average spell half off angry west talk put adjust lesson";

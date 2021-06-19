@@ -1,1 +1,1 @@
-var mnemonic = "barely situate squeeze valley engine jazz short bonus vault army rug prosper";
+var mnemonic = "spot stool pottery real alter marble shove quarter critic bachelor lazy coast";

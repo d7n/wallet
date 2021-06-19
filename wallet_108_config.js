@@ -1,1 +1,1 @@
-var mnemonic = "hidden voyage slender vibrant toward reject inner quit frost episode major sustain";
+var mnemonic = "hole east alley usage romance swear stone almost east devote allow bulk";

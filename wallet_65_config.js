@@ -1,1 +1,1 @@
-var mnemonic = "turkey cherry arctic clinic spider stove staff sheriff picnic tenant anger awkward";
+var mnemonic = "begin mechanic lobster pen absurd shaft isolate coin prosper client later finish";

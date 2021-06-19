@@ -1,1 +1,1 @@
-var mnemonic = "satisfy vote wood purpose total scatter pair blouse spring belt discover illegal";
+var mnemonic = "jump move travel olympic half idle rural luggage faint switch mixed menu";

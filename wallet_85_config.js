@@ -1,1 +1,1 @@
-var mnemonic = "junk stadium lumber crop luggage exist fashion monkey one review license upset";
+var mnemonic = "legend catch side define illness feed veteran outer drum orbit entry pave";

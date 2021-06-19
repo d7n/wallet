@@ -1,1 +1,1 @@
-var mnemonic = "satoshi express spend shallow scissors leisure mention marine column marriage task start";
+var mnemonic = "often angle stock clap one meat spy wheel marine account bottom still";
