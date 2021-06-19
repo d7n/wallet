@@ -1,1 +1,1 @@
-var mnemonic = "curve unknown tree beyond father purity upon trust join slim profit switch";
+var mnemonic = "modify silly manage march phrase can soap protect limit genuine topple prison";

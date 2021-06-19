@@ -1,1 +1,1 @@
-var mnemonic = "panic bonus heart renew raw they chase blast clock conduct topic loop";
+var mnemonic = "radio clean network furnace keep welcome vivid tape glare hero just delay";

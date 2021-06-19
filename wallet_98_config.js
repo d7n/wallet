@@ -1,1 +1,1 @@
-var mnemonic = "flower jeans slogan vapor elevator catch all mobile body inspire task year";
+var mnemonic = "inquiry atom random critic net critic pipe modify elder design raw attack";

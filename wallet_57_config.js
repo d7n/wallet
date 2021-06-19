@@ -1,1 +1,1 @@
-var mnemonic = "solid razor parrot medal spread annual song rain merry post artist legal";
+var mnemonic = "because art convince borrow pattern hybrid advance ordinary ability belt song forget";

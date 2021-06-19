@@ -1,1 +1,1 @@
-var mnemonic = "fiscal help lyrics toe girl render gun empower aisle hedgehog rack divert";
+var mnemonic = "feel exile cool odor coral wing valley cheap fruit happy train silk";

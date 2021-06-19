@@ -1,1 +1,1 @@
-var mnemonic = "square boil rail novel flavor canyon sock boy turn winner online sentence";
+var mnemonic = "provide cigar staff forget perfect horror enact bachelor prize final dragon apart";

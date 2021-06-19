@@ -1,1 +1,1 @@
-var mnemonic = "bird own fog result roast parade repeat maze endless pole deliver color";
+var mnemonic = "price media hat caught weapon volcano possible biology idle rent alley party";

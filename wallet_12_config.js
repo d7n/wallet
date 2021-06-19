@@ -1,1 +1,1 @@
-var mnemonic = "click lend pizza bacon disagree vehicle detail crater duty front answer unit";
+var mnemonic = "write hover mass student noodle purse enough actress exhibit ahead mesh crawl";

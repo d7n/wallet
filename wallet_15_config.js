@@ -1,1 +1,1 @@
-var mnemonic = "delay prefer print dream thunder install praise west color acquire quarter credit";
+var mnemonic = "hurdle income mail fault milk begin brush misery eagle sunset bunker invite";

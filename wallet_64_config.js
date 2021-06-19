@@ -1,1 +1,1 @@
-var mnemonic = "dwarf replace oxygen host scheme staff mask trust ginger proud swallow topple";
+var mnemonic = "crisp shrug notable suspect time boil broom crunch inflict water into injury";

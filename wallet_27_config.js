@@ -1,1 +1,1 @@
-var mnemonic = "scatter usual gauge shuffle gas bird main jazz marble view switch abandon";
+var mnemonic = "hundred worry garlic shrimp mystery assault bless gain visit nominee modify multiply";

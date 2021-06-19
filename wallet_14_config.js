@@ -1,1 +1,1 @@
-var mnemonic = "embark shrug wrap crash laugh labor toddler payment north prepare avoid skill";
+var mnemonic = "noise merge noble world robot local dream assume between obscure avocado twice";

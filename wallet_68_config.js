@@ -1,1 +1,1 @@
-var mnemonic = "knock bamboo odor lamp observe black bonus clog bicycle inmate voyage village";
+var mnemonic = "eight great little glove globe embark twenty human repeat notice purity course";

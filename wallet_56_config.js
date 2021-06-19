@@ -1,1 +1,1 @@
-var mnemonic = "palace clever casual small phrase melt unique muffin matrix popular cheese trigger";
+var mnemonic = "hello use priority romance refuse capable solar fruit hidden lab double floor";

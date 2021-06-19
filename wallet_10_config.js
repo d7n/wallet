@@ -1,1 +1,1 @@
-var mnemonic = "allow unusual clean guitar memory fix element reject argue master infant apple";
+var mnemonic = "call brick depart chase bind matter clock ring fashion frog strong foster";

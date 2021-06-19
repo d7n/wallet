@@ -1,1 +1,1 @@
-var mnemonic = "curtain amateur vital invite flash purchase quality rhythm bounce worry sauce under";
+var mnemonic = "subway tube super machine economy frown cook taxi miss water spice catch";

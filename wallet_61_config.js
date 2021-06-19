@@ -1,1 +1,1 @@
-var mnemonic = "easily food bird tomato casual remove text basic famous diagram tragic tribe";
+var mnemonic = "cross amazing about swallow north suspect initial maple seven erosion impact input";

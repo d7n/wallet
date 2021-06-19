@@ -1,1 +1,1 @@
-var mnemonic = "side hobby blouse refuse ladder milk catch install eager victory truly plug";
+var mnemonic = "family bundle help carpet reject salmon junior carbon shuffle exit copy spend";

@@ -1,1 +1,1 @@
-var mnemonic = "rough crisp hollow pitch warm math party increase inherit wall insect brisk";
+var mnemonic = "frog history moment tent recycle second produce involve calm essence minor sick";

@@ -1,1 +1,1 @@
-var mnemonic = "enemy oak fringe dice grunt report spawn infant coyote expose menu earn";
+var mnemonic = "near blame wisdom tonight embody cluster ring group equip noble hair flat";

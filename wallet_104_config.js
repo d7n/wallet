@@ -1,1 +1,1 @@
-var mnemonic = "prison salt fence feel odor among happy donor brother add submit guilt";
+var mnemonic = "tonight worth machine system limb movie flush want monster sweet solar belt";

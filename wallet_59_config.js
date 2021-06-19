@@ -1,1 +1,1 @@
-var mnemonic = "gown arm retire ancient rubber similar flat lazy drill gather task coast";
+var mnemonic = "toddler oval logic intact meat view faint twenty frequent crime near loop";

@@ -1,1 +1,1 @@
-var mnemonic = "place recall decide duck rigid swift file friend chief crazy rifle food";
+var mnemonic = "together spoon vault purity wood cluster solid damp dinosaur cattle alpha account";

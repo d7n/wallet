@@ -1,1 +1,1 @@
-var mnemonic = "save deposit situate upgrade fog bless photo false close nut hotel frost";
+var mnemonic = "current shift grunt rule sell window security grunt elder tape talent tide";

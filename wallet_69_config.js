@@ -1,1 +1,1 @@
-var mnemonic = "element snap punch someone theory census upper tide fish bone small party";
+var mnemonic = "secret intact ten wine stone shed when raven feature climb mercy dream";

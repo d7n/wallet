@@ -1,1 +1,1 @@
-var mnemonic = "exhibit upon bracket theme crystal banner intact service security mail husband blast";
+var mnemonic = "usual oak fitness erosion shift work tourist high surround correct inner clump";

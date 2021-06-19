@@ -1,1 +1,1 @@
-var mnemonic = "that slot twenty fancy water exercise rain eager mammal young uncle mechanic";
+var mnemonic = "pave dry settle plug husband conduct december coyote wasp able mutual cry";

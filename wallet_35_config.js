@@ -1,1 +1,1 @@
-var mnemonic = "enough history ordinary moon toy appear unfold alter hour crystal flock problem";
+var mnemonic = "fan autumn tourist race require glove afford reject salute scatter scorpion good";

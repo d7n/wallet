@@ -1,1 +1,1 @@
-var mnemonic = "borrow inch kidney fork opera carry surround dismiss host very wolf drive";
+var mnemonic = "hood cheap walnut lawn bomb gossip talk again hand effort peace trap";

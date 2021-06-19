@@ -1,1 +1,1 @@
-var mnemonic = "gloom sibling decide analyst fiction bargain assault mind elbow forest process hill";
+var mnemonic = "update forget person left capital pizza during lottery easy spray ribbon salute";

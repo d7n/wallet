@@ -1,1 +1,1 @@
-var mnemonic = "shuffle grass gain dry palace auction future hover hunt alley engage flash";
+var mnemonic = "settle august icon property baby relax human entry tank crisp grab castle";

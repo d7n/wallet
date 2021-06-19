@@ -1,1 +1,1 @@
-var mnemonic = "cushion glance random neck provide crowd bitter silk fragile toast option easily";
+var mnemonic = "sock cousin type dove close appear two name price ghost sudden license";

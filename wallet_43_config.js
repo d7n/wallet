@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit tuition few denial way audit version predict tilt shed absent unit";
+var mnemonic = "alert muscle fork path sponsor enjoy adapt sting step liquid census vague";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue never agree certain grunt stamp work void box aunt cream ridge";
+var mnemonic = "twist spy obtain pledge dwarf outdoor crane attend forest unhappy monster destroy";

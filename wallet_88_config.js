@@ -1,1 +1,1 @@
-var mnemonic = "warfare capital spoil erupt half shuffle lawsuit gap witness turkey special oxygen";
+var mnemonic = "little couch garden book slim icon excite moral teach silent primary cave";

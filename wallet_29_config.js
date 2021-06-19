@@ -1,1 +1,1 @@
-var mnemonic = "hole fade rookie doll trade ugly ridge equip visit retreat visit visit";
+var mnemonic = "taxi release mammal worry develop gain perfect pledge charge obscure tattoo clump";

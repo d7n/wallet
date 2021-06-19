@@ -1,1 +1,1 @@
-var mnemonic = "armor seven ethics zebra mango manage fee bachelor often cool program craft";
+var mnemonic = "effort defense more junk race quantum laugh bacon dizzy legend dilemma notable";

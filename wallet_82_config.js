@@ -1,1 +1,1 @@
-var mnemonic = "jewel ski weird clutch true snow season mansion once execute trend present";
+var mnemonic = "inner bus gossip provide dune enforce chalk accident rifle multiply under planet";

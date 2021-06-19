@@ -1,1 +1,1 @@
-var mnemonic = "slam brand absurd confirm rare excess approve turtle notable goose just mystery";
+var mnemonic = "limit tag entry stamp mind glory gloom renew urban tissue fantasy slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "mind noise trim verb lock duty raw wreck soon napkin lava mosquito";
+var mnemonic = "file nation robust raw brush walk accuse island reward author half siren";

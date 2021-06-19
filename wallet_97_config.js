@@ -1,1 +1,1 @@
-var mnemonic = "comic whip observe meadow jeans electric easy man coast elite term reopen";
+var mnemonic = "picnic income hundred tribe expand solid trend whale peanut dash slogan rally";

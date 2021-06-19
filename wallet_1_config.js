@@ -1,1 +1,1 @@
-var mnemonic = "odor palm wedding emotion energy guess radio endless egg jealous jump retreat";
+var mnemonic = "whip because accident human salon upgrade enemy antique squirrel process wrestle repair";

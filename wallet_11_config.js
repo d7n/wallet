@@ -1,1 +1,1 @@
-var mnemonic = "timber raise enemy eager train nurse lobster floor adjust pigeon pistol hole";
+var mnemonic = "sibling object wheat magic main film vicious leopard cost enroll employ gravity";

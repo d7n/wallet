@@ -1,1 +1,1 @@
-var mnemonic = "oven thunder face moon actor picnic piano flower chaos wish more action";
+var mnemonic = "dream crash lobster rich strike inside reward pave color usage undo leader";

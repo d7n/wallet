@@ -1,1 +1,1 @@
-var mnemonic = "lumber diesel yellow desk cigar liar alter rich jealous island attack ensure";
+var mnemonic = "option choose invest crush what fossil shine ring kangaroo liar prefer moon";

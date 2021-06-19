@@ -1,1 +1,1 @@
-var mnemonic = "page hockey visit quiz omit caution strategy valve boy lamp apple ocean";
+var mnemonic = "sunny spare torch enforce genuine paddle seminar heart rely glance panda smoke";

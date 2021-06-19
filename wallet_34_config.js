@@ -1,1 +1,1 @@
-var mnemonic = "fortune animal vast round echo way clean flush kiss fringe immune mosquito";
+var mnemonic = "display trouble keep oil rescue general life rice april sketch select sail";

@@ -1,1 +1,1 @@
-var mnemonic = "solve jazz loop flock muscle copy timber wink another steak noodle retire";
+var mnemonic = "win feed tourist learn uniform evil person blush knife romance assault frog";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest farm kitten fantasy critic daring lady boy person grape robust body";
+var mnemonic = "loan wish dilemma horse absent thunder float math dinosaur sugar roast warfare";

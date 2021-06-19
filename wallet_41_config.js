@@ -1,1 +1,1 @@
-var mnemonic = "fine swear blanket remind know shaft nephew resemble symbol unknown card object";
+var mnemonic = "hint era wreck better sorry bid bubble own chapter mixture film table";

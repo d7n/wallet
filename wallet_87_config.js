@@ -1,1 +1,1 @@
-var mnemonic = "hill tiny wink select perfect rocket mad hire grit regular pyramid warrior";
+var mnemonic = "beef south boy rhythm debris trust vacant success young october canvas neglect";

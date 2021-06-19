@@ -1,1 +1,1 @@
-var mnemonic = "text chase chicken detail record okay blanket muscle whisper gate ask price";
+var mnemonic = "company replace future immune play problem medal hub acquire paddle turkey kind";

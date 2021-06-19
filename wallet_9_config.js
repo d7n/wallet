@@ -1,1 +1,1 @@
-var mnemonic = "credit skull finger prepare rent this leisure label penalty process culture catalog";
+var mnemonic = "prosper cat iron nest wagon various entry shield wool place weekend stomach";

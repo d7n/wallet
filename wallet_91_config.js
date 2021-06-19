@@ -1,1 +1,1 @@
-var mnemonic = "plunge turtle fall merge cactus fitness cloud polar nephew super mobile move";
+var mnemonic = "satoshi joke chicken lizard news rookie hockey upset call supreme powder drill";

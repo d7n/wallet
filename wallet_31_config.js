@@ -1,1 +1,1 @@
-var mnemonic = "water gather weapon guitar mail perfect replace double drastic virtual sunny slogan";
+var mnemonic = "taste slam knee plunge tonight brown month silly lounge second modify excite";

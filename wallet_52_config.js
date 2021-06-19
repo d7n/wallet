@@ -1,1 +1,1 @@
-var mnemonic = "junior robust keep cricket paddle dilemma outer entire occur mention pretty type";
+var mnemonic = "shy among velvet excuse seven approve cruise autumn farm prevent garbage toast";

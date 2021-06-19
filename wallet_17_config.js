@@ -1,1 +1,1 @@
-var mnemonic = "practice wheel decline brain endless pig quote priority popular airport shove vote";
+var mnemonic = "sea story asset steak warrior debate dizzy direct civil arrest increase punch";

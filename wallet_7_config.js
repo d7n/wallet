@@ -1,1 +1,1 @@
-var mnemonic = "industry option kid oval castle pond frame banner cage high replace gain";
+var mnemonic = "gate peasant misery live fantasy bargain elephant science ranch outdoor buzz road";

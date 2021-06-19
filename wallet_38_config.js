@@ -1,1 +1,1 @@
-var mnemonic = "merry ask bind famous crunch unfold blade civil oppose rain cabin era";
+var mnemonic = "arch flat between damp duck festival mesh carry kid ceiling denial fun";

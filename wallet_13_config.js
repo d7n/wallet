@@ -1,1 +1,1 @@
-var mnemonic = "axis perfect hawk mimic gather cancel bridge useful release reopen skull glove";
+var mnemonic = "neutral balcony capital lunar require worry curtain paper fatigue aspect wreck climb";

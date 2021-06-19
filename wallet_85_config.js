@@ -1,1 +1,1 @@
-var mnemonic = "near hospital gravity isolate donor cricket topple deal target scrap message priority";
+var mnemonic = "nature nurse bottom crawl bullet curve fan drill tissue okay tribe giant";

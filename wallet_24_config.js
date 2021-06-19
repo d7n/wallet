@@ -1,1 +1,1 @@
-var mnemonic = "human tonight duty flag grass swallow atom increase original snake meadow during";
+var mnemonic = "critic quote wine crunch hover brother reopen spoon cream version tornado pear";

@@ -1,1 +1,1 @@
-var mnemonic = "essence link oppose obtain mimic ship toe drastic genre group cash salon";
+var mnemonic = "birth mercy admit vapor october organ opinion guide pitch miss glad radio";

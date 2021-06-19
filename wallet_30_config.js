@@ -1,1 +1,1 @@
-var mnemonic = "basket mean acoustic pill brother detail patch moon zero august cute crystal";
+var mnemonic = "lamp transfer sing sketch utility rug tornado mansion tank crush glance upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "alone recipe add seat shove game ladder inspire admit jar route tattoo";
+var mnemonic = "sustain room squirrel decide emerge song seek enroll wire present profit midnight";

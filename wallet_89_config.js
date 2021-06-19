@@ -1,1 +1,1 @@
-var mnemonic = "power lady ball urge minute demise average great two crane topple wheel";
+var mnemonic = "sun crazy bounce garage country amazing matter desert record course era indoor";

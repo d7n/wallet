@@ -1,1 +1,1 @@
-var mnemonic = "judge wear rescue outdoor canal book garage cycle illegal holiday attend eight";
+var mnemonic = "sibling gas rent expire suit airport notable raccoon color tourist hunt rude";

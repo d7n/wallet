@@ -1,1 +1,1 @@
-var mnemonic = "section industry enlist grab benefit alter palm fire property close change cancel";
+var mnemonic = "black sadness trophy collect pet clutch include reflect disorder run tank scissors";

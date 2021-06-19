@@ -1,1 +1,1 @@
-var mnemonic = "vicious tongue guitar stumble body border tobacco pig lens effort ridge climb";
+var mnemonic = "normal next sing logic silly carbon urge naive wine endorse light person";

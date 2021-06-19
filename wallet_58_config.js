@@ -1,1 +1,1 @@
-var mnemonic = "cave quality nominee idle possible liberty antique attend problem response submit divert";
+var mnemonic = "try unlock leopard quote segment magnet elbow alone prize top nasty sister";

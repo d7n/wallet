@@ -1,1 +1,1 @@
-var mnemonic = "follow lawn hospital silly fabric frown endless edge catch inner mention settle";
+var mnemonic = "neutral arrow orbit idle insect venture click fat bomb destroy settle dove";

@@ -1,1 +1,1 @@
-var mnemonic = "seek truth surface phone mad orbit shallow certain similar come bomb visa";
+var mnemonic = "mean almost link pizza practice fancy focus diary vivid cushion globe urban";

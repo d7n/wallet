@@ -1,1 +1,1 @@
-var mnemonic = "good claw winter pigeon smart please shell slam fashion open stove spider";
+var mnemonic = "wrap own load shy peace wish one expire mother bamboo popular loud";

@@ -1,1 +1,1 @@
-var mnemonic = "engine verify next local loud program trumpet famous battle trim tiny monster";
+var mnemonic = "popular drip immense knee oak vault bean rapid rookie coast define siren";

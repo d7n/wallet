@@ -1,1 +1,1 @@
-var mnemonic = "margin firm parent blanket draft shoulder paddle taste seat road allow noble";
+var mnemonic = "mountain easily dinosaur super address veteran version poverty cup fog strategy organ";

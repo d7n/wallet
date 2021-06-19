@@ -1,1 +1,1 @@
-var mnemonic = "angle cheese summer decide float immune hurt direct urge never once ramp";
+var mnemonic = "dizzy solar develop polar stuff glide orient glove oil glove kid speed";

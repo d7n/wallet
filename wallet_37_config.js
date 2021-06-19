@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur output inspire twice undo rebuild mammal situate farm anger twice great";
+var mnemonic = "retire lesson globe zoo boil mention talent metal history uncover mercy lonely";

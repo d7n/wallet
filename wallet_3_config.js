@@ -1,1 +1,1 @@
-var mnemonic = "news able quit crime vivid shoe situate use history penalty mistake carbon";
+var mnemonic = "change vacuum enemy foil talent tide sudden atom lumber clap stone donor";

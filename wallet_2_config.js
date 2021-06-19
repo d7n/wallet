@@ -1,1 +1,1 @@
-var mnemonic = "dignity usual coach upon wage hazard radar sure develop rally pink maze";
+var mnemonic = "brick scene render furnace birth burden odor beauty trade reflect forward truly";

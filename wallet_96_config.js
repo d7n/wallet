@@ -1,1 +1,1 @@
-var mnemonic = "life gym hat mechanic solar law anchor mushroom apart vicious swarm wedding";
+var mnemonic = "mango winter fox venue throw crack snake spin brother trap help wise";

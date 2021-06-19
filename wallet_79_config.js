@@ -1,1 +1,1 @@
-var mnemonic = "gauge seed foot wire come burst habit fluid summer tattoo obey gesture";
+var mnemonic = "final subway away same twelve express bulk acid measure aunt galaxy muscle";

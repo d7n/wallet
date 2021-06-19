@@ -1,1 +1,1 @@
-var mnemonic = "burst cup another lyrics yellow mention tiny what drill beach close hill";
+var mnemonic = "front shift minimum butter egg cactus valve fiscal enough wheat eyebrow people";

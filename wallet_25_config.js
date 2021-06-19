@@ -1,1 +1,1 @@
-var mnemonic = "unit menu easily close slam chronic tone chase menu twin library brass";
+var mnemonic = "pause green antique accuse inform ready distance urge involve teach hand off";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent tower glory message guess solve merry view lemon glass food nuclear";
+var mnemonic = "daring orbit solution inflict disease debate taxi scout insane educate absent leaf";

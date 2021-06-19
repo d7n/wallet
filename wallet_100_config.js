@@ -1,1 +1,1 @@
-var mnemonic = "smoke escape primary width pottery milk treat planet regret dignity own mansion";
+var mnemonic = "celery frequent alien giraffe adapt notable behave allow rotate roof option auction";

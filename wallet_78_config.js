@@ -1,1 +1,1 @@
-var mnemonic = "garment lyrics erupt mushroom any random marine raccoon venue resource calm elbow";
+var mnemonic = "drift weekend hundred stand also grief office coyote kangaroo shuffle year income";

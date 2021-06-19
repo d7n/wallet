@@ -1,1 +1,1 @@
-var mnemonic = "nerve museum invite setup lecture desk minute develop adjust world often album";
+var mnemonic = "copy chair nuclear exact display educate middle trust render foam enemy napkin";

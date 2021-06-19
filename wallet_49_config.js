@@ -1,1 +1,1 @@
-var mnemonic = "theory poet frog safe air bread busy virtual owner blame music hawk";
+var mnemonic = "speak question aerobic grain tattoo miracle zebra flavor suspect camp tag alien";

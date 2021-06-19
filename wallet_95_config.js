@@ -1,1 +1,1 @@
-var mnemonic = "female faith spare arena forest resemble marriage manage whale toast ecology stand";
+var mnemonic = "exit magnet crack remember home tragic race you kangaroo frequent tag medal";

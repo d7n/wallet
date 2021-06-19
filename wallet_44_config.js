@@ -1,1 +1,1 @@
-var mnemonic = "apart keen trust music tail polar swallow lion pride hidden together settle";
+var mnemonic = "worth journey fee estate flat artist because spoil language worth pink hub";

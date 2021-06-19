@@ -1,1 +1,1 @@
-var mnemonic = "sponsor crucial canyon rare sustain glass abuse credit wave total obtain enable";
+var mnemonic = "cereal allow trumpet term absent term medal trial caution edit figure obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado someone tribe section orient emerge drink transfer system table oil equal";
+var mnemonic = "joke ramp roof column follow almost subway scheme annual fit spawn heavy";

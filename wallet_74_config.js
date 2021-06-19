@@ -1,1 +1,1 @@
-var mnemonic = "burger sheriff lend cross debris achieve onion salt clown argue moment when";
+var mnemonic = "dumb drive power mountain seven toilet rotate buzz roast fuel spare already";

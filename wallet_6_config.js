@@ -1,1 +1,1 @@
-var mnemonic = "mercy excuse shaft pride wealth device account injury peanut sibling nuclear spoil";
+var mnemonic = "item south cattle face entire lucky wait theory confirm bench barely source";
