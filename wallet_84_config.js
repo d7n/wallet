@@ -1,1 +1,1 @@
-var mnemonic = "figure inquiry chief young fade fold worry orchard own olive critic neglect";
+var mnemonic = "avoid fork attitude shoe seed pyramid shadow similar silk blossom divorce brief";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin own drop what heart demise push sure suffer draw saddle dune";
+var mnemonic = "person diesel busy foster trap student snake company ticket artefact repeat system";

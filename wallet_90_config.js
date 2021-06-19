@@ -1,1 +1,1 @@
-var mnemonic = "turn runway post tortoise language session crystal market forest lava detect comfort";
+var mnemonic = "broccoli tattoo total subject also search ramp soul injury embark borrow hammer";

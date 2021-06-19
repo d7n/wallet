@@ -1,1 +1,1 @@
-var mnemonic = "siren produce lazy grace upon quit govern congress treat you man day";
+var mnemonic = "repair flee oak disorder carbon device robot apology angry century tackle diamond";

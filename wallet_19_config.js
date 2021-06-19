@@ -1,1 +1,1 @@
-var mnemonic = "ketchup occur junk salad across supply patient improve modify spring snap real";
+var mnemonic = "grunt giggle grief obtain siege upper ready impact exhaust protect steak laundry";

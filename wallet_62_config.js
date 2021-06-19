@@ -1,1 +1,1 @@
-var mnemonic = "humor depart approve shoot nice motion jeans lab subject cool manual lock";
+var mnemonic = "hire bread move rose submit mirror tower among mirror lamp trade put";

@@ -1,1 +1,1 @@
-var mnemonic = "purse other holiday danger pear renew apple group fog crop pilot enough";
+var mnemonic = "slide country hub rigid dolphin parade balcony favorite custom emotion people learn";

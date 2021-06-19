@@ -1,1 +1,1 @@
-var mnemonic = "police spike job napkin envelope worry slight hip dawn immense orchard need";
+var mnemonic = "detect mutual physical link keen share cactus rose offer genre guitar general";

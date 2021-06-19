@@ -1,1 +1,1 @@
-var mnemonic = "cherry seed pitch address stock ozone opinion economy flee term glow future";
+var mnemonic = "else giraffe letter pair canyon lawsuit hedgehog woman match judge gaze patch";

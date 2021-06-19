@@ -1,1 +1,1 @@
-var mnemonic = "genius blind dawn simple rookie deny tackle trade barrel simple cliff afraid";
+var mnemonic = "rather faculty license purchase ball assist time wonder hurt next slogan day";

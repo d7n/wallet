@@ -1,1 +1,1 @@
-var mnemonic = "put vocal audit skill attend field top draw type brand disorder math";
+var mnemonic = "person science world supreme kingdom marriage jar mandate media skate purse insect";

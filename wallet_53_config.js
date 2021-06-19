@@ -1,1 +1,1 @@
-var mnemonic = "upper pencil phrase jar super cook expand below ceiling gentle brother mix";
+var mnemonic = "awkward crystal alpha blossom acid such myself aspect find bid relax begin";

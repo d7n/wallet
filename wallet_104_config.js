@@ -1,1 +1,1 @@
-var mnemonic = "mosquito city badge prevent front gadget box dream rate idle cannon matrix";
+var mnemonic = "life option knock fee clap diet ensure onion universe arch case wish";

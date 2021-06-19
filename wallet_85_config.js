@@ -1,1 +1,1 @@
-var mnemonic = "farm split update height bullet spice humble text mention beyond catch grace";
+var mnemonic = "upset outdoor metal cushion install juice course normal empower desert fence into";

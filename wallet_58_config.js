@@ -1,1 +1,1 @@
-var mnemonic = "dose quit portion add tower under nominee crisp wrap purity method produce";
+var mnemonic = "book boy hub figure unhappy service grape toilet travel tail metal shrug";

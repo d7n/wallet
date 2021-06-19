@@ -1,1 +1,1 @@
-var mnemonic = "neither credit stem fatal stadium fire federal combine gather sphere apple permit";
+var mnemonic = "garbage game wet symptom pulp stereo convince lawsuit rookie hole answer barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "six meat silly keep volcano bridge oven cute enact primary daring toilet";
+var mnemonic = "dizzy trigger frozen various domain appear afraid wave image logic hub nice";

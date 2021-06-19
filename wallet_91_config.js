@@ -1,1 +1,1 @@
-var mnemonic = "mean lemon absent accident embark ceiling inner raccoon ride agent rug valley";
+var mnemonic = "sun word evolve force advance embody judge verify seven sunny will load";

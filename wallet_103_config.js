@@ -1,1 +1,1 @@
-var mnemonic = "drift rival canal syrup powder actor glance horror soda army dirt consider";
+var mnemonic = "radar mutual limit fuel hire illness north purpose melody soon head nice";

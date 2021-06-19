@@ -1,1 +1,1 @@
-var mnemonic = "busy treat time team rule play tomato number close place exclude select";
+var mnemonic = "reject brother enemy decide mean favorite warm victory victory knee beyond grace";

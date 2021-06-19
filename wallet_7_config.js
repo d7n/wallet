@@ -1,1 +1,1 @@
-var mnemonic = "post milk coin citizen luggage soon unfold canvas turkey sad wash decorate";
+var mnemonic = "crowd admit mind future smoke reject industry orbit powder thrive film salt";

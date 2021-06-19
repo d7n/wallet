@@ -1,1 +1,1 @@
-var mnemonic = "boring daughter sight family runway bind guard draw regret resemble produce fog";
+var mnemonic = "injury pottery noble crawl reform tourist submit burden inflict lab begin weekend";

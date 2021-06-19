@@ -1,1 +1,1 @@
-var mnemonic = "goddess atom tortoise churn odor cable country audit over amateur cannon quantum";
+var mnemonic = "chuckle segment swift airport speed grunt alarm force matter worry flash suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "focus keen risk awesome table orient glimpse fuel jar valve avocado near";
+var mnemonic = "leopard increase mask enough shrimp oxygen corn find split develop toilet simple";

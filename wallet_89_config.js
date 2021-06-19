@@ -1,1 +1,1 @@
-var mnemonic = "smile reject exhaust one easily defy drum pluck fatigue west entire year";
+var mnemonic = "talent group program text inhale tree summer century fog flight soda ahead";

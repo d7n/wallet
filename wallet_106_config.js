@@ -1,1 +1,1 @@
-var mnemonic = "birth state blue boss chair cross crouch amazing lobster ceiling crop alone";
+var mnemonic = "sick dash boat tissue nephew alarm stand coach text casino plastic cradle";

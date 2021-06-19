@@ -1,1 +1,1 @@
-var mnemonic = "portion grit same ancient dynamic junk trumpet lock radio patch ball daring";
+var mnemonic = "inch mean banner foil idle member remain dream culture flight impulse hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle alarm awesome dose region toddler quick remind skill circle virus salon";
+var mnemonic = "live hole hold risk injury soup topic thumb inject immense word coast";

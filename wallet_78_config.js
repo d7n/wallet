@@ -1,1 +1,1 @@
-var mnemonic = "actress sunset steel tuna unable odor often nothing stumble wait bridge make";
+var mnemonic = "sunny sunset lottery churn snake proof eager glide capital excuse since wood";

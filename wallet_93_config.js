@@ -1,1 +1,1 @@
-var mnemonic = "matter dust harsh demise indicate way mistake shock shallow desert ranch lumber";
+var mnemonic = "dust unhappy brass vocal cargo ignore fancy glove rib bonus stool wheat";

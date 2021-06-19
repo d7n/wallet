@@ -1,1 +1,1 @@
-var mnemonic = "ball fat west paper tag thrive allow sunset rack cheap stereo deny";
+var mnemonic = "other pull floor armor busy anxiety sphere west wait picture table kangaroo";

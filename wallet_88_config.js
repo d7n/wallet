@@ -1,1 +1,1 @@
-var mnemonic = "twin defense must payment snake screen total polar remain fossil rebuild under";
+var mnemonic = "hill sign plastic pen smoke bamboo dose nerve claim essay rookie pony";

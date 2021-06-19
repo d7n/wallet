@@ -1,1 +1,1 @@
-var mnemonic = "exact frost fire man grunt distance gauge ordinary secret voice size skin";
+var mnemonic = "shoot perfect current slot jazz inspire almost solution essay element sugar punch";

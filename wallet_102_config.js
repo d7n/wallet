@@ -1,1 +1,1 @@
-var mnemonic = "quote original level flame possible vanish blade west tunnel near arrest essay";
+var mnemonic = "buzz crush cover head ready buzz barrel title pledge swarm please never";

@@ -1,1 +1,1 @@
-var mnemonic = "check swallow hurt hand voyage ready repair ski hold wreck chalk clip";
+var mnemonic = "cliff athlete soon chaos cool material street crush useful world pear jelly";

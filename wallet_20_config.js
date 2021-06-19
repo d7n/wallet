@@ -1,1 +1,1 @@
-var mnemonic = "organ lonely course burst ghost horror alert entire this noble demand basic";
+var mnemonic = "woman paper runway digital unable equal below city minor choose miracle know";

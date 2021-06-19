@@ -1,1 +1,1 @@
-var mnemonic = "remind swallow cradle catalog penalty anchor scare soda crop dirt satisfy excuse";
+var mnemonic = "wasp depend latin stock age cycle police slab uncover street style orient";

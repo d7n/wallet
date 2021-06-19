@@ -1,1 +1,1 @@
-var mnemonic = "obtain own access fiscal orange express section tackle rebel rural you monkey";
+var mnemonic = "awful skill hen glue paddle debris abandon network length age palace wealth";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel two wink easy awkward select oxygen unlock wage beyond menu muscle";
+var mnemonic = "nasty wing glue bonus foam slim enforce income source slam height satoshi";

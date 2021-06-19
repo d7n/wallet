@@ -1,1 +1,1 @@
-var mnemonic = "tooth feature scorpion erode chuckle wolf life gesture about impact ramp betray";
+var mnemonic = "depart below alone armor casual normal orient frown mix say animal rotate";

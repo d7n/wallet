@@ -1,1 +1,1 @@
-var mnemonic = "remain devote foam cloth penalty stove badge group become believe staff cable";
+var mnemonic = "spot robot outer viable kingdom van orphan south umbrella hole culture whale";

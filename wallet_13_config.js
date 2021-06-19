@@ -1,1 +1,1 @@
-var mnemonic = "series immune program base seed diet donor key goose bag patient away";
+var mnemonic = "soldier cart erupt insane cost exact orange stumble corn sustain tip disease";

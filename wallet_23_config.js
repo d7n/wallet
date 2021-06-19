@@ -1,1 +1,1 @@
-var mnemonic = "power drill analyst actor mom siren glance jungle situate blood remain solar";
+var mnemonic = "mention embody grit limit pencil drift moment embark scissors gorilla float ocean";

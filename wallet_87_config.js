@@ -1,1 +1,1 @@
-var mnemonic = "candy mixed panic nasty print cage car fish planet unusual novel matrix";
+var mnemonic = "control topic essence purity ocean dial typical feed unveil juice scare odor";

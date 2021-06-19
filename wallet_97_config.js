@@ -1,1 +1,1 @@
-var mnemonic = "vibrant bird essay appear tonight later gift social relax artwork stumble tide";
+var mnemonic = "comic abuse genius measure kit ceiling sibling strike patient faint ankle scorpion";

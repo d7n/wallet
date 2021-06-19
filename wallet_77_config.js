@@ -1,1 +1,1 @@
-var mnemonic = "step truck setup index pencil cheese churn cannon siege wink unhappy jaguar";
+var mnemonic = "cereal style feel tongue orphan perfect unit junior winner race output dance";

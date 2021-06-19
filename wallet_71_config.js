@@ -1,1 +1,1 @@
-var mnemonic = "float moment scrub nephew toss plastic merry nature pony aware tree language";
+var mnemonic = "token emerge eternal book cruel degree sing jelly quality black icon mechanic";

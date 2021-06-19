@@ -1,1 +1,1 @@
-var mnemonic = "segment rail fire ranch present tent noble soap beauty viable ill estate";
+var mnemonic = "choose become slim anchor more violin zero where diesel trick upset spend";

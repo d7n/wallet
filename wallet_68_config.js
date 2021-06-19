@@ -1,1 +1,1 @@
-var mnemonic = "inner forest flip seminar few hat opera fever model goddess ahead trade";
+var mnemonic = "original also idle impact glare this swift select game key high doll";

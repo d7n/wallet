@@ -1,1 +1,1 @@
-var mnemonic = "napkin opinion joke today favorite oak urban build torch ancient sleep people";
+var mnemonic = "iron tunnel laugh initial core bracket staff remember struggle open truly zoo";

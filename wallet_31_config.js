@@ -1,1 +1,1 @@
-var mnemonic = "must warm coyote dinosaur leisure fiscal make recycle giggle nut sing kitten";
+var mnemonic = "inner rain cloth nephew crush tank gas choose assist narrow vicious orient";

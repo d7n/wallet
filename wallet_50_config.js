@@ -1,1 +1,1 @@
-var mnemonic = "festival cluster venue february lucky elite theory will retreat autumn one sunny";
+var mnemonic = "tomorrow buzz grass trade sand share arch program flag buzz good rebuild";

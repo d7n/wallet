@@ -1,1 +1,1 @@
-var mnemonic = "include wing flower sign prefer super october observe short cream over roast";
+var mnemonic = "stumble gas deny hockey antique wise atom text rate maid resist blur";

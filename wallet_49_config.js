@@ -1,1 +1,1 @@
-var mnemonic = "right section raven know check salon family boring hurt chimney snow tourist";
+var mnemonic = "stable stumble helmet machine wrist butter club oil box mammal riot net";

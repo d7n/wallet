@@ -1,1 +1,1 @@
-var mnemonic = "drop lion scout mention walk opera corn glance destroy brief hammer treat";
+var mnemonic = "more useful pilot welcome leopard subject vacuum blush key stone estate turkey";

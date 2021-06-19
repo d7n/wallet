@@ -1,1 +1,1 @@
-var mnemonic = "salon lucky razor exist glide artwork must furnace broken sort much hammer";
+var mnemonic = "saddle slush minute exile quote one scout copper blossom father subject winner";

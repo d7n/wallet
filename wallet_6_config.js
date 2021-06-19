@@ -1,1 +1,1 @@
-var mnemonic = "diary parade crawl lady notable maximum obscure sphere march rough segment junior";
+var mnemonic = "recycle rain economy magnet few target blanket mixture staff unaware crisp rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue injury kind damp record prosper comic ugly initial retreat assault rail";
+var mnemonic = "runway slush hollow renew game glow clay define away fix wrestle skate";

@@ -1,1 +1,1 @@
-var mnemonic = "build typical soft liquid betray tone obscure panic lonely defense left strategy";
+var mnemonic = "animal say surprise bird nut hello train announce casual pause train pet";

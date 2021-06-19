@@ -1,1 +1,1 @@
-var mnemonic = "trim flower image disorder filter loyal lounge poverty clap shy diet butter";
+var mnemonic = "found rigid old dirt gather damp desert reject alien bunker balcony zoo";

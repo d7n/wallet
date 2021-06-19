@@ -1,1 +1,1 @@
-var mnemonic = "anxiety absorb economy school car fan tube lucky laundry robust noise valid";
+var mnemonic = "local total slender obscure clock nominee soul cost abuse melt absent column";

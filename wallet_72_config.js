@@ -1,1 +1,1 @@
-var mnemonic = "mansion member rural swift noodle gauge produce two earth embrace arch coral";
+var mnemonic = "impose story turkey bachelor often cancel gate gun another cave melody peasant";

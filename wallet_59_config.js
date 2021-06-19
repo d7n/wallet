@@ -1,1 +1,1 @@
-var mnemonic = "alone sentence work empty answer poverty jacket hundred manual size sad chat";
+var mnemonic = "pudding use loyal situate speak jungle essay arctic recycle mother nation curve";

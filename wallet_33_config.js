@@ -1,1 +1,1 @@
-var mnemonic = "make sample peanut divorce awake lecture order wolf vehicle relief stock thing";
+var mnemonic = "alley weapon denial borrow around pyramid enrich tent spy mirror box bus";

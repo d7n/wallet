@@ -1,1 +1,1 @@
-var mnemonic = "sea library symbol item canvas mesh glass across client wrap dream gold";
+var mnemonic = "slide bright gas fine more parrot glass stable eternal art faint photo";

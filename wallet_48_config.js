@@ -1,1 +1,1 @@
-var mnemonic = "glide food original broom envelope result boost siege life inhale renew diamond";
+var mnemonic = "winter rubber crisp hobby cluster finger swap merge loyal depart wash dismiss";

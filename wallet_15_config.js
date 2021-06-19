@@ -1,1 +1,1 @@
-var mnemonic = "observe moment body clinic crop renew boring disagree plunge recipe sugar topic";
+var mnemonic = "faint feed margin arm start dynamic valley mixed tilt source urge element";

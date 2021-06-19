@@ -1,1 +1,1 @@
-var mnemonic = "suffer cool time syrup note rhythm trash divide marble nominee estate dune";
+var mnemonic = "inform exercise impulse apple what copy panel trash sketch door update rebuild";

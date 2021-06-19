@@ -1,1 +1,1 @@
-var mnemonic = "hire face rude sting beyond digital history test prison term valid stove";
+var mnemonic = "harvest total miracle twelve story veteran alley cover inner harbor mistake settle";

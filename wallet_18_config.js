@@ -1,1 +1,1 @@
-var mnemonic = "duty simple accuse scorpion shallow meat history sibling sorry puzzle spin portion";
+var mnemonic = "decade raccoon fine flag insect genre please fantasy focus foster globe pyramid";

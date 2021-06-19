@@ -1,1 +1,1 @@
-var mnemonic = "salt jealous cook relax work call memory inflict universe insane tag auction";
+var mnemonic = "length lunch blood staff company state into ozone rude model adapt couch";

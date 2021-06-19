@@ -1,1 +1,1 @@
-var mnemonic = "rotate tattoo spawn repair seed bird object pear foil own prize balcony";
+var mnemonic = "abstract movie wood giggle enrich slab allow foot sustain miss hold museum";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh coral attract wire poet stay join recall casino pizza hill people";
+var mnemonic = "engage rude inch myself dream satoshi blush electric brisk attack replace bless";

@@ -1,1 +1,1 @@
-var mnemonic = "february rubber dilemma music glass yellow corn hamster lawn buffalo quality skin";
+var mnemonic = "fox narrow force parrot deposit suffer suit material umbrella leave identify garlic";

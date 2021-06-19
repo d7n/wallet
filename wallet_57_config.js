@@ -1,1 +1,1 @@
-var mnemonic = "crisp duty alien liar nephew warrior home tiny nominee case use hobby";
+var mnemonic = "carpet jazz note keen patch first turkey sure embark village slight uncover";

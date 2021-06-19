@@ -1,1 +1,1 @@
-var mnemonic = "scare diet there danger title empower improve home same audit judge goddess";
+var mnemonic = "hidden peanut parent century squeeze dice choice force carry flee police piano";

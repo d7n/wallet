@@ -1,1 +1,1 @@
-var mnemonic = "capable fence simple evolve artefact inmate very exchange enroll curve bonus roast";
+var mnemonic = "episode video six mention post smart ten gate together winter cradle lizard";

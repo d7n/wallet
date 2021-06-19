@@ -1,1 +1,1 @@
-var mnemonic = "gold option hour beach tip ranch ceiling ramp clock glance museum fruit";
+var mnemonic = "funny oblige sleep iron motor another head clump business level smile lady";

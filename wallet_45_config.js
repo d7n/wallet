@@ -1,1 +1,1 @@
-var mnemonic = "stamp pattern boring grape coin dance buddy tag vintage empower journey please";
+var mnemonic = "box party together egg exotic machine divide burden summer edit pilot trend";

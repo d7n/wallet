@@ -1,1 +1,1 @@
-var mnemonic = "delay oblige guilt govern camp tip settle day dwarf sunset often dizzy";
+var mnemonic = "gas affair stuff lion juice guilt around card recycle account entry fatigue";

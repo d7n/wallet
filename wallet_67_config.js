@@ -1,1 +1,1 @@
-var mnemonic = "lizard insane effort view pigeon color nest negative comic sorry illegal weather";
+var mnemonic = "faith topic large upper vessel start champion recycle expire piano wheel magnet";

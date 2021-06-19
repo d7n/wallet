@@ -1,1 +1,1 @@
-var mnemonic = "pond effort actual stand ill dust girl toilet bronze abandon inner vote";
+var mnemonic = "powder credit sing peasant lion foot type amateur number extra zebra angry";

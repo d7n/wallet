@@ -1,1 +1,1 @@
-var mnemonic = "merit subway baby vote nuclear grant mean army burst acquire exist table";
+var mnemonic = "area cloth nice shoulder swallow knife actress potato sing misery pumpkin absorb";

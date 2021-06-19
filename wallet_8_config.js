@@ -1,1 +1,1 @@
-var mnemonic = "ancient matter primary turkey shaft marble solution brown canoe depart secret fan";
+var mnemonic = "screen pencil hotel dwarf cereal retreat width female kick frequent expose same";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen reflect tip busy biology simple fold hip unfair august supreme rich";
+var mnemonic = "sister hotel can great acoustic lizard zoo loyal silk regular permit trial";

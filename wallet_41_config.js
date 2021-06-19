@@ -1,1 +1,1 @@
-var mnemonic = "office angle solution will frog huge jacket foot tumble depart turkey force";
+var mnemonic = "digital favorite inspire narrow glimpse sadness kidney head parrot vital dentist round";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse few sentence loan sauce siege emerge match input warfare share bracket";
+var mnemonic = "guide orchard divorce brisk brand govern corn differ kitten wreck shove snack";
