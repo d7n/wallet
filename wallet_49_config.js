@@ -1,1 +1,1 @@
-var mnemonic = "unlock rocket gift defense excite scout garbage advance nation bird inside legend";
+var mnemonic = "scrap also pitch buddy floor inherit three message wine possible edit effort";

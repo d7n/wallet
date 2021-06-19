@@ -1,1 +1,1 @@
-var mnemonic = "fiber eye emotion bamboo rule ozone royal rural lunar dream festival glad";
+var mnemonic = "minor eyebrow border bullet camera clap draft grain person enhance agree exhibit";

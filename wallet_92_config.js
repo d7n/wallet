@@ -1,1 +1,1 @@
-var mnemonic = "clean february doctor escape expose rifle reward piano seven receive toe antenna";
+var mnemonic = "kite fluid huge check town defy sad suggest piano midnight shoe sorry";

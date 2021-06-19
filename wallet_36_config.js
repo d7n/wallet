@@ -1,1 +1,1 @@
-var mnemonic = "arrest clever year bracket seat prosper accuse involve cool miracle chat metal";
+var mnemonic = "aspect ball diagram cave science record physical mouse advance fortune film venture";

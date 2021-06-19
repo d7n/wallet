@@ -1,1 +1,1 @@
-var mnemonic = "amount street fork error network amount tip addict dizzy veteran lunar melody";
+var mnemonic = "mountain when frost quote ring agent busy present plate shoulder dignity enough";

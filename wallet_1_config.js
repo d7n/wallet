@@ -1,1 +1,1 @@
-var mnemonic = "toss learn asset obtain detect kitten wheel spread upper vanish corn glue";
+var mnemonic = "ankle segment youth brisk logic learn traffic absorb midnight prevent transfer route";

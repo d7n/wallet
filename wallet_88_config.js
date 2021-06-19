@@ -1,1 +1,1 @@
-var mnemonic = "pig bullet ancient typical dawn flame appear pattern flag noble nice steak";
+var mnemonic = "stumble cruise own distance shrimp gossip vacuum anger area fury walk kiwi";

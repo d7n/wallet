@@ -1,1 +1,1 @@
-var mnemonic = "hundred decrease invite grab always secret scorpion bicycle melody famous surround raccoon";
+var mnemonic = "spy cave mass sport rare diet ball vast credit friend thank fame";

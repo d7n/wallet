@@ -1,1 +1,1 @@
-var mnemonic = "process squirrel space virus hover pigeon also midnight social notice eagle memory";
+var mnemonic = "other shrug code arctic dance orient fabric mechanic gas truck divorce quantum";

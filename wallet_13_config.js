@@ -1,1 +1,1 @@
-var mnemonic = "cake drip donate scale salad put lawn other fade much weather security";
+var mnemonic = "error fiction method crisp demise sibling loop mystery pizza icon snack local";

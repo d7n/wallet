@@ -1,1 +1,1 @@
-var mnemonic = "label scale senior today tent baby outdoor crumble goat bronze school finish";
+var mnemonic = "romance innocent either flush blade during age smile business remind color error";

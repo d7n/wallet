@@ -1,1 +1,1 @@
-var mnemonic = "claw output reward project easily alone reopen control involve later muffin abuse";
+var mnemonic = "diesel announce project proud auction nature uniform lounge million mirror tape actual";

@@ -1,1 +1,1 @@
-var mnemonic = "lend vendor advance where olive veteran method avocado butter hunt chalk come";
+var mnemonic = "odor soccer coast waste cook wing parent nurse unique chronic network fish";

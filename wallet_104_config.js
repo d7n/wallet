@@ -1,1 +1,1 @@
-var mnemonic = "muscle art embrace glove cushion silent loan hood kid unknown sign stem";
+var mnemonic = "volume exercise notice brick tired female smart ghost april beauty length prize";

@@ -1,1 +1,1 @@
-var mnemonic = "okay banana public ill copper thumb stool wheat obscure donate first motion";
+var mnemonic = "drink tiger corn hurry cotton maid feed broccoli give gold rather hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "say horse annual click stumble there reason shiver genre certain tongue slender";
+var mnemonic = "beach around pride fatigue second diary test slush gate bamboo arena deny";

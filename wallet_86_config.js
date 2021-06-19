@@ -1,1 +1,1 @@
-var mnemonic = "whip gentle drop junk shrimp suspect perfect lounge garment fold fit crush";
+var mnemonic = "soda civil suspect powder visit soft tornado finger multiply sort story sample";

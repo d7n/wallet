@@ -1,1 +1,1 @@
-var mnemonic = "skin tree income way alcohol patch piece used couch olive walk venue";
+var mnemonic = "industry idea fade word leader grid vague chest alarm receive sound sword";

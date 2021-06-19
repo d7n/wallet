@@ -1,1 +1,1 @@
-var mnemonic = "silent pink addict section slice animal ecology shove blast moral news bar";
+var mnemonic = "injury flower bless honey document reward motor cable doctor video bridge armor";

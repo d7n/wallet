@@ -1,1 +1,1 @@
-var mnemonic = "tobacco shift fossil sign pear youth sponsor desert divorce remind protect joy";
+var mnemonic = "trumpet atom wave force rescue health dash mesh nut else quiz silent";

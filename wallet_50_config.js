@@ -1,1 +1,1 @@
-var mnemonic = "steak check office element stadium dwarf kick other endless immune belt run";
+var mnemonic = "sweet alien return animal athlete learn tray rural kid way board library";

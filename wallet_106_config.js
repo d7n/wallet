@@ -1,1 +1,1 @@
-var mnemonic = "shy lady edit load shell cinnamon keep dash lab depth skate ethics";
+var mnemonic = "select end warrior urban prepare diesel miracle tower sting upper cover churn";

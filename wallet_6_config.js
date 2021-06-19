@@ -1,1 +1,1 @@
-var mnemonic = "reflect diet student demise fitness file leave frozen ginger shy tree initial";
+var mnemonic = "glass nose lucky mosquito castle coral this turtle tumble have else series";

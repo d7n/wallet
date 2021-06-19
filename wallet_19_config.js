@@ -1,1 +1,1 @@
-var mnemonic = "sustain fit modify retreat poverty clean regular hamster space ladder jewel depart";
+var mnemonic = "swift public mansion scheme retreat purchase guard quote style brother flavor alter";

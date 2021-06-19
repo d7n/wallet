@@ -1,1 +1,1 @@
-var mnemonic = "discover captain resource marble brief resist toward mixture wagon solid celery high";
+var mnemonic = "picnic track film shed carry appear fun atom physical approve easily moral";

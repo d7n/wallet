@@ -1,1 +1,1 @@
-var mnemonic = "trouble ask real bachelor region despair target critic hurdle current flee obey";
+var mnemonic = "radio loop opera grunt dish denial decade legend birth wire evil ankle";

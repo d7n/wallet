@@ -1,1 +1,1 @@
-var mnemonic = "model staff build enforce chalk deal estate engine student vanish wonder burden";
+var mnemonic = "guitar pizza open frost achieve submit figure have slush shed pizza mirror";

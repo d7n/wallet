@@ -1,1 +1,1 @@
-var mnemonic = "vendor bulb van hedgehog trophy bar glory trick absent all scale rally";
+var mnemonic = "dwarf rebuild salad champion bean shrimp hockey when gown february dignity flat";

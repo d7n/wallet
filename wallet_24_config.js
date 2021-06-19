@@ -1,1 +1,1 @@
-var mnemonic = "stomach govern equal design evidence maid teach calm rotate arena select honey";
+var mnemonic = "benefit maid gesture festival panel price horn ribbon barrel frequent absorb fantasy";

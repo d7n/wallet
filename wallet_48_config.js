@@ -1,1 +1,1 @@
-var mnemonic = "canoe talk fiber slam creek earth pole stock have clog gasp use";
+var mnemonic = "blast fold slam afraid camp marble differ clump couple skate code labor";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle portion company night giant siege spirit seat faint refuse accident village";
+var mnemonic = "cupboard tool arrive fire gauge traffic live artist burden record february flip";

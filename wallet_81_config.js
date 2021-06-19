@@ -1,1 +1,1 @@
-var mnemonic = "step poem artist lawn tonight portion catalog shallow robot world travel song";
+var mnemonic = "couch shed day biology safe innocent leader you fancy lawn atom peanut";

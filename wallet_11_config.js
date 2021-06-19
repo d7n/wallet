@@ -1,1 +1,1 @@
-var mnemonic = "avoid reduce talk hood shrimp feed soon pride mechanic danger river hospital";
+var mnemonic = "nuclear sleep combine fox admit pupil enroll nation weird broccoli cost bid";

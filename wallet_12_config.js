@@ -1,1 +1,1 @@
-var mnemonic = "tourist album reflect deposit depth olympic save sense manage woman index cabin";
+var mnemonic = "syrup nurse grocery push social inform coffee fuel three length spy kiss";

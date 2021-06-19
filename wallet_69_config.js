@@ -1,1 +1,1 @@
-var mnemonic = "traffic magnet surprise skin tube upgrade solid lawn used rent jealous hurry";
+var mnemonic = "right slogan clap copper pioneer narrow spare scare capital loop artefact across";

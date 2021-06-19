@@ -1,1 +1,1 @@
-var mnemonic = "prison bottom prepare size prevent carpet match either grain rookie real squeeze";
+var mnemonic = "goddess make aim damp result gown area patient miss shove void visit";

@@ -1,1 +1,1 @@
-var mnemonic = "snack sphere concert giant ocean pair canvas friend toward concert outside visa";
+var mnemonic = "letter balcony rigid piece critic call dice crush coach pizza symptom armed";

@@ -1,1 +1,1 @@
-var mnemonic = "moral device injury tumble skin sword search oblige flag trap raise cushion";
+var mnemonic = "head amount deputy satoshi mixture dignity magnet brief comic retreat license speed";

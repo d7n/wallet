@@ -1,1 +1,1 @@
-var mnemonic = "poverty ramp estate fix test unfair jacket birth stock crisp void purity";
+var mnemonic = "spell rely worry spray rich actor acoustic space spoil swamp clinic fragile";

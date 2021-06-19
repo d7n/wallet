@@ -1,1 +1,1 @@
-var mnemonic = "fly drill monster satisfy praise december trumpet win funny elevator moon dose";
+var mnemonic = "glimpse still sketch uniform lounge leg illegal field panther sibling comic unfold";

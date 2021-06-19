@@ -1,1 +1,1 @@
-var mnemonic = "leaf upper mango jacket zero inquiry job clog young pact raise mom";
+var mnemonic = "fence festival prosper end prevent total small material fish below undo enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "live border hedgehog nuclear cabin maze one farm invest output thing love";
+var mnemonic = "target canyon pupil mixed forest rose struggle matrix plunge team eternal cloud";

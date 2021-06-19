@@ -1,1 +1,1 @@
-var mnemonic = "stumble basic spawn thank strategy dash arrow index little opera gospel figure";
+var mnemonic = "basic side course warm bounce ripple notable dash foot any glue hamster";

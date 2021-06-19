@@ -1,1 +1,1 @@
-var mnemonic = "stove toe problem twin truck sense love palm laundry civil just escape";
+var mnemonic = "ramp ketchup power sure decrease walk flush invest net nation engage penalty";

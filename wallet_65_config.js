@@ -1,1 +1,1 @@
-var mnemonic = "news badge elevator dry fever permit draw embark have airport small six";
+var mnemonic = "analyst will wagon lobster badge inside near shrug paddle produce text danger";

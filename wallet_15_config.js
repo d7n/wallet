@@ -1,1 +1,1 @@
-var mnemonic = "favorite spot seat lumber maximum pledge carpet happy keep mix fetch primary";
+var mnemonic = "dolphin twice expand sign tackle donkey mother involve already rookie duty race";

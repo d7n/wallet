@@ -1,1 +1,1 @@
-var mnemonic = "skull museum swap comic kiwi program immune clap awkward cupboard invite truly";
+var mnemonic = "earn vocal lawn verb myth shove novel bread unlock sample member pause";

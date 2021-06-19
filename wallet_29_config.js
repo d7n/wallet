@@ -1,1 +1,1 @@
-var mnemonic = "sadness rabbit garment any volcano okay smart raise today shrug salad park";
+var mnemonic = "mountain claim input ivory gentle fatal right grow detect brain decrease awake";

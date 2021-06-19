@@ -1,1 +1,1 @@
-var mnemonic = "shallow case top clinic impact roof mean stuff mango undo slight remember";
+var mnemonic = "margin rug afford jump crush organ course disease scale beach arctic winner";

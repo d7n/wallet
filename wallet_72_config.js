@@ -1,1 +1,1 @@
-var mnemonic = "flag move gesture lawsuit flash fix spoil since fun chunk unaware member";
+var mnemonic = "enough umbrella shallow day club tobacco famous near voice device lobster sentence";

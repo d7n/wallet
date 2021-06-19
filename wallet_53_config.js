@@ -1,1 +1,1 @@
-var mnemonic = "visit cloth cement success web gown bulk draw stock term business ginger";
+var mnemonic = "carpet chase device loyal orbit dragon inquiry story print blouse pulp apart";

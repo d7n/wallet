@@ -1,1 +1,1 @@
-var mnemonic = "derive position safe worth stuff library rifle heavy guitar dad slogan toss";
+var mnemonic = "south enable faint vendor early figure spider organ hello odor ankle system";

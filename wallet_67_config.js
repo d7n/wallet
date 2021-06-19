@@ -1,1 +1,1 @@
-var mnemonic = "exit bone cube message muscle flush anger dream coach glide trophy dream";
+var mnemonic = "lottery poverty cherry gentle join behind burst noodle noodle west hope awkward";

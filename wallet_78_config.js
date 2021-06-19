@@ -1,1 +1,1 @@
-var mnemonic = "repeat patch spring erode joke travel obey control alert side fever nice";
+var mnemonic = "open describe brown love salad garlic defense solve surge scout side easily";

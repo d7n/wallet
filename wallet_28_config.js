@@ -1,1 +1,1 @@
-var mnemonic = "crane armor series shrimp load express portion employ above fantasy market cool";
+var mnemonic = "prepare project sponsor issue quote vicious earth antique recycle nominee busy joy";

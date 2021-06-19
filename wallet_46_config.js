@@ -1,1 +1,1 @@
-var mnemonic = "behind learn trash funny bleak faint milk secret skin motor guilt scale";
+var mnemonic = "cost always autumn type parrot rotate hollow turtle beauty produce razor vocal";

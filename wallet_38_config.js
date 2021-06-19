@@ -1,1 +1,1 @@
-var mnemonic = "adult squirrel soul layer clutch border force junior salon paper ostrich casino";
+var mnemonic = "mistake ridge solar upset ankle question jewel trash glow charge pause giggle";

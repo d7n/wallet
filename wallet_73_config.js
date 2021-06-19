@@ -1,1 +1,1 @@
-var mnemonic = "crystal laugh issue husband party orient fatal sock field goddess attack ignore";
+var mnemonic = "dentist cattle lumber film oblige elite once stone shiver solar avocado core";

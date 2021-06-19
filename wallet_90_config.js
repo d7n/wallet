@@ -1,1 +1,1 @@
-var mnemonic = "wash powder dizzy aunt suspect fitness source bottom elite reveal draft rug";
+var mnemonic = "inspire aisle cement two economy exotic obscure monitor awful chalk drastic purity";

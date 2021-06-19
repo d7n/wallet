@@ -1,1 +1,1 @@
-var mnemonic = "orient address metal guitar satisfy lottery derive park burst feel board abuse";
+var mnemonic = "spin length lumber zero employ faith theme always tape close burger silly";

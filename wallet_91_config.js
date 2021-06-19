@@ -1,1 +1,1 @@
-var mnemonic = "hint title member egg thing virtual okay bring parade kitchen jaguar erupt";
+var mnemonic = "seminar wisdom elevator erosion tag sponsor hidden idea transfer cushion police episode";

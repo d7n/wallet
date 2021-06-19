@@ -1,1 +1,1 @@
-var mnemonic = "adult limb true snap multiply brown vendor because neutral bronze buyer ketchup";
+var mnemonic = "flame sudden demand item mandate sustain game acid canvas opera wire copper";

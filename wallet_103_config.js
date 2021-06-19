@@ -1,1 +1,1 @@
-var mnemonic = "auction enforce grit begin immense vibrant glance dose bachelor image bonus meat";
+var mnemonic = "thing mom praise crew sight ball clip danger front act blood father";

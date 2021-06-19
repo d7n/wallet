@@ -1,1 +1,1 @@
-var mnemonic = "calm shoe desert wasp give valid runway okay parade voyage cushion soft";
+var mnemonic = "grace roof frown outside share truck rival you anger gravity cradle man";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual razor fog matter weasel prevent step bachelor annual broccoli off pond";
+var mnemonic = "box hello club velvet credit drastic invite tool member cave blood idea";

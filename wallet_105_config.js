@@ -1,1 +1,1 @@
-var mnemonic = "asthma orient angry marble blind try salt decide decline yard educate outdoor";
+var mnemonic = "live assault mixed session obscure design join main job artefact floor swallow";

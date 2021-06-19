@@ -1,1 +1,1 @@
-var mnemonic = "screen wreck nerve bitter barely area daughter memory derive lazy found opera";
+var mnemonic = "ill medal giggle action rate divorce bachelor bridge alcohol jewel foster trick";

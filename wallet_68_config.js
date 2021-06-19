@@ -1,1 +1,1 @@
-var mnemonic = "prevent elevator captain anchor cinnamon firm elevator glimpse visa pulp sauce mercy";
+var mnemonic = "input lens august sort stereo approve pelican slow dice tide west gather";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster erase mom head auto spice capable peace expect kidney guard picnic";
+var mnemonic = "glance gasp term prefer metal analyst enhance again entry celery mountain genuine";

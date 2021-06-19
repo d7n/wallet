@@ -1,1 +1,1 @@
-var mnemonic = "protect moment truck slogan amused arena ensure issue border arch pool team";
+var mnemonic = "globe addict amused radio feed bird curious because lake thank ice vault";

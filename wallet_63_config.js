@@ -1,1 +1,1 @@
-var mnemonic = "retreat insane boring actress join drink column world festival furnace camp birth";
+var mnemonic = "aisle gun produce pet please meat bright coin expand child drip penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster language use width debate journey hurt mechanic foot glad floor cheap";
+var mnemonic = "ostrich arrow palace settle quote emotion cage fault myself gorilla phone bring";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote viable large tell budget skin spend need elegant crime blood shed";
+var mnemonic = "hill burst spy scatter smooth fresh wire patch hair staff text notable";

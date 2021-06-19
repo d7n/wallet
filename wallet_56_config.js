@@ -1,1 +1,1 @@
-var mnemonic = "fork thing rubber car rebuild destroy quantum skate patient cry grit hotel";
+var mnemonic = "twelve hungry abandon scheme joke crop accident lake elder width shine case";

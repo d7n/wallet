@@ -1,1 +1,1 @@
-var mnemonic = "goddess viable seven ocean gravity race wing grunt knife modify bachelor excess";
+var mnemonic = "real rare noise lake bullet bunker finish initial illegal bottom impact pioneer";

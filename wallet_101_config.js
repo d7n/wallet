@@ -1,1 +1,1 @@
-var mnemonic = "nurse elephant forest smile leopard detect dune mouse pulp trumpet sail awkward";
+var mnemonic = "rhythm suspect evil picture either entire judge gravity eagle lift jaguar strong";

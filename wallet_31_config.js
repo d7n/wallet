@@ -1,1 +1,1 @@
-var mnemonic = "manual sun cry awful soon opinion joy faint essence pluck core term";
+var mnemonic = "gather surround favorite shrug salute shine symptom illegal fiction resemble aunt wrestle";

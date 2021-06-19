@@ -1,1 +1,1 @@
-var mnemonic = "daring estate quit silly soon snake cube vote alert ahead carry raccoon";
+var mnemonic = "home error danger awake language airport topple adjust small color such nerve";

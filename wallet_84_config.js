@@ -1,1 +1,1 @@
-var mnemonic = "impact fog torch peace bless guard never skin enrich pull during trade";
+var mnemonic = "view clarify symptom what ozone valley orphan chaos reject receive live minimum";

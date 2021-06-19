@@ -1,1 +1,1 @@
-var mnemonic = "bike gloom lottery private never gravity scissors million rice venue armed flame";
+var mnemonic = "thunder assume skate fade erosion guitar february decade machine gun giggle flee";

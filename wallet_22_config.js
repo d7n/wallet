@@ -1,1 +1,1 @@
-var mnemonic = "soft focus mobile dune iron flower nasty tattoo soon saddle patrol genius";
+var mnemonic = "mountain puzzle envelope ankle trouble hint claw obscure curtain lumber bid swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "normal rescue yard note olympic slot blossom pattern social fold minor kick";
+var mnemonic = "fan pride obtain craft tiny chapter place history wealth tissue replace sphere";

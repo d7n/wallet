@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit valley earn bullet term way above morning detail bullet laptop pudding";
+var mnemonic = "news antique perfect dizzy panther rebel sudden cool reason situate draw welcome";

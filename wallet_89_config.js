@@ -1,1 +1,1 @@
-var mnemonic = "glare indoor label absorb report flush filter matter erosion bright matter manual";
+var mnemonic = "speak fringe myself inflict abuse isolate buyer moment essence tissue veteran globe";

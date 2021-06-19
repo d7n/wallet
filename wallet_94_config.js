@@ -1,1 +1,1 @@
-var mnemonic = "copy pave crucial glimpse magnet stuff kiwi crater job bulk enhance tornado";
+var mnemonic = "voice grape one apart night wear heavy demise elephant flavor asthma profit";

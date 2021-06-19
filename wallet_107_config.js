@@ -1,1 +1,1 @@
-var mnemonic = "casual dentist shiver father find room design prefer ski light host move";
+var mnemonic = "knee sentence keen parent provide bridge kind indoor bracket jealous virtual faint";

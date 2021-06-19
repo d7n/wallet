@@ -1,1 +1,1 @@
-var mnemonic = "rifle seven pelican evidence cube double daring almost income still citizen cotton";
+var mnemonic = "badge tail frost melody wrap increase jeans reward seminar lawsuit theme swing";

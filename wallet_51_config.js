@@ -1,1 +1,1 @@
-var mnemonic = "person burst brief mosquito useful catch visa rug width connect fall fork";
+var mnemonic = "aspect collect minor orchard scatter divide cruel outer exotic wall mail salmon";

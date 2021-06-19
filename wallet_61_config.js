@@ -1,1 +1,1 @@
-var mnemonic = "tortoise refuse stone orchard raccoon attract elbow chase child annual fence walk";
+var mnemonic = "coil beyond six quality cute mammal follow ring opinion artefact split energy";
