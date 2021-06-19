@@ -1,1 +1,1 @@
-var mnemonic = "six dish there unhappy wrist sweet frost buddy trip web tackle flat";
+var mnemonic = "attack horse soldier bracket cloud today soccer comic cupboard judge history evolve";

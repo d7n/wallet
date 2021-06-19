@@ -1,1 +1,1 @@
-var mnemonic = "cupboard unfair build decade cargo left dance scheme romance primary picnic guide";
+var mnemonic = "lab taxi tackle flower nice mad forward remove nest minor tuition crash";

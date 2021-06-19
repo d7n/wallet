@@ -1,1 +1,1 @@
-var mnemonic = "runway amateur random happy gather sniff drive elite rich place size forget";
+var mnemonic = "comfort else impact misery enough razor faculty fringe furnace one gauge hat";

@@ -1,1 +1,1 @@
-var mnemonic = "little story chalk illness tilt destroy lounge explain crumble resemble gossip next";
+var mnemonic = "uncle wide slim wonder kitten food fabric stuff mask crime soup pond";

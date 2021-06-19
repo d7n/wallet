@@ -1,1 +1,1 @@
-var mnemonic = "swarm lady twenty because marriage bunker impact uniform develop race more unhappy";
+var mnemonic = "scout guilt become embark library disorder seek turn torch start style cancel";

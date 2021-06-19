@@ -1,1 +1,1 @@
-var mnemonic = "minor warfare cost elegant please chase donor element devote trick system during";
+var mnemonic = "crisp verify sister oppose mango banana thumb carry elevator curve motor mail";

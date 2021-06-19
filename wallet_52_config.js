@@ -1,1 +1,1 @@
-var mnemonic = "grain liar require leaf orbit crumble puzzle dune shiver chicken assist clay";
+var mnemonic = "castle setup error valley neither wage crunch tortoise purchase reduce scissors inspire";

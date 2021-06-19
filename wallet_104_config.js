@@ -1,1 +1,1 @@
-var mnemonic = "seat between spirit hotel blouse blue empower pool pistol winner raven reunion";
+var mnemonic = "accuse market unveil change umbrella know danger resist orchard claim wood entry";

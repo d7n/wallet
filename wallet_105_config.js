@@ -1,1 +1,1 @@
-var mnemonic = "forum ten sunny rather reveal film leave crop pioneer install frozen theme";
+var mnemonic = "today cook retreat observe tuna harsh olympic hurry believe upset neither verb";

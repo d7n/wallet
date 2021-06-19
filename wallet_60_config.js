@@ -1,1 +1,1 @@
-var mnemonic = "love keen wire exist guilt tree polar output nurse brother canoe long";
+var mnemonic = "neutral athlete model clay milk valley ecology sound begin can decrease west";

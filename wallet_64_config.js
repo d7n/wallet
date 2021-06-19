@@ -1,1 +1,1 @@
-var mnemonic = "arrive praise laundry gentle gap naive depart luggage make include kangaroo shuffle";
+var mnemonic = "seed involve rapid hungry sugar insane cycle century hockey vast business force";

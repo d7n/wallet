@@ -1,1 +1,1 @@
-var mnemonic = "modify resource large basket song diesel where dismiss task candy advice more";
+var mnemonic = "rude bundle matter teach piece absurd flag grid pudding goddess lens wise";

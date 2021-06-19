@@ -1,1 +1,1 @@
-var mnemonic = "crane tennis topic move very license seek video cry exclude real diamond";
+var mnemonic = "cancel cake drastic icon sorry twelve pencil assume large owner pistol situate";

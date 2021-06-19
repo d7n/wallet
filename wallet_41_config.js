@@ -1,1 +1,1 @@
-var mnemonic = "strong bundle almost hire cup road step rug upon blur gather useful";
+var mnemonic = "multiply lens eager work snap wolf purse pen top forest type wisdom";

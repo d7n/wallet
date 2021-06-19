@@ -1,1 +1,1 @@
-var mnemonic = "produce maple happy way story grass slush fashion huge laundry sugar antique";
+var mnemonic = "jacket latin match cheese sail another pave defense total curtain baby armor";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate speed bubble upper term insane safe often worth caught stadium drastic";
+var mnemonic = "host edit fame fine rural diesel holiday puppy garden assume keep shoulder";

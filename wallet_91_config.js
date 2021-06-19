@@ -1,1 +1,1 @@
-var mnemonic = "control black auction void crater define account critic village near spirit slogan";
+var mnemonic = "quality define image onion update suffer moral enhance gospel saddle kit hire";

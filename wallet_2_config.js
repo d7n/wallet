@@ -1,1 +1,1 @@
-var mnemonic = "peace often room estate repeat again luxury expand pistol much afraid endorse";
+var mnemonic = "say task napkin theme confirm feed today acquire legal strategy mean funny";

@@ -1,1 +1,1 @@
-var mnemonic = "direct second pond length whisper traffic hire clinic assume believe total unveil";
+var mnemonic = "spin upgrade program small melody adult blame toy muffin okay rose gown";

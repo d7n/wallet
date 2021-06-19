@@ -1,1 +1,1 @@
-var mnemonic = "garment language six trust family canyon napkin reject symptom print perfect intact";
+var mnemonic = "charge snake shed damage refuse size step symbol apart cart shove document";

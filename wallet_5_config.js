@@ -1,1 +1,1 @@
-var mnemonic = "erode gravity sand nuclear elbow network picnic purchase spend record grant demise";
+var mnemonic = "lazy connect absorb rail zoo toast amused flower helmet clump kingdom foot";

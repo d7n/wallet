@@ -1,1 +1,1 @@
-var mnemonic = "lake result ostrich rib rack engine gloom sleep survey process brief else";
+var mnemonic = "people culture student rail state buyer border tumble member machine exit reunion";

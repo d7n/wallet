@@ -1,1 +1,1 @@
-var mnemonic = "employ taxi system demand gloom cereal kite mutual wave despair sorry ramp";
+var mnemonic = "vast hard child knife truly jeans flock swear retreat finish thumb path";

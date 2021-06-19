@@ -1,1 +1,1 @@
-var mnemonic = "chicken secret certain daring project liberty unfair oval faith sing doll easy";
+var mnemonic = "foil cotton barrel rifle vital pull submit depart monster endless air donkey";

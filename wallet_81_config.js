@@ -1,1 +1,1 @@
-var mnemonic = "truly bounce board slice curve require analyst assist agent inquiry unit outdoor";
+var mnemonic = "rack fish borrow category cruel fossil negative carbon pond leg nut youth";

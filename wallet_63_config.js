@@ -1,1 +1,1 @@
-var mnemonic = "until false media inhale unable before exile sphere current evil shiver trust";
+var mnemonic = "key disorder movie eyebrow shrimp giraffe teach wish month chair enemy fold";

@@ -1,1 +1,1 @@
-var mnemonic = "regular pill cream race unlock stereo label tail cliff reason select slow";
+var mnemonic = "eternal few honey street client bread nothing hungry deposit mouse disagree orient";

@@ -1,1 +1,1 @@
-var mnemonic = "vote loan rigid gym lunch excite length audit twelve lion forest armed";
+var mnemonic = "olive insane achieve arm expose usual various broccoli salute rotate exit avoid";

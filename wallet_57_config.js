@@ -1,1 +1,1 @@
-var mnemonic = "prison junior all gift room black pear kind that text album night";
+var mnemonic = "slender then pull where below quality champion oak forget into laptop casual";

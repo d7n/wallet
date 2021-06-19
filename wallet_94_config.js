@@ -1,1 +1,1 @@
-var mnemonic = "rain mammal exchange carbon famous segment shock problem nasty dignity cactus file";
+var mnemonic = "census provide wrap indicate prefer prison episode chef prison gather photo decline";

@@ -1,1 +1,1 @@
-var mnemonic = "drift scorpion gym leader plunge already nation gesture clip timber height such";
+var mnemonic = "anger all celery reflect segment glory palm runway joke orbit burst cupboard";

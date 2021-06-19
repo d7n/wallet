@@ -1,1 +1,1 @@
-var mnemonic = "stay judge spin settle steak artist lawn party one artist again art";
+var mnemonic = "animal bonus detect crumble together cute child merit leopard hero teach twist";

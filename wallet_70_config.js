@@ -1,1 +1,1 @@
-var mnemonic = "hurry dust bid license rebel violin wage topic concert abandon close tumble";
+var mnemonic = "people until anchor spatial local all wolf salon maze soldier elevator sail";

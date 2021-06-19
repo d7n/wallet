@@ -1,1 +1,1 @@
-var mnemonic = "garlic affair able cross gain junior jar destroy mix often ribbon violin";
+var mnemonic = "husband sudden column park liberty tackle famous peanut primary mom settle reflect";

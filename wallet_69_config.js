@@ -1,1 +1,1 @@
-var mnemonic = "tent board student symbol elephant involve happy this topic harvest select rotate";
+var mnemonic = "jealous unveil cousin awkward invest window fluid strong song recall awkward post";

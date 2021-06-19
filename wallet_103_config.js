@@ -1,1 +1,1 @@
-var mnemonic = "action nasty cheese sleep nuclear raw forward high jazz fortune explain position";
+var mnemonic = "auction month hurry voyage innocent plug tilt return agent hurry cost shoulder";

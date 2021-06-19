@@ -1,1 +1,1 @@
-var mnemonic = "ahead duck opinion resemble shallow system ordinary occur quote subway sibling reunion";
+var mnemonic = "mountain mixed ability nasty rack lady autumn exist brick cart cake embrace";

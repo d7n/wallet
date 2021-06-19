@@ -1,1 +1,1 @@
-var mnemonic = "eager boost tomato price agent hurt reveal green cricket swim eternal night";
+var mnemonic = "market word film hungry circle release injury gap omit carpet airport input";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel call try toddler stadium stable very man abuse tank express zoo";
+var mnemonic = "century similar decline flee cute area chair number crystal gospel tissue clerk";

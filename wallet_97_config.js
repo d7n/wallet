@@ -1,1 +1,1 @@
-var mnemonic = "pizza trigger mind unveil shy prefer wedding raw sadness index thank devote";
+var mnemonic = "target rural garment alone nuclear tilt earn orbit spray humble exclude myself";

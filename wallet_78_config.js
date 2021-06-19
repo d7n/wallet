@@ -1,1 +1,1 @@
-var mnemonic = "grant fringe orange zone annual exhibit reflect imitate drastic famous dish sea";
+var mnemonic = "model lobster stairs concert improve way neutral spot secret client false water";

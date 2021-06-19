@@ -1,1 +1,1 @@
-var mnemonic = "grape sketch effort kind any goddess ensure again walnut owner alone minor";
+var mnemonic = "tent gown civil idea cluster donate maple outside alter grit chunk female";

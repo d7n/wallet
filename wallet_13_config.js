@@ -1,1 +1,1 @@
-var mnemonic = "between arrow adapt limb aerobic suspect hotel zebra chimney strike story shove";
+var mnemonic = "city receive library chair render flush vehicle medal net secret borrow slogan";

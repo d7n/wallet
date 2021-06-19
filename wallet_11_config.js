@@ -1,1 +1,1 @@
-var mnemonic = "online soft tone indoor hawk stereo want impulse often tattoo top mother";
+var mnemonic = "win phone fuel illness ripple solution remember language dish bless empower cool";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake bleak ready situate negative useful coil evoke orient give twice unfold";
+var mnemonic = "upgrade boy viable install sock buzz call brown swing twin snack local";

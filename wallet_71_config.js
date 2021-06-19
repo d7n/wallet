@@ -1,1 +1,1 @@
-var mnemonic = "idle skull rival near eagle detect strong advice strategy hat doctor immense";
+var mnemonic = "father dumb practice marriage rebuild whip city detect test among six index";

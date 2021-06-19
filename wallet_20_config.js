@@ -1,1 +1,1 @@
-var mnemonic = "sausage bracket urge inherit metal chest group phrase alarm coffee tube awake";
+var mnemonic = "timber dwarf similar access pigeon rocket cancel luxury ceiling demise custom upon";

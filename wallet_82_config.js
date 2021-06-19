@@ -1,1 +1,1 @@
-var mnemonic = "pencil sell broccoli resemble gospel fame simple net abuse speak try marriage";
+var mnemonic = "barely unusual merge rigid fluid agent unhappy maze finish vote later original";

@@ -1,1 +1,1 @@
-var mnemonic = "fun across dog original dizzy legend target school opinion unusual oyster pull";
+var mnemonic = "axis correct clarify truth robust soccer usage bullet version remember reflect silent";

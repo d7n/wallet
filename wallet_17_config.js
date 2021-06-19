@@ -1,1 +1,1 @@
-var mnemonic = "doll street funny gorilla peasant hunt dash trouble raw cradle number snow";
+var mnemonic = "squeeze artefact dismiss trial day anxiety action chuckle nothing kind struggle hint";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna camera ramp neck upper ready lazy lonely garden solar amused pass";
+var mnemonic = "gossip grab west busy that cheese drop winner thumb paddle this elite";

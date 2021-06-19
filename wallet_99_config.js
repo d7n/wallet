@@ -1,1 +1,1 @@
-var mnemonic = "business effort present glue congress board traffic illegal later connect script rocket";
+var mnemonic = "flee rural fame sort scale latin plastic school rebel reward spoil dose";

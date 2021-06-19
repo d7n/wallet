@@ -1,1 +1,1 @@
-var mnemonic = "strike mystery civil coffee hard dumb coast tail grunt eagle imitate burden";
+var mnemonic = "swim acoustic follow favorite cabin inject surge left black brown pepper style";

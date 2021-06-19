@@ -1,1 +1,1 @@
-var mnemonic = "maximum sword ankle foot agree melody index fragile tube hawk unhappy alpha";
+var mnemonic = "twist soda hidden erupt grant castle top ask average real owner share";

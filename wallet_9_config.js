@@ -1,1 +1,1 @@
-var mnemonic = "fall captain ill fold finger aunt aisle rural rare ride infant lobster";
+var mnemonic = "either quiz globe swap light rent veteran pyramid trash little chair useless";

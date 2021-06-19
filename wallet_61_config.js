@@ -1,1 +1,1 @@
-var mnemonic = "shove moral smoke luggage reject ball split cupboard citizen comic ice cost";
+var mnemonic = "ticket brush quantum print average moral praise put salute speak recipe day";

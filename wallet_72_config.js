@@ -1,1 +1,1 @@
-var mnemonic = "garlic unable neglect father alarm truth brother giraffe appear help alcohol relief";
+var mnemonic = "marble little pool village hotel plunge correct rally anchor divide dragon inflict";

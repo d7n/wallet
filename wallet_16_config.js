@@ -1,1 +1,1 @@
-var mnemonic = "pistol tomorrow credit dismiss unveil select olympic rural usual zero index walnut";
+var mnemonic = "trumpet crisp girl season eye inquiry latin laptop december absorb ghost focus";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle cactus retreat october heavy viable priority razor motor vital gospel eager";
+var mnemonic = "joy trap spike force maple great fault tuition stand decade unknown object";

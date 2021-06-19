@@ -1,1 +1,1 @@
-var mnemonic = "attend warm push coral amazing awful bacon grant include tortoise seek purchase";
+var mnemonic = "pact slab grab captain put force mix tribe secret unaware negative frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "moon lobster gesture settle afford atom cool fossil unusual icon melody net";
+var mnemonic = "skirt dragon rabbit frown divide indoor crack random police start estate depend";

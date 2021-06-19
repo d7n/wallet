@@ -1,1 +1,1 @@
-var mnemonic = "erase disorder fatal cloud path sentence genre enjoy friend beef loop combine";
+var mnemonic = "receive grid choose inflict prize jazz eight report early giant lecture wisdom";

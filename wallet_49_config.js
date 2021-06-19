@@ -1,1 +1,1 @@
-var mnemonic = "produce junk stage rhythm seek invest use immense game time art believe";
+var mnemonic = "indoor ribbon cherry cheese question shine sibling swim ignore furnace photo mercy";

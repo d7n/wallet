@@ -1,1 +1,1 @@
-var mnemonic = "shed jump cream entry genius column laptop story involve uncle idle drive";
+var mnemonic = "control happy ask edit robust craft purity net garage blast gun case";

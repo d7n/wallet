@@ -1,1 +1,1 @@
-var mnemonic = "nerve execute awful police various faculty duty travel comfort repeat urban ginger";
+var mnemonic = "mobile satisfy escape gift cruise unit rapid visit cry guess coconut bless";

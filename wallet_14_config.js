@@ -1,1 +1,1 @@
-var mnemonic = "already later tunnel outer pride corn protect pizza few usual light perfect";
+var mnemonic = "suggest diesel love seed curve march vacuum stairs dynamic shift hard connect";

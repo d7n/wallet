@@ -1,1 +1,1 @@
-var mnemonic = "tourist fatal measure message opera toward light fabric like upgrade teach ten";
+var mnemonic = "baby physical nerve expect divide claw neglect true middle hole adapt convince";

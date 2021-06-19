@@ -1,1 +1,1 @@
-var mnemonic = "hair unveil garment dilemma tenant crisp ramp october grocery crisp damage wife";
+var mnemonic = "bright rapid voice will sign post dune dinner source pond wine lock";

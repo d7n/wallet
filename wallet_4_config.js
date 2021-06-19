@@ -1,1 +1,1 @@
-var mnemonic = "harsh cash noble spring today invite parade old draft series false snake";
+var mnemonic = "tongue oak issue wasp uncle athlete copper age planet minute urban cause";

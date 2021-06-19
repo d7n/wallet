@@ -1,1 +1,1 @@
-var mnemonic = "forward diamond gold express ghost ecology legal magic honey hand anxiety cupboard";
+var mnemonic = "snap cry ramp cradle ocean cream cruise melt spray network concert prefer";

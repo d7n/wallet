@@ -1,1 +1,1 @@
-var mnemonic = "away vintage rescue worth region short pull bomb decide swallow chalk rain";
+var mnemonic = "raw agree purse token library maximum genre child come leopard such legal";

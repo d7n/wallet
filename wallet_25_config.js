@@ -1,1 +1,1 @@
-var mnemonic = "carbon burst orient tooth level once stage pair lesson live drop holiday";
+var mnemonic = "fuel tilt gasp rebuild cloud curtain upset razor pull soft fresh physical";

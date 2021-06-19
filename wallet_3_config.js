@@ -1,1 +1,1 @@
-var mnemonic = "dinner donate silly captain tattoo endorse nephew inner island funny consider cradle";
+var mnemonic = "alert joke slogan kit arrange remove eager raccoon excess grocery myself drive";

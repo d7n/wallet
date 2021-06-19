@@ -1,1 +1,1 @@
-var mnemonic = "lyrics tide struggle scissors legal around slot draft fix fault powder question";
+var mnemonic = "vanish advance joke install network power clump crouch question sleep pig symptom";

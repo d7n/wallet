@@ -1,1 +1,1 @@
-var mnemonic = "water cotton day filter obscure reunion warfare never leave bean express attitude";
+var mnemonic = "skin asthma actual problem solution load umbrella power bean scissors rescue exotic";

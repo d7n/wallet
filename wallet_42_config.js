@@ -1,1 +1,1 @@
-var mnemonic = "shrimp copper material student water super hood become youth mountain they talk";
+var mnemonic = "abuse enhance abuse enrich fabric describe oyster spike plug focus enforce middle";

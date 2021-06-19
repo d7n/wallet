@@ -1,1 +1,1 @@
-var mnemonic = "aerobic group fork oblige brick hazard picnic scheme marriage repair ivory plastic";
+var mnemonic = "front romance safe lyrics bounce pull dizzy vault maple divide staff head";

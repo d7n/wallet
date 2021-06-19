@@ -1,1 +1,1 @@
-var mnemonic = "festival raw assume family detect suspect tired olive fatigue chair venture tank";
+var mnemonic = "aerobic deliver hospital salt memory thought book welcome move bone expect patient";

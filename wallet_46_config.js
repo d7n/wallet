@@ -1,1 +1,1 @@
-var mnemonic = "common earth nut actual begin over rug goddess wrong student october follow";
+var mnemonic = "census today turkey height erupt champion nose mule virtual object slim rigid";

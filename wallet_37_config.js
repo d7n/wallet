@@ -1,1 +1,1 @@
-var mnemonic = "glass share skirt neutral fan grape valid tell eager elegant comfort market";
+var mnemonic = "pioneer radar merry push ramp very swing spring butter runway enlist praise";

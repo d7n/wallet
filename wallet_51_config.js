@@ -1,1 +1,1 @@
-var mnemonic = "vicious arrange roof main spirit mask dutch shoot end scan caution ugly";
+var mnemonic = "clean exotic order giant cash page safe chair result parrot lens infant";

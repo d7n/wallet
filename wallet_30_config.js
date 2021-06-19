@@ -1,1 +1,1 @@
-var mnemonic = "thumb glory benefit surprise right success major trend panther shift answer library";
+var mnemonic = "follow strategy club range anxiety suffer oblige pass away finish bid grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "apology cable diary again final bounce woman van render loud sunset name";
+var mnemonic = "original negative angle tank text antique find gather human mammal miracle claw";

@@ -1,1 +1,1 @@
-var mnemonic = "organ tissue danger vital lizard wreck august tired cabin blood uphold useful";
+var mnemonic = "hand brief time sister cheap pelican captain side upon awkward light fit";

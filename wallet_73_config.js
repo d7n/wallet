@@ -1,1 +1,1 @@
-var mnemonic = "trial promote immense sample speak picnic steak injury lemon clown fox slush";
+var mnemonic = "sadness piece hand canal still promote load peace time light grape era";

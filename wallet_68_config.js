@@ -1,1 +1,1 @@
-var mnemonic = "gun anxiety aunt ocean family amount section uncover ball pair idea innocent";
+var mnemonic = "traffic spray tower rookie always secret blouse oxygen staff design answer tone";

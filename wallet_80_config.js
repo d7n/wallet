@@ -1,1 +1,1 @@
-var mnemonic = "grain umbrella sponsor match head desert digital panda slim live deputy almost";
+var mnemonic = "supply dish only bread common tray theory toe snake thing bottom extra";
