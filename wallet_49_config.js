@@ -1,1 +1,1 @@
-var mnemonic = "brush silk chapter dress execute curve power airport chronic tell cram before";
+var mnemonic = "into describe rare cash lottery crisp bachelor build buffalo initial wall blanket";

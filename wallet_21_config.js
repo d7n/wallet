@@ -1,1 +1,1 @@
-var mnemonic = "lens ankle chair bright dog success easy hungry nominee rack dentist edge";
+var mnemonic = "smart endorse strategy original truth clutch outside trim exclude night squirrel crack";

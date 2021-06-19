@@ -1,1 +1,1 @@
-var mnemonic = "clutch label tool digital trap tray year pig valid seat useful render";
+var mnemonic = "ivory crush kidney couple body donate choice outdoor knock zoo early swallow";

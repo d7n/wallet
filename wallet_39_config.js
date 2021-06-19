@@ -1,1 +1,1 @@
-var mnemonic = "illness emerge pear sustain tragic worth blanket chapter soldier casual abandon carpet";
+var mnemonic = "acid soda buffalo shock brave increase buddy check plate side girl else";

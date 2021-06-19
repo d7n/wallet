@@ -1,1 +1,1 @@
-var mnemonic = "vendor viable tomato expand cool cricket onion rally dignity present acquire vicious";
+var mnemonic = "sister donkey drill huge elegant orphan culture obtain ginger damage maid stuff";

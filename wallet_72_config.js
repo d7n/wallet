@@ -1,1 +1,1 @@
-var mnemonic = "away snake prison gold turkey viable tree again rebel alley bonus code";
+var mnemonic = "elbow vendor practice control subway vacant later car burst mansion sell basic";

@@ -1,1 +1,1 @@
-var mnemonic = "skate shell eyebrow robust glide craft cool finish leisure cannon relief medal";
+var mnemonic = "genuine rotate orbit group save nose wood reveal amount neglect boy gate";

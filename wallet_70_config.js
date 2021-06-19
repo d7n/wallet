@@ -1,1 +1,1 @@
-var mnemonic = "airport cram pencil mass skull scissors photo olive unveil office menu minor";
+var mnemonic = "vast slot evoke defy crater wheel auto impulse inmate spatial popular add";

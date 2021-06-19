@@ -1,1 +1,1 @@
-var mnemonic = "win aisle blanket good maze evolve fiscal punch stable alpha broken autumn";
+var mnemonic = "project pudding rib produce ostrich teach original dose figure police knife tank";

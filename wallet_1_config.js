@@ -1,1 +1,1 @@
-var mnemonic = "recycle such upgrade help hurry scan shadow kitten seat napkin vote melody";
+var mnemonic = "distance apple garage desert saddle response chef vast predict approve exercise solid";

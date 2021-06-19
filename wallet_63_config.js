@@ -1,1 +1,1 @@
-var mnemonic = "riot inform energy fatigue range paper health grant advice crystal gown rapid";
+var mnemonic = "during word strategy century mule blame lazy crunch fall truly lion judge";

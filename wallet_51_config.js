@@ -1,1 +1,1 @@
-var mnemonic = "magnet manage present ask upper pudding leader grief coach outside primary height";
+var mnemonic = "blue anchor garment search pave elbow away walnut collect close initial demise";

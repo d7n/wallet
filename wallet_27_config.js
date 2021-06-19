@@ -1,1 +1,1 @@
-var mnemonic = "decrease glue express survey truck merge scale blur slice gospel artwork pizza";
+var mnemonic = "decline exile wagon rough bullet any drum tail pact alpha oxygen hundred";

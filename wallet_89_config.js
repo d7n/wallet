@@ -1,1 +1,1 @@
-var mnemonic = "follow admit student there hope close change furnace uncle today depth web";
+var mnemonic = "girl head obtain appear anger renew coffee poverty media moment undo endless";

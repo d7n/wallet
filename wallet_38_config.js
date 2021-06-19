@@ -1,1 +1,1 @@
-var mnemonic = "today little ensure bone history mammal cheap long direct chief coast inch";
+var mnemonic = "ridge still hurdle lucky also purse glue elder arrow theory tragic furnace";

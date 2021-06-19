@@ -1,1 +1,1 @@
-var mnemonic = "mail private top ivory vintage nasty exercise blue worry north thrive illness";
+var mnemonic = "spot club tourist best cotton glide comic length mad input cabbage dolphin";

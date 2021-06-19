@@ -1,1 +1,1 @@
-var mnemonic = "end excess reunion undo raccoon green legal try green tattoo trial pond";
+var mnemonic = "maid novel legend cattle fashion connect limb lottery mechanic clip thunder spend";

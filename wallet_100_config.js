@@ -1,1 +1,1 @@
-var mnemonic = "gym move inject couch obtain foot thought spoil culture load clinic steak";
+var mnemonic = "wine country mean crowd all anchor area pelican pig melody claw bean";

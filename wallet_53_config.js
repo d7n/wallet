@@ -1,1 +1,1 @@
-var mnemonic = "observe tissue uphold mosquito advice submit economy answer wrist boost negative cry";
+var mnemonic = "near into laptop syrup square fork topic pig wool predict priority attitude";

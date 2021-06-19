@@ -1,1 +1,1 @@
-var mnemonic = "media rotate credit hire target cheap year coil design unfair dune lemon";
+var mnemonic = "wait display update battle upset idle office heart find staff response fly";

@@ -1,1 +1,1 @@
-var mnemonic = "issue ozone cream text surface peace steak piano pattern roast dream clap";
+var mnemonic = "control virtual antenna leaf make apology timber fox survey luggage hawk over";

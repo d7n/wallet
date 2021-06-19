@@ -1,1 +1,1 @@
-var mnemonic = "until maximum this royal submit fortune degree measure oil put force punch";
+var mnemonic = "buddy cost amateur gorilla jeans manual symbol furnace myself gentle cycle tired";

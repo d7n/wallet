@@ -1,1 +1,1 @@
-var mnemonic = "spot special cheap cube cousin melody promote night frozen surprise wild jaguar";
+var mnemonic = "twin baby call north acoustic retire bid noise odor lab photo join";

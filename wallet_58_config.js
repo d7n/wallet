@@ -1,1 +1,1 @@
-var mnemonic = "film pool exhaust rice glue day plastic matter impose napkin pledge increase";
+var mnemonic = "hip punch easy tomato rival intact explain crime van increase tower cinnamon";

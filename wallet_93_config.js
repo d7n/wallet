@@ -1,1 +1,1 @@
-var mnemonic = "brick lazy enforce weird ring clip evidence brother retreat term menu case";
+var mnemonic = "sword ghost quality exclude behind able orphan raise hat elevator outer garden";

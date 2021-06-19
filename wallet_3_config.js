@@ -1,1 +1,1 @@
-var mnemonic = "matter opera home embrace move question smoke clean gun shoe matrix tooth";
+var mnemonic = "hammer mix solar tackle fruit shop cousin snow object december poet plastic";

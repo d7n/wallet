@@ -1,1 +1,1 @@
-var mnemonic = "beauty random mixed fruit parade shoe limit dance step expect culture kiss";
+var mnemonic = "comic famous core ready wreck level paper office essay paper rival elegant";

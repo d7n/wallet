@@ -1,1 +1,1 @@
-var mnemonic = "street become matrix say nominee inflict task mobile sail path black stamp";
+var mnemonic = "can dismiss steel name expire electric foot river code pottery marriage fantasy";

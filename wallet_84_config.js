@@ -1,1 +1,1 @@
-var mnemonic = "route grit sphere ancient eternal utility shell good eager divert craft kidney";
+var mnemonic = "year siren drill quality only soup fix velvet heavy dismiss protect wealth";

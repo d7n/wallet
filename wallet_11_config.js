@@ -1,1 +1,1 @@
-var mnemonic = "voice input pet sweet very survey bean online fatal choose census cherry";
+var mnemonic = "school foster virtual cushion stove aisle mask mad gentle resist staff chat";

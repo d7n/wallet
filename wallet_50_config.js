@@ -1,1 +1,1 @@
-var mnemonic = "belt cheap wrestle input level cabbage town brave belt can suffer legal";
+var mnemonic = "eye flight fresh seed opera industry melody love bread fetch chat turn";

@@ -1,1 +1,1 @@
-var mnemonic = "lock strike potato pipe purchase client stove trip glare once wish funny";
+var mnemonic = "sword surprise dolphin above dirt custom evolve card output report bag wide";

@@ -1,1 +1,1 @@
-var mnemonic = "shock fit worth owner able all scatter exercise trade drip rebuild super";
+var mnemonic = "marine boss boss begin color acid decide rely hire window upper quality";

@@ -1,1 +1,1 @@
-var mnemonic = "river gorilla parrot amazing rebel medal catch spread end coral pen spray";
+var mnemonic = "rural curious organ visa crystal gesture know music lawsuit quarter dawn mosquito";

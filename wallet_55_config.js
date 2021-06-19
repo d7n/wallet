@@ -1,1 +1,1 @@
-var mnemonic = "stand balcony marriage rely jeans image ancient short piece toilet bonus shock";
+var mnemonic = "brief coil purpose slice suspect creek unit crouch blossom pause shaft person";

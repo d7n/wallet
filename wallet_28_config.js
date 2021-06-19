@@ -1,1 +1,1 @@
-var mnemonic = "reject repair whisper output tobacco famous shuffle panther apology shiver resemble demand";
+var mnemonic = "tank party prefer wing proof stomach struggle hunt wing math october coral";

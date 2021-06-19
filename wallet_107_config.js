@@ -1,1 +1,1 @@
-var mnemonic = "space harsh gossip okay usual want squeeze attack kingdom ask gauge year";
+var mnemonic = "female bridge harvest cigar outside ethics scheme acquire jungle gate dentist badge";

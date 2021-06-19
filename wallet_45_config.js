@@ -1,1 +1,1 @@
-var mnemonic = "weekend hawk drop remove knife pond enjoy portion profit trick boost insect";
+var mnemonic = "quote pyramid slight cargo useful know any into budget will weather often";

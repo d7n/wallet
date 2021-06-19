@@ -1,1 +1,1 @@
-var mnemonic = "fork alert since guitar trust merry govern basket solid sun summer hard";
+var mnemonic = "eternal estate risk step ripple venture winner want prepare begin eternal humble";

@@ -1,1 +1,1 @@
-var mnemonic = "grape jump mutual govern sketch attend regret melody hub history country brother";
+var mnemonic = "tennis direct also glow execute return dinner chat cushion average tennis embark";

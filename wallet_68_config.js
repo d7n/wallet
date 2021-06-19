@@ -1,1 +1,1 @@
-var mnemonic = "design print cluster tomorrow margin dutch drip lift apple green walk define";
+var mnemonic = "maximum nuclear luggage assault cost thought melt upgrade monitor meat salute walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "leave arrive lyrics grass detail dumb inquiry flat cargo sweet wave yard";
+var mnemonic = "cherry arctic arrive salt journey asset flash gun alert sign law long";

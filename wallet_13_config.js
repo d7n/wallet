@@ -1,1 +1,1 @@
-var mnemonic = "office chapter track avocado ginger session tooth distance photo warm praise zoo";
+var mnemonic = "daring jungle middle tumble reason seed school noodle tortoise media enable project";

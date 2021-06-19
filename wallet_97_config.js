@@ -1,1 +1,1 @@
-var mnemonic = "verify annual famous general alarm second tent life seminar engage present ladder";
+var mnemonic = "mushroom ability feel upon shop eagle old mask main palm frame estate";

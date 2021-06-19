@@ -1,1 +1,1 @@
-var mnemonic = "share churn clump order express mutual simple this select level brush tiger";
+var mnemonic = "cool era suggest upper away era deer rate remind spend guitar budget";

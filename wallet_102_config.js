@@ -1,1 +1,1 @@
-var mnemonic = "obvious barrel armed round brush display burger since bulk tornado usage cat";
+var mnemonic = "certain extend message genuine hip cradle security account unknown dove produce track";

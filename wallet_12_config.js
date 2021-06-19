@@ -1,1 +1,1 @@
-var mnemonic = "table burst tiny monkey swap silk host text enhance drum near boil";
+var mnemonic = "rain bonus sword sheriff length copy holiday radio social game shield alter";

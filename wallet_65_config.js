@@ -1,1 +1,1 @@
-var mnemonic = "genius guide power picnic drive simple cool worth hole below width shine";
+var mnemonic = "modify property shadow gate diamond ahead apology polar pool wreck size pledge";

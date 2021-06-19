@@ -1,1 +1,1 @@
-var mnemonic = "casino sense then mean recipe item width strike slogan head pact citizen";
+var mnemonic = "claim chronic regular clever mansion equal napkin board unknown rack deny frozen";

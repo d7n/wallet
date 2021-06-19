@@ -1,1 +1,1 @@
-var mnemonic = "minute unlock tide legal pupil include mutual stock devote cabbage asset pledge";
+var mnemonic = "grape monster club action sunny gallery slow still random impact scrap refuse";

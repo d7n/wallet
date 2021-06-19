@@ -1,1 +1,1 @@
-var mnemonic = "organ please discover token pitch license prosper van square faith confirm include";
+var mnemonic = "long age prosper glue wide series scout dove vacant discover devote advance";

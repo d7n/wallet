@@ -1,1 +1,1 @@
-var mnemonic = "fix violin negative script essence runway always midnight tree furnace apple wish";
+var mnemonic = "cherry stem satisfy turkey convince minor panel pelican rib tail guard delay";

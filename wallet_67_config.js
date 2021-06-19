@@ -1,1 +1,1 @@
-var mnemonic = "fan transfer issue write survey squirrel away afford dilemma coil confirm isolate";
+var mnemonic = "wire ribbon garbage lazy onion prevent clay wreck author bargain spawn inquiry";

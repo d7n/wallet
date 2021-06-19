@@ -1,1 +1,1 @@
-var mnemonic = "drive apology way spoil impose universe draw often hurry speak other mention";
+var mnemonic = "toy puzzle pulse ginger lecture trim gauge script tool shift forget visual";

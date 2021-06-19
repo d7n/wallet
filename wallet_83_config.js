@@ -1,1 +1,1 @@
-var mnemonic = "magnet medal final mandate chase spike ostrich galaxy have express tape good";
+var mnemonic = "post dinosaur tonight unusual divide crater mistake simple ready trouble twenty vacant";

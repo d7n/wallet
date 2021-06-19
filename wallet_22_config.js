@@ -1,1 +1,1 @@
-var mnemonic = "infant bronze dutch depth thing cry ritual strong garage vibrant office hat";
+var mnemonic = "struggle mask lobster edit brick stage elder accident chase feed peace rely";

@@ -1,1 +1,1 @@
-var mnemonic = "minute spot warrior grass mind vacuum enact worry indoor jeans elite sample";
+var mnemonic = "debate reward carry gather farm scare answer service torch brisk chat pact";

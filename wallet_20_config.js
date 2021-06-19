@@ -1,1 +1,1 @@
-var mnemonic = "range shove suggest tool diesel abstract faint easily rare run meat park";
+var mnemonic = "adjust slender between draw image define machine endorse original village globe pizza";

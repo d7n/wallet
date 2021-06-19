@@ -1,1 +1,1 @@
-var mnemonic = "uphold garage gospel minor fluid soap thought erupt silk debate neglect theme";
+var mnemonic = "offer tribe annual forest shrimp salmon income abuse find obvious pigeon harsh";

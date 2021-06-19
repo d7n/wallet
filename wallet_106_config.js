@@ -1,1 +1,1 @@
-var mnemonic = "squeeze art pill pet shield auto cross cotton essence remove world orange";
+var mnemonic = "obey acquire armor kitten scissors gold entry spread coffee mercy test reflect";

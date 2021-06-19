@@ -1,1 +1,1 @@
-var mnemonic = "sadness split album help cash sentence swear text furnace garden nation woman";
+var mnemonic = "sudden worry sort flush century soda mind faculty company girl profit weekend";

@@ -1,1 +1,1 @@
-var mnemonic = "toe notable pizza property act hedgehog twist road say joke clip peace";
+var mnemonic = "modify film guilt frame eagle satoshi emotion swing baby oak tomorrow radio";

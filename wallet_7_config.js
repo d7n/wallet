@@ -1,1 +1,1 @@
-var mnemonic = "venue breeze mobile debris rack delay silver deny peace worth dice street";
+var mnemonic = "slow flower thought bright scorpion recycle alter fresh field child warrior sick";

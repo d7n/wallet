@@ -1,1 +1,1 @@
-var mnemonic = "furnace hair shine trade negative twice material office abandon open monster jazz";
+var mnemonic = "fame supply sample believe husband gift enemy velvet century tongue grace carry";

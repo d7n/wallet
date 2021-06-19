@@ -1,1 +1,1 @@
-var mnemonic = "never art milk inside penalty regular odor still inspire during few cherry";
+var mnemonic = "anger dust cousin escape pistol chase ozone legal gas more spoon symptom";

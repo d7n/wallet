@@ -1,1 +1,1 @@
-var mnemonic = "ankle comic secret wedding recall always suspect edge opinion noise alien hazard";
+var mnemonic = "session salmon next rough legend shy cool axis question rule silk segment";

@@ -1,1 +1,1 @@
-var mnemonic = "moon humble fossil immune naive apology parrot trouble recall depart goddess ten";
+var mnemonic = "wing develop medal depend vehicle rule resist analyst frequent virtual magic inform";

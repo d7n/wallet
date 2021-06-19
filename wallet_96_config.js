@@ -1,1 +1,1 @@
-var mnemonic = "beyond remember loud tool icon jungle wrist tape zone film depend door";
+var mnemonic = "all inhale whale parent write two pretty client episode term table shine";

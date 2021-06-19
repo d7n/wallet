@@ -1,1 +1,1 @@
-var mnemonic = "leave lemon fit teach humble bamboo car cook wrap know desert scrap";
+var mnemonic = "hold diesel other situate notice what decide romance multiply verify pill sleep";

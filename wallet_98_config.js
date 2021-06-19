@@ -1,1 +1,1 @@
-var mnemonic = "tunnel major drip major vacant shock minimum shine veteran van soda plug";
+var mnemonic = "museum off share trim mixed accident wagon train bulk mixture debris disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "range year soccer key spike income elite trouble pizza fire vague leg";
+var mnemonic = "black hair boring gloom spring notice exact island panel fitness ten spread";

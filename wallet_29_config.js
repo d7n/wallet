@@ -1,1 +1,1 @@
-var mnemonic = "bargain submit donate juice mirror list join layer narrow bargain mixed tackle";
+var mnemonic = "uniform endorse anger slab script around eternal process lend win hill giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple rescue degree rotate august raccoon plate hotel edge dice once owner";
+var mnemonic = "misery series zone win noise area nest fold scout interest pact light";

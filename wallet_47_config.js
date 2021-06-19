@@ -1,1 +1,1 @@
-var mnemonic = "creek guitar subject second grab connect coyote cake behave citizen bulb boat";
+var mnemonic = "throw armor glide hamster school junk try attend cliff prefer reunion flame";

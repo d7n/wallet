@@ -1,1 +1,1 @@
-var mnemonic = "hybrid traffic magic sweet myth bread soldier brush tired three equip jar";
+var mnemonic = "offer shrug object vacant become smile clog anger steel six poverty vehicle";

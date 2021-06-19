@@ -1,1 +1,1 @@
-var mnemonic = "ritual cycle cloud merry club scheme manage error ring fall lobster focus";
+var mnemonic = "snap echo net orphan deer champion reopen sound sand mother milk elbow";

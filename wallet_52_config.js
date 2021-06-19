@@ -1,1 +1,1 @@
-var mnemonic = "penalty hand involve rhythm alert ability effort actor captain nothing solid box";
+var mnemonic = "canoe angle dwarf burst beauty cannon genius prosper protect kid panel ladder";

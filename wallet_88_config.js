@@ -1,1 +1,1 @@
-var mnemonic = "vendor six urban execute guess advice time junk sunny pride insane drastic";
+var mnemonic = "divert phrase portion joy magnet onion resource dress audit sadness thing crash";

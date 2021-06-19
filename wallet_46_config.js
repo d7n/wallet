@@ -1,1 +1,1 @@
-var mnemonic = "guess laundry upper blanket frozen soccer normal foster upgrade announce peanut prison";
+var mnemonic = "luggage garbage hard diesel type steak prosper pear sock asset critic ribbon";

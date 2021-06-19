@@ -1,1 +1,1 @@
-var mnemonic = "blanket chronic finish frame razor pipe deliver shed sorry daughter excuse recycle";
+var mnemonic = "wrist alien leopard novel nation mercy amateur police photo exact glide fitness";

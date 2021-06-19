@@ -1,1 +1,1 @@
-var mnemonic = "popular wait forward trade bamboo once earn crawl goat impulse mirror garlic";
+var mnemonic = "wish liar slight alley story cement poverty urban debris hawk sick rule";

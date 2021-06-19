@@ -1,1 +1,1 @@
-var mnemonic = "surface space argue remind bacon certain maid orbit velvet gadget bundle wink";
+var mnemonic = "aware volcano brave drip range adult rare rough typical timber receive lunch";

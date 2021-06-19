@@ -1,1 +1,1 @@
-var mnemonic = "portion warrior churn best foot nose mom category fan nerve promote boat";
+var mnemonic = "merge grocery verify enable enjoy powder planet copper theory crop jeans bus";

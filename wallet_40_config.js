@@ -1,1 +1,1 @@
-var mnemonic = "achieve put circle vicious trap report rookie youth bottom inherit injury cloth";
+var mnemonic = "people slice today expand write dentist super hood tape evolve humor staff";

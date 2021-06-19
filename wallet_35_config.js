@@ -1,1 +1,1 @@
-var mnemonic = "roof snake talent what assist dose video broom remember fruit police sorry";
+var mnemonic = "leg control enlist reopen approve display question delay animal possible flag device";

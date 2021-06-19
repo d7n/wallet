@@ -1,1 +1,1 @@
-var mnemonic = "pudding supply birth school assist modify scrub lumber smoke banana pond beach";
+var mnemonic = "home creek place ordinary alien extra genre stock survey gravity thought ready";

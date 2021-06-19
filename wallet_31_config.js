@@ -1,1 +1,1 @@
-var mnemonic = "alert extra rug empower brain ugly bag tornado proof modify floor march";
+var mnemonic = "scout catch summer current brisk relief large polar grunt drink runway mixed";

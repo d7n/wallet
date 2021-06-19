@@ -1,1 +1,1 @@
-var mnemonic = "foster butter cactus moment hurdle timber toilet bid dinner era bring drop";
+var mnemonic = "survey height lobster dinosaur pride suffer carry artwork defy boss price yellow";

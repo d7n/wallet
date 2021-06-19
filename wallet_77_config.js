@@ -1,1 +1,1 @@
-var mnemonic = "bargain depth abandon begin fine include badge muscle lava wrong wave divert";
+var mnemonic = "rate keep hand they repeat finish destroy december silver abandon onion input";

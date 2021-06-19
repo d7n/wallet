@@ -1,1 +1,1 @@
-var mnemonic = "enroll roast yellow elevator pride evil hour beauty edit display energy garden";
+var mnemonic = "lobster spawn tower table nature panel ticket shrimp inside skin birth fetch";

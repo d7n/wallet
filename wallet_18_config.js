@@ -1,1 +1,1 @@
-var mnemonic = "gadget buffalo vessel normal actual sphere evidence divorce host wide toy auto";
+var mnemonic = "list mule garment juice deny error miracle wrestle bronze burger bullet another";

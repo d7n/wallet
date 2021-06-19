@@ -1,1 +1,1 @@
-var mnemonic = "enforce catch shaft high attitude action grant leave arctic spy mass april";
+var mnemonic = "honey skirt pistol senior sausage ivory what clinic autumn item radio trumpet";

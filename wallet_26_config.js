@@ -1,1 +1,1 @@
-var mnemonic = "impose image chief crisp exist champion service issue verb sport adjust apple";
+var mnemonic = "lava blast pulse input lobster power fetch then artefact broccoli reflect pottery";
