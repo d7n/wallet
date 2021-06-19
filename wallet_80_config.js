@@ -1,1 +1,1 @@
-var mnemonic = "rival vacant defy oppose pretty boss couch genuine runway weather mobile day";
+var mnemonic = "armor seven ethics zebra mango manage fee bachelor often cool program craft";

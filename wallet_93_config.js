@@ -1,1 +1,1 @@
-var mnemonic = "cause obscure congress order stamp cube muscle wool cradle similar silent immense";
+var mnemonic = "panic bonus heart renew raw they chase blast clock conduct topic loop";

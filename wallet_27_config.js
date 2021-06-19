@@ -1,1 +1,1 @@
-var mnemonic = "angle execute hotel unfold alert water breeze random west refuse general noble";
+var mnemonic = "scatter usual gauge shuffle gas bird main jazz marble view switch abandon";

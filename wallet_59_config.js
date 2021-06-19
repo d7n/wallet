@@ -1,1 +1,1 @@
-var mnemonic = "state typical capable bird easy once deputy humble promote dog romance wide";
+var mnemonic = "gown arm retire ancient rubber similar flat lazy drill gather task coast";

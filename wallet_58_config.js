@@ -1,1 +1,1 @@
-var mnemonic = "guitar truly satoshi battle worry speak example enjoy nut tornado vibrant axis";
+var mnemonic = "cave quality nominee idle possible liberty antique attend problem response submit divert";

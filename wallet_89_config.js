@@ -1,1 +1,1 @@
-var mnemonic = "possible casual cotton sense throw lawn blame solar deal grow finger genre";
+var mnemonic = "power lady ball urge minute demise average great two crane topple wheel";

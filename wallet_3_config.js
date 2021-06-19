@@ -1,1 +1,1 @@
-var mnemonic = "pretty they liquid around pill over few reveal hedgehog scheme sand chat";
+var mnemonic = "news able quit crime vivid shoe situate use history penalty mistake carbon";

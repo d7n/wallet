@@ -1,1 +1,1 @@
-var mnemonic = "about amount affair wrong spread ordinary violin refuse trust search dwarf jelly";
+var mnemonic = "shuffle grass gain dry palace auction future hover hunt alley engage flash";

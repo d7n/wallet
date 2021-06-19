@@ -1,1 +1,1 @@
-var mnemonic = "hamster range vocal when wrestle dragon people unhappy breeze zoo initial nominee";
+var mnemonic = "mercy excuse shaft pride wealth device account injury peanut sibling nuclear spoil";

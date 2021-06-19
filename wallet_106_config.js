@@ -1,1 +1,1 @@
-var mnemonic = "question design wage auction evidence short gadget oppose pull planet beyond outer";
+var mnemonic = "token vacuum divide seven pear swift program avocado talk perfect lab hybrid";

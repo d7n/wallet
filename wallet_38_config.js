@@ -1,1 +1,1 @@
-var mnemonic = "inmate huge buzz primary security panel river absent shuffle helmet harsh shiver";
+var mnemonic = "merry ask bind famous crunch unfold blade civil oppose rain cabin era";

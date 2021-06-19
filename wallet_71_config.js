@@ -1,1 +1,1 @@
-var mnemonic = "useless pulp fox animal olympic unit club misery empty pupil celery pill";
+var mnemonic = "engine verify next local loud program trumpet famous battle trim tiny monster";

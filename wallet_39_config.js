@@ -1,1 +1,1 @@
-var mnemonic = "clerk antique voyage balcony draw enhance orbit galaxy library recycle pitch flavor";
+var mnemonic = "avocado someone tribe section orient emerge drink transfer system table oil equal";

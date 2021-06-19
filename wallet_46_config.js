@@ -1,1 +1,1 @@
-var mnemonic = "original amazing axis wine prosper cotton liberty exercise paper begin crack clinic";
+var mnemonic = "angle cheese summer decide float immune hurt direct urge never once ramp";

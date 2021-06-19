@@ -1,1 +1,1 @@
-var mnemonic = "above pottery essence possible mix gain they raw abstract soft oval mouse";
+var mnemonic = "dinosaur output inspire twice undo rebuild mammal situate farm anger twice great";

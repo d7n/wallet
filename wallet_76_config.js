@@ -1,1 +1,1 @@
-var mnemonic = "below erode ignore edit machine custom festival coach breeze lyrics gain tower";
+var mnemonic = "fatigue never agree certain grunt stamp work void box aunt cream ridge";

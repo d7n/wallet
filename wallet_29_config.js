@@ -1,1 +1,1 @@
-var mnemonic = "hello muscle task fever expose planet close sphere silent flavor tail network";
+var mnemonic = "hole fade rookie doll trade ugly ridge equip visit retreat visit visit";

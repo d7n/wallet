@@ -1,1 +1,1 @@
-var mnemonic = "early surface negative curious ball defy soccer quality weapon welcome shy pond";
+var mnemonic = "fortune animal vast round echo way clean flush kiss fringe immune mosquito";

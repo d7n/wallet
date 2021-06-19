@@ -1,1 +1,1 @@
-var mnemonic = "donkey calm tobacco picnic gate ability oven prize flight circle outside deliver";
+var mnemonic = "fiscal help lyrics toe girl render gun empower aisle hedgehog rack divert";

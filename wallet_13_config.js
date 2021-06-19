@@ -1,1 +1,1 @@
-var mnemonic = "forget science entire dice funny stomach cabbage drastic pink movie bus between";
+var mnemonic = "axis perfect hawk mimic gather cancel bridge useful release reopen skull glove";

@@ -1,1 +1,1 @@
-var mnemonic = "better engage valley sugar over elbow forest since elevator dutch price obtain";
+var mnemonic = "raccoon scout shrimp slide image music woman vanish injury enact render phrase";

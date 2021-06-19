@@ -1,1 +1,1 @@
-var mnemonic = "roast alter submit spin sure between slide scale pill you dwarf hidden";
+var mnemonic = "burst cup another lyrics yellow mention tiny what drill beach close hill";

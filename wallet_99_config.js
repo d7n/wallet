@@ -1,1 +1,1 @@
-var mnemonic = "bird decide vital injury fresh furnace room aim slogan document rabbit afford";
+var mnemonic = "enemy oak fringe dice grunt report spawn infant coyote expose menu earn";

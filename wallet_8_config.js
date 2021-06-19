@@ -1,1 +1,1 @@
-var mnemonic = "deer knife debris diagram frame face stairs aware case slogan glow tank";
+var mnemonic = "curve unknown tree beyond father purity upon trust join slim profit switch";

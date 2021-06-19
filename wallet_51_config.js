@@ -1,1 +1,1 @@
-var mnemonic = "guess act icon culture father alter gate run mixture spatial slight lyrics";
+var mnemonic = "harvest farm kitten fantasy critic daring lady boy person grape robust body";

@@ -1,1 +1,1 @@
-var mnemonic = "virus oil planet hotel industry cycle bless motor tube pass priority cabbage";
+var mnemonic = "tortoise faint box best limb route code brisk settle nurse lunch recipe";

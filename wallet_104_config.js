@@ -1,1 +1,1 @@
-var mnemonic = "recall fan beef sustain idea snap enrich luggage palm catalog dice engine";
+var mnemonic = "prison salt fence feel odor among happy donor brother add submit guilt";

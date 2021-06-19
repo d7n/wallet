@@ -1,1 +1,1 @@
-var mnemonic = "pave curtain enact age wire domain amateur gaze melt begin artist include";
+var mnemonic = "square boil rail novel flavor canyon sock boy turn winner online sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic diagram mountain jewel era memory casino any virus heavy evil purse";
+var mnemonic = "dignity usual coach upon wage hazard radar sure develop rally pink maze";

@@ -1,1 +1,1 @@
-var mnemonic = "safe step spatial dice expect wagon fresh stone expire range insane unaware";
+var mnemonic = "sponsor crucial canyon rare sustain glass abuse credit wave total obtain enable";

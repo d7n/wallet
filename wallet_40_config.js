@@ -1,1 +1,1 @@
-var mnemonic = "tired glow inmate laptop parrot absurd buddy relief sauce beef famous fat";
+var mnemonic = "cushion glance random neck provide crowd bitter silk fragile toast option easily";

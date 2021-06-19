@@ -1,1 +1,1 @@
-var mnemonic = "popular small lens mixed life cause quote snow cart pupil muffin cream";
+var mnemonic = "nerve museum invite setup lecture desk minute develop adjust world often album";

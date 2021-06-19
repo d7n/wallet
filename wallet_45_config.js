@@ -1,1 +1,1 @@
-var mnemonic = "message quality into enforce noodle sister mule creek winter text join rifle";
+var mnemonic = "seek truth surface phone mad orbit shallow certain similar come bomb visa";

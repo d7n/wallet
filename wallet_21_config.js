@@ -1,1 +1,1 @@
-var mnemonic = "immense rent wrist craft weasel weird error easy process bench gorilla tooth";
+var mnemonic = "sleep pear solar they invite pizza easily emerge above sketch potato fall";

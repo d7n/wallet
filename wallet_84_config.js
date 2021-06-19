@@ -1,1 +1,1 @@
-var mnemonic = "budget stool fever tuition type artist cupboard dentist agree aware bamboo curious";
+var mnemonic = "vicious tongue guitar stumble body border tobacco pig lens effort ridge climb";

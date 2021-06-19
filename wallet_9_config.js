@@ -1,1 +1,1 @@
-var mnemonic = "spring race merry sibling urban glance sting cheap angry bacon discover able";
+var mnemonic = "credit skull finger prepare rent this leisure label penalty process culture catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "boy kick indicate crunch very volcano nut suggest tornado pact swallow canyon";
+var mnemonic = "lawsuit tuition few denial way audit version predict tilt shed absent unit";

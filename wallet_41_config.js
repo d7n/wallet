@@ -1,1 +1,1 @@
-var mnemonic = "wash toast text innocent daughter deliver page flash spirit palace leave divide";
+var mnemonic = "fine swear blanket remind know shaft nephew resemble symbol unknown card object";

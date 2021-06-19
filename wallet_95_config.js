@@ -1,1 +1,1 @@
-var mnemonic = "profit distance fatigue shiver canoe mandate screen disorder fluid stem apple leave";
+var mnemonic = "female faith spare arena forest resemble marriage manage whale toast ecology stand";

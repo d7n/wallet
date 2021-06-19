@@ -1,1 +1,1 @@
-var mnemonic = "repeat wrist exact zero stuff cute they raven very goddess weather mercy";
+var mnemonic = "junior robust keep cricket paddle dilemma outer entire occur mention pretty type";

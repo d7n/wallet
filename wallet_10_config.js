@@ -1,1 +1,1 @@
-var mnemonic = "wolf cheese latin teach rate job parade pole camp initial drop hundred";
+var mnemonic = "allow unusual clean guitar memory fix element reject argue master infant apple";

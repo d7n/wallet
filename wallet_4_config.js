@@ -1,1 +1,1 @@
-var mnemonic = "hybrid punch track federal moon rescue calm seek math movie ugly cake";
+var mnemonic = "champion into say message reject valid head install artefact dad recall biology";

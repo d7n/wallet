@@ -1,1 +1,1 @@
-var mnemonic = "alcohol apology tongue save zone music snack prefer drip noise sand illegal";
+var mnemonic = "grief turtle inject yellow fortune claw spell push cabin gospel junior double";

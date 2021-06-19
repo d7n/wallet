@@ -1,1 +1,1 @@
-var mnemonic = "topic walk remember nasty amount dash rare episode perfect detect auto forget";
+var mnemonic = "click lend pizza bacon disagree vehicle detail crater duty front answer unit";

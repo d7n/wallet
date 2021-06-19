@@ -1,1 +1,1 @@
-var mnemonic = "crater dinosaur word street stock trick winter renew prefer flush grow alien";
+var mnemonic = "apart keen trust music tail polar swallow lion pride hidden together settle";

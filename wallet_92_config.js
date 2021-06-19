@@ -1,1 +1,1 @@
-var mnemonic = "mansion bicycle hurdle pilot easy snake home wink equip need chase rocket";
+var mnemonic = "judge wear rescue outdoor canal book garage cycle illegal holiday attend eight";

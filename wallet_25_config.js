@@ -1,1 +1,1 @@
-var mnemonic = "oppose income stage oyster other palace pill foam speed rural roof trigger";
+var mnemonic = "unit menu easily close slam chronic tone chase menu twin library brass";

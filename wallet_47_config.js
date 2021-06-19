@@ -1,1 +1,1 @@
-var mnemonic = "wedding common popular reward surface loyal rookie usage actress talk fiscal holiday";
+var mnemonic = "solve jazz loop flock muscle copy timber wink another steak noodle retire";

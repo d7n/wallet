@@ -1,1 +1,1 @@
-var mnemonic = "tuna share foil apart runway snap element will very lock nose tourist";
+var mnemonic = "timber raise enemy eager train nurse lobster floor adjust pigeon pistol hole";

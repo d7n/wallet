@@ -1,1 +1,1 @@
-var mnemonic = "prison lesson viable pig throw crystal arena purse act frog play that";
+var mnemonic = "industry option kid oval castle pond frame banner cage high replace gain";

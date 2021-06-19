@@ -1,1 +1,1 @@
-var mnemonic = "wet cabin require innocent swift dirt spy marriage match fiber desk casual";
+var mnemonic = "garment lyrics erupt mushroom any random marine raccoon venue resource calm elbow";

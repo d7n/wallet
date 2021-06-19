@@ -1,1 +1,1 @@
-var mnemonic = "strong bulk bomb equip lend unfold mobile embrace permit voyage anchor audit";
+var mnemonic = "hill tiny wink select perfect rocket mad hire grit regular pyramid warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "admit hawk drastic embrace weapon donor sorry eternal stamp runway transfer language";
+var mnemonic = "rough crisp hollow pitch warm math party increase inherit wall insect brisk";

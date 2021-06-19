@@ -1,1 +1,1 @@
-var mnemonic = "autumn electric glad start praise mule dad purity sound glare battle hamster";
+var mnemonic = "life gym hat mechanic solar law anchor mushroom apart vicious swarm wedding";

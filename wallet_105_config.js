@@ -1,1 +1,1 @@
-var mnemonic = "now field earth lawn myself dragon fiscal tank bomb test choose surprise";
+var mnemonic = "place recall decide duck rigid swift file friend chief crazy rifle food";

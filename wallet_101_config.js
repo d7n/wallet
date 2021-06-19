@@ -1,1 +1,1 @@
-var mnemonic = "moral purpose fun aware hen print grass calm stone claim math segment";
+var mnemonic = "subject poem mass iron original stairs relax maximum rebel enforce rain crystal";

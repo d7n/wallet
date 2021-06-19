@@ -1,1 +1,1 @@
-var mnemonic = "another that mesh gasp find discover quit network sunset roast laptop cluster";
+var mnemonic = "uncle embrace draw civil dignity famous planet damage pear athlete nose thank";

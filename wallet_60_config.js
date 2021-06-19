@@ -1,1 +1,1 @@
-var mnemonic = "liquid timber sure genius aerobic pioneer require mixture odor pilot result dash";
+var mnemonic = "curtain amateur vital invite flash purchase quality rhythm bounce worry sauce under";

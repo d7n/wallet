@@ -1,1 +1,1 @@
-var mnemonic = "liar lonely render lonely pulp elephant kitten teach pigeon rather pig earn";
+var mnemonic = "dwarf replace oxygen host scheme staff mask trust ginger proud swallow topple";

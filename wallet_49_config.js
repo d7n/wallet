@@ -1,1 +1,1 @@
-var mnemonic = "sample better beauty bronze chapter air blood ozone bag armor endorse crowd";
+var mnemonic = "theory poet frog safe air bread busy virtual owner blame music hawk";

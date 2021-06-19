@@ -1,1 +1,1 @@
-var mnemonic = "ribbon tent arrow unit fame mushroom two moon embrace april elbow accident";
+var mnemonic = "exhibit upon bracket theme crystal banner intact service security mail husband blast";

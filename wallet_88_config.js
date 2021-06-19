@@ -1,1 +1,1 @@
-var mnemonic = "uncle debate sheriff park dwarf furnace vanish film crater miss bitter wreck";
+var mnemonic = "warfare capital spoil erupt half shuffle lawsuit gap witness turkey special oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "light rich start season unlock crouch over patch device early dinosaur fragile";
+var mnemonic = "enough history ordinary moon toy appear unfold alter hour crystal flock problem";

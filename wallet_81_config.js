@@ -1,1 +1,1 @@
-var mnemonic = "aspect wool repair forum cheap despair infant rural company team breeze expect";
+var mnemonic = "side hobby blouse refuse ladder milk catch install eager victory truly plug";

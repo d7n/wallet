@@ -1,1 +1,1 @@
-var mnemonic = "hundred just approve apple often zoo kingdom chalk favorite velvet bird pulp";
+var mnemonic = "margin firm parent blanket draft shoulder paddle taste seat road allow noble";

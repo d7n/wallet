@@ -1,1 +1,1 @@
-var mnemonic = "price seminar market alarm champion glass save scene civil attract magic alarm";
+var mnemonic = "basket mean acoustic pill brother detail patch moon zero august cute crystal";

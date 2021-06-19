@@ -1,1 +1,1 @@
-var mnemonic = "grief crazy slight toe mango hawk hammer silly welcome allow message awful";
+var mnemonic = "practice wheel decline brain endless pig quote priority popular airport shove vote";

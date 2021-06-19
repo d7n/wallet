@@ -1,1 +1,1 @@
-var mnemonic = "unique misery oxygen diagram method afraid pioneer bike patch enemy rib nuclear";
+var mnemonic = "gauge seed foot wire come burst habit fluid summer tattoo obey gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone pencil shoot bacon fashion ostrich peasant pulse power robot food duty";
+var mnemonic = "near hospital gravity isolate donor cricket topple deal target scrap message priority";

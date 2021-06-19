@@ -1,1 +1,1 @@
-var mnemonic = "spray attack bicycle purpose write please stick denial junk false east chest";
+var mnemonic = "delay prefer print dream thunder install praise west color acquire quarter credit";

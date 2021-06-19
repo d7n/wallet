@@ -1,1 +1,1 @@
-var mnemonic = "require fence amateur popular frost little drop baby remind kitten badge apology";
+var mnemonic = "fault eagle bonus magnet noodle final survey cross glad exchange disagree economy";

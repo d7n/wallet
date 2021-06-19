@@ -1,1 +1,1 @@
-var mnemonic = "engage mean peanut sail valid execute bachelor turtle measure half fine verify";
+var mnemonic = "mind noise trim verb lock duty raw wreck soon napkin lava mosquito";

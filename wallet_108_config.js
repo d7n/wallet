@@ -1,1 +1,1 @@
-var mnemonic = "budget web kiwi shallow push verify annual parrot enough finish install fever";
+var mnemonic = "lumber diesel yellow desk cigar liar alter rich jealous island attack ensure";

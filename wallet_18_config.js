@@ -1,1 +1,1 @@
-var mnemonic = "quantum fix swamp chef science innocent sibling letter hedgehog debate dynamic result";
+var mnemonic = "short harvest once popular dune creek cost digital inquiry rival agree remember";

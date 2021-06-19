@@ -1,1 +1,1 @@
-var mnemonic = "immense omit enable mansion pyramid hidden visit obey awake job goose visual";
+var mnemonic = "slam brand absurd confirm rare excess approve turtle notable goose just mystery";

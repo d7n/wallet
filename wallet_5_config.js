@@ -1,1 +1,1 @@
-var mnemonic = "burger veteran cluster congress pipe buyer outer kiss current noodle birth whisper";
+var mnemonic = "text chase chicken detail record okay blanket muscle whisper gate ask price";

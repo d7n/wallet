@@ -1,1 +1,1 @@
-var mnemonic = "sentence bomb game lyrics festival neglect allow knife planet home hollow account";
+var mnemonic = "oven thunder face moon actor picnic piano flower chaos wish more action";

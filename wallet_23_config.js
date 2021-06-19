@@ -1,1 +1,1 @@
-var mnemonic = "search viable eight donkey measure famous hire betray kid holiday token argue";
+var mnemonic = "good claw winter pigeon smart please shell slam fashion open stove spider";

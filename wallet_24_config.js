@@ -1,1 +1,1 @@
-var mnemonic = "virtual danger shock wing decorate song apple stuff vote vintage patrol cattle";
+var mnemonic = "human tonight duty flag grass swallow atom increase original snake meadow during";

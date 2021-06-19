@@ -1,1 +1,1 @@
-var mnemonic = "chief view dirt consider kangaroo shrug tiny vanish mass pioneer rifle eyebrow";
+var mnemonic = "save deposit situate upgrade fog bless photo false close nut hotel frost";

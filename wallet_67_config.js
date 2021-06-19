@@ -1,1 +1,1 @@
-var mnemonic = "donor news find chief saddle seminar license giggle provide relief fury yellow";
+var mnemonic = "gloom sibling decide analyst fiction bargain assault mind elbow forest process hill";

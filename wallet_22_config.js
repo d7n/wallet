@@ -1,1 +1,1 @@
-var mnemonic = "method tree swing fancy chaos stadium drip avocado tent alter leave magnet";
+var mnemonic = "essence link oppose obtain mimic ship toe drastic genre group cash salon";

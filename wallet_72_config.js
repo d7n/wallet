@@ -1,1 +1,1 @@
-var mnemonic = "unaware bone insect pretty favorite sad nut oblige mixed cruel item rich";
+var mnemonic = "borrow inch kidney fork opera carry surround dismiss host very wolf drive";

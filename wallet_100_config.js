@@ -1,1 +1,1 @@
-var mnemonic = "flush ocean peace security pulp alien sunny exotic conduct wink actual museum";
+var mnemonic = "smoke escape primary width pottery milk treat planet regret dignity own mansion";

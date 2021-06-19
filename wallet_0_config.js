@@ -1,1 +1,1 @@
-var mnemonic = "guitar entire lesson quote erupt half wide bind better enter need distance";
+var mnemonic = "that slot twenty fancy water exercise rain eager mammal young uncle mechanic";

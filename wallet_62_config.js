@@ -1,1 +1,1 @@
-var mnemonic = "virtual armor jar sight egg dragon pink invite foam jelly lounge empty";
+var mnemonic = "auction license decade blame typical angry horn purchase tragic identify bridge soft";

@@ -1,1 +1,1 @@
-var mnemonic = "ill outer glow pipe bus labor feature analyst ketchup animal rent fine";
+var mnemonic = "solid razor parrot medal spread annual song rain merry post artist legal";

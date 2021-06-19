@@ -1,1 +1,1 @@
-var mnemonic = "focus bring license jaguar push visual giraffe put under zero avocado soda";
+var mnemonic = "alone recipe add seat shove game ladder inspire admit jar route tattoo";
