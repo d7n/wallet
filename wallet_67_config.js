@@ -1,1 +1,1 @@
-var mnemonic = "picnic under book tuna believe vehicle apple grief elephant upon artist spin";
+var mnemonic = "dismiss cool switch youth require virus ticket enroll strong dignity media wrist";

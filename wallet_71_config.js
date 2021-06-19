@@ -1,1 +1,1 @@
-var mnemonic = "mother patch flush runway turn bring entry emotion nose ladder anxiety about";
+var mnemonic = "tennis near clinic crew fault danger apart human approve stock smile ketchup";

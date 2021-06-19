@@ -1,1 +1,1 @@
-var mnemonic = "still chunk bring tomato grace honey peasant manage twin trip anxiety fame";
+var mnemonic = "wasp hold garbage crouch coin pink tooth gun embody tube document uncover";

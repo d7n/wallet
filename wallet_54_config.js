@@ -1,1 +1,1 @@
-var mnemonic = "sniff social lyrics prepare royal fly arrive split film arrow inch false";
+var mnemonic = "cabbage mule program okay churn often energy early dutch token box gentle";

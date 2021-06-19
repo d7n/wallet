@@ -1,1 +1,1 @@
-var mnemonic = "tell market glad dentist royal sad reflect sunny army audit palace brass";
+var mnemonic = "clinic number champion antique install oblige spin oyster tragic orbit major door";

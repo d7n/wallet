@@ -1,1 +1,1 @@
-var mnemonic = "genre crane valve soldier favorite exact vacuum olive huge myth umbrella season";
+var mnemonic = "desert hidden wild void seat grocery away foam always alter observe mango";

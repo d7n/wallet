@@ -1,1 +1,1 @@
-var mnemonic = "cargo napkin trend area rabbit spike satisfy divert legal rail rail above";
+var mnemonic = "train win panther feed fox embody fiber battle garage board cluster forum";

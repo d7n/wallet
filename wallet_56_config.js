@@ -1,1 +1,1 @@
-var mnemonic = "trophy favorite goat hotel edge crumble control meat goose history catch material";
+var mnemonic = "coil travel dad fashion attitude weasel pear antenna custom flower future dial";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter section brown lyrics gesture goose mean price silk spin vote busy";
+var mnemonic = "bulb sound multiply direct car alarm connect cattle tone urge blouse injury";

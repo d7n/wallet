@@ -1,1 +1,1 @@
-var mnemonic = "exist wrap begin ostrich gap amount buffalo winter team caution dumb valley";
+var mnemonic = "problem ice minimum rose poem harbor credit suit melt try fiscal fancy";

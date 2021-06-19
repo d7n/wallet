@@ -1,1 +1,1 @@
-var mnemonic = "special income adult stem afraid mouse slab nasty truth round immense dad";
+var mnemonic = "inquiry stone finish flat rally asthma liquid will hawk ensure pull lab";

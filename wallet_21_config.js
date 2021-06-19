@@ -1,1 +1,1 @@
-var mnemonic = "damage version snack fine vanish tomorrow humor castle october album draft piece";
+var mnemonic = "stomach vague uphold coffee swarm this holiday sleep rent soda yellow stock";

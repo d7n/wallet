@@ -1,1 +1,1 @@
-var mnemonic = "scorpion major giant dance fantasy panel awful verb punch arrange traffic brisk";
+var mnemonic = "wealth tool wire cat swear smile pool space fringe monkey arch online";

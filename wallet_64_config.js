@@ -1,1 +1,1 @@
-var mnemonic = "analyst dinner shop slot ketchup paper nominee wash neglect enforce jacket search";
+var mnemonic = "roast toilet real example web social vague globe ethics uncover august tuna";

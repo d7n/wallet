@@ -1,1 +1,1 @@
-var mnemonic = "tool install game normal various winner else vacant budget youth moment curtain";
+var mnemonic = "tuition patrol toss sleep squirrel exit crunch ranch stock awesome torch museum";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum season invest same always wrist letter rhythm worry tunnel old list";
+var mnemonic = "rough reform wait cargo suit ladder jewel unique south paddle maple sun";

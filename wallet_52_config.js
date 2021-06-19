@@ -1,1 +1,1 @@
-var mnemonic = "broom have stool cloud best manage news trend upon scrap leader connect";
+var mnemonic = "basket require donkey nurse shield empty multiply during bright awful list tomato";

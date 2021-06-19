@@ -1,1 +1,1 @@
-var mnemonic = "gorilla kidney clever party enable pistol rose junior lottery antenna jacket option";
+var mnemonic = "trim accident door swap rib elephant sunset toss shiver zero very tray";

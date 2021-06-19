@@ -1,1 +1,1 @@
-var mnemonic = "nut document crumble hospital solid ladder twice make danger ecology change reveal";
+var mnemonic = "monitor airport core pepper initial lens direct actual aerobic chronic breeze meadow";

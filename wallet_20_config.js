@@ -1,1 +1,1 @@
-var mnemonic = "agent crack nominee feature wool admit extend witness trap proof envelope coast";
+var mnemonic = "run boost inflict initial robot stay life sure between armed render corn";

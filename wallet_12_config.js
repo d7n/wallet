@@ -1,1 +1,1 @@
-var mnemonic = "such senior deputy decade hip galaxy leopard melody boat mesh fade fury";
+var mnemonic = "open style mango violin city situate push lunar know planet defy street";

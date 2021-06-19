@@ -1,1 +1,1 @@
-var mnemonic = "blame soccer lucky panel industry stadium swim cry fire bid entry bid";
+var mnemonic = "discover sample elevator nature index fetch topic marine other try calm plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt orphan rule enhance radar dish away inmate rail bounce manual reason";
+var mnemonic = "live sail fame original odor grace soccer spike hobby perfect hurry album";

@@ -1,1 +1,1 @@
-var mnemonic = "parent sunny buyer spend antique trick hub credit model muscle royal just";
+var mnemonic = "shoe snap monkey result certain shoot wall wisdom behave airport acoustic check";

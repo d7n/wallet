@@ -1,1 +1,1 @@
-var mnemonic = "torch luxury detect fall afford rebuild core chapter stem say distance bird";
+var mnemonic = "volcano silk imitate indicate derive monitor sentence lizard merry tray bar rate";

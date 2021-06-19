@@ -1,1 +1,1 @@
-var mnemonic = "auto nest drama hybrid glow utility unable average fluid traffic assume asset";
+var mnemonic = "mass coral joke health foot frame control dial orient front fuel beach";

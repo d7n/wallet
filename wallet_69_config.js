@@ -1,1 +1,1 @@
-var mnemonic = "attitude this carpet relax swing fashion claim merge way expect physical shock";
+var mnemonic = "home lens effort lumber earth news cup crane shiver cash goddess slow";

@@ -1,1 +1,1 @@
-var mnemonic = "universe offer brain grace practice carpet keen wreck legal item crazy fabric";
+var mnemonic = "version scorpion dentist public that lounge reward key weapon food dwarf inhale";

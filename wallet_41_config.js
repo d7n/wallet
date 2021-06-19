@@ -1,1 +1,1 @@
-var mnemonic = "dish frame genre tortoise speak equal scheme egg echo skin sample february";
+var mnemonic = "security purchase general fan report tissue fork path humor witness total lift";

@@ -1,1 +1,1 @@
-var mnemonic = "license verify mango write tragic toe oil skull august prosper alone sense";
+var mnemonic = "uncle rally lady section badge remind only length hundred barely camera major";

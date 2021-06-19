@@ -1,1 +1,1 @@
-var mnemonic = "good belt drill since piano female duck picnic runway patch father annual";
+var mnemonic = "brush lottery dose awkward you okay power claw board wrong easily point";

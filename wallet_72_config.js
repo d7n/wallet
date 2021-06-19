@@ -1,1 +1,1 @@
-var mnemonic = "catch exist review clay plug chat mixed cash ozone kick seminar miracle";
+var mnemonic = "drip laptop used festival episode tenant cup able gift marriage ready exist";

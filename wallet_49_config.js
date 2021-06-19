@@ -1,1 +1,1 @@
-var mnemonic = "direct tragic speed eagle brain curtain ahead eight guide vivid mention renew";
+var mnemonic = "busy silver subject earn wild mixture leaf arrive bean tree diesel beyond";

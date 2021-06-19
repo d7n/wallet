@@ -1,1 +1,1 @@
-var mnemonic = "month violin jewel bread pill sure mother fork solid attack tired physical";
+var mnemonic = "jeans south talk able various inject festival race jump strong shield pool";

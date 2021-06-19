@@ -1,1 +1,1 @@
-var mnemonic = "result inform math arrive silver exist chunk slush brave hungry memory fossil";
+var mnemonic = "seed decade thing reduce calm open only thumb romance valid spoil valley";

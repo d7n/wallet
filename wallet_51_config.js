@@ -1,1 +1,1 @@
-var mnemonic = "expand feel join endorse code dirt mutual network blast bonus bar page";
+var mnemonic = "junior churn finger have pelican match habit fiction sheriff beach hair gentle";

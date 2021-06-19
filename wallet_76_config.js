@@ -1,1 +1,1 @@
-var mnemonic = "echo sword situate achieve shuffle mother reunion aspect undo void voyage maple";
+var mnemonic = "farm era unveil spy depend display leader body never walnut bag collect";

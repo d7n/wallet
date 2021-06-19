@@ -1,1 +1,1 @@
-var mnemonic = "ladder pilot match stock ritual actor coyote window vocal mom example cliff";
+var mnemonic = "bridge witness family novel breeze brush crime floor emerge idle blur scan";

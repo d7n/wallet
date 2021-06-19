@@ -1,1 +1,1 @@
-var mnemonic = "culture sound sustain salt congress connect dove design allow couch rice paper";
+var mnemonic = "expand rotate answer silly pioneer lion strategy miracle grit relax rally eye";

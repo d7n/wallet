@@ -1,1 +1,1 @@
-var mnemonic = "meat flash east else cruel regular leaf life flavor canoe bamboo trophy";
+var mnemonic = "monster horse document method ignore measure myth club quit fatal wolf any";

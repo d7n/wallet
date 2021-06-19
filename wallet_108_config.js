@@ -1,1 +1,1 @@
-var mnemonic = "garbage scene stove thunder enhance economy emerge physical rail tray such magnet";
+var mnemonic = "people rib shift hover snake frown push twice blue peace enforce ice";

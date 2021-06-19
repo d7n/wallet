@@ -1,1 +1,1 @@
-var mnemonic = "arm multiply thrive hurdle bubble plunge silver spot size panther breeze because";
+var mnemonic = "online barrel law pizza crop save pride version knock cycle sing slab";

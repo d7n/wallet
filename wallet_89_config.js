@@ -1,1 +1,1 @@
-var mnemonic = "permit badge bounce like gossip always version pulse demand reason gospel auction";
+var mnemonic = "injury warrior mimic jealous index kite wear food soon sister depend teach";

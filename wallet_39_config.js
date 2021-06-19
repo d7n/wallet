@@ -1,1 +1,1 @@
-var mnemonic = "soap always ice imitate firm liquid whisper lounge match universe inject boss";
+var mnemonic = "pioneer multiply skill fruit attend view fame nominee opinion bracket lobster bunker";

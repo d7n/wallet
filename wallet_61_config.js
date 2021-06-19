@@ -1,1 +1,1 @@
-var mnemonic = "program cousin black hand dynamic control work ribbon portion sister april price";
+var mnemonic = "behave catch enable eyebrow boil dumb gospel hood false lunar emerge inch";

@@ -1,1 +1,1 @@
-var mnemonic = "example invest zone copy also secret laugh negative income fix there glimpse";
+var mnemonic = "butter phone pull auction usage people knife canoe frost include demand bread";

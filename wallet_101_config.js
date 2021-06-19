@@ -1,1 +1,1 @@
-var mnemonic = "surface shove cycle horror luxury rapid person gloom happy exchange thunder say";
+var mnemonic = "tragic ancient sail almost stage bracket lottery casino inherit family plug mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "silver elevator own crazy gossip maid warfare find alpha walk brass sample";
+var mnemonic = "envelope install asset plastic excuse detail claw frozen goddess shrug detail order";

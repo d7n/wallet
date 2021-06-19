@@ -1,1 +1,1 @@
-var mnemonic = "noise mouse hobby fashion noise source picture grain call resist cream essay";
+var mnemonic = "high battle slender glove wire winter decorate flag labor blossom main fatal";

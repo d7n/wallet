@@ -1,1 +1,1 @@
-var mnemonic = "quick combine pyramid someone siren range reform uphold ozone illegal abstract hip";
+var mnemonic = "inner setup cement height sword daughter unable inject palace glance palace doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict giraffe annual vault slot sheriff token hope river goddess cost kind";
+var mnemonic = "pizza oak twice actress cliff extend cluster thought kangaroo remain miracle muscle";

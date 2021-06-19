@@ -1,1 +1,1 @@
-var mnemonic = "rival cradle sing salmon midnight review voyage guitar fiction peace include keep";
+var mnemonic = "maid plunge vivid print expose hair change say tunnel canvas together attitude";

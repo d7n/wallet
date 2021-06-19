@@ -1,1 +1,1 @@
-var mnemonic = "beach youth dinner emerge own number hollow home what token list emerge";
+var mnemonic = "express idea evoke discover license organ position fatal dwarf region recycle fly";

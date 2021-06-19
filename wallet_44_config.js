@@ -1,1 +1,1 @@
-var mnemonic = "daughter swamp switch admit panic spatial color main man keep weapon grant";
+var mnemonic = "own race acoustic solve transfer short mix electric evoke menu forum quantum";

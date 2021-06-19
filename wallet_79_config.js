@@ -1,1 +1,1 @@
-var mnemonic = "inhale arena twist mercy verb habit twelve ribbon peasant baby buddy able";
+var mnemonic = "knife pill ginger popular wolf use wing hour combine smart total reward";

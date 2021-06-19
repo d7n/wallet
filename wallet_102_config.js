@@ -1,1 +1,1 @@
-var mnemonic = "black cave risk buddy genre clip goose pelican summer script trade patch";
+var mnemonic = "pilot potato garage family energy wheat hybrid brand hotel engine faith dolphin";

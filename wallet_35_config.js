@@ -1,1 +1,1 @@
-var mnemonic = "steak harvest sustain relax ceiling tomorrow first simple cage vendor luggage betray";
+var mnemonic = "brick toast spice cluster trigger teach extend doctor mansion oil wear photo";

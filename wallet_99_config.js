@@ -1,1 +1,1 @@
-var mnemonic = "strike entire brass educate section reason crystal comfort require yard furnace napkin";
+var mnemonic = "share sick urge another arrive need eternal follow addict barely physical put";

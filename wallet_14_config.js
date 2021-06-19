@@ -1,1 +1,1 @@
-var mnemonic = "simple february hill prefer abstract absorb shoe spoil mammal resemble celery orchard";
+var mnemonic = "invite scale margin connect nasty this lesson visual accident naive together scrub";

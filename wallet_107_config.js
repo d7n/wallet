@@ -1,1 +1,1 @@
-var mnemonic = "aware usual weird insane rare illness genius neutral high olive average energy";
+var mnemonic = "brave dune canvas april such crop good laugh success hundred unknown rigid";

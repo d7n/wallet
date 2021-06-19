@@ -1,1 +1,1 @@
-var mnemonic = "anchor cannon sting welcome weasel gym letter someone oblige wage future museum";
+var mnemonic = "adult shaft tooth burger mystery angry hedgehog squirrel what earth pattern develop";

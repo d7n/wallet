@@ -1,1 +1,1 @@
-var mnemonic = "distance bread damp arch change barely tribe crime evolve main about potato";
+var mnemonic = "story pact lunch cheap suit ghost deer save salad dinosaur armed true";

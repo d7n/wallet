@@ -1,1 +1,1 @@
-var mnemonic = "organ cup connect capable delay tag essence life stay tag mosquito call";
+var mnemonic = "cherry address inhale hire enforce cargo chapter bright plug detail cabin collect";

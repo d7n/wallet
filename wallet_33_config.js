@@ -1,1 +1,1 @@
-var mnemonic = "vapor alley rate security run panther fault drum tourist banner arctic cushion";
+var mnemonic = "asset swamp excuse mad ask hospital detail library across enough vibrant venture";

@@ -1,1 +1,1 @@
-var mnemonic = "paper crystal above zone prosper enough typical burst tribe hen page impulse";
+var mnemonic = "hood example where dynamic manage laundry crop okay cash early gallery vacant";

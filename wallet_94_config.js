@@ -1,1 +1,1 @@
-var mnemonic = "hurdle garden sort stick average melody fade rather control illegal split nation";
+var mnemonic = "random chunk frost west mimic window skull turn fluid pull alien turtle";

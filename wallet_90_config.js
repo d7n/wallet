@@ -1,1 +1,1 @@
-var mnemonic = "ring used salmon tilt rough device rhythm motion grape news chef fiber";
+var mnemonic = "clay whisper paper snack engine only talk magic scale music wild ginger";

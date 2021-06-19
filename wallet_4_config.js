@@ -1,1 +1,1 @@
-var mnemonic = "essay doll brief nasty leaf aware armed thank west welcome liquid turkey";
+var mnemonic = "hazard update record arena woman infant tool sweet pen vicious liquid doctor";

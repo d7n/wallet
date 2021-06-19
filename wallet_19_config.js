@@ -1,1 +1,1 @@
-var mnemonic = "salon earth coil woman derive decade apple fortune despair lend immense thing";
+var mnemonic = "cook chronic evoke crouch position media wall west assist frog fragile object";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor magic exotic same deputy south month fatal trumpet gasp warfare awkward";
+var mnemonic = "mom shuffle decrease ship room song busy another amused six stable subject";

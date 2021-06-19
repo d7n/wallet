@@ -1,1 +1,1 @@
-var mnemonic = "insane horn error rival inform surface minute beauty toilet dragon divorce congress";
+var mnemonic = "tonight tape scrub steak property burst develop film gym flat slim faith";

@@ -1,1 +1,1 @@
-var mnemonic = "marine moon match frog strategy gallery pilot vacuum purity cage autumn maze";
+var mnemonic = "cement uniform true girl episode electric miss mention endorse cool slide oxygen";

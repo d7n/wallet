@@ -1,1 +1,1 @@
-var mnemonic = "vibrant recycle panther vault fabric tail sock hospital gospel sustain nut gadget";
+var mnemonic = "pact relief curious satoshi ladder sauce friend culture wing mind check creek";

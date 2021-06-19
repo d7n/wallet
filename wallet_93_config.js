@@ -1,1 +1,1 @@
-var mnemonic = "consider certain broom puppy lift antique word effort unable holiday slot soft";
+var mnemonic = "sibling pistol portion smart force throw arrange exchange final member water shiver";

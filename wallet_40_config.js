@@ -1,1 +1,1 @@
-var mnemonic = "boss lawn breeze dinosaur resource tank riot worth practice adult kind happy";
+var mnemonic = "devote alien fiscal honey hunt globe nominee brown dish good tonight garden";

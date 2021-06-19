@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon modify dice brave universe soldier balcony relax segment iron benefit typical";
+var mnemonic = "naive scrap leg winner practice brain angry stone prosper main wife educate";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt erosion length stereo slam use ginger crucial pupil slush typical come";
+var mnemonic = "first talent sign obvious smile duck unfair range marriage maze predict such";

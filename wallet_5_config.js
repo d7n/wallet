@@ -1,1 +1,1 @@
-var mnemonic = "old consider collect patch either paper fiber exclude normal page unaware west";
+var mnemonic = "yard allow fragile shock true message fade ride mutual young gate slab";

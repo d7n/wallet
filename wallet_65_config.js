@@ -1,1 +1,1 @@
-var mnemonic = "various venture ancient educate dust music wisdom glass giraffe clown foam gorilla";
+var mnemonic = "wise agent chimney hamster lyrics depart sausage spring upgrade fit income evidence";

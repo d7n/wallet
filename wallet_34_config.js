@@ -1,1 +1,1 @@
-var mnemonic = "panther lecture ketchup bulb that chalk seek help hidden pill noble guitar";
+var mnemonic = "manage cousin follow kite ring major federal smile balcony present pretty forget";

@@ -1,1 +1,1 @@
-var mnemonic = "carry tonight bachelor topic select across toast emerge exercise bus boost team";
+var mnemonic = "fold metal canvas kit alcohol team huge bar junk narrow fitness taste";

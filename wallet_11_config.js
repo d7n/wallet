@@ -1,1 +1,1 @@
-var mnemonic = "apple soup cliff neutral bullet mango lizard zone click grid ocean tube";
+var mnemonic = "flee sleep acoustic noodle celery original elegant build amused luggage lounge void";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect kid cliff nephew dance bind hobby cushion sauce casino clay three";
+var mnemonic = "target slide system extend stairs affair arm bottom mansion afraid ridge cable";

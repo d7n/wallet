@@ -1,1 +1,1 @@
-var mnemonic = "muscle spring toy trouble trumpet tourist cancel vast arctic fit atom alone";
+var mnemonic = "stairs scrub master brave fun uncle oil foam news above vacant wrist";

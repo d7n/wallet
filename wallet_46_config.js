@@ -1,1 +1,1 @@
-var mnemonic = "bullet orphan rail steel loud famous fossil venture current curve hurt ten";
+var mnemonic = "feel blade source pear vapor arrange still garment bless antique wonder moon";

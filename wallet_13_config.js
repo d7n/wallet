@@ -1,1 +1,1 @@
-var mnemonic = "image illness delay bicycle south adapt arrow visit glove hurt humor song";
+var mnemonic = "busy network mixture emerge hip turtle web ten know between win match";

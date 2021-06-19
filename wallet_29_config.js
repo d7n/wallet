@@ -1,1 +1,1 @@
-var mnemonic = "loan tooth spatial manage pupil depend vault decorate aerobic identify people abuse";
+var mnemonic = "bird animal example unique capital shove ridge wine tuition insect aspect shell";

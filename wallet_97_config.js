@@ -1,1 +1,1 @@
-var mnemonic = "giraffe hire display mansion casual truth cool fox enlist fortune system either";
+var mnemonic = "despair punch elevator belt oven spoon item universe plate client display slush";
