@@ -1,1 +1,1 @@
-var mnemonic = "elbow vendor practice control subway vacant later car burst mansion sell basic";
+var mnemonic = "fiction flag river connect burst master amateur dash impose arrive figure glass";

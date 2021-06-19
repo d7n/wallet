@@ -1,1 +1,1 @@
-var mnemonic = "throw armor glide hamster school junk try attend cliff prefer reunion flame";
+var mnemonic = "essence slender mistake divert excite blossom asset notable vacant easily bulk way";

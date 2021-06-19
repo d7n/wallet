@@ -1,1 +1,1 @@
-var mnemonic = "nest blast gloom must wealth sock advice donate honey solar stock future";
+var mnemonic = "craft control account tool beach chief afford staff alpha exotic begin device";

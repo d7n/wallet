@@ -1,1 +1,1 @@
-var mnemonic = "girl head obtain appear anger renew coffee poverty media moment undo endless";
+var mnemonic = "rely auction abandon simple cushion invest arch toilet bone online amount quote";

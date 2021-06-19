@@ -1,1 +1,1 @@
-var mnemonic = "void hole utility discover setup age such whale fabric digital iron talent";
+var mnemonic = "woman goddess eternal enlist weasel tower tent dawn drastic canal merry hero";

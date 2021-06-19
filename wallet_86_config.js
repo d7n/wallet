@@ -1,1 +1,1 @@
-var mnemonic = "genuine rotate orbit group save nose wood reveal amount neglect boy gate";
+var mnemonic = "atom when october across ticket balance energy rude sentence account patrol joy";

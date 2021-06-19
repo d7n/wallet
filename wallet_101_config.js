@@ -1,1 +1,1 @@
-var mnemonic = "lobster spawn tower table nature panel ticket shrimp inside skin birth fetch";
+var mnemonic = "step record coach match like wear job more tiny era dirt gentle";

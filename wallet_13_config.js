@@ -1,1 +1,1 @@
-var mnemonic = "daring jungle middle tumble reason seed school noodle tortoise media enable project";
+var mnemonic = "absurd they annual very pizza piece hood inhale toilet fragile rough excuse";

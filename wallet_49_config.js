@@ -1,1 +1,1 @@
-var mnemonic = "into describe rare cash lottery crisp bachelor build buffalo initial wall blanket";
+var mnemonic = "account wise prison just card order fade salon design account clock panel";

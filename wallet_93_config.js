@@ -1,1 +1,1 @@
-var mnemonic = "sword ghost quality exclude behind able orphan raise hat elevator outer garden";
+var mnemonic = "aware develop trick eight tell foot note settle either excess first leave";

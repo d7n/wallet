@@ -1,1 +1,1 @@
-var mnemonic = "all inhale whale parent write two pretty client episode term table shine";
+var mnemonic = "medal attract butter scissors more useful neutral remain page surface hawk wage";

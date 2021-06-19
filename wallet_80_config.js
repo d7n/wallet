@@ -1,1 +1,1 @@
-var mnemonic = "wait display update battle upset idle office heart find staff response fly";
+var mnemonic = "attack core page voyage brisk glimpse shoulder ghost minor oppose spend glory";

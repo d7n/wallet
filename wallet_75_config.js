@@ -1,1 +1,1 @@
-var mnemonic = "eternal estate risk step ripple venture winner want prepare begin eternal humble";
+var mnemonic = "future lawn race engage betray return scheme collect uniform into demand elbow";

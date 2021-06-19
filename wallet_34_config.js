@@ -1,1 +1,1 @@
-var mnemonic = "misery series zone win noise area nest fold scout interest pact light";
+var mnemonic = "title swallow quick gold reason pole injury royal sun annual orange strike";

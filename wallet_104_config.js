@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon myself discover correct bridge banner screen term right normal hair grace";
+var mnemonic = "color dinosaur hip boy become weapon adapt outer infant hello toe road";

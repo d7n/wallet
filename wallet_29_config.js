@@ -1,1 +1,1 @@
-var mnemonic = "uniform endorse anger slab script around eternal process lend win hill giggle";
+var mnemonic = "maze fuel blanket divide luggage stable cradle crack chest infant upper inhale";

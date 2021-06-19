@@ -1,1 +1,1 @@
-var mnemonic = "decline exile wagon rough bullet any drum tail pact alpha oxygen hundred";
+var mnemonic = "fortune frost economy merge boss noodle sock hurdle major hold dream boss";

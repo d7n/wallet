@@ -1,1 +1,1 @@
-var mnemonic = "merge grocery verify enable enjoy powder planet copper theory crop jeans bus";
+var mnemonic = "lemon yellow eager clown lesson unfair stand cheese half case battle tiny";

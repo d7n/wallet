@@ -1,1 +1,1 @@
-var mnemonic = "scout catch summer current brisk relief large polar grunt drink runway mixed";
+var mnemonic = "output above acoustic slab clay draft often degree uncle impulse found street";

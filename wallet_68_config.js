@@ -1,1 +1,1 @@
-var mnemonic = "maximum nuclear luggage assault cost thought melt upgrade monitor meat salute walnut";
+var mnemonic = "glance long law drip scare honey major bounce security boss bundle bridge";

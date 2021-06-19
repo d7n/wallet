@@ -1,1 +1,1 @@
-var mnemonic = "arrest hurt core light panel symptom oxygen spawn scare photo also mistake";
+var mnemonic = "resemble surprise veteran define thought also convince mention farm cotton flash horse";

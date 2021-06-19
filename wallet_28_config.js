@@ -1,1 +1,1 @@
-var mnemonic = "tank party prefer wing proof stomach struggle hunt wing math october coral";
+var mnemonic = "industry cherry smart voyage source direct ocean venue teach area bring crop";

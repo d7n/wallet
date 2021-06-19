@@ -1,1 +1,1 @@
-var mnemonic = "slow flower thought bright scorpion recycle alter fresh field child warrior sick";
+var mnemonic = "cross always define expect evolve era air grain toy tube until process";

@@ -1,1 +1,1 @@
-var mnemonic = "wish liar slight alley story cement poverty urban debris hawk sick rule";
+var mnemonic = "swim weird cry rug total cake mosquito stadium memory cart member peace";

@@ -1,1 +1,1 @@
-var mnemonic = "project pudding rib produce ostrich teach original dose figure police knife tank";
+var mnemonic = "save raven bullet trial arrow border coconut siege suit misery rather moment";

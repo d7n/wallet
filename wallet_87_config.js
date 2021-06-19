@@ -1,1 +1,1 @@
-var mnemonic = "can dismiss steel name expire electric foot river code pottery marriage fantasy";
+var mnemonic = "drill entire home long tattoo label own island click regret thrive home";

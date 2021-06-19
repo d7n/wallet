@@ -1,1 +1,1 @@
-var mnemonic = "twin baby call north acoustic retire bid noise odor lab photo join";
+var mnemonic = "pill disease stand lemon initial brief thunder win best chicken echo helmet";

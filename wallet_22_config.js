@@ -1,1 +1,1 @@
-var mnemonic = "struggle mask lobster edit brick stage elder accident chase feed peace rely";
+var mnemonic = "comic choose leader quick pyramid educate host flame public orange story chicken";

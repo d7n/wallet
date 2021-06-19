@@ -1,1 +1,1 @@
-var mnemonic = "wing develop medal depend vehicle rule resist analyst frequent virtual magic inform";
+var mnemonic = "victory develop case road rather chunk rhythm weather try mad inmate mercy";

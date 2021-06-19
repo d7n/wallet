@@ -1,1 +1,1 @@
-var mnemonic = "quote pyramid slight cargo useful know any into budget will weather often";
+var mnemonic = "guide cage will tail imitate sauce explain coral joke category sustain divide";

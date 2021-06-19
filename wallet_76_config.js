@@ -1,1 +1,1 @@
-var mnemonic = "escape mean slight sand style barely mix page trim again announce winter";
+var mnemonic = "depend blouse someone exhibit million razor mean scrub clay baby divorce input";

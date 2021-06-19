@@ -1,1 +1,1 @@
-var mnemonic = "jewel nice bounce scare cherry bench crater audit word neutral able oak";
+var mnemonic = "beef warrior start will great vivid quit fever fever thunder step join";

@@ -1,1 +1,1 @@
-var mnemonic = "rain bonus sword sheriff length copy holiday radio social game shield alter";
+var mnemonic = "believe history collect action skill street snack ketchup consider prize maximum mad";

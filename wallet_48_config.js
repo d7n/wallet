@@ -1,1 +1,1 @@
-var mnemonic = "maid novel legend cattle fashion connect limb lottery mechanic clip thunder spend";
+var mnemonic = "episode call then false prison vicious oblige segment surface render dish box";

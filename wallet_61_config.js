@@ -1,1 +1,1 @@
-var mnemonic = "comic famous core ready wreck level paper office essay paper rival elegant";
+var mnemonic = "common tube toe stove category stand add among flame brass east change";

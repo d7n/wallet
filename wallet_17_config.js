@@ -1,1 +1,1 @@
-var mnemonic = "sister donkey drill huge elegant orphan culture obtain ginger damage maid stuff";
+var mnemonic = "drift kid harbor animal circle caution hard silk enforce credit slush barely";

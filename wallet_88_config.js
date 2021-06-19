@@ -1,1 +1,1 @@
-var mnemonic = "divert phrase portion joy magnet onion resource dress audit sadness thing crash";
+var mnemonic = "shallow occur impose upset refuse laugh leader duty tobacco mesh dress wool";

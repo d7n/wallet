@@ -1,1 +1,1 @@
-var mnemonic = "say better neither trap present penalty blame group race approve begin sunset";
+var mnemonic = "shaft mystery amateur magic library bunker evoke spring concert school modify crouch";

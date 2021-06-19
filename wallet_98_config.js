@@ -1,1 +1,1 @@
-var mnemonic = "museum off share trim mixed accident wagon train bulk mixture debris disagree";
+var mnemonic = "bleak juice acoustic awful teach depth canoe pizza scrub radio gadget subway";

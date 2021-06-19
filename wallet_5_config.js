@@ -1,1 +1,1 @@
-var mnemonic = "debate reward carry gather farm scare answer service torch brisk chat pact";
+var mnemonic = "grab mimic race category dirt future anchor air annual source boil double";

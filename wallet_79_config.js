@@ -1,1 +1,1 @@
-var mnemonic = "marine boss boss begin color acid decide rely hire window upper quality";
+var mnemonic = "regular paddle antique upgrade subject tide almost soup horror still drop great";

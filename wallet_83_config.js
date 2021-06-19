@@ -1,1 +1,1 @@
-var mnemonic = "post dinosaur tonight unusual divide crater mistake simple ready trouble twenty vacant";
+var mnemonic = "fatal violin shield music just situate copy chapter relax neutral december stool";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy cost amateur gorilla jeans manual symbol furnace myself gentle cycle tired";
+var mnemonic = "mention learn shoulder drastic shoe bamboo exhaust side steel ordinary width major";

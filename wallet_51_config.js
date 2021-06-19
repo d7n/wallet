@@ -1,1 +1,1 @@
-var mnemonic = "blue anchor garment search pave elbow away walnut collect close initial demise";
+var mnemonic = "page decline grass fresh sorry quarter pistol puppy plate pet screen ability";

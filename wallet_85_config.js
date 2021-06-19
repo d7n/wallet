@@ -1,1 +1,1 @@
-var mnemonic = "sudden worry sort flush century soda mind faculty company girl profit weekend";
+var mnemonic = "antique edit walnut enough sustain cave possible spot jacket mimic ocean vault";

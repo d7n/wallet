@@ -1,1 +1,1 @@
-var mnemonic = "hammer mix solar tackle fruit shop cousin snow object december poet plastic";
+var mnemonic = "exhaust purchase hope spoon screen zone rocket lawn sell dentist black rule";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist alien leopard novel nation mercy amateur police photo exact glide fitness";
+var mnemonic = "test want duck shed decrease lecture high diet humble any cabbage youth";

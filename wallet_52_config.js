@@ -1,1 +1,1 @@
-var mnemonic = "canoe angle dwarf burst beauty cannon genius prosper protect kid panel ladder";
+var mnemonic = "bicycle goose move ostrich valid tiger multiply autumn essay antique leader skate";

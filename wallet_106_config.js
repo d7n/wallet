@@ -1,1 +1,1 @@
-var mnemonic = "obey acquire armor kitten scissors gold entry spread coffee mercy test reflect";
+var mnemonic = "friend race basic pioneer rocket crop solid since session make squeeze laptop";

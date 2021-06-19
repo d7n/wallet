@@ -1,1 +1,1 @@
-var mnemonic = "eye flight fresh seed opera industry melody love bread fetch chat turn";
+var mnemonic = "mass sugar thank market tumble offer side web decide double fantasy industry";

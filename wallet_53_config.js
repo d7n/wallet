@@ -1,1 +1,1 @@
-var mnemonic = "near into laptop syrup square fork topic pig wool predict priority attitude";
+var mnemonic = "meat sibling power bronze observe sail broom drop couple device talk glue";

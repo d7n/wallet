@@ -1,1 +1,1 @@
-var mnemonic = "long age prosper glue wide series scout dove vacant discover devote advance";
+var mnemonic = "alcohol monitor age humble law live submit hotel outdoor violin rebel protect";

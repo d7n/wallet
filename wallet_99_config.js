@@ -1,1 +1,1 @@
-var mnemonic = "modify film guilt frame eagle satoshi emotion swing baby oak tomorrow radio";
+var mnemonic = "seed pyramid lemon lady main toy wet shy hybrid cricket cram plate";

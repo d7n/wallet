@@ -1,1 +1,1 @@
-var mnemonic = "grape monster club action sunny gallery slow still random impact scrap refuse";
+var mnemonic = "hello daughter hero timber clinic wrong year happy still book cup lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "spot club tourist best cotton glide comic length mad input cabbage dolphin";
+var mnemonic = "fossil tennis kind mom duty tag earth canyon ice bubble lady document";

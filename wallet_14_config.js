@@ -1,1 +1,1 @@
-var mnemonic = "fame supply sample believe husband gift enemy velvet century tongue grace carry";
+var mnemonic = "attend wave unfold west knock peace one fork neither oxygen average garment";

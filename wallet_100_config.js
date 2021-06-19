@@ -1,1 +1,1 @@
-var mnemonic = "wine country mean crowd all anchor area pelican pig melody claw bean";
+var mnemonic = "upset debris replace finger insane coconut quote syrup stable yard flock loud";

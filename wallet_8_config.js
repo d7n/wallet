@@ -1,1 +1,1 @@
-var mnemonic = "anger dust cousin escape pistol chase ozone legal gas more spoon symptom";
+var mnemonic = "banana neither broken parade tank shell airport rule dawn corn spider side";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis direct also glow execute return dinner chat cushion average tennis embark";
+var mnemonic = "ball craft dash drip nice kingdom venture poem author believe ribbon opera";

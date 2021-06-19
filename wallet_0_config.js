@@ -1,1 +1,1 @@
-var mnemonic = "aware volcano brave drip range adult rare rough typical timber receive lunch";
+var mnemonic = "tray fiscal response pole combine kiss have forest betray chapter frozen lend";

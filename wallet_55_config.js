@@ -1,1 +1,1 @@
-var mnemonic = "brief coil purpose slice suspect creek unit crouch blossom pause shaft person";
+var mnemonic = "false muffin creek gather source gold drastic journey crouch arrest name town";

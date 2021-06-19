@@ -1,1 +1,1 @@
-var mnemonic = "black hair boring gloom spring notice exact island panel fitness ten spread";
+var mnemonic = "blue increase ring build noble bullet hobby unfold symbol appear spider stove";

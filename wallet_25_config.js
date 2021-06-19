@@ -1,1 +1,1 @@
-var mnemonic = "home creek place ordinary alien extra genre stock survey gravity thought ready";
+var mnemonic = "bright artist protect number chimney broom wear jelly devote cabin nest poet";

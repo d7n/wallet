@@ -1,1 +1,1 @@
-var mnemonic = "cool era suggest upper away era deer rate remind spend guitar budget";
+var mnemonic = "history check need two visit possible alpha expose quantum shadow act enlist";

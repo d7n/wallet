@@ -1,1 +1,1 @@
-var mnemonic = "toy puzzle pulse ginger lecture trim gauge script tool shift forget visual";
+var mnemonic = "awake tower old mean soft include tunnel autumn hood dwarf clerk account";

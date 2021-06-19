@@ -1,1 +1,1 @@
-var mnemonic = "survey height lobster dinosaur pride suffer carry artwork defy boss price yellow";
+var mnemonic = "myth logic leisure vanish intact dice slab current actor they purity shaft";

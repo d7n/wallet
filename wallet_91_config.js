@@ -1,1 +1,1 @@
-var mnemonic = "offer shrug object vacant become smile clog anger steel six poverty vehicle";
+var mnemonic = "hour cotton drastic squeeze lunar top grass evoke pelican doctor never lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "project alien burger sauce run spice type smile fluid strategy portion lobster";
+var mnemonic = "suffer oppose manual life marine during pause program habit tiny net tomato";

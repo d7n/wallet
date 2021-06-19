@@ -1,1 +1,1 @@
-var mnemonic = "debris filter camera shiver similar sentence skill decade shoot control tumble oyster";
+var mnemonic = "picture inject surface token shop nothing risk vehicle obey bridge acid upgrade";

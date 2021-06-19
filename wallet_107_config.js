@@ -1,1 +1,1 @@
-var mnemonic = "female bridge harvest cigar outside ethics scheme acquire jungle gate dentist badge";
+var mnemonic = "fluid visit deer patrol catalog dog hover cattle park poverty acquire carbon";

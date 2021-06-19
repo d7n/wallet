@@ -1,1 +1,1 @@
-var mnemonic = "snap echo net orphan deer champion reopen sound sand mother milk elbow";
+var mnemonic = "grit donor join snow above inner diary rally polar custom dutch trick";

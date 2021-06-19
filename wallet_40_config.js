@@ -1,1 +1,1 @@
-var mnemonic = "people slice today expand write dentist super hood tape evolve humor staff";
+var mnemonic = "sauce leaf aware secret confirm calm neither expose laptop fault own success";

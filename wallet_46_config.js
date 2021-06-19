@@ -1,1 +1,1 @@
-var mnemonic = "luggage garbage hard diesel type steak prosper pear sock asset critic ribbon";
+var mnemonic = "vicious garden loop dawn gas quality gesture coral wood right foot salon";

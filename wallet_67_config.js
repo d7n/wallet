@@ -1,1 +1,1 @@
-var mnemonic = "wire ribbon garbage lazy onion prevent clay wreck author bargain spawn inquiry";
+var mnemonic = "swallow bottom captain roast census hard moral volcano file capable nation opera";

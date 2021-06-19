@@ -1,1 +1,1 @@
-var mnemonic = "ivory crush kidney couple body donate choice outdoor knock zoo early swallow";
+var mnemonic = "couch draft marriage outer hole alarm obey ordinary stock relief use pretty";

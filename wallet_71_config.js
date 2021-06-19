@@ -1,1 +1,1 @@
-var mnemonic = "claim chronic regular clever mansion equal napkin board unknown rack deny frozen";
+var mnemonic = "gym water erupt question brass salute witness process girl frog dawn color";

@@ -1,1 +1,1 @@
-var mnemonic = "modify property shadow gate diamond ahead apology polar pool wreck size pledge";
+var mnemonic = "major injury divide early castle educate rocket chalk bring reflect acoustic forward";

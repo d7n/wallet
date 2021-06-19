@@ -1,1 +1,1 @@
-var mnemonic = "feed skate blind rain fold ball torch abuse payment trash useless burst";
+var mnemonic = "holiday bitter gold worth south install stand renew crowd mix upper twist";

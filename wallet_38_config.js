@@ -1,1 +1,1 @@
-var mnemonic = "ridge still hurdle lucky also purse glue elder arrow theory tragic furnace";
+var mnemonic = "arrest crowd card bundle loan game very address float second satoshi tell";

@@ -1,1 +1,1 @@
-var mnemonic = "session salmon next rough legend shy cool axis question rule silk segment";
+var mnemonic = "unable width program tomato outside myth primary shop turn now gain flash";

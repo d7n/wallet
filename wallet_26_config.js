@@ -1,1 +1,1 @@
-var mnemonic = "lava blast pulse input lobster power fetch then artefact broccoli reflect pottery";
+var mnemonic = "old breeze exchange middle expect fortune south order document million diamond method";

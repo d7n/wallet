@@ -1,1 +1,1 @@
-var mnemonic = "vast slot evoke defy crater wheel auto impulse inmate spatial popular add";
+var mnemonic = "shaft ankle brother hobby timber tuna canvas decrease employ satisfy relax actual";

@@ -1,1 +1,1 @@
-var mnemonic = "during word strategy century mule blame lazy crunch fall truly lion judge";
+var mnemonic = "error swap horse close know duty weasel flush shallow sniff safe guard";

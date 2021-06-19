@@ -1,1 +1,1 @@
-var mnemonic = "school foster virtual cushion stove aisle mask mad gentle resist staff chat";
+var mnemonic = "oxygen gown minor trumpet powder tail remove pistol welcome reward check pluck";

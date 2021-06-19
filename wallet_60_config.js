@@ -1,1 +1,1 @@
-var mnemonic = "offer tribe annual forest shrimp salmon income abuse find obvious pigeon harsh";
+var mnemonic = "soon install spot please vanish dash frozen you learn salon spider embark";
