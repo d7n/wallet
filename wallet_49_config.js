@@ -1,1 +1,1 @@
-var mnemonic = "choose hour verb music radar pioneer volume broccoli second happy dirt barely";
+var mnemonic = "fold album kangaroo oyster undo settle brief vacuum hungry stove radar access";

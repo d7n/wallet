@@ -1,1 +1,1 @@
-var mnemonic = "remove sausage flash snack marble task emotion desert between ten slim enemy";
+var mnemonic = "drift mosquito island move tennis must dance panic object wrestle venture earn";

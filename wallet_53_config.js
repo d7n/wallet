@@ -1,1 +1,1 @@
-var mnemonic = "ten swap ivory pass credit civil pig primary elegant oak regular script";
+var mnemonic = "lumber cover ignore inflict panther warm faculty nothing across lumber annual aware";

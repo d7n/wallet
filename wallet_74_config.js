@@ -1,1 +1,1 @@
-var mnemonic = "desk decade room fit pause game proud tank option fly ship jar";
+var mnemonic = "marble weasel wreck donkey tone market flush marriage lake unit iron taste";

@@ -1,1 +1,1 @@
-var mnemonic = "short wrap dice express suit derive throw trigger lumber clean pelican combine";
+var mnemonic = "divorce please owner domain rude arrow scene kid occur jungle wish half";

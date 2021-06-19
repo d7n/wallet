@@ -1,1 +1,1 @@
-var mnemonic = "coin practice drive menu rain quote void nurse comic improve frown cabbage";
+var mnemonic = "creek dove mimic fix region chapter resource silly whale multiply elbow brand";

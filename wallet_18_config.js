@@ -1,1 +1,1 @@
-var mnemonic = "view push tell draft polar also vacant crucial protect search item poem";
+var mnemonic = "erupt cradle special stable pen situate dumb aspect barely use habit gym";

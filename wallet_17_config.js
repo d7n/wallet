@@ -1,1 +1,1 @@
-var mnemonic = "dignity define meat smoke test seat roof build alone weapon orient meadow";
+var mnemonic = "blossom arrest embody text limb surge alcohol moon stuff swear material seven";

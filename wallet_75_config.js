@@ -1,1 +1,1 @@
-var mnemonic = "cool arena ozone make tuition team sample drum must spawn velvet giant";
+var mnemonic = "earn salon promote plug zoo avocado inner vanish because twenty until medal";

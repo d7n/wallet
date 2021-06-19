@@ -1,1 +1,1 @@
-var mnemonic = "business program frequent priority valley census morning casino general protect acquire first";
+var mnemonic = "cat sample want burst good poem shy clay feel parade pause include";

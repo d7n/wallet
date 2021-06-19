@@ -1,1 +1,1 @@
-var mnemonic = "please crowd connect trust kit hope auto wheel profit immense idle tackle";
+var mnemonic = "rescue rule bar crouch captain gather knock south local affair disease trumpet";

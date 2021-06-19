@@ -1,1 +1,1 @@
-var mnemonic = "board broom vehicle consider pelican swing route improve exercise inside confirm lazy";
+var mnemonic = "crack critic demand base quick high churn ritual rich funny mountain cage";

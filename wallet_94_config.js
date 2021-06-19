@@ -1,1 +1,1 @@
-var mnemonic = "firm later spot use cook eager decorate flower sing empower mouse receive";
+var mnemonic = "horn crater rib donate scheme borrow add blue produce taste bar transfer";

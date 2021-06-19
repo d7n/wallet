@@ -1,1 +1,1 @@
-var mnemonic = "rug draw major mango kidney budget tired consider glimpse sound library economy";
+var mnemonic = "razor work sniff capital book shine music faint barely liquid rib sketch";

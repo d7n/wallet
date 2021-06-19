@@ -1,1 +1,1 @@
-var mnemonic = "old news recipe fantasy edit lumber verify wire veteran pledge fiber sad";
+var mnemonic = "hover enough fashion project dwarf female issue distance tell dismiss legend island";

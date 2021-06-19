@@ -1,1 +1,1 @@
-var mnemonic = "claim rookie chalk spend speed empty apple topic draw leader segment wear";
+var mnemonic = "marine gift edit lobster wheat grow kangaroo increase layer drastic disorder spray";

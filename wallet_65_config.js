@@ -1,1 +1,1 @@
-var mnemonic = "never season edge antique glance pole dumb evolve nature room sphere saddle";
+var mnemonic = "oppose universe snow travel stool gather ketchup wonder cost wage ugly bracket";

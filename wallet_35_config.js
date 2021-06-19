@@ -1,1 +1,1 @@
-var mnemonic = "attack play spin minute neutral supreme visual vibrant thumb differ few make";
+var mnemonic = "service survey bike blouse coffee online result nice blame beauty witness cruise";

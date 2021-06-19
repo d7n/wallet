@@ -1,1 +1,1 @@
-var mnemonic = "glue check fish broccoli adjust shove adapt save swarm sight best coin";
+var mnemonic = "portion neither market mother room year cactus fun code evidence office clever";

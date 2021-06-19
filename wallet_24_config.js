@@ -1,1 +1,1 @@
-var mnemonic = "invite rookie boost silk forum pink wish provide sibling spoil blame dynamic";
+var mnemonic = "right media symptom firm silk pattern advance upgrade heavy lesson fiction chimney";

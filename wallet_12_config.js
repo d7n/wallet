@@ -1,1 +1,1 @@
-var mnemonic = "ready icon filter banner observe notable between resource gun apology scatter bind";
+var mnemonic = "jar swap ordinary life sick lamp rather travel wreck census alley reject";

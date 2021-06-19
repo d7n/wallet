@@ -1,1 +1,1 @@
-var mnemonic = "apart prize trophy imitate humor favorite slight fatigue joy verify absorb hybrid";
+var mnemonic = "gown true iron office void prevent roast title bus lab dose element";

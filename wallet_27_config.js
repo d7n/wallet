@@ -1,1 +1,1 @@
-var mnemonic = "lecture radar suit opera drill sniff fat voice art pizza aisle outer";
+var mnemonic = "select degree pudding blade detail detect burger general excuse prosper useless must";

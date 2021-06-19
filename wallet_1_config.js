@@ -1,1 +1,1 @@
-var mnemonic = "tennis whale midnight march hedgehog kidney middle mystery until daughter cushion throw";
+var mnemonic = "festival pill fruit crack vanish across switch still earn total zoo awake";

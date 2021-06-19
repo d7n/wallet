@@ -1,1 +1,1 @@
-var mnemonic = "quick humble book maze bunker help dignity else science pioneer orient carpet";
+var mnemonic = "broken garment demise erupt frost sentence trap logic diesel control fluid print";

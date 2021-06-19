@@ -1,1 +1,1 @@
-var mnemonic = "muscle pumpkin wheat invest stomach shock cactus paddle tide bike cloud expand";
+var mnemonic = "clay orphan fit poem absent adjust priority planet this tape artwork barrel";

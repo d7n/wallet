@@ -1,1 +1,1 @@
-var mnemonic = "enjoy small casino crazy horror member glow honey when abstract divide town";
+var mnemonic = "approve canyon never extend breeze leg alpha differ fluid able midnight idea";

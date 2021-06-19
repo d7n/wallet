@@ -1,1 +1,1 @@
-var mnemonic = "salon system sheriff suffer fortune evidence industry width alley burst method equal";
+var mnemonic = "decade wild sick midnight alarm kiss wheel motion spoon client absent walnut";

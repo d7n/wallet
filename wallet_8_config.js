@@ -1,1 +1,1 @@
-var mnemonic = "visa shrug awake caution trend volcano age duty monkey image amazing wall";
+var mnemonic = "keep hamster fun omit ocean butter cotton spare emerge curious palm danger";

@@ -1,1 +1,1 @@
-var mnemonic = "pass joke ritual size common dragon daring hungry federal tattoo merit tag";
+var mnemonic = "come valley lemon thumb vapor spin flock season trigger wing pencil creek";

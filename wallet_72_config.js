@@ -1,1 +1,1 @@
-var mnemonic = "acoustic surround armor member album oven maple erode unfold census airport estate";
+var mnemonic = "address gold empower style grunt segment axis print vault merit correct dose";

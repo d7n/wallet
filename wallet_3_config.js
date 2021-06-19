@@ -1,1 +1,1 @@
-var mnemonic = "rail fruit filter fantasy auction fury insect casual biology tooth catalog post";
+var mnemonic = "off stomach core energy lobster photo congress output mercy ten trouble arrive";

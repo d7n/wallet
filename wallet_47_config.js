@@ -1,1 +1,1 @@
-var mnemonic = "scatter topple math day photo machine poverty idle coral crush source hockey";
+var mnemonic = "arm still drip scout twin dwarf drum claw roof direct muscle ski";

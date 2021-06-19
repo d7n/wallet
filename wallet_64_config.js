@@ -1,1 +1,1 @@
-var mnemonic = "swamp beef divert speak wreck duck rate wild robot hair involve front";
+var mnemonic = "bulk slush top learn candy razor power camp disagree melody draft come";

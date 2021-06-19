@@ -1,1 +1,1 @@
-var mnemonic = "dial donate notable flight wet hour balcony ozone pyramid analyst repair actual";
+var mnemonic = "diesel act join tissue elder wreck fork flip taxi pool defense vault";

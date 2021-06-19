@@ -1,1 +1,1 @@
-var mnemonic = "learn conduct cube autumn combine copy circle bamboo pluck obtain walnut quantum";
+var mnemonic = "horse balcony museum quantum ship myself current virtual before mix raccoon run";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado father trigger guess boat matter stumble spot such bleak mandate rude";
+var mnemonic = "fetch walk orange lottery rubber frost together obtain rifle replace distance seven";

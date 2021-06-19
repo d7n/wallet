@@ -1,1 +1,1 @@
-var mnemonic = "tortoise reveal elevator truth gold laugh wash dignity leader tuna document method";
+var mnemonic = "unfold pretty achieve forget camp wisdom random knife intact remove coach wreck";

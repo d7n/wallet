@@ -1,1 +1,1 @@
-var mnemonic = "duck fetch monkey attack satoshi pen play lesson ketchup vivid dose elder";
+var mnemonic = "beach stone later tired vocal snake lecture dawn glass attend miracle differ";

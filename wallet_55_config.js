@@ -1,1 +1,1 @@
-var mnemonic = "transfer milk man submit orbit crop dish fish remain exhibit system flock";
+var mnemonic = "pulp safe surprise exhaust response comic minute system shadow rival sting april";

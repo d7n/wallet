@@ -1,1 +1,1 @@
-var mnemonic = "live exact rotate case rival awkward wheat cement vintage extend income ozone";
+var mnemonic = "meat seat tip major company negative valley analyst beach enough garbage window";

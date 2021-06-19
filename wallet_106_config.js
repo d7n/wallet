@@ -1,1 +1,1 @@
-var mnemonic = "couple genre two junior ancient deer cube move digital fix brother protect";
+var mnemonic = "more ecology gadget twin now hurry category pledge news marriage popular wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "forget rocket toast route attitude tomorrow ahead girl auto obey spring early";
+var mnemonic = "drive van credit page appear rocket dad stuff pulse extra hand truth";

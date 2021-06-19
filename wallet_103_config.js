@@ -1,1 +1,1 @@
-var mnemonic = "trap jewel scissors glance between board wave solid change chat gaze icon";
+var mnemonic = "tip either wish stomach wait conduct gloom rapid label mountain burden injury";

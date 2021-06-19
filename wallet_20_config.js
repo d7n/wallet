@@ -1,1 +1,1 @@
-var mnemonic = "wood hobby february mimic bring purity robust suffer shoulder drive can march";
+var mnemonic = "swap diesel raise sea solve travel almost chaos silly breeze captain curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "choose admit illness october farm valid safe disagree blood monitor electric december";
+var mnemonic = "train wrestle hurdle scorpion ethics close salmon health write hole kiss author";

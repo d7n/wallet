@@ -1,1 +1,1 @@
-var mnemonic = "security soft tomato open accuse bonus guard unable receive faith snow evoke";
+var mnemonic = "that tray still lawn cinnamon rose cheese depth conduct blur dizzy inject";

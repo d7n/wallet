@@ -1,1 +1,1 @@
-var mnemonic = "inquiry common energy uphold upper exhaust empower outer cherry fresh witness add";
+var mnemonic = "feature joy around gloom loud fabric bicycle type gate pink erode pulse";

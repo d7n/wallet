@@ -1,1 +1,1 @@
-var mnemonic = "bus power skirt film cause veteran nuclear sauce wheel unveil fever home";
+var mnemonic = "rude where jaguar cable company another mercy canvas kangaroo harvest little flock";

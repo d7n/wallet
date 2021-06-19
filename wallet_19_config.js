@@ -1,1 +1,1 @@
-var mnemonic = "army mobile auto rather drum margin boost motion crunch dawn chapter knock";
+var mnemonic = "oval category coyote clap broom random laugh warrior elbow plunge curtain nut";

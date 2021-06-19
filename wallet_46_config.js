@@ -1,1 +1,1 @@
-var mnemonic = "enhance frame upon monster leopard supply wild sick panda clog draw win";
+var mnemonic = "adjust other hundred suit market tail dynamic hill ginger core ticket upgrade";

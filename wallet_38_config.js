@@ -1,1 +1,1 @@
-var mnemonic = "bread truth also plastic wagon weapon nothing jeans cost daring shaft basic";
+var mnemonic = "expect unveil october fury vendor zebra attend evolve execute mixture tomorrow kit";

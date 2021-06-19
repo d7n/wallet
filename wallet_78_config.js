@@ -1,1 +1,1 @@
-var mnemonic = "flame health street weekend dawn enable okay invest right fiber act polar";
+var mnemonic = "neck fish embody glove survey reveal oak toe steak dad merge link";

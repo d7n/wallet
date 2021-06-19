@@ -1,1 +1,1 @@
-var mnemonic = "curve duck boring sister stadium rough tower caution weasel betray antenna phone";
+var mnemonic = "pony dish ticket wire olympic ketchup february stick trade nuclear love mask";

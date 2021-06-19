@@ -1,1 +1,1 @@
-var mnemonic = "rule chicken you lunch suit rice good donor edit labor hero word";
+var mnemonic = "sugar grunt essence fantasy mechanic long reunion nephew knife talk leader tenant";

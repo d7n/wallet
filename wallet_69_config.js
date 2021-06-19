@@ -1,1 +1,1 @@
-var mnemonic = "spray never step budget orange talk sun engage harvest aware avoid dinosaur";
+var mnemonic = "exchange wage false behave immune setup foam limb orange spoon loyal distance";

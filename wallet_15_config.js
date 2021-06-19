@@ -1,1 +1,1 @@
-var mnemonic = "arena couple fork flash impose seed result strategy barrel grid already east";
+var mnemonic = "science speak put usage spend hotel force vibrant warrior client find tag";

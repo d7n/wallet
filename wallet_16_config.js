@@ -1,1 +1,1 @@
-var mnemonic = "provide tooth benefit among embark oven save glance twin soft blast clarify";
+var mnemonic = "daring inmate spawn renew script viable december abstract wrestle reject goddess march";

@@ -1,1 +1,1 @@
-var mnemonic = "pear stove pattern guilt choice target depth tennis cloth inmate minimum split";
+var mnemonic = "entire sketch wife cereal sell close drill rule depth second dove gun";

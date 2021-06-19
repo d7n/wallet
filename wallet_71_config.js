@@ -1,1 +1,1 @@
-var mnemonic = "pass era give luggage birth enact lottery play fancy include inhale flip";
+var mnemonic = "season interest napkin wait broken evoke topic erupt limb animal inherit glide";

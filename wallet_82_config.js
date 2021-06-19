@@ -1,1 +1,1 @@
-var mnemonic = "cotton raven immense profit topic merry aware pizza devote onion chase feed";
+var mnemonic = "tortoise area wagon say suggest dizzy trouble armed aspect detail crew forum";

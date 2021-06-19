@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow donor trim rescue sudden address coyote sphere side scene portion bread";
+var mnemonic = "among novel tenant account moral relief dismiss update mule empty example need";

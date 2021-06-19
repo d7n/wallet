@@ -1,1 +1,1 @@
-var mnemonic = "armed hospital print daughter eternal isolate picnic history provide distance drift test";
+var mnemonic = "flip impact build sample east couple verb win velvet dog blossom remind";

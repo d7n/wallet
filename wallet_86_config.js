@@ -1,1 +1,1 @@
-var mnemonic = "pig inform impact clown ticket enlist sail talent one inject clip utility";
+var mnemonic = "awake ahead stomach dolphin express crime flame wool half acquire enforce spider";

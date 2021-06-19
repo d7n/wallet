@@ -1,1 +1,1 @@
-var mnemonic = "rhythm stadium quarter vessel scan summer phone december inside fiber punch senior";
+var mnemonic = "close shuffle mammal wrestle solar crop inch autumn giraffe neck illegal calm";

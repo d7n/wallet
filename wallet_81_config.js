@@ -1,1 +1,1 @@
-var mnemonic = "rug cricket remain near discover render reunion merge luggage moral achieve cup";
+var mnemonic = "unhappy post police style tomato royal enhance miss surface bundle scatter eternal";

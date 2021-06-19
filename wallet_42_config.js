@@ -1,1 +1,1 @@
-var mnemonic = "suspect embark lazy romance impact near twenty payment secret rhythm mass assist";
+var mnemonic = "famous hair unlock neck razor water bachelor wisdom catalog nasty response age";

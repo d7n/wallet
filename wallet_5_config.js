@@ -1,1 +1,1 @@
-var mnemonic = "all kick trial diesel sight orange divorce skate pulp mouse oblige own";
+var mnemonic = "leader chicken panic hurt muffin define language grass apart beauty trick satoshi";

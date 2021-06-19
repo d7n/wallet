@@ -1,1 +1,1 @@
-var mnemonic = "water finger knock catch modify gold jelly future swamp horror canal butter";
+var mnemonic = "actual great easily census water dune reflect ability butter minute twelve human";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare remember depth zone stove gold hunt sting border air polar habit";
+var mnemonic = "table purity vessel custom woman theme shadow setup topple language tone vital";

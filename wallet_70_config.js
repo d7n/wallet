@@ -1,1 +1,1 @@
-var mnemonic = "ahead actual appear shoulder lava enforce merit shuffle veteran pair force improve";
+var mnemonic = "west reform slam various net middle decrease mind rough master float setup";

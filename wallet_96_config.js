@@ -1,1 +1,1 @@
-var mnemonic = "naive mountain cliff enforce custom segment zebra day equip aware flush spoon";
+var mnemonic = "wood aerobic rubber crop keep basic symbol pioneer medal element provide install";

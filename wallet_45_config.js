@@ -1,1 +1,1 @@
-var mnemonic = "unique soccer draw become immense lyrics tooth ladder mistake coyote field element";
+var mnemonic = "flat entry budget picture amazing movie symbol august figure essence black involve";

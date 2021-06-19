@@ -1,1 +1,1 @@
-var mnemonic = "verb box dune trick other rate board dawn tired invite jazz afford";
+var mnemonic = "space dial simple lyrics tiger cream apart warm sleep music field affair";

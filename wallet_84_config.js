@@ -1,1 +1,1 @@
-var mnemonic = "scrap accident share dish occur domain absurd cover coast online eternal panel";
+var mnemonic = "sausage embark find raccoon upper right erosion alarm lonely vessel dial basic";

@@ -1,1 +1,1 @@
-var mnemonic = "trumpet mimic dice pink obvious then attitude security sausage club couple fence";
+var mnemonic = "dry nut battle pen torch buffalo bamboo luggage height dismiss skirt deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "expire blossom yellow faith census useful affair answer pet need trim gossip";
+var mnemonic = "proud sibling connect jacket able capital embark blood know story often soldier";

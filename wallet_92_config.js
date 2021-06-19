@@ -1,1 +1,1 @@
-var mnemonic = "fame mind library juice tree beauty suspect alert mirror jazz buddy outer";
+var mnemonic = "job side spell hunt verb return liberty knife unable ride gasp invite";

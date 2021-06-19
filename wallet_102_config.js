@@ -1,1 +1,1 @@
-var mnemonic = "acquire shove road goose maid network connect rhythm lab dish pumpkin decorate";
+var mnemonic = "shrug bronze inform congress agree radar fetch salt lucky march walk dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "differ leg early impulse rug clutch token oppose rhythm midnight advance shine";
+var mnemonic = "rescue please proud crouch save thrive elite garden firm novel mushroom disorder";

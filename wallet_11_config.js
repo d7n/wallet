@@ -1,1 +1,1 @@
-var mnemonic = "guilt siege dizzy tribe whisper blouse radar planet submit fetch easy enhance";
+var mnemonic = "hungry seminar eight almost cruel region luggage sunny scorpion region van pink";

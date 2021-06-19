@@ -1,1 +1,1 @@
-var mnemonic = "earn sorry junk six flat leopard topple cable fun joke awake ceiling";
+var mnemonic = "aspect destroy point journey cloth help arrest plug wall captain divorce twist";

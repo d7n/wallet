@@ -1,1 +1,1 @@
-var mnemonic = "hawk taste short peasant drip physical mimic sponsor bicycle snow neutral wash";
+var mnemonic = "enjoy syrup fiscal output peasant cage figure curious where anxiety inside behind";

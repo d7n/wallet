@@ -1,1 +1,1 @@
-var mnemonic = "empty toilet above narrow legal marriage dad walk mammal equal bronze penalty";
+var mnemonic = "room clerk time skull chief multiply faith pair dog dizzy blood enroll";

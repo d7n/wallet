@@ -1,1 +1,1 @@
-var mnemonic = "lawn account weather mansion damage ritual shuffle banana future bitter birth turn";
+var mnemonic = "clutch argue silent prepare lizard olympic column jelly fancy weekend few rabbit";

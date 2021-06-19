@@ -1,1 +1,1 @@
-var mnemonic = "cancel sketch disease viable lift hub noble prevent garment bargain employ unveil";
+var mnemonic = "save will ship intact address between cake hurdle distance fee artwork say";

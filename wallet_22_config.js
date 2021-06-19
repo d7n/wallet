@@ -1,1 +1,1 @@
-var mnemonic = "hero useless mimic corn trend chimney liberty witness connect exhibit surge artist";
+var mnemonic = "promote moon maze slogan annual fence bulb country humble jazz time impose";

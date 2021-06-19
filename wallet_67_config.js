@@ -1,1 +1,1 @@
-var mnemonic = "digital loop security name day produce silly code meadow helmet style unfair";
+var mnemonic = "exit flip company chest until goat merge tongue jelly purchase ask erosion";
