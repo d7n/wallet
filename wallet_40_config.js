@@ -1,1 +1,1 @@
-var mnemonic = "knock supreme crumble cactus mouse grit extra sing fade worry warm accident";
+var mnemonic = "capital notice hello relief impose clip course option vanish earth subject zoo";

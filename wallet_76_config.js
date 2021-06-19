@@ -1,1 +1,1 @@
-var mnemonic = "bonus color aware armed junior alien property since bike cherry exist reform";
+var mnemonic = "bring ahead chunk proof call service fish coyote treat bundle sweet flash";

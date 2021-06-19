@@ -1,1 +1,1 @@
-var mnemonic = "bird whisper urban guitar civil divorce come glass horse frost shoe security";
+var mnemonic = "cable addict vessel theory scheme drama junk elder equal assist member affair";

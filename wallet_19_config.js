@@ -1,1 +1,1 @@
-var mnemonic = "legal cabin oyster giggle hollow junior match beauty rely fashion initial usual";
+var mnemonic = "casual crater wonder work clarify forget reform immune lecture nation purse illegal";

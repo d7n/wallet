@@ -1,1 +1,1 @@
-var mnemonic = "canoe roast shine hair prepare miracle tray crane peanut client salt gauge";
+var mnemonic = "flower dumb crawl entry anger appear office thumb soup pluck zero tooth";

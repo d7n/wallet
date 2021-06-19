@@ -1,1 +1,1 @@
-var mnemonic = "sphere enforce chef avocado source coconut puzzle plunge across mind lumber hammer";
+var mnemonic = "refuse shove bulk destroy erase fault spy miracle error exotic document mango";

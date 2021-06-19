@@ -1,1 +1,1 @@
-var mnemonic = "inhale waste any desert merry guilt deputy popular segment unveil rice now";
+var mnemonic = "movie patrol ocean oblige capable unlock message nephew apology truth warrior public";

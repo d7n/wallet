@@ -1,1 +1,1 @@
-var mnemonic = "exercise flower mobile behind obscure home rely bleak swap squeeze always upset";
+var mnemonic = "spare cake print capital autumn salute lady inherit celery kick multiply harbor";

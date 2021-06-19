@@ -1,1 +1,1 @@
-var mnemonic = "viable uncover blossom brand boy siren thing short usage scale thunder adjust";
+var mnemonic = "book cross blue arctic weasel duck upper blossom labor add cheese orphan";

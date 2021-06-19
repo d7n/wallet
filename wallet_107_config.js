@@ -1,1 +1,1 @@
-var mnemonic = "edge hurry attitude choice crater damage december budget luggage disagree virtual toss";
+var mnemonic = "gown surface tide genuine carry crawl diary school enter provide transfer gun";

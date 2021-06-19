@@ -1,1 +1,1 @@
-var mnemonic = "main stick ivory april bundle lunar rain verify into ripple follow leader";
+var mnemonic = "salmon portion picture heart provide fiscal ski task lake warfare runway olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "network survey surface clog clutch parade course luxury merit waste frog way";
+var mnemonic = "there weapon quote churn athlete cricket avoid foot destroy super renew viable";

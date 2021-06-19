@@ -1,1 +1,1 @@
-var mnemonic = "page print toddler shine glimpse still train more mask truth donkey category";
+var mnemonic = "more pioneer pact process kangaroo today force buzz chaos kiwi symbol short";

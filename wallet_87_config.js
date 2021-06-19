@@ -1,1 +1,1 @@
-var mnemonic = "boring long wrong region offer scan swap stock library ugly timber seek";
+var mnemonic = "badge peace diet lunch cry garage figure kiss kit control tourist setup";

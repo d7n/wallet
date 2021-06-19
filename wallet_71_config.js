@@ -1,1 +1,1 @@
-var mnemonic = "obvious license nuclear glass injury neutral health please capable sustain wild toilet";
+var mnemonic = "original patient share property edge ketchup regular front design alpha pyramid slide";

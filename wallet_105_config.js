@@ -1,1 +1,1 @@
-var mnemonic = "stadium minute bonus cloud wave license online insane oven mango carpet lock";
+var mnemonic = "estate drill icon spawn garbage also poem emotion grab congress combine gold";

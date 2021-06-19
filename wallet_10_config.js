@@ -1,1 +1,1 @@
-var mnemonic = "embark dose spoil very gesture present property august ensure exact abandon purity";
+var mnemonic = "flip bag alter fever mirror mercy dove any vibrant flag wool lava";

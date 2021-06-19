@@ -1,1 +1,1 @@
-var mnemonic = "clock umbrella twice atom wing small border wheel phrase trap armed author";
+var mnemonic = "stone casino target couch present tackle shed pumpkin sunny feel panel rhythm";

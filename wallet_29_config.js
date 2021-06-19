@@ -1,1 +1,1 @@
-var mnemonic = "catalog actor polar physical large crater tilt potato cousin lend best banner";
+var mnemonic = "exercise dinner wire detect rude dust nest arrow beyond mirror cat fix";

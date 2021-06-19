@@ -1,1 +1,1 @@
-var mnemonic = "day argue gaze turkey input sell rough vanish affair retire frequent course";
+var mnemonic = "warrior orient castle hold dilemma filter dinosaur tortoise resist surprise echo hand";

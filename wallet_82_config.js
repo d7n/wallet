@@ -1,1 +1,1 @@
-var mnemonic = "cousin tattoo damage immense cousin marriage radar eight illness health stereo pull";
+var mnemonic = "inform mule depth critic nephew swallow net puzzle bread rare stomach kick";

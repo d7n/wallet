@@ -1,1 +1,1 @@
-var mnemonic = "slide heart soup victory execute rib junk fee company patch lucky laptop";
+var mnemonic = "shock few public crazy response nominee sweet brush six anchor near script";

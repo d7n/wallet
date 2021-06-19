@@ -1,1 +1,1 @@
-var mnemonic = "remind embrace manual video damage wise code burden demand decide popular square";
+var mnemonic = "unable rather renew print swap antenna major venue knock supreme dove entire";

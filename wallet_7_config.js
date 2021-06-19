@@ -1,1 +1,1 @@
-var mnemonic = "crumble faculty pen legend thought brave paper reunion stamp notable heart stomach";
+var mnemonic = "hover fortune frog monster loyal race talk open bird whisper mistake proud";

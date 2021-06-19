@@ -1,1 +1,1 @@
-var mnemonic = "leaf chase excite retire wolf hero air equip journey inside foster verify";
+var mnemonic = "suffer gift beyond disorder fan melody muffin bachelor pilot moon aware hope";

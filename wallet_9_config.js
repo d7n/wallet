@@ -1,1 +1,1 @@
-var mnemonic = "scrap affair wisdom visit dinosaur strategy provide wealth auto govern million pact";
+var mnemonic = "two shrug wrap flavor ask april snake impose crane mango poem daring";

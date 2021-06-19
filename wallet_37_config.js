@@ -1,1 +1,1 @@
-var mnemonic = "short gift burger shove rubber oil process street love sunset affair vacuum";
+var mnemonic = "unknown orphan salmon bullet injury stone mask ceiling arrive chest level mobile";

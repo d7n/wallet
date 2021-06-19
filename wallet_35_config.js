@@ -1,1 +1,1 @@
-var mnemonic = "decade arch famous nurse donor burden twin cactus bullet heart panic ski";
+var mnemonic = "clean wall illness ceiling shift border old brief alert century coil verify";

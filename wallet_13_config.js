@@ -1,1 +1,1 @@
-var mnemonic = "noble helmet number spring curtain range current obvious tired certain height exist";
+var mnemonic = "trumpet exclude vendor retire animal random alcohol axis light banana early peasant";

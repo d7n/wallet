@@ -1,1 +1,1 @@
-var mnemonic = "stem donate ask weather client sure rival oil split swing lens close";
+var mnemonic = "voyage swift play rare appear weird faculty ability confirm avoid over replace";

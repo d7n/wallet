@@ -1,1 +1,1 @@
-var mnemonic = "patrol inhale source sun force rural phrase uniform try alcohol useful attack";
+var mnemonic = "suffer balance gas conduct stereo seminar zoo chest tragic maple chalk art";

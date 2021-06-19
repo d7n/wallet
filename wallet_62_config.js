@@ -1,1 +1,1 @@
-var mnemonic = "myself blame uncover unusual cloud royal wear vapor fetch area symptom wood";
+var mnemonic = "seek quiz issue summer erode knock laundry crunch blanket shine gift lamp";

@@ -1,1 +1,1 @@
-var mnemonic = "final flash edge route example write kiwi paddle tribe file tower confirm";
+var mnemonic = "organ open betray erupt genius elbow vague when position boost weasel actual";

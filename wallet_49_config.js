@@ -1,1 +1,1 @@
-var mnemonic = "possible nest tank kit salon scissors obscure sting taxi scatter offer second";
+var mnemonic = "drift board tip stone office left pipe pepper thunder invest orbit memory";

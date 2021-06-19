@@ -1,1 +1,1 @@
-var mnemonic = "private donor travel field fatal know gas romance box save grid rose";
+var mnemonic = "jelly pioneer panic wrist direct invest electric mass state deputy chase entry";

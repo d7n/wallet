@@ -1,1 +1,1 @@
-var mnemonic = "crater daring cave hobby muscle mutual there vital kind critic away above";
+var mnemonic = "spring glow net good entry about hidden morning romance upon cinnamon cactus";

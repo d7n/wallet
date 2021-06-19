@@ -1,1 +1,1 @@
-var mnemonic = "lazy appear target become diet argue play october axis buffalo benefit disorder";
+var mnemonic = "sign short regular canvas emotion advance opera bid helmet tired mosquito document";

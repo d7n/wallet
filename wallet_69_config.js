@@ -1,1 +1,1 @@
-var mnemonic = "second water give grape cause need airport radar bar sick prepare melt";
+var mnemonic = "steel impulse goddess notice play quit swamp toddler holiday hawk human below";

@@ -1,1 +1,1 @@
-var mnemonic = "ready question employ trend nothing october lake mango zebra lizard trophy juice";
+var mnemonic = "cram stumble dragon relief stock minor truth vital lottery fee nominee endorse";

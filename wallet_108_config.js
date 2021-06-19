@@ -1,1 +1,1 @@
-var mnemonic = "father august flame wheel remind horror elite brave recipe access business attack";
+var mnemonic = "student unhappy people electric clump leg electric tragic liberty number favorite roast";

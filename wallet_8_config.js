@@ -1,1 +1,1 @@
-var mnemonic = "inhale october crime always over know best board gown open stairs lounge";
+var mnemonic = "lock deposit fruit about found garbage guard welcome century wisdom envelope catalog";

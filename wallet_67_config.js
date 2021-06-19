@@ -1,1 +1,1 @@
-var mnemonic = "food rebuild health cattle will wreck people below clock top also accident";
+var mnemonic = "viable bachelor access skin humor saddle object scissors flight taste piece error";

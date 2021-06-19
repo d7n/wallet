@@ -1,1 +1,1 @@
-var mnemonic = "machine ecology laptop craft setup elegant slender slam photo grow invest snake";
+var mnemonic = "east want humor animal express fee manual quantum skate update foster vote";

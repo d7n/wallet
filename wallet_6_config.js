@@ -1,1 +1,1 @@
-var mnemonic = "consider effort matter vessel follow inner lady early child slender circle primary";
+var mnemonic = "face shell spider clean zero fit jazz cool like feature filter noble";

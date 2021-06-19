@@ -1,1 +1,1 @@
-var mnemonic = "casual urge kid purse panic reward innocent jump fix hockey large canoe";
+var mnemonic = "claw earth pigeon gorilla reunion merit marble critic divert garden surge whip";

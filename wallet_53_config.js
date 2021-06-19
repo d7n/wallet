@@ -1,1 +1,1 @@
-var mnemonic = "meat shrimp exist street letter squeeze kite fall zoo receive slim grief";
+var mnemonic = "indicate normal document modify fly gas force math welcome dignity merge broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "deer aerobic force pigeon adult banana clap violin any flag file find";
+var mnemonic = "staff tornado minor file stage hello eyebrow boat strong cluster fringe meadow";

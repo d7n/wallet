@@ -1,1 +1,1 @@
-var mnemonic = "scheme balcony horn plug taste typical sea such heavy comic shy grab";
+var mnemonic = "fiction latin wagon leaf ice tomato hurdle cool bottom pill ankle essence";

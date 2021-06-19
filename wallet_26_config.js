@@ -1,1 +1,1 @@
-var mnemonic = "awful ribbon illness master salmon guilt athlete shop dune behind travel side";
+var mnemonic = "toss rose spot stem leopard leg marble tornado two shaft artwork liquid";

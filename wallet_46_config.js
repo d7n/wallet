@@ -1,1 +1,1 @@
-var mnemonic = "power enter potato behave second attract feature helmet scrub between other glance";
+var mnemonic = "empty seminar blush elegant culture mosquito merry bitter vacant humble essence source";

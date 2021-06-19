@@ -1,1 +1,1 @@
-var mnemonic = "grid weapon around sadness year ship neutral round goat zero lake door";
+var mnemonic = "wealth merit exile liar gap alone draft friend answer weather solar brush";

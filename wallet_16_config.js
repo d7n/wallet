@@ -1,1 +1,1 @@
-var mnemonic = "basket fabric dynamic lion fiscal position gasp cram perfect wealth post buzz";
+var mnemonic = "stage hover bid erosion roof fox jazz globe double final general innocent";

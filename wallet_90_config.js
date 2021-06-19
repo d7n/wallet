@@ -1,1 +1,1 @@
-var mnemonic = "dress discover describe hidden school text satisfy fox chimney top coil share";
+var mnemonic = "else reunion hat gym horse picture matrix giraffe auction mystery action often";

@@ -1,1 +1,1 @@
-var mnemonic = "embrace target iron face report embody emotion steak candy meat number clever";
+var mnemonic = "luggage tragic know ginger frown left junior inhale loop pilot open switch";

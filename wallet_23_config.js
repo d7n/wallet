@@ -1,1 +1,1 @@
-var mnemonic = "author dad exercise truth jelly medal gloom surround scare deposit music return";
+var mnemonic = "various lazy marine auto feature cradle scrub evolve alone cup display essay";

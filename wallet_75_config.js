@@ -1,1 +1,1 @@
-var mnemonic = "trust master word soon twin catalog mechanic lucky place sample basket arena";
+var mnemonic = "east alley volcano work chalk teach abandon escape fix stage remove extra";

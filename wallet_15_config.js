@@ -1,1 +1,1 @@
-var mnemonic = "possible rough inject damp card month absent reopen crawl ketchup burst blind";
+var mnemonic = "just brown cotton window chronic mask never august fun swamp brown bicycle";

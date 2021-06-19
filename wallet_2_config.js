@@ -1,1 +1,1 @@
-var mnemonic = "army sport swim couple animal various initial throw face impose wire toilet";
+var mnemonic = "only wide web depth grain guide galaxy choice wood defy oppose runway";

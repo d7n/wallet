@@ -1,1 +1,1 @@
-var mnemonic = "analyst type limb knee female kitten devote depend copy skirt gravity antique";
+var mnemonic = "salute pretty jump elegant reject keep base stairs hover leader flight unusual";

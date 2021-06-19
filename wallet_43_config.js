@@ -1,1 +1,1 @@
-var mnemonic = "fix private crawl barrel congress trophy glance female shoe kitten until damp";
+var mnemonic = "nerve famous zero cage lab space ethics elder fancy child mixture ahead";

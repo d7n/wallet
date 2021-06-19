@@ -1,1 +1,1 @@
-var mnemonic = "song rather jazz talent oval answer reject false coffee grunt satoshi purpose";
+var mnemonic = "inner clay crunch earth uncover dream rude equal bulk sister foam mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon neutral treat kitten oxygen angle swap blanket eager vague original lucky";
+var mnemonic = "wheat spoon relax lunch unique priority glimpse moon below escape simple welcome";

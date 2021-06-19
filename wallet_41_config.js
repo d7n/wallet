@@ -1,1 +1,1 @@
-var mnemonic = "detail iron dream change useful hundred dog eye beauty chunk carpet have";
+var mnemonic = "skin journey have film coconut match private awkward wire coral soup recall";

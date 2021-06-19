@@ -1,1 +1,1 @@
-var mnemonic = "safe energy cool script edit source item fluid furnace unknown approve cotton";
+var mnemonic = "adapt prefer token assist upper sun weapon picture veteran claim elephant mirror";

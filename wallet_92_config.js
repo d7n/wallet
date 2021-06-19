@@ -1,1 +1,1 @@
-var mnemonic = "volume vacant dinner floor state token lazy robust dwarf collect grunt industry";
+var mnemonic = "move tail fence crumble famous aspect clarify game maximum cream fossil sure";

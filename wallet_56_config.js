@@ -1,1 +1,1 @@
-var mnemonic = "impact strike river bargain depend defy novel depth rival muffin harsh season";
+var mnemonic = "impact summer tribe grunt enjoy gadget defy slide rule banner carbon like";

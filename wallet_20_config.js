@@ -1,1 +1,1 @@
-var mnemonic = "else choose true taxi leaf great pencil early merry goddess wonder news";
+var mnemonic = "title oblige buddy hood broken right below caught traffic coin correct random";

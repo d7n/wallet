@@ -1,1 +1,1 @@
-var mnemonic = "fatigue arch extend access coyote mouse hurdle coconut dove wait bundle arrange";
+var mnemonic = "future because engine risk grit age area slogan future approve wealth path";

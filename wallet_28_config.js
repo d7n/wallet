@@ -1,1 +1,1 @@
-var mnemonic = "crisp vague spare ball present check sentence nuclear gaze unlock become pelican";
+var mnemonic = "traffic dignity until orchard reject stable push poem mystery blue blossom dish";

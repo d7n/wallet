@@ -1,1 +1,1 @@
-var mnemonic = "shallow bean elite cattle stable today guide message until dutch snap spoil";
+var mnemonic = "hurt spatial disagree maple guard popular tunnel illness page acid mom random";

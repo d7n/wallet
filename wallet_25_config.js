@@ -1,1 +1,1 @@
-var mnemonic = "motor nuclear release clock slot oxygen lamp arrow glide dog damage hill";
+var mnemonic = "dignity domain cupboard wild fit legal engine antenna peace hamster wide found";

@@ -1,1 +1,1 @@
-var mnemonic = "play clap tunnel unusual equip increase arch trip pelican village limit oxygen";
+var mnemonic = "rack chest spare able laugh tree click wide frame search pull adult";

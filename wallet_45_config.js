@@ -1,1 +1,1 @@
-var mnemonic = "cute autumn drift sell segment window step dumb detail symptom inmate useful";
+var mnemonic = "arm sword bomb sniff mother rhythm between digital narrow pair penalty loan";

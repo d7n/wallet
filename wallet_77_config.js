@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow anchor boost water atom daughter discover jacket venture clump peanut service";
+var mnemonic = "infant dice jacket echo seed because duck point toast path october category";

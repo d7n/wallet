@@ -1,1 +1,1 @@
-var mnemonic = "master traffic legend network blush lazy ethics hello link ginger kit address";
+var mnemonic = "heart kidney fruit thought purchase pottery open rival sunset track beauty sock";

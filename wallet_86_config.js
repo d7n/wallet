@@ -1,1 +1,1 @@
-var mnemonic = "scrap refuse guitar grab vibrant furnace cloth game sail mango ridge smart";
+var mnemonic = "miss pencil fossil latin vintage hockey cash depth wonder into piano logic";

@@ -1,1 +1,1 @@
-var mnemonic = "close flavor another fragile sugar able million entry scout city hidden wait";
+var mnemonic = "gloom quit tongue market fabric glare pool car ripple axis hard analyst";

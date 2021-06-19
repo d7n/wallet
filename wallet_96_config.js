@@ -1,1 +1,1 @@
-var mnemonic = "meat resist seed now view pottery grass veteran forum focus juice sentence";
+var mnemonic = "lonely salad hundred tattoo normal panda rebel sudden cactus thing unusual garbage";

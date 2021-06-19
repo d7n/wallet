@@ -1,1 +1,1 @@
-var mnemonic = "feed outer cousin staff pitch bean scale episode visual unit essay power";
+var mnemonic = "embark adapt giraffe place card erase since upset cabbage develop describe output";

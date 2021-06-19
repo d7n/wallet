@@ -1,1 +1,1 @@
-var mnemonic = "attack purse grain churn punch version all grab lift olympic taste coyote";
+var mnemonic = "rich empower uncle adjust glove wear yellow jazz pottery spawn trick mail";

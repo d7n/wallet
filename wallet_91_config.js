@@ -1,1 +1,1 @@
-var mnemonic = "emotion glad civil swing canvas dry vague say nominee depend return behave";
+var mnemonic = "drive toe approve trumpet soap image park boat focus success skate engage";

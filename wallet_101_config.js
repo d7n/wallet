@@ -1,1 +1,1 @@
-var mnemonic = "vacant phrase december tube west stuff horn action ethics below already fee";
+var mnemonic = "sunny horn bench keep super pupil upgrade main any youth usage universe";

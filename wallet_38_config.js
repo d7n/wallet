@@ -1,1 +1,1 @@
-var mnemonic = "ridge super gate annual board step tragic february moon quit soap hub";
+var mnemonic = "loop taste void fan butter force spray stomach alone echo nose viable";

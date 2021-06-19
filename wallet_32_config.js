@@ -1,1 +1,1 @@
-var mnemonic = "custom isolate stumble field observe shadow bottom super guess whisper foil sell";
+var mnemonic = "museum winner gather fringe laundry antenna search wheel canoe meadow farm joke";

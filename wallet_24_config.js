@@ -1,1 +1,1 @@
-var mnemonic = "scissors large museum tank elite auto dilemma spray blame draw remind focus";
+var mnemonic = "holiday pill canal fortune stand virtual correct boil multiply issue second lens";

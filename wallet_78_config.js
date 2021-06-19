@@ -1,1 +1,1 @@
-var mnemonic = "change salmon better orbit wagon grunt wrist upon have vibrant neck physical";
+var mnemonic = "stadium buddy also tree reopen turn simple twist deputy educate ripple raccoon";

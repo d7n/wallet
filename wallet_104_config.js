@@ -1,1 +1,1 @@
-var mnemonic = "section voice lake vacuum party wagon have secret sibling alien letter fetch";
+var mnemonic = "comfort mansion wheel income depend mad loyal juice coin confirm armed donkey";

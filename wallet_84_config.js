@@ -1,1 +1,1 @@
-var mnemonic = "fluid brother grant loyal day endless sun medal junk visa music swamp";
+var mnemonic = "bone bulk evil daring simple siren monitor teach sell spray chaos excite";

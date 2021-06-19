@@ -1,1 +1,1 @@
-var mnemonic = "evoke impact genius chief champion door wool swift room bullet cute permit";
+var mnemonic = "galaxy wreck broccoli rice since veteran frog fall march genuine idle spy";

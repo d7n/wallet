@@ -1,1 +1,1 @@
-var mnemonic = "abuse usual endorse beyond drift spice core avocado glance worry neutral element";
+var mnemonic = "victory tube choice oven travel remain price merry gesture impulse door bus";

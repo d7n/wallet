@@ -1,1 +1,1 @@
-var mnemonic = "leaf gun edge meadow miracle boil own crush club seed large grocery";
+var mnemonic = "divide box nothing excuse army avocado develop critic rebuild ill voyage insane";

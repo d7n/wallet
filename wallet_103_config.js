@@ -1,1 +1,1 @@
-var mnemonic = "insect expect bicycle enemy saddle winter cloth south whale market fun hamster";
+var mnemonic = "lift bird exercise menu panic battle dumb grain clock winter help cherry";

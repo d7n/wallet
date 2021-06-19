@@ -1,1 +1,1 @@
-var mnemonic = "matter castle outer vicious amused top airport wisdom funny resist oyster priority";
+var mnemonic = "tone blood art urge doctor stairs pause lion apology dog strong boring";
