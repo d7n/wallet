@@ -1,1 +1,1 @@
-var mnemonic = "solution note warfare season sibling hybrid captain finger unable token eye punch";
+var mnemonic = "health chicken hidden spin kite mule reopen trip door reflect visa control";

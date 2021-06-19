@@ -1,1 +1,1 @@
-var mnemonic = "bike album tongue kitten mention veteran service alarm tuition tomorrow merit buddy";
+var mnemonic = "wealth escape mutual rib unhappy royal spot boil cabbage tail swallow need";

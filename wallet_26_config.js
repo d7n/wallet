@@ -1,1 +1,1 @@
-var mnemonic = "pulp volume artefact explain peanut pony result reflect sugar motion conduct trigger";
+var mnemonic = "slogan hold dumb dilemma burger minute artefact whale mango come cool exact";

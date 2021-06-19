@@ -1,1 +1,1 @@
-var mnemonic = "pear answer expect anxiety share miracle area vehicle rib exclude bar make";
+var mnemonic = "deer oxygen coral vault drift involve clay cake barely snow shaft day";

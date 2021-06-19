@@ -1,1 +1,1 @@
-var mnemonic = "smoke cause draft field dismiss truth spike unusual cargo minute rigid holiday";
+var mnemonic = "require leopard wing early skate noise arena bag source amateur between oven";

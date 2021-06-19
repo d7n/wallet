@@ -1,1 +1,1 @@
-var mnemonic = "detect cancel broken famous bike defense endorse canal skate run tattoo bunker";
+var mnemonic = "pupil quiz lock brief noodle enhance fever high what menu doll hammer";

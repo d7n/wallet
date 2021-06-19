@@ -1,1 +1,1 @@
-var mnemonic = "tree mass panel aware woman climb caution album design mirror dream chase";
+var mnemonic = "owner pudding oval page tube slogan arctic fan order choose crucial muffin";

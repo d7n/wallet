@@ -1,1 +1,1 @@
-var mnemonic = "toast job sentence about busy close random busy fury dinosaur fame choose";
+var mnemonic = "meadow bonus fashion flash wire close foot stay people orchard panda maid";

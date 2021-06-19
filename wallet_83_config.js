@@ -1,1 +1,1 @@
-var mnemonic = "kit laptop piece dice trash arrive prevent card wrong club verify match";
+var mnemonic = "judge draft wall daughter what trial copy axis tired armed trumpet tilt";

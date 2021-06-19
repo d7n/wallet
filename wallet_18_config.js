@@ -1,1 +1,1 @@
-var mnemonic = "battle left master hungry tribe sheriff allow alter apart surround angle brick";
+var mnemonic = "second stuff embark federal bitter wave nature fold pelican kidney lady will";

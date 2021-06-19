@@ -1,1 +1,1 @@
-var mnemonic = "food drift blanket student spring wink equip tent famous vacuum brush manual";
+var mnemonic = "degree high arrange arctic surround gate shallow abstract magic hungry oppose dash";

@@ -1,1 +1,1 @@
-var mnemonic = "snap ceiling install include uncle regret phone situate interest toy chair critic";
+var mnemonic = "jaguar believe wrong clap space harvest solid elephant slide suggest shop april";

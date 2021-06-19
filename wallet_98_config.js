@@ -1,1 +1,1 @@
-var mnemonic = "thing keen else absurd object segment fit boy oblige artwork sweet corn";
+var mnemonic = "pull input solar piece sword grit tower ball happy dream jacket floor";

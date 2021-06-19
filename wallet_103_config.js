@@ -1,1 +1,1 @@
-var mnemonic = "buzz latin umbrella normal brother during evidence rookie six height gasp blouse";
+var mnemonic = "upon ozone clever recall loop curtain enrich crack dash rough arrest square";

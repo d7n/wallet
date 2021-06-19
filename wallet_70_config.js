@@ -1,1 +1,1 @@
-var mnemonic = "between night runway raise yellow make fix glance tonight cable animal silk";
+var mnemonic = "divorce nice gadget wrestle surface scrub crush place cup scrap wisdom thought";

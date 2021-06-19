@@ -1,1 +1,1 @@
-var mnemonic = "scan dune rice people fire toy update rubber holiday case around spring";
+var mnemonic = "trigger fabric leaf sorry rotate aim safe say middle noodle voice hat";

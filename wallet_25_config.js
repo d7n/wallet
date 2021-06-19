@@ -1,1 +1,1 @@
-var mnemonic = "vacuum sense parent giant wish response sand shield cloth roof lesson winner";
+var mnemonic = "heart labor comic venue outer helmet wheat employ flip find toward horn";

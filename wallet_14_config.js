@@ -1,1 +1,1 @@
-var mnemonic = "thrive art vanish sentence crouch worth split nasty holiday casino fashion patch";
+var mnemonic = "interest design decrease family display when lens warm gun clump open dune";

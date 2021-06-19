@@ -1,1 +1,1 @@
-var mnemonic = "dad seven spike kangaroo sorry alert flush essay random merit attitude interest";
+var mnemonic = "time buddy hundred check creek silk round august drum crime spoon kiwi";

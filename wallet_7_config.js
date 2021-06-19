@@ -1,1 +1,1 @@
-var mnemonic = "throw nephew lion dawn state diet skate six muffin owner purse anger";
+var mnemonic = "case bind expect suspect similar palace hen auction cliff proof wedding birth";

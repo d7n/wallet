@@ -1,1 +1,1 @@
-var mnemonic = "initial cereal raven cactus common lazy best host acoustic ski enter music";
+var mnemonic = "solution ketchup crane doctor try appear inform ski obscure work access bleak";

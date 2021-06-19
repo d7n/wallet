@@ -1,1 +1,1 @@
-var mnemonic = "gaze lady leave bulk foot aim north cage jealous label chalk wolf";
+var mnemonic = "base license caution sponsor cruise pattern charge trouble sunset melody cute pear";

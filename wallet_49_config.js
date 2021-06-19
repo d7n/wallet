@@ -1,1 +1,1 @@
-var mnemonic = "life learn aspect future dog either toddler school spike hip tackle call";
+var mnemonic = "divide knife peace scare hero trade vocal trust acoustic dinosaur buffalo owner";

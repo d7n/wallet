@@ -1,1 +1,1 @@
-var mnemonic = "choice paddle broken head earn ginger public chunk help diamond desert fork";
+var mnemonic = "shock battle denial ostrich oil hollow notable cloth claim valve fly proof";

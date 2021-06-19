@@ -1,1 +1,1 @@
-var mnemonic = "web theme seven volume super disorder hundred certain onion frequent spirit forward";
+var mnemonic = "bicycle better tonight note risk effort dilemma rude slogan sheriff hint cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican ethics verb fruit typical abandon supreme arch attack proud cream stock";
+var mnemonic = "service protect vital spy parade apology body silver fix mesh fix caution";

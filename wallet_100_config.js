@@ -1,1 +1,1 @@
-var mnemonic = "pool tent tomorrow split wave cupboard humble tank draw nut trigger run";
+var mnemonic = "arch wage cook dream rate spell sauce sunset scissors spy nuclear immune";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut valid later whisper open truck polar year mad thrive core until";
+var mnemonic = "reduce protect drum lobster level setup later auction market miracle laptop rely";

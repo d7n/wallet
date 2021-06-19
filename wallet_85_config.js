@@ -1,1 +1,1 @@
-var mnemonic = "rigid journey ginger route skin clump bread deny corn ceiling soap left";
+var mnemonic = "merge champion panic cherry surround convince salt ankle art wrist jaguar valid";

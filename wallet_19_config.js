@@ -1,1 +1,1 @@
-var mnemonic = "arm pull news indoor knife tide punch similar melt disease uncle team";
+var mnemonic = "oak love often item tomorrow cliff stem fold miracle perfect style brown";

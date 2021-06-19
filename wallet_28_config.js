@@ -1,1 +1,1 @@
-var mnemonic = "undo detail hungry bonus link joy used solve umbrella buddy mirror dove";
+var mnemonic = "acquire layer fatal jeans argue spring tell magic denial degree tribe again";

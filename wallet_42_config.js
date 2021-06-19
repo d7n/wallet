@@ -1,1 +1,1 @@
-var mnemonic = "shop invest fragile busy drum double roast stove error square battle term";
+var mnemonic = "wave treat elder kiwi clinic enact garment torch size guide bottom wonder";

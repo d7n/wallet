@@ -1,1 +1,1 @@
-var mnemonic = "gift assist tuna uphold venue cradle width twist question city truly enrich";
+var mnemonic = "goat onion amused code duck side pudding display project penalty volcano cycle";

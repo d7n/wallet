@@ -1,1 +1,1 @@
-var mnemonic = "often rebuild elegant wear mad order decrease ethics toe ride demand oak";
+var mnemonic = "poet ski pact vicious razor young pride leave arrive bullet chuckle tackle";

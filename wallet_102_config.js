@@ -1,1 +1,1 @@
-var mnemonic = "wash remove floor volcano echo ginger nation sniff man enable badge fish";
+var mnemonic = "dynamic wage coffee divorce flavor clock duck pottery pudding visit wheat theme";

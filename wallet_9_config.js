@@ -1,1 +1,1 @@
-var mnemonic = "blue knee hurdle clever short later awake suit race also potato snack";
+var mnemonic = "argue rib convince disease rate civil document make genius crew shed suggest";

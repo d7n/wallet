@@ -1,1 +1,1 @@
-var mnemonic = "blush kind stumble husband shadow space host subway remember badge talent pupil";
+var mnemonic = "loan local solution palace swarm wide order potato used paddle bean slim";

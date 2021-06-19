@@ -1,1 +1,1 @@
-var mnemonic = "height pepper hospital bridge charge ghost spoon hero glare manual museum edge";
+var mnemonic = "winner bundle mistake bring awful learn spider love alert because trick any";

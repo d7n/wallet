@@ -1,1 +1,1 @@
-var mnemonic = "brain sphere nice learn famous step orbit beach razor satisfy silver skill";
+var mnemonic = "code sponsor obscure lunar blossom enough bench book keep decade breeze blame";

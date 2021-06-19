@@ -1,1 +1,1 @@
-var mnemonic = "bright relax wild they false couch quarter rhythm hazard art topple cat";
+var mnemonic = "focus gather blood dilemma grab zero unknown good neutral tragic hotel cheap";

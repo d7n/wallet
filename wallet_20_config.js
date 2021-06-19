@@ -1,1 +1,1 @@
-var mnemonic = "skill ranch scan antenna just all laugh deputy roof antique silver forum";
+var mnemonic = "swim again arrange medal slam puppy chief silk kitten antenna inch noble";

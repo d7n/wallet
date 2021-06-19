@@ -1,1 +1,1 @@
-var mnemonic = "merry dance huge tissue exit demise below hurdle topic argue twelve test";
+var mnemonic = "chunk body never lemon actor expose army detail dutch afford scissors palm";

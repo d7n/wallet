@@ -1,1 +1,1 @@
-var mnemonic = "truck lawn trap vacuum enroll october still attract volcano fetch surge attend";
+var mnemonic = "kind frost heavy dream galaxy giggle feel edge attend heavy mesh rose";

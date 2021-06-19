@@ -1,1 +1,1 @@
-var mnemonic = "marble jeans assist range sorry panda drill loyal refuse spare cram impulse";
+var mnemonic = "anchor ill upset online crew will loop canyon soul exit cargo earth";

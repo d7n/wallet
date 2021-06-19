@@ -1,1 +1,1 @@
-var mnemonic = "submit rare sting give document kind clown hollow mail dust garage ethics";
+var mnemonic = "input grunt candy auto canyon own strong travel neither twin dune behave";

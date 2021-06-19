@@ -1,1 +1,1 @@
-var mnemonic = "distance amused differ category vehicle twenty letter ocean raccoon execute phone tiny";
+var mnemonic = "wave size light shine emotion display teach plate ordinary plate ensure detail";

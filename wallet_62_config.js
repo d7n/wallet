@@ -1,1 +1,1 @@
-var mnemonic = "sniff layer copy tennis primary harvest equal miracle spike girl need outdoor";
+var mnemonic = "fire color below powder cigar snack clump glory galaxy olympic access pull";

@@ -1,1 +1,1 @@
-var mnemonic = "detect friend give finger hope minimum carry devote person tree remain exclude";
+var mnemonic = "tissue noodle disagree mammal act clerk idea undo husband mistake opinion curtain";

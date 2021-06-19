@@ -1,1 +1,1 @@
-var mnemonic = "forget divert produce crumble riot essay shallow enact forum trash image destroy";
+var mnemonic = "napkin vital section puppy hidden dad mention exclude bullet fix material defy";

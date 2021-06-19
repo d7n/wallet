@@ -1,1 +1,1 @@
-var mnemonic = "obey awesome shell better episode draft axis rather favorite output liquid hero";
+var mnemonic = "tomato soap unusual juice catch advance amount coast anger width biology general";

@@ -1,1 +1,1 @@
-var mnemonic = "congress ask input print imitate theory damage chalk tattoo tooth shield parent";
+var mnemonic = "impose joy bind sponsor degree tray spot fault action robust march street";

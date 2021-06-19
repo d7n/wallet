@@ -1,1 +1,1 @@
-var mnemonic = "depart inquiry parrot dolphin mandate organ invest spring topic census sign flip";
+var mnemonic = "govern sausage brass vibrant dance siege survey defy chair license divorce work";

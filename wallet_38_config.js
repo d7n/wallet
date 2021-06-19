@@ -1,1 +1,1 @@
-var mnemonic = "ecology spray outdoor humble trip pulp enforce soap unable position roof number";
+var mnemonic = "frog slide nation pumpkin innocent tag pudding loyal blame unfold grass sugar";

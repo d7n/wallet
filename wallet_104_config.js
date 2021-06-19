@@ -1,1 +1,1 @@
-var mnemonic = "parrot able kiss about angle globe sell border spot journey crucial unlock";
+var mnemonic = "soccer fiber renew van economy belt broken nerve praise dismiss large hint";

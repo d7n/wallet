@@ -1,1 +1,1 @@
-var mnemonic = "renew illness arrow okay want slow must organ next avocado bachelor screen";
+var mnemonic = "resemble school weather priority harsh citizen increase feed harbor jelly long blood";

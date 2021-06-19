@@ -1,1 +1,1 @@
-var mnemonic = "dynamic drama joke fuel girl cheap script abstract bring mail split talk";
+var mnemonic = "absurd spy author rule horror cousin sound lab blood round undo blouse";

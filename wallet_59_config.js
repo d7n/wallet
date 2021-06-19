@@ -1,1 +1,1 @@
-var mnemonic = "skate dice announce rigid borrow bracket pelican vault bone saddle loyal coyote";
+var mnemonic = "ball humble vessel monitor cheese scorpion blast example alone eyebrow hover rigid";

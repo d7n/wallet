@@ -1,1 +1,1 @@
-var mnemonic = "next plastic decrease diesel flat vague parent scene peanut now renew club";
+var mnemonic = "gain repair ready demise stage front like harvest recipe embrace delay wool";

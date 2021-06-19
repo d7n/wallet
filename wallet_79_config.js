@@ -1,1 +1,1 @@
-var mnemonic = "arena trouble cage heart damage sugar cattle logic flavor maid host beauty";
+var mnemonic = "deputy transfer nice assume wish crane hill eight biology retire mammal lizard";

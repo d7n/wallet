@@ -1,1 +1,1 @@
-var mnemonic = "latin cheese excite brick choose hen fork victory essence engine shoe helmet";
+var mnemonic = "guide home also buzz song total proud slow card neither eagle exact";

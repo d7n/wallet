@@ -1,1 +1,1 @@
-var mnemonic = "broom topic visa siege pelican swing resemble give candy erosion hello job";
+var mnemonic = "forum always wonder run better party square tray cupboard reform rate flame";

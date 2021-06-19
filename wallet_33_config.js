@@ -1,1 +1,1 @@
-var mnemonic = "liquid captain dentist interest utility demand surge crazy grid curve lizard scissors";
+var mnemonic = "lemon rebuild scale music brisk high argue athlete floor century mountain awake";

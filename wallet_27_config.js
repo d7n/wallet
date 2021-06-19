@@ -1,1 +1,1 @@
-var mnemonic = "junk magic fold lumber minute cancel topic liar endless grab never spy";
+var mnemonic = "gown embark monster render mail situate merry casino teach ice borrow wing";

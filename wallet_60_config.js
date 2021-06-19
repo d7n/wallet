@@ -1,1 +1,1 @@
-var mnemonic = "danger peace spare ready sense lamp barrel apple solid clerk double gesture";
+var mnemonic = "wage vague shrimp coyote sail coyote outer beauty damp seed actress oxygen";

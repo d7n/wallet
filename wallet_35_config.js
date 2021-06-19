@@ -1,1 +1,1 @@
-var mnemonic = "flag shoe essay today bird correct any brick glow couch host tennis";
+var mnemonic = "village magnet same mobile sing nerve economy cave crime peanut coast wrap";

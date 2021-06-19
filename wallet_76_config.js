@@ -1,1 +1,1 @@
-var mnemonic = "crystal mistake kidney kiwi cotton attract head dash dune whale someone drip";
+var mnemonic = "aspect crime vast lawsuit fury scorpion axis pear hammer deposit all congress";

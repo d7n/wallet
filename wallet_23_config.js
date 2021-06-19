@@ -1,1 +1,1 @@
-var mnemonic = "glue true genre ivory cabbage certain aspect enroll fun pupil lottery science";
+var mnemonic = "faculty pause ordinary shoe tiger feel judge actual skill brief brown merit";

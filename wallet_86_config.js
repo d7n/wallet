@@ -1,1 +1,1 @@
-var mnemonic = "version again doctor weapon calm right sand symptom develop gold thunder erosion";
+var mnemonic = "fish antenna anger scheme avocado gate blame photo survey lion pilot bridge";

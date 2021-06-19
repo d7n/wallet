@@ -1,1 +1,1 @@
-var mnemonic = "arctic cargo shrug fence theory vacuum cement control quality industry hat shed";
+var mnemonic = "cause exercise tag report sure gap cereal stable bullet taxi car toss";

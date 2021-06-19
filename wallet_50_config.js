@@ -1,1 +1,1 @@
-var mnemonic = "gift endorse again lyrics depend winter seek holiday slide battle annual bean";
+var mnemonic = "state feel social burden faith van summer juice leader sign innocent surge";

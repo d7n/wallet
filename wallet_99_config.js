@@ -1,1 +1,1 @@
-var mnemonic = "bus school sting object candy rural rack stage coyote road sad lobster";
+var mnemonic = "target pelican caution tired bleak physical hole duty faint dune hedgehog shed";

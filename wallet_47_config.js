@@ -1,1 +1,1 @@
-var mnemonic = "around friend alarm deny stage only reduce clever mask world sausage lab";
+var mnemonic = "glass struggle find deal chief wheel month apology this junk slim wisdom";

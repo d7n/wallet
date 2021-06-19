@@ -1,1 +1,1 @@
-var mnemonic = "brown scrap social grace conduct mango whip oval ranch else behind ask";
+var mnemonic = "rebel police very adapt muscle normal offer popular helmet nephew denial latin";

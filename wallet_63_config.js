@@ -1,1 +1,1 @@
-var mnemonic = "client squirrel sponsor spot absent notable frame unusual isolate sauce athlete shop";
+var mnemonic = "senior around wife race fabric rich employ neutral hurdle evolve toddler quiz";

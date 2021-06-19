@@ -1,1 +1,1 @@
-var mnemonic = "crater bird crop general age eternal lonely pair jazz south hamster ring";
+var mnemonic = "today enough female gold energy goose easy sample tiny over wine pluck";

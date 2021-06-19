@@ -1,1 +1,1 @@
-var mnemonic = "cook mail struggle ship universe grid bid casual brush very hire crew";
+var mnemonic = "fee offer elbow course kangaroo quote answer reopen upgrade echo dutch chronic";

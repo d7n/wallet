@@ -1,1 +1,1 @@
-var mnemonic = "doctor shove dinner minimum dream then abandon kit skull jazz thunder field";
+var mnemonic = "quit sunset volcano jewel hurdle come skirt sponsor knife ankle still glare";

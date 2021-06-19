@@ -1,1 +1,1 @@
-var mnemonic = "kidney joke phone piano unknown harbor wagon anxiety cry brisk flag inside";
+var mnemonic = "cluster soap prefer model flash merry rule hamster giraffe reflect spare twelve";

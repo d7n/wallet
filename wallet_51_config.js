@@ -1,1 +1,1 @@
-var mnemonic = "drip smooth suspect upon curve time minimum wheat scare way fortune sure";
+var mnemonic = "fiscal oil argue quarter swap fire grain enlist local trash prepare frown";

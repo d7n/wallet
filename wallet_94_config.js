@@ -1,1 +1,1 @@
-var mnemonic = "stock unaware mammal slow letter coast victory flavor never pony student rail";
+var mnemonic = "jaguar used once salute spend disease laugh method element ensure cycle captain";

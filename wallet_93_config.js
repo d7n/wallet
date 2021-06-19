@@ -1,1 +1,1 @@
-var mnemonic = "turn drip isolate route apology rice autumn price destroy mouse few exhaust";
+var mnemonic = "anchor inspire immense primary destroy thought attack project time between insect pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "stage favorite inhale march cart sting slogan glare stage scan eye leaf";
+var mnemonic = "scene mechanic lawsuit ridge omit aerobic rebuild pull adapt grunt digital move";

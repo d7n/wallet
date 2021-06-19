@@ -1,1 +1,1 @@
-var mnemonic = "corn filter weekend audit canoe bind glory surface estate struggle click pilot";
+var mnemonic = "foil divorce argue throw syrup dinosaur latin proud tool gym scale legend";

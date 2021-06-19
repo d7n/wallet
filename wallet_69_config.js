@@ -1,1 +1,1 @@
-var mnemonic = "jelly sugar van car slot opera network drama envelope shell galaxy work";
+var mnemonic = "disorder same sad mesh brave marine shoulder pride country hour kit offer";

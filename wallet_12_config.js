@@ -1,1 +1,1 @@
-var mnemonic = "erupt renew whale circle hotel dog picnic leopard breeze crisp device nothing";
+var mnemonic = "reject divide steel mixed cream pink impact hat expose satisfy ridge wagon";

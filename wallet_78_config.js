@@ -1,1 +1,1 @@
-var mnemonic = "remember tongue elephant friend river evil hazard again unhappy frog pilot same";
+var mnemonic = "critic tumble ocean tissue similar yard mercy later pledge accuse hire crack";

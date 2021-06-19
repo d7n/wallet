@@ -1,1 +1,1 @@
-var mnemonic = "protect eye figure round lounge bus donate affair tortoise black prefer razor";
+var mnemonic = "earn truly drastic cement canoe patient pig maze coffee slam attend gate";

@@ -1,1 +1,1 @@
-var mnemonic = "give trust system melt exchange order meat virus traffic spy atom case";
+var mnemonic = "current soccer glove swim mean exist wall wagon casual whale twice enhance";

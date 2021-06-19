@@ -1,1 +1,1 @@
-var mnemonic = "couch alter glue you excuse zoo coconut mistake birth soldier jacket present";
+var mnemonic = "unhappy bubble float scissors lock cheap use morning lucky brief sadness steak";

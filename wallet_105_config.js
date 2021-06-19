@@ -1,1 +1,1 @@
-var mnemonic = "shuffle actress stable slim then fluid virtual list often chase alert despair";
+var mnemonic = "mail street chimney dirt chronic marriage ripple attitude cinnamon reward wreck speed";

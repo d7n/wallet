@@ -1,1 +1,1 @@
-var mnemonic = "office beyond thank unusual barely rough ivory ordinary tunnel twist source dad";
+var mnemonic = "hollow deal square frequent accuse night chaos confirm decide rocket file goose";

@@ -1,1 +1,1 @@
-var mnemonic = "actress monitor faint isolate foot pilot mail topic weekend pyramid parrot main";
+var mnemonic = "powder flower blood time october force mask broccoli valley party ball embody";

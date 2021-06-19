@@ -1,1 +1,1 @@
-var mnemonic = "utility female output provide picture steel mixed man view brand rude copy";
+var mnemonic = "charge student fog office umbrella figure smart month early describe pipe stool";

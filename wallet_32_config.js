@@ -1,1 +1,1 @@
-var mnemonic = "velvet sphere nut quarter shoe want friend author bid sustain desert knife";
+var mnemonic = "pond collect vacant ship tool stove avoid frozen arrest click foil inspire";

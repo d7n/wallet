@@ -1,1 +1,1 @@
-var mnemonic = "dance luggage arena task human uncle fat ball frog pitch dragon ability";
+var mnemonic = "height hub window differ job social supply electric crouch grunt scout strategy";
