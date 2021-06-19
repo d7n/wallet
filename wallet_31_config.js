@@ -1,1 +1,1 @@
-var mnemonic = "good giant digital wonder collect gym false easy worry fluid stove credit";
+var mnemonic = "good belt drill since piano female duck picnic runway patch father annual";

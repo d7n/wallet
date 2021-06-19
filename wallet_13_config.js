@@ -1,1 +1,1 @@
-var mnemonic = "nephew wish inquiry appear female life home bitter rain solar destroy diet";
+var mnemonic = "image illness delay bicycle south adapt arrow visit glove hurt humor song";

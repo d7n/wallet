@@ -1,1 +1,1 @@
-var mnemonic = "ceiling praise estate visit wife ostrich chase throw chat damage reduce bless";
+var mnemonic = "regular taxi rail assist manual bar stage high false profit cry all";

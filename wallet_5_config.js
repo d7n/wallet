@@ -1,1 +1,1 @@
-var mnemonic = "path cream elder ritual calm churn powder brown achieve ugly ordinary coil";
+var mnemonic = "old consider collect patch either paper fiber exclude normal page unaware west";

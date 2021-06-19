@@ -1,1 +1,1 @@
-var mnemonic = "puppy dinosaur diamond switch exhaust forget fee resist knock route child finger";
+var mnemonic = "special income adult stem afraid mouse slab nasty truth round immense dad";

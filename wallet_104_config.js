@@ -1,1 +1,1 @@
-var mnemonic = "private arch used actual matrix ecology picnic favorite poverty attitude skate donkey";
+var mnemonic = "anchor cannon sting welcome weasel gym letter someone oblige wage future museum";

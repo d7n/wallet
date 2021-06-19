@@ -1,1 +1,1 @@
-var mnemonic = "error attack sail clerk fix inhale please unit glare design often erase";
+var mnemonic = "license verify mango write tragic toe oil skull august prosper alone sense";

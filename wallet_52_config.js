@@ -1,1 +1,1 @@
-var mnemonic = "hotel popular wait chuckle gesture pottery art thrive trouble order depend slender";
+var mnemonic = "broom have stool cloud best manage news trend upon scrap leader connect";

@@ -1,1 +1,1 @@
-var mnemonic = "skate blossom winter benefit again mixed hope trick party gown borrow present";
+var mnemonic = "genre crane valve soldier favorite exact vacuum olive huge myth umbrella season";

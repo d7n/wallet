@@ -1,1 +1,1 @@
-var mnemonic = "warrior turkey snack forward antique warfare craft limit cushion assume winter diet";
+var mnemonic = "various venture ancient educate dust music wisdom glass giraffe clown foam gorilla";

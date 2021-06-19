@@ -1,1 +1,1 @@
-var mnemonic = "grid poverty victory print settle sleep unveil bless among throw soon ripple";
+var mnemonic = "loan tooth spatial manage pupil depend vault decorate aerobic identify people abuse";

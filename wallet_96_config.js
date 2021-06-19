@@ -1,1 +1,1 @@
-var mnemonic = "regret doctor echo fitness worth praise fatal letter bleak carry acoustic grape";
+var mnemonic = "ladder pilot match stock ritual actor coyote window vocal mom example cliff";

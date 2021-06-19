@@ -1,1 +1,1 @@
-var mnemonic = "pretty broccoli sad tired donate badge weird post tortoise before bridge choose";
+var mnemonic = "inhale arena twist mercy verb habit twelve ribbon peasant baby buddy able";

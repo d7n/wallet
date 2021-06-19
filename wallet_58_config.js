@@ -1,1 +1,1 @@
-var mnemonic = "phone cruel rate capital wreck embrace rocket hazard evidence novel educate drink";
+var mnemonic = "insane horn error rival inform surface minute beauty toilet dragon divorce congress";

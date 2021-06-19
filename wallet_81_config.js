@@ -1,1 +1,1 @@
-var mnemonic = "music diamond swim deal legend soup know salon fault wild witness target";
+var mnemonic = "gorilla volcano major spring gloom bulk during again tourist proud fix addict";

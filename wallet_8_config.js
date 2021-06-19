@@ -1,1 +1,1 @@
-var mnemonic = "awesome hold swarm situate cup midnight worry roof behind crane chat receive";
+var mnemonic = "element honey dance toast satoshi clinic snow age hand hub fiction file";

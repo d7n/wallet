@@ -1,1 +1,1 @@
-var mnemonic = "bread theme initial mass kit trick deposit rescue garlic spawn okay attract";
+var mnemonic = "sniff social lyrics prepare royal fly arrive split film arrow inch false";

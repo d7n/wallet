@@ -1,1 +1,1 @@
-var mnemonic = "detail put turn balance subway demand budget afraid entry hollow bike slab";
+var mnemonic = "essay doll brief nasty leaf aware armed thank west welcome liquid turkey";

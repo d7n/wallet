@@ -1,1 +1,1 @@
-var mnemonic = "page paddle cliff behind disease royal broom assist glad wasp loyal outdoor";
+var mnemonic = "torch luxury detect fall afford rebuild core chapter stem say distance bird";

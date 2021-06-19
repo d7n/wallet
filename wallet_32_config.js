@@ -1,1 +1,1 @@
-var mnemonic = "cabbage task quit atom ankle bracket gain wear author deliver tunnel social";
+var mnemonic = "device east tree unable risk have crack write print topple goose disease";

@@ -1,1 +1,1 @@
-var mnemonic = "claw dash census tourist cricket someone alcohol bench chimney play kit ranch";
+var mnemonic = "month violin jewel bread pill sure mother fork solid attack tired physical";

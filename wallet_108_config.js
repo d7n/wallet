@@ -1,1 +1,1 @@
-var mnemonic = "chair club giant jacket blur number mom protect chicken property casino elite";
+var mnemonic = "garbage scene stove thunder enhance economy emerge physical rail tray such magnet";

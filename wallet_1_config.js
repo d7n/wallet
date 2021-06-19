@@ -1,1 +1,1 @@
-var mnemonic = "nose unlock switch oppose volcano giraffe rocket female captain script dance dice";
+var mnemonic = "example invest zone copy also secret laugh negative income fix there glimpse";

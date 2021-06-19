@@ -1,1 +1,1 @@
-var mnemonic = "garlic rate system need country unique fruit gather evil drip mansion blouse";
+var mnemonic = "simple february hill prefer abstract absorb shoe spoil mammal resemble celery orchard";

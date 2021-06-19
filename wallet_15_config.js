@@ -1,1 +1,1 @@
-var mnemonic = "tortoise track kind burger heavy arch concert kick wheel battle feature dynamic";
+var mnemonic = "marine moon match frog strategy gallery pilot vacuum purity cage autumn maze";

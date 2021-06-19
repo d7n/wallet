@@ -1,1 +1,1 @@
-var mnemonic = "arrange faculty tomorrow arrange proof first spread same furnace gravity situate average";
+var mnemonic = "scorpion major giant dance fantasy panel awful verb punch arrange traffic brisk";

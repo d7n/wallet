@@ -1,1 +1,1 @@
-var mnemonic = "perfect tape actress cotton outer critic regret relax clutch area useless evil";
+var mnemonic = "universe offer brain grace practice carpet keen wreck legal item crazy fabric";

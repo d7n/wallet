@@ -1,1 +1,1 @@
-var mnemonic = "meat people derive page then rally relax hover olive hollow alarm print";
+var mnemonic = "expand feel join endorse code dirt mutual network blast bonus bar page";

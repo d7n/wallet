@@ -1,1 +1,1 @@
-var mnemonic = "obscure have axis diamond rude exclude noodle unusual awkward hat false genuine";
+var mnemonic = "dune copper escape vessel side audit frozen portion toddler during thumb camera";

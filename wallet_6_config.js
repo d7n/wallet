@@ -1,1 +1,1 @@
-var mnemonic = "arena hub solve rose trim bean push sunny major road truly around";
+var mnemonic = "neglect kid cliff nephew dance bind hobby cushion sauce casino clay three";

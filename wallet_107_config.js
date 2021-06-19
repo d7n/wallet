@@ -1,1 +1,1 @@
-var mnemonic = "salute planet web tip laptop suspect express rather off sheriff into whisper";
+var mnemonic = "aware usual weird insane rare illness genius neutral high olive average energy";

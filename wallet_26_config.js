@@ -1,1 +1,1 @@
-var mnemonic = "hour cement space donkey purchase mixed trumpet breeze peanut inch animal rigid";
+var mnemonic = "gorilla kidney clever party enable pistol rose junior lottery antenna jacket option";

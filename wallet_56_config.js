@@ -1,1 +1,1 @@
-var mnemonic = "perfect diary buzz mother discover dry brass diesel alert lock coral cycle";
+var mnemonic = "trophy favorite goat hotel edge crumble control meat goose history catch material";

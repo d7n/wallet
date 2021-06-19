@@ -1,1 +1,1 @@
-var mnemonic = "man box bubble lonely alpha follow use guard destroy hover random desert";
+var mnemonic = "echo sword situate achieve shuffle mother reunion aspect undo void voyage maple";

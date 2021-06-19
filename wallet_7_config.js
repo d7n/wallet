@@ -1,1 +1,1 @@
-var mnemonic = "you obscure cup alien flush thing behave august alley senior woman cross";
+var mnemonic = "use vanish mystery double globe remember mandate they thunder plate hip fog";

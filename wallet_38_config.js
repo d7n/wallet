@@ -1,1 +1,1 @@
-var mnemonic = "social oval utility involve waste mad weather earn theme arrest snack check";
+var mnemonic = "meat flash east else cruel regular leaf life flavor canoe bamboo trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "globe stool amateur flash repair shop kangaroo lecture load prison wine fat";
+var mnemonic = "vacuum season invest same always wrist letter rhythm worry tunnel old list";

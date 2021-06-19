@@ -1,1 +1,1 @@
-var mnemonic = "deliver belt require behind current boost useless urge pill moment monster pigeon";
+var mnemonic = "true stock ring vivid dumb sunny once dynamic switch sorry garment behind";

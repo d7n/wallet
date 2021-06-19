@@ -1,1 +1,1 @@
-var mnemonic = "execute illegal jump bundle basic ramp guard hammer tiger van inspire civil";
+var mnemonic = "soap always ice imitate firm liquid whisper lounge match universe inject boss";

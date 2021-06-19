@@ -1,1 +1,1 @@
-var mnemonic = "shell village swarm equip double early creek mobile abuse crisp syrup swing";
+var mnemonic = "quick combine pyramid someone siren range reform uphold ozone illegal abstract hip";

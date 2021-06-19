@@ -1,1 +1,1 @@
-var mnemonic = "basket solar picnic cup crash effort north oven path question profit coach";
+var mnemonic = "bullet orphan rail steel loud famous fossil venture current curve hurt ten";

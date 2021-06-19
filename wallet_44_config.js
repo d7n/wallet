@@ -1,1 +1,1 @@
-var mnemonic = "crash welcome venue void smoke cube boss taste rice approve square beyond";
+var mnemonic = "daughter swamp switch admit panic spatial color main man keep weapon grant";

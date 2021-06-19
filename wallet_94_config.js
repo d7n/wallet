@@ -1,1 +1,1 @@
-var mnemonic = "hill thunder venue maximum cattle rabbit profit pretty arrive dress frequent code";
+var mnemonic = "hurdle garden sort stick average melody fade rather control illegal split nation";

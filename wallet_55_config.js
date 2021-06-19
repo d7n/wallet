@@ -1,1 +1,1 @@
-var mnemonic = "mask since admit road ribbon dirt movie coyote wedding average dice museum";
+var mnemonic = "muscle spring toy trouble trumpet tourist cancel vast arctic fit atom alone";

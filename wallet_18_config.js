@@ -1,1 +1,1 @@
-var mnemonic = "stool rather core raise scorpion diagram illegal toss evoke light spell risk";
+var mnemonic = "place reveal find advance police speed holiday wheel across upon owner fruit";

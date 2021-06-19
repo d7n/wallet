@@ -1,1 +1,1 @@
-var mnemonic = "flavor swallow auction kitchen claim drive afford move clay lounge step balance";
+var mnemonic = "noise mouse hobby fashion noise source picture grain call resist cream essay";

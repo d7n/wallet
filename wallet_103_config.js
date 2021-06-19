@@ -1,1 +1,1 @@
-var mnemonic = "approve inspire dash pen search upgrade visa exclude fence tiger lonely shrug";
+var mnemonic = "relief perfect tumble involve match one destroy erosion increase remain text field";

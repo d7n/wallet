@@ -1,1 +1,1 @@
-var mnemonic = "lounge luggage affair napkin vivid museum area endorse mule cable dilemma hub";
+var mnemonic = "culture sound sustain salt congress connect dove design allow couch rice paper";

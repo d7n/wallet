@@ -1,1 +1,1 @@
-var mnemonic = "horn renew release kind sight hazard busy junior shoot pool sail above";
+var mnemonic = "direct tragic speed eagle brain curtain ahead eight guide vivid mention renew";

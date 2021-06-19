@@ -1,1 +1,1 @@
-var mnemonic = "assume recycle east winter garden memory vault very debate skirt aware tell";
+var mnemonic = "lounge observe fatal there service exit alter lion key vault violin meat";

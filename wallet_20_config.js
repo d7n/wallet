@@ -1,1 +1,1 @@
-var mnemonic = "easily fall step dignity million food crucial use wrong slam divide drastic";
+var mnemonic = "agent crack nominee feature wool admit extend witness trap proof envelope coast";

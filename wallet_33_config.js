@@ -1,1 +1,1 @@
-var mnemonic = "urge ginger spoon equal roof canoe dose inquiry curve virtual talent wet";
+var mnemonic = "vapor alley rate security run panther fault drum tourist banner arctic cushion";

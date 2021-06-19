@@ -1,1 +1,1 @@
-var mnemonic = "picnic elbow depth flash machine tired circle above destroy guide opinion absorb";
+var mnemonic = "guilt erosion length stereo slam use ginger crucial pupil slush typical come";

@@ -1,1 +1,1 @@
-var mnemonic = "agree chimney visa remain idle swallow payment emerge measure ride friend dream";
+var mnemonic = "flavor magic exotic same deputy south month fatal trumpet gasp warfare awkward";

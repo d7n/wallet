@@ -1,1 +1,1 @@
-var mnemonic = "peanut captain spirit craft wish someone glove march refuse bottom topic false";
+var mnemonic = "arm multiply thrive hurdle bubble plunge silver spot size panther breeze because";

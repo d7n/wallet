@@ -1,1 +1,1 @@
-var mnemonic = "juice deputy sadness blast sight rapid talk shoulder open stairs earth solid";
+var mnemonic = "still chunk bring tomato grace honey peasant manage twin trip anxiety fame";

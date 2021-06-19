@@ -1,1 +1,1 @@
-var mnemonic = "market enact broccoli submit assist pulp outer glove chalk other judge sunny";
+var mnemonic = "attitude this carpet relax swing fashion claim merge way expect physical shock";

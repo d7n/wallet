@@ -1,1 +1,1 @@
-var mnemonic = "system crane alley park awesome double snack jump arena buffalo short tenant";
+var mnemonic = "silver elevator own crazy gossip maid warfare find alpha walk brass sample";

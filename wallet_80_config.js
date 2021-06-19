@@ -1,1 +1,1 @@
-var mnemonic = "vintage grid wisdom note wagon shallow shed lady wild cross lizard admit";
+var mnemonic = "cinnamon modify dice brave universe soldier balcony relax segment iron benefit typical";

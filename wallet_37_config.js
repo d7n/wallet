@@ -1,1 +1,1 @@
-var mnemonic = "burden kangaroo mass sick oppose multiply demand motor whale transfer youth install";
+var mnemonic = "rival cradle sing salmon midnight review voyage guitar fiction peace include keep";

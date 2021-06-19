@@ -1,1 +1,1 @@
-var mnemonic = "balcony turkey stone try void ability paddle wait misery hello book venture";
+var mnemonic = "parent sunny buyer spend antique trick hub credit model muscle royal just";

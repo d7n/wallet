@@ -1,1 +1,1 @@
-var mnemonic = "chest pistol grant kangaroo section math nominee govern shaft naive universe alley";
+var mnemonic = "honey proud lumber duck grant catch wash marine stone head object grant";

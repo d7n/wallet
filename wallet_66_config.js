@@ -1,1 +1,1 @@
-var mnemonic = "number whale arrange intact medal fence keep rookie raccoon sad engine fresh";
+var mnemonic = "demand observe bike arctic zero accident exist clown trade wage laundry patch";

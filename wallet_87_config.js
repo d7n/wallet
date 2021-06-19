@@ -1,1 +1,1 @@
-var mnemonic = "soccer hybrid keep mesh lift extend knee crucial change people step paper";
+var mnemonic = "journey warm consider waste globe room half tackle plastic category cram myself";

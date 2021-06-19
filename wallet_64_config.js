@@ -1,1 +1,1 @@
-var mnemonic = "silly travel champion unknown tent frame smooth figure van one pride hello";
+var mnemonic = "analyst dinner shop slot ketchup paper nominee wash neglect enforce jacket search";

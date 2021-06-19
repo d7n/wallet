@@ -1,1 +1,1 @@
-var mnemonic = "bring torch muffin toilet innocent chuckle lumber club canal notable lion upset";
+var mnemonic = "catch exist review clay plug chat mixed cash ozone kick seminar miracle";

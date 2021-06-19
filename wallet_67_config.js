@@ -1,1 +1,1 @@
-var mnemonic = "document acoustic attend daring reject home correct cinnamon artwork asset achieve trend";
+var mnemonic = "picnic under book tuna believe vehicle apple grief elephant upon artist spin";

@@ -1,1 +1,1 @@
-var mnemonic = "blade bubble version edge museum stereo wrestle dinner result floor swear vast";
+var mnemonic = "vibrant recycle panther vault fabric tail sock hospital gospel sustain nut gadget";

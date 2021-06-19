@@ -1,1 +1,1 @@
-var mnemonic = "protect alien tree giant auction bag novel soap stage noble deny analyst";
+var mnemonic = "section vicious online call crunch mix cloud snack crater sense term crisp";

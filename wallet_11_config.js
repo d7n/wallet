@@ -1,1 +1,1 @@
-var mnemonic = "daring fashion tide paddle ridge ring toddler true above online random limit";
+var mnemonic = "apple soup cliff neutral bullet mango lizard zone click grid ocean tube";

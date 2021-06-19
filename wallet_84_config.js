@@ -1,1 +1,1 @@
-var mnemonic = "foam sugar beach language ostrich impulse board detect finish soul measure pig";
+var mnemonic = "distance bread damp arch change barely tribe crime evolve main about potato";

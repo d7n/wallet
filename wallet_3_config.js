@@ -1,1 +1,1 @@
-var mnemonic = "nut unable proof print stuff clinic lamp tissue grace solid alpha flush";
+var mnemonic = "farm state mechanic monitor crazy damp suit shoulder fault scare clump hover";

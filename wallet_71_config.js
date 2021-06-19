@@ -1,1 +1,1 @@
-var mnemonic = "roast target advice dragon judge siren guilt mutual wonder business fashion quarter";
+var mnemonic = "mother patch flush runway turn bring entry emotion nose ladder anxiety about";

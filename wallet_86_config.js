@@ -1,1 +1,1 @@
-var mnemonic = "toddler cream film vessel trial call bottom breeze judge giraffe police luxury";
+var mnemonic = "result inform math arrive silver exist chunk slush brave hungry memory fossil";

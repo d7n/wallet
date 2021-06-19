@@ -1,1 +1,1 @@
-var mnemonic = "crowd visa cruise attack super oven run rapid decrease captain treat hurt";
+var mnemonic = "audit chat pepper concert shift bean faith pioneer attend meadow album order";

@@ -1,1 +1,1 @@
-var mnemonic = "this direct hospital conduct impact waste dust wisdom wish couple heart senior";
+var mnemonic = "black cave risk buddy genre clip goose pelican summer script trade patch";

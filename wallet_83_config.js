@@ -1,1 +1,1 @@
-var mnemonic = "repair analyst estate tragic toss hub elder aunt essence unveil empower want";
+var mnemonic = "tortoise hawk plastic fresh clock mirror exercise clinic famous art fetch amount";

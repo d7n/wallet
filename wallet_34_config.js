@@ -1,1 +1,1 @@
-var mnemonic = "bunker include scatter defense shaft friend cliff omit zero wasp notice picnic";
+var mnemonic = "panther lecture ketchup bulb that chalk seek help hidden pill noble guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano evidence evil near toss insect joke chuckle humor duty intact accident";
+var mnemonic = "ring used salmon tilt rough device rhythm motion grape news chef fiber";

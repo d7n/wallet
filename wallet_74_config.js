@@ -1,1 +1,1 @@
-var mnemonic = "tail settle mouse suspect nothing leisure eye shoulder chapter pride road cry";
+var mnemonic = "sick inside infant session only awake bamboo over risk fortune bicycle feel";

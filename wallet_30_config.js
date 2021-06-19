@@ -1,1 +1,1 @@
-var mnemonic = "stand collect impose sick novel thought poem trigger abuse dog parade mule";
+var mnemonic = "auto nest drama hybrid glow utility unable average fluid traffic assume asset";

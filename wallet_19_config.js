@@ -1,1 +1,1 @@
-var mnemonic = "vintage riot catch fame kind address erosion obscure link domain sausage shuffle";
+var mnemonic = "salon earth coil woman derive decade apple fortune despair lend immense thing";

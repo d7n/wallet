@@ -1,1 +1,1 @@
-var mnemonic = "because crater monster lounge raccoon erase luxury glow loan about forward ignore";
+var mnemonic = "damage version snack fine vanish tomorrow humor castle october album draft piece";

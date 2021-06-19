@@ -1,1 +1,1 @@
-var mnemonic = "verify zoo witness wreck pledge zebra engage peanut daughter alert affair camera";
+var mnemonic = "exist wrap begin ostrich gap amount buffalo winter team caution dumb valley";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor pilot master hour rival injury solar field paper essence creek sweet";
+var mnemonic = "beach youth dinner emerge own number hollow home what token list emerge";

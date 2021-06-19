@@ -1,1 +1,1 @@
-var mnemonic = "disease balcony daughter accident wide census excuse impulse issue have primary gown";
+var mnemonic = "program cousin black hand dynamic control work ribbon portion sister april price";

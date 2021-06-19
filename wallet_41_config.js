@@ -1,1 +1,1 @@
-var mnemonic = "mountain word raccoon medal bundle actor surge pistol great violin cupboard pass";
+var mnemonic = "dish frame genre tortoise speak equal scheme egg echo skin sample february";

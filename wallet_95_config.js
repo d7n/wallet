@@ -1,1 +1,1 @@
-var mnemonic = "inside margin squeeze urge stumble silk key advance thank swap arrange carbon";
+var mnemonic = "slight wrap reopen kitten boil embrace plastic cereal shoulder anchor else claim";

@@ -1,1 +1,1 @@
-var mnemonic = "twin attract differ security horse wisdom acid narrow bitter fence black craft";
+var mnemonic = "erupt orphan rule enhance radar dish away inmate rail bounce manual reason";
