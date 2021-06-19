@@ -1,1 +1,1 @@
-var mnemonic = "letter length collect cupboard flower disease glory captain supreme gold guard valley";
+var mnemonic = "radio surprise elegant crew grant trend avocado exhaust jazz ice abuse fat";

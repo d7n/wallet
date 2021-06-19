@@ -1,1 +1,1 @@
-var mnemonic = "trouble forward sweet behave barely chicken result zebra bomb planet fancy bright";
+var mnemonic = "weasel tackle brain electric ostrich disagree they attract humor item dance spider";

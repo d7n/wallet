@@ -1,1 +1,1 @@
-var mnemonic = "that memory twin want answer expect aisle menu nasty curious bracket artefact";
+var mnemonic = "audit access social pluck goat walnut finger energy island arrive simple stand";

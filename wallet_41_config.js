@@ -1,1 +1,1 @@
-var mnemonic = "keep asthma antique trophy mimic clerk lobster fault primary spread list come";
+var mnemonic = "hawk employ tank desert woman congress raw sad fame give obtain joke";

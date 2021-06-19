@@ -1,1 +1,1 @@
-var mnemonic = "city car pudding banana shy glimpse banana pen vocal shop plate next";
+var mnemonic = "isolate object treat lesson hope universe plate essay nice farm amused cherry";

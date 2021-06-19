@@ -1,1 +1,1 @@
-var mnemonic = "tank orphan flavor plate mimic furnace right material record oak corn menu";
+var mnemonic = "flip tube mistake theory scorpion predict chicken excuse detail deputy alter sudden";

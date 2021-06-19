@@ -1,1 +1,1 @@
-var mnemonic = "throw device around guide rib dirt drama manage chapter surface else ten";
+var mnemonic = "burger bacon broom journey member narrow ship tortoise duck neutral wild erupt";

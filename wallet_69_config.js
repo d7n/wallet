@@ -1,1 +1,1 @@
-var mnemonic = "loyal zoo marble extra very hill oyster style loyal nasty easy music";
+var mnemonic = "casino fatigue champion piano mad add echo palace wink drop pet trouble";

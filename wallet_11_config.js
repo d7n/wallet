@@ -1,1 +1,1 @@
-var mnemonic = "trumpet leave more betray siege point scorpion friend merge click task swear";
+var mnemonic = "parade unique stumble erase document dolphin few then tube loan huge proud";

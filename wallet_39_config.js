@@ -1,1 +1,1 @@
-var mnemonic = "sheriff escape purpose science enlist blossom hope hunt good ethics vessel answer";
+var mnemonic = "prison female cradle hub pepper sustain eternal dilemma plate vivid city sight";

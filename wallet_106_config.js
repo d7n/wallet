@@ -1,1 +1,1 @@
-var mnemonic = "siren energy banner enact garbage clock current orange charge winner oyster found";
+var mnemonic = "kick window october adjust argue device security forum suit vocal among flock";

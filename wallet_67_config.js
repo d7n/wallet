@@ -1,1 +1,1 @@
-var mnemonic = "capable faint insane sense exhibit fault cheap pretty range balance evolve ketchup";
+var mnemonic = "board siren update enjoy appear field excuse please tunnel live draft public";

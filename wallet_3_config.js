@@ -1,1 +1,1 @@
-var mnemonic = "online verify grow lab outer theme moment truck private device degree addict";
+var mnemonic = "glove inch amount shift gossip find apart clown surround void deputy special";

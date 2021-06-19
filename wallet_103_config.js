@@ -1,1 +1,1 @@
-var mnemonic = "edit kite build leave morning wonder often vicious accident town equal hip";
+var mnemonic = "insane swap drip daughter first ivory various fortune girl kick deal orbit";

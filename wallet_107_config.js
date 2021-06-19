@@ -1,1 +1,1 @@
-var mnemonic = "wedding valley eagle devote case sleep secret pelican front upset decade execute";
+var mnemonic = "talent avocado exact dove mesh old option scare letter maximum small depend";

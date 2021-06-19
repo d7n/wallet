@@ -1,1 +1,1 @@
-var mnemonic = "give such outside grape odor mansion approve oval black spring shaft trend";
+var mnemonic = "gesture wool innocent float bomb fancy drill smile ethics dream canyon child";

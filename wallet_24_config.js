@@ -1,1 +1,1 @@
-var mnemonic = "melt conduct abuse submit canvas balcony fatigue novel near useless rocket oval";
+var mnemonic = "achieve item average ignore jazz figure submit dress dutch depth sting snack";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise attract alone tray few ordinary valley emotion suit banana vendor acquire";
+var mnemonic = "maximum asset trick fancy useful olympic ladder option auction bar assume group";

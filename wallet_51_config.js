@@ -1,1 +1,1 @@
-var mnemonic = "latin combine wheel road session scan radar buffalo emerge unveil flush brand";
+var mnemonic = "attack chef enact business shoot garment extend rubber crazy easy much wrong";

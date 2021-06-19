@@ -1,1 +1,1 @@
-var mnemonic = "merit speed weird gap turkey shadow unfold obvious bleak valid arrive capital";
+var mnemonic = "ankle shrug protect tone luggage measure grain sting sugar cabbage artefact exercise";

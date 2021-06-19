@@ -1,1 +1,1 @@
-var mnemonic = "hub emerge online average under mushroom slush way disagree grant meadow afford";
+var mnemonic = "dignity ask fever federal payment fringe planet someone yellow lunar glass fresh";

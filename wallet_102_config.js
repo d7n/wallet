@@ -1,1 +1,1 @@
-var mnemonic = "ask emerge imitate digital remember bar urge twist gravity universe wage chase";
+var mnemonic = "clown snap profit pride fan crumble afford another lyrics seminar skirt alpha";

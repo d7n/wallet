@@ -1,1 +1,1 @@
-var mnemonic = "address off near wall net add tube skirt sphere moon fault upon";
+var mnemonic = "burden enable tip cart stadium tonight kite adapt rich cruise kingdom disagree";

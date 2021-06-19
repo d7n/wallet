@@ -1,1 +1,1 @@
-var mnemonic = "accident quote pen sponsor earth soccer trial jaguar spare kidney family endorse";
+var mnemonic = "junk grape volume grit life check hidden dose match lemon menu stumble";

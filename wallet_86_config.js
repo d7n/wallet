@@ -1,1 +1,1 @@
-var mnemonic = "suit large capable steel tattoo vague nominee concert puppy chef skull fog";
+var mnemonic = "coral adapt multiply gesture chat warm differ inquiry wood fiction dress remain";

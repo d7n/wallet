@@ -1,1 +1,1 @@
-var mnemonic = "issue measure quiz gospel slide autumn place frost tenant idea poverty vessel";
+var mnemonic = "warm young symptom piece palm design pulse receive hybrid odor color card";

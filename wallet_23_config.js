@@ -1,1 +1,1 @@
-var mnemonic = "round faculty cause discover figure ride enlist pigeon angle mom spy invest";
+var mnemonic = "carry clinic wide daughter concert mobile service account useless answer risk federal";

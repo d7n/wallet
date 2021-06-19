@@ -1,1 +1,1 @@
-var mnemonic = "thrive panther endorse extend office survey enemy cube song timber vintage twist";
+var mnemonic = "discover defense veteran ticket dial trash bounce message unfold vendor neutral thumb";

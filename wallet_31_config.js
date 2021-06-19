@@ -1,1 +1,1 @@
-var mnemonic = "fade cricket steel gossip travel daring balcony begin meadow mean table danger";
+var mnemonic = "dutch enable patient miss crater crush scatter whale calm assault verb strong";

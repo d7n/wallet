@@ -1,1 +1,1 @@
-var mnemonic = "city equal neutral arena now spoon buddy indoor frog oppose force involve";
+var mnemonic = "balcony save know ramp remember tongue steak rib truck silent denial rocket";

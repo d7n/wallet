@@ -1,1 +1,1 @@
-var mnemonic = "machine cover then farm puppy uphold search journey wide pole december pistol";
+var mnemonic = "march axis orchard discover risk seminar type exit pitch aspect toy million";

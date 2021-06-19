@@ -1,1 +1,1 @@
-var mnemonic = "market train utility library book brother siege catch traffic border hero siren";
+var mnemonic = "apology local oil neither lucky senior ugly torch hood club antenna chief";

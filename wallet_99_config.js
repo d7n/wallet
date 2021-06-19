@@ -1,1 +1,1 @@
-var mnemonic = "fragile ginger lonely pupil cry trash video satoshi embark curve early impose";
+var mnemonic = "cream patient pill honey fetch match near warm until virtual buffalo nominee";

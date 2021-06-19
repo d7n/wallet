@@ -1,1 +1,1 @@
-var mnemonic = "crouch trend neither galaxy fog evoke guitar discover radar print draw unknown";
+var mnemonic = "tissue dawn web acoustic bridge icon craft surprise poverty jeans local glue";

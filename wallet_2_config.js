@@ -1,1 +1,1 @@
-var mnemonic = "seek charge early welcome accident debris wild moral wink adjust admit regular";
+var mnemonic = "dumb vicious seat sniff effort throw april rose admit half tag monitor";

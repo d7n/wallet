@@ -1,1 +1,1 @@
-var mnemonic = "kitten stage bulk guide display crunch leg base garage apple sample live";
+var mnemonic = "nurse ship stereo chair random diary country gain puppy clap false element";

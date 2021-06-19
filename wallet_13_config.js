@@ -1,1 +1,1 @@
-var mnemonic = "refuse tuna audit grace run twelve hamster learn curious region budget olive";
+var mnemonic = "sibling zone guess trap series brief explain lock panel silent tattoo cliff";

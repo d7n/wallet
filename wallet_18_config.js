@@ -1,1 +1,1 @@
-var mnemonic = "general fuel buyer comfort claw apology arm stock miracle steel estate attitude";
+var mnemonic = "force knee slow own stool apple forest trend stereo task stage expand";

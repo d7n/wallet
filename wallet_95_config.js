@@ -1,1 +1,1 @@
-var mnemonic = "pet during caution reduce patch follow adjust spice season abuse flat permit";
+var mnemonic = "regular absent brick grass cave convince palace nuclear toe search ecology clump";

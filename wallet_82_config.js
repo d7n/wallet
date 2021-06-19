@@ -1,1 +1,1 @@
-var mnemonic = "boy arrest major moral embody barrel spoil vintage faint love where maple";
+var mnemonic = "call lobster execute swim timber steak gravity repeat tuna income magnet purity";

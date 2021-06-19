@@ -1,1 +1,1 @@
-var mnemonic = "eternal edge bitter era forest fatal caught place must upon pistol eye";
+var mnemonic = "stairs riot better apple fee thunder home wall powder tide glow guess";

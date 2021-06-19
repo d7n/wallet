@@ -1,1 +1,1 @@
-var mnemonic = "captain abstract street wink scheme isolate lock board tennis inhale title blue";
+var mnemonic = "fiction salt term absurd nasty garage evil unhappy drama stand dirt allow";

@@ -1,1 +1,1 @@
-var mnemonic = "slight steel maid awful grace picture squeeze worry mansion insect topple equal";
+var mnemonic = "shoe sing bus exercise crunch brass weasel pulse repeat patient lion subway";

@@ -1,1 +1,1 @@
-var mnemonic = "behind only speed garage try cancel rapid chuckle online author robust capital";
+var mnemonic = "demand fence left buffalo thing energy horse pass glow aim believe rural";

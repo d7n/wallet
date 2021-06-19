@@ -1,1 +1,1 @@
-var mnemonic = "defense essence tattoo matrix forward naive oyster approve carbon pyramid chase unknown";
+var mnemonic = "welcome orphan six orchard gallery tired viable proof genuine genius invite rebel";

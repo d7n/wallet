@@ -1,1 +1,1 @@
-var mnemonic = "decrease poem enlist purchase net blush three civil shadow prize sun boat";
+var mnemonic = "need make grief aerobic afford october project spoon skate story leave myth";

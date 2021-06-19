@@ -1,1 +1,1 @@
-var mnemonic = "teach raccoon humble utility lawsuit ketchup list universe pulse happy garden tired";
+var mnemonic = "story develop wire infant wrestle space skate phrase treat throw multiply screen";

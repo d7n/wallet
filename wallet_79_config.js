@@ -1,1 +1,1 @@
-var mnemonic = "melt dwarf rose fold humble home uphold wine indicate chief case coral";
+var mnemonic = "peace bullet memory eye matter mandate lend arctic any control cable crouch";

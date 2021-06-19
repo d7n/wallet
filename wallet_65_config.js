@@ -1,1 +1,1 @@
-var mnemonic = "nurse palm abandon damp foster nature whip belt danger concert casino purse";
+var mnemonic = "between cinnamon ozone fashion dance step cute devote differ absent minor creek";

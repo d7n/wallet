@@ -1,1 +1,1 @@
-var mnemonic = "ozone ceiling viable dizzy exotic police pioneer super lucky detail any bless";
+var mnemonic = "labor material crime card warrior enough print fee six jeans stable ridge";

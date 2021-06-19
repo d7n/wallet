@@ -1,1 +1,1 @@
-var mnemonic = "legend luxury situate broken human saddle royal market issue slot business cargo";
+var mnemonic = "hat tunnel stay salad cushion absurd thought lunar trial parrot foil concert";

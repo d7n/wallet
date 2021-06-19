@@ -1,1 +1,1 @@
-var mnemonic = "submit wing select oven glad apart prepare easily apart toy crystal almost";
+var mnemonic = "tower about wait absurd wrong hedgehog resource invite slight suffer odor write";

@@ -1,1 +1,1 @@
-var mnemonic = "essence radar mystery session east access casual butter plate dynamic again identify";
+var mnemonic = "clown cactus joke remain yard undo very cactus awkward artefact cricket box";

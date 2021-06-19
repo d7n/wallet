@@ -1,1 +1,1 @@
-var mnemonic = "cactus fruit scrap kid grain trust decade yellow favorite envelope fix scare";
+var mnemonic = "fitness thank before shrug account demand method orphan royal detail churn enable";

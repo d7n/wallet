@@ -1,1 +1,1 @@
-var mnemonic = "crater input pyramid bread duck organ spirit march convince infant cruel sad";
+var mnemonic = "release ridge social know melt wave finish question quality wrap clinic wealth";

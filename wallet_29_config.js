@@ -1,1 +1,1 @@
-var mnemonic = "obtain captain either urban twice humble hand satoshi coral wheel occur thing";
+var mnemonic = "trash gym survey fold narrow piano grain brisk caution adult engage beyond";

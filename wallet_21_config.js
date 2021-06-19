@@ -1,1 +1,1 @@
-var mnemonic = "pizza become letter hint rude maze slight salute solar carry doll hobby";
+var mnemonic = "fox under network swim quality ahead wreck monster peanut rabbit settle actor";

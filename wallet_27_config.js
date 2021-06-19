@@ -1,1 +1,1 @@
-var mnemonic = "rich orbit exile prepare thrive hero curtain gas image leaf liar you";
+var mnemonic = "gossip tattoo later wash acid fox strike banana drop super minor vendor";

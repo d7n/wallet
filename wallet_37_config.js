@@ -1,1 +1,1 @@
-var mnemonic = "display panda property believe spell same decide say anger divorce mass trumpet";
+var mnemonic = "math happy subject perfect occur next health else allow layer vocal crazy";

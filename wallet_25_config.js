@@ -1,1 +1,1 @@
-var mnemonic = "flavor junior program invest stamp slice notice divert leisure divorce flush cover";
+var mnemonic = "various trial response high limb physical purpose magnet traffic save pole museum";

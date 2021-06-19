@@ -1,1 +1,1 @@
-var mnemonic = "proof surface direct sight beyond junk echo muffin luggage system poverty stool";
+var mnemonic = "spirit phrase sign seat borrow boil crunch guilt engine crumble replace able";

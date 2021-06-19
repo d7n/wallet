@@ -1,1 +1,1 @@
-var mnemonic = "verify reason crack oblige device forest sure submit crawl doll coyote zebra";
+var mnemonic = "merge link accuse moon lady stereo cart gown praise example filter prison";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent hood tomorrow wire prepare today deliver athlete dream bread harsh doctor";
+var mnemonic = "tip hand word oil air apology merit light welcome distance donor thumb";

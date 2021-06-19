@@ -1,1 +1,1 @@
-var mnemonic = "oval swamp move below sketch biology prosper swamp mistake oblige fever sing";
+var mnemonic = "design reunion acid occur cake tiny dilemma split dance west nothing core";

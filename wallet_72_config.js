@@ -1,1 +1,1 @@
-var mnemonic = "another gift surround elite permit mind stand bronze foot axis fit open";
+var mnemonic = "bacon monster left final hire govern weapon various guess canal song pen";

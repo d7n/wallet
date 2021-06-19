@@ -1,1 +1,1 @@
-var mnemonic = "helmet lens federal current voyage traffic person dice claim tray document shy";
+var mnemonic = "first tongue execute river appear cycle rent light congress follow champion insect";

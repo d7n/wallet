@@ -1,1 +1,1 @@
-var mnemonic = "crunch clog flavor sugar vicious cherry fatal jar naive city aware surface";
+var mnemonic = "bean cigar spring aspect text neglect engine labor vacant village term icon";

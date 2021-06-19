@@ -1,1 +1,1 @@
-var mnemonic = "mutual opera unfair area hybrid nuclear decorate angry fat hawk pumpkin tobacco";
+var mnemonic = "notable balance merge owner defy cattle resource bring spread common twice cannon";

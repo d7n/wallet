@@ -1,1 +1,1 @@
-var mnemonic = "divide wedding initial canal draft worry wonder word junk maple tissue open";
+var mnemonic = "way noble donate chaos observe apology satoshi regret skull crush weather chef";

@@ -1,1 +1,1 @@
-var mnemonic = "elder army visa float joke mandate curious banana sample deposit figure voyage";
+var mnemonic = "position quiz drive cycle spawn question nothing under glare moral deny dignity";

@@ -1,1 +1,1 @@
-var mnemonic = "myth post creek cup mimic cricket torch bind west index chapter mosquito";
+var mnemonic = "various physical address switch whisper group gesture castle scissors someone riot dumb";

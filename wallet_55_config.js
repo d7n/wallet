@@ -1,1 +1,1 @@
-var mnemonic = "unusual gun feature curtain scatter bubble obvious uncover brass cart slide dial";
+var mnemonic = "input joke display tragic negative nasty shove forget pelican smart shiver tag";

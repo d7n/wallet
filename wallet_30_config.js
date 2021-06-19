@@ -1,1 +1,1 @@
-var mnemonic = "gentle kitchen drastic reward arena never hurdle lawn earn pretty trade ice";
+var mnemonic = "cruel spike novel angle retire reunion saddle leader aunt repair outdoor valley";

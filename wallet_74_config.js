@@ -1,1 +1,1 @@
-var mnemonic = "long oak differ drip fiscal delay equip same trial outdoor danger blood";
+var mnemonic = "goat shoe giant slight chest bag allow diamond monkey giggle lady umbrella";

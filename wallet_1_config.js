@@ -1,1 +1,1 @@
-var mnemonic = "nut course cycle farm bulb risk voice awful raven near seed squirrel";
+var mnemonic = "pause soul force rail giant outdoor start twenty flush usage wear stage";

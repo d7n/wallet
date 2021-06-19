@@ -1,1 +1,1 @@
-var mnemonic = "adjust material race load ahead obvious sheriff flame grape angry knife buyer";
+var mnemonic = "stable air left lawsuit badge meat change hurdle cook laptop unit theory";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom yard price security nephew medal embody relief moral rookie bounce nothing";
+var mnemonic = "entry banner issue nothing vocal behind innocent bacon remove endless clarify foster";

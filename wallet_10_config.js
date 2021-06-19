@@ -1,1 +1,1 @@
-var mnemonic = "famous wrist pull circle once found cushion cereal rain real scrub rebuild";
+var mnemonic = "hood father sight faculty life poet child duck demise unknown slight exit";

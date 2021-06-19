@@ -1,1 +1,1 @@
-var mnemonic = "voyage dawn valley gloom engine nerve purpose amused emerge quit already hurry";
+var mnemonic = "market loyal define ball regret urge cycle much kiwi antique initial vendor";

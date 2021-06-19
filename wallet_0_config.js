@@ -1,1 +1,1 @@
-var mnemonic = "range moon write light clever final prosper bulk since noise remind among";
+var mnemonic = "brass mesh east appear surprise meat fringe escape auto shoot police lucky";

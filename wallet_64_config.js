@@ -1,1 +1,1 @@
-var mnemonic = "salon federal mystery track course enlist jacket spoon core dizzy clown chat";
+var mnemonic = "pottery issue burst wage fortune skill hollow silent pencil junior very occur";

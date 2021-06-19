@@ -1,1 +1,1 @@
-var mnemonic = "mobile true purchase furnace cactus jacket dash still cactus coach relax opera";
+var mnemonic = "despair vendor metal island sword patient height lazy spawn fashion brisk follow";

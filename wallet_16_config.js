@@ -1,1 +1,1 @@
-var mnemonic = "advice gas length frame dish shrug when nose symbol dirt select news";
+var mnemonic = "pause dial grid debate finger elegant liar hover purse banner tray panther";

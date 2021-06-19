@@ -1,1 +1,1 @@
-var mnemonic = "ahead remind filter lend second cereal flip solar laundry action cage decade";
+var mnemonic = "attack apology tortoise fox valve frost skin relief gospel escape grape dumb";

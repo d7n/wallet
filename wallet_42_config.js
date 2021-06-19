@@ -1,1 +1,1 @@
-var mnemonic = "alcohol whip sponsor slide rookie real illegal fee pencil sleep jaguar student";
+var mnemonic = "erupt already check axis eyebrow figure tumble town social excuse elbow silver";

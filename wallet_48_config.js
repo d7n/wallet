@@ -1,1 +1,1 @@
-var mnemonic = "right live ranch garlic reunion fringe eagle above inquiry verb lemon zebra";
+var mnemonic = "swallow lucky other during opinion unfair shadow knee impose pioneer alert hawk";

@@ -1,1 +1,1 @@
-var mnemonic = "behind chuckle grief before acoustic obtain crack sense busy surprise champion skate";
+var mnemonic = "marriage uncover worth grain kangaroo nest give shaft exotic discover match patient";

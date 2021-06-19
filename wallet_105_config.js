@@ -1,1 +1,1 @@
-var mnemonic = "give shell situate climb spare dance human unfold excite reduce evolve slab";
+var mnemonic = "awake olive session party early almost deputy emotion skate confirm tail hint";

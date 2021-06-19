@@ -1,1 +1,1 @@
-var mnemonic = "child expect embody ancient provide garden finger exile frozen useful resource grid";
+var mnemonic = "report pupil ten abuse monster glare hunt home today above aisle skin";

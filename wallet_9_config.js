@@ -1,1 +1,1 @@
-var mnemonic = "include era blade skirt soup stay candy enhance become hobby tackle symptom";
+var mnemonic = "fun garage weasel hedgehog coast spot measure tuna tenant peanut merit observe";

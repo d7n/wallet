@@ -1,1 +1,1 @@
-var mnemonic = "opinion wrong foster hint neither script burden priority auction swift detail job";
+var mnemonic = "state leopard happy visit twice north vessel good grow faculty success stay";
