@@ -1,1 +1,1 @@
-var mnemonic = "brave below jelly about long uncle vault hidden tent okay swear wife";
+var mnemonic = "belt cheap wrestle input level cabbage town brave belt can suffer legal";

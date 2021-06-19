@@ -1,1 +1,1 @@
-var mnemonic = "model thing dune tornado fit catch total address version pioneer above crash";
+var mnemonic = "achieve put circle vicious trap report rookie youth bottom inherit injury cloth";

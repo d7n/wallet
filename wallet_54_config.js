@@ -1,1 +1,1 @@
-var mnemonic = "minimum clown damage vehicle leader artefact cup cause child prefer clutch excite";
+var mnemonic = "torch emerge absent april slam monkey want coral crouch solar ankle note";

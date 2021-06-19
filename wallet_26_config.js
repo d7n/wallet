@@ -1,1 +1,1 @@
-var mnemonic = "gorilla owner abstract soft sea abstract more relief soup corn mirror west";
+var mnemonic = "impose image chief crisp exist champion service issue verb sport adjust apple";

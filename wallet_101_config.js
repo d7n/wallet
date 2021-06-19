@@ -1,1 +1,1 @@
-var mnemonic = "cup surge magic category trim coffee dad grief torch humble deposit uniform";
+var mnemonic = "enroll roast yellow elevator pride evil hour beauty edit display energy garden";

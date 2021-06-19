@@ -1,1 +1,1 @@
-var mnemonic = "say buyer decorate ensure cruel enlist essay kingdom afford slogan opinion bone";
+var mnemonic = "reunion umbrella sunset sad essay trouble absorb bonus chef stable sail since";

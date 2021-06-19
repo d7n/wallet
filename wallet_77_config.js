@@ -1,1 +1,1 @@
-var mnemonic = "harsh smart crazy energy when actress vacuum fly rigid myth jeans south";
+var mnemonic = "bargain depth abandon begin fine include badge muscle lava wrong wave divert";

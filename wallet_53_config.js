@@ -1,1 +1,1 @@
-var mnemonic = "dinner dad mirror iron wash victory year you cushion pilot company title";
+var mnemonic = "observe tissue uphold mosquito advice submit economy answer wrist boost negative cry";

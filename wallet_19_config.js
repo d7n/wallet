@@ -1,1 +1,1 @@
-var mnemonic = "another lizard pear offer during essay wife awful own renew ozone movie";
+var mnemonic = "lock strike potato pipe purchase client stove trip glare once wish funny";

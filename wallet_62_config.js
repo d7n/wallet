@@ -1,1 +1,1 @@
-var mnemonic = "noodle know industry matrix fashion kiwi waste alpha cigar nature dragon intact";
+var mnemonic = "grape jump mutual govern sketch attend regret melody hub history country brother";

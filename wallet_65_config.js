@@ -1,1 +1,1 @@
-var mnemonic = "require faith family piano merge tone coil vendor split demand napkin enjoy";
+var mnemonic = "genius guide power picnic drive simple cool worth hole below width shine";

@@ -1,1 +1,1 @@
-var mnemonic = "problem document infant loud future rescue oven alpha unique process write smooth";
+var mnemonic = "obvious barrel armed round brush display burger since bulk tornado usage cat";

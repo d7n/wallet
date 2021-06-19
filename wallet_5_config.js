@@ -1,1 +1,1 @@
-var mnemonic = "oyster mail immense connect direct service seek math dolphin giant shed margin";
+var mnemonic = "minute spot warrior grass mind vacuum enact worry indoor jeans elite sample";

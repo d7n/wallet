@@ -1,1 +1,1 @@
-var mnemonic = "mango diary hotel misery swim consider stereo panther unaware baby tribe vast";
+var mnemonic = "weekend hawk drop remove knife pond enjoy portion profit trick boost insect";

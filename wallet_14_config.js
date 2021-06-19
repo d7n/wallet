@@ -1,1 +1,1 @@
-var mnemonic = "gravity blind timber famous echo game stadium tower matrix dial swarm grace";
+var mnemonic = "furnace hair shine trade negative twice material office abandon open monster jazz";

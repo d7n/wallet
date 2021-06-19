@@ -1,1 +1,1 @@
-var mnemonic = "stage swarm weasel settle lyrics forum dinner street half sing jungle execute";
+var mnemonic = "win aisle blanket good maze evolve fiscal punch stable alpha broken autumn";

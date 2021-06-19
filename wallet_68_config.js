@@ -1,1 +1,1 @@
-var mnemonic = "february source way come tone dinosaur release accuse slush slush valley cliff";
+var mnemonic = "design print cluster tomorrow margin dutch drip lift apple green walk define";

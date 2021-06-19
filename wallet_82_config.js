@@ -1,1 +1,1 @@
-var mnemonic = "insect kitchen foam steel arrest tackle subway crunch buddy oval polar portion";
+var mnemonic = "divorce strike neither dignity legend brick trick outside afraid marine debris punch";

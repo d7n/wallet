@@ -1,1 +1,1 @@
-var mnemonic = "build scan world slam grass rare window age plate rescue various labor";
+var mnemonic = "organ please discover token pitch license prosper van square faith confirm include";

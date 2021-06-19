@@ -1,1 +1,1 @@
-var mnemonic = "run gloom pledge success asthma menu please leave planet sell either during";
+var mnemonic = "squeeze art pill pet shield auto cross cotton essence remove world orange";

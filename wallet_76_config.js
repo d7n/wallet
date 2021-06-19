@@ -1,1 +1,1 @@
-var mnemonic = "dance spawn gym tooth defense light inch mean cupboard emerge hard balance";
+var mnemonic = "enemy tonight dignity century marriage first sausage dragon actor case space dwarf";

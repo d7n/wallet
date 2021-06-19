@@ -1,1 +1,1 @@
-var mnemonic = "donate genre dial book sense effort panel frog twin escape whip debate";
+var mnemonic = "office chapter track avocado ginger session tooth distance photo warm praise zoo";

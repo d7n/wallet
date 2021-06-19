@@ -1,1 +1,1 @@
-var mnemonic = "public coach vicious celery song very meat alarm region raven rug inherit";
+var mnemonic = "media rotate credit hire target cheap year coil design unfair dune lemon";

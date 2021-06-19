@@ -1,1 +1,1 @@
-var mnemonic = "worry monster sniff jaguar metal penalty crane accident blanket survey regular attend";
+var mnemonic = "creek guitar subject second grab connect coyote cake behave citizen bulb boat";

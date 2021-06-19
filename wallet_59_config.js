@@ -1,1 +1,1 @@
-var mnemonic = "obscure benefit decrease fetch relax outside victory neglect donate addict under gown";
+var mnemonic = "analyst stem bamboo ecology service tail hole test month album pipe intact";

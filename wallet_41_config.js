@@ -1,1 +1,1 @@
-var mnemonic = "cement crater analyst hospital recall repeat enlist nest material lens jar hurdle";
+var mnemonic = "gorilla bleak fun whisper tackle chapter entry salt width fatal voyage base";

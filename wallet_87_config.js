@@ -1,1 +1,1 @@
-var mnemonic = "tuna seek assault inquiry kingdom correct elder wise tiger time kiwi initial";
+var mnemonic = "street become matrix say nominee inflict task mobile sail path black stamp";

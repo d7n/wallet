@@ -1,1 +1,1 @@
-var mnemonic = "grant clay orbit tool cup nest boring enjoy notable same inner ketchup";
+var mnemonic = "bargain submit donate juice mirror list join layer narrow bargain mixed tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "poet slow famous canal main seminar mom flip season exchange manage celery";
+var mnemonic = "gadget buffalo vessel normal actual sphere evidence divorce host wide toy auto";

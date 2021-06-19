@@ -1,1 +1,1 @@
-var mnemonic = "action join finish upset august syrup draft deal admit journey staff deny";
+var mnemonic = "follow admit student there hope close change furnace uncle today depth web";

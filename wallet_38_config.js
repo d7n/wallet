@@ -1,1 +1,1 @@
-var mnemonic = "miracle that lecture afraid female cable useless category tribe daring grief lemon";
+var mnemonic = "today little ensure bone history mammal cheap long direct chief coast inch";

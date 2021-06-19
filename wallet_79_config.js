@@ -1,1 +1,1 @@
-var mnemonic = "panel strategy fee van focus stand correct coin stock annual enlist sound";
+var mnemonic = "shock fit worth owner able all scatter exercise trade drip rebuild super";

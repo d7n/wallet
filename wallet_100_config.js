@@ -1,1 +1,1 @@
-var mnemonic = "flat leaf pilot rifle silent family brick picnic end never enforce lesson";
+var mnemonic = "gym move inject couch obtain foot thought spoil culture load clinic steak";

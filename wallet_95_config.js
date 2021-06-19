@@ -1,1 +1,1 @@
-var mnemonic = "become spoon goat steel bird index pulp photo ridge impact toddler crew";
+var mnemonic = "moon humble fossil immune naive apology parrot trouble recall depart goddess ten";

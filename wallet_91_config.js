@@ -1,1 +1,1 @@
-var mnemonic = "amused chat list palace moral bus helmet state way unaware alpha prevent";
+var mnemonic = "hybrid traffic magic sweet myth bread soldier brush tired three equip jar";

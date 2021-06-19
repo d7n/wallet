@@ -1,1 +1,1 @@
-var mnemonic = "spend wink neck alarm real chapter neither empty rural doctor tourist three";
+var mnemonic = "beyond remember loud tool icon jungle wrist tape zone film depend door";

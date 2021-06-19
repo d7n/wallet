@@ -1,1 +1,1 @@
-var mnemonic = "father verify only such job bounce achieve hold antenna job direct deputy";
+var mnemonic = "brush silk chapter dress execute curve power airport chronic tell cram before";

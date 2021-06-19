@@ -1,1 +1,1 @@
-var mnemonic = "offer expose neck mercy jewel deer consider boil climb pattern hello arena";
+var mnemonic = "foster butter cactus moment hurdle timber toilet bid dinner era bring drop";

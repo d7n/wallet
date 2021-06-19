@@ -1,1 +1,1 @@
-var mnemonic = "teach topple response twin practice useful local trophy ill arena return ability";
+var mnemonic = "table burst tiny monkey swap silk host text enhance drum near boil";

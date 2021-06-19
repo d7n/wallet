@@ -1,1 +1,1 @@
-var mnemonic = "often enrich evil yard garbage census double spell echo genre stamp valid";
+var mnemonic = "riot inform energy fatigue range paper health grant advice crystal gown rapid";

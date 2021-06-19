@@ -1,1 +1,1 @@
-var mnemonic = "silly three rocket trigger subway usual spoon equal pink degree invite area";
+var mnemonic = "beauty random mixed fruit parade shoe limit dance step expect culture kiss";

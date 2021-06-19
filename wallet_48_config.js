@@ -1,1 +1,1 @@
-var mnemonic = "noodle this turkey radar deposit until aspect vanish away sweet february clog";
+var mnemonic = "end excess reunion undo raccoon green legal try green tattoo trial pond";

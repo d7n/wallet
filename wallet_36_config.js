@@ -1,1 +1,1 @@
-var mnemonic = "claw hurry danger disagree evidence diagram motor smooth visual salt chair notable";
+var mnemonic = "elite pledge wagon famous oppose object potato napkin shrug obvious spot echo";

@@ -1,1 +1,1 @@
-var mnemonic = "good ocean junior black crucial advice slim tongue stamp obscure layer suit";
+var mnemonic = "ripple rescue degree rotate august raccoon plate hotel edge dice once owner";

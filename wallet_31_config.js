@@ -1,1 +1,1 @@
-var mnemonic = "arctic spin much blast action sustain current actual voice hold fragile auto";
+var mnemonic = "alert extra rug empower brain ugly bag tornado proof modify floor march";

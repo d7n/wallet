@@ -1,1 +1,1 @@
-var mnemonic = "library code black prefer price normal buzz grocery entry year inside wine";
+var mnemonic = "hotel black rookie various fantasy west panther pass cruise meat cliff pink";

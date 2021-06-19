@@ -1,1 +1,1 @@
-var mnemonic = "remove smoke forum silent wire fruit pattern skin banner zone color calm";
+var mnemonic = "guess laundry upper blanket frozen soccer normal foster upgrade announce peanut prison";

@@ -1,1 +1,1 @@
-var mnemonic = "viable misery ribbon naive other skill lumber alert film dice spare flower";
+var mnemonic = "ankle comic secret wedding recall always suspect edge opinion noise alien hazard";

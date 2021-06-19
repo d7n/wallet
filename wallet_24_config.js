@@ -1,1 +1,1 @@
-var mnemonic = "canvas jeans rate spice fix gold glue damage fire bless master online";
+var mnemonic = "range year soccer key spike income elite trouble pizza fire vague leg";

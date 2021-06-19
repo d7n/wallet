@@ -1,1 +1,1 @@
-var mnemonic = "physical lamp wolf base sign tail gloom explain speak lazy resist happy";
+var mnemonic = "magnet manage present ask upper pudding leader grief coach outside primary height";

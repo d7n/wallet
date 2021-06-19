@@ -1,1 +1,1 @@
-var mnemonic = "travel prosper worry jeans circle property scene cruise inform security question indoor";
+var mnemonic = "issue ozone cream text surface peace steak piano pattern roast dream clap";

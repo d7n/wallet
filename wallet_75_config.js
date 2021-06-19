@@ -1,1 +1,1 @@
-var mnemonic = "above obvious physical street exercise benefit error east turkey body rescue alley";
+var mnemonic = "fork alert since guitar trust merry govern basket solid sun summer hard";

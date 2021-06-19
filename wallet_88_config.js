@@ -1,1 +1,1 @@
-var mnemonic = "music coconut hour steak opinion can sentence tortoise giraffe step sea wink";
+var mnemonic = "vendor six urban execute guess advice time junk sunny pride insane drastic";

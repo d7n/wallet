@@ -1,1 +1,1 @@
-var mnemonic = "seed tortoise hint fatal pulp test miss quiz give silly coach copper";
+var mnemonic = "leave lemon fit teach humble bamboo car cook wrap know desert scrap";

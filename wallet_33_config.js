@@ -1,1 +1,1 @@
-var mnemonic = "rude happy donor run put lab twelve glance kangaroo shed chunk dignity";
+var mnemonic = "mean pretty only spread flash benefit zoo index miss explain demise draw";

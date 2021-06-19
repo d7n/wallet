@@ -1,1 +1,1 @@
-var mnemonic = "toe unfold now sibling drink consider mountain punch argue repeat better exercise";
+var mnemonic = "vendor viable tomato expand cool cricket onion rally dignity present acquire vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "alone fortune repeat wheat alpha sure casual among goat alien action laugh";
+var mnemonic = "casino sense then mean recipe item width strike slogan head pact citizen";

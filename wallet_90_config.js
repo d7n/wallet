@@ -1,1 +1,1 @@
-var mnemonic = "switch spirit hidden rigid indicate artist pave machine tomato lend install pill";
+var mnemonic = "split gossip salmon deny arrive exchange bonus vapor draft step fault grow";

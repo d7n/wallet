@@ -1,1 +1,1 @@
-var mnemonic = "album guard want happy south add lazy paddle opinion team audit engage";
+var mnemonic = "drive apology way spoil impose universe draw often hurry speak other mention";

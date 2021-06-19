@@ -1,1 +1,1 @@
-var mnemonic = "walnut arm muscle melt mean blade stumble pact frequent slab evoke talk";
+var mnemonic = "share churn clump order express mutual simple this select level brush tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "process kidney super bar collect size sustain skirt online brother prepare congress";
+var mnemonic = "penalty hand involve rhythm alert ability effort actor captain nothing solid box";

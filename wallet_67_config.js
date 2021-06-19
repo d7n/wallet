@@ -1,1 +1,1 @@
-var mnemonic = "target skill trial brief announce fury brother current hub hip fox mansion";
+var mnemonic = "fan transfer issue write survey squirrel away afford dilemma coil confirm isolate";

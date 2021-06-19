@@ -1,1 +1,1 @@
-var mnemonic = "bronze tissue abstract game miss pen bracket give message hobby reflect stable";
+var mnemonic = "uphold garage gospel minor fluid soap thought erupt silk debate neglect theme";

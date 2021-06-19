@@ -1,1 +1,1 @@
-var mnemonic = "build end wrap boss caution rude manage saddle strong tiger scene angry";
+var mnemonic = "river gorilla parrot amazing rebel medal catch spread end coral pen spray";

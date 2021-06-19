@@ -1,1 +1,1 @@
-var mnemonic = "spoon gospel train where torch copy defense unveil grape chaos abstract ladder";
+var mnemonic = "magnet medal final mandate chase spike ostrich galaxy have express tape good";

@@ -1,1 +1,1 @@
-var mnemonic = "purpose slim this strike border urge patrol soccer regret fame diet thought";
+var mnemonic = "space harsh gossip okay usual want squeeze attack kingdom ask gauge year";

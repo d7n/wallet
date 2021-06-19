@@ -1,1 +1,1 @@
-var mnemonic = "little mind pizza pencil track gospel pledge leaf speed plate expose size";
+var mnemonic = "reject repair whisper output tobacco famous shuffle panther apology shiver resemble demand";

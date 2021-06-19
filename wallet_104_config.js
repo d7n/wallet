@@ -1,1 +1,1 @@
-var mnemonic = "banner cigar latin away miss method loyal still choose usage fat receive";
+var mnemonic = "romance prevent timber claim reunion chase soap end lyrics artwork away oval";

@@ -1,1 +1,1 @@
-var mnemonic = "win pony chest horse human dial lobster brass train decorate drive despair";
+var mnemonic = "airport cram pencil mass skull scissors photo olive unveil office menu minor";

@@ -1,1 +1,1 @@
-var mnemonic = "bean rocket great panther fatigue wire response gain girl eager high tape";
+var mnemonic = "spot special cheap cube cousin melody promote night frozen surprise wild jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "draw legal point unable vague steak satisfy creek nest mule hawk wreck";
+var mnemonic = "ritual cycle cloud merry club scheme manage error ring fall lobster focus";

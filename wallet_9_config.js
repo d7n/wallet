@@ -1,1 +1,1 @@
-var mnemonic = "federal tobacco job banana recall punch unit away matter still brick deposit";
+var mnemonic = "digital winter diet pig bunker setup century divert kangaroo quarter abstract barrel";

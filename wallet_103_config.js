@@ -1,1 +1,1 @@
-var mnemonic = "exact crowd scare tell grace jump open scout gospel glide gaze convince";
+var mnemonic = "minute unlock tide legal pupil include mutual stock devote cabbage asset pledge";

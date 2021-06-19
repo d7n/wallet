@@ -1,1 +1,1 @@
-var mnemonic = "escape cabbage crisp today subject mix subject barely purchase truck mule until";
+var mnemonic = "never art milk inside penalty regular odor still inspire during few cherry";

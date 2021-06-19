@@ -1,1 +1,1 @@
-var mnemonic = "kiwi undo limb knock trip staff dolphin screen permit ripple zebra draft";
+var mnemonic = "sadness split album help cash sentence swear text furnace garden nation woman";

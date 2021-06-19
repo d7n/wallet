@@ -1,1 +1,1 @@
-var mnemonic = "travel mask exhaust raccoon now donor paper replace letter diesel airport tell";
+var mnemonic = "stand balcony marriage rely jeans image ancient short piece toilet bonus shock";

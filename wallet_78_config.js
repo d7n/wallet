@@ -1,1 +1,1 @@
-var mnemonic = "another virtual middle industry jar evidence summer pledge friend lemon dose year";
+var mnemonic = "blanket chronic finish frame razor pipe deliver shed sorry daughter excuse recycle";

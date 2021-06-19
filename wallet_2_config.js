@@ -1,1 +1,1 @@
-var mnemonic = "sister define weekend space cloth describe stone hamster there polar sign only";
+var mnemonic = "clutch label tool digital trap tray year pig valid seat useful render";

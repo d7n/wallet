@@ -1,1 +1,1 @@
-var mnemonic = "impose float december spy cloud wine magic lobster acid below embrace witness";
+var mnemonic = "voice input pet sweet very survey bean online fatal choose census cherry";

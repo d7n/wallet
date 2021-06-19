@@ -1,1 +1,1 @@
-var mnemonic = "please surge measure welcome cruise bamboo tiny fiber service cigar sheriff deer";
+var mnemonic = "pudding supply birth school assist modify scrub lumber smoke banana pond beach";

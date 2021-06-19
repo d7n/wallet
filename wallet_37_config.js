@@ -1,1 +1,1 @@
-var mnemonic = "case civil mixture crucial ball dish convince fabric snap quantum refuse lab";
+var mnemonic = "fix violin negative script essence runway always midnight tree furnace apple wish";

@@ -1,1 +1,1 @@
-var mnemonic = "minimum canal kiwi venue mouse rice river click indoor road pyramid exotic";
+var mnemonic = "skate shell eyebrow robust glide craft cool finish leisure cannon relief medal";

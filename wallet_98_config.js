@@ -1,1 +1,1 @@
-var mnemonic = "gold label grid toy twelve divert click wolf maid jelly snake gift";
+var mnemonic = "tunnel major drip major vacant shock minimum shine veteran van soda plug";

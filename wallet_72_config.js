@@ -1,1 +1,1 @@
-var mnemonic = "song shock chief educate elegant season shy fire match bunker hover primary";
+var mnemonic = "away snake prison gold turkey viable tree again rebel alley bonus code";

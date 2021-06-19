@@ -1,1 +1,1 @@
-var mnemonic = "gospel noise expect deal before click crucial pepper venture gravity mercy gossip";
+var mnemonic = "brick lazy enforce weird ring clip evidence brother retreat term menu case";

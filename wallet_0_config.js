@@ -1,1 +1,1 @@
-var mnemonic = "close problem hint oval whale choice raven away grief excess jungle siege";
+var mnemonic = "surface space argue remind bacon certain maid orbit velvet gadget bundle wink";

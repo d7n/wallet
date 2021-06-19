@@ -1,1 +1,1 @@
-var mnemonic = "relief smile answer borrow work goose dignity wedding juice marriage lazy love";
+var mnemonic = "film pool exhaust rice glue day plastic matter impose napkin pledge increase";

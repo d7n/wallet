@@ -1,1 +1,1 @@
-var mnemonic = "soda skate split drift combine vicious stand mercy safe ordinary logic melt";
+var mnemonic = "matter opera home embrace move question smoke clean gun shoe matrix tooth";

@@ -1,1 +1,1 @@
-var mnemonic = "truck cricket sad window rail scout fade chicken purity hurdle uphold grass";
+var mnemonic = "enforce catch shaft high attitude action grant leave arctic spy mass april";

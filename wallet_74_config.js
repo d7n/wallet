@@ -1,1 +1,1 @@
-var mnemonic = "jazz stadium rare extend hope kind arctic sun matter upset thank vacuum";
+var mnemonic = "equal ignore tobacco salad leader fine option favorite crouch dice sausage bar";
