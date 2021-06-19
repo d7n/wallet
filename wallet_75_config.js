@@ -1,1 +1,1 @@
-var mnemonic = "tissue charge nasty mad check avocado insect spray brief disorder mechanic trap";
+var mnemonic = "agree chimney visa remain idle swallow payment emerge measure ride friend dream";

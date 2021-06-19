@@ -1,1 +1,1 @@
-var mnemonic = "route social style daring morning victory still bitter memory allow color fan";
+var mnemonic = "chair club giant jacket blur number mom protect chicken property casino elite";

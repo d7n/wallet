@@ -1,1 +1,1 @@
-var mnemonic = "wrestle region pupil yard endless riot injury twin ketchup despair junk throw";
+var mnemonic = "silly travel champion unknown tent frame smooth figure van one pride hello";

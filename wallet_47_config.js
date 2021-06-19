@@ -1,1 +1,1 @@
-var mnemonic = "ask until card panda ability intact arrange ugly trim quality midnight neglect";
+var mnemonic = "page paddle cliff behind disease royal broom assist glad wasp loyal outdoor";

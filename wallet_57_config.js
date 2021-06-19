@@ -1,1 +1,1 @@
-var mnemonic = "purpose dice staff brown cereal bunker drill idea giggle car detail brisk";
+var mnemonic = "choose muffin cattle renew history rubber liar cage warrior toilet foam rather";

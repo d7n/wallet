@@ -1,1 +1,1 @@
-var mnemonic = "catalog frost pottery style woman advice write boring hunt robust dress orient";
+var mnemonic = "lounge hello welcome chicken allow diamond snow fuel artefact need legal hurt";

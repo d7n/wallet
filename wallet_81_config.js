@@ -1,1 +1,1 @@
-var mnemonic = "moon heart blouse enforce escape pledge hand pact silent task uncover ridge";
+var mnemonic = "music diamond swim deal legend soup know salon fault wild witness target";

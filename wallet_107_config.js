@@ -1,1 +1,1 @@
-var mnemonic = "survey tornado balance present memory witness powder robust hurt dismiss void cloud";
+var mnemonic = "salute planet web tip laptop suspect express rather off sheriff into whisper";

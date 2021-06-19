@@ -1,1 +1,1 @@
-var mnemonic = "faith boost middle hammer spare maximum wood lazy umbrella curious athlete hammer";
+var mnemonic = "number whale arrange intact medal fence keep rookie raccoon sad engine fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "soda oven zone average patient gentle cat torch client busy source destroy";
+var mnemonic = "basket insect knee tuna layer text beauty orient page resist news parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "team garden genre divorce entire ritual wave naive decrease weird target program";
+var mnemonic = "regret doctor echo fitness worth praise fatal letter bleak carry acoustic grape";

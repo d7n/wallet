@@ -1,1 +1,1 @@
-var mnemonic = "garment also title sleep luxury expire nothing draft scorpion tobacco uniform inject";
+var mnemonic = "twin attract differ security horse wisdom acid narrow bitter fence black craft";

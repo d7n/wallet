@@ -1,1 +1,1 @@
-var mnemonic = "degree fold version motor plunge rotate worth slender shoulder stable kingdom ethics";
+var mnemonic = "market enact broccoli submit assist pulp outer glove chalk other judge sunny";

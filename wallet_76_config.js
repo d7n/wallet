@@ -1,1 +1,1 @@
-var mnemonic = "produce crane arm spy syrup cry mango reopen people portion orphan unusual";
+var mnemonic = "man box bubble lonely alpha follow use guard destroy hover random desert";

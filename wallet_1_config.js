@@ -1,1 +1,1 @@
-var mnemonic = "victory bicycle person leg seed tragic stomach shy sibling spider occur vicious";
+var mnemonic = "nose unlock switch oppose volcano giraffe rocket female captain script dance dice";

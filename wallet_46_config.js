@@ -1,1 +1,1 @@
-var mnemonic = "evil reason volume crucial about order sponsor buffalo episode orbit enjoy assist";
+var mnemonic = "basket solar picnic cup crash effort north oven path question profit coach";

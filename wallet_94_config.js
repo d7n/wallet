@@ -1,1 +1,1 @@
-var mnemonic = "pair ladder badge drama sure sister december marble distance give fish copper";
+var mnemonic = "hill thunder venue maximum cattle rabbit profit pretty arrive dress frequent code";

@@ -1,1 +1,1 @@
-var mnemonic = "announce miss priority lawsuit virtual long suffer island cement ocean flip secret";
+var mnemonic = "protect alien tree giant auction bag novel soap stage noble deny analyst";

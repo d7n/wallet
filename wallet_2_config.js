@@ -1,1 +1,1 @@
-var mnemonic = "acoustic mosquito awkward belt caution bean industry artwork jewel bonus inhale mind";
+var mnemonic = "ceiling praise estate visit wife ostrich chase throw chat damage reduce bless";

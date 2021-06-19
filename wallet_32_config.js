@@ -1,1 +1,1 @@
-var mnemonic = "wage goddess iron maze talk fringe copy knife limb whale faith usual";
+var mnemonic = "cabbage task quit atom ankle bracket gain wear author deliver tunnel social";

@@ -1,1 +1,1 @@
-var mnemonic = "float warm rocket moral account worry dolphin fix maid pink palace dry";
+var mnemonic = "assume recycle east winter garden memory vault very debate skirt aware tell";

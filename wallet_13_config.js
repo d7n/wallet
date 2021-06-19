@@ -1,1 +1,1 @@
-var mnemonic = "future fury glory usual behave child erosion airport toward extend skull barrel";
+var mnemonic = "nephew wish inquiry appear female life home bitter rain solar destroy diet";

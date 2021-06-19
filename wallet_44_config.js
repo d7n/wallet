@@ -1,1 +1,1 @@
-var mnemonic = "mad wink bunker shop tent element moon amateur husband win into lucky";
+var mnemonic = "crash welcome venue void smoke cube boss taste rice approve square beyond";

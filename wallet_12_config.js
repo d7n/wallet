@@ -1,1 +1,1 @@
-var mnemonic = "shell wink seven sing recycle celery rebuild category cigar good edit person";
+var mnemonic = "pattern grab track enrich evolve head rice faint midnight beauty baby skin";

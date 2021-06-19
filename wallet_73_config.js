@@ -1,1 +1,1 @@
-var mnemonic = "oblige load save favorite pony kangaroo curious yard blood fiction frost female";
+var mnemonic = "system crane alley park awesome double snack jump arena buffalo short tenant";

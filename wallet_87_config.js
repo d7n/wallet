@@ -1,1 +1,1 @@
-var mnemonic = "return south pottery pretty essay drift quantum same employ basic sausage library";
+var mnemonic = "soccer hybrid keep mesh lift extend knee crucial change people step paper";

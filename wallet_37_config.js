@@ -1,1 +1,1 @@
-var mnemonic = "switch monitor board mystery legal blur wage stage vague cause connect outer";
+var mnemonic = "burden kangaroo mass sick oppose multiply demand motor whale transfer youth install";

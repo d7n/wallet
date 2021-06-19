@@ -1,1 +1,1 @@
-var mnemonic = "gather glow choose act welcome course tray fiction place run gold health";
+var mnemonic = "path cream elder ritual calm churn powder brown achieve ugly ordinary coil";

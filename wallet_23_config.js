@@ -1,1 +1,1 @@
-var mnemonic = "until effort balance great table keen mad enter surface inch spring adapt";
+var mnemonic = "peanut captain spirit craft wish someone glove march refuse bottom topic false";

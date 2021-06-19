@@ -1,1 +1,1 @@
-var mnemonic = "grant frown awkward alley drastic curious minimum sea firm illness arch piece";
+var mnemonic = "peanut proof end smart dress lift lizard cheap ring oak notice unfair";

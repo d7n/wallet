@@ -1,1 +1,1 @@
-var mnemonic = "unhappy lunch immune banner seminar goddess online uncle kite lumber latin basic";
+var mnemonic = "soul resemble borrow merit vault crush doll hill magnet energy sketch ceiling";

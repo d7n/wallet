@@ -1,1 +1,1 @@
-var mnemonic = "crane inch certain call wash bleak order cake slice reflect cancel weapon";
+var mnemonic = "inside margin squeeze urge stumble silk key advance thank swap arrange carbon";

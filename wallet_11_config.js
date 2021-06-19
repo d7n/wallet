@@ -1,1 +1,1 @@
-var mnemonic = "visual early peace twenty position protect vault scale drum palm lift switch";
+var mnemonic = "daring fashion tide paddle ridge ring toddler true above online random limit";

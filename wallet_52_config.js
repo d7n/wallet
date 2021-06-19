@@ -1,1 +1,1 @@
-var mnemonic = "fruit picture fossil polar shove sport vintage kidney lion patch minor chronic";
+var mnemonic = "hotel popular wait chuckle gesture pottery art thrive trouble order depend slender";

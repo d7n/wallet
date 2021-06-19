@@ -1,1 +1,1 @@
-var mnemonic = "title flame peanut setup fortune alter soup subway uphold spoon possible chalk";
+var mnemonic = "urge ginger spoon equal roof canoe dose inquiry curve virtual talent wet";

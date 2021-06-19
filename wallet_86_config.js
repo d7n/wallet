@@ -1,1 +1,1 @@
-var mnemonic = "learn cram stock lecture pond eye cram inside merge give perfect because";
+var mnemonic = "toddler cream film vessel trial call bottom breeze judge giraffe police luxury";

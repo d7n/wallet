@@ -1,1 +1,1 @@
-var mnemonic = "pepper invest next nephew maple cigar bleak letter pill zone adjust gap";
+var mnemonic = "bachelor pilot master hour rival injury solar field paper essence creek sweet";

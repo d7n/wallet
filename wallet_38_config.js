@@ -1,1 +1,1 @@
-var mnemonic = "viable tomato bread hungry gauge calm act arrow journey rather pond strong";
+var mnemonic = "social oval utility involve waste mad weather earn theme arrest snack check";

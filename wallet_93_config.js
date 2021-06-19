@@ -1,1 +1,1 @@
-var mnemonic = "stick detail taxi awful approve enlist history scrub rate visual depart negative";
+var mnemonic = "river magnet gather carbon people deny pottery case manual uniform rural slot";

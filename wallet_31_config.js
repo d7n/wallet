@@ -1,1 +1,1 @@
-var mnemonic = "monkey scout leaf grocery cement weekend weekend tower limb snap smart kitten";
+var mnemonic = "good giant digital wonder collect gym false easy worry fluid stove credit";

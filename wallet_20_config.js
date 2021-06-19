@@ -1,1 +1,1 @@
-var mnemonic = "canal return grape say pond large surge public mixture ship scare stand";
+var mnemonic = "easily fall step dignity million food crucial use wrong slam divide drastic";

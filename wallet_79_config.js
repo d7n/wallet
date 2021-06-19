@@ -1,1 +1,1 @@
-var mnemonic = "virtual maximum certain ginger device abstract settle because amazing bag live pass";
+var mnemonic = "pretty broccoli sad tired donate badge weird post tortoise before bridge choose";

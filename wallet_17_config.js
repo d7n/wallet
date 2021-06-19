@@ -1,1 +1,1 @@
-var mnemonic = "weasel welcome brush icon prepare today city humble circle load ancient coconut";
+var mnemonic = "picnic elbow depth flash machine tired circle above destroy guide opinion absorb";

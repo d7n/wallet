@@ -1,1 +1,1 @@
-var mnemonic = "arrest lens holiday segment twist message position melt pelican caught build stool";
+var mnemonic = "lounge luggage affair napkin vivid museum area endorse mule cable dilemma hub";

@@ -1,1 +1,1 @@
-var mnemonic = "hole render purpose left middle identify common abuse involve surround biology hurry";
+var mnemonic = "grid poverty victory print settle sleep unveil bless among throw soon ripple";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil diamond eager genre across unknown legend profit sand inject spice flower";
+var mnemonic = "grace exist bracket merit leisure inside strategy prefer chat enter fruit embody";

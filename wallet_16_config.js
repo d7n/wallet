@@ -1,1 +1,1 @@
-var mnemonic = "annual lend play unaware feature control click monster chalk brief behave sure";
+var mnemonic = "claw dash census tourist cricket someone alcohol bench chimney play kit ranch";

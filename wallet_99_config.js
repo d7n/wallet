@@ -1,1 +1,1 @@
-var mnemonic = "flower address tuition gospel path ozone labor fatigue tail smile middle page";
+var mnemonic = "arrive change fade decorate hammer cushion seat matter choose wave salad veteran";

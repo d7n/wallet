@@ -1,1 +1,1 @@
-var mnemonic = "vivid duck toe sort fall illness panda gloom pass picnic evoke news";
+var mnemonic = "mountain word raccoon medal bundle actor surge pistol great violin cupboard pass";

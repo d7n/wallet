@@ -1,1 +1,1 @@
-var mnemonic = "coral train party eagle candy curtain seven cluster hamster lizard secret lunch";
+var mnemonic = "execute illegal jump bundle basic ramp guard hammer tiger van inspire civil";

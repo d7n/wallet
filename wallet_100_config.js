@@ -1,1 +1,1 @@
-var mnemonic = "chase inflict loan crew size boy able powder dust neglect canoe rotate";
+var mnemonic = "juice deputy sadness blast sight rapid talk shoulder open stairs earth solid";

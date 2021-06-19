@@ -1,1 +1,1 @@
-var mnemonic = "token vault leg grunt snake liar doctor blood anchor awake entry reflect";
+var mnemonic = "prosper riot problem harbor arena pioneer expire subway mosquito arrive wool traffic";

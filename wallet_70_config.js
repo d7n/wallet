@@ -1,1 +1,1 @@
-var mnemonic = "school rescue pool biology enough harsh dish toy tunnel empower such talent";
+var mnemonic = "dilemma pencil open source try have jump anger gift thrive health shove";

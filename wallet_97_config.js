@@ -1,1 +1,1 @@
-var mnemonic = "convince core valid educate shiver stay inject cloud then fine fabric north";
+var mnemonic = "object stamp lady reject prize fetch gloom goat panic wrap income round";

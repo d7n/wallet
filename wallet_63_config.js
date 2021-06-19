@@ -1,1 +1,1 @@
-var mnemonic = "hold coach detail develop skin crawl expire speed noble immense gallery scrap";
+var mnemonic = "obscure have axis diamond rude exclude noodle unusual awkward hat false genuine";

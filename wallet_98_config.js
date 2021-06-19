@@ -1,1 +1,1 @@
-var mnemonic = "aware bike gap reform museum inner mom spell humble unhappy scout casual";
+var mnemonic = "skate blossom winter benefit again mixed hope trick party gown borrow present";

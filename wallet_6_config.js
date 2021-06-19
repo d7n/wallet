@@ -1,1 +1,1 @@
-var mnemonic = "plunge pepper energy what pizza void flame economy behave peace month endorse";
+var mnemonic = "arena hub solve rose trim bean push sunny major road truly around";

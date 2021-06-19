@@ -1,1 +1,1 @@
-var mnemonic = "sad increase struggle method ecology tower allow cube civil patient frequent unfold";
+var mnemonic = "bring torch muffin toilet innocent chuckle lumber club canal notable lion upset";

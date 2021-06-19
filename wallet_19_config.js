@@ -1,1 +1,1 @@
-var mnemonic = "spirit sugar dish inspire whale reason parrot cute wagon spice this mix";
+var mnemonic = "vintage riot catch fame kind address erosion obscure link domain sausage shuffle";

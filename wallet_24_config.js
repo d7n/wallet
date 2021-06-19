@@ -1,1 +1,1 @@
-var mnemonic = "bean mimic palm coffee quick tragic adapt repeat weapon surface bike soup";
+var mnemonic = "error attack sail clerk fix inhale please unit glare design often erase";

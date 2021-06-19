@@ -1,1 +1,1 @@
-var mnemonic = "volcano arrow canyon crash shed bird cycle husband soon obey crack few";
+var mnemonic = "repair analyst estate tragic toss hub elder aunt essence unveil empower want";

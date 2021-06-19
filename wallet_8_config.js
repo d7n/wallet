@@ -1,1 +1,1 @@
-var mnemonic = "prefer badge ginger invest father birth number measure accuse wise lesson elegant";
+var mnemonic = "awesome hold swarm situate cup midnight worry roof behind crane chat receive";

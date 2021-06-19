@@ -1,1 +1,1 @@
-var mnemonic = "category crack priority galaxy buddy flavor abandon lend twin life where color";
+var mnemonic = "document acoustic attend daring reject home correct cinnamon artwork asset achieve trend";

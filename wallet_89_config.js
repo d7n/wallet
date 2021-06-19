@@ -1,1 +1,1 @@
-var mnemonic = "globe nephew subject child story forest wild gesture claim you civil involve";
+var mnemonic = "hood monkey lazy receive improve physical announce laundry stable explain caught hedgehog";

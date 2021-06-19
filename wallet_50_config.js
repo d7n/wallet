@@ -1,1 +1,1 @@
-var mnemonic = "erupt distance cause rebel follow milk angry laptop bomb soon invite range";
+var mnemonic = "perfect tape actress cotton outer critic regret relax clutch area useless evil";

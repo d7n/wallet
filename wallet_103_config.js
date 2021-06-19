@@ -1,1 +1,1 @@
-var mnemonic = "gossip river flavor lobster will ten obtain check month legend scout machine";
+var mnemonic = "approve inspire dash pen search upgrade visa exclude fence tiger lonely shrug";

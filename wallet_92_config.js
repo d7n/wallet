@@ -1,1 +1,1 @@
-var mnemonic = "subway diary anxiety east eight shoulder jungle subject surround jungle icon pair";
+var mnemonic = "arrange faculty tomorrow arrange proof first spread same furnace gravity situate average";

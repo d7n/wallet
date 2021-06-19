@@ -1,1 +1,1 @@
-var mnemonic = "pond skirt observe leave multiply satisfy diamond equip scan avoid flight poverty";
+var mnemonic = "flavor swallow auction kitchen claim drive afford move clay lounge step balance";

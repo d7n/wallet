@@ -1,1 +1,1 @@
-var mnemonic = "split canvas noise valid axis tube vacuum horn young cattle keep output";
+var mnemonic = "disease balcony daughter accident wide census excuse impulse issue have primary gown";

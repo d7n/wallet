@@ -1,1 +1,1 @@
-var mnemonic = "during chase upset above confirm like shoe crane poem tape update picnic";
+var mnemonic = "because crater monster lounge raccoon erase luxury glow loan about forward ignore";

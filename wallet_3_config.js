@@ -1,1 +1,1 @@
-var mnemonic = "fire area race maximum zoo depend globe lunar insane replace motor return";
+var mnemonic = "nut unable proof print stuff clinic lamp tissue grace solid alpha flush";

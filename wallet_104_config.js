@@ -1,1 +1,1 @@
-var mnemonic = "brown hope gloom march funny all fetch render adult planet humor exchange";
+var mnemonic = "private arch used actual matrix ecology picnic favorite poverty attitude skate donkey";

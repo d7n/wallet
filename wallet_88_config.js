@@ -1,1 +1,1 @@
-var mnemonic = "elevator silver defense gasp humble bus move jewel alter fashion patrol search";
+var mnemonic = "balcony turkey stone try void ability paddle wait misery hello book venture";

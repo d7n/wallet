@@ -1,1 +1,1 @@
-var mnemonic = "history bid mystery toast select client mobile scheme survey beef fix carry";
+var mnemonic = "tail settle mouse suspect nothing leisure eye shoulder chapter pride road cry";

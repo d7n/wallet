@@ -1,1 +1,1 @@
-var mnemonic = "federal state cargo win sad thumb joke inhale below diesel elder device";
+var mnemonic = "bunker include scatter defense shaft friend cliff omit zero wasp notice picnic";

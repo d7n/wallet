@@ -1,1 +1,1 @@
-var mnemonic = "nurse sadness detail strong typical animal guard under beach ice eternal kidney";
+var mnemonic = "detail put turn balance subway demand budget afraid entry hollow bike slab";

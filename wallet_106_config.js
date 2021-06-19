@@ -1,1 +1,1 @@
-var mnemonic = "head slab airport raven toward party turkey dawn heart example burst feel";
+var mnemonic = "gold credit canvas seven typical harbor maze response badge fatal skull funny";

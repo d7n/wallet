@@ -1,1 +1,1 @@
-var mnemonic = "type power spy umbrella few delay wash trigger edit addict toward talk";
+var mnemonic = "stand collect impose sick novel thought poem trigger abuse dog parade mule";

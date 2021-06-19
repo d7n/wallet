@@ -1,1 +1,1 @@
-var mnemonic = "vendor fury pear oven potato boat write series merge logic core kiwi";
+var mnemonic = "foam sugar beach language ostrich impulse board detect finish soul measure pig";

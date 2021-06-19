@@ -1,1 +1,1 @@
-var mnemonic = "alien tortoise tuna dizzy online wash payment nice edge absent walk pen";
+var mnemonic = "piece color bacon april flock sibling fashion reject reject negative sadness maple";

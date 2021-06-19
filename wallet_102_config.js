@@ -1,1 +1,1 @@
-var mnemonic = "civil champion radio frozen huge air away urban paper impose anchor fitness";
+var mnemonic = "this direct hospital conduct impact waste dust wisdom wish couple heart senior";

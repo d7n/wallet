@@ -1,1 +1,1 @@
-var mnemonic = "wait protect oblige renew arrange bachelor empower crew pill guard joy main";
+var mnemonic = "truth kingdom repeat upon curtain dirt regret nice report never problem pencil";

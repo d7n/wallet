@@ -1,1 +1,1 @@
-var mnemonic = "frown hip galaxy attend fetch hover garment warfare any never stamp peanut";
+var mnemonic = "roast target advice dragon judge siren guilt mutual wonder business fashion quarter";

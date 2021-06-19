@@ -1,1 +1,1 @@
-var mnemonic = "message job wedding floor garment spice ecology attitude exhaust member supply essence";
+var mnemonic = "useful lunar memory present mistake ostrich security express wage often hundred elbow";

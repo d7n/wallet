@@ -1,1 +1,1 @@
-var mnemonic = "cart wave delay produce basic bitter maple galaxy shallow lizard cigar direct";
+var mnemonic = "horn renew release kind sight hazard busy junior shoot pool sail above";

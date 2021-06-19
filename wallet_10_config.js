@@ -1,1 +1,1 @@
-var mnemonic = "deliver blue surround twelve moon scout problem elite axis fit stand sense";
+var mnemonic = "chest pistol grant kangaroo section math nominee govern shaft naive universe alley";

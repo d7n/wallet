@@ -1,1 +1,1 @@
-var mnemonic = "enrich myth merit toe already interest opinion demand rigid term mask abstract";
+var mnemonic = "globe stool amateur flash repair shop kangaroo lecture load prison wine fat";

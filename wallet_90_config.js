@@ -1,1 +1,1 @@
-var mnemonic = "add unaware swarm exhaust wedding fantasy pencil begin visit siren envelope course";
+var mnemonic = "volcano evidence evil near toss insect joke chuckle humor duty intact accident";

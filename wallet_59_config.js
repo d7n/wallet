@@ -1,1 +1,1 @@
-var mnemonic = "pudding affair unhappy catch rent dish boss arm legal change icon alpha";
+var mnemonic = "twin devote until surface cook mammal grass library almost vehicle trigger possible";

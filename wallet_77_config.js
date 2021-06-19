@@ -1,1 +1,1 @@
-var mnemonic = "view random deny nerve payment pact bench reject return world raise sample";
+var mnemonic = "shell village swarm equip double early creek mobile abuse crisp syrup swing";

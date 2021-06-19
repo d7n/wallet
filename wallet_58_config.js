@@ -1,1 +1,1 @@
-var mnemonic = "cause faculty zone judge vocal midnight ticket build toward world name wing";
+var mnemonic = "phone cruel rate capital wreck embrace rocket hazard evidence novel educate drink";

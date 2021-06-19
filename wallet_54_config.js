@@ -1,1 +1,1 @@
-var mnemonic = "damage moon wash monkey produce ask element daring give method return swim";
+var mnemonic = "bread theme initial mass kit trick deposit rescue garlic spawn okay attract";

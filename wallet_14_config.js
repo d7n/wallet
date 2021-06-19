@@ -1,1 +1,1 @@
-var mnemonic = "hockey raise matrix convince advice toward leave can harsh original tragic abstract";
+var mnemonic = "garlic rate system need country unique fruit gather evil drip mansion blouse";
