@@ -1,1 +1,1 @@
-var mnemonic = "search hour vessel refuse vacant dragon enable old scheme defy advance alter";
+var mnemonic = "section voice lake vacuum party wagon have secret sibling alien letter fetch";

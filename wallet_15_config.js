@@ -1,1 +1,1 @@
-var mnemonic = "visual voice party neither female private core episode dash hover leopard update";
+var mnemonic = "possible rough inject damp card month absent reopen crawl ketchup burst blind";

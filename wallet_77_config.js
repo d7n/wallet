@@ -1,1 +1,1 @@
-var mnemonic = "fade shield mean tube avoid save lake pass speed awful airport near";
+var mnemonic = "tomorrow anchor boost water atom daughter discover jacket venture clump peanut service";

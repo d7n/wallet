@@ -1,1 +1,1 @@
-var mnemonic = "home rent unique win universe budget parent weekend drift tip raise window";
+var mnemonic = "safe energy cool script edit source item fluid furnace unknown approve cotton";

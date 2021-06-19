@@ -1,1 +1,1 @@
-var mnemonic = "rhythm mixture sorry put mercy stuff mean grab approve upgrade allow faculty";
+var mnemonic = "dress discover describe hidden school text satisfy fox chimney top coil share";

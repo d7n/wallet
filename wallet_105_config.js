@@ -1,1 +1,1 @@
-var mnemonic = "junk comfort swap front range salon any together gentle moral wire attack";
+var mnemonic = "stadium minute bonus cloud wave license online insane oven mango carpet lock";

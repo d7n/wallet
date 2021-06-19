@@ -1,1 +1,1 @@
-var mnemonic = "physical amount kitchen hair network wine life busy abstract awake search limit";
+var mnemonic = "primary girl rifle risk soccer siege differ fresh cream surprise salmon quality";

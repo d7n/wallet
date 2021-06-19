@@ -1,1 +1,1 @@
-var mnemonic = "urge elite when sugar animal execute home park limb shift radar leave";
+var mnemonic = "father august flame wheel remind horror elite brave recipe access business attack";

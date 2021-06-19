@@ -1,1 +1,1 @@
-var mnemonic = "initial exotic car blur initial inherit ball stem reopen cereal census broccoli";
+var mnemonic = "short gift burger shove rubber oil process street love sunset affair vacuum";

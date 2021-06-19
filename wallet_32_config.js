@@ -1,1 +1,1 @@
-var mnemonic = "cancel sea ivory grief movie butter exclude badge general click either license";
+var mnemonic = "custom isolate stumble field observe shadow bottom super guess whisper foil sell";

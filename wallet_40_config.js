@@ -1,1 +1,1 @@
-var mnemonic = "develop puppy memory order govern rack cable best shrug attend average wealth";
+var mnemonic = "knock supreme crumble cactus mouse grit extra sing fade worry warm accident";

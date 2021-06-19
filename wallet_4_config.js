@@ -1,1 +1,1 @@
-var mnemonic = "clutch harvest fever sense leisure panther liberty tent roast code unable conduct";
+var mnemonic = "private donor travel field fatal know gas romance box save grid rose";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi avoid ask seat citizen dilemma giant forward monster review race leader";
+var mnemonic = "purpose current analyst foot inject vehicle remind hawk lumber case delay client";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle crouch leisure avoid sunny add annual eyebrow wire because chicken fresh";
+var mnemonic = "evoke impact genius chief champion door wool swift room bullet cute permit";

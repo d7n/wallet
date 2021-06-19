@@ -1,1 +1,1 @@
-var mnemonic = "claim wrap favorite client size sponsor flower pudding derive rescue oval hurry";
+var mnemonic = "network survey surface clog clutch parade course luxury merit waste frog way";

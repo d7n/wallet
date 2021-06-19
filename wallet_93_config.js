@@ -1,1 +1,1 @@
-var mnemonic = "bicycle evil giggle enemy primary icon crime exit fabric gasp merry submit";
+var mnemonic = "inhale waste any desert merry guilt deputy popular segment unveil rice now";

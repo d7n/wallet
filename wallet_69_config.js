@@ -1,1 +1,1 @@
-var mnemonic = "grab victory nerve happy swift shove video sugar mask kid topic giraffe";
+var mnemonic = "second water give grape cause need airport radar bar sick prepare melt";

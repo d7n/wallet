@@ -1,1 +1,1 @@
-var mnemonic = "salt invite outdoor limit output glass cost suit arena giant fancy empty";
+var mnemonic = "day argue gaze turkey input sell rough vanish affair retire frequent course";

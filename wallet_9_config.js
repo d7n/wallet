@@ -1,1 +1,1 @@
-var mnemonic = "find game history net enrich car curtain enroll castle conduct cart entire";
+var mnemonic = "scrap affair wisdom visit dinosaur strategy provide wealth auto govern million pact";

@@ -1,1 +1,1 @@
-var mnemonic = "scout upon link right host motor bitter dish maid cherry road equal";
+var mnemonic = "canoe roast shine hair prepare miracle tray crane peanut client salt gauge";

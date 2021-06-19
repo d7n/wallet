@@ -1,1 +1,1 @@
-var mnemonic = "naive south purchase trumpet suffer mask misery august vast glue square make";
+var mnemonic = "machine ecology laptop craft setup elegant slender slam photo grow invest snake";

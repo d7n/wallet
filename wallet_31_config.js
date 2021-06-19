@@ -1,1 +1,1 @@
-var mnemonic = "magic volcano boring fresh surround say brush ignore upgrade sand stay ice";
+var mnemonic = "play clap tunnel unusual equip increase arch trip pelican village limit oxygen";

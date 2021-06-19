@@ -1,1 +1,1 @@
-var mnemonic = "disagree kiss wing merry warrior tank surge pizza submit lock rubber client";
+var mnemonic = "crater daring cave hobby muscle mutual there vital kind critic away above";

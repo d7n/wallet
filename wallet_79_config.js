@@ -1,1 +1,1 @@
-var mnemonic = "spin hungry release venue version risk thunder doctor knock setup bounce boat";
+var mnemonic = "deer aerobic force pigeon adult banana clap violin any flag file find";

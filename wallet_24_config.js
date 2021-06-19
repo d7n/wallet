@@ -1,1 +1,1 @@
-var mnemonic = "depart meat dragon boat bright velvet inquiry number frozen crime control nose";
+var mnemonic = "scissors large museum tank elite auto dilemma spray blame draw remind focus";

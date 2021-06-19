@@ -1,1 +1,1 @@
-var mnemonic = "motion below rebuild journey strong spirit reopen fun paddle ordinary link chicken";
+var mnemonic = "embody depend absent alien curious borrow useful follow lounge legend castle lounge";

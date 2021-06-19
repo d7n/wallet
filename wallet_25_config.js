@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow else retreat joy rotate organ basic present physical pottery maze track";
+var mnemonic = "motor nuclear release clock slot oxygen lamp arrow glide dog damage hill";

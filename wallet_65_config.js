@@ -1,1 +1,1 @@
-var mnemonic = "absorb magic elbow proud rough vessel dirt cloth question below nation shed";
+var mnemonic = "embrace target iron face report embody emotion steak candy meat number clever";

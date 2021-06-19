@@ -1,1 +1,1 @@
-var mnemonic = "life scissors april water cousin balance wagon shrimp engine forget monitor image";
+var mnemonic = "leaf gun edge meadow miracle boil own crush club seed large grocery";

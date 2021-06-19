@@ -1,1 +1,1 @@
-var mnemonic = "merry average prosper frown hobby noble hard movie destroy balance actor maid";
+var mnemonic = "impact strike river bargain depend defy novel depth rival muffin harsh season";

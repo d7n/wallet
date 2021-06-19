@@ -1,1 +1,1 @@
-var mnemonic = "million focus nasty lunar panda margin sauce cactus nuclear order clog pole";
+var mnemonic = "cousin tattoo damage immense cousin marriage radar eight illness health stereo pull";

@@ -1,1 +1,1 @@
-var mnemonic = "foil deposit piece clutch knock toast fortune viable rather control track fiction";
+var mnemonic = "master traffic legend network blush lazy ethics hello link ginger kit address";

@@ -1,1 +1,1 @@
-var mnemonic = "screen summer bomb father thunder brother judge water essay forum quarter dutch";
+var mnemonic = "meat resist seed now view pottery grass veteran forum focus juice sentence";

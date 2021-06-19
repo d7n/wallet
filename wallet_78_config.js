@@ -1,1 +1,1 @@
-var mnemonic = "hint vacant embark hard denial thought stadium truly shaft deer tell glory";
+var mnemonic = "change salmon better orbit wagon grunt wrist upon have vibrant neck physical";

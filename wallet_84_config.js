@@ -1,1 +1,1 @@
-var mnemonic = "hurdle panel pretty perfect long together gate matter club clap february glass";
+var mnemonic = "fluid brother grant loyal day endless sun medal junk visa music swamp";

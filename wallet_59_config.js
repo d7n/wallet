@@ -1,1 +1,1 @@
-var mnemonic = "special fat grit social raise fence double pony snap idle evolve forum";
+var mnemonic = "page print toddler shine glimpse still train more mask truth donkey category";

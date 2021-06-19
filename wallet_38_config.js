@@ -1,1 +1,1 @@
-var mnemonic = "picture that toy ozone cannon youth volcano vessel level island possible surface";
+var mnemonic = "ridge super gate annual board step tragic february moon quit soap hub";

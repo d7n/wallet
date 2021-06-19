@@ -1,1 +1,1 @@
-var mnemonic = "abuse group inject asthma roast tube student light burden road neglect pet";
+var mnemonic = "boring long wrong region offer scan swap stock library ugly timber seek";

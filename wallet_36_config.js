@@ -1,1 +1,1 @@
-var mnemonic = "genre wool clip explain guess night husband bar dust bag nest aunt";
+var mnemonic = "ready question employ trend nothing october lake mango zebra lizard trophy juice";

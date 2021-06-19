@@ -1,1 +1,1 @@
-var mnemonic = "vivid bulb hand concert unit vivid state pizza valid region diagram tone";
+var mnemonic = "judge student elite game other filter rescue recall hover inmate chunk edit";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent net orphan order cat ginger acoustic celery ranch defy shy rebuild";
+var mnemonic = "bonus color aware armed junior alien property since bike cherry exist reform";

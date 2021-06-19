@@ -1,1 +1,1 @@
-var mnemonic = "plunge dizzy reject author blind velvet fluid purity moment garment laugh learn";
+var mnemonic = "edge hurry attitude choice crater damage december budget luggage disagree virtual toss";

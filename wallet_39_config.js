@@ -1,1 +1,1 @@
-var mnemonic = "cool rapid museum life dragon rural flower ice upset denial sunny sketch";
+var mnemonic = "shallow bean elite cattle stable today guide message until dutch snap spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "pull hamster dynamic logic tip regret bird item ski juice desk cereal";
+var mnemonic = "exercise flower mobile behind obscure home rely bleak swap squeeze always upset";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip syrup soap evidence boil advance envelope exit skin horror special young";
+var mnemonic = "casual urge kid purse panic reward innocent jump fix hockey large canoe";

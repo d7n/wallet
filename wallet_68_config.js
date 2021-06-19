@@ -1,1 +1,1 @@
-var mnemonic = "fault tank domain pave flat adjust alpha text sight general tornado rubber";
+var mnemonic = "leaf chase excite retire wolf hero air equip journey inside foster verify";

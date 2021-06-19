@@ -1,1 +1,1 @@
-var mnemonic = "velvet daughter forum wage media wet equip purity cash fabric high force";
+var mnemonic = "decade arch famous nurse donor burden twin cactus bullet heart panic ski";

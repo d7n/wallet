@@ -1,1 +1,1 @@
-var mnemonic = "enroll shy word vague accuse taxi relax mix cricket hamster arena problem";
+var mnemonic = "detail iron dream change useful hundred dog eye beauty chunk carpet have";

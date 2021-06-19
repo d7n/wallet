@@ -1,1 +1,1 @@
-var mnemonic = "pencil liar violin hurt erupt light test youth metal must fatal pet";
+var mnemonic = "emotion glad civil swing canvas dry vague say nominee depend return behave";

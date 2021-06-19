@@ -1,1 +1,1 @@
-var mnemonic = "fabric segment mixed light cost include course essay awake lamp thing actor";
+var mnemonic = "crumble faculty pen legend thought brave paper reunion stamp notable heart stomach";

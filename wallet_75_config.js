@@ -1,1 +1,1 @@
-var mnemonic = "upgrade seven swap impose decide abandon crush alpha local plunge tackle snack";
+var mnemonic = "trust master word soon twin catalog mechanic lucky place sample basket arena";

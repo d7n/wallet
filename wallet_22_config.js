@@ -1,1 +1,1 @@
-var mnemonic = "mandate glue people mail assist glue phrase hint dash dish pilot quarter";
+var mnemonic = "rally you oak neutral aisle metal document hole provide sad cluster beyond";

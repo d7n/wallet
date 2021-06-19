@@ -1,1 +1,1 @@
-var mnemonic = "frost sense awake summer zoo best crop sketch stage rib thought number";
+var mnemonic = "remind embrace manual video damage wise code burden demand decide popular square";

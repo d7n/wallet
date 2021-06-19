@@ -1,1 +1,1 @@
-var mnemonic = "wine party view mind token bicycle parrot grant travel retreat swallow gloom";
+var mnemonic = "close flavor another fragile sugar able million entry scout city hidden wait";

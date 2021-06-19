@@ -1,1 +1,1 @@
-var mnemonic = "seat fade broccoli nest have wear canvas ostrich sure because accuse wheel";
+var mnemonic = "fix private crawl barrel congress trophy glance female shoe kitten until damp";

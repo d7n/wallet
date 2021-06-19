@@ -1,1 +1,1 @@
-var mnemonic = "genuine banner steel river youth autumn replace buffalo near short person twist";
+var mnemonic = "discover world provide absurd sauce climb try stand bridge file van subway";

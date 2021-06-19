@@ -1,1 +1,1 @@
-var mnemonic = "crouch analyst wage only control push armor cargo swarm large much bring";
+var mnemonic = "surface pole east bike empower simple settle crime soon gallery curious title";

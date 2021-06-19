@@ -1,1 +1,1 @@
-var mnemonic = "rent scout destroy found off lazy gloom canoe whip shrimp plastic awesome";
+var mnemonic = "insect expect bicycle enemy saddle winter cloth south whale market fun hamster";

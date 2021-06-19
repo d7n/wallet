@@ -1,1 +1,1 @@
-var mnemonic = "panel acquire world cluster flash pear bubble awake resemble salmon nose choice";
+var mnemonic = "biology dog live meat pioneer flush harsh need write nominee comic crumble";

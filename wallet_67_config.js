@@ -1,1 +1,1 @@
-var mnemonic = "fuel walk mobile wire manage clean course tired rate retreat scale company";
+var mnemonic = "food rebuild health cattle will wreck people below clock top also accident";

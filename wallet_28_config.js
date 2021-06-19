@@ -1,1 +1,1 @@
-var mnemonic = "glass help safe sell obscure salon fence figure another true open cruel";
+var mnemonic = "crisp vague spare ball present check sentence nuclear gaze unlock become pelican";

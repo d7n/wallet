@@ -1,1 +1,1 @@
-var mnemonic = "rifle extend glad acid square tribe jeans kiss curtain today force donate";
+var mnemonic = "fatigue arch extend access coyote mouse hurdle coconut dove wait bundle arrange";

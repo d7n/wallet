@@ -1,1 +1,1 @@
-var mnemonic = "patient wild quit display bread stereo feel trend company face quick inhale";
+var mnemonic = "vacant phrase december tube west stuff horn action ethics below already fee";

@@ -1,1 +1,1 @@
-var mnemonic = "leave exhaust stem image nut choice bean case cheese crater excite aunt";
+var mnemonic = "song rather jazz talent oval answer reject false coffee grunt satoshi purpose";

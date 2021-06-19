@@ -1,1 +1,1 @@
-var mnemonic = "park swallow visa first upset panel post novel behave climb roof yard";
+var mnemonic = "feed outer cousin staff pitch bean scale episode visual unit essay power";

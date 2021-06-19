@@ -1,1 +1,1 @@
-var mnemonic = "parrot chest churn follow key promote impulse auto spend bubble furnace debris";
+var mnemonic = "ripple add clock man spy fan bring false mystery smooth moon title";

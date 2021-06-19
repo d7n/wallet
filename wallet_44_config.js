@@ -1,1 +1,1 @@
-var mnemonic = "spare snake charge merit erase claw still valley possible topic dune order";
+var mnemonic = "abuse usual endorse beyond drift spice core avocado glance worry neutral element";

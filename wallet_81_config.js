@@ -1,1 +1,1 @@
-var mnemonic = "eye muffin guide situate need region canvas famous such vague size hire";
+var mnemonic = "jaguar mountain baby fantasy benefit flush erode predict affair sun degree desk";

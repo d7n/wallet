@@ -1,1 +1,1 @@
-var mnemonic = "best prepare always trap clean unknown carry afraid train favorite will saddle";
+var mnemonic = "main stick ivory april bundle lunar rain verify into ripple follow leader";

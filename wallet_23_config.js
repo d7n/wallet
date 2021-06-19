@@ -1,1 +1,1 @@
-var mnemonic = "science slam bench virus body olive bus tiger grant evidence route cave";
+var mnemonic = "author dad exercise truth jelly medal gloom surround scare deposit music return";

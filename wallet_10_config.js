@@ -1,1 +1,1 @@
-var mnemonic = "tag glass noise choose share satisfy farm garage spirit payment hawk modify";
+var mnemonic = "embark dose spoil very gesture present property august ensure exact abandon purity";

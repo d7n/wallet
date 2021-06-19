@@ -1,1 +1,1 @@
-var mnemonic = "shield desk case fortune help system night annual occur above net favorite";
+var mnemonic = "raccoon neutral treat kitten oxygen angle swap blanket eager vague original lucky";

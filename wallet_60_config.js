@@ -1,1 +1,1 @@
-var mnemonic = "wish afford play force ankle vapor chronic spend buddy friend hat loud";
+var mnemonic = "stem donate ask weather client sure rival oil split swing lens close";

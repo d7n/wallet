@@ -1,1 +1,1 @@
-var mnemonic = "spoil vapor shoe state distance occur right extend crouch begin style dial";
+var mnemonic = "viable uncover blossom brand boy siren thing short usage scale thunder adjust";

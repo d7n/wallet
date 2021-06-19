@@ -1,1 +1,1 @@
-var mnemonic = "science carpet teach unveil love yellow diary fantasy bar pottery utility cushion";
+var mnemonic = "volume vacant dinner floor state token lazy robust dwarf collect grunt industry";

@@ -1,1 +1,1 @@
-var mnemonic = "radar swing divert remind happy shop brush future fame tool wrap vocal";
+var mnemonic = "scrap refuse guitar grab vibrant furnace cloth game sail mango ridge smart";

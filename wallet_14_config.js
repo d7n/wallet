@@ -1,1 +1,1 @@
-var mnemonic = "sustain fatal enforce describe reunion laundry board canal camp powder dirt blast";
+var mnemonic = "tag opera giraffe risk energy awake flame gesture pact nerve private decorate";

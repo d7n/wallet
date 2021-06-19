@@ -1,1 +1,1 @@
-var mnemonic = "much level purse start glimpse derive sugar runway enforce taxi firm stuff";
+var mnemonic = "else choose true taxi leaf great pencil early merry goddess wonder news";

@@ -1,1 +1,1 @@
-var mnemonic = "manual right negative gown harsh search decade embrace parade agree task direct";
+var mnemonic = "lazy appear target become diet argue play october axis buffalo benefit disorder";

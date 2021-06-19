@@ -1,1 +1,1 @@
-var mnemonic = "file cross resist gesture spike method monitor gift maid toss predict spoon";
+var mnemonic = "myself blame uncover unusual cloud royal wear vapor fetch area symptom wood";

@@ -1,1 +1,1 @@
-var mnemonic = "number stadium future oyster neutral stay muscle melody toss glad kiwi grow";
+var mnemonic = "april general audit segment escape swift catch flat sport proud under clutch";

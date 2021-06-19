@@ -1,1 +1,1 @@
-var mnemonic = "tooth cream boring what thumb nuclear chase rose spare tuition scheme chalk";
+var mnemonic = "clock umbrella twice atom wing small border wheel phrase trap armed author";

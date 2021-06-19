@@ -1,1 +1,1 @@
-var mnemonic = "behave behave symbol melt because game riot carry base post solid lend";
+var mnemonic = "noble helmet number spring curtain range current obvious tired certain height exist";

@@ -1,1 +1,1 @@
-var mnemonic = "teach talent enable engage finger riot fiction rookie seminar drastic provide envelope";
+var mnemonic = "catalog actor polar physical large crater tilt potato cousin lend best banner";

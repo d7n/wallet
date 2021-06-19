@@ -1,1 +1,1 @@
-var mnemonic = "december wagon leg dirt wear wink pretty need truly bubble heart return";
+var mnemonic = "puppy security dwarf execute economy scale practice fetch asthma mutual provide submit";

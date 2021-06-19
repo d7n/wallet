@@ -1,1 +1,1 @@
-var mnemonic = "until begin stone ski drastic attend neither ask before million guide debate";
+var mnemonic = "patrol inhale source sun force rural phrase uniform try alcohol useful attack";

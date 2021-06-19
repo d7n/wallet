@@ -1,1 +1,1 @@
-var mnemonic = "you agree decrease error genuine bounce top firm soul lecture cement tide";
+var mnemonic = "grid weapon around sadness year ship neutral round goat zero lake door";

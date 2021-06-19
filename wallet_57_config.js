@@ -1,1 +1,1 @@
-var mnemonic = "guess moment armed journey alarm virtual habit busy middle before gauge chapter";
+var mnemonic = "matter castle outer vicious amused top airport wisdom funny resist oyster priority";

@@ -1,1 +1,1 @@
-var mnemonic = "drop daring degree fog repair leaf february neglect camera olympic dutch fitness";
+var mnemonic = "bleak cargo pigeon absorb cheese kiwi wrestle crash route culture wine cousin";

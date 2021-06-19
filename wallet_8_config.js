@@ -1,1 +1,1 @@
-var mnemonic = "razor clerk confirm tiger ozone allow fold coach select wise laptop purity";
+var mnemonic = "inhale october crime always over know best board gown open stairs lounge";

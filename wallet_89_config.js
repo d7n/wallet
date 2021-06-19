@@ -1,1 +1,1 @@
-var mnemonic = "number gentle blouse plug flavor broom unable disagree walnut arrow lyrics casual";
+var mnemonic = "bird whisper urban guitar civil divorce come glass horse frost shoe security";

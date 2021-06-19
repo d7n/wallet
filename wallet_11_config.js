@@ -1,1 +1,1 @@
-var mnemonic = "prize curious mobile night nerve occur layer term burger crash lonely cost";
+var mnemonic = "final flash edge route example write kiwi paddle tribe file tower confirm";

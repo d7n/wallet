@@ -1,1 +1,1 @@
-var mnemonic = "way scorpion spray cigar retire amount upper garage enable comic borrow put";
+var mnemonic = "scheme balcony horn plug taste typical sea such heavy comic shy grab";

@@ -1,1 +1,1 @@
-var mnemonic = "bean relax december deposit scale excess frog image sauce helmet meadow story";
+var mnemonic = "sphere enforce chef avocado source coconut puzzle plunge across mind lumber hammer";

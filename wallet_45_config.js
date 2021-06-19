@@ -1,1 +1,1 @@
-var mnemonic = "glue kangaroo damage cupboard bring vendor gesture kite execute father doctor walk";
+var mnemonic = "cute autumn drift sell segment window step dumb detail symptom inmate useful";
