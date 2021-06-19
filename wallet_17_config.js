@@ -1,1 +1,1 @@
-var mnemonic = "amused heavy pig judge merge slab present lend tongue elbow nasty toss";
+var mnemonic = "weekend goose false can perfect patch envelope quiz rude pulse little reopen";

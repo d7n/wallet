@@ -1,1 +1,1 @@
-var mnemonic = "enjoy art result trim gold chef choose enlist oil defy digital auto";
+var mnemonic = "practice insect demise govern culture lottery change mushroom theme agent prepare enter";

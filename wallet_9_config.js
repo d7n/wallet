@@ -1,1 +1,1 @@
-var mnemonic = "rebel metal asset attack hazard hobby ranch soft endless lottery sniff about";
+var mnemonic = "vendor merge olive toward swamp mean venture decorate local gloom garment pilot";

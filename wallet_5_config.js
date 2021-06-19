@@ -1,1 +1,1 @@
-var mnemonic = "rural awful amateur giggle hen debris giggle again catch jacket bar there";
+var mnemonic = "weird wing trick spot primary slab pride shove hip slab column weapon";

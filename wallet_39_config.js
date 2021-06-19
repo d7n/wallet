@@ -1,1 +1,1 @@
-var mnemonic = "enter grain sell miss file diary range betray century long shuffle bounce";
+var mnemonic = "trigger badge giant trigger belt praise stage require poem measure trim undo";

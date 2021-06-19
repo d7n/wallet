@@ -1,1 +1,1 @@
-var mnemonic = "master betray dish train primary occur analyst glass offer field rate rule";
+var mnemonic = "that garage pupil vast enough track august coast coffee pig napkin immune";

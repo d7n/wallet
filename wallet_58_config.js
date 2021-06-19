@@ -1,1 +1,1 @@
-var mnemonic = "cart apology sustain shield later fall piano father category leader speed bread";
+var mnemonic = "enforce spell genius glad praise dry witness tomorrow grocery text trash draft";

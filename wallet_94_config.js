@@ -1,1 +1,1 @@
-var mnemonic = "empty hour monster perfect envelope rich beauty rally athlete knife syrup web";
+var mnemonic = "toy spy file gorilla reason energy erosion enact nephew snack curious remove";

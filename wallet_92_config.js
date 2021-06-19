@@ -1,1 +1,1 @@
-var mnemonic = "prize swallow hurdle metal cheap sure crane chimney diary sad outdoor language";
+var mnemonic = "ordinary switch grit nest afraid crater scissors subway boil situate sponsor message";

@@ -1,1 +1,1 @@
-var mnemonic = "hip scout inside render guard decrease sweet dilemma charge universe elder duty";
+var mnemonic = "hip junior expand manage flag mule basic dry derive clinic word large";

@@ -1,1 +1,1 @@
-var mnemonic = "comic pact gadget bounce track shaft giraffe ice post thought dash now";
+var mnemonic = "naive concert major panic fit trim pigeon comic civil cruise tiny client";

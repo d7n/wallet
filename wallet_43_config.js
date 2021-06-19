@@ -1,1 +1,1 @@
-var mnemonic = "surface decrease kite fan toilet forum burger fork need trick motor mouse";
+var mnemonic = "oven vacuum setup where vital inch ship document you drama skirt album";

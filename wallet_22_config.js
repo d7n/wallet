@@ -1,1 +1,1 @@
-var mnemonic = "size scissors jeans gate wheat during scheme delay afraid pepper screen okay";
+var mnemonic = "fabric toward cloud sunset erase episode dismiss display elbow style dinosaur tape";

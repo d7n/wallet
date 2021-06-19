@@ -1,1 +1,1 @@
-var mnemonic = "penalty awake pink cattle volcano hard sweet balcony pause enough cloud suit";
+var mnemonic = "together relax angle rather seek garden more satoshi sick crop fury staff";

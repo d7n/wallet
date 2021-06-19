@@ -1,1 +1,1 @@
-var mnemonic = "science name prepare explain allow miracle gate boost smart guilt apple other";
+var mnemonic = "patrol fetch egg trigger very tank rocket ready speak humble diary cliff";

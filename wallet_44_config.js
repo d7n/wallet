@@ -1,1 +1,1 @@
-var mnemonic = "roast dream eye endless issue please obvious kite mom table sudden repeat";
+var mnemonic = "hybrid bachelor shell virus coach nominee taste sleep tape insect pulp apology";

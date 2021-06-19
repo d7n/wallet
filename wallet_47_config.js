@@ -1,1 +1,1 @@
-var mnemonic = "true thumb effort glue bus worry exact across delay object crime chair";
+var mnemonic = "sea frog rotate cave clerk club car flash response story among assist";

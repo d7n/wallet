@@ -1,1 +1,1 @@
-var mnemonic = "onion hotel useless valid cruise panther rigid interest afraid phrase slight able";
+var mnemonic = "skirt adjust nut term shaft spider void sphere champion force crane speak";

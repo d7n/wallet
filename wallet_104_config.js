@@ -1,1 +1,1 @@
-var mnemonic = "have transfer brief symbol copy over mammal jelly solar style bubble economy";
+var mnemonic = "leg sunset extend fat because arctic elevator plunge attack wrong ocean fade";

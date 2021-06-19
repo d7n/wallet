@@ -1,1 +1,1 @@
-var mnemonic = "exhaust supreme scrap cabbage width orbit exotic reason cushion movie journey nothing";
+var mnemonic = "naive knee lonely eagle loan foam elder essay nerve general annual outdoor";

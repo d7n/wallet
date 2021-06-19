@@ -1,1 +1,1 @@
-var mnemonic = "traffic tower salad mobile verb decorate crack vehicle park valve offer happy";
+var mnemonic = "enemy perfect remember picture assist tuna sand jump weather bar cruel hurt";

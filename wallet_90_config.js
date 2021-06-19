@@ -1,1 +1,1 @@
-var mnemonic = "collect violin face fade cash unaware sense wisdom blame news real divorce";
+var mnemonic = "ivory banner disorder music flavor flock segment sword harsh gospel chapter album";

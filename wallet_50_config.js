@@ -1,1 +1,1 @@
-var mnemonic = "equal another method pair emotion exist olive term home movie phone basket";
+var mnemonic = "usual bone east change base fan amused smart dizzy hollow leaf number";

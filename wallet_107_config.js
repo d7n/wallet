@@ -1,1 +1,1 @@
-var mnemonic = "ridge accuse upgrade kite power sleep control describe thunder divert cabin index";
+var mnemonic = "worth seed tiger slight extend brush ribbon please wink ethics target hire";

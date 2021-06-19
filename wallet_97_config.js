@@ -1,1 +1,1 @@
-var mnemonic = "proof adapt favorite mutual ordinary special screen minimum bomb pond there duty";
+var mnemonic = "merge dash turtle answer miracle sense present term frog allow impulse blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "song ocean interest fetch finish between payment tail picnic absurd amateur luggage";
+var mnemonic = "inflict snow mother dignity begin pride submit hole zebra limb high level";

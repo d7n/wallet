@@ -1,1 +1,1 @@
-var mnemonic = "trade method isolate memory left super east increase aisle report profit ask";
+var mnemonic = "business follow pool inmate clip camp human kite zebra sunny climb bargain";

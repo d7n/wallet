@@ -1,1 +1,1 @@
-var mnemonic = "subway ancient soul board build search congress sad mean dose waste initial";
+var mnemonic = "skate smart board rack window during oak happy govern oil nation off";

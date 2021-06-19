@@ -1,1 +1,1 @@
-var mnemonic = "degree that inch flame cost toward consider suit enemy onion foster honey";
+var mnemonic = "success label sport dignity panda garden topic lock practice venture blossom cheese";

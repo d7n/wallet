@@ -1,1 +1,1 @@
-var mnemonic = "wink pyramid plate lava slush easy collect mansion drastic pact hero verify";
+var mnemonic = "wolf weird brass alley deputy hire dry jump notable bubble assault crack";

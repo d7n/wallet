@@ -1,1 +1,1 @@
-var mnemonic = "near crowd negative fiscal away foil spike space rose comic enrich same";
+var mnemonic = "vehicle vacant logic sketch few panic boat carry volcano envelope already virus";

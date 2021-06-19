@@ -1,1 +1,1 @@
-var mnemonic = "dial game express garage omit situate lake fury yellow twist fire rhythm";
+var mnemonic = "scrap slam similar sorry uniform brass mix intact detail either you neck";

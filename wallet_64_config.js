@@ -1,1 +1,1 @@
-var mnemonic = "symbol oil soft wine swim toy leg pioneer know pelican client echo";
+var mnemonic = "quit top response virtual embark hollow uniform absurd spend spider poem morning";

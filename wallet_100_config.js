@@ -1,1 +1,1 @@
-var mnemonic = "lobster game public gospel deer clerk album market fury note input salad";
+var mnemonic = "protect quiz bind rather repair job sphere tissue once area order bonus";

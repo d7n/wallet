@@ -1,1 +1,1 @@
-var mnemonic = "spy path avocado month verify wish father ostrich offer display early police";
+var mnemonic = "column imitate foster hospital cliff priority lizard test parent awake tomato ridge";

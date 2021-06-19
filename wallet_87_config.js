@@ -1,1 +1,1 @@
-var mnemonic = "walnut submit butter actual image high habit relief father dose budget rich";
+var mnemonic = "shadow smile label scout frost phone brown dirt field crater taste eager";

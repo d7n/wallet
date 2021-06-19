@@ -1,1 +1,1 @@
-var mnemonic = "moral anger real wedding manage grass use minute pony grant pigeon project";
+var mnemonic = "faint kid syrup raven hole exhibit moral cruise alley foil first ahead";

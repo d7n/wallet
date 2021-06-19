@@ -1,1 +1,1 @@
-var mnemonic = "olympic brick phrase chase mistake shoulder tray corn airport give exchange picture";
+var mnemonic = "produce fiction wrestle fossil hand butter lift remain bless machine inflict toe";

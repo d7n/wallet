@@ -1,1 +1,1 @@
-var mnemonic = "airport satisfy sick youth arrive trap endless question scale razor magnet harsh";
+var mnemonic = "animal avoid bone notice verify supreme champion old brand cash assault problem";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon attend nephew fish obey point absorb erupt spike tiny slush fence";
+var mnemonic = "vibrant crime more tuition churn gloom feed base help layer inherit together";

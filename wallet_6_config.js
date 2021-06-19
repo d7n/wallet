@@ -1,1 +1,1 @@
-var mnemonic = "you fall erosion scale asset industry trust blue much curve clay fly";
+var mnemonic = "prefer tennis merry tenant extra script gesture blast because notice idea scrub";

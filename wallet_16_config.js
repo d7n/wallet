@@ -1,1 +1,1 @@
-var mnemonic = "search margin obey clerk test blame food giraffe hint glue stamp undo";
+var mnemonic = "cliff rebuild vicious paddle good later thrive soldier ride indicate thunder recycle";

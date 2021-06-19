@@ -1,1 +1,1 @@
-var mnemonic = "infant wrong scan group tomato clock agree upgrade slide day affair try";
+var mnemonic = "supply divert camera useful click sure blame pole owner drip friend surprise";

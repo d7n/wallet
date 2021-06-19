@@ -1,1 +1,1 @@
-var mnemonic = "monkey weekend early raven ostrich chuckle space youth cable cancel stumble pencil";
+var mnemonic = "edit bonus coach slam hungry where differ idle valley warfare spatial spray";

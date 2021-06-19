@@ -1,1 +1,1 @@
-var mnemonic = "stem add enact bargain program gap outside image gauge banana where soap";
+var mnemonic = "orchard license write tower swamp puppy coconut pigeon luxury suit digital limit";

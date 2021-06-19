@@ -1,1 +1,1 @@
-var mnemonic = "write firm curious law eager decrease permit assault glue myself coast live";
+var mnemonic = "street exercise spot inspire myself vault flavor dirt debris donkey shop trip";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate dove spend notable monkey clarify forward symbol coach tiny view knock";
+var mnemonic = "panic task any legal radar exclude maid receive skate birth cabbage spy";

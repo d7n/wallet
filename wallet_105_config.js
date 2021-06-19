@@ -1,1 +1,1 @@
-var mnemonic = "weasel scissors festival tongue tuition step case rough over repair know purpose";
+var mnemonic = "repair gravity weekend purse kind flavor insect holiday kit annual accuse bridge";

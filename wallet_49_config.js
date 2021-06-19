@@ -1,1 +1,1 @@
-var mnemonic = "bonus catch comfort voyage plastic quarter pet night coil ankle chuckle bid";
+var mnemonic = "yard student unlock sunset stick square expire tissue arrange brave razor merry";

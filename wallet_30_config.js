@@ -1,1 +1,1 @@
-var mnemonic = "wrap believe bleak acid someone fatal valid estate solar stable syrup insect";
+var mnemonic = "capital unaware wine pretty trade horse runway hair impact clinic cement room";

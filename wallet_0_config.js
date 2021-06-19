@@ -1,1 +1,1 @@
-var mnemonic = "patch drink duck boost park genre nasty drip blood episode say affair";
+var mnemonic = "shield fatal fatal token west question tooth impulse behave lizard draw brush";

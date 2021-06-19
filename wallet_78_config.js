@@ -1,1 +1,1 @@
-var mnemonic = "circle antique whip program kiwi siege traffic bargain chicken agent invest west";
+var mnemonic = "isolate hidden arctic peanut join vivid elegant walk tribe van velvet cancel";

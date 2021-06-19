@@ -1,1 +1,1 @@
-var mnemonic = "among punch effort unit two silver abstract carry duty swallow discover sail";
+var mnemonic = "such outdoor wealth example hood token present engage vanish ramp view silver";

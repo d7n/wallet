@@ -1,1 +1,1 @@
-var mnemonic = "behind post nurse mechanic attitude siren crack believe enemy pear legend mutual";
+var mnemonic = "online carpet gorilla addict express square setup spider cave fit tent hard";

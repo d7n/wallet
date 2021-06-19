@@ -1,1 +1,1 @@
-var mnemonic = "narrow still risk snap often spoil cancel cave dish quantum limit quantum";
+var mnemonic = "envelope rather mutual grace fox skill noble road cave lava pull flock";

@@ -1,1 +1,1 @@
-var mnemonic = "crater shy scare differ only raven member pioneer vacuum rifle action voyage";
+var mnemonic = "chef circle confirm avoid next inflict winner uncover cross tail solar end";

@@ -1,1 +1,1 @@
-var mnemonic = "essay desk joy begin black nuclear clerk enlist chaos oppose crumble planet";
+var mnemonic = "pony camp blast post birth rough syrup board basket tonight that apart";

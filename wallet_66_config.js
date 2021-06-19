@@ -1,1 +1,1 @@
-var mnemonic = "shoe replace length lucky song shrimp code truth unveil grab shrimp nation";
+var mnemonic = "jungle idea among best quality dash protect focus live future coast swing";

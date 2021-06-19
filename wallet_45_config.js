@@ -1,1 +1,1 @@
-var mnemonic = "edit enroll meat cancel auction drift slight drop leisure ginger powder couch";
+var mnemonic = "drop visit baby differ square awkward stairs pole post city two blood";

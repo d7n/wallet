@@ -1,1 +1,1 @@
-var mnemonic = "rapid project loan soda online blur reason shell immune bonus install sock";
+var mnemonic = "spice work coconut deputy divert need eight laundry analyst repeat wife velvet";

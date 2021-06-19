@@ -1,1 +1,1 @@
-var mnemonic = "vintage foam wheat impact inject top copper option cluster cake token valve";
+var mnemonic = "proof voice blanket vintage shift artist globe length jacket news biology cliff";

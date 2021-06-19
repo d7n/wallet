@@ -1,1 +1,1 @@
-var mnemonic = "estate parent reform bonus image grain tail toward uncover involve crucial thing";
+var mnemonic = "february stereo reflect super text car student chunk empower occur forward area";

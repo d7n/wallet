@@ -1,1 +1,1 @@
-var mnemonic = "talent bubble drum then harsh air staff enrich hedgehog gallery wink denial";
+var mnemonic = "quote garbage differ notable clap prize boring coyote truly baby coast saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow broom marble private blame usual pride cement warfare admit twice film";
+var mnemonic = "link clog silver leg army wolf cover mutual garage hobby shop lunch";

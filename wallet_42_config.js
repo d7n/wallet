@@ -1,1 +1,1 @@
-var mnemonic = "soldier face nice nephew exclude knock mandate damage front tone eager kind";
+var mnemonic = "city medal motor ticket ugly film income maximum spider desk dash enact";

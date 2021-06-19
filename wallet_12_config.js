@@ -1,1 +1,1 @@
-var mnemonic = "green poverty lobster head camera catalog custom someone diesel guitar morning student";
+var mnemonic = "cherry pave maid penalty fantasy chef little alien melt artwork youth daughter";

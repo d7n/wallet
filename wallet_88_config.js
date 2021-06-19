@@ -1,1 +1,1 @@
-var mnemonic = "order flag spot front begin design school vapor subject intact reason frown";
+var mnemonic = "deliver nerve crush forget simple lumber powder erupt cupboard wild member suit";

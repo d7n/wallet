@@ -1,1 +1,1 @@
-var mnemonic = "tortoise skill goat pumpkin slush own twenty lizard gaze disease acid sure";
+var mnemonic = "major increase other crack project quote maze radar file picture true cube";

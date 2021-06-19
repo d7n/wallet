@@ -1,1 +1,1 @@
-var mnemonic = "poverty liberty start blade three normal insect crawl drip answer test hammer";
+var mnemonic = "cheese outside boy enter window project retreat rent arena mimic detect until";

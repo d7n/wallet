@@ -1,1 +1,1 @@
-var mnemonic = "wrestle start stomach copper light crisp asset wise athlete general loan cattle";
+var mnemonic = "anchor beyond nuclear test frog gift lemon hidden gauge enhance grief project";

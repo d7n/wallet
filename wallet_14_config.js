@@ -1,1 +1,1 @@
-var mnemonic = "ship exercise memory finger fantasy carry room crime hollow just mandate power";
+var mnemonic = "room butter dash music venture obtain border title resist uncover van hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "myself grace filter diet enjoy culture solar cabin valley round upgrade life";
+var mnemonic = "face album kiwi mule pact ladder elder toddler asthma nuclear youth brass";

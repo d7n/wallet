@@ -1,1 +1,1 @@
-var mnemonic = "ski magic room one install poem need laugh urban project salmon vendor";
+var mnemonic = "broken bamboo sing blush october square employ plate warfare gesture crumble average";

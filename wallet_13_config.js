@@ -1,1 +1,1 @@
-var mnemonic = "left have easy vanish forum wrap tiger mask snap already range hair";
+var mnemonic = "message youth stable banner jelly jelly wave rent tornado option perfect settle";

@@ -1,1 +1,1 @@
-var mnemonic = "scale baby turkey forum expand dry gauge steel attitude dynamic fence adjust";
+var mnemonic = "hazard assume spread firm pet ankle vacant kite lizard field knee aspect";

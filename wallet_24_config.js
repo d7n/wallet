@@ -1,1 +1,1 @@
-var mnemonic = "wine arena flame bread huge grace jaguar win health theme delay shield";
+var mnemonic = "know saddle fluid balcony two romance world side usual flee cat author";

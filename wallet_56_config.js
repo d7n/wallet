@@ -1,1 +1,1 @@
-var mnemonic = "giraffe family series voyage robot label loyal slide anchor wine profit comic";
+var mnemonic = "doctor cushion metal multiply when sadness warm cluster offer amazing staff unable";

@@ -1,1 +1,1 @@
-var mnemonic = "immune staff renew brother find fringe draft body tourist same option fetch";
+var mnemonic = "rule couple chunk buddy friend peanut belt embody group issue disagree service";

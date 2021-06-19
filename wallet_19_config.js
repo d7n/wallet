@@ -1,1 +1,1 @@
-var mnemonic = "armor share flee rescue outside fork furnace chuckle siren dizzy caution layer";
+var mnemonic = "expose ask asset battle brain include tree exist ivory income hurt december";

@@ -1,1 +1,1 @@
-var mnemonic = "clock survey pulse paddle task shadow second salmon bamboo jewel swing unique";
+var mnemonic = "power ecology large adult manage beach what primary tray planet powder black";

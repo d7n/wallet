@@ -1,1 +1,1 @@
-var mnemonic = "ability vacuum olympic ready typical soup staff alley end memory fault crush";
+var mnemonic = "business wall pulp chunk kiss rail spy arrest until sadness outer govern";

@@ -1,1 +1,1 @@
-var mnemonic = "keen category gadget intact century scale tray ask income educate powder example";
+var mnemonic = "move once cluster motor provide loud funny abstract slow stock mention empty";

@@ -1,1 +1,1 @@
-var mnemonic = "economy baby imitate two seat suspect twelve display fatal layer half unique";
+var mnemonic = "harbor state spin mail future recipe egg hidden include input knee image";

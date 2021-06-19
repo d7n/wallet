@@ -1,1 +1,1 @@
-var mnemonic = "glare ball unlock member guitar gadget mistake myth town anchor genius topic";
+var mnemonic = "network fork guide oak plate canvas margin village noise number physical buyer";

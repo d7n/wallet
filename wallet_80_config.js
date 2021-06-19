@@ -1,1 +1,1 @@
-var mnemonic = "water unaware follow inject empower hurt excite misery spell taste palm accident";
+var mnemonic = "during large turtle sunny brief suit fancy give mammal where lens craft";

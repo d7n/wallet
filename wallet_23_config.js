@@ -1,1 +1,1 @@
-var mnemonic = "garage magic tooth kite door occur alcohol enroll venture nurse neglect chunk";
+var mnemonic = "dumb ozone verify laptop cattle cheap relief arrive present put job person";

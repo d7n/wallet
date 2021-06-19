@@ -1,1 +1,1 @@
-var mnemonic = "unfair sure any noise certain buddy fabric paper ill across when gold";
+var mnemonic = "garage opinion pitch bench below damp shallow figure fury work sorry allow";

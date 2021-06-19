@@ -1,1 +1,1 @@
-var mnemonic = "survey dress sting visual excess field math seed wire blue jewel advance";
+var mnemonic = "develop accuse sound whisper simple shoulder below debate ill this provide motion";

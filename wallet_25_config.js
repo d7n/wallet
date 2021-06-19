@@ -1,1 +1,1 @@
-var mnemonic = "clown surge broken depth lemon hazard letter april absorb anchor rail tiger";
+var mnemonic = "old visit alter liberty noble script enter injury drop capital shield noble";

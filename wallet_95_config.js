@@ -1,1 +1,1 @@
-var mnemonic = "glue carbon question popular perfect notable feed enough husband strike survey skill";
+var mnemonic = "foam gift hand they hybrid crunch bring wear divorce armed toast drive";

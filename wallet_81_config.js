@@ -1,1 +1,1 @@
-var mnemonic = "dragon goddess outdoor tomorrow april now accuse predict prison wait happy frog";
+var mnemonic = "valid abstract glimpse silk vocal outside suffer permit wisdom minor used profit";
