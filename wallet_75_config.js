@@ -1,1 +1,1 @@
-var mnemonic = "earn salon promote plug zoo avocado inner vanish because twenty until medal";
+var mnemonic = "nuclear cable fame potato stereo weapon foster mansion point fossil steel leaf";

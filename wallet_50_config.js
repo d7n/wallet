@@ -1,1 +1,1 @@
-var mnemonic = "sugar grunt essence fantasy mechanic long reunion nephew knife talk leader tenant";
+var mnemonic = "damp chapter surprise unit crumble identify turkey until mammal catch between misery";

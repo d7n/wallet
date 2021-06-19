@@ -1,1 +1,1 @@
-var mnemonic = "awake ahead stomach dolphin express crime flame wool half acquire enforce spider";
+var mnemonic = "urban afford toe mad rival uniform exit strong speed ecology spoil join";

@@ -1,1 +1,1 @@
-var mnemonic = "service survey bike blouse coffee online result nice blame beauty witness cruise";
+var mnemonic = "dress minor design earth dentist tuition smooth olive culture venue million lend";

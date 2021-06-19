@@ -1,1 +1,1 @@
-var mnemonic = "erupt cradle special stable pen situate dumb aspect barely use habit gym";
+var mnemonic = "minimum about pottery memory ask motion matter grape monkey sail flavor scale";

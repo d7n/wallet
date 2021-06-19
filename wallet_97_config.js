@@ -1,1 +1,1 @@
-var mnemonic = "tip twin same pull truck travel combine cake forum quote opinion flock";
+var mnemonic = "federal doll any raw wasp assist genius carbon meadow universe dash woman";

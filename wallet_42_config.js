@@ -1,1 +1,1 @@
-var mnemonic = "famous hair unlock neck razor water bachelor wisdom catalog nasty response age";
+var mnemonic = "size elegant exchange famous tourist cook crowd blossom exclude pill glass bulb";

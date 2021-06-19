@@ -1,1 +1,1 @@
-var mnemonic = "select degree pudding blade detail detect burger general excuse prosper useless must";
+var mnemonic = "dentist kingdom chair slender catalog aisle before addict way demise drive camera";

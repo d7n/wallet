@@ -1,1 +1,1 @@
-var mnemonic = "fetch walk orange lottery rubber frost together obtain rifle replace distance seven";
+var mnemonic = "theory indoor outer glove crack build bracket parade post pen traffic social";

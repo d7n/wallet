@@ -1,1 +1,1 @@
-var mnemonic = "proud sibling connect jacket able capital embark blood know story often soldier";
+var mnemonic = "smile staff pull price where visual can display fiber ahead rail fox";

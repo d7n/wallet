@@ -1,1 +1,1 @@
-var mnemonic = "dry nut battle pen torch buffalo bamboo luggage height dismiss skirt deputy";
+var mnemonic = "march quick flee toss need nose attract steel praise enemy panel casino";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna hip garden pill trend monkey virtual chronic over risk group upset";
+var mnemonic = "ball peace found couple dash next assist sweet hotel taste unveil output";

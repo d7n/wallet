@@ -1,1 +1,1 @@
-var mnemonic = "rude where jaguar cable company another mercy canvas kangaroo harvest little flock";
+var mnemonic = "embody execute coin law decline horn lonely blast exercise health chimney mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "festival pill fruit crack vanish across switch still earn total zoo awake";
+var mnemonic = "cube collect spare race brisk nest dawn stove job crush employ raccoon";

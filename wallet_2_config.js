@@ -1,1 +1,1 @@
-var mnemonic = "marine gift edit lobster wheat grow kangaroo increase layer drastic disorder spray";
+var mnemonic = "install busy era remove sport fog ketchup because health clutch quarter green";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy post police style tomato royal enhance miss surface bundle scatter eternal";
+var mnemonic = "analyst curtain mail caution stamp excite despair fury supreme thing fiscal eyebrow";

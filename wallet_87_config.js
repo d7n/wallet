@@ -1,1 +1,1 @@
-var mnemonic = "enjoy syrup fiscal output peasant cage figure curious where anxiety inside behind";
+var mnemonic = "match flash fall avoid twenty retire shoulder below melody good penalty cactus";

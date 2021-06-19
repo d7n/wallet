@@ -1,1 +1,1 @@
-var mnemonic = "train wrestle hurdle scorpion ethics close salmon health write hole kiss author";
+var mnemonic = "lion cycle human inside traffic major orchard acoustic marine ketchup city festival";

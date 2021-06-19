@@ -1,1 +1,1 @@
-var mnemonic = "neck fish embody glove survey reveal oak toe steak dad merge link";
+var mnemonic = "banana fortune hurdle tail giraffe dilemma negative future merge afford enough garbage";

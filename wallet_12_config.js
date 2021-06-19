@@ -1,1 +1,1 @@
-var mnemonic = "jar swap ordinary life sick lamp rather travel wreck census alley reject";
+var mnemonic = "maid congress roast note okay gallery diesel volume convince corn nurse diesel";

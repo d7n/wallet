@@ -1,1 +1,1 @@
-var mnemonic = "cricket frost pelican culture case place nest zero close brief north solution";
+var mnemonic = "nurse radio moment orphan shrimp shallow fever try basket kangaroo culture rent";

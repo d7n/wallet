@@ -1,1 +1,1 @@
-var mnemonic = "leader chicken panic hurt muffin define language grass apart beauty trick satoshi";
+var mnemonic = "pepper latin code rural slogan neutral canoe warfare measure among vital alien";

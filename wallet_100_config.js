@@ -1,1 +1,1 @@
-var mnemonic = "unfold pretty achieve forget camp wisdom random knife intact remove coach wreck";
+var mnemonic = "suffer hockey desert warm add angle result adjust arctic bus laundry stay";

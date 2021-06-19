@@ -1,1 +1,1 @@
-var mnemonic = "coin interest inject bulk guard glove elephant noise web artist during rebuild";
+var mnemonic = "scatter unlock hockey pelican fortune resource immense fringe oil any alter breeze";

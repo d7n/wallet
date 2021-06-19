@@ -1,1 +1,1 @@
-var mnemonic = "right media symptom firm silk pattern advance upgrade heavy lesson fiction chimney";
+var mnemonic = "century idea afraid love cat fatal crystal olive royal mass chalk extra";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli educate move orphan mixture parade grow census liar vintage bamboo cake";
+var mnemonic = "ivory purity useful lift bicycle upon blind ticket pony tree sustain horse";

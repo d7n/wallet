@@ -1,1 +1,1 @@
-var mnemonic = "close shuffle mammal wrestle solar crop inch autumn giraffe neck illegal calm";
+var mnemonic = "chaos repair side drill vocal just test dilemma sound pistol skirt silent";

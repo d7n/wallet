@@ -1,1 +1,1 @@
-var mnemonic = "gown true iron office void prevent roast title bus lab dose element";
+var mnemonic = "napkin degree thank employ device snap owner trumpet keep raise web solution";

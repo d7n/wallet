@@ -1,1 +1,1 @@
-var mnemonic = "rescue please proud crouch save thrive elite garden firm novel mushroom disorder";
+var mnemonic = "fiber gold wire liquid pigeon course real vicious awesome pilot orbit spell";

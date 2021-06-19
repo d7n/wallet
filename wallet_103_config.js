@@ -1,1 +1,1 @@
-var mnemonic = "tip either wish stomach wait conduct gloom rapid label mountain burden injury";
+var mnemonic = "indoor path sick thank goat plastic chest recipe rookie loop vessel frame";

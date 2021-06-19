@@ -1,1 +1,1 @@
-var mnemonic = "beach stone later tired vocal snake lecture dawn glass attend miracle differ";
+var mnemonic = "order bid tree float refuse wrist number ugly olive meat bench total";

@@ -1,1 +1,1 @@
-var mnemonic = "approve canyon never extend breeze leg alpha differ fluid able midnight idea";
+var mnemonic = "chief flavor job will clump appear life tooth bullet salute health speed";

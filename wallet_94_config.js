@@ -1,1 +1,1 @@
-var mnemonic = "horn crater rib donate scheme borrow add blue produce taste bar transfer";
+var mnemonic = "denial shaft embrace morning load frog under plate alter unlock hub spell";

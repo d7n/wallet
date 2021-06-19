@@ -1,1 +1,1 @@
-var mnemonic = "leopard skill goose post flat solid romance require base lens retire clinic";
+var mnemonic = "say north stem dad someone picture absurd sort fresh asset nephew fire";

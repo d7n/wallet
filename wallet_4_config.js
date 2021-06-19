@@ -1,1 +1,1 @@
-var mnemonic = "diesel despair senior input garden ceiling jazz earth razor skirt year author";
+var mnemonic = "spatial expand knee degree audit arrange tumble shield hip trash wonder wave";

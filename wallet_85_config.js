@@ -1,1 +1,1 @@
-var mnemonic = "six spike oxygen device predict layer jacket install chest monitor old private";
+var mnemonic = "clap churn school gas double novel walnut more castle close borrow clinic";

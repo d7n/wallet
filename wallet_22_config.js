@@ -1,1 +1,1 @@
-var mnemonic = "promote moon maze slogan annual fence bulb country humble jazz time impose";
+var mnemonic = "rebel myself town coyote rack toward raccoon still quarter motion enemy blur";

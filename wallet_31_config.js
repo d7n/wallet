@@ -1,1 +1,1 @@
-var mnemonic = "clutch argue silent prepare lizard olympic column jelly fancy weekend few rabbit";
+var mnemonic = "thing oyster minor struggle welcome educate dynamic orbit wink spot use slight";

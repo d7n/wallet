@@ -1,1 +1,1 @@
-var mnemonic = "miracle element clown cereal crisp they illness lab faculty inspire forum motor";
+var mnemonic = "weird celery nest pretty clog home afraid clever there jar river include";

@@ -1,1 +1,1 @@
-var mnemonic = "meat seat tip major company negative valley analyst beach enough garbage window";
+var mnemonic = "truth veteran reveal aisle lamp rabbit credit advance pigeon globe artwork awesome";

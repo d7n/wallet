@@ -1,1 +1,1 @@
-var mnemonic = "adjust other hundred suit market tail dynamic hill ginger core ticket upgrade";
+var mnemonic = "control dignity snake mobile machine walk hen math install arch emerge thrive";

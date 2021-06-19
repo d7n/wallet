@@ -1,1 +1,1 @@
-var mnemonic = "tortoise area wagon say suggest dizzy trouble armed aspect detail crew forum";
+var mnemonic = "chuckle account uncover ridge enact duck urge planet scheme episode era quiz";

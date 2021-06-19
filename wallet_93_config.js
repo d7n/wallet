@@ -1,1 +1,1 @@
-var mnemonic = "hover enough fashion project dwarf female issue distance tell dismiss legend island";
+var mnemonic = "walk input enough lunar position deny coil virtual mercy beyond waste lady";

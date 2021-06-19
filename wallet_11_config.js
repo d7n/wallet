@@ -1,1 +1,1 @@
-var mnemonic = "hungry seminar eight almost cruel region luggage sunny scorpion region van pink";
+var mnemonic = "rate cruel vocal idea paper vapor base become keen diagram illness labor";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic breeze ask denial try hub chimney text artefact lock follow clip";
+var mnemonic = "bracket menu mango kite rule matrix near thought fire notable there begin";

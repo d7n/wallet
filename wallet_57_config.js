@@ -1,1 +1,1 @@
-var mnemonic = "rent screen body scatter online pool dance sell apple more demise curious";
+var mnemonic = "pitch poet lemon unaware grain barrel cook network twelve talk bulk paper";

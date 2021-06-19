@@ -1,1 +1,1 @@
-var mnemonic = "razor work sniff capital book shine music faint barely liquid rib sketch";
+var mnemonic = "struggle monitor hawk slender room chunk clay dirt interest pool stand silver";

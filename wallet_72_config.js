@@ -1,1 +1,1 @@
-var mnemonic = "address gold empower style grunt segment axis print vault merit correct dose";
+var mnemonic = "snow acid apology portion catalog auto garage ignore please female rent august";

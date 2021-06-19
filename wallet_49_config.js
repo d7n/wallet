@@ -1,1 +1,1 @@
-var mnemonic = "fold album kangaroo oyster undo settle brief vacuum hungry stove radar access";
+var mnemonic = "middle amused minor jungle banner gift test actor soon dutch tell best";

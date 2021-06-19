@@ -1,1 +1,1 @@
-var mnemonic = "kiss sauce piece million subway pyramid wait actress nation make enjoy answer";
+var mnemonic = "receive smoke capital pride equal adjust season logic swear kangaroo bright aisle";

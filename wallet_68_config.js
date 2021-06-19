@@ -1,1 +1,1 @@
-var mnemonic = "village distance hockey exclude asset process tonight tunnel hole arrow patrol chapter";
+var mnemonic = "gauge vintage involve move inner rabbit hybrid deer leave fork void noodle";

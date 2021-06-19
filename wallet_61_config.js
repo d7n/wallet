@@ -1,1 +1,1 @@
-var mnemonic = "aspect destroy point journey cloth help arrest plug wall captain divorce twist";
+var mnemonic = "coach few plate rail dilemma wood report cherry device umbrella roast innocent";

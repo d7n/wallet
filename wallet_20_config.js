@@ -1,1 +1,1 @@
-var mnemonic = "swap diesel raise sea solve travel almost chaos silly breeze captain curtain";
+var mnemonic = "arrow next first rent exact paper invest tip reflect globe theme pizza";

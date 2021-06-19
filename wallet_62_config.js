@@ -1,1 +1,1 @@
-var mnemonic = "table purity vessel custom woman theme shadow setup topple language tone vital";
+var mnemonic = "illegal range poverty replace cigar embark company remain display attitude speed car";

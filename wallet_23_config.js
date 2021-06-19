@@ -1,1 +1,1 @@
-var mnemonic = "divorce please owner domain rude arrow scene kid occur jungle wish half";
+var mnemonic = "clutch remind skate gloom mystery ability route together profit leisure upon whisper";

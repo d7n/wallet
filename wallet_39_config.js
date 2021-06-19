@@ -1,1 +1,1 @@
-var mnemonic = "that tray still lawn cinnamon rose cheese depth conduct blur dizzy inject";
+var mnemonic = "plastic acquire confirm pepper drip movie shallow lift outdoor switch flame anchor";

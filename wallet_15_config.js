@@ -1,1 +1,1 @@
-var mnemonic = "science speak put usage spend hotel force vibrant warrior client find tag";
+var mnemonic = "mobile company pottery message banner hard eager front olympic amount snow rabbit";

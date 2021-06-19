@@ -1,1 +1,1 @@
-var mnemonic = "more kingdom border tourist fork sign core right scare crane steak copy";
+var mnemonic = "power debate smoke quarter reason casino often awkward oven beauty story tower";

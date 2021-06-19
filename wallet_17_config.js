@@ -1,1 +1,1 @@
-var mnemonic = "blossom arrest embody text limb surge alcohol moon stuff swear material seven";
+var mnemonic = "sunny borrow beef sheriff use limb feel walk lobster warm super column";

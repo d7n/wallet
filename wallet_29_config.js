@@ -1,1 +1,1 @@
-var mnemonic = "drift mosquito island move tennis must dance panic object wrestle venture earn";
+var mnemonic = "access quantum catch witness rapid source pitch ribbon total peasant crash access";

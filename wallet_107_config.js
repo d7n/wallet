@@ -1,1 +1,1 @@
-var mnemonic = "drive van credit page appear rocket dad stuff pulse extra hand truth";
+var mnemonic = "rural cereal middle into envelope jacket thing kick drive innocent world visit";

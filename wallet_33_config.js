@@ -1,1 +1,1 @@
-var mnemonic = "hip heart simple riot timber stuff tilt can slab guess switch output";
+var mnemonic = "truth humor skill glare spider sport inner fiber fatal load elephant cave";

@@ -1,1 +1,1 @@
-var mnemonic = "dinner finish mobile rhythm present slight icon audit wing jungle buyer quarter";
+var mnemonic = "walk key tell bracket cancel silk photo innocent next math cannon tide";

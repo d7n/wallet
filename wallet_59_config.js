@@ -1,1 +1,1 @@
-var mnemonic = "space dial simple lyrics tiger cream apart warm sleep music field affair";
+var mnemonic = "open suffer fantasy okay inspire stick pet sample assume east hero skate";

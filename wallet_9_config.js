@@ -1,1 +1,1 @@
-var mnemonic = "decade wild sick midnight alarm kiss wheel motion spoon client absent walnut";
+var mnemonic = "sponsor pattern blue clock mercy cherry disorder crazy spice source wall this";

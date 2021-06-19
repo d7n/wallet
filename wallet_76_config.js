@@ -1,1 +1,1 @@
-var mnemonic = "cat sample want burst good poem shy clay feel parade pause include";
+var mnemonic = "spider heavy inflict crawl school aware congress horror cereal tell virus notable";

@@ -1,1 +1,1 @@
-var mnemonic = "crack critic demand base quick high churn ritual rich funny mountain cage";
+var mnemonic = "sail like relax laugh public canvas will waste clip main ability spice";

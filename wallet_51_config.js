@@ -1,1 +1,1 @@
-var mnemonic = "innocent cricket minimum wisdom light among shock crunch amused across make dove";
+var mnemonic = "grunt carbon impulse balcony pluck like better helmet profit engine opinion empty";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp safe surprise exhaust response comic minute system shadow rival sting april";
+var mnemonic = "silent vote region ordinary pretty resource purchase awake exotic cover chronic erase";

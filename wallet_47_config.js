@@ -1,1 +1,1 @@
-var mnemonic = "arm still drip scout twin dwarf drum claw roof direct muscle ski";
+var mnemonic = "suffer choice flee click potato nominee feel author sock supreme vault episode";

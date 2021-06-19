@@ -1,1 +1,1 @@
-var mnemonic = "off stomach core energy lobster photo congress output mercy ten trouble arrive";
+var mnemonic = "figure weasel spoon dove leopard moment sock follow just grow either loyal";

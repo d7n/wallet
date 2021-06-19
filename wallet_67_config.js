@@ -1,1 +1,1 @@
-var mnemonic = "exit flip company chest until goat merge tongue jelly purchase ask erosion";
+var mnemonic = "bacon adult evolve throw tuition shell winter shoe tackle add sense admit";

@@ -1,1 +1,1 @@
-var mnemonic = "marble weasel wreck donkey tone market flush marriage lake unit iron taste";
+var mnemonic = "minimum afford organ abstract give true spice since mistake brown venture obvious";

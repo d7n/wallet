@@ -1,1 +1,1 @@
-var mnemonic = "daring inmate spawn renew script viable december abstract wrestle reject goddess march";
+var mnemonic = "adjust proud when lunch oval number spell seat shy phone poet hip";

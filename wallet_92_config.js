@@ -1,1 +1,1 @@
-var mnemonic = "job side spell hunt verb return liberty knife unable ride gasp invite";
+var mnemonic = "regular inch diamond pyramid hat remember today worth worth custom update ivory";

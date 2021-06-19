@@ -1,1 +1,1 @@
-var mnemonic = "lava fog bundle build cube early stuff spread state section canal range";
+var mnemonic = "push tomato cheap december number thank chef van lunch relax worry similar";

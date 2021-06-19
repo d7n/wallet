@@ -1,1 +1,1 @@
-var mnemonic = "west reform slam various net middle decrease mind rough master float setup";
+var mnemonic = "smooth require unusual brother tiger rapid rough indicate seat economy mask catch";

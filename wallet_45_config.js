@@ -1,1 +1,1 @@
-var mnemonic = "flat entry budget picture amazing movie symbol august figure essence black involve";
+var mnemonic = "ridge bullet major traffic issue ozone wool torch habit cave turkey paddle";

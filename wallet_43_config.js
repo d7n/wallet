@@ -1,1 +1,1 @@
-var mnemonic = "actual great easily census water dune reflect ability butter minute twelve human";
+var mnemonic = "journey acid clay animal fit history frozen marriage december divorce amused diagram";

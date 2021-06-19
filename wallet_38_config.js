@@ -1,1 +1,1 @@
-var mnemonic = "expect unveil october fury vendor zebra attend evolve execute mixture tomorrow kit";
+var mnemonic = "hand guitar shuffle stuff win agree easily jewel warm arctic solar act";

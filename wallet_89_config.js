@@ -1,1 +1,1 @@
-var mnemonic = "portion neither market mother room year cactus fun code evidence office clever";
+var mnemonic = "chaos rabbit distance imitate supreme buzz catch peanut demise blade basket sword";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug bronze inform congress agree radar fetch salt lucky march walk dirt";
+var mnemonic = "blur amazing angry absorb glow prize simple armor you rookie rib earth";

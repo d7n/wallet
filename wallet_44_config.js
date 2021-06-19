@@ -1,1 +1,1 @@
-var mnemonic = "entire sketch wife cereal sell close drill rule depth second dove gun";
+var mnemonic = "machine cinnamon stage ship start duty taxi seven tooth author fatigue easy";

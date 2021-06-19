@@ -1,1 +1,1 @@
-var mnemonic = "rescue rule bar crouch captain gather knock south local affair disease trumpet";
+var mnemonic = "stove laptop amazing prize toss great december give abstract sausage shield develop";

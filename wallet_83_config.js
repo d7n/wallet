@@ -1,1 +1,1 @@
-var mnemonic = "come valley lemon thumb vapor spin flock season trigger wing pencil creek";
+var mnemonic = "blast ramp dinner cross cliff venture cruel wage pride you champion network";

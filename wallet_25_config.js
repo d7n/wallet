@@ -1,1 +1,1 @@
-var mnemonic = "flip impact build sample east couple verb win velvet dog blossom remind";
+var mnemonic = "timber visual public evoke dog million list age sadness flee lawn only";

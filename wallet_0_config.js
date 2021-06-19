@@ -1,1 +1,1 @@
-var mnemonic = "horse balcony museum quantum ship myself current virtual before mix raccoon run";
+var mnemonic = "model hat scatter carry toward syrup punch guard gold trash huge situate";

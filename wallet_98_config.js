@@ -1,1 +1,1 @@
-var mnemonic = "broken garment demise erupt frost sentence trap logic diesel control fluid print";
+var mnemonic = "better foil birth foot theory say enable enrich veteran common call label";

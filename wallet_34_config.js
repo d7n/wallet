@@ -1,1 +1,1 @@
-var mnemonic = "clay orphan fit poem absent adjust priority planet this tape artwork barrel";
+var mnemonic = "romance sting knee luxury burger dream hockey ball addict health false casual";

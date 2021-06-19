@@ -1,1 +1,1 @@
-var mnemonic = "diesel act join tissue elder wreck fork flip taxi pool defense vault";
+var mnemonic = "mammal ahead trigger above spirit deer improve differ toward rare hat whale";

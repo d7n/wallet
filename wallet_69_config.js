@@ -1,1 +1,1 @@
-var mnemonic = "exchange wage false behave immune setup foam limb orange spoon loyal distance";
+var mnemonic = "muffin shuffle leg often over lawn catch woman grant lemon curve truth";

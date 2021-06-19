@@ -1,1 +1,1 @@
-var mnemonic = "save will ship intact address between cake hurdle distance fee artwork say";
+var mnemonic = "scrap plunge protect parade domain depart girl credit habit trend muffin swamp";
