@@ -1,1 +1,1 @@
-var mnemonic = "upset outdoor metal cushion install juice course normal empower desert fence into";
+var mnemonic = "observe spatial space air resource glass drip inject execute wink soldier stock";

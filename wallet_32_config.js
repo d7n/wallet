@@ -1,1 +1,1 @@
-var mnemonic = "inner spare arrest police sad volcano grace question jazz genuine riot tortoise";
+var mnemonic = "stomach upset sweet stem process slot orchard girl usual chapter remind kit";

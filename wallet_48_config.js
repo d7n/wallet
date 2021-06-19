@@ -1,1 +1,1 @@
-var mnemonic = "winter rubber crisp hobby cluster finger swap merge loyal depart wash dismiss";
+var mnemonic = "swamp material chronic beyond glass sibling alone cry segment chronic actor pipe";

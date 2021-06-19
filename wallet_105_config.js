@@ -1,1 +1,1 @@
-var mnemonic = "journey hope forget foam insect model surprise raven choice excess boy fix";
+var mnemonic = "girl monitor armed oyster goat also glow bright rate silent truly twelve";

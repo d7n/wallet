@@ -1,1 +1,1 @@
-var mnemonic = "slide country hub rigid dolphin parade balcony favorite custom emotion people learn";
+var mnemonic = "swarm dawn leisure space obvious unaware culture live creek rather solution theme";

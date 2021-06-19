@@ -1,1 +1,1 @@
-var mnemonic = "puppy century diary welcome armor crop provide chat quick category valley various";
+var mnemonic = "lizard twice entry announce autumn vintage patch survey first jaguar holiday apart";

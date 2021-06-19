@@ -1,1 +1,1 @@
-var mnemonic = "hold jump peace clock sorry trend illness crazy easy prison prevent scale";
+var mnemonic = "eight buzz upon dentist swim output outside good fringe peasant short clay";

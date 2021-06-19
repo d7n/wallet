@@ -1,1 +1,1 @@
-var mnemonic = "radar mutual limit fuel hire illness north purpose melody soon head nice";
+var mnemonic = "dinosaur guard arena creek organ despair surround stock scrap sing clump clap";

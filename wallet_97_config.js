@@ -1,1 +1,1 @@
-var mnemonic = "comic abuse genius measure kit ceiling sibling strike patient faint ankle scorpion";
+var mnemonic = "flame ranch gold select wide regret vicious uncle elite scrap enlist crystal";

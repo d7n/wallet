@@ -1,1 +1,1 @@
-var mnemonic = "detect mutual physical link keen share cactus rose offer genre guitar general";
+var mnemonic = "tilt strike climb title artefact heart neck dinner violin apple gaze deliver";

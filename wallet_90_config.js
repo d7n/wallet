@@ -1,1 +1,1 @@
-var mnemonic = "broccoli tattoo total subject also search ramp soul injury embark borrow hammer";
+var mnemonic = "runway hybrid capable sadness nerve tired sound answer tissue acquire earth vacuum";

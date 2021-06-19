@@ -1,1 +1,1 @@
-var mnemonic = "animal say surprise bird nut hello train announce casual pause train pet";
+var mnemonic = "clay melody long slush icon salmon lunch knock quality plunge provide come";

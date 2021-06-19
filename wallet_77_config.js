@@ -1,1 +1,1 @@
-var mnemonic = "cereal style feel tongue orphan perfect unit junior winner race output dance";
+var mnemonic = "original quit key entire author unhappy ladder gloom piano person wide disagree";

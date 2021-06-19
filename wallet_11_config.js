@@ -1,1 +1,1 @@
-var mnemonic = "person diesel busy foster trap student snake company ticket artefact repeat system";
+var mnemonic = "outer over leisure apart senior sphere rebuild toilet axis feel damp cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "hidden peanut parent century squeeze dice choice force carry flee police piano";
+var mnemonic = "ramp wet auto life prevent leave meat wing attract curious diagram space";

@@ -1,1 +1,1 @@
-var mnemonic = "avoid fork attitude shoe seed pyramid shadow similar silk blossom divorce brief";
+var mnemonic = "correct use hip around enlist correct problem exercise north pistol affair save";

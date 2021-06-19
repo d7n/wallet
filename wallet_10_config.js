@@ -1,1 +1,1 @@
-var mnemonic = "more useful pilot welcome leopard subject vacuum blush key stone estate turkey";
+var mnemonic = "loan measure setup among student stool art enrich spring disagree viable enough";

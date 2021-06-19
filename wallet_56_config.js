@@ -1,1 +1,1 @@
-var mnemonic = "over color degree bar unable tackle barrel vibrant future dirt camp shrimp";
+var mnemonic = "fruit monster heavy board retreat design skate carpet cattle goat fat giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "solution utility bacon have cube toe tragic ripple simple spawn during rifle";
+var mnemonic = "narrow fame ocean chest detect flavor sign human rebuild response under exercise";

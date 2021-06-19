@@ -1,1 +1,1 @@
-var mnemonic = "mention embody grit limit pencil drift moment embark scissors gorilla float ocean";
+var mnemonic = "fade auto marble idea royal embark rocket south minimum bench exhaust explain";

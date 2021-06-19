@@ -1,1 +1,1 @@
-var mnemonic = "rather faculty license purchase ball assist time wonder hurt next slogan day";
+var mnemonic = "air obey argue tell juice table resemble slender casual inject cotton suffer";

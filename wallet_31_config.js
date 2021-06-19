@@ -1,1 +1,1 @@
-var mnemonic = "inner rain cloth nephew crush tank gas choose assist narrow vicious orient";
+var mnemonic = "gauge vivid tired program loud celery sign nephew ring color review peace";

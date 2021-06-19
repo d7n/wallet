@@ -1,1 +1,1 @@
-var mnemonic = "awful skill hen glue paddle debris abandon network length age palace wealth";
+var mnemonic = "pet tooth shock garment napkin rifle mix face toy enrich bread notice";

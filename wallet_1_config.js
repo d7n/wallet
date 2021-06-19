@@ -1,1 +1,1 @@
-var mnemonic = "live hole hold risk injury soup topic thumb inject immense word coast";
+var mnemonic = "fit science state affair kangaroo excuse stamp never attitude message tag false";

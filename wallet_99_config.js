@@ -1,1 +1,1 @@
-var mnemonic = "hotel worry injury turtle leaf auction stadium banner miss force thrive horn";
+var mnemonic = "subject together acquire make divide song plug motor allow fatigue proud argue";

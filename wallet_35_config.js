@@ -1,1 +1,1 @@
-var mnemonic = "chuckle segment swift airport speed grunt alarm force matter worry flash suspect";
+var mnemonic = "prefer calm slim rug turkey viable diary economy curve parrot empower cargo";

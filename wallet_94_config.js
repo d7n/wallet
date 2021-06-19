@@ -1,1 +1,1 @@
-var mnemonic = "dizzy trigger frozen various domain appear afraid wave image logic hub nice";
+var mnemonic = "pitch turkey possible invite rare crime begin result original local youth frost";

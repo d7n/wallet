@@ -1,1 +1,1 @@
-var mnemonic = "faith topic large upper vessel start champion recycle expire piano wheel magnet";
+var mnemonic = "frame super neck crash genre mad ozone empower faith film tree leave";

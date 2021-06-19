@@ -1,1 +1,1 @@
-var mnemonic = "local total slender obscure clock nominee soul cost abuse melt absent column";
+var mnemonic = "strong monitor common quarter flock anchor celery advance morning know upper hair";

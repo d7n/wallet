@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow buzz grass trade sand share arch program flag buzz good rebuild";
+var mnemonic = "quit reveal neck physical street dance fashion glare uphold grit master trend";

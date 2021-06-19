@@ -1,1 +1,1 @@
-var mnemonic = "grunt giggle grief obtain siege upper ready impact exhaust protect steak laundry";
+var mnemonic = "exit federal catch book mother army upgrade mother lonely never horse day";

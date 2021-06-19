@@ -1,1 +1,1 @@
-var mnemonic = "saddle slush minute exile quote one scout copper blossom father subject winner";
+var mnemonic = "paddle tail kite label repeat core theory together pond audit physical mean";

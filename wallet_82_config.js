@@ -1,1 +1,1 @@
-var mnemonic = "area cloth nice shoulder swallow knife actress potato sing misery pumpkin absorb";
+var mnemonic = "elephant shell cheap amount you ignore deny pig second stage also space";

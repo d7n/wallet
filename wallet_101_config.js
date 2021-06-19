@@ -1,1 +1,1 @@
-var mnemonic = "gas affair stuff lion juice guilt around card recycle account entry fatigue";
+var mnemonic = "fitness ecology square garden color whip chef thrive relax dinosaur pattern ozone";

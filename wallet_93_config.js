@@ -1,1 +1,1 @@
-var mnemonic = "dust unhappy brass vocal cargo ignore fancy glove rib bonus stool wheat";
+var mnemonic = "antique belt orient inside disease car piano design idea rival barrel popular";

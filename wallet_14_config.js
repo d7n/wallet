@@ -1,1 +1,1 @@
-var mnemonic = "garbage game wet symptom pulp stereo convince lawsuit rookie hole answer barrel";
+var mnemonic = "provide result team ready blood monitor upper stadium start monster spoon hurt";

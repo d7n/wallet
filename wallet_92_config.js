@@ -1,1 +1,1 @@
-var mnemonic = "spot robot outer viable kingdom van orphan south umbrella hole culture whale";
+var mnemonic = "hybrid mobile security alpha maid rebel wedding satisfy liquid wrist cement aerobic";

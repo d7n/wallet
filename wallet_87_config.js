@@ -1,1 +1,1 @@
-var mnemonic = "control topic essence purity ocean dial typical feed unveil juice scare odor";
+var mnemonic = "egg relax afraid entire anger bench physical scrap flight learn dentist gaze";

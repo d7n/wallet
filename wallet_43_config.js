@@ -1,1 +1,1 @@
-var mnemonic = "drip affair hunt average forest jeans problem city defense credit prison insane";
+var mnemonic = "book brick install burger weekend aspect rate loyal canyon protect noise amused";

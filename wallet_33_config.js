@@ -1,1 +1,1 @@
-var mnemonic = "alley weapon denial borrow around pyramid enrich tent spy mirror box bus";
+var mnemonic = "change call suggest shuffle soldier couch ride will guilt lock enough ordinary";

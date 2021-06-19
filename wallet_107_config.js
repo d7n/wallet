@@ -1,1 +1,1 @@
-var mnemonic = "stumble gas deny hockey antique wise atom text rate maid resist blur";
+var mnemonic = "extend famous digital middle mention scorpion manual machine near gauge renew cool";

@@ -1,1 +1,1 @@
-var mnemonic = "wife chapter labor addict photo original hedgehog then media moment word mandate";
+var mnemonic = "knock impulse deputy odor dove market rather peasant page crack visual kidney";

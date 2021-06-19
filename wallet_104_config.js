@@ -1,1 +1,1 @@
-var mnemonic = "life option knock fee clap diet ensure onion universe arch case wish";
+var mnemonic = "citizen circle cross butter rough suggest lunch buddy decrease knee violin penalty";

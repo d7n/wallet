@@ -1,1 +1,1 @@
-var mnemonic = "hire bread move rose submit mirror tower among mirror lamp trade put";
+var mnemonic = "spike jelly swallow abstract cause holiday hammer city forest leg once thumb";

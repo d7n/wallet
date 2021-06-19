@@ -1,1 +1,1 @@
-var mnemonic = "derive debris truly tornado entire someone army picture nut change punch author";
+var mnemonic = "domain half hire chat fun oyster senior limit flee case blur pretty";

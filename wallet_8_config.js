@@ -1,1 +1,1 @@
-var mnemonic = "screen pencil hotel dwarf cereal retreat width female kick frequent expose same";
+var mnemonic = "buyer enough almost fashion nice arrow hand armed mail bulb current when";

@@ -1,1 +1,1 @@
-var mnemonic = "other pull floor armor busy anxiety sphere west wait picture table kangaroo";
+var mnemonic = "cupboard tragic cheese hungry parrot solution aspect zoo way will soda path";

@@ -1,1 +1,1 @@
-var mnemonic = "leopard increase mask enough shrimp oxygen corn find split develop toilet simple";
+var mnemonic = "service special hobby cabin absurd energy essence wage suggest clutch affair abandon";

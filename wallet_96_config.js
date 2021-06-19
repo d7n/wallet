@@ -1,1 +1,1 @@
-var mnemonic = "person science world supreme kingdom marriage jar mandate media skate purse insect";
+var mnemonic = "obscure iron potato march nice off diesel crop dress demise praise ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "talent group program text inhale tree summer century fog flight soda ahead";
+var mnemonic = "enjoy charge upgrade obscure wood grocery mixed cook abuse sell flavor gravity";

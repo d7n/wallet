@@ -1,1 +1,1 @@
-var mnemonic = "harvest total miracle twelve story veteran alley cover inner harbor mistake settle";
+var mnemonic = "supply chimney grain tide unfold quick december inside ecology anchor bag hawk";

@@ -1,1 +1,1 @@
-var mnemonic = "original also idle impact glare this swift select game key high doll";
+var mnemonic = "sleep ribbon celery explain space record dolphin fit also half game concert";

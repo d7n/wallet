@@ -1,1 +1,1 @@
-var mnemonic = "gym walk ice van dream orange possible faculty link pole deny flight";
+var mnemonic = "patrol net rely ritual ridge lawn acquire prize fork empty material cage";

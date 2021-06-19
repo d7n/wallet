@@ -1,1 +1,1 @@
-var mnemonic = "shoot perfect current slot jazz inspire almost solution essay element sugar punch";
+var mnemonic = "portion custom animal border market electric miss obscure lunar hard fiscal decrease";

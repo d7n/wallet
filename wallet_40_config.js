@@ -1,1 +1,1 @@
-var mnemonic = "found rigid old dirt gather damp desert reject alien bunker balcony zoo";
+var mnemonic = "label nasty grass ability negative miss chuckle amateur race arrest hamster album";

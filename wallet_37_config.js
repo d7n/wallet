@@ -1,1 +1,1 @@
-var mnemonic = "urban club yard sleep snap hard enroll banner father ski milk stick";
+var mnemonic = "sing logic across hire mixture cup cream industry lens notable arrest reform";

@@ -1,1 +1,1 @@
-var mnemonic = "panther olive level desert inhale soup priority slight spoil energy bonus verify";
+var mnemonic = "winter winter material total behave magnet rug solar swamp accident bitter asthma";

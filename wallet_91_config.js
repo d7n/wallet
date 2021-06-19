@@ -1,1 +1,1 @@
-var mnemonic = "sun word evolve force advance embody judge verify seven sunny will load";
+var mnemonic = "bargain wagon tackle two scan coyote upon more pizza tongue problem manual";

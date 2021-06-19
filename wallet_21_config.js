@@ -1,1 +1,1 @@
-var mnemonic = "abstract movie wood giggle enrich slab allow foot sustain miss hold museum";
+var mnemonic = "tent lift latin pact mix blue become bamboo veteran ethics response typical";

@@ -1,1 +1,1 @@
-var mnemonic = "engage rude inch myself dream satoshi blush electric brisk attack replace bless";
+var mnemonic = "cradle earn bright summer rabbit salon faint interest sock enrich daughter soda";

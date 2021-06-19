@@ -1,1 +1,1 @@
-var mnemonic = "anger decorate agent fiscal patrol file since attend notice lawn alter roof";
+var mnemonic = "unit entire unaware latin embody mix tower gold poverty mesh tackle business";

@@ -1,1 +1,1 @@
-var mnemonic = "iron tunnel laugh initial core bracket staff remember struggle open truly zoo";
+var mnemonic = "deer length error holiday middle miss gossip settle left cruel thrive urban";

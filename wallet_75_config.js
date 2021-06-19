@@ -1,1 +1,1 @@
-var mnemonic = "funny oblige sleep iron motor another head clump business level smile lady";
+var mnemonic = "gallery coconut arrest prefer wing engine void wait poet glove broom ability";

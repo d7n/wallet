@@ -1,1 +1,1 @@
-var mnemonic = "hill sign plastic pen smoke bamboo dose nerve claim essay rookie pony";
+var mnemonic = "pull voice tornado poverty elegant way food crazy edge limb century craft";

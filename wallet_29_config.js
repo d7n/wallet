@@ -1,1 +1,1 @@
-var mnemonic = "runway slush hollow renew game glow clay define away fix wrestle skate";
+var mnemonic = "farm supreme group couple priority question lobster before nut member captain camera";

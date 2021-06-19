@@ -1,1 +1,1 @@
-var mnemonic = "slogan bone genius differ already dinosaur indicate chase waste already loan soul";
+var mnemonic = "visual prevent cabin hero option drive lend board fan drive brave slender";

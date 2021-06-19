@@ -1,1 +1,1 @@
-var mnemonic = "recycle rain economy magnet few target blanket mixture staff unaware crisp rotate";
+var mnemonic = "marine improve depend bargain black early vote forward alley switch syrup foster";

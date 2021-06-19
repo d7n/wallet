@@ -1,1 +1,1 @@
-var mnemonic = "buzz crush cover head ready buzz barrel title pledge swarm please never";
+var mnemonic = "crew ice turkey senior dad hunt pair glove minute near involve glance";

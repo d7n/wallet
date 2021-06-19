@@ -1,1 +1,1 @@
-var mnemonic = "digital favorite inspire narrow glimpse sadness kidney head parrot vital dentist round";
+var mnemonic = "joy insect fossil you guilt funny deliver ketchup fork broom silver reason";

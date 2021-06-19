@@ -1,1 +1,1 @@
-var mnemonic = "decade raccoon fine flag insect genre please fantasy focus foster globe pyramid";
+var mnemonic = "reflect salon disease hair defense truly ball detail decline fog angry detail";

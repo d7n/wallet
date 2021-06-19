@@ -1,1 +1,1 @@
-var mnemonic = "inch mean banner foil idle member remain dream culture flight impulse hamster";
+var mnemonic = "alter flip wreck chief near wood choice other token surprise local ecology";

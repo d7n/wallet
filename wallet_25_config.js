@@ -1,1 +1,1 @@
-var mnemonic = "injury pottery noble crawl reform tourist submit burden inflict lab begin weekend";
+var mnemonic = "farm wise gym device gas embrace grab indicate warm embark weasel truck";

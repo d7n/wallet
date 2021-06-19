@@ -1,1 +1,1 @@
-var mnemonic = "woman paper runway digital unable equal below city minor choose miracle know";
+var mnemonic = "scale grunt resemble inhale original dice absent mistake urban apart print razor";

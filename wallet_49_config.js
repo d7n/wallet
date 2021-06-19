@@ -1,1 +1,1 @@
-var mnemonic = "stable stumble helmet machine wrist butter club oil box mammal riot net";
+var mnemonic = "tide valid pulse bargain among wash pattern rebel lady monster task crush";

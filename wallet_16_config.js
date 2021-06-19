@@ -1,1 +1,1 @@
-var mnemonic = "dry index stone bench mobile explain inner daughter buffalo damage normal easily";
+var mnemonic = "rule endless random copy resource try ice provide fossil mention topic quarter";

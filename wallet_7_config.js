@@ -1,1 +1,1 @@
-var mnemonic = "crowd admit mind future smoke reject industry orbit powder thrive film salt";
+var mnemonic = "naive menu arrow pet review despair detect hover guitar tissue kitchen grain";

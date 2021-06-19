@@ -1,1 +1,1 @@
-var mnemonic = "faint feed margin arm start dynamic valley mixed tilt source urge element";
+var mnemonic = "off knife staff blast gadget multiply people buffalo fix assist gospel round";

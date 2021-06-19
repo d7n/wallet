@@ -1,1 +1,1 @@
-var mnemonic = "choose become slim anchor more violin zero where diesel trick upset spend";
+var mnemonic = "hover edit culture rocket sponsor maid nuclear oyster recall garbage age assault";

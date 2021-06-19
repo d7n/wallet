@@ -1,1 +1,1 @@
-var mnemonic = "reject brother enemy decide mean favorite warm victory victory knee beyond grace";
+var mnemonic = "home agent round letter cheap upper actual gun rare result window below";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty wing glue bonus foam slim enforce income source slam height satoshi";
+var mnemonic = "later alert jelly van release crop era runway please puzzle box bus";

@@ -1,1 +1,1 @@
-var mnemonic = "depart below alone armor casual normal orient frown mix say animal rotate";
+var mnemonic = "pull body panel kitchen egg rough there fatigue note daughter best document";

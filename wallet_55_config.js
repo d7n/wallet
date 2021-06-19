@@ -1,1 +1,1 @@
-var mnemonic = "ignore kitten cluster voice gap fever dose access pioneer cross edge scheme";
+var mnemonic = "hundred clever hold toy entire save crater again food flat obey first";

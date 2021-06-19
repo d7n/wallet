@@ -1,1 +1,1 @@
-var mnemonic = "inform exercise impulse apple what copy panel trash sketch door update rebuild";
+var mnemonic = "receive metal can sudden carpet annual mammal struggle motor injury hybrid slender";

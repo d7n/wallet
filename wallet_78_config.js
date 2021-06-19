@@ -1,1 +1,1 @@
-var mnemonic = "sunny sunset lottery churn snake proof eager glide capital excuse since wood";
+var mnemonic = "lock access item universe correct void marriage waste cigar undo capital vintage";

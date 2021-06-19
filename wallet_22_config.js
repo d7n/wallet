@@ -1,1 +1,1 @@
-var mnemonic = "fox narrow force parrot deposit suffer suit material umbrella leave identify garlic";
+var mnemonic = "recycle sort neck media wagon mandate open merge issue owner bullet minimum";

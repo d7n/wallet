@@ -1,1 +1,1 @@
-var mnemonic = "soldier cart erupt insane cost exact orange stumble corn sustain tip disease";
+var mnemonic = "agree eagle vapor hole cover seminar trust snow predict guilt right stem";

@@ -1,1 +1,1 @@
-var mnemonic = "slide bright gas fine more parrot glass stable eternal art faint photo";
+var mnemonic = "chase group ribbon little mixed sister mother advice law alley orbit auction";

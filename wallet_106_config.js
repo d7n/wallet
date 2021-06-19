@@ -1,1 +1,1 @@
-var mnemonic = "sick dash boat tissue nephew alarm stand coach text casino plastic cradle";
+var mnemonic = "extend echo gentle royal any summer someone sick major child smoke render";

@@ -1,1 +1,1 @@
-var mnemonic = "episode video six mention post smart ten gate together winter cradle lizard";
+var mnemonic = "jaguar old ahead observe angry humble give under learn mix nerve video";

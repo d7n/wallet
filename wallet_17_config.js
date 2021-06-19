@@ -1,1 +1,1 @@
-var mnemonic = "sister hotel can great acoustic lizard zoo loyal silk regular permit trial";
+var mnemonic = "lemon essence dinosaur jealous rebel year favorite female medal street inhale dial";

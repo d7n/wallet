@@ -1,1 +1,1 @@
-var mnemonic = "powder credit sing peasant lion foot type amateur number extra zebra angry";
+var mnemonic = "armed bean sweet surround current prepare reward october proof daughter pitch lion";
