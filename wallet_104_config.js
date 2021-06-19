@@ -1,1 +1,1 @@
-var mnemonic = "advance student badge hurt jaguar utility impulse jump betray work diet ill";
+var mnemonic = "dial donate notable flight wet hour balcony ozone pyramid analyst repair actual";

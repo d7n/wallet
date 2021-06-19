@@ -1,1 +1,1 @@
-var mnemonic = "express palm pass attract amount unveil lab reflect raise scale broccoli mansion";
+var mnemonic = "salon system sheriff suffer fortune evidence industry width alley burst method equal";

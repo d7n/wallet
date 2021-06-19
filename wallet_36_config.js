@@ -1,1 +1,1 @@
-var mnemonic = "lemon hollow option undo allow label joke squirrel cloud filter jar over";
+var mnemonic = "long flame virus brush dog craft boss river artwork novel visit hawk";

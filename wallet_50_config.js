@@ -1,1 +1,1 @@
-var mnemonic = "alcohol unfold raccoon crowd trade toward close february core hotel arctic weasel";
+var mnemonic = "rule chicken you lunch suit rice good donor edit labor hero word";

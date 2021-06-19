@@ -1,1 +1,1 @@
-var mnemonic = "donate hire car hobby voice field annual glide measure vital increase check";
+var mnemonic = "visa shrug awake caution trend volcano age duty monkey image amazing wall";

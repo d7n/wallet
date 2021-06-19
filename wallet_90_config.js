@@ -1,1 +1,1 @@
-var mnemonic = "tissue right bean process diet connect occur client hub reduce vast job";
+var mnemonic = "trumpet mimic dice pink obvious then attitude security sausage club couple fence";

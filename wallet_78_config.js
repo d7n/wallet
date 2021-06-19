@@ -1,1 +1,1 @@
-var mnemonic = "order job provide crater fix matrix twin brave face flip supply point";
+var mnemonic = "flame health street weekend dawn enable okay invest right fiber act polar";

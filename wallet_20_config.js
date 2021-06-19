@@ -1,1 +1,1 @@
-var mnemonic = "join journey assume isolate office stamp metal strike planet rug gap cluster";
+var mnemonic = "wood hobby february mimic bring purity robust suffer shoulder drive can march";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty maple weapon lend response common stumble reflect cross inside shift rebuild";
+var mnemonic = "acoustic surround armor member album oven maple erode unfold census airport estate";

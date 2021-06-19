@@ -1,1 +1,1 @@
-var mnemonic = "weekend across layer airport trip hello carry tray reveal ignore current miracle";
+var mnemonic = "armed hospital print daughter eternal isolate picnic history provide distance drift test";

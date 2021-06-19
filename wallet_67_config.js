@@ -1,1 +1,1 @@
-var mnemonic = "resemble emerge giraffe lottery agree mention warm snap only also weekend become";
+var mnemonic = "digital loop security name day produce silly code meadow helmet style unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "toe cycle reduce cute favorite curious arrange axis order frame knee fly";
+var mnemonic = "live exact rotate case rival awkward wheat cement vintage extend income ozone";

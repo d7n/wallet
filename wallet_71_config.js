@@ -1,1 +1,1 @@
-var mnemonic = "scene pumpkin plunge dutch torch series camera private phone panic glide gravity";
+var mnemonic = "pass era give luggage birth enact lottery play fancy include inhale flip";

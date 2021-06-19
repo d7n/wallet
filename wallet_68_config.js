@@ -1,1 +1,1 @@
-var mnemonic = "lend diary brass rice yard absent sample betray combine before universe dad";
+var mnemonic = "diary puppy emerge seven feature project rate wool great bicycle table make";

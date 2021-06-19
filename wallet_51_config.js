@@ -1,1 +1,1 @@
-var mnemonic = "sunset enact wrist sleep myth cheese door valid roof certain mirror unfold";
+var mnemonic = "online core name panther enroll alcohol civil cry plug monitor price zoo";

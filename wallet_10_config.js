@@ -1,1 +1,1 @@
-var mnemonic = "blind make mind call diary calm glad pen rescue tilt keep refuse";
+var mnemonic = "enjoy small casino crazy horror member glow honey when abstract divide town";

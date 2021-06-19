@@ -1,1 +1,1 @@
-var mnemonic = "garlic version great miracle kitten sense bring tilt during grace auction resist";
+var mnemonic = "pear stove pattern guilt choice target depth tennis cloth inmate minimum split";

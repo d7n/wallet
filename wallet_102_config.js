@@ -1,1 +1,1 @@
-var mnemonic = "ketchup spatial punch age high layer ethics sugar reward marriage topic torch";
+var mnemonic = "acquire shove road goose maid network connect rhythm lab dish pumpkin decorate";

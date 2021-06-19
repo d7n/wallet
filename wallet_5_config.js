@@ -1,1 +1,1 @@
-var mnemonic = "supreme neglect track begin nose frequent video inside ugly dice mad lend";
+var mnemonic = "all kick trial diesel sight orange divorce skate pulp mouse oblige own";

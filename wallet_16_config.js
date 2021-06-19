@@ -1,1 +1,1 @@
-var mnemonic = "voyage cloth advance need source tiger black episode mountain require guard saddle";
+var mnemonic = "provide tooth benefit among embark oven save glance twin soft blast clarify";

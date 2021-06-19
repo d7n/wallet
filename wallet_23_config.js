@@ -1,1 +1,1 @@
-var mnemonic = "pistol sell muffin control coffee mind slight castle good purchase version into";
+var mnemonic = "short wrap dice express suit derive throw trigger lumber clean pelican combine";

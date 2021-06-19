@@ -1,1 +1,1 @@
-var mnemonic = "wedding extra because correct replace lion arena over survey worth reform crystal";
+var mnemonic = "couple genre two junior ancient deer cube move digital fix brother protect";

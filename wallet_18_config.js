@@ -1,1 +1,1 @@
-var mnemonic = "neutral bone index where great journey party actress among simple shuffle pony";
+var mnemonic = "view push tell draft polar also vacant crucial protect search item poem";

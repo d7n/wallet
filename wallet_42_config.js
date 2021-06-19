@@ -1,1 +1,1 @@
-var mnemonic = "summer village glide zebra field post reason rebel harbor diet tail poem";
+var mnemonic = "suspect embark lazy romance impact near twenty payment secret rhythm mass assist";

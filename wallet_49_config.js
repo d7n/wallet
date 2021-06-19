@@ -1,1 +1,1 @@
-var mnemonic = "word female submit census bone above laundry crash tourist ability fold hurry";
+var mnemonic = "choose hour verb music radar pioneer volume broccoli second happy dirt barely";

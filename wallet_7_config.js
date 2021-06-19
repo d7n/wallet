@@ -1,1 +1,1 @@
-var mnemonic = "marble mail gallery chalk glare number cat teach model modify thing sister";
+var mnemonic = "rug draw major mango kidney budget tired consider glimpse sound library economy";

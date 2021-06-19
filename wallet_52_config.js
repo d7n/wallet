@@ -1,1 +1,1 @@
-var mnemonic = "network window sea soldier attract game follow busy antenna improve second wet";
+var mnemonic = "rhythm stadium quarter vessel scan summer phone december inside fiber punch senior";

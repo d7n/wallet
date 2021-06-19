@@ -1,1 +1,1 @@
-var mnemonic = "item follow inject cheese helmet palm viable cry vacant kitten what tomorrow";
+var mnemonic = "swamp beef divert speak wreck duck rate wild robot hair involve front";

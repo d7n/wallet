@@ -1,1 +1,1 @@
-var mnemonic = "swap tongue clap humor erase lunar few pond success ball coin couch";
+var mnemonic = "muscle pumpkin wheat invest stomach shock cactus paddle tide bike cloud expand";

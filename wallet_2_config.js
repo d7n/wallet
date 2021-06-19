@@ -1,1 +1,1 @@
-var mnemonic = "van spy adult half visit excite window setup blush globe home mistake";
+var mnemonic = "claim rookie chalk spend speed empty apple topic draw leader segment wear";

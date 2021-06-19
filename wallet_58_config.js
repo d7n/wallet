@@ -1,1 +1,1 @@
-var mnemonic = "bus raise rent orange auto infant idea office sign solid census parrot";
+var mnemonic = "hunt parrot shove broken smooth inform real inquiry pass diamond blush brother";

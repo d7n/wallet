@@ -1,1 +1,1 @@
-var mnemonic = "gown over elegant penalty burger forest foster predict marble shield evidence tonight";
+var mnemonic = "choose admit illness october farm valid safe disagree blood monitor electric december";

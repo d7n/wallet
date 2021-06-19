@@ -1,1 +1,1 @@
-var mnemonic = "old tiger wheat novel stage daughter flame corn clip argue tell live";
+var mnemonic = "ready icon filter banner observe notable between resource gun apology scatter bind";

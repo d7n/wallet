@@ -1,1 +1,1 @@
-var mnemonic = "come broom sauce note enlist spray ski because million okay left grid";
+var mnemonic = "old news recipe fantasy edit lumber verify wire veteran pledge fiber sad";

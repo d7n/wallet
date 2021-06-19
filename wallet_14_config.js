@@ -1,1 +1,1 @@
-var mnemonic = "shoot shop green kit high person glare wrap task throw gasp travel";
+var mnemonic = "burger disagree supply absorb sing evoke apple pride dizzy obey evolve east";

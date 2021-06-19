@@ -1,1 +1,1 @@
-var mnemonic = "mansion secret lab myth void culture genius believe jeans where nuclear agent";
+var mnemonic = "firm later spot use cook eager decorate flower sing empower mouse receive";

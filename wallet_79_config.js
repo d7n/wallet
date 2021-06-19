@@ -1,1 +1,1 @@
-var mnemonic = "tray autumn impose print hood whisper advance ability tattoo drum alley unfair";
+var mnemonic = "tomorrow brain garage hip grace soft valid actual organ allow behind smart";

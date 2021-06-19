@@ -1,1 +1,1 @@
-var mnemonic = "coast shove echo reform tumble hazard atom room dice swift title current";
+var mnemonic = "tortoise reveal elevator truth gold laugh wash dignity leader tuna document method";

@@ -1,1 +1,1 @@
-var mnemonic = "toss wise learn essence panic wood truck twist cream position belt typical";
+var mnemonic = "tomorrow donor trim rescue sudden address coyote sphere side scene portion bread";

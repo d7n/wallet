@@ -1,1 +1,1 @@
-var mnemonic = "balcony dune small absorb crew food midnight gap virus wonder robust wing";
+var mnemonic = "trumpet video dwarf sure glide brother pond rescue borrow release junior snake";

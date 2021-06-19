@@ -1,1 +1,1 @@
-var mnemonic = "oxygen night surge better artwork course today tank valley club nephew front";
+var mnemonic = "business program frequent priority valley census morning casino general protect acquire first";

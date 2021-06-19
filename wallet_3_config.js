@@ -1,1 +1,1 @@
-var mnemonic = "decorate sick bounce wife awake memory crowd dilemma similar heavy clean test";
+var mnemonic = "rail fruit filter fantasy auction fury insect casual biology tooth catalog post";

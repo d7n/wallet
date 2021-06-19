@@ -1,1 +1,1 @@
-var mnemonic = "fire tree source vapor imitate quiz august stand bachelor crowd gym rubber";
+var mnemonic = "ahead actual appear shoulder lava enforce merit shuffle veteran pair force improve";

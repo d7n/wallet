@@ -1,1 +1,1 @@
-var mnemonic = "smart cable win tape outside drill segment order knee dust work cheap";
+var mnemonic = "please crowd connect trust kit hope auto wheel profit immense idle tackle";

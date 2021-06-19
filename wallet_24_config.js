@@ -1,1 +1,1 @@
-var mnemonic = "soul plunge eternal there code speak hint pave dutch ocean cereal couch";
+var mnemonic = "invite rookie boost silk forum pink wish provide sibling spoil blame dynamic";

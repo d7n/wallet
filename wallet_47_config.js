@@ -1,1 +1,1 @@
-var mnemonic = "immune bachelor steel slender suit asset this crush champion parrot dune credit";
+var mnemonic = "scatter topple math day photo machine poverty idle coral crush source hockey";

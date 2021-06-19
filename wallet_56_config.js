@@ -1,1 +1,1 @@
-var mnemonic = "fabric ozone icon upper stumble right nut script conduct pilot strike travel";
+var mnemonic = "board broom vehicle consider pelican swing route improve exercise inside confirm lazy";

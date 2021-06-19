@@ -1,1 +1,1 @@
-var mnemonic = "pyramid rug when furnace salmon kidney prepare clay broken galaxy choice develop";
+var mnemonic = "water finger knock catch modify gold jelly future swamp horror canal butter";

@@ -1,1 +1,1 @@
-var mnemonic = "world mechanic boring review three make ostrich broken moment skill mixture coach";
+var mnemonic = "tennis whale midnight march hedgehog kidney middle mystery until daughter cushion throw";

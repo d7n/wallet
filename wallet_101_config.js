@@ -1,1 +1,1 @@
-var mnemonic = "ridge pottery evolve pact ripple situate disagree action ask honey adapt retreat";
+var mnemonic = "trial rose senior then equal salmon fox labor credit sun churn crime";

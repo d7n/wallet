@@ -1,1 +1,1 @@
-var mnemonic = "south beauty cup slim isolate arena immune filter bring fantasy ribbon wink";
+var mnemonic = "army mobile auto rather drum margin boost motion crunch dawn chapter knock";

@@ -1,1 +1,1 @@
-var mnemonic = "garment hospital critic pyramid list depart poverty kid minute tell curtain maple";
+var mnemonic = "hawk taste short peasant drip physical mimic sponsor bicycle snow neutral wash";

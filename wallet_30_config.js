@@ -1,1 +1,1 @@
-var mnemonic = "case bird face toilet friend fault lucky size situate disease drip cash";
+var mnemonic = "sound seminar portion mountain delay staff print chest retire simple surface destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "claw sun trumpet census mix orange lazy dwarf castle dragon only job";
+var mnemonic = "lecture radar suit opera drill sniff fat voice art pizza aisle outer";

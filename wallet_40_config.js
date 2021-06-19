@@ -1,1 +1,1 @@
-var mnemonic = "glad undo swim soft uncle spare student prevent away supply blue bargain";
+var mnemonic = "bus power skirt film cause veteran nuclear sauce wheel unveil fever home";

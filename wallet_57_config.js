@@ -1,1 +1,1 @@
-var mnemonic = "century around quit brick swing atom claim hurdle toward gasp hint among";
+var mnemonic = "response life mimic fan ignore push august velvet bind crisp spray tissue";

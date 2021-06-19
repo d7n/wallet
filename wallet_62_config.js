@@ -1,1 +1,1 @@
-var mnemonic = "grief gloom dust fault reason someone fuel cross hair end reject trip";
+var mnemonic = "warfare remember depth zone stove gold hunt sting border air polar habit";

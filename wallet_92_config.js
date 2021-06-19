@@ -1,1 +1,1 @@
-var mnemonic = "filter project chest brief soft ancient uncover soul hip useless unusual girl";
+var mnemonic = "fame mind library juice tree beauty suspect alert mirror jazz buddy outer";

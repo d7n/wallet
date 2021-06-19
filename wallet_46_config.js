@@ -1,1 +1,1 @@
-var mnemonic = "flush garlic neither stage promote embrace carbon master square check chimney depart";
+var mnemonic = "enhance frame upon monster leopard supply wild sick panda clog draw win";

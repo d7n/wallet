@@ -1,1 +1,1 @@
-var mnemonic = "fantasy salute eight hazard powder prosper sphere seed fatal lady junior flock";
+var mnemonic = "transfer milk man submit orbit crop dish fish remain exhibit system flock";

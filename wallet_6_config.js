@@ -1,1 +1,1 @@
-var mnemonic = "crunch gather buyer differ truth bulk power talk object hidden aerobic region";
+var mnemonic = "idle divert category scan warfare injury educate road slam kid stairs dynamic";

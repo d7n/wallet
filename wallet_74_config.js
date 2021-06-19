@@ -1,1 +1,1 @@
-var mnemonic = "mirror tongue cluster giant act memory exotic settle aware kidney call light";
+var mnemonic = "desk decade room fit pause game proud tank option fly ship jar";

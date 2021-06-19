@@ -1,1 +1,1 @@
-var mnemonic = "assault vocal paddle calm aware shove tortoise hole pyramid usage vital poet";
+var mnemonic = "guilt siege dizzy tribe whisper blouse radar planet submit fetch easy enhance";

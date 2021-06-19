@@ -1,1 +1,1 @@
-var mnemonic = "lyrics tell enrich icon maze distance media neutral rose reunion engage stand";
+var mnemonic = "empty toilet above narrow legal marriage dad walk mammal equal bronze penalty";

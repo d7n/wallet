@@ -1,1 +1,1 @@
-var mnemonic = "moment sand number kangaroo soccer draft soccer diamond bounce dismiss special minute";
+var mnemonic = "ozone south best chest success eager scatter sibling cheap vocal syrup mistake";

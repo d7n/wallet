@@ -1,1 +1,1 @@
-var mnemonic = "silk bleak pear receive outer tell million able green together gift gather";
+var mnemonic = "arena couple fork flash impose seed result strategy barrel grid already east";

@@ -1,1 +1,1 @@
-var mnemonic = "medal minor cover yellow unveil together reason possible effort scout sign cave";
+var mnemonic = "learn conduct cube autumn combine copy circle bamboo pluck obtain walnut quantum";

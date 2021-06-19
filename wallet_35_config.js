@@ -1,1 +1,1 @@
-var mnemonic = "marriage address talk reopen wear increase blood lunch uncle fat disease ridge";
+var mnemonic = "attack play spin minute neutral supreme visual vibrant thumb differ few make";

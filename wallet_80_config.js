@@ -1,1 +1,1 @@
-var mnemonic = "avoid wreck mirror project arena bean embrace hip bench next grass senior";
+var mnemonic = "expire blossom yellow faith census useful affair answer pet need trim gossip";

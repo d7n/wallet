@@ -1,1 +1,1 @@
-var mnemonic = "cram borrow lady happy broom side cement glad axis model hole consider";
+var mnemonic = "voice allow convince horror camera weasel order utility bike cigar pattern olive";

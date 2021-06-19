@@ -1,1 +1,1 @@
-var mnemonic = "useless friend pizza entire try snap visual wood apart expect bind gadget";
+var mnemonic = "dignity define meat smoke test seat roof build alone weapon orient meadow";

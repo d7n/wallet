@@ -1,1 +1,1 @@
-var mnemonic = "glide rude strategy supply army amused profit bargain memory bitter dilemma deliver";
+var mnemonic = "coin practice drive menu rain quote void nurse comic improve frown cabbage";

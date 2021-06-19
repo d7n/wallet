@@ -1,1 +1,1 @@
-var mnemonic = "ready wing inherit drum pond drill robot surge pill valve material ugly";
+var mnemonic = "inquiry common energy uphold upper exhaust empower outer cherry fresh witness add";

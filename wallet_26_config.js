@@ -1,1 +1,1 @@
-var mnemonic = "roast argue diet gallery ready poem hotel square fee together again love";
+var mnemonic = "lamp metal canal vault rival roast business acquire vivid wasp ready team";

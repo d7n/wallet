@@ -1,1 +1,1 @@
-var mnemonic = "lecture gather high cream gasp noodle little use wife october ripple various";
+var mnemonic = "remove sausage flash snack marble task emotion desert between ten slim enemy";

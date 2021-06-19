@@ -1,1 +1,1 @@
-var mnemonic = "deer alter decade label abuse swamp race shed raise comic obscure green";
+var mnemonic = "trap jewel scissors glance between board wave solid change chat gaze icon";

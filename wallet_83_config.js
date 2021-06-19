@@ -1,1 +1,1 @@
-var mnemonic = "rebel treat betray mountain puppy wood hat sadness angle swift miss friend";
+var mnemonic = "pass joke ritual size common dragon daring hungry federal tattoo merit tag";

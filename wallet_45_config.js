@@ -1,1 +1,1 @@
-var mnemonic = "liberty debate rigid stable river vicious swing snap rent borrow foster supreme";
+var mnemonic = "unique soccer draw become immense lyrics tooth ladder mistake coyote field element";

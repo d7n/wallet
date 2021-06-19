@@ -1,1 +1,1 @@
-var mnemonic = "like disagree viable desk parrot snow joke hire fire syrup spike head";
+var mnemonic = "thank glide able mass math near tennis master warfare remain police odor";

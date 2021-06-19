@@ -1,1 +1,1 @@
-var mnemonic = "confirm ancient country hope divert dirt wall awesome fiscal merge kingdom sword";
+var mnemonic = "curve duck boring sister stadium rough tower caution weasel betray antenna phone";

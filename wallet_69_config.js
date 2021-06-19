@@ -1,1 +1,1 @@
-var mnemonic = "album combine pottery sing visit trip link average illegal spoil month survey";
+var mnemonic = "spray never step budget orange talk sun engage harvest aware avoid dinosaur";

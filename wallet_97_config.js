@@ -1,1 +1,1 @@
-var mnemonic = "slim debris enhance draft simple pond favorite barely climb chuckle live utility";
+var mnemonic = "talk pioneer item fetch leader float guitar tray claw labor member fix";

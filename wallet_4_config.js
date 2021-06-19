@@ -1,1 +1,1 @@
-var mnemonic = "silk lava library coil south edge mad moment breeze aware tray hawk";
+var mnemonic = "tenant reject cattle salon option camera artist friend become drip forward cream";

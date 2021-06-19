@@ -1,1 +1,1 @@
-var mnemonic = "tail enemy matrix will excite true hello lyrics tired scrap laugh enter";
+var mnemonic = "verb box dune trick other rate board dawn tired invite jazz afford";

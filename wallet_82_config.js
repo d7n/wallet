@@ -1,1 +1,1 @@
-var mnemonic = "borrow pistol possible tennis stick sniff utility dog detect napkin opinion warm";
+var mnemonic = "cotton raven immense profit topic merry aware pizza devote onion chase feed";

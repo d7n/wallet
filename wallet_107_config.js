@@ -1,1 +1,1 @@
-var mnemonic = "click snake eight wire month mandate style relax hover slab farm lobster";
+var mnemonic = "forget rocket toast route attitude tomorrow ahead girl auto obey spring early";

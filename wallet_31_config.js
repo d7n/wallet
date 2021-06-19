@@ -1,1 +1,1 @@
-var mnemonic = "nephew search pumpkin track quote remain virus brand trash maze diet unknown";
+var mnemonic = "lawn account weather mansion damage ritual shuffle banana future bitter birth turn";

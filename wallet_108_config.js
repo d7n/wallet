@@ -1,1 +1,1 @@
-var mnemonic = "awkward ticket muscle midnight era dirt inform wreck fatigue donor pyramid clever";
+var mnemonic = "zero disagree check erupt dune voyage repair tag flee kind penalty lottery";

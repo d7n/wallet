@@ -1,1 +1,1 @@
-var mnemonic = "bid slice vessel door matter grit echo thing quote potato vanish logic";
+var mnemonic = "never season edge antique glance pole dumb evolve nature room sphere saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "jar office crazy spider one parent polar super famous ankle pitch glare";
+var mnemonic = "cancel sketch disease viable lift hub noble prevent garment bargain employ unveil";

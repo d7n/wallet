@@ -1,1 +1,1 @@
-var mnemonic = "power city mesh infant wall rude submit spice boring canyon metal cactus";
+var mnemonic = "shiver draw egg thank label detect ozone flame believe warrior cat absent";

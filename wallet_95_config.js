@@ -1,1 +1,1 @@
-var mnemonic = "motion stable neutral mirror ignore hat zebra vanish elite visa neck cattle";
+var mnemonic = "when steak light canvas world student response twelve move energy extra actor";

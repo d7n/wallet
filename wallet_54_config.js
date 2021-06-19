@@ -1,1 +1,1 @@
-var mnemonic = "timber digital injury radar network valve organ circle electric breeze vital quick";
+var mnemonic = "shadow item wheel monitor flock mom much lawn swim famous soap solution";

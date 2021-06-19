@@ -1,1 +1,1 @@
-var mnemonic = "place urban eagle ride noise hip require mean buddy gather good loop";
+var mnemonic = "rug cricket remain near discover render reunion merge luggage moral achieve cup";

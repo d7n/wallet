@@ -1,1 +1,1 @@
-var mnemonic = "nasty color kangaroo hurry clever rail plunge idle gravity tool brisk bleak";
+var mnemonic = "cool arena ozone make tuition team sample drum must spawn velvet giant";
