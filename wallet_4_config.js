@@ -1,1 +1,1 @@
-var mnemonic = "tongue oak issue wasp uncle athlete copper age planet minute urban cause";
+var mnemonic = "thing about equal naive wise cage crowd alter people cancel enact dutch";

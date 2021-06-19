@@ -1,1 +1,1 @@
-var mnemonic = "cancel cake drastic icon sorry twelve pencil assume large owner pistol situate";
+var mnemonic = "anxiety strike current system delay blossom fetch orient because van answer mansion";

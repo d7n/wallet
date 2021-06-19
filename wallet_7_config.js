@@ -1,1 +1,1 @@
-var mnemonic = "attack horse soldier bracket cloud today soccer comic cupboard judge history evolve";
+var mnemonic = "road dizzy fold people cabbage hint above visual chair canvas decline process";

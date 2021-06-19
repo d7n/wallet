@@ -1,1 +1,1 @@
-var mnemonic = "spin upgrade program small melody adult blame toy muffin okay rose gown";
+var mnemonic = "sell day own city puppy valid tray audit rich awful topple husband";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel tilt gasp rebuild cloud curtain upset razor pull soft fresh physical";
+var mnemonic = "deposit elevator receive trap square glimpse debris slab cactus mixed swamp stuff";

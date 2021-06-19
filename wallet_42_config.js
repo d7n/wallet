@@ -1,1 +1,1 @@
-var mnemonic = "abuse enhance abuse enrich fabric describe oyster spike plug focus enforce middle";
+var mnemonic = "series famous hour fly sight protect cry face horse print tired laptop";

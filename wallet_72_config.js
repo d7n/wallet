@@ -1,1 +1,1 @@
-var mnemonic = "marble little pool village hotel plunge correct rally anchor divide dragon inflict";
+var mnemonic = "soon zoo crouch cradle wasp armed tilt across giggle improve undo trend";

@@ -1,1 +1,1 @@
-var mnemonic = "domain mimic next shine noble verify next canoe private shoe boring cotton";
+var mnemonic = "artist soft ozone uphold middle wife patient embark champion favorite cram member";

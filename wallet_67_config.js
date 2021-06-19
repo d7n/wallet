@@ -1,1 +1,1 @@
-var mnemonic = "charge snake shed damage refuse size step symbol apart cart shove document";
+var mnemonic = "inside element gold stove announce shine beach sustain elder increase clog divide";

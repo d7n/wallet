@@ -1,1 +1,1 @@
-var mnemonic = "vanish advance joke install network power clump crouch question sleep pig symptom";
+var mnemonic = "right science then because hip demand lemon mobile heavy reflect umbrella saddle";

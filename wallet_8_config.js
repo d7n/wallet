@@ -1,1 +1,1 @@
-var mnemonic = "twist soda hidden erupt grant castle top ask average real owner share";
+var mnemonic = "daughter elite brain warrior bundle lizard they sweet tip kidney disease defy";

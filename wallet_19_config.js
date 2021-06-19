@@ -1,1 +1,1 @@
-var mnemonic = "anger all celery reflect segment glory palm runway joke orbit burst cupboard";
+var mnemonic = "juice noble pave capital slogan grit swap soldier age scissors order cupboard";

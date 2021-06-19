@@ -1,1 +1,1 @@
-var mnemonic = "suggest diesel love seed curve march vacuum stairs dynamic shift hard connect";
+var mnemonic = "flight hen under review valve tomorrow lazy jaguar uncle inform wash parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur tattoo base taste pioneer actual replace runway dune you vault attitude";
+var mnemonic = "diet width level awesome nature victory minimum chest survey erosion you destroy";

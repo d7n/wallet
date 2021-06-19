@@ -1,1 +1,1 @@
-var mnemonic = "budget bring street absurd behave permit faint knee shadow another young elegant";
+var mnemonic = "vague happy toddler violin quarter deputy culture pioneer noise calm lady path";

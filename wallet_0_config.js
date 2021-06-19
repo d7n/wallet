@@ -1,1 +1,1 @@
-var mnemonic = "mobile satisfy escape gift cruise unit rapid visit cry guess coconut bless";
+var mnemonic = "travel umbrella nuclear follow math myth until cram unfold excess chat treat";

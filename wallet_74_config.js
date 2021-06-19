@@ -1,1 +1,1 @@
-var mnemonic = "century similar decline flee cute area chair number crystal gospel tissue clerk";
+var mnemonic = "degree goat silent agent avocado attitude pipe pulp hundred level exist rifle";

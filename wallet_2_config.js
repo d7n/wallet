@@ -1,1 +1,1 @@
-var mnemonic = "say task napkin theme confirm feed today acquire legal strategy mean funny";
+var mnemonic = "equal zone acquire wheel twist frown uphold approve perfect elegant resist soup";

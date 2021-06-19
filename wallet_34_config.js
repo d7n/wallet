@@ -1,1 +1,1 @@
-var mnemonic = "lab taxi tackle flower nice mad forward remove nest minor tuition crash";
+var mnemonic = "salon rich social describe dutch fame marble snow busy eager arrest cabin";

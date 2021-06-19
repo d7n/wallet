@@ -1,1 +1,1 @@
-var mnemonic = "skirt dragon rabbit frown divide indoor crack random police start estate depend";
+var mnemonic = "fat music this lion old enforce guitar obvious strike pattern crop kiwi";

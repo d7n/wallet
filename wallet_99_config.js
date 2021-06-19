@@ -1,1 +1,1 @@
-var mnemonic = "flee rural fame sort scale latin plastic school rebel reward spoil dose";
+var mnemonic = "quiz vague observe clap word october two crop treat cricket stem salute";

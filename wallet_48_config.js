@@ -1,1 +1,1 @@
-var mnemonic = "payment into story tooth poverty tissue crater pink install lab clay rice";
+var mnemonic = "title bomb nice amateur detail much issue two equip call capable food";

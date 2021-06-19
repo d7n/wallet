@@ -1,1 +1,1 @@
-var mnemonic = "people culture student rail state buyer border tumble member machine exit reunion";
+var mnemonic = "cancel oppose liar worth pet busy next bike expire script soon culture";

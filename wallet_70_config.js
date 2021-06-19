@@ -1,1 +1,1 @@
-var mnemonic = "people until anchor spatial local all wolf salon maze soldier elevator sail";
+var mnemonic = "will true retreat upper smile culture thumb loan mule tide picnic hello";

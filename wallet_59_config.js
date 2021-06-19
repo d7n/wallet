@@ -1,1 +1,1 @@
-var mnemonic = "symbol belt pumpkin upgrade wise today alter dream dad hello evidence trumpet";
+var mnemonic = "link settle network voyage diamond domain nerve pledge peace language material message";

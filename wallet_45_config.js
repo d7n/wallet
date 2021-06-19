@@ -1,1 +1,1 @@
-var mnemonic = "jacket latin match cheese sail another pave defense total curtain baby armor";
+var mnemonic = "poverty lock snow brief middle finish zebra project stem correct couch sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "baby physical nerve expect divide claw neglect true middle hole adapt convince";
+var mnemonic = "strong silent trophy sunset sentence system danger private anger wisdom gossip rifle";

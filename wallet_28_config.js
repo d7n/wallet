@@ -1,1 +1,1 @@
-var mnemonic = "toilet image goat someone author extend match siren sorry device sign carry";
+var mnemonic = "later chapter february merit involve mercy gift chimney average chronic copy adjust";

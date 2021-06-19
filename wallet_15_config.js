@@ -1,1 +1,1 @@
-var mnemonic = "hand brief time sister cheap pelican captain side upon awkward light fit";
+var mnemonic = "police layer knock seed test sauce city cousin embrace boss student domain";

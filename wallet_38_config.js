@@ -1,1 +1,1 @@
-var mnemonic = "outside scout source token gorilla obey punch loud patient camp tonight filter";
+var mnemonic = "blind pass crystal pilot staff warrior carpet require toilet despair smile picture";

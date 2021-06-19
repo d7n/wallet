@@ -1,1 +1,1 @@
-var mnemonic = "canyon lonely devote cradle matrix blade loyal special piano novel frequent say";
+var mnemonic = "time travel wise physical shuffle still venue essay empower fiction harvest response";

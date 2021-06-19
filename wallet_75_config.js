@@ -1,1 +1,1 @@
-var mnemonic = "animal bonus detect crumble together cute child merit leopard hero teach twist";
+var mnemonic = "wing glow vault lobster extend siege boost during knee carbon connect liar";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral athlete model clay milk valley ecology sound begin can decrease west";
+var mnemonic = "flavor fresh step mystery slice silk tank essence advance plate long august";

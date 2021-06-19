@@ -1,1 +1,1 @@
-var mnemonic = "front romance safe lyrics bounce pull dizzy vault maple divide staff head";
+var mnemonic = "carpet century retreat damp multiply inject reason another keen blade rival attend";

@@ -1,1 +1,1 @@
-var mnemonic = "quality define image onion update suffer moral enhance gospel saddle kit hire";
+var mnemonic = "agree anchor skirt slight easy cake nurse lawn snake reason letter quit";

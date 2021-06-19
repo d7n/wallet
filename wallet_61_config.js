@@ -1,1 +1,1 @@
-var mnemonic = "ticket brush quantum print average moral praise put salute speak recipe day";
+var mnemonic = "rebel tackle travel another multiply cancel post joke benefit blush hazard derive";

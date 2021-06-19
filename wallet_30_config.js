@@ -1,1 +1,1 @@
-var mnemonic = "follow strategy club range anxiety suffer oblige pass away finish bid grunt";
+var mnemonic = "nice invite saddle run rebuild isolate exact fortune actress shoulder man venue";

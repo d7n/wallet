@@ -1,1 +1,1 @@
-var mnemonic = "aerobic deliver hospital salt memory thought book welcome move bone expect patient";
+var mnemonic = "comfort amateur abuse danger cry assume depart lamp pizza trophy smart offer";

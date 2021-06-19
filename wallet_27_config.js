@@ -1,1 +1,1 @@
-var mnemonic = "snap cry ramp cradle ocean cream cruise melt spray network concert prefer";
+var mnemonic = "belt verb mom chronic soda mix wire head fashion huge slush trouble";

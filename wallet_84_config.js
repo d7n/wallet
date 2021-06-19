@@ -1,1 +1,1 @@
-var mnemonic = "melody seminar project want ketchup health sister wire perfect similar tuna lawsuit";
+var mnemonic = "hour puzzle name describe media drop case embrace ocean recipe father correct";

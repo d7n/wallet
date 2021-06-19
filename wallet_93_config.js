@@ -1,1 +1,1 @@
-var mnemonic = "lobster travel excuse width tag negative blame rose brother trigger destroy awesome";
+var mnemonic = "tent simple shiver space marine cancel uniform note firm lonely raccoon hybrid";

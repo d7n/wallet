@@ -1,1 +1,1 @@
-var mnemonic = "today cook retreat observe tuna harsh olympic hurry believe upset neither verb";
+var mnemonic = "amateur diary worth pyramid toddler tree general wash maximum problem lumber slow";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze artefact dismiss trial day anxiety action chuckle nothing kind struggle hint";
+var mnemonic = "spot cost girl winter twenty daring riot improve miss seminar whisper indicate";

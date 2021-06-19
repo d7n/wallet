@@ -1,1 +1,1 @@
-var mnemonic = "foil cotton barrel rifle vital pull submit depart monster endless air donkey";
+var mnemonic = "panther develop outside level cushion sell asset return vote attend worry range";

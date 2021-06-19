@@ -1,1 +1,1 @@
-var mnemonic = "trumpet crisp girl season eye inquiry latin laptop december absorb ghost focus";
+var mnemonic = "great cover horror mushroom display emerge lion shop salt program picture brisk";

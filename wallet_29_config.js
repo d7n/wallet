@@ -1,1 +1,1 @@
-var mnemonic = "eye dry again castle about intact base kite frost crew weird gather";
+var mnemonic = "arena man claw penalty shoulder party sorry negative release frost air around";

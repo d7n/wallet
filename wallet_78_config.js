@@ -1,1 +1,1 @@
-var mnemonic = "model lobster stairs concert improve way neutral spot secret client false water";
+var mnemonic = "you predict bike identify garment prize wing barrel tornado purse rebuild fly";

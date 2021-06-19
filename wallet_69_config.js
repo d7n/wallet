@@ -1,1 +1,1 @@
-var mnemonic = "jealous unveil cousin awkward invest window fluid strong song recall awkward post";
+var mnemonic = "visit large diamond valid skull float lend diamond suit awesome first spend";

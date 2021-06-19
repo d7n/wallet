@@ -1,1 +1,1 @@
-var mnemonic = "accuse market unveil change umbrella know danger resist orchard claim wood entry";
+var mnemonic = "goddess ring coyote juice true host broccoli humor invite destroy portion use";

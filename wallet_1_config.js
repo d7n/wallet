@@ -1,1 +1,1 @@
-var mnemonic = "husband sudden column park liberty tackle famous peanut primary mom settle reflect";
+var mnemonic = "solve bread main alert orient soft dose modify run upper width various";

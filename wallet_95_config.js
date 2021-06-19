@@ -1,1 +1,1 @@
-var mnemonic = "raw agree purse token library maximum genre child come leopard such legal";
+var mnemonic = "joke match foster manage aware border coffee length panic insect blush fan";

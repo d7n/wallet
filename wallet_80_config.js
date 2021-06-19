@@ -1,1 +1,1 @@
-var mnemonic = "supply dish only bread common tray theory toe snake thing bottom extra";
+var mnemonic = "asset cigar mutual mercy winner document spare follow minute blanket random cheese";

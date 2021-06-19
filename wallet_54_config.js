@@ -1,1 +1,1 @@
-var mnemonic = "control happy ask edit robust craft purity net garage blast gun case";
+var mnemonic = "wrap lend price cruel rare ridge virus indoor frost tragic powder raven";

@@ -1,1 +1,1 @@
-var mnemonic = "lazy connect absorb rail zoo toast amused flower helmet clump kingdom foot";
+var mnemonic = "pretty deal quick invest rebuild fiber amused evoke govern curve year riot";

@@ -1,1 +1,1 @@
-var mnemonic = "pole unveil crawl kiss ten market little harvest lamp velvet screen casino";
+var mnemonic = "age clean dial select dice speak tobacco play maple major faint total";

@@ -1,1 +1,1 @@
-var mnemonic = "tent gown civil idea cluster donate maple outside alter grit chunk female";
+var mnemonic = "van finger ensure tissue script inherit lady dismiss equal session security moment";

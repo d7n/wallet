@@ -1,1 +1,1 @@
-var mnemonic = "receive grid choose inflict prize jazz eight report early giant lecture wisdom";
+var mnemonic = "ring myth media wet recycle perfect inmate output discover random virus portion";

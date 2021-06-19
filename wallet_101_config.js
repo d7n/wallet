@@ -1,1 +1,1 @@
-var mnemonic = "victory state gaze harsh weather saddle mercy color beyond false sound hat";
+var mnemonic = "faculty trouble bar zone glass anxiety learn about gallery bleak any picnic";

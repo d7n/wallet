@@ -1,1 +1,1 @@
-var mnemonic = "swim acoustic follow favorite cabin inject surge left black brown pepper style";
+var mnemonic = "exclude seed eternal salmon betray entry merry ostrich attitude rotate chronic work";

@@ -1,1 +1,1 @@
-var mnemonic = "bright rapid voice will sign post dune dinner source pond wine lock";
+var mnemonic = "banana gravity clock artist exhibit basket neck hedgehog client wire unit company";

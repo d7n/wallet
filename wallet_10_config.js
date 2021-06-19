@@ -1,1 +1,1 @@
-var mnemonic = "destroy fly squirrel burst report inmate balcony once alter quantum feel uncle";
+var mnemonic = "voyage rabbit grit company solution fossil course stadium bread amused speak cargo";

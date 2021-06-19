@@ -1,1 +1,1 @@
-var mnemonic = "pact slab grab captain put force mix tribe secret unaware negative frozen";
+var mnemonic = "elegant salon father zebra hawk dirt spawn bomb bottom loyal twenty castle";

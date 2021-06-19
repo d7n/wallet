@@ -1,1 +1,1 @@
-var mnemonic = "expire narrow drip indicate resource horse come sad enough mosquito mistake impulse";
+var mnemonic = "verify observe where fly demand master test common source critic hollow water";

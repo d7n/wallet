@@ -1,1 +1,1 @@
-var mnemonic = "alert joke slogan kit arrange remove eager raccoon excess grocery myself drive";
+var mnemonic = "skin cause mercy section sail win observe nasty describe rookie doll jacket";

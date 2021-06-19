@@ -1,1 +1,1 @@
-var mnemonic = "upgrade boy viable install sock buzz call brown swing twin snack local";
+var mnemonic = "put bonus cry faint soon motor lesson spot kiss advice cereal six";

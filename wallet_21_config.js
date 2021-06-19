@@ -1,1 +1,1 @@
-var mnemonic = "crisp verify sister oppose mango banana thumb carry elevator curve motor mail";
+var mnemonic = "fox twelve bar path amount vivid pill cliff dizzy category cube tumble";

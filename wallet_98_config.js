@@ -1,1 +1,1 @@
-var mnemonic = "comfort else impact misery enough razor faculty fringe furnace one gauge hat";
+var mnemonic = "shock parrot chapter place inside sudden barely attend select penalty topple mango";

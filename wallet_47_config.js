@@ -1,1 +1,1 @@
-var mnemonic = "uncle wide slim wonder kitten food fabric stuff mask crime soup pond";
+var mnemonic = "shop sing pottery abstract favorite gym used cement erupt meat survey asthma";

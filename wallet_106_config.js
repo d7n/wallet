@@ -1,1 +1,1 @@
-var mnemonic = "illegal media spoon inject parrot finger vessel dumb used merit mule trophy";
+var mnemonic = "obey decade turkey clock this alien shiver holiday pride glass search asset";

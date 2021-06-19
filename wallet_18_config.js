@@ -1,1 +1,1 @@
-var mnemonic = "mountain mixed ability nasty rack lady autumn exist brick cart cake embrace";
+var mnemonic = "correct cake planet dignity chaos violin day flight giraffe soft analyst bacon";

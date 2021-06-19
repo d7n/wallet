@@ -1,1 +1,1 @@
-var mnemonic = "win phone fuel illness ripple solution remember language dish bless empower cool";
+var mnemonic = "dad call sunset song junk orbit among rug language crater perfect coil";

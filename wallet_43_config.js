@@ -1,1 +1,1 @@
-var mnemonic = "market word film hungry circle release injury gap omit carpet airport input";
+var mnemonic = "bomb pigeon ethics team mutual ahead timber nothing future usual soda love";

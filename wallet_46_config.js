@@ -1,1 +1,1 @@
-var mnemonic = "census today turkey height erupt champion nose mule virtual object slim rigid";
+var mnemonic = "pencil cart physical stomach tower kiss clip hundred patient second service mutual";

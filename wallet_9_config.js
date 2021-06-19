@@ -1,1 +1,1 @@
-var mnemonic = "either quiz globe swap light rent veteran pyramid trash little chair useless";
+var mnemonic = "alcohol wing town frozen supreme wisdom debris waste ordinary vendor tube kiwi";

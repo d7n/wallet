@@ -1,1 +1,1 @@
-var mnemonic = "city receive library chair render flush vehicle medal net secret borrow slogan";
+var mnemonic = "snow reform modify will antique parent bronze agree verb banner camp decade";

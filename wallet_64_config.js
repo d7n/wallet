@@ -1,1 +1,1 @@
-var mnemonic = "seed involve rapid hungry sugar insane cycle century hockey vast business force";
+var mnemonic = "elegant scorpion inquiry report regular seven very coin soccer broken viable fall";

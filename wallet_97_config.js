@@ -1,1 +1,1 @@
-var mnemonic = "target rural garment alone nuclear tilt earn orbit spray humble exclude myself";
+var mnemonic = "aerobic virus start leaf project cause copy agent core cattle inform wise";

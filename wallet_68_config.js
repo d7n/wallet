@@ -1,1 +1,1 @@
-var mnemonic = "traffic spray tower rookie always secret blouse oxygen staff design answer tone";
+var mnemonic = "rice matrix weekend wonder citizen shed donor dignity local artist viable affair";

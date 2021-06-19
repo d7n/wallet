@@ -1,1 +1,1 @@
-var mnemonic = "security offer mushroom tube power chest office notice point course put primary";
+var mnemonic = "chapter exercise flavor physical curtain toy patch donor kit initial curious mechanic";

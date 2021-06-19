@@ -1,1 +1,1 @@
-var mnemonic = "olive insane achieve arm expose usual various broccoli salute rotate exit avoid";
+var mnemonic = "seed ketchup neglect climb negative panther govern genuine gather adapt aisle alien";

@@ -1,1 +1,1 @@
-var mnemonic = "barely unusual merge rigid fluid agent unhappy maze finish vote later original";
+var mnemonic = "apple above tree wild security sail sunset direct dynamic hole course fiber";

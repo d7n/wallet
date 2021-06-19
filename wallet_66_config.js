@@ -1,1 +1,1 @@
-var mnemonic = "joy trap spike force maple great fault tuition stand decade unknown object";
+var mnemonic = "awful chapter frozen imitate century please calm pretty renew weekend census laugh";

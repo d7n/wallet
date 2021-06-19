@@ -1,1 +1,1 @@
-var mnemonic = "slender then pull where below quality champion oak forget into laptop casual";
+var mnemonic = "achieve canvas carry surprise myself antenna clog impulse avocado since exit club";

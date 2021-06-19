@@ -1,1 +1,1 @@
-var mnemonic = "rack fish borrow category cruel fossil negative carbon pond leg nut youth";
+var mnemonic = "strategy obscure water organ catalog exotic pitch spread worth auto saddle arctic";

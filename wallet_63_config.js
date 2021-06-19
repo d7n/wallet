@@ -1,1 +1,1 @@
-var mnemonic = "key disorder movie eyebrow shrimp giraffe teach wish month chair enemy fold";
+var mnemonic = "stick broccoli seven opinion glad episode captain fade today skin season float";

@@ -1,1 +1,1 @@
-var mnemonic = "census provide wrap indicate prefer prison episode chef prison gather photo decline";
+var mnemonic = "broom interest grit math expose element crystal affair cupboard joke cruise fantasy";

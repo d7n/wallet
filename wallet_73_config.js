@@ -1,1 +1,1 @@
-var mnemonic = "sadness piece hand canal still promote load peace time light grape era";
+var mnemonic = "tower police route drum patch square include sunny spin budget crush crew";

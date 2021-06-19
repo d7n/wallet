@@ -1,1 +1,1 @@
-var mnemonic = "opinion party pizza awesome pact range inject culture more chicken black cruel";
+var mnemonic = "duck salon layer pilot assault target reveal impulse false diagram work critic";
