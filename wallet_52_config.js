@@ -1,1 +1,1 @@
-var mnemonic = "night napkin blush claw jazz wall adapt manage orange bonus tiger job";
+var mnemonic = "coin erase height chaos twenty dune oppose pattern chase there winner glow";

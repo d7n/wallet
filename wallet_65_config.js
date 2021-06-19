@@ -1,1 +1,1 @@
-var mnemonic = "glare secret dutch wheel local ginger eye sniff source tunnel hidden session";
+var mnemonic = "wood middle flock mystery vapor rain decrease subject dragon dolphin pen used";

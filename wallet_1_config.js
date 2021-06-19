@@ -1,1 +1,1 @@
-var mnemonic = "behind doctor find elevator ship rebel shell during reflect dad valid only";
+var mnemonic = "thunder oblige lizard way pledge north rose worth oppose problem orchard bone";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue car few cigar whisper oil dance home case museum garden baby";
+var mnemonic = "one reunion original movie afraid home base novel sign sample ice fit";

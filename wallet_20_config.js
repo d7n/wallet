@@ -1,1 +1,1 @@
-var mnemonic = "leaf grain borrow sense police extend trend indicate insane tooth glue clock";
+var mnemonic = "damp end roof dance danger provide solution detect puzzle inside manage grab";

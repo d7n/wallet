@@ -1,1 +1,1 @@
-var mnemonic = "useful garlic garden piano honey debate retire tomorrow hood spy proof game";
+var mnemonic = "cruise chimney beach advice hobby acquire shop raw error banana check seat";

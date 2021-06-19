@@ -1,1 +1,1 @@
-var mnemonic = "enhance payment nuclear oak lava trophy economy antenna initial secret crawl alley";
+var mnemonic = "scissors accident conduct sustain marine humble describe major claim true play inform";

@@ -1,1 +1,1 @@
-var mnemonic = "gorilla gas upset already general oven subject focus make sock attack announce";
+var mnemonic = "nerve cake dream famous special hammer define canvas under virtual reopen portion";

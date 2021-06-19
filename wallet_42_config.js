@@ -1,1 +1,1 @@
-var mnemonic = "resource ghost chair clog cry style slow stone gap green hundred two";
+var mnemonic = "slot cricket choice endless sugar sauce model outdoor ugly cupboard smile ski";

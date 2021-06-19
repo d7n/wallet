@@ -1,1 +1,1 @@
-var mnemonic = "vault consider salad auction company letter chase surprise tobacco post judge twice";
+var mnemonic = "square liar radio survey next myth plastic foam express awful fetch express";

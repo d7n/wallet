@@ -1,1 +1,1 @@
-var mnemonic = "cool female horse pulp patient captain afraid exclude maple horn goddess glory";
+var mnemonic = "raw tunnel sphere wish female sleep scene joke turkey pilot brave alert";

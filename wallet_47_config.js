@@ -1,1 +1,1 @@
-var mnemonic = "tail crystal deputy mountain surface rabbit desert skill purity sting valid link";
+var mnemonic = "example remind build town width elite check crowd nest suggest tool insane";

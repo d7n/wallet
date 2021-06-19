@@ -1,1 +1,1 @@
-var mnemonic = "join step stove poet click argue universe warrior junior advance borrow palm";
+var mnemonic = "nurse segment dose damage attitude crane expose away business advance ask uniform";

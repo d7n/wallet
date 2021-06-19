@@ -1,1 +1,1 @@
-var mnemonic = "west help plug tilt toss solution deposit bus loop fork marble walnut";
+var mnemonic = "doctor episode lemon misery pizza old dad carbon fame fetch cube engine";

@@ -1,1 +1,1 @@
-var mnemonic = "engage forest melt own unaware obscure fan apart bench anger moral person";
+var mnemonic = "box oxygen pigeon ozone veteran cause carpet luggage cost remain clarify intact";

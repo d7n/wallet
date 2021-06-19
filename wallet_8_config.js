@@ -1,1 +1,1 @@
-var mnemonic = "organ session drip agree salute convince purity special orphan season stomach toast";
+var mnemonic = "index loop strong system crisp repeat tip century proud soap scatter riot";

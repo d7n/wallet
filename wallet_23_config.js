@@ -1,1 +1,1 @@
-var mnemonic = "discover nurse biology any magnet clog wrap bone brown imitate fork repair";
+var mnemonic = "book joke tail hip attitude prison dinosaur mushroom gold polar empower body";

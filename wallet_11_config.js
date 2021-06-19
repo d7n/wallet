@@ -1,1 +1,1 @@
-var mnemonic = "employ absent conduct law primary label color crystal among leopard derive into";
+var mnemonic = "script ivory report axis never okay desk enrich prize danger negative credit";

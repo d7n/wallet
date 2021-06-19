@@ -1,1 +1,1 @@
-var mnemonic = "torch expire rebuild pistol truly carpet amount flight recipe absent casual replace";
+var mnemonic = "giggle pitch unhappy excuse shallow sad hill unit derive gasp middle impulse";

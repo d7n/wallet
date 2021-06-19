@@ -1,1 +1,1 @@
-var mnemonic = "notice unfold state answer purpose velvet marriage knee antique same battle wrap";
+var mnemonic = "enrich lottery display hunt pumpkin utility rich poet rescue seven evolve cupboard";

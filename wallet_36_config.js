@@ -1,1 +1,1 @@
-var mnemonic = "palm soft private fat evidence exhaust swarm body surge soft host garlic";
+var mnemonic = "poet palm burden file clock fancy eye taxi unusual own jeans marine";

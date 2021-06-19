@@ -1,1 +1,1 @@
-var mnemonic = "usual fatal hole miss mad mutual fever sudden balcony riot truly island";
+var mnemonic = "lab unusual surge blanket machine cost swear nothing era caught joy during";

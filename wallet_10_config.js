@@ -1,1 +1,1 @@
-var mnemonic = "visual mountain tonight basic decrease fall history movie surround romance blood urge";
+var mnemonic = "lab skate proof husband inhale squirrel upon jazz reform jump wheat close";

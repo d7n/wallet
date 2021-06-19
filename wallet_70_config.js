@@ -1,1 +1,1 @@
-var mnemonic = "violin polar rival side embody team edge middle salute list tooth funny";
+var mnemonic = "trumpet series wash farm level swing can result save warrior boat orange";

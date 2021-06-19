@@ -1,1 +1,1 @@
-var mnemonic = "prefer shed memory model vehicle kid letter magic umbrella hood interest expose";
+var mnemonic = "rebuild acid filter final dune utility nasty pizza seven sunny update coffee";

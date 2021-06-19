@@ -1,1 +1,1 @@
-var mnemonic = "media trophy foot trick soul vapor file engine dog worry usual glass";
+var mnemonic = "usage oven promote shaft edge smoke legend maid learn airport face mean";

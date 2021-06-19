@@ -1,1 +1,1 @@
-var mnemonic = "strong dignity force cloth above desk robot first various first engine hidden";
+var mnemonic = "paper tail mammal track diesel skirt select zebra pole onion owner pistol";

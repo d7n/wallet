@@ -1,1 +1,1 @@
-var mnemonic = "recall lumber current flash mosquito another rely palm slow garage mansion sniff";
+var mnemonic = "bar caution oven swift stadium tiger burden close flame possible version brass";

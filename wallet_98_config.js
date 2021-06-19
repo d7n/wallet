@@ -1,1 +1,1 @@
-var mnemonic = "rally either avoid volume air same festival industry write behind sustain carry";
+var mnemonic = "thing whip oven dog night fix ten happy neglect cream position brand";

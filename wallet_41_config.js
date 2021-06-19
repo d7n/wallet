@@ -1,1 +1,1 @@
-var mnemonic = "pave until afford hurry inherit edge sign blanket olive bridge target circle";
+var mnemonic = "mad silent crouch zebra deal flock off nest endorse raccoon swarm victory";

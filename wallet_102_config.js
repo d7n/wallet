@@ -1,1 +1,1 @@
-var mnemonic = "remember chaos early decade repair bicycle latin stage man usage maximum alarm";
+var mnemonic = "legal old banana gun snake tornado small select fringe avocado gesture mom";

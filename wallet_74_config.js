@@ -1,1 +1,1 @@
-var mnemonic = "erase know few size lunch drop cat install van sunny hotel dumb";
+var mnemonic = "increase auction lounge gas adjust media believe blossom laptop flock vivid lens";

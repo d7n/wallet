@@ -1,1 +1,1 @@
-var mnemonic = "actor receive tool excite alpha lend moment into anger turtle hundred honey";
+var mnemonic = "adjust pen delay orient canoe horror fire rain artist brave claim corn";

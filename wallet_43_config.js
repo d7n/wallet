@@ -1,1 +1,1 @@
-var mnemonic = "sign era day bottom dismiss civil quick canvas moment budget health electric";
+var mnemonic = "random zone cake weather differ regular donkey lyrics bulb session brisk object";

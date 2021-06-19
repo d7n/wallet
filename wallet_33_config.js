@@ -1,1 +1,1 @@
-var mnemonic = "swarm devote refuse slam better cargo click near brother twelve idea height";
+var mnemonic = "merge vote aspect east mail primary foster menu trip auction skate federal";

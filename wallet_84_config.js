@@ -1,1 +1,1 @@
-var mnemonic = "page couch grunt lyrics gap woman obtain boss repeat dish staff enough";
+var mnemonic = "easily cross enjoy walk shuffle much normal alien educate season satoshi woman";

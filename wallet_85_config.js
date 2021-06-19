@@ -1,1 +1,1 @@
-var mnemonic = "elder detail palm obvious candy category reason mention festival tool help just";
+var mnemonic = "romance stuff illness during consider moon indicate eternal manage prevent heavy degree";

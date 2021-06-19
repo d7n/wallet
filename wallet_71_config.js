@@ -1,1 +1,1 @@
-var mnemonic = "orphan leaf royal reunion feel remember organ valid sample area country also";
+var mnemonic = "evolve click effort book wrestle artwork absorb force enroll require warfare result";

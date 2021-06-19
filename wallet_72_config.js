@@ -1,1 +1,1 @@
-var mnemonic = "fuel vapor file grow crater zebra pumpkin dust senior dry cruel embrace";
+var mnemonic = "happy any feed verb cheap slender chef various okay extend way circle";

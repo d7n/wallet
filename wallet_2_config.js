@@ -1,1 +1,1 @@
-var mnemonic = "wing give pink act depart fever define suffer circle impact income music";
+var mnemonic = "normal steel ginger peace mouse index poem rule audit bless knock thrive";

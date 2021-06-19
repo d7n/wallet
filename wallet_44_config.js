@@ -1,1 +1,1 @@
-var mnemonic = "river strike roof tortoise cream tissue approve mango anchor fatigue brass speak";
+var mnemonic = "benefit arm sustain mushroom monkey open crazy powder dilemma physical book man";

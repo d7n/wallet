@@ -1,1 +1,1 @@
-var mnemonic = "famous enough foil resource usual injury pipe range burst antique acid famous";
+var mnemonic = "knife saddle current palm cruel shop develop obtain inhale reward best edit";

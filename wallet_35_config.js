@@ -1,1 +1,1 @@
-var mnemonic = "item stone civil label quit arm limit decrease decrease dry noodle correct";
+var mnemonic = "image hen consider maximum brand grain patrol involve observe reunion author park";

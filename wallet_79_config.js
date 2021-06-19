@@ -1,1 +1,1 @@
-var mnemonic = "situate accident lucky balance drift sort purchase glad behind stem tiger tank";
+var mnemonic = "edit success empower sauce model brick swap toss nest infant inherit turtle";

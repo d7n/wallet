@@ -1,1 +1,1 @@
-var mnemonic = "filter tortoise theme gate wing pink wet piano tennis axis ivory joke";
+var mnemonic = "document strong mandate pact human bean true bulk carry flame ticket predict";

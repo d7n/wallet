@@ -1,1 +1,1 @@
-var mnemonic = "champion person lock supreme turn bean bulk million walnut inside ripple pumpkin";
+var mnemonic = "puzzle transfer chaos weird offer save stomach able finish tag sock twice";

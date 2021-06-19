@@ -1,1 +1,1 @@
-var mnemonic = "cable raccoon swallow bachelor song ignore thank cactus execute strategy mass token";
+var mnemonic = "nominee bomb erupt shoulder help empower okay rail quiz slow fold help";

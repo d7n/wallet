@@ -1,1 +1,1 @@
-var mnemonic = "faculty cloth firm else sing bring hill spray woman manual ritual pitch";
+var mnemonic = "powder brick lion question gallery tray escape bless kingdom enforce public deer";

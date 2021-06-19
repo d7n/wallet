@@ -1,1 +1,1 @@
-var mnemonic = "carry now solid purpose diet goat day equip main pattern assist jungle";
+var mnemonic = "trumpet pupil crazy put gym push butter know clog lazy glad duty";

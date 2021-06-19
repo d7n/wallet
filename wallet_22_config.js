@@ -1,1 +1,1 @@
-var mnemonic = "crawl during deputy quality pepper dad trust hungry column point year light";
+var mnemonic = "erase wood sing trim motion depend snack trophy gadget nut judge account";

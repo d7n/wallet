@@ -1,1 +1,1 @@
-var mnemonic = "mention occur link sleep put viable agent upgrade prosper spring sister doll";
+var mnemonic = "magic tribe amateur people adapt caught obvious sunset member city crisp forward";

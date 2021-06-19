@@ -1,1 +1,1 @@
-var mnemonic = "material feel solar survey hunt noodle dial mad sock column toy balcony";
+var mnemonic = "double toe ceiling usual limit plate master devote then gospel run honey";

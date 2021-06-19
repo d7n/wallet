@@ -1,1 +1,1 @@
-var mnemonic = "spell square skirt swift improve atom young original label ability purpose gospel";
+var mnemonic = "dumb siren find tool squirrel tray unaware nation umbrella lobster general need";

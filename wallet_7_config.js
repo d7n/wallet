@@ -1,1 +1,1 @@
-var mnemonic = "modify risk rival village tobacco decline boost protect coil release awful pluck";
+var mnemonic = "stove country adjust above document phone mother provide bicycle coin process foot";

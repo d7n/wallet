@@ -1,1 +1,1 @@
-var mnemonic = "dad wide regular demise echo hope cactus fitness frozen crawl bunker hold";
+var mnemonic = "local globe swim club only glide luxury estate neutral amount brass ten";

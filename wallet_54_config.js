@@ -1,1 +1,1 @@
-var mnemonic = "grab amazing life act cotton believe sugar clown humor quick sport quantum";
+var mnemonic = "maple anger sail assault spot expose ritual nasty survey health joy picture";

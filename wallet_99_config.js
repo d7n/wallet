@@ -1,1 +1,1 @@
-var mnemonic = "extend fancy casino peace phone father lottery topple announce raise excess gravity";
+var mnemonic = "expand dirt outside help sugar execute scrub exit setup avoid purpose inch";

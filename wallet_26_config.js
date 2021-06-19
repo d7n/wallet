@@ -1,1 +1,1 @@
-var mnemonic = "spray hurdle diamond boy captain civil awake clerk artwork brand neutral blouse";
+var mnemonic = "fantasy brother hip whale length artefact answer adult enter measure fresh thunder";

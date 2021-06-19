@@ -1,1 +1,1 @@
-var mnemonic = "aisle clog pupil calm manual either relief drink fish small reflect alien";
+var mnemonic = "spot uphold fall dilemma giant spawn phone inherit friend air fun inch";

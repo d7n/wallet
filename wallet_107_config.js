@@ -1,1 +1,1 @@
-var mnemonic = "unknown dirt yellow tongue bitter erosion explain dad midnight donkey pet crawl";
+var mnemonic = "gossip media shrug young review alone robot amazing goat buffalo suggest festival";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey echo gauge sight then weasel flock alter absorb where tomato mesh";
+var mnemonic = "swift again law multiply garage dance angry inflict machine shield huge mistake";

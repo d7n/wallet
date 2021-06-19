@@ -1,1 +1,1 @@
-var mnemonic = "budget public vibrant silly dentist caution turkey reward reform cement cloth perfect";
+var mnemonic = "curious pyramid relief film sell bracket account melt size shaft surface cage";

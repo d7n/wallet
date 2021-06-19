@@ -1,1 +1,1 @@
-var mnemonic = "fold praise able actual sing sample pony front collect begin smile twice";
+var mnemonic = "push damp blue narrow end draft case faith fortune practice distance voice";

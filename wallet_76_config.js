@@ -1,1 +1,1 @@
-var mnemonic = "remember lobster slim manage task priority cry unit human shed midnight try";
+var mnemonic = "siren pause analyst submit approve medal bicycle daring version track impulse hope";

@@ -1,1 +1,1 @@
-var mnemonic = "person client antenna drive elbow play liberty benefit wild gasp laugh pear";
+var mnemonic = "round pilot canal crumble possible fee library melody library bridge fish army";

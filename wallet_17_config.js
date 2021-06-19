@@ -1,1 +1,1 @@
-var mnemonic = "spoil keep pupil satoshi tiny subject embark street brand sugar glass pulp";
+var mnemonic = "athlete spoil fatal vehicle total else reward faith fan spring strike cycle";

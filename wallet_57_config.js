@@ -1,1 +1,1 @@
-var mnemonic = "creek flag birth neck smile pole mammal heart regular million program canoe";
+var mnemonic = "essay lizard member siege glue hazard loop brave peace sustain lounge sleep";

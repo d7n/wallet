@@ -1,1 +1,1 @@
-var mnemonic = "minute caught vote identify capable fish update fresh section runway assume bitter";
+var mnemonic = "sell hint extend ginger toilet subway leopard lucky alcohol nasty stool avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate develop expand circle concert idea autumn clay ketchup carpet leave exhibit";
+var mnemonic = "between life tail jelly raven base often emerge state oblige tourist have";

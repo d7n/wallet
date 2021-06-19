@@ -1,1 +1,1 @@
-var mnemonic = "dash mimic term orient leaf envelope bring curtain junk mansion chalk ivory";
+var mnemonic = "electric visa antenna stamp loop used lab turkey hill weekend entire genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "shine two rhythm key uncover route under confirm segment decrease faculty brief";
+var mnemonic = "goose zebra mechanic seat solid heart short venture region situate assume ten";

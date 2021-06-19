@@ -1,1 +1,1 @@
-var mnemonic = "radar suspect flock share attend clay stairs carry buffalo skate narrow family";
+var mnemonic = "occur code symbol receive key ancient immune country total present board kidney";

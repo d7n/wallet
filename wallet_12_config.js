@@ -1,1 +1,1 @@
-var mnemonic = "midnight cliff exclude nasty rug visual bargain dolphin just summer broom move";
+var mnemonic = "drop daring disorder laundry anxiety nature oval curtain moon axis water aerobic";

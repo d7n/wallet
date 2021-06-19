@@ -1,1 +1,1 @@
-var mnemonic = "year genuine veteran unique brush magic rookie flat staff old emotion avoid";
+var mnemonic = "unique unfold sport year company there sponsor bid verb erase coach father";

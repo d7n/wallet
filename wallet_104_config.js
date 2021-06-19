@@ -1,1 +1,1 @@
-var mnemonic = "actress vibrant tip this uniform lounge bridge address quit student nut lake";
+var mnemonic = "rhythm similar prison return page solution during quit churn trouble minor satoshi";

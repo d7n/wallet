@@ -1,1 +1,1 @@
-var mnemonic = "dish south obscure era toward click club jelly rough end gather syrup";
+var mnemonic = "shallow unaware nose innocent erase thumb dismiss worth tube sheriff kite side";

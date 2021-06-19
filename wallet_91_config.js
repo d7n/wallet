@@ -1,1 +1,1 @@
-var mnemonic = "vessel elbow pear cabin certain tortoise tribe security blast tennis prefer galaxy";
+var mnemonic = "loan faith cloth attract wrong remain country hint coil slide inch anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "venue unveil catalog valley hand pink execute emerge parade beyond muscle believe";
+var mnemonic = "truly window eyebrow material photo ice follow meat slice mandate body heart";

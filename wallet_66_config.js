@@ -1,1 +1,1 @@
-var mnemonic = "famous mistake wrong connect debate exile wedding runway blind crystal shadow dawn";
+var mnemonic = "butter manage sell gospel network bargain volcano million observe bless parrot maple";

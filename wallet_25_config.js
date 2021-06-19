@@ -1,1 +1,1 @@
-var mnemonic = "silent consider cost donor rocket carbon poet alien chimney lucky tube lyrics";
+var mnemonic = "benefit fiber owner cook noise argue move glare door census virtual future";

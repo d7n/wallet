@@ -1,1 +1,1 @@
-var mnemonic = "depth praise trouble when such century decline cluster blame embody maple subject";
+var mnemonic = "stomach curve tank essence off guide sound tissue hurdle put young spray";

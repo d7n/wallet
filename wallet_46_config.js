@@ -1,1 +1,1 @@
-var mnemonic = "sheriff afford virtual wage segment water pulse wall during smart ankle grief";
+var mnemonic = "prepare poem dumb rib enable sausage cheese piano right latin link insect";

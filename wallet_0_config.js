@@ -1,1 +1,1 @@
-var mnemonic = "grunt nose absorb super endless genuine birth notable believe embrace fog friend";
+var mnemonic = "truth bean initial absorb select program include property toe amazing okay claim";

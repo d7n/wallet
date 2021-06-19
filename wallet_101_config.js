@@ -1,1 +1,1 @@
-var mnemonic = "umbrella bounce company scene swallow short bind recycle mutual buffalo term metal";
+var mnemonic = "fox parent convince satisfy entry uniform resource judge flame collect ghost wrong";

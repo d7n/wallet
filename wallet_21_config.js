@@ -1,1 +1,1 @@
-var mnemonic = "midnight omit sausage diamond occur liberty bonus able negative because print toss";
+var mnemonic = "aerobic erase farm license voyage sun echo clerk cement ancient possible acoustic";

@@ -1,1 +1,1 @@
-var mnemonic = "glue almost useful glass hurry lunch oval entry toward photo hurdle mixed";
+var mnemonic = "stuff ask figure shy little never width imitate idle lunar door exile";
