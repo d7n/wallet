@@ -1,1 +1,1 @@
-var mnemonic = "shiver lend candy quantum auto nature visa hamster twice senior bomb then";
+var mnemonic = "purse match suspect scheme armed tank length concert dentist segment amazing moral";

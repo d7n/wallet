@@ -1,1 +1,1 @@
-var mnemonic = "exact master rich van life arrest choose bus field tornado vibrant chief";
+var mnemonic = "penalty defense grace daughter grunt parade staff egg unhappy share hood judge";

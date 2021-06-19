@@ -1,1 +1,1 @@
-var mnemonic = "draw will mixture cash session patch reflect fiber weird sniff armed balance";
+var mnemonic = "hedgehog letter champion trial joy unable question hundred again inch height bus";

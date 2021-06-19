@@ -1,1 +1,1 @@
-var mnemonic = "spoon cigar govern together load dwarf winner level bronze diagram evil reunion";
+var mnemonic = "blanket insect delay tent angle kiwi arrow album visit snow screen finger";

@@ -1,1 +1,1 @@
-var mnemonic = "scan enjoy awful worth industry copy two area flock primary equip able";
+var mnemonic = "combine produce slide chapter because cigar lady month open churn group session";

@@ -1,1 +1,1 @@
-var mnemonic = "useless agent depend final box entry budget foil arm nature square admit";
+var mnemonic = "elegant street soft quantum flush pride next join innocent foam weapon squirrel";

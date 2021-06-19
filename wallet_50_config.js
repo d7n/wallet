@@ -1,1 +1,1 @@
-var mnemonic = "orbit decorate average spell half off angry west talk put adjust lesson";
+var mnemonic = "skin hen boil prefer judge detail install melt decorate sudden hill choice";

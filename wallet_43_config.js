@@ -1,1 +1,1 @@
-var mnemonic = "candy swear permit neck wine artwork shiver drastic travel possible green expand";
+var mnemonic = "estate swift sorry slogan evolve grab cup cousin upset spatial galaxy child";

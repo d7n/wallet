@@ -1,1 +1,1 @@
-var mnemonic = "uphold coconut wrong coyote light option float trouble damp fiction remind canvas";
+var mnemonic = "all naive digital pilot vanish flight normal rack evil daughter common address";

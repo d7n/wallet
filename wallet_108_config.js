@@ -1,1 +1,1 @@
-var mnemonic = "hole east alley usage romance swear stone almost east devote allow bulk";
+var mnemonic = "hill weather exercise true know candy risk insane month spoil bread tongue";

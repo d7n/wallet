@@ -1,1 +1,1 @@
-var mnemonic = "ranch cash slogan parrot example decorate time example erosion unfold soft coast";
+var mnemonic = "involve fabric crumble rally awake sport glass coconut parrot rapid valve drama";

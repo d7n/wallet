@@ -1,1 +1,1 @@
-var mnemonic = "quit muscle enact blur budget pole snap wealth step cheap message amazing";
+var mnemonic = "accuse reopen exclude letter strategy either lazy bridge flag derive strong animal";

@@ -1,1 +1,1 @@
-var mnemonic = "accident manual pattern earth civil pyramid snake egg damp basic hidden slogan";
+var mnemonic = "video burger sister mother pioneer knee dutch march mad scrap gravity comfort";

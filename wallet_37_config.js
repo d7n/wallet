@@ -1,1 +1,1 @@
-var mnemonic = "agree night employ entry blood adult suffer exit odor garbage minor album";
+var mnemonic = "fire update update liquid laptop carpet impose ugly split smoke broken odor";

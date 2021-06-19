@@ -1,1 +1,1 @@
-var mnemonic = "engine energy catalog fantasy empower lounge crawl little dinosaur kitchen enable crystal";
+var mnemonic = "render sweet copy play gloom teach aunt dream armor swallow harvest soup";

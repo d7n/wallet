@@ -1,1 +1,1 @@
-var mnemonic = "moon iron sock badge marble level horn winner jealous gentle emerge word";
+var mnemonic = "material blossom capable observe absurd swift reform lunch foam clarify weird admit";

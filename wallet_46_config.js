@@ -1,1 +1,1 @@
-var mnemonic = "panther wash salute patient coast vapor hope fade view damp repeat absent";
+var mnemonic = "thunder dish donor number venture assume sponsor frost prison tortoise pilot velvet";

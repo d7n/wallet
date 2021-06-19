@@ -1,1 +1,1 @@
-var mnemonic = "health because economy resist gift develop elevator trim struggle actor title unique";
+var mnemonic = "laundry eager left lunch horror access blouse okay soul beef catch cry";

@@ -1,1 +1,1 @@
-var mnemonic = "wash jaguar wet swarm arrest timber wrestle proud obscure engine senior wheat";
+var mnemonic = "heavy taxi glory frown fossil turtle resist exotic phrase mouse outdoor jacket";

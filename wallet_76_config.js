@@ -1,1 +1,1 @@
-var mnemonic = "divide bright dawn fade reopen mother health path federal dream blush draw";
+var mnemonic = "faculty kidney never keep daughter nut area uncover bundle best citizen square";

@@ -1,1 +1,1 @@
-var mnemonic = "define excite hair anchor arrange boost oppose first simple wing one glance";
+var mnemonic = "expect involve card kind video talent picture fantasy powder treat harvest face";

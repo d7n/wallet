@@ -1,1 +1,1 @@
-var mnemonic = "way gap blast toe garment idle gas note fat ripple night order";
+var mnemonic = "make urban unusual casino give sniff candy weather festival measure recycle picture";

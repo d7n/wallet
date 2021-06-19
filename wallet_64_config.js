@@ -1,1 +1,1 @@
-var mnemonic = "ripple miss crack grit situate achieve bird cluster surge public inflict bacon";
+var mnemonic = "chapter cat later hotel girl young eight move sweet cattle essence crush";

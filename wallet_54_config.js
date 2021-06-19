@@ -1,1 +1,1 @@
-var mnemonic = "garbage sudden opinion square behind scene plunge humor rhythm tower praise alley";
+var mnemonic = "parade trap stand health dune shield outdoor eight winter enough dilemma old";

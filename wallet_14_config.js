@@ -1,1 +1,1 @@
-var mnemonic = "seed clarify lock drop rich coffee cluster okay useless orange social update";
+var mnemonic = "type merge jaguar hint fever early gaze apology wish fashion decrease cart";

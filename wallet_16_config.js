@@ -1,1 +1,1 @@
-var mnemonic = "soccer chase pill armor grace park sausage almost observe weird floor abandon";
+var mnemonic = "erosion chuckle joke hockey blanket when tell brush physical globe inform raccoon";

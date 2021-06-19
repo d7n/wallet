@@ -1,1 +1,1 @@
-var mnemonic = "key level return danger detect leader invest giant noble race finger only";
+var mnemonic = "palm special business street settle suggest autumn cloth front require narrow agent";

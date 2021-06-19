@@ -1,1 +1,1 @@
-var mnemonic = "person today indoor hotel subway unfold tray chuckle kit scene motion alley";
+var mnemonic = "uncover vital educate brick chuckle roof matrix income vivid visit amateur wink";

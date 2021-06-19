@@ -1,1 +1,1 @@
-var mnemonic = "flip decide moment universe slight camp payment top start broom never winter";
+var mnemonic = "check resist story puppy east jump slush motion priority mushroom humble slab";

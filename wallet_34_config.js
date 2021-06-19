@@ -1,1 +1,1 @@
-var mnemonic = "purchase film misery acquire present garden dilemma deposit blast say cube enough";
+var mnemonic = "timber dose security trap dilemma approve reunion title fossil gym social quality";

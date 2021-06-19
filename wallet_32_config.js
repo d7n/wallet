@@ -1,1 +1,1 @@
-var mnemonic = "matter mean swamp have crush spot grace matrix wage female rookie urge";
+var mnemonic = "either dove world nest music orphan mask viable return book bulb pave";

@@ -1,1 +1,1 @@
-var mnemonic = "wall bulk thumb wisdom fame luggage shift depart enter poet alert solid";
+var mnemonic = "light stumble glow drill milk frown winter ribbon obey jar wire quality";

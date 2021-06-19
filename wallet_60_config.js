@@ -1,1 +1,1 @@
-var mnemonic = "rule napkin glow panel physical health relief beauty dirt hurry tank emerge";
+var mnemonic = "ceiling make page shoulder shy valid airport crew bring spray fat corn";

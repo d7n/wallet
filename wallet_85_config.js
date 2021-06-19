@@ -1,1 +1,1 @@
-var mnemonic = "legend catch side define illness feed veteran outer drum orbit entry pave";
+var mnemonic = "letter guide cool army humor age response measure captain gate steel hair";

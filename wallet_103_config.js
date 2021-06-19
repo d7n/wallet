@@ -1,1 +1,1 @@
-var mnemonic = "total annual talk deny initial jealous shove roast friend then glare village";
+var mnemonic = "sick indoor noise betray shrimp brisk kangaroo upon obvious alien duty spell";

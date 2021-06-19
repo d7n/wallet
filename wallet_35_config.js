@@ -1,1 +1,1 @@
-var mnemonic = "helmet velvet vintage mass fox car under dial few warrior planet basket";
+var mnemonic = "inhale home educate join onion fat unable north pilot dry yellow demise";

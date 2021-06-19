@@ -1,1 +1,1 @@
-var mnemonic = "degree cargo chair decrease broom neck mercy task learn because much timber";
+var mnemonic = "outdoor make system puzzle rural pool weekend end token champion range excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh keen net about room coral adult walnut differ forest churn wisdom";
+var mnemonic = "expire under stand mean lounge scout garage snow census expand gorilla badge";

@@ -1,1 +1,1 @@
-var mnemonic = "balance lonely cake addict link rhythm mail used daring cricket biology write";
+var mnemonic = "settle act female fitness more advance drama remain denial sight double beach";

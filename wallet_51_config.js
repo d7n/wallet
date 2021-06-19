@@ -1,1 +1,1 @@
-var mnemonic = "crazy divorce mimic wheat energy twelve sketch island laptop absent cat first";
+var mnemonic = "language still milk note carpet monkey spot kid sell mechanic rubber reason";

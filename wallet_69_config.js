@@ -1,1 +1,1 @@
-var mnemonic = "border cancel room walnut rather exact smile attend total cause rival essence";
+var mnemonic = "genre life unveil muffin shop random common leg exclude pepper clean mixture";

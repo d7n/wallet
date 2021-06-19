@@ -1,1 +1,1 @@
-var mnemonic = "art famous thrive inner hen inflict box spend keep horse company journey";
+var mnemonic = "wide attitude sound interest exit average horror decline aunt position survey catalog";

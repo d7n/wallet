@@ -1,1 +1,1 @@
-var mnemonic = "hole section uphold fitness glide clinic room plunge unlock hawk tooth hawk";
+var mnemonic = "stereo picnic old flat regular hurt prepare view fiction snake wisdom nasty";

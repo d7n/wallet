@@ -1,1 +1,1 @@
-var mnemonic = "infant april gaze power fatal access need coast capable vocal van circle";
+var mnemonic = "drop judge until arrest unfold finger potato cake exotic tattoo draft among";

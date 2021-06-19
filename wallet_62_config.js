@@ -1,1 +1,1 @@
-var mnemonic = "waste combine afford knee beyond shallow record anxiety joke west raccoon swift";
+var mnemonic = "normal stuff wrestle flag visual tape apology repeat regret shaft note share";

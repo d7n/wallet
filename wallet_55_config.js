@@ -1,1 +1,1 @@
-var mnemonic = "before upon spin skirt patrol slush popular once author salute help isolate";
+var mnemonic = "brother thumb velvet brown talk library drop trial abandon system cactus innocent";

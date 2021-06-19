@@ -1,1 +1,1 @@
-var mnemonic = "oak excite wealth since already flag enemy thank novel very cereal puppy";
+var mnemonic = "together cry drill neglect tray donkey deny symbol tumble sphere cave route";

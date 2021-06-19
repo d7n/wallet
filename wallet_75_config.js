@@ -1,1 +1,1 @@
-var mnemonic = "license child cactus suspect dry drift client note onion turn tail repair";
+var mnemonic = "butter vacuum cigar brave labor ugly stamp base crush derive luggage addict";

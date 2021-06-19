@@ -1,1 +1,1 @@
-var mnemonic = "grass release congress whip absurd chalk leaf feature ordinary daughter club pattern";
+var mnemonic = "way fix fee chef useful hair connect strategy palm radar october sock";

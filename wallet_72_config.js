@@ -1,1 +1,1 @@
-var mnemonic = "pattern eye spring injury question youth bird amazing pulp city laundry cave";
+var mnemonic = "siren helmet anxiety churn just style flee age swap stable hockey crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle man drastic armor woman hidden twenty brass approve awesome funny weather";
+var mnemonic = "wave great ignore soap nice guess success sadness cushion pair remember swear";

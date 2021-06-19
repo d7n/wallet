@@ -1,1 +1,1 @@
-var mnemonic = "protect client weapon height tell truth pretty vapor goat surprise heavy cruel";
+var mnemonic = "harbor clap extend knee gorilla you brass ridge letter devote base onion";

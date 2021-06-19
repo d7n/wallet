@@ -1,1 +1,1 @@
-var mnemonic = "collect neglect belt seminar nice deal gentle clutch copy priority dumb hurry";
+var mnemonic = "tape slow comic purchase person feel silk novel fringe lamp detail final";

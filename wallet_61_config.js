@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow chief sausage lyrics advice smooth birth dynamic tuition result gorilla right";
+var mnemonic = "control dilemma recall describe fatal atom edit derive claw industry sure account";

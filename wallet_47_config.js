@@ -1,1 +1,1 @@
-var mnemonic = "sphere office survey uncover problem city smooth cushion company discover memory cherry";
+var mnemonic = "planet order exile quiz home sand cannon laptop extend sheriff oppose tiger";

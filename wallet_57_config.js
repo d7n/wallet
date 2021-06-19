@@ -1,1 +1,1 @@
-var mnemonic = "hundred roast limb happy fork boat venture evolve cost deny miss grit";
+var mnemonic = "buyer stumble avocado correct carbon order delay veteran purse kitten fall dry";

@@ -1,1 +1,1 @@
-var mnemonic = "road shoulder actual cry ramp silver road unusual tape element great orange";
+var mnemonic = "token income vapor blanket place achieve salute couple net sense wrap mistake";

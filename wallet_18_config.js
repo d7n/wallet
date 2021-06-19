@@ -1,1 +1,1 @@
-var mnemonic = "source tornado perfect frost donkey letter buffalo coconut guilt hair clarify liar";
+var mnemonic = "erase soda student chicken rain educate street gold property rare syrup yard";

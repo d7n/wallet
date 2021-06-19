@@ -1,1 +1,1 @@
-var mnemonic = "tobacco either loud saddle wreck best occur frost name lizard shadow book";
+var mnemonic = "mad vague book waste team network social capital stomach believe aim ask";

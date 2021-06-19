@@ -1,1 +1,1 @@
-var mnemonic = "curtain extra soon base alcohol already tattoo cheap lab middle one recall";
+var mnemonic = "token close nest spot column boat present beauty output fiction detail effort";

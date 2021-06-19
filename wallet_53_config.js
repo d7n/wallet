@@ -1,1 +1,1 @@
-var mnemonic = "shrug slender kangaroo rebel edge draft title eager better glide clean short";
+var mnemonic = "dirt village undo sign ancient glare seven owner fault head write cat";

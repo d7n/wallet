@@ -1,1 +1,1 @@
-var mnemonic = "cause lend expect spawn tree album near find slim sadness milk mule";
+var mnemonic = "demise major right fine broken hint clean equip nut turkey hill round";

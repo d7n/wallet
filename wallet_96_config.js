@@ -1,1 +1,1 @@
-var mnemonic = "drop outdoor melt collect scatter talk excite damage gather rail token excite";
+var mnemonic = "rescue taxi buzz system exile peanut noodle venue surface betray reject pig";

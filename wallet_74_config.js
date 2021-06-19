@@ -1,1 +1,1 @@
-var mnemonic = "ecology company amateur update start baby illegal private random page true shield";
+var mnemonic = "upon interest clown settle east broccoli viable copy dust tattoo fragile enforce";

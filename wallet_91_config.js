@@ -1,1 +1,1 @@
-var mnemonic = "topic aspect kid episode turkey boss idea hole weather height trip box";
+var mnemonic = "romance shaft embody lion truly oven orphan keep toilet rubber boat vital";

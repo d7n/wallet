@@ -1,1 +1,1 @@
-var mnemonic = "squirrel gasp verb crunch mule ordinary health anger mask raise plastic broom";
+var mnemonic = "ready afraid story surprise pepper road future laptop auction drive crack finger";

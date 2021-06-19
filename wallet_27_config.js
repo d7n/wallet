@@ -1,1 +1,1 @@
-var mnemonic = "title foot maximum frog survey excess primary slush suggest old siege section";
+var mnemonic = "expire kangaroo detail vocal inspire supply solve mechanic track alcohol slogan fetch";

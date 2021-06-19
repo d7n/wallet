@@ -1,1 +1,1 @@
-var mnemonic = "often angle stock clap one meat spy wheel marine account bottom still";
+var mnemonic = "sad various tragic chat battle wet toilet quarter timber range design sword";

@@ -1,1 +1,1 @@
-var mnemonic = "all cube boss bottom paper knife thunder age report end alpha nice";
+var mnemonic = "crane require material pledge rival left story pattern level animal book culture";

@@ -1,1 +1,1 @@
-var mnemonic = "present stick lazy glide tag ethics struggle above direct say nose glory";
+var mnemonic = "jewel loop manage news kitchen major original language odor assault figure immune";

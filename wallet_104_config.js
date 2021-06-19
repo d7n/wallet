@@ -1,1 +1,1 @@
-var mnemonic = "mean magnet whisper laugh book there will oak wool profit pink air";
+var mnemonic = "gadget reform always post wagon seven route jewel double dignity bid save";

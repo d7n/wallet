@@ -1,1 +1,1 @@
-var mnemonic = "spot stool pottery real alter marble shove quarter critic bachelor lazy coast";
+var mnemonic = "bus erode fiber into inherit muffin belt south stadium tide jelly army";

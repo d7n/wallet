@@ -1,1 +1,1 @@
-var mnemonic = "begin mechanic lobster pen absurd shaft isolate coin prosper client later finish";
+var mnemonic = "hover spend busy regular dinosaur hollow deliver drum obtain cake end post";

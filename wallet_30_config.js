@@ -1,1 +1,1 @@
-var mnemonic = "leisure fee purchase ripple humble magnet flat coconut inform beauty result sugar";
+var mnemonic = "text head forest must assume engine forget pole shock crack barely impact";

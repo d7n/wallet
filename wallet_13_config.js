@@ -1,1 +1,1 @@
-var mnemonic = "dinner lock laptop evidence label clay youth seat dismiss cluster dizzy february";
+var mnemonic = "shove rail love often easy cause ramp fury scatter twin mixed oak";

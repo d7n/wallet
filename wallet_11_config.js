@@ -1,1 +1,1 @@
-var mnemonic = "easy quality century casino foster alpha enforce awesome option glory account sea";
+var mnemonic = "earth sentence ozone term violin grass leader equal abstract ghost switch cable";

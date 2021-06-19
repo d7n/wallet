@@ -1,1 +1,1 @@
-var mnemonic = "jump move travel olympic half idle rural luggage faint switch mixed menu";
+var mnemonic = "typical cute quality saddle among sweet session cannon gesture helmet cannon doll";

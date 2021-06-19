@@ -1,1 +1,1 @@
-var mnemonic = "cable put symbol elephant unlock awake crane trash lyrics eternal lucky stereo";
+var mnemonic = "able crater model lens coconut blossom script engine below found chat you";

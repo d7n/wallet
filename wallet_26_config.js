@@ -1,1 +1,1 @@
-var mnemonic = "emerge trigger card adjust slim earn assist adult enter raise inject crack";
+var mnemonic = "reveal coral raven armed park left egg cereal imitate lab lyrics thrive";

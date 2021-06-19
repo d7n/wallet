@@ -1,1 +1,1 @@
-var mnemonic = "come review settle pig dizzy erode reveal equip vacant attitude violin mother";
+var mnemonic = "connect estate essence milk whisper addict switch weather fiber dune pluck evidence";

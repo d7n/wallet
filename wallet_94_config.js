@@ -1,1 +1,1 @@
-var mnemonic = "people special skate pyramid avocado skill envelope lion vacant wage snack plug";
+var mnemonic = "state spare hope dust oak input banner click draft whip raw rib";

@@ -1,1 +1,1 @@
-var mnemonic = "magic frown bracket feature wagon super potato film athlete coil alert kingdom";
+var mnemonic = "umbrella charge diagram caution delay property review coyote reward ridge hope exit";

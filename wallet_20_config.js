@@ -1,1 +1,1 @@
-var mnemonic = "monitor core owner dog excite concert ridge brisk across napkin salad holiday";
+var mnemonic = "empty label cotton brush physical fruit text wisdom fiscal total allow arena";

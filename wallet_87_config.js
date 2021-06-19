@@ -1,1 +1,1 @@
-var mnemonic = "provide movie rare piece champion train quarter boil give stumble also defense";
+var mnemonic = "festival cherry depth illegal easily horror coconut glare ready foster reopen gas";

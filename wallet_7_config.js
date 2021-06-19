@@ -1,1 +1,1 @@
-var mnemonic = "reject liquid voice hamster bamboo column select like such erase question wine";
+var mnemonic = "twin float abandon menu stable like trap elite celery garbage way chalk";

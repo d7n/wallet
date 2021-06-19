@@ -1,1 +1,1 @@
-var mnemonic = "surge tiny steel post this tide recipe client spin quality patient rival";
+var mnemonic = "cheese absurd split nephew tunnel describe domain phone gown patch isolate banner";

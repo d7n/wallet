@@ -1,1 +1,1 @@
-var mnemonic = "empty photo urge wrong aunt achieve ship raw south search grain loan";
+var mnemonic = "extend gossip large dice print stuff mass entry spoil praise cluster tower";

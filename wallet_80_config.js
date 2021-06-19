@@ -1,1 +1,1 @@
-var mnemonic = "possible head syrup nice ocean knife winter total human body dumb another";
+var mnemonic = "credit orange rib oak pluck sting suit satisfy wasp clap erupt embark";
