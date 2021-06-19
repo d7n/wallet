@@ -1,1 +1,1 @@
-var mnemonic = "extend urban expose pledge beef dress key crash this hamster town rain";
+var mnemonic = "crouch analyst wage only control push armor cargo swarm large much bring";

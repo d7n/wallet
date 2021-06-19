@@ -1,1 +1,1 @@
-var mnemonic = "mushroom cabbage person shoulder cereal smooth awkward record glory lamp island series";
+var mnemonic = "clutch harvest fever sense leisure panther liberty tent roast code unable conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "venue rule remember library hamster armor deal birth fever craft accuse powder";
+var mnemonic = "fuel walk mobile wire manage clean course tired rate retreat scale company";

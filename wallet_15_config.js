@@ -1,1 +1,1 @@
-var mnemonic = "conduct segment rough honey sport tuna gospel mobile snap fuel huge sock";
+var mnemonic = "visual voice party neither female private core episode dash hover leopard update";

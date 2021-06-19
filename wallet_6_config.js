@@ -1,1 +1,1 @@
-var mnemonic = "grape inside helmet forum light review goddess slush puppy glad case orbit";
+var mnemonic = "regret start steel gloom submit spring mind hunt lizard example impose hawk";

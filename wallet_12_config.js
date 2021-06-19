@@ -1,1 +1,1 @@
-var mnemonic = "plastic usage lift flash child display oyster grocery siren genuine learn direct";
+var mnemonic = "scout upon link right host motor bitter dish maid cherry road equal";

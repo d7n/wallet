@@ -1,1 +1,1 @@
-var mnemonic = "sand ranch crop sea front replace wheat ten thank universe ask nominee";
+var mnemonic = "hurdle panel pretty perfect long together gate matter club clap february glass";

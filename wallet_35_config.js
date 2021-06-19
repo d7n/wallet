@@ -1,1 +1,1 @@
-var mnemonic = "swift fortune permit lava power pave mammal unfold chicken smoke game hover";
+var mnemonic = "velvet daughter forum wage media wet equip purity cash fabric high force";

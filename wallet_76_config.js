@@ -1,1 +1,1 @@
-var mnemonic = "clap abstract hazard worth middle nest shop knife spread elder stairs flame";
+var mnemonic = "innocent net orphan order cat ginger acoustic celery ranch defy shy rebuild";

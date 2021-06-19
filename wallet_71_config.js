@@ -1,1 +1,1 @@
-var mnemonic = "basket cart moment nice major note glare erupt large reduce comic repeat";
+var mnemonic = "moon arena tooth maid inside adapt menu picnic dish unknown just host";

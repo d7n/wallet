@@ -1,1 +1,1 @@
-var mnemonic = "test gorilla clown unhappy urge song ripple story differ retire defense cake";
+var mnemonic = "merry average prosper frown hobby noble hard movie destroy balance actor maid";

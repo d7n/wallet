@@ -1,1 +1,1 @@
-var mnemonic = "clutch hurt birth pool pond mother unaware coil affair monster brave step";
+var mnemonic = "junk comfort swap front range salon any together gentle moral wire attack";

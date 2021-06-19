@@ -1,1 +1,1 @@
-var mnemonic = "topic mixed captain network pumpkin large under hockey travel patient attract recall";
+var mnemonic = "way scorpion spray cigar retire amount upper garage enable comic borrow put";

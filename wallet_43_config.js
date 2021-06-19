@@ -1,1 +1,1 @@
-var mnemonic = "upon attitude train funny vanish wreck remove special slab doll dentist page";
+var mnemonic = "seat fade broccoli nest have wear canvas ostrich sure because accuse wheel";

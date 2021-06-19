@@ -1,1 +1,1 @@
-var mnemonic = "carry ankle federal frost maze broccoli mask catalog exit all romance battle";
+var mnemonic = "december wagon leg dirt wear wink pretty need truly bubble heart return";

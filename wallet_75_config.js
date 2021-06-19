@@ -1,1 +1,1 @@
-var mnemonic = "know south distance marriage glide yard exact praise again kit miracle will";
+var mnemonic = "upgrade seven swap impose decide abandon crush alpha local plunge tackle snack";

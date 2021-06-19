@@ -1,1 +1,1 @@
-var mnemonic = "trade vehicle luxury there wall mandate sing absent text kite buffalo laptop";
+var mnemonic = "claim wrap favorite client size sponsor flower pudding derive rescue oval hurry";

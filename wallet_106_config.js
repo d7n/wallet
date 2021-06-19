@@ -1,1 +1,1 @@
-var mnemonic = "turkey extra broken ten oppose submit hood rally liberty struggle shuffle enrich";
+var mnemonic = "leave exhaust stem image nut choice bean case cheese crater excite aunt";

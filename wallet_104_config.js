@@ -1,1 +1,1 @@
-var mnemonic = "segment alley easy scissors rocket code emerge people federal basket fish knee";
+var mnemonic = "search hour vessel refuse vacant dragon enable old scheme defy advance alter";

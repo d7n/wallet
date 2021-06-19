@@ -1,1 +1,1 @@
-var mnemonic = "wagon bachelor soup spring index rude cushion loud pink inch raise lunar";
+var mnemonic = "home rent unique win universe budget parent weekend drift tip raise window";

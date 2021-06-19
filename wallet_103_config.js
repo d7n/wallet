@@ -1,1 +1,1 @@
-var mnemonic = "whisper unable unique rate protect swap input stem cheese strike hold abandon";
+var mnemonic = "rent scout destroy found off lazy gloom canoe whip shrimp plastic awesome";

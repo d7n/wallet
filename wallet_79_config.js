@@ -1,1 +1,1 @@
-var mnemonic = "today eight notable fancy mobile student flight stadium blade click answer excite";
+var mnemonic = "spin hungry release venue version risk thunder doctor knock setup bounce boat";

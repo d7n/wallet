@@ -1,1 +1,1 @@
-var mnemonic = "opinion inhale choose slight diesel fragile neck mercy hub flat memory evolve";
+var mnemonic = "glass help safe sell obscure salon fence figure another true open cruel";

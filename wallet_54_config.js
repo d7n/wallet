@@ -1,1 +1,1 @@
-var mnemonic = "rose brand fine truly ozone marine night found art culture gate robot";
+var mnemonic = "gossip syrup soap evidence boil advance envelope exit skin horror special young";

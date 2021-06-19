@@ -1,1 +1,1 @@
-var mnemonic = "fuel object seminar cash vast kiwi copy system magic melt barrel fame";
+var mnemonic = "pencil liar violin hurt erupt light test youth metal must fatal pet";

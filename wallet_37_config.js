@@ -1,1 +1,1 @@
-var mnemonic = "fox peasant hover view spawn palm mango girl stick twice indoor poet";
+var mnemonic = "initial exotic car blur initial inherit ball stem reopen cereal census broccoli";

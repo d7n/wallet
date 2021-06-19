@@ -1,1 +1,1 @@
-var mnemonic = "valve domain hen lock hour rescue under wealth nasty purity cheese lottery";
+var mnemonic = "file cross resist gesture spike method monitor gift maid toss predict spoon";

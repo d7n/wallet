@@ -1,1 +1,1 @@
-var mnemonic = "parent crime oxygen drama junk leopard double auto hill wrong purse ticket";
+var mnemonic = "teach talent enable engage finger riot fiction rookie seminar drastic provide envelope";

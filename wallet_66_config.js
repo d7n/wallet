@@ -1,1 +1,1 @@
-var mnemonic = "dream lake poem accident garage mule left canyon sword stadium furnace elite";
+var mnemonic = "manual right negative gown harsh search decade embrace parade agree task direct";

@@ -1,1 +1,1 @@
-var mnemonic = "choice hazard predict gown art wheat sail lesson flee tiger rough coffee";
+var mnemonic = "genuine banner steel river youth autumn replace buffalo near short person twist";

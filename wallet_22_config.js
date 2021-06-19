@@ -1,1 +1,1 @@
-var mnemonic = "misery wage educate egg humble alley rival six fall large tip toe";
+var mnemonic = "mandate glue people mail assist glue phrase hint dash dish pilot quarter";

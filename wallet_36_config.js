@@ -1,1 +1,1 @@
-var mnemonic = "next insane solve spring spread reject pony top budget engine crowd giraffe";
+var mnemonic = "genre wool clip explain guess night husband bar dust bag nest aunt";

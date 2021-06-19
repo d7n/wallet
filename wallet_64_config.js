@@ -1,1 +1,1 @@
-var mnemonic = "wheel risk exchange enrich shiver arch symbol idea treat surround vapor bounce";
+var mnemonic = "best prepare always trap clean unknown carry afraid train favorite will saddle";

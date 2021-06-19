@@ -1,1 +1,1 @@
-var mnemonic = "promote delay until among turn protect whale disorder run seed capital purity";
+var mnemonic = "urge elite when sugar animal execute home park limb shift radar leave";

@@ -1,1 +1,1 @@
-var mnemonic = "error disease balance annual large stadium remember wing circle alone unfair output";
+var mnemonic = "science carpet teach unveil love yellow diary fantasy bar pottery utility cushion";

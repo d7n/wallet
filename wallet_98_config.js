@@ -1,1 +1,1 @@
-var mnemonic = "attract struggle matrix where horn lecture staff betray neglect unlock execute popular";
+var mnemonic = "moon box ill plunge hungry regular goat rose taste review biology wage";

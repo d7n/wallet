@@ -1,1 +1,1 @@
-var mnemonic = "security cargo program wrap shock exercise frequent enemy company ghost capable tank";
+var mnemonic = "parrot chest churn follow key promote impulse auto spend bubble furnace debris";

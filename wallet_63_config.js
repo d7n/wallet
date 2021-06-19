@@ -1,1 +1,1 @@
-var mnemonic = "swear drum menu unhappy when blood code fire armed round bronze idea";
+var mnemonic = "shield desk case fortune help system night annual occur above net favorite";

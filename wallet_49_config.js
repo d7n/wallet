@@ -1,1 +1,1 @@
-var mnemonic = "enrich bird hockey rebel shift tornado aim observe review round elevator symbol";
+var mnemonic = "artefact sun alcohol guide basic major item tissue reveal novel pond boil";

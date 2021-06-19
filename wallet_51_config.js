@@ -1,1 +1,1 @@
-var mnemonic = "science toe version deny relax leaf pond extend claw process split detail";
+var mnemonic = "until begin stone ski drastic attend neither ask before million guide debate";

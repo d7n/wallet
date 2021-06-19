@@ -1,1 +1,1 @@
-var mnemonic = "invest casual anchor raccoon hello circle cement trick episode shed amazing swarm";
+var mnemonic = "mandate verb ordinary flower learn abandon zero cruise lumber galaxy dumb photo";

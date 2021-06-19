@@ -1,1 +1,1 @@
-var mnemonic = "dirt scare survey season elder claim lift advice reduce trumpet easy daring";
+var mnemonic = "razor clerk confirm tiger ozone allow fold coach select wise laptop purity";

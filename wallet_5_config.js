@@ -1,1 +1,1 @@
-var mnemonic = "wine average sister situate fence release excite two march vote decide wagon";
+var mnemonic = "pond senior remember drum admit taxi side pair merit mean gossip possible";

@@ -1,1 +1,1 @@
-var mnemonic = "humor quick they famous awesome parade blanket orphan fabric slot magnet coyote";
+var mnemonic = "number stadium future oyster neutral stay muscle melody toss glad kiwi grow";

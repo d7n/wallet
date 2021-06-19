@@ -1,1 +1,1 @@
-var mnemonic = "oval area shock flee nuclear enrich mouse eternal team divide cram other";
+var mnemonic = "foil deposit piece clutch knock toast fortune viable rather control track fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "trim grass annual keep shift custom tennis daring master river soup hero";
+var mnemonic = "fringe laptop offer raise series tell hire surge dragon jacket dish bike";

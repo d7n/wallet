@@ -1,1 +1,1 @@
-var mnemonic = "worry upset leader sting december crush squeeze awesome catalog flip group adapt";
+var mnemonic = "spoil vapor shoe state distance occur right extend crouch begin style dial";

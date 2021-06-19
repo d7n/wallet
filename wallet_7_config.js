@@ -1,1 +1,1 @@
-var mnemonic = "fitness agree wall birth hover wrong snack badge theme gym task hire";
+var mnemonic = "fabric segment mixed light cost include course essay awake lamp thing actor";

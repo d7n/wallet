@@ -1,1 +1,1 @@
-var mnemonic = "idea attitude curve build autumn brand quiz voyage face rice cry decide";
+var mnemonic = "clown tilt frame source exist plate merge candy sting mail item pen";

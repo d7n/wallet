@@ -1,1 +1,1 @@
-var mnemonic = "replace auction green raven soup obey goddess increase depth gloom walk little";
+var mnemonic = "cool rapid museum life dragon rural flower ice upset denial sunny sketch";

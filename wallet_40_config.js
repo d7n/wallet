@@ -1,1 +1,1 @@
-var mnemonic = "easily stable soap prison traffic auction column enable stable skate cushion sentence";
+var mnemonic = "develop puppy memory order govern rack cable best shrug attend average wealth";

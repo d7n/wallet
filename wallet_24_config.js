@@ -1,1 +1,1 @@
-var mnemonic = "scene negative glimpse wrong sea cable charge marble panda frog space pact";
+var mnemonic = "depart meat dragon boat bright velvet inquiry number frozen crime control nose";

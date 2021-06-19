@@ -1,1 +1,1 @@
-var mnemonic = "jazz sure reflect peanut mean vocal warm flash reject shaft club damp";
+var mnemonic = "radar swing divert remind happy shop brush future fame tool wrap vocal";

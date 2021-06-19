@@ -1,1 +1,1 @@
-var mnemonic = "chase aim shadow combine peanut list poem choice ranch practice embody kiss";
+var mnemonic = "patient wild quit display bread stereo feel trend company face quick inhale";

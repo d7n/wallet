@@ -1,1 +1,1 @@
-var mnemonic = "slender mule rural food mixed floor diesel bid rich cable collect hat";
+var mnemonic = "million focus nasty lunar panda margin sauce cactus nuclear order clog pole";

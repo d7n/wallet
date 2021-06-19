@@ -1,1 +1,1 @@
-var mnemonic = "attitude saddle regular park enroll debris erosion bulk movie pluck body despair";
+var mnemonic = "young wagon increase position draft amused render butter over carpet spin modify";

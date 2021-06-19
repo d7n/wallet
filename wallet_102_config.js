@@ -1,1 +1,1 @@
-var mnemonic = "bulb pole foam pilot situate exchange control mixed hedgehog town olive shiver";
+var mnemonic = "pull hamster dynamic logic tip regret bird item ski juice desk cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "useless much lizard rely unique debris still dragon orchard culture buffalo fortune";
+var mnemonic = "behave behave symbol melt because game riot carry base post solid lend";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite village cattle beyond search parrot novel fee flock tooth gentle unusual";
+var mnemonic = "motion below rebuild journey strong spirit reopen fun paddle ordinary link chicken";

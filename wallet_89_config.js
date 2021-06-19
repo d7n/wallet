@@ -1,1 +1,1 @@
-var mnemonic = "assume ladder cause nerve select lion wise switch mercy tree script tide";
+var mnemonic = "number gentle blouse plug flavor broom unable disagree walnut arrow lyrics casual";

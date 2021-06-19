@@ -1,1 +1,1 @@
-var mnemonic = "decorate very chuckle immune input worth lunch know bargain candy that crumble";
+var mnemonic = "satoshi avoid ask seat citizen dilemma giant forward monster review race leader";

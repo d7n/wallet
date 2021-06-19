@@ -1,1 +1,1 @@
-var mnemonic = "parent spring fade glad rescue path bitter scale glow regret provide fish";
+var mnemonic = "eye muffin guide situate need region canvas famous such vague size hire";

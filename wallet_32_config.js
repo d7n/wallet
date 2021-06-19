@@ -1,1 +1,1 @@
-var mnemonic = "blind region mouse advance flower curious correct busy bunker flavor wish dentist";
+var mnemonic = "cancel sea ivory grief movie butter exclude badge general click either license";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh soul pill field grocery pass copy panic theme panther exhibit link";
+var mnemonic = "hint vacant embark hard denial thought stadium truly shaft deer tell glory";

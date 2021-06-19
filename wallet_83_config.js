@@ -1,1 +1,1 @@
-var mnemonic = "food reason weather young ice state rain orange broken cinnamon autumn stove";
+var mnemonic = "recycle crouch leisure avoid sunny add annual eyebrow wire because chicken fresh";

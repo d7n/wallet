@@ -1,1 +1,1 @@
-var mnemonic = "garbage protect vibrant bind view cricket silver harsh antique thrive forward custom";
+var mnemonic = "please sort vote wage topple inmate material life knee hotel path depart";

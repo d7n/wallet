@@ -1,1 +1,1 @@
-var mnemonic = "universe first portion dawn into educate coconut clever govern blanket exact carry";
+var mnemonic = "disagree kiss wing merry warrior tank surge pizza submit lock rubber client";

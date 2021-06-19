@@ -1,1 +1,1 @@
-var mnemonic = "until shock response about hidden man olympic bring differ because duck wasp";
+var mnemonic = "sustain fatal enforce describe reunion laundry board canal camp powder dirt blast";

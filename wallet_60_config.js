@@ -1,1 +1,1 @@
-var mnemonic = "all pig park ski ridge process topple muffin husband disease myth drink";
+var mnemonic = "wish afford play force ankle vapor chronic spend buddy friend hat loud";

@@ -1,1 +1,1 @@
-var mnemonic = "airport embrace scissors wrestle unfold achieve state aerobic other gap question brave";
+var mnemonic = "find game history net enrich car curtain enroll castle conduct cart entire";

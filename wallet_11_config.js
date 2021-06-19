@@ -1,1 +1,1 @@
-var mnemonic = "dust vacuum clip want blast cluster oppose derive disagree useless few repair";
+var mnemonic = "prize curious mobile night nerve occur layer term burger crash lonely cost";

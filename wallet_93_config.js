@@ -1,1 +1,1 @@
-var mnemonic = "lawn dirt liberty little senior define half cargo junior fold trust obvious";
+var mnemonic = "bicycle evil giggle enemy primary icon crime exit fabric gasp merry submit";

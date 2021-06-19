@@ -1,1 +1,1 @@
-var mnemonic = "crucial service cupboard double approve olive science firm rail click make analyst";
+var mnemonic = "life scissors april water cousin balance wagon shrimp engine forget monitor image";

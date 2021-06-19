@@ -1,1 +1,1 @@
-var mnemonic = "question label language update second lemon feed leopard extend wire diagram trick";
+var mnemonic = "special fat grit social raise fence double pony snap idle evolve forum";

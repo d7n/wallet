@@ -1,1 +1,1 @@
-var mnemonic = "whip level correct blast urge mansion refuse empty night cabin two indoor";
+var mnemonic = "tomorrow else retreat joy rotate organ basic present physical pottery maze track";

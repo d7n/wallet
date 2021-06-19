@@ -1,1 +1,1 @@
-var mnemonic = "elegant frost robust indoor typical grief over guitar access problem apple symbol";
+var mnemonic = "bean relax december deposit scale excess frog image sauce helmet meadow story";

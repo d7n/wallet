@@ -1,1 +1,1 @@
-var mnemonic = "opinion lab extra action just notice high define spawn dismiss fog struggle";
+var mnemonic = "park swallow visa first upset panel post novel behave climb roof yard";

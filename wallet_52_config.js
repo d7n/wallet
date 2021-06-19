@@ -1,1 +1,1 @@
-var mnemonic = "attack admit reform general door wear boss insane sustain magnet enrich viable";
+var mnemonic = "physical amount kitchen hair network wine life busy abstract awake search limit";

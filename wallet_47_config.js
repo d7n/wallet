@@ -1,1 +1,1 @@
-var mnemonic = "regret glance asthma ship tape vast ignore ticket end shop good text";
+var mnemonic = "you agree decrease error genuine bounce top firm soul lecture cement tide";

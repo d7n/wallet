@@ -1,1 +1,1 @@
-var mnemonic = "outdoor tilt tattoo cushion file basic announce admit card unable wet claim";
+var mnemonic = "naive south purchase trumpet suffer mask misery august vast glue square make";

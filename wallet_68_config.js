@@ -1,1 +1,1 @@
-var mnemonic = "devote pluck usage decade stay flower merit fury vibrant section tuition save";
+var mnemonic = "fault tank domain pave flat adjust alpha text sight general tornado rubber";

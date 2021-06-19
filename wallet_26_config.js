@@ -1,1 +1,1 @@
-var mnemonic = "runway seat program wall move comic elevator attend obscure planet eyebrow pill";
+var mnemonic = "text bag talk spin garage dragon cover voice board firm prevent melody";

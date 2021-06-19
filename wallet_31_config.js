@@ -1,1 +1,1 @@
-var mnemonic = "symptom code another fitness aunt indicate door profit letter dog rotate clerk";
+var mnemonic = "magic volcano boring fresh surround say brush ignore upgrade sand stay ice";

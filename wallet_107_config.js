@@ -1,1 +1,1 @@
-var mnemonic = "frame caught rule deny world danger sure couple gift level debris salute";
+var mnemonic = "plunge dizzy reject author blind velvet fluid purity moment garment laugh learn";

@@ -1,1 +1,1 @@
-var mnemonic = "stereo duck inspire diary creek chuckle inherit flat race shrug upgrade resource";
+var mnemonic = "spare snake charge merit erase claw still valley possible topic dune order";

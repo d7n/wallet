@@ -1,1 +1,1 @@
-var mnemonic = "mean crunch tower soul clap absorb fiction egg pudding snap ketchup reject";
+var mnemonic = "rhythm mixture sorry put mercy stuff mean grab approve upgrade allow faculty";
