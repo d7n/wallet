@@ -1,1 +1,1 @@
-var mnemonic = "coil travel dad fashion attitude weasel pear antenna custom flower future dial";
+var mnemonic = "width bird multiply ice quarter various jeans solve hotel glow erode sponsor";

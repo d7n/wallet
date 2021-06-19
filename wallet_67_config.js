@@ -1,1 +1,1 @@
-var mnemonic = "dismiss cool switch youth require virus ticket enroll strong dignity media wrist";
+var mnemonic = "transfer crucial brave lecture mule survey adjust praise tail school cube cruise";

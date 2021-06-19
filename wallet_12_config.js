@@ -1,1 +1,1 @@
-var mnemonic = "open style mango violin city situate push lunar know planet defy street";
+var mnemonic = "cargo chair wool assault later govern wreck delay since where shrimp leader";

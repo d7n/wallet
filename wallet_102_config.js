@@ -1,1 +1,1 @@
-var mnemonic = "pilot potato garage family energy wheat hybrid brand hotel engine faith dolphin";
+var mnemonic = "initial top rule fruit puppy vapor onion dawn option walnut door dragon";

@@ -1,1 +1,1 @@
-var mnemonic = "farm era unveil spy depend display leader body never walnut bag collect";
+var mnemonic = "eager word card excess swallow genius smoke foot resemble just over benefit";

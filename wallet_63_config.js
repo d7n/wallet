@@ -1,1 +1,1 @@
-var mnemonic = "glad give popular girl grape volcano trade pig knock lumber evidence time";
+var mnemonic = "green bleak subway kid sunset gallery pipe almost pumpkin hold receive runway";

@@ -1,1 +1,1 @@
-var mnemonic = "city palm anger saddle vapor normal marble kick science dynamic act vessel";
+var mnemonic = "apology minimum aim wish remove inform cash route glass wrist trash void";

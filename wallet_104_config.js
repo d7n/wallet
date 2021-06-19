@@ -1,1 +1,1 @@
-var mnemonic = "adult shaft tooth burger mystery angry hedgehog squirrel what earth pattern develop";
+var mnemonic = "name ribbon dish fit forum fiction word output hockey obvious sound air";

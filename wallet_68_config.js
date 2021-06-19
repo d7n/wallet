@@ -1,1 +1,1 @@
-var mnemonic = "frozen minute wash rigid hotel bracket enable frozen ship ramp loyal dish";
+var mnemonic = "joy mandate bean use hurdle run vacuum spray plunge camp control misery";

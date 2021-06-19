@@ -1,1 +1,1 @@
-var mnemonic = "online barrel law pizza crop save pride version knock cycle sing slab";
+var mnemonic = "rose train valve civil fix fault inmate drip inherit cup fee blade";

@@ -1,1 +1,1 @@
-var mnemonic = "people rib shift hover snake frown push twice blue peace enforce ice";
+var mnemonic = "hidden voyage slender vibrant toward reject inner quit frost episode major sustain";

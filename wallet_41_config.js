@@ -1,1 +1,1 @@
-var mnemonic = "security purchase general fan report tissue fork path humor witness total lift";
+var mnemonic = "digital agent later result ghost donkey comic demise weather promote divide hidden";

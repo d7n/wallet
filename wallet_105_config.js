@@ -1,1 +1,1 @@
-var mnemonic = "piece they cream six already brown purse ladder possible frequent fetch ignore";
+var mnemonic = "flash people lizard govern account galaxy suit nation urban symptom duck spike";

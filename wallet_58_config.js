@@ -1,1 +1,1 @@
-var mnemonic = "tonight tape scrub steak property burst develop film gym flat slim faith";
+var mnemonic = "because acquire dial gift trigger square estate tail left arrange enjoy celery";

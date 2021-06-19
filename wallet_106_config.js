@@ -1,1 +1,1 @@
-var mnemonic = "bulb sound multiply direct car alarm connect cattle tone urge blouse injury";
+var mnemonic = "liquid unlock giant annual half mushroom double praise sister daring finger creek";

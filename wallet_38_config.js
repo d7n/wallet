@@ -1,1 +1,1 @@
-var mnemonic = "monster horse document method ignore measure myth club quit fatal wolf any";
+var mnemonic = "canal banner addict basket abstract grit liar quiz tool clip expire dog";

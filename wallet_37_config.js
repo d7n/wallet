@@ -1,1 +1,1 @@
-var mnemonic = "maid plunge vivid print expose hair change say tunnel canvas together attitude";
+var mnemonic = "derive era nominee quote pause illegal pair title flag mad shoot food";

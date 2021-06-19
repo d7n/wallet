@@ -1,1 +1,1 @@
-var mnemonic = "manage cousin follow kite ring major federal smile balcony present pretty forget";
+var mnemonic = "squeeze fresh top able sign artwork what result announce dinner dad until";

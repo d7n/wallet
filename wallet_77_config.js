@@ -1,1 +1,1 @@
-var mnemonic = "inner setup cement height sword daughter unable inject palace glance palace doctor";
+var mnemonic = "average shrimp gown twin smooth state jeans roof boil easily cash exit";

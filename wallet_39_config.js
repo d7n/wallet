@@ -1,1 +1,1 @@
-var mnemonic = "pioneer multiply skill fruit attend view fame nominee opinion bracket lobster bunker";
+var mnemonic = "yard atom lizard inherit ginger dream mixture goddess funny symptom risk half";

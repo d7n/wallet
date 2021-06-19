@@ -1,1 +1,1 @@
-var mnemonic = "tragic ancient sail almost stage bracket lottery casino inherit family plug mixed";
+var mnemonic = "quit rain basic south weasel advance negative easy clutch car burden salt";

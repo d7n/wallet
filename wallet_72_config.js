@@ -1,1 +1,1 @@
-var mnemonic = "drip laptop used festival episode tenant cup able gift marriage ready exist";
+var mnemonic = "purse yellow debris trip cherry bracket favorite measure metal hard chief harvest";

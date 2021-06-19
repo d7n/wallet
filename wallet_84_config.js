@@ -1,1 +1,1 @@
-var mnemonic = "story pact lunch cheap suit ghost deer save salad dinosaur armed true";
+var mnemonic = "help iron flip antenna pride patrol clutch job always tomorrow armor fix";

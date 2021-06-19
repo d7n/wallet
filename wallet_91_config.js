@@ -1,1 +1,1 @@
-var mnemonic = "live sail fame original odor grace soccer spike hobby perfect hurry album";
+var mnemonic = "shoe thumb flight odor glue wrap canal loop space stick foot purse";

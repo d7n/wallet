@@ -1,1 +1,1 @@
-var mnemonic = "despair punch elevator belt oven spoon item universe plate client display slush";
+var mnemonic = "maze chair valve jacket hour hip essay jump tone hammer will medal";

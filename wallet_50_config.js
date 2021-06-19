@@ -1,1 +1,1 @@
-var mnemonic = "version scorpion dentist public that lounge reward key weapon food dwarf inhale";
+var mnemonic = "resist spoil magic apart announce sausage purity measure power iron universe rice";

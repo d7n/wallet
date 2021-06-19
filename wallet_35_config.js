@@ -1,1 +1,1 @@
-var mnemonic = "brick toast spice cluster trigger teach extend doctor mansion oil wear photo";
+var mnemonic = "bronze admit degree inmate speak toward like arm cereal derive document infant";

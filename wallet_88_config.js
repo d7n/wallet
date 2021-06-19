@@ -1,1 +1,1 @@
-var mnemonic = "shoe snap monkey result certain shoot wall wisdom behave airport acoustic check";
+var mnemonic = "satoshi express spend shallow scissors leisure mention marine column marriage task start";

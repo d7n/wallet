@@ -1,1 +1,1 @@
-var mnemonic = "cement uniform true girl episode electric miss mention endorse cool slide oxygen";
+var mnemonic = "invest picnic surface ugly skirt tunnel citizen lion ozone cool canoe joke";

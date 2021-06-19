@@ -1,1 +1,1 @@
-var mnemonic = "wealth tool wire cat swear smile pool space fringe monkey arch online";
+var mnemonic = "entry vague ring age canal crime virtual load example lion physical elegant";

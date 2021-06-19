@@ -1,1 +1,1 @@
-var mnemonic = "home lens effort lumber earth news cup crane shiver cash goddess slow";
+var mnemonic = "uphold magic picnic cake business staff affair extend nose truck punch possible";

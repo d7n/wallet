@@ -1,1 +1,1 @@
-var mnemonic = "parrot casual foot august office ridge drop wrestle bleak speak ocean glad";
+var mnemonic = "cliff wrong woman world square jaguar ribbon private bundle cave snack smart";

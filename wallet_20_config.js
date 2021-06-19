@@ -1,1 +1,1 @@
-var mnemonic = "run boost inflict initial robot stay life sure between armed render corn";
+var mnemonic = "march outdoor liberty opera lottery clay rack detail seat original soft evidence";

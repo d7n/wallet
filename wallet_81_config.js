@@ -1,1 +1,1 @@
-var mnemonic = "suit three chat retreat decade cradle divert zoo scatter cup target business";
+var mnemonic = "much tattoo purse tourist dirt quality soap bulk skate exclude harbor drama";

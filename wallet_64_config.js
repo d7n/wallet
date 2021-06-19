@@ -1,1 +1,1 @@
-var mnemonic = "roast toilet real example web social vague globe ethics uncover august tuna";
+var mnemonic = "cushion pistol sustain pencil drama young jealous service detect mask code drip";

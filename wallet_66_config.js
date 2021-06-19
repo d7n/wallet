@@ -1,1 +1,1 @@
-var mnemonic = "federal announce success tomato ankle decrease elegant utility joke script arena famous";
+var mnemonic = "train region pill sense gasp orchard festival feature giraffe disorder outside hat";

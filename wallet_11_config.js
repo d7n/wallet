@@ -1,1 +1,1 @@
-var mnemonic = "flee sleep acoustic noodle celery original elegant build amused luggage lounge void";
+var mnemonic = "disagree blanket morning subway stadium knife twelve school unit olympic supply reduce";

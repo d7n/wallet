@@ -1,1 +1,1 @@
-var mnemonic = "pizza oak twice actress cliff extend cluster thought kangaroo remain miracle muscle";
+var mnemonic = "fun genre trip wash trophy sick mango enforce poet deputy clinic viable";

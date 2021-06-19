@@ -1,1 +1,1 @@
-var mnemonic = "hood example where dynamic manage laundry crop okay cash early gallery vacant";
+var mnemonic = "face swamp combine feature order critic bonus need person enough wedding depart";

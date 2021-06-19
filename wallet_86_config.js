@@ -1,1 +1,1 @@
-var mnemonic = "seed decade thing reduce calm open only thumb romance valid spoil valley";
+var mnemonic = "prevent report roast race live canal involve donate manage foster upon name";

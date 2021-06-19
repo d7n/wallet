@@ -1,1 +1,1 @@
-var mnemonic = "share sick urge another arrive need eternal follow addict barely physical put";
+var mnemonic = "cage runway cash rhythm relief unfair trial fatigue seven scrub human glass";

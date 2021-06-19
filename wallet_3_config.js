@@ -1,1 +1,1 @@
-var mnemonic = "enrich patient execute upon super agent close brain doll diet ceiling divorce";
+var mnemonic = "asset salmon struggle shallow wish upgrade icon rubber repair wheel behave frame";

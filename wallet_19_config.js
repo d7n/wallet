@@ -1,1 +1,1 @@
-var mnemonic = "cook chronic evoke crouch position media wall west assist frog fragile object";
+var mnemonic = "guess subject scan share upset calm over news roof chicken vital supply";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans south talk able various inject festival race jump strong shield pool";
+var mnemonic = "thunder program arm recipe document ginger inform fly picnic truth shrug cancel";

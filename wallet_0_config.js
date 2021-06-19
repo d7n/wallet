@@ -1,1 +1,1 @@
-var mnemonic = "observe language view accident bleak mandate shoulder speed phone invite plunge service";
+var mnemonic = "develop twelve divide harbor aware blouse busy embody neck snap behave aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "basket require donkey nurse shield empty multiply during bright awful list tomato";
+var mnemonic = "pepper object buyer easily avocado legal dolphin advance excess cat human fun";

@@ -1,1 +1,1 @@
-var mnemonic = "mass coral joke health foot frame control dial orient front fuel beach";
+var mnemonic = "amount onion panic fall quick please portion vast lens task force flip";

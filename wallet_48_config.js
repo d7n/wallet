@@ -1,1 +1,1 @@
-var mnemonic = "train win panther feed fox embody fiber battle garage board cluster forum";
+var mnemonic = "unusual skull transfer negative effort female style before quality task echo alert";

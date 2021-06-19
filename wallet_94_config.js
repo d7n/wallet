@@ -1,1 +1,1 @@
-var mnemonic = "random chunk frost west mimic window skull turn fluid pull alien turtle";
+var mnemonic = "critic wall adult target stadium assault clutch kangaroo clap sick coil prosper";

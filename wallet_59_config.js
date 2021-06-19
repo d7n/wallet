@@ -1,1 +1,1 @@
-var mnemonic = "discover sample elevator nature index fetch topic marine other try calm plunge";
+var mnemonic = "mind wink hat property celery major april setup impose teach dad ancient";

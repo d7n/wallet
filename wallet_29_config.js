@@ -1,1 +1,1 @@
-var mnemonic = "bird animal example unique capital shove ridge wine tuition insect aspect shell";
+var mnemonic = "produce solution cycle add world already strike search protect friend then normal";

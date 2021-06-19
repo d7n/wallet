@@ -1,1 +1,1 @@
-var mnemonic = "desert hidden wild void seat grocery away foam always alter observe mango";
+var mnemonic = "book wool increase olive half example assist sting detect first observe tray";

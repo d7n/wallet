@@ -1,1 +1,1 @@
-var mnemonic = "tell music hedgehog yellow hurt floor luggage auto rough drop enroll people";
+var mnemonic = "this degree badge expand dove mimic trouble harbor impulse session arctic salad";

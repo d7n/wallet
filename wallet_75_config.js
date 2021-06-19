@@ -1,1 +1,1 @@
-var mnemonic = "mom shuffle decrease ship room song busy another amused six stable subject";
+var mnemonic = "shiver promote collect catalog squirrel duty gesture rude forget mother diagram awake";

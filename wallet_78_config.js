@@ -1,1 +1,1 @@
-var mnemonic = "tuition patrol toss sleep squirrel exit crunch ranch stock awesome torch museum";
+var mnemonic = "barely situate squeeze valley engine jazz short bonus vault army rug prosper";

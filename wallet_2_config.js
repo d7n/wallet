@@ -1,1 +1,1 @@
-var mnemonic = "volcano drill certain renew service build harvest finish valley oyster outer town";
+var mnemonic = "canoe vehicle survey buyer fossil luxury false sauce portion economy favorite build";

@@ -1,1 +1,1 @@
-var mnemonic = "behave catch enable eyebrow boil dumb gospel hood false lunar emerge inch";
+var mnemonic = "saddle happy age educate economy remember normal client hold cake casino tooth";

@@ -1,1 +1,1 @@
-var mnemonic = "clay whisper paper snack engine only talk magic scale music wild ginger";
+var mnemonic = "umbrella erase welcome stick antenna radio truth produce pigeon cactus parrot proof";

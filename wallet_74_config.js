@@ -1,1 +1,1 @@
-var mnemonic = "fever transfer pride brown solar talent pause hood much behind perfect ignore";
+var mnemonic = "energy pyramid settle sauce large pepper love fiber tooth wing almost sense";

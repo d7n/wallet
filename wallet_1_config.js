@@ -1,1 +1,1 @@
-var mnemonic = "butter phone pull auction usage people knife canoe frost include demand bread";
+var mnemonic = "snow tag decide phrase end home become chuckle mad leopard soup noise";

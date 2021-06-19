@@ -1,1 +1,1 @@
-var mnemonic = "busy silver subject earn wild mixture leaf arrive bean tree diesel beyond";
+var mnemonic = "alpha spend fancy siege donate girl sick salad music essence drip muffin";

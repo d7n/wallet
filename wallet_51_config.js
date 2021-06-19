@@ -1,1 +1,1 @@
-var mnemonic = "junior churn finger have pelican match habit fiction sheriff beach hair gentle";
+var mnemonic = "cannon modify funny aware enroll image wheat just cost still symbol nerve";

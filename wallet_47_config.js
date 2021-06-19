@@ -1,1 +1,1 @@
-var mnemonic = "volcano silk imitate indicate derive monitor sentence lizard merry tray bar rate";
+var mnemonic = "frequent spoil what burger chat air zero census snap pottery image sniff";

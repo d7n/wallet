@@ -1,1 +1,1 @@
-var mnemonic = "knife pill ginger popular wolf use wing hour combine smart total reward";
+var mnemonic = "voice wink grief make boring notable pipe act hungry tomato narrow end";

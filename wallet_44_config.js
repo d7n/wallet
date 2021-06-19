@@ -1,1 +1,1 @@
-var mnemonic = "own race acoustic solve transfer short mix electric evoke menu forum quantum";
+var mnemonic = "short moment bunker bundle cube key alter bullet road rent guide print";

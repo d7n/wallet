@@ -1,1 +1,1 @@
-var mnemonic = "around mosquito vintage marble edge simple outside shell jealous magnet dish stand";
+var mnemonic = "column force cement blur pill modify run novel client toast throw echo";

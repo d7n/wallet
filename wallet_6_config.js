@@ -1,1 +1,1 @@
-var mnemonic = "target slide system extend stairs affair arm bottom mansion afraid ridge cable";
+var mnemonic = "slim group process immune bunker certain pave clean federal rule priority rotate";

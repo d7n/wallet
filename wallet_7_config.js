@@ -1,1 +1,1 @@
-var mnemonic = "artefact piano toss panic knock tattoo oxygen learn logic nest giggle fatigue";
+var mnemonic = "elite arch drastic attitude retire panther leopard syrup buddy modify tonight wire";

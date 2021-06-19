@@ -1,1 +1,1 @@
-var mnemonic = "stairs scrub master brave fun uncle oil foam news above vacant wrist";
+var mnemonic = "response deposit machine topic demise produce breeze because vibrant add law immune";

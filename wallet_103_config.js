@@ -1,1 +1,1 @@
-var mnemonic = "pottery lake mention step deposit melody seven erupt history kangaroo category wisdom";
+var mnemonic = "destroy giggle match come robot victory east pill venture enlist oil meat";

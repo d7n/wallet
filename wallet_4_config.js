@@ -1,1 +1,1 @@
-var mnemonic = "hazard update record arena woman infant tool sweet pen vicious liquid doctor";
+var mnemonic = "claim together diesel tiger surprise aisle ill repeat fever iron solid stable";

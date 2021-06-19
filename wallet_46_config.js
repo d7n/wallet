@@ -1,1 +1,1 @@
-var mnemonic = "feel blade source pear vapor arrange still garment bless antique wonder moon";
+var mnemonic = "about audit bread skirt ocean father fiscal cube update jealous link casual";

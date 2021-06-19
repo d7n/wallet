@@ -1,1 +1,1 @@
-var mnemonic = "problem ice minimum rose poem harbor credit suit melt try fiscal fancy";
+var mnemonic = "puppy thumb afraid liquid doctor borrow satisfy amused paddle pitch garden angle";

@@ -1,1 +1,1 @@
-var mnemonic = "genius glare beyond nasty hire guard worry predict blush swim bus moon";
+var mnemonic = "grace unfair pulp muscle senior please verify butter frost own wrist gasp";

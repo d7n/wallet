@@ -1,1 +1,1 @@
-var mnemonic = "bridge witness family novel breeze brush crime floor emerge idle blur scan";
+var mnemonic = "dinner muffin mesh code service smile jealous subway fantasy fault swing stay";

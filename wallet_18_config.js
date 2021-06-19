@@ -1,1 +1,1 @@
-var mnemonic = "pass together tennis voice arm hedgehog senior manage clutch dance imitate host";
+var mnemonic = "merge certain protect omit sweet cereal escape another muscle design profit elegant";

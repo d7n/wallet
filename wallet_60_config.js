@@ -1,1 +1,1 @@
-var mnemonic = "pact relief curious satoshi ladder sauce friend culture wing mind check creek";
+var mnemonic = "treat elder true leopard canyon apology scatter vibrant clutch charge oven wood";

@@ -1,1 +1,1 @@
-var mnemonic = "else camp spatial symptom quick innocent letter refuse alarm emotion stamp inhale";
+var mnemonic = "cliff marble burden poverty trade cloth expire result harvest snake cycle loop";

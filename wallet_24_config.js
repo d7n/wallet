@@ -1,1 +1,1 @@
-var mnemonic = "uncle rally lady section badge remind only length hundred barely camera major";
+var mnemonic = "quality aim six tired nominee clay exchange wood venture material scan cash";

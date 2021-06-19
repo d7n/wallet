@@ -1,1 +1,1 @@
-var mnemonic = "naive scrap leg winner practice brain angry stone prosper main wife educate";
+var mnemonic = "good end display style city upper attitude museum teach legal primary like";

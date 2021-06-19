@@ -1,1 +1,1 @@
-var mnemonic = "express idea evoke discover license organ position fatal dwarf region recycle fly";
+var mnemonic = "guide beyond ahead useless armed behave fence shine where fashion begin woman";

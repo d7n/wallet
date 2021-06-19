@@ -1,1 +1,1 @@
-var mnemonic = "fold metal canvas kit alcohol team huge bar junk narrow fitness taste";
+var mnemonic = "company embody apology ivory neglect need tooth alter delay ring donor edit";

@@ -1,1 +1,1 @@
-var mnemonic = "wise agent chimney hamster lyrics depart sausage spring upgrade fit income evidence";
+var mnemonic = "turkey cherry arctic clinic spider stove staff sheriff picnic tenant anger awkward";

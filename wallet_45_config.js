@@ -1,1 +1,1 @@
-var mnemonic = "clinic number champion antique install oblige spin oyster tragic orbit major door";
+var mnemonic = "ring cute quick predict cake ripple sauce crush demand moment sibling crumble";

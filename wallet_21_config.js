@@ -1,1 +1,1 @@
-var mnemonic = "stomach vague uphold coffee swarm this holiday sleep rent soda yellow stock";
+var mnemonic = "devote device play vault bundle tornado hill sword second join syrup nerve";

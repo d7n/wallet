@@ -1,1 +1,1 @@
-var mnemonic = "monitor airport core pepper initial lens direct actual aerobic chronic breeze meadow";
+var mnemonic = "correct gain issue flower spring rubber apart immense banana theme hurdle fade";

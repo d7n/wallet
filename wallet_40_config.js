@@ -1,1 +1,1 @@
-var mnemonic = "devote alien fiscal honey hunt globe nominee brown dish good tonight garden";
+var mnemonic = "town hamster lesson resource same correct excuse rude diamond game crazy feed";

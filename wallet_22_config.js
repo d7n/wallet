@@ -1,1 +1,1 @@
-var mnemonic = "cherry address inhale hire enforce cargo chapter bright plug detail cabin collect";
+var mnemonic = "coral pull casual muffin earn idea owner exit zoo enter alone volume";

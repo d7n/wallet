@@ -1,1 +1,1 @@
-var mnemonic = "trim accident door swap rib elephant sunset toss shiver zero very tray";
+var mnemonic = "verify squirrel nasty bag wing future juice clutch decorate fine loop route";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist stock dress exotic february fan then able trust east miracle radio";
+var mnemonic = "junk stadium lumber crop luggage exist fashion monkey one review license upset";
