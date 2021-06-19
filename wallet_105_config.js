@@ -1,1 +1,1 @@
-var mnemonic = "amateur diary worth pyramid toddler tree general wash maximum problem lumber slow";
+var mnemonic = "say buyer decorate ensure cruel enlist essay kingdom afford slogan opinion bone";

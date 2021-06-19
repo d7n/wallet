@@ -1,1 +1,1 @@
-var mnemonic = "nice invite saddle run rebuild isolate exact fortune actress shoulder man venue";
+var mnemonic = "bean rocket great panther fatigue wire response gain girl eager high tape";

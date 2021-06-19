@@ -1,1 +1,1 @@
-var mnemonic = "correct cake planet dignity chaos violin day flight giraffe soft analyst bacon";
+var mnemonic = "poet slow famous canal main seminar mom flip season exchange manage celery";

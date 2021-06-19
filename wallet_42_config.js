@@ -1,1 +1,1 @@
-var mnemonic = "series famous hour fly sight protect cry face horse print tired laptop";
+var mnemonic = "offer expose neck mercy jewel deer consider boil climb pattern hello arena";

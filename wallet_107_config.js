@@ -1,1 +1,1 @@
-var mnemonic = "shop stage must betray cute oil antenna burden uniform fade assault honey";
+var mnemonic = "purpose slim this strike border urge patrol soccer regret fame diet thought";

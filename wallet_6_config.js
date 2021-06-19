@@ -1,1 +1,1 @@
-var mnemonic = "current foam river welcome float water reform broccoli bread fall tackle love";
+var mnemonic = "inner smoke scare winter hard come resemble snow spend trend field express";

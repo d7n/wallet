@@ -1,1 +1,1 @@
-var mnemonic = "inside element gold stove announce shine beach sustain elder increase clog divide";
+var mnemonic = "target skill trial brief announce fury brother current hub hip fox mansion";

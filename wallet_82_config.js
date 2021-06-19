@@ -1,1 +1,1 @@
-var mnemonic = "apple above tree wild security sail sunset direct dynamic hole course fiber";
+var mnemonic = "insect kitchen foam steel arrest tackle subway crunch buddy oval polar portion";

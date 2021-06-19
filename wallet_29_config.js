@@ -1,1 +1,1 @@
-var mnemonic = "arena man claw penalty shoulder party sorry negative release frost air around";
+var mnemonic = "grant clay orbit tool cup nest boring enjoy notable same inner ketchup";

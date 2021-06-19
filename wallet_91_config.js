@@ -1,1 +1,1 @@
-var mnemonic = "agree anchor skirt slight easy cake nurse lawn snake reason letter quit";
+var mnemonic = "amused chat list palace moral bus helmet state way unaware alpha prevent";

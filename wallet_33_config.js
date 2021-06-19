@@ -1,1 +1,1 @@
-var mnemonic = "twelve daughter coast clip similar predict sweet click rigid hurdle silly noble";
+var mnemonic = "rude happy donor run put lab twelve glance kangaroo shed chunk dignity";

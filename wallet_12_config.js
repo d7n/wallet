@@ -1,1 +1,1 @@
-var mnemonic = "obscure member tent kingdom tourist wall crowd prosper order jacket happy first";
+var mnemonic = "teach topple response twin practice useful local trophy ill arena return ability";

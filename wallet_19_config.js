@@ -1,1 +1,1 @@
-var mnemonic = "juice noble pave capital slogan grit swap soldier age scissors order cupboard";
+var mnemonic = "another lizard pear offer during essay wife awful own renew ozone movie";

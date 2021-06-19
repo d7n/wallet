@@ -1,1 +1,1 @@
-var mnemonic = "broom interest grit math expose element crystal affair cupboard joke cruise fantasy";
+var mnemonic = "truck cricket sad window rail scout fade chicken purity hurdle uphold grass";

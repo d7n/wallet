@@ -1,1 +1,1 @@
-var mnemonic = "ring myth media wet recycle perfect inmate output discover random virus portion";
+var mnemonic = "harsh smart crazy energy when actress vacuum fly rigid myth jeans south";

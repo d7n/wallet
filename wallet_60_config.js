@@ -1,1 +1,1 @@
-var mnemonic = "flavor fresh step mystery slice silk tank essence advance plate long august";
+var mnemonic = "bronze tissue abstract game miss pen bracket give message hobby reflect stable";

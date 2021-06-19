@@ -1,1 +1,1 @@
-var mnemonic = "mixture pull fame slide foster duck east spend adjust young dove feel";
+var mnemonic = "model thing dune tornado fit catch total address version pioneer above crash";

@@ -1,1 +1,1 @@
-var mnemonic = "hour puzzle name describe media drop case embrace ocean recipe father correct";
+var mnemonic = "grid segment artist talent harvest dignity nut enter tool vote zone word";

@@ -1,1 +1,1 @@
-var mnemonic = "solve bread main alert orient soft dose modify run upper width various";
+var mnemonic = "defense visual glare delay jealous hotel suffer drill shield bronze target market";

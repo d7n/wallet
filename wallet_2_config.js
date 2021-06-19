@@ -1,1 +1,1 @@
-var mnemonic = "equal zone acquire wheel twist frown uphold approve perfect elegant resist soup";
+var mnemonic = "sister define weekend space cloth describe stone hamster there polar sign only";

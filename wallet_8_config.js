@@ -1,1 +1,1 @@
-var mnemonic = "daughter elite brain warrior bundle lizard they sweet tip kidney disease defy";
+var mnemonic = "escape cabbage crisp today subject mix subject barely purchase truck mule until";

@@ -1,1 +1,1 @@
-var mnemonic = "shock parrot chapter place inside sudden barely attend select penalty topple mango";
+var mnemonic = "gold label grid toy twelve divert click wolf maid jelly snake gift";

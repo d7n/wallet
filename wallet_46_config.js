@@ -1,1 +1,1 @@
-var mnemonic = "pencil cart physical stomach tower kiss clip hundred patient second service mutual";
+var mnemonic = "remove smoke forum silent wire fruit pattern skin banner zone color calm";

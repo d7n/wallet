@@ -1,1 +1,1 @@
-var mnemonic = "rice matrix weekend wonder citizen shed donor dignity local artist viable affair";
+var mnemonic = "february source way come tone dinosaur release accuse slush slush valley cliff";

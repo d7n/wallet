@@ -1,1 +1,1 @@
-var mnemonic = "anchor feature twice stumble sheriff wall face deputy coconut hire omit crew";
+var mnemonic = "exact crowd scare tell grace jump open scout gospel glide gaze convince";

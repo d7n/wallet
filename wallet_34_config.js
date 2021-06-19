@@ -1,1 +1,1 @@
-var mnemonic = "salon rich social describe dutch fame marble snow busy eager arrest cabin";
+var mnemonic = "good ocean junior black crucial advice slim tongue stamp obscure layer suit";

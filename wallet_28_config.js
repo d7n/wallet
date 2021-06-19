@@ -1,1 +1,1 @@
-var mnemonic = "later chapter february merit involve mercy gift chimney average chronic copy adjust";
+var mnemonic = "little mind pizza pencil track gospel pledge leaf speed plate expose size";

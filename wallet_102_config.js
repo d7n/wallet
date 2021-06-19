@@ -1,1 +1,1 @@
-var mnemonic = "chapter exercise flavor physical curtain toy patch donor kit initial curious mechanic";
+var mnemonic = "problem document infant loud future rescue oven alpha unique process write smooth";

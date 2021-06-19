@@ -1,1 +1,1 @@
-var mnemonic = "duck salon layer pilot assault target reveal impulse false diagram work critic";
+var mnemonic = "canvas jeans rate spice fix gold glue damage fire bless master online";

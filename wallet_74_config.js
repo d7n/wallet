@@ -1,1 +1,1 @@
-var mnemonic = "degree goat silent agent avocado attitude pipe pulp hundred level exist rifle";
+var mnemonic = "jazz stadium rare extend hope kind arctic sun matter upset thank vacuum";

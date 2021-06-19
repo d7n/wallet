@@ -1,1 +1,1 @@
-var mnemonic = "alcohol wing town frozen supreme wisdom debris waste ordinary vendor tube kiwi";
+var mnemonic = "federal tobacco job banana recall punch unit away matter still brick deposit";

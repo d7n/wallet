@@ -1,1 +1,1 @@
-var mnemonic = "immense control ridge gift device prepare feed pistol steak drill session license";
+var mnemonic = "dance spawn gym tooth defense light inch mean cupboard emerge hard balance";

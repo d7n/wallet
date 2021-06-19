@@ -1,1 +1,1 @@
-var mnemonic = "fat music this lion old enforce guitar obvious strike pattern crop kiwi";
+var mnemonic = "dinner dad mirror iron wash victory year you cushion pilot company title";

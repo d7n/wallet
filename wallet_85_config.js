@@ -1,1 +1,1 @@
-var mnemonic = "seed ketchup neglect climb negative panther govern genuine gather adapt aisle alien";
+var mnemonic = "kiwi undo limb knock trip staff dolphin screen permit ripple zebra draft";

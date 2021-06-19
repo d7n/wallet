@@ -1,1 +1,1 @@
-var mnemonic = "visit large diamond valid skull float lend diamond suit awesome first spend";
+var mnemonic = "draw legal point unable vague steak satisfy creek nest mule hawk wreck";

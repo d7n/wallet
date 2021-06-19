@@ -1,1 +1,1 @@
-var mnemonic = "road dizzy fold people cabbage hint above visual chair canvas decline process";
+var mnemonic = "suggest sad stable knee arena earn clever frown sock seed aim anchor";

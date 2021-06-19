@@ -1,1 +1,1 @@
-var mnemonic = "right science then because hip demand lemon mobile heavy reflect umbrella saddle";
+var mnemonic = "action join finish upset august syrup draft deal admit journey staff deny";

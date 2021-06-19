@@ -1,1 +1,1 @@
-var mnemonic = "actual sister shrug furnace inherit fury census hurt expect draft scorpion sugar";
+var mnemonic = "cement crater analyst hospital recall repeat enlist nest material lens jar hurdle";

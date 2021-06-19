@@ -1,1 +1,1 @@
-var mnemonic = "bomb pigeon ethics team mutual ahead timber nothing future usual soda love";
+var mnemonic = "album guard want happy south add lazy paddle opinion team audit engage";

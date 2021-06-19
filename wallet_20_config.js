@@ -1,1 +1,1 @@
-var mnemonic = "detect decrease priority upgrade million shrimp farm resist develop boss apart canyon";
+var mnemonic = "anger decrease swing appear devote concert mercy credit lift neglect spike phrase";

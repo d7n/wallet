@@ -1,1 +1,1 @@
-var mnemonic = "flight hen under review valve tomorrow lazy jaguar uncle inform wash parrot";
+var mnemonic = "gravity blind timber famous echo game stadium tower matrix dial swarm grace";

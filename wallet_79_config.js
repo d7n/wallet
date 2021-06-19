@@ -1,1 +1,1 @@
-var mnemonic = "van finger ensure tissue script inherit lady dismiss equal session security moment";
+var mnemonic = "panel strategy fee van focus stand correct coin stock annual enlist sound";

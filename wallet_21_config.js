@@ -1,1 +1,1 @@
-var mnemonic = "fox twelve bar path amount vivid pill cliff dizzy category cube tumble";
+var mnemonic = "maple movie smart device west tomato poem audit minute balcony volcano come";

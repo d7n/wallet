@@ -1,1 +1,1 @@
-var mnemonic = "elegant salon father zebra hawk dirt spawn bomb bottom loyal twenty castle";
+var mnemonic = "actor scorpion column drive morning patient eight spare good frame garden seminar";

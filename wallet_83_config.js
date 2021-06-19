@@ -1,1 +1,1 @@
-var mnemonic = "exclude seed eternal salmon betray entry merry ostrich attitude rotate chronic work";
+var mnemonic = "spoon gospel train where torch copy defense unveil grape chaos abstract ladder";

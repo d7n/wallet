@@ -1,1 +1,1 @@
-var mnemonic = "will true retreat upper smile culture thumb loan mule tide picnic hello";
+var mnemonic = "win pony chest horse human dial lobster brass train decorate drive despair";

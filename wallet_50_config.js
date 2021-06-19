@@ -1,1 +1,1 @@
-var mnemonic = "outside rescue vacant pond weather give symbol bulk cherry position report envelope";
+var mnemonic = "brave below jelly about long uncle vault hidden tent okay swear wife";

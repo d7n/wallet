@@ -1,1 +1,1 @@
-var mnemonic = "cancel oppose liar worth pet busy next bike expire script soon culture";
+var mnemonic = "noodle know industry matrix fashion kiwi waste alpha cigar nature dragon intact";

@@ -1,1 +1,1 @@
-var mnemonic = "voyage rabbit grit company solution fossil course stadium bread amused speak cargo";
+var mnemonic = "build end wrap boss caution rude manage saddle strong tiger scene angry";

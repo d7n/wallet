@@ -1,1 +1,1 @@
-var mnemonic = "wing glow vault lobster extend siege boost during knee carbon connect liar";
+var mnemonic = "above obvious physical street exercise benefit error east turkey body rescue alley";

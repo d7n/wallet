@@ -1,1 +1,1 @@
-var mnemonic = "you predict bike identify garment prize wing barrel tornado purse rebuild fly";
+var mnemonic = "another virtual middle industry jar evidence summer pledge friend lemon dose year";

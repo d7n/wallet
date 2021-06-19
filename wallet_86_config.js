@@ -1,1 +1,1 @@
-var mnemonic = "expose shoot shine flag space wait general walk gown paddle goose slow";
+var mnemonic = "minimum canal kiwi venue mouse rice river click indoor road pyramid exotic";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant scorpion inquiry report regular seven very coin soccer broken viable fall";
+var mnemonic = "sugar auction memory dolphin disorder zebra toilet firm fitness yellow observe music";

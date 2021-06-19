@@ -1,1 +1,1 @@
-var mnemonic = "spot cost girl winter twenty daring riot improve miss seminar whisper indicate";
+var mnemonic = "toe unfold now sibling drink consider mountain punch argue repeat better exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap lend price cruel rare ridge virus indoor frost tragic powder raven";
+var mnemonic = "minimum clown damage vehicle leader artefact cup cause child prefer clutch excite";

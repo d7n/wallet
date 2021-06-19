@@ -1,1 +1,1 @@
-var mnemonic = "gospel marriage penalty gauge monkey work season web nominee play leopard music";
+var mnemonic = "stage swarm weasel settle lyrics forum dinner street half sing jungle execute";

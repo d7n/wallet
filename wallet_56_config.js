@@ -1,1 +1,1 @@
-var mnemonic = "comfort amateur abuse danger cry assume depart lamp pizza trophy smart offer";
+var mnemonic = "jungle face disorder lumber crazy fantasy easily drink damage prize wedding response";

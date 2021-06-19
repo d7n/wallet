@@ -1,1 +1,1 @@
-var mnemonic = "put bonus cry faint soon motor lesson spot kiss advice cereal six";
+var mnemonic = "travel mask exhaust raccoon now donor paper replace letter diesel airport tell";

@@ -1,1 +1,1 @@
-var mnemonic = "anxiety strike current system delay blossom fetch orient because van answer mansion";
+var mnemonic = "pull dumb clay business sword fringe later special wheat exhibit engage patrol";

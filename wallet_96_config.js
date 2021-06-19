@@ -1,1 +1,1 @@
-var mnemonic = "banana gravity clock artist exhibit basket neck hedgehog client wire unit company";
+var mnemonic = "spend wink neck alarm real chapter neither empty rural doctor tourist three";

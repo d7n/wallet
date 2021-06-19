@@ -1,1 +1,1 @@
-var mnemonic = "pretty deal quick invest rebuild fiber amused evoke govern curve year riot";
+var mnemonic = "oyster mail immense connect direct service seek math dolphin giant shed margin";

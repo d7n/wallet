@@ -1,1 +1,1 @@
-var mnemonic = "artist soft ozone uphold middle wife patient embark champion favorite cram member";
+var mnemonic = "tank unique scan drive elevator system first cheese fall ticket embody uphold";

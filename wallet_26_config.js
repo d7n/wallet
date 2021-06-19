@@ -1,1 +1,1 @@
-var mnemonic = "strong silent trophy sunset sentence system danger private anger wisdom gossip rifle";
+var mnemonic = "gorilla owner abstract soft sea abstract more relief soup corn mirror west";

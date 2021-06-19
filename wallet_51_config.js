@@ -1,1 +1,1 @@
-var mnemonic = "wood fold reopen champion brisk bottom want faculty chat glide double vivid";
+var mnemonic = "physical lamp wolf base sign tail gloom explain speak lazy resist happy";

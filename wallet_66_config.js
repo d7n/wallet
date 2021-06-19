@@ -1,1 +1,1 @@
-var mnemonic = "awful chapter frozen imitate century please calm pretty renew weekend census laugh";
+var mnemonic = "walnut arm muscle melt mean blade stumble pact frequent slab evoke talk";

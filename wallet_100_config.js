@@ -1,1 +1,1 @@
-var mnemonic = "split divide curve field vote fade easily food canal final hill penalty";
+var mnemonic = "flat leaf pilot rifle silent family brick picnic end never enforce lesson";

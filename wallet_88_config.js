@@ -1,1 +1,1 @@
-var mnemonic = "panther develop outside level cushion sell asset return vote attend worry range";
+var mnemonic = "music coconut hour steak opinion can sentence tortoise giraffe step sea wink";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit elevator receive trap square glimpse debris slab cactus mixed swamp stuff";
+var mnemonic = "please surge measure welcome cruise bamboo tiny fiber service cigar sheriff deer";

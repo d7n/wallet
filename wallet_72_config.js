@@ -1,1 +1,1 @@
-var mnemonic = "soon zoo crouch cradle wasp armed tilt across giggle improve undo trend";
+var mnemonic = "song shock chief educate elegant season shy fire match bunker hover primary";

@@ -1,1 +1,1 @@
-var mnemonic = "belt verb mom chronic soda mix wire head fashion huge slush trouble";
+var mnemonic = "exhaust breeze crane erase deputy detect unlock meadow case tide broken word";

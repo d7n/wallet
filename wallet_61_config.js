@@ -1,1 +1,1 @@
-var mnemonic = "rebel tackle travel another multiply cancel post joke benefit blush hazard derive";
+var mnemonic = "silly three rocket trigger subway usual spoon equal pink degree invite area";

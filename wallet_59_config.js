@@ -1,1 +1,1 @@
-var mnemonic = "link settle network voyage diamond domain nerve pledge peace language material message";
+var mnemonic = "obscure benefit decrease fetch relax outside victory neglect donate addict under gown";

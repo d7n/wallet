@@ -1,1 +1,1 @@
-var mnemonic = "asset cigar mutual mercy winner document spare follow minute blanket random cheese";
+var mnemonic = "public coach vicious celery song very meat alarm region raven rug inherit";

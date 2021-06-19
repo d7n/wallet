@@ -1,1 +1,1 @@
-var mnemonic = "sell day own city puppy valid tray audit rich awful topple husband";
+var mnemonic = "relief smile answer borrow work goose dignity wedding juice marriage lazy love";

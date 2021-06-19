@@ -1,1 +1,1 @@
-var mnemonic = "blind pass crystal pilot staff warrior carpet require toilet despair smile picture";
+var mnemonic = "miracle that lecture afraid female cable useless category tribe daring grief lemon";

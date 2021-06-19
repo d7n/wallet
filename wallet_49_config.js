@@ -1,1 +1,1 @@
-var mnemonic = "loop will hand autumn cup view habit stay history census dose holiday";
+var mnemonic = "father verify only such job bounce achieve hold antenna job direct deputy";

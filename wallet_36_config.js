@@ -1,1 +1,1 @@
-var mnemonic = "pluck meat gossip bird attract start raven dragon busy print negative ankle";
+var mnemonic = "claw hurry danger disagree evidence diagram motor smooth visual salt chair notable";

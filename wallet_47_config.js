@@ -1,1 +1,1 @@
-var mnemonic = "shop sing pottery abstract favorite gym used cement erupt meat survey asthma";
+var mnemonic = "worry monster sniff jaguar metal penalty crane accident blanket survey regular attend";

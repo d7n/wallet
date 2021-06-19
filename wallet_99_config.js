@@ -1,1 +1,1 @@
-var mnemonic = "quiz vague observe clap word october two crop treat cricket stem salute";
+var mnemonic = "waste cargo flock citizen tumble mouse slender anchor rigid bullet stomach exclude";

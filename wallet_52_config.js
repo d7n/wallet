@@ -1,1 +1,1 @@
-var mnemonic = "claw vendor warm junior cancel inherit spice apple holiday angry mouse ladder";
+var mnemonic = "process kidney super bar collect size sustain skirt online brother prepare congress";

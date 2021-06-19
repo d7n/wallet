@@ -1,1 +1,1 @@
-var mnemonic = "poverty lock snow brief middle finish zebra project stem correct couch sweet";
+var mnemonic = "mango diary hotel misery swim consider stereo panther unaware baby tribe vast";

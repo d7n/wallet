@@ -1,1 +1,1 @@
-var mnemonic = "snow reform modify will antique parent bronze agree verb banner camp decade";
+var mnemonic = "donate genre dial book sense effort panel frog twin escape whip debate";

@@ -1,1 +1,1 @@
-var mnemonic = "voice essay syrup shy click smart aerobic onion solve culture quiz danger";
+var mnemonic = "alone fortune repeat wheat alpha sure casual among goat alien action laugh";

@@ -1,1 +1,1 @@
-var mnemonic = "faculty trouble bar zone glass anxiety learn about gallery bleak any picnic";
+var mnemonic = "cup surge magic category trim coffee dad grief torch humble deposit uniform";

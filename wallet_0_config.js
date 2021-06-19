@@ -1,1 +1,1 @@
-var mnemonic = "travel umbrella nuclear follow math myth until cram unfold excess chat treat";
+var mnemonic = "close problem hint oval whale choice raven away grief excess jungle siege";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet century retreat damp multiply inject reason another keen blade rival attend";
+var mnemonic = "false cable own arrest dish hazard change emotion seven useful subway educate";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy obscure water organ catalog exotic pitch spread worth auto saddle arctic";
+var mnemonic = "viable misery ribbon naive other skill lumber alert film dice spare flower";
