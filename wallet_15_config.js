@@ -1,1 +1,1 @@
-var mnemonic = "need amateur icon fuel catalog evolve column hobby version flavor shy express";
+var mnemonic = "best message winner hammer asthma already earth fetch foster father reveal nurse";

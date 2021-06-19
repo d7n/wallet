@@ -1,1 +1,1 @@
-var mnemonic = "scare emotion cement unusual stadium apart silly refuse town knee sibling size";
+var mnemonic = "first early path benefit lumber left spring tree sunny habit polar remind";

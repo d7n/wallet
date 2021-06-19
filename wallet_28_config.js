@@ -1,1 +1,1 @@
-var mnemonic = "pony broom penalty bonus illegal state economy bring true service trumpet jump";
+var mnemonic = "hungry engage circle grief regret hawk cram fiber man color power example";

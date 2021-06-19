@@ -1,1 +1,1 @@
-var mnemonic = "chalk churn increase what rally give mean elephant cage ketchup tragic consider";
+var mnemonic = "fabric daring mixed rare tower stairs pulp swallow limb boss suggest enroll";

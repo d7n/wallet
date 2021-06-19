@@ -1,1 +1,1 @@
-var mnemonic = "people gasp pear weekend cotton license logic pepper rotate lamp police reunion";
+var mnemonic = "decline proof already response baby corn debris tool rather vacuum pipe leisure";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus virtual comic column acquire cattle confirm woman present blush zebra favorite";
+var mnemonic = "pupil better glass arrow antenna velvet basket never palm gun illegal cause";

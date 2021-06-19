@@ -1,1 +1,1 @@
-var mnemonic = "desert bless hurdle concert object sound grief common wait another stage wise";
+var mnemonic = "tank rapid vast enjoy mention seek furnace sunny subway busy awake tape";

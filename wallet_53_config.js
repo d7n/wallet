@@ -1,1 +1,1 @@
-var mnemonic = "someone ten empty alone rib hill honey ranch pony tip clever because";
+var mnemonic = "horn rate hotel alley find reveal ribbon sport fold moon endless kangaroo";

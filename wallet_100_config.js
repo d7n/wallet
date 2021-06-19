@@ -1,1 +1,1 @@
-var mnemonic = "cabbage bottom lake anger day scrap piece half hire barrel inner goose";
+var mnemonic = "addict dog wall sphere describe general party frame crystal seek job bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "pass frown enforce minute reveal arrange creek strategy wolf sauce sad rice";
+var mnemonic = "fly copy when hill spare letter motion rebuild differ affair gospel harbor";

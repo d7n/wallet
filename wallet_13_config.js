@@ -1,1 +1,1 @@
-var mnemonic = "sting actor maximum tube upon surprise invite grocery wealth giant cycle sting";
+var mnemonic = "song build final broken ramp laptop shaft joy tortoise beef grape enforce";

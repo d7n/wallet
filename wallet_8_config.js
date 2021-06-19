@@ -1,1 +1,1 @@
-var mnemonic = "inquiry baby mind manual fault bracket live remind satoshi invite flush social";
+var mnemonic = "second method blame trigger outside grab promote traffic minute provide figure sound";

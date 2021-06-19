@@ -1,1 +1,1 @@
-var mnemonic = "olympic bag snake toast else census first usual exclude gospel labor expose";
+var mnemonic = "apart divert shoe lumber grant slush monster farm fine job nose doctor";

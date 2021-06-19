@@ -1,1 +1,1 @@
-var mnemonic = "guilt april pass cute recycle lobster shuffle mushroom canal scrap legal joy";
+var mnemonic = "soul square earth silly adapt school ghost tired hunt increase sponsor object";

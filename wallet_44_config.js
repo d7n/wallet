@@ -1,1 +1,1 @@
-var mnemonic = "high demand trap purity situate afford night stomach elegant steel turtle dish";
+var mnemonic = "swear guilt between recall protect antique tank vital sing inch runway nephew";

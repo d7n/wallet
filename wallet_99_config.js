@@ -1,1 +1,1 @@
-var mnemonic = "still empty measure flush leopard fluid bread dismiss size easy away silent";
+var mnemonic = "whip dress people empty toddler harbor apart captain plunge token sort wide";

@@ -1,1 +1,1 @@
-var mnemonic = "sign cliff sphere cat helmet fragile blame knee body tissue toast deny";
+var mnemonic = "miss remove damp absurd member fabric please auction outer security scout mixed";

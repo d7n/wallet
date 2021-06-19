@@ -1,1 +1,1 @@
-var mnemonic = "habit photo crane wild artefact party armed sibling kangaroo obtain jump fire";
+var mnemonic = "imitate mercy quality need infant fork employ lounge depart immense witness welcome";

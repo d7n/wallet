@@ -1,1 +1,1 @@
-var mnemonic = "lesson muscle abstract clever hospital dry album metal fossil orphan ring garlic";
+var mnemonic = "track celery reason equip bread tube brand caution soft pumpkin mistake heavy";

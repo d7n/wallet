@@ -1,1 +1,1 @@
-var mnemonic = "heavy essence elevator fancy horror picture lend gaze coil juice crane trick";
+var mnemonic = "have tennis unusual prefer endless enforce front dirt law evolve school solar";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet total gown castle record error ripple shrimp stage bargain keep gasp";
+var mnemonic = "fault okay festival flame bird mad hybrid dream curve address minute always";

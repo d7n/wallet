@@ -1,1 +1,1 @@
-var mnemonic = "measure balcony canal planet fun brisk point rabbit embark enemy chuckle version";
+var mnemonic = "lamp defense picnic put mirror science tortoise depart oil resource aunt phrase";

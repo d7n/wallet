@@ -1,1 +1,1 @@
-var mnemonic = "notice bounce juice sand man tail diagram hour jacket repeat medal blur";
+var mnemonic = "gaze neither inform during sniff adult hero state home potato always warfare";

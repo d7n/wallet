@@ -1,1 +1,1 @@
-var mnemonic = "current shrimp hollow crop increase royal favorite pencil fringe clap all cage";
+var mnemonic = "lab notice adjust alcohol island wolf prefer glory narrow draft hat puppy";

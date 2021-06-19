@@ -1,1 +1,1 @@
-var mnemonic = "key cupboard select climb hat daughter fitness illness pulse essay elevator settle";
+var mnemonic = "regret make person require thunder blind inch sunset rigid key frog vague";

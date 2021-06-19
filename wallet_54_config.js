@@ -1,1 +1,1 @@
-var mnemonic = "wet resist rule require arctic federal wing stage tissue pen side often";
+var mnemonic = "fence drift ankle planet below jelly order size initial bar reduce virus";

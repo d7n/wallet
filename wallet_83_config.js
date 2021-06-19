@@ -1,1 +1,1 @@
-var mnemonic = "medal decorate valley copy raccoon math curious surge account curve famous maid";
+var mnemonic = "hybrid cake make resemble exist husband this cover zone gown spell invest";

@@ -1,1 +1,1 @@
-var mnemonic = "easy perfect view mansion horn heart minor crater fog brass car cigar";
+var mnemonic = "mosquito faith student crunch circle lamp gloom pink term swing weekend unlock";

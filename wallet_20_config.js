@@ -1,1 +1,1 @@
-var mnemonic = "chief brain cannon clarify mention metal alien forest original panther muffin syrup";
+var mnemonic = "film viable stable canal text average dream adult outdoor canyon desert quarter";

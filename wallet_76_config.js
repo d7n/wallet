@@ -1,1 +1,1 @@
-var mnemonic = "fabric arrange code curious eternal give minimum merge heavy uphold acquire birth";
+var mnemonic = "genius valley total valley safe dwarf tomorrow broken finish indoor change apology";

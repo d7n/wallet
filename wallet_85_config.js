@@ -1,1 +1,1 @@
-var mnemonic = "save rack survey dignity add edit cry bitter rescue alien jewel dismiss";
+var mnemonic = "canyon cruel pass shove rescue until jungle foam release spice found predict";

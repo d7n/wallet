@@ -1,1 +1,1 @@
-var mnemonic = "bamboo staff hill tobacco refuse assault child disagree harvest assist drop flower";
+var mnemonic = "secret breeze grass vicious just soul cushion actress exchange carry window offer";

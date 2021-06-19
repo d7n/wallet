@@ -1,1 +1,1 @@
-var mnemonic = "surround innocent start between exist oxygen episode letter wagon fashion weapon clerk";
+var mnemonic = "protect warrior pride panda skirt steak cliff limit mention lion vivid pistol";

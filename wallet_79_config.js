@@ -1,1 +1,1 @@
-var mnemonic = "violin border actual forest toilet hair surround suffer typical battle please shell";
+var mnemonic = "cart cancel oil submit roof record define sustain stumble six injury float";

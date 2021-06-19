@@ -1,1 +1,1 @@
-var mnemonic = "urban push brain sad bundle figure tooth opera student wrestle around perfect";
+var mnemonic = "leaf explain napkin setup slab gadget aspect ginger vivid echo struggle nephew";

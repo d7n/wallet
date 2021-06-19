@@ -1,1 +1,1 @@
-var mnemonic = "cloth wheel picnic ripple twelve moment nominee behind sight account solid blast";
+var mnemonic = "blast hero clever neither sibling good margin cherry youth victory inspire animal";

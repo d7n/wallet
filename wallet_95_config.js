@@ -1,1 +1,1 @@
-var mnemonic = "eager borrow animal mammal warm warm fury convince swift section fold text";
+var mnemonic = "room filter dust common core swamp violin jar material shock layer eagle";

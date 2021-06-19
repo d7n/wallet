@@ -1,1 +1,1 @@
-var mnemonic = "ozone vacuum modify federal brother drastic consider orphan attract cry argue hold";
+var mnemonic = "square reveal swallow exchange stay service dose shrimp action behave together work";

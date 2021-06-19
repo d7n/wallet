@@ -1,1 +1,1 @@
-var mnemonic = "amount rain pen spike member dose today noodle frost inner bulk fork";
+var mnemonic = "outside source flock summer struggle lift blanket menu clock pumpkin random salt";

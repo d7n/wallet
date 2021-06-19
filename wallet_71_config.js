@@ -1,1 +1,1 @@
-var mnemonic = "write stumble denial attack consider sing turtle title custom airport garment upset";
+var mnemonic = "found market write insane abstract verb monkey lend tray scale plastic soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "rail shallow mask split punch minimum topic gadget trial robot kingdom copy";
+var mnemonic = "strong drastic march deny obscure lesson village tonight old concert burst rely";

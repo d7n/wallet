@@ -1,1 +1,1 @@
-var mnemonic = "decline domain barrel april cargo photo erosion tide diary scale glance improve";
+var mnemonic = "gallery water crop cash prefer day frost shrimp cabin cliff twice program";

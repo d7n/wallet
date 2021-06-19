@@ -1,1 +1,1 @@
-var mnemonic = "winner lizard arrive plastic oval heart galaxy bridge puzzle slogan throw jewel";
+var mnemonic = "predict decline pumpkin oak sun situate waste story sausage medal spatial palm";

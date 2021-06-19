@@ -1,1 +1,1 @@
-var mnemonic = "impose antenna fame uniform pretty minor travel oil habit submit hotel share";
+var mnemonic = "father siren rigid robot kiwi behind document purse sunny erode picture lawn";

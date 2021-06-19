@@ -1,1 +1,1 @@
-var mnemonic = "doll wonder notice same silent wrap thunder asset sight torch lend scheme";
+var mnemonic = "exercise space sauce joke oblige marine gather easily entire disorder among raise";

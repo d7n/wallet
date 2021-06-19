@@ -1,1 +1,1 @@
-var mnemonic = "caution dry gap day crew rhythm normal glide maple stadium drift excite";
+var mnemonic = "private trip gather front shine regret vital easily spot banner rule hello";

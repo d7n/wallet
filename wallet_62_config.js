@@ -1,1 +1,1 @@
-var mnemonic = "couch light simple paper supreme silent talk assault wood sustain rib radio";
+var mnemonic = "load fuel absurd between secret foster zone curtain mule little order purse";

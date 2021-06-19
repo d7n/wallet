@@ -1,1 +1,1 @@
-var mnemonic = "prepare clinic inherit similar buddy clutch pond chest goddess luggage submit hotel";
+var mnemonic = "company recipe tiger general glory pass dream glow egg fever village happy";

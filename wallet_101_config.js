@@ -1,1 +1,1 @@
-var mnemonic = "tower nice empty federal hole patient execute panel panther cute cannon stand";
+var mnemonic = "neutral six tag glare hero cement celery mandate celery engage glare cream";

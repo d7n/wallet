@@ -1,1 +1,1 @@
-var mnemonic = "clog ginger stage cattle gather already library vote local muscle sunny you";
+var mnemonic = "hotel explain require recall lazy impose swamp citizen dutch clinic manage purpose";

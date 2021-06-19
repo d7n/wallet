@@ -1,1 +1,1 @@
-var mnemonic = "inch camp stick boil valid annual snack gravity absorb six mad fun";
+var mnemonic = "corn pencil sock mask spring room toddler eyebrow human reopen bring mobile";

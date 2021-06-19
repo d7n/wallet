@@ -1,1 +1,1 @@
-var mnemonic = "silly school father canvas winter turn lizard small rhythm solar fire employ";
+var mnemonic = "alley stove float raise daring faint wide fan polar lumber pipe tragic";

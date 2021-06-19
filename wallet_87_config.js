@@ -1,1 +1,1 @@
-var mnemonic = "vacuum train october chapter couch boss visa street use black turtle inflict";
+var mnemonic = "sad field sweet later cargo okay room vicious goose often tenant matrix";

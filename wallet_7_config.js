@@ -1,1 +1,1 @@
-var mnemonic = "hat one enter horse park tip assume vocal increase castle short base";
+var mnemonic = "brass hotel best half unaware cup attack creek grain nuclear worth income";

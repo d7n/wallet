@@ -1,1 +1,1 @@
-var mnemonic = "frame cabin vivid fix merge decline plug exile tide spawn desert idea";
+var mnemonic = "invest try work umbrella price excuse want menu dawn tattoo shield roast";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity pluck people poem museum hotel puppy apple path trend raw chronic";
+var mnemonic = "stumble artefact average inject jelly clutch voyage govern fan remind legend maid";

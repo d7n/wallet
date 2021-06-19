@@ -1,1 +1,1 @@
-var mnemonic = "divide spread local crumble hotel wonder swap flavor episode arena notable execute";
+var mnemonic = "about window style night avocado insane brother hole belt tiny purpose night";

@@ -1,1 +1,1 @@
-var mnemonic = "unable forget check exhibit tortoise just series nature supreme bless insane phone";
+var mnemonic = "sting holiday balcony remind tumble drip park catch vehicle casual layer section";

@@ -1,1 +1,1 @@
-var mnemonic = "best crazy wonder thrive ketchup water zoo flip credit effort index pattern";
+var mnemonic = "live cricket online usage alien earn valley idea wave early gift vendor";

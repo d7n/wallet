@@ -1,1 +1,1 @@
-var mnemonic = "issue suspect spoil will manage helmet oxygen bounce citizen history boost pride";
+var mnemonic = "learn goose draft mad excess hollow riot code fall render hurry collect";

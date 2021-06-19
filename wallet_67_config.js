@@ -1,1 +1,1 @@
-var mnemonic = "door diesel august wood enact curtain orchard buzz off enlist learn morning";
+var mnemonic = "now chronic can beef remain roast submit slot trend agree stem clip";

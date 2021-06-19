@@ -1,1 +1,1 @@
-var mnemonic = "permit hotel vessel anger indoor myself become attend giggle caution butter move";
+var mnemonic = "wreck home forward fiber stock armed mixture glass melody language ladder oven";

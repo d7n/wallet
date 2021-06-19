@@ -1,1 +1,1 @@
-var mnemonic = "uncover rare culture proud close art gorilla move between evidence pulp panda";
+var mnemonic = "industry advance couch desk cook lock market bomb index avocado believe mango";

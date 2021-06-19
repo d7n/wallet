@@ -1,1 +1,1 @@
-var mnemonic = "later nest stove pride hunt mother vibrant welcome fiber resemble jump blossom";
+var mnemonic = "sort response ramp bird decorate special trim session axis achieve quarter soccer";

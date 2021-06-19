@@ -1,1 +1,1 @@
-var mnemonic = "burden miracle solution extra inner hand luxury term mistake lens idle miss";
+var mnemonic = "various hedgehog digital verb flag boost hockey boat broccoli faculty gym clinic";

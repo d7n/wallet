@@ -1,1 +1,1 @@
-var mnemonic = "nominee hope brick inform rude snow initial fly west table cart cry";
+var mnemonic = "hamster axis siege ocean ball someone work fork mask pact sure over";

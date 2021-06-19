@@ -1,1 +1,1 @@
-var mnemonic = "special salon emotion day movie agent blame train chimney frame paddle random";
+var mnemonic = "bless drama power flee hold math shove jeans embody truck buffalo shine";

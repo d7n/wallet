@@ -1,1 +1,1 @@
-var mnemonic = "rain total jelly gun vocal private drift snake steak extra miss trophy";
+var mnemonic = "disorder source certain soon anger novel joy sunset object jeans riot clog";

@@ -1,1 +1,1 @@
-var mnemonic = "mask adapt ceiling bottom then palace fatigue cable legend boss ride race";
+var mnemonic = "pride excess tennis odor pact behave strategy clinic depart hill because admit";

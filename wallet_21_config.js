@@ -1,1 +1,1 @@
-var mnemonic = "know citizen will limb gym opinion swap crack domain debris snow rail";
+var mnemonic = "trumpet twin insect brown weekend skate flock favorite truly soon elephant quit";

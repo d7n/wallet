@@ -1,1 +1,1 @@
-var mnemonic = "smooth panic maze turkey surprise weird alcohol skate immune photo excuse intact";
+var mnemonic = "decide job cause wait drop identify exhibit jeans rival adjust text near";

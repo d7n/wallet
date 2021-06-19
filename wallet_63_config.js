@@ -1,1 +1,1 @@
-var mnemonic = "staff critic green runway fatal tourist magic desk sting mom worry glance";
+var mnemonic = "design cycle whale gain monkey close raise swap access poverty lonely average";

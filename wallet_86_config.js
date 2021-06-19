@@ -1,1 +1,1 @@
-var mnemonic = "cash female peace envelope add traffic lend reform way sunset danger salon";
+var mnemonic = "odor rhythm vintage bean any recipe wedding athlete penalty ask extra snow";

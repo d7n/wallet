@@ -1,1 +1,1 @@
-var mnemonic = "ability film tumble yard spread prevent bar minute drive foot rail whale";
+var mnemonic = "visa tower mechanic since dice priority physical glare side dune flock badge";

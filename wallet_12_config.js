@@ -1,1 +1,1 @@
-var mnemonic = "point fetch announce smoke lyrics bone letter hub topic marble thunder rude";
+var mnemonic = "shield ring bracket rough city name churn hole glove perfect cat walk";

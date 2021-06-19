@@ -1,1 +1,1 @@
-var mnemonic = "father shield tomato blanket night time teach phrase danger dove curtain stone";
+var mnemonic = "trap arctic knock kite pudding please soldier average pluck tide whip match";

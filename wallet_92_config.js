@@ -1,1 +1,1 @@
-var mnemonic = "potato siren video sunny memory million rate coin under carry transfer same";
+var mnemonic = "amazing infant settle write wasp reunion alert visual brain vacuum bird prison";

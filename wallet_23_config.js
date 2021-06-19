@@ -1,1 +1,1 @@
-var mnemonic = "delay meat wild captain spend upgrade feature theme february repair mail elevator";
+var mnemonic = "adjust legend people waste problem expire term rice evoke tide seek sign";

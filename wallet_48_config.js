@@ -1,1 +1,1 @@
-var mnemonic = "army club pony person abstract alcohol fat fork abandon section earth zone";
+var mnemonic = "chat cotton round inspire oblige budget manage shy resemble recipe digital clap";

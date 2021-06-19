@@ -1,1 +1,1 @@
-var mnemonic = "about clean jelly example elder axis top artefact boost cloud decade sudden";
+var mnemonic = "tent engine seven become mix paper vast final brief pave crash relax";

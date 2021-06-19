@@ -1,1 +1,1 @@
-var mnemonic = "bottom arrive gas vital kind ship grass acoustic enlist myth live direct";
+var mnemonic = "worth globe fitness flat promote sort waste deal borrow exclude outside unveil";

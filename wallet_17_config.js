@@ -1,1 +1,1 @@
-var mnemonic = "frame vacant material fun hole until mutual ranch outdoor penalty universe list";
+var mnemonic = "fork remain plate sleep liberty urge theme soap drink sense mule velvet";

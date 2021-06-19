@@ -1,1 +1,1 @@
-var mnemonic = "snap region one accident heavy know air sibling black appear city stem";
+var mnemonic = "mobile merry place unfair forward island maid inject drink cable issue regret";

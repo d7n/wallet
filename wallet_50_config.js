@@ -1,1 +1,1 @@
-var mnemonic = "ripple sweet symbol rib element sweet grid design gospel find post amateur";
+var mnemonic = "layer sun proof hat risk accident danger approve cancel globe tourist shoot";

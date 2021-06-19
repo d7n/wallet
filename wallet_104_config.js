@@ -1,1 +1,1 @@
-var mnemonic = "core dignity carry swap grain truth awake orphan forum scan slide drum";
+var mnemonic = "learn reduce panic bargain black crawl alarm will sick priority lawsuit maid";

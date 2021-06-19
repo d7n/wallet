@@ -1,1 +1,1 @@
-var mnemonic = "fire length huge donate liquid wage wish grunt coin license own crunch";
+var mnemonic = "involve top worth galaxy country dawn blush cluster today wall awkward miss";

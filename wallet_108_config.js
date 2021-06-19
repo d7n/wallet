@@ -1,1 +1,1 @@
-var mnemonic = "arrive slush garment idle turn cluster remind wreck february space orange glance";
+var mnemonic = "vivid denial left cupboard hood celery illness notice mutual joke damage message";

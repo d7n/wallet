@@ -1,1 +1,1 @@
-var mnemonic = "salon wheel loop knife essence ginger deposit fluid merry kick anxiety narrow";
+var mnemonic = "swift sense magic pony vital floor eyebrow canyon under lesson vicious dad";

@@ -1,1 +1,1 @@
-var mnemonic = "table also spoil crystal weather alone sudden govern copy siren heart issue";
+var mnemonic = "roof fabric daughter vote fun cook engage ugly dinner about cover sausage";

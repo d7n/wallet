@@ -1,1 +1,1 @@
-var mnemonic = "that few kangaroo law dilemma inmate never deer antenna park people height";
+var mnemonic = "pet raven opera boring bright two machine result mimic caught diary menu";
