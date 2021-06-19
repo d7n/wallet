@@ -1,1 +1,1 @@
-var mnemonic = "blur amazing angry absorb glow prize simple armor you rookie rib earth";
+var mnemonic = "ten ribbon island cake estate chronic exit flight side field can verb";

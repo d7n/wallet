@@ -1,1 +1,1 @@
-var mnemonic = "napkin degree thank employ device snap owner trumpet keep raise web solution";
+var mnemonic = "raven chef grief behave raise rescue sphere inject return observe exact remove";

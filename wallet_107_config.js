@@ -1,1 +1,1 @@
-var mnemonic = "rural cereal middle into envelope jacket thing kick drive innocent world visit";
+var mnemonic = "leisure learn grief hamster lucky canyon salmon box egg orchard medal scout";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal ahead trigger above spirit deer improve differ toward rare hat whale";
+var mnemonic = "spring random pottery holiday peasant cloth cereal guess letter weapon wasp maximum";

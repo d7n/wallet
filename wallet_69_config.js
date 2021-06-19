@@ -1,1 +1,1 @@
-var mnemonic = "muffin shuffle leg often over lawn catch woman grant lemon curve truth";
+var mnemonic = "resource spring opinion true resource desert end bunker mimic traffic ignore trip";

@@ -1,1 +1,1 @@
-var mnemonic = "model hat scatter carry toward syrup punch guard gold trash huge situate";
+var mnemonic = "tribe van undo perfect sad sign twin merge spy true boy habit";

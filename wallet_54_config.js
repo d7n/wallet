@@ -1,1 +1,1 @@
-var mnemonic = "power debate smoke quarter reason casino often awkward oven beauty story tower";
+var mnemonic = "plunge cook barely soccer flee achieve skin tower soccer client kick jaguar";

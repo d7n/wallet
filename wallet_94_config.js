@@ -1,1 +1,1 @@
-var mnemonic = "denial shaft embrace morning load frog under plate alter unlock hub spell";
+var mnemonic = "agree video transfer swap knife curious focus vague wide woman badge mesh";

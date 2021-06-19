@@ -1,1 +1,1 @@
-var mnemonic = "mobile company pottery message banner hard eager front olympic amount snow rabbit";
+var mnemonic = "whip more okay sense thank taste sorry bitter puzzle spin carbon improve";

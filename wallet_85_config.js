@@ -1,1 +1,1 @@
-var mnemonic = "clap churn school gas double novel walnut more castle close borrow clinic";
+var mnemonic = "treat gorilla strike tide again sad stomach enjoy boost cup swim hen";

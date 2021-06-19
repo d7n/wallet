@@ -1,1 +1,1 @@
-var mnemonic = "dentist kingdom chair slender catalog aisle before addict way demise drive camera";
+var mnemonic = "hammer demand train modify face sunset real nasty fee bunker goddess bar";

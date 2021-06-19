@@ -1,1 +1,1 @@
-var mnemonic = "install busy era remove sport fog ketchup because health clutch quarter green";
+var mnemonic = "people clump garment number chicken drink code muscle tornado soap prefer submit";

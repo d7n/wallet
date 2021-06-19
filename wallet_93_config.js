@@ -1,1 +1,1 @@
-var mnemonic = "walk input enough lunar position deny coil virtual mercy beyond waste lady";
+var mnemonic = "dance box desert neck gentle current person buyer cheap decorate move rifle";

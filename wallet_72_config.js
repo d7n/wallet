@@ -1,1 +1,1 @@
-var mnemonic = "snow acid apology portion catalog auto garage ignore please female rent august";
+var mnemonic = "ride pilot attack castle reject rule acquire trick ceiling gaze crash drink";

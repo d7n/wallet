@@ -1,1 +1,1 @@
-var mnemonic = "better foil birth foot theory say enable enrich veteran common call label";
+var mnemonic = "demise believe leave chase east blue brass sunset grape skirt immune cabbage";

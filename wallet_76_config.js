@@ -1,1 +1,1 @@
-var mnemonic = "spider heavy inflict crawl school aware congress horror cereal tell virus notable";
+var mnemonic = "hollow message loan oblige depth island pelican sleep trick daring salt lucky";

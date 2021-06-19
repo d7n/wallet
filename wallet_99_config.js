@@ -1,1 +1,1 @@
-var mnemonic = "stove laptop amazing prize toss great december give abstract sausage shield develop";
+var mnemonic = "embody march useless wrestle feed pottery noodle motion throw round alter country";

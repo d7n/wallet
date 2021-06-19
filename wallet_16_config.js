@@ -1,1 +1,1 @@
-var mnemonic = "adjust proud when lunch oval number spell seat shy phone poet hip";
+var mnemonic = "salmon beef forget ready slam leader matrix flight skull under distance school";

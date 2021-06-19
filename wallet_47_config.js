@@ -1,1 +1,1 @@
-var mnemonic = "suffer choice flee click potato nominee feel author sock supreme vault episode";
+var mnemonic = "atom deposit viable course agree helmet enhance one tooth hood lend right";

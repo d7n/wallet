@@ -1,1 +1,1 @@
-var mnemonic = "match flash fall avoid twenty retire shoulder below melody good penalty cactus";
+var mnemonic = "shrimp sunny feed boat earth south until machine increase major remember beauty";

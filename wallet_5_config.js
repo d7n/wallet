@@ -1,1 +1,1 @@
-var mnemonic = "pepper latin code rural slogan neutral canoe warfare measure among vital alien";
+var mnemonic = "cat credit note toe process welcome proof shock pink color flip layer";

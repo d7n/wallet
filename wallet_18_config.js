@@ -1,1 +1,1 @@
-var mnemonic = "minimum about pottery memory ask motion matter grape monkey sail flavor scale";
+var mnemonic = "glare paper refuse fabric glue body pull truly donor valley elite notice";

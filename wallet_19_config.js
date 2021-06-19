@@ -1,1 +1,1 @@
-var mnemonic = "hold whale lake lady exercise salon chest disease pulp drive kit laugh";
+var mnemonic = "board verb detail tattoo collect ridge demand morning basket long smooth laptop";

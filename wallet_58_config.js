@@ -1,1 +1,1 @@
-var mnemonic = "lamp toddler orient shield merit easy father oppose rice clinic harvest advice";
+var mnemonic = "hip brief myth attitude when evidence harbor can hungry crane water deposit";

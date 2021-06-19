@@ -1,1 +1,1 @@
-var mnemonic = "safe affair tribe suit basket winter loan story ceiling talent ski slight";
+var mnemonic = "butter inflict industry shiver enable rapid giant version exit bread story cheese";

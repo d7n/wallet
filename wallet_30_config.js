@@ -1,1 +1,1 @@
-var mnemonic = "ball peace found couple dash next assist sweet hotel taste unveil output";
+var mnemonic = "local perfect intact agent island dignity flight target dwarf stay avocado matrix";

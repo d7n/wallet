@@ -1,1 +1,1 @@
-var mnemonic = "open suffer fantasy okay inspire stick pet sample assume east hero skate";
+var mnemonic = "promote color never miracle liar online height illegal dinosaur clerk good wide";

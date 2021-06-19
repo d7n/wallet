@@ -1,1 +1,1 @@
-var mnemonic = "middle amused minor jungle banner gift test actor soon dutch tell best";
+var mnemonic = "door catch tumble excite minimum sight season assist voice casino salute worth";

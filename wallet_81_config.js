@@ -1,1 +1,1 @@
-var mnemonic = "analyst curtain mail caution stamp excite despair fury supreme thing fiscal eyebrow";
+var mnemonic = "water define luggage flavor choose race crew toilet song fit cabin lesson";

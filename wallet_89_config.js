@@ -1,1 +1,1 @@
-var mnemonic = "chaos rabbit distance imitate supreme buzz catch peanut demise blade basket sword";
+var mnemonic = "course slogan lizard wood trick fire any bulb gaze mixed gain deal";

@@ -1,1 +1,1 @@
-var mnemonic = "lion cycle human inside traffic major orchard acoustic marine ketchup city festival";
+var mnemonic = "electric ignore raise dice throw drastic palace when hero almost brother welcome";

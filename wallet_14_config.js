@@ -1,1 +1,1 @@
-var mnemonic = "walk key tell bracket cancel silk photo innocent next math cannon tide";
+var mnemonic = "crystal switch total sister actor hub neglect lounge bulb fall method immense";

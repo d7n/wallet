@@ -1,1 +1,1 @@
-var mnemonic = "weird celery nest pretty clog home afraid clever there jar river include";
+var mnemonic = "summer model rabbit nothing song dust emerge permit attend soldier syrup two";

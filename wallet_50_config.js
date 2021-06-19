@@ -1,1 +1,1 @@
-var mnemonic = "damp chapter surprise unit crumble identify turkey until mammal catch between misery";
+var mnemonic = "toss chimney gap famous novel damp frog team tackle power canyon again";

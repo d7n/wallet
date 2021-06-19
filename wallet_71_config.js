@@ -1,1 +1,1 @@
-var mnemonic = "verb moral tent scheme atom misery flag retreat machine aspect sorry fall";
+var mnemonic = "panther regular tag they high elite canyon virtual vault joy fun ritual";

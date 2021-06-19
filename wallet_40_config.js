@@ -1,1 +1,1 @@
-var mnemonic = "embody execute coin law decline horn lonely blast exercise health chimney mandate";
+var mnemonic = "oak pumpkin suffer room health finish brass car slush act route label";

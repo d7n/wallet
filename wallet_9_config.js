@@ -1,1 +1,1 @@
-var mnemonic = "sponsor pattern blue clock mercy cherry disorder crazy spice source wall this";
+var mnemonic = "example urge hybrid eight journey scale logic stone huge truly equip athlete";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter unlock hockey pelican fortune resource immense fringe oil any alter breeze";
+var mnemonic = "keen glance brush base bulb human alien father idea sunset harvest vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "theory indoor outer glove crack build bracket parade post pen traffic social";
+var mnemonic = "can october fiber spare square decide minor exile soul scissors muscle much";

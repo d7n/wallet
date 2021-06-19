@@ -1,1 +1,1 @@
-var mnemonic = "chuckle account uncover ridge enact duck urge planet scheme episode era quiz";
+var mnemonic = "glad behind brother mandate oval icon region huge enough catch real acoustic";

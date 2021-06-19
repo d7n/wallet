@@ -1,1 +1,1 @@
-var mnemonic = "spatial expand knee degree audit arrange tumble shield hip trash wonder wave";
+var mnemonic = "require trade february bracket crop term smooth wreck lady confirm solution churn";

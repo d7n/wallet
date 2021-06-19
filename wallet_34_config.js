@@ -1,1 +1,1 @@
-var mnemonic = "romance sting knee luxury burger dream hockey ball addict health false casual";
+var mnemonic = "twist abandon base all cupboard pause color siren erupt welcome pumpkin armed";

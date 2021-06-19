@@ -1,1 +1,1 @@
-var mnemonic = "push tomato cheap december number thank chef van lunch relax worry similar";
+var mnemonic = "elite social trap supply regular resemble toward glove before fan kangaroo mushroom";

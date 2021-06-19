@@ -1,1 +1,1 @@
-var mnemonic = "receive smoke capital pride equal adjust season logic swear kangaroo bright aisle";
+var mnemonic = "menu nasty ahead little scout recipe live equal oil divide sport elegant";

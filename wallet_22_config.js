@@ -1,1 +1,1 @@
-var mnemonic = "rebel myself town coyote rack toward raccoon still quarter motion enemy blur";
+var mnemonic = "like announce bubble song hello option butter hedgehog glad smooth fashion act";

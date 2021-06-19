@@ -1,1 +1,1 @@
-var mnemonic = "suffer hockey desert warm add angle result adjust arctic bus laundry stay";
+var mnemonic = "spy trigger carbon salad tail virus salad brick kangaroo buddy usual cost";

@@ -1,1 +1,1 @@
-var mnemonic = "banana fortune hurdle tail giraffe dilemma negative future merge afford enough garbage";
+var mnemonic = "industry awesome erase alcohol vivid parade answer slab humor nut decline case";

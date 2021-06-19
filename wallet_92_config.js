@@ -1,1 +1,1 @@
-var mnemonic = "regular inch diamond pyramid hat remember today worth worth custom update ivory";
+var mnemonic = "fan two mask season present saddle brother distance silver inquiry also lava";

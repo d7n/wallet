@@ -1,1 +1,1 @@
-var mnemonic = "scrap plunge protect parade domain depart girl credit habit trend muffin swamp";
+var mnemonic = "purpose best loan detail success vessel napkin pass display enforce garlic hair";

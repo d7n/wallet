@@ -1,1 +1,1 @@
-var mnemonic = "illegal range poverty replace cigar embark company remain display attitude speed car";
+var mnemonic = "joke crowd antique super coast false seat logic final dwarf anxiety invest";

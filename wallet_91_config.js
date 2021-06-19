@@ -1,1 +1,1 @@
-var mnemonic = "fiber gold wire liquid pigeon course real vicious awesome pilot orbit spell";
+var mnemonic = "alcohol base van wisdom antique trigger model wrestle monkey stumble fall boy";

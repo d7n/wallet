@@ -1,1 +1,1 @@
-var mnemonic = "blast ramp dinner cross cliff venture cruel wage pride you champion network";
+var mnemonic = "kitchen energy crime truth price cheese topic fee melody select wealth raise";

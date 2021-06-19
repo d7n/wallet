@@ -1,1 +1,1 @@
-var mnemonic = "march quick flee toss need nose attract steel praise enemy panel casino";
+var mnemonic = "hill dial window innocent denial raven energy left winter keen address pepper";

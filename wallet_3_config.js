@@ -1,1 +1,1 @@
-var mnemonic = "figure weasel spoon dove leopard moment sock follow just grow either loyal";
+var mnemonic = "snake toilet volcano razor child say health fever pyramid brother finish limit";

@@ -1,1 +1,1 @@
-var mnemonic = "omit sample pulp walk sustain squirrel thing polar tooth frozen account denial";
+var mnemonic = "master engage stick thunder thought thumb earth grocery reject always clay bamboo";

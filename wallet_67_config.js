@@ -1,1 +1,1 @@
-var mnemonic = "bacon adult evolve throw tuition shell winter shoe tackle add sense admit";
+var mnemonic = "equip wine twice misery bunker output wait chef tide movie coil client";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse problem wolf print riot pink wealth easy science tortoise sheriff brave";
+var mnemonic = "manage gun friend bamboo abstract just unique wing exercise three tenant concert";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch remind skate gloom mystery ability route together profit leisure upon whisper";
+var mnemonic = "radar fade begin flower meadow survey quick gaze hero sorry crisp alert";

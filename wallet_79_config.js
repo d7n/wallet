@@ -1,1 +1,1 @@
-var mnemonic = "orchard solve warrior mimic strong try script grass fresh battle achieve knee";
+var mnemonic = "couple conduct guess always cigar detail grow muffin ten senior surround custom";

@@ -1,1 +1,1 @@
-var mnemonic = "much pride left plunge govern rescue approve defy dismiss memory evoke stem";
+var mnemonic = "emerge sorry program outdoor perfect message panic chicken head camp wet exile";

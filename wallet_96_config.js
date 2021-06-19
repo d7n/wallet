@@ -1,1 +1,1 @@
-var mnemonic = "blossom music local suspect muffin song volume pink prosper sudden simple bomb";
+var mnemonic = "client spell snake sugar over rescue then into more voyage burst perfect";

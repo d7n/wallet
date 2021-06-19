@@ -1,1 +1,1 @@
-var mnemonic = "bracket menu mango kite rule matrix near thought fire notable there begin";
+var mnemonic = "quality inject script skill tool profit fiction help attitude tail remind shy";

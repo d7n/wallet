@@ -1,1 +1,1 @@
-var mnemonic = "minimum afford organ abstract give true spice since mistake brown venture obvious";
+var mnemonic = "total kitten shield abandon lobster floor tortoise pipe pond cause depth differ";

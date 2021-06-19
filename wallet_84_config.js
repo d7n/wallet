@@ -1,1 +1,1 @@
-var mnemonic = "vague gather else spin educate action staff split fox typical cabbage pass";
+var mnemonic = "agent regret potato drip annual order razor eagle universe puzzle adapt involve";

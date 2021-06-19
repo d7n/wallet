@@ -1,1 +1,1 @@
-var mnemonic = "truth veteran reveal aisle lamp rabbit credit advance pigeon globe artwork awesome";
+var mnemonic = "crawl twenty glimpse hire unhappy prevent prefer senior vacuum judge network sort";

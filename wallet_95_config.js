@@ -1,1 +1,1 @@
-var mnemonic = "episode stick media square mountain inject guard fantasy awkward gauge orange position";
+var mnemonic = "solid happy indicate minor scare fatigue chunk trend side loop century olympic";

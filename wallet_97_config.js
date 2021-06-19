@@ -1,1 +1,1 @@
-var mnemonic = "federal doll any raw wasp assist genius carbon meadow universe dash woman";
+var mnemonic = "next forest blue empower clip broken forest transfer normal frozen ghost combine";

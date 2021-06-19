@@ -1,1 +1,1 @@
-var mnemonic = "arrow next first rent exact paper invest tip reflect globe theme pizza";
+var mnemonic = "sample side build across inmate peanut always capital kick find practice vast";

@@ -1,1 +1,1 @@
-var mnemonic = "smile staff pull price where visual can display fiber ahead rail fox";
+var mnemonic = "clock minor laundry case people main oxygen adult view capable place month";

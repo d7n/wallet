@@ -1,1 +1,1 @@
-var mnemonic = "silent vote region ordinary pretty resource purchase awake exotic cover chronic erase";
+var mnemonic = "stable acquire ordinary wash guide setup slight auction walnut route now blue";

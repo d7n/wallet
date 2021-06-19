@@ -1,1 +1,1 @@
-var mnemonic = "order bid tree float refuse wrist number ugly olive meat bench total";
+var mnemonic = "bacon pistol travel current live antenna marble fuel subject garment eight nominee";

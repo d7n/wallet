@@ -1,1 +1,1 @@
-var mnemonic = "urban afford toe mad rival uniform exit strong speed ecology spoil join";
+var mnemonic = "snow throw urge attitude link city nest access ski fruit panther veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "control dignity snake mobile machine walk hen math install arch emerge thrive";
+var mnemonic = "immense ripple frost wide clean phrase teach charge romance drill early match";

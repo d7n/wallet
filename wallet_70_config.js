@@ -1,1 +1,1 @@
-var mnemonic = "smooth require unusual brother tiger rapid rough indicate seat economy mask catch";
+var mnemonic = "crater corn rely fire royal future wide ecology fade wall pole rebel";

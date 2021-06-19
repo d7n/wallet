@@ -1,1 +1,1 @@
-var mnemonic = "hand guitar shuffle stuff win agree easily jewel warm arctic solar act";
+var mnemonic = "breeze spring clog slim south child desert warrior boil cloth bubble rubber";

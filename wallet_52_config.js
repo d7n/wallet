@@ -1,1 +1,1 @@
-var mnemonic = "chaos repair side drill vocal just test dilemma sound pistol skirt silent";
+var mnemonic = "into chimney toward require pioneer parrot uniform hole safe expire north cousin";

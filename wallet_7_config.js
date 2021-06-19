@@ -1,1 +1,1 @@
-var mnemonic = "struggle monitor hawk slender room chunk clay dirt interest pool stand silver";
+var mnemonic = "measure when lab vibrant churn unknown stuff unfold door small boil stadium";

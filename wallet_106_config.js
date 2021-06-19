@@ -1,1 +1,1 @@
-var mnemonic = "unveil scrap denial woman useful sentence front service birth confirm boy merry";
+var mnemonic = "advice ozone primary skin abandon human member ten elbow thought cupboard icon";

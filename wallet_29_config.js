@@ -1,1 +1,1 @@
-var mnemonic = "access quantum catch witness rapid source pitch ribbon total peasant crash access";
+var mnemonic = "coconut tape resource retire include suit spread wait focus speed divert lemon";

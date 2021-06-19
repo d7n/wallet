@@ -1,1 +1,1 @@
-var mnemonic = "sunny borrow beef sheriff use limb feel walk lobster warm super column";
+var mnemonic = "office surround fortune doctor jealous industry film logic banner taste silk pledge";

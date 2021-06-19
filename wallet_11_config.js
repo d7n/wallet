@@ -1,1 +1,1 @@
-var mnemonic = "rate cruel vocal idea paper vapor base become keen diagram illness labor";
+var mnemonic = "subject allow profit ill concert unaware arena rare quick want morning gaze";

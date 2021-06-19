@@ -1,1 +1,1 @@
-var mnemonic = "thing oyster minor struggle welcome educate dynamic orbit wink spot use slight";
+var mnemonic = "renew inject shop escape rare gallery knock review promote stomach picture couch";

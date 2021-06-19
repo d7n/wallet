@@ -1,1 +1,1 @@
-var mnemonic = "ridge bullet major traffic issue ozone wool torch habit cave turkey paddle";
+var mnemonic = "notable input question ocean run animal foam elegant shallow reunion twice chronic";

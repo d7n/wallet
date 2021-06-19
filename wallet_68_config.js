@@ -1,1 +1,1 @@
-var mnemonic = "gauge vintage involve move inner rabbit hybrid deer leave fork void noodle";
+var mnemonic = "during clip history crumble rib fruit want bench local split twist lawsuit";

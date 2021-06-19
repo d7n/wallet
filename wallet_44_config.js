@@ -1,1 +1,1 @@
-var mnemonic = "machine cinnamon stage ship start duty taxi seven tooth author fatigue easy";
+var mnemonic = "dance sail fix segment glow today mosquito barrel garage yard notice stamp";

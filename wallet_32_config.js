@@ -1,1 +1,1 @@
-var mnemonic = "farm fish term cheap provide absurd stomach smooth floor teach vote wild";
+var mnemonic = "bleak wire viable place alone faculty slender oak lawsuit thank unable cliff";
