@@ -1,1 +1,1 @@
-var mnemonic = "into chimney toward require pioneer parrot uniform hole safe expire north cousin";
+var mnemonic = "repeat wrist exact zero stuff cute they raven very goddess weather mercy";

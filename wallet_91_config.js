@@ -1,1 +1,1 @@
-var mnemonic = "alcohol base van wisdom antique trigger model wrestle monkey stumble fall boy";
+var mnemonic = "symbol useful afraid kitten glad perfect jazz dash arch balance mirror link";

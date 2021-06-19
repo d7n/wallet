@@ -1,1 +1,1 @@
-var mnemonic = "clock minor laundry case people main oxygen adult view capable place month";
+var mnemonic = "rival vacant defy oppose pretty boss couch genuine runway weather mobile day";

@@ -1,1 +1,1 @@
-var mnemonic = "child setup tourist various figure antenna paper syrup find fatal always blade";
+var mnemonic = "forget science entire dice funny stomach cabbage drastic pink movie bus between";

@@ -1,1 +1,1 @@
-var mnemonic = "fan two mask season present saddle brother distance silver inquiry also lava";
+var mnemonic = "mansion bicycle hurdle pilot easy snake home wink equip need chase rocket";

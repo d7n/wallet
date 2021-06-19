@@ -1,1 +1,1 @@
-var mnemonic = "whip more okay sense thank taste sorry bitter puzzle spin carbon improve";
+var mnemonic = "spray attack bicycle purpose write please stick denial junk false east chest";

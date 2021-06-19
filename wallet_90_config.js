@@ -1,1 +1,1 @@
-var mnemonic = "hill dial window innocent denial raven energy left winter keen address pepper";
+var mnemonic = "render sunny ivory oxygen envelope follow energy media finger sudden horse volcano";

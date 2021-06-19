@@ -1,1 +1,1 @@
-var mnemonic = "rotate catalog grass cloth hen march team warfare van remove clay invite";
+var mnemonic = "hamster range vocal when wrestle dragon people unhappy breeze zoo initial nominee";

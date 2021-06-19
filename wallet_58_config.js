@@ -1,1 +1,1 @@
-var mnemonic = "hip brief myth attitude when evidence harbor can hungry crane water deposit";
+var mnemonic = "guitar truly satoshi battle worry speak example enjoy nut tornado vibrant axis";

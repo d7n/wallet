@@ -1,1 +1,1 @@
-var mnemonic = "board verb detail tattoo collect ridge demand morning basket long smooth laptop";
+var mnemonic = "better engage valley sugar over elbow forest since elevator dutch price obtain";

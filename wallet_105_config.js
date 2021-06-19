@@ -1,1 +1,1 @@
-var mnemonic = "often result coach drip accuse say phrase regret bleak panic globe banner";
+var mnemonic = "now field earth lawn myself dragon fiscal tank bomb test choose surprise";

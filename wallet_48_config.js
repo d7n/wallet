@@ -1,1 +1,1 @@
-var mnemonic = "bacon pistol travel current live antenna marble fuel subject garment eight nominee";
+var mnemonic = "alcohol apology tongue save zone music snack prefer drip noise sand illegal";

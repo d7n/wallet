@@ -1,1 +1,1 @@
-var mnemonic = "spy trigger carbon salad tail virus salad brick kangaroo buddy usual cost";
+var mnemonic = "flush ocean peace security pulp alien sunny exotic conduct wink actual museum";

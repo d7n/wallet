@@ -1,1 +1,1 @@
-var mnemonic = "tribe van undo perfect sad sign twin merge spy true boy habit";
+var mnemonic = "guitar entire lesson quote erupt half wide bind better enter need distance";

@@ -1,1 +1,1 @@
-var mnemonic = "client spell snake sugar over rescue then into more voyage burst perfect";
+var mnemonic = "autumn electric glad start praise mule dad purity sound glare battle hamster";

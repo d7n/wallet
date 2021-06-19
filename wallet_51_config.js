@@ -1,1 +1,1 @@
-var mnemonic = "wedding vehicle afford unfair scissors relief auto birth profit primary figure poet";
+var mnemonic = "guess act icon culture father alter gate run mixture spatial slight lyrics";

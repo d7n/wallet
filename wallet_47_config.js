@@ -1,1 +1,1 @@
-var mnemonic = "atom deposit viable course agree helmet enhance one tooth hood lend right";
+var mnemonic = "wedding common popular reward surface loyal rookie usage actress talk fiscal holiday";

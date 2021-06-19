@@ -1,1 +1,1 @@
-var mnemonic = "hollow message loan oblige depth island pelican sleep trick daring salt lucky";
+var mnemonic = "below erode ignore edit machine custom festival coach breeze lyrics gain tower";

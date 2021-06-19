@@ -1,1 +1,1 @@
-var mnemonic = "acid dwarf sword baby used cube wasp pluck pistol differ canoe join";
+var mnemonic = "light rich start season unlock crouch over patch device early dinosaur fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "promote color never miracle liar online height illegal dinosaur clerk good wide";
+var mnemonic = "state typical capable bird easy once deputy humble promote dog romance wide";

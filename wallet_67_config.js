@@ -1,1 +1,1 @@
-var mnemonic = "equip wine twice misery bunker output wait chef tide movie coil client";
+var mnemonic = "donor news find chief saddle seminar license giggle provide relief fury yellow";

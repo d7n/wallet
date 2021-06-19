@@ -1,1 +1,1 @@
-var mnemonic = "example urge hybrid eight journey scale logic stone huge truly equip athlete";
+var mnemonic = "spring race merry sibling urban glance sting cheap angry bacon discover able";

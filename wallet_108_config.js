@@ -1,1 +1,1 @@
-var mnemonic = "menu nasty ahead little scout recipe live equal oil divide sport elegant";
+var mnemonic = "budget web kiwi shallow push verify annual parrot enough finish install fever";

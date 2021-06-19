@@ -1,1 +1,1 @@
-var mnemonic = "renew inject shop escape rare gallery knock review promote stomach picture couch";
+var mnemonic = "taxi produce general limb protect high width derive toast cement road penalty";

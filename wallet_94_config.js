@@ -1,1 +1,1 @@
-var mnemonic = "agree video transfer swap knife curious focus vague wide woman badge mesh";
+var mnemonic = "popular small lens mixed life cause quote snow cart pupil muffin cream";

@@ -1,1 +1,1 @@
-var mnemonic = "panther regular tag they high elite canyon virtual vault joy fun ritual";
+var mnemonic = "useless pulp fox animal olympic unit club misery empty pupil celery pill";

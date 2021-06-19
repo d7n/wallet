@@ -1,1 +1,1 @@
-var mnemonic = "immense ripple frost wide clean phrase teach charge romance drill early match";
+var mnemonic = "original amazing axis wine prosper cotton liberty exercise paper begin crack clinic";

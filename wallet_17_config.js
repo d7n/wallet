@@ -1,1 +1,1 @@
-var mnemonic = "office surround fortune doctor jealous industry film logic banner taste silk pledge";
+var mnemonic = "grief crazy slight toe mango hawk hammer silly welcome allow message awful";

@@ -1,1 +1,1 @@
-var mnemonic = "embody march useless wrestle feed pottery noodle motion throw round alter country";
+var mnemonic = "bird decide vital injury fresh furnace room aim slogan document rabbit afford";

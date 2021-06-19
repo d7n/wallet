@@ -1,1 +1,1 @@
-var mnemonic = "leisure learn grief hamster lucky canyon salmon box egg orchard medal scout";
+var mnemonic = "soap olive zero fence fire birth motion shrug sorry chapter sadness direct";

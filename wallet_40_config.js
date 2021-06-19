@@ -1,1 +1,1 @@
-var mnemonic = "oak pumpkin suffer room health finish brass car slush act route label";
+var mnemonic = "tired glow inmate laptop parrot absurd buddy relief sauce beef famous fat";

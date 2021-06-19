@@ -1,1 +1,1 @@
-var mnemonic = "cat credit note toe process welcome proof shock pink color flip layer";
+var mnemonic = "burger veteran cluster congress pipe buyer outer kiss current noodle birth whisper";

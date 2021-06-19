@@ -1,1 +1,1 @@
-var mnemonic = "snow throw urge attitude link city nest access ski fruit panther veteran";
+var mnemonic = "buffalo stairs weapon rice media tattoo mail exit convince cupboard unique race";

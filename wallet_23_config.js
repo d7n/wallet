@@ -1,1 +1,1 @@
-var mnemonic = "radar fade begin flower meadow survey quick gaze hero sorry crisp alert";
+var mnemonic = "search viable eight donkey measure famous hire betray kid holiday token argue";

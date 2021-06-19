@@ -1,1 +1,1 @@
-var mnemonic = "snake toilet volcano razor child say health fever pyramid brother finish limit";
+var mnemonic = "pretty they liquid around pill over few reveal hedgehog scheme sand chat";

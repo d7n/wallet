@@ -1,1 +1,1 @@
-var mnemonic = "mobile drink empower pave figure name promote artefact marriage visual swallow wasp";
+var mnemonic = "roast alter submit spin sure between slide scale pill you dwarf hidden";

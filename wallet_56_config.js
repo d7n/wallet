@@ -1,1 +1,1 @@
-var mnemonic = "merry else price soap home nut jewel erupt key chuckle quote mercy";
+var mnemonic = "rally wall gown royal mutual seed anger nerve stool flag legend swap";

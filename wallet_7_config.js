@@ -1,1 +1,1 @@
-var mnemonic = "measure when lab vibrant churn unknown stuff unfold door small boil stadium";
+var mnemonic = "prison lesson viable pig throw crystal arena purse act frog play that";

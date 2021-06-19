@@ -1,1 +1,1 @@
-var mnemonic = "toss chimney gap famous novel damp frog team tackle power canyon again";
+var mnemonic = "another that mesh gasp find discover quit network sunset roast laptop cluster";

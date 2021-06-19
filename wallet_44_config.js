@@ -1,1 +1,1 @@
-var mnemonic = "dance sail fix segment glow today mosquito barrel garage yard notice stamp";
+var mnemonic = "crater dinosaur word street stock trick winter renew prefer flush grow alien";

@@ -1,1 +1,1 @@
-var mnemonic = "stable acquire ordinary wash guide setup slight auction walnut route now blue";
+var mnemonic = "admit hawk drastic embrace weapon donor sorry eternal stamp runway transfer language";

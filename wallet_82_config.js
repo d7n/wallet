@@ -1,1 +1,1 @@
-var mnemonic = "glad behind brother mandate oval icon region huge enough catch real acoustic";
+var mnemonic = "side retreat camera little excite advice antique exit sheriff asset antique snack";

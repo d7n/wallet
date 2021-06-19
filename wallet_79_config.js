@@ -1,1 +1,1 @@
-var mnemonic = "couple conduct guess always cigar detail grow muffin ten senior surround custom";
+var mnemonic = "unique misery oxygen diagram method afraid pioneer bike patch enemy rib nuclear";

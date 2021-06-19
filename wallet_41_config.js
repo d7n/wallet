@@ -1,1 +1,1 @@
-var mnemonic = "crawl twenty glimpse hire unhappy prevent prefer senior vacuum judge network sort";
+var mnemonic = "wash toast text innocent daughter deliver page flash spirit palace leave divide";

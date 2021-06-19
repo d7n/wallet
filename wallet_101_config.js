@@ -1,1 +1,1 @@
-var mnemonic = "elite social trap supply regular resemble toward glove before fan kangaroo mushroom";
+var mnemonic = "moral purpose fun aware hen print grass calm stone claim math segment";

@@ -1,1 +1,1 @@
-var mnemonic = "short cloth net pass coach excite brass eye sad famous spoil glare";
+var mnemonic = "virtual danger shock wing decorate song apple stuff vote vintage patrol cattle";

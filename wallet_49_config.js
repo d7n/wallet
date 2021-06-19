@@ -1,1 +1,1 @@
-var mnemonic = "door catch tumble excite minimum sight season assist voice casino salute worth";
+var mnemonic = "sample better beauty bronze chapter air blood ozone bag armor endorse crowd";

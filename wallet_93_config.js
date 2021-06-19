@@ -1,1 +1,1 @@
-var mnemonic = "dance box desert neck gentle current person buyer cheap decorate move rifle";
+var mnemonic = "cause obscure congress order stamp cube muscle wool cradle similar silent immense";

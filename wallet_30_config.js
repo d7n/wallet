@@ -1,1 +1,1 @@
-var mnemonic = "local perfect intact agent island dignity flight target dwarf stay avocado matrix";
+var mnemonic = "price seminar market alarm champion glass save scene civil attract magic alarm";

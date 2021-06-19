@@ -1,1 +1,1 @@
-var mnemonic = "raven chef grief behave raise rescue sphere inject return observe exact remove";
+var mnemonic = "liquid timber sure genius aerobic pioneer require mixture odor pilot result dash";

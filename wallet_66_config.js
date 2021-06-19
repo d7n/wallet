@@ -1,1 +1,1 @@
-var mnemonic = "can october fiber spare square decide minor exile soul scissors muscle much";
+var mnemonic = "capital spoon south pilot club main palace warm maximum tiger drive group";

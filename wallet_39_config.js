@@ -1,1 +1,1 @@
-var mnemonic = "crew risk lyrics march sleep bright sample clay radio ridge beauty mixed";
+var mnemonic = "clerk antique voyage balcony draw enhance orbit galaxy library recycle pitch flavor";

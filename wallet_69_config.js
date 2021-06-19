@@ -1,1 +1,1 @@
-var mnemonic = "resource spring opinion true resource desert end bunker mimic traffic ignore trip";
+var mnemonic = "worth gossip casino valve leaf horn message athlete arctic mammal host door";

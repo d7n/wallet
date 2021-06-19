@@ -1,1 +1,1 @@
-var mnemonic = "hammer demand train modify face sunset real nasty fee bunker goddess bar";
+var mnemonic = "angle execute hotel unfold alert water breeze random west refuse general noble";

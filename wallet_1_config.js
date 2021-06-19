@@ -1,1 +1,1 @@
-var mnemonic = "pet novel flower beef surround rude setup unfair cave girl year wagon";
+var mnemonic = "various jar ripple service dentist explain guard festival estate rescue people plunge";

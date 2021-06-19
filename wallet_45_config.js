@@ -1,1 +1,1 @@
-var mnemonic = "notable input question ocean run animal foam elegant shallow reunion twice chronic";
+var mnemonic = "message quality into enforce noodle sister mule creek winter text join rifle";

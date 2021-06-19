@@ -1,1 +1,1 @@
-var mnemonic = "like announce bubble song hello option butter hedgehog glad smooth fashion act";
+var mnemonic = "method tree swing fancy chaos stadium drip avocado tent alter leave magnet";

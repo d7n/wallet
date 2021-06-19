@@ -1,1 +1,1 @@
-var mnemonic = "ready act defense involve average napkin green brand finger useless shock salmon";
+var mnemonic = "topic walk remember nasty amount dash rare episode perfect detect auto forget";

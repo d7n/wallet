@@ -1,1 +1,1 @@
-var mnemonic = "solid happy indicate minor scare fatigue chunk trend side loop century olympic";
+var mnemonic = "profit distance fatigue shiver canoe mandate screen disorder fluid stem apple leave";

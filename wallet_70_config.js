@@ -1,1 +1,1 @@
-var mnemonic = "crater corn rely fire royal future wide ecology fade wall pole rebel";
+var mnemonic = "require fence amateur popular frost little drop baby remind kitten badge apology";

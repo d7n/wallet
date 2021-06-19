@@ -1,1 +1,1 @@
-var mnemonic = "water define luggage flavor choose race crew toilet song fit cabin lesson";
+var mnemonic = "aspect wool repair forum cheap despair infant rural company team breeze expect";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal switch total sister actor hub neglect lounge bulb fall method immense";
+var mnemonic = "mansion food busy foot broken lock clip capital jungle sustain board zero";

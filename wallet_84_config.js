@@ -1,1 +1,1 @@
-var mnemonic = "agent regret potato drip annual order razor eagle universe puzzle adapt involve";
+var mnemonic = "budget stool fever tuition type artist cupboard dentist agree aware bamboo curious";

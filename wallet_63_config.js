@@ -1,1 +1,1 @@
-var mnemonic = "keen glance brush base bulb human alien father idea sunset harvest vicious";
+var mnemonic = "naive demise modify pull topic suggest first order top height guitar close";

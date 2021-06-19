@@ -1,1 +1,1 @@
-var mnemonic = "coconut tape resource retire include suit spread wait focus speed divert lemon";
+var mnemonic = "hello muscle task fever expose planet close sphere silent flavor tail network";

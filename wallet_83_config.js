@@ -1,1 +1,1 @@
-var mnemonic = "kitchen energy crime truth price cheese topic fee melody select wealth raise";
+var mnemonic = "begin erosion brush wisdom river absorb tent resource dolphin involve stage account";

@@ -1,1 +1,1 @@
-var mnemonic = "sample side build across inmate peanut always capital kick find practice vast";
+var mnemonic = "chief view dirt consider kangaroo shrug tiny vanish mass pioneer rifle eyebrow";

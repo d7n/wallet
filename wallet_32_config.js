@@ -1,1 +1,1 @@
-var mnemonic = "bleak wire viable place alone faculty slender oak lawsuit thank unable cliff";
+var mnemonic = "virus oil planet hotel industry cycle bless motor tube pass priority cabbage";

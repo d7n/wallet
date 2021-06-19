@@ -1,1 +1,1 @@
-var mnemonic = "emerge sorry program outdoor perfect message panic chicken head camp wet exile";
+var mnemonic = "focus bring license jaguar push visual giraffe put under zero avocado soda";

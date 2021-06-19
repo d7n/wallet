@@ -1,1 +1,1 @@
-var mnemonic = "during clip history crumble rib fruit want bench local split twist lawsuit";
+var mnemonic = "cute thank face hunt execute ecology sun elbow bomb minor zoo noble";

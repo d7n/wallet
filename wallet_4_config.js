@@ -1,1 +1,1 @@
-var mnemonic = "require trade february bracket crop term smooth wreck lady confirm solution churn";
+var mnemonic = "hybrid punch track federal moon rescue calm seek math movie ugly cake";

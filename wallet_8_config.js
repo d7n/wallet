@@ -1,1 +1,1 @@
-var mnemonic = "gold distance reveal decorate learn fade artefact visa since recipe derive exhaust";
+var mnemonic = "deer knife debris diagram frame face stairs aware case slogan glow tank";

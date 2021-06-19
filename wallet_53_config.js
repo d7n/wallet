@@ -1,1 +1,1 @@
-var mnemonic = "master engage stick thunder thought thumb earth grocery reject always clay bamboo";
+var mnemonic = "immense omit enable mansion pyramid hidden visit obey awake job goose visual";

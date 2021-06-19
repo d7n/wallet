@@ -1,1 +1,1 @@
-var mnemonic = "salmon beef forget ready slam leader matrix flight skull under distance school";
+var mnemonic = "hundred just approve apple often zoo kingdom chalk favorite velvet bird pulp";

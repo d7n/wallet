@@ -1,1 +1,1 @@
-var mnemonic = "quality inject script skill tool profit fiction help attitude tail remind shy";
+var mnemonic = "donkey calm tobacco picnic gate ability oven prize flight circle outside deliver";

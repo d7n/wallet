@@ -1,1 +1,1 @@
-var mnemonic = "gallery cherry file symbol mechanic jar lyrics expect cute shoe penalty million";
+var mnemonic = "clean mammal tube grass happy green blanket off ill knock midnight game";

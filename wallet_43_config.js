@@ -1,1 +1,1 @@
-var mnemonic = "twist bleak problem aunt naive guard cargo figure merry vague tumble weapon";
+var mnemonic = "boy kick indicate crunch very volcano nut suggest tornado pact swallow canyon";

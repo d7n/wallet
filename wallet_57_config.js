@@ -1,1 +1,1 @@
-var mnemonic = "math child suit tell client bone cook moral cabin solution palace dynamic";
+var mnemonic = "ill outer glow pipe bus labor feature analyst ketchup animal rent fine";

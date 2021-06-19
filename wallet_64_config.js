@@ -1,1 +1,1 @@
-var mnemonic = "manage gun friend bamboo abstract just unique wing exercise three tenant concert";
+var mnemonic = "liar lonely render lonely pulp elephant kitten teach pigeon rather pig earn";

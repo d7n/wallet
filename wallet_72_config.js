@@ -1,1 +1,1 @@
-var mnemonic = "ride pilot attack castle reject rule acquire trick ceiling gaze crash drink";
+var mnemonic = "unaware bone insect pretty favorite sad nut oblige mixed cruel item rich";

@@ -1,1 +1,1 @@
-var mnemonic = "course slogan lizard wood trick fire any bulb gaze mixed gain deal";
+var mnemonic = "possible casual cotton sense throw lawn blame solar deal grow finger genre";

@@ -1,1 +1,1 @@
-var mnemonic = "electric ignore raise dice throw drastic palace when hero almost brother welcome";
+var mnemonic = "sentence bomb game lyrics festival neglect allow knife planet home hollow account";

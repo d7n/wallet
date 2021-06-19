@@ -1,1 +1,1 @@
-var mnemonic = "grief beauty link mixture one uphold kick deliver object antenna gravity stove";
+var mnemonic = "engage mean peanut sail valid execute bachelor turtle measure half fine verify";

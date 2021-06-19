@@ -1,1 +1,1 @@
-var mnemonic = "people clump garment number chicken drink code muscle tornado soap prefer submit";
+var mnemonic = "olympic diagram mountain jewel era memory casino any virus heavy evil purse";

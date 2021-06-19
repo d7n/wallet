@@ -1,1 +1,1 @@
-var mnemonic = "summer model rabbit nothing song dust emerge permit attend soldier syrup two";
+var mnemonic = "above pottery essence possible mix gain they raw abstract soft oval mouse";

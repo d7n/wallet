@@ -1,1 +1,1 @@
-var mnemonic = "total kitten shield abandon lobster floor tortoise pipe pond cause depth differ";
+var mnemonic = "sister razor tattoo thumb section dizzy girl nasty observe require license market";

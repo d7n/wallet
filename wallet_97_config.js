@@ -1,1 +1,1 @@
-var mnemonic = "next forest blue empower clip broken forest transfer normal frozen ghost combine";
+var mnemonic = "often indicate spell brother black print mercy execute entire cross tired mail";

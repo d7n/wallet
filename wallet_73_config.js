@@ -1,1 +1,1 @@
-var mnemonic = "vivid fetch group equip resource trash ozone visit east draw real error";
+var mnemonic = "swallow usage nephew security clean zoo boss cart torch august mesh anchor";

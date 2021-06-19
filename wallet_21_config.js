@@ -1,1 +1,1 @@
-var mnemonic = "butter inflict industry shiver enable rapid giant version exit bread story cheese";
+var mnemonic = "immense rent wrist craft weasel weird error easy process bench gorilla tooth";

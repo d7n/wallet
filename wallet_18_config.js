@@ -1,1 +1,1 @@
-var mnemonic = "glare paper refuse fabric glue body pull truly donor valley elite notice";
+var mnemonic = "quantum fix swamp chef science innocent sibling letter hedgehog debate dynamic result";

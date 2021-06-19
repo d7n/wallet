@@ -1,1 +1,1 @@
-var mnemonic = "tortoise burger cannon glory annual puzzle supreme trade alert clerk verify wrestle";
+var mnemonic = "wolf cheese latin teach rate job parade pole camp initial drop hundred";

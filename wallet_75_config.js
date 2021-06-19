@@ -1,1 +1,1 @@
-var mnemonic = "mixture remain funny fish spoil broccoli eye cause timber dream mule candy";
+var mnemonic = "pave curtain enact age wire domain amateur gaze melt begin artist include";

@@ -1,1 +1,1 @@
-var mnemonic = "border alley bargain usage tide tag illness chicken unit need private muffin";
+var mnemonic = "ribbon tent arrow unit fame mushroom two moon embrace april elbow accident";

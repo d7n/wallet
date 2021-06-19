@@ -1,1 +1,1 @@
-var mnemonic = "dry loan yard fit bullet sorry happy midnight range balance decade blind";
+var mnemonic = "safe step spatial dice expect wagon fresh stone expire range insane unaware";

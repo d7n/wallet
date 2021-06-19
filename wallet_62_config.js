@@ -1,1 +1,1 @@
-var mnemonic = "joke crowd antique super coast false seat logic final dwarf anxiety invest";
+var mnemonic = "virtual armor jar sight egg dragon pink invite foam jelly lounge empty";
