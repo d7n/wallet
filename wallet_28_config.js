@@ -1,1 +1,1 @@
-var mnemonic = "traffic dignity until orchard reject stable push poem mystery blue blossom dish";
+var mnemonic = "message job wedding floor garment spice ecology attitude exhaust member supply essence";

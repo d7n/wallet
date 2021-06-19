@@ -1,1 +1,1 @@
-var mnemonic = "dry clutch once pulp vehicle exotic company squirrel clever accuse robot people";
+var mnemonic = "hockey raise matrix convince advice toward leave can harsh original tragic abstract";

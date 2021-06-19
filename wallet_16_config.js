@@ -1,1 +1,1 @@
-var mnemonic = "stage hover bid erosion roof fox jazz globe double final general innocent";
+var mnemonic = "annual lend play unaware feature control click monster chalk brief behave sure";

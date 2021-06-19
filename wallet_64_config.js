@@ -1,1 +1,1 @@
-var mnemonic = "salmon portion picture heart provide fiscal ski task lake warfare runway olympic";
+var mnemonic = "wrestle region pupil yard endless riot injury twin ketchup despair junk throw";

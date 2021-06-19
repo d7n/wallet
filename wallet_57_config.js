@@ -1,1 +1,1 @@
-var mnemonic = "tone blood art urge doctor stairs pause lion apology dog strong boring";
+var mnemonic = "purpose dice staff brown cereal bunker drill idea giggle car detail brisk";

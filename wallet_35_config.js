@@ -1,1 +1,1 @@
-var mnemonic = "clean wall illness ceiling shift border old brief alert century coil verify";
+var mnemonic = "ginger home since next doctor sail wide return attract humor orchard neither";

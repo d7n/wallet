@@ -1,1 +1,1 @@
-var mnemonic = "drive toe approve trumpet soap image park boat focus success skate engage";
+var mnemonic = "garment also title sleep luxury expire nothing draft scorpion tobacco uniform inject";

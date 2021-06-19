@@ -1,1 +1,1 @@
-var mnemonic = "museum winner gather fringe laundry antenna search wheel canoe meadow farm joke";
+var mnemonic = "wage goddess iron maze talk fringe copy knife limb whale faith usual";

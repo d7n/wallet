@@ -1,1 +1,1 @@
-var mnemonic = "caught food dose engage glide network exist tumble lend raccoon thunder possible";
+var mnemonic = "erupt distance cause rebel follow milk angry laptop bomb soon invite range";

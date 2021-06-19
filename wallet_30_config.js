@@ -1,1 +1,1 @@
-var mnemonic = "morning boss neutral crazy orchard top assume doctor digital tourist dash tape";
+var mnemonic = "type power spy umbrella few delay wash trigger edit addict toward talk";

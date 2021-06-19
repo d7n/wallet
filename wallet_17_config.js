@@ -1,1 +1,1 @@
-var mnemonic = "there weapon quote churn athlete cricket avoid foot destroy super renew viable";
+var mnemonic = "weasel welcome brush icon prepare today city humble circle load ancient coconut";

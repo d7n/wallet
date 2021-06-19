@@ -1,1 +1,1 @@
-var mnemonic = "organ open betray erupt genius elbow vague when position boost weasel actual";
+var mnemonic = "visual early peace twenty position protect vault scale drum palm lift switch";

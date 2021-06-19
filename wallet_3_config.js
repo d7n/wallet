@@ -1,1 +1,1 @@
-var mnemonic = "truck issue symbol rally coil faint prefer hard crime oval hidden village";
+var mnemonic = "fire area race maximum zoo depend globe lunar insane replace motor return";

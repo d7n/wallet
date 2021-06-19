@@ -1,1 +1,1 @@
-var mnemonic = "various lazy marine auto feature cradle scrub evolve alone cup display essay";
+var mnemonic = "until effort balance great table keen mad enter surface inch spring adapt";

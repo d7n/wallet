@@ -1,1 +1,1 @@
-var mnemonic = "wealth merit exile liar gap alone draft friend answer weather solar brush";
+var mnemonic = "ask until card panda ability intact arrange ugly trim quality midnight neglect";

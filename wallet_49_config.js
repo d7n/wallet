@@ -1,1 +1,1 @@
-var mnemonic = "drift board tip stone office left pipe pepper thunder invest orbit memory";
+var mnemonic = "cart wave delay produce basic bitter maple galaxy shallow lizard cigar direct";

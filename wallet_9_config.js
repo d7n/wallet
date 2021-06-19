@@ -1,1 +1,1 @@
-var mnemonic = "two shrug wrap flavor ask april snake impose crane mango poem daring";
+var mnemonic = "pond skirt observe leave multiply satisfy diamond equip scan avoid flight poverty";

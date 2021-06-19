@@ -1,1 +1,1 @@
-var mnemonic = "seek quiz issue summer erode knock laundry crunch blanket shine gift lamp";
+var mnemonic = "announce miss priority lawsuit virtual long suffer island cement ocean flip secret";

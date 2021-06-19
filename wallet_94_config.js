@@ -1,1 +1,1 @@
-var mnemonic = "salute pretty jump elegant reject keep base stairs hover leader flight unusual";
+var mnemonic = "pair ladder badge drama sure sister december marble distance give fish copper";

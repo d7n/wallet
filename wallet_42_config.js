@@ -1,1 +1,1 @@
-var mnemonic = "shock few public crazy response nominee sweet brush six anchor near script";
+var mnemonic = "pepper invest next nephew maple cigar bleak letter pill zone adjust gap";

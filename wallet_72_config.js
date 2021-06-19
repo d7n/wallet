@@ -1,1 +1,1 @@
-var mnemonic = "fiction latin wagon leaf ice tomato hurdle cool bottom pill ankle essence";
+var mnemonic = "sad increase struggle method ecology tower allow cube civil patient frequent unfold";

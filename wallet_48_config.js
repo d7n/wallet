@@ -1,1 +1,1 @@
-var mnemonic = "purchase modify high cruise sugar ramp bag picnic unveil club shove behind";
+var mnemonic = "alien tortoise tuna dizzy online wash payment nice edge absent walk pen";

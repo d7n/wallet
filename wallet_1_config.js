@@ -1,1 +1,1 @@
-var mnemonic = "book cross blue arctic weasel duck upper blossom labor add cheese orphan";
+var mnemonic = "victory bicycle person leg seed tragic stomach shy sibling spider occur vicious";

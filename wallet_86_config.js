@@ -1,1 +1,1 @@
-var mnemonic = "miss pencil fossil latin vintage hockey cash depth wonder into piano logic";
+var mnemonic = "learn cram stock lecture pond eye cram inside merge give perfect because";

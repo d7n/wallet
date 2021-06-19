@@ -1,1 +1,1 @@
-var mnemonic = "indicate normal document modify fly gas force math welcome dignity merge broccoli";
+var mnemonic = "swamp spatial immune exit furnace grain pulse explain scatter post van transfer";

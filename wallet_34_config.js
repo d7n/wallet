@@ -1,1 +1,1 @@
-var mnemonic = "embark adapt giraffe place card erase since upset cabbage develop describe output";
+var mnemonic = "federal state cargo win sad thumb joke inhale below diesel elder device";

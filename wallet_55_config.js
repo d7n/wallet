@@ -1,1 +1,1 @@
-var mnemonic = "grab transfer together cotton resource drama across idea document vehicle nasty rookie";
+var mnemonic = "bullet message blouse security maximum because august ceiling tower crime gym young";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer balance gas conduct stereo seminar zoo chest tragic maple chalk art";
+var mnemonic = "peasant mother weird say lonely make copper awake help film valid quality";

@@ -1,1 +1,1 @@
-var mnemonic = "cable addict vessel theory scheme drama junk elder equal assist member affair";
+var mnemonic = "globe nephew subject child story forest wild gesture claim you civil involve";

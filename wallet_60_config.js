@@ -1,1 +1,1 @@
-var mnemonic = "voyage swift play rare appear weird faculty ability confirm avoid over replace";
+var mnemonic = "slow setup survey behave ahead key horn acid near coconut worth drive";

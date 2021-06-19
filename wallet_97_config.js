@@ -1,1 +1,1 @@
-var mnemonic = "divide box nothing excuse army avocado develop critic rebuild ill voyage insane";
+var mnemonic = "convince core valid educate shiver stay inject cloud then fine fabric north";

@@ -1,1 +1,1 @@
-var mnemonic = "else reunion hat gym horse picture matrix giraffe auction mystery action often";
+var mnemonic = "add unaware swarm exhaust wedding fantasy pencil begin visit siren envelope course";

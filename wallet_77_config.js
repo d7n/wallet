@@ -1,1 +1,1 @@
-var mnemonic = "infant dice jacket echo seed because duck point toast path october category";
+var mnemonic = "view random deny nerve payment pact bench reject return world raise sample";

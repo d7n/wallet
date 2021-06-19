@@ -1,1 +1,1 @@
-var mnemonic = "gloom quit tongue market fabric glare pool car ripple axis hard analyst";
+var mnemonic = "left charge zebra blur insect net poet option equal school little unusual";

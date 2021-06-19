@@ -1,1 +1,1 @@
-var mnemonic = "original patient share property edge ketchup regular front design alpha pyramid slide";
+var mnemonic = "frown hip galaxy attend fetch hover garment warfare any never stamp peanut";

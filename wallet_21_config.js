@@ -1,1 +1,1 @@
-var mnemonic = "spring glow net good entry about hidden morning romance upon cinnamon cactus";
+var mnemonic = "during chase upset above confirm like shoe crane poem tape update picnic";

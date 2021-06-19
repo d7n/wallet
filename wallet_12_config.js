@@ -1,1 +1,1 @@
-var mnemonic = "flower dumb crawl entry anger appear office thumb soup pluck zero tooth";
+var mnemonic = "shell wink seven sing recycle celery rebuild category cigar good edit person";

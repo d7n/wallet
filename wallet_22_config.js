@@ -1,1 +1,1 @@
-var mnemonic = "service round people today attend bind gate drum door much salt aim";
+var mnemonic = "grant frown awkward alley drastic curious minimum sea firm illness arch piece";

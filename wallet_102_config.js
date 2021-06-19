@@ -1,1 +1,1 @@
-var mnemonic = "spare cake print capital autumn salute lady inherit celery kick multiply harbor";
+var mnemonic = "civil champion radio frozen huge air away urban paper impose anchor fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "future because engine risk grit age area slogan future approve wealth path";
+var mnemonic = "float warm rocket moral account worry dolphin fix maid pink palace dry";

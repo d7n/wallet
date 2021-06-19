@@ -1,1 +1,1 @@
-var mnemonic = "inform mule depth critic nephew swallow net puzzle bread rare stomach kick";
+var mnemonic = "enrich myth merit toe already interest opinion demand rigid term mask abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "lock deposit fruit about found garbage guard welcome century wisdom envelope catalog";
+var mnemonic = "prefer badge ginger invest father birth number measure accuse wise lesson elegant";

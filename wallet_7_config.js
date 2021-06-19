@@ -1,1 +1,1 @@
-var mnemonic = "hover fortune frog monster loyal race talk open bird whisper mistake proud";
+var mnemonic = "merge broccoli since moment truth enlist abstract sleep repair gold hard brush";

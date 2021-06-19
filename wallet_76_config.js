@@ -1,1 +1,1 @@
-var mnemonic = "bring ahead chunk proof call service fish coyote treat bundle sweet flash";
+var mnemonic = "produce crane arm spy syrup cry mango reopen people portion orphan unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "heart kidney fruit thought purchase pottery open rival sunset track beauty sock";
+var mnemonic = "title flame peanut setup fortune alter soup subway uphold spoon possible chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "stadium buddy also tree reopen turn simple twist deputy educate ripple raccoon";
+var mnemonic = "wait protect oblige renew arrange bachelor empower crew pill guard joy main";

@@ -1,1 +1,1 @@
-var mnemonic = "movie patrol ocean oblige capable unlock message nephew apology truth warrior public";
+var mnemonic = "stick detail taxi awful approve enlist history scrub rate visual depart negative";

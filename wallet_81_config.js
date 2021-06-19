@@ -1,1 +1,1 @@
-var mnemonic = "tuna faith spike define expire prepare all rival prison parrot fortune already";
+var mnemonic = "moon heart blouse enforce escape pledge hand pact silent task uncover ridge";

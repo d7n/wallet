@@ -1,1 +1,1 @@
-var mnemonic = "permit sunset shoot bone frozen chalk blouse trap record sentence mammal light";
+var mnemonic = "frown main arrange thrive exotic right six meat sand rabbit oyster remain";

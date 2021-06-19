@@ -1,1 +1,1 @@
-var mnemonic = "badge peace diet lunch cry garage figure kiss kit control tourist setup";
+var mnemonic = "return south pottery pretty essay drift quantum same employ basic sausage library";

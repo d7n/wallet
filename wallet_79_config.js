@@ -1,1 +1,1 @@
-var mnemonic = "staff tornado minor file stage hello eyebrow boat strong cluster fringe meadow";
+var mnemonic = "virtual maximum certain ginger device abstract settle because amazing bag live pass";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy wreck broccoli rice since veteran frog fall march genuine idle spy";
+var mnemonic = "volcano arrow canyon crash shed bird cycle husband soon obey crack few";

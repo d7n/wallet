@@ -1,1 +1,1 @@
-var mnemonic = "loop taste void fan butter force spray stomach alone echo nose viable";
+var mnemonic = "viable tomato bread hungry gauge calm act arrow journey rather pond strong";

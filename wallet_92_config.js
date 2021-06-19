@@ -1,1 +1,1 @@
-var mnemonic = "move tail fence crumble famous aspect clarify game maximum cream fossil sure";
+var mnemonic = "subway diary anxiety east eight shoulder jungle subject surround jungle icon pair";

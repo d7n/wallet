@@ -1,1 +1,1 @@
-var mnemonic = "gown surface tide genuine carry crawl diary school enter provide transfer gun";
+var mnemonic = "survey tornado balance present memory witness powder robust hurt dismiss void cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "because monkey smart fringe picnic kitten grant never arrange guide company hospital";
+var mnemonic = "fruit picture fossil polar shove sport vintage kidney lion patch minor chronic";

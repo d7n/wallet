@@ -1,1 +1,1 @@
-var mnemonic = "capital notice hello relief impose clip course option vanish earth subject zoo";
+var mnemonic = "catalog frost pottery style woman advice write boring hunt robust dress orient";

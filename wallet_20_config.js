@@ -1,1 +1,1 @@
-var mnemonic = "title oblige buddy hood broken right below caught traffic coin correct random";
+var mnemonic = "canal return grape say pond large surge public mixture ship scare stand";

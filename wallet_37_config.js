@@ -1,1 +1,1 @@
-var mnemonic = "unknown orphan salmon bullet injury stone mask ceiling arrive chest level mobile";
+var mnemonic = "switch monitor board mystery legal blur wage stage vague cause connect outer";

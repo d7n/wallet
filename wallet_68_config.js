@@ -1,1 +1,1 @@
-var mnemonic = "suffer gift beyond disorder fan melody muffin bachelor pilot moon aware hope";
+var mnemonic = "unhappy lunch immune banner seminar goddess online uncle kite lumber latin basic";

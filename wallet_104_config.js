@@ -1,1 +1,1 @@
-var mnemonic = "comfort mansion wheel income depend mad loyal juice coin confirm armed donkey";
+var mnemonic = "brown hope gloom march funny all fetch render adult planet humor exchange";

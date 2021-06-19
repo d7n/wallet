@@ -1,1 +1,1 @@
-var mnemonic = "lonely salad hundred tattoo normal panda rebel sudden cactus thing unusual garbage";
+var mnemonic = "team garden genre divorce entire ritual wave naive decrease weird target program";

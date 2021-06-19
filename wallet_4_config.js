@@ -1,1 +1,1 @@
-var mnemonic = "jelly pioneer panic wrist direct invest electric mass state deputy chase entry";
+var mnemonic = "nurse sadness detail strong typical animal guard under beach ice eternal kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat spoon relax lunch unique priority glimpse moon below escape simple welcome";
+var mnemonic = "hold coach detail develop skin crawl expire speed noble immense gallery scrap";

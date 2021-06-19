@@ -1,1 +1,1 @@
-var mnemonic = "viable bachelor access skin humor saddle object scissors flight taste piece error";
+var mnemonic = "category crack priority galaxy buddy flavor abandon lend twin life where color";

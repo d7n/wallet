@@ -1,1 +1,1 @@
-var mnemonic = "hurt spatial disagree maple guard popular tunnel illness page acid mom random";
+var mnemonic = "coral train party eagle candy curtain seven cluster hamster lizard secret lunch";

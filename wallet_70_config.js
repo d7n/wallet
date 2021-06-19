@@ -1,1 +1,1 @@
-var mnemonic = "great carry cherry correct boring shoot tribe write purity dad stuff advice";
+var mnemonic = "school rescue pool biology enough harsh dish toy tunnel empower such talent";

@@ -1,1 +1,1 @@
-var mnemonic = "claw earth pigeon gorilla reunion merit marble critic divert garden surge whip";
+var mnemonic = "damage moon wash monkey produce ask element daring give method return swim";

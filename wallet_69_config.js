@@ -1,1 +1,1 @@
-var mnemonic = "steel impulse goddess notice play quit swamp toddler holiday hawk human below";
+var mnemonic = "degree fold version motor plunge rotate worth slender shoulder stable kingdom ethics";

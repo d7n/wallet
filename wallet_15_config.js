@@ -1,1 +1,1 @@
-var mnemonic = "just brown cotton window chronic mask never august fun swamp brown bicycle";
+var mnemonic = "clay vague silk repeat local border ivory improve matter reward hard moral";

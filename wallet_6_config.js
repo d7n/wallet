@@ -1,1 +1,1 @@
-var mnemonic = "face shell spider clean zero fit jazz cool like feature filter noble";
+var mnemonic = "plunge pepper energy what pizza void flame economy behave peace month endorse";

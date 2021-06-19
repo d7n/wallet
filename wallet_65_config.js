@@ -1,1 +1,1 @@
-var mnemonic = "luggage tragic know ginger frown left junior inhale loop pilot open switch";
+var mnemonic = "correct tourist core typical mouse plastic spoon web until awkward baby bless";

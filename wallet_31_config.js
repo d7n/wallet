@@ -1,1 +1,1 @@
-var mnemonic = "rack chest spare able laugh tree click wide frame search pull adult";
+var mnemonic = "monkey scout leaf grocery cement weekend weekend tower limb snap smart kitten";

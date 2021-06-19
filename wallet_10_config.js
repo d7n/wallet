@@ -1,1 +1,1 @@
-var mnemonic = "flip bag alter fever mirror mercy dove any vibrant flag wool lava";
+var mnemonic = "deliver blue surround twelve moon scout problem elite axis fit stand sense";

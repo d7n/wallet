@@ -1,1 +1,1 @@
-var mnemonic = "sign short regular canvas emotion advance opera bid helmet tired mosquito document";
+var mnemonic = "faith boost middle hammer spare maximum wood lazy umbrella curious athlete hammer";

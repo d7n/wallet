@@ -1,1 +1,1 @@
-var mnemonic = "empty seminar blush elegant culture mosquito merry bitter vacant humble essence source";
+var mnemonic = "evil reason volume crucial about order sponsor buffalo episode orbit enjoy assist";

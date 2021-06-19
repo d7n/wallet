@@ -1,1 +1,1 @@
-var mnemonic = "civil stick gallery file pupil royal ahead tomato future timber energy walnut";
+var mnemonic = "aware bike gap reform museum inner mom spell humble unhappy scout casual";

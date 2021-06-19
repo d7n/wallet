@@ -1,1 +1,1 @@
-var mnemonic = "more pioneer pact process kangaroo today force buzz chaos kiwi symbol short";
+var mnemonic = "pudding affair unhappy catch rent dish boss arm legal change icon alpha";

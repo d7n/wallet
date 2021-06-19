@@ -1,1 +1,1 @@
-var mnemonic = "sight you clock bulk race shrug three tube canal happy hawk velvet";
+var mnemonic = "split canvas noise valid axis tube vacuum horn young cattle keep output";

@@ -1,1 +1,1 @@
-var mnemonic = "victory tube choice oven travel remain price merry gesture impulse door bus";
+var mnemonic = "mad wink bunker shop tent element moon amateur husband win into lucky";

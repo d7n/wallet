@@ -1,1 +1,1 @@
-var mnemonic = "trumpet exclude vendor retire animal random alcohol axis light banana early peasant";
+var mnemonic = "future fury glory usual behave child erosion airport toward extend skull barrel";

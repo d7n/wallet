@@ -1,1 +1,1 @@
-var mnemonic = "lift bird exercise menu panic battle dumb grain clock winter help cherry";
+var mnemonic = "gossip river flavor lobster will ten obtain check month legend scout machine";

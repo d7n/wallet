@@ -1,1 +1,1 @@
-var mnemonic = "unable rather renew print swap antenna major venue knock supreme dove entire";
+var mnemonic = "flower address tuition gospel path ozone labor fatigue tail smile middle page";

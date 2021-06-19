@@ -1,1 +1,1 @@
-var mnemonic = "holiday pill canal fortune stand virtual correct boil multiply issue second lens";
+var mnemonic = "bean mimic palm coffee quick tragic adapt repeat weapon surface bike soup";

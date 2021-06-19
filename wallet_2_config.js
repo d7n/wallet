@@ -1,1 +1,1 @@
-var mnemonic = "only wide web depth grain guide galaxy choice wood defy oppose runway";
+var mnemonic = "acoustic mosquito awkward belt caution bean industry artwork jewel bonus inhale mind";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond want vital rebuild rough cash stamp short gym accident city slam";
+var mnemonic = "crane inch certain call wash bleak order cake slice reflect cancel weapon";

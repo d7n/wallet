@@ -1,1 +1,1 @@
-var mnemonic = "estate drill icon spawn garbage also poem emotion grab congress combine gold";
+var mnemonic = "shy faint coast banner relief sand law dragon join enroll magic term";

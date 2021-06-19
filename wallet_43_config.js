@@ -1,1 +1,1 @@
-var mnemonic = "nerve famous zero cage lab space ethics elder fancy child mixture ahead";
+var mnemonic = "spoil diamond eager genre across unknown legend profit sand inject spice flower";
