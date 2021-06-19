@@ -1,1 +1,1 @@
-var mnemonic = "breeze ladder deliver hospital drive shoe close harvest derive wolf recycle purse";
+var mnemonic = "express corn forum goat uncle invest business heavy resource tunnel say mention";

@@ -1,1 +1,1 @@
-var mnemonic = "frost jacket minor spider cart boil spoil repair illness orchard reopen letter";
+var mnemonic = "fee hazard motion insane slice daring office dad bounce allow motor junk";

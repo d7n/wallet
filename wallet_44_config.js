@@ -1,1 +1,1 @@
-var mnemonic = "change actual square stadium forward hat exact when aspect punch home grow";
+var mnemonic = "private picnic setup wagon crucial deny trade pigeon bench jacket bird under";

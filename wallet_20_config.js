@@ -1,1 +1,1 @@
-var mnemonic = "suggest west vintage behind axis fee fork neutral visa gossip advice review";
+var mnemonic = "focus test later say dust you valley narrow develop great undo mass";

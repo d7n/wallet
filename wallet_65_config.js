@@ -1,1 +1,1 @@
-var mnemonic = "good bone blouse kangaroo scrap law goose volcano outside cargo submit fringe";
+var mnemonic = "trick goose december life order throw humor shadow hope tube exit guess";

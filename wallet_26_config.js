@@ -1,1 +1,1 @@
-var mnemonic = "distance usage divorce radar media almost harbor shove topple where among where";
+var mnemonic = "ribbon more define frequent hood crumble relax reveal angle silent horror embody";

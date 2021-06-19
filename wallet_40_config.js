@@ -1,1 +1,1 @@
-var mnemonic = "cart panther fat speed floor crater pattern bundle employ despair record grow";
+var mnemonic = "debris motion sea hurt lunar census gun jacket lemon illegal hire figure";

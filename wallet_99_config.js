@@ -1,1 +1,1 @@
-var mnemonic = "slogan biology material oppose space drill glance dial exotic near code tourist";
+var mnemonic = "feed victory strike minimum moral general unable license zebra interest vibrant clock";

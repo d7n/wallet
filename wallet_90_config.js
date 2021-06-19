@@ -1,1 +1,1 @@
-var mnemonic = "link pencil lazy biology grit neck trim crystal forget advice twelve leopard";
+var mnemonic = "bitter key below inside sponsor add demise ribbon once agent toast artefact";

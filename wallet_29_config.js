@@ -1,1 +1,1 @@
-var mnemonic = "long plate judge whisper mechanic depart observe abuse vicious deputy village clarify";
+var mnemonic = "vague visa ozone muscle excite tooth mushroom bacon rally member catalog endorse";

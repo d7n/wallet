@@ -1,1 +1,1 @@
-var mnemonic = "ribbon spoil hour gain elite fatal purity choice actress admit cinnamon push";
+var mnemonic = "orchard spread curtain broccoli finger unfair pill pair suffer renew person bridge";

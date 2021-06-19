@@ -1,1 +1,1 @@
-var mnemonic = "remove island extend clock surprise powder vault garden color loud hat village";
+var mnemonic = "artwork cream frog step mean reward empty powder crawl enable ivory cruise";

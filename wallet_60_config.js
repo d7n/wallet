@@ -1,1 +1,1 @@
-var mnemonic = "empty gentle afraid muffin purpose dream arena dentist corn empty current measure";
+var mnemonic = "eyebrow boy turtle chuckle list offer kiwi trigger electric grit ensure tool";

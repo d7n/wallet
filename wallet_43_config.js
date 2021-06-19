@@ -1,1 +1,1 @@
-var mnemonic = "brush three inform behind topic scene jaguar license raccoon whip canoe ahead";
+var mnemonic = "timber broom exist slush cover inherit plug math dolphin mother thrive flat";

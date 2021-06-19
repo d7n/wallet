@@ -1,1 +1,1 @@
-var mnemonic = "observe issue region other away control penalty cry machine monster device junk";
+var mnemonic = "assist this awesome fortune pencil involve struggle pyramid excess science camp tissue";

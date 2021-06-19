@@ -1,1 +1,1 @@
-var mnemonic = "raise globe sun enroll digital pill universe brave odor always helmet nominee";
+var mnemonic = "pigeon voice deer disease margin deliver pull mountain arrive charge shrimp primary";

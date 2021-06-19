@@ -1,1 +1,1 @@
-var mnemonic = "tired track horse antique panther crawl catch stove until title taxi laptop";
+var mnemonic = "clinic safe rural hat cook glow popular tragic beauty spend discover robust";

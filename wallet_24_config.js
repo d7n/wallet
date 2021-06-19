@@ -1,1 +1,1 @@
-var mnemonic = "illegal used blouse drift genre prosper pluck pattern stone unfold level include";
+var mnemonic = "satisfy clutch choose ethics know rocket noise excite social forget fiber crop";

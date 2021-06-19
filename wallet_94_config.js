@@ -1,1 +1,1 @@
-var mnemonic = "bomb cool gas liberty ritual quality bachelor sugar outdoor chest empty normal";
+var mnemonic = "swarm exist genius crucial hub ozone liquid resemble addict bachelor father jealous";

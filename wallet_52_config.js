@@ -1,1 +1,1 @@
-var mnemonic = "output admit village girl denial sniff raven sample pass taxi deal bachelor";
+var mnemonic = "orchard together helmet consider melody menu veteran wage pill sight series habit";

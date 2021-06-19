@@ -1,1 +1,1 @@
-var mnemonic = "impulse banner supply arena oak safe unlock tank quick sustain citizen crunch";
+var mnemonic = "craft pen cupboard smooth want account rapid ecology time risk knee surprise";

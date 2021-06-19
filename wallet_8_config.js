@@ -1,1 +1,1 @@
-var mnemonic = "flower sing apple burst economy term exercise question kiwi stool paper web";
+var mnemonic = "lesson dose that flush plastic consider tragic busy hole nature panda car";

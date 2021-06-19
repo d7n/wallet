@@ -1,1 +1,1 @@
-var mnemonic = "deal copy hard answer entry lock sponsor uncle eagle october tortoise hope";
+var mnemonic = "grid hammer crack cage shine mix omit margin journey sand peanut recipe";

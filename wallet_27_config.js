@@ -1,1 +1,1 @@
-var mnemonic = "gift climb later sibling enter south say flash steel exotic boss mushroom";
+var mnemonic = "doll magic frame entire unique pretty system earth apart pudding pen cruel";

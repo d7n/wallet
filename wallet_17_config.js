@@ -1,1 +1,1 @@
-var mnemonic = "alley carry census race enjoy future teach guide cycle bundle correct fetch";
+var mnemonic = "armor text tent favorite blur off diamond balance focus that pudding dose";

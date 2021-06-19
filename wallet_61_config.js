@@ -1,1 +1,1 @@
-var mnemonic = "entire hurdle library silent tumble amateur session habit glove tag state purpose";
+var mnemonic = "rigid off harbor palace edge degree squeeze liberty express mobile scrap vote";

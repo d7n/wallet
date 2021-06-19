@@ -1,1 +1,1 @@
-var mnemonic = "imitate view cross method soft shock pencil luxury anxiety winner gasp diamond";
+var mnemonic = "where galaxy gift bonus charge fog ride ice assault soul turkey time";

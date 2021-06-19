@@ -1,1 +1,1 @@
-var mnemonic = "maple mixture dash silent gold endless helmet liquid hotel public magic resource";
+var mnemonic = "team betray pear pupil cradle once horror engine cotton midnight page hood";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror possible success best cactus idle weekend anger moment stage medal cigar";
+var mnemonic = "ahead food begin stumble step road equal reopen document wheel position bright";

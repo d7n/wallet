@@ -1,1 +1,1 @@
-var mnemonic = "ripple bring lawsuit unfold before feature net defense barrel brick black maximum";
+var mnemonic = "satisfy icon news arctic mountain knife hedgehog federal donate ecology stock slow";

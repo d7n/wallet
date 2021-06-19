@@ -1,1 +1,1 @@
-var mnemonic = "run taxi humble aim melt field insane airport question govern student expand";
+var mnemonic = "depart still all wish tent sniff cool soul drama extra giant chunk";

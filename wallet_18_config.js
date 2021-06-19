@@ -1,1 +1,1 @@
-var mnemonic = "ginger nation purchase web usage kidney pretty naive awkward soap sad share";
+var mnemonic = "drum street advice dilemma wreck book truth tattoo green search brown release";

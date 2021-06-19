@@ -1,1 +1,1 @@
-var mnemonic = "wisdom venture equip suspect brass tackle museum fish connect dish enrich genius";
+var mnemonic = "injury submit glove coffee average oil doll soon deliver enroll crowd fever";

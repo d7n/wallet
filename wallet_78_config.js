@@ -1,1 +1,1 @@
-var mnemonic = "hazard oyster tragic planet maximum time exchange nothing require flash supply sell";
+var mnemonic = "gospel trumpet amazing diamond green sun try upper test tuition swim lend";

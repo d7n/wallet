@@ -1,1 +1,1 @@
-var mnemonic = "zebra annual ice chase sibling fabric force electric act good live version";
+var mnemonic = "still raccoon wash page hour then execute super detect used stove floor";

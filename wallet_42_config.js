@@ -1,1 +1,1 @@
-var mnemonic = "antique robust cover body tuition journey need enjoy simple term pipe quote";
+var mnemonic = "afford field wall analyst vote enhance snap south head early minimum domain";

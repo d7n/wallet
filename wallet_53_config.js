@@ -1,1 +1,1 @@
-var mnemonic = "walnut vanish rail student slab craft caution nose small they riot thunder";
+var mnemonic = "liar nation sibling pass call wine horse private foster satisfy robust shoulder";

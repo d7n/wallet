@@ -1,1 +1,1 @@
-var mnemonic = "arrest entire plunge off thought grief school merit nominee off visit pipe";
+var mnemonic = "also autumn pair swallow portion oxygen laptop casual hello pioneer draw absurd";

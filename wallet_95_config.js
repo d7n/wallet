@@ -1,1 +1,1 @@
-var mnemonic = "cave when catch shrimp zero vivid dance session deny chuckle runway general";
+var mnemonic = "august vast evoke much invite order today baby mad company cousin crew";

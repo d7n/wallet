@@ -1,1 +1,1 @@
-var mnemonic = "tackle math hybrid solid coconut elephant jump dumb bind music melody vocal";
+var mnemonic = "search cover dress river glory smart exist lonely fitness artwork ticket guess";

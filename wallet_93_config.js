@@ -1,1 +1,1 @@
-var mnemonic = "panel destroy cannon youth segment taste stock basket month never keep text";
+var mnemonic = "solid naive dress that elder fold foster adapt excuse hub actual denial";

@@ -1,1 +1,1 @@
-var mnemonic = "major catalog inherit virus crazy afford priority budget grape hip effort must";
+var mnemonic = "seven uniform wave kitchen meat concert mom across vault brisk desert economy";

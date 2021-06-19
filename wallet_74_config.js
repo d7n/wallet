@@ -1,1 +1,1 @@
-var mnemonic = "brisk embody six fault catch luxury lake crush endorse invest labor glide";
+var mnemonic = "produce inmate setup inform matter rich dinner spell symbol fun admit drink";

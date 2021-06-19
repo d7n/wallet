@@ -1,1 +1,1 @@
-var mnemonic = "loud rebel left february flame chat drink coach own hedgehog drum raw";
+var mnemonic = "fitness torch identify orphan mix lake cupboard door into town aerobic future";

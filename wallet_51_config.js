@@ -1,1 +1,1 @@
-var mnemonic = "chimney bunker fiber nominee alien pony portion cluster melody naive end gaze";
+var mnemonic = "wrist mansion calm yard order eager cherry horse right code zebra van";

@@ -1,1 +1,1 @@
-var mnemonic = "guard desert breeze sorry laundry canoe home muffin nation rare say car";
+var mnemonic = "foam print furnace replace artwork cover stuff moral elder region topic collect";

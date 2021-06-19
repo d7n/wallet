@@ -1,1 +1,1 @@
-var mnemonic = "same nut insane library teach drink stove gaze cradle panda tuna crawl";
+var mnemonic = "off zebra month rebuild undo possible excite keen cloth join noble ostrich";

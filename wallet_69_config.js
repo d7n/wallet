@@ -1,1 +1,1 @@
-var mnemonic = "energy recall opinion eagle front convince detect frequent sort raccoon this price";
+var mnemonic = "dignity nasty write lock agree mask group shaft rib machine tongue lazy";

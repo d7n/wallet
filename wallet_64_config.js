@@ -1,1 +1,1 @@
-var mnemonic = "goat step fever inhale glove tooth pause street slush hurdle ivory trend";
+var mnemonic = "olympic panda sibling gloom pink capable budget casual popular garage purchase near";

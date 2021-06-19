@@ -1,1 +1,1 @@
-var mnemonic = "attend secret fish gadget welcome exact volcano whisper radar attend human easily";
+var mnemonic = "decide help blame mind always rice remember vacuum unknown rail hurt type";

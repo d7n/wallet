@@ -1,1 +1,1 @@
-var mnemonic = "wall dry globe bulb easily effort tornado wood rapid admit wait pluck";
+var mnemonic = "practice allow thunder return farm argue agree proof clay machine parrot leg";

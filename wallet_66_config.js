@@ -1,1 +1,1 @@
-var mnemonic = "inflict slice rude move trophy sell raise assault organ write giraffe abandon";
+var mnemonic = "excess gossip move hungry junior address excess pioneer ride ridge blossom panel";

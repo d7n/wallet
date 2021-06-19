@@ -1,1 +1,1 @@
-var mnemonic = "current chalk silver choice oyster hold brick mistake error tongue announce song";
+var mnemonic = "avoid goose write wide vessel fix stable matter aspect baby hamster salmon";

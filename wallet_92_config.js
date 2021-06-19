@@ -1,1 +1,1 @@
-var mnemonic = "oak wealth witness crane rent clown code security ask salute blouse model";
+var mnemonic = "immense gain eyebrow pulp cup scan trade fatigue saddle clay meadow negative";

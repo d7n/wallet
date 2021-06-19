@@ -1,1 +1,1 @@
-var mnemonic = "egg capital above crop sand apart thought mom market crush can thumb";
+var mnemonic = "spoil gallery glove fatigue tomorrow miss praise aware wall artefact address innocent";

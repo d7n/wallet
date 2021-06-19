@@ -1,1 +1,1 @@
-var mnemonic = "junior earth file number miracle acquire smoke salt guess tube cushion dutch";
+var mnemonic = "duck cycle chronic kiss street define lava orange absurd staff suffer shed";

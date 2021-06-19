@@ -1,1 +1,1 @@
-var mnemonic = "boil win myth clip cycle consider route top sense test various husband";
+var mnemonic = "invite daring bag question renew shoot detect wall swift stable buzz letter";

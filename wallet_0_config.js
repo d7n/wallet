@@ -1,1 +1,1 @@
-var mnemonic = "option eternal inject flock must edge social base card eight copy december";
+var mnemonic = "across anger cupboard original faint urban sun venue arrange capital ship improve";

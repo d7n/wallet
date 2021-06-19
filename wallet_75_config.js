@@ -1,1 +1,1 @@
-var mnemonic = "decline spend inspire gauge sleep caught boss library luggage joke army month";
+var mnemonic = "quit vacuum waste develop remove annual yard zone panic cry plate position";

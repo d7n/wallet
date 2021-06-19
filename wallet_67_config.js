@@ -1,1 +1,1 @@
-var mnemonic = "valve defy betray famous aware prize ethics auto snake shed skirt nothing";
+var mnemonic = "isolate window problem attract lamp van cinnamon rigid virus spray pumpkin female";

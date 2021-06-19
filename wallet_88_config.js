@@ -1,1 +1,1 @@
-var mnemonic = "sting slight thumb clown toddler wealth toast hill pretty crater music village";
+var mnemonic = "about rent brother brief palace radio grocery slim blood affair later cram";

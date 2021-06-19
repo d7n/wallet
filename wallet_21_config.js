@@ -1,1 +1,1 @@
-var mnemonic = "expose trust divide tribe response seed comic earth space finger ceiling capital";
+var mnemonic = "need perfect page include milk bargain foster lift raw budget define vault";

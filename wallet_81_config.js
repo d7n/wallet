@@ -1,1 +1,1 @@
-var mnemonic = "raccoon eight title bread stomach home match mercy process pull alarm body";
+var mnemonic = "atom trash business cup meadow much filter share frost apart grain elephant";

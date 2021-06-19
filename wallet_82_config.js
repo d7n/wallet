@@ -1,1 +1,1 @@
-var mnemonic = "use music excite syrup skate tomorrow dragon short loop foot believe skirt";
+var mnemonic = "wall repair choice crystal liquid slide save almost useless divorce movie helmet";

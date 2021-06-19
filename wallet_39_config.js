@@ -1,1 +1,1 @@
-var mnemonic = "table cargo tenant cage firm quit draft pioneer enjoy atom toy voyage";
+var mnemonic = "note bike kiss social electric cook green era physical comfort length rescue";

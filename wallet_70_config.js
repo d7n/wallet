@@ -1,1 +1,1 @@
-var mnemonic = "attitude shock where lunar already palace code glow middle slide crew attack";
+var mnemonic = "include wire brisk multiply soul amateur shove actress direct pilot abuse excite";

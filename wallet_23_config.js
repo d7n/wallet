@@ -1,1 +1,1 @@
-var mnemonic = "bargain retreat disagree road visual giraffe deposit joke field blouse skirt option";
+var mnemonic = "boring moon balcony muscle scissors oval thumb hole cave sunset stereo current";

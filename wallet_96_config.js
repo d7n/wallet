@@ -1,1 +1,1 @@
-var mnemonic = "sail bomb hold between skin course maze teach lift town hospital fun";
+var mnemonic = "skull blanket pitch drink camp unlock hungry limit despair system zone museum";

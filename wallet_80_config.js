@@ -1,1 +1,1 @@
-var mnemonic = "grief seminar vicious student dwarf manual humble common indoor remind try leave";
+var mnemonic = "replace picture deliver knee bread want rebuild couch little scorpion team erode";

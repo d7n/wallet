@@ -1,1 +1,1 @@
-var mnemonic = "relax strategy unique almost fix safe deputy south trick aerobic video virus";
+var mnemonic = "depart season deliver level daring rotate limit breeze anger suspect boil proof";

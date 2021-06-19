@@ -1,1 +1,1 @@
-var mnemonic = "dignity volcano vanish fatigue dog sense bracket local humble inspire guilt priority";
+var mnemonic = "mobile ignore bread stone place other cart boat poet east moral wage";

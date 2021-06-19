@@ -1,1 +1,1 @@
-var mnemonic = "this motion black output sea rural globe breeze divide gentle peasant tired";
+var mnemonic = "birth horse describe trim space amount almost engine width steel engine zebra";

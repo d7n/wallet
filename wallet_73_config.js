@@ -1,1 +1,1 @@
-var mnemonic = "tube need gossip illegal fog guess frequent average ribbon top soap husband";
+var mnemonic = "hospital fresh inside gasp violin neck other rate shift real symbol near";

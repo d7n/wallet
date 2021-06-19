@@ -1,1 +1,1 @@
-var mnemonic = "damp debris depart indicate remember custom modify powder word oil summer element";
+var mnemonic = "start boost run easy west diamond hen raise whisper require hill engine";

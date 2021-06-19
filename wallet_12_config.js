@@ -1,1 +1,1 @@
-var mnemonic = "impulse flip mass venture puzzle marriage morning thumb school fruit wasp trouble";
+var mnemonic = "reject awake tag yellow issue noble drastic cycle burden close payment grape";

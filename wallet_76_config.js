@@ -1,1 +1,1 @@
-var mnemonic = "give labor stuff giant six ceiling intact unique hotel couch state uniform";
+var mnemonic = "worth code adapt endless notice advice pipe family diagram orphan social order";

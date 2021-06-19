@@ -1,1 +1,1 @@
-var mnemonic = "industry arrest giant post tiny pretty use federal valid fever donkey ten";
+var mnemonic = "summer float dust noodle ginger either diet popular scan iron valve decline";

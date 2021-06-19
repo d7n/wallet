@@ -1,1 +1,1 @@
-var mnemonic = "beach stable begin trend super mad tobacco insect drastic drop gadget depth";
+var mnemonic = "faint rough mail frost accident desert drama kite fox pear setup security";

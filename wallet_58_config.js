@@ -1,1 +1,1 @@
-var mnemonic = "unusual gown grass patrol then worth awkward stay bus orphan random wasp";
+var mnemonic = "trash enact car wall paddle tackle connect idle doctor ignore possible quiz";

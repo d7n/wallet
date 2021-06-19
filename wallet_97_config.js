@@ -1,1 +1,1 @@
-var mnemonic = "celery young duck surprise social present sphere top moment quick merry deny";
+var mnemonic = "donkey impulse load talk race awake gadget stock ripple plunge popular chef";

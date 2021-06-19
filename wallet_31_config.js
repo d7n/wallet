@@ -1,1 +1,1 @@
-var mnemonic = "web obvious chair weasel strategy page diary family easy stairs corn skin";
+var mnemonic = "hurt lemon possible outdoor green destroy such gain debate coral stage wood";

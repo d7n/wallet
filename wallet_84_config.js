@@ -1,1 +1,1 @@
-var mnemonic = "outside jungle health extend crowd coil dismiss usual valley when fringe clay";
+var mnemonic = "capable logic crystal term drastic patch garlic dumb letter danger elevator market";

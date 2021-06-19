@@ -1,1 +1,1 @@
-var mnemonic = "trap endless display coast lock income perfect save release slogan subway force";
+var mnemonic = "volume law issue dinosaur shock lyrics cereal traffic wear quantum tissue comfort";

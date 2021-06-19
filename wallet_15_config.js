@@ -1,1 +1,1 @@
-var mnemonic = "upper mandate struggle choose improve swift jacket staff shiver gate wide bean";
+var mnemonic = "ritual surge toilet memory spoon bridge claim nation solution spoil panther wear";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor tooth lumber power fix bonus gaze question expect thing success nature";
+var mnemonic = "pencil basket skill sauce caught segment inquiry breeze shaft awesome wet unable";

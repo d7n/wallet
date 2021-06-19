@@ -1,1 +1,1 @@
-var mnemonic = "tonight panel occur hazard fiscal birth guilt simple wide leaf trial discover";
+var mnemonic = "dog virus vintage adapt minimum primary column alien uncle cry write gaze";

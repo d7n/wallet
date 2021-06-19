@@ -1,1 +1,1 @@
-var mnemonic = "cigar treat parent sentence auto adjust remember pet depend rigid cash put";
+var mnemonic = "mind shallow volume number ridge hill arm simple only salmon gadget twist";

@@ -1,1 +1,1 @@
-var mnemonic = "depend rule quiz action battle salute live utility speed key betray way";
+var mnemonic = "candy man lumber rate season member address quote tower brave rely harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "rival happy spawn vacuum mom edge duck frown sphere cliff twice gloom";
+var mnemonic = "brief pyramid table custom absorb corn duty target perfect derive more juice";

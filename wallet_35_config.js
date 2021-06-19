@@ -1,1 +1,1 @@
-var mnemonic = "spring forest banner half wrestle crazy rebuild sing butter actual brisk view";
+var mnemonic = "equal almost spoil true arm twin room visual cheese badge license obvious";
