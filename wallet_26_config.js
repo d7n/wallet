@@ -1,1 +1,1 @@
-var mnemonic = "reveal coral raven armed park left egg cereal imitate lab lyrics thrive";
+var mnemonic = "snow shoe sword city tongue point design race lava note captain broccoli";

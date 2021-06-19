@@ -1,1 +1,1 @@
-var mnemonic = "either dove world nest music orphan mask viable return book bulb pave";
+var mnemonic = "cloth wheel picnic ripple twelve moment nominee behind sight account solid blast";

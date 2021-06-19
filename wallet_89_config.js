@@ -1,1 +1,1 @@
-var mnemonic = "typical cute quality saddle among sweet session cannon gesture helmet cannon doll";
+var mnemonic = "salon wheel loop knife essence ginger deposit fluid merry kick anxiety narrow";

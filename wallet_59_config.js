@@ -1,1 +1,1 @@
-var mnemonic = "frozen suspect teach mushroom capable shoe usage orchard sell denial lonely harsh";
+var mnemonic = "people gasp pear weekend cotton license logic pepper rotate lamp police reunion";

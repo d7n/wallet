@@ -1,1 +1,1 @@
-var mnemonic = "laundry eager left lunch horror access blouse okay soul beef catch cry";
+var mnemonic = "know citizen will limb gym opinion swap crack domain debris snow rail";

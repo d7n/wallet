@@ -1,1 +1,1 @@
-var mnemonic = "cheese absurd split nephew tunnel describe domain phone gown patch isolate banner";
+var mnemonic = "judge excite bomb satisfy retreat social chicken shadow wink door define item";

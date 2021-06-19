@@ -1,1 +1,1 @@
-var mnemonic = "furnace online pig wagon teach kid lottery prepare heart destroy admit fall";
+var mnemonic = "lesson muscle abstract clever hospital dry album metal fossil orphan ring garlic";

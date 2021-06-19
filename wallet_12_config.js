@@ -1,1 +1,1 @@
-var mnemonic = "accuse reopen exclude letter strategy either lazy bridge flag derive strong animal";
+var mnemonic = "point fetch announce smoke lyrics bone letter hub topic marble thunder rude";

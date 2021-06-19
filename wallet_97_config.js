@@ -1,1 +1,1 @@
-var mnemonic = "connect estate essence milk whisper addict switch weather fiber dune pluck evidence";
+var mnemonic = "amount rain pen spike member dose today noodle frost inner bulk fork";

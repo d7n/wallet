@@ -1,1 +1,1 @@
-var mnemonic = "credit orange rib oak pluck sting suit satisfy wasp clap erupt embark";
+var mnemonic = "uncover rare culture proud close art gorilla move between evidence pulp panda";

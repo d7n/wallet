@@ -1,1 +1,1 @@
-var mnemonic = "expire under stand mean lounge scout garage snow census expand gorilla badge";
+var mnemonic = "early bounce slab say razor outer embark tell pull injury violin black";

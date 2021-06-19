@@ -1,1 +1,1 @@
-var mnemonic = "fuel pigeon coin whip island borrow camp dinner empower when can kiwi";
+var mnemonic = "decline domain barrel april cargo photo erosion tide diary scale glance improve";

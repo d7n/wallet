@@ -1,1 +1,1 @@
-var mnemonic = "lion obvious problem admit fatigue friend girl canal east silk swear globe";
+var mnemonic = "write stumble denial attack consider sing turtle title custom airport garment upset";

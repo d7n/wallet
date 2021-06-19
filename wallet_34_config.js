@@ -1,1 +1,1 @@
-var mnemonic = "timber dose security trap dilemma approve reunion title fossil gym social quality";
+var mnemonic = "later nest stove pride hunt mother vibrant welcome fiber resemble jump blossom";

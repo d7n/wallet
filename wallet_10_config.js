@@ -1,1 +1,1 @@
-var mnemonic = "demise major right fine broken hint clean equip nut turkey hill round";
+var mnemonic = "smooth panic maze turkey surprise weird alcohol skate immune photo excuse intact";

@@ -1,1 +1,1 @@
-var mnemonic = "say soft usual marble rice access chalk sponsor admit punch open benefit";
+var mnemonic = "door diesel august wood enact curtain orchard buzz off enlist learn morning";

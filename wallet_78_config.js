@@ -1,1 +1,1 @@
-var mnemonic = "bus erode fiber into inherit muffin belt south stadium tide jelly army";
+var mnemonic = "measure balcony canal planet fun brisk point rabbit embark enemy chuckle version";

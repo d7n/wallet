@@ -1,1 +1,1 @@
-var mnemonic = "upon interest clown settle east broccoli viable copy dust tattoo fragile enforce";
+var mnemonic = "frame cabin vivid fix merge decline plug exile tide spawn desert idea";

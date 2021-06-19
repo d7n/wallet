@@ -1,1 +1,1 @@
-var mnemonic = "mad vague book waste team network social capital stomach believe aim ask";
+var mnemonic = "father shield tomato blanket night time teach phrase danger dove curtain stone";

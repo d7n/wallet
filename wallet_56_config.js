@@ -1,1 +1,1 @@
-var mnemonic = "token close nest spot column boat present beauty output fiction detail effort";
+var mnemonic = "permit hotel vessel anger indoor myself become attend giggle caution butter move";

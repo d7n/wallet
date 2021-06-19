@@ -1,1 +1,1 @@
-var mnemonic = "drop judge until arrest unfold finger potato cake exotic tattoo draft among";
+var mnemonic = "ability film tumble yard spread prevent bar minute drive foot rail whale";

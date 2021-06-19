@@ -1,1 +1,1 @@
-var mnemonic = "problem nut admit cradle script rookie warrior test phone uniform flight crash";
+var mnemonic = "special salon emotion day movie agent blame train chimney frame paddle random";

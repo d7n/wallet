@@ -1,1 +1,1 @@
-var mnemonic = "siren helmet anxiety churn just style flee age swap stable hockey crowd";
+var mnemonic = "burden miracle solution extra inner hand luxury term mistake lens idle miss";

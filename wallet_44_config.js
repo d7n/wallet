@@ -1,1 +1,1 @@
-var mnemonic = "video burger sister mother pioneer knee dutch march mad scrap gravity comfort";
+var mnemonic = "high demand trap purity situate afford night stomach elegant steel turtle dish";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder dish donor number venture assume sponsor frost prison tortoise pilot velvet";
+var mnemonic = "caution dry gap day crew rhythm normal glide maple stadium drift excite";

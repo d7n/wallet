@@ -1,1 +1,1 @@
-var mnemonic = "harbor clap extend knee gorilla you brass ridge letter devote base onion";
+var mnemonic = "rose you load pelican shoot collect love income recipe maid essay vacant";

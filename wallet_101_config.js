@@ -1,1 +1,1 @@
-var mnemonic = "combine produce slide chapter because cigar lady month open churn group session";
+var mnemonic = "tower nice empty federal hole patient execute panel panther cute cannon stand";

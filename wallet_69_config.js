@@ -1,1 +1,1 @@
-var mnemonic = "genre life unveil muffin shop random common leg exclude pepper clean mixture";
+var mnemonic = "bottom arrive gas vital kind ship grass acoustic enlist myth live direct";

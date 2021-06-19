@@ -1,1 +1,1 @@
-var mnemonic = "album pledge hire lend excite bright light setup infant nominee claw olive";
+var mnemonic = "grid grape woman desert image universe clap badge journey edge staff affair";

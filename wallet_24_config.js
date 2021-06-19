@@ -1,1 +1,1 @@
-var mnemonic = "material blossom capable observe absurd swift reform lunch foam clarify weird admit";
+var mnemonic = "clerk tonight squeeze used base legend fossil trap snack okay review indoor";

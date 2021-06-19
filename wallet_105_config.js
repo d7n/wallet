@@ -1,1 +1,1 @@
-var mnemonic = "moon innocent hospital isolate oppose idea song invite purity voyage humble ability";
+var mnemonic = "impose antenna fame uniform pretty minor travel oil habit submit hotel share";

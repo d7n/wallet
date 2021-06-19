@@ -1,1 +1,1 @@
-var mnemonic = "pear bachelor balance bread grid pet unhappy horse reveal once thumb yellow";
+var mnemonic = "staff critic green runway fatal tourist magic desk sting mom worry glance";

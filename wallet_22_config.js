@@ -1,1 +1,1 @@
-var mnemonic = "stereo picnic old flat regular hurt prepare view fiction snake wisdom nasty";
+var mnemonic = "scare emotion cement unusual stadium apart silly refuse town knee sibling size";

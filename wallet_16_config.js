@@ -1,1 +1,1 @@
-var mnemonic = "erosion chuckle joke hockey blanket when tell brush physical globe inform raccoon";
+var mnemonic = "mask adapt ceiling bottom then palace fatigue cable legend boss ride race";

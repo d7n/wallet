@@ -1,1 +1,1 @@
-var mnemonic = "gadget reform always post wagon seven route jewel double dignity bid save";
+var mnemonic = "core dignity carry swap grain truth awake orphan forum scan slide drum";

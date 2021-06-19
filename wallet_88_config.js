@@ -1,1 +1,1 @@
-var mnemonic = "sad various tragic chat battle wet toilet quarter timber range design sword";
+var mnemonic = "bamboo staff hill tobacco refuse assault child disagree harvest assist drop flower";

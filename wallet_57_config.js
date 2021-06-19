@@ -1,1 +1,1 @@
-var mnemonic = "buyer stumble avocado correct carbon order delay veteran purse kitten fall dry";
+var mnemonic = "key cupboard select climb hat daughter fitness illness pulse essay elevator settle";

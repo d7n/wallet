@@ -1,1 +1,1 @@
-var mnemonic = "earth sentence ozone term violin grass leader equal abstract ghost switch cable";
+var mnemonic = "unable forget check exhibit tortoise just series nature supreme bless insane phone";

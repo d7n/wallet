@@ -1,1 +1,1 @@
-var mnemonic = "skin hen boil prefer judge detail install melt decorate sudden hill choice";
+var mnemonic = "ripple sweet symbol rib element sweet grid design gospel find post amateur";

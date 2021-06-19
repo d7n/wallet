@@ -1,1 +1,1 @@
-var mnemonic = "letter guide cool army humor age response measure captain gate steel hair";
+var mnemonic = "save rack survey dignity add edit cry bitter rescue alien jewel dismiss";

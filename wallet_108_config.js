@@ -1,1 +1,1 @@
-var mnemonic = "hill weather exercise true know candy risk insane month spoil bread tongue";
+var mnemonic = "arrive slush garment idle turn cluster remind wreck february space orange glance";

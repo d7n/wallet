@@ -1,1 +1,1 @@
-var mnemonic = "cabin embark frog now online wrestle fringe one trash affair group owner";
+var mnemonic = "violin border actual forest toilet hair surround suffer typical battle please shell";

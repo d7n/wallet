@@ -1,1 +1,1 @@
-var mnemonic = "text head forest must assume engine forget pole shock crack barely impact";
+var mnemonic = "easy perfect view mansion horn heart minor crater fog brass car cigar";

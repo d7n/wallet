@@ -1,1 +1,1 @@
-var mnemonic = "extend gossip large dice print stuff mass entry spoil praise cluster tower";
+var mnemonic = "cabbage bottom lake anger day scrap piece half hire barrel inner goose";

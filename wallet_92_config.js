@@ -1,1 +1,1 @@
-var mnemonic = "token income vapor blanket place achieve salute couple net sense wrap mistake";
+var mnemonic = "potato siren video sunny memory million rate coin under carry transfer same";

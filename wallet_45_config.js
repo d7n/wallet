@@ -1,1 +1,1 @@
-var mnemonic = "method frequent target point artwork improve accuse convince want zebra cactus network";
+var mnemonic = "issue suspect spoil will manage helmet oxygen bounce citizen history boost pride";

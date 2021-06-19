@@ -1,1 +1,1 @@
-var mnemonic = "planet order exile quiz home sand cannon laptop extend sheriff oppose tiger";
+var mnemonic = "pass frown enforce minute reveal arrange creek strategy wolf sauce sad rice";

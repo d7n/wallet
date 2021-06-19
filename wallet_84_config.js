@@ -1,1 +1,1 @@
-var mnemonic = "purse match suspect scheme armed tank length concert dentist segment amazing moral";
+var mnemonic = "father blame security vivid typical loop door lake flock false virus slush";

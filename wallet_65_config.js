@@ -1,1 +1,1 @@
-var mnemonic = "hover spend busy regular dinosaur hollow deliver drum obtain cake end post";
+var mnemonic = "bacon rotate return bring egg slab hill family strike safe country setup";

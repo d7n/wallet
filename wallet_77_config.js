@@ -1,1 +1,1 @@
-var mnemonic = "heavy taxi glory frown fossil turtle resist exotic phrase mouse outdoor jacket";
+var mnemonic = "amount fruit pipe action canvas snack sport robot nation poverty decorate quit";

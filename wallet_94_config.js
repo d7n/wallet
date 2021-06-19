@@ -1,1 +1,1 @@
-var mnemonic = "state spare hope dust oak input banner click draft whip raw rib";
+var mnemonic = "nominee hope brick inform rude snow initial fly west table cart cry";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup enrich arctic orchard copper conduct maple venture icon magnet normal basket";
+var mnemonic = "cactus virtual comic column acquire cattle confirm woman present blush zebra favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "tilt harsh three mobile pelican flock uncover unusual below sick enter title";
+var mnemonic = "still empty measure flush leopard fluid bread dismiss size easy away silent";

@@ -1,1 +1,1 @@
-var mnemonic = "expect involve card kind video talent picture fantasy powder treat harvest face";
+var mnemonic = "current shrimp hollow crop increase royal favorite pencil fringe clap all cage";

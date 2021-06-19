@@ -1,1 +1,1 @@
-var mnemonic = "all naive digital pilot vanish flight normal rack evil daughter common address";
+var mnemonic = "clog ginger stage cattle gather already library vote local muscle sunny you";

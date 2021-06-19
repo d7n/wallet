@@ -1,1 +1,1 @@
-var mnemonic = "wide attitude sound interest exit average horror decline aunt position survey catalog";
+var mnemonic = "that few kangaroo law dilemma inmate never deer antenna park people height";

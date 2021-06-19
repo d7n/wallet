@@ -1,1 +1,1 @@
-var mnemonic = "empty label cotton brush physical fruit text wisdom fiscal total allow arena";
+var mnemonic = "chief brain cannon clarify mention metal alien forest original panther muffin syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "step awkward cake rhythm pond into toy lion coconut champion inside ancient";
+var mnemonic = "habit photo crane wild artefact party armed sibling kangaroo obtain jump fire";

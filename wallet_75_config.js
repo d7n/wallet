@@ -1,1 +1,1 @@
-var mnemonic = "butter vacuum cigar brave labor ugly stamp base crush derive luggage addict";
+var mnemonic = "best crazy wonder thrive ketchup water zoo flip credit effort index pattern";

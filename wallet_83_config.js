@@ -1,1 +1,1 @@
-var mnemonic = "make urban unusual casino give sniff candy weather festival measure recycle picture";
+var mnemonic = "medal decorate valley copy raccoon math curious surge account curve famous maid";

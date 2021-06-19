@@ -1,1 +1,1 @@
-var mnemonic = "spend trust galaxy organ input mail mixture attend cancel patient wire reason";
+var mnemonic = "pony broom penalty bonus illegal state economy bring true service trumpet jump";

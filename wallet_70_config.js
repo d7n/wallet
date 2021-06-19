@@ -1,1 +1,1 @@
-var mnemonic = "way fix fee chef useful hair connect strategy palm radar october sock";
+var mnemonic = "guilt april pass cute recycle lobster shuffle mushroom canal scrap legal joy";

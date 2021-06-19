@@ -1,1 +1,1 @@
-var mnemonic = "light stumble glow drill milk frown winter ribbon obey jar wire quality";
+var mnemonic = "frame vacant material fun hole until mutual ranch outdoor penalty universe list";

@@ -1,1 +1,1 @@
-var mnemonic = "happy foster lens keen rebel apology double reform focus split furnace miracle";
+var mnemonic = "cash female peace envelope add traffic lend reform way sunset danger salon";

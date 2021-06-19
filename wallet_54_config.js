@@ -1,1 +1,1 @@
-var mnemonic = "parade trap stand health dune shield outdoor eight winter enough dilemma old";
+var mnemonic = "wet resist rule require arctic federal wing stage tissue pen side often";

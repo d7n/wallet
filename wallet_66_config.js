@@ -1,1 +1,1 @@
-var mnemonic = "involve fabric crumble rally awake sport glass coconut parrot rapid valve drama";
+var mnemonic = "exist depend enjoy essence disagree because decrease entire bring dress wait can";

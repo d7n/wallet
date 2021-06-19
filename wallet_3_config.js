@@ -1,1 +1,1 @@
-var mnemonic = "render sweet copy play gloom teach aunt dream armor swallow harvest soup";
+var mnemonic = "edge flight any they nose uphold repair obscure remember scene danger require";

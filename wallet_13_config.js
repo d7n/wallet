@@ -1,1 +1,1 @@
-var mnemonic = "shove rail love often easy cause ramp fury scatter twin mixed oak";
+var mnemonic = "sting actor maximum tube upon surprise invite grocery wealth giant cycle sting";

@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog letter champion trial joy unable question hundred again inch height bus";
+var mnemonic = "ladder wedding tomato proof bicycle inquiry squeeze cannon original rare crunch flat";

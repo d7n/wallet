@@ -1,1 +1,1 @@
-var mnemonic = "jewel loop manage news kitchen major original language odor assault figure immune";
+var mnemonic = "surround innocent start between exist oxygen episode letter wagon fashion weapon clerk";

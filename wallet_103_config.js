@@ -1,1 +1,1 @@
-var mnemonic = "sick indoor noise betray shrimp brisk kangaroo upon obvious alien duty spell";
+var mnemonic = "prepare clinic inherit similar buddy clutch pond chest goddess luggage submit hotel";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve soup gown mushroom flock lab recall cool soccer zone human possible";
+var mnemonic = "olympic bag snake toast else census first usual exclude gospel labor expose";

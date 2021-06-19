@@ -1,1 +1,1 @@
-var mnemonic = "wave great ignore soap nice guess success sadness cushion pair remember swear";
+var mnemonic = "delay meat wild captain spend upgrade feature theme february repair mail elevator";

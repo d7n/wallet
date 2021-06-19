@@ -1,1 +1,1 @@
-var mnemonic = "check resist story puppy east jump slush motion priority mushroom humble slab";
+var mnemonic = "rail shallow mask split punch minimum topic gadget trial robot kingdom copy";

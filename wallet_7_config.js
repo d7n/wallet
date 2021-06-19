@@ -1,1 +1,1 @@
-var mnemonic = "twin float abandon menu stable like trap elite celery garbage way chalk";
+var mnemonic = "hat one enter horse park tip assume vocal increase castle short base";

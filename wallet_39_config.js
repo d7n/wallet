@@ -1,1 +1,1 @@
-var mnemonic = "elegant street soft quantum flush pride next join innocent foam weapon squirrel";
+var mnemonic = "silly school father canvas winter turn lizard small rhythm solar fire employ";

@@ -1,1 +1,1 @@
-var mnemonic = "expire kangaroo detail vocal inspire supply solve mechanic track alcohol slogan fetch";
+var mnemonic = "notice bounce juice sand man tail diagram hour jacket repeat medal blur";

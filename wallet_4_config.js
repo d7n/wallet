@@ -1,1 +1,1 @@
-var mnemonic = "tape slow comic purchase person feel silk novel fringe lamp detail final";
+var mnemonic = "doll wonder notice same silent wrap thunder asset sight torch lend scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter cat later hotel girl young eight move sweet cattle essence crush";
+var mnemonic = "arena attitude dismiss ritual design error security identify release give length note";

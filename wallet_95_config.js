@@ -1,1 +1,1 @@
-var mnemonic = "together cry drill neglect tray donkey deny symbol tumble sphere cave route";
+var mnemonic = "eager borrow animal mammal warm warm fury convince swift section fold text";

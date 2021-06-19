@@ -1,1 +1,1 @@
-var mnemonic = "language still milk note carpet monkey spot kid sell mechanic rubber reason";
+var mnemonic = "alley recipe vehicle brush rough disorder vendor erase relief lion banana knock";

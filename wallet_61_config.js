@@ -1,1 +1,1 @@
-var mnemonic = "control dilemma recall describe fatal atom edit derive claw industry sure account";
+var mnemonic = "divide spread local crumble hotel wonder swap flavor episode arena notable execute";

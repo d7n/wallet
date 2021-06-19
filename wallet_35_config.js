@@ -1,1 +1,1 @@
-var mnemonic = "inhale home educate join onion fat unable north pilot dry yellow demise";
+var mnemonic = "winner lizard arrive plastic oval heart galaxy bridge puzzle slogan throw jewel";

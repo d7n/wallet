@@ -1,1 +1,1 @@
-var mnemonic = "airport ladder estate snap gold north cannon away mercy crouch noble either";
+var mnemonic = "desert bless hurdle concert object sound grief common wait another stage wise";

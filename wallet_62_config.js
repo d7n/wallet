@@ -1,1 +1,1 @@
-var mnemonic = "normal stuff wrestle flag visual tape apology repeat regret shaft note share";
+var mnemonic = "couch light simple paper supreme silent talk assault wood sustain rib radio";

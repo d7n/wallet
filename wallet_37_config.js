@@ -1,1 +1,1 @@
-var mnemonic = "fire update update liquid laptop carpet impose ugly split smoke broken odor";
+var mnemonic = "clever access common finish income ocean second slab carpet dry anxiety decide";
