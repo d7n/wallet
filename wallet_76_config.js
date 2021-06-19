@@ -1,1 +1,1 @@
-var mnemonic = "script park squeeze draft rough false pumpkin six trust dial enemy develop";
+var mnemonic = "oxygen night surge better artwork course today tank valley club nephew front";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest trouble sleep thank cost typical another prepare ostrich luggage rug crime";
+var mnemonic = "swap tongue clap humor erase lunar few pond success ball coin couch";

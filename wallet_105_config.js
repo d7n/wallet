@@ -1,1 +1,1 @@
-var mnemonic = "visit cereal grow absorb certain fiscal odor cradle security blur pigeon test";
+var mnemonic = "ready wing inherit drum pond drill robot surge pill valve material ugly";

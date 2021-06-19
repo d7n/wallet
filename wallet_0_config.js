@@ -1,1 +1,1 @@
-var mnemonic = "feed gold impulse adjust kidney drive pottery coach thumb point stone bitter";
+var mnemonic = "medal minor cover yellow unveil together reason possible effort scout sign cave";

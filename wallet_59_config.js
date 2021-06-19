@@ -1,1 +1,1 @@
-var mnemonic = "capable emerge visit project shoe anger brick squeeze marine gauge decide diesel";
+var mnemonic = "tail enemy matrix will excite true hello lyrics tired scrap laugh enter";

@@ -1,1 +1,1 @@
-var mnemonic = "budget alcohol wrap engine nice glad grow assume web rule sing manual";
+var mnemonic = "come broom sauce note enlist spray ski because million okay left grid";

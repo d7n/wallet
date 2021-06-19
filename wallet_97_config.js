@@ -1,1 +1,1 @@
-var mnemonic = "eagle plastic submit bridge throw draft summer vicious salute right wall melt";
+var mnemonic = "slim debris enhance draft simple pond favorite barely climb chuckle live utility";

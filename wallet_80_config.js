@@ -1,1 +1,1 @@
-var mnemonic = "stage useful senior spread eight estate fit mail spirit peace web nice";
+var mnemonic = "avoid wreck mirror project arena bean embrace hip bench next grass senior";

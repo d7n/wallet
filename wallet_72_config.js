@@ -1,1 +1,1 @@
-var mnemonic = "above exotic cover real train timber mushroom custom impact rich ensure broken";
+var mnemonic = "poverty maple weapon lend response common stumble reflect cross inside shift rebuild";

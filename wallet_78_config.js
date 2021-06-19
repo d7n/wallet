@@ -1,1 +1,1 @@
-var mnemonic = "step venture sick control story impulse poverty know clump horn memory property";
+var mnemonic = "order job provide crater fix matrix twin brave face flip supply point";

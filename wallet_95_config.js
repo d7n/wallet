@@ -1,1 +1,1 @@
-var mnemonic = "thrive width oval elbow doctor arrange coffee fun coconut figure neither father";
+var mnemonic = "motion stable neutral mirror ignore hat zebra vanish elite visa neck cattle";

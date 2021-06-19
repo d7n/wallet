@@ -1,1 +1,1 @@
-var mnemonic = "veteran figure domain dutch final across novel click screen solve become gloom";
+var mnemonic = "cram borrow lady happy broom side cement glad axis model hole consider";

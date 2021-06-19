@@ -1,1 +1,1 @@
-var mnemonic = "dentist say gold fine jelly release wine shiver patch payment cover glass";
+var mnemonic = "pistol sell muffin control coffee mind slight castle good purchase version into";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage actor dismiss gap process elegant festival social nurse catch vessel syrup";
+var mnemonic = "scene pumpkin plunge dutch torch series camera private phone panic glide gravity";

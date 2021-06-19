@@ -1,1 +1,1 @@
-var mnemonic = "genre remind armor concert labor rate squeeze exhaust alone noodle solve tonight";
+var mnemonic = "shoot shop green kit high person glare wrap task throw gasp travel";

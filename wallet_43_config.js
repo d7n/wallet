@@ -1,1 +1,1 @@
-var mnemonic = "describe hybrid nuclear enlist jazz cup letter expire black fabric immense bullet";
+var mnemonic = "pyramid rug when furnace salmon kidney prepare clay broken galaxy choice develop";

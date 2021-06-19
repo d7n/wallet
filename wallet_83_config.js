@@ -1,1 +1,1 @@
-var mnemonic = "leader blue badge garage copy glance neck live advice hungry device torch";
+var mnemonic = "rebel treat betray mountain puppy wood hat sadness angle swift miss friend";

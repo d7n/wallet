@@ -1,1 +1,1 @@
-var mnemonic = "dry earn pave squeeze teach wash mechanic equal steel dry cricket bubble";
+var mnemonic = "advance student badge hurt jaguar utility impulse jump betray work diet ill";

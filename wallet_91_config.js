@@ -1,1 +1,1 @@
-var mnemonic = "enforce old super powder friend rough limit long oxygen orphan genius opera";
+var mnemonic = "year fix used this direct gesture disease birth level rose process drill";

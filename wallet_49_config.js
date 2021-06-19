@@ -1,1 +1,1 @@
-var mnemonic = "income curve treat problem arena gain rotate acoustic result cruise off craft";
+var mnemonic = "word female submit census bone above laundry crash tourist ability fold hurry";

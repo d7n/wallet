@@ -1,1 +1,1 @@
-var mnemonic = "calm arctic select wheat discover develop leave insect special hammer reason amateur";
+var mnemonic = "capable bone caution digital because lock phrase wild olive tornado alpha doctor";

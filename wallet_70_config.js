@@ -1,1 +1,1 @@
-var mnemonic = "wrist deputy scissors gospel payment already clown catch twin tray episode lady";
+var mnemonic = "fire tree source vapor imitate quiz august stand bachelor crowd gym rubber";

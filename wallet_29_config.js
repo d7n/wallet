@@ -1,1 +1,1 @@
-var mnemonic = "kind obey emerge erode mammal cream category reunion right modify invite horror";
+var mnemonic = "lecture gather high cream gasp noodle little use wife october ripple various";

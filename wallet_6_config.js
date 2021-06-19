@@ -1,1 +1,1 @@
-var mnemonic = "orange future sausage degree gun pudding claw refuse coil picnic chair tiny";
+var mnemonic = "crunch gather buyer differ truth bulk power talk object hidden aerobic region";

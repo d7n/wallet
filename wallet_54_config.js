@@ -1,1 +1,1 @@
-var mnemonic = "ball service drama brisk fold merit worth census pulse trigger father unable";
+var mnemonic = "timber digital injury radar network valve organ circle electric breeze vital quick";

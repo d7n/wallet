@@ -1,1 +1,1 @@
-var mnemonic = "obtain enroll pair elite unfair cross mule slice uncle render balcony muffin";
+var mnemonic = "shrimp slogan wise sport nature client glass nose material isolate dog borrow";

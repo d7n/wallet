@@ -1,1 +1,1 @@
-var mnemonic = "ticket brain lecture retire abstract under rain fame neutral stand midnight pumpkin";
+var mnemonic = "tissue right bean process diet connect occur client hub reduce vast job";

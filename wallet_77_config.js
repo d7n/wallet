@@ -1,1 +1,1 @@
-var mnemonic = "memory sun quit crumble marriage antique grocery multiply senior stamp quantum more";
+var mnemonic = "glide rude strategy supply army amused profit bargain memory bitter dilemma deliver";

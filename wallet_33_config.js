@@ -1,1 +1,1 @@
-var mnemonic = "man tiger poverty cup shy token cherry explain suffer catch whip speed";
+var mnemonic = "like disagree viable desk parrot snow joke hire fire syrup spike head";

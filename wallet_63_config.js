@@ -1,1 +1,1 @@
-var mnemonic = "chronic wife execute bridge dress acoustic exit wait inflict comfort skirt notice";
+var mnemonic = "moment sand number kangaroo soccer draft soccer diamond bounce dismiss special minute";

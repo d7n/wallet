@@ -1,1 +1,1 @@
-var mnemonic = "smile trust gravity frequent bunker jar differ helmet dress away radar clay";
+var mnemonic = "resemble emerge giraffe lottery agree mention warm snap only also weekend become";

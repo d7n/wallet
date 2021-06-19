@@ -1,1 +1,1 @@
-var mnemonic = "banner matrix labor bracket clean master moment drum lawsuit parade very like";
+var mnemonic = "useless friend pizza entire try snap visual wood apart expect bind gadget";

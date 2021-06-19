@@ -1,1 +1,1 @@
-var mnemonic = "minimum shove lawn amused long happy bounce dismiss jump picture bless spy";
+var mnemonic = "awkward ticket muscle midnight era dirt inform wreck fatigue donor pyramid clever";

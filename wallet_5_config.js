@@ -1,1 +1,1 @@
-var mnemonic = "gift slide report master sister boring claw civil few dumb garment shift";
+var mnemonic = "supreme neglect track begin nose frequent video inside ugly dice mad lend";

@@ -1,1 +1,1 @@
-var mnemonic = "young match claw text trouble action traffic wall jacket path jar extra";
+var mnemonic = "fitness strike cube bird siren hunt digital bulb upset very lyrics scrap";

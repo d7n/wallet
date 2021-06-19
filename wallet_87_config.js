@@ -1,1 +1,1 @@
-var mnemonic = "drop wrestle hammer sorry donkey title giggle earth submit grape verb leisure";
+var mnemonic = "garment hospital critic pyramid list depart poverty kid minute tell curtain maple";

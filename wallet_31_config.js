@@ -1,1 +1,1 @@
-var mnemonic = "start lava mesh various loop type such child resource upon collect system";
+var mnemonic = "nephew search pumpkin track quote remain virus brand trash maze diet unknown";

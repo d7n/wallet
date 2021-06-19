@@ -1,1 +1,1 @@
-var mnemonic = "sunset young follow glance goat blouse alter salmon book awful muffin truly";
+var mnemonic = "lyrics tell enrich icon maze distance media neutral rose reunion engage stand";

@@ -1,1 +1,1 @@
-var mnemonic = "list advice quote addict garment gadget sphere special dream net welcome change";
+var mnemonic = "decorate sick bounce wife awake memory crowd dilemma similar heavy clean test";

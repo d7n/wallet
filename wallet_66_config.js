@@ -1,1 +1,1 @@
-var mnemonic = "sheriff artist episode amused ladder enroll cave wood weekend moon dad hurry";
+var mnemonic = "lucky vivid execute surprise include diamond slide fit patch future false sort";

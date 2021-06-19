@@ -1,1 +1,1 @@
-var mnemonic = "height chronic pluck deny write remain clay become era food talk license";
+var mnemonic = "power city mesh infant wall rude submit spice boring canyon metal cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb success demand broccoli grunt slender polar video night earn hybrid chicken";
+var mnemonic = "ketchup spatial punch age high layer ethics sugar reward marriage topic torch";

@@ -1,1 +1,1 @@
-var mnemonic = "settle cargo desert educate embrace slow spell antenna orphan glance pig boil";
+var mnemonic = "okay spirit exhibit faculty receive walk afford roof three frozen minor spy";

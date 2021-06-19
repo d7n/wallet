@@ -1,1 +1,1 @@
-var mnemonic = "warrior suit zebra news ginger alley image train occur erupt blast bridge";
+var mnemonic = "century around quit brick swing atom claim hurdle toward gasp hint among";

@@ -1,1 +1,1 @@
-var mnemonic = "baby three regret satisfy frozen large match blame narrow enter amused consider";
+var mnemonic = "toe cycle reduce cute favorite curious arrange axis order frame knee fly";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior write cliff field ecology scene patrol multiply manual cement cross black";
+var mnemonic = "marriage address talk reopen wear increase blood lunch uncle fat disease ridge";

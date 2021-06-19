@@ -1,1 +1,1 @@
-var mnemonic = "garage task child sponsor page corn equal winner iron survey predict album";
+var mnemonic = "summer village glide zebra field post reason rebel harbor diet tail poem";

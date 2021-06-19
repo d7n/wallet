@@ -1,1 +1,1 @@
-var mnemonic = "tuna hire mango between crucial test hidden blood present law course nature";
+var mnemonic = "smart cable win tape outside drill segment order knee dust work cheap";

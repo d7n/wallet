@@ -1,1 +1,1 @@
-var mnemonic = "judge engine whale wave judge royal clutch length mention case unique onion";
+var mnemonic = "neutral bone index where great journey party actress among simple shuffle pony";

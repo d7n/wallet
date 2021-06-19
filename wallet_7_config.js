@@ -1,1 +1,1 @@
-var mnemonic = "glance blast guitar romance check sign dignity skirt month half sad want";
+var mnemonic = "marble mail gallery chalk glare number cat teach model modify thing sister";

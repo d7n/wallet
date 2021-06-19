@@ -1,1 +1,1 @@
-var mnemonic = "symbol actual caution camp robot inmate elegant soon forget eternal dove route";
+var mnemonic = "van spy adult half visit excite window setup blush globe home mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "poem allow guitar sport coach agree upgrade execute sibling give inform cushion";
+var mnemonic = "silk lava library coil south edge mad moment breeze aware tray hawk";

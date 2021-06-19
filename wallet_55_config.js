@@ -1,1 +1,1 @@
-var mnemonic = "hollow alley price wear waste visual know inspire message cube clock law";
+var mnemonic = "fantasy salute eight hazard powder prosper sphere seed fatal lady junior flock";

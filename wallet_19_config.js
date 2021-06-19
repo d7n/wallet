@@ -1,1 +1,1 @@
-var mnemonic = "cancel trigger burden cluster expose spend cream enlist orient raise mother dirt";
+var mnemonic = "south beauty cup slim isolate arena immune filter bring fantasy ribbon wink";

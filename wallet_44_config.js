@@ -1,1 +1,1 @@
-var mnemonic = "yellow very laugh dismiss vicious gap myth caution few popular way evoke";
+var mnemonic = "garlic version great miracle kitten sense bring tilt during grace auction resist";

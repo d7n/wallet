@@ -1,1 +1,1 @@
-var mnemonic = "tube enforce gorilla history harbor cinnamon top roast cargo cheap certain sail";
+var mnemonic = "balcony dune small absorb crew food midnight gap virus wonder robust wing";

@@ -1,1 +1,1 @@
-var mnemonic = "help start trim warrior setup demise pretty that kangaroo crater tennis desk";
+var mnemonic = "ridge pottery evolve pact ripple situate disagree action ask honey adapt retreat";

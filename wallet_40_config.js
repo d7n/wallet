@@ -1,1 +1,1 @@
-var mnemonic = "average door black crouch job cream milk verb injury adult way peasant";
+var mnemonic = "glad undo swim soft uncle spare student prevent away supply blue bargain";

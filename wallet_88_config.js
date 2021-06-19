@@ -1,1 +1,1 @@
-var mnemonic = "viable stone mechanic rigid differ symbol raise review include wire lawn jaguar";
+var mnemonic = "jar office crazy spider one parent polar super famous ankle pitch glare";

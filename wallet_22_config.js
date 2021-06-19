@@ -1,1 +1,1 @@
-var mnemonic = "wine other cabbage explain music leave harvest unaware track screen disorder must";
+var mnemonic = "pretty smart gadget spirit history anxiety video omit absorb depend glove logic";

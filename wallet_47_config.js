@@ -1,1 +1,1 @@
-var mnemonic = "bind own fantasy unusual shrug prefer tomato vapor ceiling another bike multiply";
+var mnemonic = "immune bachelor steel slender suit asset this crush champion parrot dune credit";

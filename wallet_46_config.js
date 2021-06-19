@@ -1,1 +1,1 @@
-var mnemonic = "gadget side cup mobile under light clinic holiday couple bounce onion pumpkin";
+var mnemonic = "flush garlic neither stage promote embrace carbon master square check chimney depart";

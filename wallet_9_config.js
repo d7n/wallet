@@ -1,1 +1,1 @@
-var mnemonic = "wise road version theme praise scrub aerobic valley actress adult effort dwarf";
+var mnemonic = "express palm pass attract amount unveil lab reflect raise scale broccoli mansion";

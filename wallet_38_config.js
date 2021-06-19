@@ -1,1 +1,1 @@
-var mnemonic = "always grocery member spider tuition daring boost copper crucial kid magic wonder";
+var mnemonic = "solution harvest gun always disease choice speed subject example decorate chronic smart";

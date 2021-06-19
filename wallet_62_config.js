@@ -1,1 +1,1 @@
-var mnemonic = "endless gentle snow match order finger title album field leisure gauge pudding";
+var mnemonic = "grief gloom dust fault reason someone fuel cross hair end reject trip";

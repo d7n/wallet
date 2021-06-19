@@ -1,1 +1,1 @@
-var mnemonic = "obscure inmate camp all enough question range sphere fold into between slush";
+var mnemonic = "bid slice vessel door matter grit echo thing quote potato vanish logic";

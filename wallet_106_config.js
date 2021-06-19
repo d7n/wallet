@@ -1,1 +1,1 @@
-var mnemonic = "knock super write athlete minimum cement aunt hold choice market vicious wrap";
+var mnemonic = "wedding extra because correct replace lion arena over survey worth reform crystal";

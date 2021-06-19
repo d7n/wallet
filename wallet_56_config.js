@@ -1,1 +1,1 @@
-var mnemonic = "parrot alert season picnic peanut street violin noble alien category umbrella angry";
+var mnemonic = "fabric ozone icon upper stumble right nut script conduct pilot strike travel";

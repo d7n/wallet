@@ -1,1 +1,1 @@
-var mnemonic = "remove orchard lecture chapter absorb shadow grain oblige elbow angle husband grocery";
+var mnemonic = "hazard crawl release peanut clinic abstract virus crawl case horror salad tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "pet culture settle acid bonus join mixed together visual sweet stairs abstract";
+var mnemonic = "filter project chest brief soft ancient uncover soul hip useless unusual girl";

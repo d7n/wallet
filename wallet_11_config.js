@@ -1,1 +1,1 @@
-var mnemonic = "choose practice faculty corn enforce youth siren burden long praise over siren";
+var mnemonic = "assault vocal paddle calm aware shove tortoise hole pyramid usage vital poet";

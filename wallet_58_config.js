@@ -1,1 +1,1 @@
-var mnemonic = "oval mix name diamond aunt syrup soup feed random disorder slush shed";
+var mnemonic = "bus raise rent orange auto infant idea office sign solid census parrot";

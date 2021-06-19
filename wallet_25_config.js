@@ -1,1 +1,1 @@
-var mnemonic = "food nose essay farm unfair wing minute force sketch chronic remove leave";
+var mnemonic = "weekend across layer airport trip hello carry tray reveal ignore current miracle";

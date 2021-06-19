@@ -1,1 +1,1 @@
-var mnemonic = "rigid empower verb mammal sort front small inmate ceiling escape steel eager";
+var mnemonic = "album combine pottery sing visit trip link average illegal spoil month survey";

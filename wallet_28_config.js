@@ -1,1 +1,1 @@
-var mnemonic = "enough thought rib favorite worry satisfy two approve tragic thank edit dinosaur";
+var mnemonic = "gown over elegant penalty burger forest foster predict marble shield evidence tonight";

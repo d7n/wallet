@@ -1,1 +1,1 @@
-var mnemonic = "void close volume diamond topple weekend moment illness goddess honey father lecture";
+var mnemonic = "liberty debate rigid stable river vicious swing snap rent borrow foster supreme";

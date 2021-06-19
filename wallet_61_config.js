@@ -1,1 +1,1 @@
-var mnemonic = "edit then labor squeeze wrap choice thumb current pattern extra forward gas";
+var mnemonic = "runway protect fantasy start rescue rate cactus segment unlock dish keen water";

@@ -1,1 +1,1 @@
-var mnemonic = "service pepper squirrel abuse strike verify nature obscure task wet upgrade penalty";
+var mnemonic = "blind make mind call diary calm glad pen rescue tilt keep refuse";

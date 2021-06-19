@@ -1,1 +1,1 @@
-var mnemonic = "myself exact faculty fatal express replace visit already jeans robot erode vendor";
+var mnemonic = "voyage cloth advance need source tiger black episode mountain require guard saddle";

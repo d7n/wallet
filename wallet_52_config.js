@@ -1,1 +1,1 @@
-var mnemonic = "above example coral stadium make unveil carpet word indoor imitate spot toward";
+var mnemonic = "network window sea soldier attract game follow busy antenna improve second wet";

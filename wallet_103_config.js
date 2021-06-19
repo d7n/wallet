@@ -1,1 +1,1 @@
-var mnemonic = "say plunge keep latin immense worth you wife hockey use client slide";
+var mnemonic = "deer alter decade label abuse swamp race shed raise comic obscure green";

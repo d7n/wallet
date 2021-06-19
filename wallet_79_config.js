@@ -1,1 +1,1 @@
-var mnemonic = "silver twelve jacket flag lady elegant cage normal senior dial husband state";
+var mnemonic = "tray autumn impose print hood whisper advance ability tattoo drum alley unfair";

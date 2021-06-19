@@ -1,1 +1,1 @@
-var mnemonic = "recall oblige honey injury federal afford save action shoe burden accuse void";
+var mnemonic = "coast shove echo reform tumble hazard atom room dice swift title current";

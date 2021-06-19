@@ -1,1 +1,1 @@
-var mnemonic = "weird impose table valley swap apology farm magic deal label spray major";
+var mnemonic = "place urban eagle ride noise hip require mean buddy gather good loop";

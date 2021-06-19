@@ -1,1 +1,1 @@
-var mnemonic = "attitude stable swarm infant staff owner best drink popular hole family develop";
+var mnemonic = "click snake eight wire month mandate style relax hover slab farm lobster";

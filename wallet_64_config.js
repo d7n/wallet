@@ -1,1 +1,1 @@
-var mnemonic = "fat useful little garment between search nut trash climb enjoy fall cube";
+var mnemonic = "item follow inject cheese helmet palm viable cry vacant kitten what tomorrow";

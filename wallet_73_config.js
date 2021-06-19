@@ -1,1 +1,1 @@
-var mnemonic = "trap garbage awful man country twin scrub case pond invest limb elbow";
+var mnemonic = "confirm ancient country hope divert dirt wall awesome fiscal merge kingdom sword";

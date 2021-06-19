@@ -1,1 +1,1 @@
-var mnemonic = "kingdom sea fork divide they erosion candy fine matter timber assist scrub";
+var mnemonic = "toss wise learn essence panic wood truck twist cream position belt typical";

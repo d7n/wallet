@@ -1,1 +1,1 @@
-var mnemonic = "lava neck erode unfold address essay enough repeat blush cart thought foot";
+var mnemonic = "lemon hollow option undo allow label joke squirrel cloud filter jar over";

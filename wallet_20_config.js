@@ -1,1 +1,1 @@
-var mnemonic = "turtle trash praise laptop rebuild asset truck squeeze roof blanket prison cement";
+var mnemonic = "join journey assume isolate office stamp metal strike planet rug gap cluster";
