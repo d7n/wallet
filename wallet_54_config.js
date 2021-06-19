@@ -1,1 +1,1 @@
-var mnemonic = "benefit truly system beauty secret become iron mean oppose inflict winner author";
+var mnemonic = "ball service drama brisk fold merit worth census pulse trigger father unable";

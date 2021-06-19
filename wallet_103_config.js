@@ -1,1 +1,1 @@
-var mnemonic = "upon ozone clever recall loop curtain enrich crack dash rough arrest square";
+var mnemonic = "say plunge keep latin immense worth you wife hockey use client slide";

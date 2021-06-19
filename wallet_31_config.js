@@ -1,1 +1,1 @@
-var mnemonic = "expand brisk network peanut inquiry empty follow visa gown nice shield access";
+var mnemonic = "start lava mesh various loop type such child resource upon collect system";

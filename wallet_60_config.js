@@ -1,1 +1,1 @@
-var mnemonic = "wage vague shrimp coyote sail coyote outer beauty damp seed actress oxygen";
+var mnemonic = "obtain enroll pair elite unfair cross mule slice uncle render balcony muffin";

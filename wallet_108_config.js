@@ -1,1 +1,1 @@
-var mnemonic = "unhappy bubble float scissors lock cheap use morning lucky brief sadness steak";
+var mnemonic = "minimum shove lawn amused long happy bounce dismiss jump picture bless spy";

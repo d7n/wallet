@@ -1,1 +1,1 @@
-var mnemonic = "powder flower blood time october force mask broccoli valley party ball embody";
+var mnemonic = "service pepper squirrel abuse strike verify nature obscure task wet upgrade penalty";

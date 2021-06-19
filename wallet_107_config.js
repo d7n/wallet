@@ -1,1 +1,1 @@
-var mnemonic = "poet ski pact vicious razor young pride leave arrive bullet chuckle tackle";
+var mnemonic = "attitude stable swarm infant staff owner best drink popular hole family develop";

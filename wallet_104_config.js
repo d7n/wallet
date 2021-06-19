@@ -1,1 +1,1 @@
-var mnemonic = "soccer fiber renew van economy belt broken nerve praise dismiss large hint";
+var mnemonic = "dry earn pave squeeze teach wash mechanic equal steel dry cricket bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd spy author rule horror cousin sound lab blood round undo blouse";
+var mnemonic = "orange future sausage degree gun pudding claw refuse coil picnic chair tiny";

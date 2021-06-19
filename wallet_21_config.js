@@ -1,1 +1,1 @@
-var mnemonic = "kind frost heavy dream galaxy giggle feel edge attend heavy mesh rose";
+var mnemonic = "sunset young follow glance goat blouse alter salmon book awful muffin truly";

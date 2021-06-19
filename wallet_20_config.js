@@ -1,1 +1,1 @@
-var mnemonic = "swim again arrange medal slam puppy chief silk kitten antenna inch noble";
+var mnemonic = "turtle trash praise laptop rebuild asset truck squeeze roof blanket prison cement";

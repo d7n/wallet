@@ -1,1 +1,1 @@
-var mnemonic = "pupil quiz lock brief noodle enhance fever high what menu doll hammer";
+var mnemonic = "drop wrestle hammer sorry donkey title giggle earth submit grape verb leisure";

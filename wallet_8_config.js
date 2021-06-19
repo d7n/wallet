@@ -1,1 +1,1 @@
-var mnemonic = "trigger fabric leaf sorry rotate aim safe say middle noodle voice hat";
+var mnemonic = "blind pledge organ pause uphold yard burden orange maid start medal ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel police very adapt muscle normal offer popular helmet nephew denial latin";
+var mnemonic = "feed gold impulse adjust kidney drive pottery coach thumb point stone bitter";

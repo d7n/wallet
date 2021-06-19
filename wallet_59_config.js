@@ -1,1 +1,1 @@
-var mnemonic = "ball humble vessel monitor cheese scorpion blast example alone eyebrow hover rigid";
+var mnemonic = "capable emerge visit project shoe anger brick squeeze marine gauge decide diesel";

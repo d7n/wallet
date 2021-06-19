@@ -1,1 +1,1 @@
-var mnemonic = "loan local solution palace swarm wide order potato used paddle bean slim";
+var mnemonic = "enforce old super powder friend rough limit long oxygen orphan genius opera";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble school weather priority harsh citizen increase feed harbor jelly long blood";
+var mnemonic = "bracket word always cram kiwi seek enact stem trash wild idea matrix";

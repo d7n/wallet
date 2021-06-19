@@ -1,1 +1,1 @@
-var mnemonic = "heart labor comic venue outer helmet wheat employ flip find toward horn";
+var mnemonic = "food nose essay farm unfair wing minute force sketch chronic remove leave";

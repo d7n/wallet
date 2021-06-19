@@ -1,1 +1,1 @@
-var mnemonic = "deer oxygen coral vault drift involve clay cake barely snow shaft day";
+var mnemonic = "funny license easily claim develop artist copy reflect carpet demand wealth village";

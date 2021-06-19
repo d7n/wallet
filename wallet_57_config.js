@@ -1,1 +1,1 @@
-var mnemonic = "forum always wonder run better party square tray cupboard reform rate flame";
+var mnemonic = "warrior suit zebra news ginger alley image train occur erupt blast bridge";

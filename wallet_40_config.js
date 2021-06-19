@@ -1,1 +1,1 @@
-var mnemonic = "current soccer glove swim mean exist wall wagon casual whale twice enhance";
+var mnemonic = "average door black crouch job cream milk verb injury adult way peasant";

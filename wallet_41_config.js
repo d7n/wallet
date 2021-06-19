@@ -1,1 +1,1 @@
-var mnemonic = "quit sunset volcano jewel hurdle come skirt sponsor knife ankle still glare";
+var mnemonic = "baby three regret satisfy frozen large match blame narrow enter amused consider";

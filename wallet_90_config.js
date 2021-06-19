@@ -1,1 +1,1 @@
-var mnemonic = "shock battle denial ostrich oil hollow notable cloth claim valve fly proof";
+var mnemonic = "ticket brain lecture retire abstract under rain fame neutral stand midnight pumpkin";

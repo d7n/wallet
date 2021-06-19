@@ -1,1 +1,1 @@
-var mnemonic = "bicycle better tonight note risk effort dilemma rude slogan sheriff hint cloth";
+var mnemonic = "help start trim warrior setup demise pretty that kangaroo crater tennis desk";

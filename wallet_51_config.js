@@ -1,1 +1,1 @@
-var mnemonic = "fiscal oil argue quarter swap fire grain enlist local trash prepare frown";
+var mnemonic = "medal crane edit bleak thought comfort infant great net tiger spice argue";

@@ -1,1 +1,1 @@
-var mnemonic = "hollow deal square frequent accuse night chaos confirm decide rocket file goose";
+var mnemonic = "oval mix name diamond aunt syrup soup feed random disorder slush shed";

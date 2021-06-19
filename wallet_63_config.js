@@ -1,1 +1,1 @@
-var mnemonic = "senior around wife race fabric rich employ neutral hurdle evolve toddler quiz";
+var mnemonic = "chronic wife execute bridge dress acoustic exit wait inflict comfort skirt notice";

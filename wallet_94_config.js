@@ -1,1 +1,1 @@
-var mnemonic = "jaguar used once salute spend disease laugh method element ensure cycle captain";
+var mnemonic = "weasel express dream cruel can body miracle runway right early copper quit";

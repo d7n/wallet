@@ -1,1 +1,1 @@
-var mnemonic = "reduce protect drum lobster level setup later auction market miracle laptop rely";
+var mnemonic = "heavy elegant error ignore material light mass park sick hair ignore hotel";

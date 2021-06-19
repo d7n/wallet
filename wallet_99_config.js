@@ -1,1 +1,1 @@
-var mnemonic = "target pelican caution tired bleak physical hole duty faint dune hedgehog shed";
+var mnemonic = "tuna hire mango between crucial test hidden blood present law course nature";

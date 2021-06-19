@@ -1,1 +1,1 @@
-var mnemonic = "health chicken hidden spin kite mule reopen trip door reflect visa control";
+var mnemonic = "carry symptom paddle raccoon region cereal fury ring clown goat property stairs";

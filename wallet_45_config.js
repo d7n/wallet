@@ -1,1 +1,1 @@
-var mnemonic = "lizard clown bean bicycle tag credit sense essence end goddess today birth";
+var mnemonic = "void close volume diamond topple weekend moment illness goddess honey father lecture";

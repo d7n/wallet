@@ -1,1 +1,1 @@
-var mnemonic = "charge student fog office umbrella figure smart month early describe pipe stool";
+var mnemonic = "settle cargo desert educate embrace slow spell antenna orphan glance pig boil";

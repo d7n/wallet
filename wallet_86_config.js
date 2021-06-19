@@ -1,1 +1,1 @@
-var mnemonic = "fish antenna anger scheme avocado gate blame photo survey lion pilot bridge";
+var mnemonic = "calm arctic select wheat discover develop leave insect special hammer reason amateur";

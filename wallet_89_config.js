@@ -1,1 +1,1 @@
-var mnemonic = "focus gather blood dilemma grab zero unknown good neutral tragic hotel cheap";
+var mnemonic = "spice knife danger pond civil exotic fossil correct bacon crystal chair palm";

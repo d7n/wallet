@@ -1,1 +1,1 @@
-var mnemonic = "argue rib convince disease rate civil document make genius crew shed suggest";
+var mnemonic = "wise road version theme praise scrub aerobic valley actress adult effort dwarf";

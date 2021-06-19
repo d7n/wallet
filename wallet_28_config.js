@@ -1,1 +1,1 @@
-var mnemonic = "acquire layer fatal jeans argue spring tell magic denial degree tribe again";
+var mnemonic = "enough thought rib favorite worry satisfy two approve tragic thank edit dinosaur";

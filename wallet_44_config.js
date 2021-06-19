@@ -1,1 +1,1 @@
-var mnemonic = "witness unique misery couple wisdom mom unit inspire snow legend beauty act";
+var mnemonic = "yellow very laugh dismiss vicious gap myth caution few popular way evoke";

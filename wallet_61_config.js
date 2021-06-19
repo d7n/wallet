@@ -1,1 +1,1 @@
-var mnemonic = "code sponsor obscure lunar blossom enough bench book keep decade breeze blame";
+var mnemonic = "edit then labor squeeze wrap choice thumb current pattern extra forward gas";

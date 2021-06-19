@@ -1,1 +1,1 @@
-var mnemonic = "reject divide steel mixed cream pink impact hat expose satisfy ridge wagon";
+var mnemonic = "entry mandate drastic pottery fitness price end prevent merit noodle tuna soda";

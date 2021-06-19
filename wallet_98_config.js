@@ -1,1 +1,1 @@
-var mnemonic = "pull input solar piece sword grit tower ball happy dream jacket floor";
+var mnemonic = "young match claw text trouble action traffic wall jacket path jar extra";

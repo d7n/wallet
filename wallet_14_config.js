@@ -1,1 +1,1 @@
-var mnemonic = "interest design decrease family display when lens warm gun clump open dune";
+var mnemonic = "genre remind armor concert labor rate squeeze exhaust alone noodle solve tonight";

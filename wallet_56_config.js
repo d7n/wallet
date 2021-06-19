@@ -1,1 +1,1 @@
-var mnemonic = "noodle catch exile coin swarm unveil roast valley border ten pact inject";
+var mnemonic = "parrot alert season picnic peanut street violin noble alien category umbrella angry";

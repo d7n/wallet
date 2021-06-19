@@ -1,1 +1,1 @@
-var mnemonic = "divorce nice gadget wrestle surface scrub crush place cup scrap wisdom thought";
+var mnemonic = "wrist deputy scissors gospel payment already clown catch twin tray episode lady";

@@ -1,1 +1,1 @@
-var mnemonic = "gain repair ready demise stage front like harvest recipe embrace delay wool";
+var mnemonic = "gift slide report master sister boring claw civil few dumb garment shift";

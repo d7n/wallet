@@ -1,1 +1,1 @@
-var mnemonic = "owner pudding oval page tube slogan arctic fan order choose crucial muffin";
+var mnemonic = "above example coral stadium make unveil carpet word indoor imitate spot toward";

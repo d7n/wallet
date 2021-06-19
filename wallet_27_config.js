@@ -1,1 +1,1 @@
-var mnemonic = "gown embark monster render mail situate merry casino teach ice borrow wing";
+var mnemonic = "love picture accident front foster beauty object media sausage pair envelope walk";

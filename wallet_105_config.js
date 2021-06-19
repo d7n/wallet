@@ -1,1 +1,1 @@
-var mnemonic = "mail street chimney dirt chronic marriage ripple attitude cinnamon reward wreck speed";
+var mnemonic = "visit cereal grow absorb certain fiscal odor cradle security blur pigeon test";

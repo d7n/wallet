@@ -1,1 +1,1 @@
-var mnemonic = "divide knife peace scare hero trade vocal trust acoustic dinosaur buffalo owner";
+var mnemonic = "income curve treat problem arena gain rotate acoustic result cruise off craft";

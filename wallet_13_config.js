@@ -1,1 +1,1 @@
-var mnemonic = "input grunt candy auto canyon own strong travel neither twin dune behave";
+var mnemonic = "tube enforce gorilla history harbor cinnamon top roast cargo cheap certain sail";

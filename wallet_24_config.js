@@ -1,1 +1,1 @@
-var mnemonic = "height hub window differ job social supply electric crouch grunt scout strategy";
+var mnemonic = "beauty language example broken coyote fall melt business close music tunnel stadium";

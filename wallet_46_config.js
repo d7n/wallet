@@ -1,1 +1,1 @@
-var mnemonic = "vibrant spin unfair inquiry fortune cable energy cube ordinary hawk identify filter";
+var mnemonic = "gadget side cup mobile under light clinic holiday couple bounce onion pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "foil divorce argue throw syrup dinosaur latin proud tool gym scale legend";
+var mnemonic = "weird impose table valley swap apology farm magic deal label spray major";

@@ -1,1 +1,1 @@
-var mnemonic = "faculty pause ordinary shoe tiger feel judge actual skill brief brown merit";
+var mnemonic = "dentist say gold fine jelly release wine shiver patch payment cover glass";

@@ -1,1 +1,1 @@
-var mnemonic = "jaguar believe wrong clap space harvest solid elephant slide suggest shop april";
+var mnemonic = "myself exact faculty fatal express replace visit already jeans robot erode vendor";

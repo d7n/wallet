@@ -1,1 +1,1 @@
-var mnemonic = "time buddy hundred check creek silk round august drum crime spoon kiwi";
+var mnemonic = "knock super write athlete minimum cement aunt hold choice market vicious wrap";

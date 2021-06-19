@@ -1,1 +1,1 @@
-var mnemonic = "example lyrics axis able early cruel loud guitar apple cable pioneer author";
+var mnemonic = "memory sun quit crumble marriage antique grocery multiply senior stamp quantum more";

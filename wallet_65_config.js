@@ -1,1 +1,1 @@
-var mnemonic = "napkin vital section puppy hidden dad mention exclude bullet fix material defy";
+var mnemonic = "obscure inmate camp all enough question range sphere fold into between slush";

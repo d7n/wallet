@@ -1,1 +1,1 @@
-var mnemonic = "aspect crime vast lawsuit fury scorpion axis pear hammer deposit all congress";
+var mnemonic = "script park squeeze draft rough false pumpkin six trust dial enemy develop";

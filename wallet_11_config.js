@@ -1,1 +1,1 @@
-var mnemonic = "wealth escape mutual rib unhappy royal spot boil cabbage tail swallow need";
+var mnemonic = "choose practice faculty corn enforce youth siren burden long praise over siren";

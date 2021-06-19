@@ -1,1 +1,1 @@
-var mnemonic = "venue receive envelope future slice web uncle pill world snap achieve balance";
+var mnemonic = "lava neck erode unfold address essay enough repeat blush cart thought foot";

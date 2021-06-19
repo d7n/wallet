@@ -1,1 +1,1 @@
-var mnemonic = "judge draft wall daughter what trial copy axis tired armed trumpet tilt";
+var mnemonic = "leader blue badge garage copy glance neck live advice hungry device torch";

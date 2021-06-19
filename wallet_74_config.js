@@ -1,1 +1,1 @@
-var mnemonic = "impose joy bind sponsor degree tray spot fault action robust march street";
+var mnemonic = "uncover siren runway fiscal sugar upon jungle price mad learn team nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "goat onion amused code duck side pudding display project penalty volcano cycle";
+var mnemonic = "poem allow guitar sport coach agree upgrade execute sibling give inform cushion";

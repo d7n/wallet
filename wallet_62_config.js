@@ -1,1 +1,1 @@
-var mnemonic = "fire color below powder cigar snack clump glory galaxy olympic access pull";
+var mnemonic = "endless gentle snow match order finger title album field leisure gauge pudding";

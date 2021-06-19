@@ -1,1 +1,1 @@
-var mnemonic = "ready payment soap leave earn strike book ranch core poem over oven";
+var mnemonic = "above exotic cover real train timber mushroom custom impact rich ensure broken";

@@ -1,1 +1,1 @@
-var mnemonic = "chunk body never lemon actor expose army detail dutch afford scissors palm";
+var mnemonic = "list advice quote addict garment gadget sphere special dream net welcome change";

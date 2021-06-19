@@ -1,1 +1,1 @@
-var mnemonic = "frog slide nation pumpkin innocent tag pudding loyal blame unfold grass sugar";
+var mnemonic = "always grocery member spider tuition daring boost copper crucial kid magic wonder";

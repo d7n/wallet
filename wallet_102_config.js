@@ -1,1 +1,1 @@
-var mnemonic = "dynamic wage coffee divorce flavor clock duck pottery pudding visit wheat theme";
+var mnemonic = "dumb success demand broccoli grunt slender polar video night earn hybrid chicken";

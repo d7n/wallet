@@ -1,1 +1,1 @@
-var mnemonic = "follow cash lounge offer attend orbit tree crack combine slim surprise say";
+var mnemonic = "remove orchard lecture chapter absorb shadow grain oblige elbow angle husband grocery";

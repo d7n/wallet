@@ -1,1 +1,1 @@
-var mnemonic = "style tail hurdle certain plastic question audit shrimp strike crack sibling hawk";
+var mnemonic = "stage useful senior spread eight estate fit mail spirit peace web nice";

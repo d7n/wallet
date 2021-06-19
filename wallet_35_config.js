@@ -1,1 +1,1 @@
-var mnemonic = "village magnet same mobile sing nerve economy cave crime peanut coast wrap";
+var mnemonic = "warrior write cliff field ecology scene patrol multiply manual cement cross black";

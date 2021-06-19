@@ -1,1 +1,1 @@
-var mnemonic = "require leopard wing early skate noise arena bag source amateur between oven";
+var mnemonic = "banner matrix labor bracket clean master moment drum lawsuit parade very like";

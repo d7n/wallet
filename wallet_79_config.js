@@ -1,1 +1,1 @@
-var mnemonic = "deputy transfer nice assume wish crane hill eight biology retire mammal lizard";
+var mnemonic = "silver twelve jacket flag lady elegant cage normal senior dial husband state";

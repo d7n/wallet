@@ -1,1 +1,1 @@
-var mnemonic = "arch wage cook dream rate spell sauce sunset scissors spy nuclear immune";
+var mnemonic = "recall oblige honey injury federal afford save action shoe burden accuse void";

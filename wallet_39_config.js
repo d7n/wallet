@@ -1,1 +1,1 @@
-var mnemonic = "wave size light shine emotion display teach plate ordinary plate ensure detail";
+var mnemonic = "melt enhance exclude sell exotic dove grain moral tone bird card future";

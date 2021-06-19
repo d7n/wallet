@@ -1,1 +1,1 @@
-var mnemonic = "guide home also buzz song total proud slow card neither eagle exact";
+var mnemonic = "pet culture settle acid bonus join mixed together visual sweet stairs abstract";

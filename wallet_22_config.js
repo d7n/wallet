@@ -1,1 +1,1 @@
-var mnemonic = "winner bundle mistake bring awful learn spider love alert because trick any";
+var mnemonic = "wine other cabbage explain music leave harvest unaware track screen disorder must";

@@ -1,1 +1,1 @@
-var mnemonic = "cause exercise tag report sure gap cereal stable bullet taxi car toss";
+var mnemonic = "arrest trouble sleep thank cost typical another prepare ostrich luggage rug crime";

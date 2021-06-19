@@ -1,1 +1,1 @@
-var mnemonic = "disorder same sad mesh brave marine shoulder pride country hour kit offer";
+var mnemonic = "rigid empower verb mammal sort front small inmate ceiling escape steel eager";

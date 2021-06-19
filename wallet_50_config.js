@@ -1,1 +1,1 @@
-var mnemonic = "state feel social burden faith van summer juice leader sign innocent surge";
+var mnemonic = "great wheel turn style piano glimpse cruel quote library furnace essence include";

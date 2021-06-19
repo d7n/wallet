@@ -1,1 +1,1 @@
-var mnemonic = "anchor inspire immense primary destroy thought attack project time between insect pulse";
+var mnemonic = "budget alcohol wrap engine nice glad grow assume web rule sing manual";

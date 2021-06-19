@@ -1,1 +1,1 @@
-var mnemonic = "base license caution sponsor cruise pattern charge trouble sunset melody cute pear";
+var mnemonic = "smile trust gravity frequent bunker jar differ helmet dress away radar clay";

@@ -1,1 +1,1 @@
-var mnemonic = "wave treat elder kiwi clinic enact garment torch size guide bottom wonder";
+var mnemonic = "garage task child sponsor page corn equal winner iron survey predict album";

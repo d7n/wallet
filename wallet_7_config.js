@@ -1,1 +1,1 @@
-var mnemonic = "case bind expect suspect similar palace hen auction cliff proof wedding birth";
+var mnemonic = "glance blast guitar romance check sign dignity skirt month half sad want";

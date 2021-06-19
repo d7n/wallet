@@ -1,1 +1,1 @@
-var mnemonic = "solution ketchup crane doctor try appear inform ski obscure work access bleak";
+var mnemonic = "rule frost skin crisp expire april oyster flash clap subject hamster horror";

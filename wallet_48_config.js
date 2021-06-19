@@ -1,1 +1,1 @@
-var mnemonic = "fee offer elbow course kangaroo quote answer reopen upgrade echo dutch chronic";
+var mnemonic = "antique lend warm feel dog purity fiber better kite almost tongue pink";

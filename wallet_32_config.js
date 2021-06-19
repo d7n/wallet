@@ -1,1 +1,1 @@
-var mnemonic = "pond collect vacant ship tool stove avoid frozen arrest click foil inspire";
+var mnemonic = "kingdom sea fork divide they erosion candy fine matter timber assist scrub";

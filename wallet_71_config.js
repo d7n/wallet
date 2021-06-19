@@ -1,1 +1,1 @@
-var mnemonic = "scene mechanic lawsuit ridge omit aerobic rebuild pull adapt grunt digital move";
+var mnemonic = "sausage actor dismiss gap process elegant festival social nurse catch vessel syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "today enough female gold energy goose easy sample tiny over wine pluck";
+var mnemonic = "describe hybrid nuclear enlist jazz cup letter expire black fabric immense bullet";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon rebuild scale music brisk high argue athlete floor century mountain awake";
+var mnemonic = "man tiger poverty cup shy token cherry explain suffer catch whip speed";

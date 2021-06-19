@@ -1,1 +1,1 @@
-var mnemonic = "civil bring marble column early drink various teach cradle envelope width track";
+var mnemonic = "trap garbage awful man country twin scrub case pond invest limb elbow";

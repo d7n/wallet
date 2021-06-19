@@ -1,1 +1,1 @@
-var mnemonic = "critic tumble ocean tissue similar yard mercy later pledge accuse hire crack";
+var mnemonic = "step venture sick control story impulse poverty know clump horn memory property";

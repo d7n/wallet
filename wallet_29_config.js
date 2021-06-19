@@ -1,1 +1,1 @@
-var mnemonic = "tomato soap unusual juice catch advance amount coast anger width biology general";
+var mnemonic = "kind obey emerge erode mammal cream category reunion right modify invite horror";

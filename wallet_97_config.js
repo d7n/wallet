@@ -1,1 +1,1 @@
-var mnemonic = "degree high arrange arctic surround gate shallow abstract magic hungry oppose dash";
+var mnemonic = "eagle plastic submit bridge throw draft summer vicious salute right wall melt";

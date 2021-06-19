@@ -1,1 +1,1 @@
-var mnemonic = "govern sausage brass vibrant dance siege survey defy chair license divorce work";
+var mnemonic = "thrive width oval elbow doctor arrange coffee fun coconut figure neither father";
