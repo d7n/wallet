@@ -1,1 +1,1 @@
-var mnemonic = "drama patrol rent cheese hard avocado fee toe fabric soldier middle calm";
+var mnemonic = "melt dwarf rose fold humble home uphold wine indicate chief case coral";

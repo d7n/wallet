@@ -1,1 +1,1 @@
-var mnemonic = "dolphin twice expand sign tackle donkey mother involve already rookie duty race";
+var mnemonic = "city car pudding banana shy glimpse banana pen vocal shop plate next";

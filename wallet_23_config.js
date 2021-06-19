@@ -1,1 +1,1 @@
-var mnemonic = "glimpse still sketch uniform lounge leg illegal field panther sibling comic unfold";
+var mnemonic = "round faculty cause discover figure ride enlist pigeon angle mom spy invest";

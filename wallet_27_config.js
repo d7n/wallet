@@ -1,1 +1,1 @@
-var mnemonic = "odor soccer coast waste cook wing parent nurse unique chronic network fish";
+var mnemonic = "rich orbit exile prepare thrive hero curtain gas image leaf liar you";

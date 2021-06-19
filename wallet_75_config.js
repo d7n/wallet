@@ -1,1 +1,1 @@
-var mnemonic = "pupil assume nice place hour inmate alert train engage panel ceiling animal";
+var mnemonic = "boy soft tiny social inflict repair shrug crack lumber first visual couple";

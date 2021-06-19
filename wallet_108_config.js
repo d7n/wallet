@@ -1,1 +1,1 @@
-var mnemonic = "cupboard tool arrive fire gauge traffic live artist burden record february flip";
+var mnemonic = "eternal edge bitter era forest fatal caught place must upon pistol eye";

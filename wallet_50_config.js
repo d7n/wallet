@@ -1,1 +1,1 @@
-var mnemonic = "sweet alien return animal athlete learn tray rural kid way board library";
+var mnemonic = "cactus fruit scrap kid grain trust decade yellow favorite envelope fix scare";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess make aim damp result gown area patient miss shove void visit";
+var mnemonic = "boy arrest major moral embody barrel spoil vintage faint love where maple";

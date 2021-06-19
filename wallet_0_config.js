@@ -1,1 +1,1 @@
-var mnemonic = "keen taxi position actress answer worth silk limit crawl word device merit";
+var mnemonic = "range moon write light clever final prosper bulk since noise remind among";

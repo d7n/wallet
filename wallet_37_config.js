@@ -1,1 +1,1 @@
-var mnemonic = "earn consider impulse amused pull near ill famous liar cloud adapt limb";
+var mnemonic = "display panda property believe spell same decide say anger divorce mass trumpet";

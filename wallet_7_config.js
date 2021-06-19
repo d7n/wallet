@@ -1,1 +1,1 @@
-var mnemonic = "favorite still rabbit hidden best tip feature day razor essay cancel effort";
+var mnemonic = "essence radar mystery session east access casual butter plate dynamic again identify";

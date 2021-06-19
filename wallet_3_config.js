@@ -1,1 +1,1 @@
-var mnemonic = "phone unique then seat employ vendor loan cousin donate blame three ladder";
+var mnemonic = "online verify grow lab outer theme moment truck private device degree addict";

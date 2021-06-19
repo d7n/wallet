@@ -1,1 +1,1 @@
-var mnemonic = "news antique perfect dizzy panther rebel sudden cool reason situate draw welcome";
+var mnemonic = "city equal neutral arena now spoon buddy indoor frog oppose force involve";

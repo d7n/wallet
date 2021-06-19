@@ -1,1 +1,1 @@
-var mnemonic = "kite fluid huge check town defy sad suggest piano midnight shoe sorry";
+var mnemonic = "flush cart border public will crowd leaf decline salon ten hammer balance";

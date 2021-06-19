@@ -1,1 +1,1 @@
-var mnemonic = "ramp ketchup power sure decrease walk flush invest net nation engage penalty";
+var mnemonic = "child expect embody ancient provide garden finger exile frozen useful resource grid";

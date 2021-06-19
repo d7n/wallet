@@ -1,1 +1,1 @@
-var mnemonic = "margin rug afford jump crush organ course disease scale beach arctic winner";
+var mnemonic = "into news cereal twist trade symptom consider outer trumpet crack device add";

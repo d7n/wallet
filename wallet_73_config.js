@@ -1,1 +1,1 @@
-var mnemonic = "dentist cattle lumber film oblige elite once stone shiver solar avocado core";
+var mnemonic = "this box quality curious cabbage time base immune interest orient argue hat";

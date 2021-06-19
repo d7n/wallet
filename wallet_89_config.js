@@ -1,1 +1,1 @@
-var mnemonic = "speak fringe myself inflict abuse isolate buyer moment essence tissue veteran globe";
+var mnemonic = "gloom yard price security nephew medal embody relief moral rookie bounce nothing";

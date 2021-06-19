@@ -1,1 +1,1 @@
-var mnemonic = "aspect ball diagram cave science record physical mouse advance fortune film venture";
+var mnemonic = "sadness mention merge direct tragic meat crunch vehicle element kitten hollow public";

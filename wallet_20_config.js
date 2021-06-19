@@ -1,1 +1,1 @@
-var mnemonic = "guitar pizza open frost achieve submit figure have slush shed pizza mirror";
+var mnemonic = "old liberty lion elegant enable shift spatial moment word lecture lecture census";

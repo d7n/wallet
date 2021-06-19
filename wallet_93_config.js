@@ -1,1 +1,1 @@
-var mnemonic = "diesel announce project proud auction nature uniform lounge million mirror tape actual";
+var mnemonic = "unable across return depend all loop minimum pilot suit parent limit olympic";

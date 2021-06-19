@@ -1,1 +1,1 @@
-var mnemonic = "nuclear sleep combine fox admit pupil enroll nation weird broccoli cost bid";
+var mnemonic = "trumpet leave more betray siege point scorpion friend merge click task swear";

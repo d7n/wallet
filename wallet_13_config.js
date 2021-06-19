@@ -1,1 +1,1 @@
-var mnemonic = "error fiction method crisp demise sibling loop mystery pizza icon snack local";
+var mnemonic = "refuse tuna audit grace run twelve hamster learn curious region budget olive";

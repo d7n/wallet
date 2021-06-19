@@ -1,1 +1,1 @@
-var mnemonic = "flame sudden demand item mandate sustain game acid canvas opera wire copper";
+var mnemonic = "mutual opera unfair area hybrid nuclear decorate angry fat hawk pumpkin tobacco";

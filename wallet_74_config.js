@@ -1,1 +1,1 @@
-var mnemonic = "ill medal giggle action rate divorce bachelor bridge alcohol jewel foster trick";
+var mnemonic = "long oak differ drip fiscal delay equip same trial outdoor danger blood";

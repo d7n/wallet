@@ -1,1 +1,1 @@
-var mnemonic = "target canyon pupil mixed forest rose struggle matrix plunge team eternal cloud";
+var mnemonic = "general fuel buyer comfort claw apology arm stock miracle steel estate attitude";

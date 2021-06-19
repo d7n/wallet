@@ -1,1 +1,1 @@
-var mnemonic = "glance gasp term prefer metal analyst enhance again entry celery mountain genuine";
+var mnemonic = "seek charge early welcome accident debris wild moral wink adjust admit regular";

@@ -1,1 +1,1 @@
-var mnemonic = "injury flower bless honey document reward motor cable doctor video bridge armor";
+var mnemonic = "winter grocery intact giant apart door soap target inflict calm label law";

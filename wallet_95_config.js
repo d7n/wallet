@@ -1,1 +1,1 @@
-var mnemonic = "never need tube rabbit stairs first tree help begin tonight anger fold";
+var mnemonic = "pet during caution reduce patch follow adjust spice season abuse flat permit";

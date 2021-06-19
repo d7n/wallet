@@ -1,1 +1,1 @@
-var mnemonic = "stool negative cheese account topple item october hungry destroy club beyond couch";
+var mnemonic = "fragile ginger lonely pupil cry trash video satoshi embark curve early impose";

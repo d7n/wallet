@@ -1,1 +1,1 @@
-var mnemonic = "benefit maid gesture festival panel price horn ribbon barrel frequent absorb fantasy";
+var mnemonic = "melt conduct abuse submit canvas balcony fatigue novel near useless rocket oval";

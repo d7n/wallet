@@ -1,1 +1,1 @@
-var mnemonic = "asset afford phone shift edit loyal blossom priority dice jewel marble two";
+var mnemonic = "lesson album female electric mouse trash rich misery reveal daughter silly stem";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder assume skate fade erosion guitar february decade machine gun giggle flee";
+var mnemonic = "unusual gun feature curtain scatter bubble obvious uncover brass cart slide dial";

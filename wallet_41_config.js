@@ -1,1 +1,1 @@
-var mnemonic = "turkey unlock finger gossip blouse daughter advice only trim sorry cushion produce";
+var mnemonic = "keep asthma antique trophy mimic clerk lobster fault primary spread list come";

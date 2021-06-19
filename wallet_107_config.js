@@ -1,1 +1,1 @@
-var mnemonic = "knee sentence keen parent provide bridge kind indoor bracket jealous virtual faint";
+var mnemonic = "wedding valley eagle devote case sleep secret pelican front upset decade execute";

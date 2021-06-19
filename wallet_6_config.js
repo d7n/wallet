@@ -1,1 +1,1 @@
-var mnemonic = "glass nose lucky mosquito castle coral this turtle tumble have else series";
+var mnemonic = "visit shift into all glance camp wear anger provide ignore erosion benefit";

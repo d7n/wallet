@@ -1,1 +1,1 @@
-var mnemonic = "fan pride obtain craft tiny chapter place history wealth tissue replace sphere";
+var mnemonic = "ahead remind filter lend second cereal flip solar laundry action cage decade";

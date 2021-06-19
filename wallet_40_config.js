@@ -1,1 +1,1 @@
-var mnemonic = "globe addict amused radio feed bird curious because lake thank ice vault";
+var mnemonic = "myth post creek cup mimic cricket torch bind west index chapter mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery poverty cherry gentle join behind burst noodle noodle west hope awkward";
+var mnemonic = "capable faint insane sense exhibit fault cheap pretty range balance evolve ketchup";

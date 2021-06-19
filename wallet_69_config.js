@@ -1,1 +1,1 @@
-var mnemonic = "right slogan clap copper pioneer narrow spare scare capital loop artefact across";
+var mnemonic = "loyal zoo marble extra very hill oyster style loyal nasty easy music";

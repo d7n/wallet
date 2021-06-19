@@ -1,1 +1,1 @@
-var mnemonic = "home error danger awake language airport topple adjust small color such nerve";
+var mnemonic = "trouble forward sweet behave barely chicken result zebra bomb planet fancy bright";

@@ -1,1 +1,1 @@
-var mnemonic = "hill burst spy scatter smooth fresh wire patch hair staff text notable";
+var mnemonic = "that memory twin want answer expect aisle menu nasty curious bracket artefact";

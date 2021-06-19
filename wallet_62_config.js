@@ -1,1 +1,1 @@
-var mnemonic = "industry idea fade word leader grid vague chest alarm receive sound sword";
+var mnemonic = "hub emerge online average under mushroom slush way disagree grant meadow afford";

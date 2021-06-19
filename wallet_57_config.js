@@ -1,1 +1,1 @@
-var mnemonic = "spy cave mass sport rare diet ball vast credit friend thank fame";
+var mnemonic = "helmet lens federal current voyage traffic person dice claim tray document shy";

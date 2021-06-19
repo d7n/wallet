@@ -1,1 +1,1 @@
-var mnemonic = "mountain puzzle envelope ankle trouble hint claw obscure curtain lumber bid swallow";
+var mnemonic = "tank orphan flavor plate mimic furnace right material record oak corn menu";

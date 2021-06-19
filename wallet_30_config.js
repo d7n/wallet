@@ -1,1 +1,1 @@
-var mnemonic = "real rare noise lake bullet bunker finish initial illegal bottom impact pioneer";
+var mnemonic = "gentle kitchen drastic reward arena never hurdle lawn earn pretty trade ice";

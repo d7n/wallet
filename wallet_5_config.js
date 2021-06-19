@@ -1,1 +1,1 @@
-var mnemonic = "tragic screen leave curtain bomb dial also lecture define recipe glare game";
+var mnemonic = "arch tone gas agree borrow grain sure biology salt food film agree";

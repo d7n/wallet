@@ -1,1 +1,1 @@
-var mnemonic = "olympic guard cargo payment toward sauce tube jelly connect smooth admit diary";
+var mnemonic = "verify reason crack oblige device forest sure submit crawl doll coyote zebra";

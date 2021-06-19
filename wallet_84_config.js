@@ -1,1 +1,1 @@
-var mnemonic = "view clarify symptom what ozone valley orphan chaos reject receive live minimum";
+var mnemonic = "give such outside grape odor mansion approve oval black spring shaft trend";

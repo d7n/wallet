@@ -1,1 +1,1 @@
-var mnemonic = "aisle gun produce pet please meat bright coin expand child drip penalty";
+var mnemonic = "throw device around guide rib dirt drama manage chapter surface else ten";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic track film shed carry appear fun atom physical approve easily moral";
+var mnemonic = "famous wrist pull circle once found cushion cereal rain real scrub rebuild";

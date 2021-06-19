@@ -1,1 +1,1 @@
-var mnemonic = "mistake ridge solar upset ankle question jewel trash glow charge pause giggle";
+var mnemonic = "mobile true purchase furnace cactus jacket dash still cactus coach relax opera";

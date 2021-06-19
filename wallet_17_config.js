@@ -1,1 +1,1 @@
-var mnemonic = "radio loop opera grunt dish denial decade legend birth wire evil ankle";
+var mnemonic = "slight steel maid awful grace picture squeeze worry mansion insect topple equal";

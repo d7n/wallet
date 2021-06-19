@@ -1,1 +1,1 @@
-var mnemonic = "scrap also pitch buddy floor inherit three message wine possible edit effort";
+var mnemonic = "crunch clog flavor sugar vicious cherry fatal jar naive city aware surface";

@@ -1,1 +1,1 @@
-var mnemonic = "soda civil suspect powder visit soft tornado finger multiply sort story sample";
+var mnemonic = "suit large capable steel tattoo vague nominee concert puppy chef skull fog";

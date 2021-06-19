@@ -1,1 +1,1 @@
-var mnemonic = "rhythm suspect evil picture either entire judge gravity eagle lift jaguar strong";
+var mnemonic = "market train utility library book brother siege catch traffic border hero siren";

@@ -1,1 +1,1 @@
-var mnemonic = "never network salt hamster fuel fit march mom scorpion purchase cloud tennis";
+var mnemonic = "machine monkey car curve midnight grid place solar review cheese merry inflict";

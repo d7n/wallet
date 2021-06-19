@@ -1,1 +1,1 @@
-var mnemonic = "fence festival prosper end prevent total small material fish below undo enrich";
+var mnemonic = "salon federal mystery track course enlist jacket spoon core dizzy clown chat";

@@ -1,1 +1,1 @@
-var mnemonic = "trumpet atom wave force rescue health dash mesh nut else quiz silent";
+var mnemonic = "frequent hood tomorrow wire prepare today deliver athlete dream bread harsh doctor";

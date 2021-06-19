@@ -1,1 +1,1 @@
-var mnemonic = "minor eyebrow border bullet camera clap draft grain person enhance agree exhibit";
+var mnemonic = "opinion wrong foster hint neither script burden priority auction swift detail job";

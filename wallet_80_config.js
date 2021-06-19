@@ -1,1 +1,1 @@
-var mnemonic = "badge tail frost melody wrap increase jeans reward seminar lawsuit theme swing";
+var mnemonic = "defense essence tattoo matrix forward naive oyster approve carbon pyramid chase unknown";

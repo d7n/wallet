@@ -1,1 +1,1 @@
-var mnemonic = "access pioneer fresh diesel noble staff follow agree still next lake virtual";
+var mnemonic = "address off near wall net add tube skirt sphere moon fault upon";

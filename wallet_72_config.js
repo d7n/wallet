@@ -1,1 +1,1 @@
-var mnemonic = "enough umbrella shallow day club tobacco famous near voice device lobster sentence";
+var mnemonic = "another gift surround elite permit mind stand bronze foot axis fit open";

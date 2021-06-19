@@ -1,1 +1,1 @@
-var mnemonic = "garment husband swing enlist power animal disorder curious solid fix stereo grass";
+var mnemonic = "surprise attract alone tray few ordinary valley emotion suit banana vendor acquire";

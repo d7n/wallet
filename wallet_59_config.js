@@ -1,1 +1,1 @@
-var mnemonic = "drink tiger corn hurry cotton maid feed broccoli give gold rather hurry";
+var mnemonic = "love garbage eagle install logic height nasty deal extend program mushroom utility";

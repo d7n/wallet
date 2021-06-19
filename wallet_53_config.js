@@ -1,1 +1,1 @@
-var mnemonic = "carpet chase device loyal orbit dragon inquiry story print blouse pulp apart";
+var mnemonic = "crater input pyramid bread duck organ spirit march convince infant cruel sad";

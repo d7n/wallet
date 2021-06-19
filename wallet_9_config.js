@@ -1,1 +1,1 @@
-var mnemonic = "wet clerk praise merry final outside admit bar zero boss birth gold";
+var mnemonic = "include era blade skirt soup stay candy enhance become hobby tackle symptom";

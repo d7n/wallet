@@ -1,1 +1,1 @@
-var mnemonic = "earn vocal lawn verb myth shove novel bread unlock sample member pause";
+var mnemonic = "oval swamp move below sketch biology prosper swamp mistake oblige fever sing";

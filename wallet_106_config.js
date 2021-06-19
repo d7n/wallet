@@ -1,1 +1,1 @@
-var mnemonic = "select end warrior urban prepare diesel miracle tower sting upper cover churn";
+var mnemonic = "siren energy banner enact garbage clock current orange charge winner oyster found";

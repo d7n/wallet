@@ -1,1 +1,1 @@
-var mnemonic = "spell rely worry spray rich actor acoustic space spoil swamp clinic fragile";
+var mnemonic = "venue talent spice neck soccer dwarf spend soup decade spoon amount goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "voice grape one apart night wear heavy demise elephant flavor asthma profit";
+var mnemonic = "accident quote pen sponsor earth soccer trial jaguar spare kidney family endorse";

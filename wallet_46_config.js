@@ -1,1 +1,1 @@
-var mnemonic = "cost always autumn type parrot rotate hollow turtle beauty produce razor vocal";
+var mnemonic = "kitten stage bulk guide display crunch leg base garage apple sample live";

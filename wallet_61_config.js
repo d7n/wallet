@@ -1,1 +1,1 @@
-var mnemonic = "coil beyond six quality cute mammal follow ring opinion artefact split energy";
+var mnemonic = "voyage dawn valley gloom engine nerve purpose amused emerge quit already hurry";

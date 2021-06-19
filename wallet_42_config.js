@@ -1,1 +1,1 @@
-var mnemonic = "head amount deputy satoshi mixture dignity magnet brief comic retreat license speed";
+var mnemonic = "alcohol whip sponsor slide rookie real illegal fee pencil sleep jaguar student";

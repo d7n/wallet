@@ -1,1 +1,1 @@
-var mnemonic = "romance innocent either flush blade during age smile business remind color error";
+var mnemonic = "flavor junior program invest stamp slice notice divert leisure divorce flush cover";

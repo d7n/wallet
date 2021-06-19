@@ -1,1 +1,1 @@
-var mnemonic = "grace roof frown outside share truck rival you anger gravity cradle man";
+var mnemonic = "frequent zebra master hope alter rabbit humor usual lake army right load";

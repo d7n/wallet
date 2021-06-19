@@ -1,1 +1,1 @@
-var mnemonic = "twelve hungry abandon scheme joke crop accident lake elder width shine case";
+var mnemonic = "letter length collect cupboard flower disease glory captain supreme gold guard valley";

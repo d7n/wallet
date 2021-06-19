@@ -1,1 +1,1 @@
-var mnemonic = "mountain when frost quote ring agent busy present plate shoulder dignity enough";
+var mnemonic = "decrease poem enlist purchase net blush three civil shadow prize sun boat";

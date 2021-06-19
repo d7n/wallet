@@ -1,1 +1,1 @@
-var mnemonic = "wine visual nominee box laugh audit future gift once skate topple bunker";
+var mnemonic = "submit wing select oven glad apart prepare easily apart toy crystal almost";

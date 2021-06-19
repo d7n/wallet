@@ -1,1 +1,1 @@
-var mnemonic = "prepare project sponsor issue quote vicious earth antique recycle nominee busy joy";
+var mnemonic = "ozone ceiling viable dizzy exotic police pioneer super lucky detail any bless";

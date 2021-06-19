@@ -1,1 +1,1 @@
-var mnemonic = "analyst will wagon lobster badge inside near shrug paddle produce text danger";
+var mnemonic = "nurse palm abandon damp foster nature whip belt danger concert casino purse";

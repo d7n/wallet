@@ -1,1 +1,1 @@
-var mnemonic = "swift public mansion scheme retreat purchase guard quote style brother flavor alter";
+var mnemonic = "crouch trend neither galaxy fog evoke guitar discover radar print draw unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble cruise own distance shrimp gossip vacuum anger area fury walk kiwi";
+var mnemonic = "behind only speed garage try cancel rapid chuckle online author robust capital";

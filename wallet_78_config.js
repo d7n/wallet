@@ -1,1 +1,1 @@
-var mnemonic = "open describe brown love salad garlic defense solve surge scout side easily";
+var mnemonic = "captain abstract street wink scheme isolate lock board tennis inhale title blue";

@@ -1,1 +1,1 @@
-var mnemonic = "beach around pride fatigue second diary test slush gate bamboo arena deny";
+var mnemonic = "advice gas length frame dish shrug when nose symbol dirt select news";

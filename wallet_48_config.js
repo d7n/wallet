@@ -1,1 +1,1 @@
-var mnemonic = "blast fold slam afraid camp marble differ clump couple skate code labor";
+var mnemonic = "right live ranch garlic reunion fringe eagle above inquiry verb lemon zebra";

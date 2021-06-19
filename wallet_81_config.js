@@ -1,1 +1,1 @@
-var mnemonic = "couch shed day biology safe innocent leader you fancy lawn atom peanut";
+var mnemonic = "teach raccoon humble utility lawsuit ketchup list universe pulse happy garden tired";

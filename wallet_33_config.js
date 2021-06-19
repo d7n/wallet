@@ -1,1 +1,1 @@
-var mnemonic = "dwarf rebuild salad champion bean shrimp hockey when gown february dignity flat";
+var mnemonic = "merit speed weird gap turkey shadow unfold obvious bleak valid arrive capital";

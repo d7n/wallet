@@ -1,1 +1,1 @@
-var mnemonic = "fuel twice quantum syrup until awkward water praise gorilla reveal wedding reform";
+var mnemonic = "cage sell obvious body shy quiz index attract distance couch team lunch";

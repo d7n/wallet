@@ -1,1 +1,1 @@
-var mnemonic = "gather surround favorite shrug salute shine symptom illegal fiction resemble aunt wrestle";
+var mnemonic = "fade cricket steel gossip travel daring balcony begin meadow mean table danger";

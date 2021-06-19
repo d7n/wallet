@@ -1,1 +1,1 @@
-var mnemonic = "south enable faint vendor early figure spider organ hello odor ankle system";
+var mnemonic = "legend luxury situate broken human saddle royal market issue slot business cargo";

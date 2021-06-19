@@ -1,1 +1,1 @@
-var mnemonic = "inspire aisle cement two economy exotic obscure monitor awful chalk drastic purity";
+var mnemonic = "machine cover then farm puppy uphold search journey wide pole december pistol";
