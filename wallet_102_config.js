@@ -1,1 +1,1 @@
-var mnemonic = "depart still all wish tent sniff cool soul drama extra giant chunk";
+var mnemonic = "glue gossip gauge tray hair magnet moment fantasy earth attack unable height";

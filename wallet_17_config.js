@@ -1,1 +1,1 @@
-var mnemonic = "armor text tent favorite blur off diamond balance focus that pudding dose";
+var mnemonic = "math trumpet shadow cereal carpet fit language soup trip ripple doll wire";

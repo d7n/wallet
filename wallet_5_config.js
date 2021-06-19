@@ -1,1 +1,1 @@
-var mnemonic = "start boost run easy west diamond hen raise whisper require hill engine";
+var mnemonic = "negative man mail stick hammer noise album lake enable lake detail daring";

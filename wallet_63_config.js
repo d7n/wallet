@@ -1,1 +1,1 @@
-var mnemonic = "unfair keen bench outside castle era advance announce liberty aisle prize anxiety";
+var mnemonic = "egg tenant stove muffin return correct subway sword family twenty notable sponsor";

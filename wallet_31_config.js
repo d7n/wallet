@@ -1,1 +1,1 @@
-var mnemonic = "hurt lemon possible outdoor green destroy such gain debate coral stage wood";
+var mnemonic = "citizen tag avocado market crazy post woman frozen float skirt agent truck";

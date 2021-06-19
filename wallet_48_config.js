@@ -1,1 +1,1 @@
-var mnemonic = "town vague truly spirit hat essay badge peace arctic open keep column";
+var mnemonic = "team govern neglect fluid image today romance before abuse mammal tragic deer";

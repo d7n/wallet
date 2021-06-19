@@ -1,1 +1,1 @@
-var mnemonic = "swarm exist genius crucial hub ozone liquid resemble addict bachelor father jealous";
+var mnemonic = "laundry rain income bid mouse hedgehog sadness effort heart lucky cycle chase";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff question point arch size shuffle size rookie snow lemon thank empty";
+var mnemonic = "strong lobster modify omit margin atom fabric change silly other winter memory";

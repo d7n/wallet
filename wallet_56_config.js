@@ -1,1 +1,1 @@
-var mnemonic = "summer prevent mom vessel combine lunar have grid stem whisper shiver company";
+var mnemonic = "crater spin six onion grocery north famous during join meat tree draw";

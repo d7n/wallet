@@ -1,1 +1,1 @@
-var mnemonic = "olympic panda sibling gloom pink capable budget casual popular garage purchase near";
+var mnemonic = "uncle food ensure beef kiss leave vessel march stable year curious bubble";

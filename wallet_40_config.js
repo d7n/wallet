@@ -1,1 +1,1 @@
-var mnemonic = "debris motion sea hurt lunar census gun jacket lemon illegal hire figure";
+var mnemonic = "sheriff file stand kangaroo average wise margin mountain help supreme copper smile";

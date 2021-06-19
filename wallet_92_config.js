@@ -1,1 +1,1 @@
-var mnemonic = "immense gain eyebrow pulp cup scan trade fatigue saddle clay meadow negative";
+var mnemonic = "resource dumb lamp base portion crop shallow adult scheme uphold vapor faint";

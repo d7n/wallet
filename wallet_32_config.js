@@ -1,1 +1,1 @@
-var mnemonic = "off zebra month rebuild undo possible excite keen cloth join noble ostrich";
+var mnemonic = "echo napkin ribbon flee evidence embark flat engage hold youth property increase";

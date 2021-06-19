@@ -1,1 +1,1 @@
-var mnemonic = "excess gossip move hungry junior address excess pioneer ride ridge blossom panel";
+var mnemonic = "uniform goddess census ribbon wagon inform vague bulb kind axis tomorrow found";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid off harbor palace edge degree squeeze liberty express mobile scrap vote";
+var mnemonic = "gasp sleep picnic sunny crumble toilet vibrant ankle undo survey ask change";

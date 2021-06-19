@@ -1,1 +1,1 @@
-var mnemonic = "wrist mansion calm yard order eager cherry horse right code zebra van";
+var mnemonic = "nest icon snake emotion giggle joke suit bean lend color ill nest";

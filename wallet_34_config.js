@@ -1,1 +1,1 @@
-var mnemonic = "bacon stove smooth gown vague evil carbon decrease wave ritual demise earn";
+var mnemonic = "penalty session despair giant crawl vessel wrap shell join pony physical kick";

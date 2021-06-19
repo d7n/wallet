@@ -1,1 +1,1 @@
-var mnemonic = "volume law issue dinosaur shock lyrics cereal traffic wear quantum tissue comfort";
+var mnemonic = "derive smart need flee mean trim rocket eye sport siren clinic reform";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil gallery glove fatigue tomorrow miss praise aware wall artefact address innocent";
+var mnemonic = "myself party vehicle improve field practice spread guitar anchor time arrange sick";

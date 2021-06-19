@@ -1,1 +1,1 @@
-var mnemonic = "search cover dress river glory smart exist lonely fitness artwork ticket guess";
+var mnemonic = "reopen accident since gauge cram extend mechanic divert drum fall settle indoor";

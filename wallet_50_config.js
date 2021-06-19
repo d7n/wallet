@@ -1,1 +1,1 @@
-var mnemonic = "practice allow thunder return farm argue agree proof clay machine parrot leg";
+var mnemonic = "student behind debris crash box kangaroo shock warfare soap relief acoustic decade";

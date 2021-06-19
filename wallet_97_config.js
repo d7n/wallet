@@ -1,1 +1,1 @@
-var mnemonic = "donkey impulse load talk race awake gadget stock ripple plunge popular chef";
+var mnemonic = "ask rural win pass roof ability stereo dry face husband spirit token";

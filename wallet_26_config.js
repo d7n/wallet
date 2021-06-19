@@ -1,1 +1,1 @@
-var mnemonic = "ribbon more define frequent hood crumble relax reveal angle silent horror embody";
+var mnemonic = "chalk just lucky social crazy leg envelope current term bus mutual powder";

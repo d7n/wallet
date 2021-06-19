@@ -1,1 +1,1 @@
-var mnemonic = "boring moon balcony muscle scissors oval thumb hole cave sunset stereo current";
+var mnemonic = "myth runway neither layer liberty field direct peanut focus barrel rescue below";

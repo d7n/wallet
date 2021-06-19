@@ -1,1 +1,1 @@
-var mnemonic = "hospital fresh inside gasp violin neck other rate shift real symbol near";
+var mnemonic = "have skate chaos endless film angle route scan chapter thing traffic shiver";

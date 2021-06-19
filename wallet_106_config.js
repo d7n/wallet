@@ -1,1 +1,1 @@
-var mnemonic = "chef oval armed hand employ cherry physical point wage curve phrase unhappy";
+var mnemonic = "oven crystal draw faith panther truth vintage organ dismiss giraffe famous festival";

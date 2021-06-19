@@ -1,1 +1,1 @@
-var mnemonic = "depart season deliver level daring rotate limit breeze anger suspect boil proof";
+var mnemonic = "ritual job vocal mountain music voyage chalk reject reopen oxygen jaguar novel";

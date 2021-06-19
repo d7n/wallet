@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow boy turtle chuckle list offer kiwi trigger electric grit ensure tool";
+var mnemonic = "yard flip metal try behind demand clown insane pride harvest actor inside";

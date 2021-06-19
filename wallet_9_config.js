@@ -1,1 +1,1 @@
-var mnemonic = "champion school dizzy cover loud toilet skate author cash still skill trip";
+var mnemonic = "topple sight access believe possible second swear search sure thrive road jacket";

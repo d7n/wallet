@@ -1,1 +1,1 @@
-var mnemonic = "elder option kite tank vapor connect dry manage spoon artwork document among";
+var mnemonic = "bargain fence escape chief rain creek theory glad tunnel rough junior inflict";

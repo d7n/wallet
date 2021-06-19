@@ -1,1 +1,1 @@
-var mnemonic = "pigeon voice deer disease margin deliver pull mountain arrive charge shrimp primary";
+var mnemonic = "cave identify nut simple cave broom roof teach barely razor detect arrive";

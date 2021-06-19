@@ -1,1 +1,1 @@
-var mnemonic = "quit vacuum waste develop remove annual yard zone panic cry plate position";
+var mnemonic = "very captain cinnamon hotel pizza cover chapter hybrid embark nature abandon ugly";

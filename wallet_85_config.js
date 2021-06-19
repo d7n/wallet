@@ -1,1 +1,1 @@
-var mnemonic = "injury submit glove coffee average oil doll soon deliver enroll crowd fever";
+var mnemonic = "magic cat flee ring tube elephant thrive butter quality brass merge sniff";

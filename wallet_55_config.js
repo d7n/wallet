@@ -1,1 +1,1 @@
-var mnemonic = "cement warm fault friend coach vendor amazing flavor wish ride mammal mean";
+var mnemonic = "moral below maple stem aim bring guilt peasant coconut later adjust object";

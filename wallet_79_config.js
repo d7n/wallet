@@ -1,1 +1,1 @@
-var mnemonic = "physical fan frequent version squirrel brown sustain chase forum another absent laptop";
+var mnemonic = "category sauce other range sad document lift thought champion know repeat between";

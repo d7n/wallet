@@ -1,1 +1,1 @@
-var mnemonic = "duck cycle chronic kiss street define lava orange absurd staff suffer shed";
+var mnemonic = "olive mask equal return luxury chimney will robot team luggage combine much";

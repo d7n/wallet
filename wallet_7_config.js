@@ -1,1 +1,1 @@
-var mnemonic = "dentist picture senior useful easily deliver aerobic sponsor agree index pizza antenna";
+var mnemonic = "tilt evolve captain future clap crunch fly annual light october nurse city";

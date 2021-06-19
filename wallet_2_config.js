@@ -1,1 +1,1 @@
-var mnemonic = "orchard spread curtain broccoli finger unfair pill pair suffer renew person bridge";
+var mnemonic = "polar thrive forward knee island domain lesson movie meat tray spend letter";

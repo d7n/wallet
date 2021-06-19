@@ -1,1 +1,1 @@
-var mnemonic = "include wire brisk multiply soul amateur shove actress direct pilot abuse excite";
+var mnemonic = "invest enable caution shop spider brief aspect task rare escape truck spice";

@@ -1,1 +1,1 @@
-var mnemonic = "express corn forum goat uncle invest business heavy resource tunnel say mention";
+var mnemonic = "awful noise wise cat exclude know forward view rib sugar immense chuckle";

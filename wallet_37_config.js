@@ -1,1 +1,1 @@
-var mnemonic = "brief pyramid table custom absorb corn duty target perfect derive more juice";
+var mnemonic = "comfort middle calm below setup avoid affair throw fringe over bonus kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard together helmet consider melody menu veteran wage pill sight series habit";
+var mnemonic = "blush refuse benefit web gain scatter husband piece advice tissue very aunt";

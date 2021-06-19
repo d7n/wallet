@@ -1,1 +1,1 @@
-var mnemonic = "lesson dose that flush plastic consider tragic busy hole nature panda car";
+var mnemonic = "put day quote squeeze local wage truly depend warfare luggage ecology finger";

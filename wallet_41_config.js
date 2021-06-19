@@ -1,1 +1,1 @@
-var mnemonic = "fee hazard motion insane slice daring office dad bounce allow motor junk";
+var mnemonic = "conduct afford gravity apart frost palace negative hawk original reopen artist hard";

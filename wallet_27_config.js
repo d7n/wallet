@@ -1,1 +1,1 @@
-var mnemonic = "doll magic frame entire unique pretty system earth apart pudding pen cruel";
+var mnemonic = "ginger picnic seed stove adjust media uniform defy broken two disagree jacket";

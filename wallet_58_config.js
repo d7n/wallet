@@ -1,1 +1,1 @@
-var mnemonic = "trash enact car wall paddle tackle connect idle doctor ignore possible quiz";
+var mnemonic = "marble shallow nerve proof law vendor ostrich kiwi cry pilot today hedgehog";

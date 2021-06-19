@@ -1,1 +1,1 @@
-var mnemonic = "skull blanket pitch drink camp unlock hungry limit despair system zone museum";
+var mnemonic = "shine stock off flee slogan join either random lonely alarm inquiry retire";

@@ -1,1 +1,1 @@
-var mnemonic = "trick goose december life order throw humor shadow hope tube exit guess";
+var mnemonic = "now tomato skin welcome satisfy obscure battle twist idle cinnamon seven patrol";

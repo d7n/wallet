@@ -1,1 +1,1 @@
-var mnemonic = "bitter key below inside sponsor add demise ribbon once agent toast artefact";
+var mnemonic = "pave novel timber mountain win sniff shy wild right truck crucial post";

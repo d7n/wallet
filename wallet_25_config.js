@@ -1,1 +1,1 @@
-var mnemonic = "ahead food begin stumble step road equal reopen document wheel position bright";
+var mnemonic = "excuse bicycle home boost armed alter actress anger twist donate spray february";

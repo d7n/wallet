@@ -1,1 +1,1 @@
-var mnemonic = "afford field wall analyst vote enhance snap south head early minimum domain";
+var mnemonic = "unaware pill mind stadium ordinary weird steel student cat together region tiny";

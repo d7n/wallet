@@ -1,1 +1,1 @@
-var mnemonic = "bonus item empower either disease note cup poverty chat eagle flower size";
+var mnemonic = "cabbage virus venture toss quarter wool awesome rhythm accident soap retreat desert";

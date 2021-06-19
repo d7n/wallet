@@ -1,1 +1,1 @@
-var mnemonic = "pencil basket skill sauce caught segment inquiry breeze shaft awesome wet unable";
+var mnemonic = "sister glance gasp craft believe forward copper unknown enhance income stick begin";

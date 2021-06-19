@@ -1,1 +1,1 @@
-var mnemonic = "monster enrich hire exclude floor clump hospital scatter again orange fiction lock";
+var mnemonic = "nominee grain nature victory sauce involve seek science method pulse output fury";

@@ -1,1 +1,1 @@
-var mnemonic = "dog virus vintage adapt minimum primary column alien uncle cry write gaze";
+var mnemonic = "afford buffalo certain there suggest eagle relax fame west swear indicate female";

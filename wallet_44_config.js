@@ -1,1 +1,1 @@
-var mnemonic = "private picnic setup wagon crucial deny trade pigeon bench jacket bird under";
+var mnemonic = "link citizen use unhappy enlist quantum play interest super barrel hire mammal";

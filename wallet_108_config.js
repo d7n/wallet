@@ -1,1 +1,1 @@
-var mnemonic = "artwork cream frog step mean reward empty powder crawl enable ivory cruise";
+var mnemonic = "arrow muffin jump october sword forest city nasty zero bacon peanut keep";

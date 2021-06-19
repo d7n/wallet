@@ -1,1 +1,1 @@
-var mnemonic = "decide help blame mind always rice remember vacuum unknown rail hurt type";
+var mnemonic = "license lonely awesome key large neglect resemble often method uniform cabin until";

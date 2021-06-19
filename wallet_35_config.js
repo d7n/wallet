@@ -1,1 +1,1 @@
-var mnemonic = "equal almost spoil true arm twin room visual cheese badge license obvious";
+var mnemonic = "oblige dove exit win random patient capital field olive about response lumber";

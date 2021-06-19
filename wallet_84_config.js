@@ -1,1 +1,1 @@
-var mnemonic = "capable logic crystal term drastic patch garlic dumb letter danger elevator market";
+var mnemonic = "verb deliver sphere vapor notable laptop easily code remember level sound orphan";

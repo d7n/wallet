@@ -1,1 +1,1 @@
-var mnemonic = "review merry route whip arena half curve mountain budget ship social aunt";
+var mnemonic = "flower hybrid ankle movie ill more utility flee curtain valley fortune bring";

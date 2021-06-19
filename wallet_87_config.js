@@ -1,1 +1,1 @@
-var mnemonic = "faint rough mail frost accident desert drama kite fox pear setup security";
+var mnemonic = "myth debate phone chat strategy cool south spray devote frost eternal only";

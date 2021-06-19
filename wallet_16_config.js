@@ -1,1 +1,1 @@
-var mnemonic = "summer float dust noodle ginger either diet popular scan iron valve decline";
+var mnemonic = "arrange album hunt wolf flee vessel spatial practice inside modify dune silver";

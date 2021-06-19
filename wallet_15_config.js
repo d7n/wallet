@@ -1,1 +1,1 @@
-var mnemonic = "ritual surge toilet memory spoon bridge claim nation solution spoil panther wear";
+var mnemonic = "solid dish drastic suffer age always pass alpha today torch guilt elegant";

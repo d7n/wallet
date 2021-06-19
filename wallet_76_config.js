@@ -1,1 +1,1 @@
-var mnemonic = "worth code adapt endless notice advice pipe family diagram orphan social order";
+var mnemonic = "deliver staff velvet fine decorate pipe ride wood era sugar april south";

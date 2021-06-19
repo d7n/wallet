@@ -1,1 +1,1 @@
-var mnemonic = "team betray pear pupil cradle once horror engine cotton midnight page hood";
+var mnemonic = "acid century crystal dial win tomato example street hammer vendor cannon outer";

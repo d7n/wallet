@@ -1,1 +1,1 @@
-var mnemonic = "where galaxy gift bonus charge fog ride ice assault soul turkey time";
+var mnemonic = "vibrant road demand barrel vicious mushroom inherit ordinary valid pepper gallery spread";

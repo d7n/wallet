@@ -1,1 +1,1 @@
-var mnemonic = "liar nation sibling pass call wine horse private foster satisfy robust shoulder";
+var mnemonic = "vacant roof income boring anxiety oven above vague grit hungry hood file";

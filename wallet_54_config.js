@@ -1,1 +1,1 @@
-var mnemonic = "hockey virtual soccer provide pig hungry legend write gym rail card balance";
+var mnemonic = "lyrics deny random scheme laugh sea lunch surface between muscle apology cradle";

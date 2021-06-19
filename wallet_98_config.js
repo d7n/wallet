@@ -1,1 +1,1 @@
-var mnemonic = "birth horse describe trim space amount almost engine width steel engine zebra";
+var mnemonic = "census better certain oak convince they task panic similar mesh undo always";

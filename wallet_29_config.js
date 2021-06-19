@@ -1,1 +1,1 @@
-var mnemonic = "vague visa ozone muscle excite tooth mushroom bacon rally member catalog endorse";
+var mnemonic = "slim grocery artist wisdom language shallow pelican glass chat gun credit mind";

@@ -1,1 +1,1 @@
-var mnemonic = "solid naive dress that elder fold foster adapt excuse hub actual denial";
+var mnemonic = "talk gift guilt like cupboard soldier test hybrid laundry blush sail nurse";

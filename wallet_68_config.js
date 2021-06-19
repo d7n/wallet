@@ -1,1 +1,1 @@
-var mnemonic = "fitness torch identify orphan mix lake cupboard door into town aerobic future";
+var mnemonic = "social ghost valve humor crane degree baby hire never slogan tool green";

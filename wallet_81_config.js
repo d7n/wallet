@@ -1,1 +1,1 @@
-var mnemonic = "atom trash business cup meadow much filter share frost apart grain elephant";
+var mnemonic = "monitor outside today this uphold barely cattle wish session silly nurse moon";

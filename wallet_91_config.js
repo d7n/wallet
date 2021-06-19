@@ -1,1 +1,1 @@
-var mnemonic = "avoid goose write wide vessel fix stable matter aspect baby hamster salmon";
+var mnemonic = "bracket drama forget unique dwarf roof forget alcohol nothing reveal weird ship";

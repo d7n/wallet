@@ -1,1 +1,1 @@
-var mnemonic = "vendor pigeon nurse tuna morning concert grit asset below infant boil become";
+var mnemonic = "bacon gas innocent gather drive clump skate inject fiction goose movie gate";

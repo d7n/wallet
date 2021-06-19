@@ -1,1 +1,1 @@
-var mnemonic = "clinic safe rural hat cook glow popular tragic beauty spend discover robust";
+var mnemonic = "message shield program camp pact account know car magic satoshi buyer immense";

@@ -1,1 +1,1 @@
-var mnemonic = "about rent brother brief palace radio grocery slim blood affair later cram";
+var mnemonic = "trend bring dice clap toe session into across shoe custom brick frequent";

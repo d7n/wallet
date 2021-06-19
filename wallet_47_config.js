@@ -1,1 +1,1 @@
-var mnemonic = "seven uniform wave kitchen meat concert mom across vault brisk desert economy";
+var mnemonic = "tackle buzz impulse cage below decorate cake hedgehog miracle ramp maple balance";

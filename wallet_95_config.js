@@ -1,1 +1,1 @@
-var mnemonic = "august vast evoke much invite order today baby mad company cousin crew";
+var mnemonic = "water swamp orbit civil thought eternal deer cycle empower legend extra daughter";

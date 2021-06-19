@@ -1,1 +1,1 @@
-var mnemonic = "focus test later say dust you valley narrow develop great undo mass";
+var mnemonic = "assault print special ritual series please thing space crowd onion still leader";

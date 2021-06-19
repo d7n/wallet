@@ -1,1 +1,1 @@
-var mnemonic = "gospel trumpet amazing diamond green sun try upper test tuition swim lend";
+var mnemonic = "juice inherit aerobic fragile cage project drive fault target upset wonder siren";

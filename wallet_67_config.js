@@ -1,1 +1,1 @@
-var mnemonic = "isolate window problem attract lamp van cinnamon rigid virus spray pumpkin female";
+var mnemonic = "inject brave equip clump hole ride middle sausage employ dial laptop struggle";

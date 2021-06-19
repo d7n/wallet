@@ -1,1 +1,1 @@
-var mnemonic = "note bike kiss social electric cook green era physical comfort length rescue";
+var mnemonic = "athlete doctor garlic patrol visit gasp net antenna during marine guess glow";

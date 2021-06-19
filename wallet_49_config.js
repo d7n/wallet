@@ -1,1 +1,1 @@
-var mnemonic = "still raccoon wash page hour then execute super detect used stove floor";
+var mnemonic = "napkin salad arm exact garden gap jaguar evidence park fault clock fish";

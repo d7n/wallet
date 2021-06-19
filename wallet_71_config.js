@@ -1,1 +1,1 @@
-var mnemonic = "source demise park fossil drill goose breeze initial devote hurdle remain oval";
+var mnemonic = "ripple priority foam unaware industry buzz story remove drum effort project vapor";

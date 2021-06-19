@@ -1,1 +1,1 @@
-var mnemonic = "assist this awesome fortune pencil involve struggle pyramid excess science camp tissue";
+var mnemonic = "staff traffic exercise blast sorry item budget chronic treat tourist fox dice";

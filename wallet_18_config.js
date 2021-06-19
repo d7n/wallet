@@ -1,1 +1,1 @@
-var mnemonic = "drum street advice dilemma wreck book truth tattoo green search brown release";
+var mnemonic = "pulp school exotic nature margin entire they fly plunge sorry orphan brand";

@@ -1,1 +1,1 @@
-var mnemonic = "iron where jump surface gain host woman delay fuel battle near detect";
+var mnemonic = "present raven company debate grief place what legend super wealth once wasp";

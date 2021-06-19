@@ -1,1 +1,1 @@
-var mnemonic = "mobile ignore bread stone place other cart boat poet east moral wage";
+var mnemonic = "behind book bulb brain hood oyster clay reason battle artist garage embody";

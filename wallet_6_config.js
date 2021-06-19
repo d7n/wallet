@@ -1,1 +1,1 @@
-var mnemonic = "candy man lumber rate season member address quote tower brave rely harbor";
+var mnemonic = "patch come chat family way dance gaze multiply penalty also transfer issue";
