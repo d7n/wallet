@@ -1,1 +1,1 @@
-var mnemonic = "portion custom animal border market electric miss obscure lunar hard fiscal decrease";
+var mnemonic = "affair shock option recipe sleep hire young auto army urban ribbon priority";

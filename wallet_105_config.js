@@ -1,1 +1,1 @@
-var mnemonic = "girl monitor armed oyster goat also glow bright rate silent truly twelve";
+var mnemonic = "right click able rely indicate document dignity forum liquid coil weasel enrich";

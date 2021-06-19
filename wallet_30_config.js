@@ -1,1 +1,1 @@
-var mnemonic = "hockey ranch angle can gown slight lunar market state unaware panel evoke";
+var mnemonic = "saddle reflect indoor method divorce rent choice milk weasel segment defense topple";

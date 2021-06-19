@@ -1,1 +1,1 @@
-var mnemonic = "supply chimney grain tide unfold quick december inside ecology anchor bag hawk";
+var mnemonic = "icon parent utility bundle wage bean empty bachelor donor blush until rival";

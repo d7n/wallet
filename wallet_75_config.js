@@ -1,1 +1,1 @@
-var mnemonic = "gallery coconut arrest prefer wing engine void wait poet glove broom ability";
+var mnemonic = "grant increase festival swift whisper trial problem clap define inherit kitten slide";

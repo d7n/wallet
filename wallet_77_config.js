@@ -1,1 +1,1 @@
-var mnemonic = "original quit key entire author unhappy ladder gloom piano person wide disagree";
+var mnemonic = "snake art space course asthma prepare rally twelve sheriff consider slide task";

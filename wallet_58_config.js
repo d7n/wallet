@@ -1,1 +1,1 @@
-var mnemonic = "wire noble swing magic bean thunder glue end exercise ocean business elite";
+var mnemonic = "stairs olympic illness over give chaos episode give search logic later sleep";

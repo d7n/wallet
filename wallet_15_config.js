@@ -1,1 +1,1 @@
-var mnemonic = "off knife staff blast gadget multiply people buffalo fix assist gospel round";
+var mnemonic = "banner comic just acid picnic burst portion envelope coral force shoulder hurdle";

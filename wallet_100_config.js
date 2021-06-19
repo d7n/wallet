@@ -1,1 +1,1 @@
-var mnemonic = "winter winter material total behave magnet rug solar swamp accident bitter asthma";
+var mnemonic = "voyage online awkward jump print record expect chase capital sea control market";

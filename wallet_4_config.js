@@ -1,1 +1,1 @@
-var mnemonic = "there easily bus urban hospital have unique logic prefer desert modify decide";
+var mnemonic = "universe hand beauty short express equip knife donor fiber onion neutral material";

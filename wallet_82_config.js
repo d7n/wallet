@@ -1,1 +1,1 @@
-var mnemonic = "elephant shell cheap amount you ignore deny pig second stage also space";
+var mnemonic = "pizza assume canal obtain alcohol select cupboard trust decade owner minimum warm";

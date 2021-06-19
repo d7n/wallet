@@ -1,1 +1,1 @@
-var mnemonic = "citizen circle cross butter rough suggest lunch buddy decrease knee violin penalty";
+var mnemonic = "grace tragic toilet game elephant swap twice gather what cycle jaguar captain";

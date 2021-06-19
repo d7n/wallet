@@ -1,1 +1,1 @@
-var mnemonic = "chase group ribbon little mixed sister mother advice law alley orbit auction";
+var mnemonic = "endless april demise enroll provide train pair bullet parrot smooth layer daughter";

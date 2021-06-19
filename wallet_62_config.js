@@ -1,1 +1,1 @@
-var mnemonic = "spike jelly swallow abstract cause holiday hammer city forest leg once thumb";
+var mnemonic = "aim lunch once youth liberty inflict trigger better saddle popular culture lumber";

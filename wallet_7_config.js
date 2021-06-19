@@ -1,1 +1,1 @@
-var mnemonic = "naive menu arrow pet review despair detect hover guitar tissue kitchen grain";
+var mnemonic = "install record draw brush salute cycle base cement space kid toilet fit";

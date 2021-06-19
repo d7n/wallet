@@ -1,1 +1,1 @@
-var mnemonic = "farm wise gym device gas embrace grab indicate warm embark weasel truck";
+var mnemonic = "choose smile debate defense clap siren wash trigger width circle marine shuffle";

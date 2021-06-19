@@ -1,1 +1,1 @@
-var mnemonic = "deer length error holiday middle miss gossip settle left cruel thrive urban";
+var mnemonic = "anxiety gentle rib mean since similar middle view bargain awake bicycle annual";

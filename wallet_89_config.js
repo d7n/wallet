@@ -1,1 +1,1 @@
-var mnemonic = "enjoy charge upgrade obscure wood grocery mixed cook abuse sell flavor gravity";
+var mnemonic = "seminar input luxury ketchup excite coil senior multiply memory spare timber middle";

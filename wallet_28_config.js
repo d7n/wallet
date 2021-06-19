@@ -1,1 +1,1 @@
-var mnemonic = "pull body panel kitchen egg rough there fatigue note daughter best document";
+var mnemonic = "attract round grief merry knee peace economy guess orient health cat wage";

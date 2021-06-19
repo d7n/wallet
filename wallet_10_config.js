@@ -1,1 +1,1 @@
-var mnemonic = "loan measure setup among student stool art enrich spring disagree viable enough";
+var mnemonic = "shrug smile giraffe property behave major vault utility clever embody charge crisp";

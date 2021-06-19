@@ -1,1 +1,1 @@
-var mnemonic = "book brick install burger weekend aspect rate loyal canyon protect noise amused";
+var mnemonic = "keep sunset world vivid violin betray lamp march anxiety asset bonus obey";

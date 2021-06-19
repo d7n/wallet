@@ -1,1 +1,1 @@
-var mnemonic = "jaguar old ahead observe angry humble give under learn mix nerve video";
+var mnemonic = "inhale reveal average path sense purity distance fork foot auto betray better";

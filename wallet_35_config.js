@@ -1,1 +1,1 @@
-var mnemonic = "prefer calm slim rug turkey viable diary economy curve parrot empower cargo";
+var mnemonic = "apology vibrant fall crush scene coach pipe sudden lizard soldier hope base";

@@ -1,1 +1,1 @@
-var mnemonic = "crew ice turkey senior dad hunt pair glove minute near involve glance";
+var mnemonic = "cabin quality sick acoustic hazard post network sunset hazard any involve glare";

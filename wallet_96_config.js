@@ -1,1 +1,1 @@
-var mnemonic = "obscure iron potato march nice off diesel crop dress demise praise ignore";
+var mnemonic = "cheap open farm ball list man aisle image rigid verify tobacco abstract";

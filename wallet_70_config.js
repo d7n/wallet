@@ -1,1 +1,1 @@
-var mnemonic = "almost exist price poem cycle exact satisfy glue slogan federal maid august";
+var mnemonic = "supreme explain disease warm town calm exchange magic diet critic modify crush";

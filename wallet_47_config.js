@@ -1,1 +1,1 @@
-var mnemonic = "spy cost engage lemon science venue hamster remember business fault acid real";
+var mnemonic = "receive neutral auto nominee either luggage fringe rent box spider fit guitar";

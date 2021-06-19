@@ -1,1 +1,1 @@
-var mnemonic = "sleep ribbon celery explain space record dolphin fit also half game concert";
+var mnemonic = "soda shrimp coffee protect focus drive bubble bacon inhale another soup provide";

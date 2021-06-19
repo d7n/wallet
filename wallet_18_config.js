@@ -1,1 +1,1 @@
-var mnemonic = "reflect salon disease hair defense truly ball detail decline fog angry detail";
+var mnemonic = "treat famous popular filter repeat diagram endorse guitar leaf gap inside butter";

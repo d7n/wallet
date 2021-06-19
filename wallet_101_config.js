@@ -1,1 +1,1 @@
-var mnemonic = "fitness ecology square garden color whip chef thrive relax dinosaur pattern ozone";
+var mnemonic = "decade kingdom lounge soul obscure cruise huge need pretty core clog easy";

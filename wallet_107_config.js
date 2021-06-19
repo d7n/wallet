@@ -1,1 +1,1 @@
-var mnemonic = "extend famous digital middle mention scorpion manual machine near gauge renew cool";
+var mnemonic = "portion noodle save benefit soft picnic rally ensure trip rhythm casual citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol net rely ritual ridge lawn acquire prize fork empty material cage";
+var mnemonic = "dentist fatigue lend old hundred twelve gauge trumpet indoor baby bounce decrease";

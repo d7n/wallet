@@ -1,1 +1,1 @@
-var mnemonic = "flame ranch gold select wide regret vicious uncle elite scrap enlist crystal";
+var mnemonic = "fever heart grief more spoon skate gap woman spell frozen chimney method";

@@ -1,1 +1,1 @@
-var mnemonic = "cradle earn bright summer rabbit salon faint interest sock enrich daughter soda";
+var mnemonic = "luggage flip decorate ugly music blame reflect slim evolve wine duck brass";

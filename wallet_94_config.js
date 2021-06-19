@@ -1,1 +1,1 @@
-var mnemonic = "pitch turkey possible invite rare crime begin result original local youth frost";
+var mnemonic = "core absent head inch rich knock torch animal wise slogan language judge";

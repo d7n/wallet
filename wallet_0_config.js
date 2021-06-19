@@ -1,1 +1,1 @@
-var mnemonic = "domain half hire chat fun oyster senior limit flee case blur pretty";
+var mnemonic = "cash scrub sustain frequent rhythm pilot clap address gas excess thumb lift";

@@ -1,1 +1,1 @@
-var mnemonic = "subject together acquire make divide song plug motor allow fatigue proud argue";
+var mnemonic = "clump silly index behind pudding fury rival reveal museum creek game cube";

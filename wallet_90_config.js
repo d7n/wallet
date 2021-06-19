@@ -1,1 +1,1 @@
-var mnemonic = "runway hybrid capable sadness nerve tired sound answer tissue acquire earth vacuum";
+var mnemonic = "guitar ski fox paddle onion admit benefit energy exit pioneer embrace life";

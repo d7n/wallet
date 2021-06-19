@@ -1,1 +1,1 @@
-var mnemonic = "marine improve depend bargain black early vote forward alley switch syrup foster";
+var mnemonic = "sister switch settle stuff umbrella visual language pigeon camera spend space alcohol";

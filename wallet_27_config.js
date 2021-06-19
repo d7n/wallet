@@ -1,1 +1,1 @@
-var mnemonic = "eight buzz upon dentist swim output outside good fringe peasant short clay";
+var mnemonic = "arena gasp balance silk what nurse crop tail tonight cry acoustic kitchen";

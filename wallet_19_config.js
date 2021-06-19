@@ -1,1 +1,1 @@
-var mnemonic = "exit federal catch book mother army upgrade mother lonely never horse day";
+var mnemonic = "light apart badge cactus knee wage stand truth tuition chest quit auto";

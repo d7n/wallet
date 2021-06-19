@@ -1,1 +1,1 @@
-var mnemonic = "strong monitor common quarter flock anchor celery advance morning know upper hair";
+var mnemonic = "raccoon little horn curtain razor car dirt accuse diesel meat level flash";

@@ -1,1 +1,1 @@
-var mnemonic = "husband inherit box price gauge sport fade hill jeans fold summer dream";
+var mnemonic = "latin reject patient theme audit real energy cushion gain vital rice flip";

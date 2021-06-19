@@ -1,1 +1,1 @@
-var mnemonic = "rule endless random copy resource try ice provide fossil mention topic quarter";
+var mnemonic = "bicycle bind talent dwarf oxygen coast permit pipe swallow force symptom much";

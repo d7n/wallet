@@ -1,1 +1,1 @@
-var mnemonic = "swarm dawn leisure space obvious unaware culture live creek rather solution theme";
+var mnemonic = "quiz cabin mix ladder banana unusual apology domain crush speed romance interest";

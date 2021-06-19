@@ -1,1 +1,1 @@
-var mnemonic = "extend echo gentle royal any summer someone sick major child smoke render";
+var mnemonic = "decline marine rookie bacon language hobby evolve oil message shaft upon then";

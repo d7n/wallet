@@ -1,1 +1,1 @@
-var mnemonic = "stomach upset sweet stem process slot orchard girl usual chapter remind kit";
+var mnemonic = "fortune loop glue debate dilemma program job picture market change ahead drill";

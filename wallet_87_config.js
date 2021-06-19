@@ -1,1 +1,1 @@
-var mnemonic = "egg relax afraid entire anger bench physical scrap flight learn dentist gaze";
+var mnemonic = "any faculty chuckle baby sing brain course write feel lizard crater hurt";

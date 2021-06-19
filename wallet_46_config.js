@@ -1,1 +1,1 @@
-var mnemonic = "unit entire unaware latin embody mix tower gold poverty mesh tackle business";
+var mnemonic = "mango wage nest blue neutral leaf resist fruit account connect marble change";

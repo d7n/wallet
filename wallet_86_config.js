@@ -1,1 +1,1 @@
-var mnemonic = "clay melody long slush icon salmon lunch knock quality plunge provide come";
+var mnemonic = "borrow staff route fine unusual trade noise jungle flip blast shoulder steak";

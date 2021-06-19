@@ -1,1 +1,1 @@
-var mnemonic = "service special hobby cabin absurd energy essence wage suggest clutch affair abandon";
+var mnemonic = "evil general gospel puzzle deputy blur replace brand spy warm boil climb";

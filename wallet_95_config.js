@@ -1,1 +1,1 @@
-var mnemonic = "air obey argue tell juice table resemble slender casual inject cotton suffer";
+var mnemonic = "fluid zoo assume dynamic pizza dance parade donkey code donor during crucial";

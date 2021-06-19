@@ -1,1 +1,1 @@
-var mnemonic = "lizard twice entry announce autumn vintage patch survey first jaguar holiday apart";
+var mnemonic = "trade country coffee afford couch syrup shiver shuffle else element truly organ";

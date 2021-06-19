@@ -1,1 +1,1 @@
-var mnemonic = "home agent round letter cheap upper actual gun rare result window below";
+var mnemonic = "box total text typical angle weasel wealth castle brand kangaroo useless renew";

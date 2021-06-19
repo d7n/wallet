@@ -1,1 +1,1 @@
-var mnemonic = "entire fringe vicious avocado grass convince check issue broccoli aspect setup abuse";
+var mnemonic = "spice shock soccer anchor release cruel slide expose warfare business mom quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "frame super neck crash genre mad ozone empower faith film tree leave";
+var mnemonic = "aerobic furnace radar wash general search obtain spring boring taste pretty dash";

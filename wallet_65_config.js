@@ -1,1 +1,1 @@
-var mnemonic = "news bus decorate skull offer episode frown shaft dawn increase match outer";
+var mnemonic = "job dune segment wave present leopard student unhappy old simple robot ten";

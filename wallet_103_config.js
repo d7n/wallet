@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur guard arena creek organ despair surround stock scrap sing clump clap";
+var mnemonic = "arch tiny net elite life erode zero basket spice toddler century unknown";

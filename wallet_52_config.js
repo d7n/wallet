@@ -1,1 +1,1 @@
-var mnemonic = "alter flip wreck chief near wood choice other token surprise local ecology";
+var mnemonic = "prevent empower swim allow render knee wrist milk joy rose holiday mind";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard tragic cheese hungry parrot solution aspect zoo way will soda path";
+var mnemonic = "another slight club repeat palm match myself scout peanut sunset spare forward";

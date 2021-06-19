@@ -1,1 +1,1 @@
-var mnemonic = "agree eagle vapor hole cover seminar trust snow predict guilt right stem";
+var mnemonic = "tired maze excite steel hub tone armed fever inspire water silent else";

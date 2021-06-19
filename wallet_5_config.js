@@ -1,1 +1,1 @@
-var mnemonic = "paddle tail kite label repeat core theory together pond audit physical mean";
+var mnemonic = "assault eagle force carpet maid myth dad zone silver destroy meat today";

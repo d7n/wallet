@@ -1,1 +1,1 @@
-var mnemonic = "buyer enough almost fashion nice arrow hand armed mail bulb current when";
+var mnemonic = "tattoo enroll ancient light model lizard food angry replace final fiscal circle";

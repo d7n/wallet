@@ -1,1 +1,1 @@
-var mnemonic = "tent lift latin pact mix blue become bamboo veteran ethics response typical";
+var mnemonic = "asthma float wrist hundred gaze quote call picnic rubber diesel between air";

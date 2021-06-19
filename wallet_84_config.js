@@ -1,1 +1,1 @@
-var mnemonic = "correct use hip around enlist correct problem exercise north pistol affair save";
+var mnemonic = "purity foam solar regular govern idle still eight above addict flag notice";

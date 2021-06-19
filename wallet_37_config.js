@@ -1,1 +1,1 @@
-var mnemonic = "sing logic across hire mixture cup cream industry lens notable arrest reform";
+var mnemonic = "club pepper evoke victory blade skirt knife hunt advance town mushroom vanish";

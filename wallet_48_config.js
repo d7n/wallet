@@ -1,1 +1,1 @@
-var mnemonic = "swamp material chronic beyond glass sibling alone cry segment chronic actor pipe";
+var mnemonic = "sail grief top trash flavor logic ring bike spider silent century cherry";

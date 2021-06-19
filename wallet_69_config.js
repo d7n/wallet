@@ -1,1 +1,1 @@
-var mnemonic = "tomato unhappy mimic together chef squeeze thunder cash eternal surge maid burden";
+var mnemonic = "snap fragile matter narrow erase chief grain subject earn exclude run material";

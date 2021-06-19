@@ -1,1 +1,1 @@
-var mnemonic = "narrow fame ocean chest detect flavor sign human rebuild response under exercise";
+var mnemonic = "wheat indicate kitchen behind rapid critic wool galaxy ozone table movie fossil";

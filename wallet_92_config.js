@@ -1,1 +1,1 @@
-var mnemonic = "hybrid mobile security alpha maid rebel wedding satisfy liquid wrist cement aerobic";
+var mnemonic = "buzz mention spawn okay address famous near episode wire sauce glow helmet";

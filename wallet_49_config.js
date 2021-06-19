@@ -1,1 +1,1 @@
-var mnemonic = "tide valid pulse bargain among wash pattern rebel lady monster task crush";
+var mnemonic = "soft outside rigid asset depend fetch vessel public clay grocery neglect pride";

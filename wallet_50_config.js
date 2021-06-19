@@ -1,1 +1,1 @@
-var mnemonic = "quit reveal neck physical street dance fashion glare uphold grit master trend";
+var mnemonic = "rubber cruise false ramp volume raven gain stuff consider attack retire sadness";

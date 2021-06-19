@@ -1,1 +1,1 @@
-var mnemonic = "ramp wet auto life prevent leave meat wing attract curious diagram space";
+var mnemonic = "portion fee thumb orbit child forward village squeeze tube velvet mechanic decide";

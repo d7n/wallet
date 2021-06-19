@@ -1,1 +1,1 @@
-var mnemonic = "gauge vivid tired program loud celery sign nephew ring color review peace";
+var mnemonic = "rug squeeze crisp canal clarify border pause love arrange grape copy joke";

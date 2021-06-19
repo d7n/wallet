@@ -1,1 +1,1 @@
-var mnemonic = "farm supreme group couple priority question lobster before nut member captain camera";
+var mnemonic = "pumpkin asthma quarter lucky useless donkey iron brand basket dust dance forest";

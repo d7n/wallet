@@ -1,1 +1,1 @@
-var mnemonic = "scale grunt resemble inhale original dice absent mistake urban apart print razor";
+var mnemonic = "media embody member gain escape cat across boss confirm dish accuse baby";

@@ -1,1 +1,1 @@
-var mnemonic = "knock impulse deputy odor dove market rather peasant page crack visual kidney";
+var mnemonic = "trigger decade medal desert pair gain drill almost bullet disease fever coil";

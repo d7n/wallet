@@ -1,1 +1,1 @@
-var mnemonic = "visual prevent cabin hero option drive lend board fan drive brave slender";
+var mnemonic = "rookie ice tilt exchange high cattle snake fiscal goose erode wolf mammal";

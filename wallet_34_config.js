@@ -1,1 +1,1 @@
-var mnemonic = "cousin stamp knee surge lens crater minor local caught sheriff trigger harbor";
+var mnemonic = "orchard endorse castle garbage use acoustic canyon vague core ramp truck swim";

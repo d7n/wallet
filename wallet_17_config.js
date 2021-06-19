@@ -1,1 +1,1 @@
-var mnemonic = "lemon essence dinosaur jealous rebel year favorite female medal street inhale dial";
+var mnemonic = "exact bridge valve there toe tide situate junior famous spatial tooth birth";

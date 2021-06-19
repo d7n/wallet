@@ -1,1 +1,1 @@
-var mnemonic = "giraffe damp boil hawk pattern twelve exit jeans ozone swear ask doctor";
+var mnemonic = "layer journey social island segment wealth drift funny payment champion crop vendor";

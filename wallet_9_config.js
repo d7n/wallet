@@ -1,1 +1,1 @@
-var mnemonic = "pet tooth shock garment napkin rifle mix face toy enrich bread notice";
+var mnemonic = "farm caught boss pill ride first talent soccer attack awkward digital series";

@@ -1,1 +1,1 @@
-var mnemonic = "joy insect fossil you guilt funny deliver ketchup fork broom silver reason";
+var mnemonic = "picture exotic orchard wolf lounge whip require utility night alien agree plastic";

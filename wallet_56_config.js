@@ -1,1 +1,1 @@
-var mnemonic = "fruit monster heavy board retreat design skate carpet cattle goat fat giraffe";
+var mnemonic = "nerve grace educate jungle scheme laptop into exclude goose easy wool fog";

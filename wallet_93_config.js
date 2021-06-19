@@ -1,1 +1,1 @@
-var mnemonic = "antique belt orient inside disease car piano design idea rival barrel popular";
+var mnemonic = "start champion around remind return virtual balcony under balance galaxy soft inch";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson have poverty letter spider license key infant corn split language pink";
+var mnemonic = "street abuse grocery burden obtain glance lazy measure salmon stomach box extend";

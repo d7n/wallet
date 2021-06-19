@@ -1,1 +1,1 @@
-var mnemonic = "observe spatial space air resource glass drip inject execute wink soldier stock";
+var mnemonic = "inside fish embark spoil fox space horse birth solve gap ten master";

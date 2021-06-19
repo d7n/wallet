@@ -1,1 +1,1 @@
-var mnemonic = "similar jelly chest host master typical dry worth issue develop lecture rice";
+var mnemonic = "beach parrot jeans palm habit hedgehog secret answer length expand jaguar desert";
