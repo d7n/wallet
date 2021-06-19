@@ -1,1 +1,1 @@
-var mnemonic = "shy among velvet excuse seven approve cruise autumn farm prevent garbage toast";
+var mnemonic = "output admit village girl denial sniff raven sample pass taxi deal bachelor";

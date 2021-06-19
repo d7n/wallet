@@ -1,1 +1,1 @@
-var mnemonic = "win feed tourist learn uniform evil person blush knife romance assault frog";
+var mnemonic = "major catalog inherit virus crazy afford priority budget grape hip effort must";

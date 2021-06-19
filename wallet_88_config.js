@@ -1,1 +1,1 @@
-var mnemonic = "little couch garden book slim icon excite moral teach silent primary cave";
+var mnemonic = "sting slight thumb clown toddler wealth toast hill pretty crater music village";

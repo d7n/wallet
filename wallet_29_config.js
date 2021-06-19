@@ -1,1 +1,1 @@
-var mnemonic = "taxi release mammal worry develop gain perfect pledge charge obscure tattoo clump";
+var mnemonic = "long plate judge whisper mechanic depart observe abuse vicious deputy village clarify";

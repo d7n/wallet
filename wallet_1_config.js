@@ -1,1 +1,1 @@
-var mnemonic = "whip because accident human salon upgrade enemy antique squirrel process wrestle repair";
+var mnemonic = "tired track horse antique panther crawl catch stove until title taxi laptop";

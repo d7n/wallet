@@ -1,1 +1,1 @@
-var mnemonic = "mean almost link pizza practice fancy focus diary vivid cushion globe urban";
+var mnemonic = "impulse banner supply arena oak safe unlock tank quick sustain citizen crunch";

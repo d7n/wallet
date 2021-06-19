@@ -1,1 +1,1 @@
-var mnemonic = "crisp shrug notable suspect time boil broom crunch inflict water into injury";
+var mnemonic = "goat step fever inhale glove tooth pause street slush hurdle ivory trend";

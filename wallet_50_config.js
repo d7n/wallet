@@ -1,1 +1,1 @@
-var mnemonic = "clerk time pigeon cluster art quantum photo mother one foster shadow hospital";
+var mnemonic = "wall dry globe bulb easily effort tornado wood rapid admit wait pluck";

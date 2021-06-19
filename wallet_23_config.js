@@ -1,1 +1,1 @@
-var mnemonic = "wrap own load shy peace wish one expire mother bamboo popular loud";
+var mnemonic = "bargain retreat disagree road visual giraffe deposit joke field blouse skirt option";

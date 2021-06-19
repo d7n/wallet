@@ -1,1 +1,1 @@
-var mnemonic = "change vacuum enemy foil talent tide sudden atom lumber clap stone donor";
+var mnemonic = "breeze ladder deliver hospital drive shoe close harvest derive wolf recycle purse";

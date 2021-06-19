@@ -1,1 +1,1 @@
-var mnemonic = "spy grit palace discover spirit cute arm anchor deliver quarter slot notice";
+var mnemonic = "friend champion business pride obvious engine speak volume brown bid travel access";

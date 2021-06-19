@@ -1,1 +1,1 @@
-var mnemonic = "frog history moment tent recycle second produce involve calm essence minor sick";
+var mnemonic = "mail proof mouse sister brown blind mercy gap potato chimney tank cement";

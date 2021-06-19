@@ -1,1 +1,1 @@
-var mnemonic = "option choose invest crush what fossil shine ring kangaroo liar prefer moon";
+var mnemonic = "remove island extend clock surprise powder vault garden color loud hat village";

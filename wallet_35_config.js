@@ -1,1 +1,1 @@
-var mnemonic = "fan autumn tourist race require glove afford reject salute scatter scorpion good";
+var mnemonic = "spring forest banner half wrestle crazy rebuild sing butter actual brisk view";

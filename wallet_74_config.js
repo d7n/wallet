@@ -1,1 +1,1 @@
-var mnemonic = "dumb drive power mountain seven toilet rotate buzz roast fuel spare already";
+var mnemonic = "brisk embody six fault catch luxury lake crush endorse invest labor glide";

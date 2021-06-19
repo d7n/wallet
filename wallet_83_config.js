@@ -1,1 +1,1 @@
-var mnemonic = "price media hat caught weapon volcano possible biology idle rent alley party";
+var mnemonic = "smile system bid robust actor lucky language ceiling learn knee asset shuffle";

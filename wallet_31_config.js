@@ -1,1 +1,1 @@
-var mnemonic = "taste slam knee plunge tonight brown month silly lounge second modify excite";
+var mnemonic = "web obvious chair weasel strategy page diary family easy stairs corn skin";

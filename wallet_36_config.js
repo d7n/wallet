@@ -1,1 +1,1 @@
-var mnemonic = "feel exile cool odor coral wing valley cheap fruit happy train silk";
+var mnemonic = "tide despair matrix entire valve regret eagle city bitter feed ready bench";

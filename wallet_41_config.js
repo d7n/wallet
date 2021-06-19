@@ -1,1 +1,1 @@
-var mnemonic = "hint era wreck better sorry bid bubble own chapter mixture film table";
+var mnemonic = "frost jacket minor spider cart boil spoil repair illness orchard reopen letter";

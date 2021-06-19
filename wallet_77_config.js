@@ -1,1 +1,1 @@
-var mnemonic = "usual oak fitness erosion shift work tourist high surround correct inner clump";
+var mnemonic = "dignity volcano vanish fatigue dog sense bracket local humble inspire guilt priority";

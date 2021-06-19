@@ -1,1 +1,1 @@
-var mnemonic = "settle august icon property baby relax human entry tank crisp grab castle";
+var mnemonic = "supreme practice casino dawn build cheap share edge meadow choice coach live";

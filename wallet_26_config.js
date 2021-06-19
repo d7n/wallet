@@ -1,1 +1,1 @@
-var mnemonic = "file nation robust raw brush walk accuse island reward author half siren";
+var mnemonic = "distance usage divorce radar media almost harbor shove topple where among where";

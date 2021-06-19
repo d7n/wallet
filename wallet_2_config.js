@@ -1,1 +1,1 @@
-var mnemonic = "brick scene render furnace birth burden odor beauty trade reflect forward truly";
+var mnemonic = "ribbon spoil hour gain elite fatal purity choice actress admit cinnamon push";

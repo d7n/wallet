@@ -1,1 +1,1 @@
-var mnemonic = "provide cigar staff forget perfect horror enact bachelor prize final dragon apart";
+var mnemonic = "decline spend inspire gauge sleep caught boss library luggage joke army month";

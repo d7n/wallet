@@ -1,1 +1,1 @@
-var mnemonic = "subway tube super machine economy frown cook taxi miss water spice catch";
+var mnemonic = "empty gentle afraid muffin purpose dream arena dentist corn empty current measure";

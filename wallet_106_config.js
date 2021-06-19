@@ -1,1 +1,1 @@
-var mnemonic = "nuclear scatter romance pride vicious dose awkward manage foot guess bag lake";
+var mnemonic = "push claw rack please funny young stamp asset hungry skill shiver universe";

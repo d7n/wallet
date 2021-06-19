@@ -1,1 +1,1 @@
-var mnemonic = "display trouble keep oil rescue general life rice april sketch select sail";
+var mnemonic = "today original angry parent art toddler young away dolphin repeat legal photo";

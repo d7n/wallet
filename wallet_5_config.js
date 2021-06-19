@@ -1,1 +1,1 @@
-var mnemonic = "company replace future immune play problem medal hub acquire paddle turkey kind";
+var mnemonic = "damp debris depart indicate remember custom modify powder word oil summer element";

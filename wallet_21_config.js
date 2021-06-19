@@ -1,1 +1,1 @@
-var mnemonic = "embark cost coffee ladder marble help organ sort annual observe hair behave";
+var mnemonic = "expose trust divide tribe response seed comic earth space finger ceiling capital";

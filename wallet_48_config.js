@@ -1,1 +1,1 @@
-var mnemonic = "move play spring treat leisure humble solid kiss gravity seven praise harsh";
+var mnemonic = "promote train purpose palace journey general attract tell divide remain syrup general";

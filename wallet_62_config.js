@@ -1,1 +1,1 @@
-var mnemonic = "grape arrange lunch uniform owner mass negative force okay large copper unveil";
+var mnemonic = "junior earth file number miracle acquire smoke salt guess tube cushion dutch";

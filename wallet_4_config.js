@@ -1,1 +1,1 @@
-var mnemonic = "budget tree spin venue anchor segment exchange very wall exchange border fossil";
+var mnemonic = "maple mixture dash silent gold endless helmet liquid hotel public magic resource";

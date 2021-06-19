@@ -1,1 +1,1 @@
-var mnemonic = "forget minimum portion install diagram embark recipe regret vicious absent aunt upgrade";
+var mnemonic = "raise globe sun enroll digital pill universe brave odor always helmet nominee";

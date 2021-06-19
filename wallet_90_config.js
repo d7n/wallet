@@ -1,1 +1,1 @@
-var mnemonic = "black sadness trophy collect pet clutch include reflect disorder run tank scissors";
+var mnemonic = "link pencil lazy biology grit neck trim crystal forget advice twelve leopard";

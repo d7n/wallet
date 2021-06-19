@@ -1,1 +1,1 @@
-var mnemonic = "exit magnet crack remember home tragic race you kangaroo frequent tag medal";
+var mnemonic = "cave when catch shrimp zero vivid dance session deny chuckle runway general";

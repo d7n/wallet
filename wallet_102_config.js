@@ -1,1 +1,1 @@
-var mnemonic = "neutral arrow orbit idle insect venture click fat bomb destroy settle dove";
+var mnemonic = "run taxi humble aim melt field insane airport question govern student expand";

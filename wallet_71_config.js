@@ -1,1 +1,1 @@
-var mnemonic = "popular drip immense knee oak vault bean rapid rookie coast define siren";
+var mnemonic = "bread salmon bag cradle warm dumb donor remain price entire gaze bean";

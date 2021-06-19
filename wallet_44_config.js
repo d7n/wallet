@@ -1,1 +1,1 @@
-var mnemonic = "worth journey fee estate flat artist because spoil language worth pink hub";
+var mnemonic = "change actual square stadium forward hat exact when aspect punch home grow";

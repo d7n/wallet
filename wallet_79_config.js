@@ -1,1 +1,1 @@
-var mnemonic = "final subway away same twelve express bulk acid measure aunt galaxy muscle";
+var mnemonic = "fever bird cable web churn grit begin find predict circle yellow lake";

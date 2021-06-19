@@ -1,1 +1,1 @@
-var mnemonic = "modify silly manage march phrase can soap protect limit genuine topple prison";
+var mnemonic = "flower sing apple burst economy term exercise question kiwi stool paper web";

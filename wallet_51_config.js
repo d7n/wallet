@@ -1,1 +1,1 @@
-var mnemonic = "loan wish dilemma horse absent thunder float math dinosaur sugar roast warfare";
+var mnemonic = "chimney bunker fiber nominee alien pony portion cluster melody naive end gaze";

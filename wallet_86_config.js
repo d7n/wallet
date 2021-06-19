@@ -1,1 +1,1 @@
-var mnemonic = "talk aisle staff pottery icon grocery pony nose love enlist multiply blouse";
+var mnemonic = "tonight panel occur hazard fiscal birth guilt simple wide leaf trial discover";

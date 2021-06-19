@@ -1,1 +1,1 @@
-var mnemonic = "current shift grunt rule sell window security grunt elder tape talent tide";
+var mnemonic = "suggest west vintage behind axis fee fork neutral visa gossip advice review";

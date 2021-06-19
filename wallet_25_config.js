@@ -1,1 +1,1 @@
-var mnemonic = "pause green antique accuse inform ready distance urge involve teach hand off";
+var mnemonic = "mirror possible success best cactus idle weekend anger moment stage medal cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "because art convince borrow pattern hybrid advance ordinary ability belt song forget";
+var mnemonic = "indoor tooth lumber power fix bonus gaze question expect thing success nature";

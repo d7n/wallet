@@ -1,1 +1,1 @@
-var mnemonic = "picnic income hundred tribe expand solid trend whale peanut dash slogan rally";
+var mnemonic = "celery young duck surprise social present sphere top moment quick merry deny";

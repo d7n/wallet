@@ -1,1 +1,1 @@
-var mnemonic = "alert muscle fork path sponsor enjoy adapt sting step liquid census vague";
+var mnemonic = "brush three inform behind topic scene jaguar license raccoon whip canoe ahead";

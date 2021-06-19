@@ -1,1 +1,1 @@
-var mnemonic = "cement angry battle decade private exit bid focus give image sadness invite";
+var mnemonic = "same nut insane library teach drink stove gaze cradle panda tuna crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "noise merge noble world robot local dream assume between obscure avocado twice";
+var mnemonic = "mutual gift neither ethics step timber rookie depend color rifle parrot subject";

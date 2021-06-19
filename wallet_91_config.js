@@ -1,1 +1,1 @@
-var mnemonic = "satoshi joke chicken lizard news rookie hockey upset call supreme powder drill";
+var mnemonic = "current chalk silver choice oyster hold brick mistake error tongue announce song";

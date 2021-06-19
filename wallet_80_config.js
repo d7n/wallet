@@ -1,1 +1,1 @@
-var mnemonic = "effort defense more junk race quantum laugh bacon dizzy legend dilemma notable";
+var mnemonic = "grief seminar vicious student dwarf manual humble common indoor remind try leave";

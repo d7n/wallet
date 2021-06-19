@@ -1,1 +1,1 @@
-var mnemonic = "sunny spare torch enforce genuine paddle seminar heart rely glance panda smoke";
+var mnemonic = "boil win myth clip cycle consider route top sense test various husband";

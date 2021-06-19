@@ -1,1 +1,1 @@
-var mnemonic = "mountain easily dinosaur super address veteran version poverty cup fog strategy organ";
+var mnemonic = "industry arrest giant post tiny pretty use federal valid fever donkey ten";

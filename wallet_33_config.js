@@ -1,1 +1,1 @@
-var mnemonic = "cereal allow trumpet term absent term medal trial caution edit figure obvious";
+var mnemonic = "cigar treat parent sentence auto adjust remember pet depend rigid cash put";

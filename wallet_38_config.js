@@ -1,1 +1,1 @@
-var mnemonic = "arch flat between damp duck festival mesh carry kid ceiling denial fun";
+var mnemonic = "tackle math hybrid solid coconut elephant jump dumb bind music melody vocal";

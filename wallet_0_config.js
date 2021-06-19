@@ -1,1 +1,1 @@
-var mnemonic = "pave dry settle plug husband conduct december coyote wasp able mutual cry";
+var mnemonic = "option eternal inject flock must edge social base card eight copy december";

@@ -1,1 +1,1 @@
-var mnemonic = "mango winter fox venue throw crack snake spin brother trap help wise";
+var mnemonic = "sail bomb hold between skin course maze teach lift town hospital fun";

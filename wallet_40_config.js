@@ -1,1 +1,1 @@
-var mnemonic = "sock cousin type dove close appear two name price ghost sudden license";
+var mnemonic = "cart panther fat speed floor crater pattern bundle employ despair record grow";

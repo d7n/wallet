@@ -1,1 +1,1 @@
-var mnemonic = "eight great little glove globe embark twenty human repeat notice purity course";
+var mnemonic = "loud rebel left february flame chat drink coach own hedgehog drum raw";

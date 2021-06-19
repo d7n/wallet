@@ -1,1 +1,1 @@
-var mnemonic = "inquiry atom random critic net critic pipe modify elder design raw attack";
+var mnemonic = "this motion black output sea rural globe breeze divide gentle peasant tired";

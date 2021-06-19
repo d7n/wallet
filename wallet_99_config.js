@@ -1,1 +1,1 @@
-var mnemonic = "near blame wisdom tonight embody cluster ring group equip noble hair flat";
+var mnemonic = "slogan biology material oppose space drill glance dial exotic near code tourist";

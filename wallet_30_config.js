@@ -1,1 +1,1 @@
-var mnemonic = "lamp transfer sing sketch utility rug tornado mansion tank crush glance upgrade";
+var mnemonic = "glow either envelope senior fun earth tissue stock brief expect where order";

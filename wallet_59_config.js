@@ -1,1 +1,1 @@
-var mnemonic = "toddler oval logic intact meat view faint twenty frequent crime near loop";
+var mnemonic = "diagram random leisure grid violin poem wheat boss profit pepper curious snow";

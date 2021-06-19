@@ -1,1 +1,1 @@
-var mnemonic = "nature nurse bottom crawl bullet curve fan drill tissue okay tribe giant";
+var mnemonic = "wisdom venture equip suspect brass tackle museum fish connect dish enrich genius";

@@ -1,1 +1,1 @@
-var mnemonic = "limit tag entry stamp mind glory gloom renew urban tissue fantasy slogan";
+var mnemonic = "walnut vanish rail student slab craft caution nose small they riot thunder";

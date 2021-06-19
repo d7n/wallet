@@ -1,1 +1,1 @@
-var mnemonic = "doctor hat immune scheme media pupil human enforce good hard fence alone";
+var mnemonic = "inflict slice rude move trophy sell raise assault organ write giraffe abandon";

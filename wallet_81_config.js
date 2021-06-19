@@ -1,1 +1,1 @@
-var mnemonic = "family bundle help carpet reject salmon junior carbon shuffle exit copy spend";
+var mnemonic = "raccoon eight title bread stomach home match mercy process pull alarm body";

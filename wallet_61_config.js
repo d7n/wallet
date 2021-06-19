@@ -1,1 +1,1 @@
-var mnemonic = "cross amazing about swallow north suspect initial maple seven erosion impact input";
+var mnemonic = "entire hurdle library silent tumble amateur session habit glove tag state purpose";

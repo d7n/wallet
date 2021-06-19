@@ -1,1 +1,1 @@
-var mnemonic = "normal next sing logic silly carbon urge naive wine endorse light person";
+var mnemonic = "outside jungle health extend crowd coil dismiss usual valley when fringe clay";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral balcony capital lunar require worry curtain paper fatigue aspect wreck climb";
+var mnemonic = "solution reject next gentle twin portion state process scatter young echo sand";

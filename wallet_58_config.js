@@ -1,1 +1,1 @@
-var mnemonic = "try unlock leopard quote segment magnet elbow alone prize top nasty sister";
+var mnemonic = "unusual gown grass patrol then worth awkward stay bus orphan random wasp";

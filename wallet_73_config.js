@@ -1,1 +1,1 @@
-var mnemonic = "original net flower coast slogan outer morning label insect merge level february";
+var mnemonic = "tube need gossip illegal fog guess frequent average ribbon top soap husband";

@@ -1,1 +1,1 @@
-var mnemonic = "secret intact ten wine stone shed when raven feature climb mercy dream";
+var mnemonic = "energy recall opinion eagle front convince detect frequent sort raccoon this price";

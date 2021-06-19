@@ -1,1 +1,1 @@
-var mnemonic = "hundred worry garlic shrimp mystery assault bless gain visit nominee modify multiply";
+var mnemonic = "gift climb later sibling enter south say flash steel exotic boss mushroom";

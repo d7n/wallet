@@ -1,1 +1,1 @@
-var mnemonic = "sun crazy bounce garage country amazing matter desert record course era indoor";
+var mnemonic = "deal copy hard answer entry lock sponsor uncle eagle october tortoise hope";

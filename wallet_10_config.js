@@ -1,1 +1,1 @@
-var mnemonic = "call brick depart chase bind matter clock ring fashion frog strong foster";
+var mnemonic = "arrest entire plunge off thought grief school merit nominee off visit pipe";

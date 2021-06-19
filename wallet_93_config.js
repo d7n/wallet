@@ -1,1 +1,1 @@
-var mnemonic = "radio clean network furnace keep welcome vivid tape glare hero just delay";
+var mnemonic = "panel destroy cannon youth segment taste stock basket month never keep text";

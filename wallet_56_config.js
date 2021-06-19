@@ -1,1 +1,1 @@
-var mnemonic = "hello use priority romance refuse capable solar fruit hidden lab double floor";
+var mnemonic = "shaft crystal thunder purity fog public tower penalty receive box velvet daring";

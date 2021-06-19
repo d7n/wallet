@@ -1,1 +1,1 @@
-var mnemonic = "critic quote wine crunch hover brother reopen spoon cream version tornado pear";
+var mnemonic = "illegal used blouse drift genre prosper pluck pattern stone unfold level include";

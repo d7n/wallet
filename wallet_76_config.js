@@ -1,1 +1,1 @@
-var mnemonic = "twist spy obtain pledge dwarf outdoor crane attend forest unhappy monster destroy";
+var mnemonic = "give labor stuff giant six ceiling intact unique hotel couch state uniform";

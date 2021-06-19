@@ -1,1 +1,1 @@
-var mnemonic = "drift weekend hundred stand also grief office coyote kangaroo shuffle year income";
+var mnemonic = "hazard oyster tragic planet maximum time exchange nothing require flash supply sell";

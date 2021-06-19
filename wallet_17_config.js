@@ -1,1 +1,1 @@
-var mnemonic = "sea story asset steak warrior debate dizzy direct civil arrest increase punch";
+var mnemonic = "alley carry census race enjoy future teach guide cycle bundle correct fetch";

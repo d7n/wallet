@@ -1,1 +1,1 @@
-var mnemonic = "tonight worth machine system limb movie flush want monster sweet solar belt";
+var mnemonic = "observe issue region other away control penalty cry machine monster device junk";

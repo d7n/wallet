@@ -1,1 +1,1 @@
-var mnemonic = "write hover mass student noodle purse enough actress exhibit ahead mesh crawl";
+var mnemonic = "impulse flip mass venture puzzle marriage morning thumb school fruit wasp trouble";

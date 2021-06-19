@@ -1,1 +1,1 @@
-var mnemonic = "celery frequent alien giraffe adapt notable behave allow rotate roof option auction";
+var mnemonic = "trap endless display coast lock income perfect save release slogan subway force";

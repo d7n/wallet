@@ -1,1 +1,1 @@
-var mnemonic = "speak question aerobic grain tattoo miracle zebra flavor suspect camp tag alien";
+var mnemonic = "zebra annual ice chase sibling fabric force electric act good live version";

@@ -1,1 +1,1 @@
-var mnemonic = "reject until win razor opera gate horse century foam chase reform pulse";
+var mnemonic = "attitude shock where lunar already palace code glow middle slide crew attack";

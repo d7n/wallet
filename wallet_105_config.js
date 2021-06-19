@@ -1,1 +1,1 @@
-var mnemonic = "together spoon vault purity wood cluster solid damp dinosaur cattle alpha account";
+var mnemonic = "attend secret fish gadget welcome exact volcano whisper radar attend human easily";

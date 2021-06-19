@@ -1,1 +1,1 @@
-var mnemonic = "update forget person left capital pizza during lottery easy spray ribbon salute";
+var mnemonic = "valve defy betray famous aware prize ethics auto snake shed skirt nothing";

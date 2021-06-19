@@ -1,1 +1,1 @@
-var mnemonic = "hood cheap walnut lawn bomb gossip talk again hand effort peace trap";
+var mnemonic = "egg capital above crop sand apart thought mom market crush can thumb";

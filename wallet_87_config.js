@@ -1,1 +1,1 @@
-var mnemonic = "beef south boy rhythm debris trust vacant success young october canvas neglect";
+var mnemonic = "beach stable begin trend super mad tobacco insect drastic drop gadget depth";

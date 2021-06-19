@@ -1,1 +1,1 @@
-var mnemonic = "prosper cat iron nest wagon various entry shield wool place weekend stomach";
+var mnemonic = "cupboard dentist health viable render happy embark scale region when sleep quality";

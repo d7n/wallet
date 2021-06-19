@@ -1,1 +1,1 @@
-var mnemonic = "gate peasant misery live fantasy bargain elephant science ranch outdoor buzz road";
+var mnemonic = "tomato remind unaware rigid mass key round other raven series fossil nurse";

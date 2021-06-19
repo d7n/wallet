@@ -1,1 +1,1 @@
-var mnemonic = "inner bus gossip provide dune enforce chalk accident rifle multiply under planet";
+var mnemonic = "use music excite syrup skate tomorrow dragon short loop foot believe skirt";
