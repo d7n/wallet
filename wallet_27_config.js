@@ -1,1 +1,1 @@
-var mnemonic = "gossip tattoo later wash acid fox strike banana drop super minor vendor";
+var mnemonic = "equal make wage file skull eye rival hidden grow trumpet club melody";

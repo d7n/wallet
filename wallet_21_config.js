@@ -1,1 +1,1 @@
-var mnemonic = "fox under network swim quality ahead wreck monster peanut rabbit settle actor";
+var mnemonic = "vehicle model unlock donkey vehicle degree fit shield bright impact click more";

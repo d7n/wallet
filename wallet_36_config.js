@@ -1,1 +1,1 @@
-var mnemonic = "coral quarter elegant face magnet buyer around devote cry wall year never";
+var mnemonic = "black nerve wage play strong story enable copy guard dream affair decide";

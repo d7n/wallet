@@ -1,1 +1,1 @@
-var mnemonic = "wave scissors pony buddy way despair vicious gym mother betray believe acoustic";
+var mnemonic = "visa disease frame patient mango subject orange expose boring tired school evoke";

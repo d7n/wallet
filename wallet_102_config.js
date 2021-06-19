@@ -1,1 +1,1 @@
-var mnemonic = "clown snap profit pride fan crumble afford another lyrics seminar skirt alpha";
+var mnemonic = "mention tuition half tail wood glimpse bid dose obtain cotton bitter junk";

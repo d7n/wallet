@@ -1,1 +1,1 @@
-var mnemonic = "report pupil ten abuse monster glare hunt home today above aisle skin";
+var mnemonic = "ginger tortoise trial comfort marriage case myth palace decorate sound size jeans";

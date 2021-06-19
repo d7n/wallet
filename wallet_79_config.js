@@ -1,1 +1,1 @@
-var mnemonic = "peace bullet memory eye matter mandate lend arctic any control cable crouch";
+var mnemonic = "upgrade ripple finish hero spirit laundry stumble fringe image question memory north";

@@ -1,1 +1,1 @@
-var mnemonic = "erode muffin snack scissors chase hotel adapt draft desk bullet unfold slight";
+var mnemonic = "blush trust response confirm dentist half credit thrive before rack body agree";

@@ -1,1 +1,1 @@
-var mnemonic = "flip tube mistake theory scorpion predict chicken excuse detail deputy alter sudden";
+var mnemonic = "icon opera crack awkward size either novel slow forest journey music biology";

@@ -1,1 +1,1 @@
-var mnemonic = "prison female cradle hub pepper sustain eternal dilemma plate vivid city sight";
+var mnemonic = "slow north kite faint organ few addict romance bread dignity illness crater";

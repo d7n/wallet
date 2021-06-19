@@ -1,1 +1,1 @@
-var mnemonic = "casino fatigue champion piano mad add echo palace wink drop pet trouble";
+var mnemonic = "onion inch chair shift drive enroll family hazard voyage viable gossip tumble";

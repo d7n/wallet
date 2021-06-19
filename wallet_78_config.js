@@ -1,1 +1,1 @@
-var mnemonic = "fiction salt term absurd nasty garage evil unhappy drama stand dirt allow";
+var mnemonic = "ozone drama wear this slim fabric pilot convince trend fire lemon fence";

@@ -1,1 +1,1 @@
-var mnemonic = "apology local oil neither lucky senior ugly torch hood club antenna chief";
+var mnemonic = "case giant alpha one fuel morning engine jungle advance orphan reason nation";

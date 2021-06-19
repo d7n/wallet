@@ -1,1 +1,1 @@
-var mnemonic = "force knee slow own stool apple forest trend stereo task stage expand";
+var mnemonic = "crawl detail drastic coyote pepper sign hurry fault poet vicious discover grit";

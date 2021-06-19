@@ -1,1 +1,1 @@
-var mnemonic = "typical correct owner describe goddess avoid february online abuse dish napkin regular";
+var mnemonic = "chronic crucial upon october morning zebra hour smart program axis bread tilt";

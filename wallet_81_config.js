@@ -1,1 +1,1 @@
-var mnemonic = "story develop wire infant wrestle space skate phrase treat throw multiply screen";
+var mnemonic = "suspect frown fossil legend sausage demise fiscal soup suffer fluid rent main";

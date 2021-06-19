@@ -1,1 +1,1 @@
-var mnemonic = "talent avocado exact dove mesh old option scare letter maximum small depend";
+var mnemonic = "burger surface legend erase coffee error remain priority gentle raise tag afraid";

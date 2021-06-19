@@ -1,1 +1,1 @@
-var mnemonic = "release ridge social know melt wave finish question quality wrap clinic wealth";
+var mnemonic = "approve shoe answer admit vapor brisk pipe student stone direct violin pass";

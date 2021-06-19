@@ -1,1 +1,1 @@
-var mnemonic = "labor material crime card warrior enough print fee six jeans stable ridge";
+var mnemonic = "flash property business multiply hair bomb heavy print shrug diesel chunk eye";

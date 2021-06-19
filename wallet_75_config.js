@@ -1,1 +1,1 @@
-var mnemonic = "inspire oppose elephant rocket try lock sleep negative mention update stay multiply";
+var mnemonic = "case mouse mango heavy extra jeans delay weapon shaft novel fringe chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness thank before shrug account demand method orphan royal detail churn enable";
+var mnemonic = "ship object oil squirrel door level predict artefact dune design theory imitate";

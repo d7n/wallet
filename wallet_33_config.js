@@ -1,1 +1,1 @@
-var mnemonic = "ankle shrug protect tone luggage measure grain sting sugar cabbage artefact exercise";
+var mnemonic = "across steel middle absent asset kit civil guide soda peanut melody current";

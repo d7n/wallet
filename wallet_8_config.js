@@ -1,1 +1,1 @@
-var mnemonic = "weasel tackle brain electric ostrich disagree they attract humor item dance spider";
+var mnemonic = "judge violin donate giggle anchor mansion emerge hurdle steel place about dirt";

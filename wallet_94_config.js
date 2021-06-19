@@ -1,1 +1,1 @@
-var mnemonic = "junk grape volume grit life check hidden dose match lemon menu stumble";
+var mnemonic = "debate fire another relief culture van ranch film upper shove toilet radar";

@@ -1,1 +1,1 @@
-var mnemonic = "person tent slender humor steel elder gas subway woman book play reason";
+var mnemonic = "jelly response turtle team enable toilet artist mechanic shaft suspect blade oblige";

@@ -1,1 +1,1 @@
-var mnemonic = "position quiz drive cycle spawn question nothing under glare moral deny dignity";
+var mnemonic = "neutral kitchen salon resemble cart lounge awake pledge scene toe alter unlock";

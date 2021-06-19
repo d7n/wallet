@@ -1,1 +1,1 @@
-var mnemonic = "radio surprise elegant crew grant trend avocado exhaust jazz ice abuse fat";
+var mnemonic = "grunt slide exclude exchange spell fade birth profit clown sport impose primary";

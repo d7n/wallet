@@ -1,1 +1,1 @@
-var mnemonic = "sibling zone guess trap series brief explain lock panel silent tattoo cliff";
+var mnemonic = "banana morning cart donor venture eternal fashion fee salute unable supply acid";

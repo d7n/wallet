@@ -1,1 +1,1 @@
-var mnemonic = "bean cigar spring aspect text neglect engine labor vacant village term icon";
+var mnemonic = "frozen target juice magnet together shine oyster wait adjust arctic change athlete";

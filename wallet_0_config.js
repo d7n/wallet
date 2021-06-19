@@ -1,1 +1,1 @@
-var mnemonic = "brass mesh east appear surprise meat fringe escape auto shoot police lucky";
+var mnemonic = "phone cart donkey traffic inspire text spray middle lazy wish huge unusual";

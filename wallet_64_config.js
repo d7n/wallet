@@ -1,1 +1,1 @@
-var mnemonic = "pottery issue burst wage fortune skill hollow silent pencil junior very occur";
+var mnemonic = "honey tomato hotel bonus mad antenna inside scan any believe flat moral";

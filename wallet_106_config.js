@@ -1,1 +1,1 @@
-var mnemonic = "kick window october adjust argue device security forum suit vocal among flock";
+var mnemonic = "report great entry lion owner predict shrug tiny actor lady season gasp";

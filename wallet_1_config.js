@@ -1,1 +1,1 @@
-var mnemonic = "pause soul force rail giant outdoor start twenty flush usage wear stage";
+var mnemonic = "zone west pottery lucky twin foam cloud trick stick farm enable horse";

@@ -1,1 +1,1 @@
-var mnemonic = "awake olive session party early almost deputy emotion skate confirm tail hint";
+var mnemonic = "isolate first pride sunny chunk combine garlic faculty input describe expire earn";

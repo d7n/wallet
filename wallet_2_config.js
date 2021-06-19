@@ -1,1 +1,1 @@
-var mnemonic = "dumb vicious seat sniff effort throw april rose admit half tag monitor";
+var mnemonic = "sorry armor camera casual melody fatal purse give pilot swift spoon employ";

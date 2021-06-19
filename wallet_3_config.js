@@ -1,1 +1,1 @@
-var mnemonic = "glove inch amount shift gossip find apart clown surround void deputy special";
+var mnemonic = "strong style vacuum season worth pottery office ritual guess suggest into magic";

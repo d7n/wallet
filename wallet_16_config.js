@@ -1,1 +1,1 @@
-var mnemonic = "pause dial grid debate finger elegant liar hover purse banner tray panther";
+var mnemonic = "supply crumble cliff kangaroo bleak raccoon current clog raw place melody dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "cream patient pill honey fetch match near warm until virtual buffalo nominee";
+var mnemonic = "anxiety jar document capital flip issue sad swim clown since choice wait";

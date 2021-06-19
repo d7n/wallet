@@ -1,1 +1,1 @@
-var mnemonic = "design reunion acid occur cake tiny dilemma split dance west nothing core";
+var mnemonic = "margin popular weasel trap film bid menu lottery amateur rebuild stock process";

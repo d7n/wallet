@@ -1,1 +1,1 @@
-var mnemonic = "first tongue execute river appear cycle rent light congress follow champion insect";
+var mnemonic = "accuse pony trim cinnamon lake face eagle ignore gadget survey early critic";

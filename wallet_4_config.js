@@ -1,1 +1,1 @@
-var mnemonic = "merge link accuse moon lady stereo cart gown praise example filter prison";
+var mnemonic = "jewel spirit worth sense hand tissue check life agent original cover cute";

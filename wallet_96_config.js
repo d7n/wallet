@@ -1,1 +1,1 @@
-var mnemonic = "maximum asset trick fancy useful olympic ladder option auction bar assume group";
+var mnemonic = "sniff rack narrow fantasy glide demise extra inner rather divorce color move";

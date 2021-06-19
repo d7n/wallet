@@ -1,1 +1,1 @@
-var mnemonic = "entry banner issue nothing vocal behind innocent bacon remove endless clarify foster";
+var mnemonic = "cloud basic toast coral general metal roof purchase acoustic order hover end";

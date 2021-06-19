@@ -1,1 +1,1 @@
-var mnemonic = "burden enable tip cart stadium tonight kite adapt rich cruise kingdom disagree";
+var mnemonic = "domain hurdle over merry now debate oil camp hungry walk sight web";

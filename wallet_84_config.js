@@ -1,1 +1,1 @@
-var mnemonic = "gesture wool innocent float bomb fancy drill smile ethics dream canyon child";
+var mnemonic = "result siren gorilla risk chef elbow ability pass solar stereo final eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "notable balance merge owner defy cattle resource bring spread common twice cannon";
+var mnemonic = "arctic limb music link sudden box define humor sibling artist attract slice";

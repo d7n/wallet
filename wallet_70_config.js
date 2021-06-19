@@ -1,1 +1,1 @@
-var mnemonic = "stable air left lawsuit badge meat change hurdle cook laptop unit theory";
+var mnemonic = "gentle ketchup food mention lounge vault wheat grape life culture pizza hungry";

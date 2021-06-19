@@ -1,1 +1,1 @@
-var mnemonic = "cupboard total piece accident wet fragile match primary attack indoor sing bounce";
+var mnemonic = "arrive object anger retire cage bind beauty arena soccer lunar squirrel fancy";

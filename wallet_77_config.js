@@ -1,1 +1,1 @@
-var mnemonic = "balcony save know ramp remember tongue steak rib truck silent denial rocket";
+var mnemonic = "west tornado grid initial original anxiety lady basket erupt wire oyster ripple";

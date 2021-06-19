@@ -1,1 +1,1 @@
-var mnemonic = "various trial response high limb physical purpose magnet traffic save pole museum";
+var mnemonic = "blouse shove claim ghost prison order cliff history tongue accident session opinion";

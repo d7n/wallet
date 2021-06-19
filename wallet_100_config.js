@@ -1,1 +1,1 @@
-var mnemonic = "ozone produce gain solid lucky around cereal enact drink simple mixture caught";
+var mnemonic = "dawn theme dirt gauge clarify pill length type session birth remember actor";

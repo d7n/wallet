@@ -1,1 +1,1 @@
-var mnemonic = "dutch enable patient miss crater crush scatter whale calm assault verb strong";
+var mnemonic = "forget lizard way catch aspect crunch cupboard object avocado sauce strategy salute";

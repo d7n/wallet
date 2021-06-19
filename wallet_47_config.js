@@ -1,1 +1,1 @@
-var mnemonic = "hat tunnel stay salad cushion absurd thought lunar trial parrot foil concert";
+var mnemonic = "lobster salmon tattoo menu famous lend runway gown wine forum climb salmon";

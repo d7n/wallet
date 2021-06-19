@@ -1,1 +1,1 @@
-var mnemonic = "slight gate rookie mercy lounge fashion clog taxi expect fury cycle staff";
+var mnemonic = "fashion clip chronic culture female earn glove verb menu floor island canvas";

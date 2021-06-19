@@ -1,1 +1,1 @@
-var mnemonic = "exclude wisdom grape world wait slice oven lawsuit tonight element impose enter";
+var mnemonic = "bunker gain abuse cream marble cannon cram patient uniform win afford tumble";

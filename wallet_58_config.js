@@ -1,1 +1,1 @@
-var mnemonic = "audit access social pluck goat walnut finger energy island arrive simple stand";
+var mnemonic = "amateur easily cry fly jealous marriage profit genius reward box ugly crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "burger bacon broom journey member narrow ship tortoise duck neutral wild erupt";
+var mnemonic = "absurd increase chef tragic viable garbage nation diary property woman tooth ancient";

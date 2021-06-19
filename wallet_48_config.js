@@ -1,1 +1,1 @@
-var mnemonic = "swallow lucky other during opinion unfair shadow knee impose pioneer alert hawk";
+var mnemonic = "despair clever orchard lucky approve pledge powder wine rally tone announce easy";

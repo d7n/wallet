@@ -1,1 +1,1 @@
-var mnemonic = "fun garage weasel hedgehog coast spot measure tuna tenant peanut merit observe";
+var mnemonic = "daring second claim alcohol mansion join version rain gallery world list kiss";

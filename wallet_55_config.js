@@ -1,1 +1,1 @@
-var mnemonic = "input joke display tragic negative nasty shove forget pelican smart shiver tag";
+var mnemonic = "sick inflict cloud yellow skull script spoil grunt moral include chest stamp";

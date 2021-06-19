@@ -1,1 +1,1 @@
-var mnemonic = "hawk employ tank desert woman congress raw sad fame give obtain joke";
+var mnemonic = "hockey auction grief trend defense wool castle drink pyramid gaze payment crunch";

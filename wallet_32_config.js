@@ -1,1 +1,1 @@
-var mnemonic = "vague round amazing harbor super fine goddess cram sight bacon pipe latin";
+var mnemonic = "outside wink minor beauty thumb seat pride october toilet best desk crush";

@@ -1,1 +1,1 @@
-var mnemonic = "warm young symptom piece palm design pulse receive hybrid odor color card";
+var mnemonic = "cute member nest maze write include spot autumn okay pistol search theory";

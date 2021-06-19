@@ -1,1 +1,1 @@
-var mnemonic = "various physical address switch whisper group gesture castle scissors someone riot dumb";
+var mnemonic = "skull trick future casual divorce top follow core mammal picture job purity";

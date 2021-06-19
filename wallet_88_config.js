@@ -1,1 +1,1 @@
-var mnemonic = "demand fence left buffalo thing energy horse pass glow aim believe rural";
+var mnemonic = "cheese choose cycle smart trick lesson kid obvious leg bamboo raven pig";

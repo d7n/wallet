@@ -1,1 +1,1 @@
-var mnemonic = "tissue dawn web acoustic bridge icon craft surprise poverty jeans local glue";
+var mnemonic = "damage connect luggage sell define write roast marble emerge smoke web payment";

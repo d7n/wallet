@@ -1,1 +1,1 @@
-var mnemonic = "nurse ship stereo chair random diary country gain puppy clap false element";
+var mnemonic = "paddle twin pet sad toward brave donkey promote gold wash extend fork";

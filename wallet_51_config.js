@@ -1,1 +1,1 @@
-var mnemonic = "attack chef enact business shoot garment extend rubber crazy easy much wrong";
+var mnemonic = "exhaust legend harvest cabin noble case gravity absorb price uniform carbon property";

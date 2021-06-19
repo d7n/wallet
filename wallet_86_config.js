@@ -1,1 +1,1 @@
-var mnemonic = "coral adapt multiply gesture chat warm differ inquiry wood fiction dress remain";
+var mnemonic = "asthma shed maze digital palace grid bomb blood grain identify engine fabric";

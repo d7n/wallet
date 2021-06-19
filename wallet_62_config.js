@@ -1,1 +1,1 @@
-var mnemonic = "dignity ask fever federal payment fringe planet someone yellow lunar glass fresh";
+var mnemonic = "chaos link cry luggage mother bulb bronze sword main enact art flush";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage uncover worth grain kangaroo nest give shaft exotic discover match patient";
+var mnemonic = "obscure work artefact jaguar ankle legal bachelor learn situate motion guide narrow";

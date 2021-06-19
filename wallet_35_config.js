@@ -1,1 +1,1 @@
-var mnemonic = "spirit phrase sign seat borrow boil crunch guilt engine crumble replace able";
+var mnemonic = "suspect knee debris analyst stumble pizza toe capable obtain blind call alone";

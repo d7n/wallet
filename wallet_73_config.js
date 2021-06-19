@@ -1,1 +1,1 @@
-var mnemonic = "goose month hover battle artwork supply exercise consider space outdoor need viable";
+var mnemonic = "snow biology eye wealth coach page grace stand pill dry math company";

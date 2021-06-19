@@ -1,1 +1,1 @@
-var mnemonic = "regular absent brick grass cave convince palace nuclear toe search ecology clump";
+var mnemonic = "alter wild donor finish obscure between fashion castle vault canal rug vicious";

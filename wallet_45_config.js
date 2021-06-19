@@ -1,1 +1,1 @@
-var mnemonic = "need make grief aerobic afford october project spoon skate story leave myth";
+var mnemonic = "pottery apple hard injury source later unaware poem double task forward blur";

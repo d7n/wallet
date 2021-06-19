@@ -1,1 +1,1 @@
-var mnemonic = "market loyal define ball regret urge cycle much kiwi antique initial vendor";
+var mnemonic = "puppy method mountain scrub way mosquito exhaust bring frozen primary below always";

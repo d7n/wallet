@@ -1,1 +1,1 @@
-var mnemonic = "isolate object treat lesson hope universe plate essay nice farm amused cherry";
+var mnemonic = "bamboo direct carry lock omit cloth snack local segment behave fiber orange";

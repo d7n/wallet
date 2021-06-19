@@ -1,1 +1,1 @@
-var mnemonic = "erupt already check axis eyebrow figure tumble town social excuse elbow silver";
+var mnemonic = "clock fiction essence double strategy mechanic grief word tomorrow chef great skull";

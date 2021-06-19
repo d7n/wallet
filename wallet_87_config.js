@@ -1,1 +1,1 @@
-var mnemonic = "ticket genre pepper ring anger obscure often enroll foot dirt fiber same";
+var mnemonic = "soldier fog couch page wood can stereo gadget opinion work uphold afraid";

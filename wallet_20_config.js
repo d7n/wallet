@@ -1,1 +1,1 @@
-var mnemonic = "emerge unable absurd because face concert jewel tray major cable fetch main";
+var mnemonic = "asset session unhappy drift front frog write push find envelope guess simple";

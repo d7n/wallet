@@ -1,1 +1,1 @@
-var mnemonic = "welcome orphan six orchard gallery tired viable proof genuine genius invite rebel";
+var mnemonic = "coach advance one funny silk taxi pass legal jump uphold gossip gate";

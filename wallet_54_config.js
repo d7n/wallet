@@ -1,1 +1,1 @@
-var mnemonic = "state leopard happy visit twice north vessel good grow faculty success stay";
+var mnemonic = "clever receive crunch wire box earn enroll coin fury crane chest more";

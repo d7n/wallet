@@ -1,1 +1,1 @@
-var mnemonic = "achieve item average ignore jazz figure submit dress dutch depth sting snack";
+var mnemonic = "learn mirror patient annual firm combine sauce rib labor eye bamboo patient";

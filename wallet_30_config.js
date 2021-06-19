@@ -1,1 +1,1 @@
-var mnemonic = "cruel spike novel angle retire reunion saddle leader aunt repair outdoor valley";
+var mnemonic = "pipe proof inhale ticket color miracle scout horn grunt river cause supreme";

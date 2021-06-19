@@ -1,1 +1,1 @@
-var mnemonic = "way noble donate chaos observe apology satoshi regret skull crush weather chef";
+var mnemonic = "assume dash dance gain slow arch check bottom mule maid shrug you";

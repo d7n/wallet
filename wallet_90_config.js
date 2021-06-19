@@ -1,1 +1,1 @@
-var mnemonic = "march axis orchard discover risk seminar type exit pitch aspect toy million";
+var mnemonic = "surround melody feature market copy light message suit myself unhappy balcony eight";

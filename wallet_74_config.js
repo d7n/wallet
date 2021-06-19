@@ -1,1 +1,1 @@
-var mnemonic = "goat shoe giant slight chest bag allow diamond monkey giggle lady umbrella";
+var mnemonic = "pen clock input woman case castle only purity canoe deputy carry hello";

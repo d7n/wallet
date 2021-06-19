@@ -1,1 +1,1 @@
-var mnemonic = "keen warrior frown report memory minute hurry mirror stuff sight husband impulse";
+var mnemonic = "silly setup peace borrow refuse swap agent odor destroy prepare menu era";
