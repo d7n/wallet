@@ -1,1 +1,1 @@
-var mnemonic = "behind book bulb brain hood oyster clay reason battle artist garage embody";
+var mnemonic = "random lens swallow motor job waste mango age fix box copy curious";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort middle calm below setup avoid affair throw fringe over bonus kitchen";
+var mnemonic = "ticket roast net spring session mass camp lucky city divert jewel reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon favorite cereal system above sock roof hole much fine scorpion remain";
+var mnemonic = "critic defense same crucial fatal come fringe birth quantum punch crush biology";

@@ -1,1 +1,1 @@
-var mnemonic = "yard flip metal try behind demand clown insane pride harvest actor inside";
+var mnemonic = "drastic iron mango increase banner wreck spoil have embrace slide always potato";

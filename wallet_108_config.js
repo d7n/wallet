@@ -1,1 +1,1 @@
-var mnemonic = "arrow muffin jump october sword forest city nasty zero bacon peanut keep";
+var mnemonic = "property flip hill plastic float crystal produce south biology steel target dove";

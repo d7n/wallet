@@ -1,1 +1,1 @@
-var mnemonic = "sad mammal choose write repeat turtle employ universe tone trash turn topple";
+var mnemonic = "amount cabin argue normal exclude short street battle castle slogan device town";

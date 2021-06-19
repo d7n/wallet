@@ -1,1 +1,1 @@
-var mnemonic = "echo napkin ribbon flee evidence embark flat engage hold youth property increase";
+var mnemonic = "garbage curve proof soda slam fruit blur weekend sound artefact lecture economy";

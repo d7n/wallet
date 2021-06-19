@@ -1,1 +1,1 @@
-var mnemonic = "student behind debris crash box kangaroo shock warfare soap relief acoustic decade";
+var mnemonic = "owner total pizza mystery unit salt slam elite bean west segment craft";

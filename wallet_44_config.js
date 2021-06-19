@@ -1,1 +1,1 @@
-var mnemonic = "link citizen use unhappy enlist quantum play interest super barrel hire mammal";
+var mnemonic = "vessel space wrestle direct honey tomato fresh praise mutual pudding disorder access";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist valley before east habit bubble attract violin federal curtain velvet when";
+var mnemonic = "satisfy knee win urban edge wire glove hurdle section nose illness cover";

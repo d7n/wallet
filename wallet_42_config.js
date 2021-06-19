@@ -1,1 +1,1 @@
-var mnemonic = "unaware pill mind stadium ordinary weird steel student cat together region tiny";
+var mnemonic = "obscure annual stumble lecture network silly unable skull limb stove alter catch";

@@ -1,1 +1,1 @@
-var mnemonic = "category sauce other range sad document lift thought champion know repeat between";
+var mnemonic = "cheap top shiver pilot access convince blue safe book someone human cupboard";

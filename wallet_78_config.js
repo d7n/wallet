@@ -1,1 +1,1 @@
-var mnemonic = "juice inherit aerobic fragile cage project drive fault target upset wonder siren";
+var mnemonic = "hire disagree tortoise crawl chef enjoy daughter sudden mean robust couch harsh";

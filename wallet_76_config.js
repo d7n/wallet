@@ -1,1 +1,1 @@
-var mnemonic = "deliver staff velvet fine decorate pipe ride wood era sugar april south";
+var mnemonic = "stove protect swarm obey fury tone drip jealous load best addict rookie";

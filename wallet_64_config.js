@@ -1,1 +1,1 @@
-var mnemonic = "uncle food ensure beef kiss leave vessel march stable year curious bubble";
+var mnemonic = "blur total dry enable fetch know enact street phone upset bring axis";

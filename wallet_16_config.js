@@ -1,1 +1,1 @@
-var mnemonic = "arrange album hunt wolf flee vessel spatial practice inside modify dune silver";
+var mnemonic = "rifle connect grab enjoy unveil wasp rocket van install ozone pottery aunt";

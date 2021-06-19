@@ -1,1 +1,1 @@
-var mnemonic = "talk gift guilt like cupboard soldier test hybrid laundry blush sail nurse";
+var mnemonic = "puzzle burden crater render lazy fashion fever amateur twenty planet double spray";

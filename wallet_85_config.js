@@ -1,1 +1,1 @@
-var mnemonic = "magic cat flee ring tube elephant thrive butter quality brass merge sniff";
+var mnemonic = "merit window critic toast casual write inhale rule print frog gravity cat";

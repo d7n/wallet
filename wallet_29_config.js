@@ -1,1 +1,1 @@
-var mnemonic = "slim grocery artist wisdom language shallow pelican glass chat gun credit mind";
+var mnemonic = "devote snow tortoise fire cereal jungle version violin layer clinic chef neither";

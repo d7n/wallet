@@ -1,1 +1,1 @@
-var mnemonic = "oxygen horror journey public floor offer anxiety boil area bomb index toss";
+var mnemonic = "bulb blind section fat swap obtain acquire trial glide diagram add evoke";

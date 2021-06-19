@@ -1,1 +1,1 @@
-var mnemonic = "acid century crystal dial win tomato example street hammer vendor cannon outer";
+var mnemonic = "calm zoo upgrade million lumber usage breeze rack mechanic float squirrel fetch";

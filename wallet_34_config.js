@@ -1,1 +1,1 @@
-var mnemonic = "penalty session despair giant crawl vessel wrap shell join pony physical kick";
+var mnemonic = "sing panic bargain laundry fatal armed water script memory cause kid pave";

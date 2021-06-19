@@ -1,1 +1,1 @@
-var mnemonic = "nominee grain nature victory sauce involve seek science method pulse output fury";
+var mnemonic = "voice crush into once panda finish flock level clean general into hero";

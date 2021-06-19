@@ -1,1 +1,1 @@
-var mnemonic = "mouse wear dwarf armor poem erase desk mother squeeze rebel abandon dynamic";
+var mnemonic = "rack candy ordinary disorder ring ankle state cruel tooth company regular arctic";

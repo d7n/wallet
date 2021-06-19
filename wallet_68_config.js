@@ -1,1 +1,1 @@
-var mnemonic = "social ghost valve humor crane degree baby hire never slogan tool green";
+var mnemonic = "gaze glimpse elegant van primary fetch scatter quantum good legend slab next";

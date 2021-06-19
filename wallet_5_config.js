@@ -1,1 +1,1 @@
-var mnemonic = "negative man mail stick hammer noise album lake enable lake detail daring";
+var mnemonic = "ethics dizzy between kick analyst novel snap adjust family when purity alone";

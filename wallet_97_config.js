@@ -1,1 +1,1 @@
-var mnemonic = "ask rural win pass roof ability stereo dry face husband spirit token";
+var mnemonic = "combine city knife edit step ship auction drastic warfare eyebrow diet educate";

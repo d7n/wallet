@@ -1,1 +1,1 @@
-var mnemonic = "vacant roof income boring anxiety oven above vague grit hungry hood file";
+var mnemonic = "arrange game cup hospital lazy buzz gentle rare drastic loyal stand trumpet";

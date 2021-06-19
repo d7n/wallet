@@ -1,1 +1,1 @@
-var mnemonic = "staff traffic exercise blast sorry item budget chronic treat tourist fox dice";
+var mnemonic = "clock laptop valid sphere vicious add humor vicious save rule crisp ill";

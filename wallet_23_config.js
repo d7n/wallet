@@ -1,1 +1,1 @@
-var mnemonic = "myth runway neither layer liberty field direct peanut focus barrel rescue below";
+var mnemonic = "jelly bitter own often exercise reveal ticket slab scrap oppose miss fatal";

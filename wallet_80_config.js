@@ -1,1 +1,1 @@
-var mnemonic = "ill tray sadness build quit ability armed extend device rack depend poem";
+var mnemonic = "grace earn castle auto shove amateur rack opinion error cancel chunk outside";

@@ -1,1 +1,1 @@
-var mnemonic = "pave novel timber mountain win sniff shy wild right truck crucial post";
+var mnemonic = "attitude property snap raven agent leader theory rotate system violin disagree gasp";

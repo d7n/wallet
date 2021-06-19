@@ -1,1 +1,1 @@
-var mnemonic = "citizen tag avocado market crazy post woman frozen float skirt agent truck";
+var mnemonic = "disease humor warm grunt rhythm rotate found patrol worth erupt roast symptom";

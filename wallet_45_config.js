@@ -1,1 +1,1 @@
-var mnemonic = "face lift oxygen account pool case engine high awful uncle glove sting";
+var mnemonic = "ribbon mirror van rely beach couch author below tower wood opinion idea";

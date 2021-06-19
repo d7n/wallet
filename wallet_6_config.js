@@ -1,1 +1,1 @@
-var mnemonic = "patch come chat family way dance gaze multiply penalty also transfer issue";
+var mnemonic = "time seven napkin armor stuff miracle confirm fatigue review kick inhale supreme";

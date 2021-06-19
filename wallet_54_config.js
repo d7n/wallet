@@ -1,1 +1,1 @@
-var mnemonic = "lyrics deny random scheme laugh sea lunch surface between muscle apology cradle";
+var mnemonic = "baby venture push fantasy shed belt bright scheme act vocal yard enlist";

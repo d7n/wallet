@@ -1,1 +1,1 @@
-var mnemonic = "expire spawn toy fantasy faith insect naive talk confirm resist erosion tiger";
+var mnemonic = "phrase night phrase drill income cruise item pipe beef gas awesome airport";

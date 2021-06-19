@@ -1,1 +1,1 @@
-var mnemonic = "grace couch cousin track gown put slender surge embody friend north prevent";
+var mnemonic = "electric torch thank moment share siren essay tape trophy crouch position festival";

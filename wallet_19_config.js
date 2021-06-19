@@ -1,1 +1,1 @@
-var mnemonic = "cave identify nut simple cave broom roof teach barely razor detect arrive";
+var mnemonic = "yard brass elephant course swallow buzz catalog charge seat tuition cargo awesome";

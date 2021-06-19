@@ -1,1 +1,1 @@
-var mnemonic = "common man clump poet denial crop silk intact nut siren boost hundred";
+var mnemonic = "rally coast minimum rebel amount vote tube language lumber silly peasant area";

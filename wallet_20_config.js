@@ -1,1 +1,1 @@
-var mnemonic = "assault print special ritual series please thing space crowd onion still leader";
+var mnemonic = "enable eight inmate ill recipe gauge light erode galaxy ahead repeat draft";

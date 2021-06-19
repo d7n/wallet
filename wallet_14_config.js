@@ -1,1 +1,1 @@
-var mnemonic = "cabbage virus venture toss quarter wool awesome rhythm accident soap retreat desert";
+var mnemonic = "famous ecology bridge all fragile devote depend manual olympic improve snake absurd";

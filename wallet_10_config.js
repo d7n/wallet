@@ -1,1 +1,1 @@
-var mnemonic = "nurse soap silly speak hair ignore wire juice dawn high gather glance";
+var mnemonic = "olive harvest lizard reflect humor talent tower net only delay match satoshi";

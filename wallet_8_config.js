@@ -1,1 +1,1 @@
-var mnemonic = "put day quote squeeze local wage truly depend warfare luggage ecology finger";
+var mnemonic = "rare intact sell essence thunder arrive time forum smart link wheel upset";

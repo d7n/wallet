@@ -1,1 +1,1 @@
-var mnemonic = "topple sight access believe possible second swear search sure thrive road jacket";
+var mnemonic = "glad there relax tide amount episode toy toast inmate extend remember bid";

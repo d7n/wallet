@@ -1,1 +1,1 @@
-var mnemonic = "myth debate phone chat strategy cool south spray devote frost eternal only";
+var mnemonic = "autumn pretty lumber around rigid baby flee unfold bacon tool engage nothing";

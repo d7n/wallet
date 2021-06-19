@@ -1,1 +1,1 @@
-var mnemonic = "myself party vehicle improve field practice spread guitar anchor time arrange sick";
+var mnemonic = "piece hard cancel mouse mystery october region feed duck velvet noise cigar";

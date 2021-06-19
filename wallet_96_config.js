@@ -1,1 +1,1 @@
-var mnemonic = "shine stock off flee slogan join either random lonely alarm inquiry retire";
+var mnemonic = "shrimp pupil confirm deal syrup inhale veteran brick silent magic pyramid juice";

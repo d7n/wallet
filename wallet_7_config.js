@@ -1,1 +1,1 @@
-var mnemonic = "tilt evolve captain future clap crunch fly annual light october nurse city";
+var mnemonic = "jaguar boost entry length please vapor announce enact toward wheat length possible";

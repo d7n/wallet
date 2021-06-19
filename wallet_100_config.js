@@ -1,1 +1,1 @@
-var mnemonic = "derive smart need flee mean trim rocket eye sport siren clinic reform";
+var mnemonic = "october quarter street struggle rug wall memory body nuclear deposit sea negative";

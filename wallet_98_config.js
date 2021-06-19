@@ -1,1 +1,1 @@
-var mnemonic = "census better certain oak convince they task panic similar mesh undo always";
+var mnemonic = "kite rack ivory share apology hollow puppy sport public large supply express";

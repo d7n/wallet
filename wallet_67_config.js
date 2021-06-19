@@ -1,1 +1,1 @@
-var mnemonic = "inject brave equip clump hole ride middle sausage employ dial laptop struggle";
+var mnemonic = "total tumble admit gym punch screen agree bird guitar dove tomorrow test";

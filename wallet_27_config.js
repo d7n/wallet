@@ -1,1 +1,1 @@
-var mnemonic = "ginger picnic seed stove adjust media uniform defy broken two disagree jacket";
+var mnemonic = "sight gown melt various hand bless category coffee unique project charge crouch";

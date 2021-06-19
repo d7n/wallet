@@ -1,1 +1,1 @@
-var mnemonic = "trend bring dice clap toe session into across shoe custom brick frequent";
+var mnemonic = "truth tone amount physical safe below various pill assist consider ring once";

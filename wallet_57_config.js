@@ -1,1 +1,1 @@
-var mnemonic = "sister glance gasp craft believe forward copper unknown enhance income stick begin";
+var mnemonic = "famous crisp zebra equal muscle skull amateur tattoo volcano earth object way";

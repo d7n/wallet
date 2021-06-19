@@ -1,1 +1,1 @@
-var mnemonic = "bacon gas innocent gather drive clump skate inject fiction goose movie gate";
+var mnemonic = "forward dress write apple debris material finish medal mistake armor faint mesh";

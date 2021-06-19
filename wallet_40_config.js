@@ -1,1 +1,1 @@
-var mnemonic = "sheriff file stand kangaroo average wise margin mountain help supreme copper smile";
+var mnemonic = "arrange multiply certain metal broken turtle festival spare tube quantum resist debris";

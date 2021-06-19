@@ -1,1 +1,1 @@
-var mnemonic = "conduct afford gravity apart frost palace negative hawk original reopen artist hard";
+var mnemonic = "polar beach winner stuff face wink nice sleep april team female exact";

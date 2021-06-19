@@ -1,1 +1,1 @@
-var mnemonic = "bracket drama forget unique dwarf roof forget alcohol nothing reveal weird ship";
+var mnemonic = "brand fatigue swarm delay nose network razor man violin smile tornado pistol";

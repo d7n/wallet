@@ -1,1 +1,1 @@
-var mnemonic = "eight melody chunk card joy document bomb display piece fan donate change";
+var mnemonic = "fly always bachelor shift pulse dignity tortoise clip glad aerobic turkey tongue";

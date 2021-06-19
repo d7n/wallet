@@ -1,1 +1,1 @@
-var mnemonic = "pulp school exotic nature margin entire they fly plunge sorry orphan brand";
+var mnemonic = "addict frost dinosaur abandon sick seed chronic also utility doll horse clutch";

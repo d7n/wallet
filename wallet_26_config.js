@@ -1,1 +1,1 @@
-var mnemonic = "chalk just lucky social crazy leg envelope current term bus mutual powder";
+var mnemonic = "century shrug kitchen like outer into build plate clarify behind same fatigue";

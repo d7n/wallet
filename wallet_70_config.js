@@ -1,1 +1,1 @@
-var mnemonic = "invest enable caution shop spider brief aspect task rare escape truck spice";
+var mnemonic = "crystal blouse emerge that orchard violin screen detect myth sauce nut fatal";

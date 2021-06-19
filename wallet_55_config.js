@@ -1,1 +1,1 @@
-var mnemonic = "moral below maple stem aim bring guilt peasant coconut later adjust object";
+var mnemonic = "merge chuckle acquire shrimp swap maid flat ball used ghost double calm";

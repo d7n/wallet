@@ -1,1 +1,1 @@
-var mnemonic = "ritual job vocal mountain music voyage chalk reject reopen oxygen jaguar novel";
+var mnemonic = "walk nasty crowd success depend anger six quote virus picture modify mirror";

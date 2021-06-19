@@ -1,1 +1,1 @@
-var mnemonic = "clerk yellow hundred use tuna cruel cupboard brass armed blind rack boost";
+var mnemonic = "pottery hood arrange possible jewel repeat april cup twin whale large chunk";

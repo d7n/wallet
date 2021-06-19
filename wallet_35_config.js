@@ -1,1 +1,1 @@
-var mnemonic = "oblige dove exit win random patient capital field olive about response lumber";
+var mnemonic = "exercise drip toilet avoid walk sauce truth column knock amused over object";

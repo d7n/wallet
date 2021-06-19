@@ -1,1 +1,1 @@
-var mnemonic = "present raven company debate grief place what legend super wealth once wasp";
+var mnemonic = "alpha sunny blade raven miss salt unfair ignore prosper west end mail";

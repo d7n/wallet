@@ -1,1 +1,1 @@
-var mnemonic = "crater spin six onion grocery north famous during join meat tree draw";
+var mnemonic = "net inch sword style lottery ranch this oval august invite any wonder";

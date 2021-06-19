@@ -1,1 +1,1 @@
-var mnemonic = "strong lobster modify omit margin atom fabric change silly other winter memory";
+var mnemonic = "kangaroo mouse coil city sadness skate nut regular broccoli hockey mother phrase";

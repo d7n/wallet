@@ -1,1 +1,1 @@
-var mnemonic = "oven crystal draw faith panther truth vintage organ dismiss giraffe famous festival";
+var mnemonic = "alarm seven range enact there sell exercise artwork real circle slender build";

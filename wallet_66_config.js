@@ -1,1 +1,1 @@
-var mnemonic = "uniform goddess census ribbon wagon inform vague bulb kind axis tomorrow found";
+var mnemonic = "bottom bless tag forest decline wide black hair reveal license million tide";

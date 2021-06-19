@@ -1,1 +1,1 @@
-var mnemonic = "afford buffalo certain there suggest eagle relax fame west swear indicate female";
+var mnemonic = "alley script arrive cargo stool delay private fuel talent celery flash idea";

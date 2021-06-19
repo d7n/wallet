@@ -1,1 +1,1 @@
-var mnemonic = "have skate chaos endless film angle route scan chapter thing traffic shiver";
+var mnemonic = "boss acoustic symptom balance wrong poem caught use peanut kitten machine tiger";

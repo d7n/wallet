@@ -1,1 +1,1 @@
-var mnemonic = "vibrant road demand barrel vicious mushroom inherit ordinary valid pepper gallery spread";
+var mnemonic = "host actual busy sugar scissors put impact gain patch dice wear kind";

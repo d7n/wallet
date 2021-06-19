@@ -1,1 +1,1 @@
-var mnemonic = "monitor outside today this uphold barely cattle wish session silly nurse moon";
+var mnemonic = "gas chronic sleep winner when permit narrow merit verb memory broken welcome";

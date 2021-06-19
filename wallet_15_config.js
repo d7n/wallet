@@ -1,1 +1,1 @@
-var mnemonic = "solid dish drastic suffer age always pass alpha today torch guilt elegant";
+var mnemonic = "flight couch frozen dumb boat parent laugh gallery upgrade stand pepper cat";

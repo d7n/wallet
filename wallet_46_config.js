@@ -1,1 +1,1 @@
-var mnemonic = "entire alien federal mind edit senior label timber woman laundry black twenty";
+var mnemonic = "staff adjust pulp father dumb trip timber badge chuckle panel grass maple";
