@@ -1,1 +1,1 @@
-var mnemonic = "square reveal swallow exchange stay service dose shrimp action behave together work";
+var mnemonic = "duty simple accuse scorpion shallow meat history sibling sorry puzzle spin portion";

@@ -1,1 +1,1 @@
-var mnemonic = "fly copy when hill spare letter motion rebuild differ affair gospel harbor";
+var mnemonic = "comfort rescue armor soccer tuition mechanic earth develop course goose surface fat";

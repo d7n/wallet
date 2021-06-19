@@ -1,1 +1,1 @@
-var mnemonic = "glare jungle front cat load quit brush bright purchase throw laugh already";
+var mnemonic = "portion grit same ancient dynamic junk trumpet lock radio patch ball daring";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing infant settle write wasp reunion alert visual brain vacuum bird prison";
+var mnemonic = "remain devote foam cloth penalty stove badge group become believe staff cable";

@@ -1,1 +1,1 @@
-var mnemonic = "decline proof already response baby corn debris tool rather vacuum pipe leisure";
+var mnemonic = "alone sentence work empty answer poverty jacket hundred manual size sad chat";

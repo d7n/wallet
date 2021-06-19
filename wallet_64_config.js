@@ -1,1 +1,1 @@
-var mnemonic = "wise process imitate man raven inch want level action step ramp gather";
+var mnemonic = "pond effort actual stand ill dust girl toilet bronze abandon inner vote";

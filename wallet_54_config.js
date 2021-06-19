@@ -1,1 +1,1 @@
-var mnemonic = "fence drift ankle planet below jelly order size initial bar reduce virus";
+var mnemonic = "napkin opinion joke today favorite oak urban build torch ancient sleep people";

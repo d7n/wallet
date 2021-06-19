@@ -1,1 +1,1 @@
-var mnemonic = "load fuel absurd between secret foster zone curtain mule little order purse";
+var mnemonic = "humor depart approve shoot nice motion jeans lab subject cool manual lock";

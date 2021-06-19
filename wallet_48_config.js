@@ -1,1 +1,1 @@
-var mnemonic = "chat cotton round inspire oblige budget manage shy resemble recipe digital clap";
+var mnemonic = "glide food original broom envelope result boost siege life inhale renew diamond";

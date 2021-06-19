@@ -1,1 +1,1 @@
-var mnemonic = "best message winner hammer asthma already earth fetch foster father reveal nurse";
+var mnemonic = "observe moment body clinic crop renew boring disagree plunge recipe sugar topic";

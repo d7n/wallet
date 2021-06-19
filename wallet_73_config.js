@@ -1,1 +1,1 @@
-var mnemonic = "hotel explain require recall lazy impose swamp citizen dutch clinic manage purpose";
+var mnemonic = "busy treat time team rule play tomato number close place exclude select";

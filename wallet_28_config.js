@@ -1,1 +1,1 @@
-var mnemonic = "hungry engage circle grief regret hawk cram fiber man color power example";
+var mnemonic = "tooth feature scorpion erode chuckle wolf life gesture about impact ramp betray";

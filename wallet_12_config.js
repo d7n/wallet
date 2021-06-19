@@ -1,1 +1,1 @@
-var mnemonic = "shield ring bracket rough city name churn hole glove perfect cat walk";
+var mnemonic = "scare diet there danger title empower improve home same audit judge goddess";

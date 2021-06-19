@@ -1,1 +1,1 @@
-var mnemonic = "sting holiday balcony remind tumble drip park catch vehicle casual layer section";
+var mnemonic = "cousin own drop what heart demise push sure suffer draw saddle dune";

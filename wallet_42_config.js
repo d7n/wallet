@@ -1,1 +1,1 @@
-var mnemonic = "visa tower mechanic since dice priority physical glare side dune flock badge";
+var mnemonic = "focus keen risk awesome table orient glimpse fuel jar valve avocado near";

@@ -1,1 +1,1 @@
-var mnemonic = "trap arctic knock kite pudding please soldier average pluck tide whip match";
+var mnemonic = "dose quit portion add tower under nominee crisp wrap purity method produce";

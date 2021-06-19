@@ -1,1 +1,1 @@
-var mnemonic = "exercise space sauce joke oblige marine gather easily entire disorder among raise";
+var mnemonic = "check swallow hurt hand voyage ready repair ski hold wreck chalk clip";

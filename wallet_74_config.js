@@ -1,1 +1,1 @@
-var mnemonic = "invest try work umbrella price excuse want menu dawn tattoo shield roast";
+var mnemonic = "recipe ugly sibling modify enlist cart daughter merge robot market unusual pole";

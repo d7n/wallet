@@ -1,1 +1,1 @@
-var mnemonic = "outside source flock summer struggle lift blanket menu clock pumpkin random salt";
+var mnemonic = "vibrant bird essay appear tonight later gift social relax artwork stumble tide";

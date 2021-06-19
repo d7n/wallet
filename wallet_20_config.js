@@ -1,1 +1,1 @@
-var mnemonic = "film viable stable canal text average dream adult outdoor canyon desert quarter";
+var mnemonic = "organ lonely course burst ghost horror alert entire this noble demand basic";

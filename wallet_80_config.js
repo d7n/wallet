@@ -1,1 +1,1 @@
-var mnemonic = "industry advance couch desk cook lock market bomb index avocado believe mango";
+var mnemonic = "tired layer skull indoor raise wet science fan into enable prefer rug";

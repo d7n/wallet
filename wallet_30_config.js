@@ -1,1 +1,1 @@
-var mnemonic = "mosquito faith student crunch circle lamp gloom pink term swing weekend unlock";
+var mnemonic = "patch reunion atom mechanic indicate labor canvas relax wife seed duck parade";

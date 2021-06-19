@@ -1,1 +1,1 @@
-var mnemonic = "corn pencil sock mask spring room toddler eyebrow human reopen bring mobile";
+var mnemonic = "put vocal audit skill attend field top draw type brand disorder math";

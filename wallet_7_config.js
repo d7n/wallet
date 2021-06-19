@@ -1,1 +1,1 @@
-var mnemonic = "brass hotel best half unaware cup attack creek grain nuclear worth income";
+var mnemonic = "post milk coin citizen luggage soon unfold canvas turkey sad wash decorate";

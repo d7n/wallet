@@ -1,1 +1,1 @@
-var mnemonic = "now chronic can beef remain roast submit slot trend agree stem clip";
+var mnemonic = "lizard insane effort view pigeon color nest negative comic sorry illegal weather";

@@ -1,1 +1,1 @@
-var mnemonic = "lamp defense picnic put mirror science tortoise depart oil resource aunt phrase";
+var mnemonic = "actress sunset steel tuna unable odor often nothing stumble wait bridge make";

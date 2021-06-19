@@ -1,1 +1,1 @@
-var mnemonic = "car shrimp umbrella rabbit object athlete inject latin keep artefact lamp bag";
+var mnemonic = "diesel two wink easy awkward select oxygen unlock wage beyond menu muscle";

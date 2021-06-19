@@ -1,1 +1,1 @@
-var mnemonic = "trumpet twin insect brown weekend skate flock favorite truly soon elephant quit";
+var mnemonic = "rotate tattoo spawn repair seed bird object pear foil own prize balcony";

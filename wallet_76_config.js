@@ -1,1 +1,1 @@
-var mnemonic = "genius valley total valley safe dwarf tomorrow broken finish indoor change apology";
+var mnemonic = "sea library symbol item canvas mesh glass across client wrap dream gold";

@@ -1,1 +1,1 @@
-var mnemonic = "secret breeze grass vicious just soul cushion actress exchange carry window offer";
+var mnemonic = "twin defense must payment snake screen total polar remain fossil rebuild under";

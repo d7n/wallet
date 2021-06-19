@@ -1,1 +1,1 @@
-var mnemonic = "lab notice adjust alcohol island wolf prefer glory narrow draft hat puppy";
+var mnemonic = "faculty neutral shine put loan man hole science illness bronze empower glide";

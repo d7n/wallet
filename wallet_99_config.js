@@ -1,1 +1,1 @@
-var mnemonic = "whip dress people empty toddler harbor apart captain plunge token sort wide";
+var mnemonic = "age carpet chalk team very deposit father panther enforce eyebrow case south";

@@ -1,1 +1,1 @@
-var mnemonic = "worth globe fitness flat promote sort waste deal borrow exclude outside unveil";
+var mnemonic = "cherry seed pitch address stock ozone opinion economy flee term glow future";

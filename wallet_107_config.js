@@ -1,1 +1,1 @@
-var mnemonic = "protect warrior pride panda skirt steak cliff limit mention lion vivid pistol";
+var mnemonic = "include wing flower sign prefer super october observe short cream over roast";

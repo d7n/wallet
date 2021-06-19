@@ -1,1 +1,1 @@
-var mnemonic = "across suspect way buddy bike scrub problem stock sea crisp glow pumpkin";
+var mnemonic = "quality already panel client primary joy cricket lecture street fox trash trip";

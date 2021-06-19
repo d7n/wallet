@@ -1,1 +1,1 @@
-var mnemonic = "miss remove damp absurd member fabric please auction outer security scout mixed";
+var mnemonic = "segment rail fire ranch present tent noble soap beauty viable ill estate";

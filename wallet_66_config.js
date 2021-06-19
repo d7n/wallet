@@ -1,1 +1,1 @@
-var mnemonic = "fog rib awesome crop foster village champion quick empty hen infant advance";
+var mnemonic = "purse other holiday danger pear renew apple group fog crop pilot enough";

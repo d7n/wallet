@@ -1,1 +1,1 @@
-var mnemonic = "involve top worth galaxy country dawn blush cluster today wall awkward miss";
+var mnemonic = "turn runway post tortoise language session crystal market forest lava detect comfort";

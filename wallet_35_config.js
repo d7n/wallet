@@ -1,1 +1,1 @@
-var mnemonic = "predict decline pumpkin oak sun situate waste story sausage medal spatial palm";
+var mnemonic = "goddess atom tortoise churn odor cable country audit over amateur cannon quantum";

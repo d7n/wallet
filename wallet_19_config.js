@@ -1,1 +1,1 @@
-var mnemonic = "pupil better glass arrow antenna velvet basket never palm gun illegal cause";
+var mnemonic = "ketchup occur junk salad across supply patient improve modify spring snap real";

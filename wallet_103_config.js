@@ -1,1 +1,1 @@
-var mnemonic = "company recipe tiger general glory pass dream glow egg fever village happy";
+var mnemonic = "drift rival canal syrup powder actor glance horror soda army dirt consider";

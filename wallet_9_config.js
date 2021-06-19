@@ -1,1 +1,1 @@
-var mnemonic = "bless drama power flee hold math shove jeans embody truck buffalo shine";
+var mnemonic = "obtain own access fiscal orange express section tackle rebel rural you monkey";

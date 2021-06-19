@@ -1,1 +1,1 @@
-var mnemonic = "south two daring crouch foil island include crack favorite divert common limb";
+var mnemonic = "boring daughter sight family runway bind guard draw regret resemble produce fog";

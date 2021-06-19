@@ -1,1 +1,1 @@
-var mnemonic = "odor rhythm vintage bean any recipe wedding athlete penalty ask extra snow";
+var mnemonic = "build typical soft liquid betray tone obscure panic lonely defense left strategy";

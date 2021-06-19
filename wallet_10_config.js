@@ -1,1 +1,1 @@
-var mnemonic = "decide job cause wait drop identify exhibit jeans rival adjust text near";
+var mnemonic = "drop lion scout mention walk opera corn glance destroy brief hammer treat";

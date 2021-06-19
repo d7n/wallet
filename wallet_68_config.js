@@ -1,1 +1,1 @@
-var mnemonic = "salute loop chimney ramp fortune ketchup drift whisper erode warrior embrace sail";
+var mnemonic = "inner forest flip seminar few hat opera fever model goddess ahead trade";

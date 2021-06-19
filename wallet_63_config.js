@@ -1,1 +1,1 @@
-var mnemonic = "design cycle whale gain monkey close raise swap access poverty lonely average";
+var mnemonic = "capable fence simple evolve artefact inmate very exchange enroll curve bonus roast";

@@ -1,1 +1,1 @@
-var mnemonic = "layer sun proof hat risk accident danger approve cancel globe tourist shoot";
+var mnemonic = "festival cluster venue february lucky elite theory will retreat autumn one sunny";

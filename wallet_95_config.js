@@ -1,1 +1,1 @@
-var mnemonic = "room filter dust common core swamp violin jar material shock layer eagle";
+var mnemonic = "genius blind dawn simple rookie deny tackle trade barrel simple cliff afraid";

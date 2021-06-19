@@ -1,1 +1,1 @@
-var mnemonic = "learn reduce panic bargain black crawl alarm will sick priority lawsuit maid";
+var mnemonic = "mosquito city badge prevent front gadget box dream rate idle cannon matrix";

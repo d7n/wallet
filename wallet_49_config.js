@@ -1,1 +1,1 @@
-var mnemonic = "reject travel female garment husband razor moral recipe oak strong arena faith";
+var mnemonic = "right section raven know check salon family boring hurt chimney snow tourist";

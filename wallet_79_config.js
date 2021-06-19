@@ -1,1 +1,1 @@
-var mnemonic = "cart cancel oil submit roof record define sustain stumble six injury float";
+var mnemonic = "police spike job napkin envelope worry slight hip dawn immense orchard need";

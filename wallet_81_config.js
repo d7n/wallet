@@ -1,1 +1,1 @@
-var mnemonic = "disorder source certain soon anger novel joy sunset object jeans riot clog";
+var mnemonic = "anxiety absorb economy school car fan tube lucky laundry robust noise valid";

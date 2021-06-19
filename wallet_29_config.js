@@ -1,1 +1,1 @@
-var mnemonic = "student youth oppose senior distance fossil arrest because kit person sunny disagree";
+var mnemonic = "rescue injury kind damp record prosper comic ugly initial retreat assault rail";

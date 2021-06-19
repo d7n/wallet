@@ -1,1 +1,1 @@
-var mnemonic = "father siren rigid robot kiwi behind document purse sunny erode picture lawn";
+var mnemonic = "bundle finish aim keen acquire duck search rookie into visa what pupil";

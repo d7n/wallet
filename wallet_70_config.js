@@ -1,1 +1,1 @@
-var mnemonic = "soul square earth silly adapt school ghost tired hunt increase sponsor object";
+var mnemonic = "siren produce lazy grace upon quit govern congress treat you man day";

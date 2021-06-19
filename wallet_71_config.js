@@ -1,1 +1,1 @@
-var mnemonic = "found market write insane abstract verb monkey lend tray scale plastic soccer";
+var mnemonic = "float moment scrub nephew toss plastic merry nature pony aware tree language";

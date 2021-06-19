@@ -1,1 +1,1 @@
-var mnemonic = "adjust legend people waste problem expire term rice evoke tide seek sign";
+var mnemonic = "power drill analyst actor mom siren glance jungle situate blood remain solar";

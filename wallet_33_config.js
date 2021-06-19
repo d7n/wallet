@@ -1,1 +1,1 @@
-var mnemonic = "pet raven opera boring bright two machine result mimic caught diary menu";
+var mnemonic = "make sample peanut divorce awake lecture order wolf vehicle relief stock thing";

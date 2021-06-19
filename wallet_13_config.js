@@ -1,1 +1,1 @@
-var mnemonic = "song build final broken ramp laptop shaft joy tortoise beef grape enforce";
+var mnemonic = "series immune program base seed diet donor key goose bag patient away";

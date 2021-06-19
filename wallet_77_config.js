@@ -1,1 +1,1 @@
-var mnemonic = "course achieve over effort sausage spider region toss coil distance life capital";
+var mnemonic = "step truck setup index pencil cheese churn cannon siege wink unhappy jaguar";

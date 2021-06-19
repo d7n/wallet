@@ -1,1 +1,1 @@
-var mnemonic = "vivid denial left cupboard hood celery illness notice mutual joke damage message";
+var mnemonic = "layer rifle female prepare cover special corn snow arrive dream fever divorce";

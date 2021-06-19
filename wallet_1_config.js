@@ -1,1 +1,1 @@
-var mnemonic = "imitate mercy quality need infant fork employ lounge depart immense witness welcome";
+var mnemonic = "eagle alarm awesome dose region toddler quick remind skill circle virus salon";

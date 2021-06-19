@@ -1,1 +1,1 @@
-var mnemonic = "fabric daring mixed rare tower stairs pulp swallow limb boss suggest enroll";
+var mnemonic = "diary parade crawl lady notable maximum obscure sphere march rough segment junior";

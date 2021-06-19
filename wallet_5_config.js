@@ -1,1 +1,1 @@
-var mnemonic = "mobile merry place unfair forward island maid inject drink cable issue regret";
+var mnemonic = "salon lucky razor exist glide artwork must furnace broken sort much hammer";

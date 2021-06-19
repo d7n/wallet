@@ -1,1 +1,1 @@
-var mnemonic = "bacon evoke pill cloth stereo limit fire idea opinion grow fortune junk";
+var mnemonic = "nurse few sentence loan sauce siege emerge match input warfare share bracket";

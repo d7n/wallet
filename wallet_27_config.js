@@ -1,1 +1,1 @@
-var mnemonic = "gaze neither inform during sniff adult hero state home potato always warfare";
+var mnemonic = "play lawn screen illness urban tiger razor rich neutral spice wine middle";

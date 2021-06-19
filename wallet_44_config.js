@@ -1,1 +1,1 @@
-var mnemonic = "swear guilt between recall protect antique tank vital sing inch runway nephew";
+var mnemonic = "track alone urge crazy explain false lion hazard desert cream proof mobile";

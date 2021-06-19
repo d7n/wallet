@@ -1,1 +1,1 @@
-var mnemonic = "aunt check drip around gift motion sponsor abuse army blouse floor business";
+var mnemonic = "benefit canvas lift small sheriff dinosaur define cage render visa exist pink";

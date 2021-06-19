@@ -1,1 +1,1 @@
-var mnemonic = "fork remain plate sleep liberty urge theme soap drink sense mule velvet";
+var mnemonic = "oxygen reflect tip busy biology simple fold hip unfair august supreme rich";

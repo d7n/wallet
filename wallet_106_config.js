@@ -1,1 +1,1 @@
-var mnemonic = "apart divert shoe lumber grant slush monster farm fine job nose doctor";
+var mnemonic = "birth state blue boss chair cross crouch amazing lobster ceiling crop alone";

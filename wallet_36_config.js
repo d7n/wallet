@@ -1,1 +1,1 @@
-var mnemonic = "have tennis unusual prefer endless enforce front dirt law evolve school solar";
+var mnemonic = "patient plunge enrich dragon custom envelope response man bar coast attract fence";

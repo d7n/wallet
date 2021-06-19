@@ -1,1 +1,1 @@
-var mnemonic = "live cricket online usage alien earn valley idea wave early gift vendor";
+var mnemonic = "gold option hour beach tip ranch ceiling ramp clock glance museum fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "sort response ramp bird decorate special trim session axis achieve quarter soccer";
+var mnemonic = "remind swallow cradle catalog penalty anchor scare soda crop dirt satisfy excuse";

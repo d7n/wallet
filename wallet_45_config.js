@@ -1,1 +1,1 @@
-var mnemonic = "learn goose draft mad excess hollow riot code fall render hurry collect";
+var mnemonic = "stamp pattern boring grape coin dance buddy tag vintage empower journey please";

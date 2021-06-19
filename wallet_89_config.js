@@ -1,1 +1,1 @@
-var mnemonic = "swift sense magic pony vital floor eyebrow canyon under lesson vicious dad";
+var mnemonic = "smile reject exhaust one easily defy drum pluck fatigue west entire year";

@@ -1,1 +1,1 @@
-var mnemonic = "pride excess tennis odor pact behave strategy clinic depart hill because admit";
+var mnemonic = "embrace razor hood swear honey sell ribbon vote trophy cotton hedgehog soul";

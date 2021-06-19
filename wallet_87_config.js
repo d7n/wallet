@@ -1,1 +1,1 @@
-var mnemonic = "sad field sweet later cargo okay room vicious goose often tenant matrix";
+var mnemonic = "candy mixed panic nasty print cage car fish planet unusual novel matrix";

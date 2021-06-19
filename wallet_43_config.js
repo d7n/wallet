@@ -1,1 +1,1 @@
-var mnemonic = "piano vivid yellow invite tag tell cinnamon stumble stand field enemy judge";
+var mnemonic = "damp crunch pioneer recipe capital fossil upset edge brand labor wall theme";

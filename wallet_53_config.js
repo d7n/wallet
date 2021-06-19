@@ -1,1 +1,1 @@
-var mnemonic = "horn rate hotel alley find reveal ribbon sport fold moon endless kangaroo";
+var mnemonic = "upper pencil phrase jar super cook expand below ceiling gentle brother mix";

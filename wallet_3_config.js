@@ -1,1 +1,1 @@
-var mnemonic = "evidence monster choice rebuild coconut annual area stumble amazing cheese banana festival";
+var mnemonic = "salt jealous cook relax work call memory inflict universe insane tag auction";

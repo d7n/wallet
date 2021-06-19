@@ -1,1 +1,1 @@
-var mnemonic = "first early path benefit lumber left spring tree sunny habit polar remind";
+var mnemonic = "february rubber dilemma music glass yellow corn hamster lawn buffalo quality skin";

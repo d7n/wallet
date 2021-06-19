@@ -1,1 +1,1 @@
-var mnemonic = "private trip gather front shine regret vital easily spot banner rule hello";
+var mnemonic = "mixed that document since laugh want december once often apology taxi citizen";

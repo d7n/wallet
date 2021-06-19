@@ -1,1 +1,1 @@
-var mnemonic = "tent engine seven become mix paper vast final brief pave crash relax";
+var mnemonic = "ball fat west paper tag thrive allow sunset rack cheap stereo deny";

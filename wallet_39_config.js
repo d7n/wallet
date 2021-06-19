@@ -1,1 +1,1 @@
-var mnemonic = "alley stove float raise daring faint wide fan polar lumber pipe tragic";
+var mnemonic = "laptop pink music keen occur wrong start trial power provide work crumble";

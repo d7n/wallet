@@ -1,1 +1,1 @@
-var mnemonic = "lobster guide claw actress tower music idea next profit laundry ready ivory";
+var mnemonic = "figure inquiry chief young fade fold worry orchard own olive critic neglect";

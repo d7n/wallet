@@ -1,1 +1,1 @@
-var mnemonic = "blast hero clever neither sibling good margin cherry youth victory inspire animal";
+var mnemonic = "nothing script mammal gaze student economy hidden scatter flower shoe hobby soon";

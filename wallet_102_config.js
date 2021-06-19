@@ -1,1 +1,1 @@
-var mnemonic = "fault okay festival flame bird mad hybrid dream curve address minute always";
+var mnemonic = "quote original level flame possible vanish blade west tunnel near arrest essay";

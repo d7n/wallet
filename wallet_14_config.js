@@ -1,1 +1,1 @@
-var mnemonic = "stumble artefact average inject jelly clutch voyage govern fan remind legend maid";
+var mnemonic = "neither credit stem fatal stadium fire federal combine gather sphere apple permit";

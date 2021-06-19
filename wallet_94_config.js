@@ -1,1 +1,1 @@
-var mnemonic = "hamster axis siege ocean ball someone work fork mask pact sure over";
+var mnemonic = "six meat silly keep volcano bridge oven cute enact primary daring toilet";

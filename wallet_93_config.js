@@ -1,1 +1,1 @@
-var mnemonic = "track celery reason equip bread tube brand caution soft pumpkin mistake heavy";
+var mnemonic = "matter dust harsh demise indicate way mistake shock shallow desert ranch lumber";

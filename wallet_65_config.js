@@ -1,1 +1,1 @@
-var mnemonic = "bicycle century stamp excess clever resource worth never wealth hollow force inhale";
+var mnemonic = "axis pretty achieve video acid bleak abandon ivory news exercise boy arctic";

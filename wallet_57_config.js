@@ -1,1 +1,1 @@
-var mnemonic = "regret make person require thunder blind inch sunset rigid key frog vague";
+var mnemonic = "crisp duty alien liar nephew warrior home tiny nominee case use hobby";
