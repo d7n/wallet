@@ -1,1 +1,1 @@
-var mnemonic = "enemy perfect remember picture assist tuna sand jump weather bar cruel hurt";
+var mnemonic = "universe first portion dawn into educate coconut clever govern blanket exact carry";

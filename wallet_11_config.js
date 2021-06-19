@@ -1,1 +1,1 @@
-var mnemonic = "quote garbage differ notable clap prize boring coyote truly baby coast saddle";
+var mnemonic = "dust vacuum clip want blast cluster oppose derive disagree useless few repair";

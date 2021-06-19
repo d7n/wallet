@@ -1,1 +1,1 @@
-var mnemonic = "enact history wonder road elite cake town syrup paper inject palm because";
+var mnemonic = "fuel object seminar cash vast kiwi copy system magic melt barrel fame";

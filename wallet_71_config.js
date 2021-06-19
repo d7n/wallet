@@ -1,1 +1,1 @@
-var mnemonic = "cheese outside boy enter window project retreat rent arena mimic detect until";
+var mnemonic = "basket cart moment nice major note glare erupt large reduce comic repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "know saddle fluid balcony two romance world side usual flee cat author";
+var mnemonic = "scene negative glimpse wrong sea cable charge marble panda frog space pact";

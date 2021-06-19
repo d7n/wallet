@@ -1,1 +1,1 @@
-var mnemonic = "pony camp blast post birth rough syrup board basket tonight that apart";
+var mnemonic = "valve domain hen lock hour rescue under wealth nasty purity cheese lottery";

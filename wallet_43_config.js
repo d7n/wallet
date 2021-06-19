@@ -1,1 +1,1 @@
-var mnemonic = "oven vacuum setup where vital inch ship document you drama skirt album";
+var mnemonic = "upon attitude train funny vanish wreck remove special slab doll dentist page";

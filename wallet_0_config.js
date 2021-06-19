@@ -1,1 +1,1 @@
-var mnemonic = "shield fatal fatal token west question tooth impulse behave lizard draw brush";
+var mnemonic = "seven negative agent explain extra example lift violin april private original deposit";

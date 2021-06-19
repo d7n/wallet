@@ -1,1 +1,1 @@
-var mnemonic = "weird wing trick spot primary slab pride shove hip slab column weapon";
+var mnemonic = "wine average sister situate fence release excite two march vote decide wagon";

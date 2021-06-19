@@ -1,1 +1,1 @@
-var mnemonic = "pipe across surprise fox account common tell talk scrub fantasy subject poet";
+var mnemonic = "jazz sure reflect peanut mean vocal warm flash reject shaft club damp";

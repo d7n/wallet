@@ -1,1 +1,1 @@
-var mnemonic = "please actor merry victory hold brown twist shaft uniform cushion crater day";
+var mnemonic = "mixed employ relief hint anger amount age fortune bring unveil wet enemy";

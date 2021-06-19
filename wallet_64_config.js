@@ -1,1 +1,1 @@
-var mnemonic = "quit top response virtual embark hollow uniform absurd spend spider poem morning";
+var mnemonic = "wheel risk exchange enrich shiver arch symbol idea treat surround vapor bounce";

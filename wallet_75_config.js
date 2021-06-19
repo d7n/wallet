@@ -1,1 +1,1 @@
-var mnemonic = "velvet mechanic solid concert shop immense rack pitch cloth move awake siege";
+var mnemonic = "know south distance marriage glide yard exact praise again kit miracle will";

@@ -1,1 +1,1 @@
-var mnemonic = "broken bamboo sing blush october square employ plate warfare gesture crumble average";
+var mnemonic = "mushroom cabbage person shoulder cereal smooth awkward record glory lamp island series";

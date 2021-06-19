@@ -1,1 +1,1 @@
-var mnemonic = "merge dash turtle answer miracle sense present term frog allow impulse blanket";
+var mnemonic = "crucial service cupboard double approve olive science firm rail click make analyst";

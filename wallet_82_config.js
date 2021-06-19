@@ -1,1 +1,1 @@
-var mnemonic = "move once cluster motor provide loud funny abstract slow stock mention empty";
+var mnemonic = "slender mule rural food mixed floor diesel bid rich cable collect hat";

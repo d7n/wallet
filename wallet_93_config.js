@@ -1,1 +1,1 @@
-var mnemonic = "naive knee lonely eagle loan foam elder essay nerve general annual outdoor";
+var mnemonic = "lawn dirt liberty little senior define half cargo junior fold trust obvious";

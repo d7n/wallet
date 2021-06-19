@@ -1,1 +1,1 @@
-var mnemonic = "fame ranch degree walk island vanish mistake scan hover figure mountain grunt";
+var mnemonic = "april entry way silver volume year favorite castle biology radar rule shed";

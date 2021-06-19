@@ -1,1 +1,1 @@
-var mnemonic = "worth seed tiger slight extend brush ribbon please wink ethics target hire";
+var mnemonic = "frame caught rule deny world danger sure couple gift level debris salute";

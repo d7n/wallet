@@ -1,1 +1,1 @@
-var mnemonic = "heavy joy unhappy silk venture door false monitor focus aspect cool barely";
+var mnemonic = "yard team dirt idle mushroom wise globe vast bicycle version shift vote";

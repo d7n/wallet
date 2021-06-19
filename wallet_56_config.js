@@ -1,1 +1,1 @@
-var mnemonic = "doctor cushion metal multiply when sadness warm cluster offer amazing staff unable";
+var mnemonic = "test gorilla clown unhappy urge song ripple story differ retire defense cake";

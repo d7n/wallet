@@ -1,1 +1,1 @@
-var mnemonic = "toy spy file gorilla reason energy erosion enact nephew snack curious remove";
+var mnemonic = "ticket fall stairs valid update firm sword carry theme original night danger";

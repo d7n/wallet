@@ -1,1 +1,1 @@
-var mnemonic = "hazard assume spread firm pet ankle vacant kite lizard field knee aspect";
+var mnemonic = "choice hazard predict gown art wheat sail lesson flee tiger rough coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry pave maid penalty fantasy chef little alien melt artwork youth daughter";
+var mnemonic = "plastic usage lift flash child display oyster grocery siren genuine learn direct";

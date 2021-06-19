@@ -1,1 +1,1 @@
-var mnemonic = "enforce spell genius glad praise dry witness tomorrow grocery text trash draft";
+var mnemonic = "elegant frost robust indoor typical grief over guitar access problem apple symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "prefer tennis merry tenant extra script gesture blast because notice idea scrub";
+var mnemonic = "grape inside helmet forum light review goddess slush puppy glad case orbit";

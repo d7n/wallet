@@ -1,1 +1,1 @@
-var mnemonic = "vehicle vacant logic sketch few panic boat carry volcano envelope already virus";
+var mnemonic = "all pig park ski ridge process topple muffin husband disease myth drink";

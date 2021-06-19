@@ -1,1 +1,1 @@
-var mnemonic = "during large turtle sunny brief suit fancy give mammal where lens craft";
+var mnemonic = "humor quick they famous awesome parade blanket orphan fabric slot magnet coyote";

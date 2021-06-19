@@ -1,1 +1,1 @@
-var mnemonic = "street exercise spot inspire myself vault flavor dirt debris donkey shop trip";
+var mnemonic = "assume ladder cause nerve select lion wise switch mercy tree script tide";

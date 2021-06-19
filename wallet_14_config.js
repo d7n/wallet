@@ -1,1 +1,1 @@
-var mnemonic = "room butter dash music venture obtain border title resist uncover van hazard";
+var mnemonic = "until shock response about hidden man olympic bring differ because duck wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "virus speed hover spirit book wisdom shoulder happy much apology rose trigger";
+var mnemonic = "jaguar silk angle zoo sunset park primary cross text entry soap wood";

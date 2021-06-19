@@ -1,1 +1,1 @@
-var mnemonic = "produce fiction wrestle fossil hand butter lift remain bless machine inflict toe";
+var mnemonic = "bulb pole foam pilot situate exchange control mixed hedgehog town olive shiver";

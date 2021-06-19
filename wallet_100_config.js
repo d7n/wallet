@@ -1,1 +1,1 @@
-var mnemonic = "protect quiz bind rather repair job sphere tissue once area order bonus";
+var mnemonic = "point alter anchor target keen fashion salmon bargain drift razor bench congress";

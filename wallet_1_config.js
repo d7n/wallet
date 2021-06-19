@@ -1,1 +1,1 @@
-var mnemonic = "patrol fetch egg trigger very tank rocket ready speak humble diary cliff";
+var mnemonic = "worry upset leader sting december crush squeeze awesome catalog flip group adapt";

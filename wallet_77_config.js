@@ -1,1 +1,1 @@
-var mnemonic = "business follow pool inmate clip camp human kite zebra sunny climb bargain";
+var mnemonic = "timber lady into cheap pupil toward degree element mouse trim panda danger";

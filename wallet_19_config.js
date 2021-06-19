@@ -1,1 +1,1 @@
-var mnemonic = "expose ask asset battle brain include tree exist ivory income hurt december";
+var mnemonic = "garbage protect vibrant bind view cricket silver harsh antique thrive forward custom";

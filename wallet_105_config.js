@@ -1,1 +1,1 @@
-var mnemonic = "repair gravity weekend purse kind flavor insect holiday kit annual accuse bridge";
+var mnemonic = "clutch hurt birth pool pond mother unaware coil affair monster brave step";

@@ -1,1 +1,1 @@
-var mnemonic = "usual bone east change base fan amused smart dizzy hollow leaf number";
+var mnemonic = "extend urban expose pledge beef dress key crash this hamster town rain";

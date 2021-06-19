@@ -1,1 +1,1 @@
-var mnemonic = "together relax angle rather seek garden more satoshi sick crop fury staff";
+var mnemonic = "fox peasant hover view spawn palm mango girl stick twice indoor poet";

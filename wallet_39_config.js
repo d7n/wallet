@@ -1,1 +1,1 @@
-var mnemonic = "trigger badge giant trigger belt praise stage require poem measure trim undo";
+var mnemonic = "replace auction green raven soup obey goddess increase depth gloom walk little";

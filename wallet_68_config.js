@@ -1,1 +1,1 @@
-var mnemonic = "into gate outdoor correct cruise add aisle robot unfold lake pyramid select";
+var mnemonic = "devote pluck usage decade stay flower merit fury vibrant section tuition save";

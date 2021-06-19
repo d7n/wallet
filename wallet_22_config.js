@@ -1,1 +1,1 @@
-var mnemonic = "fabric toward cloud sunset erase episode dismiss display elbow style dinosaur tape";
+var mnemonic = "misery wage educate egg humble alley rival six fall large tip toe";

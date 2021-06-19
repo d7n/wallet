@@ -1,1 +1,1 @@
-var mnemonic = "such outdoor wealth example hood token present engage vanish ramp view silver";
+var mnemonic = "rose brand fine truly ozone marine night found art culture gate robot";

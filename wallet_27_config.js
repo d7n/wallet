@@ -1,1 +1,1 @@
-var mnemonic = "skate smart board rack window during oak happy govern oil nation off";
+var mnemonic = "tenant name host child exit chase latin slender dog survey thumb sleep";

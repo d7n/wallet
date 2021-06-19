@@ -1,1 +1,1 @@
-var mnemonic = "february stereo reflect super text car student chunk empower occur forward area";
+var mnemonic = "next insane solve spring spread reject pony top budget engine crowd giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "harbor state spin mail future recipe egg hidden include input knee image";
+var mnemonic = "wagon bachelor soup spring index rude cushion loud pink inch raise lunar";

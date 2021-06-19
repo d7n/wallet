@@ -1,1 +1,1 @@
-var mnemonic = "city medal motor ticket ugly film income maximum spider desk dash enact";
+var mnemonic = "invest casual anchor raccoon hello circle cement trick episode shed amazing swarm";

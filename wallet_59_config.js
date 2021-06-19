@@ -1,1 +1,1 @@
-var mnemonic = "high crash fetch habit ancient habit aspect live evolve hour sniff giraffe";
+var mnemonic = "question label language update second lemon feed leopard extend wire diagram trick";

@@ -1,1 +1,1 @@
-var mnemonic = "drop visit baby differ square awkward stairs pole post city two blood";
+var mnemonic = "lobster assume sun smile scrap ignore fun rookie sauce aware beauty subway";

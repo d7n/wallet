@@ -1,1 +1,1 @@
-var mnemonic = "edit bonus coach slam hungry where differ idle valley warfare spatial spray";
+var mnemonic = "security cargo program wrap shock exercise frequent enemy company ghost capable tank";

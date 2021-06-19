@@ -1,1 +1,1 @@
-var mnemonic = "that garage pupil vast enough track august coast coffee pig napkin immune";
+var mnemonic = "science toe version deny relax leaf pond extend claw process split detail";

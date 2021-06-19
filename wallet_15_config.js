@@ -1,1 +1,1 @@
-var mnemonic = "divorce lizard maze hair glass embody broom life surface runway snap pitch";
+var mnemonic = "conduct segment rough honey sport tuna gospel mobile snap fuel huge sock";

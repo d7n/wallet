@@ -1,1 +1,1 @@
-var mnemonic = "sea frog rotate cave clerk club car flash response story among assist";
+var mnemonic = "regret glance asthma ship tape vast ignore ticket end shop good text";

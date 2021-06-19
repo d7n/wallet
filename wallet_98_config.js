@@ -1,1 +1,1 @@
-var mnemonic = "column imitate foster hospital cliff priority lizard test parent awake tomato ridge";
+var mnemonic = "attract struggle matrix where horn lecture staff betray neglect unlock execute popular";

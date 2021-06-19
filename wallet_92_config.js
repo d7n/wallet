@@ -1,1 +1,1 @@
-var mnemonic = "ordinary switch grit nest afraid crater scissors subway boil situate sponsor message";
+var mnemonic = "error disease balance annual large stadium remember wing circle alone unfair output";

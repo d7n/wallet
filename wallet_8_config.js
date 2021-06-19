@@ -1,1 +1,1 @@
-var mnemonic = "anchor beyond nuclear test frog gift lemon hidden gauge enhance grief project";
+var mnemonic = "dirt scare survey season elder claim lift advice reduce trumpet easy daring";

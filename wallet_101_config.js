@@ -1,1 +1,1 @@
-var mnemonic = "master erase click rapid steel correct rather latin icon maid mean bus";
+var mnemonic = "chase aim shadow combine peanut list poem choice ranch practice embody kiss";

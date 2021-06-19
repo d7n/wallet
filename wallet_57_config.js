@@ -1,1 +1,1 @@
-var mnemonic = "beach loan very skirt plastic gun effort glare quarter sweet simple unhappy";
+var mnemonic = "stick course issue wisdom hub put vivid alien myself hazard exhaust neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "old visit alter liberty noble script enter injury drop capital shield noble";
+var mnemonic = "whip level correct blast urge mansion refuse empty night cabin two indoor";

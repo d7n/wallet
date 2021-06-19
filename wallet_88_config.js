@@ -1,1 +1,1 @@
-var mnemonic = "deliver nerve crush forget simple lumber powder erupt cupboard wild member suit";
+var mnemonic = "indoor add fringe gym more program reflect tell behind what grab company";

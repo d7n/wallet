@@ -1,1 +1,1 @@
-var mnemonic = "envelope rather mutual grace fox skill noble road cave lava pull flock";
+var mnemonic = "blind region mouse advance flower curious correct busy bunker flavor wish dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "business wall pulp chunk kiss rail spy arrest until sadness outer govern";
+var mnemonic = "explain edit capable process grain broccoli lucky ability scrap assist armor holiday";

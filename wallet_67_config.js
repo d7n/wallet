@@ -1,1 +1,1 @@
-var mnemonic = "animal avoid bone notice verify supreme champion old brand cash assault problem";
+var mnemonic = "venue rule remember library hamster armor deal birth fever craft accuse powder";

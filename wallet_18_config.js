@@ -1,1 +1,1 @@
-var mnemonic = "develop accuse sound whisper simple shoulder below debate ill this provide motion";
+var mnemonic = "switch flower cancel give input muffin grain unlock veteran crater method someone";

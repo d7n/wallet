@@ -1,1 +1,1 @@
-var mnemonic = "hybrid bachelor shell virus coach nominee taste sleep tape insect pulp apology";
+var mnemonic = "stereo duck inspire diary creek chuckle inherit flat race shrug upgrade resource";

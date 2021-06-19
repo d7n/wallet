@@ -1,1 +1,1 @@
-var mnemonic = "message youth stable banner jelly jelly wave rent tornado option perfect settle";
+var mnemonic = "useless much lizard rely unique debris still dragon orchard culture buffalo fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "spice work coconut deputy divert need eight laundry analyst repeat wife velvet";
+var mnemonic = "outdoor tilt tattoo cushion file basic announce admit card unable wet claim";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend goose false can perfect patch envelope quiz rude pulse little reopen";
+var mnemonic = "trade vehicle luxury there wall mandate sing absent text kite buffalo laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "hip junior expand manage flag mule basic dry derive clinic word large";
+var mnemonic = "parent crime oxygen drama junk leopard double auto hill wrong purse ticket";

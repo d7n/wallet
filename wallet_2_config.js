@@ -1,1 +1,1 @@
-var mnemonic = "faint kid syrup raven hole exhibit moral cruise alley foil first ahead";
+var mnemonic = "idea attitude curve build autumn brand quiz voyage face rice cry decide";

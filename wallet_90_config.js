@@ -1,1 +1,1 @@
-var mnemonic = "ivory banner disorder music flavor flock segment sword harsh gospel chapter album";
+var mnemonic = "mean crunch tower soul clap absorb fiction egg pudding snap ketchup reject";

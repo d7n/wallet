@@ -1,1 +1,1 @@
-var mnemonic = "dumb ozone verify laptop cattle cheap relief arrive present put job person";
+var mnemonic = "indoor sunset raw suggest drum trumpet into earth final envelope wall shift";

@@ -1,1 +1,1 @@
-var mnemonic = "wolf weird brass alley deputy hire dry jump notable bubble assault crack";
+var mnemonic = "swear drum menu unhappy when blood code fire armed round bronze idea";

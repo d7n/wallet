@@ -1,1 +1,1 @@
-var mnemonic = "vibrant crime more tuition churn gloom feed base help layer inherit together";
+var mnemonic = "limb live bunker program panic state sad load damp liquid tortoise forum";

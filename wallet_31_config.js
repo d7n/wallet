@@ -1,1 +1,1 @@
-var mnemonic = "chef circle confirm avoid next inflict winner uncover cross tail solar end";
+var mnemonic = "symptom code another fitness aunt indicate door profit letter dog rotate clerk";

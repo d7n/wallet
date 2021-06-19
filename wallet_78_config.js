@@ -1,1 +1,1 @@
-var mnemonic = "isolate hidden arctic peanut join vivid elegant walk tribe van velvet cancel";
+var mnemonic = "fresh soul pill field grocery pass copy panic theme panther exhibit link";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap slam similar sorry uniform brass mix intact detail either you neck";
+var mnemonic = "attitude saddle regular park enroll debris erosion bulk movie pluck body despair";

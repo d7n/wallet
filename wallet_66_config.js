@@ -1,1 +1,1 @@
-var mnemonic = "jungle idea among best quality dash protect focus live future coast swing";
+var mnemonic = "dream lake poem accident garage mule left canyon sword stadium furnace elite";

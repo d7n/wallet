@@ -1,1 +1,1 @@
-var mnemonic = "garage opinion pitch bench below damp shallow figure fury work sorry allow";
+var mnemonic = "rifle example move honey cover iron host planet jacket assault biology forget";

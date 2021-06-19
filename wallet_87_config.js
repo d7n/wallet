@@ -1,1 +1,1 @@
-var mnemonic = "shadow smile label scout frost phone brown dirt field crater taste eager";
+var mnemonic = "knock rally nurse senior manage grit female doctor media smart ancient coast";

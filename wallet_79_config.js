@@ -1,1 +1,1 @@
-var mnemonic = "rule couple chunk buddy friend peanut belt embody group issue disagree service";
+var mnemonic = "today eight notable fancy mobile student flight stadium blade click answer excite";

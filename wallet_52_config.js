@@ -1,1 +1,1 @@
-var mnemonic = "naive concert major panic fit trim pigeon comic civil cruise tiny client";
+var mnemonic = "attack admit reform general door wear boss insane sustain magnet enrich viable";

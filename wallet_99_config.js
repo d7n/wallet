@@ -1,1 +1,1 @@
-var mnemonic = "supply divert camera useful click sure blame pole owner drip friend surprise";
+var mnemonic = "rare oak claim horn pig ugly bonus miracle easily husband nephew wink";

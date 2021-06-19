@@ -1,1 +1,1 @@
-var mnemonic = "leg sunset extend fat because arctic elevator plunge attack wrong ocean fade";
+var mnemonic = "segment alley easy scissors rocket code emerge people federal basket fish knee";

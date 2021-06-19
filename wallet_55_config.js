@@ -1,1 +1,1 @@
-var mnemonic = "link clog silver leg army wolf cover mutual garage hobby shop lunch";
+var mnemonic = "oxygen birth emerge raw cloth lady memory check adult script sweet smile";

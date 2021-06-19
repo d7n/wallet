@@ -1,1 +1,1 @@
-var mnemonic = "capital unaware wine pretty trade horse runway hair impact clinic cement room";
+var mnemonic = "decorate very chuckle immune input worth lunch know bargain candy that crumble";

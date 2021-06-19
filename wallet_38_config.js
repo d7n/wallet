@@ -1,1 +1,1 @@
-var mnemonic = "orchard license write tower swamp puppy coconut pigeon luxury suit digital limit";
+var mnemonic = "undo cabin venture west pilot nest pelican alert quantum claw people live";

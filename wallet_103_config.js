@@ -1,1 +1,1 @@
-var mnemonic = "network fork guide oak plate canvas margin village noise number physical buyer";
+var mnemonic = "whisper unable unique rate protect swap input stem cheese strike hold abandon";

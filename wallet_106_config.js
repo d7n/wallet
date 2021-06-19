@@ -1,1 +1,1 @@
-var mnemonic = "power ecology large adult manage beach what primary tray planet powder black";
+var mnemonic = "turkey extra broken ten oppose submit hood rally liberty struggle shuffle enrich";

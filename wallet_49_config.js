@@ -1,1 +1,1 @@
-var mnemonic = "yard student unlock sunset stick square expire tissue arrange brave razor merry";
+var mnemonic = "enrich bird hockey rebel shift tornado aim observe review round elevator symbol";

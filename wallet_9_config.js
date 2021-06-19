@@ -1,1 +1,1 @@
-var mnemonic = "vendor merge olive toward swamp mean venture decorate local gloom garment pilot";
+var mnemonic = "airport embrace scissors wrestle unfold achieve state aerobic other gap question brave";

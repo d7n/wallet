@@ -1,1 +1,1 @@
-var mnemonic = "hand lyrics spray elbow all bunker dinosaur song replace today catch bachelor";
+var mnemonic = "swift fortune permit lava power pave mammal unfold chicken smoke game hover";

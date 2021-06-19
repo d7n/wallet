@@ -1,1 +1,1 @@
-var mnemonic = "success label sport dignity panda garden topic lock practice venture blossom cheese";
+var mnemonic = "favorite village cattle beyond search parrot novel fee flock tooth gentle unusual";

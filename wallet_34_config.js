@@ -1,1 +1,1 @@
-var mnemonic = "practice insect demise govern culture lottery change mushroom theme agent prepare enter";
+var mnemonic = "opinion lab extra action just notice high define spawn dismiss fog struggle";

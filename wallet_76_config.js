@@ -1,1 +1,1 @@
-var mnemonic = "skirt adjust nut term shaft spider void sphere champion force crane speak";
+var mnemonic = "clap abstract hazard worth middle nest shop knife spread elder stairs flame";
