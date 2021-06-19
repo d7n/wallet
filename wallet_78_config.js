@@ -1,1 +1,1 @@
-var mnemonic = "swift again law multiply garage dance angry inflict machine shield huge mistake";
+var mnemonic = "repeat patch spring erode joke travel obey control alert side fever nice";

@@ -1,1 +1,1 @@
-var mnemonic = "bar caution oven swift stadium tiger burden close flame possible version brass";
+var mnemonic = "leaf upper mango jacket zero inquiry job clog young pact raise mom";

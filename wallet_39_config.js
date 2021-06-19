@@ -1,1 +1,1 @@
-var mnemonic = "nerve cake dream famous special hammer define canvas under virtual reopen portion";
+var mnemonic = "oyster language use width debate journey hurt mechanic foot glad floor cheap";

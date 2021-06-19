@@ -1,1 +1,1 @@
-var mnemonic = "paper tail mammal track diesel skirt select zebra pole onion owner pistol";
+var mnemonic = "sustain fit modify retreat poverty clean regular hamster space ladder jewel depart";

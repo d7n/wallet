@@ -1,1 +1,1 @@
-var mnemonic = "bag flight despair earn image merit put wrong cash indicate loop suggest";
+var mnemonic = "copy pave crucial glimpse magnet stuff kiwi crater job bulk enhance tornado";

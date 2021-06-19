@@ -1,1 +1,1 @@
-var mnemonic = "curious pyramid relief film sell bracket account melt size shaft surface cage";
+var mnemonic = "adult squirrel soul layer clutch border force junior salon paper ostrich casino";

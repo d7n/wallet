@@ -1,1 +1,1 @@
-var mnemonic = "nurse segment dose damage attitude crane expose away business advance ask uniform";
+var mnemonic = "tortoise refuse stone orchard raccoon attract elbow chase child annual fence walk";

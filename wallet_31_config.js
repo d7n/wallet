@@ -1,1 +1,1 @@
-var mnemonic = "hospital tennis snow guide owner december always nation rough trend worth fold";
+var mnemonic = "manual sun cry awful soon opinion joy faint essence pluck core term";

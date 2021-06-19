@@ -1,1 +1,1 @@
-var mnemonic = "butter manage sell gospel network bargain volcano million observe bless parrot maple";
+var mnemonic = "skull museum swap comic kiwi program immune clap awkward cupboard invite truly";

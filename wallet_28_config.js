@@ -1,1 +1,1 @@
-var mnemonic = "local globe swim club only glide luxury estate neutral amount brass ten";
+var mnemonic = "crane armor series shrimp load express portion employ above fantasy market cool";

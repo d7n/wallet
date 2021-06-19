@@ -1,1 +1,1 @@
-var mnemonic = "index loop strong system crisp repeat tip century proud soap scatter riot";
+var mnemonic = "daring estate quit silly soon snake cube vote alert ahead carry raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "arch frown notable rose churn ramp height lawn front ugly method repeat";
+var mnemonic = "silent pink addict section slice animal ecology shove blast moral news bar";

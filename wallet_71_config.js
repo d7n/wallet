@@ -1,1 +1,1 @@
-var mnemonic = "evolve click effort book wrestle artwork absorb force enroll require warfare result";
+var mnemonic = "stove toe problem twin truck sense love palm laundry civil just escape";

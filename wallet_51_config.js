@@ -1,1 +1,1 @@
-var mnemonic = "sell hint extend ginger toilet subway leopard lucky alcohol nasty stool avocado";
+var mnemonic = "person burst brief mosquito useful catch visa rug width connect fall fork";

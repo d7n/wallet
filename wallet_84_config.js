@@ -1,1 +1,1 @@
-var mnemonic = "easily cross enjoy walk shuffle much normal alien educate season satoshi woman";
+var mnemonic = "impact fog torch peace bless guard never skin enrich pull during trade";

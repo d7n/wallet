@@ -1,1 +1,1 @@
-var mnemonic = "drop daring disorder laundry anxiety nature oval curtain moon axis water aerobic";
+var mnemonic = "tourist album reflect deposit depth olympic save sense manage woman index cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy brother hip whale length artefact answer adult enter measure fresh thunder";
+var mnemonic = "tobacco shift fossil sign pear youth sponsor desert divorce remind protect joy";

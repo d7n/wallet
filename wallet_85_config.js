@@ -1,1 +1,1 @@
-var mnemonic = "romance stuff illness during consider moon indicate eternal manage prevent heavy degree";
+var mnemonic = "poverty ramp estate fix test unfair jacket birth stock crisp void purity";

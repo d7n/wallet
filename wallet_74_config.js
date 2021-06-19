@@ -1,1 +1,1 @@
-var mnemonic = "increase auction lounge gas adjust media believe blossom laptop flock vivid lens";
+var mnemonic = "screen wreck nerve bitter barely area daughter memory derive lazy found opera";

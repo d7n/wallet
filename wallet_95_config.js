@@ -1,1 +1,1 @@
-var mnemonic = "devote sadness tail ritual wreck taste feed exhibit point chat cost position";
+var mnemonic = "hawk fury father reform want yard million radar wild settle street organ";

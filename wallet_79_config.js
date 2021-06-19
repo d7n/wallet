@@ -1,1 +1,1 @@
-var mnemonic = "edit success empower sauce model brick swap toss nest infant inherit turtle";
+var mnemonic = "inflict boy kiss work awake rice lady alien kind april illness key";

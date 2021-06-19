@@ -1,1 +1,1 @@
-var mnemonic = "unique unfold sport year company there sponsor bid verb erase coach father";
+var mnemonic = "favorite spot seat lumber maximum pledge carpet happy keep mix fetch primary";

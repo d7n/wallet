@@ -1,1 +1,1 @@
-var mnemonic = "round pilot canal crumble possible fee library melody library bridge fish army";
+var mnemonic = "glare indoor label absorb report flush filter matter erosion bright matter manual";

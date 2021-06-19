@@ -1,1 +1,1 @@
-var mnemonic = "clip luxury inner drift museum badge donate regular rebuild umbrella awake clutch";
+var mnemonic = "lawsuit valley earn bullet term way above morning detail bullet laptop pudding";

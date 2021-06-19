@@ -1,1 +1,1 @@
-var mnemonic = "mix drastic soldier put lady cotton slogan fame clean display guide injury";
+var mnemonic = "cake drip donate scale salad put lawn other fade much weather security";

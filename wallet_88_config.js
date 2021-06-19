@@ -1,1 +1,1 @@
-var mnemonic = "raw tunnel sphere wish female sleep scene joke turkey pilot brave alert";
+var mnemonic = "pig bullet ancient typical dawn flame appear pattern flag noble nice steak";

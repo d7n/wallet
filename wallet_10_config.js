@@ -1,1 +1,1 @@
-var mnemonic = "lab skate proof husband inhale squirrel upon jazz reform jump wheat close";
+var mnemonic = "discover captain resource marble brief resist toward mixture wagon solid celery high";

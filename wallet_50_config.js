@@ -1,1 +1,1 @@
-var mnemonic = "amazing toy extend dice cruise sound total agree leave pull always melody";
+var mnemonic = "steak check office element stadium dwarf kick other endless immune belt run";

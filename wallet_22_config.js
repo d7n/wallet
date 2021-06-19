@@ -1,1 +1,1 @@
-var mnemonic = "erase wood sing trim motion depend snack trophy gadget nut judge account";
+var mnemonic = "soft focus mobile dune iron flower nasty tattoo soon saddle patrol genius";

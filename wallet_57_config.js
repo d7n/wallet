@@ -1,1 +1,1 @@
-var mnemonic = "essay lizard member siege glue hazard loop brave peace sustain lounge sleep";
+var mnemonic = "hundred decrease invite grab always secret scorpion bicycle melody famous surround raccoon";

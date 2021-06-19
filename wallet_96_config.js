@@ -1,1 +1,1 @@
-var mnemonic = "between life tail jelly raven base often emerge state oblige tourist have";
+var mnemonic = "viable annual vendor hello laptop home clean nasty kidney deposit word business";

@@ -1,1 +1,1 @@
-var mnemonic = "stove country adjust above document phone mother provide bicycle coin process foot";
+var mnemonic = "bridge table market leg trend depth someone grant phone powder put hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "square liar radio survey next myth plastic foam express awful fetch express";
+var mnemonic = "indicate portion lemon real setup piece symptom carbon ocean vintage alarm tortoise";

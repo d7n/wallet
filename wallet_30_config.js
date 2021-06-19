@@ -1,1 +1,1 @@
-var mnemonic = "push damp blue narrow end draft case faith fortune practice distance voice";
+var mnemonic = "goddess viable seven ocean gravity race wing grunt knife modify bachelor excess";

@@ -1,1 +1,1 @@
-var mnemonic = "occur code symbol receive key ancient immune country total present board kidney";
+var mnemonic = "unlock rocket gift defense excite scout garbage advance nation bird inside legend";

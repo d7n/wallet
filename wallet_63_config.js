@@ -1,1 +1,1 @@
-var mnemonic = "electric visa antenna stamp loop used lab turkey hill weekend entire genuine";
+var mnemonic = "retreat insane boring actress join drink column world festival furnace camp birth";

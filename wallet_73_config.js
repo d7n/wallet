@@ -1,1 +1,1 @@
-var mnemonic = "goose zebra mechanic seat solid heart short venture region situate assume ten";
+var mnemonic = "crystal laugh issue husband party orient fatal sock field goddess attack ignore";

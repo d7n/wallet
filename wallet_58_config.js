@@ -1,1 +1,1 @@
-var mnemonic = "race involve idle evil acid coast catch plug cinnamon disorder luggage donkey";
+var mnemonic = "coyote viable large tell budget skin spend need elegant crime blood shed";

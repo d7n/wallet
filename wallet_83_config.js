@@ -1,1 +1,1 @@
-var mnemonic = "magic tribe amateur people adapt caught obvious sunset member city crisp forward";
+var mnemonic = "adult limb true snap multiply brown vendor because neutral bronze buyer ketchup";

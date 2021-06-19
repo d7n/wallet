@@ -1,1 +1,1 @@
-var mnemonic = "loan faith cloth attract wrong remain country hint coil slide inch anxiety";
+var mnemonic = "hint title member egg thing virtual okay bring parade kitchen jaguar erupt";

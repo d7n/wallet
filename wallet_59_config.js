@@ -1,1 +1,1 @@
-var mnemonic = "fly drastic job gentle mushroom network mix outer occur beyond lens cluster";
+var mnemonic = "okay banana public ill copper thumb stool wheat obscure donate first motion";

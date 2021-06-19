@@ -1,1 +1,1 @@
-var mnemonic = "wood middle flock mystery vapor rain decrease subject dragon dolphin pen used";
+var mnemonic = "news badge elevator dry fever permit draw embark have airport small six";

@@ -1,1 +1,1 @@
-var mnemonic = "example remind build town width elite check crowd nest suggest tool insane";
+var mnemonic = "derive position safe worth stuff library rifle heavy guitar dad slogan toss";

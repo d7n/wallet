@@ -1,1 +1,1 @@
-var mnemonic = "neck swim dad mushroom brisk black now typical novel artwork end tired";
+var mnemonic = "shy lady edit load shell cinnamon keep dash lab depth skate ethics";

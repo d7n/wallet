@@ -1,1 +1,1 @@
-var mnemonic = "slot cricket choice endless sugar sauce model outdoor ugly cupboard smile ski";
+var mnemonic = "moral device injury tumble skin sword search oblige flag trap raise cushion";

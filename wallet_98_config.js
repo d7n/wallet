@@ -1,1 +1,1 @@
-var mnemonic = "thing whip oven dog night fix ten happy neglect cream position brand";
+var mnemonic = "tree stay then master news fashion since typical poet invest nut cream";

@@ -1,1 +1,1 @@
-var mnemonic = "zone depth merit off true fun process volcano busy window fitness version";
+var mnemonic = "asthma orient angry marble blind try salt decide decline yard educate outdoor";

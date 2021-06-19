@@ -1,1 +1,1 @@
-var mnemonic = "random zone cake weather differ regular donkey lyrics bulb session brisk object";
+var mnemonic = "room mistake arena infant rice ritual hungry chair yard next system valve";

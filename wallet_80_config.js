@@ -1,1 +1,1 @@
-var mnemonic = "box oxygen pigeon ozone veteran cause carpet luggage cost remain clarify intact";
+var mnemonic = "rifle seven pelican evidence cube double daring almost income still citizen cotton";

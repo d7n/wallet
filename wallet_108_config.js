@@ -1,1 +1,1 @@
-var mnemonic = "pulse quiz finger release mushroom lecture stand cement spy horror exist bag";
+var mnemonic = "noodle portion company night giant siege spirit seat faint refuse accident village";

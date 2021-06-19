@@ -1,1 +1,1 @@
-var mnemonic = "baby wing time eagle fitness cry roof mechanic donkey quantum frame social";
+var mnemonic = "exit bone cube message muscle flush anger dream coach glide trophy dream";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow unaware nose innocent erase thumb dismiss worth tube sheriff kite side";
+var mnemonic = "wash powder dizzy aunt suspect fitness source bottom elite reveal draft rug";

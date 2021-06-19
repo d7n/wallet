@@ -1,1 +1,1 @@
-var mnemonic = "stomach curve tank essence off guide sound tissue hurdle put young spray";
+var mnemonic = "prison bottom prepare size prevent carpet match either grain rookie real squeeze";

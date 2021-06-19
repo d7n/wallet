@@ -1,1 +1,1 @@
-var mnemonic = "thunder oblige lizard way pledge north rose worth oppose problem orchard bone";
+var mnemonic = "toss learn asset obtain detect kitten wheel spread upper vanish corn glue";

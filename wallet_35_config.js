@@ -1,1 +1,1 @@
-var mnemonic = "image hen consider maximum brand grain patrol involve observe reunion author park";
+var mnemonic = "ritual razor fog matter weasel prevent step bachelor annual broccoli off pond";

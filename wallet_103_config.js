@@ -1,1 +1,1 @@
-var mnemonic = "double toe ceiling usual limit plate master devote then gospel run honey";
+var mnemonic = "auction enforce grit begin immense vibrant glance dose bachelor image bonus meat";

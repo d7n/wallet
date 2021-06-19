@@ -1,1 +1,1 @@
-var mnemonic = "rebuild acid filter final dune utility nasty pizza seven sunny update coffee";
+var mnemonic = "whip gentle drop junk shrimp suspect perfect lounge garment fold fit crush";

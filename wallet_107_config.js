@@ -1,1 +1,1 @@
-var mnemonic = "gossip media shrug young review alone robot amazing goat buffalo suggest festival";
+var mnemonic = "casual dentist shiver father find room design prefer ski light host move";

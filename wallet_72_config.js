@@ -1,1 +1,1 @@
-var mnemonic = "happy any feed verb cheap slender chef various okay extend way circle";
+var mnemonic = "flag move gesture lawsuit flash fix spoil since fun chunk unaware member";

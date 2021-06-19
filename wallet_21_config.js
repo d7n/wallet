@@ -1,1 +1,1 @@
-var mnemonic = "aerobic erase farm license voyage sun echo clerk cement ancient possible acoustic";
+var mnemonic = "snack sphere concert giant ocean pair canvas friend toward concert outside visa";

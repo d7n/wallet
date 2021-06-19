@@ -1,1 +1,1 @@
-var mnemonic = "legal old banana gun snake tornado small select fringe avocado gesture mom";
+var mnemonic = "glow dignity twenty employ tide timber rescue tag frog urban fence absent";

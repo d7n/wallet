@@ -1,1 +1,1 @@
-var mnemonic = "poet palm burden file clock fancy eye taxi unusual own jeans marine";
+var mnemonic = "arrest clever year bracket seat prosper accuse involve cool miracle chat metal";

@@ -1,1 +1,1 @@
-var mnemonic = "mad silent crouch zebra deal flock off nest endorse raccoon swarm victory";
+var mnemonic = "other corn simple slender critic maid above payment quantum provide razor slot";

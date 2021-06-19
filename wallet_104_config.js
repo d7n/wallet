@@ -1,1 +1,1 @@
-var mnemonic = "rhythm similar prison return page solution during quit churn trouble minor satoshi";
+var mnemonic = "muscle art embrace glove cushion silent loan hood kid unknown sign stem";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit arm sustain mushroom monkey open crazy powder dilemma physical book man";
+var mnemonic = "process squirrel space virus hover pigeon also midnight social notice eagle memory";

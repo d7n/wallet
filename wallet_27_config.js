@@ -1,1 +1,1 @@
-var mnemonic = "adjust pen delay orient canoe horror fire rain artist brave claim corn";
+var mnemonic = "lend vendor advance where olive veteran method avocado butter hunt chalk come";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb siren find tool squirrel tray unaware nation umbrella lobster general need";
+var mnemonic = "normal rescue yard note olympic slot blossom pattern social fold minor kick";

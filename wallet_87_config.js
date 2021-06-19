@@ -1,1 +1,1 @@
-var mnemonic = "hold cabin recall soul prepare winter ceiling mother mesh category abstract desert";
+var mnemonic = "calm shoe desert wasp give valid runway okay parade voyage cushion soft";

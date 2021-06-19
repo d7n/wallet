@@ -1,1 +1,1 @@
-var mnemonic = "crack ship cargo neck exit gym section skirt forum cross congress coil";
+var mnemonic = "clean february doctor escape expose rifle reward piano seven receive toe antenna";

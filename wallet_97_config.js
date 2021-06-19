@@ -1,1 +1,1 @@
-var mnemonic = "giggle pitch unhappy excuse shallow sad hill unit derive gasp middle impulse";
+var mnemonic = "orient address metal guitar satisfy lottery derive park burst feel board abuse";

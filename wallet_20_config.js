@@ -1,1 +1,1 @@
-var mnemonic = "damp end roof dance danger provide solution detect puzzle inside manage grab";
+var mnemonic = "model staff build enforce chalk deal estate engine student vanish wonder burden";

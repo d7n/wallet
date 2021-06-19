@@ -1,1 +1,1 @@
-var mnemonic = "lab unusual surge blanket machine cost swear nothing era caught joy during";
+var mnemonic = "neglect fade orphan input lottery world arrow color day marble local brush";

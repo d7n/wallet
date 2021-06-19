@@ -1,1 +1,1 @@
-var mnemonic = "prepare poem dumb rib enable sausage cheese piano right latin link insect";
+var mnemonic = "behind learn trash funny bleak faint milk secret skin motor guilt scale";

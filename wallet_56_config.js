@@ -1,1 +1,1 @@
-var mnemonic = "one reunion original movie afraid home base novel sign sample ice fit";
+var mnemonic = "fork thing rubber car rebuild destroy quantum skate patient cry grit hotel";

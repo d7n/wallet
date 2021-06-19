@@ -1,1 +1,1 @@
-var mnemonic = "powder brick lion question gallery tray escape bless kingdom enforce public deer";
+var mnemonic = "borrow foot morning rule fog minor swap lobster upgrade stay believe banana";

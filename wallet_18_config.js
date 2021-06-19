@@ -1,1 +1,1 @@
-var mnemonic = "equal romance crystal gasp mimic rug unknown fuel wedding man napkin note";
+var mnemonic = "live border hedgehog nuclear cabin maze one farm invest output thing love";

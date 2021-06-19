@@ -1,1 +1,1 @@
-var mnemonic = "fossil result frown sudden drama diagram boost foil pet model wagon swift";
+var mnemonic = "protect moment truck slogan amused arena ensure issue border arch pool team";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter air remember olympic excess buddy chunk normal kitten suspect apology immense";
+var mnemonic = "rookie sugar angry miss pulp bless inspire enrich apology jazz unique foot";

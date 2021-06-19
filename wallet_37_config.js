@@ -1,1 +1,1 @@
-var mnemonic = "knife saddle current palm cruel shop develop obtain inhale reward best edit";
+var mnemonic = "sign zero oyster resource either foam busy moon calm dignity health myth";

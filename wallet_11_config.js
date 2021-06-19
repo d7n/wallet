@@ -1,1 +1,1 @@
-var mnemonic = "script ivory report axis never okay desk enrich prize danger negative credit";
+var mnemonic = "avoid reduce talk hood shrimp feed soon pride mechanic danger river hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "document strong mandate pact human bean true bulk carry flame ticket predict";
+var mnemonic = "bike gloom lottery private never gravity scissors million rice venue armed flame";

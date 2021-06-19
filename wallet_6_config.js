@@ -1,1 +1,1 @@
-var mnemonic = "spot uphold fall dilemma giant spawn phone inherit friend air fun inch";
+var mnemonic = "reflect diet student demise fitness file leave frozen ginger shy tree initial";

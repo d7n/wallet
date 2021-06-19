@@ -1,1 +1,1 @@
-var mnemonic = "benefit fiber owner cook noise argue move glare door census virtual future";
+var mnemonic = "label scale senior today tent baby outdoor crumble goat bronze school finish";

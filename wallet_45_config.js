@@ -1,1 +1,1 @@
-var mnemonic = "cruise chimney beach advice hobby acquire shop raw error banana check seat";
+var mnemonic = "amount street fork error network amount tip addict dizzy veteran lunar melody";

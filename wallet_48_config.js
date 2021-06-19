@@ -1,1 +1,1 @@
-var mnemonic = "trumpet pupil crazy put gym push butter know clog lazy glad duty";
+var mnemonic = "canoe talk fiber slam creek earth pole stock have clog gasp use";

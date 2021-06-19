@@ -1,1 +1,1 @@
-var mnemonic = "book joke tail hip attitude prison dinosaur mushroom gold polar empower body";
+var mnemonic = "fly drill monster satisfy praise december trumpet win funny elevator moon dose";
