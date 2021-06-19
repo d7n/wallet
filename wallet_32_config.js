@@ -1,1 +1,1 @@
-var mnemonic = "flip denial almost proof crisp crop furnace chaos cable grid oval orbit";
+var mnemonic = "narrow still risk snap often spoil cancel cave dish quantum limit quantum";

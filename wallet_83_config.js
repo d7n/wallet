@@ -1,1 +1,1 @@
-var mnemonic = "rule bulk riot luxury cheese impulse spread motor kit story cricket describe";
+var mnemonic = "leisure mistake gasp change shadow mistake prepare lobster pool wash math lake";

@@ -1,1 +1,1 @@
-var mnemonic = "step muffin century course umbrella drift rookie chuckle empty inform fame input";
+var mnemonic = "rapid project loan soda online blur reason shell immune bonus install sock";

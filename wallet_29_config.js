@@ -1,1 +1,1 @@
-var mnemonic = "check start menu now pencil photo finger apple bounce thrive mask select";
+var mnemonic = "hip scout inside render guard decrease sweet dilemma charge universe elder duty";

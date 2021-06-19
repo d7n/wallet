@@ -1,1 +1,1 @@
-var mnemonic = "erase slot helmet explain alone teach insect panel slush kiwi broom more";
+var mnemonic = "canoe risk rocket example crash state prepare tide quarter wife hen nerve";

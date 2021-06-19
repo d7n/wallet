@@ -1,1 +1,1 @@
-var mnemonic = "hint height develop trust plunge garbage tank awesome truth purchase act apart";
+var mnemonic = "rebel metal asset attack hazard hobby ranch soft endless lottery sniff about";

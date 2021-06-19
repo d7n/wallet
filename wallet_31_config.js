@@ -1,1 +1,1 @@
-var mnemonic = "success strong knife chapter donate topic boil fresh ahead judge case north";
+var mnemonic = "crater shy scare differ only raven member pioneer vacuum rifle action voyage";

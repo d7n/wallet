@@ -1,1 +1,1 @@
-var mnemonic = "bounce judge mix audit illness memory stage car stay burger predict minimum";
+var mnemonic = "walnut submit butter actual image high habit relief father dose budget rich";

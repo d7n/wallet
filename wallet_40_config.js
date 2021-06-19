@@ -1,1 +1,1 @@
-var mnemonic = "pear water potato april ethics until ready unknown screen garage segment prison";
+var mnemonic = "step dream rebuild must vivid tomorrow maze fog hamster stove grain quantum";

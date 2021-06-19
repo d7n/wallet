@@ -1,1 +1,1 @@
-var mnemonic = "action guide accuse glide comic actor domain afraid useless candy diagram error";
+var mnemonic = "vintage foam wheat impact inject top copper option cluster cake token valve";

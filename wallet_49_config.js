@@ -1,1 +1,1 @@
-var mnemonic = "confirm bar wage sick allow bid churn muscle coyote come erupt basic";
+var mnemonic = "bonus catch comfort voyage plastic quarter pet night coil ankle chuckle bid";

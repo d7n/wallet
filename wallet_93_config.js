@@ -1,1 +1,1 @@
-var mnemonic = "notice foot fault radio pulse fashion garment egg cube craft unknown civil";
+var mnemonic = "exhaust supreme scrap cabbage width orbit exotic reason cushion movie journey nothing";

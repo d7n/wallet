@@ -1,1 +1,1 @@
-var mnemonic = "order club hover twelve access clay robot obtain junk west result dash";
+var mnemonic = "enter grain sell miss file diary range betray century long shuffle bounce";

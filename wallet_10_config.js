@@ -1,1 +1,1 @@
-var mnemonic = "polar document sport punch risk joke list produce license skill lift paper";
+var mnemonic = "weapon attend nephew fish obey point absorb erupt spike tiny slush fence";

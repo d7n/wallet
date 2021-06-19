@@ -1,1 +1,1 @@
-var mnemonic = "quit action lava style museum elevator idea page general divide sugar rather";
+var mnemonic = "insect lottery traffic six begin flame joy person second attract grief six";

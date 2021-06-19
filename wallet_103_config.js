@@ -1,1 +1,1 @@
-var mnemonic = "enrich monitor mass divorce load silent guess twin keen toddler rubber this";
+var mnemonic = "glare ball unlock member guitar gadget mistake myth town anchor genius topic";

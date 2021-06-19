@@ -1,1 +1,1 @@
-var mnemonic = "party series tool maze album sport danger during cloud blush forum fence";
+var mnemonic = "near crowd negative fiscal away foil spike space rose comic enrich same";

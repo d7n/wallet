@@ -1,1 +1,1 @@
-var mnemonic = "hip cotton nature media girl bicycle allow logic drink roof meat youth";
+var mnemonic = "empty hour monster perfect envelope rich beauty rally athlete knife syrup web";

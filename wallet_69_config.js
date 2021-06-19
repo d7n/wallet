@@ -1,1 +1,1 @@
-var mnemonic = "notable fashion magic cake clean adjust brush soup slab soft unaware double";
+var mnemonic = "cannon banner brisk desk diamond acoustic benefit inquiry demand animal hill stumble";

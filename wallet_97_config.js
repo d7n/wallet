@@ -1,1 +1,1 @@
-var mnemonic = "mask silver street top draft side retire advance settle practice tape mixture";
+var mnemonic = "proof adapt favorite mutual ordinary special screen minimum bomb pond there duty";

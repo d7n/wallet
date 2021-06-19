@@ -1,1 +1,1 @@
-var mnemonic = "coin second salon shoot between acquire merry give magnet flush design people";
+var mnemonic = "you fall erosion scale asset industry trust blue much curve clay fly";

@@ -1,1 +1,1 @@
-var mnemonic = "alert marine truth black increase rule vanish huge park pear armor camp";
+var mnemonic = "traffic tower salad mobile verb decorate crack vehicle park valve offer happy";

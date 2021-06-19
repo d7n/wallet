@@ -1,1 +1,1 @@
-var mnemonic = "source disorder trash cradle layer insect athlete agent pupil add wonder move";
+var mnemonic = "ski magic room one install poem need laugh urban project salmon vendor";

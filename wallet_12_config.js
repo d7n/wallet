@@ -1,1 +1,1 @@
-var mnemonic = "injury sport farm apology glad exile infant dirt gossip crisp vapor real";
+var mnemonic = "green poverty lobster head camera catalog custom someone diesel guitar morning student";

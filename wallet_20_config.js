@@ -1,1 +1,1 @@
-var mnemonic = "spider endorse abuse slot elite visual direct twin popular time frog treat";
+var mnemonic = "trash afford wedding kid second actress young desk taste arrive crisp squeeze";

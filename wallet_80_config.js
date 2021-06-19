@@ -1,1 +1,1 @@
-var mnemonic = "wood add spy library mule educate museum remind curtain oyster angry access";
+var mnemonic = "water unaware follow inject empower hurt excite misery spell taste palm accident";

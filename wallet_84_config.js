@@ -1,1 +1,1 @@
-var mnemonic = "repeat wish abuse canoe card job eight fetch speak olympic life canoe";
+var mnemonic = "seven quantum bundle stem assault ski bird access grocery wish around charge";

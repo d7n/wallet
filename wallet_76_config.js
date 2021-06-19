@@ -1,1 +1,1 @@
-var mnemonic = "suggest garage village image vendor sting mean copper poverty jaguar shoe motor";
+var mnemonic = "onion hotel useless valid cruise panther rigid interest afraid phrase slight able";

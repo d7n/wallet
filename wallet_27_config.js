@@ -1,1 +1,1 @@
-var mnemonic = "mesh season between arrive art humble endorse tank flat model art seven";
+var mnemonic = "subway ancient soul board build search congress sad mean dose waste initial";

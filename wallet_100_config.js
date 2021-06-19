@@ -1,1 +1,1 @@
-var mnemonic = "corn matter wash oyster morning save stove search explain since mail large";
+var mnemonic = "lobster game public gospel deer clerk album market fury note input salad";

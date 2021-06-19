@@ -1,1 +1,1 @@
-var mnemonic = "lake secret winner gasp parent title copper runway enable patrol debate fiscal";
+var mnemonic = "scale baby turkey forum expand dry gauge steel attitude dynamic fence adjust";

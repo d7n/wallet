@@ -1,1 +1,1 @@
-var mnemonic = "odor crater under catch ritual sense lunch clutch autumn bench lamp forest";
+var mnemonic = "degree that inch flame cost toward consider suit enemy onion foster honey";

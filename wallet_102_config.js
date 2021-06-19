@@ -1,1 +1,1 @@
-var mnemonic = "harvest dream physical endorse hello leave pudding notable boil cause diesel indicate";
+var mnemonic = "olympic brick phrase chase mistake shoulder tray corn airport give exchange picture";

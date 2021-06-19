@@ -1,1 +1,1 @@
-var mnemonic = "fashion blur art client mix super pink slogan chief swamp lady output";
+var mnemonic = "science name prepare explain allow miracle gate boost smart guilt apple other";

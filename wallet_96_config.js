@@ -1,1 +1,1 @@
-var mnemonic = "quality wage useless during try daughter toy bargain manage combine client envelope";
+var mnemonic = "foot buyer secret reject kite belt task clip armor cricket initial speak";

@@ -1,1 +1,1 @@
-var mnemonic = "viable nothing bulb pilot simple rotate maximum apart marine random royal unique";
+var mnemonic = "immune staff renew brother find fringe draft body tourist same option fetch";

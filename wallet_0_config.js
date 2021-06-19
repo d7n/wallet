@@ -1,1 +1,1 @@
-var mnemonic = "flat friend good alcohol edit echo vintage caught discover method unaware stereo";
+var mnemonic = "patch drink duck boost park genre nasty drip blood episode say affair";

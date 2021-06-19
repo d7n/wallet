@@ -1,1 +1,1 @@
-var mnemonic = "travel forget grunt tray actual jacket judge solution connect orphan assume strategy";
+var mnemonic = "behind post nurse mechanic attitude siren crack believe enemy pear legend mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate drink enhance twin mask coral crop rival limit empty cake that";
+var mnemonic = "talent bubble drum then harsh air staff enrich hedgehog gallery wink denial";

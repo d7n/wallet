@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo mistake cave endless rural dream parade prefer donkey measure tiger lion";
+var mnemonic = "collect violin face fade cash unaware sense wisdom blame news real divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "sister soup client catalog crime tube shove web either bus there merry";
+var mnemonic = "left have easy vanish forum wrap tiger mask snap already range hair";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge arch faith muffin relief spice law hope dumb blue fiction crisp";
+var mnemonic = "equal another method pair emotion exist olive term home movie phone basket";

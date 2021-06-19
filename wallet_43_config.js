@@ -1,1 +1,1 @@
-var mnemonic = "dish expect decade able nothing patch again bike ripple toy shift panda";
+var mnemonic = "surface decrease kite fan toilet forum burger fork need trick motor mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "audit mix firm door test wire tribe buddy weird nuclear reject bomb";
+var mnemonic = "soldier face nice nephew exclude knock mandate damage front tone eager kind";

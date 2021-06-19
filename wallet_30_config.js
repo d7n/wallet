@@ -1,1 +1,1 @@
-var mnemonic = "wire nerve jewel artist faith spawn matter steel ridge travel pause match";
+var mnemonic = "wrap believe bleak acid someone fatal valid estate solar stable syrup insect";

@@ -1,1 +1,1 @@
-var mnemonic = "genre razor whale artwork capital scale rescue employ delay live ostrich train";
+var mnemonic = "giraffe family series voyage robot label loyal slide anchor wine profit comic";

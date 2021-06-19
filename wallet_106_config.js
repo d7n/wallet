@@ -1,1 +1,1 @@
-var mnemonic = "write bulb energy episode arrest rebel senior gas guide bridge donkey exit";
+var mnemonic = "clock survey pulse paddle task shadow second salmon bamboo jewel swing unique";

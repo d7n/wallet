@@ -1,1 +1,1 @@
-var mnemonic = "cancel van wrap burger tiger purity jar tornado face face jungle wish";
+var mnemonic = "airport satisfy sick youth arrive trap endless question scale razor magnet harsh";

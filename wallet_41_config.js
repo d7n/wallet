@@ -1,1 +1,1 @@
-var mnemonic = "rug gloom sure diesel orient vibrant coach jealous order jealous exercise clap";
+var mnemonic = "ability vacuum olympic ready typical soup staff alley end memory fault crush";

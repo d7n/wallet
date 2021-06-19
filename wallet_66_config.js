@@ -1,1 +1,1 @@
-var mnemonic = "among twist drift idea dumb spawn deposit ancient cousin ability fix jar";
+var mnemonic = "shoe replace length lucky song shrimp code truth unveil grab shrimp nation";

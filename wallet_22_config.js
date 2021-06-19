@@ -1,1 +1,1 @@
-var mnemonic = "gather debris math casino pulse enlist work market episode else great intact";
+var mnemonic = "size scissors jeans gate wheat during scheme delay afraid pepper screen okay";

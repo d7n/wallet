@@ -1,1 +1,1 @@
-var mnemonic = "junior monster october intact pyramid blast undo carry mesh maid easy nephew";
+var mnemonic = "divide gas cliff relief find decrease waste ankle inside hospital stand great";

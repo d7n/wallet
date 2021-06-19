@@ -1,1 +1,1 @@
-var mnemonic = "robot lava fantasy paddle quiz silly swing process satoshi bachelor frequent gorilla";
+var mnemonic = "myself grace filter diet enjoy culture solar cabin valley round upgrade life";

@@ -1,1 +1,1 @@
-var mnemonic = "apology venture position brisk skirt knee alpha summer behave limit ski dumb";
+var mnemonic = "song ocean interest fetch finish between payment tail picnic absurd amateur luggage";

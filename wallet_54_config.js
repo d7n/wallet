@@ -1,1 +1,1 @@
-var mnemonic = "convince erode device tree toss picture owner loud evolve plug outside tooth";
+var mnemonic = "among punch effort unit two silver abstract carry duty swallow discover sail";

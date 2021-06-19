@@ -1,1 +1,1 @@
-var mnemonic = "collect script fire explain close valid vehicle anchor educate remove truth fat";
+var mnemonic = "game fruit valid edge valid find obey public bus narrow radar cake";

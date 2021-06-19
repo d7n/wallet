@@ -1,1 +1,1 @@
-var mnemonic = "arrive fence inspire simple spoil session fan budget push runway fashion sound";
+var mnemonic = "dragon goddess outdoor tomorrow april now accuse predict prison wait happy frog";

@@ -1,1 +1,1 @@
-var mnemonic = "file miss hour laugh clinic load daring youth panic sweet history permit";
+var mnemonic = "prize swallow hurdle metal cheap sure crane chimney diary sad outdoor language";

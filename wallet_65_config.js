@@ -1,1 +1,1 @@
-var mnemonic = "master voyage permit bright light mechanic never phone device sight snow awkward";
+var mnemonic = "nuclear indicate bonus step firm liberty banner flash alert unknown acquire verify";

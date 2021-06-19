@@ -1,1 +1,1 @@
-var mnemonic = "face state unknown topple path jelly renew place syrup demise feel hat";
+var mnemonic = "ship exercise memory finger fantasy carry room crime hollow just mandate power";

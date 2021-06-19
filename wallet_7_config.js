@@ -1,1 +1,1 @@
-var mnemonic = "poverty youth survey shiver above umbrella wheel able rabbit play decorate danger";
+var mnemonic = "assault atom myself twelve thought maximum answer charge rebuild fence alien vocal";

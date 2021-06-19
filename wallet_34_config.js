@@ -1,1 +1,1 @@
-var mnemonic = "awesome boss rough curious marble drink crane engine obey current puppy kingdom";
+var mnemonic = "enjoy art result trim gold chef choose enlist oil defy digital auto";

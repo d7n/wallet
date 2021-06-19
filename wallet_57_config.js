@@ -1,1 +1,1 @@
-var mnemonic = "end picnic throw hole develop word swing gift recipe end weapon educate";
+var mnemonic = "cram luxury blue better interest define alien squeeze lamp exit best sand";

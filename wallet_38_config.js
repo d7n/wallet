@@ -1,1 +1,1 @@
-var mnemonic = "knock title grow frost anchor deer champion invite brand tray sheriff vote";
+var mnemonic = "stem add enact bargain program gap outside image gauge banana where soap";

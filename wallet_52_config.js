@@ -1,1 +1,1 @@
-var mnemonic = "rule another shrug birth believe vague festival impose run pool step bird";
+var mnemonic = "comic pact gadget bounce track shaft giraffe ice post thought dash now";

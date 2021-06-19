@@ -1,1 +1,1 @@
-var mnemonic = "supply luggage summer world arrow flat loyal finger enroll rough coast spin";
+var mnemonic = "symbol oil soft wine swim toy leg pioneer know pelican client echo";

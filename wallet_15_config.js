@@ -1,1 +1,1 @@
-var mnemonic = "size aerobic tackle boss assist lens sure pause better rib citizen wedding";
+var mnemonic = "allow satisfy sleep depart spot slogan immune meadow outdoor uniform grunt west";

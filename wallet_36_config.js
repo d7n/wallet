@@ -1,1 +1,1 @@
-var mnemonic = "brave festival interest random stereo seek arena laptop achieve share peace crane";
+var mnemonic = "estate parent reform bonus image grain tail toward uncover involve crucial thing";

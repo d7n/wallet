@@ -1,1 +1,1 @@
-var mnemonic = "fee genuine ceiling slush weird wave cook concert churn buffalo finger burst";
+var mnemonic = "amused heavy pig judge merge slab present lend tongue elbow nasty toss";

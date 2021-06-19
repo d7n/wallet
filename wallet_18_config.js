@@ -1,1 +1,1 @@
-var mnemonic = "cloud option swallow mimic copy february ocean cause alley happy ozone cost";
+var mnemonic = "survey dress sting visual excess field math seed wire blue jewel advance";

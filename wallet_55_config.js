@@ -1,1 +1,1 @@
-var mnemonic = "omit mechanic account rude satisfy file frog debris history rival merit clean";
+var mnemonic = "arrow broom marble private blame usual pride cement warfare admit twice film";

@@ -1,1 +1,1 @@
-var mnemonic = "eye second swear hair focus erase endorse frown tiger assume now life";
+var mnemonic = "have transfer brief symbol copy over mammal jelly solar style bubble economy";

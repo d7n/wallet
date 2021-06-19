@@ -1,1 +1,1 @@
-var mnemonic = "civil brave scout aim depth daring safe also salt enjoy retire weapon";
+var mnemonic = "wink pyramid plate lava slush easy collect mansion drastic pact hero verify";

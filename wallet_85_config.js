@@ -1,1 +1,1 @@
-var mnemonic = "aunt orbit enhance shop paddle boost trash magic air twelve key guilt";
+var mnemonic = "unfair sure any noise certain buddy fabric paper ill across when gold";

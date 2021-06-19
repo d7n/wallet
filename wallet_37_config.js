@@ -1,1 +1,1 @@
-var mnemonic = "hammer kite humble game suit lake ill clinic world civil horse then";
+var mnemonic = "penalty awake pink cattle volcano hard sweet balcony pause enough cloud suit";

@@ -1,1 +1,1 @@
-var mnemonic = "hungry city pride drill extend garlic traffic husband empty leaf cradle become";
+var mnemonic = "economy baby imitate two seat suspect twelve display fatal layer half unique";

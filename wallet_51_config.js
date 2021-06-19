@@ -1,1 +1,1 @@
-var mnemonic = "divorce portion cradle dilemma laundry measure leaf shadow artefact file century metal";
+var mnemonic = "master betray dish train primary occur analyst glass offer field rate rule";

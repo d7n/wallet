@@ -1,1 +1,1 @@
-var mnemonic = "pencil retire flame enforce swallow mimic search grass fade female awake drastic";
+var mnemonic = "wine arena flame bread huge grace jaguar win health theme delay shield";

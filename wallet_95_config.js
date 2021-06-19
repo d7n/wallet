@@ -1,1 +1,1 @@
-var mnemonic = "what fatal shrug awful differ promote release field chaos napkin faint extend";
+var mnemonic = "glue carbon question popular perfect notable feed enough husband strike survey skill";

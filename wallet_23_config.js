@@ -1,1 +1,1 @@
-var mnemonic = "wheat found weather burst rotate derive inject donkey narrow success million artefact";
+var mnemonic = "garage magic tooth kite door occur alcohol enroll venture nurse neglect chunk";

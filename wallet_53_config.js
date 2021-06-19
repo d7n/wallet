@@ -1,1 +1,1 @@
-var mnemonic = "knee maple process sheriff mobile fluid stand cattle combine dash armor oxygen";
+var mnemonic = "dial game express garage omit situate lake fury yellow twist fire rhythm";

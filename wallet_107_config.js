@@ -1,1 +1,1 @@
-var mnemonic = "pulp little monitor rescue burst record welcome soup analyst purse regular fog";
+var mnemonic = "ridge accuse upgrade kite power sleep control describe thunder divert cabin index";

@@ -1,1 +1,1 @@
-var mnemonic = "give kangaroo duck few upon tape silver enrich sphere jar sphere exist";
+var mnemonic = "write firm curious law eager decrease permit assault glue myself coast live";

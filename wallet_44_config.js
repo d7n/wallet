@@ -1,1 +1,1 @@
-var mnemonic = "pole relax ripple minute junior tilt chair buyer thrive sentence ugly grocery";
+var mnemonic = "roast dream eye endless issue please obvious kite mom table sudden repeat";

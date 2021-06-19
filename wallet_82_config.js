@@ -1,1 +1,1 @@
-var mnemonic = "treat under joy copy boost shield false device deal question describe advance";
+var mnemonic = "keen category gadget intact century scale tray ask income educate powder example";

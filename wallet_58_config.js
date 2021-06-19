@@ -1,1 +1,1 @@
-var mnemonic = "because provide involve spell weasel manage want supreme side opera subway pipe";
+var mnemonic = "cart apology sustain shield later fall piano father category leader speed bread";

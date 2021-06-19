@@ -1,1 +1,1 @@
-var mnemonic = "swing unlock pride field fitness music barely banner frost catch bread coin";
+var mnemonic = "essay desk joy begin black nuclear clerk enlist chaos oppose crumble planet";

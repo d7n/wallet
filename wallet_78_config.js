@@ -1,1 +1,1 @@
-var mnemonic = "laugh alter enroll typical attack miracle onion visit gasp judge often before";
+var mnemonic = "circle antique whip program kiwi siege traffic bargain chicken agent invest west";

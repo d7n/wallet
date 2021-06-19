@@ -1,1 +1,1 @@
-var mnemonic = "oppose hair blind steel throw jealous thing remain iron satisfy cash wolf";
+var mnemonic = "clown surge broken depth lemon hazard letter april absorb anchor rail tiger";

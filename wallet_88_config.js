@@ -1,1 +1,1 @@
-var mnemonic = "skate badge correct leopard scare host girl fresh juice clown thing random";
+var mnemonic = "order flag spot front begin design school vapor subject intact reason frown";

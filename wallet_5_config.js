@@ -1,1 +1,1 @@
-var mnemonic = "volume illness example rescue brush stumble food oven erase physical gesture east";
+var mnemonic = "rural awful amateur giggle hen debris giggle again catch jacket bar there";

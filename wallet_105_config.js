@@ -1,1 +1,1 @@
-var mnemonic = "flag copper better bind tube shuffle portion exile crystal member come warm";
+var mnemonic = "weasel scissors festival tongue tuition step case rough over repair know purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth crime pelican shoot match flip bag lucky remove plunge mass inhale";
+var mnemonic = "salt rival color bar bonus work file battle remove priority provide account";

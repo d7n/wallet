@@ -1,1 +1,1 @@
-var mnemonic = "pretty valid actual obey nature cycle jazz file sight expect bracket comic";
+var mnemonic = "spy path avocado month verify wish father ostrich offer display early police";

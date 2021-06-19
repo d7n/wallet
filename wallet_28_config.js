@@ -1,1 +1,1 @@
-var mnemonic = "border crash chief canoe industry spread once error edge butter question range";
+var mnemonic = "mandate dove spend notable monkey clarify forward symbol coach tiny view knock";
