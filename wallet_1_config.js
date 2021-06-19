@@ -1,1 +1,1 @@
-var mnemonic = "cruise license test century concert poet chuckle fade float thank core feel";
+var mnemonic = "behind doctor find elevator ship rebel shell during reflect dad valid only";

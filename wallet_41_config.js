@@ -1,1 +1,1 @@
-var mnemonic = "polar beach winner stuff face wink nice sleep april team female exact";
+var mnemonic = "pave until afford hurry inherit edge sign blanket olive bridge target circle";

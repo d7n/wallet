@@ -1,1 +1,1 @@
-var mnemonic = "critic defense same crucial fatal come fringe birth quantum punch crush biology";
+var mnemonic = "dumb limb tackle candy fringe frog eager exercise hip annual rhythm display";

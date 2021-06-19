@@ -1,1 +1,1 @@
-var mnemonic = "baby venture push fantasy shed belt bright scheme act vocal yard enlist";
+var mnemonic = "grab amazing life act cotton believe sugar clown humor quick sport quantum";

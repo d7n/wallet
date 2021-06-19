@@ -1,1 +1,1 @@
-var mnemonic = "famous crisp zebra equal muscle skull amateur tattoo volcano earth object way";
+var mnemonic = "creek flag birth neck smile pole mammal heart regular million program canoe";

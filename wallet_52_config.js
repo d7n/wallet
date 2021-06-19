@@ -1,1 +1,1 @@
-var mnemonic = "fat cabin inside energy stick rural present fury castle baby guess sad";
+var mnemonic = "night napkin blush claw jazz wall adapt manage orange bonus tiger job";

@@ -1,1 +1,1 @@
-var mnemonic = "olive harvest lizard reflect humor talent tower net only delay match satoshi";
+var mnemonic = "visual mountain tonight basic decrease fall history movie surround romance blood urge";

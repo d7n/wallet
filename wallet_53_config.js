@@ -1,1 +1,1 @@
-var mnemonic = "arrange game cup hospital lazy buzz gentle rare drastic loyal stand trumpet";
+var mnemonic = "cable raccoon swallow bachelor song ignore thank cactus execute strategy mass token";

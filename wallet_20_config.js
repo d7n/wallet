@@ -1,1 +1,1 @@
-var mnemonic = "enable eight inmate ill recipe gauge light erode galaxy ahead repeat draft";
+var mnemonic = "leaf grain borrow sense police extend trend indicate insane tooth glue clock";

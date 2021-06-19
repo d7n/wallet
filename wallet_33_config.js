@@ -1,1 +1,1 @@
-var mnemonic = "whale stomach alley magic truth auction tower sweet panel mom cruel fiscal";
+var mnemonic = "swarm devote refuse slam better cargo click near brother twelve idea height";

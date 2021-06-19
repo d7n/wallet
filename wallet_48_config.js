@@ -1,1 +1,1 @@
-var mnemonic = "civil palm life addict network action green area aunt castle crisp matter";
+var mnemonic = "carry now solid purpose diet goat day equip main pattern assist jungle";

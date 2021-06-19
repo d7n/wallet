@@ -1,1 +1,1 @@
-var mnemonic = "boss acoustic symptom balance wrong poem caught use peanut kitten machine tiger";
+var mnemonic = "shine two rhythm key uncover route under confirm segment decrease faculty brief";

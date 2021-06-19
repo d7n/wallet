@@ -1,1 +1,1 @@
-var mnemonic = "merge chuckle acquire shrimp swap maid flat ball used ghost double calm";
+var mnemonic = "filter tortoise theme gate wing pink wet piano tennis axis ivory joke";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm seven range enact there sell exercise artwork real circle slender build";
+var mnemonic = "lemon supreme scorpion awake confirm person wage myth timber harvest forget sick";

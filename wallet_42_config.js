@@ -1,1 +1,1 @@
-var mnemonic = "obscure annual stumble lecture network silly unable skull limb stove alter catch";
+var mnemonic = "resource ghost chair clog cry style slow stone gap green hundred two";

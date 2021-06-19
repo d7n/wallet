@@ -1,1 +1,1 @@
-var mnemonic = "draw trim slogan rebuild winner thing motor drastic absent jelly answer demand";
+var mnemonic = "dad wide regular demise echo hope cactus fitness frozen crawl bunker hold";

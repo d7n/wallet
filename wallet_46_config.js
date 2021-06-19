@@ -1,1 +1,1 @@
-var mnemonic = "staff adjust pulp father dumb trip timber badge chuckle panel grass maple";
+var mnemonic = "sheriff afford virtual wage segment water pulse wall during smart ankle grief";

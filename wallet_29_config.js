@@ -1,1 +1,1 @@
-var mnemonic = "devote snow tortoise fire cereal jungle version violin layer clinic chef neither";
+var mnemonic = "media trophy foot trick soul vapor file engine dog worry usual glass";

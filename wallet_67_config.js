@@ -1,1 +1,1 @@
-var mnemonic = "total tumble admit gym punch screen agree bird guitar dove tomorrow test";
+var mnemonic = "syrup gesture fuel tomato awesome order refuse slender wool found off entry";

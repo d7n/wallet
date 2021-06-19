@@ -1,1 +1,1 @@
-var mnemonic = "alley script arrive cargo stool delay private fuel talent celery flash idea";
+var mnemonic = "prefer shed memory model vehicle kid letter magic umbrella hood interest expose";

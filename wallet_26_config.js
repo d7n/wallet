@@ -1,1 +1,1 @@
-var mnemonic = "century shrug kitchen like outer into build plate clarify behind same fatigue";
+var mnemonic = "spray hurdle diamond boy captain civil awake clerk artwork brand neutral blouse";

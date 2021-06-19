@@ -1,1 +1,1 @@
-var mnemonic = "hire disagree tortoise crawl chef enjoy daughter sudden mean robust couch harsh";
+var mnemonic = "hockey echo gauge sight then weasel flock alter absorb where tomato mesh";

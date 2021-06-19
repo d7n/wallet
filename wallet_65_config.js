@@ -1,1 +1,1 @@
-var mnemonic = "bitter indicate supreme banana notable permit wrist critic often scout fetch outdoor";
+var mnemonic = "glare secret dutch wheel local ginger eye sniff source tunnel hidden session";

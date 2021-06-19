@@ -1,1 +1,1 @@
-var mnemonic = "phrase night phrase drill income cruise item pipe beef gas awesome airport";
+var mnemonic = "sign era day bottom dismiss civil quick canvas moment budget health electric";

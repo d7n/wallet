@@ -1,1 +1,1 @@
-var mnemonic = "shrimp pupil confirm deal syrup inhale veteran brick silent magic pyramid juice";
+var mnemonic = "isolate develop expand circle concert idea autumn clay ketchup carpet leave exhibit";

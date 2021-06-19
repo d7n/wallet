@@ -1,1 +1,1 @@
-var mnemonic = "bottom bless tag forest decline wide black hair reveal license million tide";
+var mnemonic = "famous mistake wrong connect debate exile wedding runway blind crystal shadow dawn";

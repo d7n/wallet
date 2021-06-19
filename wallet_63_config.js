@@ -1,1 +1,1 @@
-var mnemonic = "razor repeat bronze injury adapt fox write that kidney typical wet jaguar";
+var mnemonic = "dash mimic term orient leaf envelope bring curtain junk mansion chalk ivory";

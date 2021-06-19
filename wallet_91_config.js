@@ -1,1 +1,1 @@
-var mnemonic = "brand fatigue swarm delay nose network razor man violin smile tornado pistol";
+var mnemonic = "vessel elbow pear cabin certain tortoise tribe security blast tennis prefer galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "calm zoo upgrade million lumber usage breeze rack mechanic float squirrel fetch";
+var mnemonic = "champion person lock supreme turn bean bulk million walnut inside ripple pumpkin";

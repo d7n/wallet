@@ -1,1 +1,1 @@
-var mnemonic = "kite rack ivory share apology hollow puppy sport public large supply express";
+var mnemonic = "rally either avoid volume air same festival industry write behind sustain carry";

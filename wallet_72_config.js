@@ -1,1 +1,1 @@
-var mnemonic = "piece hard cancel mouse mystery october region feed duck velvet noise cigar";
+var mnemonic = "fuel vapor file grow crater zebra pumpkin dust senior dry cruel embrace";

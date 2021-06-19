@@ -1,1 +1,1 @@
-var mnemonic = "clock laptop valid sphere vicious add humor vicious save rule crisp ill";
+var mnemonic = "actress vibrant tip this uniform lounge bridge address quit student nut lake";

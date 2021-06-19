@@ -1,1 +1,1 @@
-var mnemonic = "ticket roast net spring session mass camp lucky city divert jewel reunion";
+var mnemonic = "famous enough foil resource usual injury pipe range burst antique acid famous";

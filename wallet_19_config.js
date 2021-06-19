@@ -1,1 +1,1 @@
-var mnemonic = "yard brass elephant course swallow buzz catalog charge seat tuition cargo awesome";
+var mnemonic = "strong dignity force cloth above desk robot first various first engine hidden";

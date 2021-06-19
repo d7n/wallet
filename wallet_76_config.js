@@ -1,1 +1,1 @@
-var mnemonic = "stove protect swarm obey fury tone drip jealous load best addict rookie";
+var mnemonic = "remember lobster slim manage task priority cry unit human shed midnight try";

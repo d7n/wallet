@@ -1,1 +1,1 @@
-var mnemonic = "pottery hood arrange possible jewel repeat april cup twin whale large chunk";
+var mnemonic = "midnight omit sausage diamond occur liberty bonus able negative because print toss";

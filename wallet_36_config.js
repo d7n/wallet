@@ -1,1 +1,1 @@
-var mnemonic = "voice crush into once panda finish flock level clean general into hero";
+var mnemonic = "palm soft private fat evidence exhaust swarm body surge soft host garlic";

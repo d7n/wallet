@@ -1,1 +1,1 @@
-var mnemonic = "forward dress write apple debris material finish medal mistake armor faint mesh";
+var mnemonic = "fold praise able actual sing sample pony front collect begin smile twice";

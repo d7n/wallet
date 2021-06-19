@@ -1,1 +1,1 @@
-var mnemonic = "gaze glimpse elegant van primary fetch scatter quantum good legend slab next";
+var mnemonic = "scatter eternal choose bracket hood minute define meadow monster later unit define";

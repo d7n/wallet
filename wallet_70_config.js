@@ -1,1 +1,1 @@
-var mnemonic = "crystal blouse emerge that orchard violin screen detect myth sauce nut fatal";
+var mnemonic = "violin polar rival side embody team edge middle salute list tooth funny";

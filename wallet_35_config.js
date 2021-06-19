@@ -1,1 +1,1 @@
-var mnemonic = "exercise drip toilet avoid walk sauce truth column knock amused over object";
+var mnemonic = "item stone civil label quit arm limit decrease decrease dry noodle correct";

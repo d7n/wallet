@@ -1,1 +1,1 @@
-var mnemonic = "random lens swallow motor job waste mango age fix box copy curious";
+var mnemonic = "garlic slight gloom theme blind force pool truly grape stomach nerve health";

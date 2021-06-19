@@ -1,1 +1,1 @@
-var mnemonic = "cash bomb dress drama pepper spy wide version mimic record whip school";
+var mnemonic = "lounge dragon differ author orphan sail outer round shield lizard talk monkey";

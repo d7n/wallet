@@ -1,1 +1,1 @@
-var mnemonic = "tower farm trigger fish dawn also drama tumble fade luxury pumpkin bridge";
+var mnemonic = "bacon second south illness twenty slide stone police umbrella soccer blossom planet";

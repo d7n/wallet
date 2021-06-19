@@ -1,1 +1,1 @@
-var mnemonic = "install absurd depend wife lend fame glove winner also public guitar virtual";
+var mnemonic = "wing give pink act depart fever define suffer circle impact income music";

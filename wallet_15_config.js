@@ -1,1 +1,1 @@
-var mnemonic = "flight couch frozen dumb boat parent laugh gallery upgrade stand pepper cat";
+var mnemonic = "year genuine veteran unique brush magic rookie flat staff old emotion avoid";

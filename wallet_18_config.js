@@ -1,1 +1,1 @@
-var mnemonic = "addict frost dinosaur abandon sick seed chronic also utility doll horse clutch";
+var mnemonic = "diet great tongue nature best october exhaust elbow sleep edge toy mixed";

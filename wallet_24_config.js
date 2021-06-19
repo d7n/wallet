@@ -1,1 +1,1 @@
-var mnemonic = "rally coast minimum rebel amount vote tube language lumber silly peasant area";
+var mnemonic = "venue unveil catalog valley hand pink execute emerge parade beyond muscle believe";

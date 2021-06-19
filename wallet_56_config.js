@@ -1,1 +1,1 @@
-var mnemonic = "net inch sword style lottery ranch this oval august invite any wonder";
+var mnemonic = "fatigue car few cigar whisper oil dance home case museum garden baby";

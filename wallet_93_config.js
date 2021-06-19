@@ -1,1 +1,1 @@
-var mnemonic = "puzzle burden crater render lazy fashion fever amateur twenty planet double spray";
+var mnemonic = "concert silent castle odor assault essay west exist lawsuit cricket favorite awful";

@@ -1,1 +1,1 @@
-var mnemonic = "famous ecology bridge all fragile devote depend manual olympic improve snake absurd";
+var mnemonic = "vault consider salad auction company letter chase surprise tobacco post judge twice";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle connect grab enjoy unveil wasp rocket van install ozone pottery aunt";
+var mnemonic = "notice unfold state answer purpose velvet marriage knee antique same battle wrap";

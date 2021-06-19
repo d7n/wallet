@@ -1,1 +1,1 @@
-var mnemonic = "vessel space wrestle direct honey tomato fresh praise mutual pudding disorder access";
+var mnemonic = "river strike roof tortoise cream tissue approve mango anchor fatigue brass speak";

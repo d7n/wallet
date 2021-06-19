@@ -1,1 +1,1 @@
-var mnemonic = "blur total dry enable fetch know enact street phone upset bring axis";
+var mnemonic = "recall lumber current flash mosquito another rely palm slow garage mansion sniff";

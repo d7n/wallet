@@ -1,1 +1,1 @@
-var mnemonic = "arrange multiply certain metal broken turtle festival spare tube quantum resist debris";
+var mnemonic = "divert wave sing mesh unable easily voice cheap fury actor ill rate";

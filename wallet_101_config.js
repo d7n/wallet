@@ -1,1 +1,1 @@
-var mnemonic = "craft walnut dirt oil usage space arrive cheese speed loan online fly";
+var mnemonic = "umbrella bounce company scene swallow short bind recycle mutual buffalo term metal";

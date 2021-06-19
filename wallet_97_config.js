@@ -1,1 +1,1 @@
-var mnemonic = "combine city knife edit step ship auction drastic warfare eyebrow diet educate";
+var mnemonic = "torch expire rebuild pistol truly carpet amount flight recipe absent casual replace";

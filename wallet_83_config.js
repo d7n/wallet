@@ -1,1 +1,1 @@
-var mnemonic = "fly always bachelor shift pulse dignity tortoise clip glad aerobic turkey tongue";
+var mnemonic = "mention occur link sleep put viable agent upgrade prosper spring sister doll";

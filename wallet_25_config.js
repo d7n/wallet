@@ -1,1 +1,1 @@
-var mnemonic = "edge perfect noble since fossil easy refuse donate wise industry spy relief";
+var mnemonic = "silent consider cost donor rocket carbon poet alien chimney lucky tube lyrics";

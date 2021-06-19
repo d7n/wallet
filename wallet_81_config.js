@@ -1,1 +1,1 @@
-var mnemonic = "gas chronic sleep winner when permit narrow merit verb memory broken welcome";
+var mnemonic = "west help plug tilt toss solution deposit bus loop fork marble walnut";

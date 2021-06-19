@@ -1,1 +1,1 @@
-var mnemonic = "play earn common icon speak van recycle crane industry tent animal punch";
+var mnemonic = "tail crystal deputy mountain surface rabbit desert skill purity sting valid link";

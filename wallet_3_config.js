@@ -1,1 +1,1 @@
-var mnemonic = "thumb artefact notice room flame nasty cost aspect napkin notable dizzy seven";
+var mnemonic = "faculty cloth firm else sing bring hill spray woman manual ritual pitch";

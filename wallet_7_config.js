@@ -1,1 +1,1 @@
-var mnemonic = "jaguar boost entry length please vapor announce enact toward wheat length possible";
+var mnemonic = "modify risk rival village tobacco decline boost protect coil release awful pluck";

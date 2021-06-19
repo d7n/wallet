@@ -1,1 +1,1 @@
-var mnemonic = "display track seat rally tragic trash drink safe matrix morning dry sausage";
+var mnemonic = "enhance payment nuclear oak lava trophy economy antenna initial secret crawl alley";

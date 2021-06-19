@@ -1,1 +1,1 @@
-var mnemonic = "ribbon mirror van rely beach couch author below tower wood opinion idea";
+var mnemonic = "useful garlic garden piano honey debate retire tomorrow hood spy proof game";

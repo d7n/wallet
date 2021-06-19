@@ -1,1 +1,1 @@
-var mnemonic = "bulb blind section fat swap obtain acquire trial glide diagram add evoke";
+var mnemonic = "erase know few size lunch drop cat install van sunny hotel dumb";

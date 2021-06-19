@@ -1,1 +1,1 @@
-var mnemonic = "rare intact sell essence thunder arrive time forum smart link wheel upset";
+var mnemonic = "organ session drip agree salute convince purity special orphan season stomach toast";

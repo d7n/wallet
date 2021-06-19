@@ -1,1 +1,1 @@
-var mnemonic = "satisfy knee win urban edge wire glove hurdle section nose illness cover";
+var mnemonic = "unknown dirt yellow tongue bitter erosion explain dad midnight donkey pet crawl";

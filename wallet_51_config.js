@@ -1,1 +1,1 @@
-var mnemonic = "slide shadow allow material drop tattoo stereo certain photo timber inform virtual";
+var mnemonic = "minute caught vote identify capable fish update fresh section runway assume bitter";

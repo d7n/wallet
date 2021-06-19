@@ -1,1 +1,1 @@
-var mnemonic = "entry claim copper city happy useless blue glove stone mammal random that";
+var mnemonic = "copper robot knock indicate feed merry garment nasty either robust walnut gloom";

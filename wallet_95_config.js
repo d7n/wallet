@@ -1,1 +1,1 @@
-var mnemonic = "retreat topple perfect biology sick obvious echo gas pretty believe hurry marble";
+var mnemonic = "quantum circle defy piece setup rice palm brave lava wood situate lend";

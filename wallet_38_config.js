@@ -1,1 +1,1 @@
-var mnemonic = "minute victory original spatial sea certain auto hollow eight danger bubble text";
+var mnemonic = "budget public vibrant silly dentist caution turkey reward reform cement cloth perfect";

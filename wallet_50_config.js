@@ -1,1 +1,1 @@
-var mnemonic = "owner total pizza mystery unit salt slam elite bean west segment craft";
+var mnemonic = "awesome help abuse term differ blood subway together choice worry mix music";

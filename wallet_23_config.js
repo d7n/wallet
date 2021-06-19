@@ -1,1 +1,1 @@
-var mnemonic = "jelly bitter own often exercise reveal ticket slab scrap oppose miss fatal";
+var mnemonic = "discover nurse biology any magnet clog wrap bone brown imitate fork repair";

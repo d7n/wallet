@@ -1,1 +1,1 @@
-var mnemonic = "walk nasty crowd success depend anger six quote virus picture modify mirror";
+var mnemonic = "employ absent conduct law primary label color crystal among leopard derive into";

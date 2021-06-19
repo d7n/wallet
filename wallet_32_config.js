@@ -1,1 +1,1 @@
-var mnemonic = "garbage curve proof soda slam fruit blur weekend sound artefact lecture economy";
+var mnemonic = "noise gym extra fresh exist discover legend rug blame canyon kidney grief";

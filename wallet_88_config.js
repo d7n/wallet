@@ -1,1 +1,1 @@
-var mnemonic = "truth tone amount physical safe below various pill assist consider ring once";
+var mnemonic = "cool female horse pulp patient captain afraid exclude maple horn goddess glory";

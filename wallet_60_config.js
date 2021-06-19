@@ -1,1 +1,1 @@
-var mnemonic = "drastic iron mango increase banner wreck spoil have embrace slide always potato";
+var mnemonic = "swallow acid client earth index oak orphan toast toward canvas gold blast";

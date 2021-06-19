@@ -1,1 +1,1 @@
-var mnemonic = "ethics dizzy between kick analyst novel snap adjust family when purity alone";
+var mnemonic = "excess client alert february mad palace desk capital inspire alpha pledge tag";

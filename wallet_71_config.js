@@ -1,1 +1,1 @@
-var mnemonic = "entry wealth banner spare confirm music race find escape text hint want";
+var mnemonic = "orphan leaf royal reunion feel remember organ valid sample area country also";

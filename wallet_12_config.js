@@ -1,1 +1,1 @@
-var mnemonic = "rack candy ordinary disorder ring ankle state cruel tooth company regular arctic";
+var mnemonic = "midnight cliff exclude nasty rug visual bargain dolphin just summer broom move";

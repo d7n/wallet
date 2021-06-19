@@ -1,1 +1,1 @@
-var mnemonic = "property flip hill plastic float crystal produce south biology steel target dove";
+var mnemonic = "arrange aisle auto tip ring obscure sleep humor hood grid lesson path";

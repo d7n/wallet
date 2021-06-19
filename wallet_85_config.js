@@ -1,1 +1,1 @@
-var mnemonic = "merit window critic toast casual write inhale rule print frog gravity cat";
+var mnemonic = "elder detail palm obvious candy category reason mention festival tool help just";

@@ -1,1 +1,1 @@
-var mnemonic = "amount cabin argue normal exclude short street battle castle slogan device town";
+var mnemonic = "grunt nose absorb super endless genuine birth notable believe embrace fog friend";

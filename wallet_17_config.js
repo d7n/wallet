@@ -1,1 +1,1 @@
-var mnemonic = "all simple bulk lift blur cheap snow meat can onion letter enroll";
+var mnemonic = "spoil keep pupil satoshi tiny subject embark street brand sugar glass pulp";

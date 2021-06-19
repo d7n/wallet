@@ -1,1 +1,1 @@
-var mnemonic = "attitude property snap raven agent leader theory rotate system violin disagree gasp";
+var mnemonic = "dish south obscure era toward click club jelly rough end gather syrup";

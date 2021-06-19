@@ -1,1 +1,1 @@
-var mnemonic = "sing panic bargain laundry fatal armed water script memory cause kid pave";
+var mnemonic = "spell square skirt swift improve atom young original label ability purpose gospel";

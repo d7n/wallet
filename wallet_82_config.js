@@ -1,1 +1,1 @@
-var mnemonic = "suggest snap peasant desert rubber pact clown cushion total pill govern wall";
+var mnemonic = "depth praise trouble when such century decline cluster blame embody maple subject";

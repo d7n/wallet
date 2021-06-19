@@ -1,1 +1,1 @@
-var mnemonic = "host actual busy sugar scissors put impact gain patch dice wear kind";
+var mnemonic = "material feel solar survey hunt noodle dial mad sock column toy balcony";

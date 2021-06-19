@@ -1,1 +1,1 @@
-var mnemonic = "october quarter street struggle rug wall memory body nuclear deposit sea negative";
+var mnemonic = "usual fatal hole miss mad mutual fever sudden balcony riot truly island";

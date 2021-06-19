@@ -1,1 +1,1 @@
-var mnemonic = "cheap top shiver pilot access convince blue safe book someone human cupboard";
+var mnemonic = "situate accident lucky balance drift sort purchase glad behind stem tiger tank";

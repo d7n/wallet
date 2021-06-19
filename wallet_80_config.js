@@ -1,1 +1,1 @@
-var mnemonic = "grace earn castle auto shove amateur rack opinion error cancel chunk outside";
+var mnemonic = "engage forest melt own unaware obscure fan apart bench anger moral person";

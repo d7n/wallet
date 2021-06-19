@@ -1,1 +1,1 @@
-var mnemonic = "liar quantum blame dilemma elephant case wrap topic spring fantasy grape fresh";
+var mnemonic = "join step stove poet click argue universe warrior junior advance borrow palm";
