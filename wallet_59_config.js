@@ -1,1 +1,1 @@
-var mnemonic = "fresh female person fence pencil worth art leopard reveal culture transfer icon";
+var mnemonic = "vivid sustain grunt future pretty gift auto service hire erupt depth spatial";

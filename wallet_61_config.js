@@ -1,1 +1,1 @@
-var mnemonic = "gallery size olive hire laptop novel nation skull notable cabin family walk";
+var mnemonic = "tone clean swing coast rail emotion lock middle brave wait small pudding";

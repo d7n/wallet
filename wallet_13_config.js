@@ -1,1 +1,1 @@
-var mnemonic = "afford order reopen tree three video own twist trim rule gap force";
+var mnemonic = "explain laundry vital group story horse decade require quarter unlock obey episode";

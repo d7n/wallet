@@ -1,1 +1,1 @@
-var mnemonic = "vague parade car normal room more wagon kiss whisper salute feature orchard";
+var mnemonic = "rain host bubble canal gossip pen various siege brown lion depart law";

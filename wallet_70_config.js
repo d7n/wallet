@@ -1,1 +1,1 @@
-var mnemonic = "earn brief garden excess flash alpha hero kidney stool mad close claw";
+var mnemonic = "wrong post daughter execute rude unfold auto sleep rhythm story announce pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "gorilla author mask enlist catalog culture early sad gate vocal gain seat";
+var mnemonic = "canal oil witness top day universe taste relax nest race vibrant enough";

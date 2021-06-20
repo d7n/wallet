@@ -1,1 +1,1 @@
-var mnemonic = "turtle library frozen fashion peasant mutual rich result hollow thunder appear apple";
+var mnemonic = "pet later flower traffic act nerve adapt chronic embark scatter prefer whip";

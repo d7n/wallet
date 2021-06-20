@@ -1,1 +1,1 @@
-var mnemonic = "news dress shoe hobby forward state aunt what hundred onion deer fly";
+var mnemonic = "impact elbow elevator topple menu stairs away much easily boil mirror december";

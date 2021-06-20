@@ -1,1 +1,1 @@
-var mnemonic = "twelve enough garbage someone cave isolate cargo already dune country horn bus";
+var mnemonic = "pepper host extra armor admit congress palace subway theory deny police royal";

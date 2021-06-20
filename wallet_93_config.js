@@ -1,1 +1,1 @@
-var mnemonic = "slogan gossip orchard control adult alert catch must alpha plug prepare oil";
+var mnemonic = "tide hub find cushion tobacco piece enhance jazz senior fall blame shop";

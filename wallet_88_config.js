@@ -1,1 +1,1 @@
-var mnemonic = "mean cream sudden naive holiday verify help garage bike output fence negative";
+var mnemonic = "rack dance panda yard decade service company shaft sorry base already father";

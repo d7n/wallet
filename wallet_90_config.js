@@ -1,1 +1,1 @@
-var mnemonic = "piece wrestle list arctic average figure say biology upper idle finish winter";
+var mnemonic = "margin shine ability donor kiwi traffic squeeze chapter suffer twin fee wild";

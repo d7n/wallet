@@ -1,1 +1,1 @@
-var mnemonic = "insect idle stove rose ostrich lock pill mad zebra waste bacon trial";
+var mnemonic = "know nephew enroll voyage wild claw empty across tennis transfer crew pear";

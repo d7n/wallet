@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow spell mansion charge wreck eagle rally silver number box later author";
+var mnemonic = "rib divert dry flight spice hold tip muffin organ soldier bomb entire";

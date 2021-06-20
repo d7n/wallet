@@ -1,1 +1,1 @@
-var mnemonic = "also mistake myself piano license empty wasp artist wire obtain sadness ten";
+var mnemonic = "clog animal vanish scheme soccer donate pause since avoid side slow tattoo";

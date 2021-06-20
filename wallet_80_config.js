@@ -1,1 +1,1 @@
-var mnemonic = "feel twelve inherit civil electric alpha useless other moon party melody illegal";
+var mnemonic = "seed birth expect trophy beef giraffe lecture match glory silver drink adapt";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract truly manage follow runway kingdom february badge monster abandon crystal shoulder";
+var mnemonic = "habit engine island weekend sock loud famous boil tongue opinion rapid skull";

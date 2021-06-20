@@ -1,1 +1,1 @@
-var mnemonic = "deputy nice document cross ankle yellow always wear tribe cream rack echo";
+var mnemonic = "tumble mobile poem play renew opera near celery vast spoon peasant amazing";

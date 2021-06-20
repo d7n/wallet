@@ -1,1 +1,1 @@
-var mnemonic = "sort custom because visit jungle broom infant enter ethics leg digital bleak";
+var mnemonic = "mix walk adapt praise invest program expect hint file gather enable usual";

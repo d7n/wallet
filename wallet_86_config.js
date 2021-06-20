@@ -1,1 +1,1 @@
-var mnemonic = "crystal quarter oyster casual fabric slice wink roof discover firm online clump";
+var mnemonic = "impact inhale wash replace razor uniform roast immense scatter erode depend million";

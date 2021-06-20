@@ -1,1 +1,1 @@
-var mnemonic = "speed nothing chief school beyond shop attend lunch recycle divert dirt final";
+var mnemonic = "destroy accident evoke normal topic foam wild crawl ring danger announce outer";

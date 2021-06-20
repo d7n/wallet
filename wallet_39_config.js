@@ -1,1 +1,1 @@
-var mnemonic = "dismiss salute spider area bulk wall cruel demise pig valve damage scrub";
+var mnemonic = "leaf dignity notable mother order arrange verify survey loyal provide best pass";

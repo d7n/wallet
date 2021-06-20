@@ -1,1 +1,1 @@
-var mnemonic = "slim subway opinion flight one same cruel depth method bike wink quick";
+var mnemonic = "volume gloom pottery rare visit aerobic genuine opera regular smooth state lecture";

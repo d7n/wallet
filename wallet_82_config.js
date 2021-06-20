@@ -1,1 +1,1 @@
-var mnemonic = "monitor tonight improve clap tenant solar equip cheese monitor problem stay boss";
+var mnemonic = "happy merge fade employ palm wreck eye clay scene prison thrive access";

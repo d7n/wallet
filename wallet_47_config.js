@@ -1,1 +1,1 @@
-var mnemonic = "brass suit salon stairs minute trade license master roof into boost attract";
+var mnemonic = "math lesson guess enact million force space use amazing viable swap also";

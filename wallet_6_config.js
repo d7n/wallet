@@ -1,1 +1,1 @@
-var mnemonic = "pyramid grid fame force vibrant one skin walk settle busy field room";
+var mnemonic = "spoon illness present fatal truth salute auto prison remain word install card";

@@ -1,1 +1,1 @@
-var mnemonic = "open auto throw suspect vanish thought joke permit humble spring organ core";
+var mnemonic = "bomb trend excess romance hawk duty ship luxury churn area wash obtain";

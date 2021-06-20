@@ -1,1 +1,1 @@
-var mnemonic = "amount enact ten neck athlete reflect story flee brand hire paper adapt";
+var mnemonic = "brave rely syrup awesome rose aware olive photo reduce become run daring";

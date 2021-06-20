@@ -1,1 +1,1 @@
-var mnemonic = "cook prepare ten breeze wine base frost settle regret found whale eight";
+var mnemonic = "flower crunch diary waste beef undo task shy drum agent before random";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut room bench muffin open best indicate flash away wonder wave tragic";
+var mnemonic = "term charge loop judge stadium wasp clarify local hammer key method gospel";

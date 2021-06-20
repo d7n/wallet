@@ -1,1 +1,1 @@
-var mnemonic = "virus forward magic draft bonus moon replace obvious gallery charge velvet nest";
+var mnemonic = "merit moral amount donor goose open flush dutch elevator someone spy frozen";

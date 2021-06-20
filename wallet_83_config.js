@@ -1,1 +1,1 @@
-var mnemonic = "head pride elbow anchor layer forget cigar afraid express total detect drive";
+var mnemonic = "one piano repeat rebel symbol swift arch crew glow wire game exist";

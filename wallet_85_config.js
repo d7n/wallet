@@ -1,1 +1,1 @@
-var mnemonic = "door option arrange lumber just remain hybrid sniff guard change police furnace";
+var mnemonic = "rate nation mixture twenty motor blast news grow chalk riot core leg";

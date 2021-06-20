@@ -1,1 +1,1 @@
-var mnemonic = "warrior surprise cloud village manage general escape coyote catch tool luxury album";
+var mnemonic = "drop exercise iron powder health divorce angle tower regret know network couch";

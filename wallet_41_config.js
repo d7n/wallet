@@ -1,1 +1,1 @@
-var mnemonic = "more fashion slim divorce doll smart enrich decrease card rebuild castle old";
+var mnemonic = "asset express scrub sugar aware utility aunt goddess because program cheese debate";

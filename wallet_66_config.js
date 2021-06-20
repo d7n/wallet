@@ -1,1 +1,1 @@
-var mnemonic = "broom license month fog velvet camp wool virtual jewel concert faculty river";
+var mnemonic = "trumpet shiver risk phrase clay web basic obey burst claim orchard quote";

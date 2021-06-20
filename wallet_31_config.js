@@ -1,1 +1,1 @@
-var mnemonic = "smooth cupboard first unhappy illness horn embrace hard cry lab spoon swim";
+var mnemonic = "guilt moon join recycle stuff raccoon correct typical desk digital disorder aisle";

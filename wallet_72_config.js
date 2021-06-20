@@ -1,1 +1,1 @@
-var mnemonic = "accident transfer promote spare bamboo wrestle ignore twenty town cycle notice lizard";
+var mnemonic = "method profit rail interest verify chest anger orphan seek demise airport radio";

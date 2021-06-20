@@ -1,1 +1,1 @@
-var mnemonic = "immense arch walk clown pistol purse scare liar major portion announce invite";
+var mnemonic = "wolf visit merry pepper shop youth used age lift strong elder cave";

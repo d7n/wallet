@@ -1,1 +1,1 @@
-var mnemonic = "fruit next hawk album leave smooth milk artefact sheriff flock borrow dentist";
+var mnemonic = "chicken much typical town tongue hub spring bleak awkward adult gift about";

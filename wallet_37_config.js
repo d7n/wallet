@@ -1,1 +1,1 @@
-var mnemonic = "chuckle festival budget hole window diamond brown door unique next razor cloth";
+var mnemonic = "kind glide pool token flag device write wash rice item person index";

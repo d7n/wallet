@@ -1,1 +1,1 @@
-var mnemonic = "bamboo weird edit since seat husband door toy holiday what unhappy leopard";
+var mnemonic = "update pact very race diamond vessel setup move birth expire neutral front";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz dawn victory easy announce mushroom fine what frog gadget soul midnight";
+var mnemonic = "trim exercise kitchen promote rookie express laundry connect owner guide relax same";

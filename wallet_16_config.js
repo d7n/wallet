@@ -1,1 +1,1 @@
-var mnemonic = "seven ignore survey peanut vocal arrive news stay cage grain device shrug";
+var mnemonic = "team rib open error drama custom safe island hazard planet device card";

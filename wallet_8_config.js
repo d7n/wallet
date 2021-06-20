@@ -1,1 +1,1 @@
-var mnemonic = "brass mango party wagon negative identify morning left pizza lift vehicle laundry";
+var mnemonic = "cushion fish junk street lounge moral blossom rotate baby appear relax brick";

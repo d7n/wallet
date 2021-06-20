@@ -1,1 +1,1 @@
-var mnemonic = "cash alcohol era swift chaos noise fun cattle illness high potato engine";
+var mnemonic = "combine admit keep wrist domain rifle repeat south exile exist wrap basic";

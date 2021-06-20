@@ -1,1 +1,1 @@
-var mnemonic = "nasty throw solar frequent harbor property police cash seek bottom correct journey";
+var mnemonic = "injury demand huge lumber track zone wire scheme phone lawsuit tube sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot travel scrub water gas upgrade blast oyster nothing damage gas setup";
+var mnemonic = "lumber hand vague hand winner asset plug antenna night join april moral";

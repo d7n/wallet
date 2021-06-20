@@ -1,1 +1,1 @@
-var mnemonic = "humor trick layer shrimp cruise hello clinic moment width blind dirt flip";
+var mnemonic = "calm feel they jealous tumble brother leg hen rail student mouse alley";

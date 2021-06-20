@@ -1,1 +1,1 @@
-var mnemonic = "kind grain jazz use nurse explain slam pill remain boring beyond wealth";
+var mnemonic = "secret kit place tank ancient fade goose carpet liberty month rocket ranch";

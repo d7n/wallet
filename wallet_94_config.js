@@ -1,1 +1,1 @@
-var mnemonic = "spot east increase surge belt alert damage result tide sorry squeeze rotate";
+var mnemonic = "tongue fame sentence beach mobile olive summer hunt juice basket neutral marble";

@@ -1,1 +1,1 @@
-var mnemonic = "apology velvet drastic cloud sign rug defense large thought cement sign horror";
+var mnemonic = "time prize drill trial hour analyst way speed come trap kind hospital";

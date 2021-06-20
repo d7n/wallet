@@ -1,1 +1,1 @@
-var mnemonic = "wife nasty math boring dove stereo cement popular produce light admit blue";
+var mnemonic = "alert satoshi change cupboard craft add sleep eye vague expand grief opera";

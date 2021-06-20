@@ -1,1 +1,1 @@
-var mnemonic = "record gadget luxury risk access business rifle fine match magnet doctor dose";
+var mnemonic = "scout soft shadow debate blast marble coil gorilla sustain over faculty convince";

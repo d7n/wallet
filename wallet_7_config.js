@@ -1,1 +1,1 @@
-var mnemonic = "patch rebuild flash ring hole pledge bottom table world price basic congress";
+var mnemonic = "patient ranch two network luxury daughter indoor file transfer uncover hair need";

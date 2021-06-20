@@ -1,1 +1,1 @@
-var mnemonic = "that toilet sugar crisp bid cook shove lizard heart rather diesel field";
+var mnemonic = "gasp then relief avocado song thrive script divorce floor bread exchange route";

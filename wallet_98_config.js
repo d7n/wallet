@@ -1,1 +1,1 @@
-var mnemonic = "observe antenna praise divorce oblige penalty giant drama man direct pig awesome";
+var mnemonic = "near dolphin laundry ancient embody source tool jaguar ship cluster uncle west";

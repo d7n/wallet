@@ -1,1 +1,1 @@
-var mnemonic = "paddle laundry auction culture bench simple dawn common veteran inside stem upset";
+var mnemonic = "nation anxiety acid beef select gossip federal artwork obtain found next isolate";

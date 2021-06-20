@@ -1,1 +1,1 @@
-var mnemonic = "actor zero snake amount once sense bacon priority canvas armed what finish";
+var mnemonic = "alter rack flock thing clog pact enlist north slogan chronic moon pig";

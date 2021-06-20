@@ -1,1 +1,1 @@
-var mnemonic = "jacket pact capital slight average gloom flower trade cabin fiction close silk";
+var mnemonic = "border shell daughter sand hurt purpose neck absent cherry route hybrid urge";

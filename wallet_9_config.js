@@ -1,1 +1,1 @@
-var mnemonic = "shift pair scatter odor fiction age parent wash dress actor saddle remember";
+var mnemonic = "warfare receive artefact gravity dice average oblige panther trust dilemma anger lunch";

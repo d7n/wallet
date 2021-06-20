@@ -1,1 +1,1 @@
-var mnemonic = "worth main cube barely civil soup tissue oval sudden burger volcano cousin";
+var mnemonic = "lunar embark wheat ketchup laptop path leg satoshi one oval equip ketchup";

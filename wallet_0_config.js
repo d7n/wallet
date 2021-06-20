@@ -1,1 +1,1 @@
-var mnemonic = "diagram brief type improve vast source sorry amazing suffer unaware oblige pony";
+var mnemonic = "alpha egg snack reform snack tuna cover gain tell shock cable aisle";

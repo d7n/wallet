@@ -1,1 +1,1 @@
-var mnemonic = "census payment latin faint wild improve blush horn royal illness vibrant inner";
+var mnemonic = "grow scissors melt else amused voyage quality capable orchard bonus aunt level";

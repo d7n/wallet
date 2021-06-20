@@ -1,1 +1,1 @@
-var mnemonic = "speed six avocado private pizza myself goose safe before trust giraffe fashion";
+var mnemonic = "spot forget beef cake memory sell north genius weather awesome chunk roast";

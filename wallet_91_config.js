@@ -1,1 +1,1 @@
-var mnemonic = "grain diet sense palm later current close forum combine siege income surface";
+var mnemonic = "program witness level false uniform mule odor science sting child snake skirt";

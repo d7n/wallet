@@ -1,1 +1,1 @@
-var mnemonic = "cliff resemble wheat cute school exact viable because simple gather vehicle loud";
+var mnemonic = "strike farm retire license lock bridge empty afraid kick injury corn process";

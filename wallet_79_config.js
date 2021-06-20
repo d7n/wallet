@@ -1,1 +1,1 @@
-var mnemonic = "electric evoke soon color future usage clean find kidney rare volume critic";
+var mnemonic = "flower jaguar love slam exile gold slice oxygen water term tip valid";

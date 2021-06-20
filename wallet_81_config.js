@@ -1,1 +1,1 @@
-var mnemonic = "spray armor write reduce grab diary addict dish portion coral brisk round";
+var mnemonic = "donate camp enroll journey chase height butter congress monkey company radio winter";

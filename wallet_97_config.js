@@ -1,1 +1,1 @@
-var mnemonic = "immune express police faith win grocery gossip october index alcohol believe cube";
+var mnemonic = "theme melody december coach slush amused wild meat chase shuffle stay shell";

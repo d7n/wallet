@@ -1,1 +1,1 @@
-var mnemonic = "charge fresh science begin tide polar miracle steel orient firm best mesh";
+var mnemonic = "sense bright valid undo panther urban cover circle unit fine glide next";

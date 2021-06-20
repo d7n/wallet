@@ -1,1 +1,1 @@
-var mnemonic = "palace blame travel prosper gun rocket private hunt draft sort copper permit";
+var mnemonic = "treat north cram medal rough laundry mosquito cart brick across response speak";

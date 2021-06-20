@@ -1,1 +1,1 @@
-var mnemonic = "jeans steak grief hole grace rack mixture depth joy stone senior quick";
+var mnemonic = "arrest left lake mountain position hero unit idea rail special impact attend";

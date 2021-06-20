@@ -1,1 +1,1 @@
-var mnemonic = "super amazing fortune topic mom trend shallow token innocent term north slush";
+var mnemonic = "frog category cotton cinnamon armed canal mouse total abuse lobster glove fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch gasp enjoy ostrich pole replace goddess broom loop close dilemma jeans";
+var mnemonic = "drink please future state unlock labor era output oxygen acid art crane";

@@ -1,1 +1,1 @@
-var mnemonic = "angry invite post chair actor resource vicious asthma ketchup great squirrel want";
+var mnemonic = "cannon system arctic spoil document omit wisdom whale define burst injury advice";

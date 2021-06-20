@@ -1,1 +1,1 @@
-var mnemonic = "expand wreck crazy round prepare next desert distance syrup scissors link pipe";
+var mnemonic = "tube three exist lunar latin pudding stick core amazing physical market animal";

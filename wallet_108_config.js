@@ -1,1 +1,1 @@
-var mnemonic = "express make price jar siege recycle civil dinner galaxy remind before pulp";
+var mnemonic = "limb core lonely dry cute pink shrimp scissors figure cover crime excuse";

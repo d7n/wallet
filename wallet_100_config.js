@@ -1,1 +1,1 @@
-var mnemonic = "behind nasty menu father tortoise adult follow unfair knock calm horn race";
+var mnemonic = "type behave crystal token flag engine smile lecture nothing title good erosion";

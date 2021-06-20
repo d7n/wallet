@@ -1,1 +1,1 @@
-var mnemonic = "lobster creek bulk panda blanket vanish hire turkey mule solid powder need";
+var mnemonic = "improve eagle sea genre price punch soup hammer ozone interest fringe crisp";

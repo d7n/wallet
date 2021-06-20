@@ -1,1 +1,1 @@
-var mnemonic = "news skate cherry rotate always cheese expose armor thrive park useful crawl";
+var mnemonic = "famous month decorate bonus coffee hello elder require opinion rude talk gossip";

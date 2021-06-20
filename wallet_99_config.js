@@ -1,1 +1,1 @@
-var mnemonic = "industry picture when ribbon what duty fatigue know ghost antique come sea";
+var mnemonic = "among crime taste scene belt garment debate that call during head obvious";

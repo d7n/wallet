@@ -1,1 +1,1 @@
-var mnemonic = "seek test bleak emerge that wolf squeeze wish rare icon milk knock";
+var mnemonic = "lake collect upset social parent follow screen still offer produce into spell";

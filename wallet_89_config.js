@@ -1,1 +1,1 @@
-var mnemonic = "much kitten mouse critic produce barrel flight tribe latin lyrics deal route";
+var mnemonic = "satisfy erosion innocent beauty twin deal panda cruel harsh plastic sauce spike";

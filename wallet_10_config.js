@@ -1,1 +1,1 @@
-var mnemonic = "permit decrease fatigue fiscal auto pitch volcano huge kitchen receive young twin";
+var mnemonic = "regret lend diary liquid dose region vicious pride exhibit hazard jump welcome";

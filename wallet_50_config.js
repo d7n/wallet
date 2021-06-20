@@ -1,1 +1,1 @@
-var mnemonic = "that luxury river what what funny oil must fence repair inside design";
+var mnemonic = "youth parent link attitude surprise inhale dice then brass soap false task";
