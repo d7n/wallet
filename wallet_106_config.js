@@ -1,1 +1,1 @@
-var mnemonic = "thumb swing fiscal warfare elite bridge announce brief unaware bid eagle indicate";
+var mnemonic = "place into dial joy radar bridge slogan jacket energy next ability piece";

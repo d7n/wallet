@@ -1,1 +1,1 @@
-var mnemonic = "luxury trade original scare tackle any smart robot coffee click now slogan";
+var mnemonic = "digital patch polar kingdom cement chief brass envelope biology turtle glove master";

@@ -1,1 +1,1 @@
-var mnemonic = "sustain argue enforce common dawn forget admit blouse heart system neck merry";
+var mnemonic = "easily era fragile diagram about kingdom arctic okay hurt steak advance tip";

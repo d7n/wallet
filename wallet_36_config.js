@@ -1,1 +1,1 @@
-var mnemonic = "spy kangaroo secret film rural mango effort curve screen canal aerobic era";
+var mnemonic = "recipe ghost bench pudding wrong benefit post subject solid market grace radar";

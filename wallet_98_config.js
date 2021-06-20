@@ -1,1 +1,1 @@
-var mnemonic = "entry outdoor bench slot reject cat above fee west nose surround cave";
+var mnemonic = "green august tennis ball zoo glue possible reward matter voice cool wolf";

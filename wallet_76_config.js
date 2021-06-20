@@ -1,1 +1,1 @@
-var mnemonic = "century midnight bubble three hole panda jealous trouble juice crazy outside item";
+var mnemonic = "diet north tuna armed develop thrive sand rebuild afraid consider sense large";

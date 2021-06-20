@@ -1,1 +1,1 @@
-var mnemonic = "device music permit index scare orient inner ranch shield crater furnace bottom";
+var mnemonic = "pet cereal mango season ugly pet market school sport alone wink jewel";

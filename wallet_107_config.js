@@ -1,1 +1,1 @@
-var mnemonic = "caught duck memory furnace have enemy drastic birth around behave elbow transfer";
+var mnemonic = "family retreat zebra candy burger venue already assist glow drum milk issue";

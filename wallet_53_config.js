@@ -1,1 +1,1 @@
-var mnemonic = "apple process pill game hen mom rain pony sniff price orbit auto";
+var mnemonic = "timber alcohol upper leisure volcano loyal match accuse short donate swarm stove";

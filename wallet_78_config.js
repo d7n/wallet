@@ -1,1 +1,1 @@
-var mnemonic = "wisdom health wisdom bomb cloud spoon sleep differ blade level toast magic";
+var mnemonic = "stool ancient mixed bridge tiger bright purpose drift priority prepare huge carpet";

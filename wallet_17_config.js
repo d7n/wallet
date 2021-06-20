@@ -1,1 +1,1 @@
-var mnemonic = "garage gain opera pony aspect lobster inquiry keep paper grass rely sun";
+var mnemonic = "guard shrimp remind leisure human mix truly tower derive cancel zone moment";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty they since cereal outside horror excess asset sunset ancient rough beef";
+var mnemonic = "chapter vehicle venture humble spawn person gorilla dose slight soda giraffe assault";

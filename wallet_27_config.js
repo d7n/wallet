@@ -1,1 +1,1 @@
-var mnemonic = "tissue wide network episode fashion poet welcome mountain pelican left arena mention";
+var mnemonic = "sustain review bacon require calm photo sketch panther envelope viable thrive pass";

@@ -1,1 +1,1 @@
-var mnemonic = "monster arrest slender indoor hill wrestle glue pyramid target good roast enroll";
+var mnemonic = "soccer soul excess cigar west call wreck dice illegal art shock tornado";

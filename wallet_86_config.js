@@ -1,1 +1,1 @@
-var mnemonic = "omit client achieve sphere ostrich train cloth seminar hidden box visit stay";
+var mnemonic = "force desk romance now other picture knee suggest gather engage defy elegant";

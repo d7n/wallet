@@ -1,1 +1,1 @@
-var mnemonic = "drum sauce cruise aspect unknown spirit shift car price where jump praise";
+var mnemonic = "before foot art rally riot violin uniform element wheel tongue blouse improve";

@@ -1,1 +1,1 @@
-var mnemonic = "dress lumber outer process maze salt flip oven upset stone flat cram";
+var mnemonic = "income huge essence awake noise light mixture tip virus mushroom chef assume";

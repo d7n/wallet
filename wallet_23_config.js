@@ -1,1 +1,1 @@
-var mnemonic = "proud casual sister dizzy loop trick crop pact improve visual reveal permit";
+var mnemonic = "desert lake arrive sun skill ship autumn jar estate bamboo sauce soul";

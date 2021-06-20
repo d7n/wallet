@@ -1,1 +1,1 @@
-var mnemonic = "print fan ski quit foot already winter draft hurry acoustic hip rich";
+var mnemonic = "anxiety auction drill army radio lumber wise husband acoustic act scan original";

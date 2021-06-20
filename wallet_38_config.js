@@ -1,1 +1,1 @@
-var mnemonic = "cousin rain invest pause labor eyebrow sort fire region meadow daughter into";
+var mnemonic = "work scissors wage alien announce over recipe page beach barely become tell";

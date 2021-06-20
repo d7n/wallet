@@ -1,1 +1,1 @@
-var mnemonic = "spike advice multiply erase race stool connect witness arena option trip sick";
+var mnemonic = "correct truth piano delay impact degree rebuild napkin aim gap truly umbrella";

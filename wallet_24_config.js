@@ -1,1 +1,1 @@
-var mnemonic = "clump track avoid author lamp pear coil country damp pride vault melt";
+var mnemonic = "barrel puzzle market hundred want anger curious cancel demand erase curve able";

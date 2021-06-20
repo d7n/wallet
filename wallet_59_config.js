@@ -1,1 +1,1 @@
-var mnemonic = "welcome team olympic wrap aspect shadow audit same budget lucky fame coast";
+var mnemonic = "flash shuffle cream pride turn quarter secret endorse coil achieve tissue bulb";

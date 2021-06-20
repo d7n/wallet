@@ -1,1 +1,1 @@
-var mnemonic = "sniff special issue drink head depth amazing proof yard distance token transfer";
+var mnemonic = "differ shoot wash rate weasel south setup meat vehicle flag seed smile";

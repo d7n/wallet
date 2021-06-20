@@ -1,1 +1,1 @@
-var mnemonic = "romance elegant movie shine exact donate excite elder comfort grief tunnel imitate";
+var mnemonic = "hobby wire jar engine rule black vocal afraid glove coconut horse peanut";

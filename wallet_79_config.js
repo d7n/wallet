@@ -1,1 +1,1 @@
-var mnemonic = "come cycle base special collect segment leave culture mom gap anger search";
+var mnemonic = "tree agent equip defense wash hover thank venue stomach distance salute hair";

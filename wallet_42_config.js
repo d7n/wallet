@@ -1,1 +1,1 @@
-var mnemonic = "dish pair mammal famous tail inmate forget tortoise property slogan shop cactus";
+var mnemonic = "purse visual laptop card talent corn eight custom warrior river frog garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "crew weasel draw track distance burden shoe jealous coral ostrich shallow cattle";
+var mnemonic = "begin village final shaft climb alcohol express stuff arm debris tomorrow length";

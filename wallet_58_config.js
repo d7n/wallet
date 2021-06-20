@@ -1,1 +1,1 @@
-var mnemonic = "potato cute raise oyster receive increase sphere region brief network one jewel";
+var mnemonic = "organ possible wisdom beyond first vocal winter crazy account today tackle morning";

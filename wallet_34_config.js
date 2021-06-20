@@ -1,1 +1,1 @@
-var mnemonic = "common kitchen fuel truth gentle unable boost park hotel correct skirt load";
+var mnemonic = "list option mean grief urban measure transfer dose silk indoor hub trouble";

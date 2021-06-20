@@ -1,1 +1,1 @@
-var mnemonic = "tent cargo submit baby version doctor car world child find trigger master";
+var mnemonic = "spend donate notice sting swift burden monster board april service disorder arctic";

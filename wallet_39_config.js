@@ -1,1 +1,1 @@
-var mnemonic = "slot slow urge nose width slush genre solution mimic mammal success pencil";
+var mnemonic = "rich moment scare affair clap project rude friend slow odor debate lock";

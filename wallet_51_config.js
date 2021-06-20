@@ -1,1 +1,1 @@
-var mnemonic = "various glass assume vote elbow donkey blame arrest exit armor gain session";
+var mnemonic = "inch empower abuse scene essence laptop stadium moment load badge parent ginger";

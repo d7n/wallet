@@ -1,1 +1,1 @@
-var mnemonic = "attitude east transfer law oil injury notable giraffe nurse cruise winter that";
+var mnemonic = "coral orient bar uphold among acquire patch demand exercise perfect protect number";

@@ -1,1 +1,1 @@
-var mnemonic = "bird butter license angry bless lamp exile bicycle gift cream wheat sadness";
+var mnemonic = "team vital cloth pride disease mind quality busy supreme fix accuse barrel";

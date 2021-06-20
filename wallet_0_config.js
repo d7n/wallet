@@ -1,1 +1,1 @@
-var mnemonic = "gold open dolphin danger much limit answer galaxy scatter consider wrist key";
+var mnemonic = "beyond print multiply always high such month you hole treat tower approve";

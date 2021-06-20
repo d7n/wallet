@@ -1,1 +1,1 @@
-var mnemonic = "pattern amount clap route cactus room oval seek vote element page basket";
+var mnemonic = "dance start scorpion purity rack front arrive dinner reflect element decorate wear";

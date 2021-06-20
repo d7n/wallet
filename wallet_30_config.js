@@ -1,1 +1,1 @@
-var mnemonic = "amount ticket dentist heart cup unhappy tomorrow sketch judge enjoy pitch old";
+var mnemonic = "goddess they scatter favorite mouse creek acoustic point alien keep mercy minute";

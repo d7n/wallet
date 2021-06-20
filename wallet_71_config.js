@@ -1,1 +1,1 @@
-var mnemonic = "supreme soldier lottery lava rookie ride glad plug voice goose denial recall";
+var mnemonic = "pottery tower unfold fall same chunk fiscal bike aerobic promote express choose";

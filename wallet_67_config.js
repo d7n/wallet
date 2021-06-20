@@ -1,1 +1,1 @@
-var mnemonic = "alpha code jaguar hero busy wrestle yard tonight unfold shadow craft response";
+var mnemonic = "detect filter gaze thing oxygen magnet steak evoke various fringe rally prevent";

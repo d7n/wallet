@@ -1,1 +1,1 @@
-var mnemonic = "share minute city bread canoe deliver quality toilet ritual goddess entry little";
+var mnemonic = "inside paddle repeat child evolve that romance swallow deliver siren exact term";

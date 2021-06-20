@@ -1,1 +1,1 @@
-var mnemonic = "pottery blast early gown quality struggle jewel future extend slab oven arch";
+var mnemonic = "worry federal bacon buyer cat veteran way kitten smoke because point primary";

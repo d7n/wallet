@@ -1,1 +1,1 @@
-var mnemonic = "reunion walk business execute knock credit bike raven click dinosaur tissue tomato";
+var mnemonic = "day strike flock goat town online hood ranch left title target abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "legend clip gun suspect income salon begin brown supply grit quality cash";
+var mnemonic = "skull sort ice draw canoe secret shoulder humor smooth blue cabbage certain";

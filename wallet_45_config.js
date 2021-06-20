@@ -1,1 +1,1 @@
-var mnemonic = "swear despair thumb ribbon iron capable any course phrase crucial false divide";
+var mnemonic = "friend basic grace drum record video auction bundle disagree smooth tackle rice";

@@ -1,1 +1,1 @@
-var mnemonic = "marine glory pepper goat embark cactus desert balance surprise hold day thing";
+var mnemonic = "what round reduce nominee mirror lawn cart math thunder marine innocent undo";

@@ -1,1 +1,1 @@
-var mnemonic = "language now tomorrow plate enlist lunch column chest climb live behave bulb";
+var mnemonic = "machine glance midnight include author lesson charge egg neglect door neck pear";

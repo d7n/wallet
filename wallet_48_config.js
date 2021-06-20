@@ -1,1 +1,1 @@
-var mnemonic = "cause story auction correct olympic question casino rain wrist charge wheel copper";
+var mnemonic = "choice finish congress able hamster stand unit future yellow drama excess flag";

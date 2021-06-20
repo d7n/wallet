@@ -1,1 +1,1 @@
-var mnemonic = "exile mix silver citizen kiwi patrol enrich drum sight dash capable giraffe";
+var mnemonic = "virus vapor wonder category soul skill gentle enough vacuum crunch stock liar";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid poem army bridge father try tomorrow table buddy child group canyon";
+var mnemonic = "tattoo table truly rocket tobacco frequent piece govern weasel front audit wrap";

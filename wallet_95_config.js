@@ -1,1 +1,1 @@
-var mnemonic = "letter earn wise giggle blood hen wool race dwarf female gesture random";
+var mnemonic = "boost silver you taxi reason retreat rain weapon evil observe jelly toss";

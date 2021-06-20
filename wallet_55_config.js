@@ -1,1 +1,1 @@
-var mnemonic = "all mushroom economy finish forum fat coach basket divert vast emerge secret";
+var mnemonic = "caught whale embody glimpse matrix black oak doctor banana wheat step payment";

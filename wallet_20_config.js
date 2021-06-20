@@ -1,1 +1,1 @@
-var mnemonic = "pigeon payment antique custom present income menu hole library produce neutral drift";
+var mnemonic = "deal adjust believe then spoon home soccer dwarf barely balance embrace trick";

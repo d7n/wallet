@@ -1,1 +1,1 @@
-var mnemonic = "tail agree relax other insane tiger hollow crack shrug space square maid";
+var mnemonic = "gym scorpion wall book right erase wedding sweet cloth pretty pizza medal";

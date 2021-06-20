@@ -1,1 +1,1 @@
-var mnemonic = "idle emotion holiday umbrella depth coconut trigger throw call okay organ soft";
+var mnemonic = "glide mercy music praise erase spend more film month robot black practice";

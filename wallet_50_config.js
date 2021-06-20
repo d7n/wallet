@@ -1,1 +1,1 @@
-var mnemonic = "fee box carpet session across must february accident speak afraid rather saddle";
+var mnemonic = "museum coach grape effort repair practice side subject spoil tower olympic rice";

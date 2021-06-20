@@ -1,1 +1,1 @@
-var mnemonic = "loop brief jump east come panther calm fatigue planet diesel tray increase";
+var mnemonic = "bamboo aware insane coyote coffee echo mystery lamp simple rain inmate fluid";

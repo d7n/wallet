@@ -1,1 +1,1 @@
-var mnemonic = "elite home crucial scatter acquire rib trumpet asthma bulb pony broken feed";
+var mnemonic = "peace sight obvious clever basic body yellow topic scorpion horn acid stairs";

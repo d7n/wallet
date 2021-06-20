@@ -1,1 +1,1 @@
-var mnemonic = "air wolf size almost round stool click believe grass observe deposit marriage";
+var mnemonic = "end miss protect title rude buzz purchase evoke uniform bridge glide trim";

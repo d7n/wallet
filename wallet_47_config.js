@@ -1,1 +1,1 @@
-var mnemonic = "just similar rigid shoot beyond witness million open critic cover exclude wheat";
+var mnemonic = "check bike fancy glow bone knock quality index record gesture excite fresh";

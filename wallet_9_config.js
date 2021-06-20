@@ -1,1 +1,1 @@
-var mnemonic = "under chat state scorpion answer surround fiscal custom inner breeze unique define";
+var mnemonic = "kick candy female multiply tired load glow cigar stadium swap half episode";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans arrow oil pottery rail rookie when ridge wedding economy subject cancel";
+var mnemonic = "brain toast twenty there weather wave drink inch two razor section skirt";

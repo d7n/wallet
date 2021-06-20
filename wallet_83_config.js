@@ -1,1 +1,1 @@
-var mnemonic = "debate access picture smooth romance knock squirrel mad defense region income middle";
+var mnemonic = "cruise reject spring there conduct cloud summer give tired replace sorry moment";

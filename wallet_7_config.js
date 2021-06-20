@@ -1,1 +1,1 @@
-var mnemonic = "elite diet suffer silent evidence this reform husband sound burst mention gravity";
+var mnemonic = "soldier solid yellow home train lawsuit brick crystal drift bunker boring pilot";

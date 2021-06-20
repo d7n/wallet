@@ -1,1 +1,1 @@
-var mnemonic = "badge novel present educate tomorrow dry bean picnic elegant filter job blame";
+var mnemonic = "identify poverty pond intact resemble suffer frown silly reduce task cry shiver";

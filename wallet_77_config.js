@@ -1,1 +1,1 @@
-var mnemonic = "gravity market ceiling mixed hazard reduce toddler shrug void universe skill leader";
+var mnemonic = "drink clean consider upper amused curve skill ring myself bird initial lazy";

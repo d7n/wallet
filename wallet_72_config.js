@@ -1,1 +1,1 @@
-var mnemonic = "pyramid dream come peasant rug pottery tray labor cargo enforce come carpet";
+var mnemonic = "people voice oven crane group involve excess begin disorder piece hill dignity";

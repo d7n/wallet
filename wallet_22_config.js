@@ -1,1 +1,1 @@
-var mnemonic = "girl isolate milk tourist ostrich more vendor ladder piano wasp equip demise";
+var mnemonic = "glow february bicycle differ pink hurdle stereo unknown scrap behind before card";

@@ -1,1 +1,1 @@
-var mnemonic = "roof loyal fluid maple cable pool brain exhaust candy acquire city off";
+var mnemonic = "present intact awkward start same lock hair explain dizzy arctic position picnic";

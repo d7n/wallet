@@ -1,1 +1,1 @@
-var mnemonic = "industry use expose picture fire hockey pulse merit absurd coffee zone unlock";
+var mnemonic = "trim couple major option output lab autumn include arrest flower cruise develop";

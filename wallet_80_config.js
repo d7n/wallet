@@ -1,1 +1,1 @@
-var mnemonic = "trouble spread mansion hint catch surprise shove recall grunt bunker success depend";
+var mnemonic = "drill school warrior pioneer second city bright tongue chief creek boost curtain";

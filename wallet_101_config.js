@@ -1,1 +1,1 @@
-var mnemonic = "trust spice awful require ivory elegant true glory rhythm train casual shrug";
+var mnemonic = "glass together zoo bounce stone address cute frown slide yellow category upset";

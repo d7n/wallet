@@ -1,1 +1,1 @@
-var mnemonic = "brush relief retreat tissue ice tribe powder tongue thunder pattern assault dune";
+var mnemonic = "crater garlic perfect farm slice decline cactus trade fiscal have bundle ancient";

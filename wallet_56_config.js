@@ -1,1 +1,1 @@
-var mnemonic = "sock hazard verb dice service kiwi bundle visa clinic physical frog bicycle";
+var mnemonic = "purse worry train rally logic gadget walnut frown bring napkin mutual gloom";

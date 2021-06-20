@@ -1,1 +1,1 @@
-var mnemonic = "artefact valley fault secret adapt apology educate must entire shift item use";
+var mnemonic = "habit reveal front indoor fever can volcano fly thumb faint traffic rebuild";

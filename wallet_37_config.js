@@ -1,1 +1,1 @@
-var mnemonic = "circle gloom lucky leisure rhythm desert ordinary collect annual gravity protect rhythm";
+var mnemonic = "alter timber shrug cinnamon fall sheriff submit multiply toward book bicycle pause";

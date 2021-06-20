@@ -1,1 +1,1 @@
-var mnemonic = "voice misery final entry bomb resource obey indicate mail holiday board soup";
+var mnemonic = "fold size entire trim differ census dynamic pilot riot humble stereo rally";

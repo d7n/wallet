@@ -1,1 +1,1 @@
-var mnemonic = "employ pumpkin injury claim ecology kite stadium board diet balcony ugly toy";
+var mnemonic = "fury mother senior anger science disease way dynamic sunny park spice outer";

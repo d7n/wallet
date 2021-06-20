@@ -1,1 +1,1 @@
-var mnemonic = "upgrade remove unhappy student endorse wing orbit book inquiry another business quit";
+var mnemonic = "scissors medal mirror nation hat rare hat negative punch brisk ethics about";

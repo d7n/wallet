@@ -1,1 +1,1 @@
-var mnemonic = "fluid science dinosaur noise cook mystery spread minor prepare pole river rose";
+var mnemonic = "despair record coyote ask hub idle enemy share cable asthma silent awesome";

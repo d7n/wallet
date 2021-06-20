@@ -1,1 +1,1 @@
-var mnemonic = "verify embark young waste proof index prepare hero genuine select decide foil";
+var mnemonic = "physical gesture wrap social exotic tortoise blue safe cereal flee gold melody";

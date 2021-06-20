@@ -1,1 +1,1 @@
-var mnemonic = "link dwarf home indoor neck tumble illegal crystal protect whale lawsuit juice";
+var mnemonic = "river waste rebuild stamp brown news setup friend general slam permit idea";

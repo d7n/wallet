@@ -1,1 +1,1 @@
-var mnemonic = "thrive brisk convince gravity else hen hedgehog allow income coffee wife pizza";
+var mnemonic = "buyer ecology warfare document glory kingdom problem mind senior utility slot liar";

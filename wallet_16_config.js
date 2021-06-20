@@ -1,1 +1,1 @@
-var mnemonic = "cheese there assume recall news much text search police toe simple tooth";
+var mnemonic = "family coral blue era omit employ rocket flash eager box river produce";

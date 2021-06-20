@@ -1,1 +1,1 @@
-var mnemonic = "egg reason comic armor heavy angry wisdom relief fire crazy small strategy";
+var mnemonic = "country make once firm blood keep wealth position toward swallow can fury";

@@ -1,1 +1,1 @@
-var mnemonic = "fluid coyote offer hamster fork kiss bacon pyramid rib wear urge veteran";
+var mnemonic = "what match soap absurd quantum pencil adapt zoo until must grief ahead";

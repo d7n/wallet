@@ -1,1 +1,1 @@
-var mnemonic = "door fashion girl credit sheriff guess half couch blast select race remain";
+var mnemonic = "toast faith life plastic quick learn drop option metal orient tattoo oval";

@@ -1,1 +1,1 @@
-var mnemonic = "come monitor round lift vintage bomb fault live knee surface pattern sword";
+var mnemonic = "glance govern enable swift globe song fancy armed puzzle honey silly hospital";

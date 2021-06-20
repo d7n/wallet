@@ -1,1 +1,1 @@
-var mnemonic = "proof firm cry flavor derive smile general cage assault glare canyon tuna";
+var mnemonic = "shrug note rescue volcano pottery account situate delay airport faith trophy obtain";

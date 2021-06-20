@@ -1,1 +1,1 @@
-var mnemonic = "void tooth evoke demise place guide mean gloom winter grocery fat album";
+var mnemonic = "crush speed traffic actor stand occur gas rate reform above hobby tennis";

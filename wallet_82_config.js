@@ -1,1 +1,1 @@
-var mnemonic = "seed impulse mixture silver open tiger surprise cruel drop history blast snack";
+var mnemonic = "rebuild moment fitness program help curious abstract dress pig shrimp oppose bounce";

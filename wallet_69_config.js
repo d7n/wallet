@@ -1,1 +1,1 @@
-var mnemonic = "race vendor scissors cat cherry dumb season hockey biology divorce dad fetch";
+var mnemonic = "february myth coffee afraid uncover spell sleep rib garment topple display depart";
