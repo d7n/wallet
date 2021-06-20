@@ -1,1 +1,1 @@
-var mnemonic = "about shallow museum what novel organ ring dwarf wage example story tired";
+var mnemonic = "wear script kitten cage alien immense process pipe domain escape submit perfect";

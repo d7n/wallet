@@ -1,1 +1,1 @@
-var mnemonic = "poet excite blue flock zebra picnic until account era zebra detect expand";
+var mnemonic = "convince dust gauge appear right kick mail setup upon waste make ten";

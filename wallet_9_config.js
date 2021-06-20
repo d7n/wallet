@@ -1,1 +1,1 @@
-var mnemonic = "label level sick vendor drip chimney situate hen child time penalty unable";
+var mnemonic = "slice adapt lab tattoo time expose decrease fossil clog inspire zero armed";

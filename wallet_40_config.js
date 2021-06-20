@@ -1,1 +1,1 @@
-var mnemonic = "episode science frost audit useless energy trust pet hard sphere armor prepare";
+var mnemonic = "top chimney prize method injury chase misery retire essay wrestle bundle approve";

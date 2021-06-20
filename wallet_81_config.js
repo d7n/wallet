@@ -1,1 +1,1 @@
-var mnemonic = "smart enough true mom release dolphin aspect green ticket canal canal property";
+var mnemonic = "million green aerobic jealous misery genre awkward another library resist choice pony";

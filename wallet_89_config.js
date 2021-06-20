@@ -1,1 +1,1 @@
-var mnemonic = "edit dress era party donate yard awkward garment empty casual abandon confirm";
+var mnemonic = "winner bottom snow tobacco science income focus other dance equal merge grant";

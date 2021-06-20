@@ -1,1 +1,1 @@
-var mnemonic = "health interest birth fox bomb citizen fabric orphan fork trigger height chicken";
+var mnemonic = "grant dismiss salt weasel select hybrid coral oval neglect casual problem review";

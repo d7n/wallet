@@ -1,1 +1,1 @@
-var mnemonic = "crush garage possible pave lucky ugly action lion bid patient amateur pink";
+var mnemonic = "session boil bottom return hobby essence mixture heart visit couple together recipe";

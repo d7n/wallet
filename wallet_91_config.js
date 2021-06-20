@@ -1,1 +1,1 @@
-var mnemonic = "brave ready rigid hard express sword follow fabric duck baby fuel century";
+var mnemonic = "ecology license coach chat fantasy cause drill sea tiny undo axis noodle";

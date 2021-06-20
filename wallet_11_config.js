@@ -1,1 +1,1 @@
-var mnemonic = "fold fiction own walnut gas cousin tomato accident afraid expand just fluid";
+var mnemonic = "ice winter tail bag embody february gun category member toast fossil tent";

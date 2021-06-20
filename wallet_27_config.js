@@ -1,1 +1,1 @@
-var mnemonic = "clap animal move cement harbor hungry inner eager reform ring gather twelve";
+var mnemonic = "any aim wrap staff modify digital trial letter ozone surge diesel cream";

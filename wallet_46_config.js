@@ -1,1 +1,1 @@
-var mnemonic = "vivid sweet device fluid bird reform silent digital power report blush wonder";
+var mnemonic = "stem gallery country brisk spare random vast increase another sting rack grow";

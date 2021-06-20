@@ -1,1 +1,1 @@
-var mnemonic = "object roast fold zero law expand quit waste nut loud about wet";
+var mnemonic = "viable review robust leisure repeat turn loop fluid odor inspire ribbon forget";

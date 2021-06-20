@@ -1,1 +1,1 @@
-var mnemonic = "below seven ancient juice vote today sudden mistake wet tattoo animal fancy";
+var mnemonic = "alert wheel hand inch hurry garment sketch alert leader bicycle turtle differ";

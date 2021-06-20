@@ -1,1 +1,1 @@
-var mnemonic = "ethics capital notice disease honey work aunt rich hope gadget success purse";
+var mnemonic = "plastic stuff web tilt excuse truth wash arctic weird donate plate orphan";

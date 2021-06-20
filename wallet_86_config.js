@@ -1,1 +1,1 @@
-var mnemonic = "unknown next wire demand burst couple mind bamboo coffee tortoise giraffe prize";
+var mnemonic = "trash panic dizzy alert enemy ostrich female social soda worry conduct hurt";

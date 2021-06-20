@@ -1,1 +1,1 @@
-var mnemonic = "parrot tackle digital rose stem taste hello slide dwarf zero girl ocean";
+var mnemonic = "almost nature body churn lift light truly waste drama relax day interest";

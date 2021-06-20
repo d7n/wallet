@@ -1,1 +1,1 @@
-var mnemonic = "gap rail brown away snake cloth spin film venture until speak sketch";
+var mnemonic = "palm margin loan rapid dilemma rubber disease forget pink adjust glue liberty";

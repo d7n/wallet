@@ -1,1 +1,1 @@
-var mnemonic = "cotton feature order expose segment gospel ready corn spatial kit antenna assist";
+var mnemonic = "clinic cement diary image text security other pause flock castle present film";

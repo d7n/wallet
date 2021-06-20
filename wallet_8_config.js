@@ -1,1 +1,1 @@
-var mnemonic = "merge make unaware usage enforce shove egg alien hint cycle layer magic";
+var mnemonic = "duty amateur goose time jaguar produce enemy race hungry large wash horror";

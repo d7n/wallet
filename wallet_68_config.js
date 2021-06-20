@@ -1,1 +1,1 @@
-var mnemonic = "whale victory magic gown loan next liar enable advice board middle cupboard";
+var mnemonic = "tell try slogan oblige visit remain romance valid carpet easily cheap claim";

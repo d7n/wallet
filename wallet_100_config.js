@@ -1,1 +1,1 @@
-var mnemonic = "used silver oppose flock smooth brick believe absurd stool salon convince bench";
+var mnemonic = "tonight shoulder olympic orient outside retire move choice foster swing fiction reopen";

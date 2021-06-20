@@ -1,1 +1,1 @@
-var mnemonic = "rate erosion project smoke scare satoshi fashion report can aim snow identify";
+var mnemonic = "expect spell gravity worth eager uncover best define explain erode surge sword";

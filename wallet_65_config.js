@@ -1,1 +1,1 @@
-var mnemonic = "course off endless uphold beauty grief federal seed mention slide road defense";
+var mnemonic = "rain excite boat angry couch document what divide accuse chimney burst disease";

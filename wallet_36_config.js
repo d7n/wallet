@@ -1,1 +1,1 @@
-var mnemonic = "rapid below sail caution visa strong fresh scene cake satisfy exotic minute";
+var mnemonic = "what harvest antique lake together trade apple frost tackle couch robot mail";

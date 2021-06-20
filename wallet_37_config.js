@@ -1,1 +1,1 @@
-var mnemonic = "play tape raccoon history home transfer insect jacket decline unique boy draw";
+var mnemonic = "observe child stomach picnic april reopen aware bamboo couch cool brown call";

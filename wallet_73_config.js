@@ -1,1 +1,1 @@
-var mnemonic = "brick tilt cancel gorilla genuine message twin blame that hold horn unaware";
+var mnemonic = "tower decide danger exchange glass found sample ocean calm mechanic stamp inside";

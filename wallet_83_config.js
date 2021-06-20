@@ -1,1 +1,1 @@
-var mnemonic = "entry kind alien into awake stage across gather enlist ozone ahead predict";
+var mnemonic = "lyrics nurse matrix minimum average guide happy law snake kite metal engage";

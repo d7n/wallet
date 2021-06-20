@@ -1,1 +1,1 @@
-var mnemonic = "donate place today view disease swamp winter place purchase scare wrap hockey";
+var mnemonic = "occur defy floor pole dish uncover advance update cliff tennis shrimp divide";

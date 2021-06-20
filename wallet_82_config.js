@@ -1,1 +1,1 @@
-var mnemonic = "gather inside alone cricket rule explain organ suit piano sting evolve salute";
+var mnemonic = "ostrich reflect fitness axis nominee oval later whale turkey blur quick office";

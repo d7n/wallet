@@ -1,1 +1,1 @@
-var mnemonic = "safe steel angle unusual gesture search mind snap canal all hill what";
+var mnemonic = "true collect love season pencil distance glue lady dial ripple mansion avocado";

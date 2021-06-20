@@ -1,1 +1,1 @@
-var mnemonic = "culture code alien soap term ahead celery catch home general drop target";
+var mnemonic = "room window brush shoe shiver timber movie evolve local moon drip seed";

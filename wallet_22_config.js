@@ -1,1 +1,1 @@
-var mnemonic = "possible cry unit reason burst season behave hotel today visit sample whip";
+var mnemonic = "cream silver glue spy cook supreme lift soul clog flush shoot arm";

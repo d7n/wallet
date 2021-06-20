@@ -1,1 +1,1 @@
-var mnemonic = "quality aspect catch lecture double south chronic magnet biology chicken banana october";
+var mnemonic = "wood radio produce cactus hurry climb lake velvet country sibling lecture warrior";

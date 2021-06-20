@@ -1,1 +1,1 @@
-var mnemonic = "garden enroll process indoor enter couple idle off satisfy brass empty assume";
+var mnemonic = "offer praise palace avocado medal outer lesson human wealth organ disorder cart";

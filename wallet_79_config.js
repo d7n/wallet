@@ -1,1 +1,1 @@
-var mnemonic = "random alpha pony guilt hammer inch concert plastic giraffe immense enrich mind";
+var mnemonic = "skill slow guide top bone bracket garage hurt cradle flat energy absorb";

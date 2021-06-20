@@ -1,1 +1,1 @@
-var mnemonic = "ripple menu frame make vehicle fault spice urge unique pink capable save";
+var mnemonic = "syrup bullet remove logic cram cancel hospital shine kick artefact clinic stem";

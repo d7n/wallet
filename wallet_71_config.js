@@ -1,1 +1,1 @@
-var mnemonic = "carry stool travel orient urge govern beauty myth fuel unveil traffic whip";
+var mnemonic = "either duck pen coach online magnet used air ankle brand banana inform";

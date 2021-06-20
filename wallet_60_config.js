@@ -1,1 +1,1 @@
-var mnemonic = "swift drama volume banana shoe lunch endorse trap middle curtain reopen antique";
+var mnemonic = "train mansion pig split scrub thumb once stick report female raw thunder";

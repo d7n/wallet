@@ -1,1 +1,1 @@
-var mnemonic = "cloud stairs suspect salt crater material buzz saddle tomorrow process genius dice";
+var mnemonic = "pony festival flight dirt minimum section model win dignity disagree soon frequent";

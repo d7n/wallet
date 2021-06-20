@@ -1,1 +1,1 @@
-var mnemonic = "strike audit goat canoe duck clip sword buffalo suggest december moon favorite";
+var mnemonic = "tide keen pen trophy ivory silk drift right penalty bargain shoulder vintage";

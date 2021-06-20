@@ -1,1 +1,1 @@
-var mnemonic = "faint trial sphere brother nut miracle term gun marine rhythm permit dash";
+var mnemonic = "there toy south seven auction lizard accuse rack off grain laugh egg";

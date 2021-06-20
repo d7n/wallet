@@ -1,1 +1,1 @@
-var mnemonic = "gesture diagram exist impulse blur enemy gain brand table release fence knee";
+var mnemonic = "poem museum boil float pigeon caught tip middle art lend pride helmet";

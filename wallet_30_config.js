@@ -1,1 +1,1 @@
-var mnemonic = "iron across person arena fix mail pet unlock believe train mechanic unusual";
+var mnemonic = "shrimp crouch fatal camp pen animal device tree cherry truth argue eye";

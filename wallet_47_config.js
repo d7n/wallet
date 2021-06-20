@@ -1,1 +1,1 @@
-var mnemonic = "spider flip measure essay measure clip tonight narrow huge bomb abuse height";
+var mnemonic = "undo vote topple gold timber unit edit apple teach drop protect scan";

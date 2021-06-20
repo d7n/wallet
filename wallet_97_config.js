@@ -1,1 +1,1 @@
-var mnemonic = "banana you scissors time have onion marine language judge file nature ability";
+var mnemonic = "strike assault wine float panel logic split quarter blood point never original";

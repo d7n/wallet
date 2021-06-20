@@ -1,1 +1,1 @@
-var mnemonic = "balance vault polar upon drip exist dove aerobic drink victory neglect awake";
+var mnemonic = "clinic renew world street dad lawsuit train mango cliff liberty pitch click";

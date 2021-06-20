@@ -1,1 +1,1 @@
-var mnemonic = "nose quiz eternal safe wear outer abstract math canoe prison frequent next";
+var mnemonic = "great share million effort stay tattoo census morning achieve opinion usual ribbon";

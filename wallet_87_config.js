@@ -1,1 +1,1 @@
-var mnemonic = "rack cruel dad artist hat giraffe daughter movie mask sail skin october";
+var mnemonic = "essay blast cousin monkey buzz fantasy step cool divorce february rail water";

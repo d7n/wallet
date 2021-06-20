@@ -1,1 +1,1 @@
-var mnemonic = "include dice direct switch common planet unfold situate camp ship magnet position";
+var mnemonic = "weapon siege buffalo meadow taste title short ocean hurry top blade proof";

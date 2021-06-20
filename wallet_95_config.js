@@ -1,1 +1,1 @@
-var mnemonic = "fame exotic soap royal announce relax misery monster carry beyond swarm frost";
+var mnemonic = "outside moral soda lawsuit million comic food behind expire orient shrug brother";

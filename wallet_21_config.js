@@ -1,1 +1,1 @@
-var mnemonic = "riot deer inject grid much island pave typical forest music story dust";
+var mnemonic = "enter prevent firm average undo region mention protect swap tortoise logic jaguar";

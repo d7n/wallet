@@ -1,1 +1,1 @@
-var mnemonic = "boil clutch chunk endless inmate convince motor stairs negative neck north mixture";
+var mnemonic = "parrot vanish nut melt gospel stomach advance basic antique frame glimpse echo";

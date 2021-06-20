@@ -1,1 +1,1 @@
-var mnemonic = "club split pet opera secret approve poverty lake opera weekend destroy width";
+var mnemonic = "surge transfer buyer fee govern confirm crunch note echo enhance grit orient";

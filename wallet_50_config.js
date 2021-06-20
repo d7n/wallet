@@ -1,1 +1,1 @@
-var mnemonic = "sound short menu similar spin together inhale tank bomb throw youth arrest";
+var mnemonic = "pelican rapid reason peanut alert error west pumpkin rural gossip achieve tragic";

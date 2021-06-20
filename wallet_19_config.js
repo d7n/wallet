@@ -1,1 +1,1 @@
-var mnemonic = "below into merge arena elbow paper member toast cloth quick guide waste";
+var mnemonic = "curve area blue symbol borrow mouse globe clap garden doctor figure purity";

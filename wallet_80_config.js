@@ -1,1 +1,1 @@
-var mnemonic = "dwarf width deny install drastic mercy chat north gasp hover drum manage";
+var mnemonic = "simple betray waste turtle focus short advance tired foot desk device scare";

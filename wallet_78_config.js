@@ -1,1 +1,1 @@
-var mnemonic = "lobster main flat gasp coral design share medal gun glimpse output mom";
+var mnemonic = "comic nut trap lion woman tiger era airport poem family cheese toss";

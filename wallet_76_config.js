@@ -1,1 +1,1 @@
-var mnemonic = "design cram jeans return slab civil salt tenant switch prefer evidence magic";
+var mnemonic = "diet wine habit table series know above breeze banana torch fix torch";

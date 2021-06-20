@@ -1,1 +1,1 @@
-var mnemonic = "beyond oak grow fit unique ready rapid bike venture hill bubble royal";
+var mnemonic = "patient night quit talent use hip column century jazz like first sunny";

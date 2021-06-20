@@ -1,1 +1,1 @@
-var mnemonic = "journey decade trigger ribbon shuffle hover clarify discover model bird lion square";
+var mnemonic = "monster pair best rose century brisk ill poet explain peanut business priority";

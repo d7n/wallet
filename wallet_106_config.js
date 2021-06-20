@@ -1,1 +1,1 @@
-var mnemonic = "inner private letter conduct damage couple uniform strategy about subway avoid wrestle";
+var mnemonic = "creek order train cheap grid matrix thumb educate fiscal nation pill hello";

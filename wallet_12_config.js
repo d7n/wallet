@@ -1,1 +1,1 @@
-var mnemonic = "invest elder cousin lunar annual prize shoe verb village bubble solar range";
+var mnemonic = "flavor staff source strike tag still bunker issue fly scheme apple lift";

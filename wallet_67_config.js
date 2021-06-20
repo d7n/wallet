@@ -1,1 +1,1 @@
-var mnemonic = "rug puzzle pigeon april human critic hybrid clever harvest judge pause panda";
+var mnemonic = "employ cool claim stick vast advice marriage wonder essay congress exercise knock";

@@ -1,1 +1,1 @@
-var mnemonic = "endless access catch potato salmon radar prize zoo better hello stay retire";
+var mnemonic = "found soap drip hand arrest resemble chase dinner biology float august you";

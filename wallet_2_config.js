@@ -1,1 +1,1 @@
-var mnemonic = "dial point initial gate pole ring adult plug pottery similar ride economy";
+var mnemonic = "gadget pen category galaxy unique hope young business voice present pottery dismiss";

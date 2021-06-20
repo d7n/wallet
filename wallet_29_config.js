@@ -1,1 +1,1 @@
-var mnemonic = "earn juice indicate case warfare struggle grant arrive round salmon gentle diamond";
+var mnemonic = "edit myself knock model sustain extra loud cabin aware frost utility behind";

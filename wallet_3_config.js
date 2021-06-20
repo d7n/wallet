@@ -1,1 +1,1 @@
-var mnemonic = "throw pumpkin edge arctic property novel oyster theme flush loud shell best";
+var mnemonic = "tape sphere remind second black notable wet jar fork cool hard valley";

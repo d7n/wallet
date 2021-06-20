@@ -1,1 +1,1 @@
-var mnemonic = "action find horror caution equip inherit renew emotion brisk lion pig acquire";
+var mnemonic = "divorce narrow kidney floor oven sand avoid give tide grape inside video";

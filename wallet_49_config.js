@@ -1,1 +1,1 @@
-var mnemonic = "finger pave dentist share daring riot stove sock travel dream shield seminar";
+var mnemonic = "verb amateur ginger venture slight forum claw civil engine cheap choice puppy";

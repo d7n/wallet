@@ -1,1 +1,1 @@
-var mnemonic = "bulk cat adult sniff vocal explain calm fortune wrist retreat floor stool";
+var mnemonic = "carpet winner trim knife frog title excess under worth skull climb kiss";

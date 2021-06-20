@@ -1,1 +1,1 @@
-var mnemonic = "staff shift rural distance wreck top treat divert replace reunion year cruise";
+var mnemonic = "deputy maple autumn start payment million impose rack cute place poverty tent";

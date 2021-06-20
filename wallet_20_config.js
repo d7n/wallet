@@ -1,1 +1,1 @@
-var mnemonic = "prison escape talent oven spice game vacuum outer receive shift purse gaze";
+var mnemonic = "shuffle sleep fever example brief replace lamp human shop rabbit rude february";

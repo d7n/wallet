@@ -1,1 +1,1 @@
-var mnemonic = "mechanic novel energy stem alarm ugly breeze fitness syrup garbage bread must";
+var mnemonic = "odor prize inspire home nature asthma skirt gold actor federal culture casual";

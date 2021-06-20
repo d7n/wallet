@@ -1,1 +1,1 @@
-var mnemonic = "exile apology near tower sense hour elephant polar flower spell you pave";
+var mnemonic = "topple order member dignity other milk omit fish regular adjust broken mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp drum laugh best light reject decorate steak item hurdle shrug hawk";
+var mnemonic = "material donate struggle action risk rain guard tunnel festival liquid eight gossip";

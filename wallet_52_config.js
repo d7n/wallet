@@ -1,1 +1,1 @@
-var mnemonic = "fly old muscle jacket ahead guess edit nuclear already toe permit example";
+var mnemonic = "motor palace person verify slim endorse abandon urban garage hospital castle camp";

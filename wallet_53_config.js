@@ -1,1 +1,1 @@
-var mnemonic = "bulb warrior juice sheriff possible future immense oven follow immense good throw";
+var mnemonic = "lawn print scissors fine hip oyster canyon laundry update toddler correct planet";

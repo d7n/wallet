@@ -1,1 +1,1 @@
-var mnemonic = "hotel satisfy face relax roof metal early scare escape sun funny mixed";
+var mnemonic = "clean echo liberty rice lift usual sight stem hobby unaware father polar";

@@ -1,1 +1,1 @@
-var mnemonic = "nation view increase crime lumber rifle input type bacon trial atom filter";
+var mnemonic = "sponsor decide quit bright future pride usage cable slender tip plunge measure";

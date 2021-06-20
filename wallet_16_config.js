@@ -1,1 +1,1 @@
-var mnemonic = "prepare citizen tool security bacon wrestle ghost powder limb clock slot skull";
+var mnemonic = "share baby twenty clutch adult mechanic tank blur inhale margin rabbit biology";

@@ -1,1 +1,1 @@
-var mnemonic = "smart dice ticket velvet kidney cross sand boost model ensure shaft wink";
+var mnemonic = "reveal cabin song flight perfect raven creek visa escape repair couple finger";

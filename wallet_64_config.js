@@ -1,1 +1,1 @@
-var mnemonic = "there glow unique duck trip middle bus online echo domain end trap";
+var mnemonic = "maze half shine amazing hope coffee flight volume burst lift thought entire";
