@@ -1,1 +1,1 @@
-var mnemonic = "input dry blush weasel minute float honey inform end unfair number cage";
+var mnemonic = "west dolphin welcome range goose aim slender almost trap suffer wealth knock";

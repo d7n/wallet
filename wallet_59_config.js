@@ -1,1 +1,1 @@
-var mnemonic = "hammer two attitude banner pluck legend august unveil pistol retire spray open";
+var mnemonic = "ski trade kick answer walnut resource shell syrup rich mansion core happy";

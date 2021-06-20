@@ -1,1 +1,1 @@
-var mnemonic = "black donkey problem warrior expand all window brief anger dolphin oil senior";
+var mnemonic = "home surprise subway focus clinic canal flame invite link fog rule emotion";

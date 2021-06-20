@@ -1,1 +1,1 @@
-var mnemonic = "myself rifle feature view swing learn dolphin chief marriage magic hub funny";
+var mnemonic = "fame valid size surround stairs shield lady truck crew addict butter drama";

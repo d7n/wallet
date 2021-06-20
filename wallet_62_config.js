@@ -1,1 +1,1 @@
-var mnemonic = "fine program blur evolve fork poverty door scatter help ask oven target";
+var mnemonic = "ready inside trash alert absurd banner message arctic ring guess time diary";

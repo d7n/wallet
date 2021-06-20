@@ -1,1 +1,1 @@
-var mnemonic = "peanut hazard earth live actual fragile enable farm enter quality unknown dutch";
+var mnemonic = "number east decorate crime shock leave damp betray eternal math excess feed";

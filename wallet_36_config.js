@@ -1,1 +1,1 @@
-var mnemonic = "transfer tip hood outer visa timber chimney hole chalk funny bless only";
+var mnemonic = "mimic dream parent cliff install improve glove talent tornado elite ceiling name";

@@ -1,1 +1,1 @@
-var mnemonic = "enable detect name arch extra same modify affair piece supreme cube carbon";
+var mnemonic = "nasty equal tool pen stool degree list creek chair donor crystal lawn";

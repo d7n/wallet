@@ -1,1 +1,1 @@
-var mnemonic = "soul pipe cup fall civil ready question gravity refuse run multiply filter";
+var mnemonic = "issue mosquito carpet swap hip genre clever wheat name omit resist blood";

@@ -1,1 +1,1 @@
-var mnemonic = "live family keen damage that lyrics muscle act absorb salad impact shield";
+var mnemonic = "dilemma flavor vacant carpet danger fade leg link borrow primary salt dash";

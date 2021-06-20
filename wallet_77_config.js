@@ -1,1 +1,1 @@
-var mnemonic = "remember various crazy thing plate betray provide barrel address race own shy";
+var mnemonic = "radio arrange case gauge infant title purpose auction country door skirt bleak";

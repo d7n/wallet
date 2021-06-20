@@ -1,1 +1,1 @@
-var mnemonic = "name person dose layer peasant struggle fly soup exit walnut amazing attitude";
+var mnemonic = "brass region develop maximum expand shadow car trend crime mule demise gun";

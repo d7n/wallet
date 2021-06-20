@@ -1,1 +1,1 @@
-var mnemonic = "shine thrive eight spray field stool mention despair hamster program arch tag";
+var mnemonic = "wood blush private ranch refuse solid nice donor script peanut tomorrow orange";

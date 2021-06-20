@@ -1,1 +1,1 @@
-var mnemonic = "toward nut range mask alien impulse try angle dolphin mistake magnet toy";
+var mnemonic = "rack canyon solar frozen deny nurse short consider domain write sausage rely";

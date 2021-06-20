@@ -1,1 +1,1 @@
-var mnemonic = "shed typical place meat knock truth pencil identify cause online timber false";
+var mnemonic = "eight save nasty pioneer video thumb series opera food include brave mix";

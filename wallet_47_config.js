@@ -1,1 +1,1 @@
-var mnemonic = "bird pond art wood define fun act exhaust churn clever will again";
+var mnemonic = "wisdom say end game mask poverty pass blush bird tribe captain steak";

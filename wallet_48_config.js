@@ -1,1 +1,1 @@
-var mnemonic = "expand salon culture grocery buffalo idea second exchange asthma method agree panther";
+var mnemonic = "believe demise lumber midnight renew review shuffle smile bid crew believe live";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt scare cable train essay civil mass move during ill scene near";
+var mnemonic = "capable visual boss floor solution core kit sketch crash hope hybrid twenty";

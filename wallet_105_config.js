@@ -1,1 +1,1 @@
-var mnemonic = "where boil echo orchard absent staff seminar arrange axis horror filter remain";
+var mnemonic = "banner occur luggage loyal party uncover ghost lend clever egg inner name";

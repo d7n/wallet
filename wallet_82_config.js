@@ -1,1 +1,1 @@
-var mnemonic = "version fabric involve lend swear iron govern perfect cram together upset crime";
+var mnemonic = "column raise blame tent author hat frame six stem spice domain unaware";

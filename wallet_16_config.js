@@ -1,1 +1,1 @@
-var mnemonic = "require toast miss lemon announce stone defy battle slot reopen rifle treat";
+var mnemonic = "vague boil six south worry virus boy flag room gallery margin language";

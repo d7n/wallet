@@ -1,1 +1,1 @@
-var mnemonic = "timber meadow appear they food foam fabric buffalo library bridge wash wage";
+var mnemonic = "salad dinner library wage lazy age whip scan hire message renew hire";

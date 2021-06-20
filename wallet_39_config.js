@@ -1,1 +1,1 @@
-var mnemonic = "write age achieve brass exhaust service inch search manage volcano develop heavy";
+var mnemonic = "kitten jar hint model cabin skirt cabbage fine side electric illness hire";

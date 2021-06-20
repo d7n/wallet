@@ -1,1 +1,1 @@
-var mnemonic = "scare work skirt flock fiction bunker elephant axis shed raven burger accuse";
+var mnemonic = "struggle skate grunt hurry other brain toward cloud practice cannon matter subway";

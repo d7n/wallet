@@ -1,1 +1,1 @@
-var mnemonic = "prize drive wear alone current solution twin cash crouch enforce virus example";
+var mnemonic = "cable season open pull arrest despair table snack repeat siren control vital";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn enact sense tumble crop pet sphere trip can sunset chunk uncover";
+var mnemonic = "slot illegal board because milk human trade stage cause under detail leave";

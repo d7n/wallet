@@ -1,1 +1,1 @@
-var mnemonic = "duck ask kiss mosquito cluster promote model camera claim syrup ozone veteran";
+var mnemonic = "copy grace beyond tilt receive note limit liar minute man rain salmon";

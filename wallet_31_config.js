@@ -1,1 +1,1 @@
-var mnemonic = "behave chicken puppy noodle inform square major open load teach resemble swap";
+var mnemonic = "evoke basket clap where tent funny manual genius shop extend core window";

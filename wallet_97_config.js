@@ -1,1 +1,1 @@
-var mnemonic = "wave outer inherit wage walnut menu away wrestle subway blood nation strong";
+var mnemonic = "cancel what side kangaroo type crazy talk saddle reason negative bundle army";

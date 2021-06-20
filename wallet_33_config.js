@@ -1,1 +1,1 @@
-var mnemonic = "ancient satoshi when smoke scheme coffee library boy blade wasp person vault";
+var mnemonic = "surge become thank tree mutual donate tree silent motion stem zebra wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "improve sausage airport address feature planet dwarf kidney coil lounge million task";
+var mnemonic = "mouse float ankle nasty sweet afraid prepare trash extra hobby common fancy";

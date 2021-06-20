@@ -1,1 +1,1 @@
-var mnemonic = "keep green inherit length garage web predict accuse hidden shaft divert zebra";
+var mnemonic = "capable slight pause feel lottery hair strong bridge cushion drink wink vital";

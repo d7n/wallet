@@ -1,1 +1,1 @@
-var mnemonic = "movie various hour adjust insane dice wall glue kind avoid client trim";
+var mnemonic = "tank armor flame crack brass sting asthma castle ocean correct clap harsh";

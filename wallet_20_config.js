@@ -1,1 +1,1 @@
-var mnemonic = "nation annual unhappy sausage wife camp deposit open aspect motor train example";
+var mnemonic = "dismiss fruit pill purpose year draft direct engine happy mass assault true";

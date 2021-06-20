@@ -1,1 +1,1 @@
-var mnemonic = "solar marine clarify vanish clerk scare plug large parrot sketch idea blanket";
+var mnemonic = "below build carpet liquid merge trick pattern real cradle donate miracle walnut";

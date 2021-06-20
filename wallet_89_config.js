@@ -1,1 +1,1 @@
-var mnemonic = "fiction dash change daughter empty bonus south between prefer kiwi box page";
+var mnemonic = "army monster mobile force range warfare giraffe great merry night round wish";

@@ -1,1 +1,1 @@
-var mnemonic = "bird legend square despair card rent thumb mother tube green program amazing";
+var mnemonic = "police mean cry plate art cinnamon lawn virtual number art similar word";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster reason amazing expose style unit inch problem pioneer elbow pudding latin";
+var mnemonic = "resemble enhance engage upper average chef tongue allow element forest phrase broken";

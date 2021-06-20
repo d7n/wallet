@@ -1,1 +1,1 @@
-var mnemonic = "wisdom vendor pet engage occur sausage brown express law toe subway lawsuit";
+var mnemonic = "cycle goat hand grief glare forget face parrot motion gasp whisper tattoo";

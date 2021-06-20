@@ -1,1 +1,1 @@
-var mnemonic = "clutch enlist mimic dice village ginger define enforce various teach chest copy";
+var mnemonic = "cook ethics size canvas tattoo series fat flee orient loyal nuclear again";

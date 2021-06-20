@@ -1,1 +1,1 @@
-var mnemonic = "patient salad jar salt advice crater orphan mass teach snack useful act";
+var mnemonic = "script upon skate supreme crane stove okay tennis blood daughter pig main";

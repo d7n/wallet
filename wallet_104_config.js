@@ -1,1 +1,1 @@
-var mnemonic = "clap shoulder shy thrive fashion angle spike innocent seven cup prefer monitor";
+var mnemonic = "eight timber dial wisdom round busy zebra thunder barely truck weather elbow";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle detect middle budget basket shed before loud because person program curtain";
+var mnemonic = "shop certain report dial issue shaft correct secret struggle holiday object breeze";

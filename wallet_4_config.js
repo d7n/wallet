@@ -1,1 +1,1 @@
-var mnemonic = "finish galaxy remain beach alien label sunset guitar chair again gas gesture";
+var mnemonic = "miss frown source example lawn solid supreme solid awake pelican what witness";

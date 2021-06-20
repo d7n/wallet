@@ -1,1 +1,1 @@
-var mnemonic = "smooth student juice runway brisk minimum put clean luxury hunt bird dice";
+var mnemonic = "eye thing item initial account chair seminar squirrel special say ship test";

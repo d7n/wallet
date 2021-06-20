@@ -1,1 +1,1 @@
-var mnemonic = "issue room attitude state donate vote remain ketchup lottery great powder brief";
+var mnemonic = "friend february clutch child tragic artist spice jacket practice course thumb bind";

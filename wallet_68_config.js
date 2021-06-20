@@ -1,1 +1,1 @@
-var mnemonic = "wide term hint cupboard mutual tilt timber gift bleak marble goddess enjoy";
+var mnemonic = "alarm guard spend source combine where candy orphan evil very sun shop";

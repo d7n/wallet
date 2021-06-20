@@ -1,1 +1,1 @@
-var mnemonic = "remain unaware pledge link toe smart ticket dawn budget drill burden radar";
+var mnemonic = "caught angry fiscal payment artefact shallow need virtual panther dry theory raw";

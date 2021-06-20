@@ -1,1 +1,1 @@
-var mnemonic = "milk scrap chest fold strong either lift layer mobile around short hood";
+var mnemonic = "bid bonus hundred cluster ahead okay industry april pepper waste boss legend";

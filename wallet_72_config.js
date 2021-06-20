@@ -1,1 +1,1 @@
-var mnemonic = "tennis blur cheese insect rescue shove oyster spring produce print vanish chapter";
+var mnemonic = "gun example chair loop foster afraid pulp park rose embrace slot reduce";

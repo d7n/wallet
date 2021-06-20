@@ -1,1 +1,1 @@
-var mnemonic = "output private eight copper trial borrow day infant people toe impulse avoid";
+var mnemonic = "dentist can unveil welcome boss dad bulb palace panther future fade judge";

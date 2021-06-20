@@ -1,1 +1,1 @@
-var mnemonic = "orchard spot climb accident eight bone lecture finish gesture sing away yellow";
+var mnemonic = "rotate opera allow draft roast struggle monster glory heart resource split unit";

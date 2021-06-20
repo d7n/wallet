@@ -1,1 +1,1 @@
-var mnemonic = "nominee they include pave picture venture drama tiger admit lunar length pencil";
+var mnemonic = "girl patrol desk blue shop portion measure prefer stay federal citizen victory";

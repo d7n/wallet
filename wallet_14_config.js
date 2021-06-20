@@ -1,1 +1,1 @@
-var mnemonic = "drop art spread grape original thing loan basket direct fresh dolphin cigar";
+var mnemonic = "pause despair uniform pitch garbage isolate congress charge adjust furnace path crater";

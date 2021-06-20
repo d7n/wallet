@@ -1,1 +1,1 @@
-var mnemonic = "unhappy dwarf account space budget fall inform rabbit hen robust quit change";
+var mnemonic = "flush glow pitch kidney day make seminar alert baby then brain blouse";

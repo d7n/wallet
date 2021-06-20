@@ -1,1 +1,1 @@
-var mnemonic = "current venue dynamic host interest mixed click donor apart swift clock twelve";
+var mnemonic = "about post tonight industry legal describe impact praise follow fun oblige then";

@@ -1,1 +1,1 @@
-var mnemonic = "cream boring alone fork copy sheriff duck stage dirt cattle around surface";
+var mnemonic = "charge wool forum office ridge surge lonely dragon skill decorate render offer";

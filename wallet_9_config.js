@@ -1,1 +1,1 @@
-var mnemonic = "pause future stone run sell worry midnight wise once voyage athlete whip";
+var mnemonic = "chaos drill luxury solar marriage pony false can pride sting allow open";

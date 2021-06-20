@@ -1,1 +1,1 @@
-var mnemonic = "hip pig focus alter much donkey spell civil decrease grow provide sort";
+var mnemonic = "silk frequent skate meadow rival before symbol lady gesture aspect accident child";

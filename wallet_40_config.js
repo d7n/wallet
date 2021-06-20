@@ -1,1 +1,1 @@
-var mnemonic = "network where giggle parade crash exact mystery document august exercise rocket width";
+var mnemonic = "erupt fat guilt rough diet fox audit key common impulse arrange badge";

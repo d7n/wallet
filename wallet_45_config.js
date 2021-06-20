@@ -1,1 +1,1 @@
-var mnemonic = "insane sword nice habit table culture leisure more door inmate move hello";
+var mnemonic = "feed equip stadium spoon duck empower unusual crack walk knock perfect kidney";

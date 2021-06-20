@@ -1,1 +1,1 @@
-var mnemonic = "spice recipe essay sure excess flat canal match bid duck inherit syrup";
+var mnemonic = "uniform rare screen annual credit unhappy civil paddle wet powder develop junior";

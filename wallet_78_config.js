@@ -1,1 +1,1 @@
-var mnemonic = "fatigue employ proof volume there diet ribbon flame afraid prefer great spring";
+var mnemonic = "utility champion shield cherry shove vague proof utility erosion jazz potato family";

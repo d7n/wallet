@@ -1,1 +1,1 @@
-var mnemonic = "decorate alarm clarify artefact tell evidence curve dream mask zoo swear slight";
+var mnemonic = "acoustic open census absent census bitter actual slam random stool tuna network";

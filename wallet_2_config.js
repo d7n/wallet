@@ -1,1 +1,1 @@
-var mnemonic = "young employ anxiety private sustain absent sense anxiety catalog broom game eyebrow";
+var mnemonic = "forum illness dust arrow panda sniff undo foil hood idea brush coral";

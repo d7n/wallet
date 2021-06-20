@@ -1,1 +1,1 @@
-var mnemonic = "plate opera quantum unlock situate movie ecology kick usual dinner rival modify";
+var mnemonic = "science renew slot axis spell brick mix rough spider head volcano shiver";

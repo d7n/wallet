@@ -1,1 +1,1 @@
-var mnemonic = "task all silent chunk pen minor shoulder runway muffin budget enough wet";
+var mnemonic = "artist about federal coyote plastic drama prepare table acoustic rude donor ice";

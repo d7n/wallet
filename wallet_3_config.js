@@ -1,1 +1,1 @@
-var mnemonic = "soul beyond palm situate letter embark grid weapon banana amount danger chronic";
+var mnemonic = "sheriff thought stuff bread solid cargo sell feature soap alert anger seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "valid chalk grief fiction where board gym work harvest decorate figure smart";
+var mnemonic = "demise gadget craft video seat cage outdoor winner note rookie begin stable";

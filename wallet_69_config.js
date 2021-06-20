@@ -1,1 +1,1 @@
-var mnemonic = "jewel amused weasel giggle month cancel raise cluster sorry way once ancient";
+var mnemonic = "survey rib essence icon huge begin burden drip connect benefit twelve prosper";

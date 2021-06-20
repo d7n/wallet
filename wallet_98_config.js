@@ -1,1 +1,1 @@
-var mnemonic = "skull high anchor immense bamboo vanish update bulb silent floor van hello";
+var mnemonic = "involve away review truck april enact penalty initial ocean elbow artwork wisdom";

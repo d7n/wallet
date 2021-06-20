@@ -1,1 +1,1 @@
-var mnemonic = "eager purchase can joy update exile between crater upset fatal ski border";
+var mnemonic = "chair nice six fall rely detail dizzy sleep kitten limb dentist traffic";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard enroll choose involve describe screen busy verify unveil honey sister glare";
+var mnemonic = "hidden pottery garment danger nuclear arm clutch air toe primary endless divert";

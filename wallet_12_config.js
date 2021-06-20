@@ -1,1 +1,1 @@
-var mnemonic = "defy library breeze amount bullet surge mesh monkey enable say suffer armor";
+var mnemonic = "join avocado elbow summer fossil demand tomato river fence bridge hover cat";

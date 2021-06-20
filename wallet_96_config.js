@@ -1,1 +1,1 @@
-var mnemonic = "cabin lock garbage blame purity yellow tennis pass claim pledge bean tiger";
+var mnemonic = "endorse useless phone blouse raw material text flash use else object daring";

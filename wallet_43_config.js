@@ -1,1 +1,1 @@
-var mnemonic = "bracket stick rebel future oven ripple awesome venture wire success jaguar health";
+var mnemonic = "symptom face vicious elegant always charge remain plunge size dream mother shove";

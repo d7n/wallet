@@ -1,1 +1,1 @@
-var mnemonic = "radar finish special suit occur crystal symptom material fun weird swallow park";
+var mnemonic = "clap luxury trend nature sphere size style burger fold burger method index";

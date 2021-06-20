@@ -1,1 +1,1 @@
-var mnemonic = "version social always energy orient garlic enlist trouble hollow hybrid breeze shed";
+var mnemonic = "act warfare story awkward item skill green slow another second drift accident";

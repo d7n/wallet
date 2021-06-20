@@ -1,1 +1,1 @@
-var mnemonic = "tongue burden gloom captain mixed vapor aspect cactus symptom bundle question again";
+var mnemonic = "goat prison snack bag purity fruit inject cruel car robot slender message";

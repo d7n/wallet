@@ -1,1 +1,1 @@
-var mnemonic = "spot canoe comfort web vote coast team close morning fiber prize salad";
+var mnemonic = "please rug budget kid seed once equip cancel jacket stuff near vanish";

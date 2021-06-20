@@ -1,1 +1,1 @@
-var mnemonic = "chuckle desert genius fine possible cigar depend gallery accuse upper winter aim";
+var mnemonic = "nurse police sustain donkey lounge tackle only lounge accuse exotic permit bubble";

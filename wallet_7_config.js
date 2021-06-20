@@ -1,1 +1,1 @@
-var mnemonic = "rally crystal twelve loud outside merge novel frost rhythm struggle subject prize";
+var mnemonic = "aunt heavy wool eternal little brief paddle deliver truck gravity appear text";

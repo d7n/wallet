@@ -1,1 +1,1 @@
-var mnemonic = "crystal throw point access salmon flight front want ball reward kiss congress";
+var mnemonic = "report protect border two enact suspect myth that nurse seek ozone three";

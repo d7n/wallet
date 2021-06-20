@@ -1,1 +1,1 @@
-var mnemonic = "blade scissors lemon uniform spike tongue effort join guess toss spread forest";
+var mnemonic = "capable gun isolate napkin person charge energy worth wasp when report stereo";

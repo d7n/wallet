@@ -1,1 +1,1 @@
-var mnemonic = "gas bullet coil parent heart chaos pink door pioneer vehicle mesh city";
+var mnemonic = "cute glove child stove prize shell will hero table battle economy mass";

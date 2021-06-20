@@ -1,1 +1,1 @@
-var mnemonic = "limb hurdle lyrics apology trip copy glare pond ketchup frame split joke";
+var mnemonic = "mistake brother move orchard erase taxi link hybrid ostrich bonus dismiss winner";

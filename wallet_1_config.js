@@ -1,1 +1,1 @@
-var mnemonic = "increase economy average hub option alarm cream clown culture matrix rotate kitten";
+var mnemonic = "shove capital pumpkin letter inquiry future town own hard hill slot total";

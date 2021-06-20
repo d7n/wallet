@@ -1,1 +1,1 @@
-var mnemonic = "buffalo exile slot elevator two quality ramp unaware general express hip utility";
+var mnemonic = "title sponsor process moment card hedgehog quiz elder enrich menu cotton stereo";

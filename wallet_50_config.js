@@ -1,1 +1,1 @@
-var mnemonic = "know want parade alley razor pen cart lift honey oven sudden same";
+var mnemonic = "always twenty wood debris pilot wheat edge intact fade another cloud shoe";

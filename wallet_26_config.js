@@ -1,1 +1,1 @@
-var mnemonic = "bamboo vicious enjoy gauge seat flip cloth movie bind sunny anger universe";
+var mnemonic = "hero across gasp level bulk ranch collect usage february sock cushion drill";

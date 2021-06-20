@@ -1,1 +1,1 @@
-var mnemonic = "hip home ask place lazy protect torch dash reveal walk flip matrix";
+var mnemonic = "until gasp summer purse brother mad mansion quality cake host kick enjoy";

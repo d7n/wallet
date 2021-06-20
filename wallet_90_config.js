@@ -1,1 +1,1 @@
-var mnemonic = "chuckle able history banner verify example genre hole lounge narrow artefact gather";
+var mnemonic = "aim monster tackle horror team squeeze pattern famous craft cloud snow place";

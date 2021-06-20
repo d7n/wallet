@@ -1,1 +1,1 @@
-var mnemonic = "pledge hazard people degree plastic acquire hollow theory butter crowd assume exotic";
+var mnemonic = "reflect lawn agree youth bitter latin canoe notice canvas spoil chapter asset";

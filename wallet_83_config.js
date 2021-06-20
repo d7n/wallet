@@ -1,1 +1,1 @@
-var mnemonic = "common hamster tenant item false joy question scrap poverty mixture doll corn";
+var mnemonic = "laundry episode seek pony gym diesel fat unusual current knife great donate";
