@@ -1,1 +1,1 @@
-var mnemonic = "flip subject squeeze legend father goat gesture travel drive skirt sponsor bargain";
+var mnemonic = "trip maze inform girl question devote clock mom coconut enlist exist bomb";

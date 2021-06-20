@@ -1,1 +1,1 @@
-var mnemonic = "valve venue aim jump equal leave fold output stage luxury acoustic hollow";
+var mnemonic = "pupil garment poet asthma shop permit table crop good strong volcano inside";

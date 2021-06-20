@@ -1,1 +1,1 @@
-var mnemonic = "glow shock spider also mercy capital admit giggle you carbon feed alcohol";
+var mnemonic = "faint nephew kite recipe forum tuition pigeon prevent scrub nothing dice orchard";

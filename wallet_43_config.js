@@ -1,1 +1,1 @@
-var mnemonic = "crumble silk impulse dice month bike rubber useless ball slight guide winner";
+var mnemonic = "window actual join work hotel pave brush faint decorate transfer gasp two";

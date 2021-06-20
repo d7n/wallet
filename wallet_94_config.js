@@ -1,1 +1,1 @@
-var mnemonic = "square unveil dignity club choose case time foster hotel entire method refuse";
+var mnemonic = "crane umbrella nut domain choice tail credit panel farm jazz proud cool";

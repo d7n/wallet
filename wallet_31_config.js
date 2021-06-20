@@ -1,1 +1,1 @@
-var mnemonic = "mandate trumpet dial riot ahead siren poem dentist urban mandate head urge";
+var mnemonic = "all palace improve sleep cable trend property dutch talk rent sketch order";

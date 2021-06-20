@@ -1,1 +1,1 @@
-var mnemonic = "puppy bread shop sand there naive apart soon follow tiger smooth tape";
+var mnemonic = "quote quarter success educate stage refuse trap mirror cattle random chicken holiday";

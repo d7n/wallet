@@ -1,1 +1,1 @@
-var mnemonic = "danger ice sight camp ancient casual poverty control example canyon virtual mother";
+var mnemonic = "divide quantum fox vacant wisdom exile pumpkin poverty liar foot swamp place";

@@ -1,1 +1,1 @@
-var mnemonic = "spice tray behave mail provide siren because fever potato quit era rain";
+var mnemonic = "predict coconut promote tobacco pool reflect hawk special hobby grass fire mix";

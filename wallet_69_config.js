@@ -1,1 +1,1 @@
-var mnemonic = "hope taxi zoo theory mammal ordinary will enlist riot system project lawsuit";
+var mnemonic = "jar arrest wait gospel ketchup error make blood fish spirit until disorder";

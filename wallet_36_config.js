@@ -1,1 +1,1 @@
-var mnemonic = "consider broom blade rain medal cost stable tooth quit exile way wheat";
+var mnemonic = "chaos nest fly visual knife zero rigid major police doll doll result";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel item parent busy group brass video devote trade bar local quality";
+var mnemonic = "extra vast foster battle enable cheese program afraid void fresh dirt cross";

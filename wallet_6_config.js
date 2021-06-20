@@ -1,1 +1,1 @@
-var mnemonic = "exchange need liberty attack kite swift matter please maze forget belt anchor";
+var mnemonic = "hungry base chat ball speed sound tunnel govern vague nominee shadow strategy";

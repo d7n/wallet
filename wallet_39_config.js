@@ -1,1 +1,1 @@
-var mnemonic = "gorilla volcano ceiling journey gallery salad marriage lobster liberty twin sister real";
+var mnemonic = "appear bachelor employ during lecture arctic dry daughter such team unhappy exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage outside clutch uncover fringe luggage ready knee baby skin future faint";
+var mnemonic = "use bike hungry gauge ride supply orchard piece outer minute december siren";

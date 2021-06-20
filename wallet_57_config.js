@@ -1,1 +1,1 @@
-var mnemonic = "shallow riot birth excite action build inspire truck lizard quick confirm cycle";
+var mnemonic = "become cannon sponsor soon off hope under burden window noble begin shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant soldier toddler lady law enter anger solar limit guilt purity enroll";
+var mnemonic = "voice wine voice floor lottery dose popular taxi melt cause cinnamon tomato";

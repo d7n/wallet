@@ -1,1 +1,1 @@
-var mnemonic = "vault ghost behind wedding miss mistake six unlock melt drum other knee";
+var mnemonic = "crouch enlist kangaroo drip filter mixture barely regular cram jungle region gossip";

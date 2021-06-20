@@ -1,1 +1,1 @@
-var mnemonic = "chapter violin fragile charge make cabin negative guitar frequent rather hidden final";
+var mnemonic = "lottery bullet walk neutral image laundry grow beef alien always universe desk";

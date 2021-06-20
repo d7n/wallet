@@ -1,1 +1,1 @@
-var mnemonic = "afraid actor unveil exhibit online obtain seminar script negative hello elegant car";
+var mnemonic = "brush suffer width spike repeat flavor blanket paddle learn nature balcony bind";

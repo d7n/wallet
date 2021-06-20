@@ -1,1 +1,1 @@
-var mnemonic = "they icon remember suggest can limb action vague scare degree tissue cabbage";
+var mnemonic = "alcohol ivory matrix switch success future very harsh mandate fancy original host";

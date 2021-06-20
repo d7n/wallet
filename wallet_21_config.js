@@ -1,1 +1,1 @@
-var mnemonic = "leg cook result brief fluid sample fly explain toast green reform coral";
+var mnemonic = "renew marble canal nature element history enroll embrace company review please put";

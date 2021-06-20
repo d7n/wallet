@@ -1,1 +1,1 @@
-var mnemonic = "flip middle giant tunnel erode mixed pepper clerk quiz cute drip milk";
+var mnemonic = "behave hill surface face tattoo garbage teach dice treat color prosper firm";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug ecology quick fish gauge song come glare coffee canvas junk erode";
+var mnemonic = "upper spray grain teach hip stove material help cup remember alone avoid";

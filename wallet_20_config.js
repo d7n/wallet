@@ -1,1 +1,1 @@
-var mnemonic = "asset energy fresh artwork hand stove sing select erosion unveil warrior bunker";
+var mnemonic = "crop cloth fiscal mutual hurry banner assist face cute deputy bargain wire";

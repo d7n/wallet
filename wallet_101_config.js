@@ -1,1 +1,1 @@
-var mnemonic = "fork master model ice tube wait glow sock antenna captain venue pear";
+var mnemonic = "arrange install shop canyon scale champion student voice talent left decorate hen";

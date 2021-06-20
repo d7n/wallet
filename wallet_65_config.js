@@ -1,1 +1,1 @@
-var mnemonic = "combine sing category future build thought wrong elbow smile trade beyond snake";
+var mnemonic = "crumble space obey heavy cream dragon right inner appear bronze silent strategy";

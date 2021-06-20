@@ -1,1 +1,1 @@
-var mnemonic = "sight mesh enjoy abandon brush cupboard play goat door round silk casino";
+var mnemonic = "aerobic pink doctor also slush sword eyebrow heart arm useless dust gasp";

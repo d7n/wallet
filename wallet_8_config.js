@@ -1,1 +1,1 @@
-var mnemonic = "sure junk air drama census noble churn shy mixture people work where";
+var mnemonic = "raccoon property bone six civil upon rail body farm tortoise chest near";

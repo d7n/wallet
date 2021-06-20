@@ -1,1 +1,1 @@
-var mnemonic = "clock defy proof universe leader satisfy art vital pottery arctic coil favorite";
+var mnemonic = "tomorrow capital achieve chimney beyond lava unaware shallow dish brother rate beauty";

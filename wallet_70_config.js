@@ -1,1 +1,1 @@
-var mnemonic = "double educate define stuff test leave bridge trick milk frost cat gospel";
+var mnemonic = "enhance couple human wash require cover tiger february dolphin weapon output bicycle";

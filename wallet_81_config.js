@@ -1,1 +1,1 @@
-var mnemonic = "slot slush inquiry true aware indoor news above soup galaxy giant oval";
+var mnemonic = "hundred access monitor violin spider copper valid case drive fancy twist put";

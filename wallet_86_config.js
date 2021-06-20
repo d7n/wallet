@@ -1,1 +1,1 @@
-var mnemonic = "dizzy hire guilt lamp salt winner worry normal uniform indoor never obvious";
+var mnemonic = "filter iron chef february inherit small trend endorse upgrade property jeans reward";

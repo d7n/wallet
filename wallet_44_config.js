@@ -1,1 +1,1 @@
-var mnemonic = "length pass hedgehog middle ship soft wrestle noise tumble shield pyramid ball";
+var mnemonic = "inform before suit small enough myth mercy early air custom toy liquid";

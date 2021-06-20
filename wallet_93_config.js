@@ -1,1 +1,1 @@
-var mnemonic = "earth unhappy slot able limit fog journey visit pet crop example senior";
+var mnemonic = "wall rug atom borrow endorse boost update mean relief razor mail brave";

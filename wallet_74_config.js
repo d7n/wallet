@@ -1,1 +1,1 @@
-var mnemonic = "world toilet stay embody fall spice economy fit wall piano choice fruit";
+var mnemonic = "ticket random region recipe motor opera bulb person hair detect bulk wash";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol view grass dinosaur slab syrup breeze sort trophy basic dash media";
+var mnemonic = "lion plate message leisure smooth depart chronic love august then work merry";

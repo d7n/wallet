@@ -1,1 +1,1 @@
-var mnemonic = "action merit melt joy dirt whisper float pink genius predict soft beach";
+var mnemonic = "found speak floor identify stamp follow vacuum sell essence provide wheel labor";

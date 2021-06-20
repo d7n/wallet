@@ -1,1 +1,1 @@
-var mnemonic = "inspire desert spoil spray wink salad parent dad category tourist squeeze disease";
+var mnemonic = "engine muscle picture element worth weapon man absorb obey egg cloud aim";

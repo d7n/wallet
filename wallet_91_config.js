@@ -1,1 +1,1 @@
-var mnemonic = "assume lawn brass east blast foster youth combine draw finish join square";
+var mnemonic = "clinic moon grunt chimney when duck napkin start beauty garlic fruit click";

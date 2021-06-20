@@ -1,1 +1,1 @@
-var mnemonic = "country exclude apology release process advance moment possible soul receive nerve apology";
+var mnemonic = "since script oppose wool dragon very advance ensure ridge carbon memory spell";

@@ -1,1 +1,1 @@
-var mnemonic = "thank fury ghost light snake install license work picnic message shell apart";
+var mnemonic = "notable sure leg search bind isolate awesome sock insect joke business any";

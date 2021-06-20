@@ -1,1 +1,1 @@
-var mnemonic = "enrich jar unaware aware sunset luxury fun exhibit color ill mango arrest";
+var mnemonic = "detect mind burden path human win satisfy knife tonight century surge regular";

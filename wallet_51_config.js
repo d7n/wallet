@@ -1,1 +1,1 @@
-var mnemonic = "ice ordinary argue select number razor peanut rude provide chair margin blossom";
+var mnemonic = "glass child garbage magic ivory couch visa pulse avoid error kite treat";

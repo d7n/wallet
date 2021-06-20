@@ -1,1 +1,1 @@
-var mnemonic = "ridge live destroy quality retreat brisk elevator mixed bring govern depart border";
+var mnemonic = "nuclear correct enjoy usage expose cigar camp secret region verb fiscal diary";

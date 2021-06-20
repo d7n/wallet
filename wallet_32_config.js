@@ -1,1 +1,1 @@
-var mnemonic = "water access front replace bench smart letter excuse erase harsh unfold cute";
+var mnemonic = "turn father orange rent build tortoise volcano feature coyote omit describe onion";

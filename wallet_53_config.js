@@ -1,1 +1,1 @@
-var mnemonic = "attitude hire engage enhance expose raise farm explain paper learn mass spin";
+var mnemonic = "deliver problem devote praise enable evil glove dune pioneer slam flame blind";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm pause nephew practice melt divert flag useful cycle fiction chest path";
+var mnemonic = "ball dial govern peanut enlist floor embrace salmon ceiling chimney clay scrub";

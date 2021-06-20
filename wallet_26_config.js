@@ -1,1 +1,1 @@
-var mnemonic = "afraid silly sand loop spread law romance remind knee knock lounge discover";
+var mnemonic = "series wash human typical evidence cry keen segment leopard wage slim another";

@@ -1,1 +1,1 @@
-var mnemonic = "question juice crush inquiry setup diesel gesture during grace rotate regular ivory";
+var mnemonic = "smoke sunny jelly enroll federal truly stumble oil desert ceiling mammal hungry";

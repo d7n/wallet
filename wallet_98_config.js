@@ -1,1 +1,1 @@
-var mnemonic = "girl face focus session flip roof ahead staff negative cushion box pudding";
+var mnemonic = "harbor merge ready tortoise surround cherry carbon crazy lazy text hood opinion";

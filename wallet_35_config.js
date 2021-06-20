@@ -1,1 +1,1 @@
-var mnemonic = "result turn enjoy cruel process guide rough century analyst sniff clap trick";
+var mnemonic = "truth wrap athlete fetch bulk hurry dish doctor possible certain poem fog";

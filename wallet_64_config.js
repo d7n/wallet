@@ -1,1 +1,1 @@
-var mnemonic = "left fit number clock fitness sun trial crazy debris attract trade twist";
+var mnemonic = "latin stove brick sand green hawk spot bus yard angry thing salt";

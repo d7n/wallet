@@ -1,1 +1,1 @@
-var mnemonic = "sibling slam sound excite crazy embark day bamboo rich radar method ugly";
+var mnemonic = "flee again acid jacket secret net error patient festival sight alone change";

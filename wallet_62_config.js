@@ -1,1 +1,1 @@
-var mnemonic = "creek output enlist artefact hospital almost job reflect joy lion concert demand";
+var mnemonic = "music liquid warm ozone gas juice real joke idea abandon panther any";

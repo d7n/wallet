@@ -1,1 +1,1 @@
-var mnemonic = "furnace brown reopen lounge success pass tongue learn magic outdoor connect shove";
+var mnemonic = "weekend purchase cloud evidence bacon broom innocent fault bundle record match interest";

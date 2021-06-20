@@ -1,1 +1,1 @@
-var mnemonic = "illness echo rough spawn curtain lady sound leave practice divide uncover ring";
+var mnemonic = "symbol nut potato kite certain desert green work stomach bean car world";

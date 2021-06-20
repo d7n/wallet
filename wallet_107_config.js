@@ -1,1 +1,1 @@
-var mnemonic = "noble unfair pattern senior bamboo wheat sheriff cupboard thought peace flip despair";
+var mnemonic = "guide accident ocean rude margin wealth sight deposit arrive radar chuckle record";

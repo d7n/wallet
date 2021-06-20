@@ -1,1 +1,1 @@
-var mnemonic = "corn leader cotton awesome monster appear waste include warm myself notice noise";
+var mnemonic = "always state trumpet body window sell surge roof dove knife aim laptop";

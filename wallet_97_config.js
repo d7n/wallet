@@ -1,1 +1,1 @@
-var mnemonic = "day medal infant song already smoke boring easily volcano calm holiday ginger";
+var mnemonic = "subject snap casual cable stuff humble devote helmet way day blast solar";

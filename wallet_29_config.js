@@ -1,1 +1,1 @@
-var mnemonic = "sadness ticket donkey unlock toddler mansion slide birth start rotate worry mammal";
+var mnemonic = "hundred nothing public wolf fence wish rapid become deny divide vapor supply";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid extra honey share negative wasp day nurse task tribe easy ginger";
+var mnemonic = "quality student poet eager ribbon innocent spirit forest crowd pulp crouch soda";

@@ -1,1 +1,1 @@
-var mnemonic = "life silk check gospel fury man oyster void paddle clip jealous ocean";
+var mnemonic = "lumber slice cement trigger magnet any barely pulse purpose seven bunker priority";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt kid web distance interest tired spatial candy all rabbit day gun";
+var mnemonic = "front zoo frog cinnamon muffin leave tongue soft fitness purpose glow photo";

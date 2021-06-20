@@ -1,1 +1,1 @@
-var mnemonic = "error glare brain skate loud problem impulse omit tube rib unknown purchase";
+var mnemonic = "bounce captain cheap neutral deputy verify sail pool clutch steak skull clip";

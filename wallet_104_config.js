@@ -1,1 +1,1 @@
-var mnemonic = "one fit viable rescue fork amazing giggle illness tissue sound cupboard abuse";
+var mnemonic = "female net diary robust today lonely joke panda stadium vote clerk shrimp";

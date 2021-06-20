@@ -1,1 +1,1 @@
-var mnemonic = "civil exile floor people lamp ill bubble height subject age infant under";
+var mnemonic = "tongue total decade clip column fatal improve true poet food winter basket";

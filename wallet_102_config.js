@@ -1,1 +1,1 @@
-var mnemonic = "notice avoid monitor hen adjust spy ketchup buzz gorilla poem panther gown";
+var mnemonic = "cruel income sadness about distance horse stage topple party enact genuine double";

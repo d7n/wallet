@@ -1,1 +1,1 @@
-var mnemonic = "online draw van skate diet measure bicycle dry day custom depend snow";
+var mnemonic = "bracket leisure final debate permit almost cup empower vanish unhappy quarter improve";

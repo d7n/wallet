@@ -1,1 +1,1 @@
-var mnemonic = "give twice success wise excuse crack indoor chest tool inspire clock penalty";
+var mnemonic = "suffer twelve just miracle club session already wing insane unable october twice";

@@ -1,1 +1,1 @@
-var mnemonic = "remember weird artefact observe frequent verify remain enact canyon name upon very";
+var mnemonic = "rifle jelly dance beyond cheese walk napkin brisk frown scene plate attack";

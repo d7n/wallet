@@ -1,1 +1,1 @@
-var mnemonic = "creek first view fire grocery squirrel tennis iron taxi gate much jealous";
+var mnemonic = "laundry elbow second choice wisdom unable burden lunar hockey rebel pilot need";

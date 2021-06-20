@@ -1,1 +1,1 @@
-var mnemonic = "vibrant album twelve lion produce apology dwarf accuse unusual fee armor chalk";
+var mnemonic = "autumn similar release undo plug orphan enemy loyal alter maid pelican slot";

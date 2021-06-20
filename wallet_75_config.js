@@ -1,1 +1,1 @@
-var mnemonic = "original giggle play day aware fruit three mom supreme butter warrior airport";
+var mnemonic = "lumber marble topple noble below favorite canoe bus violin huge valve winner";

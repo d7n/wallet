@@ -1,1 +1,1 @@
-var mnemonic = "dove draft pilot enlist copy usual equal quiz disorder amateur demise agent";
+var mnemonic = "thing hat library stock bike tobacco sock exhaust siege isolate horse bomb";

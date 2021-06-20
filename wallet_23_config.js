@@ -1,1 +1,1 @@
-var mnemonic = "punch ice major view phone alpha bonus comfort husband kick carpet cram";
+var mnemonic = "recall marriage fitness evoke witness able sketch edit caught guide weapon bacon";

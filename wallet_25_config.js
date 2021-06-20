@@ -1,1 +1,1 @@
-var mnemonic = "grab smooth skirt traffic fun myth rule thing festival lobster general deer";
+var mnemonic = "help mirror plunge link laugh point beef bounce sell replace program this";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan gown enter album rural teach tilt negative material protect season process";
+var mnemonic = "repeat security fish regret work tackle spike theme degree fall warm rib";

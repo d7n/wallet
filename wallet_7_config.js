@@ -1,1 +1,1 @@
-var mnemonic = "inhale vocal easy write loop danger gauge park soda decade vague solid";
+var mnemonic = "tail render memory crouch decide current scorpion athlete orient cheese zoo brown";

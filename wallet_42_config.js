@@ -1,1 +1,1 @@
-var mnemonic = "small gap amused forum mobile burden they also obvious core extra state";
+var mnemonic = "system tornado warfare flip jealous sister half outdoor normal ankle organ attack";

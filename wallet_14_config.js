@@ -1,1 +1,1 @@
-var mnemonic = "raw fish alarm pass sadness language grab reform scale custom term place";
+var mnemonic = "false curtain city become expand fire album power hurt weather coral trial";

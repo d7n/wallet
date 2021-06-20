@@ -1,1 +1,1 @@
-var mnemonic = "sponsor winter blossom pond border baby girl suspect flight bright uncle toilet";
+var mnemonic = "walnut increase boil squeeze equal mistake art smart half such three milk";

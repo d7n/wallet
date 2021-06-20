@@ -1,1 +1,1 @@
-var mnemonic = "length labor grape pass discover fan tongue disorder south youth vapor father";
+var mnemonic = "impulse cotton width nature filter pencil reduce artist joy parade clown inmate";

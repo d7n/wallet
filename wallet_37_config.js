@@ -1,1 +1,1 @@
-var mnemonic = "suggest broom perfect fossil skin beef tonight stomach summer extend unable keen";
+var mnemonic = "kid grape shrug gift junk rabbit become expect ticket blur mutual crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket organ addict snap flock index illegal ecology bench empty latin lobster";
+var mnemonic = "remind lesson balcony fish aisle effort expire dad carry maximum multiply client";

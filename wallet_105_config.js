@@ -1,1 +1,1 @@
-var mnemonic = "width merry yard bounce guess analyst arm leisure circle trigger polar mad";
+var mnemonic = "glue odor news trouble matter shoe stuff desk blame credit helmet exotic";

@@ -1,1 +1,1 @@
-var mnemonic = "boat brick physical message grape tongue humor index police omit humble chief";
+var mnemonic = "waste circle average toss drink rate cram domain prepare erosion average globe";

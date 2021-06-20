@@ -1,1 +1,1 @@
-var mnemonic = "achieve odor world unable true jaguar salmon crew damage grain near inquiry";
+var mnemonic = "chef neglect giraffe hard must april drill render zoo enlist pink entire";

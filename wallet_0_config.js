@@ -1,1 +1,1 @@
-var mnemonic = "flash labor mechanic amateur mutual true assist kind brass trim cotton narrow";
+var mnemonic = "sight daughter fantasy crunch fatal fly city melody distance destroy service grass";

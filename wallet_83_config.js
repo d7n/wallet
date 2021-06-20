@@ -1,1 +1,1 @@
-var mnemonic = "tobacco river mechanic evil tuition journey olive curve wave demand rain actor";
+var mnemonic = "code slam nuclear blast shiver time ride accuse salon crowd detail excess";
