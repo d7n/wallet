@@ -1,1 +1,1 @@
-var mnemonic = "electric disease huge chase suggest city annual day report solve law rather";
+var mnemonic = "alcohol afraid busy half begin cook faith abstract cycle general banana will";

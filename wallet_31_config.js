@@ -1,1 +1,1 @@
-var mnemonic = "motor moment office faith hour empower spend doll lift link asset salad";
+var mnemonic = "collect drip note describe reward dumb film hurt caution boost royal olive";

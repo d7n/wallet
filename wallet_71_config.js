@@ -1,1 +1,1 @@
-var mnemonic = "artwork unusual basket diagram loan easy amazing symbol robust mention venture maximum";
+var mnemonic = "wheel right obvious prepare audit ill yard uphold differ minute together cinnamon";

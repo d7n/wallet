@@ -1,1 +1,1 @@
-var mnemonic = "talent stuff coast limb chef bulk three crumble width design panel gaze";
+var mnemonic = "fold pink coast eyebrow finish mammal transfer wink bright seek eyebrow castle";

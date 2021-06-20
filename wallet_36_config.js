@@ -1,1 +1,1 @@
-var mnemonic = "quote better slim guard legal reform bubble purity yard mesh cost confirm";
+var mnemonic = "dynamic spirit problem story apple vast twist capital struggle opinion settle gap";

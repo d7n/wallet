@@ -1,1 +1,1 @@
-var mnemonic = "claim meat unknown rude cotton float father else cream member afraid version";
+var mnemonic = "polar radio crisp marine also use penalty special word camera throw case";

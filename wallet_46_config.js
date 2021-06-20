@@ -1,1 +1,1 @@
-var mnemonic = "uniform job come current seek blood mix history wish moral frame fan";
+var mnemonic = "muscle athlete confirm flush badge spoon quiz work remove sudden head salon";

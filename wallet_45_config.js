@@ -1,1 +1,1 @@
-var mnemonic = "pool base track suggest canal kit inquiry can frozen faint rescue betray";
+var mnemonic = "mammal movie bachelor praise general believe happy brush buffalo fog modify purity";

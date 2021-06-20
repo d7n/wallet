@@ -1,1 +1,1 @@
-var mnemonic = "rice response strike accuse version pigeon fat problem middle speak cactus bone";
+var mnemonic = "celery genuine mobile exchange slim rival tonight lady hybrid option coconut report";

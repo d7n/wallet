@@ -1,1 +1,1 @@
-var mnemonic = "cook spare exit unveil trophy item silver south poverty reflect kiwi vacuum";
+var mnemonic = "strike caught still truth head capable diary trash labor eager cry feel";

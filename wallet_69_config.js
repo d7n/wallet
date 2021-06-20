@@ -1,1 +1,1 @@
-var mnemonic = "cup upper breeze unit flush grab film water pilot armor shrug umbrella";
+var mnemonic = "together quick perfect balance price trouble snake ostrich exchange spirit order slice";

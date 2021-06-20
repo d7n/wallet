@@ -1,1 +1,1 @@
-var mnemonic = "primary hungry opera divide term stove veteran much fly middle teach icon";
+var mnemonic = "step mistake luggage insane hint flee denial plug general produce shoulder street";

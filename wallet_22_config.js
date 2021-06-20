@@ -1,1 +1,1 @@
-var mnemonic = "juice egg canal giraffe dawn ivory thumb enact crop velvet client huge";
+var mnemonic = "all erosion hospital flip infant antenna rebuild bid general august ahead cargo";

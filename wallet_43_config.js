@@ -1,1 +1,1 @@
-var mnemonic = "trick believe mango loop warrior burst office plastic zoo holiday sweet slush";
+var mnemonic = "lift twelve cube abandon appear injury mushroom clinic ride beyond distance december";

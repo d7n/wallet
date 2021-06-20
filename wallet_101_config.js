@@ -1,1 +1,1 @@
-var mnemonic = "shaft air exclude goat happy violin coin huge dawn glance various miracle";
+var mnemonic = "iron season gold side beach critic broccoli access net thunder trip surround";

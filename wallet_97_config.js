@@ -1,1 +1,1 @@
-var mnemonic = "hello gas spirit moral palace flee grant purse clinic chest power call";
+var mnemonic = "butter forest you pioneer approve version nerve grief sing focus bitter art";

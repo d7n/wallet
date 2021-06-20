@@ -1,1 +1,1 @@
-var mnemonic = "unusual donkey keep view draw shiver merry enhance sister mango river vital";
+var mnemonic = "approve simple coil symptom armor sister wrong damage flag moral warfare festival";

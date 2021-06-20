@@ -1,1 +1,1 @@
-var mnemonic = "impulse lady climb elite still great water sustain kid shoulder cancel foil";
+var mnemonic = "smoke coin leisure bronze employ fashion hill fix nerve rocket game announce";

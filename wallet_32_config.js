@@ -1,1 +1,1 @@
-var mnemonic = "impact lonely fiscal tumble balcony sunny lesson wall indicate cricket cube lottery";
+var mnemonic = "fetch crane pyramid universe poverty grass thunder stay busy amateur liquid october";

@@ -1,1 +1,1 @@
-var mnemonic = "because affair because joke much razor order fly annual battle fault ordinary";
+var mnemonic = "wing repair universe update multiply crisp tissue soup chuckle table best angle";

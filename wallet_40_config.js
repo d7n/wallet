@@ -1,1 +1,1 @@
-var mnemonic = "resource that attitude idea kick ranch member rely rally rival math party";
+var mnemonic = "evidence electric chimney manage shallow guitar water green action foster thank rapid";

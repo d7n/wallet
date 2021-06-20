@@ -1,1 +1,1 @@
-var mnemonic = "salad allow hospital layer steel hello chair buffalo group pipe simple antique";
+var mnemonic = "salute bracket open check endorse siege notable crane shadow scan battle dash";

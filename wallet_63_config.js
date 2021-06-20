@@ -1,1 +1,1 @@
-var mnemonic = "atom guide seminar weasel market switch oyster error deer grunt night say";
+var mnemonic = "power render seminar live pencil cup ensure image quarter window ceiling glide";

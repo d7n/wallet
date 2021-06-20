@@ -1,1 +1,1 @@
-var mnemonic = "tongue fragile radar pond put company square slice quality soul note jacket";
+var mnemonic = "shoe spread swear treat maid ignore mule vital certain cupboard fall frog";

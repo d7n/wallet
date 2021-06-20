@@ -1,1 +1,1 @@
-var mnemonic = "great play success material decide clerk thing burden photo body atom impose";
+var mnemonic = "vapor pistol safe fee expand glance pretty scare claim abandon blue liberty";

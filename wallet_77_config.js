@@ -1,1 +1,1 @@
-var mnemonic = "canal gorilla gain wage hospital manage border order settle abuse ice space";
+var mnemonic = "sun gain flower census family safe damage usage security desert response brush";

@@ -1,1 +1,1 @@
-var mnemonic = "beach hunt nothing escape true case exotic soft pelican erupt knock alarm";
+var mnemonic = "dolphin vapor onion limb entire awful there stadium coral judge emerge wheat";

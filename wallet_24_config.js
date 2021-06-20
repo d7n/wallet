@@ -1,1 +1,1 @@
-var mnemonic = "scare lunar journey gift else start smoke smoke vintage pet frost rhythm";
+var mnemonic = "camp smoke salute inflict tent scare turkey leave limb harsh reason afraid";

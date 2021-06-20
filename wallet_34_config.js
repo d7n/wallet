@@ -1,1 +1,1 @@
-var mnemonic = "pond cook still patrol intact little torch amazing nephew collect tide shiver";
+var mnemonic = "tilt race among ceiling delay pride strategy grid smart employ keen mail";

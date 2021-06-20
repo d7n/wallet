@@ -1,1 +1,1 @@
-var mnemonic = "venue return history sleep shuffle fee museum stomach enhance chef fault document";
+var mnemonic = "already pipe auto twenty parent draw engine nation page audit hurdle inch";

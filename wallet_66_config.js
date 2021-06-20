@@ -1,1 +1,1 @@
-var mnemonic = "caution pottery style various banner false only route scissors clinic ranch inject";
+var mnemonic = "cup false dawn walnut cattle very donor usage pepper skate pilot betray";

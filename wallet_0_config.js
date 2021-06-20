@@ -1,1 +1,1 @@
-var mnemonic = "cliff snow repair resource swallow chicken boil call gaze envelope blossom gentle";
+var mnemonic = "silk symptom cherry win bike trip hill abandon sail invest market tool";

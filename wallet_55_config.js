@@ -1,1 +1,1 @@
-var mnemonic = "quote shiver yellow humor young student resist fog awkward aerobic divorce echo";
+var mnemonic = "path object cup uncover diamond cement pact grief improve used aware unaware";

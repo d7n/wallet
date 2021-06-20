@@ -1,1 +1,1 @@
-var mnemonic = "venture various van rocket assist tool you champion knife solution can team";
+var mnemonic = "green appear sudden slush muffin similar govern march fork try lawsuit recycle";

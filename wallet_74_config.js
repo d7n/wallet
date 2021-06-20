@@ -1,1 +1,1 @@
-var mnemonic = "final latin total jewel client taxi lonely unusual deny flavor island zoo";
+var mnemonic = "wrap behave panic expose off glove divorce happy crane forum kid shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "village title remember steak cliff shy often lawsuit depend banana tilt praise";
+var mnemonic = "uncover detail spoon alter nerve state reward sick damp manage retreat trick";

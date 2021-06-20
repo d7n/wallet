@@ -1,1 +1,1 @@
-var mnemonic = "cube flip stone deposit witness carpet super axis place glare what topic";
+var mnemonic = "peace borrow gas midnight own slogan before safe ice promote canyon receive";

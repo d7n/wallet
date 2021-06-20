@@ -1,1 +1,1 @@
-var mnemonic = "blouse body pill security alter frost when remove mammal sugar taste crater";
+var mnemonic = "front marriage tree october naive foot result snake lamp spend enhance achieve";

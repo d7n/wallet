@@ -1,1 +1,1 @@
-var mnemonic = "rain later tonight embark celery turkey casino jealous crumble eyebrow sugar load";
+var mnemonic = "upgrade before seat comic poet victory tiny actress trap caution neck blood";

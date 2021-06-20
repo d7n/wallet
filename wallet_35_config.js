@@ -1,1 +1,1 @@
-var mnemonic = "pottery garden dinosaur student reason noodle bottom much scale belt alter panda";
+var mnemonic = "curtain vague feature broccoli town object habit wide tool length mountain since";

@@ -1,1 +1,1 @@
-var mnemonic = "tell lend energy pave item donate flash below cupboard gown memory stage";
+var mnemonic = "mixed fantasy marble space satisfy hill glue wall shallow hungry series drift";

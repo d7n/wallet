@@ -1,1 +1,1 @@
-var mnemonic = "sausage lesson topic gentle soccer surround sheriff build flat any mother antenna";
+var mnemonic = "height detect ancient aim letter canvas muscle deputy mystery three false celery";

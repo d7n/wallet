@@ -1,1 +1,1 @@
-var mnemonic = "input few village kidney spot yard twice minute hire fix wasp improve";
+var mnemonic = "carpet describe arrow lava awkward large whisper question drink symbol cliff shoe";

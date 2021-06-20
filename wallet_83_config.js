@@ -1,1 +1,1 @@
-var mnemonic = "gentle write field mountain speak clown track wall around produce beach happy";
+var mnemonic = "dirt drive write sea bleak daughter correct mechanic deal shrimp already rocket";

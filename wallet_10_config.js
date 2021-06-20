@@ -1,1 +1,1 @@
-var mnemonic = "appear bulb host betray addict salt weather window property camp eight claim";
+var mnemonic = "ill bench art have huge situate this charge shuffle flat combine bring";

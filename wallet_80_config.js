@@ -1,1 +1,1 @@
-var mnemonic = "leave giant category remember eagle salmon keen cloud car sword honey country";
+var mnemonic = "soup evoke reunion cook cereal soccer chapter label now ship first sport";

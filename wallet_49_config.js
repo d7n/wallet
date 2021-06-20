@@ -1,1 +1,1 @@
-var mnemonic = "century produce silver devote civil girl vessel actual final predict must diary";
+var mnemonic = "dizzy arrest nuclear beyond deny shy climb curtain interest rack ramp evidence";

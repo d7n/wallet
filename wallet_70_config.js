@@ -1,1 +1,1 @@
-var mnemonic = "chief music omit decade faculty chronic hope curve rocket stamp involve method";
+var mnemonic = "intact advance afford mom alcohol network monkey bread capable movie either twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "come fence bridge element solve another voice nasty broccoli utility master member";
+var mnemonic = "napkin mom tattoo pear boat together giant strategy what online enroll tank";

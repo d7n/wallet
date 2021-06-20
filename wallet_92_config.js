@@ -1,1 +1,1 @@
-var mnemonic = "world ivory enjoy release task canal pigeon deal nation aisle gaze boss";
+var mnemonic = "improve pulse there find entry talk true cricket venue vast desk filter";

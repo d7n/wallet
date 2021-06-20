@@ -1,1 +1,1 @@
-var mnemonic = "skin fossil fine scare guard budget senior oxygen cricket fatal lumber guard";
+var mnemonic = "add property tenant vacant adult suspect wish away then rifle penalty require";

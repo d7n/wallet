@@ -1,1 +1,1 @@
-var mnemonic = "stock coconut bone fortune scheme trap volume install ginger brisk whale kidney";
+var mnemonic = "scorpion item night auction charge annual found remind pull vacuum erase nerve";

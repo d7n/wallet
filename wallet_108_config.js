@@ -1,1 +1,1 @@
-var mnemonic = "worry response thought soccer fence cabin inherit anxiety keen banana company vital";
+var mnemonic = "bid mercy casino unlock gasp trash perfect tobacco skull lab unfair yard";

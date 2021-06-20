@@ -1,1 +1,1 @@
-var mnemonic = "goddess evil library disease patrol off people helmet adult apology release immense";
+var mnemonic = "rude spin tail hill future flight glimpse autumn hybrid that bottom trick";

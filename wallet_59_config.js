@@ -1,1 +1,1 @@
-var mnemonic = "offer fringe sudden fit rapid seek frown gather caution item fix genuine";
+var mnemonic = "surge photo erase siren camp come grit earth move gallery limit impulse";

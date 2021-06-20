@@ -1,1 +1,1 @@
-var mnemonic = "piece usual burger mail rich prepare marble bind buddy police special scrap";
+var mnemonic = "surround country unhappy winner mushroom visa stick nurse hurt space sad hello";

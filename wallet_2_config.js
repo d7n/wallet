@@ -1,1 +1,1 @@
-var mnemonic = "van slot prize cluster fish flight juice sun pass toe detect industry";
+var mnemonic = "forward approve catch cannon scrap card build cross stool word long paper";

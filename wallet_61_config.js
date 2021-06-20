@@ -1,1 +1,1 @@
-var mnemonic = "alcohol want drastic runway then mass pool mobile invest blue stable airport";
+var mnemonic = "network real idle organ sound clog curtain hold blood require illness stock";

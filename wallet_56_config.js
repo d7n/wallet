@@ -1,1 +1,1 @@
-var mnemonic = "wine injury fringe unveil lend save snap process happy someone decide open";
+var mnemonic = "exit load trend spread dose creek fork excess like dwarf purchase riot";

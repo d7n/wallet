@@ -1,1 +1,1 @@
-var mnemonic = "what feature era renew candy walnut junk popular spoil learn post despair";
+var mnemonic = "reduce bonus present town narrow only fiction normal enemy inspire school increase";

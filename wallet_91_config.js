@@ -1,1 +1,1 @@
-var mnemonic = "element plate taste light hen stable spray video corn whip join surround";
+var mnemonic = "regular law dawn offer raise road grief imitate over term trick spare";

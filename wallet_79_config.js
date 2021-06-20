@@ -1,1 +1,1 @@
-var mnemonic = "hard october jaguar provide rely art vote unknown someone trigger diesel weapon";
+var mnemonic = "short execute wild town weird inhale enough chef quantum goose text people";

@@ -1,1 +1,1 @@
-var mnemonic = "wait moment swallow toss shock wreck december guilt wonder tube add camera";
+var mnemonic = "dinosaur meadow monster section figure hybrid stable abuse crane attend eight seven";

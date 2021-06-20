@@ -1,1 +1,1 @@
-var mnemonic = "ring among medal ahead disease cart scare pelican summer advance ring open";
+var mnemonic = "table call album blind idea address square clean betray zone identify mule";

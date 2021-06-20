@@ -1,1 +1,1 @@
-var mnemonic = "faith spoon reason upon certain ancient describe permit library assault erode tragic";
+var mnemonic = "car tone purpose fat kid exotic calm toss excess eight industry speak";

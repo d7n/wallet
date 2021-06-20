@@ -1,1 +1,1 @@
-var mnemonic = "bounce patch pencil blue point receive walnut jelly betray hockey assume leaf";
+var mnemonic = "scrub warfare young dwarf insane segment embody basket uncover define half hurry";

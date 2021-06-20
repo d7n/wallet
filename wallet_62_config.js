@@ -1,1 +1,1 @@
-var mnemonic = "picnic arm foil corn income account sausage shed verify state catch private";
+var mnemonic = "jungle discover path shadow roof rural old over transfer lab destroy style";

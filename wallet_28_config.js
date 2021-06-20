@@ -1,1 +1,1 @@
-var mnemonic = "artefact vintage lumber document receive few robust entire frost echo mechanic neglect";
+var mnemonic = "neither street kid win shy hard spare beef under hollow curious pyramid";

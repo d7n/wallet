@@ -1,1 +1,1 @@
-var mnemonic = "version never shield lounge bachelor canvas ramp dance december fiscal genuine rally";
+var mnemonic = "track unfold subject begin have crush great clutch any milk suspect notable";

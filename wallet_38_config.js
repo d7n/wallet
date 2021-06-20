@@ -1,1 +1,1 @@
-var mnemonic = "approve flush question write fruit job disorder sword august next deliver lion";
+var mnemonic = "fortune course chief piano charge chair sell chase faint guess fury key";

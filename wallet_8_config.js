@@ -1,1 +1,1 @@
-var mnemonic = "anger start top grape matrix basket inform copper bench holiday time cereal";
+var mnemonic = "patch real inherit congress box guide manual trust select illness warfare royal";

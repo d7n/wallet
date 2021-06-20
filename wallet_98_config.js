@@ -1,1 +1,1 @@
-var mnemonic = "provide capable riot city flight waste super truth piece retire lamp uncle";
+var mnemonic = "dance program road leg tourist fade alpha quote refuse nest slush inhale";

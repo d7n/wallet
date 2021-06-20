@@ -1,1 +1,1 @@
-var mnemonic = "fork photo pact argue differ turkey loud tourist absent spread equal scorpion";
+var mnemonic = "cement trick fatal exchange human volcano laugh force tank vault country hat";

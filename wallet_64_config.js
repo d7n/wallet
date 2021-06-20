@@ -1,1 +1,1 @@
-var mnemonic = "whip basic powder want dragon child turkey indicate rich vapor start spider";
+var mnemonic = "creek foot mind knock expect glare just orbit eagle nut enact embody";

@@ -1,1 +1,1 @@
-var mnemonic = "unit fine genre wild oxygen planet cool frame fire guilt theory fame";
+var mnemonic = "rally valley shadow unlock month ankle moral lobster wage kid quality omit";

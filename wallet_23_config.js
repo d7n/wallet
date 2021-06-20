@@ -1,1 +1,1 @@
-var mnemonic = "vessel endless gospel smoke slender identify sweet dust tone ensure coconut domain";
+var mnemonic = "dice drum annual eyebrow garbage gown expose office ugly style rifle avocado";

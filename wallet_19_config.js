@@ -1,1 +1,1 @@
-var mnemonic = "guess gas replace assist amount advice brain nuclear clock lady inside offer";
+var mnemonic = "cart joke april type hen reject library suit nominee clock auction gain";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage ripple salon faith umbrella jewel taste muscle space recycle describe science";
+var mnemonic = "way picture raw garlic bargain sing defense cheap debris depth cushion fine";

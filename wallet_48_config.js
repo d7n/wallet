@@ -1,1 +1,1 @@
-var mnemonic = "choose seek tobacco among unknown lecture sustain divorce tank exhibit gift step";
+var mnemonic = "erupt visit outdoor lunch nasty ship mention radar meadow element woman tip";

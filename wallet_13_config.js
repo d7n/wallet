@@ -1,1 +1,1 @@
-var mnemonic = "lunar churn sun major pear fatal bulk yard remove uniform exchange thing";
+var mnemonic = "note rally orchard waste ostrich story real quit resemble weather diamond call";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney knock draw express fan connect radar typical oak primary return elder";
+var mnemonic = "abstract bridge tomorrow mirror harvest vast card shrug promote artist curve insane";

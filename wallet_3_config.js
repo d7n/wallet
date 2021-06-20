@@ -1,1 +1,1 @@
-var mnemonic = "major era quantum old absurd kitchen bottom rich goose flee relax morning";
+var mnemonic = "camera squeeze cruel trash category stem bamboo tip way roof volcano token";

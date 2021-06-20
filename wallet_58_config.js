@@ -1,1 +1,1 @@
-var mnemonic = "warm ketchup cross ride segment solution aim scrap slice asthma parent evolve";
+var mnemonic = "kite smart entire dragon symbol bind fire during avocado tackle cinnamon multiply";

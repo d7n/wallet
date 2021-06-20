@@ -1,1 +1,1 @@
-var mnemonic = "endless bench bridge bleak chase nasty expose pear melody radio pear hat";
+var mnemonic = "note valve yard dirt shrug despair ring trust explain cherry climb derive";

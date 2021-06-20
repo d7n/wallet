@@ -1,1 +1,1 @@
-var mnemonic = "thunder gravity economy detail cook crystal detail sunset limb hamster increase fiber";
+var mnemonic = "refuse together outside phone oval canvas rebuild omit monkey kid gold depth";

@@ -1,1 +1,1 @@
-var mnemonic = "two tattoo repair news venue double tired cradle cement scrap velvet subject";
+var mnemonic = "black detail width dash man term advance lounge obvious sudden local half";

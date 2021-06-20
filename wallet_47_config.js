@@ -1,1 +1,1 @@
-var mnemonic = "party camera sister dry execute ocean mouse exhibit produce flock main share";
+var mnemonic = "route million neglect eternal good jelly flavor sadness busy ribbon main obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "news surround job album enjoy fat glide normal damage snap transfer cabin";
+var mnemonic = "isolate level garage rival since general define license six must pledge say";

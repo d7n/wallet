@@ -1,1 +1,1 @@
-var mnemonic = "version trim involve globe admit moon settle pioneer place hedgehog assault horror";
+var mnemonic = "warrior mother glass movie charge expect inspire flavor cinnamon enforce song pilot";

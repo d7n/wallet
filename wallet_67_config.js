@@ -1,1 +1,1 @@
-var mnemonic = "index tribe math juice purchase plastic ring reward element link guard rack";
+var mnemonic = "weather cricket patient matrix sea check hollow pole expand target blue inform";

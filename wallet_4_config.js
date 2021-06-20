@@ -1,1 +1,1 @@
-var mnemonic = "grace fossil cash diagram first room rib beef truth area huge round";
+var mnemonic = "cycle moon noodle salute settle dismiss bread travel device nephew capital auction";

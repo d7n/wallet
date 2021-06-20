@@ -1,1 +1,1 @@
-var mnemonic = "supply awful raise anchor wisdom fever style inform extra mother margin cry";
+var mnemonic = "section tattoo agent album debris jazz online cake expose original grunt wave";

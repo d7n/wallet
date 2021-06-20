@@ -1,1 +1,1 @@
-var mnemonic = "garden more echo moon teach spread opera drop swear foam welcome allow";
+var mnemonic = "pioneer tray flag what hollow excess bicycle holiday road scissors coffee garbage";

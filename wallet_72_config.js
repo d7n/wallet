@@ -1,1 +1,1 @@
-var mnemonic = "daring alarm trial north swift moral session gentle topple sudden arm unfold";
+var mnemonic = "fog riot mule negative grape know diary sure soap impact chunk atom";
