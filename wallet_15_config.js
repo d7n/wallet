@@ -1,1 +1,1 @@
-var mnemonic = "viable review robust leisure repeat turn loop fluid odor inspire ribbon forget";
+var mnemonic = "custom shield accident blush master measure pond glimpse domain claim portion confirm";

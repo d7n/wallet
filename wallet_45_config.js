@@ -1,1 +1,1 @@
-var mnemonic = "wear script kitten cage alien immense process pipe domain escape submit perfect";
+var mnemonic = "happy run fit salt couple banner aim purpose river pause easy cloud";

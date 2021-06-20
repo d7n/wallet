@@ -1,1 +1,1 @@
-var mnemonic = "palm margin loan rapid dilemma rubber disease forget pink adjust glue liberty";
+var mnemonic = "rain alien razor wheel warm uphold round miss salute among left cradle";

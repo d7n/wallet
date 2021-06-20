@@ -1,1 +1,1 @@
-var mnemonic = "reveal cabin song flight perfect raven creek visa escape repair couple finger";
+var mnemonic = "liquid battle volume nephew amateur chair obey equip giraffe repair sunny ridge";

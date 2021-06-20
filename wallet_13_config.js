@@ -1,1 +1,1 @@
-var mnemonic = "alert wheel hand inch hurry garment sketch alert leader bicycle turtle differ";
+var mnemonic = "when peanut regret rack work affair permit assume firm chief gun first";

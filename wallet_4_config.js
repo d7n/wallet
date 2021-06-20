@@ -1,1 +1,1 @@
-var mnemonic = "grant dismiss salt weasel select hybrid coral oval neglect casual problem review";
+var mnemonic = "below reunion bind devote spend arch menu foil horse share spend foot";

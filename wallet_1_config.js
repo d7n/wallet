@@ -1,1 +1,1 @@
-var mnemonic = "syrup bullet remove logic cram cancel hospital shine kick artefact clinic stem";
+var mnemonic = "side genius screen talk monster apology fiber bullet artwork piece ensure muscle";

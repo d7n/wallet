@@ -1,1 +1,1 @@
-var mnemonic = "ice winter tail bag embody february gun category member toast fossil tent";
+var mnemonic = "cousin cigar charge rocket inflict detect target stock gesture scene trap little";

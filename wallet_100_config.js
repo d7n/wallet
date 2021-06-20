@@ -1,1 +1,1 @@
-var mnemonic = "tonight shoulder olympic orient outside retire move choice foster swing fiction reopen";
+var mnemonic = "manage runway odor input review language moment gauge wool merge wool below";

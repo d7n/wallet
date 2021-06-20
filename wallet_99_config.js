@@ -1,1 +1,1 @@
-var mnemonic = "eagle say tone distance member beef vote afford lava sand engage zoo";
+var mnemonic = "farm trigger wheel frozen bronze north tonight brave erode noodle torch vanish";

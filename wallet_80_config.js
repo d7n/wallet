@@ -1,1 +1,1 @@
-var mnemonic = "simple betray waste turtle focus short advance tired foot desk device scare";
+var mnemonic = "flash pilot must box coin immune screen aerobic soldier market short below";

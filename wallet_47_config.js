@@ -1,1 +1,1 @@
-var mnemonic = "undo vote topple gold timber unit edit apple teach drop protect scan";
+var mnemonic = "audit rose garlic skull color illegal oven clump ride behind fury letter";

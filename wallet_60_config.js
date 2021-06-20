@@ -1,1 +1,1 @@
-var mnemonic = "train mansion pig split scrub thumb once stick report female raw thunder";
+var mnemonic = "rail unfold prison neither ride symbol innocent gym ripple mother enable tray";

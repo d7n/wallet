@@ -1,1 +1,1 @@
-var mnemonic = "wrestle proud improve first type toilet catalog arrest pet concert element tip";
+var mnemonic = "scissors shift wink buffalo notice exhaust point rain shield iron front world";

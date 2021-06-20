@@ -1,1 +1,1 @@
-var mnemonic = "essay blast cousin monkey buzz fantasy step cool divorce february rail water";
+var mnemonic = "drum brand thought plate surprise donor muscle unfair avoid taxi accident strong";

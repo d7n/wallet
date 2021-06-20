@@ -1,1 +1,1 @@
-var mnemonic = "patient night quit talent use hip column century jazz like first sunny";
+var mnemonic = "hammer fan child much position rate brush coyote motor charge level swap";

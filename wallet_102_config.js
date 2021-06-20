@@ -1,1 +1,1 @@
-var mnemonic = "clinic renew world street dad lawsuit train mango cliff liberty pitch click";
+var mnemonic = "tomato proof hospital indoor mutual lift index invite avocado switch budget plunge";

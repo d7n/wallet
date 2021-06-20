@@ -1,1 +1,1 @@
-var mnemonic = "clean echo liberty rice lift usual sight stem hobby unaware father polar";
+var mnemonic = "despair cat design battle next chuckle describe tone timber mushroom hello exclude";

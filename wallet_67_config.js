@@ -1,1 +1,1 @@
-var mnemonic = "employ cool claim stick vast advice marriage wonder essay congress exercise knock";
+var mnemonic = "you leopard annual trigger leader pluck fine tourist hybrid nothing element depart";

@@ -1,1 +1,1 @@
-var mnemonic = "share baby twenty clutch adult mechanic tank blur inhale margin rabbit biology";
+var mnemonic = "cute good draw vacant toe try ring library antique negative hamster margin";

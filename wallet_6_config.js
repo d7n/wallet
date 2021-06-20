@@ -1,1 +1,1 @@
-var mnemonic = "plastic stuff web tilt excuse truth wash arctic weird donate plate orphan";
+var mnemonic = "neutral ignore lion reason ship elbow refuse divert flee fabric lend hidden";

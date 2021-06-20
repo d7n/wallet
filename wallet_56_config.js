@@ -1,1 +1,1 @@
-var mnemonic = "clinic cement diary image text security other pause flock castle present film";
+var mnemonic = "october patch remain pave desert ensure rookie salmon noise material tape pulp";

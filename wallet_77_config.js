@@ -1,1 +1,1 @@
-var mnemonic = "pony festival flight dirt minimum section model win dignity disagree soon frequent";
+var mnemonic = "torch lottery sock spray alarm clock identify broccoli imitate write shell laundry";

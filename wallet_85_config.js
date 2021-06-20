@@ -1,1 +1,1 @@
-var mnemonic = "hunt sample secret labor hungry multiply side grain choice sugar reveal below";
+var mnemonic = "allow stamp near naive practice coffee vacant bench student true gate sell";

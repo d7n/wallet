@@ -1,1 +1,1 @@
-var mnemonic = "story element old law alien unhappy hat busy diary film rocket mistake";
+var mnemonic = "learn photo glad cycle cash summer chase resemble flee crowd trade network";

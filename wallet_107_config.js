@@ -1,1 +1,1 @@
-var mnemonic = "notable fine position fossil father dirt egg fame retire stone wish note";
+var mnemonic = "stool liberty solve world unhappy chef power solution faculty melody force cannon";

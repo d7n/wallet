@@ -1,1 +1,1 @@
-var mnemonic = "someone release style rabbit gauge snow render tent potato suffer pioneer raven";
+var mnemonic = "wood maximum vessel tattoo poet album sorry salt cactus dry faint clump";

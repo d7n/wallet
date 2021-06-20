@@ -1,1 +1,1 @@
-var mnemonic = "cream silver glue spy cook supreme lift soul clog flush shoot arm";
+var mnemonic = "cruise sausage gown cube afraid glory train normal six dress attend carbon";

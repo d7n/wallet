@@ -1,1 +1,1 @@
-var mnemonic = "acoustic bonus canal plunge online liar sick absent concert real cruel silent";
+var mnemonic = "ask nice obscure useful top ecology crime coin cigar better arrest omit";

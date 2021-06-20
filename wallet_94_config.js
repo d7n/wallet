@@ -1,1 +1,1 @@
-var mnemonic = "latin actor shell robust hurdle exit evidence cart lift device excess practice";
+var mnemonic = "sausage upgrade dress accident talent spice coffee broom grain artefact crunch dad";

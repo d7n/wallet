@@ -1,1 +1,1 @@
-var mnemonic = "surge transfer buyer fee govern confirm crunch note echo enhance grit orient";
+var mnemonic = "fat habit loan shadow bicycle simple grow panic pony mask torch liberty";

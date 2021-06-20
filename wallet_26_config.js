@@ -1,1 +1,1 @@
-var mnemonic = "great share million effort stay tattoo census morning achieve opinion usual ribbon";
+var mnemonic = "luggage neutral credit decide shop violin paddle field shuffle taxi dinosaur local";

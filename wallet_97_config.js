@@ -1,1 +1,1 @@
-var mnemonic = "strike assault wine float panel logic split quarter blood point never original";
+var mnemonic = "merry enact alter ahead apart donor trash universe bonus emotion differ beauty";

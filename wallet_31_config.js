@@ -1,1 +1,1 @@
-var mnemonic = "parrot vanish nut melt gospel stomach advance basic antique frame glimpse echo";
+var mnemonic = "smooth slush stone dose later federal summer approve unfair brief lawn usage";

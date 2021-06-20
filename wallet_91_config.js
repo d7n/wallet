@@ -1,1 +1,1 @@
-var mnemonic = "ecology license coach chat fantasy cause drill sea tiny undo axis noodle";
+var mnemonic = "time plunge extend novel vendor robot farm puppy end disease noodle use";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn print scissors fine hip oyster canyon laundry update toddler correct planet";
+var mnemonic = "grow waste cross lamp hat banner monitor strong pave entire soup certain";

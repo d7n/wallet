@@ -1,1 +1,1 @@
-var mnemonic = "creek order train cheap grid matrix thumb educate fiscal nation pill hello";
+var mnemonic = "miss toss host retreat orbit shrimp wood frown black sweet steel vessel";

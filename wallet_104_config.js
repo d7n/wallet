@@ -1,1 +1,1 @@
-var mnemonic = "across leopard obey whale detail debris marble cabbage perfect style coyote fine";
+var mnemonic = "heavy lab lucky heavy unfold weird shift because canal dice file dentist";

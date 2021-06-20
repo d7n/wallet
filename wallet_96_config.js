@@ -1,1 +1,1 @@
-var mnemonic = "flat bean income cry decorate cloud rather cute season feature ready piece";
+var mnemonic = "peace slim solution industry brother arrow top health actress tower price family";

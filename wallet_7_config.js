@@ -1,1 +1,1 @@
-var mnemonic = "wood radio produce cactus hurry climb lake velvet country sibling lecture warrior";
+var mnemonic = "face hip ethics float baby tip pond dress method village hair artist";

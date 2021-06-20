@@ -1,1 +1,1 @@
-var mnemonic = "deputy maple autumn start payment million impose rack cute place poverty tent";
+var mnemonic = "sausage spoil eternal mention brush piece human diagram hard rug web now";

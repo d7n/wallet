@@ -1,1 +1,1 @@
-var mnemonic = "ostrich reflect fitness axis nominee oval later whale turkey blur quick office";
+var mnemonic = "crop describe present plate wrestle exhibit dash assume misery echo common spider";

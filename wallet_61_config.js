@@ -1,1 +1,1 @@
-var mnemonic = "divorce narrow kidney floor oven sand avoid give tide grape inside video";
+var mnemonic = "catalog shock glad tenant ocean toward eager general tomato symptom spider tired";

@@ -1,1 +1,1 @@
-var mnemonic = "top chimney prize method injury chase misery retire essay wrestle bundle approve";
+var mnemonic = "used kingdom token culture flock spread crawl bike dress athlete have blade";

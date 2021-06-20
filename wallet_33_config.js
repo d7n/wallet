@@ -1,1 +1,1 @@
-var mnemonic = "sponsor decide quit bright future pride usage cable slender tip plunge measure";
+var mnemonic = "marble ridge turkey motor patrol flock stove misery front burden dumb wealth";

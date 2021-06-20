@@ -1,1 +1,1 @@
-var mnemonic = "plate that tilt quote pelican ramp negative treat orchard service tunnel shed";
+var mnemonic = "genre choose senior umbrella light rough library clap bone typical enemy claim";

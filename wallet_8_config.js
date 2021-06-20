@@ -1,1 +1,1 @@
-var mnemonic = "duty amateur goose time jaguar produce enemy race hungry large wash horror";
+var mnemonic = "earn nuclear obtain puzzle pizza choose venue over screen merit drop thing";

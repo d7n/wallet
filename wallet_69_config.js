@@ -1,1 +1,1 @@
-var mnemonic = "convince dust gauge appear right kick mail setup upon waste make ten";
+var mnemonic = "regret cluster pave embody sick fruit bring luggage corn reward energy village";

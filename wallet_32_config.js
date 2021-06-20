@@ -1,1 +1,1 @@
-var mnemonic = "poem museum boil float pigeon caught tip middle art lend pride helmet";
+var mnemonic = "rebel dignity ring vapor castle slab trumpet army destroy comic chunk excess";

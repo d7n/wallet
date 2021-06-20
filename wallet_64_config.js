@@ -1,1 +1,1 @@
-var mnemonic = "maze half shine amazing hope coffee flight volume burst lift thought entire";
+var mnemonic = "pumpkin curious bread diamond rent civil coconut shy foil pride purity advance";

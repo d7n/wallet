@@ -1,1 +1,1 @@
-var mnemonic = "true collect love season pencil distance glue lady dial ripple mansion avocado";
+var mnemonic = "quit again perfect energy road bag observe maid regret jeans rubber cheap";

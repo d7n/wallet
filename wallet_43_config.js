@@ -1,1 +1,1 @@
-var mnemonic = "annual vacuum method recall bronze post staff output mimic position airport index";
+var mnemonic = "bitter brain skirt repeat spare dizzy music idle ensure goose hidden orchard";

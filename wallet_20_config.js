@@ -1,1 +1,1 @@
-var mnemonic = "shuffle sleep fever example brief replace lamp human shop rabbit rude february";
+var mnemonic = "critic chaos come until cause motion agree text village wood slot hen";

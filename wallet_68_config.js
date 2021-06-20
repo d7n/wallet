@@ -1,1 +1,1 @@
-var mnemonic = "tell try slogan oblige visit remain romance valid carpet easily cheap claim";
+var mnemonic = "ecology embrace engage hat fun paper search near economy work circle unknown";

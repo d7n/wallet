@@ -1,1 +1,1 @@
-var mnemonic = "slice adapt lab tattoo time expose decrease fossil clog inspire zero armed";
+var mnemonic = "tell nation bind sadness issue front praise nose cool barely rice mammal";

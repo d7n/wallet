@@ -1,1 +1,1 @@
-var mnemonic = "tape sphere remind second black notable wet jar fork cool hard valley";
+var mnemonic = "swim lawsuit snap swap morning favorite river cheese program machine child normal";

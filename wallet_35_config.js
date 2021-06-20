@@ -1,1 +1,1 @@
-var mnemonic = "prison sell floor deliver cousin equip dinosaur liquid edit advice antique scrap";
+var mnemonic = "picture bamboo cricket keep taste thrive wink unfold street wrestle lake retire";

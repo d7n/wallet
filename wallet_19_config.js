@@ -1,1 +1,1 @@
-var mnemonic = "curve area blue symbol borrow mouse globe clap garden doctor figure purity";
+var mnemonic = "weapon accident flight curve strategy divide fly nephew fantasy hidden blade network";

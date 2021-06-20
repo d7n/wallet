@@ -1,1 +1,1 @@
-var mnemonic = "room window brush shoe shiver timber movie evolve local moon drip seed";
+var mnemonic = "cotton glare mobile depart shallow there game high still swap exact fox";

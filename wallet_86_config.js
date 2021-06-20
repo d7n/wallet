@@ -1,1 +1,1 @@
-var mnemonic = "trash panic dizzy alert enemy ostrich female social soda worry conduct hurt";
+var mnemonic = "hockey grape movie nurse science later steak slice decrease silk forget tag";

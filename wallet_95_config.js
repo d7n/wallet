@@ -1,1 +1,1 @@
-var mnemonic = "outside moral soda lawsuit million comic food behind expire orient shrug brother";
+var mnemonic = "correct upgrade repeat endless food tube hybrid improve visa action melt plunge";

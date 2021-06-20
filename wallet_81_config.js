@@ -1,1 +1,1 @@
-var mnemonic = "million green aerobic jealous misery genre awkward another library resist choice pony";
+var mnemonic = "maid planet problem alpha balcony liquid rotate valid gown embody crime decade";

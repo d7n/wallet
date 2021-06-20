@@ -1,1 +1,1 @@
-var mnemonic = "one present wink faculty text cupboard cigar lucky bottom approve service focus";
+var mnemonic = "friend attitude panther stand twist blind thunder below civil dial brave view";

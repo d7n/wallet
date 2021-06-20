@@ -1,1 +1,1 @@
-var mnemonic = "tower decide danger exchange glass found sample ocean calm mechanic stamp inside";
+var mnemonic = "sail ball thumb raw syrup light nice dial mistake soldier parrot drastic";

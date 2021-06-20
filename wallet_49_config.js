@@ -1,1 +1,1 @@
-var mnemonic = "verb amateur ginger venture slight forum claw civil engine cheap choice puppy";
+var mnemonic = "hidden marble useful sister actress remove drop quit memory disorder witness kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "observe child stomach picnic april reopen aware bamboo couch cool brown call";
+var mnemonic = "ensure switch tennis awful kitten wild arena wish connect magnet add scorpion";

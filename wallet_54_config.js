@@ -1,1 +1,1 @@
-var mnemonic = "twenty nest sauce merge then frog divorce cloth rare vault reunion license";
+var mnemonic = "maid garbage brick begin bar shell odor large inject guitar nation wool";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor staff source strike tag still bunker issue fly scheme apple lift";
+var mnemonic = "night enrich second series object feel define grunt page copper orphan laundry";

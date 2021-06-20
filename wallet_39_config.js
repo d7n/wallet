@@ -1,1 +1,1 @@
-var mnemonic = "material donate struggle action risk rain guard tunnel festival liquid eight gossip";
+var mnemonic = "transfer target dutch curtain citizen cool task rich stand inch chef emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "what harvest antique lake together trade apple frost tackle couch robot mail";
+var mnemonic = "decide volcano ticket candy jealous fee mimic clarify defy tool process spoon";

@@ -1,1 +1,1 @@
-var mnemonic = "tide keen pen trophy ivory silk drift right penalty bargain shoulder vintage";
+var mnemonic = "pen jaguar main best fence artefact soup vote sound script wrist quarter";

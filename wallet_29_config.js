@@ -1,1 +1,1 @@
-var mnemonic = "edit myself knock model sustain extra loud cabin aware frost utility behind";
+var mnemonic = "require drastic forward attract rocket tenant false great damage leave main toilet";

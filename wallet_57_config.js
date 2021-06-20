@@ -1,1 +1,1 @@
-var mnemonic = "there toy south seven auction lizard accuse rack off grain laugh egg";
+var mnemonic = "daring state service dolphin super rebel sight thunder harbor kidney achieve submit";

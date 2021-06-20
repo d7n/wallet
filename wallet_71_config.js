@@ -1,1 +1,1 @@
-var mnemonic = "either duck pen coach online magnet used air ankle brand banana inform";
+var mnemonic = "artefact symptom brush keen cake zoo avoid act cheap dawn legal truth";

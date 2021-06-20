@@ -1,1 +1,1 @@
-var mnemonic = "lyrics nurse matrix minimum average guide happy law snake kite metal engage";
+var mnemonic = "ten curtain save sword hurt stomach video mercy pave during autumn lobster";

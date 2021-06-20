@@ -1,1 +1,1 @@
-var mnemonic = "any aim wrap staff modify digital trial letter ozone surge diesel cream";
+var mnemonic = "trim dentist begin lyrics weasel glory crisp gun vanish combine present staff";

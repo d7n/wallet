@@ -1,1 +1,1 @@
-var mnemonic = "rain excite boat angry couch document what divide accuse chimney burst disease";
+var mnemonic = "forget future welcome minimum tenant regular dog scan alarm question close bamboo";

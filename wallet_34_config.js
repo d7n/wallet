@@ -1,1 +1,1 @@
-var mnemonic = "march twice cupboard actor acquire inflict since tray town title endorse salt";
+var mnemonic = "menu dance reveal ghost youth buzz spawn intact rent live wait ride";

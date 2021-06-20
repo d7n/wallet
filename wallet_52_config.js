@@ -1,1 +1,1 @@
-var mnemonic = "motor palace person verify slim endorse abandon urban garage hospital castle camp";
+var mnemonic = "absent flat draw trust rare turn ship dismiss kingdom dentist sad weekend";

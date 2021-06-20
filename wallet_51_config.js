@@ -1,1 +1,1 @@
-var mnemonic = "easily address struggle barely few avocado wish twice medal rigid slice document";
+var mnemonic = "vendor chef asthma method improve saddle flag cheap hello people measure mule";
