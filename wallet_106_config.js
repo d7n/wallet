@@ -1,1 +1,1 @@
-var mnemonic = "urge item police despair dismiss atom type market cart federal crunch keep";
+var mnemonic = "mimic among kangaroo scan group pull repeat amazing sketch tired cake leg";

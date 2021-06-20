@@ -1,1 +1,1 @@
-var mnemonic = "provide survey wire dinosaur frost belt pride sentence siege zone winner rubber";
+var mnemonic = "story debate giggle shift advice blush hungry tongue enemy vanish mercy drip";

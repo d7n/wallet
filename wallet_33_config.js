@@ -1,1 +1,1 @@
-var mnemonic = "brick ceiling salmon canal nuclear attack trend observe view verb pumpkin either";
+var mnemonic = "pull execute eye length balcony winter toe oil ridge confirm arch trend";

@@ -1,1 +1,1 @@
-var mnemonic = "blur symbol history empower alarm various tomorrow auction chat horn arch liberty";
+var mnemonic = "pumpkin weekend cluster engage settle orchard cup city insane initial breeze devote";

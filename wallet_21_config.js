@@ -1,1 +1,1 @@
-var mnemonic = "flush reunion like camp broken game cinnamon bean enlist blossom velvet isolate";
+var mnemonic = "negative amateur federal million taxi speak razor shoot ranch lottery north matter";

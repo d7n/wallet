@@ -1,1 +1,1 @@
-var mnemonic = "enforce autumn stomach vivid drill rebel adult hint machine capital budget eye";
+var mnemonic = "divorce load spoil bind endless shiver west legal addict response market salad";

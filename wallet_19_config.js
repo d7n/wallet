@@ -1,1 +1,1 @@
-var mnemonic = "engine casual awake noble interest absent void crack off snack accuse case";
+var mnemonic = "labor flush outside test caught wheel knock sun camp bulb fan flush";

@@ -1,1 +1,1 @@
-var mnemonic = "genius shed network proud express myself game grain use hidden donor wheat";
+var mnemonic = "eagle panic pledge borrow peasant salt crawl club renew blame humble federal";

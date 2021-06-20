@@ -1,1 +1,1 @@
-var mnemonic = "afraid immune guide group wisdom kitchen blood section bean antenna palm trick";
+var mnemonic = "shove junk forum humor memory oppose oppose engine fork farm judge shoot";

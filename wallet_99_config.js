@@ -1,1 +1,1 @@
-var mnemonic = "stone pulp voyage oven crop leaf traffic connect inmate between raw urge";
+var mnemonic = "fossil region ride relief worth manage blame enlist breeze narrow hamster increase";

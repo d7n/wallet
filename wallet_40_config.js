@@ -1,1 +1,1 @@
-var mnemonic = "typical slush promote eight uncover aware review unique beach improve silk festival";
+var mnemonic = "carry post patch brush motion one coast demand any endless flip also";

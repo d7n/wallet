@@ -1,1 +1,1 @@
-var mnemonic = "manage dumb current job erupt mother bird version sleep tomato april castle";
+var mnemonic = "hurry interest claim labor sentence economy token under distance moment ability vintage";

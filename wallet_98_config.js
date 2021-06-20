@@ -1,1 +1,1 @@
-var mnemonic = "brain city expect horror input dog gate tag brass ahead winner empower";
+var mnemonic = "guard twist more better sad swing grocery original fox address orphan force";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb dust move royal silk echo museum tomato glass bamboo victory devote";
+var mnemonic = "remain toddler divert toss essay worry extra erode trip that sketch poet";

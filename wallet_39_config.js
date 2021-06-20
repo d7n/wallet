@@ -1,1 +1,1 @@
-var mnemonic = "tide figure train yellow tree wrong holiday scatter gun kangaroo thunder tattoo";
+var mnemonic = "range tired estate fire laugh theory fire bring kiss kiss oyster fresh";

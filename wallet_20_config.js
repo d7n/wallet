@@ -1,1 +1,1 @@
-var mnemonic = "dance age again merge fish ripple exact bubble frame consider chair roof";
+var mnemonic = "resist border winter tackle success fossil okay nature cake soldier wire curious";

@@ -1,1 +1,1 @@
-var mnemonic = "swing clarify ability double subway verify filter thing leave join borrow situate";
+var mnemonic = "hobby swing vote armed apology ski sense ready theme arrive rail dwarf";

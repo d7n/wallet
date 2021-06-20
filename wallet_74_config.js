@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon invest swift inmate mystery okay dinner guard awesome protect steak absorb";
+var mnemonic = "humor what combine fox february document nice teach degree naive ginger muffin";

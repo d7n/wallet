@@ -1,1 +1,1 @@
-var mnemonic = "process key craft know baby slice fiction library radar fantasy rain culture";
+var mnemonic = "kangaroo warm pave pulse worth say swear client crater section mail test";

@@ -1,1 +1,1 @@
-var mnemonic = "load brave burst design empower shove raccoon slush hurt tornado collect coil";
+var mnemonic = "flock ritual rather focus ripple panic hotel orchard near team output finger";

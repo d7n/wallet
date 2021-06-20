@@ -1,1 +1,1 @@
-var mnemonic = "walnut immense visa click unaware deputy version awake update exclude peanut series";
+var mnemonic = "kitchen crack first rival dry maple cloth nerve must equal black twenty";

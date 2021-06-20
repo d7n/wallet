@@ -1,1 +1,1 @@
-var mnemonic = "swarm fade film say oyster tourist fiscal slot zero mountain weapon front";
+var mnemonic = "nurse course father hero region decrease tumble fee squirrel payment blood logic";

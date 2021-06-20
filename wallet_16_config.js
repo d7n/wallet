@@ -1,1 +1,1 @@
-var mnemonic = "distance wood tide stove cost witness scout sheriff rude century van distance";
+var mnemonic = "dwarf skirt release pudding shoulder wedding gorilla act middle potato switch file";

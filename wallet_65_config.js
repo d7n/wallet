@@ -1,1 +1,1 @@
-var mnemonic = "local stand grow horn stove pause kite sketch common abstract monkey food";
+var mnemonic = "foster story transfer asthma able awkward type empower silver climb gym leaf";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling despair ensure peanut hover order wet silk update ginger uphold world";
+var mnemonic = "project large cement clay exit claw method tonight jump country nothing original";

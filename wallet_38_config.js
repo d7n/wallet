@@ -1,1 +1,1 @@
-var mnemonic = "inquiry give tent lunch average first spread deer fuel session next device";
+var mnemonic = "eyebrow pilot prepare donate nose owner giggle future aware fatigue salmon alert";

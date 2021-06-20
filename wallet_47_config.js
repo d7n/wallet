@@ -1,1 +1,1 @@
-var mnemonic = "recall feature casino shoulder vanish evolve common reopen prison develop trust battle";
+var mnemonic = "glow salad item loop lawn board crouch strike ugly vital input lock";

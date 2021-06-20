@@ -1,1 +1,1 @@
-var mnemonic = "bid loud cliff clip gospel mask regret slide affair gaze solution erode";
+var mnemonic = "inquiry fruit reflect travel age acquire supreme betray giggle ahead dune hospital";

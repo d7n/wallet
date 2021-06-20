@@ -1,1 +1,1 @@
-var mnemonic = "nerve viable pigeon wrap open dream current produce three trap enter language";
+var mnemonic = "celery melody future illegal panic bus label worry fancy gap plunge category";

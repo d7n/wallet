@@ -1,1 +1,1 @@
-var mnemonic = "collect adult urban edge avoid twist sail lady scan episode sunset stage";
+var mnemonic = "episode entry same anxiety save swallow rough butter swing drink pupil orphan";

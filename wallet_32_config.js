@@ -1,1 +1,1 @@
-var mnemonic = "shoulder skirt birth minor blanket drill response tuition sort mistake twice joy";
+var mnemonic = "prosper almost deliver name swear knock shiver misery retire spray word tunnel";

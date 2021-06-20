@@ -1,1 +1,1 @@
-var mnemonic = "trap rate exhaust convince tenant wife baby snap grain author put lamp";
+var mnemonic = "own seek element coin enlist debris bike myth concert wrong goose aisle";

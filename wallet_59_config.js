@@ -1,1 +1,1 @@
-var mnemonic = "siren right loud cruise grief program truth cake hundred airport assist fringe";
+var mnemonic = "raven intact today unknown fork hammer afford rally sign run book notice";

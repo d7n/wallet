@@ -1,1 +1,1 @@
-var mnemonic = "organ filter hen film company brick business pool crater despair deal valve";
+var mnemonic = "spread drip dice gun parrot quality soup bring employ stadium hobby battle";

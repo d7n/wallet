@@ -1,1 +1,1 @@
-var mnemonic = "border track ginger trap entire narrow tired basic tumble fork tongue pull";
+var mnemonic = "glass feel tilt plastic shine reward clip innocent example nasty coyote left";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition trip busy seek body gauge hill blood track dirt crouch panic";
+var mnemonic = "neck furnace save swift badge pelican vibrant zero stove depend slender glass";

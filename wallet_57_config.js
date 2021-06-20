@@ -1,1 +1,1 @@
-var mnemonic = "expose chicken liberty curve artwork nothing erosion away drip latin table night";
+var mnemonic = "pear zero clay duck step deputy sweet apple between bronze solution they";

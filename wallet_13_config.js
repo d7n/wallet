@@ -1,1 +1,1 @@
-var mnemonic = "undo width moon coast kitten essay remind permit dumb tobacco zebra retire";
+var mnemonic = "later moon best husband recycle heart liberty super try kingdom reward uncover";

@@ -1,1 +1,1 @@
-var mnemonic = "beach minute just quick assault panel frown under army fish open volume";
+var mnemonic = "salon tip shop slam liberty skull deposit battle essay craft number fuel";

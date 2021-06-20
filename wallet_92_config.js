@@ -1,1 +1,1 @@
-var mnemonic = "imitate muscle stairs guess dance drama field scorpion crash spy music token";
+var mnemonic = "dance head tape board found mango trouble visual civil panel lunar remove";

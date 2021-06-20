@@ -1,1 +1,1 @@
-var mnemonic = "list such smooth gorilla demise tube nation magnet tragic dinosaur pen history";
+var mnemonic = "clown kangaroo deny pupil table jar friend amazing novel kangaroo uphold bunker";

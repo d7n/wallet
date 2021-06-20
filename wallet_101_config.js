@@ -1,1 +1,1 @@
-var mnemonic = "world name mammal bundle engine tent sweet join seek friend mask security";
+var mnemonic = "chef resemble place scrub clutch liberty found gravity unaware grape october coast";

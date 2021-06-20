@@ -1,1 +1,1 @@
-var mnemonic = "foil auction matter choice innocent twenty parade icon dragon beauty symptom useful";
+var mnemonic = "task legend fantasy repeat doll pencil primary trigger modify steel draw afraid";

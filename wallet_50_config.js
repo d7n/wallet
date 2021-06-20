@@ -1,1 +1,1 @@
-var mnemonic = "myth sun evidence ordinary nest admit black enable tumble puzzle motor permit";
+var mnemonic = "mechanic grunt exact busy dash elegant fruit lunar good patch observe hungry";

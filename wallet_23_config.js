@@ -1,1 +1,1 @@
-var mnemonic = "sun comic ozone peanut shock salad explain version level limit tenant account";
+var mnemonic = "wrong weekend share observe prosper upon shoe burden rubber catch trumpet sniff";

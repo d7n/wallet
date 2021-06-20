@@ -1,1 +1,1 @@
-var mnemonic = "reform announce horn inside rich green relax laptop father melody sting net";
+var mnemonic = "strong diagram fold practice human reason enlist economy flip length antenna pizza";

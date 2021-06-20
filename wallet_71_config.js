@@ -1,1 +1,1 @@
-var mnemonic = "hub chat filter monkey barrel test delay flat debris labor wealth license";
+var mnemonic = "famous umbrella valid card mobile barrel three wonder minor wink pelican drift";

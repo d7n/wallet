@@ -1,1 +1,1 @@
-var mnemonic = "comic output scene tail creek kiwi blouse alert dress bubble enemy sing";
+var mnemonic = "vault funny code churn ill dice elder choose income cotton fit intact";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry rate tent arrive spawn cram adjust boy lazy woman pulse fire";
+var mnemonic = "category mean cake solution vintage execute cheap diary silly clarify eyebrow suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "genre visit puppy october blossom nest clutch nephew loan goose gift smart";
+var mnemonic = "walk abuse flag remind regret present book news knee hidden switch identify";

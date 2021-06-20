@@ -1,1 +1,1 @@
-var mnemonic = "shoe push acoustic chapter concert high ensure bachelor ball relax across room";
+var mnemonic = "ticket upset ensure lounge tray broken dice museum field exclude warrior garden";

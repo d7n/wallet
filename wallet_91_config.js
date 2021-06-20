@@ -1,1 +1,1 @@
-var mnemonic = "maximum arch august occur awesome daring window attitude aspect cage symptom staff";
+var mnemonic = "smart surprise lobster exhibit pair shine flavor ostrich myth fade child rack";

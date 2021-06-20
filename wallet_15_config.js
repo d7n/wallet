@@ -1,1 +1,1 @@
-var mnemonic = "split cricket isolate echo hat remove goose luggage course primary soap jewel";
+var mnemonic = "ostrich suspect earn when hidden normal shock globe pretty vast rate energy";

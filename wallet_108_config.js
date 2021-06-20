@@ -1,1 +1,1 @@
-var mnemonic = "train strategy adjust doll garment float indicate crane profit woman refuse success";
+var mnemonic = "main burger album leader quality fun state safe loyal pool square era";

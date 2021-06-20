@@ -1,1 +1,1 @@
-var mnemonic = "voice powder special aunt wedding potato reunion milk hedgehog taxi useful wish";
+var mnemonic = "wrap insect spin scan broccoli boring toy decorate win nasty dune exile";

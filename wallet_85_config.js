@@ -1,1 +1,1 @@
-var mnemonic = "bag tent skill kidney claw clerk acid penalty umbrella depart canal rose";
+var mnemonic = "drive radar cabin present hour main collect muffin shield banana balance cigar";

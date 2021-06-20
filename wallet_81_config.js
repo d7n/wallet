@@ -1,1 +1,1 @@
-var mnemonic = "enable inflict brief during balance bronze isolate delay bracket belt tribe case";
+var mnemonic = "slim harsh poet sudden repair wrestle play net tired pilot among height";

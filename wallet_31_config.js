@@ -1,1 +1,1 @@
-var mnemonic = "century extra table space ahead allow elite level virtual morning matter afford";
+var mnemonic = "quantum clean family panic pole atom code water hungry oak name fetch";

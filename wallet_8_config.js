@@ -1,1 +1,1 @@
-var mnemonic = "park member festival ring sunset banner wheel dash tobacco theme bulb satisfy";
+var mnemonic = "moral then scan dog ball false coconut envelope bright leisure abstract infant";

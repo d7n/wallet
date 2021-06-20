@@ -1,1 +1,1 @@
-var mnemonic = "weather market remain sorry bone couple rack supply attack spy south curtain";
+var mnemonic = "fish ask island pill miss suffer rude course icon solid bachelor window";

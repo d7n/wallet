@@ -1,1 +1,1 @@
-var mnemonic = "flush model floor often notable wrong uphold soul tilt ancient pen truth";
+var mnemonic = "humor elite you punch tribe runway bracket ill this birth gallery tonight";

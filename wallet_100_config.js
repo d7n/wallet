@@ -1,1 +1,1 @@
-var mnemonic = "spoil scout soup bind wise chaos bulk bachelor street element average belt";
+var mnemonic = "vault trade kiwi vacant vibrant book ability rate bridge vehicle bacon dog";

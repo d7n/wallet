@@ -1,1 +1,1 @@
-var mnemonic = "era gain coconut what shoe flat tide sustain panther erosion tone lamp";
+var mnemonic = "spider enact cook bamboo sleep oven van hint ordinary waste surface total";

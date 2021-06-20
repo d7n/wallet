@@ -1,1 +1,1 @@
-var mnemonic = "cost knee mansion lend stereo basket water tape gym must learn gentle";
+var mnemonic = "green cliff travel device popular agree zone glove express armed fence desk";

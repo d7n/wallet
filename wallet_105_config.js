@@ -1,1 +1,1 @@
-var mnemonic = "strategy honey obey multiply whisper always robot quantum riot illness fabric join";
+var mnemonic = "toe caught oblige squirrel tribe shallow judge injury cash gather define wave";

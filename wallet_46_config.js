@@ -1,1 +1,1 @@
-var mnemonic = "rough issue cabbage ecology behave entry bone logic tenant prefer aim alone";
+var mnemonic = "build birth throw burden excess cube rubber embrace assist guess excuse mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "denial few must wife lawn left over jazz rely ripple faith ethics";
+var mnemonic = "balcony random broccoli pepper effort arena inch know attend tree clutch notable";

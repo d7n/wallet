@@ -1,1 +1,1 @@
-var mnemonic = "spot winter cook front work wide situate depend surprise situate cereal ecology";
+var mnemonic = "peasant page festival analyst boss split sunny once cycle jaguar talent priority";

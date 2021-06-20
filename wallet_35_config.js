@@ -1,1 +1,1 @@
-var mnemonic = "march achieve waste cactus glass spawn fitness chicken direct current twelve world";
+var mnemonic = "luxury token visit heart book strategy hero hint offer survey depart core";

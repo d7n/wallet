@@ -1,1 +1,1 @@
-var mnemonic = "bring yellow year turkey labor credit mixture quantum arrange clarify furnace sea";
+var mnemonic = "normal exhibit vivid flower tilt equal nurse chronic motor spend shaft glance";

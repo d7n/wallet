@@ -1,1 +1,1 @@
-var mnemonic = "they among across target pumpkin wolf quarter never catalog elder move sad";
+var mnemonic = "borrow hotel damage wear bachelor provide domain web veteran profit badge spider";

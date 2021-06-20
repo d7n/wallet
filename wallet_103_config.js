@@ -1,1 +1,1 @@
-var mnemonic = "rebuild major again tower detect mosquito ice hurdle mushroom couple riot sausage";
+var mnemonic = "museum state forest spend silly wear twenty adapt raven carbon ankle drink";

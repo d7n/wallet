@@ -1,1 +1,1 @@
-var mnemonic = "question luxury clay cost desert tip visit casino track human again hair";
+var mnemonic = "fatigue category artist deal vast north avoid yellow denial bone long fish";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol city fiber giant coach dish forest minor assault wheat discover wonder";
+var mnemonic = "army green quit grab antenna alpha vessel drink simple version pepper acquire";

@@ -1,1 +1,1 @@
-var mnemonic = "interest wet security apology protect volcano fly inherit duty toward blue mountain";
+var mnemonic = "forum frog rebel month place lady twice help behave help patient suit";

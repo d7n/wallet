@@ -1,1 +1,1 @@
-var mnemonic = "wolf pen forest punch bulk spawn approve palace human quiz pill napkin";
+var mnemonic = "palace wear impose inch news nurse dash clay spy teach culture model";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace seat satoshi maximum decide moment east analyst frequent acid cube era";
+var mnemonic = "oppose snack identify hungry naive room typical want tape wagon quit donkey";

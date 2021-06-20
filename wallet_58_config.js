@@ -1,1 +1,1 @@
-var mnemonic = "answer peace dry maple track blush west jealous december belt bid goddess";
+var mnemonic = "antique library rough cash network dwarf organ truth bridge ceiling alone hamster";

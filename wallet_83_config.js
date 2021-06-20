@@ -1,1 +1,1 @@
-var mnemonic = "loan income second copper false pencil mimic imitate weekend butter casino announce";
+var mnemonic = "plastic outside loyal laugh crop tip jaguar used slender pair asset used";

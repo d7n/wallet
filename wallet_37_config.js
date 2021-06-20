@@ -1,1 +1,1 @@
-var mnemonic = "flame bracket mixture connect violin few mask jaguar current weekend need wedding";
+var mnemonic = "science left deal extra motion soccer pluck cruise cousin blanket reopen document";

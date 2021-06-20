@@ -1,1 +1,1 @@
-var mnemonic = "salad truck purse cotton all good casino section civil fan bracket light";
+var mnemonic = "point range idea power chief genre cage age joke remind snow tattoo";

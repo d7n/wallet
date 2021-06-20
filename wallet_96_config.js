@@ -1,1 +1,1 @@
-var mnemonic = "turn scheme trend issue alley canal evoke sister know food credit cloud";
+var mnemonic = "dove cross drill radio refuse glare hip sure animal acquire glide sell";

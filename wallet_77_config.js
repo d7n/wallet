@@ -1,1 +1,1 @@
-var mnemonic = "outside mean square outdoor auction exclude road still wear either addict media";
+var mnemonic = "margin arrive away exhibit limb rapid conduct beyond cruise panel garden anxiety";

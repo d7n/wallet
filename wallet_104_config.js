@@ -1,1 +1,1 @@
-var mnemonic = "trust stick used sense stomach limb alter you case episode segment okay";
+var mnemonic = "sound action twist guitar monster problem key load glad drop oven sound";

@@ -1,1 +1,1 @@
-var mnemonic = "captain letter give gravity gym forest fury check approve umbrella vapor spring";
+var mnemonic = "multiply reason tortoise awake clerk crane over trophy nature spy between sense";

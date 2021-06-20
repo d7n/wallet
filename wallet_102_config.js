@@ -1,1 +1,1 @@
-var mnemonic = "monkey disorder catalog aware piano insect give acoustic vote village street spike";
+var mnemonic = "comic census catalog total organ festival fee various canvas desk interest welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "delay ozone intact rug glow fiber captain canyon quick habit badge cover";
+var mnemonic = "put nurse supreme math slim pair aware toddler prison critic sail knee";

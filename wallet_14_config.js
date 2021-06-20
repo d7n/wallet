@@ -1,1 +1,1 @@
-var mnemonic = "nothing eight outside arctic winter climb river vocal army soup poverty elegant";
+var mnemonic = "genius maximum much security release embody initial either network skirt bullet secret";

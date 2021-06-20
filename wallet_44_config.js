@@ -1,1 +1,1 @@
-var mnemonic = "female earn grunt eager brain select online proof rubber great hope fresh";
+var mnemonic = "chicken pass arrive speak note raw silent belt observe brave hockey express";

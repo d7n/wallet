@@ -1,1 +1,1 @@
-var mnemonic = "act luxury reduce nice amused since party half nut sad color surprise";
+var mnemonic = "casino punch sight doll pool face bus lecture orphan jazz rose concert";
