@@ -1,1 +1,1 @@
-var mnemonic = "very chest over music jaguar math abandon route piano forget spice wire";
+var mnemonic = "such produce vocal flock wheel topple wood glare tortoise goat mesh engage";

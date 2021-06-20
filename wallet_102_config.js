@@ -1,1 +1,1 @@
-var mnemonic = "submit alien warrior donate harbor surround rough rather spread unable drip donor";
+var mnemonic = "six cabin foot spy unveil into finger odor above chronic poem brief";

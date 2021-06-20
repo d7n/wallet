@@ -1,1 +1,1 @@
-var mnemonic = "flock scrap copper oak poem knee moral analyst clinic note flip zebra";
+var mnemonic = "cliff blossom grid thumb bench notable pipe motion female wire cry extend";

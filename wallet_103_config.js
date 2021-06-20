@@ -1,1 +1,1 @@
-var mnemonic = "become metal voice zebra pilot exhaust weekend screen edit lyrics give vanish";
+var mnemonic = "twenty dad scatter afford ramp moon doctor index twin pretty happy nurse";

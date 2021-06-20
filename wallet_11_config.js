@@ -1,1 +1,1 @@
-var mnemonic = "south problem text sentence install carbon pudding omit couple begin thumb spirit";
+var mnemonic = "remind liberty kingdom increase diagram witness dynamic abandon hello idle olympic often";

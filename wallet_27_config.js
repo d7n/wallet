@@ -1,1 +1,1 @@
-var mnemonic = "position describe report arena urge shaft crop filter laptop gadget blouse pact";
+var mnemonic = "wrong demand talk twelve float razor logic talent garden love mutual humble";

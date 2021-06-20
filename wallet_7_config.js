@@ -1,1 +1,1 @@
-var mnemonic = "drip pitch flight debris distance recall float photo sketch quit seat audit";
+var mnemonic = "fabric auto report volcano boy tank cotton injury business hover equip prosper";

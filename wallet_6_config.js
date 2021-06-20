@@ -1,1 +1,1 @@
-var mnemonic = "festival stand fitness involve latin vocal tank enemy cry shy access burst";
+var mnemonic = "found retire glove hole drink rate screen reopen ticket math abuse time";

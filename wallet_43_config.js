@@ -1,1 +1,1 @@
-var mnemonic = "truly blame club journey repeat sweet hedgehog advance height boss rebuild abandon";
+var mnemonic = "forward frown swift board fence spell gain assault lawn range absorb taste";

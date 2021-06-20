@@ -1,1 +1,1 @@
-var mnemonic = "obscure wise tag act track sunny response oval physical waste spread song";
+var mnemonic = "leave pen chef sock clerk leisure palm waste rival traffic core term";

@@ -1,1 +1,1 @@
-var mnemonic = "invest sword normal odor hawk trim ozone crunch purity muffin fantasy ski";
+var mnemonic = "spoon ten pelican achieve auto pyramid field habit skirt vintage bar video";

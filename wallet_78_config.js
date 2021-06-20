@@ -1,1 +1,1 @@
-var mnemonic = "behave depth pass lottery aim exit someone infant capital gate clever suit";
+var mnemonic = "insane only sail snake afraid dumb gown rocket globe frog wagon basket";

@@ -1,1 +1,1 @@
-var mnemonic = "segment idea lumber cube between thought wonder afford common proof debate tennis";
+var mnemonic = "develop amateur spread clarify scrub swear hip lion void tomato door tornado";

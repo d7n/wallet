@@ -1,1 +1,1 @@
-var mnemonic = "fatigue rough alley priority joy only grain cradle during address true job";
+var mnemonic = "certain original rescue easy spend alley own record help federal awkward burger";

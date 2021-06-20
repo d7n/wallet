@@ -1,1 +1,1 @@
-var mnemonic = "rookie lock fog two october fortune empower energy powder echo father rain";
+var mnemonic = "ability beef double hammer curtain attack van cricket thought trouble outer solar";

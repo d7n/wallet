@@ -1,1 +1,1 @@
-var mnemonic = "eye talent vehicle plate exile animal left island link dream praise caught";
+var mnemonic = "link sphere exhaust what tomorrow dinner lottery toss tape boil wrong protect";

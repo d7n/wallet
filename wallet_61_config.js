@@ -1,1 +1,1 @@
-var mnemonic = "capable deliver save submit devote wife avocado raise dash awkward person little";
+var mnemonic = "match flash nature east clever stay gesture fold rose online tray coral";

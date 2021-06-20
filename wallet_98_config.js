@@ -1,1 +1,1 @@
-var mnemonic = "divorce program decide material vendor lesson era spirit render omit marine type";
+var mnemonic = "castle message ring air twice liquid grape holiday cake kite furnace champion";

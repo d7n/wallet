@@ -1,1 +1,1 @@
-var mnemonic = "mesh horror crunch episode vintage dwarf crisp cook code silent hip day";
+var mnemonic = "swim life spring carry tail resist cigar hedgehog taste suffer moral sure";

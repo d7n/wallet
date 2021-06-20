@@ -1,1 +1,1 @@
-var mnemonic = "quality muscle feed seminar correct stuff wise ozone ball pass debris gold";
+var mnemonic = "donate game kiwi boost latin win armed obscure neutral donor chef army";

@@ -1,1 +1,1 @@
-var mnemonic = "just icon chef unfair salt love clown enrich reopen crush love blame";
+var mnemonic = "cousin erase swallow below rookie donate dismiss artefact action cross song leopard";

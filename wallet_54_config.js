@@ -1,1 +1,1 @@
-var mnemonic = "garment citizen nice sketch image robot web level solution lake erode pond";
+var mnemonic = "erase enemy uncover reopen garlic skin unknown check stool earn bread when";

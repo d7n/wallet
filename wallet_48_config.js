@@ -1,1 +1,1 @@
-var mnemonic = "emotion smooth shadow buzz produce mountain need pet dial envelope attend raise";
+var mnemonic = "monitor combine walk portion tube upset gauge strong emotion crack pen result";

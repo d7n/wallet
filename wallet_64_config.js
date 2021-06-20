@@ -1,1 +1,1 @@
-var mnemonic = "behave cloud cement rescue bamboo shed father globe skin theory stove awake";
+var mnemonic = "patient liquid envelope drama life enough urge laundry angle doll feel garbage";

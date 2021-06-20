@@ -1,1 +1,1 @@
-var mnemonic = "pottery evidence margin put crawl stone meadow project coach notable fine excite";
+var mnemonic = "antique anchor hard patch regular tone exact wire art employ buffalo emotion";

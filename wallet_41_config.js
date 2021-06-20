@@ -1,1 +1,1 @@
-var mnemonic = "forum mobile inherit badge tape core carry neither net wet squirrel chimney";
+var mnemonic = "reduce exile keen solar where gas warfare educate enough because cute siren";

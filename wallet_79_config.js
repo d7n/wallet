@@ -1,1 +1,1 @@
-var mnemonic = "educate jaguar shuffle mango airport often virtual model merry dizzy original pony";
+var mnemonic = "under someone unlock enable purpose fragile never bench empty noise boring thunder";

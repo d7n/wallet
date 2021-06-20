@@ -1,1 +1,1 @@
-var mnemonic = "skirt tiger sphere soft glow garlic innocent current rich rival sunset supply";
+var mnemonic = "three share draw lottery unable enhance bench wife deliver pen dance salmon";

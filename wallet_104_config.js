@@ -1,1 +1,1 @@
-var mnemonic = "bounce above author face erosion invest cable beef lady mail decade dizzy";
+var mnemonic = "sight wall abstract input young border health rifle busy feature hole expect";

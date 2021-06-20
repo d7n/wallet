@@ -1,1 +1,1 @@
-var mnemonic = "slice nation whip mansion broccoli genre charge army skin teach cluster range";
+var mnemonic = "maze erode echo drink tuition slush wing dolphin calm loud day unfold";

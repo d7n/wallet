@@ -1,1 +1,1 @@
-var mnemonic = "treat conduct crouch rally pen cabin peasant harbor garden bird drastic front";
+var mnemonic = "ranch cannon poverty silk clay illness amateur blast fancy ready lyrics scene";

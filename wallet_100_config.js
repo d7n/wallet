@@ -1,1 +1,1 @@
-var mnemonic = "census wall amount coffee feed rough exile raise also open zebra paddle";
+var mnemonic = "multiply until price egg walnut scatter increase sauce draw cry refuse mask";

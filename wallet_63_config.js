@@ -1,1 +1,1 @@
-var mnemonic = "trash copper toward vivid solid pony mule drive notable dynamic tornado cruel";
+var mnemonic = "private shed lava clog term season diet session wait inch weapon exhaust";

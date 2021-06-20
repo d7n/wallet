@@ -1,1 +1,1 @@
-var mnemonic = "asset man crawl arena pink estate clutch action barrel boy ask trend";
+var mnemonic = "debris domain fan pencil lunch into profit woman enemy sheriff secret tide";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot govern dentist brain sting mandate easily jump blossom gentle robot gown";
+var mnemonic = "salt problem flush duty basic cash rubber knee network start around iron";

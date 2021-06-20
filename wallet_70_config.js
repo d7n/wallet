@@ -1,1 +1,1 @@
-var mnemonic = "jelly space turn pattern drastic occur client evoke off coast winner view";
+var mnemonic = "broom faint group trick color van deny solid domain drift parent repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "cream note thrive clump author tenant trend iron hover bean pig sphere";
+var mnemonic = "sudden stairs habit ring sting theory slight champion pony medal boy story";

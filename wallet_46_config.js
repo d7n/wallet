@@ -1,1 +1,1 @@
-var mnemonic = "picture vessel wear match unknown elephant inject nature unveil poem best client";
+var mnemonic = "remember just thunder twelve pond domain brand cruise maple angle require cool";

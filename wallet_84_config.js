@@ -1,1 +1,1 @@
-var mnemonic = "follow palace shop normal mix spawn umbrella begin high zebra beauty prize";
+var mnemonic = "spot there horror spike various ghost hawk load wheat fade key similar";

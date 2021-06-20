@@ -1,1 +1,1 @@
-var mnemonic = "unit elbow verify forget online cupboard inflict random wealth fringe kid west";
+var mnemonic = "you dose marriage invite simple armor seven ugly arch movie fly pause";

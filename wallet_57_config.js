@@ -1,1 +1,1 @@
-var mnemonic = "voice coast trick lend discover match doll hat ocean climb sustain sun";
+var mnemonic = "raven next fault purse drill wheat fire fan sad problem uncover crawl";

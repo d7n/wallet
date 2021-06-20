@@ -1,1 +1,1 @@
-var mnemonic = "battle tomorrow iron flee collect zoo inquiry keen cabin arm reason daring";
+var mnemonic = "grape enjoy scale club eyebrow reason between enemy monkey then student increase";

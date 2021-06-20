@@ -1,1 +1,1 @@
-var mnemonic = "web text else entire famous peace start gossip curtain tissue category credit";
+var mnemonic = "fury sunny advice pledge pumpkin sell trim fortune injury travel mandate frost";

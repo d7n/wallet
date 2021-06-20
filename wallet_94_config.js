@@ -1,1 +1,1 @@
-var mnemonic = "bulb coil session liar muscle bind poem bulk gloom era enter edge";
+var mnemonic = "this whip decorate valid pool town rib parent lava pledge violin debris";

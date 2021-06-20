@@ -1,1 +1,1 @@
-var mnemonic = "build nerve sample typical vicious barrel ring news correct pipe long autumn";
+var mnemonic = "salute razor weird salmon initial pioneer core huge depth lawsuit cannon follow";

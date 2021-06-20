@@ -1,1 +1,1 @@
-var mnemonic = "bone network orbit scheme race nasty canal phone canyon spin civil similar";
+var mnemonic = "jungle time pact impact diary throw enter dream mountain layer ordinary ability";

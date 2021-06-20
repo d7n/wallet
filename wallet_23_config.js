@@ -1,1 +1,1 @@
-var mnemonic = "quarter cheese corn crop first marine aspect regular label horn nation enroll";
+var mnemonic = "truly barrel transfer edit say nasty fence impulse fuel thrive pigeon warfare";

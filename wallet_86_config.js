@@ -1,1 +1,1 @@
-var mnemonic = "lizard strike logic slender hollow boy foster brick bench floor goddess rug";
+var mnemonic = "intact hard lava embrace sugar detail region broccoli hair coyote punch will";

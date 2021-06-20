@@ -1,1 +1,1 @@
-var mnemonic = "aisle vacuum tail soul verb long upgrade predict sick spend first entire";
+var mnemonic = "system smile dune stomach athlete hint canyon drop enhance armed people again";

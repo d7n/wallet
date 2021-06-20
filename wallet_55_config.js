@@ -1,1 +1,1 @@
-var mnemonic = "census fetch enough cannon praise like ethics virtual bargain large album submit";
+var mnemonic = "patient butter produce fringe mask pet asthma deer whisper video winter source";

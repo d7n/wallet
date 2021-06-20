@@ -1,1 +1,1 @@
-var mnemonic = "skate excite kiwi once barrel nose usual damage anchor much online crumble";
+var mnemonic = "student recipe civil violin unable like rotate size explain banner second cancel";

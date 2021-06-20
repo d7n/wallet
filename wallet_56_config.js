@@ -1,1 +1,1 @@
-var mnemonic = "swap brother burger cradle pet hen upon acid zone come fish claim";
+var mnemonic = "divide canyon movie obey mass black mind crazy hour page okay process";

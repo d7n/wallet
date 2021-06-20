@@ -1,1 +1,1 @@
-var mnemonic = "release wealth neck dream inmate hole possible top open initial conduct shallow";
+var mnemonic = "loud discover insect outdoor soldier ethics claim replace gas group easy anxiety";

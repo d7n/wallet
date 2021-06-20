@@ -1,1 +1,1 @@
-var mnemonic = "quote music pizza tube sister various trend mother seek sphere kit aerobic";
+var mnemonic = "refuse voyage crane start hire behind either there surface grain you lesson";

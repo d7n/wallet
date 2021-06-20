@@ -1,1 +1,1 @@
-var mnemonic = "twelve gap burst frown that card table cross coconut enable that bubble";
+var mnemonic = "approve sleep hospital naive praise curtain useless fortune spatial truth sight adjust";

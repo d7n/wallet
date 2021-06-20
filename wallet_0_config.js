@@ -1,1 +1,1 @@
-var mnemonic = "will bulb idle slab kid camp hurt genre quick fuel come raise";
+var mnemonic = "basic undo tonight diary tumble trim cart engine vanish burger exercise volcano";

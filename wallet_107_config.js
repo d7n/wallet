@@ -1,1 +1,1 @@
-var mnemonic = "buffalo myself stick pledge vehicle year tube glove myself trust pave crumble";
+var mnemonic = "forget tomorrow unaware remove blood poverty unfair ice adjust orphan curious capable";

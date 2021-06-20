@@ -1,1 +1,1 @@
-var mnemonic = "assist sorry critic clarify dad envelope win adapt noise leave property sponsor";
+var mnemonic = "tree over goat citizen bonus lab wage stumble hospital stock one resist";

@@ -1,1 +1,1 @@
-var mnemonic = "world also open reward depend marble jeans jacket yellow force hockey elbow";
+var mnemonic = "romance renew slab sketch disagree catch ski team bubble kick grief vessel";

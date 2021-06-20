@@ -1,1 +1,1 @@
-var mnemonic = "nice opera desert current crunch sand pride ketchup brand avoid marine save";
+var mnemonic = "tilt solution flush room inflict lucky rose oppose void feel merge room";

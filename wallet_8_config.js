@@ -1,1 +1,1 @@
-var mnemonic = "annual laundry explain eagle limb vanish object stock parrot dove truck chief";
+var mnemonic = "lamp tree mask vessel explain spawn body arena emerge fun element sleep";

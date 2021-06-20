@@ -1,1 +1,1 @@
-var mnemonic = "fog walnut actual capable system bread link brass sheriff unveil piece bonus";
+var mnemonic = "say inflict vanish salute close desk pottery flash genuine another wrap symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "inch powder desk away casual bounce dragon weird mobile mesh crawl pulse";
+var mnemonic = "smooth cloud bridge prepare bacon orbit omit harbor learn screen charge grant";

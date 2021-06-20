@@ -1,1 +1,1 @@
-var mnemonic = "income acid favorite length region funny bitter forest trade crack aspect taxi";
+var mnemonic = "post put spell almost boss idle token dress insect cheap machine exchange";

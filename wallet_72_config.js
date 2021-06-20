@@ -1,1 +1,1 @@
-var mnemonic = "body express tornado pill picnic trade size allow clever purse leave say";
+var mnemonic = "rather merry lens sketch spike book concert bottom method gravity toy image";

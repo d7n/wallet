@@ -1,1 +1,1 @@
-var mnemonic = "proud notice hurt nice zero curtain hurry allow loyal weekend merry bean";
+var mnemonic = "december gorilla amount captain play sing dish cream hurry intact tape balance";

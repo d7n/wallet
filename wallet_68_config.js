@@ -1,1 +1,1 @@
-var mnemonic = "orchard cherry mobile barrel strike hope stomach opera resemble vacant squirrel capital";
+var mnemonic = "chase axis glare spoil subway issue mention round enough twelve want quantum";

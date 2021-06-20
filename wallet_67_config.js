@@ -1,1 +1,1 @@
-var mnemonic = "layer blur dune camp list soap promote stand learn own tonight potato";
+var mnemonic = "flame link proud magic world shrimp laugh piano bless stereo desk wrestle";

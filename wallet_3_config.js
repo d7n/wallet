@@ -1,1 +1,1 @@
-var mnemonic = "rocket behind immense frame athlete allow secret old hurdle kind few decide";
+var mnemonic = "voyage detail squirrel priority game angry call camp river open dose business";

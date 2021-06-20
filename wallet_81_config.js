@@ -1,1 +1,1 @@
-var mnemonic = "camp offer few club brown actress broom forest debate blame flip achieve";
+var mnemonic = "trip rose catch erupt say audit smoke include normal canyon defense pelican";

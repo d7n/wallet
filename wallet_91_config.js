@@ -1,1 +1,1 @@
-var mnemonic = "crater tool kite word talk anger hedgehog entire tragic miracle tuna sauce";
+var mnemonic = "cloud fine wealth daring winter wall bean tone desk exhaust plunge south";

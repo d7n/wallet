@@ -1,1 +1,1 @@
-var mnemonic = "inside slot lucky truly exist library wagon session nation shoot liar kick";
+var mnemonic = "oven nice maple harsh dentist faith census little rhythm burst divert junk";

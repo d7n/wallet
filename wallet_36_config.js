@@ -1,1 +1,1 @@
-var mnemonic = "cause famous world paddle visit pupil machine spot craft enroll rubber torch";
+var mnemonic = "direct velvet diesel penalty roast picture heart junk boil piece minor tone";

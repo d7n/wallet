@@ -1,1 +1,1 @@
-var mnemonic = "rent mystery warfare prison junk photo where party blouse metal latin flame";
+var mnemonic = "then cook tonight caught spend network subway stomach account easy model age";

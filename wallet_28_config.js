@@ -1,1 +1,1 @@
-var mnemonic = "earn garment danger acoustic useful allow clock amount pupil cheese theory rubber";
+var mnemonic = "science flip bench distance olympic wire venture merit erase trip silent wise";

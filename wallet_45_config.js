@@ -1,1 +1,1 @@
-var mnemonic = "angry wait hammer place jazz certain march ostrich cabin wet old palm";
+var mnemonic = "enhance cave boat shop come diet doctor globe patient reopen face dress";

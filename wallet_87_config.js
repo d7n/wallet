@@ -1,1 +1,1 @@
-var mnemonic = "feed tool solve sausage heart picture put hospital endorse adapt lion chief";
+var mnemonic = "track rib idea cannon always divide assume vote monkey drift poem option";

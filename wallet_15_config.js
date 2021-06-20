@@ -1,1 +1,1 @@
-var mnemonic = "spider erase jazz snake help confirm winter dog trip often giggle school";
+var mnemonic = "wash history answer gaze join erosion joy valve actor slow copper step";

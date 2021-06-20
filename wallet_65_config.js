@@ -1,1 +1,1 @@
-var mnemonic = "wheel among urban oval birth guess food tiny save tumble miracle large";
+var mnemonic = "sure window pond venue myth top sudden cactus eight burden topple sign";

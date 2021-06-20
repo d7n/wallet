@@ -1,1 +1,1 @@
-var mnemonic = "snake sell occur thumb tomorrow found write achieve smooth advice trial lunar";
+var mnemonic = "upon opera hello sense segment goat canyon evoke note meat pumpkin safe";

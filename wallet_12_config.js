@@ -1,1 +1,1 @@
-var mnemonic = "spy fade inhale left admit lesson hold another tuna panther mask leaf";
+var mnemonic = "piece prison tree engine middle crowd west prison hybrid curve say bike";

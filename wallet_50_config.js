@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog brass salad sun lumber jacket dice jeans art mammal learn nasty";
+var mnemonic = "plate melt tired horn mechanic clay right sheriff tail diet accident own";

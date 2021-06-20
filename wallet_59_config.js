@@ -1,1 +1,1 @@
-var mnemonic = "purchase poverty venue replace balcony purpose cart buddy census dad swallow moral";
+var mnemonic = "shrimp define reform scrap high vague noble music thank corn trophy wasp";

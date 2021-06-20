@@ -1,1 +1,1 @@
-var mnemonic = "unable spice camp issue dinner wisdom net vacant reason maid elephant lawsuit";
+var mnemonic = "belt skirt column tilt fever correct message math fatal loud time survey";

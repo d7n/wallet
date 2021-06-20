@@ -1,1 +1,1 @@
-var mnemonic = "popular ladder clay toilet dove bulb scan outdoor mammal raven away water";
+var mnemonic = "garlic other online crowd wing february perfect scale lawsuit clog logic solar";

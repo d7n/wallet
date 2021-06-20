@@ -1,1 +1,1 @@
-var mnemonic = "blouse mutual page ten banner fancy crack stamp issue away actress defy";
+var mnemonic = "charge build develop knee actual office blue siege circle million clump cry";

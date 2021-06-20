@@ -1,1 +1,1 @@
-var mnemonic = "autumn left sick ask dolphin south pink boat program angry shoe pause";
+var mnemonic = "rival under glide trend moral link above inquiry cage embrace harsh timber";

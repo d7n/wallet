@@ -1,1 +1,1 @@
-var mnemonic = "able cabbage bird swing egg crop aspect width chapter swap drill first";
+var mnemonic = "elbow wrong attend elephant dynamic prevent jazz syrup tribe lesson boss doctor";

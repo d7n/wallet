@@ -1,1 +1,1 @@
-var mnemonic = "attitude blast digital bid indicate water present bundle float soon auction violin";
+var mnemonic = "belt found donkey lift burger split correct evoke grocery reopen mimic crouch";

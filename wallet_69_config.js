@@ -1,1 +1,1 @@
-var mnemonic = "age survey actor benefit inform speed metal ticket denial attend slush idle";
+var mnemonic = "found thank van salon smooth brand remember steel develop find process kid";

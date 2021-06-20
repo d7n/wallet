@@ -1,1 +1,1 @@
-var mnemonic = "infant join staff satoshi track eager indicate lawsuit leg kick sand wheat";
+var mnemonic = "grit fiscal hood throw assist sign vacuum tray plate giant twice film";

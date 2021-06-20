@@ -1,1 +1,1 @@
-var mnemonic = "naive brief bronze later client practice light lounge pear thrive renew breeze";
+var mnemonic = "bus assault reopen toilet fluid off clown risk snap album truck jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "barely fit play order math remove fragile render duck mail shock evil";
+var mnemonic = "outer wrap surround age fury nut marble armed rigid grit retire smart";

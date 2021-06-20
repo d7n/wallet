@@ -1,1 +1,1 @@
-var mnemonic = "color electric gain life garment laugh glory clock ordinary rice found plunge";
+var mnemonic = "recycle blame noodle width day employ pitch heavy neglect camp emotion solution";

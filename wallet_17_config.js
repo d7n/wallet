@@ -1,1 +1,1 @@
-var mnemonic = "pretty young city dwarf enter retire found patrol critic oven uniform nuclear";
+var mnemonic = "ignore receive agent online injury brief crop profit harbor bird capable bag";
