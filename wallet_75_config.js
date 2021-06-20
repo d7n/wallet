@@ -1,1 +1,1 @@
-var mnemonic = "grass raise sting figure double initial female load tool noise cushion pyramid";
+var mnemonic = "zone what floor orchard inspire sick response ranch rule update dwarf manual";

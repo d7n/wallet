@@ -1,1 +1,1 @@
-var mnemonic = "mansion vacuum junk toy vital endless illness talk genuine dad dove recall";
+var mnemonic = "cup upper breeze unit flush grab film water pilot armor shrug umbrella";

@@ -1,1 +1,1 @@
-var mnemonic = "stadium fossil debate keep dragon bus jeans oil pelican coyote radar relief";
+var mnemonic = "van slot prize cluster fish flight juice sun pass toe detect industry";

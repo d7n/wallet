@@ -1,1 +1,1 @@
-var mnemonic = "special tooth blossom nut pudding stairs flash idea stand metal source among";
+var mnemonic = "limit wife slow lazy jewel when casual orbit tumble pitch shaft asthma";

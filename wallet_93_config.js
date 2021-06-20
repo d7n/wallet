@@ -1,1 +1,1 @@
-var mnemonic = "payment flower skate fit middle observe manage indicate mad right dad group";
+var mnemonic = "village title remember steak cliff shy often lawsuit depend banana tilt praise";

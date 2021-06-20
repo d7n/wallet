@@ -1,1 +1,1 @@
-var mnemonic = "describe remain leopard vehicle shop bunker south obscure aunt what equal exit";
+var mnemonic = "impulse lady climb elite still great water sustain kid shoulder cancel foil";

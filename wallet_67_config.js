@@ -1,1 +1,1 @@
-var mnemonic = "cheap tattoo skin own park mail scan wrong aunt solve other horror";
+var mnemonic = "index tribe math juice purchase plastic ring reward element link guard rack";

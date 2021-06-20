@@ -1,1 +1,1 @@
-var mnemonic = "garlic crush want error doll bounce that finger search gown vehicle family";
+var mnemonic = "pottery garden dinosaur student reason noodle bottom much scale belt alter panda";

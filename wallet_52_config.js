@@ -1,1 +1,1 @@
-var mnemonic = "genius fade theory actor because purse rural destroy window priority latin rival";
+var mnemonic = "venue return history sleep shuffle fee museum stomach enhance chef fault document";

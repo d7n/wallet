@@ -1,1 +1,1 @@
-var mnemonic = "fine control movie trip ghost pilot twenty income drip pencil high arrange";
+var mnemonic = "cabbage ripple salon faith umbrella jewel taste muscle space recycle describe science";

@@ -1,1 +1,1 @@
-var mnemonic = "explain dinner coin hidden flush chase lesson melt cage divorce timber move";
+var mnemonic = "endless bench bridge bleak chase nasty expose pear melody radio pear hat";

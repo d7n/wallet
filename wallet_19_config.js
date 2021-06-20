@@ -1,1 +1,1 @@
-var mnemonic = "music elite slide accident bread old cruel vast spin left federal submit";
+var mnemonic = "guess gas replace assist amount advice brain nuclear clock lady inside offer";

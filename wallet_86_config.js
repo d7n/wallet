@@ -1,1 +1,1 @@
-var mnemonic = "talent prison height remember short eternal picture panda siren cat type lecture";
+var mnemonic = "salad allow hospital layer steel hello chair buffalo group pipe simple antique";

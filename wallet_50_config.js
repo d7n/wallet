@@ -1,1 +1,1 @@
-var mnemonic = "ocean injury bid cancel achieve ski border accident weird smoke silly make";
+var mnemonic = "unusual donkey keep view draw shiver merry enhance sister mango river vital";

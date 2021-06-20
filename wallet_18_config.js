@@ -1,1 +1,1 @@
-var mnemonic = "fold flame dash make ozone casual siege uphold robust write kidney earn";
+var mnemonic = "primary hungry opera divide term stove veteran much fly middle teach icon";

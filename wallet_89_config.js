@@ -1,1 +1,1 @@
-var mnemonic = "square frost curtain purity rubber image budget summer interest office price under";
+var mnemonic = "kiss pen useless cabbage chuckle wisdom resemble middle light rapid reunion civil";

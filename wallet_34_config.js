@@ -1,1 +1,1 @@
-var mnemonic = "embark note arrive cute random surround note brave access manage sunset because";
+var mnemonic = "pond cook still patrol intact little torch amazing nephew collect tide shiver";

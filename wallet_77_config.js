@@ -1,1 +1,1 @@
-var mnemonic = "plug end pull sad cram barely polar cable position buffalo employ next";
+var mnemonic = "canal gorilla gain wage hospital manage border order settle abuse ice space";

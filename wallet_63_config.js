@@ -1,1 +1,1 @@
-var mnemonic = "minimum hollow fortune gown tired minute like cart embrace creek soon then";
+var mnemonic = "atom guide seminar weasel market switch oyster error deer grunt night say";

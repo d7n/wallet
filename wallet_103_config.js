@@ -1,1 +1,1 @@
-var mnemonic = "letter method mistake divide enact adult cupboard reject survey right shuffle write";
+var mnemonic = "bonus visual clump found defense gloom melody cream pause orbit special vast";

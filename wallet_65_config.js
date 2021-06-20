@@ -1,1 +1,1 @@
-var mnemonic = "bike gain nothing woman crop claim sing reform sweet obtain hint century";
+var mnemonic = "great play success material decide clerk thing burden photo body atom impose";

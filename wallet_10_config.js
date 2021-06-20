@@ -1,1 +1,1 @@
-var mnemonic = "basket torch coconut narrow street wisdom slogan shop stumble matter naive slush";
+var mnemonic = "appear bulb host betray addict salt weather window property camp eight claim";

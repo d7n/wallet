@@ -1,1 +1,1 @@
-var mnemonic = "audit swarm exotic gown car later sight pretty cash penalty pear foster";
+var mnemonic = "august cool able nominee rough hope time abstract copper copper summer hungry";

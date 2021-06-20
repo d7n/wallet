@@ -1,1 +1,1 @@
-var mnemonic = "pulp nerve excess cluster brain unveil inch stairs fortune winter absent dance";
+var mnemonic = "because affair because joke much razor order fly annual battle fault ordinary";

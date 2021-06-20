@@ -1,1 +1,1 @@
-var mnemonic = "exit leg rally aerobic west cricket vacant gold accident grass color awesome";
+var mnemonic = "piece usual burger mail rich prepare marble bind buddy police special scrap";

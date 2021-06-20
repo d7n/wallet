@@ -1,1 +1,1 @@
-var mnemonic = "clock year include involve can birth auction inmate fame lizard decline vessel";
+var mnemonic = "fork photo pact argue differ turkey loud tourist absent spread equal scorpion";

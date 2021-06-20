@@ -1,1 +1,1 @@
-var mnemonic = "humble mansion penalty false move baby soup sort enjoy position alien else";
+var mnemonic = "caution pottery style various banner false only route scissors clinic ranch inject";

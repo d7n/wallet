@@ -1,1 +1,1 @@
-var mnemonic = "response display away size coral angle chicken expect half page since educate";
+var mnemonic = "rice response strike accuse version pigeon fat problem middle speak cactus bone";

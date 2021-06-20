@@ -1,1 +1,1 @@
-var mnemonic = "husband squirrel neglect faculty town delay supreme seminar ski beauty crisp slice";
+var mnemonic = "version never shield lounge bachelor canvas ramp dance december fiscal genuine rally";

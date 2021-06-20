@@ -1,1 +1,1 @@
-var mnemonic = "soul rocket vicious hamster absurd gesture hello catch ticket two air scatter";
+var mnemonic = "tell lend energy pave item donate flash below cupboard gown memory stage";

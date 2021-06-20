@@ -1,1 +1,1 @@
-var mnemonic = "speed satisfy okay inform virtual kiwi novel today aunt napkin congress nose";
+var mnemonic = "sausage lesson topic gentle soccer surround sheriff build flat any mother antenna";

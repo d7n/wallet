@@ -1,1 +1,1 @@
-var mnemonic = "trap cabbage idea virtual shield effort process lounge fringe clap affair minor";
+var mnemonic = "uniform job come current seek blood mix history wish moral frame fan";

@@ -1,1 +1,1 @@
-var mnemonic = "hungry gift column celery grid holiday task satoshi circle accident cost stamp";
+var mnemonic = "hello gas spirit moral palace flee grant purse clinic chest power call";

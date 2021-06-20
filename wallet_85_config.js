@@ -1,1 +1,1 @@
-var mnemonic = "eight hand gown spy speed tragic spirit joy exit humble false purity";
+var mnemonic = "oak tomato upgrade cruel layer install orphan device idea midnight firm begin";

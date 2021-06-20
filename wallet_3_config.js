@@ -1,1 +1,1 @@
-var mnemonic = "autumn unit access rain plastic solve grape chief point reveal want cat";
+var mnemonic = "major era quantum old absurd kitchen bottom rich goose flee relax morning";

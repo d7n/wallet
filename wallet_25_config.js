@@ -1,1 +1,1 @@
-var mnemonic = "buddy virus toast hair pottery genuine kangaroo action rare name hero rural";
+var mnemonic = "thunder gravity economy detail cook crystal detail sunset limb hamster increase fiber";

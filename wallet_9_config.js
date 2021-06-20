@@ -1,1 +1,1 @@
-var mnemonic = "spider churn stick phone slender actress unlock tuna bracket chat six habit";
+var mnemonic = "kidney knock draw express fan connect radar typical oak primary return elder";

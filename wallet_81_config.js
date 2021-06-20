@@ -1,1 +1,1 @@
-var mnemonic = "peasant basic slush unfair knife identify ball age fall focus off ceiling";
+var mnemonic = "ring among medal ahead disease cart scare pelican summer advance ring open";

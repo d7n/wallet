@@ -1,1 +1,1 @@
-var mnemonic = "error beauty upset attack suffer cat wealth path cube gospel major essence";
+var mnemonic = "wait moment swallow toss shock wreck december guilt wonder tube add camera";

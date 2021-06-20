@@ -1,1 +1,1 @@
-var mnemonic = "open depart lamp piece symptom neck oval flame main snack people allow";
+var mnemonic = "pool base track suggest canal kit inquiry can frozen faint rescue betray";

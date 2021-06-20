@@ -1,1 +1,1 @@
-var mnemonic = "ready crazy gun crunch cover case deliver million test gather audit cloth";
+var mnemonic = "talent stuff coast limb chef bulk three crumble width design panel gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle into laundry sea suit alley swap snow easily magnet concert festival";
+var mnemonic = "lunar churn sun major pear fatal bulk yard remove uniform exchange thing";

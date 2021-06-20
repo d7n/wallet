@@ -1,1 +1,1 @@
-var mnemonic = "physical canvas quote boy kite safe solve memory annual immense purity search";
+var mnemonic = "chief music omit decade faculty chronic hope curve rocket stamp involve method";

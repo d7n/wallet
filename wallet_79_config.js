@@ -1,1 +1,1 @@
-var mnemonic = "impact scorpion awake march decorate casual cart wire gloom climb forward mind";
+var mnemonic = "hard october jaguar provide rely art vote unknown someone trigger diesel weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "december faint ginger stock case myself street dial beyond hat legal catch";
+var mnemonic = "trick believe mango loop warrior burst office plastic zoo holiday sweet slush";

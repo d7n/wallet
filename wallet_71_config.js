@@ -1,1 +1,1 @@
-var mnemonic = "pupil heart special loyal wink maximum column any indoor lunch trumpet skirt";
+var mnemonic = "artwork unusual basket diagram loan easy amazing symbol robust mention venture maximum";

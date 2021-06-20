@@ -1,1 +1,1 @@
-var mnemonic = "under segment kit brick open witness surge sweet shift amount lunar virtual";
+var mnemonic = "metal veteran scout fitness shove uncover affair original town zone panther movie";

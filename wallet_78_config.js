@@ -1,1 +1,1 @@
-var mnemonic = "arena heart sting grain hire six valid click quality moment metal angle";
+var mnemonic = "mean veteran tell pear process ability tenant message thought saddle toe rival";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon day also almost kitchen immune gesture biology busy multiply hire harsh";
+var mnemonic = "impact lonely fiscal tumble balcony sunny lesson wall indicate cricket cube lottery";

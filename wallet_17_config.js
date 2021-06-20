@@ -1,1 +1,1 @@
-var mnemonic = "gold quit dust brick reopen chronic equip fury sniff travel acquire text";
+var mnemonic = "cube flip stone deposit witness carpet super axis place glare what topic";

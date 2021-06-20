@@ -1,1 +1,1 @@
-var mnemonic = "news column sudden gauge orbit camera say modify deliver reflect rent lonely";
+var mnemonic = "rain later tonight embark celery turkey casino jealous crumble eyebrow sugar load";

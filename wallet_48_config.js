@@ -1,1 +1,1 @@
-var mnemonic = "ignore soul sleep funny secret fade track lizard shoot choice brown render";
+var mnemonic = "choose seek tobacco among unknown lecture sustain divorce tank exhibit gift step";

@@ -1,1 +1,1 @@
-var mnemonic = "glass various noble leopard merge win sorry silk summer grab memory limb";
+var mnemonic = "come fence bridge element solve another voice nasty broccoli utility master member";

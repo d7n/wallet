@@ -1,1 +1,1 @@
-var mnemonic = "wild lion pole around drift camera deny sunset matter deposit harbor ride";
+var mnemonic = "garden more echo moon teach spread opera drop swear foam welcome allow";

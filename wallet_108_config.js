@@ -1,1 +1,1 @@
-var mnemonic = "suffer recipe broken echo midnight card machine flip ocean left huge champion";
+var mnemonic = "worry response thought soccer fence cabin inherit anxiety keen banana company vital";

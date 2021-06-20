@@ -1,1 +1,1 @@
-var mnemonic = "core stay trick ritual peasant ahead govern double alien flip any axis";
+var mnemonic = "slam omit receive observe style bind direct legend future impulse rifle cricket";

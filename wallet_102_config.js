@@ -1,1 +1,1 @@
-var mnemonic = "double feed name satoshi dry sibling laptop spoil room endorse tired pulse";
+var mnemonic = "unit fine genre wild oxygen planet cool frame fire guilt theory fame";

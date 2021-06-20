@@ -1,1 +1,1 @@
-var mnemonic = "blossom source suggest miracle kind theory enlist toast stand random chapter lend";
+var mnemonic = "version trim involve globe admit moon settle pioneer place hedgehog assault horror";

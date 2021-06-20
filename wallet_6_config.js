@@ -1,1 +1,1 @@
-var mnemonic = "broccoli nice fly ranch bronze wet scare wealth purse pistol chief upgrade";
+var mnemonic = "what feature era renew candy walnut junk popular spoil learn post despair";

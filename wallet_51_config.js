@@ -1,1 +1,1 @@
-var mnemonic = "blood patient rug fame peanut leaf either afford pet try monkey target";
+var mnemonic = "speak column profit rally bomb gather sure awful view since basic limb";

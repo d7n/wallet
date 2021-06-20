@@ -1,1 +1,1 @@
-var mnemonic = "decrease night town midnight layer false cute increase trouble fortune chuckle lazy";
+var mnemonic = "tongue fragile radar pond put company square slice quality soul note jacket";

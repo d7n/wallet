@@ -1,1 +1,1 @@
-var mnemonic = "word loyal reject skill salute marine drastic bargain report firm able medal";
+var mnemonic = "action jealous token sad obey glove catch cluster few print pair nerve";

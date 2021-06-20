@@ -1,1 +1,1 @@
-var mnemonic = "shaft pigeon delay miracle pudding expect early fringe shadow prevent rich weekend";
+var mnemonic = "skin fossil fine scare guard budget senior oxygen cricket fatal lumber guard";

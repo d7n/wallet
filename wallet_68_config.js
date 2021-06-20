@@ -1,1 +1,1 @@
-var mnemonic = "riot drastic decrease horse surface tool already dragon garment pretty nerve west";
+var mnemonic = "input few village kidney spot yard twice minute hire fix wasp improve";

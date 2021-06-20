@@ -1,1 +1,1 @@
-var mnemonic = "jelly piano river next suffer view illegal cover inspire enact picnic mosquito";
+var mnemonic = "valve away hover crater until hurdle region reform pyramid coast moon clay";

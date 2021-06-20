@@ -1,1 +1,1 @@
-var mnemonic = "fiction renew beach pave ozone heavy lawn unknown embark steel hat history";
+var mnemonic = "wine injury fringe unveil lend save snap process happy someone decide open";

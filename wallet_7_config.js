@@ -1,1 +1,1 @@
-var mnemonic = "soap fatal hybrid explain broom couple flee bright muffin wall year nut";
+var mnemonic = "news surround job album enjoy fat glide normal damage snap transfer cabin";

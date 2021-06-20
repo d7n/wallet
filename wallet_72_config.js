@@ -1,1 +1,1 @@
-var mnemonic = "quick change fortune man copper crack focus viable wise state hen hour";
+var mnemonic = "daring alarm trial north swift moral session gentle topple sudden arm unfold";

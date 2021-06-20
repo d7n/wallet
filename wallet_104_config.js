@@ -1,1 +1,1 @@
-var mnemonic = "crop always arctic suspect immense horror kitten eternal picnic leg chair canal";
+var mnemonic = "fiscal senior tuna voyage display belt joke saddle sketch crouch worry dance";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon unveil erupt trim ready energy body belt volume rack early skill";
+var mnemonic = "cook spare exit unveil trophy item silver south poverty reflect kiwi vacuum";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom media hill zebra between bird client hospital plastic balance scheme hole";
+var mnemonic = "motor moment office faith hour empower spend doll lift link asset salad";

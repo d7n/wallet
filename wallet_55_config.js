@@ -1,1 +1,1 @@
-var mnemonic = "exhibit multiply run cover earn example zero home uncover service wool catalog";
+var mnemonic = "quote shiver yellow humor young student resist fog awkward aerobic divorce echo";

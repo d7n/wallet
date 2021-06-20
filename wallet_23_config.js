@@ -1,1 +1,1 @@
-var mnemonic = "bullet thing critic resist genre still gasp broccoli you join demand tornado";
+var mnemonic = "vessel endless gospel smoke slender identify sweet dust tone ensure coconut domain";

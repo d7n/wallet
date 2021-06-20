@@ -1,1 +1,1 @@
-var mnemonic = "poem general wait crouch afford lunar track illness canoe gadget giraffe derive";
+var mnemonic = "element plate taste light hen stable spray video corn whip join surround";

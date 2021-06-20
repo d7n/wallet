@@ -1,1 +1,1 @@
-var mnemonic = "other pool garlic common bulb camera turn install when butter know weather";
+var mnemonic = "electric disease huge chase suggest city annual day report solve law rather";

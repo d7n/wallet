@@ -1,1 +1,1 @@
-var mnemonic = "throw unique remember now senior mind become home picnic garden calm elite";
+var mnemonic = "bounce patch pencil blue point receive walnut jelly betray hockey assume leaf";

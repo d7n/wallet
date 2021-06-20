@@ -1,1 +1,1 @@
-var mnemonic = "axis position dress suit glimpse ginger cloud amount middle cage miracle pioneer";
+var mnemonic = "supply awful raise anchor wisdom fever style inform extra mother margin cry";

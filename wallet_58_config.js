@@ -1,1 +1,1 @@
-var mnemonic = "elevator math miracle fortune basket eternal only goose soon cancel inmate avocado";
+var mnemonic = "warm ketchup cross ride segment solution aim scrap slice asthma parent evolve";

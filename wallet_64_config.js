@@ -1,1 +1,1 @@
-var mnemonic = "tobacco collect tenant always garden title frown hand fly time bring same";
+var mnemonic = "whip basic powder want dragon child turkey indicate rich vapor start spider";

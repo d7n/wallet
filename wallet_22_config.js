@@ -1,1 +1,1 @@
-var mnemonic = "dirt unaware fever below borrow toast merit exile save worth prepare spirit";
+var mnemonic = "juice egg canal giraffe dawn ivory thumb enact crop velvet client huge";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle used enemy law festival foster supply nature blouse penalty fiber awake";
+var mnemonic = "anger start top grape matrix basket inform copper bench holiday time cereal";

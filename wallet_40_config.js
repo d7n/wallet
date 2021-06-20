@@ -1,1 +1,1 @@
-var mnemonic = "knife deer outer great oval tonight orient dish pause innocent antique art";
+var mnemonic = "resource that attitude idea kick ranch member rely rally rival math party";

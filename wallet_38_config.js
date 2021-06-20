@@ -1,1 +1,1 @@
-var mnemonic = "brain taste undo chest armor unfold defense assume enlist enjoy mystery enact";
+var mnemonic = "approve flush question write fruit job disorder sword august next deliver lion";

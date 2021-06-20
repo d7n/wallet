@@ -1,1 +1,1 @@
-var mnemonic = "ghost farm enhance floor bounce slide pluck base cat teach galaxy syrup";
+var mnemonic = "stock coconut bone fortune scheme trap volume install ginger brisk whale kidney";

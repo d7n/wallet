@@ -1,1 +1,1 @@
-var mnemonic = "strong alpha black include order visual trend ill sponsor orbit rule tail";
+var mnemonic = "provide capable riot city flight waste super truth piece retire lamp uncle";

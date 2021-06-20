@@ -1,1 +1,1 @@
-var mnemonic = "airport lecture frozen quick better panda friend celery caution pride orient isolate";
+var mnemonic = "shaft air exclude goat happy violin coin huge dawn glance various miracle";

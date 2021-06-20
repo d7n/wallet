@@ -1,1 +1,1 @@
-var mnemonic = "oyster jump ranch trim assist now close echo purse mention demise nut";
+var mnemonic = "party camera sister dry execute ocean mouse exhibit produce flock main share";

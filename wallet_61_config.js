@@ -1,1 +1,1 @@
-var mnemonic = "neutral lyrics top venture mercy bundle august target system ring aunt ensure";
+var mnemonic = "alcohol want drastic runway then mass pool mobile invest blue stable airport";

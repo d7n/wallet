@@ -1,1 +1,1 @@
-var mnemonic = "suit adjust endorse short lounge seat any smooth illness split word bean";
+var mnemonic = "scare lunar journey gift else start smoke smoke vintage pet frost rhythm";

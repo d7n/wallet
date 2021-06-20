@@ -1,1 +1,1 @@
-var mnemonic = "frame train fossil neutral produce bid bracket pet pelican globe access give";
+var mnemonic = "venture various van rocket assist tool you champion knife solution can team";

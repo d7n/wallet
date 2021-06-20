@@ -1,1 +1,1 @@
-var mnemonic = "sea adult beauty ship hobby resource sad usual critic scatter bench cloth";
+var mnemonic = "beach hunt nothing escape true case exotic soft pelican erupt knock alarm";
