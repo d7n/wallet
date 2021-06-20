@@ -1,1 +1,1 @@
-var mnemonic = "picnic cloth transfer wink wait language resource gap beef later series kidney";
+var mnemonic = "wheat occur dry police metal object barrel couple right post young muffin";

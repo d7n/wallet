@@ -1,1 +1,1 @@
-var mnemonic = "creek that saddle start monitor soldier juice nerve bring project stumble unable";
+var mnemonic = "pear cluster harvest kite emerge sand vacuum blossom frame fog boat spray";

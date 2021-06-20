@@ -1,1 +1,1 @@
-var mnemonic = "odor luggage term paddle clown zero young quote hire cycle host love";
+var mnemonic = "thank spider various fiscal wish bring crowd profit shaft board echo accident";

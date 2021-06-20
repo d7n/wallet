@@ -1,1 +1,1 @@
-var mnemonic = "regret resemble dawn utility immune frog canal ritual talent reform surface trigger";
+var mnemonic = "wish trade vicious proof comic vocal project wink canvas pyramid twin say";

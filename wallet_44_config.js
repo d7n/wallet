@@ -1,1 +1,1 @@
-var mnemonic = "wrist bird cloth simple mixed muffin mosquito music enroll border surround post";
+var mnemonic = "carpet myth legend benefit income debris enjoy cram remember valley add scheme";

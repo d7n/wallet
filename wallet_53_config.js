@@ -1,1 +1,1 @@
-var mnemonic = "trend ketchup roast room help west album awesome sun demise ivory news";
+var mnemonic = "spirit faculty romance finger shell cheese into purse loop gadget siren absurd";

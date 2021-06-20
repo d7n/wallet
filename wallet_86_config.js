@@ -1,1 +1,1 @@
-var mnemonic = "finger thank noble climb joy label mystery work smile trash gate core";
+var mnemonic = "knee typical kiwi dolphin company unfair easy glow place zone hood dust";

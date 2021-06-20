@@ -1,1 +1,1 @@
-var mnemonic = "buyer clown arrest subject casino false vacuum you solution say seed pupil";
+var mnemonic = "wear grass parent brown secret swamp stand version desk clutch boil valid";

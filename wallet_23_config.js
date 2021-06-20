@@ -1,1 +1,1 @@
-var mnemonic = "feed trumpet again garage hamster usage paper wheat search entire category sport";
+var mnemonic = "inside limit gaze offer victory gaze type insect combine museum couch column";

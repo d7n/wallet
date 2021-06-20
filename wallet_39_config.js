@@ -1,1 +1,1 @@
-var mnemonic = "breeze evil elite shock rare supply mind dumb skin modify dinosaur hamster";
+var mnemonic = "slogan disagree catch action fox pear jelly expire liberty supply tumble alert";

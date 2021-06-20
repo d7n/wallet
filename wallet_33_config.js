@@ -1,1 +1,1 @@
-var mnemonic = "frost crowd settle cloth blame error awful uniform hover bean bitter approve";
+var mnemonic = "saddle clump mail human proud double furnace butter hope edge gentle brisk";

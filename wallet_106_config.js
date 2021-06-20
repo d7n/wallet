@@ -1,1 +1,1 @@
-var mnemonic = "earth hunt boat skirt valley kiss insane act harvest fog panther witness";
+var mnemonic = "gasp image early liquid doctor north faculty also hunt public exclude blur";

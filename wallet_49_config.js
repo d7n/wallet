@@ -1,1 +1,1 @@
-var mnemonic = "jazz rifle involve egg round myself mass eternal giggle snap slender key";
+var mnemonic = "arrow quit vibrant elegant grocery deny match slight now gravity drop virus";

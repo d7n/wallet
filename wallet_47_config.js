@@ -1,1 +1,1 @@
-var mnemonic = "suffer cupboard expire orchard replace merry almost fox forget myth zoo pottery";
+var mnemonic = "item loan mushroom dance tragic kitchen guard dose vault gadget dolphin latin";

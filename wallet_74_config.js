@@ -1,1 +1,1 @@
-var mnemonic = "struggle remain law napkin organ guard uniform galaxy timber conduct glare mistake";
+var mnemonic = "fiction priority cloud ignore dry science anger lunar chase one almost airport";

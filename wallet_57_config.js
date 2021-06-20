@@ -1,1 +1,1 @@
-var mnemonic = "brown search dolphin velvet dwarf stamp envelope garage annual deputy hotel wall";
+var mnemonic = "blind amateur riot slim man shadow crime minor anchor fiction novel speak";

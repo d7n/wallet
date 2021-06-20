@@ -1,1 +1,1 @@
-var mnemonic = "frozen expose trap sustain nuclear vanish install remove cash fortune neck either";
+var mnemonic = "gas guard helmet oil culture faint use stuff defy useless noodle story";

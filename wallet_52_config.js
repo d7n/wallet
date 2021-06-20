@@ -1,1 +1,1 @@
-var mnemonic = "skin champion select effort grow credit pass used summer lend never verify";
+var mnemonic = "fatigue salt nothing often submit floor crisp valley such bitter round hello";

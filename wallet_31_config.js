@@ -1,1 +1,1 @@
-var mnemonic = "advice cream health despair oval truck burden bulb that autumn scatter between";
+var mnemonic = "tape tennis evoke text leopard fancy hill idle silent math shy end";

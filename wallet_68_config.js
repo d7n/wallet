@@ -1,1 +1,1 @@
-var mnemonic = "april begin quality float left note shed segment wear category matrix inch";
+var mnemonic = "spray bacon question dad remind void jazz pull pottery since velvet make";

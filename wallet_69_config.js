@@ -1,1 +1,1 @@
-var mnemonic = "fire luxury nature title alley shield insect slab dad engage thunder math";
+var mnemonic = "filter noodle lake rural actual rose pottery reform timber wire device pencil";

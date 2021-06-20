@@ -1,1 +1,1 @@
-var mnemonic = "rail convince express butter deposit notice energy patient duty battle staff coast";
+var mnemonic = "garage arch chaos cycle welcome they boost magnet movie bike ship fine";

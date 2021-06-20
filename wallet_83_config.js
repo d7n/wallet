@@ -1,1 +1,1 @@
-var mnemonic = "body warm bone income barrel roof burst viable donkey sword donor helmet";
+var mnemonic = "orchard cloud post soon vast cupboard oil argue bachelor lawsuit miracle cake";

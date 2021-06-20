@@ -1,1 +1,1 @@
-var mnemonic = "thunder dismiss wreck labor delay finish recall myself uniform enrich audit refuse";
+var mnemonic = "caution often say rare dutch govern current order subway absorb silent diagram";

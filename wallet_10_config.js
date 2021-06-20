@@ -1,1 +1,1 @@
-var mnemonic = "indicate kidney better shrimp attend deposit depth domain inherit retreat across one";
+var mnemonic = "evidence enrich climb primary wine echo similar toilet apple typical seat another";

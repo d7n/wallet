@@ -1,1 +1,1 @@
-var mnemonic = "all damage near super car arm mass digital pledge chronic click doll";
+var mnemonic = "mistake way bracket together clever salon entire swap quick lucky tomorrow small";

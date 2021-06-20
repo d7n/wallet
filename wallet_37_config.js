@@ -1,1 +1,1 @@
-var mnemonic = "toe bulk hope ocean surround evidence allow release replace nasty butter birth";
+var mnemonic = "human volume high window reunion brain cage nasty amateur farm coyote loyal";

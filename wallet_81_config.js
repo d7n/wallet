@@ -1,1 +1,1 @@
-var mnemonic = "reunion mandate deputy truly false wasp mind problem forum property tissue chef";
+var mnemonic = "human monkey expect lecture raccoon hen update crime illness firm sight strong";

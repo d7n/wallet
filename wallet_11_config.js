@@ -1,1 +1,1 @@
-var mnemonic = "truth mother infant seminar elder own joy tip pattern gasp license fatal";
+var mnemonic = "fantasy theory more core human wrong ladder quarter young canyon video hen";

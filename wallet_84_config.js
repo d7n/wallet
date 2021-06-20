@@ -1,1 +1,1 @@
-var mnemonic = "enable index episode album symptom truck ice shine maze try craft child";
+var mnemonic = "genre turtle loop follow client sunny program elegant kiwi common night gown";

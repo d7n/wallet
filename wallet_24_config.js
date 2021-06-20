@@ -1,1 +1,1 @@
-var mnemonic = "access medal image drama carpet produce outdoor author useful egg panda uncover";
+var mnemonic = "forget sell warrior brown final industry mixed recall erase slice industry refuse";

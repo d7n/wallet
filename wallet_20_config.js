@@ -1,1 +1,1 @@
-var mnemonic = "utility share genre nerve weasel surge define can target jazz used select";
+var mnemonic = "conduct keep valid mechanic involve album relax choice recycle ordinary victory wagon";

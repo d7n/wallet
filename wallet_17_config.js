@@ -1,1 +1,1 @@
-var mnemonic = "blast average cigar stamp toast term seat outside sponsor apple bright crowd";
+var mnemonic = "broccoli tiny vicious quantum jewel frame jump ceiling chief such master fiber";

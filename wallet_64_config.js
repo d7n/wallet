@@ -1,1 +1,1 @@
-var mnemonic = "family any sell level ring sample ticket horror main guess trial add";
+var mnemonic = "midnight bus mad slim dash raw maximum panda baby clown jacket alpha";

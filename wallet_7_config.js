@@ -1,1 +1,1 @@
-var mnemonic = "improve magic toilet suffer use please enroll divide then acoustic family dove";
+var mnemonic = "miracle vote prepare reflect honey vendor slim west legal taxi timber urban";

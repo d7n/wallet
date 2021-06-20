@@ -1,1 +1,1 @@
-var mnemonic = "observe aisle occur ranch rough same breeze grunt judge pipe pet people";
+var mnemonic = "abuse annual once job ticket lady inform giant frozen album sense board";

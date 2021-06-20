@@ -1,1 +1,1 @@
-var mnemonic = "rare stereo this pumpkin usual saddle thumb airport bike churn buzz evidence";
+var mnemonic = "sentence age ecology monster poem urban digital scare cricket cheese wrong move";

@@ -1,1 +1,1 @@
-var mnemonic = "baby mail inherit monkey portion brush various birth anchor pill render congress";
+var mnemonic = "acquire welcome rail battle super wine obvious print place blue stereo resemble";

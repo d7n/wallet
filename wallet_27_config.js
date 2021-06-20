@@ -1,1 +1,1 @@
-var mnemonic = "depend jump expect winner avocado satisfy price eagle cancel sport cement credit";
+var mnemonic = "galaxy reveal web assault life boat erosion carbon era blade pluck party";

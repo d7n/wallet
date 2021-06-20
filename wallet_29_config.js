@@ -1,1 +1,1 @@
-var mnemonic = "answer borrow west average retire picture chat speed balance drastic curious scissors";
+var mnemonic = "pear future round shy noble sick glory timber piano drive phrase domain";

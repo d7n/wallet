@@ -1,1 +1,1 @@
-var mnemonic = "engage core same mammal release ill predict virtual rhythm can basic letter";
+var mnemonic = "sponsor bargain erosion record immune bullet favorite sample doctor autumn actor harsh";

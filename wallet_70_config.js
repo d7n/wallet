@@ -1,1 +1,1 @@
-var mnemonic = "foam mystery profit debate baby trust result share open analyst buyer stove";
+var mnemonic = "guard tribe skate type grid visit page hotel divide trip rely arm";

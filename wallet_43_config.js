@@ -1,1 +1,1 @@
-var mnemonic = "primary husband twelve retreat brown muffin squeeze kitten decide carbon onion order";
+var mnemonic = "lunar wheat bid antenna cannon canyon melt plunge cotton mimic afford reject";

@@ -1,1 +1,1 @@
-var mnemonic = "trap amazing lamp rubber adjust hockey balcony unlock left deliver regular seminar";
+var mnemonic = "silly rare alien feed wine hour crowd another bamboo youth autumn track";

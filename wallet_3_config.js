@@ -1,1 +1,1 @@
-var mnemonic = "already slim useful foster egg flip taste example tunnel dizzy lonely hybrid";
+var mnemonic = "clutch sugar say success february favorite flip devote wagon grid salmon entry";

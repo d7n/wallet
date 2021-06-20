@@ -1,1 +1,1 @@
-var mnemonic = "bunker during chaos quantum bird pill just raw since parent motion leopard";
+var mnemonic = "bullet disease vanish initial card ahead cruel true tragic spell mutual south";

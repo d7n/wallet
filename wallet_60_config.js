@@ -1,1 +1,1 @@
-var mnemonic = "property now twin barrel chicken history junk arrow mimic jacket member journey";
+var mnemonic = "subject afford inner spray neglect ramp inform issue master draft toddler hurt";

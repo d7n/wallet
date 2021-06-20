@@ -1,1 +1,1 @@
-var mnemonic = "culture unlock crawl foil engine meat code cricket slush voyage end stock";
+var mnemonic = "poet pool report amount portion mad gloom old vocal fitness desk bleak";

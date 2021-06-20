@@ -1,1 +1,1 @@
-var mnemonic = "venture torch harbor lock apple layer among subject donate novel exact until";
+var mnemonic = "prison cancel arrange swing napkin lunar cradle elite liar tomato awful install";

@@ -1,1 +1,1 @@
-var mnemonic = "follow anchor effort ship page orphan razor dog attack law high neutral";
+var mnemonic = "wrap pelican treat settle essence garden six ladder sweet gym weather file";

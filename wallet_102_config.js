@@ -1,1 +1,1 @@
-var mnemonic = "arena scale wisdom famous stone approve profit gun hour path hard disagree";
+var mnemonic = "oxygen rabbit frequent math nasty night orbit floor rescue sunny high leg";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze response first spirit poverty exhaust draw hair spring comfort object victory";
+var mnemonic = "kiss movie company rare health green kiss step spirit accuse police sponsor";

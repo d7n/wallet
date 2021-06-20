@@ -1,1 +1,1 @@
-var mnemonic = "side bird valid mutual build drama opera sketch unable punch super corn";
+var mnemonic = "secret toe upper chalk rigid furnace hill term nature derive tag piano";

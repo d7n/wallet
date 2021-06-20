@@ -1,1 +1,1 @@
-var mnemonic = "roast theory stairs slice space margin guilt lawsuit quarter front deer dignity";
+var mnemonic = "fish quantum keep next tourist health wasp mad arrow affair rally true";

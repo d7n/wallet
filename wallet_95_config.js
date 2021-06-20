@@ -1,1 +1,1 @@
-var mnemonic = "crisp eight swap jewel pig attract impulse flight drift gesture gain gate";
+var mnemonic = "great crop dust eyebrow water possible clarify cattle return forward ghost dress";

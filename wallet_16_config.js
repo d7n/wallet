@@ -1,1 +1,1 @@
-var mnemonic = "budget earth half install summer gold body budget situate neither course fancy";
+var mnemonic = "scale title solve run private someone purse cactus gauge thought visit almost";

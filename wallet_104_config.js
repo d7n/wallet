@@ -1,1 +1,1 @@
-var mnemonic = "power useful pizza planet knock potato symbol parent fabric forest pioneer hood";
+var mnemonic = "innocent lyrics install account throw divert shadow shuffle rapid melody stick sister";

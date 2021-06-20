@@ -1,1 +1,1 @@
-var mnemonic = "trade decrease trash warrior pull naive broken output near apple boy air";
+var mnemonic = "visual fluid miss labor attitude crush time maple bleak issue judge ridge";

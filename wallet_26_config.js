@@ -1,1 +1,1 @@
-var mnemonic = "next minute pistol decade turkey lawsuit ripple chalk vapor whisper dawn shoe";
+var mnemonic = "slight almost farm scorpion solution pumpkin top comfort tiger goose version fee";

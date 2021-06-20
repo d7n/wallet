@@ -1,1 +1,1 @@
-var mnemonic = "tackle black dash slush remind gas sweet combine stock panther end test";
+var mnemonic = "naive thought imitate human cool civil west kid eagle denial tourist mesh";

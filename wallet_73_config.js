@@ -1,1 +1,1 @@
-var mnemonic = "multiply sketch asset fitness foil album collect trend divide online ring charge";
+var mnemonic = "employ mail inner hood electric stool track valve version decorate arena crash";

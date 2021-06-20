@@ -1,1 +1,1 @@
-var mnemonic = "front runway addict place paper sweet reduce radar chair album cradle talk";
+var mnemonic = "aerobic bounce sun vault pizza horn talk grunt winner bag captain moral";

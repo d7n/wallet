@@ -1,1 +1,1 @@
-var mnemonic = "spoil office term indicate trouble bacon ticket submit evidence hurt kitten pattern";
+var mnemonic = "tooth bulb elder magic govern pizza board fiction author fiction nothing kind";

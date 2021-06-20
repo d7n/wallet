@@ -1,1 +1,1 @@
-var mnemonic = "exchange lonely reopen puzzle envelope search zebra canoe cable prefer lock pool";
+var mnemonic = "lawsuit congress yard robust remain quarter harvest shy summer gallery three credit";

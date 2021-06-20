@@ -1,1 +1,1 @@
-var mnemonic = "river goose analyst flip project hundred cloth solve measure slide side horn";
+var mnemonic = "accuse deer trash address jaguar butter virtual iron uniform connect whale release";

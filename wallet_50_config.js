@@ -1,1 +1,1 @@
-var mnemonic = "royal pledge chair rate scout witness worry box fun plastic cigar album";
+var mnemonic = "sausage pill cruise breeze fringe reduce home winner hazard like amused seminar";

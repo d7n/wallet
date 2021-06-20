@@ -1,1 +1,1 @@
-var mnemonic = "leave absent banana apple nature token page east fiscal forget image share";
+var mnemonic = "cotton arrange unable cactus slam expand dream artist equal month sword lens";

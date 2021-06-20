@@ -1,1 +1,1 @@
-var mnemonic = "slam capable drink genius test nurse lens wedding window veteran music always";
+var mnemonic = "boat actual original file divide dog purity sell dawn piano force actress";

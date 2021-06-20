@@ -1,1 +1,1 @@
-var mnemonic = "clerk meat liar december hidden check there fancy never barrel violin expand";
+var mnemonic = "feature sketch flock way shoot crack ignore echo glare stool fitness topple";

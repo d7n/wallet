@@ -1,1 +1,1 @@
-var mnemonic = "win interest hole pause gown stem clock pioneer claw goddess final clarify";
+var mnemonic = "exit coast grant powder intact rib brisk live tissue crew opinion work";

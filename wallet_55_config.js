@@ -1,1 +1,1 @@
-var mnemonic = "knock exclude provide town apple human sight inhale capable junior great hole";
+var mnemonic = "glimpse thought strike sugar nuclear sausage addict wear grain arrive hand hungry";

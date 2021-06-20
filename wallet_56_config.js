@@ -1,1 +1,1 @@
-var mnemonic = "coil client coil pet head renew make weird six silly assault comic";
+var mnemonic = "city tongue argue ranch vicious coil talk luxury bonus kiss win traffic";

@@ -1,1 +1,1 @@
-var mnemonic = "merry someone sign memory casual race wet drift game wave loop ginger";
+var mnemonic = "shoe canal hurt quality ski card powder donate kick gauge slam crane";

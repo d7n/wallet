@@ -1,1 +1,1 @@
-var mnemonic = "frost soul quiz auction want leopard inherit tongue loyal cute kind since";
+var mnemonic = "deputy almost program unknown fuel industry cube protect sell device sock else";

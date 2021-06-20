@@ -1,1 +1,1 @@
-var mnemonic = "public chef panther lock exhibit become toe crush laptop fantasy vague obtain";
+var mnemonic = "bird citizen woman cancel chair cable earn have nut when grocery moon";

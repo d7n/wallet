@@ -1,1 +1,1 @@
-var mnemonic = "secret prize salon leader enroll trap fold chicken cactus spell catch lyrics";
+var mnemonic = "market process review powder silk measure foam hidden toilet firm hazard next";

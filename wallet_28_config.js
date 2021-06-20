@@ -1,1 +1,1 @@
-var mnemonic = "banner enact corn target canvas pave cinnamon answer wing vapor update high";
+var mnemonic = "give notable tail wall wing riot visual inflict elbow east glimpse loud";

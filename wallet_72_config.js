@@ -1,1 +1,1 @@
-var mnemonic = "world curious trap cash once private innocent shiver duck slide hope danger";
+var mnemonic = "often episode narrow recipe wonder catch pear caution question nation creek upon";

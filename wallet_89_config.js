@@ -1,1 +1,1 @@
-var mnemonic = "sponsor giraffe napkin work venture pretty husband stay involve orange chicken sure";
+var mnemonic = "cruise bone man correct lemon great float next very rescue unfair kit";

@@ -1,1 +1,1 @@
-var mnemonic = "average will cake deal correct member cross once blame liar ecology answer";
+var mnemonic = "uniform perfect unfair nice column alpha prefer away collect bike matter air";

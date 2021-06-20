@@ -1,1 +1,1 @@
-var mnemonic = "wash run brush bar inside kick spend age dinosaur omit gaze skill";
+var mnemonic = "mind island illegal nerve connect industry gas vote goat pride logic omit";

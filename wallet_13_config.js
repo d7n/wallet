@@ -1,1 +1,1 @@
-var mnemonic = "rule spike bus live cancel trust team alien fee useless deer until";
+var mnemonic = "speak hollow document surround slot leopard rural suit zoo quick planet service";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion ride fuel clutch slogan combine enact youth slide rough scene bicycle";
+var mnemonic = "gym shop script tube senior today liberty evil what barrel pulse crack";

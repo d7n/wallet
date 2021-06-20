@@ -1,1 +1,1 @@
-var mnemonic = "kitten aunt cost armor violin kitchen enhance decade floor strategy oxygen tackle";
+var mnemonic = "ozone dose diesel swim gain cannon mail bring struggle gadget tube satisfy";

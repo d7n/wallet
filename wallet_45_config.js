@@ -1,1 +1,1 @@
-var mnemonic = "grant spell panic furnace test other unusual dawn other tissue strike glory";
+var mnemonic = "wealth topic jaguar bonus sheriff top image save silk same mandate idea";

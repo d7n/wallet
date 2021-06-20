@@ -1,1 +1,1 @@
-var mnemonic = "cost later various annual alcohol follow dilemma better spread pause mention marine";
+var mnemonic = "photo message inflict pepper buffalo pig reduce jewel embrace twist cement humor";

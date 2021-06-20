@@ -1,1 +1,1 @@
-var mnemonic = "rhythm ice unique load fancy flash worry flock raw awake oblige bread";
+var mnemonic = "kiss february number draw smooth forget sing trigger affair mistake busy wheat";

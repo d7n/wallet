@@ -1,1 +1,1 @@
-var mnemonic = "roof exhibit dumb spoil coach region shield sting hockey fortune payment hidden";
+var mnemonic = "sweet spider kiwi insect aim slab crater pizza wild fee indicate visual";

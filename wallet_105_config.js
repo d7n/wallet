@@ -1,1 +1,1 @@
-var mnemonic = "reopen shell equal service foil midnight obvious lunar miracle coffee amazing sight";
+var mnemonic = "clap glad reflect chimney utility medal extra canyon august strike rescue gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "tongue add liquid weapon prefer have virus desert mystery broken series material";
+var mnemonic = "seminar oak waste laundry visit broom cake response view denial tray tourist";

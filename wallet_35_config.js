@@ -1,1 +1,1 @@
-var mnemonic = "mom unfold license lock tent gold jar quantum virus right weapon buddy";
+var mnemonic = "item opera hope fancy boring minute hungry maze memory coach siren holiday";
