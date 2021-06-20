@@ -1,1 +1,1 @@
-var mnemonic = "anxiety scene lounge spend oblige replace alley orbit coach anger nasty usual";
+var mnemonic = "frost crowd settle cloth blame error awful uniform hover bean bitter approve";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon brick intact stand approve lemon ten bridge pony episode crew session";
+var mnemonic = "engage core same mammal release ill predict virtual rhythm can basic letter";

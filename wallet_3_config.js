@@ -1,1 +1,1 @@
-var mnemonic = "blast engine expire patrol rescue acquire solar pet pass situate kiss crumble";
+var mnemonic = "already slim useful foster egg flip taste example tunnel dizzy lonely hybrid";

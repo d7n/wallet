@@ -1,1 +1,1 @@
-var mnemonic = "atom boss man stairs snow sadness kingdom friend minute saddle concert swamp";
+var mnemonic = "suffer cupboard expire orchard replace merry almost fox forget myth zoo pottery";

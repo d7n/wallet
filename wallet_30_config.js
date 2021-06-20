@@ -1,1 +1,1 @@
-var mnemonic = "imitate rapid black grape true evolve decade drill endless true atom loud";
+var mnemonic = "frost soul quiz auction want leopard inherit tongue loyal cute kind since";

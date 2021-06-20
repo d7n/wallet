@@ -1,1 +1,1 @@
-var mnemonic = "earn luggage narrow glide shaft mixed fault rocket brush elegant female teach";
+var mnemonic = "lounge attitude property ski horse deposit silk tray chimney critic project west";

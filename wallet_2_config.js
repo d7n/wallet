@@ -1,1 +1,1 @@
-var mnemonic = "divide typical add wise despair girl ivory portion jazz sibling material brick";
+var mnemonic = "front runway addict place paper sweet reduce radar chair album cradle talk";

@@ -1,1 +1,1 @@
-var mnemonic = "boil coyote piece monkey height update rocket reduce exotic expect local surround";
+var mnemonic = "regret resemble dawn utility immune frog canal ritual talent reform surface trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "forum fork build help gentle tank private oak task flat speak cycle";
+var mnemonic = "struggle remain law napkin organ guard uniform galaxy timber conduct glare mistake";

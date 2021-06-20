@@ -1,1 +1,1 @@
-var mnemonic = "tell team item stereo again tortoise arena alter lazy crash palace dad";
+var mnemonic = "leave absent banana apple nature token page east fiscal forget image share";

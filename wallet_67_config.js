@@ -1,1 +1,1 @@
-var mnemonic = "appear mean struggle shoe music wink juice firm jeans profit print length";
+var mnemonic = "squeeze response first spirit poverty exhaust draw hair spring comfort object victory";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve category pen near replace prize length pitch foil minor ability tattoo";
+var mnemonic = "venture torch harbor lock apple layer among subject donate novel exact until";

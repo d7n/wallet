@@ -1,1 +1,1 @@
-var mnemonic = "make drastic success decide sample stage utility evil police fall warfare blood";
+var mnemonic = "breeze evil elite shock rare supply mind dumb skin modify dinosaur hamster";

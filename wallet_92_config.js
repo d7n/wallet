@@ -1,1 +1,1 @@
-var mnemonic = "suffer diet traffic trigger faint bubble quit almost crash brother lake salad";
+var mnemonic = "river goose analyst flip project hundred cloth solve measure slide side horn";

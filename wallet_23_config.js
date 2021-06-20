@@ -1,1 +1,1 @@
-var mnemonic = "clean pill shed inject tunnel slot point unusual average capable lemon reward";
+var mnemonic = "feed trumpet again garage hamster usage paper wheat search entire category sport";

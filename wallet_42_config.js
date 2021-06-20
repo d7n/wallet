@@ -1,1 +1,1 @@
-var mnemonic = "distance fringe involve impose window teach design match august swarm turkey blame";
+var mnemonic = "rhythm ice unique load fancy flash worry flock raw awake oblige bread";

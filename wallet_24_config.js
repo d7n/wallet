@@ -1,1 +1,1 @@
-var mnemonic = "flag general divorce blind blue exchange squeeze exhibit penalty question verb violin";
+var mnemonic = "access medal image drama carpet produce outdoor author useful egg panda uncover";

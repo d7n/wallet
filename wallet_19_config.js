@@ -1,1 +1,1 @@
-var mnemonic = "voyage cycle loud fan yellow culture thumb wink august evolve library hundred";
+var mnemonic = "culture unlock crawl foil engine meat code cricket slush voyage end stock";

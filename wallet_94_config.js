@@ -1,1 +1,1 @@
-var mnemonic = "unaware sentence trust crash stem debris only crash magic scorpion oxygen wrist";
+var mnemonic = "merry someone sign memory casual race wet drift game wave loop ginger";

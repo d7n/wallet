@@ -1,1 +1,1 @@
-var mnemonic = "flower beef scout envelope foam strong aim spell transfer wall film network";
+var mnemonic = "trend ketchup roast room help west album awesome sun demise ivory news";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige index erosion govern believe culture wild denial unhappy erase sing subject";
+var mnemonic = "clerk meat liar december hidden check there fancy never barrel violin expand";

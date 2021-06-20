@@ -1,1 +1,1 @@
-var mnemonic = "receive cup joy evidence print car buffalo affair bubble emotion spin quiz";
+var mnemonic = "sponsor giraffe napkin work venture pretty husband stay involve orange chicken sure";

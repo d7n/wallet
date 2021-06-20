@@ -1,1 +1,1 @@
-var mnemonic = "street foil session talk section high combine mesh scatter combine fish all";
+var mnemonic = "siren power gravity fly blame begin fatigue crush object wink trash cause";

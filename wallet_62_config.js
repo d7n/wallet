@@ -1,1 +1,1 @@
-var mnemonic = "awesome dentist stone sorry sock monster boost escape describe topic rebuild stem";
+var mnemonic = "buyer clown arrest subject casino false vacuum you solution say seed pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "problem movie puppy carpet physical wage enable slow notice glory lucky permit";
+var mnemonic = "truth mother infant seminar elder own joy tip pattern gasp license fatal";

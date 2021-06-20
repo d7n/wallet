@@ -1,1 +1,1 @@
-var mnemonic = "learn music play dizzy future young elbow canoe way act delay hire";
+var mnemonic = "follow anchor effort ship page orphan razor dog attack law high neutral";

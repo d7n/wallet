@@ -1,1 +1,1 @@
-var mnemonic = "subway dirt strong blame desk slow sock bubble away recall better crime";
+var mnemonic = "trade decrease trash warrior pull naive broken output near apple boy air";

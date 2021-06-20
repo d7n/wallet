@@ -1,1 +1,1 @@
-var mnemonic = "inform danger champion embrace junior uniform stumble retire approve lucky future clean";
+var mnemonic = "trap amazing lamp rubber adjust hockey balcony unlock left deliver regular seminar";

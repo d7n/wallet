@@ -1,1 +1,1 @@
-var mnemonic = "such end meat fire section special head motor install acid rifle order";
+var mnemonic = "public chef panther lock exhibit become toe crush laptop fantasy vague obtain";

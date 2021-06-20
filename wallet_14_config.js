@@ -1,1 +1,1 @@
-var mnemonic = "bone butter extend cereal purity suspect scatter phrase sail slide gloom piece";
+var mnemonic = "around uphold sorry burden donkey dentist hollow pudding swift spatial bone shine";

@@ -1,1 +1,1 @@
-var mnemonic = "lens knife nurse save brush pair logic crop dune wood short over";
+var mnemonic = "skin champion select effort grow credit pass used summer lend never verify";

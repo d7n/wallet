@@ -1,1 +1,1 @@
-var mnemonic = "alley donkey tunnel penalty donate rose mercy wink walk soul pitch elbow";
+var mnemonic = "roof exhibit dumb spoil coach region shield sting hockey fortune payment hidden";

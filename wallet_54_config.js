@@ -1,1 +1,1 @@
-var mnemonic = "picture portion annual fence notice length parrot fall elevator occur uniform tiger";
+var mnemonic = "walk day tree once crop wave parent together south exchange scheme belt";

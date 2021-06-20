@@ -1,1 +1,1 @@
-var mnemonic = "plastic evidence path neutral boil pill error minimum someone security renew suggest";
+var mnemonic = "all damage near super car arm mass digital pledge chronic click doll";

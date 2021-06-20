@@ -1,1 +1,1 @@
-var mnemonic = "voice oval syrup faith choose eyebrow frame creek garden protect melody concert";
+var mnemonic = "indicate kidney better shrimp attend deposit depth domain inherit retreat across one";

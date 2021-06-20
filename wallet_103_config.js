@@ -1,1 +1,1 @@
-var mnemonic = "ramp clutch stock bulk tide pumpkin mango olive leg element track ladder";
+var mnemonic = "delay combine digital vibrant utility wall gasp comic tomato long quit paddle";

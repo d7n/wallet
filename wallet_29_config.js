@@ -1,1 +1,1 @@
-var mnemonic = "oppose wreck alarm patch bird author tide control obtain tonight stage noble";
+var mnemonic = "answer borrow west average retire picture chat speed balance drastic curious scissors";

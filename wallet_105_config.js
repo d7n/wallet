@@ -1,1 +1,1 @@
-var mnemonic = "siege cake mention cabin bridge focus bomb reject already hospital figure crew";
+var mnemonic = "reopen shell equal service foil midnight obvious lunar miracle coffee amazing sight";

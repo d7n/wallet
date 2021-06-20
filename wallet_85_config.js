@@ -1,1 +1,1 @@
-var mnemonic = "stuff answer patch perfect jeans taste knee high ocean disease minimum ceiling";
+var mnemonic = "odor trap swing fabric surprise stage knock giggle advice quality trap when";

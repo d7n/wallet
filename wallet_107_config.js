@@ -1,1 +1,1 @@
-var mnemonic = "chronic mesh obvious odor cycle rhythm jewel often solve wisdom flower stereo";
+var mnemonic = "parade enrich during nation write bitter fade veteran grape liquid theory leg";

@@ -1,1 +1,1 @@
-var mnemonic = "sail fox filter today major cancel rebuild unveil mean govern system riot";
+var mnemonic = "rail convince express butter deposit notice energy patient duty battle staff coast";

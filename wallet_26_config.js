@@ -1,1 +1,1 @@
-var mnemonic = "leg company olympic frame misery organ wise world below bullet defy undo";
+var mnemonic = "next minute pistol decade turkey lawsuit ripple chalk vapor whisper dawn shoe";

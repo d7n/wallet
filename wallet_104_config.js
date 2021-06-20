@@ -1,1 +1,1 @@
-var mnemonic = "sweet rack live gospel glad suggest clarify judge random update pigeon debate";
+var mnemonic = "power useful pizza planet knock potato symbol parent fabric forest pioneer hood";

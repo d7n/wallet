@@ -1,1 +1,1 @@
-var mnemonic = "half latin erode various wealth walk cause owner avocado chuckle interest oblige";
+var mnemonic = "merry sphere bind banner view genius expect steel pretty reunion rug alien";

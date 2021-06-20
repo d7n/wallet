@@ -1,1 +1,1 @@
-var mnemonic = "nest confirm use depart prevent ignore essence place crisp aunt tortoise spoon";
+var mnemonic = "side bird valid mutual build drama opera sketch unable punch super corn";

@@ -1,1 +1,1 @@
-var mnemonic = "library verify edge advance begin enjoy error gas someone slush catch fix";
+var mnemonic = "type fence mind spike meat salmon imitate outdoor under forest world gift";

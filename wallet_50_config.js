@@ -1,1 +1,1 @@
-var mnemonic = "day tattoo ball rebel hurdle barrel grab grass credit siege wear bundle";
+var mnemonic = "royal pledge chair rate scout witness worry box fun plastic cigar album";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit patient nuclear approve maid youth vehicle member hip utility icon never";
+var mnemonic = "primary husband twelve retreat brown muffin squeeze kitten decide carbon onion order";

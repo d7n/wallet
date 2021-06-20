@@ -1,1 +1,1 @@
-var mnemonic = "wine hotel layer rifle dad method pink claim engage drastic genre blue";
+var mnemonic = "toe bulk hope ocean surround evidence allow release replace nasty butter birth";

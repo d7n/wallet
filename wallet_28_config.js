@@ -1,1 +1,1 @@
-var mnemonic = "moon salute theory become scrap side company correct order borrow wrap brown";
+var mnemonic = "banner enact corn target canvas pave cinnamon answer wing vapor update high";

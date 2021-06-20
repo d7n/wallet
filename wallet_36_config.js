@@ -1,1 +1,1 @@
-var mnemonic = "fold tattoo tobacco cliff milk program trip volume hurdle timber credit cliff";
+var mnemonic = "secret prize salon leader enroll trap fold chicken cactus spell catch lyrics";

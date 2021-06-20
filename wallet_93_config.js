@@ -1,1 +1,1 @@
-var mnemonic = "burger gate rural vintage december urge approve foot whisper ordinary inflict problem";
+var mnemonic = "virus parrot speed habit device lady man emerge iron twice ancient news";

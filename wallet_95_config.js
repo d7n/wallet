@@ -1,1 +1,1 @@
-var mnemonic = "caution rely device cousin draw boring provide hockey bone orchard ankle vital";
+var mnemonic = "crisp eight swap jewel pig attract impulse flight drift gesture gain gate";

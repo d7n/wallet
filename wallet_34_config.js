@@ -1,1 +1,1 @@
-var mnemonic = "fox ticket forward weird lend sort reflect host drill item ostrich manage";
+var mnemonic = "rare stereo this pumpkin usual saddle thumb airport bike churn buzz evidence";

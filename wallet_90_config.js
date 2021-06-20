@@ -1,1 +1,1 @@
-var mnemonic = "flip lecture finish sketch usage witness pistol tennis what forest mesh small";
+var mnemonic = "average will cake deal correct member cross once blame liar ecology answer";

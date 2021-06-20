@@ -1,1 +1,1 @@
-var mnemonic = "pupil vast limb snow tissue picnic retire plunge ritual ten child sudden";
+var mnemonic = "cost later various annual alcohol follow dilemma better spread pause mention marine";

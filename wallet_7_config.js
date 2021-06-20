@@ -1,1 +1,1 @@
-var mnemonic = "tape stool sustain bright balance actress dumb shrug beyond degree judge ribbon";
+var mnemonic = "improve magic toilet suffer use please enroll divide then acoustic family dove";

@@ -1,1 +1,1 @@
-var mnemonic = "work focus mercy fee purpose banner clutch sting genuine twenty loud chimney";
+var mnemonic = "multiply sketch asset fitness foil album collect trend divide online ring charge";

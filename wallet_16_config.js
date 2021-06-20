@@ -1,1 +1,1 @@
-var mnemonic = "input pilot bubble frozen useless tonight say shoulder lava infant picnic trip";
+var mnemonic = "budget earth half install summer gold body budget situate neither course fancy";

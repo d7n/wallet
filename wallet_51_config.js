@@ -1,1 +1,1 @@
-var mnemonic = "reflect duck top car pink risk million explain merge frequent banner quantum";
+var mnemonic = "picnic cloth transfer wink wait language resource gap beef later series kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle bicycle snap garage spawn must online alpha belt pact awake trick";
+var mnemonic = "advice cream health despair oval truck burden bulb that autumn scatter between";

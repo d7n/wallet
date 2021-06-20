@@ -1,1 +1,1 @@
-var mnemonic = "list churn upgrade choice favorite combine century someone swift stove genuine cupboard";
+var mnemonic = "brown search dolphin velvet dwarf stamp envelope garage annual deputy hotel wall";

@@ -1,1 +1,1 @@
-var mnemonic = "equal book easy inhale office inherit session arrest entry drift gasp exotic";
+var mnemonic = "grant spell panic furnace test other unusual dawn other tissue strike glory";

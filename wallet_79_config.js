@@ -1,1 +1,1 @@
-var mnemonic = "grab test gaze please actress spike almost risk picnic identify gather orient";
+var mnemonic = "habit warfare rabbit knife around play phrase auto gas grit enact talent";

@@ -1,1 +1,1 @@
-var mnemonic = "stable crunch siege merit test mule between still boy valid equip size";
+var mnemonic = "win interest hole pause gown stem clock pioneer claw goddess final clarify";

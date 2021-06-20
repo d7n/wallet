@@ -1,1 +1,1 @@
-var mnemonic = "picture wine boring air ostrich east flee scrap goddess lumber secret border";
+var mnemonic = "pause staff violin bag cram scare purpose display busy glory inspire bench";

@@ -1,1 +1,1 @@
-var mnemonic = "image glimpse lend unable ice quantum vital twenty planet organ brown mean";
+var mnemonic = "utility share genre nerve weasel surge define can target jazz used select";

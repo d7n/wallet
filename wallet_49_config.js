@@ -1,1 +1,1 @@
-var mnemonic = "cool donate high cattle doll update boost legend decline birth daring nephew";
+var mnemonic = "jazz rifle involve egg round myself mass eternal giggle snap slender key";

@@ -1,1 +1,1 @@
-var mnemonic = "main congress blade subway hire index shield near bicycle tennis enhance shed";
+var mnemonic = "reunion mandate deputy truly false wasp mind problem forum property tissue chef";

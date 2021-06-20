@@ -1,1 +1,1 @@
-var mnemonic = "permit unfair civil royal street ordinary display attitude gain color royal steel";
+var mnemonic = "mom unfold license lock tent gold jar quantum virus right weapon buddy";

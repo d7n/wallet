@@ -1,1 +1,1 @@
-var mnemonic = "girl lawn gift bid cherry arrow aisle spatial cry catch fun deliver";
+var mnemonic = "fashion ride fuel clutch slogan combine enact youth slide rough scene bicycle";

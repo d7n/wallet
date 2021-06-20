@@ -1,1 +1,1 @@
-var mnemonic = "text plastic need alone elegant cute market now relax case enter powder";
+var mnemonic = "knock exclude provide town apple human sight inhale capable junior great hole";

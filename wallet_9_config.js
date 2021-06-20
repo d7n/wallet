@@ -1,1 +1,1 @@
-var mnemonic = "sock cluster fun believe juice action consider method physical eternal trust rebel";
+var mnemonic = "roast theory stairs slice space margin guilt lawsuit quarter front deer dignity";

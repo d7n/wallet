@@ -1,1 +1,1 @@
-var mnemonic = "asthma volcano word prosper message benefit favorite ignore speed quote light flat";
+var mnemonic = "family any sell level ring sample ticket horror main guess trial add";

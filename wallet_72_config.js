@@ -1,1 +1,1 @@
-var mnemonic = "pyramid deputy yellow machine dance gather pill close tip enjoy raw elder";
+var mnemonic = "world curious trap cash once private innocent shiver duck slide hope danger";

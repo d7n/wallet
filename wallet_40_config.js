@@ -1,1 +1,1 @@
-var mnemonic = "throw column range glare renew head sort pause lion narrow giant health";
+var mnemonic = "exchange lonely reopen puzzle envelope search zebra canoe cable prefer lock pool";

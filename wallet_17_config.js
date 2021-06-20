@@ -1,1 +1,1 @@
-var mnemonic = "boss same engine vocal harvest assist squeeze layer void sibling arch shoot";
+var mnemonic = "blast average cigar stamp toast term seat outside sponsor apple bright crowd";

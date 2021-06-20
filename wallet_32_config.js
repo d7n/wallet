@@ -1,1 +1,1 @@
-var mnemonic = "fog cost virus robust bunker text cube minor moment bean ethics innocent";
+var mnemonic = "slight chat symptom wrestle neutral before deer life pluck focus pottery topic";

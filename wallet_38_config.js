@@ -1,1 +1,1 @@
-var mnemonic = "disorder order liar high visit stay slam gorilla mixture cousin arrange fatal";
+var mnemonic = "frozen expose trap sustain nuclear vanish install remove cash fortune neck either";

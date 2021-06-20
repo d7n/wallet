@@ -1,1 +1,1 @@
-var mnemonic = "hill ugly mad arrive region hope industry harsh vivid catalog dry carry";
+var mnemonic = "enable index episode album symptom truck ice shine maze try craft child";

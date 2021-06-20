@@ -1,1 +1,1 @@
-var mnemonic = "random accuse lava art leave orange beauty clown slight result spare staff";
+var mnemonic = "april begin quality float left note shed segment wear category matrix inch";

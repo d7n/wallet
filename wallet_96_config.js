@@ -1,1 +1,1 @@
-var mnemonic = "cook clever file control brisk giggle tell clump season narrow tissue wing";
+var mnemonic = "bunker during chaos quantum bird pill just raw since parent motion leopard";

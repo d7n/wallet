@@ -1,1 +1,1 @@
-var mnemonic = "mushroom above choice odor puppy daring second disorder volcano plastic struggle boy";
+var mnemonic = "tackle black dash slush remind gas sweet combine stock panther end test";

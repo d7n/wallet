@@ -1,1 +1,1 @@
-var mnemonic = "trophy drift glad vocal edge refuse produce fruit school general flame crime";
+var mnemonic = "finger thank noble climb joy label mystery work smile trash gate core";

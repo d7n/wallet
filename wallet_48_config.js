@@ -1,1 +1,1 @@
-var mnemonic = "lava case height path trust hospital door unknown army student wall leaf";
+var mnemonic = "thunder dismiss wreck labor delay finish recall myself uniform enrich audit refuse";

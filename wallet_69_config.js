@@ -1,1 +1,1 @@
-var mnemonic = "badge broken visual exile farm matter purpose private drop critic nature pepper";
+var mnemonic = "fire luxury nature title alley shield insect slab dad engage thunder math";

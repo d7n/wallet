@@ -1,1 +1,1 @@
-var mnemonic = "mosquito name charge wheat gadget vehicle wedding festival miss cable dutch impulse";
+var mnemonic = "kitten aunt cost armor violin kitchen enhance decade floor strategy oxygen tackle";

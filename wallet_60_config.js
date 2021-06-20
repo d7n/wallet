@@ -1,1 +1,1 @@
-var mnemonic = "replace swarm family tenant shift coach brisk coconut gasp denial animal sketch";
+var mnemonic = "property now twin barrel chicken history junk arrow mimic jacket member journey";

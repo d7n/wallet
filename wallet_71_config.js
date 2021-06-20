@@ -1,1 +1,1 @@
-var mnemonic = "joke reunion dirt reduce regular virus pig neither spare uphold forward doll";
+var mnemonic = "wash run brush bar inside kick spend age dinosaur omit gaze skill";
