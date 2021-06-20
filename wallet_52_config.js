@@ -1,1 +1,1 @@
-var mnemonic = "juice prepare possible banner flush together screen uniform embrace suspect eagle transfer";
+var mnemonic = "buddy inch improve puzzle mom crush tennis start coil enlist sister vintage";

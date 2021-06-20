@@ -1,1 +1,1 @@
-var mnemonic = "fold maid media tape length you door dry easy brief help rally";
+var mnemonic = "enjoy wash pattern sight glance theme illness elephant expose tribe exist deputy";

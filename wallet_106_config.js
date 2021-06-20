@@ -1,1 +1,1 @@
-var mnemonic = "tuition chest culture fragile shell front aunt echo average clap lesson into";
+var mnemonic = "surround abstract evidence split bitter garage world pear photo fault pistol fantasy";

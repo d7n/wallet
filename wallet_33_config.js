@@ -1,1 +1,1 @@
-var mnemonic = "leg grow option blood pipe essay payment already decline void general doctor";
+var mnemonic = "exotic leg nothing diamond weather spare parrot system favorite century height guide";

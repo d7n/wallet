@@ -1,1 +1,1 @@
-var mnemonic = "taxi october muscle gate right frequent web pill oxygen size solution crisp";
+var mnemonic = "board chase task item book bottom about stamp sell runway imitate sadness";

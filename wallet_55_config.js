@@ -1,1 +1,1 @@
-var mnemonic = "sword involve shrimp pulse minor twelve baby gossip movie verb joy february";
+var mnemonic = "large entire blade oyster together nation drama yellow scheme survey lizard own";

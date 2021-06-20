@@ -1,1 +1,1 @@
-var mnemonic = "bid artist soft thrive globe room child silly divert glare siren flavor";
+var mnemonic = "ethics jewel dust problem fork salmon garden blush mixed song leg drink";

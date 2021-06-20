@@ -1,1 +1,1 @@
-var mnemonic = "hand raw work relax liar female portion mail tail door cinnamon ribbon";
+var mnemonic = "coil crater symptom rotate phone dirt industry jaguar dwarf void mercy power";

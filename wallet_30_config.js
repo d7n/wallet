@@ -1,1 +1,1 @@
-var mnemonic = "picnic away warrior media illegal forget demise very follow basket clinic subway";
+var mnemonic = "balance talk hundred object crack furnace when mom captain century steel crouch";

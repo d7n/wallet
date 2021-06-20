@@ -1,1 +1,1 @@
-var mnemonic = "chalk crowd pretty tomato gain approve jeans old spirit rubber wasp auto";
+var mnemonic = "remain million mistake trend cool wrap maid giggle diesel consider basic stool";

@@ -1,1 +1,1 @@
-var mnemonic = "stage filter badge shaft satisfy east glow guard barrel state echo salute";
+var mnemonic = "large toss mountain sauce wreck radio certain arena ribbon protect autumn minor";

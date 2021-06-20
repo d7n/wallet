@@ -1,1 +1,1 @@
-var mnemonic = "still wait deputy device blast path crowd bunker sign unaware air display";
+var mnemonic = "among bracket tattoo update wife private family twist gorilla fine kidney green";

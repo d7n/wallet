@@ -1,1 +1,1 @@
-var mnemonic = "pair milk party brush risk engine segment please east hundred useful tide";
+var mnemonic = "solve unique woman school worth auto cream type resource rifle main impulse";

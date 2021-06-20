@@ -1,1 +1,1 @@
-var mnemonic = "cruise motor verify cable entry mirror swamp happy moment quote leave shift";
+var mnemonic = "legend faint romance umbrella open green festival sibling caution among episode craft";

@@ -1,1 +1,1 @@
-var mnemonic = "scene identify hero sentence tortoise dentist public virtual width deputy tourist proof";
+var mnemonic = "south kite amateur file moon uniform canal brief shield own sister mouse";

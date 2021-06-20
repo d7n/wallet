@@ -1,1 +1,1 @@
-var mnemonic = "response attitude bid essence step wise effort tennis estate add hobby curious";
+var mnemonic = "skin inform forward equal submit sell empty reject obey anger cram smart";

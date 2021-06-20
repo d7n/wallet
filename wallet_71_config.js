@@ -1,1 +1,1 @@
-var mnemonic = "peasant fringe race salon snack soul arrow nation wheat random feed beyond";
+var mnemonic = "fortune bridge rural music rhythm hood vault course thunder return tube diamond";

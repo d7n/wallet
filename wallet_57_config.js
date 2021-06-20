@@ -1,1 +1,1 @@
-var mnemonic = "upper ill gospel jar abuse garden across page night awake taxi shoe";
+var mnemonic = "fog benefit exact cook bread quick topple hope load donate gadget van";

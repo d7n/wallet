@@ -1,1 +1,1 @@
-var mnemonic = "decide liberty village cheese fetch decorate material cement menu barely force chaos";
+var mnemonic = "lecture surround jungle cricket two segment tribe picnic panic know come donor";

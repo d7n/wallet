@@ -1,1 +1,1 @@
-var mnemonic = "mistake noble near frequent ketchup desk salad sausage wave few biology web";
+var mnemonic = "jelly viable chef barrel fire excess amazing oven radar lunar spring canoe";

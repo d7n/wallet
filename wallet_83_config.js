@@ -1,1 +1,1 @@
-var mnemonic = "renew fiscal peasant galaxy powder sorry thing final fresh genre pole issue";
+var mnemonic = "chair keen slam symbol orange talent creek canal middle magnet course syrup";

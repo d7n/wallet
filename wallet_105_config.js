@@ -1,1 +1,1 @@
-var mnemonic = "blanket banana deposit senior panther pink pen family that insect gesture eight";
+var mnemonic = "pair naive page have strategy occur play cabin clown use insect pink";

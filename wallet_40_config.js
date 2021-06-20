@@ -1,1 +1,1 @@
-var mnemonic = "image water position evidence chalk target fetch deer maple holiday security initial";
+var mnemonic = "brass gorilla blue render chest piano camera dawn wasp tiny any exile";

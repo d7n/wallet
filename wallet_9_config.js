@@ -1,1 +1,1 @@
-var mnemonic = "between priority coffee cave naive garlic number dove summer rhythm just outdoor";
+var mnemonic = "arrive track arch source coil addict evil sound gadget kitten aunt knock";

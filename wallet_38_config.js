@@ -1,1 +1,1 @@
-var mnemonic = "sock cage scout goose absorb good depend hard apart horror vessel worry";
+var mnemonic = "cycle poet glove poverty turn burst report pioneer cute media spirit rich";

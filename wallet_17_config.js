@@ -1,1 +1,1 @@
-var mnemonic = "hire weekend bread pilot leg arrest save laundry blur certain shop version";
+var mnemonic = "actor love select quarter fever buffalo grief asthma member limit top despair";

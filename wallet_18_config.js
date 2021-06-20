@@ -1,1 +1,1 @@
-var mnemonic = "coach truck mutual detect stick vital measure whip lock unit gossip popular";
+var mnemonic = "reflect team dune eternal glimpse foster right ketchup eyebrow ancient fame exact";

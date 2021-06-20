@@ -1,1 +1,1 @@
-var mnemonic = "ripple relief jelly fury soon winter resemble width album category top draw";
+var mnemonic = "stick deliver slim dismiss night direct supply announce provide badge parade allow";

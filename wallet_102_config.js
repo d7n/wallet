@@ -1,1 +1,1 @@
-var mnemonic = "sweet cluster palace spring shield dash smile pact width vintage syrup fresh";
+var mnemonic = "thing purse salon coach perfect second asthma light grow strong bright young";

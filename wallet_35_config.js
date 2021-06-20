@@ -1,1 +1,1 @@
-var mnemonic = "moon physical cable promote venture what breeze convince scheme proof hole young";
+var mnemonic = "praise hidden heart mention announce habit tilt squeeze shaft gesture tilt oil";

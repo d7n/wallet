@@ -1,1 +1,1 @@
-var mnemonic = "remain human joke lunar wrap buyer orange desk worry mirror small include";
+var mnemonic = "plastic nasty deliver wash glance enhance video face assist ten actress hub";

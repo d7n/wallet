@@ -1,1 +1,1 @@
-var mnemonic = "travel creek fee blue submit lamp weasel jump also biology when secret";
+var mnemonic = "eight sorry slender second position mixed figure palace guilt hill cause minimum";

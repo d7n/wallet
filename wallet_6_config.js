@@ -1,1 +1,1 @@
-var mnemonic = "desert mercy rebuild pencil twin border hope stock scene borrow upset hurry";
+var mnemonic = "version noble exotic stamp quote margin indicate crystal turtle kind enforce consider";

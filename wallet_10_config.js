@@ -1,1 +1,1 @@
-var mnemonic = "merit upon exhibit suit usage wage phrase library short frame utility harbor";
+var mnemonic = "monkey proof alone disorder sample dilemma shoe scale dress place march post";

@@ -1,1 +1,1 @@
-var mnemonic = "draft exercise tattoo cash buzz present jazz equip awake exist vacant member";
+var mnemonic = "flee open coyote immune air tattoo strategy wisdom cushion typical exit struggle";

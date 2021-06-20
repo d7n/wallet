@@ -1,1 +1,1 @@
-var mnemonic = "sustain conduct camera protect basic tray hover parent ability bundle middle owner";
+var mnemonic = "glimpse sorry cluster march pumpkin crane canal episode tray cycle coral open";

@@ -1,1 +1,1 @@
-var mnemonic = "air balance same myth until pond guard sight dress eye one once";
+var mnemonic = "tell early horse frost physical imitate trial antique crazy age special tent";

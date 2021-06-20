@@ -1,1 +1,1 @@
-var mnemonic = "flavor move mix west loan remember ride faculty insect able lift pink";
+var mnemonic = "empty wise hospital funny amount cream state rural dash expand bounce divorce";

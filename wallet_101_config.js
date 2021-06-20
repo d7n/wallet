@@ -1,1 +1,1 @@
-var mnemonic = "fee copper skin dirt ripple all snap sibling risk crazy canoe loud";
+var mnemonic = "vote media lend about clerk atom culture guide wash orange member screen";

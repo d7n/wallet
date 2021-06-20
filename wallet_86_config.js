@@ -1,1 +1,1 @@
-var mnemonic = "movie twist debate argue subject observe eager remain vendor crane funny lab";
+var mnemonic = "nuclear hood slim cycle ticket resemble slush net sand upgrade special awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "general cradle dust rocket frost same skill festival cram industry smoke sudden";
+var mnemonic = "try rice rice three chief prison near bar tool luxury satisfy diet";

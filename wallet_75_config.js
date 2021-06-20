@@ -1,1 +1,1 @@
-var mnemonic = "near neglect bag service clean clock usual because garlic tongue unknown tenant";
+var mnemonic = "truly cactus find shrug okay fatigue library shield edit hood crowd panic";

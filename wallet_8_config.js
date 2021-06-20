@@ -1,1 +1,1 @@
-var mnemonic = "under umbrella second scene chronic genius other cereal vocal beauty unable sting";
+var mnemonic = "range oppose beach ignore enemy under jacket flavor castle eyebrow ritual ball";

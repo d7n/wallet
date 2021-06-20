@@ -1,1 +1,1 @@
-var mnemonic = "digital gesture lecture divide front ship major banana retire curtain brick coil";
+var mnemonic = "alert quantum case twice lazy viable lion prize thrive canal rebuild black";

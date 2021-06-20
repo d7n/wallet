@@ -1,1 +1,1 @@
-var mnemonic = "text excuse expose debris because ride yard police loop outside verb awesome";
+var mnemonic = "brief have youth absurd fence despair camera kiss address celery save tunnel";

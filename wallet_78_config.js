@@ -1,1 +1,1 @@
-var mnemonic = "business train hamster divide weekend label juice switch dry busy industry noble";
+var mnemonic = "remain hole potato before hollow believe beach route pride place vital reward";

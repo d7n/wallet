@@ -1,1 +1,1 @@
-var mnemonic = "reveal subject foster rack mechanic actor taste tornado deposit wheat cotton boil";
+var mnemonic = "frozen sunny ketchup term ritual kangaroo gain birth critic orient panda void";

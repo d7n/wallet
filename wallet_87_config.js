@@ -1,1 +1,1 @@
-var mnemonic = "auto lion combine badge disagree song legend universe curtain off champion local";
+var mnemonic = "elbow tackle faint artwork slide material annual phrase fitness icon repair transfer";

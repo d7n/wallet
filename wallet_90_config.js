@@ -1,1 +1,1 @@
-var mnemonic = "note present tank rare pause embrace knife hold correct ozone wild change";
+var mnemonic = "execute busy okay card bread vicious lab useless rifle defense vehicle student";

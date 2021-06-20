@@ -1,1 +1,1 @@
-var mnemonic = "degree hip math provide sing moment suit learn dust salad tissue sting";
+var mnemonic = "camera juice piano napkin original core planet abuse blast trigger crawl fancy";

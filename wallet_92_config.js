@@ -1,1 +1,1 @@
-var mnemonic = "script invest squirrel nephew target angle demand smile token gloom time vapor";
+var mnemonic = "pet file morning save valley struggle unfold mechanic plunge abstract stereo journey";

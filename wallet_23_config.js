@@ -1,1 +1,1 @@
-var mnemonic = "distance change whip defy victory cupboard nothing that faith innocent rather airport";
+var mnemonic = "soup bring cake regret hybrid advice milk season blame hurt doll split";

@@ -1,1 +1,1 @@
-var mnemonic = "fine stay frame barely loop pond rifle climb mushroom wheel foster dwarf";
+var mnemonic = "juice dune joke large cake patch diagram faint wheat plug window toward";

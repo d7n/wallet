@@ -1,1 +1,1 @@
-var mnemonic = "vicious diamond oppose swing comic palm crane year coffee brass priority case";
+var mnemonic = "scorpion lion lab mind happy child chimney coast uncle such odor universe";

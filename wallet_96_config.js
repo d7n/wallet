@@ -1,1 +1,1 @@
-var mnemonic = "prefer pottery struggle purse winter sail harbor ball what hat decade more";
+var mnemonic = "put luggage boat mix want truck autumn record question hawk capital print";

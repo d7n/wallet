@@ -1,1 +1,1 @@
-var mnemonic = "draw thought payment minimum ill castle demand vacant snack actor between decide";
+var mnemonic = "certain magnet saddle gospel degree glare scorpion exhibit country prosper emotion range";

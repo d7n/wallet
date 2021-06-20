@@ -1,1 +1,1 @@
-var mnemonic = "regular grant coil siren spice banana brush express blossom kite movie rookie";
+var mnemonic = "kick lyrics extend swift connect dinner candy assist crew unfold divorce elite";

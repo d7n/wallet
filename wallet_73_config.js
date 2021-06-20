@@ -1,1 +1,1 @@
-var mnemonic = "spoon fine apology forget party cancel dance include vocal unfold kangaroo insect";
+var mnemonic = "boost fat prepare inquiry bicycle verb liberty valley jazz anchor walk anxiety";

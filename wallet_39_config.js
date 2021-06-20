@@ -1,1 +1,1 @@
-var mnemonic = "quiz across push drum sponsor surround stay concert miracle thrive paddle captain";
+var mnemonic = "yard remove undo wagon kitten neutral mouse fire myself bone bid author";

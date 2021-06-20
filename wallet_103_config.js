@@ -1,1 +1,1 @@
-var mnemonic = "gloom uncover bean cute crater comic hope local link snack silly nerve";
+var mnemonic = "hill fossil situate sketch excess quality make marble rely decrease another crane";

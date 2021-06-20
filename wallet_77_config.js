@@ -1,1 +1,1 @@
-var mnemonic = "must typical heart giant approve crouch fatigue carry tongue medal thought audit";
+var mnemonic = "sand cram doll lava inch mom sweet satoshi merry observe more erode";

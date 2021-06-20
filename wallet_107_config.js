@@ -1,1 +1,1 @@
-var mnemonic = "mercy thought damp razor ahead mesh audit record century bubble display cancel";
+var mnemonic = "mass lyrics omit company dentist zoo consider glue settle proud easy east";

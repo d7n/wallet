@@ -1,1 +1,1 @@
-var mnemonic = "blast axis antique focus offer error entire ready daughter bright gate document";
+var mnemonic = "saddle wood pottery elbow envelope deliver boil nephew width century grace divorce";

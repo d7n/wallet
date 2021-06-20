@@ -1,1 +1,1 @@
-var mnemonic = "collect satisfy grant custom drama fabric quantum comic bench shuffle hand enhance";
+var mnemonic = "cricket cross jewel noble uncle play perfect crash green very pupil penalty";

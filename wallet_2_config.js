@@ -1,1 +1,1 @@
-var mnemonic = "misery execute scare animal direct trick coral section snack cart strike belt";
+var mnemonic = "guide supply faith deal occur negative oppose advance yellow model mom network";

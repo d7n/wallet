@@ -1,1 +1,1 @@
-var mnemonic = "resource prize discover lounge surprise damage panther toward script toilet order engage";
+var mnemonic = "talk couch ring insect need trumpet type modify gasp noise chicken fall";

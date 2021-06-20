@@ -1,1 +1,1 @@
-var mnemonic = "claim spoon game imitate above survey best estate mistake sign typical shy";
+var mnemonic = "antique glass issue soap team advance ordinary deal barely vintage host chief";

@@ -1,1 +1,1 @@
-var mnemonic = "festival fix rain decorate draft recycle best strike average vibrant bronze square";
+var mnemonic = "define leave canoe opera swarm burger lake record rough hen ripple truth";

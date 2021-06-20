@@ -1,1 +1,1 @@
-var mnemonic = "cruel sample fiction sample bamboo more relief evil vast odor orbit guilt";
+var mnemonic = "honey spring upset adult charge recycle twenty way oak crouch fiction ill";

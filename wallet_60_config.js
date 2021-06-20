@@ -1,1 +1,1 @@
-var mnemonic = "glide broom wide dumb large police hen hospital either earn evolve pet";
+var mnemonic = "produce limb interest camp spice waste pilot erupt cradle absent curve fall";

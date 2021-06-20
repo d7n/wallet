@@ -1,1 +1,1 @@
-var mnemonic = "glad reveal eight south donkey sleep boss name pony apple cattle detect";
+var mnemonic = "famous parent open hurdle crane city merit render fiscal three spare shoot";

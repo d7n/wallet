@@ -1,1 +1,1 @@
-var mnemonic = "pigeon shed novel rule favorite person resist chalk glory volume cattle entry";
+var mnemonic = "athlete elephant subject proof figure funny category almost strategy army fly ginger";

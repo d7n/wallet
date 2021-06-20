@@ -1,1 +1,1 @@
-var mnemonic = "danger victory claim miss paddle control grit harvest food remain observe float";
+var mnemonic = "coin blue humble hole tuition exotic fork monitor heart topple napkin betray";

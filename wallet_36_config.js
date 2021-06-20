@@ -1,1 +1,1 @@
-var mnemonic = "always eternal early fiscal aware sheriff charge mistake empty cheap bounce famous";
+var mnemonic = "giant industry hub prepare unveil crime call orphan team quick check blouse";

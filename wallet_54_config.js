@@ -1,1 +1,1 @@
-var mnemonic = "earn dwarf dinner near fish soda forest together source actor room world";
+var mnemonic = "ski clean gasp wash wait jealous climb shell close tomorrow shop surprise";

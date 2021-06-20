@@ -1,1 +1,1 @@
-var mnemonic = "round budget cabbage eyebrow index royal fence joy husband stuff wine mimic";
+var mnemonic = "cram shoot spy write churn ranch call reunion witness melody correct undo";

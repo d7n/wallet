@@ -1,1 +1,1 @@
-var mnemonic = "patient gospel diet hand crisp pool diet retreat candy tiny mass frequent";
+var mnemonic = "miracle photo infant bag card prosper process output palace fitness museum sample";

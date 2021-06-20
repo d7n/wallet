@@ -1,1 +1,1 @@
-var mnemonic = "main quantum brick tragic drift trophy glide increase filter basic detail cabin";
+var mnemonic = "duck capital zone tattoo neglect duty cotton comfort chapter crash impulse unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "claim gown pudding margin absorb wife enforce setup motor stage fence excite";
+var mnemonic = "resource brother busy harbor nice satisfy employ year kitchen property drama cave";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor gaze rain guess load winner cherry team stairs diagram goose cook";
+var mnemonic = "they ridge deer domain magnet plug egg update dwarf crater prepare before";

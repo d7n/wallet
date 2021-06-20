@@ -1,1 +1,1 @@
-var mnemonic = "rabbit width unfold acquire abandon biology spy meat hotel pride moon second";
+var mnemonic = "fossil economy punch behave talent expect alcohol miss truth aerobic hen sing";

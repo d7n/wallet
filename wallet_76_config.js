@@ -1,1 +1,1 @@
-var mnemonic = "head system ketchup cannon suspect follow hip portion valve loop rare small";
+var mnemonic = "excite canal endorse model novel blame illness license favorite citizen basket mushroom";

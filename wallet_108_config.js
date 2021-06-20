@@ -1,1 +1,1 @@
-var mnemonic = "dune jealous sight nurse work pool run weasel furnace dinosaur proud good";
+var mnemonic = "orange steak famous panel bamboo derive sound wrist upgrade rhythm wage feature";

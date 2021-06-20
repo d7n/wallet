@@ -1,1 +1,1 @@
-var mnemonic = "relief prize pledge illness ensure inherit cave club oppose lend blast vocal";
+var mnemonic = "poem purity tail east accuse pipe nice unusual void audit cheese enemy";

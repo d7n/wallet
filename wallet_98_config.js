@@ -1,1 +1,1 @@
-var mnemonic = "pizza daring south knife arctic rail head mercy rookie punch hammer hidden";
+var mnemonic = "large push dry picnic render cushion index goat demand mandate judge twin";

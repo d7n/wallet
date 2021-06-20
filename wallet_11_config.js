@@ -1,1 +1,1 @@
-var mnemonic = "nerve ripple history soul use sea grain hole snake swarm gather wreck";
+var mnemonic = "blur meat civil embody crisp weather armor text bamboo void favorite require";

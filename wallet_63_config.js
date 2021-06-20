@@ -1,1 +1,1 @@
-var mnemonic = "sun suspect dismiss enact deliver pink again boat unit resource bulk expand";
+var mnemonic = "shallow deliver taste tackle labor hello carbon debate cave elevator slender sail";

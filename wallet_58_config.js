@@ -1,1 +1,1 @@
-var mnemonic = "juice option later emerge color gasp phone detail picnic genuine logic turkey";
+var mnemonic = "color scorpion primary penalty trend sand clump obey crisp onion destroy elder";

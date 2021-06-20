@@ -1,1 +1,1 @@
-var mnemonic = "vicious favorite square erupt paddle wave nation topic mule rail repair memory";
+var mnemonic = "toy invite museum fence gentle food wine memory whisper toe water rib";
