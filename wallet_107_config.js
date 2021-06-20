@@ -1,1 +1,1 @@
-var mnemonic = "gate maze task runway client album timber option system cycle number auto";
+var mnemonic = "caught duck memory furnace have enemy drastic birth around behave elbow transfer";

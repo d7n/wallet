@@ -1,1 +1,1 @@
-var mnemonic = "message sketch use impact snap shrimp floor ankle convince popular crunch soap";
+var mnemonic = "various glass assume vote elbow donkey blame arrest exit armor gain session";

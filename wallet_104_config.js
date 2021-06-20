@@ -1,1 +1,1 @@
-var mnemonic = "snow core sense trophy acquire odor price injury solar security flower outdoor";
+var mnemonic = "monster arrest slender indoor hill wrestle glue pyramid target good roast enroll";

@@ -1,1 +1,1 @@
-var mnemonic = "level domain lottery mouse truck fragile old caught write upper discover category";
+var mnemonic = "liquid poem army bridge father try tomorrow table buddy child group canyon";

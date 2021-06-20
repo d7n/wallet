@@ -1,1 +1,1 @@
-var mnemonic = "purse echo alpha sock route capable include eye castle evolve lizard music";
+var mnemonic = "marine glory pepper goat embark cactus desert balance surprise hold day thing";

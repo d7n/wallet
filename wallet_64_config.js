@@ -1,1 +1,1 @@
-var mnemonic = "session begin normal pupil wait erosion neutral solution sport ticket fitness sudden";
+var mnemonic = "crew weasel draw track distance burden shoe jealous coral ostrich shallow cattle";

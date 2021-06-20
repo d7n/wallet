@@ -1,1 +1,1 @@
-var mnemonic = "aware ability over year lawn bring face lazy pony purpose liquid ugly";
+var mnemonic = "invest scrap hero throw trouble sock romance common pact kitchen local session";

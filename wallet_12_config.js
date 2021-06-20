@@ -1,1 +1,1 @@
-var mnemonic = "where violin kind dash warfare vehicle sheriff remember keep candy cannon attend";
+var mnemonic = "inquiry able cram cinnamon bulk disorder then action ripple ostrich loyal gift";

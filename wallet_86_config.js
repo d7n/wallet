@@ -1,1 +1,1 @@
-var mnemonic = "legal bulk dial car dog police stand taxi idle want receive mutual";
+var mnemonic = "omit client achieve sphere ostrich train cloth seminar hidden box visit stay";

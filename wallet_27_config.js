@@ -1,1 +1,1 @@
-var mnemonic = "victory suggest skull achieve power melody glove behind acid attract entire fix";
+var mnemonic = "tissue wide network episode fashion poet welcome mountain pelican left arena mention";

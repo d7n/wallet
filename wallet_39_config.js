@@ -1,1 +1,1 @@
-var mnemonic = "injury grief uncle gas film slogan elbow spring make vessel inquiry subway";
+var mnemonic = "slot slow urge nose width slush genre solution mimic mammal success pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "coil edge feature march risk pipe evolve night measure century disorder inform";
+var mnemonic = "sustain argue enforce common dawn forget admit blouse heart system neck merry";

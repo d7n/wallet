@@ -1,1 +1,1 @@
-var mnemonic = "buzz dose govern today notice mountain sleep flame lottery arrest chief peace";
+var mnemonic = "seed impulse mixture silver open tiger surprise cruel drop history blast snack";

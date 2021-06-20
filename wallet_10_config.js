@@ -1,1 +1,1 @@
-var mnemonic = "female candy crime traffic bird juice damp blue pair link tool stuff";
+var mnemonic = "tent cargo submit baby version doctor car world child find trigger master";

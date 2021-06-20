@@ -1,1 +1,1 @@
-var mnemonic = "member list accuse mule wink broccoli team mutual genius bus excuse talk";
+var mnemonic = "amount ticket dentist heart cup unhappy tomorrow sketch judge enjoy pitch old";

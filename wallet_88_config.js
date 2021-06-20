@@ -1,1 +1,1 @@
-var mnemonic = "message oyster magic badge earn helmet because solution kangaroo render vague giggle";
+var mnemonic = "air wolf size almost round stool click believe grass observe deposit marriage";

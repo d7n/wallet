@@ -1,1 +1,1 @@
-var mnemonic = "bring siege road lyrics quantum manual soldier supreme inmate win room frown";
+var mnemonic = "brush relief retreat tissue ice tribe powder tongue thunder pattern assault dune";

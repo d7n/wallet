@@ -1,1 +1,1 @@
-var mnemonic = "educate swarm debris sea rug almost birth orange say topic siren dentist";
+var mnemonic = "cheap season fitness else priority chase chunk final beauty power surprise hold";

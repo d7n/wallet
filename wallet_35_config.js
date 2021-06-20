@@ -1,1 +1,1 @@
-var mnemonic = "world hair impulse opera winter embark olive relax radar level little bench";
+var mnemonic = "artefact valley fault secret adapt apology educate must entire shift item use";

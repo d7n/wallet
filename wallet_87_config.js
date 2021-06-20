@@ -1,1 +1,1 @@
-var mnemonic = "process clump october wreck fatigue wet food famous avoid fabric custom pigeon";
+var mnemonic = "romance elegant movie shine exact donate excite elder comfort grief tunnel imitate";

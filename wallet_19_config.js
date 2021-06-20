@@ -1,1 +1,1 @@
-var mnemonic = "silly wine allow stand autumn knock section zone depth sort wait funny";
+var mnemonic = "employ pumpkin injury claim ecology kite stadium board diet balcony ugly toy";

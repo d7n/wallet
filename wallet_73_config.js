@@ -1,1 +1,1 @@
-var mnemonic = "rail urge glove gym express memory note fury remind chimney agent trick";
+var mnemonic = "drum sauce cruise aspect unknown spirit shift car price where jump praise";

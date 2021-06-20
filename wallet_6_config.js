@@ -1,1 +1,1 @@
-var mnemonic = "act drop captain taxi junk spoon all universe cargo broken child shoe";
+var mnemonic = "proof firm cry flavor derive smile general cage assault glare canyon tuna";

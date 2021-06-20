@@ -1,1 +1,1 @@
-var mnemonic = "proud blossom travel actress kit fossil kid plunge fringe false gather angle";
+var mnemonic = "race vendor scissors cat cherry dumb season hockey biology divorce dad fetch";

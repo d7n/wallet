@@ -1,1 +1,1 @@
-var mnemonic = "side media random initial dice oil wild animal marriage program summer father";
+var mnemonic = "cause story auction correct olympic question casino rain wrist charge wheel copper";

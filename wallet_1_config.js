@@ -1,1 +1,1 @@
-var mnemonic = "fragile element recipe noodle boil welcome soccer leisure smoke work impose modify";
+var mnemonic = "elite home crucial scatter acquire rib trumpet asthma bulb pony broken feed";

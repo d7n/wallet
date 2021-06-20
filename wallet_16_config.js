@@ -1,1 +1,1 @@
-var mnemonic = "peace nest crystal liberty real hat number loyal silly puppy mechanic hawk";
+var mnemonic = "cheese there assume recall news much text search police toe simple tooth";

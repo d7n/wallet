@@ -1,1 +1,1 @@
-var mnemonic = "spirit bridge wrong cloth error infant wood drip shove sort busy wonder";
+var mnemonic = "cousin rain invest pause labor eyebrow sort fire region meadow daughter into";

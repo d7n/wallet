@@ -1,1 +1,1 @@
-var mnemonic = "upon promote family lawsuit joke virtual sick tornado aerobic sheriff economy donor";
+var mnemonic = "energy just rail raccoon educate panda extra doll elite duty provide orchard";

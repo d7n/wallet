@@ -1,1 +1,1 @@
-var mnemonic = "true switch furnace jaguar range simple excess canvas piano jacket nation regular";
+var mnemonic = "liberty they since cereal outside horror excess asset sunset ancient rough beef";

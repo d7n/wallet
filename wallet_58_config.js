@@ -1,1 +1,1 @@
-var mnemonic = "joke ice spread guide screen enroll canvas escape swamp drama miss absorb";
+var mnemonic = "potato cute raise oyster receive increase sphere region brief network one jewel";

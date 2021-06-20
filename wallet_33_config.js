@@ -1,1 +1,1 @@
-var mnemonic = "detail soul antenna harsh scorpion cable critic decide easy work bar year";
+var mnemonic = "spike advice multiply erase race stool connect witness arena option trip sick";

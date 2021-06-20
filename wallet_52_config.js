@@ -1,1 +1,1 @@
-var mnemonic = "vicious cradle verify sure three idea science debate more behind industry season";
+var mnemonic = "industry use expose picture fire hockey pulse merit absurd coffee zone unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin sell prevent sport disease nut volume person immune furnace govern scout";
+var mnemonic = "gold open dolphin danger much limit answer galaxy scatter consider wrist key";

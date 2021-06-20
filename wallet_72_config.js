@@ -1,1 +1,1 @@
-var mnemonic = "shiver wing volcano weasel civil erase object decorate crash lunch drift rose";
+var mnemonic = "pyramid dream come peasant rug pottery tray labor cargo enforce come carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "odor fringe slab exercise cupboard only advance garage dilemma orient twenty betray";
+var mnemonic = "fee box carpet session across must february accident speak afraid rather saddle";

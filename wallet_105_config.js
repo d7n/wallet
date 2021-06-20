@@ -1,1 +1,1 @@
-var mnemonic = "suggest conduct plate thought scheme equal palm pride toilet fashion couple door";
+var mnemonic = "fluid coyote offer hamster fork kiss bacon pyramid rib wear urge veteran";

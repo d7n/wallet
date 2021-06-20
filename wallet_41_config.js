@@ -1,1 +1,1 @@
-var mnemonic = "figure ship license fit portion amateur demand organ alien hard dignity scorpion";
+var mnemonic = "surge force wing van bring duck medal planet aunt banner salmon program";

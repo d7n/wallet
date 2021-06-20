@@ -1,1 +1,1 @@
-var mnemonic = "sunny topic again shield script nothing ordinary hobby action number robot asset";
+var mnemonic = "dress lumber outer process maze salt flip oven upset stone flat cram";

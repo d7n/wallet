@@ -1,1 +1,1 @@
-var mnemonic = "foam answer cabbage profit arena much loop divert laptop jealous trust water";
+var mnemonic = "toast fringe leaf gap olive kitchen chapter device insane inch flock sign";

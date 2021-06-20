@@ -1,1 +1,1 @@
-var mnemonic = "awesome lounge orphan pistol satoshi frog approve fold unfold hotel subway stereo";
+var mnemonic = "pattern amount clap route cactus room oval seek vote element page basket";

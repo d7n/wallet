@@ -1,1 +1,1 @@
-var mnemonic = "actor grant mushroom peasant fortune habit cancel crazy vacant receive smile fit";
+var mnemonic = "print fan ski quit foot already winter draft hurry acoustic hip rich";

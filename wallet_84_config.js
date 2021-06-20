@@ -1,1 +1,1 @@
-var mnemonic = "twenty supply cube tray avoid twist vague poem airport across toe relax";
+var mnemonic = "swift sure theme decorate outer spend scout heavy inquiry barrel begin embody";

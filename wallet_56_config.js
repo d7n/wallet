@@ -1,1 +1,1 @@
-var mnemonic = "since tooth rug one cloth beef warm shell fashion voice avocado energy";
+var mnemonic = "sock hazard verb dice service kiwi bundle visa clinic physical frog bicycle";

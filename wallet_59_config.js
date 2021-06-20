@@ -1,1 +1,1 @@
-var mnemonic = "mistake tomorrow depart trumpet light lion salon swear project donate fashion evidence";
+var mnemonic = "welcome team olympic wrap aspect shadow audit same budget lucky fame coast";

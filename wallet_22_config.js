@@ -1,1 +1,1 @@
-var mnemonic = "badge nephew method visual place input practice advance velvet bunker front abandon";
+var mnemonic = "girl isolate milk tourist ostrich more vendor ladder piano wasp equip demise";

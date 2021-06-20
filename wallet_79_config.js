@@ -1,1 +1,1 @@
-var mnemonic = "below already surge trouble test document gentle small cupboard misery afraid final";
+var mnemonic = "come cycle base special collect segment leave culture mom gap anger search";

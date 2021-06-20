@@ -1,1 +1,1 @@
-var mnemonic = "cluster copy note monitor silver hurdle announce fence grief castle expire plunge";
+var mnemonic = "just similar rigid shoot beyond witness million open critic cover exclude wheat";

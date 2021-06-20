@@ -1,1 +1,1 @@
-var mnemonic = "divide smooth umbrella future autumn crop note engage adapt scrap hand frozen";
+var mnemonic = "gravity market ceiling mixed hazard reduce toddler shrug void universe skill leader";

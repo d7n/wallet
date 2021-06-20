@@ -1,1 +1,1 @@
-var mnemonic = "acoustic vapor boost already rifle muffin lazy pride there hurt inch copper";
+var mnemonic = "hundred try snake edit bring nothing song episode fence chronic build foster";

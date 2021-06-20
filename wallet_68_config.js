@@ -1,1 +1,1 @@
-var mnemonic = "orient quarter bubble screen bachelor virtual people rigid buzz bless paddle rubber";
+var mnemonic = "luxury trade original scare tackle any smart robot coffee click now slogan";

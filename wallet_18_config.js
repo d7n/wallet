@@ -1,1 +1,1 @@
-var mnemonic = "return glare capable diesel detect myself effort above stuff pudding adult foot";
+var mnemonic = "minimum animal glide dust stairs library symptom scare police knock tragic mimic";

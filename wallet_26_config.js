@@ -1,1 +1,1 @@
-var mnemonic = "wear helmet frog distance matrix hurdle nominee elegant galaxy brick indoor enemy";
+var mnemonic = "device music permit index scare orient inner ranch shield crater furnace bottom";

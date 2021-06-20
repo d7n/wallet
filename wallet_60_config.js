@@ -1,1 +1,1 @@
-var mnemonic = "forget addict cloth lens cycle suspect unfair thumb novel flag hole early";
+var mnemonic = "black music ice assume assume abandon run start control ramp purpose escape";

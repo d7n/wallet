@@ -1,1 +1,1 @@
-var mnemonic = "slab hotel fun return when oxygen trend afford permit buyer poem can";
+var mnemonic = "bird butter license angry bless lamp exile bicycle gift cream wheat sadness";

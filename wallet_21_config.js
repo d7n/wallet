@@ -1,1 +1,1 @@
-var mnemonic = "narrow edit rent opinion disease occur weather strike ranch before brass buddy";
+var mnemonic = "door fashion girl credit sheriff guess half couch blast select race remain";

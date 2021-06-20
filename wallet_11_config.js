@@ -1,1 +1,1 @@
-var mnemonic = "author dial west wage smooth trick hip innocent slam leisure bring ostrich";
+var mnemonic = "tail agree relax other insane tiger hollow crack shrug space square maid";

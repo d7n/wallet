@@ -1,1 +1,1 @@
-var mnemonic = "modify group mandate pink invite race float sauce climb believe half path";
+var mnemonic = "century midnight bubble three hole panda jealous trouble juice crazy outside item";

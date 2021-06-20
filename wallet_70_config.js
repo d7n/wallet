@@ -1,1 +1,1 @@
-var mnemonic = "coil lamp member boil hair used virtual welcome divorce worry world stumble";
+var mnemonic = "void tooth evoke demise place guide mean gloom winter grocery fat album";

@@ -1,1 +1,1 @@
-var mnemonic = "voice include hold essay wrap ginger apology lonely bright abuse guide barrel";
+var mnemonic = "roof loyal fluid maple cable pool brain exhaust candy acquire city off";

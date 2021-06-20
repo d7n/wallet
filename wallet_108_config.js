@@ -1,1 +1,1 @@
-var mnemonic = "thumb during sock unable tourist frog rotate seat appear toast organ advice";
+var mnemonic = "exile mix silver citizen kiwi patrol enrich drum sight dash capable giraffe";

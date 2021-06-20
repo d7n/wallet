@@ -1,1 +1,1 @@
-var mnemonic = "print material impulse gorilla payment rally hire camp because like gun satoshi";
+var mnemonic = "apple process pill game hen mom rain pony sniff price orbit auto";

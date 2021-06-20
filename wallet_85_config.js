@@ -1,1 +1,1 @@
-var mnemonic = "feed debris menu popular raven march critic hedgehog weather cinnamon jump wasp";
+var mnemonic = "idle emotion holiday umbrella depth coconut trigger throw call okay organ soft";

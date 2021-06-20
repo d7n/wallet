@@ -1,1 +1,1 @@
-var mnemonic = "mushroom uncle round blast era infant duck pigeon scale actress scan minor";
+var mnemonic = "sniff special issue drink head depth amazing proof yard distance token transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "tray enact kick enhance move remind assume skull audit parade muffin quality";
+var mnemonic = "all mushroom economy finish forum fat coach basket divert vast emerge secret";

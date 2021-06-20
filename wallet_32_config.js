@@ -1,1 +1,1 @@
-var mnemonic = "unit noble mixture reflect just dice tennis raw salon tuition load snack";
+var mnemonic = "mix pluck love bunker insect trade security satoshi that arch cool couch";

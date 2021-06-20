@@ -1,1 +1,1 @@
-var mnemonic = "village ranch person horn unfair visit dad ladder wish stamp table torch";
+var mnemonic = "garage gain opera pony aspect lobster inquiry keep paper grass rely sun";

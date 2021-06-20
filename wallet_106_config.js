@@ -1,1 +1,1 @@
-var mnemonic = "demand useful middle arrive wife sibling bargain type lecture canal napkin early";
+var mnemonic = "thumb swing fiscal warfare elite bridge announce brief unaware bid eagle indicate";

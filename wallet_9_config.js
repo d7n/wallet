@@ -1,1 +1,1 @@
-var mnemonic = "caution reflect base rug sock skirt pigeon movie impulse agent addict jaguar";
+var mnemonic = "under chat state scorpion answer surround fiscal custom inner breeze unique define";

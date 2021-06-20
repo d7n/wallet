@@ -1,1 +1,1 @@
-var mnemonic = "slot today fatigue project pudding impulse render torch fury tragic clever undo";
+var mnemonic = "verify embark young waste proof index prepare hero genuine select decide foil";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor scissors glad follow drill face depart biology border actor climb fat";
+var mnemonic = "link dwarf home indoor neck tumble illegal crystal protect whale lawsuit juice";

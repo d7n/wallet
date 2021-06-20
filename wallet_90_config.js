@@ -1,1 +1,1 @@
-var mnemonic = "apple plastic tone service tree soccer day sadness dune camp aspect normal";
+var mnemonic = "come monitor round lift vintage bomb fault live knee surface pattern sword";

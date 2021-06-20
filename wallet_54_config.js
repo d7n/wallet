@@ -1,1 +1,1 @@
-var mnemonic = "risk robot diary baby sausage public relax unfold only patch recipe calm";
+var mnemonic = "fluid science dinosaur noise cook mystery spread minor prepare pole river rose";

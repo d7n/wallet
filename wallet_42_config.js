@@ -1,1 +1,1 @@
-var mnemonic = "tide utility jump engine salmon asset gap rude decide caution surface fantasy";
+var mnemonic = "dish pair mammal famous tail inmate forget tortoise property slogan shop cactus";

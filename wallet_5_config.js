@@ -1,1 +1,1 @@
-var mnemonic = "liberty bottom weapon wise chalk guitar drive again weapon aerobic maple speed";
+var mnemonic = "jeans arrow oil pottery rail rookie when ridge wedding economy subject cancel";

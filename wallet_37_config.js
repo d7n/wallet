@@ -1,1 +1,1 @@
-var mnemonic = "bird attend riot august travel harvest gain possible sick camera fancy gate";
+var mnemonic = "circle gloom lucky leisure rhythm desert ordinary collect annual gravity protect rhythm";

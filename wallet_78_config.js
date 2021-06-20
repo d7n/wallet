@@ -1,1 +1,1 @@
-var mnemonic = "spoon island thrive poem rent biology humor extend south pig market master";
+var mnemonic = "wisdom health wisdom bomb cloud spoon sleep differ blade level toast magic";

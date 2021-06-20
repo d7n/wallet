@@ -1,1 +1,1 @@
-var mnemonic = "spot quote minute arrive coach divorce happy dignity sponsor cloud gesture option";
+var mnemonic = "voice misery final entry bomb resource obey indicate mail holiday board soup";

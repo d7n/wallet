@@ -1,1 +1,1 @@
-var mnemonic = "dawn pretty donkey vanish skull design crisp myself cinnamon fork shuffle bundle";
+var mnemonic = "egg reason comic armor heavy angry wisdom relief fire crazy small strategy";

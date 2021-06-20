@@ -1,1 +1,1 @@
-var mnemonic = "extend zebra ask never brief creek debris column cart usage knife quality";
+var mnemonic = "club dentist move piano bar one enrich orchard lab atom cinnamon mass";

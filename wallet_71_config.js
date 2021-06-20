@@ -1,1 +1,1 @@
-var mnemonic = "waste stock soda expose crew same ski effort emotion slot answer meadow";
+var mnemonic = "supreme soldier lottery lava rookie ride glad plug voice goose denial recall";

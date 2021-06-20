@@ -1,1 +1,1 @@
-var mnemonic = "road rally garage meat demand good infant hint unhappy script vanish quantum";
+var mnemonic = "legend clip gun suspect income salon begin brown supply grit quality cash";

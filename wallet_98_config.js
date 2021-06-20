@@ -1,1 +1,1 @@
-var mnemonic = "venture ball quote doll winter cactus brief width antenna choose apart blanket";
+var mnemonic = "entry outdoor bench slot reject cat above fee west nose surround cave";

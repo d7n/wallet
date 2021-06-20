@@ -1,1 +1,1 @@
-var mnemonic = "lamp general people general dawn auto shy ahead morning color door donkey";
+var mnemonic = "loop brief jump east come panther calm fatigue planet diesel tray increase";

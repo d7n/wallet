@@ -1,1 +1,1 @@
-var mnemonic = "distance mobile retire melt punch stone marble toward museum circle tuna danger";
+var mnemonic = "real also critic sadness diary awesome arrange grow regret road knock deal";

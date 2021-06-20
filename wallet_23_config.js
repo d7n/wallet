@@ -1,1 +1,1 @@
-var mnemonic = "erode attitude baby coach fever arch chronic blood cup speed concert fence";
+var mnemonic = "proud casual sister dizzy loop trick crop pact improve visual reveal permit";

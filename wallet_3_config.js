@@ -1,1 +1,1 @@
-var mnemonic = "problem cruel stand offer erosion popular require naive scout cement vocal flag";
+var mnemonic = "thrive brisk convince gravity else hen hedgehog allow income coffee wife pizza";

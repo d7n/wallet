@@ -1,1 +1,1 @@
-var mnemonic = "tongue absurd drill coconut genius pottery park scout truly dune excuse silver";
+var mnemonic = "alpha code jaguar hero busy wrestle yard tonight unfold shadow craft response";
