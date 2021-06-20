@@ -1,1 +1,1 @@
-var mnemonic = "polar valley curious exchange canoe ready truck clever loyal whale frequent visa";
+var mnemonic = "mask barely diesel crash project stick siren occur identify rate plunge cricket";

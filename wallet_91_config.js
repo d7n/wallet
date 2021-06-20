@@ -1,1 +1,1 @@
-var mnemonic = "ritual double penalty amused math intact gown year witness early mind shift";
+var mnemonic = "piano bottom pencil scatter valid service expire capable fluid file stock model";

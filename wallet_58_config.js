@@ -1,1 +1,1 @@
-var mnemonic = "street mosquito thing hover refuse violin pulse maze sorry tell circle obey";
+var mnemonic = "photo cook divert voice during invest life noodle wreck moral jump enact";

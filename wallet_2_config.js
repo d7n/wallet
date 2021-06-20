@@ -1,1 +1,1 @@
-var mnemonic = "core spot subject pottery tiger wine busy village palm soda balance dinosaur";
+var mnemonic = "rabbit hen tribe educate side enlist actual parade ritual feel write blade";

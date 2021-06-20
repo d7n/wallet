@@ -1,1 +1,1 @@
-var mnemonic = "govern weapon response zoo duck tape tower mushroom churn build cloth rely";
+var mnemonic = "bottom case hazard cost razor wrist illegal cloth flower height edge reform";

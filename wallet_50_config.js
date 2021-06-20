@@ -1,1 +1,1 @@
-var mnemonic = "six scatter option excite crane ancient dolphin coach guess reunion cigar method";
+var mnemonic = "drama remain embark until forward later labor often pair avoid slim source";

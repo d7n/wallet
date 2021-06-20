@@ -1,1 +1,1 @@
-var mnemonic = "wheat resource meadow inner seed pudding rain shiver grow weasel nuclear table";
+var mnemonic = "tag unique chest vote pet hunt night magic gloom industry private elder";

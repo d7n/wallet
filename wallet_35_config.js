@@ -1,1 +1,1 @@
-var mnemonic = "clump rely enrich fuel napkin fish include club dutch doctor right tribe";
+var mnemonic = "talk retreat wagon love convince vanish crumble bulk pencil three ordinary guard";

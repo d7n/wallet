@@ -1,1 +1,1 @@
-var mnemonic = "vault uncover improve provide rocket private mother nation east spin about keen";
+var mnemonic = "slim video barely popular love slide zone pumpkin tortoise midnight debate slide";

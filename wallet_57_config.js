@@ -1,1 +1,1 @@
-var mnemonic = "lottery music carpet warfare ribbon fortune feed display sugar broken never east";
+var mnemonic = "icon ice become view swallow scrap key kit fan scrap pilot begin";

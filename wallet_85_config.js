@@ -1,1 +1,1 @@
-var mnemonic = "head because pottery theme shiver use sick cave chest mouse oppose practice";
+var mnemonic = "world curious enter island pupil media stadium canvas tobacco someone spend square";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel urban develop wreck erode topple seek spot legal fame power goddess";
+var mnemonic = "fresh myth resist glow pupil paddle sun park install matrix pudding jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "cricket push scrub visa juice own cliff kid dog menu receive weekend";
+var mnemonic = "uncover oval same exclude bonus rigid hurdle turkey install minimum gasp fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "blur gym divert neglect lottery join water paper hurry insane solid forward";
+var mnemonic = "cube news eagle opinion latin swear flush uncover blossom armor hole orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "exhaust cycle glide scrub pond boss bike also stay duck frown order";
+var mnemonic = "file eagle pull butter morning head cousin hero model history harvest feel";

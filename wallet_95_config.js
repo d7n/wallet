@@ -1,1 +1,1 @@
-var mnemonic = "provide napkin glow wall virus unveil caution pyramid casino mutual style wash";
+var mnemonic = "clock joke vibrant someone current wash best air marriage congress month possible";

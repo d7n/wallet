@@ -1,1 +1,1 @@
-var mnemonic = "glide planet you donkey link month during blast twelve school razor inherit";
+var mnemonic = "indoor payment course ranch casual pill spell jaguar skate iron order name";

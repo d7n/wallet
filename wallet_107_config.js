@@ -1,1 +1,1 @@
-var mnemonic = "vacuum sting dignity reopen super arrest naive elevator tide shift cruel energy";
+var mnemonic = "talent source birth immense culture toddler alley illness patch nurse keen remove";

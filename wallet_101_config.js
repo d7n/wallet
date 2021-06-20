@@ -1,1 +1,1 @@
-var mnemonic = "wasp magic inform occur cable agent ask gorilla badge sword empty ostrich";
+var mnemonic = "knock robot dinner bottom shy upset picnic stage hole water uncle pass";

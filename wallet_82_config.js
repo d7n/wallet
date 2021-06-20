@@ -1,1 +1,1 @@
-var mnemonic = "other sudden grass diet fork work toward keen sound crunch juice vote";
+var mnemonic = "dizzy result unfold buddy essence save timber peasant safe tunnel spray find";

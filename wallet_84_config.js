@@ -1,1 +1,1 @@
-var mnemonic = "festival defy reject token hire pole loyal early carpet problem pause voyage";
+var mnemonic = "dumb weapon analyst cruise brother wild peace success blade pepper combine start";

@@ -1,1 +1,1 @@
-var mnemonic = "vague document resemble vacant hotel kite flee tree release critic immense casual";
+var mnemonic = "wedding wrestle giraffe eternal theme deliver fiction spoil rhythm lift sun decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "regular clay evoke increase normal sword skirt include fury day perfect very";
+var mnemonic = "stairs path wire slim diet burger obvious eager use stone rate shallow";

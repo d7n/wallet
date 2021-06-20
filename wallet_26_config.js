@@ -1,1 +1,1 @@
-var mnemonic = "art someone near creek text mango trumpet forum inform soon ethics near";
+var mnemonic = "same glimpse avocado sing reflect odor upper slam ecology nothing absorb labor";

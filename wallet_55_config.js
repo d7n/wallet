@@ -1,1 +1,1 @@
-var mnemonic = "zero swap pond vague fine whip observe odor inject misery very van";
+var mnemonic = "near there assume once gentle empty manage glass quality prefer cabbage grief";

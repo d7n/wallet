@@ -1,1 +1,1 @@
-var mnemonic = "picture rather butter oxygen blast torch dinosaur wrist foster flash member slogan";
+var mnemonic = "toy leisure win state team jeans write over throw drastic goat cradle";

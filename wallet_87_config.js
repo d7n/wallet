@@ -1,1 +1,1 @@
-var mnemonic = "million salad method dumb pilot danger among search shadow cram air dog";
+var mnemonic = "afraid glad save sing into stick evidence embark material lava afraid excuse";

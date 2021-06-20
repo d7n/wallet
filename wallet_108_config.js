@@ -1,1 +1,1 @@
-var mnemonic = "harbor side labor web problem lawn color donate inflict struggle pen library";
+var mnemonic = "leisure fiber episode excess gun fold armor pen reunion laundry stumble mesh";

@@ -1,1 +1,1 @@
-var mnemonic = "miss fiscal devote bag priority battle child model theme fame picture grab";
+var mnemonic = "shed shy photo reflect elegant rug excess mimic leader junior parade card";

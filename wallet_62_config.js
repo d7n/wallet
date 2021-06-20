@@ -1,1 +1,1 @@
-var mnemonic = "cook kiwi provide hawk often under list price half escape purchase security";
+var mnemonic = "collect adult marriage disease core identify engine raw dirt chapter swing shock";

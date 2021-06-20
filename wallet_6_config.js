@@ -1,1 +1,1 @@
-var mnemonic = "cluster swap decade raccoon afford fly void toddler memory call connect minimum";
+var mnemonic = "rich two lamp cattle visual gap movie odor behind scrub slam bronze";

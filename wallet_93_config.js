@@ -1,1 +1,1 @@
-var mnemonic = "furnace gesture width safe clutch horse skate debate job garlic bid pyramid";
+var mnemonic = "install gaze draft power song prepare hockey access tribe author phone toast";

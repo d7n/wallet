@@ -1,1 +1,1 @@
-var mnemonic = "olive spend major pluck mad high science coral below brisk session renew";
+var mnemonic = "color slim obvious announce render trigger ill shiver pair topple father glad";

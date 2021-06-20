@@ -1,1 +1,1 @@
-var mnemonic = "sweet seat rich inside ability usage valve interest divert top flight view";
+var mnemonic = "mango layer ethics useless venue upgrade empty decade impact police food banner";

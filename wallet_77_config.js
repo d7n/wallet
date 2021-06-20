@@ -1,1 +1,1 @@
-var mnemonic = "lizard nominee snack list stumble stadium boy stage relief split warrior buddy";
+var mnemonic = "wear public spray hockey upset enough dumb assist critic noble tray unhappy";

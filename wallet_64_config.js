@@ -1,1 +1,1 @@
-var mnemonic = "surge sustain flavor dial rapid next item maid fluid exile siren sense";
+var mnemonic = "cotton planet jacket pluck vital buffalo raven spoil inspire private hammer cherry";

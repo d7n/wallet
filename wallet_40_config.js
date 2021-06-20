@@ -1,1 +1,1 @@
-var mnemonic = "chronic exit bleak beach drift cream seven husband detail black emerge tool";
+var mnemonic = "sight base random gas inject front treat advance divorce orphan west win";

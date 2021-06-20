@@ -1,1 +1,1 @@
-var mnemonic = "drift bargain code census client subway hover viable acid broom arrest trip";
+var mnemonic = "circle enough media lottery ginger flock enjoy enact portion expand ignore tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "argue argue helmet swift put vendor barrel erosion file hole apology visual";
+var mnemonic = "emotion heart despair escape tumble purpose write second kick disorder foil verify";

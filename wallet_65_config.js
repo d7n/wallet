@@ -1,1 +1,1 @@
-var mnemonic = "fitness thrive report render timber crush nest raccoon swear ivory giggle spider";
+var mnemonic = "exhaust unique prefer bullet bar decrease odor tourist nominee tower creek file";

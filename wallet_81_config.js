@@ -1,1 +1,1 @@
-var mnemonic = "mutual among alarm oblige ask shy profit unusual tube vintage near process";
+var mnemonic = "capital try sand stick join bargain team option believe legend old invite";

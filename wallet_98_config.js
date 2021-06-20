@@ -1,1 +1,1 @@
-var mnemonic = "secret copper wave casual effort scrub lazy close improve tape tree turtle";
+var mnemonic = "fantasy media truly bargain truck olive rookie improve behind smoke vacant buffalo";

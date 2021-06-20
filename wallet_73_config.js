@@ -1,1 +1,1 @@
-var mnemonic = "purity soup eye develop apology twice sausage movie giraffe emerge toy lizard";
+var mnemonic = "infant web floor divide basic coral soul similar vague kick ice alien";

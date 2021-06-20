@@ -1,1 +1,1 @@
-var mnemonic = "unknown feed place tiny raccoon language shine palm uniform hobby property truck";
+var mnemonic = "army dream duty rare dune moment custom swear mimic grass diagram cat";

@@ -1,1 +1,1 @@
-var mnemonic = "custom merry okay trash point puppy labor arrest ice flag weekend torch";
+var mnemonic = "dust stamp news silent coyote road armor turkey deliver act fitness wagon";

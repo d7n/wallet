@@ -1,1 +1,1 @@
-var mnemonic = "weasel carry economy fan reopen confirm wonder loan always access feed special";
+var mnemonic = "start like physical miracle dry advance night broken old equip sea neglect";

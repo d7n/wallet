@@ -1,1 +1,1 @@
-var mnemonic = "repair piano net metal wash burst jungle trigger close neither tornado impose";
+var mnemonic = "ill off frequent hammer warrior boat addict empty adult trophy saddle risk";

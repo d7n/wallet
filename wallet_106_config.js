@@ -1,1 +1,1 @@
-var mnemonic = "bamboo exhaust simple boring gift rabbit cheap level cash seek save course";
+var mnemonic = "split topic bottom blouse eyebrow frown usual remain fog zone hip monster";

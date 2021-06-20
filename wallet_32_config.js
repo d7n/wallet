@@ -1,1 +1,1 @@
-var mnemonic = "tooth pond frequent term speed vast common lunch brick oxygen drill vote";
+var mnemonic = "wrong hawk honey garlic number boy spray awake cluster rifle vast then";

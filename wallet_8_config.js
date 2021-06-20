@@ -1,1 +1,1 @@
-var mnemonic = "record peace core grit multiply unknown warm wasp couch release work noise";
+var mnemonic = "receive across actual recipe clown thing kit skull liar benefit buddy indicate";

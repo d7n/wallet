@@ -1,1 +1,1 @@
-var mnemonic = "release subject uncle slide hotel slide sorry right fence entire swarm real";
+var mnemonic = "pen jelly utility gentle absurd nothing universe title mansion stomach betray basket";

@@ -1,1 +1,1 @@
-var mnemonic = "venue session donate explain mobile embody figure excite save earth dinner position";
+var mnemonic = "tank symbol deer that swear traffic wave lizard movie pizza illegal what";

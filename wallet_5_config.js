@@ -1,1 +1,1 @@
-var mnemonic = "category echo one client snack another make trumpet regular leaf trip hunt";
+var mnemonic = "slender sister scout endorse crouch current glue ranch man property million birth";

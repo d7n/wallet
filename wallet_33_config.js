@@ -1,1 +1,1 @@
-var mnemonic = "water reopen memory notable bind borrow tortoise foam action dial oak december";
+var mnemonic = "reward violin outside focus strategy interest path wood approve enrich panther excite";

@@ -1,1 +1,1 @@
-var mnemonic = "snack wasp almost mix story earth hover hurt before hospital warfare have";
+var mnemonic = "salmon boring friend winner chase file soldier soup art middle blade way";

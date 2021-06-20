@@ -1,1 +1,1 @@
-var mnemonic = "spawn unaware cotton pause mandate habit minimum gasp drama rail jealous artwork";
+var mnemonic = "garbage human wool laundry regular grab amazing style merit fruit multiply little";

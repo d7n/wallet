@@ -1,1 +1,1 @@
-var mnemonic = "crunch broom license video hotel renew crater vital priority garden direct boy";
+var mnemonic = "transfer year better element talk afraid thrive budget magic banner art direct";

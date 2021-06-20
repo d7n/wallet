@@ -1,1 +1,1 @@
-var mnemonic = "barrel middle embody where wait emotion hour fly purchase avoid must position";
+var mnemonic = "strike twice flee obvious disagree very weapon edit urge badge jewel mammal";

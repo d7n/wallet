@@ -1,1 +1,1 @@
-var mnemonic = "door liar secret lottery arm typical armor provide effort diesel chimney potato";
+var mnemonic = "mercy random loan kit recall fiber easy scissors rice famous side giant";

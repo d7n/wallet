@@ -1,1 +1,1 @@
-var mnemonic = "defense horn puppy aerobic marine corn system ozone core egg finger festival";
+var mnemonic = "toddler bubble clutch brush exercise ancient woman gallery goose mushroom senior drum";

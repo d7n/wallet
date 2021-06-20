@@ -1,1 +1,1 @@
-var mnemonic = "side heavy artefact future exile fun soap design exact dismiss feature circle";
+var mnemonic = "pull float coast walnut shiver pudding field truth frown track polar steel";

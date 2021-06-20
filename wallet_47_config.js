@@ -1,1 +1,1 @@
-var mnemonic = "engine tube grab only quick opera mandate piano provide neck payment digital";
+var mnemonic = "brother bubble direct hurt motor message resemble woman rhythm arrow ostrich flock";

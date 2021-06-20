@@ -1,1 +1,1 @@
-var mnemonic = "radar dish benefit celery rural clutch either glare face trust shuffle royal";
+var mnemonic = "menu obey become ordinary angle clog kitten bean wish assume always endless";

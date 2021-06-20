@@ -1,1 +1,1 @@
-var mnemonic = "inform wave sausage inch whisper bubble matter foam exclude front boil climb";
+var mnemonic = "strike print immune awesome enroll bracket shallow pet theory eternal chaos season";

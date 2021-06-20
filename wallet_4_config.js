@@ -1,1 +1,1 @@
-var mnemonic = "rent witness code sad physical pole cattle castle apart hamster outside crack";
+var mnemonic = "private sunny plate hub sport tourist toilet manage mouse tonight fruit embody";

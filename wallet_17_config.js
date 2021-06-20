@@ -1,1 +1,1 @@
-var mnemonic = "salt reason indoor convince dune hair pear undo pulse rely piano comic";
+var mnemonic = "special more midnight opinion rice athlete faint primary control planet never scene";

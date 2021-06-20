@@ -1,1 +1,1 @@
-var mnemonic = "gossip arrow cannon bounce end invite silk bus glow loud youth cereal";
+var mnemonic = "clerk slice physical bracket truly fatigue maid gravity divide lady table giggle";

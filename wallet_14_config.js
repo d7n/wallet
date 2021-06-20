@@ -1,1 +1,1 @@
-var mnemonic = "original peasant include above settle parade top strategy choice wolf brief rabbit";
+var mnemonic = "arch keep flee empower you extend beach way dust error drip hole";

@@ -1,1 +1,1 @@
-var mnemonic = "crime rain diary have glad reason absurd lonely mother hidden speak evidence";
+var mnemonic = "robot own tobacco borrow throw stable fruit cash rose strong transfer strike";

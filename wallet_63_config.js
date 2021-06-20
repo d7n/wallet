@@ -1,1 +1,1 @@
-var mnemonic = "lemon fiscal budget sphere extra wide random humble match modify hotel burst";
+var mnemonic = "visit penalty absorb belt camera pear deputy coach cheap into strike invite";

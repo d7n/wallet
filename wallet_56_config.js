@@ -1,1 +1,1 @@
-var mnemonic = "cluster defense twenty because sister attitude short convince into pave post exact";
+var mnemonic = "syrup problem original decide oil type web faculty daughter perfect glue use";

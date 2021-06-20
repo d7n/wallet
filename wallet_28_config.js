@@ -1,1 +1,1 @@
-var mnemonic = "husband pill glare struggle return mad talk humble pilot rocket general maid";
+var mnemonic = "guitar spell foil action code hood spread depth frozen welcome bridge peanut";

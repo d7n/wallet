@@ -1,1 +1,1 @@
-var mnemonic = "diesel crawl remove rose review thought draw people orphan grab because idle";
+var mnemonic = "curve achieve ship celery pretty thank chat lawn garment brave paper market";

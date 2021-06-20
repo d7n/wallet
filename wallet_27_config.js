@@ -1,1 +1,1 @@
-var mnemonic = "script steel quality absurd milk remind require harvest run blind annual close";
+var mnemonic = "globe prevent shadow decade spoon disease leave fire iron damp chair inmate";

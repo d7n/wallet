@@ -1,1 +1,1 @@
-var mnemonic = "badge assist pulp door worth enforce vintage online evoke opinion banana join";
+var mnemonic = "term chest negative youth seven discover direct trade coil tornado siege dance";

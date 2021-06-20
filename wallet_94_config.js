@@ -1,1 +1,1 @@
-var mnemonic = "enjoy jelly eagle head swarm forum method master certain globe sheriff wisdom";
+var mnemonic = "drive lunch suit sugar burden layer summer citizen leg twelve undo never";

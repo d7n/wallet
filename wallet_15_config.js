@@ -1,1 +1,1 @@
-var mnemonic = "dinner wide hurry alley march catalog zebra female solar curious recipe remember";
+var mnemonic = "vanish shrimp certain body husband blue luggage hybrid clutch innocent owner flight";

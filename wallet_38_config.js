@@ -1,1 +1,1 @@
-var mnemonic = "will enter damage play story praise board view hover blind elder tone";
+var mnemonic = "wise stick hurry chest occur oppose boil fault asthma announce vacuum scan";

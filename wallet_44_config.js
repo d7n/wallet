@@ -1,1 +1,1 @@
-var mnemonic = "plunge stone helmet shaft angry reject autumn fossil sail office face tattoo";
+var mnemonic = "kiss weasel nice keen identify saddle finger either stomach glory unable correct";

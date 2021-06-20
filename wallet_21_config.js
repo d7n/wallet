@@ -1,1 +1,1 @@
-var mnemonic = "upgrade jacket fat bench keen derive hammer empty infant economy solar require";
+var mnemonic = "praise slice coach original aware cactus arrive broken leg ahead master problem";

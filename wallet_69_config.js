@@ -1,1 +1,1 @@
-var mnemonic = "shaft claw local they unique unusual gorilla whale crew glass immense tank";
+var mnemonic = "sense hammer knock critic episode tonight wear inside paper switch scale equal";

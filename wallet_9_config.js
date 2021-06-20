@@ -1,1 +1,1 @@
-var mnemonic = "place vault field latin peace sea immense question taste jacket reform vicious";
+var mnemonic = "fury palm grant wave still cause source devote surround very alter ship";

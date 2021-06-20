@@ -1,1 +1,1 @@
-var mnemonic = "another anxiety smart cinnamon what into result gate message lucky void manual";
+var mnemonic = "clerk pencil predict aspect mechanic bar report find solar nephew laugh purpose";

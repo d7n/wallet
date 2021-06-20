@@ -1,1 +1,1 @@
-var mnemonic = "shell parade olive argue capable visual scan poverty rescue gasp snack rapid";
+var mnemonic = "jazz cousin very expect gap sauce dentist great banana work scatter half";

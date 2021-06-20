@@ -1,1 +1,1 @@
-var mnemonic = "bachelor inch equal afraid tide pole dove arrow horn stairs liberty ahead";
+var mnemonic = "lemon found lady marriage diamond fossil excuse raw success social visit spare";

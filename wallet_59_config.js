@@ -1,1 +1,1 @@
-var mnemonic = "wise cart eye desk slight ceiling interest tenant chaos furnace second forward";
+var mnemonic = "noodle typical float north neck oppose mutual borrow bunker walnut memory bike";
