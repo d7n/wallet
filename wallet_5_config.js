@@ -1,1 +1,1 @@
-var mnemonic = "utility bless lucky saddle domain reveal item just draw medal embark shove";
+var mnemonic = "course yard mimic series awesome subject magnet whale insect nominee still ramp";

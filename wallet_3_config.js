@@ -1,1 +1,1 @@
-var mnemonic = "shop learn enhance crowd wonder occur truly dish awesome giggle lazy birth";
+var mnemonic = "weekend tube barrel weapon proof disorder cruel certain race brass dish jazz";

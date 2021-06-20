@@ -1,1 +1,1 @@
-var mnemonic = "cotton result angry youth vapor crater twin pitch initial million humor ostrich";
+var mnemonic = "ugly all slim unlock cake industry close adult canoe syrup attack cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "window tube shoulder exchange charge change fatigue dizzy resource renew correct shell";
+var mnemonic = "cheese mirror rotate laugh giant harbor lesson cram situate pepper hood raw";

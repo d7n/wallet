@@ -1,1 +1,1 @@
-var mnemonic = "false private muscle obvious turtle one beauty service beef exclude scare fiber";
+var mnemonic = "orphan sick round gadget frequent add giggle pony session endorse govern hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "side shadow govern sausage rent dress surface beyond plastic flight street ethics";
+var mnemonic = "spell hire train marble remind buyer marble bulb toilet cheese security fine";

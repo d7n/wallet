@@ -1,1 +1,1 @@
-var mnemonic = "gain song employ throw slender more wrap response steel arrow eye buffalo";
+var mnemonic = "injury piece possible evolve globe tape truck act property rocket reveal crisp";

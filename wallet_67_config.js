@@ -1,1 +1,1 @@
-var mnemonic = "nothing swallow net attack garbage term grab farm sure dish chaos admit";
+var mnemonic = "catch elder stay about under mix ticket detect better canyon junk remind";

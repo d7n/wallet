@@ -1,1 +1,1 @@
-var mnemonic = "cook task business sound enough tuition buyer rich rib ride butter jealous";
+var mnemonic = "mechanic maid together bid agree page grocery fee sight note danger deposit";

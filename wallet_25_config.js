@@ -1,1 +1,1 @@
-var mnemonic = "sudden inner chief affair cook monster hurry impulse profit hidden clutch more";
+var mnemonic = "emerge cage mesh cluster maze ahead raw tongue swap leave season illegal";

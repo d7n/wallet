@@ -1,1 +1,1 @@
-var mnemonic = "crack steak hat judge canvas miss fork mixture lemon ribbon ankle pipe";
+var mnemonic = "improve huge robot romance expose model movie hospital outer young else crisp";

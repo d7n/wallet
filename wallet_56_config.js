@@ -1,1 +1,1 @@
-var mnemonic = "hen lava timber initial monkey air belt stone panda dumb nose night";
+var mnemonic = "live daughter quick soldier power noodle shrimp pledge angle lion lunch display";

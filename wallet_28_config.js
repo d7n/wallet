@@ -1,1 +1,1 @@
-var mnemonic = "skate slight grocery wage grab hover slice load hungry odor where system";
+var mnemonic = "master bright album gallery decline valley require such cereal around review thank";

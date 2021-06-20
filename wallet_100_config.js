@@ -1,1 +1,1 @@
-var mnemonic = "work gesture license twelve symbol champion lunch another legend mango mix sausage";
+var mnemonic = "dinosaur shrug north arm inner echo scheme trust sight sell happy voyage";

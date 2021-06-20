@@ -1,1 +1,1 @@
-var mnemonic = "upgrade crane left umbrella dumb basic flower blush layer demand enforce gaze";
+var mnemonic = "elegant cluster document million fitness step minute fruit pilot forget penalty pattern";

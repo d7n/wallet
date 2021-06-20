@@ -1,1 +1,1 @@
-var mnemonic = "sting december trigger naive math cloud cave because subway track inner fury";
+var mnemonic = "bullet best famous license coyote trouble doll spring invest deer client like";

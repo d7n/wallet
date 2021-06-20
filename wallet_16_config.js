@@ -1,1 +1,1 @@
-var mnemonic = "congress stick cup medal faculty trophy squeeze misery rain nation mention crop";
+var mnemonic = "cabin promote wild habit elevator fury ability spy immune dog crane lift";

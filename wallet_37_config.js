@@ -1,1 +1,1 @@
-var mnemonic = "add segment boost govern snack pottery clerk phrase purse pool grape gorilla";
+var mnemonic = "cream damp mango affair attract seven denial mind assume rocket receive solve";

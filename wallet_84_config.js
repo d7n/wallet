@@ -1,1 +1,1 @@
-var mnemonic = "garment ice permit final supreme rural purpose lonely engage drama marine duck";
+var mnemonic = "job idle luggage egg whisper hold swear sea forum prosper parrot today";

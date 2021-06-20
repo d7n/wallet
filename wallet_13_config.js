@@ -1,1 +1,1 @@
-var mnemonic = "question witness lyrics brown planet once cable nice enable person example vanish";
+var mnemonic = "oil hip giggle custom power museum burden cliff tuna situate dizzy negative";

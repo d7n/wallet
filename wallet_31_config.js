@@ -1,1 +1,1 @@
-var mnemonic = "genuine hotel since fly rebel pledge search endless diet peace history master";
+var mnemonic = "ramp exhibit roast give half dance abstract broken clever wreck wide toy";

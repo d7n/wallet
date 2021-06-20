@@ -1,1 +1,1 @@
-var mnemonic = "gravity defense fox level ocean feel harvest one riot this liberty usual";
+var mnemonic = "boy enact car medal picture bone order window crash have marine bitter";

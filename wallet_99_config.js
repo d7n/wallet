@@ -1,1 +1,1 @@
-var mnemonic = "any hospital emotion legend uncover just distance banner middle rifle vacuum cash";
+var mnemonic = "evoke since ensure gate vessel erupt tackle bind pistol moment better beauty";

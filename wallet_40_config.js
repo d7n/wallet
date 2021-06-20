@@ -1,1 +1,1 @@
-var mnemonic = "rabbit style grid lesson domain energy meadow ivory wolf nasty update naive";
+var mnemonic = "calm mushroom between axis impose glove farm neutral cancel giant worry follow";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase recipe curious shallow rug avoid honey idle skirt label unit shop";
+var mnemonic = "code mail record evidence outer grace jar industry echo initial oppose element";

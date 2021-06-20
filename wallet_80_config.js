@@ -1,1 +1,1 @@
-var mnemonic = "milk antenna split bright eager that aim fat stock dutch ancient inmate";
+var mnemonic = "bargain scrap ten soul pistol web snake hint jazz term such wire";

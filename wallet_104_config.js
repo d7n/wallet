@@ -1,1 +1,1 @@
-var mnemonic = "dust response dry arena kick area pulp reopen earn fix sport daring";
+var mnemonic = "main nice cart rent switch grant giraffe coffee apart copy slogan valve";

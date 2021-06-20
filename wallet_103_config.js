@@ -1,1 +1,1 @@
-var mnemonic = "coral tired win west dog mail comfort mandate method fresh gift kiss";
+var mnemonic = "pencil guitar behave expand parade myth color tree hurdle laugh when hidden";

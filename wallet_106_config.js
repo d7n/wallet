@@ -1,1 +1,1 @@
-var mnemonic = "alone pear bomb antique defy diary will bring gallery engine sight forward";
+var mnemonic = "volcano faith catalog strike federal control nature age water limb machine viable";

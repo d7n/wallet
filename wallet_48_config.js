@@ -1,1 +1,1 @@
-var mnemonic = "suffer under tide wheel gain wedding bleak heart hammer devote broken noble";
+var mnemonic = "frown treat original indicate swift popular venue lunar gossip avocado club engage";

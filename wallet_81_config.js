@@ -1,1 +1,1 @@
-var mnemonic = "panda daughter blind neutral beyond talent prize tip million guide snow large";
+var mnemonic = "since scrap fashion peanut assume common melt cotton eagle swift oyster cook";

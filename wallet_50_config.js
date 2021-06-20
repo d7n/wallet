@@ -1,1 +1,1 @@
-var mnemonic = "powder sight increase scout cross manage spin divide fancy forward snack enemy";
+var mnemonic = "remind cube sword casual skill tumble funny blush salmon news net infant";

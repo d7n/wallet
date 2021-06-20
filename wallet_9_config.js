@@ -1,1 +1,1 @@
-var mnemonic = "ten hobby defy victory child time dog cream asthma ability clip answer";
+var mnemonic = "annual deposit awesome regret ramp require atom laundry appear link wear ostrich";

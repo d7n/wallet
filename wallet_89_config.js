@@ -1,1 +1,1 @@
-var mnemonic = "undo company dust foil notable timber coyote curious misery secret stove enroll";
+var mnemonic = "outer release stairs animal must soap stable silk deputy fashion topic shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "coil student hotel all game arrive crazy wife wood drip wink broken";
+var mnemonic = "holiday veteran gadget cave journey round head share adapt harbor potato busy";

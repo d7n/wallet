@@ -1,1 +1,1 @@
-var mnemonic = "another improve protect hood visit express obscure result kiwi then aerobic venue";
+var mnemonic = "across ozone have beach sport current random toast chief bottom cloth welcome";

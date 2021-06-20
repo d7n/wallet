@@ -1,1 +1,1 @@
-var mnemonic = "accident day return waste secret maple rotate skate vacuum ride pitch gospel";
+var mnemonic = "rule make smile wrist horse town ready honey share never turn leader";

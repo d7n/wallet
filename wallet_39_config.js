@@ -1,1 +1,1 @@
-var mnemonic = "movie onion resist execute virus exhibit marine soup sure brand bomb act";
+var mnemonic = "taste tide already phone dress proof favorite snake install claw stamp drastic";

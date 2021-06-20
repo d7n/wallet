@@ -1,1 +1,1 @@
-var mnemonic = "use ivory sad scout slam sustain begin enact never carpet join laundry";
+var mnemonic = "chalk wave inject saddle beyond practice elder inch athlete peasant inner goat";

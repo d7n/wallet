@@ -1,1 +1,1 @@
-var mnemonic = "pen reform other gaze weasel avoid fatal profit iron snake can furnace";
+var mnemonic = "dust taxi pact core feel giraffe cherry drastic ecology beach penalty visual";

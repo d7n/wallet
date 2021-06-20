@@ -1,1 +1,1 @@
-var mnemonic = "decrease unveil history timber library renew broccoli jazz country fence fall solid";
+var mnemonic = "trend purchase drop virtual pony special amateur truck dwarf silly chunk never";

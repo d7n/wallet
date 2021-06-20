@@ -1,1 +1,1 @@
-var mnemonic = "garden canvas swallow blush resist exist cotton brown frozen clip follow music";
+var mnemonic = "peanut hidden traffic split hub cheap stay you stumble second kite swim";

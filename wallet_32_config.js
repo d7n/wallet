@@ -1,1 +1,1 @@
-var mnemonic = "rent position siren mention perfect joke remember lyrics hold outer awake harbor";
+var mnemonic = "deal hybrid flush cute pear seed option gorilla balance impact ripple warm";

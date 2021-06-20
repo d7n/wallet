@@ -1,1 +1,1 @@
-var mnemonic = "walnut expose idle buyer evidence tomato demand rookie arrow often trumpet pig";
+var mnemonic = "trap cheap slender chronic radio label aware strategy motor enhance field erode";

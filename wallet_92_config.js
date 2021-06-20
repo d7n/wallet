@@ -1,1 +1,1 @@
-var mnemonic = "race loan type pioneer enter actual loyal nephew general people distance latin";
+var mnemonic = "angry pudding come meadow sadness ranch crazy woman sphere embrace file bench";

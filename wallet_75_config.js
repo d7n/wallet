@@ -1,1 +1,1 @@
-var mnemonic = "three exit athlete brisk outside grit gold rhythm biology chalk phrase mean";
+var mnemonic = "relax comic guilt honey eight cube label maid punch access crush swear";

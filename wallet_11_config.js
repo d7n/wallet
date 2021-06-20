@@ -1,1 +1,1 @@
-var mnemonic = "orchard satoshi find spoon token filter goat robot scale during tent vital";
+var mnemonic = "photo route write pride various interest grant island trumpet ready cushion depend";

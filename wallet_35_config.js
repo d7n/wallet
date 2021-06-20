@@ -1,1 +1,1 @@
-var mnemonic = "tail quiz tumble elevator grocery kingdom number eternal setup elite weather dream";
+var mnemonic = "delay ill base iron fit tray foam flower swim excite edge attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial gentle sniff spell crane inject stairs air annual remember dinosaur absorb";
+var mnemonic = "guess orchard define mimic grant spell hold mistake grid pulse health agent";

@@ -1,1 +1,1 @@
-var mnemonic = "floor until shell rich piece beyond vessel flash cruel cinnamon spawn dry";
+var mnemonic = "token card face fork crazy crater man trap common unusual deputy outer";

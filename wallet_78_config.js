@@ -1,1 +1,1 @@
-var mnemonic = "slush advice inside settle web broken aunt easy shoulder weather lunch elevator";
+var mnemonic = "luxury phone impact alarm identify clerk tonight pelican level setup evoke dune";

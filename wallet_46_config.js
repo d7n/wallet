@@ -1,1 +1,1 @@
-var mnemonic = "exclude slice earn globe island extend inquiry poem start buzz list crash";
+var mnemonic = "size vote catch across grain gloom flee autumn champion option surge adjust";

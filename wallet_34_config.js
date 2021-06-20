@@ -1,1 +1,1 @@
-var mnemonic = "multiply gravity volcano bar actual middle sick also jelly either science bronze";
+var mnemonic = "admit blossom edit dizzy dune regular snack client pluck hazard tragic dog";

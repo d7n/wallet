@@ -1,1 +1,1 @@
-var mnemonic = "shoulder range board slab clutch weather rival avoid insect battle away purity";
+var mnemonic = "tattoo donor celery pave frost hurry marine earn draw stand genuine warrior";

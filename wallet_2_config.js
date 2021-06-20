@@ -1,1 +1,1 @@
-var mnemonic = "live summer sponsor stand find round prosper shell maximum album fatal parent";
+var mnemonic = "away luggage flat enhance grit want hand infant silly senior gallery receive";

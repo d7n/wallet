@@ -1,1 +1,1 @@
-var mnemonic = "mean sure snake fee exercise member scheme license danger alley patch canal";
+var mnemonic = "ripple matrix rack object fly veteran roof humor begin name dwarf join";

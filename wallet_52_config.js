@@ -1,1 +1,1 @@
-var mnemonic = "prosper soap flower surround father april panel tongue push pepper small valid";
+var mnemonic = "okay wild tomorrow switch best neither suggest wasp work unique visa forward";

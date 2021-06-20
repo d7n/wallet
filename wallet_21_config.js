@@ -1,1 +1,1 @@
-var mnemonic = "host daughter picnic detect example grape manage cute bundle gallery swim glare";
+var mnemonic = "range waste concert arrive age kidney skin able lunar chat toddler tonight";

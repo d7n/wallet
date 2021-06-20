@@ -1,1 +1,1 @@
-var mnemonic = "oil patient denial rug gift razor rain moment hamster rebuild skirt wagon";
+var mnemonic = "dash park evoke comfort hip rapid daughter ill design manual ceiling nasty";

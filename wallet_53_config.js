@@ -1,1 +1,1 @@
-var mnemonic = "bulb width shield thrive unknown flash october together into random narrow dwarf";
+var mnemonic = "shine inform cube drum exhaust umbrella spray myself humor shed gap brief";

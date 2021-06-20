@@ -1,1 +1,1 @@
-var mnemonic = "dry lock muffin light math blossom embark stool rent solar shield theme";
+var mnemonic = "rebel identify describe vault enlist excess control muffin anchor sudden reveal habit";

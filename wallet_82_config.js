@@ -1,1 +1,1 @@
-var mnemonic = "ship shove unique same kangaroo raw mercy snow wave upper glory novel";
+var mnemonic = "cloth fiscal machine evoke mammal shoulder garlic hungry enact orient travel cotton";

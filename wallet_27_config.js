@@ -1,1 +1,1 @@
-var mnemonic = "salute seed direct among sugar legal oxygen trouble reason hawk differ lion";
+var mnemonic = "disagree enlist multiply throw skin affair moral flower era despair faith radio";

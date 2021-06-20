@@ -1,1 +1,1 @@
-var mnemonic = "tomato fee butter shine pass reject direct choice prevent they resist improve";
+var mnemonic = "clarify exist candy display random advice solid ecology friend pepper orange social";

@@ -1,1 +1,1 @@
-var mnemonic = "anger helmet diary trip afford layer else fresh hospital random symbol dismiss";
+var mnemonic = "chase tortoise spatial garment pet hat infant bread blouse replace pony cupboard";

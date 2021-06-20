@@ -1,1 +1,1 @@
-var mnemonic = "thing oak wedding evil news gate flavor century slender long food normal";
+var mnemonic = "bleak shrug voyage deliver pave since fan oil creek jacket maximum salon";

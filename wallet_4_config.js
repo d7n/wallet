@@ -1,1 +1,1 @@
-var mnemonic = "weird drastic vote they drink discover page settle accuse unfold suit summer";
+var mnemonic = "clock pipe return switch pulse shallow reduce assault zone hip effort dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "tag stick bleak obscure siege regret boy supply key glue easy cliff";
+var mnemonic = "toast purchase square lemon bamboo future hidden uncover nephew click flip toward";

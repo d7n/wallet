@@ -1,1 +1,1 @@
-var mnemonic = "deny hollow snow ticket lemon act glue zero test cherry oak hungry";
+var mnemonic = "myself club biology style spatial cup course bullet scale release bless carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet social enable cycle unable company bamboo kind what repair age era";
+var mnemonic = "connect ask gesture brain unusual mention laundry post across risk alien letter";

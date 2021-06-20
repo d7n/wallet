@@ -1,1 +1,1 @@
-var mnemonic = "banner egg language august atom master capable habit whisper rail visual either";
+var mnemonic = "giraffe razor olive parade kangaroo cool awkward rescue soap despair liar soldier";

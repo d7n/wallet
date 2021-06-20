@@ -1,1 +1,1 @@
-var mnemonic = "expire nephew foot chapter airport suspect glue palm artefact rude stove actual";
+var mnemonic = "donkey ship smooth tank analyst drill mistake inside window dynamic damage pencil";

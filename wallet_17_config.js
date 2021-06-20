@@ -1,1 +1,1 @@
-var mnemonic = "prison gadget neck magic pet bullet cinnamon boss auto oyster top path";
+var mnemonic = "oppose talent fade will helmet size crime skate oxygen hockey hawk concert";

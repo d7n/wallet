@@ -1,1 +1,1 @@
-var mnemonic = "nut ribbon key shine pink assault mix defy woman humble actor secret";
+var mnemonic = "glove erode taste sudden autumn gold spray guilt trigger nation degree divide";

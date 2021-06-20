@@ -1,1 +1,1 @@
-var mnemonic = "cabin fashion pioneer shoulder need laptop crime aware orient ball furnace blouse";
+var mnemonic = "flame travel network choice gadget swallow win crater leader love kiwi divorce";

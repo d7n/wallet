@@ -1,1 +1,1 @@
-var mnemonic = "gallery clean digital donor mom bargain blur monitor page pact famous river";
+var mnemonic = "latin shrimp stuff morning magnet coconut rail title dog castle deliver lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "false good nephew army viable reunion gain like arrive song wasp spot";
+var mnemonic = "head glory lunch rocket upper frown penalty broom wool thunder poet ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken spider ensure level width marriage chimney search another boring hunt lamp";
+var mnemonic = "sight army hazard minute holiday suspect resist pride soldier horn giant frost";

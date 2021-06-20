@@ -1,1 +1,1 @@
-var mnemonic = "skin fancy melody sphere enroll lemon dizzy blade door evolve charge version";
+var mnemonic = "glide cargo vanish grunt lawn replace mercy idea sun join focus please";

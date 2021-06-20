@@ -1,1 +1,1 @@
-var mnemonic = "thought answer ethics swing fatal call next cricket truck pull seat polar";
+var mnemonic = "plunge arm myth original miss dilemma rally crater reunion canal lobster first";

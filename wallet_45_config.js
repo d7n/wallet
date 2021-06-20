@@ -1,1 +1,1 @@
-var mnemonic = "medal upgrade license fitness tray demise diet yard load conduct order local";
+var mnemonic = "brand reason supreme harsh garage goddess abstract floor tower liar canyon media";

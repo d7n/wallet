@@ -1,1 +1,1 @@
-var mnemonic = "remember sure empty piano embark glory coast urban expire dream illegal whisper";
+var mnemonic = "state lonely fence weekend grit fade spin fence whip never castle drill";

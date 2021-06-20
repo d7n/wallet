@@ -1,1 +1,1 @@
-var mnemonic = "clown remove giraffe crumble topple post bring envelope game rule group purse";
+var mnemonic = "lounge insane stumble blame banana design nurse amount evidence holiday rubber firm";

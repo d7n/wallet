@@ -1,1 +1,1 @@
-var mnemonic = "nose budget mimic salt zero yard useful dust fiber sight meat plastic";
+var mnemonic = "sadness ocean innocent insane flip employ simple hidden draft cotton real sample";

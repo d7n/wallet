@@ -1,1 +1,1 @@
-var mnemonic = "gown use swim weird flower rhythm hole vibrant glare truly camera squirrel";
+var mnemonic = "mouse random bench motion tower omit cook pill pen sponsor cheap clean";

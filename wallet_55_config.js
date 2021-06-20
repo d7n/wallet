@@ -1,1 +1,1 @@
-var mnemonic = "quarter medal modify tube joy fiction sign source help torch relief trigger";
+var mnemonic = "current edit hobby sniff dove broken mistake cupboard sort latin glass oven";

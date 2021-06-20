@@ -1,1 +1,1 @@
-var mnemonic = "volume ill conduct wool toddler wrestle gospel barrel receive iron team chef";
+var mnemonic = "picture observe soon tower beyond razor mammal snack exchange night camp credit";

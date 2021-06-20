@@ -1,1 +1,1 @@
-var mnemonic = "educate rate hard ladder kangaroo loop wine buyer bomb talk height session";
+var mnemonic = "moon slot urge draft rapid swallow immense absent dress squeeze dismiss mandate";

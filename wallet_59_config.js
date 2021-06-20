@@ -1,1 +1,1 @@
-var mnemonic = "innocent repair open brave rice poverty glass mesh demise badge include rent";
+var mnemonic = "snack champion fitness drama daring invite glue utility strategy lecture hole ocean";

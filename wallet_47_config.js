@@ -1,1 +1,1 @@
-var mnemonic = "surprise life dry fiber adult birth error biology south daughter suffer garden";
+var mnemonic = "hotel clip boy install subject guard school try danger possible bag nominee";

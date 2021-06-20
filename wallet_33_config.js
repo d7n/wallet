@@ -1,1 +1,1 @@
-var mnemonic = "thunder crowd marriage attitude above struggle feed few want glow bracket rude";
+var mnemonic = "friend camera illness hour okay stairs relief intact update inflict city jungle";

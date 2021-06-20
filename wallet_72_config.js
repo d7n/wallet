@@ -1,1 +1,1 @@
-var mnemonic = "off waste clock angry stereo fossil nature goat early surge vendor melt";
+var mnemonic = "panic have label erase scissors valley control essay century alone rhythm oyster";

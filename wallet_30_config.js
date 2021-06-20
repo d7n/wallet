@@ -1,1 +1,1 @@
-var mnemonic = "young tooth planet virus know life steel liberty mosquito net oil initial";
+var mnemonic = "oppose girl grunt twin eye turn basic brief put crop toddler hurt";

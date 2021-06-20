@@ -1,1 +1,1 @@
-var mnemonic = "swift grain adult erosion couple stuff solar crazy pass price naive segment";
+var mnemonic = "spread jealous fetch lonely myself guilt hotel dignity learn keep region toss";

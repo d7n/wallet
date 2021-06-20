@@ -1,1 +1,1 @@
-var mnemonic = "never rail wink earth lab range hold poverty payment crazy call tunnel";
+var mnemonic = "clinic volcano drum engage hair venue appear spare settle crucial warfare robust";

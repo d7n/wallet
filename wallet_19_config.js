@@ -1,1 +1,1 @@
-var mnemonic = "reject very style car matter gown radar opinion paper flock agree coil";
+var mnemonic = "tonight best reflect work news oil green toss artist eight clap rent";
