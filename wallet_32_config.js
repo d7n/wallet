@@ -1,1 +1,1 @@
-var mnemonic = "ugly noble model index win eye skate sudden certain athlete again leaf";
+var mnemonic = "tooth pond frequent term speed vast common lunch brick oxygen drill vote";

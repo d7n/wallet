@@ -1,1 +1,1 @@
-var mnemonic = "caught whale embody glimpse matrix black oak doctor banana wheat step payment";
+var mnemonic = "zero swap pond vague fine whip observe odor inject misery very van";

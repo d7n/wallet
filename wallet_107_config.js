@@ -1,1 +1,1 @@
-var mnemonic = "family retreat zebra candy burger venue already assist glow drum milk issue";
+var mnemonic = "vacuum sting dignity reopen super arrest naive elevator tide shift cruel energy";

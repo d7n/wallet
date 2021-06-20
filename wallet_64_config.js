@@ -1,1 +1,1 @@
-var mnemonic = "begin village final shaft climb alcohol express stuff arm debris tomorrow length";
+var mnemonic = "surge sustain flavor dial rapid next item maid fluid exile siren sense";

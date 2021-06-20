@@ -1,1 +1,1 @@
-var mnemonic = "day strike flock goat town online hood ranch left title target abstract";
+var mnemonic = "repair piano net metal wash burst jungle trigger close neither tornado impose";

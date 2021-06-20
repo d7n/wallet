@@ -1,1 +1,1 @@
-var mnemonic = "team vital cloth pride disease mind quality busy supreme fix accuse barrel";
+var mnemonic = "bachelor civil erupt sorry seat they goat input various crazy usual theory";

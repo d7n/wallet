@@ -1,1 +1,1 @@
-var mnemonic = "pet cereal mango season ugly pet market school sport alone wink jewel";
+var mnemonic = "art someone near creek text mango trumpet forum inform soon ethics near";

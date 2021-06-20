@@ -1,1 +1,1 @@
-var mnemonic = "chapter vehicle venture humble spawn person gorilla dose slight soda giraffe assault";
+var mnemonic = "enjoy jelly eagle head swarm forum method master certain globe sheriff wisdom";

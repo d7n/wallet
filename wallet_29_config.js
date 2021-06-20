@@ -1,1 +1,1 @@
-var mnemonic = "what round reduce nominee mirror lawn cart math thunder marine innocent undo";
+var mnemonic = "another anxiety smart cinnamon what into result gate message lucky void manual";

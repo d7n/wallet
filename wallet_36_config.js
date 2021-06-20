@@ -1,1 +1,1 @@
-var mnemonic = "recipe ghost bench pudding wrong benefit post subject solid market grace radar";
+var mnemonic = "salmon chimney renew tilt crazy judge exchange peace recall culture novel onion";

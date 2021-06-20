@@ -1,1 +1,1 @@
-var mnemonic = "barrel puzzle market hundred want anger curious cancel demand erase curve able";
+var mnemonic = "gossip arrow cannon bounce end invite silk bus glow loud youth cereal";

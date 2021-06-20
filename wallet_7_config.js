@@ -1,1 +1,1 @@
-var mnemonic = "soldier solid yellow home train lawsuit brick crystal drift bunker boring pilot";
+var mnemonic = "polar valley curious exchange canoe ready truck clever loyal whale frequent visa";

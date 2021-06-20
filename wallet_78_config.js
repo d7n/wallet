@@ -1,1 +1,1 @@
-var mnemonic = "stool ancient mixed bridge tiger bright purpose drift priority prepare huge carpet";
+var mnemonic = "two sugar absurd dust door agent vacuum monster alcohol museum foster retire";

@@ -1,1 +1,1 @@
-var mnemonic = "dance start scorpion purity rack front arrive dinner reflect element decorate wear";
+var mnemonic = "future core wreck person feel thrive insect cushion hollow gadget civil project";

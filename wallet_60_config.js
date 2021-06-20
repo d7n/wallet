@@ -1,1 +1,1 @@
-var mnemonic = "satisfy alter skirt chief perfect stomach wife item piano luxury idea during";
+var mnemonic = "diesel crawl remove rose review thought draw people orphan grab because idle";

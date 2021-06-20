@@ -1,1 +1,1 @@
-var mnemonic = "trim couple major option output lab autumn include arrest flower cruise develop";
+var mnemonic = "potato patient quantum aerobic joke mean oblige grain nothing quarter alien almost";

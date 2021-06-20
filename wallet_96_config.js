@@ -1,1 +1,1 @@
-var mnemonic = "income huge essence awake noise light mixture tip virus mushroom chef assume";
+var mnemonic = "wash woman reduce easily couch upon boat drink race life slot winter";

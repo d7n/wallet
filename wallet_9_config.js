@@ -1,1 +1,1 @@
-var mnemonic = "kick candy female multiply tired load glow cigar stadium swap half episode";
+var mnemonic = "place vault field latin peace sea immense question taste jacket reform vicious";

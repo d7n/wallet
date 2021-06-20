@@ -1,1 +1,1 @@
-var mnemonic = "check bike fancy glow bone knock quality index record gesture excite fresh";
+var mnemonic = "engine tube grab only quick opera mandate piano provide neck payment digital";

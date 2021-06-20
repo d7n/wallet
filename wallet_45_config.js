@@ -1,1 +1,1 @@
-var mnemonic = "friend basic grace drum record video auction bundle disagree smooth tackle rice";
+var mnemonic = "oppose blanket symbol about curious dad stomach monster hour exile buyer route";

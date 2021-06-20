@@ -1,1 +1,1 @@
-var mnemonic = "alter timber shrug cinnamon fall sheriff submit multiply toward book bicycle pause";
+var mnemonic = "wheat resource meadow inner seed pudding rain shiver grow weasel nuclear table";

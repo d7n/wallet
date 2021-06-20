@@ -1,1 +1,1 @@
-var mnemonic = "crater garlic perfect farm slice decline cactus trade fiscal have bundle ancient";
+var mnemonic = "radar dish benefit celery rural clutch either glare face trust shuffle royal";

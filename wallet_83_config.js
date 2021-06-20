@@ -1,1 +1,1 @@
-var mnemonic = "cruise reject spring there conduct cloud summer give tired replace sorry moment";
+var mnemonic = "venue session donate explain mobile embody figure excite save earth dinner position";

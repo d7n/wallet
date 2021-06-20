@@ -1,1 +1,1 @@
-var mnemonic = "spike cube ten reveal impose tumble tiny animal because smooth expand target";
+var mnemonic = "throw arrive tone wife hollow dose mango ramp heavy bounce remind toddler";

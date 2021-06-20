@@ -1,1 +1,1 @@
-var mnemonic = "detect filter gaze thing oxygen magnet steak evoke various fringe rally prevent";
+var mnemonic = "cricket push scrub visa juice own cliff kid dog menu receive weekend";

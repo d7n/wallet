@@ -1,1 +1,1 @@
-var mnemonic = "before foot art rally riot violin uniform element wheel tongue blouse improve";
+var mnemonic = "purity soup eye develop apology twice sausage movie giraffe emerge toy lizard";

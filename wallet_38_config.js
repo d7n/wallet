@@ -1,1 +1,1 @@
-var mnemonic = "work scissors wage alien announce over recipe page beach barely become tell";
+var mnemonic = "will enter damage play story praise board view hover blind elder tone";

@@ -1,1 +1,1 @@
-var mnemonic = "card mesh upset affair olympic fossil pool home abandon book foil tool";
+var mnemonic = "furnace gesture width safe clutch horse skate debate job garlic bid pyramid";

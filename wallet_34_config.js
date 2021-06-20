@@ -1,1 +1,1 @@
-var mnemonic = "list option mean grief urban measure transfer dose silk indoor hub trouble";
+var mnemonic = "run embrace dog rude garage since link satoshi noble orange credit fatal";

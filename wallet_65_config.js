@@ -1,1 +1,1 @@
-var mnemonic = "tattoo table truly rocket tobacco frequent piece govern weasel front audit wrap";
+var mnemonic = "fitness thrive report render timber crush nest raccoon swear ivory giggle spider";

@@ -1,1 +1,1 @@
-var mnemonic = "agree sausage fog echo surround various peanut neither wheat inhale struggle awful";
+var mnemonic = "rent witness code sad physical pole cattle castle apart hamster outside crack";

@@ -1,1 +1,1 @@
-var mnemonic = "gym scorpion wall book right erase wedding sweet cloth pretty pizza medal";
+var mnemonic = "olive spend major pluck mad high science coral below brisk session renew";

@@ -1,1 +1,1 @@
-var mnemonic = "museum coach grape effort repair practice side subject spoil tower olympic rice";
+var mnemonic = "six scatter option excite crane ancient dolphin coach guess reunion cigar method";

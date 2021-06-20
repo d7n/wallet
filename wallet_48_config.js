@@ -1,1 +1,1 @@
-var mnemonic = "choice finish congress able hamster stand unit future yellow drama excess flag";
+var mnemonic = "custom merry okay trash point puppy labor arrest ice flag weekend torch";

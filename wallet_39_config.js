@@ -1,1 +1,1 @@
-var mnemonic = "rich moment scare affair clap project rude friend slow odor debate lock";
+var mnemonic = "defense horn puppy aerobic marine corn system ozone core egg finger festival";

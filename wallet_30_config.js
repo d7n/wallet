@@ -1,1 +1,1 @@
-var mnemonic = "goddess they scatter favorite mouse creek acoustic point alien keep mercy minute";
+var mnemonic = "argue argue helmet swift put vendor barrel erosion file hole apology visual";

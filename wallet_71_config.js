@@ -1,1 +1,1 @@
-var mnemonic = "pottery tower unfold fall same chunk fiscal bike aerobic promote express choose";
+var mnemonic = "curtain armed powder awake side copper orbit egg warfare jewel require century";

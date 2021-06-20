@@ -1,1 +1,1 @@
-var mnemonic = "spend donate notice sting swift burden monster board april service disorder arctic";
+var mnemonic = "door liar secret lottery arm typical armor provide effort diesel chimney potato";

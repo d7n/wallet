@@ -1,1 +1,1 @@
-var mnemonic = "people voice oven crane group involve excess begin disorder piece hill dignity";
+var mnemonic = "vague document resemble vacant hotel kite flee tree release critic immense casual";

@@ -1,1 +1,1 @@
-var mnemonic = "february myth coffee afraid uncover spell sleep rib garment topple display depart";
+var mnemonic = "shaft claw local they unique unusual gorilla whale crew glass immense tank";

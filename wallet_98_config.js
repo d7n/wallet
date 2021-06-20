@@ -1,1 +1,1 @@
-var mnemonic = "green august tennis ball zoo glue possible reward matter voice cool wolf";
+var mnemonic = "secret copper wave casual effort scrub lazy close improve tape tree turtle";

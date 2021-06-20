@@ -1,1 +1,1 @@
-var mnemonic = "glance govern enable swift globe song fancy armed puzzle honey silly hospital";
+var mnemonic = "place oyster vote wood gossip divert lazy stay dragon uncover traffic fix";

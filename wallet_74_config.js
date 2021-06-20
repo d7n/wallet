@@ -1,1 +1,1 @@
-var mnemonic = "present intact awkward start same lock hair explain dizzy arctic position picnic";
+var mnemonic = "sweet seat rich inside ability usage valve interest divert top flight view";

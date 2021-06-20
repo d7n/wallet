@@ -1,1 +1,1 @@
-var mnemonic = "account speed shock company slight despair machine recall rifle punch fatal cactus";
+var mnemonic = "toss upset marriage among switch never steak shuffle laugh topic speed toddler";

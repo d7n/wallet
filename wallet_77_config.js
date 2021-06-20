@@ -1,1 +1,1 @@
-var mnemonic = "drink clean consider upper amused curve skill ring myself bird initial lazy";
+var mnemonic = "lizard nominee snack list stumble stadium boy stage relief split warrior buddy";

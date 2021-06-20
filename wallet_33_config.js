@@ -1,1 +1,1 @@
-var mnemonic = "correct truth piano delay impact degree rebuild napkin aim gap truly umbrella";
+var mnemonic = "water reopen memory notable bind borrow tortoise foam action dial oak december";

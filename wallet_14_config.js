@@ -1,1 +1,1 @@
-var mnemonic = "worry federal bacon buyer cat veteran way kitten smoke because point primary";
+var mnemonic = "original peasant include above settle parade top strategy choice wolf brief rabbit";

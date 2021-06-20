@@ -1,1 +1,1 @@
-var mnemonic = "brain toast twenty there weather wave drink inch two razor section skirt";
+var mnemonic = "category echo one client snack another make trumpet regular leaf trip hunt";

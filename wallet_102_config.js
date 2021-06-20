@@ -1,1 +1,1 @@
-var mnemonic = "river waste rebuild stamp brown news setup friend general slam permit idea";
+var mnemonic = "barely knife response raise vague inhale road bottom truly inhale victory jar";

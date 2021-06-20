@@ -1,1 +1,1 @@
-var mnemonic = "sustain review bacon require calm photo sketch panther envelope viable thrive pass";
+var mnemonic = "script steel quality absurd milk remind require harvest run blind annual close";

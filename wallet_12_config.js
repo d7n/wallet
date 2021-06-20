@@ -1,1 +1,1 @@
-var mnemonic = "limit napkin melody vault maple cluster story gain absorb brass walk crater";
+var mnemonic = "business fringe husband effort fall chase equal practice elegant boost worry body";

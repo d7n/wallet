@@ -1,1 +1,1 @@
-var mnemonic = "end miss protect title rude buzz purchase evoke uniform bridge glide trim";
+var mnemonic = "govern weapon response zoo duck tape tower mushroom churn build cloth rely";

@@ -1,1 +1,1 @@
-var mnemonic = "purse worry train rally logic gadget walnut frown bring napkin mutual gloom";
+var mnemonic = "cluster defense twenty because sister attitude short convince into pave post exact";

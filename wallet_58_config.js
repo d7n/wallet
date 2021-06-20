@@ -1,1 +1,1 @@
-var mnemonic = "organ possible wisdom beyond first vocal winter crazy account today tackle morning";
+var mnemonic = "street mosquito thing hover refuse violin pulse maze sorry tell circle obey";

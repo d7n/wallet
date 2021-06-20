@@ -1,1 +1,1 @@
-var mnemonic = "country make once firm blood keep wealth position toward swallow can fury";
+var mnemonic = "miss fiscal devote bag priority battle child model theme fame picture grab";

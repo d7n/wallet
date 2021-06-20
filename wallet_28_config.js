@@ -1,1 +1,1 @@
-var mnemonic = "identify poverty pond intact resemble suffer frown silly reduce task cry shiver";
+var mnemonic = "husband pill glare struggle return mad talk humble pilot rocket general maid";

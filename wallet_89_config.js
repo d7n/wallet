@@ -1,1 +1,1 @@
-var mnemonic = "scissors medal mirror nation hat rare hat negative punch brisk ethics about";
+var mnemonic = "beauty misery express calm diamond error mango brief arena agent song surface";

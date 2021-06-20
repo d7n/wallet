@@ -1,1 +1,1 @@
-var mnemonic = "already napkin oak black differ valve enemy cable describe fame clog upper";
+var mnemonic = "spawn unaware cotton pause mandate habit minimum gasp drama rail jealous artwork";

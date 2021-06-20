@@ -1,1 +1,1 @@
-var mnemonic = "what match soap absurd quantum pencil adapt zoo until must grief ahead";
+var mnemonic = "bachelor inch equal afraid tide pole dove arrow horn stairs liberty ahead";

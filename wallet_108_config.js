@@ -1,1 +1,1 @@
-var mnemonic = "virus vapor wonder category soul skill gentle enough vacuum crunch stock liar";
+var mnemonic = "harbor side labor web problem lawn color donate inflict struggle pen library";

@@ -1,1 +1,1 @@
-var mnemonic = "digital patch polar kingdom cement chief brass envelope biology turtle glove master";
+var mnemonic = "little imitate bread reveal item gentle nuclear spin enemy early express soap";

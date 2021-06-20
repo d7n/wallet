@@ -1,1 +1,1 @@
-var mnemonic = "anxiety auction drill army radio lumber wise husband acoustic act scan original";
+var mnemonic = "regular clay evoke increase normal sword skirt include fury day perfect very";

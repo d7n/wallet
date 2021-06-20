@@ -1,1 +1,1 @@
-var mnemonic = "despair record coyote ask hub idle enemy share cable asthma silent awesome";
+var mnemonic = "weasel carry economy fan reopen confirm wonder loan always access feed special";

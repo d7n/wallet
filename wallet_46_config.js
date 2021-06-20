@@ -1,1 +1,1 @@
-var mnemonic = "liquid grace hammer kick universe behave proof lizard goddess melt end squirrel";
+var mnemonic = "finish crack forward foam someone cage route clog hour pool hurry evolve";

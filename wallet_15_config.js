@@ -1,1 +1,1 @@
-var mnemonic = "bamboo aware insane coyote coffee echo mystery lamp simple rain inmate fluid";
+var mnemonic = "dinner wide hurry alley march catalog zebra female solar curious recipe remember";

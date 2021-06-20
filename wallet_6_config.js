@@ -1,1 +1,1 @@
-var mnemonic = "shrug note rescue volcano pottery account situate delay airport faith trophy obtain";
+var mnemonic = "cluster swap decade raccoon afford fly void toddler memory call connect minimum";

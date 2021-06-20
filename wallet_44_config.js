@@ -1,1 +1,1 @@
-var mnemonic = "physical gesture wrap social exotic tortoise blue safe cereal flee gold melody";
+var mnemonic = "plunge stone helmet shaft angry reject autumn fossil sail office face tattoo";

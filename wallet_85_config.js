@@ -1,1 +1,1 @@
-var mnemonic = "glide mercy music praise erase spend more film month robot black practice";
+var mnemonic = "head because pottery theme shiver use sick cave chest mouse oppose practice";

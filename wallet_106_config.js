@@ -1,1 +1,1 @@
-var mnemonic = "place into dial joy radar bridge slogan jacket energy next ability piece";
+var mnemonic = "bamboo exhaust simple boring gift rabbit cheap level cash seek save course";

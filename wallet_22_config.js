@@ -1,1 +1,1 @@
-var mnemonic = "glow february bicycle differ pink hurdle stereo unknown scrap behind before card";
+var mnemonic = "match brisk round rocket trip gloom game divert hope weird hamster powder";

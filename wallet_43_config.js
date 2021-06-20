@@ -1,1 +1,1 @@
-var mnemonic = "opinion debris turn recycle prison almost easy peace entire ocean ordinary patch";
+var mnemonic = "exhaust cycle glide scrub pond boss bike also stay duck frown order";

@@ -1,1 +1,1 @@
-var mnemonic = "habit reveal front indoor fever can volcano fly thumb faint traffic rebuild";
+var mnemonic = "clump rely enrich fuel napkin fish include club dutch doctor right tribe";

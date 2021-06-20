@@ -1,1 +1,1 @@
-var mnemonic = "coral orient bar uphold among acquire patch demand exercise perfect protect number";
+var mnemonic = "core spot subject pottery tiger wine busy village palm soda balance dinosaur";

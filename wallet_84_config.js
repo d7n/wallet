@@ -1,1 +1,1 @@
-var mnemonic = "mule legal sand where kidney owner bus home garlic tuition you remove";
+var mnemonic = "festival defy reject token hire pole loyal early carpet problem pause voyage";

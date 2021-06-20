@@ -1,1 +1,1 @@
-var mnemonic = "dizzy obtain deal crater victory goose choice estate obtain clean cable dirt";
+var mnemonic = "shell parade olive argue capable visual scan poverty rescue gasp snack rapid";

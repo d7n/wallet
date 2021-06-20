@@ -1,1 +1,1 @@
-var mnemonic = "fan danger cause seek question catch mix razor mirror hero lizard smart";
+var mnemonic = "magnet exchange trophy solid case machine filter famous strike shell rail output";

@@ -1,1 +1,1 @@
-var mnemonic = "fury mother senior anger science disease way dynamic sunny park spice outer";
+var mnemonic = "drift bargain code census client subway hover viable acid broom arrest trip";

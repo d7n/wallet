@@ -1,1 +1,1 @@
-var mnemonic = "inside paddle repeat child evolve that romance swallow deliver siren exact term";
+var mnemonic = "lyrics noodle invest core sketch engine first best nurse sure still grape";

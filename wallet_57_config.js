@@ -1,1 +1,1 @@
-var mnemonic = "skull sort ice draw canoe secret shoulder humor smooth blue cabbage certain";
+var mnemonic = "lottery music carpet warfare ribbon fortune feed display sugar broken never east";

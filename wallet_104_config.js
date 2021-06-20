@@ -1,1 +1,1 @@
-var mnemonic = "soccer soul excess cigar west call wreck dice illegal art shock tornado";
+var mnemonic = "usual enlist squirrel chief jacket gesture finger jaguar tell afraid opera hold";

@@ -1,1 +1,1 @@
-var mnemonic = "timber alcohol upper leisure volcano loyal match accuse short donate swarm stove";
+var mnemonic = "barrel middle embody where wait emotion hour fly purchase avoid must position";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn exotic desk foil spring vague drill mom drill vivid pact senior";
+var mnemonic = "lemon fiscal budget sphere extra wide random humble match modify hotel burst";

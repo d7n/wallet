@@ -1,1 +1,1 @@
-var mnemonic = "drill school warrior pioneer second city bright tongue chief creek boost curtain";
+var mnemonic = "crime rain diary have glad reason absurd lonely mother hidden speak evidence";

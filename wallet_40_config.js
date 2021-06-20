@@ -1,1 +1,1 @@
-var mnemonic = "fold size entire trim differ census dynamic pilot riot humble stereo rally";
+var mnemonic = "chronic exit bleak beach drift cream seven husband detail black emerge tool";

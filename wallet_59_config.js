@@ -1,1 +1,1 @@
-var mnemonic = "flash shuffle cream pride turn quarter secret endorse coil achieve tissue bulb";
+var mnemonic = "wise cart eye desk slight ceiling interest tenant chaos furnace second forward";

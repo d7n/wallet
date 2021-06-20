@@ -1,1 +1,1 @@
-var mnemonic = "tree agent equip defense wash hover thank venue stomach distance salute hair";
+var mnemonic = "squirrel urban develop wreck erode topple seek spot legal fame power goddess";

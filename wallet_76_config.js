@@ -1,1 +1,1 @@
-var mnemonic = "diet north tuna armed develop thrive sand rebuild afraid consider sense large";
+var mnemonic = "unknown feed place tiny raccoon language shine palm uniform hobby property truck";

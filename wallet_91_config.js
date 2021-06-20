@@ -1,1 +1,1 @@
-var mnemonic = "rough vehicle wrap other wire roof damage mosquito check goat thrive girl";
+var mnemonic = "ritual double penalty amused math intact gown year witness early mind shift";

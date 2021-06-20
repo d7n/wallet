@@ -1,1 +1,1 @@
-var mnemonic = "peace sight obvious clever basic body yellow topic scorpion horn acid stairs";
+var mnemonic = "release subject uncle slide hotel slide sorry right fence entire swarm real";

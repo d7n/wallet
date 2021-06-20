@@ -1,1 +1,1 @@
-var mnemonic = "tumble someone cross biology rocket disagree path unhappy fold fruit chase ahead";
+var mnemonic = "mutual among alarm oblige ask shy profit unusual tube vintage near process";

@@ -1,1 +1,1 @@
-var mnemonic = "desert lake arrive sun skill ship autumn jar estate bamboo sauce soul";
+var mnemonic = "oyster manual aspect replace raise thumb tomorrow dog bag avoid embark patch";

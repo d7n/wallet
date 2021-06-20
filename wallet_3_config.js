@@ -1,1 +1,1 @@
-var mnemonic = "buyer ecology warfare document glory kingdom problem mind senior utility slot liar";
+var mnemonic = "artist knife expect trend bench blast hedgehog alter library ordinary program office";

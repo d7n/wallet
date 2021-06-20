@@ -1,1 +1,1 @@
-var mnemonic = "toast faith life plastic quick learn drop option metal orient tattoo oval";
+var mnemonic = "upgrade jacket fat bench keen derive hammer empty infant economy solar require";

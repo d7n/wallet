@@ -1,1 +1,1 @@
-var mnemonic = "exit census figure foster post hybrid lend focus crash easily pepper same";
+var mnemonic = "cook kiwi provide hawk often under list price half escape purchase security";

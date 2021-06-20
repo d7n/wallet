@@ -1,1 +1,1 @@
-var mnemonic = "hobby wire jar engine rule black vocal afraid glove coconut horse peanut";
+var mnemonic = "million salad method dumb pilot danger among search shadow cram air dog";
