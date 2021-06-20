@@ -1,1 +1,1 @@
-var mnemonic = "spray bacon question dad remind void jazz pull pottery since velvet make";
+var mnemonic = "orient quarter bubble screen bachelor virtual people rigid buzz bless paddle rubber";

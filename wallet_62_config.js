@@ -1,1 +1,1 @@
-var mnemonic = "wear grass parent brown secret swamp stand version desk clutch boil valid";
+var mnemonic = "extend zebra ask never brief creek debris column cart usage knife quality";

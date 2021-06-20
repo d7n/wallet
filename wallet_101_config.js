@@ -1,1 +1,1 @@
-var mnemonic = "bird citizen woman cancel chair cable earn have nut when grocery moon";
+var mnemonic = "inhale ring brass hotel ocean dolphin lemon wine dwarf bless melt convince";

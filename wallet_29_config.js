@@ -1,1 +1,1 @@
-var mnemonic = "pear future round shy noble sick glory timber piano drive phrase domain";
+var mnemonic = "purse echo alpha sock route capable include eye castle evolve lizard music";

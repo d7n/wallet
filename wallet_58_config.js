@@ -1,1 +1,1 @@
-var mnemonic = "gym shop script tube senior today liberty evil what barrel pulse crack";
+var mnemonic = "joke ice spread guide screen enroll canvas escape swamp drama miss absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "feature sketch flock way shoot crack ignore echo glare stool fitness topple";
+var mnemonic = "dawn pretty donkey vanish skull design crisp myself cinnamon fork shuffle bundle";

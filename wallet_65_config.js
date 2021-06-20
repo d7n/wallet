@@ -1,1 +1,1 @@
-var mnemonic = "sketch ignore plastic victory update dutch emotion gallery license candy kite volcano";
+var mnemonic = "level domain lottery mouse truck fragile old caught write upper discover category";

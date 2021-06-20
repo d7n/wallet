@@ -1,1 +1,1 @@
-var mnemonic = "cotton arrange unable cactus slam expand dream artist equal month sword lens";
+var mnemonic = "narrow edit rent opinion disease occur weather strike ranch before brass buddy";

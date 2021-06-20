@@ -1,1 +1,1 @@
-var mnemonic = "wheat occur dry police metal object barrel couple right post young muffin";
+var mnemonic = "message sketch use impact snap shrimp floor ankle convince popular crunch soap";

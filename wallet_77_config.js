@@ -1,1 +1,1 @@
-var mnemonic = "sweet spider kiwi insect aim slab crater pizza wild fee indicate visual";
+var mnemonic = "divide smooth umbrella future autumn crop note engage adapt scrap hand frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "human volume high window reunion brain cage nasty amateur farm coyote loyal";
+var mnemonic = "bird attend riot august travel harvest gain possible sick camera fancy gate";

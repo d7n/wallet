@@ -1,1 +1,1 @@
-var mnemonic = "knee typical kiwi dolphin company unfair easy glow place zone hood dust";
+var mnemonic = "legal bulk dial car dog police stand taxi idle want receive mutual";

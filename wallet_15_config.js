@@ -1,1 +1,1 @@
-var mnemonic = "silly rare alien feed wine hour crowd another bamboo youth autumn track";
+var mnemonic = "lamp general people general dawn auto shy ahead morning color door donkey";

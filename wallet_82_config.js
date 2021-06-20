@@ -1,1 +1,1 @@
-var mnemonic = "mistake way bracket together clever salon entire swap quick lucky tomorrow small";
+var mnemonic = "buzz dose govern today notice mountain sleep flame lottery arrest chief peace";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe canal hurt quality ski card powder donate kick gauge slam crane";
+var mnemonic = "true switch furnace jaguar range simple excess canvas piano jacket nation regular";

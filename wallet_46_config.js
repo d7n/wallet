@@ -1,1 +1,1 @@
-var mnemonic = "monkey rug claim toward finish scale riot rack section exit dose beyond";
+var mnemonic = "educate swarm debris sea rug almost birth orange say topic siren dentist";

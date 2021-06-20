@@ -1,1 +1,1 @@
-var mnemonic = "wrap sadness slender warrior iron famous ball analyst rose immense shift fragile";
+var mnemonic = "feed debris menu popular raven march critic hedgehog weather cinnamon jump wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "give notable tail wall wing riot visual inflict elbow east glimpse loud";
+var mnemonic = "blush subway radio walk final gift artefact soon forest leaf ancient depth";

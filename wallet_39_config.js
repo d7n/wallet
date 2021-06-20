@@ -1,1 +1,1 @@
-var mnemonic = "slogan disagree catch action fox pear jelly expire liberty supply tumble alert";
+var mnemonic = "injury grief uncle gas film slogan elbow spring make vessel inquiry subway";

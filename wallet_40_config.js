@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit congress yard robust remain quarter harvest shy summer gallery three credit";
+var mnemonic = "spot quote minute arrive coach divorce happy dignity sponsor cloud gesture option";

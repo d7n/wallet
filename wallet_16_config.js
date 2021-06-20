@@ -1,1 +1,1 @@
-var mnemonic = "scale title solve run private someone purse cactus gauge thought visit almost";
+var mnemonic = "peace nest crystal liberty real hat number loyal silly puppy mechanic hawk";

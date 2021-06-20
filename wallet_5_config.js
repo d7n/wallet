@@ -1,1 +1,1 @@
-var mnemonic = "exit coast grant powder intact rib brisk live tissue crew opinion work";
+var mnemonic = "liberty bottom weapon wise chalk guitar drive again weapon aerobic maple speed";

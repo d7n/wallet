@@ -1,1 +1,1 @@
-var mnemonic = "human monkey expect lecture raccoon hen update crime illness firm sight strong";
+var mnemonic = "olympic inquiry save lake town latin pride leisure basket object spoil fury";

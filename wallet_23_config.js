@@ -1,1 +1,1 @@
-var mnemonic = "inside limit gaze offer victory gaze type insect combine museum couch column";
+var mnemonic = "erode attitude baby coach fever arch chronic blood cup speed concert fence";

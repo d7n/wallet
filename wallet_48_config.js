@@ -1,1 +1,1 @@
-var mnemonic = "caution often say rare dutch govern current order subway absorb silent diagram";
+var mnemonic = "side media random initial dice oil wild animal marriage program summer father";

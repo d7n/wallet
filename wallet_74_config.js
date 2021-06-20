@@ -1,1 +1,1 @@
-var mnemonic = "fiction priority cloud ignore dry science anger lunar chase one almost airport";
+var mnemonic = "voice include hold essay wrap ginger apology lonely bright abuse guide barrel";

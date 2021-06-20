@@ -1,1 +1,1 @@
-var mnemonic = "pear cluster harvest kite emerge sand vacuum blossom frame fog boat spray";
+var mnemonic = "process clump october wreck fatigue wet food famous avoid fabric custom pigeon";

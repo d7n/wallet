@@ -1,1 +1,1 @@
-var mnemonic = "midnight bus mad slim dash raw maximum panda baby clown jacket alpha";
+var mnemonic = "session begin normal pupil wait erosion neutral solution sport ticket fitness sudden";

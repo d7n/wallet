@@ -1,1 +1,1 @@
-var mnemonic = "glimpse thought strike sugar nuclear sausage addict wear grain arrive hand hungry";
+var mnemonic = "tray enact kick enhance move remind assume skull audit parade muffin quality";

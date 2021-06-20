@@ -1,1 +1,1 @@
-var mnemonic = "evidence enrich climb primary wine echo similar toilet apple typical seat another";
+var mnemonic = "female candy crime traffic bird juice damp blue pair link tool stuff";

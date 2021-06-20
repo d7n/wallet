@@ -1,1 +1,1 @@
-var mnemonic = "galaxy reveal web assault life boat erosion carbon era blade pluck party";
+var mnemonic = "victory suggest skull achieve power melody glove behind acid attract entire fix";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine oyster august expose unfair start visit dad syrup casino dismiss fork";
+var mnemonic = "aware ability over year lawn bring face lazy pony purpose liquid ugly";

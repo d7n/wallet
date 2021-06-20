@@ -1,1 +1,1 @@
-var mnemonic = "basic section neutral noise sword dragon joke nation acquire equal stool label";
+var mnemonic = "unit noble mixture reflect just dice tennis raw salon tuition load snack";

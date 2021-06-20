@@ -1,1 +1,1 @@
-var mnemonic = "photo message inflict pepper buffalo pig reduce jewel embrace twist cement humor";
+var mnemonic = "venture ball quote doll winter cactus brief width antenna choose apart blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli tiny vicious quantum jewel frame jump ceiling chief such master fiber";
+var mnemonic = "village ranch person horn unfair visit dad ladder wish stamp table torch";

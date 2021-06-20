@@ -1,1 +1,1 @@
-var mnemonic = "chapter chef crash match resist pair lounge cupboard surround insect dawn boat";
+var mnemonic = "modify group mandate pink invite race float sauce climb believe half path";

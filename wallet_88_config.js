@@ -1,1 +1,1 @@
-var mnemonic = "secret toe upper chalk rigid furnace hill term nature derive tag piano";
+var mnemonic = "message oyster magic badge earn helmet because solution kangaroo render vague giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "item loan mushroom dance tragic kitchen guard dose vault gadget dolphin latin";
+var mnemonic = "cluster copy note monitor silver hurdle announce fence grief castle expire plunge";

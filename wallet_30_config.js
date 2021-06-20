@@ -1,1 +1,1 @@
-var mnemonic = "deputy almost program unknown fuel industry cube protect sell device sock else";
+var mnemonic = "member list accuse mule wink broccoli team mutual genius bus excuse talk";

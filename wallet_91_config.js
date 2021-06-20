@@ -1,1 +1,1 @@
-var mnemonic = "number agent this meadow name upon survey spider marine nation fuel orient";
+var mnemonic = "distance mobile retire melt punch stone marble toward museum circle tuna danger";

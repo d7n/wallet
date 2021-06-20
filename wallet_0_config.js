@@ -1,1 +1,1 @@
-var mnemonic = "sponsor bargain erosion record immune bullet favorite sample doctor autumn actor harsh";
+var mnemonic = "dolphin sell prevent sport disease nut volume person immune furnace govern scout";

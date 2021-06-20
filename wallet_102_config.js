@@ -1,1 +1,1 @@
-var mnemonic = "oxygen rabbit frequent math nasty night orbit floor rescue sunny high leg";
+var mnemonic = "vendor scissors glad follow drill face depart biology border actor climb fat";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue salt nothing often submit floor crisp valley such bitter round hello";
+var mnemonic = "vicious cradle verify sure three idea science debate more behind industry season";

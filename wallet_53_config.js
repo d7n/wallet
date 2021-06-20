@@ -1,1 +1,1 @@
-var mnemonic = "spirit faculty romance finger shell cheese into purse loop gadget siren absurd";
+var mnemonic = "print material impulse gorilla payment rally hire camp because like gun satoshi";

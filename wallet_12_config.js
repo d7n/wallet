@@ -1,1 +1,1 @@
-var mnemonic = "wrap pelican treat settle essence garden six ladder sweet gym weather file";
+var mnemonic = "where violin kind dash warfare vehicle sheriff remember keep candy cannon attend";

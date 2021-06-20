@@ -1,1 +1,1 @@
-var mnemonic = "sentence age ecology monster poem urban digital scare cricket cheese wrong move";
+var mnemonic = "wide dog tunnel party entire borrow punch birth curve color flee increase";

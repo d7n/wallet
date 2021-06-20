@@ -1,1 +1,1 @@
-var mnemonic = "genre turtle loop follow client sunny program elegant kiwi common night gown";
+var mnemonic = "twenty supply cube tray avoid twist vague poem airport across toe relax";

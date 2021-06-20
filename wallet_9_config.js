@@ -1,1 +1,1 @@
-var mnemonic = "fish quantum keep next tourist health wasp mad arrow affair rally true";
+var mnemonic = "caution reflect base rug sock skirt pigeon movie impulse agent addict jaguar";

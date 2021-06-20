@@ -1,1 +1,1 @@
-var mnemonic = "speak hollow document surround slot leopard rural suit zoo quick planet service";
+var mnemonic = "coil edge feature march risk pipe evolve night measure century disorder inform";

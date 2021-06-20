@@ -1,1 +1,1 @@
-var mnemonic = "kiss february number draw smooth forget sing trigger affair mistake busy wheat";
+var mnemonic = "tide utility jump engine salmon asset gap rude decide caution surface fantasy";

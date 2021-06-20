@@ -1,1 +1,1 @@
-var mnemonic = "often episode narrow recipe wonder catch pear caution question nation creek upon";
+var mnemonic = "shiver wing volcano weasel civil erase object decorate crash lunch drift rose";

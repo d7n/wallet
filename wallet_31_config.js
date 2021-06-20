@@ -1,1 +1,1 @@
-var mnemonic = "tape tennis evoke text leopard fancy hill idle silent math shy end";
+var mnemonic = "awesome lounge orphan pistol satoshi frog approve fold unfold hotel subway stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "garage arch chaos cycle welcome they boost magnet movie bike ship fine";
+var mnemonic = "fragile element recipe noodle boil welcome soccer leisure smoke work impose modify";

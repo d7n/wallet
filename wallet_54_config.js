@@ -1,1 +1,1 @@
-var mnemonic = "liquid paddle resemble bike bitter trade clown insane noise cherry legal attend";
+var mnemonic = "risk robot diary baby sausage public relax unfold only patch recipe calm";

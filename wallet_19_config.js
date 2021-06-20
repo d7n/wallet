@@ -1,1 +1,1 @@
-var mnemonic = "poet pool report amount portion mad gloom old vocal fitness desk bleak";
+var mnemonic = "silly wine allow stand autumn knock section zone depth sort wait funny";

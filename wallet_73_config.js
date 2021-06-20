@@ -1,1 +1,1 @@
-var mnemonic = "employ mail inner hood electric stool track valve version decorate arena crash";
+var mnemonic = "rail urge glove gym express memory note fury remind chimney agent trick";

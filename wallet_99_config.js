@@ -1,1 +1,1 @@
-var mnemonic = "prison cancel arrange swing napkin lunar cradle elite liar tomato awful install";
+var mnemonic = "bring siege road lyrics quantum manual soldier supreme inmate win room frown";

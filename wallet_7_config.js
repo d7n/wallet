@@ -1,1 +1,1 @@
-var mnemonic = "miracle vote prepare reflect honey vendor slim west legal taxi timber urban";
+var mnemonic = "tattoo safe culture foam float loud deputy topple claw decrease limit donate";

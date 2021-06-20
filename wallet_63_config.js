@@ -1,1 +1,1 @@
-var mnemonic = "tooth bulb elder magic govern pizza board fiction author fiction nothing kind";
+var mnemonic = "gauge code wolf uphold wood slab bubble skirt sudden rough annual pig";

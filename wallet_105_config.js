@@ -1,1 +1,1 @@
-var mnemonic = "clap glad reflect chimney utility medal extra canyon august strike rescue gesture";
+var mnemonic = "suggest conduct plate thought scheme equal palm pride toilet fashion couple door";

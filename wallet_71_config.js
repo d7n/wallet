@@ -1,1 +1,1 @@
-var mnemonic = "mind island illegal nerve connect industry gas vote goat pride logic omit";
+var mnemonic = "waste stock soda expose crew same ski effort emotion slot answer meadow";

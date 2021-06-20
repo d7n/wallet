@@ -1,1 +1,1 @@
-var mnemonic = "ozone dose diesel swim gain cannon mail bring struggle gadget tube satisfy";
+var mnemonic = "actor grant mushroom peasant fortune habit cancel crazy vacant receive smile fit";

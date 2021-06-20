@@ -1,1 +1,1 @@
-var mnemonic = "wealth topic jaguar bonus sheriff top image save silk same mandate idea";
+var mnemonic = "front neutral ball hood warfare taxi lounge health turtle dose truth scorpion";

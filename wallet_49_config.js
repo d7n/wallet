@@ -1,1 +1,1 @@
-var mnemonic = "arrow quit vibrant elegant grocery deny match slight now gravity drop virus";
+var mnemonic = "price moment elder always law report ozone tired prosper praise run wet";

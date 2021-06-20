@@ -1,1 +1,1 @@
-var mnemonic = "uniform perfect unfair nice column alpha prefer away collect bike matter air";
+var mnemonic = "apple plastic tone service tree soccer day sadness dune camp aspect normal";

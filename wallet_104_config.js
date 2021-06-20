@@ -1,1 +1,1 @@
-var mnemonic = "innocent lyrics install account throw divert shadow shuffle rapid melody stick sister";
+var mnemonic = "snow core sense trophy acquire odor price injury solar security flower outdoor";

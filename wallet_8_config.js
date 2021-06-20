@@ -1,1 +1,1 @@
-var mnemonic = "universe cup priority harvest arrive return giraffe theme shield salon lunch silver";
+var mnemonic = "ranch describe style wing review pilot toss orient vast husband enemy matter";

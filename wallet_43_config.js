@@ -1,1 +1,1 @@
-var mnemonic = "lunar wheat bid antenna cannon canyon melt plunge cotton mimic afford reject";
+var mnemonic = "acoustic vapor boost already rifle muffin lazy pride there hurt inch copper";

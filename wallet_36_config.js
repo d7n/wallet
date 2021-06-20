@@ -1,1 +1,1 @@
-var mnemonic = "market process review powder silk measure foam hidden toilet firm hazard next";
+var mnemonic = "average cousin chaos enemy yellow section bind false speed blast flock speed";

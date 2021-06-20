@@ -1,1 +1,1 @@
-var mnemonic = "visual fluid miss labor attitude crush time maple bleak issue judge ridge";
+var mnemonic = "mountain tiny country dash autumn wedding purpose dust glad common door depth";

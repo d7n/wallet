@@ -1,1 +1,1 @@
-var mnemonic = "slight almost farm scorpion solution pumpkin top comfort tiger goose version fee";
+var mnemonic = "wear helmet frog distance matrix hurdle nominee elegant galaxy brick indoor enemy";

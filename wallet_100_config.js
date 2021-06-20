@@ -1,1 +1,1 @@
-var mnemonic = "bullet search when punch decide error toss silent expect popular come bomb";
+var mnemonic = "quantum custom search click federal dove fury shallow moment friend smooth display";

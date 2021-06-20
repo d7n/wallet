@@ -1,1 +1,1 @@
-var mnemonic = "filter noodle lake rural actual rose pottery reform timber wire device pencil";
+var mnemonic = "proud blossom travel actress kit fossil kid plunge fringe false gather angle";

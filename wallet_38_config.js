@@ -1,1 +1,1 @@
-var mnemonic = "gas guard helmet oil culture faint use stuff defy useless noodle story";
+var mnemonic = "spirit bridge wrong cloth error infant wood drip shove sort busy wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "subject afford inner spray neglect ramp inform issue master draft toddler hurt";
+var mnemonic = "forget addict cloth lens cycle suspect unfair thumb novel flag hole early";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle clump mail human proud double furnace butter hope edge gentle brisk";
+var mnemonic = "detail soul antenna harsh scorpion cable critic decide easy work bar year";

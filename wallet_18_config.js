@@ -1,1 +1,1 @@
-var mnemonic = "seminar oak waste laundry visit broom cake response view denial tray tourist";
+var mnemonic = "return glare capable diesel detect myself effort above stuff pudding adult foot";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss movie company rare health green kiss step spirit accuse police sponsor";
+var mnemonic = "tongue absurd drill coconut genius pottery park scout truly dune excuse silver";

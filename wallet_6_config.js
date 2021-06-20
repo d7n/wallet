@@ -1,1 +1,1 @@
-var mnemonic = "nation lucky inherit tent silent clip hub close subway half spawn letter";
+var mnemonic = "act drop captain taxi junk spoon all universe cargo broken child shoe";

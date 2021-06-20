@@ -1,1 +1,1 @@
-var mnemonic = "great crop dust eyebrow water possible clarify cattle return forward ghost dress";
+var mnemonic = "clump wheel improve alcohol embrace primary boost soft glue indicate neither destroy";

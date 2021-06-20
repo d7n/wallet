@@ -1,1 +1,1 @@
-var mnemonic = "abuse annual once job ticket lady inform giant frozen album sense board";
+var mnemonic = "attend dance hammer heart ten total firm grain broccoli army enroll analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp image early liquid doctor north faculty also hunt public exclude blur";
+var mnemonic = "demand useful middle arrive wife sibling bargain type lecture canal napkin early";

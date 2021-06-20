@@ -1,1 +1,1 @@
-var mnemonic = "acquire welcome rail battle super wine obvious print place blue stereo resemble";
+var mnemonic = "badge nephew method visual place input practice advance velvet bunker front abandon";

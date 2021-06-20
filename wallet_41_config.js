@@ -1,1 +1,1 @@
-var mnemonic = "boat actual original file divide dog purity sell dawn piano force actress";
+var mnemonic = "figure ship license fit portion amateur demand organ alien hard dignity scorpion";

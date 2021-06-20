@@ -1,1 +1,1 @@
-var mnemonic = "round rude truck blast sadness motion cement ribbon canal beauty shrug pond";
+var mnemonic = "below already surge trouble test document gentle small cupboard misery afraid final";
