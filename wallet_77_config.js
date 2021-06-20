@@ -1,1 +1,1 @@
-var mnemonic = "must puzzle member test prison output gloom merge arrive mad crash control";
+var mnemonic = "search oak echo bulb season black fish betray rubber few envelope measure";

@@ -1,1 +1,1 @@
-var mnemonic = "glass child garbage magic ivory couch visa pulse avoid error kite treat";
+var mnemonic = "direct gold tumble master clarify furnace prevent pulse trim uncle credit staff";

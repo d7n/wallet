@@ -1,1 +1,1 @@
-var mnemonic = "pupil garment poet asthma shop permit table crop good strong volcano inside";
+var mnemonic = "stove small insect worry inch tray game abandon today fish guard penalty";

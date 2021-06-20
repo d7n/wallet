@@ -1,1 +1,1 @@
-var mnemonic = "raccoon property bone six civil upon rail body farm tortoise chest near";
+var mnemonic = "pause orient identify chaos proud venue quit injury way wall change under";

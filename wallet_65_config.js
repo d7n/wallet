@@ -1,1 +1,1 @@
-var mnemonic = "crumble space obey heavy cream dragon right inner appear bronze silent strategy";
+var mnemonic = "talent climb addict dilemma manage session shield nuclear aunt tongue never silly";

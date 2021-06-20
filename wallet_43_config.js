@@ -1,1 +1,1 @@
-var mnemonic = "window actual join work hotel pave brush faint decorate transfer gasp two";
+var mnemonic = "clarify escape lawsuit chunk desert enact gate rifle audit fix melody ill";

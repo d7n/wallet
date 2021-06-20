@@ -1,1 +1,1 @@
-var mnemonic = "extra vast foster battle enable cheese program afraid void fresh dirt cross";
+var mnemonic = "path indoor boat ticket book hamster gold skull then marine venture medal";

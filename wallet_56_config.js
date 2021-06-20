@@ -1,1 +1,1 @@
-var mnemonic = "february rural afraid bar try heart bunker benefit wrestle flame pistol shell";
+var mnemonic = "loan angry surface plastic cricket age absent hazard clip piano chalk need";

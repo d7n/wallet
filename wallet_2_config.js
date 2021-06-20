@@ -1,1 +1,1 @@
-var mnemonic = "detect mind burden path human win satisfy knife tonight century surge regular";
+var mnemonic = "pilot right auto duck diamond employ possible canal lawn sign west canyon";

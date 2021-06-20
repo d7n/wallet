@@ -1,1 +1,1 @@
-var mnemonic = "cruel income sadness about distance horse stage topple party enact genuine double";
+var mnemonic = "connect claw kit birth armor divide involve step digital foot dumb surge";

@@ -1,1 +1,1 @@
-var mnemonic = "bracket leisure final debate permit almost cup empower vanish unhappy quarter improve";
+var mnemonic = "defy lens guess romance clump office demand brand reunion obvious bar dirt";

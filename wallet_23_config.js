@@ -1,1 +1,1 @@
-var mnemonic = "recall marriage fitness evoke witness able sketch edit caught guide weapon bacon";
+var mnemonic = "evolve harsh grain success kiss almost feature bread resemble urge fury trial";

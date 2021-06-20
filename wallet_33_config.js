@@ -1,1 +1,1 @@
-var mnemonic = "picture drop bracket risk auto hurry diamond profit glance trouble paper forum";
+var mnemonic = "tilt crop spice yellow taste ivory pepper endorse army seven time apology";

@@ -1,1 +1,1 @@
-var mnemonic = "false curtain city become expand fire album power hurt weather coral trial";
+var mnemonic = "leaf punch joy idle brick base sense cinnamon april despair original snake";

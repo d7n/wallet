@@ -1,1 +1,1 @@
-var mnemonic = "wall rug atom borrow endorse boost update mean relief razor mail brave";
+var mnemonic = "play plastic early green twelve nerve detail cabbage pepper victory liar brush";

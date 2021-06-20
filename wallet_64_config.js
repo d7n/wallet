@@ -1,1 +1,1 @@
-var mnemonic = "latin stove brick sand green hawk spot bus yard angry thing salt";
+var mnemonic = "inside chimney crunch program armed rabbit clay false appear lake swear absent";

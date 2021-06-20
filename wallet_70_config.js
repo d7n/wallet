@@ -1,1 +1,1 @@
-var mnemonic = "enhance couple human wash require cover tiger february dolphin weapon output bicycle";
+var mnemonic = "melody spin mandate begin bless end earth name claw about this rhythm";

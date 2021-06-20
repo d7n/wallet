@@ -1,1 +1,1 @@
-var mnemonic = "predict coconut promote tobacco pool reflect hawk special hobby grass fire mix";
+var mnemonic = "access limb rain insane urge scorpion mind loan job mixture poem dawn";

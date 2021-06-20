@@ -1,1 +1,1 @@
-var mnemonic = "ticket random region recipe motor opera bulb person hair detect bulk wash";
+var mnemonic = "trigger audit cement frozen recycle tower property cabbage inspire glory piano stadium";

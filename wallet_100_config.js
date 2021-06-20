@@ -1,1 +1,1 @@
-var mnemonic = "ball dial govern peanut enlist floor embrace salmon ceiling chimney clay scrub";
+var mnemonic = "mixture region sketch reason dragon addict census spirit ahead reform month exile";

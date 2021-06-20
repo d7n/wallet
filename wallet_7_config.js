@@ -1,1 +1,1 @@
-var mnemonic = "tail render memory crouch decide current scorpion athlete orient cheese zoo brown";
+var mnemonic = "letter hover gospel volcano inside radio point vanish pioneer train field butter";

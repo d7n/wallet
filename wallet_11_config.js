@@ -1,1 +1,1 @@
-var mnemonic = "marble normal spend below unknown flee heavy cable person feel extend menu";
+var mnemonic = "sibling maple damage valid emotion mercy silly gown nature sell rebuild glass";

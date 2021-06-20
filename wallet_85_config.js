@@ -1,1 +1,1 @@
-var mnemonic = "weekend purchase cloud evidence bacon broom innocent fault bundle record match interest";
+var mnemonic = "hurdle shadow olympic sound burst proud edge cattle disorder expect affair cram";

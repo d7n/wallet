@@ -1,1 +1,1 @@
-var mnemonic = "quality student poet eager ribbon innocent spirit forest crowd pulp crouch soda";
+var mnemonic = "card captain relax fat salmon pony brown wild divide desk assist season";

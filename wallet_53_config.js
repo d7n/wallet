@@ -1,1 +1,1 @@
-var mnemonic = "deliver problem devote praise enable evil glove dune pioneer slam flame blind";
+var mnemonic = "success ill gallery occur pumpkin margin drill awake vendor leopard body sort";

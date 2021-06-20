@@ -1,1 +1,1 @@
-var mnemonic = "smoke sunny jelly enroll federal truly stumble oil desert ceiling mammal hungry";
+var mnemonic = "assume deny pond trap citizen spray tip armed drive host cushion soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce captain cheap neutral deputy verify sail pool clutch steak skull clip";
+var mnemonic = "drift mountain tribe sentence rebuild arrange release bulb life life help kid";

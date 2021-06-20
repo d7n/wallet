@@ -1,1 +1,1 @@
-var mnemonic = "voice wine voice floor lottery dose popular taxi melt cause cinnamon tomato";
+var mnemonic = "clap denial slam problem radar major thing link leg nice chair belt";

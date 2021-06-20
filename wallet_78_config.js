@@ -1,1 +1,1 @@
-var mnemonic = "suffer twelve just miracle club session already wing insane unable october twice";
+var mnemonic = "world bring bundle immense wrap guide novel curious grain flat rather subway";

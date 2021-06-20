@@ -1,1 +1,1 @@
-var mnemonic = "arrange install shop canyon scale champion student voice talent left decorate hen";
+var mnemonic = "suit tiger object unusual boil north price math federal major layer focus";

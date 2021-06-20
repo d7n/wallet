@@ -1,1 +1,1 @@
-var mnemonic = "hundred access monitor violin spider copper valid case drive fancy twist put";
+var mnemonic = "payment since report trip invite uncle empty kite siege mouse sea upgrade";

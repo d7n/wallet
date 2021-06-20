@@ -1,1 +1,1 @@
-var mnemonic = "alcohol ivory matrix switch success future very harsh mandate fancy original host";
+var mnemonic = "robust fire blue final shuffle state stamp pact learn creek escape prefer";

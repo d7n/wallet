@@ -1,1 +1,1 @@
-var mnemonic = "lion plate message leisure smooth depart chronic love august then work merry";
+var mnemonic = "candy angle another calm fox execute romance music head trend sweet exclude";

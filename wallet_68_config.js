@@ -1,1 +1,1 @@
-var mnemonic = "front zoo frog cinnamon muffin leave tongue soft fitness purpose glow photo";
+var mnemonic = "audit tragic add energy visit kangaroo word punch never win problem ensure";

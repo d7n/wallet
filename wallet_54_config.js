@@ -1,1 +1,1 @@
-var mnemonic = "lumber slice cement trigger magnet any barely pulse purpose seven bunker priority";
+var mnemonic = "impulse crew assist layer vague ship update broccoli cram assist capital foster";

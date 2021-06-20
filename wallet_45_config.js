@@ -1,1 +1,1 @@
-var mnemonic = "crouch enlist kangaroo drip filter mixture barely regular cram jungle region gossip";
+var mnemonic = "main carbon raven suffer bridge regular world author side stamp senior scan";

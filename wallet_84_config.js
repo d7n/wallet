@@ -1,1 +1,1 @@
-var mnemonic = "nuclear correct enjoy usage expose cigar camp secret region verb fiscal diary";
+var mnemonic = "flash key tourist taste shed surge inquiry boil humble orange appear notable";

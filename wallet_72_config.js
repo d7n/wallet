@@ -1,1 +1,1 @@
-var mnemonic = "remind lesson balcony fish aisle effort expire dad carry maximum multiply client";
+var mnemonic = "manage payment galaxy sample tragic name melt deer mail leopard phrase lawsuit";

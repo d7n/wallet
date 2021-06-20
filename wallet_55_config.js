@@ -1,1 +1,1 @@
-var mnemonic = "upper spray grain teach hip stove material help cup remember alone avoid";
+var mnemonic = "olympic junk gallery tonight link arm boost disease sunny file champion case";

@@ -1,1 +1,1 @@
-var mnemonic = "help mirror plunge link laugh point beef bounce sell replace program this";
+var mnemonic = "surprise device leaf crucial someone flower update brand vibrant scheme gallery riot";

@@ -1,1 +1,1 @@
-var mnemonic = "outdoor live fringe pony cry unable beyond kitten calm dial sick century";
+var mnemonic = "fury tank beef citizen breeze target decline reform east stone ranch giraffe";

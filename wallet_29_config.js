@@ -1,1 +1,1 @@
-var mnemonic = "hundred nothing public wolf fence wish rapid become deny divide vapor supply";
+var mnemonic = "quantum jewel tell snow casual scene life veteran buzz visual flight senior";

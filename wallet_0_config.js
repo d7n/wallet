@@ -1,1 +1,1 @@
-var mnemonic = "sight daughter fantasy crunch fatal fly city melody distance destroy service grass";
+var mnemonic = "dune genius liberty devote artefact dress van solid confirm drama nuclear video";

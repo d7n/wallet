@@ -1,1 +1,1 @@
-var mnemonic = "quote quarter success educate stage refuse trap mirror cattle random chicken holiday";
+var mnemonic = "gospel dish cattle direct course gentle kangaroo online depart treat legend sight";

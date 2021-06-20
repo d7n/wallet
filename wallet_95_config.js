@@ -1,1 +1,1 @@
-var mnemonic = "trip maze inform girl question devote clock mom coconut enlist exist bomb";
+var mnemonic = "bullet trial about price model receive alley zero exhaust excite main patient";

@@ -1,1 +1,1 @@
-var mnemonic = "venture nominee oil phrase must spare razor stable pony blue range start";
+var mnemonic = "damage thought song desert sorry height shoulder merit angry wood illness dog";

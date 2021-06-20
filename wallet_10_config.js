@@ -1,1 +1,1 @@
-var mnemonic = "use bike hungry gauge ride supply orchard piece outer minute december siren";
+var mnemonic = "gentle present spoon require scout gravity blue unit broccoli extra february magnet";

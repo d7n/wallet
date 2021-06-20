@@ -1,1 +1,1 @@
-var mnemonic = "code slam nuclear blast shiver time ride accuse salon crowd detail excess";
+var mnemonic = "nurse pudding disorder evoke happy absorb tube track maze taxi scrap noise";

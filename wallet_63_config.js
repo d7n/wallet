@@ -1,1 +1,1 @@
-var mnemonic = "chef neglect giraffe hard must april drill render zoo enlist pink entire";
+var mnemonic = "guitar bring mirror marriage place orphan include fury year clinic marine salon";

@@ -1,1 +1,1 @@
-var mnemonic = "damage family kind gauge worry task rifle smooth twenty core defy enrich";
+var mnemonic = "arrive response discover lucky fury puppy blast giggle carry creek guard post";

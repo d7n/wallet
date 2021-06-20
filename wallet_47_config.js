@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow capital achieve chimney beyond lava unaware shallow dish brother rate beauty";
+var mnemonic = "multiply join tourist online chuckle rifle expect park adapt spring level toward";

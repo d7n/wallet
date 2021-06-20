@@ -1,1 +1,1 @@
-var mnemonic = "cloth vote cruise message flag romance enable field abstract sort arrest smooth";
+var mnemonic = "umbrella neglect black review daughter universe describe cabin juice heart use manage";

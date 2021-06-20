@@ -1,1 +1,1 @@
-var mnemonic = "symbol nut potato kite certain desert green work stomach bean car world";
+var mnemonic = "update only large bounce river shell coconut yard since name meat dove";

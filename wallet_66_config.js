@@ -1,1 +1,1 @@
-var mnemonic = "always state trumpet body window sell surge roof dove knife aim laptop";
+var mnemonic = "general kid fancy adapt box casual scorpion vital north waste kiwi pull";

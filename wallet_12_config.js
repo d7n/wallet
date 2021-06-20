@@ -1,1 +1,1 @@
-var mnemonic = "face update faith tag crater ethics educate engine approve recycle celery crash";
+var mnemonic = "hundred culture that bounce soft pumpkin battle virtual rice gloom sad final";

@@ -1,1 +1,1 @@
-var mnemonic = "all palace improve sleep cable trend property dutch talk rent sketch order";
+var mnemonic = "hole differ era pledge camera auto expand april tent blast birth track";

@@ -1,1 +1,1 @@
-var mnemonic = "become cannon sponsor soon off hope under burden window noble begin shaft";
+var mnemonic = "file harvest noble autumn produce inch shield border fatigue syrup forward provide";

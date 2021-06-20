@@ -1,1 +1,1 @@
-var mnemonic = "cart spice alpha cup refuse humor fortune home flee inhale modify jar";
+var mnemonic = "three similar crime course worry clap bargain bulb isolate digital lazy asthma";

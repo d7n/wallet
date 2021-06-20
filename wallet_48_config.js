@@ -1,1 +1,1 @@
-var mnemonic = "imitate diet payment total first one arrange simple address elder congress apple";
+var mnemonic = "adapt recycle chest limit sense above grant mammal draw history trick horn";

@@ -1,1 +1,1 @@
-var mnemonic = "faint nephew kite recipe forum tuition pigeon prevent scrub nothing dice orchard";
+var mnemonic = "abuse lawsuit squeeze airport paddle twenty code copper rebel tooth tuna fix";

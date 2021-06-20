@@ -1,1 +1,1 @@
-var mnemonic = "valley guard false tomato brush frown million cradle stadium valve student joy";
+var mnemonic = "salmon ankle short exercise cloud kangaroo record situate dinner wrap check option";

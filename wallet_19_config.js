@@ -1,1 +1,1 @@
-var mnemonic = "sad reopen candy ginger final safe rigid main seminar erupt wolf alarm";
+var mnemonic = "grain myth slide enroll opinion yellow shrug original asset decrease faculty carry";

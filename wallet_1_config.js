@@ -1,1 +1,1 @@
-var mnemonic = "divide quantum fox vacant wisdom exile pumpkin poverty liar foot swamp place";
+var mnemonic = "brown under tunnel mistake waste expand identify pioneer skirt access rent often";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery bullet walk neutral image laundry grow beef alien always universe desk";
+var mnemonic = "beach pair better wrist trouble emotion route twelve muffin fine reject vague";

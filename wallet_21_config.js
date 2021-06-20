@@ -1,1 +1,1 @@
-var mnemonic = "renew marble canal nature element history enroll embrace company review please put";
+var mnemonic = "tenant eight arrange deposit skin have crunch cactus myself will current dentist";

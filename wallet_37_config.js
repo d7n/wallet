@@ -1,1 +1,1 @@
-var mnemonic = "kid grape shrug gift junk rabbit become expect ticket blur mutual crumble";
+var mnemonic = "oyster pet walnut clip photo world audit devote purchase degree affair conduct";

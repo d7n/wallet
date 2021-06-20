@@ -1,1 +1,1 @@
-var mnemonic = "notable sure leg search bind isolate awesome sock insect joke business any";
+var mnemonic = "note cage surface picture misery agree snap sentence maple small penalty peace";

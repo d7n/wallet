@@ -1,1 +1,1 @@
-var mnemonic = "music liquid warm ozone gas juice real joke idea abandon panther any";
+var mnemonic = "capital empty want deputy swift busy awake organ luggage ugly where rookie";

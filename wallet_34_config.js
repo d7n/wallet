@@ -1,1 +1,1 @@
-var mnemonic = "tongue total decade clip column fatal improve true poet food winter basket";
+var mnemonic = "zone chuckle move snow feature radar primary brand vendor melody horn copy";

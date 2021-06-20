@@ -1,1 +1,1 @@
-var mnemonic = "repeat security fish regret work tackle spike theme degree fall warm rib";
+var mnemonic = "uphold caught scorpion barrel bridge pipe arrive mix fossil very apart dinner";

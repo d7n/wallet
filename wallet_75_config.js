@@ -1,1 +1,1 @@
-var mnemonic = "lumber marble topple noble below favorite canoe bus violin huge valve winner";
+var mnemonic = "caught before fade eternal truth talent lab just random clerk author mimic";

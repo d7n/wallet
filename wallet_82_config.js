@@ -1,1 +1,1 @@
-var mnemonic = "aerobic pink doctor also slush sword eyebrow heart arm useless dust gasp";
+var mnemonic = "coach width slam later flag cross group razor patrol garden stove visa";

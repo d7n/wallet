@@ -1,1 +1,1 @@
-var mnemonic = "brown daring task couple cement process champion pattern jewel gasp also face";
+var mnemonic = "blast sense defense wear hospital bean maid endless minimum salt repair illness";

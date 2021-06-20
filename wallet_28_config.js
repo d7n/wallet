@@ -1,1 +1,1 @@
-var mnemonic = "brush suffer width spike repeat flavor blanket paddle learn nature balcony bind";
+var mnemonic = "oblige sibling laugh girl achieve pet muffin noise labor crew couch kite";

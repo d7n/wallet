@@ -1,1 +1,1 @@
-var mnemonic = "turn father orange rent build tortoise volcano feature coyote omit describe onion";
+var mnemonic = "anger blue chest parrot auto sign history shove solve nephew faculty model";

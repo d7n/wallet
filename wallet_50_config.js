@@ -1,1 +1,1 @@
-var mnemonic = "engine muscle picture element worth weapon man absorb obey egg cloud aim";
+var mnemonic = "rib injury embrace real modify people wave tennis moment mom curtain popular";

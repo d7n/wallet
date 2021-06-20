@@ -1,1 +1,1 @@
-var mnemonic = "walnut increase boil squeeze equal mistake art smart half such three milk";
+var mnemonic = "summer husband often fat river boy ordinary garbage away cool flag mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse cotton width nature filter pencil reduce artist joy parade clown inmate";
+var mnemonic = "truth unit wheel allow wealth insect donate inflict final craft cousin clap";

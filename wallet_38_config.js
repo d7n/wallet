@@ -1,1 +1,1 @@
-var mnemonic = "mule alpha salad team certain alone lift attend sorry language ball initial";
+var mnemonic = "anger disease village lobster green photo item two hire aunt myth demand";

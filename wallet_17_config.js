@@ -1,1 +1,1 @@
-var mnemonic = "treat quick chest rate oval estate lab release index focus hybrid manage";
+var mnemonic = "mixture farm awesome bulb then accuse equip viable case profit raccoon clever";

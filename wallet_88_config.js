@@ -1,1 +1,1 @@
-var mnemonic = "autumn similar release undo plug orphan enemy loyal alter maid pelican slot";
+var mnemonic = "useless unlock athlete antenna neck inform boat tag master patch you fish";

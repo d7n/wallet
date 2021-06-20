@@ -1,1 +1,1 @@
-var mnemonic = "rifle jelly dance beyond cheese walk napkin brisk frown scene plate attack";
+var mnemonic = "traffic duty task wait emotion canal year run entire orbit enact cream";

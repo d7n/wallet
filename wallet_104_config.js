@@ -1,1 +1,1 @@
-var mnemonic = "female net diary robust today lonely joke panda stadium vote clerk shrimp";
+var mnemonic = "garlic slight desert law scale favorite again cram walnut crawl modify reveal";

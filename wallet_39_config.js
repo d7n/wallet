@@ -1,1 +1,1 @@
-var mnemonic = "appear bachelor employ during lecture arctic dry daughter such team unhappy exclude";
+var mnemonic = "steak develop calm day culture labor lemon sponsor since climb salad paper";

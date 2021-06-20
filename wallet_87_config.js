@@ -1,1 +1,1 @@
-var mnemonic = "laundry elbow second choice wisdom unable burden lunar hockey rebel pilot need";
+var mnemonic = "biology receive still any traffic wink art route glance govern trust pair";

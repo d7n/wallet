@@ -1,1 +1,1 @@
-var mnemonic = "waste circle average toss drink rate cram domain prepare erosion average globe";
+var mnemonic = "doctor immune pioneer vintage season case express armed siege cheap engine once";

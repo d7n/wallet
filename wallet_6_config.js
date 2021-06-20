@@ -1,1 +1,1 @@
-var mnemonic = "hungry base chat ball speed sound tunnel govern vague nominee shadow strategy";
+var mnemonic = "cake palace tell earn staff sea equal empower capital end identify power";

@@ -1,1 +1,1 @@
-var mnemonic = "flee again acid jacket secret net error patient festival sight alone change";
+var mnemonic = "little room chief age gentle car session hover hurt nephew glory sadness";
