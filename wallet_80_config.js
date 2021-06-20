@@ -1,1 +1,1 @@
-var mnemonic = "reason narrow carbon recipe renew black replace disagree keep that wild another";
+var mnemonic = "basic feel road dirt lion dry pumpkin cradle roof void burger client";

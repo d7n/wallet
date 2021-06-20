@@ -1,1 +1,1 @@
-var mnemonic = "fantasy obscure scale domain sick chest flip pencil home lucky close actor";
+var mnemonic = "fresh smoke trade cable emerge off quote master useless defy lend shield";

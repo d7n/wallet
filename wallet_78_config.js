@@ -1,1 +1,1 @@
-var mnemonic = "torch oval fiber spirit dinner stay inch item clock magic lemon lesson";
+var mnemonic = "fruit pistol despair top ship step wall embody catalog night minor lazy";

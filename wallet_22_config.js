@@ -1,1 +1,1 @@
-var mnemonic = "symptom inquiry wire frozen typical winter power camera measure truck nurse index";
+var mnemonic = "answer forward stairs profit name off because cargo worry panel erase alien";

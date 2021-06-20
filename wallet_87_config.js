@@ -1,1 +1,1 @@
-var mnemonic = "mystery unable seed engage equal clinic nature thrive party manage foster absorb";
+var mnemonic = "april mixed rough twice buzz seek between damage father glass door essay";

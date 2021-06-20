@@ -1,1 +1,1 @@
-var mnemonic = "tiger fat organ satoshi eternal strong wire search release alcohol hour machine";
+var mnemonic = "select nuclear crowd hill crawl pitch guide foot access february upon goose";

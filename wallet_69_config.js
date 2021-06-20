@@ -1,1 +1,1 @@
-var mnemonic = "grace animal card recall cover flock cancel wasp scan earth fiber knock";
+var mnemonic = "slogan copy issue warm wisdom march trim dumb disease wine blue aunt";

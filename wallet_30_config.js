@@ -1,1 +1,1 @@
-var mnemonic = "hover expire fragile tourist layer juice oil mass staff around youth announce";
+var mnemonic = "blind evil aim range pizza matter truth pumpkin ugly eternal exact carry";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic exit undo label skate stamp surface habit rural hour lab major";
+var mnemonic = "floor reward section walnut pill follow whip penalty quality swap please wait";

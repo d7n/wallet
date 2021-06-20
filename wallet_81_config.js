@@ -1,1 +1,1 @@
-var mnemonic = "actress ethics base deputy fun plastic afraid garage number cube swear fresh";
+var mnemonic = "winner snake exclude piece grass tongue enrich opinion resemble best dignity alley";

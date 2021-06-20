@@ -1,1 +1,1 @@
-var mnemonic = "note unusual frozen pyramid blind light useful allow hunt chronic client destroy";
+var mnemonic = "hen cycle bus evolve cram twenty unfold west income space rally goose";

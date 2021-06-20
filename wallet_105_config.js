@@ -1,1 +1,1 @@
-var mnemonic = "can retreat omit turkey resemble laptop expire foam increase outer wire clown";
+var mnemonic = "code green daring inspire nerve visit suspect report bulk figure lucky magic";

@@ -1,1 +1,1 @@
-var mnemonic = "tell worth basket loan fluid absent clog wet case huge thank dial";
+var mnemonic = "tape host vintage tragic solid patient barely waste put target answer cancel";

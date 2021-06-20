@@ -1,1 +1,1 @@
-var mnemonic = "cause myself jar oval notice lounge have scare minimum have smoke spoil";
+var mnemonic = "second advance uncle rival catch hub curtain immune stomach merge garment camp";

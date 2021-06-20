@@ -1,1 +1,1 @@
-var mnemonic = "exotic pumpkin cool orchard piece tilt person now protect critic minute marine";
+var mnemonic = "zero target update meat cart diet lesson recipe brand cement blur neck";

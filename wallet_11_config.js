@@ -1,1 +1,1 @@
-var mnemonic = "save critic what update there legend way harvest dash air couch nuclear";
+var mnemonic = "base afford barely stand blossom warm cotton member olive system history town";

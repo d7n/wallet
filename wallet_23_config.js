@@ -1,1 +1,1 @@
-var mnemonic = "happy question rally maid session obscure minor adult stereo neglect million capital";
+var mnemonic = "order elephant novel mirror large group seek concert job predict type dirt";

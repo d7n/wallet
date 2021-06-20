@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur news marine trigger plate victory employ tragic dry toward tell drum";
+var mnemonic = "toy muffin raise disagree avoid exhibit sport east slush poem kind drive";

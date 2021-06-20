@@ -1,1 +1,1 @@
-var mnemonic = "license garbage code demand admit school machine wagon attitude wealth evoke glad";
+var mnemonic = "term vicious fuel fitness unfair review timber when lemon angry luxury sad";

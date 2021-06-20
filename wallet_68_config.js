@@ -1,1 +1,1 @@
-var mnemonic = "world plastic mercy bid direct agree poem media depart unaware travel burger";
+var mnemonic = "borrow blind mandate catalog now box banner hockey loud ski hunt nurse";

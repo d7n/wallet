@@ -1,1 +1,1 @@
-var mnemonic = "cry pumpkin much blouse steak tonight upgrade either visual side blade pipe";
+var mnemonic = "bargain below slam ethics leader fresh object indoor much access march remind";

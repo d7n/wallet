@@ -1,1 +1,1 @@
-var mnemonic = "devote staff penalty hint myth about amused version mammal convince animal bike";
+var mnemonic = "interest help ticket muffin pumpkin saddle maple sadness choose satisfy aerobic trouble";

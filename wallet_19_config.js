@@ -1,1 +1,1 @@
-var mnemonic = "wait govern peasant rigid trouble denial reduce onion color awkward benefit bright";
+var mnemonic = "word fun bulk dance develop grit you trial nut sibling ridge toy";

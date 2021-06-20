@@ -1,1 +1,1 @@
-var mnemonic = "vote crouch then bachelor hero panther chicken slide oppose exit ball fade";
+var mnemonic = "era husband void wreck vivid shoot front rapid average ceiling angle bonus";

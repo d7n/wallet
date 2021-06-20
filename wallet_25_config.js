@@ -1,1 +1,1 @@
-var mnemonic = "garlic please plate auto inform exhaust exact symptom hawk exact express resist";
+var mnemonic = "right guilt useful measure rabbit timber elite maid brick climb occur bottom";

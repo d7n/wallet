@@ -1,1 +1,1 @@
-var mnemonic = "high damage salute still reduce lesson feel tone hat palace deliver lend";
+var mnemonic = "stamp pizza arctic learn crash change alley accuse busy please space chimney";

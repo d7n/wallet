@@ -1,1 +1,1 @@
-var mnemonic = "marine fault clerk gorilla mistake property resist green radio moment genuine anxiety";
+var mnemonic = "chapter panda choose myth high picnic predict benefit layer speed seminar balcony";

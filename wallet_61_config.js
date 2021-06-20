@@ -1,1 +1,1 @@
-var mnemonic = "once ready infant swear super dinosaur crater pitch baby leaf enhance item";
+var mnemonic = "juice kitten hockey menu town measure boring boss wing ivory verb absurd";

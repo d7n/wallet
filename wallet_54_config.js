@@ -1,1 +1,1 @@
-var mnemonic = "open salt ahead inspire present subject tissue okay merit puzzle gift fit";
+var mnemonic = "doctor space fish topic paddle hope ketchup room fence spike script brown";

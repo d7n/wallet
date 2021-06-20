@@ -1,1 +1,1 @@
-var mnemonic = "mask coin health quick armed unusual barely zebra aim there month liquid";
+var mnemonic = "carry scan insane armor hurt cancel autumn foot virus bullet awkward scheme";

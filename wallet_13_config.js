@@ -1,1 +1,1 @@
-var mnemonic = "indicate soldier plug before tumble engine orchard hero occur baby what parade";
+var mnemonic = "image car picture north squeeze nice length cancel knee fitness sauce region";

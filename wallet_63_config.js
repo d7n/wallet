@@ -1,1 +1,1 @@
-var mnemonic = "jungle apology clarify slice demand monster stadium marble lava proof issue code";
+var mnemonic = "genuine verb industry panther loyal deny strong naive age gaze muffin series";

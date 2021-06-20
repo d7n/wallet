@@ -1,1 +1,1 @@
-var mnemonic = "affair message fatal decrease woman domain fold client setup august biology submit";
+var mnemonic = "fan latin drop attack unlock grain ticket age treat neutral art quick";

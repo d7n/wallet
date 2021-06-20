@@ -1,1 +1,1 @@
-var mnemonic = "tape slice almost sad cycle glue school world you timber kiss clean";
+var mnemonic = "entire bicycle surface blind large speed oven alien merry civil luxury gallery";

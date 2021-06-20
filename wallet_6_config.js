@@ -1,1 +1,1 @@
-var mnemonic = "sunny ball weapon lottery develop feed current other wrestle aisle forward junk";
+var mnemonic = "twenty embark donor snake kid kidney acoustic recall isolate purchase fossil video";

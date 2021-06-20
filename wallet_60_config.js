@@ -1,1 +1,1 @@
-var mnemonic = "hold hurdle gravity misery void spin card witness garlic unaware key ketchup";
+var mnemonic = "venue depart gospel join honey resist melt sniff ritual present afford brass";

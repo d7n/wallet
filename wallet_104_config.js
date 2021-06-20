@@ -1,1 +1,1 @@
-var mnemonic = "veteran shy scheme glass pill road special trend maze during assume lunar";
+var mnemonic = "cover purse dismiss category make garage walk service give busy age term";

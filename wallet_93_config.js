@@ -1,1 +1,1 @@
-var mnemonic = "choose daughter mind liar ivory gesture text sword flower public box mention";
+var mnemonic = "alone artist fetch lyrics faculty staff struggle fee bracket whisper average decrease";

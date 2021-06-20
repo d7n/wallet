@@ -1,1 +1,1 @@
-var mnemonic = "tank ritual elder fringe security change credit humble razor round assume jewel";
+var mnemonic = "disease inhale dismiss system lock inspire capital nation civil bomb scare damp";

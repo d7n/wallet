@@ -1,1 +1,1 @@
-var mnemonic = "sausage slice vapor decline walnut horn zone gaze harsh admit fee hedgehog";
+var mnemonic = "harvest work item mango brick topple panic circle worth surge margin vehicle";

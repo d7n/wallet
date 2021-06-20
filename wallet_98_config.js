@@ -1,1 +1,1 @@
-var mnemonic = "pull over pencil hurry shoulder weird vacuum entry judge arm balance valve";
+var mnemonic = "cry resemble spy deputy during million exhibit valid dawn brush notable proud";

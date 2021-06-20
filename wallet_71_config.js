@@ -1,1 +1,1 @@
-var mnemonic = "flag tornado eight happy virtual sure help entry legend wagon permit salute";
+var mnemonic = "educate kid vintage input meadow garage entry thing pretty twist man outer";

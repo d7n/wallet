@@ -1,1 +1,1 @@
-var mnemonic = "vacant mean section describe obey auction coral maple turn blue stock supreme";
+var mnemonic = "recipe admit gaze little rhythm fame luxury cable little obvious attend cross";

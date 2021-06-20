@@ -1,1 +1,1 @@
-var mnemonic = "brush frown rose addict flag heavy drill doll sport knock exile maple";
+var mnemonic = "twenty intact industry manage ecology cactus same boost vast broken initial wealth";

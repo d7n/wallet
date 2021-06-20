@@ -1,1 +1,1 @@
-var mnemonic = "cash deposit beyond joke luxury promote balcony seed slush online curtain model";
+var mnemonic = "uniform cross later agent inspire rail rate vendor small vintage chapter curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "salon industry into injury hole biology fit collect loud cotton begin drill";
+var mnemonic = "wool oyster brother elephant element whip tunnel top paddle rude among visual";

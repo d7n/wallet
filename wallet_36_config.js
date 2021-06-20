@@ -1,1 +1,1 @@
-var mnemonic = "winter idea shield bar retreat avocado clay flight minor tent return disorder";
+var mnemonic = "family just february pelican analyst stairs turkey actor zoo runway bounce broom";

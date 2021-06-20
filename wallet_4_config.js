@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow kitchen country slogan novel tiger squirrel grid endless oval frequent salt";
+var mnemonic = "dynamic column choice jeans item recall trust spy badge start actor rebuild";

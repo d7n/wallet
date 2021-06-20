@@ -1,1 +1,1 @@
-var mnemonic = "sail wrestle expose upgrade element sell stereo maximum clarify domain trim cry";
+var mnemonic = "bus churn control prize kingdom couch ramp awful slush morning hurt island";

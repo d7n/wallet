@@ -1,1 +1,1 @@
-var mnemonic = "drastic easily brisk vault husband spike because bread right exchange odor close";
+var mnemonic = "elbow garlic tiger review mesh napkin guard above hen slender clap rice";

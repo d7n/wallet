@@ -1,1 +1,1 @@
-var mnemonic = "harvest love casual suit know bachelor control mix inhale lunch appear warrior";
+var mnemonic = "manual obvious aspect flush plastic chest deliver thing online lab park company";

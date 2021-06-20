@@ -1,1 +1,1 @@
-var mnemonic = "fade endless pole sense fall under wrong utility expose path fluid maximum";
+var mnemonic = "mix humor unknown battle dad apple weird rice explain grape monitor reduce";

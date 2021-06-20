@@ -1,1 +1,1 @@
-var mnemonic = "notice one bomb clay solution broken peasant auction mansion trial dish tube";
+var mnemonic = "aim resource camp despair worry grocery satisfy reunion hello tonight improve hood";

@@ -1,1 +1,1 @@
-var mnemonic = "annual pigeon tray task pistol truly canyon peanut balance cruise topple arm";
+var mnemonic = "keep father box balance agree wide arrive chair tank rough trial beauty";

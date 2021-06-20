@@ -1,1 +1,1 @@
-var mnemonic = "rabbit genuine march proof frost main bounce faint mother mountain zero veteran";
+var mnemonic = "merry discover crane expand drip table imitate rapid deny toy cloth lunar";

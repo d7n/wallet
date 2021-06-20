@@ -1,1 +1,1 @@
-var mnemonic = "soup tomato upon street discover wasp now excess predict shiver dilemma throw";
+var mnemonic = "taxi faith style tide stock pilot champion mistake fatigue mosquito hazard alert";

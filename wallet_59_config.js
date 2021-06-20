@@ -1,1 +1,1 @@
-var mnemonic = "culture absorb engine oil venue excuse surge frown road giggle laugh hen";
+var mnemonic = "upgrade another since equal lucky wall fix post there soap hello tip";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow survey segment wolf measure nerve can glue scrub engine bottom ordinary";
+var mnemonic = "portion biology steel sand thing awake diet wrap seat dentist burden rate";

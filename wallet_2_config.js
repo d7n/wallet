@@ -1,1 +1,1 @@
-var mnemonic = "occur pattern pear truck hockey twist sport miss royal celery beauty undo";
+var mnemonic = "rate soda guide actress grab churn gate bread year flame course remain";

@@ -1,1 +1,1 @@
-var mnemonic = "gauge occur feature attitude negative prison acoustic section myth letter inhale melody";
+var mnemonic = "robot fashion sell general minimum daughter solar else always hold oval citizen";

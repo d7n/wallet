@@ -1,1 +1,1 @@
-var mnemonic = "ginger draw bubble nest pyramid gaze top dance fuel romance horn chuckle";
+var mnemonic = "pumpkin hope miss siege security hidden dutch lumber fish direct derive survey";

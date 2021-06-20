@@ -1,1 +1,1 @@
-var mnemonic = "doctor juice toss blind method mean inflict model buffalo stand ski cereal";
+var mnemonic = "broccoli legend use alien rice trip crop sniff shoe false chase want";

@@ -1,1 +1,1 @@
-var mnemonic = "bag vicious enemy erode employ remember below under slot tattoo will dynamic";
+var mnemonic = "remain crack maze mango dish whale taste summer solution analyst casino engine";

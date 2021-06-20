@@ -1,1 +1,1 @@
-var mnemonic = "bid jelly uncover sport ocean taxi riot clay gym govern engage moon";
+var mnemonic = "sound ship venture hill fatal shy onion cause leader soft since blood";

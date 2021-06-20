@@ -1,1 +1,1 @@
-var mnemonic = "wedding pact poverty chuckle drive kit during steak canyon beauty have follow";
+var mnemonic = "scale yard glow spot sock there shell degree yellow prize velvet arrow";

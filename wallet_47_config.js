@@ -1,1 +1,1 @@
-var mnemonic = "empower parent salt wrap laugh draw play thrive diagram elite glad soldier";
+var mnemonic = "once camera inject imitate orbit pattern laugh elbow swing useless apple into";

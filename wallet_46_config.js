@@ -1,1 +1,1 @@
-var mnemonic = "canal ski brother endless sustain peace soup super outdoor enter move daring";
+var mnemonic = "valid snap creek churn side machine skin gas wagon dentist rail gasp";

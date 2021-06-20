@@ -1,1 +1,1 @@
-var mnemonic = "income magic agent toe slice into avocado assist fish fee dream humor";
+var mnemonic = "shed display peasant nation flee prevent funny walk absent gallery viable inner";

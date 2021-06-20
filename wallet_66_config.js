@@ -1,1 +1,1 @@
-var mnemonic = "vanish rug shock path vital helmet power region warrior disorder shadow rookie";
+var mnemonic = "work empty live focus carry slice double ribbon erosion remember draw sport";

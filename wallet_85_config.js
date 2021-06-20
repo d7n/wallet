@@ -1,1 +1,1 @@
-var mnemonic = "alien dizzy recall shell garbage credit seminar unit enhance future hub warrior";
+var mnemonic = "lab prison will license wool indicate auto oil area affair wish divert";

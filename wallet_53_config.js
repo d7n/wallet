@@ -1,1 +1,1 @@
-var mnemonic = "tobacco fever rice correct play assume pond dirt main peace design fiscal";
+var mnemonic = "evidence blade dragon horn boring office near total holiday horn bleak alarm";

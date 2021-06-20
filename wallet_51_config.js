@@ -1,1 +1,1 @@
-var mnemonic = "lemon refuse spread reform invest immense quarter kingdom trick shoe smart grief";
+var mnemonic = "trust crowd found when nest super twist sketch monster rail ivory soldier";

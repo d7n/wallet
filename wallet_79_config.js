@@ -1,1 +1,1 @@
-var mnemonic = "surround repeat cushion hurdle verify bench grow thunder cherry man define ship";
+var mnemonic = "offer type junior stage loop clip upgrade curious empty broom corn furnace";

@@ -1,1 +1,1 @@
-var mnemonic = "try menu banana mountain cruel must paper duck van board will copy";
+var mnemonic = "year manual mandate ostrich aerobic enhance that assume ritual dice tower bulk";

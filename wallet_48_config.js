@@ -1,1 +1,1 @@
-var mnemonic = "throw battle swing else wink other pet tuna include shift fashion suit";
+var mnemonic = "one hover shrimp noble write cancel fashion gesture trend lucky relax jump";

@@ -1,1 +1,1 @@
-var mnemonic = "deer unhappy glass shaft round expand off price turn argue glare success";
+var mnemonic = "lizard whisper comfort question stable decline license lab school buyer dwarf text";

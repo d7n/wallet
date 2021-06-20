@@ -1,1 +1,1 @@
-var mnemonic = "secret evoke convince cause stuff endless idea crush derive version federal endorse";
+var mnemonic = "hundred other domain vehicle silent you brain secret boy all artwork tool";

@@ -1,1 +1,1 @@
-var mnemonic = "route observe student cage place stay client shy cram trigger camera clap";
+var mnemonic = "alpha weather section nurse raccoon evil balance squeeze forum beef guitar ready";

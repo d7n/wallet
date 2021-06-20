@@ -1,1 +1,1 @@
-var mnemonic = "film book type save top garment tell wash shove often wash churn";
+var mnemonic = "stomach wood adult today vibrant cancel earth advice such firm around visual";

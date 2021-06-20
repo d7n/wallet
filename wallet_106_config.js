@@ -1,1 +1,1 @@
-var mnemonic = "second novel announce lens web name fix clinic enable early gravity phrase";
+var mnemonic = "clog meat punch maximum diary love there panic scene over mountain lyrics";

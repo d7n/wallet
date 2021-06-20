@@ -1,1 +1,1 @@
-var mnemonic = "small slab any unlock arrow weasel eagle badge style alarm parrot tragic";
+var mnemonic = "throw rabbit deposit eye volcano peasant night sand noodle robust unusual verify";

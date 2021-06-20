@@ -1,1 +1,1 @@
-var mnemonic = "art quality south suspect viable wreck toss diesel mobile produce away drop";
+var mnemonic = "acid grow genre vital wing margin frost project gorilla vault write foam";

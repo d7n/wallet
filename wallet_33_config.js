@@ -1,1 +1,1 @@
-var mnemonic = "hobby kit direct occur flash item flash vessel group swarm price october";
+var mnemonic = "rough sun enhance goat expand phone oyster antique isolate bullet cause very";

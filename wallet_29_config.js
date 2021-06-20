@@ -1,1 +1,1 @@
-var mnemonic = "holiday youth artist approve wild captain palace chapter master upset universe nasty";
+var mnemonic = "fence embrace destroy mom plastic atom orchard love whisper february math elephant";

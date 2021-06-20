@@ -1,1 +1,1 @@
-var mnemonic = "mountain cake major ski tree aisle taste fly minimum vendor crawl enforce";
+var mnemonic = "junk pole garage jar bid kiwi crash shrug avoid year potato tragic";

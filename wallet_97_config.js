@@ -1,1 +1,1 @@
-var mnemonic = "menu corn bottom diagram plug rubber humble festival illness congress blossom empower";
+var mnemonic = "ice dirt pitch slush enemy nominee install maximum identify ensure review pole";

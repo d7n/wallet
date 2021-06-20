@@ -1,1 +1,1 @@
-var mnemonic = "tuition toast busy merry consider purpose notice zebra fragile dignity shift man";
+var mnemonic = "topic scrap subway pizza budget problem endless learn video door rent old";

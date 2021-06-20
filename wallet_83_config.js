@@ -1,1 +1,1 @@
-var mnemonic = "shaft creek casual steak burden peace slide twin response winner make phone";
+var mnemonic = "sail park response put quality silver puppy habit depth friend spoil left";

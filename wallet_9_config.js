@@ -1,1 +1,1 @@
-var mnemonic = "stamp crack music length crucial solution ready flight thought junior average tray";
+var mnemonic = "erosion unhappy object found mango rookie glimpse that staff allow youth ill";

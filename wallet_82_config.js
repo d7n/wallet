@@ -1,1 +1,1 @@
-var mnemonic = "similar crush provide satoshi floor sugar narrow swim first stamp endless treat";
+var mnemonic = "depend bridge oval close sadness price banner town fall what boring gas";
