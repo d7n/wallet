@@ -1,1 +1,1 @@
-var mnemonic = "major transfer rifle enroll urge mistake cradle bonus great weasel endorse illegal";
+var mnemonic = "physical canvas quote boy kite safe solve memory annual immense purity search";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich december expect harbor clay original sail expose runway best blush edge";
+var mnemonic = "blossom source suggest miracle kind theory enlist toast stand random chapter lend";

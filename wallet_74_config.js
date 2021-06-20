@@ -1,1 +1,1 @@
-var mnemonic = "maple butter garden doctor improve call bone frequent quiz basket nation nothing";
+var mnemonic = "cat awkward aware rose multiply long rubber column feed visa violin arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "patch stumble vapor rebel ramp impose blouse live during manual couch ribbon";
+var mnemonic = "eight hand gown spy speed tragic spirit joy exit humble false purity";

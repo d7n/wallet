@@ -1,1 +1,1 @@
-var mnemonic = "excuse legal clean lottery science raise deny dragon visual timber old vanish";
+var mnemonic = "quick change fortune man copper crack focus viable wise state hen hour";

@@ -1,1 +1,1 @@
-var mnemonic = "essay flee demand accident actress nasty candy smile service fiction coil person";
+var mnemonic = "other pool garlic common bulb camera turn install when butter know weather";

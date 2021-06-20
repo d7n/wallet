@@ -1,1 +1,1 @@
-var mnemonic = "chat broccoli banner fly survey north garlic beyond pulse damp liberty mask";
+var mnemonic = "stadium fossil debate keep dragon bus jeans oil pelican coyote radar relief";

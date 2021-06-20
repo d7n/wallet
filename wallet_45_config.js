@@ -1,1 +1,1 @@
-var mnemonic = "gravity behind beef yellow relax normal barrel sell rifle senior purchase demand";
+var mnemonic = "open depart lamp piece symptom neck oval flame main snack people allow";

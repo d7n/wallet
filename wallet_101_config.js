@@ -1,1 +1,1 @@
-var mnemonic = "matrix away shaft pigeon gossip hurt avocado divide size assume jewel midnight";
+var mnemonic = "airport lecture frozen quick better panda friend celery caution pride orient isolate";

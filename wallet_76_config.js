@@ -1,1 +1,1 @@
-var mnemonic = "embody still verb punch prosper target gossip oblige sing decorate pattern message";
+var mnemonic = "skull confirm discover vault entry suspect census legal arrest curtain gospel roof";

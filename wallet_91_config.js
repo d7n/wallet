@@ -1,1 +1,1 @@
-var mnemonic = "piece brass uncover return myth abstract celery jump giraffe saddle cruise year";
+var mnemonic = "poem general wait crouch afford lunar track illness canoe gadget giraffe derive";

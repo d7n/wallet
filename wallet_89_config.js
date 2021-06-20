@@ -1,1 +1,1 @@
-var mnemonic = "stamp fame deposit innocent false fun confirm giant deliver host old vehicle";
+var mnemonic = "square frost curtain purity rubber image budget summer interest office price under";

@@ -1,1 +1,1 @@
-var mnemonic = "sample size ranch bridge series crime abandon fitness luggage output muffin card";
+var mnemonic = "grass raise sting figure double initial female load tool noise cushion pyramid";

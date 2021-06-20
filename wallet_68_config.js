@@ -1,1 +1,1 @@
-var mnemonic = "rug verb tissue confirm carry unusual oven path cement manage okay chalk";
+var mnemonic = "riot drastic decrease horse surface tool already dragon garment pretty nerve west";

@@ -1,1 +1,1 @@
-var mnemonic = "south damp endless claim burger grid wealth donate multiply scatter twin february";
+var mnemonic = "music elite slide accident bread old cruel vast spin left federal submit";

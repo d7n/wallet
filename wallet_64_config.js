@@ -1,1 +1,1 @@
-var mnemonic = "water fever raccoon adjust raccoon film account anger torch stage manual forum";
+var mnemonic = "tobacco collect tenant always garden title frown hand fly time bring same";

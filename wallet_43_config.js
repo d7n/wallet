@@ -1,1 +1,1 @@
-var mnemonic = "finish tape industry you alcohol ice length head observe squirrel long law";
+var mnemonic = "december faint ginger stock case myself street dial beyond hat legal catch";

@@ -1,1 +1,1 @@
-var mnemonic = "relax often crumble magic orient spawn half report victory century tiny tornado";
+var mnemonic = "crop always arctic suspect immense horror kitten eternal picnic leg chair canal";

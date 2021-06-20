@@ -1,1 +1,1 @@
-var mnemonic = "hire auction learn people acid sail stadium daughter item nuclear brave dutch";
+var mnemonic = "dirt unaware fever below borrow toast merit exile save worth prepare spirit";

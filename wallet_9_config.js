@@ -1,1 +1,1 @@
-var mnemonic = "blue crawl alien custom yard blanket veteran fade payment cotton derive shiver";
+var mnemonic = "spider churn stick phone slender actress unlock tuna bracket chat six habit";

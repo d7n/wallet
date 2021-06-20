@@ -1,1 +1,1 @@
-var mnemonic = "light category mango wife army happy patient minimum organ sick diary boil";
+var mnemonic = "strong alpha black include order visual trend ill sponsor orbit rule tail";

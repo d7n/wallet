@@ -1,1 +1,1 @@
-var mnemonic = "retreat fault illegal know wing panda trick audit topic embark recipe example";
+var mnemonic = "mushroom media hill zebra between bird client hospital plastic balance scheme hole";

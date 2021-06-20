@@ -1,1 +1,1 @@
-var mnemonic = "upset close tribe pulse hurt hurry gorilla wagon session leaf direct dawn";
+var mnemonic = "fold flame dash make ozone casual siege uphold robust write kidney earn";

@@ -1,1 +1,1 @@
-var mnemonic = "desk kitten riot achieve pause athlete animal unlock teach display park grid";
+var mnemonic = "elevator math miracle fortune basket eternal only goose soon cancel inmate avocado";

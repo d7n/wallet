@@ -1,1 +1,1 @@
-var mnemonic = "goose chunk cook goddess found favorite jungle planet nephew virtual cluster range";
+var mnemonic = "axis position dress suit glimpse ginger cloud amount middle cage miracle pioneer";

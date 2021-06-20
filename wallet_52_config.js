@@ -1,1 +1,1 @@
-var mnemonic = "reduce vague afford security earn topple proof ill audit pilot drum daring";
+var mnemonic = "genius fade theory actor because purse rural destroy window priority latin rival";

@@ -1,1 +1,1 @@
-var mnemonic = "egg craft pony grunt very expire spend skate cabin double ride sport";
+var mnemonic = "autumn unit access rain plastic solve grape chief point reveal want cat";

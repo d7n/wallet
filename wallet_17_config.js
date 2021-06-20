@@ -1,1 +1,1 @@
-var mnemonic = "rotate screen hen dignity arctic argue bonus sting time arrow tiny poet";
+var mnemonic = "gold quit dust brick reopen chronic equip fury sniff travel acquire text";

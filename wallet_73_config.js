@@ -1,1 +1,1 @@
-var mnemonic = "giraffe wet hunt charge hour differ measure milk clever response north prepare";
+var mnemonic = "wild lion pole around drift camera deny sunset matter deposit harbor ride";

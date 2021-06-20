@@ -1,1 +1,1 @@
-var mnemonic = "debris cattle crazy resist maid climb they vacant that clump mimic perfect";
+var mnemonic = "shaft pigeon delay miracle pudding expect early fringe shadow prevent rich weekend";

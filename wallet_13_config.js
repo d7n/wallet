@@ -1,1 +1,1 @@
-var mnemonic = "cup tomorrow shoe range second bulb onion outer time accuse produce review";
+var mnemonic = "gentle into laundry sea suit alley swap snow easily magnet concert festival";

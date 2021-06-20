@@ -1,1 +1,1 @@
-var mnemonic = "ivory paddle fruit ankle busy silly auction face guilt repeat hurdle peanut";
+var mnemonic = "zone fun oil helmet elite coyote doctor final radar discover loud topple";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs treat business creek fashion cement area media mind prize use champion";
+var mnemonic = "ignore soul sleep funny secret fade track lizard shoot choice brown render";

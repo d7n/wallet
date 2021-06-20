@@ -1,1 +1,1 @@
-var mnemonic = "glance one cave author river process sell rural thing road stadium tunnel";
+var mnemonic = "match police dentist among egg drive wise monkey flock copper monkey corn";

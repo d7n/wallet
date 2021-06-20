@@ -1,1 +1,1 @@
-var mnemonic = "opera dice host brother explain check iron damp edit west scout fancy";
+var mnemonic = "frame train fossil neutral produce bid bracket pet pelican globe access give";

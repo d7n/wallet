@@ -1,1 +1,1 @@
-var mnemonic = "cool surround web enter play power cliff child knee area material latin";
+var mnemonic = "letter method mistake divide enact adult cupboard reject survey right shuffle write";

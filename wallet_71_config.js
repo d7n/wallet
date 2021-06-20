@@ -1,1 +1,1 @@
-var mnemonic = "lonely wet stage pipe census negative category decorate sound abuse boil country";
+var mnemonic = "pupil heart special loyal wink maximum column any indoor lunch trumpet skirt";

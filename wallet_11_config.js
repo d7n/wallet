@@ -1,1 +1,1 @@
-var mnemonic = "purity matter razor forest zero annual forum violin elegant invite achieve struggle";
+var mnemonic = "word loyal reject skill salute marine drastic bargain report firm able medal";

@@ -1,1 +1,1 @@
-var mnemonic = "document mass soon hollow guilt bleak ivory walnut country crime roof cage";
+var mnemonic = "bike gain nothing woman crop claim sing reform sweet obtain hint century";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony mechanic magic question wood ten office merry sunny master spatial tennis";
+var mnemonic = "trap cabbage idea virtual shield effort process lounge fringe clap affair minor";

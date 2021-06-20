@@ -1,1 +1,1 @@
-var mnemonic = "donate filter firm path two exchange act carpet shove one hurry magic";
+var mnemonic = "decrease night town midnight layer false cute increase trouble fortune chuckle lazy";

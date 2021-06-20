@@ -1,1 +1,1 @@
-var mnemonic = "tennis doctor neither term agree usage program cloud thing sell diary correct";
+var mnemonic = "glass various noble leopard merge win sorry silk summer grab memory limb";

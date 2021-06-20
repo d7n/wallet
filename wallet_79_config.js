@@ -1,1 +1,1 @@
-var mnemonic = "juice excuse window find alert embark room remember hedgehog layer lend stand";
+var mnemonic = "impact scorpion awake march decorate casual cart wire gloom climb forward mind";

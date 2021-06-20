@@ -1,1 +1,1 @@
-var mnemonic = "receive weasel before grape undo taste jazz half sentence grunt swing alert";
+var mnemonic = "exit leg rally aerobic west cricket vacant gold accident grass color awesome";

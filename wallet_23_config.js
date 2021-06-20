@@ -1,1 +1,1 @@
-var mnemonic = "thunder float never kite ladder drink recipe camera shoot mean step pelican";
+var mnemonic = "bullet thing critic resist genre still gasp broccoli you join demand tornado";

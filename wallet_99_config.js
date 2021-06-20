@@ -1,1 +1,1 @@
-var mnemonic = "kiss coach whip awake absurd various among release unaware that hello monkey";
+var mnemonic = "ready crazy gun crunch cover case deliver million test gather audit cloth";

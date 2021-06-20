@@ -1,1 +1,1 @@
-var mnemonic = "stool quality snack caution lamp ready age reform swallow mom creek push";
+var mnemonic = "hungry gift column celery grid holiday task satoshi circle accident cost stamp";

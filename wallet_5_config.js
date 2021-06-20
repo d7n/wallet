@@ -1,1 +1,1 @@
-var mnemonic = "bridge dirt limb situate borrow reflect denial stumble urban barely grow word";
+var mnemonic = "general aerobic address basic neither ethics stick promote genre lawn next arrest";

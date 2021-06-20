@@ -1,1 +1,1 @@
-var mnemonic = "speak cart valve arrow column snack swim clay jacket spoil forward custom";
+var mnemonic = "blood patient rug fame peanut leaf either afford pet try monkey target";

@@ -1,1 +1,1 @@
-var mnemonic = "rule open afford suggest loud glide pupil box avocado wave dutch tree";
+var mnemonic = "soap fatal hybrid explain broom couple flee bright muffin wall year nut";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty error desk black soap ranch parrot today glide sail near wave";
+var mnemonic = "special tooth blossom nut pudding stairs flash idea stand metal source among";

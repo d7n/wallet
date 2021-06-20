@@ -1,1 +1,1 @@
-var mnemonic = "olympic pill spot gravity neglect stereo craft cigar adjust bunker common spread";
+var mnemonic = "throw unique remember now senior mind become home picnic garden calm elite";

@@ -1,1 +1,1 @@
-var mnemonic = "bicycle ozone oyster grass hair potato promote job session bike mean tonight";
+var mnemonic = "decline walnut wave property slush cattle test rescue blade reform final any";

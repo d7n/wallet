@@ -1,1 +1,1 @@
-var mnemonic = "human cinnamon artefact gallery grace local wage curtain copy false dirt february";
+var mnemonic = "peasant basic slush unfair knife identify ball age fall focus off ceiling";

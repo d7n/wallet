@@ -1,1 +1,1 @@
-var mnemonic = "public boost box awesome secret clump globe coyote glove slab car stem";
+var mnemonic = "neutral lyrics top venture mercy bundle august target system ring aunt ensure";

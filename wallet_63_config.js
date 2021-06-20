@@ -1,1 +1,1 @@
-var mnemonic = "liar crystal direct dad dance mean ready there wild clap milk city";
+var mnemonic = "minimum hollow fortune gown tired minute like cart embrace creek soon then";

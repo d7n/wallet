@@ -1,1 +1,1 @@
-var mnemonic = "crouch adjust cloud wreck infant caution neglect omit affair when panel minimum";
+var mnemonic = "pulp nerve excess cluster brain unveil inch stairs fortune winter absent dance";

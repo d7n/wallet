@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog useless hope brick future work outdoor build harsh tent key seven";
+var mnemonic = "onion carbon motion reunion creek dust famous struggle argue noble couch point";

@@ -1,1 +1,1 @@
-var mnemonic = "myth limb jacket cement bean reason cross become start gallery heart gas";
+var mnemonic = "talent prison height remember short eternal picture panda siren cat type lecture";

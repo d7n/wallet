@@ -1,1 +1,1 @@
-var mnemonic = "inquiry damage also talk turn simple dice city series enable ghost drink";
+var mnemonic = "skate rate tribe bring tumble grape brand spirit consider midnight muffin radar";

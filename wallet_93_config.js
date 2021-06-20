@@ -1,1 +1,1 @@
-var mnemonic = "fold second erosion zoo dry found toy modify eyebrow surround into symbol";
+var mnemonic = "payment flower skate fit middle observe manage indicate mad right dad group";

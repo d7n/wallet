@@ -1,1 +1,1 @@
-var mnemonic = "spider fiction zero tenant champion win question beach educate prize become honey";
+var mnemonic = "sea adult beauty ship hobby resource sad usual critic scatter bench cloth";

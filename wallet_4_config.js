@@ -1,1 +1,1 @@
-var mnemonic = "boat like trigger frozen absent index expand during caution spread loud payment";
+var mnemonic = "fossil void budget flavor already car shock shoe label truth fix skirt";

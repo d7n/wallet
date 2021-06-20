@@ -1,1 +1,1 @@
-var mnemonic = "discover involve stay spice rail easily steak medal artist leaf mother behave";
+var mnemonic = "explain dinner coin hidden flush chase lesson melt cage divorce timber move";

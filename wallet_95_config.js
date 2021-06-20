@@ -1,1 +1,1 @@
-var mnemonic = "tape need thunder flush valid phrase hobby plate tell strike guard defense";
+var mnemonic = "husband squirrel neglect faculty town delay supreme seminar ski beauty crisp slice";

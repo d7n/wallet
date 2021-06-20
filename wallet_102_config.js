@@ -1,1 +1,1 @@
-var mnemonic = "this alpha dentist settle soap field borrow frequent mercy ball artefact gloom";
+var mnemonic = "double feed name satoshi dry sibling laptop spoil room endorse tired pulse";

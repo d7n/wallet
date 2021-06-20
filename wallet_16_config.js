@@ -1,1 +1,1 @@
-var mnemonic = "net friend blade mean know tuition dwarf blush section trial decide cotton";
+var mnemonic = "clock year include involve can birth auction inmate fame lizard decline vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "pave lumber dance critic violin amount pistol album curve correct always only";
+var mnemonic = "suffer recipe broken echo midnight card machine flip ocean left huge champion";

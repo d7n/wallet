@@ -1,1 +1,1 @@
-var mnemonic = "tongue salmon hand thing bright eyebrow assist pattern abstract filter pledge neutral";
+var mnemonic = "error beauty upset attack suffer cat wealth path cube gospel major essence";

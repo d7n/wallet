@@ -1,1 +1,1 @@
-var mnemonic = "anger west emerge crunch tortoise lyrics spoil stuff turn soccer govern sponsor";
+var mnemonic = "exhibit multiply run cover earn example zero home uncover service wool catalog";

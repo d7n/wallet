@@ -1,1 +1,1 @@
-var mnemonic = "farm utility lizard art abandon pig risk pelican inform rail bottom upon";
+var mnemonic = "news column sudden gauge orbit camera say modify deliver reflect rent lonely";

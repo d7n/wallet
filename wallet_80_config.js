@@ -1,1 +1,1 @@
-var mnemonic = "surprise tide guess tip very afford myth predict hub execute carry forget";
+var mnemonic = "female they donkey kit artefact tenant edit elbow deer maid vibrant rib";

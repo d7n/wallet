@@ -1,1 +1,1 @@
-var mnemonic = "aerobic trip century lock control merry spike either expire people deny mean";
+var mnemonic = "core stay trick ritual peasant ahead govern double alien flip any axis";

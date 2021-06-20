@@ -1,1 +1,1 @@
-var mnemonic = "swift bus vote bring cheap rescue staff sugar load twist fuel consider";
+var mnemonic = "tortoise heart coconut club coffee state wedding own uniform fabric boil typical";

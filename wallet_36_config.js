@@ -1,1 +1,1 @@
-var mnemonic = "tackle adjust pass uncle promote news inside erode lumber metal cancel carbon";
+var mnemonic = "luxury buffalo music uncover stereo auto whisper elite tissue demise kind jazz";

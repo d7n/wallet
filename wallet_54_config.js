@@ -1,1 +1,1 @@
-var mnemonic = "bleak mechanic luggage evil churn update ready achieve scrub train pact faint";
+var mnemonic = "wagon unveil erupt trim ready energy body belt volume rack early skill";

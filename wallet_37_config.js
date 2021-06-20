@@ -1,1 +1,1 @@
-var mnemonic = "actor dog shallow wine tribe still toward churn monkey tired fresh cruise";
+var mnemonic = "jelly piano river next suffer view illegal cover inspire enact picnic mosquito";

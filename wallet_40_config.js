@@ -1,1 +1,1 @@
-var mnemonic = "insane raw ship design thank dress business file flight talk soup embark";
+var mnemonic = "knife deer outer great oval tonight orient dish pause innocent antique art";

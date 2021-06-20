@@ -1,1 +1,1 @@
-var mnemonic = "bullet moment soccer live creek cricket twelve thing close judge cake pear";
+var mnemonic = "plug end pull sad cram barely polar cable position buffalo employ next";

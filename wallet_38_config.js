@@ -1,1 +1,1 @@
-var mnemonic = "sense output sort approve purchase note satisfy orange army curtain crash mom";
+var mnemonic = "brain taste undo chest armor unfold defense assume enlist enjoy mystery enact";

@@ -1,1 +1,1 @@
-var mnemonic = "frost staff ticket reflect club alert hub dentist tape grant depend burden";
+var mnemonic = "describe remain leopard vehicle shop bunker south obscure aunt what equal exit";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip pelican apple bid own pelican trash blood water bachelor soda recall";
+var mnemonic = "humble mansion penalty false move baby soup sort enjoy position alien else";

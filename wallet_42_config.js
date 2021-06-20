@@ -1,1 +1,1 @@
-var mnemonic = "color endorse air chair silly multiply network lion intact empower potato dice";
+var mnemonic = "roast engage utility twin safe pigeon hip hover spawn decorate run smart";

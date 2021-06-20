@@ -1,1 +1,1 @@
-var mnemonic = "arctic column tip lecture disorder cram judge vital rotate usage inside exist";
+var mnemonic = "speed satisfy okay inform virtual kiwi novel today aunt napkin congress nose";

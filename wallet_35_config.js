@@ -1,1 +1,1 @@
-var mnemonic = "senior spin monster van punch deal forward drama reward awkward post stereo";
+var mnemonic = "garlic crush want error doll bounce that finger search gown vehicle family";

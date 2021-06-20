@@ -1,1 +1,1 @@
-var mnemonic = "entire polar whisper badge cactus ship club deputy improve depend isolate guess";
+var mnemonic = "fine control movie trip ghost pilot twenty income drip pencil high arrange";

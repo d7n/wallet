@@ -1,1 +1,1 @@
-var mnemonic = "frozen bacon scatter unhappy industry rigid matter tray gravity lobster blossom faculty";
+var mnemonic = "paddle used enemy law festival foster supply nature blouse penalty fiber awake";

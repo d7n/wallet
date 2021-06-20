@@ -1,1 +1,1 @@
-var mnemonic = "shift mixed flavor bright praise wife gas warfare follow morning broom heavy";
+var mnemonic = "buddy virus toast hair pottery genuine kangaroo action rare name hero rural";

@@ -1,1 +1,1 @@
-var mnemonic = "firm praise swamp spy orchard case fetch clean travel heart insect program";
+var mnemonic = "soul rocket vicious hamster absurd gesture hello catch ticket two air scatter";

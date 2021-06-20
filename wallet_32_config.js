@@ -1,1 +1,1 @@
-var mnemonic = "fish riot range never keen earn genre churn absent hero mushroom month";
+var mnemonic = "carbon day also almost kitchen immune gesture biology busy multiply hire harsh";

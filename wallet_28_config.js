@@ -1,1 +1,1 @@
-var mnemonic = "stadium unable spoil base plate wonder already alone buffalo federal priority volume";
+var mnemonic = "skin note patient satoshi aim fancy shuffle wait neither aim water favorite";

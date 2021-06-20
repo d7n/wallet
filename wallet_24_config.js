@@ -1,1 +1,1 @@
-var mnemonic = "solution between potato three foam blossom slam glare neutral entry champion depart";
+var mnemonic = "suit adjust endorse short lounge seat any smooth illness split word bean";

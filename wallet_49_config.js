@@ -1,1 +1,1 @@
-var mnemonic = "rural first dream resource surprise clog butter snake sense park want theme";
+var mnemonic = "tail myth assault urge verify weather wedding account able crime symptom glory";

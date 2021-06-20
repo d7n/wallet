@@ -1,1 +1,1 @@
-var mnemonic = "like medal beyond conduct owner snack shallow silly remain kite vast excuse";
+var mnemonic = "basket torch coconut narrow street wisdom slogan shop stumble matter naive slush";

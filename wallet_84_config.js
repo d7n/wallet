@@ -1,1 +1,1 @@
-var mnemonic = "display anchor system repeat become sell doll drip fetch meadow shallow cluster";
+var mnemonic = "very absent medal disagree icon vivid duck tomato napkin actress eternal fault";

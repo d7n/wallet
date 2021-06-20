@@ -1,1 +1,1 @@
-var mnemonic = "service waste quarter civil lab scrap trap custom fit april admit absorb";
+var mnemonic = "response display away size coral angle chicken expect half page since educate";

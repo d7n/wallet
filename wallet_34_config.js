@@ -1,1 +1,1 @@
-var mnemonic = "unusual tenant room swap hope couch horn myself twice supply crush battle";
+var mnemonic = "embark note arrive cute random surround note brave access manage sunset because";

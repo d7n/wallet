@@ -1,1 +1,1 @@
-var mnemonic = "focus hockey text weasel injury anchor river eye script plug spider flat";
+var mnemonic = "cheap tattoo skin own park mail scan wrong aunt solve other horror";

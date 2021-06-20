@@ -1,1 +1,1 @@
-var mnemonic = "author invite law heart rather fault kiwi sponsor sibling similar era learn";
+var mnemonic = "ghost farm enhance floor bounce slide pluck base cat teach galaxy syrup";
