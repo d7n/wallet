@@ -1,1 +1,1 @@
-var mnemonic = "limb unknown uncle round bleak slam select hand miss guitar flower prevent";
+var mnemonic = "artist radar pull member fabric undo glimpse impact pledge rabbit transfer polar";

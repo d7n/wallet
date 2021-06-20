@@ -1,1 +1,1 @@
-var mnemonic = "drama insane motor crack dash monitor organ crumble pencil bullet vault million";
+var mnemonic = "arrange news install whisper excess wrestle sick forward return work evoke crop";

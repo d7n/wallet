@@ -1,1 +1,1 @@
-var mnemonic = "awesome blue merit autumn bounce cross west suspect hurry fault enroll hover";
+var mnemonic = "dilemma minimum glide gauge outdoor dutch anger bind puppy daughter under orient";

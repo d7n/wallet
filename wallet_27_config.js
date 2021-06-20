@@ -1,1 +1,1 @@
-var mnemonic = "morning devote crater what find insect wonder menu across online horse client";
+var mnemonic = "actor bench friend minimum result reduce wash ordinary canal actor breeze depart";

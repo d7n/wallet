@@ -1,1 +1,1 @@
-var mnemonic = "foster giggle deny simple february similar nest narrow employ they soldier giggle";
+var mnemonic = "wall ribbon route large come net rib crew sausage great water exercise";

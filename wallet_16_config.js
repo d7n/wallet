@@ -1,1 +1,1 @@
-var mnemonic = "faint sausage doll awake sock thunder kite produce blade response swing shiver";
+var mnemonic = "brain able save recipe dog nurse museum model follow peasant piece rain";

@@ -1,1 +1,1 @@
-var mnemonic = "educate joke crawl behave spread catalog demise duck core stick tragic wet";
+var mnemonic = "purse assault hybrid process please impulse elegant cook category engine reform used";

@@ -1,1 +1,1 @@
-var mnemonic = "limb reunion moon century permit dress auction toast diesel transfer yellow camera";
+var mnemonic = "already collect base vehicle custom angle force interest tilt theme next denial";

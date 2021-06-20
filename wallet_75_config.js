@@ -1,1 +1,1 @@
-var mnemonic = "camp flower tongue foam reveal input model grace novel control casino dawn";
+var mnemonic = "name close assault hawk taste oyster obscure gesture theme manual situate dose";

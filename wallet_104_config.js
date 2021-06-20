@@ -1,1 +1,1 @@
-var mnemonic = "wave opinion raccoon next worth subject bag merit fringe also quarter fit";
+var mnemonic = "stumble essence dragon stamp sauce hard place bird skirt slab reveal grant";

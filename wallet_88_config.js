@@ -1,1 +1,1 @@
-var mnemonic = "doll ski screen subject duty edge dust coast river night submit cherry";
+var mnemonic = "glimpse yellow embrace fluid dress language awesome little history favorite harvest federal";

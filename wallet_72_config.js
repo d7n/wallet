@@ -1,1 +1,1 @@
-var mnemonic = "ceiling diagram amazing jaguar walk race exact angry pair fault decade just";
+var mnemonic = "ability initial sausage holiday mixture flock place vendor pyramid nice isolate goose";

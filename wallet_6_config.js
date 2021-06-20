@@ -1,1 +1,1 @@
-var mnemonic = "slogan humble awesome rather banana true select rival text zebra shed wait";
+var mnemonic = "public proof rate hazard border vintage air body toe daughter lumber diet";

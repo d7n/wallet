@@ -1,1 +1,1 @@
-var mnemonic = "mobile luxury cave worth accident next lava excess price swift wish you";
+var mnemonic = "rigid never talk jealous indoor elevator relief lesson winner shallow hard please";

@@ -1,1 +1,1 @@
-var mnemonic = "subject chapter garbage pond certain track destroy sponsor else veteran hood wink";
+var mnemonic = "cloth cousin lens wrestle wear scatter tobacco urban warm wolf trim fringe";

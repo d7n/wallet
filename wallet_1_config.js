@@ -1,1 +1,1 @@
-var mnemonic = "river giraffe poverty aim recycle ramp camera regret simple neither choose document";
+var mnemonic = "excuse cupboard squeeze spoil school unhappy cousin wide bridge donate heavy sick";

@@ -1,1 +1,1 @@
-var mnemonic = "glad wonder pull tool region dismiss fan infant live total knee good";
+var mnemonic = "liquid execute error input limit pilot base start entire cruel arch merge";

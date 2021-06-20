@@ -1,1 +1,1 @@
-var mnemonic = "north idle display amused mushroom else fan adapt target curious pen chicken";
+var mnemonic = "van add normal armor shallow fade unfold budget moon floor sheriff few";

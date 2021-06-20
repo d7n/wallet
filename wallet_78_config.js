@@ -1,1 +1,1 @@
-var mnemonic = "cool until chunk ability chronic dune adjust pond state daring kingdom void";
+var mnemonic = "crowd chimney view sphere float attack hover explain radio grape axis asset";

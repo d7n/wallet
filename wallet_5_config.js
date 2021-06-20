@@ -1,1 +1,1 @@
-var mnemonic = "common word taxi unit aspect atom style nominee huge diagram original click";
+var mnemonic = "zebra strong sample lava nut cluster avoid isolate curve army oxygen slam";

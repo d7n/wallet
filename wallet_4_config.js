@@ -1,1 +1,1 @@
-var mnemonic = "employ relief water blood body agent high initial another benefit leisure fire";
+var mnemonic = "ketchup tornado hood drum mountain artefact hybrid vintage december increase tilt fish";

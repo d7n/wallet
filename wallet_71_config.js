@@ -1,1 +1,1 @@
-var mnemonic = "biology fold already time junior canyon tool science cattle wire avoid dynamic";
+var mnemonic = "destroy fire prison honey rabbit tent powder gallery meat try receive soda";

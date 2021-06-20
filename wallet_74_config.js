@@ -1,1 +1,1 @@
-var mnemonic = "awful knife maximum airport six pepper identify private indoor season balcony century";
+var mnemonic = "buddy work oxygen account enjoy sound hamster expose social trip close seat";

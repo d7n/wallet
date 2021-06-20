@@ -1,1 +1,1 @@
-var mnemonic = "update wire unfold cement clever ready member million gather course frog blanket";
+var mnemonic = "deliver process old erase next grief track enroll option couch debate dirt";

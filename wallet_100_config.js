@@ -1,1 +1,1 @@
-var mnemonic = "sound crucial math job struggle umbrella crouch marble carpet absurd paddle machine";
+var mnemonic = "symptom brief tongue mask blush slot wild segment few net clay goose";

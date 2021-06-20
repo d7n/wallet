@@ -1,1 +1,1 @@
-var mnemonic = "yard into bomb between leg phone surround play coast lunar hamster salute";
+var mnemonic = "snake chief above copy mom average host bundle junk holiday eyebrow short";

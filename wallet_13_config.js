@@ -1,1 +1,1 @@
-var mnemonic = "stool bring stone cat venue butter royal walnut apple casual before soft";
+var mnemonic = "comic mass shield chaos hidden season eager trophy record increase busy fragile";

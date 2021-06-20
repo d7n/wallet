@@ -1,1 +1,1 @@
-var mnemonic = "bright gaze furnace gallery mule doll flush ghost quiz bargain rubber exhaust";
+var mnemonic = "silent city mix clap patch opinion behave army coyote horse angry shield";

@@ -1,1 +1,1 @@
-var mnemonic = "clay million loyal cage what reopen rent fault dial glad fee ugly";
+var mnemonic = "volcano fade path boat useful tag release feature gain nasty install mosquito";

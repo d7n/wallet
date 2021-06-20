@@ -1,1 +1,1 @@
-var mnemonic = "special unfold chaos west flower lunch famous song mountain trip lounge course";
+var mnemonic = "aerobic medal affair display annual flower depend upgrade skin blur domain vessel";

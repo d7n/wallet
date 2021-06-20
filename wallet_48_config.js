@@ -1,1 +1,1 @@
-var mnemonic = "then confirm mouse lava market hedgehog certain budget family student display album";
+var mnemonic = "elegant fossil shrug undo range hazard charge market kidney person balcony luggage";

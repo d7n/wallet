@@ -1,1 +1,1 @@
-var mnemonic = "rifle vague pear ivory cup margin tornado state rug remember rely coil";
+var mnemonic = "violin clump skate any route asthma ancient behind turtle lottery cage come";

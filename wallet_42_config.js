@@ -1,1 +1,1 @@
-var mnemonic = "plunge tank erase denial antenna orbit timber since middle rifle crew crane";
+var mnemonic = "lounge follow system whip unlock retreat liar trip timber ivory roof trade";

@@ -1,1 +1,1 @@
-var mnemonic = "wool blame fine critic element step increase oppose void muffin donkey squeeze";
+var mnemonic = "ball course faculty cradle axis wait ancient grow floor parrot swift blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "cable window own shove outdoor clay siege soccer edge quiz plug minimum";
+var mnemonic = "carbon decorate volcano hill web march loud jeans eight wire romance head";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe example problem faith display orphan leopard vocal board million false embark";
+var mnemonic = "process federal emerge require pull write brown champion satisfy detail wire display";

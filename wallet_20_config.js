@@ -1,1 +1,1 @@
-var mnemonic = "soon genius exhibit frame gas leave endorse keen captain retreat business drop";
+var mnemonic = "old hundred fiscal hungry tower number pen enemy hand wash monitor system";

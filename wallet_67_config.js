@@ -1,1 +1,1 @@
-var mnemonic = "note rib maze output napkin tape reason bless soldier into witness expire";
+var mnemonic = "little immense sponsor reopen excuse grief fiber hockey shaft wagon weather speak";

@@ -1,1 +1,1 @@
-var mnemonic = "truck laugh garlic afraid tide afraid rigid quiz copper urge whip food";
+var mnemonic = "minor vicious long blood story velvet monkey toss ugly session scare chef";

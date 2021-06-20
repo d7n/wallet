@@ -1,1 +1,1 @@
-var mnemonic = "couple erase smart credit useful carry route animal plug visa photo adapt";
+var mnemonic = "eager leaf super click also debate glimpse mistake mountain broken wrong stuff";

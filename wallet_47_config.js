@@ -1,1 +1,1 @@
-var mnemonic = "unlock reject clever foot vague unit multiply frog crawl glide welcome physical";
+var mnemonic = "pupil exhibit weather choice lake impose birth wall ice area student fiber";

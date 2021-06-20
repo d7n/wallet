@@ -1,1 +1,1 @@
-var mnemonic = "force powder hip blue faith radar couch nose lonely jeans undo tilt";
+var mnemonic = "bar bubble timber solid dignity move sauce hill switch wine lens file";

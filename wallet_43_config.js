@@ -1,1 +1,1 @@
-var mnemonic = "fantasy prize select boy viable inject this method winner slight simple huge";
+var mnemonic = "tooth eight fatigue west ankle uniform immense super skin meat route farm";

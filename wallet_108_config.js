@@ -1,1 +1,1 @@
-var mnemonic = "proud either more license goose again random genuine miracle seat trouble caution";
+var mnemonic = "kite tobacco suggest alpha derive iron beach risk mind average badge culture";

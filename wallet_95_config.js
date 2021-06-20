@@ -1,1 +1,1 @@
-var mnemonic = "own there drink wasp chuckle comfort spoon swarm prison tobacco river biology";
+var mnemonic = "ketchup forest swing west main frost elbow order science gallery face unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "small stool regret brief video catch check setup broken book between helmet";
+var mnemonic = "paper cry lake burger south bundle sunset tenant mammal depart fine try";

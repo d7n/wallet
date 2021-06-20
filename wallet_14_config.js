@@ -1,1 +1,1 @@
-var mnemonic = "birth this vanish select allow front guilt property public lend seminar secret";
+var mnemonic = "lazy hat code neutral cousin logic sister enable push bag differ myself";

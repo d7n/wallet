@@ -1,1 +1,1 @@
-var mnemonic = "group radar walnut inform army switch cube female since universe reveal system";
+var mnemonic = "way super stuff quote youth people notice dog shine opinion eagle detect";

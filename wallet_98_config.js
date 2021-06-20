@@ -1,1 +1,1 @@
-var mnemonic = "galaxy cause sell small only bulk laugh silk dinosaur limb marble space";
+var mnemonic = "hard loud ankle inspire exist enact release capable curious rely build shaft";

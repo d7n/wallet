@@ -1,1 +1,1 @@
-var mnemonic = "pitch punch cheese stand green diary museum message access hybrid sibling sort";
+var mnemonic = "orient enemy shove know diamond ridge march kiss upset crew clump yard";

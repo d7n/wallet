@@ -1,1 +1,1 @@
-var mnemonic = "senior mother put kid eagle miracle hedgehog gown glimpse oval betray tag";
+var mnemonic = "glare item lock slot vote hello calm faith clown choose giraffe shoulder";

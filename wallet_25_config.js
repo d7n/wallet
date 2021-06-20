@@ -1,1 +1,1 @@
-var mnemonic = "clinic switch filter neutral sense expire tunnel enforce ready clutch oyster kitchen";
+var mnemonic = "donkey below throw patrol long hello drill address broken speak addict bargain";

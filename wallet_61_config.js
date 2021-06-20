@@ -1,1 +1,1 @@
-var mnemonic = "chronic cover sister basic brother task evolve palm insane click pipe stamp";
+var mnemonic = "only lift solar exclude grain horse clock walk stomach doll zone library";

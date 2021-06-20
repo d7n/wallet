@@ -1,1 +1,1 @@
-var mnemonic = "crawl beef access badge render dinner eagle eye thunder correct spend brown";
+var mnemonic = "firm produce box coconut about spin treat neutral note acquire pitch cage";

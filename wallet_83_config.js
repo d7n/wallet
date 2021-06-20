@@ -1,1 +1,1 @@
-var mnemonic = "scout lemon section exit miracle blanket mass require disagree right type guess";
+var mnemonic = "timber record tuna rabbit ticket shed audit gauge theory entry bunker mule";

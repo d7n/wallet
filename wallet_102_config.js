@@ -1,1 +1,1 @@
-var mnemonic = "table slice pony cup plug lyrics jeans arena fiscal ceiling six fiscal";
+var mnemonic = "magic more cage taste churn police leader absorb oven city bonus volume";

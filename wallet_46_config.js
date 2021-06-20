@@ -1,1 +1,1 @@
-var mnemonic = "whale plunge switch sibling arch tiny pause nerve donate misery crumble siren";
+var mnemonic = "tuna timber remain roast leopard novel inmate kangaroo play illegal team grab";

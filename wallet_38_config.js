@@ -1,1 +1,1 @@
-var mnemonic = "alien domain praise elephant floor open boil husband chair park increase decline";
+var mnemonic = "survey cup define swift assume giant cart marble palm have repeat loan";

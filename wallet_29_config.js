@@ -1,1 +1,1 @@
-var mnemonic = "chapter text chat music comfort table winner renew bamboo pair other when";
+var mnemonic = "orchard camera income piano polar census lecture edit tuition proof raw two";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit phone error casual measure pyramid aspect affair cake symptom nation tobacco";
+var mnemonic = "robot oxygen suspect square gown hurdle coin concert split economy suffer spray";

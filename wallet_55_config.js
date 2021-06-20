@@ -1,1 +1,1 @@
-var mnemonic = "genius warfare force hen stick sing excite fuel river oval outside east";
+var mnemonic = "man tide once history divert school price second spy mix radar left";

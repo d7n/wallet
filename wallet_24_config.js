@@ -1,1 +1,1 @@
-var mnemonic = "danger grace join cross select diet result special flock noise mammal music";
+var mnemonic = "crunch inhale steel vessel large wing arrive script gate decade clinic feel";

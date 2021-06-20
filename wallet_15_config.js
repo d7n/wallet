@@ -1,1 +1,1 @@
-var mnemonic = "glove attend month firm lounge such fall inhale garden inside vapor pottery";
+var mnemonic = "item grit frog ring grass govern space sketch limit river trend plastic";

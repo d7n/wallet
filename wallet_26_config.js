@@ -1,1 +1,1 @@
-var mnemonic = "drop wish beyond story much shy another come rough subway magic verify";
+var mnemonic = "prison mirror juice rotate goat gasp taxi turkey razor panel island corn";

@@ -1,1 +1,1 @@
-var mnemonic = "clap kit dish episode check vibrant height biology guard practice stay sorry";
+var mnemonic = "sword pulp plug drama bless body slight annual unveil thrive debris clap";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp cattle require art army empty toss arrive story purse surprise divorce";
+var mnemonic = "ethics guide outdoor wear begin panel venture actor robust comic glad arch";

@@ -1,1 +1,1 @@
-var mnemonic = "fade police flame negative clown fold help staff cousin refuse alarm citizen";
+var mnemonic = "insane humble logic major accident amateur veteran prize silly human basket dress";

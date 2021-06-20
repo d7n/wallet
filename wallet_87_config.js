@@ -1,1 +1,1 @@
-var mnemonic = "shadow congress fancy flock arrest high switch few voyage wall gold sunset";
+var mnemonic = "escape rain rich bulb afraid bundle turtle hill daring lucky used pull";

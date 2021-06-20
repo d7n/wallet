@@ -1,1 +1,1 @@
-var mnemonic = "margin owner run need cricket deer true unfair winner clap logic excess";
+var mnemonic = "praise come dust boy guilt label course claw resource fade plunge resource";

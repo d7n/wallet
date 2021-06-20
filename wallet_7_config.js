@@ -1,1 +1,1 @@
-var mnemonic = "alter position know ginger lend pudding crucial upset month exist stage powder";
+var mnemonic = "emotion toddler ramp oven radio fat culture void stool toss notable trash";

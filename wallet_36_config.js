@@ -1,1 +1,1 @@
-var mnemonic = "knee dinosaur supply fashion plastic fantasy clerk grace search can approve apology";
+var mnemonic = "ability crater elder illegal punch win radar happy obscure analyst sauce athlete";

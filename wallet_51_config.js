@@ -1,1 +1,1 @@
-var mnemonic = "claw appear aware before menu travel pear royal almost fantasy permit glass";
+var mnemonic = "vast pottery inhale recall miss talent behind rescue describe exhaust envelope blush";

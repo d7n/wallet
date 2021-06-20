@@ -1,1 +1,1 @@
-var mnemonic = "valve way young jewel poem disease multiply pattern liberty finish remove gadget";
+var mnemonic = "legend innocent crash verb two slogan forward roast sheriff coin slab copy";

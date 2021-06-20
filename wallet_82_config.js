@@ -1,1 +1,1 @@
-var mnemonic = "combine fox accuse divorce lake grant creek enemy creek stomach park half";
+var mnemonic = "lottery mixed place goddess gasp face empower much legal tackle antique peanut";

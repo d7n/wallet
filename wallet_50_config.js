@@ -1,1 +1,1 @@
-var mnemonic = "penalty decrease front name worry finish worry wonder object follow talk afraid";
+var mnemonic = "rude raise tortoise promote gain erode black since echo elephant fabric penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor summer acoustic animal fence coral cover park verify safe surround yard";
+var mnemonic = "lens mandate reform jump minor violin write inner color feature fatigue awake";

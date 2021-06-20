@@ -1,1 +1,1 @@
-var mnemonic = "mention secret witness uphold jeans example sorry erode rough baby acoustic shallow";
+var mnemonic = "tag snow always weekend athlete sausage tray crucial exact biology sugar liberty";

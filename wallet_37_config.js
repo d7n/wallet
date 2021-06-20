@@ -1,1 +1,1 @@
-var mnemonic = "zoo raven want nose stuff drop predict acquire menu know business action";
+var mnemonic = "divorce main help choose divide clarify observe glue luxury wave work ride";

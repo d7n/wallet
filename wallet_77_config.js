@@ -1,1 +1,1 @@
-var mnemonic = "broken piano stay live force maple time degree twist sign air announce";
+var mnemonic = "motion word inhale project soul danger iron tiger repair surface twelve black";

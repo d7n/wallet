@@ -1,1 +1,1 @@
-var mnemonic = "device crush knife popular happy maximum prefer price winner sister share finger";
+var mnemonic = "total among unknown lamp jaguar surge among night marble result upgrade yellow";

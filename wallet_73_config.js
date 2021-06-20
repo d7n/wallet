@@ -1,1 +1,1 @@
-var mnemonic = "magnet flip absorb cup bronze roast mechanic mirror hire capable sunset census";
+var mnemonic = "rice creek close another broken chase trial stay inhale simple trigger say";

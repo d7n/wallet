@@ -1,1 +1,1 @@
-var mnemonic = "tell diary charge extra pledge swift card evoke seed toward fix alter";
+var mnemonic = "absorb bachelor rebuild bomb frequent ostrich silk kidney valley hard urge vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "silver awake friend blind vanish sphere few husband diagram stuff magnet crouch";
+var mnemonic = "awful better disease celery silly cheese scout useful horn autumn limb black";

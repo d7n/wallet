@@ -1,1 +1,1 @@
-var mnemonic = "deliver diary border genre else tone auto wrap vacuum kitchen shop olive";
+var mnemonic = "inform accuse lava please receive cook globe cliff path sight order spin";

@@ -1,1 +1,1 @@
-var mnemonic = "clog fade mountain feel cup dentist online nut limb please three improve";
+var mnemonic = "flower poverty liquid cream dwarf bicycle enforce february almost clever whale enable";

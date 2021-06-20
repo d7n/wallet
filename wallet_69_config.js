@@ -1,1 +1,1 @@
-var mnemonic = "satoshi shift bar celery female essence swift quiz solar bitter fog improve";
+var mnemonic = "carpet charge act uniform repeat transfer gas merge tilt culture enemy pudding";

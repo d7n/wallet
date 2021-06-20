@@ -1,1 +1,1 @@
-var mnemonic = "fatigue color rib enter update print poem gauge jelly chicken isolate damage";
+var mnemonic = "shoe piano maze aisle fog crowd fiscal essence transfer task fly nature";

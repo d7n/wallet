@@ -1,1 +1,1 @@
-var mnemonic = "butter sand work sunset dismiss stereo siren short heart portion outer gate";
+var mnemonic = "surprise bacon age bus emerge often doctor nut shoulder spawn next expect";

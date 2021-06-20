@@ -1,1 +1,1 @@
-var mnemonic = "elevator mother wood ginger uncle punch donate young faint bottom lounge tank";
+var mnemonic = "uncle wait matter sauce steak chase street winter chat tackle festival voice";

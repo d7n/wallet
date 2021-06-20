@@ -1,1 +1,1 @@
-var mnemonic = "corn elite same limit bind blade harsh snack hungry mobile baby provide";
+var mnemonic = "rubber nice disagree educate birth visual river alone ecology brand token badge";
