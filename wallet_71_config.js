@@ -1,1 +1,1 @@
-var mnemonic = "story vessel occur zero popular must budget master often session aisle arena";
+var mnemonic = "flag tornado eight happy virtual sure help entry legend wagon permit salute";

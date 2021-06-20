@@ -1,1 +1,1 @@
-var mnemonic = "photo celery april museum track tone fossil ranch lens erosion explain segment";
+var mnemonic = "mobile battle cabin over broom shell credit arrow obvious fluid rice rose";

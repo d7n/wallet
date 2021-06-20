@@ -1,1 +1,1 @@
-var mnemonic = "rule stereo bacon sure agree stairs squirrel glad climb account brush imitate";
+var mnemonic = "ginger draw bubble nest pyramid gaze top dance fuel romance horn chuckle";

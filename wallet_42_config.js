@@ -1,1 +1,1 @@
-var mnemonic = "future flag letter minute moral hub muffin chat sausage heart eternal balcony";
+var mnemonic = "doctor juice toss blind method mean inflict model buffalo stand ski cereal";

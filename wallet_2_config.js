@@ -1,1 +1,1 @@
-var mnemonic = "emotion embark monkey wink bus essay dwarf kitten salad month smart flag";
+var mnemonic = "occur pattern pear truck hockey twist sport miss royal celery beauty undo";

@@ -1,1 +1,1 @@
-var mnemonic = "pave idea pottery cube exotic nephew circle member isolate wrist shop else";
+var mnemonic = "cause myself jar oval notice lounge have scare minimum have smoke spoil";

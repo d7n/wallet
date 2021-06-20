@@ -1,1 +1,1 @@
-var mnemonic = "fan smooth noise daring clean faith fade dentist abandon grocery mosquito confirm";
+var mnemonic = "youth ride heavy tennis couch duck butter uniform stage crash chapter inhale";

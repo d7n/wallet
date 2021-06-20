@@ -1,1 +1,1 @@
-var mnemonic = "pigeon sock perfect prosper label black hint change dizzy trigger fold produce";
+var mnemonic = "poverty city lawn approve tone ensure stay afford federal rapid guard garment";

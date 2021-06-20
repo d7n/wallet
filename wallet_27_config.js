@@ -1,1 +1,1 @@
-var mnemonic = "school volume ecology useless journey wet mail cat market brown wealth student";
+var mnemonic = "tiger fat organ satoshi eternal strong wire search release alcohol hour machine";

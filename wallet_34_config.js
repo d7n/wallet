@@ -1,1 +1,1 @@
-var mnemonic = "split stadium cactus amateur original jelly rescue disease daring retreat charge build";
+var mnemonic = "affair message fatal decrease woman domain fold client setup august biology submit";

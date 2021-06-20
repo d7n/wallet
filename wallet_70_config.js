@@ -1,1 +1,1 @@
-var mnemonic = "screen crouch monitor season short gallery half expose again mule deal style";
+var mnemonic = "bid jelly uncover sport ocean taxi riot clay gym govern engage moon";

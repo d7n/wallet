@@ -1,1 +1,1 @@
-var mnemonic = "borrow better pet project genuine anger rigid sense acoustic access stem defense";
+var mnemonic = "marine fault clerk gorilla mistake property resist green radio moment genuine anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "acid carbon edit job few across exhibit cost turn fatal shine involve";
+var mnemonic = "once ready infant swear super dinosaur crater pitch baby leaf enhance item";

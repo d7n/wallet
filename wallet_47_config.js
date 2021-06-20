@@ -1,1 +1,1 @@
-var mnemonic = "wood cool peasant once banner ozone pear gun flavor arm loan zero";
+var mnemonic = "empower parent salt wrap laugh draw play thrive diagram elite glad soldier";

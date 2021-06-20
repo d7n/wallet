@@ -1,1 +1,1 @@
-var mnemonic = "prevent love split describe clerk false cotton arrange later explain twist boil";
+var mnemonic = "usage fat speak reward kitten rally more exist million leisure credit nose";

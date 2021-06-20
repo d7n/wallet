@@ -1,1 +1,1 @@
-var mnemonic = "sister door fix pill summer security whale because churn address panel sunny";
+var mnemonic = "veteran shy scheme glass pill road special trend maze during assume lunar";

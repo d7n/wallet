@@ -1,1 +1,1 @@
-var mnemonic = "develop minute corn pony corn brass busy globe custom genuine clown poem";
+var mnemonic = "wasp wreck hawk matrix trim attend truth wall kick dose basic neither";

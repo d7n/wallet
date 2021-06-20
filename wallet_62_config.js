@@ -1,1 +1,1 @@
-var mnemonic = "sugar fun scatter exact scorpion silent panel tragic engage join transfer rapid";
+var mnemonic = "annual pigeon tray task pistol truly canyon peanut balance cruise topple arm";

@@ -1,1 +1,1 @@
-var mnemonic = "orange purpose hen good dentist voyage card snow submit wise supply diary";
+var mnemonic = "high damage salute still reduce lesson feel tone hat palace deliver lend";

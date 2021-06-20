@@ -1,1 +1,1 @@
-var mnemonic = "sketch wheat play often situate repeat goddess rural trick polar margin come";
+var mnemonic = "mountain cake major ski tree aisle taste fly minimum vendor crawl enforce";

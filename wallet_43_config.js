@@ -1,1 +1,1 @@
-var mnemonic = "fresh session fox age letter scorpion give top problem slim improve nothing";
+var mnemonic = "tank ritual elder fringe security change credit humble razor round assume jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy floor logic still slice adapt pattern bench sign enough casino panther";
+var mnemonic = "shaft creek casual steak burden peace slide twin response winner make phone";

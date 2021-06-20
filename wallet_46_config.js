@@ -1,1 +1,1 @@
-var mnemonic = "weird old fabric include bonus canyon shallow novel roast liberty spy claw";
+var mnemonic = "canal ski brother endless sustain peace soup super outdoor enter move daring";

@@ -1,1 +1,1 @@
-var mnemonic = "foster toy ketchup pink genius credit poet nothing team scale roast situate";
+var mnemonic = "grace animal card recall cover flock cancel wasp scan earth fiber knock";

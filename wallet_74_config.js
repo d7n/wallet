@@ -1,1 +1,1 @@
-var mnemonic = "spare viable fragile burst surge chalk ugly voyage slab loud rain rigid";
+var mnemonic = "pave joy guard work top beauty box alone main angle nothing metal";

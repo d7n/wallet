@@ -1,1 +1,1 @@
-var mnemonic = "royal awake sibling clump knife stumble solve survey wheel best canyon public";
+var mnemonic = "route observe student cage place stay client shy cram trigger camera clap";

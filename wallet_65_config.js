@@ -1,1 +1,1 @@
-var mnemonic = "behave agent cloud dial saddle fault crack notice female icon welcome canyon";
+var mnemonic = "harvest love casual suit know bachelor control mix inhale lunch appear warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist outside fossil daughter pulp edge abstract rapid often subject weird foam";
+var mnemonic = "alien dizzy recall shell garbage credit seminar unit enhance future hub warrior";

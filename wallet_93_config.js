@@ -1,1 +1,1 @@
-var mnemonic = "nominee rapid certain rude nice burger liberty genuine fantasy soldier festival earth";
+var mnemonic = "choose daughter mind liar ivory gesture text sword flower public box mention";

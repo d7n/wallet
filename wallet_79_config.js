@@ -1,1 +1,1 @@
-var mnemonic = "inch domain stool glove accident term science actual smile awful river vanish";
+var mnemonic = "surround repeat cushion hurdle verify bench grow thunder cherry man define ship";

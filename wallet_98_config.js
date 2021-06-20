@@ -1,1 +1,1 @@
-var mnemonic = "leopard olive rookie immune glue entire craft nation matter glow diesel lottery";
+var mnemonic = "pull over pencil hurry shoulder weird vacuum entry judge arm balance valve";

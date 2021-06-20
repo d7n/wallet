@@ -1,1 +1,1 @@
-var mnemonic = "foot innocent pitch gown gesture useless tape balance next worth shrug theory";
+var mnemonic = "tuition toast busy merry consider purpose notice zebra fragile dignity shift man";

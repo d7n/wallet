@@ -1,1 +1,1 @@
-var mnemonic = "orchard search balance cluster bronze evolve aim accuse stool kind crush shed";
+var mnemonic = "menu corn bottom diagram plug rubber humble festival illness congress blossom empower";

@@ -1,1 +1,1 @@
-var mnemonic = "cost someone draw filter object able alter soda loan state marine feed";
+var mnemonic = "sail wrestle expose upgrade element sell stereo maximum clarify domain trim cry";

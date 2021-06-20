@@ -1,1 +1,1 @@
-var mnemonic = "pigeon sail useless grass food drastic shuffle gauge valley inch shop flat";
+var mnemonic = "club team market ask master cave grow nothing defy whale spread produce";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor adult retire evolve fork drastic panther quick flock orange fox relax";
+var mnemonic = "happy question rally maid session obscure minor adult stereo neglect million capital";

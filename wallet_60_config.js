@@ -1,1 +1,1 @@
-var mnemonic = "snow news pyramid zone ribbon release oak exchange remember wait office knock";
+var mnemonic = "hold hurdle gravity misery void spin card witness garlic unaware key ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "join tumble hurry desk stamp quantum cruel assist perfect void shell urban";
+var mnemonic = "vacant mean section describe obey auction coral maple turn blue stock supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "glass million buffalo art sick slush side jaguar daughter indoor volcano kind";
+var mnemonic = "open salt ahead inspire present subject tissue okay merit puzzle gift fit";

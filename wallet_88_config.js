@@ -1,1 +1,1 @@
-var mnemonic = "spread dutch fantasy silver occur shy powder advice artefact wall observe grant";
+var mnemonic = "lamp aerobic modify kit nothing nurse cup satisfy special draw thing lawn";

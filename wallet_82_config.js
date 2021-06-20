@@ -1,1 +1,1 @@
-var mnemonic = "main polar truly jar fiber trip outdoor domain into leopard venue vicious";
+var mnemonic = "similar crush provide satoshi floor sugar narrow swim first stamp endless treat";

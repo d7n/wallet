@@ -1,1 +1,1 @@
-var mnemonic = "city actress square ankle dose boost chat throw picnic chest cereal valve";
+var mnemonic = "drastic easily brisk vault husband spike because bread right exchange odor close";

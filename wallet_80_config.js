@@ -1,1 +1,1 @@
-var mnemonic = "hungry spike stairs burger unaware maid glue one chat affair faint indoor";
+var mnemonic = "reason narrow carbon recipe renew black replace disagree keep that wild another";

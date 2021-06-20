@@ -1,1 +1,1 @@
-var mnemonic = "raw celery news core evolve knee lyrics they under dentist spy slam";
+var mnemonic = "vote crouch then bachelor hero panther chicken slide oppose exit ball fade";

@@ -1,1 +1,1 @@
-var mnemonic = "now special plastic embrace aim credit carbon scrap used cause few gloom";
+var mnemonic = "art quality south suspect viable wreck toss diesel mobile produce away drop";

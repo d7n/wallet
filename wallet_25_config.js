@@ -1,1 +1,1 @@
-var mnemonic = "illegal rubber blanket burden shoot push guilt buzz message muscle gentle around";
+var mnemonic = "garlic please plate auto inform exhaust exact symptom hawk exact express resist";

@@ -1,1 +1,1 @@
-var mnemonic = "copy deal chief chief wing vote wasp glue patch confirm venture genius";
+var mnemonic = "tell worth basket loan fluid absent clog wet case huge thank dial";

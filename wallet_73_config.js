@@ -1,1 +1,1 @@
-var mnemonic = "crush perfect decide water adjust gown umbrella eager skin ball knife edge";
+var mnemonic = "auction tiny inflict pride narrow belt divide ketchup sister summer all nuclear";

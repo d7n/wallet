@@ -1,1 +1,1 @@
-var mnemonic = "chaos either leg trap year tree weasel drop fringe fatal zoo blur";
+var mnemonic = "winter idea shield bar retreat avocado clay flight minor tent return disorder";

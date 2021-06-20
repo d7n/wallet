@@ -1,1 +1,1 @@
-var mnemonic = "fiscal frost toy wood worth insect battle brisk grid student visit topple";
+var mnemonic = "stamp crack music length crucial solution ready flight thought junior average tray";

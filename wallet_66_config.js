@@ -1,1 +1,1 @@
-var mnemonic = "ancient business issue resource already crack consider knife panda short catch start";
+var mnemonic = "vanish rug shock path vital helmet power region warrior disorder shadow rookie";

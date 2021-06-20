@@ -1,1 +1,1 @@
-var mnemonic = "fashion monster decade churn piece patrol eight asthma topic start way wagon";
+var mnemonic = "mask coin health quick armed unusual barely zebra aim there month liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "food basket method gentle symptom any exit used refuse bag bronze kingdom";
+var mnemonic = "cash deposit beyond joke luxury promote balcony seed slush online curtain model";

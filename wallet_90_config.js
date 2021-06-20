@@ -1,1 +1,1 @@
-var mnemonic = "add master alarm pig ski rib used federal noble oppose damp silly";
+var mnemonic = "notice one bomb clay solution broken peasant auction mansion trial dish tube";

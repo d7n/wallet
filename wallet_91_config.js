@@ -1,1 +1,1 @@
-var mnemonic = "uncle radar teach game cargo helmet ten lake erode credit sugar review";
+var mnemonic = "license garbage code demand admit school machine wagon attitude wealth evoke glad";

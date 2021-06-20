@@ -1,1 +1,1 @@
-var mnemonic = "slow paddle file expect retire spy student immune impact title donkey sick";
+var mnemonic = "throw battle swing else wink other pet tuna include shift fashion suit";

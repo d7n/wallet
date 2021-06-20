@@ -1,1 +1,1 @@
-var mnemonic = "viable half nerve until hollow mosquito empower market rival unknown valid coyote";
+var mnemonic = "lemon refuse spread reform invest immense quarter kingdom trick shoe smart grief";

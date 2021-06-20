@@ -1,1 +1,1 @@
-var mnemonic = "flower black witness renew ahead roof smooth lady wrong current cushion vendor";
+var mnemonic = "exotic exit undo label skate stamp surface habit rural hour lab major";

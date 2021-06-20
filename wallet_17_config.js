@@ -1,1 +1,1 @@
-var mnemonic = "glow parent rotate wrap tag crystal give arrest dinner gasp arctic solid";
+var mnemonic = "cry pumpkin much blouse steak tonight upgrade either visual side blade pipe";

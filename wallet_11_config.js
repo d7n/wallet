@@ -1,1 +1,1 @@
-var mnemonic = "panda cliff crumble phrase father inflict buddy child aware pilot busy glance";
+var mnemonic = "save critic what update there legend way harvest dash air couch nuclear";

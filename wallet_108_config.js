@@ -1,1 +1,1 @@
-var mnemonic = "stage arrange cushion plug dad sugar cave chicken tornado ivory auction label";
+var mnemonic = "wedding pact poverty chuckle drive kit during steak canyon beauty have follow";

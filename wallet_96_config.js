@@ -1,1 +1,1 @@
-var mnemonic = "fatigue best inform social napkin blur mix flock holiday solid unaware true";
+var mnemonic = "option hidden admit lonely timber connect attack double jewel hen exclude mutual";

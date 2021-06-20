@@ -1,1 +1,1 @@
-var mnemonic = "buffalo actress shrimp cousin update gossip normal comfort abstract illness smart furnace";
+var mnemonic = "tobacco fever rice correct play assume pond dirt main peace design fiscal";

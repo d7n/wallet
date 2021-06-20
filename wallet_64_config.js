@@ -1,1 +1,1 @@
-var mnemonic = "assume slight able jelly surprise entry fatal wood hurdle final physical also";
+var mnemonic = "bag vicious enemy erode employ remember below under slot tattoo will dynamic";

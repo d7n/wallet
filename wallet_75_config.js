@@ -1,1 +1,1 @@
-var mnemonic = "claim child link crowd heavy sock panda screen volume float doll pledge";
+var mnemonic = "small slab any unlock arrow weasel eagle badge style alarm parrot tragic";

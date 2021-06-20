@@ -1,1 +1,1 @@
-var mnemonic = "nation govern spatial flip violin exchange mandate afford position neglect decade napkin";
+var mnemonic = "holiday youth artist approve wild captain palace chapter master upset universe nasty";

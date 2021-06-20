@@ -1,1 +1,1 @@
-var mnemonic = "eternal analyst music throw comfort own embody number monster practice brush avocado";
+var mnemonic = "brush frown rose addict flag heavy drill doll sport knock exile maple";

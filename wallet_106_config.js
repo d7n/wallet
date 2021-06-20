@@ -1,1 +1,1 @@
-var mnemonic = "pond season million kingdom fetch witness under depart onion cave junior glance";
+var mnemonic = "second novel announce lens web name fix clinic enable early gravity phrase";

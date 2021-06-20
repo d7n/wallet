@@ -1,1 +1,1 @@
-var mnemonic = "amount puzzle rabbit loop noodle fall prevent master atom hello pen arrow";
+var mnemonic = "deer unhappy glass shaft round expand off price turn argue glare success";

@@ -1,1 +1,1 @@
-var mnemonic = "among wild employ hospital salon income hover raccoon hotel action episode exist";
+var mnemonic = "film book type save top garment tell wash shove often wash churn";

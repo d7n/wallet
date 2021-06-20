@@ -1,1 +1,1 @@
-var mnemonic = "grunt once shine cargo ticket fetch test illness case fitness more matter";
+var mnemonic = "tape slice almost sad cycle glue school world you timber kiss clean";

@@ -1,1 +1,1 @@
-var mnemonic = "buffalo hybrid roof resemble before address captain spray border famous kiss horn";
+var mnemonic = "fade endless pole sense fall under wrong utility expose path fluid maximum";

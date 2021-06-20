@@ -1,1 +1,1 @@
-var mnemonic = "galaxy candy inquiry sure prevent click access lock milk fitness again off";
+var mnemonic = "torch oval fiber spirit dinner stay inch item clock magic lemon lesson";

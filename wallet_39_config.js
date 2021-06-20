@@ -1,1 +1,1 @@
-var mnemonic = "cousin jeans outdoor version matter friend type mail ankle humor crime clog";
+var mnemonic = "shallow survey segment wolf measure nerve can glue scrub engine bottom ordinary";

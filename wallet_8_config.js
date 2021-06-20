@@ -1,1 +1,1 @@
-var mnemonic = "true chimney team body awake mistake expire obey diesel siege soup chapter";
+var mnemonic = "try menu banana mountain cruel must paper duck van board will copy";

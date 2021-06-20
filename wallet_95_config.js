@@ -1,1 +1,1 @@
-var mnemonic = "maze obvious movie fence door benefit actor curious crane business trend walnut";
+var mnemonic = "salon industry into injury hole biology fit collect loud cotton begin drill";

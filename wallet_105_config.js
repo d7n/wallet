@@ -1,1 +1,1 @@
-var mnemonic = "zero toe bright fault suit poet involve slam evil giant keen quarter";
+var mnemonic = "can retreat omit turkey resemble laptop expire foam increase outer wire clown";

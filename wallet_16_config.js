@@ -1,1 +1,1 @@
-var mnemonic = "vast senior promote master blanket letter guilt security capital silent dad exist";
+var mnemonic = "income magic agent toe slice into avocado assist fish fee dream humor";

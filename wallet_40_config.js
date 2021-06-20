@@ -1,1 +1,1 @@
-var mnemonic = "rubber nose chair orange margin coil below rebuild moon expand mean hard";
+var mnemonic = "soup tomato upon street discover wasp now excess predict shiver dilemma throw";

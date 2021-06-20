@@ -1,1 +1,1 @@
-var mnemonic = "claw review envelope welcome soon settle sentence begin draw sun law elite";
+var mnemonic = "tomorrow kitchen country slogan novel tiger squirrel grid endless oval frequent salt";

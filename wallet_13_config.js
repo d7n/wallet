@@ -1,1 +1,1 @@
-var mnemonic = "wonder donkey cloud home scene before audit convince ritual shaft lock audit";
+var mnemonic = "indicate soldier plug before tumble engine orchard hero occur baby what parade";

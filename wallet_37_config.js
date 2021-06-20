@@ -1,1 +1,1 @@
-var mnemonic = "acoustic comfort able sock flock vivid toy judge word together then bring";
+var mnemonic = "exotic pumpkin cool orchard piece tilt person now protect critic minute marine";

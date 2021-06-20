@@ -1,1 +1,1 @@
-var mnemonic = "drama thank rug sugar bone evil submit begin salute siege inner still";
+var mnemonic = "kitten puppy flower gaze horn spoon minor copy inner asset pass puzzle";

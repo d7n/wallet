@@ -1,1 +1,1 @@
-var mnemonic = "trial parent engage oyster abandon recycle brave remove label shiver trumpet canvas";
+var mnemonic = "hobby kit direct occur flash item flash vessel group swarm price october";

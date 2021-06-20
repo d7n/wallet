@@ -1,1 +1,1 @@
-var mnemonic = "tortoise security enlist monkey lawn leisure since brick across health buddy reward";
+var mnemonic = "decide puppy anger slam shiver child execute twist glad until inch enroll";
