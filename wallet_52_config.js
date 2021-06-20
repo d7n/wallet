@@ -1,1 +1,1 @@
-var mnemonic = "vault giraffe pioneer parade until illness wife loop daughter real uncle stay";
+var mnemonic = "stereo truck envelope coral section donkey first sadness clip filter woman else";

@@ -1,1 +1,1 @@
-var mnemonic = "purity blame exist damage chair nose rent chase solid account forget waste";
+var mnemonic = "episode start narrow absurd answer piece access recall misery kind over try";

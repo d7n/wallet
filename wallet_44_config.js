@@ -1,1 +1,1 @@
-var mnemonic = "cover surge trash poverty gather track paddle filter steel human regret monitor";
+var mnemonic = "ladder hat replace almost fatal enrich mountain valve daughter mass net mirror";

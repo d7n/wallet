@@ -1,1 +1,1 @@
-var mnemonic = "erase since trophy clutch minute culture coach female loud choose differ quit";
+var mnemonic = "soul rabbit hole tobacco eternal praise curious wet gasp diet smooth dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft rack eye all satisfy clog blame bulk meadow bonus camp vicious";
+var mnemonic = "canoe armed poem orbit scrub drill goose you cricket nut blur boil";

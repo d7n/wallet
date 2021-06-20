@@ -1,1 +1,1 @@
-var mnemonic = "curve video amazing piano cereal scene grief oblige camp island cage medal";
+var mnemonic = "question begin obvious square install acid media over indoor almost dawn double";

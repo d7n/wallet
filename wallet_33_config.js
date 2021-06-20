@@ -1,1 +1,1 @@
-var mnemonic = "blanket chunk library tuition frame digital lecture reason eyebrow liquid puzzle warm";
+var mnemonic = "crack van game airport shove artist coil kingdom regret output sight busy";

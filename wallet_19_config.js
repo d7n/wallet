@@ -1,1 +1,1 @@
-var mnemonic = "divorce meadow expand rely across search man margin kick plunge dawn company";
+var mnemonic = "pistol damage review leader axis novel chase cargo surface people release harvest";

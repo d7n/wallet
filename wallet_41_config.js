@@ -1,1 +1,1 @@
-var mnemonic = "drop donkey thunder reopen subway meat type shaft tomato web mushroom refuse";
+var mnemonic = "catalog cruise there crater morning wine birth path equal coach weapon cry";

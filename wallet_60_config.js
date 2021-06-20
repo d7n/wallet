@@ -1,1 +1,1 @@
-var mnemonic = "ramp fossil zone engage spring sentence bright hand joke fantasy cannon state";
+var mnemonic = "song obscure whisper drama diary conduct olympic lion huge aisle question believe";

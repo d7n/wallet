@@ -1,1 +1,1 @@
-var mnemonic = "main envelope charge screen decline able bargain west proud below asset goat";
+var mnemonic = "buyer govern multiply wealth notable horror merry mercy elevator gap column choose";

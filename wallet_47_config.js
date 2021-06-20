@@ -1,1 +1,1 @@
-var mnemonic = "whale elbow entry cart cook teach bargain cable people install achieve gain";
+var mnemonic = "romance orphan short hundred add someone six host fortune slim jeans seven";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma arch record brush lucky wasp hockey collect result belt palace walnut";
+var mnemonic = "team crime wheat peace aunt enemy visual deny rhythm idea beef damp";

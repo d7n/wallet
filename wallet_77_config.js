@@ -1,1 +1,1 @@
-var mnemonic = "primary dignity success cushion answer wish actor brown lava universe broccoli lecture";
+var mnemonic = "sponsor barely dragon reform useless before evil roof dose grunt raccoon identify";

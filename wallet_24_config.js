@@ -1,1 +1,1 @@
-var mnemonic = "crater trick maze choice buffalo shoulder park crush rough dwarf benefit grape";
+var mnemonic = "mushroom smile celery adult version spoon mask mention gesture soap curious collect";

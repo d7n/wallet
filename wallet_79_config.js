@@ -1,1 +1,1 @@
-var mnemonic = "space tray peanut brave quality shield wire tail day save wash puppy";
+var mnemonic = "frog remain sail chest pony milk size admit month because orchard ability";

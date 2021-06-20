@@ -1,1 +1,1 @@
-var mnemonic = "release saddle fiber one notice brass dynamic canoe doctor interest erosion federal";
+var mnemonic = "permit village gallery actor stick afford torch father lunar else admit trust";

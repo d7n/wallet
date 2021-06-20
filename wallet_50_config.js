@@ -1,1 +1,1 @@
-var mnemonic = "alley orange merit rebuild supply acoustic enrich either face wife trick script";
+var mnemonic = "also vessel lyrics patch oval bid proud rude domain tribe finger accuse";

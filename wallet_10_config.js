@@ -1,1 +1,1 @@
-var mnemonic = "live picture hungry shield craft work network uncover army tilt receive dial";
+var mnemonic = "stone idle kind clever baby swarm abandon ramp pistol panda buffalo defense";

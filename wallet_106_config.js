@@ -1,1 +1,1 @@
-var mnemonic = "smooth pulse tail unique snack bunker fresh decade uncover boss embody lawn";
+var mnemonic = "excuse duck speak wisdom warrior borrow reason syrup pluck knock spot pepper";

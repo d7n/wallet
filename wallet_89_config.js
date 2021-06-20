@@ -1,1 +1,1 @@
-var mnemonic = "city because fork awkward palace special input image sound twenty dismiss recipe";
+var mnemonic = "release butter imitate cradle gauge kit similar bubble joy below change beach";

@@ -1,1 +1,1 @@
-var mnemonic = "robot apple aspect symbol minor address since settle head feature bottom gun";
+var mnemonic = "art bracket exhaust warrior exercise sunny penalty enroll turn canal ship box";

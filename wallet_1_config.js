@@ -1,1 +1,1 @@
-var mnemonic = "toss bone liar shoot cart daring profit topic inquiry merry fine reform";
+var mnemonic = "asset bachelor wife artwork wife song citizen pen name argue note payment";

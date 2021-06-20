@@ -1,1 +1,1 @@
-var mnemonic = "fiscal bring sea aware canal choice chunk laptop nose defense boat drop";
+var mnemonic = "debate sugar pond rose apple vacant rare advance claim nephew smart soft";

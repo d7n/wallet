@@ -1,1 +1,1 @@
-var mnemonic = "current forum broom enough orange true claim habit duty make admit mix";
+var mnemonic = "erosion still gossip hair public maze lend sponsor now luggage guilt occur";

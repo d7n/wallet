@@ -1,1 +1,1 @@
-var mnemonic = "source tobacco scrub metal law rose include bachelor used choose law dutch";
+var mnemonic = "version explain essay belt wall plastic library ten erupt sort river slender";

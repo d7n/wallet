@@ -1,1 +1,1 @@
-var mnemonic = "swear begin hold ready custom december film wear person hint solar ticket";
+var mnemonic = "globe broccoli sight hospital basic absurd want write mind omit pilot swing";

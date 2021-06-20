@@ -1,1 +1,1 @@
-var mnemonic = "fine ribbon fabric eye photo screen pipe joy message cupboard autumn comfort";
+var mnemonic = "clip stool share drill museum banana name spend salad chronic marriage equal";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale caught elite car uncover oval metal mention oak chaos penalty sell";
+var mnemonic = "milk genre beef crack dawn ocean invest pig unknown adapt fly crucial";

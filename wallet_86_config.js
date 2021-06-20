@@ -1,1 +1,1 @@
-var mnemonic = "whisper category party fee cable pride chase antenna dignity frame track space";
+var mnemonic = "divert copy mention crowd text myself time electric auction output average ketchup";

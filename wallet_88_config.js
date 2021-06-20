@@ -1,1 +1,1 @@
-var mnemonic = "weasel enable bind rain return riot ability pass shine provide fan tiger";
+var mnemonic = "calm noodle desk letter empty slim hurt off series theory cost fever";

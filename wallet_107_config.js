@@ -1,1 +1,1 @@
-var mnemonic = "wasp betray toss core oxygen differ angry foster habit offer collect blanket";
+var mnemonic = "borrow work fault entry second beef arena build happy dragon left cream";

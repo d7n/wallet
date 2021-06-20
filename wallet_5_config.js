@@ -1,1 +1,1 @@
-var mnemonic = "praise cruise grid advice mind diamond vacuum wasp learn man solution trend";
+var mnemonic = "grab ketchup below symptom jungle normal obscure field test illegal afford job";

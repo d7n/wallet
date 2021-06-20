@@ -1,1 +1,1 @@
-var mnemonic = "piano sauce glare danger lunch script violin eyebrow hobby debris state grape";
+var mnemonic = "artefact dentist mimic dust enrich fashion accident egg gadget alarm chat affair";

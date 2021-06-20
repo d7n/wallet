@@ -1,1 +1,1 @@
-var mnemonic = "horse travel beauty glass brave price chair annual clinic uniform scheme eight";
+var mnemonic = "local raise goat certain come seven cigar afford admit final clinic monkey";

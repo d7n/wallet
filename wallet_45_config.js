@@ -1,1 +1,1 @@
-var mnemonic = "various car auto pudding cream miss dry diagram opera evil ozone endless";
+var mnemonic = "game fault evidence habit shell live balance dignity approve laugh save wish";

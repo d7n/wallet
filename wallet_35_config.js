@@ -1,1 +1,1 @@
-var mnemonic = "buddy lumber castle parade toast smoke donor pink solution notice inject sniff";
+var mnemonic = "jacket palm unique eight silver share bring wing valid cricket hollow rice";

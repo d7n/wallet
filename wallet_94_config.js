@@ -1,1 +1,1 @@
-var mnemonic = "vapor network normal rotate crawl treat camera glide dinner aim duck stamp";
+var mnemonic = "brisk over vault outdoor husband indoor fine camp gun artist caution rice";

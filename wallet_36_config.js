@@ -1,1 +1,1 @@
-var mnemonic = "ask casual news brother better laugh fall photo luxury purpose small focus";
+var mnemonic = "potato nice october sphere age gadget clay abuse royal suspect lounge humor";

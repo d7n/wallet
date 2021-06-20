@@ -1,1 +1,1 @@
-var mnemonic = "crowd sand fabric impose rebuild orient canoe silly stage usual iron abstract";
+var mnemonic = "repeat fossil friend position wild citizen expand lottery album stay enforce miracle";

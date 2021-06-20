@@ -1,1 +1,1 @@
-var mnemonic = "crop syrup limit educate galaxy salmon sunset warfare globe current kid people";
+var mnemonic = "present town consider devote barely silly language find toy aisle brush balance";

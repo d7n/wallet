@@ -1,1 +1,1 @@
-var mnemonic = "client cruel clump pair spring stable friend razor warm crouch super quality";
+var mnemonic = "phrase bullet garage dignity outer spatial undo fancy concert journey girl sea";

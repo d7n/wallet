@@ -1,1 +1,1 @@
-var mnemonic = "boost traffic health kitchen relief profit bulk cook pattern pencil cabbage predict";
+var mnemonic = "alert advance canyon gentle border napkin chimney hamster twelve powder satisfy bicycle";

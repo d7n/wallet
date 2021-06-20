@@ -1,1 +1,1 @@
-var mnemonic = "depart normal hard accuse wage shine song evil brother vapor member fork";
+var mnemonic = "snake rug warfare current stage blossom slender banana squeeze push solar slot";

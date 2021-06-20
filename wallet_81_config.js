@@ -1,1 +1,1 @@
-var mnemonic = "narrow marble flash flee drum fabric ginger struggle submit saddle frown start";
+var mnemonic = "flag hamster corn squirrel potato hope cupboard divorce violin february loyal repeat";

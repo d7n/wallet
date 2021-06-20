@@ -1,1 +1,1 @@
-var mnemonic = "armor december edit quantum main accident capital rely indicate distance green virus";
+var mnemonic = "silver expire letter boil person random bench number wreck bird sibling pottery";

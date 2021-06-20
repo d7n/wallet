@@ -1,1 +1,1 @@
-var mnemonic = "stable rubber airport nut prepare super sea effort verb beef eyebrow flat";
+var mnemonic = "lava impulse crouch ritual wash soup nature match enter dose they crowd";

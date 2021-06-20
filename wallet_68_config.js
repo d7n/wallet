@@ -1,1 +1,1 @@
-var mnemonic = "deposit mercy act vague purpose shift speed meadow exhaust donor million sun";
+var mnemonic = "follow alert immense always apology lyrics barely kite famous chicken absurd exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo obvious tired goat faint company loyal modify toddler health margin oppose";
+var mnemonic = "purpose spin tool wrestle add trend family plastic novel task basic tongue";

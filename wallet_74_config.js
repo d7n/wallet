@@ -1,1 +1,1 @@
-var mnemonic = "figure pool dish brisk predict aunt mistake alcohol flower garage idle attract";
+var mnemonic = "tower inquiry humble ceiling catalog this lift rapid frost grief motion planet";

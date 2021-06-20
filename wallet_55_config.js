@@ -1,1 +1,1 @@
-var mnemonic = "fox milk brother affair champion journey frog vague arch square aerobic flock";
+var mnemonic = "need little miracle jaguar false dragon harvest liberty sheriff crunch club gift";

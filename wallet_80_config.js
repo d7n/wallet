@@ -1,1 +1,1 @@
-var mnemonic = "chase sheriff trial wish piano pelican era actress snap birth tag uniform";
+var mnemonic = "someone vessel group foster frame metal repeat wood purity exhibit thank few";

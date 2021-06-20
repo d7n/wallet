@@ -1,1 +1,1 @@
-var mnemonic = "doll life help tool matrix art sadness powder excite kiwi sword seat";
+var mnemonic = "sail client gesture habit runway engage praise license monitor off cage output";

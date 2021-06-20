@@ -1,1 +1,1 @@
-var mnemonic = "awkward harvest stick game under notice that dose lava can neutral alien";
+var mnemonic = "liberty radio mistake kind leader human shield combine fish achieve shine tunnel";

@@ -1,1 +1,1 @@
-var mnemonic = "win man cereal soda crew mass window ocean blind aware puppy praise";
+var mnemonic = "wrap immense seminar scorpion duty since super inhale myth enemy grief avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "medal maze final basket awful resource salon jelly choice strike echo finish";
+var mnemonic = "wish grain seminar skirt dog hat tag until shuffle alter belt fatal";

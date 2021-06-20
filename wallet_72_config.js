@@ -1,1 +1,1 @@
-var mnemonic = "type fog whisper next section disease ring umbrella sound pioneer come ship";
+var mnemonic = "elegant ecology repeat oxygen family attitude disease knock wrap abandon during middle";

@@ -1,1 +1,1 @@
-var mnemonic = "scan power hurdle squeeze rebuild uncle athlete output country afford lyrics gaze";
+var mnemonic = "observe swarm close damp lady interest setup execute soul coast perfect tag";

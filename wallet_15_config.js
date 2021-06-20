@@ -1,1 +1,1 @@
-var mnemonic = "resist protect fit cash asthma lesson hint deputy marine menu soft multiply";
+var mnemonic = "file silent start ketchup memory copper thing output document emotion dune wife";

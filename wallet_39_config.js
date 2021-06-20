@@ -1,1 +1,1 @@
-var mnemonic = "budget alert dove afford omit draw novel code orient move battle champion";
+var mnemonic = "lawn viable toy blood scare foam upset amused uphold produce eye advice";

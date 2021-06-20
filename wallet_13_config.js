@@ -1,1 +1,1 @@
-var mnemonic = "pitch curve april tilt admit cool pistol hope unlock judge school old";
+var mnemonic = "army wrestle inspire elegant start marriage cinnamon release always chalk post breeze";

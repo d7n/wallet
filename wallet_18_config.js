@@ -1,1 +1,1 @@
-var mnemonic = "key warrior scale two field phrase price canal bind recipe foil novel";
+var mnemonic = "surround arctic teach endless escape cherry excite range sock eternal nice garlic";

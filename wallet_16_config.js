@@ -1,1 +1,1 @@
-var mnemonic = "cannon tonight cruise wasp august result phrase material spirit card regret clinic";
+var mnemonic = "feed lucky scissors peace bone only trim orange unique trouble umbrella auto";

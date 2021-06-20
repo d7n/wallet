@@ -1,1 +1,1 @@
-var mnemonic = "neutral embrace theory mean exit monkey educate that genre release build quote";
+var mnemonic = "panda amazing peasant present evoke comic banner banner curtain load weather helmet";

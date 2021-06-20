@@ -1,1 +1,1 @@
-var mnemonic = "devote shed delay charge into never cruel wealth panic that quantum funny";
+var mnemonic = "coast dance market concert real tumble assist short desert explain area deliver";

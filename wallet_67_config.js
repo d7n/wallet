@@ -1,1 +1,1 @@
-var mnemonic = "crawl sun thought tongue early access path grocery habit banana dismiss bronze";
+var mnemonic = "merit ghost rescue aware bacon work piece tribe lawsuit daughter agree sugar";

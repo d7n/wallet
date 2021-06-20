@@ -1,1 +1,1 @@
-var mnemonic = "lunar panic picture nuclear repeat access right never hard alpha kite small";
+var mnemonic = "speed lock pet parent hawk evil learn balcony hospital element powder inhale";

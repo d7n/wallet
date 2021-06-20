@@ -1,1 +1,1 @@
-var mnemonic = "flee orange area sausage camp machine index food deputy ship memory popular";
+var mnemonic = "drama program visual base circle praise vehicle hello potato survey script crew";

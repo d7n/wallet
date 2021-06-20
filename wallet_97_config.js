@@ -1,1 +1,1 @@
-var mnemonic = "pool neglect brass hello oblige minute team stable uncover stool sustain punch";
+var mnemonic = "pioneer ensure ketchup real wave middle health fresh tomorrow gate ostrich flock";

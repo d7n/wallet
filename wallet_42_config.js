@@ -1,1 +1,1 @@
-var mnemonic = "fever tennis speak disagree afraid color wife first lend glow response hungry";
+var mnemonic = "first more artist fee source explain antique aspect hedgehog elite avocado pledge";

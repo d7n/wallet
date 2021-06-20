@@ -1,1 +1,1 @@
-var mnemonic = "decade vessel rug twice bring room split tired flee say spawn output";
+var mnemonic = "obtain accident black column motor half fitness second walk foil exchange rebuild";

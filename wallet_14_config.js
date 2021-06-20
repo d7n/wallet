@@ -1,1 +1,1 @@
-var mnemonic = "typical pen unaware spot street bike pull have trap clean snap toward";
+var mnemonic = "garden oblige spring couple report beauty fabric fish pill viable fiscal thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "moral glue timber swing speak author believe empty tell betray any recipe";
+var mnemonic = "orange wife lounge media blood faculty glass giraffe segment venture magnet hollow";

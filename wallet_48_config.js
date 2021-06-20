@@ -1,1 +1,1 @@
-var mnemonic = "try lava diagram joke inner wire insane eager discover index thrive december";
+var mnemonic = "neither brass company settle defy orange rib gentle inject stage argue obtain";

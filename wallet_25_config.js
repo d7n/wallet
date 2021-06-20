@@ -1,1 +1,1 @@
-var mnemonic = "dirt volume despair token swap fox jewel upper museum boy matter suffer";
+var mnemonic = "exist remove stomach hand hat monster brave evoke frost wine wolf own";

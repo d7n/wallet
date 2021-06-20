@@ -1,1 +1,1 @@
-var mnemonic = "appear inch help team park eagle quarter easy enable tape sentence piece";
+var mnemonic = "blind country powder title clever maze lunar wagon cloud home bracket snake";

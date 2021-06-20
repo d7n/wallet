@@ -1,1 +1,1 @@
-var mnemonic = "punch monkey rule napkin globe trap fold wolf gate broom uncover scare";
+var mnemonic = "foam equal believe stem sweet perfect cause float proud rug collect must";

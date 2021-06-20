@@ -1,1 +1,1 @@
-var mnemonic = "battle flock trophy style state tenant proof jump lucky tomato sadness ensure";
+var mnemonic = "manage forum recall kingdom egg evoke donor vague price neither boring certain";

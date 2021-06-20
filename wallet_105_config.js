@@ -1,1 +1,1 @@
-var mnemonic = "federal spoon rhythm rug wrong treat sentence ostrich tape silent spawn early";
+var mnemonic = "shoot park annual garlic sport avocado ozone more demand wreck risk improve";

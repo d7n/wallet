@@ -1,1 +1,1 @@
-var mnemonic = "wife box kit gain seven enforce walnut tumble strike glide reunion finger";
+var mnemonic = "arrow more gorilla curve old reward stereo delay survey jealous ready minimum";

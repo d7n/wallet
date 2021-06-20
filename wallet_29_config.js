@@ -1,1 +1,1 @@
-var mnemonic = "bamboo embrace ship tilt twenty element unfold sting mind pretty sad small";
+var mnemonic = "purity hobby main jelly ritual borrow advance broken deer armor glimpse exotic";

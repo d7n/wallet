@@ -1,1 +1,1 @@
-var mnemonic = "sad lady tomorrow tube abandon trial muffin cherry grape car october apart";
+var mnemonic = "weapon minute payment wheat sniff say thank pudding adapt follow unfold utility";

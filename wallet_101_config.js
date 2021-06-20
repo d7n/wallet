@@ -1,1 +1,1 @@
-var mnemonic = "predict sustain priority easy iron coyote flag waste castle sail adapt absent";
+var mnemonic = "employ pepper artefact special design column cannon behind flee roast cave initial";

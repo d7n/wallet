@@ -1,1 +1,1 @@
-var mnemonic = "talk defense finish fresh diagram exclude clever humble ordinary explain bachelor lemon";
+var mnemonic = "unfold turkey pull forget enjoy daughter kingdom find receive shoot gun panic";

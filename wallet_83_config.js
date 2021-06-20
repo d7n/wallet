@@ -1,1 +1,1 @@
-var mnemonic = "nephew tag aspect prevent tide only mango property target rail around arctic";
+var mnemonic = "fire desert call chief tenant cycle leg insect update apple buyer disagree";

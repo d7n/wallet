@@ -1,1 +1,1 @@
-var mnemonic = "elephant sick elite eternal cheese verb now clay tilt share hammer chuckle";
+var mnemonic = "swallow now zone robust wild assist permit inform aerobic angle water order";

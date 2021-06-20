@@ -1,1 +1,1 @@
-var mnemonic = "diagram neutral key water artefact multiply suggest jelly three mind wear during";
+var mnemonic = "guess crisp intact purity soda umbrella moon track reflect tube spare refuse";

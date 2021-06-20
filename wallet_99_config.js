@@ -1,1 +1,1 @@
-var mnemonic = "melody deliver ocean whale hamster physical sense puzzle merry chicken crater dice";
+var mnemonic = "genre tray sad slam love average awful fade fix private enable denial";

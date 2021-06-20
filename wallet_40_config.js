@@ -1,1 +1,1 @@
-var mnemonic = "search find inch immense melody indicate brick relax tornado foam humor hawk";
+var mnemonic = "funny flag amazing one public tower castle pause army february race record";
