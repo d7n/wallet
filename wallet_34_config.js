@@ -1,1 +1,1 @@
-var mnemonic = "party siege scrap grant need nose spray airport army special credit absent";
+var mnemonic = "tide step vendor number old grace pair first wild mom random correct";

@@ -1,1 +1,1 @@
-var mnemonic = "slab easily cupboard secret april minute blade suspect input finger lawn joke";
+var mnemonic = "rival slam climb end tunnel elite require scare soon empower giggle fresh";

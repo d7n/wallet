@@ -1,1 +1,1 @@
-var mnemonic = "sun cage tone retreat fine traffic nest devote zebra put find wing";
+var mnemonic = "meadow donkey outdoor youth reject produce inherit nurse tip proud below slim";

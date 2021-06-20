@@ -1,1 +1,1 @@
-var mnemonic = "place excite seed pave result force urge song garment domain amateur debris";
+var mnemonic = "upper bread chicken raw meadow multiply long into adjust lawn sample track";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel clay mom click motion bitter female vacant meadow else borrow say";
+var mnemonic = "unlock pear chaos great joke pass stumble excess spoon envelope vapor current";

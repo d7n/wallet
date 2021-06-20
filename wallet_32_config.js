@@ -1,1 +1,1 @@
-var mnemonic = "horror wife true expand danger cross unfold health congress argue crazy float";
+var mnemonic = "sponsor island inhale chase milk child heart shoe long raise series neglect";

@@ -1,1 +1,1 @@
-var mnemonic = "hair coyote client profit satisfy mix come various pact balance real foot";
+var mnemonic = "good sadness wasp that riot meadow table pledge album lend tongue promote";

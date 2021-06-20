@@ -1,1 +1,1 @@
-var mnemonic = "agree quantum island hurt one double tired gap copper liberty bright step";
+var mnemonic = "fluid hotel strong swamp digital drastic simple vehicle note number vendor april";

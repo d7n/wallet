@@ -1,1 +1,1 @@
-var mnemonic = "uncover gym click matrix major cousin cricket purse sister knee slender target";
+var mnemonic = "ceiling deliver inform garment capital jar actual layer curious diet display like";

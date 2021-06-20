@@ -1,1 +1,1 @@
-var mnemonic = "yellow unusual market ignore live art exact grant remain bonus gadget dawn";
+var mnemonic = "split damage evoke foot trip acquire habit pull drill stand divorce figure";

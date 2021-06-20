@@ -1,1 +1,1 @@
-var mnemonic = "approve print you aisle embrace undo spike during flush today health polar";
+var mnemonic = "fossil brass amount bind inmate boil mango book flip resemble cabin rate";

@@ -1,1 +1,1 @@
-var mnemonic = "crash visit mango eager six mixture they empower text audit credit noodle";
+var mnemonic = "congress public tone elegant field van ignore someone across renew genre accuse";

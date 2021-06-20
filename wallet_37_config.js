@@ -1,1 +1,1 @@
-var mnemonic = "chalk weapon empty enlist struggle symbol maid used sentence other local text";
+var mnemonic = "vault hero embrace domain liquid action sadness point among dune decade bike";

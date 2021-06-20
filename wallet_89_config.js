@@ -1,1 +1,1 @@
-var mnemonic = "security rail creek bronze spatial donate unknown sure destroy then sibling cloud";
+var mnemonic = "next accident club display habit fine envelope spring month icon valley ill";

@@ -1,1 +1,1 @@
-var mnemonic = "loud witness phone arrow legend unfold ask lava shield motor orchard infant";
+var mnemonic = "load average tooth hat lazy initial review diesel two era carry jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "birth bracket over security ocean coffee work ski guard knee desert want";
+var mnemonic = "horn enhance reveal live deliver special desk ceiling claw pyramid quiz fall";

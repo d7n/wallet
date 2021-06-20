@@ -1,1 +1,1 @@
-var mnemonic = "dentist future artwork viable subway link range million butter damp segment unfair";
+var mnemonic = "gravity kite odor verb sick chalk include album inmate alert shock fringe";

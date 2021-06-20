@@ -1,1 +1,1 @@
-var mnemonic = "fortune donor tiger firm verify survey double answer float state camera quit";
+var mnemonic = "another target potato elder cannon animal brief example avocado movie come fee";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet middle ancient opinion firm write excuse farm version embark object stand";
+var mnemonic = "hand wave logic lizard below tortoise symptom recall hint arctic robust mosquito";

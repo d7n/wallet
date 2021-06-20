@@ -1,1 +1,1 @@
-var mnemonic = "turkey mushroom shallow card solution message ankle elevator sound moral hungry oak";
+var mnemonic = "guide frame social fossil high slim enable clay secret surge ignore adult";

@@ -1,1 +1,1 @@
-var mnemonic = "now advice earn north trial long husband benefit hidden shift wagon hidden";
+var mnemonic = "chalk tenant inquiry minute exit loud review fly resemble metal leaf valley";

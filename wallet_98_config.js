@@ -1,1 +1,1 @@
-var mnemonic = "skill junior primary orient always enjoy east soap unable lend affair street";
+var mnemonic = "forum citizen away remain ship cycle consider discover tag cross pudding horse";

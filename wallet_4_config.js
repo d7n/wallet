@@ -1,1 +1,1 @@
-var mnemonic = "tumble void group apple bubble drive title glue wonder south enemy vocal";
+var mnemonic = "throw cave capable age drama match sibling cycle flag flock fever pistol";

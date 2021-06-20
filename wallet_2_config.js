@@ -1,1 +1,1 @@
-var mnemonic = "cannon floor gasp once drama kangaroo cool fish season again almost manage";
+var mnemonic = "gift hungry eight mechanic soul nerve napkin remind gadget bicycle sign fish";

@@ -1,1 +1,1 @@
-var mnemonic = "glass auto victory utility bar latin mechanic garlic bullet stairs fabric walk";
+var mnemonic = "danger eternal pledge nation tennis viable burst swear capable juice flag icon";

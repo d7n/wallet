@@ -1,1 +1,1 @@
-var mnemonic = "mandate nominee shell brush afford bracket wild soft truly april water window";
+var mnemonic = "change better satoshi trust bar warrior tumble fossil empower divorce name receive";

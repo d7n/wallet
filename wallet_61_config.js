@@ -1,1 +1,1 @@
-var mnemonic = "virtual burst tiger burst pudding absurd crane confirm early erupt trust weird";
+var mnemonic = "drink pepper outer tenant filter flower rack inner chalk reduce artwork alert";

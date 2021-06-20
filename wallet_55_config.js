@@ -1,1 +1,1 @@
-var mnemonic = "destroy great window nephew faint enroll smart sister year scatter token antique";
+var mnemonic = "balcony jazz scissors remain various keen service glass pipe split install round";

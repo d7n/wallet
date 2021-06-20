@@ -1,1 +1,1 @@
-var mnemonic = "employ deputy zero snap car youth obscure soft evoke scare asset valve";
+var mnemonic = "method poet donkey couple napkin average minimum orphan gadget please blame urban";

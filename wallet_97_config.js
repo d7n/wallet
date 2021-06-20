@@ -1,1 +1,1 @@
-var mnemonic = "monitor december together write change staff dance laugh skull teach either slender";
+var mnemonic = "useless obtain angry mule invite minimum tail nephew same better debris oval";

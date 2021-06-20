@@ -1,1 +1,1 @@
-var mnemonic = "virtual light uniform manage verb episode father still check bronze middle evoke";
+var mnemonic = "cycle canvas cram purity pulp jacket envelope thing poem else bind flat";

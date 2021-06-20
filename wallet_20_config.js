@@ -1,1 +1,1 @@
-var mnemonic = "ghost warm black inhale economy auction wheat behind ten knock soft frown";
+var mnemonic = "permit entire broken answer sock radio record shallow immense audit pony tourist";

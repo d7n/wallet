@@ -1,1 +1,1 @@
-var mnemonic = "frost wave volcano snap couch plug forum luggage debate people develop canal";
+var mnemonic = "erupt neck tribe gap copper wreck version carpet pluck ready spider much";

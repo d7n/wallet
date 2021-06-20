@@ -1,1 +1,1 @@
-var mnemonic = "turtle truck journey all maid patient bullet play repair climb edge setup";
+var mnemonic = "potato glow federal east obscure novel favorite rally orient awkward whip involve";

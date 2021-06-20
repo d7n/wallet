@@ -1,1 +1,1 @@
-var mnemonic = "inside scissors hamster elephant miracle truth foster vendor half muffin exact ask";
+var mnemonic = "gentle error decorate paddle convince gravity average rich legend toddler record must";

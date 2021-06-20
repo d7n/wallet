@@ -1,1 +1,1 @@
-var mnemonic = "venue way echo ride young similar wonder bridge toddler trim custom pumpkin";
+var mnemonic = "raccoon large unaware idea toy vault narrow mammal find bulb enter toy";

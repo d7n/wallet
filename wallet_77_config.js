@@ -1,1 +1,1 @@
-var mnemonic = "impact breeze office dinosaur humor wolf draw ribbon lunar sample adjust curve";
+var mnemonic = "blanket armor crater good auction floor person attract duck dash monster crouch";

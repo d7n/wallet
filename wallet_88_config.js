@@ -1,1 +1,1 @@
-var mnemonic = "lady agree cross supreme lunar extra conduct rebuild eight toddler speed phone";
+var mnemonic = "tone trash butter shed sunny canal video grace gossip violin rhythm often";

@@ -1,1 +1,1 @@
-var mnemonic = "minute razor divide nice ripple tomorrow system focus capital thought huge bike";
+var mnemonic = "portion hero slam board kiss nothing pig ritual involve nose reduce ladder";

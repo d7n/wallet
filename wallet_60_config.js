@@ -1,1 +1,1 @@
-var mnemonic = "tiny theme expire animal doctor fringe inflict column spend correct message fall";
+var mnemonic = "velvet dolphin march acoustic gentle sketch chalk below essay target rice six";

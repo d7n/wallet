@@ -1,1 +1,1 @@
-var mnemonic = "glare claw cycle dutch review trophy short pass shallow eyebrow depend ability";
+var mnemonic = "orphan rain match bind syrup hidden manage muffin transfer youth heavy woman";

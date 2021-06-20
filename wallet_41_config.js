@@ -1,1 +1,1 @@
-var mnemonic = "future sugar expand shove autumn oak nice episode advice nature film luggage";
+var mnemonic = "ready adapt invite nest cheese math win valid jelly maze ceiling kiss";

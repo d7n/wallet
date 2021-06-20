@@ -1,1 +1,1 @@
-var mnemonic = "bar push depth tube task hungry recycle crane service artefact business mean";
+var mnemonic = "utility cross glimpse pave drastic order you pink whisper brisk cry burst";

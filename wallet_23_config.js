@@ -1,1 +1,1 @@
-var mnemonic = "giraffe response camera fancy frozen mixture negative basic access flush monitor urban";
+var mnemonic = "pass wise injury mandate very equal observe exile secret erupt extend kick";

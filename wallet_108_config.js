@@ -1,1 +1,1 @@
-var mnemonic = "butter jar crisp bracket ship firm chase scorpion chimney region spoil exist";
+var mnemonic = "under garlic bar grunt tumble canvas midnight enact tonight unhappy hard next";

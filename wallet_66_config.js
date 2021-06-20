@@ -1,1 +1,1 @@
-var mnemonic = "lunar argue old fantasy vanish riot lucky large pair spoil harbor kit";
+var mnemonic = "office tennis junk unlock stove onion fabric transfer unhappy wait patch lemon";

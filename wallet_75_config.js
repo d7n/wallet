@@ -1,1 +1,1 @@
-var mnemonic = "strong october flame virtual lumber uncover daring luggage notable theory super pioneer";
+var mnemonic = "cloud cargo length sick pudding solar primary potato voice dial old route";

@@ -1,1 +1,1 @@
-var mnemonic = "hover snap nut six vehicle during glory alone draw isolate extend gate";
+var mnemonic = "round drastic congress tent assist must cheese shallow theme antique bean middle";

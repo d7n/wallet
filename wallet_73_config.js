@@ -1,1 +1,1 @@
-var mnemonic = "legend pact core later life ethics denial execute critic print wrong priority";
+var mnemonic = "gown duty lumber early plate picnic neutral virus lucky repair sleep guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp economy jelly brain have journey jazz absorb mix purity brush govern";
+var mnemonic = "carbon father ginger minimum they craft pulse embody lesson fury proud ivory";

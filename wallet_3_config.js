@@ -1,1 +1,1 @@
-var mnemonic = "young keen quality favorite awesome oak afraid silent dish humor ethics gas";
+var mnemonic = "large galaxy goat snack style clay elegant reduce dance indoor artwork pepper";

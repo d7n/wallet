@@ -1,1 +1,1 @@
-var mnemonic = "april salmon dolphin badge detail wait wonder wolf lemon omit client seed";
+var mnemonic = "sustain remind choose mobile assume gaze tiger medal bulk what coyote flavor";

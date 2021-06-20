@@ -1,1 +1,1 @@
-var mnemonic = "purchase false suspect rose oyster retire want orphan space combine humor topple";
+var mnemonic = "grid hundred control element acquire upon accident mansion jaguar farm lake fun";

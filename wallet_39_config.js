@@ -1,1 +1,1 @@
-var mnemonic = "scan kidney step weasel entire track peanut deposit club load benefit plunge";
+var mnemonic = "rose body salon uncle differ goddess dumb goddess say always minute phrase";

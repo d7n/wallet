@@ -1,1 +1,1 @@
-var mnemonic = "hold family tongue thrive report mountain eagle inflict siren pave play smile";
+var mnemonic = "denial noise exotic venture escape raw vault fine lonely rally sentence science";

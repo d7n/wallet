@@ -1,1 +1,1 @@
-var mnemonic = "game provide asset onion tiny frozen gorilla noise stand green youth design";
+var mnemonic = "echo unfair cheese plunge rich bonus electric liberty six else welcome wise";

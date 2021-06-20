@@ -1,1 +1,1 @@
-var mnemonic = "swing wheat fabric bench horse rural lava arch various mixed shuffle valve";
+var mnemonic = "term apology elegant lucky rack cream kitten coin agree zone fine acid";

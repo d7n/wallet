@@ -1,1 +1,1 @@
-var mnemonic = "happy inject sick view anxiety fiber become reveal brass reject figure upset";
+var mnemonic = "embody trigger buyer case ripple away joke again merit broken certain tumble";

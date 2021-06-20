@@ -1,1 +1,1 @@
-var mnemonic = "office win loop industry prepare okay useless awake hurry lend insect lottery";
+var mnemonic = "luggage early element gap reflect stairs mandate scorpion uniform shove real journey";

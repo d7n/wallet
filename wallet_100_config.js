@@ -1,1 +1,1 @@
-var mnemonic = "owner coffee subway end grid bullet chronic energy twin pact web fan";
+var mnemonic = "print that ticket will final drill race noble please negative lava actual";

@@ -1,1 +1,1 @@
-var mnemonic = "olive skull million setup cannon note civil pioneer mandate diagram chief hope";
+var mnemonic = "profit jelly target concert enlist enough until thank wet person public uphold";

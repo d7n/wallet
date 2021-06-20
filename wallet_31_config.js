@@ -1,1 +1,1 @@
-var mnemonic = "enjoy top meat culture afford market baby depart submit girl noble stable";
+var mnemonic = "dentist kick upper mutual hat atom bounce panda travel network catalog length";

@@ -1,1 +1,1 @@
-var mnemonic = "common hammer glance peanut turkey faculty vicious core thing timber rice much";
+var mnemonic = "under auction agent board mushroom sugar luxury jump valley win enable monster";

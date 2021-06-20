@@ -1,1 +1,1 @@
-var mnemonic = "subject certain squirrel arrive crunch always juice gift bunker husband exclude play";
+var mnemonic = "glad service magic tube dilemma then foam speak insect pet response eternal";

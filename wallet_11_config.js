@@ -1,1 +1,1 @@
-var mnemonic = "grunt rely clap modify venture stadium step safe miracle gym pill clock";
+var mnemonic = "pulp cargo shock gravity hammer pass faint stereo noble just boil half";

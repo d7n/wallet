@@ -1,1 +1,1 @@
-var mnemonic = "lizard there atom vehicle tooth deposit bring gain heart virus earth art";
+var mnemonic = "stereo copper mesh believe off novel net garlic bonus mom minute solution";

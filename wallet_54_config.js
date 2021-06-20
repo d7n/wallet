@@ -1,1 +1,1 @@
-var mnemonic = "script across mimic urban away company robot uncle arctic all glide lab";
+var mnemonic = "limb remain key label anchor sand dry drama admit learn brass zone";

@@ -1,1 +1,1 @@
-var mnemonic = "pull exhaust shiver analyst yard monitor now lumber proud silent firm claw";
+var mnemonic = "transfer ahead attitude yard sponsor energy denial flash card blossom frown execute";

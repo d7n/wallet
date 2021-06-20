@@ -1,1 +1,1 @@
-var mnemonic = "behave family ginger all remove accuse embark tail skill knock jump liquid";
+var mnemonic = "glide display icon menu frozen struggle slim glimpse ethics duty proof scan";

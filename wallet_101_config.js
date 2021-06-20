@@ -1,1 +1,1 @@
-var mnemonic = "category rail gospel fence virus actual tunnel myth they sock pepper occur";
+var mnemonic = "liar mixture grid scan guide aware barely bench title roast surge oak";

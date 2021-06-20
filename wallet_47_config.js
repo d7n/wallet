@@ -1,1 +1,1 @@
-var mnemonic = "trim you erosion situate error help busy guard dog travel tag demand";
+var mnemonic = "limb steak exercise cause print kind message defense ship gloom admit code";

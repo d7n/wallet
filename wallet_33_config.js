@@ -1,1 +1,1 @@
-var mnemonic = "economy flee medal gas cigar behind ill luxury perfect float slow behave";
+var mnemonic = "craft drive awkward deer usage cruel owner interest soap column camp goose";

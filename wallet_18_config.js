@@ -1,1 +1,1 @@
-var mnemonic = "erase trend cash afraid snake include enforce demise three oxygen panic engage";
+var mnemonic = "evolve board settle antique mix shift accident fabric ordinary scan muscle wool";

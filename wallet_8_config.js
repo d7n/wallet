@@ -1,1 +1,1 @@
-var mnemonic = "dash idle stock insect diary potato have there laugh blame fine number";
+var mnemonic = "alpha palm genuine pretty brief across orphan damage void knock monster neither";

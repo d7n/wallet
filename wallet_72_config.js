@@ -1,1 +1,1 @@
-var mnemonic = "ski patient source weird bronze clog original hard style typical adjust diagram";
+var mnemonic = "legend radio swarm minimum fiber ability warm estate chase cruel oval cradle";

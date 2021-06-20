@@ -1,1 +1,1 @@
-var mnemonic = "refuse express real multiply swallow puzzle point knee dizzy island angle inherit";
+var mnemonic = "equal modify chunk march pyramid spray symptom tribe dumb force surround pelican";

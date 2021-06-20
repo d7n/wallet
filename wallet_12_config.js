@@ -1,1 +1,1 @@
-var mnemonic = "ship enrich drama juice wealth injury canoe blossom test plate witness net";
+var mnemonic = "hunt prefer detect just crowd pelican piano cheese input worry film mind";

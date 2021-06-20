@@ -1,1 +1,1 @@
-var mnemonic = "entry speed ticket educate amateur vocal spin govern okay park usual select";
+var mnemonic = "wasp forward october unfold tell response someone reunion crumble planet unfair clever";

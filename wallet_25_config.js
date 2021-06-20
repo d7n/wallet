@@ -1,1 +1,1 @@
-var mnemonic = "rug armed maze surprise noise mammal nasty urban arena renew mushroom visa";
+var mnemonic = "raise window army doctor rookie tiger wheat brick minute giggle disorder oppose";

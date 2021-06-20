@@ -1,1 +1,1 @@
-var mnemonic = "pulse bracket relax margin run clip blouse pause ring true repair author";
+var mnemonic = "benefit apology sugar female enlist course under once type public join weapon";

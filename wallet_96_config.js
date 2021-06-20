@@ -1,1 +1,1 @@
-var mnemonic = "clean journey nerve peace shy quick infant frame acquire plug wet orphan";
+var mnemonic = "grab top round job vault boy devote private endorse pluck pretty shadow";

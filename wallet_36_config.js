@@ -1,1 +1,1 @@
-var mnemonic = "scale hip history other salon lounge agree sick use ignore today core";
+var mnemonic = "soup fine iron picnic grain rival title route siege funny leaf submit";

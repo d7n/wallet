@@ -1,1 +1,1 @@
-var mnemonic = "nice feel artist autumn choose general thunder orbit choose awake now situate";
+var mnemonic = "hole grain ivory airport offer sketch pact believe quote admit fluid grace";

@@ -1,1 +1,1 @@
-var mnemonic = "relax pipe fit delay cause swarm letter curve clean water guitar panic";
+var mnemonic = "fish funny mom arrest upgrade one diagram second festival assume action unable";

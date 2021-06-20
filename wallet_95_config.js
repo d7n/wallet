@@ -1,1 +1,1 @@
-var mnemonic = "invest roof eyebrow cable barely hurt elbow calm exit refuse cram olympic";
+var mnemonic = "absurd display little wasp sleep plunge must lonely lunar innocent assist earn";

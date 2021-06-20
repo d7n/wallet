@@ -1,1 +1,1 @@
-var mnemonic = "fury inch slow mechanic actual miracle transfer room rotate seed squeeze youth";
+var mnemonic = "inside toast trap fringe cover small earn census spin injury daughter sword";

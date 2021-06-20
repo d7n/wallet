@@ -1,1 +1,1 @@
-var mnemonic = "blood general text rude hint cake virus battle pink lock manual rather";
+var mnemonic = "word grit rebel excess dynamic anxiety purpose twin alter stumble comfort unlock";

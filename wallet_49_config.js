@@ -1,1 +1,1 @@
-var mnemonic = "unhappy file crater town scorpion nothing addict survey pudding citizen velvet differ";
+var mnemonic = "season kiwi order glare slow illness nephew easily curve squirrel swarm zone";

@@ -1,1 +1,1 @@
-var mnemonic = "permit tool thunder metal swamp wing random barely flash long credit smoke";
+var mnemonic = "exotic icon walnut misery position plastic scatter dance alone job pattern inhale";

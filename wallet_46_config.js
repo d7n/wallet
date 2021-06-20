@@ -1,1 +1,1 @@
-var mnemonic = "february obtain draw desert ill floor hire sight bone install deliver hero";
+var mnemonic = "save rigid bench call prison tip organ bunker knock milk flag bind";

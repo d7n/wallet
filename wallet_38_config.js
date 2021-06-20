@@ -1,1 +1,1 @@
-var mnemonic = "repair girl balance label gossip laundry kind harbor average segment gas salute";
+var mnemonic = "mean achieve auto cherry person disease desk flush exist found cement hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin dragon nominee foil border bulk pipe interest dad diary dove buffalo";
+var mnemonic = "nature nominee soul pudding spray other easily setup order issue core noodle";
