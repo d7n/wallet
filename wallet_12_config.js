@@ -1,1 +1,1 @@
-var mnemonic = "latin shrimp stuff morning magnet coconut rail title dog castle deliver lumber";
+var mnemonic = "giggle turn fluid tide hamster jump crime logic rally unlock ritual fog";

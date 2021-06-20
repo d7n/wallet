@@ -1,1 +1,1 @@
-var mnemonic = "trap cheap slender chronic radio label aware strategy motor enhance field erode";
+var mnemonic = "creek output enlist artefact hospital almost job reflect joy lion concert demand";

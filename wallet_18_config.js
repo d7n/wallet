@@ -1,1 +1,1 @@
-var mnemonic = "allow company ghost achieve hero type process solid elegant fork below need";
+var mnemonic = "afraid extra honey share negative wasp day nurse task tribe easy ginger";

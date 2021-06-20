@@ -1,1 +1,1 @@
-var mnemonic = "donkey ship smooth tank analyst drill mistake inside window dynamic damage pencil";
+var mnemonic = "they icon remember suggest can limb action vague scare degree tissue cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend tube barrel weapon proof disorder cruel certain race brass dish jazz";
+var mnemonic = "elegant soldier toddler lady law enter anger solar limit guilt purity enroll";

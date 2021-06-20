@@ -1,1 +1,1 @@
-var mnemonic = "ugly all slim unlock cake industry close adult canoe syrup attack cloth";
+var mnemonic = "width merry yard bounce guess analyst arm leisure circle trigger polar mad";

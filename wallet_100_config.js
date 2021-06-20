@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur shrug north arm inner echo scheme trust sight sell happy voyage";
+var mnemonic = "swarm pause nephew practice melt divert flag useful cycle fiction chest path";

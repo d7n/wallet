@@ -1,1 +1,1 @@
-var mnemonic = "orphan sick round gadget frequent add giggle pony session endorse govern hidden";
+var mnemonic = "multiply dust similar coconut settle gorilla sight allow sand mom mail doctor";

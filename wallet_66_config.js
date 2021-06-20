@@ -1,1 +1,1 @@
-var mnemonic = "head glory lunch rocket upper frown penalty broom wool thunder poet ecology";
+var mnemonic = "corn leader cotton awesome monster appear waste include warm myself notice noise";

@@ -1,1 +1,1 @@
-var mnemonic = "plunge arm myth original miss dilemma rally crater reunion canal lobster first";
+var mnemonic = "fan crew distance unique gun grape gentle bulb original grace ginger when";

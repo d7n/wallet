@@ -1,1 +1,1 @@
-var mnemonic = "glide cargo vanish grunt lawn replace mercy idea sun join focus please";
+var mnemonic = "day medal infant song already smoke boring easily volcano calm holiday ginger";

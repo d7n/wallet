@@ -1,1 +1,1 @@
-var mnemonic = "sight army hazard minute holiday suspect resist pride soldier horn giant frost";
+var mnemonic = "ice ordinary argue select number razor peanut rude provide chair margin blossom";

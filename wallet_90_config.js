@@ -1,1 +1,1 @@
-var mnemonic = "balcony liberty unknown action crucial juice tackle whip february filter argue fuel";
+var mnemonic = "robot expose camera law smoke auto candy math worth seven local carry";

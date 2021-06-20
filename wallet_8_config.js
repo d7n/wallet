@@ -1,1 +1,1 @@
-var mnemonic = "sadness ocean innocent insane flip employ simple hidden draft cotton real sample";
+var mnemonic = "sure junk air drama census noble churn shy mixture people work where";

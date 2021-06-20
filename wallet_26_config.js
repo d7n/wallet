@@ -1,1 +1,1 @@
-var mnemonic = "giraffe razor olive parade kangaroo cool awkward rescue soap despair liar soldier";
+var mnemonic = "afraid silly sand loop spread law romance remind knee knock lounge discover";

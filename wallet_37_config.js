@@ -1,1 +1,1 @@
-var mnemonic = "cream damp mango affair attract seven denial mind assume rocket receive solve";
+var mnemonic = "suggest broom perfect fossil skin beef tonight stomach summer extend unable keen";

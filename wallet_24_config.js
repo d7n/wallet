@@ -1,1 +1,1 @@
-var mnemonic = "patrol black angle match silent foam parrot jump small destroy fix assist";
+var mnemonic = "sponsor winter blossom pond border baby girl suspect flight bright uncle toilet";

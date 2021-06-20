@@ -1,1 +1,1 @@
-var mnemonic = "moon slot urge draft rapid swallow immense absent dress squeeze dismiss mandate";
+var mnemonic = "furnace brown reopen lounge success pass tongue learn magic outdoor connect shove";

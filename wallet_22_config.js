@@ -1,1 +1,1 @@
-var mnemonic = "mouse random bench motion tower omit cook pill pen sponsor cheap clean";
+var mnemonic = "valve venue aim jump equal leave fold output stage luxury acoustic hollow";

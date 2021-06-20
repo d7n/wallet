@@ -1,1 +1,1 @@
-var mnemonic = "friend camera illness hour okay stairs relief intact update inflict city jungle";
+var mnemonic = "sell feature wage awkward cycle color reopen peasant shield insect hand alley";

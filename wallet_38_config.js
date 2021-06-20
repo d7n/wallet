@@ -1,1 +1,1 @@
-var mnemonic = "injury piece possible evolve globe tape truck act property rocket reveal crisp";
+var mnemonic = "change club guess sand wealth truck address siege pledge list naive spare";

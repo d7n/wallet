@@ -1,1 +1,1 @@
-var mnemonic = "clock pipe return switch pulse shallow reduce assault zone hip effort dumb";
+var mnemonic = "action merit melt joy dirt whisper float pink genius predict soft beach";

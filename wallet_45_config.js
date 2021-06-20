@@ -1,1 +1,1 @@
-var mnemonic = "brand reason supreme harsh garage goddess abstract floor tower liar canyon media";
+var mnemonic = "vault ghost behind wedding miss mistake six unlock melt drum other knee";

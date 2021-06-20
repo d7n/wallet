@@ -1,1 +1,1 @@
-var mnemonic = "size vote catch across grain gloom flee autumn champion option surge adjust";
+var mnemonic = "online draw van skate diet measure bicycle dry day custom depend snow";

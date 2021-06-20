@@ -1,1 +1,1 @@
-var mnemonic = "twice broccoli ramp dirt reflect bamboo glad share list gauge dragon boy";
+var mnemonic = "small gap amused forum mobile burden they also obvious core extra state";

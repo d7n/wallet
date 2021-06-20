@@ -1,1 +1,1 @@
-var mnemonic = "calm mushroom between axis impose glove farm neutral cancel giant worry follow";
+var mnemonic = "chapter violin fragile charge make cabin negative guitar frequent rather hidden final";

@@ -1,1 +1,1 @@
-var mnemonic = "catch elder stay about under mix ticket detect better canyon junk remind";
+var mnemonic = "puppy bread shop sand there naive apart soon follow tiger smooth tape";

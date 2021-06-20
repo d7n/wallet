@@ -1,1 +1,1 @@
-var mnemonic = "trend purchase drop virtual pony special amateur truck dwarf silly chunk never";
+var mnemonic = "boat brick physical message grape tongue humor index police omit humble chief";

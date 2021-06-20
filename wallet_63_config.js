@@ -1,1 +1,1 @@
-var mnemonic = "code mail record evidence outer grace jar industry echo initial oppose element";
+var mnemonic = "achieve odor world unable true jaguar salmon crew damage grain near inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "job idle luggage egg whisper hold swear sea forum prosper parrot today";
+var mnemonic = "ridge live destroy quality retreat brisk elevator mixed bring govern depart border";

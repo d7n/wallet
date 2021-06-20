@@ -1,1 +1,1 @@
-var mnemonic = "bomb leave echo gallery beyond host pitch syrup alert hundred warfare check";
+var mnemonic = "life silk check gospel fury man oyster void paddle clip jealous ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple matrix rack object fly veteran roof humor begin name dwarf join";
+var mnemonic = "earth unhappy slot able limit fog journey visit pet crop example senior";

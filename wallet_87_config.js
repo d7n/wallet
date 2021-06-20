@@ -1,1 +1,1 @@
-var mnemonic = "flame travel network choice gadget swallow win crater leader love kiwi divorce";
+var mnemonic = "creek first view fire grocery squirrel tennis iron taxi gate much jealous";

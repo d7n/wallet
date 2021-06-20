@@ -1,1 +1,1 @@
-var mnemonic = "main nice cart rent switch grant giraffe coffee apart copy slogan valve";
+var mnemonic = "one fit viable rescue fork amazing giggle illness tissue sound cupboard abuse";

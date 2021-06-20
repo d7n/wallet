@@ -1,1 +1,1 @@
-var mnemonic = "taste tide already phone dress proof favorite snake install claw stamp drastic";
+var mnemonic = "gorilla volcano ceiling journey gallery salad marriage lobster liberty twin sister real";

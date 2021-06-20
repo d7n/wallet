@@ -1,1 +1,1 @@
-var mnemonic = "admit blossom edit dizzy dune regular snack client pluck hazard tragic dog";
+var mnemonic = "civil exile floor people lamp ill bubble height subject age infant under";

@@ -1,1 +1,1 @@
-var mnemonic = "buffalo cricket candy bread when repair bonus volume popular play raven fix";
+var mnemonic = "tobacco river mechanic evil tuition journey olive curve wave demand rain actor";

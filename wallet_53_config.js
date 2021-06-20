@@ -1,1 +1,1 @@
-var mnemonic = "shine inform cube drum exhaust umbrella spray myself humor shed gap brief";
+var mnemonic = "attitude hire engage enhance expose raise farm explain paper learn mass spin";

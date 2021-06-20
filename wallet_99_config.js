@@ -1,1 +1,1 @@
-var mnemonic = "evoke since ensure gate vessel erupt tackle bind pistol moment better beauty";
+var mnemonic = "symbol view grass dinosaur slab syrup breeze sort trophy basic dash media";

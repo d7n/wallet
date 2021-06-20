@@ -1,1 +1,1 @@
-var mnemonic = "frown treat original indicate swift popular venue lunar gossip avocado club engage";
+var mnemonic = "symbol chef maximum wrestle excite marriage future jeans awake expire violin right";

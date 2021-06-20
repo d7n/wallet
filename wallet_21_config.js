@@ -1,1 +1,1 @@
-var mnemonic = "range waste concert arrive age kidney skin able lunar chat toddler tonight";
+var mnemonic = "leg cook result brief fluid sample fly explain toast green reform coral";

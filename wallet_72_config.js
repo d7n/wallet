@@ -1,1 +1,1 @@
-var mnemonic = "panic have label erase scissors valley control essay century alone rhythm oyster";
+var mnemonic = "blanket organ addict snap flock index illegal ecology bench empty latin lobster";

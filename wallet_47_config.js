@@ -1,1 +1,1 @@
-var mnemonic = "hotel clip boy install subject guard school try danger possible bag nominee";
+var mnemonic = "clock defy proof universe leader satisfy art vital pottery arctic coil favorite";

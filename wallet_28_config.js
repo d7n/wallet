@@ -1,1 +1,1 @@
-var mnemonic = "master bright album gallery decline valley require such cereal around review thank";
+var mnemonic = "afraid actor unveil exhibit online obtain seminar script negative hello elegant car";

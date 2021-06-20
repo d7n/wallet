@@ -1,1 +1,1 @@
-var mnemonic = "oppose girl grunt twin eye turn basic brief put crop toddler hurt";
+var mnemonic = "illness echo rough spawn curtain lady sound leave practice divide uncover ring";

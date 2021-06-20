@@ -1,1 +1,1 @@
-var mnemonic = "tonight best reflect work news oil green toss artist eight clap rent";
+var mnemonic = "negative armed execute lake salt jump village kick move always remove hover";

@@ -1,1 +1,1 @@
-var mnemonic = "myself club biology style spatial cup course bullet scale release bless carpet";
+var mnemonic = "world toilet stay embody fall spice economy fit wall piano choice fruit";

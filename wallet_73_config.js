@@ -1,1 +1,1 @@
-var mnemonic = "spell hire train marble remind buyer marble bulb toilet cheese security fine";
+var mnemonic = "inflict juice decrease tape foam picnic absorb public symbol tilt ability strike";

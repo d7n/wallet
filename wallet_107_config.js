@@ -1,1 +1,1 @@
-var mnemonic = "toast purchase square lemon bamboo future hidden uncover nephew click flip toward";
+var mnemonic = "noble unfair pattern senior bamboo wheat sheriff cupboard thought peace flip despair";

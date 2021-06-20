@@ -1,1 +1,1 @@
-var mnemonic = "token card face fork crazy crater man trap common unusual deputy outer";
+var mnemonic = "sadness ticket donkey unlock toddler mansion slide birth start rotate worry mammal";

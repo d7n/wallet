@@ -1,1 +1,1 @@
-var mnemonic = "mechanic maid together bid agree page grocery fee sight note danger deposit";
+var mnemonic = "shallow riot birth excite action build inspire truck lizard quick confirm cycle";

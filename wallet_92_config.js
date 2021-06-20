@@ -1,1 +1,1 @@
-var mnemonic = "angry pudding come meadow sadness ranch crazy woman sphere embrace file bench";
+var mnemonic = "jewel item parent busy group brass video devote trade bar local quality";

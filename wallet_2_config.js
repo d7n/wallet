@@ -1,1 +1,1 @@
-var mnemonic = "away luggage flat enhance grit want hand infant silly senior gallery receive";
+var mnemonic = "enrich jar unaware aware sunset luxury fun exhibit color ill mango arrest";

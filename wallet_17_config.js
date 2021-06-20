@@ -1,1 +1,1 @@
-var mnemonic = "oppose talent fade will helmet size crime skate oxygen hockey hawk concert";
+var mnemonic = "special vault world infant work motor youth base bounce destroy twist divide";

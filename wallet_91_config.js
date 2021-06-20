@@ -1,1 +1,1 @@
-var mnemonic = "luxury network fit slogan bounce puppy walnut dinner trouble copy write sure";
+var mnemonic = "assume lawn brass east blast foster youth combine draw finish join square";

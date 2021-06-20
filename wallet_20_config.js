@@ -1,1 +1,1 @@
-var mnemonic = "bleak shrug voyage deliver pave since fan oil creek jacket maximum salon";
+var mnemonic = "asset energy fresh artwork hand stove sing select erosion unveil warrior bunker";

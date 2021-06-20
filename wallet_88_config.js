@@ -1,1 +1,1 @@
-var mnemonic = "improve huge robot romance expose model movie hospital outer young else crisp";
+var mnemonic = "vibrant album twelve lion produce apology dwarf accuse unusual fee armor chalk";

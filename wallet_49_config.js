@@ -1,1 +1,1 @@
-var mnemonic = "seven measure wasp husband tent combine pledge hub peace rocket mystery setup";
+var mnemonic = "flip middle giant tunnel erode mixed pepper clerk quiz cute drip milk";

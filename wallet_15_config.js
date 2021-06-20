@@ -1,1 +1,1 @@
-var mnemonic = "peanut hidden traffic split hub cheap stay you stumble second kite swim";
+var mnemonic = "country exclude apology release process advance moment possible soul receive nerve apology";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil guitar behave expand parade myth color tree hurdle laugh when hidden";
+var mnemonic = "kick reward drum grape abandon mutual sketch surround dilemma salute issue bubble";

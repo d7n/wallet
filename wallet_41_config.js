@@ -1,1 +1,1 @@
-var mnemonic = "boy enact car medal picture bone order window crash have marine bitter";
+var mnemonic = "length labor grape pass discover fan tongue disorder south youth vapor father";

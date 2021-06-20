@@ -1,1 +1,1 @@
-var mnemonic = "state lonely fence weekend grit fade spin fence whip never castle drill";
+var mnemonic = "inhale vocal easy write loop danger gauge park soda decade vague solid";

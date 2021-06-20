@@ -1,1 +1,1 @@
-var mnemonic = "ramp exhibit roast give half dance abstract broken clever wreck wide toy";
+var mnemonic = "mandate trumpet dial riot ahead siren poem dentist urban mandate head urge";

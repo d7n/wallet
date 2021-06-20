@@ -1,1 +1,1 @@
-var mnemonic = "emerge cage mesh cluster maze ahead raw tongue swap leave season illegal";
+var mnemonic = "grab smooth skirt traffic fun myth rule thing festival lobster general deer";

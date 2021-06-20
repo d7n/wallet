@@ -1,1 +1,1 @@
-var mnemonic = "luxury phone impact alarm identify clerk tonight pelican level setup evoke dune";
+var mnemonic = "give twice success wise excuse crack indoor chest tool inspire clock penalty";

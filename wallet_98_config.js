@@ -1,1 +1,1 @@
-var mnemonic = "connect ask gesture brain unusual mention laundry post across risk alien letter";
+var mnemonic = "girl face focus session flip roof ahead staff negative cushion box pudding";

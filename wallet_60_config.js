@@ -1,1 +1,1 @@
-var mnemonic = "holiday veteran gadget cave journey round head share adapt harbor potato busy";
+var mnemonic = "fiscal faculty mind loop color solve today depart clump document where that";

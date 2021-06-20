@@ -1,1 +1,1 @@
-var mnemonic = "rebel identify describe vault enlist excess control muffin anchor sudden reveal habit";
+var mnemonic = "dove draft pilot enlist copy usual equal quiz disorder amateur demise agent";

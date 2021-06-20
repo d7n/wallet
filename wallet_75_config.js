@@ -1,1 +1,1 @@
-var mnemonic = "relax comic guilt honey eight cube label maid punch access crush swear";
+var mnemonic = "original giggle play day aware fruit three mom supreme butter warrior airport";

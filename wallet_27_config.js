@@ -1,1 +1,1 @@
-var mnemonic = "disagree enlist multiply throw skin affair moral flower era despair faith radio";
+var mnemonic = "thank fury ghost light snake install license work picnic message shell apart";

@@ -1,1 +1,1 @@
-var mnemonic = "annual deposit awesome regret ramp require atom laundry appear link wear ostrich";
+var mnemonic = "glow shock spider also mercy capital admit giggle you carbon feed alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "delay ill base iron fit tray foam flower swim excite edge attitude";
+var mnemonic = "result turn enjoy cruel process guide rough century analyst sniff clap trick";

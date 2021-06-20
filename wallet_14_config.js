@@ -1,1 +1,1 @@
-var mnemonic = "lounge insane stumble blame banana design nurse amount evidence holiday rubber firm";
+var mnemonic = "raw fish alarm pass sadness language grab reform scale custom term place";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant cluster document million fitness step minute fruit pilot forget penalty pattern";
+var mnemonic = "double educate define stuff test leave bridge trick milk frost cat gospel";

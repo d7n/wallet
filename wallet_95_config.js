@@ -1,1 +1,1 @@
-var mnemonic = "cheese mirror rotate laugh giant harbor lesson cram situate pepper hood raw";
+var mnemonic = "flip subject squeeze legend father goat gesture travel drive skirt sponsor bargain";

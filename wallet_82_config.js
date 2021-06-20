@@ -1,1 +1,1 @@
-var mnemonic = "cloth fiscal machine evoke mammal shoulder garlic hungry enact orient travel cotton";
+var mnemonic = "sight mesh enjoy abandon brush cupboard play goat door round silk casino";

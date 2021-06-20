@@ -1,1 +1,1 @@
-var mnemonic = "retreat great then task inquiry bulk soap material sure glass zebra speed";
+var mnemonic = "afraid pact face cloth bench win excess orange pig fly turtle gentle";

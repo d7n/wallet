@@ -1,1 +1,1 @@
-var mnemonic = "course yard mimic series awesome subject magnet whale insect nominee still ramp";
+var mnemonic = "wave twelve differ physical round federal mesh rug rebuild leaf virtual oblige";

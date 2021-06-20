@@ -1,1 +1,1 @@
-var mnemonic = "since scrap fashion peanut assume common melt cotton eagle swift oyster cook";
+var mnemonic = "slot slush inquiry true aware indoor news above soup galaxy giant oval";

@@ -1,1 +1,1 @@
-var mnemonic = "deal hybrid flush cute pear seed option gorilla balance impact ripple warm";
+var mnemonic = "water access front replace bench smart letter excuse erase harsh unfold cute";

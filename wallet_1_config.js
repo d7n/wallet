@@ -1,1 +1,1 @@
-var mnemonic = "chalk wave inject saddle beyond practice elder inch athlete peasant inner goat";
+var mnemonic = "danger ice sight camp ancient casual poverty control example canyon virtual mother";

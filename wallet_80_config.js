@@ -1,1 +1,1 @@
-var mnemonic = "bargain scrap ten soul pistol web snake hint jazz term such wire";
+var mnemonic = "error glare brain skate loud problem impulse omit tube rib unknown purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify exist candy display random advice solid ecology friend pepper orange social";
+var mnemonic = "length pass hedgehog middle ship soft wrestle noise tumble shield pyramid ball";

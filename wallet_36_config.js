@@ -1,1 +1,1 @@
-var mnemonic = "glove erode taste sudden autumn gold spray guilt trigger nation degree divide";
+var mnemonic = "consider broom blade rain medal cost stable tooth quit exile way wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "rule make smile wrist horse town ready honey share never turn leader";
+var mnemonic = "square unveil dignity club choose case time foster hotel entire method refuse";

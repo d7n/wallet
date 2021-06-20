@@ -1,1 +1,1 @@
-var mnemonic = "bullet best famous license coyote trouble doll spring invest deer client like";
+var mnemonic = "hope taxi zoo theory mammal ordinary will enlist riot system project lawsuit";

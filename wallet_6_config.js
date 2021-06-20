@@ -1,1 +1,1 @@
-var mnemonic = "guess orchard define mimic grant spell hold mistake grid pulse health agent";
+var mnemonic = "exchange need liberty attack kite swift matter please maze forget belt anchor";

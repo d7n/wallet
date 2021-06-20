@@ -1,1 +1,1 @@
-var mnemonic = "picture observe soon tower beyond razor mammal snack exchange night camp credit";
+var mnemonic = "combine sing category future build thought wrong elbow smile trade beyond snake";
