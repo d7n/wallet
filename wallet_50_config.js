@@ -1,1 +1,1 @@
-var mnemonic = "denial noise exotic venture escape raw vault fine lonely rally sentence science";
+var mnemonic = "myth sun evidence ordinary nest admit black enable tumble puzzle motor permit";

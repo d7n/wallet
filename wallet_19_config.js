@@ -1,1 +1,1 @@
-var mnemonic = "hand wave logic lizard below tortoise symptom recall hint arctic robust mosquito";
+var mnemonic = "engine casual awake noble interest absent void crack off snack accuse case";

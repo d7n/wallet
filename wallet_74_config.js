@@ -1,1 +1,1 @@
-var mnemonic = "meadow donkey outdoor youth reject produce inherit nurse tip proud below slim";
+var mnemonic = "cinnamon invest swift inmate mystery okay dinner guard awesome protect steak absorb";

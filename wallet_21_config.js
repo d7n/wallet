@@ -1,1 +1,1 @@
-var mnemonic = "guide frame social fossil high slim enable clay secret surge ignore adult";
+var mnemonic = "flush reunion like camp broken game cinnamon bean enlist blossom velvet isolate";

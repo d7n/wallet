@@ -1,1 +1,1 @@
-var mnemonic = "throw cave capable age drama match sibling cycle flag flock fever pistol";
+var mnemonic = "salad truck purse cotton all good casino section civil fan bracket light";

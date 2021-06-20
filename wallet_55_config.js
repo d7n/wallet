@@ -1,1 +1,1 @@
-var mnemonic = "balcony jazz scissors remain various keen service glass pipe split install round";
+var mnemonic = "alcohol city fiber giant coach dish forest minor assault wheat discover wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "mean achieve auto cherry person disease desk flush exist found cement hurry";
+var mnemonic = "inquiry give tent lunch average first spread deer fuel session next device";

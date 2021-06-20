@@ -1,1 +1,1 @@
-var mnemonic = "sponsor island inhale chase milk child heart shoe long raise series neglect";
+var mnemonic = "shoulder skirt birth minor blanket drill response tuition sort mistake twice joy";

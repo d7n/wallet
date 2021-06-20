@@ -1,1 +1,1 @@
-var mnemonic = "nature nominee soul pudding spray other easily setup order issue core noodle";
+var mnemonic = "voice powder special aunt wedding potato reunion milk hedgehog taxi useful wish";

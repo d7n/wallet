@@ -1,1 +1,1 @@
-var mnemonic = "gravity kite odor verb sick chalk include album inmate alert shock fringe";
+var mnemonic = "loan income second copper false pencil mimic imitate weekend butter casino announce";

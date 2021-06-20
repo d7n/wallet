@@ -1,1 +1,1 @@
-var mnemonic = "weekend endless custom entry boy grass betray render danger luggage armed forest";
+var mnemonic = "delay ozone intact rug glow fiber captain canyon quick habit badge cover";

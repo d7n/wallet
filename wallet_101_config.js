@@ -1,1 +1,1 @@
-var mnemonic = "liar mixture grid scan guide aware barely bench title roast surge oak";
+var mnemonic = "world name mammal bundle engine tent sweet join seek friend mask security";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist kick upper mutual hat atom bounce panda travel network catalog length";
+var mnemonic = "century extra table space ahead allow elite level virtual morning matter afford";

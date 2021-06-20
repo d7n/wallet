@@ -1,1 +1,1 @@
-var mnemonic = "zero repeat sugar bitter fiction north wealth stable inch mixed rescue roof";
+var mnemonic = "ceiling despair ensure peanut hover order wet silk update ginger uphold world";

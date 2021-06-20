@@ -1,1 +1,1 @@
-var mnemonic = "split damage evoke foot trip acquire habit pull drill stand divorce figure";
+var mnemonic = "expose chicken liberty curve artwork nothing erosion away drip latin table night";

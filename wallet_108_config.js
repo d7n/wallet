@@ -1,1 +1,1 @@
-var mnemonic = "under garlic bar grunt tumble canvas midnight enact tonight unhappy hard next";
+var mnemonic = "train strategy adjust doll garment float indicate crane profit woman refuse success";

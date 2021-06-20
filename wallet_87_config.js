@@ -1,1 +1,1 @@
-var mnemonic = "erupt neck tribe gap copper wreck version carpet pluck ready spider much";
+var mnemonic = "laundry rate tent arrive spawn cram adjust boy lazy woman pulse fire";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk tenant inquiry minute exit loud review fly resemble metal leaf valley";
+var mnemonic = "shoe push acoustic chapter concert high ensure bachelor ball relax across room";

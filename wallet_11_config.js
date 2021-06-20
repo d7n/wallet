@@ -1,1 +1,1 @@
-var mnemonic = "pulp cargo shock gravity hammer pass faint stereo noble just boil half";
+var mnemonic = "they among across target pumpkin wolf quarter never catalog elder move sad";

@@ -1,1 +1,1 @@
-var mnemonic = "horn enhance reveal live deliver special desk ceiling claw pyramid quiz fall";
+var mnemonic = "slam north catch ketchup giggle ticket depart unaware able ivory balance bean";

@@ -1,1 +1,1 @@
-var mnemonic = "good sadness wasp that riot meadow table pledge album lend tongue promote";
+var mnemonic = "distance wood tide stove cost witness scout sheriff rude century van distance";

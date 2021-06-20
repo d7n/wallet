@@ -1,1 +1,1 @@
-var mnemonic = "limb steak exercise cause print kind message defense ship gloom admit code";
+var mnemonic = "recall feature casino shoulder vanish evolve common reopen prison develop trust battle";

@@ -1,1 +1,1 @@
-var mnemonic = "permit entire broken answer sock radio record shallow immense audit pony tourist";
+var mnemonic = "dance age again merge fish ripple exact bubble frame consider chair roof";

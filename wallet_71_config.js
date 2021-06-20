@@ -1,1 +1,1 @@
-var mnemonic = "equal modify chunk march pyramid spray symptom tribe dumb force surround pelican";
+var mnemonic = "hub chat filter monkey barrel test delay flat debris labor wealth license";

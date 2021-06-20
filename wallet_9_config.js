@@ -1,1 +1,1 @@
-var mnemonic = "portion hero slam board kiss nothing pig ritual involve nose reduce ladder";
+var mnemonic = "provide survey wire dinosaur frost belt pride sentence siege zone winner rubber";

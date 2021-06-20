@@ -1,1 +1,1 @@
-var mnemonic = "drink pepper outer tenant filter flower rack inner chalk reduce artwork alert";
+var mnemonic = "interest wet security apology protect volcano fly inherit duty toward blue mountain";

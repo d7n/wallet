@@ -1,1 +1,1 @@
-var mnemonic = "very rhythm flash upgrade jewel law stomach strong wrong puzzle discover author";
+var mnemonic = "bag tent skill kidney claw clerk acid penalty umbrella depart canal rose";

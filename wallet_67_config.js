@@ -1,1 +1,1 @@
-var mnemonic = "potato glow federal east obscure novel favorite rally orient awkward whip involve";
+var mnemonic = "spot winter cook front work wide situate depend surprise situate cereal ecology";

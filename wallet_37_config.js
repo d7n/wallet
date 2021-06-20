@@ -1,1 +1,1 @@
-var mnemonic = "vault hero embrace domain liquid action sadness point among dune decade bike";
+var mnemonic = "flame bracket mixture connect violin few mask jaguar current weekend need wedding";

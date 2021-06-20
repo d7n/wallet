@@ -1,1 +1,1 @@
-var mnemonic = "legend radio swarm minimum fiber ability warm estate chase cruel oval cradle";
+var mnemonic = "axis tragic second ring onion powder myth float rule bicycle about deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage early element gap reflect stairs mandate scorpion uniform shove real journey";
+var mnemonic = "female earn grunt eager brain select online proof rubber great hope fresh";

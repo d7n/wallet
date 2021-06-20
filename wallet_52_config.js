@@ -1,1 +1,1 @@
-var mnemonic = "carbon father ginger minimum they craft pulse embody lesson fury proud ivory";
+var mnemonic = "enforce autumn stomach vivid drill rebel adult hint machine capital budget eye";

@@ -1,1 +1,1 @@
-var mnemonic = "grab top round job vault boy devote private endorse pluck pretty shadow";
+var mnemonic = "turn scheme trend issue alley canal evoke sister know food credit cloud";

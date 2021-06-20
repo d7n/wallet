@@ -1,1 +1,1 @@
-var mnemonic = "fox heart evil equal index hill disagree about rough obey ladder donkey";
+var mnemonic = "undo width moon coast kitten essay remind permit dumb tobacco zebra retire";

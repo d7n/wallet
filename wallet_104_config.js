@@ -1,1 +1,1 @@
-var mnemonic = "deputy sphere parade desk town cook soon tumble raccoon click else hurt";
+var mnemonic = "trust stick used sense stomach limb alter you case episode segment okay";

@@ -1,1 +1,1 @@
-var mnemonic = "soup fine iron picnic grain rival title route siege funny leaf submit";
+var mnemonic = "organ filter hen film company brick business pool crater despair deal valve";

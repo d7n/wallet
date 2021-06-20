@@ -1,1 +1,1 @@
-var mnemonic = "season kiwi order glare slow illness nephew easily curve squirrel swarm zone";
+var mnemonic = "toward forget rare seek rookie try lemon off safe gas bamboo beach";

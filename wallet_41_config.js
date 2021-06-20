@@ -1,1 +1,1 @@
-var mnemonic = "ready adapt invite nest cheese math win valid jelly maze ceiling kiss";
+var mnemonic = "bid loud cliff clip gospel mask regret slide affair gaze solution erode";

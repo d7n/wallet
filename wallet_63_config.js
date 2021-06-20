@@ -1,1 +1,1 @@
-var mnemonic = "term apology elegant lucky rack cream kitten coin agree zone fine acid";
+var mnemonic = "need answer hamster busy plastic crunch diesel purchase movie price foot police";

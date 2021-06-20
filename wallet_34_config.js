@@ -1,1 +1,1 @@
-var mnemonic = "tide step vendor number old grace pair first wild mom random correct";
+var mnemonic = "wolf pen forest punch bulk spawn approve palace human quiz pill napkin";

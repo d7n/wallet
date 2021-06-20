@@ -1,1 +1,1 @@
-var mnemonic = "upper bread chicken raw meadow multiply long into adjust lawn sample track";
+var mnemonic = "collect adult urban edge avoid twist sail lady scan episode sunset stage";

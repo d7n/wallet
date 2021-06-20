@@ -1,1 +1,1 @@
-var mnemonic = "noise float involve option buddy order proud faith door notable teach genre";
+var mnemonic = "over adjust satoshi news scrub virtual trophy rubber broken fine tray tourist";

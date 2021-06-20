@@ -1,1 +1,1 @@
-var mnemonic = "utility cross glimpse pave drastic order you pink whisper brisk cry burst";
+var mnemonic = "genre visit puppy october blossom nest clutch nephew loan goose gift smart";

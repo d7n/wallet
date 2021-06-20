@@ -1,1 +1,1 @@
-var mnemonic = "debate deny skin arrive dish already soon attitude polar turkey service goose";
+var mnemonic = "urge item police despair dismiss atom type market cart federal crunch keep";

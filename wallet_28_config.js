@@ -1,1 +1,1 @@
-var mnemonic = "royal online clock gorilla fiscal alpha tail image coast circle garden flock";
+var mnemonic = "afraid immune guide group wisdom kitchen blood section bean antenna palm trick";

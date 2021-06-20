@@ -1,1 +1,1 @@
-var mnemonic = "gift hungry eight mechanic soul nerve napkin remind gadget bicycle sign fish";
+var mnemonic = "dumb dust move royal silk echo museum tomato glass bamboo victory devote";

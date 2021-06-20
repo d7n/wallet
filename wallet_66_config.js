@@ -1,1 +1,1 @@
-var mnemonic = "office tennis junk unlock stove onion fabric transfer unhappy wait patch lemon";
+var mnemonic = "era gain coconut what shoe flat tide sustain panther erosion tone lamp";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp forward october unfold tell response someone reunion crumble planet unfair clever";
+var mnemonic = "swing clarify ability double subway verify filter thing leave join borrow situate";

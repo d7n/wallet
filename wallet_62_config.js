@@ -1,1 +1,1 @@
-var mnemonic = "rival slam climb end tunnel elite require scare soon empower giggle fresh";
+var mnemonic = "increase letter pattern jewel time observe follow square joy search about certain";

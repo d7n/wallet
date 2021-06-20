@@ -1,1 +1,1 @@
-var mnemonic = "raccoon large unaware idea toy vault narrow mammal find bulb enter toy";
+var mnemonic = "cruise protect tornado tag system crisp tent include speed define battle decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan rain match bind syrup hidden manage muffin transfer youth heavy woman";
+var mnemonic = "denial few must wife lawn left over jazz rely ripple faith ethics";

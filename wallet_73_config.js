@@ -1,1 +1,1 @@
-var mnemonic = "gown duty lumber early plate picnic neutral virus lucky repair sleep guitar";
+var mnemonic = "beach minute just quick assault panel frown under army fish open volume";

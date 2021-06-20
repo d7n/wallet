@@ -1,1 +1,1 @@
-var mnemonic = "slim clever worth finish melody radio humor bracket alien pair behave waste";
+var mnemonic = "nothing eight outside arctic winter climb river vocal army soup poverty elegant";

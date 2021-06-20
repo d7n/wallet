@@ -1,1 +1,1 @@
-var mnemonic = "stereo copper mesh believe off novel net garlic bonus mom minute solution";
+var mnemonic = "stone pulp voyage oven crop leaf traffic connect inmate between raw urge";

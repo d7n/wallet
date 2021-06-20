@@ -1,1 +1,1 @@
-var mnemonic = "method poet donkey couple napkin average minimum orphan gadget please blame urban";
+var mnemonic = "enable inflict brief during balance bronze isolate delay bracket belt tribe case";

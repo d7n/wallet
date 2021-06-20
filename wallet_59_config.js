@@ -1,1 +1,1 @@
-var mnemonic = "change better satoshi trust bar warrior tumble fossil empower divorce name receive";
+var mnemonic = "siren right loud cruise grief program truth cake hundred airport assist fringe";

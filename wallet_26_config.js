@@ -1,1 +1,1 @@
-var mnemonic = "danger eternal pledge nation tennis viable burst swear capable juice flag icon";
+var mnemonic = "silly steel moment imitate inform double elite symptom lunch fish salmon alter";

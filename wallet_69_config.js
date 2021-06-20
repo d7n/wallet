@@ -1,1 +1,1 @@
-var mnemonic = "wedding antique young cook unable expand bundle forest arch negative night hurdle";
+var mnemonic = "foil auction matter choice innocent twenty parade icon dragon beauty symptom useful";

@@ -1,1 +1,1 @@
-var mnemonic = "glide display icon menu frozen struggle slim glimpse ethics duty proof scan";
+var mnemonic = "rebuild major again tower detect mosquito ice hurdle mushroom couple riot sausage";

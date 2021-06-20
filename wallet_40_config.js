@@ -1,1 +1,1 @@
-var mnemonic = "unlock pear chaos great joke pass stumble excess spoon envelope vapor current";
+var mnemonic = "typical slush promote eight uncover aware review unique beach improve silk festival";

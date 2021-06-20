@@ -1,1 +1,1 @@
-var mnemonic = "fish funny mom arrest upgrade one diagram second festival assume action unable";
+var mnemonic = "reform announce horn inside rich green relax laptop father melody sting net";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket armor crater good auction floor person attract duck dash monster crouch";
+var mnemonic = "outside mean square outdoor auction exclude road still wear either addict media";

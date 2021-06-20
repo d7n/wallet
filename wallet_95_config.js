@@ -1,1 +1,1 @@
-var mnemonic = "absurd display little wasp sleep plunge must lonely lunar innocent assist earn";
+var mnemonic = "furnace seat satoshi maximum decide moment east analyst frequent acid cube era";

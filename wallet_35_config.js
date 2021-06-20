@@ -1,1 +1,1 @@
-var mnemonic = "sustain remind choose mobile assume gaze tiger medal bulk what coyote flavor";
+var mnemonic = "march achieve waste cactus glass spawn fitness chicken direct current twelve world";

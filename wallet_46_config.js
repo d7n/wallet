@@ -1,1 +1,1 @@
-var mnemonic = "save rigid bench call prison tip organ bunker knock milk flag bind";
+var mnemonic = "rough issue cabbage ecology behave entry bone logic tenant prefer aim alone";

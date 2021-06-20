@@ -1,1 +1,1 @@
-var mnemonic = "fluid hotel strong swamp digital drastic simple vehicle note number vendor april";
+var mnemonic = "define injury wave supreme used ozone truly awake wreck intact mosquito alley";

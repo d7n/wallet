@@ -1,1 +1,1 @@
-var mnemonic = "useless obtain angry mule invite minimum tail nephew same better debris oval";
+var mnemonic = "nerve viable pigeon wrap open dream current produce three trap enter language";

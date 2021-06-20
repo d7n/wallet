@@ -1,1 +1,1 @@
-var mnemonic = "helmet satisfy gather cloth length chaos false cream satisfy sudden food latin";
+var mnemonic = "genius shed network proud express myself game grain use hidden donor wheat";

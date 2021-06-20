@@ -1,1 +1,1 @@
-var mnemonic = "pass wise injury mandate very equal observe exile secret erupt extend kick";
+var mnemonic = "sun comic ozone peanut shock salad explain version level limit tenant account";

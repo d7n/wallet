@@ -1,1 +1,1 @@
-var mnemonic = "forum citizen away remain ship cycle consider discover tag cross pudding horse";
+var mnemonic = "brain city expect horror input dog gate tag brass ahead winner empower";

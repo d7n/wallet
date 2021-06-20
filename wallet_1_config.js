@@ -1,1 +1,1 @@
-var mnemonic = "congress public tone elegant field van ignore someone across renew genre accuse";
+var mnemonic = "duty engine build film language rebel toast chaos give hint pride risk";

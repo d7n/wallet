@@ -1,1 +1,1 @@
-var mnemonic = "cycle canvas cram purity pulp jacket envelope thing poem else bind flat";
+var mnemonic = "strategy honey obey multiply whisper always robot quantum riot illness fabric join";

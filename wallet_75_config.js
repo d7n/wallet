@@ -1,1 +1,1 @@
-var mnemonic = "cloud cargo length sick pudding solar primary potato voice dial old route";
+var mnemonic = "ask fly equip major piece decrease seek seven brick female tunnel raven";

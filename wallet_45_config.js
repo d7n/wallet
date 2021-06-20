@@ -1,1 +1,1 @@
-var mnemonic = "another target potato elder cannon animal brief example avocado movie come fee";
+var mnemonic = "chimney neck design amateur fun timber smart clock travel violin comic used";

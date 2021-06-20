@@ -1,1 +1,1 @@
-var mnemonic = "alpha palm genuine pretty brief across orphan damage void knock monster neither";
+var mnemonic = "park member festival ring sunset banner wheel dash tobacco theme bulb satisfy";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle error decorate paddle convince gravity average rich legend toddler record must";
+var mnemonic = "blur symbol history empower alarm various tomorrow auction chat horn arch liberty";

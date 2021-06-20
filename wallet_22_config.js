@@ -1,1 +1,1 @@
-var mnemonic = "word grit rebel excess dynamic anxiety purpose twin alter stumble comfort unlock";
+var mnemonic = "act luxury reduce nice amused since party half nut sad color surprise";

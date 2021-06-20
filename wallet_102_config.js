@@ -1,1 +1,1 @@
-var mnemonic = "bronze pretty blanket myth column broken shaft rally comfort ahead animal staff";
+var mnemonic = "monkey disorder catalog aware piano insect give acoustic vote village street spike";

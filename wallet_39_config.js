@@ -1,1 +1,1 @@
-var mnemonic = "rose body salon uncle differ goddess dumb goddess say always minute phrase";
+var mnemonic = "tide figure train yellow tree wrong holiday scatter gun kangaroo thunder tattoo";

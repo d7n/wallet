@@ -1,1 +1,1 @@
-var mnemonic = "clever actual mammal voyage toddler joke mushroom lock fun phrase chapter wealth";
+var mnemonic = "vital zebra stone rib switch brief wrist toilet evoke brush arrange power";

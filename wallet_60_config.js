@@ -1,1 +1,1 @@
-var mnemonic = "velvet dolphin march acoustic gentle sketch chalk below essay target rice six";
+var mnemonic = "flush model floor often notable wrong uphold soul tilt ancient pen truth";

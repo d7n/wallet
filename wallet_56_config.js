@@ -1,1 +1,1 @@
-var mnemonic = "ceiling deliver inform garment capital jar actual layer curious diet display like";
+var mnemonic = "border track ginger trap entire narrow tired basic tumble fork tongue pull";

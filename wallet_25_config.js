@@ -1,1 +1,1 @@
-var mnemonic = "raise window army doctor rookie tiger wheat brick minute giggle disorder oppose";
+var mnemonic = "walnut immense visa click unaware deputy version awake update exclude peanut series";

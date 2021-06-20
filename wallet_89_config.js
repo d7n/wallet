@@ -1,1 +1,1 @@
-var mnemonic = "next accident club display habit fine envelope spring month icon valley ill";
+var mnemonic = "cost knee mansion lend stereo basket water tape gym must learn gentle";

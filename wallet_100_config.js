@@ -1,1 +1,1 @@
-var mnemonic = "print that ticket will final drill race noble please negative lava actual";
+var mnemonic = "spoil scout soup bind wise chaos bulk bachelor street element average belt";

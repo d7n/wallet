@@ -1,1 +1,1 @@
-var mnemonic = "limb remain key label anchor sand dry drama admit learn brass zone";
+var mnemonic = "process key craft know baby slice fiction library radar fantasy rain culture";

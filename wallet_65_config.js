@@ -1,1 +1,1 @@
-var mnemonic = "echo unfair cheese plunge rich bonus electric liberty six else welcome wise";
+var mnemonic = "local stand grow horn stove pause kite sketch common abstract monkey food";

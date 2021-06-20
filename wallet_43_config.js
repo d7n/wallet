@@ -1,1 +1,1 @@
-var mnemonic = "grid hundred control element acquire upon accident mansion jaguar farm lake fun";
+var mnemonic = "swarm fade film say oyster tourist fiscal slot zero mountain weapon front";

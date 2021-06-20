@@ -1,1 +1,1 @@
-var mnemonic = "load average tooth hat lazy initial review diesel two era carry jealous";
+var mnemonic = "answer peace dry maple track blush west jealous december belt bid goddess";

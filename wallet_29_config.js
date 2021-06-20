@@ -1,1 +1,1 @@
-var mnemonic = "allow nature cannon pottery cereal bottom skin decorate galaxy speed alert away";
+var mnemonic = "manage dumb current job erupt mother bird version sleep tomato april castle";

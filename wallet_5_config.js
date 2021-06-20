@@ -1,1 +1,1 @@
-var mnemonic = "speed olive debris fame define critic enlist ladder high insect tourist kite";
+var mnemonic = "weather market remain sorry bone couple rack supply attack spy south curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt prefer detect just crowd pelican piano cheese input worry film mind";
+var mnemonic = "tuition trip busy seek body gauge hill blood track dirt crouch panic";

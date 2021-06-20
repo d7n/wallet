@@ -1,1 +1,1 @@
-var mnemonic = "profit jelly target concert enlist enough until thank wet person public uphold";
+var mnemonic = "bring yellow year turkey labor credit mixture quantum arrange clarify furnace sea";

@@ -1,1 +1,1 @@
-var mnemonic = "hole grain ivory airport offer sketch pact believe quote admit fluid grace";
+var mnemonic = "biology aerobic federal must tag caution load upper evolve sniff enter someone";

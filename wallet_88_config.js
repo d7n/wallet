@@ -1,1 +1,1 @@
-var mnemonic = "tone trash butter shed sunny canal video grace gossip violin rhythm often";
+var mnemonic = "comic output scene tail creek kiwi blouse alert dress bubble enemy sing";

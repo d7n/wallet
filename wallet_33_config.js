@@ -1,1 +1,1 @@
-var mnemonic = "craft drive awkward deer usage cruel owner interest soap column camp goose";
+var mnemonic = "brick ceiling salmon canal nuclear attack trend observe view verb pumpkin either";

@@ -1,1 +1,1 @@
-var mnemonic = "large galaxy goat snack style clay elegant reduce dance indoor artwork pepper";
+var mnemonic = "imitate offer genre ill fantasy chest bomb distance cross cycle quarter bench";

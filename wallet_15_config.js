@@ -1,1 +1,1 @@
-var mnemonic = "game unable fever disease immune text prepare broom hard decide owner vessel";
+var mnemonic = "split cricket isolate echo hat remove goose luggage course primary soap jewel";

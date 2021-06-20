@@ -1,1 +1,1 @@
-var mnemonic = "under auction agent board mushroom sugar luxury jump valley win enable monster";
+var mnemonic = "force raw bronze bridge original fantasy slim satisfy later advice quiz fee";
