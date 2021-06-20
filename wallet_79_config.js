@@ -1,1 +1,1 @@
-var mnemonic = "dirt lunch tip improve rich suffer just pilot shield equal soda visa";
+var mnemonic = "grab test gaze please actress spike almost risk picnic identify gather orient";

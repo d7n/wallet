@@ -1,1 +1,1 @@
-var mnemonic = "glare illness student similar idea ginger output choose depend kiss ticket country";
+var mnemonic = "fold tattoo tobacco cliff milk program trip volume hurdle timber credit cliff";

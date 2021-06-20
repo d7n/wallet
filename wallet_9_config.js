@@ -1,1 +1,1 @@
-var mnemonic = "genre payment twin pause sight blanket couple decline siege fault rather fish";
+var mnemonic = "sock cluster fun believe juice action consider method physical eternal trust rebel";

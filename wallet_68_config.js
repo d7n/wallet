@@ -1,1 +1,1 @@
-var mnemonic = "possible knee borrow turtle frame away convince puppy luxury swap target typical";
+var mnemonic = "random accuse lava art leave orange beauty clown slight result spare staff";

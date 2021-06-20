@@ -1,1 +1,1 @@
-var mnemonic = "gesture brush harbor tape fatal million erosion high place seven arena inform";
+var mnemonic = "oblige index erosion govern believe culture wild denial unhappy erase sing subject";

@@ -1,1 +1,1 @@
-var mnemonic = "rug brother size cousin reunion april electric winter picnic resist area turkey";
+var mnemonic = "vicious seminar struggle fish sun salad oxygen notable code cargo course pioneer";

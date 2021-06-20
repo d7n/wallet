@@ -1,1 +1,1 @@
-var mnemonic = "hidden uncover muscle general fan cushion giggle guide knock solve original spell";
+var mnemonic = "main congress blade subway hire index shield near bicycle tennis enhance shed";

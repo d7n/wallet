@@ -1,1 +1,1 @@
-var mnemonic = "grid ecology pitch urban north false join found cigar bounce tourist radar";
+var mnemonic = "problem movie puppy carpet physical wage enable slow notice glory lucky permit";

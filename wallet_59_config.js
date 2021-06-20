@@ -1,1 +1,1 @@
-var mnemonic = "struggle invite limit merge damp worth cargo spend mandate prison denial tray";
+var mnemonic = "mushroom above choice odor puppy daring second disorder volcano plastic struggle boy";

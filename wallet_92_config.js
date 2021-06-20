@@ -1,1 +1,1 @@
-var mnemonic = "tackle vessel dash plunge immune enlist state panel best journey parent life";
+var mnemonic = "suffer diet traffic trigger faint bubble quit almost crash brother lake salad";

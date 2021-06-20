@@ -1,1 +1,1 @@
-var mnemonic = "relief spoil turn void stem salad exhibit equal loop common winner nerve";
+var mnemonic = "replace swarm family tenant shift coach brisk coconut gasp denial animal sketch";

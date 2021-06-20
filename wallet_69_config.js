@@ -1,1 +1,1 @@
-var mnemonic = "sketch metal car game addict gun year gorilla arrive innocent pizza select";
+var mnemonic = "badge broken visual exile farm matter purpose private drop critic nature pepper";

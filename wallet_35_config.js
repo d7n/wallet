@@ -1,1 +1,1 @@
-var mnemonic = "potato absurd lizard figure blame digital gun island shed limb enough dutch";
+var mnemonic = "permit unfair civil royal street ordinary display attitude gain color royal steel";

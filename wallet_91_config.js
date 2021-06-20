@@ -1,1 +1,1 @@
-var mnemonic = "drive baby actual system flavor silver misery casual dad frost dawn pulp";
+var mnemonic = "half latin erode various wealth walk cause owner avocado chuckle interest oblige";

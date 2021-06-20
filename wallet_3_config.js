@@ -1,1 +1,1 @@
-var mnemonic = "unfair prepare urge general dentist hole inside swamp eagle derive narrow corn";
+var mnemonic = "blast engine expire patrol rescue acquire solar pet pass situate kiss crumble";

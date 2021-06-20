@@ -1,1 +1,1 @@
-var mnemonic = "tag lyrics endless post sudden garment cause attitude thought recipe will busy";
+var mnemonic = "disorder order liar high visit stay slam gorilla mixture cousin arrange fatal";

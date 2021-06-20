@@ -1,1 +1,1 @@
-var mnemonic = "viable ordinary same blast prefer december typical cactus vintage turn evolve wheel";
+var mnemonic = "joke reunion dirt reduce regular virus pig neither spare uphold forward doll";

@@ -1,1 +1,1 @@
-var mnemonic = "predict fashion rather payment decrease soup adjust hover release all mesh window";
+var mnemonic = "lobster poet radar cradle wise essence almost creek giant diamond canyon much";

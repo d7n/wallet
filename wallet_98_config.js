@@ -1,1 +1,1 @@
-var mnemonic = "planet evidence assist spatial excuse best wage all disagree hospital dwarf dove";
+var mnemonic = "pupil vast limb snow tissue picnic retire plunge ritual ten child sudden";

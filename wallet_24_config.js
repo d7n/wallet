@@ -1,1 +1,1 @@
-var mnemonic = "kiss garbage grief car journey hill essay abstract comic mix walnut leave";
+var mnemonic = "flag general divorce blind blue exchange squeeze exhibit penalty question verb violin";

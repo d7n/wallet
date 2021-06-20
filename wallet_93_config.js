@@ -1,1 +1,1 @@
-var mnemonic = "genuine camera melt upset item toilet wink annual unique impose above jungle";
+var mnemonic = "burger gate rural vintage december urge approve foot whisper ordinary inflict problem";

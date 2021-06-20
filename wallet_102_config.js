@@ -1,1 +1,1 @@
-var mnemonic = "supply liar kangaroo proof organ early craft voyage blur indoor erode tragic";
+var mnemonic = "intact walnut bind hold universe whale suffer filter omit depth erupt among";

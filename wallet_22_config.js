@@ -1,1 +1,1 @@
-var mnemonic = "youth chief kangaroo brick subject measure laugh pelican gospel pulp indoor anchor";
+var mnemonic = "pupil pet swamp mule base two exhaust canal word clay truck edit";

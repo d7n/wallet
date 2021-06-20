@@ -1,1 +1,1 @@
-var mnemonic = "bullet quiz dizzy tiny chicken model diagram expire inject friend service improve";
+var mnemonic = "funny author artwork grunt margin slot dizzy fancy parade learn perfect deputy";

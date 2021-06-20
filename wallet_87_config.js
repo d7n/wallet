@@ -1,1 +1,1 @@
-var mnemonic = "pitch width cereal level grunt ranch ritual vacant scare hover absurd then";
+var mnemonic = "radio width basic cook stable movie blue game frost private light acquire";

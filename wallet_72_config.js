@@ -1,1 +1,1 @@
-var mnemonic = "acid velvet athlete anchor subject exotic leisure salon turn blame alien vintage";
+var mnemonic = "pyramid deputy yellow machine dance gather pill close tip enjoy raw elder";

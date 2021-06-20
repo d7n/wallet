@@ -1,1 +1,1 @@
-var mnemonic = "measure easily case luxury leopard roast odor case tooth nation race mistake";
+var mnemonic = "library verify edge advance begin enjoy error gas someone slush catch fix";

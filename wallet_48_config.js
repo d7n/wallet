@@ -1,1 +1,1 @@
-var mnemonic = "change spring wash company plug pigeon uncover junior pony despair way first";
+var mnemonic = "lava case height path trust hospital door unknown army student wall leaf";

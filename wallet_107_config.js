@@ -1,1 +1,1 @@
-var mnemonic = "energy despair latin fatal grocery west movie ugly cousin quick modify bomb";
+var mnemonic = "chronic mesh obvious odor cycle rhythm jewel often solve wisdom flower stereo";

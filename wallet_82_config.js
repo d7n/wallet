@@ -1,1 +1,1 @@
-var mnemonic = "gallery always hole please toward load foot duty dish swing biology couch";
+var mnemonic = "plastic evidence path neutral boil pill error minimum someone security renew suggest";

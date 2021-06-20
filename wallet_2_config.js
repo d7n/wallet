@@ -1,1 +1,1 @@
-var mnemonic = "bargain useful blossom clerk rich nominee surge private shoe sadness obtain replace";
+var mnemonic = "divide typical add wise despair girl ivory portion jazz sibling material brick";

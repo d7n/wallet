@@ -1,1 +1,1 @@
-var mnemonic = "industry reflect uncover outside thrive yellow exchange essay rain raise pretty bar";
+var mnemonic = "picture portion annual fence notice length parrot fall elevator occur uniform tiger";

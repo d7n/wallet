@@ -1,1 +1,1 @@
-var mnemonic = "tobacco question keen ugly orient donor city below style barely black disorder";
+var mnemonic = "learn music play dizzy future young elbow canoe way act delay hire";

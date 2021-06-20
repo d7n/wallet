@@ -1,1 +1,1 @@
-var mnemonic = "east blanket goddess hollow venue attack menu search twenty vessel dream regret";
+var mnemonic = "ramp clutch stock bulk tide pumpkin mango olive leg element track ladder";

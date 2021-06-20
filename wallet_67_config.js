@@ -1,1 +1,1 @@
-var mnemonic = "media reduce parade capital fabric laugh input right wall pilot mass anchor";
+var mnemonic = "appear mean struggle shoe music wink juice firm jeans profit print length";

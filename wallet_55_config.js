@@ -1,1 +1,1 @@
-var mnemonic = "midnight double cradle survey pulp purse idle deputy disorder spread water come";
+var mnemonic = "text plastic need alone elegant cute market now relax case enter powder";

@@ -1,1 +1,1 @@
-var mnemonic = "weather spice service agent spawn crowd polar hawk decrease sea month initial";
+var mnemonic = "fog cost virus robust bunker text cube minor moment bean ethics innocent";

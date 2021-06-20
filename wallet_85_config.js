@@ -1,1 +1,1 @@
-var mnemonic = "maid attend gather husband clean strike shiver shell either car chief mom";
+var mnemonic = "stuff answer patch perfect jeans taste knee high ocean disease minimum ceiling";

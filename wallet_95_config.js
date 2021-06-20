@@ -1,1 +1,1 @@
-var mnemonic = "owner subway focus olympic tennis bargain theory slot faint outdoor explain sight";
+var mnemonic = "caution rely device cousin draw boring provide hockey bone orchard ankle vital";

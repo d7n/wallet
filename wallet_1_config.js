@@ -1,1 +1,1 @@
-var mnemonic = "record diary develop bitter define depend wedding next safe obey receive castle";
+var mnemonic = "sail fox filter today major cancel rebuild unveil mean govern system riot";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue fun tank mixed lottery stumble garbage gallery client legend ketchup joke";
+var mnemonic = "stable crunch siege merit test mule between still boy valid equip size";

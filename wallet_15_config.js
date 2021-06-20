@@ -1,1 +1,1 @@
-var mnemonic = "wool pulse moment diagram shy major now sea daring embark boil give";
+var mnemonic = "inform danger champion embrace junior uniform stumble retire approve lucky future clean";

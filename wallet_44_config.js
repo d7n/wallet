@@ -1,1 +1,1 @@
-var mnemonic = "addict second outdoor drastic believe borrow gossip census myth candy permit awake";
+var mnemonic = "cereal earth ten two account armed shoot ship mixed core sustain hedgehog";

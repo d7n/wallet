@@ -1,1 +1,1 @@
-var mnemonic = "fringe river magnet clean purse wasp dice scene tobacco main magnet medal";
+var mnemonic = "inject lawn van borrow purity pave fiscal live effort fish trip submit";

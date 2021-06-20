@@ -1,1 +1,1 @@
-var mnemonic = "virus ramp trip tonight resist abuse drill term inhale sell local divert";
+var mnemonic = "group swim pact people rare claim elder dumb fruit baby easily coral";

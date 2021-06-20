@@ -1,1 +1,1 @@
-var mnemonic = "across blood similar rubber settle meadow prize adult report unique globe cloud";
+var mnemonic = "input pilot bubble frozen useless tonight say shoulder lava infant picnic trip";

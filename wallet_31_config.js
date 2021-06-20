@@ -1,1 +1,1 @@
-var mnemonic = "modify chest project easily float legal auto room peanut series object attend";
+var mnemonic = "giggle bicycle snap garage spawn must online alpha belt pact awake trick";

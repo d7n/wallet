@@ -1,1 +1,1 @@
-var mnemonic = "limb paper replace monkey laundry ship moment decade neither forget stone target";
+var mnemonic = "fox ticket forward weird lend sort reflect host drill item ostrich manage";

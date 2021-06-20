@@ -1,1 +1,1 @@
-var mnemonic = "island journey spike donate breeze hello frequent analyst diamond fatigue bulb exchange";
+var mnemonic = "earn luggage narrow glide shaft mixed fault rocket brush elegant female teach";

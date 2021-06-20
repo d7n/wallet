@@ -1,1 +1,1 @@
-var mnemonic = "crystal student soft arena grocery rough universe swarm toward reason cement unveil";
+var mnemonic = "subway dirt strong blame desk slow sock bubble away recall better crime";

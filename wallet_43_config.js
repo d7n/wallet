@@ -1,1 +1,1 @@
-var mnemonic = "snack resist inhale analyst patient enact wheat journey term cat stage rail";
+var mnemonic = "orbit patient nuclear approve maid youth vehicle member hip utility icon never";

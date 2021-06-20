@@ -1,1 +1,1 @@
-var mnemonic = "remind will torch artist spoon decline defy make when crime canal alley";
+var mnemonic = "forum fork build help gentle tank private oak task flat speak cycle";

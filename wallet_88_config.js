@@ -1,1 +1,1 @@
-var mnemonic = "oil mango pelican celery film radio derive improve canoe island squeeze quantum";
+var mnemonic = "nest confirm use depart prevent ignore essence place crisp aunt tortoise spoon";

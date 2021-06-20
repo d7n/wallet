@@ -1,1 +1,1 @@
-var mnemonic = "power arctic garage desert absent economy educate sense dinner attend fork uphold";
+var mnemonic = "mosquito name charge wheat gadget vehicle wedding festival miss cable dutch impulse";

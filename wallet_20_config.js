@@ -1,1 +1,1 @@
-var mnemonic = "share feed buyer vicious upset addict type unaware north control paddle public";
+var mnemonic = "image glimpse lend unable ice quantum vital twenty planet organ brown mean";

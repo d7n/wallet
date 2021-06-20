@@ -1,1 +1,1 @@
-var mnemonic = "goose expect soon alcohol nest banner enhance grief envelope annual false buzz";
+var mnemonic = "trophy drift glad vocal edge refuse produce fruit school general flame crime";

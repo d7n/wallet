@@ -1,1 +1,1 @@
-var mnemonic = "satisfy forest old render fall relax blue suspect horse shoulder angry volume";
+var mnemonic = "card raise okay lemon trend horror glue charge kid amateur agent finish";

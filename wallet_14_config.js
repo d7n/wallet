@@ -1,1 +1,1 @@
-var mnemonic = "thrive excite spice outer venue print celery awful broken acoustic quote master";
+var mnemonic = "bone butter extend cereal purity suspect scatter phrase sail slide gloom piece";

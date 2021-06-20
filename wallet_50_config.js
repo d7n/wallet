@@ -1,1 +1,1 @@
-var mnemonic = "buffalo shoot short gym kidney hobby under brush element vote reason pride";
+var mnemonic = "day tattoo ball rebel hurdle barrel grab grass credit siege wear bundle";

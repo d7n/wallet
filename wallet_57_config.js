@@ -1,1 +1,1 @@
-var mnemonic = "humble property project acid creek lecture curtain tragic essence silver ten subject";
+var mnemonic = "list churn upgrade choice favorite combine century someone swift stove genuine cupboard";

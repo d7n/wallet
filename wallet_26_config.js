@@ -1,1 +1,1 @@
-var mnemonic = "elbow pink grid cost equip rally explain magic project lounge grocery acid";
+var mnemonic = "leg company olympic frame misery organ wise world below bullet defy undo";

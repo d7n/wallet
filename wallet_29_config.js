@@ -1,1 +1,1 @@
-var mnemonic = "hybrid outside fine parrot fresh borrow erode security about volcano ecology shoulder";
+var mnemonic = "oppose wreck alarm patch bird author tide control obtain tonight stage noble";

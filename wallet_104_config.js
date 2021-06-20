@@ -1,1 +1,1 @@
-var mnemonic = "list silly foil trigger twelve heavy bulk someone appear dove unknown raccoon";
+var mnemonic = "sweet rack live gospel glad suggest clarify judge random update pigeon debate";

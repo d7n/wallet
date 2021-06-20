@@ -1,1 +1,1 @@
-var mnemonic = "quit ramp fence pond bubble romance carpet struggle knife dolphin stuff neck";
+var mnemonic = "work focus mercy fee purpose banner clutch sting genuine twenty loud chimney";

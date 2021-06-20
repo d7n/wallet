@@ -1,1 +1,1 @@
-var mnemonic = "trophy guide leader grid seed arrive this benefit mobile blanket belt seven";
+var mnemonic = "awesome dentist stone sorry sock monster boost escape describe topic rebuild stem";

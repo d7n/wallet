@@ -1,1 +1,1 @@
-var mnemonic = "vendor text know drip cake amount toy imitate settle daughter alter begin";
+var mnemonic = "flip lecture finish sketch usage witness pistol tennis what forest mesh small";

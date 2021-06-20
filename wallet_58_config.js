@@ -1,1 +1,1 @@
-var mnemonic = "before universe pave board minor shove rib public hover midnight renew kite";
+var mnemonic = "girl lawn gift bid cherry arrow aisle spatial cry catch fun deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle gown emerge steel report flee change gas gentle begin fun cheese";
+var mnemonic = "hill ugly mad arrive region hope industry harsh vivid catalog dry carry";

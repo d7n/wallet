@@ -1,1 +1,1 @@
-var mnemonic = "total boring attract there able grid indoor crumble business direct mimic base";
+var mnemonic = "equal book easy inhale office inherit session arrest entry drift gasp exotic";

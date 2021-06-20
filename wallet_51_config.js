@@ -1,1 +1,1 @@
-var mnemonic = "feel venue alarm venue faculty crew pulse skirt churn day airport outdoor";
+var mnemonic = "reflect duck top car pink risk million explain merge frequent banner quantum";

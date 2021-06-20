@@ -1,1 +1,1 @@
-var mnemonic = "jar athlete strong spoil rather doctor stuff surge crucial diesel maximum scorpion";
+var mnemonic = "anxiety scene lounge spend oblige replace alley orbit coach anger nasty usual";

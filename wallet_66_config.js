@@ -1,1 +1,1 @@
-var mnemonic = "purity eternal turkey guitar allow ceiling east spread coach green panther slender";
+var mnemonic = "erode hazard above brief keep slow aspect pottery supply pioneer diamond tank";

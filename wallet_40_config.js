@@ -1,1 +1,1 @@
-var mnemonic = "churn cabbage left add crumble narrow fruit step charge twist inmate kit";
+var mnemonic = "throw column range glare renew head sort pause lion narrow giant health";

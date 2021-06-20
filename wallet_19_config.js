@@ -1,1 +1,1 @@
-var mnemonic = "federal fancy trip venue smooth sure rich taxi comic bless collect around";
+var mnemonic = "voyage cycle loud fan yellow culture thumb wink august evolve library hundred";

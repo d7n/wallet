@@ -1,1 +1,1 @@
-var mnemonic = "test tumble asthma smile zero good drift erosion garden system earth hammer";
+var mnemonic = "make drastic success decide sample stage utility evil police fall warfare blood";

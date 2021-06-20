@@ -1,1 +1,1 @@
-var mnemonic = "ahead benefit girl behave final grab mistake wire gold turtle rack able";
+var mnemonic = "casual cry shop audit grain twist axis hazard evil yard rhythm kick";

@@ -1,1 +1,1 @@
-var mnemonic = "spice catch damage song parrot voice lava flag north urban update humble";
+var mnemonic = "wagon brick intact stand approve lemon ten bridge pony episode crew session";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol normal side soccer exhaust magnet all wash poem blood shield lottery";
+var mnemonic = "clean pill shed inject tunnel slot point unusual average capable lemon reward";

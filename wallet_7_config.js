@@ -1,1 +1,1 @@
-var mnemonic = "rotate toward often soup slush luggage vanish boss street zebra enough twin";
+var mnemonic = "tape stool sustain bright balance actress dumb shrug beyond degree judge ribbon";

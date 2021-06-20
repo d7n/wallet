@@ -1,1 +1,1 @@
-var mnemonic = "turtle spawn glow garment inquiry milk cement border coast pumpkin settle regular";
+var mnemonic = "such end meat fire section special head motor install acid rifle order";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate parrot note salt prepare source code slogan about spend orphan cram";
+var mnemonic = "evolve category pen near replace prize length pitch foil minor ability tattoo";

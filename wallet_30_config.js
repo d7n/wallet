@@ -1,1 +1,1 @@
-var mnemonic = "boil noise few thrive shaft corn ancient huge case exact join cycle";
+var mnemonic = "imitate rapid black grape true evolve decade drill endless true atom loud";

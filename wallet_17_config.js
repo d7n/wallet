@@ -1,1 +1,1 @@
-var mnemonic = "cliff van staff flat disease hamster boil hill length copy absent rib";
+var mnemonic = "boss same engine vocal harvest assist squeeze layer void sibling arch shoot";

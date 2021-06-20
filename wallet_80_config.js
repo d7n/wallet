@@ -1,1 +1,1 @@
-var mnemonic = "antique fold cherry want coil aware stairs detect clay answer use subject";
+var mnemonic = "fitness capital maid theme vintage below bicycle swarm top unhappy help weird";

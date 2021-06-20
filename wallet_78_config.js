@@ -1,1 +1,1 @@
-var mnemonic = "feed inquiry divide flight stone shadow client dance gym library beyond autumn";
+var mnemonic = "boil coyote piece monkey height update rocket reduce exotic expect local surround";

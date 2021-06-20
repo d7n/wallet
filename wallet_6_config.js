@@ -1,1 +1,1 @@
-var mnemonic = "asset volcano quarter spirit genuine frequent inhale diet picnic note above must";
+var mnemonic = "street foil session talk section high combine mesh scatter combine fish all";

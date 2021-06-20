@@ -1,1 +1,1 @@
-var mnemonic = "scissors shell addict power theme possible radar sample search attack volume print";
+var mnemonic = "atom boss man stairs snow sadness kingdom friend minute saddle concert swamp";

@@ -1,1 +1,1 @@
-var mnemonic = "minor hidden that fox visual typical busy math explain sound same armed";
+var mnemonic = "flower beef scout envelope foam strong aim spell transfer wall film network";
