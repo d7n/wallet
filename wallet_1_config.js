@@ -1,1 +1,1 @@
-var mnemonic = "certain original rescue easy spend alley own record help federal awkward burger";
+var mnemonic = "ripple menu frame make vehicle fault spice urge unique pink capable save";

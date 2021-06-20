@@ -1,1 +1,1 @@
-var mnemonic = "wash history answer gaze join erosion joy valve actor slow copper step";
+var mnemonic = "object roast fold zero law expand quit waste nut loud about wet";

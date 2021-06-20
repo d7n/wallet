@@ -1,1 +1,1 @@
-var mnemonic = "flame link proud magic world shrimp laugh piano bless stereo desk wrestle";
+var mnemonic = "rug puzzle pigeon april human critic hybrid clever harvest judge pause panda";

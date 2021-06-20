@@ -1,1 +1,1 @@
-var mnemonic = "six cabin foot spy unveil into finger odor above chronic poem brief";
+var mnemonic = "balance vault polar upon drip exist dove aerobic drink victory neglect awake";

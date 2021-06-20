@@ -1,1 +1,1 @@
-var mnemonic = "antique anchor hard patch regular tone exact wire art employ buffalo emotion";
+var mnemonic = "label level sick vendor drip chimney situate hen child time penalty unable";

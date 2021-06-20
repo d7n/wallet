@@ -1,1 +1,1 @@
-var mnemonic = "uncle convince denial zero make submit field detail antique thing dose remain";
+var mnemonic = "caution ugly table long vocal champion grocery race people wet chat bright";

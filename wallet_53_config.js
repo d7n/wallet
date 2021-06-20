@@ -1,1 +1,1 @@
-var mnemonic = "smooth cloud bridge prepare bacon orbit omit harbor learn screen charge grant";
+var mnemonic = "bulb warrior juice sheriff possible future immense oven follow immense good throw";

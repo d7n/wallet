@@ -1,1 +1,1 @@
-var mnemonic = "remember just thunder twelve pond domain brand cruise maple angle require cool";
+var mnemonic = "vivid sweet device fluid bird reform silent digital power report blush wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "divide canyon movie obey mass black mind crazy hour page okay process";
+var mnemonic = "cotton feature order expose segment gospel ready corn spatial kit antenna assist";

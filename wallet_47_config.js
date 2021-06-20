@@ -1,1 +1,1 @@
-var mnemonic = "refuse voyage crane start hire behind either there surface grain you lesson";
+var mnemonic = "spider flip measure essay measure clip tonight narrow huge bomb abuse height";

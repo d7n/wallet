@@ -1,1 +1,1 @@
-var mnemonic = "fury sunny advice pledge pumpkin sell trim fortune injury travel mandate frost";
+var mnemonic = "another infant sweet junk tooth never drive tourist fruit twelve little orange";

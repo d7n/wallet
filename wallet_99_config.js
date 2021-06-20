@@ -1,1 +1,1 @@
-var mnemonic = "outer wrap surround age fury nut marble armed rigid grit retire smart";
+var mnemonic = "kiss fold cash suit electric real yard assault solution nephew pledge nice";

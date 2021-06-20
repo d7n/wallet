@@ -1,1 +1,1 @@
-var mnemonic = "patient liquid envelope drama life enough urge laundry angle doll feel garbage";
+var mnemonic = "there glow unique duck trip middle bus online echo domain end trap";

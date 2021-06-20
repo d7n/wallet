@@ -1,1 +1,1 @@
-var mnemonic = "then cook tonight caught spend network subway stomach account easy model age";
+var mnemonic = "endless access catch potato salmon radar prize zoo better hello stay retire";

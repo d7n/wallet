@@ -1,1 +1,1 @@
-var mnemonic = "lamp tree mask vessel explain spawn body arena emerge fun element sleep";
+var mnemonic = "merge make unaware usage enforce shove egg alien hint cycle layer magic";

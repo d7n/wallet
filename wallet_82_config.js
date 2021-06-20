@@ -1,1 +1,1 @@
-var mnemonic = "jungle time pact impact diary throw enter dream mountain layer ordinary ability";
+var mnemonic = "gather inside alone cricket rule explain organ suit piano sting evolve salute";

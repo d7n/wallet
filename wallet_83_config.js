@@ -1,1 +1,1 @@
-var mnemonic = "elbow wrong attend elephant dynamic prevent jazz syrup tribe lesson boss doctor";
+var mnemonic = "entry kind alien into awake stage across gather enlist ozone ahead predict";

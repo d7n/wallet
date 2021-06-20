@@ -1,1 +1,1 @@
-var mnemonic = "link sphere exhaust what tomorrow dinner lottery toss tape boil wrong protect";
+var mnemonic = "culture code alien soap term ahead celery catch home general drop target";

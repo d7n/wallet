@@ -1,1 +1,1 @@
-var mnemonic = "donate game kiwi boost latin win armed obscure neutral donor chef army";
+var mnemonic = "oven ethics limb cherry lock smoke library tortoise boat patrol horn oak";

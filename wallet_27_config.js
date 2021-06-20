@@ -1,1 +1,1 @@
-var mnemonic = "wrong demand talk twelve float razor logic talent garden love mutual humble";
+var mnemonic = "clap animal move cement harbor hungry inner eager reform ring gather twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "tree over goat citizen bonus lab wage stumble hospital stock one resist";
+var mnemonic = "fly old muscle jacket ahead guess edit nuclear already toe permit example";

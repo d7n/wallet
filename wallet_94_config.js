@@ -1,1 +1,1 @@
-var mnemonic = "this whip decorate valid pool town rib parent lava pledge violin debris";
+var mnemonic = "window recycle crucial artwork youth teach cook erode circle pen again absorb";

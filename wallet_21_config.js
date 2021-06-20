@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow also fragile hard army oyster judge nose lobster loyal spawn giggle";
+var mnemonic = "riot deer inject grid much island pave typical forest music story dust";

@@ -1,1 +1,1 @@
-var mnemonic = "system smile dune stomach athlete hint canyon drop enhance armed people again";
+var mnemonic = "bulk cat adult sniff vocal explain calm fortune wrist retreat floor stool";

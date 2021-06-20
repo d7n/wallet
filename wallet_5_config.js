@@ -1,1 +1,1 @@
-var mnemonic = "bid monkey design eight song forum poem accuse obscure cancel position life";
+var mnemonic = "side ski lawsuit time patient asset night ranch pluck height casual dawn";

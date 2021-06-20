@@ -1,1 +1,1 @@
-var mnemonic = "cliff blossom grid thumb bench notable pipe motion female wire cry extend";
+var mnemonic = "dial point initial gate pole ring adult plug pottery similar ride economy";

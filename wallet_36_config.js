@@ -1,1 +1,1 @@
-var mnemonic = "direct velvet diesel penalty roast picture heart junk boil piece minor tone";
+var mnemonic = "rapid below sail caution visa strong fresh scene cake satisfy exotic minute";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp define reform scrap high vague noble music thank corn trophy wasp";
+var mnemonic = "person try demise canvas express blind sad wet rail sick print enroll";

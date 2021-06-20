@@ -1,1 +1,1 @@
-var mnemonic = "swim life spring carry tail resist cigar hedgehog taste suffer moral sure";
+var mnemonic = "possible cry unit reason burst season behave hotel today visit sample whip";

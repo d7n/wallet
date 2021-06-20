@@ -1,1 +1,1 @@
-var mnemonic = "plate melt tired horn mechanic clay right sheriff tail diet accident own";
+var mnemonic = "sound short menu similar spin together inhale tank bomb throw youth arrest";

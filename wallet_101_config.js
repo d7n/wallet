@@ -1,1 +1,1 @@
-var mnemonic = "post put spell almost boss idle token dress insect cheap machine exchange";
+var mnemonic = "safe steel angle unusual gesture search mind snap canal all hill what";

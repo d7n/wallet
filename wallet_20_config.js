@@ -1,1 +1,1 @@
-var mnemonic = "swamp century monitor sting seat medal book rice screen pen rail orchard";
+var mnemonic = "prison escape talent oven spice game vacuum outer receive shift purse gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "insane only sail snake afraid dumb gown rocket globe frog wagon basket";
+var mnemonic = "lobster main flat gasp coral design share medal gun glimpse output mom";

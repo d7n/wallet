@@ -1,1 +1,1 @@
-var mnemonic = "voyage detail squirrel priority game angry call camp river open dose business";
+var mnemonic = "throw pumpkin edge arctic property novel oyster theme flush loud shell best";

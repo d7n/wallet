@@ -1,1 +1,1 @@
-var mnemonic = "trip rose catch erupt say audit smoke include normal canyon defense pelican";
+var mnemonic = "smart enough true mom release dolphin aspect green ticket canal canal property";

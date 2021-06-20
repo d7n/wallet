@@ -1,1 +1,1 @@
-var mnemonic = "ability beef double hammer curtain attack van cricket thought trouble outer solar";
+var mnemonic = "hand travel fresh frozen decline depend concert east guard bar skill hour";

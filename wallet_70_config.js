@@ -1,1 +1,1 @@
-var mnemonic = "broom faint group trick color van deny solid domain drift parent repeat";
+var mnemonic = "vanish decorate canal prison olive loud galaxy scorpion news myth juice rabbit";

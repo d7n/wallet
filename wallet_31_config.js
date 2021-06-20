@@ -1,1 +1,1 @@
-var mnemonic = "belt found donkey lift burger split correct evoke grocery reopen mimic crouch";
+var mnemonic = "boil clutch chunk endless inmate convince motor stairs negative neck north mixture";

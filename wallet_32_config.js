@@ -1,1 +1,1 @@
-var mnemonic = "approve sleep hospital naive praise curtain useless fortune spatial truth sight adjust";
+var mnemonic = "gesture diagram exist impulse blur enemy gain brand table release fence knee";

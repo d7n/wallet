@@ -1,1 +1,1 @@
-var mnemonic = "science flip bench distance olympic wire venture merit erase trip silent wise";
+var mnemonic = "rule group giggle shield orient supply again canal multiply neither live mistake";

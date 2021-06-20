@@ -1,1 +1,1 @@
-var mnemonic = "oven nice maple harsh dentist faith census little rhythm burst divert junk";
+var mnemonic = "trigger jealous useful gas provide word oil patch acoustic grief federal margin";

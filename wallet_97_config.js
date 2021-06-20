@@ -1,1 +1,1 @@
-var mnemonic = "fiscal what satisfy keep allow mosquito over suit embrace paddle drink hurdle";
+var mnemonic = "banana you scissors time have onion marine language judge file nature ability";

@@ -1,1 +1,1 @@
-var mnemonic = "leave pen chef sock clerk leisure palm waste rival traffic core term";
+var mnemonic = "inner private letter conduct damage couple uniform strategy about subway avoid wrestle";

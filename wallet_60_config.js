@@ -1,1 +1,1 @@
-var mnemonic = "develop amateur spread clarify scrub swear hip lion void tomato door tornado";
+var mnemonic = "swift drama volume banana shoe lunch endorse trap middle curtain reopen antique";

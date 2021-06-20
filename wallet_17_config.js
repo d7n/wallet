@@ -1,1 +1,1 @@
-var mnemonic = "ignore receive agent online injury brief crop profit harbor bird capable bag";
+var mnemonic = "gasp trim invite error insect vapor card purpose calm hospital mystery hour";

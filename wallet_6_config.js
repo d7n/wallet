@@ -1,1 +1,1 @@
-var mnemonic = "found retire glove hole drink rate screen reopen ticket math abuse time";
+var mnemonic = "ethics capital notice disease honey work aunt rich hope gadget success purse";

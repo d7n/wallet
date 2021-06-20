@@ -1,1 +1,1 @@
-var mnemonic = "chase axis glare spoil subway issue mention round enough twelve want quantum";
+var mnemonic = "whale victory magic gown loan next liar enable advice board middle cupboard";

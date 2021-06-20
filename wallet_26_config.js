@@ -1,1 +1,1 @@
-var mnemonic = "grit fiscal hood throw assist sign vacuum tray plate giant twice film";
+var mnemonic = "nose quiz eternal safe wear outer abstract math canoe prison frequent next";

@@ -1,1 +1,1 @@
-var mnemonic = "forget tomorrow unaware remove blood poverty unfair ice adjust orphan curious capable";
+var mnemonic = "private glass bird gossip turtle become priority brass ribbon dilemma remove pole";

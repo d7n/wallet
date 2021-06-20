@@ -1,1 +1,1 @@
-var mnemonic = "intact hard lava embrace sugar detail region broccoli hair coyote punch will";
+var mnemonic = "unknown next wire demand burst couple mind bamboo coffee tortoise giraffe prize";

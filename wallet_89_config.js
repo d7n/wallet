@@ -1,1 +1,1 @@
-var mnemonic = "three share draw lottery unable enhance bench wife deliver pen dance salmon";
+var mnemonic = "edit dress era party donate yard awkward garment empty casual abandon confirm";

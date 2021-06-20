@@ -1,1 +1,1 @@
-var mnemonic = "truly barrel transfer edit say nasty fence impulse fuel thrive pigeon warfare";
+var mnemonic = "gap rail brown away snake cloth spin film venture until speak sketch";

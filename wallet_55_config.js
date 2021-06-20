@@ -1,1 +1,1 @@
-var mnemonic = "patient butter produce fringe mask pet asthma deer whisper video winter source";
+var mnemonic = "include dice direct switch common planet unfold situate camp ship magnet position";

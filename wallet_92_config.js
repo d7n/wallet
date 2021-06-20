@@ -1,1 +1,1 @@
-var mnemonic = "salt problem flush duty basic cash rubber knee network start around iron";
+var mnemonic = "rate erosion project smoke scare satoshi fashion report can aim snow identify";

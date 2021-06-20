@@ -1,1 +1,1 @@
-var mnemonic = "reduce exile keen solar where gas warfare educate enough because cute siren";
+var mnemonic = "strike audit goat canoe duck clip sword buffalo suggest december moon favorite";

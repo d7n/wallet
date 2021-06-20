@@ -1,1 +1,1 @@
-var mnemonic = "piece prison tree engine middle crowd west prison hybrid curve say bike";
+var mnemonic = "invest elder cousin lunar annual prize shoe verb village bubble solar range";

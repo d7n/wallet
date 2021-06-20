@@ -1,1 +1,1 @@
-var mnemonic = "fossil obtain grief give excite slight insane orbit donor salad country jungle";
+var mnemonic = "garden enroll process indoor enter couple idle off satisfy brass empty assume";

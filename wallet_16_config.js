@@ -1,1 +1,1 @@
-var mnemonic = "cousin erase swallow below rookie donate dismiss artefact action cross song leopard";
+var mnemonic = "prepare citizen tool security bacon wrestle ghost powder limb clock slot skull";

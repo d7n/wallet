@@ -1,1 +1,1 @@
-var mnemonic = "ranch cannon poverty silk clay illness amateur blast fancy ready lyrics scene";
+var mnemonic = "hotel satisfy face relax roof metal early scare escape sun funny mixed";

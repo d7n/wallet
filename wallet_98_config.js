@@ -1,1 +1,1 @@
-var mnemonic = "castle message ring air twice liquid grape holiday cake kite furnace champion";
+var mnemonic = "then advance super visa fringe pill machine breeze can solve flip spawn";

@@ -1,1 +1,1 @@
-var mnemonic = "romance renew slab sketch disagree catch ski team bubble kick grief vessel";
+var mnemonic = "venue theory dog talent push bag private few metal wealth fashion ten";

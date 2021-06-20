@@ -1,1 +1,1 @@
-var mnemonic = "sure window pond venue myth top sudden cactus eight burden topple sign";
+var mnemonic = "course off endless uphold beauty grief federal seed mention slide road defense";

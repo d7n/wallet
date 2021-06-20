@@ -1,1 +1,1 @@
-var mnemonic = "such produce vocal flock wheel topple wood glare tortoise goat mesh engage";
+var mnemonic = "health interest birth fox bomb citizen fabric orphan fork trigger height chicken";

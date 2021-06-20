@@ -1,1 +1,1 @@
-var mnemonic = "track rib idea cannon always divide assume vote monkey drift poem option";
+var mnemonic = "rack cruel dad artist hat giraffe daughter movie mask sail skin october";

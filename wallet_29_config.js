@@ -1,1 +1,1 @@
-var mnemonic = "loud discover insect outdoor soldier ethics claim replace gas group easy anxiety";
+var mnemonic = "earn juice indicate case warfare struggle grant arrive round salmon gentle diamond";

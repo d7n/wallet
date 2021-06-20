@@ -1,1 +1,1 @@
-var mnemonic = "jeans pottery time vacuum slush plate pig all random public economy water";
+var mnemonic = "beyond oak grow fit unique ready rapid bike venture hill bubble royal";

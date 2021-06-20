@@ -1,1 +1,1 @@
-var mnemonic = "tilt solution flush room inflict lucky rose oppose void feel merge room";
+var mnemonic = "cloud stairs suspect salt crater material buzz saddle tomorrow process genius dice";

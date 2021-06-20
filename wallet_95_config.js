@@ -1,1 +1,1 @@
-var mnemonic = "salute razor weird salmon initial pioneer core huge depth lawsuit cannon follow";
+var mnemonic = "fame exotic soap royal announce relax misery monster carry beyond swarm frost";

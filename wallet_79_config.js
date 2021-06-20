@@ -1,1 +1,1 @@
-var mnemonic = "under someone unlock enable purpose fragile never bench empty noise boring thunder";
+var mnemonic = "random alpha pony guilt hammer inch concert plastic giraffe immense enrich mind";

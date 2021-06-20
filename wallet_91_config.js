@@ -1,1 +1,1 @@
-var mnemonic = "cloud fine wealth daring winter wall bean tone desk exhaust plunge south";
+var mnemonic = "brave ready rigid hard express sword follow fabric duck baby fuel century";

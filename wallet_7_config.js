@@ -1,1 +1,1 @@
-var mnemonic = "fabric auto report volcano boy tank cotton injury business hover equip prosper";
+var mnemonic = "quality aspect catch lecture double south chronic magnet biology chicken banana october";

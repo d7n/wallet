@@ -1,1 +1,1 @@
-var mnemonic = "private shed lava clog term season diet session wait inch weapon exhaust";
+var mnemonic = "seven stool city pact thought coil polar neutral scan thought amused all";

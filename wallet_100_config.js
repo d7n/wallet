@@ -1,1 +1,1 @@
-var mnemonic = "multiply until price egg walnut scatter increase sauce draw cry refuse mask";
+var mnemonic = "used silver oppose flock smooth brick believe absurd stool salon convince bench";

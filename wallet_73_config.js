@@ -1,1 +1,1 @@
-var mnemonic = "decline zebra food valve bulk review minimum cousin profit track oblige sentence";
+var mnemonic = "brick tilt cancel gorilla genuine message twin blame that hold horn unaware";

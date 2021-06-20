@@ -1,1 +1,1 @@
-var mnemonic = "old reflect dad edit myth save senior culture current guard earth family";
+var mnemonic = "crush garage possible pave lucky ugly action lion bid patient amateur pink";

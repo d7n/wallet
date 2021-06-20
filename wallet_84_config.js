@@ -1,1 +1,1 @@
-var mnemonic = "spot there horror spike various ghost hawk load wheat fade key similar";
+var mnemonic = "exile apology near tower sense hour elephant polar flower spell you pave";

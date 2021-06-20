@@ -1,1 +1,1 @@
-var mnemonic = "twenty dad scatter afford ramp moon doctor index twin pretty happy nurse";
+var mnemonic = "rapid mesh strike bracket run library hungry ritual inhale tone soap course";

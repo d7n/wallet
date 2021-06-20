@@ -1,1 +1,1 @@
-var mnemonic = "oxygen garbage brass exhibit protect search slow divide deputy trend between veteran";
+var mnemonic = "staff shift rural distance wreck top treat divert replace reunion year cruise";

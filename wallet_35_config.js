@@ -1,1 +1,1 @@
-var mnemonic = "super supreme agree member stomach two riot popular swear forget inside album";
+var mnemonic = "family city already suspect solar entire museum trophy spike canyon armor bright";

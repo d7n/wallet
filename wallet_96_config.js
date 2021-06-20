@@ -1,1 +1,1 @@
-var mnemonic = "grape enjoy scale club eyebrow reason between enemy monkey then student increase";
+var mnemonic = "police swear lobster news when among cabbage wine tent excuse expire blue";

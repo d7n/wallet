@@ -1,1 +1,1 @@
-var mnemonic = "basic undo tonight diary tumble trim cart engine vanish burger exercise volcano";
+var mnemonic = "mechanic novel energy stem alarm ugly breeze fitness syrup garbage bread must";

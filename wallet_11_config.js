@@ -1,1 +1,1 @@
-var mnemonic = "remind liberty kingdom increase diagram witness dynamic abandon hello idle olympic often";
+var mnemonic = "fold fiction own walnut gas cousin tomato accident afraid expand just fluid";

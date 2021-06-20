@@ -1,1 +1,1 @@
-var mnemonic = "maze erode echo drink tuition slush wing dolphin calm loud day unfold";
+var mnemonic = "smart dice ticket velvet kidney cross sand boost model ensure shaft wink";

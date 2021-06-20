@@ -1,1 +1,1 @@
-var mnemonic = "garlic other online crowd wing february perfect scale lawsuit clog logic solar";
+var mnemonic = "below seven ancient juice vote today sudden mistake wet tattoo animal fancy";

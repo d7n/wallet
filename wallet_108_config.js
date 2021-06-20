@@ -1,1 +1,1 @@
-var mnemonic = "people firm buzz analyst solar cruise warrior middle puzzle rapid team glide";
+var mnemonic = "parrot tackle digital rose stem taste hello slide dwarf zero girl ocean";

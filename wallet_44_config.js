@@ -1,1 +1,1 @@
-var mnemonic = "spoon ten pelican achieve auto pyramid field habit skirt vintage bar video";
+var mnemonic = "loan people blue become consider faith inhale manage snake voice able crash";

@@ -1,1 +1,1 @@
-var mnemonic = "charge build develop knee actual office blue siege circle million clump cry";
+var mnemonic = "finger pave dentist share daring riot stove sock travel dream shield seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "rival under glide trend moral link above inquiry cage embrace harsh timber";
+var mnemonic = "journey decade trigger ribbon shuffle hover clarify discover model bird lion square";

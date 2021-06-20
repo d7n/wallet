@@ -1,1 +1,1 @@
-var mnemonic = "mask sentence vapor essence tilt spike night climb garment turkey fluid winner";
+var mnemonic = "carry stool travel orient urge govern beauty myth fuel unveil traffic whip";

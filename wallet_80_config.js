@@ -1,1 +1,1 @@
-var mnemonic = "sudden stairs habit ring sting theory slight champion pony medal boy story";
+var mnemonic = "dwarf width deny install drastic mercy chat north gasp hover drum manage";
