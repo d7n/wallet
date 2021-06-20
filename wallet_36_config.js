@@ -1,1 +1,1 @@
-var mnemonic = "bargain boat runway pull tomato about alarm urban slot reason gap unique";
+var mnemonic = "wear echo one gown van seed pattern intact record tennis sand three";

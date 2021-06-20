@@ -1,1 +1,1 @@
-var mnemonic = "hospital bind spot quality canyon result wait tank resource small safe liar";
+var mnemonic = "scout detail when sponsor special pet immune foil daughter nest rack dune";

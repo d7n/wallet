@@ -1,1 +1,1 @@
-var mnemonic = "isolate fetch tribe addict unaware jar gift bag system orbit student trap";
+var mnemonic = "peanut spawn before asthma sunny margin bright athlete lemon avocado middle fat";

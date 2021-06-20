@@ -1,1 +1,1 @@
-var mnemonic = "mule device orbit palace snow sword plastic sample party eternal pyramid world";
+var mnemonic = "sauce angry typical clay drum slogan craft company diesel pyramid you view";

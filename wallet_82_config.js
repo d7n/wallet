@@ -1,1 +1,1 @@
-var mnemonic = "program indoor dune supreme unlock citizen muffin infant movie chalk company garden";
+var mnemonic = "proud distance guide snow ancient flavor actor crash front impulse flavor return";

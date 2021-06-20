@@ -1,1 +1,1 @@
-var mnemonic = "snack member whale snack luxury twice little swear horror useful awkward oak";
+var mnemonic = "exclude liquid three reason target favorite country resource hurt document final urban";

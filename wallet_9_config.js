@@ -1,1 +1,1 @@
-var mnemonic = "uphold matter room gift snake aware rookie weekend lizard bone question teach";
+var mnemonic = "multiply alert romance spot cube sauce butter arrest believe jealous original joke";

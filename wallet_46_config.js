@@ -1,1 +1,1 @@
-var mnemonic = "column half pitch leave purpose away frog ability debate okay tool palm";
+var mnemonic = "oppose south daring say during remove oval master only jeans stage mule";

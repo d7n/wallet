@@ -1,1 +1,1 @@
-var mnemonic = "forest zebra agent furnace size frog network capital situate common curve vessel";
+var mnemonic = "pioneer shoe trial thank also verb tenant alcohol icon butter junk salute";

@@ -1,1 +1,1 @@
-var mnemonic = "nominee vintage twist collect radio trophy toe damp hamster wife pave mean";
+var mnemonic = "law crane carbon foam rail blade warrior bid page summer razor odor";

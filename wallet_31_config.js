@@ -1,1 +1,1 @@
-var mnemonic = "piano volcano abuse cook menu shock library addict host hold frog appear";
+var mnemonic = "ask rifle toe balcony drum suggest hood cushion switch debate wolf link";

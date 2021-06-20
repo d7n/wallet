@@ -1,1 +1,1 @@
-var mnemonic = "apart snack filter assume weird tired before feel sleep polar bird result";
+var mnemonic = "ignore ship video ripple include panda lend exist eight sort few garage";

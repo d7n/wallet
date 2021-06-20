@@ -1,1 +1,1 @@
-var mnemonic = "violin library brain eyebrow clean cook cancel poet frequent member traffic history";
+var mnemonic = "funny chalk craft black cereal morning forget family blood allow live cargo";

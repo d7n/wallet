@@ -1,1 +1,1 @@
-var mnemonic = "cattle tissue time novel huge notable fringe enact lizard wedding duty journey";
+var mnemonic = "scrap mosquito allow solid maximum tongue glide street goddess depart blouse civil";

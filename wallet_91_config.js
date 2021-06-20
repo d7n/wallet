@@ -1,1 +1,1 @@
-var mnemonic = "narrow donate enable balance emotion beef tube almost half glad tourist valve";
+var mnemonic = "exclude rough tent alien toilet protect transfer frequent head choose height bitter";

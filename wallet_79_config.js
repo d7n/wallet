@@ -1,1 +1,1 @@
-var mnemonic = "sting finish purse ride push creek useful reduce lecture carbon sun pet";
+var mnemonic = "gospel eyebrow expand ozone best during wheat dizzy west issue oblige loop";

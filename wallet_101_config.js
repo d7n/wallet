@@ -1,1 +1,1 @@
-var mnemonic = "hint ice monster private large script drip update ring mystery rescue various";
+var mnemonic = "miracle toward bus van crew mask artist little test entire gorilla wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "trap smooth coral garment magnet biology describe include cycle tonight luxury such";
+var mnemonic = "pelican finish inject twin margin upper fiction alter sunset bus sweet review";

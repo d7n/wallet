@@ -1,1 +1,1 @@
-var mnemonic = "clown travel such riot insect vault glare confirm tooth mirror twenty cave";
+var mnemonic = "post modify stone gun tired siren museum galaxy area install evil inmate";

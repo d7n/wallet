@@ -1,1 +1,1 @@
-var mnemonic = "once soon odor network crucial review cruel only produce wife smoke camp";
+var mnemonic = "correct friend loan tornado still you sick slot sense royal busy rebuild";

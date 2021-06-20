@@ -1,1 +1,1 @@
-var mnemonic = "hard hundred cannon mobile clean anchor print gloom vivid tone romance start";
+var mnemonic = "purpose three wear rough receive payment bulk hidden produce lounge fatal aware";

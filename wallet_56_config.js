@@ -1,1 +1,1 @@
-var mnemonic = "donate dose include elder rail travel spatial napkin firm wild drive flag";
+var mnemonic = "enjoy maximum neglect planet scan lend bleak slam buddy immense brown two";

@@ -1,1 +1,1 @@
-var mnemonic = "shift tornado fatal orphan story cable busy like clinic load enemy duty";
+var mnemonic = "defy vast disagree stereo improve juice hobby dumb worth enough club orient";

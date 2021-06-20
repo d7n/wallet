@@ -1,1 +1,1 @@
-var mnemonic = "coyote mountain year anger penalty ability wing nurse cave scatter learn bullet";
+var mnemonic = "spawn define mesh across fancy tray dry hen conduct vast napkin elite";

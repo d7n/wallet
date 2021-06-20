@@ -1,1 +1,1 @@
-var mnemonic = "flag tuition leisure jaguar soon trial mother cave page service monitor seek";
+var mnemonic = "joy imitate unveil search cargo together soda review amazing spend other steel";

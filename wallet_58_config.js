@@ -1,1 +1,1 @@
-var mnemonic = "guess burger wish brave accuse cave choose online life honey aerobic credit";
+var mnemonic = "gun human clean advice empower lawn item arm hockey hood kiss sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "century swallow pigeon problem soft cruel predict level oval drip nothing cherry";
+var mnemonic = "put before party admit already armed game cycle setup pupil wise climb";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese awkward genuine cute prevent release remind you gravity govern antenna clerk";
+var mnemonic = "benefit weird glove believe forget animal flat rice relief describe zoo okay";

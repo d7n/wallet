@@ -1,1 +1,1 @@
-var mnemonic = "meadow outside waste alone midnight beach bar sausage duck liar also summer";
+var mnemonic = "add chicken unlock color air explain dose leg girl spider exclude response";

@@ -1,1 +1,1 @@
-var mnemonic = "defense junk forum episode trick pole eager endorse fog vanish illness congress";
+var mnemonic = "open breeze glimpse frog valley security rely pipe either fun cereal garbage";

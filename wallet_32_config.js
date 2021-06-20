@@ -1,1 +1,1 @@
-var mnemonic = "spread basic lunch badge arrest arrange miracle ready throw swamp great river";
+var mnemonic = "furnace end slam game nothing page celery depth patient step current dilemma";

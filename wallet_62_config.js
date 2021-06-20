@@ -1,1 +1,1 @@
-var mnemonic = "soldier endorse letter ridge ready danger peasant roof angry echo sponsor view";
+var mnemonic = "enjoy visit seat teach symptom vault latin hurt hollow pitch spy together";

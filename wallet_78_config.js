@@ -1,1 +1,1 @@
-var mnemonic = "play grocery hurry embody cotton swift cactus yellow tenant agree science virtual";
+var mnemonic = "surface property inherit grab cube vintage pact include tree spy vivid annual";

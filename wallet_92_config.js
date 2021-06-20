@@ -1,1 +1,1 @@
-var mnemonic = "lawn mountain robot pet radio bounce patient object great prosper true twelve";
+var mnemonic = "flash asthma leader ginger hood category spider source daughter equal friend bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake fold marble clean rather cash canyon cactus dial crane require current";
+var mnemonic = "setup topic involve rookie general reform boat kingdom exit retire recipe pass";

@@ -1,1 +1,1 @@
-var mnemonic = "rich like upper elder screen admit dinner shrug climb orphan access tank";
+var mnemonic = "tooth income category gather elephant puppy milk glove music control bleak jacket";

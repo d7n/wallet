@@ -1,1 +1,1 @@
-var mnemonic = "scene father worth vast term water envelope solar light margin biology science";
+var mnemonic = "deer polar next brown rescue woman marriage fire close dial person cave";

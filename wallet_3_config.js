@@ -1,1 +1,1 @@
-var mnemonic = "idea shadow kidney hockey impose fork rent bleak bone offer wrap ring";
+var mnemonic = "afford vivid design token emotion sweet december term umbrella nut position strategy";

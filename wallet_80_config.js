@@ -1,1 +1,1 @@
-var mnemonic = "street turtle aim floor honey cave derive swap inflict fine drink million";
+var mnemonic = "puppy season prize dilemma tissue breeze mix push kick elder leopard feature";

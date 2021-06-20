@@ -1,1 +1,1 @@
-var mnemonic = "come cage interest blush all top clap repeat wear install share away";
+var mnemonic = "chapter smile jaguar quarter depth total ten calm mask try just air";

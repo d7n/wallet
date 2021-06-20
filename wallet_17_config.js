@@ -1,1 +1,1 @@
-var mnemonic = "goat bar jar thank thumb weird increase galaxy exist enough verify three";
+var mnemonic = "cook wagon display risk picnic travel turn sudden planet ice fantasy clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "memory ribbon mammal grow forest cool margin raven peasant friend pencil search";
+var mnemonic = "mercy inner chapter mind put sibling casual amazing subway waste absorb stage";

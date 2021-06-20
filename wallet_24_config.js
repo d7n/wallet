@@ -1,1 +1,1 @@
-var mnemonic = "fog melody jungle asset snake junior join shell opinion cruise tail despair";
+var mnemonic = "combine ocean nature extend fancy scorpion slim race potato payment absorb scrub";

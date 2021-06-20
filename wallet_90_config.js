@@ -1,1 +1,1 @@
-var mnemonic = "grape debris priority dash lava enlist congress run document hero dolphin execute";
+var mnemonic = "concert exit live answer bitter gun topic popular camp heavy bike talent";

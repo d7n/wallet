@@ -1,1 +1,1 @@
-var mnemonic = "legal slab wood guilt until stand source interest scorpion mouse parrot speed";
+var mnemonic = "awake obey citizen stuff near fee glance multiply latin erode venture truck";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge furnace early spot exchange minimum depart thank obtain vehicle lend slide";
+var mnemonic = "cost sail toe under busy achieve push candy language display nose expand";

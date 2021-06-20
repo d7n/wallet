@@ -1,1 +1,1 @@
-var mnemonic = "hand return surprise twenty daring melody similar turtle length window sad alone";
+var mnemonic = "increase predict artwork mosquito faith crunch fee couch problem april sign logic";

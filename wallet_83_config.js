@@ -1,1 +1,1 @@
-var mnemonic = "head gun flush capital that proud domain jungle mirror opinion best people";
+var mnemonic = "street list trade position team ocean allow curve ask toss advance claw";

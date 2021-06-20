@@ -1,1 +1,1 @@
-var mnemonic = "various reveal cycle despair enjoy human demand nice sword step love alien";
+var mnemonic = "pattern control brother civil perfect voyage amateur confirm cable love warfare treat";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory knee view youth junior level address orient always valve inch light";
+var mnemonic = "wine april cricket biology clump retire sea pear much lobster sting luxury";

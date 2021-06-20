@@ -1,1 +1,1 @@
-var mnemonic = "trip rose maple sibling basket length night mystery gas life color gym";
+var mnemonic = "pumpkin business gaze write model runway glue obtain crater friend include fan";

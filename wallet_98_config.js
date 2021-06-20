@@ -1,1 +1,1 @@
-var mnemonic = "wrap final ripple phone spider sight vital luxury second hotel rent lemon";
+var mnemonic = "breeze satoshi board reduce animal awesome robot benefit man curve vacuum earn";

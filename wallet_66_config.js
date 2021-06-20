@@ -1,1 +1,1 @@
-var mnemonic = "glow afford east sphere tunnel inside supply pact swallow youth middle large";
+var mnemonic = "garlic start razor gold sadness oven onion connect option embrace tunnel sponsor";

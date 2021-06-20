@@ -1,1 +1,1 @@
-var mnemonic = "chaos tourist unable rib clean chunk jungle lottery shell enemy slam robust";
+var mnemonic = "corn whale ozone laptop cherry bar dial smart flee idle remember element";

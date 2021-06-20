@@ -1,1 +1,1 @@
-var mnemonic = "chronic business snack tower chronic final elder document absent april funny blue";
+var mnemonic = "liar cliff birth medal supply video civil ankle warm pipe appear push";

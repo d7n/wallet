@@ -1,1 +1,1 @@
-var mnemonic = "adapt economy such version mansion coil fitness conduct vague disease tattoo own";
+var mnemonic = "sense resemble finish crowd music orient arm canyon jealous fragile anger clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "river enrich cram bitter replace until air chief sound tennis omit chalk";
+var mnemonic = "giggle predict garment crumble rally hour illegal wall eyebrow service clean ticket";

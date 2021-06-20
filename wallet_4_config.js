@@ -1,1 +1,1 @@
-var mnemonic = "unit between wool return claim reduce share vendor fruit dawn plunge jazz";
+var mnemonic = "muscle thought welcome fork hamster volume grape exit comfort poet wagon fragile";

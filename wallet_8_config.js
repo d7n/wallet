@@ -1,1 +1,1 @@
-var mnemonic = "hollow prize virtual secret whip upgrade dune ripple dry twice pact draft";
+var mnemonic = "cream setup pool soon surprise exact before priority ritual conduct ostrich enhance";

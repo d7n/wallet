@@ -1,1 +1,1 @@
-var mnemonic = "distance vote unusual pause coil quick distance gesture false cabbage client absurd";
+var mnemonic = "siege biology eagle test clever topple series document spy venue improve bring";

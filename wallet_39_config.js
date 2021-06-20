@@ -1,1 +1,1 @@
-var mnemonic = "focus catch ankle myself flock luxury dance regular focus approve churn layer";
+var mnemonic = "bonus tooth attitude they fly youth toward symbol december unique advance young";

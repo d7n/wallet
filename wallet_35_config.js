@@ -1,1 +1,1 @@
-var mnemonic = "praise decline peace gather trouble elegant oppose cry business decade learn local";
+var mnemonic = "vapor attend diesel hobby mind absorb arrow drip fly book upon school";

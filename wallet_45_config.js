@@ -1,1 +1,1 @@
-var mnemonic = "horror crime neck punch gap unknown language uncle shine case drift wet";
+var mnemonic = "wage remove pretty region only cost theory next educate era loyal basket";

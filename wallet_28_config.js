@@ -1,1 +1,1 @@
-var mnemonic = "barely record direct odor cupboard slot census border long execute stairs wheat";
+var mnemonic = "badge salt side cup hungry chief argue mail chat flat blanket table";

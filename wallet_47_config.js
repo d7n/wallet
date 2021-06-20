@@ -1,1 +1,1 @@
-var mnemonic = "load crane ivory broken borrow client tumble canal expire feature kiwi high";
+var mnemonic = "buyer quit brother cushion wine inquiry debate proud camera design leave oven";

@@ -1,1 +1,1 @@
-var mnemonic = "choose card busy nut agree turtle clock smart such until wedding idea";
+var mnemonic = "square father staff thunder arrive type program farm hungry matter today faith";

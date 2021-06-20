@@ -1,1 +1,1 @@
-var mnemonic = "pencil truck mammal resource habit rifle august solve rent life shell panic";
+var mnemonic = "trumpet purpose miss pig rhythm two boss slice impulse this frame thumb";

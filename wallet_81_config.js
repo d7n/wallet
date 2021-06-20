@@ -1,1 +1,1 @@
-var mnemonic = "stairs roast dolphin famous coconut verify over address mind cereal warm slam";
+var mnemonic = "employ skate relief rack girl item drink concert midnight erosion celery elite";

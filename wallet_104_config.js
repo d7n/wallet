@@ -1,1 +1,1 @@
-var mnemonic = "episode limb glance radar session sick cream dance glory dolphin advice media";
+var mnemonic = "spawn head oval talent notice protect unveil venue march yard lobster spoon";

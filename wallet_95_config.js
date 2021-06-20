@@ -1,1 +1,1 @@
-var mnemonic = "minimum accuse then wrist rebuild nut caught trigger level junk belt love";
+var mnemonic = "crumble ride lazy buyer coast fragile guard tuition soft stamp embrace cream";

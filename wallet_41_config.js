@@ -1,1 +1,1 @@
-var mnemonic = "return magnet liar risk illegal shy rubber plastic sand spray taste struggle";
+var mnemonic = "attitude rich seven trap student toast swift permit dove avocado stool surround";

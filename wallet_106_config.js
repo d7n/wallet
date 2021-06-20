@@ -1,1 +1,1 @@
-var mnemonic = "observe beef garden zone divorce stool collect evolve situate aunt tone valve";
+var mnemonic = "network equal plunge caution couch neck drift arrest access tree street stage";

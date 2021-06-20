@@ -1,1 +1,1 @@
-var mnemonic = "sting zoo between isolate use exchange city silly victory merge focus laptop";
+var mnemonic = "when renew punch finish brief list learn negative aerobic badge float improve";

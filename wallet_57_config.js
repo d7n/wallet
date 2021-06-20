@@ -1,1 +1,1 @@
-var mnemonic = "snap robot amazing have brisk garlic they work company smooth hazard journey";
+var mnemonic = "already drive exclude twenty happy uncover woman lens moment impact hawk edge";

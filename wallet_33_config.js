@@ -1,1 +1,1 @@
-var mnemonic = "report kit between envelope pull tent core bunker emotion oak final key";
+var mnemonic = "ketchup festival pigeon sign donor modify core size pitch sudden sea select";

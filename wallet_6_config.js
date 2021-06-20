@@ -1,1 +1,1 @@
-var mnemonic = "soap scare fiber pipe hidden canoe era scorpion deer topple upset glide";
+var mnemonic = "screen act elephant limb toast grunt junior gallery palm demise stem trigger";

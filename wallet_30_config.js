@@ -1,1 +1,1 @@
-var mnemonic = "circle month fresh cupboard shove day pupil intact maximum license hello pyramid";
+var mnemonic = "category soon little merge reform injury mushroom dove enlist win demand organ";

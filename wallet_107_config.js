@@ -1,1 +1,1 @@
-var mnemonic = "athlete leave release seat exist boil cool enhance hammer topic bring stem";
+var mnemonic = "need flock leisure divorce journey original song emerge north rifle worry clerk";

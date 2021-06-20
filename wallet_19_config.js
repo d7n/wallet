@@ -1,1 +1,1 @@
-var mnemonic = "member loyal jeans wool insane shell pistol captain flock layer trash fiction";
+var mnemonic = "shuffle manage action burden insect student toss zone garlic damage movie ridge";

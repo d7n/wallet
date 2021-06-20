@@ -1,1 +1,1 @@
-var mnemonic = "say transfer awesome crowd earn faint any vocal scrap symbol trash blast";
+var mnemonic = "ancient need below pill tube upset board valve bicycle special jewel magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "quit paddle excuse whisper impulse person patient agree floor stairs object mad";
+var mnemonic = "win ahead welcome holiday claw state urge sell lonely invest raccoon manage";

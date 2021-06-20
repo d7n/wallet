@@ -1,1 +1,1 @@
-var mnemonic = "lesson world cause obtain exotic knock mango funny special easy tell dismiss";
+var mnemonic = "unit december garment power cycle grit rug mobile apart drama leaf lab";

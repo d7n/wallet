@@ -1,1 +1,1 @@
-var mnemonic = "left abuse response mass decade fun inside among oxygen time audit practice";
+var mnemonic = "candy age october breeze motion venture flame garbage gather oblige enforce crawl";

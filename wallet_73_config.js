@@ -1,1 +1,1 @@
-var mnemonic = "slush wild glow brother sunset desert stereo scorpion mirror scout wide diamond";
+var mnemonic = "explain chimney split diary bicycle skate diet victory keep crop ramp culture";

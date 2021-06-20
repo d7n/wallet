@@ -1,1 +1,1 @@
-var mnemonic = "october will loop twice garment weapon sell quiz horse husband bleak cement";
+var mnemonic = "ritual dumb sphere deposit damage outer slender wide tool ready number guitar";

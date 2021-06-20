@@ -1,1 +1,1 @@
-var mnemonic = "way size thunder crawl crater catalog subject royal volume maximum pepper floor";
+var mnemonic = "universe jelly typical favorite pulp recycle curious inherit cancel gas settle wrestle";

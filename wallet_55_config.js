@@ -1,1 +1,1 @@
-var mnemonic = "clog harvest attend absurd smile need pass penalty ramp about stock family";
+var mnemonic = "advice walk balance time rare distance creek sea depend siege patrol horn";
