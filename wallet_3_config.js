@@ -1,1 +1,1 @@
-var mnemonic = "adjust another blanket cook credit oak ribbon draft calm ensure scissors version";
+var mnemonic = "prevent love split describe clerk false cotton arrange later explain twist boil";

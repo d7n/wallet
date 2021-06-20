@@ -1,1 +1,1 @@
-var mnemonic = "mask barely diesel crash project stick siren occur identify rate plunge cricket";
+var mnemonic = "grunt once shine cargo ticket fetch test illness case fitness more matter";

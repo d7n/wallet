@@ -1,1 +1,1 @@
-var mnemonic = "lock medal runway bottom wagon assault adult together high earn educate piano";
+var mnemonic = "fatigue best inform social napkin blur mix flock holiday solid unaware true";

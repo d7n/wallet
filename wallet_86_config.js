@@ -1,1 +1,1 @@
-var mnemonic = "term chest negative youth seven discover direct trade coil tornado siege dance";
+var mnemonic = "act phone joke deputy floor coach bag host alien race shuffle pause";

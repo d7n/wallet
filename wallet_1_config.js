@@ -1,1 +1,1 @@
-var mnemonic = "pen jelly utility gentle absurd nothing universe title mansion stomach betray basket";
+var mnemonic = "now special plastic embrace aim credit carbon scrap used cause few gloom";

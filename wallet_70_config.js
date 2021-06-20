@@ -1,1 +1,1 @@
-var mnemonic = "cube news eagle opinion latin swear flush uncover blossom armor hole orchard";
+var mnemonic = "screen crouch monitor season short gallery half expose again mule deal style";

@@ -1,1 +1,1 @@
-var mnemonic = "drama remain embark until forward later labor often pair avoid slim source";
+var mnemonic = "orange purpose hen good dentist voyage card snow submit wise supply diary";

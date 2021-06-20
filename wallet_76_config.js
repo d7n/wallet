@@ -1,1 +1,1 @@
-var mnemonic = "army dream duty rare dune moment custom swear mimic grass diagram cat";
+var mnemonic = "chuckle ridge jeans escape oblige toddler make boring purse pistol cluster squirrel";

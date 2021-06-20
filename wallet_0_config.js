@@ -1,1 +1,1 @@
-var mnemonic = "strike print immune awesome enroll bracket shallow pet theory eternal chaos season";
+var mnemonic = "among wild employ hospital salon income hover raccoon hotel action episode exist";

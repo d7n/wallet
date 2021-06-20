@@ -1,1 +1,1 @@
-var mnemonic = "wrong hawk honey garlic number boy spray awake cluster rifle vast then";
+var mnemonic = "fan smooth noise daring clean faith fade dentist abandon grocery mosquito confirm";

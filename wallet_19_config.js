@@ -1,1 +1,1 @@
-var mnemonic = "circle enough media lottery ginger flock enjoy enact portion expand ignore tenant";
+var mnemonic = "horn letter box village quick spoon about grit twice sorry later hybrid";

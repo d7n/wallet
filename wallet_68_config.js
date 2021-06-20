@@ -1,1 +1,1 @@
-var mnemonic = "belt cry bronze buzz tornado fatigue cabbage strategy raccoon silent bone mandate";
+var mnemonic = "ethics kiss force rubber aisle bring process noodle bulk crumble birth list";

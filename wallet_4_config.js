@@ -1,1 +1,1 @@
-var mnemonic = "private sunny plate hub sport tourist toilet manage mouse tonight fruit embody";
+var mnemonic = "claw review envelope welcome soon settle sentence begin draw sun law elite";

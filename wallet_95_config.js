@@ -1,1 +1,1 @@
-var mnemonic = "clock joke vibrant someone current wash best air marriage congress month possible";
+var mnemonic = "maze obvious movie fence door benefit actor curious crane business trend walnut";

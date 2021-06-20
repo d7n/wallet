@@ -1,1 +1,1 @@
-var mnemonic = "arch keep flee empower you extend beach way dust error drip hole";
+var mnemonic = "sketch wheat play often situate repeat goddess rural trick polar margin come";

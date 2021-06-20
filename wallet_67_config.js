@@ -1,1 +1,1 @@
-var mnemonic = "uncover oval same exclude bonus rigid hurdle turkey install minimum gasp fashion";
+var mnemonic = "stamp tuna fun egg globe confirm resist quote accuse party jeans joke";

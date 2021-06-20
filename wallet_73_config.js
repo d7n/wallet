@@ -1,1 +1,1 @@
-var mnemonic = "infant web floor divide basic coral soul similar vague kick ice alien";
+var mnemonic = "crush perfect decide water adjust gown umbrella eager skin ball knife edge";

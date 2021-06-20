@@ -1,1 +1,1 @@
-var mnemonic = "rich two lamp cattle visual gap movie odor behind scrub slam bronze";
+var mnemonic = "govern picture require pill hawk vanish common already legend supply crowd floor";

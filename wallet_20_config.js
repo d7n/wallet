@@ -1,1 +1,1 @@
-var mnemonic = "transfer year better element talk afraid thrive budget magic banner art direct";
+var mnemonic = "amount puzzle rabbit loop noodle fall prevent master atom hello pen arrow";

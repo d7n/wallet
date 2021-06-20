@@ -1,1 +1,1 @@
-var mnemonic = "gravity want pink interest base reduce achieve over minimum bar limit critic";
+var mnemonic = "sun team famous flower album tunnel maze amount invite slush nature tone";

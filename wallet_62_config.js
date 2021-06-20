@@ -1,1 +1,1 @@
-var mnemonic = "collect adult marriage disease core identify engine raw dirt chapter swing shock";
+var mnemonic = "sugar fun scatter exact scorpion silent panel tragic engage join transfer rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk pencil predict aspect mechanic bar report find solar nephew laugh purpose";
+var mnemonic = "nation govern spatial flip violin exchange mandate afford position neglect decade napkin";

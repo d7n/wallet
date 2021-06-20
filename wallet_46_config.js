@@ -1,1 +1,1 @@
-var mnemonic = "runway slogan knee hungry face crater blanket lion loan business also swear";
+var mnemonic = "weird old fabric include bonus canyon shallow novel roast liberty spy claw";

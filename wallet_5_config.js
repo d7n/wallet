@@ -1,1 +1,1 @@
-var mnemonic = "slender sister scout endorse crouch current glue ranch man property million birth";
+var mnemonic = "pigeon sail useless grass food drastic shuffle gauge valley inch shop flat";

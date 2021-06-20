@@ -1,1 +1,1 @@
-var mnemonic = "pull float coast walnut shiver pudding field truth frown track polar steel";
+var mnemonic = "orchard search balance cluster bronze evolve aim accuse stool kind crush shed";

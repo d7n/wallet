@@ -1,1 +1,1 @@
-var mnemonic = "pave game pencil acquire castle then ring chaos minute mouse used album";
+var mnemonic = "favorite adapt black when toss kit live moment carbon test napkin say";

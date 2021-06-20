@@ -1,1 +1,1 @@
-var mnemonic = "clerk slice physical bracket truly fatigue maid gravity divide lady table giggle";
+var mnemonic = "drama thank rug sugar bone evil submit begin salute siege inner still";

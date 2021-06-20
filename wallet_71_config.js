@@ -1,1 +1,1 @@
-var mnemonic = "liberty bread soul sudden beyond cat recycle prison blood giant wreck check";
+var mnemonic = "story vessel occur zero popular must budget master often session aisle arena";

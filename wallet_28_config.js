@@ -1,1 +1,1 @@
-var mnemonic = "guitar spell foil action code hood spread depth frozen welcome bridge peanut";
+var mnemonic = "raw celery news core evolve knee lyrics they under dentist spy slam";

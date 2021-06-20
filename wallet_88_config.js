@@ -1,1 +1,1 @@
-var mnemonic = "bottom case hazard cost razor wrist illegal cloth flower height edge reform";
+var mnemonic = "spread dutch fantasy silver occur shy powder advice artefact wall observe grant";

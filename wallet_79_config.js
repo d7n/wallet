@@ -1,1 +1,1 @@
-var mnemonic = "fresh myth resist glow pupil paddle sun park install matrix pudding jealous";
+var mnemonic = "inch domain stool glove accident term science actual smile awful river vanish";

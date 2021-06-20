@@ -1,1 +1,1 @@
-var mnemonic = "piano bottom pencil scatter valid service expire capable fluid file stock model";
+var mnemonic = "uncle radar teach game cargo helmet ten lake erode credit sugar review";

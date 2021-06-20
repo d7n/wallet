@@ -1,1 +1,1 @@
-var mnemonic = "syrup problem original decide oil type web faculty daughter perfect glue use";
+var mnemonic = "mule fluid gain sphere arrive skull room nice staff paper frame matrix";

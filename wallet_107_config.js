@@ -1,1 +1,1 @@
-var mnemonic = "talent source birth immense culture toddler alley illness patch nurse keen remove";
+var mnemonic = "borrow better pet project genuine anger rigid sense acoustic access stem defense";

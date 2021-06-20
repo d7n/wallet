@@ -1,1 +1,1 @@
-var mnemonic = "talk retreat wagon love convince vanish crumble bulk pencil three ordinary guard";
+var mnemonic = "food basket method gentle symptom any exit used refuse bag bronze kingdom";

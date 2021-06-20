@@ -1,1 +1,1 @@
-var mnemonic = "reward violin outside focus strategy interest path wood approve enrich panther excite";
+var mnemonic = "trial parent engage oyster abandon recycle brave remove label shiver trumpet canvas";

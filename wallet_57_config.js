@@ -1,1 +1,1 @@
-var mnemonic = "icon ice become view swallow scrap key kit fan scrap pilot begin";
+var mnemonic = "develop minute corn pony corn brass busy globe custom genuine clown poem";

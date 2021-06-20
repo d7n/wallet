@@ -1,1 +1,1 @@
-var mnemonic = "dizzy result unfold buddy essence save timber peasant safe tunnel spray find";
+var mnemonic = "main polar truly jar fiber trip outdoor domain into leopard venue vicious";

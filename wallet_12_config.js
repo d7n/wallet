@@ -1,1 +1,1 @@
-var mnemonic = "wonder note figure ordinary silver tumble paper add come emerge drastic just";
+var mnemonic = "flower black witness renew ahead roof smooth lady wrong current cushion vendor";

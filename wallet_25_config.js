@@ -1,1 +1,1 @@
-var mnemonic = "jazz cousin very expect gap sauce dentist great banana work scatter half";
+var mnemonic = "illegal rubber blanket burden shoot push guilt buzz message muscle gentle around";

@@ -1,1 +1,1 @@
-var mnemonic = "debate cube hero grain isolate december avoid hospital table appear cycle sting";
+var mnemonic = "sister door fix pill summer security whale because churn address panel sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit hen tribe educate side enlist actual parade ritual feel write blade";
+var mnemonic = "emotion embark monkey wink bus essay dwarf kitten salad month smart flag";

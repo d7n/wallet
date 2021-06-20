@@ -1,1 +1,1 @@
-var mnemonic = "cotton planet jacket pluck vital buffalo raven spoil inspire private hammer cherry";
+var mnemonic = "assume slight able jelly surprise entry fatal wood hurdle final physical also";

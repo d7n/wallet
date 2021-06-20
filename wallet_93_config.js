@@ -1,1 +1,1 @@
-var mnemonic = "install gaze draft power song prepare hockey access tribe author phone toast";
+var mnemonic = "nominee rapid certain rude nice burger liberty genuine fantasy soldier festival earth";

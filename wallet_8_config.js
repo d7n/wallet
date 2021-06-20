@@ -1,1 +1,1 @@
-var mnemonic = "receive across actual recipe clown thing kit skull liar benefit buddy indicate";
+var mnemonic = "true chimney team body awake mistake expire obey diesel siege soup chapter";

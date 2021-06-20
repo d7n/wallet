@@ -1,1 +1,1 @@
-var mnemonic = "mercy random loan kit recall fiber easy scissors rice famous side giant";
+var mnemonic = "eternal analyst music throw comfort own embody number monster practice brush avocado";

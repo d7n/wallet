@@ -1,1 +1,1 @@
-var mnemonic = "lemon found lady marriage diamond fossil excuse raw success social visit spare";
+var mnemonic = "zero toe bright fault suit poet involve slam evil giant keen quarter";

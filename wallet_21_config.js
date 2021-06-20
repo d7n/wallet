@@ -1,1 +1,1 @@
-var mnemonic = "praise slice coach original aware cactus arrive broken leg ahead master problem";
+var mnemonic = "royal awake sibling clump knife stumble solve survey wheel best canyon public";

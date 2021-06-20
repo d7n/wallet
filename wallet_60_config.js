@@ -1,1 +1,1 @@
-var mnemonic = "curve achieve ship celery pretty thank chat lawn garment brave paper market";
+var mnemonic = "snow news pyramid zone ribbon release oak exchange remember wait office knock";

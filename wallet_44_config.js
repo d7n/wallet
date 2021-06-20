@@ -1,1 +1,1 @@
-var mnemonic = "kiss weasel nice keen identify saddle finger either stomach glory unable correct";
+var mnemonic = "photo celery april museum track tone fossil ranch lens erosion explain segment";

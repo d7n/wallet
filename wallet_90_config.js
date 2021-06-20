@@ -1,1 +1,1 @@
-var mnemonic = "bind glide syrup solve burden resist judge stomach boss floor deer scrap";
+var mnemonic = "add master alarm pig ski rib used federal noble oppose damp silly";

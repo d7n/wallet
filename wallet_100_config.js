@@ -1,1 +1,1 @@
-var mnemonic = "ill off frequent hammer warrior boat addict empty adult trophy saddle risk";
+var mnemonic = "despair satoshi cargo unaware audit balcony vintage regret announce easily bright inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle typical float north neck oppose mutual borrow bunker walnut memory bike";
+var mnemonic = "mix build silly elegant length together dilemma feed time improve topic upset";

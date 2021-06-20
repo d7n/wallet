@@ -1,1 +1,1 @@
-var mnemonic = "soap public come category talent viable ignore own culture syrup pioneer admit";
+var mnemonic = "copy deal chief chief wing vote wasp glue patch confirm venture genius";

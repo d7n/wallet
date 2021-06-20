@@ -1,1 +1,1 @@
-var mnemonic = "afraid glad save sing into stick evidence embark material lava afraid excuse";
+var mnemonic = "quiz chase session cart horse say weird hero radio drink divert dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "siege tuna blur asthma gossip farm fault trumpet life neck slight expand";
+var mnemonic = "pigeon sock perfect prosper label black hint change dizzy trigger fold produce";

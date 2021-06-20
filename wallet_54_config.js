@@ -1,1 +1,1 @@
-var mnemonic = "start like physical miracle dry advance night broken old equip sea neglect";
+var mnemonic = "glass million buffalo art sick slush side jaguar daughter indoor volcano kind";

@@ -1,1 +1,1 @@
-var mnemonic = "sense hammer knock critic episode tonight wear inside paper switch scale equal";
+var mnemonic = "foster toy ketchup pink genius credit poet nothing team scale roast situate";

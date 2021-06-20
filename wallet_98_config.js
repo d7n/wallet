@@ -1,1 +1,1 @@
-var mnemonic = "fantasy media truly bargain truck olive rookie improve behind smoke vacant buffalo";
+var mnemonic = "leopard olive rookie immune glue entire craft nation matter glow diesel lottery";

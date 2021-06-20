@@ -1,1 +1,1 @@
-var mnemonic = "near there assume once gentle empty manage glass quality prefer cabbage grief";
+var mnemonic = "gasp army speak space web spring detail mule shell zone color buddy";

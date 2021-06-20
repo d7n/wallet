@@ -1,1 +1,1 @@
-var mnemonic = "globe prevent shadow decade spoon disease leave fire iron damp chair inmate";
+var mnemonic = "school volume ecology useless journey wet mail cat market brown wealth student";

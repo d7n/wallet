@@ -1,1 +1,1 @@
-var mnemonic = "possible either guard pave dry skill birth plug enhance great help symbol";
+var mnemonic = "city actress square ankle dose boost chat throw picnic chest cereal valve";

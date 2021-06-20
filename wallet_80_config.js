@@ -1,1 +1,1 @@
-var mnemonic = "robot own tobacco borrow throw stable fruit cash rose strong transfer strike";
+var mnemonic = "hungry spike stairs burger unaware maid glue one chat affair faint indoor";

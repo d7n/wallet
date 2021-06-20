@@ -1,1 +1,1 @@
-var mnemonic = "strike twice flee obvious disagree very weapon edit urge badge jewel mammal";
+var mnemonic = "buffalo actress shrimp cousin update gossip normal comfort abstract illness smart furnace";

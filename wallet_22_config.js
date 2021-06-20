@@ -1,1 +1,1 @@
-var mnemonic = "abuse person later fold maple rubber cool relax come clerk honey dilemma";
+var mnemonic = "expect busy brain blur code suit flip stick parrot observe enjoy frequent";

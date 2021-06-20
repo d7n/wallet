@@ -1,1 +1,1 @@
-var mnemonic = "wise stick hurry chest occur oppose boil fault asthma announce vacuum scan";
+var mnemonic = "tortoise security enlist monkey lawn leisure since brick across health buddy reward";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure fiber episode excess gun fold armor pen reunion laundry stumble mesh";
+var mnemonic = "stage arrange cushion plug dad sugar cave chicken tornado ivory auction label";

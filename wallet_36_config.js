@@ -1,1 +1,1 @@
-var mnemonic = "follow quality liberty auto dress damage need crush people hockey harsh know";
+var mnemonic = "chaos either leg trap year tree weasel drop fringe fatal zoo blur";

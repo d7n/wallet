@@ -1,1 +1,1 @@
-var mnemonic = "toddler bubble clutch brush exercise ancient woman gallery goose mushroom senior drum";
+var mnemonic = "cousin jeans outdoor version matter friend type mail ankle humor crime clog";

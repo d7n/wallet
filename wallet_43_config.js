@@ -1,1 +1,1 @@
-var mnemonic = "file eagle pull butter morning head cousin hero model history harvest feel";
+var mnemonic = "fresh session fox age letter scorpion give top problem slim improve nothing";

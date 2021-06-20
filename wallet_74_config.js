@@ -1,1 +1,1 @@
-var mnemonic = "mango layer ethics useless venue upgrade empty decade impact police food banner";
+var mnemonic = "spare viable fragile burst surge chalk ugly voyage slab loud rain rigid";

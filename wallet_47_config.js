@@ -1,1 +1,1 @@
-var mnemonic = "brother bubble direct hurt motor message resemble woman rhythm arrow ostrich flock";
+var mnemonic = "wood cool peasant once banner ozone pear gun flavor arm loan zero";

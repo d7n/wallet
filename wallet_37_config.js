@@ -1,1 +1,1 @@
-var mnemonic = "tag unique chest vote pet hunt night magic gloom industry private elder";
+var mnemonic = "acoustic comfort able sock flock vivid toy judge word together then bring";

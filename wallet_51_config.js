@@ -1,1 +1,1 @@
-var mnemonic = "slim video barely popular love slide zone pumpkin tortoise midnight debate slide";
+var mnemonic = "viable half nerve until hollow mosquito empower market rival unknown valid coyote";

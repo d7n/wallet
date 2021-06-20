@@ -1,1 +1,1 @@
-var mnemonic = "drive lunch suit sugar burden layer summer citizen leg twelve undo never";
+var mnemonic = "join tumble hurry desk stamp quantum cruel assist perfect void shell urban";

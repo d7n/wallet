@@ -1,1 +1,1 @@
-var mnemonic = "lottery law appear sea when twenty arena cricket warfare insane runway someone";
+var mnemonic = "sleep silver fitness suggest board income woman remember camp noble walk nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "split topic bottom blouse eyebrow frown usual remain fog zone hip monster";
+var mnemonic = "pond season million kingdom fetch witness under depart onion cave junior glance";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond eye father primary balcony glide base immense unhappy able method submit";
+var mnemonic = "split stadium cactus amateur original jelly rescue disease daring retreat charge build";

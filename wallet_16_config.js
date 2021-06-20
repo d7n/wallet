@@ -1,1 +1,1 @@
-var mnemonic = "toy leisure win state team jeans write over throw drastic goat cradle";
+var mnemonic = "vast senior promote master blanket letter guilt security capital silent dad exist";

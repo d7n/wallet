@@ -1,1 +1,1 @@
-var mnemonic = "salmon boring friend winner chase file soldier soup art middle blade way";
+var mnemonic = "future flag letter minute moral hub muffin chat sausage heart eternal balcony";

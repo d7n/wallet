@@ -1,1 +1,1 @@
-var mnemonic = "capital try sand stick join bargain team option believe legend old invite";
+var mnemonic = "casual bind market bone monitor region alone rule year typical dwarf fresh";

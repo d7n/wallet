@@ -1,1 +1,1 @@
-var mnemonic = "infant wolf pony tenant brass trade prepare hair this adult dilemma danger";
+var mnemonic = "foot innocent pitch gown gesture useless tape balance next worth shrug theory";

@@ -1,1 +1,1 @@
-var mnemonic = "tube diagram economy forest color comfort country wrist fence link survey banner";
+var mnemonic = "galaxy candy inquiry sure prevent click access lock milk fitness again off";

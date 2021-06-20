@@ -1,1 +1,1 @@
-var mnemonic = "dust stamp news silent coyote road armor turkey deliver act fitness wagon";
+var mnemonic = "slow paddle file expect retire spy student immune impact title donkey sick";

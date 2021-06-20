@@ -1,1 +1,1 @@
-var mnemonic = "exhaust unique prefer bullet bar decrease odor tourist nominee tower creek file";
+var mnemonic = "behave agent cloud dial saddle fault crack notice female icon welcome canyon";

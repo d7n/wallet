@@ -1,1 +1,1 @@
-var mnemonic = "special more midnight opinion rice athlete faint primary control planet never scene";
+var mnemonic = "glow parent rotate wrap tag crystal give arrest dinner gasp arctic solid";

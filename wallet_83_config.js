@@ -1,1 +1,1 @@
-var mnemonic = "tank symbol deer that swear traffic wave lizard movie pizza illegal what";
+var mnemonic = "fancy floor logic still slice adapt pattern bench sign enough casino panther";

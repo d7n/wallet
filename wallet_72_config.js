@@ -1,1 +1,1 @@
-var mnemonic = "wedding wrestle giraffe eternal theme deliver fiction spoil rhythm lift sun decrease";
+var mnemonic = "rule stereo bacon sure agree stairs squirrel glad climb account brush imitate";

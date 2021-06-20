@@ -1,1 +1,1 @@
-var mnemonic = "garbage human wool laundry regular grab amazing style merit fruit multiply little";
+var mnemonic = "blur media early follow enemy sight chaos approve off describe wood clip";
