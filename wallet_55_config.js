@@ -1,1 +1,1 @@
-var mnemonic = "need little miracle jaguar false dragon harvest liberty sheriff crunch club gift";
+var mnemonic = "genius warfare force hen stick sing excite fuel river oval outside east";

@@ -1,1 +1,1 @@
-var mnemonic = "grab ketchup below symptom jungle normal obscure field test illegal afford job";
+var mnemonic = "common word taxi unit aspect atom style nominee huge diagram original click";

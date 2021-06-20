@@ -1,1 +1,1 @@
-var mnemonic = "arrow more gorilla curve old reward stereo delay survey jealous ready minimum";
+var mnemonic = "soon genius exhibit frame gas leave endorse keen captain retreat business drop";

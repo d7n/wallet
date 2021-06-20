@@ -1,1 +1,1 @@
-var mnemonic = "soul rabbit hole tobacco eternal praise curious wet gasp diet smooth dynamic";
+var mnemonic = "shadow congress fancy flock arrest high switch few voyage wall gold sunset";

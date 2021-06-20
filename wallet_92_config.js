@@ -1,1 +1,1 @@
-var mnemonic = "wrap immense seminar scorpion duty since super inhale myth enemy grief avocado";
+var mnemonic = "corn elite same limit bind blade harsh snack hungry mobile baby provide";

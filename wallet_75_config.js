@@ -1,1 +1,1 @@
-var mnemonic = "swallow now zone robust wild assist permit inform aerobic angle water order";
+var mnemonic = "camp flower tongue foam reveal input model grace novel control casino dawn";

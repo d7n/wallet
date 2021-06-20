@@ -1,1 +1,1 @@
-var mnemonic = "jacket palm unique eight silver share bring wing valid cricket hollow rice";
+var mnemonic = "one grunt figure need sniff tunnel guide romance rude ranch brain crazy";

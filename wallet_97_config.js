@@ -1,1 +1,1 @@
-var mnemonic = "pioneer ensure ketchup real wave middle health fresh tomorrow gate ostrich flock";
+var mnemonic = "elevator mother wood ginger uncle punch donate young faint bottom lounge tank";

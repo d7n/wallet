@@ -1,1 +1,1 @@
-var mnemonic = "manage forum recall kingdom egg evoke donor vague price neither boring certain";
+var mnemonic = "educate joke crawl behave spread catalog demise duck core stick tragic wet";

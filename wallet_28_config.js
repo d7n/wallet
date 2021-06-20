@@ -1,1 +1,1 @@
-var mnemonic = "speed lock pet parent hawk evil learn balcony hospital element powder inhale";
+var mnemonic = "amateur print flash box news day sword catalog sun eyebrow salmon squeeze";

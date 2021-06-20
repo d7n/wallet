@@ -1,1 +1,1 @@
-var mnemonic = "west fetch crisp film sausage place body animal doctor sort garden dance";
+var mnemonic = "fantasy prize select boy viable inject this method winner slight simple huge";

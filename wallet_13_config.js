@@ -1,1 +1,1 @@
-var mnemonic = "army wrestle inspire elegant start marriage cinnamon release always chalk post breeze";
+var mnemonic = "stool bring stone cat venue butter royal walnut apple casual before soft";

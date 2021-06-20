@@ -1,1 +1,1 @@
-var mnemonic = "team crime wheat peace aunt enemy visual deny rhythm idea beef damp";
+var mnemonic = "proud either more license goose again random genuine miracle seat trouble caution";

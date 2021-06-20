@@ -1,1 +1,1 @@
-var mnemonic = "borrow work fault entry second beef arena build happy dragon left cream";
+var mnemonic = "wool blame fine critic element step increase oppose void muffin donkey squeeze";

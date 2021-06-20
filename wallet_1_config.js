@@ -1,1 +1,1 @@
-var mnemonic = "asset bachelor wife artwork wife song citizen pen name argue note payment";
+var mnemonic = "river giraffe poverty aim recycle ramp camera regret simple neither choose document";

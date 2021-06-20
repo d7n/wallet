@@ -1,1 +1,1 @@
-var mnemonic = "snake rug warfare current stage blossom slender banana squeeze push solar slot";
+var mnemonic = "tribe example problem faith display orphan leopard vocal board million false embark";

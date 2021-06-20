@@ -1,1 +1,1 @@
-var mnemonic = "feed lucky scissors peace bone only trim orange unique trouble umbrella auto";
+var mnemonic = "faint sausage doll awake sock thunder kite produce blade response swing shiver";

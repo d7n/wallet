@@ -1,1 +1,1 @@
-var mnemonic = "permit village gallery actor stick afford torch father lunar else admit trust";
+var mnemonic = "whale plunge switch sibling arch tiny pause nerve donate misery crumble siren";

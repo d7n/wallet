@@ -1,1 +1,1 @@
-var mnemonic = "drama program visual base circle praise vehicle hello potato survey script crew";
+var mnemonic = "rifle vague pear ivory cup margin tornado state rug remember rely coil";

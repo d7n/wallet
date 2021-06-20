@@ -1,1 +1,1 @@
-var mnemonic = "catalog cruise there crater morning wine birth path equal coach weapon cry";
+var mnemonic = "crawl beef access badge render dinner eagle eye thunder correct spend brown";

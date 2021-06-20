@@ -1,1 +1,1 @@
-var mnemonic = "brisk over vault outdoor husband indoor fine camp gun artist caution rice";
+var mnemonic = "glad wonder pull tool region dismiss fan infant live total knee good";

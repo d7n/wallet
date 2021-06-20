@@ -1,1 +1,1 @@
-var mnemonic = "exist remove stomach hand hat monster brave evoke frost wine wolf own";
+var mnemonic = "clinic switch filter neutral sense expire tunnel enforce ready clutch oyster kitchen";

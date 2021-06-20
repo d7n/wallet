@@ -1,1 +1,1 @@
-var mnemonic = "merit ghost rescue aware bacon work piece tribe lawsuit daughter agree sugar";
+var mnemonic = "note rib maze output napkin tape reason bless soldier into witness expire";

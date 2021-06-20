@@ -1,1 +1,1 @@
-var mnemonic = "release butter imitate cradle gauge kit similar bubble joy below change beach";
+var mnemonic = "couple erase smart credit useful carry route animal plug visa photo adapt";

@@ -1,1 +1,1 @@
-var mnemonic = "game fault evidence habit shell live balance dignity approve laugh save wish";
+var mnemonic = "truck laugh garlic afraid tide afraid rigid quiz copper urge whip food";

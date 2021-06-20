@@ -1,1 +1,1 @@
-var mnemonic = "present town consider devote barely silly language find toy aisle brush balance";
+var mnemonic = "biology fold already time junior canyon tool science cattle wire avoid dynamic";

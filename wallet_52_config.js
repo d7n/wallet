@@ -1,1 +1,1 @@
-var mnemonic = "stereo truck envelope coral section donkey first sadness clip filter woman else";
+var mnemonic = "peasant exotic praise stomach bird magnet twenty oval crouch lawn liberty chaos";

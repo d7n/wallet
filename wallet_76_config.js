@@ -1,1 +1,1 @@
-var mnemonic = "erosion still gossip hair public maze lend sponsor now luggage guilt occur";
+var mnemonic = "north idle display amused mushroom else fan adapt target curious pen chicken";

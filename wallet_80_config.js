@@ -1,1 +1,1 @@
-var mnemonic = "someone vessel group foster frame metal repeat wood purity exhibit thank few";
+var mnemonic = "clog fade mountain feel cup dentist online nut limb please three improve";

@@ -1,1 +1,1 @@
-var mnemonic = "expose staff helmet current blur afraid trip window intact theory section shoe";
+var mnemonic = "wrap kite very basket click finger liquid favorite daughter wild wedding round";

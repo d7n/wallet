@@ -1,1 +1,1 @@
-var mnemonic = "lawn viable toy blood scare foam upset amused uphold produce eye advice";
+var mnemonic = "theme inch true angle art voyage cheese nest shield seed mass check";

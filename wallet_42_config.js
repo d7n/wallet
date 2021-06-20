@@ -1,1 +1,1 @@
-var mnemonic = "first more artist fee source explain antique aspect hedgehog elite avocado pledge";
+var mnemonic = "plunge tank erase denial antenna orbit timber since middle rifle crew crane";

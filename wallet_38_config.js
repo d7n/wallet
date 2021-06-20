@@ -1,1 +1,1 @@
-var mnemonic = "milk genre beef crack dawn ocean invest pig unknown adapt fly crucial";
+var mnemonic = "alien domain praise elephant floor open boil husband chair park increase decline";

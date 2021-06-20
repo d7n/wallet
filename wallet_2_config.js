@@ -1,1 +1,1 @@
-var mnemonic = "artefact dentist mimic dust enrich fashion accident egg gadget alarm chat affair";
+var mnemonic = "margin owner run need cricket deer true unfair winner clap logic excess";

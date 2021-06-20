@@ -1,1 +1,1 @@
-var mnemonic = "wish grain seminar skirt dog hat tag until shuffle alter belt fatal";
+var mnemonic = "morning devote crater what find insect wonder menu across online horse client";

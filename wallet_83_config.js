@@ -1,1 +1,1 @@
-var mnemonic = "fire desert call chief tenant cycle leg insect update apple buyer disagree";
+var mnemonic = "scout lemon section exit miracle blanket mass require disagree right type guess";

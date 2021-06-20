@@ -1,1 +1,1 @@
-var mnemonic = "debate sugar pond rose apple vacant rare advance claim nephew smart soft";
+var mnemonic = "ill wrist stereo tomorrow secret limit roast close crystal barely income lizard";

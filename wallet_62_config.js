@@ -1,1 +1,1 @@
-var mnemonic = "canoe armed poem orbit scrub drill goose you cricket nut blur boil";
+var mnemonic = "enforce hundred door fog sign try entry napkin buffalo huge helmet lady";

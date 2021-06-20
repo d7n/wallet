@@ -1,1 +1,1 @@
-var mnemonic = "unfold turkey pull forget enjoy daughter kingdom find receive shoot gun panic";
+var mnemonic = "device crush knife popular happy maximum prefer price winner sister share finger";

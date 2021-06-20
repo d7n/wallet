@@ -1,1 +1,1 @@
-var mnemonic = "visual canvas caught snake model grace anxiety fox chase suit nothing jar";
+var mnemonic = "picture lunch erase left fish lonely gasp swim figure screen across velvet";

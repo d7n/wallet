@@ -1,1 +1,1 @@
-var mnemonic = "surround arctic teach endless escape cherry excite range sock eternal nice garlic";
+var mnemonic = "limb unknown uncle round bleak slam select hand miss guitar flower prevent";

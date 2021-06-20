@@ -1,1 +1,1 @@
-var mnemonic = "neither brass company settle defy orange rib gentle inject stage argue obtain";
+var mnemonic = "then confirm mouse lava market hedgehog certain budget family student display album";

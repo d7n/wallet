@@ -1,1 +1,1 @@
-var mnemonic = "tower inquiry humble ceiling catalog this lift rapid frost grief motion planet";
+var mnemonic = "awful knife maximum airport six pepper identify private indoor season balcony century";

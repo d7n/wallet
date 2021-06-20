@@ -1,1 +1,1 @@
-var mnemonic = "genre tray sad slam love average awful fade fix private enable denial";
+var mnemonic = "pause monkey gym caught adapt infant then sword general small hurry easy";

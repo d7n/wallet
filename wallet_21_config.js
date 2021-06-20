@@ -1,1 +1,1 @@
-var mnemonic = "drive priority border theme shed harbor license else execute civil that recipe";
+var mnemonic = "drama insane motor crack dash monitor organ crumble pencil bullet vault million";

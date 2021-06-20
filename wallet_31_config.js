@@ -1,1 +1,1 @@
-var mnemonic = "merge napkin survey suffer need brand thought tragic mansion trumpet camp follow";
+var mnemonic = "special unfold chaos west flower lunch famous song mountain trip lounge course";

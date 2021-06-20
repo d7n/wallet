@@ -1,1 +1,1 @@
-var mnemonic = "also vessel lyrics patch oval bid proud rude domain tribe finger accuse";
+var mnemonic = "penalty decrease front name worry finish worry wonder object follow talk afraid";

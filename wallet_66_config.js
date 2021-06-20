@@ -1,1 +1,1 @@
-var mnemonic = "clip stool share drill museum banana name spend salad chronic marriage equal";
+var mnemonic = "pitch punch cheese stand green diary museum message access hybrid sibling sort";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain accident black column motor half fitness second walk foil exchange rebuild";
+var mnemonic = "awesome blue merit autumn bounce cross west suspect hurry fault enroll hover";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon minute payment wheat sniff say thank pudding adapt follow unfold utility";
+var mnemonic = "silver awake friend blind vanish sphere few husband diagram stuff magnet crouch";

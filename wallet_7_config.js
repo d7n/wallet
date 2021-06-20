@@ -1,1 +1,1 @@
-var mnemonic = "music cube impulse outdoor citizen code cool vast analyst suspect proud diesel";
+var mnemonic = "alter position know ginger lend pudding crucial upset month exist stage powder";

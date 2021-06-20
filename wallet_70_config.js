@@ -1,1 +1,1 @@
-var mnemonic = "dentist belt gesture crowd leg resemble interest pitch panel either duck lumber";
+var mnemonic = "mango online test despair glue develop treat escape sunset cactus maple manage";

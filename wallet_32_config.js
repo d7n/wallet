@@ -1,1 +1,1 @@
-var mnemonic = "pizza wolf egg cake loud cinnamon outer eager frown expand street kit";
+var mnemonic = "cruise jump thought canvas hobby reject mention renew drum anchor foil legal";

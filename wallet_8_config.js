@@ -1,1 +1,1 @@
-var mnemonic = "art bracket exhaust warrior exercise sunny penalty enroll turn canal ship box";
+var mnemonic = "mention secret witness uphold jeans example sorry erode rough baby acoustic shallow";

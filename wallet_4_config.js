@@ -1,1 +1,1 @@
-var mnemonic = "version explain essay belt wall plastic library ten erupt sort river slender";
+var mnemonic = "employ relief water blood body agent high initial another benefit leisure fire";

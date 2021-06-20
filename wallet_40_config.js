@@ -1,1 +1,1 @@
-var mnemonic = "funny flag amazing one public tower castle pause army february race record";
+var mnemonic = "foster giggle deny simple february similar nest narrow employ they soldier giggle";

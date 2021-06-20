@@ -1,1 +1,1 @@
-var mnemonic = "poet shell base rebuild cash join laundry spread monster tissue split sun";
+var mnemonic = "yard into bomb between leg phone surround play coast lunar hamster salute";

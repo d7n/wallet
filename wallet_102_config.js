@@ -1,1 +1,1 @@
-var mnemonic = "panda amazing peasant present evoke comic banner banner curtain load weather helmet";
+var mnemonic = "table slice pony cup plug lyrics jeans arena fiscal ceiling six fiscal";

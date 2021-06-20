@@ -1,1 +1,1 @@
-var mnemonic = "buyer govern multiply wealth notable horror merry mercy elevator gap column choose";
+var mnemonic = "bachelor summer acoustic animal fence coral cover park verify safe surround yard";

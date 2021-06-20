@@ -1,1 +1,1 @@
-var mnemonic = "phrase bullet garage dignity outer spatial undo fancy concert journey girl sea";
+var mnemonic = "cable window own shove outdoor clay siege soccer edge quiz plug minimum";

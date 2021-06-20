@@ -1,1 +1,1 @@
-var mnemonic = "desk pact beyond equal globe slam opera jar alarm anchor repair pencil";
+var mnemonic = "deliver diary border genre else tone auto wrap vacuum kitchen shop olive";

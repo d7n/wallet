@@ -1,1 +1,1 @@
-var mnemonic = "flag hamster corn squirrel potato hope cupboard divorce violin february loyal repeat";
+var mnemonic = "glass sand ice tone toast crush learn spell you method sponsor three";

@@ -1,1 +1,1 @@
-var mnemonic = "follow alert immense always apology lyrics barely kite famous chicken absurd exercise";
+var mnemonic = "butter sand work sunset dismiss stereo siren short heart portion outer gate";

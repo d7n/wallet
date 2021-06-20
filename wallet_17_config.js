@@ -1,1 +1,1 @@
-var mnemonic = "erupt despair pig thunder ill size tiny era acquire lounge crouch surface";
+var mnemonic = "group radar walnut inform army switch cube female since universe reveal system";

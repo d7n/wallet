@@ -1,1 +1,1 @@
-var mnemonic = "shoot park annual garlic sport avocado ozone more demand wreck risk improve";
+var mnemonic = "various human announce patch apology embody dish stove raccoon clerk skirt boy";

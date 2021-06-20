@@ -1,1 +1,1 @@
-var mnemonic = "liberty radio mistake kind leader human shield combine fish achieve shine tunnel";
+var mnemonic = "deposit phone error casual measure pyramid aspect affair cake symptom nation tobacco";

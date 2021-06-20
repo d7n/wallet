@@ -1,1 +1,1 @@
-var mnemonic = "alert advance canyon gentle border napkin chimney hamster twelve powder satisfy bicycle";
+var mnemonic = "combine fox accuse divorce lake grant creek enemy creek stomach park half";

@@ -1,1 +1,1 @@
-var mnemonic = "file silent start ketchup memory copper thing output document emotion dune wife";
+var mnemonic = "glove attend month firm lounge such fall inhale garden inside vapor pottery";

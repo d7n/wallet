@@ -1,1 +1,1 @@
-var mnemonic = "purity hobby main jelly ritual borrow advance broken deer armor glimpse exotic";
+var mnemonic = "chapter text chat music comfort table winner renew bamboo pair other when";

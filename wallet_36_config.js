@@ -1,1 +1,1 @@
-var mnemonic = "potato nice october sphere age gadget clay abuse royal suspect lounge humor";
+var mnemonic = "knee dinosaur supply fashion plastic fantasy clerk grace search can approve apology";

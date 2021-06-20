@@ -1,1 +1,1 @@
-var mnemonic = "sail client gesture habit runway engage praise license monitor off cage output";
+var mnemonic = "clap kit dish episode check vibrant height biology guard practice stay sorry";

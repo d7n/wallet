@@ -1,1 +1,1 @@
-var mnemonic = "question begin obvious square install acid media over indoor almost dawn double";
+var mnemonic = "clay million loyal cage what reopen rent fault dial glad fee ugly";

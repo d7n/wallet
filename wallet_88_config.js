@@ -1,1 +1,1 @@
-var mnemonic = "calm noodle desk letter empty slim hurt off series theory cost fever";
+var mnemonic = "doll ski screen subject duty edge dust coast river night submit cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "observe swarm close damp lady interest setup execute soul coast perfect tag";
+var mnemonic = "bright gaze furnace gallery mule doll flush ghost quiz bargain rubber exhaust";

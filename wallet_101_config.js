@@ -1,1 +1,1 @@
-var mnemonic = "employ pepper artefact special design column cannon behind flee roast cave initial";
+var mnemonic = "fatigue color rib enter update print poem gauge jelly chicken isolate damage";

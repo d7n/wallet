@@ -1,1 +1,1 @@
-var mnemonic = "garden oblige spring couple report beauty fabric fish pill viable fiscal thunder";
+var mnemonic = "birth this vanish select allow front guilt property public lend seminar secret";

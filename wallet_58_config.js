@@ -1,1 +1,1 @@
-var mnemonic = "science tackle pudding accident nurse liquid trim carpet beach usage energy worth";
+var mnemonic = "voyage horror mistake giggle remind funny member tragic exile equal blue history";

@@ -1,1 +1,1 @@
-var mnemonic = "cancel funny social vibrant noble benefit gate glue tide spirit water amateur";
+var mnemonic = "zoo raven want nose stuff drop predict acquire menu know business action";

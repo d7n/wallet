@@ -1,1 +1,1 @@
-var mnemonic = "solid winner play near sock fat loyal video suggest acoustic matter mule";
+var mnemonic = "security traffic tired slice area valid width ketchup axis story access piece";

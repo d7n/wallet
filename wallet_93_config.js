@@ -1,1 +1,1 @@
-var mnemonic = "foam equal believe stem sweet perfect cause float proud rug collect must";
+var mnemonic = "valve way young jewel poem disease multiply pattern liberty finish remove gadget";

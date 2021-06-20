@@ -1,1 +1,1 @@
-var mnemonic = "orange wife lounge media blood faculty glass giraffe segment venture magnet hollow";
+var mnemonic = "fade police flame negative clown fold help staff cousin refuse alarm citizen";

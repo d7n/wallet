@@ -1,1 +1,1 @@
-var mnemonic = "cherry supreme end extend giraffe beach before unaware barrel despair wink license";
+var mnemonic = "limb reunion moon century permit dress auction toast diesel transfer yellow camera";
