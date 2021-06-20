@@ -1,1 +1,1 @@
-var mnemonic = "actor love select quarter fever buffalo grief asthma member limit top despair";
+var mnemonic = "clip author hood clown reform group tribe shadow section rubber barrel rotate";

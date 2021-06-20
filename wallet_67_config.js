@@ -1,1 +1,1 @@
-var mnemonic = "athlete elephant subject proof figure funny category almost strategy army fly ginger";
+var mnemonic = "pencil coconut ice penalty crumble behave conduct captain obtain misery double roast";

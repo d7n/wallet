@@ -1,1 +1,1 @@
-var mnemonic = "gospel tilt guide virtual vessel spatial jeans describe tone mango scan step";
+var mnemonic = "inner valley nation matter zoo volume glove output dial unknown jump picnic";

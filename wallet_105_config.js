@@ -1,1 +1,1 @@
-var mnemonic = "pair naive page have strategy occur play cabin clown use insect pink";
+var mnemonic = "evoke tower mercy mushroom pelican basic seek lab card frost spell inflict";

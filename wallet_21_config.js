@@ -1,1 +1,1 @@
-var mnemonic = "swarm question reflect source bird craft little craft topic boy ahead game";
+var mnemonic = "magnet evoke stage alcohol tomato bread sight logic together iron polar negative";

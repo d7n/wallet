@@ -1,1 +1,1 @@
-var mnemonic = "antique glass issue soap team advance ordinary deal barely vintage host chief";
+var mnemonic = "velvet kid agent autumn glide raccoon patient inner hurt aware faculty biology";

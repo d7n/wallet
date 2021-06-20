@@ -1,1 +1,1 @@
-var mnemonic = "toy invite museum fence gentle food wine memory whisper toe water rib";
+var mnemonic = "cloth major urban renew know enroll setup sunset heavy noise net sting";

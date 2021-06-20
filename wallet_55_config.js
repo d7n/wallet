@@ -1,1 +1,1 @@
-var mnemonic = "large entire blade oyster together nation drama yellow scheme survey lizard own";
+var mnemonic = "venture stereo equip board raw orphan base dog oval warm charge expose";

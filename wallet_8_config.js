@@ -1,1 +1,1 @@
-var mnemonic = "range oppose beach ignore enemy under jacket flavor castle eyebrow ritual ball";
+var mnemonic = "bright awesome shock mushroom grab sword lend resource lion chimney vast sheriff";

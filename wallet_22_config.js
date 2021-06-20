@@ -1,1 +1,1 @@
-var mnemonic = "among bracket tattoo update wife private family twist gorilla fine kidney green";
+var mnemonic = "arch hello tip put crystal stairs wheel expect concert delay boy organ";

@@ -1,1 +1,1 @@
-var mnemonic = "define leave canoe opera swarm burger lake record rough hen ripple truth";
+var mnemonic = "thing kit garlic cereal virtual tank put flame phone end circle hurt";

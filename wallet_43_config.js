@@ -1,1 +1,1 @@
-var mnemonic = "jelly viable chef barrel fire excess amazing oven radar lunar spring canoe";
+var mnemonic = "lava acoustic net bread flower close notable exit battle flower ridge famous";

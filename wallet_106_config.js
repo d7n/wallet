@@ -1,1 +1,1 @@
-var mnemonic = "surround abstract evidence split bitter garage world pear photo fault pistol fantasy";
+var mnemonic = "vivid riot forward thunder crystal armed obscure transfer mutual label blossom know";

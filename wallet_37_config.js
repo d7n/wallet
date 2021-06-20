@@ -1,1 +1,1 @@
-var mnemonic = "they ridge deer domain magnet plug egg update dwarf crater prepare before";
+var mnemonic = "void sauce donor fresh ancient tide over expire chest broken verb plunge";

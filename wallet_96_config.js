@@ -1,1 +1,1 @@
-var mnemonic = "put luggage boat mix want truck autumn record question hawk capital print";
+var mnemonic = "bunker trick father upper impose match pen priority banana ostrich grab sad";

@@ -1,1 +1,1 @@
-var mnemonic = "yard remove undo wagon kitten neutral mouse fire myself bone bid author";
+var mnemonic = "rival people power bag glove banana element donkey useless attract about spice";

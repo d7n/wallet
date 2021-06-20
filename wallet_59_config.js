@@ -1,1 +1,1 @@
-var mnemonic = "certain magnet saddle gospel degree glare scorpion exhibit country prosper emotion range";
+var mnemonic = "elbow festival guess swing wealth air drum below exclude ostrich trigger pitch";

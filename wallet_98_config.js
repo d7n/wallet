@@ -1,1 +1,1 @@
-var mnemonic = "large push dry picnic render cushion index goat demand mandate judge twin";
+var mnemonic = "miracle tone april random license final voice leisure various cheese angle salute";

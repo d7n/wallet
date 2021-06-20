@@ -1,1 +1,1 @@
-var mnemonic = "mom proof patrol sight husband subway eye squeeze nest spatial viable host";
+var mnemonic = "resource fold ahead risk vessel enjoy kitten abstract present mass target guide";

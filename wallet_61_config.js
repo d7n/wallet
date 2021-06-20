@@ -1,1 +1,1 @@
-var mnemonic = "eight sorry slender second position mixed figure palace guilt hill cause minimum";
+var mnemonic = "casual impulse crystal scare angry easily wheat entire table slab inspire tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture surround jungle cricket two segment tribe picnic panic know come donor";
+var mnemonic = "happy excite air pupil swallow pair inspire jungle expand lyrics shell floor";

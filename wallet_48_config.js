@@ -1,1 +1,1 @@
-var mnemonic = "resource brother busy harbor nice satisfy employ year kitchen property drama cave";
+var mnemonic = "feature return spoil around marriage obscure time subject garden agent surface foot";

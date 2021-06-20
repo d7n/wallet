@@ -1,1 +1,1 @@
-var mnemonic = "grape middle person below dust cushion leave settle cheap cost guilt moral";
+var mnemonic = "erosion recall pole purpose then harsh conduct mosquito time bundle junk twice";

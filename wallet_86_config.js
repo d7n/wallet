@@ -1,1 +1,1 @@
-var mnemonic = "nuclear hood slim cycle ticket resemble slush net sand upgrade special awkward";
+var mnemonic = "want autumn this final warrior degree cancel nut brass print limb stay";

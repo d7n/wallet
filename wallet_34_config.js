@@ -1,1 +1,1 @@
-var mnemonic = "try rice rice three chief prison near bar tool luxury satisfy diet";
+var mnemonic = "nerve kid void display happy lonely cinnamon park smile rotate reduce lamp";

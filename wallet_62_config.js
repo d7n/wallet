@@ -1,1 +1,1 @@
-var mnemonic = "enjoy wash pattern sight glance theme illness elephant expose tribe exist deputy";
+var mnemonic = "crunch truth all oval ceiling super coyote human present move fox rent";

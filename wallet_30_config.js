@@ -1,1 +1,1 @@
-var mnemonic = "balance talk hundred object crack furnace when mom captain century steel crouch";
+var mnemonic = "shaft crane sense river charge nominee course churn wire food knee tomorrow";

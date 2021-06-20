@@ -1,1 +1,1 @@
-var mnemonic = "flee open coyote immune air tattoo strategy wisdom cushion typical exit struggle";
+var mnemonic = "disease witness already next soldier split pistol hamster identify labor science deer";

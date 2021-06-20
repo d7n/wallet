@@ -1,1 +1,1 @@
-var mnemonic = "ethics jewel dust problem fork salmon garden blush mixed song leg drink";
+var mnemonic = "bench stomach hockey stay plug drop humble cage tape winter spot assist";

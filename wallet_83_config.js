@@ -1,1 +1,1 @@
-var mnemonic = "chair keen slam symbol orange talent creek canal middle magnet course syrup";
+var mnemonic = "fancy proof just liberty false spike pink charge minor arrow grass crawl";

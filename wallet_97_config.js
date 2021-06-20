@@ -1,1 +1,1 @@
-var mnemonic = "kick lyrics extend swift connect dinner candy assist crew unfold divorce elite";
+var mnemonic = "shine debris chalk screen group fuel flower skin donkey eight noodle whip";

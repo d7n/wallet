@@ -1,1 +1,1 @@
-var mnemonic = "blind group remain annual name choose fringe estate gate dwarf thought soul";
+var mnemonic = "major grow taxi erosion hundred gold fan voyage sheriff win bundle wage";

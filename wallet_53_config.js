@@ -1,1 +1,1 @@
-var mnemonic = "alien wrap problem way basic rubber enlist scene bamboo extra series regular";
+var mnemonic = "miracle raise solar layer soft dog middle rebuild world tray crush sell";

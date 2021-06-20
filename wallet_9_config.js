@@ -1,1 +1,1 @@
-var mnemonic = "arrive track arch source coil addict evil sound gadget kitten aunt knock";
+var mnemonic = "child cube into spice enemy lens exhaust document sugar liberty rack crouch";

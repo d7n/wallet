@@ -1,1 +1,1 @@
-var mnemonic = "vote media lend about clerk atom culture guide wash orange member screen";
+var mnemonic = "prize other pear table easily viable profit clown sunset scene runway snake";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune bridge rural music rhythm hood vault course thunder return tube diamond";
+var mnemonic = "knee apart excite address crop eyebrow female morning camp film satoshi tragic";

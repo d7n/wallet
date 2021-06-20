@@ -1,1 +1,1 @@
-var mnemonic = "thunder speak world future flower vessel derive prison supreme share alien future";
+var mnemonic = "mistake payment extend wall finish jazz minimum century equal resource mass blanket";

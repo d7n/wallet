@@ -1,1 +1,1 @@
-var mnemonic = "mass lyrics omit company dentist zoo consider glue settle proud easy east";
+var mnemonic = "hard leaf moral accuse ride uphold video clutch pilot better inform final";

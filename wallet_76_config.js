@@ -1,1 +1,1 @@
-var mnemonic = "excite canal endorse model novel blame illness license favorite citizen basket mushroom";
+var mnemonic = "wild economy section transfer draw admit embrace march toe member celery exhaust";

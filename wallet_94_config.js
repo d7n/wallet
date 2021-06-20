@@ -1,1 +1,1 @@
-var mnemonic = "remain million mistake trend cool wrap maid giggle diesel consider basic stool";
+var mnemonic = "surge into paddle act uphold impulse you topple usage travel depend isolate";

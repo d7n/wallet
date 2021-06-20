@@ -1,1 +1,1 @@
-var mnemonic = "reflect team dune eternal glimpse foster right ketchup eyebrow ancient fame exact";
+var mnemonic = "attitude figure method able dune cage prefer install immune enemy alpha ribbon";

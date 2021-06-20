@@ -1,1 +1,1 @@
-var mnemonic = "large toss mountain sauce wreck radio certain arena ribbon protect autumn minor";
+var mnemonic = "input link text stool rhythm wrestle romance future word about clay people";

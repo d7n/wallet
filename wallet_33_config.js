@@ -1,1 +1,1 @@
-var mnemonic = "exotic leg nothing diamond weather spare parrot system favorite century height guide";
+var mnemonic = "history decide amazing rug shell arrest indicate gun help scan club can";

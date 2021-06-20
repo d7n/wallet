@@ -1,1 +1,1 @@
-var mnemonic = "cram shoot spy write churn ranch call reunion witness melody correct undo";
+var mnemonic = "topple solid earth pair host butter better fiction estate thunder check rate";

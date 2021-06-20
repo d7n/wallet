@@ -1,1 +1,1 @@
-var mnemonic = "color scorpion primary penalty trend sand clump obey crisp onion destroy elder";
+var mnemonic = "cute reopen special grain virus fashion across engage proud gloom jewel chief";

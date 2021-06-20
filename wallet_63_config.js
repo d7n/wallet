@@ -1,1 +1,1 @@
-var mnemonic = "shallow deliver taste tackle labor hello carbon debate cave elevator slender sail";
+var mnemonic = "ignore scan lava robust hollow derive craft cloth dinner fork guilt gun";

@@ -1,1 +1,1 @@
-var mnemonic = "fog benefit exact cook bread quick topple hope load donate gadget van";
+var mnemonic = "celery museum beyond join army subway diesel moral proud dove dismiss discover";

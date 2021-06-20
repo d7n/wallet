@@ -1,1 +1,1 @@
-var mnemonic = "brief have youth absurd fence despair camera kiss address celery save tunnel";
+var mnemonic = "normal jazz desert cool amazing scrub awful theory pudding various ketchup ticket";

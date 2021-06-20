@@ -1,1 +1,1 @@
-var mnemonic = "clog begin nothing world differ adjust trim reject stem depend repeat own";
+var mnemonic = "decide dizzy unveil cage again service hole assume bulk security address palm";

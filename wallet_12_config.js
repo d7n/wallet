@@ -1,1 +1,1 @@
-var mnemonic = "board chase task item book bottom about stamp sell runway imitate sadness";
+var mnemonic = "online rain venue people couch history gorilla comfort rapid joke raccoon tattoo";

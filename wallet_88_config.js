@@ -1,1 +1,1 @@
-var mnemonic = "empty wise hospital funny amount cream state rural dash expand bounce divorce";
+var mnemonic = "about ketchup patch window appear wolf wedding deputy scare ocean color fold";

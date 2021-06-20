@@ -1,1 +1,1 @@
-var mnemonic = "fossil economy punch behave talent expect alcohol miss truth aerobic hen sing";
+var mnemonic = "elder loud melody regular entire lake filter warm junk range daring north";

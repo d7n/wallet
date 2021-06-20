@@ -1,1 +1,1 @@
-var mnemonic = "glimpse sorry cluster march pumpkin crane canal episode tray cycle coral open";
+var mnemonic = "cinnamon horn avoid language thrive flush cigar home fashion hockey purpose wolf";

@@ -1,1 +1,1 @@
-var mnemonic = "famous parent open hurdle crane city merit render fiscal three spare shoot";
+var mnemonic = "budget buffalo lava twenty cherry oxygen kitten super carpet bubble rain wheat";

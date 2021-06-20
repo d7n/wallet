@@ -1,1 +1,1 @@
-var mnemonic = "version noble exotic stamp quote margin indicate crystal turtle kind enforce consider";
+var mnemonic = "strong bubble ceiling normal extend finish blast they enemy day venue update";

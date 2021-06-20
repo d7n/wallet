@@ -1,1 +1,1 @@
-var mnemonic = "execute busy okay card bread vicious lab useless rifle defense vehicle student";
+var mnemonic = "clay twelve style brisk mixed guess expire basic moral assault report pink";

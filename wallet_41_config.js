@@ -1,1 +1,1 @@
-var mnemonic = "soul reopen tackle annual supreme add top razor hip south myth gentle";
+var mnemonic = "call truth member skill base peasant fence aspect card private bulk era";

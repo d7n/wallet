@@ -1,1 +1,1 @@
-var mnemonic = "scorpion lion lab mind happy child chimney coast uncle such odor universe";
+var mnemonic = "spot hen dumb stomach beef arm person club atom much boss increase";

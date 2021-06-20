@@ -1,1 +1,1 @@
-var mnemonic = "saddle wood pottery elbow envelope deliver boil nephew width century grace divorce";
+var mnemonic = "young shield marble option depend example danger turtle pitch lawn strike height";

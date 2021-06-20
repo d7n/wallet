@@ -1,1 +1,1 @@
-var mnemonic = "outside fix siege wrestle ketchup enough inspire unable trick amount tooth arrive";
+var mnemonic = "burger sick valley salon travel alpha garage enforce govern eager mad yellow";

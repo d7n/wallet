@@ -1,1 +1,1 @@
-var mnemonic = "duck capital zone tattoo neglect duty cotton comfort chapter crash impulse unhappy";
+var mnemonic = "weather pattern connect announce setup test confirm latin canoe steak glad swear";

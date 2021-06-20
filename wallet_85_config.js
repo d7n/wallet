@@ -1,1 +1,1 @@
-var mnemonic = "coil crater symptom rotate phone dirt industry jaguar dwarf void mercy power";
+var mnemonic = "crater much warm able rookie must tuna drum credit sail flame define";

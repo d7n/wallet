@@ -1,1 +1,1 @@
-var mnemonic = "poem purity tail east accuse pipe nice unusual void audit cheese enemy";
+var mnemonic = "foster unaware armor garage lawn own disagree aspect cable chase wealth immune";

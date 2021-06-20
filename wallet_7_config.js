@@ -1,1 +1,1 @@
-var mnemonic = "legend faint romance umbrella open green festival sibling caution among episode craft";
+var mnemonic = "pyramid lunch bleak chuckle tip spawn sick faint satoshi comic mirror knock";

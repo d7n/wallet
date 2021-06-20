@@ -1,1 +1,1 @@
-var mnemonic = "cricket cross jewel noble uncle play perfect crash green very pupil penalty";
+var mnemonic = "grain appear stay tent problem quote oven cherry melody hurdle illegal approve";

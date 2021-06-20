@@ -1,1 +1,1 @@
-var mnemonic = "produce limb interest camp spice waste pilot erupt cradle absent curve fall";
+var mnemonic = "caught label sister radar elephant such cigar ramp spy eternal aunt tenant";

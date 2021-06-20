@@ -1,1 +1,1 @@
-var mnemonic = "trim senior royal easily eternal describe direct idle shiver witness level horse";
+var mnemonic = "figure film myself rich fold inform blind disorder illegal huge burger urban";

@@ -1,1 +1,1 @@
-var mnemonic = "remove absorb girl ladder verify just clarify gas chase mixture profit pet";
+var mnemonic = "program team jaguar slow alert reflect pulp search coast emotion noise mirror";

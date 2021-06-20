@@ -1,1 +1,1 @@
-var mnemonic = "buddy inch improve puzzle mom crush tennis start coil enlist sister vintage";
+var mnemonic = "paper zebra bachelor boost machine short devote viable armed husband scene verb";

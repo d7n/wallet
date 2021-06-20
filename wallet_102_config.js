@@ -1,1 +1,1 @@
-var mnemonic = "thing purse salon coach perfect second asthma light grow strong bright young";
+var mnemonic = "turn quantum secret any clarify wrestle carry nut save boost biology rent";

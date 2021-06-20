@@ -1,1 +1,1 @@
-var mnemonic = "orange steak famous panel bamboo derive sound wrist upgrade rhythm wage feature";
+var mnemonic = "member staff giant end train situate fence desk fever hunt body entry";

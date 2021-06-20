@@ -1,1 +1,1 @@
-var mnemonic = "guide supply faith deal occur negative oppose advance yellow model mom network";
+var mnemonic = "click beach check length nice viable bracket demand edge adjust emerge garden";

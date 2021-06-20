@@ -1,1 +1,1 @@
-var mnemonic = "hill fossil situate sketch excess quality make marble rely decrease another crane";
+var mnemonic = "sing diesel fit escape wrong virtual enough meadow faith umbrella stumble unknown";

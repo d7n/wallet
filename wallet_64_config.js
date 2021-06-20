@@ -1,1 +1,1 @@
-var mnemonic = "clump knock media shock rate riot sort syrup noodle laptop write scrub";
+var mnemonic = "art source load chicken border mass match sleep economy pilot grunt nasty";

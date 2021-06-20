@@ -1,1 +1,1 @@
-var mnemonic = "solve unique woman school worth auto cream type resource rifle main impulse";
+var mnemonic = "grunt enforce virus spirit then crisp never lens cage glance message scare";

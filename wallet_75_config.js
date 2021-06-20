@@ -1,1 +1,1 @@
-var mnemonic = "truly cactus find shrug okay fatigue library shield edit hood crowd panic";
+var mnemonic = "typical item truck timber chicken salon display state eternal throw peace benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "south kite amateur file moon uniform canal brief shield own sister mouse";
+var mnemonic = "scrub series spatial educate grace eyebrow dash marble napkin stick square engine";

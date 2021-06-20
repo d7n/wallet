@@ -1,1 +1,1 @@
-var mnemonic = "stick deliver slim dismiss night direct supply announce provide badge parade allow";
+var mnemonic = "chase sunset phrase cute wood nephew paper topple universe lion unique increase";

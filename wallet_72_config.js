@@ -1,1 +1,1 @@
-var mnemonic = "skin inform forward equal submit sell empty reject obey anger cram smart";
+var mnemonic = "small tone section civil width buddy layer cart fetch tone tenant member";

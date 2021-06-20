@@ -1,1 +1,1 @@
-var mnemonic = "crime oblige text gaze useful glass recipe soccer actress flip spend tired";
+var mnemonic = "have inside shuffle note unlock sweet odor arena kidney hat fuel swamp";

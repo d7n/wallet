@@ -1,1 +1,1 @@
-var mnemonic = "monkey proof alone disorder sample dilemma shoe scale dress place march post";
+var mnemonic = "antique punch point dragon elevator bomb toe hire action wear empty special";

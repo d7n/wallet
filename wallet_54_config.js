@@ -1,1 +1,1 @@
-var mnemonic = "ski clean gasp wash wait jealous climb shell close tomorrow shop surprise";
+var mnemonic = "solid pistol favorite couch practice possible trash appear spy ceiling bundle floor";

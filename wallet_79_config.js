@@ -1,1 +1,1 @@
-var mnemonic = "alert quantum case twice lazy viable lion prize thrive canal rebuild black";
+var mnemonic = "public lawsuit scale depend brave chaos always sport unfold spice thumb orphan";

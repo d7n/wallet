@@ -1,1 +1,1 @@
-var mnemonic = "giant industry hub prepare unveil crime call orphan team quick check blouse";
+var mnemonic = "market ecology pause song wonder same tuna concert genius salt devote street";

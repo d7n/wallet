@@ -1,1 +1,1 @@
-var mnemonic = "boost fat prepare inquiry bicycle verb liberty valley jazz anchor walk anxiety";
+var mnemonic = "radio unaware aisle figure pioneer now scan jazz blue useless combine artist";

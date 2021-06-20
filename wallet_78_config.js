@@ -1,1 +1,1 @@
-var mnemonic = "remain hole potato before hollow believe beach route pride place vital reward";
+var mnemonic = "catalog network breeze census viable accident valid hospital slush oil clarify wreck";

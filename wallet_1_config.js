@@ -1,1 +1,1 @@
-var mnemonic = "kidney problem quality carbon win cherry minor design sad roast scare salon";
+var mnemonic = "captain sound version token nice grocery panic name muscle worry copy clarify";

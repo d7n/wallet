@@ -1,1 +1,1 @@
-var mnemonic = "miracle photo infant bag card prosper process output palace fitness museum sample";
+var mnemonic = "drop bronze decade awake tobacco grab daring six search season close any";

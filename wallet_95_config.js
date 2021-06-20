@@ -1,1 +1,1 @@
-var mnemonic = "camera juice piano napkin original core planet abuse blast trigger crawl fancy";
+var mnemonic = "slam speak life chief effort table umbrella cross matter despair evolve letter";

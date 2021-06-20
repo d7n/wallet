@@ -1,1 +1,1 @@
-var mnemonic = "tell early horse frost physical imitate trial antique crazy age special tent";
+var mnemonic = "vibrant cool method wonder enrich sail donor security pass always useless mixture";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow tackle faint artwork slide material annual phrase fitness icon repair transfer";
+var mnemonic = "squeeze travel lonely shell before ethics metal lunch maze copper marriage bundle";
