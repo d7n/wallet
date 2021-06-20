@@ -1,1 +1,1 @@
-var mnemonic = "believe smart spider client rail side someone cute violin blush able ensure";
+var mnemonic = "liar crystal direct dad dance mean ready there wild clap milk city";

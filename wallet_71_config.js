@@ -1,1 +1,1 @@
-var mnemonic = "awake floor success destroy inch bulb hamster card total juice fish wife";
+var mnemonic = "lonely wet stage pipe census negative category decorate sound abuse boil country";

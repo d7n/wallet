@@ -1,1 +1,1 @@
-var mnemonic = "paddle resemble merge inform pigeon method valid forest water cook daughter tilt";
+var mnemonic = "shift mixed flavor bright praise wife gas warfare follow morning broom heavy";

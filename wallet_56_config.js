@@ -1,1 +1,1 @@
-var mnemonic = "apart siege fame bicycle paddle cherry embody ocean apple pigeon wet maze";
+var mnemonic = "tide begin foster labor purse frequent symbol tongue cage alter position remind";

@@ -1,1 +1,1 @@
-var mnemonic = "silly grape help logic pencil pepper identify delay analyst build trumpet talk";
+var mnemonic = "bleak mechanic luggage evil churn update ready achieve scrub train pact faint";

@@ -1,1 +1,1 @@
-var mnemonic = "ring worth reason nose omit grit cry banana combine pitch scrub better";
+var mnemonic = "feature public soldier wise fold curious devote online rail decline average isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "exercise firm armed remind clean another ball club bonus plastic copper there";
+var mnemonic = "farm utility lizard art abandon pig risk pelican inform rail bottom upon";

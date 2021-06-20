@@ -1,1 +1,1 @@
-var mnemonic = "blood photo buffalo sell mimic job easy sample square truck access salmon";
+var mnemonic = "reduce vague afford security earn topple proof ill audit pilot drum daring";

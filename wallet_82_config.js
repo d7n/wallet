@@ -1,1 +1,1 @@
-var mnemonic = "mention damage moral need thing wisdom hen announce violin fold indicate cost";
+var mnemonic = "tongue salmon hand thing bright eyebrow assist pattern abstract filter pledge neutral";

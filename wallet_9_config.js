@@ -1,1 +1,1 @@
-var mnemonic = "bleak moment foil seat bring dust busy best borrow shoe lunch caught";
+var mnemonic = "blue crawl alien custom yard blanket veteran fade payment cotton derive shiver";

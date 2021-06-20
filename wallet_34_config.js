@@ -1,1 +1,1 @@
-var mnemonic = "medal proud melt notable random message window income loud cart cake pill";
+var mnemonic = "unusual tenant room swap hope couch horn myself twice supply crush battle";

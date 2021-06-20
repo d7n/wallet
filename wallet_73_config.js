@@ -1,1 +1,1 @@
-var mnemonic = "dice promote basic stick neutral sister fancy omit arrange witness pony cute";
+var mnemonic = "giraffe wet hunt charge hour differ measure milk clever response north prepare";

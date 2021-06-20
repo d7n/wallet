@@ -1,1 +1,1 @@
-var mnemonic = "save delay iron glove cradle shrug cannon deliver lottery win faculty mom";
+var mnemonic = "frost staff ticket reflect club alert hub dentist tape grant depend burden";

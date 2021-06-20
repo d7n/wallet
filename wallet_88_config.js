@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon welcome monster advice furnace crawl diamond ice vacant eagle siege gossip";
+var mnemonic = "service waste quarter civil lab scrap trap custom fit april admit absorb";

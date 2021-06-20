@@ -1,1 +1,1 @@
-var mnemonic = "control pyramid turkey eight warfare divert bunker general bench hold funny trend";
+var mnemonic = "stamp fame deposit innocent false fun confirm giant deliver host old vehicle";

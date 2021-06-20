@@ -1,1 +1,1 @@
-var mnemonic = "target ocean resemble fault photo cash rhythm auto feel glue lesson love";
+var mnemonic = "donate filter firm path two exchange act carpet shove one hurry magic";

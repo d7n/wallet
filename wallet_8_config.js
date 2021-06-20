@@ -1,1 +1,1 @@
-var mnemonic = "rather sweet level enable advice screen antenna knife proud discover rhythm rather";
+var mnemonic = "frozen bacon scatter unhappy industry rigid matter tray gravity lobster blossom faculty";

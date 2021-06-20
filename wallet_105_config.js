@@ -1,1 +1,1 @@
-var mnemonic = "diesel suit office lobster north weird ten flock zoo lend route faculty";
+var mnemonic = "goose chunk cook goddess found favorite jungle planet nephew virtual cluster range";

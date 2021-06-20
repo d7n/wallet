@@ -1,1 +1,1 @@
-var mnemonic = "novel style door midnight spy salute race share wing snow choice cost";
+var mnemonic = "myth limb jacket cement bean reason cross become start gallery heart gas";

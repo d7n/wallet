@@ -1,1 +1,1 @@
-var mnemonic = "invest grow butter hobby shrimp carbon view bird bonus segment swim food";
+var mnemonic = "south damp endless claim burger grid wealth donate multiply scatter twin february";

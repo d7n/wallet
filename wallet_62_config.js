@@ -1,1 +1,1 @@
-var mnemonic = "text peace crouch cash cotton bitter frown extra client knee warfare pottery";
+var mnemonic = "pepper throw ride bag deputy submit tail punch romance awake run like";

@@ -1,1 +1,1 @@
-var mnemonic = "impact quiz matter else brief birth exclude garden path wall actor amused";
+var mnemonic = "inquiry damage also talk turn simple dice city series enable ghost drink";

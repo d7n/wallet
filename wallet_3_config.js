@@ -1,1 +1,1 @@
-var mnemonic = "thought mercy already dice tackle dismiss later dog junior just nasty embark";
+var mnemonic = "egg craft pony grunt very expire spend skate cabin double ride sport";

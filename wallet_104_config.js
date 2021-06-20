@@ -1,1 +1,1 @@
-var mnemonic = "aspect army shadow vocal ancient pledge speed fog circle buyer service spring";
+var mnemonic = "relax often crumble magic orient spawn half report victory century tiny tornado";

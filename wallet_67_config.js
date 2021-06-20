@@ -1,1 +1,1 @@
-var mnemonic = "equip shed inhale whip satoshi give adapt swim shine sketch winter fever";
+var mnemonic = "focus hockey text weasel injury anchor river eye script plug spider flat";

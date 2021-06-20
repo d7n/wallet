@@ -1,1 +1,1 @@
-var mnemonic = "belt say belt cave north grant private kit sauce ethics acquire assist";
+var mnemonic = "public boost box awesome secret clump globe coyote glove slab car stem";

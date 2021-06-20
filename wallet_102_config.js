@@ -1,1 +1,1 @@
-var mnemonic = "energy escape enlist crowd race galaxy paddle asset pole enforce tide engine";
+var mnemonic = "this alpha dentist settle soap field borrow frequent mercy ball artefact gloom";

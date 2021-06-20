@@ -1,1 +1,1 @@
-var mnemonic = "dentist stick zone clutch detail scene lottery know balance mountain still abstract";
+var mnemonic = "hedgehog useless hope brick future work outdoor build harsh tent key seven";

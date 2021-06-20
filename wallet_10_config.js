@@ -1,1 +1,1 @@
-var mnemonic = "measure auto car gate protect give garbage north drip polar favorite sketch";
+var mnemonic = "like medal beyond conduct owner snack shallow silly remain kite vast excuse";

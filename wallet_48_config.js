@@ -1,1 +1,1 @@
-var mnemonic = "note erupt afraid element train crunch desert orange canyon december regret raw";
+var mnemonic = "stairs treat business creek fashion cement area media mind prize use champion";

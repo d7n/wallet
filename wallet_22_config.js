@@ -1,1 +1,1 @@
-var mnemonic = "torch wear nose tennis close joy treat east goddess cause idea surface";
+var mnemonic = "hire auction learn people acid sail stadium daughter item nuclear brave dutch";

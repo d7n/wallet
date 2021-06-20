@@ -1,1 +1,1 @@
-var mnemonic = "neglect chalk famous also have term radar crack steak airport office payment";
+var mnemonic = "bullet moment soccer live creek cricket twelve thing close judge cake pear";

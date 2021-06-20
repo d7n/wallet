@@ -1,1 +1,1 @@
-var mnemonic = "target keen winter peace essence chase onion bronze gate grant agree glare";
+var mnemonic = "embody still verb punch prosper target gossip oblige sing decorate pattern message";

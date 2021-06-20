@@ -1,1 +1,1 @@
-var mnemonic = "begin river message cliff parrot insane unlock must cook woman solid normal";
+var mnemonic = "bicycle ozone oyster grass hair potato promote job session bike mean tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "say east hazard guide palm grace genre tuna symbol age either armed";
+var mnemonic = "spider fiction zero tenant champion win question beach educate prize become honey";

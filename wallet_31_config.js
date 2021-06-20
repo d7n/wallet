@@ -1,1 +1,1 @@
-var mnemonic = "title antenna length cable place unusual connect water kind glad school adult";
+var mnemonic = "retreat fault illegal know wing panda trick audit topic embark recipe example";

@@ -1,1 +1,1 @@
-var mnemonic = "tobacco arrange muffin word vessel select devote gym hint wish grass list";
+var mnemonic = "desk kitten riot achieve pause athlete animal unlock teach display park grid";

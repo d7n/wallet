@@ -1,1 +1,1 @@
-var mnemonic = "trouble marble valid arch shrimp gorilla harvest joke select brick early culture";
+var mnemonic = "juice excuse window find alert embark room remember hedgehog layer lend stand";

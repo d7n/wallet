@@ -1,1 +1,1 @@
-var mnemonic = "kingdom ethics early peace woman shuffle abandon rare muffin hint sock bread";
+var mnemonic = "front cross pear unique cup festival tongue people valve move bid grab";

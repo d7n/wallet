@@ -1,1 +1,1 @@
-var mnemonic = "omit flower busy canvas transfer doctor edit survey balcony drama zoo item";
+var mnemonic = "grief envelope enhance doll display reason decrease stuff exile anchor soup reduce";

@@ -1,1 +1,1 @@
-var mnemonic = "grant online silent mistake fall almost wedding tenant crystal season capital prepare";
+var mnemonic = "author invite law heart rather fault kiwi sponsor sibling similar era learn";

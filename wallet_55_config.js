@@ -1,1 +1,1 @@
-var mnemonic = "kick chicken project joy govern climb spend cruel effort harbor wheel change";
+var mnemonic = "anger west emerge crunch tortoise lyrics spoil stuff turn soccer govern sponsor";

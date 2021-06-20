@@ -1,1 +1,1 @@
-var mnemonic = "easily man smooth spy faculty tribe glow buddy submit voyage trust negative";
+var mnemonic = "insane raw ship design thank dress business file flight talk soup embark";

@@ -1,1 +1,1 @@
-var mnemonic = "orange creek physical whale hundred taxi glide modify october coast tape good";
+var mnemonic = "gossip pelican apple bid own pelican trash blood water bachelor soda recall";

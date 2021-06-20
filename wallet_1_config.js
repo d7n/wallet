@@ -1,1 +1,1 @@
-var mnemonic = "dash giggle custom bachelor observe scrub key speed symbol push absent couple";
+var mnemonic = "arctic column tip lecture disorder cram judge vital rotate usage inside exist";

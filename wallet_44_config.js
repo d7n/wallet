@@ -1,1 +1,1 @@
-var mnemonic = "devote health math avocado relief detail cabin armed diary distance dilemma worth";
+var mnemonic = "discover involve stay spice rail easily steak medal artist leaf mother behave";

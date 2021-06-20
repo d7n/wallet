@@ -1,1 +1,1 @@
-var mnemonic = "spoon youth turkey scrap height anger engage injury battle stay height arch";
+var mnemonic = "light category mango wife army happy patient minimum organ sick diary boil";

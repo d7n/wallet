@@ -1,1 +1,1 @@
-var mnemonic = "speak visit cheap creek ginger unaware muscle acquire buddy cannon riot any";
+var mnemonic = "water fever raccoon adjust raccoon film account anger torch stage manual forum";

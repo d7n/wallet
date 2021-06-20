@@ -1,1 +1,1 @@
-var mnemonic = "oak soft orbit practice razor come tobacco vintage whale crunch post honey";
+var mnemonic = "chat broccoli banner fly survey north garlic beyond pulse damp liberty mask";

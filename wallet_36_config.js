@@ -1,1 +1,1 @@
-var mnemonic = "borrow trumpet reflect violin tennis immune churn disorder estate solve uniform busy";
+var mnemonic = "tackle adjust pass uncle promote news inside erode lumber metal cancel carbon";

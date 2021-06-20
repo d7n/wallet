@@ -1,1 +1,1 @@
-var mnemonic = "reject labor salt fruit alone casual dumb north split engage chaos kitchen";
+var mnemonic = "document mass soon hollow guilt bleak ivory walnut country crime roof cage";

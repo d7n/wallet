@@ -1,1 +1,1 @@
-var mnemonic = "peasant bronze remove rally rapid price beef reunion party pull kit cereal";
+var mnemonic = "patch stumble vapor rebel ramp impose blouse live during manual couch ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown accident nose dinosaur news maple season coyote trophy intact hedgehog keen";
+var mnemonic = "sense output sort approve purchase note satisfy orange army curtain crash mom";

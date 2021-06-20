@@ -1,1 +1,1 @@
-var mnemonic = "burger census inherit check profit rude proof power pitch sauce nephew effort";
+var mnemonic = "glance one cave author river process sell rural thing road stadium tunnel";

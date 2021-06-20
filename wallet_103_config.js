@@ -1,1 +1,1 @@
-var mnemonic = "antenna wink merge pistol pave cage rug fault major salon guess edit";
+var mnemonic = "cool surround web enter play power cliff child knee area material latin";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm sniff leader inject clarify swap minor analyst detect matter over ready";
+var mnemonic = "bridge dirt limb situate borrow reflect denial stumble urban barely grow word";

@@ -1,1 +1,1 @@
-var mnemonic = "roof castle thumb sibling debate exotic author black duck garment logic knock";
+var mnemonic = "excuse legal clean lottery science raise deny dragon visual timber old vanish";

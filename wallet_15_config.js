@@ -1,1 +1,1 @@
-var mnemonic = "gauge sunset gun pond find jewel spider federal egg solve then motor";
+var mnemonic = "swift bus vote bring cheap rescue staff sugar load twist fuel consider";

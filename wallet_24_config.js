@@ -1,1 +1,1 @@
-var mnemonic = "bottom surface imitate fire surround note pig roof beach blouse hood cook";
+var mnemonic = "solution between potato three foam blossom slam glare neutral entry champion depart";

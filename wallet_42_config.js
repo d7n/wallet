@@ -1,1 +1,1 @@
-var mnemonic = "ketchup isolate salmon depend tower kangaroo stand trade shield outer mass addict";
+var mnemonic = "color endorse air chair silly multiply network lion intact empower potato dice";

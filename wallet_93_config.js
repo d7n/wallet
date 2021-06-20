@@ -1,1 +1,1 @@
-var mnemonic = "punch artefact obey cross panic bread bachelor raise width basic cannon expire";
+var mnemonic = "fold second erosion zoo dry found toy modify eyebrow surround into symbol";

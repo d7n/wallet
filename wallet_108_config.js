@@ -1,1 +1,1 @@
-var mnemonic = "occur alter news fiscal tree early youth pact business fitness actress knee";
+var mnemonic = "pave lumber dance critic violin amount pistol album curve correct always only";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle buddy sea problem tonight bulk hour usual suffer dose butter inner";
+var mnemonic = "human cinnamon artefact gallery grace local wage curtain copy false dirt february";

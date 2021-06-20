@@ -1,1 +1,1 @@
-var mnemonic = "toy spirit amused liberty used alpha tonight learn will milk panic benefit";
+var mnemonic = "tape need thunder flush valid phrase hobby plate tell strike guard defense";

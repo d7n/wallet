@@ -1,1 +1,1 @@
-var mnemonic = "theory prepare dose theory relax mercy bike merry melody throw devote blame";
+var mnemonic = "speak cart valve arrow column snack swim clay jacket spoil forward custom";

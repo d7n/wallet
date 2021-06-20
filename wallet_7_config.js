@@ -1,1 +1,1 @@
-var mnemonic = "close fresh open hip fuel lion settle devote tribe guitar plug above";
+var mnemonic = "rule open afford suggest loud glide pupil box avocado wave dutch tree";

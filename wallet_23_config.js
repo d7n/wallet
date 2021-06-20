@@ -1,1 +1,1 @@
-var mnemonic = "gasp dawn fault income deer immune glimpse wrist bitter kingdom gesture penalty";
+var mnemonic = "thunder float never kite ladder drink recipe camera shoot mean step pelican";

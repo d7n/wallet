@@ -1,1 +1,1 @@
-var mnemonic = "brain web grow finger thunder taste avoid enemy glue cradle slush asset";
+var mnemonic = "rotate screen hen dignity arctic argue bonus sting time arrow tiny poet";

@@ -1,1 +1,1 @@
-var mnemonic = "rose salon remove master advice machine gift inch student quality bomb month";
+var mnemonic = "essay flee demand accident actress nasty candy smile service fiction coil person";

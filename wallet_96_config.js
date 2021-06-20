@@ -1,1 +1,1 @@
-var mnemonic = "unit science camera evil aerobic prison west echo feed subject wealth fashion";
+var mnemonic = "aerobic trip century lock control merry spike either expire people deny mean";

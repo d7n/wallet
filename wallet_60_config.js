@@ -1,1 +1,1 @@
-var mnemonic = "gossip safe noble bean knee advice whip target layer river atom actor";
+var mnemonic = "ivory paddle fruit ankle busy silly auction face guilt repeat hurdle peanut";

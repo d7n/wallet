@@ -1,1 +1,1 @@
-var mnemonic = "episode orchard creek gravity tuition tomato move blood twelve script opera response";
+var mnemonic = "sand side soldier combine tumble sphere spread enter drum renew depend sentence";

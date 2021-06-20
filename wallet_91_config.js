@@ -1,1 +1,1 @@
-var mnemonic = "obscure diesel market viable until wave glass craft pig response pottery account";
+var mnemonic = "piece brass uncover return myth abstract celery jump giraffe saddle cruise year";

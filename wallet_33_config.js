@@ -1,1 +1,1 @@
-var mnemonic = "color weapon silent alarm tank limit junior three reveal sample invest mixed";
+var mnemonic = "olympic pill spot gravity neglect stereo craft cigar adjust bunker common spread";

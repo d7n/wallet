@@ -1,1 +1,1 @@
-var mnemonic = "scare make earn salute burger peanut patrol squeeze person stone safe brief";
+var mnemonic = "rug verb tissue confirm carry unusual oven path cement manage okay chalk";

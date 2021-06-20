@@ -1,1 +1,1 @@
-var mnemonic = "maze obscure fish ignore shrug online churn now remove man display useful";
+var mnemonic = "actor dog shallow wine tribe still toward churn monkey tired fresh cruise";

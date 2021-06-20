@@ -1,1 +1,1 @@
-var mnemonic = "patrol solution sentence tooth trim hill clinic like volcano scare bike plunge";
+var mnemonic = "balcony mechanic magic question wood ten office merry sunny master spatial tennis";

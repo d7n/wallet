@@ -1,1 +1,1 @@
-var mnemonic = "shy coil segment friend crack daring keen beyond doll very decide sponsor";
+var mnemonic = "cup tomorrow shoe range second bulb onion outer time accuse produce review";

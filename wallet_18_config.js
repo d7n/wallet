@@ -1,1 +1,1 @@
-var mnemonic = "boring sight spoil leg beyond purchase motion shadow faint favorite awful cry";
+var mnemonic = "upset close tribe pulse hurt hurry gorilla wagon session leaf direct dawn";

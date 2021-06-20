@@ -1,1 +1,1 @@
-var mnemonic = "gate win that eagle boss habit post crime wool safe random member";
+var mnemonic = "opera dice host brother explain check iron damp edit west scout fancy";

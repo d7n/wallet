@@ -1,1 +1,1 @@
-var mnemonic = "uphold increase surround episode funny aspect twice fine tape bread scrub odor";
+var mnemonic = "finish tape industry you alcohol ice length head observe squirrel long law";

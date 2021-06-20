@@ -1,1 +1,1 @@
-var mnemonic = "correct auction canyon foil price kangaroo enroll wasp frown parade cigar jump";
+var mnemonic = "display anchor system repeat become sell doll drip fetch meadow shallow cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "can release leave arrest language air vintage prize element fitness chunk swim";
+var mnemonic = "crouch adjust cloud wreck infant caution neglect omit affair when panel minimum";

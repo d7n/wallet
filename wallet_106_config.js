@@ -1,1 +1,1 @@
-var mnemonic = "gossip project aspect letter vault equal kite metal subway develop fun museum";
+var mnemonic = "firm praise swamp spy orchard case fetch clean travel heart insect program";

@@ -1,1 +1,1 @@
-var mnemonic = "lion deliver damage unfold evidence lemon crisp forget measure right author try";
+var mnemonic = "debris cattle crazy resist maid climb they vacant that clump mimic perfect";

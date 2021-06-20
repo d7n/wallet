@@ -1,1 +1,1 @@
-var mnemonic = "just useless glance boil pipe fetch issue wheat solution title chase bind";
+var mnemonic = "tennis doctor neither term agree usage program cloud thing sell diary correct";

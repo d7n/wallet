@@ -1,1 +1,1 @@
-var mnemonic = "fortune below demand music lion royal swear celery insane used lesson glare";
+var mnemonic = "entire polar whisper badge cactus ship club deputy improve depend isolate guess";

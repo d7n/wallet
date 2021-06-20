@@ -1,1 +1,1 @@
-var mnemonic = "myself upgrade chef violin trend clap lava ceiling fall talent wrap bike";
+var mnemonic = "matrix away shaft pigeon gossip hurt avocado divide size assume jewel midnight";

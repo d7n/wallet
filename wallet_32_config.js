@@ -1,1 +1,1 @@
-var mnemonic = "shield first often minute kite sunset airport believe tail vault velvet waste";
+var mnemonic = "fish riot range never keen earn genre churn absent hero mushroom month";

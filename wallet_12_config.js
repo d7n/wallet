@@ -1,1 +1,1 @@
-var mnemonic = "fox stuff float dad marine father topple aerobic music august other symbol";
+var mnemonic = "garage carpet caution stay lend saddle story jungle found subway annual equal";

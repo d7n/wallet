@@ -1,1 +1,1 @@
-var mnemonic = "school hire govern task amount output grocery train health energy little alpha";
+var mnemonic = "gravity behind beef yellow relax normal barrel sell rifle senior purchase demand";
