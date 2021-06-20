@@ -1,1 +1,1 @@
-var mnemonic = "robot congress urge soup this song clap embark echo awful gun assault";
+var mnemonic = "gauge sunset gun pond find jewel spider federal egg solve then motor";

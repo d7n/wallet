@@ -1,1 +1,1 @@
-var mnemonic = "spawn source happy dinner tilt scatter innocent purchase traffic stand need hip";
+var mnemonic = "punch artefact obey cross panic bread bachelor raise width basic cannon expire";

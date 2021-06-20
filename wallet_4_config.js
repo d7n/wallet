@@ -1,1 +1,1 @@
-var mnemonic = "armor super reason metal crazy antenna crater tomorrow fun enact slender hazard";
+var mnemonic = "mansion hello kick tone emotion gloom liar sample easy local despair ability";

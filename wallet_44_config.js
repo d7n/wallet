@@ -1,1 +1,1 @@
-var mnemonic = "gloom flower rude vanish symptom lesson busy notable inmate spread elegant bid";
+var mnemonic = "devote health math avocado relief detail cabin armed diary distance dilemma worth";

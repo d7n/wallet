@@ -1,1 +1,1 @@
-var mnemonic = "warfare stem motor diagram only card burden fatigue annual target weapon congress";
+var mnemonic = "impact quiz matter else brief birth exclude garden path wall actor amused";

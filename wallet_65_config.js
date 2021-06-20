@@ -1,1 +1,1 @@
-var mnemonic = "deer around child must aware virtual object fatal raw mother true minor";
+var mnemonic = "reject labor salt fruit alone casual dumb north split engage chaos kitchen";

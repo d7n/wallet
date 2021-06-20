@@ -1,1 +1,1 @@
-var mnemonic = "twin camera robot subject spice lion leopard attitude exact silk hungry ridge";
+var mnemonic = "unknown accident nose dinosaur news maple season coyote trophy intact hedgehog keen";

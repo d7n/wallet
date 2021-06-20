@@ -1,1 +1,1 @@
-var mnemonic = "popular service mango reveal real rescue found van mom veteran hen relax";
+var mnemonic = "oak soft orbit practice razor come tobacco vintage whale crunch post honey";

@@ -1,1 +1,1 @@
-var mnemonic = "short green mansion people salmon deer someone prosper van destroy forget lemon";
+var mnemonic = "dash giggle custom bachelor observe scrub key speed symbol push absent couple";

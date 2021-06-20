@@ -1,1 +1,1 @@
-var mnemonic = "add divert guide lounge copy effort ordinary rule account hero example sense";
+var mnemonic = "dice promote basic stick neutral sister fancy omit arrange witness pony cute";

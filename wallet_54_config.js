@@ -1,1 +1,1 @@
-var mnemonic = "nasty drip swamp marriage rent best across popular cycle address start abstract";
+var mnemonic = "silly grape help logic pencil pepper identify delay analyst build trumpet talk";

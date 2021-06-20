@@ -1,1 +1,1 @@
-var mnemonic = "hair sunset slush coyote possible teach margin hockey average blame midnight regular";
+var mnemonic = "close fresh open hip fuel lion settle devote tribe guitar plug above";

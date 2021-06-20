@@ -1,1 +1,1 @@
-var mnemonic = "battle sad popular young child kick jaguar away husband erase outside town";
+var mnemonic = "speak visit cheap creek ginger unaware muscle acquire buddy cannon riot any";

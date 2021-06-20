@@ -1,1 +1,1 @@
-var mnemonic = "divert foil there earn heavy reveal squeeze vocal slim armed canvas post";
+var mnemonic = "thought mercy already dice tackle dismiss later dog junior just nasty embark";

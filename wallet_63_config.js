@@ -1,1 +1,1 @@
-var mnemonic = "rose essay bread lunch spirit garlic spray art income fault match change";
+var mnemonic = "believe smart spider client rail side someone cute violin blush able ensure";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant begin act bone balance move drive soap pool episode album cattle";
+var mnemonic = "brain web grow finger thunder taste avoid enemy glue cradle slush asset";

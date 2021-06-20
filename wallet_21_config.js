@@ -1,1 +1,1 @@
-var mnemonic = "push ritual minute judge wrap opinion similar salad special eager occur novel";
+var mnemonic = "interest horn idea remember lecture chase april poet fault door solve lawsuit";

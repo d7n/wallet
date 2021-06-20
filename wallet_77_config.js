@@ -1,1 +1,1 @@
-var mnemonic = "confirm medal soup toss more power wagon crush view runway acid rebuild";
+var mnemonic = "neglect chalk famous also have term radar crack steak airport office payment";

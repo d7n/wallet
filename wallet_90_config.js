@@ -1,1 +1,1 @@
-var mnemonic = "weekend cushion donor gorilla woman divert industry fiction can muffin category word";
+var mnemonic = "fortune below demand music lion royal swear celery insane used lesson glare";

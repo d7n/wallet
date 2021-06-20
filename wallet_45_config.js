@@ -1,1 +1,1 @@
-var mnemonic = "minute frost abandon absurd spot chest blur month recall number jelly enter";
+var mnemonic = "school hire govern task amount output grocery train health energy little alpha";

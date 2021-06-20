@@ -1,1 +1,1 @@
-var mnemonic = "series habit monster library payment atom company mirror grain tiny garbage kangaroo";
+var mnemonic = "rather sweet level enable advice screen antenna knife proud discover rhythm rather";

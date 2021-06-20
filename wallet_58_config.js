@@ -1,1 +1,1 @@
-var mnemonic = "blue lens length result like where youth forum seek boss suffer disorder";
+var mnemonic = "tobacco arrange muffin word vessel select devote gym hint wish grass list";

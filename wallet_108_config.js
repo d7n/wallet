@@ -1,1 +1,1 @@
-var mnemonic = "grab air dumb put when nation clean pledge arrow verify slight venture";
+var mnemonic = "occur alter news fiscal tree early youth pact business fitness actress knee";

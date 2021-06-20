@@ -1,1 +1,1 @@
-var mnemonic = "fault purpose clip shrug road question clinic virus pupil parent thank height";
+var mnemonic = "spoon youth turkey scrap height anger engage injury battle stay height arch";

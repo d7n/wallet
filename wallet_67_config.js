@@ -1,1 +1,1 @@
-var mnemonic = "quality eternal boil design library cricket rifle drink economy output merry myth";
+var mnemonic = "equip shed inhale whip satoshi give adapt swim shine sketch winter fever";

@@ -1,1 +1,1 @@
-var mnemonic = "present focus setup remind youth bless unique similar bunker evil furnace brief";
+var mnemonic = "gossip project aspect letter vault equal kite metal subway develop fun museum";

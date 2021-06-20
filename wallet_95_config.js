@@ -1,1 +1,1 @@
-var mnemonic = "crane tuition inner merge brother luggage siege embrace pudding regular pause inhale";
+var mnemonic = "toy spirit amused liberty used alpha tonight learn will milk panic benefit";

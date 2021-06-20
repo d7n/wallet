@@ -1,1 +1,1 @@
-var mnemonic = "smooth segment lawsuit patient trend winter top air whale canvas medal enrich";
+var mnemonic = "cinnamon welcome monster advice furnace crawl diamond ice vacant eagle siege gossip";

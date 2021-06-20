@@ -1,1 +1,1 @@
-var mnemonic = "essay vendor spike gasp answer shallow capable lend future yellow dynamic response";
+var mnemonic = "bleak moment foil seat bring dust busy best borrow shoe lunch caught";

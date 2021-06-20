@@ -1,1 +1,1 @@
-var mnemonic = "yard toy frog dry wealth mystery enrich language tape order right harvest";
+var mnemonic = "episode august devote across amused family wing frog rotate shine inhale concert";

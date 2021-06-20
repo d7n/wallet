@@ -1,1 +1,1 @@
-var mnemonic = "wide level aisle fence patient that diary inner rough thing sock zero";
+var mnemonic = "color weapon silent alarm tank limit junior three reveal sample invest mixed";

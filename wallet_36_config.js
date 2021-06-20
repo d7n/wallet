@@ -1,1 +1,1 @@
-var mnemonic = "sight pride source mercy globe sister cake today blossom tree trial steak";
+var mnemonic = "borrow trumpet reflect violin tennis immune churn disorder estate solve uniform busy";

@@ -1,1 +1,1 @@
-var mnemonic = "fog flag sister vintage garbage friend course waste dilemma aerobic crawl ceiling";
+var mnemonic = "burger census inherit check profit rude proof power pitch sauce nephew effort";

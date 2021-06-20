@@ -1,1 +1,1 @@
-var mnemonic = "seminar innocent hockey harsh during drink island culture bid ocean pig warrior";
+var mnemonic = "title antenna length cable place unusual connect water kind glad school adult";

@@ -1,1 +1,1 @@
-var mnemonic = "gift pulse horse wheat page clinic salon amused robust vital depart panda";
+var mnemonic = "live secret boil castle fly over gospel real palace rescue moon rain";

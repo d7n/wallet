@@ -1,1 +1,1 @@
-var mnemonic = "giraffe glue popular heart decrease motion vacuum example fatal witness tiny plunge";
+var mnemonic = "rose salon remove master advice machine gift inch student quality bomb month";

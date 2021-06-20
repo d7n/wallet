@@ -1,1 +1,1 @@
-var mnemonic = "help panel pupil shaft surround ripple transfer wheat salt dumb river festival";
+var mnemonic = "omit flower busy canvas transfer doctor edit survey balcony drama zoo item";

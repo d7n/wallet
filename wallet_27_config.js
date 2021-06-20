@@ -1,1 +1,1 @@
-var mnemonic = "abandon sadness absent hazard horror test van wild final round ship tumble";
+var mnemonic = "gate win that eagle boss habit post crime wool safe random member";

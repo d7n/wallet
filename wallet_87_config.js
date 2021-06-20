@@ -1,1 +1,1 @@
-var mnemonic = "jealous method hard analyst can artist planet evidence view good canoe chimney";
+var mnemonic = "save delay iron glove cradle shrug cannon deliver lottery win faculty mom";

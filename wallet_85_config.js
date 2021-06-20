@@ -1,1 +1,1 @@
-var mnemonic = "engine memory mirror spring culture depth home someone gadget menu agree fitness";
+var mnemonic = "peasant bronze remove rally rapid price beef reunion party pull kit cereal";

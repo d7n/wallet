@@ -1,1 +1,1 @@
-var mnemonic = "alley wait shield ocean able siege shove uncover tip raise wool tail";
+var mnemonic = "ring worth reason nose omit grit cry banana combine pitch scrub better";

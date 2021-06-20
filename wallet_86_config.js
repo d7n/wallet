@@ -1,1 +1,1 @@
-var mnemonic = "twin maze purchase mesh later culture dust squeeze warfare notice burst shove";
+var mnemonic = "novel style door midnight spy salute race share wing snow choice cost";

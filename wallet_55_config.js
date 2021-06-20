@@ -1,1 +1,1 @@
-var mnemonic = "afford suggest bridge welcome inform thing thunder twelve vocal autumn scan dolphin";
+var mnemonic = "kick chicken project joy govern climb spend cruel effort harbor wheel change";

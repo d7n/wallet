@@ -1,1 +1,1 @@
-var mnemonic = "proud welcome solar labor pride hamster arrange distance truck exotic hurdle oil";
+var mnemonic = "note erupt afraid element train crunch desert orange canyon december regret raw";

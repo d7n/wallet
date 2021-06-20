@@ -1,1 +1,1 @@
-var mnemonic = "rely boy palace loud proud salute energy renew waste equip animal bag";
+var mnemonic = "liar cricket typical frame kangaroo paper letter lab breeze they screen neglect";

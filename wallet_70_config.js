@@ -1,1 +1,1 @@
-var mnemonic = "category throw sister cable depend toy observe bacon six squeeze canyon round";
+var mnemonic = "mango jelly reject target behave frown beauty trash modify type faculty actress";

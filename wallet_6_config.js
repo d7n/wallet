@@ -1,1 +1,1 @@
-var mnemonic = "coconut chief mask disorder cinnamon weasel disease blur chief essay question source";
+var mnemonic = "episode orchard creek gravity tuition tomato move blood twelve script opera response";

@@ -1,1 +1,1 @@
-var mnemonic = "empower fringe practice father immune reveal elder capital worry chair clerk click";
+var mnemonic = "quiz scan frost nice excite first spring cake wild front sick drill";

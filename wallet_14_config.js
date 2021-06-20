@@ -1,1 +1,1 @@
-var mnemonic = "clap wine pet violin shine shove ready collect pumpkin album morning wet";
+var mnemonic = "target ocean resemble fault photo cash rhythm auto feel glue lesson love";

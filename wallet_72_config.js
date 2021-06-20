@@ -1,1 +1,1 @@
-var mnemonic = "fringe blanket list hope struggle level fancy rice future gloom rigid fabric";
+var mnemonic = "roof castle thumb sibling debate exotic author black duck garment logic knock";

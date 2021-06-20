@@ -1,1 +1,1 @@
-var mnemonic = "east swarm crazy merge light vintage chunk glance shaft sword mansion near";
+var mnemonic = "target keen winter peace essence chase onion bronze gate grant agree glare";

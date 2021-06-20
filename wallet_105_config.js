@@ -1,1 +1,1 @@
-var mnemonic = "dentist another myth spider window enact never end advance sunset script october";
+var mnemonic = "diesel suit office lobster north weird ten flock zoo lend route faculty";

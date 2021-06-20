@@ -1,1 +1,1 @@
-var mnemonic = "champion roof figure earn release spike city life mango error blade dumb";
+var mnemonic = "apart siege fame bicycle paddle cherry embody ocean apple pigeon wet maze";

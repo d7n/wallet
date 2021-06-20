@@ -1,1 +1,1 @@
-var mnemonic = "pizza fall wish dizzy voyage predict country bamboo achieve impose approve aim";
+var mnemonic = "renew walnut click provide month pact pupil when deer lyrics taxi dignity";

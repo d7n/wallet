@@ -1,1 +1,1 @@
-var mnemonic = "public company add critic october apple arrive remember basic novel fabric rare";
+var mnemonic = "say east hazard guide palm grace genre tuna symbol age either armed";

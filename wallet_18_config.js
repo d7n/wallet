@@ -1,1 +1,1 @@
-var mnemonic = "deny mosquito dismiss cup nominee beauty hat gesture crash smart repeat nominee";
+var mnemonic = "boring sight spoil leg beyond purchase motion shadow faint favorite awful cry";

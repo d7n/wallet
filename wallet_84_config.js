@@ -1,1 +1,1 @@
-var mnemonic = "race kiwi device same west arrest festival until acid online brown mandate";
+var mnemonic = "correct auction canyon foil price kangaroo enroll wasp frown parade cigar jump";

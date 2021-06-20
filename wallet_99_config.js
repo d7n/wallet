@@ -1,1 +1,1 @@
-var mnemonic = "deposit grant check cattle smart pole dutch mask rubber valve dry spy";
+var mnemonic = "history public laptop choose course stadium thumb payment action priority near split";

@@ -1,1 +1,1 @@
-var mnemonic = "topple relax frost south cube visit foot absent cannon ocean boost reward";
+var mnemonic = "shy coil segment friend crack daring keen beyond doll very decide sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "tobacco report ethics dilemma edit siege brown scale scheme wave lock message";
+var mnemonic = "invest grow butter hobby shrimp carbon view bird bonus segment swim food";

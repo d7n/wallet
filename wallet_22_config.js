@@ -1,1 +1,1 @@
-var mnemonic = "record river casual assist similar old exclude debate license treat cricket basket";
+var mnemonic = "torch wear nose tennis close joy treat east goddess cause idea surface";

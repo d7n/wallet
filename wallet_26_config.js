@@ -1,1 +1,1 @@
-var mnemonic = "dismiss deny power half derive foot debris dose pole drama umbrella casino";
+var mnemonic = "myself exhaust song arrive rent crunch media relax open rotate clinic casino";

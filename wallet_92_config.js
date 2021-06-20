@@ -1,1 +1,1 @@
-var mnemonic = "enhance charge awake portion vendor draw merge gloom sword awesome junior bring";
+var mnemonic = "dentist stick zone clutch detail scene lottery know balance mountain still abstract";

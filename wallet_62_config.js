@@ -1,1 +1,1 @@
-var mnemonic = "hero wine task argue barrel winner daring valve physical motor cave embrace";
+var mnemonic = "text peace crouch cash cotton bitter frown extra client knee warfare pottery";

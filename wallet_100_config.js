@@ -1,1 +1,1 @@
-var mnemonic = "question disorder home method mushroom embody flee near love where toward toe";
+var mnemonic = "just useless glance boil pipe fetch issue wheat solution title chase bind";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon maple pottery bitter shy blast setup party shove basket mad impulse";
+var mnemonic = "myself upgrade chef violin trend clap lava ceiling fall talent wrap bike";

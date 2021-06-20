@@ -1,1 +1,1 @@
-var mnemonic = "width exhibit dutch blue abstract skill always season machine laugh empower fortune";
+var mnemonic = "mention damage moral need thing wisdom hen announce violin fold indicate cost";

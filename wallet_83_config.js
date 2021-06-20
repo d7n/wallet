@@ -1,1 +1,1 @@
-var mnemonic = "maid miss unaware buddy mass theme crumble pool surface inform proud enable";
+var mnemonic = "begin river message cliff parrot insane unlock must cook woman solid normal";

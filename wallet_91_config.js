@@ -1,1 +1,1 @@
-var mnemonic = "behave vessel promote audit enter salad flee program shoulder design park soul";
+var mnemonic = "obscure diesel market viable until wave glass craft pig response pottery account";

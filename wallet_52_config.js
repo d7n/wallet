@@ -1,1 +1,1 @@
-var mnemonic = "open spring wide bag total ability illness seven spot penalty eternal swift";
+var mnemonic = "blood photo buffalo sell mimic job easy sample square truck access salmon";

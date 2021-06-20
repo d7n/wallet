@@ -1,1 +1,1 @@
-var mnemonic = "source gun asset exhaust bulb parrot time hour teach lawn fault exclude";
+var mnemonic = "grant online silent mistake fall almost wedding tenant crystal season capital prepare";

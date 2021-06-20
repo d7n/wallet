@@ -1,1 +1,1 @@
-var mnemonic = "powder devote they fluid march symbol negative scan topic garbage sad title";
+var mnemonic = "hat sock foam tank force end fluid pool price proud unit cigar";

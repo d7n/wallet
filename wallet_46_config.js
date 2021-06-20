@@ -1,1 +1,1 @@
-var mnemonic = "pool winner allow dolphin census video leisure include borrow diamond always oppose";
+var mnemonic = "patrol solution sentence tooth trim hill clinic like volcano scare bike plunge";

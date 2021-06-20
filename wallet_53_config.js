@@ -1,1 +1,1 @@
-var mnemonic = "obtain catalog alpha camera live connect rifle concert region uphold between reopen";
+var mnemonic = "lion deliver damage unfold evidence lemon crisp forget measure right author try";

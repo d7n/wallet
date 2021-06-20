@@ -1,1 +1,1 @@
-var mnemonic = "buddy village surround tip settle there satoshi airport flag surface exile grape";
+var mnemonic = "exercise firm armed remind clean another ball club bonus plastic copper there";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow olive away furnace index modify skate sort bargain system meadow property";
+var mnemonic = "measure auto car gate protect give garbage north drip polar favorite sketch";

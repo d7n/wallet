@@ -1,1 +1,1 @@
-var mnemonic = "leave glide shoe source will vacuum smile bean shell topple ride flight";
+var mnemonic = "law pigeon private service vast carry festival goat mansion robot thrive canyon";

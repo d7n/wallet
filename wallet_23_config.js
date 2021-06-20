@@ -1,1 +1,1 @@
-var mnemonic = "wife fox consider inside reveal price wish type breeze depart review cliff";
+var mnemonic = "gasp dawn fault income deer immune glimpse wrist bitter kingdom gesture penalty";

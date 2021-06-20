@@ -1,1 +1,1 @@
-var mnemonic = "barrel tip kit draw inhale follow another inch answer goose random couple";
+var mnemonic = "alarm sniff leader inject clarify swap minor analyst detect matter over ready";

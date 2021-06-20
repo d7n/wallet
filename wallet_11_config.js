@@ -1,1 +1,1 @@
-var mnemonic = "weather apology cool alpha exile entry motion acquire hour flash denial original";
+var mnemonic = "scrub embrace churn donkey enemy undo kitchen control sport sort fatal human";

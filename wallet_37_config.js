@@ -1,1 +1,1 @@
-var mnemonic = "gather stone push outer yard leg true forum aerobic give bus own";
+var mnemonic = "maze obscure fish ignore shrug online churn now remove man display useful";

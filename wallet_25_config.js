@@ -1,1 +1,1 @@
-var mnemonic = "lake fiber improve upon false modify ski blur until useful author second";
+var mnemonic = "paddle resemble merge inform pigeon method valid forest water cook daughter tilt";

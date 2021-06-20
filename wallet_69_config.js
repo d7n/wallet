@@ -1,1 +1,1 @@
-var mnemonic = "budget comic tool wheat select have weird require smile sure fever age";
+var mnemonic = "kingdom ethics early peace woman shuffle abandon rare muffin hint sock bread";

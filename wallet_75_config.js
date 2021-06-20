@@ -1,1 +1,1 @@
-var mnemonic = "laptop try point degree kiss six grape reunion unknown bless note urban";
+var mnemonic = "baby lion sketch random artwork cable feature wasp uphold timber space canvas";

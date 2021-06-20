@@ -1,1 +1,1 @@
-var mnemonic = "tunnel hood observe vapor nice april rescue dial social absorb song sand";
+var mnemonic = "theory prepare dose theory relax mercy bike merry melody throw devote blame";

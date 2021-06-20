@@ -1,1 +1,1 @@
-var mnemonic = "caught endless secret issue twice upper sure draft forum purity youth pluck";
+var mnemonic = "shield first often minute kite sunset airport believe tail vault velvet waste";

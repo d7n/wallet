@@ -1,1 +1,1 @@
-var mnemonic = "high holiday blind this bamboo bid clinic sunset spend dolphin shield adapt";
+var mnemonic = "gossip safe noble bean knee advice whip target layer river atom actor";

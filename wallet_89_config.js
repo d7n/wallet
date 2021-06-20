@@ -1,1 +1,1 @@
-var mnemonic = "tree surprise top peasant fly demise inhale arm pattern arm soon category";
+var mnemonic = "control pyramid turkey eight warfare divert bunker general bench hold funny trend";

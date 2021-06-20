@@ -1,1 +1,1 @@
-var mnemonic = "monster vacant olympic into harbor avocado marriage patch nest hover choice library";
+var mnemonic = "ketchup isolate salmon depend tower kangaroo stand trade shield outer mass addict";

@@ -1,1 +1,1 @@
-var mnemonic = "together tribe lesson lunch truth army stereo sketch easily net banana rough";
+var mnemonic = "bottom surface imitate fire surround note pig roof beach blouse hood cook";

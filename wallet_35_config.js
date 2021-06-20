@@ -1,1 +1,1 @@
-var mnemonic = "hub fix artefact course harbor weird defense funny float wife boat wagon";
+var mnemonic = "air harvest twist spell have decline prepare unable edit sure wall ask";

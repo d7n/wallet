@@ -1,1 +1,1 @@
-var mnemonic = "mango surprise giant embrace trash process fringe member quick sting roof hazard";
+var mnemonic = "shuffle buddy sea problem tonight bulk hour usual suffer dose butter inner";

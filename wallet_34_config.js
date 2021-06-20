@@ -1,1 +1,1 @@
-var mnemonic = "detail sound fit lucky dinosaur human case swarm clever ski myself joy";
+var mnemonic = "medal proud melt notable random message window income loud cart cake pill";
