@@ -1,1 +1,1 @@
-var mnemonic = "ship object oil squirrel door level predict artefact dune design theory imitate";
+var mnemonic = "know want parade alley razor pen cart lift honey oven sudden same";

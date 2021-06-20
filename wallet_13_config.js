@@ -1,1 +1,1 @@
-var mnemonic = "banana morning cart donor venture eternal fashion fee salute unable supply acid";
+var mnemonic = "black donkey problem warrior expand all window brief anger dolphin oil senior";

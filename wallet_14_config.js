@@ -1,1 +1,1 @@
-var mnemonic = "bunker gain abuse cream marble cannon cram patient uniform win afford tumble";
+var mnemonic = "drop art spread grape original thing loan basket direct fresh dolphin cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo direct carry lock omit cloth snack local segment behave fiber orange";
+var mnemonic = "unhappy dwarf account space budget fall inform rabbit hen robust quit change";

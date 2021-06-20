@@ -1,1 +1,1 @@
-var mnemonic = "asthma shed maze digital palace grid bomb blood grain identify engine fabric";
+var mnemonic = "gas bullet coil parent heart chaos pink door pioneer vehicle mesh city";

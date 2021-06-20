@@ -1,1 +1,1 @@
-var mnemonic = "rare reject odor kiss field giggle recipe item kick black attend december";
+var mnemonic = "task all silent chunk pen minor shoulder runway muffin budget enough wet";

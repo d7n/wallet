@@ -1,1 +1,1 @@
-var mnemonic = "paddle twin pet sad toward brave donkey promote gold wash extend fork";
+var mnemonic = "autumn enact sense tumble crop pet sphere trip can sunset chunk uncover";

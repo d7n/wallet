@@ -1,1 +1,1 @@
-var mnemonic = "report great entry lion owner predict shrug tiny actor lady season gasp";
+var mnemonic = "carbon multiply error first blush oak burger bench another gold chaos question";

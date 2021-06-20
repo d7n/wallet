@@ -1,1 +1,1 @@
-var mnemonic = "obscure work artefact jaguar ankle legal bachelor learn situate motion guide narrow";
+var mnemonic = "defy library breeze amount bullet surge mesh monkey enable say suffer armor";

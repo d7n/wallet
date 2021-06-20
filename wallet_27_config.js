@@ -1,1 +1,1 @@
-var mnemonic = "equal make wage file skull eye rival hidden grow trumpet club melody";
+var mnemonic = "input dry blush weasel minute float honey inform end unfair number cage";

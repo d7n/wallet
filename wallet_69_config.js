@@ -1,1 +1,1 @@
-var mnemonic = "onion inch chair shift drive enroll family hazard voyage viable gossip tumble";
+var mnemonic = "jewel amused weasel giggle month cancel raise cluster sorry way once ancient";

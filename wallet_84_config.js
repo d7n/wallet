@@ -1,1 +1,1 @@
-var mnemonic = "result siren gorilla risk chef elbow ability pass solar stereo final eternal";
+var mnemonic = "hip pig focus alter much donkey spell civil decrease grow provide sort";

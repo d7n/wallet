@@ -1,1 +1,1 @@
-var mnemonic = "reject village fame else mechanic debris away foil essay oxygen want hello";
+var mnemonic = "gentle detect middle budget basket shed before loud because person program curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "plunge orphan audit paddle welcome combine icon domain reopen rich song story";
+var mnemonic = "smooth student juice runway brisk minimum put clean luxury hunt bird dice";

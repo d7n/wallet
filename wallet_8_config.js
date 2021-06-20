@@ -1,1 +1,1 @@
-var mnemonic = "judge violin donate giggle anchor mansion emerge hurdle steel place about dirt";
+var mnemonic = "blade scissors lemon uniform spike tongue effort join guess toss spread forest";

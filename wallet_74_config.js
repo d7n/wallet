@@ -1,1 +1,1 @@
-var mnemonic = "pen clock input woman case castle only purity canoe deputy carry hello";
+var mnemonic = "timber meadow appear they food foam fabric buffalo library bridge wash wage";

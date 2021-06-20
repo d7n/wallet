@@ -1,1 +1,1 @@
-var mnemonic = "assume dash dance gain slow arch check bottom mule maid shrug you";
+var mnemonic = "fee snake cinnamon story tourist barrel discover use season retreat answer income";

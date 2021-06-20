@@ -1,1 +1,1 @@
-var mnemonic = "present response tobacco dolphin pear spread much surge news foster fantasy antenna";
+var mnemonic = "shed typical place meat knock truth pencil identify cause online timber false";

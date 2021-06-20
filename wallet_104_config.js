@@ -1,1 +1,1 @@
-var mnemonic = "crew elevator badge rack teach modify machine weasel yard athlete swear repair";
+var mnemonic = "clap shoulder shy thrive fashion angle spike innocent seven cup prefer monitor";

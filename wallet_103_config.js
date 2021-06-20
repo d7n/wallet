@@ -1,1 +1,1 @@
-var mnemonic = "cheap city sail minor cover acoustic swarm exotic under token plastic afford";
+var mnemonic = "plate opera quantum unlock situate movie ecology kick usual dinner rival modify";

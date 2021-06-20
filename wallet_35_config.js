@@ -1,1 +1,1 @@
-var mnemonic = "suspect knee debris analyst stumble pizza toe capable obtain blind call alone";
+var mnemonic = "soul pipe cup fall civil ready question gravity refuse run multiply filter";

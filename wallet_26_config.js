@@ -1,1 +1,1 @@
-var mnemonic = "magnet scorpion teach flame flock display loan retreat grow achieve engine ticket";
+var mnemonic = "bamboo vicious enjoy gauge seat flip cloth movie bind sunny anger universe";

@@ -1,1 +1,1 @@
-var mnemonic = "slow north kite faint organ few addict romance bread dignity illness crater";
+var mnemonic = "write age achieve brass exhaust service inch search manage volcano develop heavy";

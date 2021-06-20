@@ -1,1 +1,1 @@
-var mnemonic = "suspect frown fossil legend sausage demise fiscal soup suffer fluid rent main";
+var mnemonic = "myself rifle feature view swing learn dolphin chief marriage magic hub funny";

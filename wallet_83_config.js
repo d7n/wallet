@@ -1,1 +1,1 @@
-var mnemonic = "arctic limb music link sudden box define humor sibling artist attract slice";
+var mnemonic = "common hamster tenant item false joy question scrap poverty mixture doll corn";

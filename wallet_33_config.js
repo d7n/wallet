@@ -1,1 +1,1 @@
-var mnemonic = "across steel middle absent asset kit civil guide soda peanut melody current";
+var mnemonic = "ancient satoshi when smoke scheme coffee library boy blade wasp person vault";

@@ -1,1 +1,1 @@
-var mnemonic = "west tornado grid initial original anxiety lady basket erupt wire oyster ripple";
+var mnemonic = "remember various crazy thing plate betray provide barrel address race own shy";

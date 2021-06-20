@@ -1,1 +1,1 @@
-var mnemonic = "dawn theme dirt gauge clarify pill length type session birth remember actor";
+var mnemonic = "keep green inherit length garage web predict accuse hidden shaft divert zebra";

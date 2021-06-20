@@ -1,1 +1,1 @@
-var mnemonic = "vehicle model unlock donkey vehicle degree fit shield bright impact click more";
+var mnemonic = "improve sausage airport address feature planet dwarf kidney coil lounge million task";

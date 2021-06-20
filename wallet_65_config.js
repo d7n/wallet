@@ -1,1 +1,1 @@
-var mnemonic = "try refuse chase vivid fresh portion knock thrive glad fish air over";
+var mnemonic = "peanut hazard earth live actual fragile enable farm enter quality unknown dutch";

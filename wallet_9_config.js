@@ -1,1 +1,1 @@
-var mnemonic = "daring second claim alcohol mansion join version rain gallery world list kiss";
+var mnemonic = "pause future stone run sell worry midnight wise once voyage athlete whip";

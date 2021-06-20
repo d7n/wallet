@@ -1,1 +1,1 @@
-var mnemonic = "cute member nest maze write include spot autumn okay pistol search theory";
+var mnemonic = "enable detect name arch extra same modify affair piece supreme cube carbon";

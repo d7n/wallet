@@ -1,1 +1,1 @@
-var mnemonic = "black nerve wage play strong story enable copy guard dream affair decide";
+var mnemonic = "transfer tip hood outer visa timber chimney hole chalk funny bless only";

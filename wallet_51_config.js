@@ -1,1 +1,1 @@
-var mnemonic = "exhaust legend harvest cabin noble case gravity absorb price uniform carbon property";
+var mnemonic = "wisdom vendor pet engage occur sausage brown express law toe subway lawsuit";

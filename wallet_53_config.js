@@ -1,1 +1,1 @@
-var mnemonic = "approve shoe answer admit vapor brisk pipe student stone direct violin pass";
+var mnemonic = "output private eight copper trial borrow day infant people toe impulse avoid";

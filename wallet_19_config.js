@@ -1,1 +1,1 @@
-var mnemonic = "damage connect luggage sell define write roast marble emerge smoke web payment";
+var mnemonic = "dirt frame topple elephant liquid blossom sudden color unusual bomb flash casino";

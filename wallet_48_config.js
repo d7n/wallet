@@ -1,1 +1,1 @@
-var mnemonic = "despair clever orchard lucky approve pledge powder wine rally tone announce easy";
+var mnemonic = "expand salon culture grocery buffalo idea second exchange asthma method agree panther";

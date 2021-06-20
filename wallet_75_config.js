@@ -1,1 +1,1 @@
-var mnemonic = "case mouse mango heavy extra jeans delay weapon shaft novel fringe chicken";
+var mnemonic = "vault bargain reopen plastic teach kiss guess plunge wild trick armor champion";

@@ -1,1 +1,1 @@
-var mnemonic = "pipe proof inhale ticket color miracle scout horn grunt river cause supreme";
+var mnemonic = "remain unaware pledge link toe smart ticket dawn budget drill burden radar";

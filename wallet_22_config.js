@@ -1,1 +1,1 @@
-var mnemonic = "icon opera crack awkward size either novel slow forest journey music biology";
+var mnemonic = "clutch enlist mimic dice village ginger define enforce various teach chest copy";

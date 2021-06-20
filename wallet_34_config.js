@@ -1,1 +1,1 @@
-var mnemonic = "siren basket common lesson model gospel pact toward code six neither until";
+var mnemonic = "solar marine clarify vanish clerk scare plug large parrot sketch idea blanket";

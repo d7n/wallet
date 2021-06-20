@@ -1,1 +1,1 @@
-var mnemonic = "blouse shove claim ghost prison order cliff history tongue accident session opinion";
+var mnemonic = "tongue burden gloom captain mixed vapor aspect cactus symptom bundle question again";

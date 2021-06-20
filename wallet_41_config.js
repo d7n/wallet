@@ -1,1 +1,1 @@
-var mnemonic = "hockey auction grief trend defense wool castle drink pyramid gaze payment crunch";
+var mnemonic = "movie various hour adjust insane dice wall glue kind avoid client trim";

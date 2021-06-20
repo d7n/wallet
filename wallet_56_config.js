@@ -1,1 +1,1 @@
-var mnemonic = "grunt slide exclude exchange spell fade birth profit clown sport impose primary";
+var mnemonic = "duck ask kiss mosquito cluster promote model camera claim syrup ozone veteran";

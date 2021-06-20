@@ -1,1 +1,1 @@
-var mnemonic = "cross rate nation gate where afford catch quiz rookie soap hope quit";
+var mnemonic = "rally crystal twelve loud outside merge novel frost rhythm struggle subject prize";

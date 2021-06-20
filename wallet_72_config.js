@@ -1,1 +1,1 @@
-var mnemonic = "seed that hair outside reform accident smart knock once example either popular";
+var mnemonic = "tennis blur cheese insect rescue shove oyster spring produce print vanish chapter";

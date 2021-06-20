@@ -1,1 +1,1 @@
-var mnemonic = "isolate first pride sunny chunk combine garlic faculty input describe expire earn";
+var mnemonic = "where boil echo orchard absent staff seminar arrange axis horror filter remain";

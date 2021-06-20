@@ -1,1 +1,1 @@
-var mnemonic = "visa disease frame patient mango subject orange expose boring tired school evoke";
+var mnemonic = "betray couple young second cash number inquiry october marriage report crime twice";

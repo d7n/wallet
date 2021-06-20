@@ -1,1 +1,1 @@
-var mnemonic = "tilt tide picture trap there attitude thing dawn security noodle fruit exile";
+var mnemonic = "version fabric involve lend swear iron govern perfect cram together upset crime";

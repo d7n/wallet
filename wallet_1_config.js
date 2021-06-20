@@ -1,1 +1,1 @@
-var mnemonic = "zone west pottery lucky twin foam cloud trick stick farm enable horse";
+var mnemonic = "increase economy average hub option alarm cream clown culture matrix rotate kitten";

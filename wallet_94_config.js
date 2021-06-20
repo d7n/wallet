@@ -1,1 +1,1 @@
-var mnemonic = "debate fire another relief culture van ranch film upper shove toilet radar";
+var mnemonic = "patient salad jar salt advice crater orphan mass teach snack useful act";

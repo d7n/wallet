@@ -1,1 +1,1 @@
-var mnemonic = "matter high flight involve paper portion loop decide include paper misery churn";
+var mnemonic = "issue room attitude state donate vote remain ketchup lottery great powder brief";

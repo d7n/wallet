@@ -1,1 +1,1 @@
-var mnemonic = "chronic crucial upon october morning zebra hour smart program axis bread tilt";
+var mnemonic = "harbor drip tiny slim open fury syrup clip tray armor suffer door";

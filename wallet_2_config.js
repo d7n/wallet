@@ -1,1 +1,1 @@
-var mnemonic = "sorry armor camera casual melody fatal purse give pilot swift spoon employ";
+var mnemonic = "young employ anxiety private sustain absent sense anxiety catalog broom game eyebrow";

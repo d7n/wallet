@@ -1,1 +1,1 @@
-var mnemonic = "amateur easily cry fly jealous marriage profit genius reward box ugly crucial";
+var mnemonic = "eager purchase can joy update exile between crater upset fatal ski border";

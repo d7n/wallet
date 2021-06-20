@@ -1,1 +1,1 @@
-var mnemonic = "silly setup peace borrow refuse swap agent odor destroy prepare menu era";
+var mnemonic = "wave outer inherit wage walnut menu away wrestle subway blood nation strong";

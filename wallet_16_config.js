@@ -1,1 +1,1 @@
-var mnemonic = "supply crumble cliff kangaroo bleak raccoon current clog raw place melody dirt";
+var mnemonic = "require toast miss lemon announce stone defy battle slot reopen rifle treat";

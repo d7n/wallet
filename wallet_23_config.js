@@ -1,1 +1,1 @@
-var mnemonic = "mom hundred flower tuna manual bubble buyer car swamp credit cabin tribe";
+var mnemonic = "scare work skirt flock fiction bunker elephant axis shed raven burger accuse";

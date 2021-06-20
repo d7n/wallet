@@ -1,1 +1,1 @@
-var mnemonic = "learn mirror patient annual firm combine sauce rib labor eye bamboo patient";
+var mnemonic = "cream boring alone fork copy sheriff duck stage dirt cattle around surface";

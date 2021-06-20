@@ -1,1 +1,1 @@
-var mnemonic = "clock fiction essence double strategy mechanic grief word tomorrow chef great skull";
+var mnemonic = "arrange impact bargain more fault dirt wish blade slice conduct spend chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "soldier fog couch page wood can stereo gadget opinion work uphold afraid";
+var mnemonic = "skate uphold unit myself salute pottery trial aware thought iron daring police";

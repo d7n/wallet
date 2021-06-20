@@ -1,1 +1,1 @@
-var mnemonic = "pottery apple hard injury source later unaware poem double task forward blur";
+var mnemonic = "insane sword nice habit table culture leisure more door inmate move hello";

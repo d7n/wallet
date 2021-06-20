@@ -1,1 +1,1 @@
-var mnemonic = "neutral kitchen salon resemble cart lounge awake pledge scene toe alter unlock";
+var mnemonic = "orchard enroll choose involve describe screen busy verify unveil honey sister glare";

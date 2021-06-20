@@ -1,1 +1,1 @@
-var mnemonic = "snow biology eye wealth coach page grace stand pill dry math company";
+var mnemonic = "cluster reason amazing expose style unit inch problem pioneer elbow pudding latin";

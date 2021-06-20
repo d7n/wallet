@@ -1,1 +1,1 @@
-var mnemonic = "anxiety jar document capital flip issue sad swim clown since choice wait";
+var mnemonic = "limb hurdle lyrics apology trip copy glare pond ketchup frame split joke";

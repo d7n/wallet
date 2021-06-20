@@ -1,1 +1,1 @@
-var mnemonic = "gentle ketchup food mention lounge vault wheat grape life culture pizza hungry";
+var mnemonic = "shine thrive eight spray field stool mention despair hamster program arch tag";

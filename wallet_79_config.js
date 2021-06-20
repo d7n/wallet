@@ -1,1 +1,1 @@
-var mnemonic = "upgrade ripple finish hero spirit laundry stumble fringe image question memory north";
+var mnemonic = "name person dose layer peasant struggle fly soup exit walnut amazing attitude";

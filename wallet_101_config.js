@@ -1,1 +1,1 @@
-var mnemonic = "case giant alpha one fuel morning engine jungle advance orphan reason nation";
+var mnemonic = "bird legend square despair card rent thumb mother tube green program amazing";

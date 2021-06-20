@@ -1,1 +1,1 @@
-var mnemonic = "arrive object anger retire cage bind beauty arena soccer lunar squirrel fancy";
+var mnemonic = "lobster chaos scorpion traffic finger cook vehicle subway dolphin zoo mistake banner";

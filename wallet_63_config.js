@@ -1,1 +1,1 @@
-var mnemonic = "absurd increase chef tragic viable garbage nation diary property woman tooth ancient";
+var mnemonic = "buffalo exile slot elevator two quality ramp unaware general express hip utility";

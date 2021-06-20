@@ -1,1 +1,1 @@
-var mnemonic = "margin popular weasel trap film bid menu lottery amateur rebuild stock process";
+var mnemonic = "crystal throw point access salmon flight front want ball reward kiss congress";

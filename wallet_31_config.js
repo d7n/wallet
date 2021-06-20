@@ -1,1 +1,1 @@
-var mnemonic = "forget lizard way catch aspect crunch cupboard object avocado sauce strategy salute";
+var mnemonic = "behave chicken puppy noodle inform square major open load teach resemble swap";

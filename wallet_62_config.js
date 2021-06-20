@@ -1,1 +1,1 @@
-var mnemonic = "chaos link cry luggage mother bulb bronze sword main enact art flush";
+var mnemonic = "fine program blur evolve fork poverty door scatter help ask oven target";

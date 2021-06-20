@@ -1,1 +1,1 @@
-var mnemonic = "domain hurdle over merry now debate oil camp hungry walk sight web";
+var mnemonic = "skull high anchor immense bamboo vanish update bulb silent floor van hello";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy method mountain scrub way mosquito exhaust bring frozen primary below always";
+var mnemonic = "way symbol tennis walk sunny scout bring snack stable useless goddess obscure";

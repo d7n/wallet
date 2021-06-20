@@ -1,1 +1,1 @@
-var mnemonic = "crawl detail drastic coyote pepper sign hurry fault poet vicious discover grit";
+var mnemonic = "hip home ask place lazy protect torch dash reveal walk flip matrix";

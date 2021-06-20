@@ -1,1 +1,1 @@
-var mnemonic = "alter wild donor finish obscure between fashion castle vault canal rug vicious";
+var mnemonic = "episode pulp purse purpose tornado garden raise total model tag drop crunch";

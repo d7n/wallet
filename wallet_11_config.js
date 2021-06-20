@@ -1,1 +1,1 @@
-var mnemonic = "convince choice orbit tired boat right pause sniff laptop balance broccoli mail";
+var mnemonic = "spot canoe comfort web vote coast team close morning fiber prize salad";

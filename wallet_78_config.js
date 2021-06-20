@@ -1,1 +1,1 @@
-var mnemonic = "ozone drama wear this slim fabric pilot convince trend fire lemon fence";
+var mnemonic = "fatigue employ proof volume there diet ribbon flame afraid prefer great spring";

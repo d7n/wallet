@@ -1,1 +1,1 @@
-var mnemonic = "tired merge key endorse august wild clock gather nut pave now monkey";
+var mnemonic = "valid chalk grief fiction where board gym work harvest decorate figure smart";

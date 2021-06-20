@@ -1,1 +1,1 @@
-var mnemonic = "coach advance one funny silk taxi pass legal jump uphold gossip gate";
+var mnemonic = "chuckle desert genius fine possible cigar depend gallery accuse upper winter aim";

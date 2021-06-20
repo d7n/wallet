@@ -1,1 +1,1 @@
-var mnemonic = "strong style vacuum season worth pottery office ritual guess suggest into magic";
+var mnemonic = "soul beyond palm situate letter embark grid weapon banana amount danger chronic";

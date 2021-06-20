@@ -1,1 +1,1 @@
-var mnemonic = "dune debate join okay rare skill rabbit cannon joke august affair laptop";
+var mnemonic = "version social always energy orient garlic enlist trouble hollow hybrid breeze shed";

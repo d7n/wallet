@@ -1,1 +1,1 @@
-var mnemonic = "sick inflict cloud yellow skull script spoil grunt moral include chest stamp";
+var mnemonic = "milk scrap chest fold strong either lift layer mobile around short hood";

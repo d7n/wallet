@@ -1,1 +1,1 @@
-var mnemonic = "honey tomato hotel bonus mad antenna inside scan any believe flat moral";
+var mnemonic = "erupt scare cable train essay civil mass move during ill scene near";

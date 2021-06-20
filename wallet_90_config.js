@@ -1,1 +1,1 @@
-var mnemonic = "surround melody feature market copy light message suit myself unhappy balcony eight";
+var mnemonic = "chuckle able history banner verify example genre hole lounge narrow artefact gather";

@@ -1,1 +1,1 @@
-var mnemonic = "asset session unhappy drift front frog write push find envelope guess simple";
+var mnemonic = "nation annual unhappy sausage wife camp deposit open aspect motor train example";
