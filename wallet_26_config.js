@@ -1,1 +1,1 @@
-var mnemonic = "run excess dawn ostrich exact imitate caught distance defy isolate attend embark";
+var mnemonic = "rack drastic nominee pave pen glass circle quarter want industry hole canal";

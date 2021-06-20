@@ -1,1 +1,1 @@
-var mnemonic = "approve simple coil symptom armor sister wrong damage flag moral warfare festival";
+var mnemonic = "hotel palm palm million gaze grow keen rescue strategy cheese orchard neck";

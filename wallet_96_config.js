@@ -1,1 +1,1 @@
-var mnemonic = "dry enroll trial shoot annual victory census shift recycle weekend reveal duty";
+var mnemonic = "shock rather page fun scene eye muffin miracle brain blood useful romance";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear ceiling rose vacuum waste crane choice outdoor divert afford bring limit";
+var mnemonic = "fiscal tip tribe popular circle device course surge verify term spy digital";

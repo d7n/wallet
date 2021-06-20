@@ -1,1 +1,1 @@
-var mnemonic = "dynamic spirit problem story apple vast twist capital struggle opinion settle gap";
+var mnemonic = "icon try produce earn moral poverty question vibrant witness february vivid rib";

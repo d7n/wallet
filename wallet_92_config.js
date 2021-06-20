@@ -1,1 +1,1 @@
-var mnemonic = "improve pulse there find entry talk true cricket venue vast desk filter";
+var mnemonic = "morning goat budget deny suffer fancy chunk garden van often gift citizen";

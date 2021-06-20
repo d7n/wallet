@@ -1,1 +1,1 @@
-var mnemonic = "pioneer tray flag what hollow excess bicycle holiday road scissors coffee garbage";
+var mnemonic = "frequent join turn second sport fix rocket cousin jealous dune brief hub";

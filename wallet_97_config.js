@@ -1,1 +1,1 @@
-var mnemonic = "butter forest you pioneer approve version nerve grief sing focus bitter art";
+var mnemonic = "sheriff offer legal gentle slender try swim season expire gas output then";

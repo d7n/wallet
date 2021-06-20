@@ -1,1 +1,1 @@
-var mnemonic = "jungle discover path shadow roof rural old over transfer lab destroy style";
+var mnemonic = "urban action glance husband shoot keep bachelor sugar bike inner mass leg";

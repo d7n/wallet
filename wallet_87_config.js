@@ -1,1 +1,1 @@
-var mnemonic = "smoke coin leisure bronze employ fashion hill fix nerve rocket game announce";
+var mnemonic = "athlete join amount drip leave clever resist aunt ladder weekend wagon van";

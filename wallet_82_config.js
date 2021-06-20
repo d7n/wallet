@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur meadow monster section figure hybrid stable abuse crane attend eight seven";
+var mnemonic = "render flower oxygen broccoli pioneer afraid alley senior goat stamp dumb ghost";

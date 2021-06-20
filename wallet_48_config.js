@@ -1,1 +1,1 @@
-var mnemonic = "erupt visit outdoor lunch nasty ship mention radar meadow element woman tip";
+var mnemonic = "loyal double deposit educate health still crew erupt moon exact crawl first";

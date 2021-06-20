@@ -1,1 +1,1 @@
-var mnemonic = "popular tobacco mistake just coyote patrol notice expose boat donkey true family";
+var mnemonic = "mechanic display wheat siren wife hat slender hub cabin exact huge furnace";

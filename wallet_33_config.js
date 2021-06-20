@@ -1,1 +1,1 @@
-var mnemonic = "scrub warfare young dwarf insane segment embody basket uncover define half hurry";
+var mnemonic = "outdoor drastic engage umbrella zebra inside neck champion hobby rug soda gain";

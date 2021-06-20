@@ -1,1 +1,1 @@
-var mnemonic = "park sweet hub tomorrow image must stadium east buddy maple edit humor";
+var mnemonic = "furnace toddler reunion grape cute tuition warfare supreme source crucial dutch goose";

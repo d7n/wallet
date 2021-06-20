@@ -1,1 +1,1 @@
-var mnemonic = "salute bracket open check endorse siege notable crane shadow scan battle dash";
+var mnemonic = "order distance lounge sudden please scare assault argue spatial auction whale heart";

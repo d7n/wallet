@@ -1,1 +1,1 @@
-var mnemonic = "together quick perfect balance price trouble snake ostrich exchange spirit order slice";
+var mnemonic = "deer grant cushion undo skin front oyster judge ladder valve drink ethics";

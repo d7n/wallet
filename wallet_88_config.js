@@ -1,1 +1,1 @@
-var mnemonic = "celery genuine mobile exchange slim rival tonight lady hybrid option coconut report";
+var mnemonic = "trip cup velvet speed expect cash pact orient cargo shrug captain enemy";

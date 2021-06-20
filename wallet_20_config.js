@@ -1,1 +1,1 @@
-var mnemonic = "alcohol afraid busy half begin cook faith abstract cycle general banana will";
+var mnemonic = "horn light slab domain drip effort subject name learn genuine fancy vital";

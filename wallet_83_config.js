@@ -1,1 +1,1 @@
-var mnemonic = "dirt drive write sea bleak daughter correct mechanic deal shrimp already rocket";
+var mnemonic = "mosquito industry game total bus detail dwarf spread child left zero click";

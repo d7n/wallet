@@ -1,1 +1,1 @@
-var mnemonic = "forward approve catch cannon scrap card build cross stool word long paper";
+var mnemonic = "cage tray remember moment blur lab panic matrix tail social smoke clerk";

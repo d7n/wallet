@@ -1,1 +1,1 @@
-var mnemonic = "ill bench art have huge situate this charge shuffle flat combine bring";
+var mnemonic = "require bean cause copper mimic trumpet case clay lobster buyer prosper window";

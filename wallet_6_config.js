@@ -1,1 +1,1 @@
-var mnemonic = "reduce bonus present town narrow only fiction normal enemy inspire school increase";
+var mnemonic = "vocal plunge funny salad tribe match indoor orient trade arctic brave stone";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn goddess bunker salmon bike put cave lemon one crouch symbol decide";
+var mnemonic = "siege voyage party apology shop web cloth arrive mirror tortoise common drum";

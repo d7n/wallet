@@ -1,1 +1,1 @@
-var mnemonic = "camera squeeze cruel trash category stem bamboo tip way roof volcano token";
+var mnemonic = "predict zebra rate barrel solid runway company voyage mistake buzz response cloth";

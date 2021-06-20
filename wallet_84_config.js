@@ -1,1 +1,1 @@
-var mnemonic = "rude spin tail hill future flight glimpse autumn hybrid that bottom trick";
+var mnemonic = "okay logic february harbor glory illness gun rough habit december scatter melt";

@@ -1,1 +1,1 @@
-var mnemonic = "sun gain flower census family safe damage usage security desert response brush";
+var mnemonic = "express like mirror rifle enter never gold cabin install walnut quick noble";

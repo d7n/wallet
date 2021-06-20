@@ -1,1 +1,1 @@
-var mnemonic = "cup false dawn walnut cattle very donor usage pepper skate pilot betray";
+var mnemonic = "depend busy sadness digital wide dirt phone future success plunge august glad";

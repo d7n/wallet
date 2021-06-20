@@ -1,1 +1,1 @@
-var mnemonic = "iron season gold side beach critic broccoli access net thunder trip surround";
+var mnemonic = "shuffle door debris assist capable amused motor power bargain garden input argue";

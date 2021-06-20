@@ -1,1 +1,1 @@
-var mnemonic = "collect drip note describe reward dumb film hurt caution boost royal olive";
+var mnemonic = "fatal amused also trap fine father cause rent reason hint assist patch";

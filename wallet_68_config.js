@@ -1,1 +1,1 @@
-var mnemonic = "carpet describe arrow lava awkward large whisper question drink symbol cliff shoe";
+var mnemonic = "unable valid cupboard fine actress poem spot rookie loop interest eyebrow slab";

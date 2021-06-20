@@ -1,1 +1,1 @@
-var mnemonic = "patch real inherit congress box guide manual trust select illness warfare royal";
+var mnemonic = "alone laptop roast champion document track upper retire alcohol cash sword rice";

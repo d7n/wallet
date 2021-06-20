@@ -1,1 +1,1 @@
-var mnemonic = "space begin term any find crash favorite woman swallow differ vanish matter";
+var mnemonic = "among nose gauge act fossil action candy zone custom shuffle pepper put";

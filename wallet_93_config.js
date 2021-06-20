@@ -1,1 +1,1 @@
-var mnemonic = "uncover detail spoon alter nerve state reward sick damp manage retreat trick";
+var mnemonic = "sting pole furnace echo reopen fish antenna you uniform minimum assist lady";

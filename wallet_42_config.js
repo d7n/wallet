@@ -1,1 +1,1 @@
-var mnemonic = "achieve sauce cereal dizzy swallow body small item nephew embrace evidence multiply";
+var mnemonic = "pink stage gravity jealous enter slice alert elder cannon income crazy veteran";

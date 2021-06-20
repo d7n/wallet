@@ -1,1 +1,1 @@
-var mnemonic = "surround country unhappy winner mushroom visa stick nurse hurt space sad hello";
+var mnemonic = "slam slender alone thought when fantasy beach finger purchase cluster burst nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "exit load trend spread dose creek fork excess like dwarf purchase riot";
+var mnemonic = "undo depart reveal virus naive inmate infant depend together raccoon net law";

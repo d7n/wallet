@@ -1,1 +1,1 @@
-var mnemonic = "upgrade before seat comic poet victory tiny actress trap caution neck blood";
+var mnemonic = "sentence dentist view fetch hire fragile math oblige wall key coil portion";

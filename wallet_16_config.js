@@ -1,1 +1,1 @@
-var mnemonic = "cement trick fatal exchange human volcano laugh force tank vault country hat";
+var mnemonic = "vacant gossip never visa swarm lyrics foot raccoon slim notice super pair";

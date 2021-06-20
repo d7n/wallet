@@ -1,1 +1,1 @@
-var mnemonic = "dolphin vapor onion limb entire awful there stadium coral judge emerge wheat";
+var mnemonic = "protect motion swim aerobic cabbage movie tortoise mention custom tell among plate";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle athlete confirm flush badge spoon quiz work remove sudden head salon";
+var mnemonic = "neither cloth label canal involve buzz green shoulder execute speed caught mouse";

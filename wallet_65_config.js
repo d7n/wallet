@@ -1,1 +1,1 @@
-var mnemonic = "vapor pistol safe fee expand glance pretty scare claim abandon blue liberty";
+var mnemonic = "polar domain manage vault neck ceiling scheme term phrase cinnamon industry install";

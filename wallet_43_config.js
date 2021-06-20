@@ -1,1 +1,1 @@
-var mnemonic = "lift twelve cube abandon appear injury mushroom clinic ride beyond distance december";
+var mnemonic = "until material seminar ripple shed when tooth letter input survey refuse hamster";

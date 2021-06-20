@@ -1,1 +1,1 @@
-var mnemonic = "add property tenant vacant adult suspect wish away then rifle penalty require";
+var mnemonic = "album bargain arrange sphere siren settle bench rule palace purity embrace reopen";

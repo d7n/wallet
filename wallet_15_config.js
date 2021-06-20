@@ -1,1 +1,1 @@
-var mnemonic = "front marriage tree october naive foot result snake lamp spend enhance achieve";
+var mnemonic = "august glimpse butter flag shock dilemma sick horn glove trust convince chicken";

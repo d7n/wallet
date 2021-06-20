@@ -1,1 +1,1 @@
-var mnemonic = "polar radio crisp marine also use penalty special word camera throw case";
+var mnemonic = "sentence funny crew holiday success cruise earn toast filter mother minute vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "regular law dawn offer raise road grief imitate over term trick spare";
+var mnemonic = "entire wine elder uniform fatal clerk cash fury pattern vanish novel toss";

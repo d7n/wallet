@@ -1,1 +1,1 @@
-var mnemonic = "tilt race among ceiling delay pride strategy grid smart employ keen mail";
+var mnemonic = "forward search pair black scheme embrace retreat scissors range spread tide throw";

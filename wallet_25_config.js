@@ -1,1 +1,1 @@
-var mnemonic = "refuse together outside phone oval canvas rebuild omit monkey kid gold depth";
+var mnemonic = "trial glare service stool permit arctic mother garden script language remain engine";

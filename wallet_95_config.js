@@ -1,1 +1,1 @@
-var mnemonic = "track unfold subject begin have crush great clutch any milk suspect notable";
+var mnemonic = "proof decorate cheap lumber stuff ready napkin fat fee best wild prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "section tattoo agent album debris jazz online cake expose original grunt wave";
+var mnemonic = "suggest tackle asset oak early zero raccoon sea injury unknown shrimp awake";

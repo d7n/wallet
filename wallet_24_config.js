@@ -1,1 +1,1 @@
-var mnemonic = "camp smoke salute inflict tent scare turkey leave limb harsh reason afraid";
+var mnemonic = "civil river rocket gain candy large damage obtain gadget radar wheel kangaroo";

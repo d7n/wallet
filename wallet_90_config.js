@@ -1,1 +1,1 @@
-var mnemonic = "way picture raw garlic bargain sing defense cheap debris depth cushion fine";
+var mnemonic = "elevator crater soda involve trust siren job example park empower put help";

@@ -1,1 +1,1 @@
-var mnemonic = "note valve yard dirt shrug despair ring trust explain cherry climb derive";
+var mnemonic = "pull seat guess pool satisfy call what amount ostrich light curtain stock";

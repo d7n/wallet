@@ -1,1 +1,1 @@
-var mnemonic = "step mistake luggage insane hint flee denial plug general produce shoulder street";
+var mnemonic = "spirit enough theme lazy twist attitude rice zoo human until blind two";

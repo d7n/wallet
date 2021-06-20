@@ -1,1 +1,1 @@
-var mnemonic = "silk symptom cherry win bike trip hill abandon sail invest market tool";
+var mnemonic = "trust resist pottery leader hurdle verify key embody print print member battle";

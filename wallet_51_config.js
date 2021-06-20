@@ -1,1 +1,1 @@
-var mnemonic = "erupt salmon plastic destroy today crime trip zone spread output april super";
+var mnemonic = "easy garage ritual lounge smile together always gaze blade pass wonder stick";

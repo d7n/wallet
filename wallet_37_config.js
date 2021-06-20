@@ -1,1 +1,1 @@
-var mnemonic = "ritual beauty start neglect butter treat volcano virus sell submit abandon expire";
+var mnemonic = "goat balcony pride include bag shoulder denial used flock phrase hockey uncle";

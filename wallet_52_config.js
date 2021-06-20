@@ -1,1 +1,1 @@
-var mnemonic = "already pipe auto twenty parent draw engine nation page audit hurdle inch";
+var mnemonic = "device salmon affair venue first garden family wolf eye mutual collect soccer";

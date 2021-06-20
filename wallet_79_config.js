@@ -1,1 +1,1 @@
-var mnemonic = "short execute wild town weird inhale enough chef quantum goose text people";
+var mnemonic = "siege real december spike uphold adapt door topic conduct neutral actress soccer";

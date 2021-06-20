@@ -1,1 +1,1 @@
-var mnemonic = "soup evoke reunion cook cereal soccer chapter label now ship first sport";
+var mnemonic = "glory since clump then help topic phrase oval sniff jelly prize ketchup";

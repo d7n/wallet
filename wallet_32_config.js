@@ -1,1 +1,1 @@
-var mnemonic = "fetch crane pyramid universe poverty grass thunder stay busy amateur liquid october";
+var mnemonic = "gun purity cake fox accident win prize screen today glide invest cup";

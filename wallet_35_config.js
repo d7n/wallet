@@ -1,1 +1,1 @@
-var mnemonic = "curtain vague feature broccoli town object habit wide tool length mountain since";
+var mnemonic = "hold slot roof thank verify stereo tuna brisk unknown erode exact traffic";

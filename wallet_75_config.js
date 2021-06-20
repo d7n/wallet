@@ -1,1 +1,1 @@
-var mnemonic = "nominee educate vendor gaze loan history choice mad roof faith service adjust";
+var mnemonic = "someone skull waste identify envelope hand maple antique animal inspire universe dirt";

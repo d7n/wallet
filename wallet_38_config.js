@@ -1,1 +1,1 @@
-var mnemonic = "fortune course chief piano charge chair sell chase faint guess fury key";
+var mnemonic = "wide innocent pilot segment segment club vibrant teach orbit field beauty income";

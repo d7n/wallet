@@ -1,1 +1,1 @@
-var mnemonic = "napkin mom tattoo pear boat together giant strategy what online enroll tank";
+var mnemonic = "august topple genre supreme awful adapt section try soccer rubber index noble";

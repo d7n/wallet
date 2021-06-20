@@ -1,1 +1,1 @@
-var mnemonic = "doll network name dilemma shaft degree maple ability sibling duty notable fresh";
+var mnemonic = "execute name palm burst learn maximum swear direct cereal tool airport country";

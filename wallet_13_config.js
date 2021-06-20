@@ -1,1 +1,1 @@
-var mnemonic = "note rally orchard waste ostrich story real quit resemble weather diamond call";
+var mnemonic = "radar start decide baby intact cement end shuffle vacant pulse genre poet";

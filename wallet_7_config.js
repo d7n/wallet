@@ -1,1 +1,1 @@
-var mnemonic = "isolate level garage rival since general define license six must pledge say";
+var mnemonic = "leisure doctor desert boy isolate swing suit add motion sphere mammal choice";

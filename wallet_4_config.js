@@ -1,1 +1,1 @@
-var mnemonic = "cycle moon noodle salute settle dismiss bread travel device nephew capital auction";
+var mnemonic = "renew slight bid warm hold sniff remove doctor coast give stick rare";

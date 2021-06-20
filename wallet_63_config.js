@@ -1,1 +1,1 @@
-var mnemonic = "power render seminar live pencil cup ensure image quarter window ceiling glide";
+var mnemonic = "shine jar strategy craft world clever wise cube catch next theory weird";

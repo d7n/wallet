@@ -1,1 +1,1 @@
-var mnemonic = "kite smart entire dragon symbol bind fire during avocado tackle cinnamon multiply";
+var mnemonic = "marriage ignore damp split shed lunar arrange icon tent post thunder athlete";

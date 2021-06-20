@@ -1,1 +1,1 @@
-var mnemonic = "dizzy arrest nuclear beyond deny shy climb curtain interest rack ramp evidence";
+var mnemonic = "country switch sport bargain rigid fiction axis hill jewel climb stick mercy";

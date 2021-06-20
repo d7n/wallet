@@ -1,1 +1,1 @@
-var mnemonic = "network real idle organ sound clog curtain hold blood require illness stock";
+var mnemonic = "surge race buffalo bomb juice calm deposit quit spell disease figure riot";

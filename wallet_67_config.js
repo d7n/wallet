@@ -1,1 +1,1 @@
-var mnemonic = "weather cricket patient matrix sea check hollow pole expand target blue inform";
+var mnemonic = "maid juice fortune believe donkey antenna crop coconut snake champion beef pride";

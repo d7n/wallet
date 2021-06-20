@@ -1,1 +1,1 @@
-var mnemonic = "table call album blind idea address square clean betray zone identify mule";
+var mnemonic = "breeze fish skill box outdoor rapid same lucky today celery brand shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "neither street kid win shy hard spare beef under hollow curious pyramid";
+var mnemonic = "grain rate layer attend hint foil execute giraffe master valley divert forum";

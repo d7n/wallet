@@ -1,1 +1,1 @@
-var mnemonic = "mixed fantasy marble space satisfy hill glue wall shallow hungry series drift";
+var mnemonic = "forward scissors wine drip grace monkey path month brick oppose detect flip";

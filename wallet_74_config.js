@@ -1,1 +1,1 @@
-var mnemonic = "wrap behave panic expose off glove divorce happy crane forum kid shadow";
+var mnemonic = "field save list soup fee crouch arctic unable advance plastic hero motor";

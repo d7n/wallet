@@ -1,1 +1,1 @@
-var mnemonic = "creek foot mind knock expect glare just orbit eagle nut enact embody";
+var mnemonic = "stem odor woman actor sister trouble decade glory churn modify midnight crime";

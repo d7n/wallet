@@ -1,1 +1,1 @@
-var mnemonic = "dice drum annual eyebrow garbage gown expose office ugly style rifle avocado";
+var mnemonic = "later forest swamp typical purchase peanut aim butter shiver basic benefit unique";

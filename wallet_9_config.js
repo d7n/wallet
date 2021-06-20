@@ -1,1 +1,1 @@
-var mnemonic = "abstract bridge tomorrow mirror harvest vast card shrug promote artist curve insane";
+var mnemonic = "neck rookie flush van grain elevator apple left tilt lady wine prize";

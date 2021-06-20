@@ -1,1 +1,1 @@
-var mnemonic = "evidence electric chimney manage shallow guitar water green action foster thank rapid";
+var mnemonic = "work symptom duck obscure manual mimic fabric nuclear erode style green guard";

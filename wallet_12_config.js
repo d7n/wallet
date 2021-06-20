@@ -1,1 +1,1 @@
-var mnemonic = "black detail width dash man term advance lounge obvious sudden local half";
+var mnemonic = "load announce laugh tape lottery castle attack business liberty axis soon claw";

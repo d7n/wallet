@@ -1,1 +1,1 @@
-var mnemonic = "intact advance afford mom alcohol network monkey bread capable movie either twelve";
+var mnemonic = "range canyon goat estate copy leaf wire rice salt green hint lecture";

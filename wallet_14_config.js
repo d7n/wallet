@@ -1,1 +1,1 @@
-var mnemonic = "shoe spread swear treat maid ignore mule vital certain cupboard fall frog";
+var mnemonic = "omit tattoo typical fly phone menu bachelor swear arena artefact position amateur";

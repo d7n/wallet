@@ -1,1 +1,1 @@
-var mnemonic = "fog riot mule negative grape know diary sure soap impact chunk atom";
+var mnemonic = "grief rather unhappy birth video grace couple harsh damage merit trap cash";

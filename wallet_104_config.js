@@ -1,1 +1,1 @@
-var mnemonic = "nuclear valley test bullet primary program vintage maze filter stone aim talent";
+var mnemonic = "robust valve flush start butter item measure prepare lamp crack ozone hen";

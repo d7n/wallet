@@ -1,1 +1,1 @@
-var mnemonic = "all erosion hospital flip infant antenna rebuild bid general august ahead cargo";
+var mnemonic = "chronic broken fly pepper trust enrich century music love scrap pride cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "define uncle mushroom leader cattle sun race topple trend soap cram immune";
+var mnemonic = "clap turtle limb input road alter outside crumble hammer zone left maze";

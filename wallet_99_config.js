@@ -1,1 +1,1 @@
-var mnemonic = "fold pink coast eyebrow finish mammal transfer wink bright seek eyebrow castle";
+var mnemonic = "canal mad prison wise control warm cube minimum skate mosquito pet change";
