@@ -1,1 +1,1 @@
-var mnemonic = "orchard steel fall pill twist laptop acquire common know child enact guard";
+var mnemonic = "twin camera robot subject spice lion leopard attitude exact silk hungry ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza layer account spoon middle initial inside jelly member trust pear breeze";
+var mnemonic = "weather apology cool alpha exile entry motion acquire hour flash denial original";

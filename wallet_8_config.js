@@ -1,1 +1,1 @@
-var mnemonic = "bright awesome shock mushroom grab sword lend resource lion chimney vast sheriff";
+var mnemonic = "series habit monster library payment atom company mirror grain tiny garbage kangaroo";

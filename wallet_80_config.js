@@ -1,1 +1,1 @@
-var mnemonic = "problem major journey glass cat canvas shy actual fiber infant rescue increase";
+var mnemonic = "quote rice water legend exotic pepper cigar carry bleak color bitter acoustic";

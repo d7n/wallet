@@ -1,1 +1,1 @@
-var mnemonic = "bench stomach hockey stay plug drop humble cage tape winter spot assist";
+var mnemonic = "style faculty alter sample sorry fatal ensure cigar mesh follow begin share";

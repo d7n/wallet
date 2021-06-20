@@ -1,1 +1,1 @@
-var mnemonic = "knee apart excite address crop eyebrow female morning camp film satoshi tragic";
+var mnemonic = "waste beach require vivid traffic congress fat embrace short nasty media intact";

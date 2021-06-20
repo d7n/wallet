@@ -1,1 +1,1 @@
-var mnemonic = "fame scatter powder same urban cliff motor lake idea apple cycle tackle";
+var mnemonic = "enhance charge awake portion vendor draw merge gloom sword awesome junior bring";

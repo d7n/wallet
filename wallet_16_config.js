@@ -1,1 +1,1 @@
-var mnemonic = "grain appear stay tent problem quote oven cherry melody hurdle illegal approve";
+var mnemonic = "volcano pudding iron help drip orange lion guard pond potato bounce blue";

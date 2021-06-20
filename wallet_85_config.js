@@ -1,1 +1,1 @@
-var mnemonic = "crater much warm able rookie must tuna drum credit sail flame define";
+var mnemonic = "engine memory mirror spring culture depth home someone gadget menu agree fitness";

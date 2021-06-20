@@ -1,1 +1,1 @@
-var mnemonic = "pencil coconut ice penalty crumble behave conduct captain obtain misery double roast";
+var mnemonic = "quality eternal boil design library cricket rifle drink economy output merry myth";

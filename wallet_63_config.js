@@ -1,1 +1,1 @@
-var mnemonic = "ignore scan lava robust hollow derive craft cloth dinner fork guilt gun";
+var mnemonic = "rose essay bread lunch spirit garlic spray art income fault match change";

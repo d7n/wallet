@@ -1,1 +1,1 @@
-var mnemonic = "budget buffalo lava twenty cherry oxygen kitten super carpet bubble rain wheat";
+var mnemonic = "behave vessel promote audit enter salad flee program shoulder design park soul";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub series spatial educate grace eyebrow dash marble napkin stick square engine";
+var mnemonic = "powder devote they fluid march symbol negative scan topic garbage sad title";

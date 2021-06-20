@@ -1,1 +1,1 @@
-var mnemonic = "erosion recall pole purpose then harsh conduct mosquito time bundle junk twice";
+var mnemonic = "leave glide shoe source will vacuum smile bean shell topple ride flight";

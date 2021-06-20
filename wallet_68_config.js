@@ -1,1 +1,1 @@
-var mnemonic = "spot hen dumb stomach beef arm person club atom much boss increase";
+var mnemonic = "circle random album camp pizza once scorpion face wood problem hat street";

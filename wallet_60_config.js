@@ -1,1 +1,1 @@
-var mnemonic = "caught label sister radar elephant such cigar ramp spy eternal aunt tenant";
+var mnemonic = "high holiday blind this bamboo bid clinic sunset spend dolphin shield adapt";

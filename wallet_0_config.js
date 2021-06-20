@@ -1,1 +1,1 @@
-var mnemonic = "reduce present awful elegant museum garden theme steel mule tuition prefer forest";
+var mnemonic = "fog flag sister vintage garbage friend course waste dilemma aerobic crawl ceiling";

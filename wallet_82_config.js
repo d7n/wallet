@@ -1,1 +1,1 @@
-var mnemonic = "foster unaware armor garage lawn own disagree aspect cable chase wealth immune";
+var mnemonic = "width exhibit dutch blue abstract skill always season machine laugh empower fortune";

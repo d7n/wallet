@@ -1,1 +1,1 @@
-var mnemonic = "antique punch point dragon elevator bomb toe hire action wear empty special";
+var mnemonic = "arrow olive away furnace index modify skate sort bargain system meadow property";

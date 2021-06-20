@@ -1,1 +1,1 @@
-var mnemonic = "squeeze travel lonely shell before ethics metal lunch maze copper marriage bundle";
+var mnemonic = "jealous method hard analyst can artist planet evidence view good canoe chimney";

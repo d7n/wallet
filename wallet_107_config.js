@@ -1,1 +1,1 @@
-var mnemonic = "hard leaf moral accuse ride uphold video clutch pilot better inform final";
+var mnemonic = "laptop gold huge broken broccoli device upgrade thought tiger zero inspire crucial";

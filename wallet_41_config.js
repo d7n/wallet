@@ -1,1 +1,1 @@
-var mnemonic = "call truth member skill base peasant fence aspect card private bulk era";
+var mnemonic = "public company add critic october apple arrive remember basic novel fabric rare";

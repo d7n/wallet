@@ -1,1 +1,1 @@
-var mnemonic = "weather pattern connect announce setup test confirm latin canoe steak glad swear";
+var mnemonic = "tree surprise top peasant fly demise inhale arm pattern arm soon category";

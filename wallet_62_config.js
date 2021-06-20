@@ -1,1 +1,1 @@
-var mnemonic = "crunch truth all oval ceiling super coyote human present move fox rent";
+var mnemonic = "hero wine task argue barrel winner daring valve physical motor cave embrace";

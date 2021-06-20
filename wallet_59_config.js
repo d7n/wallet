@@ -1,1 +1,1 @@
-var mnemonic = "elbow festival guess swing wealth air drum below exclude ostrich trigger pitch";
+var mnemonic = "warfare stem motor diagram only card burden fatigue annual target weapon congress";

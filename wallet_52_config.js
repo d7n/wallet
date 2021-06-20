@@ -1,1 +1,1 @@
-var mnemonic = "paper zebra bachelor boost machine short devote viable armed husband scene verb";
+var mnemonic = "open spring wide bag total ability illness seven spot penalty eternal swift";

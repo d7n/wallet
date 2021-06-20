@@ -1,1 +1,1 @@
-var mnemonic = "arch hello tip put crystal stairs wheel expect concert delay boy organ";
+var mnemonic = "record river casual assist similar old exclude debate license treat cricket basket";

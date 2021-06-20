@@ -1,1 +1,1 @@
-var mnemonic = "clip author hood clown reform group tribe shadow section rubber barrel rotate";
+var mnemonic = "vibrant begin act bone balance move drive soap pool episode album cattle";

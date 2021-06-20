@@ -1,1 +1,1 @@
-var mnemonic = "input link text stool rhythm wrestle romance future word about clay people";
+var mnemonic = "deer around child must aware virtual object fatal raw mother true minor";

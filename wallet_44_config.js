@@ -1,1 +1,1 @@
-var mnemonic = "decide dizzy unveil cage again service hole assume bulk security address palm";
+var mnemonic = "gloom flower rude vanish symptom lesson busy notable inmate spread elegant bid";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke tower mercy mushroom pelican basic seek lab card frost spell inflict";
+var mnemonic = "dentist another myth spider window enact never end advance sunset script october";

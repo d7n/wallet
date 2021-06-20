@@ -1,1 +1,1 @@
-var mnemonic = "typical item truck timber chicken salon display state eternal throw peace benefit";
+var mnemonic = "laptop try point degree kiss six grape reunion unknown bless note urban";

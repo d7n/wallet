@@ -1,1 +1,1 @@
-var mnemonic = "round intact oyster tongue hawk goose train vivid pill suggest mansion clip";
+var mnemonic = "they cereal pistol appear budget brass antenna mail ring virtual blood party";

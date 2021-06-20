@@ -1,1 +1,1 @@
-var mnemonic = "strong bubble ceiling normal extend finish blast they enemy day venue update";
+var mnemonic = "coconut chief mask disorder cinnamon weasel disease blur chief essay question source";

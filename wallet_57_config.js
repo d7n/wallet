@@ -1,1 +1,1 @@
-var mnemonic = "celery museum beyond join army subway diesel moral proud dove dismiss discover";
+var mnemonic = "rely boy palace loud proud salute energy renew waste equip animal bag";

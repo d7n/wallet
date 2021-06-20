@@ -1,1 +1,1 @@
-var mnemonic = "art source load chicken border mass match sleep economy pilot grunt nasty";
+var mnemonic = "battle sad popular young child kick jaguar away husband erase outside town";

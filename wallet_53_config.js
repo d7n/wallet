@@ -1,1 +1,1 @@
-var mnemonic = "miracle raise solar layer soft dog middle rebuild world tray crush sell";
+var mnemonic = "obtain catalog alpha camera live connect rifle concert region uphold between reopen";

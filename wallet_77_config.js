@@ -1,1 +1,1 @@
-var mnemonic = "drill runway live civil tumble equal awake supply echo eagle mountain defy";
+var mnemonic = "confirm medal soup toss more power wagon crush view runway acid rebuild";

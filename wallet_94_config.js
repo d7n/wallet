@@ -1,1 +1,1 @@
-var mnemonic = "surge into paddle act uphold impulse you topple usage travel depend isolate";
+var mnemonic = "yard toy frog dry wealth mystery enrich language tape order right harvest";

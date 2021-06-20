@@ -1,1 +1,1 @@
-var mnemonic = "casual impulse crystal scare angry easily wheat entire table slab inspire tonight";
+var mnemonic = "twelve exile angle virus explain glance elder aerobic surprise scissors loyal bean";

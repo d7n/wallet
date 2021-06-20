@@ -1,1 +1,1 @@
-var mnemonic = "resource fold ahead risk vessel enjoy kitten abstract present mass target guide";
+var mnemonic = "deposit grant check cattle smart pole dutch mask rubber valve dry spy";

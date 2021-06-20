@@ -1,1 +1,1 @@
-var mnemonic = "merge define jump thrive little brick oil disease custom orbit glass merit";
+var mnemonic = "flower project project weasel legend nasty rather oblige expire age fringe before";

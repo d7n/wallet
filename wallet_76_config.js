@@ -1,1 +1,1 @@
-var mnemonic = "wild economy section transfer draw admit embrace march toe member celery exhaust";
+var mnemonic = "east swarm crazy merge light vintage chunk glance shaft sword mansion near";

@@ -1,1 +1,1 @@
-var mnemonic = "shine debris chalk screen group fuel flower skin donkey eight noodle whip";
+var mnemonic = "pizza fall wish dizzy voyage predict country bamboo achieve impose approve aim";

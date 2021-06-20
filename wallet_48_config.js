@@ -1,1 +1,1 @@
-var mnemonic = "feature return spoil around marriage obscure time subject garden agent surface foot";
+var mnemonic = "proud welcome solar labor pride hamster arrange distance truck exotic hurdle oil";

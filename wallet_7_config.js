@@ -1,1 +1,1 @@
-var mnemonic = "pyramid lunch bleak chuckle tip spawn sick faint satoshi comic mirror knock";
+var mnemonic = "hair sunset slush coyote possible teach margin hockey average blame midnight regular";

@@ -1,1 +1,1 @@
-var mnemonic = "thing kit garlic cereal virtual tank put flame phone end circle hurt";
+var mnemonic = "dismiss deny power half derive foot debris dose pole drama umbrella casino";

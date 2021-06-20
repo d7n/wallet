@@ -1,1 +1,1 @@
-var mnemonic = "happy excite air pupil swallow pair inspire jungle expand lyrics shell floor";
+var mnemonic = "robot congress urge soup this song clap embark echo awful gun assault";

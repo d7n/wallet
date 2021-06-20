@@ -1,1 +1,1 @@
-var mnemonic = "drop bronze decade awake tobacco grab daring six search season close any";
+var mnemonic = "divert foil there earn heavy reveal squeeze vocal slim armed canvas post";

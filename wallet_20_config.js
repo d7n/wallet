@@ -1,1 +1,1 @@
-var mnemonic = "loyal cream need tuition okay skate actor arrest review brave wheat picture";
+var mnemonic = "giraffe glue popular heart decrease motion vacuum example fatal witness tiny plunge";

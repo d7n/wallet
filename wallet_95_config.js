@@ -1,1 +1,1 @@
-var mnemonic = "slam speak life chief effort table umbrella cross matter despair evolve letter";
+var mnemonic = "crane tuition inner merge brother luggage siege embrace pudding regular pause inhale";

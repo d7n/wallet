@@ -1,1 +1,1 @@
-var mnemonic = "solid pistol favorite couch practice possible trash appear spy ceiling bundle floor";
+var mnemonic = "nasty drip swamp marriage rent best across popular cycle address start abstract";

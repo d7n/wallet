@@ -1,1 +1,1 @@
-var mnemonic = "online rain venue people couch history gorilla comfort rapid joke raccoon tattoo";
+var mnemonic = "reduce exchange pottery short crash risk organ eight basic major direct govern";

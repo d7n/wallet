@@ -1,1 +1,1 @@
-var mnemonic = "major grow taxi erosion hundred gold fan voyage sheriff win bundle wage";
+var mnemonic = "question disorder home method mushroom embody flee near love where toward toe";

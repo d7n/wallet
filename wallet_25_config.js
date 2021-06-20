@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon horn avoid language thrive flush cigar home fashion hockey purpose wolf";
+var mnemonic = "lake fiber improve upon false modify ski blur until useful author second";

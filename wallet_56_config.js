@@ -1,1 +1,1 @@
-var mnemonic = "moon rain swarm asthma seed ride coral coyote ribbon master gossip normal";
+var mnemonic = "champion roof figure earn release spike city life mango error blade dumb";

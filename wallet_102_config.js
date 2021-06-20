@@ -1,1 +1,1 @@
-var mnemonic = "turn quantum secret any clarify wrestle carry nut save boost biology rent";
+var mnemonic = "topic taste half lens motor jewel rug salute surface sun wealth woman";

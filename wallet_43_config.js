@@ -1,1 +1,1 @@
-var mnemonic = "lava acoustic net bread flower close notable exit battle flower ridge famous";
+var mnemonic = "grass kitchen heart ready enforce supreme napkin legend swarm weird like correct";

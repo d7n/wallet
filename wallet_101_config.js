@@ -1,1 +1,1 @@
-var mnemonic = "prize other pear table easily viable profit clown sunset scene runway snake";
+var mnemonic = "raccoon maple pottery bitter shy blast setup party shove basket mad impulse";

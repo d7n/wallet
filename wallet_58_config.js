@@ -1,1 +1,1 @@
-var mnemonic = "cute reopen special grain virus fashion across engage proud gloom jewel chief";
+var mnemonic = "blue lens length result like where youth forum seek boss suffer disorder";

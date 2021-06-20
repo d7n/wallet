@@ -1,1 +1,1 @@
-var mnemonic = "miracle tone april random license final voice leisure various cheese angle salute";
+var mnemonic = "fault purpose clip shrug road question clinic virus pupil parent thank height";

@@ -1,1 +1,1 @@
-var mnemonic = "captain sound version token nice grocery panic name muscle worry copy clarify";
+var mnemonic = "short green mansion people salmon deer someone prosper van destroy forget lemon";

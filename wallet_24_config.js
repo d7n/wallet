@@ -1,1 +1,1 @@
-var mnemonic = "elder loud melody regular entire lake filter warm junk range daring north";
+var mnemonic = "together tribe lesson lunch truth army stereo sketch easily net banana rough";

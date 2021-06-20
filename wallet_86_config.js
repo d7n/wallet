@@ -1,1 +1,1 @@
-var mnemonic = "want autumn this final warrior degree cancel nut brass print limb stay";
+var mnemonic = "twin maze purchase mesh later culture dust squeeze warfare notice burst shove";

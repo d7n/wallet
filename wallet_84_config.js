@@ -1,1 +1,1 @@
-var mnemonic = "young shield marble option depend example danger turtle pitch lawn strike height";
+var mnemonic = "race kiwi device same west arrest festival until acid online brown mandate";

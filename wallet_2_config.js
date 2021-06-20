@@ -1,1 +1,1 @@
-var mnemonic = "click beach check length nice viable bracket demand edge adjust emerge garden";
+var mnemonic = "popular service mango reveal real rescue found van mom veteran hen relax";

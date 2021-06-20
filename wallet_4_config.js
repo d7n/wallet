@@ -1,1 +1,1 @@
-var mnemonic = "million churn judge viable mule bid skate wisdom relax wink process stick";
+var mnemonic = "armor super reason metal crazy antenna crater tomorrow fun enact slender hazard";

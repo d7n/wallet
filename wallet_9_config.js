@@ -1,1 +1,1 @@
-var mnemonic = "child cube into spice enemy lens exhaust document sugar liberty rack crouch";
+var mnemonic = "essay vendor spike gasp answer shallow capable lend future yellow dynamic response";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend please hint idle ceiling biology sphere hollow frown holiday magnet cushion";
+var mnemonic = "hub fix artefact course harbor weird defense funny float wife boat wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant cool method wonder enrich sail donor security pass always useless mixture";
+var mnemonic = "category throw sister cable depend toy observe bacon six squeeze canyon round";

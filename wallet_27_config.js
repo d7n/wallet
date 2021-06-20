@@ -1,1 +1,1 @@
-var mnemonic = "burger sick valley salon travel alpha garage enforce govern eager mad yellow";
+var mnemonic = "abandon sadness absent hazard horror test van wild final round ship tumble";

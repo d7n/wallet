@@ -1,1 +1,1 @@
-var mnemonic = "veteran distance kind trap immune distance fuel insect unaware unaware orange prosper";
+var mnemonic = "caught endless secret issue twice upper sure draft forum purity youth pluck";

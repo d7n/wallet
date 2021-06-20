@@ -1,1 +1,1 @@
-var mnemonic = "mistake payment extend wall finish jazz minimum century equal resource mass blanket";
+var mnemonic = "mango surprise giant embrace trash process fringe member quick sting roof hazard";

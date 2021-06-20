@@ -1,1 +1,1 @@
-var mnemonic = "fancy proof just liberty false spike pink charge minor arrow grass crawl";
+var mnemonic = "maid miss unaware buddy mass theme crumble pool surface inform proud enable";

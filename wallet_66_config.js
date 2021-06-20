@@ -1,1 +1,1 @@
-var mnemonic = "endless best fade arrow film away strike work print canvas width left";
+var mnemonic = "visa diet alpha notice void destroy imitate situate rabbit mixed reject alarm";

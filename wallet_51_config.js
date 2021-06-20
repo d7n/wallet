@@ -1,1 +1,1 @@
-var mnemonic = "program team jaguar slow alert reflect pulp search coast emotion noise mirror";
+var mnemonic = "tunnel hood observe vapor nice april rescue dial social absorb song sand";

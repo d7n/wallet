@@ -1,1 +1,1 @@
-var mnemonic = "small tone section civil width buddy layer cart fetch tone tenant member";
+var mnemonic = "fringe blanket list hope struggle level fancy rice future gloom rigid fabric";

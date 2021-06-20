@@ -1,1 +1,1 @@
-var mnemonic = "radio unaware aisle figure pioneer now scan jazz blue useless combine artist";
+var mnemonic = "add divert guide lounge copy effort ordinary rule account hero example sense";

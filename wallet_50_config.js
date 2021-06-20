@@ -1,1 +1,1 @@
-var mnemonic = "figure film myself rich fold inform blind disorder illegal huge burger urban";
+var mnemonic = "help panel pupil shaft surround ripple transfer wheat salt dumb river festival";

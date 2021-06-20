@@ -1,1 +1,1 @@
-var mnemonic = "grunt enforce virus spirit then crisp never lens cage glance message scare";
+var mnemonic = "monster vacant olympic into harbor avocado marriage patch nest hover choice library";

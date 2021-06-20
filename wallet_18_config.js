@@ -1,1 +1,1 @@
-var mnemonic = "attitude figure method able dune cage prefer install immune enemy alpha ribbon";
+var mnemonic = "deny mosquito dismiss cup nominee beauty hat gesture crash smart repeat nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker trick father upper impose match pen priority banana ostrich grab sad";
+var mnemonic = "volume daring alarm brief story deposit menu flower marine occur prosper again";

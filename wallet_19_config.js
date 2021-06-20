@@ -1,1 +1,1 @@
-var mnemonic = "leaf ramp apology cable foam middle denial copper inhale source medal super";
+var mnemonic = "tobacco report ethics dilemma edit siege brown scale scheme wave lock message";

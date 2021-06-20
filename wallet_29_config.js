@@ -1,1 +1,1 @@
-var mnemonic = "arctic pottery nothing typical shuffle ceiling table crouch gun salon tongue figure";
+var mnemonic = "alley wait shield ocean able siege shove uncover tip raise wool tail";

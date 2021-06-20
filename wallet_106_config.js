@@ -1,1 +1,1 @@
-var mnemonic = "vivid riot forward thunder crystal armed obscure transfer mutual label blossom know";
+var mnemonic = "present focus setup remind youth bless unique similar bunker evil furnace brief";

@@ -1,1 +1,1 @@
-var mnemonic = "have inside shuffle note unlock sweet odor arena kidney hat fuel swamp";
+var mnemonic = "pool winner allow dolphin census video leisure include borrow diamond always oppose";

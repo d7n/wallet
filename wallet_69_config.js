@@ -1,1 +1,1 @@
-var mnemonic = "normal jazz desert cool amazing scrub awful theory pudding various ketchup ticket";
+var mnemonic = "budget comic tool wheat select have weird require smile sure fever age";

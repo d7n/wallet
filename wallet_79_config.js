@@ -1,1 +1,1 @@
-var mnemonic = "public lawsuit scale depend brave chaos always sport unfold spice thumb orphan";
+var mnemonic = "control supply decade light unaware health soul park grass scale lunar spend";

@@ -1,1 +1,1 @@
-var mnemonic = "market ecology pause song wonder same tuna concert genius salt devote street";
+var mnemonic = "sight pride source mercy globe sister cake today blossom tree trial steak";

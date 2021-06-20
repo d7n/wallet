@@ -1,1 +1,1 @@
-var mnemonic = "member staff giant end train situate fence desk fever hunt body entry";
+var mnemonic = "grab air dumb put when nation clean pledge arrow verify slight venture";

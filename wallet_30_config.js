@@ -1,1 +1,1 @@
-var mnemonic = "shaft crane sense river charge nominee course churn wire food knee tomorrow";
+var mnemonic = "buddy village surround tip settle there satoshi airport flag surface exile grape";

@@ -1,1 +1,1 @@
-var mnemonic = "void sauce donor fresh ancient tide over expire chest broken verb plunge";
+var mnemonic = "gather stone push outer yard leg true forum aerobic give bus own";

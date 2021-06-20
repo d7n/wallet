@@ -1,1 +1,1 @@
-var mnemonic = "nerve kid void display happy lonely cinnamon park smile rotate reduce lamp";
+var mnemonic = "detail sound fit lucky dinosaur human case swarm clever ski myself joy";
