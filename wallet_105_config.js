@@ -1,1 +1,1 @@
-var mnemonic = "chimney fabric mercy wolf moon hole deal merry they odor ceiling brick";
+var mnemonic = "blanket banana deposit senior panther pink pen family that insect gesture eight";

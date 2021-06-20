@@ -1,1 +1,1 @@
-var mnemonic = "shadow force violin private scheme find side emotion deer dentist type address";
+var mnemonic = "bid artist soft thrive globe room child silly divert glare siren flavor";

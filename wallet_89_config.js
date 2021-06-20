@@ -1,1 +1,1 @@
-var mnemonic = "allow chuckle public december wedding inside manual tattoo tool audit crunch furnace";
+var mnemonic = "main quantum brick tragic drift trophy glide increase filter basic detail cabin";

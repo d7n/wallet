@@ -1,1 +1,1 @@
-var mnemonic = "often coffee style since code exotic rather donor flat stamp disease favorite";
+var mnemonic = "normal swarm hint bulk raven buddy online mother correct guide forest capable";

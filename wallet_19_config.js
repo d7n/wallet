@@ -1,1 +1,1 @@
-var mnemonic = "copy wise another laundry intact distance wait smooth ranch trade convince token";
+var mnemonic = "danger victory claim miss paddle control grit harvest food remain observe float";

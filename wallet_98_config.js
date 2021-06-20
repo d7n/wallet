@@ -1,1 +1,1 @@
-var mnemonic = "image spin girl welcome woman athlete pull company dismiss acoustic year dad";
+var mnemonic = "pizza daring south knife arctic rail head mercy rookie punch hammer hidden";

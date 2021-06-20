@@ -1,1 +1,1 @@
-var mnemonic = "goose clown kingdom baby discover donkey hello peanut desk later there earth";
+var mnemonic = "ripple relief jelly fury soon winter resemble width album category top draw";

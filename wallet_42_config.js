@@ -1,1 +1,1 @@
-var mnemonic = "material bargain chief tag victory come bacon marriage salmon sad caught secret";
+var mnemonic = "pair milk party brush risk engine segment please east hundred useful tide";

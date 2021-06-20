@@ -1,1 +1,1 @@
-var mnemonic = "hotel edit desk wasp toddler awesome innocent earth trap labor busy room";
+var mnemonic = "scene identify hero sentence tortoise dentist public virtual width deputy tourist proof";

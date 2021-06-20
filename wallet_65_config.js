@@ -1,1 +1,1 @@
-var mnemonic = "inch spring only matter organ enter twice pipe carpet purpose mask ketchup";
+var mnemonic = "stage filter badge shaft satisfy east glow guard barrel state echo salute";

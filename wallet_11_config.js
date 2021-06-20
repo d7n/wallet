@@ -1,1 +1,1 @@
-var mnemonic = "brief stamp lawsuit pet wagon table century hammer rotate rude install win";
+var mnemonic = "nerve ripple history soul use sea grain hole snake swarm gather wreck";

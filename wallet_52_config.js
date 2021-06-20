@@ -1,1 +1,1 @@
-var mnemonic = "expand canoe mom network lobster unit fence avocado much leg run mistake";
+var mnemonic = "juice prepare possible banner flush together screen uniform embrace suspect eagle transfer";

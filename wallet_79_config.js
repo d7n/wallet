@@ -1,1 +1,1 @@
-var mnemonic = "winner kingdom document promote theory hat romance wasp exact illness music bench";
+var mnemonic = "digital gesture lecture divide front ship major banana retire curtain brick coil";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug laptop mistake record outer absurd reduce summer year huge father nature";
+var mnemonic = "perfect expand casino balance tunnel slight mansion suffer luxury gather wear desert";

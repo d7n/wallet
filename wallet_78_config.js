@@ -1,1 +1,1 @@
-var mnemonic = "foster soul train island pattern chief tornado friend demand random sick neck";
+var mnemonic = "business train hamster divide weekend label juice switch dry busy industry noble";

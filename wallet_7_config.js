@@ -1,1 +1,1 @@
-var mnemonic = "document time exchange song wear spoil obscure swamp clock arrive hint electric";
+var mnemonic = "cruise motor verify cable entry mirror swamp happy moment quote leave shift";

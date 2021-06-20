@@ -1,1 +1,1 @@
-var mnemonic = "twist one antique mass program want color mirror miss piece payment wealth";
+var mnemonic = "under umbrella second scene chronic genius other cereal vocal beauty unable sting";

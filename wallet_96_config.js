@@ -1,1 +1,1 @@
-var mnemonic = "bright enjoy staff demise measure firm helmet tattoo become unable body tone";
+var mnemonic = "prefer pottery struggle purse winter sail harbor ball what hat decade more";

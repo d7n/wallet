@@ -1,1 +1,1 @@
-var mnemonic = "spirit sadness rely oil neither slight shield seat ozone armed such list";
+var mnemonic = "mistake noble near frequent ketchup desk salad sausage wave few biology web";

@@ -1,1 +1,1 @@
-var mnemonic = "elder spider trim time close insane afford among wear cook bridge page";
+var mnemonic = "hospital boost help two balcony soft spare clump small code color palace";

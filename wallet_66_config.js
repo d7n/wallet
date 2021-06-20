@@ -1,1 +1,1 @@
-var mnemonic = "patch slam tornado relax rent usual occur pulp define glance injury first";
+var mnemonic = "reveal subject foster rack mechanic actor taste tornado deposit wheat cotton boil";

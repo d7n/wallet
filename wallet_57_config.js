@@ -1,1 +1,1 @@
-var mnemonic = "art clay market boat vote special leader beach cigar scout flee believe";
+var mnemonic = "upper ill gospel jar abuse garden across page night awake taxi shoe";

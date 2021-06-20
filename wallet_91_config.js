@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit illness spider ecology dress rather fix hazard evil worth sport need";
+var mnemonic = "glad reveal eight south donkey sleep boss name pony apple cattle detect";

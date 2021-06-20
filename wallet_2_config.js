@@ -1,1 +1,1 @@
-var mnemonic = "ignore visa custom march right gown banana fire ordinary heavy repair spare";
+var mnemonic = "misery execute scare animal direct trick coral section snack cart strike belt";

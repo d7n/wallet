@@ -1,1 +1,1 @@
-var mnemonic = "hill fringe swallow sight spring brief issue enemy wide two cat fish";
+var mnemonic = "tuition chest culture fragile shell front aunt echo average clap lesson into";

@@ -1,1 +1,1 @@
-var mnemonic = "copper blanket fetch nominee nephew mango often success afford crucial north depth";
+var mnemonic = "auto lion combine badge disagree song legend universe curtain off champion local";

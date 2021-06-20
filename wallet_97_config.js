@@ -1,1 +1,1 @@
-var mnemonic = "host century stove invite trap witness regret portion donor tattoo satisfy able";
+var mnemonic = "regular grant coil siren spice banana brush express blossom kite movie rookie";

@@ -1,1 +1,1 @@
-var mnemonic = "apology toe pass length when this giraffe auto float another village degree";
+var mnemonic = "vicious diamond oppose swing comic palm crane year coffee brass priority case";

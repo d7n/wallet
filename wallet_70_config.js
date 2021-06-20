@@ -1,1 +1,1 @@
-var mnemonic = "shadow romance stuff clinic record praise sad amazing identify stereo custom item";
+var mnemonic = "air balance same myth until pond guard sight dress eye one once";

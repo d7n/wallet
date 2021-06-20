@@ -1,1 +1,1 @@
-var mnemonic = "wall monitor slogan law debate into curve term purpose group quiz bus";
+var mnemonic = "sustain conduct camera protect basic tray hover parent ability bundle middle owner";

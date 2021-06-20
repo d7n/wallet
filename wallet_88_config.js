@@ -1,1 +1,1 @@
-var mnemonic = "imitate style pool develop view work away little early buzz exact owner";
+var mnemonic = "flavor move mix west loan remember ride faculty insect able lift pink";

@@ -1,1 +1,1 @@
-var mnemonic = "music spread dial shoe cute cricket brush transfer churn kick fire come";
+var mnemonic = "ripple final left fragile dilemma hand garlic artist cable gate very moment";

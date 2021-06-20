@@ -1,1 +1,1 @@
-var mnemonic = "logic first stove hazard razor slush cabbage will reject local baby wing";
+var mnemonic = "foil cushion scheme disagree snack bulb mind trade coconut dilemma helmet bind";

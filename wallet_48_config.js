@@ -1,1 +1,1 @@
-var mnemonic = "start nose must report abstract warrior motion excess beef palm ignore purity";
+var mnemonic = "claim gown pudding margin absorb wife enforce setup motor stage fence excite";

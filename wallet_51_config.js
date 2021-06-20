@@ -1,1 +1,1 @@
-var mnemonic = "frozen always feature true mistake stem elegant brand repeat muscle wolf speed";
+var mnemonic = "angry chuckle cinnamon jungle upset invest summer convince image era risk drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "alley water cage task food song such critic castle please turtle permit";
+var mnemonic = "round budget cabbage eyebrow index royal fence joy husband stuff wine mimic";

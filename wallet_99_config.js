@@ -1,1 +1,1 @@
-var mnemonic = "receive magic gold light century victory nature affair devote scissors add shadow";
+var mnemonic = "sunset sure knock board exact frozen library please joy super target inch";

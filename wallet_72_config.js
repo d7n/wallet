@@ -1,1 +1,1 @@
-var mnemonic = "bean practice romance cannon include pony sense leopard spell change strike pulse";
+var mnemonic = "response attitude bid essence step wise effort tennis estate add hobby curious";

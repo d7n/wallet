@@ -1,1 +1,1 @@
-var mnemonic = "device service item leaf bullet mother offer web summer collect account tenant";
+var mnemonic = "capital reveal rule rail van then radio search rent acoustic slow seed";

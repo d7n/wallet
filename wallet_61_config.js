@@ -1,1 +1,1 @@
-var mnemonic = "next wage ocean ticket swift usage run heavy spoon fine odor hotel";
+var mnemonic = "travel creek fee blue submit lamp weasel jump also biology when secret";

@@ -1,1 +1,1 @@
-var mnemonic = "cute skull rough kiwi elegant over bronze typical tag private novel evolve";
+var mnemonic = "decide liberty village cheese fetch decorate material cement menu barely force chaos";

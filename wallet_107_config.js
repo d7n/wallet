@@ -1,1 +1,1 @@
-var mnemonic = "question asset used easily airport carbon toy neglect assist volcano trap rate";
+var mnemonic = "mercy thought damp razor ahead mesh audit record century bubble display cancel";

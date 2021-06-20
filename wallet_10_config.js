@@ -1,1 +1,1 @@
-var mnemonic = "carbon replace symptom boat icon diamond foot road picnic protect kiss engage";
+var mnemonic = "merit upon exhibit suit usage wage phrase library short frame utility harbor";

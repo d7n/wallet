@@ -1,1 +1,1 @@
-var mnemonic = "window list clutch scissors decade filter bid oxygen pudding bottom inner peace";
+var mnemonic = "general cradle dust rocket frost same skill festival cram industry smoke sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "foil pizza family muffin fabric leg survey sibling load submit narrow doctor";
+var mnemonic = "taxi october muscle gate right frequent web pill oxygen size solution crisp";

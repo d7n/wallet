@@ -1,1 +1,1 @@
-var mnemonic = "twelve heavy horn easily era tunnel piano negative finger boss lake sure";
+var mnemonic = "sock cage scout goose absorb good depend hard apart horror vessel worry";

@@ -1,1 +1,1 @@
-var mnemonic = "round soap draft bubble just north adult ancient fee entire emerge focus";
+var mnemonic = "image water position evidence chalk target fetch deer maple holiday security initial";

@@ -1,1 +1,1 @@
-var mnemonic = "improve idle screen fatal foil seat attitude sorry blue sight wasp rebuild";
+var mnemonic = "renew fiscal peasant galaxy powder sorry thing final fresh genre pole issue";

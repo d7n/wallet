@@ -1,1 +1,1 @@
-var mnemonic = "voice wisdom hamster enable section amateur mass deputy job again million endorse";
+var mnemonic = "coach truck mutual detect stick vital measure whip lock unit gossip popular";

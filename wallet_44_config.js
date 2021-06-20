@@ -1,1 +1,1 @@
-var mnemonic = "invest rent section pool hub damp reason taxi elder end magnet famous";
+var mnemonic = "sun sponsor bronze bracket glory mesh grit debris eight olympic blanket simple";

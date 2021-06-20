@@ -1,1 +1,1 @@
-var mnemonic = "parade sock daring spin fruit boost step lamp bamboo rhythm sniff betray";
+var mnemonic = "earn dwarf dinner near fish soda forest together source actor room world";

@@ -1,1 +1,1 @@
-var mnemonic = "snap oblige funny mango six fade retire jealous orange face soda despair";
+var mnemonic = "must typical heart giant approve crouch fatigue carry tongue medal thought audit";

@@ -1,1 +1,1 @@
-var mnemonic = "thank attract pluck debate slim orient version promote silver quality hen during";
+var mnemonic = "govern item person inflict symptom future battle approve decade mule hold early";

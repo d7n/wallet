@@ -1,1 +1,1 @@
-var mnemonic = "original start skin critic few duck pet stick portion leave author razor";
+var mnemonic = "fee copper skin dirt ripple all snap sibling risk crazy canoe loud";

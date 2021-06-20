@@ -1,1 +1,1 @@
-var mnemonic = "logic light crisp shell purse clap expect thank cream tip penalty surround";
+var mnemonic = "bunker around tool meadow term foil fabric syrup black maximum wall jazz";

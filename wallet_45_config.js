@@ -1,1 +1,1 @@
-var mnemonic = "squirrel leader hurry dose beyond laugh link junk hidden label chief patient";
+var mnemonic = "heavy chalk talk dress citizen viable company place affair provide initial best";

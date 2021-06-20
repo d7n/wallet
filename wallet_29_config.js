@@ -1,1 +1,1 @@
-var mnemonic = "trim priority cream novel jazz quarter vanish cinnamon about print illegal kind";
+var mnemonic = "fine stay frame barely loop pond rifle climb mushroom wheel foster dwarf";

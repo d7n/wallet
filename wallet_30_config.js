@@ -1,1 +1,1 @@
-var mnemonic = "very vote cool patch doll often impose crush equip often kiwi gesture";
+var mnemonic = "picnic away warrior media illegal forget demise very follow basket clinic subway";

@@ -1,1 +1,1 @@
-var mnemonic = "frog differ wear include pipe clarify double boat stool dumb obey faculty";
+var mnemonic = "relief prize pledge illness ensure inherit cave club oppose lend blast vocal";

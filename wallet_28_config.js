@@ -1,1 +1,1 @@
-var mnemonic = "hill ramp load critic circle burst culture guide leisure paper mixture replace";
+var mnemonic = "cruel sample fiction sample bamboo more relief evil vast odor orbit guilt";

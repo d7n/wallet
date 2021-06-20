@@ -1,1 +1,1 @@
-var mnemonic = "work praise language evoke few motor coast original area engage axis master";
+var mnemonic = "vicious favorite square erupt paddle wave nation topic mule rail repair memory";

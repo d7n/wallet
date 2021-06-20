@@ -1,1 +1,1 @@
-var mnemonic = "essay field position glad empower version outdoor derive arrow festival they kiss";
+var mnemonic = "spatial wrist acoustic barrel secret search boost sample boss cable twice monkey";

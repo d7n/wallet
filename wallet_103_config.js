@@ -1,1 +1,1 @@
-var mnemonic = "club pizza fragile rice scare lawn echo health music syrup always daughter";
+var mnemonic = "gloom uncover bean cute crater comic hope local link snack silly nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "circle devote lava prefer bacon fluid voyage arm current paper fever luxury";
+var mnemonic = "spoon fine apology forget party cancel dance include vocal unfold kangaroo insect";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk cement devote spend chair naive evidence account deal review crystal trick";
+var mnemonic = "vapor gaze rain guess load winner cherry team stairs diagram goose cook";

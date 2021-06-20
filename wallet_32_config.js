@@ -1,1 +1,1 @@
-var mnemonic = "menu false secret valid whale cute range burger domain pride situate crucial";
+var mnemonic = "off betray hip vital lottery deer speak image era bullet fortune exhibit";

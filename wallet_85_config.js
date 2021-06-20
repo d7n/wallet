@@ -1,1 +1,1 @@
-var mnemonic = "plug seed vast damp vapor grit shed side envelope embrace double final";
+var mnemonic = "hand raw work relax liar female portion mail tail door cinnamon ribbon";

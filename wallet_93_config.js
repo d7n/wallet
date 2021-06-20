@@ -1,1 +1,1 @@
-var mnemonic = "fringe dish battle renew cave slogan dose erode choice hybrid engage stick";
+var mnemonic = "draft exercise tattoo cash buzz present jazz equip awake exist vacant member";

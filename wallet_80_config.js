@@ -1,1 +1,1 @@
-var mnemonic = "fatigue nation garage maze near horn syrup song grocery super analyst save";
+var mnemonic = "mushroom mirror amazing during mobile price domain board example kick veteran long";

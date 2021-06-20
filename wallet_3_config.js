@@ -1,1 +1,1 @@
-var mnemonic = "entire mean real caution canal viable history mom miracle apart electric two";
+var mnemonic = "patient gospel diet hand crisp pool diet retreat candy tiny mass frequent";

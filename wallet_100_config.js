@@ -1,1 +1,1 @@
-var mnemonic = "apology dilemma forward item cruise awful rough dirt clever glue again brown";
+var mnemonic = "upper sunny loop wrap range proof caught ivory thumb between purpose moment";

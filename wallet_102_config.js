@@ -1,1 +1,1 @@
-var mnemonic = "choose exhaust brisk puppy rebuild drum improve ivory argue victory wash unique";
+var mnemonic = "sweet cluster palace spring shield dash smile pact width vintage syrup fresh";

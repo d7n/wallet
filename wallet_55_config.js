@@ -1,1 +1,1 @@
-var mnemonic = "point kid income crane since quantum van hello choose elevator hub unusual";
+var mnemonic = "sword involve shrimp pulse minor twelve baby gossip movie verb joy february";

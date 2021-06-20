@@ -1,1 +1,1 @@
-var mnemonic = "sleep power nut lava swing salon cream sort rapid cargo soccer anger";
+var mnemonic = "glide broom wide dumb large police hen hospital either earn evolve pet";

@@ -1,1 +1,1 @@
-var mnemonic = "flee talk pave claw vote soldier wife poem tiny snow example calm";
+var mnemonic = "festival fix rain decorate draft recycle best strike average vibrant bronze square";

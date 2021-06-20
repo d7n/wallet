@@ -1,1 +1,1 @@
-var mnemonic = "pizza build cattle when visa curve slush shrimp casual dove vintage suffer";
+var mnemonic = "month gun wash sweet name scissors ordinary umbrella smooth burden clarify flower";

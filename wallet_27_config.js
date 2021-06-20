@@ -1,1 +1,1 @@
-var mnemonic = "kidney breeze taxi smile switch text raw excess again patrol monster outside";
+var mnemonic = "off onion cost wonder what pluck appear glass joke artefact hint scale";

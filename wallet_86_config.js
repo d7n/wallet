@@ -1,1 +1,1 @@
-var mnemonic = "diesel phone slight auction ship steak vehicle daughter soft curious nuclear frog";
+var mnemonic = "movie twist debate argue subject observe eager remain vendor crane funny lab";

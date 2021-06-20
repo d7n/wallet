@@ -1,1 +1,1 @@
-var mnemonic = "wood meadow box black crash degree promote fatigue enemy shield deer bar";
+var mnemonic = "remain human joke lunar wrap buyer orange desk worry mirror small include";

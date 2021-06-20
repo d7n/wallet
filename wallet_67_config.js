@@ -1,1 +1,1 @@
-var mnemonic = "divide wild rain disagree civil ask invite vital point note loan execute";
+var mnemonic = "pigeon shed novel rule favorite person resist chalk glory volume cattle entry";

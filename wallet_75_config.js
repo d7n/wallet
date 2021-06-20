@@ -1,1 +1,1 @@
-var mnemonic = "arrive aerobic occur saddle group coffee delay banana refuse install antenna ghost";
+var mnemonic = "near neglect bag service clean clock usual because garlic tongue unknown tenant";

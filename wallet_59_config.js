@@ -1,1 +1,1 @@
-var mnemonic = "dragon powder tribe sport wet soap custom doll tower wine initial elegant";
+var mnemonic = "draw thought payment minimum ill castle demand vacant snack actor between decide";

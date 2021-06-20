@@ -1,1 +1,1 @@
-var mnemonic = "response okay journey sure bring oxygen column device piece verb scrap erupt";
+var mnemonic = "chalk crowd pretty tomato gain approve jeans old spirit rubber wasp auto";

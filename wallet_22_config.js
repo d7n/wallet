@@ -1,1 +1,1 @@
-var mnemonic = "alcohol state glimpse tube prevent enact beyond alone cruel funny swim input";
+var mnemonic = "still wait deputy device blast path crowd bunker sign unaware air display";

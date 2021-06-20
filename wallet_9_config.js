@@ -1,1 +1,1 @@
-var mnemonic = "swamp grass fruit surround ensure seek august deposit typical text choice sock";
+var mnemonic = "between priority coffee cave naive garlic number dove summer rhythm just outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt glove obvious use chase toddler magic gallery mistake awful rough worth";
+var mnemonic = "quiz across push drum sponsor surround stay concert miracle thrive paddle captain";

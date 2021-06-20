@@ -1,1 +1,1 @@
-var mnemonic = "dwarf stamp dose gloom shaft deal category during thrive short insect vacuum";
+var mnemonic = "distance change whip defy victory cupboard nothing that faith innocent rather airport";

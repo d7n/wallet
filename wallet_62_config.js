@@ -1,1 +1,1 @@
-var mnemonic = "enable indicate aisle hammer trigger april goat atom mandate secret bachelor engage";
+var mnemonic = "fold maid media tape length you door dry easy brief help rally";

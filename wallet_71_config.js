@@ -1,1 +1,1 @@
-var mnemonic = "measure permit market patrol turtle child annual short wasp spell man another";
+var mnemonic = "peasant fringe race salon snack soul arrow nation wheat random feed beyond";

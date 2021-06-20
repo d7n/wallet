@@ -1,1 +1,1 @@
-var mnemonic = "fatal zone predict clerk hammer profit lawn few indicate abuse avoid minor";
+var mnemonic = "shove artefact world bonus toast arrow token waste basic bicycle afraid eye";

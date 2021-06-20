@@ -1,1 +1,1 @@
-var mnemonic = "cushion nice flame task mail cradle way arch rent possible anchor file";
+var mnemonic = "juice option later emerge color gasp phone detail picnic genuine logic turkey";

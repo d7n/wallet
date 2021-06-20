@@ -1,1 +1,1 @@
-var mnemonic = "inspire dust differ engage future weasel scheme dolphin buzz dynamic concert media";
+var mnemonic = "hire weekend bread pilot leg arrest save laundry blur certain shop version";

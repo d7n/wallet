@@ -1,1 +1,1 @@
-var mnemonic = "return error consider cruel wire festival kidney wet memory polar fly topple";
+var mnemonic = "head system ketchup cannon suspect follow hip portion valve loop rare small";
