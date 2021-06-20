@@ -1,1 +1,1 @@
-var mnemonic = "ask nice obscure useful top ecology crime coin cigar better arrest omit";
+var mnemonic = "lunar panic picture nuclear repeat access right never hard alpha kite small";

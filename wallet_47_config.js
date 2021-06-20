@@ -1,1 +1,1 @@
-var mnemonic = "audit rose garlic skull color illegal oven clump ride behind fury letter";
+var mnemonic = "whale elbow entry cart cook teach bargain cable people install achieve gain";

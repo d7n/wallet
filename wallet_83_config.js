@@ -1,1 +1,1 @@
-var mnemonic = "ten curtain save sword hurt stomach video mercy pave during autumn lobster";
+var mnemonic = "nephew tag aspect prevent tide only mango property target rail around arctic";

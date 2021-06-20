@@ -1,1 +1,1 @@
-var mnemonic = "canal myth mixed drum battle rule nice believe silver robot snake price";
+var mnemonic = "alley orange merit rebuild supply acoustic enrich either face wife trick script";

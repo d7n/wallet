@@ -1,1 +1,1 @@
-var mnemonic = "rain alien razor wheel warm uphold round miss salute among left cradle";
+var mnemonic = "scan power hurdle squeeze rebuild uncle athlete output country afford lyrics gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "broken license science truly man grace venture fan soul alert burden winter";
+var mnemonic = "current forum broom enough orange true claim habit duty make admit mix";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors shift wink buffalo notice exhaust point rain shield iron front world";
+var mnemonic = "install office process kick purity piece put trend vacuum usual lucky lamp";

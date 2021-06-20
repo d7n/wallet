@@ -1,1 +1,1 @@
-var mnemonic = "allow stamp near naive practice coffee vacant bench student true gate sell";
+var mnemonic = "decade vessel rug twice bring room split tired flee say spawn output";

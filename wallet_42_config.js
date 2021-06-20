@@ -1,1 +1,1 @@
-var mnemonic = "hammer fan child much position rate brush coyote motor charge level swap";
+var mnemonic = "fever tennis speak disagree afraid color wife first lend glow response hungry";

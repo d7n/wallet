@@ -1,1 +1,1 @@
-var mnemonic = "custom shield accident blush master measure pond glimpse domain claim portion confirm";
+var mnemonic = "resist protect fit cash asthma lesson hint deputy marine menu soft multiply";

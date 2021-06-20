@@ -1,1 +1,1 @@
-var mnemonic = "quit again perfect energy road bag observe maid regret jeans rubber cheap";
+var mnemonic = "predict sustain priority easy iron coyote flag waste castle sail adapt absent";

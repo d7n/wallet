@@ -1,1 +1,1 @@
-var mnemonic = "swim lawsuit snap swap morning favorite river cheese program machine child normal";
+var mnemonic = "chicken car proof again online track car special screen control interest immense";

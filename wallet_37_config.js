@@ -1,1 +1,1 @@
-var mnemonic = "ensure switch tennis awful kitten wild arena wish connect magnet add scorpion";
+var mnemonic = "echo soul galaxy image broccoli multiply usage derive bachelor anchor gospel dry";

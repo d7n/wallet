@@ -1,1 +1,1 @@
-var mnemonic = "sail ball thumb raw syrup light nice dial mistake soldier parrot drastic";
+var mnemonic = "devote shed delay charge into never cruel wealth panic that quantum funny";

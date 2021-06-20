@@ -1,1 +1,1 @@
-var mnemonic = "shoot magnet power dust left obscure mandate apple copy twelve exclude wink";
+var mnemonic = "piano sauce glare danger lunch script violin eyebrow hobby debris state grape";

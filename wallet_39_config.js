@@ -1,1 +1,1 @@
-var mnemonic = "transfer target dutch curtain citizen cool task rich stand inch chef emerge";
+var mnemonic = "budget alert dove afford omit draw novel code orient move battle champion";

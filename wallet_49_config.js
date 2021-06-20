@@ -1,1 +1,1 @@
-var mnemonic = "hidden marble useful sister actress remove drop quit memory disorder witness kitchen";
+var mnemonic = "arrange ring renew planet kidney avoid only will crop skate sphere carpet";

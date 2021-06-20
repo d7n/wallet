@@ -1,1 +1,1 @@
-var mnemonic = "pave fee napkin high focus supreme practice thunder eager acoustic desert gas";
+var mnemonic = "dilemma arch record brush lucky wasp hockey collect result belt palace walnut";

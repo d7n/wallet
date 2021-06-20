@@ -1,1 +1,1 @@
-var mnemonic = "cruise sausage gown cube afraid glory train normal six dress attend carbon";
+var mnemonic = "moral glue timber swing speak author believe empty tell betray any recipe";

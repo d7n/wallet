@@ -1,1 +1,1 @@
-var mnemonic = "favorite dentist general census hidden educate dance engage boat hero side outdoor";
+var mnemonic = "race duck bird receive chat burger enable lens test any topple army";

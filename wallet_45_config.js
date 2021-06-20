@@ -1,1 +1,1 @@
-var mnemonic = "happy run fit salt couple banner aim purpose river pause easy cloud";
+var mnemonic = "various car auto pudding cream miss dry diagram opera evil ozone endless";

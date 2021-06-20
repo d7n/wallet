@@ -1,1 +1,1 @@
-var mnemonic = "camp fossil stool image layer law oven excite target olive own answer";
+var mnemonic = "city because fork awkward palace special input image sound twenty dismiss recipe";

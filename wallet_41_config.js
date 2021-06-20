@@ -1,1 +1,1 @@
-var mnemonic = "pen jaguar main best fence artefact soup vote sound script wrist quarter";
+var mnemonic = "drop donkey thunder reopen subway meat type shaft tomato web mushroom refuse";

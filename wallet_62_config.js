@@ -1,1 +1,1 @@
-var mnemonic = "system frame hole village lens eagle genre wish wish insect dynamic swap";
+var mnemonic = "shaft rack eye all satisfy clog blame bulk meadow bonus camp vicious";

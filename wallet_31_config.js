@@ -1,1 +1,1 @@
-var mnemonic = "smooth slush stone dose later federal summer approve unfair brief lawn usage";
+var mnemonic = "melody hospital bless rescue announce cupboard betray tissue border gain hen sting";

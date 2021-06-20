@@ -1,1 +1,1 @@
-var mnemonic = "flash pilot must box coin immune screen aerobic soldier market short below";
+var mnemonic = "chase sheriff trial wish piano pelican era actress snap birth tag uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin cigar charge rocket inflict detect target stock gesture scene trap little";
+var mnemonic = "track antenna cover series notable moon ticket betray cram entry often flavor";

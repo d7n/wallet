@@ -1,1 +1,1 @@
-var mnemonic = "critic chaos come until cause motion agree text village wood slot hen";
+var mnemonic = "wife box kit gain seven enforce walnut tumble strike glide reunion finger";

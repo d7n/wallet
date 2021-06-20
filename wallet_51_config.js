@@ -1,1 +1,1 @@
-var mnemonic = "vendor chef asthma method improve saddle flag cheap hello people measure mule";
+var mnemonic = "eagle throw law suggest void radar economy feature feed very clip easily";

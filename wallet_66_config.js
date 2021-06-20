@@ -1,1 +1,1 @@
-var mnemonic = "panic patient sound kind brother work pepper artefact maximum bacon cradle screen";
+var mnemonic = "fine ribbon fabric eye photo screen pipe joy message cupboard autumn comfort";

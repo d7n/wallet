@@ -1,1 +1,1 @@
-var mnemonic = "zone base welcome maze radar brain spy vacuum door success puppy submit";
+var mnemonic = "fox milk brother affair champion journey frog vague arch square aerobic flock";

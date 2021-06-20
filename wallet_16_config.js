@@ -1,1 +1,1 @@
-var mnemonic = "cute good draw vacant toe try ring library antique negative hamster margin";
+var mnemonic = "cannon tonight cruise wasp august result phrase material spirit card regret clinic";

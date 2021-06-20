@@ -1,1 +1,1 @@
-var mnemonic = "correct upgrade repeat endless food tube hybrid improve visa action melt plunge";
+var mnemonic = "armor december edit quantum main accident capital rely indicate distance green virus";

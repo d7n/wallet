@@ -1,1 +1,1 @@
-var mnemonic = "manage runway odor input review language moment gauge wool merge wool below";
+var mnemonic = "purity blame exist damage chair nose rent chase solid account forget waste";

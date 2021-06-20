@@ -1,1 +1,1 @@
-var mnemonic = "farm trigger wheel frozen bronze north tonight brave erode noodle torch vanish";
+var mnemonic = "melody deliver ocean whale hamster physical sense puzzle merry chicken crater dice";

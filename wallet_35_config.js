@@ -1,1 +1,1 @@
-var mnemonic = "picture bamboo cricket keep taste thrive wink unfold street wrestle lake retire";
+var mnemonic = "buddy lumber castle parade toast smoke donor pink solution notice inject sniff";

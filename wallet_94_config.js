@@ -1,1 +1,1 @@
-var mnemonic = "sausage upgrade dress accident talent spice coffee broom grain artefact crunch dad";
+var mnemonic = "vapor network normal rotate crawl treat camera glide dinner aim duck stamp";

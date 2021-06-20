@@ -1,1 +1,1 @@
-var mnemonic = "edit humble stomach asset chronic wreck category actual afraid stool escape orange";
+var mnemonic = "weasel enable bind rain return riot ability pass shine provide fan tiger";

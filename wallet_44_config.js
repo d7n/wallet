@@ -1,1 +1,1 @@
-var mnemonic = "soldier neutral naive thought huge crazy boring sauce forum infant flee sheriff";
+var mnemonic = "cover surge trash poverty gather track paddle filter steel human regret monitor";

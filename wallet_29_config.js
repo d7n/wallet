@@ -1,1 +1,1 @@
-var mnemonic = "require drastic forward attract rocket tenant false great damage leave main toilet";
+var mnemonic = "bamboo embrace ship tilt twenty element unfold sting mind pretty sad small";

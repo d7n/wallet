@@ -1,1 +1,1 @@
-var mnemonic = "ecology embrace engage hat fun paper search near economy work circle unknown";
+var mnemonic = "deposit mercy act vague purpose shift speed meadow exhaust donor million sun";

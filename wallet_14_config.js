@@ -1,1 +1,1 @@
-var mnemonic = "awful jacket glory foam motion large faint magic elder kind frog unable";
+var mnemonic = "typical pen unaware spot street bike pull have trap clean snap toward";

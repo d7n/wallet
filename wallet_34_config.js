@@ -1,1 +1,1 @@
-var mnemonic = "menu dance reveal ghost youth buzz spawn intact rent live wait ride";
+var mnemonic = "educate olive firm solar charge urban lobster indoor vintage market fall treat";

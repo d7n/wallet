@@ -1,1 +1,1 @@
-var mnemonic = "fat habit loan shadow bicycle simple grow panic pony mask torch liberty";
+var mnemonic = "type fog whisper next section disease ring umbrella sound pioneer come ship";

@@ -1,1 +1,1 @@
-var mnemonic = "time plunge extend novel vendor robot farm puppy end disease noodle use";
+var mnemonic = "battle flock trophy style state tenant proof jump lucky tomato sadness ensure";

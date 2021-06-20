@@ -1,1 +1,1 @@
-var mnemonic = "unveil derive soon guide chat question poem noodle chicken teach estate rapid";
+var mnemonic = "diagram neutral key water artefact multiply suggest jelly three mind wear during";

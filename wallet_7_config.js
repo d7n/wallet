@@ -1,1 +1,1 @@
-var mnemonic = "face hip ethics float baby tip pond dress method village hair artist";
+var mnemonic = "twelve sheriff link bone plate visit exit humor congress twist deputy system";

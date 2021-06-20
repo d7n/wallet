@@ -1,1 +1,1 @@
-var mnemonic = "below shell smoke input mosquito kid enact art garden among half assist";
+var mnemonic = "loyal cheese bronze dune victory follow member glow scrap farm public animal";

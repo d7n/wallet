@@ -1,1 +1,1 @@
-var mnemonic = "neutral ignore lion reason ship elbow refuse divert flee fabric lend hidden";
+var mnemonic = "knee icon silver language address hen doctor kick vital prevent stadium ribbon";

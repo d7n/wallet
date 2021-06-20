@@ -1,1 +1,1 @@
-var mnemonic = "october patch remain pave desert ensure rookie salmon noise material tape pulp";
+var mnemonic = "stable rubber airport nut prepare super sea effort verb beef eyebrow flat";

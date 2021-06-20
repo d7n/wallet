@@ -1,1 +1,1 @@
-var mnemonic = "torch lottery sock spray alarm clock identify broccoli imitate write shell laundry";
+var mnemonic = "primary dignity success cushion answer wish actor brown lava universe broccoli lecture";

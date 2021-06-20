@@ -1,1 +1,1 @@
-var mnemonic = "miss toss host retreat orbit shrimp wood frown black sweet steel vessel";
+var mnemonic = "smooth pulse tail unique snack bunker fresh decade uncover boss embody lawn";

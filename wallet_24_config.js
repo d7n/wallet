@@ -1,1 +1,1 @@
-var mnemonic = "liquid battle volume nephew amateur chair obey equip giraffe repair sunny ridge";
+var mnemonic = "crater trick maze choice buffalo shoulder park crush rough dwarf benefit grape";

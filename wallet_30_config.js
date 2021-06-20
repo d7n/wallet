@@ -1,1 +1,1 @@
-var mnemonic = "spray grass photo push north soap there bridge hedgehog mesh certain chaos";
+var mnemonic = "check liberty usage beach despair annual senior orbit devote unique urge glow";

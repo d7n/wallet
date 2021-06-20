@@ -1,1 +1,1 @@
-var mnemonic = "reopen diary universe chuckle flame glance front fee orient myself guard decorate";
+var mnemonic = "awkward harvest stick game under notice that dose lava can neutral alien";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey grape movie nurse science later steak slice decrease silk forget tag";
+var mnemonic = "whisper category party fee cable pride chase antenna dignity frame track space";

@@ -1,1 +1,1 @@
-var mnemonic = "much decline wrap draw assault pause blur airport neglect monitor alpha envelope";
+var mnemonic = "space tray peanut brave quality shield wire tail day save wash puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage neutral credit decide shop violin paddle field shuffle taxi dinosaur local";
+var mnemonic = "horse travel beauty glass brave price chair annual clinic uniform scheme eight";

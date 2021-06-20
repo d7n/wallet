@@ -1,1 +1,1 @@
-var mnemonic = "heavy lab lucky heavy unfold weird shift because canal dice file dentist";
+var mnemonic = "bamboo obvious tired goat faint company loyal modify toddler health margin oppose";

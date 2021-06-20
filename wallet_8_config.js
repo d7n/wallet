@@ -1,1 +1,1 @@
-var mnemonic = "earn nuclear obtain puzzle pizza choose venue over screen merit drop thing";
+var mnemonic = "robot apple aspect symbol minor address since settle head feature bottom gun";

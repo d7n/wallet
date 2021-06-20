@@ -1,1 +1,1 @@
-var mnemonic = "tell nation bind sadness issue front praise nose cool barely rice mammal";
+var mnemonic = "curve video amazing piano cereal scene grief oblige camp island cage medal";

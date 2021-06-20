@@ -1,1 +1,1 @@
-var mnemonic = "grow waste cross lamp hat banner monitor strong pave entire soup certain";
+var mnemonic = "depart normal hard accuse wage shine song evil brother vapor member fork";

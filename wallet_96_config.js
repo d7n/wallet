@@ -1,1 +1,1 @@
-var mnemonic = "peace slim solution industry brother arrow top health actress tower price family";
+var mnemonic = "talk defense finish fresh diagram exclude clever humble ordinary explain bachelor lemon";

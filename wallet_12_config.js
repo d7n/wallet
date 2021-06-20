@@ -1,1 +1,1 @@
-var mnemonic = "night enrich second series object feel define grunt page copper orphan laundry";
+var mnemonic = "sad lady tomorrow tube abandon trial muffin cherry grape car october apart";

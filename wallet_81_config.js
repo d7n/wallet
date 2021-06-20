@@ -1,1 +1,1 @@
-var mnemonic = "maid planet problem alpha balcony liquid rotate valid gown embody crime decade";
+var mnemonic = "narrow marble flash flee drum fabric ginger struggle submit saddle frown start";

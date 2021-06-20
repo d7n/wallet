@@ -1,1 +1,1 @@
-var mnemonic = "regret cluster pave embody sick fruit bring luggage corn reward energy village";
+var mnemonic = "swear begin hold ready custom december film wear person hint solar ticket";

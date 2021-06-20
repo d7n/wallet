@@ -1,1 +1,1 @@
-var mnemonic = "tomato proof hospital indoor mutual lift index invite avocado switch budget plunge";
+var mnemonic = "neutral embrace theory mean exit monkey educate that genre release build quote";

@@ -1,1 +1,1 @@
-var mnemonic = "rail unfold prison neither ride symbol innocent gym ripple mother enable tray";
+var mnemonic = "ramp fossil zone engage spring sentence bright hand joke fantasy cannon state";

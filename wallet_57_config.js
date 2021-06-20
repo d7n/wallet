@@ -1,1 +1,1 @@
-var mnemonic = "daring state service dolphin super rebel sight thunder harbor kidney achieve submit";
+var mnemonic = "flee orange area sausage camp machine index food deputy ship memory popular";

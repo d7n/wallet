@@ -1,1 +1,1 @@
-var mnemonic = "learn photo glad cycle cash summer chase resemble flee crowd trade network";
+var mnemonic = "try lava diagram joke inner wire insane eager discover index thrive december";

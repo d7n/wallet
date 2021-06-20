@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin curious bread diamond rent civil coconut shy foil pride purity advance";
+var mnemonic = "main envelope charge screen decline able bargain west proud below asset goat";

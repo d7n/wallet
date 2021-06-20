@@ -1,1 +1,1 @@
-var mnemonic = "used kingdom token culture flock spread crawl bike dress athlete have blade";
+var mnemonic = "search find inch immense melody indicate brick relax tornado foam humor hawk";

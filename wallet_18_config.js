@@ -1,1 +1,1 @@
-var mnemonic = "belt during muffin survey jar rule burden over gaze ugly fit demand";
+var mnemonic = "key warrior scale two field phrase price canal bind recipe foil novel";

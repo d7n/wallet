@@ -1,1 +1,1 @@
-var mnemonic = "when peanut regret rack work affair permit assume firm chief gun first";
+var mnemonic = "pitch curve april tilt admit cool pistol hope unlock judge school old";

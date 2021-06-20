@@ -1,1 +1,1 @@
-var mnemonic = "you leopard annual trigger leader pluck fine tourist hybrid nothing element depart";
+var mnemonic = "crawl sun thought tongue early access path grocery habit banana dismiss bronze";

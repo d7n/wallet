@@ -1,1 +1,1 @@
-var mnemonic = "alter book real guess desk open luxury cricket above shift garage swarm";
+var mnemonic = "fiscal bring sea aware canal choice chunk laptop nose defense boat drop";

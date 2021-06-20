@@ -1,1 +1,1 @@
-var mnemonic = "canoe matrix reunion tornado blossom apple film into winter large hurt select";
+var mnemonic = "release saddle fiber one notice brass dynamic canoe doctor interest erosion federal";

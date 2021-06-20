@@ -1,1 +1,1 @@
-var mnemonic = "crop describe present plate wrestle exhibit dash assume misery echo common spider";
+var mnemonic = "boost traffic health kitchen relief profit bulk cook pattern pencil cabbage predict";

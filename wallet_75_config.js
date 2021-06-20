@@ -1,1 +1,1 @@
-var mnemonic = "sausage spoil eternal mention brush piece human diagram hard rug web now";
+var mnemonic = "elephant sick elite eternal cheese verb now clay tilt share hammer chuckle";

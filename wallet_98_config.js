@@ -1,1 +1,1 @@
-var mnemonic = "friend attitude panther stand twist blind thunder below civil dial brave view";
+var mnemonic = "crowd sand fabric impose rebuild orient canoe silly stage usual iron abstract";

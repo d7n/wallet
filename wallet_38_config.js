@@ -1,1 +1,1 @@
-var mnemonic = "cotton glare mobile depart shallow there game high still swap exact fox";
+var mnemonic = "inhale caught elite car uncover oval metal mention oak chaos penalty sell";

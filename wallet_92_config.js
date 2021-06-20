@@ -1,1 +1,1 @@
-var mnemonic = "remain refuse disease dizzy wall cargo empower join blanket coil trigger dove";
+var mnemonic = "win man cereal soda crew mass window ocean blind aware puppy praise";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon accident flight curve strategy divide fly nephew fantasy hidden blade network";
+var mnemonic = "divorce meadow expand rely across search man margin kick plunge dawn company";

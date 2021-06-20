@@ -1,1 +1,1 @@
-var mnemonic = "episode hold enact awful sponsor turkey venue truth nice decide rate require";
+var mnemonic = "live picture hungry shield craft work network uncover army tilt receive dial";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog shock glad tenant ocean toward eager general tomato symptom spider tired";
+var mnemonic = "appear inch help team park eagle quarter easy enable tape sentence piece";

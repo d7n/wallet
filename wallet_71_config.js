@@ -1,1 +1,1 @@
-var mnemonic = "artefact symptom brush keen cake zoo avoid act cheap dawn legal truth";
+var mnemonic = "crop syrup limit educate galaxy salmon sunset warfare globe current kid people";

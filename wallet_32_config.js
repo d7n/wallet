@@ -1,1 +1,1 @@
-var mnemonic = "rebel dignity ring vapor castle slab trumpet army destroy comic chunk excess";
+var mnemonic = "debate toilet smooth myself gaze pilot audit vivid senior knee vapor flight";

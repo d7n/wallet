@@ -1,1 +1,1 @@
-var mnemonic = "maid garbage brick begin bar shell odor large inject guitar nation wool";
+var mnemonic = "index holiday music daring noble pledge broom uphold face tiny sister final";

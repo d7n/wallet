@@ -1,1 +1,1 @@
-var mnemonic = "absent flat draw trust rare turn ship dismiss kingdom dentist sad weekend";
+var mnemonic = "vault giraffe pioneer parade until illness wife loop daughter real uncle stay";

@@ -1,1 +1,1 @@
-var mnemonic = "genre choose senior umbrella light rough library clap bone typical enemy claim";
+var mnemonic = "federal spoon rhythm rug wrong treat sentence ostrich tape silent spawn early";

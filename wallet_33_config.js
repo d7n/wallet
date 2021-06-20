@@ -1,1 +1,1 @@
-var mnemonic = "marble ridge turkey motor patrol flock stove misery front burden dumb wealth";
+var mnemonic = "blanket chunk library tuition frame digital lecture reason eyebrow liquid puzzle warm";

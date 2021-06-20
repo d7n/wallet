@@ -1,1 +1,1 @@
-var mnemonic = "forget future welcome minimum tenant regular dog scan alarm question close bamboo";
+var mnemonic = "buzz cook argue fence engine media harvest private inject cattle forget mango";
