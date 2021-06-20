@@ -1,1 +1,1 @@
-var mnemonic = "pink stage gravity jealous enter slice alert elder cannon income crazy veteran";
+var mnemonic = "olive chalk oak carry enforce hero march pizza hundred van attitude leave";

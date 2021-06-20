@@ -1,1 +1,1 @@
-var mnemonic = "icon try produce earn moral poverty question vibrant witness february vivid rib";
+var mnemonic = "cause famous world paddle visit pupil machine spot craft enroll rubber torch";

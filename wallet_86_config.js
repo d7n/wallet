@@ -1,1 +1,1 @@
-var mnemonic = "order distance lounge sudden please scare assault argue spatial auction whale heart";
+var mnemonic = "lizard strike logic slender hollow boy foster brick bench floor goddess rug";

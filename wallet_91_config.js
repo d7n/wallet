@@ -1,1 +1,1 @@
-var mnemonic = "entire wine elder uniform fatal clerk cash fury pattern vanish novel toss";
+var mnemonic = "crater tool kite word talk anger hedgehog entire tragic miracle tuna sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "canal mad prison wise control warm cube minimum skate mosquito pet change";
+var mnemonic = "barely fit play order math remove fragile render duck mail shock evil";

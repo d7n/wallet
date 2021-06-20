@@ -1,1 +1,1 @@
-var mnemonic = "someone skull waste identify envelope hand maple antique animal inspire universe dirt";
+var mnemonic = "submit useful autumn fresh vibrant system bleak happy senior private habit divorce";

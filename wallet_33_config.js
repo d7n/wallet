@@ -1,1 +1,1 @@
-var mnemonic = "outdoor drastic engage umbrella zebra inside neck champion hobby rug soda gain";
+var mnemonic = "snake sell occur thumb tomorrow found write achieve smooth advice trial lunar";

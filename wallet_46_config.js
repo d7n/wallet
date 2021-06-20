@@ -1,1 +1,1 @@
-var mnemonic = "neither cloth label canal involve buzz green shoulder execute speed caught mouse";
+var mnemonic = "picture vessel wear match unknown elephant inject nature unveil poem best client";

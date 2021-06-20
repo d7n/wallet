@@ -1,1 +1,1 @@
-var mnemonic = "field save list soup fee crouch arctic unable advance plastic hero motor";
+var mnemonic = "novel mandate dove travel zoo valley possible vast poet away correct fold";

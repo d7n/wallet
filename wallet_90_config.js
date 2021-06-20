@@ -1,1 +1,1 @@
-var mnemonic = "elevator crater soda involve trust siren job example park empower put help";
+var mnemonic = "aisle vacuum tail soul verb long upgrade predict sick spend first entire";

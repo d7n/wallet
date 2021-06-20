@@ -1,1 +1,1 @@
-var mnemonic = "express like mirror rifle enter never gold cabin install walnut quick noble";
+var mnemonic = "nice opera desert current crunch sand pride ketchup brand avoid marine save";

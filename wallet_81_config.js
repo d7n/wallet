@@ -1,1 +1,1 @@
-var mnemonic = "breeze fish skill box outdoor rapid same lucky today celery brand shoe";
+var mnemonic = "camp offer few club brown actress broom forest debate blame flip achieve";

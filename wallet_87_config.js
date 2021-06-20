@@ -1,1 +1,1 @@
-var mnemonic = "athlete join amount drip leave clever resist aunt ladder weekend wagon van";
+var mnemonic = "feed tool solve sausage heart picture put hospital endorse adapt lion chief";

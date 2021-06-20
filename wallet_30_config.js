@@ -1,1 +1,1 @@
-var mnemonic = "sentence dentist view fetch hire fragile math oblige wall key coil portion";
+var mnemonic = "unit elbow verify forget online cupboard inflict random wealth fringe kid west";

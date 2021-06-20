@@ -1,1 +1,1 @@
-var mnemonic = "glory since clump then help topic phrase oval sniff jelly prize ketchup";
+var mnemonic = "cream note thrive clump author tenant trend iron hover bean pig sphere";

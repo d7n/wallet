@@ -1,1 +1,1 @@
-var mnemonic = "horn light slab domain drip effort subject name learn genuine fancy vital";
+var mnemonic = "page blind habit grit below enough gospel finish spoil idea asthma blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit enough theme lazy twist attitude rice zoo human until blind two";
+var mnemonic = "world also open reward depend marble jeans jacket yellow force hockey elbow";

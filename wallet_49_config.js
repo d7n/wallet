@@ -1,1 +1,1 @@
-var mnemonic = "country switch sport bargain rigid fiction axis hill jewel climb stick mercy";
+var mnemonic = "blouse mutual page ten banner fancy crack stamp issue away actress defy";

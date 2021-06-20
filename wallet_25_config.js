@@ -1,1 +1,1 @@
-var mnemonic = "trial glare service stool permit arctic mother garden script language remain engine";
+var mnemonic = "rent mystery warfare prison junk photo where party blouse metal latin flame";

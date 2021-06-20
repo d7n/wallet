@@ -1,1 +1,1 @@
-var mnemonic = "marriage ignore damp split shed lunar arrange icon tent post thunder athlete";
+var mnemonic = "quality muscle feed seminar correct stuff wise ozone ball pass debris gold";

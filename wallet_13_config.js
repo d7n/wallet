@@ -1,1 +1,1 @@
-var mnemonic = "radar start decide baby intact cement end shuffle vacant pulse genre poet";
+var mnemonic = "popular ladder clay toilet dove bulb scan outdoor mammal raven away water";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle door debris assist capable amused motor power bargain garden input argue";
+var mnemonic = "income acid favorite length region funny bitter forest trade crack aspect taxi";

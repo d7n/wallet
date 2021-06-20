@@ -1,1 +1,1 @@
-var mnemonic = "avocado pipe inspire drop illegal chimney blouse brief patrol suspect viable treat";
+var mnemonic = "unable spice camp issue dinner wisdom net vacant reason maid elephant lawsuit";

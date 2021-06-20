@@ -1,1 +1,1 @@
-var mnemonic = "grain rate layer attend hint foil execute giraffe master valley divert forum";
+var mnemonic = "earn garment danger acoustic useful allow clock amount pupil cheese theory rubber";

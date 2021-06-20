@@ -1,1 +1,1 @@
-var mnemonic = "grief rather unhappy birth video grace couple harsh damage merit trap cash";
+var mnemonic = "body express tornado pill picnic trade size allow clever purse leave say";

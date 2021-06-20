@@ -1,1 +1,1 @@
-var mnemonic = "proof decorate cheap lumber stuff ready napkin fat fee best wild prosper";
+var mnemonic = "build nerve sample typical vicious barrel ring news correct pipe long autumn";

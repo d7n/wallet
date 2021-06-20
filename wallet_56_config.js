@@ -1,1 +1,1 @@
-var mnemonic = "undo depart reveal virus naive inmate infant depend together raccoon net law";
+var mnemonic = "swap brother burger cradle pet hen upon acid zone come fish claim";

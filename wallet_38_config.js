@@ -1,1 +1,1 @@
-var mnemonic = "wide innocent pilot segment segment club vibrant teach orbit field beauty income";
+var mnemonic = "eye talent vehicle plate exile animal left island link dream praise caught";

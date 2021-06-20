@@ -1,1 +1,1 @@
-var mnemonic = "among nose gauge act fossil action candy zone custom shuffle pepper put";
+var mnemonic = "skirt tiger sphere soft glow garlic innocent current rich rival sunset supply";

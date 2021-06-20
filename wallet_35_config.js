@@ -1,1 +1,1 @@
-var mnemonic = "hold slot roof thank verify stereo tuna brisk unknown erode exact traffic";
+var mnemonic = "song mixture duty cushion shrimp proud bind present sugar old guide enact";

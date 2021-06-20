@@ -1,1 +1,1 @@
-var mnemonic = "drill nasty flame pupil fit burger eagle judge adjust lava question crucial";
+var mnemonic = "divorce program decide material vendor lesson era spirit render omit marine type";

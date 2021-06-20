@@ -1,1 +1,1 @@
-var mnemonic = "stem odor woman actor sister trouble decade glory churn modify midnight crime";
+var mnemonic = "behave cloud cement rescue bamboo shed father globe skin theory stove awake";

@@ -1,1 +1,1 @@
-var mnemonic = "certain liar brand street sense gift unfold sign web garment also staff";
+var mnemonic = "purchase poverty venue replace balcony purpose cart buddy census dad swallow moral";

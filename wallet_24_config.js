@@ -1,1 +1,1 @@
-var mnemonic = "civil river rocket gain candy large damage obtain gadget radar wheel kangaroo";
+var mnemonic = "slice nation whip mansion broccoli genre charge army skin teach cluster range";

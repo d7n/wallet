@@ -1,1 +1,1 @@
-var mnemonic = "predict zebra rate barrel solid runway company voyage mistake buzz response cloth";
+var mnemonic = "rocket behind immense frame athlete allow secret old hurdle kind few decide";

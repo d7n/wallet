@@ -1,1 +1,1 @@
-var mnemonic = "robust valve flush start butter item measure prepare lamp crack ozone hen";
+var mnemonic = "bounce above author face erosion invest cable beef lady mail decade dizzy";

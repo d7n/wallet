@@ -1,1 +1,1 @@
-var mnemonic = "furnace toddler reunion grape cute tuition warfare supreme source crucial dutch goose";
+var mnemonic = "south problem text sentence install carbon pudding omit couple begin thumb spirit";

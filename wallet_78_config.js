@@ -1,1 +1,1 @@
-var mnemonic = "clap turtle limb input road alter outside crumble hammer zone left maze";
+var mnemonic = "behave depth pass lottery aim exit someone infant capital gate clever suit";

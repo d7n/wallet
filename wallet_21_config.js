@@ -1,1 +1,1 @@
-var mnemonic = "glimpse sauce property bronze essay shuffle engine gentle code define aspect warm";
+var mnemonic = "aware sugar use minor fee talent still lamp fabric symbol swift weekend";

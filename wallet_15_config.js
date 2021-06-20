@@ -1,1 +1,1 @@
-var mnemonic = "august glimpse butter flag shock dilemma sick horn glove trust convince chicken";
+var mnemonic = "spider erase jazz snake help confirm winter dog trip often giggle school";

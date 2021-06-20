@@ -1,1 +1,1 @@
-var mnemonic = "protect motion swim aerobic cabbage movie tortoise mention custom tell among plate";
+var mnemonic = "forum mobile inherit badge tape core carry neither net wet squirrel chimney";

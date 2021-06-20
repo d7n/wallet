@@ -1,1 +1,1 @@
-var mnemonic = "home mobile soldier weekend lumber volcano joke pet unfold loan able romance";
+var mnemonic = "submit alien warrior donate harbor surround rough rather spread unable drip donor";

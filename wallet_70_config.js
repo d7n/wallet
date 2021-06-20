@@ -1,1 +1,1 @@
-var mnemonic = "range canyon goat estate copy leaf wire rice salt green hint lecture";
+var mnemonic = "jelly space turn pattern drastic occur client evoke off coast winner view";

@@ -1,1 +1,1 @@
-var mnemonic = "huge ancient biology tuna expect seat lion burden practice expire million amateur";
+var mnemonic = "fatigue rough alley priority joy only grain cradle during address true job";

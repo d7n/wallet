@@ -1,1 +1,1 @@
-var mnemonic = "online civil merge proof evidence move gossip wine inner decrease prize medal";
+var mnemonic = "quote music pizza tube sister various trend mother seek sphere kit aerobic";

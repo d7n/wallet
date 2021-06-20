@@ -1,1 +1,1 @@
-var mnemonic = "work symptom duck obscure manual mimic fabric nuclear erode style green guard";
+var mnemonic = "naive brief bronze later client practice light lounge pear thrive renew breeze";

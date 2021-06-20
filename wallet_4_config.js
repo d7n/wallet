@@ -1,1 +1,1 @@
-var mnemonic = "renew slight bid warm hold sniff remove doctor coast give stick rare";
+var mnemonic = "very chest over music jaguar math abandon route piano forget spice wire";

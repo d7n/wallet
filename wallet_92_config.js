@@ -1,1 +1,1 @@
-var mnemonic = "morning goat budget deny suffer fancy chunk garden van often gift citizen";
+var mnemonic = "shoot govern dentist brain sting mandate easily jump blossom gentle robot gown";

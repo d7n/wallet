@@ -1,1 +1,1 @@
-var mnemonic = "sheriff offer legal gentle slender try swim season expire gas output then";
+var mnemonic = "glimpse switch tackle ramp banana kind usage key stable skate scorpion citizen";

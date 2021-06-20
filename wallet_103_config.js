@@ -1,1 +1,1 @@
-var mnemonic = "mechanic display wheat siren wife hat slender hub cabin exact huge furnace";
+var mnemonic = "become metal voice zebra pilot exhaust weekend screen edit lyrics give vanish";

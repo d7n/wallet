@@ -1,1 +1,1 @@
-var mnemonic = "vacant gossip never visa swarm lyrics foot raccoon slim notice super pair";
+var mnemonic = "just icon chef unfair salt love clown enrich reopen crush love blame";

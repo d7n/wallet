@@ -1,1 +1,1 @@
-var mnemonic = "august topple genre supreme awful adapt section try soccer rubber index noble";
+var mnemonic = "census wall amount coffee feed rough exile raise also open zebra paddle";

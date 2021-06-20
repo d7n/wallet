@@ -1,1 +1,1 @@
-var mnemonic = "siege real december spike uphold adapt door topic conduct neutral actress soccer";
+var mnemonic = "educate jaguar shuffle mango airport often virtual model merry dizzy original pony";

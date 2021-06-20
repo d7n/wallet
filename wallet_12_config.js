@@ -1,1 +1,1 @@
-var mnemonic = "load announce laugh tape lottery castle attack business liberty axis soon claw";
+var mnemonic = "spy fade inhale left admit lesson hold another tuna panther mask leaf";

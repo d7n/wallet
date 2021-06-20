@@ -1,1 +1,1 @@
-var mnemonic = "dawn gasp prison wrong whisper rifle choice child thank bring ball oyster";
+var mnemonic = "segment glove damp mix six glass slogan reward vote when off gap";

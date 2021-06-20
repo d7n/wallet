@@ -1,1 +1,1 @@
-var mnemonic = "fiscal tip tribe popular circle device course surge verify term spy digital";
+var mnemonic = "obvious iron roof quit index print prefer limit egg uncover novel popular";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure doctor desert boy isolate swing suit add motion sphere mammal choice";
+var mnemonic = "drip pitch flight debris distance recall float photo sketch quit seat audit";

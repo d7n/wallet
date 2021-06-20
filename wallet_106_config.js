@@ -1,1 +1,1 @@
-var mnemonic = "forward scissors wine drip grace monkey path month brick oppose detect flip";
+var mnemonic = "obscure wise tag act track sunny response oval physical waste spread song";

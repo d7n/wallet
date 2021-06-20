@@ -1,1 +1,1 @@
-var mnemonic = "shock rather page fun scene eye muffin miracle brain blood useful romance";
+var mnemonic = "battle tomorrow iron flee collect zoo inquiry keen cabin arm reason daring";

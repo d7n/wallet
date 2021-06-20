@@ -1,1 +1,1 @@
-var mnemonic = "omit tattoo typical fly phone menu bachelor swear arena artefact position amateur";
+var mnemonic = "honey buzz type aim cart capital giant answer coffee trim silent lumber";

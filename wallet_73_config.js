@@ -1,1 +1,1 @@
-var mnemonic = "frequent join turn second sport fix rocket cousin jealous dune brief hub";
+var mnemonic = "angle name vintage exit uniform time bread pipe loop decide similar sign";

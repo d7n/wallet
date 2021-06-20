@@ -1,1 +1,1 @@
-var mnemonic = "device salmon affair venue first garden family wolf eye mutual collect soccer";
+var mnemonic = "assist sorry critic clarify dad envelope win adapt noise leave property sponsor";

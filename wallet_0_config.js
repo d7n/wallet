@@ -1,1 +1,1 @@
-var mnemonic = "trust resist pottery leader hurdle verify key embody print print member battle";
+var mnemonic = "will bulb idle slab kid camp hurt genre quick fuel come raise";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel palm palm million gaze grow keen rescue strategy cheese orchard neck";
+var mnemonic = "hedgehog brass salad sun lumber jacket dice jeans art mammal learn nasty";

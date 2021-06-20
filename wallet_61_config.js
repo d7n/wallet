@@ -1,1 +1,1 @@
-var mnemonic = "surge race buffalo bomb juice calm deposit quit spell disease figure riot";
+var mnemonic = "capable deliver save submit devote wife avocado raise dash awkward person little";

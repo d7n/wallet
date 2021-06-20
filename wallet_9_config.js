@@ -1,1 +1,1 @@
-var mnemonic = "neck rookie flush van grain elevator apple left tilt lady wine prize";
+var mnemonic = "pottery evidence margin put crawl stone meadow project coach notable fine excite";

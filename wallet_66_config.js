@@ -1,1 +1,1 @@
-var mnemonic = "depend busy sadness digital wide dirt phone future success plunge august glad";
+var mnemonic = "asset man crawl arena pink estate clutch action barrel boy ask trend";

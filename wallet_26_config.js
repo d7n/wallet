@@ -1,1 +1,1 @@
-var mnemonic = "rack drastic nominee pave pen glass circle quarter want industry hole canal";
+var mnemonic = "infant join staff satoshi track eager indicate lawsuit leg kick sand wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "process diamond oppose sugar math security alert rug zoo deposit another prison";
+var mnemonic = "skate excite kiwi once barrel nose usual damage anchor much online crumble";

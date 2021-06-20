@@ -1,1 +1,1 @@
-var mnemonic = "suggest tackle asset oak early zero raccoon sea injury unknown shrimp awake";
+var mnemonic = "rookie lock fog two october fortune empower energy powder echo father rain";

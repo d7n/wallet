@@ -1,1 +1,1 @@
-var mnemonic = "pull seat guess pool satisfy call what amount ostrich light curtain stock";
+var mnemonic = "invest sword normal odor hawk trim ozone crunch purity muffin fantasy ski";

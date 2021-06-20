@@ -1,1 +1,1 @@
-var mnemonic = "alone laptop roast champion document track upper retire alcohol cash sword rice";
+var mnemonic = "annual laundry explain eagle limb vanish object stock parrot dove truck chief";

@@ -1,1 +1,1 @@
-var mnemonic = "okay logic february harbor glory illness gun rough habit december scatter melt";
+var mnemonic = "follow palace shop normal mix spawn umbrella begin high zebra beauty prize";

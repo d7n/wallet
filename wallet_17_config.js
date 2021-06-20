@@ -1,1 +1,1 @@
-var mnemonic = "birth pull jaguar jazz sock chest club today social effort group thank";
+var mnemonic = "pretty young city dwarf enter retire found patrol critic oven uniform nuclear";

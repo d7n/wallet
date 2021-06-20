@@ -1,1 +1,1 @@
-var mnemonic = "license drive come swamp devote elite velvet execute birth track bulk approve";
+var mnemonic = "buffalo myself stick pledge vehicle year tube glove myself trust pave crumble";

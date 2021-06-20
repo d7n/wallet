@@ -1,1 +1,1 @@
-var mnemonic = "forward search pair black scheme embrace retreat scissors range spread tide throw";
+var mnemonic = "crystal battle actual glass wool capable price click sand muffin wine pull";

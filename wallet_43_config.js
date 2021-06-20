@@ -1,1 +1,1 @@
-var mnemonic = "until material seminar ripple shed when tooth letter input survey refuse hamster";
+var mnemonic = "truly blame club journey repeat sweet hedgehog advance height boss rebuild abandon";

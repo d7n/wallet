@@ -1,1 +1,1 @@
-var mnemonic = "urban action glance husband shoot keep bachelor sugar bike inner mass leg";
+var mnemonic = "autumn left sick ask dolphin south pink boat program angry shoe pause";

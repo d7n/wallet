@@ -1,1 +1,1 @@
-var mnemonic = "shine jar strategy craft world clever wise cube catch next theory weird";
+var mnemonic = "trash copper toward vivid solid pony mule drive notable dynamic tornado cruel";

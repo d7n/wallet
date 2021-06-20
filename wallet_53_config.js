@@ -1,1 +1,1 @@
-var mnemonic = "album bargain arrange sphere siren settle bench rule palace purity embrace reopen";
+var mnemonic = "inch powder desk away casual bounce dragon weird mobile mesh crawl pulse";

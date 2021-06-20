@@ -1,1 +1,1 @@
-var mnemonic = "chronic broken fly pepper trust enrich century music love scrap pride cradle";
+var mnemonic = "mesh horror crunch episode vintage dwarf crisp cook code silent hip day";

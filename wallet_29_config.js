@@ -1,1 +1,1 @@
-var mnemonic = "execute name palm burst learn maximum swear direct cereal tool airport country";
+var mnemonic = "release wealth neck dream inmate hole possible top open initial conduct shallow";

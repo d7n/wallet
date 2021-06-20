@@ -1,1 +1,1 @@
-var mnemonic = "gun purity cake fox accident win prize screen today glide invest cup";
+var mnemonic = "twelve gap burst frown that card table cross coconut enable that bubble";

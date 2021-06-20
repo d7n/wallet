@@ -1,1 +1,1 @@
-var mnemonic = "siege voyage party apology shop web cloth arrive mirror tortoise common drum";
+var mnemonic = "voice coast trick lend discover match doll hat ocean climb sustain sun";

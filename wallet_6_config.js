@@ -1,1 +1,1 @@
-var mnemonic = "vocal plunge funny salad tribe match indoor orient trade arctic brave stone";
+var mnemonic = "festival stand fitness involve latin vocal tank enemy cry shy access burst";

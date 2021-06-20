@@ -1,1 +1,1 @@
-var mnemonic = "maid juice fortune believe donkey antenna crop coconut snake champion beef pride";
+var mnemonic = "layer blur dune camp list soap promote stand learn own tonight potato";

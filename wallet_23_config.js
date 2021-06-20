@@ -1,1 +1,1 @@
-var mnemonic = "later forest swamp typical purchase peanut aim butter shiver basic benefit unique";
+var mnemonic = "quarter cheese corn crop first marine aspect regular label horn nation enroll";

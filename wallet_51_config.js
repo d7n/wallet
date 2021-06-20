@@ -1,1 +1,1 @@
-var mnemonic = "easy garage ritual lounge smile together always gaze blade pass wonder stick";
+var mnemonic = "fog walnut actual capable system bread link brass sheriff unveil piece bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "theme cart alcohol injury grid hen tail ring elegant poverty spread divide";
+var mnemonic = "garment citizen nice sketch image robot web level solution lake erode pond";

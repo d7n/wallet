@@ -1,1 +1,1 @@
-var mnemonic = "trip cup velvet speed expect cash pact orient cargo shrug captain enemy";
+var mnemonic = "inside slot lucky truly exist library wagon session nation shoot liar kick";

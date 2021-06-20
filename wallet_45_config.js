@@ -1,1 +1,1 @@
-var mnemonic = "shell loud ball ankle rapid toddler student unique walk craft carbon hotel";
+var mnemonic = "angry wait hammer place jazz certain march ostrich cabin wet old palm";

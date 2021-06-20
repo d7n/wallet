@@ -1,1 +1,1 @@
-var mnemonic = "loyal double deposit educate health still crew erupt moon exact crawl first";
+var mnemonic = "emotion smooth shadow buzz produce mountain need pet dial envelope attend raise";

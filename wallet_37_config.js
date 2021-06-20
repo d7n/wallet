@@ -1,1 +1,1 @@
-var mnemonic = "goat balcony pride include bag shoulder denial used flock phrase hockey uncle";
+var mnemonic = "proud notice hurt nice zero curtain hurry allow loyal weekend merry bean";

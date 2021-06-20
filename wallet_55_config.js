@@ -1,1 +1,1 @@
-var mnemonic = "olive rotate motor become wing advice sorry patch release only praise relax";
+var mnemonic = "census fetch enough cannon praise like ethics virtual bargain large album submit";

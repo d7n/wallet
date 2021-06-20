@@ -1,1 +1,1 @@
-var mnemonic = "slam slender alone thought when fantasy beach finger purchase cluster burst nuclear";
+var mnemonic = "bulb coil session liar muscle bind poem bulk gloom era enter edge";

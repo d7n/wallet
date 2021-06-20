@@ -1,1 +1,1 @@
-var mnemonic = "cage tray remember moment blur lab panic matrix tail social smoke clerk";
+var mnemonic = "flock scrap copper oak poem knee moral analyst clinic note flip zebra";

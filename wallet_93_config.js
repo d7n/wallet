@@ -1,1 +1,1 @@
-var mnemonic = "sting pole furnace echo reopen fish antenna you uniform minimum assist lady";
+var mnemonic = "treat conduct crouch rally pen cabin peasant harbor garden bird drastic front";
