@@ -1,1 +1,1 @@
-var mnemonic = "clap denial slam problem radar major thing link leg nice chair belt";
+var mnemonic = "unfair prepare urge general dentist hole inside swamp eagle derive narrow corn";

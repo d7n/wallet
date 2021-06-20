@@ -1,1 +1,1 @@
-var mnemonic = "uphold caught scorpion barrel bridge pipe arrive mix fossil very apart dinner";
+var mnemonic = "virus ramp trip tonight resist abuse drill term inhale sell local divert";

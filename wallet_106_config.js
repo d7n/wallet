@@ -1,1 +1,1 @@
-var mnemonic = "assume deny pond trap citizen spray tip armed drive host cushion soldier";
+var mnemonic = "drum joy segment settle buffalo wonder little tide antenna need cheese describe";

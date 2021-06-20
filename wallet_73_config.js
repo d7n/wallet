@@ -1,1 +1,1 @@
-var mnemonic = "fury tank beef citizen breeze target decline reform east stone ranch giraffe";
+var mnemonic = "quit ramp fence pond bubble romance carpet struggle knife dolphin stuff neck";

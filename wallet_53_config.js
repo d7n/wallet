@@ -1,1 +1,1 @@
-var mnemonic = "success ill gallery occur pumpkin margin drill awake vendor leopard body sort";
+var mnemonic = "minor hidden that fox visual typical busy math explain sound same armed";

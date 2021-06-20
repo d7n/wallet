@@ -1,1 +1,1 @@
-var mnemonic = "steak develop calm day culture labor lemon sponsor since climb salad paper";
+var mnemonic = "test tumble asthma smile zero good drift erosion garden system earth hammer";

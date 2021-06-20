@@ -1,1 +1,1 @@
-var mnemonic = "quantum jewel tell snow casual scene life veteran buzz visual flight senior";
+var mnemonic = "hybrid outside fine parrot fresh borrow erode security about volcano ecology shoulder";

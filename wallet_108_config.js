@@ -1,1 +1,1 @@
-var mnemonic = "robust fire blue final shuffle state stamp pact learn creek escape prefer";
+var mnemonic = "table menu peasant pool level choice margin rough caution angle photo device";

@@ -1,1 +1,1 @@
-var mnemonic = "hundred culture that bounce soft pumpkin battle virtual rice gloom sad final";
+var mnemonic = "tobacco question keen ugly orient donor city below style barely black disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "stove small insect worry inch tray game abandon today fish guard penalty";
+var mnemonic = "youth chief kangaroo brick subject measure laugh pelican gospel pulp indoor anchor";

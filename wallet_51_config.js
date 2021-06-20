@@ -1,1 +1,1 @@
-var mnemonic = "direct gold tumble master clarify furnace prevent pulse trim uncle credit staff";
+var mnemonic = "feel venue alarm venue faculty crew pulse skirt churn day airport outdoor";

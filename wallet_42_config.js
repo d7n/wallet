@@ -1,1 +1,1 @@
-var mnemonic = "shed stand amount olympic hollow define miracle release finger swallow abandon cupboard";
+var mnemonic = "breeze metal unit clap have strong glory real tortoise cup list private";

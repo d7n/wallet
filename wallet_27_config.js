@@ -1,1 +1,1 @@
-var mnemonic = "note cage surface picture misery agree snap sentence maple small penalty peace";
+var mnemonic = "load bring zone adult announce eager jaguar arrest copper mimic orphan valid";

@@ -1,1 +1,1 @@
-var mnemonic = "brown under tunnel mistake waste expand identify pioneer skirt access rent often";
+var mnemonic = "record diary develop bitter define depend wedding next safe obey receive castle";

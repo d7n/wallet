@@ -1,1 +1,1 @@
-var mnemonic = "profit truly woman enforce jacket warm symbol accuse bench save muffin able";
+var mnemonic = "dirt lunch tip improve rich suffer just pilot shield equal soda visa";

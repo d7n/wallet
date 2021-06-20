@@ -1,1 +1,1 @@
-var mnemonic = "olympic junk gallery tonight link arm boost disease sunny file champion case";
+var mnemonic = "midnight double cradle survey pulp purse idle deputy disorder spread water come";

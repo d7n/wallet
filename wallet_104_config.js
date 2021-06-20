@@ -1,1 +1,1 @@
-var mnemonic = "garlic slight desert law scale favorite again cram walnut crawl modify reveal";
+var mnemonic = "list silly foil trigger twelve heavy bulk someone appear dove unknown raccoon";

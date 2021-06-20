@@ -1,1 +1,1 @@
-var mnemonic = "path indoor boat ticket book hamster gold skull then marine venture medal";
+var mnemonic = "tackle vessel dash plunge immune enlist state panel best journey parent life";

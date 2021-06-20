@@ -1,1 +1,1 @@
-var mnemonic = "motor time industry season since bunker swallow session derive audit gap curious";
+var mnemonic = "addict second outdoor drastic believe borrow gossip census myth candy permit awake";

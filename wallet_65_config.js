@@ -1,1 +1,1 @@
-var mnemonic = "talent climb addict dilemma manage session shield nuclear aunt tongue never silly";
+var mnemonic = "fringe river magnet clean purse wasp dice scene tobacco main magnet medal";

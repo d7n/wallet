@@ -1,1 +1,1 @@
-var mnemonic = "abuse lawsuit squeeze airport paddle twenty code copper rebel tooth tuna fix";
+var mnemonic = "genre payment twin pause sight blanket couple decline siege fault rather fish";

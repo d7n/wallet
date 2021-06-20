@@ -1,1 +1,1 @@
-var mnemonic = "nurse pudding disorder evoke happy absorb tube track maze taxi scrap noise";
+var mnemonic = "bullet quiz dizzy tiny chicken model diagram expire inject friend service improve";

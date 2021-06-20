@@ -1,1 +1,1 @@
-var mnemonic = "candy angle another calm fox execute romance music head trend sweet exclude";
+var mnemonic = "rotate parrot note salt prepare source code slogan about spend orphan cram";

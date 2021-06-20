@@ -1,1 +1,1 @@
-var mnemonic = "leaf punch joy idle brick base sense cinnamon april despair original snake";
+var mnemonic = "thrive excite spice outer venue print celery awful broken acoustic quote master";

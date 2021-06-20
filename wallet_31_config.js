@@ -1,1 +1,1 @@
-var mnemonic = "hole differ era pledge camera auto expand april tent blast birth track";
+var mnemonic = "modify chest project easily float legal auto room peanut series object attend";

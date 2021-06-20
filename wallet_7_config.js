@@ -1,1 +1,1 @@
-var mnemonic = "letter hover gospel volcano inside radio point vanish pioneer train field butter";
+var mnemonic = "rotate toward often soup slush luggage vanish boss street zebra enough twin";

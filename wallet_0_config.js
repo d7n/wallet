@@ -1,1 +1,1 @@
-var mnemonic = "dune genius liberty devote artefact dress van solid confirm drama nuclear video";
+var mnemonic = "spice catch damage song parrot voice lava flag north urban update humble";

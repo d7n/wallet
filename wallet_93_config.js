@@ -1,1 +1,1 @@
-var mnemonic = "play plastic early green twelve nerve detail cabbage pepper victory liar brush";
+var mnemonic = "genuine camera melt upset item toilet wink annual unique impose above jungle";

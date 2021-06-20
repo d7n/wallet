@@ -1,1 +1,1 @@
-var mnemonic = "image few solve immense nose language worth fossil lumber live wool city";
+var mnemonic = "sketch metal car game addict gun year gorilla arrive innocent pizza select";

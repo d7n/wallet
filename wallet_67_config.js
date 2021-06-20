@@ -1,1 +1,1 @@
-var mnemonic = "gospel dish cattle direct course gentle kangaroo online depart treat legend sight";
+var mnemonic = "media reduce parade capital fabric laugh input right wall pilot mass anchor";

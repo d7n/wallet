@@ -1,1 +1,1 @@
-var mnemonic = "summer husband often fat river boy ordinary garbage away cool flag mixed";
+var mnemonic = "kiss garbage grief car journey hill essay abstract comic mix walnut leave";

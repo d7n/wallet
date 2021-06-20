@@ -1,1 +1,1 @@
-var mnemonic = "pause orient identify chaos proud venue quit injury way wall change under";
+var mnemonic = "satisfy forest old render fall relax blue suspect horse shoulder angry volume";

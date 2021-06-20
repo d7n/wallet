@@ -1,1 +1,1 @@
-var mnemonic = "suit tiger object unusual boil north price math federal major layer focus";
+var mnemonic = "turtle spawn glow garment inquiry milk cement border coast pumpkin settle regular";

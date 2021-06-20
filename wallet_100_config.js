@@ -1,1 +1,1 @@
-var mnemonic = "mixture region sketch reason dragon addict census spirit ahead reform month exile";
+var mnemonic = "measure easily case luxury leopard roast odor case tooth nation race mistake";

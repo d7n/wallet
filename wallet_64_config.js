@@ -1,1 +1,1 @@
-var mnemonic = "inside chimney crunch program armed rabbit clay false appear lake swear absent";
+var mnemonic = "burden sunset equal spot laptop never about angle talk patch then flag";

@@ -1,1 +1,1 @@
-var mnemonic = "loan angry surface plastic cricket age absent hazard clip piano chalk need";
+var mnemonic = "silk six diagram steak fiscal giant crazy clarify office panic proof saddle";

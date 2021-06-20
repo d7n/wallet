@@ -1,1 +1,1 @@
-var mnemonic = "salmon ankle short exercise cloud kangaroo record situate dinner wrap check option";
+var mnemonic = "ahead benefit girl behave final grab mistake wire gold turtle rack able";

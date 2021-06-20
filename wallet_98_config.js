@@ -1,1 +1,1 @@
-var mnemonic = "grass toe crop cross swim total mother trophy there target foam eagle";
+var mnemonic = "planet evidence assist spatial excuse best wage all disagree hospital dwarf dove";

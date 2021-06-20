@@ -1,1 +1,1 @@
-var mnemonic = "access limb rain insane urge scorpion mind loan job mixture poem dawn";
+var mnemonic = "there ring oyster frame when brand joke craft velvet hidden soap bulb";

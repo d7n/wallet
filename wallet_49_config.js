@@ -1,1 +1,1 @@
-var mnemonic = "chunk chunk route sample inflict museum various tuition blind tone salon matter";
+var mnemonic = "hint equip mouse that veteran loan march have height close cash hollow";

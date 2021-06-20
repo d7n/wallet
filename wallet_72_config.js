@@ -1,1 +1,1 @@
-var mnemonic = "manage payment galaxy sample tragic name melt deer mail leopard phrase lawsuit";
+var mnemonic = "acid velvet athlete anchor subject exotic leisure salon turn blame alien vintage";

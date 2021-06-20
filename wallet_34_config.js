@@ -1,1 +1,1 @@
-var mnemonic = "zone chuckle move snow feature radar primary brand vendor melody horn copy";
+var mnemonic = "limb paper replace monkey laundry ship moment decade neither forget stone target";

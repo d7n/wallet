@@ -1,1 +1,1 @@
-var mnemonic = "little room chief age gentle car session hover hurt nephew glory sadness";
+var mnemonic = "struggle invite limit merge damp worth cargo spend mandate prison denial tray";

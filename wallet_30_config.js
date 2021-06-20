@@ -1,1 +1,1 @@
-var mnemonic = "update only large bounce river shell coconut yard since name meat dove";
+var mnemonic = "boil noise few thrive shaft corn ancient huge case exact join cycle";

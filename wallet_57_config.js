@@ -1,1 +1,1 @@
-var mnemonic = "file harvest noble autumn produce inch shield border fatigue syrup forward provide";
+var mnemonic = "humble property project acid creek lecture curtain tragic essence silver ten subject";

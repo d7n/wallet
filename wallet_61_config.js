@@ -1,1 +1,1 @@
-var mnemonic = "purpose cup mandate shed view course match author maximum law spoil merit";
+var mnemonic = "gesture brush harbor tape fatal million erosion high place seven arena inform";

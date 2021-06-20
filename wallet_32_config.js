@@ -1,1 +1,1 @@
-var mnemonic = "anger blue chest parrot auto sign history shove solve nephew faculty model";
+var mnemonic = "weather spice service agent spawn crowd polar hawk decrease sea month initial";

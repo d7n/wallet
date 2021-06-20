@@ -1,1 +1,1 @@
-var mnemonic = "world bring bundle immense wrap guide novel curious grain flat rather subway";
+var mnemonic = "feed inquiry divide flight stone shadow client dance gym library beyond autumn";

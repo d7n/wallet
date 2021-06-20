@@ -1,1 +1,1 @@
-var mnemonic = "audit tragic add energy visit kangaroo word punch never win problem ensure";
+var mnemonic = "possible knee borrow turtle frame away convince puppy luxury swap target typical";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt recycle chest limit sense above grant mammal draw history trick horn";
+var mnemonic = "change spring wash company plug pigeon uncover junior pony despair way first";

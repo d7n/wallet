@@ -1,1 +1,1 @@
-var mnemonic = "arrive response discover lucky fury puppy blast giggle carry creek guard post";
+var mnemonic = "treat just glare awful found need rebuild much frog visit father sustain";

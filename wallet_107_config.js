@@ -1,1 +1,1 @@
-var mnemonic = "pond coin jeans sport silent modify lizard desk double attend glance deputy";
+var mnemonic = "energy despair latin fatal grocery west movie ugly cousin quick modify bomb";

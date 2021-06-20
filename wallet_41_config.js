@@ -1,1 +1,1 @@
-var mnemonic = "truth unit wheel allow wealth insect donate inflict final craft cousin clap";
+var mnemonic = "mushroom frame bind anger vacuum sheriff behave layer flame nasty guard turtle";

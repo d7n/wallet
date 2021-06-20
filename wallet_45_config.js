@@ -1,1 +1,1 @@
-var mnemonic = "main carbon raven suffer bridge regular world author side stamp senior scan";
+var mnemonic = "total boring attract there able grid indoor crumble business direct mimic base";

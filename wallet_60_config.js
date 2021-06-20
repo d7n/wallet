@@ -1,1 +1,1 @@
-var mnemonic = "umbrella neglect black review daughter universe describe cabin juice heart use manage";
+var mnemonic = "relief spoil turn void stem salad exhibit equal loop common winner nerve";

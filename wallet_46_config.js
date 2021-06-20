@@ -1,1 +1,1 @@
-var mnemonic = "defy lens guess romance clump office demand brand reunion obvious bar dirt";
+var mnemonic = "rug brother size cousin reunion april electric winter picnic resist area turkey";

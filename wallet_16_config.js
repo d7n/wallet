@@ -1,1 +1,1 @@
-var mnemonic = "damage thought song desert sorry height shoulder merit angry wood illness dog";
+var mnemonic = "across blood similar rubber settle meadow prize adult report unique globe cloud";

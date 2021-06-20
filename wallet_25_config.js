@@ -1,1 +1,1 @@
-var mnemonic = "surprise device leaf crucial someone flower update brand vibrant scheme gallery riot";
+var mnemonic = "payment voyage start crystal angry obey fat remain before marriage impulse wedding";

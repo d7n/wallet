@@ -1,1 +1,1 @@
-var mnemonic = "guitar bring mirror marriage place orphan include fury year clinic marine salon";
+var mnemonic = "predict fashion rather payment decrease soup adjust hover release all mesh window";

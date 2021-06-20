@@ -1,1 +1,1 @@
-var mnemonic = "trigger audit cement frozen recycle tower property cabbage inspire glory piano stadium";
+var mnemonic = "remind will torch artist spoon decline defy make when crime canal alley";

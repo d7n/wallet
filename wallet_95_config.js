@@ -1,1 +1,1 @@
-var mnemonic = "bullet trial about price model receive alley zero exhaust excite main patient";
+var mnemonic = "owner subway focus olympic tennis bargain theory slot faint outdoor explain sight";

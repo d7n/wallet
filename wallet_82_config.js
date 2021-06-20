@@ -1,1 +1,1 @@
-var mnemonic = "coach width slam later flag cross group razor patrol garden stove visa";
+var mnemonic = "gallery always hole please toward load foot duty dish swing biology couch";

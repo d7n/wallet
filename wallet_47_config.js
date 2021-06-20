@@ -1,1 +1,1 @@
-var mnemonic = "multiply join tourist online chuckle rifle expect park adapt spring level toward";
+var mnemonic = "scissors shell addict power theme possible radar sample search attack volume print";

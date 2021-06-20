@@ -1,1 +1,1 @@
-var mnemonic = "doctor immune pioneer vintage season case express armed siege cheap engine once";
+var mnemonic = "before universe pave board minor shove rib public hover midnight renew kite";

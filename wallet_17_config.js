@@ -1,1 +1,1 @@
-var mnemonic = "mixture farm awesome bulb then accuse equip viable case profit raccoon clever";
+var mnemonic = "cliff van staff flat disease hamster boil hill length copy absent rib";

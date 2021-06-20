@@ -1,1 +1,1 @@
-var mnemonic = "sadness fox unlock believe junior govern round motor panther disorder away stove";
+var mnemonic = "gossip retreat into buddy sibling employ tone diet slide universe surge more";

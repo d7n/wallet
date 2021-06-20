@@ -1,1 +1,1 @@
-var mnemonic = "impulse crew assist layer vague ship update broccoli cram assist capital foster";
+var mnemonic = "industry reflect uncover outside thrive yellow exchange essay rain raise pretty bar";

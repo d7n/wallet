@@ -1,1 +1,1 @@
-var mnemonic = "sibling maple damage valid emotion mercy silly gown nature sell rebuild glass";
+var mnemonic = "grid ecology pitch urban north false join found cigar bounce tourist radar";

@@ -1,1 +1,1 @@
-var mnemonic = "tilt crop spice yellow taste ivory pepper endorse army seven time apology";
+var mnemonic = "jar athlete strong spoil rather doctor stuff surge crucial diesel maximum scorpion";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige sibling laugh girl achieve pet muffin noise labor crew couch kite";
+var mnemonic = "gold symptom clinic pear middle pulp south measure enable ahead dish entire";

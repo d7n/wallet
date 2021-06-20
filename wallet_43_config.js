@@ -1,1 +1,1 @@
-var mnemonic = "clarify escape lawsuit chunk desert enact gate rifle audit fix melody ill";
+var mnemonic = "snack resist inhale analyst patient enact wheat journey term cat stage rail";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth two sight great upper purchase move snap hunt grain multiply pitch";
+var mnemonic = "glare illness student similar idea ginger output choose depend kiss ticket country";

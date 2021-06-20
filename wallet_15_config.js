@@ -1,1 +1,1 @@
-var mnemonic = "manage combine army fine salute code scale private member budget oppose tiny";
+var mnemonic = "wool pulse moment diagram shy major now sea daring embark boil give";

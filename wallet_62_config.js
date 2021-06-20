@@ -1,1 +1,1 @@
-var mnemonic = "capital empty want deputy swift busy awake organ luggage ugly where rookie";
+var mnemonic = "trophy guide leader grid seed arrive this benefit mobile blanket belt seven";

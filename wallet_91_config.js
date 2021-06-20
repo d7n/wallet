@@ -1,1 +1,1 @@
-var mnemonic = "episode birth motor humor spread foil burst bacon wheel knife stool company";
+var mnemonic = "drive baby actual system flavor silver misery casual dad frost dawn pulp";

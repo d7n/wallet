@@ -1,1 +1,1 @@
-var mnemonic = "flash key tourist taste shed surge inquiry boil humble orange appear notable";
+var mnemonic = "noodle gown emerge steel report flee change gas gentle begin fun cheese";

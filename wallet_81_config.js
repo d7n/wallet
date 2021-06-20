@@ -1,1 +1,1 @@
-var mnemonic = "payment since report trip invite uncle empty kite siege mouse sea upgrade";
+var mnemonic = "hidden uncover muscle general fan cushion giggle guide knock solve original spell";

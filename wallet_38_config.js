@@ -1,1 +1,1 @@
-var mnemonic = "anger disease village lobster green photo item two hire aunt myth demand";
+var mnemonic = "tag lyrics endless post sudden garment cause attitude thought recipe will busy";

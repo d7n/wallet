@@ -1,1 +1,1 @@
-var mnemonic = "scrub peace arrange bottom casino pride reason employ angry together prosper jacket";
+var mnemonic = "elbow pink grid cost equip rally explain magic project lounge grocery acid";

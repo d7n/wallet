@@ -1,1 +1,1 @@
-var mnemonic = "three similar crime course worry clap bargain bulb isolate digital lazy asthma";
+var mnemonic = "vendor text know drip cake amount toy imitate settle daughter alter begin";

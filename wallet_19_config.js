@@ -1,1 +1,1 @@
-var mnemonic = "grain myth slide enroll opinion yellow shrug original asset decrease faculty carry";
+var mnemonic = "federal fancy trip venue smooth sure rich taxi comic bless collect around";

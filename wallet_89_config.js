@@ -1,1 +1,1 @@
-var mnemonic = "traffic duty task wait emotion canal year run entire orbit enact cream";
+var mnemonic = "pelican notice high minute journey quality custom breeze acoustic category tornado abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "connect claw kit birth armor divide involve step digital foot dumb surge";
+var mnemonic = "supply liar kangaroo proof organ early craft voyage blur indoor erode tragic";

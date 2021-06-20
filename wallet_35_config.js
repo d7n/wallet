@@ -1,1 +1,1 @@
-var mnemonic = "used weasel client toilet elbow boss glory online patch decline example forget";
+var mnemonic = "potato absurd lizard figure blame digital gun island shed limb enough dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster pet walnut clip photo world audit devote purchase degree affair conduct";
+var mnemonic = "lake impulse fruit candy energy doctor vast humor poem frost develop shaft";

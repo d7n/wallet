@@ -1,1 +1,1 @@
-var mnemonic = "card captain relax fat salmon pony brown wild divide desk assist season";
+var mnemonic = "baby weird dinosaur industry slab castle turn pole fatigue evoke smile stone";

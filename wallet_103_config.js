@@ -1,1 +1,1 @@
-var mnemonic = "blast sense defense wear hospital bean maid endless minimum salt repair illness";
+var mnemonic = "east blanket goddess hollow venue attack menu search twenty vessel dream regret";

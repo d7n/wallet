@@ -1,1 +1,1 @@
-var mnemonic = "utility order february civil stem wrong replace olympic pioneer tool remember fork";
+var mnemonic = "easy symptom away liberty result quick original lottery prepare average uphold audit";
