@@ -1,1 +1,1 @@
-var mnemonic = "exclude liquid three reason target favorite country resource hurt document final urban";
+var mnemonic = "record gadget luxury risk access business rifle fine match magnet doctor dose";

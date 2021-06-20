@@ -1,1 +1,1 @@
-var mnemonic = "purpose three wear rough receive payment bulk hidden produce lounge fatal aware";
+var mnemonic = "sort custom because visit jungle broom infant enter ethics leg digital bleak";

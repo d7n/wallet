@@ -1,1 +1,1 @@
-var mnemonic = "corn whale ozone laptop cherry bar dial smart flee idle remember element";
+var mnemonic = "diagram brief type improve vast source sorry amazing suffer unaware oblige pony";

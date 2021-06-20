@@ -1,1 +1,1 @@
-var mnemonic = "ignore ship video ripple include panda lend exist eight sort few garage";
+var mnemonic = "nasty throw solar frequent harbor property police cash seek bottom correct journey";

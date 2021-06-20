@@ -1,1 +1,1 @@
-var mnemonic = "vanish reopen extend stomach orphan pumpkin pyramid dirt machine hold number scheme";
+var mnemonic = "lawsuit forest cat drill next use mobile capital write one assume country";

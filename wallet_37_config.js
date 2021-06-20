@@ -1,1 +1,1 @@
-var mnemonic = "scout detail when sponsor special pet immune foil daughter nest rack dune";
+var mnemonic = "chuckle festival budget hole window diamond brown door unique next razor cloth";

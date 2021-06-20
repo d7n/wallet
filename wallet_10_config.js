@@ -1,1 +1,1 @@
-var mnemonic = "pledge alarm area help awake machine scare oblige reveal person bunker trouble";
+var mnemonic = "permit decrease fatigue fiscal auto pitch volcano huge kitchen receive young twin";

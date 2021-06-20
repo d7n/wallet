@@ -1,1 +1,1 @@
-var mnemonic = "post modify stone gun tired siren museum galaxy area install evil inmate";
+var mnemonic = "humor trick layer shrimp cruise hello clinic moment width blind dirt flip";

@@ -1,1 +1,1 @@
-var mnemonic = "wine april cricket biology clump retire sea pear much lobster sting luxury";
+var mnemonic = "bamboo weird edit since seat husband door toy holiday what unhappy leopard";

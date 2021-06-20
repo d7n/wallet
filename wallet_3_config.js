@@ -1,1 +1,1 @@
-var mnemonic = "afford vivid design token emotion sweet december term umbrella nut position strategy";
+var mnemonic = "charge fresh science begin tide polar miracle steel orient firm best mesh";

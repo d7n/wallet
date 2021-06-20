@@ -1,1 +1,1 @@
-var mnemonic = "express illegal consider waste liberty quality robust dutch kitten describe shed impulse";
+var mnemonic = "anxiety believe very census pizza brand gospel asset human point nothing lunch";

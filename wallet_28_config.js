@@ -1,1 +1,1 @@
-var mnemonic = "badge salt side cup hungry chief argue mail chat flat blanket table";
+var mnemonic = "wife nasty math boring dove stereo cement popular produce light admit blue";

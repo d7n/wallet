@@ -1,1 +1,1 @@
-var mnemonic = "supply ecology vocal depart basic theory arrange cargo bike riot abstract climb";
+var mnemonic = "angry invite post chair actor resource vicious asthma ketchup great squirrel want";

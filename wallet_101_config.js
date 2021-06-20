@@ -1,1 +1,1 @@
-var mnemonic = "miracle toward bus van crew mask artist little test entire gorilla wrestle";
+var mnemonic = "paddle laundry auction culture bench simple dawn common veteran inside stem upset";

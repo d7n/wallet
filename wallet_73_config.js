@@ -1,1 +1,1 @@
-var mnemonic = "explain chimney split diary bicycle skate diet victory keep crop ramp culture";
+var mnemonic = "cash alcohol era swift chaos noise fun cattle illness high potato engine";

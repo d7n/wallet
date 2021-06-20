@@ -1,1 +1,1 @@
-var mnemonic = "furnace end slam game nothing page celery depth patient step current dilemma";
+var mnemonic = "seek test bleak emerge that wolf squeeze wish rare icon milk knock";

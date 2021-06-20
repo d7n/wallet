@@ -1,1 +1,1 @@
-var mnemonic = "ketchup festival pigeon sign donor modify core size pitch sudden sea select";
+var mnemonic = "speed nothing chief school beyond shop attend lunch recycle divert dirt final";

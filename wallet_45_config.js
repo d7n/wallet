@@ -1,1 +1,1 @@
-var mnemonic = "wage remove pretty region only cost theory next educate era loyal basket";
+var mnemonic = "worth main cube barely civil soup tissue oval sudden burger volcano cousin";

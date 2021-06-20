@@ -1,1 +1,1 @@
-var mnemonic = "trumpet purpose miss pig rhythm two boss slice impulse this frame thumb";
+var mnemonic = "carbon office swarm short poem knee rug exotic sense select account slab";

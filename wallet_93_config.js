@@ -1,1 +1,1 @@
-var mnemonic = "outdoor beauty carry cube insane slogan cherry please elite helmet oblige staff";
+var mnemonic = "slogan gossip orchard control adult alert catch must alpha plug prepare oil";

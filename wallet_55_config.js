@@ -1,1 +1,1 @@
-var mnemonic = "advice walk balance time rare distance creek sea depend siege patrol horn";
+var mnemonic = "jeans steak grief hole grace rack mixture depth joy stone senior quick";

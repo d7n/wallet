@@ -1,1 +1,1 @@
-var mnemonic = "multiply alert romance spot cube sauce butter arrest believe jealous original joke";
+var mnemonic = "shift pair scatter odor fiction age parent wash dress actor saddle remember";

@@ -1,1 +1,1 @@
-var mnemonic = "awake obey citizen stuff near fee glance multiply latin erode venture truck";
+var mnemonic = "ketchup build calm strike project oyster lemon enlist horse radio aisle cable";

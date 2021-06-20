@@ -1,1 +1,1 @@
-var mnemonic = "exclude rough tent alien toilet protect transfer frequent head choose height bitter";
+var mnemonic = "grain diet sense palm later current close forum combine siege income surface";

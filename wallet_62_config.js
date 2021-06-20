@@ -1,1 +1,1 @@
-var mnemonic = "enjoy visit seat teach symptom vault latin hurt hollow pitch spy together";
+var mnemonic = "accuse verify trophy better silly where water tell comic sign aisle almost";

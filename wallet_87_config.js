@@ -1,1 +1,1 @@
-var mnemonic = "pioneer shoe trial thank also verb tenant alcohol icon butter junk salute";
+var mnemonic = "sad fire moral truck element horse above zebra blanket weather system tortoise";

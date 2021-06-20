@@ -1,1 +1,1 @@
-var mnemonic = "material flavor comfort siege cloth divert absorb share public release ski bicycle";
+var mnemonic = "junior ankle cricket card false sentence direct because dynamic notable daughter grunt";

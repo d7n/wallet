@@ -1,1 +1,1 @@
-var mnemonic = "ride baby wild deer term curious night reduce pull monster mercy cup";
+var mnemonic = "pact flock inflict once spin gasp boy purity there slow tennis lake";

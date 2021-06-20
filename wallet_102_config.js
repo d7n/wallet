@@ -1,1 +1,1 @@
-var mnemonic = "tooth income category gather elephant puppy milk glove music control bleak jacket";
+var mnemonic = "they desert alert sibling absorb tired armed camera diet lift custom thing";

@@ -1,1 +1,1 @@
-var mnemonic = "suit pistol wealth banner patient harsh action alter decrease split ten glad";
+var mnemonic = "fruit next hawk album leave smooth milk artefact sheriff flock borrow dentist";

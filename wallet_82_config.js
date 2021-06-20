@@ -1,1 +1,1 @@
-var mnemonic = "proud distance guide snow ancient flavor actor crash front impulse flavor return";
+var mnemonic = "monitor tonight improve clap tenant solar equip cheese monitor problem stay boss";

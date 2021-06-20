@@ -1,1 +1,1 @@
-var mnemonic = "cigar virtual ignore roof movie surface protect any charge media use afford";
+var mnemonic = "mean cream sudden naive holiday verify help garage bike output fence negative";

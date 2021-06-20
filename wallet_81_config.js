@@ -1,1 +1,1 @@
-var mnemonic = "employ skate relief rack girl item drink concert midnight erosion celery elite";
+var mnemonic = "spray armor write reduce grab diary addict dish portion coral brisk round";

@@ -1,1 +1,1 @@
-var mnemonic = "street list trade position team ocean allow curve ask toss advance claw";
+var mnemonic = "head pride elbow anchor layer forget cigar afraid express total detect drive";

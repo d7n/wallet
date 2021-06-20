@@ -1,1 +1,1 @@
-var mnemonic = "candy age october breeze motion venture flame garbage gather oblige enforce crawl";
+var mnemonic = "behind nasty menu father tortoise adult follow unfair knock calm horn race";

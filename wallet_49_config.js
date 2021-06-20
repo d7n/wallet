@@ -1,1 +1,1 @@
-var mnemonic = "win ahead welcome holiday claw state urge sell lonely invest raccoon manage";
+var mnemonic = "turtle library frozen fashion peasant mutual rich result hollow thunder appear apple";

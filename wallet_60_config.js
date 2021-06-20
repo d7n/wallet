@@ -1,1 +1,1 @@
-var mnemonic = "setup topic involve rookie general reform boat kingdom exit retire recipe pass";
+var mnemonic = "abstract truly manage follow runway kingdom february badge monster abandon crystal shoulder";

@@ -1,1 +1,1 @@
-var mnemonic = "combine ocean nature extend fancy scorpion slim race potato payment absorb scrub";
+var mnemonic = "weapon park mammal prefer mystery future muscle vault range often kidney riot";

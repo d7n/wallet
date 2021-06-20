@@ -1,1 +1,1 @@
-var mnemonic = "learn smoke dune load image table course ankle use nice field ivory";
+var mnemonic = "random else pause body assist game endorse nothing purity size chuckle lift";

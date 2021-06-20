@@ -1,1 +1,1 @@
-var mnemonic = "satisfy crack advice reason defense suggest gesture video prefer dentist sense muscle";
+var mnemonic = "blue culture when alpha custom inmate asthma blame private rely receive faculty";

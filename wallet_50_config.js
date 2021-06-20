@@ -1,1 +1,1 @@
-var mnemonic = "increase predict artwork mosquito faith crunch fee couch problem april sign logic";
+var mnemonic = "that luxury river what what funny oil must fence repair inside design";

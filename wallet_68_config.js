@@ -1,1 +1,1 @@
-var mnemonic = "ancient need below pill tube upset board valve bicycle special jewel magnet";
+var mnemonic = "news dress shoe hobby forward state aunt what hundred onion deer fly";

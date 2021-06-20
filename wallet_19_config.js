@@ -1,1 +1,1 @@
-var mnemonic = "shuffle manage action burden insect student toss zone garlic damage movie ridge";
+var mnemonic = "palace blame travel prosper gun rocket private hunt draft sort copper permit";

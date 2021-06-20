@@ -1,1 +1,1 @@
-var mnemonic = "put before party admit already armed game cycle setup pupil wise climb";
+var mnemonic = "gallery size olive hire laptop novel nation skull notable cabin family walk";

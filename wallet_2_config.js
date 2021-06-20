@@ -1,1 +1,1 @@
-var mnemonic = "negative first pioneer winter oxygen follow dry reform accuse tongue coach purity";
+var mnemonic = "that toilet sugar crisp bid cook shove lizard heart rather diesel field";

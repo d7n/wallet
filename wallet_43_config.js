@@ -1,1 +1,1 @@
-var mnemonic = "aspect title over soccer cliff upset river surprise doctor melt treat decrease";
+var mnemonic = "polar brick siren year spoon shift leave mango text repair amused brave";

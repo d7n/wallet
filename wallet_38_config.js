@@ -1,1 +1,1 @@
-var mnemonic = "deer polar next brown rescue woman marriage fire close dial person cave";
+var mnemonic = "also mistake myself piano license empty wasp artist wire obtain sadness ten";

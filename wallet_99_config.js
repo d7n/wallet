@@ -1,1 +1,1 @@
-var mnemonic = "copper else infant pumpkin figure warrior snap helmet horror brown luggage sing";
+var mnemonic = "industry picture when ribbon what duty fatigue know ghost antique come sea";

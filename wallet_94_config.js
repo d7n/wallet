@@ -1,1 +1,1 @@
-var mnemonic = "mercy inner chapter mind put sibling casual amazing subway waste absorb stage";
+var mnemonic = "spot east increase surge belt alert damage result tide sorry squeeze rotate";

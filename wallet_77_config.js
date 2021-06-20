@@ -1,1 +1,1 @@
-var mnemonic = "task next laundry wedding opera attack foil top canoe one will amount";
+var mnemonic = "sunny earn indoor mixed foster fee stone advice cube bullet cliff apology";

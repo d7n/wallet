@@ -1,1 +1,1 @@
-var mnemonic = "giggle predict garment crumble rally hour illegal wall eyebrow service clean ticket";
+var mnemonic = "immune express police faith win grocery gossip october index alcohol believe cube";

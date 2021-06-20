@@ -1,1 +1,1 @@
-var mnemonic = "funny chalk craft black cereal morning forget family blood allow live cargo";
+var mnemonic = "slim subway opinion flight one same cruel depth method bike wink quick";

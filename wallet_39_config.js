@@ -1,1 +1,1 @@
-var mnemonic = "bonus tooth attitude they fly youth toward symbol december unique advance young";
+var mnemonic = "dismiss salute spider area bulk wall cruel demise pig valve damage scrub";

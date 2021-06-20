@@ -1,1 +1,1 @@
-var mnemonic = "joy imitate unveil search cargo together soda review amazing spend other steel";
+var mnemonic = "crystal quarter oyster casual fabric slice wink roof discover firm online clump";

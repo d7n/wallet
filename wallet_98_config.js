@@ -1,1 +1,1 @@
-var mnemonic = "breeze satoshi board reduce animal awesome robot benefit man curve vacuum earn";
+var mnemonic = "observe antenna praise divorce oblige penalty giant drama man direct pig awesome";

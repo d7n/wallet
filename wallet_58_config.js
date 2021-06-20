@@ -1,1 +1,1 @@
-var mnemonic = "gun human clean advice empower lawn item arm hockey hood kiss sudden";
+var mnemonic = "expand wreck crazy round prepare next desert distance syrup scissors link pipe";

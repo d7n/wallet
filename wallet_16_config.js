@@ -1,1 +1,1 @@
-var mnemonic = "unit december garment power cycle grit rug mobile apart drama leaf lab";
+var mnemonic = "seven ignore survey peanut vocal arrive news stay cage grain device shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle pear actor script uphold nature stem upgrade season predict mention wisdom";
+var mnemonic = "ribbon urban hazard sustain prepare vessel road reform write snow near portion";

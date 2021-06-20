@@ -1,1 +1,1 @@
-var mnemonic = "universe jelly typical favorite pulp recycle curious inherit cancel gas settle wrestle";
+var mnemonic = "actor zero snake amount once sense bacon priority canvas armed what finish";

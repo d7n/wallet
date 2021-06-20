@@ -1,1 +1,1 @@
-var mnemonic = "flash asthma leader ginger hood category spider source daughter equal friend bundle";
+var mnemonic = "immense arch walk clown pistol purse scare liar major portion announce invite";

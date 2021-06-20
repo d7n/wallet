@@ -1,1 +1,1 @@
-var mnemonic = "pattern control brother civil perfect voyage amateur confirm cable love warfare treat";
+var mnemonic = "gauge dirt catch object quick lawsuit crack moment boring century gallery gather";

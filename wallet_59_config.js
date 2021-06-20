@@ -1,1 +1,1 @@
-var mnemonic = "sense resemble finish crowd music orient arm canyon jealous fragile anger clarify";
+var mnemonic = "fresh female person fence pencil worth art leopard reveal culture transfer icon";

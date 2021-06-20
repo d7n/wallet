@@ -1,1 +1,1 @@
-var mnemonic = "grocery air rival draft ghost clump never giraffe amazing profit milk battle";
+var mnemonic = "lobster creek bulk panda blanket vanish hire turkey mule solid powder need";

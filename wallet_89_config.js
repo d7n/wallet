@@ -1,1 +1,1 @@
-var mnemonic = "correct friend loan tornado still you sick slot sense royal busy rebuild";
+var mnemonic = "much kitten mouse critic produce barrel flight tribe latin lyrics deal route";

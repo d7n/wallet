@@ -1,1 +1,1 @@
-var mnemonic = "scrap mosquito allow solid maximum tongue glide street goddess depart blouse civil";
+var mnemonic = "cliff resemble wheat cute school exact viable because simple gather vehicle loud";

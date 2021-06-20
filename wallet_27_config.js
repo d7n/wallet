@@ -1,1 +1,1 @@
-var mnemonic = "add chicken unlock color air explain dose leg girl spider exclude response";
+var mnemonic = "coconut room bench muffin open best indicate flash away wonder wave tragic";

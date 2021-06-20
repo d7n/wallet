@@ -1,1 +1,1 @@
-var mnemonic = "peanut spawn before asthma sunny margin bright athlete lemon avocado middle fat";
+var mnemonic = "gorilla author mask enlist catalog culture early sad gate vocal gain seat";

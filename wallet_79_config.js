@@ -1,1 +1,1 @@
-var mnemonic = "gospel eyebrow expand ozone best during wheat dizzy west issue oblige loop";
+var mnemonic = "electric evoke soon color future usage clean find kidney rare volume critic";

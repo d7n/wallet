@@ -1,1 +1,1 @@
-var mnemonic = "cook wagon display risk picnic travel turn sudden planet ice fantasy clerk";
+var mnemonic = "vague parade car normal room more wagon kiss whisper salute feature orchard";

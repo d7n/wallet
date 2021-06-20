@@ -1,1 +1,1 @@
-var mnemonic = "critic various neglect syrup text buddy dose kick critic congress scorpion control";
+var mnemonic = "eyebrow spell mansion charge wreck eagle rally silver number box later author";

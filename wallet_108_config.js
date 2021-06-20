@@ -1,1 +1,1 @@
-var mnemonic = "tank stuff pond equal school exotic eagle cup uphold odor matter universe";
+var mnemonic = "express make price jar siege recycle civil dinner galaxy remind before pulp";

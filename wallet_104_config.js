@@ -1,1 +1,1 @@
-var mnemonic = "spawn head oval talent notice protect unveil venue march yard lobster spoon";
+var mnemonic = "news skate cherry rotate always cheese expose armor thrive park useful crawl";

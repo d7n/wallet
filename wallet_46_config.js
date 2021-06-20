@@ -1,1 +1,1 @@
-var mnemonic = "oppose south daring say during remove oval master only jeans stage mule";
+var mnemonic = "amount enact ten neck athlete reflect story flee brand hire paper adapt";

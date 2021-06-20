@@ -1,1 +1,1 @@
-var mnemonic = "wear echo one gown van seed pattern intact record tennis sand three";
+var mnemonic = "jacket pact capital slight average gloom flower trade cabin fiction close silk";

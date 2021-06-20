@@ -1,1 +1,1 @@
-var mnemonic = "screen act elephant limb toast grunt junior gallery palm demise stem trigger";
+var mnemonic = "pyramid grid fame force vibrant one skin walk settle busy field room";

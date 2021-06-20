@@ -1,1 +1,1 @@
-var mnemonic = "sauce angry typical clay drum slogan craft company diesel pyramid you view";
+var mnemonic = "crouch gasp enjoy ostrich pole replace goddess broom loop close dilemma jeans";

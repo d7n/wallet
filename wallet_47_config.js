@@ -1,1 +1,1 @@
-var mnemonic = "buyer quit brother cushion wine inquiry debate proud camera design leave oven";
+var mnemonic = "brass suit salon stairs minute trade license master roof into boost attract";

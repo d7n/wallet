@@ -1,1 +1,1 @@
-var mnemonic = "pelican finish inject twin margin upper fiction alter sunset bus sweet review";
+var mnemonic = "door option arrange lumber just remain hybrid sniff guard change police furnace";

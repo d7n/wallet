@@ -1,1 +1,1 @@
-var mnemonic = "category soon little merge reform injury mushroom dove enlist win demand organ";
+var mnemonic = "shoot travel scrub water gas upgrade blast oyster nothing damage gas setup";

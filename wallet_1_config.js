@@ -1,1 +1,1 @@
-var mnemonic = "liar cliff birth medal supply video civil ankle warm pipe appear push";
+var mnemonic = "twelve enough garbage someone cave isolate cargo already dune country horn bus";

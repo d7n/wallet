@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin business gaze write model runway glue obtain crater friend include fan";
+var mnemonic = "buzz dawn victory easy announce mushroom fine what frog gadget soul midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy maximum neglect planet scan lend bleak slam buddy immense brown two";
+var mnemonic = "owner spray gather item cherry guard edge sustain skate onion father balcony";

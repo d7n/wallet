@@ -1,1 +1,1 @@
-var mnemonic = "ask rifle toe balcony drum suggest hood cushion switch debate wolf link";
+var mnemonic = "smooth cupboard first unhappy illness horn embrace hard cry lab spoon swim";

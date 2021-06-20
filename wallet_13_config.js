@@ -1,1 +1,1 @@
-var mnemonic = "siege biology eagle test clever topple series document spy venue improve bring";
+var mnemonic = "afford order reopen tree three video own twist trim rule gap force";
