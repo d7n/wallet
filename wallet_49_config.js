@@ -1,1 +1,1 @@
-var mnemonic = "crumble practice couch hope tuna powder anxiety north aspect tortoise purchase track";
+var mnemonic = "fix bind bike oak exclude fever diary pull cook region junk absurd";

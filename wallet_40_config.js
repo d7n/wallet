@@ -1,1 +1,1 @@
-var mnemonic = "carry post patch brush motion one coast demand any endless flip also";
+var mnemonic = "file mean during dilemma lobster hold laugh movie apology lady emerge cluster";

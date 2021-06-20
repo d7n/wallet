@@ -1,1 +1,1 @@
-var mnemonic = "limb space destroy thrive glare misery sponsor craft disagree daughter vendor meadow";
+var mnemonic = "napkin faculty emerge betray borrow save enrich violin half boring random pass";

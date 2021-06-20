@@ -1,1 +1,1 @@
-var mnemonic = "silk cabbage setup modify dice code farm offer armed time rubber cry";
+var mnemonic = "hope baby later long pink great sort razor alpha relief invite funny";

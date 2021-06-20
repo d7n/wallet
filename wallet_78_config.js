@@ -1,1 +1,1 @@
-var mnemonic = "project large cement clay exit claw method tonight jump country nothing original";
+var mnemonic = "practice scorpion over pull brain there apart tool egg glove borrow wife";

@@ -1,1 +1,1 @@
-var mnemonic = "divorce load spoil bind endless shiver west legal addict response market salad";
+var mnemonic = "sad wool hospital afraid hollow portion salad loyal brain imitate inject vocal";

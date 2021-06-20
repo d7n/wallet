@@ -1,1 +1,1 @@
-var mnemonic = "inquiry fruit reflect travel age acquire supreme betray giggle ahead dune hospital";
+var mnemonic = "aisle dust crawl love total zoo thumb question already town assist ship";

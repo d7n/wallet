@@ -1,1 +1,1 @@
-var mnemonic = "hurry interest claim labor sentence economy token under distance moment ability vintage";
+var mnemonic = "ugly foster rich point claim want armor capable power obtain dial tumble";

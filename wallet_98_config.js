@@ -1,1 +1,1 @@
-var mnemonic = "guard twist more better sad swing grocery original fox address orphan force";
+var mnemonic = "uphold glad about race melt sentence jump exile family negative entry crew";

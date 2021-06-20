@@ -1,1 +1,1 @@
-var mnemonic = "humor elite you punch tribe runway bracket ill this birth gallery tonight";
+var mnemonic = "step broken skirt wedding cook adapt poem explain limb assume scout design";

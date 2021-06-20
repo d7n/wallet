@@ -1,1 +1,1 @@
-var mnemonic = "remain toddler divert toss essay worry extra erode trip that sketch poet";
+var mnemonic = "later agent garlic jeans dumb access awkward wish enact develop upon purpose";

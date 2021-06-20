@@ -1,1 +1,1 @@
-var mnemonic = "point range idea power chief genre cage age joke remind snow tattoo";
+var mnemonic = "humor skin question chunk enforce convince yellow spatial else grunt come family";

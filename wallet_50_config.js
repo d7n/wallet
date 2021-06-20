@@ -1,1 +1,1 @@
-var mnemonic = "mechanic grunt exact busy dash elegant fruit lunar good patch observe hungry";
+var mnemonic = "butter inmate feed loud verb series broken number hundred sausage demise flee";

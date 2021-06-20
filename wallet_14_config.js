@@ -1,1 +1,1 @@
-var mnemonic = "genius maximum much security release embody initial either network skirt bullet secret";
+var mnemonic = "notice aspect regret beef lazy among twin benefit expose coil rigid give";

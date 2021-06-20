@@ -1,1 +1,1 @@
-var mnemonic = "vault trade kiwi vacant vibrant book ability rate bridge vehicle bacon dog";
+var mnemonic = "draft abstract eight pumpkin lounge east pulp session weird travel talk alert";

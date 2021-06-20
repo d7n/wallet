@@ -1,1 +1,1 @@
-var mnemonic = "holiday sponsor tooth tube average heavy right school parade air night consider";
+var mnemonic = "knife false flight glimpse drop myself rail blast rare elder glass run";

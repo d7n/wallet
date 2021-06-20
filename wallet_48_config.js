@@ -1,1 +1,1 @@
-var mnemonic = "royal spread group weird repair enlist helmet pencil knock jar crucial stuff";
+var mnemonic = "weapon artwork amateur clean wave devote bind field pair tumble resource include";

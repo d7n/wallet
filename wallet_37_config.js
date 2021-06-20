@@ -1,1 +1,1 @@
-var mnemonic = "science left deal extra motion soccer pluck cruise cousin blanket reopen document";
+var mnemonic = "island access cash lamp spread gown gesture burden use auction bronze target";

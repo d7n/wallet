@@ -1,1 +1,1 @@
-var mnemonic = "burst receive lottery game reunion antique video inspire margin kit absorb also";
+var mnemonic = "embrace erupt punch must execute little enact van report room chaos sudden";

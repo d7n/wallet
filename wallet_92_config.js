@@ -1,1 +1,1 @@
-var mnemonic = "dance head tape board found mango trouble visual civil panel lunar remove";
+var mnemonic = "kid antique dragon pluck buzz brand enlist direct sibling pluck check emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue category artist deal vast north avoid yellow denial bone long fish";
+var mnemonic = "carbon online little thank hero ozone section stem either erupt sniff own";

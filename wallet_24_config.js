@@ -1,1 +1,1 @@
-var mnemonic = "future furnace burger hockey school eagle rally shop thumb soda attend oval";
+var mnemonic = "inch talk ahead donkey prevent sketch mango wrong leg banner fault half";

@@ -1,1 +1,1 @@
-var mnemonic = "museum state forest spend silly wear twenty adapt raven carbon ankle drink";
+var mnemonic = "bicycle control swamp admit strategy twin fashion practice bracket baby accident use";

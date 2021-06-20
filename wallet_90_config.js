@@ -1,1 +1,1 @@
-var mnemonic = "normal exhibit vivid flower tilt equal nurse chronic motor spend shaft glance";
+var mnemonic = "job shoulder fee pool reduce brass animal sweet cook sleep autumn raise";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap insect spin scan broccoli boring toy decorate win nasty dune exile";
+var mnemonic = "muffin exhibit favorite yard toy electric curtain quit fog decade absurd dutch";

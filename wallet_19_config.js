@@ -1,1 +1,1 @@
-var mnemonic = "labor flush outside test caught wheel knock sun camp bulb fan flush";
+var mnemonic = "toe youth imitate buddy law satoshi box oblige viable airport leaf trophy";

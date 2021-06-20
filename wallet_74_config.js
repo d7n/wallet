@@ -1,1 +1,1 @@
-var mnemonic = "humor what combine fox february document nice teach degree naive ginger muffin";
+var mnemonic = "universe draw series judge doll hood quote above choose replace myth gift";

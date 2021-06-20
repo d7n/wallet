@@ -1,1 +1,1 @@
-var mnemonic = "plastic outside loyal laugh crop tip jaguar used slender pair asset used";
+var mnemonic = "crane copper isolate size curious under under warfare stool loan broccoli clock";

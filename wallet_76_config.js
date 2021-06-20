@@ -1,1 +1,1 @@
-var mnemonic = "episode entry same anxiety save swallow rough butter swing drink pupil orphan";
+var mnemonic = "welcome embark leg tower addict gloom infant govern claw inherit today describe";

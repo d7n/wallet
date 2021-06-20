@@ -1,1 +1,1 @@
-var mnemonic = "kitchen crack first rival dry maple cloth nerve must equal black twenty";
+var mnemonic = "caught finish swarm type south dwarf juice slight special today fine tumble";

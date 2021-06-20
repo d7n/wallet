@@ -1,1 +1,1 @@
-var mnemonic = "raven intact today unknown fork hammer afford rally sign run book notice";
+var mnemonic = "limit degree accuse relief illness wreck dignity number false fabric height virtual";

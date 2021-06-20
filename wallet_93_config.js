@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin weekend cluster engage settle orchard cup city insane initial breeze devote";
+var mnemonic = "mammal dinosaur tuition thing attitude license path run cupboard vivid chicken galaxy";

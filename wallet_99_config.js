@@ -1,1 +1,1 @@
-var mnemonic = "fossil region ride relief worth manage blame enlist breeze narrow hamster increase";
+var mnemonic = "battle they theme leopard price trim segment tackle parrot input job decide";

@@ -1,1 +1,1 @@
-var mnemonic = "category mean cake solution vintage execute cheap diary silly clarify eyebrow suspect";
+var mnemonic = "physical away orbit holiday float crater artist accuse live allow fence design";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow pilot prepare donate nose owner giggle future aware fatigue salmon alert";
+var mnemonic = "steel wage wire muscle hurdle ignore turkey future swallow current loyal destroy";

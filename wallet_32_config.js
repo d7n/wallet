@@ -1,1 +1,1 @@
-var mnemonic = "prosper almost deliver name swear knock shiver misery retire spray word tunnel";
+var mnemonic = "resource squirrel inform way glow guitar nephew ketchup federal quality social escape";

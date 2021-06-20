@@ -1,1 +1,1 @@
-var mnemonic = "palace wear impose inch news nurse dash clay spy teach culture model";
+var mnemonic = "bomb nasty tell absurd enemy priority express cinnamon treat kick offer battle";

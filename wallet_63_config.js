@@ -1,1 +1,1 @@
-var mnemonic = "refuse reunion short stay pistol defy strategy divorce proof jewel amount guitar";
+var mnemonic = "mouse pelican hill pill hub citizen rigid alien kidney timber sick produce";

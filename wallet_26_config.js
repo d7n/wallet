@@ -1,1 +1,1 @@
-var mnemonic = "fan ivory easily tenant account medal episode country layer point sure stay";
+var mnemonic = "shift gasp chief patrol cloth iron today odor fat concert smoke hair";

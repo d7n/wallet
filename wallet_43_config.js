@@ -1,1 +1,1 @@
-var mnemonic = "nurse course father hero region decrease tumble fee squirrel payment blood logic";
+var mnemonic = "tongue toast boat airport final one mutual result weird dizzy you long";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum clean family panic pole atom code water hungry oak name fetch";
+var mnemonic = "inherit gaze tenant stock nerve cup apple pledge derive utility only kitten";

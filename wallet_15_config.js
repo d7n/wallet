@@ -1,1 +1,1 @@
-var mnemonic = "ostrich suspect earn when hidden normal shock globe pretty vast rate energy";
+var mnemonic = "okay brave empower noise decline ancient badge dolphin hungry blush chief verb";

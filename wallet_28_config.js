@@ -1,1 +1,1 @@
-var mnemonic = "shove junk forum humor memory oppose oppose engine fork farm judge shoot";
+var mnemonic = "crawl alert erase friend east fashion stumble clip model good surge stone";

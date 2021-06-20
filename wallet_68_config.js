@@ -1,1 +1,1 @@
-var mnemonic = "strong diagram fold practice human reason enlist economy flip length antenna pizza";
+var mnemonic = "life pool artist nuclear predict crawl among slow churn art oppose stick";

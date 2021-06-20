@@ -1,1 +1,1 @@
-var mnemonic = "design bless foot wide love fit salmon virtual winter bunker inherit model";
+var mnemonic = "step crash have jealous fat able one captain crouch breeze permit hunt";

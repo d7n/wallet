@@ -1,1 +1,1 @@
-var mnemonic = "vault funny code churn ill dice elder choose income cotton fit intact";
+var mnemonic = "resist exhibit sniff pulse polar observe seek shadow inch mule spatial avocado";

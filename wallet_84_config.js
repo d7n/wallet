@@ -1,1 +1,1 @@
-var mnemonic = "thumb winter lounge joy license animal this stock ask divert shuffle road";
+var mnemonic = "congress jungle midnight local tortoise immense powder tourist witness arrive aisle version";

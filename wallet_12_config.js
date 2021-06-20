@@ -1,1 +1,1 @@
-var mnemonic = "neck furnace save swift badge pelican vibrant zero stove depend slender glass";
+var mnemonic = "ill barrel project sweet kit frost luxury deny race absorb cat abuse";

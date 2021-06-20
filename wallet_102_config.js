@@ -1,1 +1,1 @@
-var mnemonic = "comic census catalog total organ festival fee various canvas desk interest welcome";
+var mnemonic = "enrich write dynamic dentist endless lonely drift share virtual luggage utility illness";

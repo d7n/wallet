@@ -1,1 +1,1 @@
-var mnemonic = "glass feel tilt plastic shine reward clip innocent example nasty coyote left";
+var mnemonic = "either trap area marble this odor physical assist tackle visual cancel circle";

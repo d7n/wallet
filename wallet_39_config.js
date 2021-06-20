@@ -1,1 +1,1 @@
-var mnemonic = "range tired estate fire laugh theory fire bring kiss kiss oyster fresh";
+var mnemonic = "survey budget nation lady require rigid fiber wedding ankle school invite citizen";

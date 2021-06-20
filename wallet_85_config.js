@@ -1,1 +1,1 @@
-var mnemonic = "drive radar cabin present hour main collect muffin shield banana balance cigar";
+var mnemonic = "grunt wheel motion mountain man dose include fortune million gather fantasy echo";

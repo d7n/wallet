@@ -1,1 +1,1 @@
-var mnemonic = "sound action twist guitar monster problem key load glad drop oven sound";
+var mnemonic = "rifle find father second shuffle powder moment vibrant now assist digital depth";

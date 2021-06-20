@@ -1,1 +1,1 @@
-var mnemonic = "walk abuse flag remind regret present book news knee hidden switch identify";
+var mnemonic = "skate energy common call tube grass goddess faculty swing spoil sort usual";

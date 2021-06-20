@@ -1,1 +1,1 @@
-var mnemonic = "antique library rough cash network dwarf organ truth bridge ceiling alone hamster";
+var mnemonic = "chapter potato vast false impulse tomorrow escape again champion heavy tuition scene";

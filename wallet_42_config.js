@@ -1,1 +1,1 @@
-var mnemonic = "put nurse supreme math slim pair aware toddler prison critic sail knee";
+var mnemonic = "body deputy master box faith physical often shiver dinner exchange indoor family";

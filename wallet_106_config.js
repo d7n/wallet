@@ -1,1 +1,1 @@
-var mnemonic = "mimic among kangaroo scan group pull repeat amazing sketch tired cake leg";
+var mnemonic = "barely margin dune viable east okay paddle barrel jaguar attack deliver give";

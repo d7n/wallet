@@ -1,1 +1,1 @@
-var mnemonic = "oppose snack identify hungry naive room typical want tape wagon quit donkey";
+var mnemonic = "salt jazz height frog nurse device old bread else topple van about";

@@ -1,1 +1,1 @@
-var mnemonic = "forum frog rebel month place lady twice help behave help patient suit";
+var mnemonic = "course total gift ranch expose canal vote tortoise trial field measure assume";

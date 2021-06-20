@@ -1,1 +1,1 @@
-var mnemonic = "salon tip shop slam liberty skull deposit battle essay craft number fuel";
+var mnemonic = "grief hero double crack ring fix arrive corn inquiry inch brain ripple";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel liar exit amount miss curious monkey eagle announce grid neck trash";
+var mnemonic = "loyal empty kid fabric west rubber camp sample twist submit love rebel";

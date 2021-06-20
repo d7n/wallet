@@ -1,1 +1,1 @@
-var mnemonic = "luxury token visit heart book strategy hero hint offer survey depart core";
+var mnemonic = "gasp camp stove scout size junk way fork aspect text output cover";

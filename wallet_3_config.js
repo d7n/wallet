@@ -1,1 +1,1 @@
-var mnemonic = "board estate wrap poet baby burden hollow record fade garden diamond awake";
+var mnemonic = "suggest split smile syrup sauce regret forest juice clean cycle nut refuse";

@@ -1,1 +1,1 @@
-var mnemonic = "multiply reason tortoise awake clerk crane over trophy nature spy between sense";
+var mnemonic = "beauty sauce clerk tonight busy suit much alley prison lift hole mushroom";

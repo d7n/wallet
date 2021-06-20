@@ -1,1 +1,1 @@
-var mnemonic = "hobby swing vote armed apology ski sense ready theme arrive rail dwarf";
+var mnemonic = "drastic bonus wink spell august exact deliver pulp sense erode rude primary";

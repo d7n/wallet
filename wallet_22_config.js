@@ -1,1 +1,1 @@
-var mnemonic = "casino punch sight doll pool face bus lecture orphan jazz rose concert";
+var mnemonic = "runway view hen indoor approve grit suggest genre harvest security hurry buddy";

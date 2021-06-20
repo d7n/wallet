@@ -1,1 +1,1 @@
-var mnemonic = "spread drip dice gun parrot quality soup bring employ stadium hobby battle";
+var mnemonic = "copy speak copy metal nuclear fitness outer around stove way prevent relax";

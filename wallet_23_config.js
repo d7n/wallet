@@ -1,1 +1,1 @@
-var mnemonic = "wrong weekend share observe prosper upon shoe burden rubber catch trumpet sniff";
+var mnemonic = "cargo spend laptop cruise extend demand live purse indoor arrest find appear";

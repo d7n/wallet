@@ -1,1 +1,1 @@
-var mnemonic = "army green quit grab antenna alpha vessel drink simple version pepper acquire";
+var mnemonic = "avoid furnace they sense time human select angle morning siren gaze what";

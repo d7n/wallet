@@ -1,1 +1,1 @@
-var mnemonic = "green cliff travel device popular agree zone glove express armed fence desk";
+var mnemonic = "marriage dirt glass polar empty subject open when sniff social vapor impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow hotel damage wear bachelor provide domain web veteran profit badge spider";
+var mnemonic = "chronic machine barrel address job hawk celery drastic library seed move expect";

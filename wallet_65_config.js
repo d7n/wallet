@@ -1,1 +1,1 @@
-var mnemonic = "foster story transfer asthma able awkward type empower silver climb gym leaf";
+var mnemonic = "fortune fiction ivory lock divide record ranch cattle oxygen magnet voyage chaos";

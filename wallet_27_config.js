@@ -1,1 +1,1 @@
-var mnemonic = "ticket upset ensure lounge tray broken dice museum field exclude warrior garden";
+var mnemonic = "moment clever coffee survey pink horror benefit game thrive equip romance female";

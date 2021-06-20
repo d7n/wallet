@@ -1,1 +1,1 @@
-var mnemonic = "spider enact cook bamboo sleep oven van hint ordinary waste surface total";
+var mnemonic = "vacant flight hen absurd copper acoustic surge scheme cheese limit setup poem";

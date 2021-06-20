@@ -1,1 +1,1 @@
-var mnemonic = "slim harsh poet sudden repair wrestle play net tired pilot among height";
+var mnemonic = "dash answer toilet clump water join trade loan cotton capital august dance";

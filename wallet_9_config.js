@@ -1,1 +1,1 @@
-var mnemonic = "story debate giggle shift advice blush hungry tongue enemy vanish mercy drip";
+var mnemonic = "bullet win approve spoil evolve wasp release gallery best hill wing solar";

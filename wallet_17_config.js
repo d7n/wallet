@@ -1,1 +1,1 @@
-var mnemonic = "notable drill nut cave cheese company system myth cactus voyage vague practice";
+var mnemonic = "carpet champion check clock width found orient balcony reason head frame lobster";

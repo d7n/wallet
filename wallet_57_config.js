@@ -1,1 +1,1 @@
-var mnemonic = "pear zero clay duck step deputy sweet apple between bronze solution they";
+var mnemonic = "glue idle hover caution there kick else honey orbit involve stuff grunt";

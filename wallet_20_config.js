@@ -1,1 +1,1 @@
-var mnemonic = "resist border winter tackle success fossil okay nature cake soldier wire curious";
+var mnemonic = "ankle pioneer beyond clarify undo cliff dismiss rate acid south verb excite";

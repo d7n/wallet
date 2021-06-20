@@ -1,1 +1,1 @@
-var mnemonic = "fish ask island pill miss suffer rude course icon solid bachelor window";
+var mnemonic = "outdoor drama color onion jump hedgehog skill mosquito trim plunge session minimum";

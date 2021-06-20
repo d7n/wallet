@@ -1,1 +1,1 @@
-var mnemonic = "slush napkin photo mail midnight six crowd pair crunch over taste reject";
+var mnemonic = "faith chunk outdoor walk relax wait whale olive brick repair cash upper";

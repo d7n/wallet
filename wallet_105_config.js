@@ -1,1 +1,1 @@
-var mnemonic = "toe caught oblige squirrel tribe shallow judge injury cash gather define wave";
+var mnemonic = "blast canvas sort vote bind index brush toward such brick tuition guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "build birth throw burden excess cube rubber embrace assist guess excuse mixed";
+var mnemonic = "fine glow steel language mango zone purse rhythm post vendor athlete afford";

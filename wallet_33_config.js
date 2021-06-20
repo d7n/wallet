@@ -1,1 +1,1 @@
-var mnemonic = "pull execute eye length balcony winter toe oil ridge confirm arch trend";
+var mnemonic = "maximum entry time sunny access stable account together capital depend judge around";

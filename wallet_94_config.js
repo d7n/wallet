@@ -1,1 +1,1 @@
-var mnemonic = "unfair return crater fetch gossip interest stone boring earth argue topple usual";
+var mnemonic = "scan heavy praise bench over music error twice fatal black lunar pave";
