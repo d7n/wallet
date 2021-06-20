@@ -1,1 +1,1 @@
-var mnemonic = "butter inmate feed loud verb series broken number hundred sausage demise flee";
+var mnemonic = "powder sight increase scout cross manage spin divide fancy forward snack enemy";

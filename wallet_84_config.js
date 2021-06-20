@@ -1,1 +1,1 @@
-var mnemonic = "congress jungle midnight local tortoise immense powder tourist witness arrive aisle version";
+var mnemonic = "garment ice permit final supreme rural purpose lonely engage drama marine duck";

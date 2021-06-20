@@ -1,1 +1,1 @@
-var mnemonic = "mammal dinosaur tuition thing attitude license path run cupboard vivid chicken galaxy";
+var mnemonic = "mean sure snake fee exercise member scheme license danger alley patch canal";

@@ -1,1 +1,1 @@
-var mnemonic = "solve story shy decorate crush swift lawn indoor grain tuna brave address";
+var mnemonic = "young tooth planet virus know life steel liberty mosquito net oil initial";

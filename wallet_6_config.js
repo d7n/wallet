@@ -1,1 +1,1 @@
-var mnemonic = "toward math oppose expose envelope proud save weather copper rice unfold snack";
+var mnemonic = "spatial gentle sniff spell crane inject stairs air annual remember dinosaur absorb";

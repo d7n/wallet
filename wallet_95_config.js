@@ -1,1 +1,1 @@
-var mnemonic = "salt jazz height frog nurse device old bread else topple van about";
+var mnemonic = "window tube shoulder exchange charge change fatigue dizzy resource renew correct shell";

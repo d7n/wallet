@@ -1,1 +1,1 @@
-var mnemonic = "sad wool hospital afraid hollow portion salad loyal brain imitate inject vocal";
+var mnemonic = "prosper soap flower surround father april panel tongue push pepper small valid";

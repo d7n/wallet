@@ -1,1 +1,1 @@
-var mnemonic = "welcome embark leg tower addict gloom infant govern claw inherit today describe";
+var mnemonic = "swift grain adult erosion couple stuff solar crazy pass price naive segment";

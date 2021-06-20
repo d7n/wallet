@@ -1,1 +1,1 @@
-var mnemonic = "course total gift ranch expose canal vote tortoise trial field measure assume";
+var mnemonic = "thought answer ethics swing fatal call next cricket truck pull seat polar";

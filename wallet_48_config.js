@@ -1,1 +1,1 @@
-var mnemonic = "weapon artwork amateur clean wave devote bind field pair tumble resource include";
+var mnemonic = "suffer under tide wheel gain wedding bleak heart hammer devote broken noble";

@@ -1,1 +1,1 @@
-var mnemonic = "fix bind bike oak exclude fever diary pull cook region junk absurd";
+var mnemonic = "engage mango whisper hidden end waste crystal inform salad guess please answer";

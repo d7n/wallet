@@ -1,1 +1,1 @@
-var mnemonic = "grunt wheel motion mountain man dose include fortune million gather fantasy echo";
+var mnemonic = "educate rate hard ladder kangaroo loop wine buyer bomb talk height session";

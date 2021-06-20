@@ -1,1 +1,1 @@
-var mnemonic = "limit degree accuse relief illness wreck dignity number false fabric height virtual";
+var mnemonic = "innocent repair open brave rice poverty glass mesh demise badge include rent";

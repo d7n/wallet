@@ -1,1 +1,1 @@
-var mnemonic = "job shoulder fee pool reduce brass animal sweet cook sleep autumn raise";
+var mnemonic = "math stomach actress ramp work island jaguar return virtual lottery cable item";

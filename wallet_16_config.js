@@ -1,1 +1,1 @@
-var mnemonic = "blur limit soon amazing december neck nice shy drop fashion feel boring";
+var mnemonic = "congress stick cup medal faculty trophy squeeze misery rain nation mention crop";

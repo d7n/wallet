@@ -1,1 +1,1 @@
-var mnemonic = "budget about stage cake asset park vacuum bag heavy twenty dune legal";
+var mnemonic = "skin fancy melody sphere enroll lemon dizzy blade door evolve charge version";

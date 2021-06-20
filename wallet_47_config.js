@@ -1,1 +1,1 @@
-var mnemonic = "link hotel dismiss special sentence surge embrace grid chat elevator token toy";
+var mnemonic = "surprise life dry fiber adult birth error biology south daughter suffer garden";

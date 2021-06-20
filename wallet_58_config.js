@@ -1,1 +1,1 @@
-var mnemonic = "chapter potato vast false impulse tomorrow escape again champion heavy tuition scene";
+var mnemonic = "decrease unveil history timber library renew broccoli jazz country fence fall solid";

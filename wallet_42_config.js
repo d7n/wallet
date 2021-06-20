@@ -1,1 +1,1 @@
-var mnemonic = "body deputy master box faith physical often shiver dinner exchange indoor family";
+var mnemonic = "safe orphan portion comfort corn steel crystal soon online mansion lemon rate";

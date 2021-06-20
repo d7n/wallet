@@ -1,1 +1,1 @@
-var mnemonic = "soccer ring brick family toward tortoise two ordinary bicycle bike water fame";
+var mnemonic = "oil patient denial rug gift razor rain moment hamster rebuild skirt wagon";

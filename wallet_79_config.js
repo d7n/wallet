@@ -1,1 +1,1 @@
-var mnemonic = "hill lobster hammer gaze note carry vague wrap engage matrix improve balance";
+var mnemonic = "dry lock muffin light math blossom embark stool rent solar shield theme";

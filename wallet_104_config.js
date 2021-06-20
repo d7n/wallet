@@ -1,1 +1,1 @@
-var mnemonic = "rifle find father second shuffle powder moment vibrant now assist digital depth";
+var mnemonic = "dust response dry arena kick area pulp reopen earn fix sport daring";

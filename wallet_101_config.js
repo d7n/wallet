@@ -1,1 +1,1 @@
-var mnemonic = "wagon merry diary chief buddy light shrug noise man steel affair pact";
+var mnemonic = "anger helmet diary trip afford layer else fresh hospital random symbol dismiss";

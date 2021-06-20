@@ -1,1 +1,1 @@
-var mnemonic = "faith chunk outdoor walk relax wait whale olive brick repair cash upper";
+var mnemonic = "off waste clock angry stereo fossil nature goat early surge vendor melt";

@@ -1,1 +1,1 @@
-var mnemonic = "life pool artist nuclear predict crawl among slow churn art oppose stick";
+var mnemonic = "surprise leg target sister impact caution ski scatter rifle play snow animal";

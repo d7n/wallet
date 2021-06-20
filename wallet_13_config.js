@@ -1,1 +1,1 @@
-var mnemonic = "seat sketch portion mesh pride winner twice soup hub cup grant require";
+var mnemonic = "question witness lyrics brown planet once cable nice enable person example vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "glue idle hover caution there kick else honey orbit involve stuff grunt";
+var mnemonic = "cook task business sound enough tuition buyer rich rib ride butter jealous";

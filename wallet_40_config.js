@@ -1,1 +1,1 @@
-var mnemonic = "file mean during dilemma lobster hold laugh movie apology lady emerge cluster";
+var mnemonic = "rabbit style grid lesson domain energy meadow ivory wolf nasty update naive";

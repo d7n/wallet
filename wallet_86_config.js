@@ -1,1 +1,1 @@
-var mnemonic = "knife false flight glimpse drop myself rail blast rare elder glass run";
+var mnemonic = "print unit lemon shine used obtain marble brick argue wreck obey ten";

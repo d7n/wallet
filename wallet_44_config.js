@@ -1,1 +1,1 @@
-var mnemonic = "there thank argue still hen cinnamon course near then earth quiz where";
+var mnemonic = "tomato fee butter shine pass reject direct choice prevent they resist improve";

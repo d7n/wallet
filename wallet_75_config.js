@@ -1,1 +1,1 @@
-var mnemonic = "embrace erupt punch must execute little enact van report room chaos sudden";
+var mnemonic = "three exit athlete brisk outside grit gold rhythm biology chalk phrase mean";

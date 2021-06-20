@@ -1,1 +1,1 @@
-var mnemonic = "spot arctic buffalo muscle eye humor injury warm sweet broom office oak";
+var mnemonic = "reward announce they delay subject dust smile route length foam certain evolve";

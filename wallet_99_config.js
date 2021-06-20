@@ -1,1 +1,1 @@
-var mnemonic = "battle they theme leopard price trim segment tackle parrot input job decide";
+var mnemonic = "any hospital emotion legend uncover just distance banner middle rifle vacuum cash";

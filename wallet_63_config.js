@@ -1,1 +1,1 @@
-var mnemonic = "mouse pelican hill pill hub citizen rigid alien kidney timber sick produce";
+var mnemonic = "phrase recipe curious shallow rug avoid honey idle skirt label unit shop";

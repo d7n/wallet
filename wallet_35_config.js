@@ -1,1 +1,1 @@
-var mnemonic = "gasp camp stove scout size junk way fork aspect text output cover";
+var mnemonic = "tail quiz tumble elevator grocery kingdom number eternal setup elite weather dream";

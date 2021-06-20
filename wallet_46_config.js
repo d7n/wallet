@@ -1,1 +1,1 @@
-var mnemonic = "fine glow steel language mango zone purse rhythm post vendor athlete afford";
+var mnemonic = "exclude slice earn globe island extend inquiry poem start buzz list crash";

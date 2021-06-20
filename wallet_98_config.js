@@ -1,1 +1,1 @@
-var mnemonic = "uphold glad about race melt sentence jump exile family negative entry crew";
+var mnemonic = "toilet social enable cycle unable company bamboo kind what repair age era";

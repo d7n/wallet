@@ -1,1 +1,1 @@
-var mnemonic = "middle steel wasp essence bitter have venue begin bean collect faculty audit";
+var mnemonic = "false private muscle obvious turtle one beauty service beef exclude scare fiber";

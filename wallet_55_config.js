@@ -1,1 +1,1 @@
-var mnemonic = "avoid furnace they sense time human select angle morning siren gaze what";
+var mnemonic = "quarter medal modify tube joy fiction sign source help torch relief trigger";

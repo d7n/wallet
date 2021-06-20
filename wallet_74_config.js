@@ -1,1 +1,1 @@
-var mnemonic = "universe draw series judge doll hood quote above choose replace myth gift";
+var mnemonic = "deny hollow snow ticket lemon act glue zero test cherry oak hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "dash answer toilet clump water join trade loan cotton capital august dance";
+var mnemonic = "panda daughter blind neutral beyond talent prize tip million guide snow large";

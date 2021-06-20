@@ -1,1 +1,1 @@
-var mnemonic = "either island artwork menu try demise deer chief another inhale language various";
+var mnemonic = "illness stadium minute verify craft mask add arch clump farm movie argue";

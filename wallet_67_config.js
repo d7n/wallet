@@ -1,1 +1,1 @@
-var mnemonic = "inflict subject client chief release soda dirt coconut much kind sell bean";
+var mnemonic = "nothing swallow net attack garbage term grab farm sure dish chaos admit";

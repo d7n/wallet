@@ -1,1 +1,1 @@
-var mnemonic = "quantum husband also tuna kite medal tiger canyon sound broken embody pass";
+var mnemonic = "remember sure empty piano embark glory coast urban expire dream illegal whisper";

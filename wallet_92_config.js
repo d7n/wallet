@@ -1,1 +1,1 @@
-var mnemonic = "kid antique dragon pluck buzz brand enlist direct sibling pluck check emerge";
+var mnemonic = "race loan type pioneer enter actual loyal nephew general people distance latin";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic bonus wink spell august exact deliver pulp sense erode rude primary";
+var mnemonic = "upgrade crane left umbrella dumb basic flower blush layer demand enforce gaze";

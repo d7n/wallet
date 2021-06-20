@@ -1,1 +1,1 @@
-var mnemonic = "notice aspect regret beef lazy among twin benefit expose coil rigid give";
+var mnemonic = "clown remove giraffe crumble topple post bring envelope game rule group purse";

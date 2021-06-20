@@ -1,1 +1,1 @@
-var mnemonic = "carpet champion check clock width found orient balcony reason head frame lobster";
+var mnemonic = "prison gadget neck magic pet bullet cinnamon boss auto oyster top path";

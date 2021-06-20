@@ -1,1 +1,1 @@
-var mnemonic = "steel wage wire muscle hurdle ignore turkey future swallow current loyal destroy";
+var mnemonic = "gain song employ throw slender more wrap response steel arrow eye buffalo";

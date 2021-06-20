@@ -1,1 +1,1 @@
-var mnemonic = "tongue toast boat airport final one mutual result weird dizzy you long";
+var mnemonic = "another improve protect hood visit express obscure result kiwi then aerobic venue";

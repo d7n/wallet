@@ -1,1 +1,1 @@
-var mnemonic = "okay brave empower noise decline ancient badge dolphin hungry blush chief verb";
+var mnemonic = "garden canvas swallow blush resist exist cotton brown frozen clip follow music";

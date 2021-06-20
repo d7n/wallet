@@ -1,1 +1,1 @@
-var mnemonic = "island access cash lamp spread gown gesture burden use auction bronze target";
+var mnemonic = "add segment boost govern snack pottery clerk phrase purse pool grape gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant flight hen absurd copper acoustic surge scheme cheese limit setup poem";
+var mnemonic = "false good nephew army viable reunion gain like arrive song wasp spot";

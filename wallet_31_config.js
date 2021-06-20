@@ -1,1 +1,1 @@
-var mnemonic = "inherit gaze tenant stock nerve cup apple pledge derive utility only kitten";
+var mnemonic = "genuine hotel since fly rebel pledge search endless diet peace history master";

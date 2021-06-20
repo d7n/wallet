@@ -1,1 +1,1 @@
-var mnemonic = "marriage dirt glass polar empty subject open when sniff social vapor impulse";
+var mnemonic = "undo company dust foil notable timber coyote curious misery secret stove enroll";

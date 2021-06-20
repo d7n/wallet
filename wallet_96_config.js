@@ -1,1 +1,1 @@
-var mnemonic = "cricket river keep coast pond entire gym series vast bid isolate initial";
+var mnemonic = "never rail wink earth lab range hold poverty payment crazy call tunnel";

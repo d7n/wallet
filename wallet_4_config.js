@@ -1,1 +1,1 @@
-var mnemonic = "humor skin question chunk enforce convince yellow spatial else grunt come family";
+var mnemonic = "weird drastic vote they drink discover page settle accuse unfold suit summer";

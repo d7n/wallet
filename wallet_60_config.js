@@ -1,1 +1,1 @@
-var mnemonic = "step broken skirt wedding cook adapt poem explain limb assume scout design";
+var mnemonic = "coil student hotel all game arrive crazy wife wood drip wink broken";

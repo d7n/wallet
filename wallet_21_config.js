@@ -1,1 +1,1 @@
-var mnemonic = "people cotton teach position pony pool winter square foil unlock waste gospel";
+var mnemonic = "host daughter picnic detect example grape manage cute bundle gallery swim glare";

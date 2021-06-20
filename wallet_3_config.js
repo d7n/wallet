@@ -1,1 +1,1 @@
-var mnemonic = "suggest split smile syrup sauce regret forest juice clean cycle nut refuse";
+var mnemonic = "shop learn enhance crowd wonder occur truly dish awesome giggle lazy birth";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum entry time sunny access stable account together capital depend judge around";
+var mnemonic = "thunder crowd marriage attitude above struggle feed few want glow bracket rude";

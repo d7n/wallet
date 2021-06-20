@@ -1,1 +1,1 @@
-var mnemonic = "bicycle control swamp admit strategy twin fashion practice bracket baby accident use";
+var mnemonic = "coral tired win west dog mail comfort mandate method fresh gift kiss";

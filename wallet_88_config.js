@@ -1,1 +1,1 @@
-var mnemonic = "resist exhibit sniff pulse polar observe seek shadow inch mule spatial avocado";
+var mnemonic = "crack steak hat judge canvas miss fork mixture lemon ribbon ankle pipe";

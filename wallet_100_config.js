@@ -1,1 +1,1 @@
-var mnemonic = "draft abstract eight pumpkin lounge east pulp session weird travel talk alert";
+var mnemonic = "work gesture license twelve symbol champion lunch another legend mango mix sausage";

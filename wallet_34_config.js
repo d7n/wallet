@@ -1,1 +1,1 @@
-var mnemonic = "bomb nasty tell absurd enemy priority express cinnamon treat kick offer battle";
+var mnemonic = "multiply gravity volcano bar actual middle sick also jelly either science bronze";

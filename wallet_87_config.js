@@ -1,1 +1,1 @@
-var mnemonic = "physical away orbit holiday float crater artist accuse live allow fence design";
+var mnemonic = "cabin fashion pioneer shoulder need laptop crime aware orient ball furnace blouse";

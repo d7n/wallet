@@ -1,1 +1,1 @@
-var mnemonic = "bullet win approve spoil evolve wasp release gallery best hill wing solar";
+var mnemonic = "ten hobby defy victory child time dog cream asthma ability clip answer";

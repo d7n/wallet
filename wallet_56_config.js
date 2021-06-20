@@ -1,1 +1,1 @@
-var mnemonic = "either trap area marble this odor physical assist tackle visual cancel circle";
+var mnemonic = "hen lava timber initial monkey air belt stone panda dumb nose night";

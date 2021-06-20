@@ -1,1 +1,1 @@
-var mnemonic = "caught finish swarm type south dwarf juice slight special today fine tumble";
+var mnemonic = "sudden inner chief affair cook monster hurry impulse profit hidden clutch more";

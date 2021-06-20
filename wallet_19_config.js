@@ -1,1 +1,1 @@
-var mnemonic = "toe youth imitate buddy law satoshi box oblige viable airport leaf trophy";
+var mnemonic = "reject very style car matter gown radar opinion paper flock agree coil";

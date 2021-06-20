@@ -1,1 +1,1 @@
-var mnemonic = "grief hero double crack ring fix arrive corn inquiry inch brain ripple";
+var mnemonic = "side shadow govern sausage rent dress surface beyond plastic flight street ethics";

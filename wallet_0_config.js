@@ -1,1 +1,1 @@
-var mnemonic = "step crash have jealous fat able one captain crouch breeze permit hunt";
+var mnemonic = "return glue indicate spirit sure siege defense unique special finish luxury try";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune fiction ivory lock divide record ranch cattle oxygen magnet voyage chaos";
+var mnemonic = "volume ill conduct wool toddler wrestle gospel barrel receive iron team chef";

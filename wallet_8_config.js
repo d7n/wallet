@@ -1,1 +1,1 @@
-var mnemonic = "alarm canal general please oven camp nominee one spare initial deposit worth";
+var mnemonic = "nose budget mimic salt zero yard useful dust fiber sight meat plastic";

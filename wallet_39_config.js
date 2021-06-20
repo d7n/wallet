@@ -1,1 +1,1 @@
-var mnemonic = "survey budget nation lady require rigid fiber wedding ankle school invite citizen";
+var mnemonic = "movie onion resist execute virus exhibit marine soup sure brand bomb act";

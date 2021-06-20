@@ -1,1 +1,1 @@
-var mnemonic = "napkin faculty emerge betray borrow save enrich violin half boring random pass";
+var mnemonic = "walnut expose idle buyer evidence tomato demand rookie arrow often trumpet pig";

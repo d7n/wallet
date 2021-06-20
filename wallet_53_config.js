@@ -1,1 +1,1 @@
-var mnemonic = "skate energy common call tube grass goddess faculty swing spoil sort usual";
+var mnemonic = "bulb width shield thrive unknown flash october together into random narrow dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "measure girl hedgehog during sudden govern message august melody rescue label machine";
+var mnemonic = "expire nephew foot chapter airport suspect glue palm artefact rude stove actual";

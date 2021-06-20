@@ -1,1 +1,1 @@
-var mnemonic = "blast canvas sort vote bind index brush toward such brick tuition guitar";
+var mnemonic = "cotton result angry youth vapor crater twin pitch initial million humor ostrich";

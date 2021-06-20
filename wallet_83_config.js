@@ -1,1 +1,1 @@
-var mnemonic = "crane copper isolate size curious under under warfare stool loan broccoli clock";
+var mnemonic = "rose blue toast grass remove student salon trumpet excite net desert diet";

@@ -1,1 +1,1 @@
-var mnemonic = "hope baby later long pink great sort razor alpha relief invite funny";
+var mnemonic = "medal upgrade license fitness tray demise diet yard load conduct order local";

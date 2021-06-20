@@ -1,1 +1,1 @@
-var mnemonic = "outdoor drama color onion jump hedgehog skill mosquito trim plunge session minimum";
+var mnemonic = "utility bless lucky saddle domain reveal item just draw medal embark shove";

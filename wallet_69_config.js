@@ -1,1 +1,1 @@
-var mnemonic = "wild soon exact salt result flight moral addict cup alcohol awesome woman";
+var mnemonic = "sting december trigger naive math cloud cave because subway track inner fury";

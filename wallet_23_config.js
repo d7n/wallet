@@ -1,1 +1,1 @@
-var mnemonic = "cargo spend laptop cruise extend demand live purse indoor arrest find appear";
+var mnemonic = "nasty chunk quote chair crazy click yellow permit until mail fork fat";

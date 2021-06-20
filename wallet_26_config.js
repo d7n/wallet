@@ -1,1 +1,1 @@
-var mnemonic = "shift gasp chief patrol cloth iron today odor fat concert smoke hair";
+var mnemonic = "banner egg language august atom master capable habit whisper rail visual either";

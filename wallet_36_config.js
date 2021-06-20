@@ -1,1 +1,1 @@
-var mnemonic = "copy speak copy metal nuclear fitness outer around stove way prevent relax";
+var mnemonic = "nut ribbon key shine pink assault mix defy woman humble actor secret";

@@ -1,1 +1,1 @@
-var mnemonic = "runway view hen indoor approve grit suggest genre harvest security hurry buddy";
+var mnemonic = "gown use swim weird flower rhythm hole vibrant glare truly camera squirrel";

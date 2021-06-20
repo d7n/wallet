@@ -1,1 +1,1 @@
-var mnemonic = "later agent garlic jeans dumb access awkward wish enact develop upon purpose";
+var mnemonic = "live summer sponsor stand find round prosper shell maximum album fatal parent";

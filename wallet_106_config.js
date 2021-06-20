@@ -1,1 +1,1 @@
-var mnemonic = "barely margin dune viable east okay paddle barrel jaguar attack deliver give";
+var mnemonic = "alone pear bomb antique defy diary will bring gallery engine sight forward";

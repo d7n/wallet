@@ -1,1 +1,1 @@
-var mnemonic = "cage goose must cart index spread smile spice current bar firm ready";
+var mnemonic = "milk antenna split bright eager that aim fat stock dutch ancient inmate";

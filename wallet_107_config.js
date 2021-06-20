@@ -1,1 +1,1 @@
-var mnemonic = "loyal empty kid fabric west rubber camp sample twist submit love rebel";
+var mnemonic = "tag stick bleak obscure siege regret boy supply key glue easy cliff";
