@@ -1,1 +1,1 @@
-var mnemonic = "dismiss fruit pill purpose year draft direct engine happy mass assault true";
+var mnemonic = "hundred garment peace eagle stairs deal three clump act patch maze post";

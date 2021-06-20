@@ -1,1 +1,1 @@
-var mnemonic = "uniform rare screen annual credit unhappy civil paddle wet powder develop junior";
+var mnemonic = "hill ramp load critic circle burst culture guide leisure paper mixture replace";

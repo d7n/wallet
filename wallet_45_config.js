@@ -1,1 +1,1 @@
-var mnemonic = "feed equip stadium spoon duck empower unusual crack walk knock perfect kidney";
+var mnemonic = "squirrel leader hurry dose beyond laugh link junk hidden label chief patient";

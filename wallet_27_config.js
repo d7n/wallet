@@ -1,1 +1,1 @@
-var mnemonic = "west dolphin welcome range goose aim slender almost trap suffer wealth knock";
+var mnemonic = "kidney breeze taxi smile switch text raw excess again patrol monster outside";

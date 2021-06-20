@@ -1,1 +1,1 @@
-var mnemonic = "kitten jar hint model cabin skirt cabbage fine side electric illness hire";
+var mnemonic = "erupt glove obvious use chase toddler magic gallery mistake awful rough worth";

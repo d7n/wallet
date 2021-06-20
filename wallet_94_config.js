@@ -1,1 +1,1 @@
-var mnemonic = "script upon skate supreme crane stove okay tennis blood daughter pig main";
+var mnemonic = "response okay journey sure bring oxygen column device piece verb scrap erupt";

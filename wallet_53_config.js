@@ -1,1 +1,1 @@
-var mnemonic = "dentist can unveil welcome boss dad bulb palace panther future fade judge";
+var mnemonic = "pizza build cattle when visa curve slush shrimp casual dove vintage suffer";

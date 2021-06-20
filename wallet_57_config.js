@@ -1,1 +1,1 @@
-var mnemonic = "cable season open pull arrest despair table snack repeat siren control vital";
+var mnemonic = "art clay market boat vote special leader beach cigar scout flee believe";

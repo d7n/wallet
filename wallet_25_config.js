@@ -1,1 +1,1 @@
-var mnemonic = "goat prison snack bag purity fruit inject cruel car robot slender message";
+var mnemonic = "wall monitor slogan law debate into curve term purpose group quiz bus";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle lion crash health maple tourist surprise debris maid input industry tornado";
+var mnemonic = "sleep power nut lava swing salon cream sort rapid cargo soccer anger";

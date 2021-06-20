@@ -1,1 +1,1 @@
-var mnemonic = "crunch patient crawl tuna select amateur expand inspire equip invest shallow tower";
+var mnemonic = "hill fringe swallow sight spring brief issue enemy wide two cat fish";

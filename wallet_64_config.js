@@ -1,1 +1,1 @@
-var mnemonic = "capable visual boss floor solution core kit sketch crash hope hybrid twenty";
+var mnemonic = "device service item leaf bullet mother offer web summer collect account tenant";

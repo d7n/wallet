@@ -1,1 +1,1 @@
-var mnemonic = "credit advance dose ahead one author prefer enlist salon someone useful turkey";
+var mnemonic = "arrive aerobic occur saddle group coffee delay banana refuse install antenna ghost";

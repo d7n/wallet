@@ -1,1 +1,1 @@
-var mnemonic = "please rug budget kid seed once equip cancel jacket stuff near vanish";
+var mnemonic = "brief stamp lawsuit pet wagon table century hammer rotate rude install win";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital faint priority suffer stool they velvet all write present debate undo";
+var mnemonic = "next wage ocean ticket swift usage run heavy spoon fine odor hotel";

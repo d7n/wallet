@@ -1,1 +1,1 @@
-var mnemonic = "vague boil six south worry virus boy flag room gallery margin language";
+var mnemonic = "into make tower satoshi panel route chef word adjust kitten miss device";

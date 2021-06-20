@@ -1,1 +1,1 @@
-var mnemonic = "capable gun isolate napkin person charge energy worth wasp when report stereo";
+var mnemonic = "twist one antique mass program want color mirror miss piece payment wealth";

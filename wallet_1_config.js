@@ -1,1 +1,1 @@
-var mnemonic = "shove capital pumpkin letter inquiry future town own hard hill slot total";
+var mnemonic = "shrug laptop mistake record outer absurd reduce summer year huge father nature";

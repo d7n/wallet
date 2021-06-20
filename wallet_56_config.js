@@ -1,1 +1,1 @@
-var mnemonic = "copy grace beyond tilt receive note limit liar minute man rain salmon";
+var mnemonic = "often coffee style since code exotic rather donor flat stamp disease favorite";

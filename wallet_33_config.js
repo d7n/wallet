@@ -1,1 +1,1 @@
-var mnemonic = "surge become thank tree mutual donate tree silent motion stem zebra wheel";
+var mnemonic = "media immune cream chair hero pave tomorrow always smile crater price friend";

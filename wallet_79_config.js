@@ -1,1 +1,1 @@
-var mnemonic = "brass region develop maximum expand shadow car trend crime mule demise gun";
+var mnemonic = "winner kingdom document promote theory hat romance wasp exact illness music bench";

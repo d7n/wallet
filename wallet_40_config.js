@@ -1,1 +1,1 @@
-var mnemonic = "erupt fat guilt rough diet fox audit key common impulse arrange badge";
+var mnemonic = "round soap draft bubble just north adult ancient fee entire emerge focus";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle skate grunt hurry other brain toward cloud practice cannon matter subway";
+var mnemonic = "dwarf stamp dose gloom shaft deal category during thrive short insect vacuum";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic open census absent census bitter actual slam random stool tuna network";
+var mnemonic = "satisfy transfer method truck strike spare twist turkey little hurt possible hill";

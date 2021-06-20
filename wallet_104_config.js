@@ -1,1 +1,1 @@
-var mnemonic = "eight timber dial wisdom round busy zebra thunder barely truck weather elbow";
+var mnemonic = "shadow force violin private scheme find side emotion deer dentist type address";

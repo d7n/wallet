@@ -1,1 +1,1 @@
-var mnemonic = "girl patrol desk blue shop portion measure prefer stay federal citizen victory";
+var mnemonic = "twelve heavy horn easily era tunnel piano negative finger boss lake sure";

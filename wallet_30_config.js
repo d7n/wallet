@@ -1,1 +1,1 @@
-var mnemonic = "caught angry fiscal payment artefact shallow need virtual panther dry theory raw";
+var mnemonic = "very vote cool patch doll often impose crush equip often kiwi gesture";

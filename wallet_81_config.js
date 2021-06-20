@@ -1,1 +1,1 @@
-var mnemonic = "fame valid size surround stairs shield lady truck crew addict butter drama";
+var mnemonic = "thank attract pluck debate slim orient version promote silver quality hen during";

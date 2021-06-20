@@ -1,1 +1,1 @@
-var mnemonic = "flush glow pitch kidney day make seminar alert baby then brain blouse";
+var mnemonic = "cute skull rough kiwi elegant over bronze typical tag private novel evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "cute glove child stove prize shell will hero table battle economy mass";
+var mnemonic = "diesel phone slight auction ship steak vehicle daughter soft curious nuclear frog";

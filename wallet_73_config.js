@@ -1,1 +1,1 @@
-var mnemonic = "resemble enhance engage upper average chef tongue allow element forest phrase broken";
+var mnemonic = "circle devote lava prefer bacon fluid voyage arm current paper fever luxury";

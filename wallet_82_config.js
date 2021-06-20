@@ -1,1 +1,1 @@
-var mnemonic = "column raise blame tent author hat frame six stem spice domain unaware";
+var mnemonic = "frog differ wear include pipe clarify double boat stool dumb obey faculty";

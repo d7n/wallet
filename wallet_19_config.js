@@ -1,1 +1,1 @@
-var mnemonic = "magic forward garlic woman volcano cause track tent need meat pet lyrics";
+var mnemonic = "copy wise another laundry intact distance wait smooth ranch trade convince token";

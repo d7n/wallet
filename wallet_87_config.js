@@ -1,1 +1,1 @@
-var mnemonic = "company tuition snake scare inside shoot hamster sample sunny drip layer heart";
+var mnemonic = "copper blanket fetch nominee nephew mango often success afford crucial north depth";

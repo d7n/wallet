@@ -1,1 +1,1 @@
-var mnemonic = "believe demise lumber midnight renew review shuffle smile bid crew believe live";
+var mnemonic = "start nose must report abstract warrior motion excess beef palm ignore purity";

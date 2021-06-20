@@ -1,1 +1,1 @@
-var mnemonic = "upset assist entry spatial equal clock chicken silver busy unknown lucky wine";
+var mnemonic = "rent fire hybrid veteran exact motor duck rough intact truly isolate food";

@@ -1,1 +1,1 @@
-var mnemonic = "silk frequent skate meadow rival before symbol lady gesture aspect accident child";
+var mnemonic = "acid negative upon hill custom upgrade ceiling quality whip purchase supreme skill";

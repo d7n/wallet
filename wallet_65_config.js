@@ -1,1 +1,1 @@
-var mnemonic = "number east decorate crime shock leave damp betray eternal math excess feed";
+var mnemonic = "inch spring only matter organ enter twice pipe carpet purpose mask ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "pause despair uniform pitch garbage isolate congress charge adjust furnace path crater";
+var mnemonic = "logic light crisp shell purse clap expect thank cream tip penalty surround";

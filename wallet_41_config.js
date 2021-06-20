@@ -1,1 +1,1 @@
-var mnemonic = "tank armor flame crack brass sting asthma castle ocean correct clap harsh";
+var mnemonic = "music spread dial shoe cute cricket brush transfer churn kick fire come";

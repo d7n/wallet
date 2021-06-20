@@ -1,1 +1,1 @@
-var mnemonic = "hero across gasp level bulk ranch collect usage february sock cushion drill";
+var mnemonic = "flee talk pave claw vote soldier wife poem tiny snow example calm";

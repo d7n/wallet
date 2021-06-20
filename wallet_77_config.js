@@ -1,1 +1,1 @@
-var mnemonic = "radio arrange case gauge infant title purpose auction country door skirt bleak";
+var mnemonic = "snap oblige funny mango six fade retire jealous orange face soda despair";

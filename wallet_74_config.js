@@ -1,1 +1,1 @@
-var mnemonic = "salad dinner library wage lazy age whip scan hire message renew hire";
+var mnemonic = "logic first stove hazard razor slush cabbage will reject local baby wing";

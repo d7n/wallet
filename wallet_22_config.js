@@ -1,1 +1,1 @@
-var mnemonic = "cook ethics size canvas tattoo series fat flee orient loyal nuclear again";
+var mnemonic = "alcohol state glimpse tube prevent enact beyond alone cruel funny swim input";

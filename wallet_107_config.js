@@ -1,1 +1,1 @@
-var mnemonic = "clap luxury trend nature sphere size style burger fold burger method index";
+var mnemonic = "question asset used easily airport carbon toy neglect assist volcano trap rate";

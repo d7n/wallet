@@ -1,1 +1,1 @@
-var mnemonic = "rotate opera allow draft roast struggle monster glory heart resource split unit";
+var mnemonic = "imitate style pool develop view work away little early buzz exact owner";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse useless phone blouse raw material text flash use else object daring";
+var mnemonic = "bright enjoy staff demise measure firm helmet tattoo become unable body tone";

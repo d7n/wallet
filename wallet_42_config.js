@@ -1,1 +1,1 @@
-var mnemonic = "possible census appear book grant snow route twenty student aerobic rotate crack";
+var mnemonic = "material bargain chief tag victory come bacon marriage salmon sad caught secret";

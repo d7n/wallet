@@ -1,1 +1,1 @@
-var mnemonic = "gun example chair loop foster afraid pulp park rose embrace slot reduce";
+var mnemonic = "bean practice romance cannon include pony sense leopard spell change strike pulse";

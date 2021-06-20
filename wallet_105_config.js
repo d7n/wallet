@@ -1,1 +1,1 @@
-var mnemonic = "banner occur luggage loyal party uncover ghost lend clever egg inner name";
+var mnemonic = "chimney fabric mercy wolf moon hole deal merry they odor ceiling brick";

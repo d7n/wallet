@@ -1,1 +1,1 @@
-var mnemonic = "chaos drill luxury solar marriage pony false can pride sting allow open";
+var mnemonic = "swamp grass fruit surround ensure seek august deposit typical text choice sock";

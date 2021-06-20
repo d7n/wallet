@@ -1,1 +1,1 @@
-var mnemonic = "science renew slot axis spell brick mix rough spider head volcano shiver";
+var mnemonic = "club pizza fragile rice scare lawn echo health music syrup always daughter";

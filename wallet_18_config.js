@@ -1,1 +1,1 @@
-var mnemonic = "until gasp summer purse brother mad mansion quality cake host kick enjoy";
+var mnemonic = "voice wisdom hamster enable section amateur mass deputy job again million endorse";

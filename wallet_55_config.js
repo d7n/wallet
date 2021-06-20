@@ -1,1 +1,1 @@
-var mnemonic = "bid bonus hundred cluster ahead okay industry april pepper waste boss legend";
+var mnemonic = "point kid income crane since quantum van hello choose elevator hub unusual";

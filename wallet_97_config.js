@@ -1,1 +1,1 @@
-var mnemonic = "cancel what side kangaroo type crazy talk saddle reason negative bundle army";
+var mnemonic = "host century stove invite trap witness regret portion donor tattoo satisfy able";

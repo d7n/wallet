@@ -1,1 +1,1 @@
-var mnemonic = "friend february clutch child tragic artist spice jacket practice course thumb bind";
+var mnemonic = "inspire dust differ engage future weasel scheme dolphin buzz dynamic concert media";

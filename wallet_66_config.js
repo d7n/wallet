@@ -1,1 +1,1 @@
-var mnemonic = "report protect border two enact suspect myth that nurse seek ozone three";
+var mnemonic = "patch slam tornado relax rent usual occur pulp define glance injury first";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic dream parent cliff install improve glove talent tornado elite ceiling name";
+var mnemonic = "equip denial move diagram debris run matter spirit mushroom jelly legal gospel";

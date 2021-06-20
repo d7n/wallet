@@ -1,1 +1,1 @@
-var mnemonic = "album half cry soda great mean renew poverty barely unit air slim";
+var mnemonic = "wood meadow box black crash degree promote fatigue enemy shield deer bar";

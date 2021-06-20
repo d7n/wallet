@@ -1,1 +1,1 @@
-var mnemonic = "join avocado elbow summer fossil demand tomato river fence bridge hover cat";
+var mnemonic = "foil pizza family muffin fabric leg survey sibling load submit narrow doctor";

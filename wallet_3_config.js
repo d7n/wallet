@@ -1,1 +1,1 @@
-var mnemonic = "sheriff thought stuff bread solid cargo sell feature soap alert anger seminar";
+var mnemonic = "entire mean real caution canal viable history mom miracle apart electric two";

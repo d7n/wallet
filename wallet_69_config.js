@@ -1,1 +1,1 @@
-var mnemonic = "survey rib essence icon huge begin burden drip connect benefit twelve prosper";
+var mnemonic = "swing dog income museum caution intact trend shove usual island grocery ramp";

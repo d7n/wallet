@@ -1,1 +1,1 @@
-var mnemonic = "below build carpet liquid merge trick pattern real cradle donate miracle walnut";
+var mnemonic = "window list clutch scissors decade filter bid oxygen pudding bottom inner peace";

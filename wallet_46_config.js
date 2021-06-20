@@ -1,1 +1,1 @@
-var mnemonic = "slot illegal board because milk human trade stage cause under detail leave";
+var mnemonic = "essay field position glad empower version outdoor derive arrow festival they kiss";

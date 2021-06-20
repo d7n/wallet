@@ -1,1 +1,1 @@
-var mnemonic = "wood blush private ranch refuse solid nice donor script peanut tomorrow orange";
+var mnemonic = "shadow romance stuff clinic record praise sad amazing identify stereo custom item";

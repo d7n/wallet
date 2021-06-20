@@ -1,1 +1,1 @@
-var mnemonic = "mouse float ankle nasty sweet afraid prepare trash extra hobby common fancy";
+var mnemonic = "elder spider trim time close insane afford among wear cook bridge page";

@@ -1,1 +1,1 @@
-var mnemonic = "always twenty wood debris pilot wheat edge intact fade another cloud shoe";
+var mnemonic = "fatal zone predict clerk hammer profit lawn few indicate abuse avoid minor";

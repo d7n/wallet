@@ -1,1 +1,1 @@
-var mnemonic = "hidden pottery garment danger nuclear arm clutch air toe primary endless divert";
+var mnemonic = "return error consider cruel wire festival kidney wet memory polar fly topple";

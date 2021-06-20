@@ -1,1 +1,1 @@
-var mnemonic = "nasty equal tool pen stool degree list creek chair donor crystal lawn";
+var mnemonic = "invest rent section pool hub damp reason taxi elder end magnet famous";

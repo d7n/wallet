@@ -1,1 +1,1 @@
-var mnemonic = "forum illness dust arrow panda sniff undo foil hood idea brush coral";
+var mnemonic = "ignore visa custom march right gown banana fire ordinary heavy repair spare";

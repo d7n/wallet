@@ -1,1 +1,1 @@
-var mnemonic = "embrace earth rhythm impose popular hybrid drum basic logic mass coral math";
+var mnemonic = "lawsuit illness spider ecology dress rather fix hazard evil worth sport need";

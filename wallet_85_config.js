@@ -1,1 +1,1 @@
-var mnemonic = "change duck mosquito twist blood lunch polar come mistake second lunch injury";
+var mnemonic = "plug seed vast damp vapor grit shed side envelope embrace double final";

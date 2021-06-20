@@ -1,1 +1,1 @@
-var mnemonic = "home surprise subway focus clinic canal flame invite link fog rule emotion";
+var mnemonic = "work praise language evoke few motor coast original area engage axis master";

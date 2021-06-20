@@ -1,1 +1,1 @@
-var mnemonic = "cycle goat hand grief glare forget face parrot motion gasp whisper tattoo";
+var mnemonic = "frozen always feature true mistake stem elegant brand repeat muscle wolf speed";

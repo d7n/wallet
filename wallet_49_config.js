@@ -1,1 +1,1 @@
-var mnemonic = "oak into agent arrow voyage novel race embody hockey odor fuel street";
+var mnemonic = "hotel edit desk wasp toddler awesome innocent earth trap labor busy room";

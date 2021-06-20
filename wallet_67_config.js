@@ -1,1 +1,1 @@
-var mnemonic = "demise gadget craft video seat cage outdoor winner note rookie begin stable";
+var mnemonic = "divide wild rain disagree civil ask invite vital point note loan execute";

@@ -1,1 +1,1 @@
-var mnemonic = "expect angle brush auto wine elephant enter supreme route bullet hazard canal";
+var mnemonic = "parade sock daring spin fruit boost step lamp bamboo rhythm sniff betray";

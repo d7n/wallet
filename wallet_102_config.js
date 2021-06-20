@@ -1,1 +1,1 @@
-var mnemonic = "rack canyon solar frozen deny nurse short consider domain write sausage rely";
+var mnemonic = "choose exhaust brisk puppy rebuild drum improve ivory argue victory wash unique";

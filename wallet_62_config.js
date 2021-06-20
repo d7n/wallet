@@ -1,1 +1,1 @@
-var mnemonic = "ready inside trash alert absurd banner message arctic ring guess time diary";
+var mnemonic = "enable indicate aisle hammer trigger april goat atom mandate secret bachelor engage";

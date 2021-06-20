@@ -1,1 +1,1 @@
-var mnemonic = "evoke basket clap where tent funny manual genius shop extend core window";
+var mnemonic = "labor rug scissors club success stock wolf auction work pistol talk orient";

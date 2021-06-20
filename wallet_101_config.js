@@ -1,1 +1,1 @@
-var mnemonic = "police mean cry plate art cinnamon lawn virtual number art similar word";
+var mnemonic = "original start skin critic few duck pet stick portion leave author razor";

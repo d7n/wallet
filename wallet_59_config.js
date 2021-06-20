@@ -1,1 +1,1 @@
-var mnemonic = "ski trade kick answer walnut resource shell syrup rich mansion core happy";
+var mnemonic = "dragon powder tribe sport wet soap custom doll tower wine initial elegant";

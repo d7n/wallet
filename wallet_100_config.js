@@ -1,1 +1,1 @@
-var mnemonic = "capable slight pause feel lottery hair strong bridge cushion drink wink vital";
+var mnemonic = "apology dilemma forward item cruise awful rough dirt clever glue again brown";

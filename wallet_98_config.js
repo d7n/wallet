@@ -1,1 +1,1 @@
-var mnemonic = "involve away review truck april enact penalty initial ocean elbow artwork wisdom";
+var mnemonic = "image spin girl welcome woman athlete pull company dismiss acoustic year dad";

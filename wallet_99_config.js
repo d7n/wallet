@@ -1,1 +1,1 @@
-var mnemonic = "mistake brother move orchard erase taxi link hybrid ostrich bonus dismiss winner";
+var mnemonic = "receive magic gold light century victory nature affair devote scissors add shadow";

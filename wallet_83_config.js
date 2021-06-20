@@ -1,1 +1,1 @@
-var mnemonic = "laundry episode seek pony gym diesel fat unusual current knife great donate";
+var mnemonic = "improve idle screen fatal foil seat attitude sorry blue sight wasp rebuild";

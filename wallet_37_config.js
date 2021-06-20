@@ -1,1 +1,1 @@
-var mnemonic = "eye thing item initial account chair seminar squirrel special say ship test";
+var mnemonic = "hawk cement devote spend chair naive evidence account deal review crystal trick";

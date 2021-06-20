@@ -1,1 +1,1 @@
-var mnemonic = "about post tonight industry legal describe impact praise follow fun oblige then";
+var mnemonic = "alley water cage task food song such critic castle please turtle permit";

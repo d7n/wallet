@@ -1,1 +1,1 @@
-var mnemonic = "artist about federal coyote plastic drama prepare table acoustic rude donor ice";
+var mnemonic = "credit term coin style cry cereal auction lemon topic doctor spread squirrel";
