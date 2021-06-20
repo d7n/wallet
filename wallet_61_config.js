@@ -1,1 +1,1 @@
-var mnemonic = "juice kitten hockey menu town measure boring boss wing ivory verb absurd";
+var mnemonic = "century swallow pigeon problem soft cruel predict level oval drip nothing cherry";

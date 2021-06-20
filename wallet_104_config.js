@@ -1,1 +1,1 @@
-var mnemonic = "cover purse dismiss category make garage walk service give busy age term";
+var mnemonic = "episode limb glance radar session sick cream dance glory dolphin advice media";

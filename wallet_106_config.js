@@ -1,1 +1,1 @@
-var mnemonic = "clog meat punch maximum diary love there panic scene over mountain lyrics";
+var mnemonic = "observe beef garden zone divorce stool collect evolve situate aunt tone valve";

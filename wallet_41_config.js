@@ -1,1 +1,1 @@
-var mnemonic = "april extend disease nice truck thunder simple cable pepper screen develop clap";
+var mnemonic = "return magnet liar risk illegal shy rubber plastic sand spray taste struggle";

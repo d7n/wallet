@@ -1,1 +1,1 @@
-var mnemonic = "educate kid vintage input meadow garage entry thing pretty twist man outer";
+var mnemonic = "various reveal cycle despair enjoy human demand nice sword step love alien";

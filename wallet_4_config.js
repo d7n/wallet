@@ -1,1 +1,1 @@
-var mnemonic = "dynamic column choice jeans item recall trust spy badge start actor rebuild";
+var mnemonic = "unit between wool return claim reduce share vendor fruit dawn plunge jazz";

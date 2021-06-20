@@ -1,1 +1,1 @@
-var mnemonic = "alone artist fetch lyrics faculty staff struggle fee bracket whisper average decrease";
+var mnemonic = "face east grow split only surprise hurry hour curious empty ceiling minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "entire bicycle surface blind large speed oven alien merry civil luxury gallery";
+var mnemonic = "grab explain text corn laptop popular skate milk bright happy bulb harvest";

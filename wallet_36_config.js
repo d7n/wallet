@@ -1,1 +1,1 @@
-var mnemonic = "family just february pelican analyst stairs turkey actor zoo runway bounce broom";
+var mnemonic = "bargain boat runway pull tomato about alarm urban slot reason gap unique";

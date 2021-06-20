@@ -1,1 +1,1 @@
-var mnemonic = "shallow hungry piece butter clutch must saddle focus eternal crumble custom silent";
+var mnemonic = "ivory knee view youth junior level address orient always valve inch light";

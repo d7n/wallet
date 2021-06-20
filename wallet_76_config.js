@@ -1,1 +1,1 @@
-var mnemonic = "hen cycle bus evolve cram twenty unfold west income space rally goose";
+var mnemonic = "october will loop twice garment weapon sell quiz horse husband bleak cement";

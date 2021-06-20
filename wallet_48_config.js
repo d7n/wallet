@@ -1,1 +1,1 @@
-var mnemonic = "one hover shrimp noble write cancel fashion gesture trend lucky relax jump";
+var mnemonic = "trip rose maple sibling basket length night mystery gas life color gym";

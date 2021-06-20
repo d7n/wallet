@@ -1,1 +1,1 @@
-var mnemonic = "blind evil aim range pizza matter truth pumpkin ugly eternal exact carry";
+var mnemonic = "circle month fresh cupboard shove day pupil intact maximum license hello pyramid";

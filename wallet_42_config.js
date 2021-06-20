@@ -1,1 +1,1 @@
-var mnemonic = "broccoli legend use alien rice trip crop sniff shoe false chase want";
+var mnemonic = "coyote mountain year anger penalty ability wing nurse cave scatter learn bullet";

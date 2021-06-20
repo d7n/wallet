@@ -1,1 +1,1 @@
-var mnemonic = "ice dirt pitch slush enemy nominee install maximum identify ensure review pole";
+var mnemonic = "river enrich cram bitter replace until air chief sound tennis omit chalk";

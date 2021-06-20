@@ -1,1 +1,1 @@
-var mnemonic = "throw rabbit deposit eye volcano peasant night sand noodle robust unusual verify";
+var mnemonic = "any target just goat waste robust away dry neither grace soup kick";

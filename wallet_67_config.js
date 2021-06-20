@@ -1,1 +1,1 @@
-var mnemonic = "hundred other domain vehicle silent you brain secret boy all artwork tool";
+var mnemonic = "double wide phrase style must pistol travel session cotton bacon actual original";

@@ -1,1 +1,1 @@
-var mnemonic = "trust crowd found when nest super twist sketch monster rail ivory soldier";
+var mnemonic = "arena settle stone oyster spy weird disorder insect wrong upgrade version novel";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin hope miss siege security hidden dutch lumber fish direct derive survey";
+var mnemonic = "shift tornado fatal orphan story cable busy like clinic load enemy duty";

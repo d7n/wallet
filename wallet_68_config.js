@@ -1,1 +1,1 @@
-var mnemonic = "borrow blind mandate catalog now box banner hockey loud ski hunt nurse";
+var mnemonic = "say transfer awesome crowd earn faint any vocal scrap symbol trash blast";

@@ -1,1 +1,1 @@
-var mnemonic = "keep father box balance agree wide arrive chair tank rough trial beauty";
+var mnemonic = "soldier endorse letter ridge ready danger peasant roof angry echo sponsor view";

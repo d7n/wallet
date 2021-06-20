@@ -1,1 +1,1 @@
-var mnemonic = "typical transfer modify magic live meadow memory bamboo dad drill predict just";
+var mnemonic = "select before bid million erosion six ball pill fence innocent fly learn";

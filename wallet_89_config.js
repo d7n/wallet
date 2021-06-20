@@ -1,1 +1,1 @@
-var mnemonic = "tape host vintage tragic solid patient barely waste put target answer cancel";
+var mnemonic = "once soon odor network crucial review cruel only produce wife smoke camp";

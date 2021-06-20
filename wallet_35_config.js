@@ -1,1 +1,1 @@
-var mnemonic = "uniform cross later agent inspire rail rate vendor small vintage chapter curtain";
+var mnemonic = "praise decline peace gather trouble elegant oppose cry business decade learn local";

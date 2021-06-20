@@ -1,1 +1,1 @@
-var mnemonic = "quit chuckle water toilet arena illegal matter paper fame artist foil sense";
+var mnemonic = "snap robot amazing have brisk garlic they work company smooth hazard journey";

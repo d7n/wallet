@@ -1,1 +1,1 @@
-var mnemonic = "term vicious fuel fitness unfair review timber when lemon angry luxury sad";
+var mnemonic = "narrow donate enable balance emotion beef tube almost half glad tourist valve";

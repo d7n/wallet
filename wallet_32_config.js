@@ -1,1 +1,1 @@
-var mnemonic = "gaze fruit hobby embody earn coconut glass earth maze satisfy axis current";
+var mnemonic = "spread basic lunch badge arrest arrange miracle ready throw swamp great river";

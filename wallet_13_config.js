@@ -1,1 +1,1 @@
-var mnemonic = "image car picture north squeeze nice length cancel knee fitness sauce region";
+var mnemonic = "distance vote unusual pause coil quick distance gesture false cabbage client absurd";

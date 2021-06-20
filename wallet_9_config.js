@@ -1,1 +1,1 @@
-var mnemonic = "erosion unhappy object found mango rookie glimpse that staff allow youth ill";
+var mnemonic = "uphold matter room gift snake aware rookie weekend lizard bone question teach";

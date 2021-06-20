@@ -1,1 +1,1 @@
-var mnemonic = "stamp pizza arctic learn crash change alley accuse busy please space chimney";
+var mnemonic = "hand return surprise twenty daring melody similar turtle length window sad alone";

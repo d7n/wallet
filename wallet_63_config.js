@@ -1,1 +1,1 @@
-var mnemonic = "genuine verb industry panther loyal deny strong naive age gaze muffin series";
+var mnemonic = "version hire emerge humor tomato tower anxiety vehicle original number skin jaguar";

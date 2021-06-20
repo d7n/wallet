@@ -1,1 +1,1 @@
-var mnemonic = "next tuition act jelly spirit seminar buyer crunch remind road flip oven";
+var mnemonic = "fog melody jungle asset snake junior join shell opinion cruise tail despair";

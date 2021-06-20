@@ -1,1 +1,1 @@
-var mnemonic = "disease inhale dismiss system lock inspire capital nation civil bomb scare damp";
+var mnemonic = "cage excuse toy atom have insane click farm discover suit cash jaguar";

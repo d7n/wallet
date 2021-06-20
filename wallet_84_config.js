@@ -1,1 +1,1 @@
-var mnemonic = "carry scan insane armor hurt cancel autumn foot virus bullet awkward scheme";
+var mnemonic = "arrow moment guide unusual visit acquire bid social reflect eye curtain rebuild";

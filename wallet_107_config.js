@@ -1,1 +1,1 @@
-var mnemonic = "chapter panda choose myth high picnic predict benefit layer speed seminar balcony";
+var mnemonic = "athlete leave release seat exist boil cool enhance hammer topic bring stem";

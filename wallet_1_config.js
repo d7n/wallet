@@ -1,1 +1,1 @@
-var mnemonic = "acid grow genre vital wing margin frost project gorilla vault write foam";
+var mnemonic = "chronic business snack tower chronic final elder document absent april funny blue";

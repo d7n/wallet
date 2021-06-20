@@ -1,1 +1,1 @@
-var mnemonic = "toy muffin raise disagree avoid exhibit sport east slush poem kind drive";
+var mnemonic = "guess burger wish brave accuse cave choose online life honey aerobic credit";

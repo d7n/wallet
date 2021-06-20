@@ -1,1 +1,1 @@
-var mnemonic = "answer forward stairs profit name off because cargo worry panel erase alien";
+var mnemonic = "jealous merit fame garden december key stumble vibrant program mammal wine custom";

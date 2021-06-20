@@ -1,1 +1,1 @@
-var mnemonic = "manual obvious aspect flush plastic chest deliver thing online lab park company";
+var mnemonic = "nominee vintage twist collect radio trophy toe damp hamster wife pave mean";

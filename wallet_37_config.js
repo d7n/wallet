@@ -1,1 +1,1 @@
-var mnemonic = "zero target update meat cart diet lesson recipe brand cement blur neck";
+var mnemonic = "hospital bind spot quality canyon result wait tank resource small safe liar";

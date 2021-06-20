@@ -1,1 +1,1 @@
-var mnemonic = "select nuclear crowd hill crawl pitch guide foot access february upon goose";
+var mnemonic = "meadow outside waste alone midnight beach bar sausage duck liar also summer";

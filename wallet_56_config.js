@@ -1,1 +1,1 @@
-var mnemonic = "cable measure best thrive pupil symbol reform gossip swallow cave diet verify";
+var mnemonic = "donate dose include elder rail travel spatial napkin firm wild drive flag";

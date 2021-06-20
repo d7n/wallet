@@ -1,1 +1,1 @@
-var mnemonic = "found roast region mountain fold lawsuit pistol reveal tattoo wealth trip spawn";
+var mnemonic = "rhythm trial ship tired priority battle shy judge eight organ job easily";

@@ -1,1 +1,1 @@
-var mnemonic = "domain grape runway cradle dove floor sock artist ship whisper rally copy";
+var mnemonic = "horror crime neck punch gap unknown language uncle shine case drift wet";

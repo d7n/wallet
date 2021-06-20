@@ -1,1 +1,1 @@
-var mnemonic = "stomach wood adult today vibrant cancel earth advice such firm around visual";
+var mnemonic = "chaos tourist unable rib clean chunk jungle lottery shell enemy slam robust";

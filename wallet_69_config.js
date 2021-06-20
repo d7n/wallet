@@ -1,1 +1,1 @@
-var mnemonic = "slogan copy issue warm wisdom march trim dumb disease wine blue aunt";
+var mnemonic = "apart snack filter assume weird tired before feel sleep polar bird result";

@@ -1,1 +1,1 @@
-var mnemonic = "fan latin drop attack unlock grain ticket age treat neutral art quick";
+var mnemonic = "isolate dress range smart document guide brick never math uphold pool nasty";

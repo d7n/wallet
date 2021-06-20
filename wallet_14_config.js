@@ -1,1 +1,1 @@
-var mnemonic = "junk pole garage jar bid kiwi crash shrug avoid year potato tragic";
+var mnemonic = "come cage interest blush all top clap repeat wear install share away";

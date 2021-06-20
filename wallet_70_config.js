@@ -1,1 +1,1 @@
-var mnemonic = "sound ship venture hill fatal shy onion cause leader soft since blood";
+var mnemonic = "choose card busy nut agree turtle clock smart such until wedding idea";

@@ -1,1 +1,1 @@
-var mnemonic = "bus churn control prize kingdom couch ramp awful slush morning hurt island";
+var mnemonic = "violin library brain eyebrow clean cook cancel poet frequent member traffic history";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade another since equal lucky wall fix post there soap hello tip";
+var mnemonic = "adapt economy such version mansion coil fitness conduct vague disease tattoo own";

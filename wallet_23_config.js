@@ -1,1 +1,1 @@
-var mnemonic = "order elephant novel mirror large group seek concert job predict type dirt";
+var mnemonic = "sting zoo between isolate use exchange city silly victory merge focus laptop";

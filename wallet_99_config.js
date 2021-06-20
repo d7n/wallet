@@ -1,1 +1,1 @@
-var mnemonic = "thank dolphin season pave modify friend mention flavor depart wool iron write";
+var mnemonic = "arrest supply box tool cute dawn embody slush climb oyster anchor stand";

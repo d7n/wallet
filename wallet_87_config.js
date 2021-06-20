@@ -1,1 +1,1 @@
-var mnemonic = "april mixed rough twice buzz seek between damage father glass door essay";
+var mnemonic = "forest zebra agent furnace size frog network capital situate common curve vessel";

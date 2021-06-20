@@ -1,1 +1,1 @@
-var mnemonic = "taxi faith style tide stock pilot champion mistake fatigue mosquito hazard alert";
+var mnemonic = "way size thunder crawl crater catalog subject royal volume maximum pepper floor";

@@ -1,1 +1,1 @@
-var mnemonic = "target uniform tip brother trap once announce knife walnut setup admit work";
+var mnemonic = "bird click kiwi seminar banner never lottery penalty hedgehog movie wrong unable";

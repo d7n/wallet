@@ -1,1 +1,1 @@
-var mnemonic = "harvest work item mango brick topple panic circle worth surge margin vehicle";
+var mnemonic = "hint ice monster private large script drip update ring mystery rescue various";

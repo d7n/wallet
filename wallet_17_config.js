@@ -1,1 +1,1 @@
-var mnemonic = "bargain below slam ethics leader fresh object indoor much access march remind";
+var mnemonic = "goat bar jar thank thumb weird increase galaxy exist enough verify three";

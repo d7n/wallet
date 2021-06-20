@@ -1,1 +1,1 @@
-var mnemonic = "depend bridge oval close sadness price banner town fall what boring gas";
+var mnemonic = "program indoor dune supreme unlock citizen muffin infant movie chalk company garden";

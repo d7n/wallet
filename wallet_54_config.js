@@ -1,1 +1,1 @@
-var mnemonic = "doctor space fish topic paddle hope ketchup room fence spike script brown";
+var mnemonic = "lounge furnace early spot exchange minimum depart thank obtain vehicle lend slide";

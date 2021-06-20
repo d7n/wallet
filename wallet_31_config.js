@@ -1,1 +1,1 @@
-var mnemonic = "second advance uncle rival catch hub curtain immune stomach merge garment camp";
+var mnemonic = "piano volcano abuse cook menu shock library addict host hold frog appear";

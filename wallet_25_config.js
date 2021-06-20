@@ -1,1 +1,1 @@
-var mnemonic = "right guilt useful measure rabbit timber elite maid brick climb occur bottom";
+var mnemonic = "lens detect word echo jealous there census power clap rice follow learn";

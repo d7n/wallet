@@ -1,1 +1,1 @@
-var mnemonic = "rough sun enhance goat expand phone oyster antique isolate bullet cause very";
+var mnemonic = "report kit between envelope pull tent core bunker emotion oak final key";

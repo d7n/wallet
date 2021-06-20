@@ -1,1 +1,1 @@
-var mnemonic = "alpha weather section nurse raccoon evil balance squeeze forum beef guitar ready";
+var mnemonic = "snack member whale snack luxury twice little swear horror useful awkward oak";

@@ -1,1 +1,1 @@
-var mnemonic = "evidence blade dragon horn boring office near total holiday horn bleak alarm";
+var mnemonic = "legal slab wood guilt until stand source interest scorpion mouse parrot speed";

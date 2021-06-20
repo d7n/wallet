@@ -1,1 +1,1 @@
-var mnemonic = "fresh smoke trade cable emerge off quote master useless defy lend shield";
+var mnemonic = "clog harvest attend absurd smile need pass penalty ramp about stock family";

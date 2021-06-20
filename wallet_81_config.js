@@ -1,1 +1,1 @@
-var mnemonic = "winner snake exclude piece grass tongue enrich opinion resemble best dignity alley";
+var mnemonic = "stairs roast dolphin famous coconut verify over address mind cereal warm slam";

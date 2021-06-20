@@ -1,1 +1,1 @@
-var mnemonic = "aim resource camp despair worry grocery satisfy reunion hello tonight improve hood";
+var mnemonic = "grape debris priority dash lava enlist congress run document hero dolphin execute";

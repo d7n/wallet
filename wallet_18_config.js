@@ -1,1 +1,1 @@
-var mnemonic = "merry discover crane expand drip table imitate rapid deny toy cloth lunar";
+var mnemonic = "defense junk forum episode trick pole eager endorse fog vanish illness congress";

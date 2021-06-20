@@ -1,1 +1,1 @@
-var mnemonic = "floor reward section walnut pill follow whip penalty quality swap please wait";
+var mnemonic = "hard hundred cannon mobile clean anchor print gloom vivid tone romance start";

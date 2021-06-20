@@ -1,1 +1,1 @@
-var mnemonic = "pet field letter helmet car wheel table frame paddle slam leg giraffe";
+var mnemonic = "idea shadow kidney hockey impose fork rent bleak bone offer wrap ring";

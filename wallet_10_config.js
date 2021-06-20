@@ -1,1 +1,1 @@
-var mnemonic = "twenty intact industry manage ecology cactus same boost vast broken initial wealth";
+var mnemonic = "blouse finger axis little rely clutch style yellow choice mosquito law night";

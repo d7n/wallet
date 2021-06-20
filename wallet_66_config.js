@@ -1,1 +1,1 @@
-var mnemonic = "work empty live focus carry slice double ribbon erosion remember draw sport";
+var mnemonic = "glow afford east sphere tunnel inside supply pact swallow youth middle large";

@@ -1,1 +1,1 @@
-var mnemonic = "robot fashion sell general minimum daughter solar else always hold oval citizen";
+var mnemonic = "left abuse response mass decade fun inside among oxygen time audit practice";

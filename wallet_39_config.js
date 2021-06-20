@@ -1,1 +1,1 @@
-var mnemonic = "portion biology steel sand thing awake diet wrap seat dentist burden rate";
+var mnemonic = "focus catch ankle myself flock luxury dance regular focus approve churn layer";

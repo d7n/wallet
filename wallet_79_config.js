@@ -1,1 +1,1 @@
-var mnemonic = "offer type junior stage loop clip upgrade curious empty broom corn furnace";
+var mnemonic = "sting finish purse ride push creek useful reduce lecture carbon sun pet";

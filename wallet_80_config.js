@@ -1,1 +1,1 @@
-var mnemonic = "basic feel road dirt lion dry pumpkin cradle roof void burger client";
+var mnemonic = "street turtle aim floor honey cave derive swap inflict fine drink million";

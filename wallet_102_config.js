@@ -1,1 +1,1 @@
-var mnemonic = "topic scrap subway pizza budget problem endless learn video door rent old";
+var mnemonic = "rich like upper elder screen admit dinner shrug climb orphan access tank";

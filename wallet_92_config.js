@@ -1,1 +1,1 @@
-var mnemonic = "interest help ticket muffin pumpkin saddle maple sadness choose satisfy aerobic trouble";
+var mnemonic = "lawn mountain robot pet radio bounce patient object great prosper true twelve";

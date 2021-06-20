@@ -1,1 +1,1 @@
-var mnemonic = "once camera inject imitate orbit pattern laugh elbow swing useless apple into";
+var mnemonic = "load crane ivory broken borrow client tumble canal expire feature kiwi high";

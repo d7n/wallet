@@ -1,1 +1,1 @@
-var mnemonic = "heart shallow weekend pigeon glory mean make eternal earth lobster life about";
+var mnemonic = "scene father worth vast term water envelope solar light margin biology science";

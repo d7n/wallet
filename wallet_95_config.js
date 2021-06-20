@@ -1,1 +1,1 @@
-var mnemonic = "wool oyster brother elephant element whip tunnel top paddle rude among visual";
+var mnemonic = "minimum accuse then wrist rebuild nut caught trigger level junk belt love";

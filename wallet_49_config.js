@@ -1,1 +1,1 @@
-var mnemonic = "banner omit huge harbor silk pioneer click pave balance diagram nephew apple";
+var mnemonic = "quit paddle excuse whisper impulse person patient agree floor stairs object mad";

@@ -1,1 +1,1 @@
-var mnemonic = "mix humor unknown battle dad apple weird rice explain grape monitor reduce";
+var mnemonic = "grass ridge drill slogan illness right cloth lunch print rose process bubble";

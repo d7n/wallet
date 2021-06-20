@@ -1,1 +1,1 @@
-var mnemonic = "sail park response put quality silver puppy habit depth friend spoil left";
+var mnemonic = "head gun flush capital that proud domain jungle mirror opinion best people";

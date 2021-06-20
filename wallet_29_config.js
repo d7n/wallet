@@ -1,1 +1,1 @@
-var mnemonic = "fence embrace destroy mom plastic atom orchard love whisper february math elephant";
+var mnemonic = "usage plate typical cannon naive city exclude merry oven indicate layer cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty embark donor snake kid kidney acoustic recall isolate purchase fossil video";
+var mnemonic = "soap scare fiber pipe hidden canoe era scorpion deer topple upset glide";

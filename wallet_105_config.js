@@ -1,1 +1,1 @@
-var mnemonic = "code green daring inspire nerve visit suspect report bulk figure lucky magic";
+var mnemonic = "isolate fetch tribe addict unaware jar gift bag system orbit student trap";

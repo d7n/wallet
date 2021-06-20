@@ -1,1 +1,1 @@
-var mnemonic = "job bleak blush joke decorate library taxi supreme crunch chalk weasel install";
+var mnemonic = "flag tuition leisure jaguar soon trial mother cave page service monitor seek";

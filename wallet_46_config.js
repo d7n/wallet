@@ -1,1 +1,1 @@
-var mnemonic = "valid snap creek churn side machine skin gas wagon dentist rail gasp";
+var mnemonic = "column half pitch leave purpose away frog ability debate okay tool palm";

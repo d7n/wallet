@@ -1,1 +1,1 @@
-var mnemonic = "cry resemble spy deputy during million exhibit valid dawn brush notable proud";
+var mnemonic = "wrap final ripple phone spider sight vital luxury second hotel rent lemon";

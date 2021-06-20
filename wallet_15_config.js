@@ -1,1 +1,1 @@
-var mnemonic = "nation fine dress radar huge media spin pen soda shadow property record";
+var mnemonic = "cattle tissue time novel huge notable fringe enact lizard wedding duty journey";

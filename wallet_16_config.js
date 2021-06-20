@@ -1,1 +1,1 @@
-var mnemonic = "shed display peasant nation flee prevent funny walk absent gallery viable inner";
+var mnemonic = "lesson world cause obtain exotic knock mango funny special easy tell dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard whisper comfort question stable decline license lab school buyer dwarf text";
+var mnemonic = "asset soul say powder crater resource mail wrist junk sorry invite impact";

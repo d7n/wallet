@@ -1,1 +1,1 @@
-var mnemonic = "lab prison will license wool indicate auto oil area affair wish divert";
+var mnemonic = "trap smooth coral garment magnet biology describe include cycle tonight luxury such";

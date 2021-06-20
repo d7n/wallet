@@ -1,1 +1,1 @@
-var mnemonic = "elbow garlic tiger review mesh napkin guard above hen slender clap rice";
+var mnemonic = "pencil truck mammal resource habit rifle august solve rent life shell panic";
