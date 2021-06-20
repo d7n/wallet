@@ -1,1 +1,1 @@
-var mnemonic = "trend airport parrot toss outer ability ancient crisp rain cake hockey behave";
+var mnemonic = "young keen quality favorite awesome oak afraid silent dish humor ethics gas";

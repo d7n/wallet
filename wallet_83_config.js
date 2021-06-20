@@ -1,1 +1,1 @@
-var mnemonic = "timber record tuna rabbit ticket shed audit gauge theory entry bunker mule";
+var mnemonic = "dentist future artwork viable subway link range million butter damp segment unfair";

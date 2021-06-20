@@ -1,1 +1,1 @@
-var mnemonic = "name close assault hawk taste oyster obscure gesture theme manual situate dose";
+var mnemonic = "strong october flame virtual lumber uncover daring luggage notable theory super pioneer";

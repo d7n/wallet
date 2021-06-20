@@ -1,1 +1,1 @@
-var mnemonic = "donkey below throw patrol long hello drill address broken speak addict bargain";
+var mnemonic = "rug armed maze surprise noise mammal nasty urban arena renew mushroom visa";

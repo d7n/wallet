@@ -1,1 +1,1 @@
-var mnemonic = "fat beef tired awful run success phone wolf bright world expire crack";
+var mnemonic = "game provide asset onion tiny frozen gorilla noise stand green youth design";

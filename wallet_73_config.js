@@ -1,1 +1,1 @@
-var mnemonic = "rice creek close another broken chase trial stay inhale simple trigger say";
+var mnemonic = "legend pact core later life ethics denial execute critic print wrong priority";

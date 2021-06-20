@@ -1,1 +1,1 @@
-var mnemonic = "excuse cupboard squeeze spoil school unhappy cousin wide bridge donate heavy sick";
+var mnemonic = "crash visit mango eager six mixture they empower text audit credit noodle";

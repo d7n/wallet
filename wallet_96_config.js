@@ -1,1 +1,1 @@
-var mnemonic = "total among unknown lamp jaguar surge among night marble result upgrade yellow";
+var mnemonic = "clean journey nerve peace shy quick infant frame acquire plug wet orphan";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy fire prison honey rabbit tent powder gallery meat try receive soda";
+var mnemonic = "refuse express real multiply swallow puzzle point knee dizzy island angle inherit";

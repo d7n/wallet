@@ -1,1 +1,1 @@
-var mnemonic = "snake chief above copy mom average host bundle junk holiday eyebrow short";
+var mnemonic = "grunt rely clap modify venture stadium step safe miracle gym pill clock";

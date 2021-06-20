@@ -1,1 +1,1 @@
-var mnemonic = "old hundred fiscal hungry tower number pen enemy hand wash monitor system";
+var mnemonic = "ghost warm black inhale economy auction wheat behind ten knock soft frown";

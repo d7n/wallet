@@ -1,1 +1,1 @@
-var mnemonic = "vast pottery inhale recall miss talent behind rescue describe exhaust envelope blush";
+var mnemonic = "pulse bracket relax margin run clip blouse pause ring true repair author";

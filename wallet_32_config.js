@@ -1,1 +1,1 @@
-var mnemonic = "any imitate half audit quit draw angle noise first trumpet solution album";
+var mnemonic = "horror wife true expand danger cross unfold health congress argue crazy float";

@@ -1,1 +1,1 @@
-var mnemonic = "process federal emerge require pull write brown champion satisfy detail wire display";
+var mnemonic = "bar push depth tube task hungry recycle crane service artefact business mean";

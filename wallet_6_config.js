@@ -1,1 +1,1 @@
-var mnemonic = "public proof rate hazard border vintage air body toe daughter lumber diet";
+var mnemonic = "happy inject sick view anxiety fiber become reveal brass reject figure upset";

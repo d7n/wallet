@@ -1,1 +1,1 @@
-var mnemonic = "escape rain rich bulb afraid bundle turtle hill daring lucky used pull";
+var mnemonic = "frost wave volcano snap couch plug forum luggage debate people develop canal";

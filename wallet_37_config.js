@@ -1,1 +1,1 @@
-var mnemonic = "divorce main help choose divide clarify observe glue luxury wave work ride";
+var mnemonic = "chalk weapon empty enlist struggle symbol maid used sentence other local text";

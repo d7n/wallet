@@ -1,1 +1,1 @@
-var mnemonic = "violin clump skate any route asthma ancient behind turtle lottery cage come";
+var mnemonic = "yellow unusual market ignore live art exact grant remain bonus gadget dawn";

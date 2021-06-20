@@ -1,1 +1,1 @@
-var mnemonic = "antique comfort task person phone hair piece bacon wheel sunny clarify kid";
+var mnemonic = "uncover gym click matrix major cousin cricket purse sister knee slender target";

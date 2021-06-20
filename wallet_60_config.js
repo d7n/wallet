@@ -1,1 +1,1 @@
-var mnemonic = "paper cry lake burger south bundle sunset tenant mammal depart fine try";
+var mnemonic = "tiny theme expire animal doctor fringe inflict column spend correct message fall";

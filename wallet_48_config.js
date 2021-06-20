@@ -1,1 +1,1 @@
-var mnemonic = "elegant fossil shrug undo range hazard charge market kidney person balcony luggage";
+var mnemonic = "pull exhaust shiver analyst yard monitor now lumber proud silent firm claw";

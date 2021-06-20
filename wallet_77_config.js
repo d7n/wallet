@@ -1,1 +1,1 @@
-var mnemonic = "motion word inhale project soul danger iron tiger repair surface twelve black";
+var mnemonic = "impact breeze office dinosaur humor wolf draw ribbon lunar sample adjust curve";

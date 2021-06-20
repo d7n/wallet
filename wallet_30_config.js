@@ -1,1 +1,1 @@
-var mnemonic = "rigid never talk jealous indoor elevator relief lesson winner shallow hard please";
+var mnemonic = "tooth embark dentist piece mimic faculty royal young style inspire move runway";

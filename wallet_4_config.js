@@ -1,1 +1,1 @@
-var mnemonic = "ketchup tornado hood drum mountain artefact hybrid vintage december increase tilt fish";
+var mnemonic = "tumble void group apple bubble drive title glue wonder south enemy vocal";

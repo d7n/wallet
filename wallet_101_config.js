@@ -1,1 +1,1 @@
-var mnemonic = "shoe piano maze aisle fog crowd fiscal essence transfer task fly nature";
+var mnemonic = "category rail gospel fence virus actual tunnel myth they sock pepper occur";

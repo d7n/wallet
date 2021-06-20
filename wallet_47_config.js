@@ -1,1 +1,1 @@
-var mnemonic = "pupil exhibit weather choice lake impose birth wall ice area student fiber";
+var mnemonic = "trim you erosion situate error help busy guard dog travel tag demand";

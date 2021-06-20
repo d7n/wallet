@@ -1,1 +1,1 @@
-var mnemonic = "crowd chimney view sphere float attack hover explain radio grape axis asset";
+var mnemonic = "dentist cube battle elephant science guess buddy grow wasp ivory evidence token";

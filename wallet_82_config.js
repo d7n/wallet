@@ -1,1 +1,1 @@
-var mnemonic = "lottery mixed place goddess gasp face empower much legal tackle antique peanut";
+var mnemonic = "dolphin dragon nominee foil border bulk pipe interest dad diary dove buffalo";

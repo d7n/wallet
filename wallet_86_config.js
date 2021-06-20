@@ -1,1 +1,1 @@
-var mnemonic = "winner mistake live ghost fame floor bleak dog mother camp taste across";
+var mnemonic = "foil obey fine seminar wasp distance spread uncover obey jump atom priority";

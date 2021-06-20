@@ -1,1 +1,1 @@
-var mnemonic = "rubber nice disagree educate birth visual river alone ecology brand token badge";
+var mnemonic = "subject certain squirrel arrive crunch always juice gift bunker husband exclude play";

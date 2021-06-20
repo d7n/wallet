@@ -1,1 +1,1 @@
-var mnemonic = "firm produce box coconut about spin treat neutral note acquire pitch cage";
+var mnemonic = "future sugar expand shove autumn oak nice episode advice nature film luggage";

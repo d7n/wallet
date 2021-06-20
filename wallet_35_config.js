@@ -1,1 +1,1 @@
-var mnemonic = "front where add upset clog guilt immune second worry width ramp thank";
+var mnemonic = "april salmon dolphin badge detail wait wonder wolf lemon omit client seed";

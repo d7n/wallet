@@ -1,1 +1,1 @@
-var mnemonic = "purse assault hybrid process please impulse elegant cook category engine reform used";
+var mnemonic = "fury inch slow mechanic actual miracle transfer room rotate seed squeeze youth";

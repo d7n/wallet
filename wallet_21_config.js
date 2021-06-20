@@ -1,1 +1,1 @@
-var mnemonic = "arrange news install whisper excess wrestle sick forward return work evoke crop";
+var mnemonic = "turkey mushroom shallow card solution message ankle elevator sound moral hungry oak";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle wait matter sauce steak chase street winter chat tackle festival voice";
+var mnemonic = "monitor december together write change staff dance laugh skull teach either slender";

@@ -1,1 +1,1 @@
-var mnemonic = "legend innocent crash verb two slogan forward roast sheriff coin slab copy";
+var mnemonic = "inside scissors hamster elephant miracle truth foster vendor half muffin exact ask";

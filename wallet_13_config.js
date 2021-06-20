@@ -1,1 +1,1 @@
-var mnemonic = "comic mass shield chaos hidden season eager trophy record increase busy fragile";
+var mnemonic = "exit lend blanket behind defense refuse govern struggle air tenant husband ginger";

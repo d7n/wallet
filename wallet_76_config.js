@@ -1,1 +1,1 @@
-var mnemonic = "van add normal armor shallow fade unfold budget moon floor sheriff few";
+var mnemonic = "place excite seed pave result force urge song garment domain amateur debris";

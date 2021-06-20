@@ -1,1 +1,1 @@
-var mnemonic = "artist game wagon absurd nut engage vacuum urge swallow consider song unaware";
+var mnemonic = "loud witness phone arrow legend unfold ask lava shield motor orchard infant";

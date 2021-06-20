@@ -1,1 +1,1 @@
-var mnemonic = "spatial expect inch arena mule trim river bone notice sadness chuckle gown";
+var mnemonic = "scan kidney step weasel entire track peanut deposit club load benefit plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse yellow embrace fluid dress language awesome little history favorite harvest federal";
+var mnemonic = "lady agree cross supreme lunar extra conduct rebuild eight toddler speed phone";

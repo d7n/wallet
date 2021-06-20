@@ -1,1 +1,1 @@
-var mnemonic = "zebra strong sample lava nut cluster avoid isolate curve army oxygen slam";
+var mnemonic = "orphan theory modify swallow bike birth elder bird enlist swear immense winner";

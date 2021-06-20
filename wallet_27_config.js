@@ -1,1 +1,1 @@
-var mnemonic = "actor bench friend minimum result reduce wash ordinary canal actor breeze depart";
+var mnemonic = "now advice earn north trial long husband benefit hidden shift wagon hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "minor vicious long blood story velvet monkey toss ugly session scare chef";
+var mnemonic = "fortune donor tiger firm verify survey double answer float state camera quit";

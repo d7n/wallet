@@ -1,1 +1,1 @@
-var mnemonic = "orchard camera income piano polar census lecture edit tuition proof raw two";
+var mnemonic = "hotel wave outside average giant pact fringe link boost crowd possible amount";

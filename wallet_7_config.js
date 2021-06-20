@@ -1,1 +1,1 @@
-var mnemonic = "emotion toddler ramp oven radio fat culture void stool toss notable trash";
+var mnemonic = "trash food ahead obtain present seek biology nephew wise embrace dirt course";

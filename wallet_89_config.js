@@ -1,1 +1,1 @@
-var mnemonic = "eager leaf super click also debate glimpse mistake mountain broken wrong stuff";
+var mnemonic = "security rail creek bronze spatial donate unknown sure destroy then sibling cloud";

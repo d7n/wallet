@@ -1,1 +1,1 @@
-var mnemonic = "lazy hat code neutral cousin logic sister enable push bag differ myself";
+var mnemonic = "like manage ritual nominee club smile build cart chief joke ten apple";

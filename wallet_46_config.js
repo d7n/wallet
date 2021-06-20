@@ -1,1 +1,1 @@
-var mnemonic = "tuna timber remain roast leopard novel inmate kangaroo play illegal team grab";
+var mnemonic = "february obtain draw desert ill floor hire sight bone install deliver hero";

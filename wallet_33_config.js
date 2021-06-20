@@ -1,1 +1,1 @@
-var mnemonic = "ethics guide outdoor wear begin panel venture actor robust comic glad arch";
+var mnemonic = "economy flee medal gas cigar behind ill luxury perfect float slow behave";

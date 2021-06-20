@@ -1,1 +1,1 @@
-var mnemonic = "crunch inhale steel vessel large wing arrive script gate decade clinic feel";
+var mnemonic = "birth bracket over security ocean coffee work ski guard knee desert want";

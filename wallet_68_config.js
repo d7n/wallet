@@ -1,1 +1,1 @@
-var mnemonic = "surprise bacon age bus emerge often doctor nut shoulder spawn next expect";
+var mnemonic = "relax pipe fit delay cause swarm letter curve clean water guitar panic";

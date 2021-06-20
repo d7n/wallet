@@ -1,1 +1,1 @@
-var mnemonic = "wall ribbon route large come net rib crew sausage great water exercise";
+var mnemonic = "hotel clay mom click motion bitter female vacant meadow else borrow say";

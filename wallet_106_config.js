@@ -1,1 +1,1 @@
-var mnemonic = "captain patrol fox token doctor omit about tomato marriage where abandon review";
+var mnemonic = "outdoor regular screen kingdom try crash argue nerve annual fatigue eye word";

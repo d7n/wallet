@@ -1,1 +1,1 @@
-var mnemonic = "magic more cage taste churn police leader absorb oven city bonus volume";
+var mnemonic = "ancient know deny mandate turn boost health bench reason hope film grape";

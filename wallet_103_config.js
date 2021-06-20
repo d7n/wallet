@@ -1,1 +1,1 @@
-var mnemonic = "carbon decorate volcano hill web march loud jeans eight wire romance head";
+var mnemonic = "behave family ginger all remove accuse embark tail skill knock jump liquid";

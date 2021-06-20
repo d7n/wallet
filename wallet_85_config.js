@@ -1,1 +1,1 @@
-var mnemonic = "dilemma minimum glide gauge outdoor dutch anger bind puppy daughter under orient";
+var mnemonic = "ankle game involve jar verify escape wasp soul rain wrap mix always";

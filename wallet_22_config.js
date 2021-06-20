@@ -1,1 +1,1 @@
-var mnemonic = "insane humble logic major accident amateur veteran prize silly human basket dress";
+var mnemonic = "blood general text rude hint cake virus battle pink lock manual rather";

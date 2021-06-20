@@ -1,1 +1,1 @@
-var mnemonic = "stumble essence dragon stamp sauce hard place bird skirt slab reveal grant";
+var mnemonic = "dawn ten february payment gift clap disease peasant mention security slim vibrant";

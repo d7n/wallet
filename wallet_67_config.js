@@ -1,1 +1,1 @@
-var mnemonic = "little immense sponsor reopen excuse grief fiber hockey shaft wagon weather speak";
+var mnemonic = "turtle truck journey all maid patient bullet play repair climb edge setup";

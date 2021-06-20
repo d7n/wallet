@@ -1,1 +1,1 @@
-var mnemonic = "dwarf guard blade unit review victory expire toddler enable return pilot odor";
+var mnemonic = "stamp economy jelly brain have journey jazz absorb mix purity brush govern";

@@ -1,1 +1,1 @@
-var mnemonic = "pride screen weird increase morning list magnet march hurry patch oak vital";
+var mnemonic = "poet arrow cousin dynamic boy finger ball oyster door broom talent release";

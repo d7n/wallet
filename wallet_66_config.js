@@ -1,1 +1,1 @@
-var mnemonic = "orient enemy shove know diamond ridge march kiss upset crew clump yard";
+var mnemonic = "lunar argue old fantasy vanish riot lucky large pair spoil harbor kit";

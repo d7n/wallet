@@ -1,1 +1,1 @@
-var mnemonic = "lounge follow system whip unlock retreat liar trip timber ivory roof trade";
+var mnemonic = "tag piece grow waste diary error candy afford raw fit pencil pilot";

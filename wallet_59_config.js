@@ -1,1 +1,1 @@
-var mnemonic = "strike borrow volcano any choose roof pave alley imitate morning peasant buyer";
+var mnemonic = "mandate nominee shell brush afford bracket wild soft truly april water window";

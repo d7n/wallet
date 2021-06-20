@@ -1,1 +1,1 @@
-var mnemonic = "aerobic medal affair display annual flower depend upgrade skin blur domain vessel";
+var mnemonic = "enjoy top meat culture afford market baby depart submit girl noble stable";

@@ -1,1 +1,1 @@
-var mnemonic = "only lift solar exclude grain horse clock walk stomach doll zone library";
+var mnemonic = "virtual burst tiger burst pudding absurd crane confirm early erupt trust weird";

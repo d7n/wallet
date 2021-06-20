@@ -1,1 +1,1 @@
-var mnemonic = "ability initial sausage holiday mixture flock place vendor pyramid nice isolate goose";
+var mnemonic = "ski patient source weird bronze clog original hard style typical adjust diagram";

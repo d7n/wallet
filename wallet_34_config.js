@@ -1,1 +1,1 @@
-var mnemonic = "room fence lesson fantasy cigar capital ribbon regret toss among collect front";
+var mnemonic = "party siege scrap grant need nose spray airport army special credit absent";

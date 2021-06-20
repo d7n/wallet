@@ -1,1 +1,1 @@
-var mnemonic = "kite tobacco suggest alpha derive iron beach risk mind average badge culture";
+var mnemonic = "butter jar crisp bracket ship firm chase scorpion chimney region spoil exist";

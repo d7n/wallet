@@ -1,1 +1,1 @@
-var mnemonic = "prison mirror juice rotate goat gasp taxi turkey razor panel island corn";
+var mnemonic = "glass auto victory utility bar latin mechanic garlic bullet stairs fabric walk";

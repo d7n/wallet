@@ -1,1 +1,1 @@
-var mnemonic = "flower poverty liquid cream dwarf bicycle enforce february almost clever whale enable";
+var mnemonic = "today hat tilt easily carpet stuff gauge page drop later flat absent";

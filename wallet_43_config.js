@@ -1,1 +1,1 @@
-var mnemonic = "tooth eight fatigue west ankle uniform immense super skin meat route farm";
+var mnemonic = "purchase false suspect rose oyster retire want orphan space combine humor topple";

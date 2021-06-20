@@ -1,1 +1,1 @@
-var mnemonic = "survey cup define swift assume giant cart marble palm have repeat loan";
+var mnemonic = "repair girl balance label gossip laundry kind harbor average segment gas salute";

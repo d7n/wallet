@@ -1,1 +1,1 @@
-var mnemonic = "tip worry banana describe wagon squeeze govern plunge hub private holiday execute";
+var mnemonic = "virtual light uniform manage verb episode father still check bronze middle evoke";

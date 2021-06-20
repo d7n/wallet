@@ -1,1 +1,1 @@
-var mnemonic = "sword pulp plug drama bless body slight annual unveil thrive debris clap";
+var mnemonic = "agree quantum island hurt one double tired gap copper liberty bright step";

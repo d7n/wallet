@@ -1,1 +1,1 @@
-var mnemonic = "torch dove almost mother waste segment truly dune smile derive merge garbage";
+var mnemonic = "employ deputy zero snap car youth obscure soft evoke scare asset valve";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy work oxygen account enjoy sound hamster expose social trip close seat";
+var mnemonic = "sun cage tone retreat fine traffic nest devote zebra put find wing";

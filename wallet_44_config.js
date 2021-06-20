@@ -1,1 +1,1 @@
-var mnemonic = "glare item lock slot vote hello calm faith clown choose giraffe shoulder";
+var mnemonic = "office win loop industry prepare okay useless awake hurry lend insect lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "lens mandate reform jump minor violin write inner color feature fatigue awake";
+var mnemonic = "approve print you aisle embrace undo spike during flush today health polar";

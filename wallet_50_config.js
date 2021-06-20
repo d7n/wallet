@@ -1,1 +1,1 @@
-var mnemonic = "rude raise tortoise promote gain erode black since echo elephant fabric penalty";
+var mnemonic = "hold family tongue thrive report mountain eagle inflict siren pave play smile";

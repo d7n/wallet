@@ -1,1 +1,1 @@
-var mnemonic = "volcano fade path boat useful tag release feature gain nasty install mosquito";
+var mnemonic = "minute razor divide nice ripple tomorrow system focus capital thought huge bike";

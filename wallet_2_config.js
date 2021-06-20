@@ -1,1 +1,1 @@
-var mnemonic = "praise come dust boy guilt label course claw resource fade plunge resource";
+var mnemonic = "cannon floor gasp once drama kangaroo cool fish season again almost manage";

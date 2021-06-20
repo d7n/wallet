@@ -1,1 +1,1 @@
-var mnemonic = "inform accuse lava please receive cook globe cliff path sight order spin";
+var mnemonic = "script across mimic urban away company robot uncle arctic all glide lab";

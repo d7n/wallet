@@ -1,1 +1,1 @@
-var mnemonic = "way super stuff quote youth people notice dog shine opinion eagle detect";
+var mnemonic = "venue way echo ride young similar wonder bridge toddler trim custom pumpkin";

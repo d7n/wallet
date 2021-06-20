@@ -1,1 +1,1 @@
-var mnemonic = "ability crater elder illegal punch win radar happy obscure analyst sauce athlete";
+var mnemonic = "scale hip history other salon lounge agree sick use ignore today core";

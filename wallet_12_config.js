@@ -1,1 +1,1 @@
-var mnemonic = "awful better disease celery silly cheese scout useful horn autumn limb black";
+var mnemonic = "ship enrich drama juice wealth injury canoe blossom test plate witness net";

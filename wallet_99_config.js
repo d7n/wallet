@@ -1,1 +1,1 @@
-var mnemonic = "fox accident young middle vast ancient remind clarify prevent shrimp medal resist";
+var mnemonic = "lizard there atom vehicle tooth deposit bring gain heart virus earth art";

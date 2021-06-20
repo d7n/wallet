@@ -1,1 +1,1 @@
-var mnemonic = "already collect base vehicle custom angle force interest tilt theme next denial";
+var mnemonic = "common hammer glance peanut turkey faculty vicious core thing timber rice much";

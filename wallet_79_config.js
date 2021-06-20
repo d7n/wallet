@@ -1,1 +1,1 @@
-var mnemonic = "deliver process old erase next grief track enroll option couch debate dirt";
+var mnemonic = "glare claw cycle dutch review trophy short pass shallow eyebrow depend ability";

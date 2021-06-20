@@ -1,1 +1,1 @@
-var mnemonic = "man tide once history divert school price second spy mix radar left";
+var mnemonic = "destroy great window nephew faint enroll smart sister year scatter token antique";

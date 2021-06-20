@@ -1,1 +1,1 @@
-var mnemonic = "ball course faculty cradle axis wait ancient grow floor parrot swift blanket";
+var mnemonic = "permit tool thunder metal swamp wing random barely flash long credit smoke";

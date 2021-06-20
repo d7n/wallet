@@ -1,1 +1,1 @@
-var mnemonic = "ketchup forest swing west main frost elbow order science gallery face unlock";
+var mnemonic = "invest roof eyebrow cable barely hurt elbow calm exit refuse cram olympic";

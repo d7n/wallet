@@ -1,1 +1,1 @@
-var mnemonic = "artist radar pull member fabric undo glimpse impact pledge rabbit transfer polar";
+var mnemonic = "erase trend cash afraid snake include enforce demise three oxygen panic engage";

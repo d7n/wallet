@@ -1,1 +1,1 @@
-var mnemonic = "carpet charge act uniform repeat transfer gas merge tilt culture enemy pudding";
+var mnemonic = "orbit vague author resource enrich sausage music web year giant need ugly";
