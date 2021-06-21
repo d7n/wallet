@@ -1,1 +1,1 @@
-var mnemonic = "balance leave dice inflict marine chase weird rough track popular gown double";
+var mnemonic = "cram diamond honey pilot gadget box tobacco ranch tape patrol december cute";

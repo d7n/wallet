@@ -1,1 +1,1 @@
-var mnemonic = "inform fence pioneer aspect outer narrow brick ridge assault radio present fiction";
+var mnemonic = "wood beyond barely glad run mansion range bronze wait submit capable inquiry";

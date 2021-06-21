@@ -1,1 +1,1 @@
-var mnemonic = "valid slab sphere eagle oil retreat knock diary junk advice sound brass";
+var mnemonic = "stick sound iron crunch isolate neck insect cannon hedgehog venture trend artist";

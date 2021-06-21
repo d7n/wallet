@@ -1,1 +1,1 @@
-var mnemonic = "wedding pistol blossom tell owner mother swamp toe knee best vocal drink";
+var mnemonic = "velvet trim kick ladder silk gloom farm better skull cave mutual slender";

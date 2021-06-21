@@ -1,1 +1,1 @@
-var mnemonic = "planet beauty drill define gaze wait oak panther drastic toy payment exercise";
+var mnemonic = "marine soda victory salute vital midnight found path sponsor output world relief";

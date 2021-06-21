@@ -1,1 +1,1 @@
-var mnemonic = "edge century present resource salt special floor pencil banner enhance drip route";
+var mnemonic = "toast island fabric spatial always harvest they gap breeze cat depth harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "police spawn core fork envelope conduct fancy common become tunnel verify idle";
+var mnemonic = "empower settle normal night denial yellow rifle drift rate arrow hurt fragile";

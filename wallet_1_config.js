@@ -1,1 +1,1 @@
-var mnemonic = "ready gas flavor fun jungle box swallow light ranch fox card law";
+var mnemonic = "obtain catch profit baby attitude poverty learn nest disagree sorry nasty loud";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal rib trick crucial rabbit swing bread eye answer pepper cinnamon busy";
+var mnemonic = "little gadget sun annual wise advance uncover sign prevent devote chicken safe";

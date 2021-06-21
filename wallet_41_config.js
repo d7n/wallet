@@ -1,1 +1,1 @@
-var mnemonic = "credit extra ability number survey eight orange entry rent depth seat chapter";
+var mnemonic = "grid garden exit spirit all breeze hour crash vivid element cute vocal";

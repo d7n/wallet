@@ -1,1 +1,1 @@
-var mnemonic = "viable width riot frame fatigue couch put taste library exhaust zebra dumb";
+var mnemonic = "drastic promote whale forest double involve come rookie flock vehicle damage mix";

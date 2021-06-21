@@ -1,1 +1,1 @@
-var mnemonic = "praise ladder shop foster avoid ketchup cancel make exist crazy stool physical";
+var mnemonic = "few road scare trim estate hawk brave blush crowd point wise version";

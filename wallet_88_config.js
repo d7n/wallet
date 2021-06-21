@@ -1,1 +1,1 @@
-var mnemonic = "obtain trip guitar merit swing behave remove stumble mule merit iron exact";
+var mnemonic = "brain enter rich equal wolf catch unveil stem stool mercy assault indicate";

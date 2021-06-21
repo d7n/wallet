@@ -1,1 +1,1 @@
-var mnemonic = "funny fitness fog coffee post sun board explain abandon bounce quality choice";
+var mnemonic = "unusual credit sort kid deposit tumble virus salmon neutral record dance item";

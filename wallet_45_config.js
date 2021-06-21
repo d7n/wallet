@@ -1,1 +1,1 @@
-var mnemonic = "place wonder ten remember session menu three vocal license clap wool audit";
+var mnemonic = "diet need idle fetch prevent chunk awake amateur wine media loan front";

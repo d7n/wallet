@@ -1,1 +1,1 @@
-var mnemonic = "lounge sense laugh lab strong price joke hat puppy vital mass armor";
+var mnemonic = "iron hold zoo dentist obscure eternal same two donate keen glow guess";

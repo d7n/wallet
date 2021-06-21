@@ -1,1 +1,1 @@
-var mnemonic = "convince soul correct mind twice vote proud famous little staff space brown";
+var mnemonic = "upgrade tube buddy forest express bracket soda cage illness name traffic shrimp";

@@ -1,1 +1,1 @@
-var mnemonic = "demise junk regular border slam spoon toilet salute habit you hidden blossom";
+var mnemonic = "subject view curtain snack crucial wine common credit item defense model flavor";

@@ -1,1 +1,1 @@
-var mnemonic = "gas income game energy burden coyote sponsor dress gaze oval ski label";
+var mnemonic = "wear art install lock first corn dwarf canyon common forward crunch calm";

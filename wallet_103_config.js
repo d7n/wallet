@@ -1,1 +1,1 @@
-var mnemonic = "present thumb expect bamboo light guide toilet bundle leg review speak penalty";
+var mnemonic = "pioneer melody slice staff spring local image have assume weather tragic acid";

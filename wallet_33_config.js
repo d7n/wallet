@@ -1,1 +1,1 @@
-var mnemonic = "parrot mass deposit horn globe ghost indoor ordinary shove sniff faint square";
+var mnemonic = "tobacco patient neck gift someone bean hole stone absent daring bless hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "chunk enough quote until grace impact delay welcome decide clerk polar aim";
+var mnemonic = "broccoli police lunar index destroy acoustic dilemma category mercy almost script sudden";

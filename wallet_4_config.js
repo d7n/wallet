@@ -1,1 +1,1 @@
-var mnemonic = "ask wagon trial weird marble mountain dove rude bid chalk auto clever";
+var mnemonic = "notice unfold unusual crash wear quit resist bulb word album jazz load";

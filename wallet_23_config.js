@@ -1,1 +1,1 @@
-var mnemonic = "series obscure group lizard lift hello modify runway sense inflict valve nurse";
+var mnemonic = "grow excite wash boost entire address risk dinosaur venue lawn recall taxi";

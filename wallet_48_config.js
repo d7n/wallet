@@ -1,1 +1,1 @@
-var mnemonic = "wear sniff decorate farm grow page hour salon outdoor thing pupil meat";
+var mnemonic = "book inform because believe layer fly correct inherit frozen romance table car";

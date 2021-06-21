@@ -1,1 +1,1 @@
-var mnemonic = "ski frame remain when purchase sell lady pink away only speed quarter";
+var mnemonic = "brush peace laundry era knee code gown better fabric artefact insane sight";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce put bracket ramp wedding magnet limit abandon issue figure robust quality";
+var mnemonic = "license junk certain arrest gravity discover thank hint winner inflict need robot";

@@ -1,1 +1,1 @@
-var mnemonic = "multiply caught actress frost expose powder uncover try modify toe pipe congress";
+var mnemonic = "baby innocent attitude educate style crumble later roast book engage original labor";

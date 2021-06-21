@@ -1,1 +1,1 @@
-var mnemonic = "enroll airport young conduct agree reward engage auction twenty elephant half obvious";
+var mnemonic = "grocery yard jungle melody exist behind cheap arrest six slight park blouse";

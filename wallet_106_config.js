@@ -1,1 +1,1 @@
-var mnemonic = "stone love sausage dutch story faint chair travel nerve anger mother find";
+var mnemonic = "ahead enable black keep sadness exact cook imitate wise mouse toe cinnamon";

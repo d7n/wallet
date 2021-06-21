@@ -1,1 +1,1 @@
-var mnemonic = "spoon sugar derive roof include spike body spawn soap window cage price";
+var mnemonic = "ripple journey van install explain jeans crazy gate shaft student aspect draw";

@@ -1,1 +1,1 @@
-var mnemonic = "comic party tortoise punch profit arm crawl sausage decade vacant salon decade";
+var mnemonic = "drip task mind plug ghost range ribbon display obscure prison ride result";

@@ -1,1 +1,1 @@
-var mnemonic = "olive century ripple sauce chair ranch cradle retire outdoor cage resource leader";
+var mnemonic = "sphere tomato magnet camp mixture awful drill because brown item above suspect";

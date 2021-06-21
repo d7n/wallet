@@ -1,1 +1,1 @@
-var mnemonic = "achieve indoor lend bonus best clay roof close fitness theme infant engine";
+var mnemonic = "one bunker amateur usage pencil tackle inhale hammer spirit kite picture dad";

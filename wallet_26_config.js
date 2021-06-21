@@ -1,1 +1,1 @@
-var mnemonic = "census master stone hair culture swarm version current mosquito rhythm draw wedding";
+var mnemonic = "practice express dose once wet crush embrace hungry torch scrap thought mosquito";

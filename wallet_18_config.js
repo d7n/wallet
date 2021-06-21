@@ -1,1 +1,1 @@
-var mnemonic = "material crime kiwi clarify umbrella budget term weekend call miss eager hurry";
+var mnemonic = "turn soul resist thunder warfare voice upgrade cabin ridge knock lunar process";

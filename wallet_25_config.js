@@ -1,1 +1,1 @@
-var mnemonic = "frame river escape solve scorpion dirt enforce gather truly clump state inmate";
+var mnemonic = "damage student borrow kingdom brief mushroom brand outdoor method panic ahead virus";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom hollow spring dolphin coffee birth huge answer capital wagon tape siren";
+var mnemonic = "place neither hip drama judge side critic exit army object thank lucky";

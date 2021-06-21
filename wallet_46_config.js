@@ -1,1 +1,1 @@
-var mnemonic = "purity excite find visa empty more spare school sting stay silk labor";
+var mnemonic = "level motion region problem flat catalog slogan sunny marine federal bacon burden";

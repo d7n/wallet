@@ -1,1 +1,1 @@
-var mnemonic = "upper bracket network tower lawn enrich comic edit laundry soup hedgehog collect";
+var mnemonic = "rent permit sibling away lazy relief blast remain ship science response disorder";

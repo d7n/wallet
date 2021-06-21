@@ -1,1 +1,1 @@
-var mnemonic = "lounge matter bleak need copy rose allow mesh wedding industry trip video";
+var mnemonic = "decrease drink leopard pelican genuine cause cattle erase dream safe machine exile";

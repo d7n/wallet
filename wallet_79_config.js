@@ -1,1 +1,1 @@
-var mnemonic = "pioneer empower model vague mechanic lyrics coral deal shy giraffe rally reopen";
+var mnemonic = "steel drift giraffe leave cushion pill make album soap taste spare nest";

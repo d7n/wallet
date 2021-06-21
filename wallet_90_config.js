@@ -1,1 +1,1 @@
-var mnemonic = "thought diesel lawn raw powder buyer cart sting crew emerge gloom cannon";
+var mnemonic = "sunny arena sell fiscal wealth silk act horse lecture drama mail arrow";

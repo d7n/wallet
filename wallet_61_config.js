@@ -1,1 +1,1 @@
-var mnemonic = "save perfect hard session elephant media sure crane sort enlist depth prepare";
+var mnemonic = "impose width curious slim stomach special brain sense lift honey service quantum";

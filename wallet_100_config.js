@@ -1,1 +1,1 @@
-var mnemonic = "best caught push artefact point angry prison poem pull silent act remove";
+var mnemonic = "cliff soda margin seat stable scare baby rotate unaware useful cotton jeans";

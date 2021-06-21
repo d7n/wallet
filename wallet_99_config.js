@@ -1,1 +1,1 @@
-var mnemonic = "brown strike voice primary link very detect plastic alcohol daughter dream minute";
+var mnemonic = "card inner category economy bullet risk spawn warfare puzzle menu stay neglect";

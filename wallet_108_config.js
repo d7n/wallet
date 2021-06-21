@@ -1,1 +1,1 @@
-var mnemonic = "private pulp acoustic mosquito number rookie bike number limit grain globe define";
+var mnemonic = "spider ceiling display ethics foot actor era radar can blue outdoor immense";

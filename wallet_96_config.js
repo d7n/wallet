@@ -1,1 +1,1 @@
-var mnemonic = "enough story beyond quality hamster fly long moment clump spice noise dwarf";
+var mnemonic = "tiger balance half rug term bachelor index summer frame rescue forest smoke";

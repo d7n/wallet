@@ -1,1 +1,1 @@
-var mnemonic = "amazing pass jeans rib balance property debris liquid loud helmet name fire";
+var mnemonic = "series cotton casual thunder october nerve obvious embark engine venue rescue weekend";

@@ -1,1 +1,1 @@
-var mnemonic = "curve act this spoon plunge despair village rigid dignity abandon guard pelican";
+var mnemonic = "catch hybrid capable bacon note fix mouse kiss menu weasel access upgrade";

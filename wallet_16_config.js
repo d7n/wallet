@@ -1,1 +1,1 @@
-var mnemonic = "ripple spare click slide video soldier own turn curious denial best whip";
+var mnemonic = "dice voice segment type elephant hand remain deny list paddle artist scene";

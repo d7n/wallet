@@ -1,1 +1,1 @@
-var mnemonic = "purse accident amused sting potato school girl opinion ritual into rack silver";
+var mnemonic = "grid copy faith cliff zero antique love unfold creek girl episode will";

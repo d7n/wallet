@@ -1,1 +1,1 @@
-var mnemonic = "warm lawsuit foam myth bullet scheme dash legend crouch parrot warfare fade";
+var mnemonic = "clock maze west turkey foster horse cause snake eyebrow evil wreck clerk";

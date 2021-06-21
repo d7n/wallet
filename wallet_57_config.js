@@ -1,1 +1,1 @@
-var mnemonic = "desk annual sun dignity narrow addict future crowd abandon animal inmate guide";
+var mnemonic = "robust goose category nerve cram dentist amazing aware whip forum library reveal";

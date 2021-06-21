@@ -1,1 +1,1 @@
-var mnemonic = "spice soup meat cheap review liar achieve diary quarter defy vacuum cry";
+var mnemonic = "paper private churn conduct taxi walnut little chalk woman iron sea coast";

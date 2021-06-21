@@ -1,1 +1,1 @@
-var mnemonic = "find roof leave glance crunch eyebrow roof blanket pilot miracle cave fit";
+var mnemonic = "valley miracle lazy suit radio decline retire rain bleak butter cable pluck";

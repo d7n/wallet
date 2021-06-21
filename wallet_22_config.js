@@ -1,1 +1,1 @@
-var mnemonic = "movie easy picnic reject rice document foil spring brief fork smoke spend";
+var mnemonic = "denial enemy install narrow nice hill satisfy shoulder position charge horse funny";

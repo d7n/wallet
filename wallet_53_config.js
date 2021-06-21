@@ -1,1 +1,1 @@
-var mnemonic = "either old remove inmate poverty roast language merge layer female garage capital";
+var mnemonic = "reject cause demise service sustain alpha ribbon comfort biology glory garment absurd";

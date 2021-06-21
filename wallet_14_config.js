@@ -1,1 +1,1 @@
-var mnemonic = "media walk liquid corn couple run merge modify artefact pony matter behind";
+var mnemonic = "tag torch impulse loop hundred spirit cruise click mechanic amateur degree razor";

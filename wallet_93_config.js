@@ -1,1 +1,1 @@
-var mnemonic = "notable excess fog recall find tiny acoustic aunt lunar crumble hold earth";
+var mnemonic = "main history knife fortune hungry electric nest boost bind someone warrior shed";

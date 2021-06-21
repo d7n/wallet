@@ -1,1 +1,1 @@
-var mnemonic = "ticket west brother clutch cook dignity pass chief hurry helmet curve debate";
+var mnemonic = "leaf announce question film never gold stone two naive lyrics rural fragile";

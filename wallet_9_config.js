@@ -1,1 +1,1 @@
-var mnemonic = "birth vapor follow primary remind oil border unveil rifle oxygen lesson beauty";
+var mnemonic = "hub dirt move misery junior disease enough view mouse deal correct library";

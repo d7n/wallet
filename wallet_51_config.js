@@ -1,1 +1,1 @@
-var mnemonic = "cherry task warm upon same clever stereo nuclear victory album early spread";
+var mnemonic = "welcome average tonight curtain stay identify isolate unknown peanut ribbon marine universe";

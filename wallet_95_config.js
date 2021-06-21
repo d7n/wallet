@@ -1,1 +1,1 @@
-var mnemonic = "fatal circle render globe royal vessel finish bright print boost polar cook";
+var mnemonic = "index piano life allow gentle junior axis chest local local attend giggle";

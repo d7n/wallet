@@ -1,1 +1,1 @@
-var mnemonic = "just alley attract length deny balcony host raw into oyster judge butter";
+var mnemonic = "cloud hood quit trade vital vicious observe leg figure talent festival winter";

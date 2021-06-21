@@ -1,1 +1,1 @@
-var mnemonic = "skate travel sock unhappy heavy awkward layer result wide loyal unusual virus";
+var mnemonic = "auction river device pave oxygen public judge disagree smile hand example bind";

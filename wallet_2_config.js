@@ -1,1 +1,1 @@
-var mnemonic = "magic universe report wrap deliver reason run barely child ahead office number";
+var mnemonic = "screen allow muffin else owner trumpet hurdle useful client prison two click";

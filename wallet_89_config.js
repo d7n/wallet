@@ -1,1 +1,1 @@
-var mnemonic = "number banana giggle tomorrow tragic carry pond intact escape ugly rib caution";
+var mnemonic = "sell chef boost disagree retire math credit elegant pigeon lift hammer rotate";

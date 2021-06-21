@@ -1,1 +1,1 @@
-var mnemonic = "worth kind modify slogan odor only price mushroom market diamond document license";
+var mnemonic = "unusual birth hurdle melody danger inner sense build license pistol borrow combine";

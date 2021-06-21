@@ -1,1 +1,1 @@
-var mnemonic = "model ice habit repair recipe topic joy grid scatter liar horse trigger";
+var mnemonic = "volcano fiber profit brown biology limb pulp initial stomach actual extend impose";

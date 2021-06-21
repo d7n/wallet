@@ -1,1 +1,1 @@
-var mnemonic = "bike chalk palm notable sustain bone moral mandate teach together twice scatter";
+var mnemonic = "sell shallow siege outdoor brown couch evidence dog tonight absent symbol echo";

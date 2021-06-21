@@ -1,1 +1,1 @@
-var mnemonic = "breeze click junior voice mention add cube stairs view horn dry card";
+var mnemonic = "leader submit silk apology quarter wool scene observe forget dry family urge";

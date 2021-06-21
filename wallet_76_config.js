@@ -1,1 +1,1 @@
-var mnemonic = "maximum control business animal shove modify float rug imitate short supply manual";
+var mnemonic = "gentle win either panel odor clerk divorce theme judge town phrase under";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse primary before sphere movie regret flag shadow bus soft coin ghost";
+var mnemonic = "easy test plastic fame unaware glance prefer nothing atom critic siren reflect";

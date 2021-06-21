@@ -1,1 +1,1 @@
-var mnemonic = "glass federal atom reopen news state document uncle only soup add disease";
+var mnemonic = "scorpion funny sort uniform tackle bless jelly reward alley pet lunar bottom";

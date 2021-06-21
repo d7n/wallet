@@ -1,1 +1,1 @@
-var mnemonic = "run struggle auction hard gospel major often caution claw image guess regular";
+var mnemonic = "vast mad grunt honey ramp eager phone artist stereo material spike heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter sort insect siege later tiger human useless smoke sand series today";
+var mnemonic = "input coconut glimpse rib collect nasty copper length marble select icon bless";

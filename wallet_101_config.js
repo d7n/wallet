@@ -1,1 +1,1 @@
-var mnemonic = "mesh clay junk cram chase stick shoot alert fortune paper sunny actor";
+var mnemonic = "quick report horse spoon notable orange floor lazy walk city drum divorce";

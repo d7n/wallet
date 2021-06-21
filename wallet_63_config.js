@@ -1,1 +1,1 @@
-var mnemonic = "curious innocent banner consider fabric please ensure artwork bullet mobile police cradle";
+var mnemonic = "venture hawk phone brick cool dash employ time flush abuse sort square";

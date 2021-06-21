@@ -1,1 +1,1 @@
-var mnemonic = "nose gap young patrol head zone evolve weapon dove core royal island";
+var mnemonic = "cinnamon zebra finger collect dwarf setup abstract excess airport quiz pioneer increase";

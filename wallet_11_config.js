@@ -1,1 +1,1 @@
-var mnemonic = "ritual fancy dirt fury curve lift toy awkward subway emotion thank where";
+var mnemonic = "tuition glad uncover bone cabin day desk syrup coast liquid symbol obey";

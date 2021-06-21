@@ -1,1 +1,1 @@
-var mnemonic = "dice add grain bench episode empty scout picnic wall river ensure amateur";
+var mnemonic = "almost track cloud head exact farm slogan mosquito glare bundle list hen";

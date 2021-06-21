@@ -1,1 +1,1 @@
-var mnemonic = "page sad piano govern flame police cute because amazing tail word sketch";
+var mnemonic = "appear regret release domain cannon blood motion naive crack lift empower fiber";

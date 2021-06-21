@@ -1,1 +1,1 @@
-var mnemonic = "leader regular effort yard increase twenty rich maze render eager fabric obtain";
+var mnemonic = "spike flight rural basket rough measure game achieve pigeon embody coral fame";

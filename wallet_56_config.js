@@ -1,1 +1,1 @@
-var mnemonic = "ketchup gospel trick crack summer october dawn elbow member market lady kitchen";
+var mnemonic = "exotic tank ready endorse equal monkey bar south rival sign display grow";

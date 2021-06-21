@@ -1,1 +1,1 @@
-var mnemonic = "iron between dumb climb clinic change man clever happy rebuild satisfy leader";
+var mnemonic = "real deny anchor note fence doll night eternal prison salad cannon zero";

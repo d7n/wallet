@@ -1,1 +1,1 @@
-var mnemonic = "any voice coach digital normal dutch plate height depart broccoli party poverty";
+var mnemonic = "ride urge use card vivid enhance thumb style moral ginger forum slam";

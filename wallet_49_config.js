@@ -1,1 +1,1 @@
-var mnemonic = "size expose undo label holiday annual satisfy shy cactus tone century body";
+var mnemonic = "stone ensure must awake grape hour pupil three tuition manual embody burst";

@@ -1,1 +1,1 @@
-var mnemonic = "minor olympic world yard choose supreme pony capable supply census tunnel point";
+var mnemonic = "glass zebra produce typical mom bronze sick range joke shadow priority stove";
