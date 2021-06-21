@@ -1,1 +1,1 @@
-var mnemonic = "shoot squirrel ready section enroll until mansion flower kingdom eye enforce space";
+var mnemonic = "alpha humble sunset undo size input caution height initial glance talk lend";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate endorse party verb shine true frog ill turn zone chimney catch";
+var mnemonic = "giggle six blouse retire ticket piano someone donkey radio pull salad magnet";

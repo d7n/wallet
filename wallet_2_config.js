@@ -1,1 +1,1 @@
-var mnemonic = "spell very crater lazy pitch elbow autumn theme sniff track afraid scheme";
+var mnemonic = "rich phrase fuel segment connect seminar simple ask alien occur afraid guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss smooth equip maximum slab bind fragile dad soap column parade prepare";
+var mnemonic = "absurd frame chef uniform true credit nasty away horror sleep omit blossom";

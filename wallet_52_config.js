@@ -1,1 +1,1 @@
-var mnemonic = "practice practice youth deny under dirt afford during innocent clap detail report";
+var mnemonic = "eye enforce audit dolphin various spawn extend blind camera crane riot heavy";

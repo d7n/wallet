@@ -1,1 +1,1 @@
-var mnemonic = "thumb analyst diesel afraid example nuclear repeat upon treat gadget chase rifle";
+var mnemonic = "whip hip camera empty giant denial unlock cinnamon usage bunker forget six";

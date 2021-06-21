@@ -1,1 +1,1 @@
-var mnemonic = "garment recipe early distance dust cloud speak loan angry decline display bargain";
+var mnemonic = "refuse payment canyon nature drip february great smoke super furnace social notable";

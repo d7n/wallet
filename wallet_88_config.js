@@ -1,1 +1,1 @@
-var mnemonic = "grocery illegal retreat season bomb vast warm bitter rule axis change acquire";
+var mnemonic = "airport narrow piece main arrange donor engine record fancy practice tomato device";

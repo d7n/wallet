@@ -1,1 +1,1 @@
-var mnemonic = "worth expand wreck spell blanket frozen clarify climb swamp bean insane ten";
+var mnemonic = "asthma pet moral occur opera speak unknown cradle expose little next parrot";

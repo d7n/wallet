@@ -1,1 +1,1 @@
-var mnemonic = "away review cloud guess behave sea immense absurd pattern clerk total enemy";
+var mnemonic = "lyrics boil panic grass demand cattle trade muscle argue kitchen lava paddle";

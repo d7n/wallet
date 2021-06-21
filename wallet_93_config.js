@@ -1,1 +1,1 @@
-var mnemonic = "cry wine host leaf need water swap fat quote wonder cycle any";
+var mnemonic = "coffee slab chest shrimp toe index melody horse lounge song also pioneer";

@@ -1,1 +1,1 @@
-var mnemonic = "oven average muscle road bring puppy hub era thing clever train hub";
+var mnemonic = "glass end image wet upper praise way vanish kidney dice gun small";

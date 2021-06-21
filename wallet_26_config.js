@@ -1,1 +1,1 @@
-var mnemonic = "yard volcano bag hello soap invite lumber urban shrimp flavor volume organ";
+var mnemonic = "help reveal shaft nothing island bleak smart gate talk fix degree where";

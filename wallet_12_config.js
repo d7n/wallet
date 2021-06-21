@@ -1,1 +1,1 @@
-var mnemonic = "before apology grunt grape furnace retire wise client lens fade zebra organ";
+var mnemonic = "ozone close tell canvas entire blame step patrol local immense pioneer problem";

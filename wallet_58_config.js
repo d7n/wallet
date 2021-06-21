@@ -1,1 +1,1 @@
-var mnemonic = "duty witness upper uphold mail scare clay can gym relax tip exchange";
+var mnemonic = "acoustic swarm creek idea this bitter window yellow harsh vast trick concert";

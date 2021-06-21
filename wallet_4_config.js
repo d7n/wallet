@@ -1,1 +1,1 @@
-var mnemonic = "basic tree rubber timber swear pumpkin rally dress muffin round field zoo";
+var mnemonic = "muscle chuckle inmate final chief ticket wire eagle south point rebuild search";

@@ -1,1 +1,1 @@
-var mnemonic = "two boring leg topic damp bubble tribe festival gauge vibrant ski resource";
+var mnemonic = "boat depart benefit tissue jeans table okay enrich custom source weekend catalog";

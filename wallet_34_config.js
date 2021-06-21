@@ -1,1 +1,1 @@
-var mnemonic = "betray rather banana input mansion poverty garbage pudding hunt stone seed offer";
+var mnemonic = "ignore crystal oven gain poverty enrich list scan kiss spare above final";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate glance regret season various rice phrase announce tuition pencil diet runway";
+var mnemonic = "rocket relax warrior bind yard demand find size example indoor camera essay";

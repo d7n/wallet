@@ -1,1 +1,1 @@
-var mnemonic = "hammer banana hill minimum layer champion harvest science question brother engage believe";
+var mnemonic = "okay strike pattern food shop cheap grab size ride crane advice entire";

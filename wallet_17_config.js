@@ -1,1 +1,1 @@
-var mnemonic = "crystal art stage assault dizzy swarm wood mom cover rack double ordinary";
+var mnemonic = "ozone glow book destroy movie faith diary quantum fabric bring nasty element";

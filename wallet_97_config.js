@@ -1,1 +1,1 @@
-var mnemonic = "reject math sugar sweet dwarf later fiscal fever inside rib doll start";
+var mnemonic = "book search hurdle funny where hungry chunk icon cash tortoise night amused";

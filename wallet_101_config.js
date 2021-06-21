@@ -1,1 +1,1 @@
-var mnemonic = "observe other badge rare impact aisle there merry act athlete spot resemble";
+var mnemonic = "tribe annual film affair combine budget stock mystery ghost purchase alarm differ";

@@ -1,1 +1,1 @@
-var mnemonic = "spider expand endless lawsuit slab size bounce tomorrow seek bus minimum paddle";
+var mnemonic = "napkin country crane crouch emerge wish chalk tonight spread track mobile guide";

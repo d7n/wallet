@@ -1,1 +1,1 @@
-var mnemonic = "small fury mixture guitar flush chronic snap client people device cave change";
+var mnemonic = "eight industry drive muscle lens patient pluck wreck celery pilot best boat";

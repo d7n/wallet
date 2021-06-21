@@ -1,1 +1,1 @@
-var mnemonic = "erode detect tide ability smile donate science filter violin wagon club unknown";
+var mnemonic = "limb fault rotate plunge search side process movie pact spare match orchard";

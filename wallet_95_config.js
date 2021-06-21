@@ -1,1 +1,1 @@
-var mnemonic = "kind range kid ten husband ugly photo glide vivid work recall crime";
+var mnemonic = "question food sell age mystery wealth tiny hat rail pond man gallery";

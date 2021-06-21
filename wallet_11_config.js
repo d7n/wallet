@@ -1,1 +1,1 @@
-var mnemonic = "brick unique crouch course bomb immune fringe boost option pluck artist sing";
+var mnemonic = "fashion ahead move ask filter mad guard license captain turn guard rubber";

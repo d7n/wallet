@@ -1,1 +1,1 @@
-var mnemonic = "search correct faith few frog evidence scheme ability wear weapon race question";
+var mnemonic = "salon adult result area rather bench frozen seat zero focus melody pink";

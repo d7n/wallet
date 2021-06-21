@@ -1,1 +1,1 @@
-var mnemonic = "double actor deer plate deny couch proof ripple bitter broccoli ugly sphere";
+var mnemonic = "width resist library orbit thumb federal toward true outdoor social month truck";

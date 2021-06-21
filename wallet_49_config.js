@@ -1,1 +1,1 @@
-var mnemonic = "ketchup bullet unaware demand butter purse cave wing undo omit you fall";
+var mnemonic = "select lucky salt universe adjust shrimp model fiber admit charge cannon trial";

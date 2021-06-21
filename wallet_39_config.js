@@ -1,1 +1,1 @@
-var mnemonic = "skirt raven tool pistol fun divorce jungle motion cycle okay dove time";
+var mnemonic = "black service board labor fury ginger ahead example face maple mention drill";

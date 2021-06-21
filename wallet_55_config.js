@@ -1,1 +1,1 @@
-var mnemonic = "praise gap trophy cinnamon share vehicle ready innocent pizza woman tape say";
+var mnemonic = "rose present jaguar eye nose laundry luggage sauce history entry like wide";

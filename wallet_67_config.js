@@ -1,1 +1,1 @@
-var mnemonic = "puzzle aspect whale claw check dust learn screen oppose custom try engine";
+var mnemonic = "powder daring rain sense fragile wise monitor wrong pact family rather track";

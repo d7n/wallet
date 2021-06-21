@@ -1,1 +1,1 @@
-var mnemonic = "alley tunnel fruit credit salute gauge pride tip pelican menu plunge equal";
+var mnemonic = "hello library twenty knife whale laptop certain uphold digital clip fiscal script";

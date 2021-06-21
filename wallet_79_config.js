@@ -1,1 +1,1 @@
-var mnemonic = "exchange flush volume neck crop casual milk cool heavy snack denial speak";
+var mnemonic = "other extend pride portion scrub item enjoy image east owner result guess";

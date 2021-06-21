@@ -1,1 +1,1 @@
-var mnemonic = "garage occur february color pumpkin plate fortune brisk diamond because guilt guilt";
+var mnemonic = "special smile select shove hint hollow gym item enemy once rain cabin";

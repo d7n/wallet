@@ -1,1 +1,1 @@
-var mnemonic = "grant current snake top gossip address super bird firm paper gallery pluck";
+var mnemonic = "letter worth already tackle gesture hold tomato thunder valve monster solar attract";

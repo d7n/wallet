@@ -1,1 +1,1 @@
-var mnemonic = "scene kitchen supreme wave resemble timber frog begin vocal clap donate glad";
+var mnemonic = "notice access hard until choose manual color gallery soccer enable club together";

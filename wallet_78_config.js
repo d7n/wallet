@@ -1,1 +1,1 @@
-var mnemonic = "early glue keen pole myth casual ill fetch kitten undo shop early";
+var mnemonic = "ensure side champion day spike vast torch merry enlist siren want crucial";

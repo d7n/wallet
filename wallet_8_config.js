@@ -1,1 +1,1 @@
-var mnemonic = "busy chimney unit entry arctic palace scan trash damage lava mushroom police";
+var mnemonic = "narrow blood someone diary project subway cute giraffe insect melody belt coin";

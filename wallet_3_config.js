@@ -1,1 +1,1 @@
-var mnemonic = "gun auction gorilla length icon prize embark game struggle offer parade pupil";
+var mnemonic = "tornado hill upper cluster method rain draft creek catch unfair increase lyrics";

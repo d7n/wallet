@@ -1,1 +1,1 @@
-var mnemonic = "hazard ostrich shop reveal reduce layer horror behave wreck maze craft memory";
+var mnemonic = "curve barely toy dynamic forget virus tennis village resemble muscle trade near";

@@ -1,1 +1,1 @@
-var mnemonic = "dry bonus clap curious eager sign element marine visual alpha dad social";
+var mnemonic = "member junior glide wool scout place limit throw auction melody vocal album";

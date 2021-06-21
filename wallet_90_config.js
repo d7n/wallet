@@ -1,1 +1,1 @@
-var mnemonic = "design code useless shy negative attack injury develop napkin remain cigar imitate";
+var mnemonic = "opinion sting recipe deliver garlic survey sun click come spider vanish wife";

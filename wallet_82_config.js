@@ -1,1 +1,1 @@
-var mnemonic = "type buzz welcome manage diet rescue steak boat grant doll warfare vessel";
+var mnemonic = "engine tiger distance coil case brown social together limb buzz ripple worry";

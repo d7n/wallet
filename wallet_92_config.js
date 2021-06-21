@@ -1,1 +1,1 @@
-var mnemonic = "exotic motor humor plunge shallow home elephant tiger letter wink bargain cry";
+var mnemonic = "trust tragic fiber depth mesh enemy world tortoise funny badge material away";

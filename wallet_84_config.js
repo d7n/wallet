@@ -1,1 +1,1 @@
-var mnemonic = "clown weasel talent digital surface during tomato velvet bubble resource warm found";
+var mnemonic = "team real churn ensure inquiry unit provide staff bar firm route bike";

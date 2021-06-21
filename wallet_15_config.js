@@ -1,1 +1,1 @@
-var mnemonic = "trash sleep render cute lady talk night novel ready increase rent belt";
+var mnemonic = "visit daughter marine scrap elevator solar deposit rigid tag sunset wire stumble";

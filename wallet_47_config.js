@@ -1,1 +1,1 @@
-var mnemonic = "scan weather strike melt right wrap orchard matrix head way twenty midnight";
+var mnemonic = "undo wash canoe home funny random lucky coin thank next legal enlist";

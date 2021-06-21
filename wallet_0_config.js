@@ -1,1 +1,1 @@
-var mnemonic = "badge forward base garment dune nurse assault crystal refuse farm sample van";
+var mnemonic = "excite ginger together inhale describe priority panther emerge impose system stand name";

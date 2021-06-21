@@ -1,1 +1,1 @@
-var mnemonic = "usage ridge exhaust service shoe veteran expire student science alert chat common";
+var mnemonic = "ginger anchor van kitten north pelican kick moon play motor notable trend";

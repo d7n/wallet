@@ -1,1 +1,1 @@
-var mnemonic = "remember test stick certain upper genre note vintage shock armor ball biology";
+var mnemonic = "boat squirrel blanket stamp trap decade crawl mango check flavor weasel pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "desert eagle over jar science warm pizza allow primary approve produce idle";
+var mnemonic = "lemon excuse fabric online unfair fossil crowd confirm jar know offer magic";

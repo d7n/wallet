@@ -1,1 +1,1 @@
-var mnemonic = "behind peanut task pitch swear dream attitude cattle advance dinosaur lab song";
+var mnemonic = "half lend bachelor entire grape large flavor fresh welcome balance disease topic";

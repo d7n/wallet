@@ -1,1 +1,1 @@
-var mnemonic = "forget moment believe truck black mutual tackle vapor utility scheme chalk bicycle";
+var mnemonic = "suit public update garment glove merge dance rubber offer dynamic welcome milk";

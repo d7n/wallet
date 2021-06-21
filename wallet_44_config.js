@@ -1,1 +1,1 @@
-var mnemonic = "agree neglect release result more accuse behave coin year exhaust kingdom hunt";
+var mnemonic = "horn they kiss enforce nuclear tackle shoe usage spend foam someone room";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter stamp hello merit arrest spy bag blind subject suit arrive shield";
+var mnemonic = "pretty shoulder supply zebra rabbit riot salute only clarify connect notable opinion";

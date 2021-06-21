@@ -1,1 +1,1 @@
-var mnemonic = "usual month office will silver later quit people first globe message damp";
+var mnemonic = "rice useless extend mean fringe wet myself couple diamond expire fever radar";

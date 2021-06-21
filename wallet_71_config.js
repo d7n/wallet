@@ -1,1 +1,1 @@
-var mnemonic = "verb behave cake this mosquito book weapon six window velvet female host";
+var mnemonic = "shop laugh expose mushroom shell fee script fruit local about gadget wrong";

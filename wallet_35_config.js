@@ -1,1 +1,1 @@
-var mnemonic = "license desert true bounce mask monitor rare obtain slide final jungle erode";
+var mnemonic = "horror view believe reform rubber trash economy laptop fault unusual dirt furnace";

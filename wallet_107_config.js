@@ -1,1 +1,1 @@
-var mnemonic = "life method sudden feel tiger distance then offer shallow open beef same";
+var mnemonic = "jungle fox gauge hero image prefer asthma manage shove table injury few";

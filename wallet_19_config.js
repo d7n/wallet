@@ -1,1 +1,1 @@
-var mnemonic = "strike fine retreat second lunch rookie trust echo pause monster about swift";
+var mnemonic = "add claim exit large enable moral apart insect never flower today two";

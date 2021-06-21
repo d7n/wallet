@@ -1,1 +1,1 @@
-var mnemonic = "pottery link bachelor pause hunt survey ride panic dentist country script canyon";
+var mnemonic = "thunder blossom oil frozen spatial steak cart cricket lizard virtual total siege";

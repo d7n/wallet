@@ -1,1 +1,1 @@
-var mnemonic = "hurt race also ginger casual tornado cheap involve elbow emotion rabbit right";
+var mnemonic = "improve glue coast spin alpha upgrade hood engage ladder they corn faculty";

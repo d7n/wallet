@@ -1,1 +1,1 @@
-var mnemonic = "area life forward polar evil arm dry soul veteran shy assault dinosaur";
+var mnemonic = "device appear boss neutral latin source tail cycle crew actress prepare leisure";

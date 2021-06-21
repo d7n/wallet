@@ -1,1 +1,1 @@
-var mnemonic = "master harsh together correct unit relief monster win admit dad print excess";
+var mnemonic = "hotel merry autumn dentist taste arch tent garage act tobacco ticket pole";

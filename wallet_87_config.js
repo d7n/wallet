@@ -1,1 +1,1 @@
-var mnemonic = "churn phrase symptom long then crunch gentle daughter doll fiction tag march";
+var mnemonic = "upgrade candy excuse couch obscure access fault spatial rare expose random shove";

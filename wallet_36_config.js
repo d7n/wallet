@@ -1,1 +1,1 @@
-var mnemonic = "predict grief invite power quote into letter rate high category ice dutch";
+var mnemonic = "extra walnut oven merit depart cradle gas polar bone stomach volcano combine";

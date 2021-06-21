@@ -1,1 +1,1 @@
-var mnemonic = "cause burger joke text settle until pudding vacant truth opinion odor keep";
+var mnemonic = "decline buffalo awkward denial wash vault peanut gorilla end limb alone collect";

@@ -1,1 +1,1 @@
-var mnemonic = "super entire spray canyon crazy essay conduct speak oppose dice beef bind";
+var mnemonic = "side music music soul scout flock wisdom fashion staff route shallow melt";

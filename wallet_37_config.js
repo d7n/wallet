@@ -1,1 +1,1 @@
-var mnemonic = "crunch need confirm involve six two diesel auction payment custom draft swim";
+var mnemonic = "any sock choice survey illegal seminar leisure pelican bleak vapor burden melt";

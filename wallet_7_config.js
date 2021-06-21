@@ -1,1 +1,1 @@
-var mnemonic = "apple couple burger corn dizzy nominee enter news surge ethics lesson typical";
+var mnemonic = "family sweet stool box tray invite virus east random reason pull input";

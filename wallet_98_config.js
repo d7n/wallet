@@ -1,1 +1,1 @@
-var mnemonic = "mandate filter maximum stomach brand city soldier fiber fashion that volcano exile";
+var mnemonic = "faith quality stool bicycle violin obvious sauce display loud element lend skull";

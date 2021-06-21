@@ -1,1 +1,1 @@
-var mnemonic = "deer topic mouse milk shove hammer dog steel usage sense stand couple";
+var mnemonic = "umbrella pepper puzzle month giggle alley kitchen liberty wrong wild sadness uniform";

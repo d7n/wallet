@@ -1,1 +1,1 @@
-var mnemonic = "later parade awake link joke stairs movie trade farm october want cruise";
+var mnemonic = "false talent lion expose snap goddess wall now vote broom whale build";

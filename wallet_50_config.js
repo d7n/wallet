@@ -1,1 +1,1 @@
-var mnemonic = "surge major leave abuse vital hope arch topple list occur business alley";
+var mnemonic = "release quality minute exercise amount enlist evolve vicious supply possible horror dilemma";

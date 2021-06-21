@@ -1,1 +1,1 @@
-var mnemonic = "upon mandate degree process actor south cheap razor rely connect task grass";
+var mnemonic = "upgrade faint used solve table tonight wine girl torch width debris sea";

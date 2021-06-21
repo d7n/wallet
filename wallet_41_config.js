@@ -1,1 +1,1 @@
-var mnemonic = "prevent warm rival split problem crowd switch alley inject sport please syrup";
+var mnemonic = "fiber rival alien nerve funny swift file million group mule chimney spring";

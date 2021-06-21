@@ -1,1 +1,1 @@
-var mnemonic = "popular observe reduce kidney charge pluck hip clever mouse usage reform search";
+var mnemonic = "pudding speed favorite rebel bright lab orange tunnel cause advance genre educate";

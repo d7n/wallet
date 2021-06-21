@@ -1,1 +1,1 @@
-var mnemonic = "slab crack job sadness caught true urban creek satisfy fit prefer will";
+var mnemonic = "educate concert transfer climb image cloth wait tell pool nerve remain biology";

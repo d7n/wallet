@@ -1,1 +1,1 @@
-var mnemonic = "second evolve lady orbit giant narrow reject health salad aerobic sport message";
+var mnemonic = "hidden direct glimpse brother planet upper lyrics profit defy clock off elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "oval defy novel before nerve maple super bridge novel bullet nuclear upper";
+var mnemonic = "dust round upper media dose assist explain trust breeze arrow cereal foot";

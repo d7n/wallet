@@ -1,1 +1,1 @@
-var mnemonic = "divert midnight brisk verb trash setup silly canoe curious extend say potato";
+var mnemonic = "eye whale under only zebra trade permit year success arctic sorry paddle";

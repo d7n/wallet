@@ -1,1 +1,1 @@
-var mnemonic = "they tonight ketchup zone inflict kidney awful lift cradle dinosaur practice canvas";
+var mnemonic = "dolphin figure casino power bean tongue leg easily hero axis syrup curve";

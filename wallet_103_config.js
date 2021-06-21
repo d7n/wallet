@@ -1,1 +1,1 @@
-var mnemonic = "scan episode mom retire asthma better wave tiny hand badge peace version";
+var mnemonic = "chef announce visa soul game bird pink festival spray flat desk decline";

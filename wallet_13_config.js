@@ -1,1 +1,1 @@
-var mnemonic = "school magnet glass puppy ship rather across carpet seat left theory face";
+var mnemonic = "scissors great energy gap flat peasant depart nice category prize decline total";

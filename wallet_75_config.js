@@ -1,1 +1,1 @@
-var mnemonic = "spend shiver interest ostrich change damp venture shoot gate clarify agree option";
+var mnemonic = "found talent only educate round test lab notice once tourist whisper gloom";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle drastic window lizard resemble home clarify ready record antique proof region";
+var mnemonic = "sample unusual glory naive dress gaze rural rough machine frequent cool elder";

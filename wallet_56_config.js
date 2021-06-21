@@ -1,1 +1,1 @@
-var mnemonic = "speak nation cart salmon year tortoise buzz then cost slab upon burger";
+var mnemonic = "satoshi exist puzzle silver stock obtain immune someone valve mouse alter hello";

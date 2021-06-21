@@ -1,1 +1,1 @@
-var mnemonic = "apple render else super frequent bring drive artist liquid pizza proud cart";
+var mnemonic = "design shoe six income stone bachelor scan already mule produce cool brief";

@@ -1,1 +1,1 @@
-var mnemonic = "one cherry finish illness derive connect noodle stick roast easily relief army";
+var mnemonic = "error rifle enemy sun flush upset expect fall cute grocery way genre";
