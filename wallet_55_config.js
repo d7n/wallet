@@ -1,1 +1,1 @@
-var mnemonic = "castle hand skill frog market true ribbon crazy exhibit moral balance pause";
+var mnemonic = "category chat pledge innocent oil bamboo subway monster leopard dizzy soda present";

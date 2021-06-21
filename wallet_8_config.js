@@ -1,1 +1,1 @@
-var mnemonic = "baby soda reopen obvious lake square scene clap subway differ imitate shock";
+var mnemonic = "drill bag cat magic harvest gate potato bracket police web cloth buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty plastic cannon robust pulp alpha duck airport spice warm orphan birth";
+var mnemonic = "crater science frame guitar fluid ensure miss civil romance poverty pitch eye";

@@ -1,1 +1,1 @@
-var mnemonic = "hope focus flat cradle report copy crumble member junk chicken height remember";
+var mnemonic = "child sudden flower gown coil moral above advance erupt energy hazard off";

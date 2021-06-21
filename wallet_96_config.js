@@ -1,1 +1,1 @@
-var mnemonic = "beauty couch repeat diagram power final kiwi nominee sheriff evolve mail top";
+var mnemonic = "poverty course unknown now distance morning planet define siren surface horror suit";

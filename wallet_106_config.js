@@ -1,1 +1,1 @@
-var mnemonic = "practice hammer trip empty bitter hair cereal skin ripple ranch clean sun";
+var mnemonic = "mutual slender second deal addict black boy exercise trip flash traffic tourist";

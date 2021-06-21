@@ -1,1 +1,1 @@
-var mnemonic = "remove neglect sound version output impose peanut spatial coffee duck exile corn";
+var mnemonic = "abstract dwarf business slight cross frame inform fancy month absorb only rely";

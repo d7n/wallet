@@ -1,1 +1,1 @@
-var mnemonic = "galaxy plastic fame boss person vibrant indoor creek come learn social cat";
+var mnemonic = "profit divorce penalty payment bless spy hammer unfair success laptop direct thank";

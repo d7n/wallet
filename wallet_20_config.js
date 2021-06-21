@@ -1,1 +1,1 @@
-var mnemonic = "crack old about wise daughter ensure capable final august divert matrix guide";
+var mnemonic = "surprise law upgrade young reopen brain crane meat chest lazy scissors blur";

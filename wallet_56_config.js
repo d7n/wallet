@@ -1,1 +1,1 @@
-var mnemonic = "knock poem guitar talent depend save credit empty alarm avoid seven burst";
+var mnemonic = "exact rail section maple logic worth trade menu employ survey column loan";

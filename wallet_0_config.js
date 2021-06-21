@@ -1,1 +1,1 @@
-var mnemonic = "cereal actor perfect collect glide boil calm exact globe similar turtle bridge";
+var mnemonic = "crane pull staff try brand three face floor popular spoil conduct must";

@@ -1,1 +1,1 @@
-var mnemonic = "logic coin use evolve confirm home net film unlock hood unaware example";
+var mnemonic = "despair say nominee glass manage ticket avoid struggle forest blossom sorry mom";

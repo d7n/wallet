@@ -1,1 +1,1 @@
-var mnemonic = "peace foil expect uphold arm fiction crash rough usual hard donate aisle";
+var mnemonic = "cabin glance file borrow there elite nut mail mercy bulb shine exclude";

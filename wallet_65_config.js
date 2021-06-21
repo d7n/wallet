@@ -1,1 +1,1 @@
-var mnemonic = "canyon stick clerk earth tissue exit priority peace chronic mind nest exchange";
+var mnemonic = "pride electric robot usage abandon average setup team problem edit blame present";

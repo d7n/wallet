@@ -1,1 +1,1 @@
-var mnemonic = "agree duty slush first coach love balance shine swim pyramid exist town";
+var mnemonic = "need oval front explain behave virus icon cotton harvest subway course slush";

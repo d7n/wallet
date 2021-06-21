@@ -1,1 +1,1 @@
-var mnemonic = "whale sign enable depart giraffe friend end useless buddy apart item analyst";
+var mnemonic = "render mind blur regular one foster help oval loan expire dirt nice";

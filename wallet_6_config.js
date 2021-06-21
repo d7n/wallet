@@ -1,1 +1,1 @@
-var mnemonic = "inmate excite much retire person captain farm lesson exile athlete brush tuna";
+var mnemonic = "inflict inspire manage sponsor eight vibrant liquid exile sudden cancel pattern forum";

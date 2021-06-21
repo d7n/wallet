@@ -1,1 +1,1 @@
-var mnemonic = "pencil solution wine casino cereal burger winner bread escape protect describe gorilla";
+var mnemonic = "napkin parade govern doctor hold slogan lonely wild solve paddle guess win";

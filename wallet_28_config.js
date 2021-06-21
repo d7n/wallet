@@ -1,1 +1,1 @@
-var mnemonic = "bomb goddess congress fun output harvest wet hood opera spike loop aunt";
+var mnemonic = "upon trouble antenna project expose abstract off crouch either credit father false";

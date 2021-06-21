@@ -1,1 +1,1 @@
-var mnemonic = "evolve outside regret weasel air dinner wash dish butter bonus mammal canal";
+var mnemonic = "gaze garbage subway short grant census rally sister lottery toss pudding pink";

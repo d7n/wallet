@@ -1,1 +1,1 @@
-var mnemonic = "item puppy since usage display occur airport original insane monkey salt dizzy";
+var mnemonic = "legend document nature mad inform layer hurdle peace exile soldier tiny convince";

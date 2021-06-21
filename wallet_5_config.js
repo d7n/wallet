@@ -1,1 +1,1 @@
-var mnemonic = "stay brisk trust tree avocado rookie charge indicate easy simple flag sick";
+var mnemonic = "elder despair alter wide fiscal involve swift polar surround disorder supply book";

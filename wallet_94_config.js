@@ -1,1 +1,1 @@
-var mnemonic = "coach kid vendor door rich badge skill vapor word soccer hazard airport";
+var mnemonic = "picnic child size project mammal slam loyal until scorpion make gallery example";

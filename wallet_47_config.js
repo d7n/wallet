@@ -1,1 +1,1 @@
-var mnemonic = "section keen sustain pass describe actress flush absorb latin learn taste engage";
+var mnemonic = "surround assist top sustain success word notable together urge moment bike front";

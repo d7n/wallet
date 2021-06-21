@@ -1,1 +1,1 @@
-var mnemonic = "spend asthma drill time proud opinion sell avoid place must shine paper";
+var mnemonic = "urban trouble safe spray earth load elbow account payment spike replace fog";

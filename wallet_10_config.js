@@ -1,1 +1,1 @@
-var mnemonic = "tunnel spawn over smoke silent mom prize flame acquire tray day mango";
+var mnemonic = "jump assist crop wreck main mind tiger online episode various hybrid inmate";

@@ -1,1 +1,1 @@
-var mnemonic = "net wrist ribbon predict invite gossip bring fetch polar purse cry curtain";
+var mnemonic = "attack nuclear detect mutual remove siege slow have tourist priority pattern behave";

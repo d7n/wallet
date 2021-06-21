@@ -1,1 +1,1 @@
-var mnemonic = "bid major soda gloom improve doctor measure cash net chase find region";
+var mnemonic = "destroy isolate error antenna east celery pumpkin nurse cement grape digital they";

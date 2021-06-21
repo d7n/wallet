@@ -1,1 +1,1 @@
-var mnemonic = "post dream object unknown inmate peasant have machine unusual again able dignity";
+var mnemonic = "kit fog turkey ribbon fancy tourist main hard chat piece prefer earn";

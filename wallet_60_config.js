@@ -1,1 +1,1 @@
-var mnemonic = "explain quick soap connect volcano clerk usage magnet essence hurry doll visit";
+var mnemonic = "census carpet oblige drive east arm destroy front mesh glow situate child";

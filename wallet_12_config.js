@@ -1,1 +1,1 @@
-var mnemonic = "swamp lonely photo arrow harvest weapon giggle walk eye stone hurt evil";
+var mnemonic = "gloom afford tape miss aunt seek range girl proof laundry enforce lyrics";

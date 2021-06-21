@@ -1,1 +1,1 @@
-var mnemonic = "genuine power rebel success forget stay napkin kind tonight double auto shrimp";
+var mnemonic = "brand happy robot bread elephant beach kangaroo miracle color divide license top";

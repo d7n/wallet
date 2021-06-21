@@ -1,1 +1,1 @@
-var mnemonic = "cousin clip federal network trophy actual twice task someone chaos brown coconut";
+var mnemonic = "leg swamp client lake build plug excite slice surround true fame crush";

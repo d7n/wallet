@@ -1,1 +1,1 @@
-var mnemonic = "lunch opinion bulb tilt actor use hood forum tobacco smooth approve potato";
+var mnemonic = "industry genre ensure rare across solar board throw faculty trend decade inch";

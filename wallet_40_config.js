@@ -1,1 +1,1 @@
-var mnemonic = "true color payment prize begin wish dust amazing notice cage daring hurt";
+var mnemonic = "chase state draw coast bike rib museum friend target buffalo brief sport";

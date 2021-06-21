@@ -1,1 +1,1 @@
-var mnemonic = "display champion educate equal solve lend ahead raw post year catalog survey";
+var mnemonic = "zebra radio debris husband swallow length wise guard frequent measure clay rather";

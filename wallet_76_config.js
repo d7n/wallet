@@ -1,1 +1,1 @@
-var mnemonic = "cash dice fade render index grid worry mouse outside baby depend give";
+var mnemonic = "enable figure cross gain mushroom harsh faith pen spirit rice squeeze panel";

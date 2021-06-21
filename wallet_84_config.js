@@ -1,1 +1,1 @@
-var mnemonic = "hood despair catalog need mom hazard almost nerve social blanket fabric depart";
+var mnemonic = "mind advice team sail ring logic box jazz hold inflict sustain sock";

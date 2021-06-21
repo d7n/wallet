@@ -1,1 +1,1 @@
-var mnemonic = "leave swap amused hen pioneer pen purpose forum return faculty lucky lock";
+var mnemonic = "mind earn bargain cruel online loyal over sense essence turtle erupt accuse";

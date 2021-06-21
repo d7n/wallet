@@ -1,1 +1,1 @@
-var mnemonic = "arctic ramp scrub busy real steel blind illness rich repair joke fault";
+var mnemonic = "blouse zero heart present atom fox collect priority soap valley chat feel";

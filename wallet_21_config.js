@@ -1,1 +1,1 @@
-var mnemonic = "hire job indicate nuclear trade battle ankle force gasp radio large cake";
+var mnemonic = "sudden fringe rifle bargain until farm flat fiction stove pole orphan liberty";

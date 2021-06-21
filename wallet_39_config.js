@@ -1,1 +1,1 @@
-var mnemonic = "parade blind jar essence dust roof scrub nest roof focus globe air";
+var mnemonic = "budget fire goddess feature hockey lecture business rescue chair valve audit melt";

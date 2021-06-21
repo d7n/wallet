@@ -1,1 +1,1 @@
-var mnemonic = "enlist corn bean into machine until body thing melody hurry miss lonely";
+var mnemonic = "grab choose glide label afraid occur record palm media forum clutch shock";

@@ -1,1 +1,1 @@
-var mnemonic = "swing airport lonely please decrease unfold erode company number margin shine umbrella";
+var mnemonic = "exhaust drip supply blush obey raven wing ritual found pet eye sick";

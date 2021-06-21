@@ -1,1 +1,1 @@
-var mnemonic = "daughter spin head long street scheme yellow palm arctic call upon buzz";
+var mnemonic = "case concert setup solid will access stem uphold royal leaf slot where";

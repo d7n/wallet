@@ -1,1 +1,1 @@
-var mnemonic = "autumn umbrella bomb resist grain review visit wall mobile similar skull eye";
+var mnemonic = "close ranch able silly property grace steak orphan soda market pudding anchor";

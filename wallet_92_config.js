@@ -1,1 +1,1 @@
-var mnemonic = "can thrive aerobic scene museum green winner fall dignity marble town gift";
+var mnemonic = "brand lawsuit question select pig detect announce receive gossip scheme fragile bird";

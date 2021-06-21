@@ -1,1 +1,1 @@
-var mnemonic = "romance airport fun soup regular actual useless economy tribe sell soul awesome";
+var mnemonic = "mom vendor riot solar pair manage system envelope wait few judge keep";

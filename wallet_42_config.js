@@ -1,1 +1,1 @@
-var mnemonic = "patient mad work trial prepare vacuum cook gain into winner argue enlist";
+var mnemonic = "sport unit reopen stamp soul motion media giggle copy resist fabric ice";

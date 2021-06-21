@@ -1,1 +1,1 @@
-var mnemonic = "train scout prevent donor erase jewel donor damp soft cabin violin expand";
+var mnemonic = "hip kitten feed swift prepare ball ketchup shop combine input erosion because";

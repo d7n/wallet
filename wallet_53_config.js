@@ -1,1 +1,1 @@
-var mnemonic = "travel egg firm turtle decorate census barrel chief bulk grab ethics text";
+var mnemonic = "toss inch afford across youth fossil harvest glory floor length year faint";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs track luxury mother coconut february latin dream truth monitor obvious work";
+var mnemonic = "jewel piano surface clown awesome purpose winner artist iron siege surprise barely";

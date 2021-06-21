@@ -1,1 +1,1 @@
-var mnemonic = "brush replace music cost bundle town glide warfare case asset invite left";
+var mnemonic = "one coral junk prison aerobic sauce online inject inhale burden palm trend";

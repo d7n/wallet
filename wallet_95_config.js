@@ -1,1 +1,1 @@
-var mnemonic = "satisfy gap alpha enroll squirrel glove later width kind dash vendor sweet";
+var mnemonic = "deal food deposit chase moral hover notable glow harbor such cable year";

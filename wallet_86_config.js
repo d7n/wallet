@@ -1,1 +1,1 @@
-var mnemonic = "logic pony trumpet rack ordinary discover best always place kick balance voice";
+var mnemonic = "alien deputy dawn regular jungle cave guitar maximum sadness plastic tribe clutch";

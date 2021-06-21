@@ -1,1 +1,1 @@
-var mnemonic = "joke stereo foster wolf angry just fantasy awake always crowd fiscal outside";
+var mnemonic = "stamp husband script fade prize rapid crew ginger decide explain shaft labor";

@@ -1,1 +1,1 @@
-var mnemonic = "state hundred desk please analyst skin seek accuse fiber creek doctor scrap";
+var mnemonic = "phone surround debris motor scale cruise guilt grape veteran final trade magnet";

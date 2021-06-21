@@ -1,1 +1,1 @@
-var mnemonic = "elbow almost proud ten hunt october garden imitate letter ride purity page";
+var mnemonic = "collect approve moral ribbon scrub destroy bean limb matrix alter badge blossom";

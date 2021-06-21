@@ -1,1 +1,1 @@
-var mnemonic = "hungry torch entry screen milk chronic ball income foil security fruit eight";
+var mnemonic = "cement keen twice praise enforce combine mention harsh remain evolve wire confirm";

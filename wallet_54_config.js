@@ -1,1 +1,1 @@
-var mnemonic = "banana cliff scrub food puzzle toward lock boss forward uncover relief clock";
+var mnemonic = "improve glance protect vacuum hobby art lobster bike jeans abuse absent syrup";

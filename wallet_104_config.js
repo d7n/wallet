@@ -1,1 +1,1 @@
-var mnemonic = "trend shop private recipe stadium vehicle famous horror spy team naive speak";
+var mnemonic = "hockey letter please fever access winter beyond unique say fly test surround";

@@ -1,1 +1,1 @@
-var mnemonic = "side blouse clock smile bracket jewel custom emerge omit kingdom crazy quiz";
+var mnemonic = "monkey flight mushroom correct run once draft exhaust stadium genre core turkey";

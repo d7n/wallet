@@ -1,1 +1,1 @@
-var mnemonic = "cram large drink skill gas quote salute grief off swift salmon enough";
+var mnemonic = "similar regular shallow ghost label drift chest little diet onion globe power";

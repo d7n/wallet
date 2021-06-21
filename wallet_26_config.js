@@ -1,1 +1,1 @@
-var mnemonic = "stereo student during elbow useless street oval segment tortoise lady dirt tobacco";
+var mnemonic = "label merge fuel skill powder horse spare blouse fitness oxygen junior elevator";

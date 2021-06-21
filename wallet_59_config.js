@@ -1,1 +1,1 @@
-var mnemonic = "timber museum elegant tiger coffee limit buddy panic tattoo alcohol hurdle document";
+var mnemonic = "zebra sorry nuclear conduct task flame crystal deer perfect provide tiny shock";

@@ -1,1 +1,1 @@
-var mnemonic = "onion fall live surround night answer trial witness nuclear proof decide comic";
+var mnemonic = "jaguar picture mass faint capable village seven rabbit release reform creek game";

@@ -1,1 +1,1 @@
-var mnemonic = "debris museum caution match decorate sweet view ginger ivory doll prefer suspect";
+var mnemonic = "improve arrive shrug ritual stamp until actual slow dog pole universe praise";

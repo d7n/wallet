@@ -1,1 +1,1 @@
-var mnemonic = "follow march correct drop trap toast during cage unusual mosquito rough invite";
+var mnemonic = "destroy dignity tunnel fetch rocket rich title actual myself beauty wife coast";

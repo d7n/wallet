@@ -1,1 +1,1 @@
-var mnemonic = "energy love trigger thought paddle vague patient round hamster recycle dignity region";
+var mnemonic = "common sunset suffer wise execute attack dish chimney tuition army mercy call";

@@ -1,1 +1,1 @@
-var mnemonic = "lab skull yellow recall ensure physical clip charge treat bar capable pole";
+var mnemonic = "awful patch body will ordinary thank puzzle target visit polar giggle car";

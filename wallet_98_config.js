@@ -1,1 +1,1 @@
-var mnemonic = "put girl check abandon episode gain wire detect mobile gorilla february notice";
+var mnemonic = "grab exit volume mosquito stock dash lawsuit path poverty awake mammal invest";

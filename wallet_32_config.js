@@ -1,1 +1,1 @@
-var mnemonic = "host dress soul duck travel oyster develop skin alarm churn taxi elder";
+var mnemonic = "tribe banner carpet mean eye panel donate slam doctor fringe bubble blood";

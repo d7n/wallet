@@ -1,1 +1,1 @@
-var mnemonic = "tongue harbor anchor scrap tilt equip reflect illegal march pluck drip skate";
+var mnemonic = "size artist robot reject choice harsh bomb pigeon cruise try devote dune";

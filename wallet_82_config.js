@@ -1,1 +1,1 @@
-var mnemonic = "day wreck ahead animal blame game hunt speak upper swamp host trouble";
+var mnemonic = "ranch cheese feed floor lunar bring gap similar spirit thought velvet silver";

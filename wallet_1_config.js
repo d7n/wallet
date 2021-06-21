@@ -1,1 +1,1 @@
-var mnemonic = "bind chest announce scene license milk wing mass sadness crowd amused pistol";
+var mnemonic = "bar churn mirror joke game someone vehicle situate agent target prevent reject";

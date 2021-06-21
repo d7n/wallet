@@ -1,1 +1,1 @@
-var mnemonic = "fat rate target city tone stove judge mad monitor entry budget cry";
+var mnemonic = "vessel joke hand zero object invite vibrant wall toddler game pill finish";

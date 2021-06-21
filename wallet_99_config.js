@@ -1,1 +1,1 @@
-var mnemonic = "exchange carpet resemble object zero hedgehog comic humor sheriff hotel buyer sunny";
+var mnemonic = "machine infant sentence motion salmon check quick lucky also same coffee proud";

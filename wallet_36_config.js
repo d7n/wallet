@@ -1,1 +1,1 @@
-var mnemonic = "razor enable patch cigar buyer wash ride cover entry scene science chief";
+var mnemonic = "hamster citizen dish chuckle sponsor million avocado air chicken smooth diet cereal";

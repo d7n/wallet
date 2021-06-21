@@ -1,1 +1,1 @@
-var mnemonic = "guess aspect lunar lesson paddle runway sweet stool visa two huge ripple";
+var mnemonic = "burst author minor dismiss rabbit dune toward document broccoli salt lyrics eight";

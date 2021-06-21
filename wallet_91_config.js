@@ -1,1 +1,1 @@
-var mnemonic = "arrange inner pattern radio asset interest desk option whisper skull girl rely";
+var mnemonic = "craft crucial hungry between danger olympic mansion blossom glory capital pear remove";

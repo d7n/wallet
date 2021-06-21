@@ -1,1 +1,1 @@
-var mnemonic = "damp exhaust clever draft early hub service gravity dynamic sugar tissue casual";
+var mnemonic = "blush prepare cruel tennis arrest first crazy dream juice power drama mosquito";

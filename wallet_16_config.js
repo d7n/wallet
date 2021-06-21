@@ -1,1 +1,1 @@
-var mnemonic = "flush cart transfer devote lottery only swing wise carry client three south";
+var mnemonic = "doctor industry core pill symptom major utility nerve smart lift story door";

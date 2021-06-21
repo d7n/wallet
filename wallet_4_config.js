@@ -1,1 +1,1 @@
-var mnemonic = "refuse resist hobby maze cruise ice hole rack ritual column tilt weird";
+var mnemonic = "concert flip clog width cloth obscure scan wolf enough mercy skin theme";

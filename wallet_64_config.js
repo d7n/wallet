@@ -1,1 +1,1 @@
-var mnemonic = "lake fence attend off canvas supreme rent goddess slush pride monster you";
+var mnemonic = "bulk target away hard tool reduce display actual talent exist allow grid";
