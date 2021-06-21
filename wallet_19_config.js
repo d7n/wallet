@@ -1,1 +1,1 @@
-var mnemonic = "hospital economy right unlock civil moment remain boost enrich oyster antique pen";
+var mnemonic = "crush pyramid witness fabric save theory current number congress symptom youth usage";

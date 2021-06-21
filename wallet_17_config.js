@@ -1,1 +1,1 @@
-var mnemonic = "random layer orient loop canal save sail pelican enough become bullet wage";
+var mnemonic = "remove gather move exact angry have jar practice stock text bomb grape";

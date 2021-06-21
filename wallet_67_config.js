@@ -1,1 +1,1 @@
-var mnemonic = "love glory area address equip vague absurd ensure ensure exist you diagram";
+var mnemonic = "giraffe wine midnight answer trigger turn remain grace chef jaguar young park";

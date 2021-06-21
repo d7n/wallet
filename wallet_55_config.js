@@ -1,1 +1,1 @@
-var mnemonic = "smile syrup eight chase seminar demand explain churn country benefit cute state";
+var mnemonic = "chronic earth pepper pledge term museum soft fit soul arrest volcano fox";

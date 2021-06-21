@@ -1,1 +1,1 @@
-var mnemonic = "time caught orange cheap mountain original rack admit sound reward next arch";
+var mnemonic = "size club affair amount prize main rifle arena unit scan crystal crane";

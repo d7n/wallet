@@ -1,1 +1,1 @@
-var mnemonic = "spot execute buddy pitch frown churn smile rude ceiling fine swing fee";
+var mnemonic = "atom mixed fuel giggle pipe smooth clay parade brief term sweet empty";

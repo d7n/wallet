@@ -1,1 +1,1 @@
-var mnemonic = "spray toe alone elephant solar utility regret remove omit cross punch possible";
+var mnemonic = "pilot shell alley exhibit lava dilemma survey normal grant eternal erosion pulp";

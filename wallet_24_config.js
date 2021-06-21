@@ -1,1 +1,1 @@
-var mnemonic = "tape tackle outdoor island snack birth dial purse day plug blood sorry";
+var mnemonic = "gain drive accuse base analyst tool rebuild juice hedgehog desk client grid";

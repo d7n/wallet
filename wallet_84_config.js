@@ -1,1 +1,1 @@
-var mnemonic = "umbrella vicious bike come start hill valid spider elegant girl east shallow";
+var mnemonic = "average fuel police mushroom laugh hidden clarify stock knife upgrade opinion end";

@@ -1,1 +1,1 @@
-var mnemonic = "act other dutch novel used private bless coast fan enrich desert tumble";
+var mnemonic = "usage floor invite people require civil million hard million teach frequent solution";

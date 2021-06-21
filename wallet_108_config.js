@@ -1,1 +1,1 @@
-var mnemonic = "move citizen blue entire tube rubber okay purchase culture eye hour battle";
+var mnemonic = "organ system acquire alert depart title dice ring satisfy man peace spring";

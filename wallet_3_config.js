@@ -1,1 +1,1 @@
-var mnemonic = "spider label system pause sniff symptom raw lamp scatter impact daring foil";
+var mnemonic = "unfold theme twice hill thunder nose clump crane violin spy base day";

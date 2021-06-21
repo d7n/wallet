@@ -1,1 +1,1 @@
-var mnemonic = "client hospital cluster shove riot baby spirit crisp chimney cube fluid interest";
+var mnemonic = "audit clarify wool shoe cherry adult simple love absorb pizza cream spoon";

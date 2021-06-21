@@ -1,1 +1,1 @@
-var mnemonic = "bus puppy primary now angle amazing few exhibit climb describe art valley";
+var mnemonic = "sort depth stuff gadget ostrich swear galaxy taste silk assault miss kid";

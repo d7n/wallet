@@ -1,1 +1,1 @@
-var mnemonic = "health patch destroy success two glad year link race improve card typical";
+var mnemonic = "unable beef subway jazz bundle flee poet body open pluck upset about";

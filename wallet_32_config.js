@@ -1,1 +1,1 @@
-var mnemonic = "earn disease lazy barrel film jump patrol plate entire dust fury useful";
+var mnemonic = "forget exclude nose cliff basket indoor quote reduce educate phrase vessel detect";

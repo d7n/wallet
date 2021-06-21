@@ -1,1 +1,1 @@
-var mnemonic = "media differ pool defense material ecology traffic desert cave team cry project";
+var mnemonic = "dust obscure unusual duty key measure crush opinion practice predict toy inch";

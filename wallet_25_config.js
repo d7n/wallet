@@ -1,1 +1,1 @@
-var mnemonic = "fruit because napkin ginger major off test weather wave tower pave peasant";
+var mnemonic = "modify click what bacon deny purse answer result process life labor depth";

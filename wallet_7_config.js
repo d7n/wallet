@@ -1,1 +1,1 @@
-var mnemonic = "seat feel casual pyramid gown spoon common symptom slogan level skirt scene";
+var mnemonic = "ocean indoor tiny any post circle license angle joy glare park rapid";

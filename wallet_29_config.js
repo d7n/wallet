@@ -1,1 +1,1 @@
-var mnemonic = "join shoe pluck dinosaur glove turtle acid crawl pluck poet soda cause";
+var mnemonic = "athlete cupboard actress ostrich leisure alert praise gun typical soul carry crush";

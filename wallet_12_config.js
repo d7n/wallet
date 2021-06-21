@@ -1,1 +1,1 @@
-var mnemonic = "decline logic kiss hill rubber muscle frequent cart message jaguar truck camp";
+var mnemonic = "crew gospel typical skull fossil calm close mountain lawn fiction purity miss";

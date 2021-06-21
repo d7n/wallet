@@ -1,1 +1,1 @@
-var mnemonic = "brother eagle spread favorite music can dog quality pigeon chapter maid thrive";
+var mnemonic = "tennis grain connect move category until siege another depend veteran music anxiety";

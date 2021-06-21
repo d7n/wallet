@@ -1,1 +1,1 @@
-var mnemonic = "team genius solution sample any toddler jump deliver cinnamon kingdom crane uniform";
+var mnemonic = "fog amused neither invite middle orient juice fitness praise bag mobile august";

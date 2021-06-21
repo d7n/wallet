@@ -1,1 +1,1 @@
-var mnemonic = "history bench grain ostrich tape evolve bicycle return relax casino whisper box";
+var mnemonic = "cube unaware crane junior snow vicious blouse cup mercy unique observe deny";

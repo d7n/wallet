@@ -1,1 +1,1 @@
-var mnemonic = "jar skin green dolphin pride guilt trap praise mule mixed defy soldier";
+var mnemonic = "mistake still wait supreme curve ramp cushion fly destroy describe caution gloom";

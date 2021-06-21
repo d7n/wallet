@@ -1,1 +1,1 @@
-var mnemonic = "pool argue prefer picture erode sense daring journey tomorrow certain together bench";
+var mnemonic = "engine legal voice edge index rookie mystery infant shift correct fuel garage";

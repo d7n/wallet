@@ -1,1 +1,1 @@
-var mnemonic = "tail ginger pattern result gravity hobby desert secret tiny universe link coffee";
+var mnemonic = "position disagree neutral hawk angry pattern diesel monkey metal effort valley vendor";

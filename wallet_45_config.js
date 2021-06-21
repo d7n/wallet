@@ -1,1 +1,1 @@
-var mnemonic = "fossil rocket worry boost tennis bicycle firm chase wife shaft flame night";
+var mnemonic = "bunker fault calm body ginger axis dumb bonus crowd use gravity diagram";

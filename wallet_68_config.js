@@ -1,1 +1,1 @@
-var mnemonic = "pyramid fish unaware magnet base syrup base debris tide aware good lion";
+var mnemonic = "liar birth bread more deny jaguar bike green curve laugh park average";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse gentle turn green ask inflict morning bulk brown broken dolphin ticket";
+var mnemonic = "word trash stem advice soda assist jacket goose point laundry gun rubber";

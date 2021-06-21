@@ -1,1 +1,1 @@
-var mnemonic = "scheme boost sausage october champion actual arrange drop barrel swing finger victory";
+var mnemonic = "resemble bulk oblige kiwi puzzle buddy rug detail roof fatigue bicycle swift";

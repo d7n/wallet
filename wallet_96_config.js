@@ -1,1 +1,1 @@
-var mnemonic = "garment struggle penalty room sugar raccoon copper promote stay twice stay solid";
+var mnemonic = "battle client cloud fruit figure inflict echo evolve actual mistake job wealth";

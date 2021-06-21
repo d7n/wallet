@@ -1,1 +1,1 @@
-var mnemonic = "trophy dune sudden dynamic predict onion category hard three cruel cloth month";
+var mnemonic = "useless pelican version ordinary state design cruel chunk liar prefer twist flip";

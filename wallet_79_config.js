@@ -1,1 +1,1 @@
-var mnemonic = "jacket suffer blouse fence future onion shoe plate chronic please bicycle away";
+var mnemonic = "cat intact rabbit fly idea price nature side ginger bacon worth glory";

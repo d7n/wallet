@@ -1,1 +1,1 @@
-var mnemonic = "soft private flock ceiling shallow answer orchard shuffle angry public screen city";
+var mnemonic = "remind feed option bleak innocent phrase identify scorpion cube warm random model";

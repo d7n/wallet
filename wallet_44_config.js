@@ -1,1 +1,1 @@
-var mnemonic = "exercise soap divorce share volume drink run exclude foot blood breeze maze";
+var mnemonic = "consider bachelor bomb virus cement endless amazing acquire april invite true casual";

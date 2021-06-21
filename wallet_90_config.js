@@ -1,1 +1,1 @@
-var mnemonic = "universe dynamic advice rescue guess lens common anger enable drip day invite";
+var mnemonic = "deposit tide universe chef horn next estate ethics tiger hybrid sorry develop";

@@ -1,1 +1,1 @@
-var mnemonic = "habit bus offer save film fog double spoil any fan gold galaxy";
+var mnemonic = "artist penalty thing kiss photo today six enact scissors protect tone camera";

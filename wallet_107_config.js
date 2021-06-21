@@ -1,1 +1,1 @@
-var mnemonic = "tip neck manage pilot staff powder explain gaze solve media where slogan";
+var mnemonic = "tool extra journey boring such speak divorce stamp elbow parade day cigar";

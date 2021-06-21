@@ -1,1 +1,1 @@
-var mnemonic = "snow rapid brand critic core split honey drum hobby image letter solution";
+var mnemonic = "sheriff hat cat outdoor bulb view october between height smoke timber heavy";

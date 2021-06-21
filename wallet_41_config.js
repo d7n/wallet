@@ -1,1 +1,1 @@
-var mnemonic = "accuse future penalty insect ocean retire salt first sport mango hour result";
+var mnemonic = "emerge surprise engine identify spin album bench sweet naive embody risk ordinary";

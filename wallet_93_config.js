@@ -1,1 +1,1 @@
-var mnemonic = "nominee sort firm section imitate matrix train car pilot hen fever donate";
+var mnemonic = "doctor view gate cake rebuild sunny lumber toward ketchup image fluid fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney leave across enable one flame bless birth plunge digital column canvas";
+var mnemonic = "secret limit comic electric rescue brass sleep physical edit miracle vapor become";

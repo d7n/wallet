@@ -1,1 +1,1 @@
-var mnemonic = "train various auto flee bottom short planet latin wood nuclear merge invest";
+var mnemonic = "sudden clean quote custom story apart weather february social square coil imitate";

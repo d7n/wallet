@@ -1,1 +1,1 @@
-var mnemonic = "ski tide cargo fortune misery display decorate increase episode industry gentle absurd";
+var mnemonic = "merry jewel crater install forward seek logic isolate grace nature shiver kidney";

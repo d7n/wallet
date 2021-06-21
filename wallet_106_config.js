@@ -1,1 +1,1 @@
-var mnemonic = "trash gain donate strike entire void square famous kitten faith copy tool";
+var mnemonic = "obey wall bacon worth boss menu grant virus winner gorilla pulp coral";

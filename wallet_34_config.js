@@ -1,1 +1,1 @@
-var mnemonic = "end answer kite collect venture cram shiver rose casual basket east magnet";
+var mnemonic = "chunk festival girl grant vault junior affair decide grab silly better envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "item blue dial tiny winner since noise search hunt swim only bright";
+var mnemonic = "glimpse dawn private cereal before relax giraffe term wise market ivory veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli scorpion core boy matter drum guitar major own rail exhaust love";
+var mnemonic = "beef subject safe rice fix source truly wonder fantasy coffee fragile dress";

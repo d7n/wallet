@@ -1,1 +1,1 @@
-var mnemonic = "coffee visit goddess vault position symptom table sample oppose spoil mammal steel";
+var mnemonic = "prevent love tank danger panel measure dinner plug silk control neck devote";

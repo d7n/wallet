@@ -1,1 +1,1 @@
-var mnemonic = "raccoon ancient apple truly lend unusual spatial sign design bachelor buzz erupt";
+var mnemonic = "vehicle small cake allow ordinary remember tongue session rain elephant spring steel";

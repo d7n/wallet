@@ -1,1 +1,1 @@
-var mnemonic = "patient rebuild unfold group food share jump panic enter dice joy daring";
+var mnemonic = "ring neutral govern foil soda finish company unfair tiger silk canyon present";

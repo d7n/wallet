@@ -1,1 +1,1 @@
-var mnemonic = "elder stereo virus long offer valley fit front undo basic roast park";
+var mnemonic = "chunk flush kiwi worth debris acoustic math bicycle soccer keep situate cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "extra giggle accident rubber spice edit tourist sun point expect they behind";
+var mnemonic = "elder uphold coin jealous virus stomach width engine track arm wild athlete";

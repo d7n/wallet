@@ -1,1 +1,1 @@
-var mnemonic = "crane village feel gaze anchor lobster luggage trap hunt crisp olympic young";
+var mnemonic = "resource cable idea prosper floor behave scene during start pioneer dash link";

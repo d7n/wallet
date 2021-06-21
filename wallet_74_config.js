@@ -1,1 +1,1 @@
-var mnemonic = "dynamic cigar blossom orient taxi want virus jewel blouse actual require hungry";
+var mnemonic = "any bird client animal stove birth replace atom hero strong image vicious";

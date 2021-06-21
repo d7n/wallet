@@ -1,1 +1,1 @@
-var mnemonic = "correct nerve above robust mammal right same slight unit engine april buffalo";
+var mnemonic = "lemon cute evidence horror pulse dirt team cluster half jelly slender deny";

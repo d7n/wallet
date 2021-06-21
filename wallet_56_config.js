@@ -1,1 +1,1 @@
-var mnemonic = "lava speed pyramid piece off couch deal payment raise cake then myself";
+var mnemonic = "chapter area about live below actress dial identify begin boil mad image";

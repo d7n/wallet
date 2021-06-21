@@ -1,1 +1,1 @@
-var mnemonic = "top earth morning achieve until violin poem annual gather level pioneer save";
+var mnemonic = "day attack unveil render bird exhibit winner execute entry liberty erosion matter";

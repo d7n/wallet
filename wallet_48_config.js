@@ -1,1 +1,1 @@
-var mnemonic = "cousin scissors sting hire negative maximum crouch board session domain keen eight";
+var mnemonic = "pact habit board reopen trade receive ensure square piece flush van hand";

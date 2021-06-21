@@ -1,1 +1,1 @@
-var mnemonic = "velvet foster afford exhaust cause verify sick beauty street creek taste mean";
+var mnemonic = "pulse tilt depend deer unit mango point leopard draft credit luggage demand";

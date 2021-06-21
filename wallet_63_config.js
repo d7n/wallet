@@ -1,1 +1,1 @@
-var mnemonic = "strike filter virtual peanut goose census aspect few climb south cube spray";
+var mnemonic = "ready monkey canoe correct stairs state metal ignore crunch pulse empower ozone";

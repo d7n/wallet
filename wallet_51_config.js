@@ -1,1 +1,1 @@
-var mnemonic = "drip file year control setup umbrella invest super confirm earth extra eager";
+var mnemonic = "neck wire extra industry thumb arrest draft hurry post lunch hazard index";

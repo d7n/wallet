@@ -1,1 +1,1 @@
-var mnemonic = "only benefit much december lock edge alert math sock empower husband bid";
+var mnemonic = "echo equip metal erase direct you foster deer accuse midnight wonder short";

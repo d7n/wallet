@@ -1,1 +1,1 @@
-var mnemonic = "wedding brown ensure cliff north farm film dolphin wink battle story system";
+var mnemonic = "trophy retreat scare cradle episode coin warm garbage keep evoke height party";

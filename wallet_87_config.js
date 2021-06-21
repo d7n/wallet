@@ -1,1 +1,1 @@
-var mnemonic = "depart urban soul dash chef height object inner october blur hood sadness";
+var mnemonic = "bid list cattle initial panel expect keen wrong cash resemble dolphin soft";

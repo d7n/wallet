@@ -1,1 +1,1 @@
-var mnemonic = "please donate base odor pudding author hire outer rabbit recycle urge dignity";
+var mnemonic = "vibrant grocery mind glass because dawn evil hurt climb dynamic tent goose";

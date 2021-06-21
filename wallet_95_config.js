@@ -1,1 +1,1 @@
-var mnemonic = "twenty cancel ethics oak ankle position cry arrive carry blouse verify winner";
+var mnemonic = "water hire early flock salt approve chalk art need bright shuffle fade";

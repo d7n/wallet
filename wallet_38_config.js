@@ -1,1 +1,1 @@
-var mnemonic = "resemble flip since valley detail left mango element sphere corn undo surge";
+var mnemonic = "matter salad panther derive lyrics west barely still tree diary razor clerk";

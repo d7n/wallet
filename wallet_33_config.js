@@ -1,1 +1,1 @@
-var mnemonic = "destroy benefit caught spice clump trouble salon february bridge critic marine gorilla";
+var mnemonic = "fish purchase drastic engine tuition local athlete alcohol forum round diamond economy";

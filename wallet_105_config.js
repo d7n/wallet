@@ -1,1 +1,1 @@
-var mnemonic = "vanish confirm must ankle bomb another mail point used green brain certain";
+var mnemonic = "dog drum together bone arm dress crazy mystery dress pepper axis hour";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle act shield until right trap mystery museum raccoon hurt indicate achieve";
+var mnemonic = "crater hunt alley general game stereo always drill duty risk print retire";

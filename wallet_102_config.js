@@ -1,1 +1,1 @@
-var mnemonic = "priority apart accuse radar include truck sign warfare element edge legend dismiss";
+var mnemonic = "climb strategy main addict grain custom annual report transfer opinion hazard sibling";

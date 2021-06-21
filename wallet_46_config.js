@@ -1,1 +1,1 @@
-var mnemonic = "width chicken panel print among mind social very suggest reduce proof burst";
+var mnemonic = "twist later expire local slice leader eternal cancel deer vague vessel vivid";

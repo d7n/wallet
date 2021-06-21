@@ -1,1 +1,1 @@
-var mnemonic = "mule lucky vote grief confirm silent master champion tree board thunder promote";
+var mnemonic = "frown lucky wealth art advice tomato tribe twin faith torch latin situate";

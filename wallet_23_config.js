@@ -1,1 +1,1 @@
-var mnemonic = "office glove rebel choice wall bicycle obey derive volcano observe ignore filter";
+var mnemonic = "dress clap harvest stock fringe dose winter shock shove skin find company";

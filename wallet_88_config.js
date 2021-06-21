@@ -1,1 +1,1 @@
-var mnemonic = "satoshi start basket bright escape modify tenant then match pair wealth globe";
+var mnemonic = "high sweet finish elbow life clever home enrich draw either parade snow";

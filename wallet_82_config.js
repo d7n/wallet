@@ -1,1 +1,1 @@
-var mnemonic = "peasant park try sniff era top inspire pulp organ project fox faculty";
+var mnemonic = "genuine silk awful blade ecology choice spread rabbit find forum endless firm";

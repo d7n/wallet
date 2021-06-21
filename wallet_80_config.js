@@ -1,1 +1,1 @@
-var mnemonic = "clump indicate erupt stick welcome monster teach sadness unusual worry brand dumb";
+var mnemonic = "velvet eagle vapor timber travel unlock useful swamp cat margin cat thrive";

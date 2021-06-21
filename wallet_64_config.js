@@ -1,1 +1,1 @@
-var mnemonic = "web allow layer correct fabric soccer run camp sting rug deal moon";
+var mnemonic = "huge mix assume odor rate student artwork post twelve eye balance tunnel";

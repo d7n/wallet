@@ -1,1 +1,1 @@
-var mnemonic = "total hedgehog curtain reason wise slot moon cup drift immense cram cupboard";
+var mnemonic = "sauce glow depth ostrich pond inquiry dog census later length egg timber";

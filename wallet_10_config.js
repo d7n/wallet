@@ -1,1 +1,1 @@
-var mnemonic = "nasty effort use toward glow hedgehog flat bless spell rude endless fruit";
+var mnemonic = "stool dry rebel purpose section muscle farm truck party travel regret use";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo adult nephew strike phone slogan insane key silent income inmate material";
+var mnemonic = "fashion moment father iron frame social provide buddy dune myth skill advance";

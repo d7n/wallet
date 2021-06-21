@@ -1,1 +1,1 @@
-var mnemonic = "monster moral keep best diamond keep coconut pioneer figure learn sleep ranch";
+var mnemonic = "auto wrong math habit year weather unable saddle ripple spray pole crystal";

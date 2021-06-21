@@ -1,1 +1,1 @@
-var mnemonic = "crime witness supply tiger bag recall scan pottery lobster cake color final";
+var mnemonic = "youth dignity gate dismiss luggage depend frequent impact tree point sustain dignity";

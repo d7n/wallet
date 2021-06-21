@@ -1,1 +1,1 @@
-var mnemonic = "odor yellow gospel size glory cloud stairs van oval jump merit bronze";
+var mnemonic = "copper vacant ugly gate famous abuse apple two radar staff battle egg";

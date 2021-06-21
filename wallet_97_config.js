@@ -1,1 +1,1 @@
-var mnemonic = "chronic ship hope fringe pony memory half amused room bar congress write";
+var mnemonic = "clip option breeze theory hard camp purchase funny cradle upon sweet describe";

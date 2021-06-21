@@ -1,1 +1,1 @@
-var mnemonic = "tumble box include amateur wedding inhale ribbon company toward phrase brass various";
+var mnemonic = "library photo forget common soldier minimum tank gauge vault glow donor control";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant satisfy neither earth vacant moral grid lazy original kangaroo knife need";
+var mnemonic = "vapor six frog lift apology accuse employ robust surprise dolphin dream hair";

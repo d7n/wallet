@@ -1,1 +1,1 @@
-var mnemonic = "skate multiply write juice deliver uncle super this uncover huge response snack";
+var mnemonic = "sponsor profit kiwi ancient regular purse feed weekend risk tribe dose this";

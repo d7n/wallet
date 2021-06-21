@@ -1,1 +1,1 @@
-var mnemonic = "decorate exit dice valley claw foam slab patient glimpse addict tired portion";
+var mnemonic = "also almost deer buffalo diary harsh ecology monkey patient timber where safe";
