@@ -1,1 +1,1 @@
-var mnemonic = "pride image fancy arrest figure add news satoshi clog another execute indicate";
+var mnemonic = "swim health tunnel wrap travel public boy urban slow aware sell ginger";

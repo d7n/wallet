@@ -1,1 +1,1 @@
-var mnemonic = "evidence margin beauty feel orbit orbit depart bracket track enable dry double";
+var mnemonic = "cook during moment adapt ginger tomato desert seven message horse awkward crop";

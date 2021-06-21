@@ -1,1 +1,1 @@
-var mnemonic = "achieve input alert present warm twice tank camp topic fall crack true";
+var mnemonic = "company topic absent inch common tomorrow old regular fluid enroll curious skirt";

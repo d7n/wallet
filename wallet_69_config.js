@@ -1,1 +1,1 @@
-var mnemonic = "slab donkey lab waste uniform pair panel traffic assault polar reflect submit";
+var mnemonic = "penalty oyster stadium damage eight together across van envelope fiscal juice pear";

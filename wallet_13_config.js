@@ -1,1 +1,1 @@
-var mnemonic = "enhance bounce arrow math mosquito indicate flock turkey impact mosquito illegal dance";
+var mnemonic = "flag trade satisfy rescue hungry extra expect attitude wolf flip analyst cherry";

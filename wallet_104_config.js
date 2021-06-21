@@ -1,1 +1,1 @@
-var mnemonic = "auction kite whale choice ski rely asset orchard weird sheriff fury auto";
+var mnemonic = "fitness enact tree dose century bottom isolate silk science coral state salon";

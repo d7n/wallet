@@ -1,1 +1,1 @@
-var mnemonic = "clean sort always velvet joy kingdom punch jar blood merry crunch gift";
+var mnemonic = "layer rookie link walnut sign student balcony upper rug absorb dry cluster";

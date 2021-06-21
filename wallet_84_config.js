@@ -1,1 +1,1 @@
-var mnemonic = "pilot repair ordinary tape survey luxury warfare salon hat host friend debate";
+var mnemonic = "road broom pink happy filter stool robot silk actress trade evoke love";

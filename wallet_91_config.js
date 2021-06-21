@@ -1,1 +1,1 @@
-var mnemonic = "retreat satisfy piece heart fury gym liquid climb daring ceiling increase bomb";
+var mnemonic = "there hockey horror left hurry anchor virus glory doll captain repair soup";

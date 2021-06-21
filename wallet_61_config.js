@@ -1,1 +1,1 @@
-var mnemonic = "position notice become gasp brain crazy assume clock chat noble strong stone";
+var mnemonic = "carry unable device urban soccer lock december fringe stick ice urge couple";

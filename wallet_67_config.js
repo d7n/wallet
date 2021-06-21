@@ -1,1 +1,1 @@
-var mnemonic = "wheel sort chat birth increase envelope foster enrich stadium script delay beyond";
+var mnemonic = "security nasty sand inflict spring crack giraffe useful badge lens lens duty";

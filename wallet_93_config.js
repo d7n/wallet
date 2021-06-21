@@ -1,1 +1,1 @@
-var mnemonic = "above climb stock decline diagram piano sniff raccoon enact steel visit prosper";
+var mnemonic = "rose exclude clock travel obtain oven length shoot second foam innocent trick";

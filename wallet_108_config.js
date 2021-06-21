@@ -1,1 +1,1 @@
-var mnemonic = "obvious arrow slide shallow quarter pottery utility sword mail rigid crop flight";
+var mnemonic = "memory ladder property acquire bonus fit drift liberty current fury circle weather";

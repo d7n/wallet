@@ -1,1 +1,1 @@
-var mnemonic = "artist program popular kite truly wine soda fetch spirit twin clog useless";
+var mnemonic = "total paddle anxiety voyage cliff lumber sustain stable exist long ship embrace";

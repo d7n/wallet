@@ -1,1 +1,1 @@
-var mnemonic = "pistol garlic auction joy mouse fashion simple struggle buffalo trap such scorpion";
+var mnemonic = "capital iron later crane sponsor core focus slice escape tiny mosquito else";

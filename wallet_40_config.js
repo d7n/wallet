@@ -1,1 +1,1 @@
-var mnemonic = "coil drink category dish crunch chaos beyond clean stable lumber essence before";
+var mnemonic = "famous enjoy tide crew toy slice giant link feature sunset crime slide";

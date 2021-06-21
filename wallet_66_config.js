@@ -1,1 +1,1 @@
-var mnemonic = "join penalty secret snap sign ensure cousin grid filter enter kit valve";
+var mnemonic = "interest team picnic someone promote rude famous coyote spoon gold elegant hair";

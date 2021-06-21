@@ -1,1 +1,1 @@
-var mnemonic = "shoe lawsuit prefer draw local title resource accuse symptom game bulb bomb";
+var mnemonic = "word shoot token second dog sense achieve express over rule half cereal";

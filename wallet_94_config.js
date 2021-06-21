@@ -1,1 +1,1 @@
-var mnemonic = "term second always swift mechanic razor leader island culture famous monster result";
+var mnemonic = "brush route sport hand feed teach cigar rice page rate school lens";

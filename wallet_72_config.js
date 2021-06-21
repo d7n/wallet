@@ -1,1 +1,1 @@
-var mnemonic = "liberty throw define filter brain air situate sugar gas attack fiber depth";
+var mnemonic = "gallery analyst enforce forget prevent praise party tennis pause march liar luxury";

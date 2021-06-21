@@ -1,1 +1,1 @@
-var mnemonic = "owner type reveal label dish switch engage dress endorse execute useless bind";
+var mnemonic = "rent crystal pluck silver shallow absorb produce mind rocket century flip enable";

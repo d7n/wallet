@@ -1,1 +1,1 @@
-var mnemonic = "shell paper vintage wash error vehicle reveal engage debris where fame guitar";
+var mnemonic = "mobile plunge title lonely viable upgrade involve measure cattle tower tunnel produce";

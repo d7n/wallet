@@ -1,1 +1,1 @@
-var mnemonic = "reward isolate toe immense sausage sight luggage obtain film start stereo mouse";
+var mnemonic = "spend rhythm divorce under speed oyster scene cloth attitude head jungle normal";

@@ -1,1 +1,1 @@
-var mnemonic = "choice element hello thrive upgrade long such theme assume try pig donate";
+var mnemonic = "paper kiss alien embrace siren fade pen flight priority cram flock breeze";

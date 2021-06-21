@@ -1,1 +1,1 @@
-var mnemonic = "mystery apple observe cousin grunt student okay stool helmet pipe detail soft";
+var mnemonic = "possible era penalty equal slot away hurdle place sheriff inmate sustain derive";

@@ -1,1 +1,1 @@
-var mnemonic = "such update canvas kidney sorry original eternal north barrel hub salmon metal";
+var mnemonic = "amused dolphin tourist defense trap rocket evidence cargo festival sunny kitten crucial";

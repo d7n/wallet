@@ -1,1 +1,1 @@
-var mnemonic = "you crucial rhythm dwarf rich sail puzzle happy blind loop cloud crew";
+var mnemonic = "live school dad benefit result know normal tail equip flee clip action";

@@ -1,1 +1,1 @@
-var mnemonic = "trumpet shrug merge farm nature claw worry review junk sail rebuild blur";
+var mnemonic = "involve just hair pupil spice fruit stage slush monkey such grit hungry";

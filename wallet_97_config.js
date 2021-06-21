@@ -1,1 +1,1 @@
-var mnemonic = "canal cluster boost trust surprise example frost powder grocery student private cotton";
+var mnemonic = "unusual pyramid around crowd ramp rice tube oyster road dumb stick pear";

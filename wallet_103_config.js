@@ -1,1 +1,1 @@
-var mnemonic = "zero zero seminar blade auction matrix notice public street tourist grain evidence";
+var mnemonic = "eight arena open vast song cattle body despair around boss story title";

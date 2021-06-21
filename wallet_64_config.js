@@ -1,1 +1,1 @@
-var mnemonic = "meat promote satoshi fat proud agree quit cruise ritual supreme member ride";
+var mnemonic = "language bonus defy course present gun banner have life puzzle cheese leopard";

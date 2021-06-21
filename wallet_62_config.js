@@ -1,1 +1,1 @@
-var mnemonic = "chuckle jar else negative huge aisle bomb reflect board meat render pottery";
+var mnemonic = "oyster senior curve grit purity nerve buddy clip olympic girl tunnel deer";

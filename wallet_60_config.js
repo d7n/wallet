@@ -1,1 +1,1 @@
-var mnemonic = "sun kidney limit style guard rule remind mountain logic artwork gaze dose";
+var mnemonic = "card genius people mango hand suggest ceiling valley level govern gown then";

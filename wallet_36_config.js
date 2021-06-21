@@ -1,1 +1,1 @@
-var mnemonic = "demise menu inform mind kidney atom saddle remind fiber canyon engage tribe";
+var mnemonic = "pyramid hour memory better east hint mimic trial snap hunt isolate elevator";

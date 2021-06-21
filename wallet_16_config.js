@@ -1,1 +1,1 @@
-var mnemonic = "notice letter write bind mammal under link table bacon gasp nurse million";
+var mnemonic = "genuine over test horn elbow judge silk swamp trim hawk lobster intact";

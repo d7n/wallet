@@ -1,1 +1,1 @@
-var mnemonic = "food breeze lesson uncle inch aisle thumb army phrase trigger food decide";
+var mnemonic = "fancy slim charge runway moral panel vicious struggle judge doll rubber cruise";

@@ -1,1 +1,1 @@
-var mnemonic = "census evidence pipe hip roof trouble bid render skate orient talent shop";
+var mnemonic = "domain eye team husband lesson car auction dress rich pave fruit wave";

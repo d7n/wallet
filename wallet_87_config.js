@@ -1,1 +1,1 @@
-var mnemonic = "warrior tilt simple vault unusual language enlist okay chat practice ketchup happy";
+var mnemonic = "strong virtual federal replace dismiss cushion shop never morning power bitter blossom";

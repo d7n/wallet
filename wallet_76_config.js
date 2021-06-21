@@ -1,1 +1,1 @@
-var mnemonic = "simple fortune during bicycle canvas rather great mandate bitter vacuum loop battle";
+var mnemonic = "dumb reason supreme have giraffe also gift fun finish nut grass accuse";

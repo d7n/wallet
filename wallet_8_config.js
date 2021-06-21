@@ -1,1 +1,1 @@
-var mnemonic = "spot light pair laptop differ leg between peanut involve company normal claim";
+var mnemonic = "amused weasel blue stairs gain glory leave slice alpha problem sugar excess";

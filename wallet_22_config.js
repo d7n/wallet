@@ -1,1 +1,1 @@
-var mnemonic = "thrive sponsor gold kitten answer hand one suggest helmet rebuild news hurry";
+var mnemonic = "supreme trash caution peasant confirm own initial famous vintage what swim humor";

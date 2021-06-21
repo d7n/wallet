@@ -1,1 +1,1 @@
-var mnemonic = "faculty glory follow thought march movie then gap used certain lesson proof";
+var mnemonic = "panel artwork tail awful thing swarm draft elevator dinner leg person number";

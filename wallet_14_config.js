@@ -1,1 +1,1 @@
-var mnemonic = "bar lumber spend region citizen garden glare blossom trick fuel hamster party";
+var mnemonic = "tobacco embody artefact final candy toward combine tumble work error december wait";

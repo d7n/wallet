@@ -1,1 +1,1 @@
-var mnemonic = "ketchup relax enable pipe alert decrease soft aerobic nominee oblige manage clerk";
+var mnemonic = "equip humor clever assault crowd solve learn crash become adjust magic gym";

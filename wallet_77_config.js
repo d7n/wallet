@@ -1,1 +1,1 @@
-var mnemonic = "bunker benefit office peace observe aware hybrid quiz trade foil appear salt";
+var mnemonic = "letter clown topic vicious smooth parade gym crew thought original shop coconut";

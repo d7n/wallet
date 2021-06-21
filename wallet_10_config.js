@@ -1,1 +1,1 @@
-var mnemonic = "floor path dignity phrase defy worth artefact chunk loan excuse sort gun";
+var mnemonic = "damp lunch tail try movie excuse lumber crop wear disorder idea enrich";

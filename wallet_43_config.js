@@ -1,1 +1,1 @@
-var mnemonic = "this deer bachelor inspire turtle ticket pilot rescue disagree general sentence garbage";
+var mnemonic = "obscure nature rotate frown exhaust access grab shock squirrel bridge night crack";

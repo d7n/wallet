@@ -1,1 +1,1 @@
-var mnemonic = "monster nice ladder answer pact adjust point surprise joke vacuum supply wave";
+var mnemonic = "avoid toss album axis cook limb distance pig boss grow puppy dial";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle able village little length number table cruel captain secret wood weasel";
+var mnemonic = "hunt obscure body dream ski come liberty logic proud orbit hair demise";

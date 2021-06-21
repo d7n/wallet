@@ -1,1 +1,1 @@
-var mnemonic = "exchange shrug raven dwarf moment visit curious kiwi young ensure crazy unable";
+var mnemonic = "cherry joy fever brother bench easily trick bottom power advance rack address";

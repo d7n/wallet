@@ -1,1 +1,1 @@
-var mnemonic = "purchase truck cube one caution hill language fan goddess upgrade enforce sibling";
+var mnemonic = "column episode news salt nephew chimney elegant umbrella interest left clip couple";

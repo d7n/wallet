@@ -1,1 +1,1 @@
-var mnemonic = "leaf garlic dilemma cash salt fly sausage hurt resist rocket catch aware";
+var mnemonic = "rocket cable boil empty grass shallow trade grape brief phrase inhale plate";

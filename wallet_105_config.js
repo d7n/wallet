@@ -1,1 +1,1 @@
-var mnemonic = "rather leave sort gentle cheese bread knife double scatter salute myself leg";
+var mnemonic = "earn dwarf vague decrease sentence weasel cram trap often advice super trend";

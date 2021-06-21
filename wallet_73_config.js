@@ -1,1 +1,1 @@
-var mnemonic = "give deliver define pattern base able aisle robust blouse solid thought aisle";
+var mnemonic = "letter ecology minor lizard orange insane leisure fresh range notice give bright";

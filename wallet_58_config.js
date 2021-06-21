@@ -1,1 +1,1 @@
-var mnemonic = "popular space tiny essence swarm ready age peanut erosion arena large nut";
+var mnemonic = "guitar denial catch upset sad open uniform wagon fatigue drop ceiling nominee";

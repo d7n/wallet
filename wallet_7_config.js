@@ -1,1 +1,1 @@
-var mnemonic = "message father grace pudding brown bar panda glory sleep cycle teach still";
+var mnemonic = "just remind fiscal culture advice merry planet stumble strategy wasp avocado universe";

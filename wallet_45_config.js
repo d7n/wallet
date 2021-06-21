@@ -1,1 +1,1 @@
-var mnemonic = "rural flag dinosaur write carry history riot record enlist fall tray better";
+var mnemonic = "rocket square program inhale mean income unfair gift outside exact clock mango";

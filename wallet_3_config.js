@@ -1,1 +1,1 @@
-var mnemonic = "fossil good dinosaur drama seven mixture twice reveal fall today thing collect";
+var mnemonic = "nasty couple road submit oak surface pen stadium feature destroy share critic";

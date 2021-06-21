@@ -1,1 +1,1 @@
-var mnemonic = "hungry occur path arrive must artist such creek old future mom peace";
+var mnemonic = "loud essay cattle explain canal junior auction essence endorse slogan daughter science";

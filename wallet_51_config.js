@@ -1,1 +1,1 @@
-var mnemonic = "pig capital patient tube tornado please update devote grape start silent load";
+var mnemonic = "ride armed mule misery auction behave squeeze amused owner like wagon crucial";

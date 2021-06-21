@@ -1,1 +1,1 @@
-var mnemonic = "potato miracle prize today rebuild result silly stamp length list dial window";
+var mnemonic = "castle element unknown galaxy myth dilemma snap basic gift loop asset grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "roof smart wall radio stairs pig craft squeeze bundle quality innocent flight";
+var mnemonic = "unaware galaxy piano decrease beef advice tonight purpose crouch repeat camera response";

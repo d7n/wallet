@@ -1,1 +1,1 @@
-var mnemonic = "party banana school fragile glove bar blanket view range pigeon mixed gloom";
+var mnemonic = "onion hunt armed finger neither cupboard science approve cart stumble trophy armor";

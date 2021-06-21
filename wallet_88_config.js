@@ -1,1 +1,1 @@
-var mnemonic = "anxiety cruel cushion never magic wisdom pigeon pupil remember taste forget family";
+var mnemonic = "regular wool rocket vessel stove network dutch dance urge atom custom luggage";

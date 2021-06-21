@@ -1,1 +1,1 @@
-var mnemonic = "clay room slab magic shoulder ketchup neither opinion walk slot climb exile";
+var mnemonic = "fantasy lens inner pause they awful predict door forward april slush main";

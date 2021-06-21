@@ -1,1 +1,1 @@
-var mnemonic = "history budget similar door matter story tiger tonight dentist girl group bitter";
+var mnemonic = "version decrease cabbage peanut measure defense scout rice problem elegant shadow buddy";

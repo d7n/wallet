@@ -1,1 +1,1 @@
-var mnemonic = "infant rose photo van kangaroo discover leaf remind clump sweet defense silk";
+var mnemonic = "glad actual control price wedding saddle aisle siege analyst will rug midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost curtain kiss fringe option gasp syrup tray ribbon bleak cook either";
+var mnemonic = "exotic lottery detail attitude flush excess fragile insane spring pig later differ";

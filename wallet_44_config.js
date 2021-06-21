@@ -1,1 +1,1 @@
-var mnemonic = "nature bleak similar shock service public gospel film slight speak brain cover";
+var mnemonic = "usual shop magic seven range assault ribbon visit north brass relax goose";

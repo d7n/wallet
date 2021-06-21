@@ -1,1 +1,1 @@
-var mnemonic = "joy problem tornado round during sort book mutual action upon actual please";
+var mnemonic = "small leave license burden fresh rubber chapter bike middle steak build cool";

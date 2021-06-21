@@ -1,1 +1,1 @@
-var mnemonic = "abandon frown recipe model upgrade galaxy visa pelican chuckle island pause mystery";
+var mnemonic = "coach casual general explain insane favorite kick jelly multiply enroll twin siege";

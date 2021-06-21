@@ -1,1 +1,1 @@
-var mnemonic = "body kite net fatigue speed under summer young honey ranch pledge identify";
+var mnemonic = "flower fossil electric flip gallery kitten slide finish soon bag diet unhappy";

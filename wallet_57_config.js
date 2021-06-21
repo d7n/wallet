@@ -1,1 +1,1 @@
-var mnemonic = "express miss twenty creek amount mother smart battle kitten rail world top";
+var mnemonic = "bring horn quiz firm donate rapid sketch art travel conduct nominee supply";

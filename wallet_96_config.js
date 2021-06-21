@@ -1,1 +1,1 @@
-var mnemonic = "critic convince ability visa spot speak ankle entire silk shadow welcome group";
+var mnemonic = "purse valve exile click repeat indicate hero grape issue dragon source oxygen";

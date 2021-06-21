@@ -1,1 +1,1 @@
-var mnemonic = "cement immune patient swear desk polar coyote shield marine warrior document list";
+var mnemonic = "laptop bridge rely gasp loop slide youth monitor regret cup hub since";

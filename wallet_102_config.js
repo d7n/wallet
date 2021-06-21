@@ -1,1 +1,1 @@
-var mnemonic = "idea little monkey protect street decline illness fiction differ put curious speed";
+var mnemonic = "beyond meat frost awful edge adult inject source swap credit margin hill";

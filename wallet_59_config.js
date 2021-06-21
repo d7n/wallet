@@ -1,1 +1,1 @@
-var mnemonic = "cook come dial amused actor brief slim trial radar arm concert legal";
+var mnemonic = "scrub install lab want cruel afraid change parent large history law jeans";

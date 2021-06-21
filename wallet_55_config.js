@@ -1,1 +1,1 @@
-var mnemonic = "place culture economy skirt tornado detail proud tiny type leisure rose machine";
+var mnemonic = "praise hollow topple animal carpet glimpse energy couch patch ugly anger surface";

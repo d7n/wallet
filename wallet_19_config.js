@@ -1,1 +1,1 @@
-var mnemonic = "ill someone ginger matrix trumpet beauty hazard boss recycle potato wet great";
+var mnemonic = "much plate rib crisp table replace pencil dish chapter middle excess artwork";

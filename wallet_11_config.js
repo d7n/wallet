@@ -1,1 +1,1 @@
-var mnemonic = "fashion lion rail agree bronze nuclear dial mail boil renew broom mango";
+var mnemonic = "swallow firm display hybrid useless survey update evil used entry snack cabin";

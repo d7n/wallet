@@ -1,1 +1,1 @@
-var mnemonic = "require gas fiber slender lunch picture orient wealth close frequent belt actual";
+var mnemonic = "neglect siege cannon industry enemy muffin powder dignity crowd away language bike";

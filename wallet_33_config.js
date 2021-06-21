@@ -1,1 +1,1 @@
-var mnemonic = "shell weekend real quit south until science undo control climb income success";
+var mnemonic = "curious argue expose diesel cement snow rose rare enough useless such acid";

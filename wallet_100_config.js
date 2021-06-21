@@ -1,1 +1,1 @@
-var mnemonic = "tip gun spice garment slight puzzle wreck child assume poem chapter bachelor";
+var mnemonic = "vote oyster pupil update total cave switch toilet position push govern cabbage";

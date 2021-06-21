@@ -1,1 +1,1 @@
-var mnemonic = "source barely book moral forward dinosaur crush security crack soda winner hurdle";
+var mnemonic = "uniform theory flush people combine enemy device between exile wedding sausage uniform";

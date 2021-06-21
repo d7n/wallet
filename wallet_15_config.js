@@ -1,1 +1,1 @@
-var mnemonic = "tiger fortune damage syrup stem merry spike poverty acquire glory puppy vital";
+var mnemonic = "auto shield renew trial produce around renew feature dream web betray east";

@@ -1,1 +1,1 @@
-var mnemonic = "escape twist short come certain talent cloth unit any gorilla nasty extra";
+var mnemonic = "copy file report notice luxury tongue decrease into urge nuclear quick path";

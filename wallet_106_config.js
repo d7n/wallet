@@ -1,1 +1,1 @@
-var mnemonic = "ride lab cherry lend kind hunt dress balcony humble vague small husband";
+var mnemonic = "margin gun drive crowd harvest idle slide inquiry cement outside dizzy illegal";

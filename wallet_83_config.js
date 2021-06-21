@@ -1,1 +1,1 @@
-var mnemonic = "sentence oblige skull coin extend stereo know afford tiny escape trophy sauce";
+var mnemonic = "evil busy obtain bench worth shove level faith antique agent calm nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "ostrich release novel fat large chunk video expire wreck limit fetch angry";
+var mnemonic = "weather morning wing number quiz year armor shift symptom auction hair nuclear";

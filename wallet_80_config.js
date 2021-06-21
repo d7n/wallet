@@ -1,1 +1,1 @@
-var mnemonic = "pear slender novel use enough tent call youth help chapter sting crouch";
+var mnemonic = "zoo rubber spice elegant source pond display slender autumn cargo walnut vibrant";
