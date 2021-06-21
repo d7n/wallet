@@ -1,1 +1,1 @@
-var mnemonic = "search embrace rate review blame nuclear engine damage artwork typical prefer tenant";
+var mnemonic = "steel search good seed isolate arrest plunge same alert wish island loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "digital gauge outdoor time mother drama evoke rabbit smooth sort guess junk";
+var mnemonic = "denial elite address fix say dash frequent because inch fat exile staff";

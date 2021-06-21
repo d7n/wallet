@@ -1,1 +1,1 @@
-var mnemonic = "conduct exercise rare identify cake staff behave motor alarm demise company equip";
+var mnemonic = "afraid vendor like develop assault repair fantasy better practice fiscal purse resource";

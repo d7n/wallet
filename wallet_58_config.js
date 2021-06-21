@@ -1,1 +1,1 @@
-var mnemonic = "tag voyage rain capable captain lonely rather armor scout chaos rent leisure";
+var mnemonic = "farm render tackle trigger among pottery glance subject capital solution broken time";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery adult honey ensure media donate give breeze shoe case midnight swap";
+var mnemonic = "size moment unknown mango write enhance citizen spawn cement pistol link control";

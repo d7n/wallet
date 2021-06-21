@@ -1,1 +1,1 @@
-var mnemonic = "laugh damage ramp transfer empty obtain east service grape hen upon spell";
+var mnemonic = "symbol drill hip warfare mixed miracle motion demand enhance pipe giggle warfare";

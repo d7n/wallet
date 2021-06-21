@@ -1,1 +1,1 @@
-var mnemonic = "recycle disagree rule asset exit armor target hollow pond correct limit shoe";
+var mnemonic = "also say train teach thunder meat album blanket jacket lemon view tag";

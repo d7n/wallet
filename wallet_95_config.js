@@ -1,1 +1,1 @@
-var mnemonic = "quick wood find wagon view pen loyal tray three marriage venture donate";
+var mnemonic = "wish rhythm chunk stamp warrior ugly laundry dignity fire analyst forum same";

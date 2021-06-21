@@ -1,1 +1,1 @@
-var mnemonic = "sphere argue library proud van thumb lock typical fit decade south useful";
+var mnemonic = "soldier dynamic mass soft illness veteran blue radio rather cliff random turn";

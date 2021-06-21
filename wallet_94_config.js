@@ -1,1 +1,1 @@
-var mnemonic = "prison voice there series original essence salute wrap upset noble scorpion august";
+var mnemonic = "adjust offer maximum oil will truly make uphold express pattern page monitor";

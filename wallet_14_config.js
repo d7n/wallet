@@ -1,1 +1,1 @@
-var mnemonic = "vivid enhance accident popular blood tourist vague wisdom fossil van ritual world";
+var mnemonic = "arrive ball eye own slice trial bleak wife square idea web logic";

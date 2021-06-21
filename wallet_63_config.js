@@ -1,1 +1,1 @@
-var mnemonic = "rain february enable busy pair dismiss unaware host bid notice system mammal";
+var mnemonic = "wheel pyramid own cart tackle profit patient stairs approve element auction yellow";

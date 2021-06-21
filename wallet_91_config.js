@@ -1,1 +1,1 @@
-var mnemonic = "reject curtain eight poem law cup obvious over cable unhappy across harbor";
+var mnemonic = "maze long rally cram picture rather marriage plate oxygen eagle shift stumble";

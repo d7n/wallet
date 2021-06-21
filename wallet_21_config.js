@@ -1,1 +1,1 @@
-var mnemonic = "slush cotton acquire address rough muffin awful wall honey weird expect undo";
+var mnemonic = "jungle trial horror retire pave grunt swap donor engage guilt hard require";

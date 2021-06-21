@@ -1,1 +1,1 @@
-var mnemonic = "ready spike warfare idea since just make hundred equal stereo net truck";
+var mnemonic = "cherry off property local reform dynamic matrix feature spoil ready rack card";

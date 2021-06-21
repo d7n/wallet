@@ -1,1 +1,1 @@
-var mnemonic = "green lyrics author north record crowd light symbol wink that machine vivid";
+var mnemonic = "abandon exercise omit visit funny boring explain federal style cause phone coffee";

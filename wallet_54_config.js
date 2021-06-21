@@ -1,1 +1,1 @@
-var mnemonic = "horn eyebrow cream violin brief smart poet minimum lobster gorilla stuff photo";
+var mnemonic = "extend hamster foot mother raw elbow move very lawsuit atom smart limit";

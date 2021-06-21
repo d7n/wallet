@@ -1,1 +1,1 @@
-var mnemonic = "verb noble spawn acid general another shoe supply other tape certain border";
+var mnemonic = "vote elevator peasant vintage road youth audit erase olive old lazy improve";

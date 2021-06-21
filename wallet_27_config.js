@@ -1,1 +1,1 @@
-var mnemonic = "trend erosion inside reduce wire bar nephew awesome maze lend juice fox";
+var mnemonic = "resist river purse tornado wide menu nurse pool start bag chronic keep";

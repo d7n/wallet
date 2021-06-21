@@ -1,1 +1,1 @@
-var mnemonic = "taste judge surge symptom rotate certain tumble acquire peasant soon roast trash";
+var mnemonic = "save delay process mirror poet able margin series ceiling claim lunar bind";

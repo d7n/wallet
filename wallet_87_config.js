@@ -1,1 +1,1 @@
-var mnemonic = "hurry cart marble illegal soup congress around silly head current sustain wrist";
+var mnemonic = "weird repair civil regret video rent nose gadget undo crew develop envelope";

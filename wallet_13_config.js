@@ -1,1 +1,1 @@
-var mnemonic = "wear auction demand collect farm bless frequent cannon couch mail uncle sand";
+var mnemonic = "jealous cover motor foot split cupboard foot clever allow exclude embody range";

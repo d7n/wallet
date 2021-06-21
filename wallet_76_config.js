@@ -1,1 +1,1 @@
-var mnemonic = "lawn cave conduct weird work wreck limit safe smoke athlete wheel coin";
+var mnemonic = "birth remove audit fatal elite expose supreme giant vague skill upgrade soccer";

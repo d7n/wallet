@@ -1,1 +1,1 @@
-var mnemonic = "connect food clown stairs desk embrace square plate then ten area similar";
+var mnemonic = "chief knee super swift scan easy daring clever pride swallow ugly tide";

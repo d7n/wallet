@@ -1,1 +1,1 @@
-var mnemonic = "path athlete retreat nice ask goddess shop limb improve record joy cake";
+var mnemonic = "angle youth pink start kid river crane actor essence student usage betray";

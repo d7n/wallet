@@ -1,1 +1,1 @@
-var mnemonic = "social crew clog slight lesson average between essence course lottery theme bulb";
+var mnemonic = "crime consider hero lunar bleak invite atom weasel grab prepare cycle couch";

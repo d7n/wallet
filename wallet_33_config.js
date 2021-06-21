@@ -1,1 +1,1 @@
-var mnemonic = "fiber balcony jeans soldier hobby ginger spray math blouse blast embody height";
+var mnemonic = "nest awake muscle process brave scan call lawsuit jeans business joy dignity";

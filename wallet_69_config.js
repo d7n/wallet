@@ -1,1 +1,1 @@
-var mnemonic = "drum awesome side change wagon nuclear stadium actor main phrase this pipe";
+var mnemonic = "wet promote neck tide skate spring rib slight return notice tragic pottery";

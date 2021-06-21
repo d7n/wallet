@@ -1,1 +1,1 @@
-var mnemonic = "cry saddle safe oak year plate replace domain exchange ice arrange orange";
+var mnemonic = "purity van tomorrow student eager mosquito fancy damp define kind resource raw";

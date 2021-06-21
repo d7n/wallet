@@ -1,1 +1,1 @@
-var mnemonic = "canvas film milk another swamp gun diagram exhaust fish olympic logic kitchen";
+var mnemonic = "enjoy above garbage else obey crisp frown rug patch chimney power destroy";

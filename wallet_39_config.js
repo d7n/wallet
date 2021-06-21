@@ -1,1 +1,1 @@
-var mnemonic = "trophy rally reunion model tilt unusual setup sheriff stamp method truck hockey";
+var mnemonic = "forum error result staff wool scale find mosquito board fiscal poem hero";

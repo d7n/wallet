@@ -1,1 +1,1 @@
-var mnemonic = "ecology tuna pet stage blame wine vote will disagree omit loan company";
+var mnemonic = "work social spray blame affair social thunder fire happy modify second loan";

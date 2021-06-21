@@ -1,1 +1,1 @@
-var mnemonic = "chunk vital gloom question rate promote best material lamp blind faint narrow";
+var mnemonic = "remove round whip live gospel trash object any ostrich orient rough damage";

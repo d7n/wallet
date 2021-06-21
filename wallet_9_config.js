@@ -1,1 +1,1 @@
-var mnemonic = "buddy charge ceiling tackle twice region acoustic where mirror era heart diagram";
+var mnemonic = "journey page sell modify glow front approve neck upset admit wage true";

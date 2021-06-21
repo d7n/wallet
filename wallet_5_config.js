@@ -1,1 +1,1 @@
-var mnemonic = "install parent negative good magnet thumb exact fame upper broom proof multiply";
+var mnemonic = "attack garbage valley diamond later cash behave cage derive method solve force";

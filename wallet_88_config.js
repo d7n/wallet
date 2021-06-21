@@ -1,1 +1,1 @@
-var mnemonic = "file reflect culture drift stairs special fun smoke involve mercy leaf rude";
+var mnemonic = "cradle brief monitor supreme volcano amused degree sight curve fork sea hazard";

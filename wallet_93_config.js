@@ -1,1 +1,1 @@
-var mnemonic = "fitness equip orient fetch pluck phone supreme gate uncover lava donor goddess";
+var mnemonic = "response knee logic dawn area kidney off people grow inherit drip possible";

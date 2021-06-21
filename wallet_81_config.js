@@ -1,1 +1,1 @@
-var mnemonic = "party owner grain life cherry accident salt common unfold stereo climb cancel";
+var mnemonic = "coyote liquid uniform shy gallery grocery rib blossom river badge stone mesh";

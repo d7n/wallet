@@ -1,1 +1,1 @@
-var mnemonic = "bachelor minute valve panic casual capable smile friend cherry blanket patch hole";
+var mnemonic = "excite kit convince danger buddy prepare face ancient candy girl bag badge";

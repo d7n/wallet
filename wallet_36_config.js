@@ -1,1 +1,1 @@
-var mnemonic = "toss exchange piano box vanish knife bullet pretty bag rabbit convince uncle";
+var mnemonic = "minute rug long busy worry shed upper art erode couch walk sport";

@@ -1,1 +1,1 @@
-var mnemonic = "behave girl ship people wish royal peace beyond retire reopen bring category";
+var mnemonic = "fix minute deal magnet umbrella wheat smile predict brand square book spike";

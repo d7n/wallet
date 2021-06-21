@@ -1,1 +1,1 @@
-var mnemonic = "improve grass surprise panda impact rare sibling hundred ritual work fuel net";
+var mnemonic = "imitate clean clinic submit hard lunar double veteran cost version undo midnight";

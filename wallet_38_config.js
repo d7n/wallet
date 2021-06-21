@@ -1,1 +1,1 @@
-var mnemonic = "conduct extra useless nature draft little creek want company soccer girl coyote";
+var mnemonic = "toe honey rebuild fox cream sight giant dream stem car artefact absurd";

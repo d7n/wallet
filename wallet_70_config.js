@@ -1,1 +1,1 @@
-var mnemonic = "crowd fire announce cotton walnut correct stereo glue river wrong simple mango";
+var mnemonic = "liar teach sense inform quiz violin mansion area street pistol spare bulk";

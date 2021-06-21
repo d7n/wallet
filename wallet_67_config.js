@@ -1,1 +1,1 @@
-var mnemonic = "stand evolve arrest arrest output margin arrow best emotion easily ostrich bamboo";
+var mnemonic = "achieve update chaos obey give arm indicate diary budget machine nephew ticket";

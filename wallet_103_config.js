@@ -1,1 +1,1 @@
-var mnemonic = "warm ready slab neck labor jacket deny churn type wine cargo hello";
+var mnemonic = "idle avocado debate track brain baby punch shiver embark middle drum involve";

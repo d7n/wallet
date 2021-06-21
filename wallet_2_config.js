@@ -1,1 +1,1 @@
-var mnemonic = "pill achieve shadow final flush reunion mail coin acoustic execute vicious real";
+var mnemonic = "eyebrow asset conduct powder mean sudden any twist trap surge vapor miracle";

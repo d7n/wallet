@@ -1,1 +1,1 @@
-var mnemonic = "network crew skull cloud someone result jar hazard minimum type region top";
+var mnemonic = "crush hope vehicle wife dress enough leg project long face amount poem";

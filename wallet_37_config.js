@@ -1,1 +1,1 @@
-var mnemonic = "wrap wagon hour reject demise giraffe sort skill orchard pulp then filter";
+var mnemonic = "dress flee prosper drip owner thrive develop cook marine bulk wall moment";

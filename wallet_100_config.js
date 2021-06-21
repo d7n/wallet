@@ -1,1 +1,1 @@
-var mnemonic = "cargo sand manual truth hand zoo flee turkey mean version language spell";
+var mnemonic = "attract vote result carpet radar cereal guess become type napkin coin welcome";

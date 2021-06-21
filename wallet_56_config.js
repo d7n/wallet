@@ -1,1 +1,1 @@
-var mnemonic = "hazard true lazy spatial raise raven educate brain salmon frog bachelor topple";
+var mnemonic = "belt lens gas crater gravity cup gravity extend beauty broom enroll away";

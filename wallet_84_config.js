@@ -1,1 +1,1 @@
-var mnemonic = "art bicycle horror local sheriff luggage mixed advice decide violin typical curve";
+var mnemonic = "arm two ocean visa wreck cycle calm volume satoshi penalty riot oppose";

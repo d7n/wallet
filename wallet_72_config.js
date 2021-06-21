@@ -1,1 +1,1 @@
-var mnemonic = "soup section wolf lunch there pelican index traffic subway junior screen moment";
+var mnemonic = "dismiss message quantum little warm hole label enroll immense denial gospel battle";

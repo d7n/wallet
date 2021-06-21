@@ -1,1 +1,1 @@
-var mnemonic = "digital road misery inhale weapon spy ice parrot bracket pyramid educate lion";
+var mnemonic = "snake enforce force decorate faint void cactus intact rack negative toward minimum";

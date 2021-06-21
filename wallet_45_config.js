@@ -1,1 +1,1 @@
-var mnemonic = "drink remind episode pigeon ripple spin wish chaos flock issue garage view";
+var mnemonic = "notable fury pepper coast build cake path spider yellow scare tomorrow drift";

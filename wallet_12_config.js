@@ -1,1 +1,1 @@
-var mnemonic = "clock cannon oyster tag expand easily maid nasty paper kit empower lend";
+var mnemonic = "minute pioneer danger toddler satoshi cricket patrol diagram crisp rent dawn turkey";

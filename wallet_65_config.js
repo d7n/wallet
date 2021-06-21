@@ -1,1 +1,1 @@
-var mnemonic = "song fuel mule drastic city salad oil satisfy lobster focus face harsh";
+var mnemonic = "poem garment jazz modify enjoy wonder draft faculty burst crash express escape";

@@ -1,1 +1,1 @@
-var mnemonic = "meat return soda reason quit lion flush arrive dry pigeon sponsor quantum";
+var mnemonic = "click naive rubber electric often flip tonight doll error setup hole curve";

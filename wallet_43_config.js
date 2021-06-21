@@ -1,1 +1,1 @@
-var mnemonic = "nasty suit news prison orchard negative size silly fuel friend about fog";
+var mnemonic = "hire polar more educate divide miss humor soup unfair garbage ribbon hire";

@@ -1,1 +1,1 @@
-var mnemonic = "rebuild spot trade attitude melt bonus night about oblige uncle position waste";
+var mnemonic = "column fish afraid midnight skate foot food reason elite item rather retire";

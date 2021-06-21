@@ -1,1 +1,1 @@
-var mnemonic = "repeat gain jelly retire tell cake dice mass nasty little check isolate";
+var mnemonic = "common behind degree occur panther legend toddler wash width same thumb pulp";

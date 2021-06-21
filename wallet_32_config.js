@@ -1,1 +1,1 @@
-var mnemonic = "inside choice float assume clarify surround person season thunder visit during disagree";
+var mnemonic = "upper endless long before bonus birth pretty actual number axis ostrich bachelor";

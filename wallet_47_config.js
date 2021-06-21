@@ -1,1 +1,1 @@
-var mnemonic = "nasty add dentist perfect already innocent rely mad liberty force icon innocent";
+var mnemonic = "various taste permit syrup dove loyal ugly home electric wild odor stool";

@@ -1,1 +1,1 @@
-var mnemonic = "disagree suspect settle master friend ability fish cost delay mass decrease coach";
+var mnemonic = "donor giggle safe addict stable cup switch express sock repair sample damage";

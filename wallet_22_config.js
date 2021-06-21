@@ -1,1 +1,1 @@
-var mnemonic = "curious couch wise dizzy catch turn tuition auction car spin race bicycle";
+var mnemonic = "thing tumble teach beauty truth arctic wide popular rhythm help pipe emotion";

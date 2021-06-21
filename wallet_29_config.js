@@ -1,1 +1,1 @@
-var mnemonic = "list mandate lock coffee hair drop scout crunch attitude bag omit elite";
+var mnemonic = "loyal cool make acquire erode fabric soda decline notice model place gentle";

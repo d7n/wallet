@@ -1,1 +1,1 @@
-var mnemonic = "elevator album long swim chat trap unfold token debate bar eternal detail";
+var mnemonic = "torch enjoy slush duty math price donkey heavy sock immense creek sand";

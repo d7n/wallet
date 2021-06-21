@@ -1,1 +1,1 @@
-var mnemonic = "raw board deal sibling express pet valve name next liquid behind check";
+var mnemonic = "buzz pistol pencil word lecture obtain video legend winter useless apple loyal";

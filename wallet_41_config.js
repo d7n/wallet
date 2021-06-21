@@ -1,1 +1,1 @@
-var mnemonic = "guess mirror betray color zoo kite absent avoid use speed three later";
+var mnemonic = "devote estate ship fold manage energy original people machine note elegant kitchen";

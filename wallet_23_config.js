@@ -1,1 +1,1 @@
-var mnemonic = "slam hazard cost damp mandate remove federal lobster dance aisle announce model";
+var mnemonic = "alarm february analyst empower rebuild uncle crouch perfect empty lazy idle under";

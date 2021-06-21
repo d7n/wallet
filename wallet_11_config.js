@@ -1,1 +1,1 @@
-var mnemonic = "mountain leisure purchase child input random canyon body know wheat tag clock";
+var mnemonic = "syrup cook truth sea belt upper wood census comfort priority cage file";

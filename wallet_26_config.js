@@ -1,1 +1,1 @@
-var mnemonic = "route improve have direct vote decorate seed bargain upon hen street paddle";
+var mnemonic = "hover home seven grunt horn athlete thing seminar frame material special stool";

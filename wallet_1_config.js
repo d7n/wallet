@@ -1,1 +1,1 @@
-var mnemonic = "fine slim minor chat crater spider ten hurry taxi remember trap swamp";
+var mnemonic = "yard today shiver health reform pair today flush domain people now kingdom";

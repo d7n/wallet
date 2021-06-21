@@ -1,1 +1,1 @@
-var mnemonic = "explain bundle digital jelly calm speed enroll have joy mule crop truth";
+var mnemonic = "follow scare slide gesture claim tuition normal finger various coffee tomato they";

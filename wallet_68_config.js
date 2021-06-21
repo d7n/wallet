@@ -1,1 +1,1 @@
-var mnemonic = "own enter cost affair neither void ability mutual fan twice orient pistol";
+var mnemonic = "cost way seat panda tray common soap raw year rule then stuff";

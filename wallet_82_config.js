@@ -1,1 +1,1 @@
-var mnemonic = "virtual click universe together mule add trend diamond health defense air column";
+var mnemonic = "happy hand chase amused solid coin pony network release regular make hammer";

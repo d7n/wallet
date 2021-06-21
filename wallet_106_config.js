@@ -1,1 +1,1 @@
-var mnemonic = "total together arm crane pact term coconut wool donor weather kid feed";
+var mnemonic = "above hidden castle ginger celery element pole glare innocent genius change cradle";

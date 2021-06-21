@@ -1,1 +1,1 @@
-var mnemonic = "easy involve swamp rural youth whisper movie apology energy grass trial eight";
+var mnemonic = "title tobacco aim obvious control dirt length skirt beauty galaxy drastic end";

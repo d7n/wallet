@@ -1,1 +1,1 @@
-var mnemonic = "govern bless aisle apple tenant connect way tortoise robot announce dress car";
+var mnemonic = "portion brown tell valve degree cruise mean force dynamic arrive fat large";

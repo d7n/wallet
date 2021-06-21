@@ -1,1 +1,1 @@
-var mnemonic = "minor tooth music stamp robust caught case giraffe faith rebuild radar cream";
+var mnemonic = "broccoli clown clean equip attitude gauge gold peace fun walnut high swallow";

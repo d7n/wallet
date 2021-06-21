@@ -1,1 +1,1 @@
-var mnemonic = "identify antenna trick system reveal elevator fruit abstract type miss way daughter";
+var mnemonic = "wood spell owner disease brain cook excess consider amazing toward adjust example";

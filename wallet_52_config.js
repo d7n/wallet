@@ -1,1 +1,1 @@
-var mnemonic = "grocery wait afford crack scale annual silk gap sick mix mask list";
+var mnemonic = "person fork upon matter marble sugar educate meadow helmet replace jazz stool";

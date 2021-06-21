@@ -1,1 +1,1 @@
-var mnemonic = "state document pumpkin popular ten riot citizen marine coast squeeze hole dose";
+var mnemonic = "public shock few prize dice pledge crisp peasant remove shield message friend";

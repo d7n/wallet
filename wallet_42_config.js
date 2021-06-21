@@ -1,1 +1,1 @@
-var mnemonic = "all blossom category choose supply dance grass clarify slot crucial globe excess";
+var mnemonic = "panther repair dirt occur away similar put dizzy risk model one crop";

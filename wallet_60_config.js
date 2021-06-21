@@ -1,1 +1,1 @@
-var mnemonic = "volcano crazy such curious icon proof organ scale ladder prefer document color";
+var mnemonic = "clean theme sugar romance lesson increase ancient vapor profit clarify hood quarter";

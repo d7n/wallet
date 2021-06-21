@@ -1,1 +1,1 @@
-var mnemonic = "small farm document usual armed alter middle brand insane staff either furnace";
+var mnemonic = "subway trouble daughter beach addict produce puppy tilt escape master wide decade";

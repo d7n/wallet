@@ -1,1 +1,1 @@
-var mnemonic = "alley swear elder achieve display mouse life quiz endorse sponsor museum time";
+var mnemonic = "escape tuition boring spawn joke laptop spike estate save expose enable trick";

@@ -1,1 +1,1 @@
-var mnemonic = "trumpet behave wood property approve naive salt define tower duck enable fortune";
+var mnemonic = "aware depart eager bar dilemma novel sword fury poverty choice praise pyramid";
