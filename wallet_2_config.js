@@ -1,1 +1,1 @@
-var mnemonic = "time deal boss during dad fiber wine various rookie unaware tribe either";
+var mnemonic = "magic universe report wrap deliver reason run barely child ahead office number";

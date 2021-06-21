@@ -1,1 +1,1 @@
-var mnemonic = "claw night damage cycle senior copper convince cool manual moon friend link";
+var mnemonic = "worth kind modify slogan odor only price mushroom market diamond document license";

@@ -1,1 +1,1 @@
-var mnemonic = "window forest absurd liar denial nurse street erupt naive wash wait surface";
+var mnemonic = "pioneer empower model vague mechanic lyrics coral deal shy giraffe rally reopen";

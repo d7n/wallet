@@ -1,1 +1,1 @@
-var mnemonic = "whip rotate since rib census arena ensure police pool what type picnic";
+var mnemonic = "inform fence pioneer aspect outer narrow brick ridge assault radio present fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "early near have together student beyond ask beef vacant provide brick device";
+var mnemonic = "wedding pistol blossom tell owner mother swamp toe knee best vocal drink";

@@ -1,1 +1,1 @@
-var mnemonic = "decline rapid pepper decrease spatial still front unfold limit gap excess spatial";
+var mnemonic = "minor olympic world yard choose supreme pony capable supply census tunnel point";

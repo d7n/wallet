@@ -1,1 +1,1 @@
-var mnemonic = "rural brave dream robot brown melt mushroom baby offer theme grace time";
+var mnemonic = "tilt cloth repeat tortoise critic lucky ride brisk during obvious poverty clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant equip pen fringe license reason shock snow frown raccoon speak wonder";
+var mnemonic = "curve act this spoon plunge despair village rigid dignity abandon guard pelican";

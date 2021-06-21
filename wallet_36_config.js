@@ -1,1 +1,1 @@
-var mnemonic = "upset script observe staff across home fluid gaze invite ten place civil";
+var mnemonic = "lounge matter bleak need copy rose allow mesh wedding industry trip video";

@@ -1,1 +1,1 @@
-var mnemonic = "machine health check maid cherry ocean shadow correct keep crash suggest topple";
+var mnemonic = "ski frame remain when purchase sell lady pink away only speed quarter";

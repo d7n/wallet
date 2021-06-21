@@ -1,1 +1,1 @@
-var mnemonic = "spatial walnut knife capital wall pledge come relax company wire sniff gorilla";
+var mnemonic = "model ice habit repair recipe topic joy grid scatter liar horse trigger";

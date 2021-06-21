@@ -1,1 +1,1 @@
-var mnemonic = "plastic swear impulse good clip food start reform morning token ketchup breeze";
+var mnemonic = "demise junk regular border slam spoon toilet salute habit you hidden blossom";

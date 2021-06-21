@@ -1,1 +1,1 @@
-var mnemonic = "first rather dance antenna simple oak wreck under safe carpet region sad";
+var mnemonic = "planet beauty drill define gaze wait oak panther drastic toy payment exercise";

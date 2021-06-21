@@ -1,1 +1,1 @@
-var mnemonic = "control neither right rigid champion notable critic youth endless episode inside random";
+var mnemonic = "better mosquito ensure champion people question water garment stairs sing entry sort";

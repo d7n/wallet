@@ -1,1 +1,1 @@
-var mnemonic = "stone style must donate magic invite recycle crowd end nothing top butter";
+var mnemonic = "purity excite find visa empty more spare school sting stay silk labor";

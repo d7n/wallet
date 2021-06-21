@@ -1,1 +1,1 @@
-var mnemonic = "turkey dry try boil angle notice fruit learn domain weekend normal state";
+var mnemonic = "because help become grief valley spray green clay vendor there topic wave";

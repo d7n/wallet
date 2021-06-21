@@ -1,1 +1,1 @@
-var mnemonic = "digital light lion reveal lock laugh mule false abandon noble vehicle regular";
+var mnemonic = "parrot mass deposit horn globe ghost indoor ordinary shove sniff faint square";

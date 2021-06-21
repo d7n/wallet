@@ -1,1 +1,1 @@
-var mnemonic = "female congress swallow upgrade romance stable ostrich occur rate february sniff code";
+var mnemonic = "cherry task warm upon same clever stereo nuclear victory album early spread";

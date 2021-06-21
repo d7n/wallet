@@ -1,1 +1,1 @@
-var mnemonic = "inner marble question honey thing evoke gym nose trap radio innocent broccoli";
+var mnemonic = "police spawn core fork envelope conduct fancy common become tunnel verify idle";

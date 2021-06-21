@@ -1,1 +1,1 @@
-var mnemonic = "real earn derive snap marriage climb ramp reveal bronze edit carpet fame";
+var mnemonic = "pulp loop month win gasp alarm outer inch utility young baby tired";

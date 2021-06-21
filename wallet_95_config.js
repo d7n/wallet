@@ -1,1 +1,1 @@
-var mnemonic = "split false income where enact caught clump develop inherit essence rib trigger";
+var mnemonic = "fatal circle render globe royal vessel finish bright print boost polar cook";

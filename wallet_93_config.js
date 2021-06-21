@@ -1,1 +1,1 @@
-var mnemonic = "share lava salmon skirt husband sure car live acid rich slam volume";
+var mnemonic = "notable excess fog recall find tiny acoustic aunt lunar crumble hold earth";

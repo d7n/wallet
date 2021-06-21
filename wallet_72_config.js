@@ -1,1 +1,1 @@
-var mnemonic = "visa parade mistake sure shy praise vessel rival frame gun lunar alley";
+var mnemonic = "page sad piano govern flame police cute because amazing tail word sketch";

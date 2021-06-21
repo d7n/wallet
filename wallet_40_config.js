@@ -1,1 +1,1 @@
-var mnemonic = "squirrel child apology accident slow stem liquid dignity artwork urban roof clown";
+var mnemonic = "bike chalk palm notable sustain bone moral mandate teach together twice scatter";

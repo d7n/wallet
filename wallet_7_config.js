@@ -1,1 +1,1 @@
-var mnemonic = "love kitten plug secret swamp crawl pause help spy desert enough sweet";
+var mnemonic = "achieve indoor lend bonus best clay roof close fitness theme infant engine";

@@ -1,1 +1,1 @@
-var mnemonic = "blast token anxiety blame brother inspire soft chair exotic gauge aunt alcohol";
+var mnemonic = "best caught push artefact point angry prison poem pull silent act remove";

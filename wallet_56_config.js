@@ -1,1 +1,1 @@
-var mnemonic = "wrap else faith belt husband squirrel earth tomato actual gesture mother around";
+var mnemonic = "ketchup gospel trick crack summer october dawn elbow member market lady kitchen";

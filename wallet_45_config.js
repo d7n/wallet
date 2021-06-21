@@ -1,1 +1,1 @@
-var mnemonic = "beef gun satoshi proof family scan saddle stairs long ski rule club";
+var mnemonic = "place wonder ten remember session menu three vocal license clap wool audit";

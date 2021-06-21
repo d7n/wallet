@@ -1,1 +1,1 @@
-var mnemonic = "debate find amused okay across visa curtain cycle success fame bench melody";
+var mnemonic = "skate travel sock unhappy heavy awkward layer result wide loyal unusual virus";

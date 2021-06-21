@@ -1,1 +1,1 @@
-var mnemonic = "never punch frame comic load pave arrange clean can glimpse six settle";
+var mnemonic = "brown strike voice primary link very detect plastic alcohol daughter dream minute";

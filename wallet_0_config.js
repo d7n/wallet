@@ -1,1 +1,1 @@
-var mnemonic = "quick boil legal nasty robot spread master exhaust liar hospital toilet bright";
+var mnemonic = "sauce put bracket ramp wedding magnet limit abandon issue figure robust quality";

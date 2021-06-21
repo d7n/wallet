@@ -1,1 +1,1 @@
-var mnemonic = "perfect wear income salmon hotel whip stuff only obvious coconut decade receive";
+var mnemonic = "warm lawsuit foam myth bullet scheme dash legend crouch parrot warfare fade";

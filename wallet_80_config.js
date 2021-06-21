@@ -1,1 +1,1 @@
-var mnemonic = "chest nerve spoon tribe minute casual gossip usage shed window treat cake";
+var mnemonic = "nose gap young patrol head zone evolve weapon dove core royal island";

@@ -1,1 +1,1 @@
-var mnemonic = "sail ghost mother south fee mail utility goddess law cricket neutral luxury";
+var mnemonic = "movie easy picnic reject rice document foil spring brief fork smoke spend";

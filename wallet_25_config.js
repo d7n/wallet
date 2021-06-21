@@ -1,1 +1,1 @@
-var mnemonic = "garage lift glove ginger veteran legal beach around symptom olive shaft cost";
+var mnemonic = "frame river escape solve scorpion dirt enforce gather truly clump state inmate";

@@ -1,1 +1,1 @@
-var mnemonic = "yard arm orchard effort slot run essay sport genuine summer someone save";
+var mnemonic = "find roof leave glance crunch eyebrow roof blanket pilot miracle cave fit";

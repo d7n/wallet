@@ -1,1 +1,1 @@
-var mnemonic = "shed blood cinnamon lock avoid unhappy royal child meadow obtain labor video";
+var mnemonic = "dismiss wine ginger swarm salad oblige seek gate ride conduct first there";

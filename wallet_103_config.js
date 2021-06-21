@@ -1,1 +1,1 @@
-var mnemonic = "dentist paper easily agent useful movie census carpet orient hole decide infant";
+var mnemonic = "present thumb expect bamboo light guide toilet bundle leg review speak penalty";

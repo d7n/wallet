@@ -1,1 +1,1 @@
-var mnemonic = "boil side record canvas raise smoke left copper hidden gold fame nation";
+var mnemonic = "spice soup meat cheap review liar achieve diary quarter defy vacuum cry";

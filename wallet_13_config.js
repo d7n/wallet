@@ -1,1 +1,1 @@
-var mnemonic = "critic world moment entire liquid tackle acquire swift high desk since step";
+var mnemonic = "chapter sort insect siege later tiger human useless smoke sand series today";

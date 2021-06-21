@@ -1,1 +1,1 @@
-var mnemonic = "gold reopen chalk know only spell silent horror weekend deny release region";
+var mnemonic = "enough story beyond quality hamster fly long moment clump spice noise dwarf";

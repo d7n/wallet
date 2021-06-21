@@ -1,1 +1,1 @@
-var mnemonic = "gesture car warm stamp indoor track meat rigid release essence license remember";
+var mnemonic = "private pulp acoustic mosquito number rookie bike number limit grain globe define";

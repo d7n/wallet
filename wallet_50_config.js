@@ -1,1 +1,1 @@
-var mnemonic = "cage alert come mango cricket swamp update differ audit option habit flight";
+var mnemonic = "praise ladder shop foster avoid ketchup cancel make exist crazy stool physical";

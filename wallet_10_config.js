@@ -1,1 +1,1 @@
-var mnemonic = "agent organ affair dizzy away father edit faculty token favorite wild embody";
+var mnemonic = "upper bracket network tower lawn enrich comic edit laundry soup hedgehog collect";

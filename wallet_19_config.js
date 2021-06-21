@@ -1,1 +1,1 @@
-var mnemonic = "polar depart cluster square net whip equip note rich tank note tackle";
+var mnemonic = "any voice coach digital normal dutch plate height depart broccoli party poverty";

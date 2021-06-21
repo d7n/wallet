@@ -1,1 +1,1 @@
-var mnemonic = "load couple hawk furnace dynamic can primary bid bench dry easily wonder";
+var mnemonic = "arch grocery measure place cart sport idle empower frog laundry canvas town";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork unveil hen little soon garage funny comic boss garlic advance that";
+var mnemonic = "thought diesel lawn raw powder buyer cart sting crew emerge gloom cannon";

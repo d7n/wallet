@@ -1,1 +1,1 @@
-var mnemonic = "later pattern clog only weather merit estate section order trick provide cabbage";
+var mnemonic = "edge century present resource salt special floor pencil banner enhance drip route";

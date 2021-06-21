@@ -1,1 +1,1 @@
-var mnemonic = "slogan attend toddler ladder casual accuse noise salad column jungle clever echo";
+var mnemonic = "maximum control business animal shove modify float rug imitate short supply manual";

@@ -1,1 +1,1 @@
-var mnemonic = "thought anchor flavor already kiss museum bag bean dumb hundred change rubber";
+var mnemonic = "convince soul correct mind twice vote proud famous little staff space brown";

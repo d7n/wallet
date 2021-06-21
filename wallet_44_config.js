@@ -1,1 +1,1 @@
-var mnemonic = "upgrade grief appear fancy garment topple guess fall advance live want promote";
+var mnemonic = "blossom hollow spring dolphin coffee birth huge answer capital wagon tape siren";

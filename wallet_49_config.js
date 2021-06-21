@@ -1,1 +1,1 @@
-var mnemonic = "ketchup mansion naive rough wink easy foot permit veteran emotion stamp post";
+var mnemonic = "size expose undo label holiday annual satisfy shy cactus tone century body";

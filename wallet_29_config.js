@@ -1,1 +1,1 @@
-var mnemonic = "call type uncover hover ring dizzy shoulder pull swing meat candy spirit";
+var mnemonic = "dice add grain bench episode empty scout picnic wall river ensure amateur";

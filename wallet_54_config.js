@@ -1,1 +1,1 @@
-var mnemonic = "shoulder bird survey sample spend siren cost winter better lab build tray";
+var mnemonic = "valid slab sphere eagle oil retreat knock diary junk advice sound brass";

@@ -1,1 +1,1 @@
-var mnemonic = "click cushion slow movie civil velvet hundred runway deal owner tell jaguar";
+var mnemonic = "obtain trip guitar merit swing behave remove stumble mule merit iron exact";

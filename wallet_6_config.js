@@ -1,1 +1,1 @@
-var mnemonic = "ship release topple image midnight grunt funny regret point genius okay creek";
+var mnemonic = "brain atom firm shock since air inside claw melody anxiety cement region";

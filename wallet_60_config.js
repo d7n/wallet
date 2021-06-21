@@ -1,1 +1,1 @@
-var mnemonic = "empower bless climb shell winner danger harsh label penalty public worth because";
+var mnemonic = "run struggle auction hard gospel major often caution claw image guess regular";

@@ -1,1 +1,1 @@
-var mnemonic = "height dial one tooth blush debris giant seven curious junior call wolf";
+var mnemonic = "boat asset viable remind scan talent expect purity have improve short wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral evoke comfort alert cloth palm rookie genre veteran skill unable vacant";
+var mnemonic = "exact gap lens scene clip jump brisk curious until monster barrel invite";

@@ -1,1 +1,1 @@
-var mnemonic = "cat exist repeat another make slab follow tower time connect road remember";
+var mnemonic = "amazing pass jeans rib balance property debris liquid loud helmet name fire";

@@ -1,1 +1,1 @@
-var mnemonic = "echo absent original blush category buyer turn seat fall public south rival";
+var mnemonic = "stone love sausage dutch story faint chair travel nerve anger mother find";

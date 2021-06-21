@@ -1,1 +1,1 @@
-var mnemonic = "toy bonus body doll shine mind erase artwork random time train pet";
+var mnemonic = "save perfect hard session elephant media sure crane sort enlist depth prepare";

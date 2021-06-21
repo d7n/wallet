@@ -1,1 +1,1 @@
-var mnemonic = "firm then same maze yellow order flock connect cabbage script hurdle notice";
+var mnemonic = "series obscure group lizard lift hello modify runway sense inflict valve nurse";

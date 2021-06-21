@@ -1,1 +1,1 @@
-var mnemonic = "protect foam become stamp diamond road female coffee globe print swap night";
+var mnemonic = "enroll airport young conduct agree reward engage auction twenty elephant half obvious";

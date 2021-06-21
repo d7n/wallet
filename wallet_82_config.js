@@ -1,1 +1,1 @@
-var mnemonic = "pudding penalty luxury unknown media print decide hire nerve plate exile lucky";
+var mnemonic = "spoon sugar derive roof include spike body spawn soap window cage price";

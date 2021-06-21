@@ -1,1 +1,1 @@
-var mnemonic = "dad enough security relief limb hunt hard glory slow winner online egg";
+var mnemonic = "ticket west brother clutch cook dignity pass chief hurry helmet curve debate";

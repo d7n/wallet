@@ -1,1 +1,1 @@
-var mnemonic = "high business girl risk congress quick robot width service over elder time";
+var mnemonic = "winner scatter venue afraid nest sauce aim emerge resist begin estate hold";

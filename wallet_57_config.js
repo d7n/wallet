@@ -1,1 +1,1 @@
-var mnemonic = "ensure luxury river shine material during hip hunt island bid wreck decide";
+var mnemonic = "desk annual sun dignity narrow addict future crowd abandon animal inmate guide";

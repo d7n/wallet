@@ -1,1 +1,1 @@
-var mnemonic = "hover mango this habit name wolf tackle session fury speak thought inside";
+var mnemonic = "just alley attract length deny balcony host raw into oyster judge butter";

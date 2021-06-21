@@ -1,1 +1,1 @@
-var mnemonic = "habit inhale gap language leg opera input grain vacuum wrap shadow junior";
+var mnemonic = "glass federal atom reopen news state document uncle only soup add disease";

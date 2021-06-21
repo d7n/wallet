@@ -1,1 +1,1 @@
-var mnemonic = "alpha gospel save dragon height giant cattle shadow perfect before toy recipe";
+var mnemonic = "leader regular effort yard increase twenty rich maze render eager fabric obtain";

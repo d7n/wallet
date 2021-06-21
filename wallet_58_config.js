@@ -1,1 +1,1 @@
-var mnemonic = "want science arrange cliff van fatal diamond forget sister skull cart result";
+var mnemonic = "comic party tortoise punch profit arm crawl sausage decade vacant salon decade";

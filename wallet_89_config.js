@@ -1,1 +1,1 @@
-var mnemonic = "suspect goose shiver bacon adult inmate globe upgrade spend trial script two";
+var mnemonic = "number banana giggle tomorrow tragic carry pond intact escape ugly rib caution";

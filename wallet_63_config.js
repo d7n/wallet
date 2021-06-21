@@ -1,1 +1,1 @@
-var mnemonic = "ice concert desert inquiry icon one carbon orphan face burst taxi warrior";
+var mnemonic = "curious innocent banner consider fabric please ensure artwork bullet mobile police cradle";

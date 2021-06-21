@@ -1,1 +1,1 @@
-var mnemonic = "dwarf device ramp decide cupboard scatter owner priority gasp winner flame buyer";
+var mnemonic = "chunk enough quote until grace impact delay welcome decide clerk polar aim";

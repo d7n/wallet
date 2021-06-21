@@ -1,1 +1,1 @@
-var mnemonic = "rather pizza faint guitar arrive plunge inform matter shed famous hole edit";
+var mnemonic = "mesh clay junk cram chase stick shoot alert fortune paper sunny actor";

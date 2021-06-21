@@ -1,1 +1,1 @@
-var mnemonic = "metal inject artwork basic spread airport skirt dune sugar someone hip air";
+var mnemonic = "gas income game energy burden coyote sponsor dress gaze oval ski label";

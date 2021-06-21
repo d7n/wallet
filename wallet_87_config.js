@@ -1,1 +1,1 @@
-var mnemonic = "doctor dash circle inner oblige describe crawl venture soda list rich giraffe";
+var mnemonic = "cereal rib trick crucial rabbit swing bread eye answer pepper cinnamon busy";

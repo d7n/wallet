@@ -1,1 +1,1 @@
-var mnemonic = "history there earn end grow imitate reopen capable accident cereal confirm innocent";
+var mnemonic = "ritual fancy dirt fury curve lift toy awkward subway emotion thank where";

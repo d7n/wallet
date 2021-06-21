@@ -1,1 +1,1 @@
-var mnemonic = "tank multiply slam scale nothing deny medal giggle next minute minor dose";
+var mnemonic = "funny fitness fog coffee post sun board explain abandon bounce quality choice";

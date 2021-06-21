@@ -1,1 +1,1 @@
-var mnemonic = "friend enact execute crater outside three slide claim trash hawk burger upper";
+var mnemonic = "credit extra ability number survey eight orange entry rent depth seat chapter";

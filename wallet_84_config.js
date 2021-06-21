@@ -1,1 +1,1 @@
-var mnemonic = "upset crawl clown curious mix strike dune still push romance receive essay";
+var mnemonic = "viable width riot frame fatigue couch put taste library exhaust zebra dumb";

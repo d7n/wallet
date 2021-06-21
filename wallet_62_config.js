@@ -1,1 +1,1 @@
-var mnemonic = "snack wise broccoli web coral hedgehog ability nephew soap coast hawk bless";
+var mnemonic = "daring chest increase acid employ upon differ crime film drama leave sadness";

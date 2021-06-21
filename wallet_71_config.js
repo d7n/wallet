@@ -1,1 +1,1 @@
-var mnemonic = "deputy insane mango shock drip start usual predict weapon force dignity key";
+var mnemonic = "pistol social decline song camera riot correct happy vicious dose awkward danger";

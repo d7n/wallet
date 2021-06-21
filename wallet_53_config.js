@@ -1,1 +1,1 @@
-var mnemonic = "basic accident uncle arrange idle dragon stove develop enable crush dolphin scrub";
+var mnemonic = "either old remove inmate poverty roast language merge layer female garage capital";

@@ -1,1 +1,1 @@
-var mnemonic = "lake scorpion leader noise frost wrong critic sick among punch deny frost";
+var mnemonic = "iron between dumb climb clinic change man clever happy rebuild satisfy leader";

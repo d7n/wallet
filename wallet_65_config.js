@@ -1,1 +1,1 @@
-var mnemonic = "palace exist cycle chuckle will denial staff angry nothing talk caught chalk";
+var mnemonic = "speak lottery okay apple idea stamp oven already doll energy adjust decide";

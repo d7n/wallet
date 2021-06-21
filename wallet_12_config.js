@@ -1,1 +1,1 @@
-var mnemonic = "area couch upon winner stove peasant canal casino kid ripple open slot";
+var mnemonic = "lounge sense laugh lab strong price joke hat puppy vital mass armor";

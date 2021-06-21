@@ -1,1 +1,1 @@
-var mnemonic = "deny lunar clip plastic firm aware dress visa december run pelican cigar";
+var mnemonic = "balance leave dice inflict marine chase weird rough track popular gown double";

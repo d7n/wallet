@@ -1,1 +1,1 @@
-var mnemonic = "fold fresh skirt balance mango isolate junk champion cover purity cram black";
+var mnemonic = "tell book tag consider bacon alien rebel question shield item warm hold";

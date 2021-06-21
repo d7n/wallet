@@ -1,1 +1,1 @@
-var mnemonic = "wonder clown misery write regular grocery proud snack cluster sister scare useful";
+var mnemonic = "push kitten tomato frown anchor dial front clap hunt load common nation";
