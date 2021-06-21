@@ -1,1 +1,1 @@
-var mnemonic = "middle december ribbon library coach inside room okay mercy ahead monkey creek";
+var mnemonic = "submit rib identify blush process exist goddess oblige crouch slam onion bomb";

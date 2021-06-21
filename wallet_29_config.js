@@ -1,1 +1,1 @@
-var mnemonic = "save dust view disorder surge beauty often sunset pony pride person stumble";
+var mnemonic = "erase fringe option humor describe benefit just orchard police visa certain eye";

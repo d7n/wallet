@@ -1,1 +1,1 @@
-var mnemonic = "auction august improve boat water never crucial remain jazz midnight issue evolve";
+var mnemonic = "general detect hen code flame cake tone desert uncle cruel bulb suffer";

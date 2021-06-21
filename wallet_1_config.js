@@ -1,1 +1,1 @@
-var mnemonic = "cherry morning visa evidence collect critic escape abandon sunset tone car banana";
+var mnemonic = "casual check chicken pelican race net satoshi zero lesson rookie glow bread";

@@ -1,1 +1,1 @@
-var mnemonic = "volume cushion special steak employ tomato horse pony habit avoid awful crumble";
+var mnemonic = "toddler canal truth index turkey submit forest draw march sorry galaxy inherit";

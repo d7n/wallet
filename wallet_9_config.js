@@ -1,1 +1,1 @@
-var mnemonic = "soft secret bind analyst bulb improve pizza desk razor tilt inject execute";
+var mnemonic = "what shop cheap public common afford mountain sense twenty dinosaur deliver nut";

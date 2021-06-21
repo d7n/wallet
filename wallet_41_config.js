@@ -1,1 +1,1 @@
-var mnemonic = "gold spice woman alone fog rural shop claim village fish celery ability";
+var mnemonic = "canal canal slab mechanic stomach sense silver basket pulp liar bless wonder";

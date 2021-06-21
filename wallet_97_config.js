@@ -1,1 +1,1 @@
-var mnemonic = "awesome best machine poverty sniff west gown whale fantasy empower drama decide";
+var mnemonic = "sphere invite couple dinosaur quality problem fabric crouch useful fitness airport diary";

@@ -1,1 +1,1 @@
-var mnemonic = "desk room enough route junk submit fetch practice lake hole rigid reward";
+var mnemonic = "spice top stove pottery extend popular problem rocket puzzle cross trigger empower";

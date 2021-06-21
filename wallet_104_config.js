@@ -1,1 +1,1 @@
-var mnemonic = "teach crazy cruel range income roast vague language shove auction dune oval";
+var mnemonic = "scrub game middle odor toddler summer culture lion lawn clever rely fame";

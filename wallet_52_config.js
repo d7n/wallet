@@ -1,1 +1,1 @@
-var mnemonic = "silver actual hybrid account prison pulse tool dutch cream imitate dry because";
+var mnemonic = "much exercise deliver stay anger mystery easily front enrich craft chimney identify";

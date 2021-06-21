@@ -1,1 +1,1 @@
-var mnemonic = "churn early cart treat emerge grace gaze elbow myself record submit laundry";
+var mnemonic = "guitar heavy glass exist vanish reunion wool view sudden warrior actress glue";

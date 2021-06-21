@@ -1,1 +1,1 @@
-var mnemonic = "picnic timber improve essence violin file glance express jacket web develop head";
+var mnemonic = "gossip anchor mouse weapon about tank original venue advice critic exist scrub";

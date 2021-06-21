@@ -1,1 +1,1 @@
-var mnemonic = "session decrease divorce holiday gather consider false floor dial echo cart tag";
+var mnemonic = "confirm tray provide cigar clerk river width version right timber trust meadow";

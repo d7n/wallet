@@ -1,1 +1,1 @@
-var mnemonic = "alley never upper half banana barely thought hurry horn lamp phone duty";
+var mnemonic = "brush more hotel frame course tide prison analyst live icon number curious";

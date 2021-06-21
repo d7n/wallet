@@ -1,1 +1,1 @@
-var mnemonic = "census market quit diesel defense parent method cousin december kidney skirt chicken";
+var mnemonic = "ahead aerobic guard result spice giant muffin crime miracle any donor clutch";

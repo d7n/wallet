@@ -1,1 +1,1 @@
-var mnemonic = "pyramid dynamic pilot quit cheap spirit uncle rescue menu client defense uncover";
+var mnemonic = "history blue peace vacant card shoot adjust stuff hip hub test scare";

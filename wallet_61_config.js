@@ -1,1 +1,1 @@
-var mnemonic = "pioneer noise hunt shallow pulp stuff twin grape arch false dust void";
+var mnemonic = "struggle dirt ask boy caution offer document afford visa zebra empty forget";

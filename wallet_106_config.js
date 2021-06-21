@@ -1,1 +1,1 @@
-var mnemonic = "replace peace blue trip hole private dog load find evolve prepare truth";
+var mnemonic = "crush fade reform belt rookie future afford spend magnet unveil fluid drum";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling better business trend stable virtual inside fuel habit boost similar police";
+var mnemonic = "remove coil piece choice lumber pitch tuition pledge acoustic win disorder coral";

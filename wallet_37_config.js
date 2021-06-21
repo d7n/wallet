@@ -1,1 +1,1 @@
-var mnemonic = "train entire grant bag wagon bunker hub meadow ostrich reduce pen broken";
+var mnemonic = "toe mystery quote relax history simple witness same song taxi size fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "often crater boost already lava rule brass interest success puppy bag hat";
+var mnemonic = "client peasant put approve edge crane economy skate theory that sport can";

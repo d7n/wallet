@@ -1,1 +1,1 @@
-var mnemonic = "expect gap park taxi liar agent move where useless venture left foil";
+var mnemonic = "expect replace artist print novel awful cup strong debris champion obvious rare";

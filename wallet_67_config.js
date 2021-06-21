@@ -1,1 +1,1 @@
-var mnemonic = "angry worry width master urban heavy auction another simple lady cereal limit";
+var mnemonic = "mosquito ancient world carry wedding pact cube vibrant fee horn card garlic";

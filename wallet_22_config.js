@@ -1,1 +1,1 @@
-var mnemonic = "diamond among sample tell slender rebuild rib kitten rebuild goddess cousin lizard";
+var mnemonic = "net where coconut half alter defy math pencil note secret orchard warm";

@@ -1,1 +1,1 @@
-var mnemonic = "talent expire flush trumpet ring silver juice primary embody today thumb labor";
+var mnemonic = "pair wonder habit van once mixture alpha sauce canvas belt foam romance";

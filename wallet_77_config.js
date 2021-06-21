@@ -1,1 +1,1 @@
-var mnemonic = "gospel reopen stuff angle candy tank bounce ring lawn pig uniform trap";
+var mnemonic = "mirror work diagram spot area vault tackle crucial tiny outer cactus recycle";

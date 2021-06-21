@@ -1,1 +1,1 @@
-var mnemonic = "omit wedding then scale scissors meadow chaos tip select stick jazz early";
+var mnemonic = "book outside arrive sauce process come knock obtain athlete spread small detail";

@@ -1,1 +1,1 @@
-var mnemonic = "critic element mixture divert echo quick switch long regular rhythm busy spot";
+var mnemonic = "skull barely eager process tomorrow reduce nominee hover mercy ordinary found valve";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel friend maze double foster spice urban own news say feel reward";
+var mnemonic = "abstract wide hope jazz ritual obtain board dice identify pool expect zone";

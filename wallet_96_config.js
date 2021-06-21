@@ -1,1 +1,1 @@
-var mnemonic = "cement guard route track admit upon service fever other group absurd exile";
+var mnemonic = "ridge learn frame curve vessel bracket host pledge crucial tank often hospital";

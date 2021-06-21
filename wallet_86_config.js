@@ -1,1 +1,1 @@
-var mnemonic = "this method hello medal lens goat hidden observe hawk next bless galaxy";
+var mnemonic = "side grape puzzle basket response cost piece orphan bus rhythm turkey recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "robust focus alpha lunar borrow jazz priority round grace scare damage pizza";
+var mnemonic = "swear beef grief fiction acid globe observe romance attack century armor athlete";

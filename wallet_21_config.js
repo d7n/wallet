@@ -1,1 +1,1 @@
-var mnemonic = "crash correct sheriff weekend meat mechanic half ethics base case away advice";
+var mnemonic = "flash resource obtain defense second style have brass plunge patrol flash differ";

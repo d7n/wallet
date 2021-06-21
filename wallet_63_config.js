@@ -1,1 +1,1 @@
-var mnemonic = "distance basic coffee coin nut pencil ugly sign stone exit razor must";
+var mnemonic = "conduct turkey boy any juice upon vital property security poverty coyote diamond";

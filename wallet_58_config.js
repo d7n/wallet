@@ -1,1 +1,1 @@
-var mnemonic = "remind pyramid track door language moral oyster ritual harsh type helmet sniff";
+var mnemonic = "acid wet garden tree leopard flip bicycle trim grid twice together deliver";

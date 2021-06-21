@@ -1,1 +1,1 @@
-var mnemonic = "ask okay describe inch vacant company undo giant hungry enforce stick source";
+var mnemonic = "guilt run dismiss candy rally beach pupil meat age dice december announce";

@@ -1,1 +1,1 @@
-var mnemonic = "gather pear camp trade thumb enjoy bachelor wing ten update box side";
+var mnemonic = "crew office goddess danger drop atom bottom purpose elegant coil author buddy";

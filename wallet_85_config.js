@@ -1,1 +1,1 @@
-var mnemonic = "denial frame zero feel slight clinic lonely bargain minute include happy bird";
+var mnemonic = "surprise artefact vote focus real monster notice crumble journey joy general enable";

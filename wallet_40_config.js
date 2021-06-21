@@ -1,1 +1,1 @@
-var mnemonic = "project latin electric file empty beef ocean bargain color crime trouble decade";
+var mnemonic = "adjust slow weird water shield neck catalog pepper eternal day fashion crater";

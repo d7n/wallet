@@ -1,1 +1,1 @@
-var mnemonic = "split priority music found order search possible copper result cry exile canoe";
+var mnemonic = "neither beef fall story nephew ozone cover crunch metal bus pupil family";

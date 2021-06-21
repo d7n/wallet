@@ -1,1 +1,1 @@
-var mnemonic = "resource length rigid modify waste woman begin right fire search learn elegant";
+var mnemonic = "viable add spirit father talent mistake weather surprise spell supreme weasel alone";

@@ -1,1 +1,1 @@
-var mnemonic = "reduce aunt transfer middle tiny father curve glow special crash sample myself";
+var mnemonic = "cement siege clown volcano when asset attack focus useful risk fine fancy";

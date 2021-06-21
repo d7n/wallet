@@ -1,1 +1,1 @@
-var mnemonic = "hawk fire aware pottery denial property rebel expect furnace couple child whisper";
+var mnemonic = "nose catch beauty trial scene pioneer noble lava finger axis brother journey";

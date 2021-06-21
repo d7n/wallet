@@ -1,1 +1,1 @@
-var mnemonic = "harsh bullet hope almost roof regret awake hospital dose escape join wedding";
+var mnemonic = "collect odor feature live arctic often curious cabbage rug marble nerve truck";

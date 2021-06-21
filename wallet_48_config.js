@@ -1,1 +1,1 @@
-var mnemonic = "stairs fence urban heart there artefact winner brick scout taxi feed hungry";
+var mnemonic = "mass myth search orange bargain salmon bean cage museum upon spike parent";

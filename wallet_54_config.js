@@ -1,1 +1,1 @@
-var mnemonic = "damage ginger puzzle zoo salmon more slush rifle cart sentence aunt author";
+var mnemonic = "lumber verify hockey follow female trigger endless bicycle fall idea result judge";

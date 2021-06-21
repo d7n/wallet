@@ -1,1 +1,1 @@
-var mnemonic = "cherry size tiger cover roast wrist leg outside neck balcony chimney guard";
+var mnemonic = "kind dash gasp floor flavor shed view orange clarify hole version speed";

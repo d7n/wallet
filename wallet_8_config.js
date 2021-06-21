@@ -1,1 +1,1 @@
-var mnemonic = "bird frown issue indicate trim mosquito spend select disorder winter photo flock";
+var mnemonic = "claw exchange lawsuit kit endless talent idea excess core emotion fine curve";

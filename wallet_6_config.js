@@ -1,1 +1,1 @@
-var mnemonic = "seven dynamic good know discover daring pen image diet orient clutch tube";
+var mnemonic = "initial betray census system faith pencil skill cover cook grunt upper lunch";

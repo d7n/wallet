@@ -1,1 +1,1 @@
-var mnemonic = "curious winner evil wreck feed clog donor estate odor joke debate crater";
+var mnemonic = "marriage rent room bamboo author balcony arch write kangaroo swap weasel whip";

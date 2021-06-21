@@ -1,1 +1,1 @@
-var mnemonic = "lady obtain round frequent machine winter gas jeans solid sail spare amazing";
+var mnemonic = "cat arrange mirror mutual case worry design pear jewel song old wonder";

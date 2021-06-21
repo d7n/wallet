@@ -1,1 +1,1 @@
-var mnemonic = "depth next nasty observe flock kind wreck armed win clog alter abstract";
+var mnemonic = "garden fortune swap profit lunch anchor jazz very enact wing supreme plate";

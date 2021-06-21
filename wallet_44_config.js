@@ -1,1 +1,1 @@
-var mnemonic = "sea dash detect acid mosquito embark crouch tube private cake floor tiny";
+var mnemonic = "jump blind hip excess critic comfort fuel satisfy device cinnamon note speak";

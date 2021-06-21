@@ -1,1 +1,1 @@
-var mnemonic = "marine expect talent fee swarm demise loyal wreck issue air valve atom";
+var mnemonic = "reform ignore place sibling bronze lonely team fly puppy rigid exact neither";

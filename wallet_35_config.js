@@ -1,1 +1,1 @@
-var mnemonic = "mad able advance random crash plunge brown forward shove master entry crack";
+var mnemonic = "garlic fresh mango between avocado smoke doctor library vague finger adult forward";

@@ -1,1 +1,1 @@
-var mnemonic = "loyal wet fatal help banana minute host faint night confirm sorry wash";
+var mnemonic = "mean side swear angry salad time autumn punch genius gain poet park";

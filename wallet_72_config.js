@@ -1,1 +1,1 @@
-var mnemonic = "crater concert pony faint blade waste host eye save problem bunker possible";
+var mnemonic = "head nominee profit lake sauce damp doctor inspire echo dash key creek";

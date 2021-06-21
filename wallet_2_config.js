@@ -1,1 +1,1 @@
-var mnemonic = "puzzle breeze snack fatal barrel luxury rare erosion enjoy ozone modify novel";
+var mnemonic = "quiz accident minute sniff seminar swear sight act old leaf bulb pledge";

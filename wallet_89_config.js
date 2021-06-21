@@ -1,1 +1,1 @@
-var mnemonic = "avoid this submit spike shrug mad junk dilemma pave vocal fire pattern";
+var mnemonic = "clutch ribbon rebel neglect upon guilt whisper grit decide correct mention tissue";

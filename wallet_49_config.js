@@ -1,1 +1,1 @@
-var mnemonic = "joy leisure pupil all million industry pencil innocent sad goddess broccoli frozen";
+var mnemonic = "tobacco three horse load trophy message depend crash brain frown net leopard";

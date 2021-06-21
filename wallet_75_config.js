@@ -1,1 +1,1 @@
-var mnemonic = "attitude index buyer rib crop edge problem tent make fork fancy sample";
+var mnemonic = "emotion move rhythm reward canoe wood affair clinic permit rotate bone sugar";

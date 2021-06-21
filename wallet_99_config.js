@@ -1,1 +1,1 @@
-var mnemonic = "track gloom parrot option ostrich huge arrive crash what grant ill milk";
+var mnemonic = "general boat flavor dial midnight husband mouse action ecology educate utility depart";

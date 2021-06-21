@@ -1,1 +1,1 @@
-var mnemonic = "cloth tragic elevator dune idle history lobster traffic witness ticket lemon climb";
+var mnemonic = "access action warm dad blast hawk beef dose tourist skirt enough spawn";

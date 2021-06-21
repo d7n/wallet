@@ -1,1 +1,1 @@
-var mnemonic = "weasel join material online bone ecology pledge host hire stereo already castle";
+var mnemonic = "index spice rebel cart north cancel subject ordinary flee fire tornado payment";

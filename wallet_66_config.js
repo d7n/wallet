@@ -1,1 +1,1 @@
-var mnemonic = "catch version torch fiscal staff six video soap verify hawk receive relax";
+var mnemonic = "solar this stem allow steak twice large culture slim ill rapid economy";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt prepare cruel category comfort wine put meat together old eagle reflect";
+var mnemonic = "boy same enhance process tube umbrella wrap hungry elevator seed humor venture";

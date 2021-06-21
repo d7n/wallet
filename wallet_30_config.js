@@ -1,1 +1,1 @@
-var mnemonic = "library humor laundry bargain ignore sentence purse tide token arena speak panda";
+var mnemonic = "penalty caution toward flash reform impose silk swing evidence dune harbor hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "team wheel faith column valve orbit where elite opinion sentence valve exchange";
+var mnemonic = "hold hybrid purity pretty sing security demise later super person nuclear object";

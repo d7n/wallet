@@ -1,1 +1,1 @@
-var mnemonic = "program coach just service riot inspire eagle size good process gauge talent";
+var mnemonic = "poet giggle myth carpet goat organ easy soccer elite solid rebel attract";

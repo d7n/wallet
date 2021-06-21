@@ -1,1 +1,1 @@
-var mnemonic = "render execute leaf elder toilet pistol typical position siege section south eyebrow";
+var mnemonic = "discover few burden priority total welcome essay oyster document shuffle emotion monster";

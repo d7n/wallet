@@ -1,1 +1,1 @@
-var mnemonic = "broccoli liar trick crunch few punch science feed copy increase tackle term";
+var mnemonic = "payment sad theory bike upset post honey figure domain pipe purchase large";

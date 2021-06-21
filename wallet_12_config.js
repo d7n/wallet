@@ -1,1 +1,1 @@
-var mnemonic = "hover polar sail one hill innocent sustain chef valve match razor fantasy";
+var mnemonic = "like visual soup bounce deposit enough insane scan faith depend rack seek";

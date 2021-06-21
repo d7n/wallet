@@ -1,1 +1,1 @@
-var mnemonic = "south elegant hollow play enforce secret start federal flavor boost defense cost";
+var mnemonic = "twin base lobster turn term primary castle host nasty news animal then";

@@ -1,1 +1,1 @@
-var mnemonic = "leave cactus crystal globe elegant garbage rapid slide sand resource amazing any";
+var mnemonic = "blast taste cute wild finish ride recycle manage extend just reduce taste";

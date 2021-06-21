@@ -1,1 +1,1 @@
-var mnemonic = "season inherit sibling kitten forest argue fun vehicle ethics sorry play road";
+var mnemonic = "float lucky comic combine push media lion mixed zero nice glow dry";

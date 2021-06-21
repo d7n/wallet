@@ -1,1 +1,1 @@
-var mnemonic = "plate blast stadium pulse phrase jewel ribbon shove dutch globe home doll";
+var mnemonic = "foam phone insane ahead decrease submit crouch erupt draw stock federal chaos";

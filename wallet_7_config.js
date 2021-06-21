@@ -1,1 +1,1 @@
-var mnemonic = "word west mammal off soon magic connect dress swamp bone around volume";
+var mnemonic = "blur hamster winter enact produce sound clip stool impulse stove candy civil";

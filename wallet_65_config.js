@@ -1,1 +1,1 @@
-var mnemonic = "gasp give radar village trade excite oven system ketchup spirit slot menu";
+var mnemonic = "planet asthma slogan audit prize shy globe bridge consider nature describe grain";

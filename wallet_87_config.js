@@ -1,1 +1,1 @@
-var mnemonic = "job embark bicycle round surprise guilt winner tenant shrug vibrant image solid";
+var mnemonic = "climb sheriff park execute raccoon stable blood scan citizen more grief february";

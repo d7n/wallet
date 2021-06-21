@@ -1,1 +1,1 @@
-var mnemonic = "federal nation you style swing ozone begin double poem soft later digital";
+var mnemonic = "latin gold silly over toe cigar fence twice soon master upgrade tree";

@@ -1,1 +1,1 @@
-var mnemonic = "safe rural assault web core mesh motion make chat present believe argue";
+var mnemonic = "giraffe doctor object case vicious place garage festival room whisper spell clog";

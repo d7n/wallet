@@ -1,1 +1,1 @@
-var mnemonic = "large picture junk token side witness inject dinner latin fragile cream quick";
+var mnemonic = "expose pause soap twelve spoon ghost need ready taxi snow harvest protect";

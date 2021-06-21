@@ -1,1 +1,1 @@
-var mnemonic = "bus frost guitar super doctor remove awake eyebrow already blue balance harbor";
+var mnemonic = "canoe decorate health grow traffic remain remember punch erase damp deal deposit";
