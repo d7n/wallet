@@ -1,1 +1,1 @@
-var mnemonic = "orchard suspect rookie panic lyrics thumb inherit own old easily account mimic";
+var mnemonic = "immune rather lab frown myth inch trick man lion car text jewel";

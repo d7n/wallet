@@ -1,1 +1,1 @@
-var mnemonic = "smoke segment impulse number hammer accuse diagram basic talk outer swear arm";
+var mnemonic = "six negative soul acid gain lesson push divert replace never middle behind";

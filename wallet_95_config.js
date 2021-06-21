@@ -1,1 +1,1 @@
-var mnemonic = "unaware debris example they final pill oyster nerve angry bitter accident across";
+var mnemonic = "orange doll actual credit section dinner blood merge inside vapor yard fire";

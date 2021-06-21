@@ -1,1 +1,1 @@
-var mnemonic = "ladder click process reunion clean ripple mammal grit away salute error nuclear";
+var mnemonic = "cigar rice hover elbow online sure rabbit arctic twice humor garment frame";

@@ -1,1 +1,1 @@
-var mnemonic = "glove loud soul old vivid sadness dune elite amount solution kick stable";
+var mnemonic = "guess abandon sure scan garment hole swift season exhibit head slogan wreck";

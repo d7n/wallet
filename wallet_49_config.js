@@ -1,1 +1,1 @@
-var mnemonic = "orbit skate member dinner achieve raven upper robust squeeze document coyote carpet";
+var mnemonic = "soda foam save usage success truck art nerve alone attract keen amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "process upper comic stick office doctor gadget heart twelve finger equal tooth";
+var mnemonic = "seed thunder ecology afford oxygen valid usage junior suspect knock bus beach";

@@ -1,1 +1,1 @@
-var mnemonic = "diary turkey unhappy math rough air latin adjust step drop employ cart";
+var mnemonic = "net gesture reduce system wagon measure actress ecology magnet exercise slim general";

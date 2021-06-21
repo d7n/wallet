@@ -1,1 +1,1 @@
-var mnemonic = "rifle uncle razor spare tobacco party vague legal behave car impose coast";
+var mnemonic = "awful learn cloud such indoor drop tornado accident equal rail evolve swift";

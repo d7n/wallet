@@ -1,1 +1,1 @@
-var mnemonic = "pear add rack short stove road march electric judge captain business cheap";
+var mnemonic = "install jelly pilot leg still gym coast syrup arena bachelor clean father";

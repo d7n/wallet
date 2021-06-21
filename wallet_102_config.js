@@ -1,1 +1,1 @@
-var mnemonic = "quality mesh era digital genre buzz entry dune craft smart field confirm";
+var mnemonic = "they atom ice coyote wait uncle avoid surprise symbol abandon guard alley";

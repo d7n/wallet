@@ -1,1 +1,1 @@
-var mnemonic = "census modify million mercy couple blind jungle warfare track buffalo pottery alter";
+var mnemonic = "decline plug marble profit devote sword cousin problem quantum vintage main annual";

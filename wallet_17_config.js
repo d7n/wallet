@@ -1,1 +1,1 @@
-var mnemonic = "notable manual economy orient catch panda disorder twelve sting onion crowd employ";
+var mnemonic = "educate loan bone glide fame split scatter habit explain hamster nuclear bus";

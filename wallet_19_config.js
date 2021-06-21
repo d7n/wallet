@@ -1,1 +1,1 @@
-var mnemonic = "alien choose lesson bargain love tag awake cloth enable question provide champion";
+var mnemonic = "attitude scorpion sign excuse edge walnut pyramid blind burden flight erosion survey";

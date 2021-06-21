@@ -1,1 +1,1 @@
-var mnemonic = "cradle differ taste follow manage conduct camera inside skate side cigar come";
+var mnemonic = "merit prevent tilt pull recipe learn way tip harbor oblige open multiply";

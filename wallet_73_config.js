@@ -1,1 +1,1 @@
-var mnemonic = "mixture sun insect come error lab jealous empty faculty leave party door";
+var mnemonic = "tide ten glass struggle category exclude away alpha gloom provide mention move";

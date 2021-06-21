@@ -1,1 +1,1 @@
-var mnemonic = "inner roof rival health erode mom record observe observe rug shallow ozone";
+var mnemonic = "obey setup better aspect now segment emotion pond recipe toast economy online";

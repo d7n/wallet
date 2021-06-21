@@ -1,1 +1,1 @@
-var mnemonic = "artefact fabric negative glance asset canvas during found damp ridge buffalo order";
+var mnemonic = "such portion consider column minor treat utility gaze enjoy cube youth ten";

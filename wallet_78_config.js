@@ -1,1 +1,1 @@
-var mnemonic = "color margin faith belt breeze ethics daughter suffer disagree rabbit same silk";
+var mnemonic = "entry legend intact host anger expand cherry slight cargo trash unfold exit";

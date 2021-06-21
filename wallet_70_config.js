@@ -1,1 +1,1 @@
-var mnemonic = "tumble elite search antique pair transfer nasty among guess drop thought theory";
+var mnemonic = "wrap caution odor raw crystal payment fossil tray bulk turkey giraffe provide";

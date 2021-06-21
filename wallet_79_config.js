@@ -1,1 +1,1 @@
-var mnemonic = "grit eight supply soccer mention toward estate sad eternal snow mad dress";
+var mnemonic = "attend lunch seed media charge oblige lend moon metal crucial speak avocado";

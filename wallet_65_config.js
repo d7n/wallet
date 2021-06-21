@@ -1,1 +1,1 @@
-var mnemonic = "spread mention bread sadness uncle faith link brisk clock fabric much online";
+var mnemonic = "thunder verb stomach recycle depart track issue where claim vibrant language host";

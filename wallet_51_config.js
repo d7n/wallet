@@ -1,1 +1,1 @@
-var mnemonic = "sister damage zoo parent violin coral paddle autumn ecology item grain diesel";
+var mnemonic = "distance short favorite resource leisure unknown never before rural trial lyrics photo";

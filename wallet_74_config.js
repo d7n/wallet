@@ -1,1 +1,1 @@
-var mnemonic = "alpha turn pizza one dizzy spice kid answer control say humor dawn";
+var mnemonic = "vacant quit video adjust junk desert debate great coach unfair box asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble three device unable pool between online festival elder vintage family vault";
+var mnemonic = "legend you vicious receive curious risk during connect jaguar bracket volume major";

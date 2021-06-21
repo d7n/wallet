@@ -1,1 +1,1 @@
-var mnemonic = "list nation release hand frog potato grit tourist panther essay music this";
+var mnemonic = "note surge hurt barrel polar grunt wonder math crowd cup enemy depart";

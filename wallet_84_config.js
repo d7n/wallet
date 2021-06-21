@@ -1,1 +1,1 @@
-var mnemonic = "cream sausage upgrade general forget educate weasel absurd session hockey impulse need";
+var mnemonic = "town clever situate spoil flight supply okay head agree stem crawl brief";

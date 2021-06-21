@@ -1,1 +1,1 @@
-var mnemonic = "ugly arrest opinion ability cart myself fitness famous space luggage soldier village";
+var mnemonic = "arrive eager hammer sight spread chuckle ozone wolf renew demise wonder mouse";

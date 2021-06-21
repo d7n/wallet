@@ -1,1 +1,1 @@
-var mnemonic = "salute rookie faith exhaust visit escape pull forward trumpet wise verb tonight";
+var mnemonic = "quiz surround cement defense giant hotel custom stand grid aisle can inch";

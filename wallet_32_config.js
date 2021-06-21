@@ -1,1 +1,1 @@
-var mnemonic = "guilt winter pair grunt fan copper fall toilet slush forest solid humble";
+var mnemonic = "forward produce lab buyer imitate fossil measure disease demand cherry earth repeat";

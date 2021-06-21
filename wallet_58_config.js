@@ -1,1 +1,1 @@
-var mnemonic = "gather symptom lunar toward this metal exile fluid odor tragic cricket apart";
+var mnemonic = "young rare divide sudden they horn real novel submit balcony power genius";

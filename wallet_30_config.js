@@ -1,1 +1,1 @@
-var mnemonic = "cousin bomb onion shadow glue dumb chronic young prosper solve ankle diamond";
+var mnemonic = "armor enable together program hawk hand strike fun bamboo dial caution poet";

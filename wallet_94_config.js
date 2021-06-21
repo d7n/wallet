@@ -1,1 +1,1 @@
-var mnemonic = "early fatigue cool cigar husband knife glue call venture mimic congress vocal";
+var mnemonic = "glide decline hurdle frozen subway hint bulb reject bonus squirrel enhance bounce";

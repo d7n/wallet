@@ -1,1 +1,1 @@
-var mnemonic = "wisdom remove table change answer fire stumble subject rich match swamp begin";
+var mnemonic = "access size proof spring hawk involve divide magic hockey then only orient";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial language visit divert order energy interest spare solve switch attract rare";
+var mnemonic = "artist impose catalog deny believe arm peanut bicycle puppy there quiz match";

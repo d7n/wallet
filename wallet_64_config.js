@@ -1,1 +1,1 @@
-var mnemonic = "level bench mirror suggest dog note glance fever ceiling found cover ten";
+var mnemonic = "chalk tree praise leader egg rifle recipe few decline still crash purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "filter neutral repair drum mango lawsuit roof runway awkward address dress monitor";
+var mnemonic = "fan digital leopard artist genre alley orchard feed twice win merit blossom";

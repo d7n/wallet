@@ -1,1 +1,1 @@
-var mnemonic = "grass polar strong square balcony noble giraffe subway belt carbon biology october";
+var mnemonic = "ankle doctor cash breeze slim parrot order awkward inch satoshi present embrace";

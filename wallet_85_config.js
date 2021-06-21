@@ -1,1 +1,1 @@
-var mnemonic = "region blood engage toward peace actress deliver wrap piece rabbit gas leader";
+var mnemonic = "advance inspire accident lock flip travel fiber urge magnet slot strategy drill";

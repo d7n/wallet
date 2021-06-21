@@ -1,1 +1,1 @@
-var mnemonic = "club close song buyer surface ball danger swamp stove wire glass omit";
+var mnemonic = "dilemma such cool cancel eyebrow canyon pear payment tail perfect six labor";

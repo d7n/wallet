@@ -1,1 +1,1 @@
-var mnemonic = "hat spend party scissors matrix various trap robust profit minor pond year";
+var mnemonic = "border virtual jelly maple soccer over eternal snack virtual tragic must few";

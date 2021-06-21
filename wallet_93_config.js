@@ -1,1 +1,1 @@
-var mnemonic = "dust fee stamp theme comic order bike reopen wreck desk design kick";
+var mnemonic = "day skill fork oyster lens hold stamp rural autumn pause foil general";

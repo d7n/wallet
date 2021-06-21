@@ -1,1 +1,1 @@
-var mnemonic = "must cage useful shine length knock mean shoe grief emotion budget result";
+var mnemonic = "identify cruise salon category bar pulp gift rotate dismiss embrace brisk struggle";

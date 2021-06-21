@@ -1,1 +1,1 @@
-var mnemonic = "bachelor combine six purchase scheme remember element option salon blossom faculty violin";
+var mnemonic = "color magic outdoor whisper always pattern lawsuit unlock sight artefact common month";

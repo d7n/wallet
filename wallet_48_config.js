@@ -1,1 +1,1 @@
-var mnemonic = "foam trumpet injury example edge all fun decline media lens dumb great";
+var mnemonic = "napkin route excite south antenna health lumber patient admit boat fog slush";

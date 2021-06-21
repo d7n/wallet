@@ -1,1 +1,1 @@
-var mnemonic = "crash crater tribe crush antenna suspect spot alone limit viable avocado evil";
+var mnemonic = "catch century ring lunar session butter hub emerge parent left picture charge";

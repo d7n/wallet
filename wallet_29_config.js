@@ -1,1 +1,1 @@
-var mnemonic = "music borrow damp nuclear boss then gown farm today illness forward race";
+var mnemonic = "frequent file apology essay verify second tray orchard jump current verify embody";

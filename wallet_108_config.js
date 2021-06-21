@@ -1,1 +1,1 @@
-var mnemonic = "during word travel learn cloth canvas used divert deputy rude naive doctor";
+var mnemonic = "census news kind wine enforce local pelican federal marriage trial lion hill";

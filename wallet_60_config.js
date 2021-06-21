@@ -1,1 +1,1 @@
-var mnemonic = "right shrimp fence alone child angry verify doll pumpkin tooth venture bone";
+var mnemonic = "athlete midnight era trap little net coin glue member elbow harvest sea";

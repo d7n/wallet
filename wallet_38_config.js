@@ -1,1 +1,1 @@
-var mnemonic = "slab silly resist metal canyon sense trust happy trumpet enroll casual spot";
+var mnemonic = "once fragile again artwork plastic country teach panther above sniff lens cereal";

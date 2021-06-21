@@ -1,1 +1,1 @@
-var mnemonic = "tourist inherit habit marble top cash very empower hockey million cousin twice";
+var mnemonic = "galaxy general actress trigger student ankle prosper height photo claw lounge nation";

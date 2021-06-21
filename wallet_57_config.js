@@ -1,1 +1,1 @@
-var mnemonic = "impact shop problem tower aspect planet fish weird adjust dish decline destroy";
+var mnemonic = "amazing impose lumber foot copper guilt insane relief trust settle frozen capable";

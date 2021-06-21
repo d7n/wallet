@@ -1,1 +1,1 @@
-var mnemonic = "gravity viable tunnel intact appear dirt toddler try hold allow excuse elegant";
+var mnemonic = "unit grit zero stove input love brick clap dutch match private situate";

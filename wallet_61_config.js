@@ -1,1 +1,1 @@
-var mnemonic = "immune reopen outer juice letter tribe hope glance dawn deputy spy drift";
+var mnemonic = "aunt sunny crawl purse violin window melody mechanic april wild coast amateur";

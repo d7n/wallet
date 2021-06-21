@@ -1,1 +1,1 @@
-var mnemonic = "regular gown guilt other better pledge paper excuse stairs liberty fatigue near";
+var mnemonic = "apology price cloth congress spare cat copy depart snake fence appear toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "tide way offer cereal pizza stadium swift chuckle depth produce palace hour";
+var mnemonic = "daughter inch avoid wide battle monster armor expect bone rule undo lock";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone drip topic police exchange pony column someone pill soap inject pull";
+var mnemonic = "forward marble kitchen electric decorate cable tourist glue gasp review hold say";

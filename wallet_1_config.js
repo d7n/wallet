@@ -1,1 +1,1 @@
-var mnemonic = "narrow tuna run debate exercise involve lawn health arch genre room letter";
+var mnemonic = "average blood feed buyer upgrade forum prosper lumber venture iron major advice";

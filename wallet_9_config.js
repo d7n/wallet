@@ -1,1 +1,1 @@
-var mnemonic = "shield canyon grape prevent more mercy vote lens brave fancy tortoise dress";
+var mnemonic = "cat margin tip pool close pumpkin penalty acid subway admit boss hand";

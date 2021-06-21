@@ -1,1 +1,1 @@
-var mnemonic = "bleak liquid print present logic practice injury index primary curtain that direct";
+var mnemonic = "tail tower undo lobster include unique stomach uncover apple point century fly";

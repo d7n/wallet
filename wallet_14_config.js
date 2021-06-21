@@ -1,1 +1,1 @@
-var mnemonic = "liberty veteran gloom recipe news sorry give correct inject dignity jelly hood";
+var mnemonic = "bicycle hope gauge false frog liquid ride tackle limit priority witness radio";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor truck sun mad vocal bench tongue office oppose account course round";
+var mnemonic = "hurt salmon kitchen swap shaft pioneer armor base water rabbit pyramid mistake";

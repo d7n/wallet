@@ -1,1 +1,1 @@
-var mnemonic = "goddess rule shove memory subway below this puzzle pride cram beach victory";
+var mnemonic = "install accuse debris pistol lizard humor capital first defy awake faith notice";

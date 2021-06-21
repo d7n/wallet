@@ -1,1 +1,1 @@
-var mnemonic = "deer mother remember patch scene club style dial give attend stable oppose";
+var mnemonic = "brick reduce double project erupt silk beyond hungry album unique defense bachelor";

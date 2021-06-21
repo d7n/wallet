@@ -1,1 +1,1 @@
-var mnemonic = "monitor divorce cattle place few next resist payment office candy okay pact";
+var mnemonic = "assume member recycle small language lunar armed okay uncle giant zone lady";

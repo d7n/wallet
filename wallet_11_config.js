@@ -1,1 +1,1 @@
-var mnemonic = "two quality pet doll essence buffalo dish exercise judge razor simple robust";
+var mnemonic = "lawsuit crawl kiwi blood erode vehicle educate trick fall decorate cram cup";

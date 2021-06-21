@@ -1,1 +1,1 @@
-var mnemonic = "half spider sleep nut ranch poem photo current priority rally bag rent";
+var mnemonic = "woman remind legend brick reform small enforce wonder comfort shield lecture crystal";

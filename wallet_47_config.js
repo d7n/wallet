@@ -1,1 +1,1 @@
-var mnemonic = "exact way flight blossom rule toast miss shove decrease angry mobile wheel";
+var mnemonic = "hidden suspect rural glue employ broken bacon toast source drop employ wage";

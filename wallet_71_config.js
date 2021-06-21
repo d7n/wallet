@@ -1,1 +1,1 @@
-var mnemonic = "course rally alert install own green mango jazz barrel number agree machine";
+var mnemonic = "giggle south grass mind alarm involve pool clutch lava moral observe add";

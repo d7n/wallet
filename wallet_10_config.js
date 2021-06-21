@@ -1,1 +1,1 @@
-var mnemonic = "exact employ antique fantasy concert clinic stumble same sense sun coffee drop";
+var mnemonic = "add between truth situate abuse rapid spot hip ribbon leader strategy illegal";

@@ -1,1 +1,1 @@
-var mnemonic = "parade motion throw mercy thought dilemma suggest wear eye hero suit catalog";
+var mnemonic = "mobile concert sea mandate shoe normal morning disorder coin maid arrest mix";

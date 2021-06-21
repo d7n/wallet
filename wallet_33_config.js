@@ -1,1 +1,1 @@
-var mnemonic = "rhythm casino neck uncle approve virus flock grid indicate you possible tunnel";
+var mnemonic = "sketch disease portion book toilet win gorilla uncle idle butter damp wall";

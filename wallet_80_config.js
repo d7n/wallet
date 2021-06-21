@@ -1,1 +1,1 @@
-var mnemonic = "judge slice embody easy follow pigeon offer crash goat section govern ladder";
+var mnemonic = "chair put magnet artist balance coconut wrap hockey urban welcome kingdom belt";

@@ -1,1 +1,1 @@
-var mnemonic = "sad enrich pool charge cotton uniform dad know chief inspire someone notice";
+var mnemonic = "melody all slab decide seminar never online demise tattoo bachelor frost birth";

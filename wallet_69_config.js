@@ -1,1 +1,1 @@
-var mnemonic = "recall knee fiscal hand detail shrug ship light only recipe noodle under";
+var mnemonic = "rubber liquid endorse oyster cover route lock banana forget force chair cream";

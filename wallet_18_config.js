@@ -1,1 +1,1 @@
-var mnemonic = "settle welcome machine plastic merit smoke torch wheat holiday this jar hobby";
+var mnemonic = "name matrix board grocery sketch slight depend soft gospel pulp subway two";

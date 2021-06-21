@@ -1,1 +1,1 @@
-var mnemonic = "cake welcome region next change lens smile swarm gasp rocket predict obtain";
+var mnemonic = "firm marble spot near laugh behave mesh garage galaxy brother utility silk";

@@ -1,1 +1,1 @@
-var mnemonic = "daring father coach grant eyebrow wise shuffle balcony hen flower near lake";
+var mnemonic = "stumble never stool neutral basket noodle joy matrix know together hen bachelor";

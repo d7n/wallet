@@ -1,1 +1,1 @@
-var mnemonic = "dog safe core pen foam pluck crime clever wasp click three useless";
+var mnemonic = "corn spike demand smoke rocket network carbon outside chief fly punch fall";

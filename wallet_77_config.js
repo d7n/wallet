@@ -1,1 +1,1 @@
-var mnemonic = "fetch keep amateur shrug bright picnic struggle upon alien diet month cheap";
+var mnemonic = "pipe wrap woman asthma arrange permit alert adjust skate blur liquid loyal";

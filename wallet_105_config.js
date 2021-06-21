@@ -1,1 +1,1 @@
-var mnemonic = "bulk neutral ceiling recycle twice expose swear mobile credit lounge math input";
+var mnemonic = "jump all eye inflict knife scissors diesel sleep coast convince exhibit filter";

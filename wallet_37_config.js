@@ -1,1 +1,1 @@
-var mnemonic = "media autumn gift put decide leisure child visa enemy pudding captain spoil";
+var mnemonic = "stuff spice choice skull traffic rent child clutch giraffe bargain punch bulk";

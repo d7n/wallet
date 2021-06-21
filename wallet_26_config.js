@@ -1,1 +1,1 @@
-var mnemonic = "social coffee visual cigar sea happy know dial flush domain quantum chimney";
+var mnemonic = "world planet tent false horse frame chase alarm grace essay border stumble";

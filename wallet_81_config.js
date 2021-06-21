@@ -1,1 +1,1 @@
-var mnemonic = "bullet junior omit snap allow ridge october pole piano fun surprise custom";
+var mnemonic = "hunt giant another aware alpha baby resource south adult perfect powder neither";

@@ -1,1 +1,1 @@
-var mnemonic = "estate imitate cause raw broken fury where nerve pet lesson local boost";
+var mnemonic = "melt attend author modify absorb cable atom main crumble embark virus devote";

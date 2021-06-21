@@ -1,1 +1,1 @@
-var mnemonic = "couple assume whip silent brass little double aware enlist edit rocket ring";
+var mnemonic = "damp barely term vague chapter march zone rebuild more lemon dizzy casino";

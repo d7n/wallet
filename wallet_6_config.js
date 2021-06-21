@@ -1,1 +1,1 @@
-var mnemonic = "agree slush drum horror poet prevent belt leader task unfair obscure man";
+var mnemonic = "magic leisure skill few vehicle rich birth crowd atom offer forum illness";

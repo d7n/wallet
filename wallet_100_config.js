@@ -1,1 +1,1 @@
-var mnemonic = "bulk muscle glass stomach urban typical cheap deny praise surge fiction outdoor";
+var mnemonic = "fortune exit real census verify champion fruit talk excite armed elephant matter";

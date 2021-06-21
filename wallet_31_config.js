@@ -1,1 +1,1 @@
-var mnemonic = "feature rose upset spray buzz range language pattern ship border repair hammer";
+var mnemonic = "illness finger glad crop weekend spy amazing boost tiny puppy seat level";

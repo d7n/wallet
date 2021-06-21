@@ -1,1 +1,1 @@
-var mnemonic = "enemy myth delay winter bag chief person behind air original rough jealous";
+var mnemonic = "couple surround curve man come soap supply near very crew slow faith";
