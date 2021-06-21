@@ -1,1 +1,1 @@
-var mnemonic = "trophy tuna rebuild cloth sphere frequent govern calm spike dune dirt violin";
+var mnemonic = "reject jelly pelican tell truly sing guess lava penalty tell drink confirm";

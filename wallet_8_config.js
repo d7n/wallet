@@ -1,1 +1,1 @@
-var mnemonic = "raccoon street army person draw payment retire sugar inhale system discover page";
+var mnemonic = "expose magnet donkey transfer auction wood crime ivory hollow cycle onion private";

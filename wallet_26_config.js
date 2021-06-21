@@ -1,1 +1,1 @@
-var mnemonic = "rare drive tongue invest army foster carbon enter tiny artwork shift claim";
+var mnemonic = "wheat february auction involve lounge design asthma forum water border cave impulse";

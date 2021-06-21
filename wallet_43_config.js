@@ -1,1 +1,1 @@
-var mnemonic = "coconut version melody talk glance portion boat pumpkin emotion concert scorpion farm";
+var mnemonic = "island concert castle food green gesture fame explain maze measure pottery excess";

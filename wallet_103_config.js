@@ -1,1 +1,1 @@
-var mnemonic = "animal luxury bless sting drum limit ship unhappy reject scan humble stadium";
+var mnemonic = "latin dragon demand matter air neither sing sand debris slim high bench";

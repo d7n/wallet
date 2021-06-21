@@ -1,1 +1,1 @@
-var mnemonic = "donkey panther witness ride artist captain spell road apple melt paddle item";
+var mnemonic = "escape hair safe since above aware atom patient bracket leave sustain oxygen";

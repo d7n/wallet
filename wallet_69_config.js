@@ -1,1 +1,1 @@
-var mnemonic = "wheel eagle lemon refuse such lumber assist flock urge fuel estate army";
+var mnemonic = "siren sibling reform goat crew unique kite olympic term seven journey diamond";

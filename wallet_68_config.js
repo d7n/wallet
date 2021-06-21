@@ -1,1 +1,1 @@
-var mnemonic = "coil surge health original author assume hen cancel sausage pupil planet vote";
+var mnemonic = "sadness try sentence common game buffalo lizard crew symbol cargo kitten twist";

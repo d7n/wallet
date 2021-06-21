@@ -1,1 +1,1 @@
-var mnemonic = "heavy guilt fog reason zero type dinosaur album attend trial equip empower";
+var mnemonic = "wreck rug pact jazz skirt family spice lucky best circle hole embrace";

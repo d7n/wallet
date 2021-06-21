@@ -1,1 +1,1 @@
-var mnemonic = "vault kingdom vivid frozen push certain piano atom man injury height finger";
+var mnemonic = "asthma margin toy snow announce custom north grant twin cake husband organ";

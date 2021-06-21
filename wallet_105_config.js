@@ -1,1 +1,1 @@
-var mnemonic = "bone bulb bike valley erase hello tragic nasty toss eternal million found";
+var mnemonic = "online replace token rude doll rough add cover hip barely glory sustain";

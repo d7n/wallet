@@ -1,1 +1,1 @@
-var mnemonic = "gain jazz chimney clean settle typical unable zoo swarm return bacon capital";
+var mnemonic = "permit tenant convince debate truth state sword urban trade earth always follow";

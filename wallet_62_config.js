@@ -1,1 +1,1 @@
-var mnemonic = "next finger voyage clever author machine portion fluid expand trophy caught machine";
+var mnemonic = "reunion exercise rabbit mystery insane idle sight clerk win test leg since";

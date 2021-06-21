@@ -1,1 +1,1 @@
-var mnemonic = "uncle round sell relax length jelly result away decrease argue climb tunnel";
+var mnemonic = "improve exhibit wheat coast joke canvas swamp source athlete report invite rug";

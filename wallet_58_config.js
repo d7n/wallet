@@ -1,1 +1,1 @@
-var mnemonic = "method much wrestle glass project aisle process december day know early become";
+var mnemonic = "cat proud throw flock series puzzle control begin walk wild three join";

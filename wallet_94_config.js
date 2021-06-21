@@ -1,1 +1,1 @@
-var mnemonic = "sock address few jump grab bid car sail photo critic flight boy";
+var mnemonic = "suggest feel weather breeze excuse rate border final learn detail dad young";

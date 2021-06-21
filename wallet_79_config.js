@@ -1,1 +1,1 @@
-var mnemonic = "enhance broken loyal ancient project soul humor monster join rose kite illegal";
+var mnemonic = "deposit crucial blush sauce square enemy stick gravity flock act frozen snow";

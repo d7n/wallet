@@ -1,1 +1,1 @@
-var mnemonic = "eight neutral fence they wool wait slight alpha service simple drip affair";
+var mnemonic = "accuse setup wire math library orange robust sudden when another happy sentence";

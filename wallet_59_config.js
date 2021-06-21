@@ -1,1 +1,1 @@
-var mnemonic = "original creek banana mirror useful glad hurdle sheriff turtle beauty near angry";
+var mnemonic = "trophy timber true group picnic spin guess same correct pave observe december";

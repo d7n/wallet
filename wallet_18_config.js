@@ -1,1 +1,1 @@
-var mnemonic = "subject buddy round unlock melt only laptop garment decade reform kidney mule";
+var mnemonic = "mind relax again debris exhaust present right silk boy sound glass brave";

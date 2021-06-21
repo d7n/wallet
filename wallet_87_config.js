@@ -1,1 +1,1 @@
-var mnemonic = "punch absorb south hint deposit coyote glory approve salmon position fun trap";
+var mnemonic = "diagram embrace crawl large unusual sister tube quit silly sand first flip";

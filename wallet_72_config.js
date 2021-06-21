@@ -1,1 +1,1 @@
-var mnemonic = "urban away torch atom since sponsor system opera switch route wolf muffin";
+var mnemonic = "area shiver stem just hazard witness stamp when math skate duck viable";

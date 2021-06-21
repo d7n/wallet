@@ -1,1 +1,1 @@
-var mnemonic = "illness material animal meat soon diamond field globe buzz three chief arctic";
+var mnemonic = "artist arena buyer maze raw risk view behind subject digital proud sustain";

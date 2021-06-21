@@ -1,1 +1,1 @@
-var mnemonic = "use vault fly doll mom control tree spring subway behave quick plastic";
+var mnemonic = "rain also unhappy gasp remind expect sadness eternal kiss buddy observe slice";

@@ -1,1 +1,1 @@
-var mnemonic = "hint post caught limit twelve shop differ tissue fiber next air frog";
+var mnemonic = "magnet gift enlist tube marine lion cabin verify tone home renew nominee";

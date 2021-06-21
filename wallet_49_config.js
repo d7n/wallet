@@ -1,1 +1,1 @@
-var mnemonic = "pause jungle young until awake feel bitter account intact better manage plug";
+var mnemonic = "daring runway source word author tenant alcohol option coast system leopard half";

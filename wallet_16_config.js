@@ -1,1 +1,1 @@
-var mnemonic = "happy wonder next dish ability confirm crop laptop assume salmon mango inner";
+var mnemonic = "blame twice jungle pioneer garbage heavy tumble man history range message cart";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse plastic width royal spend welcome link scissors total mango spin wedding";
+var mnemonic = "various second power review extra wealth boat panel twin develop copper ignore";

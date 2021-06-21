@@ -1,1 +1,1 @@
-var mnemonic = "trip open cloth rough join crazy retire faculty marriage example clarify merge";
+var mnemonic = "open page february inform moon roast ritual that vacuum usage cricket play";

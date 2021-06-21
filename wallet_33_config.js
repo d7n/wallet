@@ -1,1 +1,1 @@
-var mnemonic = "exchange rail advance poet rescue save inject vibrant quiz note denial apple";
+var mnemonic = "theory banana city example olive page eagle magnet depth company spirit canvas";

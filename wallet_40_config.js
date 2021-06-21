@@ -1,1 +1,1 @@
-var mnemonic = "open smile engage jazz person crane fall above chef explain area opera";
+var mnemonic = "cruise annual west laugh middle snack census above tribe earn sea jazz";

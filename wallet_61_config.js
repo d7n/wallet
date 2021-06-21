@@ -1,1 +1,1 @@
-var mnemonic = "border adjust language thrive include dose grape cheese flush club absurd fresh";
+var mnemonic = "spare canyon tragic notice ocean erase cream miss artefact ball shop decorate";

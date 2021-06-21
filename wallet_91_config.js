@@ -1,1 +1,1 @@
-var mnemonic = "advice forum employ timber own myth provide acquire gift section decrease melody";
+var mnemonic = "sight naive plunge rib move online quarter dignity armor muffin idle pioneer";

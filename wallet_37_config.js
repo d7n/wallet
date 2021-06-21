@@ -1,1 +1,1 @@
-var mnemonic = "surge blur clock dizzy acid invest simple thunder payment embark label nurse";
+var mnemonic = "finish flag hour tomato answer script lawsuit metal cereal saddle involve poverty";

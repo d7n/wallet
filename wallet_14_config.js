@@ -1,1 +1,1 @@
-var mnemonic = "voyage flavor creek visual coffee problem session dance sausage unaware shove plunge";
+var mnemonic = "force sun nose language aunt dirt junior transfer thing immune length monitor";

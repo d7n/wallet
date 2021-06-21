@@ -1,1 +1,1 @@
-var mnemonic = "dust laptop save find absorb sibling twice scorpion dolphin battle love glove";
+var mnemonic = "control will mass unit put nuclear wall sun mistake tilt old arrive";

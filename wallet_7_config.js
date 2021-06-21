@@ -1,1 +1,1 @@
-var mnemonic = "valve discover disease sick lunar traffic jeans squeeze amazing arena buyer crouch";
+var mnemonic = "vote glance afford virtual gentle parent icon session home rhythm giraffe subject";

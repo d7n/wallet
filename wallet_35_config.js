@@ -1,1 +1,1 @@
-var mnemonic = "door wrap mystery leopard visual buzz angry clarify dignity used surprise merit";
+var mnemonic = "river promote strike inspire indoor assault patrol vast above library behind wash";

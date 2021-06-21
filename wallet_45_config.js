@@ -1,1 +1,1 @@
-var mnemonic = "loyal win stone random mixture birth dynamic ignore shop crystal wing lesson";
+var mnemonic = "quote argue quiz vicious shadow arrive oven keep govern humble deal step";

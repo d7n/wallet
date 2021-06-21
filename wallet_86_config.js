@@ -1,1 +1,1 @@
-var mnemonic = "evil artist spawn actor voice once faith produce fuel response path depart";
+var mnemonic = "north inhale hollow purpose use human chapter suit engage involve enjoy frown";

@@ -1,1 +1,1 @@
-var mnemonic = "clap attend cinnamon sea dizzy debate hair leg change ridge egg thing";
+var mnemonic = "web cushion zero mouse target canal wreck awful captain adjust survey shove";

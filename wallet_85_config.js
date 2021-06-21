@@ -1,1 +1,1 @@
-var mnemonic = "village purchase silly angry cool chief valve enrich shoot rich north poet";
+var mnemonic = "inhale fiscal orchard obey expand chaos figure slide unfold riot rigid modify";

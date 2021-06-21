@@ -1,1 +1,1 @@
-var mnemonic = "wall model stereo curious teach gold melt spend hamster toast dismiss surface";
+var mnemonic = "unfold pepper legend person lady armed despair fresh jaguar above gun crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "guard race exclude salon carry brown case used wife auction tip news";
+var mnemonic = "expand level minimum ecology surprise improve devote spawn dash mask outdoor inner";

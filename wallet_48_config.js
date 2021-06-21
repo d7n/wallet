@@ -1,1 +1,1 @@
-var mnemonic = "define dad juice eternal scrub view benefit amount hour across welcome wise";
+var mnemonic = "border target eight hotel morning shift token sustain asthma car tired globe";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion penalty sing start glance source mixture reform civil crime spot avocado";
+var mnemonic = "weather sibling fringe army code swear category consider tobacco shoe sorry another";

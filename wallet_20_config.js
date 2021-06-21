@@ -1,1 +1,1 @@
-var mnemonic = "portion topic repair leave that aware issue cool foam evolve collect equal";
+var mnemonic = "cook legal jump occur project despair rigid route admit gym update expire";

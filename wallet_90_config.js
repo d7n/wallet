@@ -1,1 +1,1 @@
-var mnemonic = "pull series puppy one taxi crunch firm scout future bachelor old tourist";
+var mnemonic = "blue other faculty ignore neither current mechanic amused half copper motor dawn";

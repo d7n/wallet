@@ -1,1 +1,1 @@
-var mnemonic = "file term thought enter family joke vibrant school suggest code outdoor negative";
+var mnemonic = "corn valid crawl three deer lock stamp snap grab design earth normal";

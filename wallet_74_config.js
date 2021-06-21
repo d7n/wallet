@@ -1,1 +1,1 @@
-var mnemonic = "print round hour chicken six arctic canoe glad foil enjoy farm novel";
+var mnemonic = "crawl loan afraid clever inflict rice aerobic script under dance love margin";

@@ -1,1 +1,1 @@
-var mnemonic = "property favorite orphan else fly club lizard aisle wrist rapid payment nothing";
+var mnemonic = "lonely finish elevator hundred ankle bottom ahead genius great run odor bleak";

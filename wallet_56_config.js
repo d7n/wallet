@@ -1,1 +1,1 @@
-var mnemonic = "sauce buzz gallery neutral track immense ride gate need maze firm mountain";
+var mnemonic = "fossil mammal common assist lens sea obvious know lonely woman absorb left";

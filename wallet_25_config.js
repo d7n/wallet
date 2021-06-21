@@ -1,1 +1,1 @@
-var mnemonic = "anger oval field file canoe dentist twist replace carpet opinion fault skill";
+var mnemonic = "violin thunder gesture wonder cool false alarm acid swim second damp material";

@@ -1,1 +1,1 @@
-var mnemonic = "lumber margin pumpkin depart clerk shadow satisfy depth hurdle approve leg faint";
+var mnemonic = "summer blind immense sword random mouse slogan dinosaur humble reunion ability glove";

@@ -1,1 +1,1 @@
-var mnemonic = "arm what gadget stick desert frown robot wisdom split film illegal fence";
+var mnemonic = "expand celery evidence drive embark actress cereal category drastic pact good argue";

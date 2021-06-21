@@ -1,1 +1,1 @@
-var mnemonic = "license cheap crack return void orient raw genius blanket satisfy rebel tuna";
+var mnemonic = "renew odor future invite jewel vibrant lyrics antique suspect neck outdoor reunion";

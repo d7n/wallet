@@ -1,1 +1,1 @@
-var mnemonic = "oval topic grace shop unknown arrange code this addict coconut royal best";
+var mnemonic = "hint recall napkin life alpha tennis sense crane various radio garage cupboard";

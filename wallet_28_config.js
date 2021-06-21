@@ -1,1 +1,1 @@
-var mnemonic = "grain domain this goat boring travel rebuild daring raise piano level nephew";
+var mnemonic = "this uphold vacant bounce dumb destroy crunch learn replace sense sponsor confirm";

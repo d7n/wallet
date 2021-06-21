@@ -1,1 +1,1 @@
-var mnemonic = "soldier mobile couch color danger lucky spread sweet elbow era nice wealth";
+var mnemonic = "best bright bonus weasel latin enforce carpet scissors finger diary across science";

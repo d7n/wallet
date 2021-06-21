@@ -1,1 +1,1 @@
-var mnemonic = "gas walnut food mango ice little explain few donor donkey enroll equal";
+var mnemonic = "curious brave grid galaxy stable often ethics orchard wealth exotic object hunt";

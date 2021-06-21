@@ -1,1 +1,1 @@
-var mnemonic = "warrior galaxy citizen ability profit weekend acid zoo festival mutual disorder mail";
+var mnemonic = "salt rice shrimp drum burden film avoid silly sphere degree chase olive";

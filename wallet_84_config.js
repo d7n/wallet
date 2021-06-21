@@ -1,1 +1,1 @@
-var mnemonic = "flame gadget differ educate weekend raccoon grocery can glue grocery head tape";
+var mnemonic = "rubber spare embrace warfare normal ready blur depend vibrant glue usage flip";

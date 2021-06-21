@@ -1,1 +1,1 @@
-var mnemonic = "doctor cliff finish twice bread cinnamon mistake believe spatial transfer latin bar";
+var mnemonic = "parrot urban term pony subway surround buyer arrest kidney wheel place bean";

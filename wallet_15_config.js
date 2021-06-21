@@ -1,1 +1,1 @@
-var mnemonic = "catch silver favorite uncover cloud appear fly box know scissors earth obtain";
+var mnemonic = "illness mirror census prefer key glance long jazz absent various tuna army";

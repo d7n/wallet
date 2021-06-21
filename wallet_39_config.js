@@ -1,1 +1,1 @@
-var mnemonic = "version hazard art analyst either alone build among liberty need huge rate";
+var mnemonic = "ramp slender coral decade expire credit solid nice aim deliver three wish";

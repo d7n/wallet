@@ -1,1 +1,1 @@
-var mnemonic = "exercise liar witness zoo square tiny this jeans bitter cupboard silver topic";
+var mnemonic = "tip fiction kitten rib tissue card spend topple movie cycle shoot shadow";

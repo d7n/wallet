@@ -1,1 +1,1 @@
-var mnemonic = "useless burst hope draft borrow supply boost clay crawl urge employ van";
+var mnemonic = "mind strategy siege betray surface crumble curve host rug always oppose ride";

@@ -1,1 +1,1 @@
-var mnemonic = "gauge design runway borrow credit solution feature sibling window stamp train melt";
+var mnemonic = "rug vacuum chicken turn seek globe sample repeat wheat measure bring dose";

@@ -1,1 +1,1 @@
-var mnemonic = "odor either student december since accident second lawn bomb bind pattern correct";
+var mnemonic = "bench quantum april quantum crime spoil fork trial monitor angle all remain";

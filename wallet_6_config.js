@@ -1,1 +1,1 @@
-var mnemonic = "thought meat vibrant tell slender wisdom trial promote dress about interest potato";
+var mnemonic = "room address prevent model dutch ring cement industry inside purity pole express";

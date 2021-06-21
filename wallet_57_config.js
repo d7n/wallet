@@ -1,1 +1,1 @@
-var mnemonic = "bachelor yard carry forget craft grain country train time frost word rubber";
+var mnemonic = "faculty frozen frozen tortoise purchase gift fame hour like elite fire kiss";

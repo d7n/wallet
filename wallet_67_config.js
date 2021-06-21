@@ -1,1 +1,1 @@
-var mnemonic = "model small bundle vendor west egg gadget earn crush sail distance spike";
+var mnemonic = "sure coyote grab real mule alcohol decrease thunder pave oxygen air add";

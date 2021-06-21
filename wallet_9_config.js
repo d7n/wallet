@@ -1,1 +1,1 @@
-var mnemonic = "knee sun elbow soon salt squeeze book valve attract panic always bar";
+var mnemonic = "loud betray unique dad symbol grass maple real test female about sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit path grape spray renew happy accident crane industry various music major";
+var mnemonic = "rally cross slab parade various proof meat brisk someone industry good pet";

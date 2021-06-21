@@ -1,1 +1,1 @@
-var mnemonic = "paper chalk boil system employ hockey labor panic type wagon town venture";
+var mnemonic = "theory wonder bless ten hotel gospel whale crash quiz trumpet cream peace";

@@ -1,1 +1,1 @@
-var mnemonic = "evil champion utility surge slide foster town film bulk cousin total echo";
+var mnemonic = "bus music host someone foam pond ankle charge impose smile lizard yard";

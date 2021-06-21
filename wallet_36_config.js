@@ -1,1 +1,1 @@
-var mnemonic = "prison mansion mansion exercise ten trend favorite utility tiny guide project flash";
+var mnemonic = "swamp recycle casual pact forward security female pipe life airport affair endorse";

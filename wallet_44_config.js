@@ -1,1 +1,1 @@
-var mnemonic = "program million suffer busy setup frost near move later injury chapter drum";
+var mnemonic = "spy mix confirm rubber unfair toe someone trim turtle puppy shrug decorate";

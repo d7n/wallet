@@ -1,1 +1,1 @@
-var mnemonic = "that extend hold obey onion program crumble marble misery team laundry light";
+var mnemonic = "consider deal hole history harvest column betray aim short fade trumpet timber";

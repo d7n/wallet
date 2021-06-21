@@ -1,1 +1,1 @@
-var mnemonic = "tape fury churn stick chronic decorate alone nut pepper hockey width razor";
+var mnemonic = "machine wine dust gold flame brick vibrant excuse people ginger only hospital";

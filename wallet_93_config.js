@@ -1,1 +1,1 @@
-var mnemonic = "example couch bird era aunt summer lunch olympic device reduce shiver nerve";
+var mnemonic = "chimney put original kidney lunch wagon pony weekend work address rigid dynamic";

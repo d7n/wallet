@@ -1,1 +1,1 @@
-var mnemonic = "chest aware idle immense timber boat boss clarify tomato angry distance other";
+var mnemonic = "elephant snack mother anger entire require rather three dial staff muffin into";

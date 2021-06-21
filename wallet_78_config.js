@@ -1,1 +1,1 @@
-var mnemonic = "brave concert nice pear act furnace matrix canvas teach female lecture filter";
+var mnemonic = "hope post canoe fence rice stomach fan match wait opinion attract harbor";

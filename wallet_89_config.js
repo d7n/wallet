@@ -1,1 +1,1 @@
-var mnemonic = "waste web garlic city whip physical water deal pear forget depart virtual";
+var mnemonic = "aisle various recycle plastic dumb shove gesture clog wash sing drive bar";

@@ -1,1 +1,1 @@
-var mnemonic = "rain trophy educate ozone work dish bronze hammer review ahead suspect initial";
+var mnemonic = "voyage define later problem worth glow polar short post bless country wasp";

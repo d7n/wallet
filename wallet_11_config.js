@@ -1,1 +1,1 @@
-var mnemonic = "day state potato base vast tag drift surround stereo flat magnet forum";
+var mnemonic = "valid turn entry gain spray cage word jelly affair ecology dolphin guard";

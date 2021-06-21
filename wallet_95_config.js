@@ -1,1 +1,1 @@
-var mnemonic = "they embrace immune guilt visual success cart sorry whale nothing furnace intact";
+var mnemonic = "border knock copper afraid suffer title trap solution assault stove slab detail";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed dove deer model chat opera secret resist tunnel soda agree victory";
+var mnemonic = "soldier hold attend dinosaur super clever ring violin income ceiling lucky grain";

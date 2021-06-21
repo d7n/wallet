@@ -1,1 +1,1 @@
-var mnemonic = "critic snow club option cheese clown carry upper knee soon exhibit dawn";
+var mnemonic = "mystery image voice side then transfer poet robust churn permit lock certain";

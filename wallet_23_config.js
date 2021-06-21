@@ -1,1 +1,1 @@
-var mnemonic = "among patch style turtle warfare wreck excess typical they smoke steak noise";
+var mnemonic = "claw then drive dream vessel cigar book emerge illegal crowd syrup alien";

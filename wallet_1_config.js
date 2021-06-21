@@ -1,1 +1,1 @@
-var mnemonic = "inside reflect letter flock rural define shell pluck blush grace decade scrub";
+var mnemonic = "there icon matter peanut dance wolf view stock kidney crystal solve mention";

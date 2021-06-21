@@ -1,1 +1,1 @@
-var mnemonic = "olympic any hunt palm dilemma unknown agree zebra print spread corn sort";
+var mnemonic = "arch beach visit win dish install agent west erase goat fiction blossom";

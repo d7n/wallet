@@ -1,1 +1,1 @@
-var mnemonic = "task hunt sunny monster suspect hold proud know anxiety twin glide raise";
+var mnemonic = "replace squirrel energy label practice cake wine barely render addict adult skill";

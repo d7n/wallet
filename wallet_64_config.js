@@ -1,1 +1,1 @@
-var mnemonic = "wolf various minimum habit since void enrich upper quiz seven enter bargain";
+var mnemonic = "bike actress grace wine once law grain loan suit build clock jazz";
