@@ -1,1 +1,1 @@
-var mnemonic = "salad patrol blade unique wrap destroy oyster panther huge trip online patient";
+var mnemonic = "notable memory maze light target twist grocery attract salt mixed helmet slam";

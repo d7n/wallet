@@ -1,1 +1,1 @@
-var mnemonic = "apology shoe steel field sphere frog disease reflect bunker assume engage sand";
+var mnemonic = "fluid helmet similar orient law cactus inform arch gentle town clock worry";

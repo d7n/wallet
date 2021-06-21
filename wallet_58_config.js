@@ -1,1 +1,1 @@
-var mnemonic = "giant impose display stairs exhaust rely seven bracket tide grace fragile flag";
+var mnemonic = "elder decide potato april disease melody potato penalty aunt inherit broccoli reform";

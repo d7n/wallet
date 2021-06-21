@@ -1,1 +1,1 @@
-var mnemonic = "laugh broccoli razor mandate uncover inhale goose weapon rebuild license saddle leave";
+var mnemonic = "merit group egg rail stove trade post increase arch nephew list cruel";

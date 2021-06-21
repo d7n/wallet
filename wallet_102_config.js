@@ -1,1 +1,1 @@
-var mnemonic = "denial document winner vehicle broken spin another congress wool soul drive scissors";
+var mnemonic = "grace identify disagree hour light giggle drill eternal proof left liar shadow";

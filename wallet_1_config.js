@@ -1,1 +1,1 @@
-var mnemonic = "bike brother peasant loud all super fortune remain measure tomato decide require";
+var mnemonic = "online popular federal analyst van bamboo boring thing business moment old nose";

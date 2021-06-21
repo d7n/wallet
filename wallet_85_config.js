@@ -1,1 +1,1 @@
-var mnemonic = "flag patient stay allow athlete hurry shoot drum collect dynamic present sorry";
+var mnemonic = "gas rough acquire traffic club valid forum gown sock habit real disorder";

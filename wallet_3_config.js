@@ -1,1 +1,1 @@
-var mnemonic = "flame domain employ over joke agent long panther dry sell wasp easily";
+var mnemonic = "balcony special stuff project below ugly neutral also gentle neutral oblige kiss";

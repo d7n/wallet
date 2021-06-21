@@ -1,1 +1,1 @@
-var mnemonic = "firm salute soup object hedgehog clarify belt oak hero muffin claw chat";
+var mnemonic = "negative fragile cover valley exercise carpet gadget swing enroll wasp comic abstract";

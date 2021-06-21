@@ -1,1 +1,1 @@
-var mnemonic = "injury license fame melt magic pigeon clever industry unknown bike impact chair";
+var mnemonic = "salad harvest retreat record age satisfy chapter delay tourist second define gym";

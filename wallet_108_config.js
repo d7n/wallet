@@ -1,1 +1,1 @@
-var mnemonic = "boring assume muscle advance display observe utility post drip bus hedgehog issue";
+var mnemonic = "have maximum bargain marriage spatial regret puzzle wash palm wealth mammal fancy";

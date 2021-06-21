@@ -1,1 +1,1 @@
-var mnemonic = "hip two depart harsh off orange liar help axis slot army until";
+var mnemonic = "throw prevent guilt tree theme code distance pistol produce lamp basket cause";

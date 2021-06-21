@@ -1,1 +1,1 @@
-var mnemonic = "post sad tide protect thrive absorb toward tackle six tag sense notable";
+var mnemonic = "south matter work medal mind shrug symptom veteran canal aim ceiling language";

@@ -1,1 +1,1 @@
-var mnemonic = "ahead network inner bus pattern embrace clutch moment furnace never solid thumb";
+var mnemonic = "salon large make apology crawl crumble develop easily small ball shy leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp tape exhibit unusual card just crunch trial annual point visa else";
+var mnemonic = "bitter strategy swap exact cover enjoy arena grace casual pepper win despair";

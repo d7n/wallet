@@ -1,1 +1,1 @@
-var mnemonic = "very sphere debate ready staff frog panther effort country head dolphin vital";
+var mnemonic = "ketchup brand dentist wear world dismiss child filter amazing mosquito blouse arena";

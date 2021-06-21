@@ -1,1 +1,1 @@
-var mnemonic = "float clock law torch crunch ordinary useless help egg hub walk flash";
+var mnemonic = "sentence list patch furnace crater belt flower fresh net swallow seminar museum";

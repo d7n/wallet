@@ -1,1 +1,1 @@
-var mnemonic = "wife custom know mosquito once life address blush close noodle essay proof";
+var mnemonic = "junk forget toilet runway please feed mail lawsuit castle wink tackle lawsuit";

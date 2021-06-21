@@ -1,1 +1,1 @@
-var mnemonic = "cycle cruise bar negative park master adjust discover chronic two rare warfare";
+var mnemonic = "bulb chest target random maple useful work cancel enrich snap sword diamond";

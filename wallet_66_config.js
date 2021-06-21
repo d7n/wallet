@@ -1,1 +1,1 @@
-var mnemonic = "process vessel behind churn shadow afford today dinner game egg cinnamon nice";
+var mnemonic = "situate stock spider across clap radio kitten clerk fashion beyond assist leg";

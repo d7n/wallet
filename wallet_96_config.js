@@ -1,1 +1,1 @@
-var mnemonic = "small seven student ten recycle north two december furnace host ensure pull";
+var mnemonic = "brass art torch west hurdle patrol choice tonight begin vessel agree balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "salon story possible project lucky swallow solid police toilet again decrease foil";
+var mnemonic = "uncover bundle leader bone return thank glide awful satisfy year vague cotton";

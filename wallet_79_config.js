@@ -1,1 +1,1 @@
-var mnemonic = "network firm truly rescue solve planet alley bridge donkey home hint acquire";
+var mnemonic = "friend energy now document famous genius again three tray memory country gasp";

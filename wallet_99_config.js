@@ -1,1 +1,1 @@
-var mnemonic = "marriage rich return dumb excuse juice raven wave ladder salt child street";
+var mnemonic = "skirt grab exit differ balance together fresh earth gesture live magic unable";

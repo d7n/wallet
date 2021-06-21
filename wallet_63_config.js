@@ -1,1 +1,1 @@
-var mnemonic = "giraffe flush bike manage metal scheme original paper metal jungle shed friend";
+var mnemonic = "senior tragic dilemma orphan hire swarm field february music middle census parade";

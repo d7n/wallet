@@ -1,1 +1,1 @@
-var mnemonic = "unit close zero muffin recycle acoustic monkey mutual code universe metal ugly";
+var mnemonic = "improve spare someone together cancel wheat curve join peanut raven town frog";

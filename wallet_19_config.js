@@ -1,1 +1,1 @@
-var mnemonic = "hat owner tornado august bring round tide account hint matter shy elephant";
+var mnemonic = "claim move goose pelican ice element believe view light relax alley near";

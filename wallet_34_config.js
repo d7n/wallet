@@ -1,1 +1,1 @@
-var mnemonic = "lucky great pear fitness arrow wreck picnic merry chair student alone foil";
+var mnemonic = "main frequent session bone person script wash else divorce garden just happy";

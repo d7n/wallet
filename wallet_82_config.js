@@ -1,1 +1,1 @@
-var mnemonic = "song scrap rug initial warfare warrior humble hurry put begin similar move";
+var mnemonic = "remove essence bottom type wrestle vicious actor recycle view home expand memory";

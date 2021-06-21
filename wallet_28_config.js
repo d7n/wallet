@@ -1,1 +1,1 @@
-var mnemonic = "cloud regular settle lawsuit garden round indoor theory together special gossip what";
+var mnemonic = "narrow woman happy sun pottery hood again polar ordinary coast decide agent";

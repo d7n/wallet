@@ -1,1 +1,1 @@
-var mnemonic = "menu during brave whisper degree sunset defy love tired limit check glue";
+var mnemonic = "affair squeeze slide burst neglect april renew short alpha maple pave chicken";

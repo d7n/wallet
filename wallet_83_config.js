@@ -1,1 +1,1 @@
-var mnemonic = "scale birth blood shine fossil undo glimpse expand earth hen scatter wise";
+var mnemonic = "benefit base assist issue eagle sketch ceiling miss capital estate deny gun";

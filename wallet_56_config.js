@@ -1,1 +1,1 @@
-var mnemonic = "vote pulp portion rug danger move record thunder notable genius trouble action";
+var mnemonic = "erase skull scare slight answer hobby stable arrange pilot rare web toward";

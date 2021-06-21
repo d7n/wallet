@@ -1,1 +1,1 @@
-var mnemonic = "trap pride install large sing yellow scorpion kick electric satisfy pudding main";
+var mnemonic = "lunar announce write canoe hip domain decline blanket toy drink very smooth";

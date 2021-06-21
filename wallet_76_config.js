@@ -1,1 +1,1 @@
-var mnemonic = "window knee surround used find napkin leisure cable hollow arctic smile snake";
+var mnemonic = "deputy drama inflict pass term program address mask easy any tide toddler";

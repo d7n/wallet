@@ -1,1 +1,1 @@
-var mnemonic = "spray process below danger praise trigger often town add hill thunder ribbon";
+var mnemonic = "silly loop doctor brass satoshi used guess glove lab favorite oblige crisp";

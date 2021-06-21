@@ -1,1 +1,1 @@
-var mnemonic = "party fresh private unknown scene uniform echo enough absent day helmet biology";
+var mnemonic = "turn click junior garden change jacket supply slow gas radio science leave";

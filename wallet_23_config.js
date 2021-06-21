@@ -1,1 +1,1 @@
-var mnemonic = "wagon increase tongue egg juice error bleak combine quit begin yellow cage";
+var mnemonic = "width law click company lady input inflict pledge butter boss innocent candy";

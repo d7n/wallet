@@ -1,1 +1,1 @@
-var mnemonic = "print crack people dust usual caught someone dune rebuild moment glance subway";
+var mnemonic = "crouch fire genre forward judge father giggle lounge return install betray era";

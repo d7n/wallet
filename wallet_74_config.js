@@ -1,1 +1,1 @@
-var mnemonic = "cradle risk unknown balance base hockey tennis until false moment this solar";
+var mnemonic = "alone key egg month frog coconut orange post false neck scissors letter";

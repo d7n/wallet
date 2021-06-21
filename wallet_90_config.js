@@ -1,1 +1,1 @@
-var mnemonic = "column expand hero negative alley melt submit country clay blue man kid";
+var mnemonic = "kingdom upper cancel salmon hover entry embody sweet service analyst cash couch";

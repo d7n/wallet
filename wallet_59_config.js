@@ -1,1 +1,1 @@
-var mnemonic = "viable spin whip add exhaust limit mansion increase frost slab humor light";
+var mnemonic = "uphold slot then return slow reject humble perfect gate drift trim forest";

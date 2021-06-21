@@ -1,1 +1,1 @@
-var mnemonic = "fit shed fury law hair napkin giggle wait little salt dove end";
+var mnemonic = "tumble enrich until moral square kite chest merry bottom reveal zebra crouch";

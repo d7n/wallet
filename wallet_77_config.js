@@ -1,1 +1,1 @@
-var mnemonic = "plate orient alarm bitter practice blind matter hill mouse work company piano";
+var mnemonic = "problem wrap hard wood pretty rabbit quantum spot fortune habit among vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "grit mail patch adjust truly choose mango clean toddler mercy genre swear";
+var mnemonic = "debate camera boat wrist month aspect impose pause cherry envelope when nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss neglect quiz shrimp medal rude engine shop lesson mutual turkey fitness";
+var mnemonic = "weapon attract ceiling world curve sausage pill cement quality sponsor ginger swap";

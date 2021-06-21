@@ -1,1 +1,1 @@
-var mnemonic = "thought cost sing true usage cream clarify aware have sail guard achieve";
+var mnemonic = "thought sadness provide bless shaft fortune three protect better solve duty key";

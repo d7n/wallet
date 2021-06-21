@@ -1,1 +1,1 @@
-var mnemonic = "viable keep debate basket admit require fly announce noble film chase decrease";
+var mnemonic = "describe endorse night come album shiver sound emotion machine devote arctic drill";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen pact damp force city brisk ask phrase mixture reform public tray";
+var mnemonic = "antique ahead drum inject extra hover kingdom true peanut power student enemy";

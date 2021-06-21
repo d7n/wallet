@@ -1,1 +1,1 @@
-var mnemonic = "moon gun pulp below farm scene leisure hip rebel chest above easy";
+var mnemonic = "giant shine scheme list boy swift already spy crew fury guess guitar";

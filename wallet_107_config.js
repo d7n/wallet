@@ -1,1 +1,1 @@
-var mnemonic = "coral squirrel cluster trust honey pyramid trend runway tired calm dolphin portion";
+var mnemonic = "awful report dash lumber weather front hip phone cushion tonight victory stage";

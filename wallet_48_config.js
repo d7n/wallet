@@ -1,1 +1,1 @@
-var mnemonic = "figure betray repeat cannon office way train pitch inject fashion rabbit metal";
+var mnemonic = "artwork glance income wash town issue agree laptop snap tube paddle hollow";

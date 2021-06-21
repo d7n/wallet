@@ -1,1 +1,1 @@
-var mnemonic = "target enlist crater perfect shop buddy arch ghost crop tube buzz share";
+var mnemonic = "duty ivory rifle trend waste crouch vocal giggle dilemma rain drama cargo";

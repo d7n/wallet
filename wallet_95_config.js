@@ -1,1 +1,1 @@
-var mnemonic = "learn health cloud lend mad nominee dragon invest tissue olive never hospital";
+var mnemonic = "liquid employ fire deputy toe caution drive unique click neither multiply convince";

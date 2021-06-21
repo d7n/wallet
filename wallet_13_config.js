@@ -1,1 +1,1 @@
-var mnemonic = "flavor income deposit dinosaur evoke toward loyal oil radar remain shine mean";
+var mnemonic = "either way enforce pyramid correct cluster fix transfer churn release junior immense";

@@ -1,1 +1,1 @@
-var mnemonic = "thank never remember key dance shiver marble thrive sample cat relief salon";
+var mnemonic = "coyote acoustic canal brisk slogan firm arch cabbage ethics model boil hurt";

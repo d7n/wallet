@@ -1,1 +1,1 @@
-var mnemonic = "rookie wonder decide evolve depart system unusual clay can axis point intact";
+var mnemonic = "net glare lottery slab burger fade theory immense love empty visual nut";

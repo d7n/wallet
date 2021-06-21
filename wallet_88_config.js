@@ -1,1 +1,1 @@
-var mnemonic = "crane surface senior salt amateur scare consider west example slab electric tube";
+var mnemonic = "echo captain donkey keep body tomato detail essay error novel knee mom";

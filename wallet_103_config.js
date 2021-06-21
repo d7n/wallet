@@ -1,1 +1,1 @@
-var mnemonic = "enrich share drill fine fence danger buddy capable music slim analyst step";
+var mnemonic = "phone unique rice gorilla shrug hello trust include win cotton motion viable";

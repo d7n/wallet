@@ -1,1 +1,1 @@
-var mnemonic = "cargo devote rare mix jar vehicle muscle laundry escape wish abstract plate";
+var mnemonic = "notable avocado nation worth visit emerge aware raccoon dog pluck amount review";

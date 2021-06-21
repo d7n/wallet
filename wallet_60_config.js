@@ -1,1 +1,1 @@
-var mnemonic = "tree put melt rack inquiry window miss afford muscle finger broken desert";
+var mnemonic = "choice plug ancient almost divide image advance curious pond ability shiver upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "session room gate impose adjust stairs arrow thunder dose pen swim mesh";
+var mnemonic = "frost awful talent science fire voice ivory hand also blind clean sweet";

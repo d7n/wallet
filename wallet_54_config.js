@@ -1,1 +1,1 @@
-var mnemonic = "street little clinic patch woman fat buyer box welcome unknown deal misery";
+var mnemonic = "spirit frozen tissue spike foil resist local tortoise liar double shiver patient";

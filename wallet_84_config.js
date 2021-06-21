@@ -1,1 +1,1 @@
-var mnemonic = "sniff soldier atom first force please damp home smart process hold enough";
+var mnemonic = "office paddle ozone music company law garage memory silly boat skate cup";

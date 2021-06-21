@@ -1,1 +1,1 @@
-var mnemonic = "argue salmon foot art frost leisure kiwi address another intact cousin nominee";
+var mnemonic = "type funny road veteran eager diamond own lesson miss broom impulse marine";

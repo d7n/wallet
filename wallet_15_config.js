@@ -1,1 +1,1 @@
-var mnemonic = "frozen knock river scrub fruit edge raw muscle rubber seek proud kingdom";
+var mnemonic = "scrap cable fit spare drastic paper patch more spice bean assist recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "group fresh alarm change addict excess accident hunt describe sentence stuff hood";
+var mnemonic = "salute exile stay flash tag join frown away health appear transfer gain";

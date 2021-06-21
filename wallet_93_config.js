@@ -1,1 +1,1 @@
-var mnemonic = "kingdom wisdom lecture glass pizza weapon edit noble wealth release attract juice";
+var mnemonic = "slab tube report crouch trust flame chief rare slow motor decide fox";

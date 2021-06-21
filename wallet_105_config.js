@@ -1,1 +1,1 @@
-var mnemonic = "final school lawn ancient suspect sauce rare oyster bench seven wonder stadium";
+var mnemonic = "call photo guard unit fossil close moon sphere frozen federal injury sail";

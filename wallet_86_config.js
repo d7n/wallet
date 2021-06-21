@@ -1,1 +1,1 @@
-var mnemonic = "pluck ozone stumble swift memory menu bulb duty crack taste doll crush";
+var mnemonic = "lawsuit approve motor panel brain call canvas episode nothing drink social gap";

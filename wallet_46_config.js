@@ -1,1 +1,1 @@
-var mnemonic = "prevent ten record toy quality immune anchor bracket museum ghost rocket distance";
+var mnemonic = "brand valley upset wire razor skate mirror rapid speak enact nephew quick";

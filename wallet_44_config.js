@@ -1,1 +1,1 @@
-var mnemonic = "nuclear quiz express wrist transfer morning brother swallow yellow mountain small music";
+var mnemonic = "never mail dance wish museum route saddle sell ticket nature dawn pole";

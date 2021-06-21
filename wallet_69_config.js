@@ -1,1 +1,1 @@
-var mnemonic = "attitude account frame lift analyst image good gauge target ranch bar tribe";
+var mnemonic = "someone spell purpose scout coyote differ cover forward butter adapt earn defense";

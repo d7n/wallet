@@ -1,1 +1,1 @@
-var mnemonic = "text network divert carbon design creek unhappy segment entry sustain price drum";
+var mnemonic = "laptop cheap afraid famous bone between other require dirt open culture item";

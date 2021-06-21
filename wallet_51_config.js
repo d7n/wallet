@@ -1,1 +1,1 @@
-var mnemonic = "brand video oven cover coach inject person purse cousin load obey amazing";
+var mnemonic = "snack casual trim bid biology actual episode tornado render open marine work";

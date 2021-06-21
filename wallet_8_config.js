@@ -1,1 +1,1 @@
-var mnemonic = "rather harbor avocado during host tent concert opinion forest rough detail rent";
+var mnemonic = "anger actor series mushroom silent company prosper heavy lawn cinnamon leisure scheme";

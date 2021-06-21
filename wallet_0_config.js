@@ -1,1 +1,1 @@
-var mnemonic = "solar fluid general life search evidence fancy desert couch fortune cluster drastic";
+var mnemonic = "drama eyebrow grief cluster census purchase lyrics bean miss swear arena summer";

@@ -1,1 +1,1 @@
-var mnemonic = "want submit sport earn wrist cotton useless behave melody dry art scheme";
+var mnemonic = "evil acquire mom budget fatal witness pull identify used orange similar hover";

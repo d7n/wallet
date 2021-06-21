@@ -1,1 +1,1 @@
-var mnemonic = "aim ordinary shoe luxury motion express envelope hand monkey whale resemble prefer";
+var mnemonic = "defy neutral glue reward clerk goose daughter language camp recipe road car";

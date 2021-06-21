@@ -1,1 +1,1 @@
-var mnemonic = "crash galaxy blind flower cart million distance abstract any dismiss eagle bar";
+var mnemonic = "acquire embark emotion buyer awake catch onion normal another random during tourist";

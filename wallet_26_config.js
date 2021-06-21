@@ -1,1 +1,1 @@
-var mnemonic = "empty wall two galaxy bargain file chest insect know crew dinner gap";
+var mnemonic = "trouble laugh flat grief matrix term shoulder pyramid sell winner sock inch";

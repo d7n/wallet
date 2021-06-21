@@ -1,1 +1,1 @@
-var mnemonic = "high basket credit lyrics gadget pen hat double cloth melody bounce maple";
+var mnemonic = "connect perfect wish dinosaur broken plate page artist venue put fork inflict";

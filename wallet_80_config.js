@@ -1,1 +1,1 @@
-var mnemonic = "case spirit chief fold intact draw cook athlete giraffe bullet analyst elevator";
+var mnemonic = "spread net flag silly brief vague marble column fat increase february genuine";

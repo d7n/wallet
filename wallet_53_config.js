@@ -1,1 +1,1 @@
-var mnemonic = "bike assist crouch alien electric milk charge legend unable worth drip frame";
+var mnemonic = "unit use school wool mushroom wall foam noble tornado crumble skate calm";

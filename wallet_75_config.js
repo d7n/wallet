@@ -1,1 +1,1 @@
-var mnemonic = "fossil joke soda whale supply immense rail ozone sick critic sock avocado";
+var mnemonic = "endless quiz solar surface surface reopen lift battle misery public excess lesson";

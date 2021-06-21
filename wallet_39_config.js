@@ -1,1 +1,1 @@
-var mnemonic = "ahead blossom between unable economy wall lazy miracle science flee gift panther";
+var mnemonic = "hundred trick hint cool stool clock coil okay camera abandon excess multiply";

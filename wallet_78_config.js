@@ -1,1 +1,1 @@
-var mnemonic = "erupt fine decrease camera ball wolf margin beyond act cable recall aspect";
+var mnemonic = "six muffin image jeans trust helmet rib envelope harvest casino neglect spray";

@@ -1,1 +1,1 @@
-var mnemonic = "appear animal eye august brush disagree boat buddy soon weapon color ketchup";
+var mnemonic = "apple silly glare lava diamond canvas barely idle cannon style tourist potato";

@@ -1,1 +1,1 @@
-var mnemonic = "journey extend special select space illness glare example swim attend dragon ill";
+var mnemonic = "adapt path clog option seminar between curve retire hobby work embark flat";

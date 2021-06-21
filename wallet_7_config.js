@@ -1,1 +1,1 @@
-var mnemonic = "buddy fame pilot reflect regret scout skate nurse cloth fiction famous direct";
+var mnemonic = "unhappy sweet lend memory basket exact dash real siren super damage total";

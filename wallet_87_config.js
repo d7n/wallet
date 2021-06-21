@@ -1,1 +1,1 @@
-var mnemonic = "later share toy reform august swamp can ask soap mushroom science lounge";
+var mnemonic = "acid scan visa tuition retreat fault stem basic craft dumb inherit curious";

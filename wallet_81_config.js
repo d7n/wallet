@@ -1,1 +1,1 @@
-var mnemonic = "lava hawk thought cushion remind impose clean cycle reunion awkward warrior middle";
+var mnemonic = "stool flat bean account egg abstract crystal replace recipe bitter panther label";

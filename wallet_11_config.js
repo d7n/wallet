@@ -1,1 +1,1 @@
-var mnemonic = "apology antenna seek card armed sentence clean kidney pond prefer affair topic";
+var mnemonic = "reform elite soap swap oak endorse soon random surge maze accident laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "insane first assume prosper train cable unlock fault version call tackle market";
+var mnemonic = "neutral carry depend film sister income vendor discover mouse boat close south";

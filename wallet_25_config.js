@@ -1,1 +1,1 @@
-var mnemonic = "type close garden coast diagram soda ski book verb face host grit";
+var mnemonic = "afraid problem pluck frozen visual road concert insect cute frame people harvest";
